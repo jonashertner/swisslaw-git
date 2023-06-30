@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230123-fr-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230701-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 23 janvier 2023)
+du 21 décembre 1937 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1156,35 +1156,41 @@ Elle prend la décision selon l’al. 1 en se fondant sur:
 Le juge expulse de Suisse l’étranger qui est condamné pour l’une des infractions suivantes, quelle que soit la quotité de la peine prononcée à son encontre, pour une durée de cinq à quinze ans:
 
 - a. meurtre (art. 111), assassinat (art. 112), meurtre passionnel (art. 113), incitation et assistance au suicide (art. 115), interruption de grossesse punissable (art. 118, al. 1 et 2);
-- b. lésions corporelles graves (art. 122), mutilation d’organes génitaux féminins (art. 124, al. 1), exposition (art. 127), mise en danger de la vie d’autrui (art. 129), aggression (art. 134);
-- c. abus de confiance qualifié (art. 138, ch. 2), vol qualifié (art. 139, ch. 2 et 3), brigandage (art. 140), escroquerie par métier (art. 146, al. 2), utilisation frauduleuse d’un ordinateur par métier (art. 147, al. 2), abus de cartes-chèques ou de cartes de crédit par métier (art. 148, al. 2), extorsion et chantage qualifiés (art. 156, ch. 2 à 4), usure par métier (art. 157, ch. 2), recel par métier (art. 160, ch. 2);
+- b.[^66a-2] lésions corporelles graves (art. 122), mutilation d’organes génitaux féminins (art. 124, al. 1), exposition (art. 127), mise en danger de la vie d’autrui (art. 129), agression (art. 134), représentation de la violence (art. 135, al. 1, 2<sup>e</sup> phrase);
+- c.[^66a-3] abus de confiance qualifié (art. 138, ch. 2), vol qualifié (art. 139, ch. 3), brigandage (art. 140), escroquerie par métier (art. 146, al. 2), utilisation frauduleuse d’un ordinateur par métier (art. 147, al. 2), abus de cartes-chèques et de cartes de crédit par métier (art. 148, al. 2), extorsion et chantage qualifiés (art. 156, ch. 2 à 4), usure par métier (art. 157, ch. 2), recel par métier (art. 160, ch. 2);
 - d. vol (art. 139) en lien avec une violation de domicile (art. 186);
 - e. escroquerie (art. 146, al. 1) à une assurance sociale ou à l’aide sociale, obtention illicite de prestations d’une assurance sociale ou de l’aide sociale (art. 148*a*, al. 1);
-- f. escroquerie (art. 146, al. 1), escroquerie en matière de prestations et de contributions (art. 14, al. 1, 2 et 4, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^66a-2]), fraude fiscale, détournement de l’impôt à la source ou autre infraction en matière de contributions de droit public passible d’une peine privative de liberté maximale d’un an ou plus;
+- f.[^66a-4] escroquerie (art. 146, al. 1), escroquerie en matière de prestations et de contributions (art. 14, al. 1 à 3, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^66a-5]), fraude fiscale, détournement de l’impôt à la source ou autre infraction en matière de contributions de droit public passible d’une peine privative de liberté maximale d’un an ou plus;
 - g. mariage forcé, partenariat forcé (art. 181*a*), traite d’êtres humains (art. 182), séquestration et enlèvement (art. 183), séquestration et enlèvement qualifiés (art. 184), prise d’otage (art. 185);
-- h.[^66a-3] actes d’ordre sexuel avec des enfants (art. 187, ch. 1), contrainte sexuelle (art. 189), viol (art. 190), actes d’ordre sexuel commis sur une personne incapable de discernement ou de résistance (art. 191), encouragement à la prostitution (art. 195), pornographie (art. 197, al. 4, 2<sup>e</sup> phrase);
-- i. incendie intentionnel (art. 221, al. 1 et 2), explosion intentionnelle (art. 223, ch. 1, al. 1), emploi, avec dessein délictueux, d’explosifs ou de gaz toxiques (art. 224, al. 1), emploi intentionnel sans dessein délictueux (art. 225, al. 1), fabriquer, dissimuler et transporter des explosifs ou des gaz toxiques (art. 226), danger imputable à l’énergie nucléaire, à la radioactivité et aux rayonnements ionisants (art. 226<sup>bis</sup>), actes préparatoires punissables (art. 226<sup>ter</sup>), inondation, écroulement causés intentionnellement (art. 227, ch. 1, al. 1), dommages intentionnels aux installations électriques, travaux hydrauliques et ouvrages de protection (art. 228, ch. 1, al. 1);
-- j. mise en danger intentionnelle par des organismes génétiquement modifiés ou pathogènes (art. 230<sup>bis</sup>, al. 1), propagation d’une maladie de l’homme (art. 231, ch. 1), contamination intentionnelle d’eau potable (art. 234, al. 1);
-- k. entrave qualifiée de la circulation publique (art. 237, ch. 1, al. 2), entrave intentionnelle au service des chemins de fer (art. 238, al. 1);
-- l.[^66a-4] actes préparatoires délictueux (art. 260<sup>bis</sup>, al. 1 et 3), participation ou soutien à une organisation criminelle ou terroriste (art. 260<sup>ter</sup>), mise en danger de la sécurité publique au moyen d’armes (art. 260<sup>quater</sup>), financement du terrorisme (art. 260<sup>quinquies</sup>), recrutement, formation et voyage en vue d’un acte terroriste (art. 260<sup>sexies</sup>);
-- m. génocide (art. 264), crimes contre l’humanité (art. 264*a*), infractions graves aux conventions de Genève du 12 août 1949[^66a-5] (art. 264*c*), autres crimes de guerre (art. 264*d* à 264*h*);
-- n. infraction intentionnelle à l’art. 116, al. 3, ou 118, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers[^66a-6];
-- o. infraction à l’art. 19, al. 2, ou 20, al. 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^66a-7];
-- p.[^66a-8] infraction visée à l’art. 74, al. 4, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^66a-9].
+- h.[^66a-6] actes d’ordre sexuel avec des enfants (art. 187, ch. 1), contrainte sexuelle (art. 189), viol (art. 190), actes d’ordre sexuel commis sur une personne incapable de discernement ou de résistance (art. 191), encouragement à la prostitution (art. 195), pornographie (art. 197, al. 4, 2<sup>e</sup> phrase);
+- i.[^66a-7] incendie intentionnel (art. 221, al. 1 et 2), explosion intentionnelle (art. 223, ch. 1, al. 1), emploi, avec dessein délictueux, d’explosifs ou de gaz toxiques (art. 224, al. 1), emploi intentionnel sans dessein délictueux (art. 225, al. 1), fabriquer, dissimuler et transporter des explosifs ou des gaz toxiques (art. 226), danger imputable à l’énergie nucléaire, à la radioactivité et aux rayonnements ionisants (art. 226<sup>bis</sup>), actes préparatoires punissables (art. 226<sup>ter</sup>), inondation, écroulement causés intentionnellement (art. 227, ch. 1, al. 1), dommages intentionnels aux installations électriques, travaux hydrauliques et ouvrages de protection (art. 228, ch. 1, al. 1), violation des règles de l’art de construire (art. 229, al. 1), suppression ou omission d’installer des appareils protecteurs (art. 230, ch. 1);
+- j.[^66a-8] mise en danger intentionnelle par des organismes génétiquement modifiés ou pathogènes (art. 230<sup>bis</sup>, al. 1), propagation d’une maladie de l’homme (art. 231), contamination intentionnelle d’eau potable (art. 234, al. 1);
+- k.[^66a-9] entrave à la circulation publique (art. 237, ch. 1);
+- l.[^66a-10] actes préparatoires délictueux (art. 260<sup>bis</sup>, al. 1 et 3), participation ou soutien à une organisation criminelle ou terroriste (art. 260<sup>ter</sup>), mise en danger de la sécurité publique au moyen d’armes (art. 260<sup>quater</sup>), financement du terrorisme (art. 260<sup>quinquies</sup>), recrutement, formation et voyage en vue d’un acte terroriste (art. 260<sup>sexies</sup>);
+- m. génocide (art. 264), crimes contre l’humanité (art. 264*a*), infractions graves aux conventions de Genève du 12 août 1949[^66a-11] (art. 264*c*), autres crimes de guerre (art. 264*d* à 264*h*);
+- n. infraction intentionnelle à l’art. 116, al. 3, ou 118, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers[^66a-12];
+- o. infraction à l’art. 19, al. 2, ou 20, al. 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^66a-13];
+- p.[^66a-14] infraction visée à l’art. 74, al. 4, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^66a-15].
 
 <sup>2</sup> Le juge peut exceptionnellement renoncer à une expulsion lorsque celle-ci mettrait l’étranger dans une situation personnelle grave et que les intérêts publics à l’expulsion ne l’emportent pas sur l’intérêt privé de l’étranger à demeurer en Suisse. À cet égard, il tiendra compte de la situation particulière de l’étranger qui est né ou qui a grandi en Suisse.
 
 <sup>3</sup> Le juge peut également renoncer à l’expulsion si l’acte a été commis en état de défense excusable (art. 16, al. 1) ou de nécessité excusable (art. 18, al. 1).
 
 [^66a-1]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^66a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^66a-3]: Erratum de la CdR de l’Ass. féd. du 28 nov. 2017, publié le 12 déc. 2017 ([RO 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
-[^66a-4]: Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^66a-5]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^66a-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^66a-7]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^66a-8]: Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^66a-9]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^66a-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-4]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^66a-6]: Erratum de la CdR de l’Ass. féd. du 28 nov. 2017, publié le 12 déc. 2017 ([RO 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
+[^66a-7]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-8]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-9]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-10]: Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-11]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^66a-12]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^66a-13]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^66a-14]: Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 ### b. Expulsion non obligatoire
 
@@ -2100,7 +2106,9 @@ Les dispositions de la première partie du présent code s’appliquent aux cont
 
 <sup>4</sup> Le paiement ultérieur de l’amende entraîne une réduction proportionnelle de la peine privative de liberté de substitution.
 
-<sup>5</sup> Les art. 35 et 36, al. 2 à 5, sont applicables par analogie à l’exécution et à la conversion de l’amende.
+<sup>5</sup> Les art. 35 et 36, al. 2, sont applicables par analogie à l’exécution et à la conversion de l’amende.[^106-1]
+
+[^106-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 107
 
@@ -2153,9 +2161,11 @@ L’action pénale et la peine se prescrivent par trois ans.
 
 #### Art. 111
 
-Celui qui aura intentionnellement tué une personne sera puni d’une peine privative de liberté[^111-1] de cinq ans au moins, en tant que les conditions prévues aux articles suivants ne seront pas réalisées.
+[^111-1]
 
-[^111-1]: Nouvelle expression selon le ch. II 1 al. 1 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+Quiconque tue une personne intentionnellement est puni d’une peine privative de liberté de cinq ans au moins, en tant que les conditions prévues aux articles suivants ne sont pas réalisées.
+
+[^111-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Assassinat
 
@@ -2163,10 +2173,9 @@ Celui qui aura intentionnellement tué une personne sera puni d’une peine priv
 
 [^112-1]
 
-Si le délinquant a tué avec une absence particulière de scrupules, notamment si son mobile, son but ou sa façon d’agir est particulièrement odieux, il sera puni d’une peine privative de liberté à vie ou d’une peine privative de liberté de dix ans au moins.[^112-2]
+Si l’auteur tue avec une absence particulière de scrupules, notamment si son mobile, son but ou sa façon d’agir est particulièrement odieux, il est puni d’une peine privative de liberté à vie ou d’une peine privative de liberté de dix ans au moins.
 
-[^112-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^112-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^112-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Meurtre passionnel
 
@@ -2174,10 +2183,9 @@ Si le délinquant a tué avec une absence particulière de scrupules, notamment 
 
 [^113-1]
 
-Si le délinquant a tué alors qu’il était en proie à une émotion violente que les circonstances rendaient excusable, ou qu’il était au moment de l’acte dans un état de profond désarroi, il sera puni d’une peine privative de liberté d’un à dix ans.[^113-2]
+Si l’auteur tue alors qu’il est en proie à une émotion violente que les circonstances rendent excusable, ou qu’il est au moment de l’acte dans un état de profond désarroi, il est puni d’une peine privative de liberté d’un à dix ans.
 
-[^113-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^113-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^113-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Meurtre sur la demande de la victime
 
@@ -2185,18 +2193,19 @@ Si le délinquant a tué alors qu’il était en proie à une émotion violente 
 
 [^114-1]
 
-Celui qui, cédant à un mobile honorable, notamment à la pitié, aura donné la mort à une personne sur la demande sérieuse et instante de celle-ci sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire[^114-2].
+Quiconque, cédant à un mobile honorable, notamment à la pitié, donne la mort à une personne sur la demande sérieuse et instante de celle-ci est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^114-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^114-2]: Nouvelle expression selon le ch. II 1 al. 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^114-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Incitation et assistance au suicide
 
 #### Art. 115
 
-Celui qui, poussé par un mobile égoïste, aura incité une personne au suicide, ou lui aura prêté assistance en vue du suicide, sera, si le suicide a été consommé ou tenté, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire[^115-1].
+[^115-1]
 
-[^115-1]: Nouvelle expression selon le ch. II 1 al. 3 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+Quiconque, poussé par un mobile égoïste, incite une personne au suicide, ou lui prête assistance en vue du suicide, est, si le suicide est consommé ou tenté, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^115-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Infanticide
 
@@ -2204,15 +2213,19 @@ Celui qui, poussé par un mobile égoïste, aura incité une personne au suicide
 
 [^116-1]
 
-La mère qui aura tué son enfant pendant l’accouchement ou alors qu’elle se trouvait encore sous l’influence de l’état puerpéral sera punie d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+La mère qui tue son enfant pendant l’accouchement ou alors qu’elle se trouve encore sous l’influence de l’état puerpéral est punie d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^116-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^116-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Homicide par négligence
 
 #### Art. 117
 
-Celui qui, par négligence, aura causé la mort d’une personne sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^117-1]
+
+Quiconque, par négligence, cause la mort d’une personne est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^117-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 2. Interruption de grossesse
 
@@ -2222,17 +2235,19 @@ Celui qui, par négligence, aura causé la mort d’une personne sera puni d’u
 
 [^118-1]
 
-<sup>1</sup> Celui qui interrompt la grossesse d’une femme avec son consentement, ou encore l’instigue ou l’aide à interrompre sa grossesse sans que les conditions fixées à l’art. 119 soient remplies sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque interrompt la grossesse d’une femme avec son consentement, ou encore l’instigue ou l’aide à interrompre sa grossesse sans que les conditions fixées à l’art. 119 soient remplies est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^118-2]
 
-<sup>2</sup> Celui qui interrompt la grossesse d’une femme sans son consentement sera puni d’une peine privative de liberté de un à dix ans[^118-2].
+<sup>2</sup> Quiconque interrompt la grossesse d’une femme sans son consentement est puni d’une peine privative de liberté d’un à dix ans.[^118-3]
 
-<sup>3</sup> La femme qui interrompt sa grossesse, la fait interrompre ou participe à l’interruption d’une quelconque façon après la douzième semaine suivant le début des dernières règles, sans que les conditions fixées à l’art. 119, al. 1, soient remplies, sera punie d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>3</sup> La femme qui interrompt sa grossesse, la fait interrompre ou participe à l’interruption d’une quelconque façon après la douzième semaine suivant le début des dernières règles, sans que les conditions fixées à l’art. 119, al. 1, soient remplies, est punie d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^118-4]
 
-<sup>4</sup> Les actions pénales visées aux al. 1 et 3 se prescrivent par trois ans.[^118-3]
+<sup>4</sup> Les actions pénales visées aux al. 1 et 3 se prescrivent par trois ans.[^118-5]
 
 [^118-1]: Nouvelle teneur selon le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629, 4734).
-[^118-2]: Nouvelle expression selon le ch. II 1 al. 4 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
-[^118-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342), [1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
+[^118-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^118-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^118-4]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^118-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342), [1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
 
 ### Interruption de grossesse non punissable
 
@@ -2260,7 +2275,7 @@ Celui qui, par négligence, aura causé la mort d’une personne sera puni d’u
 
 <sup>1</sup>
 
-Sera puni d’une amende[^120-2] le médecin qui interrompt une grossesse en application de l’art. 119, al. 2, et omet avant l’intervention:
+Est puni d’une amende le médecin qui interrompt une grossesse en application de l’art. 119, al. 2, et omet avant l’intervention:
 
 - a. d’exiger de la femme enceinte une requête écrite;
 - b.
@@ -2271,12 +2286,11 @@ Sera puni d’une amende[^120-2] le médecin qui interrompt une grossesse en app
   - 2\. une liste d’associations et organismes susceptibles de lui apporter une aide morale ou matérielle,
   - 3\. des informations sur les possibilités de faire adopter l’enfant;
 
-- c. de s’assurer lui-même, si la femme enceinte a moins de seize ans, qu’elle s’est adressée à un centre de consultation spécialisé pour mineurs.
+- c. de s’assurer lui-même, si la femme enceinte a moins de 16 ans, qu’elle s’est adressée à un centre de consultation spécialisé pour mineurs.
 
-<sup>2</sup> Sera puni de la même peine le médecin qui omet d’aviser l’autorité de santé publique compétente, conformément à l’art. 119, al. 5, de l’interruption de grossesse pratiquée.
+<sup>2</sup> Est puni de la même peine le médecin qui omet d’aviser l’autorité de santé publique compétente, conformément à l’art. 119, al. 5, de l’interruption de grossesse pratiquée.
 
-[^120-1]: Nouvelle teneur selon le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629, 4734).
-[^120-2]: Nouvelle expression selon le ch. II 1 al. 5 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^120-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 121
 
@@ -2284,7 +2298,7 @@ Sera puni d’une amende[^120-2] le médecin qui interrompt une grossesse en app
 
 [^121-1]: Abrogé par le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629, 4734).
 
-### 3. Lésions corporelles
+### 3. Lésions corporelles.
 
 ### Lésions corporelles graves
 
@@ -2292,16 +2306,13 @@ Sera puni d’une amende[^120-2] le médecin qui interrompt une grossesse en app
 
 [^122-1]
 
-Celui qui, intentionnellement, aura blessé une personne de façon à mettre sa vie en danger,
+Est puni d’une peine privative de liberté d’un à dix ans quiconque, intentionnellement:
 
-celui qui, intentionnellement, aura mutilé le corps d’une personne, un de ses membres ou un de ses organes importants ou causé à une personne une incapacité de travail, une infirmité ou une maladie mentale permanentes, ou aura défiguré une personne d’une façon grave et permanente,
+- a. blesse une personne de façon à mettre sa vie en danger;
+- b. mutile le corps d’une personne, un de ses membres ou un de ses organes importants ou rend ce membre ou cet organe impropre à sa fonction, cause à une personne une incapacité de travail, une infirmité ou une maladie mentale permanentes, ou défigure une personne d’une façon grave et permanente;
+- c. fait subir à une personne toute autre atteinte grave à l’intégrité corporelle ou à la santé physique ou mentale.
 
-celui qui, intentionnellement, aura fait subir à une personne toute autre atteinte grave à l’intégrité corporelle ou à la santé physique ou mentale,
-
-sera puni d’une peine privative de liberté de six mois à dix ans.[^122-2]
-
-[^122-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^122-2]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^122-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Lésions corporelles simples
 
@@ -2309,27 +2320,23 @@ sera puni d’une peine privative de liberté de six mois à dix ans.[^122-2]
 
 [^123-1]
 
-<sup>1.</sup> Celui qui, intentionnellement, aura fait subir à une personne une autre atteinte à l’intégrité corporelle ou à la santé sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1.</sup> Quiconque, intentionnellement, fait subir à une personne une autre atteinte à l’intégrité corporelle ou à la santé est puni sur plainte d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-Dans les cas de peu de gravité, le juge pourra atténuer la peine (art. 48*a*).[^123-2]
+Abrogé (2e par.)
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire et la poursuite aura lieu d’office,
+<sup>2.</sup> L’auteur est poursuivi d’office,
 
-si le délinquant a fait usage du poison, d’une arme ou d’un objet dangereux,
+s’il fait usage du poison, d’une arme ou d’un objet dangereux,
 
-s’il s’en est pris à une personne hors d’état de se défendre ou à une personne, notamment à un enfant, dont il avait la garde ou sur laquelle il avait le devoir de veiller.
+s’il s’en prend à une personne hors d’état de se défendre ou à une personne, notamment à un enfant, dont il a la garde ou sur laquelle il a le devoir de veiller,
 
-si l’auteur est le conjoint de la victime et que l’atteinte a été commise durant le mariage ou dans l’année qui a suivi le divorce,[^123-3]
+s’il est le conjoint de la victime et que l’atteinte est commise durant le mariage ou dans l’année qui suit le divorce,
 
-si l’auteur est le partenaire enregistré de la victime et que l’atteinte a été commise durant le partenariat enregistré ou dans l’année qui a suivi sa dissolution judiciaire,[^123-4]
+s’il est le partenaire enregistré de la victime et que l’atteinte est commise durant le partenariat enregistré ou dans l’année qui suit sa dissolution judiciaire,
 
-si l’auteur est le partenaire hétérosexuel ou homosexuel de la victime pour autant qu’ils fassent ménage commun pour une durée indéterminée et que l’atteinte ait été commise durant cette période ou dans l’année qui a suivi la séparation.[^123-5]
+s’il est le partenaire hétérosexuel ou homosexuel de la victime pour autant qu’ils fassent ménage commun pour une durée indéterminée et que l’atteinte soit commise durant cette période ou dans l’année qui suit la séparation.
 
-[^123-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^123-2]: Nouvelle teneur du par. selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^123-3]: Par. introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^123-4]: Par. introduit par l’annexe ch. 18 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^123-5]: Anciennement par. 4. Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^123-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mutilation d’organes génitaux féminins
 
@@ -2337,41 +2344,45 @@ si l’auteur est le partenaire hétérosexuel ou homosexuel de la victime pour 
 
 [^124-1]
 
-<sup>1</sup> Celui qui aura mutilé des organes génitaux féminins, aura compromis gravement et durablement leur fonction naturelle ou leur aura porté toute autre atteinte sera puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire de 180 jours-amende au moins.
+<sup>1</sup> Quiconque mutile des organes génitaux féminins, compromet gravement et durablement leur fonction naturelle ou leur porte toute autre atteinte est puni d’une peine privative de liberté de six mois à dix ans.[^124-2]
 
 <sup>2</sup> Quiconque se trouve en Suisse et n’est pas extradé et commet la mutilation à l’étranger est punissable. L’art. 7, al. 4 et 5, est applicable.
 
 [^124-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992), [5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
+[^124-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Lésions corporelles par négligence
 
 #### Art. 125
 
-<sup>1</sup> Celui qui, par négligence, aura fait subir à une personne une atteinte à l’intégrité corporelle ou à la santé sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire[^125-1].
+[^125-1]
 
-<sup>2</sup> Si la lésion est grave le délinquant sera poursuivi d’office.
+<sup>1</sup> Quiconque, par négligence, fait subir à une personne une atteinte à l’intégrité corporelle ou à la santé est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^125-1]: Nouvelle expression selon le ch. II 1 al. 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+<sup>2</sup> Si la lésion est grave, l’auteur est poursuivi d’office.
+
+[^125-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Voies de fait
 
 #### Art. 126
 
-<sup>1</sup> Celui qui se sera livré sur une personne à des voies de fait qui n’auront causé ni lésion corporelle ni atteinte à la santé sera, sur plainte, puni d’une amende.
+[^126-1]
+
+<sup>1</sup> Quiconque se livre sur une personne à des voies de fait qui ne causent ni lésion corporelle ni atteinte à la santé est, sur plainte, puni d’une amende.
 
 <sup>2</sup>
 
-La poursuite aura lieu d’office si l’auteur a agi à réitérées reprises:
+La poursuite a lieu d’office si l’auteur agit à réitérées reprises:
 
-- a. contre une personne, notamment un enfant, dont il avait la garde ou sur laquelle il avait le devoir de veiller;
-- b. contre son conjoint durant le mariage ou dans l’année qui a suivi le divorce;
-- [tab] b<sup>bis</sup>.[^126-1] contre son partenaire durant le partenariat enregistré ou dans l’année qui a suivi sa dissolution judiciaire;
-- c. contre son partenaire hétérosexuel ou homosexuel pour autant qu’ils fassent ménage commun pour une durée indéterminée et que les atteintes aient été commises durant cette période ou dans l’année qui a suivi la séparation.[^126-2]
+- a. contre une personne, notamment un enfant, dont il a la garde ou sur laquelle il a le devoir de veiller;
+- b. contre son conjoint durant le mariage ou dans l’année qui suit le divorce;
+- [tab] b<sup>bis</sup>. contre son partenaire durant le partenariat enregistré ou dans l’année qui suit sa dissolution judiciaire;
+- c. contre son partenaire hétérosexuel ou homosexuel pour autant qu’ils fassent ménage commun pour une durée indéterminée et que les atteintes soient commises durant cette période ou dans l’année qui suit la séparation.
 
-[^126-1]: Introduite par l’annexe ch. 18 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^126-2]: Introduit par le ch. I de la LF du 23 juin 1989 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)). Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^126-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### 4. Mise en danger de la vie ou de la santé d’autrui
+### 4. Mise en danger de la vie ou de la santé d’autrui.
 
 ### Exposition
 
@@ -2379,9 +2390,9 @@ La poursuite aura lieu d’office si l’auteur a agi à réitérées reprises:
 
 [^127-1]
 
-Celui qui, ayant la garde d’une personne hors d’état de se protéger elle-même ou le devoir de veiller sur elle, l’aura exposée à un danger de mort ou à un danger grave et imminent pour la santé, ou l’aura abandonnée en un tel danger, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+Quiconque, ayant la garde d’une personne hors d’état de se protéger elle-même ou le devoir de veiller sur elle, l’expose à un danger de mort ou à un danger grave et imminent pour la santé, ou l’abandonne en un tel danger, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^127-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^127-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Omission de prêter secours
 
@@ -2389,13 +2400,13 @@ Celui qui, ayant la garde d’une personne hors d’état de se protéger elle-m
 
 [^128-1]
 
-Celui qui n’aura pas prêté secours à une personne qu’il a blessée ou à une personne en danger de mort imminent, alors que l’on pouvait raisonnablement l’exiger de lui, étant donné les circonstances,
+Quiconque ne prête pas secours à une personne qu’il a blessée ou à une personne en danger de mort imminent, alors que l’on peut raisonnablement l’exiger de lui, étant donné les circonstances,
 
-celui qui aura empêché un tiers de prêter secours ou l’aura entravé dans l’accomplissement de ce devoir,
+quiconque empêche un tiers de prêter secours ou l’entrave dans l’accomplissement de ce devoir,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^128-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^128-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fausse alerte
 
@@ -2403,9 +2414,9 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^128bis-1]
 
-Celui qui, sciemment et sans raison, aura alerté les services de sécurité publics ou d’intérêt général, les postes de sauvetage ou de secours, notamment la police, les pompiers ou les services sanitaires, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Quiconque, sciemment et sans raison, alerte les services de sécurité publics ou d’intérêt général, les postes de sauvetage ou de secours, notamment la police, les pompiers ou les services sanitaires, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^128bis-1]: Introduit par le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^128bis-1]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mise en danger de la vie d’autrui
 
@@ -2413,9 +2424,9 @@ Celui qui, sciemment et sans raison, aura alerté les services de sécurité pub
 
 [^129-1]
 
-Celui qui, sans scrupules, aura mis autrui en danger de mort imminent sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+Quiconque, sans scrupules, met autrui en danger de mort imminent, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^129-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^129-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 130à132
 
@@ -2429,11 +2440,11 @@ Celui qui, sans scrupules, aura mis autrui en danger de mort imminent sera puni 
 
 [^133-1]
 
-<sup>1</sup> Celui qui aura pris part à une rixe ayant entraîné la mort d’une personne ou une lésion corporelle sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque prend part à une rixe entraînant la mort d’une personne ou une lésion corporelle est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> N’est pas punissable celui qui se sera borné à repousser une attaque, à défendre autrui ou à séparer les combattants.
+<sup>2</sup> N’est pas punissable quiconque se borne à repousser une attaque, à défendre autrui ou à séparer les combattants.
 
-[^133-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^133-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Agression
 
@@ -2441,10 +2452,9 @@ Celui qui, sans scrupules, aura mis autrui en danger de mort imminent sera puni 
 
 [^134-1]
 
-Celui qui aura participé à une agression dirigée contre une ou plusieurs personnes au cours de laquelle l’une d’entre elles ou un tiers aura trouvé la mort ou subi une lésion corporelle sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire[^134-2].
+Quiconque participe à une agression dirigée contre une ou plusieurs personnes au cours de laquelle l’une d’entre elles ou un tiers trouve la mort ou subit une lésion corporelle est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^134-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^134-2]: Nouvelle expression selon le ch. II 1 al. 6 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^134-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Représentation de la violence
 
@@ -2452,28 +2462,23 @@ Celui qui aura participé à une agression dirigée contre une ou plusieurs pers
 
 [^135-1]
 
-<sup>1</sup> Celui qui aura fabriqué, importé ou pris en dépôt, mis en circulation, promu, exposé, offert, montré, rendu accessibles ou mis à disposition des enregistrements sonores ou visuels, des images, d’autres objets ou des représentations qui illustrent avec insistance des actes de cruauté envers des êtres humains ou des animaux portant gravement atteinte à la dignité humaine, sans présenter aucune valeur d’ordre culturel ou scientifique digne de protection, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque fabrique, importe, prend en dépôt, met en circulation, promeut, expose, offre, montre, rend accessibles, met à disposition, acquiert, obtient par voie électronique ou d’une autre manière ou possède des enregistrements sonores ou visuels, des images, d’autres objets ou des représentations qui illustrent avec insistance des actes de cruauté envers des adultes ou des animaux ou des actes de cruauté non effectifs envers des mineurs portant gravement atteinte à la dignité humaine, sans présenter aucune valeur d’ordre culturel ou scientifique digne de protection, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. Si les objets ou représentations ont pour contenu des actes de violence effectifs envers des mineurs, l’auteur est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>1bis</sup> Celui qui aura acquis, obtenu par voie électronique ou d’une autre manière ou possédé des objets ou des représentations visés à l’al. 1, dans la mesure où ils illustrent des actes de violence contre des êtres humains ou des animaux, sera puni d’une peine privative de liberté d’un an au plus ou de l’amende.[^135-2] [^135-3]
+<sup>2</sup> Quiconque consomme ou, pour sa propre consommation, fabrique, importe, prend en dépôt, acquiert, obtient par voie électronique ou d’une autre manière ou possède des objets ou des représentations au sens de l’al. 1, 1<sup>re</sup> phrase, est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire. Si les objets ou représentations ont pour contenu des actes de violence effectifs envers des mineurs, l’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Les objets seront confisqués.
+<sup>3</sup> Les objets sont confisqués.
 
-<sup>3</sup> Si l’auteur a agi dans un dessein de lucre, la peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^135-4]
+[^135-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-[^135-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^135-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Erratum de la CdR de l’Ass. féd. du 25 fév. 2020, publié le 3 mars 2020 ([RO 2020 623](https://fedlex.data.admin.ch/eli/oc/2020/118)).
-[^135-3]: Introduit par le ch. I de la LF du 5 oct. 2001 (Infractions contre l’intégrité sexuelle; interdiction de la possession d’objets ou de représentations relevant de la pornographie dure), en vigueur depuis le 1<sup>er</sup> avr. 2002 ([RO 2002 408](https://fedlex.data.admin.ch/eli/oc/2002/92); [FF 2000 2769](https://fedlex.data.admin.ch/eli/fga/2000/612)).
-[^135-4]: Nouvelles expressions selon le ch. II 1 al. 7 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
-
-### Remise à des enfants de substances pouvant mettre en danger leur santé
+### Remettre à des enfants des substances nocives
 
 #### Art. 136
 
 [^136-1]
 
-Quiconque aura remis à un enfant de moins de seize ans ou aura mis à sa disposition des boissons alcooliques ou d’autres substances dans des quantités pouvant mettre en danger sa santé sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Quiconque remet à un enfant de moins de 16 ans, ou met à sa disposition des boissons alcooliques ou d’autres substances en une quantité propre à mettre en danger sa santé est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^136-1]: Nouvelle teneur selon le ch. II de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^136-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 2 Infractions contre le patrimoine
 
@@ -2481,107 +2486,132 @@ Quiconque aura remis à un enfant de moins de seize ans ou aura mis à sa dispos
 
 [^book2-tit2-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
-### 1. Infractions contre le patrimoine
+### 1. Infractions contre le patrimoine.
 
 ### Appropriation illégitime
 
 #### Art. 137
 
-<sup>1.</sup> Celui qui, pour se procurer ou procurer à un tiers un enrichissement illégitime, se sera approprié une chose mobilière appartenant à autrui sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire, en tant que les conditions prévues aux art. 138 à 140 ne seront pas réalisées.
+[^137-1]
+
+<sup>1.</sup> Quiconque, pour se procurer ou procurer à un tiers un enrichissement illégitime, s’approprie une chose mobilière appartenant à autrui est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire, en tant que les conditions prévues aux art. 138 à 140 ne sont pas réalisées.
 
 <sup>2.</sup> Si l’auteur a trouvé la chose ou si celle-ci est tombée en son pouvoir indépendamment de sa volonté,
 
-s’il a agi sans dessein d’enrichissement ou
+s’il agit sans dessein d’enrichissement, ou
 
-si l’acte a été commis au préjudice des proches ou des familiers,
+si l’acte est commis au préjudice des proches ou des familiers,
 
-l’infraction ne sera poursuivie que sur plainte.
+l’infraction n’est poursuivie que sur plainte.
+
+[^137-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Abus de confiance
 
 #### Art. 138
 
-<sup>1.</sup> Celui qui, pour se procurer ou procurer à un tiers un enrichissement illégitime, se sera approprié une chose mobilière appartenant à autrui et qui lui avait été confiée,
+[^138-1]
 
-celui qui, sans droit, aura employé à son profit ou au profit d’un tiers des valeurs patrimoniales qui lui avaient été confiées,
+<sup>1.</sup> Quiconque, pour se procurer ou procurer à un tiers un enrichissement illégitime, s’approprie une chose mobilière appartenant à autrui et qui lui a été confiée,
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+quiconque, sans droit, emploie à son profit ou au profit d’un tiers des valeurs patrimoniales qui lui ont été confiées,
 
-L’abus de confiance commis au préjudice des proches ou des familiers ne sera poursuivi que sur plainte.
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Si l’auteur a agi en qualité de membre d’une autorité, de fonctionnaire, de tuteur, de curateur, de gérant de fortunes ou dans l’exercice d’une profession, d’une industrie ou d’un commerce auquel les pouvoirs publics l’ont autorisé, la peine sera une peine privative de liberté de dix ans au plus ou une peine pécuniaire[^138-1].
+L’abus de confiance commis au préjudice des proches ou des familiers n’est poursuivi que sur plainte.
 
-[^138-1]: Nouvelle expression selon le ch. II 1 al. 8 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+<sup>2.</sup> Si l’auteur agit en qualité de membre d’une autorité, de fonctionnaire, de tuteur, de curateur, de gérant de fortunes ou dans l’exercice d’une profession, d’une industrie ou d’un commerce auquel les pouvoirs publics l’ont autorisé, il est puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire.
+
+[^138-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Vol
 
 #### Art. 139
 
-<sup>1.</sup> Celui qui, pour se procurer ou procurer à un tiers un enrichissement illégitime, aura soustrait une chose mobilière appartenant à autrui dans le but de se l’approprier sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^139-1]
 
-<sup>2.</sup> Le vol sera puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire de 90 jours-amende au moins[^139-1] si son auteur fait métier du vol.
+<sup>1.</sup> Quiconque, pour se procurer ou procurer à un tiers un enrichissement illégitime, soustrait une chose mobilière appartenant à autrui dans le but de se l’approprier est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>3.</sup> Le vol sera puni d’une peine privative de liberté de six mois à dix ans,[^139-2]
+<sup>2.</sup> *Abrogé*
 
-si son auteur l’a commis en qualité d’affilié à une bande formée pour commettre des brigandages ou des vols,
+<sup>3.</sup>
 
-s’il s’est muni d’une arme à feu ou d’une autre arme dangereuse ou
+Le vol est puni d’une peine privative de liberté de six mois à dix ans si son auteur:
 
-si de toute autre manière la façon d’agir dénote qu’il est particulièrement dangereux.
+- a. en fait métier;
+- b. commet l’acte en qualité d’affilié à une bande formée pour commettre des brigandages ou des vols;
+- c. se munit d’une arme à feu ou d’une autre arme dangereuse ou cause une explosion pour commettre le vol, ou
+- d. montre de toute autre manière, par sa façon d’agir, qu’il est particulièrement dangereux.
 
-<sup>4.</sup> Le vol commis au préjudice des proches ou des familiers ne sera poursuivi que sur plainte.
+<sup>4.</sup> Le vol commis au préjudice des proches ou des familiers n’est poursuivi que sur plainte.
 
-[^139-1]: Nouvelle expression selon le ch. II 1 al. 9 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
-[^139-2]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^139-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Brigandage
 
 #### Art. 140
 
-<sup>1.</sup> Celui qui aura commis un vol en usant de violence à l’égard d’une personne, en la menaçant d’un danger imminent pour la vie ou l’intégrité corporelle ou en la mettant hors d’état de résister sera puni d’une peine privative de liberté de six mois à dix ans.[^140-1]
+[^140-1]
 
-Celui qui, pris en flagrant délit de vol, aura commis un des actes de contrainte mentionnés à l’al. 1 dans le but de garder la chose volée encourra la même peine.
+<sup>1.</sup> Quiconque commet un vol en usant de violence à l’égard d’une personne, en la menaçant d’un danger imminent pour la vie ou l’intégrité corporelle ou en la mettant hors d’état de résister est puni d’une peine privative de liberté de six mois à dix ans.
 
-<sup>2.</sup> Le brigandage sera puni d’une peine privative de liberté d’un an au moins[^140-2], si son auteur s’est muni d’une arme à feu ou d’une autre arme dangereuse.
+Quiconque, pris en flagrant délit de vol, commet un des actes de contrainte mentionnés à l’al. 1 dans le but de garder la chose volée encourt la même peine.
 
-<sup>3.</sup> Le brigandage sera puni d’une peine privative de liberté de deux ans au moins,
+<sup>2.</sup> Le brigandage est puni d’une peine privative de liberté d’un an au moins si son auteur se munit d’une arme à feu ou d’une autre arme dangereuse pour commettre le brigandage.
 
-si son auteur l’a commis en qualité d’affilié à une bande formée pour commettre des brigandages ou des vols,
+<sup>3.</sup> Le brigandage est puni d’une peine privative de liberté de deux ans au moins,
 
-si de toute autre manière la façon d’agir dénote qu’il est particulièrement dangereux.
+si son auteur commet l’acte en qualité d’affilié à une bande formée pour commettre des brigandages ou des vols,
 
-<sup>4.</sup> La peine sera la peine privative de liberté de cinq ans au moins, si l’auteur a mis la victime en danger de mort, lui a fait subir une lésion corporelle grave, ou l’a traitée avec cruauté.
+s’il montre de toute autre manière, par sa façon d’agir, qu’il est particulièrement dangereux.
 
-[^140-1]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^140-2]: Nouvelle expression selon le ch. II 1 al. 12 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>4.</sup> L’auteur est puni d’une peine privative de liberté de cinq ans au moins s’il met la victime en danger de mort, lui fait subir une lésion corporelle grave ou la traite avec cruauté.
+
+[^140-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Soustraction d’une chose mobilière
 
 #### Art. 141
 
-Celui qui, sans dessein d’appropriation, aura soustrait une chose mobilière à l’ayant droit et lui aura causé par là un préjudice considérable sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^141-1]
+
+Quiconque, sans dessein d’appropriation, soustrait une chose mobilière à l’ayant droit et lui cause par là un préjudice considérable, est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^141-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Utilisation sans droit de valeurs patrimoniales
 
 #### Art. 141<sup>bis</sup>
 
-Celui qui, sans droit, aura utilisé à son profit ou au profit d’un tiers des valeurs patrimoniales tombées en son pouvoir indépendamment de sa volonté sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^141bis-1]
+
+Quiconque, sans droit, utilise à son profit ou au profit d’un tiers des valeurs patrimoniales tombées en son pouvoir indépendamment de sa volonté, est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^141bis-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Soustraction d’énergie
 
 #### Art. 142
 
-<sup>1</sup> Celui qui, sans droit, aura soustrait de l’énergie à une installation servant à exploiter une force naturelle, notamment à une installation électrique, sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^142-1]
 
-<sup>2</sup> Si l’auteur de l’acte avait le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, la peine sera une peine privative de liberté de cinq ans au plus ou une peine pécuniaire.
+<sup>1</sup> Quiconque, sans droit, soustrait de l’énergie à une installation servant à exploiter une force naturelle, notamment à une installation électrique, est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> L’auteur de l’acte est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire s’il a le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime.
+
+[^142-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Soustraction de données
 
 #### Art. 143
 
-<sup>1</sup> Celui qui, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, aura soustrait, pour lui-même ou pour un tiers, des données enregistrées ou transmises électroniquement ou selon un mode similaire, qui ne lui étaient pas destinées et qui étaient spécialement protégées contre tout accès indu de sa part, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^143-1]
 
-<sup>2</sup> La soustraction de données commise au préjudice des proches ou des familiers ne sera poursuivie que sur plainte.
+<sup>1</sup> Quiconque, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, soustrait, pour lui-même ou pour un tiers, des données enregistrées ou transmises électroniquement ou selon un mode similaire, qui ne lui sont pas destinées et qui sont spécialement protégées contre tout accès indu de sa part, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> La soustraction de données commise au préjudice des proches ou des familiers n’est poursuivie que sur plainte.
+
+[^143-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Accès indu à un système informatique
 
@@ -2589,67 +2619,91 @@ Celui qui, sans droit, aura utilisé à son profit ou au profit d’un tiers des
 
 [^143bis-1]
 
-<sup>1</sup> Quiconque s’introduit sans droit, au moyen d’un dispositif de transmission de données, dans un système informatique appartenant à autrui et spécialement protégé contre tout accès de sa part est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque s’introduit sans droit, au moyen d’un dispositif de transmission de données, dans un système informatique appartenant à autrui et spécialement protégé contre tout accès de sa part, est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
 <sup>2</sup> Quiconque met en circulation ou rend accessible un mot de passe, un programme ou toute autre donnée dont il sait ou doit présumer qu’ils doivent être utilisés dans le but de commettre une infraction visée à l’al. 1 est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^143bis-1]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 mars 2011 (Conv. du Conseil de l’Europe sur la cybercriminalité), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [FF 2010 4275](https://fedlex.data.admin.ch/eli/fga/2010/813)).
+[^143bis-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Dommages à la propriété
 
 #### Art. 144
 
-<sup>1</sup> Celui qui aura endommagé, détruit ou mis hors d’usage une chose appartenant à autrui ou frappée d’un droit d’usage ou d’usufruit au bénéfice d’autrui sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^144-1]
 
-<sup>2</sup> Si l’auteur a commis le dommage à la propriété à l’occasion d’un attroupement formé en public, la poursuite aura lieu d’office.
+<sup>1</sup> Quiconque, sans droit, endommage, détruit ou met hors d’usage une chose appartenant à autrui ou frappée d’un droit d’usage ou d’usufruit au bénéfice d’autrui, est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> Si l’auteur a causé un dommage considérable, le juge pourra prononcer une peine privative de liberté de un à cinq ans. La poursuite aura lieu d’office.
+<sup>2</sup> Si l’auteur commet le dommage à la propriété à l’occasion d’un attroupement formé en public, la poursuite a lieu d’office.
+
+<sup>3</sup> Si l’auteur cause un dommage considérable, il est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire. La poursuite a lieu d’office.
+
+[^144-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Détérioration de données
 
 #### Art. 144<sup>bis</sup>
 
-<sup>1.</sup> Celui qui, sans droit, aura modifié, effacé, ou mis hors d’usage des données enregistrées ou transmises électroniquement ou selon un mode similaire sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^144bis-1]
 
-Si l’auteur a causé un dommage considérable, le juge pourra prononcer une peine privative de liberté de un à cinq ans. La poursuite aura lieu d’office.
+<sup>1.</sup> Quiconque, sans droit, modifie, efface, ou met hors d’usage des données enregistrées ou transmises électroniquement ou selon un mode similaire est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Celui qui aura fabriqué, importé, mis en circulation, promu, offert ou d’une quelconque manière rendu accessibles des logiciels dont il savait ou devait présumer qu’ils devaient être utilisés dans le but de commettre une infraction visée au ch. 1, ou qui aura fourni des indications en vue de leur fabrication, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Si l’auteur cause un dommage considérable, il est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire. La poursuite a lieu d’office.
 
-Si l’auteur fait métier de tels actes, le juge pourra prononcer une peine privative de liberté de un à cinq ans.
+<sup>2.</sup> Quiconque fabrique, importe, met en circulation, promeut, offre ou rend accessibles d’une quelconque manière des logiciels dont il sait ou doit présumer qu’ils doivent être utilisés dans le but de commettre une infraction visée au ch. 1, ou fournit des indications en vue de leur fabrication, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+Si l’auteur fait métier de tels actes, il est puni d’une peine privative de liberté de six mois à dix ans.
+
+[^144bis-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Détournement de choses frappées d’un droit de gage ou de rétention
 
 #### Art. 145
 
-Le débiteur qui, dans le dessein de nuire à son créancier, aura soustrait à celui-ci une chose frappée d’un droit de gage ou de rétention, en aura arbitrairement disposé, l’aura endommagée, détruite, dépréciée ou mise hors d’usage sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^145-1]
+
+Le débiteur qui, dans le dessein de nuire à son créancier, soustrait à celui-ci une chose frappée d’un droit de gage ou de rétention, en dispose arbitrairement, l’endommage, la détruit, la déprécie ou la met hors d’usage est puni sur plainte d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^145-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Escroquerie
 
 #### Art. 146
 
-<sup>1</sup> Celui qui, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, aura astucieusement induit en erreur une personne par des affirmations fallacieuses ou par la dissimulation de faits vrais ou l’aura astucieusement confortée dans son erreur et aura de la sorte déterminé la victime à des actes préjudiciables à ses intérêts pécuniaires ou à ceux d’un tiers sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^146-1]
 
-<sup>2</sup> Si l’auteur fait métier de l’escroquerie, la peine sera une peine privative de liberté de dix ans au plus ou une peine pécuniaire de 90 jours-amende au moins.
+<sup>1</sup> Quiconque, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, induit astucieusement en erreur une personne par des affirmations fallacieuses ou par la dissimulation de faits vrais ou la conforte astucieusement dans son erreur et détermine de la sorte la victime à des actes préjudiciables à ses intérêts pécuniaires ou à ceux d’un tiers, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> L’escroquerie commise au préjudice des proches ou des familiers ne sera poursuivie que sur plainte.
+<sup>2</sup> Si l’auteur fait métier de l’escroquerie, il est puni d’une peine privative de liberté de six mois à dix ans.
+
+<sup>3</sup> L’escroquerie commise au préjudice des proches ou des familiers n’est poursuivie que sur plainte.
+
+[^146-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Utilisation frauduleuse d’un ordinateur
 
 #### Art. 147
 
-<sup>1</sup> Celui qui, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, aura, en utilisant des données de manière incorrecte, incomplète ou indue ou en recourant à un procédé analogue, influé sur un processus électronique ou similaire de traitement ou de transmission de données et aura, par le biais du résultat inexact ainsi obtenu, provoqué un transfert d’actifs au préjudice d’autrui ou l’aura dissimulé aussitôt après sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^147-1]
 
-<sup>2</sup> Si l’auteur fait métier de tels actes, la peine sera une peine privative de liberté de dix ans au plus ou une peine pécuniaire de 90 jours-amende au moins.
+<sup>1</sup> Quiconque, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, influe sur un processus électronique ou similaire de traitement ou de transmission de données en utilisant des données de manière incorrecte, incomplète ou indue ou en recourant à un procédé analogue, et provoque, par le biais du résultat inexact ainsi obtenu, un transfert d’actifs au préjudice d’autrui ou le dissimule aussitôt après, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> L’utilisation frauduleuse d’un ordinateur au préjudice des proches ou des familiers ne sera poursuivie que sur plainte.
+<sup>2</sup> Si l’auteur fait métier de tels actes, il est puni d’une peine privative de liberté de six mois à dix ans.
+
+<sup>3</sup> L’utilisation frauduleuse d’un ordinateur au préjudice des proches ou des familiers n’est poursuivie que sur plainte.
+
+[^147-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Abus de cartes-chèques et de cartes de crédit
 
 #### Art. 148
 
-<sup>1</sup> Celui qui, quoique insolvable ou non disposé à s’acquitter de son dû, aura obtenu des prestations de nature patrimoniale en utilisant une carte-chèque, une carte de crédit ou tout moyen de paiement analogue et aura ainsi porté atteinte aux intérêts pécuniaires de l’organisme d’émission qui le lui avait délivré sera, pour autant que l’organisme d’émission et l’entreprise contractuelle aient pris les mesures que l’on pouvait attendre d’eux pour éviter l’abus de la carte, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^148-1]
 
-<sup>2</sup> Si l’auteur fait métier de tels actes, la peine sera une peine privative de liberté de dix ans au plus ou une peine pécuniaire de 90 jours-amende au moins.
+<sup>1</sup> Quiconque, quoique insolvable ou non disposé à s’acquitter de son dû, obtient des prestations de nature patrimoniale en utilisant une carte-chèque, une carte de crédit ou tout moyen de paiement analogue et porte ainsi atteinte aux intérêts pécuniaires de l’organisme d’émission qui le lui a délivré est, pour autant que l’organisme d’émission et l’entreprise contractuelle aient pris les mesures que l’on pouvait attendre d’eux pour éviter l’abus de la carte, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> Si l’auteur fait métier de tels actes, il est puni d’une peine privative de liberté de six mois à dix ans.
+
+[^148-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Obtention illicite de prestations d’une assurance sociale ou de l’aide sociale
 
@@ -2667,21 +2721,29 @@ Le débiteur qui, dans le dessein de nuire à son créancier, aura soustrait à 
 
 #### Art. 149
 
-Celui qui se sera fait héberger, servir des aliments ou des boissons ou qui aura obtenu d’autres prestations d’un établissement de l’hôtellerie ou de la restauration, et qui aura frustré l’établissement du montant à payer sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^149-1]
+
+Quiconque se fait héberger, servir des aliments ou des boissons ou obtient d’autres prestations d’un établissement de l’hôtellerie ou de la restauration, et frustre l’établissement du montant à payer est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^149-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Obtention frauduleuse d’une prestation
 
 #### Art. 150
 
-Celui qui, sans bourse délier, aura frauduleusement obtenu une prestation qu’il savait ne devoir être fournie que contre paiement, notamment celui qui
+[^150-1]
 
-aura utilisé un moyen de transport public,
+Quiconque, sans bourse délier, obtient frauduleusement une prestation qu’il sait ne devoir être fournie que contre paiement, notamment quiconque
 
-aura accédé à une représentation, à une exposition ou à une manifestation analogue,
+utilise un moyen de transport public,
 
-se sera servi d’un ordinateur ou d’un appareil automatique,
+accède à une représentation, à une exposition ou à une manifestation analogue,
 
-sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+se sert d’un ordinateur ou d’un appareil automatique,
+
+est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^150-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fabrication et mise sur le marché d’équipements servant à décoder frauduleusement des services cryptés
 
@@ -2700,23 +2762,35 @@ sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus
 
 #### Art. 151
 
-Celui qui, sans dessein d’enrichissement, aura astucieusement induit en erreur une personne par des affirmations fallacieuses ou par la dissimulation de faits vrais ou l’aura astucieusement confortée dans son erreur et l’aura ainsi déterminée à des actes préjudiciables à ses intérêts pécuniaires ou à ceux d’un tiers sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^151-1]
+
+Quiconque, sans dessein d’enrichissement, induit astucieusement en erreur une personne par des affirmations fallacieuses ou par la dissimulation de faits vrais ou la conforte astucieusement dans son erreur et la détermine ainsi à des actes préjudiciables à ses intérêts pécuniaires ou à ceux d’un tiers est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^151-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Faux renseignements sur des entreprises commerciales
 
 #### Art. 152
 
-Celui qui, en qualité de fondateur, titulaire, associé indéfiniment responsable, fondé de pouvoir, membre de l’organe de gestion, du conseil d’administration ou de l’organe de révision ou liquidateur d’une société commerciale, coopérative ou d’une autre entreprise exploitée en la forme commerciale,
+[^152-1]
 
-aura donné ou fait donner, dans des communications au public ou dans des rapports ou propositions destinés à l’ensemble des associés d’une société commerciale ou coopérative ou aux participants à une autre entreprise exploitée en la forme commerciale, des renseignements faux ou incomplets d’une importance considérable, susceptibles de déterminer autrui à disposer de son patrimoine de manière préjudiciable à ses intérêts pécuniaires,
+Quiconque, en qualité de fondateur, titulaire, associé indéfiniment responsable, fondé de pouvoir, membre de l’organe de gestion, du conseil d’administration ou de l’organe de révision ou liquidateur d’une société commerciale, coopérative ou d’une autre entreprise exploitée en la forme commerciale,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+donne ou fait donner, dans des communications au public ou dans des rapports ou propositions destinés à l’ensemble des associés d’une société commerciale ou coopérative ou aux participants à une autre entreprise exploitée en la forme commerciale, des renseignements faux ou incomplets d’une importance considérable, susceptibles de déterminer autrui à disposer de son patrimoine de manière préjudiciable à ses intérêts pécuniaires,
+
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^152-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fausses communications aux autorités chargées du registre du commerce
 
 #### Art. 153
 
-Celui qui aura déterminé une autorité chargée du registre du commerce à procéder à l’inscription d’un fait contraire à la vérité ou lui aura tu un fait devant être inscrit sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^153-1]
+
+Quiconque détermine une autorité chargée du registre du commerce à procéder à l’inscription d’un fait contraire à la vérité ou lui tait un fait devant être inscrit est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^153-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Punissabilité des membres du conseil d’administration et de la direction de sociétés dont les actions sont cotées en bourse
 
@@ -2752,73 +2826,91 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 #### Art. 155
 
-<sup>1.</sup> Celui qui, en vue de tromper autrui dans les relations d’affaires aura fabriqué des marchandises dont la valeur vénale réelle est moindre que ne le font croire les apparences notamment en contrefaisant ou en falsifiant ces marchandises, aura importé, pris en dépôt ou mis en circulation de telles marchandises,
+[^155-1]
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire, pour autant que l’infraction ne tombe pas sous le coup d’une disposition prévoyant une peine plus sévère.
+<sup>1.</sup> Quiconque, en vue de tromper autrui dans les relations d’affaires, fabrique des marchandises dont la valeur vénale réelle est moindre que ne le font croire les apparences notamment en contrefaisant ou en falsifiant ces marchandises, importe, prend en dépôt ou met en circulation de telles marchandises,
 
-<sup>2.</sup> Si l’auteur fait métier de tels actes, la peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire, pour autant que l’infraction ne tombe pas sous le coup d’une disposition prévoyant une peine plus sévère.[^155-1]
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire, pour autant que l’infraction ne tombe pas sous le coup d’une disposition prévoyant une peine plus sévère.
 
-[^155-1]: Nouvelle teneur selon le ch. I 1 de la LF du 3 oct. 2008 (Recommandations révisées du Groupe d’action financière), en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+<sup>2.</sup> Si l’auteur fait métier de tels actes, il est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire, pour autant que l’infraction ne tombe pas sous le coup d’une disposition prévoyant une peine plus sévère.
+
+[^155-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Extorsion et chantage
 
 #### Art. 156
 
-<sup>1.</sup> Celui qui, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, aura déterminé une personne à des actes préjudiciables à ses intérêts pécuniaires ou à ceux d’un tiers, en usant de violence ou en la menaçant d’un dommage sérieux, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^156-1]
 
-<sup>2.</sup> Si l’auteur fait métier de l’extorsion ou s’il a poursuivi à réitérées reprises ses agissements contre la victime,
+<sup>1.</sup> Quiconque, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, détermine une personne à des actes préjudiciables à ses intérêts pécuniaires ou à ceux d’un tiers, en usant de violence ou en la menaçant d’un dommage sérieux, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-la peine sera une peine privative de liberté de un à dix ans.
+<sup>2.</sup> Si l’auteur fait métier de l’extorsion ou s’il a poursuivi à réitérées reprises ses agissements contre la victime, il est puni d’une peine privative de liberté de six mois à dix ans.
 
-<sup>3.</sup> Si l’auteur a exercé des violences sur une personne ou s’il l’a menacée d’un danger imminent pour la vie ou l’intégrité corporelle, la peine sera celle prévue à l’art. 140.
+<sup>3.</sup> Si l’auteur exerce des violences sur une personne ou s’il la menace d’un danger imminent pour la vie ou l’intégrité corporelle, la peine est celle prévue à l’art. 140.
 
-<sup>4.</sup> Si l’auteur a menacé de mettre en danger la vie ou l’intégrité corporelle d’un grand nombre de personnes ou de causer de graves dommages à des choses d’un intérêt public important, la peine sera une peine privative de liberté d’un an au moins[^156-1].
+<sup>4.</sup> Si l’auteur menace de mettre en danger la vie ou l’intégrité corporelle d’un grand nombre de personnes ou de causer de graves dommages à des choses d’un intérêt public important, il est puni d’une peine privative de liberté d’un an au moins.
 
-[^156-1]: Nouvelle expression selon le ch. II 1 al. 12 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^156-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Usure
 
 #### Art. 157
 
-<sup>1.</sup> Celui qui aura exploité la gêne, la dépendance, l’inexpérience ou la faiblesse de la capacité de jugement d’une personne en se faisant accorder ou promettre par elle, pour lui-même ou pour un tiers, en échange d’une prestation, des avantages pécuniaires en disproportion évidente avec celle-ci sur le plan économique,
+[^157-1]
 
-celui qui aura acquis une créance usuraire et l’aura aliénée ou fait valoir,
+<sup>1.</sup> Quiconque exploite la gêne, la dépendance, l’inexpérience ou la faiblesse de la capacité de jugement d’une personne en se faisant accorder ou promettre par elle, pour lui-même ou pour un tiers, en échange d’une prestation, des avantages pécuniaires en disproportion évidente avec celle-ci sur le plan économique,
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+quiconque acquiert une créance usuraire et l’aliène ou la fait valoir,
 
-<sup>2.</sup> Si l’auteur fait métier de l’usure, la peine sera une peine privative de liberté de un à dix ans.
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>2.</sup> Si l’auteur fait métier de l’usure, il est puni d’une peine privative de liberté de six mois à dix ans.
+
+[^157-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Gestion déloyale
 
 #### Art. 158
 
-<sup>1.</sup> Celui qui, en vertu de la loi, d’un mandat officiel ou d’un acte juridique, est tenu de gérer les intérêts pécuniaires d’autrui ou de veiller sur leur gestion et qui, en violation de ses devoirs, aura porté atteinte à ces intérêts ou aura permis qu’ils soient lésés sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^158-1]
 
-Le gérant d’affaires qui, sans mandat, aura agi de même encourra la même peine.
+<sup>1.</sup> Quiconque, en vertu de la loi, d’un mandat officiel ou d’un acte juridique, est tenu de gérer les intérêts pécuniaires d’autrui ou de veiller sur leur gestion et qui, en violation de ses devoirs, porte atteinte à ces intérêts ou permet qu’ils soient lésés est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-Si l’auteur a agi dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, le juge pourra prononcer une peine privative de liberté de un à cinq ans.
+Le gérant d’affaires qui, sans mandat, agit de même encourt la même peine.
 
-<sup>2.</sup> Celui qui, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, aura abusé du pouvoir de représentation que lui confère la loi, un mandat officiel ou un acte juridique et aura ainsi porté atteinte aux intérêts pécuniaires du représenté sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+Si l’auteur agit dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, il est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>3.</sup> La gestion déloyale au préjudice des proches ou des familiers ne sera poursuivie que sur plainte.
+<sup>2.</sup> Quiconque, dans le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, abuse du pouvoir de représentation que lui confère la loi, un mandat officiel ou un acte juridique et porte ainsi atteinte aux intérêts pécuniaires du représenté est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>3.</sup> La gestion déloyale au préjudice des proches ou des familiers n’est poursuivie que sur plainte.
+
+[^158-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Détournement de retenues sur les salaires
 
 #### Art. 159
 
-L’employeur qui aura violé l’obligation d’affecter une retenue de salaire au paiement d’impôts, de taxes, de primes ou de cotisations d’assurance ou à d’autres fins pour le compte de l’employé et aura ainsi porté atteinte aux intérêts pécuniaires de celui-ci sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^159-1]
+
+L’employeur qui viole l’obligation d’affecter une retenue de salaire au paiement d’impôts, de taxes, de primes ou de cotisations d’assurance ou à d’autres fins pour le compte de l’employé et porte ainsi atteinte aux intérêts pécuniaires de celui-ci est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^159-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Recel
 
 #### Art. 160
 
-<sup>1.</sup> Celui qui aura acquis, reçu en don ou en gage, dissimulé ou aidé à négocier une chose dont il savait ou devait présumer qu’un tiers l’avait obtenue au moyen d’une infraction contre le patrimoine sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^160-1]
 
-Le receleur encourra la peine prévue pour l’infraction préalable si cette peine est moins sévère.
+<sup>1.</sup> Quiconque acquiert, reçoit en don ou en gage, dissimule ou aide à négocier une chose dont il sait ou doit présumer qu’un tiers l’a obtenue au moyen d’une infraction contre le patrimoine est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-Si l’infraction préalable est poursuivie sur plainte, le recel ne sera poursuivi que si cette plainte a été déposée.
+Le receleur encourt la peine prévue pour l’infraction préalable si cette peine est moins sévère.
 
-<sup>2.</sup> Si l’auteur fait métier du recel, la peine sera une peine privative de liberté de dix ans au plus ou une peine pécuniaire de 90 jours-amende au moins.
+Si l’infraction préalable est poursuivie sur plainte, le recel n’est poursuivi que si cette plainte a été déposée.
+
+<sup>2.</sup> Si l’auteur fait métier du recel, il est puni d’une peine privative de liberté de six mois à dix ans.
+
+[^160-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 161
 
@@ -2836,91 +2928,120 @@ Si l’infraction préalable est poursuivie sur plainte, le recel ne sera poursu
 
 #### Art. 162
 
-Celui qui aura révélé un secret de fabrication ou un secret commercial qu’il était tenu de garder en vertu d’une obligation légale ou contractuelle,
+[^162-1]
 
-celui qui aura utilisé cette révélation à son profit ou à celui d’un tiers,
+Quiconque révèle un secret de fabrication ou un secret commercial qu’il est tenu de garder en vertu d’une obligation légale ou contractuelle, quiconque utilise cette révélation à son profit ou à celui d’un tiers,
 
-sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-### 3. Crimes ou délits dans la faillite et la poursuite pour dettes
+[^162-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### 3. Crimes ou délits dans la faillite et la poursuite pour dettes.
 
 ### Banqueroute frauduleuse et fraude dans la saisie
 
 #### Art. 163
 
-<sup>1.</sup> Le débiteur qui, de manière à causer un dommage à ses créanciers, aura diminué fictivement son actif, notamment
+[^163-1]
+
+<sup>1.</sup> Le débiteur qui, de manière à causer un dommage à ses créanciers, diminue fictivement son actif, notamment
 
 en distrayant ou en dissimulant des valeurs patrimoniales,
 
 en invoquant des dettes supposées,
 
-en reconnaissant des créances fictives ou en incitant un tiers à les produire
+en reconnaissant des créances fictives ou en incitant un tiers à les produire,
 
-sera, s’il a été déclaré en faillite ou si un acte de défaut de biens a été dressé contre lui, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+est, s’il est déclaré en faillite ou si un acte de défaut de biens est dressé contre lui, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Le tiers qui, dans les mêmes conditions, se sera livré à ces agissements de manière à causer un dommage aux créanciers sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>2.</sup> Le tiers qui, dans les mêmes conditions, se livre à ces agissements de manière à causer un dommage aux créanciers est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^163-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Diminution effective de l’actif au préjudice des créanciers
 
 #### Art. 164
 
-<sup>1.</sup> Le débiteur qui, de manière à causer un dommage à ses créanciers, aura diminué son actif
+[^164-1]
+
+<sup>1.</sup> Le débiteur qui, de manière à causer un dommage à ses créanciers, diminue son actif
 
 en endommageant, détruisant, dépréciant ou mettant hors d’usage des valeurs patrimoniales,
 
 en cédant des valeurs patrimoniales à titre gratuit ou contre une prestation de valeur manifestement inférieure,
 
-en refusant sans raison valable des droits qui lui reviennent ou en renonçant gratuitement à des droits
+en refusant sans raison valable des droits qui lui reviennent ou en renonçant gratuitement à des droits,
 
-sera, s’il a été déclaré en faillite ou si un acte de défaut de biens a été dressé contre lui, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+est, s’il est déclaré en faillite ou si un acte de défaut de biens est dressé contre lui, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Le tiers qui, dans les mêmes conditions, se sera livré à ces agissements de manière à causer un dommage aux créanciers sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>2.</sup> Le tiers qui, dans les mêmes conditions, se livre à ces agissements de manière à causer un dommage aux créanciers est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^164-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Gestion fautive
 
 #### Art. 165
 
+[^165-1]
+
 <sup>1.</sup> Le débiteur qui, de manières autres que celles visées à l’art. 164, par des fautes de gestion, notamment par une dotation insuffisante en capital, par des dépenses exagérées, par des spéculations hasardeuses, par l’octroi ou l’utilisation à la légère de crédits, par le bradage de valeurs patrimoniales ou par une négligence coupable dans l’exercice de sa profession ou dans l’administration de ses biens,
 
-aura causé ou aggravé son surendettement, aura causé sa propre insolvabilité ou aggravé sa situation alors qu’il se savait insolvable,
+cause ou aggrave son surendettement, cause sa propre insolvabilité ou aggrave sa situation alors qu’il se sait insolvable,
 
-sera, s’il a été déclaré en faillite ou si un acte de défaut de biens a été dressé contre lui, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+est, s’il est déclaré en faillite ou si un acte de défaut de biens est dressé contre lui, puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Le débiteur soumis à la poursuite par voie de saisie ne sera poursuivi pénalement que sur plainte d’un créancier ayant obtenu contre lui un acte de défaut de biens.
+1<sup>bis</sup>. La peine est la même si le débiteur obtient une mesure de soutien des autorités destinée à écarter le risque de surendettement ou d’insolvabilité.
 
-La plainte devra être portée dans les trois mois à partir du jour où l’acte de défaut de biens a été délivré.
+<sup>2.</sup> Le débiteur soumis à la poursuite par voie de saisie n’est poursuivi pénalement que sur plainte d’un créancier ayant obtenu contre lui un acte de défaut de biens.
 
-Le créancier qui aura entraîné le débiteur à contracter des dettes à la légère, à faire des dépenses exagérées, à se livrer à des spéculations hasardeuses, ou qui l’aura exploité usurairement n’aura pas le droit de porter plainte.
+La plainte doit être portée dans les trois mois à partir du jour où l’acte de défaut de biens est délivré.
+
+Le créancier qui entraîne le débiteur à contracter des dettes à la légère, à faire des dépenses exagérées, à se livrer à des spéculations hasardeuses, ou qui l’exploite usurairement n’a pas le droit de porter plainte.
+
+[^165-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation de l’obligation de tenir une comptabilité
 
 #### Art. 166
 
-Le débiteur qui aura contrevenu à l’obligation légale de tenir régulièrement ou de conserver ses livres de comptabilité, ou de dresser un bilan, de façon qu’il est devenu impossible d’établir sa situation ou de l’établir complètement, sera, s’il a été déclaré en faillite ou si un acte de défaut de biens a été dressé contre lui à la suite d’une saisie pratiquée en vertu de l’art. 43 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^166-1], puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^166-1]
 
-[^166-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+Le débiteur qui contrevient à l’obligation légale de tenir régulièrement ou de conserver ses livres de comptabilité, ou de dresser un bilan, de façon qu’il devient impossible d’établir sa situation ou de l’établir complètement, est, s’il est déclaré en faillite ou si un acte de défaut de biens est dressé contre lui à la suite d’une saisie pratiquée en vertu de l’art. 43 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^166-2], puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^166-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^166-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 ### Avantages accordés à certains créanciers
 
 #### Art. 167
 
-Le débiteur qui, alors qu’il se savait insolvable et dans le dessein de favoriser certains de ses créanciers au détriment des autres, aura fait des actes tendant à ce but, notamment aura payé des dettes non échues, aura payé une dette échue autrement qu’en numéraire ou en valeurs usuelles, aura, de ses propres moyens, donné des sûretés pour une dette alors qu’il n’y était pas obligé, sera, s’il a été déclaré en faillite ou si un acte de défaut de biens été dressé contre lui, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^167-1]
+
+Le débiteur qui, alors qu’il se sait insolvable et dans le dessein de favoriser certains de ses créanciers au détriment des autres, fait des actes tendant à ce but, notamment paie des dettes non échues, paie une dette échue autrement qu’en numéraire ou en valeurs usuelles, donne, de ses propres moyens, des sûretés pour une dette alors qu’il n’y est pas obligé, est, s’il est déclaré en faillite ou si un acte de défaut de biens est dressé contre lui, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^167-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Subornation dans l’exécution forcée
 
 #### Art. 168
 
-<sup>1</sup> Celui qui, pour gagner la voix d’un créancier ou de son représentant dans l’assemblée des créanciers ou dans la commission de surveillance ou pour obtenir son consentement à un concordat judiciaire ou à son rejet, lui aura accordé ou promis des avantages spéciaux sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^168-1]
 
-<sup>2</sup> Celui qui aura accordé ou promis des avantages spéciaux à l’administrateur de la faillite, à un membre de l’administration, au commissaire ou au liquidateur afin d’influencer ses décisions sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
 
-<sup>3</sup> Celui qui se sera fait accorder ou promettre de tels avantages encourra la même peine.
+- a. pour gagner la voix d’un créancier ou de son représentant dans l’assemblée des créanciers ou dans la commission de surveillance ou pour obtenir son consentement à un concordat judiciaire ou à son rejet, lui accorde ou promet des avantages spéciaux;
+- b. accorde ou promet des avantages spéciaux à l’administrateur de la faillite, à un membre de l’administration, au commissaire ou au liquidateur afin d’influencer ses décisions;
+- c. se fait accorder ou promettre les avantages mentionnés aux let. a ou b.
+
+[^168-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Détournement de valeurs patrimoniales mises sous main de justice
 
 #### Art. 169
 
-Celui qui, de manière à causer un dommage à ses créanciers, aura arbitrairement disposé d’une valeur patrimoniale
+[^169-1]
+
+Quiconque, de manière à causer un dommage à ses créanciers, dispose arbitrairement d’une valeur patrimoniale
 
 saisie ou séquestrée,
 
@@ -2930,19 +3051,25 @@ portée à un inventaire constatant un droit de rétention ou
 
 appartenant à l’actif cédé dans un concordat par abandon d’actif
 
-ou l’aura endommagée, détruite, dépréciée ou mise hors d’usage
+ou l’endommage, la détruit, la déprécie ou la met hors d’usage
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^169-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Obtention frauduleuse d’un concordat judiciaire
 
 #### Art. 170
 
-Le débiteur qui, pour obtenir un sursis concordataire ou l’homologation d’un concordat judiciaire, aura, notamment au moyen d’une comptabilité inexacte ou d’un faux bilan, induit en erreur sur sa situation pécuniaire ses créanciers, le commissaire au concordat ou l’autorité compétente,
+[^170-1]
 
-le tiers qui se sera livré à de tels agissements au profit du débiteur,
+Le débiteur qui, pour obtenir un sursis concordataire ou l’homologation d’un concordat judiciaire, induit ses créanciers, le commissaire au concordat ou l’autorité compétente en erreur sur sa situation pécuniaire, notamment au moyen d’une comptabilité inexacte ou d’un faux bilan,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+le tiers qui se livre à de tels agissements au profit du débiteur,
+
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^170-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Concordat judiciaire
 
@@ -2950,17 +3077,15 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 <sup>1</sup> Les art. 163, ch. 1, 164, ch. 1, 165, ch. 1, 166 et 167 sont également applicables lorsqu’un concordat judiciaire a été accepté et homologué.
 
-<sup>2</sup> Si le débiteur ou le tiers au sens des art. 163, ch. 2 et 164, ch. 2, a déployé des efforts particuliers d’ordre économique et a ainsi facilité l’aboutissement du concordat judiciaire, l’autorité compétente pourra renoncer à le poursuivre pénalement, à le renvoyer devant le tribunal ou à lui infliger une peine.
+<sup>2</sup> …[^171-1]
 
-### Révocation de la faillite
+[^171-1]: Abrogé par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 171<sup>bis</sup>
 
-<sup>1</sup> Lorsque la faillite est révoquée (art. 195 LP[^171bis-1]), l’autorité compétente pourra renoncer à une poursuite pénale, à un renvoi devant le tribunal ou au prononcé d’une peine.
+[^171bis-1]
 
-<sup>2</sup> Lorsqu’un concordat judiciaire a été conclu, l’al. 1 n’est applicable que si le débiteur ou le tiers au sens des art. 163, ch. 2 et 164, ch. 2, a déployé des efforts particuliers d’ordre économique et a ainsi facilité son aboutissement.
-
-[^171bis-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^171bis-1]: Abrogé par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 4. Dispositions générales.
 
@@ -2982,9 +3107,11 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 #### Art. 172<sup>ter</sup>
 
-<sup>1</sup> Si l’acte ne visait qu’un élément patrimonial de faible valeur ou un dommage de moindre importance, l’auteur sera, sur plainte, puni d’une amende.
+<sup>1</sup> Si l’acte ne vise qu’un élément patrimonial de faible valeur ou un dommage de moindre importance, l’auteur est, sur plainte, puni d’une amende.[^172ter-1]
 
 <sup>2</sup> Cette disposition n’est pas applicable au vol qualifié (art. 139, ch. 2 et 3), au brigandage ainsi qu’à l’extorsion et au chantage.
+
+[^172ter-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 3 Infractions contre l’honneur et contre le domaine secret ou le domaine privé
 
@@ -2992,47 +3119,47 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^book2-tit3-1]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 1968, en vigueur depuis le 1<sup>er</sup> mai 1969 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
 
-### 1. Délits contre l’honneur
+### 1. Délits contre l’honneur.
 
 ### Diffamation
 
-#### Art. 173
+#### Art 173
 
 [^173-1]
 
-<sup>1.</sup> Celui qui, en s’adressant à un tiers, aura accusé une personne ou jeté sur elle le soupçon de tenir une conduite contraire à l’honneur, ou de tout autre fait propre à porter atteinte à sa considération,
+<sup>1.</sup> Quiconque, en s’adressant à un tiers, accuse une personne ou jette sur elle le soupçon de tenir une conduite contraire à l’honneur, ou de tout autre fait propre à porter atteinte à sa considération,
 
-celui qui aura propagé une telle accusation ou un tel soupçon,
+quiconque propage une telle accusation ou un tel soupçon,
 
-sera, sur plainte, puni d’une peine pécuniaire.[^173-2]
+est, sur plainte, puni d’une peine pécuniaire.
 
-<sup>2.</sup> L’inculpé n’encourra aucune peine s’il prouve que les allégations qu’il a articulées ou propagées sont conformes à la vérité ou qu’il avait des raisons sérieuses de les tenir de bonne foi pour vraies.
+<sup>2.</sup> L’auteur n’encourt aucune peine s’il prouve que les allégations qu’il a articulées ou propagées sont conformes à la vérité ou qu’il a des raisons sérieuses de les tenir de bonne foi pour vraies.
 
-<sup>3.</sup> L’inculpé ne sera pas admis à faire ces preuves et il sera punissable si ses allégations ont été articulées ou propagées sans égard à l’intérêt public ou sans autre motif suffisant, principalement dans le dessein de dire du mal d’autrui, notamment lorsqu’elles ont trait à la vie privée ou à la vie de famille.
+<sup>3.</sup> L’auteur n’est pas admis à faire ces preuves et il est punissable si ses allégations ont été articulées ou propagées sans égard à l’intérêt public ou sans autre motif suffisant, principalement dans le dessein de dire du mal d’autrui, notamment lorsqu’elles ont trait à la vie privée ou à la vie de famille.
 
-<sup>4.</sup> Si l’auteur reconnaît la fausseté de ses allégations et les rétracte, le juge pourra atténuer la peine ou exempter le délinquant de toute peine.
+<sup>4.</sup> Si l’auteur reconnaît la fausseté de ses allégations et les rétracte, le juge peut atténuer la peine ou renoncer à prononcer une peine.
 
-<sup>5.</sup> Si l’inculpé n’a pas fait la preuve de la vérité de ses allégations ou si elles étaient contraires à la vérité ou si l’inculpé les a rétractées, le juge le constatera dans le jugement ou dans un autre acte écrit.
+<sup>5.</sup> Si l’auteur ne fait pas la preuve de la vérité de ses allégations ou si elles sont contraires à la vérité ou si l’auteur les rétracte, le juge le constate dans le jugement ou dans un autre acte écrit.
 
-[^173-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
-[^173-2]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^173-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Calomnie
 
 #### Art. 174
 
-<sup>1.</sup> Celui qui, connaissant la fausseté de ses allégations, aura, en s’adressant à un tiers, accusé une personne ou jeté sur elle le soupçon de tenir une conduite contraire à l’honneur, ou de tout autre fait propre à porter atteinte à sa considération,
+[^174-1]
 
-celui qui aura propagé de telles accusations ou de tels soupçons, alors qu’il en connaissait l’inanité,
+<sup>1.</sup> Quiconque, connaissant la fausseté de ses allégations et en s’adressant à un tiers, accuse une personne ou jette sur elle le soupçon de tenir une conduite contraire à l’honneur, ou de tout autre fait propre à porter atteinte à sa considération,
 
-sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^174-1]
+quiconque propage de telles accusations ou de tels soupçons, alors qu’il en connaît l’inanité,
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire de 30 jours-amende au moins[^174-2] si le calomniateur a, de propos délibéré, cherché à ruiner la réputation de sa victime.
+est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>3.</sup> Si, devant le juge, le délinquant reconnaît la fausseté de ses allégations et les rétracte, le juge pourra atténuer la peine. Le juge donnera acte de cette rétractation à l’offensé.
+<sup>2.</sup> Le calomniateur est puni d’une peine privative de liberté d’un mois à trois ans ou d’une peine pécuniaire de 30 jours-amende au moins s’il cherche de propos délibéré à ruiner la réputation de sa victime.
 
-[^174-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)). Voir aussi [RO 57 1364](https://fedlex.data.admin.ch/eli/oc/57/1328_1364_1408).
-[^174-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>3.</sup> Si, devant le juge, l’auteur reconnaît la fausseté de ses allégations et les rétracte, le juge peut atténuer la peine. Le juge donne acte de cette rétractation à l’offensé.
+
+[^174-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Diffamation et calomnie contre un mort ou un absent
 
@@ -3040,7 +3167,9 @@ sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus
 
 <sup>1</sup> Si la diffamation ou la calomnie vise une personne décédée ou déclarée absente, le droit de porter plainte appartient aux proches du défunt ou de l’absent.
 
-<sup>2</sup> Toutefois, aucune peine ne sera encourue s’il s’est écoulé plus de trente ans depuis le décès ou la déclaration d’absence.
+<sup>2</sup> Toutefois, aucune peine n’est encourue s’il s’est écoulé plus de trente ans depuis le décès ou la déclaration d’absence.[^175-1]
+
+[^175-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Disposition commune
 
@@ -3052,13 +3181,15 @@ sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus
 
 #### Art. 177
 
-<sup>1</sup> Celui qui, de toute autre manière, aura, par la parole, l’écriture, l’image, le geste ou par des voies de fait, attaqué autrui dans son honneur sera, sur plainte, puni d’une peine pécuniaire de 90 jours-amende au plus.[^177-1]
+[^177-1]
 
-<sup>2</sup> Le juge pourra exempter le délinquant de toute peine si l’injurié a directement provoqué l’injure par une conduite répréhensible.
+<sup>1</sup> Quiconque, de toute autre manière, attaque autrui dans son honneur par la parole, l’écriture, l’image, le geste ou par des voies de fait, est, sur plainte, puni d’une peine pécuniaire de 90 jours-amende au plus.
 
-<sup>3</sup> Si l’injurié a riposté immédiatement par une injure ou par des voies de fait, le juge pourra exempter de toute peine les deux délinquants ou l’un d’eux.
+<sup>2</sup> Le juge peut renoncer à prononcer une peine si l’injurié provoque directement l’injure par une conduite répréhensible.
 
-[^177-1]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>3</sup> Si l’injurié riposte immédiatement par une injure ou par des voies de fait, le juge peut renoncer à prononcer une peine contre les deux auteurs ou l’un d’eux.
+
+[^177-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Prescription
 
@@ -3071,21 +3202,21 @@ sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus
 [^178-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342), [1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
 [^178-2]: Nouvelle teneur selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
-### 2. Infractions contre le domaine secret ou le domaine privé
-
-[^book2-tit3-lvl2-1]
-
-[^book2-tit3-lvl2-1]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 1968, en vigueur depuis le 1<sup>er</sup> mai 1969 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
+### 2. Infractions contre le domaine secret ou le domaine privé.
 
 ### Violation de secrets privés
 
 #### Art. 179
 
-Celui qui, sans en avoir le droit, aura ouvert un pli ou colis fermé pour prendre connaissance de son contenu,
+[^179-1]
 
-celui qui, ayant pris connaissance de certains faits en ouvrant un pli ou colis fermé qui ne lui était pas destiné, aura divulgué ces faits ou en aura tiré profit,
+Quiconque, sans en avoir le droit, ouvre un pli ou colis fermé pour prendre connaissance de son contenu,
 
-sera, sur plainte, puni d’une amende.
+quiconque, ayant pris connaissance de certains faits en ouvrant un pli ou colis fermé qui ne lui est pas destiné, divulgue ces faits ou en tire profit,
+
+est, sur plainte, puni d’une amende.
+
+[^179-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Écoute et enregistrement de conversations entre d’autres personnes
 
@@ -3093,15 +3224,15 @@ sera, sur plainte, puni d’une amende.
 
 [^179bis-1]
 
-Celui qui, sans le consentement de tous les participants, aura écouté à l’aide d’un appareil d’écoute ou enregistré sur un porteur de son une conversation non publique entre d’autres personnes,
+Quiconque, sans le consentement de tous les participants, écoute à l’aide d’un appareil d’écoute ou enregistre sur un porteur de son une conversation non publique entre d’autres personnes,
 
-celui qui aura tiré profit ou donné connaissance à un tiers d’un fait qu’il savait ou devait présumer être parvenu à sa propre connaissance au moyen d’une infraction visée à l’al. 1,
+quiconque tire profit ou donne connaissance à un tiers d’un fait qu’il sait ou doit présumer être parvenu à sa propre connaissance au moyen d’une infraction visée à l’al. 1,
 
-celui qui aura conservé ou rendu accessible à un tiers un enregistrement qu’il savait ou devait présumer avoir été réalisé au moyen d’une infraction visée à l’al. 1,
+quiconque conserve ou rend accessible à un tiers un enregistrement qu’il sait ou doit présumer avoir été réalisé au moyen d’une infraction visée à l’al. 1,
 
-sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^179bis-1]: Introduit par le ch. I de la LF du 20 déc. 1968, en vigueur depuis le 1<sup>er</sup> mai 1969 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
+[^179bis-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Enregistrement non autorisé de conversations
 
@@ -3109,14 +3240,13 @@ sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus
 
 [^179ter-1]
 
-Celui qui, sans le consentement des autres interlocuteurs, aura enregistré sur un porteur de son une conversation non publique à laquelle il prenait part,
+Quiconque, sans le consentement des autres interlocuteurs, enregistre sur un porteur de son une conversation non publique à laquelle il prend part,
 
-celui qui aura conservé un enregistrement qu’il savait ou devait présumer avoir été réalisé au moyen d’une infraction visée à l’al. 1, ou en aura tiré profit, ou l’aura rendu accessible à un tiers,
+quiconque conserve un enregistrement qu’il sait ou doit présumer avoir été réalisé au moyen d’une infraction visée à l’al. 1, en tire profit ou le rend accessible à un tiers,
 
-sera, sur plainte, puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.[^179ter-2]
+est, sur plainte, puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
 
-[^179ter-1]: Introduit par le ch. I de la LF du 20 déc. 1968, en vigueur depuis le 1<sup>er</sup> mai 1969 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
-[^179ter-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^179ter-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation du domaine secret ou du domaine privé au moyen d’un appareil de prise de vues
 
@@ -3124,15 +3254,15 @@ sera, sur plainte, puni d’une peine privative de liberté d’un an au plus ou
 
 [^179quater-1]
 
-Celui qui, sans le consentement de la personne intéressée, aura observé avec un appareil de prise de vues ou fixé sur un porteur d’images un fait qui relève du domaine secret de cette personne ou un fait ne pouvant être perçu sans autre par chacun et qui relève du domaine privé de celle-ci,
+Quiconque, sans le consentement de la personne intéressée, observe avec un appareil de prise de vues ou fixe sur un porteur d’images un fait qui relève du domaine secret de cette personne ou un fait ne pouvant être perçu sans autre par chacun et qui relève du domaine privé de celle-ci,
 
-celui qui aura tiré profit ou donné connaissance à un tiers d’un fait qu’il savait ou devait présumer être parvenu à sa propre connaissance au moyen d’une infraction visée à l’al. 1,
+quiconque tire profit ou donne connaissance à un tiers d’un fait qu’il sait ou doit présumer être parvenu à sa propre connaissance au moyen d’une infraction visée à l’al. 1,
 
-celui qui aura conservé une prise de vues ou l’aura rendue accessible à un tiers, alors qu’il savait ou devait présumer qu’elle avait été obtenue au moyen d’une infraction visée à l’al. 1,
+quiconque conserve une prise de vues ou la rend accessible à un tiers, alors qu’il sait ou doit présumer qu’elle a été obtenue au moyen d’une infraction visée à l’al. 1,
 
-sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^179quater-1]: Introduit par le ch. I de la LF du 20 déc. 1968, en vigueur depuis le 1<sup>er</sup> mai 1969 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
+[^179quater-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Enregistrements non punissables
 
@@ -3142,15 +3272,14 @@ sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus
 
 <sup>1</sup>
 
-N’est pas punissable en vertu des art. 179<sup>bis</sup>, al. 1, et 179<sup>ter</sup>, al. 1, celui qui, en tant qu’interlocuteur ou en tant qu’abonné[^179quinquies-2] de la ligne utilisée, aura enregistré des conversations téléphoniques:
+N’est pas punissable en vertu des art. 179<sup>bis</sup>, al. 1, et 179<sup>ter</sup>, al. 1, quiconque, en tant qu’interlocuteur ou en tant qu’abonné de la ligne utilisée, enregistre des conversations téléphoniques:
 
 - a. avec des services d’assistance, de secours ou de sécurité;
-- b. portant sur des commandes, des mandats, des réservations ou d’autres transactions commerciales de même nature, dans le cadre de relations d’affaires;
+- b. portant sur des commandes, des mandats, des réservations ou d’autres transactions commerciales de même nature, dans le cadre de relations d’affaires.
 
-<sup>2</sup> Les art. 179<sup>bis</sup>, al. 2 et 3, et 179<sup>ter</sup>, al. 2, s’appliquent par analogie à l’utilisation des enregistrements.
+<sup>2</sup> Les enregistrements au sens de l’al. 1 ne peuvent être utilisés que comme moyens de preuve.
 
-[^179quinquies-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 823](https://fedlex.data.admin.ch/eli/oc/2004/92); [FF 2001 2502](https://fedlex.data.admin.ch/eli/fga/2001/528), [5556](https://fedlex.data.admin.ch/eli/fga/2001/920)).
-[^179quinquies-2]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^179quinquies-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mise en circulation et réclame en faveur d’appareils d’écoute, de prise de son et de prise de vues
 
@@ -3158,15 +3287,15 @@ N’est pas punissable en vertu des art. 179<sup>bis</sup>, al. 1, et 179<sup>te
 
 [^179sexies-1]
 
-<sup>1.</sup> Celui qui aura fabriqué, importé, exporté, acquis, stocké, possédé, transporté, remis à un tiers, vendu, loué, prêté ou mis en circulation de toute autre manière des appareils techniques servant en particulier à l’écoute illicite ou à la prise illicite de son ou de vues, fourni des indications en vue de leur fabrication ou fait de la réclame en leur faveur,
+<sup>1.</sup> Quiconque fabrique, importe, exporte, acquiert, stocke, possède, transporte, remet à un tiers, vend, loue, prête ou met en circulation de toute autre manière des appareils techniques servant en particulier à l’écoute illicite ou à la prise illicite de son ou de vues, fournit des indications en vue de leur fabrication ou fait de la réclame en leur faveur,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Lorsque le délinquant a agi dans l’intérêt d’un tiers, celui-ci encourra la même peine s’il connaissait l’infraction et n’a pas fait tout ce qui était en son pouvoir pour l’empêcher.
+<sup>2.</sup> Lorsque l’auteur agit dans l’intérêt d’un tiers, celui-ci encourt la même peine s’il connaissait l’infraction et n’a pas fait tout ce qui était en son pouvoir pour l’empêcher.
 
 Lorsque le tiers est une personne morale, une société en nom collectif ou en commandite ou une entreprise individuelle, l’al. 1 est applicable aux personnes physiques qui ont agi ou auraient dû agir en son nom.
 
-[^179sexies-1]: Introduit par le ch. I de la LF du 20 déc. 1968, en vigueur depuis le 1<sup>er</sup> mai 1969 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
+[^179sexies-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Utilisation abusive d’une installation de télécommunication
 
@@ -3174,9 +3303,9 @@ Lorsque le tiers est une personne morale, une société en nom collectif ou en c
 
 [^179septies-1]
 
-Celui qui, par méchanceté ou par espièglerie, aura utilisé abusivement une installation de télécommunication pour inquiéter un tiers ou pour l’importuner sera, sur plainte, puni d’une amende.
+Quiconque utilise abusivement une installation de télécommunication pour inquiéter un tiers ou pour l’importuner est, sur plainte, puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
 
-[^179septies-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 30 avr. 1997 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187); [FF 1996 III 1361](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)).
+[^179septies-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mesures officielles de surveillance. Exemption de peine
 
@@ -3184,12 +3313,13 @@ Celui qui, par méchanceté ou par espièglerie, aura utilisé abusivement une i
 
 [^179octies-1]
 
-<sup>1</sup> Celui qui, dans l’exercice d’une attribution que lui confère expressément la loi, ordonne ou met en œuvre la surveillance de la correspondance par poste et télécommunication d’une personne ou utilise des appareils techniques de surveillance (art. 179<sup>bis</sup> ss) n’est pas punissable, pour autant que l’autorisation du juge compétent ait été immédiatement demandée.
+<sup>1</sup> Quiconque, dans l’exercice d’une attribution que lui confère expressément la loi, ordonne ou met en œuvre la surveillance de la correspondance par poste et télécommunication d’une personne ou utilise des appareils techniques de surveillance (art. 179<sup>bis</sup> ss) n’est pas punissable, pour autant que l’autorisation du juge compétent ait été immédiatement demandée.
 
-<sup>2</sup> Les conditions de la surveillance de la correspondance par poste et télécommunication et la procédure sont régies par la loi fédérale du 6 octobre 2000 sur la surveillance de la correspondance par poste et télécommunication[^179octies-2].
+<sup>2</sup> Les conditions de la surveillance de la correspondance par poste et télécommunication et la procédure sont régies par la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication[^179octies-2] ou par le code de procédure pénale[^179octies-3].
 
-[^179octies-1]: Introduit par le ch. VII de la LF du 23 mars 1979 sur la protection de la vie privée ([RO 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 521](https://fedlex.data.admin.ch/eli/fga/1976/1__521_)II 1529). Nouvelle teneur selon l’annexe ch. 1 de la LF du 6 oct. 2000 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3689).
-[^179octies-2]: [[RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)ch. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)annexe ch. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)anexe [1](https://fedlex.data.admin.ch/eli/oc/2010/1)ch. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)annexe ch. II 14, **2017** 40195 annexe ch. II 12. [RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
+[^179octies-1]: Introduit par le ch. VII de la LF du 23 mars 1979 sur la protection de la vie privée ([RO 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 521](https://fedlex.data.admin.ch/eli/fga/1976/1__521_)II 1529). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^179octies-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^179octies-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 ### Soustraction de données personnelles
 
@@ -3197,9 +3327,9 @@ Celui qui, par méchanceté ou par espièglerie, aura utilisé abusivement une i
 
 [^179novies-1]
 
-Celui qui aura soustrait d’un fichier des données personnelles sensibles ou des profils de la personnalité qui ne sont pas librement accessibles sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Quiconque soustrait d’un fichier des données personnelles sensibles ou des profils de la personnalité qui ne sont pas librement accessibles est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^179novies-1]: Introduit par l’annexe ch. 4 de la LF du 19 juin 1992 sur la protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^179novies-1]: Introduit par l’annexe ch. 4 de la LF du 19 juin 1992 sur la protection des données ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 4 Crimes ou délits contre la liberté
 
@@ -3207,24 +3337,31 @@ Celui qui aura soustrait d’un fichier des données personnelles sensibles ou d
 
 #### Art. 180
 
-<sup>1</sup> Celui qui, par une menace grave, aura alarmé ou effrayé une personne sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque, par une menace grave, alarme ou effraie une personne est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire[^180-1].[^180-2]
 
 <sup>2</sup>
 
-La poursuite aura lieu d’office:
+La poursuite a lieu d’office:[^180-3]
 
 - a. si l’auteur est le conjoint de la victime et que la menace a été commise durant le mariage ou dans l’année qui a suivi le divorce;
-- [tab] a<sup>bis</sup>.[^180-1] si l’auteur est le partenaire de la victime et que la menace a été commise durant le partenariat enregistré ou dans l’année qui a suivi sa dissolution judiciaire;
-- b. si l’auteur est le partenaire hétérosexuel ou homosexuel de la victime pour autant qu’ils fassent ménage commun pour une durée indéterminée et que la menace ait été commise durant cette période ou dans l’année qui a suivi la séparation.[^180-2]
+- [tab] a<sup>bis</sup>.[^180-4] si l’auteur est le partenaire de la victime et que la menace a été commise durant le partenariat enregistré ou dans l’année qui a suivi sa dissolution judiciaire;
+- b. si l’auteur est le partenaire hétérosexuel ou homosexuel de la victime pour autant qu’ils fassent ménage commun pour une durée indéterminée et que la menace ait été commise durant cette période ou dans l’année qui a suivi la séparation.[^180-5]
 
-[^180-1]: Introduite par l’annexe ch. 18 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^180-2]: Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^180-1]: Nouvelle expression selon le ch. II 1 al. 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^180-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^180-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^180-4]: Introduite par l’annexe ch. 18 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^180-5]: Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Contrainte
 
 #### Art. 181
 
-Celui qui, en usant de violence envers une personne ou en la menaçant d’un dommage sérieux, ou en l’entravant de quelque autre manière dans sa liberté d’action, l’aura obligée à faire, à ne pas faire ou à laisser faire un acte sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^181-1]
+
+Quiconque, en usant de violence envers une personne ou en la menaçant d’un dommage sérieux, ou en l’entravant de quelque autre manière dans sa liberté d’action, l’oblige à faire, à ne pas faire ou à laisser faire un acte est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^181-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mariage forcé, partenariat forcé
 
@@ -3244,15 +3381,18 @@ Celui qui, en usant de violence envers une personne ou en la menaçant d’un do
 
 [^182-1]
 
-<sup>1</sup> Celui qui, en qualité d’offreur, d’intermédiaire ou d’acquéreur, se livre à la traite d’un être humain à des fins d’exploitation sexuelle, d’exploitation de son travail ou en vue du prélèvement d’un organe, est puni d’une peine privative de liberté ou d’une peine pécuniaire. Le fait de recruter une personne à ces fins est assimilé à la traite.
+<sup>1</sup> Quiconque, en qualité d’offreur, d’intermédiaire ou d’acquéreur, se livre à la traite d’un être humain à des fins d’exploitation sexuelle, d’exploitation de son travail ou en vue du prélèvement d’un organe, est puni d’une peine privative de liberté ou d’une peine pécuniaire.[^182-2] Le fait de recruter une personne à ces fins est assimilé à la traite.
 
 <sup>2</sup> Si la victime est mineure ou si l’auteur fait métier de la traite d’êtres humains, la peine est une peine privative de liberté d’un an au moins.
 
-<sup>3</sup> Dans tous les cas, l’auteur est aussi puni d’une peine pécuniaire.
+<sup>3</sup> …[^182-3]
 
-<sup>4</sup> Est également punissable celui qui commet l’infraction à l’étranger. Les art. 5 et 6 sont applicables.
+<sup>4</sup> Est également punissable quiconque commet l’infraction à l’étranger. Les art. 5 et 6 sont applicables.[^182-4]
 
 [^182-1]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 24 mars 2006 (Prot. facultatif du 25 mai 2000 se rapportant à la Conv. relative aux droits de l’enfant, concernant la vente d’enfants, la prostitution des enfants et la pornographie mettant en scène des enfants), en vigueur depuis le 1<sup>er</sup> déc. 2006 ([RO 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823); [FF 2005 2639](https://fedlex.data.admin.ch/eli/fga/2005/433)).
+[^182-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^182-3]: Abrogé par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^182-4]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Séquestration et enlèvement
 
@@ -3260,15 +3400,15 @@ Celui qui, en usant de violence envers une personne ou en la menaçant d’un do
 
 [^183-1]
 
-<sup>1.</sup> Celui qui, sans droit, aura arrêté une personne, l’aura retenue prisonnière, ou l’aura, de toute autre manière, privée de sa liberté,
+<sup>1.</sup> Quiconque, sans droit, arrête une personne, la retient prisonnière, ou, de toute autre manière, la prive de sa liberté,
 
-celui qui, en usant de violence, de ruse ou de menace, aura enlevé une personne,
+quiconque, en usant de violence, de ruse ou de menace, enlève une personne,
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Encourra la même peine celui qui aura enlevé une personne incapable de discernement ou de résistance ou âgée de moins de seize ans.
+<sup>2.</sup> Encourt la même peine quiconque enlève une personne incapable de discernement ou de résistance ou âgée de moins de 16 ans.
 
-[^183-1]: Nouvelle teneur selon le ch. I de la LF du 9 oct. 1981, en vigueur depuis le 1<sup>er</sup> oct. 1982 ([RO 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [FF 1980 I 1216](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
+[^183-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Circonstances aggravantes
 
@@ -3276,17 +3416,17 @@ sera puni d’une peine privative de liberté de cinq ans au plus ou d’une pei
 
 [^184-1]
 
-La séquestration et l’enlèvement seront punis d’une peine privative de liberté d’un an au moins,
+La séquestration et l’enlèvement sont punis d’une peine privative de liberté d’un an au moins
 
-si l’auteur a cherché à obtenir rançon,
+si l’auteur cherche à obtenir rançon,
 
-s’il a traité la victime avec cruauté,
+s’il traite la victime avec cruauté,
 
-si la privation de liberté a duré plus de dix jours
+si la privation de liberté dure plus de dix jours
 
-ou si la santé de la victime a été sérieusement mise en danger.
+ou si la santé de la victime est sérieusement mise en danger.
 
-[^184-1]: Nouvelle teneur selon le ch. I de la LF du 9 oct. 1981, en vigueur depuis le 1<sup>er</sup> oct. 1982 ([RO 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [FF 1980 I 1216](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
+[^184-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Prise d’otage
 
@@ -3294,23 +3434,27 @@ ou si la santé de la victime a été sérieusement mise en danger.
 
 [^185-1]
 
-<sup>1.</sup> Celui qui aura séquestré, enlevé une personne ou de toute autre façon s’en sera rendu maître, pour contraindre un tiers à faire, à ne pas faire ou à laisser faire un acte,
+<sup>1.</sup> Quiconque séquestre, enlève une personne ou de toute autre façon s’en rend maître, pour contraindre un tiers à faire, à ne pas faire ou à laisser faire un acte,
 
-celui qui, aux mêmes fins, aura profité d’une prise d’otage commise par autrui,
+quiconque, aux mêmes fins, profite d’une prise d’otage commise par autrui,
 
-sera puni d’une peine privative de liberté d’un an au moins.
+est puni d’une peine privative de liberté d’un an au moins.[^185-2]
 
-<sup>2.</sup> La peine sera la peine privative de liberté de trois ans au moins, si l’auteur a menacé de tuer la victime, de lui causer des lésions corporelles graves ou de la traiter avec cruauté.
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au moins s’il menace de tuer la victime, de lui causer des lésions corporelles graves ou de la traiter avec cruauté.[^185-3]
 
-<sup>3.</sup> Dans les cas particulièrement graves, notamment lorsque l’acte a été dirigé contre un grand nombre de personnes, le juge pourra prononcer une peine privative de liberté à vie.
+<sup>3.</sup> Dans les cas particulièrement graves, notamment lorsque l’acte est dirigé contre un grand nombre de personnes, le juge peut prononcer une peine privative de liberté à vie.[^185-4]
 
-<sup>4.</sup> Lorsque l’auteur a renoncé à la contrainte et libéré la victime, la peine pourra être atténuée (art. 48*a*).[^185-2]
+<sup>4.</sup> Lorsque l’auteur renonce à la contrainte et libère la victime, la peine peut être atténuée (art. 48*a*).[^185-5]
 
-<sup>5.</sup> Est également punissable celui qui aura commis l’infraction à l’étranger, s’il est arrêté en Suisse et n’est pas extradé. L’art. 7, al. 4 et 5, est applicable.[^185-3]
+<sup>5.</sup> Est également punissable quiconque commet l’infraction à l’étranger, s’il est arrêté en Suisse et n’est pas extradé.[^185-6] L’art. 7, al. 4 et 5, est applicable.[^185-7]
 
 [^185-1]: Nouvelle teneur selon le ch. I de la LF du 9 oct. 1981, en vigueur depuis le 1<sup>er</sup> oct. 1982 ([RO 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [FF 1980 I 1216](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
-[^185-2]: Nouvelle teneur selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^185-3]: Nouvelle teneur de la phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^185-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^185-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^185-4]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^185-5]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^185-6]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^185-7]: Nouvelle teneur de la phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 ### Disparition forcée
 
@@ -3333,7 +3477,11 @@ Est puni d’une peine privative de liberté d’un an au moins quiconque, dans 
 
 #### Art. 186
 
-Celui qui, d’une manière illicite et contre la volonté de l’ayant droit, aura pénétré dans une maison, dans une habitation, dans un local fermé faisant partie d’une maison, dans un espace, cour ou jardin clos et attenant à une maison, ou dans un chantier, ou y sera demeuré au mépris de l’injonction de sortir à lui adressée par un ayant droit sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^186-1]
+
+Quiconque, d’une manière illicite et contre la volonté de l’ayant droit, pénètre dans une maison, dans une habitation, dans un local fermé faisant partie d’une maison, dans un espace, cour ou jardin clos et attenant à une maison, ou dans un chantier, ou y demeure au mépris de l’injonction de sortir à lui adressée par un ayant droit est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^186-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 5 Infractions contre l’intégrité sexuelle
 
@@ -3353,21 +3501,22 @@ celui qui aura entraîné un enfant de cet âge à commettre un acte d’ordre s
 
 celui qui aura mêlé un enfant de cet âge à un acte d’ordre sexuel,
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire[^187-1].
 
 <sup>2.</sup> L’acte n’est pas punissable si la différence d’âge entre les participants ne dépasse pas trois ans.
 
-<sup>3.</sup> Si, au moment de l’acte ou du premier acte commis, l’auteur avait moins de 20 ans et en cas de circonstances particulières ou si la victime a contracté mariage ou conclu un partenariat enregistré avec l’auteur, l’autorité compétente peut renoncer à le poursuivre, à le renvoyer devant le tribunal ou à lui infliger une peine.[^187-1]
+<sup>3.</sup> Si, au moment de l’acte ou du premier acte commis, l’auteur avait moins de 20 ans et en cas de circonstances particulières ou si la victime a contracté mariage ou conclu un partenariat enregistré avec l’auteur, l’autorité compétente peut renoncer à le poursuivre, à le renvoyer devant le tribunal ou à lui infliger une peine.[^187-2]
 
 <sup>4.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si l’auteur a agi en admettant par erreur que sa victime était âgée de 16 ans au moins alors qu’en usant des précautions voulues il aurait pu éviter l’erreur.
 
-<sup>5.</sup> …[^187-2]
+<sup>5.</sup> …[^187-3]
 
-<sup>6.</sup> …[^187-3]
+<sup>6.</sup> …[^187-4]
 
-[^187-1]: Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^187-2]: Abrogé par le ch. I de la LF du 21 mars 1997, avec effet au 1<sup>er</sup> sept. 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1320)
-[^187-3]: Introduit par le ch. I de la LF du 21 mars 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1320). Abrogé par le ch. I de la LF du 5 oct. 2001 (Prescription de l’action pénale en général et en cas d’infraction contre l’intégrité sexuelle des enfants), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2769](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+[^187-1]: Nouvelle expression selon le ch. II 1 al. 3 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^187-2]: Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^187-3]: Abrogé par le ch. I de la LF du 21 mars 1997, avec effet au 1<sup>er</sup> sept. 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1320)
+[^187-4]: Introduit par le ch. I de la LF du 21 mars 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1320). Abrogé par le ch. I de la LF du 5 oct. 2001 (Prescription de l’action pénale en général et en cas d’infraction contre l’intégrité sexuelle des enfants), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2769](https://fedlex.data.admin.ch/eli/fga/2000/612)).
 
 ### Actes d’ordre sexuel avec des personnes dépendantes
 
@@ -3389,27 +3538,30 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 #### Art. 189
 
-<sup>1</sup> Celui qui, notamment en usant de menace ou de violence envers une personne, en exerçant sur elle des pressions d’ordre psychique ou en la mettant hors d’état de résister l’aura contrainte à subir un acte analogue à l’acte sexuel ou un autre acte d’ordre sexuel, sera puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Celui qui, notamment en usant de menace ou de violence envers une personne, en exerçant sur elle des pressions d’ordre psychique ou en la mettant hors d’état de résister l’aura contrainte à subir un acte analogue à l’acte sexuel ou un autre acte d’ordre sexuel, sera puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire[^189-1].
 
-<sup>2</sup> …[^189-1]
+<sup>2</sup> …[^189-2]
 
-<sup>3</sup> Si l’auteur a agi avec cruauté, notamment s’il a fait usage d’une arme dangereuse ou d’un autre objet dangereux, la peine sera la peine privative de liberté de trois ans au moins.[^189-2]
+<sup>3</sup> Si l’auteur a agi avec cruauté, notamment s’il a fait usage d’une arme dangereuse ou d’un autre objet dangereux, la peine sera la peine privative de liberté[^189-3] de trois ans au moins.[^189-4]
 
-[^189-1]: Abrogé par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^189-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^189-1]: Nouvelle expression selon le ch. II 1 al. 8 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^189-2]: Abrogé par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^189-3]: Nouvelle expression selon le ch. II 1 al. 1 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre
+[^189-4]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Viol
 
 #### Art. 190
 
-<sup>1</sup> Celui qui, notamment en usant de menace ou de violence, en exerçant sur sa victime des pressions d’ordre psychique ou en la mettant hors d’état de résister, aura contraint une personne de sexe féminin à subir l’acte sexuel, sera puni d’une peine privative de liberté de un à dix ans.
+<sup>1</sup> Celui qui, notamment en usant de menace ou de violence, en exerçant sur sa victime des pressions d’ordre psychique ou en la mettant hors d’état de résister, aura contraint une personne de sexe féminin à subir l’acte sexuel, sera puni d’une peine privative de liberté de un à dix ans[^190-1].
 
-<sup>2</sup> …[^190-1]
+<sup>2</sup> …[^190-2]
 
-<sup>3</sup> Si l’auteur a agi avec cruauté, notamment s’il a fait usage d’une arme dangereuse ou d’un autre objet dangereux, la peine sera la peine privative de liberté de trois ans au moins.[^190-2]
+<sup>3</sup> Si l’auteur a agi avec cruauté, notamment s’il a fait usage d’une arme dangereuse ou d’un autre objet dangereux, la peine sera la peine privative de liberté de trois ans au moins.[^190-3]
 
-[^190-1]: Abrogé par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^190-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^190-1]: Nouvelle expression selon le ch. II 1 al. 4 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^190-2]: Abrogé par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^190-3]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Actes d’ordre sexuel commis sur une personne incapable de discernement ou de résistance
 
@@ -3510,7 +3662,9 @@ Celui qui aura causé du scandale en se livrant à un acte d’ordre sexuel en p
 
 celui qui aura importuné une personne par des attouchements d’ordre sexuel ou par des paroles grossières,
 
-sera, sur plainte, puni d’une amende.
+sera, sur plainte, puni d’une amende[^198-1].
+
+[^198-1]: Nouvelle expression selon le ch. II 1 al. 5 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
 
 ### Exercice illicite de la prostitution
 
@@ -3538,14 +3692,11 @@ Lorsqu’une infraction prévue dans le présent titre aura été commise en com
 
 [^213-1]
 
-<sup>1</sup> L’acte sexuel entre ascendants et descendants, ou entre frères et soeurs germains, consanguins ou utérins, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> L’acte sexuel entre ascendants et descendants, ou entre frères et sœurs germains, consanguins ou utérins, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Les mineurs n’encourront aucune peine s’ils ont été séduits.
+<sup>2</sup> Les mineurs n’encourent aucune peine s’ils ont été séduits.
 
-<sup>3</sup> …[^213-2]
-
-[^213-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^213-2]: Abrogé par le ch. I de la LF du 5 oct. 2001 (Prescription de l’action pénale en général et en cas d’infraction contre l’intégrité sexuelle des enfants), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2769](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+[^213-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 214
 
@@ -3559,13 +3710,13 @@ Lorsqu’une infraction prévue dans le présent titre aura été commise en com
 
 [^215-1]
 
-Celui qui, étant déjà marié ou lié par un partenariat enregistré, aura contracté mariage ou conclu un partenariat enregistré,
+Quiconque, étant déjà marié ou lié par un partenariat enregistré, contracte mariage ou conclut un partenariat enregistré,
 
-celui qui aura contracté mariage ou conclu un partenariat enregistré avec une personne déjà mariée ou liée par un partenariat enregistré,
+quiconque contracte mariage ou conclut un partenariat enregistré avec une personne déjà mariée ou liée par un partenariat enregistré,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^215-1]: Nouvelle teneur selon l’annexe ch. 18 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^215-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 216
 
@@ -3579,11 +3730,13 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^217-1]
 
-<sup>1</sup> Celui qui n’aura pas fourni les aliments ou les subsides qu’il doit en vertu du droit de la famille, quoiqu’il en eût les moyens ou pût les avoir, sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque ne fournit pas les aliments ou les subsides qu’il doit en vertu du droit de la famille, quoiqu’il en ait les moyens ou puisse les avoir, est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^217-2]
 
-<sup>2</sup> Le droit de porter plainte appartient aussi aux autorités et aux services désignés par les cantons. Il sera exercé compte tenu des intérêts de la famille.
+<sup>2</sup> Le droit de porter plainte appartient aussi aux autorités et aux services désignés par les cantons Il est exercé compte tenu des intérêts de la famille.[^217-3]
 
 [^217-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^217-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^217-3]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 218
 
@@ -3597,12 +3750,11 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^219-1]
 
-<sup>1</sup> Celui qui aura violé son devoir d’assister ou d’élever une personne mineure dont il aura ainsi mis en danger le développement physique ou psychique, ou qui aura manqué à ce devoir, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque viole son devoir d’assister ou d’élever une personne mineure dont il met ainsi en danger le développement physique ou psychique, ou qui manque à ce devoir, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Si le délinquant a agi par négligence, la peine pourra être une amende au lieu d’une peine privative de liberté ou d’une peine pécuniaire.[^219-2]
+<sup>2</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
 
-[^219-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^219-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^219-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Enlèvement de mineur
 
@@ -3610,9 +3762,9 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^220-1]
 
-Celui qui aura soustrait ou refusé de remettre un mineur au détenteur du droit de déterminer le lieu de résidence sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Quiconque soustrait ou refuse de remettre un mineur au détenteur du droit de déterminer le lieu de résidence est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^220-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 juin 2013 (Autorité parentale), en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8315](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^220-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 7 Crimes ou délits créant un danger collectif
 
@@ -3620,58 +3772,79 @@ Celui qui aura soustrait ou refusé de remettre un mineur au détenteur du droit
 
 #### Art. 221
 
-<sup>1</sup> Celui qui, intentionnellement, aura causé un incendie et aura ainsi porté préjudice à autrui ou fait naître un danger collectif sera puni d’une peine privative de liberté d’un an au moins.
+[^221-1]
 
-<sup>2</sup> La peine sera une peine privative de liberté de trois ans au moins si le délinquant a sciemment mis en danger la vie ou l’intégrité corporelle des personnes.
+<sup>1</sup> Quiconque, intentionnellement, cause un incendie et porte ainsi préjudice à autrui ou fait naître un danger collectif est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>3</sup> Le juge pourra prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le dommage est de peu d’importance.
+<sup>2</sup> L’auteur est puni d’une peine privative de liberté de trois ans au moins s’il met sciemment en danger la vie ou l’intégrité corporelle des personnes.
+
+<sup>3</sup> Le juge peut prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le dommage est de peu d’importance.
+
+[^221-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Incendie par négligence
 
 #### Art. 222
 
-<sup>1</sup> Celui qui, par négligence, aura causé un incendie et aura ainsi porté préjudice à autrui ou fait naître un danger collectif sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^222-1]
 
-<sup>2</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si, par négligence, le délinquant a mis en danger la vie ou l’intégrité corporelle des personnes.
+<sup>1</sup> Quiconque, par négligence, cause un incendie et porte ainsi préjudice à autrui ou fait naître un danger collectif est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire si, par négligence, il met en danger la vie ou l’intégrité corporelle des personnes.
+
+[^222-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Explosion
 
 #### Art. 223
 
-<sup>1.</sup> Celui qui, intentionnellement, aura causé une explosion de gaz, de benzine, de pétrole ou de substances analogues et aura par là sciemment mis en danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui sera puni d’une peine privative de liberté d’un an au moins.
+[^223-1]
 
-Le juge pourra prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le dommage est de peu d’importance.
+<sup>1.</sup> Quiconque, intentionnellement, cause une explosion de gaz, de benzine, de pétrole ou de substances analogues et, par là, met sciemment en danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+Le juge peut prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le dommage est de peu d’importance.
+
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^223-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Emploi, avec dessein délictueux, d’explosifs ou de gaz toxiques
 
 #### Art. 224
 
-<sup>1</sup> Celui qui, intentionnellement et dans un dessein délictueux, aura, au moyen d’explosifs ou de gaz toxiques, exposé à un danger la vie ou l’intégrité corporelle des personnes, ou la propriété d’autrui, sera puni d’une peine privative de liberté d’un an au moins.
+[^224-1]
 
-<sup>2</sup> Le juge pourra prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant n’a exposé que la propriété à un danger de peu d’importance.
+<sup>1</sup> Quiconque, intentionnellement et dans un dessein délictueux, au moyen d’explosifs ou de gaz toxiques, expose à un danger la vie ou l’intégrité corporelle des personnes, ou la propriété d’autrui, est puni d’une peine privative de liberté d’un an au moins.
+
+<sup>2</sup> Le juge peut prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si l’auteur n’expose que la propriété à un danger de peu d’importance.
+
+[^224-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Emploi sans dessein délictueux ou par négligence
 
 #### Art. 225
 
-<sup>1</sup> Celui qui, soit intentionnellement mais sans dessein délictueux, soit par négligence, aura, au moyen d’explosifs ou de gaz toxiques, exposé à un danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^225-1]
 
-<sup>2</sup> Dans les cas de peu de gravité, le juge pourra prononcer l’amende.
+<sup>1</sup> Quiconque, intentionnellement mais sans dessein délictueux, au moyen d’explosifs ou de gaz toxiques, expose à un danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^225-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fabriquer, dissimuler et transporter des explosifs ou des gaz toxiques
 
 #### Art. 226
 
-<sup>1</sup> Celui qui aura fabriqué des explosifs ou des gaz toxiques, sachant ou devant présumer qu’ils étaient destinés à un emploi délictueux, sera puni d’une peine privative de liberté de six mois à dix ans.[^226-1]
+[^226-1]
 
-<sup>2</sup> Celui qui se sera procuré soit des explosifs, soit des gaz toxiques, soit des substances propres à leur fabrication, ou qui les aura transmis à autrui, reçus d’autrui, conservés, dissimulés ou transportés, sachant ou devant présumer qu’ils étaient destinés à un emploi délictueux, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire de 30 jours-amende au moins[^226-2].
+<sup>1</sup> Quiconque fabrique des explosifs ou des gaz toxiques, sachant ou devant présumer qu’ils sont destinés à un emploi délictueux, est puni d’une peine privative de liberté de six mois à dix ans.
 
-<sup>3</sup> Celui qui, sachant ou devant présumer qu’une personne se propose de faire un emploi délictueux d’explosifs ou de gaz toxiques, lui aura fourni des indications pour les fabriquer sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire de 30 jours-amende au moins.
+<sup>2</sup> Quiconque se procure soit des explosifs, soit des gaz toxiques, ou encore des substances propres à leur fabrication, ou les transmet à autrui, les reçoit d’autrui, les conserve, les dissimule ou les transporte, sachant ou devant présumer qu’ils sont destinés à un emploi délictueux, est puni d’une peine privative de liberté d’un mois à cinq ans ou d’une peine pécuniaire de 30 jours-amende au moins.
 
-[^226-1]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^226-2]: Nouvelle expression selon le ch. II 1 al. 14 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+<sup>3</sup> Quiconque, sachant ou devant présumer qu’une personne se propose de faire un emploi délictueux d’explosifs ou de gaz toxiques, lui fournit des indications pour les fabriquer est puni d’une peine privative de liberté d’un mois à cinq ans ou d’une peine pécuniaire de 30 jours-amende au moins.
+
+[^226-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Danger imputable à l’énergie nucléaire, à la radioactivité et aux rayonnements ionisants
 
@@ -3679,11 +3852,11 @@ Le juge pourra prononcer une peine privative de liberté de trois ans au plus ou
 
 [^226bis-1]
 
-<sup>1</sup> Quiconque, intentionnellement, aura mis en danger la vie ou la santé de personnes ou des biens d’une valeur considérable appartenant à des tiers en se servant de l’énergie nucléaire, de matières radioactives ou de rayonnements ionisants sera puni d’une peine privative de liberté ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>1</sup> Quiconque, intentionnellement, met en danger la vie ou la santé de personnes ou des biens d’une valeur considérable appartenant à des tiers en se servant de l’énergie nucléaire, de matières radioactives ou de rayonnements ionisants est puni d’une peine privative de liberté ou d’une peine pécuniaire.
 
-<sup>2</sup> Si l’auteur agit par négligence, il sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^226bis-1]: Introduit par l’annexe ch. II 2 de la LF du 21 mars 2003 sur l’énergie nucléaire, en vigueur depuis le 1<sup>er</sup> fév. 2005 ([RO 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2529](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^226bis-1]: Introduit par l’annexe ch. II 2 de la LF du 21 mars 2003 sur l’énergie nucléaire ([RO 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2529](https://fedlex.data.admin.ch/eli/fga/2001/546)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Actes préparatoires punissables
 
@@ -3691,55 +3864,71 @@ Le juge pourra prononcer une peine privative de liberté de trois ans au plus ou
 
 [^226ter-1]
 
-<sup>1</sup> Quiconque aura préparé systématiquement, sur le plan technique ou organisationnel, des actes mettant en danger la vie ou la santé de personnes ou des biens appartenant à des tiers d’une valeur considérable en ayant recours à l’énergie nucléaire, aux matières radioactives ou aux rayonnements ionisants sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>1</sup> Quiconque prépare systématiquement, sur le plan technique ou organisationnel, des actes mettant en danger la vie ou la santé de personnes ou des biens appartenant à des tiers d’une valeur considérable en ayant recours à l’énergie nucléaire, aux matières radioactives ou aux rayonnements ionisants est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Quiconque aura produit des substances radioactives, aura construit des installations ou fabriqué des appareils ou des objets qui en contiennent ou qui peuvent émettre des rayons ionisants, s’en sera procuré, en aura remis à un tiers, reçu d’un tiers, conservé, dissimulé ou transporté, alors qu’il savait ou devait présumer qu’ils étaient destinés à un emploi délictueux, sera puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>2</sup> Quiconque produit des substances radioactives, construit des installations ou fabrique des appareils ou des objets qui en contiennent ou qui peuvent émettre des rayons ionisants, s’en procure, en remet à un tiers, en reçoit d’un tiers, en conserve, en dissimule ou en transporte, alors qu’il sait ou doit présumer qu’ils sont destinés à un emploi délictueux, est puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> Quiconque aura fourni à un tiers des indications pour produire de telles substances ou pour fabriquer de tels installations, appareils ou objets, alors qu’il savait ou devait présumer qu’ils étaient destinés à un emploi délictueux, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>3</sup> Quiconque fournit à un tiers des indications pour produire de telles substances ou pour fabriquer de tels installations, appareils ou objets, alors qu’il sait ou doit présumer qu’ils sont destinés à un emploi délictueux, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^226ter-1]: Introduit par l’annexe ch. II 2 de la LF du 21 mars 2003 sur l’énergie nucléaire, en vigueur depuis le 1<sup>er</sup> fév. 2005 ([RO 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2529](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^226ter-1]: Introduit par l’annexe ch. II 2 de la LF du 21 mars 2003 sur l’énergie nucléaire ([RO 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2529](https://fedlex.data.admin.ch/eli/fga/2001/546)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Inondation. Écroulement
 
 #### Art. 227
 
-<sup>1.</sup> Celui qui, intentionnellement, aura causé une inondation, l’écroulement d’une construction ou un éboulement et aura par là sciemment mis en danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui sera puni d’une peine privative de liberté d’un an au moins.
+[^227-1]
 
-Le juge pourra prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le dommage est de peu d’importance.
+<sup>1.</sup> Quiconque, intentionnellement, cause une inondation, l’écroulement d’une construction ou un éboulement et, par là, met sciemment en danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+Le juge peut prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le dommage est de peu d’importance.
+
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^227-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Dommages aux installations électriques, travaux hydrauliques et ouvrages de protection
 
 #### Art. 228
 
-<sup>1.</sup> Celui qui, intentionnellement, aura détruit ou endommagé des installations électriques,des travaux hydrauliques, notamment des jetées, des barrages, des digues ou des écluses, des ouvrages de protection contre les forces naturelles, par exemple contre les éboulements ou les avalanches, et aura par là sciemment mis en danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui sera puni d’une peine privative de liberté d’un an au moins.
+[^228-1]
 
-Le juge pourra prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le dommage est de peu d’importance.
+<sup>1.</sup> Quiconque, intentionnellement, détruit ou endommage des installations électriques, des travaux hydrauliques, notamment des jetées, des barrages, des digues, des écluses, ou des ouvrages de protection contre les forces naturelles, par exemple contre les éboulements ou les avalanches, et par là met sciemment en danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+Le juge peut prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le dommage est de peu d’importance.
+
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^228-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation des règles de l’art de construire
 
 #### Art. 229
 
-<sup>1</sup> Celui qui, intentionnellement, aura enfreint les règles de l’art en dirigeant ou en exécutant une construction ou une démolition et aura par là sciemment mis en danger la vie ou l’intégrité corporelle des personnes sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+[^229-1]
 
-<sup>2</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si l’inobservation des règles de l’art est due à une négligence.
+<sup>1</sup> Quiconque, intentionnellement, enfreint les règles de l’art en dirigeant ou en exécutant une construction ou une démolition et par là met sciemment en danger la vie ou l’intégrité corporelle des personnes est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire si l’inobservation des règles de l’art est due à une négligence.
+
+[^229-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Supprimer ou omettre d’installer des appareils protecteurs
 
 #### Art. 230
 
-<sup>1.</sup> Celui qui, intentionnellement, aura endommagé, détruit, supprimé, rendu inutilisable ou mis hors d’usage un appareil destiné à prévenir les accidents dans une fabrique ou une autre exploitation, ou les accidents de machines,
+[^230-1]
 
-celui qui, contrairement aux prescriptions applicables, aura intentionnellement omis d’installer un tel appareil,
+<sup>1.</sup> Quiconque, intentionnellement, endommage, détruit, supprime, rend inutilisable ou met hors d’usage un appareil destiné à prévenir les accidents dans une fabrique ou une autre exploitation, ou les accidents de machines,
 
-et aura, par là, sciemment mis en danger la vie ou l’intégrité corporelle des personnes,
+quiconque, contrairement aux prescriptions applicables, omet intentionnellement d’installer un tel appareil,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+et, par là, met sciemment en danger la vie ou l’intégrité corporelle des personnes,
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^230-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 8 Crimes ou délits contre la santé publique
 
@@ -3751,14 +3940,14 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 <sup>1</sup>
 
-Celui qui, intentionnellement, aura disséminé dans l’environnement des organismes génétiquement modifiés ou pathogènes, aura perturbé l’exploitation d’une installation destinée à la recherche sur ces organismes, à leur conservation ou à leur production, ou aura gêné leur transport, sera puni d’une peine privative de liberté de un à dix ans, s’il savait ou devait savoir que par ses actes:
+Quiconque, intentionnellement, dissémine dans l’environnement des organismes génétiquement modifiés ou pathogènes, perturbe l’exploitation d’une installation destinée à la recherche sur ces organismes, à leur conservation ou à leur production, ou gêne leur transport, est puni d’une peine privative de liberté d’un à dix ans, s’il sait ou doit savoir que par ses actes il:
 
-- a. il mettait en danger la vie et l’intégrité corporelle des personnes ou
-- b. il mettait gravement en danger la composition naturelle des populations animales et végétales ou leur habitat.
+- a. met en danger la vie et l’intégrité corporelle des personnes, ou
+- b. met gravement en danger la composition naturelle des populations animales et végétales ou leur habitat.
 
-<sup>2</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si l’auteur a agi par négligence.
+<sup>2</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
 
-[^230bis-1]: Introduit par l’annexe ch. 1 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^230bis-1]: Introduit par l’annexe ch. 1 de la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Propagation d’une maladie de l’homme
 
@@ -3766,209 +3955,253 @@ Celui qui, intentionnellement, aura disséminé dans l’environnement des organ
 
 [^231-1]
 
-Celui qui, par bassesse de caractère, aura propagé une maladie de l’homme dangereuse et transmissible sera puni d’une peine privative de liberté d’un an au moins et de cinq ans au plus.
+Quiconque, par bassesse de caractère, propage une maladie de l’homme dangereuse et transmissible est puni d’une peine privative de liberté d’un à cinq ans.
 
-[^231-1]: Nouvelle teneur selon l’art. 86 ch. 1 de la LF du 28 sept. 2012 sur les épidémies, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297); [FF 2011 291](https://fedlex.data.admin.ch/eli/fga/2011/43)).
+[^231-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Propagation d’une épizootie
 
 #### Art. 232
 
-<sup>1.</sup> Celui qui, intentionnellement, aura propagé une épizootie parmi les animaux domestiques sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^232-1]
 
-La peine sera une peine privative de liberté de un à cinq ans si, par bassesse de caractère, le délinquant a causé un dommage considérable.
+<sup>1.</sup> Quiconque, intentionnellement, propage une épizootie parmi les animaux domestiques est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+L’auteur est puni d’une peine privative de liberté d’un à cinq ans s’il cause un dommage considérable par bassesse de caractère.
+
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^232-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Propagation d’un parasite dangereux
 
 #### Art. 233
 
-<sup>1.</sup> Celui qui, intentionnellement, aura propagé un parasite ou germe dangereux pour la culture agricole ou forestière sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^233-1]
 
-La peine sera une peine privative de liberté de un à cinq ans si, par bassesse de caractère, le délinquant a causé un dommage considérable.
+<sup>1.</sup> Quiconque, intentionnellement, propage un parasite ou germe dangereux pour la culture agricole ou forestière est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+L’auteur est puni d’une peine privative de liberté d’un à cinq ans s’il cause un dommage considérable par bassesse de caractère.
+
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^233-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Contamination d’eau potable
 
 #### Art. 234
 
-<sup>1</sup> Celui qui, intentionnellement, aura contaminé au moyen de substances nuisibles à la santé l’eau potable servant aux personnes ou aux animaux domestiques sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire de 30 jours-amende au moins.
+[^234-1]
 
-<sup>2</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+<sup>1</sup> Quiconque, intentionnellement, contamine au moyen de substances nuisibles à la santé l’eau potable servant aux personnes ou aux animaux domestiques est puni d’une peine privative de liberté d’un mois à cinq ans ou d’une peine pécuniaire de 30 jours-amende au moins.
+
+<sup>2</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^234-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Altération de fourrages
 
 #### Art. 235
 
-<sup>1.</sup> Celui qui, intentionnellement, aura traité des fourrages naturels, ou fabriqué ou traité des fourrages artificiels à l’usage des animaux domestiques de telle façon que ces fourrages mettent en danger la santé de ces animaux sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^235-1]
 
-La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire de 30 jours-amende au moins si le délinquant fait métier de telles manipulations ou fabrications. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^235-1] Le jugement de condamnation sera publié.
+<sup>1.</sup> Quiconque, intentionnellement, traite des fourrages naturels, ou fabrique ou traite des fourrages artificiels à l’usage des animaux domestiques de telle façon que ces fourrages mettent en danger la santé de ces animaux est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> La peine sera l’amende si le délinquant a agi par négligence.
+L’auteur est puni d’une peine privative de liberté d’un mois à trois ans ou d’une peine pécuniaire de 30 jours-amende au moins s’il fait métier de telles manipulations ou fabrications. Le jugement de condamnation est publié.
 
-<sup>3.</sup> Les produits seront confisqués. Ils pourront être rendus inoffensifs ou détruits.
+<sup>2.</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
 
-[^235-1]: Nouvelle teneur des phrases selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>3.</sup> Les produits sont confisqués. Ils peuvent être rendus inoffensifs ou détruits.
 
-### Mis en circulation de fourrages altérés
+[^235-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Mise en circulation de fourrages altérés
 
 #### Art. 236
 
-<sup>1</sup> Celui qui, intentionnellement, aura importé ou pris en dépôt, ou mis en vente ou en circulation des fourrages naturels ou artificiels propres à mettre en danger la santé des animaux sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. Le jugement de condamnation sera publié.
+[^236-1]
 
-<sup>2</sup> La peine sera l’amende si le délinquant a agi par négligence.
+<sup>1</sup> Quiconque, intentionnellement, importe ou prend en dépôt, ou met en vente ou en circulation des fourrages naturels ou artificiels propres à mettre en danger la santé des animaux est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. Le jugement de condamnation est publié.
 
-<sup>3</sup> Les produits seront confisqués. Ils pourront être rendus inoffensifs ou détruits.
+<sup>2</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
+
+<sup>3</sup> Les produits sont confisqués. Ils peuvent être rendus inoffensifs ou détruits.
+
+[^236-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 9 Crimes ou délits contre les communications publiques
 
-### Entraver la circulation publique
+### Entrave à la circulation publique
 
 #### Art. 237
 
-<sup>1.</sup> Celui qui, intentionnellement, aura empêché, troublé ou mis en danger la circulation publique, notamment la circulation sur la voie publique, par eau ou dans les airs, et aura par là sciemment mis en danger la vie ou l’intégrité corporelle des personnes sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^237-1]
 
-Le juge pourra prononcer une peine privative de liberté de un à dix ans si le délinquant a sciemment mis en danger la vie ou l’intégrité corporelle d’un grand nombre de personnes.
+<sup>1.</sup> Quiconque, intentionnellement, empêche, trouble ou met en danger la circulation publique, notamment la circulation sur la voie publique, par eau, dans les airs ou par chemins de fer, et par là met sciemment en danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+Le juge prononce une peine privative de liberté de dix ans au plus ou une peine pécuniaire si l’auteur met sciemment en danger la vie ou l’intégrité corporelle d’un grand nombre de personnes.
 
-### Entrave au service des chemins de fer
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^237-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 238
 
-<sup>1</sup> Celui qui, intentionnellement, aura empêché, troublé ou mis en danger le service des chemins de fer et aura par là sciemment mis en danger la vie ou l’intégrité corporelle des personnes ou la propriété d’autrui, celui notamment qui aura fait naître le danger d’un déraillement ou d’une collision sera puni d’une peine privative de liberté ou d’une peine pécuniaire[^238-1].
+[^238-1]
 
-<sup>2</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence et par là mis en danger sérieux la vie ou l’intégrité corporelle de personnes ou la propriété d’autrui.
-
-[^238-1]: Nouvelle expression selon le ch. II 1 al. 15 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^238-1]: Abrogé par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Entrave aux services d’intérêt général
 
 #### Art. 239
 
-<sup>1.</sup> Celui qui, intentionnellement, aura empêché, troublé ou mis en danger l’exploitation d’une entreprise publique de transports ou de communications, notamment celle des chemins de fer, des postes, du télégraphe ou du téléphone,
+[^239-1]
 
-celui qui, intentionnellement, aura empêché, troublé ou mis en danger l’exploitation d’un établissement ou d’une installation servant à distribuer au public l’eau, la lumière, l’énergie ou la chaleur,
+<sup>1.</sup> Quiconque, intentionnellement, empêche, trouble ou met en danger l’exploitation d’une entreprise publique de transports ou de communications, notamment celle des chemins de fer, des postes, du télégraphe ou du téléphone,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque, intentionnellement, empêche, trouble ou met en danger l’exploitation d’un établissement ou d’une installation servant à distribuer au public l’eau, la lumière, l’énergie ou la chaleur,
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^239-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 10 Fausse monnaie, falsification des timbres officiels de valeur, des marques officielles, des poids et mesures
 
-### Fabrication de fausse monnaie
+### Fabrication de fausse monnaie et falsification de la monnaie
 
 #### Art. 240
 
-<sup>1</sup> Celui qui, dans le dessein de les mettre en circulation comme authentiques, aura contrefait des monnaies, du papier-monnaie ou des billets de banque sera puni d’une peine privative de liberté d’un an au moins.
+[^240-1]
 
-<sup>2</sup> Dans les cas de très peu de gravité, la peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire.
+<sup>1</sup> Quiconque, dans le dessein de les mettre en circulation comme authentiques, contrefait des monnaies, du papier-monnaie ou des billets de banque est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>3</sup> Le délinquant est aussi punissable lorsqu’il a commis le crime à l’étranger, s’il est arrêté en Suisse et n’est pas extradé à l’étranger, et si l’acte est réprimé dans l’État où il a été commis.
+<sup>2</sup> Dans les cas de très peu de gravité, l’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>3</sup> L’auteur est aussi punissable lorsqu’il commet le crime à l’étranger, s’il est arrêté en Suisse et n’est pas extradé à l’étranger, et si l’acte est réprimé dans l’État où il est commis.
+
+[^240-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsification de la monnaie
 
 #### Art. 241
 
-<sup>1</sup> Celui qui, dans le dessein de les mettre en circulation pour une valeur supérieure, aura falsifié des monnaies, du papier-monnaie ou des billets de banque sera puni d’une peine privative de liberté de six mois à cinq ans.[^241-1]
+[^241-1]
 
-<sup>2</sup> Dans les cas de très peu de gravité, la peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire.
+<sup>1</sup> Quiconque, dans le dessein de les mettre en circulation pour une valeur supérieure, falsifie des monnaies, du papier-monnaie ou des billets de banque est puni d’une peine privative de liberté de six mois à cinq ans.
 
-[^241-1]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+<sup>2</sup> Dans les cas de très peu de gravité, l’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^241-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mise en circulation de fausse monnaie
 
 #### Art. 242
 
-<sup>1</sup> Celui qui aura mis en circulation comme authentiques ou intacts des monnaies, du papier-monnaie ou des billets de banque faux ou falsifiés sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire[^242-1].
+[^242-1]
 
-<sup>2</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant, son mandant ou son représentant avait reçu la monnaie ou les billets de banque comme authentiques ou intacts.
+<sup>1</sup> Quiconque met en circulation comme authentiques ou intacts des monnaies, du papier-monnaie ou des billets de banque faux ou falsifiés est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^242-1]: Nouvelle expression selon le ch. II 1 al. 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+<sup>2</sup> Si l’auteur, son mandant ou son représentant a reçu la monnaie ou les billets de banque comme authentiques ou intacts, il est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-### Imitation de billets de banque, de pièces de monnaies ou de timbres officiels de valeur sans dessein de faux
+[^242-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Imitation de billets de banque, de pièces de monnaie ou de timbres officiels de valeur sans dessein de faux
 
 #### Art. 243
 
 [^243-1]
 
-<sup>1</sup> Celui qui, sans dessein de commettre un faux, aura reproduit ou imité des billets de banque de telle manière que ces reproductions ou imitations créent, pour des personnes ou des appareils, un risque de confusion avec les billets authentiques, notamment si la totalité, une face ou la plus grande partie d’une des faces d’un billet est reproduite ou imitée sur une matière et dans un format identiques ou similaires à ceux de l’original,
+<sup>1</sup> Quiconque, sans dessein de commettre un faux, reproduit ou imite des billets de banque de telle manière que ces reproductions ou imitations créent, pour des personnes ou des appareils, un risque de confusion avec les billets authentiques, notamment si la totalité, une face ou la plus grande partie d’une des faces d’un billet est reproduite ou imitée sur une matière et dans un format identiques ou similaires à ceux de l’original,
 
-celui qui, sans dessein de commettre un faux, aura fabriqué des objets dont la frappe, le poids ou les dimensions sont semblables à ceux des pièces de monnaie ayant cours légal ou qui possèdent les valeurs nominales ou d’autres caractéristiques d’une frappe officielle, de telle manière que ces objets créent, pour des personnes ou des appareils, un risque de confusion avec les pièces de monnaie ayant cours légal,
+quiconque, sans dessein de commettre un faux, fabrique des objets dont la frappe, le poids ou les dimensions sont semblables à ceux des pièces de monnaie ayant cours légal ou qui possèdent les valeurs nominales ou d’autres caractéristiques d’une frappe officielle, de telle manière que ces objets créent, pour des personnes ou des appareils, un risque de confusion avec les pièces de monnaie ayant cours légal,
 
-celui qui, sans dessein de commettre un faux, aura reproduit ou imité des timbres officiels de valeur de telle manière que ces reproductions ou imitations créent un risque de confusion avec les timbres authentiques,
+quiconque, sans dessein de commettre un faux, reproduit ou imite des timbres officiels de valeur de telle manière que ces reproductions ou imitations créent un risque de confusion avec les timbres authentiques,
 
-celui qui aura importé de tels objets ou les aura mis en vente ou en circulation,
+quiconque importe de tels objets ou les met en vente ou en circulation,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^243-2]
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Si l’auteur a agi par négligence, il sera puni de l’amende.[^243-3]
+<sup>2</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
 
-[^243-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 déc. 1999 sur l’unité monétaire et les moyens de paiement, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186); [FF 1999 6536](https://fedlex.data.admin.ch/eli/fga/1999/1_7258_6536_6201)).
-[^243-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^243-3]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^243-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Importation, acquisition et prise en dépôt de fausse monnaie
 
 #### Art. 244
 
-<sup>1</sup> Celui qui aura importé, acquis ou pris en dépôt des pièces de monnaie, du papier-monnaie ou des billets de banque faux ou falsifiés, dans le dessein de les mettre en circulation comme authentiques ou comme intacts, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^244-1]
+[^244-1]
 
-<sup>2</sup> La peine sera une peine privative de liberté de un à cinq ans si le délinquant en a importé, acquis ou pris en dépôt de grandes quantités.
+<sup>1</sup> Quiconque importe, acquiert ou prend en dépôt des pièces de monnaie, du papier-monnaie ou des billets de banque faux ou falsifiés, dans le dessein de les mettre en circulation comme authentiques ou comme intacts, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^244-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 déc. 1999 sur l’unité monétaire et les moyens de paiement, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186); [FF 1999 6536](https://fedlex.data.admin.ch/eli/fga/1999/1_7258_6536_6201)).
+<sup>2</sup> L’auteur est puni d’une peine privative de liberté d’un à cinq ans s’il en importe, acquiert ou prend en dépôt de grandes quantités.
+
+[^244-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsification des timbres officiels de valeur
 
 #### Art. 245
 
-<sup>1.</sup> Celui qui, dans le dessein de les employer comme authentiques ou intacts, aura contrefait ou falsifié des timbres officiels de valeur, notamment des timbres-poste, des estampilles ou des timbres-quittances,
+[^245-1]
 
-celui qui aura donné à des timbres officiels de valeur oblitérés l’apparence de timbres encore valables, pour les employer comme tels,
+<sup>1.</sup> Quiconque, dans le dessein de les employer comme authentiques ou intacts, contrefait ou falsifie des timbres officiels de valeur, notamment des timbres-poste, des estampilles ou des timbres-quittances,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque donne à des timbres officiels de valeur oblitérés l’apparence de timbres encore valables, pour les employer comme tels,
 
-Le délinquant est aussi punissable lorsqu’il a commis le délit à l’étranger, s’il est arrêté en Suisse et n’est pas extradé à l’étranger, et si l’acte est réprimé dans l’État où il a été commis.
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Celui qui aura employé comme authentiques, intacts ou encore valables des timbres officiels de valeur faux, falsifiés ou oblitérés, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+L’auteur est aussi punissable lorsqu’il a commis le délit à l’étranger, s’il est arrêté en Suisse et n’est pas extradé à l’étranger, et si l’acte est réprimé dans l’État où il a été commis.
+
+<sup>2.</sup> Quiconque emploie comme authentiques, intacts ou encore valables des timbres officiels de valeur faux, falsifiés ou oblitérés, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^245-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsification des marques officielles
 
 #### Art. 246
 
-Quiconque, dans le dessein de les employer comme authentiques ou intactes, contrefait ou falsifie les marques officielles que l’autorité appose sur un objet pour constater le résultat d’un examen ou l’octroi d’une autorisation, par exemple l’empreinte du poinçon du contrôle des ouvrages d’or et d’argent, les marques des inspecteurs de boucherie ou de l’Office fédéral de la douane et de la sécurité des frontières,[^246-1]
+[^246-1]
 
-celui qui aura employé comme authentiques ou intactes de telles marques contrefaites ou falsifiées,
+Quiconque, dans le dessein de les employer comme authentiques ou intactes, contrefait ou falsifie les marques officielles que l’autorité appose sur un objet pour constater le résultat d’un examen ou l’octroi d’une autorisation, par exemple l’empreinte du poinçon du contrôle des ouvrages d’or et d’argent, les marques des inspecteurs de boucherie ou de l’Office fédéral de la douane et de la sécurité des frontières,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque emploie comme authentiques ou intactes de telles marques contrefaites ou falsifiées,
 
-[^246-1]: Nouvelle teneur selon le ch. I 6 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^246-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Appareils de falsification et emploi illicite d’appareils
 
 #### Art. 247
 
-Celui qui, pour en faire un usage illicite, aura fabriqué ou se sera procuré des appareils destinés à la contrefaçon ou à la falsification des monnaies, du papier-monnaie, des billets de banque ou des timbres officiels de valeur,
+[^247-1]
 
-celui qui aura fait un usage illicite des appareils servant à la fabrication des monnaies, du papier-monnaie, des billets de banque ou des timbres officiels de valeur,
+Quiconque, pour en faire un usage illicite, fabrique ou se procure des appareils destinés à la contrefaçon ou à la falsification des monnaies, du papier-monnaie, des billets de banque ou des timbres officiels de valeur,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque fait un usage illicite des appareils servant à la fabrication des monnaies, du papier-monnaie, des billets de banque ou des timbres officiels de valeur,
+
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^247-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsification des poids et mesures
 
 #### Art. 248
 
-Celui qui, dans le dessein de tromper autrui dans les relations d’affaires,
+[^248-1]
 
-aura apposé sur des poids, mesures, balances ou autres instruments de mesure un poinçon faux, ou aura falsifié une empreinte de poinçon,
+Quiconque, dans le dessein de tromper autrui dans les relations d’affaires,
 
-aura modifié des poids, mesures, balances ou autres instruments de mesure poinçonnés,
+appose sur des poids, mesures, balances ou autres instruments de mesure un poinçon faux, ou falsifie une empreinte de poinçon,
 
-ou aura fait usage de poids, mesures, balances ou autres instruments de mesure faux ou falsifies,
+modifie des poids, mesures, balances ou autres instruments de mesure poinçonnés,
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+ou fait usage de poids, mesures, balances ou autres instruments de mesure faux ou falsifiés,
+
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^248-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Confiscation
 
@@ -3976,11 +4209,11 @@ sera puni d’une peine privative de liberté de cinq ans au plus ou d’une pei
 
 [^249-1]
 
-<sup>1</sup> Les pièces de monnaie, le papier-monnaie, les billets de banque, les timbres officiels de valeur, les marques officielles, les mesures, poids, balances et autres instruments de mesure faux ou falsifiés, ainsi que les appareils servant à la falsification, seront confisqués et rendus inutilisables ou détruits.
+<sup>1</sup> Les pièces de monnaie, le papier-monnaie, les billets de banque, les timbres officiels de valeur, les marques officielles, les mesures, poids, balances et autres instruments de mesure faux ou falsifiés, de ainsi que les appareils servant à la falsification, sont confisqués et rendus inutilisables ou détruits.
 
-<sup>2</sup> Les billets de banque, pièces de monnaie et timbres officiels de valeur qui auront été reproduits, imités ou fabriqués sans dessein de commettre un faux, mais qui créent un risque de confusion, seront également confisqués et rendus inutilisables ou détruits.
+<sup>2</sup> Les billets de banque, pièces de monnaie et timbres officiels de valeur qui ont été reproduits, imités ou fabriqués sans dessein de commettre un faux, mais qui créent un risque de confusion, sont également confisqués et rendus inutilisables ou détruits.
 
-[^249-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 déc. 1999 sur l’unité monétaire et les moyens de paiement, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186); [FF 1999 6536](https://fedlex.data.admin.ch/eli/fga/1999/1_7258_6536_6201)).
+[^249-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Monnaies et timbres de valeur étrangers
 
@@ -3996,17 +4229,17 @@ Les dispositions du présent titre sont aussi applicables aux monnaies, au papie
 
 [^251-1]
 
-<sup>1.</sup> Celui qui, dans le dessein de porter atteinte aux intérêts pécuniaires ou aux droits d’autrui, ou de se procurer ou de procurer à un tiers un avantage illicite,
+<sup>1.</sup> Quiconque, dans le dessein de porter atteinte aux intérêts pécuniaires ou aux droits d’autrui, ou de se procurer ou de procurer à un tiers un avantage illicite,
 
-aura créé un titre faux, falsifié un titre, abusé de la signature ou de la marque à la main réelles d’autrui pour fabriquer un titre supposé, ou constaté ou fait constater faussement, dans un titre, un fait ayant une portée juridique,
+crée un titre faux, falsifie un titre, abuse de la signature ou de la marque à la main réelles d’autrui pour fabriquer un titre supposé, ou constate ou fait constater faussement, dans un titre, un fait ayant une portée juridique,
 
-ou aura, pour tromper autrui, fait usage d’un tel titre,
+ou, pour tromper autrui, fait usage d’un tel titre,
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Dans les cas de très peu de gravité, le juge pourra prononcer une peine privative de liberté de trois ans au plus ou une peine pécuniaire.
+<sup>2.</sup> *Abrogé*
 
-[^251-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^251-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Faux dans les certificats
 
@@ -4014,35 +4247,43 @@ sera puni d’une peine privative de liberté de cinq ans au plus ou d’une pei
 
 [^252-1]
 
-Celui qui, dans le dessein d’améliorer sa situation ou celle d’autrui,
+Quiconque, dans le dessein d’améliorer sa situation ou celle d’autrui,
 
-aura contrefait ou falsifié des pièces de légitimation, des certificats ou des attestations,
+contrefait ou falsifie des pièces de légitimation, des certificats ou des attestations,
 
-aura fait usage, pour tromper autrui, d’un écrit de cette nature,
+fait usage, pour tromper autrui, d’un écrit de cette nature,
 
-ou aura abusé, pour tromper autrui, d’un écrit de cette nature, véritable mais non à lui destiné,
+ou abuse, pour tromper autrui, d’un écrit de cette nature, véritable mais non à lui destiné,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^252-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^252-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Obtention frauduleuse d’une constatation fausse
 
 #### Art. 253
 
-Celui qui, en induisant en erreur un fonctionnaire ou un officier public, l’aura amené à constater faussement dans un titre authentique un fait ayant une portée juridique, notamment à certifier faussement l’authenticité d’une signature ou l’exactitude d’une copie,
+[^253-1]
 
-celui qui aura fait usage d’un titre ainsi obtenu pour tromper autrui sur le fait qui y est constaté,
+Quiconque, en induisant en erreur un fonctionnaire ou un officier public, l’amène à constater faussement dans un titre authentique un fait ayant une portée juridique, notamment à certifier faussement l’authenticité d’une signature ou l’exactitude d’une copie,
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+quiconque fait usage d’un titre ainsi obtenu pour tromper autrui sur le fait qui y est constaté,
+
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^253-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Suppression de titres
 
 #### Art. 254
 
-<sup>1</sup> Celui qui, dans le dessein de porter atteinte aux intérêts pécuniaires ou aux droits d’autrui, ou de se procurer ou de procurer à un tiers un avantage illicite, aura endommagé, détruit, fait disparaître ou soustrait un titre dont il n’avait pas seul le droit de disposer sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^254-1]
 
-<sup>2</sup> La suppression de titres commise au préjudice des proches ou des familiers ne sera poursuivie que sur plainte.
+<sup>1</sup> Quiconque, dans le dessein de porter atteinte aux intérêts pécuniaires ou aux droits d’autrui, ou de se procurer ou de procurer à un tiers un avantage illicite, endommage, détruit, fait disparaître ou soustrait un titre dont il n’a pas seul le droit de disposer est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> La suppression de titres commise au préjudice des proches ou des familiers n’est poursuivie que sur plainte.
+
+[^254-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titres étrangers
 
@@ -4054,13 +4295,21 @@ Les dispositions des art. 251 à 254 sont aussi applicables aux titres étranger
 
 #### Art. 256
 
-Celui qui, dans le dessein de porter atteinte aux intérêts pécuniaires ou aux droits d’autrui, ou de se procurer ou de procurer à un tiers un avantage illicite, aura supprimé, déplacé, rendu méconnaissable, falsifié ou placé à faux une borne ou tout autre signe de démarcation sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^256-1]
+
+Quiconque, dans le dessein de porter atteinte aux intérêts pécuniaires ou aux droits d’autrui, ou de se procurer ou de procurer à un tiers un avantage illicite, supprime, déplace, rend méconnaissable, falsifie ou place à faux une borne ou tout autre signe de démarcation est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^256-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Déplacement de signaux trigonométriques ou limnimétriques
 
 #### Art. 257
 
-Celui qui aura supprimé, déplacé, rendu méconnaissable ou placé à faux un signal public trigonométrique ou limnimétrique sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^257-1]
+
+Quiconque supprime, déplace, rend méconnaissable ou place à faux un signal public trigonométrique ou limnimétrique est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^257-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 12 Crimes ou délits contre la paix publique
 
@@ -4070,9 +4319,9 @@ Celui qui aura supprimé, déplacé, rendu méconnaissable ou placé à faux un 
 
 [^258-1]
 
-Celui qui aura jeté l’alarme dans la population par la menace ou l’annonce fallacieuse d’un danger pour la vie, la santé ou la propriété sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Quiconque jette l’alarme dans la population par la menace ou l’annonce fallacieuse d’un danger pour la vie, la santé ou la propriété est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^258-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^258-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Provocation publique au crime ou à la violence
 
@@ -4080,22 +4329,28 @@ Celui qui aura jeté l’alarme dans la population par la menace ou l’annonce 
 
 [^259-1]
 
-<sup>1</sup> Celui qui aura provoqué publiquement à un crime sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque provoque publiquement à un délit impliquant la violence contre autrui ou contre des biens ou à un crime est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^259-2]
 
-<sup>1bis</sup> La provocation publique au génocide (art. 264) est punissable même lorsqu’elle a lieu à l’étranger si tout ou partie du génocide devait être commis en Suisse. [^259-2]
+<sup>1bis</sup> La provocation publique au génocide (art. 264) est punissable même lorsqu’elle a lieu à l’étranger si tout ou partie du génocide devait être commis en Suisse. [^259-3]
 
-<sup>2</sup> Celui qui aura provoqué publiquement à un délit impliquant la violence contre autrui ou contre des biens, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>2</sup> …[^259-4]
 
 [^259-1]: Nouvelle teneur selon le ch. I de la LF du 9 oct. 1981, en vigueur depuis le 1<sup>er</sup> oct. 1982 ([RO 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [FF 1980 I 1216](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
-[^259-2]: Introduit par le ch. I 1 de la LF du 18 juin 2010 (Statut de Rome de la Cour pénale internationale), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^259-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^259-3]: Introduit par le ch. I 1 de la LF du 18 juin 2010 (Statut de Rome de la Cour pénale internationale), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^259-4]: Abrogé par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Émeute
 
 #### Art. 260
 
-<sup>1</sup> Celui qui aura pris part à un attroupement formé en public et au cours duquel des violences ont été commises collectivement contre des personnes ou des propriétés sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^260-1]
 
-<sup>2</sup> Il n’encourra aucune peine s’il s’est retiré sur sommation de l’autorité sans avoir commis de violences ni provoqué à en commettre.
+<sup>1</sup> Quiconque prend part à un attroupement formé en public et au cours duquel des violences sont commises collectivement contre des personnes ou des propriétés est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> L’auteur n’encourt aucune peine s’il se retire sur sommation de l’autorité sans avoir commis de violences ni provoqué à en commettre.
+
+[^260-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Actes préparatoires délictueux
 
@@ -4120,15 +4375,16 @@ Est puni d’une peine privative de liberté de cinq ans au plus ou d’une pein
 - i. crimes contre l’humanité (art. 264*a*);
 - j. crimes de guerre (art. 264*c* à 264*h).* [^260bis-4]
 
-<sup>2</sup> Celui qui, de son propre mouvement, aura renoncé à poursuivre jusqu’au bout son activité préparatoire, sera exempté de toute peine.
+<sup>2</sup> Quiconque, de son propre mouvement, renonce à poursuivre jusqu’au bout son activité préparatoire, est exempté de toute peine.[^260bis-5]
 
-<sup>3</sup> Est également punissable celui qui commet les actes préparatoires à l’étranger lorsque les infractions doivent être commises en Suisse. L’art. 3, al. 2, est applicable.[^260bis-5]
+<sup>3</sup> Est également punissable quiconque commet les actes préparatoires à l’étranger lorsque les infractions doivent être commises en Suisse. L’art. 3, al. 2, est applicable.[^260bis-6]
 
 [^260bis-1]: Introduit par le ch. I de la LF du 9 oct. 1981, en vigueur depuis le 1<sup>er</sup> oct. 1982 ([RO 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [FF 1980 I 1216](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 [^260bis-2]: Introduite par le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992), [5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^260bis-3]: Introduite par l’annexe 2 ch. 1 de l’AF du 18 déc. 2015 portant approbation et mise en œuvre de la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [FF 2014 437](https://fedlex.data.admin.ch/eli/fga/2014/95)).
 [^260bis-4]: Nouvelle teneur selon le ch. I 1 de la LF du 18 juin 2010 (Statut de Rome de la Cour pénale internationale), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^260bis-5]: Nouvelle teneur de la phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^260bis-5]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^260bis-6]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Organisations criminelles et terroristes
 
@@ -4160,16 +4416,15 @@ Est puni d’une peine privative de liberté de dix ans au plus ou d’une peine
 [^260ter-1]: Introduit par le ch. I de la LF du 18 mars 1994 ([RO 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614); [FF 1993 III 269](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)). Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^260ter-2]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
 
-### Mise en danger de la sécurité publique au moyen d’armes
+### Remise d’armes pour la commission d’une infraction
 
 #### Art. 260<sup>quater</sup>
 
 [^260quater-1]
 
-Celui qui aura vendu, loué, donné ou laissé à la disposition d’un tiers une arme à feu, une arme prohibée par la loi, un élément essentiel d’arme, des accessoires d’armes, des munitions ou des éléments de munitions, ou en aura fait le courtage, alors qu’il savait ou devait présumer qu’ils serviraient à la commission d’un délit ou d’un crime, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire,[^260quater-2] pour autant qu’il ne remplisse pas les éléments constitutifs d’une infraction plus grave.
+Quiconque vend, loue, donne ou laisse à la disposition d’un tiers une arme à feu, une arme prohibée par la loi, un élément essentiel d’arme, des accessoires d’armes, des munitions ou des éléments de munitions, ou en fait le courtage, alors qu’il sait ou doit présumer qu’ils serviront à la commission d’un délit ou d’un crime, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire, pour autant que son acte ne remplisse pas les éléments constitutifs d’une infraction plus grave.
 
-[^260quater-1]: Introduit par l’art. 41 de la LF du 20 juin 1997 sur les armes, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2535](https://fedlex.data.admin.ch/eli/oc/1998/2535_2535_2535); [FF 1996 I 1000](https://fedlex.data.admin.ch/eli/fga/1996/1_1053_1000_875)).
-[^260quater-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^260quater-1]: Introduit par l’art. 41 de la LF du 20 juin 1997 sur les armes ([RO 1998 2535](https://fedlex.data.admin.ch/eli/oc/1998/2535_2535_2535); [FF 1996 I 1000](https://fedlex.data.admin.ch/eli/fga/1996/1_1053_1000_875)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Financement du terrorisme
 
@@ -4177,7 +4432,7 @@ Celui qui aura vendu, loué, donné ou laissé à la disposition d’un tiers un
 
 [^260quinquies-1]
 
-<sup>1</sup> Celui qui, dans le dessein de financer un acte de violence criminelle visant à intimider une population ou à contraindre un État ou une organisation internationale à accomplir ou à s’abstenir d’accomplir un acte quelconque, réunit ou met à disposition des fonds, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque, dans le dessein de financer un acte de violence criminelle visant à intimider une population ou à contraindre un État ou une organisation internationale à accomplir ou à s’abstenir d’accomplir un acte quelconque, réunit ou met à disposition des fonds, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^260quinquies-2]
 
 <sup>2</sup> Si l’auteur n’a fait que s’accommoder de l’éventualité que les fonds en question servent à financer un acte terroriste, il n’est pas punissable au sens de la présente disposition.
 
@@ -4186,6 +4441,7 @@ Celui qui aura vendu, loué, donné ou laissé à la disposition d’un tiers un
 <sup>4</sup> L’al. 1 ne s’applique pas si le financement est destiné à soutenir des actes qui ne sont pas en contradiction avec les règles du droit international applicable en cas de conflit armé.
 
 [^260quinquies-1]: Introduit par le ch. I 1 de la LF du 21 mars 2003 (Financement du terrorisme), en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417); [FF 2002 5014](https://fedlex.data.admin.ch/eli/fga/2002/841)).
+[^260quinquies-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Recrutement, formation et voyage en vue d’un acte terroriste
 
@@ -4211,15 +4467,17 @@ Est puni d’une peine privative de liberté de cinq ans au plus ou d’une pein
 
 #### Art. 261
 
-Celui qui, publiquement et de façon vile, aura offensé ou bafoué les convictions d’autrui en matière de croyance, en particulier de croyance en Dieu, ou aura profané les objets de la vénération religieuse,
+[^261-1]
 
-celui qui aura méchamment empêché de célébrer ou troublé ou publiquement bafoué un acte cultuel garanti par la Constitution,
+Quiconque, publiquement et de façon vile, offense ou bafoue les convictions d’autrui en matière de croyance, en particulier de croyance en Dieu, ou profane les objets de la vénération religieuse,
 
-celui qui, méchamment, aura profané un lieu ou un objet destiné à un culte ou à un acte cultuel garantis par la Constitution,
+quiconque empêche méchamment de célébrer ou trouble ou publiquement bafoue un acte cultuel garanti par la Constitution,
 
-sera puni d’une peine pécuniaire.[^261-1]
+quiconque, méchamment, profane un lieu ou un objet destiné à un culte ou à un acte cultuel garantis par la Constitution,
 
-[^261-1]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+est puni d’une peine pécuniaire.
+
+[^261-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Discrimination et incitation à la haine
 
@@ -4245,26 +4503,31 @@ est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 #### Art. 262
 
-<sup>1.</sup> Celui qui aura grossièrement profané le lieu où repose un mort,
+[^262-1]
 
-celui qui, méchamment, aura troublé ou profané un convoi funèbre ou une cérémonie funèbre,
+<sup>1.</sup> Quiconque profane grossièrement le lieu où repose un mort,
 
-celui qui aura profané ou publiquement outragé un cadavre humain,
+quiconque, méchamment, trouble ou profane un convoi funèbre ou une cérémonie funèbre,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque profane ou outrage publiquement un cadavre humain,
 
-<sup>2.</sup> Celui qui, contre la volonté de l’ayant droit, aura soustrait un cadavre humain, une partie d’un cadavre humain, ou les cendres d’un mort sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2.</sup> Quiconque, contre la volonté de l’ayant droit, soustrait un cadavre humain, une partie d’un cadavre humain, ou les cendres d’un mort est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^262-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Actes commis en état d’irresponsabilité fautive
 
 #### Art. 263
 
-<sup>1</sup> Celui qui, étant en état d’irresponsabilité causée par ivresse ou intoxication dues à sa faute, aura commis un acte réprimé comme crime ou délit sera puni d’une peine pécuniaire.[^263-1]
+[^263-1]
 
-<sup>2</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire, si la peine privative de liberté est la seule peine prévue par la disposition qui réprime le crime commis dans cet état.[^263-2]
+<sup>1</sup> Quiconque, étant en état d’irresponsabilité causée par ivresse ou intoxication dues à sa faute, commet un acte réprimé comme crime ou délit est puni d’une peine pécuniaire.
 
-[^263-1]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^263-2]: Nouvelle teneur selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>2</sup> La peine sera une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire, si la peine privative de liberté est la seule peine prévue par la disposition qui réprime le crime commis dans cet état.
+
+[^263-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 12<sup>bis</sup> Génocide et crimes contre l’humanité
 
@@ -4530,42 +4793,41 @@ La poursuite des actes visés aux titres 12<sup>bis</sup> et 12<sup>ter</sup> et
 
 ### Titre 13 Crimes ou délits contre l’État et la défense nationale
 
-### 1. Crimes ou délits contre l’État
+### 1. Crimes ou délits contre l’État.
 
 ### Haute trahison
 
 #### Art. 265
 
-Celui qui aura commis un acte tendant
+[^265-1]
 
-à modifier par la violence la Constitution ou la Constitution d’un canton[^265-1],
+Quiconque commet un acte tendant à modifier par la violence la Constitution ou la constitution d’un canton,
 
 à renverser par la violence les autorités politiques instituées par la Constitution, ou à les mettre par la violence dans l’impossibilité d’exercer leur pouvoir,
 
 ou à détacher par la violence une partie du territoire suisse d’avec la Confédération ou une partie du territoire cantonal d’avec un canton,
 
-sera puni d’une peine privative de liberté d’un an au moins[^265-2].
+est puni d’une peine privative de liberté d’un an au moins.
 
-[^265-1]: [RS 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)**/.235**
-[^265-2]: Nouvelle expression selon le ch. II 1 al. 11 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
+[^265-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Atteinte à l’indépendance de la Confédération
 
 #### Art. 266
 
-<sup>1.</sup> Celui qui aura commis un acte tendant
+[^266-1]
 
-à porter atteinte à l’indépendance de la Confédération ou à mettre en danger cette indépendance,
+<sup>1.</sup> Quiconque commet un acte tendant à porter atteinte à l’indépendance de la Confédération ou à mettre en danger cette indépendance,
 
 ou à provoquer de la part d’une puissance étrangère, dans les affaires de la Confédération, une immixtion de nature à mettre en danger l’indépendance de la Confédération,
 
-sera puni d’une peine privative de liberté d’un an au moins.
+est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>2.</sup> Celui qui aura noué des intelligences avec le gouvernement d’un État étranger ou avec un de ses agents dans le dessein de provoquer une guerre contre la Confédération sera puni d’une peine privative de liberté de trois ans au moins.
+<sup>2.</sup> Quiconque noue des intelligences avec le gouvernement d’un État étranger ou avec un de ses agents dans le dessein de provoquer une guerre contre la Confédération est puni d’une peine privative de liberté de trois ans au moins.
 
-Dans les cas graves, le juge pourra prononcer une peine privative de liberté à vie.[^266-1]
+Dans les cas graves, le juge peut prononcer une peine privative de liberté à vie.
 
-[^266-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^266-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Entreprises et menées de l’étranger contre la sécurité de la Suisse
 
@@ -4573,37 +4835,41 @@ Dans les cas graves, le juge pourra prononcer une peine privative de liberté à
 
 [^266bis-1]
 
-<sup>1</sup> Celui qui, à l’effet de provoquer ou de soutenir des entreprises ou menées de l’étranger contre la sécurité de la Suisse, sera entré en rapport avec un État étranger, ou avec des partis étrangers, ou avec d’autres organisations à l’étranger, ou avec leurs agents, ou aura lancé ou propagé des informations inexactes ou tendancieuses, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque, à l’effet de provoquer ou de soutenir des entreprises ou menées de l’étranger contre la sécurité de la Suisse, entre en rapport avec un État étranger, ou avec des partis étrangers, ou avec d’autres organisations à l’étranger, ou avec leurs agents, ou lance ou propage des informations inexactes ou tendancieuses, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Dans les cas graves, le juge pourra prononcer une peine privative de liberté d’un an au moins.
+<sup>2</sup> Dans les cas graves, l’auteur est puni d’une peine privative de liberté d’un an au moins.
 
-[^266bis-1]: Introduit par le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^266bis-1]: Introduit par le ch. I de la LF du 5 oct. 1950 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Trahison diplomatique
 
 #### Art. 267
 
-<sup>1.</sup> Celui qui, intentionnellement, aura révélé ou rendu accessible à un État étranger ou à l’un de ses agents un secret que l’intérêt de la Confédération commandait de garder,[^267-1]
+[^267-1]
 
-celui qui aura falsifié, détruit, fait disparaître ou soustrait des titres ou des moyens de preuve relatifs à des rapports de droit entre la Confédération ou un canton et un État étranger et aura ainsi, intentionnellement, compromis des intérêts de la Confédération ou d’un canton,
+<sup>1.</sup> Quiconque, intentionnellement, révèle ou rend accessible à un État étranger ou à l’un de ses agents un secret que l’intérêt de la Confédération commande de garder,
 
-celui qui, en sa qualité de représentant de la Confédération, aura intentionnellement conduit au détriment de celle-ci des négociations avec un gouvernement étranger,
+quiconque falsifie, détruit, fait disparaître ou soustrait des titres ou des moyens de preuve relatifs à des rapports de droit entre la Confédération ou un canton et un État étranger et compromet ainsi intentionnellement des intérêts de la Confédération ou d’un canton,
 
-sera puni d’une peine privative de liberté d’un an au moins.
+quiconque, en sa qualité de représentant de la Confédération, conduit intentionnellement au détriment de celle-ci des négociations avec un gouvernement étranger,
 
-<sup>2.</sup> Celui qui, intentionnellement, aura révélé ou rendu accessible au public un secret que l’intérêt de la Confédération commandait de garder, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^267-2]
+est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>3.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.[^267-3]
+<sup>2.</sup> Quiconque, intentionnellement, révèle ou rend accessible au public un secret que l’intérêt de la Confédération commande de garder, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^267-1]: Nouvelle teneur selon le ch. I de la LF du 10 oct. 1997, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
-[^267-2]: Introduit par le ch. I de la LF du 10 oct. 1997, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
-[^267-3]: Anciennement ch. 2
+<sup>3.</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^267-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Déplacement de bornes officielles
 
 #### Art. 268
 
-Celui qui aura supprimé, déplacé, rendu méconnaissable, falsifié ou placé à faux une borne ou tout autre signe destiné à marquer les frontières de la Confédération, d’un canton ou d’une commune sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^268-1]
+
+Quiconque supprime, déplace, rend méconnaissable, falsifie ou place à faux une borne ou tout autre signe destiné à marquer les frontières de la Confédération, d’un canton ou d’une commune est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^268-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation de la souveraineté territoriale de la Suisse
 
@@ -4611,15 +4877,19 @@ Celui qui aura supprimé, déplacé, rendu méconnaissable, falsifié ou placé 
 
 [^269-1]
 
-Celui qui aura pénétré sur le territoire suisse contrairement au droit des gens sera puni d’une peine privative de liberté ou d’une peine pécuniaire.
+Quiconque pénètre sur le territoire suisse contrairement au droit des gens est puni d’une peine privative de liberté ou d’une peine pécuniaire.
 
-[^269-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)). Voir aussi [RO 57 1364](https://fedlex.data.admin.ch/eli/oc/57/1328_1364_1408).
+[^269-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Atteinte aux emblèmes suisses
 
 #### Art. 270
 
-Celui qui, par malveillance, aura enlevé, dégradé, ou aura par des actes outragé un emblème suisse de souveraineté arboré par une autorité, notamment les armes ou le drapeau de la Confédération ou d’un canton, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^270-1]
+
+Quiconque, par malveillance, enlève, dégrade ou, par des actes, outrage un emblème suisse de souveraineté arboré par une autorité, notamment les armes ou le drapeau de la Confédération ou d’un canton, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^270-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Actes exécutés sans droit pour un État étranger
 
@@ -4627,22 +4897,21 @@ Celui qui, par malveillance, aura enlevé, dégradé, ou aura par des actes outr
 
 [^271-1]
 
-<sup>1.</sup> Celui qui, sans y être autorisé, aura procédé sur le territoire suisse pour un État étranger à des actes qui relèvent des pouvoirs publics,
+<sup>1.</sup> Quiconque, sans y être autorisé, procède sur le territoire suisse pour un État étranger à des actes qui relèvent des pouvoirs publics,
 
-celui qui aura procédé à de tels actes pour un parti étranger ou une autre organisation de l’étranger,
+quiconque procède à de tels actes pour un parti étranger ou une autre organisation de l’étranger,
 
-celui qui aura favorisé de tels actes,
+quiconque favorise de tels actes,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire et, dans les cas graves, d’une peine privative de liberté d’un an au moins.[^271-2]
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire et, dans les cas graves, d’une peine privative de liberté d’un an au moins.
 
-<sup>2.</sup> Celui qui, en usant de violence, ruse ou menace, aura entraîné une personne à l’étranger pour la livrer à une autorité, à un parti ou à une autre organisation de l’étranger, ou pour mettre sa vie ou son intégrité corporelle en danger, sera puni d’une peine privative de liberté d’un an au moins.
+<sup>2.</sup> Quiconque, en usant de violence, ruse ou menace, entraîne une personne à l’étranger pour la livrer à une autorité, à un parti ou à une autre organisation de l’étranger, ou pour mettre sa vie ou son intégrité corporelle en danger, est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>3.</sup> Celui qui aura préparé un tel enlèvement sera puni d’une peine privative de liberté ou d’une peine pécuniaire.
+<sup>3.</sup> Quiconque prépare un tel enlèvement est puni d’une peine privative de liberté ou d’une peine pécuniaire.
 
-[^271-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
-[^271-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^271-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### 2. Espionnage
+### 2. Espionnage.
 
 ### Service de renseignements politiques
 
@@ -4650,27 +4919,29 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^272-1]
 
-<sup>1.</sup> Celui qui, dans l’intérêt d’un État étranger, ou d’un parti étranger ou d’une autre organisation de l’étranger, et au préjudice de la Suisse ou de ses ressortissants, habitants ou organismes, aura pratiqué un service de renseignements politiques, ou aura organisé un tel service,
+<sup>1.</sup> Quiconque, dans l’intérêt d’un État étranger, ou d’un parti étranger ou d’une autre organisation de l’étranger, et au préjudice de la Suisse ou de ses ressortissants, habitants ou organismes, pratique un service de renseignements politiques, ou organise un tel service,
 
-celui qui aura engagé autrui pour un tel service ou favorisé de tels agissements,
+quiconque engage autrui pour un tel service ou favorise de tels agissements,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> Dans les cas graves, le juge prononcera une peine privative de liberté d’un an au moins. Sera en particulier considéré comme grave le fait d’avoir incité à des actes propres à compromettre la sûreté intérieure ou extérieure de la Confédération ou d’avoir donné de fausses informations de cette nature.
+<sup>2.</sup> Dans les cas graves, le juge prononce une peine privative de liberté d’un an au moins. Est en particulier considéré comme grave le fait d’inciter à des actes propres à compromettre la sûreté intérieure ou extérieure de la Confédération ou de donner de fausses informations de cette nature.
 
-[^272-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^272-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Service de renseignements économiques
 
 #### Art. 273
 
-Celui qui aura cherché à découvrir un secret de fabrication ou d’affaires pour le rendre accessible à un organisme officiel ou privé étranger, ou à une entreprise privée étrangère, ou à leurs agents,
+[^273-1]
 
-celui qui aura rendu accessible un secret de fabrication ou d’affaires à un organisme officiel ou privé étranger, ou à une entreprise privée étrangère, ou à leurs agents,
+Quiconque cherche à découvrir un secret de fabrication ou d’affaires pour le rendre accessible à un organisme officiel ou privé étranger, ou à une entreprise privée étrangère, ou à leurs agents,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire ou, dans les cas graves, d’une peine privative de liberté d’un an au moins. En cas de peine privative de liberté, une peine pécuniaire peut également être prononcée.[^273-1]
+quiconque rend accessible un secret de fabrication ou d’affaires à un organisme officiel ou privé étranger, ou à une entreprise privée étrangère, ou à leurs agents,
 
-[^273-1]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire ou, dans les cas graves, d’une peine privative de liberté d’un an au moins.
+
+[^273-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Service de renseignements militaires
 
@@ -4678,19 +4949,19 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^274-1]
 
-<sup>1.</sup> Celui qui aura recueilli des renseignements militaires dans l’intérêt de l’étranger et au préjudice de la Suisse ou aura organisé un tel service,
+<sup>1.</sup> Quiconque recueille des renseignements militaires dans l’intérêt de l’étranger et au préjudice de la Suisse ou organise un tel service,
 
-celui qui aura engagé autrui pour un tel service ou favorisé de tels agissements,
+quiconque engage autrui pour un tel service ou favorise de tels agissements,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-Dans les cas graves, le juge pourra prononcer une peine privative de liberté d’un an au moins.
+Dans les cas graves, le juge prononce une peine privative de liberté d’un an au moins.
 
-<sup>2.</sup> La correspondance et le matériel seront confisqués.
+<sup>2.</sup> La correspondance et le matériel sont confisqués.
 
-[^274-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^274-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### 3. Mise en danger de l’ordre constitutionnel
+### 3. Mise en danger de l’ordre constitutionnel.
 
 ### Atteintes à l’ordre constitutionnel
 
@@ -4698,36 +4969,15 @@ Dans les cas graves, le juge pourra prononcer une peine privative de liberté d�
 
 [^275-1]
 
-Celui qui aura commis un acte tendant à troubler ou à modifier d’une manière illicite l’ordre fondé sur la Constitution ou la Constitution d’un canton[^275-2], sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+Quiconque commet un acte tendant à troubler ou à modifier d’une manière illicite l’ordre fondé sur la Constitution ou la constitution d’un canton, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^275-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
-[^275-2]: [RS 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)**/.235**
+[^275-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### Propagande subversive
+#### Art. 275<sup>bis</sup> et 275<sup>ter</sup>
 
-#### Art. 275<sup>bis</sup>
+[^275bis275ter-1]
 
-[^275bis-1]
-
-Celui qui aura fait une propagande étrangère tendant à renverser par la violence l’ordre constitutionnel de la Confédération ou d’un canton sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
-
-[^275bis-1]: Introduit par le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
-
-### Groupements illicites
-
-#### Art. 275<sup>ter</sup>
-
-[^275ter-1]
-
-Celui qui aura fondé un groupement qui vise ou dont l’activité consiste à accomplir des actes réprimés par les art. 265, 266, 266<sup>bis</sup>, 271 à 274, 275 et 275<sup>bis</sup>,
-
-celui qui aura adhéré à un tel groupement ou se sera associé à ses menées,
-
-celui qui aura provoqué à la fondation d’un tel groupement ou se sera conformé à ses instructions,
-
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
-
-[^275ter-1]: Introduit par le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^275bis275ter-1]: Introduits par le ch. I de la LF du 5 oct. 1950 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)). Abrogés par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 4. Atteintes à la sécurité militaire
 
@@ -4735,33 +4985,43 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 #### Art. 276
 
-<sup>1.</sup> Celui qui aura publiquement provoqué à la désobéissance à un ordre militaire, à une violation des devoirs de service, au refus de servir ou à la désertion,
+[^276-1]
 
-celui qui aura incité une personne astreinte au service à commettre une de ces infractions,
+<sup>1.</sup> Quiconque provoque publiquement à la désobéissance à un ordre militaire, à une violation des devoirs de service, au refus de servir ou à la désertion,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque incite une personne astreinte au service à commettre une de ces infractions,
 
-<sup>2.</sup> La peine sera une peine privative de liberté ou une peine pécuniaire si le délinquant a provoqué ou incité à la mutinerie ou au complot.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-### Falsification d’ordre de mise sur pied ou d’instructions
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté ou d’une peine pécuniaire s’il provoque ou incite à la mutinerie ou au complot.
+
+[^276-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Falsification d’ordres de mise sur pied ou d’instructions
 
 #### Art. 277
 
-<sup>1.</sup> Celui qui, intentionnellement, aura contrefait, falsifié, détruit ou fait disparaître un ordre de se présenter au recrutement, un ordre de mise sur pied, un ordre de marche ou une instruction destinée à des citoyens astreints au service militaire,
+[^277-1]
 
-celui qui aura fait usage d’un tel ordre ou d’une telle instruction contrefaits ou falsifiés,
+<sup>1.</sup> Quiconque, intentionnellement, contrefait, falsifie, détruit ou fait disparaître un ordre de se présenter au recrutement, un ordre de mise sur pied, un ordre de marche ou une instruction destinée à des citoyens astreints au service militaire,
 
-sera puni d’une peine privative de liberté ou d’une peine pécuniaire.
+quiconque fait usage d’un tel ordre ou d’une telle instruction contrefaits ou falsifiés,
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-### Entraver le service militaire
+<sup>2.</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
+
+[^277-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Entrave au service militaire
 
 #### Art. 278
 
-Celui qui aura empêché un militaire de faire son service ou l’aura troublé dans son service sera puni d’une peine pécuniaire.[^278-1]
+[^278-1]
 
-[^278-1]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+Quiconque empêche un militaire de faire son service ou le trouble dans son service est puni d’une peine pécuniaire.
+
+[^278-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 14 Délits contre la volonté populaire
 
@@ -4769,49 +5029,63 @@ Celui qui aura empêché un militaire de faire son service ou l’aura troublé 
 
 #### Art. 279
 
-Celui qui, par la violence ou par la menace d’un dommage sérieux, aura empêché ou troublé une réunion, une élection ou une votation organisées en vertu de la Constitution ou de la loi,
+[^279-1]
 
-celui qui, par la violence ou par la menace d’un dommage sérieux, aura empêché ou entravé la quête ou le dépôt des signatures destinées à appuyer une demande de référendum ou d’initiative,
+Quiconque, par la violence ou par la menace d’un dommage sérieux, empêche ou trouble une réunion, une élection ou une votation organisées en vertu de la Constitution ou de la loi,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque, par la violence ou par la menace d’un dommage sérieux, empêche ou entrave la quête ou le dépôt des signatures destinées à appuyer une demande de référendum ou d’initiative,
+
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^279-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Atteinte au droit de vote
 
 #### Art. 280
 
-Celui qui, par la violence ou par la menace d’un dommage sérieux, aura empêché un électeur d’exercer son droit de vote, ou de signer une demande de référendum ou d’initiative,
+[^280-1]
 
-celui qui, par la violence ou par la menace d’un dommage sérieux, aura contraint un électeur à exercer un de ces droits, ou à l’exercer dans un sens déterminé,
+Quiconque, par la violence ou par la menace d’un dommage sérieux, empêche un électeur d’exercer son droit de vote, ou de signer une demande de référendum ou d’initiative,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque, par la violence ou par la menace d’un dommage sérieux, contraint un électeur à exercer un de ces droits, ou à l’exercer dans un sens déterminé,
+
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^280-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Corruption électorale
 
 #### Art. 281
 
-Celui qui aura offert, promis, accordé ou fait tenir un don ou un autre avantage à un électeur, pour l’engager soit à exercer son droit de vote dans un sens déterminé, soit à donner ou à refuser son appui à une demande de référendum ou d’initiative,
+[^281-1]
 
-celui qui aura offert, promis, accordé ou fait tenir un don ou un autre avantage à un électeur, afin qu’il s’abstienne de prendre part à une élection ou à une votation,
+Quiconque offre, promet, accorde ou fait tenir un don ou un autre avantage à un électeur, pour l’engager soit à exercer son droit de vote dans un sens déterminé, soit à donner ou à refuser son appui à une demande de référendum ou d’initiative,
 
-l’électeur qui se sera fait promettre ou accorder un tel avantage,
+quiconque offre, promet, accorde ou fait tenir un don ou un autre avantage à un électeur, afin qu’il s’abstienne de prendre part à une élection ou à une votation,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+l’électeur qui se fait promettre ou accorder un tel avantage,
+
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^281-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fraude électorale
 
 #### Art. 282
 
-<sup>1.</sup> Celui qui aura contrefait, falsifié, détruit ou fait disparaître un registre électoral,
+[^282-1]
 
-celui qui, sans en avoir le droit, aura pris part à une élection, à une votation ou signé une demande de référendum ou d’initiative,
+<sup>1.</sup> Quiconque contrefait, falsifie, détruit ou fait disparaître un registre électoral,
 
-celui qui aura falsifié le résultat d’une élection, d’une votation ou le chiffre des signatures recueillies à l’appui d’une demande de référendum ou d’initiative, notamment en ajoutant, modifiant, retranchant ou rayant des bulletins ou des signatures, en comptant inexactement les voix ou les signatures, ou en constatant le résultat par un procès-verbal contraire à la vérité,
+quiconque, sans en avoir le droit, prend part à une élection, à une votation ou signe une demande de référendum ou d’initiative,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque falsifie le résultat d’une élection, d’une votation ou le chiffre des signatures recueillies à l’appui d’une demande de référendum ou d’initiative, notamment en ajoutant, modifiant, retranchant ou rayant des bulletins ou des signatures, en comptant inexactement les voix ou les signatures, ou en constatant le résultat par un procès-verbal contraire à la vérité,
 
-<sup>2.</sup> Si le délinquant a agi en une qualité officielle, la peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire de 30 jours-amende au moins. En cas de peine privative de liberté, une peine pécuniaire peut également être prononcée.[^282-1]
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^282-1]: Nouvelle teneur selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>2.</sup> L’auteur qui agit en qualité officielle est puni d’une peine privative de liberté d’un mois à trois ans ou d’une peine pécuniaire de 30 jours-amende au moins.
+
+[^282-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Captation de suffrages
 
@@ -4819,15 +5093,19 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^282bis-1]
 
-Celui qui recueille, remplit ou modifie systématiquement des bulletins de vote ou qui distribue des bulletins ainsi remplis ou modifiés sera puni d’une amende.
+Quiconque recueille, remplit ou modifie systématiquement des bulletins de vote ou distribue des bulletins ainsi remplis ou modifiés est puni d’une amende.
 
-[^282bis-1]: Introduit par l’art. 88 ch. 1 de la LF du 17 déc. 1976 sur les droits politiques, en vigueur depuis le 1<sup>er</sup> juil. 1978 ([RO 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688); [FF 1975 I 1337](https://fedlex.data.admin.ch/eli/fga/1975/1_1317_1337_1313)).
+[^282bis-1]: Introduit par l’art. 88 ch. 1 de la LF du 17 déc. 1976 sur les droits politiques ([RO 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688); [FF 1975 I 1337](https://fedlex.data.admin.ch/eli/fga/1975/1_1317_1337_1313)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation du secret du vote
 
 #### Art. 283
 
-Celui qui, par des procédés illicites, aura réussi à découvrir dans quel sens un ou plusieurs électeurs usent de leur droit de vote sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^283-1]
+
+Quiconque, par des procédés illicites, réussit à découvrir dans quel sens un ou plusieurs électeurs usent de leur droit de vote est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^283-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 284
 
@@ -4841,21 +5119,23 @@ Celui qui, par des procédés illicites, aura réussi à découvrir dans quel se
 
 #### Art. 285
 
-<sup>1.</sup> Celui qui, en usant de violence ou de menace, aura empêché une autorité, un membre d’une autorité ou un fonctionnaire de faire un acte entrant dans ses fonctions, les aura contraints à faire un tel acte ou se sera livré à des voies de fait sur eux pendant qu’ils y procédaient, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1.</sup> Quiconque, en usant de violence ou de menace, empêche une autorité, un membre d’une autorité ou un fonctionnaire de faire un acte entrant dans ses fonctions, les contraint à faire un tel acte ou se livre à des voies de fait sur eux pendant qu’ils y procèdent, est puni d’une peine privative de liberté de trois ans au plus. Dans les cas de peu de gravité, le juge peut prononcer une peine pécuniaire.[^285-1]
 
-Les employés des entreprises définies par la loi du 20 décembre 1957 sur les chemins de fer[^285-1], la loi du 20 mars 2009 sur le transport de voyageurs[^285-2] et la loi du 19 décembre 2008 sur le transport ferroviaire de marchandises[^285-3] ainsi que les employés des organisations mandatées conformément à la loi fédérale du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics[^285-4] et pourvues d’une autorisation de l’Office fédéral des transports sont également considérés comme des fonctionnaires.[^285-5] [^285-6]
+Les employés des entreprises définies par la loi du 20 décembre 1957 sur les chemins de fer[^285-2], la loi du 20 mars 2009 sur le transport de voyageurs[^285-3] et la loi du 19 décembre 2008 sur le transport ferroviaire de marchandises[^285-4] ainsi que les employés des organisations mandatées conformément à la loi fédérale du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics[^285-5] et pourvues d’une autorisation de l’Office fédéral des transports sont également considérés comme des fonctionnaires.[^285-6]
 
-<sup>2.</sup> Si l’infraction a été commise par une foule ameutée, tous ceux qui auront pris part à l’attroupement seront punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>2.</sup> Si l’infraction est commise par une foule ameutée, tous ceux qui prennent part à l’attroupement sont punis d’une peine privative de liberté de trois ans au plus. Dans les cas de peu de gravité, le juge peut prononcer une peine pécuniaire.
 
-Ceux d’entre eux qui auront commis des violences contre les personnes ou les propriétés seront punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire de 30 jours-amende au moins.[^285-7]
+Ceux d’entre eux qui commettent des violences contre les personnes sont punis d’une peine privative de liberté de trois mois à trois ans.
 
-[^285-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^285-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^285-3]: [[RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)annexe ch. I 1]. Voir actuellement la LF du 25 sept. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
-[^285-4]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
-[^285-5]: Nouvelle teneur du par. selon l’art. 11 al. 2 de la LF du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156), [845](https://fedlex.data.admin.ch/eli/fga/2010/158)).
-[^285-6]: Nouvelle teneur selon le ch. II 5 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^285-7]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+Ceux d’entre eux qui commettent des violences contre les propriétés sont punis d’une peine privative de liberté de trois mois à trois ans ou d’une peine pécuniaire de 90 jours-amende au moins.[^285-7]
+
+[^285-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^285-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^285-3]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^285-4]: [[RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)annexe ch. I 1]. Voir actuellement la LF du 25 sept. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^285-5]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^285-6]: Nouvelle teneur du par. selon l’art. 11 al. 2 de la LF du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156), [845](https://fedlex.data.admin.ch/eli/fga/2010/158)).
+[^285-7]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Empêchement d’accomplir un acte officiel
 
@@ -4863,22 +5143,27 @@ Ceux d’entre eux qui auront commis des violences contre les personnes ou les p
 
 [^286-1]
 
-Celui qui aura empêché une autorité, un membre d’une autorité ou un fonctionnaire d’accomplir un acte entrant dans ses fonctions sera puni d’une peine pécuniaire de 30 jours-amende au plus.
+Quiconque empêche une autorité, un membre d’une autorité ou un fonctionnaire de faire un acte entrant dans ses fonctions est puni d’une peine pécuniaire de 30 jours-amende au plus.[^286-2]
 
-Les employés des entreprises définies par la loi du 20 décembre 1957 sur les chemins de fer[^286-2], la loi du 20 mars 2009 sur le transport de voyageurs[^286-3] et la loi du 19 décembre 2008 sur le transport ferroviaire de marchandises[^286-4] ainsi que les employés des organisations mandatées conformément à la loi fédérale du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics[^286-5] et pourvues d’une autorisation de l’Office fédéral des transports sont également considérés comme des fonctionnaires. [^286-6]
+Les employés des entreprises définies par la loi du 20 décembre 1957 sur les chemins de fer[^286-3], la loi du 20 mars 2009 sur le transport de voyageurs[^286-4] et la loi du 19 décembre 2008 sur le transport ferroviaire de marchandises[^286-5] ainsi que les employés des organisations mandatées conformément à la loi fédérale du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics[^286-6] et pourvues d’une autorisation de l’Office fédéral des transports sont également considérés comme des fonctionnaires. [^286-7]
 
 [^286-1]: Nouvelle teneur selon le ch. II 5 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325); [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^286-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^286-3]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^286-4]: [[RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)annexe ch. I 1]. Voir actuellement la LF du 25 sept. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
-[^286-5]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
-[^286-6]: Nouvelle teneur selon l’art. 11 al. 2 de la LF du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156), [845](https://fedlex.data.admin.ch/eli/fga/2010/158))
+[^286-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^286-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^286-4]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^286-5]: [[RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)annexe ch. I 1]. Voir actuellement la LF du 25 sept. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^286-6]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^286-7]: Nouvelle teneur selon l’art. 11 al. 2 de la LF du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156), [845](https://fedlex.data.admin.ch/eli/fga/2010/158))
 
 ### Usurpation de fonctions
 
 #### Art. 287
 
-Celui qui, dans un dessein illicite, aura usurpé l’exercice d’une fonction ou le pouvoir de donner des ordres militaires sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^287-1]
+
+Quiconque, dans un dessein illicite, usurpe l’exercice d’une fonction ou le pouvoir de donner des ordres militaires est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^287-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 288
 
@@ -4890,39 +5175,55 @@ Celui qui, dans un dessein illicite, aura usurpé l’exercice d’une fonction 
 
 #### Art. 289
 
-Celui qui aura soustrait des objets mis sous main de l’autorité sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^289-1]
+
+Quiconque soustrait des objets mis sous main de l’autorité est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^289-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Bris de scellés
 
 #### Art. 290
 
-Celui qui aura brisé ou enlevé une marque officielle, notamment un scellé, apposée par l’autorité pour enfermer ou identifier un objet, ou qui en aura déjoué l’effet, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^290-1]
+
+Quiconque brise ou enlève une marque officielle, notamment un scellé, apposée par l’autorité pour enfermer ou identifier un objet, ou qui en déjoue l’effet, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^290-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Rupture de ban
 
 #### Art. 291
 
-<sup>1</sup> Celui qui aura contrevenu à une décision d’expulsion du territoire de la Confédération ou d’un canton prononcée par une autorité compétente sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^291-1]
 
-<sup>2</sup> La durée de cette peine ne sera pas imputée sur celle de l’expulsion.
+<sup>1</sup> Quiconque contrevient à une décision d’expulsion du territoire de la Confédération ou d’un canton prononcée par une autorité compétente est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> La durée de cette peine n’est pas imputée sur celle de l’expulsion.
+
+[^291-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Insoumission à une décision de l’autorité
 
 #### Art. 292
 
-Celui qui ne se sera pas conformé à une décision à lui signifiée, sous la menace de la peine prévue au présent article, par une autorité ou un fonctionnaire compétents sera puni d’une amende.
+[^292-1]
+
+Quiconque ne se conforme pas à une décision à lui signifiée, sous la menace de la peine prévue au présent article, par une autorité ou un fonctionnaire compétents est puni d’une amende.
+
+[^292-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Publication de débats officiels secrets
 
 #### Art. 293
 
-<sup>1</sup> Celui qui aura livré à la publicité tout ou partie des actes, d’une instruction ou des débats d’une autorité qui sont secrets en vertu de la loi ou d’une décision prise par l’autorité conformément à la loi, sera puni de l’amende.[^293-1]
+<sup>1</sup> Quiconque livre à la publicité tout ou partie des actes, d’une instruction ou des débats d’une autorité qui sont secrets en vertu de la loi ou d’une décision prise par l’autorité conformément à la loi est puni d’une amende.[^293-1]
 
 <sup>2</sup> La complicité est punissable.
 
 <sup>3</sup> L’acte n’est pas punissable si aucun intérêt public ou privé prépondérant ne s’opposait à la publication.[^293-2]
 
-[^293-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017 (Publication de débats officiels secrets), en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [FF 2016 7105](https://fedlex.data.admin.ch/eli/fga/2016/1580), [7359](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
+[^293-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^293-2]: Introduit par le ch. I de la LF du 10 oct. 1997 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)). Nouvelle teneur selon le ch. I de la LF du 16 juin 2017 (Publication de débats officiels secrets), en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [FF 2016 7105](https://fedlex.data.admin.ch/eli/fga/2016/1580), [7359](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
 
 ### Infraction à l’interdiction d’exercer une activité, à l’interdiction de contact ou à l’interdiction géographique
@@ -4957,9 +5258,9 @@ Quiconque se soustrait à l’assistance de probation ordonnée par le juge ou l
 
 [^296-1]
 
-Celui qui, publiquement, aura outragé un État étranger dans la personne de son chef, dans son gouvernement ou dans la personne d’un de ses agents diplomatiques ou d’un de ses délégués officiels à une conférence diplomatique siégeant en Suisse ou d’un de ses représentants officiels au sein d’une institution interétatique ou de son organisation établie ou siégeant en Suisse, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Quiconque, publiquement, outrage un État étranger dans la personne de son chef, dans son gouvernement ou dans la personne d’un de ses agents diplomatiques ou d’un de ses délégués officiels à une conférence diplomatique siégeant en Suisse ou d’un de ses représentants officiels au sein d’une institution interétatique ou de son organisation établie ou siégeant en Suisse, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^296-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^296-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Outrages à des institutions interétatiques
 
@@ -4967,49 +5268,65 @@ Celui qui, publiquement, aura outragé un État étranger dans la personne de so
 
 [^297-1]
 
-Celui qui, publiquement, aura outragé une institution interétatique ou son organisation établie ou siégeant en Suisse dans la personne d’un de ses représentants officiels sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+Quiconque, publiquement, outrage une institution interétatique ou son organisation établie ou siégeant en Suisse dans la personne d’un de ses représentants officiels est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^297-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^297-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Atteinte aux emblèmes nationaux étrangers
 
 #### Art. 298
 
-Celui qui, par malveillance, aura enlevé, dégradé ou aura par des actes outragé les emblèmes de souveraineté d’un État étranger arborés publiquement par un représentant officiel de cet État, notamment ses armes ou son drapeau, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^298-1]
+
+Quiconque, par malveillance, enlève, dégrade ou outrage par des actes les emblèmes de souveraineté d’un État étranger arborés publiquement par un représentant officiel de cet État, notamment ses armes ou son drapeau, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^298-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation de la souveraineté territoriale étrangère
 
 #### Art. 299
 
-<sup>1.</sup> Celui qui aura violé la souveraineté territoriale d’un État étranger, notamment en procédant indûment à des actes officiels sur le territoire de cet État,
+[^299-1]
 
-celui qui aura pénétré sur le territoire d’un État étranger contrairement au droit des gens,
+<sup>1.</sup> Quiconque viole la souveraineté territoriale d’un État étranger, notamment en procédant indûment à des actes officiels sur le territoire de cet État,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque pénètre sur le territoire d’un État étranger contrairement au droit des gens,
 
-<sup>2.</sup> Celui qui, du territoire suisse, aura tenté de troubler par la violence l’ordre politique d’un État étranger sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2.</sup> Quiconque, du territoire suisse, tente de troubler par la violence l’ordre politique d’un État étranger est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^299-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Actes d’hostilité contre un belligérant ou des troupes étrangères
 
 #### Art. 300
 
-Celui qui, du territoire neutre de la Suisse, aura entrepris ou favorisé des actes d’hostilité contre un belligérant,
+[^300-1]
 
-celui qui se sera livré à des actes d’hostilité contre des troupes étrangères admises en Suisse,
+Quiconque, du territoire neutre de la Suisse, entreprend ou favorise des actes d’hostilité contre un belligérant,
 
-sera puni d’une peine privative de liberté ou d’une peine pécuniaire.
+quiconque se livre à des actes d’hostilité contre des troupes étrangères admises en Suisse,
+
+est puni d’une peine privative de liberté ou d’une peine pécuniaire.
+
+[^300-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Espionnage militaire au préjudice d’un État étranger
 
 #### Art. 301
 
-<sup>1.</sup> Celui qui, sur territoire suisse, aura recueilli des renseignements militaires pour un État étranger au préjudice d’un autre État étranger ou aura organisé un tel service,
+[^301-1]
 
-celui qui aura engagé autrui dans un tel service ou favorisé de tels agissements,
+<sup>1.</sup> Quiconque, sur territoire suisse, recueille des renseignements militaires pour un État étranger au préjudice d’un autre État étranger ou organise un tel service,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque engage autrui dans un tel service ou favorise de tels agissements,
 
-<sup>2.</sup> La correspondance et le matériel seront confisqués.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2.</sup> La correspondance et le matériel sont confisqués.
+
+[^301-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Poursuite
 
@@ -5017,14 +5334,16 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^302-1]
 
-<sup>1</sup> Les crimes et les délits prévus au présent titre ne seront poursuivis que sur décision du Conseil fédéral.
+<sup>1</sup> Les crimes et les délits prévus au présent titre ne sont poursuivis que sur décision du Conseil fédéral.[^302-2]
 
-<sup>2</sup> Le Conseil fédéral n’ordonnera la poursuite que si la demande en est faite par le gouvernement de l’État étranger dans les cas prévus à l’art. 296 et par un organe de l’institution interétatique dans les cas visés à l’art. 297. En temps de service actif, il pourra ordonner la poursuite même en l’absence d’une telle requête.
+<sup>2</sup> Le Conseil fédéral n’ordonne la poursuite que si la demande en est faite par le gouvernement de l’État étranger dans les cas prévus à l’art. 296 et par un organe de l’institution interétatique dans les cas visés à l’art. 297. En temps de service actif, il peut ordonner la poursuite même en l’absence d’une telle requête.[^302-3]
 
-<sup>3</sup> Dans les cas prévus aux art. 296 et 297, l’action pénale se prescrit par deux ans.[^302-2]
+<sup>3</sup> Dans les cas prévus aux art. 296 et 297, l’action pénale se prescrit par deux ans.[^302-4]
 
 [^302-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
-[^302-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342), [1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
+[^302-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^302-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^302-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342), [1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
 
 ### Titre 17 Crimes ou délits contre l’administration de la justice
 
@@ -5032,38 +5351,47 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 #### Art. 303
 
-<sup>1.</sup> Celui qui aura dénoncé à l’autorité, comme auteur d’un crime ou d’un délit, une personne qu’il savait innocente, en vue de faire ouvrir contre elle une poursuite pénale,
+[^303-1]
 
-celui qui, de toute autre manière, aura ourdi des machinations astucieuses en vue de provoquer l’ouverture d’une poursuite pénale contre une personne qu’il savait innocente,
+<sup>1.</sup> Quiconque dénonce à l’autorité, comme auteur d’un crime ou d’un délit, une personne qu’il sait innocente, en vue de faire ouvrir contre elle une poursuite pénale,
 
-sera puni d’une peine privative de liberté ou d’une peine pécuniaire.
+quiconque, de toute autre manière, ourdit des machinations astucieuses en vue de provoquer l’ouverture d’une poursuite pénale contre une personne qu’il sait innocente,
 
-<sup>2.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si la dénonciation calomnieuse a trait à une contravention.
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+<sup>2.</sup> L’auteur est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire si la dénonciation calomnieuse a trait à une contravention.
+
+[^303-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Induire la justice en erreur
 
 #### Art. 304
 
-<sup>1.</sup> Celui qui aura dénoncé à l’autorité une infraction qu’il savait n’avoir pas été commise,
+[^304-1]
 
-celui qui se sera faussement accusé auprès de l’autorité d’avoir commis une infraction,
+<sup>1.</sup> Quiconque dénonce à l’autorité une infraction qu’il sait n’avoir pas été commise,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+quiconque s’accuse faussement auprès de l’autorité d’avoir commis une infraction,
 
-<sup>2.</sup> Dans les cas de très peu de gravité, le juge pourra exempter le délinquant de toute peine.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2.</sup> *Abrogé*
+
+[^304-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Entrave à l’action pénale
 
 #### Art. 305
 
-<sup>1</sup> Celui qui aura soustrait une personne à une poursuite pénale ou à l’exécution d’une peine ou d’une des mesures prévues aux art. 59 à 61, 63 et 64[^305-1] sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^305-1]
 
-<sup>1bis</sup> Encourra la même peine celui qui aura soustrait une personne à une poursuite pénale ouverte à l’étranger ou à l’exécution d’une peine privative de liberté ou d’une mesure relevant des art. 59 à 61, 63 ou 64 prononcées à l’étranger pour un des crimes visés à l’art. 101.[^305-2]
+<sup>1</sup> Quiconque soustrait une personne à une poursuite pénale ou à l’exécution d’une peine ou d’une des mesures prévues aux art. 59 à 61, 63 et 64 est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Le juge pourra exempter le délinquant de toute peine si les relations de celui-ci avec la personne par lui favorisée sont assez étroites pour rendre sa conduite excusable.
+<sup>1bis</sup> Encourt la même peine quiconque soustrait une personne à une poursuite pénale ouverte à l’étranger ou à l’exécution d’une peine privative de liberté ou d’une mesure relevant des art. 59 à 61, 63 ou 64 prononcées à l’étranger pour un des crimes visés à l’art. 101.
 
-[^305-1]: Nouvelle teneur du membre de phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^305-2]: Introduit par le ch. I de la LF du 9 oct. 1981 ([RO 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [FF 1980 I 1216](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)). Nouvelle teneur selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>2</sup> L’auteur n’est pas punissable s’il favorise l’un de ses proches ou une autre personne avec laquelle il entretient des relations assez étroites pour rendre sa conduite excusable.
+
+[^305-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Blanchiment d’argent
 
@@ -5075,11 +5403,11 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^305bis-1]
 
-\1. Celui qui aura commis un acte propre à entraver l’identification de l’origine, la découverte ou la confiscation de valeurs patrimoniales dont il savait ou devait présumer qu’elles provenaient d’un crime ou d’un délit fiscal qualifié, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^305bis-2]
+<sup>1.</sup> Quiconque commet un acte propre à entraver l’identification de l’origine, la découverte ou la confiscation de valeurs patrimoniales dont il sait ou doit présumer qu’elles proviennent d’un crime ou d’un délit fiscal qualifié, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^305bis-2]
 
 1<sup>bis</sup>. Sont considérées comme un délit fiscal qualifié, les infractions mentionnées à l’art. 186 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^305bis-3] et à l’art. 59, al. 1, 1<sup>er</sup> paragraphe, de la loi fédérale du 14 décembre 1990 sur l’harmonisation des impôts directs des cantons et des communes[^305bis-4], lorsque les impôts soustraits par période fiscale se montent à plus de 300 000 francs.[^305bis-5]
 
-<sup>2.</sup> Dans les cas graves, la peine sera une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire de 500 jours-amende au plus est également prononcée.[^305bis-6]
+<sup>2.</sup> Dans les cas graves, l’auteur est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^305bis-6]
 
 Le cas est grave, notamment lorsque le délinquant:
 
@@ -5090,11 +5418,11 @@ Le cas est grave, notamment lorsque le délinquant:
 <sup>3.</sup> Le délinquant est aussi punissable lorsque l’infraction principale a été commise à l’étranger et lorsqu’elle est aussi punissable dans l’État où elle a été commise.[^305bis-9]
 
 [^305bis-1]: Introduit par le ch. I de la LF du 23 mars 1990, en vigueur depuis le 1<sup>er</sup> août 1990 ([RO 1990 1077](https://fedlex.data.admin.ch/eli/oc/1990/1077_1077_1077); [FF 1989 II 961](https://fedlex.data.admin.ch/eli/fga/1989/2_1061_961_837)).
-[^305bis-2]: Nouvelle teneur selon le ch. I 4 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Voir aussi disp. trans. de cette mod. à la fin du texte.
+[^305bis-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^305bis-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^305bis-4]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 [^305bis-5]: Introduit par le ch. I 4 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^305bis-6]: Nouvelle teneur des phrases selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^305bis-6]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^305bis-7]: Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^305bis-8]: Nouvelle teneur selon l’art. 43 de la LF du 10 oct. 1997 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 892](https://fedlex.data.admin.ch/eli/oc/1998/892_892_892); [FF 1996 III 1057](https://fedlex.data.admin.ch/eli/fga/1996/3_1101_1057_993)).
 [^305bis-9]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
@@ -5109,47 +5437,58 @@ Le cas est grave, notamment lorsque le délinquant:
 
 [^305ter-1]
 
-<sup>1</sup> Celui qui, dans l’exercice de sa profession, aura accepté, gardé en dépôt ou aidé à placer ou à transférer des valeurs patrimoniales appartenant à un tiers et qui aura omis de vérifier l’identité de l’ayant droit économique avec la vigilance que requièrent les circonstances, sera puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.[^305ter-2]
+<sup>1</sup> Quiconque, dans l’exercice de sa profession, accepte, garde en dépôt ou aide à placer ou à transférer des valeurs patrimoniales appartenant à un tiers et omet de vérifier l’identité de l’ayant droit économique avec la vigilance que requièrent les circonstances, est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.[^305ter-2]
 
 <sup>2</sup> Les personnes visées à l’al. 1 ont le droit de communiquer au Bureau de communication en matière de blanchiment d’argent de l’Office fédéral de la police les indices fondant le soupçon que des valeurs patrimoniales proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305<sup>bis</sup>, ch. 1<sup>bis</sup>.[^305ter-3]
 
 [^305ter-1]: Introduit par le ch. I de la LF du 23 mars 1990, en vigueur depuis le 1<sup>er</sup> août 1990 ([RO 1990 1077](https://fedlex.data.admin.ch/eli/oc/1990/1077_1077_1077); [FF 1989 II 961](https://fedlex.data.admin.ch/eli/fga/1989/2_1061_961_837)).
-[^305ter-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^305ter-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^305ter-3]: Introduit par le ch. I de la LF du 18 mars 1994 ([RO 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614); [FF 1993 III 269](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)). Nouvelle teneur selon le ch. I 4 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### Fausse déclaration d’une partie en justice
 
 #### Art. 306
 
-<sup>1</sup> Celui qui, étant partie dans un procès civil, aura donné sur les faits de la cause, après avoir été expressément invité par le juge à dire la vérité et rendu attentif aux suites pénales, une fausse déclaration constituant un moyen de preuve, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^306-1]
 
-<sup>2</sup> Si le déclarant a prêté serment ou s’il a promis solennellement de dire la vérité, la peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire de 90 jours-amende au moins.[^306-1]
+<sup>1</sup> Quiconque, étant partie dans un procès civil, donne sur les faits de la cause, après avoir été expressément invité par le juge à dire la vérité et rendu attentif aux suites pénales, une fausse déclaration constituant un moyen de preuve, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^306-1]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>2</sup> *Abrogé*
+
+<sup>3</sup> L’auteur est puni d’une peine pécuniaire si la fausse déclaration a trait à des faits qui ne peuvent exercer aucune influence sur la décision du juge.
+
+[^306-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Faux témoignage, faux rapport, fausse traduction en justice
 
 #### Art. 307
 
-<sup>1</sup> Celui qui, étant témoin, expert, traducteur ou interprète en justice, aura fait une déposition fausse sur les faits de la cause, fourni un constat ou un rapport faux, ou fait une traduction fausse sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^307-1]
 
-<sup>2</sup> Si le déclarant a prêté serment ou s’il a promis solennellement de dire la vérité, la peine sera une peine privative de liberté de six mois à cinq ans.[^307-1]
+<sup>1</sup> Quiconque, étant témoin, expert, traducteur ou interprète en justice, fait une déposition fausse sur les faits de la cause, fournit un constat ou un rapport faux, ou fait une traduction fausse est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> La peine sera une peine pécuniaire si[^307-2] la fausse déclaration a trait à des faits qui ne peuvent exercer aucune influence sur la décision du juge.
+<sup>2</sup> *Abrogé*
 
-[^307-1]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^307-2]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+<sup>3</sup> L’auteur est puni d’une peine pécuniaire si la fausse déclaration a trait à des faits qui ne peuvent exercer aucune influence sur la décision du juge.
 
-### Atténuations de peines
+[^307-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Atténuation ou exemption de peine
 
 #### Art. 308
 
-<sup>1</sup> Si l’auteur d’un crime ou d’un délit prévu aux art. 303, 304, 306 et 307 a rectifié sa fausse dénonciation ou sa fausse déclaration de son propre mouvement et avant qu’il en soit résulté un préjudice pour les droits d’autrui, le juge pourra atténuer la peine (art. 48*a*); il pourra aussi exempter le délinquant de toute peine.[^308-1]
+[^308-1]
 
-<sup>2</sup> Si l’auteur d’un crime ou d’un délit prévu aux art. 306 et 307 a fait une déclaration fausse parce que, en disant la vérité, il se serait exposé ou aurait exposé l’un de ses proches à une poursuite pénale, le juge pourra atténuer la peine (art. 48*a*).[^308-2]
+<sup>1</sup> Si l’auteur d’un crime ou d’un délit prévu aux art. 303, 304, 306 et 307 rectifie sa fausse dénonciation ou sa fausse déclaration de son propre mouvement et avant qu’il en résulte un préjudice pour les droits d’autrui, le juge peut atténuer la peine (art. 48*a*); il peut aussi renoncer à prononcer une peine.
 
-[^308-1]: Nouvelle teneur du membre de phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^308-2]: Nouvelle teneur du membre de phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>2</sup>
+
+L’auteur d’un crime ou d’un délit prévu aux art. 306 et 307 n’est pas punissable s’il fait une déclaration fausse:
+
+- a. parce qu’en disant la vérité, il s’exposerait à une poursuite pénale, ou
+- b. parce qu’en disant la vérité, il exposerait à une poursuite pénale l’un de ses proches ou une autre personne avec laquelle il entretient des relations assez étroites pour rendre sa conduite excusable.
+
+[^308-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Affaires administratives et procédure devant les tribunaux internationaux
 
@@ -5168,19 +5507,23 @@ Les art. 306 à 308 sont aussi applicables:
 
 #### Art. 310
 
-<sup>1.</sup> Celui qui, en usant de violence, de menace ou de ruse, aura fait évader une personne arrêtée, détenue, ou internée dans un établissement par décision de l’autorité ou lui aura prêté assistance pour s’évader sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^310-1]
 
-<sup>2.</sup> Si l’infraction a été commise par une foule ameutée, tous ceux qui auront pris part à l’attroupement seront punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1.</sup> Quiconque, en usant de violence, de menace ou de ruse, fait évader une personne arrêtée, détenue, ou internée dans un établissement par décision de l’autorité ou lui prête assistance pour s’évader est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-Ceux d’entre eux qui auront commis des violences contre les personnes ou les propriétés seront punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire de 30 jours-amende au moins.[^310-1]
+<sup>2.</sup> Si l’infraction est commise par une foule ameutée, tous ceux qui prennent part à l’attroupement sont punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^310-1]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+Ceux d’entre eux qui commettent des violences contre les personnes ou les propriétés sont punis d’une peine privative de liberté de trois mois à trois ans ou d’une peine pécuniaire de 90 jours-amende au moins.
+
+[^310-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mutinerie de détenus
 
 #### Art. 311
 
-<sup>1.</sup> Les détenus ou les personnes internées dans un établissement par décision de l’autorité qui se seront ameutés dans le dessein
+[^311-1]
+
+<sup>1.</sup> Les détenus ou les personnes internées dans un établissement par décision de l’autorité qui s’ameutent dans le dessein
 
 d’attaquer, d’un commun accord, un fonctionnaire de l’établissement ou toute autre personne chargée de les surveiller,
 
@@ -5188,12 +5531,11 @@ de contraindre, par la violence ou la menace de violences, un fonctionnaire de l
 
 ou de s’évader en usant de violence,
 
-seront punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire de 30 jours-amende au moins.[^311-1]
+sont punis d’une peine privative de liberté d’un mois à trois ans ou d’une peine pécuniaire de 30 jours amende au moins.
 
-<sup>2.</sup> Ceux d’entre eux qui auront commis des violences contre les personnes ou les propriétés seront punis d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire de 90 jours-amende au moins.[^311-2]
+<sup>2.</sup> Ceux d’entre eux qui commettent des violences contre les personnes ou les propriétés sont punis d’une peine privative de liberté de trois mois à cinq ans ou d’une peine pécuniaire de 90 jours-amende au moins.
 
-[^311-1]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^311-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^311-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 18 Infractions contre les devoirs de fonction et les devoirs professionnels
 
@@ -5201,13 +5543,21 @@ seront punis d’une peine privative de liberté de trois ans au plus ou d’une
 
 #### Art. 312
 
-Les membres d’une autorité et les fonctionnaires qui, dans le dessein de se procurer ou de procurer à un tiers un avantage illicite, ou dans le dessein de nuire à autrui, auront abusé des pouvoirs de leur charge, seront punis d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+[^312-1]
+
+Les membres d’une autorité et les fonctionnaires qui, dans le dessein de se procurer ou de procurer à un tiers un avantage illicite, ou dans le dessein de nuire à autrui, abusent des pouvoirs de leur charge, sont punis d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^312-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Concussion
 
 #### Art. 313
 
-Le fonctionnaire qui, dans un dessein de lucre, aura perçu des taxes, des émoluments ou des indemnités non dus ou excédant le tarif légal sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^313-1]
+
+Le fonctionnaire qui, pour se procurer ou procurer à un tiers un enrichissement illégitime, perçoit des taxes, des émoluments ou des indemnités non dus ou excédant le tarif légal est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^313-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Gestion déloyale des intérêts publics
 
@@ -5215,10 +5565,9 @@ Le fonctionnaire qui, dans un dessein de lucre, aura perçu des taxes, des émol
 
 [^314-1]
 
-Les membres d’une autorité et les fonctionnaires qui, dans le dessein de se procurer ou de procurer à un tiers un avantage illicite, auront lésé dans un acte juridique les intérêts publics qu’ils avaient mission de défendre seront punis d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^314-2]
+Les membres d’une autorité et les fonctionnaires qui, dans le dessein de se procurer ou de procurer à un tiers un avantage illicite, lèsent dans un acte juridique les intérêts publics qu’ils ont mission de défendre sont punis d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^314-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^314-2]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^314-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 315 et 316
 
@@ -5232,15 +5581,15 @@ Les membres d’une autorité et les fonctionnaires qui, dans le dessein de se p
 
 [^317-1]
 
-<sup>1.</sup> Les fonctionnaires et les officiers publics qui auront intentionnellement créé un titre faux, falsifié un titre, ou abusé de la signature ou de la marque à la main réelles d’autrui pour fabriquer un titre supposé,
+<sup>1.</sup> Les fonctionnaires et les officiers publics qui, intentionnellement, créent un titre faux, falsifient un titre, ou abusent de la signature ou de la marque à la main réelles d’autrui pour fabriquer un titre supposé,
 
-les fonctionnaires et les officiers publics qui auront intentionnellement constaté faussement dans un titre un fait ayant une portée juridique, notamment en certifiant faussement l’authenticité d’une signature ou d’une marque à la main ou l’exactitude d’une copie,
+les fonctionnaires et les officiers publics qui, intentionnellement, constatent faussement dans un titre un fait ayant une portée juridique, notamment en certifiant faussement l’authenticité d’une signature ou d’une marque à la main ou l’exactitude d’une copie,
 
-seront punis d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+sont punis d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> La peine sera l’amende si le délinquant a agi par négligence.
+<sup>2.</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
 
-[^317-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^317-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Actes non punissables
 
@@ -5250,32 +5599,40 @@ seront punis d’une peine privative de liberté de cinq ans au plus ou d’une 
 
 <sup>1</sup> Quiconque, avec l’autorisation d’un juge, fabrique, modifie ou utilise des titres pour constituer ou assurer sa couverture ou son identité d’emprunt dans le cadre d’une investigation secrète ou qui, avec l’autorisation du Service de renseignement de la Confédération (SRC) en vertu de l’art. 17 LRens[^317bis-2] ou avec l’aval du chef du Département fédéral de la défense, de la protection de la population et des sports (DDPS) en vertu de l’art. 18 LRens, fabrique, modifie ou utilise des titres pour constituer ou assurer sa couverture ou son identité d’emprunt n’est pas punissable en vertu des art. 251, 252, 255 et 317.[^317bis-3]
 
-<sup>2</sup> Celui qui, autorisé à entreprendre une investigation secrète ou chargé par l’autorité compétente en vertu des art. 17 ou 18 LRens, fabrique ou modifie des titres pour constituer ou assurer des couvertures ou des identités d’emprunt n’est pas punissable en vertu des art. 251, 252, 255 et 317.[^317bis-4]
+<sup>2</sup> Quiconque, autorisé à entreprendre une investigation secrète ou chargé par l’autorité compétente en vertu des art. 17 ou 18 LRens, fabrique ou modifie des titres pour constituer ou assurer des couvertures ou des identités d’emprunt n’est pas punissable en vertu des art. 251, 252, 255 et 317.[^317bis-4]
 
-<sup>3</sup> Celui qui fabrique, modifie ou utilise des titres en exécution de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^317bis-5] n’est pas punissable en vertu des art. 251, 252, 255 et 317.[^317bis-6]
+<sup>3</sup> Quiconque fabrique, modifie ou utilise des titres en exécution de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^317bis-5] n’est pas punissable en vertu des art. 251, 252, 255 et 317.[^317bis-6]
 
 [^317bis-1]: Introduit par l’art. 24 ch. 1 de la LF du 20 juin 2003 sur l’investigation secrète ([RO 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); FF **1998** 3689). Nouvelle teneur selon l’annexe ch. 3 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^317bis-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^317bis-3]: Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^317bis-4]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^317bis-4]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^317bis-5]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^317bis-6]: Introduit par l’annexe ch. 3 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
+[^317bis-6]: Introduit par l’annexe ch. 3 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Faux certificat médical
 
 #### Art. 318
 
-<sup>1.</sup> Les médecins, les dentistes, les vétérinaires et les sages-femmes qui auront intentionnellement dressé un certificat contraire à la vérité, alors que ce certificat était destiné à être produit à l’autorité ou à procurer un avantage illicite, ou qu’il était de nature à léser les intérêts légitimes et importants de tierces personnes, seront punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^318-1]
 
-La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant avait sollicité, reçu ou s’était fait promettre une rémunération spéciale pour dresser ce certificat.
+<sup>1.</sup> Les médecins, les dentistes, les vétérinaires et les sages-femmes qui, intentionnellement, dressent un certificat contraire à la vérité, alors que ce certificat est destiné à être produit à l’autorité ou à procurer un avantage illicite, ou qu’il est de nature à léser les intérêts légitimes et importants de tierces personnes, sont punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2.</sup> La peine sera l’amende si le délinquant a agi par négligence.
+L’auteur est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire s’il sollicite, reçoit ou se fait promettre une rémunération spéciale pour dresser ce certificat.
+
+<sup>2.</sup> *Abrogé*
+
+[^318-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Assistance à l’évasion
 
 #### Art. 319
 
-Le fonctionnaire qui aura aidé dans son évasion ou aura laissé s’évader une personne arrêtée, détenue, ou renvoyée dans un établissement par décision de l’autorité, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+[^319-1]
+
+Le fonctionnaire qui aide dans son évasion ou laisse s’évader une personne arrêtée, détenue, ou renvoyée dans un établissement par décision de l’autorité, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^319-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation du secret de fonction
 
@@ -5295,19 +5652,21 @@ La révélation demeure punissable alors même que la charge ou l’emploi ou l�
 
 #### Art. 321
 
-<sup>1.</sup> Les ecclésiastiques, avocats, défenseurs en justice, notaires, conseils en brevet, contrôleurs astreints au secret professionnel en vertu du code des obligations[^321-1], médecins, dentistes, chiropraticiens, pharmaciens, sages-femmes, psychologues, infirmiers, physiothérapeutes, ergothérapeutes, diététiciens, optométristes, ostéopathes, ainsi que leurs auxiliaires, qui auront révélé un secret à eux confié en vertu de leur profession ou dont ils avaient eu connaissance dans l’exercice de celle-ci, seront, sur plainte, punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^321-2]
+<sup>1.</sup> Les ecclésiastiques, avocats, défenseurs en justice, notaires, conseils en brevet, contrôleurs astreints au secret professionnel en vertu du code des obligations[^321-1], médecins, dentistes, chiropraticiens, pharmaciens, sages-femmes, psychologues, infirmiers, physiothérapeutes, ergothérapeutes, diététiciens, optométristes, ostéopathes, ainsi que leurs auxiliaires, qui révèlent un secret à eux confié en vertu de leur profession ou dont ils ont eu connaissance dans l’exercice de celle-ci, sont, sur plainte, punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^321-2]
 
-Seront punis de la même peine les étudiants qui auront révélé un secret dont ils avaient eu connaissance à l’occasion de leurs études.
+Sont punis de la même peine les étudiants qui révèlent un secret dont ils ont eu connaissance à l’occasion de leurs études.[^321-3]
 
 La révélation demeure punissable alors même que le détenteur du secret n’exerce plus sa profession ou qu’il a achevé ses études.
 
-<sup>2.</sup> La révélation ne sera pas punissable si elle a été faite avec le consentement de l’intéressé ou si, sur la proposition du détenteur du secret, l’autorité supérieure ou l’autorité de surveillance l’a autorisée par écrit.
+<sup>2.</sup> La révélation n’est pas punissable si elle est faite avec le consentement de l’intéressé ou si, sur la proposition du détenteur du secret, l’autorité supérieure ou l’autorité de surveillance l’autorise par écrit.[^321-4]
 
-<sup>3.</sup> Demeurent réservées les dispositions de la législation fédérale et cantonale statuant un droit d’aviser une autorité et de collaborer, une obligation de renseigner une autorité ou une obligation de témoigner en justice.[^321-3]
+<sup>3.</sup> Demeurent réservées les dispositions de la législation fédérale et cantonale statuant un droit d’aviser une autorité et de collaborer, une obligation de renseigner une autorité ou une obligation de témoigner en justice.[^321-5]
 
 [^321-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^321-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^321-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 déc. 2017 (Protection de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^321-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^321-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^321-4]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^321-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 déc. 2017 (Protection de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
 ### Secret professionnel en matière de recherche sur l’être humain
 
@@ -5315,12 +5674,13 @@ La révélation demeure punissable alors même que le détenteur du secret n’e
 
 [^321bis-1]
 
-<sup>1</sup> Celui qui, sans droit, aura révélé un secret professionnel dont il a eu connaissance dans le cadre de son activité pour la recherche sur l’être humain au sens de la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^321bis-2] sera puni en vertu de l’art. 321.
+<sup>1</sup> Quiconque, sans droit, révèle un secret professionnel dont il a eu connaissance dans le cadre de son activité pour la recherche sur l’être humain au sens de la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^321bis-2] est puni en vertu de l’art. 321.[^321bis-3]
 
 <sup>2</sup> Un secret professionnel peut être levé à des fins de recherche sur les maladies humaines et sur la structure et le fonctionnement du corps humain si les conditions posées à l’art. 34 de la loi du 30 septembre 2011 relative à la recherche sur l’être humain sont remplies et que la commission d’éthique compétente a autorisé la levée du secret.
 
 [^321bis-1]: Introduit par l’annexe ch. 4 de la LF du 19 juin 1992 sur le protection des données ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 [^321bis-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^321bis-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation du secret des postes et des télécommunications
 
@@ -5328,17 +5688,20 @@ La révélation demeure punissable alors même que le détenteur du secret n’e
 
 [^321ter-1]
 
-<sup>1</sup> Celui qui, en sa qualité de fonctionnaire, d’employé ou d’auxiliaire d’une organisation fournissant des services postaux ou de télécommunication, aura transmis à un tiers des renseignements sur les relations postales, le trafic des paiements ou les télécommunications de la clientèle, ouvert un envoi fermé ou cherché à prendre connaissance de son contenu ou encore fourni à un tiers l’occasion de se livrer à un tel acte sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque, en sa qualité de fonctionnaire, d’employé ou d’auxiliaire d’une organisation fournissant des services postaux ou de télécommunication, transmet à un tiers des renseignements sur les relations postales, le trafic des paiements ou les télécommunications de la clientèle, ouvre un envoi fermé ou cherche à prendre connaissance de son contenu ou encore fournit à un tiers l’occasion de se livrer à un tel acte est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^321ter-2]
 
-<sup>2</sup> De même, celui qui aura déterminé par la tromperie une personne astreinte au secret en vertu de l’al. 1 à violer ce secret sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>2</sup> De même, quiconque détermine par la tromperie une personne astreinte au secret en vertu de l’al. 1 à violer ce secret est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^321ter-3]
 
 <sup>3</sup> La violation du secret postal ou du secret des télécommunications demeure punissable après que l’emploi ou la charge ont pris fin.
 
-<sup>4</sup> La violation du secret postal ou du secret des télécommunications n’est pas punissable en tant qu’elle est requise pour déterminer l’ayant droit ou pour prévenir la survenance de dommages.
+<sup>4</sup> La violation du secret postal ou du secret des télécommunications n’est pas punissable en tant qu’elle est requise pour déterminer l’ayant droit.[^321ter-4]
 
 <sup>5</sup> L’art. 179<sup>octies</sup> ainsi que les dispositions des législations fédérale et cantonales statuant une obligation de renseigner une autorité ou de témoigner en justice sont réservés.
 
 [^321ter-1]: Introduit par l’annexe ch. 2 de la LF du 30 avr. 1997 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187); [FF 1996 III 1361](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)).
+[^321ter-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^321ter-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^321ter-4]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation de l’obligation des médias de renseigner
 
@@ -5348,13 +5711,15 @@ La révélation demeure punissable alors même que le détenteur du secret n’e
 
 <sup>1</sup> Les entreprises de médias sont tenues d’indiquer immédiatement et par écrit à toute personne qui le demande l’adresse du siège de l’entreprise et l’identité du responsable de la publication (art. 28, al. 2 et 3).[^322-2]
 
-<sup>2</sup> Les journaux et les périodiques doivent en outre mentionner dans chaque édition l’adresse du siège de l’entreprise de médias, les participations importantes dans d’autres entreprises ainsi que le nom du rédacteur responsable. Lorsqu’un rédacteur n’est responsable que d’une partie du journal ou du périodique, il sera désigné comme rédacteur responsable de cette partie. Un rédacteur responsable sera désigné pour chaque partie du journal ou du périodique.
+<sup>2</sup> Les journaux et les périodiques doivent en outre mentionner dans chaque édition l’adresse du siège de l’entreprise de médias, les participations importantes dans d’autres entreprises ainsi que le nom du rédacteur responsable. Lorsqu’un rédacteur n’est responsable que d’une partie du journal ou du périodique, il est désigné comme rédacteur responsable de cette partie. Un rédacteur responsable est désigné pour chaque partie du journal ou du périodique.[^322-3]
 
-<sup>3</sup> En cas de violation du présent article, le chef de l’entreprise sera puni de l’amende. La désignation d’une personne interposée comme responsable de la publication (art. 28, al. 2 et 3) est également punissable.[^322-3]
+<sup>3</sup> En cas de violation du présent article, le chef de l’entreprise est puni d’une amende.[^322-4] La désignation d’une personne interposée comme responsable de la publication (art. 28, al. 2 et 3) est également punissable.[^322-5]
 
 [^322-1]: Nouvelle teneur selon le ch. I de la LF du 10 oct. 1997, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^322-2]: Nouvelle teneur du membre de phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^322-3]: Nouvelle teneur de la phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^322-3]: Nouvelle teneur des 2<sup>e</sup> et 3<sup>e</sup> phrases selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^322-4]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^322-5]: Nouvelle teneur de la phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 ### Défaut d’opposition à une publication constituant une infraction
 
@@ -5362,12 +5727,13 @@ La révélation demeure punissable alors même que le détenteur du secret n’e
 
 [^322bis-1]
 
-La personne responsable au sens de l’art. 28, al. 2 et 3, d’une publication constituant une infraction[^322bis-2] sera punie d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire[^322bis-3] si, intentionnellement, elle ne s’est pas opposée à la publication. Si elle a agi par négligence, la peine sera l’amende.[^322bis-4]
+<sup>1</sup> La personne responsable au sens de l’art. 28, al. 2 et 3, d’une publication constituant une infraction est punie d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire si, intentionnellement, elle ne s’oppose pas à la publication. Si elle agit par négligence, elle est punie d’une amende.
 
-[^322bis-1]: Introduit par le ch. I de la LF du 10 oct. 1997, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
-[^322bis-2]: Nouvelle teneur du membre de phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^322bis-3]: Nouvelle du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^322bis-4]: Nouvelle teneur de la phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+<sup>2</sup> La personne responsable encourt la peine applicable à l’auteur de la publication au sens de l’art. 28, al. 1, si cette peine est moins sévère.
+
+<sup>3</sup> Si l’infraction commise par l’auteur de la publication est poursuivie sur plainte, l’infraction au sens de l’al. 1 n’est poursuivie que si cette plainte est déposée.
+
+[^322bis-1]: Introduit par le ch. I de la LF du 10 oct. 1997 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Titre 19 Corruption
 
@@ -5375,23 +5741,31 @@ La personne responsable au sens de l’art. 28, al. 2 et 3, d’une publication 
 
 [^book2-tit19-1]: Introduit par le ch. I 1 de la LF du 22 déc. 1999 (Révision du droit pénal de la corruption), en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 5045](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
 
-### 1. Corruption d’agents publics suisses
+### 1. Corruption d’agents publics suisses.
 
 ### Corruption active
 
 #### Art. 322<sup>ter</sup>
 
-Celui qui aura offert, promis ou octroyé un avantage indu à un membre d’une autorité judiciaire ou autre, à un fonctionnaire, à un expert, un traducteur ou un interprète commis par une autorité, à un arbitre ou à un militaire, en faveur de l’un d’eux ou d’un tiers, pour l’exécution ou l’omission d’un acte en relation avec son activité officielle et qui soit contraire à ses devoirs ou dépende de son pouvoir d’appréciation,
+[^322ter-1]
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+Quiconque offre, promet ou octroie un avantage indu à un membre d’une autorité judiciaire ou autre, à un fonctionnaire, à un expert, un traducteur ou un interprète commis par une autorité, à un arbitre ou à un militaire, en faveur de l’un d’eux ou d’un tiers, pour l’exécution ou l’omission d’un acte en relation avec son activité officielle et qui est contraire à ses devoirs ou dépend de son pouvoir d’appréciation,
+
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^322ter-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Corruption passive
 
 #### Art. 322<sup>quater</sup>
 
-Celui qui, en tant que membre d’une autorité judiciaire ou autre, en tant que fonctionnaire, en tant qu’expert, traducteur ou interprète commis par une autorité, ou en tant qu’arbitre, aura sollicité, se sera fait promettre ou aura accepté un avantage indu, en sa faveur ou en celle d’un tiers, pour l’exécution ou l’omission d’un acte en relation avec son activité officielle et qui soit contraire à ses devoirs ou dépende de son pouvoir d’appréciation
+[^322quater-1]
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+Quiconque, en tant que membre d’une autorité judiciaire ou autre, en tant que fonctionnaire, en tant qu’expert, traducteur ou interprète commis par une autorité, ou en tant qu’arbitre, sollicite, se fait promettre ou accepte un avantage indu, en sa faveur ou en celle d’un tiers, pour l’exécution ou l’omission d’un acte en relation avec son activité officielle et qui est contraire à ses devoirs ou dépend de son pouvoir d’appréciation,
+
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^322quater-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Octroi d’un avantage
 
@@ -5415,19 +5789,17 @@ Quiconque, en tant que membre d’une autorité judiciaire ou autre, en tant que
 
 ### 2. Corruption d’agents publics étrangers
 
-[^book2-tit19-lvl2-1]
-
-[^book2-tit19-lvl2-1]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 7 oct. 2005 (Mise en oeuvre de la Conv. pénale du Conseil de l’Europe sur la corruption et de son Prot. add.), en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2371](https://fedlex.data.admin.ch/eli/oc/2006/366); [FF 2004 6549](https://fedlex.data.admin.ch/eli/fga/2004/1217)).
-
 #### Art. 322<sup>septies</sup>
 
-Celui qui aura offert, promis ou octroyé un avantage indu à une personne agissant pour un État étranger ou une organisation internationale en tant que membre d’une autorité judiciaire ou autre, en tant que fonctionnaire, en tant qu’expert, traducteur ou interprète commis par une autorité, ou en tant qu’arbitre ou militaire, en faveur de cette personne ou d’un tiers, pour l’exécution ou l’omission d’un acte en relation avec son activité officielle et qui soit contraire à ses devoirs ou dépende de son pouvoir d’appréciation,
+[^322septies-1]
 
-celui qui, agissant pour un État étranger ou une organisation internationale en tant que membre d’une autorité judiciaire ou autre, en tant que fonctionnaire, en tant qu’expert, traducteur ou interprète commis par une autorité, en tant qu’arbitre ou militaire, aura sollicité, se sera fait promettre ou aura accepté, en sa faveur ou en faveur d’un tiers, un avantage indu pour l’exécution ou l’omission d’un acte en relation avec son activité officielle et qui soit contraire à ses devoirs ou dépende de son pouvoir d’appréciation,[^322septies-1]
+Quiconque offre, promet ou octroie un avantage indu à une personne agissant pour un État étranger ou une organisation internationale en tant que membre d’une autorité judiciaire ou autre, en tant que fonctionnaire, en tant qu’expert, traducteur ou interprète commis par une autorité, ou en tant qu’arbitre ou militaire, en faveur de cette personne ou d’un tiers, pour l’exécution ou l’omission d’un acte en relation avec son activité officielle et qui est contraire à ses devoirs ou dépend de son pouvoir d’appréciation,
 
-sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire*.*
+quiconque, agissant pour un État étranger ou une organisation internationale en tant que membre d’une autorité judiciaire ou autre, en tant que fonctionnaire, en tant qu’expert, traducteur ou interprète commis par une autorité, en tant qu’arbitre ou militaire, sollicite, se fait promettre ou accepte, en sa faveur ou en faveur d’un tiers, un avantage indu pour l’exécution ou l’omission d’un acte en relation avec son activité officielle et qui est contraire à ses devoirs ou dépend de son pouvoir d’appréciation,
 
-[^322septies-1]: Par. 2 introduit par l’art. 2 ch. 2 de l’AF du 7 oct. 2005 (Mise en oeuvre de la Conv. pénale du Conseil de l’Europe sur la corruption et de son Prot. add.), en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2371](https://fedlex.data.admin.ch/eli/oc/2006/366); [FF 2004 6549](https://fedlex.data.admin.ch/eli/fga/2004/1217)).
+est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+
+[^322septies-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 3. Corruption privée
 
@@ -5484,55 +5856,55 @@ Ne constituent pas des avantages indus:
 
 [^323-1]
 
-Seront punis de l’amende:[^323-2]
+Sont punis d’une amende:
 
-<sup>1.</sup> Le débiteur qui, avisé conformément à la loi, n’aura pas assisté en personne à une saisie ou à une prise d’inventaire et ne s’y sera pas fait représenter (art. 91, al. 1, ch. 1, 163, al. 2, 345, al. 1,[^323-3] LP[^323-4]);
+<sup>1.</sup> le débiteur qui, avisé conformément à la loi, n’assiste pas en personne à une saisie ou à une prise d’inventaire et ne s’y fait pas représenter (art. 91, al. 1, ch. 1, 163, al. 2, et 341, al. 1, LP[^323-2]);
 
-<sup>2.</sup> Le débiteur qui, lors d’une saisie ou de l’exécution d’un séquestre, n’aura pas indiqué jusqu’à due concurrence tous les biens qui lui appartiennent, même ceux qui ne sont pas en sa possession, ainsi que ses créances et autres droits contre des tiers (art. 91, al. 1, ch. 2 et art. 275 LP);
+<sup>2.</sup> le débiteur qui, lors d’une saisie ou de l’exécution d’un séquestre, n’indique pas jusqu’à due concurrence tous les biens qui lui appartiennent, même ceux qui ne sont pas en sa possession, ainsi que ses créances et autres droits contre des tiers (art. 91, al. 1, ch. 2, et 275 LP);
 
-<sup>3.</sup> Le débiteur qui, lors d’une prise d’inventaire, n’aura pas indiqué de façon complète tous les biens qui lui appartiennent, même ceux qui ne sont pas en sa possession, ainsi que ses créances et autres droits contre des tiers (art. 163, al. 2, 345, al. 1,[^323-5] LP);
+<sup>3.</sup> le débiteur qui, lors d’une prise d’inventaire, n’indique pas de façon complète tous les biens qui lui appartiennent, même ceux qui ne sont pas en sa possession, ainsi que ses créances et autres droits contre des tiers (art. 163, al. 2, et 341, al. 1, LP);
 
-<sup>4.</sup> Le failli qui n’aura pas indiqué tous ses biens à l’office des faillites, ou ne les aura pas mis à sa disposition (art. 222, al. 1, LP);
+<sup>4.</sup> le failli qui n’indique pas tous ses biens à l’office des faillites, ou ne les met pas à sa disposition (art. 222, al. 1, LP);
 
-<sup>5.</sup> Le failli qui, pendant la durée de la liquidation, ne sera pas resté à la disposition de l’administration de la faillite, à moins qu’il n’en ait été expressément dispensé (art. 229, al. 1, LP).
+<sup>5.</sup> le failli qui, pendant la durée de la liquidation, ne reste pas à la disposition de l’administration de la faillite, à moins qu’il n’en ait été expressément dispensé (art. 229, al. 1, LP).
 
-[^323-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^323-2]: Nouvelle teneur selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^323-3]: Actuellement: art. 341 al. 1.
-[^323-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^323-5]: Actuellement: art. 341 al. 1.
+[^323-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^323-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### Inobservation par un tiers des règles de la procédure de poursuite pour dettes ou de faillite ou de la procédure concordataire
+### Inobservation par un tiers des règles de la procédure de poursuite pour dettes ou de la faillite ou de la procédure concordataire
 
 #### Art. 324
 
 [^324-1]
 
-Seront punis de l’amende:
+Sont punis d’une amende:
 
-<sup>1.</sup> Toute personne adulte qui n’aura pas indiqué à l’office des faillites tous les biens d’un failli décédé ou en fuite avec lequel elle faisait ménage commun, ou ne les aura pas mis à la disposition de l’office (art. 222, al. 2, LP[^324-2]);
+<sup>1.</sup> toute personne adulte qui n’indique pas à l’office des faillites tous les biens d’un failli décédé ou en fuite avec lequel elle faisait ménage commun, ou ne les met pas à la disposition de l’office (art. 222, al. 2, LP[^324-2]);
 
-<sup>2.</sup> Le débiteur d’un failli qui ne se sera pas annoncé dans le délai légal (art. 232, al. 2, ch. 3, LP);
+<sup>2.</sup> le débiteur d’un failli qui ne s’annonce pas dans le délai légal (art. 232, al. 2, ch. 3, LP);
 
-<sup>3.</sup> Celui qui, soit en qualité de créancier gagiste, soit à tout autre titre, détient des biens appartenant à un failli et qui ne les aura pas mis à la disposition de l’office des faillites dans le délai légal (art. 232, al. 2, ch. 4, LP);
+<sup>3.</sup> quiconque, soit en qualité de créancier gagiste, soit à tout autre titre, détient des biens appartenant à un failli et qui ne les met pas à la disposition de l’office des faillites dans le délai légal (art. 232, al. 2, ch. 4, LP);
 
-<sup>4.</sup> Celui qui, en qualité de créancier gagiste, détient des biens appartenant à un failli et qui ne les aura pas remis aux liquidateurs à l’expiration du délai légal (art. 324, al. 2, LP);
+<sup>4.</sup> quiconque, en qualité de créancier gagiste, détient des biens appartenant à un failli et qui ne les remet pas aux liquidateurs à l’expiration du délai légal (art. 324, al. 2, LP);
 
-<sup>5.</sup> Le tiers qui aura contrevenu à son obligation de renseigner et de remettre les objets conformément aux art. 57*a*, al 1, 91, al. 4, 163, al. 2, 222, al. 4, et 345, al. 1, [^324-3] de la LP.
+<sup>5.</sup> le tiers qui contrevient à son obligation de renseigner et de remettre les objets conformément aux art. 57*a*, al. 1, 91, al. 4, 163, al. 2, 222, al. 4, et 341, al. 1, LP.
 
-[^324-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^324-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^324-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^324-3]: Actuellement: art. 341 al. 1.
 
 ### Inobservation des prescriptions légales sur la comptabilité
 
 #### Art. 325
 
-Celui qui, intentionnellement ou par négligence, aura contrevenu à l’obligation légale de tenir une comptabilité régulière,
+[^325-1]
 
-celui qui, intentionnellement ou par négligence, aura contrevenu à l’obligation légale de conserver ses livres, lettres et télégrammes d’affaires,
+Quiconque, intentionnellement ou par négligence, contrevient à l’obligation légale de tenir une comptabilité régulière,
 
-sera puni d’une amende.
+quiconque, intentionnellement ou par négligence, contrevient à l’obligation légale de conserver ses livres, lettres et télégrammes d’affaires,
+
+est puni d’une amende.
+
+[^325-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Inobservation des prescriptions légales relatives à l’établissement d’un rapport sur les paiements effectués au profit de gouvernements
 
@@ -5572,15 +5944,15 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
 [^325quater-1]
 
-Celui qui, en menaçant le locataire de désavantages tels que la résiliation du bail, l’aura empêché ou aura tenté de l’empêcher de contester le montant du loyer ou d’autres prétentions du bailleur,
+Quiconque, en menaçant le locataire de désavantages tels que la résiliation du bail, l’empêche ou tente de l’empêcher de contester le montant du loyer ou d’autres prétentions du bailleur,
 
-celui qui aura dénoncé le bail parce que le locataire sauvegarde ou se propose de sauvegarder les droits que lui confère le CO[^325quater-2],
+quiconque dénonce le bail parce que le locataire sauvegarde ou se propose de sauvegarder les droits que lui confère le code des obligations[^325quater-2],
 
-celui qui, de manière illicite, aura appliqué ou tenté d’appliquer un loyer ou aura fait valoir ou tenté de faire valoir d’autres prétentions à la suite de l’échec de la tentative de conciliation ou à la suite d’une décision judiciaire,
+quiconque, de manière illicite, applique ou tente d’appliquer un loyer ou fait valoir ou tente de faire valoir d’autres prétentions à la suite de l’échec de la tentative de conciliation ou à la suite d’une décision judiciaire,
 
-sera, sur plainte du locataire, puni d’une amende.
+est, sur plainte du locataire, puni d’une amende.
 
-[^325quater-1]: Anciennement art. 325<sup>bis</sup>. Introduit par le ch. II art. 4 de la LF du 15 déc. 1989 modifiant le CO (Bail à loyer et bail à ferme) ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)*in fine*, disp. fin. tit. VIII et VIII<sup>bis</sup>). Nouvelle teneur selon le ch. III 2 de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^325quater-1]: Anciennement art. 325<sup>bis</sup>. Introduit par le ch. II art. 4 de la LF du 15 déc. 1989 modifiant le CO (Bail à loyer et bail à ferme) ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)*in fine*, disp. fin. tit. VIII et VIII<sup>bis</sup>). Nouvelle teneur selon le ch. II 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259)voir ici art. 325<sup>ter</sup>; [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^325quater-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### Personnes morales, sociétés commerciales et entreprises individuelles
@@ -5619,16 +5991,15 @@ sera, sur plainte du locataire, puni d’une amende.
 
 [^326ter-1]
 
-Celui qui, pour désigner une succursale ou un sujet inscrit au registre du commerce, utilise une dénomination non conforme à cette inscription et de nature à induire en erreur,
+Quiconque, pour désigner une succursale ou un sujet inscrits au registre du commerce, utilise une dénomination non conforme à cette inscription et de nature à induire en erreur,
 
-celui qui, pour désigner une succursale ou un sujet non inscrits au registre du commerce, utilise une dénomination trompeuse,
+quiconque, pour désigner une succursale ou un sujet non inscrits au registre du commerce, utilise une dénomination trompeuse,
 
-celui qui crée l’illusion qu’un sujet étranger non inscrit au registre du commerce a son siège ou une succursale en Suisse,
+quiconque crée l’illusion qu’un sujet étranger non inscrit au registre du commerce a son siège ou une succursale en Suisse,
 
-est puni d’une amende[^326ter-2].
+est puni d’une amende.
 
-[^326ter-1]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443); [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^326ter-2]: Rectifié par la CdR de l’Ass. féd. (art. 58 al. 2 LParl; [RS [171.10](http://www.bk.admin.ch/ch/f/rs/c171_10.html)](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^326ter-1]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Faux renseignements émanant d’une institution de prévoyance en faveur du personnel
 
@@ -5636,9 +6007,9 @@ est puni d’une amende[^326ter-2].
 
 [^326quater-1]
 
-Celui qui, en sa qualité d’organe d’une institution de prévoyance en faveur du personnel, est tenu légalement de renseigner les bénéficiaires et les autorités de surveillance et ne le fait pas ou donne des renseignements contraires à la vérité sera puni d’une amende.
+Quiconque, en sa qualité d’organe d’une institution de prévoyance en faveur du personnel, est tenu légalement de renseigner les bénéficiaires et les autorités de surveillance et ne le fait pas ou donne des renseignements contraires à la vérité est puni d’une amende.
 
-[^326quater-1]: Introduit par le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^326quater-1]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation des obligations d’annoncer l’ayant droit économique des actions ou des parts sociales
 
@@ -5679,54 +6050,43 @@ Quiconque, intentionnellement, viole les obligations des associations prévues a
 [^327b-1]: Introduit par l’annexe 1 ch. 2 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^327b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-### Contrefaçon de valeurs postales sans dessein de faux
-
 #### Art. 328
 
-<sup>1.</sup> Celui qui, dans le dessein de les mettre en circulation comme fac-similés, aura contrefait des valeurs postales suisses ou étrangères sans marquer chaque pièce d’un signe la désignant comme fac-similé,
+[^328-1]
 
-celui qui aura importé ou aura mis en vente ou en circulation de tels fac-similés,
-
-sera puni d’une amende.
-
-2.[^328-1] Les contrefaçons seront confisquées.
-
-[^328-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^328-1]: Abrogé par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violation de secrets militaires
 
 #### Art. 329
 
-<sup>1.</sup> Celui qui, d’une manière illicite, aura pénétré dans un établissement ou dans tout autre lieu dont l’accès est interdit par l’autorité militaire, ou aura pris des relevés d’établissements militaires ou d’objets intéressant la défense nationale, ou aura reproduit ou publié de tels relevés, sera puni d’une amende.
+<sup>1.</sup> Quiconque, d’une manière illicite, pénètre dans un établissement ou dans tout autre lieu dont l’accès est interdit par l’autorité militaire, ou prend des relevés d’établissements militaires ou d’objets intéressant la défense nationale, reproduit ou publie de tels relevés est puni d’une amende.[^329-1]
 
 <sup>2.</sup> La tentative et la complicité sont punissables.
 
-### Trafic de matériel séquestré ou réquisitionné par l’armée
+[^329-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 330
 
-Celui qui, d’une manière illicite, aura vendu ou acquis, donné ou reçu en gage, consommé, fait disparaître, détruit ou mis hors d’usage des objets séquestrés ou réquisitionnés par l’administration de l’armée dans l’intérêt de la défense nationale sera puni de l’amende.[^330-1]
+[^330-1]
 
-[^330-1]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^330-1]: Abrogé par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Port indu de l’uniforme militaire
 
 #### Art. 331
 
-Celui qui aura porté d’une manière illicite l’uniforme de l’armée suisse sera puni de l’amende.[^331-1]
+[^331-1]
 
-[^331-1]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+Quiconque porte d’une manière illicite l’uniforme de l’armée suisse est puni de l’amende.
 
-### Défaut d’avis en cas de trouvaille
+[^331-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 332
 
 [^332-1]
 
-Celui qui n’aura pas donné l’avis prescrit aux art. 720, al. 2, 720*a*, et 725, al. 1, du code civil suisse[^332-2], sera puni de l’amende.
-
-[^332-1]: Nouvelle teneur selon le ch. III de la LF du 4 oct. 2002 (Animaux), en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3885](https://fedlex.data.admin.ch/eli/fga/2002/591), [5418](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^332-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^332-1]: Abrogé par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Livre 3 Entrée en vigueur et application du code pénal
 
@@ -5756,20 +6116,15 @@ Dans les autres lois fédérales:
 
 <sup>5</sup> Si une autre loi fédérale prévoit l’amende pour un crime ou un délit, l’art. 34 est applicable. Les règles sur la fixation de l’amende qui dérogent à cet article ne sont pas applicables. Est réservé l’art. 8 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif. Si l’amende est limitée à un montant inférieur à 1 080 000 francs, cette limitation est supprimée; au-delà, elle est maintenue. En pareil cas, le nombre maximum de jours-amende équivaut au montant maximum de l’amende encourue jusqu’alors divisé par 3000.
 
-<sup>6</sup>
+<sup>6</sup> …[^333-2]
 
-Jusqu’à l’adaptation des autres lois fédérales:
-
-- a. les délais de prescription de l’action pénale sont augmentés de la moitié de la durée ordinaire pour les crimes et les délits et du double de la durée ordinaire pour les contraventions;
-- b. les délais de prescription de l’action pénale pour les contraventions, qui dépassent un an sont augmentés d’une fois la durée ordinaire;
-- c. les règles sur l’interruption et la suspension de la prescription de l’action pénale sont abrogées; est réservé l’art. 11, al. 3, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif;
-- d. la prescription de l’action pénale ne court plus si, avant son échéance, un jugement de première instance a été rendu;
-- e. les délais de prescription de la peine sont maintenus pour les crimes et les délits et augmentés de moitié pour les contraventions;
-- f. les règles sur la suspension de la prescription de la peine sont maintenues et les règles sur l’interruption sont abrogées.
+<sup>6bis</sup> Si une infraction est punie soit d’une peine privative de liberté soit d’une peine pécuniaire d’un nombre minimal de jours-amende, cette limite inférieure vaut aussi pour la durée minimale en jours de la peine privative de liberté.[^333-3]
 
 <sup>7</sup> Les contraventions prévues par d’autres lois fédérales sont punissables même quand elles ont été commises par négligence, à moins qu’il ne ressorte de la disposition applicable que la contravention est réprimée seulement si elle a été commise intentionnellement.
 
 [^333-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^333-2]: Abrogé par le ch. I 5 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^333-3]: Introduit par le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Renvoi à des dispositions modifiées ou abrogées
 

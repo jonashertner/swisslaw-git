@@ -4,11 +4,11 @@ title: Cudesch penal svizzer dals 21 da december 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: rm
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230123-rm-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230123/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230701-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230123/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 21 da december 1937 (versiun dals 23 da schaner 2023)
+dals 21 da december 1937 (versiun dal 1. da fanadur 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -61,16 +61,16 @@ Nagin na dastga vegnir chastià, nun ch’el haja commess in malfatg, per il qua
 
 <sup>1</sup> Quest Cudesch penal vegn applitgà per quels che commettan in crim u in delict en Svizra.
 
-<sup>2</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti dal tuttafatg u per part a l’exteriur, metta il derschader svizzer a quint ad el il chasti expià.
+<sup>2</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti dal tuttafatg u per part a l’exteriur, metta la dretgira svizra a quint ad el il chasti expià.
 
 <sup>3</sup>
 
 Sch’in delinquent è vegnì persequità a l’exteriur sin dumonda da l’autoritad svizra, na vegn el, cun resalva d’ina greva cuntravenziun cunter ils princips da la Constituziun federala e da la Convenziun dals 4 da november 1950[^3-1] per la protecziun dals dretgs umans e da las libertads fundamentalas (CEDU), betg pli persequità en Svizra pervia da quest malfatg, sche:
 
-- a. il derschader ester l’ha acquittà definitivamain;
+- a. la dretgira estra l’ha acquittà definitivamain;
 - b. la sancziun, a la quala el è vegnì sentenzià a l’exteriur, è exequida, relaschada u surannada.
 
-<sup>4</sup> Sch’il delinquent ch’è vegnì persequità a l’exteriur sin dumonda da l’autoritad svizra n’ha betg expià il chasti a l’exteriur u mo per part, vegn il chasti u il rest da quel exequì en Svizra. Il derschader decida, sch’ina mesira che n’è betg vegnida exequida a l’exteriur u ch’è vegnida exequida mo parzialmain sto vegnir exequida u cuntinuada en Svizra
+<sup>4</sup> Sch’il delinquent ch’è vegnì persequità a l’exteriur sin dumonda da l’autoritad svizra n’ha betg expià il chasti a l’exteriur u mo per part, vegn il chasti u il rest da quel exequì en Svizra. La dretgira decida, sch’ina mesira che n’è betg vegnida exequida a l’exteriur u ch’è vegnida exequida mo parzialmain sto vegnir exequida u cuntinuada en Svizra
 
 [^3-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
@@ -80,7 +80,7 @@ Sch’in delinquent è vegnì persequità a l’exteriur sin dumonda da l’auto
 
 <sup>1</sup> Chastià tenor quest Cudesch penal vegn er, tgi che commetta a l’exteriur in crim u in delict cunter il stadi e cunter la defensiun naziunala (art. 265–278).
 
-<sup>2</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti dal tuttafatg u per part a l’exteriur, metta il derschader svizzer a quint ad el il chasti expià.
+<sup>2</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti dal tuttafatg u per part a l’exteriur, metta la dretgira svizra a quint ad el il chasti expià.
 
 ### Malfatgs cunter persunas minorennas a l’exteriur
 
@@ -103,10 +103,10 @@ A quest Cudesch penal è ultra da quai suttamess tgi che sa chatta en Svizra e n
 
 Il delinquent na vegn, cun resalva d’ina greva cuntravenziun cunter ils princips da la Constituziun federala e da la CEDU[^5-4], betg pli persequità en Svizra pervia da quest malfatg, sche:
 
-- a. in derschader ester l’ha acquittà definitivamain;
+- a. ina dretgira estra l’ha acquittà definitivamain;
 - b. la sancziun, a la quala el è vegnì sentenzià a l’exteriur, è exequida, relaschada u surannada.
 
-<sup>3</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti a l’exteriur mo per part, metta il derschader svizzer a quint ad el il chasti expià. Il derschader decida, sch’ina mesira ch’è vegnida ordinada a l’exteriur e ch’è vegnida exequida là dentant mo per part sto vegnir cuntinuada en Svizra u sch’ella sto vegnir messa a quint al chasti ch’è vegnì pronunzià en Svizra.
+<sup>3</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti a l’exteriur mo per part, metta la dretgira svizra a quint ad el il chasti expià. La dretgira decida, sch’ina mesira ch’è vegnida ordinada a l’exteriur e ch’è vegnida exequida là dentant mo per part sto vegnir cuntinuada en Svizra u sch’ella sto vegnir messa a quint al chasti ch’è vegnì pronunzià en Svizra.
 
 [^5-1]: Versiun tenor l’art. 2 cifra 1 dal COF dals 24 da mars 2006 davart l’approvaziun e la realisaziun dal protocol facultativ dals 25 da matg 2000 tar la Convenziun dals dretgs da l’uffant concernent la vendita d’uffants, la prostituziun d’uffants e la pornografia d’uffants, en vigur dapi il 1. da dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823); [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
 [^5-2]: Integrà tras la cifra 1 da l’agiunta dal COF dals 27 da sett. 2013 (Convenziun da Lanzarote), en vigur dapi il 1. da fan. 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
@@ -124,16 +124,16 @@ Tgi che commetta a l’exteriur in crim u in delict, il qual la Svizra è obliga
 - a. il malfatg è er chastiabel al lieu dal malfatg u sch’il lieu dal malfatg n’è betg suttamess ad ina giurisdicziun penala; e
 - b. il delinquent sa chatta en Svizra e na vegn betg extradì a l’exteriur.
 
-<sup>2</sup> Il derschader fixescha las sancziuns uschia, ch’ellas n’èn per il delinquent tut en tut betg pli severas che quellas tenor il dretg che vala al lieu dal malfatg.
+<sup>2</sup> La dretgira fixescha las sancziuns uschia, ch’ellas n’èn per il delinquent tut en tut betg pli severas che quellas tenor il dretg che vala al lieu dal malfatg.
 
 <sup>3</sup>
 
 Il delinquent na vegn, cun resalva d’ina greva cuntravenziun cunter ils princips da la Constituziun federala e da la CEDU[^6-1], betg pli persequità en Svizra pervia da quest malfatg, sche:
 
-- a. in derschader ester l’ha acquittà definitivamain;
+- a. ina dretgira estra l’ha acquittà definitivamain;
 - b. la sancziun, a la quala el è vegnì sentenzià a l’exteriur, è exequida, relaschada u surannada.
 
-<sup>4</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti a l’exteriur mo per part, metta il derschader svizzer a quint ad el il chasti expià. Il derschader decida, sch’ina mesira ch’è vegnida ordinada a l’exteriur e ch’è vegnida exequida là mo per part sto vegnir cuntinuada en Svizra u sch’ella sto vegnir messa a quint al chasti ch’è vegnì pronunzià en Svizra.
+<sup>4</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti a l’exteriur mo per part, metta la dretgira svizra a quint ad el il chasti expià. La dretgira decida, sch’ina mesira ch’è vegnida ordinada a l’exteriur e ch’è vegnida exequida là mo per part sto vegnir cuntinuada en Svizra u sch’ella sto vegnir messa a quint al chasti ch’è vegnì pronunzià en Svizra.
 
 [^6-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
@@ -156,16 +156,16 @@ Sch’il delinquent n’è betg Svizzer e sch’il crim u sch’il delict n’è
 - a. la dumonda d’extradiziun è vegnida refusada pervia d’in motiv che na pertutga betg il gener dal malfatg; u
 - b. il delinquent ha commess in crim spezialmain grev che vegn sancziunà da la cuminanza internaziunala da dretg.
 
-<sup>3</sup> Il derschader fixescha las sancziuns uschia, ch’ellas n’èn per il delinquent tut en tut betg pli severas che las sancziuns tenor il dretg che vala al lieu dal malfatg.
+<sup>3</sup> La dretgira fixescha las sancziuns uschia, ch’ellas n’èn per il delinquent tut en tut betg pli severas che las sancziuns tenor il dretg che vala al lieu dal malfatg.
 
 <sup>4</sup>
 
 Il delinquent na vegn, cun resalva d’ina greva cuntravenziun cunter ils princips da la Constituziun federala e da la CEDU[^7-1], betg pli persequità en Svizra pervia da quest malfatg, sche:
 
-- a. in derschader ester l’ha acquittà definitivamain;
+- a. ina dretgira estra l’ha acquittà definitivamain;
 - b. la sancziun, a la quala el è vegnì sentenzià a l’exteriur, è exequida, relaschada u surannada.
 
-<sup>5</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti a l’exteriur mo per part, metta il derschader svizzer a quint ad el il chasti expià. Il derschader decida, sch’ina mesira ch’è vegnida ordinada a l’exteriur e ch’è vegnida exequida là dentant mo per part sto vegnir cuntinuada en Svizra u sch’ella sto vegnir messa a quint al chasti ch’è vegnì pronunzià en Svizra.
+<sup>5</sup> Sch’il delinquent è vegnì sentenzià pervia dal malfatg a l’exteriur e sch’el ha expià il chasti a l’exteriur mo per part, metta la dretgira svizra a quint ad el il chasti expià. La dretgira decida, sch’ina mesira ch’è vegnida ordinada a l’exteriur e ch’è vegnida exequida là dentant mo per part sto vegnir cuntinuada en Svizra u sch’ella sto vegnir messa a quint al chasti ch’è vegnì pronunzià en Svizra.
 
 [^7-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
@@ -200,7 +200,7 @@ Il delinquent na vegn, cun resalva d’ina greva cuntravenziun cunter ils princi
 
 <sup>2</sup> Crims èn malfatgs ch’èn chastiabels cun in chasti da detenziun da passa 3 onns.
 
-<sup>3</sup> Delicts èn malfatgs ch’èn chastiabels cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>3</sup> Delicts èn malfatgs ch’èn chastiabels cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Commetter cun tralaschar
 
@@ -219,7 +219,7 @@ In cumportament passiv cuntrari a l’obligaziun d’agir ha quel, che n’imped
 
 <sup>3</sup> Tgi che demussa in cumportament passiv cuntrari a l’obligaziun d’agir è – sin basa dal causal correspundent – mo chastiabel, sch’i po – tenor las circumstanzas dal malfatg – vegnir renfatschà ad el la medema reproscha, sco sch’el avess commess activamain il malfatg.
 
-<sup>4</sup> Il derschader po diminuir il chasti.
+<sup>4</sup> La dretgira po diminuir il chasti.
 
 ### 2. Intenziun e negligientscha.
 
@@ -237,7 +237,7 @@ In cumportament passiv cuntrari a l’obligaziun d’agir ha quel, che n’imped
 
 #### Art. 13
 
-<sup>1</sup> Sch’il delinquent ha agì sut l’influenza d’ina errur concernent ils fatgs, giuditgescha il derschader il malfatg a favur dal delinquent tenor ils fatgs ch’el ha supponì.
+<sup>1</sup> Sch’il delinquent ha agì sut l’influenza d’ina errur concernent ils fatgs, giuditgescha la dretgira il malfatg a favur dal delinquent tenor ils fatgs ch’el ha supponì.
 
 <sup>2</sup> Sch’il delinquent avess pudì evitar l’errur cun observar la precauziun duaivla, è el chastiabel per la negligientscha, sche la lescha prevesa per il malfatg in chasti per negligientscha.
 
@@ -259,7 +259,7 @@ Sch’insatgi vegn attatgà senza dretg u smanatschà directamain cun in’attat
 
 #### Art. 16
 
-<sup>1</sup> Sch’il defensur surpassa ils limits da la defensiun legitima tenor l’artitgel 15, diminuescha il derschader il chasti.
+<sup>1</sup> Sch’il defensur surpassa ils limits da la defensiun legitima tenor l’artitgel 15, diminuescha la dretgira il chasti.
 
 <sup>2</sup> Sch’il defensur surpassa ils limits da la defensiun legitima, essend en in’agitaziun u en ina consternaziun perstgisabla pervia da l’attatga, n’agescha el betg en moda culpaivla.
 
@@ -283,7 +283,7 @@ Tgi che commetta in malfatg chastiabel per salvar in agen bain giuridic u in bai
 
 <sup>1</sup> Il delinquent n’è betg chastiabel, sch’el n’è – il mument ch’el ha commess il malfatg – betg stà capabel da realisar l’ingiustia da ses malfatg u d’agir tenor questa enconuschientscha.
 
-<sup>2</sup> Sch’il delinquent è sta – il mument ch’el ha commess ses malfatg – mo per part capabel da realisar l’ingiustia da ses malfatg u d’agir tenor questa enconuschientscha, diminuescha il derschader il chasti.
+<sup>2</sup> Sch’il delinquent è sta – il mument ch’el ha commess ses malfatg – mo per part capabel da realisar l’ingiustia da ses malfatg u d’agir tenor questa enconuschientscha, diminuescha la dretgira il chasti.
 
 <sup>3</sup> I pon dentant vegnir prendidas mesiras tenor ils artitgels 59–61, 63, 64, 67, 67*b* e 67*e*.[^19-1]
 
@@ -295,13 +295,13 @@ Tgi che commetta in malfatg chastiabel per salvar in agen bain giuridic u in bai
 
 #### Art. 20
 
-L’autoritad d’inquisiziun u il derschader ordinescha in’expertisa dal delinquent, sch’i dat dubis serius davart la responsabladad penala dal delinquent.
+L’autoritad d’inquisiziun u la dretgira ordinescha in’expertisa dal delinquent, sch’i dat dubis serius davart la responsabladad penala dal delinquent.
 
 ### Errur davart l’illegalitad
 
 #### Art. 21
 
-Tgi che – cun commetter il malfatg – na sa betg u n’ha betg pudì savair ch’el sa cumporta illegalmain, n’agescha betg en moda culpaivla. Sche l’errur è stada evitabla, diminuescha il derschader il chasti.
+Tgi che – cun commetter il malfatg – na sa betg u n’ha betg pudì savair ch’el sa cumporta illegalmain, n’agescha betg en moda culpaivla. Sche l’errur è stada evitabla, diminuescha la dretgira il chasti.
 
 ### 4. Tentativa.
 
@@ -309,7 +309,7 @@ Tgi che – cun commetter il malfatg – na sa betg u n’ha betg pudì savair c
 
 #### Art. 22
 
-<sup>1</sup> Sch’il delinquent, suenter avair cumenzà a commetter in crim u in delict, na maina betg a fin il malfatg u sch’i na resulta betg il success che tutga tar l’adempliment dal malfatg u sche quel na po betg resultar, po il derschader diminuir il chasti.
+<sup>1</sup> Sch’il delinquent, suenter avair cumenzà a commetter in crim u in delict, na maina betg a fin il malfatg u sch’i na resulta betg il success che tutga tar l’adempliment dal malfatg u sche quel na po betg resultar, po la dretgira diminuir il chasti.
 
 <sup>2</sup> Sch’il delinquent è uschè malraschunaivel ch’el sconuscha, ch’il malfatg na po insumma betg vegnir ademplì pervia dal gener da l’object, vi dal qual el al vul commetter, u pervia dal med, cun il qual el al vul commetter, na vegn el betg chastià.
 
@@ -317,13 +317,13 @@ Tgi che – cun commetter il malfatg – na sa betg u n’ha betg pudì savair c
 
 #### Art. 23
 
-<sup>1</sup> Sch’il delinquent na maina betg a fin il malfatg or d’atgna iniziativa u sch’el gida ad impedir ch’il malfatg vegnia ademplì, po il derschader diminuir il chasti u desister d’in chasti.
+<sup>1</sup> Sch’il delinquent na maina betg a fin il malfatg or d’atgna iniziativa u sch’el gida ad impedir ch’il malfatg vegnia ademplì, po la dretgira diminuir il chasti u desister d’in chasti.
 
-<sup>2</sup> Sche plirs delinquents u participants èn participads ad in malfatg, po il derschader diminuir il chasti da quel u desister d’in chasti cunter quel che gida or d’atgna iniziativa d’impedir ch’il malfatg vegnia ademplì.
+<sup>2</sup> Sche plirs delinquents u participants èn participads ad in malfatg, po la dretgira diminuir il chasti da quel u desister d’in chasti cunter quel che gida or d’atgna iniziativa d’impedir ch’il malfatg vegnia ademplì.
 
-<sup>3</sup> Il derschader po er diminuir il chasti u desister d’in chasti, sche la renunzia dal delinquent u dal participà avess impedì ch’il malfatg vegnia ademplì, sche auters motivs na l’avessan betg impedì.
+<sup>3</sup> La dretgira po er diminuir il chasti u desister d’in chasti, sche la renunzia dal delinquent u dal participà avess impedì ch’il malfatg vegnia ademplì, sche auters motivs na l’avessan betg impedì.
 
-<sup>4</sup> Sch’in da plirs delinquents u participads sa stenta seriusamain or d’atgna iniziativa d’impedir ch’il malfatg vegnia ademplì, po il derschader diminuir ses chasti u desister d’al chastiar, sch’il malfatg è vegnì commess independentamain da sia contribuziun.
+<sup>4</sup> Sch’in da plirs delinquents u participads sa stenta seriusamain or d’atgna iniziativa d’impedir ch’il malfatg vegnia ademplì, po la dretgira diminuir ses chasti u desister d’al chastiar, sch’il malfatg è vegnì commess independentamain da sia contribuziun.
 
 ### 5. Participaziun.
 
@@ -373,13 +373,14 @@ Relaziuns, qualitads e circumstanzas persunalas spezialas che augmentan, reduces
 
 <sup>2</sup>
 
-L’alinea 1 na vala betg, sch’il derschader constatescha che:
+L’alinea 1 na vala betg, sche la dretgira[^28a-1] constatescha che:
 
 - a. la perditga è necessaria per salvar ina persuna d’in privel direct per il corp e per la vita; u
-- b.[^28a-1] in delict da mazzament en il senn dals artitgels 111–113 u in auter crim ch’è chastiabel cun in chasti da detenziun minimal da 3 onns u in malfatg tenor ils artitgels 187, 189–191, 197 alinea 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> da quest Cudesch penal u tenor l’artitgel 19 alinea 2 da la Lescha da narcotics dals 3 d’october 1951[^28a-2] na po betg vegnir sclerì u l’inculpà d’in tal malfatg na po betg vegnir arrestà senza la perditga.
+- b.[^28a-2] in delict da mazzament en il senn dals artitgels 111–113 u in auter crim ch’è chastiabel cun in chasti da detenziun minimal da 3 onns u in malfatg tenor ils artitgels 187, 189–191, 197 alinea 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> da quest Cudesch penal u tenor l’artitgel 19 alinea 2 da la Lescha da narcotics dals 3 d’october 1951[^28a-3] na po betg vegnir sclerì u l’inculpà d’in tal malfatg na po betg vegnir arrestà senza la perditga.
 
-[^28a-1]: Versiun tenor la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^28a-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^28a-1]: Expressiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
+[^28a-2]: Versiun tenor la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^28a-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 ### 7. Relaziuns da substituziun
 
@@ -454,7 +455,7 @@ Sch’ina persuna che ha il dretg da purtar plant porta plant cunter ina persuna
 
 #### Art. 34
 
-<sup>1</sup> Sche la lescha na dispona betg autramain, importa il chasti pecuniar almain 3 e maximalmain 180 taxas per di.[^34-1] Il derschader fixescha ses dumber tenor la culpa dal delinquent.
+<sup>1</sup> Sche la lescha na dispona betg autramain, importa il chasti pecuniar almain 3 e maximalmain 180 taxas per di.[^34-1] La dretgira fixescha ses dumber tenor la culpa dal delinquent.
 
 <sup>2</sup> Ina taxa per di importa per regla almain 30 e maximalmain 3000 francs.[^34-2] Excepziunalmain po la dretgira sbassar la taxa per di a fin 10 francs, sche las relaziuns persunalas ed economicas dal delinquent pretendan quai. Ella po surpassar l’autezza maximala da la taxa per di, sche la lescha prevesa quai.[^34-3] Ella fixescha l’autezza da la taxa per di tenor las relaziuns persunalas ed economicas dal delinquent il mument, cura che la sentenzia vegn pronunziada, en spezial tenor las entradas e tenor la facultad, tenor ils custs da vita, tenor eventualas obligaziuns famigliaras e da sustegn sco er tenor il minimum d’existenza.[^34-4]
 
@@ -485,7 +486,7 @@ Sch’ina persuna che ha il dretg da purtar plant porta plant cunter ina persuna
 
 <sup>1</sup> Sch’il sentenzià na paja betg il chasti pecuniar e sch’il chasti pecuniar è nunincassabel tras ina scussiun (art. 35 al. 3), vegn il chasti pecuniar remplazzà tras in chasti da detenziun. Ina taxa per di correspunda ad 1 di chasti da detenziun. Il chasti da detenziun subsidiar croda davent, uschenavant ch’il chasti pecuniar vegn pajà posteriuramain.
 
-<sup>2</sup> Sch’il chasti pecuniar è vegnì decretà d’ina autoritad administrativa, decida il derschader davart il chasti da detenziun subsidiar.
+<sup>2</sup> Sch’il chasti pecuniar è vegnì decretà d’ina autoritad administrativa, decida la dretgira davart il chasti da detenziun subsidiar.
 
 <sup>3–5</sup> …[^36-1]
 
@@ -521,12 +522,12 @@ Sch’ina persuna che ha il dretg da purtar plant porta plant cunter ina persuna
 
 <sup>1</sup>
 
-Empè d’in chasti pecuniar po il derschader pronunziar in chasti da detenziun, sche:
+Empè d’in chasti pecuniar po la dretgira pronunziar in chasti da detenziun, sche:
 
 - a. in tal para inditgà per impedir ch’il delinquent commettia ulteriurs crims u delicts; u
 - b. in chasti pecuniar na po previsiblamain betg vegnir exequì.
 
-<sup>2</sup> Il derschader sto motivar pli detagliadamain la tscherna dal chasti da detenziun.
+<sup>2</sup> La dretgira sto motivar pli detagliadamain la tscherna dal chasti da detenziun.
 
 <sup>3</sup> Resalvà resta il chasti da detenziun empè d’in chasti pecuniar betg pajà (art. 36).
 
@@ -538,7 +539,7 @@ Empè d’in chasti pecuniar po il derschader pronunziar in chasti da detenziun,
 
 #### Art. 42
 
-<sup>1</sup> Il derschader suspenda per regla l’execuziun d’in chasti pecuniar u d’in chasti da detenziun da maximalmain 2 onns, sch’in chasti nuncundiziunà na para betg dad esser necessari per impedir ch’il delinquent commettia ulteriurs crims u delicts.[^42-1]
+<sup>1</sup> La dretgira suspenda per regla l’execuziun d’in chasti pecuniar u d’in chasti da detenziun da maximalmain 2 onns, sch’in chasti nuncundiziunà na para betg dad esser necessari per impedir ch’il delinquent commettia ulteriurs crims u delicts.[^42-1]
 
 <sup>2</sup> Sch’il delinquent è vegnì sentenzià entaifer ils ultims 5 onns avant il malfatg ad in chasti da detenziun cundiziunà u nuncundiziunà da passa 6 mais, è la suspensiun mo admissibla, sch’i èn avant maun motivs spezialmain favuraivels.[^42-2]
 
@@ -558,7 +559,7 @@ Empè d’in chasti pecuniar po il derschader pronunziar in chasti da detenziun,
 
 #### Art. 43
 
-<sup>1</sup> Il derschader po suspender per part l’execuziun d’in chasti da detenziun d’almain 1 onn e da maximalmain 3 onns, sche quai è necessari per resguardar suffizientamain la culpa dal delinquent.[^43-1]
+<sup>1</sup> La dretgira po suspender per part l’execuziun d’in chasti da detenziun d’almain 1 onn e da maximalmain 3 onns, sche quai è necessari per resguardar suffizientamain la culpa dal delinquent.[^43-1]
 
 <sup>2</sup> La part dal chasti che sto vegnir expiada nuncundiziunadamain na dastga betg surpassar la mesadad dal chasti.
 
@@ -573,11 +574,11 @@ Empè d’in chasti pecuniar po il derschader pronunziar in chasti da detenziun,
 
 #### Art. 44
 
-<sup>1</sup> Sch’il derschader suspenda l’execuziun d’in chasti dal tuttafatg u per part, fixescha el per il sentenzià in temp d’emprova da 2 fin 5 onns.
+<sup>1</sup> Sche la dretgira suspenda l’execuziun d’in chasti dal tuttafatg u per part, fixescha el per il sentenzià in temp d’emprova da 2 fin 5 onns.
 
-<sup>2</sup> Per la durada dal temp d’emprova po il derschader ordinar l’assistenza da reabilitaziun e dar directivas.
+<sup>2</sup> Per la durada dal temp d’emprova po la dretgira ordinar l’assistenza da reabilitaziun e dar directivas.
 
-<sup>3</sup> Il derschader declera al sentenzià l’impurtanza e las consequenzas dal chasti cundiziunà e dal chasti parzialmain cundiziunà.
+<sup>3</sup> La dretgira declera al sentenzià l’impurtanza e las consequenzas dal chasti cundiziunà e dal chasti parzialmain cundiziunà.
 
 <sup>4</sup> Il temp d’emprova cumenza cun l’avertura da la sentenzia executabla.[^44-1]
 
@@ -593,11 +594,11 @@ Sch’il sentenzià ha superà cun success il temp d’emprova, na vegn il chast
 
 #### Art. 46
 
-<sup>1</sup> Sch’il sentenzià commetta in crim u in delict durant il temp d’emprova e sch’i sto pervia da quai vegnir fatg quint ch’el vegnia a commetter ulteriurs malfatgs, revochescha il derschader il chasti cundiziunà u la part cundiziunada dal chasti. Sch’il chasti revocà ed il nov chasti èn dal medem gener, pronunzia il derschader in chasti total applitgond l’artitgel 49 tenor il senn.[^46-1]
+<sup>1</sup> Sch’il sentenzià commetta in crim u in delict durant il temp d’emprova e sch’i sto pervia da quai vegnir fatg quint ch’el vegnia a commetter ulteriurs malfatgs, revochescha la dretgira il chasti cundiziunà u la part cundiziunada dal chasti. Sch’il chasti revocà ed il nov chasti èn dal medem gener, pronunzia la dretgira in chasti total applitgond l’artitgel 49 tenor il senn.[^46-1]
 
-<sup>2</sup> Sch’i n’è betg da far quint ch’il sentenzià vegnia a commetter ulteriurs malfatgs, renunzia il derschader ad ina revocaziun. El po admonir il sentenzià u prolungar il temp d’emprova per maximalmain la mesadad da la durada ch’è fixada en la sentenzia. Per la durada dal temp d’emprova prolungà po il derschader ordinar l’assistenza da reabilitaziun e dar directivas. Sche la prolungaziun vegn pronunziada pir suenter ch’il temp d’emprova è scadì, cumenza ella il di da la pronunziaziun.
+<sup>2</sup> Sch’i n’è betg da far quint ch’il sentenzià vegnia a commetter ulteriurs malfatgs, renunzia la dretgira ad ina revocaziun. Ella po admonir il sentenzià u prolungar il temp d’emprova per maximalmain la mesadad da la durada ch’è fixada en la sentenzia. Per la durada dal temp d’emprova prolungà po la dretgira ordinar l’assistenza da reabilitaziun e dar directivas. Sche la prolungaziun vegn pronunziada pir suenter ch’il temp d’emprova è scadì, cumenza ella il di da la pronunziaziun.
 
-<sup>3</sup> Il derschader ch’è responsabel per giuditgar il nov crim u il nov delict decida er davart la revocaziun.
+<sup>3</sup> La dretgira ch’è responsabla per giuditgar il nov crim u il nov delict decida er davart la revocaziun.
 
 <sup>4</sup> Sch’il sentenzià refusa l’assistenza da reabilitaziun u sch’el cuntrafa a las directivas, è applitgabel l’artitgel 95 alineas 3–5.
 
@@ -611,7 +612,7 @@ Sch’il sentenzià ha superà cun success il temp d’emprova, na vegn il chast
 
 #### Art. 47
 
-<sup>1</sup> Il derschader fixescha il chasti tenor la culpa dal delinquent. El resguarda la vita anteriura e las relaziuns persunalas dal delinquent sco er las consequenzas ch’il chasti ha per la vita dal delinquent.
+<sup>1</sup> La dretgira fixescha il chasti tenor la culpa dal delinquent. Ella resguarda la vita anteriura e las relaziuns persunalas dal delinquent sco er las consequenzas ch’il chasti ha per la vita dal delinquent.
 
 <sup>2</sup> La culpa vegn determinada tenor la grevezza da la violaziun u da la periclitaziun dal bain giuridic pertutgà, tenor il caracter sbittaivel da l’agir, tenor ils motivs e tenor las finamiras dal delinquent sco er tenor la dumonda, quant enavant ch’il delinquent è stà en cas – resguardond las circumstanzas internas ed externas – d’evitar la periclitaziun u la violaziun.
 
@@ -621,7 +622,7 @@ Sch’il sentenzià ha superà cun success il temp d’emprova, na vegn il chast
 
 #### Art. 48
 
-Il derschader diminuescha il chasti, sche:
+La dretgira diminuescha il chasti, sche:
 
 - a.
 
@@ -641,17 +642,17 @@ Il derschader diminuescha il chasti, sche:
 
 #### Art. 48a
 
-<sup>1</sup> Sch’il derschader diminuescha il chasti, n’è el betg lià vi dal chasti minimal smanatschà.
+<sup>1</sup> Sche la dretgira diminuescha il chasti, n’è ella betg liada vi dal chasti minimal smanatschà.
 
-<sup>2</sup> Il derschader po pronunziar in auter gener da chasti che quel smanatschà, el è dentant lià vi dal minimum e vi dal maximum legal da mintga gener da chasti.
+<sup>2</sup> La dretgira po pronunziar in auter gener da chasti che quel smanatschà, ella è dentant liada vi dal minimum e vi dal maximum legal da mintga gener da chasti.
 
 ### 3. Concurrenza
 
 #### Art. 49
 
-<sup>1</sup> Sch’il delinquent ha ademplì tras in u tras plirs malfatgs las premissas per plirs chastis identics, al sentenziescha il derschader a quel chasti dal malfatg il pli grev e l’augmenta adequatamain. El na dastga dentant betg augmentar il maximum dal chasti smanatschà per dapli che la mesadad. En quest connex è el lià vi dal maximum legal dal gener dal chasti.
+<sup>1</sup> Sch’il delinquent ha ademplì tras in u tras plirs malfatgs las premissas per plirs chastis identics, al sentenziescha la dretgira a quel chasti dal malfatg il pli grev e l’augmenta adequatamain. El na dastga dentant betg augmentar il maximum dal chasti smanatschà per dapli che la mesadad. En quest connex è el lià vi dal maximum legal dal gener dal chasti.
 
-<sup>2</sup> Sch’il derschader ha da giuditgar in malfatg ch’il delinquent ha commess avant ch’el è vegnì sentenzià pervia d’in auter malfatg, fixescha il derschader il chasti supplementar uschia ch’il delinquent na vegn betg chastià en moda pli greva che sch’ils malfatgs fissan vegnids giuditgads il medem mument.
+<sup>2</sup> Sche la dretgira ha da giuditgar in malfatg ch’il delinquent ha commess avant ch’el è vegnì sentenzià pervia d’in auter malfatg, fixescha la dretgira il chasti supplementar uschia ch’il delinquent na vegn betg chastià en moda pli greva che sch’ils malfatgs fissan vegnids giuditgads il medem mument.
 
 <sup>3</sup> Sch’il delinquent ha commess in u plirs malfatgs avant la cumplenida dal 18avel onn da vegliadetgna, na dastgan quels – fixond il chasti total tenor ils alineas 1 e 2 – betg avair in pais pli grond, che sch’els fissan vegnids giuditgads mintgin per sasez.
 
@@ -659,13 +660,13 @@ Il derschader diminuescha il chasti, sche:
 
 #### Art. 50
 
-Sch’ina sentenzia sto vegnir motivada, menziunescha il derschader en la motivaziun er las circumstanzas ch’èn stadas relevantas per fixar il chasti e lur valitaziun.
+Sch’ina sentenzia sto vegnir motivada, menziunescha la dretgira en la motivaziun er las circumstanzas ch’èn stadas relevantas per fixar il chasti e lur valitaziun.
 
 ### 5. Imputaziun da l’arrest d’inquisiziun
 
 #### Art. 51
 
-Il derschader metta a quint al chasti l’arrest d’inquisiziun ch’il delinquent ha supportà durant questa u durant in’autra procedura. 1 di d’arrest correspunda ad ina taxa per di d’in chasti pecuniar.[^51-1]
+La dretgira metta a quint al chasti l’arrest d’inquisiziun ch’il delinquent ha supportà durant questa u durant in’autra procedura. In di d’arrest correspunda ad ina taxa per di d’in chasti pecuniar.[^51-1]
 
 [^51-1]: Versiun da la segunda frasa tenor la cifra I 1 da la LF dals 19 da zer. 2015 (midadas dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
@@ -685,7 +686,7 @@ Il derschader metta a quint al chasti l’arrest d’inquisiziun ch’il delinqu
 
 #### Art. 52
 
-L’autoritad cumpetenta desista d’ina persecuziun penala, d’in transferiment al derschader u d’in chasti, sche la culpa e sche las consequenzas dal malfatg èn minimas.
+L’autoritad cumpetenta desista d’ina persecuziun penala, d’in transferiment a la dretgira u d’in chasti, sche la culpa e sche las consequenzas dal malfatg èn minimas.
 
 ### Reparaziun
 
@@ -693,9 +694,9 @@ L’autoritad cumpetenta desista d’ina persecuziun penala, d’in transferimen
 
 [^53-1]
 
-Sch’il delinquent ha cuvrì il donn u fatg tut ils sforzs che pon raschunaivlamain vegnir pretendids dad el per gulivar l’ingiustia ch’el ha chaschunà, desista l’autoritad cumpetenta d’ina persecuziun penala, d’in transferiment al derschader u d’in chasti, sche:
+Sch’il delinquent ha cuvrì il donn u fatg tut ils sforzs che pon raschunaivlamain vegnir pretendids dad el per gulivar l’ingiustia ch’el ha chaschunà, desista l’autoritad cumpetenta d’ina persecuziun penala, d’in transferiment a la dretgira u d’in chasti, sche:
 
-- a. in chasti da detenziun cundiziunà fin ad 1 onn, in chasti pecuniar cundiziunà u ina multa vegn en consideraziun sco chasti;
+- a. in chasti da detenziun cundiziunà da fin 1 onn, in chasti pecuniar cundiziunà u ina multa vegn en consideraziun sco chasti;
 - b. l’interess da la publicitad e dal donnegià vi da la persecuziun penala è minim; e
 - c. il delinquent ha confessà ils fatgs.
 
@@ -705,13 +706,13 @@ Sch’il delinquent ha cuvrì il donn u fatg tut ils sforzs che pon raschunaivla
 
 #### Art. 54
 
-Sch’il delinquent è pertutgà uschè fitg da las consequenzas directas da ses malfatg ch’in chasti na fiss betg adequat, desista l’autoritad cumpetenta d’ina persecuziun penala, d’in transferiment al derschader u d’in chasti.
+Sch’il delinquent è pertutgà uschè fitg da las consequenzas directas da ses malfatg ch’in chasti na fiss betg adequat, desista l’autoritad cumpetenta d’ina persecuziun penala, d’in transferiment a la dretgira u d’in chasti.
 
 ### 2. Disposiziuns cuminaivlas
 
 #### Art. 55
 
-<sup>1</sup> Il derschader desista en cas dal chasti cundiziunà d’ina revocaziun ed en cas da la relaschada cundiziunada dal retransferiment, sche las premissas per ina liberaziun dal chasti èn dadas.
+<sup>1</sup> La dretgira desista en cas dal chasti cundiziunà d’ina revocaziun ed en cas da la relaschada cundiziunada dal retransferiment, sche las premissas per ina liberaziun dal chasti èn dadas.
 
 <sup>2</sup> Sco autoritads cumpetentas tenor ils artitgels 52, 53 e 54 designeschan ils chantuns organs da la giurisdicziun penala.
 
@@ -729,7 +730,7 @@ Sch’il delinquent è pertutgà uschè fitg da las consequenzas directas da ses
 
 <sup>1</sup>
 
-En cas da blessuras corporalas simplas (art. 123 cifra 2 al. 3–5), en cas da metter repetidamain maun vi d’ina persuna (art. 126 al. 2 lit. b, b<sup>bis</sup> e c), en cas da smanatscha (art. 180 al. 2) ed en cas da constricziuns (art. 181) po la Procura publica u il derschader suspender provisoricamain la procedura, sche:[^55a-2]
+En cas da blessuras corporalas simplas (art. 123 cifra 2 al. 3–5), en cas da metter repetidamain maun vi d’ina persuna (art. 126 al. 2 lit. b, b<sup>bis</sup> e c), en cas da smanatscha (art. 180 al. 2) ed en cas da constricziuns (art. 181) po la Procura publica u la dretgira suspender provisoricamain la procedura, sche:[^55a-2]
 
 - a.[^55a-3]
 
@@ -742,7 +743,7 @@ En cas da blessuras corporalas simplas (art. 123 cifra 2 al. 3–5), en cas da m
 - b.[^55a-4] la victima u, sche quella n’è betg abla d’agir, sia represchentanza legala dumonda quai; e
 - c.[^55a-5] la suspensiun para da pudair stabilisar u meglierar la situaziun.
 
-<sup>2</sup> La Procura publica u il derschader po obligar l’inculpà da sa participar durant la suspensiun ad in program d’instrucziun cunter violenza. Davart las mesiras prendidas infurmescha la Procura publica u il derschader il post chantunal cumpetent per cas da violenza a chasa.[^55a-6]
+<sup>2</sup> La Procura publica u la dretgira po obligar l’inculpà da sa participar durant la suspensiun ad in program d’instrucziun cunter violenza. Davart las mesiras prendidas infurmescha la Procura publica u la dretgira il post chantunal cumpetent per cas da violenza a chasa.[^55a-6]
 
 <sup>3</sup>
 
@@ -752,9 +753,9 @@ La suspensiun n’è betg admissibla, sche:
 - b. in chasti è vegnì pronunzià u ina mesira è vegnida ordinada cunter el; e
 - c. il malfatg è vegnì commess cunter ina victima tenor l’alinea 1 litera a.[^55a-7]
 
-<sup>4</sup> La suspensiun è limitada a 6 mais. La Procura publica u il derschader reprenda la procedura, sche la victima u, sche quella n’è betg abla d’agir, sia represchentanza legala pretenda quai u sch’i sa mussa che la suspensiun ni stabilisescha ni meglierescha la situaziun da la victima.[^55a-8]
+<sup>4</sup> La suspensiun è limitada a 6 mais. La Procura publica u la dretgira reprenda la procedura, sche la victima u, sche quella n’è betg abla d’agir, sia represchentanza legala pretenda quai u sch’i sa mussa che la suspensiun ni stabilisescha ni meglierescha la situaziun da la victima.[^55a-8]
 
-<sup>5</sup> Avant la fin da la suspensiun fa la Procura publica u il derschader in giudicament. Sche la situaziun da la victima è sa stabilisada u sa meglierada, vegn disponida la sistida da la procedura.[^55a-9]
+<sup>5</sup> Avant la fin da la suspensiun fa la Procura publica u la dretgira in giudicament. Sche la situaziun da la victima è sa stabilisada u sa meglierada, vegn disponida la sistida da la procedura.[^55a-9]
 
 [^55a-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (persecuziun penala en la lètg ed en il partenadi), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 [^55a-2]: Versiun tenor la cifra I 3 da la LF dals 14 da dec. 2018 davart la meglieraziun da la protecziun da victimas da violenza, en vigur dapi il 1. da fan. 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
@@ -786,7 +787,7 @@ Ina mesira duai vegnir ordinada, sche:
 
 <sup>3</sup>
 
-Per ordinar ina mesira tenor ils artitgels 59–61, 63 e 64 sco er per midar la sancziun tenor l’artitgel 65 sa basa il derschader sin in’expertisa. Questa expertisa inditgescha:
+Per ordinar ina mesira tenor ils artitgels 59–61, 63 e 64 sco er per midar la sancziun tenor l’artitgel 65 sa basa la dretgira sin in’expertisa. Questa expertisa inditgescha:
 
 - a. la necessitad e las schanzas da success d’in tractament dal delinquent;
 - b. la probabilitad ch’il delinquent commettia ulteriurs malfatgs ed il gener da quests malfatgs; e
@@ -794,9 +795,9 @@ Per ordinar ina mesira tenor ils artitgels 59–61, 63 e 64 sco er per midar la 
 
 <sup>4</sup> Sch’il delinquent ha commess in malfatg en il senn da l’artitgel 64 alinea 1, sto l’expertisa vegnir fatga d’in expert che n’ha ni tractà ni assistì il delinquent en autra moda.
 
-<sup>4bis</sup> Sch’i vegn en consideraziun d’ordinar in internament per vita duranta tenor l’artitgel 64 alinea 1<sup>bis</sup>, prenda il derschader sia decisiun sin basa da las expertisas d’almain dus experts versads ch’èn independents in da l’auter e che n’han ni tractà ni assistì il delinquent en autra moda.[^56-1]
+<sup>4bis</sup> Sch’i vegn en consideraziun d’ordinar in internament per vita duranta tenor l’artitgel 64 alinea 1<sup>bis</sup>, prenda la dretgira sia decisiun sin basa da las expertisas d’almain dus experts versads ch’èn independents in da l’auter e che n’han ni tractà ni assistì il delinquent en autra moda.[^56-1]
 
-<sup>5</sup> Per regla ordinescha il derschader ina mesira mo, sch’ina instituziun adattada è disponibla.
+<sup>5</sup> Per regla ordinescha la dretgira ina mesira mo, sch’ina instituziun adattada è disponibla.
 
 <sup>6</sup> Ina mesira sto vegnir abolida, sche sias premissas n’èn betg pli ademplidas.
 
@@ -806,15 +807,15 @@ Per ordinar ina mesira tenor ils artitgels 59–61, 63 e 64 sco er per midar la 
 
 #### Art. 56a
 
-<sup>1</sup> Sche pliras mesiras èn adattadas en moda eguala, ma sche mo ina è necessaria, ordinescha il derschader quella mesira che engrevgescha il pli pauc il delinquent.
+<sup>1</sup> Sche pliras mesiras èn adattadas en moda eguala, ma sche mo ina è necessaria, ordinescha la dretgira quella mesira che engrevgescha il pli pauc il delinquent.
 
-<sup>2</sup> Sche pliras mesiras èn necessarias, las po il derschader ordinar cuminaivlamain.
+<sup>2</sup> Sche pliras mesiras èn necessarias, las po la dretgira ordinar cuminaivlamain.
 
 ### Relaziun tranter mesiras e chastis
 
 #### Art. 57
 
-<sup>1</sup> Sche las premissas èn ademplidas tant per in chasti sco er per ina mesira, ordinescha il derschader tuttas duas sancziuns.
+<sup>1</sup> Sche las premissas èn ademplidas tant per in chasti sco er per ina mesira, ordinescha la dretgira tuttas duas sancziuns.
 
 <sup>2</sup> L’execuziun d’ina mesira tenor ils artitgels 59–61 ha la precedenza vers in chasti da detenziun, il qual vegn pronunzià a medem temp u po vegnir exequì sin basa d’ina revocaziun u d’ina reintegraziun. Medemamain ha la reintegraziun en ina mesira tenor l’artitgel 62*a* la precedenza vers in chasti total che vegn pronunzià a medem temp.
 
@@ -838,7 +839,7 @@ Per ordinar ina mesira tenor ils artitgels 59–61, 63 e 64 sco er per midar la 
 
 <sup>1</sup>
 
-Sch’il delinquent ha in grev disturbi psichic, po il derschader ordinar in tractament staziunar, sche:
+Sch’il delinquent ha in grev disturbi psichic, po la dretgira ordinar in tractament staziunar, sche:
 
 - a. il delinquent ha commess in crim u in delict che stat en connex cun ses disturbi psichic; e
 - b. ins dastga quintar da pudair impedir qua tras ch’il delinquent commettia ulteriurs malfatgs che stattan en connex cun ses disturbi psichic.
@@ -847,7 +848,7 @@ Sch’il delinquent ha in grev disturbi psichic, po il derschader ordinar in tra
 
 <sup>3</sup> Uscheditg ch’ins sto temair ch’il delinquent fugia u commettia ulteriurs malfatgs, vegn el tractà en ina instituziun serrada. El po er vegnir tractà en in stabiliment da retenziun tenor l’artitgel 76 alinea 2, sch’igl è garantì ch’el survegnia il tractament terapeutic necessari tras persunal spezialisà.[^59-1]
 
-<sup>4</sup> La privaziun da la libertad ch’è colliada cun il tractament staziunar importa per regla maximalmain 5 onns. Sche las premissas per la relaschada cundiziunada n’èn betg anc ademplidas suenter 5 onns e sch’ins dastga quintar che la cuntinuaziun da la mesira possia impedir ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses disturbi psichic, po il derschader – sin dumonda da l’autoritad d’execuziun – ordinar la prolungaziun da la mesira per mintgamai maximalmain 5 onns.
+<sup>4</sup> La privaziun da la libertad ch’è colliada cun il tractament staziunar importa per regla maximalmain 5 onns. Sche las premissas per la relaschada cundiziunada n’èn betg anc ademplidas suenter 5 onns e sch’ins dastga quintar che la cuntinuaziun da la mesira possia impedir ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses disturbi psichic, po la dretgira – sin dumonda da l’autoritad d’execuziun – ordinar la prolungaziun da la mesira per mintgamai maximalmain 5 onns.
 
 [^59-1]: Versiun tenor la cifra I da la LF dals 24 da mars 2006 (correcturas concernent las sancziuns ed il register penal), en vigur dapi il 1. da schan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
@@ -857,16 +858,16 @@ Sch’il delinquent ha in grev disturbi psichic, po il derschader ordinar in tra
 
 <sup>1</sup>
 
-Sch’il delinquent è dependent da drogas u patescha d’ina autra dependenza, po il derschader ordinar in tractament staziunar, sche:
+Sch’il delinquent è dependent da drogas u patescha d’ina autra dependenza, po la dretgira ordinar in tractament staziunar, sche:
 
 - a. il delinquent ha commess in crim u in delict che stat en connex cun sia dependenza; e
 - b. ins dastga quintar da pudair impedir qua tras ch’il delinquent commettia ulteriurs malfatgs che stattan en connex cun sia dependenza.
 
-<sup>2</sup> Il derschader tegna quint da la dumonda e da la prontezza dal delinquent da sa suttametter al tractament.
+<sup>2</sup> La dretgira tegna quint da la dumonda e da la prontezza dal delinquent da sa suttametter al tractament.
 
 <sup>3</sup> Il tractament ha lieu en ina instituziun spezialisada u, sche necessari, en ina clinica psichiatrica. El sto vegnir adattà als basegns spezials dal delinquent ed a ses svilup.
 
-<sup>4</sup> La privaziun da la libertad ch’è colliada cun il tractament staziunar importa per regla maximalmain 3 onns. Sche las premissas per la relaschada cundiziunada n’èn betg anc ademplidas suenter 3 onns e sch’ins dastga quintar che la cuntinuaziun da la mesira possia impedir ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun sia dependenza, po il derschader – sin dumonda da l’autoritad d’execuziun – ordinar ina giada la prolungaziun da la mesira per 1 ulteriur onn. La privaziun da la libertad ch’è colliada cun la mesira na dastga betg surpassar la durada maximala da totalmain 6 onns en cas da la prolungaziun u da la reintegraziun suenter la relaschada cundiziunada.
+<sup>4</sup> La privaziun da la libertad ch’è colliada cun il tractament staziunar importa per regla maximalmain 3 onns. Sche las premissas per la relaschada cundiziunada n’èn betg anc ademplidas suenter 3 onns e sch’ins dastga quintar che la cuntinuaziun da la mesira possia impedir ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun sia dependenza, po la dretgira – sin dumonda da l’autoritad d’execuziun – ordinar ina giada la prolungaziun da la mesira per 1 ulteriur onn. La privaziun da la libertad ch’è colliada cun la mesira na dastga betg surpassar la durada maximala da totalmain 6 onns en cas da la prolungaziun u da la reintegraziun suenter la relaschada cundiziunada.
 
 ### Mesiras per persunas giuvnas creschidas
 
@@ -874,7 +875,7 @@ Sch’il delinquent è dependent da drogas u patescha d’ina autra dependenza, 
 
 <sup>1</sup>
 
-Sch’il delinquent n’aveva betg anc 25 onns, cura ch’el ha commess il malfatg, e sch’il svilup da sia persunalitad è disturbà grevamain, al po il derschader collocar en ina instituziun per persunas giuvnas creschidas, sche:
+Sch’il delinquent n’aveva betg anc 25 onns, cura ch’el ha commess il malfatg, e sch’il svilup da sia persunalitad è disturbà grevamain, al po la dretgira collocar en ina instituziun per persunas giuvnas creschidas, sche:
 
 - a. il delinquent ha commess in crim u in delict che stat en connex cun il disturbi dal svilup da sia persunalitad; e
 - b. ins dastga quintar da pudair impedir qua tras ch’il delinquent commettia ulteriurs malfatgs che stattan en connex cun il disturbi dal svilup da sia persunalitad.
@@ -899,7 +900,7 @@ Sch’il delinquent n’aveva betg anc 25 onns, cura ch’el ha commess il malfa
 
 <sup>4</sup>
 
-Sch’i para, a la fin dal temp d’emprova, dad esser necessari da cuntinuar cun il tractament ambulant, cun l’assistenza da reabilitaziun u cun las directivas per impedir che la persuna ch’è vegnida relaschada cundiziunadamain commettia ulteriurs crims e delicts che stattan en connex cun ses stadi, po il derschader – sin dumonda da l’autoritad d’execuziun – prolungar sco suonda il temp d’emprova:
+Sch’i para, a la fin dal temp d’emprova, dad esser necessari da cuntinuar cun il tractament ambulant, cun l’assistenza da reabilitaziun u cun las directivas per impedir che la persuna ch’è vegnida relaschada cundiziunadamain commettia ulteriurs crims e delicts che stattan en connex cun ses stadi, po la dretgira – sin dumonda da l’autoritad d’execuziun – prolungar sco suonda il temp d’emprova:
 
 - a. en cas da la relaschada cundiziunada or d’ina mesira tenor l’artitgel 59 mintgamai per 1 fin 5 onns;
 - b. en cas da la relaschada cundiziunada or d’ina mesira tenor ils artitgels 60 e 61 per 1 fin 3 onns.
@@ -914,21 +915,21 @@ Sch’i para, a la fin dal temp d’emprova, dad esser necessari da cuntinuar cu
 
 <sup>1</sup>
 
-Sche la persuna ch’è vegnida relaschada cundiziunadamain commetta in malfatg durant il temp d’emprova, mussond uschia ch’il privel, che dueva vegnir impedì tras la mesira, exista vinavant, po il derschader ch’è cumpetent per giuditgar il nov malfatg, suenter avair tadlà l’autoritad d’execuziun:
+Sche la persuna ch’è vegnida relaschada cundiziunadamain commetta in malfatg durant il temp d’emprova, mussond uschia ch’il privel, che dueva vegnir impedì tras la mesira, exista vinavant, po la dretgira ch’è cumpetenta per giuditgar il nov malfatg, suenter avair tadlà l’autoritad d’execuziun:
 
 - a. ordinar la reintegraziun;
 - b. abolir la mesira e – sche las premissas èn ademplidas – ordinar ina nova mesira; u
 - c. abolir la mesira e – sche las premissas èn ademplidas – ordinar l’execuziun d’in chasti da detenziun.
 
-<sup>2</sup> Sche las premissas per in chasti da detenziun nuncundiziunà èn ademplidas sin basa dal nov malfatg e sche quest chasti coincida cun in chasti da detenziun, il qual è vegnì suspendì a favur da la mesira, pronunzia il derschader in chasti total en applicaziun da l’artitgel 49.
+<sup>2</sup> Sche las premissas per in chasti da detenziun nuncundiziunà èn ademplidas sin basa dal nov malfatg e sche quest chasti coincida cun in chasti da detenziun, il qual è vegnì suspendì a favur da la mesira, pronunzia la dretgira in chasti total en applicaziun da l’artitgel 49.
 
-<sup>3</sup> Sch’ins sto, sin basa da ses cumportament durant il temp d’emprova, temair seriusamain che la persuna ch’è vegnida relaschada cundiziunadamain pudess commetter in malfatg en il senn da l’artitgel 64 alinea 1, po il derschader che ha ordinà la mesira ordinar la reintegraziun sin proposta da l’autoritad d’execuziun.
+<sup>3</sup> Sch’ins sto, sin basa da ses cumportament durant il temp d’emprova, temair seriusamain che la persuna ch’è vegnida relaschada cundiziunadamain pudess commetter in malfatg en il senn da l’artitgel 64 alinea 1, po la dretgira che ha ordinà la mesira ordinar la reintegraziun sin proposta da l’autoritad d’execuziun.
 
 <sup>4</sup> La reintegraziun dura maximalmain 5 onns per la mesira tenor l’artitgel 59 e maximalmain 2 onns per las mesiras tenor ils artitgels 60 e 61.
 
 <sup>5</sup>
 
-Sch’il derschader renunzia ad ina reintegraziun u ad ina nova mesira, po el:
+Sche la dretgira renunzia ad ina reintegraziun u ad ina nova mesira, po ella:
 
 - a. admonir la persuna ch’è vegnida relaschada cundiziunadamain;
 - b. ordinar in tractament ambulant u l’assistenza da reabilitaziun;
@@ -961,13 +962,13 @@ La mesira vegn abolida, sche:
 
 <sup>2</sup> Sche la privaziun da la libertad ch’è colliada cun la mesira è pli curta ch’il chasti da detenziun suspendì, vegn il chasti restant exequì. Sche las premissas da la relaschada cundiziunada u dal chasti da detenziun cundiziunà èn avant maun areguard il chasti restant, sto l’execuziun vegnir suspendida.
 
-<sup>3</sup> Empè da l’execuziun dal chasti po il derschader ordinar in’autra mesira, sch’ins dastga quintar da pudair impedir qua tras ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses stadi.
+<sup>3</sup> Empè da l’execuziun dal chasti po la dretgira ordinar in’autra mesira, sch’ins dastga quintar da pudair impedir qua tras ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses stadi.
 
-<sup>4</sup> Sch’ins sto – en cas da l’aboliziun d’ina mesira ch’era vegnida pronunziada sin basa d’in malfatg tenor l’artitgel 64 alinea 1 – temair seriusamain ch’il delinquent commettia ulteriurs acts da quest gener, po il derschader ordinar l’internament sin proposta da l’autoritad d’execuziun.
+<sup>4</sup> Sch’ins sto – en cas da l’aboliziun d’ina mesira ch’era vegnida pronunziada sin basa d’in malfatg tenor l’artitgel 64 alinea 1 – temair seriusamain ch’il delinquent commettia ulteriurs acts da quest gener, po la dretgira ordinar l’internament sin proposta da l’autoritad d’execuziun.
 
 <sup>5</sup> Sche l’autoritad cumpetenta è da l’avis ch’ina mesira da la protecziun da creschids saja inditgada, cura che la mesira vegn abolida, communitgescha ella quai a l’autoritad per la protecziun da creschids.[^62c-1]
 
-<sup>6</sup> Plinavant po il derschader abolir ina mesira terapeutica staziunara avant u durant sia execuziun ed ordinar empè da quella in’autra mesira terapeutica staziunara, sch’ins dastga quintar che la nova mesira possia impedir evidentamain meglier ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses stadi.
+<sup>6</sup> Plinavant po la dretgira abolir ina mesira terapeutica staziunara avant u durant sia execuziun ed ordinar empè da quella in’autra mesira terapeutica staziunara, sch’ins dastga quintar che la nova mesira possia impedir evidentamain meglier ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses stadi.
 
 [^62c-1]: Versiun tenor la cifra 14 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
@@ -987,16 +988,16 @@ La mesira vegn abolida, sche:
 
 <sup>1</sup>
 
-Sch’il delinquent ha in grev disturbi psichic, sch’el è dependent da drogas u sch’el patescha d’ina autra dependenza, po il derschader ordinar ch’el na vegnia betg tractà en moda staziunara, mabain en moda ambulanta, sche:
+Sch’il delinquent ha in grev disturbi psichic, sch’el è dependent da drogas u sch’el patescha d’ina autra dependenza, po la dretgira ordinar ch’el na vegnia betg tractà en moda staziunara, mabain en moda ambulanta, sche:
 
 - a. il delinquent commetta in malfatg chastiabel che stat en connex cun ses stadi; e
 - b. ins dastga quintar da pudair impedir qua tras ch’il delinquent commettia ulteriurs malfatgs che stattan en connex cun ses stadi.
 
-<sup>2</sup> Per tegnair quint dal gener dal tractament ed a favur d’in tractament ambulant po il derschader suspender l’execuziun d’in chasti da detenziun nuncundiziunà, il qual è vegnì pronunzià a medem temp, d’in chasti da detenziun, il qual è daventà exequibel sin basa da la revocaziun sco er d’in chasti restant ch’è daventà exequibel sin basa da la reintegraziun. Per la durada dal tractament po el ordinar l’assistenza da reabilitaziun e dar directivas.
+<sup>2</sup> Per tegnair quint dal gener dal tractament ed a favur d’in tractament ambulant po la dretgira suspender l’execuziun d’in chasti da detenziun nuncundiziunà, il qual è vegnì pronunzià a medem temp, d’in chasti da detenziun, il qual è daventà exequibel sin basa da la revocaziun sco er d’in chasti restant ch’è daventà exequibel sin basa da la reintegraziun. Per la durada dal tractament po ella ordinar l’assistenza da reabilitaziun e dar directivas.
 
 <sup>3</sup> L’autoritad cumpetenta po disponer ch’il delinquent vegnia tractà temporarmain en moda staziunara, sche quai è necessari per introducir il tractament ambulant. Il tractament staziunar na dastga tut en tut betg durar dapli che 2 mais.
 
-<sup>4</sup> Il tractament ambulant na dastga per regla betg durar dapli che 5 onns. Sch’i para dad esser necessari da cuntinuar cun il tractament ambulant, cura che la durada maximala vegn cuntanschida, per impedir ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses disturbi psichic, po il derschader – sin dumonda da l’autoritad d’execuziun – prolungar il tractament per mintgamai 1 fin 5 onns.
+<sup>4</sup> Il tractament ambulant na dastga per regla betg durar dapli che 5 onns. Sch’i para dad esser necessari da cuntinuar cun il tractament ambulant, cura che la durada maximala vegn cuntanschida, per impedir ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses disturbi psichic, po la dretgira – sin dumonda da l’autoritad d’execuziun – prolungar il tractament per mintgamai 1 fin 5 onns.
 
 ### Aboliziun da la mesira
 
@@ -1012,7 +1013,7 @@ Il tractament ambulant vegn abolì tras l’autoritad cumpetenta, sche:
 - b. sia cuntinuaziun para dad esser invana; u
 - c. la durada maximala legala per il tractament da dependenzas d’alcohol, da narcotics u da medicaments è cuntanschida.
 
-<sup>3</sup> Sch’il delinquent commetta in malfatg durant il tractament ambulant, mussond uschia che quest tractament na po probablamain betg impedir ch’el commettia ulteriurs malfatgs che stattan en connex cun ses stadi, vegn il tractament ambulant che n’ha gì nagin success abolì tras il derschader ch’è cumpetent per giuditgar il nov malfatg.
+<sup>3</sup> Sch’il delinquent commetta in malfatg durant il tractament ambulant, mussond uschia che quest tractament na po probablamain betg impedir ch’el commettia ulteriurs malfatgs che stattan en connex cun ses stadi, vegn il tractament ambulant che n’ha gì nagin success abolì tras la dretgira ch’è cumpetenta per giuditgar il nov malfatg.
 
 <sup>4</sup> Sch’il delinquent sa sustira da l’assistenza da reabilitaziun u sch’el cuntrafa a las directivas, è applitgabel l’artitgel 95 alineas 3–5.
 
@@ -1026,9 +1027,9 @@ Il tractament ambulant vegn abolì tras l’autoritad cumpetenta, sche:
 
 <sup>3</sup> Sch’il tractament ambulant exequì en libertad para dad esser privlus per terzas persunas, vegn exequì il chasti da detenziun suspendì, e cun il tractament ambulant vegni cuntinuà durant l’execuziun dal chasti da detenziun.
 
-<sup>4</sup> Il derschader decida, quant enavant che la privaziun da la libertad ch’è colliada cun il tractament ambulant vegn messa a quint al chasti. Sche las premissas da la relaschada cundiziunada u dal chasti da detenziun cundiziunà èn avant maun areguard il chasti restant, suspenda el l’execuziun.
+<sup>4</sup> La dretgira decida, quant enavant che la privaziun da la libertad ch’è colliada cun il tractament ambulant vegn messa a quint al chasti. Sche las premissas da la relaschada cundiziunada u dal chasti da detenziun cundiziunà èn avant maun areguard il chasti restant, suspenda ella l’execuziun.
 
-<sup>5</sup> Empè da l’execuziun dal chasti po il derschader ordinar ina mesira terapeutica staziunara tenor ils artitgels 59–61, sch’ins dastga quintar da pudair impedir qua tras ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses stadi.
+<sup>5</sup> Empè da l’execuziun dal chasti po la dretgira ordinar ina mesira terapeutica staziunara tenor ils artitgels 59–61, sch’ins dastga quintar da pudair impedir qua tras ch’il delinquent commettia ulteriurs crims e delicts che stattan en connex cun ses stadi.
 
 ### 4. Internament.
 
@@ -1038,14 +1039,14 @@ Il tractament ambulant vegn abolì tras l’autoritad cumpetenta, sche:
 
 <sup>1</sup>
 
-Il derschader ordinescha l’internament, sch’il delinquent ha commess in assassinat, in mazzament intenziunà, ina blessura corporala greva, ina violaziun, ina rapina, in rapiment d’ostagis, in incendi intenziunà, ina periclitaziun da la vita u in auter malfatg chastiabel cun in chasti maximal da 5 onns u dapli, tras il qual el ha donnegià u vuleva donnegiar grevamain l’integritad fisica, psichica u sexuala d’ina autra persuna, e sche:[^64-1]
+La dretgira ordinescha l’internament, sch’il delinquent ha commess in assassinat, in mazzament intenziunà, ina blessura corporala greva, ina violaziun, ina rapina, in rapiment d’ostagis, in incendi intenziunà, ina periclitaziun da la vita u in auter malfatg chastiabel cun in chasti maximal da 5 onns u dapli, tras il qual el ha donnegià u vuleva donnegiar grevamain l’integritad fisica, psichica u sexuala d’ina autra persuna, e sche:[^64-1]
 
 - a. ins sto temair seriusamain ch’il delinquent commettia ulteriurs malfatgs da quest gener pervia da las caracteristicas da sia persunalitad, pervia da las circumstanzas dal malfatg e pervia da tut sias circumstanzas da viver; u
 - b. ins sto temair seriusamain ch’il delinquent commettia ulteriurs malfatgs da quest gener e che l’ordinaziun d’ina mesira tenor l’artitgel 59 n’empermettia nagin success pervia d’in disturbi psichic da grevezza considerabla, permanent u da lunga durada, che steva en connex cun il malfatg.
 
 <sup>1bis</sup>
 
-Il derschader ordinescha l’internament per vita duranta, sch’il delinquent ha commess in assassinat, in mazzament intenziunà, ina blessura corporala greva, ina rapina, ina violaziun, ina constricziun sexuala, ina privaziun da la libertad u in rapiment, in rapiment d’ostagis, ina spariziun sfurzada, commerzi cun umans, in genocid, in crim cunter l’umanitad ubain in crim da guerra (dudeschavel titel<sup>ter</sup>) e sche las suandantas premissas èn ademplidas:[^64-2]
+La dretgira ordinescha l’internament per vita duranta, sch’il delinquent ha commess in assassinat, in mazzament intenziunà, ina blessura corporala greva, ina rapina, ina violaziun, ina constricziun sexuala, ina privaziun da la libertad u in rapiment, in rapiment d’ostagis, ina spariziun sfurzada, commerzi cun umans, in genocid, in crim cunter l’umanitad ubain in crim da guerra (dudeschavel titel<sup>ter</sup>) e sche las suandantas premissas èn ademplidas:[^64-2]
 
 - a. cun il crim ha il delinquent donnegià u vulì donnegiar en moda spezialmain greva l’integritad fisica, psichica u sexuala d’ina autra persuna;
 - b. igl è fitg probabel ch’il delinquent commettia danovamain in da quests crims;
@@ -1053,7 +1054,7 @@ Il derschader ordinescha l’internament per vita duranta, sch’il delinquent h
 
 <sup>2</sup> L’execuziun dal chasti da detenziun ha la precedenza vers l’internament. Las disposiziuns davart la relaschada cundiziunada or dal chasti da detenziun (art. 86–88) n’èn betg applitgablas.[^64-4]
 
-<sup>3</sup> Sch’ins dastga quintar gia durant l’execuziun dal chasti da detenziun, ch’il delinquent sa cumprovia en libertad, dispona il derschader la relaschada cundiziunada or dal chasti da detenziun il pli baud per il di ch’il delinquent ha expià dus terzs dal chasti da detenziun u 15 onns dal chasti da detenziun per vita duranta. Cumpetent è il derschader che ha ordinà l’internament. Dal rest è applitgabel l’artitgel 64*a*.[^64-5]
+<sup>3</sup> Sch’ins dastga quintar gia durant l’execuziun dal chasti da detenziun, ch’il delinquent sa cumprovia en libertad, dispona la dretgira la relaschada cundiziunada or dal chasti da detenziun il pli baud per il di ch’il delinquent ha expià dus terzs dal chasti da detenziun u 15 onns dal chasti da detenziun per vita duranta. Cumpetenta è la dretgira che ha ordinà l’internament. Dal rest è applitgabel l’artitgel 64*a*.[^64-5]
 
 <sup>4</sup> L’internament vegn exequì en ina instituziun per l’execuziun da mesiras u en in stabiliment da retenziun tenor l’artitgel 76 alinea 2. La segirezza publica sto vegnir garantida. Il delinquent survegn assistenza psichiatrica, sche quai è necessari.
 
@@ -1069,9 +1070,9 @@ Il derschader ordinescha l’internament per vita duranta, sch’il delinquent h
 
 <sup>1</sup> Il delinquent vegn relaschà cundiziunadamain or da l’internament tenor l’artitgel 64 alinea 1, uschespert ch’ins dastga quintar ch’el sa cumprovia en libertad.[^64a-1] Il temp d’emprova importa 2 fin 5 onns. Per la durada dal temp d’emprova po vegnir ordinada l’assistenza da reabilitaziun e pon vegnir dadas directivas.
 
-<sup>2</sup> Sch’i para, a la fin dal temp d’emprova, dad esser necessari da cuntinuar cun l’assistenza da reabilitaziun u cun las directivas per impedir ch’il delinquent commettia ulteriurs malfatgs en il senn da l’artitgel 64 alinea 1, po il derschader – sin dumonda da l’autoritad d’execuziun – prolungar il temp d’emprova per ulteriurs 2 fin 5 onns.
+<sup>2</sup> Sch’i para, a la fin dal temp d’emprova, dad esser necessari da cuntinuar cun l’assistenza da reabilitaziun u cun las directivas per impedir ch’il delinquent commettia ulteriurs malfatgs en il senn da l’artitgel 64 alinea 1, po la dretgira – sin dumonda da l’autoritad d’execuziun – prolungar il temp d’emprova per ulteriurs 2 fin 5 onns.
 
-<sup>3</sup> Sch’ins sto, sin basa da ses cumportament durant il temp d’emprova, temair seriusamain che la persuna, ch’è vegnida relaschada cundiziunadamain, pudess commetter ulteriurs malfatgs en il senn da l’artitgel 64 alinea 1, ordinescha il derschader la reintegraziun sin proposta da l’autoritad d’execuziun.
+<sup>3</sup> Sch’ins sto, sin basa da ses cumportament durant il temp d’emprova, temair seriusamain che la persuna, ch’è vegnida relaschada cundiziunadamain, pudess commetter ulteriurs malfatgs en il senn da l’artitgel 64 alinea 1, ordinescha la dretgira la reintegraziun sin proposta da l’autoritad d’execuziun.
 
 <sup>4</sup> Sche la persuna ch’è vegnida relaschada cundiziunadamain sa sustira da l’assistenza da reabilitaziun u sch’ella cuntrafa a las directivas, è applitgabel l’artitgel 95 alineas 3–5.
 
@@ -1090,7 +1091,7 @@ Il derschader ordinescha l’internament per vita duranta, sch’il delinquent h
 Sin dumonda u d’uffizi examinescha l’autoritad cumpetenta:
 
 - a. almain ina giada per onn, e l’emprima giada suenter 2 onns, sche e cura ch’il delinquent po vegnir relaschà cundiziunadamain or da l’internament (art. 64*a* al. 1);
-- b. almain mintga 2 onns, e l’emprima giada avant che cumenzar l’internament, sche las premissas per in tractament terapeutic staziunar èn ademplidas e sch’i duai vegnir fatga ina dumonda correspundenta tar il derschader cumpetent (art. 65 al. 1).
+- b. almain mintga 2 onns, e l’emprima giada avant che cumenzar l’internament, sche las premissas per in tractament terapeutic staziunar èn ademplidas e sch’i duai vegnir fatga ina dumonda correspundenta tar la dretgira cumpetenta (art. 65 al. 1).
 
 <sup>2</sup>
 
@@ -1113,11 +1114,11 @@ L’autoritad cumpetenta prenda las decisiuns tenor l’alinea 1 sin basa:
 
 <sup>2</sup> Sche l’autoritad cumpetenta arriva a la conclusiun ch’il delinquent possia vegnir tractà, al propona ella in tractament. Quel ha lieu en ina instituziun serrada. Fin a l’aboliziun da l’internament per vita duranta tenor l’alinea 3 restan applitgablas las disposiziuns davart l’execuziun da l’internament per vita duranta.
 
-<sup>3</sup> Sch’il tractament mussa che la privlusadad dal delinquent è sa reducida considerablamain e po vegnir reducida uschè lunsch ch’el n’è nagin privel pli per la publicitad, abolescha il derschader l’internament per vita duranta ed ordinescha ina mesira terapeutica staziunara tenor ils artitgels 59–61 en ina instituziun serrada.
+<sup>3</sup> Sch’il tractament mussa che la privlusadad dal delinquent è sa reducida considerablamain e po vegnir reducida uschè lunsch ch’el n’è nagin privel pli per la publicitad, abolescha la dretgira l’internament per vita duranta ed ordinescha ina mesira terapeutica staziunara tenor ils artitgels 59–61 en ina instituziun serrada.
 
-<sup>4</sup> Il derschader po relaschar cundiziunadamain il delinquent or da l’internament per vita duranta, sch’el n’è nagin privel pli per la publicitad pervia da sia auta vegliadetgna, pervia d’ina greva malsogna u per in auter motiv. La relaschada cundiziunada sa drizza tenor l’artitgel 64*a*.
+<sup>4</sup> La dretgira po relaschar cundiziunadamain il delinquent or da l’internament per vita duranta, sch’el n’è nagin privel pli per la publicitad pervia da sia auta vegliadetgna, pervia d’ina greva malsogna u per in auter motiv. La relaschada cundiziunada sa drizza tenor l’artitgel 64*a*.
 
-<sup>5</sup> Cumpetent per l’aboliziun da l’internament per vita duranta e per la relaschada cundiziunada è il derschader che ha ordinà l’internament per vita duranta. El prenda sia decisiun sin basa da las expertisas d’almain dus experts versads ch’èn independents in da l’auter e che n’han ni tractà ni assistì il delinquent en autra moda.
+<sup>5</sup> Cumpetenta per l’aboliziun da l’internament per vita duranta e per la relaschada cundiziunada è la dretgira che ha ordinà l’internament per vita duranta. Ella prenda sia decisiun sin basa da las expertisas d’almain dus experts versads ch’èn independents in da l’auter e che n’han ni tractà ni assistì il delinquent en autra moda.
 
 <sup>6</sup> Ils alineas 1 e 2 valan er durant l’execuziun dal chasti da detenziun, il qual preceda l’internament per vita duranta. L’internament per vita duranta vegn abolì il pli baud tenor l’alinea 3, sch’il delinquent ha expià dus terzs dal chasti u 15 onns dal chasti per vita duranta.
 
@@ -1127,9 +1128,9 @@ L’autoritad cumpetenta prenda las decisiuns tenor l’alinea 1 sin basa:
 
 #### Art. 65
 
-<sup>1</sup> Sch’in sentenzià ademplescha las premissas d’ina mesira terapeutica staziunara avant u durant l’expiaziun d’in chasti da detenziun u d’in internament tenor l’artitgel 64 alinea 1, po il derschader ordinar posteriuramain questa mesira.[^65-1] Cumpetent è il derschader che ha pronunzià il chastì u che ha ordinà l’internament. L’execuziun d’in chasti restant vegn suspendida.
+<sup>1</sup> Sch’in sentenzià ademplescha las premissas d’ina mesira terapeutica staziunara avant u durant l’expiaziun d’in chasti da detenziun u d’in internament tenor l’artitgel 64 alinea 1, po la dretgira ordinar posteriuramain questa mesira.[^65-1] Cumpetenta è la dretgira che ha pronunzià il chastì u che ha ordinà l’internament. L’execuziun d’in chasti restant vegn suspendida.
 
-<sup>2</sup> Sch’i resulta – durant l’expiaziun dal chasti da detenziun e sin basa da novs fatgs u da novas cumprovas – ch’in sentenzià ademplescha las premissas da l’internament e las ha ademplidas gia il mument da la condemnaziun, senza ch’il derschader haja pudì avair enconuschientscha da quai, po il derschader ordinar posteriuramain l’internament. La cumpetenza e la procedura sa drizzan tenor las reglas che valan per la revisiun.[^65-2]
+<sup>2</sup> Sch’i resulta – durant l’expiaziun dal chasti da detenziun e sin basa da novs fatgs u da novas cumprovas – ch’in sentenzià ademplescha las premissas da l’internament e las ha ademplidas gia il mument da la condemnaziun, senza che la dretgira haja pudì avair enconuschientscha da quai, po la dretgira ordinar posteriuramain l’internament. La cumpetenza e la procedura sa drizzan tenor las reglas che valan per la revisiun.[^65-2]
 
 [^65-1]: Versiun tenor la cifra I da la LF dals 21 da dec. 2007 (internament da delinquents privlus per vita duranta), en vigur dapi il 1. d’avust 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
 [^65-2]: Integrà tras la cifra I da la LF dals 24 da mars 2006 (correcturas concernent las sancziuns ed il register penal), en vigur dapi il 1. da schan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
@@ -1140,9 +1141,9 @@ L’autoritad cumpetenta prenda las decisiuns tenor l’alinea 1 sin basa:
 
 #### Art. 66
 
-<sup>1</sup> Sch’ins sto temair ch’insatgi, che ha smanatschà da commetter in crim u in delict, commettia effectivamain il malfatg, u sch’insatgi, ch’è vegnì sentenzià pervia d’in crim u d’in delict, manifestescha l’intenziun expressiva da repeter il malfatg, po il derschader – sin dumonda dal smanatschà – pretender ch’el empermettia da betg exequir il malfatg e l’obligar da prestar ina segirezza adequata.
+<sup>1</sup> Sch’ins sto temair ch’insatgi, che ha smanatschà da commetter in crim u in delict, commettia effectivamain il malfatg, u sch’insatgi, ch’è vegnì sentenzià pervia d’in crim u d’in delict, manifestescha l’intenziun expressiva da repeter il malfatg, po la dretgira – sin dumonda dal smanatschà – pretender ch’el empermettia da betg exequir il malfatg e l’obligar da prestar ina segirezza adequata.
 
-<sup>2</sup> Sch'el refusa l'empermischun u sch'el na presta cun malart betg la segirezza entaifer il termin fixà, al po il derschader obligar da far l'empermischun u da prestar la segirezza, ordinond l'arrest da segirezza. L'arrest da segirezza na dastga betg durar dapli che 2 mais. El vegn exequì sco in curt chasti da detenziun (art. 79[^66-1]).
+<sup>2</sup> Sch'el refusa l'empermischun u sch'el na presta cun malart betg la segirezza entaifer il termin fixà, al po la dretgira obligar da far l'empermischun u da prestar la segirezza, ordinond l'arrest da segirezza. L'arrest da segirezza na dastga betg durar dapli che 2 mais. El vegn exequì sco in curt chasti da detenziun (art. 79[^66-1]).
 
 <sup>3</sup> Sch’el commetta il crim u il delict entaifer 2 onns, suenter ch’el ha prestà la segirezza, va la segirezza al stadi. Cas cuntrari al vegn restituida la segirezza.
 
@@ -1158,38 +1159,44 @@ L’autoritad cumpetenta prenda las decisiuns tenor l’alinea 1 sin basa:
 
 <sup>1</sup>
 
-Independentamain da l’autezza dal chasti expulsescha il derschader la persuna estra, ch’è vegnida sentenziada pervia d’in dals suandants malfatgs, per ina durada da 5–15 onns da la Svizra:
+Independentamain da l’autezza dal chasti expulsescha la dretgira la persuna estra, ch’è vegnida sentenziada pervia d’in dals suandants malfatgs, per ina durada da 5–15 onns da la Svizra:
 
 - a. mazzament intenziunà (art. 111), assassinat (art. 112), mazzament en affect (art. 113), instigaziun ed agid al suicidi (art. 115), interrupziun chastiabla da la gravidanza (art. 118 al. 1 e 2);
-- b. blessura corporala greva (art. 122), mutilaziun da genitalias femininas (art. 124 al. 1), metter a l’abandun (art. 127), periclitaziun da la vita (art. 129), agressiun (art. 134);
-- c. defraudaziun qualifitgada (art. 138 cifra 2), enguladitsch qualifitgà (art. 139 cifras 2 e 3), rapina (art. 140), engion da professiun (art. 146 al. 2), diever abusiv professiunal d’in indriz d’elavuraziun da datas (art. 147 al. 2), diever abusiv professiunal da cartas da schecs e da cartas da credit (art. 148 al. 2), extorsiun qualifitgada (art. 156 cifras 2–4), usura da professiun (art. 157 cifra 2), zuppentada da professiun (art. 160 cifra 2);
+- b.[^66a-2] blessura corporala greva (art. 122), mutilaziun da genitalias femininas (art. 124 al. 1), metter a l’abandun (art. 127), periclitaziun da la vita (art. 129), agressiun (art. 134), represchentaziun d’acts da violenza (art. 135 al. 1 segunda frasa);
+- c.[^66a-3] defraudaziun qualifitgada (art. 138 cifra 2), enguladitsch qualifitgà (art. 139 cifra 3), rapina (art. 140), engion da professiun (art. 146 al. 2), diever abusiv professiunal d’in indriz d’elavuraziun da datas (art. 147 al. 2), diever abusiv professiunal da cartas da schecs e da cartas da credit (art. 148 al. 2), extorsiun qualifitgada (art. 156 cifras 2–4), usura da professiun (art. 157 cifra 2), zuppentada da professiun (art. 160 cifra 2);
 - d. enguladitsch (art. 139) en cumbinaziun cun violaziun da domicil (art. 186);
 - e. engion (art. 146 al. 1) en il sectur d’ina assicuranza sociala u da l’agid social, retratga illegala da prestaziuns d’ina assicuranza sociala u da l’agid social (art. 148*a* al. 1);
-- f. engion (art. 146 al. 1), engion en chaussas da prestaziuns u da taxas (art. 14 al. 1, 2 e 4 da la LF dals 22 da mars 1974[^66a-2] davart il dretg penal administrativ) u fraud fiscal, defraudaziun da taglias a la funtauna u in auter malfatg en il sectur da las taxas da dretg public ch’è chastiabel cun in chasti da detenziun maximal dad 1 onn u dapli;
+- f.[^66a-4] engion (art. 146 al. 1), engion en chaussas da prestaziuns u da taxas (art. 14 al. 1–3 da la LF dals 22 da mars 1974[^66a-5] davart il dretg penal administrativ) u fraud fiscal, defraudaziun da taglias a la funtauna u in auter malfatg en il sectur da las taxas da dretg public ch’è chastiabel cun in chasti da detenziun maximal dad 1 onn u dapli;
 - g. maridaglia sfurzada, partenadi registrà sfurzà (art. 181*a*), commerzi cun umans (art. 182), sequestraziun da persunas e rapiment (art. 183), sequestraziun da persunas qualifitgada e rapiment qualifitgà (art. 184), rapinament d’ostagis (art. 185);
-- h.[^66a-3] acts sexuals cun uffants (art. 187 cifra 1), constricziun sexuala (art. 189), violaziun (art. 190), dischonuraziun (art. 191), promoziun da la prostituziun (art. 195), pornografia (art. 197 al. 4 segunda frasa);
-- i. incendi intenziunà (art. 221 al. 1 e 2), chaschunar intenziunadamain in’explosiun (art. 223 cifra 1 al. 1), utilisaziun da materias explosivas e da gas da tissi per intents criminals (art. 224 al. 1), periclitaziun intenziunada senza intents criminals (art. 225 al. 1), fabritgar, zuppentar e dar vinavant materias explosivas e gas da tissi (art. 226), periclitaziun tras energia nucleara, tras radioactivitad e tras radis ionisants (art. 226<sup>bis</sup>), acziuns preparatoricas chastiablas (art. 226<sup>ter</sup>), chaschunar intenziunadamain ina inundaziun u ina sbuvada (art. 227 cifra 1 al. 1), donnegiar intenziunadamain implants electrics, idraulics ed indrizs da protecziun (art. 228 cifra 1 al. 1);
-- j. periclitaziun intenziunada tras organissems modifitgads geneticamain u tras organissems patogens (art. 230<sup>bis</sup> al. 1), derasaziun intenziunada da malsognas da l’uman (art. 231 cifra 1), contaminaziun intenziunada d’aua da baiver (art. 234 al. 1);
-- k. disturbi qualifitgà dal traffic public (art. 237 cifra 1 al. 2), disturbi intenziunà dal traffic da viafier (art. 238 al. 1);
-- l.[^66a-4] acziuns preparatoricas chastiablas (art. 260<sup>bis</sup> al. 1 e 3), participaziun ad in’organisaziun criminala u terroristica u sustegn d’ina tala organisaziun (art. 260<sup>ter</sup>), periclitaziun da la segirezza publica cun armas (art. 260<sup>quater</sup>), finanziaziun dal terrorissem (art. 260<sup>quinquies</sup>), recrutaziun, instrucziun e viadis en vista ad in malfatg terroristic (art. 260<sup>sexies</sup>);
-- m. genocid (art. 264), crims cunter l’umanitad (art. 264*a*), grevas violaziuns da las Convenziuns da Genevra dals 12 d’avust 1949[^66a-5] (art. 264*c*), auters crims da guerra (art. 264*d*–264*h*);
-- n. cuntravenziun intenziunada cunter l’artitgel 116 alinea 3 u 118 alinea 3 da la Lescha federala dals 16 da december 2005[^66a-6] davart las persunas estras;
-- o. cuntravenziun cunter l’artitgel 19 alinea 2 u 20 alinea 2 da la Lescha da narcotics dals 3 d’october 1951[^66a-7] (LNarc);
-- p.[^66a-8] cuntravenziun tenor l’artitgel 74 alinea 4 da la Lescha federala dals 25 da settember 2015[^66a-9] davart il servetsch d’infurmaziun (LSI).
+- h.[^66a-6] acts sexuals cun uffants (art. 187 cifra 1), constricziun sexuala (art. 189), violaziun (art. 190), dischonuraziun (art. 191), promoziun da la prostituziun (art. 195), pornografia (art. 197 al. 4 segunda frasa);
+- i.[^66a-7] incendi intenziunà (art. 221 al. 1 e 2), chaschunar intenziunadamain in’explosiun (art. 223 cifra 1 al. 1), utilisaziun da materias explosivas e da gas da tissi per intents criminals (art. 224 al. 1), periclitaziun intenziunada senza intents criminals (art. 225 al. 1), fabritgar, zuppentar e dar vinavant materias explosivas e gas da tissi (art. 226), periclitaziun tras energia nucleara, tras radioactivitad e tras radis ionisants (art. 226<sup>bis</sup>), acziuns preparatoricas chastiablas (art. 226<sup>ter</sup>), chaschunar intenziunadamain ina inundaziun u ina sbuvada (art. 227 cifra 1 al. 1), donnegiar intenziunadamain implants electrics, idraulics ed indrizs da protecziun (art. 228 cifra 1 al. 1), periclitaziun cun violar las reglas da la scienza da construcziun (art. 229 al. 1), allontanar u betg installar indrizs da segirezza (art. 230 cifra 1);
+- j.[^66a-8] periclitaziun intenziunada tras organissems modifitgads geneticamain u tras organissems patogens (art. 230<sup>bis</sup> al. 1), derasaziun da malsognas da l’uman (art. 231), contaminaziun intenziunada d’aua da baiver (art. 234 al. 1);
+- k.[^66a-9] disturbi dal traffic public (art. 237 cifra 1);
+- l.[^66a-10] acziuns preparatoricas chastiablas (art. 260<sup>bis</sup> al. 1 e 3), participaziun ad in’organisaziun criminala u terroristica u sustegn d’ina tala organisaziun (art. 260<sup>ter</sup>), periclitaziun da la segirezza publica cun armas (art. 260<sup>quater</sup>), finanziaziun dal terrorissem (art. 260<sup>quinquies</sup>), recrutaziun, instrucziun e viadis en vista ad in malfatg terroristic (art. 260<sup>sexies</sup>);
+- m. genocid (art. 264), crims cunter l’umanitad (art. 264*a*), grevas violaziuns da las Convenziuns da Genevra dals 12 d’avust 1949[^66a-11] (art. 264*c*), auters crims da guerra (art. 264*d*–264*h*);
+- n. cuntravenziun intenziunada cunter l’artitgel 116 alinea 3 u 118 alinea 3 da la Lescha federala dals 16 da december 2005[^66a-12] davart las persunas estras;
+- o. cuntravenziun cunter l’artitgel 19 alinea 2 u 20 alinea 2 da la Lescha da narcotics dals 3 d’october 1951[^66a-13] (LNarc);
+- p.[^66a-14] cuntravenziun tenor l’artitgel 74 alinea 4 da la Lescha federala dals 25 da settember 2015[^66a-15] davart il servetsch d’infurmaziun (LSI).
 
-<sup>2</sup> Excepziunalmain po il derschader desister da pronunziar in’expulsiun, sche quella signifitgass in grev cas da direzza persunal per la persuna estra e sch’ils interess publics d’ina expulsiun na predomineschan betg ils interess privats da la persuna estra da restar vinavant en Svizra. En quest connex stoi vegnir tegnì quint da la situaziun speziala da persunas estras ch’èn naschidas e creschidas si en Svizra.
+<sup>2</sup> Excepziunalmain po la dretgira desister da pronunziar in’expulsiun, sche quella signifitgass in grev cas da direzza persunal per la persuna estra e sch’ils interess publics d’ina expulsiun na predomineschan betg ils interess privats da la persuna estra da restar vinavant en Svizra. En quest connex stoi vegnir tegnì quint da la situaziun speziala da persunas estras ch’èn naschidas e creschidas si en Svizra.
 
 <sup>3</sup> D’ina expulsiun poi plinavant vegnir desistì, sch’il malfatg è vegnì commess en ina defensiun legitima perstgisabla (art. 16 al. 1) u en in stadi d’urgenza perstgisabel (art. 18 al. 1).
 
 [^66a-1]: Integrà tras la cifra I 1 da la LF dals 20 da mars 2015 (realisaziun da l’art. 121 al. 3–6 Cst. davart l’expulsiun da persunas estras criminalas), en vigur dapi il 1. d’oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^66a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^66a-3]: La rectificaziun da la AF dals 28 da nov. 2017, publitgada ils 12 da dec. 2017, concerna mo il text franzos ([AS 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
-[^66a-4]: Versiun tenor la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^66a-5]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^66a-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^66a-7]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^66a-8]: Integrà tras la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^66a-9]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^66a-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-3]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-4]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^66a-6]: La rectificaziun da la AF dals 28 da nov. 2017, publitgada ils 12 da dec. 2017, concerna mo il text franzos ([AS 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
+[^66a-7]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-8]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-9]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^66a-10]: Versiun tenor la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-11]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^66a-12]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^66a-13]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^66a-14]: Integrà tras la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 ### b. Expulsiun betg obligatorica
 
@@ -1197,7 +1204,7 @@ Independentamain da l’autezza dal chasti expulsescha il derschader la persuna 
 
 [^66abis-1]
 
-Il derschader po expulsar ina persuna estra per ina durada da 3–15 onns da la Svizra, sch’ella vegn sentenziada ad in chasti u sch’i vegn ordinada cunter ella ina mesira tenor ils artitgels 59–61 u 64 pervia d’in crim u d’in delict betg previs en l’artitgel 66*a*.
+La dretgira po expulsar ina persuna estra per ina durada da 3–15 onns da la Svizra, sch’ella vegn sentenziada ad in chasti u sch’i vegn ordinada cunter ella ina mesira tenor ils artitgels 59–61 u 64 pervia d’in crim u d’in delict betg previs en l’artitgel 66*a*.
 
 [^66abis-1]: Integrà tras la cifra I 1 da la LF dals 20 da mars 2015 (realisaziun da l’art. 121 al. 3–6 Cst. davart l’expulsiun da persunas estras criminalas), en vigur dapi il 1. d’oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
@@ -1258,15 +1265,15 @@ L’execuziun da l’expulsiun obligatorica tenor l’artitgel 66*a* po vegnir s
 
 [^67-1]
 
-<sup>1</sup> Sch’insatgi ha, pratitgond in’activitad professiunala u in’activitad extraprofessiunala organisada, commess in crim u in delict, per il qual el è vegnì sentenzià ad in chasti da detenziun da passa 6 mais, e sch’ins sto temair ch’el fetschia abus da sia activitad per commetter ulteriurs crims u delicts, al po il derschader scumandar dal tuttafatg u per part l’activitad respectiva u activitads cumparegliablas per ina durada da 6 mais fin 5 onns.[^67-2]
+<sup>1</sup> Sch’insatgi ha, pratitgond in’activitad professiunala u in’activitad extraprofessiunala organisada, commess in crim u in delict, per il qual el è vegnì sentenzià ad in chasti da detenziun da passa 6 mais, e sch’ins sto temair ch’el fetschia abus da sia activitad per commetter ulteriurs crims u delicts, al po la dretgira scumandar dal tuttafatg u per part l’activitad respectiva u activitads cumparegliablas per ina durada da 6 mais fin 5 onns.[^67-2]
 
-<sup>2</sup> Schʼinsatgi ha commess in crim u in delict cunter ina persuna minorenna u cunter inʼautra persuna cun in basegn da protecziun spezial e schʼins sto temair chʼel commettia ulteriurs malfatgs da quest gener, pratitgond inʼactivitad professiunala u inʼactivitad extraprofessiunala organisada che cumpiglia in contact regular cun persunas minorennas u cun autras persunas cun in basegn da protecziun spezial, al po il derschader scumandar lʼactivitad respectiva per ina durada dad 1 fin 10 onns.
+<sup>2</sup> Schʼinsatgi ha commess in crim u in delict cunter ina persuna minorenna u cunter inʼautra persuna cun in basegn da protecziun spezial e schʼins sto temair chʼel commettia ulteriurs malfatgs da quest gener, pratitgond inʼactivitad professiunala u inʼactivitad extraprofessiunala organisada che cumpiglia in contact regular cun persunas minorennas u cun autras persunas cun in basegn da protecziun spezial, al po la dretgira scumandar lʼactivitad respectiva per ina durada dad 1 fin 10 onns.
 
-<sup>2bis</sup> Il derschader po pronunziar il scumond tenor l'alinea 2 per vita duranta, sch'ins sto spetgar ch'ina durada da 10 onns na bastia betg per ch'il delinquent na saja betg pli privlus. Sin dumonda da l'autoritad d'execuziun po il derschader prolungar in scumond da durada limitada tenor l'alinea 2 per mintgamai maximalmain 5 onns, sche quai è necessari per impedir ch'il delinquent commettia ulteriurs crims e delicts sco quels ch'èn stads il motiv per il scumond.[^67-3]
+<sup>2bis</sup> La dretgira po pronunziar il scumond tenor l'alinea 2 per vita duranta, sch'ins sto spetgar ch'ina durada da 10 onns na bastia betg per ch'il delinquent na saja betg pli privlus. Sin dumonda da l'autoritad d'execuziun po la dretgira prolungar in scumond da durada limitada tenor l'alinea 2 per mintgamai maximalmain 5 onns, sche quai è necessari per impedir ch'il delinquent commettia ulteriurs crims e delicts sco quels ch'èn stads il motiv per il scumond.[^67-3]
 
 <sup>3</sup>
 
-Sch'insatgi è vegnì sentenzià ad in chasti u sch'igl è vegnida ordinada ina mesira tenor ils artitgels 59–61, 63 u 64 cunter el pervia d'in dals suandants malfatgs, al scumonda il derschader per vita duranta mintga activitad professiunala e mintga activitad extraprofessiunala organisada che cumpiglia in contact regular cun persunas minorennas:
+Sch'insatgi è vegnì sentenzià ad in chasti u sch'igl è vegnida ordinada ina mesira tenor ils artitgels 59–61, 63 u 64 cunter el pervia d'in dals suandants malfatgs, al scumonda la dretgira per vita duranta mintga activitad professiunala e mintga activitad extraprofessiunala organisada che cumpiglia in contact regular cun persunas minorennas:
 
 - a. commerzi cun umans (art. 182), sch'el ha commess il malfatg cunter ina victima minorenna cun l'intent da l'explotar sexualmain;
 - b. acts sexuals cun uffants (art. 187), acts sexuals cun persunas dependentas (art. 188) u acts sexuals cun persunas minorennas cunter indemnisaziun (art. 196);
@@ -1280,7 +1287,7 @@ Sch'insatgi è vegnì sentenzià ad in chasti u sch'igl è vegnida ordinada ina 
 
 <sup>4</sup>
 
-Sch'insatgi è vegnì sentenzià ad in chasti u sch'igl è vegnida ordinada ina mesira tenor ils artitgels 59–61, 63 u 64 cunter el pervia d'in dals suandants malfatgs, al scumonda il derschader per vita duranta mintga activitad professiunala e mintga activitad extraprofessiunala organisada che cumpiglia in contact regular cun persunas maiorennas cun in basegn da protecziun spezial sco er mintga activitad professiunala u mintga activitad extraprofessiunala organisada en il sectur da sanadad cun contact direct cun pazients:
+Sch'insatgi è vegnì sentenzià ad in chasti u sch'igl è vegnida ordinada ina mesira tenor ils artitgels 59–61, 63 u 64 cunter el pervia d'in dals suandants malfatgs, al scumonda la dretgira per vita duranta mintga activitad professiunala e mintga activitad extraprofessiunala organisada che cumpiglia in contact regular cun persunas maiorennas cun in basegn da protecziun spezial sco er mintga activitad professiunala u mintga activitad extraprofessiunala organisada en il sectur da sanadad cun contact direct cun pazients:
 
 - a.
 
@@ -1298,14 +1305,14 @@ Sch'insatgi è vegnì sentenzià ad in chasti u sch'igl è vegnida ordinada ina 
 
 <sup>4bis</sup>
 
-En cas spezialmain levs po il derschader desister excepziunalmain d'ordinar in scumond d'activitad tenor l'alinea 3 u 4, sch'in tal scumond na para betg necessari per preservar il delinquent da commetter ulteriurs malfatgs sco quels ch'èn stads il motiv per il scumond. Da l'ordinaziun d'in scumond d'activitad na dastgi però betg vegnir desistì, sch'il delinquent:
+En cas spezialmain levs po la dretgira desister excepziunalmain d'ordinar in scumond d'activitad tenor l'alinea 3 u 4, sch'in tal scumond na para betg necessari per preservar il delinquent da commetter ulteriurs malfatgs sco quels ch'èn stads il motiv per il scumond. Da l'ordinaziun d'in scumond d'activitad na dastgi però betg vegnir desistì, sch'il delinquent:
 
 - a. è sentenzià pervia da commerzi cun umans (art. 182), constricziun sexuala (art. 189), violaziun (art. 190), dischonuraziun (art. 191) u promoziun da la prostituziun (art. 195); u
 - b. è pedofil tenor ils criteris da classificaziun renconuschids internaziunalmain.[^67-6]
 
-<sup>5</sup> Sch'in delinquent vegn sentenzià ad in chasti u sch'ina mesira vegn ordinada cunter el en la medema procedura pervia da plirs malfatgs, fixescha il derschader, tge part dal chasti u tge mesira che vegn pronunziada per in malfatg, dal qual resulta in scumond d'activitad. Questa part dal chasti, la mesira sco er il malfatg èn decisivs per pronunziar in scumond d'activitad tenor l'alinea 1, 2, 2<sup>bis</sup>, 3 u 4. Las parts dals chastis per plirs malfatgs respectivs vegnan quintadas ensemen. Il derschader po pronunziar plirs scumonds d'activitad.[^67-7]
+<sup>5</sup> Sch'in delinquent vegn sentenzià ad in chasti u sch'ina mesira vegn ordinada cunter el en la medema procedura pervia da plirs malfatgs, fixescha la dretgira, tge part dal chasti u tge mesira che vegn pronunziada per in malfatg, dal qual resulta in scumond d'activitad. Questa part dal chasti, la mesira sco er il malfatg èn decisivs per pronunziar in scumond d'activitad tenor l'alinea 1, 2, 2<sup>bis</sup>, 3 u 4. Las parts dals chastis per plirs malfatgs respectivs vegnan quintadas ensemen. La dretgira po pronunziar plirs scumonds d'activitad.[^67-7]
 
-<sup>6</sup> Il derschader po ordinar in'assistenza da reabilitaziun per la durada dals scumonds.[^67-8]
+<sup>6</sup> La dretgira po ordinar in'assistenza da reabilitaziun per la durada dals scumonds.[^67-8]
 
 <sup>7</sup> …[^67-9]
 
@@ -1365,11 +1372,11 @@ Sco activitads cun in contact regular cun persunas minorennas u cun autras persu
 
 [^67b-1]
 
-<sup>1</sup> Schʼinsatgi ha commess in crim u in delict cunter ina u pliras tschertas persunas u cunter persunas dʼina tscherta gruppa e schʼins sto temair chʼel commettia ulteriurs crims u delicts en cas chʼel ha contact cun questas persunas, po il derschader pronunziar in scumond da contact e dʼareal per ina durada da fin 5 onns.
+<sup>1</sup> Schʼinsatgi ha commess in crim u in delict cunter ina u pliras tschertas persunas u cunter persunas dʼina tscherta gruppa e schʼins sto temair chʼel commettia ulteriurs crims u delicts en cas chʼel ha contact cun questas persunas, po la dretgira pronunziar in scumond da contact e dʼareal per ina durada da fin 5 onns.
 
 <sup>2</sup>
 
-Ensemen cun il scumond da contact e dʼareal po il derschader scumandar al delinquent:
+Ensemen cun il scumond da contact e dʼareal po la dretgira scumandar al delinquent:
 
 - a. dʼentrar en contact, directamain u sur terzas persunas, cun ina u cun pliras tschertas persunas u cun persunas dʼina tscherta gruppa, en spezial per telefon, en scrit u sin via electronica, dʼengaschar, da dar alloschi, da scolar, da survegliar, da tgirar questas persunas u da las contactar en autra moda;
 - b. da sʼavischinar ad ina tscherta persuna u da sa trategnair en in tschert conturn da sia abitaziun;
@@ -1377,9 +1384,9 @@ Ensemen cun il scumond da contact e dʼareal po il derschader scumandar al delin
 
 <sup>3</sup> Per exequir il scumond po lʼautoritad cumpetenta applitgar apparats tecnics chʼèn fixads vi dal delinquent. Quests apparats pon servir en spezial a localisar il delinquent.
 
-<sup>4</sup> Il derschader po ordinar inʼassistenza da reabilitaziun per la durada dal scumond.
+<sup>4</sup> La dretgira po ordinar inʼassistenza da reabilitaziun per la durada dal scumond.
 
-<sup>5</sup> Sin dumonda da las autoritads dʼexecuziun po il derschader prolungar il scumond per mintgamai maximalmain 5 onns, sche quai è necessari per impedir chʼil delinquent commettia ulteriurs crims e delicts cunter persunas minorennas u cunter autras persunas cun in basegn da protecziun spezial.
+<sup>5</sup> Sin dumonda da las autoritads dʼexecuziun po la dretgira prolungar il scumond per mintgamai maximalmain 5 onns, sche quai è necessari per impedir chʼil delinquent commettia ulteriurs crims e delicts cunter persunas minorennas u cunter autras persunas cun in basegn da protecziun spezial.
 
 [^67b-1]: Integrà tras la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
@@ -1412,7 +1419,7 @@ Il delinquent po dumandar lʼautoritad cumpetenta, schʼella restrenschia il cun
 
 <sup>6bis</sup> Ils scumonds tenor l'artitgel 67 alinea 3 u 4 na pon betg vegnir abolids.[^67c-4]
 
-<sup>7</sup> Schʼil sentenzià nʼobserva betg in scumond dʼactivitad u in scumond da contact e dʼareal u schʼel refusa lʼassistenza da reabilitaziun chʼè colliada cun in tal scumond u sche lʼassistenza da reabilitaziun na po betg pli vegnir realisada u nʼè betg pli necessaria, suttametta lʼautoritad cumpetenta in rapport al derschader u a las autoritads dʼexecuziun. Il derschader u lʼautoritad dʼexecuziun po abolir lʼassistenza da reabilitaziun u ordinar ina nova.
+<sup>7</sup> Schʼil sentenzià nʼobserva betg in scumond dʼactivitad u in scumond da contact e dʼareal u schʼel refusa lʼassistenza da reabilitaziun chʼè colliada cun in tal scumond u sche lʼassistenza da reabilitaziun na po betg pli vegnir realisada u nʼè betg pli necessaria, suttametta lʼautoritad cumpetenta in rapport a la dretgira u a las autoritads dʼexecuziun. La dretgira u lʼautoritad dʼexecuziun po abolir lʼassistenza da reabilitaziun u ordinar ina nova.
 
 <sup>7bis</sup> L'autoritad d'execuziun po ordinar in'assistenza da reabilitaziun per l'entira durada dal scumond d'activitad u dal scumond da contact e d'areal.[^67c-5]
 
@@ -1432,9 +1439,9 @@ Il delinquent po dumandar lʼautoritad cumpetenta, schʼella restrenschia il cun
 
 [^67d-1]
 
-<sup>1</sup> Schʼi sa mussa durant lʼexecuziun dʼin scumond dʼactivitad u dʼin scumond da contact e dʼareal chʼil delinquent ademplescha las premissas per extender il scumond u per pronunziar in ulteriur scumond da tal gener, po il derschader extender posteriuramain il scumond u ordinar posteriuramain in scumond supplementar sin proposta da las autoritads dʼexecuziun.
+<sup>1</sup> Schʼi sa mussa durant lʼexecuziun dʼin scumond dʼactivitad u dʼin scumond da contact e dʼareal chʼil delinquent ademplescha las premissas per extender il scumond u per pronunziar in ulteriur scumond da tal gener, po la dretgira extender posteriuramain il scumond u ordinar posteriuramain in scumond supplementar sin proposta da las autoritads dʼexecuziun.
 
-<sup>2</sup> Schʼi sa mussa durant lʼexecuziun dʼin chasti u dʼina mesira da detenziun chʼil delinquent ademplescha las premissas per in scumond tenor lʼartitgel 67 alinea 1 u 2 u tenor lʼartitgel 67*b*, po il derschader ordinar posteriuramain quest scumond sin proposta da lʼautoritad dʼexecuziun.
+<sup>2</sup> Schʼi sa mussa durant lʼexecuziun dʼin chasti u dʼina mesira da detenziun chʼil delinquent ademplescha las premissas per in scumond tenor lʼartitgel 67 alinea 1 u 2 u tenor lʼartitgel 67*b*, po la dretgira ordinar posteriuramain quest scumond sin proposta da lʼautoritad dʼexecuziun.
 
 [^67d-1]: Integrà tras la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
@@ -1444,7 +1451,7 @@ Il delinquent po dumandar lʼautoritad cumpetenta, schʼella restrenschia il cun
 
 [^67e-1]
 
-Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in delict e schʼins sto temair chʼel fetschia ulteriurs abus, po il derschader ordinar – ultra dʼin chasti u dʼina mesira tenor ils artitgels 59–64 – la retratga dal permiss per emprender a manischar u dal permiss da manischar per ina durada dad 1 mais fin 5 onns.
+Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in delict e schʼins sto temair chʼel fetschia ulteriurs abus, po la dretgira ordinar – ultra dʼin chasti u dʼina mesira tenor ils artitgels 59–64 – la retratga dal permiss per emprender a manischar u dal permiss da manischar per ina durada dad 1 mais fin 5 onns.
 
 [^67e-1]: Oriundamain: art. 67*b.*
 
@@ -1458,13 +1465,13 @@ Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in de
 
 #### Art. 68
 
-<sup>1</sup> Sche l’interess public, l’interess dal violà u l’interess da la persuna che ha il dretg da purtar plant pretenda quai, ordinescha il derschader la publicaziun da la sentenzia penala sin donn e cust dal sentenzià.
+<sup>1</sup> Sche l’interess public, l’interess dal violà u l’interess da la persuna che ha il dretg da purtar plant pretenda quai, ordinescha la dretgira la publicaziun da la sentenzia penala sin donn e cust dal sentenzià.
 
-<sup>2</sup> Sche l’interess public, l’interess da l’acquittà u l’interess dal distgargià pretenda quai, ordinescha il derschader la publicaziun d’ina sentenzia acquittanta u d’ina disposiziun da sistida da l’autoritad da persecuziun penala sin donn e cust dal stadi u dal denunziant.
+<sup>2</sup> Sche l’interess public, l’interess da l’acquittà u l’interess dal distgargià pretenda quai, ordinescha la dretgira la publicaziun d’ina sentenzia acquittanta u d’ina disposiziun da sistida da l’autoritad da persecuziun penala sin donn e cust dal stadi u dal denunziant.
 
 <sup>3</sup> La publicaziun en l’interess dal violà, da la persuna che ha il dretg da purtar plant, da l’acquittà u dal distgargià ha lieu mo sin lur dumonda.
 
-<sup>4</sup> Il derschader fixescha il gener e la dimensiun da la publicaziun.
+<sup>4</sup> La dretgira fixescha il gener e la dimensiun da la publicaziun.
 
 ### 5. Confiscaziun.
 
@@ -1472,9 +1479,9 @@ Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in de
 
 #### Art. 69
 
-<sup>1</sup> Independentamain da la chastiabladad d’ina tscherta persuna dispona il derschader la confiscaziun d’objects che han servì u ch’eran destinads a commetter in malfatg u ch’èn vegnidas acquistadas tras in malfatg, sche quests objects pericliteschan la segirezza d’umans, la morala u l’urden public.
+<sup>1</sup> Independentamain da la chastiabladad d’ina tscherta persuna dispona la dretgira la confiscaziun d’objects che han servì u ch’eran destinads a commetter in malfatg u ch’èn vegnidas acquistadas tras in malfatg, sche quests objects pericliteschan la segirezza d’umans, la morala u l’urden public.
 
-<sup>2</sup> Il derschader po ordinar ch’ils objects confiscads vegnian mess ord diever u vegnian destruids.
+<sup>2</sup> La dretgira po ordinar ch’ils objects confiscads vegnian mess ord diever u vegnian destruids.
 
 ### b. Confiscaziun da valurs da facultad.
 
@@ -1482,7 +1489,7 @@ Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in de
 
 #### Art. 70
 
-<sup>1</sup> Il derschader dispona la confiscaziun da valurs da facultad ch’èn vegnidas acquistadas tras in malfatg u ch’eran destinadas ad incitar in delinquent u a remunerar in malfatg, nun ch’ellas vegnian surdadas al violà per restabilir il stadi legal.
+<sup>1</sup> La dretgira dispona la confiscaziun da valurs da facultad ch’èn vegnidas acquistadas tras in malfatg u ch’eran destinadas ad incitar in delinquent u a remunerar in malfatg, nun ch’ellas vegnian surdadas al violà per restabilir il stadi legal.
 
 <sup>2</sup> La confiscaziun è exclusa, sch’ina terza persuna ha acquistà las valurs da facultad senza enconuscher ils motivs per lur confiscaziun, uschenavant ch’ella ha furnì ina cuntraprestaziun equivalenta per ellas u uschenavant che la confiscaziun fiss ina direzza sproporziunada per ella.
 
@@ -1490,15 +1497,15 @@ Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in de
 
 <sup>4</sup> La confiscaziun sto vegnir publitgada uffizialmain. Ils dretgs da persunas violadas u da terzas persunas extinguan 5 onns suenter questa publicaziun uffiziala.
 
-<sup>5</sup> Sche la dimensiun da las valurs da facultad che duain vegnir confiscadas na po betg vegnir eruida u po vegnir eruida mo cun meds sproporziunads, la po il derschader laschar stimar.
+<sup>5</sup> Sche la dimensiun da las valurs da facultad che duain vegnir confiscadas na po betg vegnir eruida u po vegnir eruida mo cun meds sproporziunads, la po la dretgira laschar stimar.
 
 ### Pretensiuns d’indemnisaziun
 
 #### Art. 71
 
-<sup>1</sup> Sche las valurs da facultad che duain vegnir confiscadas n’èn betg pli avant maun, pronunzia il derschader ina pretensiun d’indemnisaziun dal stadi da la medema autezza; vers ina terza persuna po ina tala dentant vegnir pronunziada mo, uschenavant che quai n’è betg exclus tenor l’artitgel 70 alinea 2.
+<sup>1</sup> Sche las valurs da facultad che duain vegnir confiscadas n’èn betg pli avant maun, pronunzia la dretgira ina pretensiun d’indemnisaziun dal stadi da la medema autezza; vers ina terza persuna po ina tala dentant vegnir pronunziada mo, uschenavant che quai n’è betg exclus tenor l’artitgel 70 alinea 2.
 
-<sup>2</sup> Il derschader po desister dal tuttafatg u per part d’ina pretensiun d’indemnisaziun, sche quella fiss previsiblamain nunincassabla u impediss seriusamain la reintegraziun dal pertutgà.
+<sup>2</sup> La dretgira po desister dal tuttafatg u per part d’ina pretensiun d’indemnisaziun, sche quella fiss previsiblamain nunincassabla u impediss seriusamain la reintegraziun dal pertutgà.
 
 <sup>3</sup> En vista a l’execuziun d’ina pretensiun d’indemnisaziun po l’autoritad d’inquisiziun sequestrar valurs da facultad dal pertutgà. La sequestraziun na constituescha nagin privilegi a favur dal stadi en il rom da l’execuziun sfurzada da la pretensiun d’indemnisaziun.
 
@@ -1508,7 +1515,7 @@ Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in de
 
 [^72-1]
 
-Il derschader dispona la confiscaziun da tut las valurs da facultad, da las qualas in’organisaziun criminala u terroristica ha la pussanza da disponer. En cas da valurs da facultad d’ina persuna che sa participescha u che ha sustegnì ina tala organisaziun (art. 260<sup>ter</sup>), vegni supponì che l’organisaziun criminala haja la pussanza da disponer, fin ch’igl è cumprovà il cuntrari.
+La dretgira dispona la confiscaziun da tut las valurs da facultad, da las qualas in’organisaziun criminala u terroristica ha la pussanza da disponer. En cas da valurs da facultad d’ina persuna che sa participescha u che ha sustegnì ina tala organisaziun (art. 260<sup>ter</sup>), vegni supponì che l’organisaziun criminala haja la pussanza da disponer, fin ch’igl è cumprovà il cuntrari.
 
 [^72-1]: Versiun tenor la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1518,14 +1525,14 @@ Il derschader dispona la confiscaziun da tut las valurs da facultad, da las qual
 
 <sup>1</sup>
 
-Sch’insatgi subescha – tras in crim u tras in delict – in donn che n’è betg cuvert tras in’assicuranza, e sch’ins sto temair ch’il delinquent na vegnia ni ad indemnisar il donn ni a prestar ina satisfacziun, conceda il derschader al donnegià, sin sia dumonda, fin a l’autezza da l’indemnisaziun respectivamain da la satisfacziun, ch’èn vegnidas fixadas tras il derschader u tras ina enclegientscha:
+Sch’insatgi subescha – tras in crim u tras in delict – in donn che n’è betg cuvert tras in’assicuranza, e sch’ins sto temair ch’il delinquent na vegnia ni ad indemnisar il donn ni a prestar ina satisfacziun, conceda la dretgira al donnegià, sin sia dumonda, fin a l’autezza da l’indemnisaziun respectivamain da la satisfacziun, ch’èn vegnidas fixadas tras la dretgira u tras ina enclegientscha:
 
 - a. la summa dal chasti pecuniar u da la multa ch’è vegnida pajada dal sentenzià;
 - b. objects e valurs da facultad confiscads u il retgav da lur utilisaziun, cun deducziun da las spesas;
 - c. pretensiuns d’indemnisaziun;
 - d. l’import da la cauziun preventiva.
 
-<sup>2</sup> Il derschader po dentant mo ordinar questa utilisaziun a favur dal donnegià, sch’il donnegià ceda al stadi la part correspundenta da sias pretensiuns.
+<sup>2</sup> La dretgira po dentant mo ordinar questa utilisaziun a favur dal donnegià, sch’il donnegià ceda al stadi la part correspundenta da sias pretensiuns.
 
 <sup>3</sup> Per il cas che questa concessiun n’è betg gia pussaivla en la sentenzia penala, prevesan ils chantuns ina procedura simpla e speditiva.
 
@@ -1792,7 +1799,7 @@ Sch’il praschunier è qualifitgà, stoi vegnir dà ad el – sche pussaivel �
 
 <sup>2</sup> L’autoritad d’execuziun ordinescha per regla per la durada dal temp d’emprova in’assistenza da reabilitaziun. Quella po dar directivas a la persuna ch’è vegnida relaschada cundiziunadamain.
 
-<sup>3</sup> Sch’igl ha gì lieu ina relaschada cundiziunada or d’in chasti da detenziun, il qual è vegnì ordinà pervia d’in malfatg tenor l’artitgel 64 alinea 1, e sch’i para a la fin dal temp d’emprova che l’assistenza da reabilitaziun u che las directivas sajan necessarias er vinavant per impedir ulteriurs malfatgs da quest gener, po il derschader – sin dumonda da l’autoritad d’execuziun – prolungar l’assistenza da reabilitaziun u las directivas mintgamai per 1 fin 5 onns u ordinar novas directivas per quest temp. La reintegraziun en l’execuziun da chastis u da mesiras tenor l’artitgel 95 alinea 5 n’è betg pussaivla en quest cas.
+<sup>3</sup> Sch’igl ha gì lieu ina relaschada cundiziunada or d’in chasti da detenziun, il qual è vegnì ordinà pervia d’in malfatg tenor l’artitgel 64 alinea 1, e sch’i para a la fin dal temp d’emprova che l’assistenza da reabilitaziun u che las directivas sajan necessarias er vinavant per impedir ulteriurs malfatgs da quest gener, po la dretgira – sin dumonda da l’autoritad d’execuziun – prolungar l’assistenza da reabilitaziun u las directivas mintgamai per 1 fin 5 onns u ordinar novas directivas per quest temp. La reintegraziun en l’execuziun da chastis u da mesiras tenor l’artitgel 95 alinea 5 n’è betg pussaivla en quest cas.
 
 ### c. Success dal temp d’emprova
 
@@ -1804,9 +1811,9 @@ Sche la persuna ch’è vegnida relaschada cundiziunadamain sa cumprova fin a la
 
 #### Art. 89
 
-<sup>1</sup> Sche la persuna ch’è vegnida relaschada cundiziunadamain commetta in crim u in delict durant il temp d’emprova, ordinescha il derschader ch’è stà cumpetent per giuditgar l’emprim malfatg la reintegraziun.
+<sup>1</sup> Sche la persuna ch’è vegnida relaschada cundiziunadamain commetta in crim u in delict durant il temp d’emprova, ordinescha la dretgira ch’è stada cumpetenta per giuditgar l’emprim malfatg la reintegraziun.
 
-<sup>2</sup> Sch’ins na sto betg temair – malgrà il crim u il delict commess durant il temp d’emprova – ch’il sentenzià commettia ulteriurs malfatgs, desista il derschader da la reintegraziun. El po admonir il sentenzià u prolungar il temp d’emprova per maximalmain la mesadad da la durada che l’autoritad cumpetenta aveva fixà oriundamain. Sche la prolungaziun vegn ordinada pir suenter ch’il temp d’emprova è scadì, cumenza ella il di da l’ordinaziun. Las disposiziuns davart l’assistenza da reabilitaziun e davart las directivas èn applitgablas (art. 93–95).
+<sup>2</sup> Sch’ins na sto betg temair – malgrà il crim u il delict commess durant il temp d’emprova – ch’il sentenzià commettia ulteriurs malfatgs, desista la dretgira da la reintegraziun. Ella po admonir il sentenzià u prolungar il temp d’emprova per maximalmain la mesadad da la durada che l’autoritad cumpetenta aveva fixà oriundamain. Sche la prolungaziun vegn ordinada pir suenter ch’il temp d’emprova è scadì, cumenza ella il di da l’ordinaziun. Las disposiziuns davart l’assistenza da reabilitaziun e davart las directivas èn applitgablas (art. 93–95).
 
 <sup>3</sup> Sche la persuna ch’è vegnida relaschada cundiziunadamain sa sustira da l’assistenza da reabilitaziun u sch’ella cuntrafa a las directivas, è applitgabel l’artitgel 95 alineas 3–5.
 
@@ -1814,7 +1821,7 @@ Sche la persuna ch’è vegnida relaschada cundiziunadamain sa cumprova fin a la
 
 <sup>5</sup> L’arrest d’inquisiziun ch’il delinquent ha expià durant la procedura da la reintegraziun sto vegnir mess a quint al rest dal chasti.
 
-<sup>6</sup> Sche las premissas per in chasti da detenziun nuncundiziunà èn ademplidas sin basa dal nov malfatg e sche quest chasti coincida cun in chasti restant ch’è daventà exequibel pervia da la revocaziun, furma il derschader in chasti total en applicaziun da l’artitgel 49. Per quest chasti èn puspè applitgablas las reglas da la relaschada cundiziunada. Sch’i vegn exequì mo il chasti, è applitgabel l’artitgel 86 alineas 1–4.
+<sup>6</sup> Sche las premissas per in chasti da detenziun nuncundiziunà èn ademplidas sin basa dal nov malfatg e sche quest chasti coincida cun in chasti restant ch’è daventà exequibel pervia da la revocaziun, furma la dretgira in chasti total en applicaziun da l’artitgel 49. Per quest chasti èn puspè applitgablas las reglas da la relaschada cundiziunada. Sch’i vegn exequì mo il chasti, è applitgabel l’artitgel 86 alineas 1–4.
 
 <sup>7</sup> Sch’in chasti restant ch’è daventà exequibel pervia da la reintegraziun coincida cun l’execuziun d’ina mesira tenor ils artitgels 59–61, è applitgabel l’artitgel 57 alineas 2 e 3.
 
@@ -1916,27 +1923,27 @@ Las victimas ed ils confamigliars da la victima en il senn da l’artitgel 1 ali
 
 #### Art. 94
 
-Las directivas ch’il derschader u l’autoritad d’execuziun po dar al sentenzià per il temp d’emprova pertutgan particularmain il pratitgar la professiun, la dimora, il manischar in vehichel a motor, l’indemnisaziun dal donn sco er l’assistenza medicinala e psicologica.
+Las directivas che la dretgira u l’autoritad d’execuziun po dar al sentenzià per il temp d’emprova pertutgan particularmain il pratitgar la professiun, la dimora, il manischar in vehichel a motor, l’indemnisaziun dal donn sco er l’assistenza medicinala e psicologica.
 
 ### Disposiziuns cuminaivlas
 
 #### Art. 95
 
-<sup>1</sup> Avant che decider davart lʼassistenza da reabilitaziun e davart las directivas pon il derschader e lʼautoritad dʼexecuziun dumandar in rapport da lʼautoritad chʼè cumpetenta per lʼassistenza da reabilitaziun, per la controlla da las directivas u per lʼexecuziun dals scumonds dʼactivitad u dals scumonds da contact e dʼareal.[^95-1] Il pertutgà po prender posiziun davart quest rapport. Posiziuns divergentas ston vegnir menziunadas en il rapport.
+<sup>1</sup> Avant che decider davart lʼassistenza da reabilitaziun e davart las directivas pon la dretgira e lʼautoritad dʼexecuziun dumandar in rapport da lʼautoritad chʼè cumpetenta per lʼassistenza da reabilitaziun, per la controlla da las directivas u per lʼexecuziun dals scumonds dʼactivitad u dals scumonds da contact e dʼareal.[^95-1] Il pertutgà po prender posiziun davart quest rapport. Posiziuns divergentas ston vegnir menziunadas en il rapport.
 
 <sup>2</sup> L’assistenza da reabilitaziun e las directivas ston vegnir ordinadas e motivadas en la sentenzia u en la decisiun.
 
-<sup>3</sup> Schʼil sentenzià refusa lʼassistenza da reabilitaziun u schʼel violescha las directivas ubain sche lʼassistenza da reabilitaziun u las directivas na pon betg pli vegnir realisadas u nʼèn betg pli necessarias, preschenta lʼautoritad cumpetenta in rapport al derschader u a las autoritads dʼexecuziun.
+<sup>3</sup> Schʼil sentenzià refusa lʼassistenza da reabilitaziun u schʼel violescha las directivas ubain sche lʼassistenza da reabilitaziun u las directivas na pon betg pli vegnir realisadas u nʼèn betg pli necessarias, preschenta lʼautoritad cumpetenta in rapport a la dretgira u a las autoritads dʼexecuziun.
 
 <sup>4</sup>
 
-En ils cas tenor l’alinea 3 po il derschader u l’autoritad d’execuziun:
+En ils cas tenor l’alinea 3 po la dretgira u l’autoritad d’execuziun:
 
 - a. prolungar il temp d’emprova per la mesadad;
 - b. abolir l’assistenza da reabilitaziun u l’ordinar da nov;
 - c. midar las directivas, las abolir u ordinar novas.
 
-<sup>5</sup> En ils cas tenor l’alinea 3 po il derschader revocar il chasti cundiziunà u ordinar la reintegraziun en l’execuziun da chastis u da mesiras, sch’igl è da temair seriusamain ch’il sentenzià commettia novs malfatgs.
+<sup>5</sup> En ils cas tenor l’alinea 3 po la dretgira revocar il chasti cundiziunà u ordinar la reintegraziun en l’execuziun da chastis u da mesiras, sch’igl è da temair seriusamain ch’il sentenzià commettia novs malfatgs.
 
 [^95-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
@@ -2027,7 +2034,7 @@ Nunsurannabels èn:
 - d. crims che han – sco med d’extorsiun u da constricziun – periclità u smanatschà da periclitar il corp e la vita da blers umans, particularmain cun far diever da meds da destrucziun en massa, cun chaschunar catastrofas u cun prender ostagis;
 - e.[^101-1] acts sexuals cun uffants (art. 187 cifra 1), constricziuns sexualas (art. 189), violaziuns (art. 190), dischonuraziuns (art. 191), acts sexuals cun persunas ricoveradas, arrestadas, accusadas (art. 192 al. 1) e profitar da la situaziun d’urgenza (art. 193 al. 1), sche quests malfatgs èn vegnids commess cunter uffants sut 12 onns.[^101-2]
 
-<sup>2</sup> Il derschader po levgiar il chasti, sche la persecuziun penala fiss surannada applitgond ils artitgels 97 e 98.
+<sup>2</sup> La dretgira po levgiar il chasti, sche la persecuziun penala fiss surannada applitgond ils artitgels 97 e 98.
 
 <sup>3</sup> L’alinea 1 literas a, c e d sco er l’alinea 2 valan, sche la persecuziun penala u il chasti n’era anc betg surannà il 1. da schaner 1983 tenor il dretg applitgabel fin a quella data. L’alinea 1 litera b vala, sche la persecuziun penala u il chasti n’era anc betg surannà tenor il dretg vertent, cura che la midada dals 18 da zercladur 2010 da questa lescha è entrada en vigur. L’alinea 1 litera e vala, sche la persecuziun penala u il chasti n’era anc betg surannà ils 30 da november 2008 tenor il dretg applitgabel fin a quella data.[^101-3] [^101-4]
 
@@ -2042,11 +2049,11 @@ Nunsurannabels èn:
 
 #### Art. 102
 
-<sup>1</sup> Sch’i vegn commess en ina interpresa in crim u in delict exequind las fatschentas en il rom da l’intent da l’interpresa e sche quest malfatg na po betg vegnir attribuì ad ina tscherta persuna natirala pervia d’ina organisaziun manglusa da l’interpresa, vegn il crim u il delict attribuì a l’interpresa. En quest cas vegn l’interpresa chastiada cun ina multa fin a 5 milliuns francs.
+<sup>1</sup> Sch’i vegn commess en ina interpresa in crim u in delict exequind las fatschentas en il rom da l’intent da l’interpresa e sche quest malfatg na po betg vegnir attribuì ad ina tscherta persuna natirala pervia d’ina organisaziun manglusa da l’interpresa, vegn il crim u il delict attribuì a l’interpresa. En quest cas vegn l’interpresa chastiada cun ina multa da fin 5 milliuns francs.
 
 <sup>2</sup> Sch’i sa tracta en quest connex d’in malfatg tenor ils artitgels 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 322<sup>ter</sup>, 322<sup>quinquies</sup>, 322<sup>septies</sup> alinea 1 u 322<sup>octies</sup>, vegn l’interpresa chastiada independentamain da la chastiabladad da persunas natiralas, sch’i sto vegnir renfatschà a l’interpresa ch’ella n’haja betg prendì tut las mesiras organisatoricas necessarias che pon vegnir pretendidas raschunaivlamain per evitar in tal malfatg.[^102-1]
 
-<sup>3</sup> Il derschader fixescha la multa en spezial tenor la grevezza dal malfatg e tenor la grevezza da la mancanza organisatorica e dal donn chaschunà sco er tenor la capacitad economica da l’interpresa.
+<sup>3</sup> La dretgira fixescha la multa en spezial tenor la grevezza dal malfatg e tenor la grevezza da la mancanza organisatorica e dal donn chaschunà sco er tenor la capacitad economica da l’interpresa.
 
 <sup>4</sup>
 
@@ -2099,13 +2106,15 @@ Las disposiziuns da l’emprima part da quest Cudesch penal valan er per ils sur
 
 <sup>1</sup> Sche la lescha na dispona betg autramain, è l’import maximal d’ina multa 10 000 francs.
 
-<sup>2</sup> En la sentenzia pronunzia il derschader in chasti da detenziun subsidiar d’almain 1 di e da maximalmain 3 mais per il cas che la multa na vegn betg pajada dal delinquent per atgna culpa.
+<sup>2</sup> En la sentenzia pronunzia la dretgira in chasti da detenziun subsidiar d’almain 1 di e da maximalmain 3 mais per il cas che la multa na vegn betg pajada dal delinquent per atgna culpa.
 
-<sup>3</sup> Il derschader fixescha la multa ed il chasti da detenziun subsidiar tut tenor las relaziuns dal delinquent uschia, che quel survegn in chasti che correspunda a sia culpa.
+<sup>3</sup> La dretgira fixescha la multa ed il chasti da detenziun subsidiar tut tenor las relaziuns dal delinquent uschia, che quel survegn in chasti che correspunda a sia culpa.
 
 <sup>4</sup> Il chasti da detenziun subsidiar croda davent, uschenavant che la multa vegn pajada posteriuramain.
 
-<sup>5</sup> Per l’execuziun e per la transfurmaziun èn applitgabels ils artitgels 35 e 36 alineas 2–5 confurm al senn.
+<sup>5</sup> Per l’execuziun e per la transfurmaziun da la multa èn applitgabels ils artitgels 35 e 36 alinea 2 confurm al senn.[^106-1]
+
+[^106-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 107
 
@@ -2190,7 +2199,7 @@ Sch’il delinquent ha agì en ina ferma emoziun ch’è perstgisabla tenor las 
 
 [^114-1]
 
-Tgi che mazza – per motivs respectabels, en spezial or da cumpassiun – in uman sin ses giavisch serius ed insistent, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar[^114-2].
+Tgi che mazza – per motivs respectabels, en spezial or da cumpassiun – in uman sin ses giavisch serius ed insistent, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar[^114-2].
 
 [^114-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^114-2]: Expressiun tenor la cifra II 1 al. 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
@@ -2199,7 +2208,7 @@ Tgi che mazza – per motivs respectabels, en spezial or da cumpassiun – in um
 
 #### Art. 115
 
-Tgi che instighescha insatgi per motivs egoistics al suicidi u presta agid per quest intent, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar[^115-1], sch’il suicidi è vegnì commess u empruvà.
+Tgi che instighescha insatgi per motivs egoistics al suicidi u presta agid per quest intent, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar[^115-1], sch’il suicidi è vegnì commess u empruvà.
 
 [^115-1]: Expressiun tenor la cifra II 1 al. 3 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
 
@@ -2209,7 +2218,7 @@ Tgi che instighescha insatgi per motivs egoistics al suicidi u presta agid per q
 
 [^116-1]
 
-Sch’ina mamma mazza ses uffant durant la naschientscha u durant ch’ella stat sut l’influenza da la pagliola, vegn ella chastiada cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Sch’ina mamma mazza ses uffant durant la naschientscha u durant ch’ella stat sut l’influenza da la pagliola, vegn ella chastiada cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^116-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2217,7 +2226,7 @@ Sch’ina mamma mazza ses uffant durant la naschientscha u durant ch’ella stat
 
 #### Art. 117
 
-Tgi che chaschuna la mort d’in uman tras negligientscha, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che chaschuna la mort d’in uman tras negligientscha, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### 2. Interrupziun da la gravidanza.
 
@@ -2227,11 +2236,11 @@ Tgi che chaschuna la mort d’in uman tras negligientscha, vegn chastià cun in 
 
 [^118-1]
 
-<sup>1</sup> Tgi che interrumpa ina gravidanza cun il consentiment da la dunna en speranza u tgi che instighescha ina dunna en speranza d’interrumper la gravidanza u la gida da far quai, senza che las premissas tenor l’artitgel 119 sajan ademplidas, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che interrumpa ina gravidanza cun il consentiment da la dunna en speranza u tgi che instighescha ina dunna en speranza d’interrumper la gravidanza u la gida da far quai, senza che las premissas tenor l’artitgel 119 sajan ademplidas, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Tgi che interrumpa ina gravidanza senza il consentiment da la dunna en speranza, vegn chastià cun in chasti da detenziun dad 1[^118-2] fin 10 onns.
 
-<sup>3</sup> La dunna che interrumpa, che lascha interrumper u che sa participescha en autra moda e maniera vi da l’interrupziun da sia gravidanza suenter che la 12avla emna è passada dapi il cumenzament da l’ultima perioda, senza che las premissas tenor l’artitgel 119 alinea 1 sajan ademplidas, vegn chastiada cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>3</sup> La dunna che interrumpa, che lascha interrumper u che sa participescha en autra moda e maniera vi da l’interrupziun da sia gravidanza suenter che la 12avla emna è passada dapi il cumenzament da l’ultima perioda, senza che las premissas tenor l’artitgel 119 alinea 1 sajan ademplidas, vegn chastiada cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>4</sup> Ils cas tenor ils alineas 1 e 3 suranneschan suenter 3 onns.[^118-3]
 
@@ -2297,16 +2306,13 @@ Cun multa[^120-2] vegn chastià il medi che interrumpa ina gravidanza applitgond
 
 [^122-1]
 
-Tgi che blessa intenziunadamain in uman uschia che sia vita è periclitada,
+Cun in chasti da detenziun dad 1 fin 10 onns vegn chastià, tgi che fa intenziunadamain il suandant:
 
-tgi che struptgescha intenziunadamain il corp, in organ impurtant u in member d’in uman u fa nunduvrabel in organ impurtant u in member, fa in uman per adina inabel da lavurar, mendus u malsaun da spiert, sfigurescha grevamain e durablamain la fatscha d’in uman,
+- a. blessa intenziunadamain in uman, uschia che sia vita è periclitada;
+- b. struptgescha intenziunadamain il corp, in organ impurtant u in member d’in uman u fa nunduvrabel in organ impurtant u in member, fa in uman per adina inabel da lavurar, mendus u malsaun da spiert, sfigurescha grevamain e durablamain la fatscha d’in uman;
+- c. chaschuna intenziunadamain in auter grev donn dal corp u da la sanadad corporala u spiertala d’in uman.
 
-tgi che chaschuna intenziunadamain in auter donn grev dal corp u da la sanadad corporala u spiertala d’in uman,
-
-vegn chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^122-2]
-
-[^122-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^122-2]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^122-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Blessura corporala leva
 
@@ -2314,27 +2320,29 @@ vegn chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^122-2]
 
 [^123-1]
 
-<sup>1.</sup> Tgi che chaschuna intenziunadamain in auter donn vi dal corp u vi da la sanadad d’in uman, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che chaschuna intenziunadamain in auter donn vi dal corp u vi da la sanadad d’in uman, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-En cas levs po il derschader diminuir il chasti (art. 48*a*).[^123-2]
+…[^123-2] [^123-3]
 
-<sup>2.</sup> Il chasti consista d’in chasti da detenziun fin a 3 onns u d’in chasti pecuniar, ed il delinquent vegn persequità d’uffizi,
+<sup>2.</sup> Il delinquent vegn persequità d’uffizi,[^123-4]
 
 sch’el ha duvrà tissi, in’arma u in auter object privlus,
 
 sch’el ha commess il malfatg vers ina persuna betg abla da sa defender u vers ina persuna confidada ad el u per la quala el ha d’avair quità, en spezial vers in uffant,
 
-sch’el è il conjugal da la victima e sch’il malfatg è vegnì commess durant la lètg u entaifer 1 onn suenter il divorzi,[^123-3]
+sch’el è il conjugal da la victima e sch’il malfatg è vegnì commess durant la lètg u entaifer 1 onn suenter il divorzi,[^123-5]
 
-sch’el è il partenari registrà dal delinquent e sch’il malfatg è vegnì commess durant il partenadi registrà u entaifer 1 onn suenter sia schliaziun,[^123-4]
+sch’el è il partenari registrà dal delinquent e sch’il malfatg è vegnì commess durant il partenadi registrà u entaifer 1 onn suenter sia schliaziun,[^123-6]
 
-sch’el è il partenari da vita eterosexual u omosexual dal delinquent, uschenavant ch’els mainan ina chasada cuminaivla per in temp illimità, e sch’il malfatg è vegnì commess durant quest temp u entaifer 1 onn suenter la separaziun.[^123-5]
+sch’el è il partenari da vita eterosexual u omosexual dal delinquent, uschenavant ch’els mainan ina chasada cuminaivla per in temp illimità, e sch’il malfatg è vegnì commess durant quest temp u entaifer 1 onn suenter la separaziun.[^123-7]
 
 [^123-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^123-2]: Versiun tenor la cifra II 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^123-3]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (persecuziun penala en la lètg ed en il partenadi), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^123-4]: Integrà tras la cifra 18 da l’agiunta da la L da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^123-5]: Oriundamain al. 4. Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (persecuziun penala en la lètg ed en il partenadi), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^123-2]: Abolì il segund alinea tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^123-3]: Versiun tenor la cifra II 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^123-4]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^123-5]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (persecuziun penala en la lètg ed en il partenadi), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^123-6]: Integrà tras la cifra 18 da l’agiunta da la L da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^123-7]: Oriundamain al. 4. Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (persecuziun penala en la lètg ed en il partenadi), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Mutilaziun da genitalias femininas
 
@@ -2342,17 +2350,18 @@ sch’el è il partenari da vita eterosexual u omosexual dal delinquent, uschena
 
 [^124-1]
 
-<sup>1</sup> Tgi che mutilescha las genitalias d’ina persuna feminina, las donnegescha fermamain e per adina en lur funcziun natirala u las donnegescha en autra moda, vegn chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar betg sut 180 taxas per di.
+<sup>1</sup> Tgi che mutilescha las genitalias d’ina persuna feminina, las donnegescha fermamain e per adina en lur funcziun natirala u las donnegescha en autra moda, vegn chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^124-2]
 
 <sup>2</sup> Chastiabel è er quel che commetta il malfatg a l’exteriur, sch’el sa chatta en Svizra e na vegn betg extradì. L’artitgel 7 alineas 4 e 5 è applitgabel.
 
 [^124-1]: Versiun tenor la cifra 1 da la LF dals 30 da sett. 2011, en vigur dapi il 1. da fan. 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
+[^124-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Blessura corporala per negligientscha
 
 #### Art. 125
 
-<sup>1</sup> Tgi che chaschuna per negligientscha in donn vi dal corp u vi da la sanadad d’in uman, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar[^125-1].
+<sup>1</sup> Tgi che chaschuna per negligientscha in donn vi dal corp u vi da la sanadad d’in uman, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar[^125-1].
 
 <sup>2</sup> Sch’il donn è grond, vegn il delinquent persequità d’uffizi.
 
@@ -2384,7 +2393,7 @@ Il delinquent vegn persequità d’uffizi, sch’el commetta il malfatg repetida
 
 [^127-1]
 
-Tgi che metta ina persuna dependenta d’agid, ch’è confidada ad el u per la quala el ha da procurar, en in privel da vita u en in grond privel direct per la sanadad u lascha quella a l’abandun en in tal privel, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+Tgi che metta ina persuna dependenta d’agid, ch’è confidada ad el u per la quala el ha da procurar, en in privel da vita u en in grond privel direct per la sanadad u lascha quella a l’abandun en in tal privel, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 [^127-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2398,7 +2407,7 @@ Tgi che na gida betg in uman ch’el ha blessà sez u in uman che sa chatta dire
 
 tgi che tegna enavos auters da prestar agid u impedescha els da far quai,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^128-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2408,7 +2417,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 [^128bis-1]
 
-Tgi che alarmescha cunter meglier savair e senza motiv in servetsch da segirezza public u d’utilitad publica, in servetsch da salvament u in servetsch d’agid, en spezial la polizia, ils pumpiers u la sanitad, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che alarmescha cunter meglier savair e senza motiv in servetsch da segirezza public u d’utilitad publica, in servetsch da salvament u in servetsch d’agid, en spezial la polizia, ils pumpiers u la sanitad, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^128bis-1]: Integrà tras la cifra I da la LF dals 17 da zer. 1994, en vigur dapi il 1. da schan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
@@ -2418,7 +2427,7 @@ Tgi che alarmescha cunter meglier savair e senza motiv in servetsch da segirezza
 
 [^129-1]
 
-Tgi che metta senza scrupel in uman en in grond privel da vita, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+Tgi che metta senza scrupel in uman en in grond privel da vita, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 [^129-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2434,7 +2443,7 @@ Tgi che metta senza scrupel in uman en in grond privel da vita, vegn chastià cu
 
 [^133-1]
 
-<sup>1</sup> Tgi che sa participescha ad ina baruffa che chaschuna la mort u ina blessura corporala d’in uman, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che sa participescha ad ina baruffa che chaschuna la mort u ina blessura corporala d’in uman, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Betg chastiabel n’è quel che sa dosta mo da las attatgas u che separa ils cumbattants.
 
@@ -2446,7 +2455,7 @@ Tgi che metta senza scrupel in uman en in grond privel da vita, vegn chastià cu
 
 [^134-1]
 
-Tgi che sa participescha ad in’agressiun cunter in u cunter plirs umans che chaschuna la mort u ina blessura corporala d’ina persuna attatgada u d’ina terza persuna, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar[^134-2].
+Tgi che sa participescha ad in’agressiun cunter in u cunter plirs umans che chaschuna la mort u ina blessura corporala d’ina persuna attatgada u d’ina terza persuna, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar[^134-2].
 
 [^134-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^134-2]: Expressiun tenor la cifra II 1 al. 6 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
@@ -2457,18 +2466,13 @@ Tgi che sa participescha ad in’agressiun cunter in u cunter plirs umans che ch
 
 [^135-1]
 
-<sup>1</sup> Tgi che producescha, importa, depositescha, metta en circulaziun, propaghescha, expona, offrescha, mussa, surlascha u renda accessibel registraziuns sonoras u visualas, maletgs, auters objects u represchentaziuns che mussan en moda insistenta violenzas crudaivlas cunter umans u cunter animals, senza avair ina valur culturala u scientifica degna da vegnir protegida, e che violeschan uschia la dignitad elementara da l’uman en moda gravanta, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che producescha, importa, depositescha, metta en circulaziun, propaghescha, expona, offrescha, mussa, surlascha, renda accessibel, acquista, sa procura sur meds electronics u en autra moda ubain posseda registraziuns sonoras u visualas, maletgs, auters objects u represchentaziuns che mussan en moda insistenta acts da violenza crudaivels cunter creschids u cunter animals u acts da violenza crudaivels betg reals cunter minorens, senza avair ina valur culturala u scientifica degna da vegnir protegida, e che violeschan uschia la dignitad elementara da l’uman en moda gravanta, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar. Sch’ils objects u las preschentaziuns cuntegnan acts da violenza crudaivels reals cunter minorens, è il chastì in chasti da detenziun da fin 5 onns u in chasti pecuniar.
 
-<sup>1bis</sup> Cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar vegn chastià,[^135-2] tgi che cumpra, tgi che sa procura sur meds electronics u en autra moda u tgi che posseda objects u represchentaziuns tenor l’alinea 1, uschenavant che quels mussan violenzas cunter umans u cunter animals.[^135-3]
+<sup>2</sup> Tgi che consumescha, producescha per l’agen consum, importa, depositescha, acquista, sa procura sur meds electronics u en autra moda ubain posseda objects u preschentaziuns tenor l’alinea 1 emprima frasa, vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar. Sch’ils objects u las preschentaziuns cuntegnan acts da violenza crudaivels reals cunter minorens, è il chastì in chasti da detenziun da fin 3 onns u in chasti pecuniar.
 
-<sup>2</sup> Ils objects vegnan confiscads.
+<sup>3</sup> Ils objects vegnan confiscads.
 
-<sup>3</sup> Sch’il delinquent agescha per motivs d’engurdientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.[^135-4]
-
-[^135-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^135-2]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). La rectificaziun da la Cumissiun da redacziun da la AF dals 25 da favr. 2020 concerna mo il text franzos ([AS 2020 623](https://fedlex.data.admin.ch/eli/oc/2020/118)).
-[^135-3]: Integrà tras la cifra I da la LF dals 5 d’oct. 2001 (acts chastiabels cunter l’integritad sexuala; scumond da posseder pornografia dira), en vigur dapi il 1. d’avr. 2002 ([AS 2002 408](https://fedlex.data.admin.ch/eli/oc/2002/92); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
-[^135-4]: Expressiun tenor la cifra II 1 al. 7 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
+[^135-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Dar ad uffants substanzas nuschaivlas per la sanadad
 
@@ -2476,7 +2480,7 @@ Tgi che sa participescha ad in’agressiun cunter in u cunter plirs umans che ch
 
 [^136-1]
 
-Tgi che dat bavrondas alcoholicas u autras substanzas ad in uffant sut 16 onns u tgi che metta a sia disposiziun talas per il consum, e quai en ina quantitad che po periclitar la sanadad, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che dat bavrondas alcoholicas u autras substanzas ad in uffant sut 16 onns u tgi che metta a sia disposiziun talas per il consum, e quai en ina quantitad che po periclitar la sanadad, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^136-1]: Versiun tenor la cifra II da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
@@ -2492,7 +2496,7 @@ Tgi che dat bavrondas alcoholicas u autras substanzas ad in uffant sut 16 onns u
 
 #### Art. 137
 
-<sup>1.</sup> Tgi che s’appropriescha d’ina chaussa estra movibla per qua tras enritgir sasez u in auter en moda illegala, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, nun che las premissas spezialas tenor ils artitgels 138–140 vegnian en consideraziun.
+<sup>1.</sup> Tgi che s’appropriescha d’ina chaussa estra movibla per qua tras enritgir sasez u in auter en moda illegala, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar, nun che las premissas spezialas tenor ils artitgels 138–140 vegnian en consideraziun.
 
 <sup>2.</sup> Sch’il delinquent ha chattà la chaussa u sch’el è vegnì en possess da quella senza vulair,
 
@@ -2510,11 +2514,11 @@ vegn il malfatg persequità mo sin basa d’in plant.
 
 tgi che dovra illegalmain valurs da facultad confidadas ad el per ses avantatg u per l’avantatg d’in auter,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 La defraudaziun a disfavur d’in parent u d’in confamigliar vegn persequitada mo sin basa d’in plant.
 
-<sup>2.</sup> Tgi che commetta il malfatg sco commember d’ina autoritad, sco funcziunari, sco avugà, sco assistent, sco administratur da facultad professiunal ubain tgi che exequescha ina professiun, in mastergn u in commerzi ed ha per quest intent l’autorisaziun d’ina autoritad, vegn chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar[^138-1].
+<sup>2.</sup> Tgi che commetta il malfatg sco commember d’ina autoritad, sco funcziunari, sco avugà, sco assistent, sco administratur da facultad professiunal ubain tgi che exequescha ina professiun, in mastergn u in commerzi ed ha per quest intent l’autorisaziun d’ina autoritad, vegn chastià cun in chasti da detenziun da fin 10 onns u cun in chasti pecuniar[^138-1].
 
 [^138-1]: Expressiun tenor la cifra II 1 al. 8 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
 
@@ -2522,22 +2526,23 @@ La defraudaziun a disfavur d’in parent u d’in confamigliar vegn persequitada
 
 #### Art. 139
 
-<sup>1.</sup> Tgi che prenda davent d’insatgi ina chaussa estra movibla per qua tras enritgir sasez u in auter en moda illegala, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che prenda davent d’insatgi ina chaussa estra movibla per qua tras enritgir sasez u in auter en moda illegala, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Il lader vegn chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar betg sut 90 taxas per di[^139-1], sch’el engola da professiun.
+<sup>2.</sup> …[^139-1]
 
-<sup>3.</sup> Il lader vegn chastià cun in chasti da detenziun da 6 mais fin 10 onns,[^139-2]
+<sup>3.</sup>
 
-sch’el exequescha l’enguladitsch sco commember d’ina banda ch’è sa furmada per exequir adina puspè rapinas u enguladitschs,
+Il lader vegn chastià cun in chasti da detenziun da 6 mais fin 10 onns, sch’el:
 
-sch’el porta cun sai in’arma da fieu u in’autra arma privlusa cun l’intent da far l’enguladitsch, u
-
-sch’el mussa sia privlusadad particulara cun la moda e maniera d’exequir l’enguladitsch.
+- a. engola da professiun;
+- b. exequescha l’enguladitsch sco commember d’ina banda ch’è sa furmada per exequir repetidamain rapinas u enguladitschs;
+- c. porta cun sai in’arma da fieu u in’autra arma privlusa u chaschuna in’explosiun cun l’intent da far l’enguladitsch; u
+- d. mussa sia privlusadad particulara cun la moda e maniera d’exequir l’enguladitsch.[^139-2]
 
 <sup>4.</sup> L’enguladitsch a disfavur d’in parent u d’in confamigliar vegn persequità mo sin basa d’in plant.
 
-[^139-1]: Expressiun tenor la cifra II 1 al. 9 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
-[^139-2]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^139-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^139-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Rapina
 
@@ -2564,27 +2569,27 @@ sch’el mussa uschiglio sia privlusadad particulara cun la moda e maniera d’e
 
 #### Art. 141
 
-Tgi che privescha in possessur legitim d’ina chaussa movibla senza avair l’intent da sa patrunar da quella e chaschuna qua tras al possessur in dischavantatg considerabel, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che privescha in possessur legitim d’ina chaussa movibla senza avair l’intent da sa patrunar da quella e chaschuna qua tras al possessur in dischavantatg considerabel, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Utilisaziun illegala da valurs da facultad
 
 #### Art. 141<sup>bis</sup>
 
-Tgi che dovra illegalmain valurs da facultad, da las qualas el è vegnì en possess senza vulair, per ses avantatg u per l’avantatg d’in auter, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che dovra illegalmain valurs da facultad, da las qualas el è vegnì en possess senza vulair, per ses avantatg u per l’avantatg d’in auter, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Retratga illegala d’energia
 
 #### Art. 142
 
-<sup>1</sup> Tgi che retira illegalmain energia d’in stabiliment che serva a l’utilisaziun da forzas da la natira, en spezial d’in implant electric, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che retira illegalmain energia d’in stabiliment che serva a l’utilisaziun da forzas da la natira, en spezial d’in implant electric, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Sch’il delinquent agescha cun l’intenziun d’enritgir sasez u in auter en moda illegala, vegn el chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>2</sup> Sch’il delinquent agescha cun l’intenziun d’enritgir sasez u in auter en moda illegala, vegn el chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 ### Procuraziun illegala da datas
 
 #### Art. 143
 
-<sup>1</sup> Tgi che procura illegalmain per sasez u per in auter datas ch’èn registradas u ch’èn vegnidas transmessas en moda electronica u en maniera sumeglianta e che n’èn betg destinadas ad el e ch’èn segiradas spezialmain cunter ses access betg autorisà, cun l’intenziun d’enritgir sasez u in auter, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che procura illegalmain per sasez u per in auter datas ch’èn registradas u ch’èn vegnidas transmessas en moda electronica u en maniera sumeglianta e che n’èn betg destinadas ad el e ch’èn segiradas spezialmain cunter ses access betg autorisà, cun l’intenziun d’enritgir sasez u in auter, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 <sup>2</sup> La procuraziun illegala da datas a disfavur d’in parent u d’in confamigliar vegn persequitada mo sin basa d’in plant.
 
@@ -2594,9 +2599,9 @@ Tgi che dovra illegalmain valurs da facultad, da las qualas el è vegnì en poss
 
 [^143bis-1]
 
-<sup>1</sup> Tgi che penetrescha illegalmain tras indrizs da transmissiun da datas en in sistem d’elavuraziun da datas ester ch’è segirà spezialmain cunter ses access, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che penetrescha illegalmain tras indrizs da transmissiun da datas en in sistem d’elavuraziun da datas ester ch’è segirà spezialmain cunter ses access, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Tgi che metta en circulaziun u renda accessibels pleds-clav, programs u autras datas, da las qualas el sa u sto supponer ch’ellas vegnan duvradas per commetter in malfatg tenor l’alinea 1, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> Tgi che metta en circulaziun u renda accessibels pleds-clav, programs u autras datas, da las qualas el sa u sto supponer ch’ellas vegnan duvradas per commetter in malfatg tenor l’alinea 1, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^143bis-1]: Versiun tenor l’art. 2 cifra 1 dal COF dals 18 da mars 2011 (Convenziun dal Cussegl da l’Europa davart la cybercriminalitad), en vigur dapi il 1. da schan. 2012 ([AS 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [BBl 2010 4697](https://fedlex.data.admin.ch/eli/fga/2010/813)).
 
@@ -2604,57 +2609,68 @@ Tgi che dovra illegalmain valurs da facultad, da las qualas el è vegnì en poss
 
 #### Art. 144
 
-<sup>1</sup> Tgi che donnegescha, destruescha u fa nunduvrabla ina chaussa, vi da la quala insatgi auter ha in dretg da proprietad, da diever u da giudida, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che donnegescha, destruescha u fa nunduvrabla ina chaussa, vi da la quala insatgi auter ha in dretg da proprietad, da diever u da giudida, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Sch’il delinquent ha fatg il donn vi da la chaussa a chaschun d’in arrotschament public, vegn el persequità d’uffizi.
 
-<sup>3</sup> Sch’il delinquent ha chaschunà in grond donn, po il derschader pronunziar in chasti da detenziun dad 1 fin 5 onns. Il malfatg vegn persequità d’uffizi.
+<sup>3</sup> Sch’il delinquent ha chaschunà in grond donn, vegn el chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar. Il malfatg vegn persequità d’uffizi.[^144-1]
+
+[^144-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Donnegiament da datas
 
 #### Art. 144<sup>bis</sup>
 
-<sup>1.</sup> Tgi che mida, stizza u fa nunduvrablas, senza dretg, datas registradas u transmessas en moda electronica u en moda cumparegliabla, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che mida, stizza u fa nunduvrablas, senza dretg, datas registradas u transmessas en moda electronica u en moda cumparegliabla, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-Sch’il delinquent ha chaschunà in grond donn, po il derschader pronunziar in chasti da detenziun dad 1 fin 5 onns. Il malfatg vegn persequità d’uffizi.
+Sch’il delinquent ha chaschunà in grond donn, vegn el chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar. Il malfatg vegn persequità d’uffizi.[^144bis-1]
 
-<sup>2.</sup> Tgi che fabritgescha, importa, metta en circulaziun, propaghescha, offrescha u renda accessibel en autra maniera programs u dat instrucziuns per la fabricaziun da tals, dals quals el sa u sto supponer ch’els duain vegnir duvrads per ils intents numnads en l’alinea 1, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Tgi che fabritgescha, importa, metta en circulaziun, propaghescha, offrescha u renda accessibel en autra maniera programs u dat instrucziuns per la fabricaziun da tals, dals quals el sa u sto supponer ch’els duain vegnir duvrads per ils intents numnads en l’alinea 1, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-Sch’il delinquent agescha da professiun, po il derschader pronunziar in chasti da detenziun dad 1 fin 5 onns.
+Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^144bis-2]
+
+[^144bis-1]: Versiun dal segund alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^144bis-2]: Versiun dal segund alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Defraudaziun e privaziun da chaussas dadas en pegn e d’objects da retenziun
 
 #### Art. 145
 
-Il debitur che privescha, cun l’intent da far donn a ses creditur, quel d’ina chaussa che serva sco pegn u sco object da retenziun, dispona arbitrariamain da quella, donnegescha, destruescha, svalitescha u fa ch’ella è nunduvrabla, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Il debitur che privescha, cun l’intent da far donn a ses creditur, quel d’ina chaussa che serva sco pegn u sco object da retenziun, dispona arbitrariamain da quella, donnegescha, destruescha, svalitescha u fa ch’ella è nunduvrabla, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Engion
 
 #### Art. 146
 
-<sup>1</sup> Tgi che cugliuna, cun l’intenziun d’enritgir sasez u in auter en moda illegala, malignamain insatgi cun affirmar chaussas faussas u cun supprimer fatgs vardaivels u tgi che affirmescha malignamain insatgi en sia errur ed è uschia la culpa che l’engianà sa cumporta uschia, ch’el fa donn a sia facultad u a la facultad d’in auter, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che cugliuna, cun l’intenziun d’enritgir sasez u in auter en moda illegala, malignamain insatgi cun affirmar chaussas faussas u cun supprimer fatgs vardaivels u tgi che affirmescha malignamain insatgi en sia errur ed è uschia la culpa che l’engianà sa cumporta uschia, ch’el fa donn a sia facultad u a la facultad d’in auter, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar betg sut 90 taxas per di.
+<sup>2</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^146-1]
 
 <sup>3</sup> L’engion a disfavur d’in parent u d’in confamigliar vegn persequità mo sin basa d’in plant.
+
+[^146-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Diever abusiv d’in indriz d’elavuraziun da datas
 
 #### Art. 147
 
-<sup>1</sup> Tgi che ha, cun l’intenziun d’enritgir sasez u in auter en moda illegala, faschond diever da datas en moda nuncorrecta, incumpletta u betg permessa u en moda sumeglianta, influenzà in process d’elavuraziun da datas electronic u in process sumegliant ubain in process da transmissiun da datas ed ha qua tras chaschunà in transferiment da facultad per donn d’in auter u ha zuppentà in transferiment da facultad directamain suenter quai, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che ha, cun l’intenziun d’enritgir sasez u in auter en moda illegala, faschond diever da datas en moda nuncorrecta, incumpletta u betg permessa u en moda sumeglianta, influenzà in process d’elavuraziun da datas electronic u in process sumegliant ubain in process da transmissiun da datas ed ha qua tras chaschunà in transferiment da facultad per donn d’in auter u ha zuppentà in transferiment da facultad directamain suenter quai, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar betg sut 90 taxas per di.
+<sup>2</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^147-1]
 
 <sup>3</sup> Il diever abusiv d’in indriz d’elavuraziun da datas a disfavur d’in parent u d’in confamigliar vegn persequità mo sin basa d’in plant.
+
+[^147-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Diever abusiv da cartas da schecs e da cartas da credit
 
 #### Art. 148
 
-<sup>1</sup> Tgi che dovra, malgrà ch’el è insolvent u n’è betg pront da pajar, ina carta da schecs u da credit che l’emittent ha surlaschà ad el ubain in instrument da pajament sumegliant per acquistar prestaziuns da facultad, e fa qua tras in donn vi da la facultad da l’emittent, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, uschenavant che l’emittent e l’interpresa da contract han prendì las mesiras ch’ins po pretender dad els per evitar il diever abusiv da la carta.
+<sup>1</sup> Tgi che dovra, malgrà ch’el è insolvent u n’è betg pront da pajar, ina carta da schecs u da credit che l’emittent ha surlaschà ad el ubain in instrument da pajament sumegliant per acquistar prestaziuns da facultad, e fa qua tras in donn vi da la facultad da l’emittent, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar, uschenavant che l’emittent e l’interpresa da contract han prendì las mesiras ch’ins po pretender dad els per evitar il diever abusiv da la carta.
 
-<sup>2</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar betg sut 90 taxas per di.
+<sup>2</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^148-1]
+
+[^148-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Retratga illegala da prestaziuns d’ina assicuranza sociala u da l’agid social
 
@@ -2662,7 +2678,7 @@ Il debitur che privescha, cun l’intent da far donn a ses creditur, quel d’in
 
 [^148a-1]
 
-<sup>1</sup> Tgi che maina en errur ina persuna u affirmescha sia errur cun far indicaziuns faussas u incumplettas, cun zuppentar fatgs impurtants u en autra moda, uschia ch’el u in auter survegn prestaziuns d’ina assicuranza sociala u da l’agid social senza avair il dretg da talas, vegn chastià cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar.
+<sup>1</sup> Tgi che maina en errur ina persuna u affirmescha sia errur cun far indicaziuns faussas u incumplettas, cun zuppentar fatgs impurtants u en autra moda, uschia ch’el u in auter survegn prestaziuns d’ina assicuranza sociala u da l’agid social senza avair il dretg da talas, vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
 
 <sup>2</sup> En cas levs è il chasti ina multa.
 
@@ -2672,7 +2688,7 @@ Il debitur che privescha, cun l’intent da far donn a ses creditur, quel d’in
 
 #### Art. 149
 
-Tgi che prenda albiert en in manaschi d’hotellaria, lascha sa servir spaisas e bavrondas u fa diever d’autras prestaziuns da servetsch e banduna il manaschi senza pajar, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che prenda albiert en in manaschi d’hotellaria, lascha sa servir spaisas e bavrondas u fa diever d’autras prestaziuns da servetsch e banduna il manaschi senza pajar, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Cuntanscher cun rampigns ina prestaziun
 
@@ -2686,7 +2702,7 @@ tgi che visita ina preschentaziun, in’exposiziun u in’occurrenza sumeglianta
 
 tgi che fa diever d’ina prestaziun che vegn furnida d’in indriz d’elavuraziun da datas u d’in automat,
 
-vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Fabritgar e metter en circulaziun materialias per decodar nunautorisadamain purschidas codadas
 
@@ -2705,7 +2721,7 @@ vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chast
 
 #### Art. 151
 
-Tgi che cugliuna, senza l’intenziun da s’enritgir, malignamain insatgi cun affirmar chaussas faussas u cun supprimer fatgs vardaivels u affirmescha malignamain insatgi en sia errur ed è uschia la culpa che l’engianà sa cumporta uschia, ch’el fa donn a sia facultad u a la facultad d’in auter, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che cugliuna, senza l’intenziun da s’enritgir, malignamain insatgi cun affirmar chaussas faussas u cun supprimer fatgs vardaivels u affirmescha malignamain insatgi en sia errur ed è uschia la culpa che l’engianà sa cumporta uschia, ch’el fa donn a sia facultad u a la facultad d’in auter, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Indicaziuns nunvairas concernent interpresas commerzialas
 
@@ -2715,13 +2731,13 @@ Tgi che, sco fundatur, sco possessur, sco associà cun responsabladad illimitada
 
 dat u lascha dar, en communicaziuns publicas ubain en rapports u en projects destinads a la totalitad dals commembers d’ina societad u d’in associaziun u als participads ad ina interpresa, indicaziuns nunvairas u betg cumplettas d’ina impurtanza considerabla, che pon intimar in auter da prender decisiuns che fan donn a la facultad,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Indicaziuns nunvairas vers autoritads dal register da commerzi
 
 #### Art. 153
 
-Tgi ch’è la culpa ch’ina autoritad dal register da commerzi fa ina registraziun nunvaira u tgi che ha taschentà in fatg che sto vegnir registrà, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi ch’è la culpa ch’ina autoritad dal register da commerzi fa ina registraziun nunvaira u tgi che ha taschentà in fatg che sto vegnir registrà, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Chastiabladad dals commembers dal cussegl d’administraziun e da la direcziun da societads cun aczias quotadas ad ina bursa
 
@@ -2763,9 +2779,9 @@ fabritgescha rauba, da la quala la valur reala è mendra che quai ch’ella para
 
 importa, depositescha u metta en circulaziun tala rauba,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, uschenavant ch’il malfatg na vegn betg chastià tenor in’autra disposiziun cun in chasti pli grond.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar, uschenavant ch’il malfatg na vegn betg chastià tenor in’autra disposiziun cun in chasti pli grond.
 
-<sup>2.</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, uschenavant ch’il malfatg na vegn betg chastià tenor in’autra disposiziun cun in chasti pli grond.[^155-1]
+<sup>2.</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar, uschenavant ch’il malfatg na vegn betg chastià tenor in’autra disposiziun cun in chasti pli grond.[^155-1]
 
 [^155-1]: Versiun tenor la cifra I 1 da la LF dals 3 d’oct. 2008 davart la realisaziun da las recumandaziuns revedidas dal «Groupe d’action financière», en vigur dapi il 1. da favr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
@@ -2773,17 +2789,18 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, 
 
 #### Art. 156
 
-<sup>1.</sup> Tgi che influenzescha, cun l’intenziun d’enritgir sasez u in auter en moda illegala, insatgi tras violenza u tras la smanatscha da dischavantatgs serius a sa cumportar uschia, ch’el fa donn a sia facultad u a la facultad d’in auter, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che influenzescha, cun l’intenziun d’enritgir sasez u in auter en moda illegala, insatgi tras violenza u tras la smanatscha da dischavantatgs serius a sa cumportar uschia, ch’el fa donn a sia facultad u a la facultad d’in auter, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il culpant agescha da professiun u sch’el extorchescha repetidamain la medema persuna,
+<sup>2.</sup> Sch’il delinquent agescha da professiun u sch’el extorchescha repetidamain la medema persuna, vegn el chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^156-1]
 
 vegn el chastià cun in chasti da detenziun dad 1 fin 10 onns.
 
 <sup>3.</sup> Sch’il delinquent dovra violenza cunter ina persuna u sch’el smanatscha quella cun in privel preschent per la vita u per l’integritad corporala, vegn el chastià tenor l’artitgel 140.
 
-<sup>4.</sup> Sch’il delinquent smanatscha cun in privel per il corp e per la vita da blers umans u cun gronds donns da chaussas, vi da las qualas igl exista in grond interess public, vegn el chastià cun in chasti da detenziun betg sut 1 onn[^156-1].
+<sup>4.</sup> Sch’il delinquent smanatscha cun in privel per il corp e per la vita da blers umans u cun gronds donns da chaussas, vi da las qualas igl exista in grond interess public, vegn el chastià cun in chasti da detenziun betg sut 1 onn[^156-2].
 
-[^156-1]: Expressiun tenor la cifra II 1 al. 12 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
+[^156-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^156-2]: Expressiun tenor la cifra II 1 al. 12 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
 
 ### Usura
 
@@ -2793,41 +2810,47 @@ vegn el chastià cun in chasti da detenziun dad 1 fin 10 onns.
 
 tgi che acquista ina pretensiun usurara e la alienescha vinavant u la fa valair,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun dad 1 fin 10 onns.
+<sup>2.</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^157-1]
+
+[^157-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Administraziun malfidaivla
 
 #### Art. 158
 
-<sup>1.</sup> Tgi ch’è incumbensà sin basa da la lescha, d’ina incarica da l’autoritad u d’in act giuridic d’administrar la facultad d’in auter u da survegliar ina tala administraziun da facultad e chaschuna u tolerescha, violond sias obligaziuns, che la facultad da l’auter vegn donnegiada, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi ch’è incumbensà sin basa da la lescha, d’ina incarica da l’autoritad u d’in act giuridic d’administrar la facultad d’in auter u da survegliar ina tala administraziun da facultad e chaschuna u tolerescha, violond sias obligaziuns, che la facultad da l’auter vegn donnegiada, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 Tgi che agescha egualmain sco mainagestiun senza incarica, vegn chastià cun il medem chasti.
 
-Sch’il delinquent agescha cun l’intenziun d’enritgir sasez u in auter en moda illegala, po el vegnir chastià cun in chasti da detenziun dad 1 fin 5 onns.
+Sch’il delinquent agescha cun l’intenziun d’enritgir sasez u in auter en moda illegala, vegn el chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.[^158-1]
 
-<sup>2.</sup> Tgi che surdovra, cun l’intenziun d’enritgir sasez u in auter en moda illegala, l’autorisaziun ch’el ha obtegnì tras la lescha, tras ina incarica da l’autoritad u tras in act giuridic da represchentar insatgi, e chaschuna uschia in donn vi da la facultad dal represchentà, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>2.</sup> Tgi che surdovra, cun l’intenziun d’enritgir sasez u in auter en moda illegala, l’autorisaziun ch’el ha obtegnì tras la lescha, tras ina incarica da l’autoritad u tras in act giuridic da represchentar insatgi, e chaschuna uschia in donn vi da la facultad dal represchentà, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 <sup>3.</sup> L’administraziun malfidaivla a disfavur d’in parent u d’in confamigliar vegn persequitada mo sin basa d’in plant.
+
+[^158-1]: Versiun dal terz alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Diever abusiv da deducziuns dal salari
 
 #### Art. 159
 
-Il patrun che violescha l’obligaziun da duvrar ina deducziun dal salari per taglias, per taxas, per premias e per contribuziuns d’assicuranzas u en autra maniera a favur dal lavurant e fa uschia donn vi da la facultad da quel, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Il patrun che violescha l’obligaziun da duvrar ina deducziun dal salari per taglias, per taxas, per premias e per contribuziuns d’assicuranzas u en autra maniera a favur dal lavurant e fa uschia donn vi da la facultad da quel, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Zuppentada
 
 #### Art. 160
 
-<sup>1.</sup> Tgi che acquista, sa lascha regalar, prenda a pegn, taschenta u gida ad alienar ina chaussa, da la quala el sa u sto supponer ch’in auter la haja acquistada tras in malfatg cunter la facultad, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che acquista, sa lascha regalar, prenda a pegn, taschenta u gida ad alienar ina chaussa, da la quala el sa u sto supponer ch’in auter la haja acquistada tras in malfatg cunter la facultad, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 Il zuppentader vegn chastià tenor la smanatscha dal chasti per il malfatg precedent, sche quel chasti è pli lev.
 
 Sch’il malfatg precedent è in delict che vegn persequità sin plant, vegn la zuppentada mo persequitada, sch’igl è vegnì purtà in plant da persequitar il malfatg precedent.
 
-<sup>2.</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar betg sut 90 taxas per di.
+<sup>2.</sup> Sch’il delinquent agescha da professiun, vegn el chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^160-1]
+
+[^160-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 161
 
@@ -2849,7 +2872,7 @@ Tgi che tradescha in secret da fabricaziun u in secret da fatschenta ch’el ave
 
 tgi che maldovra quest tradiment per sasez u per in auter,
 
-vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### 3. Crims u delicts da concurs e da scussiun.
 
@@ -2865,9 +2888,9 @@ che dat da crair d’avair debits,
 
 che renconuscha pretensiuns simuladas u incitescha in auter da las far valair,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, sch’il concurs è vegnì declerà cunter el u sch’igl è vegnì emess in attest da perdita cunter el.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar, sch’il concurs è vegnì declerà cunter el u sch’igl è vegnì emess in attest da perdita cunter el.
 
-<sup>2.</sup> La terza persuna che commetta in tal malfatg per donn dals crediturs, vegn chastiada, sut las medemas premissas, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> La terza persuna che commetta in tal malfatg per donn dals crediturs, vegn chastiada, sut las medemas premissas, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Reducziun da la facultad per donn dals crediturs
 
@@ -2881,9 +2904,9 @@ alienar valurs da facultad gratuitamain u cunter ina prestaziun che ha ina valur
 
 refusar, senza motivs reals, dretgs che tutgan ad el u desister gratuitamain da dretgs,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, sch’il concurs è vegnì declerà cunter el u sch’igl è vegnì emess in attest da perdita cunter el.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar, sch’il concurs è vegnì declerà cunter el u sch’igl è vegnì emess in attest da perdita cunter el.
 
-<sup>2.</sup> La terza persuna che commetta in tal malfatg per donn dals crediturs, vegn chastiada, sut las medemas premissas, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> La terza persuna che commetta in tal malfatg per donn dals crediturs, vegn chastiada, sut las medemas premissas, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Nauscha administraziun
 
@@ -2893,7 +2916,9 @@ vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, 
 
 chaschuna sia surdebitaziun u fa vegnir quella anc mendra, chaschuna sia atgna insolvenza u fa la situaziun concernent sia facultad anc mendra malgrà ch’el sa da sia insolvenza,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, sch’il concurs è vegnì declerà cunter el u sch’igl è vegnì emess in attest da perdita cunter el.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar, sch’il concurs è vegnì declerà cunter el u sch’igl è vegnì emess in attest da perdita cunter el.
+
+1<sup>bis</sup>. Sch’il debitur survegn ina mesira da sustegn d’ina autoritad per evitar ina surdebitaziun u ina insolvenza smanatschanta, vegn el chastià cun il medem chasti.[^165-1]
 
 <sup>2.</sup> Il debitur stumà sin via d’ina impegnaziun vegn persequità mo sin plant d’in creditur che ha survegnì in attest da perdita cunter el.
 
@@ -2901,11 +2926,13 @@ Il plant sto vegnir purtà entaifer 3 mais dapi il di la consegna da l’attest 
 
 Il creditur che ha surmanà il debitur da far debits da levsenn, da far expensas sproporziunadas u da far speculaziuns ristgadas ubain che ha explotà quel en moda usurara, n’ha betg il dretg da purtar plant.
 
+[^165-1]: Integrà tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
 ### Tralaschar la contabilitad
 
 #### Art. 166
 
-Il debitur che violescha sia obligaziun legala da manar e da tegnair en salv en urden cudeschs da fatschenta u da far ina bilantscha, uschia che ses stadi da facultad n’è betg u n’è betg cumplettamain vesaivel, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, sch’igl è vegnì declerà il concurs cunter el u sch’igl è vegnì emess in attest da perdita cunter el en cas d’ina impegnaziun tenor l’artitgel 43 da la Lescha federala dals 11 d’avrigl 1889[^166-1] davart scussiun e concurs (LSC).
+Il debitur che violescha sia obligaziun legala da manar e da tegnair en salv en urden cudeschs da fatschenta u da far ina bilantscha, uschia che ses stadi da facultad n’è betg u n’è betg cumplettamain vesaivel, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar, sch’igl è vegnì declerà il concurs cunter el u sch’igl è vegnì emess in attest da perdita cunter el en cas d’ina impegnaziun tenor l’artitgel 43 da la Lescha federala dals 11 d’avrigl 1889[^166-1] davart scussiun e concurs (LSC).
 
 [^166-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
@@ -2913,17 +2940,21 @@ Il debitur che violescha sia obligaziun legala da manar e da tegnair en salv en 
 
 #### Art. 167
 
-Il debitur, ch’è conscient da sia insolvenza e che ha l’intenziun da favurisar singuls da ses crediturs a disfavur dad auters, e che interprenda acts cun questa finamira, en spezial pajond debits betg scadids, pajond debits scadids en autra moda che cun ils meds da pajament usitads, garantind in debit or d’agens meds senza esser obligà da far quai, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, sch’igl è vegnì declerà il concurs cunter el u sch’igl è vegnì emess in attest da perdita cunter el.
+Il debitur, ch’è conscient da sia insolvenza e che ha l’intenziun da favurisar singuls da ses crediturs a disfavur dad auters, e che interprenda acts cun questa finamira, en spezial pajond debits betg scadids, pajond debits scadids en autra moda che cun ils meds da pajament usitads, garantind in debit or d’agens meds senza esser obligà da far quai, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar, sch’igl è vegnì declerà il concurs cunter el u sch’igl è vegnì emess in attest da perdita cunter el.
 
 ### Corrupziun en cas d’execuziun sfurzada
 
 #### Art. 168
 
-<sup>1</sup> Tgi che conceda u garantescha ad in creditur u a ses represchentant avantatgs spezials per survegnir sia vusch en la radunanza dals crediturs u en la giunta dals crediturs u per cuntanscher ses consentiment per in concordat giudizial u sia refusa d’in tal concordat, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+[^168-1]
 
-<sup>2</sup> Tgi che conceda u garantescha ad in administratur da concurs, ad in commember da l’administraziun da concurs, al curatur u al liquidatur avantatgs spezials per influenzar sias decisiuns, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che:
 
-<sup>3</sup> Tgi che sa lascha conceder u garantir tals avantatgs, vegn chastià cun il medem chasti.
+- a. tgi che conceda u garantescha ad in creditur u a ses represchentant avantatgs spezials per survegnir sia vusch en la radunanza dals crediturs u en la giunta dals crediturs u per cuntanscher ses consentiment per in concordat giudizial u sia refusa d’in tal concordat;
+- b. tgi che conceda u garantescha ad in administratur da concurs, ad in commember da l’administraziun da concurs, al curatur u al liquidatur avantatgs spezials per influenzar sias decisiuns;
+- c. tgi che sa lascha conceder u garantir avantatgs tenor la litera a u b.
+
+[^168-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Disponer da valurs da facultad sequestradas
 
@@ -2939,7 +2970,7 @@ che fa part d’ina facultad ch’è vegnida concedida en in’enclegientscha da
 
 u tgi che donnegescha, destruescha, svalitescha u fa nunduvrabla ina tala valur da facultad,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Obtegnair cun rampigns in concordat giudizial
 
@@ -2949,7 +2980,7 @@ Il debitur che engiona ses crediturs, il curatur u l’autoritad da relasch en q
 
 il terz che fa in tal act per avantatg dal debitur,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Concordat giudizial
 
@@ -2957,17 +2988,15 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 <sup>1</sup> Ils artitgels 163 cifra 1, 164 cifra 1, 165 cifra 1, 166 e 167 valan er, sch’in concordat giudizial è vegnì acceptà e confermà.
 
-<sup>2</sup> Sch’il debitur u sche la terza persuna ha – en il senn dals artitgels 163 cifra 2 e 164 cifra 2 – fatg in sforz economic spezial per facilitar qua tras la conclusiun d’in concordat giudizial, po l’autoritad cumpetenta desister d’al persequitar penalmain, d’al consegnar al derschader u d’al dar in chasti.
+<sup>2</sup> …[^171-1]
 
-### Revocaziun dal concurs
+[^171-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 171<sup>bis</sup>
 
-<sup>1</sup> Sch’il concurs vegn revocà (art. 195 LSC[^171bis-1]), po l’autoritad cumpetenta desister da la persecuziun penala, da la consegna al derschader u dal chasti.
+[^171bis-1]
 
-<sup>2</sup> Sch’igl è vegnì concludì in concordat giudizial, è l’alinea 1 mo applitgabel, sch’il debitur u sche la terza persuna en il senn dals artitgels 163 cifra 2 e 164 cifra 2 ha fatg in sforz economic spezial ed ha tras quai facilità la conclusiun dal concordat.
-
-[^171bis-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^171bis-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 4. Disposiziuns generalas.
 
@@ -3015,9 +3044,9 @@ vegn chastià, sin plant, cun in chasti pecuniar.[^173-2]
 
 <sup>3.</sup> A l’inculpà na vegni betg permess da prestar la cumprova d’avair ditg la vardad ed el è chastiabel per decleraziuns ch’èn vegnidas ditgas u derasadas senza vulair mantegnair ils interess publics u senza auters motivs giustifitgabels, mabain ch’èn vegnidas ditgas e derasadas en emprima lingia cun l’intent da renfatschar ad insatgi insatge dal mal, en spezial sche las decleraziuns sa refereschan a la vita privata u a la vita da famiglia.
 
-<sup>4.</sup> Sch’il delinquent revochescha sco nunvair quai ch’el ha ditg, po il derschader diminuir il chasti u desister dal tuttafatg da quel.
+<sup>4.</sup> Sch’il delinquent revochescha sco nunvair quai ch’el ha ditg, po la dretgira diminuir il chasti u desister dal tuttafatg da quel.
 
-<sup>5.</sup> Sche l’inculpà n’ha betg cumprovà la vardad u sche sias decleraziuns èn nunvairas u sche l’inculpà las revochescha, ha il derschader da constatar quai en la sentenzia u en in auter document.
+<sup>5.</sup> Sche l’inculpà n’ha betg cumprovà la vardad u sche sias decleraziuns èn nunvairas u sche l’inculpà las revochescha, ha la dretgira da constatar quai en la sentenzia u en in auter document.
 
 [^173-1]: Versiun tenor la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [BBl 1949 I 1249](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
 [^173-2]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -3030,13 +3059,13 @@ vegn chastià, sin plant, cun in chasti pecuniar.[^173-2]
 
 tgi che derasa ina tala inculpaziun u in tal suspect cunter meglier savair,
 
-vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il delinquent ha empruvà da ruinar il bun num d’ina persuna, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar betg sut 30 taxas per di.[^174-1]
+<sup>2.</sup> Sch’il delinquent ha empruvà da ruinar il bun num d’ina persuna, vegn el chastià cun in chasti da detenziun dad 1 mais fin 3 onns u cun in chasti pecuniar betg sut 30 taxas per di.[^174-1]
 
-<sup>3.</sup> Sch’il delinquent revochescha davant il derschader quai ch’el ha ditg sco nunvair, po el vegnir chastià cun in chasti pli lev. Il derschader consegna a l’offendì in document davart la revocaziun.
+<sup>3.</sup> Sch’il delinquent revochescha davant dretgira sco nunvair quai ch’el ha ditg, po el vegnir chastià cun in chasti pli lev. La dretgira consegna a l’offendì in document davart la revocaziun.
 
-[^174-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^174-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Diffamaziun u calumnia vers ina persuna morta u sparida
 
@@ -3056,11 +3085,11 @@ Diffamaziuns e calumnias exprimidas a bucca han il medem status sco diffamaziuns
 
 #### Art. 177
 
-<sup>1</sup> Tgi che offenda l’onur d’ina persuna en in’autra moda cun pleds, cun scrittiras, cun maletgs, cun gests u cun metter maun vi dad ella, vegn chastià, sin plant, cun in chasti pecuniar fin a 90 taxas per di.[^177-1]
+<sup>1</sup> Tgi che offenda l’onur d’ina persuna en in’autra moda cun pleds, cun scrittiras, cun maletgs, cun gests u cun metter maun vi dad ella, vegn chastià, sin plant, cun in chasti pecuniar da fin 90 taxas per di.[^177-1]
 
-<sup>2</sup> Sche l’offendi ha provocà directamain l’ingiuria cun ses cumportament deplazzà, po il derschader deliberar il delinquent dal chasti.
+<sup>2</sup> Sche l’offendì ha provocà directamain l’ingiuria cun ses cumportament maldeschent, po la dretgira deliberar il delinquent dal chasti.
 
-<sup>3</sup> Sche l’offendi ha replitgà immediatamain l’ingiuria cun ina ingiuria u cun metter maun vi da l’auter, po il derschader deliberar tuts dus u in dad els dal chasti.
+<sup>3</sup> Sche l’offendì ha replitgà immediatamain l’ingiuria cun ina ingiuria u cun metter maun vi da l’auter, po la dretgira deliberar tuts dus u in dad els dal chasti.
 
 [^177-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
@@ -3103,7 +3132,7 @@ tgi che profita d’in fatg u tgi che dat enconuschent ad ina terza persuna in f
 
 tgi che tegna en salv u renda accessibel ad ina terza persuna ina registraziun, da la quala el sa u sto supponer ch’ella è vegnida fatga tras in malfatg tenor l’alinea 1,
 
-vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^179bis-1]: Integrà tras la cifra I da la LF dals 20 da dec. 1968, en vigur dapi il 1. da matg 1969 ([AS 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [BBl 1968 I 585](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
 
@@ -3113,14 +3142,13 @@ vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chast
 
 [^179ter-1]
 
-Tgi che sco participant ad ina conversaziun registrescha sin in portatun ina conversaziun betg publica senza il consentiment dals auters participads,
+Tgi che, sco participant d’ina conversaziun, registrescha sin in portatun ina conversaziun betg publica senza il consentiment dals auters participads,
 
-tgi che tegna en salv, evaluescha, renda accessibel ad ina terza persuna il cuntegn da la registraziun u dat enconuschientscha ad ina terza persuna dal cuntegn da la registraziun, da la quala el sa u sto supponer ch’ella è vegnida fatga tras in malfatg tenor l’alinea 1,
+tgi che tegna en salv, evaluescha u renda accessibel ad ina terza persuna ina registraziun, da la quala el sa u sto supponer ch’ella è vegnida fatga tras in malfatg tenor l’alinea 1,
 
-vegn chastià, sin plant, cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar.[^179ter-2]
+vegn chastià, sin plant, cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
 
-[^179ter-1]: Integrà tras la cifra I da la LF dals 20 da dec. 1968, en vigur dapi il 1. da matg 1969 ([AS 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [BBl 1968 I 585](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
-[^179ter-2]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^179ter-1]: Integrà tras la cifra I da la LF dals 20 da dec. 1968 ([AS 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [BBl 1968 I 585](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violaziun da la sfera secreta u privata tras apparats da registraziun
 
@@ -3134,7 +3162,7 @@ tgi che profita d’in fatg u tgi che dat enconuschent ad ina terza persuna in f
 
 tgi che tegna en salv u renda accessibel ad ina terza persuna ina registraziun, da la quala el sa u sto supponer ch’ella è vegnida fatga tras in malfatg tenor l’alinea 1,
 
-vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^179quater-1]: Integrà tras la cifra I da la LF dals 20 da dec. 1968, en vigur dapi il 1. da matg 1969 ([AS 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [BBl 1968 I 585](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)).
 
@@ -3151,9 +3179,10 @@ Betg chastiabel, ni tenor l’artitgel 179<sup>bis</sup> alinea 1 ni tenor l’a
 - a. discurs telefonics cun servetschs d’agid, da salvament e da segirezza;
 - b. discurs telefonics dal traffic commerzial che concernan empustaziuns, incumbensas, reservaziuns e fatschentas sumegliantas.
 
-<sup>2</sup> En quai che concerna l’utilisaziun da registraziuns tenor l’alinea 1 èn applitgabels confurm al senn ils artitgels 179<sup>bis</sup> alineas 2 e 3 e 179<sup>ter</sup> alinea 2.
+<sup>2</sup> Registraziuns tenor l’alinea 1 dastgan vegnir utilisadas mo per registrar las cumprovas.[^179quinquies-2]
 
 [^179quinquies-1]: Integrà tras la cifra I da la LF dals 20 da dec. 1968 ([AS 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [BBl 1968 I 585](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Versiun tenor la cifra I da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da mars 2004 ([AS 2004 823](https://fedlex.data.admin.ch/eli/oc/2004/92); [BBl 2001 2632](https://fedlex.data.admin.ch/eli/fga/2001/528)[5816](https://fedlex.data.admin.ch/eli/fga/2001/920)).
+[^179quinquies-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Metter en circulaziun e far reclama per apparats per tadlar zuppads, per apparats da registraziun dal tun e da maletgs
 
@@ -3163,7 +3192,7 @@ Betg chastiabel, ni tenor l’artitgel 179<sup>bis</sup> alinea 1 ni tenor l’a
 
 <sup>1.</sup> Tgi che producescha, importa, exporta, acquista, depositescha, posseda, dat vinavant, surlascha ad in auter, venda, dat en locaziun, empresta u metta en in’autra moda en circulaziun apparats tecnics che servan particularmain per tadlar u per registrar illegalmain tun e maletg ubain fa reclama per tals apparats u dat instrucziuns per la construcziun da quests apparats,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2.</sup> Sch’il delinquent agescha en l’interess d’ina terza persuna, vegn questa terza persuna, che ha gì enconuschientscha da la cuntravenziun e n’ha betg impedì quella tenor sias pussaivladads, suttamessa al medem chasti.
 
@@ -3178,9 +3207,9 @@ Sche la terza persuna è ina persuna giuridica, ina societad collectiva u ina so
 
 [^179septies-1]
 
-Tgi che fa or da nauschadad u or da levsenn abus d’in indriz da telecommunicaziun per inquietar u per mulestar autras persunas, vegn chastià, sin plant, cun multa.
+Tgi che fa abus d’in indriz da telecommunicaziun per inquietar u per mulestar autras persunas, vegn chastià, sin plant, cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
 
-[^179septies-1]: Integrà tras la cifra I da la LF dals 20 da dec. 1968 ([AS 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [BBl 1968 I 585](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Versiun tenor la cifra 2 da la L da telecommunicaziun dals 30 d’avr. 1997, en vigur dapi il 1. da schan. 1998 ([AS 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187); [BBl 1996 III 1405](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)).
+[^179septies-1]: Integrà tras la cifra I da la LF dals 20 da dec. 1968 ([AS 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [BBl 1968 I 585](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Surveglianza uffiziala, nunchastiabladad
 
@@ -3188,12 +3217,14 @@ Tgi che fa or da nauschadad u or da levsenn abus d’in indriz da telecommunicaz
 
 [^179octies-1]
 
-<sup>1</sup> Tgi che ordinescha u fa, cun l’explicita autorisaziun legala, la surveglianza uffiziala da la correspundenza postala e dal traffic da telecommunicaziun d’ina persuna ubain fa diever d’apparats tecnics da surveglianza (art. 179<sup>bis</sup> ss.), n’è betg chastiabel, sch’el dumonda immediatamain l’approvaziun dal derschader cumpetent.
+<sup>1</sup> Tgi che ordinescha u fa, cun l’explicita autorisaziun legala, la surveglianza da la correspundenza postala e dal traffic da telecommunicaziun d’ina persuna ubain fa diever d’apparats tecnics da surveglianza (art. 179<sup>bis</sup> ss.), n’è betg chastiabel, sch’el dumonda immediatamain l’approvaziun da la dretgira cumpetenta.
 
-<sup>2</sup> Las premissas per survegliar la correspundenza postala ed il traffic da telecommunicaziun e la procedura respectiva sa drizzan tenor la Lescha federala dals 6 d’october 2000[^179octies-2] davart la surveglianza dal traffic da posta e da telecommunicaziun.
+<sup>2</sup> Las premissas per survegliar la correspundenza postala ed il traffic da telecommunicaziun e la procedura respectiva sa drizzan tenor la Lescha federala dals 18 da mars 2016[^179octies-2] davart la surveglianza da la correspundenza postala e dal traffic da telecommunicaziun u tenor il Cudesch da procedura penala[^179octies-3].[^179octies-4]
 
 [^179octies-1]: Integrà tras la cifra VII da la LF dals 23 da mars 1979 davart la protecziun da la sfera secreta persunala ([AS 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [BBl 1976 I 529](https://fedlex.data.admin.ch/eli/fga/1976/1_529__)II 1569). Versiun tenor la cifra 1 da l’agiunta da la LF dals 6 d’oct. 2000 davart la surveglianza dal traffic da posta e da telecommunicaziun, en vigur dapi il 1. da schan. 2002 ([AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); BBl **1998** 4241).
-[^179octies-2]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 18, [3043](https://fedlex.data.admin.ch/eli/oc/2003/417)cifra I 2; [2004 2149](https://fedlex.data.admin.ch/eli/oc/2004/249), [3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 84, [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)art. 2 cifra 3; [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)agiunta cifra 3, [5437](https://fedlex.data.admin.ch/eli/oc/2007/758)agiunta cifra II 7; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)agiunta 1 cifra II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)agiunta cifra II 14; [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)agiunta cifra 7; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)agiunta cifra II 12. [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)]. Guardar oz: LF dals 18 da mars 2016 ([SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
+[^179octies-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^179octies-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^179octies-4]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Procuraziun nunautorisada da datas da persunas
 
@@ -3201,7 +3232,7 @@ Tgi che fa or da nauschadad u or da levsenn abus d’in indriz da telecommunicaz
 
 [^179novies-1]
 
-Tgi che sa procura senza autorisaziun, or d’ina collecziun da datas, datas da persunas ch’èn spezialmain degnas da vegnir protegidas u profils da persunalitads che n’èn betg accessibels libramain, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che sa procura senza autorisaziun, or d’ina collecziun da datas, datas da persunas ch’èn spezialmain degnas da vegnir protegidas u profils da persunalitads che n’èn betg accessibels libramain, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^179novies-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 1992 davart la protecziun da datas, en vigur dapi il 1. da fan. 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 
@@ -3211,14 +3242,14 @@ Tgi che sa procura senza autorisaziun, or d’ina collecziun da datas, datas da 
 
 #### Art. 180
 
-<sup>1</sup> Tgi che chaschuna sgarschur u tema ad insatgi tras ina greva smanatscha, vegn chastià, sin dumonda, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che chaschuna sgarschur u tema ad insatgi tras ina greva smanatscha, vegn chastià, sin dumonda, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup>
 
 Il delinquent vegn persequità d’uffizi, sche:
 
-- a. el è il conjugal da la victima e la smanatscha è vegnida commessa durant la lètg u fin ad 1 onn suenter il divorzi; u
-- a<sup>bis</sup>.[^180-1] el è il partenari registrà da la victima e la smanatscha è vegnida commessa durant il partenadi registrà u fin ad 1 onn suenter sia schliaziun; u
+- a. el è il conjugal da la victima e la smanatscha è vegnida commessa durant la lètg u fin 1 onn suenter il divorzi; u
+- a<sup>bis</sup>.[^180-1] el è il partenari registrà da la victima e la smanatscha è vegnida commessa durant il partenadi registrà u fin 1 onn suenter sia schliaziun; u
 - b. el è il partenari da vita eterosexual u omosexual da la victima, uschenavant ch’els mainan ina chasada cuminaivla per in temp illimità e la smanatscha è vegnida commessa durant quest temp u entaifer 1 onn suenter la separaziun.[^180-2]
 
 [^180-1]: Integrà tras la cifra 18 da l’agiunta da la L da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -3228,7 +3259,7 @@ Il delinquent vegn persequità d’uffizi, sche:
 
 #### Art. 181
 
-Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ubain cun restrenscher sia libertad d’agir en autra moda e maniera – da far, da tralaschar ubain da tolerar insatge, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ubain cun restrenscher sia libertad d’agir en autra moda e maniera – da far, da tralaschar ubain da tolerar insatge, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Maridaglia sfurzada, partenadi registrà sfurzà
 
@@ -3236,7 +3267,7 @@ Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ub
 
 [^181a-1]
 
-<sup>1</sup> Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ubain cun restrenscher sia libertad d’agir en autra moda e maniera – da maridar u da laschar registrar in partenadi, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ubain cun restrenscher sia libertad d’agir en autra moda e maniera – da maridar u da laschar registrar in partenadi, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Chastiabel è er quel che commetta il malfatg a l’exteriur, sch’el sa chatta en Svizra e na vegn betg extradì. L’artitgel 7 alineas 4 e 5 è applitgabel.
 
@@ -3252,12 +3283,13 @@ Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ub
 
 <sup>2</sup> Sche la victima è ina persuna minorenna[^182-2] u sch’il delinquent fa da professiun commerzi cun umans, vegn el chastià cun in chasti da detenziun betg sut 1 onn.
 
-<sup>3</sup> En mintga cas sto er vegnir pronunzià in chasti pecuniar.
+<sup>3</sup> …[^182-3]
 
 <sup>4</sup> Chastiabel è er il delinquent che commetta il malfatg a l’exteriur. Ils artitgels 5 e 6 èn applitgabels.
 
 [^182-1]: Versiun tenor l’art. 2 cifra 1 dal COF dals 24 da mars 2006 davart l’approvaziun e la realisaziun dal protocol facultativ dals 25 da matg 2000 tar la Convenziun dals dretgs da l’uffant concernent la vendita d’uffants, la prostituziun d’uffants e la pornografia d’uffants, en vigur dapi il 1. da dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823); [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
 [^182-2]: [AS 2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901)
+[^182-3]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Sequestraziun da persunas e rapinament
 
@@ -3269,7 +3301,7 @@ Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ub
 
 tgi che rapinescha insatgi tras violenza, tras malizia ubain tras smanatscha,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 <sup>2.</sup> Medemamain vegn quel chastià che rapinescha insatgi che n’è betg abel da giuditgar, che n’è betg abel da sa defender u che n’ha anc betg 16 onns.
 
@@ -3338,7 +3370,7 @@ Cun in chasti da detenziun betg sut 1 onn vegn chastià, tgi che fa – cun l’
 
 #### Art. 186
 
-Tgi ch’entra, cunter la voluntad da la persuna autorisada, illegalmain en ina chasa, en in’abitaziun, en ina stanza serrada d’ina chasa ubain en ina plazza, en ina curt, en in curtin u en ina plazza da lavur, ubain tgi che resta là, malgrà il cumond da la persuna autorisada da s’allontanar, vegn chastià, sin dumonda, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi ch’entra, cunter la voluntad da la persuna autorisada, illegalmain en ina chasa, en in’abitaziun, en ina stanza serrada d’ina chasa ubain en ina plazza, en ina curt, en in curtin u en ina plazza da lavur, ubain tgi che resta là, malgrà il cumond da la persuna autorisada da s’allontanar, vegn chastià, sin dumonda, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Tschintgavel titel: Acts chastiabels cunter l’integritad sexuala
 
@@ -3358,13 +3390,13 @@ tgi che surmaina in uffant ad in tal act u
 
 tgi che sforza in uffant da sa participar ad in act sexual,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 <sup>2.</sup> L’act n’è betg chastiabel, sche la differenza da vegliadetgna tranter las persunas participadas è main che 3 onns.
 
-3.[^187-1] Schʼil delinquent nʼha betg cumplenì 20 onns il mument chʼel ha commess lʼact u lʼemprima acziun e schʼi existan circumstanzas particularas u sche la persuna violada lʼha maridà u viva en partenadi registrà cun el, po lʼautoritad cumpetenta desister da la persecuziun penala, da la consegna al derschader u dʼin chasti.
+3.[^187-1] Schʼil delinquent nʼha betg cumplenì 20 onns il mument chʼel ha commess lʼact u lʼemprima acziun e schʼi existan circumstanzas particularas u sche la persuna violada lʼha maridà u viva en partenadi registrà cun el, po lʼautoritad cumpetenta desister da la persecuziun penala, da la consegna a la dretgira u dʼin chasti.
 
-<sup>4.</sup> Sch’il delinquent ha agì sut l’influenza d’ina errur presumond che l’uffant haja almain 16 onns, ma sch’el avess – observond la precauziun duaivla – pudì evitar l’errur, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>4.</sup> Sch’il delinquent ha agì sut l’influenza d’ina errur presumond che l’uffant haja almain 16 onns, ma sch’el avess – observond la precauziun duaivla – pudì evitar l’errur, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>5.</sup> …[^187-2]
 
@@ -3382,9 +3414,9 @@ vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
 
 tgi che surmaina ina tala persuna ad in act sexual profitond da sia dependenza,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-2.[^188-1] Sche la persuna violada ha maridà il culpant u viva en partenadi registrà cun el, po l’autoritad cumpetenta desister da la persecuziun penala, da la consegna al derschader u dal chasti.
+2.[^188-1] Sche la persuna violada ha maridà il culpant u viva en partenadi registrà cun el, po l’autoritad cumpetenta desister da la persecuziun penala, da la consegna a la dretgira u dal chasti.
 
 [^188-1]: Versiun tenor la cifra 18 da la L da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
@@ -3394,7 +3426,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 #### Art. 189
 
-<sup>1</sup> Tgi che constrenscha ina persuna da tolerar in act sumegliant a l’act sexual u in auter act da gener sexual, numnadamain cun la smanatschar, cun duvrar violenza, cun la metter sut pressiun psichica u cun la render inabla da far resistenza, vegn chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che constrenscha ina persuna da tolerar in act sumegliant a l’act sexual u in auter act da gener sexual, numnadamain cun la smanatschar, cun duvrar violenza, cun la metter sut pressiun psichica u cun la render inabla da far resistenza, vegn chastià cun in chasti da detenziun da fin 10 onns u cun in chasti pecuniar.
 
 <sup>2</sup> …[^189-1]
 
@@ -3420,15 +3452,15 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 #### Art. 191
 
-Tgi che sa ch’ina persuna è incapabla da giuditgar u inabla da far resistenza e surdovra questa persuna per l’act sexual, per in act sumegliant a l’act sexual u per in auter act da gener sexual, vegn chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar.
+Tgi che sa ch’ina persuna è incapabla da giuditgar u inabla da far resistenza e surdovra questa persuna per l’act sexual, per in act sumegliant a l’act sexual u per in auter act da gener sexual, vegn chastià cun in chasti da detenziun da fin 10 onns u cun in chasti pecuniar.
 
 ### Acts sexuals cun persunas ricoveradas, arrestadas, accusadas
 
 #### Art. 192
 
-<sup>1</sup> Tgi che intimescha – profitond da la dependenza d’ina persuna ricoverada, internada, arrestada u accusada – da commetter u da tolerar in act sexual, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che intimescha – profitond da la dependenza d’ina persuna ricoverada, internada, arrestada u accusada – da commetter u da tolerar in act sexual, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Sche la persuna violada ha maridà il delinquent u sch’ella viva en partenadi registrà cun el, po l’autoritad cumpetenta desister da la persecuziun penala, da la consegna al derschader u dal chasti.[^192-1]
+<sup>2</sup> Sche la persuna violada ha maridà il delinquent u sch’ella viva en partenadi registrà cun el, po l’autoritad cumpetenta desister da la persecuziun penala, da la consegna a la dretgira u dal chasti.[^192-1]
 
 [^192-1]: Versiun tenor la cifra 18 da l’agiunta da la L da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
@@ -3436,9 +3468,9 @@ Tgi che sa ch’ina persuna è incapabla da giuditgar u inabla da far resistenza
 
 #### Art. 193
 
-<sup>1</sup> Tgi che intimescha ina persuna da commetter u da tolerar in act sexual profitond d’ina situaziun d’urgenza u d’ina dependenza motivada tras ina relaziun da lavur u en in’autra moda, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che intimescha ina persuna da commetter u da tolerar in act sexual profitond d’ina situaziun d’urgenza u d’ina dependenza motivada tras ina relaziun da lavur u en in’autra moda, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Sche la persuna violada ha maridà il delinquent u sch’ella viva en partenadi registrà cun el, po l’autoritad cumpetenta desister da la persecuziun penala, da la consegna al derschader u dal chasti.[^193-1]
+<sup>2</sup> Sche la persuna violada ha maridà il delinquent u sch’ella viva en partenadi registrà cun el, po l’autoritad cumpetenta desister da la persecuziun penala, da la consegna a la dretgira u dal chasti.[^193-1]
 
 [^193-1]: Versiun tenor la cifra 18 da l’agiunta da la L da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
@@ -3460,7 +3492,7 @@ Tgi che sa ch’ina persuna è incapabla da giuditgar u inabla da far resistenza
 
 [^195-1]
 
-Cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar vegn chastià, tgi che:
+Cun in chasti da detenziun da fin 10 onns u cun in chasti pecuniar vegn chastià, tgi che:
 
 - a. stauscha ina persuna minorenna en la prostituziun u promova sia prostituziun cun l’intenziun d’obtegnair in avantatg da facultad;
 - b. stauscha ina persuna en la prostituziun profitond d’ina relaziun da dependenza u cun l’intenziun d’obtegnair in avantatg da facultad;
@@ -3475,7 +3507,7 @@ Cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar vegn chastià,
 
 [^196-1]
 
-Tgi che commetta acts sexuals cun ina persuna minorenna u fa commetter ina persuna minorenna tals acts, la pajond u empermettend ina indemnisaziun, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che commetta acts sexuals cun ina persuna minorenna u fa commetter ina persuna minorenna tals acts, la pajond u empermettend ina indemnisaziun, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^196-1]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 27 da sett. 2013 (Convenziun da Lanzarote), en vigur dapi il 1. da fan. 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
@@ -3485,15 +3517,15 @@ Tgi che commetta acts sexuals cun ina persuna minorenna u fa commetter ina persu
 
 [^197-1]
 
-<sup>1</sup> Tgi che offrescha, mussa, surlascha, renda accessibels ad ina persuna sut 16 onns scrittiras pornograficas, registraziuns sonoras u visualas, maletgs, auters objects da tala spezia u preschentaziuns pornograficas u als derasa tras il radio e tras la televisiun, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che offrescha, mussa, surlascha, renda accessibels ad ina persuna sut 16 onns scrittiras pornograficas, registraziuns sonoras u visualas, maletgs, auters objects da tala spezia u preschentaziuns pornograficas u als derasa tras il radio e tras la televisiun, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Tgi che expona u mussa publicamain objects u preschentaziuns tenor l’alinea 1 u als offrescha uschiglio ad insatgi senza vegnir intimà, vegn chastià cun multa. Tgi che fa attent gia ordavant ils visitaders d’exposiziuns u da preschentaziuns en locals serrads al caracter pornografic da quellas, na vegn betg chastià.
 
-<sup>3</sup> Tgi che recrutescha ina persuna minorenna, per che quella coopereschia ad ina preschentaziun pornografica, u tgi che cumonda ad ina persuna minorenna da cooperar ad ina tala preschentaziun, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>3</sup> Tgi che recrutescha ina persuna minorenna, per che quella coopereschia ad ina preschentaziun pornografica, u tgi che cumonda ad ina persuna minorenna da cooperar ad ina tala preschentaziun, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>4</sup> Tgi che fabritgescha, importa, depositescha, metta en circulaziun, propaghescha, expona, offrescha, mussa, surlascha, renda accessibels, acquista, sa procura sur meds electronics u en autra moda u posseda objects u preschentaziuns tenor l’alinea 1, che cuntegnan acts sexuals cun animals u acts da violenza tranter persunas creschidas u acts sexuals betg reals cun persunas minorennas, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar. Sch’ils objects u las preschentaziuns cuntegnan acts sexuals reals cun persunas minorennas, è il chastì in chasti da detenziun fin a 5 onns u in chasti pecuniar.
+<sup>4</sup> Tgi che fabritgescha, importa, depositescha, metta en circulaziun, propaghescha, expona, offrescha, mussa, surlascha, renda accessibels, acquista, sa procura sur meds electronics u en autra moda u posseda objects u preschentaziuns tenor l’alinea 1, che cuntegnan acts sexuals cun animals u acts da violenza tranter persunas creschidas u acts sexuals betg reals cun persunas minorennas, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar. Sch’ils objects u las preschentaziuns cuntegnan acts sexuals reals cun persunas minorennas, è il chastì in chasti da detenziun da fin 5 onns u in chasti pecuniar.
 
-<sup>5</sup> Tgi che consumescha, producescha per l’agen consum, importa, depositescha, acquista, sa procura sur meds electronics u en autra moda u posseda objects u preschentaziuns tenor l’alinea 1, che cuntegnan acts sexuals cun animals u acts da violenza tranter persunas creschidas u acts sexuals betg reals cun persunas minorennas, vegn chastià cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar. Sch’ils objects u las preschentaziuns cuntegnan acts sexuals reals cun persunas minorennas, è il chastì in chasti da detenziun fin a 3 onns u in chasti pecuniar.
+<sup>5</sup> Tgi che consumescha, producescha per l’agen consum, importa, depositescha, acquista, sa procura sur meds electronics u en autra moda u posseda objects u preschentaziuns tenor l’alinea 1, che cuntegnan acts sexuals cun animals u acts da violenza tranter persunas creschidas u acts sexuals betg reals cun persunas minorennas, vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar. Sch’ils objects u las preschentaziuns cuntegnan acts sexuals reals cun persunas minorennas, è il chastì in chasti da detenziun da fin 3 onns u in chasti pecuniar.
 
 <sup>6</sup> En cas da malfatgs tenor ils alineas 4 e 5 vegnan confiscads ils objects.
 
@@ -3527,7 +3559,7 @@ Tgi che cuntrafa a las prescripziuns chantunalas davart il lieu, davart las uras
 
 #### Art. 200
 
-Sch’in malfatg da quest titel vegn commess cuminaivlamain da pliras persunas, po il derschader augmentar il chasti, na dastga dentant betg surpassar per pli che la mesadad la dimensiun maximala dal chasti smanatschà. En quest connex è el lià vi dal maximum legal dal gener dal chasti.
+Sch’in malfatg da quest titel vegn commess cuminaivlamain da pliras persunas, po la dretgira augmentar il chasti, na dastga dentant betg surpassar per pli che la mesadad la dimensiun maximala dal chasti smanatschà. En quest connex è ella liada vi dal maximum legal dal gener dal chasti.
 
 #### Art. 201–212
 
@@ -3543,7 +3575,7 @@ Sch’in malfatg da quest titel vegn commess cuminaivlamain da pliras persunas, 
 
 [^213-1]
 
-<sup>1</sup> L’act sexual tranter parents consanguins en lingia directa, tranter fragliuns consanguins ed uterins vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> L’act sexual tranter parents consanguins en lingia directa, tranter fragliuns consanguins ed uterins vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Minorens na vegnan betg chastiads, sch’els èn vegnids surmanads.
 
@@ -3568,7 +3600,7 @@ Tgi che marida, malgrà ch’el è gia maridà, u tgi che lascha registrar in pa
 
 tgi che concluda ina lètg cun ina persuna maridada u tgi che lascha registrar il partenadi cun ina persuna che viva gia en partenadi registrà,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^215-1]: Versiun tenor la cifra 18 da l’agiunta da la L da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
@@ -3584,7 +3616,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 [^217-1]
 
-<sup>1</sup> Tgi che n’ademplescha betg sias obligaziuns da mantegniment u da sustegn tenor il dretg da famiglia, malgrà ch’el ha u ch’el avess ils meds necessaris per quai, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che n’ademplescha betg sias obligaziuns da mantegniment u da sustegn tenor il dretg da famiglia, malgrà ch’el ha u ch’el avess ils meds necessaris per quai, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Il dretg da purtar plant han er las autoritads ed ils posts designads dals chantuns. Quest dretg sto vegnir exequì observond ils interess da la famiglia.
 
@@ -3602,12 +3634,12 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 [^219-1]
 
-<sup>1</sup> Tgi che violescha u negligescha sia obligaziun d’assistenza u d’educaziun vers ina persuna minorenna e periclitescha quella tras quai en ses svilup corporal e spiertal, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che violescha u negligescha sia obligaziun d’assistenza u d’educaziun vers ina persuna minorenna e periclitescha quella tras quai en ses svilup corporal e spiertal, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha, po el vegnir chastià cun multa empè d’in chasti da detenziun u empè d’in chasti pecuniar.[^219-2]
+<sup>2</sup> Il delinquent vegn chastià cun in chasti pecuniar, sch’el agescha per negligientscha.[^219-2]
 
 [^219-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 1989, en vigur dapi il 1. da schan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^219-2]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^219-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Privaziun da persunas minorennas
 
@@ -3615,7 +3647,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 [^220-1]
 
-Tgi che privescha ina persuna minorenna da la persuna che ha il dretg da determinar il lieu da dimora ubain refusa da la returnar a quella, vegn chastià, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che privescha ina persuna minorenna da la persuna che ha il dretg da determinar il lieu da dimora ubain refusa da la returnar a quella, vegn chastià, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^220-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
@@ -3629,15 +3661,17 @@ Tgi che privescha ina persuna minorenna da la persuna che ha il dretg da determi
 
 <sup>2</sup> Sch’il delinquent metta sapientivamain en privel il corp e la vita d’umans, vegn el chastià cun in chasti da detenziun betg sut 3 onns.
 
-<sup>3</sup> Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>3</sup> Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Incendi per negligientscha
 
 #### Art. 222
 
-<sup>1</sup> Tgi che chaschuna per negligientscha in incendi per il donn d’in auter u chaschuna uschia in privel public, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che chaschuna per negligientscha in incendi per il donn d’in auter u chaschuna uschia in privel public, vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.[^222-1]
 
-<sup>2</sup> Sch’il delinquent metta per negligientscha en privel il corp e la vita d’umans, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> Sch’il delinquent metta per negligientscha en privel il corp e la vita d’umans, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
+
+[^222-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Explosiun
 
@@ -3645,9 +3679,9 @@ Tgi che privescha ina persuna minorenna da la persuna che ha il dretg da determi
 
 <sup>1.</sup> Tgi che chaschuna intenziunadamain in’explosiun da gas, da benzin, da petroli u da materias sumegliantas e metta tras quai sapientivamain en privel il corp e la vita d’umans u proprietad estra, vegn chastià cun in chasti da detenziun betg sut 1 onn.
 
-Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Utilisaziun da materias explosivas e da gas da tissi per intents criminals
 
@@ -3655,15 +3689,19 @@ Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in ch
 
 <sup>1</sup> Tgi che metta en privel intenziunadamain e cun intents criminals il corp e la vita d’umans u proprietad estra cun duvrar materias explosivas u gas da tissi, vegn chastià cun in chasti da detenziun betg sut 1 onn.
 
-<sup>2</sup> Sch’igl ha dà mo in pitschen donn vi da la proprietad, po il delinquent vegnir chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> Sch’igl ha dà mo in pitschen donn vi da la proprietad, po il delinquent vegnir chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-### Periclitaziun senza intents criminals. Per negligientscha
+### Periclitaziun senza intents criminals e periclitaziun per negligientscha
 
 #### Art. 225
 
-<sup>1</sup> Tgi che metta en privel intenziunadamain, dentant senza intents criminals, u per negligientscha il corp e la vita d’umans u proprietad estra cun duvrar materias explosivas u gas da tissi, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+[^225-1]
 
-<sup>2</sup> En cas levs po vegnir pronunziada ina multa.
+<sup>1</sup> Tgi che metta en privel intenziunadamain, dentant senza intents criminals, il corp e la vita d’umans u proprietad estra cun duvrar materias explosivas u gas da tissi, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
+
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
+
+[^225-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fabritgar, zuppentar e dar vinavant materias explosivas e gas da tissi
 
@@ -3671,12 +3709,13 @@ Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in ch
 
 <sup>1</sup> Tgi che fabritgescha materias explosivas u gas da tissi ch’èn, sco ch’el sa u sto supponer, destinads ad in diever criminal, vegn chastià cun in chasti da detenziun da 6 mais fin 10 onns.[^226-1]
 
-<sup>2</sup> Tgi che sa procura, surdat ad in auter, surpiglia d’in auter, tegna en salv, zuppenta u dat vinavant materias explosivas, gas da tissi u materias ch’èn adattadas per fabritgar tals products, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar betg sut 30 taxas per di[^226-2], sch’el sa u sch’el sto supponer che questas materias èn destinadas ad in diever criminal.
+<sup>2</sup> Tgi che sa procura, surdat ad in auter, surpiglia d’in auter, tegna en salv, zuppenta u dat vinavant materias explosivas, gas da tissi u materias ch’èn adattadas per fabritgar tals products, vegn chastià cun in chasti da detenziun dad 1 mais fin 5 onns u cun in chasti pecuniar betg sut 30 taxas per di, sch’el sa u sch’el sto supponer che questas materias èn destinadas ad in diever criminal.[^226-2]
 
-<sup>3</sup> Tgi che dat ad insatgi, dal qual el sa u sto supponer ch’el planisescha in diever criminal da materias explosivas u da gas da tissi, instrucziuns per fabritgar talas materias e tals gas, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar betg sut 30 taxas per di.
+<sup>3</sup> Tgi che dat ad insatgi, dal qual el sa u sto supponer ch’el planisescha in diever criminal da materias explosivas u da gas da tissi, instrucziuns per fabritgar talas materias e tals gas, vegn chastià cun in chasti da detenziun dad 1 mais fin 5 onns u cun in chasti pecuniar betg sut 30 taxas per di.[^226-3]
 
 [^226-1]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^226-2]: Expressiun tenor la cifra II 1 al. 14 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
+[^226-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^226-3]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Periclitaziun tras energia nucleara, tras radioactivitad e tras radis ionisants
 
@@ -3684,11 +3723,11 @@ Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in ch
 
 [^226bis-1]
 
-<sup>1</sup> Tgi che metta, tras energia nucleara, tras materias radioactivas u tras radis ionisants, en privel intenziunadamain la vita u la sanadad d’umans ubain proprietad estra d’ina valur considerabla, vegn chastià cun in chasti da detenziun u cun in chasti pecuniar. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.
+<sup>1</sup> Tgi che metta, tras energia nucleara, tras materias radioactivas u tras radis ionisants, en privel intenziunadamain la vita u la sanadad d’umans ubain proprietad estra d’ina valur considerabla, vegn chastià cun in chasti da detenziun u cun in chasti pecuniar.
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-[^226bis-1]: Integrà tras la cifra II 2 da l’agiunta da la L dals 21 da mars 2003 davart l’energia nucleara, en vigur dapi il 1. da favr. 2005 ([AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [BBl 2001 2665](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^226bis-1]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 21 da mars 2003 davart l’energia nucleara ([AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [BBl 2001 2665](https://fedlex.data.admin.ch/eli/fga/2001/546)). Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Acziuns preparatoricas chastiablas
 
@@ -3696,13 +3735,13 @@ Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in ch
 
 [^226ter-1]
 
-<sup>1</sup> Tgi che fa sistematicamain preparaziuns concretas tecnicas u organisatoricas per metter en privel tras energia nucleara, tras materias radioactivas u tras radis ionisants la vita u la sanadad d’umans ubain proprietad estra d’ina valur considerabla, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.
+<sup>1</sup> Tgi che fa sistematicamain preparaziuns concretas tecnicas u organisatoricas per metter en privel tras energia nucleara, tras materias radioactivas u tras radis ionisants la vita u la sanadad d’umans ubain proprietad estra d’ina valur considerabla, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Tgi che construescha, sa procura, surdat ad in auter, surpiglia d’in auter, tegna en salv, zuppenta u dat vinavant materias radioactivas, indrizs, apparats u objects che pon cuntegnair materias radioactivas u che pon emetter radis ionisants, vegn chastià cun in chasti da detenziun fin a 10 onns u cun in chasti pecuniar, sch’el sa u sch’el sto supponer che questas materias e che quests objects èn destinads ad in diever chastiabel. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.
+<sup>2</sup> Tgi che construescha, sa procura, surdat ad in auter, surpiglia d’in auter, tegna en salv, zuppenta u dat vinavant materias radioactivas, indrizs, apparats u objects che pon cuntegnair materias radioactivas u che pon emetter radis ionisants, vegn chastià cun in chasti da detenziun da fin 10 onns u cun in chasti pecuniar, sch’el sa u sch’el sto supponer che questas materias e quests objects èn destinads ad in diever chastiabel.
 
-<sup>3</sup> Tgi che dat ad insatgi instrucziuns per construir talas materias, tals indrizs, tals apparats u tals objects, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, sch’el sa u sch’el sto supponer che questas materias e che quests objects èn destinads ad in diever chastiabel. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.
+<sup>3</sup> Tgi che dat ad insatgi instrucziuns per construir talas materias, tals indrizs, tals apparats u tals objects, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar, sch’el sa u sch’el sto supponer che questas materias e quests objects èn destinads ad in diever chastiabel.
 
-[^226ter-1]: Integrà tras la cifra II 2 da l’agiunta da la L dals 21 da mars 2003 davart l’energia nucleara, en vigur dapi il 1. da favr. 2005 ([AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [BBl 2001 2665](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^226ter-1]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 21 da mars 2003 davart l’energia nucleara ([AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [BBl 2001 2665](https://fedlex.data.admin.ch/eli/fga/2001/546)). Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Chaschunar ina inundaziun u ina sbuvada
 
@@ -3710,27 +3749,31 @@ Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in ch
 
 <sup>1.</sup> Tgi che chaschuna intenziunadamain ina inundaziun u ina sbuvada d’in edifizi ubain ina bova e metta tras quai sapientivamain en privel il corp e la vita d’umans u proprietad estra, vegn chastià cun in chasti da detenziun betg sut 1 onn.
 
-Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Donns vi d’implants electrics, idraulics e vi d’indrizs da protecziun
 
 #### Art. 228
 
-<sup>1.</sup> Tgi che donnegia u destruescha intenziunadamain implants electrics, implants idraulics, en spezial cuntschets, dustanzas, rempars, sclusas, ovras da protecziun cunter eveniments da la natira, per exempel cunter bovas u cunter lavinas, e metta tras quai en privel sapientivamain il corp e la vita d’umans u proprietad estra, vegn chastià cun in chasti da detenziun betg sut 1 onn.
+<sup>1.</sup> Tgi che donnegia u destruescha intenziunadamain implants electrics, implants idraulics, en spezial cuntschets, dustanzas, rempars, sclusas u ovras da protecziun cunter eveniments da la natira, sco bovas u lavinas, e metta tras quai en privel sapientivamain il corp e la vita d’umans u proprietad estra, vegn chastià cun in chasti da detenziun betg sut 1 onn.[^228-1]
 
-Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
+
+[^228-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Periclitaziun cun violar las reglas da la scienza da construcziun
 
 #### Art. 229
 
-<sup>1</sup> Tgi che n’observa intenziunadamain betg las reglas da la scienza da construcziun tar la direcziun u tar l’execuziun d’ina ovra da construcziun u d’ina demoliziun e periclitescha tras quai sapientivamain il corp e la vita da conumans, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.
+<sup>1</sup> Tgi che n’observa intenziunadamain betg las reglas da la scienza da construcziun tar la direcziun u tar l’execuziun d’ina ovra da construcziun u d’ina demoliziun e periclitescha tras quai sapientivamain il corp e la vita d’umans, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.[^229-1]
 
-<sup>2</sup> Sch’il delinquent n’observa betg las reglas da la scienza da construcziun per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> Sch’il delinquent n’observa betg las reglas da la scienza da construcziun per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
+
+[^229-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Allontanar u betg installar indrizs da segirezza
 
@@ -3740,11 +3783,13 @@ Sch’igl ha dà mo in pitschen donn, po il delinquent vegnir chastià cun in ch
 
 tgi che n’installescha intenziunadamain betg in tal indriz confurm a las prescripziuns,
 
-e periclitescha tras quai sapientivamain il corp e la vita da conumans,
+e periclitescha tras quai sapientivamain il corp e la vita d’umans,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.[^230-1]
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
+
+[^230-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Otgavel titel: Crims e delicts cunter la sanadad publica
 
@@ -3761,7 +3806,7 @@ Tgi che emetta intenziunadamain organissems modifitgads geneticamain u organisse
 - a. periclitescha il corp e la vita d’umans; u
 - b. periclitescha grevamain la cumposiziun natirala da biocenosas d’animals e da plantas u lur spazis da viver.
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^230bis-1]: Integrà tras la cifra 1 da l’agiunta da la L dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
@@ -3779,53 +3824,58 @@ Tgi che derasa per nausch caracter ina malsogna da l’uman privlusa e transmiss
 
 #### Art. 232
 
-<sup>1.</sup> Tgi che derasa intenziunadamain in’epidemia tranter ils animals da chasa, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che derasa intenziunadamain in’epidemia tranter ils animals da chasa, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 Sch’il delinquent ha chaschunà in grond donn per nausch caracter, vegn el chastià cun in chasti da detenziun dad 1 fin 5 onns.
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Derasaziun da parasits privlus
 
 #### Art. 233
 
-<sup>1.</sup> Tgi che derasa intenziunadamain in parasit ch’è privlus per l’agricultura u per la selvicultura, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che derasa intenziunadamain in parasit ch’è privlus per l’agricultura u per la selvicultura, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 Sch’il delinquent ha – per nausch caracter – chaschunà in grond donn, vegn el chastià cun in chasti da detenziun dad 1 fin 5 onns.
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Contaminaziun d’aua da baiver
 
 #### Art. 234
 
-<sup>1</sup> Tgi che contaminescha intenziunadamain l’aua da baiver per umans e per animals cun materias che donnegian la sanadad, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar betg sut 30 taxas per di.
+<sup>1</sup> Tgi che contaminescha intenziunadamain l’aua da baiver per umans e per animals da chasa cun materias che donnegian la sanadad, vegn chastià cun in chasti da detenziun dad 1 mais fin 5 onns u cun in chasti pecuniar betg sut 30 taxas per di.[^234-1]
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
+
+[^234-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fabricaziun da pavel che donnegia la sanadad
 
 #### Art. 235
 
-<sup>1.</sup> Tgi che tracta u fabritgescha pavel u meds da pavlar per animals da chasa intenziunadamain uschia, ch’els pericliteschan la sanadad dals animals, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che tracta u fabritgescha pavel u meds da pavlar per animals da chasa intenziunadamain uschia, ch’els pericliteschan la sanadad dals animals, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-Sch’il delinquent tracta u fabritgescha da professiun pavel che donnegia la sanadad, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar betg sut 30 taxas per di. Cun il chasti da detenziun sto vegnir collià in chasti pecuniar.[^235-1] En quests cas vegn publitgada la sentenzia penala.
+Sch’il delinquent tracta u fabritgescha da professiun pavel che donnegia la sanadad, vegn el chastià cun in chasti da detenziun dad 1 mais fin 3 onns u cun in chasti pecuniar betg sut 30 taxas per di. En quests cas vegn publitgada la sentenzia penala.[^235-1]
 
-<sup>2.</sup> Il delinquent vegn chastià cun ina multa, sch’el ha agì per negligientscha.
+<sup>2.</sup> Il delinquent vegn chastià cun ina multa, sch’el ha agì per negligientscha.[^235-2]
 
 <sup>3.</sup> Ils products vegnan confiscads. Els pon vegnir tractads uschia ch’els na donnegian betg pli la sanadad u pon vegnir destruids.
 
-[^235-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^235-1]: Versiun dal segund alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^235-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Metter en circulaziun pavel che donnegia la sanadad
 
 #### Art. 236
 
-<sup>1</sup> Tgi che importa, depositescha, metta en vendita u en circulaziun intenziunadamain pavel u meds da pavlar che donnegian la sanadad, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar. La sentenzia penala vegn publitgada.
+<sup>1</sup> Tgi che importa, depositescha, metta en vendita u en circulaziun intenziunadamain pavel u meds da pavlar che donnegian la sanadad, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar. La sentenzia penala vegn publitgada.
 
-<sup>2</sup> Il delinquent vegn chastià cun ina multa, sch’el ha agì per negligientscha.
+<sup>2</sup> Il delinquent vegn chastià cun in chasti pecuniar, sch’el ha agì per negligientscha.[^236-1]
 
 <sup>3</sup> Ils products vegnan confiscads. Els pon vegnir tractads uschia ch’els na donnegian betg pli la sanadad u pon vegnir destruids.
+
+[^236-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Novavel titel: Crims e delicts cunter il traffic public
 
@@ -3833,23 +3883,25 @@ Sch’il delinquent tracta u fabritgescha da professiun pavel che donnegia la sa
 
 #### Art. 237
 
-<sup>1.</sup> Tgi che disturba u periclitescha intenziunadamain il traffic public, en spezial il traffic sin via, sin l’aua u en l’aria, e metta tras quai sapientivamain en privel il corp e la vita d’umans, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che disturba u periclitescha intenziunadamain il traffic public, en spezial il traffic sin via, sin l’aua, en l’aria u sin la viafier, e metta tras quai sapientivamain en privel il corp e la vita d’umans u proprietad estra, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-Sch’il delinquent metta tras quai sapientivamain en privel il corp e la vita da blers umans, po el vegnir chastià cun in chasti da detenziun dad 1 fin 10 onns.
+Sch’il delinquent metta tras quai sapientivamain en privel il corp e la vita da blers umans, vegn el chastià cun in chasti da detenziun da fin 10 onns u cun in chasti pecuniar.[^237-1]
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-### Disturbi dal traffic da viafier
+[^237-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 238
 
-<sup>1</sup> Tgi che impedescha, disturba u periclitescha intenziunadamain il traffic da viafier e metta tras quai en privel sapientivamain il corp e la vita d’umans u proprietad estra, en spezial tgi che chaschuna il privel d’ina sviada u d’ina collisiun, vegn chastià cun in chasti da detenziun u cun in chasti pecuniar[^238-1].
+[^238-1]
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha e sch’il corp e la vita d’umans u proprietad estra vegnan periclitads considerablamain tras quai, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+[^238-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-[^238-1]: Expressiun tenor la cifra II 1 al. 15 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
+### Disturbi da manaschis en il servetsch da la generalitad
 
-### Disturbi da manaschis che servan a l’interess public
+[^book2-tit9-lvlu2-1]
+
+[^book2-tit9-lvlu2-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 239
 
@@ -3857,9 +3909,11 @@ Sch’il delinquent metta tras quai sapientivamain en privel il corp e la vita d
 
 tgi che impedescha, disturba u periclitescha intenziunadamain il manaschi d’in stabiliment u d’in indriz che serva al provediment general d’aua, da glisch, da forza u da chalira,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.[^239-1]
+
+[^239-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Dieschavel titel: Falsificaziun da daners, da marcas da valur uffizialas, da marcas uffizialas, da mesiras e da pais
 
@@ -3869,7 +3923,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 <sup>1</sup> Tgi che fa munaida faussa, daners da palpiri fauss u bancnotas faussas, per metter quellas e quels en circulaziun sco daners autentics, vegn chastià cun in chasti da detenziun betg sut 1 onn.
 
-<sup>2</sup> En cas spezialmain levs vegn il delinquent chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> En cas spezialmain levs vegn il delinquent chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>3</sup> Il delinquent è er chastiabel, sch’el ha commess il malfatg a l’exteriur, sch’el è vegnì arrestà en Svizra e na vegn betg extradì e sch’il malfatg è er chastiabel al lieu, nua ch’el è vegnì commess.
 
@@ -3879,7 +3933,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 <sup>1</sup> Tgi che falsifitgescha munaida, daners da palpiri u bancnotas per metter en circulaziun questas falsificaziuns per ina valur pli gronda, vegn chastià cun in chasti da detenziun da 6 mais fin 5 onns.[^241-1]
 
-<sup>2</sup> En cas spezialmain levs vegn il delinquent chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> En cas spezialmain levs vegn il delinquent chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^241-1]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
@@ -3887,9 +3941,9 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 #### Art. 242
 
-<sup>1</sup> Tgi che metta en circulaziun munaida u daners da palpiri fauss u falsifitgads, bancnotas faussas u falsifitgadas sco daners autentics u nunfalsifitgads, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar[^242-1].
+<sup>1</sup> Tgi che metta en circulaziun munaida u daners da palpiri fauss u falsifitgads, bancnotas faussas u falsifitgadas sco daners autentics u nunfalsifitgads, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar[^242-1].
 
-<sup>2</sup> Sch’il delinquent u ses incumbensader u ses represchentant ha retschavì la munaida u las bancnotas sco autenticas u sco nunfalsifitgadas, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> Sch’il delinquent u ses incumbensader u ses represchentant ha retschavì la munaida u las bancnotas sco autenticas u sco nunfalsifitgadas, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^242-1]: Expressiun tenor la cifra II 1 al. 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
 
@@ -3907,19 +3961,19 @@ tgi che reproducescha u imitescha – senza avair l’intenziun da falsificaziun
 
 tgi che importa, porscha u metta en circulaziun tals objects,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.[^243-2]
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.[^243-2]
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun multa.[^243-3]
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti pecuniar.[^243-3]
 
 [^243-1]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 22 da dec. 1999 davart l’unitad monetara ed ils meds da pajament, en vigur dapi il 1. da matg 2000 ([AS 2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186); [BBl 1999 7258](https://fedlex.data.admin.ch/eli/fga/1999/1_7258_6536_6201)).
 [^243-2]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^243-3]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^243-3]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Import, acquist, deposit da daners fauss
 
 #### Art. 244
 
-<sup>1</sup> Tgi che importa, acquista u depona munaida u daners da palpiri fauss u falsifitgads, bancnotas faussas u falsifitgadas per metter quellas e quels en circulaziun sco daners autentics u nunfalsifitgads, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.[^244-1]
+<sup>1</sup> Tgi che importa, acquista u depona munaida u daners da palpiri fauss u falsifitgads, bancnotas faussas u falsifitgadas per metter quellas e quels en circulaziun sco daners autentics u nunfalsifitgads, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.[^244-1]
 
 <sup>2</sup> Tgi che importa, acquista u depona quellas e quels en grondas quantitads, vegn chastià cun in chasti da detenziun dad 1 fin 5 onns.
 
@@ -3929,27 +3983,33 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.[
 
 #### Art. 245
 
+[^245-1]
+
 <sup>1.</sup> Tgi che fa marcas da valur uffizialas faussas u falsifitgescha talas, en spezial marcas postalas, marcas da bul u marcas da taxas, per las duvrar sco autenticas u sco nunfalsifitgadas,
 
 tgi che dat a marcas da valur uffizialas ch’èn gia svalitadas l’aspect dad esser valaivlas per las duvrar sco talas,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 Il delinquent è er chastiabel, sch’el ha commess il malfatg a l’exteriur, sch’el è vegnì arrestà en Svizra e na vegn betg extradì e sch’il malfatg è er chastiabel al lieu, nua ch’el è vegnì commess.
 
-<sup>2.</sup> Tgi che dovra marcas da valur uffizialas faussas, falsifitgadas u svalitadas sco autenticas, sco nunfalsifitgadas u sco valaivlas, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Tgi che dovra marcas da valur uffizialas faussas, falsifitgadas u svalitadas sco autenticas, sco nunfalsifitgadas u sco valaivlas, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
+
+[^245-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsificaziun da marcas uffizialas
 
 #### Art. 246
 
-Tgi che fa marcas uffizialas faussas u falsifitgescha talas marcas che las autoritads plazzeschan vi d’in object per constatar il resultat d’ina examinaziun u la concessiun d’ina autorisaziun, per exempel buls da la controlla d’aur u d’argient, buls dals inspecturs da charn, marcas da l’Uffizi federal da la duana e da la segirezza dals cunfins per las duvrar sco autenticas u sco nunfalsifitgadas,[^246-1]
+[^246-1]
+
+Tgi che fa marcas uffizialas faussas u falsifitgescha talas marcas che las autoritads plazzeschan vi d’in object per constatar il resultat d’ina examinaziun u la concessiun d’ina autorisaziun, per exempel buls da la controlla d’aur u d’argient, buls dals inspecturs da charn, marcas da l’Uffizi federal da la duana e da la segirezza dals cunfins per las duvrar sco autenticas u sco nunfalsifitgadas,
 
 tgi che dovra marcas da quest gener faussas u falsifitgadas sco autenticas u sco nunfalsifitgadas,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-[^246-1]: Versiun tenor la cifra I 6 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^246-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Apparats da falsificaziun; diever illegal d’apparats
 
@@ -3959,7 +4019,7 @@ Tgi che fabritgescha apparats per far munaida faussa, daners da palpiri fauss, b
 
 tgi che dovra illegalmain apparats, cun ils quals i vegn fabritgà munaida, daners da palpiri, bancnotas u marcas da valur uffizialas,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Falsificaziun da mesiras e da pais
 
@@ -3973,7 +4033,7 @@ tgi che fa midadas vi da mesiras, vi da pais, vi da stadairas u vi d’auters in
 
 tgi che dovra mesiras, pais, stadairas u auters instruments da mesiraziun fauss u falsifitgads,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 ### Confiscaziun
 
@@ -4007,11 +4067,12 @@ tgi che fa in document fauss u falsifitgescha in tal, dovra la suttascripziun au
 
 tgi che dovra in document da tal gener per engianar auters,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> En cas spezialmain levs po vegnir pronunzià in chastì da detenziun fin a 3 onns u in chasti pecuniar.
+<sup>2.</sup> …[^251-2]
 
 [^251-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 1994, en vigur dapi il 1. da schan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^251-2]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsificaziun da certificats
 
@@ -4027,7 +4088,7 @@ tgi che dovra ina scrittira da tal gener per engianar auters,
 
 tgi che fa abus da scrittiras da tal gener, che n’èn betg destinadas ad el, per engianar auters,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^252-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 1994, en vigur dapi il 1. da schan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
@@ -4039,13 +4100,13 @@ Tgi che cuntanscha cun engion ch’in funcziunari u ch’ina persuna da fai publ
 
 tgi che dovra in tal document obtegnì cun rampigns per engianar in auter en quai che concerna ils fatgs ch’èn documentads en quest document,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 ### Suppressiun da documents
 
 #### Art. 254
 
-<sup>1</sup> Tgi che donnegescha, destruescha, lascha svanir u sa patruna d’in document, dal qual el na dastga betg disponer sulet, cun l’intenziun da far donn ad insatgi vi da sia facultad u vi d’auters dretgs u da procurar in avantatg illegal a sasez u ad in auter, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che donnegescha, destruescha, lascha svanir u sa patruna d’in document, dal qual el na dastga betg disponer sulet, cun l’intenziun da far donn ad insatgi vi da sia facultad u vi d’auters dretgs u da procurar in avantatg illegal a sasez u ad in auter, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 <sup>2</sup> La suppressiun da documents a disfavur d’in parent u d’in confamigliar vegn persequità mo sin basa d’in plant.
 
@@ -4059,13 +4120,13 @@ Ils artitgels 251–254 vegnan er applitgads per documents da l’exteriur.
 
 #### Art. 256
 
-Tgi che allontanescha, sposta, fa nunenconuschaivel, metta en in lieu fauss u falsifitgescha in term u in auter segn da cunfin cun l’intenziun da far donn ad insatgi vi da sia facultad u vi d’auters dretgs u da procurar in avantatg illegal a sasez u ad in auter, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che allontanescha, sposta, fa nunenconuschaivel, metta en in lieu fauss u falsifitgescha in term u in auter segn da cunfin cun l’intenziun da far donn ad insatgi vi da sia facultad u vi d’auters dretgs u da procurar in avantatg illegal a sasez u ad in auter, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Allontanament da segns da mesiraziun e da signals dal livel da l’aua
 
 #### Art. 257
 
-Tgi che allontanescha, sposta, fa nunenconuschaivel u metta en in lieu fauss in segn public da mesiraziun u in signal public dal livel da l’aua, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che allontanescha, sposta, fa nunenconuschaivel u metta en in lieu fauss in segn public da mesiraziun u in signal public dal livel da l’aua, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Dudeschavel titel: Crims e delicts cunter la pasch publica
 
@@ -4075,7 +4136,7 @@ Tgi che allontanescha, sposta, fa nunenconuschaivel u metta en in lieu fauss in 
 
 [^258-1]
 
-Tgi che tementa la populaziun tras smanatschar u tras simular in privel per il corp, per la vita u per la proprietad, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che tementa la populaziun tras smanatschar u tras simular in privel per il corp, per la vita u per la proprietad, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^258-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 1994, en vigur dapi il 1. da schan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
@@ -4085,20 +4146,22 @@ Tgi che tementa la populaziun tras smanatschar u tras simular in privel per il c
 
 [^259-1]
 
-<sup>1</sup> Tgi che incitescha publicamain da commetter crims, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che incitescha publicamain da commetter in delict cun violenza cunter umans u cunter chaussas u da commetter in crim, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.[^259-2]
 
-<sup>1bis</sup> L’incitaziun publica ad in genocid (art. 264) che duai vegnir commess dal tuttafatg u per part en Svizra è er chastiabla, sche l’incitaziun vegn pronunziada a l’exteriur.[^259-2]
+<sup>1bis</sup> L’incitaziun publica ad in genocid (art. 264) che duai vegnir commess dal tuttafatg u per part en Svizra è er chastiabla, sche l’incitaziun vegn pronunziada a l’exteriur.[^259-3]
 
-<sup>2</sup> Tgi che incitescha publicamain da commetter crims cun violenza cunter umans u cunter chaussas, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> …[^259-4]
 
 [^259-1]: Versiun tenor la cifra I da la LF dals 9 d’oct. 1981, en vigur dapi il 1. d’oct. 1982 ([AS 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
-[^259-2]: Integrà tras la cifra I 1 da la LF dals 18 da zer. 2010 davart la midada da leschas federalas per realisar il Statut da Roma da la Curt penala internaziunala, en vigur dapi il 1. da schan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^259-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^259-3]: Integrà tras la cifra I 1 da la LF dals 18 da zer. 2010 davart la midada da leschas federalas per realisar il Statut da Roma da la Curt penala internaziunala, en vigur dapi il 1. da schan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^259-4]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violaziun da la pasch publica
 
 #### Art. 260
 
-<sup>1</sup> Tgi che sa participescha ad in arrotschament public, nua ch’i vegnan commess cun forzas unidas acts da violenza cunter umans u cunter chaussas, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che sa participescha ad in arrotschament public, nua ch’i vegnan commess cun forzas unidas acts da violenza cunter umans u cunter chaussas, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Ils participants che s’allontaneschan sin incitaziun da las autoritads na vegnan betg chastiads, sch’els n’han ni fatg diever sez da la violenza ni incità da far diever da la violenza.
 
@@ -4110,7 +4173,7 @@ Tgi che tementa la populaziun tras smanatschar u tras simular in privel per il c
 
 <sup>1</sup>
 
-Tgi che prenda sistematicamain mesiras tecnicas u organisatoricas concretas, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, sch’il gener e la dimensiun da quellas mussan ch’el sa prepara da commetter in dals suandants malfatgs:
+Tgi che prenda sistematicamain mesiras tecnicas u organisatoricas concretas, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar, sch’il gener e la dimensiun da quellas mussan ch’el sa prepara da commetter in dals suandants malfatgs:
 
 - a. mazzament intenziunà (art. 111);
 - b. assassinat (art. 112);
@@ -4143,7 +4206,7 @@ Tgi che prenda sistematicamain mesiras tecnicas u organisatoricas concretas, veg
 
 <sup>1</sup>
 
-Cun in chasti da detenziun fin 10 onns u cun in chasti pecuniar vegn chastià, tgi che:
+Cun in chasti da detenziun da fin 10 onns u cun in chasti pecuniar vegn chastià, tgi che:
 
 - a.
 
@@ -4171,7 +4234,7 @@ Cun in chasti da detenziun fin 10 onns u cun in chasti pecuniar vegn chastià, t
 
 [^260quater-1]
 
-Tgi che venda, dat en locaziun, regala, metta a disposiziun u intermediescha ad insatgi armas da fieu, armas scumandadas tenor la lescha, parts essenzialas d’armas, accessoris d’armas, muniziun u elements da muniziun, malgrà ch’el sa u ch’el sto supponer che quai duai servir a commetter in delict u in crim, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar, nun ch’i saja ademplì in causal penal pli grev.[^260quater-2]
+Tgi che venda, dat en locaziun, regala, metta a disposiziun u intermediescha ad insatgi armas da fieu, armas scumandadas tenor la lescha, parts essenzialas d’armas, accessoris d’armas, muniziun u elements da muniziun, malgrà ch’el sa u ch’el sto supponer che quai duai servir a commetter in delict u in crim, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar, nun ch’i saja ademplì in causal penal pli grev.[^260quater-2]
 
 [^260quater-1]: Integrà tras l’art. 41 da la L d’armas dals 20 da zer. 1997, en vigur dapi il 1. da schan. 1999 ([AS 1998 2535](https://fedlex.data.admin.ch/eli/oc/1998/2535_2535_2535); [BBl 1996 I 1053](https://fedlex.data.admin.ch/eli/fga/1996/1_1053_1000_875)).
 [^260quater-2]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
@@ -4182,7 +4245,7 @@ Tgi che venda, dat en locaziun, regala, metta a disposiziun u intermediescha ad 
 
 [^260quinquies-1]
 
-<sup>1</sup> Tgi che rimna u metta a disposiziun valurs da facultad cun l’intenziun da finanziar in crim da violenza, cun il qual la populaziun duai vegnir tementada u cun il qual in stadi u in’organisaziun internaziunala duai vegnir sfurzada da far u da tralaschar insatge, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che rimna u metta a disposiziun valurs da facultad cun l’intenziun da finanziar in crim da violenza, cun il qual la populaziun duai vegnir tementada u cun il qual in stadi u in’organisaziun internaziunala duai vegnir sfurzada da far u da tralaschar insatge, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Sch’il delinquent mo accepta la pussaivladad da la finanziaziun dal terrorissem, na po el betg vegnir chastià tenor questa disposiziun.
 
@@ -4200,7 +4263,7 @@ Tgi che venda, dat en locaziun, regala, metta a disposiziun u intermediescha ad 
 
 <sup>1</sup>
 
-Cun in chasti da detenziun fin 5 onns u cun in chasti pecuniar vegn chastià, tgi che fa il suandant cun l’intenziun da commetter in crim da violenza, cun il qual la populaziun duai vegnir tementada u cun il qual in stadi u in’organisaziun internaziunala duai vegnir sfurzà da far u da tralaschar insatge:
+Cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar vegn chastià, tgi che fa il suandant cun l’intenziun da commetter in crim da violenza, cun il qual la populaziun duai vegnir tementada u cun il qual in stadi u in’organisaziun internaziunala duai vegnir sfurzà da far u da tralaschar insatge:
 
 - a. recrutescha persunas, per ch’ellas commettian u sa participeschian ad in tal malfatg;
 - b. sa lascha instruir davart la producziun u davart il diever d’armas, da materias explosivas, da material radioactiv, da gas da tissi ubain d’auters indrizs u d’autras substanzas privlusas u instruescha autras persunas en chaussa per commetter u per sa participar ad in tal malfatg; u
@@ -4242,7 +4305,7 @@ tgi che discreditescha u discriminescha publicamain en ina moda che cuntrafa a l
 
 tgi che refusa ad ina persuna u ad ina gruppa da persunas pervia da sia razza, pervia da sia etnia, pervia da sia religiun u pervia da sia orientaziun sexuala ina prestaziun offrida ch’è destinada a la generalitad,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^261bis-1]: Integrà tras l’art. 1 da la LF dals 18 da zer. 1993 ([AS 1994 2887](https://fedlex.data.admin.ch/eli/oc/1994/2887_2887_2887); [BBl 1992 III 269](https://fedlex.data.admin.ch/eli/fga/1992/3_269_265_217)). Versiun tenor la cifra I 1 da la LF dals 14 da dec. 2018 (discriminaziun ed incitaziun a l’odi pervia da l’orientaziun sexuala), en vigur dapi il 1. da fan. 2020 ([AS 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [BBl 2018 3773](https://fedlex.data.admin.ch/eli/fga/2018/1411)[5231](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
 
@@ -4256,9 +4319,9 @@ tgi che disturba ubain dischonurescha en mala fai il til da bara u il funeral,
 
 tgi che dischonurescha ubain insulta publicamain il defunct,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Tgi che allontanescha in defunct u parts d’in defunct ubain la tschendra d’in defunct cunter la voluntad da la persuna autorisada, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Tgi che allontanescha in defunct u parts d’in defunct ubain la tschendra d’in defunct cunter la voluntad da la persuna autorisada, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Commetter in malfatg tras irresponsabladad per atgna culpa
 
@@ -4266,7 +4329,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 <sup>1</sup> Tgi che commetta en il stadi d’irresponsabladad per atgna culpa pervia d’alcoholissem u pervia da narcosa in malfatg ch’è chastiabel sco crim u sco delict, vegn chastià cun in chasti pecuniar.[^263-1]
 
-<sup>2</sup> Sch’il delinquent ha commess en quest stadi d’irresponsabladad in crim ch’è unicamain chastiabel cun in chasti da detenziun, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.[^263-2]
+<sup>2</sup> Sch’il delinquent ha commess en quest stadi d’irresponsabladad in crim ch’è unicamain chastiabel cun in chasti da detenziun, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.[^263-2]
 
 [^263-1]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^263-2]: Versiun tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
@@ -4333,9 +4396,9 @@ Chastià cun in chasti da detenziun betg sut 5 onns vegn, tgi che, en il rom d�
 - i. refusescha ad ina gruppa d’umans en moda gravanta ils dretgs fundamentals u la retira quels en moda gravanta per motivs politics, razzials, etnics, religius, socials u per auters motivs che stattan en cuntradicziun cun il dretg internaziunal, en connex cun in malfatg tenor il dudeschavel titel<sup>bis</sup> u tenor il dudeschavel titel<sup>ter</sup> ubain cun l’intent da supprimer u da dominar ina gruppa razziala;
 - j. commetta in auter act d’ina grevezza ch’è cumparegliabla cun tala dals crims numnads en quest alinea e chaschuna tras quai ad in uman grondas suffrientschas u donnegescha grevamain ses corp u sia sanadad fisica u psichica.
 
-<sup>2</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers umans u sch’il delinquent agescha en moda crudaivla, po il derschader pronunziar in chasti da detenziun per vita duranta.
+<sup>2</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers umans u sch’il delinquent agescha en moda crudaivla, po la dretgira pronunziar in chasti da detenziun per vita duranta.
 
-<sup>3</sup> En cas main grevs tenor l’alinea 1 literas c–j po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
+<sup>3</sup> En cas main grevs tenor l’alinea 1 literas c–j po la dretgira pronunziar in chasti da detenziun betg sut 1 onn.
 
 ### Dudeschavel titel<sup>ter</sup>: Crims da guerra
 
@@ -4367,9 +4430,9 @@ Cun in chasti da detenziun betg sut 5 onns vegn chastià, tgi che commetta – e
 
 <sup>2</sup> Acts tenor l’alinea 1 che vegnan commess en connex cun in conflict armà betg internaziunal han il medem status sco las grevas violaziuns dal dretg internaziunal umanitar, sch’els èn drizzads cunter ina persuna ch’è protegida tenor il dretg internaziunal umanitar u cunter in bain protegì.
 
-<sup>3</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers umans u sch’il delinquent agescha en moda crudaivla, po il derschader pronunziar in chasti da detenziun per vita duranta.
+<sup>3</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers umans u sch’il delinquent agescha en moda crudaivla, po la dretgira pronunziar in chasti da detenziun per vita duranta.
 
-<sup>4</sup> En cas main grevs tenor l’alinea 1 literas c–g po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
+<sup>4</sup> En cas main grevs tenor l’alinea 1 literas c–g po la dretgira pronunziar in chasti da detenziun betg sut 1 onn.
 
 [^264c-1]: Convenziun da Genevra dals 12 d’avust 1949 per meglierar la sort dals blessads e malsauns da las forzas armadas en champagna (CG I), [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); Convenziun da Genevra dals 12 d’avust 1949 per meglierar la sort dals blessads, malsauns e naufragiads da las forzas armadas sin la mar (CG II), [SR 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); Convenziun da Genevra dals 12 d’avust 1949 davart il tractament dals praschuniers da guerra (CG III), [SR 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); Convenziun da Genevra dals 12 d’avust 1949 davart la protecziun da persunas civilas en temps da guerra (CG IV), [SR 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297).
 
@@ -4389,9 +4452,9 @@ Cun in chasti da detenziun betg sut 3 onns vegn chastià, tgi che drizza – en 
 - d. cunter unitads da sanitad, cunter edifizis, cunter material u cunter vehichels che dovran in segn da protecziun dal dretg internaziunal umanitar u dals quals il caracter protegì è perceptibel er senza segn da protecziun, ospitals u plazzas da rimnada per persunas malsaunas e blessadas;
 - e. cunter bains culturals u cunter las persunas ch’èn incaricadas cun lur protecziun u cunter vehichels che servan a lur transport, cunter edifizis che servan ad acts religius, a l’art, a l’educaziun, a la scienza u a la beneficenza, uschè ditg ch’els èn protegids dal dretg internaziunal umanitar.
 
-<sup>2</sup> En cas spezialmain grevs d’attatgas cunter persunas po il derschader pronunziar in chasti da detenziun per vita duranta.
+<sup>2</sup> En cas spezialmain grevs d’attatgas cunter persunas po la dretgira pronunziar in chasti da detenziun per vita duranta.
 
-<sup>3</sup> En cas main grevs po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
+<sup>3</sup> En cas main grevs po la dretgira pronunziar in chasti da detenziun betg sut 1 onn.
 
 [^264d-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
@@ -4407,9 +4470,9 @@ Cun in chasti da detenziun betg sut 3 onns vegn chastià, tgi che – en connex 
 - b. violescha ina persuna feminina ch’è protegida dal dretg internaziunal umanitar u, suenter ch’ella è vegnida engravidada cunter sia voluntad, la tegna en fermanza cun l’intenziun d’influenzar la cumposiziun etnica d’ina populaziun, sforza ina persuna ch’è protegida dal dretg internaziunal umanitar da subir in act sexual d’ina grevezza cumparegliabla u la sforza a la prostituziun ubain la sterilisescha cun forza;
 - c. tracta ina persuna ch’è protegida dal dretg internaziunal umanitar en ina moda che la umiliescha u che la degradescha grevamain.
 
-<sup>2</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers umans u sch’il delinquent agescha en moda crudaivla, po il derschader pronunziar in chasti da detenziun per vita duranta.
+<sup>2</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers umans u sch’il delinquent agescha en moda crudaivla, po la dretgira pronunziar in chasti da detenziun per vita duranta.
 
-<sup>3</sup> En cas main grevs po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
+<sup>3</sup> En cas main grevs po la dretgira pronunziar in chasti da detenziun betg sut 1 onn.
 
 ### c. Recrutaziun ed utilisaziun d’uffants schuldads
 
@@ -4417,9 +4480,9 @@ Cun in chasti da detenziun betg sut 3 onns vegn chastià, tgi che – en connex 
 
 <sup>1</sup> Cun in chasti da detenziun betg sut 3 onns vegn chastià, tgi che integrescha in uffant sut 15 onns en forzas armadas u en gruppas armadas, al recrutescha per quest intent u al dovra per la participaziun a conflicts armads.
 
-<sup>2</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers uffants u sch’il delinquent agescha en moda crudaivla, po il derschader pronunziar in chasti da detenziun per vita duranta.
+<sup>2</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers uffants u sch’il delinquent agescha en moda crudaivla, po la dretgira pronunziar in chasti da detenziun per vita duranta.
 
-<sup>3</sup> En cas main grevs po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
+<sup>3</sup> En cas main grevs po la dretgira pronunziar in chasti da detenziun betg sut 1 onn.
 
 ### d. Metodas da guerra scumandadas
 
@@ -4438,9 +4501,9 @@ Cun in chasti da detenziun betg sut 3 onns vegn chastià, tgi che – en connex 
 - g. fa abus da la bandiera alva, da la bandiera, da l’unifurma u da segns militars da l’inimi, da las Naziuns Unidas u da segns da protecziun dal dretg internaziunal umanitar;
 - h. transferescha, sco appartegnent d’ina pussanza d’occupaziun, ina part da la populaziun civila en il territori occupà u transferescha la populaziun dal territori occupà dal tuttafatg u per part a l’intern u a l’extern da quest territori.
 
-<sup>2</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers umans u sch’il delinquent agescha en moda crudaivla, po il derschader pronunziar in chasti da detenziun per vita duranta.
+<sup>2</sup> En cas spezialmain grevs, cunzunt, sch’il malfatg pertutga blers umans u sch’il delinquent agescha en moda crudaivla, po la dretgira pronunziar in chasti da detenziun per vita duranta.
 
-<sup>3</sup> En cas main grevs po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
+<sup>3</sup> En cas main grevs po la dretgira pronunziar in chasti da detenziun betg sut 1 onn.
 
 ### e. Diever d’armas scumandadas
 
@@ -4456,13 +4519,13 @@ Cun in chasti da detenziun betg sut 3 onns vegn chastià, tgi che dovra – en c
 - d. armas che han l’effect principal da chaschunar blessuras tras stgaglias che na pon betg vegnir scuvridas cun agid da la radiografia;
 - e. armas da laser che han l’effect principal da provocar ch’ils umans daventan tschorvs per adina.
 
-<sup>2</sup> En cas spezialmain grevs po il derschader pronunziar in chasti da detenziun per vita duranta.
+<sup>2</sup> En cas spezialmain grevs po la dretgira pronunziar in chasti da detenziun per vita duranta.
 
 ### 4. Violaziun d’in armistizi u da la pasch. Delicts cunter in parlamentari. Retardament dal repatriament da praschuniers da guerra
 
 #### Art. 264i
 
-Cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar vegn chastià, tgi che:
+Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che:
 
 - a. cuntinuescha cun il cumbat, suenter ch’el ha survegnì uffizialmain u en servetsch enconuschientscha da la conclusiun d’in armistizi u da la pasch, ubain violescha las cundiziuns da l’armistizi en autra moda;
 - b. maltracta, ingiuriescha u retegna senza motiv in parlamentari inimi u ina da sias persunas accumpagnantas;
@@ -4472,7 +4535,7 @@ Cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar vegn chastià, 
 
 #### Art. 264j
 
-Cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar vegn chastià, tgi che violescha – en connex cun in conflict armà – ina prescripziun dal dretg internaziunal umanitar en autra moda che tenor ils artitgels 264*c*–264*i*, sche tala violaziun vegn declerada chastiabla dal dretg da disa internaziunal u d’ina cunvegna internaziunala che vegn renconuschida da la Svizra sco lianta.
+Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che violescha – en connex cun in conflict armà – ina prescripziun dal dretg internaziunal umanitar en autra moda che tenor ils artitgels 264*c*–264*i*, sche tala violaziun vegn declerada chastiabla dal dretg da disa internaziunal u d’ina cunvegna internaziunala che vegn renconuschida da la Svizra sco lianta.
 
 ### Dudeschavel titel<sup>quater</sup>: Disposiziuns cuminaivlas per il dudeschavel titel<sup>bis</sup> e per il dudeschavel titel<sup>ter</sup>
 
@@ -4484,9 +4547,9 @@ Cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar vegn chastià, 
 
 #### Art. 264k
 
-<sup>1</sup> Il superiur che sa ch’ina persuna ch’è suttamessa ad el commetta u vegn a commetter in malfatg tenor il dudeschavel titel<sup>bis</sup> u tenor il dudeschavel titel<sup>ter</sup> e che na prenda betg las mesiras adattadas per impedir quest malfatg, vegn chastià cun il medem chasti sco il delinquent. Sch’il superiur n’impedescha betg il malfatg per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Il superiur che sa ch’ina persuna ch’è suttamessa ad el commetta u vegn a commetter in malfatg tenor il dudeschavel titel<sup>bis</sup> u tenor il dudeschavel titel<sup>ter</sup> e che na prenda betg las mesiras adattadas per impedir quest malfatg, vegn chastià cun il medem chasti sco il delinquent. Sch’il superiur n’impedescha betg il malfatg per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Il superiur che sa ch’ina persuna ch’è suttamessa ad el ha commess in malfatg tenor il dudeschavel titel<sup>bis</sup> u tenor il dudeschavel titel<sup>ter</sup> e che na prenda betg las mesiras adattadas per garantir ch’il delinquent vegnia chastià, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2</sup> Il superiur che sa ch’ina persuna ch’è suttamessa ad el ha commess in malfatg tenor il dudeschavel titel<sup>bis</sup> u tenor il dudeschavel titel<sup>ter</sup> e che na prenda betg las mesiras adattadas per garantir ch’il delinquent vegnia chastià, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Agir sin cumond d’insatgi auter
 
@@ -4552,7 +4615,7 @@ separar territori svizzer da la Confederaziun u territori d’in chantun,
 vegn chastià cun in chasti da detenziun betg sut 1 onn[^265-3].
 
 [^265-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^265-2]: [SR 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)/131.235
+[^265-2]: [SR 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)**/131.235**
 [^265-3]: Expressiun tenor la cifra II 1 al. 11 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è vegnida resguardada en l’entir segund cudesch qua avant maun.
 
 ### Attatga sin l’independenza da la Confederaziun
@@ -4569,7 +4632,7 @@ vegn chastià cun in chasti da detenziun betg sut 1 onn.
 
 2.[^266-1] Tgi ch’entra en contact cun la regenza d’in pajais ester u cun agents da quel per far guerra cunter la Confederaziun, vegn chastià cun in chasti da detenziun betg sut 3 onns.
 
-En cas grevs po il derschader pronunziar in chasti da detenziun per vita duranta.
+En cas grevs po la dretgira pronunziar in chasti da detenziun per vita duranta.
 
 [^266-1]: Versiun tenor la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); BBl **1949** 1 1249).
 
@@ -4579,11 +4642,12 @@ En cas grevs po il derschader pronunziar in chasti da detenziun per vita duranta
 
 [^266bis-1]
 
-<sup>1</sup> Tgi ch’entra en contact cun in pajais ester, cun partidas da l’exteriur ubain cun autras organisaziuns da l’exteriur u cun lur agents ubain tgi che furma u derasa pretensiuns faussas u sfalsifitgantas cun l’intent da provocar u da sustegnair interpresas u stentas estras cunter la segirezza da la Svizra, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi ch’entra en contact cun in pajais ester, cun partidas da l’exteriur ubain cun autras organisaziuns da l’exteriur u cun lur agents ubain tgi che furma u derasa pretensiuns faussas u sfalsifitgantas cun l’intent da provocar u da sustegnair interpresas u stentas estras cunter la segirezza da la Svizra, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2</sup> En cas grevs po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
+<sup>2</sup> En cas grevs è il chasti in chasti da detenziun betg sut 1 onn.[^266bis-2]
 
 [^266bis-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [BBl 1949 I 1249](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^266bis-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Tradiment diplomatic
 
@@ -4597,9 +4661,9 @@ tgi che maina sco mandatari da la Confederaziun intenziunadamain contractivas cu
 
 vegn chastià cun in chasti da detenziun betg sut 1 onn.
 
-2.[^267-2] Tgi che renda enconuschent u accessibel intenziunadamain a la publicitad in secret ch’i vala da salvar per il bain da la Confederaziun, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+2.[^267-2] Tgi che renda enconuschent u accessibel intenziunadamain a la publicitad in secret ch’i vala da salvar per il bain da la Confederaziun, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-3.[^267-3] Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+3.[^267-3] Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^267-1]: Versiun tenor la cifra I da la LF dals 10 d’oct. 1997, en vigur dapi il 1. d’avr. 1998 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^267-2]: Integrà tras la cifra I da la LF dals 10 d’oct. 1997, en vigur dapi il 1. d’avr. 1998 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
@@ -4609,7 +4673,7 @@ vegn chastià cun in chasti da detenziun betg sut 1 onn.
 
 #### Art. 268
 
-Tgi che allontanescha, sposta, fa nunenconuschaivel, metta en in lieu fauss u falsifitgescha in crap da cunfin ubain in auter segn da cunfin che serva a determinar ils cunfins dal pajais, dal chantun u da la vischnanca, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+Tgi che allontanescha, sposta, fa nunenconuschaivel, metta en in lieu fauss u falsifitgescha in crap da cunfin ubain in auter segn da cunfin che serva a determinar ils cunfins dal pajais, dal chantun u da la vischnanca, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 ### Violaziun da la suveranitad territoriala da la Svizra
 
@@ -4621,7 +4685,7 @@ Tgi ch’entra en territori svizzer, violond il dretg internaziunal, vegn chasti
 
 #### Art. 270
 
-Tgi che allontanescha ubain donnegia en mala fai emblems svizzers fixads d’ina autoritad, en spezial la vopna u la bandiera da la Confederaziun ubain d’in chantun, u exequescha acts offendents vers tals emblems, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che allontanescha ubain donnegia en mala fai emblems svizzers fixads d’ina autoritad, en spezial la vopna u la bandiera da la Confederaziun ubain d’in chantun, u exequescha acts offendents vers tals emblems, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Acts scumandads per in pajais ester
 
@@ -4635,7 +4699,7 @@ tgi che commetta tals acts per ina partida estra u per in’autra organisaziun d
 
 tgi che favurisescha tals acts,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, en cas grevs cun in chasti da detenziun betg sut 1 onn.[^271-2]
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar, en cas grevs cun in chasti da detenziun betg sut 1 onn.[^271-2]
 
 <sup>2.</sup> Tgi che rapinescha tras violenza, tras malizia ubain tras smanatscha ina persuna a l’exteriur, per la surdar ad in’autoritad, ad ina partida u ad in’autra organisaziun estra ubain per l’exponer ad in privel per il corp e per la vita, vegn chastià cun in chasti da detenziun betg sut 1 onn.
 
@@ -4656,7 +4720,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, 
 
 tgi che engascha persunas per tals servetschs u favurisescha quels,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2.</sup> En cas grevs vegn il delinquent chastià cun in chasti da detenziun betg sut 1 onn. Sco cas grev vali en spezial, sch’il delinquent provochescha ad acts u fa rapports fauss ch’èn adattads per periclitar la segirezza interna u externa da la Confederaziun.
 
@@ -4670,9 +4734,9 @@ Tgi che s’infurmescha davart in secret da fabricaziun u davart in secret da fa
 
 tgi che renda accessibel in secret da fabricaziun ubain in secret da fatschenta ad in post uffizial ester, ad in’organisaziun estra, ad ina interpresa privata ubain a lur agents,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, en cas grevs cun in chasti da detenziun betg sut 1 onn. Cun il chasti da detenziun po vegnir collià in chasti pecuniar.[^273-1]
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar, en cas grevs cun in chasti da detenziun betg sut 1 onn.[^273-1]
 
-[^273-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^273-1]: Versiun dal terz alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Servetsch d’infurmaziun militar
 
@@ -4684,13 +4748,14 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar, 
 
 tgi che engascha persunas per tals servetschs u favurisescha quels,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-En cas grevs po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
+En cas grevs è il chasti in chasti da detenziun betg sut 1 onn.[^274-2]
 
 <sup>2.</sup> La correspundenza ed il material vegnan confiscads.
 
 [^274-1]: Versiun tenor la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); BBl **1949** 1 1249).
+[^274-2]: Versiun dal quart alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 3. Periclitaziun da l’urden constituziunal.
 
@@ -4700,37 +4765,17 @@ En cas grevs po il derschader pronunziar in chasti da detenziun betg sut 1 onn.
 
 [^275-1]
 
-Tgi che commetta in act cun l’intent da disturbar u da midar illegalmain l’urden constituziunal da la Confederaziun[^275-2] u dals chantuns[^275-3], vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+Tgi che commetta in act cun l’intent da disturbar u da midar illegalmain l’urden constituziunal da la Confederaziun[^275-2] u dals chantuns[^275-3], vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 [^275-1]: Versiun tenor la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); BBl **1949** 1 1249).
 [^275-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^275-3]: [SR 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)/131.235
 
-### Propaganda privlusa per il stadi
+#### Art. 275<sup>bis</sup> e 275<sup>ter</sup>
 
-#### Art. 275<sup>bis</sup>
+[^275bis275ter-1]
 
-[^275bis-1]
-
-Tgi che fa propaganda da l’exteriur cun l’intent da derscher tras violenza l’urden constituziunal da la Confederaziun u d’in chantun, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
-
-[^275bis-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [BBl 1949 I 1249](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
-
-### Uniun illegala
-
-#### Art. 275<sup>ter</sup>
-
-[^275ter-1]
-
-Tgi che constituescha in’uniun che ha l’intent da commetter malfatgs ch’èn chastiabels tenor ils artitgels 265, 266, 266<sup>bis</sup>, 271–274, 275 e 275<sup>bis</sup>,
-
-tgi che sa participescha ad ina tala uniun u a sias stentas,
-
-tgi che envida a furmar talas uniuns u exequescha sias directivas,
-
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
-
-[^275ter-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [BBl 1949 I 1249](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
+[^275bis275ter-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 1950 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [BBl 1949 I 1249](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)). Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 4. Disturbi da la segirezza militara.
 
@@ -4742,7 +4787,7 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 tgi che instighescha ina persuna ch’è obligada da far servetsch ad in tal malfatg,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2.</sup> Sch’i sa tracta d’ina incitaziun a la revolta u a la preparaziun d’ina revolta, ubain sch’i vegn instigà a la revolta u a la preparaziun d’ina revolta, vegn il delinquent chastià cun in chasti da detenziun u cun in chasti pecuniar.
 
@@ -4750,13 +4795,17 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 #### Art. 277
 
+[^277-1]
+
 <sup>1.</sup> Tgi che cuntrafa, falsifitgescha, supprima u eliminescha intenziunadamain ina clamada en servetsch militar u ina directiva destinada a persunas ch’èn obligadas da far servetsch militar,
 
 tgi che fa diever d’ina clamada en servetsch u d’ina directiva ch’è falsifitgada u sfalsifitgada,
 
-vegn chastià cun in chasti da detenziun u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti pecuniar.
+
+[^277-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Disturbi dal servetsch militar
 
@@ -4776,7 +4825,7 @@ Tgi che impedescha u disturba ina radunanza, in’elecziun u ina votaziun prescr
 
 tgi che impedescha u disturba la rimnada u la consegna da suttascripziuns per in referendum u per ina iniziativa cun duvrar violenza u cun smanatschar gronds donns,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Intervenziuns en il dretg da votar e d’eleger
 
@@ -4786,7 +4835,7 @@ Tgi che impedescha ina persuna cun dretg da votar d’exequir il dretg da votar 
 
 tgi che sforza ina persuna cun dretg da votar cun duvrar violenza u cun smanatschar gronds donns dad insumma exequir quest dretg u da far quai en in tschert senn,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Corrupziun electorala
 
@@ -4798,7 +4847,7 @@ tgi che offra, empermetta, dat u lascha consegnar ad ina persuna cun dretg da vo
 
 tgi che sa lascha, sco persuna cun dretg da votar, empermetter u dar in tal avantatg,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Falsificaziun dals resultats electorals
 
@@ -4810,11 +4859,11 @@ tgi che sa participescha senza dretg ad in’elecziun u ad ina votaziun ubain ad
 
 tgi che falsifitgescha il resultat d’ina elecziun, d’ina votaziun u d’ina rimnada da suttascripziuns per exequir il referendum u l’iniziativa, en spezial cun agiuntar, cun midar, cun laschar davent u cun stritgar cedels da votar u suttascripziuns, cun betg dumbrar correctamain u cun documentar faussamain il resultat,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il delinquent agescha en funcziun uffiziala, è il chastì in chasti da detenziun fin a 3 onns u in chasti pecuniar betg sut 30 taxas per di. Cun il chasti da detenziun po vegnir collià in chasti pecuniar.[^282-1]
+<sup>2.</sup> Sch’il delinquent agescha en funcziun uffiziala, è il chastì in chasti da detenziun dad 1 mais fin 3 onns u in chasti pecuniar betg sut 30 taxas per di.[^282-1]
 
-[^282-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^282-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Chatscha sin vuschs
 
@@ -4830,7 +4879,7 @@ Tgi che rimna, emplenescha u mida sistematicamain cedels electorals u cedels da 
 
 #### Art. 283
 
-Tgi che sa procura en moda illegala enconuschientschas, co che singulas votantas e singuls votants voteschan u elegian, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che sa procura en moda illegala enconuschientschas, co che singulas votantas e singuls votants voteschan u elegian, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 #### Art. 284
 
@@ -4844,21 +4893,23 @@ Tgi che sa procura en moda illegala enconuschientschas, co che singulas votantas
 
 #### Art. 285
 
-1.[^285-1] Tgi che impedescha cun violenza u cun smanatschas in’autoritad, in commember d’ina autoritad u in funcziunari d’exequir in act che tutga tar sias cumpetenzas uffizialas, constrenscha quels d’exequir in tal act u attatga quels cun violenza durant in act uffizial, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che impedescha cun violenza u cun smanatschas in’autoritad, in commember d’ina autoritad u in funcziunari d’exequir in act che tutga tar sias cumpetenzas uffizialas, als constrenscha d’exequir in tal act u attatga quels cun violenza durant in act uffizial, vegn chastià cun in chasti da detenziun da fin 3 onns. En cas levs po vegnir pronunzià in chasti pecuniar.[^285-1]
 
 Sco funcziunaris valan er emploiads d’interpresas tenor la Lescha federala da viafier dals 20 da december 1957[^285-2], tenor la Lescha dals 20 da mars 2009[^285-3] davart il transport da persunas e tenor la Lescha dals 19 da december 2008[^285-4] davart il transport da rauba sco er emploiads da las organisaziuns incaricadas cun ina permissiun da l’Uffizi federal da traffic tenor la Lescha federala dals 18 da zercladur 2010[^285-5] davart ils organs da segirezza da las interpresas da transports publics.[^285-6]
 
-<sup>2.</sup> Sch’il malfatg vegn commess d’ina rotscha da persunas, vegn mintgina da las persunas participadas a la rotscha chastiada cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il malfatg vegn commess d’ina rotscha da persunas, vegn mintgina da las persunas participadas a la rotscha chastiada cun in chasti da detenziun da fin 3 onns. En cas levs po vegnir pronunzià in chasti pecuniar.
 
-La persuna participada che dovra violenza cunter persunas u cunter chaussas vegn chastiada cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar betg sut 30 taxas per di.[^285-7]
+La persuna participada che dovra violenza cunter persunas, vegn chastiada cun in chasti da detenziun da 3 mais fin 3 onns.
 
-[^285-1]: Versiun tenor la cifra II 5 da la LF dals 20 da mars 2009 davart la refurma da la viafier 2, en vigur dapi il 1. da schan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+La persuna participada che dovra violenza cunter chaussas, vegn chastiada cun in chasti da detenziun da 3 mais fin 3 onns u cun in chasti pecuniar betg sut 90 taxas per di.[^285-7]
+
+[^285-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^285-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^285-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^285-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)cifra I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)agiunta cifra I 1]. Guardar oz: LF dals 25 da sett. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^285-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)cifra I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)agiunta cifra I 1]. Guardar oz: LF dals 25 da sett. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
 [^285-5]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
-[^285-6]: Versiun tenor l’art. 11 al. 2 da la LF dals 18 da zer. 2010 davart ils organs da segirezza da las interpresas da transports publics, en vigur dapi il 1. d’oct. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
-[^285-7]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^285-6]: Versiun dal segund alinea tenor l’art. 11 al. 2 da la LF dals 18 da zer. 2010 davart ils organs da segirezza da las interpresas da transports publics, en vigur dapi il 1. d’oct. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
+[^285-7]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Impediment d’in act uffizial
 
@@ -4866,14 +4917,14 @@ La persuna participada che dovra violenza cunter persunas u cunter chaussas vegn
 
 [^286-1]
 
-Tgi che impedescha in’autoritad, in commember d’ina autoritad u in funcziunari d’exequir in act che tutga tar sias cumpetenzas uffizialas, vegn chastià cun in chasti pecuniar fin a 30 taxas per di.
+Tgi che impedescha in’autoritad, in commember d’ina autoritad u in funcziunari d’exequir in act che tutga tar sias cumpetenzas uffizialas, vegn chastià cun in chasti pecuniar da fin 30 taxas per di.
 
 Sco funcziunaris valan er emploiads d’interpresas tenor la Lescha federala da viafier dals 20 da december 1957[^286-2], tenor la Lescha dals 20 da mars 2009[^286-3] davart il transport da persunas e tenor la Lescha dals 19 da december 2008[^286-4] davart il transport da rauba sco er emploiads da las organisaziuns incaricadas cun ina permissiun da l’Uffizi federal da traffic tenor la Lescha federala dals 18 da zercladur 2010[^286-5] davart ils organs da segirezza da las interpresas da transports publics.[^286-6]
 
 [^286-1]: Versiun tenor la cifra II 5 da la LF dals 20 da mars 2009 davart la refurma da la viafier 2, en vigur dapi il 1. da schan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^286-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^286-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)cifra I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)agiunta cifra I 1]. Guardar oz: LF dals 25 da sett. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)cifra I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)agiunta cifra I 1]. Guardar oz: LF dals 25 da sett. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
 [^286-5]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
 [^286-6]: Versiun tenor l’art. 11 al. 2 da la LF dals 18 da zer. 2010 davart ils organs da segirezza da las interpresas da transports publics, en vigur dapi il 1. d’oct. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 
@@ -4881,7 +4932,7 @@ Sco funcziunaris valan er emploiads d’interpresas tenor la Lescha federala da 
 
 #### Art. 287
 
-Tgi che usurpescha cun intenziuns illegalas l’execuziun d’in uffizi u il plainpudair da dar cumonds militars, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che usurpescha cun intenziuns illegalas l’execuziun d’in uffizi u il plainpudair da dar cumonds militars, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 #### Art. 288
 
@@ -4893,19 +4944,19 @@ Tgi che usurpescha cun intenziuns illegalas l’execuziun d’in uffizi u il pla
 
 #### Art. 289
 
-Tgi che sustira a la pussanza uffiziala ina chaussa ch’è vegnida confiscada uffizialmain, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che sustira a la pussanza uffiziala ina chaussa ch’è vegnida confiscada uffizialmain, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Rumper sigils uffizials
 
 #### Art. 290
 
-Tgi che rumpa, allontanescha u privescha da lur effect segns uffizials, en spezial in sigil uffizial, cun il qual ina chaussa è vegnida serrada u segnada, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che rumpa, allontanescha u privescha da lur effect segns uffizials, en spezial in sigil uffizial, cun il qual ina chaussa è vegnida serrada u segnada, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Violaziun da l’exiliaziun
 
 #### Art. 291
 
-<sup>1</sup> Tgi che violescha in’exiliaziun dal pajais u d’in chantun ch’è vegnida pronunziada d’ina autoritad cumpetenta, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che violescha in’exiliaziun dal pajais u d’in chantun ch’è vegnida pronunziada d’ina autoritad cumpetenta, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> La durada da quest chasti na vegn betg messa a quint a la durada da l’exiliaziun.
 
@@ -4934,9 +4985,9 @@ Tgi che na suonda betg ina decisiun decretada d’ina autoritad cumpetenta u d�
 
 [^294-1]
 
-<sup>1</sup> Tgi che pratitgescha inʼactivitad, malgrà chʼigl è vegnì pronunzià cunter el in scumond dʼactivitad tenor lʼartitgel 67, tenor lʼartitgel 50 da la Lescha penala militara dals 13 da zercladur 1927[^294-2] (LPM) u tenor lʼartitgel 16*a* DPG[^294-3], vegn chastià cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar.
+<sup>1</sup> Tgi che pratitgescha inʼactivitad, malgrà chʼigl è vegnì pronunzià cunter el in scumond dʼactivitad tenor lʼartitgel 67, tenor lʼartitgel 50 da la Lescha penala militara dals 13 da zercladur 1927[^294-2] (LPM) u tenor lʼartitgel 16*a* DPG[^294-3], vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
 
-<sup>2</sup> Tgi chʼentra en contact cun ina u cun pliras tschertas persunas u cun persunas dʼina tscherta gruppa, tgi che sʼavischina a talas persunas, tgi che sa trategna en tscherts lieus, malgrà chʼigl è vegnì pronunzià cunter el in scumond da contact e dʼareal tenor lʼartitgel 67*b*, tenor lʼartitgel 50*b* LPM u tenor lʼartitgel 16*a* DPG, vegn chastià cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar.
+<sup>2</sup> Tgi chʼentra en contact cun ina u cun pliras tschertas persunas u cun persunas dʼina tscherta gruppa, tgi che sʼavischina a talas persunas, tgi che sa trategna en tscherts lieus, malgrà chʼigl è vegnì pronunzià cunter el in scumond da contact e dʼareal tenor lʼartitgel 67*b*, tenor lʼartitgel 50*b* LPM u tenor lʼartitgel 16*a* DPG, vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
 
 [^294-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^294-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
@@ -4948,7 +4999,7 @@ Tgi che na suonda betg ina decisiun decretada d’ina autoritad cumpetenta u d�
 
 [^295-1]
 
-Tgi che refusa lʼassistenza da reabilitaziun ordinada dal derschader u da las autoritads dʼexecuziun u tgi che nʼobserva betg las directivas ordinadas dal derschader u da las autoritads dʼexecuziun, vegn chastià cun multa.
+Tgi che refusa lʼassistenza da reabilitaziun ordinada da la dretgira u da las autoritads dʼexecuziun u tgi che nʼobserva betg las directivas ordinadas da la dretgira u da las autoritads dʼexecuziun, vegn chastià cun multa.
 
 [^295-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
@@ -4960,7 +5011,7 @@ Tgi che refusa lʼassistenza da reabilitaziun ordinada dal derschader u da las a
 
 [^296-1]
 
-Tgi che offenda publicamain in stadi ester en la persuna da ses schef, en sia regenza u en la persuna dad in da ses represchentants diplomatics u dad in da ses delegads uffizials ad ina conferenza diplomatica che ha lieu en Svizra u dad in da ses represchentants uffizials tar in’organisaziun internaziunala che ha ses domicil en Svizra u tar in’organisaziun internaziunala ch’è sa radunada en Svizra u tar ina partiziun d’ina tala, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che offenda publicamain in stadi ester en la persuna da ses schef, en sia regenza u en la persuna dad in da ses represchentants diplomatics u dad in da ses delegads uffizials ad ina conferenza diplomatica che ha lieu en Svizra u dad in da ses represchentants uffizials tar in’organisaziun internaziunala che ha ses domicil en Svizra u tar in’organisaziun internaziunala ch’è sa radunada en Svizra u tar ina partiziun d’ina tala, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^296-1]: Versiun tenor la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); BBl **1949** 1 1249).
 
@@ -4970,7 +5021,7 @@ Tgi che offenda publicamain in stadi ester en la persuna da ses schef, en sia re
 
 [^297-1]
 
-Tgi che offenda publicamain in’organisaziun internaziunala che ha ses domicil en Svizra u ch’è sa radunada en Svizra ubain ina partiziun d’ina tala en la persuna dad in da ses represchentants uffizials, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che offenda publicamain in’organisaziun internaziunala che ha ses domicil en Svizra u ch’è sa radunada en Svizra ubain ina partiziun d’ina tala en la persuna dad in da ses represchentants uffizials, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^297-1]: Versiun tenor la cifra I da la LF dals 5 d’oct. 1950, en vigur dapi ils 5 da schan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); BBl **1949** 1 1249).
 
@@ -4978,7 +5029,7 @@ Tgi che offenda publicamain in’organisaziun internaziunala che ha ses domicil 
 
 #### Art. 298
 
-Tgi che allontanescha u donnegescha cun malart emblems naziunals d’in stadi ester, en spezial sia vopna u sia bandiera, u exequescha acts offendents vers tals emblems ch’èn vegnids plazzads publicamain d’ina represchentanza renconuschida da quest stadi, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che allontanescha u donnegescha cun malart emblems naziunals d’in stadi ester, en spezial sia vopna u sia bandiera, u exequescha acts offendents vers tals emblems ch’èn vegnids plazzads publicamain d’ina represchentanza renconuschida da quest stadi, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Violaziun da la suveranitad territoriala da stadis esters
 
@@ -4988,9 +5039,9 @@ Tgi che allontanescha u donnegescha cun malart emblems naziunals d’in stadi es
 
 tgi che penetrescha en il territori d’in stadi ester, violond il dretg internaziunal,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Tgi che emprova da disturbar cun violenza l’urden politic d’in stadi ester da la Svizra anor, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Tgi che emprova da disturbar cun violenza l’urden politic d’in stadi ester da la Svizra anor, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Acts ostils cunter insatgi ch’è en guerra u cunter truppas estras
 
@@ -5010,7 +5061,7 @@ vegn chastià cun in chasti da detenziun u cun in chasti pecuniar.
 
 tgi che engascha persunas per tals servetschs u favurisescha quels,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2.</sup> La correspundenza ed il material vegnan confiscads.
 
@@ -5035,13 +5086,17 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 #### Art. 303
 
+[^303-1]
+
 <sup>1.</sup> Tgi che inculpescha cunter meglier savair ina persuna innocenta tar in’autoritad, l’accusa d’avair commess in crim u in delict e fa quai cun l’intenziun da chaschunar ina persecuziun penala cunter ella,
 
 tgi che prenda mesiras malignas cun l’intenziun da chaschunar ina persecuziun penala cunter ina persuna innocenta,
 
-vegn chastià cun in chasti da detenziun u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sche la faussa inculpaziun pertutga in surpassament, è il chasti in chasti da detenziun fin a 3 onns u in chasti pecuniar.
+<sup>2.</sup> Sche la faussa inculpaziun pertutga in surpassament, è il chasti in chasti da detenziun da fin 1 onn u in chasti pecuniar.
+
+[^303-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Manar en errur la giustia
 
@@ -5051,22 +5106,25 @@ vegn chastià cun in chasti da detenziun u cun in chasti pecuniar.
 
 tgi che denunzia sasez faussamain tar l’autoritad d’avair commess in malfatg,
 
-vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> En cas spezialmain levs po il derschader desister d’in chasti.
+<sup>2.</sup> …[^304-1]
+
+[^304-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Favurisaziun
 
 #### Art. 305
 
-<sup>1</sup> Tgi che sustira ina persuna da la persecuziun penala, da l’execuziun penala u da l’execuziun d’ina mesira previsa en ils artitgels 59–61, 63 e 64,[^305-1] vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che sustira ina persuna da la persecuziun penala, da l’execuziun penala u da l’execuziun d’ina mesira previsa en ils artitgels 59–61, 63 e 64,[^305-1] vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>1bis</sup> Medemamain vegn chastià tgi che sustira da la persecuziun penala averta a l’exteriur u da l’execuziun d’in chasti da detenziun u d’ina mesira tenor ils artitgels 59–61, 63 u 64 pronunziada a l’exteriur, ina persuna che vegn persequitada u ch’è vegnida sentenziada a l’exteriur d’in crim tenor l’artitgel 101.[^305-2]
 
-<sup>2</sup> Sch’il delinquent ha ina relaziun uschè stretga cun la persuna favurisada che ses cumportament è stgisabel, po il derschader desister d’in chasti.
+<sup>2</sup> Sch’il delinquent favurisescha ses confamigliars u in’autra persuna, cun la quala el ha ina relaziun persunala uschè stretga, che ses cumportament è perstgisabel, na vegn el betg chastià.[^305-3]
 
 [^305-1]: Versiun da la mesa frasa tenor la cifra II 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^305-2]: Integrà tras la cifra I da la LF dals 9 d’oct. 1981 ([AS 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)). Versiun tenor la cifra II 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^305-3]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Lavada da daners suspectus
 
@@ -5074,28 +5132,29 @@ vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
 
 [^305bis-1]
 
-<sup>1.</sup> Tgi che commetta in act ch’è adattà per impedir d’eruir l’origin, da chattar u da confiscar valurs da facultad che, sco ch’el sa u sto supponer, derivan d’in crim u d’in delict fiscal qualifitgà, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.[^305bis-2]
+<sup>1.</sup> Tgi che commetta in act ch’è adattà per impedir d’eruir l’origin, da chattar u da confiscar valurs da facultad che, sco ch’el sa u sto supponer, derivan d’in crim u d’in delict fiscal qualifitgà, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.[^305bis-2]
 
 1<sup>bis</sup>. Sco delict fiscal qualifitgà valan ils malfatgs tenor l’artitgel 186 da la Lescha federala dals 14 da december 1990[^305bis-3] davart la taglia federala directa e tenor l’artitgel 59 alinea 1 emprim lemma da la Lescha federala dals 14 da december 1990[^305bis-4] davart l’armonisaziun da la taglia directa dals chantuns e da las vischnancas, sche las taglias omessas importan passa 300 000 francs per perioda fiscala.[^305bis-5]
 
-<sup>2.</sup> En cas grevs è il chastì in chasti da detenziun fin a 5 onns u in chasti pecuniar. Cun il chasti da detenziun po vegnir collià in chasti pecuniar fin a 500 taxas per di.[^305bis-6]
+<sup>2.</sup> En cas grevs è il chastì in chasti da detenziun da fin 5 onns u in chasti pecuniar.[^305bis-6] Cun il chasti da detenziun vegn collià in chasti pecuniar da fin 500 taxas per di.[^305bis-7]
 
 Il cas è grev en spezial, cura ch’il delinquent:
 
-- a.[^305bis-7] agescha sco commember d’ina organisaziun criminala u terroristica (art. 260<sup>ter</sup>);
+- a.[^305bis-8] agescha sco commember d’ina organisaziun criminala u terroristica (art. 260<sup>ter</sup>);
 - b. agescha sco commember d’ina banda ch’è s’unida cun l’intent da sa deditgar cuntinuadamain a la lavada da daners suspectus;
 - c. fa – tras lavada professiunala da daners suspectus – ina gronda svieuta u in gudogn considerabel.
 
-<sup>3.</sup> Il delinquent vegn er chastià, sch’il delict principal è vegnì commess a l’exteriur e sch’el è chastiabel er al lieu dal malfatg.[^305bis-8]
+<sup>3.</sup> Il delinquent vegn er chastià, sch’il delict principal è vegnì commess a l’exteriur e sch’el è chastiabel er al lieu dal malfatg.[^305bis-9]
 
 [^305bis-1]: Integrà tras la cifra I da la LF dals 23 da mars 1990, en vigur dapi il 1. d’avust 1990 ([AS 1990 1077](https://fedlex.data.admin.ch/eli/oc/1990/1077_1077_1077); [BBl 1989 II 1061](https://fedlex.data.admin.ch/eli/fga/1989/2_1061_961_837)).
 [^305bis-2]: Versiun tenor la cifra I 4 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da schan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^305bis-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^305bis-4]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 [^305bis-5]: Integrà tras la cifra I 4 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da schan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Guardar er la disp. trans. da questa midada a la fin dal text.
-[^305bis-6]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^305bis-7]: Versiun tenor la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^305bis-8]: Rectifitgà da la Cumissiun da redacziun da la AF (art. 33 LRC; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^305bis-6]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^305bis-7]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^305bis-8]: Versiun tenor la cifra II 2 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^305bis-9]: Rectifitgà da la Cumissiun da redacziun da la AF (art. 33 LRC; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### Mancanza da premura en fatschentas da finanzas ed en il dretg d’annunzia
 
@@ -5107,7 +5166,7 @@ Il cas è grev en spezial, cura ch’il delinquent:
 
 [^305ter-1]
 
-<sup>1</sup> Tgi che accepta, tegna en salv, gida professiunalmain ad investir u a transferir valurs da facultad d’autras persunas e tralascha da constatar, cun tut la premura che correspunda a las circumstanzas, l’identitad da la persuna ch’è autorisada economicamain, vegn chastià cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar.[^305ter-2]
+<sup>1</sup> Tgi che accepta, tegna en salv, gida professiunalmain ad investir u a transferir valurs da facultad d’autras persunas e tralascha da constatar, cun tut la premura che correspunda a las circumstanzas, l’identitad da la persuna ch’è autorisada economicamain, vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.[^305ter-2]
 
 <sup>2</sup> Las persunas menziunadas en l’alinea 1 èn autorisadas d’annunziar al post d’annunzia per cas da lavada da daners suspectus da l’Uffizi federal da polizia observaziuns che permettan da concluder che tschertas valurs da facultad derivan d’in crim u d’in delict fiscal qualifitgà tenor l’artitgel 305<sup>bis</sup> cifra 1<sup>bis</sup>.[^305ter-3]
 
@@ -5119,35 +5178,44 @@ Il cas è grev en spezial, cura ch’il delinquent:
 
 #### Art. 306
 
-<sup>1</sup> Tgi che, sco partida en ina procedura civila, suenter esser vegnì admonì dal derschader da dir la vardad e suenter esser vegnì fatg attent a las consequenzas penalas, fa ina faussa deposiziun en chaussa, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che, sco partida en ina procedura civila, suenter esser vegnì admonì da la dretgira da dir la vardad e suenter esser vegnì fatg attent a las consequenzas penalas, fa ina faussa deposiziun en chaussa, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Sche la deposiziun vegn confermada cun in engirament u cun in’empermischun solenna, è il chastì in chasti da detenziun fin a 3 onns u in chasti pecuniar betg sut 90 taxas per di.[^306-1]
+<sup>2</sup> …[^306-1]
 
-[^306-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+<sup>3</sup> Sche la faussa deposiziun sa basa sin fatgs ch’èn irrelevants per la decisiun giudiziala, è il chasti in chasti pecuniar.[^306-2]
+
+[^306-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^306-2]: Integrà tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Faussa perditga. Faussa expertisa. Faussa translaziun
 
 #### Art. 307
 
-<sup>1</sup> Tgi che, en ina procedura giudiziala, fa ina faussa deposiziun en chaussa sco perditga, sco expert, sco translatur u sco interpret, dat in fauss resultat u fa ina faussa expertisa ubain translatescha fauss, vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che, en ina procedura giudiziala, fa ina faussa deposiziun en chaussa sco perditga, sco expert, sco translatur u sco interpret, dat in fauss resultat u fa ina faussa expertisa ubain translatescha fauss, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2</sup> Sche la deposiziun, il resultat, l’expertisa u la translaziun vegn confermà cun in engirament u cun in’empermischun solenna, è il chastì in chasti da detenziun da 6 mais fin 5 onns.[^307-1]
+<sup>2</sup> …[^307-1]
 
-<sup>3</sup> Sche la faussa deposiziun sa basa sin fatgs ch’èn irrelevants per la decisiun dal derschader, è il chasti in chasti pecuniar.[^307-2]
+<sup>3</sup> Sche la faussa deposiziun sa basa sin fatgs ch’èn irrelevants per la decisiun giudiziala, è il chasti in chasti pecuniar.[^307-2]
 
-[^307-1]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^307-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^307-2]: Nova circumscripziun da las smanatschas da chasti tenor la cifra II 1 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Diminuziuns dal chasti
+### Diminuziun dal chasti u nunchastiabladad
 
 #### Art. 308
 
-<sup>1</sup> Sch’il delinquent rectifitgescha sia faussa inculpaziun (art. 303), sia faussa denunzia (art. 304) u sia faussa deposiziun (art. 306 e 307) or d’atgna voluntad ed avant ch’ellas han chaschunà in dischavantatg giuridic per in’autra persuna, po il derschader diminuir il chasti (art. 48*a*) u desister d’in chasti.[^308-1]
+[^308-1]
 
-<sup>2</sup> Sch’il delinquent ha fatg ina faussa deposiziun (art. 306 e 307), perquai ch’el avess, schend la vardad, exponì sasez u ses confamigliars al privel d’ina persecuziun penala, po il derschader diminuir il chasti (art. 48*a*).[^308-2]
+<sup>1</sup> Sch’il delinquent rectifitgescha sia faussa inculpaziun (art. 303), sia faussa denunzia (art. 304) u sia faussa deposiziun (art. 306 e 307) or d’atgna voluntad ed avant ch’ella haja chaschunà in dischavantatg giuridic per in’autra persuna, po la dretgira diminuir il chasti (art. 48*a*) u desister d’in chasti.
 
-[^308-1]: Versiun da l’ultima mesa frasa tenor la cifra II 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^308-2]: Versiun da l’ultima mesa frasa tenor la cifra II 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+<sup>2</sup>
+
+Il delinquent na vegn betg chastià, sch’el ha fatg ina faussa deposiziun (art. 306 e 307), perquai che:
+
+- a. el s’exponiss al privel d’ina persecuziun penala, sch’el schess la vardad; u
+- b. el exponiss ses confamigliars u in’autra persuna, cun la quala el ha ina relaziun persunala uschè stretga, che ses cumportament è perstgisabel, al privel d’ina persecuziun penala, sch’el schess la vardad.
+
+[^308-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fatgs administrativs e proceduras davant tribunals internaziunals
 
@@ -5166,13 +5234,13 @@ Ils artitgels 306–308 vegnan er applitgads per:
 
 #### Art. 310
 
-<sup>1.</sup> Tgi che liberescha cun violenza, cun smanatscha u cun astuzia in arrestà, in praschunier u in’autra persuna collocada en in institut sin ordinaziun uffiziala u al gida a fugir, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che liberescha cun violenza, cun smanatscha u cun astuzia in arrestà, in praschunier u in’autra persuna collocada en in institut sin ordinaziun uffiziala u al gida a fugir, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Sch’il malfatg vegn commess d’ina gruppaziun da persunas, vegn mintgina ch’è sa participada a la gruppaziun chastiada cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>2.</sup> Sch’il malfatg vegn commess d’ina gruppaziun da persunas, vegn mintgina ch’è sa participada a la gruppaziun chastiada cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-Il participant che fa diever da violenza cunter persunas u cunter chaussas vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar betg sut 30 taxas per di.[^310-1]
+La persuna participada che dovra violenza cunter persunas u cunter chaussas, vegn chastiada cun in chasti da detenziun da 3 mais fin 3 onns u cun in chasti pecuniar betg sut 90 taxas per di.[^310-1]
 
-[^310-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^310-1]: Versiun dal segund alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Revolta da praschuniers
 
@@ -5186,12 +5254,12 @@ da sfurzar – tras violenza u tras la smanatscha da violenza – ils funcziunar
 
 da fugir faschond diever da violenza,
 
-vegnan chastiads cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar betg sut 30 taxas per di.[^311-1]
+vegnan chastiads cun in chasti da detenziun dad 1 mais fin 3 onns u cun in chasti pecuniar betg sut 30 taxas per di.[^311-1]
 
-<sup>2.</sup> Il participant che fa diever da violenza cunter persunas u cunter chaussas vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar betg sut 90 taxas per di.[^311-2]
+<sup>2.</sup> La persuna participada che dovra violenza cunter persunas u cunter chaussas, vegn chastiada cun in chasti da detenziun da 3 mais fin 5 onns u cun in chasti pecuniar betg sut 90 taxas per di.[^311-2]
 
-[^311-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^311-2]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^311-1]: Versiun dal tschintgavel alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^311-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Deschdotgavel titel: Acts chastiabels cunter l’obligaziun d’uffizi e cunter l’obligaziun professiunala
 
@@ -5199,13 +5267,17 @@ vegnan chastiads cun in chasti da detenziun fin a 3 onns u cun in chasti pecunia
 
 #### Art. 312
 
-Commembers d’ina autoritad u funcziunaris che fan abus da lur pussanza d’uffizi per procurar in avantatg illegal a sasez u ad in auter u per chaschunar in dischavantatg ad in auter, vegnan chastiads cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+Commembers d’ina autoritad u funcziunaris che fan abus da lur pussanza d’uffizi per procurar in avantatg illegal a sasez u ad in auter u per chaschunar in dischavantatg ad in auter, vegnan chastiads cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 ### Pretender memia bleras taxas
 
 #### Art. 313
 
-In funcziunari che – cun l’intenziun da far profit – incassescha taxas u bunificaziuns che n’èn betg debitadas u che surpassan las tariffas legalas, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+[^313-1]
+
+In funcziunari che – cun l’intenziun d’enritgir sasez u in auter – incassescha taxas u bunificaziuns che n’èn betg debitadas u che surpassan las tariffas legalas, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
+
+[^313-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Administraziun malfidaivla d’in uffizi
 
@@ -5213,10 +5285,9 @@ In funcziunari che – cun l’intenziun da far profit – incassescha taxas u b
 
 [^314-1]
 
-Commembers d’ina autoritad u funcziunaris che fan donn als interess publics, ch’els ston observar tar in act giuridic, per procurar in avantatg illegal a sasez u ad in auter, vegnan chastiads cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar. Al chasti da detenziun sto vegnir collià in chasti pecuniar.[^314-2]
+Commembers d’ina autoritad u funcziunaris che fan donn als interess publics, ch’els ston observar tar in act giuridic, per procurar in avantatg illegal a sasez u ad in auter, vegnan chastiads cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-[^314-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 1994, en vigur dapi il 1. da schan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^314-2]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^314-1]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 315–316
 
@@ -5234,11 +5305,12 @@ Commembers d’ina autoritad u funcziunaris che fan donn als interess publics, c
 
 funcziunaris u persunas uffizialas publicas che documenteschan sapientivamain en moda incorrecta in fatg d’ina impurtanza giuridica relevanta, en spezial cun legalisar ina suttascripziun faussa u in segn manual falsifitgà u ina copia che na correspunda betg a l’original,
 
-vegnan chastiads cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegnan chastiads cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
-<sup>2.</sup> Il delinquent vegn chastià cun ina multa, sch’el ha agì per negligientscha.
+<sup>2.</sup> Il delinquent vegn chastià cun in chasti pecuniar, sch’el ha agì per negligientscha.[^317-2]
 
 [^317-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 1994, en vigur dapi il 1. da schan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^317-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Acts betg chastiabels
 
@@ -5246,7 +5318,7 @@ vegnan chastiads cun in chasti da detenziun fin a 5 onns u cun in chasti pecunia
 
 [^317bis-1]
 
-<sup>1</sup> Tgi che producescha, mida u utilisescha documents cun l’approvaziun dal derschader per constituir u per mantegnair sia legenda en il rom d’ina investigaziun secreta u tgi che producescha, mida u utilisescha documents cun la permissiun dal Servetsch d’infurmaziun da la Confederaziun (SIC) tenor l’artitgel 17 LSI[^317bis-2] u cun la permissiun dal schef dal Departament federal da defensiun, protecziun da la populaziun e sport tenor l’artitgel 18 LSI per constituir u per mantegnair sia legenda u sia identitad da finta per pratitgar activitads d’infurmaziun, n’è betg chastiabel tenor ils artitgels 251, 252, 255 e 317.[^317bis-3]
+<sup>1</sup> Tgi che producescha, mida u utilisescha documents cun l’approvaziun da la dretgira per constituir u per mantegnair sia legenda en il rom d’ina investigaziun secreta u tgi che producescha, mida u utilisescha documents cun la permissiun dal Servetsch d’infurmaziun da la Confederaziun (SIC) tenor l’artitgel 17 LSI[^317bis-2] u cun la permissiun dal schef dal Departament federal da defensiun, protecziun da la populaziun e sport tenor l’artitgel 18 LSI per constituir u per mantegnair sia legenda u sia identitad da finta per pratitgar activitads d’infurmaziun, n’è betg chastiabel tenor ils artitgels 251, 252, 255 e 317.[^317bis-3]
 
 <sup>2</sup> Tgi che producescha u mida documents cun ina permissiun per ina investigaziun secreta u tgi che producescha u mida documents per incumbensa da l’autoritad cumpetenta tenor l’artitgel 17 u 18 LSI per crear legendas u identitads da finta, n’è betg chastiabel tenor ils artitgels 251, 252, 255 e 317.[^317bis-4]
 
@@ -5263,17 +5335,20 @@ vegnan chastiads cun in chasti da detenziun fin a 5 onns u cun in chasti pecunia
 
 #### Art. 318
 
-<sup>1.</sup> Medis, dentists, veterinaris e spendreras che emettan sapientivamain in fauss certificat ch’è destinà per duvrar tar in’autoritad u per cuntanscher in avantatg nunautorisà, ubain ch’è adattà per violar interess impurtants e legitims da terzas persunas, vegnan chastiads cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Medis, dentists, veterinaris e spendreras che emettan sapientivamain in fauss certificat ch’è destinà per duvrar tar in’autoritad u per cuntanscher in avantatg nunautorisà, ubain ch’è adattà per violar interess impurtants e legitims da terzas persunas, vegnan chastiads cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-Sch’il delinquent ha pretendì, acceptà u è sa laschà empermetter ina indemnisaziun speziala per emetter quest certificat, vegn el chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Sch’il delinquent ha pretendì, acceptà u è sa laschà empermetter ina indemnisaziun speziala per emetter quest certificat, vegn el chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.[^318-1]
 
-<sup>2.</sup> Il delinquent vegn chastià cun ina multa, sch’el ha agì per negligientscha.
+<sup>2.</sup> …[^318-2]
+
+[^318-1]: Versiun dal segund alinea tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^318-2]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Laschar fugir praschuniers
 
 #### Art. 319
 
-Il funcziunari che gida a fugir u che lascha fugir in arrestà, in praschunier u in’autra persuna ch’è collocada sin ordinaziun uffiziala en in institut, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Il funcziunari che gida a fugir u che lascha fugir in arrestà, in praschunier u in’autra persuna ch’è collocada sin ordinaziun uffiziala en in institut, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 ### Violaziun dal secret d’uffizi
 
@@ -5281,7 +5356,7 @@ Il funcziunari che gida a fugir u che lascha fugir in arrestà, in praschunier u
 
 [^320-1]
 
-<sup>1.</sup> Tgi che palaisa in secret ch’è vegnì confidà ad el en sia qualitad sco commember d’ina autoritad u sco funcziunari, u ch’el ha percepì en sia posiziun d’uffizi u da servetsch ubain sco persuna auxiliara d’in funcziunari u d’ina autoritad, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1.</sup> Tgi che palaisa in secret ch’è vegnì confidà ad el en sia qualitad sco commember d’ina autoritad u sco funcziunari, u ch’el ha percepì en sia posiziun d’uffizi u da servetsch ubain sco persuna auxiliara d’in funcziunari u d’ina autoritad, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 La violaziun dal secret d’uffizi è er chastiabla suenter la fin da la relaziun d’uffizi u da servetsch ubain da l’activitad auxiliara.
 
@@ -5293,7 +5368,7 @@ La violaziun dal secret d’uffizi è er chastiabla suenter la fin da la relaziu
 
 #### Art. 321
 
-<sup>1.</sup> Spirituals, advocats, defensurs, notars, advocats da patenta, revisurs ch’èn suttamess al secret professiunal tenor il Dretg d’obligaziuns (DO)[^321-1], medis, dentists, chiropratichers, apotechers, spendreras, psicologs, tgirunzs, fisioterapeuts, ergoterapeuts, cussegliaders da nutriment, optometrists, osteopats sco er lur persunal auxiliar che palaisan in secret ch’è vegnì confidà ad els pervia da lur professiun ubain ch’els han percepì cun pratitgar lur professiun, vegnan chastiads, sin plant, cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.[^321-2]
+<sup>1.</sup> Spirituals, advocats, defensurs, notars, advocats da patenta, revisurs ch’èn suttamess al secret professiunal tenor il Dretg d’obligaziuns (DO)[^321-1], medis, dentists, chiropratichers, apotechers, spendreras, psicologs, tgirunzs, fisioterapeuts, ergoterapeuts, cussegliaders da nutriment, optometrists, osteopats sco er lur persunal auxiliar che palaisan in secret ch’è vegnì confidà ad els pervia da lur professiun ubain ch’els han percepì cun pratitgar lur professiun, vegnan chastiads, sin plant, cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.[^321-2]
 
 Medemamain vegnan chastiads students che palaisan in secret ch’els han percepì durant lur studi.
 
@@ -5326,17 +5401,18 @@ La violaziun dal secret professiunal resta chastiabla er suenter la finiziun da 
 
 [^321ter-1]
 
-<sup>1</sup> Tgi che sco funcziunari, sco emploià u sco persuna auxiliara d’ina organisaziun che furnescha servetschs da posta u da telecommunicaziun, fa indicaziuns ad ina terza persuna davart il traffic da posta, da pajaments u da telecommunicaziun da la clientella, avra ina spediziun serrada ubain emprova da savair tge ch’ella cuntegna u permetta ad ina terza persuna da commetter in tal act, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che sco funcziunari, sco emploià u sco persuna auxiliara d’ina organisaziun che furnescha servetschs da posta u da telecommunicaziun, fa indicaziuns ad ina terza persuna davart il traffic da posta, da pajaments u da telecommunicaziun da la clientella, avra ina spediziun serrada ubain emprova da savair tge ch’ella cuntegna u permetta ad ina terza persuna da commetter in tal act, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> Chastià vegn medemamain tgi che provochescha – engianond – ina persuna obligada al secret professiunal tenor l’alinea 1 da violar l’obligaziun dal secret professiunal.
 
 <sup>3</sup> La violaziun dal secret da posta e da telecommunicaziun è er chastiabla suenter la fin da la relaziun d’uffizi u da servetsch.
 
-<sup>4</sup> La violaziun dal secret da posta e da telecommunicaziun n’è betg chastiabla, sch’ella è necessaria per eruir la persuna che ha quest dretg u per evitar donns.
+<sup>4</sup> La violaziun dal secret da posta e da telecommunicaziun n’è betg chastiabla, sch’ella è necessaria per eruir la persuna che ha quest dretg.[^321ter-2]
 
 <sup>5</sup> Resalvads restan l’artitgel 179<sup>octies</sup> sco er las disposiziuns federalas e chantunalas davart l’obligaziun da dar perditga e davart l’obligaziun d’infurmar in’autoritad.
 
 [^321ter-1]: Integrà tras la cifra 2 da l’agiunta a la L da telecommunicaziun dals 30 d’avr. 1997, en vigur dapi il 1. da schan. 1998 ([AS 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187); [BBl 1996 III 1405](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)).
+[^321ter-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violaziun da l’obligaziun da las medias da dar infurmaziuns
 
@@ -5360,10 +5436,13 @@ La violaziun dal secret professiunal resta chastiabla er suenter la finiziun da 
 
 [^322bis-1]
 
-Tgi che n’impedescha sco persuna responsabla per ina publicaziun tenor l’artitgel 28 alineas 2 e 3, sapientivamain betg ina publicaziun[^322bis-2], cun la quala vegn commess in malfatg, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar. Sch’il delinquent agescha per negligientscha, vegn el chastià cun ina multa.
+<sup>1</sup> Tgi che n’impedescha sco persuna responsabla per ina publicaziun tenor l’artitgel 28 alineas 2 e 3, sapientivamain betg ina publicaziun, cun la quala vegn commess in malfatg, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar. Sch’il delinquent agescha per negligientscha, vegn el chastià cun ina multa.
 
-[^322bis-1]: Integrà tras la cifra I da la LF dals 10 d’oct. 1997, en vigur dapi il 1. d’avr. 1998 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
-[^322bis-2]: Versiun da la mesa frasa tenor la cifra II 2 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+<sup>2</sup> Sche la smanatscha da chasti per il delict, ch’è applitgabel per l’autur tenor l’artitgel 28 alinea 1, è pli leva, vegn il delinquent chastià tenor questa smanatscha da chasti.
+
+<sup>3</sup> Sche l’autur ha commess in delict che vegn persequità sin plant, vegn l’act chastiabel tenor l’alinea 1 persequità mo, sch’in plant da persequitar l’autur è avant maun.
+
+[^322bis-1]: Integrà tras la cifra I da la LF dals 10 d’oct. 1997 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)). Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Deschnovavel titel: Corrupziun
 
@@ -5371,7 +5450,7 @@ Tgi che n’impedescha sco persuna responsabla per ina publicaziun tenor l’art
 
 [^book2-tit19-1]: Integrà tras la cifra I 1 da la LF dals 22 da dec. 1999 (revisiun dal dretg penal en fatgs da corrupziun), en vigur dapi il 1. da matg 2000 ([AS 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [BBl 1999 5497](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
 
-### 1. Corrupziun da titulars svizzers d’uffizis
+### 1. Corrupziun da titulars svizzers d’uffizis.
 
 ### Corrupziun activa
 
@@ -5379,7 +5458,7 @@ Tgi che n’impedescha sco persuna responsabla per ina publicaziun tenor l’art
 
 Tgi che porscha, empermetta u conceda in avantatg betg duì ad in commember d’ina autoritad giudiziala u d’ina autra autoritad, ad in funcziunari, ad in expert, translatur u interpret incumbensà d’ina autoritad, ad in arbiter u ad in appartegnent da l’armada, e quai a sia favur u a favur d’ina terza persuna, per exequir u per ometter – en connex cun sia activitad uffiziala – in’acziun che na correspunda betg a sias obligaziuns u che dependa da ses liber appreziar,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 ### Corrupziun passiva
 
@@ -5387,7 +5466,7 @@ vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
 
 Tgi che pretenda, sa lascha empermetter u accepta sco commember d’ina autoritad giudiziala u d’ina autra autoritad, sco funcziunari, sco expert, translatur u interpret incumbensà d’ina autoritad ubain sco arbiter in avantatg betg duì per exequir u per ometter – en connex cun sia activitad uffiziala – per sai u per ina terza persuna in’acziun che na correspunda betg a sias obligaziuns u che dependa da ses liber appreziar,
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 ### Conceder in avantatg
 
@@ -5395,7 +5474,7 @@ vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
 
 [^322quinquies-1]
 
-Tgi che porscha, empermetta u conceda in avantatg betg duì ad in commember d’ina autoritad giudiziala u d’ina autra autoritad, ad in funcziunari, ad in expert, translatur u interpret incumbensà d’ina autoritad, ad in arbiter u ad in appartegnent da l’armada per ch’el adempleschia ses uffizi a sia favur u a favur d’ina terza persuna, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che porscha, empermetta u conceda in avantatg betg duì ad in commember d’ina autoritad giudiziala u d’ina autra autoritad, ad in funcziunari, ad in expert, translatur u interpret incumbensà d’ina autoritad, ad in arbiter u ad in appartegnent da l’armada per ch’el adempleschia ses uffizi a sia favur u a favur d’ina terza persuna, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^322quinquies-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015 (dretg penal en fatgs da corrupziun), en vigur dapi il 1. da fan. 2016 ([AS 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [BBl 2014 3591](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
@@ -5405,7 +5484,7 @@ Tgi che porscha, empermetta u conceda in avantatg betg duì ad in commember d’
 
 [^322sexies-1]
 
-Tgi che pretenda, sa lascha empermetter u accepta sco commember d’ina autoritad giudiziala u d’ina autra autoritad, sco funcziunari, sco expert, translatur u interpret incumbensà d’ina autoritad ubain sco arbiter per sai u per ina terza persuna in avantatg betg duì per ademplir ses uffizi, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+Tgi che pretenda, sa lascha empermetter u accepta sco commember d’ina autoritad giudiziala u d’ina autra autoritad, sco funcziunari, sco expert, translatur u interpret incumbensà d’ina autoritad ubain sco arbiter per sai u per ina terza persuna in avantatg betg duì per ademplir ses uffizi, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^322sexies-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015 (dretg penal en fatgs da corrupziun), en vigur dapi il 1. da fan. 2016 ([AS 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [BBl 2014 3591](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
@@ -5417,11 +5496,11 @@ Tgi che porscha, empermetta u conceda in avantatg betg duì ad in commember d’
 
 tgi che pretenda, sa lascha empermetter u accepta sco commember d’ina autoritad giudiziala u d’ina autra autoritad, sco funcziunari, sco expert, translatur u interpret incumbensà d’ina autoritad, sco arbiter u sco appartegnent da l’armada d’in stadi ester u d’ina organisaziun internaziunala in avantatg betg duì per exequir u per ometter – en connex cun sia activitad uffiziala – per sai u per ina terza persuna in’acziun che na correspunda betg a sias obligaziuns u che dependa da ses liber appreziar,[^322septies-1]
 
-vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
+vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
 
 [^322septies-1]: Integrà il paragraf tras l’art. 2 cifra 2 dal COF dals 7 d’oct. 2005 davart l’approvaziun e la realisaziun da la cunvegna dal dretg penal e dal protocol supplementar dal Cussegl da l’Europa davart la corrupziun, en vigur dapi il 1. da fan. 2006 ([AS 2006 2371](https://fedlex.data.admin.ch/eli/oc/2006/366); [BBl 2004 6983](https://fedlex.data.admin.ch/eli/fga/2004/1217)).
 
-### 3. Corrupziun da persunas privatas
+### 3. Corrupziun da persunas privatas.
 
 ### Corrupziun activa
 
@@ -5429,7 +5508,7 @@ vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
 
 [^322octies-1]
 
-<sup>1</sup> Tgi che porscha, empermetta u conceda in avantatg betg duì ad in lavurant, ad in associà, ad in mandatari u ad in’autra persuna auxiliara d’ina terza persuna en il sectur privat – a sia favur u a favur d’ina terza persuna – en connex cun sia activitad da servetsch u da fatschenta per in’acziun u per in’omissiun che na correspunda betg a sias obligaziuns u che dependa da ses appreziar, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che porscha, empermetta u conceda in avantatg betg duì ad in lavurant, ad in associà, ad in mandatari u ad in’autra persuna auxiliara d’ina terza persuna en il sectur privat – a sia favur u a favur d’ina terza persuna – en connex cun sia activitad da servetsch u da fatschenta per in’acziun u per in’omissiun che na correspunda betg a sias obligaziuns u che dependa da ses appreziar, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> En cas levs vegn il malfatg persequità mo sin basa d’in plant.
 
@@ -5441,7 +5520,7 @@ vegn chastià cun in chasti da detenziun fin a 5 onns u cun in chasti pecuniar.
 
 [^322novies-1]
 
-<sup>1</sup> Tgi che pretenda, sa lascha empermetter u accepta in avantatg betg duì sco lavurant, sco associà, sco mandatari u sco autra persuna auxiliara d’ina terza persuna en il sectur privat – per sai u per ina terza persuna – en connex cun sia activitad da servetsch u da fatschenta per in’acziun u per in’omissiun che na correspunda betg a sias obligaziuns u che dependa da ses appreziar, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che pretenda, sa lascha empermetter u accepta in avantatg betg duì sco lavurant, sco associà, sco mandatari u sco autra persuna auxiliara d’ina terza persuna en il sectur privat – per sai u per ina terza persuna – en connex cun sia activitad da servetsch u da fatschenta per in’acziun u per in’omissiun che na correspunda betg a sias obligaziuns u che dependa da ses appreziar, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> En cas levs vegn il malfatg persequità mo sin basa d’in plant.
 
@@ -5478,20 +5557,20 @@ Nagins avantatgs betg duids n’èn:
 
 Cun ina multa vegn chastià:
 
-<sup>1.</sup> il debitur che n’ha ni assistì persunalmain ni è sa laschà substituir tar ina impegnaziun u tar ina inventarisaziun dals bains ch’è vegnida annunziada ad el confurm a la lescha (art. 91 al. 1 cifra 1, 163 al. 2 e 345 al. 1[^323-2] LSC[^323-3]);
+<sup>1.</sup> il debitur che n’ha ni assistì persunalmain ni è sa laschà substituir tar ina impegnaziun u tar ina inventarisaziun dals bains ch’è vegnida annunziada ad el confurm a la lescha (art. 91 al. 1 cifra 1, 163 al. 2 e 341 al. 1 LSC[^323-2]);[^323-3]
 
 <sup>2.</sup> il debitur che n’inditgescha betg ses objects da facultad, er sch’els na sa chattan betg en ses possess, sco er betg sias pretensiuns e ses dretgs vers terzas persunas uschenavant che quai è necessari per ina impegnaziun suffizienta u per exequir ina sequestraziun (art. 91 al. 1 cifra 2 e 275 LSC);
 
-<sup>3.</sup> il debitur che n’inditgescha betg cumplettamain ses objects da facultad, er sch’els na sa chattan betg en ses possess, sco er betg sias pretensiuns e ses dretgs vers terzas persunas en cas d’ina inventarisaziun dals bains (art. 163 al. 2, 345 al. 1[^323-4] LSC);
+<sup>3.</sup> il debitur che n’inditgescha betg cumplettamain ses objects da facultad, er sch’els na sa chattan betg en ses possess, sco er betg sias pretensiuns e ses dretgs vers terzas persunas en cas d’ina inventarisaziun dals bains (art. 163 al. 2, 341 al. 1 LSC);[^323-4]
 
 <sup>4.</sup> il debitur che n’inditgescha betg tut ses objects da facultad e n’als metta betg a disposiziun a l’uffizi da concurs (art. 222 al. 1 LSC);
 
 <sup>5.</sup> il debitur che na stat betg a disposiziun a l’administraziun da concurs durant la procedura da concurs, nun ch’el saja vegnì dispensà da questa obligaziun cun ina permissiun speziala (art. 229 al. 1 LSC).
 
 [^323-1]: Versiun tenor la cifra 8 da l’agiunta da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^323-2]: Ussa: art. 341 al. 1.
-[^323-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^323-4]: Ussa: art. 341 al. 1.
+[^323-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^323-3]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^323-4]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Malobedientscha da terzas persunas en proceduras da scussiun, da concurs e d’accumodament
 
@@ -5509,11 +5588,11 @@ Cun ina multa vegn chastià:
 
 <sup>4.</sup> tgi che posseda chaussas dal debitur sco creditur da pegn e na consegna betg quellas als liquidaturs suenter la scadenza dal termin d’utilisaziun (art. 324 al. 2 LSC);
 
-<sup>5.</sup> la terza persuna che violescha sias obligaziuns d’infurmar e da consegnar ils objects confurm als artitgels 57*a* alinea 1, 91 alinea 4, 163 alinea 2, 222 alinea 4 e 345 alinea 1[^324-3] da la Lescha federala davart scussiun e concurs.
+<sup>5.</sup> la terza persuna che violescha sias obligaziuns d’infurmar e da consegnar ils objects confurm als artitgels 57*a* alinea 1, 91 alinea 4, 163 alinea 2, 222 alinea 4 e 341 alinea 1 LSC.[^324-3]
 
 [^324-1]: Versiun tenor la cifra 8 da l’agiunta da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^324-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^324-3]: Ussa: art. 341 al. 1.
+[^324-3]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Inobservanza da las prescripziuns legalas davart la contabilitad
 
@@ -5547,12 +5626,12 @@ Cun ina multa vegn chastià, tgi che fa sapientivamain il suandant:
 
 <sup>1</sup>
 
-Cun ina multa fin 100 000 francs vegn chastià, tgi che fa intenziunadamain il suandant:
+Cun ina multa da fin 100 000 francs vegn chastià, tgi che fa intenziunadamain il suandant:
 
 - a. fa indicaziuns faussas en ils rapports tenor ils artitgels 964*a*, 964*b* e 964*l* DO[^325ter-2] u tralascha ils rapports;
 - b. n’ademplescha betg l’obligaziun legala da conservar e da documentar ils rapports tenor ils artitgels 964*c* e 964*l* DO.
 
-<sup>2</sup> Tgi che agescha per negligientscha, vegn chastià cun ina multa fin 50 000 francs.
+<sup>2</sup> Tgi che agescha per negligientscha, vegn chastià cun ina multa da fin 50 000 francs.
 
 [^325ter-1]: Integrà tras la cifra III 2 da la LF dals 19 da zer. 2020 (cuntraproposta indirecta a l’iniziativa dal pievel «Per interpresas responsablas – per proteger ils umans e l’ambient»), en vigur dapi il 1. da schan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^325ter-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -5658,7 +5737,6 @@ Cun ina multa vegn chastià, tgi che na maina intenziunadamain betg in dals suan
 - a. en cas d’ina societad anonima: il register da las aczias tenor l’artitgel 686 alineas 1–3 e 5 DO[^327a-2] u la glista da las persunas che han il dretg economic da las aczias tenor l’artitgel 697*l* DO;
 - b. en cas d’ina societad cun responsabladad limitada: il register da participaziun tenor l’artitgel 790 alineas 1–3 e 5 DO u la glista da las persunas che han il dretg economic da las quotas da basa tenor l’artitgel 790*a* alinea 5 DO en cumbinaziun cun l’artitgel 697*l* DO;
 - c. en cas d’ina associaziun: la glista dals associads tenor l’artitgel 837 alineas 1 e 2 DO;
-
 - d. en cas d’ina societad d’investiziun a chapital variabel (art. 36 da la Lescha davart las investiziuns collectivas dals 23 da zercladur 2006[^327a-3]): il register da las aczias d’interprendiders u la glista da las persunas che han il dretg economic da las aczias d’interprendiders tenor l’artitgel 46 alinea 3 da la Lescha davart las investiziuns collectivas dals 23 da zercladur 2006.
 
 [^327a-1]: Integrà tras la cifra I 2 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
@@ -5676,17 +5754,11 @@ Tgi che violescha intenziunadamain las obligaziuns da las uniuns tenor ils artit
 [^327b-1]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656), [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^327b-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-### Reproducziun da marcas da valur postalas, senza intenziun da falsificaziun
-
 #### Art. 328
 
-<sup>1.</sup> Tgi che reproducescha marcas da valur postalas da la Svizra e da l’exteriur per las metter en circulaziun sco marcas reproducidas, senza marcar las singulas marcas sco reproducziuns,
+[^328-1]
 
-tgi che importa, metta en vendita u metta en circulaziun talas reproducziuns,
-
-vegn chastià cun multa.
-
-<sup>2.</sup> Las reproducziuns vegnan confiscadas.
+[^328-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violaziun da secrets militars
 
@@ -5702,13 +5774,11 @@ vegn chastià cun multa.
 
 <sup>2.</sup> L’emprova e la cumplicitad èn chastiablas.
 
-### Commerzi cun material militar confiscà
-
 #### Art. 330
 
-Tgi che venda, acquista, dat u prenda a pegn, dovra, lascha svanir, destruescha u fa nunduvrabels en moda illegalmain objects, ch’èn vegnids confiscads u requirids da l’administraziun da l’armada en l’interess da la defensiun naziunala, vegn chastià cun multa.[^330-1]
+[^330-1]
 
-[^330-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^330-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Purtar l’unifurma senza autorisaziun
 
@@ -5718,16 +5788,11 @@ Tgi che porta l’unifurma da l’armada svizra senza autorisaziun, vegn chasti�
 
 [^331-1]: Nova circumscripziun da la smanatscha da chasti tenor la cifra II 1 al. 16 da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-### Tralaschar d’annunziar in chat
-
 #### Art. 332
 
 [^332-1]
 
-Tgi che n’annunzia betg – confurm a las disposiziuns en ils artitgels 720 alinea 2, 720*a* e 725 alinea 1 dal Cudesch civil svizzer[^332-2] – in chat u ina chaussa ch’è vegnida manada natiers, vegn chastià cun multa.
-
-[^332-1]: Versiun tenor la cifra III da la LF dals 4 d’oct. 2002 (artitgel da princip concernent animals), en vigur dapi il 1. d’avr. 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^332-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^332-1]: Abolì tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Terz cudesch: Introducziun ed applicaziun da la lescha
 
@@ -5748,7 +5813,7 @@ Tgi che n’annunzia betg – confurm a las disposiziuns en ils artitgels 720 al
 En las autras leschas federalas vegnan remplazzadas:
 
 - a. chasaforz tras in chasti da detenziun da passa 1 onn;
-- b. praschun tras in chasti da detenziun fin a 3 onns u tras in chasti pecuniar;
+- b. praschun tras in chasti da detenziun da fin 3 onns u tras in chasti pecuniar;
 - c. praschun sut 6 mais tras in chasti pecuniar; en quest connex correspunda in chasti pecuniar da 30 taxas per di da maximalmain 3000 francs ad in chasti da detenziun dad 1 mais.
 
 <sup>3</sup> Sch’il malfatg vegn smanatschà cun arrest u cun multa ubain mo cun multa sco chasti maximal, sa tracti d’in surpassament. Ils artitgels 106 e 107 èn applitgabels. Resalvà resta l’artitgel 8 da la Lescha federala dals 22 da mars 1974[^333-1] davart il dretg penal administrativ. In surpassament è il malfatg er alura, sch’el è smanatschà en in’autra lescha federala ch’è entrada en vigur avant l’onn 1942 cun in chasti da praschun che na surpassa betg 3 mais.
@@ -5757,20 +5822,15 @@ En las autras leschas federalas vegnan remplazzadas:
 
 <sup>5</sup> Sch’ina autra lescha federala smanatscha in crim u in delict cun multa, è applitgabel l’artitgel 34. Las reglas davart la fixaziun da la multa che divergeschan da l’artitgel 34 n’èn betg applitgablas. Resalvà resta l’artitgel 8 da la Lescha federala dals 22 da mars 1974 davart il dretg penal administrativ. Sche la multa è limitada ad ina summa sut 1 080 000 francs, è questa limitaziun obsoleta. Sche la multa è limitada ad ina summa sur 1 080 000 francs, vegn mantegnida questa limitaziun. En quest cas dat l’import maximal da la multa ch’è vegnì smanatschà enfin ussa dividì tras 3000 il dumber maximal da las taxas per di.
 
-<sup>6</sup>
+<sup>6</sup> …[^333-2]
 
-Fin a lur adattaziun vala en autras leschas federalas:
-
-- a. ils termins da surannaziun da la persecuziun da crims e da delicts vegnan augmentads per la mesadad ed ils termins da surannaziun da la persecuziun da surpassaments per il dubel da la durada ordinaria;
-- b. ils termins da surannaziun da la persecuziun da surpassaments che importan dapli che 1 onn vegnan prolungads per la durada ordinaria;
-- c. las reglas davart l’interrupziun e davart la pausa da la surannaziun da la persecuziun vegnan abolidas. Resalvà resta l’artitgel 11 alinea 3 da la Lescha federala dals 22 da mars 1974 davart il dretg penal administrativ;
-- d. la surannaziun da la persecuziun s’extingua, sch’ina sentenzia d’emprima instanza è vegnida pronunziada avant la scadenza dal termin da surannaziun;
-- e. ils termins da surannaziun da l’execuziun da chastis per crims e per delicts vegnan mantegnids e quels da chastis per surpassaments vegnan prolungads per la mesadad;
-- f. las disposiziuns davart la pausa da la surannaziun da l’execuziun vegnan mantegnidas e talas davart l’interrupziun vegnan abolidas.
+<sup>6bis</sup> Sch’in malfatg è chastiabel cun in chasti da detenziun u cun in chasti pecuniar d’in dumber minimal da taxas per di, vala questa limita minimala er per il dumber minimal da dis dal chasti da detenziun.[^333-3]
 
 <sup>7</sup> Ils surpassaments chastiabels tenor autras leschas federalas èn er chastiabels, sch’els vegnan commess per negligientscha, nun ch’i resortia explicitamain tenor il senn da la prescripziun che mo il surpassament intenziunà vegnia chastià.
 
 [^333-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^333-2]: Abolì tras la cifra I 5 da la LF dals 17 da dec. 2021 davart l’adattaziun dal dretg penal accessoric al nov dretg da sancziuns, cun effect dapi il 1. da fan. 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^333-3]: Integrà tras la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Renviaments a disposiziuns abolidas
 
@@ -6034,28 +6094,11 @@ La persuna pertutgada po pretender da l’incumbensà ch’el controllia, sche l
 [^352-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^352-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-### c. Protecziun da datas
+### d. Agids finanzials ed indemnisaziuns
 
 [^book3-tit4-lvl2-lvld-1]
 
 [^book3-tit4-lvl2-lvld-1]: Versiun tenor la cifra II 8 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-
-#### Art. 352
-
-<sup>1</sup> Il barat d’infurmaziuns da la polizia criminala sa drizza tenor ils princips da la Lescha dals 20 da mars 1981[^352-3] davart l’assistenza giudiziala sco er tenor ils statuts e tenor ils reglaments dad INTERPOL ch’il Cussegl federal ha declerà sco applitgabels.
-
-<sup>2</sup> Per il barat d’infurmaziuns per la tschertga da persunas sparidas, per l’identificaziun da persunas nunenconuschentas e per intents administrativs vala la Lescha federala dals 19 da zercladur 1992[^352-4] davart la protecziun da datas.
-
-<sup>3</sup> L’Uffizi federal da polizia po intermediar directamain infurmaziuns als uffizis centrals dad auters stadis, sch’il stadi che retschaiva talas infurmaziuns è suttamess a las prescripziuns davart la protecziun da datas dad INTERPOL.
-
-[^352-3]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^352-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-
-### d. Agids finanzials ed indemnisaziuns
-
-[^book3-tit4-lvl2-lvl3-1]
-
-[^book3-tit4-lvl2-lvl3-1]: Versiun tenor la cifra II 8 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 353
 
@@ -6115,7 +6158,7 @@ Las datas dastgan vegnir duvradas:
 
 [^355-1]: Abolì tras la cifra 5 da l’agiunta 1 da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun da polizia da la Confederaziun, cun effect dapi ils 5 da dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
-### 5. Collavuraziun cun Europol
+### 5. Collavuraziun cun Europol.
 
 ### a. Barat da datas
 
@@ -6428,7 +6471,7 @@ Il dretg da far grazia concernent sentenzias ch'èn vegnidas pronunziadas sin ba
 
 #### Art. 385
 
-Ils chantuns ston prevair la pussaivladad d’ina revisiun da la procedura a favur dal sentenzià cunter sentenzias ch’èn vegnidas pronunziadas sin basa da quest Cudesch penal u d’ina autra lescha federala, uschenavant ch’i sa preschentan fatgs u meds da cumprova relevants che n’èn betg stads enconuschents al derschader il mument da l’emprima procedura.
+Ils chantuns ston prevair la pussaivladad d’ina revisiun da la procedura a favur dal sentenzià cunter sentenzias ch’èn vegnidas pronunziadas sin basa da quest Cudesch penal u d’ina autra lescha federala, uschenavant ch’i sa preschentan fatgs u meds da cumprova relevants che n’èn betg stads enconuschents a la dretgira il mument da l’emprima procedura.
 
 ### Novavel titel: Mesiras da prevenziun, disposiziuns cumplementaras e disposiziuns transitoricas generalas
 
@@ -6460,7 +6503,7 @@ Il Cussegl federal è autorisà – suenter avair tadlà ils chantuns – da dec
 - b. la surpigliada da l’execuziun da chastis e da mesiras tras in auter chantun;
 - c. l’expiaziun da chastis e da mesiras tras persunas malsaunas, mendusas ed attempadas;
 - d. l’expiaziun da chastis e da mesiras tras dunnas tenor l’artitgel 80;
-- e. l’indemnisaziun da lavur dal praschunier tenor l’artitgel 83;
+- e. l’indemnisaziun da lavur dal praschunier tenor l’artitgel 83.
 
 <sup>1bis</sup> Il Cussegl federal decretescha las disposiziuns ch’èn necessarias per installar la Cumissiun federala spezialisada per il giudicament da las pussaivladads da delinquents internads per vita duranta, en spezial davart la tscherna dals commembers da la cumissiun, davart lur indemnisaziun, davart la procedura e davart l’organisaziun da la cumissiun (art. 64*c* al. 1).[^387-1]
 
@@ -6536,7 +6579,7 @@ Quest Cudesch penal entra en vigur il 1. da schaner 1942.
 
 \1. Execuziun da chastis
 
-<sup>1</sup> L’artitgel 46 è applitgabel per la revocaziun da l’execuziun cundiziunada ch’è vegnida ordinada tenor il dretg vertent. Empè d’in chasti da detenziun po il derschader ordinar in chasti pecuniar (art. 34–36) u lavur d’utilitad publica (art. 37–39).
+<sup>1</sup> L’artitgel 46 è applitgabel per la revocaziun da l’execuziun cundiziunada ch’è vegnida ordinada tenor il dretg vertent. Empè d’in chasti da detenziun po la dretgira ordinar in chasti pecuniar (art. 34–36) u lavur d’utilitad publica (art. 37–39).
 
 <sup>2</sup> Ils chastis accessorics ch’èn vegnids pronunziads tenor il dretg vertent, numnadamain l’inabilitad d’uffizi (art. 51 vegl[^u2-2]), la retratga da la tgira genituriala e da l’avugadia (art. 53 vegl[^u2-3]), l’exiliaziun sin basa d’ina sentenzia penala (art. 55 vegl[^u2-4]) ed il scumond d’ustaria (art. 56 vegl[^u2-5]) ston vegnir abolids cun l’entrada en vigur dal dretg nov.
 
@@ -6544,7 +6587,7 @@ Quest Cudesch penal entra en vigur il 1. da schaner 1942.
 
 2.[^u2-6] Ordinaziun ed execuziun da mesiras
 
-<sup>2</sup> Fin il pli tard 12 mais suenter l’entrada en vigur dal dretg nov examinescha il derschader, sche las premissas per ina mesira terapeutica (art. 59–61 u 63) èn ademplidas per persunas ch’èn vegnidas internadas tenor ils artitgels 42 u 43 cifra 1 alinea 2 dal dretg vertent. Sche quai è il cas, ordinescha il derschader las mesiras correspundentas; cas cuntrari vegn l’internament cuntinuà tenor il dretg nov.
+<sup>2</sup> Fin il pli tard 12 mais suenter l’entrada en vigur dal dretg nov examinescha la dretgira, sche las premissas per ina mesira terapeutica (art. 59–61 u 63) èn ademplidas per persunas ch’èn vegnidas internadas tenor ils artitgels 42 u 43 cifra 1 alinea 2 dal dretg vertent. Sche quai è il cas, ordinescha la dretgira las mesiras correspundentas; cas cuntrari vegn l’internament cuntinuà tenor il dretg nov.
 
 3.[^u2-7] …
 
