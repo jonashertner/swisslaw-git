@@ -4,11 +4,11 @@ title: "Federal Act of 8 October 1982 on the National Economic Supply (National 
 short: NESA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: en
-version: 2023-06-01
+version: 2023-07-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230601/en/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230601-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230701-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (National Economic Supply Act, NESA)
 
-of 17 June 2016 (Status as of 1 June 2023)
+of 17 June 2016 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -431,7 +431,8 @@ The Confederation may support measures undertaken by private and public entities
 
 - a. help to considerably strengthen essential supply systems and infrastructure during preparations for a situation severe shortages; or
 - b. contribute significantly to the supply of essential goods and services in the case of imminent or existing severe shortages.
-- [tab] <sup>2</sup> The Confederation shall determine the measures that may receive support, the amount of funds and guarantees and the conditions under which support is given. In doing so it shall take account of the interests of national economic supply, the cost-effectiveness of each measure and the interests of the entities involved.
+
+<sup>2</sup> The Confederation shall determine the measures that may receive support, the amount of funds and guarantees and the conditions under which support is given. In doing so it shall take account of the interests of national economic supply, the cost-effectiveness of each measure and the interests of the entities involved.
 
 #### Art. 36
 
@@ -466,7 +467,7 @@ The Federal Council may grant guarantees to Swiss transport and logistics compan
 The Confederation may pay compensation to private and public sector undertakings for measures under Articles 5 paragraph 4 and 31-33 insofar as:
 
 - a. the measures need to be taken quickly; and
-- b. the undertakings do not suffer any substantial unreasonable loss.
+- b. the undertakings thereby suffer a substantial disadvantage that they cannot reasonably be expected to bear.
 
 <sup>2</sup> The Federal Council shall decide on the conditions for compensation.
 
@@ -637,13 +638,18 @@ In cases of fraud in respect of payment and services, forgery of documents, obta
 
 #### Art. 53
 
-**Assisting offenders**
+**Assisting offenders**[^53-1]
 
-<sup>1</sup> Any person who in relation to criminal proceedings for an offence under Articles 49–52 assists another in evading prosecution or the execution of a penalty, and any person who assists in securing for the offender or another participant the advantages obtained from such an offence is liable to the penalties that may be imposed on the offender.
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> Any person who assists by unlawful means in making the implementation of a measure under this Act or its implementing provisions impossible is liable to a custodial sentence not exceeding five years or to a monetary penalty.
+Any person who:
 
-<sup>3</sup> If the offender is closely related to the beneficiaries of his offence, then the court may at its discretion reduce or dispense with the penalty.
+- a. in relation to criminal proceedings for an offence under Articles 49–52 assists another in evading prosecution or the execution of a penalty; or
+- b. assists by unlawful means in making the implementation of a measure under this Act or its implementing provisions impossible
+
+<sup>2</sup> If the offender assists a close relative or another person to whom he or she is so closely related that the offender’s conduct is excusable, no penalty shall be imposed.
+
+[^53-1]: Amended by No I 19 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 54
 
@@ -826,4 +832,4 @@ The following legislation is amended as follows:
 …[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 15]
-[^annex2-lvlu1-2]: The amendment may be consulted under [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308).
+[^annex2-lvlu1-2]: The amendment may be consulted under [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)..

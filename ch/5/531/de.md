@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über die wirtschaftliche Landesversorgun
 short: LVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: de
-version: 2023-06-01
+version: 2023-07-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/de"
 
 (Landesversorgungsgesetz, LVG)
 
-vom 17. Juni 2016 (Stand am 1. Juni 2023)
+vom 17. Juni 2016 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -636,13 +636,18 @@ Für Leistungs- und Abgabebetrug, Urkundenfälschung, Erschleichen einer falsche
 
 #### Art. 53
 
-**Begünstigung**
+**Begünstigung**[^53-1]
 
-<sup>1</sup> Wer in einem Strafverfahren aufgrund einer Widerhandlung nach den Artikeln 49–52 jemanden der Strafverfolgung oder dem Strafvollzug entzieht oder dazu beiträgt, einem Täter oder Teilnehmer die Vorteile einer solchen Widerhandlung zu sichern, wird nach der Strafdrohung bestraft, die auf den Täter anwendbar ist.
+<sup>1</sup>
 
-<sup>2</sup> Wer dazu beiträgt, den Vollzug einer Massnahme nach diesem Gesetz oder darauf beruhenden Ausführungsbestimmungen zu verunmöglichen, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
-<sup>3</sup> Steht ein Täter in so nahen Beziehungen zum Begünstigten, dass sein Verhalten entschuldbar ist, so kann das Gericht die Strafe mildern oder von einer Strafe absehen.
+- a. in einem Strafverfahren aufgrund einer Widerhandlung nach den Artikeln 49–52 jemanden der Strafverfolgung oder dem Strafvollzug entzieht; oder
+- b. dazu beiträgt, den Vollzug einer Massnahme nach diesem Gesetz oder nach dessen Vollzugsvorschriften widerrechtlich zu verunmöglichen.
+
+<sup>2</sup> Begünstigt der Täter seine Angehörigen oder jemand anderen, zu dem er in so nahen persönlichen Beziehungen steht, dass sein Verhalten entschuldbar ist, so bleibt er straflos.
+
+[^53-1]: Fassung gemäss Ziff. I 19 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 54
 

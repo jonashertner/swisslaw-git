@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'approvvigionamento economico del 
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: it
-version: 2023-06-01
+version: 2023-07-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/it"
 
 (Legge sull’approvvigionamento del Paese, LAP)
 
-del 17 giugno 2016 (Stato 1° giugno 2023)
+del 17 giugno 2016 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -636,13 +636,18 @@ Gli articoli 14–16 della legge federale del 22 marzo 1974[^51-1] sul diritto p
 
 #### Art. 53
 
-**Favoreggiamento**
+**Favoreggiamento**[^53-1]
 
-<sup>1</sup> Chiunque, nel corso di un procedimento penale per violazione degli articoli 49–52, sottrae una persona ad atti di procedimento penale o all’esecuzione di una pena o contribuisce ad assicurare all’autore o a un compartecipe i profitti derivanti da tale violazione, è punito con la pena applicabile all’autore.
+<sup>1</sup>
 
-<sup>2</sup> Chiunque contribuisce a impedire l’esecuzione di una misura adottata in virtù della presente legge o delle sue disposizioni d’esecuzione, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque:
 
-<sup>3</sup> Se fra il colpevole e la persona favoreggiata esistono relazioni così strette da rendere scusabile la sua condotta, il giudice può attenuare la pena o prescindere da essa.
+- a. nel corso di un procedimento penale per violazione degli articoli 49–52 sottrae una persona ad atti di procedimento penale o all’esecuzione di una pena; o
+- b. contribuisce a impedire illecitamente l’esecuzione di una misura adottata in virtù della presente legge o delle sue disposizioni d’esecuzione.
+
+<sup>2</sup> Se l’autore favorisce un congiunto o un’altra persona con cui esistono relazioni personali così strette da rendere scusabile la sua condotta, il giudice prescinde da ogni pena.
+
+[^53-1]: Nuovo testo giusta il n. I 19 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 54
 
@@ -822,9 +827,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-### ...
-
-[^annex2-lvlu1-lvlu1-1]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15]
-[^annex2-lvlu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308).
+[^annex2-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308).

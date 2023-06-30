@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'approvisionnement économique du pa
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: fr
-version: 2023-06-01
+version: 2023-07-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/fr"
 
 (Loi sur l’approvisionnement du pays, LAP)
 
-du 17 juin 2016 (État le 1<sup>er</sup> juin 2023)
+du 17 juin 2016 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -636,13 +636,18 @@ Les art. 14 à 16 de la loi fédérale du 22 mars 1974 sur le droit pénal admin
 
 #### Art. 53
 
-**Entrave à l’action pénale**
+**Entrave à l’action pénale**[^53-1]
 
-<sup>1</sup> Quiconque, dans une procédure pénale consécutive à une violation des art. 49 à 52, soustrait une personne à la poursuite pénale ou à l’exécution d’une peine ou contribue à assurer à l’auteur ou à un participant les avantages découlant d’une telle infraction, encourt la peine applicable à l’auteur.
+<sup>1</sup>
 
-<sup>2</sup> Quiconque contribue à empêcher l’exécution d’une mesure prise en vertu de la présente loi ou des dispositions d’exécution de celle-ci est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
 
-<sup>3</sup> Le juge peut atténuer la peine, voire n’en prononcer aucune, si l’auteur entretient, avec la personne qu’il a favorisée, des relations assez étroites pour rendre sa conduite excusable.
+- a. dans une procédure pénale consécutive à une infraction au sens des art. 49 à 52, soustrait une personne à la poursuite pénale ou à l’exécution d’une peine;
+- b. contribue à empêcher l’exécution d’une mesure prise en vertu de la présente loi ou de ses dispositions d’exécution.
+
+<sup>2</sup> L’auteur n’est pas punissable s’il favorise l’un de ses proches ou une autre personne avec laquelle il entretient des relations assez étroites pour rendre sa conduite excusable.
+
+[^53-1]: Nouvelle teneur selon le ch. I 19 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 54
 
