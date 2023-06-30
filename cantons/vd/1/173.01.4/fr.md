@@ -4,7 +4,7 @@ number: "173.01.4"
 title: "RÈGLEMENT du 27.05.2008 sur les autres activités lucratives des magistrats professionnels de l'ordre judiciaire (RAMOJ)"
 short: RAMOJ
 language: fr
-version: 2008-07-01
+version: 2023-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01.4?id=039e2ea0-e35e-410b-8b88-69629bae682f"
 ---
 
@@ -60,7 +60,7 @@ arrête
 
 **Autorisation [^4-1]**
 
-<sup>1</sup> L'exercice des autres activités lucratives est soumis à l'autorisation préalable du Tribunal cantonal.
+<sup>1</sup> L'exercice des autres activités lucratives est soumis à l'autorisation préalable du Tribunal cantonal, sauf pour les juges cantonaux.
 
 [^4-1]: Modif. 1 du 26.05.2023: Modification Al. 1; entrée en vigueur au 01.07.2023
 
