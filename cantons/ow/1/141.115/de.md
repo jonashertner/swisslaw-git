@@ -3,20 +3,19 @@ canton: OW
 number: "141.115"
 title: Ausführungsbestimmungen über die Weiterbildung bei der kantonalen Verwaltung
 language: de
-version: 2016-01-01
-valid_until: 2023-06-30
-version_adopted: 2015-08-11
+version: 2023-07-01
+version_adopted: 2023-05-30
 adopted: 2009-01-27
 in_force: 2009-03-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.115"
-pdf: "http://gdb.ow.ch/api/de/versions/1001/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1807/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Weiterbildung bei der kantonalen Verwaltung
 
-vom 27.01.2009 (Stand 01.01.2016)
+vom 27.01.2009 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -42,7 +41,7 @@ beschliesst:
 
 **Begriff**
 
-<sup>1</sup> Weiterbildung ist die Fortsetzung oder Wiederaufnahme organisierten Lernens nach dem Abschluss einer ersten Bildungsphase in Fach-, Berufs- oder Hochschule. Erworbene Kenntnisse und Fertigkeiten werden erneuert, vertieft oder erweitert oder es werden neue Kenntnisse und Fähigkeiten erlernt.
+<sup>1</sup> Weiterbildung ist die Fortsetzung oder Wiederaufnahme organisierten Lernens nach dem Abschluss einer ersten Bildungsphase an einer Fach-, Berufs- oder Hochschule. Erworbene Kenntnisse und Fertigkeiten werden erneuert, vertieft oder erweitert oder es werden neue Kenntnisse und Fähigkeiten erlernt.
 
 <sup>2</sup> Zur Weiterbildung zählen insbesondere Seminare, Kurse, Stages, Fernkurse, aber auch Lehrgänge zur Erlangung eines höheren Berufsdiploms oder Nachdiplomstudien.
 
@@ -62,7 +61,7 @@ beschliesst:
 
 <sup>1</sup> Wer neu eine Führungsposition bekleidet, hat nach der Übernahme dieser Position, in der Regel innert eines Jahres, ein Führungsseminar zu absolvieren. Dieses unterscheidet sich je nach Kaderstufe, Vorbildung und Erfahrung der betroffenen Person.
 
-<sup>2</sup> Das Finanzdepartement legt periodisch die zu absolvierende Führungsausbildung je Kaderstufe fest. Grundsätzlich sollen die Angebote der Verwaltungsweiterbildung Zentralschweiz genutzt werden.
+<sup>2</sup> Das Finanzdepartement legt periodisch die zu absolvierende Führungsausbildung je Kaderstufe fest. Grundsätzlich sollen die Angebote der Weiterbildung Zentralschweiz genutzt werden.
 
 <sup>3</sup> Für spezielle Berufsgruppen oder in Ausnahmefällen können die Vorgesetzten in Zusammenarbeit mit dem Personalamt andere gleichwertige Führungsausbildungen vorschreiben oder von einer Führungsausbildung dispensieren.
 
@@ -80,7 +79,7 @@ beschliesst:
 
 **Zuständige Stellen**
 
-<sup>1</sup> Für die Bewilligung einer Weiterbildung bzw. für die Festlegung der Kostenübernahme im Rahmen des Voranschlags sind zuständig:
+<sup>1</sup> Für die Bewilligung einer Weiterbildung bzw. für die Festlegung der Kostenübernahme im Rahmen des Budgets sind zuständig:
 
 - a. die Amtsleiterin oder der Amtsleiter sowie die Departementssekretärin oder der Departementssekretär bei einer Weiterbildung bis zu fünf Arbeitstagen je Weiterbildungsantrag sowie für die Übernahme von Kurskosten bis Fr. 5 000.–;
 - b. die Departementsvorsteherin oder der Departementsvorsteher in allen übrigen Fällen.
@@ -97,7 +96,7 @@ beschliesst:
 
 <sup>2</sup> Die Grundlage für die Beitragsleistung bilden die von der gewählten Bildungsstätte vorgesehenen Kosten für die Normalstudiendauer. Der Arbeitgeber leistet keine Beiträge für Kursteile oder Prüfungen, die wiederholt werden müssen.
 
-<sup>3</sup> Kurse im Rahmen der Verwaltungsweiterbildung Zentralschweiz (VWBZ) werden in der Regel zu 100 Prozent übernommen, ausgenommen davon sind die Management-Weiterbildungen.
+<sup>3</sup> …
 
 #### Art. 7
 
@@ -128,7 +127,7 @@ beschliesst:
 
 **Weiterbildungsvertrag a. Grundsätze**
 
-<sup>1</sup> Bei einer Weiterbildung mit einer Gesamtkostenbeteiligung des Arbeitgebers von mehr als Fr. 3 000.– muss vor Beginn der Weiterbildung ein Weiterbildungsvertrag abgeschlossen werden, in welchem eine bestimmte Verpflichtungszeit festgelegt wird. Das Personalamt ist durch die bewilligende Person ohne Verzug mit dem Formular „Meldung bewilligter Weiterbildungen“ zu orientieren.
+<sup>1</sup> Mit Ausnahme der Führungsausbildung nach Art. 3a dieser Ausführungsbestimmungen wird bei einer Weiterbildung mit einer Gesamtkostenbeteiligung des Arbeitgebers von mehr als Fr. 5 000.– vor Beginn der Weiterbildung ein Weiterbildungsvertrag abgeschlossen, in welchem eine bestimmte Verpflichtungszeit festgelegt wird. Das Personalamt ist durch die bewilligende Person ohne Verzug mit dem Formular „Abklärung Weiterbildung“ zu orientieren.
 
 <sup>2</sup> Das Personalamt erstellt den Weiterbildungsvertrag, in welchem die Verpflichtungszeit, eine allfällige Rückerstattung der Kosten und deren Berechnung zu regeln ist.
 
@@ -142,10 +141,10 @@ beschliesst:
 
 <table>
 <tr><th>Gesamtanteil des Arbeitgebers (Kurskosten, Entlöhnung, Spesenentschädigung)</th><th>Verpflichtungszeit</th></tr>
-<tr><td>3 000.–</td><td>keine</td></tr>
-<tr><td>über 3 000.– bis 7 000.–</td><td>24 Monate</td></tr>
-<tr><td>über 7 000.– bis 11 000.–</td><td>36 Monate</td></tr>
-<tr><td>über 11 000.–</td><td>48 Monate</td></tr>
+<tr><td>bis 5 000.–</td><td>keine</td></tr>
+<tr><td>über 5 000.– bis 12 500.–</td><td>12 Monate</td></tr>
+<tr><td>über 12 500.– bis 20 000.–</td><td>24 Monate</td></tr>
+<tr><td>über 20 000.–</td><td>36 Monate</td></tr>
 </table>
 
 <sup>2</sup> Die Verpflichtungszeit beginnt mit dem Abschluss bzw. Ende der Weiterbildung. Massgebend ist das Ausstelldatum des entsprechenden Zertifikats des Weiterbildungsinstituts. Die Mitarbeiterin oder der Mitarbeiter hat das Zertifikat unaufgefordert dem Vorgesetzten und dem Personalamt zuzustellen. Bei nicht bestandener Prüfung ist eine entsprechende Bestätigung einzureichen.
@@ -162,7 +161,7 @@ beschliesst:
 
 **b. Berechnung des Rückerstattungsbetrags**
 
-<sup>1</sup> Der Rückerstattungsbetrag wird wie folgt berechnet[^12-1]:
+<sup>1</sup> Der Rückerstattungsbetrag wird wie folgt berechnet:
 
 <table>
 <tr><th>Position</th><th>Betrag</th></tr>
@@ -170,15 +169,13 @@ beschliesst:
 <tr><td>Lohnkosten (Anteil Arbeitgeber)</td><td>+ Fr. ......</td></tr>
 <tr><td>Spesenentschädigung (Anteil Arbeitgeber)</td><td>+ Fr. ......</td></tr>
 <tr><td>Gesamtkostenanteil Arbeitgeber</td><td>= Fr. ......</td></tr>
-<tr><td>Abzug des verpflichtungsfreien Betrags</td><td>– Fr. 3 000.–</td></tr>
+<tr><td>Abzug des verpflichtungsfreien Betrags</td><td>– Fr. 5 000.–</td></tr>
 <tr><td>Verpflichtungsbetrag</td><td>= Fr. ......</td></tr>
 <tr><td>Abzug für absolvierte Verpflichtungszeit</td><td>– Fr. ......</td></tr>
 <tr><td>Rückerstattungsbetrag</td><td>= Fr. ......</td></tr>
 </table>
 
 <sup>2</sup> Die Entlöhnung wird je Stunde mit 1/2184 des Jahreslohnes ohne Sozial- und andere Zulagen berechnet.
-
-[^12-1]: Die Tabelle weicht aus technischen Gründen formal von der in OGS 2009, 9 publizierten Aufstellung ab
 
 #### Art. 13
 
@@ -223,5 +220,15 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Ausführungsbestimmungen treten am 1. März 2009 in Kraft.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2009, 9
+
+Geändert durch:
+
+\- Nachtrag vom 11. August 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 42),
+
+\- Nachtrag vom 30. Mai 2023, in Kraft seit 1. Juli 2023 (OGS 2023, 15)
 
 OGS 2009, 9
