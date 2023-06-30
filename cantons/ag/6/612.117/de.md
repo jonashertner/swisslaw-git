@@ -4,13 +4,13 @@ number: "612.117"
 title: Verordnung über die Immobilien des Kantons
 short: ImmoV
 language: de
-version: 2023-05-01
-valid_until: 2023-06-30
-version_adopted: 2023-03-08
+version: 2023-07-01
+valid_until: 2024-04-30
+version_adopted: 2023-06-07
 adopted: 2023-03-08
 in_force: 2023-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.117"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3309/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3330/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3309/pdf_file"
 
 (ImmoV)
 
-Vom 08.03.2023 (Stand 01.05.2023)
+Vom 08.03.2023 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -50,7 +50,7 @@ beschliesst:
 <sup>1</sup> Diese Verordnung verwendet folgende Begriffe:
 
 - a) Immobilien: Grundstücke, Bauten und Anlagen.
-- b) Nutzerdepartemente: Alle Departementen, die Staatskanzlei, der Grosse Rat sowie die Gerichte als Nutzer von Immobilien.
+- b) Nutzerdepartemente: Alle Departemente, die Staatskanzlei, der Grosse Rat sowie die Gerichte als Nutzer von Immobilien.
 - c) Öffentliches Immobilienmanagement (PREM - Public Real Estate Management): Gesamtheit aller Massnahmen zur Deckung des Raumbedarfs der Nutzerdepartemente sowie zur Wahrung der Interessen des Kantons als Immobilieneigentümer und -besitzer oder als Bauherrschaft.
 - d) Bauvorhaben: Neu-, Um- und Erweiterungsbauten sowie Instandsetzungen und Rückbauten.
 - e) Immobilienbetrieb: Management- und Planungsaufgaben sowie operative und administrative Massnahmen zur Sicherstellung der Gebrauchstauglichkeit der Immobilien.
