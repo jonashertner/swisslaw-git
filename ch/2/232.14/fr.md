@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1954 sur les brevets d'invention (Loi sur les 
 short: LBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20220101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/fr"
 
 (Loi sur les brevets, LBI)[^t-1]
 
-du 25 juin 1954 (État le 1<sup>er</sup> janvier 2022)
+du 25 juin 1954 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -1579,10 +1579,11 @@ Toute personne qui demande des mesures provisionnelles peut en particulier requ�
 
 <sup>2</sup> Le droit de porter plainte se prescrit par six mois à compter du jour où le lésé a connu l’auteur de l’infraction.
 
-<sup>3</sup> Si l’auteur fait métier de tels actes, la poursuite a lieu d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^81-2]
+<sup>3</sup> Si l’auteur fait métier de tels actes, la poursuite a lieu d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. ...[^81-2] [^81-3]
 
 [^81-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^81-2]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^81-2]: Phrase abrogée par le ch. I 8 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^81-3]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. Faux renseignements au sujet de la source
 
@@ -2659,10 +2660,10 @@ Les brevets qui ne sont pas encore tombés en déchéance le jour de l’entrée
 
 [^u1-148-1]: Introduit par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’ac. sur l’application de l’art. 65 de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 1<sup>er</sup> mai 2008 ([RO 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 [^u1-148-2]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
-[^u1-148-3]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^u1-148-3]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
 [^u1-148-4]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
-[^u1-148-5]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
-[^u1-148-6]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879), [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
+[^u1-148-5]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^u1-148-6]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
 
 ### E. Disposition transitoire de la modification du 18 mars 2016 de la loi sur les brevets
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1954 über die Erfindungspatente (Patentgesetz
 short: PatG
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20220101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/de"
 
 (Patentgesetz, PatG)[^t-1]
 
-vom 25. Juni 1954 (Stand am 1. Januar 2022)
+vom 25. Juni 1954 (Stand am 1. Juli 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -1579,10 +1579,11 @@ Ersucht eine Person um Anordnung vorsorglicher Massnahmen, so kann sie insbesond
 
 <sup>2</sup> Das Antragsrecht erlischt nach Ablauf von sechs Monaten seit dem Tag, an welchem dem Verletzten der Täter bekannt wurde.
 
-<sup>3</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^81-2]
+<sup>3</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^81-2] [^81-3]
 
 [^81-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^81-2]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^81-2]: Dritter Satz aufgehoben durch Ziff. I 8 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^81-3]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. Falsche Angaben über die Quelle
 
@@ -1604,7 +1605,7 @@ Ersucht eine Person um Anordnung vorsorglicher Massnahmen, so kann sie insbesond
 
 #### Art. 82
 
-<sup>1</sup> Wer seine Geschäftspapiere, Anzeigen jeder Art, Erzeugnisse oder Waren vorsätzlich mit einer Bezeichnung in Verkehr setzt oder feilhält, die geeignet ist, zu Unrecht den Glauben zu erwecken, dass ein Patentschutz für die Erzeugnisse oder Waren besteht, wird mit Busse bestraft. [^82-1]
+<sup>1</sup> Wer seine Geschäftspapiere, Anzeigen jeder Art, Erzeugnisse oder Waren vorsätzlich mit einer Bezeichnung in Verkehr setzt oder feilhält, die geeignet ist, zu Unrecht den Glauben zu erwecken, dass ein Patentschutz für die Erzeugnisse oder Waren besteht, wird mit Busse bestraft.[^82-1]
 
 <sup>2</sup> Der Richter kann die Veröffentlichung des Urteils anordnen.
 

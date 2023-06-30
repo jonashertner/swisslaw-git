@@ -4,11 +4,11 @@ title: "Federal Act of 25 June 1954 on Patents for Inventions (Patents Act, PatA
 short: PatA
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Patents Act, PatA)[^t-1]
 
-of 25 June 1954 (Status as of 1 January 2022)
+of 25 June 1954 (Status as of 1 July 2023)
 
 [^t-1]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -945,7 +945,7 @@ The patent may not be invoked against any person who, during the following perio
 <sup>4</sup> In the event of dispute, the court shall decide on the existence and on the extent of the rights claimed by prior use and on the amount of compensation to be paid in accordance with paragraph 3.
 
 [^48-1]: Reference deleted by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
-[^48-2]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^48-2]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522))
 
 ### Section 8 Representation and Supervision
 
@@ -1582,10 +1582,11 @@ Any person requesting preliminary measures may, in particular, request that the 
 
 <sup>2</sup> The right to file a complaint shall lapse after six months from the day on which the injured party became aware of the identity of the offender.
 
-<sup>3</sup> If the offender acts for commercial gain, he shall be prosecuted *ex officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence shall be combined with a monetary penalty.[^81-2]
+<sup>3</sup> If the offender acts for commercial gain, he shall be prosecuted *ex officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^81-2] [^81-3]
 
 [^81-1]: Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^81-2]: Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^81-2]: Third sentence repealed by No I 8 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^81-3]: Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. False information concerning the source
 
@@ -1674,9 +1675,9 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86a
 
-<sup>1</sup> The Federal Office for Customs and Border Security is authorised to notify the proprietor of a patent that is valid in Switzerland if there is any suspicion that goods that infringe that patent may imminently be brought into or taken out of Swiss customs territory.[^86a-1]
+<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the proprietor of a patent that is valid in Switzerland if there is any suspicion that goods that infringe that patent may imminently be brought into or taken out of Swiss customs territory.[^86a-1]
 
-<sup>2</sup> In such cases, the Federal Office for Customs and Border Security is authorised to withhold the goods for three working days in order that the person entitled may file an application in accordance with Article 86*b* paragraph 1.
+<sup>2</sup> In such cases, the FOCBS is authorised to withhold the goods for three working days in order that the person entitled may file an application in accordance with Article 86*b* paragraph 1.
 
 [^86a-1]: Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1684,11 +1685,11 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86b
 
-<sup>1</sup> If the proprietor or a licensee of a patent that is valid in Switzerland entitled to institute proceedings has clear indications that goods which infringe that patent may imminently be brought into or taken out of Swiss customs territory, he may request the Federal Office for Customs and Border Security in writing to refuse the release of the goods.[^86b-1]
+<sup>1</sup> If the proprietor or a licensee of a patent that is valid in Switzerland entitled to institute proceedings has clear indications that goods which infringe that patent may imminently be brought into or taken out of Swiss customs territory, he may request the FOCBS in writing to refuse the release of the goods.[^86b-1]
 
-<sup>2</sup> The applicant must provide all the information available to him that is necessary for the Federal Office for Customs and Border Security’s decision; this includes a precise description of the goods.
+<sup>2</sup> The applicant must provide all the information available to him that is necessary for the FOCBS’s decision; this includes a precise description of the goods.
 
-<sup>3</sup> The Federal Office for Customs and Border Security shall make the final decision on the application. It may charge a fee to cover the administrative costs.
+<sup>3</sup> The FOCBS shall make the final decision on the application. It may charge a fee to cover the administrative costs.
 
 [^86b-1]: Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1696,7 +1697,7 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86c
 
-<sup>1</sup> If the Federal Office for Customs and Border Security, as a result of an application under Article 86*b* paragraph 1, has grounds to suspect that certain goods intended to be brought into or taken out of Swiss customs territory infringe a patent valid in Switzerland, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^86c-1]
+<sup>1</sup> If the FOCBS, as a result of an application under Article 86*b* paragraph 1, has grounds to suspect that certain goods intended to be brought into or taken out of Swiss customs territory infringe a patent valid in Switzerland, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^86c-1]
 
 <sup>2</sup> It shall withhold the goods for a maximum of ten working days from the time of notification pursuant to paragraph 1, so that the applicant may obtain preliminary measures.
 
@@ -1708,7 +1709,7 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86d
 
-<sup>1</sup> While the goods are being withheld, the Federal Office for Customs and Border Security is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
+<sup>1</sup> While the goods are being withheld, the FOCBS is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
 
 <sup>2</sup> The samples are collected and delivered at the expense of the applicant.
 
@@ -1718,11 +1719,11 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86e
 
-<sup>1</sup> At the same time as notification is made in accordance with Article 86*c* paragraph 1, the Federal Office for Customs and Border Security shall inform the declarant, holder or owner of the goods of the possible handover of samples or the opportunity to inspect them in accordance with Article 86*d* paragraph 1.
+<sup>1</sup> At the same time as notification is made in accordance with Article 86*c* paragraph 1, the FOCBS shall inform the declarant, holder or owner of the goods of the possible handover of samples or the opportunity to inspect them in accordance with Article 86*d* paragraph 1.
 
 <sup>2</sup> The declarant, holder or owner may request to be present at the inspection in order to safeguard his manufacturing or trade secrets.
 
-<sup>3</sup> The Federal Office for Customs and Border Security may refuse to hand over samples on a reasoned request from the declarant, holder or owner.
+<sup>3</sup> The FOCBS may refuse to hand over samples on a reasoned request from the declarant, holder or owner.
 
 ### F. Application for destruction of the goods
 
@@ -1730,9 +1731,9 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86f
 
-<sup>1</sup> When making an application under Article 86*b* paragraph 1, the applicant may submit a written request to the Federal Office for Customs and Border Security to destroy the goods.
+<sup>1</sup> When making an application under Article 86*b* paragraph 1, the applicant may submit a written request to the FOCBS to destroy the goods.
 
-<sup>2</sup> If an application for destruction is made, the Federal Office for Customs and Border Security shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 86*c* paragraph 1.
+<sup>2</sup> If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 86*c* paragraph 1.
 
 <sup>3</sup> The application for destruction does not result in the time limits for obtaining preliminary measures under Article 86*c* paragraphs 2 and 3 being extended.
 
@@ -1748,7 +1749,7 @@ In the case of infringements within businesses committed by subordinates, agents
 
 #### Art. 86h
 
-Before the destruction of the goods, the Federal Office for Customs and Border Security shall remove samples and hold them in safekeeping as evidence in any actions for damages.
+Before the destruction of the goods, the FOCBS shall remove samples and hold them in safekeeping as evidence in any actions for damages.
 
 ### IV. Damages
 
@@ -1770,7 +1771,7 @@ Before the destruction of the goods, the Federal Office for Customs and Border S
 
 #### Art. 86k
 
-<sup>1</sup> If it is anticipated that withholding the goods may lead to a loss being incurred, the Federal Office for Customs and Border Security may make the withholding of the goods dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by the circumstances, the Federal Office for Customs and Border Security may request the applicant to provide appropriate security.
+<sup>1</sup> If it is anticipated that withholding the goods may lead to a loss being incurred, the FOCBS may make the withholding of the goods dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by the circumstances, the FOCBS may request the applicant to provide appropriate security.
 
 <sup>2</sup> The applicant shall be liable for any losses incurred from withholding the goods and from collecting the samples if preliminary measures are not ordered or prove to be unjustified.
 
@@ -2157,7 +2158,7 @@ The Institute acts as Receiving Office under Article 2 of the Patent Cooperation
 
 [^tit6-chap3-1]
 
-[^tit6-chap3-1]: Inserted by No I of the FA of 17 Dec. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). .
+[^tit6-chap3-1]: Inserted by No I of the FA of 17 Dec. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### A. Designated Office and Elected Office
 

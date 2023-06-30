@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1954 sui brevetti d'invenzione (Legge sui b
 short: LBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20220101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20220101/it"
 
 (Legge sui brevetti, LBI)[^t-1]
 
-del 25 giugno 1954 (Stato 1° gennaio 2022)
+del 25 giugno 1954 (Stato 1° luglio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -403,7 +403,7 @@ Il brevetto si estingue:
 Richiedenti o titolari di brevetti, di cittadinanza svizzera, possono invocare le disposizioni del testo, che vincola la Svizzera, della Convenzione di Parigi del 20 marzo 1883[^16-2] per la protezione della proprietà industriale, se siffatte disposizioni sono più favorevoli di quelle della presente legge.
 
 [^16-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^16-2]: RS [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^16-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 ### Capo 2: Diritto di priorità
 
@@ -425,7 +425,7 @@ Richiedenti o titolari di brevetti, di cittadinanza svizzera, possono invocare l
 
 <sup>3</sup> …[^17-6]
 
-[^17-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)/**.04**
+[^17-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)¸**0.232.02**, **0.232.03**, **0.232.04**
 [^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
 [^17-3]: Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 [^17-4]: Introdotto dal n. I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
@@ -1577,10 +1577,11 @@ Chi chiede al giudice di ordinare provvedimenti cautelari può in particolare es
 
 <sup>2</sup> Il diritto di querela si estingue decorsi sei mesi dal giorno in cui il danneggiato ha conosciuto l’autore dell’infrazione.
 
-<sup>3</sup> Se agisce a titolo commerciale, l’autore è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^81-2]
+<sup>3</sup> Se agisce a titolo commerciale, l’autore è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria.[^81-2] ...[^81-3]
 
 [^81-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^81-2]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^81-3]: Terzo per. abrogato dal n. I 8 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### II. Indicazioni false sulla fonte
 
@@ -2661,7 +2662,7 @@ I brevetti non ancora estinti alla data dell’entrata in vigore della modifica 
 [^u1-148-3]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
 [^u1-148-4]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
 [^u1-148-5]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
-[^u1-148-6]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879), [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848).
+[^u1-148-6]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879), [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
 
 ### E. Disposizione transitoria relativa alla modifica della presente legge del 18 marzo 2016
 
