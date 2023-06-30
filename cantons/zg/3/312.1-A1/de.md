@@ -4,13 +4,13 @@ number: 312.1-A1
 title: "Übertretungsstrafgesetz (Anhang: Bussenkatalog gemäss § 15 ÜStG)"
 short: ÜStG
 language: de
-version: 2022-05-01
-valid_until: 2023-06-30
-version_adopted: 2022-01-27
+version: 2023-07-01
+valid_until: 2024-12-31
+version_adopted: 2023-01-26
 adopted: 2013-05-23
 in_force: 2013-10-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/312.1-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/2336/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2336/pdf_file"
 
 (ÜStG)
 
-Vom 23. Mai 2013 (Stand 1. Mai 2022)
+Vom 23. Mai 2013 (Stand 1. Juli 2023)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -48,12 +48,11 @@ beschliesst:
 - 1\.10 Betteln (§ 13 ÜStG): 100.–
 - 1\.11 Vorsätzliches oder fahrlässiges Missachten des Feuerverbots im Freien (§ 9 Abs. 2 Bst. b in Verbindung mit § 61 Feuerschutzgesetz[^Ziff1-2]): 200.–
 - 1\.12 Vorsätzliches oder fahrlässiges Missachten des Verbots zum Abbrennen von Feuerwerk (§ 9 Abs. 2 Bst. b in Verbindung mit § 61 Feuerschutzgesetz): 100.–
-- 1\.13 Vorsätzlicher oder fahrlässiger Verstoss gegen die Pflicht, als Bewilligungsinhaber oder dessen Stellvertreter die Einhaltung des Spiel- und Zutrittsverbots für Jugendliche unter 18 Jahren zu kontrollieren (§ 19 Abs. 3 in Verbindung mit § 29 Spielautomatengesetz[^Ziff1-3]): 300.–
+- 1\.13 …
 - 1\.14 Liegenlassen und nicht korrektes Entsorgen von Hundekot (§ 6 Abs. 1 Bst. d ÜStG): 100.–
 
 [^Ziff1-1]: BGS [312.1](https://bgs.zg.ch/data/312.1/de)
 [^Ziff1-2]: BGS [722.21](https://bgs.zg.ch/data/722.21/de)
-[^Ziff1-3]: BGS [942.48](https://bgs.zg.ch/data/942.48/de)
 
 #### Ziff. 2
 
