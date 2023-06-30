@@ -1,25 +1,24 @@
 ---
 canton: SG
 number: "140.2"
-title: Gesetz über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz)
+title: Öffentlichkeitsgesetz
 short: OeffG
 language: de
-version: 2014-11-18
-valid_until: 2023-06-30
-version_adopted: 2014-11-18
+version: 2023-07-01
+version_adopted: 2022-06-14
 adopted: 2014-11-18
 in_force: 2014-11-18
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/140.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1796/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz)
+# Öffentlichkeitsgesetz
 
 (OeffG)
 
-vom 18.11.2014 (Stand 18.11.2014)
+vom 18.11.2014 (Stand 01.07.2023)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -41,7 +40,7 @@ als Gesetz:[^ingress-3]
 
 **Zweck und Geltungsbereich a) Grundsatz**
 
-<sup>1</sup> Dieser Erlass fördert die Transparenz über den Auftrag, die Organisation und die Tätigkeit der Verwaltung. Zu diesem Zweck regelt er die Information der Öffentlichkeit durch die öffentlichen Organe und gewährleistet den Zugang zu amtlichen Dokumenten.
+<sup>1</sup> Dieser Erlass fördert die Transparenz über den Auftrag, die Organisation und die Tätigkeit der öffentlichen Organe. Zu diesem Zweck regelt er die Information der Öffentlichkeit durch die öffentlichen Organe und gewährleistet den Zugang zu amtlichen Dokumenten.
 
 <sup>2</sup> Öffentliche Organe sind Organe, Behörden und Dienststellen:
 
@@ -52,6 +51,27 @@ als Gesetz:[^ingress-3]
 - e) von Gemeindeverbänden und Zweckverbänden.
 
 <sup>3</sup> Den öffentlichen Organen sind Private gleichgestellt, wenn sie Staatsaufgaben erfüllen.
+
+#### Art. 1a
+
+**a<sup>bis</sup>) Kantonsrat und Gemeindeparlament**
+
+<sup>1</sup> Kantonsrat und Gemeindeparlament regeln im Geschäftsreglement[^1a-1] für sich und ihre Organe die Information der Öffentlichkeit über ihre Tätigkeit und den Zugang zu amtlichen Dokumenten.
+
+<sup>2</sup> Dieser Erlass gilt sachgemäss, soweit das Geschäftsreglement keine Regelung enthält.
+
+[^1a-1]: Geschäftsreglement des Kantonsrates, sGS [131.11](https://www.gesetzessammlung.sg.ch/data/131.11/de); Art. [60](https://www.gesetzessammlung.sg.ch/data/151.2/de/art60) des Gemeindegesetzes, sGS [151.2](https://www.gesetzessammlung.sg.ch/data/151.2/de).
+
+#### Art. 1b
+
+**a<sup>ter</sup>) Zuständigkeit**
+
+<sup>1</sup> Nach dem vorliegenden Erlass handelt:
+
+- a) für den Kantonsrat und seine Organe: die Leiterin oder der Leiter der Parlamentsdienste;
+- b) für das Gemeindeparlament und seine Organe: die im Geschäftsreglement be-zeichnete Stelle;
+- c) für die Regierung: die Staatskanzlei;
+- d) im Übrigen das öffentliche Organ nach Massgabe der in Gesetz, Reglement oder Organisationsvorschriften festgelegten Zeichnungsberechtigung.
 
 #### Art. 2
 
@@ -136,7 +156,7 @@ als Gesetz:[^ingress-3]
 - b) über nicht öffentliche Verhandlungen, insbesondere Sitzungsunterlagen und Aufzeichnungen;
 - c) soweit das Gemeinwesen am wirtschaftlichen Wettbewerb teilnimmt und nicht hoheitlich handelt.
 
-<sup>2</sup> Das öffentliche Organ kann im Interesse der Rechtsanwendung oder der Wissenschaft von Abs. 1 dieser Bestimmung abweichen. Vorbehalten bleiben die Einschränkungen nach Art. 6 dieses Erlasses.
+<sup>2</sup> …
 
 ### 2. Information über die Tätigkeit öffentlicher Organe
 
