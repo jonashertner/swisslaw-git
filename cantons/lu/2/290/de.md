@@ -4,13 +4,12 @@ number: "290"
 title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: EGSchKG
 language: de
-version: 2019-01-01
-valid_until: 2023-06-30
-version_adopted: 2018-09-10
+version: 2023-07-01
+version_adopted: 2023-03-20
 adopted: 1996-10-22
 in_force: 1997-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/290"
-pdf: "https://srl.lu.ch/api/de/versions/3325/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4090/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3325/pdf_file"
 
 (EGSchKG)
 
-vom 22.10.1996 (Stand 01.01.2019)
+vom 22.10.1996 (Stand 01.07.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -206,6 +205,17 @@ beschliesst:
 **Revision der Rechnungsführung ausserordentlicher und ausseramtlicher Konkursverwaltungen**
 
 <sup>1</sup> Werden ausserordentliche oder ausseramtliche Konkursverwaltungen eingesetzt, kann das Kantonsgericht die Revision der Rechnungsführung auf deren Kosten anordnen.
+
+#### § 17b
+
+**Strafanzeige**
+
+<sup>1</sup> Die Betreibungs- und Konkursbeamten sowie die für sie tätigen Personen sind zur Strafanzeige bei den Strafverfolgungsbehörden berechtigt, wenn sie bei ihrer Tätigkeit eine strafbare Handlung nach den Bestimmungen des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^17b-1] feststellen, für welche konkrete Verdachtsmomente vorliegen. Vorbehalten bleiben Anzeigepflichten nach dem Bundesgesetz über Schuldbetreibung und Konkurs.
+
+<sup>2</sup> Für Anzeigen bedarf es keiner Entbindung von der Geheimhaltungspflicht gemäss § 52 des Personalgesetzes vom 26. Juni 2001[^17b-2].
+
+[^17b-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^17b-2]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
 
 ## 3 Sachwalter
 
