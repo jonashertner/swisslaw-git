@@ -4,11 +4,11 @@ title: Automobilsteuergesetz vom 21. Juni 1996 (AStG)
 short: AStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20220101/de"
 
 (AStG)
 
-vom 21. Juni 1996 (Stand am 1. Januar 2022)
+vom 21. Juni 1996 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -415,17 +415,13 @@ Die Steuerbehörde erfasst die für den Vollzug dieses Gesetzes benötigten Date
 
 **Beschwerde gegen Sicherstellungsverfügungen**
 
-<sup>1</sup> ...[^35-1]
+<sup>1</sup> …[^35-1]
 
 <sup>2</sup> Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.
 
 [^35-1]: Aufgehoben durch Anhang Ziff. 54 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## 8. Abschnitt: Strafbestimmungen****
-
-[^sec8-1]
-
-[^sec8-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+## 8. Abschnitt: Strafbestimmungen
 
 #### Art. 36
 
@@ -435,17 +431,18 @@ Die Steuerbehörde erfasst die für den Vollzug dieses Gesetzes benötigten Date
 
 <sup>2</sup>
 
-Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zudem kann auf Gefängnis erkannt werden. Als erschwerende Umstände gelten:
+Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zudem kann auf Freiheitsstrafe bis zu drei Jahren erkannt werden.[^36-2] Als erschwerende Umstände gelten:
 
 - a. die Anwerbung mehrerer Personen für eine Widerhandlung;
 - b. die gewerbs- oder gewohnheitsmässige Verübung von Widerhandlungen.
 
 <sup>3</sup> Kann der gefährdete oder hinterzogene Steuerbetrag nicht genau ermittelt werden, so wird er durch die Steuerbehörde geschätzt.
 
-<sup>4</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^36-2]
+<sup>4</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^36-3]
 
 [^36-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^36-2]: Fassung gemäss Ziff. I 21 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^36-2]: Fassung des zweiten Satzes gemäss Ziff. I 7 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^36-3]: Fassung gemäss Ziff. I 21 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -502,6 +499,6 @@ Anhang
 
 ## Änderung bisherigen Rechts
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)konsultiert werden.

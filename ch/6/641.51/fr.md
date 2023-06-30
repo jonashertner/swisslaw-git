@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 juin 1996 sur l'imposition des véhicules automobil
 short: Limpauto
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3045_3045_3045-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3045_3045_3045/20220101/fr"
 
 (Limpauto)
 
-du 21 juin 1996 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 juin 1996 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -422,10 +422,6 @@ L’autorité fiscale saisit les données nécessaires à l’exécution de la p
 
 ## Section 8 Dispositions pénales
 
-[^sec8-1]
-
-[^sec8-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-
 #### Art. 36
 
 **Mise en péril ou soustraction de l’impôt**
@@ -434,17 +430,18 @@ L’autorité fiscale saisit les données nécessaires à l’exécution de la p
 
 <sup>2</sup>
 
-En cas de circonstances aggravantes, le maximum de l’amende sera augmenté de moitié. En outre, une peine d’emprisonnement pourra être prononcée. Sont réputés circonstances aggravantes:
+En cas de circonstances aggravantes, le maximum de l’amende sera augmenté de moitié. En outre, une peine privative de liberté de trois ans au plus peut être prononcée.[^36-2] Sont réputés circonstances aggravantes:
 
 - a. le fait d’embaucher plusieurs personnes pour commettre une infraction;
 - b. le fait de commettre des infractions professionnellement ou par habitude.
 
 <sup>3</sup> Si le montant de l’impôt soustrait ou mis en péril ne peut être déterminé exactement, il sera évalué par l’autorité fiscale.
 
-<sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et, soit une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’OFDF est chargé de poursuivre, soit une infraction douanière, la peine applicable sera celle de l’infraction la plus grave; cette peine peut être augmentée de manière appropriée.[^36-2]
+<sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et, soit une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’OFDF est chargé de poursuivre, soit une infraction douanière, la peine applicable sera celle de l’infraction la plus grave; cette peine peut être augmentée de manière appropriée.[^36-3]
 
 [^36-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^36-2]: Nouvelle teneur selon le ch. I 21 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^36-2]: Nouvelle teneur de la phrase selon le ch. I 7 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^36-3]: Nouvelle teneur selon le ch. I 21 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
