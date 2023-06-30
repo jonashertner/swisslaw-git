@@ -4,13 +4,13 @@ number: "651.111"
 title: Verordnung zum Steuergesetz
 short: StGV
 language: de
-version: 2022-01-01
-valid_until: 2023-06-30
-version_adopted: 2021-08-25
+version: 2023-07-01
+valid_until: 2024-06-30
+version_adopted: 2023-05-31
 adopted: 2000-09-11
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3081/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3081/pdf_file"
 
 (StGV)
 
-Vom 11.09.2000 (Stand 01.01.2022)
+Vom 11.09.2000 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -731,7 +731,7 @@ beschliesst:
 
 <sup>1</sup> Werden die Steuern bis zur Fälligkeit nicht bezahlt, sind die säumigen Steuerpflichtigen zu mahnen. Die Mahngebühr beträgt Fr. 35.–.
 
-<sup>2</sup> Bleibt die Mahnung erfolglos, ist für rechtskräftig veranlagte Steuern sofort Betreibung einzuleiten. Für erfolglos gemahnte provisorische Steuern kann eine Betreibung erfolgen, wobei das Kantonale Steueramt die Grundsätze festlegt. Die Gebühr für die Umtriebe bei der Betreibung beträgt Fr. 100.–.
+<sup>2</sup> Bleibt die Mahnung erfolglos, ist für rechtskräftig veranlagte Steuern sofort Betreibung einzuleiten. Für erfolglos gemahnte provisorische Steuern kann eine Betreibung erfolgen, wobei das Kantonale Steueramt die Grundsätze festlegt. Die Gebühr für die Umtriebe bei der Betreibung von Steuern, Gebühren und/oder Verzugszinsen beträgt Fr. 100.–.
 
 <sup>3</sup> Die Veranlagungsbehörde kann im Rahmen von Art. 79 Abs. 1 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG) vom 11. April 1889[^77a-1] den Rechtsvorschlag für provisorische Steuern beseitigen. In gleicher Weise können die Bezugsorgane den Rechtsvorschlag für Gebühren beseitigen.
 
