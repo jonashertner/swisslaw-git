@@ -3,20 +3,20 @@ canton: AG
 number: "997.111"
 title: Verordnung über die Schifffahrt
 language: de
-version: 2019-07-01
-valid_until: 2023-06-30
-version_adopted: 2019-05-01
+version: 2023-07-01
+valid_until: 2024-04-30
+version_adopted: 2023-06-14
 adopted: 1981-01-26
 in_force: 1981-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/997.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2729/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3317/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schifffahrt
 
-Vom 26.01.1981 (Stand 01.07.2019)
+Vom 26.01.1981 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -53,13 +53,13 @@ beschliesst:
 
 - a) Schiffe mit Standplatz auf oder an öffentlichen Gewässern:
   - 1\. Hallwilersee: Nr. 0001–0599: Schiffe mit Verbrennungsmotoren; Nr. 0600–1499: Segelschiffe; Nr. 1500–1999 und Nr. 5100–5999: übrige Schiffe
-  - 2\. Rhein: Nr. 2000 – 2999
-  - 3\. Limmat: Nr. 3000 – 3999
-  - 4\. Aare: Nr. 4000 – 4999
-  - 5\. Reuss: Nr. 5000 – 5099
-- b) Schiffe ohne Standplatz auf oder an öffentlichen Gewässern (Wanderboote): Nr. 6000 – 7999
-- c) Kollektiv-Schiffsausweise: Nr. 8000 – 8050
-- d) Unverzollte Schiffe: Nr. 90000 – 90100
+  - 2\. Rhein: Nr. 2000–2999
+  - 3\. Limmat: Nr. 3000–3999
+  - 4\. Aare: Nr. 4000–4999
+  - 5\. Reuss: Nr. 5000–5099
+- b) Schiffe ohne Standplatz auf oder an öffentlichen Gewässern (Wanderboote): Nr. 6000–7999
+- c) Kollektiv-Schiffsausweise: Nr. 8000–8050
+- d) Unverzollte Schiffe: Nr. 90000–90100
 
 #### § 3
 
@@ -147,7 +147,7 @@ beschliesst:
 - a) auf dem Hallwilersee:
   - 1\. im Bereich vor dem Boniswiler Ried, begrenzt durch die Bojenfelder Alliswil – Südspitze Risle-Wald, im Bereich der UNESCO-Pfahlbau-Fundstelle Beinwil-Ägelmoos, begrenzt durch das Bojenfeld Ägelmoos, und im Bereich Erlenhölzli, begrenzt durch das Bojenfeld Teufenbach – Moos;
   - 2\. auf dem öffentlichen Badeanlagen vorgelagerten Wasserstreifen von 150 m, ausgenommen sind Badegeräte;
-- b) auf dem Aabach im Bereich des Wassergrabens um das Schloss Hallwil ganzjährig sowie zwischen dem Ausfluss aus dem See und dem Schloss im Zeitraum vom 1. April bis 30. Juni;
+- b) auf dem Aabach im Bereich des Wassergrabens um das Schloss Hallwil sowie zwischen dem Ausfluss aus dem See und dem Schloss;
 - c) auf dem Flachsee Unterlunkhofen, ausgenommen das Durchfahren der 25 m breiten Fahrrinne entlang des linken Ufers im Zeitraum vom 1. April bis 15. Oktober;
 - d) auf der Reuss zwischen der Kantonsgrenze Jonen und der Brücke Rottenschwil vom 1. November bis 15. März, und von der Brücke Rottenschwil bis zur Einmündung des Unterwasserkanals des Kraftwerks Bremgarten-Bruggmühle vom 16. Oktober bis 31. März;
 - e) auf den Altläufen der Reuss;
@@ -170,7 +170,8 @@ beschliesst:
 - c) die Fischereibewirtschaftung mit Bewilligung des Departements Bau, Verkehr und Umwelt;
 - d) den Rettungsdienst sowie Übungen im Rahmen der Hochwasseralarmorganisation;
 - e) militärische Übungen;
-- f) polizeiliche Übungen und Einsätze.
+- f) polizeiliche Übungen und Einsätze;
+- g) die Zufahrt zu bewilligten Schiffsliegeplätzen mit Bewilligung des Departements Bau, Verkehr und Umwelt.
 
 #### § 10bis
 
