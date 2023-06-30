@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1933 sur le contrôle du commerce des métaux 
 short: LCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230701-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/fr"
 
 (Loi sur le contrôle des métaux précieux, LCMP)[^t-1]
 
-du 20 juin 1933 (État le 1<sup>er</sup> janvier 2023)
+du 20 juin 1933 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: Nouvelle teneur selon l’art. 75 ch. 2 de la L du 28 août 1992 sur la protection des marques, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 31<sup>bis</sup>, al. 2, 31<sup>sexies</sup> et 34<sup>ter</sup>, let. g, de la constitution[^ingress-1],[^ingress-2]
+vu les art. 95, al. 1, et 97, al. 1, de la Constitution[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1981 1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244)]
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Chapitre I Définitions
 
@@ -236,7 +236,7 @@ Les désignations prescrites ou admises par la loi ou l’ordonnance doivent se 
 
 <sup>2</sup> Si, par la suite, les conditions légales requises pour l’enregistrement ne sont plus remplies ou si la durée de l’enregistrement a expiré sans qu’une demande de prorogation ait été présentée en temps utile, le poinçon de maître est radié du registre.[^12-2] Il peut également être radié si le propriétaire s’en est servi pour enfreindre des prescriptions de la présente loi. La radiation est ordonnée par le bureau central et communiquée au propriétaire par lettre recommandée, avec l’indication des voies de droit qui lui sont ouvertes.
 
-<sup>3</sup> ...[^12-3]
+<sup>3</sup> …[^12-3]
 
 [^12-1]: Introduit par l’art. 75 ch. 2 de la L du 28 août 1992 sur la protection des marques, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 [^12-2]: Nouvelle teneur selon l’art. 75 ch. 2 de la L du 28 août 1992 sur la protection des marques, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
@@ -324,7 +324,7 @@ Le Conseil fédéral édictera les prescriptions de détail concernant la procé
 [^20-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-4]: Nouvelle teneur selon l’annexe ch. 19 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^20-5]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la L du 18 mars 2005 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^20-5]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la L du 18 mars 2005 ([RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 ### Exportation
 
@@ -407,7 +407,7 @@ Seul le titulaire d’une patente de fondeur peut faire métier de fabriquer des
 <sup>3</sup> Les sociétés commerciales et les coopératives, ainsi que les succursales suisses de sociétés étrangères, doivent être inscrites au registre suisse du commerce. Les personnes chargées de l’administration et de la direction des sociétés et coopératives doivent jouir d’une bonne réputation et offrir toute garantie que leurs activités commerciales seront irréprochables.
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^25-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^25-3]: Nouvelle teneur selon le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
 ### b. Octroi. Renouvellement. Retrait
@@ -420,7 +420,7 @@ Seul le titulaire d’une patente de fondeur peut faire métier de fabriquer des
 
 <sup>3</sup> L’octroi et le retrait de la patente sont publiés dans la *Feuille offi**cielle suisse du commerce.*
 
-<sup>4</sup> ...[^26-2]
+<sup>4</sup> …[^26-2]
 
 [^26-1]: Nouvelle teneur selon le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 [^26-2]: Abrogé par l’annexe ch. 135 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -431,7 +431,7 @@ Seul le titulaire d’une patente de fondeur peut faire métier de fabriquer des
 
 [^27-1]: Abrogé par le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, avec effet au 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
-### 2. ...
+### 2. …
 
 #### Art. 28
 
@@ -447,7 +447,7 @@ Seul le titulaire d’une patente de fondeur peut faire métier de fabriquer des
 
 ### Fabrication de produits de la fonte
 
-### a. ...
+### a. …
 
 #### Art. 30
 
@@ -550,7 +550,7 @@ Il a en particulier les tâches suivantes:
 <sup>3</sup> Il perçoit des émoluments pour son activité de surveillance du commerce des métaux précieux et des ouvrages en métaux précieux et une taxe de surveillance pour financer les coûts des activités prévues à l’al. 2, let. e, et à l’art. 42<sup>ter</sup> qui ne sont pas couverts par les émoluments. La taxe de surveillance pour les activités prévues à l’al. 2, let. e, est prélevée sous forme de montant forfaitaire pour une période de quatre ans. Le total du bilan et le produit brut sont déterminants pour fixer la taxe annuelle de surveillance pour les activités prévues à l’art. 42<sup>ter</sup>. Le Conseil fédéral règle les modalités applicables aux émoluments et à la taxe de surveillance.
 
 [^36-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^36-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^36-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### Bureau de contrôle
 
@@ -594,7 +594,7 @@ Il a en particulier les tâches suivantes:
 
 <sup>1</sup> Les essayeurs du contrôle se conformeront aux prescriptions de la présente loi, de ses dispositions d’exécution et des instructions du bureau central et éviteront tout ce qui pourrait faciliter les infractions. Ils ne doivent notamment déterminer le titre de produits de la fonte que si les conditions prévues par la loi sont remplies en l’espèce; ils signaleront immédiatement toute infraction aux prescriptions de la présente loi. L’art. 38, al. 3, est applicable par analogie.
 
-<sup>2</sup> Le bureau central surveille l’activité des essayeurs-jurés. Lorsqu’un essayeur-juré manque gravement aux devoirs de sa charge ou que son incapacité est établie, ledit bureau peut lui retirer son diplôme. ... [^40-1]
+<sup>2</sup> Le bureau central surveille l’activité des essayeurs-jurés. Lorsqu’un essayeur-juré manque gravement aux devoirs de sa charge ou que son incapacité est établie, ledit bureau peut lui retirer son diplôme. … [^40-1]
 
 <sup>3</sup> Les essayeurs-jurés répondent de tout dommage causé par leur faute ou par leur négligence dans l’exercice de leur activité. L’art. 38, al. 4, est applicable.
 
@@ -639,7 +639,7 @@ L’autorisation est accordée à l’essayeur du commerce s’il remplit les co
 <sup>3</sup> Si une société négocie à titre professionnel les métaux précieux bancaires d’un essayeur du commerce faisant partie du même groupe de sociétés, elle doit également obtenir une telle autorisation. Les conditions prévues à l’al. 2 doivent être remplies.
 
 [^42bis-1]: Introduit par l’annexe ch. II 11 de la LF du 15 juin 2018 sur les établissements financiers ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^42bis-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^42bis-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Surveillance en matière de négoce de métaux précieux bancaires
 
@@ -656,9 +656,9 @@ L’autorisation est accordée à l’essayeur du commerce s’il remplit les co
 <sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières[^42ter-4] règle les modalités de la surveillance et des audits.
 
 [^42ter-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^42ter-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^42ter-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^42ter-4]: La dénomination de l’unité administrative a été adaptée en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^42ter-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^42ter-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^42ter-4]: La dénomination de l’unité administrative a été adaptée en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 
 ## Chapitre VI Recours
 
@@ -668,16 +668,12 @@ L’autorisation est accordée à l’essayeur du commerce s’il remplit les co
 
 <sup>1</sup> Les décisions rendues par les bureaux de contrôle et les essayeurs-jurés du commerce peuvent faire l’objet d’un recours au bureau central.
 
-<sup>2</sup> et <sup>3</sup> ...[^43-2]
+<sup>2 et <sup>3</sup></sup> …[^43-2]
 
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^43-2]: Abrogés par l’annexe ch. 135 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Chapitre VII Dispositions pénales
-
-[^chap7-1]
-
-[^chap7-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 ### 1. Infractions
 
@@ -685,18 +681,20 @@ L’autorisation est accordée à l’essayeur du commerce s’il remplit les co
 
 #### Art. 44
 
-<sup>1</sup> Celui qui, sous une désignation susceptible de tromper autrui ou interdite par la présente loi, aura présenté au poinçonnement officiel ou, aux fins de réalisation, fabriqué, fait fabriquer ou importé, mis en vente ou vendu comme ouvrages en métaux précieux des articles n’ayant pas le titre prescrit, ou comme ouvrages multimétaux, ouvrages plaqués ou similis des articles non conformes aux prescriptions de la présente loi,
+<sup>1</sup>
 
-celui qui aura apposé sur des ouvrages en métaux précieux ou sur des ouvrages multimétaux un poinçon susceptible de faire croire que le titre est plus élevé qu’il ne l’est en réalité,
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque intentionnellement:
 
-sera puni, s’il a agi intentionnellement, de l’emprisonnement ou de l’amende jusqu’à 100 000 francs.[^44-1]
+- a. sous une désignation susceptible de tromper autrui ou interdite par la présente loi, présente au poinçonnement officiel ou, aux fins de réalisation, fabrique, fait fabriquer ou importe, met en vente ou vend comme ouvrages en métaux précieux des articles n’ayant pas le titre prescrit, ou comme ouvrages multimétaux, ouvrages plaqués ou similis des articles non conformes aux prescriptions de la présente loi;
+- b. appose sur des ouvrages en métaux précieux ou sur des ouvrages multimétaux un poinçon susceptible de faire croire que le titre est plus élevé qu’il ne l’est en réalité.[^44-1]
 
-<sup>2</sup> S’il fait métier de la fraude, la peine d’emprisonnement sera d’un mois au moins.
+<sup>2</sup> L’auteur qui agit par métier est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire de 30 jours-amende au moins.[^44-2]
 
-<sup>3</sup> S’il a agi par négligence, il sera puni de l’amende jusqu’à 50 000 francs.[^44-2] Les erreurs excusables qui peuvent se produire au cours de la fabrication ne sont pas considérées comme négligences.
+<sup>3</sup> L’auteur qui agit par négligence est puni d’une amende de 50 000 francs au plus.[^44-3] Les erreurs excusables qui peuvent se produire au cours de la fabrication ne sont pas considérées comme négligences.
 
-[^44-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^44-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^44-1]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^44-2]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^44-3]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### b. Contrefaçon et falsification de poinçons
 
@@ -704,20 +702,22 @@ sera puni, s’il a agi intentionnellement, de l’emprisonnement ou de l’amen
 
 [^45-1]
 
-<sup>1</sup> Celui qui aura contrefait ou falsifié des poinçons ou marques officiels suisses, étrangers ou internationaux,
+<sup>1</sup>
 
-celui qui aura utilisé de tels poinçons,
+Est puni, s’il agit intentionnellement, d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
 
-celui qui aura fabriqué, se sera procuré ou aura remis à des tiers des appareils servant à contrefaire ou à falsifier de tels poinçons,
+- a. contrefait ou falsifie des poinçons ou marques officiels suisses, étrangers ou internationaux;
+- b. utilise de tels poinçons;
+- c. fabrique, se procure ou remet à des tiers des appareils servant à contrefaire ou à falsifier de tels poinçons.[^45-2]
 
-sera puni, s’il a agi intentionnellement, de l’emprisonnement ou de l’amende jusqu’à 100 000 francs.
+<sup>2</sup> L’auteur qui agit par négligence est puni d’une amende de 50 000 francs au plus.[^45-3]
 
-<sup>2</sup> S’il a agi par négligence, il sera puni de l’amende jusqu’à 50 000 francs.
-
-<sup>3</sup> L’art. 246 du code pénal[^45-2] n’est pas applicable.
+<sup>3</sup> L’art. 246 du code pénal[^45-4] n’est pas applicable.
 
 [^45-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^45-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^45-2]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^45-3]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^45-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### c. Usage abusif de poinçons
 
@@ -725,11 +725,11 @@ sera puni, s’il a agi intentionnellement, de l’emprisonnement ou de l’amen
 
 [^46-1]
 
-<sup>1</sup> Celui qui aura fait un usage illicite de poinçons officiels suisses, étrangers ou internationaux sera puni, s’il a agi intentionnellement, de l’emprisonnement ou de l’amende jusqu’à 100 000 francs.
+<sup>1</sup> Quiconque fait un usage illicite de poinçons officiels suisses, étrangers ou internationaux est puni, s’il agit intentionnellement, d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> S’il a agi par négligence, il sera puni de l’amende jusqu’à 50 000 francs.
+<sup>2</sup> L’auteur qui agit par négligence est puni d’une amende de 50 000 francs au plus.
 
-[^46-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^46-1]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### d. Prescriptions sur les poinçons, infractions; utilisation abusive de marques; modification de poinçons
 
@@ -737,19 +737,18 @@ sera puni, s’il a agi intentionnellement, de l’emprisonnement ou de l’amen
 
 [^47-1]
 
-<sup>1</sup> Celui qui aura mis dans le commerce des ouvrages en métaux précieux non munis de l’indication du titre ou du poinçon de maître prescrits, des produits de la fonte sans indications du titre ou non munis de la marque de fondeur ou d’essayeur-juré, ou des boîtes de montre non poinçonnées officiellement,
+<sup>1</sup>
 
-celui qui aura qualifié comme tels ou mis dans le commerce des ouvrages multimétaux ou des ouvrages plaqués sans la désignation prescrite ou non munis du poinçon de maître,
+Est puni, s’il agit intentionnellement, d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
 
-celui qui aura imité ou utilisé abusivement le poinçon de maître ou la marque de fondeur ou d’essayeur-juré d’un tiers,
+- a. met dans le commerce des ouvrages en métaux précieux non munis de l’indication du titre ou du poinçon de maître prescrits, des produits de la fonte sans indications du titre ou non munis de la marque de fondeur ou d’essayeur-juré, ou des boîtes de montre non poinçonnées officiellement;
+- b. qualifie comme tels ou met dans le commerce des ouvrages multimétaux ou des ouvrages plaqués sans la désignation prescrite ou non munis du poinçon de maître;
+- c. imite ou utilise abusivement le poinçon de maître ou la marque de fondeur ou d’essayeur-juré d’un tiers;
+- d. met dans le commerce des ouvrages en métaux précieux ou des produits de la fonte sur lesquels l’indication du titre ou l’empreinte d’un poinçon officiel a été modifiée ou éliminée.
 
-celui qui aura mis dans le commerce des ouvrages en métaux précieux ou des produits de la fonte sur lesquels l’indication du titre ou l’empreinte d’un poinçon officiel a été modifiée ou éliminée,
+<sup>2</sup> L’auteur qui agit par négligence est puni d’une amende de 50 000 francs au plus.
 
-sera puni, s’il a agi intentionnellement, de l’emprisonnement ou de l’amende jusqu’à 100 000 francs.
-
-<sup>2</sup> Si l’auteur a agi par négligence, il sera puni de l’amende jusqu’à 50 000 francs.
-
-[^47-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^47-1]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### e. Commerce illicite et non-respect des obligations de diligence, de documentation et d’enregistrement
 
@@ -773,7 +772,7 @@ Celui qui aura enfreint l’interdiction de colportage prévue aux art. 23 et 28
 
 celui qui aura contrevenu aux prescriptions concernant l’achat direct de matières pour la fonte,
 
-sera puni d’une amende ...[^49-1].
+sera puni d’une amende …[^49-1].
 
 [^49-1]: Montants abrogés par l’art. 75 ch. 2 de la L du 28 août 1992 sur la protection des marques, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -781,7 +780,7 @@ sera puni d’une amende ...[^49-1].
 
 #### Art. 50
 
-<sup>1</sup> Tout fonctionnaire du bureau central ou d’un bureau de contrôle qui aura reproduit ou fait reproduire des ouvrages présentés au bureau sera puni d’une amende ...[^50-1].
+<sup>1</sup> Tout fonctionnaire du bureau central ou d’un bureau de contrôle qui aura reproduit ou fait reproduire des ouvrages présentés au bureau sera puni d’une amende …[^50-1].
 
 <sup>2</sup> L’art. 40, al. 2, demeure réservé.
 
@@ -801,26 +800,26 @@ Lorsque des infractions sont commises dans la gestion d’une personne morale, d
 
 <sup>2</sup> Dans les cas de condamnation pour fraude en application de l’art. 44, le tribunal peut ordonner la confiscation des ouvrages qui ont servi à commettre l’infraction. Les objets doivent être brisés. Le produit de la vente du métal revient à la Confédération, sous réserve de l’application de la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées[^52-1].[^52-2]
 
-[^52-1]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^52-1]: [RS 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 [^52-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
-### 4. Application du code pénal fédéral
+### 4. …
 
 #### Art. 53
 
-Sauf disposition contraire de la présente loi, les dispositions générales du code pénal fédéral du 4 février 1853[^53-1] sont applicables.
+[^53-1]
 
-[^53-1]: [RO **I****II** 335, **VI** 300 art. 5, **19** 244, **28** 113 art. 227 al. 1 ch. 6; RS **3** 295 art. 342 al. 2 ch. 3, **4** 798 art. 61, **7** 752 art. 69 ch. 4 872 art. 48. RS **3** 193 art. 398 al. 2 let. a]. Voir actuellement le code pénal du 21 déc. 1937 (art. 334 CP; [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
+[^53-1]: Abrogé par le ch. I 14 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 5. Procédure pénale
 
 #### Art. 54
 
-<sup>1</sup> et <sup>2</sup> ...[^54-1]
+<sup>1 et <sup>2</sup></sup> …[^54-1]
 
-<sup>3</sup> Le bureau central et les bureaux de contrôle dénonceront les infractions à l’autorité compétente pour engager les poursuites pénales. ...[^54-2]
+<sup>3</sup> Le bureau central et les bureaux de contrôle dénonceront les infractions à l’autorité compétente pour engager les poursuites pénales. …[^54-2]
 
-[^54-1]: Abrogés (art. 342 al. 1 PP; RS **3** 295; [FF 1929 II 607](https://fedlex.data.admin.ch/eli/fga/1929/2_575_607_439)). Voir actuellement le code de procédure pénale du 5 oct. 2007 ([RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^54-1]: Abrogés (art. 342 al. 1 PP; [RS 3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6193)295; [FF 1929 II 607](https://fedlex.data.admin.ch/eli/fga/1929/2_575_607_439)). Voir actuellement le code de procédure pénale du 5 oct. 2007 ([RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)).
 [^54-2]: Phrase abrogée par l’annexe 1 ch. II 32 du CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### 6. Inobservation de prescriptions d’ordre
@@ -846,7 +845,7 @@ Celui qui, intentionnellement ou par négligence, contrevient à une disposition
 <sup>2</sup> Le bureau central est l’autorité administrative compétente pour poursuivre et juger, selon la procédure prévue par la loi fédérale du 22 mars 1974 sur le droit pénal administratif, les infractions réprimées par l’art. 55. Les bureaux de contrôle sont tenus de signaler au bureau central les inobservations de prescriptions d’ordre dont ils ont connaissance. La même obligation incombe aux essayeurs du contrôle et aux essayeurs du commerce.
 
 [^56-1]: Nouvelle teneur selon l’annexe ch. 20 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^56-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 7. Infractions dans le négoce de métaux précieux bancaires
 
@@ -920,7 +919,7 @@ Il est loisible de renoncer à poursuivre les personnes punissables et de condam
 - b. l’amende entrant en ligne de compte pour les infractions aux dispositions pénales prévues aux art. 56*a* à 56*e* ne dépasse pas 50 000 francs.
 
 [^56f-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^56f-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56f-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### g. Compétence
 
@@ -935,7 +934,7 @@ Il est loisible de renoncer à poursuivre les personnes punissables et de condam
 <sup>3</sup> Le représentant du Ministère public de la Confédération et le représentant du Département fédéral des finances ne sont pas tenus de comparaître en personne aux débats.
 
 [^56g-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^56g-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56g-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### h. Jonction des procédures
 
@@ -967,7 +966,7 @@ La poursuite des contraventions prévues aux art. 56*a* à 56*e* se prescrit par
 
 <sup>1</sup> Les ouvrages indigènes déjà fabriqués au moment de l’entrée en vigueur de la présente loi, qui répondent aux dispositions précédemment en vigueur, mais non à celles de la présente loi, peuvent être présentés, dans le délai d’une année, à un bureau de contrôle pour être marqués d’un poinçon de transition. Ce poinçon autorise le détenteur à mettre les ouvrages en circulation encore pendant trois ans. Le Conseil fédéral édictera les dispositions de détail à ce sujet.
 
-<sup>2</sup> ...[^57-1]
+<sup>2</sup> …[^57-1]
 
 [^57-1]: Abrogé par le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, avec effet au 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -1013,10 +1012,10 @@ Les ouvrages fabriqués avant l’entrée en vigueur de la modification du 17 ju
 
 <sup>2</sup> Les essayeurs du commerce et les sociétés de groupe qui, à l’entrée en vigueur de la modification du 15 juin 2018, sont affiliés à un organisme d’autorégulation reconnu au sens de l’art. 24 LBA restent soumis à sa surveillance.
 
-[^u2-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u2-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^u2-3]: [RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)
-[^u2-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^u2-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^u2-4]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^u2-5]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## Dispositions finales de la modification du 19 mars 2021
 
@@ -1028,7 +1027,7 @@ Les ouvrages fabriqués avant l’entrée en vigueur de la modification du 17 ju
 
 <sup>2</sup> Les essayeurs du commerce et les sociétés de groupe qui, à l’entrée en vigueur de cette modification, sont soumis à l’obligation d’obtenir une autorisation en vertu de l’art. 42<sup>bis</sup> doivent, dans les trois mois suivant l’entrée en vigueur de cette modification, satisfaire aux exigences de la présente loi et demander une autorisation au bureau central. Ils remettent avec leur demande d’autorisation notamment les rapports d’audit des dernières années portant sur le respect des obligations définies au chap. 2 LBA[^u3-2]. Ils peuvent poursuivre leur activité jusqu’à ce qu’il soit statué sur l’autorisation.
 
-[^u3-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u3-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 Annexe 1[^t-2]
 
@@ -1036,7 +1035,7 @@ Annexe 1[^t-2]
 
 ## Couches de métaux précieux pour les ouvrages plaqués. Exigences minimales
 
-[^t-2]: Introduite par la LF du 17 juin 1994 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)). Mise à jour selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2217](https://fedlex.data.admin.ch/eli/oc/2010/315)).
+[^t-2]: Introduite par la LF du 17 juin 1994 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)). Mise à jour par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2217](https://fedlex.data.admin.ch/eli/oc/2010/315)).
 
 ### 1. Épaisseur
 

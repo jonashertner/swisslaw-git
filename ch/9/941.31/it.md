@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1933 sul controllo del commercio in metalli
 short: LCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230101/it/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230701/it/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230701-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/it"
 
 (Legge sul controllo dei metalli preziosi, LCMP)[^t-1]
 
-del 20 giugno 1933 (Stato 1° gennaio 2023)
+del 20 giugno 1933 (Stato 1° luglio 2023)
 
 [^t-1]: Nuovo testo giusta l’art. 75 n. 2 della LF del 28 ago. 1992 sulla protezione dei marchi e delle indicazioni di provenienza, in vigore dal 1° apr. 1993 ([RU 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 31<sup>bis</sup> capoverso 2, 31<sup>sexies</sup> e 34<sup>ter</sup> lettera g della Costituzione federale[^ingress-1];[^ingress-2]
+visti gli articoli 95 capoverso 1 e 97 capoverso 1 della Costituzione federale[^ingress-1];[^ingress-2]
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1981 1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244)]
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta il n. I 14 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Capo primo: Definizioni
 
@@ -324,7 +324,7 @@ Il Consiglio federale stabilisce le norme più particolareggiate circa la proced
 [^20-2]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-3]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-4]: Nuovo testo giusta l’all. n. 19 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^20-5]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 n. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644);[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249))
+[^20-5]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 n. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644);[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812))
 
 ### Esportazione
 
@@ -406,7 +406,7 @@ Solo il titolare di una patente di fonditore può fabbricare industrialmente pro
 <sup>3</sup> Le società commerciali o cooperative nonché le succursali svizzere di società straniere devono essere iscritte nel registro svizzero di commercio. Le persone incaricate dell’amministrazione e della gestione delle società e delle cooperative devono godere di buona reputazione e offrire la garanzia di un’attività commerciale ineccepibile.
 
 [^25-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^25-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^25-3]: Nuovo testo giusta il n. I 5 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
 ### b. Rilascio. Rinnovamento. Revoca
@@ -550,7 +550,7 @@ Ha in particolare i seguenti compiti:
 <sup>3</sup> L’Ufficio centrale riscuote emolumenti per la sua attività di sorveglianza del commercio dei metalli preziosi e dei lavori di metalli preziosi e una tassa di vigilanza per i costi delle attività di cui al capoverso 2 lettera e nonché all’articolo 42<sup>ter</sup> non coperti dagli emolumenti. La tassa di vigilanza per le attività di cui al capoverso 2 lettera e è riscossa come importo forfettario per un periodo di quattro anni. Per il calcolo della tassa annua di vigilanza per le attività di cui all’articolo 42<sup>ter</sup> sono determinanti la somma di bilancio e il reddito lordo. Il Consiglio federale disciplina nel dettaglio gli emolumenti e la tassa di vigilanza.
 
 [^36-1]: Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^36-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^36-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### Uffici di controllo
 
@@ -646,7 +646,7 @@ L’autorizzazione è rilasciata al saggiatore del commercio se:
 <sup>3</sup> La società che, a titolo professionale, commercia metalli preziosi bancari di un saggiatore del commercio appartenente allo stesso gruppo necessita parimenti di una tale autorizzazione. Le condizioni di cui al capoverso 2 devono essere soddisfatte.
 
 [^42bis-1]: Introdotto dall’all. n. II 11 della LF del 15 giu. 2018 sugli istituti finanziari ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^42bis-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^42bis-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Vigilanza sul commercio di metalli preziosi bancari
 
@@ -663,9 +663,9 @@ L’autorizzazione è rilasciata al saggiatore del commercio se:
 <sup>4</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^42ter-4] disciplina i dettagli della vigilanza e delle verifiche.
 
 [^42ter-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^42ter-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^42ter-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^42ter-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^42ter-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^42ter-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^42ter-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 
 ## Capo sesto: Ricorsi
 
@@ -675,16 +675,12 @@ L’autorizzazione è rilasciata al saggiatore del commercio se:
 
 <sup>1</sup> Le decisioni degli uffici di controllo e dei saggiatori del commercio possono essere impugnate con ricorso all’Ufficio centrale.
 
-<sup>2</sup> e <sup>3</sup> …[^43-2]
+<sup>2 e <sup>3</sup></sup> …[^43-2]
 
 [^43-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^43-2]: Abrogati dall’all. n. 135 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Capo settimo: Disposizioni penali
-
-[^chap7-1]
-
-[^chap7-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2‒6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 ### 1. Reati
 
@@ -692,18 +688,20 @@ L’autorizzazione è rilasciata al saggiatore del commercio se:
 
 #### Art. 44
 
-<sup>1</sup> Chiunque, usando una denominazione atta a trarre in inganno o vietata dalla legge, presenta alla marchiatura ufficiale o fabbrica, fa fabbricare o importa con l’intento di venderli, offre in vendita o vende come lavori di metalli preziosi oggetti che non possiedono il titolo prescritto o come lavori plurimetallici, lavori placcati o imitazioni, oggetti non conformi alle disposizioni della presente legge,
+<sup>1</sup>
 
-chiunque appone su lavori di metalli preziosi o su lavori plurimetallici un marchio indicante un titolo superiore a quello reale,
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque intenzionalmente:
 
-è punito, se ha agito intenzionalmente, con la detenzione o con la multa fino a 100 000 franchi.[^44-1]
+- a. usando una denominazione atta a trarre in inganno o vietata dalla legge, presenta alla marchiatura ufficiale o fabbrica, fa fabbricare o importa con l’intento di venderli, offre in vendita o vende come lavori di metalli preziosi oggetti che non possiedono il titolo prescritto o come lavori plurimetallici, lavori placcati o imitazioni, oggetti non conformi alle disposizioni della presente legge;
+- b. appone su lavori di metalli preziosi o su lavori plurimetallici un marchio indicante un titolo superiore a quello reale.[^44-1]
 
-<sup>2</sup> Se fa mestiere della frode, l’autore è punito con la detenzione di durata non inferiore a un mese.
+<sup>2</sup> Se fa mestiere della frode, l’autore è punito con una pena detentiva sino a tre anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^44-2]
 
-<sup>3</sup> Se ha agito per negligenza, è punito con la multa fino a 50 000 franchi.[^44-2] Gli sbagli scusabili in cui si incorresse nel processo di fabbricazione non saranno attribuiti a negligenza.
+<sup>3</sup> Se ha agito per negligenza, è punito con la multa fino a 50 000 franchi.[^44-3] Gli sbagli scusabili in cui si incorresse nel processo di fabbricazione non saranno attribuiti a negligenza.
 
-[^44-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^44-2]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^44-1]: Nuovo testo giusta il n. I 14 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^44-2]: Nuovo testo giusta il n. I 14 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^44-3]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
 ### b. Falsificazione e contraffazione di marchi
 
@@ -711,20 +709,21 @@ chiunque appone su lavori di metalli preziosi o su lavori plurimetallici un marc
 
 [^45-1]
 
-<sup>1</sup> Chiunque falsifica o contraffà marchi ufficiali svizzeri, esteri o internazionali o le loro impronte,
+<sup>1</sup>
 
-chiunque fa uso di tali marchi,
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque intenzionalmente:
 
-chiunque fabbrica, si procura o cede a terzi strumenti per falsificare o contraffare siffatti marchi,
-
-è punito, se ha agito intenzionalmente, con la detenzione o con la multa fino a 100 000 franchi.
+- a. falsifica o contraffà marchi ufficiali svizzeri, esteri o internazionali o le loro impronte;
+- b. fa uso di tali marchi;
+- c. fabbrica, si procura o cede a terzi strumenti per falsificare o contraffare siffatti marchi.[^45-2]
 
 <sup>2</sup> Se ha agito per negligenza, è punito con la multa fino a 50 000 franchi.
 
-<sup>3</sup> Non è applicabile l’articolo 246 del Codice penale[^45-2].
+<sup>3</sup> Non è applicabile l’articolo 246 del Codice penale[^45-3].
 
 [^45-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^45-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^45-2]: Nuovo testo giusta il n. I 14 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^45-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### c. Uso illecito di marchi
 
@@ -732,11 +731,12 @@ chiunque fabbrica, si procura o cede a terzi strumenti per falsificare o contraf
 
 [^46-1]
 
-<sup>1</sup> Chiunque fa uso illecito di marchi ufficiali svizzeri, esteri o internazionali è punito, se ha agito intenzionalmente, con la detenzione o con la multa fino a 100 000 franchi.
+<sup>1</sup> Chiunque fa uso illecito di marchi ufficiali svizzeri, esteri o internazionali è punito, se ha agito intenzionalmente, con una pena detentiva sino a tre anni o con una pena pecuniaria.[^46-2]
 
 <sup>2</sup> Se ha agito per negligenza, è punito con la multa fino a 50 000 franchi.
 
 [^46-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^46-2]: Nuovo testo giusta il n. I 14 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### d. Infrazione delle disposizioni sui marchi; impiego abusivo di marchi e impronte; modificazione di marchi
 
@@ -744,19 +744,19 @@ chiunque fabbrica, si procura o cede a terzi strumenti per falsificare o contraf
 
 [^47-1]
 
-<sup>1</sup> Chiunque mette in commercio lavori di metallo prezioso privi dell’indicazione del titolo e del marchio d’artefice prescritti, prodotti di fusione senza indicazione del titolo o non muniti del marchio di fonditore o di saggiatore o casse d’orologio senza marchiatura ufficiale,
+<sup>1</sup>
 
-chiunque qualifica come tali o mette in circolazione lavori plurimetallici o lavori placcati senza la designazione prescritta o non muniti del marchio d’artefice,
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque intenzionalmente:
 
-chiunque imita o utilizza abusivamente il marchio d’artefice o il marchio di fonditore o di saggiatore del titolare,
-
-chiunque mette in circolazione lavori di metalli preziosi o prodotti di fusione sui quali l’indicazione del titolo o l’impronta di un marchio ufficiale è stata modificata o eliminata,
-
-è punito, se ha agito intenzionalmente, con la detenzione o con la multa fino a 100 000 franchi.
+- a. mette in commercio lavori di metallo prezioso privi dell’indicazione del titolo e del marchio d’artefice prescritti, prodotti di fusione senza indicazione del titolo o non muniti del marchio di fonditore o di saggiatore o casse d’orologio senza marchiatura ufficiale;
+- b. qualifica come tali o mette in circolazione lavori plurimetallici o lavori placcati senza la designazione prescritta o non muniti del marchio d’artefice;
+- c. imita o utilizza abusivamente il marchio d’artefice o il marchio di fonditore o di saggiatore del titolare;
+- d. mette in circolazione lavori di metalli preziosi o prodotti di fusione sui quali l’indicazione del titolo o l’impronta di un marchio ufficiale è stata modificata o eliminata.[^47-2]
 
 <sup>2</sup> Se ha agito per negligenza, è punito con la multa fino a 50 000 franchi.
 
 [^47-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^47-2]: Nuovo testo giusta il n. I 14 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### e. Commercio senza patente o autorizzazione, inosservanza degli obblighi di diligenza e di documentazione nonché dell’obbligo di registrazione
 
@@ -806,26 +806,26 @@ In caso di reati commessi nell’azienda di una persona giuridica, di una societ
 
 <sup>2</sup> Nel caso di condanna per frode in applicazione dell’articolo 44, il giudice può ordinare la confisca dei lavori che hanno servito a commettere il reato. Questi saranno distrutti. L’eventuale ricavo della vendita del metallo è devoluto alla Confederazione, fatta salva l’applicazione della legge federale del 19 marzo 2004[^52-1] sulla ripartizione dei valori patrimoniali confiscati.[^52-2]
 
-[^52-1]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^52-1]: [RS 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 [^52-2]: Nuovo testo giusta l’all. n. 5 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
-### 4. Applicazione del Codice penale federale
+### 4. ...
 
 #### Art. 53
 
-Salvo disposizione contraria della presente legge, sono applicabili le disposizioni generali del Codice penale federale del 4 febbraio 1853[^53-1].
+[^53-1]
 
-[^53-1]: [RU **III** 355, **VI** 284 art. 5, **19** 250, **28** 127 art. 227 cpv. 1 n. 6; CS **3** 286 art. 342 cpv. 2 n. 3, **4** 777 art. 61, **7** 698 art. 69 n. 4, **7** 813 art. 48. [RU 54 799](https://fedlex.data.admin.ch/eli/oc/54/757_781_799)art. 398 cpv. 2 lett. *a*]. Ora: le disposizioni generali del CP (art. 334 CP – [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
+[^53-1]: Abrogato dal n. I 14 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, con effetto dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 5. Procedimento penale
 
 #### Art. 54
 
-<sup>1</sup> e <sup>2</sup> …[^54-1]
+<sup>1 e <sup>2</sup></sup> …[^54-1]
 
 <sup>3</sup> L’Ufficio centrale e gli uffici di controllo devono denunziare i reati da loro accertati all’autorità competente a perseguirli. …[^54-2]
 
-[^54-1]: Abrogati (342 cpv. 1 PP – CS **3** 286). Vedi ora il codice di procedura penale del 5 ott. 2007 ([RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^54-1]: Abrogati (342 cpv. 1 PP – CS **3** 286). Vedi ora il codice di procedura penale del 5 ott. 2007 ([RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)).
 [^54-2]: Per. abrogato dall’all. 1 n. II 32 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### 6. Inosservanza di prescrizioni d’ordine
@@ -851,15 +851,15 @@ Chiunque, intenzionalmente o per negligenza, disattende una norma della presente
 <sup>2</sup> Le infrazioni a tenore dell’articolo 55 sono perseguite e giudicate dall’Ufficio centrale, secondo le norme procedurali della legge federale sul diritto penale amministrativo. Gli uffici di controllo sono tenuti a denunciare all’Ufficio centrale qualsiasi inosservanza di prescrizioni d’ordine da loro accertata. Il medesimo obbligo incombe ai saggiatori del controllo e ai saggiatori del commercio.
 
 [^56-1]: Nuovo testo giusta l’all. n. 20 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^56-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
+### 7. Infrazioni nel commercio di metalli preziosi bancari
 
 ### a. Attività senza autorizzazione
 
 #### Art. 56a
 
 [^56a-1]
-
-<sup>7.</sup> Infrazioni nel commercio di metalli preziosi bancari
 
 <sup>1</sup> Chiunque, intenzionalmente, esercita senza autorizzazione un’attività di cui all’articolo 42<sup>bis</sup> capoverso 1 o 3, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
@@ -925,7 +925,7 @@ Si può prescindere dalla determinazione delle persone punibili e condannare in 
 - b. per le infrazioni alle disposizioni penali di cui agli articoli 56*a*–56*e* è prevista una multa massima di 50 000 franchi.
 
 [^56f-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^56f-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56f-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### g. Competenza
 
@@ -940,7 +940,7 @@ Si può prescindere dalla determinazione delle persone punibili e condannare in 
 <sup>3</sup> Il rappresentante del Ministero pubblico della Confederazione e il rappresentante del Dipartimento federale delle finanze non sono tenuti a comparire personalmente al dibattimento.
 
 [^56g-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^56g-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56g-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### h. Riunione del perseguimento penale
 
@@ -972,7 +972,7 @@ Il perseguimento delle contravvenzioni di cui agli articoli 56*a*–56*e* si pre
 
 <sup>1</sup> I lavori fabbricati in Isvizzera prima dell’entrata in vigore della presente legge, che soddisfano alle prescrizioni fino allora vigenti, ma non alle disposizioni di questa legge, potranno essere presentati, entro un anno, all’ufficio di controllo per farvi apporre un marchio provvisorio. Quest’ultimo autorizza il detentore a mettere i lavori in commercio ancora durante tre anni. Le norme più precise a questo proposito saranno stabilite dal Consiglio federale.
 
-<sup>2</sup> …[^57-1]
+<sup>2</sup> ...[^57-1]
 
 [^57-1]: Abrogato dal n. I 5 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, con effetto dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -1018,10 +1018,10 @@ Gli oggetti fabbricati prima dell’entrata in vigore della modificazione del 17
 
 <sup>2</sup> I saggiatori del commercio e le società del gruppo che all’entrata in vigore della modifica del 15 giugno 2018 sono affiliati a un organismo di autodisciplina riconosciuto conformemente all’articolo 24 LRD rimangono sottoposti alla sua vigilanza.
 
-[^u2-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u2-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^u2-3]: [RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)
-[^u2-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^u2-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^u2-4]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^u2-5]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## Disposizioni finali della modifica del 19 marzo 2021
 
@@ -1033,7 +1033,7 @@ Gli oggetti fabbricati prima dell’entrata in vigore della modificazione del 17
 
 <sup>2</sup> I saggiatori del commercio e le società del gruppo che all’entrata in vigore della presente modifica sono sottoposti all’obbligo di autorizzazione secondo l’articolo 42<sup>bis</sup> devono, entro tre mesi dall’entrata in vigore della presente modifica, adempiere i requisiti previsti dalla presente legge e presentare una domanda di autorizzazione all’Ufficio centrale. Unitamente alla domanda, devono inoltrare in particolare i rapporti di verifica degli ultimi anni concernenti l’osservanza degli obblighi di cui al capitolo 2 LRD[^u3-2]. Possono proseguire la loro attività fino alla decisione concernente l’autorizzazione.
 
-[^u3-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u3-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 Allegato 1[^t-2]
 

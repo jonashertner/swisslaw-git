@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 1933 on the Control of the Trade in Precious Meta
 short: PMCA
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: en
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230101/en/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230701/en/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230701-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.[^t-1]
 
-of 20 June 1933 (Status as of 1 January 2023)
+of 20 June 1933 (Status as of 1 July 2023)
 
 [^t-1]: Amended by Art. 75 No 2 of the Trademark Protection Act of 28 Aug. 1992, in force since 1 April 1993 ([AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [BBl 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Articles 31<sup>bis</sup> paragraph 2, 31<sup>sexies</sup> and 34<sup>ter</sup> letter g of the Federal Constitution[^ingress-1],[^ingress-2] and having examined the Federal Council Dispatch dated 8 June 1931[^ingress-3]
+based on Articles 95 paragraph 1 and 97 paragraph 1 of the Federal Constitution[^ingress-1],[^ingress-2] and having examined the Federal Council Dispatch dated 8 June 1931[^ingress-3]
 
 decrees:
 
-[^ingress-1]: [BS **1** 3; [AS 1981 1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244)]
-[^ingress-2]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Amended by No I 14 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1931 I 888](https://fedlex.data.admin.ch/eli/fga/1931/1_888__)A
 
 ## Section 1 Definitions
@@ -51,7 +51,7 @@ Melt material means:
 - b. waste products from the processing of precious metals or alloys thereof which are usable for reclaiming precious metal;
 - c. material containing precious metal which is usable for reclaiming precious metal.
 
-<sup>4</sup> Precious metal articles are articles wholly comprised of precious metals with a legal standard of fineness, or articles made of precious metals with a legal standard of fineness in combination with a non metallic material. This does not include coins made of precious metals.
+<sup>4</sup> Precious metal articles are articles wholly comprised of precious metals with a legal standard of fineness, or articles made of precious metals with a legal standard of fineness in combination with a non-metallic material. This does not include coins made of precious metals.
 
 <sup>5</sup> Multi-metal articles are articles made of a combination of precious metal with a legal standard of fineness and base metals.
 
@@ -327,7 +327,7 @@ The Federal Council shall regulate the details of the procedure to be followed b
 [^20-2]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-3]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-4]: Amended by Annex No 19 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^20-5]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 No III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)No I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)No III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)No I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 para.1]. See now: Customs Act of 18 March 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^20-5]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 No III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)No I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)No III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)No I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 para.1]. See now: Customs Act of 18 March 2005 ([SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 ### Export
 
@@ -339,7 +339,9 @@ The Federal Council shall regulate the details of the procedure to be followed b
 
 <sup>2</sup> However, domestic manufacturers may, of their own accord, provide such articles with marks that are customary or prescribed in the destination country.
 
-<sup>3</sup> The Federal Council shall determine the requirements to be observed and the symbols used that the Assay Offices are permitted to use to confirm a standard of fineness as prescribed by the destination country. The Federal Council may define relaxed provisions for watch-cases that are verifiably exported directly to countries which stipulate mandatory controlling of watch-cases.
+<sup>3</sup> The Federal Council shall determine the requirements to be observed and the symbols used that the Assay Offices are permitted to use to confirm a standard of fineness as prescribed by the destination country.
+
+<sup>4</sup> The Federal Council may define relaxed provisions for watch-cases that are verifiably exported directly to countries which stipulate mandatory controlling of watch-cases.
 
 [^21-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
@@ -407,7 +409,7 @@ Authorisation is required for the commercial manufacture of melt products.
 <sup>3</sup> Commercial enterprises and cooperatives as well as Swiss branches of foreign enterprises must be entered in the Swiss commercial register. The persons entrusted with the administration and business management of the enterprises companies and cooperatives must be of good standing and offer proof of irreproachable business operations.
 
 [^25-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^25-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^25-3]: Amended by No I 5 of the FA of 21 Dec. 2007 on the Abolition and Simplification of Licensing Procedures, in force since 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
 ### b. Granting. Renewal. Withdrawal
@@ -445,6 +447,8 @@ Authorisation is required for the commercial manufacture of melt products.
 [^29-1]
 
 [^29-1]: Repealed by No I of the FA of 17 June 1994, with effect from 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+
+### Manufacture of smelting products
 
 ### a. …
 
@@ -549,7 +553,7 @@ Specifically, its duties are to:
 <sup>3</sup> It shall collect fees for its supervisory activities concerning the trade in precious metals and precious metal articles, as well as a supervisory levy for the costs of the activities under paragraph 2 letter e and under Article 42<sup>ter</sup> that are not covered by the fees. The supervisory levy for the activities under paragraph 2 letter e shall be collected as a lump sum for a period of four years. The total assets and gross revenue shall be used as the basis for assessing the annual supervisory levy for activities under Article 42<sup>ter</sup>. The Federal Council shall regulate the details of the fees and the supervisory levy.
 
 [^36-1]: Amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^36-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^36-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### Assay Offices
 
@@ -646,7 +650,7 @@ The licence shall be granted to trade assayers if:
 <sup>3</sup> If a company trades commercially in banking precious metals of a trade assayer that belongs to its group of companies, it also requires a licence. The requirements under paragraph 2 must be met.
 
 [^42bis-1]: Inserted by Annex No II 11 of the Financial Institutions Act of 15 June 2018 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^42bis-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^42bis-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Supervision of trading in banking precious metals
 
@@ -663,9 +667,9 @@ The licence shall be granted to trade assayers if:
 <sup>4</sup> The Federal Office for Customs and Border Security[^42ter-4] shall regulate the details of the supervision and audits.
 
 [^42ter-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^42ter-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^42ter-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^42ter-4]: The name of this administrative unit was changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^42ter-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^42ter-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^42ter-4]: The name of this administrative unit was changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 
 ## Section 6 Appeals
 
@@ -675,16 +679,12 @@ The licence shall be granted to trade assayers if:
 
 <sup>1</sup> Orders issued by the Assay Offices and by trade assayers may be contested by way of appeal to the Central Office.
 
-<sup>2</sup> and <sup>3</sup> ...[^43-2]
+<sup>2 and <sup>3</sup></sup> ...[^43-2]
 
 [^43-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^43-2]: Repealed by Annex No 135 of the Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Section 7 Criminal Provisions
-
-[^chap7-1]
-
-[^chap7-1]: As of 1 Jan. 2007, the penalties and the prescriptive periods are to be interpreted and converted in accordance with Art. 333 para. 2 to 6 of the Swiss Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the version of the FA of 13 Dec. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 ### 1. Offences
 
@@ -700,16 +700,20 @@ The licence shall be granted to trade assayers if:
 
 #### Art. 44
 
-<sup>1</sup> Any person who submits articles for hallmarking or, for the purpose of sale, makes, commissions or imports, supplies or offers to supply articles under a mark that is liable to be misleading or that is prohibited under this Act, being articles that do not meet the prescribed standard of fineness as precious metal articles or articles not meeting the provisions of this Act, as multi-metal, plated or imitations, any person who stamps on precious metal articles or multi-metal articles a mark purporting to represent a higher fineness than actually exists,
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^44-1]
 
-shall, if acting with intent, be liable to a term of imprisonment or to a fine not exceeding CHF 100,000.[^44-1]
+Any person who wilfully:
 
-<sup>2</sup> If the offender acts professionally, he or she shall be liable to a term of imprisonment of at least one month.
+- a. submits articles for hallmarking or, for the purpose of sale, makes, commissions or imports, supplies or offers to supply articles under a mark that is liable to be misleading or that is prohibited under this Act, being articles that do not meet the prescribed standard of fineness as precious metal articles or articles not meeting the provisions of this Act, as multi-metal, plated or imitations; or
+- b. stamps a mark on precious metal articles or multi-metal articles purporting to represent a higher fineness than actually exists,
 
-<sup>3</sup> If the offender acts through negligence, he or she shall be liable to a fine not exceeding CHF 50,000.[^44-2] Excusable errors committed in the course of the manufacturing process are not classified as negligence.
+<sup>2</sup> If the offender acts professionally, he or she shall be liable to a custodial sentence not exceeding three years or to a monetary penalty of at least 30 daily penalty units.[^44-2]
 
-[^44-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^44-2]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+<sup>3</sup> If the offender acts through negligence, he or she shall be liable to a fine not exceeding CHF 50,000.[^44-3] Excusable errors committed in the course of the manufacturing process are not classified as negligence.
+
+[^44-1]: Amended by No I 14 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^44-2]: Amended by No I 14 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^44-3]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
 ### b. Counterfeiting and falsification of stamps
 
@@ -717,20 +721,21 @@ shall, if acting with intent, be liable to a term of imprisonment or to a fine n
 
 [^45-1]
 
-<sup>1</sup> Any person who counterfeits or falsifies Swiss, foreign or international stamps (hallmarks or symbols),
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^45-2]
 
-Any person who uses such marks,
+Any person who wilfully:
 
-Any person who produces, procures or supplies to third parties devices for counterfeiting or falsification of such marks,
-
-shall, if acting with intent, be liable to a term of imprisonment or to a fine not exceeding CHF 100,000.
+- a. counterfeits or falsifies Swiss, foreign or international stamps (hallmarks or symbols);
+- b. uses such marks; or
+- c. produces, procures or supplies to third parties devices for counterfeiting or falsification of such marks,
 
 <sup>2</sup> If the offender acts through negligence, he or she shall be liable to a fine not exceeding CHF 50,000.
 
-<sup>3</sup> Article 246 of the Swiss Criminal Code[^45-2] does not apply.
+<sup>3</sup> Article 246 of the Swiss Criminal Code[^45-3] does not apply.
 
 [^45-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^45-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^45-2]: Amended by No I 14 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^45-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### c. Improper use of stamps
 
@@ -738,11 +743,12 @@ shall, if acting with intent, be liable to a term of imprisonment or to a fine n
 
 [^46-1]
 
-<sup>1</sup> Any person who intentionally makes improper use of official Swiss, foreign or international stamps shall be liable to a term of imprisonment or to a fine not exceeding CHF 100,000.
+<sup>1</sup> Any person who wilfully makes improper use of official Swiss, foreign or international stamps shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^46-2]
 
 <sup>2</sup> If offender acts through negligence, he or she shall be liable to a fine not exceeding CHF 50,000.
 
 [^46-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^46-2]: Amended by No I 14 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### d. Stamp requirements, violation; Misuse of marks and symbols; Alteration of hallmarks
 
@@ -750,19 +756,19 @@ shall, if acting with intent, be liable to a term of imprisonment or to a fine n
 
 [^47-1]
 
-<sup>1</sup> Any person who places on the market precious metal articles without a fineness mark or without a responsibility mark, melt products without a fineness mark or without a melter’s or assayer’s mark, or watch-cases without a hallmark,
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^47-2]
 
-Any person who issues or places on the market articles as multi-metal articles or plated articles without the required mark or without a responsibility mark,
+Any person who wilfully:
 
-Any person who, without authorisation, imitates or uses a responsibility mark or a melter’s or assayer’s mark that is not their own,
-
-Any person who places on the market precious metal articles or melt products on which the fineness mark or the imprint of a hallmark has been altered or removed,
-
-shall, if acting with intent, be liable to a term of imprisonment or to a fine not exceeding CHF 100,000.
+- a. places on the market precious metal articles without a fineness mark or without a responsibility mark, melt products without a fineness mark or without a melter’s or assayer’s mark, or watch-cases without a hallmark,
+- b. issues or places on the market articles as multi-metal articles or plated articles without the required mark or without a responsibility mark,
+- c. without authorisation, imitates or uses a responsibility mark or a melter’s or assayer’s mark that is not their own,
+- d. places on the market precious metal articles or melt products on which the fineness mark or the imprint of a hallmark has been altered or removed,
 
 <sup>2</sup> If the offender acts through negligence, he or she shall be liable to a fine not exceeding CHF 50,000.
 
 [^47-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^47-2]: Amended by No I 14 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### e. Acts without a licence, failure to comply with the due diligence and documentation duties and the registration duty
 
@@ -818,26 +824,26 @@ If offences are committed in the course of business of a legal entity or of a ge
 
 <sup>2</sup> In the event of a conviction for fraud in terms of Article 44, the court may order the confiscation of the articles involved in the commission of the offence. The articles in question must be destroyed. Subject to the provisions of the Federal Act of 19 March 2004[^52-1] on the Division of Forfeited Assets, the proceeds from the sale of the metal shall be forfeited to the Confederation.[^52-2]
 
-[^52-1]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^52-1]: [SR 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 [^52-2]: Amended by Annex No 5 of the FA of 19 March 2004 on the Division of Forfeited Assets, in force since 1 Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
-### 4. Federal criminal law, application
+### 4. …
 
 #### Art. 53
 
-Unless otherwise stipulated in this Act, the general provisions of the Federal Act of 4 February 1853[^53-1] on Federal Criminal Law apply.
+[^53-1]
 
-[^53-1]: [AS **III** 404, **VI** 312 Art. 5, **19** 253, **28** 129 Art. 227 para.1 No 6; BS **3** 303 Art. 342 para. 2 No 3, **4** 766 Art. 61, **7** 754 Art. 69 No 4 867 Art. 48. SR **3** 203 Art. 398 para.2 let. a]. Today: the general provisions of the Swiss Criminal Code (Art. 334 SCC – [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
+[^53-1]: Repealed by No I 14 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, with effect from 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 5. Criminal proceedings
 
 #### Art. 54
 
-<sup>1</sup> and <sup>2</sup> ...[^54-1]
+<sup>1 and <sup>2</sup></sup> ...[^54-1]
 
 <sup>3</sup> The Central Office and the Assay Offices must report any offences that come to their attention to the competent prosecuting authority. …[^54-2]
 
-[^54-1]: Repealed (Art. 342 para. 1 Federal Criminal Justice Act – BS **3** 303; [BBl 1929 II 575](https://fedlex.data.admin.ch/eli/fga/1929/2_575_607_439)). Today: the Criminal Procedure Code of 5 Oct. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^54-1]: Repealed (Art. 342 para. 1 Federal Criminal Justice Act – BS **3** 303; [BBl 1929 II 575](https://fedlex.data.admin.ch/eli/fga/1929/2_575_607_439)). Today: the Criminal Procedure Code of 5 Oct. 2007 ([SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)).
 [^54-2]: Second sentence repealed by Annex 1 No II 32 of the Criminal Procedure Ordinance of 5 Oct. 2007, with effect from 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### 6. Administrative offences
@@ -863,15 +869,15 @@ Any person who, with intent or negligence, contravenes a provision of this Act o
 <sup>2</sup> Offences within the meaning of Article 55 shall be prosecuted and judged by the Central Office in accordance with the Federal Act of 22 March 1974 on Administrative Criminal Law. The Assay Offices are obliged to report to the Central Office any administrative offences that come to their attention. The sworn assayers and trade assayers are subject to the same obligation.
 
 [^56-1]: Amended by No 20 of the Annex to Administrative Criminal Law Act, in force since 1 Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^56-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
+### 7. Offences committed when trading in banking precious metals
 
 ### a. Activity without a licence
 
 #### Art. 56a
 
 [^56a-1]
-
-<sup>7.</sup> Offences committed when trading in banking precious metals
 
 <sup>1</sup> Any person who wilfully carries out an activity under Article 42<sup>bis</sup> paragraph 1 or 3 without a licence shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -937,7 +943,7 @@ The identification of the persons responsible may be dispensed with and the busi
 - b. a fine not exceeding CHF 50,000 is under consideration for the violations of the criminal provisions under Articles 56*a* to 56*e*.
 
 [^56f-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^56f-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56f-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### g. Jurisdiction
 
@@ -952,7 +958,7 @@ The identification of the persons responsible may be dispensed with and the busi
 <sup>3</sup> The representatives of the Office of the Attorney General of Switzerland and of the Federal Department of Finance are not required to appear in person at the main hearing.
 
 [^56g-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^56g-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56g-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### h. Unification of prosecution
 
@@ -982,7 +988,7 @@ The prosecution of contraventions under Articles 56*a* to 56*e* is subject to a 
 
 #### Art. 57
 
-<sup>1</sup> Domestic articles that are already manufactured at the time of this Act coming into force and which satisfy the previously applicable provisions but not the provisions of this Act may be submitted to an Assay Office within one year for the application of a transitional stamp. This transitional stamp shall entitles the owner of the article to sell it for a further three years. More precise provisions in this respect shall be drawn up by the Federal Council.
+<sup>1</sup> Domestic articles that are already manufactured at the time of this Act coming into force and which satisfy the previously applicable provisions but not the provisions of this Act may be submitted to an Assay Office within one year for the application of a transitional stamp. This transitional stamp shall entitle the owner of the article to sell it for a further three years. More precise provisions in this respect shall be drawn up by the Federal Council.
 
 <sup>2</sup> ...[^57-1]
 
@@ -1006,7 +1012,7 @@ The prosecution of contraventions under Articles 56*a* to 56*e* is subject to a 
 
 <sup>1</sup> The Federal Council shall determine the date of commencement of this Act.
 
-<sup>2</sup> It shall issues the regulations required for the execution hereof.
+<sup>2</sup> It shall issue the regulations required for the execution hereof.
 
 Commencement date: 1 July 1934[^59-1]
 
@@ -1030,10 +1036,10 @@ Articles that were manufactured before the commencement of the Amendment of 17 J
 
 <sup>2</sup> Trade assayers and group companies that, at the time of entry into force of the amendment of 15 June 2018, are affiliated to a recognised self-regulatory organisation in accordance with Article 24 of the AMLA shall remain subject to its supervision.
 
-[^u2-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u2-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^u2-3]: [AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)
-[^u2-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^u2-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^u2-4]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^u2-5]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## Final provisions to the amendment of 19 March 2021
 
@@ -1045,7 +1051,7 @@ Articles that were manufactured before the commencement of the Amendment of 17 J
 
 <sup>2</sup> Trade assayers and group companies that are newly subject to a licence requirement in accordance with Article 42<sup>bis</sup> when this amendment enters into force must comply with the requirements of this Act and submit a licence application to the Central Office within three months of this amendment coming into force. Together with their application, they must in particular submit the last few years' audit reports on compliance with the duties under Chapter 2 of the AMLA[^u3-2]. They may continue their activity until a decision has been made concerning the licence
 
-[^u3-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u3-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 Annex 1[^t-2]
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 1933 über die Kontrolle des Verkehrs mit Edel
 short: EMKG
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230101/de/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230701/de/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/de"
 
 (Edelmetallkontrollgesetz, EMKG)[^t-1]
 
-vom 20. Juni 1933 (Stand am 1. Januar 2023)
+vom 20. Juni 1933 (Stand am 1. Juli 2023)
 
 [^t-1]: Fassung gemäss Art. 75 Ziff. 2 des Markenschutzgesetzes vom 28. Aug. 1992, in Kraft seit 1. April 1993 ([AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [BBl 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 31<sup>bis</sup> Absatz 2, 31<sup>sexies</sup> und 34<sup>ter</sup> Buchstabe g der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 8. Juni 1931[^ingress-3]
+gestützt auf die Artikel 95 Absatz 1 und 97 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 8. Juni 1931[^ingress-3]
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1981 1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244)]
-[^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Fassung gemäss Ziff. I 14 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1931 I 888](https://fedlex.data.admin.ch/eli/fga/1931/1_888__)
 
 ## Erster Abschnitt: Begriffsbestimmungen
@@ -327,7 +327,7 @@ Der Bundesrat regelt im einzelnen das durch die Kontrollämter zu beobachtende V
 [^20-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-4]: Fassung gemäss Anhang Ziff. 19 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^20-5]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^20-5]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 ### Ausfuhr
 
@@ -409,7 +409,7 @@ Zur gewerbsmässigen Herstellung von Schmelzprodukten bedarf es einer Schmelzbew
 <sup>3</sup> Die Handelsgesellschaften und Genossenschaften sowie die schweizerischen Zweigniederlassungen ausländischer Gesellschaften müssen im schweizerischen Handelsregister eingetragen sein. Die mit der Verwaltung und Geschäftsführung der Gesellschaften und Genossenschaften betrauten Personen müssen einen guten Ruf geniessen und Gewähr für eine einwandfreie Geschäftstätigkeit bieten.
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^25-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^25-3]: Fassung gemäss Ziff. I 5 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
 ### b. Erteilung. Erneuerung. Entzug
@@ -553,7 +553,7 @@ Ihm obliegen insbesondere:
 <sup>3</sup> Es erhebt Gebühren für seine Überwachungstätigkeit über den Verkehr mit Edelmetallen und Edelmetallwaren sowie eine Aufsichtsabgabe für die Kosten der Tätigkeiten nach Absatz 2 Buchstabe e sowie nach Artikel 42<sup>ter</sup>, die durch die Gebühren nicht gedeckt sind. Die Aufsichtsabgabe für die Tätigkeiten nach Absatz 2 Buchstabe e wird als Pauschalbetrag für einen Zeitraum von vier Jahren erhoben. Für die Bemessung der jährlichen Aufsichtsabgabe für Tätigkeiten nach Artikel 42<sup>ter</sup> sind die Bilanzsumme und der Bruttoertrag massgebend. Der Bundesrat regelt die Gebühren und die Aufsichtsabgabe im Einzelnen.
 
 [^36-1]: Fassung gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^36-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^36-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### Kontrollämter
 
@@ -650,7 +650,7 @@ Die Bewilligung wird dem Handelsprüfer erteilt, wenn:
 <sup>3</sup> Handelt eine Gesellschaft gewerbsmässig mit Bankedelmetallen eines Handelsprüfers, zu dessen Gesellschaftsgruppe sie gehört, so bedarf sie ebenfalls einer solchen Bewilligung. Die Voraussetzungen nach Absatz 2 müssen erfüllt werden.
 
 [^42bis-1]: Eingefügt durch Anhang Ziff. II 11 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Fassung gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^42bis-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^42bis-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Aufsicht über den Handel mit Bankedelmetallen
 
@@ -667,9 +667,9 @@ Die Bewilligung wird dem Handelsprüfer erteilt, wenn:
 <sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit[^42ter-4] regelt die Einzelheiten der Aufsicht und der Prüfungen.
 
 [^42ter-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^42ter-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^42ter-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^42ter-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
+[^42ter-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^42ter-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^42ter-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) angepasst.
 
 ## Sechster Abschnitt: Beschwerden
 
@@ -679,16 +679,12 @@ Die Bewilligung wird dem Handelsprüfer erteilt, wenn:
 
 <sup>1</sup> Verfügungen der Kontrollämter und der Handelsprüfer können mit Beschwerde an das Zentralamt angefochten werden.
 
-<sup>2</sup> und <sup>3</sup> …[^43-2]
+<sup>2 und <sup>3</sup></sup> …[^43-2]
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^43-2]: Aufgehoben durch Anhang Ziff. 135 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Siebenter Abschnitt: Strafbestimmungen
-
-[^chap7-1]
-
-[^chap7-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
 
 ### 1. Widerhandlungen
 
@@ -704,18 +700,20 @@ Die Bewilligung wird dem Handelsprüfer erteilt, wenn:
 
 #### Art. 44
 
-<sup>1</sup> Wer unter einer zur Täuschung geeigneten oder durch dieses Gesetz verbotenen Bezeichnung Waren, die den vorgeschriebenen Feingehalt nicht besitzen, als Edelmetallwaren oder Waren, die den Vorschriften dieses Gesetzes nicht entsprechen, als Mehrmetall-, Plaqué- oder Ersatzwaren zur Punzierung vorweist oder zum Zwecke der Veräusserung anfertigt, anfertigen lässt oder einführt, feilbietet oder verkauft,
+<sup>1</sup>
 
-wer Edelmetallwaren oder Mehrmetallwaren mit einer Stempelung versieht, die auf einen höheren Feingehalt als den wirklich vorhandenen schliessen lässt,
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
 
-wird, wenn er vorsätzlich handelt, mit Gefängnis oder mit Busse bis zu 100 000 Franken bestraft.[^44-1]
+- a. unter einer zur Täuschung geeigneten oder durch dieses Gesetz verbotenen Bezeichnung Waren, die den vorgeschriebenen Feingehalt nicht besitzen, als Edelmetallwaren oder Waren, die den Vorschriften dieses Gesetzes nicht entsprechen, als Mehrmetall-, Plaqué- oder Ersatzwaren zur Punzierung vorweist oder zum Zwecke der Veräusserung anfertigt, anfertigen lässt oder einführt, feilbietet oder verkauft;
+- b. Edelmetallwaren oder Mehrmetallwaren mit einer Stempelung versieht, die auf einen höheren Feingehalt als den wirklich vorhandenen schliessen lässt.[^44-1]
 
-<sup>2</sup> Handelt der Täter gewerbsmässig, so ist auf Gefängnis nicht unter einem Monat zu erkennen.
+<sup>2</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen.[^44-2]
 
-<sup>3</sup> Handelt der Täter fahrlässig, so wird er mit Busse bis zu 50 000 Franken bestraft.[^44-2] Entschuldbare Irrtümer, die im Herstellungsprozess unterlaufen, gelten nicht als Fahrlässigkeit.
+<sup>3</sup> Handelt der Täter fahrlässig, so wird er mit Busse bis zu 50 000 Franken bestraft.[^44-3] Entschuldbare Irrtümer, die im Herstellungsprozess unterlaufen, gelten nicht als Fahrlässigkeit.
 
-[^44-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^44-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^44-1]: Fassung gemäss Ziff. I 14 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^44-2]: Fassung gemäss Ziff. I 14 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^44-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
 ### b. Fälschung und Verfälschung von Stempeln
 
@@ -723,16 +721,21 @@ wird, wenn er vorsätzlich handelt, mit Gefängnis oder mit Busse bis zu 100 000
 
 [^45-1]
 
-<sup>1</sup> Wer amtliche schweizerische, ausländische oder internationale Stempel (Punzen oder Stempelzeichen fälscht oder verfälscht, wer solche Zeichen verwendet, wer Geräte zum Fälschen oder Verfälschen solcher Zeichen anfertigt, sich verschafft oder an Dritte abgibt,
+<sup>1</sup>
 
-wird, wenn er vorsätzlich handelt, mit Gefängnis oder mit Busse bis zu 100 000 Franken bestraft.
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
+
+- a. amtliche schweizerische, ausländische oder internationale Stempel, Punzen oder Stempelzeichen fälscht oder verfälscht;
+- b. solche Zeichen verwendet;
+- c. Geräte zum Fälschen oder Verfälschen solcher Zeichen anfertigt, sich verschafft oder an Dritte abgibt.[^45-2]
 
 <sup>2</sup> Handelt der Täter fahrlässig, so wird er mit Busse bis zu 50 000 Franken bestraft.
 
-<sup>3</sup> Artikel 246 des Strafgesetzbuches[^45-2] ist nicht anwendbar.
+<sup>3</sup> Artikel 246 des Strafgesetzbuches[^45-3] ist nicht anwendbar.
 
 [^45-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
-[^45-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^45-2]: Fassung gemäss Ziff. I 14 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^45-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### c. Missbrauch von Stempeln
 
@@ -740,11 +743,12 @@ wird, wenn er vorsätzlich handelt, mit Gefängnis oder mit Busse bis zu 100 000
 
 [^46-1]
 
-<sup>1</sup> Wer vorsätzlich amtliche schweizerische, ausländische oder internationale Stempel unrechtmässig gebraucht, wird mit Gefängnis oder mit Busse bis zu 100 000 Franken bestraft.
+<sup>1</sup> Wer vorsätzlich amtliche schweizerische, ausländische oder internationale Stempel unrechtmässig gebraucht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^46-2]
 
 <sup>2</sup> Handelt der Täter fahrlässig, so wird er mit Busse bis zu 50 000 Franken bestraft.
 
 [^46-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^46-2]: Fassung gemäss Ziff. I 14 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### d. Stempelvorschriften, Verletzung; Missbrauch von Marken und Zeichen; Veränderung von Punzen
 
@@ -752,19 +756,19 @@ wird, wenn er vorsätzlich handelt, mit Gefängnis oder mit Busse bis zu 100 000
 
 [^47-1]
 
-<sup>1</sup> Wer Edelmetallwaren ohne Angabe des Feingehaltes oder ohne Verantwortlichkeitsmarke, Schmelzprodukte ohne Angabe des Feingehaltes oder ohne Schmelzer- oder Prüferzeichen oder Uhrgehäuse ohne Punzierung in Verkehr bringt,
+<sup>1</sup>
 
-wer Waren als Mehrmetallwaren oder Plaquéwaren ohne die vorgesehene Bezeichnung oder ohne Verantwortlichkeitsmarke ausgibt oder in Verkehr bringt,
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
 
-wer unberechtigterweise die Verantwortlichkeitsmarke oder das Schmelzer- oder Prüferzeichen eines anderen nachahmt oder verwendet,
-
-wer Edelmetallwaren oder Schmelzprodukte in Verkehr bringt, auf denen die Feingehaltsangabe oder der Abdruck eines amtlichen Stempels verändert oder entfernt worden ist,
-
-wird, wenn er vorsätzlich handelt, mit Gefängnis oder mit Busse bis zu 100 000 Franken bestraft.
+- a. Edelmetallwaren ohne Angabe des Feingehaltes oder ohne Verantwortlichkeitsmarke, Schmelzprodukte ohne Angabe des Feingehaltes oder ohne Schmelzer- oder Prüferzeichen oder Uhrgehäuse ohne Punzierung in Verkehr bringt;
+- b. Waren als Mehrmetallwaren oder Plaquéwaren ohne die vorgesehene Bezeichnung oder ohne Verantwortlichkeitsmarke ausgibt oder in Verkehr bringt;
+- c. unberechtigterweise die Verantwortlichkeitsmarke oder das Schmelzer- oder Prüferzeichen eines anderen nachahmt oder verwendet;
+- d. Edelmetallwaren oder Schmelzprodukte in Verkehr bringt, auf denen die Feingehaltsangabe oder der Abdruck eines amtlichen Stempels verändert oder entfernt worden ist.[^47-2]
 
 <sup>2</sup> Handelt der Täter fahrlässig, so wird er mit Busse bis zu 50 000 Franken bestraft.
 
 [^47-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
+[^47-2]: Fassung gemäss Ziff. I 14 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### e. Handlungen ohne Bewilligung, Nichteinhaltung der Sorgfalts- und Dokumentationspflichten sowie der Registrierungspflicht
 
@@ -820,26 +824,26 @@ Werden Widerhandlungen im Geschäftsbetrieb einer juristischen Person, einer Kol
 
 <sup>2</sup> Im Falle der Verurteilung wegen Täuschung nach Artikel 44 kann das Gericht die Einziehung der Waren verfügen, welche zur Begehung der Widerhandlung dienten. Die Waren sind zu zerstören. Der Erlös aus dem Verkauf des Metalls verfällt unter Vorbehalt des Bundesgesetzes vom 19. März 2004[^52-1] über die Teilung eingezogener Vermögenswerte dem Bund.[^52-2]
 
-[^52-1]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^52-1]: [SR 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 [^52-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, in Kraft seit 1. Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
-### 4. Bundesstrafrecht, Anwendung
+### 4. …
 
 #### Art. 53
 
-Soweit das vorliegende Gesetz keine abweichenden Vorschriften aufstellt, finden die allgemeinen Bestimmungen des Bundesgesetzes vom 4. Februar 1853[^53-1] über das Bundesstrafrecht Anwendung.
+[^53-1]
 
-[^53-1]: [AS **III** 404; **VI** 312 Art. 5; **19** 253; **28** 129 Art. 227 Abs. 1 Ziff. 6; BS **3** 303 Art. 342 Abs. 2 Ziff. 3; **4** 766 Art. 61; **7** 754 Art. 69 Ziff. 4, 867 Art. 48. SR **3** 203 Art. 398 Abs. 2 Bst. a]. Heute: die allgemeinen Bestimmungen des StGB (Art. 334 StGB – [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
+[^53-1]: Aufgehoben durch Ziff. I 14 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, mit Wirkung seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 5. Strafverfahren
 
 #### Art. 54
 
-<sup>1</sup> und <sup>2</sup> …[^54-1]
+<sup>1 und <sup>2</sup></sup> …[^54-1]
 
 <sup>3</sup> Das Zentralamt und die Kontrollämter haben die von ihnen wahrgenommenen Widerhandlungen der zuständigen Strafverfolgungsbehörde anzuzeigen. …[^54-2]
 
-[^54-1]: Aufgehoben (Art. 342 Abs. 1 BStP – BS **3** 303; [BBl 1929 II 575](https://fedlex.data.admin.ch/eli/fga/1929/2_575_607_439)). Siehe heute : die Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^54-1]: Aufgehoben (Art. 342 Abs. 1 BStP – BS **3** 303; [BBl 1929 II 575](https://fedlex.data.admin.ch/eli/fga/1929/2_575_607_439)). Siehe heute : die Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)).
 [^54-2]: Zweiter Satz aufgehoben durch Anhang 1 Ziff. II 32 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### 6. Ordnungswidrigkeiten
@@ -865,7 +869,7 @@ Wer vorsätzlich oder fahrlässig einer Vorschrift dieses Gesetzes oder einer Au
 <sup>2</sup> Die Widerhandlungen im Sinne von Artikel 55 werden nach den Verfahrensvorschriften des Verwaltungsstrafrechtsgesetzes vom 22. März 1974 vom Zentralamt verfolgt und beurteilt. Die Kontrollämter sind verpflichtet, die von ihnen wahrgenommenen Ordnungswidrigkeiten dem Zentralamt anzuzeigen. Die nämliche Verpflichtung obliegt den beeidigten Edelmetallprüfern und Handelsprüfern.
 
 [^56-1]: Fassung gemäss Ziff. 20 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^56-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 7. Widerhandlungen im Handel mit Bankedelmetallen
 
@@ -939,7 +943,7 @@ Von der Ermittlung der strafbaren Personen kann Umgang genommen und an ihrer Ste
 - b. für die Widerhandlungen gegen die Strafbestimmungen nach den Artikeln 56*a*–56*e* eine Busse von höchstens 50 000 Franken in Betracht fällt.
 
 [^56f-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^56f-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56f-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### g. Zuständigkeit
 
@@ -954,7 +958,7 @@ Von der Ermittlung der strafbaren Personen kann Umgang genommen und an ihrer Ste
 <sup>3</sup> Die Vertreterin oder der Vertreter der Bundesanwaltschaft und des Eidgenössischen Finanzdepartements müssen zur Hauptverhandlung nicht persönlich erscheinen.
 
 [^56g-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^56g-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^56g-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### h. Vereinigung der Strafverfolgung
 
@@ -1032,10 +1036,10 @@ Waren, die vor Inkrafttreten der Änderung vom 17. Juni 1994 hergestellt wurden 
 
 <sup>2</sup> Handelsprüfer und Gruppengesellschaften, die bei Inkrafttreten der Änderung vom 15. Juni 2018 einer anerkannten Selbstregulierungsorganisation gemäss Artikel 24 GwG angeschlossen sind, bleiben deren Aufsicht unterstellt.
 
-[^u2-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u2-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^u2-3]: [AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)
-[^u2-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^u2-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^u2-4]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^u2-5]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## Schlussbestimmungen zur Änderung vom 19. März 2021
 
@@ -1047,7 +1051,7 @@ Waren, die vor Inkrafttreten der Änderung vom 17. Juni 1994 hergestellt wurden 
 
 <sup>2</sup> Handelsprüfer und Gruppengesellschaften, die bei Inkrafttreten dieser Änderung neu einer Bewilligungspflicht nach Artikel 42<sup>bis</sup> unterstehen, müssen innerhalb von drei Monaten ab Inkrafttreten dieser Änderung den Anforderungen dieses Gesetzes genügen und ein Bewilligungsgesuch beim Zentralamt stellen. Mit ihrem Gesuch müssen sie insbesondere die Prüfberichte der letzten Jahre über die Einhaltung der Pflichten nach dem 2. Kapitel des GwG[^u3-2] einreichen. Sie können ihre Tätigkeit bis zum Entscheid über die Bewilligung fortführen.
 
-[^u3-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^u3-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 Anhang 1[^t-2]
 
