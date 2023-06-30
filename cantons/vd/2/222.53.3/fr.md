@@ -4,13 +4,13 @@ number: "222.53.3"
 title: "ARRÊTÉ du 27.07.1994 établissant un contrat-type de vignolage pour les districts de Nyon, de Morges et de l'Ouest lausannois (ACTT-vamnr)"
 short: ACTT-vamnr
 language: fr
-version: 1994-11-01
+version: 2023-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/222.53.3?id=75330379-1052-4191-9b86-1a0f8e208a35"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ établissant un contrat-type de vignolage pour les districts d'Aubonne, Morges, Nyon et Rolle
+# ARRÊTÉ établissant un contrat-type de vignolage pour les districts de Nyon, de Morges et de l'Ouest lausannois
 
 (ACTT-vamnr)
 
@@ -34,7 +34,9 @@ arrête
 
 **Champ d'application [^t-1]**
 
-<sup>1</sup> Le présent contrat-type de vignolage régit les relations entre les propriétaires et les vignerons-tâcherons pour les vignes situées dans les districts d'Aubonne, Morges, Nyon et Rolle.
+<sup>1</sup> Le présent contrat-type de vignolage régit les relations entre les propriétaires et les vignerons-tâcherons pour les vignes situées dans les districts de Nyon, de Morges et de l'Ouest lausannois.
+
+<sup>2</sup> Les autres ayants-droits sur des vignes, notamment à titre de locataire, de fermier ou d'usufruitier, sont assimilés aux propriétaires de vignes au sein du présent contrat-type, lequel régit donc leurs relations avec les vignerons-tâcherons dans les districts susmentionnés.
 
 [^t-1]: Modif. 1 du 14.06.2023: Modification Al. 1; entrée en vigueur au 01.07.2023; Introduction Al. 2; entrée en vigueur au 01.07.2023
 
