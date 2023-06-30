@@ -3,20 +3,19 @@ canton: SO
 number: "212.432"
 title: Verordnung über die Veröffentlichung des Erwerbs von Grundeigentum
 language: de
-version: 2005-01-01
-valid_until: 2023-06-30
-version_adopted: 2004-12-14
+version: 2023-07-01
+version_adopted: 2023-05-02
 adopted: 1995-04-25
 in_force: 1995-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/212.432"
-pdf: "https://bgs.so.ch/api/de/versions/3378/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5384/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Veröffentlichung des Erwerbs von Grundeigentum
 
-Vom 25.04.1995 (Stand 01.01.2005)
+Vom 25.04.1995 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -72,7 +71,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Grundbuchinspektor erstellt Mustervorlagen und sorgt für eine einheitliche Anwendung dieser Verordnung im ganzen Kanton.
+<sup>1</sup> Der Amtschreiberei-Inspektor erstellt Mustervorlagen und sorgt für eine einheitliche Anwendung dieser Verordnung im ganzen Kanton.
 
 #### § 5
 
