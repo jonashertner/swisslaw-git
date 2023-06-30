@@ -4,11 +4,9 @@ number: "812.1"
 title: Heilmittelverordnung (HMV)
 short: HMV
 language: de
-version: "2021-10-01"
-nachtrag: "114"
-valid_until: 2023-07-01
+nachtrag: "125"
 adopted: 2023-01-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-812_1-2008_05_21-2008_07_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-812_1-2023_01_25-2023_07_01-125.html"
 text: pdf
 ---
 
@@ -16,486 +14,467 @@ text: pdf
 
 # Heilmittelverordnung (HMV)
 
-(vom 21. Mai 2008)[^t-1]
+(vom 25. Januar 2023)[^t-1],[^t-2]
 
 Der Regierungsrat,
 
-gestützt auf das Heilmittelgesetz vom 15. Dezember 2000 (HMG)[^t-2], das Betäubungsmittelgesetz vom 3. Oktober 1951 (BetmG)[^t-3], das Medizinalberufegesetz vom 23. Juni 2006 (MedBG)[^t-4] und das Gesundheitsgesetz vom 2. April 2007 (GesG)[^t-5],
+gestützt auf § 45 des Gesundheitsgesetzes vom 2. April 2007 (GesG)[^t-3], Art. 30 Abs. 3 und 34 Abs. 4 des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (HMG)[^t-4], Art. 29 d Abs. 1 und 2 des Bundesgesetzes vom 3. Oktober 1951 über die Betäubungsmittel und die psychotropen Stoffe (BetmG)[^t-5], Art. 8 Abs. 5 der Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelbereich (AMBV)[^t-6] und Art. 52 Abs. 3 der Verordnung vom 21. September 2018 über die Arzneimittel (VAM)[^t-7],
 
 beschliesst:
 
-[^t-1]: OS 63, 228; Begründung siehe ABl 2008, 821.
-[^t-2]: SR 812.21.
-[^t-3]: SR 812.121.
-[^t-4]: SR 811.11.
-[^t-5]: LS 810.1.
+[^t-1]: OS 78, 245; Begründung siehe ABl 2023-02-10.
+[^t-2]: Inkrafttreten: 1. Juli 2023.
+[^t-3]: LS 810.1.
+[^t-4]: SR 812.21.
+[^t-5]: SR 812.121.
+[^t-6]: SR 812.212.1.
+[^t-7]: SR 812.212.21.
 
-### 1. Abschnitt: Einleitung
+### A. Gegenstand und Geltungsbereich
 
 #### § 1
 
-**Gegenstand und Geltungsbereich**
+<sup>1</sup> Diese Verordnung regelt den Vollzug des Heilmittel- und Betäubungsmittelrechts, soweit der Kanton dafür zuständig ist.
 
-<sup>1</sup> Diese Verordnung regelt:
+<sup>2</sup> Sie gilt auch für Tierarzneimittel, unter Vorbehalt abweichender Bestimmungen der Verordnung vom 18. August 2004 über die Tierarzneimittel (TAMV)[^1-1].
 
-- a. den Umgang mit Heilmitteln (Arzneimittel und Medizinprodukte), insbesondere die Herstellung, die Abgabe, die Verschreibung (Rezepte) sowie die Lagerung,
+[^1-1]: SR 812.212.27.
 
-- b. die Führung und den Betrieb von Apotheken, Drogerien und anderen Detailhandelsgeschäften im Sinne von Art. 30 HMG[^1-1],
-
-- c. den Vollzug des Betäubungsmittelrechts, soweit er dem Kanton obliegt,
-
-- d. die Aufgaben und die Organisation der Kantonalen Ethikkommission.
-
-<sup>2</sup> Diese Verordnung gilt auch für Tierarzneimittel, vorbehältlich abweichender Bestimmungen der Tierarzneimittelverordnung vom 18. August 2004 (TAMV)[^1-2].
-
-[^1-1]: SR 812.21.
-[^1-2]: SR 812.212.27.
-
-### 2. Abschnitt: Heilmittel
-
-### A. Arzneimittel
-
-[^hAArzneimittel-1]: SR 812.212.1.
-[^hAArzneimittel-2]: SR 812.212.21.
+### B. Herstellung, Meldung und Vermittlung von Arzneimitteln
 
 #### § 2
 
-**Bewilligung zur Herstellung**
+**Kantonale Herstellungsbewilligung**
 
-Die Kantonale Heilmittelkontrolle bewilligt die Herstellung von Arzneimitteln im Sinne von Art. 6 der Arzneimittel-Bewilligungsverordnung vom 17. Oktober 2001[^hAArzneimittel-1] und im Sinne von Art. 2 Abs. 2 der Arzneimittelverordnung vom 17. Oktober 2001 (VAM)[^hAArzneimittel-2], wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass a. die mit der Herstellung betrauten Personen die fachlichen Voraussetzungen erfüllen,
-
-**1**
-
-1.10. 21 - 114 b. ein Qualitätssicherungssystem vorhanden ist, das der Art und dem Umfang der Herstellertätigkeit entspricht.
+Für eine kantonale Herstellungsbewilligung gemäss Art. 8 Abs. 3 AMBV gelten Art. 3 Abs. 1 Bst. a und c–f und Abs. 2, Art. 4, Art. 5 Abs. 1–5 und 7 sowie Art. 6 Abs. 1 Bst. a AMBV sinngemäss.
 
 #### § 3
 
-**Bewilligung zur Lagerung von Blut und Blutprodukten**
+**Meldung von Arzneimitteln**
 
-<sup>1</sup> Die Kantonale Heilmittelkontrolle bewilligt die Lagerung von Blut und Blutprodukten, wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass a. die für die Lagerung verantwortliche Person über die notwendige Sachkenntnis und Erfahrung verfügt,
+<sup>1</sup> Wer gemäss Art. 9 Abs. 2 Bst. c HMG für die eigene Kundschaft bestimmte Arzneimittel herstellt, meldet diese mit den für eine Überprüfung notwendigen Unterlagen der Kantonalen Heilmittelkontrolle, bevor die Arzneimittel in den Verkehr gebracht werden.
 
-- b. ein Qualitätssicherungssystem vorhanden ist, das den sachgemässen Umgang mit Blut und Blutprodukten sicherstellt.
+<sup>2</sup> Die Meldebestätigung der Kantonalen Heilmittelkontrolle berechtigt zum Inverkehrbringen des Arzneimittels während zehn Jahren. Anschliessend ist eine erneute Meldung erforderlich.
 
-<sup>2</sup> Die Bewilligung wird befristet auf längstens fünf Jahre erteilt.
+<sup>3</sup> Die Kantonale Heilmittelkontrolle führt ein Verzeichnis der Meldungen.
 
-#### § 4
+**1**
 
-**Meldung von Arzneimitteln nach eigener Formel in kleinen Mengen**
+- 1\. 7. 24 - 125 § 4. Wer Arzneimittel an Endkundinnen und Endkunden vermittelt, benötigt eine Abgabebewilligung.
 
-<sup>1</sup> Apotheken und Drogerien melden der Kantonalen Heilmittelkontrolle nach eigener Formel in kleinen Mengen hergestellte Arzneimittel mit den dafür verwendeten Anpreisungen (Packungstexten, Gebrauchsanweisungen usw.), bevor sie die Arzneimittel in den Verkehr bringen. Eine Meldung berechtigt zum Inverkehrbringen während zehn Jahren.
+**Vermittlung von Arzneimitteln**
 
-<sup>2</sup> Die Kantonale Heilmittelkontrolle führt ein Verzeichnis der Meldungen. Sie löscht eine Meldung nach zehn Jahren aus dem Verzeichnis. Soll das Arzneimittel über diesen Zeitpunkt hinaus in Verkehr gebracht werden, ist eine erneute Meldung erforderlich.
-
-[^4-1]: SR 812.212.21.
+### C. Verschreibung von Heilmitteln
 
 #### § 5
 
-**Berechtigung zur Anwendung**
+**Gültigkeitsdauer**
 
-Personen gemäss Art. 27a Abs. 2 lit. a, b, d und e VAM[^4-1] sind berechtigt, die in ihrem Beruf notwendigen Arzneimittel anzuwenden.
+Wenn nichts anderes verordnet ist oder sich aus den Umständen ergibt, sind Verschreibungen für Heilmittel ein Jahr, solche für Dauermedikationen zwei Jahre gültig.
 
-[^5-1]: SR 812.211.
-[^5-2]: SR 812.214.11.
-[^5-3]: SR 812.212.21.
+[^5-1]: SR 812.121.1.
 
 #### § 6
 
-**Beschriftung der Arzneimittel**
+**Betäubungsmittel und psychotrope Substanzen**
 
-<sup>1</sup> Zusätzlich zu den in der Pharmakopöe[^5-1],[^5-2] vorgeschriebenen Kennzeichnungen sind a. Arzneimittel der Abgabekategorien A und B im Sinne der VAM[^5-3] so zu kennzeichnen, dass die Abgabestelle identifizierbar ist, und b. Arzneimittel nach Formula magistralis mit dem Namen der Patientin oder des Patienten sowie dem Datum der Abgabe zu bezeichnen.
+<sup>1</sup> Verschreibungen für Betäubungsmittel und psychotrope Stoffe werden gemäss Art. 45–50 der Verordnung vom 25. Mai 2011 über die Betäubungsmittelkontrolle (BetmKV)[^5-1] ausgestellt.
 
-<sup>2</sup> Weitere Kennzeichnungen sind vorzunehmen, wenn das Rezept es anordnet.
+<sup>2</sup> Die Rezeptformulare für die Verschreibung von Betäubungsmitteln können gegen Entgelt bei der Kantonalen Heilmittelkontrolle bezogen werden.
 
-### B. Betäubungsmittel
+### D. Abgabe von Heilmitteln
 
 #### § 7
 
-**Behandlung Betäubungsmittelabhängiger**
+**Abgabestellen für Arzneimittel**
 
-<sup>1</sup> Der Kantonsärztliche Dienst kann Ärztinnen, Ärzten, ambulanten ärztlichen Institutionen und Polikliniken allgemein oder im Einzelfall bewilligen, im Rahmen einer ärztlichen Behandlung betäubungsmittelabhängigen Personen Betäubungsmittel zu verschreiben, abzugeben und zu verabreichen.
+Zulässige Abgabestellen für Arzneimittel sind:
 
-<sup>2</sup> Die Gesundheitsdirektion erlässt Richtlinien über die Behandlung betäubungsmittelabhängiger Personen mit Betäubungsmitteln.
+- a. öffentliche Apotheken gemäss Art. 4 Abs. 1 Bst. i HMG,
 
-<sup>3</sup> Der Kantonsärztliche Dienst kann Ärztinnen, Ärzte, ambulante ärztliche Institutionen und Polikliniken sowie Patientinnen und Patienten, die wiederholt oder schwer gegen die Richtlinien verstossen haben, von der weiteren Behandlung mit Betäubungsmitteln ausschliessen.
+- b. ärztliche, zahnärztliche oder tierärztliche Privatapotheken, in denen Arzneimittel in Selbstdispensation gemäss Art. 4 Abs. 1 Bst. k HMG abgegeben werden,
+
+- c. komplementärmedizinische Privatapotheken, in denen Arzneimittel gestützt auf Art. 49 VAM abgegeben werden,
+
+- d. Spitalapotheken gemäss Art. 4 Abs. 1 Bst. j HMG, e.[^7-1] . . .
+
+- f. Heimapotheken in Alters- und Pflegeheimen zur Versorgung der Bewohnerinnen und Bewohner mit Arzneimitteln,
+
+- g. Drogerien,
+
+- h. Tierspitalapotheken als Einrichtung in einem universitären tierärztlichen Praxisbetrieb, die pharmazeutische Dienstleistungen für die zu behandelnden Tiere anbietet,
+
+- i. Zoo- und Imkerfachgeschäfte gemäss Art. 9 Abs. 1 und 2 TAMV.
+
+[^7-1]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 14. März 2024 (AN. 2023.00001).
 
 #### § 8
 
-**Verzeichnis und wissenschaftliche Auswertung**
+**Versorgungsauftrag**
 
-<sup>1</sup> Die Ärztinnen, Ärzte, ambulanten ärztlichen Institutionen und Polikliniken melden dem Kantonsärztlichen Dienst Beginn und Ende der Behandlung betäubungsmittelabhängiger Personen mit Betäubungsmitteln sowie die Personalien der zu Behandelnden. Der Kantonsärztliche Dienst führt ein Verzeichnis der Meldungen. Sofern medizinische Gründe es erfordern, kann er anderen Ärztinnen und Ärzten daraus Auskunft erteilen.
+<sup>1</sup> Öffentliche Apotheken gewährleisten die umfassende, unmittelbare und fachgerechte Versorgung der Bevölkerung mit Arzneimitteln.
 
-<sup>2</sup> Verlauf und Ergebnisse der Behandlung betäubungsmittelabhängiger Personen mit Betäubungsmitteln sind wissenschaftlich zu prüfen. Die Ärztinnen, Ärzte, ambulanten ärztlichen Institutionen und Polikliniken melden der von der Gesundheitsdirektion beauftragten Auswertungsstelle die benötigten Daten anonymisiert.
+<sup>2</sup> Ausserhalb der Öffnungszeiten der Apotheke ist in gut sichtbarer Weise anzugeben, wo im Notfall Arzneimittel bezogen werden können.
 
 #### § 9
 
-**Lagerung**
+**Bewilligung zur Abgabe von Arzneimitteln a. Bewilligungspflicht**
 
-Betäubungsmittel müssen in diebstahlsicheren Schränken aufbewahrt werden. Die Kantonale Heilmittelkontrolle kann im Einzelfall weiter gehende Sicherheitsvorkehrungen verlangen, wenn Betäubungsmittel in grossen Mengen gelagert werden.
+<sup>1</sup> Wer Arzneimittel abgibt, benötigt eine Bewilligung gemäss Art. 30 Abs. 1 HMG.
 
-### C. Rezepte
+<sup>2</sup> Werden in einem Heim Arzneimittel lediglich für Bewohnerinnen und Bewohner einzeln verwaltet oder auf Verschreibung hin beschafft, ist keine Bewilligung erforderlich. § 10 Abs. 4 gilt sinngemäss. Die Bewilligungspflicht gemäss Art. 14 Abs. 1 BetmG bleibt vorbehalten.
 
 #### § 10
 
-**Verschreibung von Heilmitteln**
+**b. Voraussetzungen**
 
-<sup>1</sup> Rezepte für Arzneimittel und Medizinprodukte werden nach den Vorschriften der Pharmakopöe ausgestellt und sind gültig, wenn sie enthalten:
+<sup>1</sup> Die Abgabebewilligung setzt neben den in Art. 30 Abs. 2 HMG genannten Voraussetzungen voraus, dass a. die Gesuchstellerin oder der Gesuchsteller gegenüber der Bewilligungsbehörde eine für die fachliche Leitung der Abgabestelle verantwortliche Person bezeichnet,
 
-- a. den Namen der ausstellenden Person und deren Praxisadresse je in Druckschrift,
+- b. Gewähr für die einwandfreie Abgabe der Arzneimittel besteht.
 
-- b. die eigenhändige Unterschrift der ausstellenden Person, wobei die qualifizierte elektronische Signatur im Sinne von Art. 14 Abs. 2<sup>bis</sup> OR[^10-1] der eigenhändigen Unterschrift gleichgestellt ist,
+<sup>2</sup> Die Person mit fachlicher Leitung muss über eine Bewilligung zur Ausübung des Apothekerberufs in eigener fachlicher Verantwortung verfügen. Bei folgenden Abgabestellen kann die Person mit fachlicher Leitung stattdessen über eine Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung eines nachfolgend genannten Berufs verfügen:
 
-- c. den Namen und den Jahrgang der Patientin oder des Patienten,
+- a. ärztliche Privatapotheke: Ärztin oder Arzt,
 
-- d. das Datum der Ausstellung,
+- b. zahnärztliche Privatapotheke: Zahnärztin oder Zahnarzt,
 
-- e. Art und Menge des abzugebenden Heilmittels.
+- c. Heimapotheke: Ärztin oder Arzt,
 
-<sup>2</sup> Rezepte für Arzneimittel und Medizinprodukte sind, wenn nichts anderes verordnet ist oder sich aus den Umständen ergibt, längstens ein Jahr, Dauerrezepte längstens zwei Jahre gültig.
+- d. Drogerie: Drogistin oder Drogist,
+
+- e. tierärztliche Privatapotheke oder Tierspitalapotheke: Tierärztin oder Tierarzt.
+
+<sup>3</sup> In folgenden Abgabestellen kann die fachliche Leitung von folgenden Personen übernommen werden:
+
+- a. komplementärmedizinische Privatapotheke: Fachleute der Komplementärmedizin mit eidgenössischem Diplom,
+
+- b. Zoo- und Imkerfachgeschäft: Person mit Ausbildung gemäss Art. 9 Abs. 1 und 2 TAMV.
+
+<sup>4</sup> Wird bei einer Heimapotheke die fachliche Leitung von einer Ärztin oder einem Arzt wahrgenommen, ist regelmässig eine Person mit eidgenössischem oder anerkanntem ausländischem Apothekerdiplom konsiliarisch beizuziehen.
 
 **3**
 
-1.10. 21 - 114
+- 1\. 7. 24 - 125 § 11. Abgabebewilligungen werden erteilt:
 
-<sup>3</sup> Rezepte für Betäubungsmittel werden nach den Vorschriften der Pharmakopöe und Art. 43 der Betäubungsmittelverordnung vom 29. Mai 1996[^10-2] ausgestellt und sind gültig, wenn sie auf den von der Kantonalen Heilmittelkontrolle abgegebenen nummerierten Rezeptformularen ausgestellt werden.
+**c. Bewilligungsbehörde**
 
-[^10-1]: SR 220.
-[^10-2]: SR 812.121.1.
-[^10-3]: SR 832.10.
+- a. vom Veterinäramt für die Arzneimittelabgabe in tierärztlichen Privatapotheken, Tierspitalapotheken und Zoo- und Imkerfachgeschäften,
 
-#### § 11
-
-**Ausführung von Rezepten**
-
-<sup>1</sup> Rezepte sind nach den Vorschriften der rezeptausstellenden Person auszuführen. Bei Unstimmigkeiten im Rezept nimmt die Abgabestelle mit der rezeptausstellenden Person Kontakt auf. Bei der Substitution gilt Art. 52 a des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^10-3] auch im überobligatorischen Bereich.
-
-<sup>2</sup> Bei auffälligen Rezepten überzeugt sich die Abgabestelle, dass das Rezept von einer berechtigten Person ausgestellt wurde.
-
-<sup>3</sup> Auf Rezepten für verschreibungspflichtige Heilmittel sind bei jeder Abgabe der Name der Apotheke und das Datum der Abgabe zu vermerken.
-
-[^11-1]: SR 812.21.
+- b. von der Kantonalen Heilmittelkontrolle für die Arzneimittelabgabe in allen übrigen Abgabestellen.
 
 #### § 12
 
-**Fehlendes Rezept**
+**Ort der Abgabe von Arzneimitteln**
 
-Wer ein Arzneimittel der Abgabekategorien A und B ohne Rezept im Sinne von Art. 24 Abs. 1 lit. a HMG[^11-1] abgibt, protokolliert dies unter Angabe des Grundes.
+<sup>1</sup> In der Bewilligung wird festgelegt, in welcher Abgabestelle Arzneimittel abgegeben werden dürfen. In Notfällen dürfen sie auch andernorts abgegeben werden.
+
+<sup>2</sup> Verfügt eine Ärztin oder ein Arzt, eine Zahnärztin oder ein Zahnarzt oder eine Tierärztin oder ein Tierarzt über eine Bewilligung zur Führung einer Privatapotheke, darf sie oder er Arzneimittel auch bei Hausbesuchen oder Tierarzneimittel auch bei Tierbestandsbesuchen abgeben.
+
+<sup>3</sup> Inhaberinnen und Inhabern einer Abgabebewilligung kann im Einzelfall zusätzlich bewilligt werden, Arzneimittel an weiteren Orten ausserhalb der Abgabestellen gemäss Abs. 1 abzugeben.
 
 #### § 13
 
-**Rückgabe und Zurückbehaltung der Rezepte**
+**Arzneimittelarten pro Abgabestelle**
 
-<sup>1</sup> Rezepte sind der überbringenden Person auf deren Verlangen zurückzugeben.
+In den Abgabestellen dürfen folgende Arzneimittel abgegeben werden:
 
-<sup>2</sup> Auffällige oder missbräuchlich verwendete Rezepte sind der Kantonalen Heilmittelkontrolle, wenn es sich um Rezepte für Tierarzneimittel handelt, dem Veterinäramt, zuzustellen.
+- a. in öffentlichen Apotheken: sämtliche Arzneimittel,
+
+- b. in ärztlichen Privatapotheken, Spitalapotheken, . . .[^13-1] sowie Heimapotheken: die in der Humanmedizin gebräuchlichen Arzneimittel für die dort behandelten Patientinnen und Patienten,
+
+- c. in zahnärztlichen Privatapotheken: die in der Zahnmedizin gebräuchlichen Arzneimittel für die dort behandelten Patientinnen und Patienten,
+
+- d. in komplementärmedizinischen Privatapotheken: die von Swissmedic entsprechend bezeichneten, nicht verschreibungspflichtigen Arzneimittel für die komplementärmedizinisch behandelten Patientinnen und Patienten,
+
+- e. in Drogerien: Arzneimittel der Abgabekategorien D und E gemäss Art. 43 und 44 VAM,
+
+- f. in tierärztlichen Privatapotheken und Tierspitalapotheken: die in der Veterinärmedizin gebräuchlichen Arzneimittel für die dort behandelten Tiere,
+
+- g. in Zoo- und Imkerfachgeschäften: Arzneimittel für die in Art. 9 TAMV genannten Tiere.
+
+[^13-1]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 14. März 2024 (AN. 2023.00001).
 
 #### § 14
 
-**Rezeptbuchführung**
+**Vorgang der Abgabe von Arzneimitteln a. abgebende Person**
 
-<sup>1</sup> Wer Arzneimittel nach Formula magistralis abgibt, macht darüber fortlaufend in übersichtlicher Weise Aufzeichnungen. Diese enthalten die Angaben gemäss § 10 Abs. 1 lit. a und c bis e sowie das Datum der Abgabe, das vorgeschriebene Verfallsdatum und gegebenenfalls die im Rezept angegebene Gebrauchsanweisung.
+Die Arzneimittelabgabe kann erfolgen durch a. Personen, die über eine Bewilligung, ein Diplom oder eine Ausbildung gemäss § 10 Abs. 2 und 3 verfügen, wie sie für die Person mit fachlicher Leitung der betreffenden Abgabestelle vorausgesetzt wird,
 
-<sup>2</sup> Die Gesundheitsdirektion kann die Rezeptbuchpflicht für weitere Heilmittel einführen.
-
-### 3. Abschnitt: Detailhandelsgeschäfte
-
-### A. Allgemeine Bestimmungen
+- b. andere Fachpersonen mit entsprechender Ausbildung, wenn sie unter Aufsicht und in Verantwortung einer Person gemäss lit. a tätig sind.
 
 #### § 15
 
-**Detailhandelsbewilligung**
+**b. Abgabeverbot**
 
-<sup>1</sup> Wer Arzneimittel der Abgabekategorien A bis D abgibt, benötigt eine Detailhandelsbewilligung der Kantonalen Heilmittelkontrolle, wenn es sich um Tierarzneimittel handelt, des Veterinäramtes.
+Arzneimittel dürfen nicht an Personen abgegeben werden, von denen die in der Abgabestelle tätigen Personen wissen oder annehmen müssen, dass sie die Arzneimittel missbräuchlich verwenden.
 
-<sup>2</sup> Institutionen im Sinne von § 35 GesG[^15-1] wird die Detailhandelsbewilligung bei Vorliegen der Voraussetzungen auf entsprechendes Gesuch hin entweder auf die Institution oder auf die fachlich verantwortliche Person im Sinne von § 36 Abs. 1 lit. d GesG[^15-1] ausgestellt.
-
-[^15-1]: LS 810.1.
-[^15-2]: SR 812.21.
+[^15-1]: SR 832.10. 1. 7. 24 - 125 11
 
 #### § 16
 
-**Qualitätssicherung**
+**c. Ausführung von Verschreibungen**
 
-Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG[^15-2] unterhält ein geeignetes Qualitätssicherungssystem, das der Art, der Bedeutung und dem Umfang der durchzuführenden Arbeiten und der zu erbringenden Dienstleistungen angemessen ist.
+<sup>1</sup> Verschreibungen von Arzneimitteln sind nach den Vorgaben der verschreibenden Person auszuführen. Art. 52 a des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung[^15-1] betreffend Ersatz von Originalpräparaten durch Generika gilt auch im überobligatorischen Bereich.
+
+<sup>2</sup> Zweifelt die abgebende Person an der Echtheit oder medizinischen Zweckmässigkeit der Verschreibung, nimmt sie mit der verschreibenden Person Kontakt auf.
 
 #### § 17
 
-**Räumlichkeiten und Einrichtungen**
+**d. Rückgabe von Verschreibungen**
 
-<sup>1</sup> Detailhandelsgeschäfte sind so einzurichten, dass Arzneimittel der Abgabekategorien A bis D Fremdpersonen nicht zugänglich sind.
+<sup>1</sup> Die abgebende Person gibt der Person, die das Arzneimittel bezieht, auf deren Ersuchen die Verschreibung zurück oder händigt ihr eine Kopie aus.
 
-<sup>2</sup> Hinsichtlich Hygiene gelten Art. 7, 10, 11, 15 und 21 der Hygieneverordnung des EDI vom 23. November 2005[^17-1] sinngemäss.
+<sup>2</sup> Sie vermerkt auf dem Original oder der Kopie die Bezeichnung der Apotheke, das Datum der Abgabe sowie die abgegebene Packungsmenge mit Angabe zur Wirkstoffmenge pro Einheit und Dosierung.
 
-<sup>3</sup> Die Detailhandelsgeschäfte können der Kantonalen Heilmittelkontrolle die Pläne zur vorgängigen Prüfung vorlegen. Handelt es sich um Geschäfte, die Tierarzneimittel abgeben, ist das Veterinäramt zuständig. Die Prüfung ist gebührenpflichtig.
+<sup>3</sup> Bei auffälligen Verschreibungen oder bei Verdacht auf missbräuchliche Verwendung ist die Verschreibung der Kantonalen Heilmittelkontrolle oder, wenn es sich um Verschreibungen für Tierarzneimittel handelt, dem Veterinäramt zuzustellen.
 
-[^17-1]: SR 817.024.1.
+[^17-1]: SR 812.212.22.
 
 #### § 18
 
-**Abgabebeschränkungen und Vermittlung**
+**e. Kennzeichnungs- und Dokumentationspflicht**
 
-<sup>1</sup> Arzneimittel der Abgabekategorien A bis D dürfen nicht in Selbstbedienung angeboten werden.
+<sup>1</sup> Auf den Behältern oder dem Packungsmaterial von zugelassenen und verwendungsfertigen verschreibungspflichtigen Arzneimitteln sind zusätzlich zu den Angaben und Texten gemäss Art. 12 der Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die Anforderungen an die Zulassung von Arzneimitteln[^17-1] anzugeben:
 
-<sup>2</sup> Arzneimittel der Abgabekategorien A bis D dürfen nur im Rahmen von Haus- und von Bestandesbesuchen und im Notfall ausserhalb der ständigen Geschäftsräume abgegeben werden. Die Kantonale Heilmittelkontrolle, bei Tierarzneimitteln das Veterinäramt, können die Abgabe an Messen und Ausstellungen bewilligen.
+- a. die Abgabestelle,
 
-<sup>3</sup> Es ist verboten, Arzneimittel an Personen abzugeben, von denen die abgebende Person weiss oder annehmen muss, dass sie sie missbräuchlich verwenden.
-
-<sup>4</sup> Die Vermittlung von Arzneimitteln ist nur zulässig, wenn die Vermittelnden selbst befugt sind, die betreffenden Arzneimittel an die bestellende Person abzugeben.
-
-#### § 19
-
-**Lagerung**
-
-<sup>1</sup> Detailhandelsgeschäfte bewahren Arzneimittel der Abgabekategorien A bis D getrennt von anderen Waren auf.
-
-<sup>2</sup> Detailhandelsgeschäfte lagern keine Heilmittel, zu deren Abgabe oder Verarbeitung sie nicht befugt sind. Ausgenommen sind Rücknahmen von Heilmitteln zur fachgerechten Entsorgung.
+- b. weitere Angaben gemäss Vorgaben der verschreibenden Person.
 
 **5**
 
-1.10. 21 - 114 § 20. Die Kantonale Heilmittelkontrolle kann über Detailhandelsgeschäfte, die nicht bereits im Medizinalberuferegister im Sinne von Art. 51 MedBG[^19-1] enthalten sind, ein Verzeichnis mit folgenden Angaben veröffentlichen:
+- 1\. 7. 24 - 125
 
-**Verzeichnis**
+<sup>2</sup> Auf den Behältern oder dem Packungsmaterial von nach Formula magistralis hergestellten Arzneimitteln sind neben den Angaben gemäss Pharmakopöe, die das Schweizerische Heilmittelinstitut in Anwendung von Art. 52 Abs. 1 HMG erlassen hat, und den Vorgaben gemäss Art. 39 VAM anzubringen:
 
-- a. Name und Adresse des Detailhandelsgeschäfts,
+- a. Name der Patientin oder des Patienten,
 
-- b. fachlich verantwortliche Person,
+- b. Datum der Abgabe.
 
-- c. bewilligte Tätigkeiten.
+<sup>3</sup> Wer Arzneimittel nach Formula magistralis abgibt, macht darüber fortlaufend in übersichtlicher Weise Aufzeichnungen.
 
-[^19-1]: SR 811.11.
+<sup>4</sup> Die Gesundheitsdirektion kann die Kennzeichnungs- und Dokumentationspflicht für weitere Arzneimittel einführen.
 
-#### § 21
+#### § 19
 
-**Aufbewahrung von Rechnungen**
+**f. Aufbewahrung von Belegen**
 
-Rechnungen, die Heilmittel betreffen, müssen zwei Jahre im Detailhandelsgeschäft aufbewahrt werden. Die einzelnen Rechnungspositionen müssen vollständig ersichtlich sein.
+<sup>1</sup> Belege, welche die Lieferung von Arzneimitteln betreffen, müssen mindestens zwei Jahre in der Abgabestelle aufbewahrt und können bei Inspektionen überprüft werden. Die einzelnen Positionen müssen vollständig ersichtlich sein. Vorbehalten bleiben längere Aufbewahrungsfristen gemäss Bundesrecht und kantonalem Recht.
+
+<sup>2</sup> Werden die Belege ausschliesslich in elektronischer Form aufbewahrt, müssen sie datiert und unveränderbar gespeichert werden.
+
+<sup>3</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass die Belege während der Aufbewahrungsfrist auch bei einer Geschäftsaufgabe unter Wahrung des Berufsgeheimnisses jederzeit zugänglich oder abrufbar sind.
+
+#### § 20
+
+**Zugänglichkeit und Aufbewahrung**
+
+<sup>1</sup> Arzneimittel, ausgenommen solche der Abgabekategorie E gemäss Art. 44 VAM, dürfen nicht in Selbstbedienung angeboten werden. Sie dürfen nur dem in der Abgabestelle tätigen Personal zugänglich sein.
+
+<sup>2</sup> Die Aufbewahrung von Betäubungsmitteln und psychotropen Substanzen richtet sich nach Art. 54 BetmKV. Die Kantonale Heilmittelkontrolle und das Veterinäramt können im Einzelfall weitergehende Sicherheitsvorkehrungen verlangen.
+
+<sup>3</sup> Abgabestellen dürfen keine Arzneimittel lagern, zu deren Abgabe oder Verarbeitung sie nicht befugt sind. Ausgenommen sind Rücknahmen von Arzneimitteln zur fachgerechten Entsorgung.
+
+<sup>4</sup> Für den Umgang mit Arzneimitteln gelten Art. 6, 9, 10, 14, 20 und 21 der Verordnung des EDI vom 16. Dezember 2016 über die Hygiene beim Umgang mit Lebensmitteln[^20-1] sinngemäss.
+
+<sup>5</sup> Abgabestellen können der Kantonalen Heilmittelkontrolle bei Neu- oder Umbauten die Pläne der Räumlichkeiten zur vorgängigen Prüfung vorlegen. Handelt es sich um Betriebe, die Tierarzneimittel abgeben, ist das Veterinäramt zuständig.
+
+**Abgabe von Medizinprodukten**
+
+§ 21. §§ 8, 16, 17, 18 Abs. 4, 19 und 20 Abs. 4 und 5 gelten sinngemäss auch für Medizinprodukte.
+
+[^20-1]: SR 817.024.1.
+
+### E. Anwendung von Arzneimitteln
+
+[^hEAnwendungvonArz-1]: SR 811.11.
+[^hEAnwendungvonArz-2]: LS 811.11.
 
 #### § 22
 
-**Aufzeichnungen**
+**Berechtigung zur Anwendung**
 
-<sup>1</sup> Sämtliche nach dieser Verordnung geforderten Aufzeichnungen können auch ausschliesslich in elektronischer Form erfolgen. Wird eine solche Form gewählt, müssen die Eintragungen datiert, unabänderbar gespeichert und jederzeit abrufbar sein.
+<sup>1</sup> Die Anwendung von Arzneimitteln durch Angehörige der universitären Medizinalberufe gemäss Bundesgesetz vom 23. Juni 2006 über die universitären Medizinalberufe[^hEAnwendungvonArz-1] richtet sich nach den Bestimmungen der kantonalen Verordnung über die universitären Medizinalberufe vom 28. Mai 2008[^hEAnwendungvonArz-2].
 
-<sup>2</sup> Falls nicht anders bestimmt, sind die Aufzeichnungen zehn Jahre aufzubewahren. Bei Geschäftsaufgabe ist dafür zu sorgen, dass die Aufzeichnungen unter Wahrung des Berufsgeheimnisses zugänglich bleiben.
+<sup>2</sup> Die Kantonale Heilmittelkontrolle bestimmt die verschreibungspflichtigen Arzneimittel, die Fachpersonen gemäss Art. 52 Abs. 2 VAM anwenden dürfen.
 
-### B. Apotheken
+### F. Besondere Bestimmungen für Blut und Blutprodukte
 
 #### § 23
 
-**Zweck und Arten**
+**Bewilligung zur Lagerung von Blut und Blutprodukten**
 
-<sup>1</sup> Apotheken dienen der umfassenden, unmittelbaren und fachgerechten Heilmittelversorgung der Bevölkerung.
+<sup>1</sup> Die Kantonale Heilmittelkontrolle bewilligt die Lagerung von Blut und Blutprodukten gemäss Art. 34 Abs. 4 HMG, wenn a. die für die Lagerung verantwortliche Person über die notwendige Sachkenntnis und Erfahrung verfügt,
 
-<sup>2</sup> Es werden folgende Arten von Apotheken unterschieden:
+- b. ein Qualitätssicherungssystem vorhanden ist, das den sachgemässen Umgang mit Blut und Blutprodukten sicherstellt.
 
-- a. öffentliche Apotheken, die für die Bevölkerung frei zugänglich sind,
+<sup>2</sup> § 14 GesG gilt sinngemäss.
 
-- b. Privatapotheken, die Ärztinnen und Ärzten, Zahnärztinnen und Zahnärzten bzw. Tierärztinnen und Tierärzten dazu dienen, die bei ihnen in Behandlung stehenden Patientinnen und Patienten bzw. Tiere mit Heilmitteln zu versorgen,
+### G. Behandlung abhängiger Personen mit Betäubungsmitteln
 
-- c. Spitalapotheken bzw. Tierspitalapotheken, die dazu dienen, im Spital stationär oder ambulant behandelte Patientinnen und Patienten bzw. Tiere mit Heilmitteln zu versorgen,
-
-- d. Heimapotheken, die dazu dienen, Bewohnerinnen und Bewohner von Alters- und Pflegeheimen mit Heilmitteln zu versorgen.
-
-#### § 24
-
-**Öffentliche Apotheken**
-
-<sup>1</sup> Öffentliche Apotheken führen ein Sortiment mit den gebräuchlichen Arzneimitteln.
-
-<sup>2</sup> An geschlossenen öffentlichen Apotheken ist in gut sichtbarer Weise anzugeben, wo im Notfall Heilmittel bezogen werden können.
-
-#### § 25
-
-**Privatapotheken a. Bewilligung für Ärztinnen und Ärzte**
-
-<sup>1</sup> Ärztinnen und Ärzte, die eine Privatapotheke führen wollen, benötigen eine Detailhandelsbewilligung der Kantonalen Heilmittelkontrolle. Die Bewilligung wird auf Gesuch hin praxisberechtigten Personen, ambulanten ärztlichen Institutionen und Polikliniken erteilt.
-
-<sup>2</sup> . . .[^25-1]
-
-**b. Bewilligung für Zahnärztinnen und Zahnärzte**
-
-§ 26. Wer eine zahnärztliche Privatapotheke führen will, benötigt eine Detailhandelsbewilligung der Kantonalen Heilmittelkontrolle. Die Bewilligung wird auf Gesuch hin praxisberechtigten Zahnärztinnen und Zahnärzten sowie Polikliniken erteilt und ermächtigt sie, die in der Zahnheilkunde gebräuchlichen Arzneimittel abzugeben.
-
-[^25-1]: Aufgehoben durch RRB vom 5. Oktober 2011 (OS 66, 883; ABl 2011, 2950). In Kraft seit 1. Mai 2012 (OS 67, 235; ABl 2012, 1152).
-[^25-2]: SR 812.212.27.
-
-#### § 27
-
-**c. Bewilligung für Tierärztinnen und Tierärzte**
-
-Wer eine tierärztliche Privatapotheke führen will, benötigt eine Detailhandelsbewilligung des Veterinäramtes. Die Bewilligung wird auf Gesuch hin praxisberechtigten Tierärztinnen und Tierärzten sowie tierärztlichen Gesundheitsdiensten erteilt und ermächtigt sie, Arzneimittel nach den Bestimmungen der Tierarzneimittelverordnung[^25-2] abzugeben.
-
-#### § 28
-
-**d. Umgang mit Arzneimitteln**
-
-Arzneimittel sind unter der Aufsicht und Verantwortung von Ärztinnen, Ärzten, Zahnärztinnen, Zahnärzten, Tierärztinnen oder Tierärzten abzugeben.
-
-#### § 29
-
-**Spital-, Heim- und Tierspitalapotheken**
-
-<sup>1</sup> Wer eine Spital- oder Heimapotheke führen will, benötigt eine Detailhandelsbewilligung der Kantonalen Heilmittelkontrolle. Werden lediglich Arzneimittel für bestimmte Patientinnen und Patienten verwaltet oder auf ärztliches Rezept hin beschafft, ist keine Bewilligung erforderlich.
-
-<sup>2</sup> Wer eine Tierspitalapotheke führen will, benötigt eine Detailhandelsbewilligung des Veterinäramtes.
-
-<sup>3</sup> Die Bewilligung wird erteilt, wenn die Apotheke durch eine Person geführt wird, die Inhaberin oder Inhaber eines eidgenössischen oder eidgenössisch anerkannten ausländischen Apothekerdiploms ist. Werden Arzneimittel nicht selber hergestellt oder nicht direkt an Patientinnen oder Patienten bzw. Tierhalterinnen oder Tierhalter abgegeben, so kann die Apotheke durch eine Inhaberin oder einen Inhaber eines eidgenössischen oder eidgenössisch anerkannten ausländischen Arzt- bzw. Tierarztdiploms geführt werden.
-
-<sup>4</sup> Wird die Apotheke in einem Spital oder Heim durch eine Ärztin oder einen Arzt, in einem Tierspital durch eine Tierärztin oder einen Tierarzt geführt, ist periodisch eine Person mit eidgenössischem oder eidgenössisch anerkanntem ausländischen Apothekerdiplom konsiliarisch beizuziehen. Gleiches gilt im Fall von Abs. 1 Satz 2.
-
-**7**
-
-1.10. 21 - 114
-
-### C. Drogerien
-
-#### § 30
-
-**Definition**
-
-Drogerien sind Ladengeschäfte, die Arzneimittel der Abgabekategorien D und E, Medizinprodukte, Chemikalien und weitere Drogeriewaren verkaufen.
-
-§§ 31 und 32.[^30-1]
-
-**Meldepflicht**
-
-§ 33.[^30-2] . . .[^30-1]
-
-<sup>2</sup> Bei Drogerien mit Betriebsbewilligung im Sinne von § 35 lit. g GesG meldet die Person nach § 36 Abs. 1 lit. d GesG[^30-3] der Kantonalen Heilmittelkontrolle Eröffnung, Verlegung, Namenswechsel und Aufgabe der Drogerie sowie Mitgliederwechsel in der gesamtverantwortlichen Leitung.
-
-[^30-1]: Aufgehoben durch RRB vom 24. November 2010 (OS 66, 120; ABl 2010, 2910). In Kraft seit 1. März 2011.
-[^30-2]: OS 63, 228; Begründung siehe ABl 2008, 821.
-[^30-3]: LS 810.1.
-
-### D. Weitere Detailhandelsgeschäfte
-
-[^hDWeitereDetailhan-1]: SR 812.212.21.
-[^hDWeitereDetailhan-2]: SR 812.212.27.
-
-#### § 34
-
-<sup>1</sup> Die Kantonale Heilmittelkontrolle bewilligt den in Art. 25 a VAM[^hDWeitereDetailhan-1] und das Veterinäramt den in Art. 9 Abs. 1 und 2 TAMV[^hDWeitereDetailhan-2] genannten Personen die Abgabe von nicht verschreibungspflichtigen Arzneimitteln, sofern sie die Anforderungen an einen sorgfältigen und sachgerechten Umgang mit Arzneimitteln gewährleisten.
-
-<sup>2</sup> Die Meldepflicht im Sinne von § 33 gilt sinngemäss.
-
-§§ 35–38.[^34-1]
-
-[^34-1]: Aufgehoben durch RRB vom 23. Juni 2021 (OS 76, 338; ABl 2021-07-09). In Kraft seit 1. Oktober 2021. 1.10. 21 - 114 11
-
-### 5. Abschnitt: Strafbestimmung
-
-#### § 39
-
-<sup>1</sup> Mit Busse bis Fr. 10 000 wird bestraft, wer vorsätzlich:
-
-- a. die Befugnisse einer nach dieser Verordnung ausgestellten Bewilligung überschreitet,
-
-- b. Melde-, Kennzeichnungs-, Dokumentations-, Buchführungs-, Aufbewahrungs-, Versorgungs-, Mitwirkungs- oder Anwesenheitspflichten dieser Verordnung verletzt oder vernachlässigt,
-
-- c. Pflichten dieser Verordnung bezüglich Beschaffung, Vermittlung, Lagerung, Herstellung, Prüfung, Abgabe und Verschreibung von Heilmitteln oder bezüglich Räumlichkeiten und Einrichtungen verletzt.
-
-<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis Fr. 5000 bestraft.
-
-<sup>3</sup> Versuch, Anstiftung und Gehilfenschaft sind strafbar.
-
-<sup>4</sup> In besonders leichten Fällen kann auf Bestrafung verzichtet werden.
-
-### 6. Abschnitt: Schlussbestimmungen
-
-### A. Vollzug
-
-[^hAVollzug-1]: SR 812.21.
-
-#### § 40
+und psychotropen Substanzen
 
 **Bewilligungen**
 
-<sup>1</sup> Falls nicht anders bestimmt, werden die in dieser Verordnung erwähnten Bewilligungen sowie Versandhandelsbewilligungen im Sinne von Art. 27 HMG[^hAVollzug-1] auf längstens zehn Jahre befristet erteilt und auf Gesuch hin erneuert, wenn die Voraussetzungen weiterhin erfüllt sind.
+§ 24. <sup>1</sup> Das Amt für Gesundheit erteilt Bewilligungen für die Suchtbehandlung mit Betäubungsmitteln und psychotropen Substanzen gemäss Art. 3 e Abs. 1 BetmG. Die Bewilligung für heroingestützten Behandlungen richtet sich nach Art. 3 e Abs. 3 BetmG.
 
-<sup>2</sup> Die Bewilligungen können mit Einschränkungen fachlicher, zeitlicher und räumlicher Art sowie mit Auflagen verbunden werden. Die Bewilligungen fallen ohne Weiteres dahin, wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber über keine gültige Berufsausübungs- oder Betriebsbewilligung mehr verfügt oder die Tätigkeit aufgibt.
+<sup>2</sup> Die Bewilligung für ambulante betäubungsmittelgestützte Behandlungen bei Opioidabhängigkeit mit von Swissmedic dafür zugelassenen Arzneimitteln wird Ärztinnen und Ärzten mit Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung erteilt, wenn sie die für solche Behandlungen erforderlichen Kenntnisse nachweisen.
 
-<sup>3</sup> Veränderungen, die eine Anpassung der Bewilligung erforderlich machen, sind meldepflichtig.
+**7**
 
-#### § 41
+- 1\. 7. 24 - 125
 
-**Zuständigkeit und Ausführungsvorschriften**
+<sup>3</sup> Die Bewilligung für andere ambulante Suchtbehandlungen mit dem Betäubungsmittelgesetz unterstehenden Substanzen wird Ärztinnen und Ärzten mit Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung erteilt, wenn die Suchtbehandlung der betreffenden Patientin oder des betreffenden Patienten nach den anerkannten Regeln der medizinischen Wissenschaften notwendig ist.
 
-<sup>1</sup> Falls nicht anders bestimmt, ist die Kantonale Heilmittelkontrolle für den Vollzug der Heilmittel- und Betäubungsmittelgesetzgebung des Bundes sowie für den Vollzug dieser Verordnung zuständig. Vorbehalten bleiben die Befugnisse der Strafbehörden.
+<sup>4</sup> Bewilligungen gemäss Abs. 2 werden allgemein, solche gemäss Abs. 3 einzelfallbezogen und für höchstens ein Jahr erteilt.
 
-<sup>2</sup> Die zuständigen Stellen sind befugt, die erforderlichen Ausführungsvorschriften zu erlassen.
+#### § 25
 
-#### § 42
+**Meldungen**
 
-**Befugnisse der Vollzugsorgane**
+<sup>1</sup> Der Beginn einer Behandlung nach § 24 Abs. 2 ist innerhalb von 72 Stunden und ihr Abschluss oder Abbruch unverzüglich dem Amt für Gesundheit zu melden.
 
-<sup>1</sup> Wer Heilmittel in Verkehr bringt oder bei klinischen Versuchen mit Heilmitteln im Sinne von § 35 Abs. 1 mitwirkt, hat den Vollzugsorganen a. Auskunft zu erteilen,
+<sup>2</sup> Das Amt führt ein Verzeichnis der Meldungen.
 
-- b. Einsicht in die Unterlagen zu geben,
+<sup>3</sup> Erfordern es medizinische Gründe, macht das Amt anderen Ärztinnen und Ärzten sowie ambulanten ärztlichen Institutionen, Polikliniken und Spitälern, die Behandlungen abhängiger Personen durchführen, Informationen aus dem Verzeichnis zugänglich.
 
-- c. Zutritt zu allen Geschäfts-, Betriebs-, Lager- und Praxisräumen zu gewähren.
+#### § 26
 
-<sup>2</sup> Die Vollzugsorgane sind befugt,
+**Missbrauch**
 
-- a. jederzeit unangemeldet Kontrollen und Inspektionen durchzuführen,
+<sup>1</sup> Personen, die Betäubungsmittel und psychotrope Substanzen verordnen oder abgeben, wirken jedem Missbrauch entgegen. Bei Verdacht auf Missbrauch verweigern sie die Verordnung und Abgabe und erstatten dem Amt für Gesundheit Meldung.
 
-- b. illegale und nicht den Vorschriften entsprechende Heilmittel einzuziehen,
+<sup>2</sup> Das Amt kann bei Verdacht auf Missbrauch a. die Abgabe von Betäubungsmitteln und psychotropen Substanzen einschränken oder verbieten,
 
-- c. Beweismittel zu erheben,
+- b. die Kantonale Heilmittelkontrolle um Erlass von Abgabesperren gegenüber öffentlichen Apotheken ersuchen,
 
-- d. zu widerrechtlicher Tätigkeit verwendete Räumlichkeiten zu verschliessen,
+- c. in kantonsübergreifenden Fällen Meldung an die zuständigen Gesundheitsbehörden anderer Kantone erstatten.
 
-- e. in Detailhandelsgeschäften oder anderswo entschädigungslos Proben von Heilmitteln zu entnehmen.
+<sup>3</sup> Bei wiederholten oder schweren Verstössen gegen die ärztlichen Sorgfaltspflichten entzieht das Amt die Bewilligung gemäss § 24 und erteilt keine neuen Bewilligungen.
+
+#### § 27
+
+**Wissenschaftliche Auswertungen**
+
+<sup>1</sup> Das Amt für Gesundheit sorgt für die wissenschaftliche Überprüfung der Behandlungsverläufe und -ergebnisse. Es beauftragt dazu eine Auswertungsstelle.
+
+<sup>2</sup> Die Ärztinnen und Ärzte melden der Auswertungsstelle die notwendigen Daten in anonymisierter Form.
+
+### H. Gemeinsame Bestimmungen zu den Bewilligungen
+
+#### § 28
+
+**Befristung und Beschränkung**
+
+<sup>1</sup> Die Bewilligungen in den Bereichen Heilmittelrecht und Betäubungsmittelrecht werden für längstens zehn Jahre erteilt oder erneuert.
+
+<sup>2</sup> Sie können mit Einschränkungen fachlicher, zeitlicher und räumlicher Art sowie mit Auflagen und Bedingungen verbunden werden.
+
+<sup>3</sup> Sie fallen ohne Weiteres dahin, wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber über keine gültige Berufsausübungs- oder Betriebsbewilligung mehr verfügt oder die Tätigkeit aufgibt.
+
+#### § 29
+
+**Meldepflichten**
+
+<sup>1</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber meldet der Bewilligungsbehörde Änderungen der in der Bewilligung enthaltenen Angaben, insbesondere Namenswechsel, örtliche Verlegung einer Abgabestelle oder Wechsel ihrer fachlichen Leitung.
+
+<sup>2</sup> Sie oder er meldet die Eröffnung oder die Schliessung der Abgabestelle.
+
+### I. Vollzug
+
+#### § 30
+
+**Vollzugsorgane**
+
+Die Heilmittel- und Betäubungsmittelgesetzgebung wird von der Kantonalen Heilmittelkontrolle vollzogen. Vorbehalten bleibt die Zuständigkeit a. des Amtes für Gesundheit für die ihm in dieser Verordnung zugewiesenen Aufgaben,
+
+- b. des Veterinäramtes für die ihm in dieser Verordnung zugewiesenen Aufgaben, die Aufgaben gemäss Art. 30 TAMV und den Vollzug des Betäubungsmittelrechts in den von ihm bewilligten Abgabestellen,
+
+- c. der Strafverfolgungsbehörden für die Strafverfolgung im Bereich der Heilmittel und Betäubungsmittel.
+
+#### § 31
+
+**Untersuchungsbefugnisse**
+
+<sup>1</sup> Die Vollzugsorgane verfügen über die Untersuchungsbefugnisse gemäss Art. 58 Abs. 1, 4 und 5 HMG und § 59 Abs. 2 lit. a GesG. Im Rahmen ihrer Zuständigkeit dürfen sie insbesondere jederzeit unangemeldet Kontrollen und Inspektionen durchführen.
+
+<sup>2</sup> Ihnen ist Zutritt zu den Geschäfts-, Betriebs-, Lager- und Praxisräumen sowie Einsicht in alle Unterlagen des betreffenden Vollzugsbereichs zu gewähren.
+
+<sup>3</sup> Sie dürfen entschädigungslos Proben und andere Beweismittel erheben.
 
 **9**
 
-1.10. 21 - 114
+- 1\. 7. 24 - 125
 
-<sup>3</sup> Die Wareninhaberin oder der Wareninhaber kann in Fällen gemäss Abs. 2 lit. e verlangen, dass ihr oder ihm für entnommene Proben eine Quittung ausgestellt wird.
+<sup>4</sup> Für entschädigungslos erhobene Proben wird eine Quittung ausgestellt.
+
+#### § 32
+
+**Verwaltungsmassnahmen**
+
+<sup>1</sup> Die Vollzugsorgane treffen die in ihrem Zuständigkeitsbereich vorgesehenen Verwaltungsmassnahmen gemäss Art. 66 HMG und § 59 Abs. 2 lit. b GesG. Sie sind insbesondere befugt,
+
+- a. die Benutzung nicht bewilligter oder nicht den Vorschriften entsprechender Anlagen und Einrichtungen zu verbieten,
+
+- b. Räumlichkeiten, in denen widerrechtliche Tätigkeiten erfolgen, zu schliessen.
+
+<sup>2</sup> Bei missbräuchlichem Bezug verschreibungspflichtiger Arzneimittel a. können die Vollzugsorgane deren Abgabe einschränken oder verbieten,
+
+- b. kann die Kantonale Heilmittelkontrolle aus eigener Veranlassung oder auf Ersuchen einer anderen Amtsstelle Abgabesperren gegenüber öffentlichen Apotheken anordnen,
+
+- c. kann das zuständige Vollzugsorgan in kantonsübergreifenden Fällen Meldung an die zuständigen Gesundheitsbehörden anderer Kantone erstatten.
+
+#### § 33
+
+**Veröffentlichung von Bewilligungsdaten**
+
+Die Kantonale Heilmittelkontrolle und das Veterinäramt können über ausgestellte Bewilligungen folgende Daten veröffentlichen:
+
+- a. Name und Adresse des bewilligten Standorts, insbesondere der Abgabestelle,
+
+- b. Name der Person mit der fachlichen Leitung,
+
+- c. bewilligte Tätigkeiten.
+
+#### § 34
 
 **Gebühren**
 
-§ 43.[^42-1] <sup>1</sup> Die Gesundheitsdirektion erlässt eine Gebührenordnung für das Heilmittelwesen.
+<sup>1</sup> Die Gebühren betragen a. bis Fr. 1000 für eine Herstellungsbewilligung,
 
-<sup>2</sup> Die Gebühr beträgt:
+- b. bis Fr. 1000 pro Meldebestätigung betreffend Herstellung von Arzneimitteln gemäss § 3,
 
-- a. bis Fr. 1000 für eine Detailhandelsbewilligung,
+- c. bis Fr. 2000 für eine Versandhandelsbewilligung,
 
-- b. bis Fr. 1000 für eine Herstellungsbewilligung,
+- d. bis Fr. 1000 für eine Bewilligung zur Abgabe von Arzneimitteln,
 
-- c. bis Fr. 1000 pro Meldung im Sinne von § 4,
+- e. bis Fr. 500 für eine Bewilligung zur Abgabe von Arzneimitteln ausserhalb einer Abgabestelle gemäss § 12 Abs. 3,
 
-- d. bis Fr. 400 für eine Bewilligung zur Lagerung von Blut und Blutprodukten,
+- f. bis Fr. 300 für eine Bewilligung gemäss Art. 14 und 14 a Abs. 1<sup>bis</sup> BetmG,
 
-- e. bis Fr. 300 für eine Bewilligung im Sinne von Art. 14 BetmG[^42-2],
+- g. bis Fr. 400 für eine Bewilligung zur Lagerung von Blut und Blutprodukten gemäss § 23,
 
-- f. bis Fr. 30 für einen Betäubungsmittelrezeptblock,
+- h. bis Fr. 250 für Änderungen und Ergänzungen von Bewilligungen,
 
-- g. bis Fr. 2000 für eine Versandhandelsbewilligung,
+- i. bis Fr. 300 für Bescheinigungen,
 
-- h. bis Fr. 500 für eine Bewilligung zur Abgabe von Arzneimitteln ausserhalb der ständigen Geschäftsräume,
+- j. bis Fr. 40 für Rezeptformulare für die Verschreibung von Betäubungsmitteln gemäss § 6 Abs. 2,
 
-- i. bis Fr. 250 für Änderungen und Ergänzungen von Bewilligungen oder Registrierungen,
+- k. bis Fr. 230 pro Stunde für Inspektionen, Inspektionsvorbereitungen und -nachbearbeitungen, zusätzliche Erhebungen infolge mangelhafter Unterlagen, Untersuchungen von Warenproben, Beschlagnahmungen, Einziehungen und Entsorgungen sowie für die vorgängige Prüfung der Pläne der Räumlichkeiten bei Neu- und Umbauten von Abgabestellen, zuzüglich Reisespesen, Schreibgebühren und Material.
 
-- j. bis Fr. 220 pro Stunde für Inspektionen, Inspektionsvorbereitungen und -nachbearbeitungen, zusätzliche Erhebungen infolge mangelhafter Unterlagen, Untersuchungen von Warenproben, Beschlagnahmungen, Einziehungen und Entsorgungen sowie für die vorgängige Prüfung der Pläne von Detailhandelsgeschäften, zuzüglich Reisespesen, Schreibgebühren und Material,
+<sup>2</sup> Die Gesundheitsdirektion erlässt eine Gebührenordnung.
 
-- k. Fr. 100 bis 300 für Bescheinigungen.
+#### § 35
 
-<sup>3</sup> Die Festsetzung der Gebühren gemäss Abs. 2 lit. a, b, c, d, e, g, h, i und k richtet sich innerhalb der jeweiligen Ansätze nach dem Zeitaufwand sowie der Bedeutung der Sache. Die Festsetzung des Stundenansatzes gemäss Abs. 2 lit. j richtet sich nach der Bedeutung der Sache.
+**Strafbestimmungen**
 
-[^42-1]: Fassung gemäss RRB vom 24. November 2010 (OS 66, 120; ABl 2010, 2910). In Kraft seit 1. März 2011.
-[^42-2]: SR 812.121.
+<sup>1</sup> Mit Busse bis Fr. 10 000 wird bestraft, wer vorsätzlich a. die Befugnisse einer nach dieser Verordnung ausgestellten Bewilligung überschreitet,
 
-### B. Inkrafttreten
+- b. Melde-, Kennzeichnungs-, Dokumentations-, Buchführungs-, Aufbewahrungs-, Versorgungs-, Anwesenheits- oder Mitwirkungspflichten missachtet,
 
-#### § 44
+- c. Pflichten dieser Verordnung bezüglich Beschaffung, Vermittlung, Lagerung, Herstellung, Prüfung, Abgabe und Verschreibung von Heilmitteln oder bezüglich Räumlichkeiten und Einrichtungen missachtet.
 
-Diese Verordnung tritt am 1. Juli 2008 in Kraft.
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis Fr. 5000 bestraft.
 
-## Weitere Fussnoten
+<sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
 
-- [4] SR 810.21.
-- [5] SR 810.30.
-- [6] SR 810.308.
-- [7] SR 810.31.
-- [22] Eingefügt durch RRB vom 11. Februar 2015 (OS 70, 100; ABl 2014-02-27). In Kraft seit 1. Mai 2015.
-- [23] Fassung gemäss RRB vom 11. Februar 2015 (OS 70, 100; ABl 2014-02-27). In Kraft seit 1. Mai 2015.
-- [24] Fassung gemäss RRB vom 9. November 2016 (OS 72, 31; ABl 2016-11-18). In Kraft seit 1. März 2017.
+<sup>4</sup> In besonders leichten Fällen kann auf eine Bestrafung verzichtet werden.
