@@ -4,13 +4,12 @@ number: VIII D/7/1
 title: Gesetz über Erwerbsersatzleistungen für einkommensschwache Eltern
 short: GEEL
 language: de
-version: 2014-09-01
-valid_until: 2023-06-30
-version_adopted: 2014-05-04
+version: 2023-07-01
+version_adopted: 2023-05-07
 adopted: 2014-05-04
 in_force: 2014-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.7.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1605/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2427/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1605/pdf_file"
 
 (GEEL)
 
-Vom 04.05.2014 (Stand 01.09.2014)
+Vom 04.05.2014 (Stand 01.07.2023)
 
 (Erlassen von der Landsgemeinde am 4. Mai 2014)
 
@@ -150,11 +149,9 @@ Vom 04.05.2014 (Stand 01.09.2014)
 
 **Finanzierung**
 
-<sup>1</sup> Die Finanzierung der Erwerbsersatzleistungen erfolgt durch den kantonalen Fonds der Arbeitslosenfürsorge sowie dessen Zinsen und, wenn notwendig, durch einen jährlichen paritätischen Arbeitnehmer- und Arbeitgeberbeitrag aller im Kanton Glarus tätigen Arbeitnehmer und Arbeitgeber von gesamthaft mindestens 0,3 Promille und höchstens 2 Promille der AHV-beitragsberechtigten Lohnsumme.
+<sup>1</sup> Die Mittel werden über einen Budgetkredit bereitgestellt.
 
-<sup>2</sup> Als Arbeitgeber gelten alle natürlichen und juristischen Personen, die im Kanton Glarus Wohn- oder Geschäftssitz haben, eine Zweigniederlassung oder Betriebsstätte unterhalten und Löhne an dauernd oder vorübergehend tätige Arbeitnehmer ausrichten.
-
-<sup>3</sup> Die Höhe des Beitrages wird vom Regierungsrat festgesetzt.
+<sup>2–3</sup> …
 
 ## 6. Rechtsschutzbestimmungen
 
