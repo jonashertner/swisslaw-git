@@ -4,20 +4,20 @@ title: Bundesgesetz vom 21. Juni 1991 über die Fischerei (BGF)
 short: BGF
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1991-06-21
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20230701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Fischerei
 
-(BGF)**[^t-1]**
+(BGF)[^t-1]
 
-vom 21. Juni 1991 (Stand am 1. Januar 2022)
+vom 21. Juni 1991 (Stand am 1. Juli 2023)
 
 [^t-1]: Eingefügt durch Ziff. I 18 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
@@ -62,7 +62,9 @@ Dieses Gesetz bezweckt:
 
 **Bewirtschaftung**
 
-<sup>1</sup> Die Kantone regeln die nachhaltige Nutzung der Bestände und sorgen dafür, dass
+<sup>1</sup>
+
+Die Kantone regeln die nachhaltige Nutzung der Bestände und sorgen dafür, dass:
 
 - a. die natürliche Artenvielfalt der Fische und Krebse erhalten bleibt;
 - b. die Tiere beim Fang nicht unnötig verletzt oder geschädigt werden.
@@ -144,7 +146,7 @@ Die Bewilligung wird erteilt, wenn der Gesuchsteller nachweist, dass:
 
 <sup>1</sup> Eingriffe in die Gewässer, ihren Wasserhaushalt oder ihren Verlauf sowie Eingriffe in die Ufer und den Grund von Gewässern brauchen eine Bewilligung der für die Fischerei zuständigen kantonalen Behörde (fischereirechtliche Bewilligung), soweit sie die Interessen der Fischerei berühren können.
 
-<sup>2</sup> ...[^8-1]
+<sup>2</sup> …[^8-1]
 
 <sup>3</sup>
 
@@ -229,7 +231,7 @@ Der Bund kann Finanzhilfen gewähren für:
 
 <sup>2</sup> Die Finanzhilfen des Bundes bemessen sich nach der Bedeutung der Massnahmen nach Absatz 1 Buchstaben a–c für den Schutz und die Nutzung der Fische und Krebse; sie betragen höchstens 40 Prozent der Kosten.[^12-1]
 
-<sup>3</sup> ...[^12-2]
+<sup>3</sup> …[^12-2]
 
 [^12-1]: Fassung gemäss Ziff. II 32 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^12-2]: Aufgehoben durch Ziff. II 32 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
@@ -270,7 +272,7 @@ Die hauptberuflich tätigen Berufsfischer haben Anspruch auf Kinderzulagen nach 
 
 <sup>1</sup>
 
-Mit Geldstrafe bis zu 180 Tagessätzen wird bestraft, wer vorsätzlich den Fisch- oder den Krebsbestand schädigt oder gefährdet, indem er:[^16-1]
+Mit Geldstrafe wird bestraft, wer vorsätzlich den Fisch- oder Krebsbestand schädigt oder gefährdet, indem er:[^16-1]
 
 - a. unbefugte technische Eingriffe vornimmt (Art. 8);
 - b. die an eine Bewilligung geknüpften Bedingungen oder Auflagen missachtet (Art. 9 Abs. 1);
@@ -279,7 +281,7 @@ Mit Geldstrafe bis zu 180 Tagessätzen wird bestraft, wer vorsätzlich den Fisch
 
 <sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 20 000 Franken.[^16-2]
 
-[^16-1]: Fassung gemäss Ziff. II 4 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^16-1]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^16-2]: Fassung gemäss Ziff. II 4 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 17
@@ -313,9 +315,15 @@ Die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^18-1]
 
 **Verbot der Fischereiausübung**
 
-<sup>1</sup> Bei Fischereivergehen und bei schweren oder wiederholten Fällen von Übertretungen kann der Richter dem Täter als Nebenstrafe die Ausübung der Fischerei für eine Dauer bis zu fünf Jahren verbieten.
+<sup>1</sup> Bei Fischereivergehen und bei schweren oder wiederholten Fällen von Übertretungen kann das Gericht dem Täter die Ausübung der Fischerei für eine Dauer von bis zu fünf Jahren verbieten, sofern die Gefahr besteht, dass der Täter weitere solche Taten begeht.[^19-1]
+
+<sup>1bis</sup> Die Massnahme kann auch angeordnet werden, wenn der Täter nach Artikel 19 Absätze 1 und 2 des Strafgesetzbuchs[^19-2] schuldunfähig oder vermindert schuldfähig ist.[^19-3]
 
 <sup>2</sup> Der administrative Entzug der Fischereiberechtigung durch die zuständige kantonale Behörde bleibt vorbehalten.
+
+[^19-1]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-3]: Eingefügt durch Ziff. I 13 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 20
 
@@ -433,9 +441,9 @@ Eine Genehmigung des Bundes brauchen die kantonalen Vorschriften über:
 
 <sup>1.</sup> Das Bundesgesetz vom 14. Dezember 1973[^27-1] über die Fischerei wird aufgehoben.
 
-<sup>2.</sup> und 3. ...[^27-2]
+<sup>2.</sup> und 3. …[^27-2]
 
-[^27-1]: [[AS 1975 2345](https://fedlex.data.admin.ch/eli/oc/1975/2345_2345_2345), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 81, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. III, [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 Ziff. 1]
+[^27-1]: [[AS 1975 2345](https://fedlex.data.admin.ch/eli/oc/1975/2345_2345_2345); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 81; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. III; [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 Ziff. 1]
 [^27-2]: Die Änderungen können unter [AS 1991 2259](https://fedlex.data.admin.ch/eli/oc/1991/2259_2259_2259)konsultiert werden.
 
 #### Art. 28
@@ -450,9 +458,11 @@ Eine Genehmigung des Bundes brauchen die kantonalen Vorschriften über:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Es tritt unter Vorbehalt von Absatz 3 auf den 1. Januar in Kraft,
+<sup>2</sup>
 
-- a. welcher der Frist von zwei Jahren nach dem unbenützten Ablauf der Referendumsfrist oder
+Es tritt unter Vorbehalt von Absatz 3 auf den 1. Januar in Kraft:
+
+- a. welcher der Frist von zwei Jahren nach dem unbenützten Ablauf der Referendumsfrist; oder
 - b. der Frist von zwei Jahren nach der Gutheissung des Gesetzes durch das Volk folgt.
 
 <sup>3</sup> Artikel 6 tritt nach dem unbenützten Ablauf der Referendumsfrist oder mit der Gutheissung des Gesetzes durch das Volk in Kraft.

@@ -4,20 +4,20 @@ title: Loi fédérale du 21 juin 1991 sur la pêche (LFSP)
 short: LFSP
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1991-06-21
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20230701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la pêche
 
-(LFSP**[^t-1]**)
+(LFSP[^t-1])
 
-du 21 juin 1991 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 juin 1991 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: Introduite par le ch. I 18 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 
@@ -272,7 +272,7 @@ Les pêcheurs professionnels qui exercent la pêche à titre principal ont droit
 
 <sup>1</sup>
 
-Sera puni d’une peine pécuniaire de 180 jours-amende au plus celui qui, intentionnellement, aura nui aux peuplements de poissons ou d’écrevisses ou en aura compromis l’existence:[^16-1]
+Est puni d’une peine pécuniaire quiconque, intentionnellement, nuit aux peuplements de poissons ou d’écrevisses ou en compromet l’existence:[^16-1]
 
 - a. en procédant à une intervention technique sans autorisation (art. 8);
 - b. en n’observant pas les conditions et les charges liées à une autorisation (art. 9, al. 1);
@@ -281,7 +281,7 @@ Sera puni d’une peine pécuniaire de 180 jours-amende au plus celui qui, inten
 
 <sup>2</sup> Si l’auteur a agi par négligence, il sera passible d’une amende de 20 000 francs au plus.[^16-2]
 
-[^16-1]: <sup>¶</sup>Nouvelle teneur selon le ch. II 4 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^16-1]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^16-2]: Nouvelle teneur selon le ch. II 4 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 17
@@ -315,9 +315,15 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 **Interdiction d’exercer la pêche**
 
-<sup>1</sup> L’interdiction d’exercer la pêche pour une durée de cinq ans au plus peut être prononcée, comme peine accessoire, à l’égard de l’auteur de délits ou de contraventions graves ou réitérées.
+<sup>1</sup> L’interdiction d’exercer la pêche pour une durée de cinq ans au plus peut être prononcée à l’égard de l’auteur de délits ou de contraventions graves ou réitérées si ce dernier risque de commettre d’autres actes du même genre.[^19-1]
+
+<sup>1bis</sup> La mesure peut aussi être ordonnée si l’auteur est irresponsable ou qu’il a une responsabilité restreinte au sens de l’art. 19, al. 1 et 2, du code pénal[^19-2].[^19-3]
 
 <sup>2</sup> Le retrait administratif du droit de pêche par l’autorité cantonale compétente est réservé.
+
+[^19-1]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-3]: Introduit par le ch. I 13 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 20
 

@@ -4,20 +4,20 @@ title: Legge federale del 21 giugno 1991 sulla pesca (LFSP)
 short: LFSP
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1991-06-21
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20230701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla pesca
 
-(LFSP)**[^t-1]**
+(LFSP)[^t-1]
 
-del 21 giugno 1991 (Stato 1° gennaio 2022)
+del 21 giugno 1991 (Stato 1° luglio 2023)
 
 [^t-1]: RU **1991** 2259 Introdotta dal n. I 18 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 (RU **1999** 3071; FF **1998** 2029).
 
@@ -213,7 +213,7 @@ Per quanto concerne gli impianti esistenti, i Cantoni impongono provvedimenti ai
 
 I Cantoni elaborano una statistica della pesca secondo i principi della Confederazione.
 
-[^11-1]: Nuovo testo giusta il n. 12 dell’all. alla LF del 9 ott. 1992 sulla statistica federale, in vigore dal 1° ago. 1993 ([RU 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [FF 1992 I 321](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
+[^11-1]: Nuovo testo giusta l’all. n. 12 della LF del 9 ott. 1992 sulla statistica federale, in vigore dal 1° ago. 1993 ([RU 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [FF 1992 I 321](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
 
 ## Sezione 5: Promovimento della pesca
 
@@ -244,7 +244,7 @@ La Confederazione può concedere aiuti finanziari per:
 
 <sup>2</sup> Può organizzare corsi di formazione continua per gli organi incaricati di sorvegliare la pesca.
 
-[^13-1]: Nuovo testo giusta il n. 44 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^13-1]: Nuovo testo giusta l’all. n. 44 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 14
 
@@ -272,7 +272,7 @@ I pescatori professionisti che esercitano la pesca come attività principale han
 
 <sup>1</sup>
 
-Chiunque reca intenzionalmente danno alle popolazioni di pesci o di gamberi o ne compromette l’esistenza è punito con una pena pecuniaria fino a 180 aliquote giornaliere, se:[^16-1]
+Chiunque reca intenzionalmente danno alle popolazioni di pesci o di gamberi o ne compromette l’esistenza è punito con una pena pecuniaria, se:[^16-1]
 
 - a. intraprende interventi tecnici senza autorizzazione (art. 8);
 - b. disattende le condizioni e gli oneri vincolati a un’autorizzazione (art. 9 cpv. l);
@@ -281,7 +281,7 @@ Chiunque reca intenzionalmente danno alle popolazioni di pesci o di gamberi o ne
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 20 000 franchi.[^16-2]
 
-[^16-1]: Nuovo testo giusta il n. II 4 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^16-1]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^16-2]: Nuovo testo giusta il n. II 4 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 17
@@ -315,9 +315,15 @@ Ai reati secondo la presente legge si applicano per analogia gli articoli 6 e 7 
 
 **Divieto di esercitare la pesca**
 
-<sup>1</sup> In caso di delitti o di contravvenzioni gravi o reiterate, il colpevole può essere condannato, come pena accessoria, al divieto di esercitare la pesca per una durata massima di cinque anni.
+<sup>1</sup> In caso di delitti o di contravvenzioni gravi o reiterate, l’autore può essere condannato al divieto di esercitare la pesca per una durata massima di cinque anni, se vi è il pericolo che commetta altri reati analoghi.[^19-1]
+
+<sup>1bis</sup> La misura può essere ordinata anche in caso di incapacità o scemata imputabilità dell’autore secondo l’articolo 19 capoversi 1 e 2 del Codice penale[^19-2].[^19-3]
 
 <sup>2</sup> E’ fatta salva la privazione amministrativa del diritto di pesca da parte dell’autorità cantonale competente.
+
+[^19-1]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-3]: Introdotto dal n. I 13 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 20
 
@@ -336,7 +342,7 @@ Ai reati secondo la presente legge si applicano per analogia gli articoli 6 e 7 
 [^20-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^20-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^20-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^20-8]: Nuovo testo giusta il n. II 9 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^20-8]: Nuovo testo giusta l’all. n. II 9 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Sezione 8: Esecuzione
 
@@ -374,7 +380,7 @@ Ai reati secondo la presente legge si applicano per analogia gli articoli 6 e 7 
 
 <sup>2</sup> Essi raccomandano misure appropriate di protezione e conservazione.
 
-[^22a-1]: Introdotto dal n. 3 dell’all. alla LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^22a-1]: Introdotto dall’all. n. 3 della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
 #### Art. 23
 
@@ -386,7 +392,7 @@ Ai reati secondo la presente legge si applicano per analogia gli articoli 6 e 7 
 
 <sup>3</sup> Ognuno ha l’obbligo di fornire le informazioni necessarie all’esecuzione della presente legge.
 
-[^23-1]: Nuovo testo giusta il n. 44 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^23-1]: Nuovo testo giusta l’all. n. 44 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 24
 
@@ -420,13 +426,13 @@ L’approvazione della Confederazione è necessaria per le disposizioni cantonal
 
 [^26a-1]
 
-[^26a-1]: Introdotto dal n. 11 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogato dal n. 129 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26a-1]: Introdotto dall’all. n. 11 della LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogato dall’all. n. 129 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26b
 
 [^26b-1]
 
-[^26b-1]: Originario art. 26*a*. Introdotto dal n. I 18 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dal n. 129 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26b-1]: Originario art. 26*a*. Introdotto dal n. I 18 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. n. 129 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Sezione 9: Disposizioni finali
 

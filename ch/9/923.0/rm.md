@@ -4,11 +4,11 @@ title: Lescha federala dals 21 da zercladur 1991 davart la pestga (LFP)
 short: LFP
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
 language: rm
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1991-06-21
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20220101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20230701-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-(LFP)**[^t-1]**
+(LFP)[^t-1]
 
-dals 21 da zercladur 1991 (versiun dal 1. da schaner 2022)
+dals 21 da zercladur 1991 (versiun dal 1. da fanadur 2023)
 
 [^t-1]: Integrà tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
@@ -272,16 +272,16 @@ Ils pestgaders professiunals che van a pestga sco activitad principala han il dr
 
 <sup>1</sup>
 
-Cun in chasti pecuniar fin a 180 taxas per di vegn chastià, tgi che donnegia u periclitescha intenziunadamain l’effectiv da peschs u da giombers, e quai cun:[^16-1]
+Cun in chasti pecuniar vegn chastià, tgi che donnegia u periclitescha intenziunadamain l’effectiv da peschs u da giombers, e quai cun:[^16-1]
 
 - a. far nunautorisadamain intervenziuns tecnicas (art. 8);
 - b. betg resguardar cundiziuns u pretensiuns ch’èn colliadas cun ina permissiun (art. 9 al. 1);
 - c. importar u integrar spezias, razzas e varietads da peschs u da giombers estras en Svizra u al lieu senza ina permissiun da l’autoritad (art. 6 al. 1);
 - d. consegnar u duvrar spezias, razzas e varietads estras en Svizra u al lieu sco peschs d’estga vivs (art. 6 al. 4).
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha, importa la multa fin a 20 000 francs.[^16-2]
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, importa la multa da fin 20 000 francs.[^16-2]
 
-[^16-1]: Versiun tenor la cifra II 4 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^16-1]: Versiun tenor la cifra I 13 da la LF dals 17 da dec. 2021 davart l’adattaziun dal dretg penal accessoric al nov dretg da sancziuns, en vigur dapi il 1. da fan. 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^16-2]: Versiun tenor la cifra II 4 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 17
@@ -290,7 +290,7 @@ Cun in chasti pecuniar fin a 180 taxas per di vegn chastià, tgi che donnegia u 
 
 <sup>1</sup>
 
-Cun ina multa fin a 20 000 francs vegn chastià, tgi che sapientivamain:[^17-1]
+Cun ina multa da fin 20 000 francs vegn chastià, tgi che sapientivamain:[^17-1]
 
 - a. n’observa betg las disposiziuns da schanetg;
 - b. acquista, sa lascha regalar u venda peschs, giombers u macrofauna d’aua, dals quals el sa u sto supponer ch’els èn vegnids acquistads tras in act chastiabel;
@@ -315,9 +315,15 @@ Ils artitgels 6 e 7 da la Lescha federala dals 22 da mars 1974[^18-1] davart il 
 
 **Scumond d’ir a pestga**
 
-<sup>1</sup> En cas da delicts da pestga e da surpassaments grevs u repetids po il derschader scumandar al delinquent sco chasti accessoric d’ir a pestga per la durada da fin a 5 onns.
+<sup>1</sup> En cas da delicts da pestga e da surpassaments grevs u repetids po la dretgira scumandar al delinquent d’ir a pestga per ina durada da fin 5 onns, sch’igl exista in privel ch’il delinquent commettia ulteriurs delicts da tal gener.[^19-1]
+
+<sup>1bis</sup> Questa mesira po er vegnir ordinada, sch’il delinquent è penalmain irresponsabel u ha ina responsabladad penala reducida tenor l’artitgel 19 alineas 1 e 2 dal Cudesch penal[^19-2].[^19-3]
 
 <sup>2</sup> La privaziun administrativa dal dretg d’ir a pestga tras l’autoritad chantunala cumpetenta resta resalvada.
+
+[^19-1]: Versiun tenor la cifra I 13 da la LF dals 17 da dec. 2021 davart l’adattaziun dal dretg penal accessoric al nov dretg da sancziuns, en vigur dapi il 1. da fan. 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-3]: Integrà tras la cifra I 13 da la LF dals 17 da dec. 2021 davart l’adattaziun dal dretg penal accessoric al nov dretg da sancziuns, en vigur dapi il 1. da fan. 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 20
 
@@ -413,7 +419,7 @@ L’approvaziun da la Confederaziun dovran las prescripziuns chantunalas davart:
 - b. las disposiziuns da schanetg (art. 4);
 - c. las spezias e razzas periclitadas (art. 5).
 
-<sup>2</sup> Prescripziuns cun ina durada da fin a 3 mais na dovran betg in’approvaziun.
+<sup>2</sup> Prescripziuns cun ina durada da fin 3 mais na dovran betg in’approvaziun.
 
 #### Art. 26a
 
@@ -437,7 +443,7 @@ L’approvaziun da la Confederaziun dovran las prescripziuns chantunalas davart:
 
 <sup>2.</sup> e 3. ...[^27-2]
 
-[^27-1]: [[AS 1975 2345](https://fedlex.data.admin.ch/eli/oc/1975/2345_2345_2345), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 81, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra III, [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 cifra 1]
+[^27-1]: [[AS 1975 2345](https://fedlex.data.admin.ch/eli/oc/1975/2345_2345_2345); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 81; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra III; [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 cifra 1]
 [^27-2]: Las midadas pon vegnir consultadas en la [AS 1991 2259](https://fedlex.data.admin.ch/eli/oc/1991/2259_2259_2259).
 
 #### Art. 28
@@ -452,7 +458,9 @@ L’approvaziun da la Confederaziun dovran las prescripziuns chantunalas davart:
 
 <sup>1</sup> Questa lescha è suttamessa al referendum facultativ.
 
-<sup>2</sup> Ella entra en vigur, cun resalva da l’alinea 3, il 1. da schaner
+<sup>2</sup>
+
+Ella entra en vigur, cun resalva da l’alinea 3, il 1. da schaner:
 
 - a. che suonda il termin da 2 onns suenter ch’il termin da referendum è scadì senza ch’i saja vegnì inoltrà in tal u
 - b. che suonda il termin da 2 onns suenter ch’il pievel ha acceptà la lescha.
