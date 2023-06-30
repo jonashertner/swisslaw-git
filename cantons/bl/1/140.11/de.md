@@ -4,13 +4,13 @@ number: "140.11"
 title: Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft
 short: "Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL"
 language: de
-version: 2022-04-01
-valid_until: 2023-06-30
-version_adopted: 2022-02-22
+version: 2023-07-01
+valid_until: 2024-12-31
+version_adopted: 2023-06-27
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.11"
-pdf: "https://bl.clex.ch/api/de/versions/3260/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3635/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3260/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL)
 
-Vom 19.12.2017 (Stand 01.04.2022)
+Vom 19.12.2017 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -141,9 +141,10 @@ beschliesst:
 - b. Finanzverwaltung;
 - c. Kantonales Sozialamt;
 - d. Personalamt;
-- e. Statistisches Amt;
+- e. Amt für Daten und Statistik (AfDS);
 - f. Steuerverwaltung;
-- g. Zentrale Informatik.
+- g. Zentrale Informatik;
+- h. Dienststelle Digitale Transformation (DiDiT).
 
 #### § 10
 
