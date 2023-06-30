@@ -4,11 +4,11 @@ title: "Ordinanza del 7 settembre 2018 dell'Istituto svizzero per gli agenti ter
 short: OMCF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/591"
 language: it
-version: 2021-07-01
+version: 2023-07-01
 adopted: 2018-09-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2018-591-20210701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2018-591-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20210701/it"
 
 (Ordinanza sui medicamenti complementari e fitoterapeutici, OMCF)
 
-del 7 settembre 2018 (Stato 1° luglio 2021)
+del 7 settembre 2018 (Stato 1° luglio 2023)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -993,7 +993,7 @@ Allegato 4[^t-1]
 
 ## Lista «Droghe per tisane»
 
-[^t-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch
 
 Allegato 5[^t-2]
 
@@ -1001,7 +1001,7 @@ Allegato 5[^t-2]
 
 ## Lista «Caramelle»
 
-[^t-2]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-2]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch
 
 Allegato 6[^t-3]
 
@@ -1009,7 +1009,10 @@ Allegato 6[^t-3]
 
 ## Lista SOA
 
-[^t-3]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^annex6-lvlu1-1]
+
+[^t-3]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) e 21 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
+[^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2023/220 &gt; Informazioni generali &gt; Portata del-la pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 7[^t-4]
 
@@ -1033,7 +1036,10 @@ Allegato 9[^t-6]
 
 ## Lista opere di riferimento
 
-[^t-6]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^annex9-lvlu1-1]
+
+[^t-6]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) e 21 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
+[^annex9-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2023/220 &gt; Informazioni generali &gt; Portata del-la pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 10[^t-7]
 
@@ -1041,4 +1047,7 @@ Allegato 10[^t-7]
 
 ## Lista STA
 
-[^t-7]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^annex10-lvlu1-1]
+
+[^t-7]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) e 21 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
+[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2023/220 &gt; Informazioni generali &gt; Portata del-la pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

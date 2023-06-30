@@ -4,11 +4,11 @@ title: "Ordonnance du 7 septembre 2018 de l'Institut suisse des produits thérap
 short: OAMédcophy
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/591"
 language: fr
-version: 2021-07-01
+version: 2023-07-01
 adopted: 2018-09-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-591-20210701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-591-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20210701/fr"
 
 (Ordonnance sur les médicaments complémentaires et les phytomédicaments, OAMédcophy)
 
-du 7 septembre 2018 (Etat le 1<sup>er</sup> juillet 2021)
+du 7 septembre 2018 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil de l’Institut suisse des produits thérapeutiques (Conseil de l’institut),
 
@@ -1009,7 +1009,10 @@ Annexe 6[^t-3]
 
 ## Liste SHA
 
-[^t-3]: Le texte de la présente annexe n’est publié ni au RO ni au RS ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^annex6-lvlu1-1]
+
+[^t-3]: Mise à jour par le ch. I des O du Conseil de l’institut du 7 mai 2021 ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) et du 21 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
+[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/220](https://fedlex.data.admin.ch/eli/oc/2023/220) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-4]
 
@@ -1033,7 +1036,10 @@ Annexe 9[^t-6]
 
 ## Liste des ouvrages de référence
 
-[^t-6]: Le texte de la présente annexe n’est publié ni au RO ni au RS ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^annex9-lvlu1-1]
+
+[^t-6]: Mise à jour par le ch. I des O du Conseil de l’institut du 7 mai 2021 ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) et du 21 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
+[^annex9-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2023/220 &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 10[^t-7]
 
@@ -1041,4 +1047,7 @@ Annexe 10[^t-7]
 
 ## Liste SAT
 
-[^t-7]: Le texte de la présente annexe n’est publié ni au RO ni au RS ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^annex10-lvlu1-1]
+
+[^t-7]: Mise à jour par le ch. I des O du Conseil de l’institut du 7 mai 2021 ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) et du 21 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
+[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/220](https://fedlex.data.admin.ch/eli/oc/2023/220) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
