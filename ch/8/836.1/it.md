@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1952 sugli assegni familiari nell'agricoltu
 short: LAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230101/it"
 
 (LAF)[^t-1]
 
-del 20 giugno 1952 (Stato 1° gennaio 2023)
+del 20 giugno 1952 (Stato 1° luglio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1979, in vigore dal 1° apr. **1980** (RU 1980 276 280; [FF 1979 II 693](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Secondo la medesima disp. i titoli marginali diventano titoli centrali.
 
@@ -296,19 +296,9 @@ Le spese derivanti dal versamento degli assegni familiari agli agricoltori indip
 
 #### Art. 20
 
-**Accantonamento per gli assegni familiari ai lavoratori agricoli e agli agricoltori indipendenti[^20-1]**
+[^20-1]
 
-<sup>1</sup> Un accantonamento per gli assegni familiari ai lavoratori agricoli e agli agricoltori indipendenti è costituito mediante prelevamento di un terzo del Fondo previsto dall’articolo 1 capoverso 1 lettera c del decreto federale del 24 marzo 1947[^20-2] che istituisce speciali fondi prelevati dalle entrate dei fondi centrali di compensazione.[^20-3]
-
-<sup>2</sup> L’accantonamento è remunerato da interessi.[^20-4]
-
-<sup>3</sup> ...[^20-5]
-
-[^20-1]: Nuovo testo giusta il n. I 14 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^20-2]: CS **5** 807; [RU 1954 460](https://fedlex.data.admin.ch/eli/oc/1954/564_578_460)
-[^20-3]: Nuovo testo giusta il n. I 14 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^20-4]: Nuovo testo giusta il n. I 14 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^20-5]: Abrogato dal n. II 27 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^20-1]: Abrogato dal n. I della LF del 30 set. 2022, con effetto 1° lug. 2023 ([RU 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
 
 #### Art. 21
 
@@ -316,9 +306,10 @@ Le spese derivanti dal versamento degli assegni familiari agli agricoltori indip
 
 <sup>1</sup> I contributi dei Cantoni sono calcolati in base all’importo degli assegni familiari pagati nel Cantone.
 
-<sup>2</sup> Il Consiglio federale riduce proporzionalmente i contributi dei Cantoni mediante il versamento di cui all’articolo 20 capoverso 2.
+<sup>2</sup> ...[^21-2]
 
 [^21-1]: Nuovo testo giusta il n. II 27 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^21-2]: Abrogato dal n. I della LF del 30 set. 2022, con effetto 1° lug. 2023 ([RU 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
 
 ## IV. Contenzioso e disposizioni penali
 
@@ -413,7 +404,20 @@ A complemento della presente legge, i Cantoni possono stabilire assegni più ele
 [^25-4]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-6]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^25-7]: Attualmente art. 49b.
+[^25-7]: Attualmente art. 49*b*.
+
+#### Art. 25a
+
+**Disposizione transitoria della modifica del 30 settembre 2022**[^25a-1]
+
+<sup>1</sup> L’accantonamento per gli assegni familiari ai lavoratori agricoli e agli agricoltori indipendenti di cui al previgente articolo 20 capoverso 1[^25a-2] è sciolto all’entrata in vigore della presente modifica.
+
+<sup>2</sup> Le risorse dell’accantonamento sono versate ai Cantoni senza interessi entro due anni dall’entrata in vigore della presente modifica.
+
+<sup>3</sup> La quota delle risorse dell’ֹaccantonamento destinata ai singoli Cantoni è calcolata in funzione degli importi degli assegni familiari nell’agricoltura pagati nel Cantone nei cinque anni precedenti l’entrata in vigore della presente modifica.
+
+[^25a-1]: Introdotto dal n. I della LF del 30 set. 2022, in vigore dal 1° lug. 2023 ([RU 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
+[^25a-2]: [RU 1952 839](https://fedlex.data.admin.ch/eli/oc/1952/823_843_839)
 
 #### Art. 26
 

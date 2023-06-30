@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 1952 über die Familienzulagen in der Landwirts
 short: FLG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230101/de"
 
 (FLG)[^t-1]
 
-vom 20. Juni 1952 (Stand am 1. Januar 2023)
+vom 20. Juni 1952 (Stand am 1. Juli 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -297,17 +297,9 @@ Die Aufwendungen für die Ausrichtung von Familienzulagen an selbstständigerwer
 
 #### Art. 20
 
-**Rückstellung für die Familienzulagen an landwirtschaftliche Arbeitnehmer und selbstständigerwerbende Landwirte**
+[^20-1]
 
-<sup>1</sup> Zur Bildung einer Rückstellung für die Familienzulagen an landwirtschaftliche Arbeitnehmer und selbstständigerwerbende Landwirte wird ein Drittel des Fonds gemäss Artikel 1 Absatz 1 Buchstabe *c* des Bundesbeschlusses vom 24. März 1947[^20-1] über die Errichtung von besonderen Fonds aus den Einnahmen der zentralen Ausgleichsfonds der Lohn- und Verdienstersatzordnung ausgeschieden.
-
-<sup>2</sup> Die Rückstellung wird verzinst.[^20-2]
-
-<sup>3</sup> …[^20-3]
-
-[^20-1]: [[AS 63 228](https://fedlex.data.admin.ch/eli/oc/63/228_229_235), [1954 564](https://fedlex.data.admin.ch/eli/oc/1954/564_578_460). [AS 2008 3455](https://fedlex.data.admin.ch/eli/oc/2008/448)Ziff. I 14].
-[^20-2]: Fassung gemäss Ziff. I 14 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^20-3]: Aufgehoben durch Ziff. II 27 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^20-1]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2022, mit Wirkung seit 1. Juli 2023 ([AS 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [BBl 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
 
 #### Art. 21
 
@@ -315,9 +307,10 @@ Die Aufwendungen für die Ausrichtung von Familienzulagen an selbstständigerwer
 
 <sup>1</sup> Die Beiträge der Kantone werden nach Massgabe der im Kanton ausbezahlten Familienzulagen berechnet.
 
-<sup>2</sup> Der Bundesrat setzt die Beiträge der Kantone mittels der Einlage nach Artikel 20 Absatz 2 proportional herab.
+<sup>2</sup> …[^21-2]
 
 [^21-1]: Fassung gemäss Ziff. II 27 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^21-2]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2022, mit Wirkung seit 1. Juli 2023 ([AS 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [BBl 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
 
 ## IV. Rechtspflege und Strafbestimmungen
 
@@ -414,6 +407,19 @@ Die Kantone können in Ergänzung zu diesem Gesetz höhere und andere Zulagen fe
 [^25-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-6]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-7]: Siehe heute: Art. 49*b*.
+
+#### Art. 25a
+
+**Übergangsbestimmungen zur Änderung vom 30. September 2022**[^25a-1]
+
+<sup>1</sup> Die Rückstellung nach dem bisherigen Artikel 20 Absatz 1[^25a-2] für die Familienzulagen an landwirtschaftliche Arbeitnehmer und selbstständigerwerbende Landwirte wird mit Inkrafttreten der Änderung vom 30. September 2022 aufgelöst.
+
+<sup>2</sup> Die Mittel der Rückstellung werden ohne Verzinsung innert zwei Jahren nach Inkrafttreten dieser Änderung an die Kantone ausbezahlt.
+
+<sup>3</sup> Die Anteile der Kantone an den Mitteln der Rückstellung bemessen sich nach den im Kanton in den letzten fünf Jahren vor Inkrafttreten dieser Änderung ausgerichteten Familienzulagen in der Landwirtschaft.
+
+[^25a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022, in Kraft seit 1. Juli 2023 ([AS 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [BBl 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
+[^25a-2]: [AS 1952 823](https://fedlex.data.admin.ch/eli/oc/1952/823_843_839)
 
 #### Art. 26
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1952 sur les allocations familiales dans l'agr
 short: LFA
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230101/fr"
 
 (LFA)[^t-1]
 
-du 20 juin 1952 (État le 1<sup>er</sup> janvier 2023)
+du 20 juin 1952 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1979, en vigueur depuis le 1<sup>er</sup> avr. 1980 ([RO 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)280; [FF 1979 II 737](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -64,24 +64,25 @@ Les membres de la famille de l’exploitant qui travaillent dans l’exploitatio
 - a. des parents de l’exploitant en ligne directe, ascendante ou descendante;
 - b. des gendres ou des brus de l’exploitant, qui, selon toute vraisemblance, reprendront l’entreprise pour l’exploiter personnellement.
 
-<sup>3</sup> Les travailleurs agricoles n’ont droit à l’allocation de ménage que s’ils séjournent en Suisse avec leur famille (art. 13, al. 2, LPGA[^1a-2]). L’octroi de l’allocation pour enfant et de l’allocation de formation professionnelle, en faveur des enfants vivant à l’étranger est réglé conformément à l’art. 4, al. 3, de la loi du 24 mars 2006 sur les allocations familiales (LAFam)[^1a-3].[^1a-4]
+<sup>3</sup> Les travailleurs agricoles n’ont droit à l’allocation de ménage que s’ils séjournent en Suisse avec leur famille (art. 13, al. 2, LPGA[^1a-2]). L’octroi de l’allocation pour enfant et de l’allocation de formation[^1a-3], en faveur des enfants vivant à l’étranger est réglé conformément à l’art. 4, al. 3, de la loi du 24 mars 2006 sur les allocations familiales (LAFam)[^1a-4].[^1a-5]
 
 <sup>4</sup> Le Conseil fédéral édicte des dispositions précisant les notions d’exploitation agricole et de travailleur agricole.
 
 [^1a-1]: Introduit par l’annexe ch. 15 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510);[FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^1a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1a-3]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^1a-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^1a-3]: Nouvelle expression selon le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1a-4]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^1a-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
 #### Art. 2
 
 **Genres d’allocation et montants[^2-1]**
 
-<sup>1</sup> Les allocations familiales versées aux travailleurs agricoles consistent en une allocation de ménage, ainsi qu’une allocation pour enfant et une allocation de formation professionnelle au sens de l’art. 3, al. 1, LAFam[^2-2].[^2-3]
+<sup>1</sup> Les allocations familiales versées aux travailleurs agricoles consistent en une allocation de ménage, ainsi qu’une allocation pour enfant et une allocation de formation au sens de l’art. 3, al. 1, LAFam[^2-2].[^2-3]
 
 <sup>2</sup> L’allocation de ménage est de 100 francs par mois.[^2-4]
 
-<sup>3</sup> Les montants de l’allocation pour enfant et de l’allocation de formation professionnelle correspondent aux montants minimaux fixés à l’art. 5, al. 1 et 2, LAFam; ils sont toutefois supérieurs de 20 francs en zone de montagne.[^2-5]
+<sup>3</sup> Les montants de l’allocation pour enfant et de l’allocation de formation correspondent aux montants minimaux fixés à l’art. 5, al. 1 et 2, LAFam; ils sont toutefois supérieurs de 20 francs en zone de montagne.[^2-5]
 
 <sup>4</sup> ...[^2-6]
 
@@ -157,7 +158,7 @@ L’attribution des exploitations à la région de montagne est régie par les d
 
 **Genres d’allocations et montants**[^7-1]
 
-Les allocations familiales versées aux agriculteurs indépendants se composent de l’allocation pour enfant et de l’allocation de formation professionnelle, au sens de l’art. 3, al. 1, LAFam[^7-2]. Les montants de ces allocations correspondent à ceux fixés à l’art. 5, al. 1 et 2, LAFam; ils sont toutefois supérieurs de 20 francs en zone de montagne.
+Les allocations familiales versées aux agriculteurs indépendants se composent de l’allocation pour enfant et de l’allocation de formation, au sens de l’art. 3, al. 1, LAFam[^7-2]. Les montants de ces allocations correspondent à ceux fixés à l’art. 5, al. 1 et 2, LAFam; ils sont toutefois supérieurs de 20 francs en zone de montagne.
 
 [^7-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51)[6255](https://fedlex.data.admin.ch/eli/oc/2008/850);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^7-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
@@ -174,7 +175,7 @@ Les allocations familiales dues aux agriculteurs indépendants peuvent être com
 
 #### Art. 9
 
-**Allocation pour enfant et allocation de formation professionnelle**[^9-1]
+**Allocation pour enfant et allocation de formation**[^9-1]
 
 <sup>1</sup> Donnent droit aux allocations prévues à l’art. 3, al. 1, LAFam[^9-2] les enfants visés à l’art. 4, al. 1, de cette loi.
 
@@ -296,17 +297,9 @@ Les dépenses résultant du versement d’allocations familiales aux agriculteur
 
 #### Art. 20
 
-**Réserve pour le régime des allocations familiales aux travailleurs agricoles et aux agriculteurs indépendants**
+[^20-1]
 
-<sup>1</sup> Une réserve pour le régime des allocations familiales aux travailleurs agricoles et aux agriculteurs indépendants est constituée par un tiers du fonds prévu à l’art. 1, al. 1, let. c, de l’arrêté fédéral du 24 mars 1947[^20-1] constituant des fonds spéciaux prélevés sur les recettes des fonds centraux de compensation.
-
-<sup>2</sup> La réserve est rémunérée.[^20-2]
-
-<sup>3</sup> ...[^20-3]
-
-[^20-1]: [RS **5** 851; [RO 1954 578](https://fedlex.data.admin.ch/eli/oc/1954/564_578_460). [RO 2008 3455](https://fedlex.data.admin.ch/eli/oc/2008/448)ch. I 14]
-[^20-2]: Nouvelle teneur selon le ch. I 14 de la LF du 17 mars 2017 sur le programme de stabilisation 2017-2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^20-3]: Abrogé par le ch. II 27 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5818; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976))
+[^20-1]: Abrogé par le ch. I de la LF du 30 sept. 2022, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
 
 #### Art. 21
 
@@ -314,9 +307,10 @@ Les dépenses résultant du versement d’allocations familiales aux agriculteur
 
 <sup>1</sup> Les contributions de chaque canton se calculent d’après le montant des allocations familiales payées dans le canton.
 
-<sup>2</sup> Le Conseil fédéral diminue proportionnellement les contributions des cantons en utilisant le versement visé à l’art. 20, al. 2.
+<sup>2</sup> ...[^21-2]
 
 [^21-1]: Nouvelle teneur selon le ch. II 27 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5818; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^21-2]: Abrogé par le ch. I de la LF du 30 sept. 2022, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
 
 ## IV. Contentieux et dispositions pénales
 
@@ -412,6 +406,19 @@ En complément de la présente loi, les cantons peuvent fixer des allocations pl
 [^25-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-6]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-7]: Voir actuellement l’art. 49*b*.
+
+#### Art. 25a
+
+**Dispositions transitoires relatives à la modification du 30 septembre 2022**[^25a-1]
+
+<sup>1</sup> La réserve pour le régime des allocations familiales aux travailleurs agricoles et aux agriculteurs indépendants visée à l’ancien art. 20, al. 1[^25a-2], est dissoute à l’entrée en vigueur de la modification du 30 septembre 2022.
+
+<sup>2</sup> Les fonds de la réserve sont versés aux cantons sans intérêt dans les deux ans qui suivent l’entrée en vigueur de cette modification.
+
+<sup>3</sup> La part de chaque canton aux fonds de la réserve est calculée proportionnellement aux allocations familiales dans l’agriculture versées dans le canton durant les cinq ans précédant l’entrée en vigueur de cette modification.
+
+[^25a-1]: Introduit par le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
+[^25a-2]: [RO 1952 843](https://fedlex.data.admin.ch/eli/oc/1952/823_843_839)
 
 #### Art. 26
 
