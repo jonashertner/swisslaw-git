@@ -4,11 +4,11 @@ title: "Ordonnance de l'IPI du 14 juin 2016 sur les taxes (OTa-IPI)"
 short: OTa-IPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: fr
-version: 2021-12-01
+version: 2023-07-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-777-20211201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-777-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20211201/fr"
 
 (OTa-IPI)
 
-du 14 juin 2016 (Etat le 1<sup>er</sup> décembre 2021)
+du 14 juin 2016 (État le 1<sup>er</sup> juillet 2023)
 
-Approuvée par le Conseil fédéral le 18 août 2021
+Approuvée par le Conseil fédéral le 16 décembre 2022
 
 L’Institut Fédéral de la Propriété Intellectuelle (IPI),
 
@@ -129,6 +129,14 @@ Les taxes doivent être payées en francs suisses:
 
 <sup>2</sup> La disposition transitoire figurant à l’al. 1 s’applique par analogie aux futures modifications des modalités de paiement et du montant des taxes.
 
+#### Art. 11a
+
+**Disposition transitoire relative à la modification du 23 juin 2022**[^11a-1]
+
+Le montant de la taxe de prolongation pour les enregistrements de marque qui arrivent à échéance avant le 1<sup>er</sup> juillet 2024 est régi par l’ancien droit.
+
+[^11a-1]: Introduit par le ch. I de l’O de l’IPI du 23 juin 2022, approuvée par le CF le 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> juil 2023 ([RO 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
+
 #### Art. 12
 
 **Abrogation d’un autre acte**
@@ -143,30 +151,30 @@ Le règlement du 28 avril 1997 sur les taxes de l’Institut Fédéral de la Pro
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2017.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 3, al. 1 et 2, et 6, al. 1)
 
 ## Tarif des taxes
 
-[^t-1]: Mise à jour selon le ch. I des O de l’IPI du 13 juin 2018, approuvé par le CF le 21 sept. 2018 ([RO 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), du 31 oct. 2018, approuvé par le CF le 17 avr. 2019 ([RO 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)) et du 22 mars 2021, approuvée par le CF le 18 août 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)).
+[^t-1]: Mise à jour par le ch. I des O de l’IPI du 13 juin 2018, approuvé par le CF le 21 sept. 2018 ([RO 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), du 31 oct. 2018, approuvé par le CF le 17 avr. 2019 ([RO 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), du 22 mars 2021, approuvée par le CF le 18 août 2021 ([RO 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)) et le ch. II de l’O de l’IPI du 23 juin 2022, approuvée par le CF le 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> juil 2023 ([RO 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
 
 ### 1. Taxes perçues en matière de marques et d’indications géographiques
 
 <table>
 <tr><th>Article</th><th></th><th>Description de la taxe</th><th>Code</th><th>Fr.</th></tr>
-<tr><td>Art. 28, al. 3 Art. 18, al. 1</td><td>LPM[^annexu1-lvlu1-lvl1-1] OPM[^annexu1-lvlu1-lvl1-2]</td><td>Taxe de dépôt</td><td>1000</td><td>550.–</td></tr>
+<tr><td>Art. 28, al. 3 Art. 18, al. 1</td><td>LPM[^annexu1-lvlu1-lvl1-1] OPM[^annexu1-lvlu1-lvl1-2]</td><td>Taxe de dépôt</td><td>1000</td><td>450.–</td></tr>
 <tr><td>Art. 18, al. 2</td><td>OPM</td><td>Surtaxe pour classe supplémentaire</td><td>1100</td><td>100.–</td></tr>
 <tr><td>Art. 18*a*</td><td>OPM</td><td>Taxe pour procédure d’examen accélérée</td><td>1200</td><td>400.–</td></tr>
 <tr><td>Art. 31, al. 2</td><td>LPM</td><td>Taxe d’opposition</td><td>1300</td><td>800.–</td></tr>
-<tr><td>Art. 10, al. 2 Art. 26, al. 4</td><td>LPM OPM</td><td>Taxe de prolongation</td><td>1400</td><td>700.–</td></tr>
+<tr><td>Art. 10, al. 2 Art. 26, al. 4</td><td>LPM OPM</td><td>Taxe de prolongation</td><td>1400</td><td>550.–</td></tr>
 <tr><td>Art. 26, al. 5</td><td>OPM</td><td>[tab] Surtaxe pour paiement après l’échéance de l’enregistrement</td><td>1450</td><td>50.–</td></tr>
 <tr><td>Art. 17*a*</td><td>OPM</td><td>Taxe de poursuite de la procédure</td><td>1500</td><td>100.–</td></tr>
 <tr><td>Art. 45, al. 2 Art. 47, al. 4</td><td>LPM OPM</td><td>Taxe nationale pour une demande d’enregistrement international</td><td>1600</td><td>100.–</td></tr>
 <tr><td>Art. 50*f*, let. c</td><td>LPM</td><td>Taxe pour la demande de refus des effets en Suisse d’un enregistrement international</td><td>1650</td><td>800.–</td></tr>
 <tr><td>Art. 50f, let. d</td><td>LPM</td><td>Taxe pour la demande d’une période de transition</td><td>1660</td><td>800.–</td></tr>
 <tr><td>Art. 45, al. 2 Art. 8, al. 7</td><td>LPM PM[^annexu1-lvlu1-lvl1-3]</td><td>Taxe individuelle pour la désignation de la Suisse</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>– pour trois classes</td><td>1700</td><td>450.–</td></tr>
+<tr><td></td><td></td><td>– pour trois classes</td><td>1700</td><td>400.–</td></tr>
 <tr><td></td><td></td><td>– pour chaque classe supplémentaire</td><td>1730</td><td>50.–</td></tr>
 <tr><td></td><td></td><td>Taxe individuelle pour le renouvellement</td><td>1760</td><td>500.–</td></tr>
 <tr><td>Art. 35*a*, al. 3</td><td>LPM</td><td>Taxe de radiation</td><td>1800</td><td>800.–</td></tr>
@@ -177,9 +185,9 @@ Annexe*[^t-1]*
 </table>
 
 [^annexu1-lvlu1-lvl1-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^annexu1-lvlu1-lvl1-2]: Ordonnance du 23 décembre 1992 sur la protection des marques et des indications de provenance ([RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)).
-[^annexu1-lvlu1-lvl1-3]: Protocole du 27 juin 1989 relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques ([RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)).
-[^annexu1-lvlu1-lvl1-4]: Ordonnance du 2 septembre 2015 sur les AOP et les IGP non agricoles ([RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)).
+[^annexu1-lvlu1-lvl1-2]: Ordonnance du 23 décembre 1992 sur la protection des marques et des indications de provenance ([RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296))
+[^annexu1-lvlu1-lvl1-3]: Protocole du 27 juin 1989 relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques ([RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350))
+[^annexu1-lvlu1-lvl1-4]: Ordonnance du 2 septembre 2015 sur les AOP et les IGP non agricoles ([RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612))
 
 ### 2. Taxes perçues en matière de designs
 
@@ -201,7 +209,7 @@ Annexe*[^t-1]*
 <tr><th>Art. 31, al. 2</th><th>LDes</th><th>Taxe de poursuite de la procédure</th><th>3700</th><th>100.–</th></tr>
 </table>
 
-[^annexu1-lvlu1-lvl2-1]: Ordonnance du 8 mars 2002 sur les designs ([RS 232.121](https://fedlex.data.admin.ch/eli/cc/2002/183)).
+[^annexu1-lvlu1-lvl2-1]: Ordonnance du 8 mars 2002 sur les designs ([RS 232.121](https://fedlex.data.admin.ch/eli/cc/2002/183))
 [^annexu1-lvlu1-lvl2-2]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
 
 ### 3. Taxes perçues en matière de brevets d’invention
@@ -252,7 +260,7 @@ Annexe*[^t-1]*
 </table>
 
 [^annexu1-lvlu1-lvl3-1]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^annexu1-lvlu1-lvl3-2]: Ordonnance du 19 octobre 1977 sur les brevets ([RS 232.141](https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027)).
+[^annexu1-lvlu1-lvl3-2]: Ordonnance du 19 octobre 1977 sur les brevets ([RS 232.141](https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027))
 
 ### 4. Taxes perçues en vertu de la loi sur les conseils en brevets
 

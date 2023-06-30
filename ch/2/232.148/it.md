@@ -4,11 +4,11 @@ title: "Ordinanza dell'IPI del 14 giugno 2016 sulle tasse (OTa-IPI)"
 short: OTa-IPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: it
-version: 2021-12-01
+version: 2023-07-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2016-777-20211201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2016-777-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20211201/it"
 
 (OTa-IPI)
 
-del 14 giugno 2016 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
+del 14 giugno 2016 (Stato 1° luglio 2023)
 
 Approvata dal Consiglio federale il 2 dicembre 2016
 
@@ -129,6 +129,14 @@ Le tasse devono essere pagate in franchi svizzeri:
 
 <sup>2</sup> La disposizione transitoria di cui al capoverso 1 si applica per analogia anche in caso di successive modifiche delle modalità di pagamento e dell’ammontare delle tasse.
 
+#### Art. 11a
+
+**Disposizione transitoria della modifica del 23 giugno 2022**[^11a-1]
+
+L’ammontare della tassa di proroga per le registrazioni di marchi la cui validità scade prima del 1° luglio 2024 è stabilito secondo il diritto anteriore.
+
+[^11a-1]: Introdotto dal n. I dell’O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022, in vigore dal 1° lug. 2023 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
+
 #### Art. 12
 
 **Abrogazione di un altro atto normativo**
@@ -143,30 +151,30 @@ Il regolamento del 28 aprile 1997[^12-1] sulle tasse dell’Istituto federale de
 
 La presente ordinanza entra in vigore il 1° gennaio 2017.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 3 cpv. 1 e 2, nonché 6 cpv. 1)
 
 ## Tariffe delle tasse
 
-[^t-1]: Aggiornato dai n. I delle O dell’IPI del 13 giu. 2018, approvata dal CF il 21 set. 2018 ([RU 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), del 31 ott. 2018, approvata dal CF il 17 apr. 2019 ([RU 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)) e del 22 mar. 2021, approvata dal CF il 18 ago. 2021, in vigore dal 1° dec. 2021 ([RU 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)).
+[^t-1]: Aggiornato dai n. I delle O dell’IPI del 13 giu. 2018, approvata dal CF il 21 set. 2018 ([RU 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), del 31 ott. 2018, approvata dal CF il 17 apr. 2019 ([RU 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), del 22 mar. 2021, approvata dal CF il 18 ago. 2021 ([RU 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)) e dal n. II dell’O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022, in vigore dal 1° lug. 2023 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
 
 ### 1. Tasse riscosse in materia di marchi e indicazioni geografiche
 
 <table>
 <tr><th>Articolo</th><th></th><th>Descrizione</th><th>Codice</th><th>Fr.</th></tr>
-<tr><td>Art. 28 cpv. 3 Art. 18 cpv. 1</td><td>LPM[^annexu1-lvlu1-lvl1-1] OPM[^annexu1-lvlu1-lvl1-2]</td><td>Tassa di deposito</td><td>1000</td><td>550.–</td></tr>
+<tr><td>Art. 28 cpv. 3 Art. 18 cpv. 1</td><td>LPM[^annexu1-lvlu1-lvl1-1] OPM[^annexu1-lvlu1-lvl1-2]</td><td>Tassa di deposito</td><td>1000</td><td>450.–</td></tr>
 <tr><td>Art. 18 cpv. 2</td><td>OPM</td><td>Soprattassa per ogni classe supplementare</td><td>1100</td><td>100.–</td></tr>
 <tr><td>Art. 18*a*</td><td>OPM</td><td>Tassa per la procedura d’esame accelerata</td><td>1200</td><td>400.–</td></tr>
 <tr><td>Art. 31 cpv. 2</td><td>LPM</td><td>Tassa di opposizione</td><td>1300</td><td>800.–</td></tr>
-<tr><td>Art. 10 cpv. 2 Art. 26 cpv. 4</td><td>LPM OPM</td><td>Tassa di proroga</td><td>1400</td><td>700.–</td></tr>
+<tr><td>Art. 10 cpv. 2 Art. 26 cpv. 4</td><td>LPM OPM</td><td>Tassa di proroga</td><td>1400</td><td>550.–</td></tr>
 <tr><td>Art. 26 cpv. 5</td><td>OPM</td><td>[tab] Soprattassa in caso di pagamento dopo la scadenza della registrazione</td><td>1450</td><td>50.–</td></tr>
 <tr><td>Art. 17*a*</td><td>OPM</td><td>Tassa per il proseguimento della procedura</td><td>1500</td><td>100.–</td></tr>
 <tr><td>Art. 45 cpv. 2 Art. 47 cpv. 4</td><td>LPM OPM</td><td>Tassa nazionale per la richiesta di una registrazione internazionale</td><td>1600</td><td>100.–</td></tr>
 <tr><td>Art. 50f lett. c</td><td>LPM</td><td>Tassa per la domanda di rifiuto degli effetti di una registrazione internazionale in Svizzera</td><td>1650</td><td>800.–</td></tr>
 <tr><td>Art. 50f lett. d</td><td>LPM</td><td>Tassa per la domanda di concessione di un periodo di transizione</td><td>1660</td><td>800.–</td></tr>
 <tr><td>Art. 45 cpv. 2 Art. 8 cpv. 7</td><td>LPM PM[^annexu1-lvlu1-lvl1-3]</td><td>Tassa individuale per la designazione della Svizzera</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>– per tre classi</td><td>1700</td><td>450.–</td></tr>
+<tr><td></td><td></td><td>– per tre classi</td><td>1700</td><td>400.–</td></tr>
 <tr><td></td><td></td><td>– per ogni classe supplementare</td><td>1730</td><td>50.–</td></tr>
 <tr><td></td><td></td><td>Tassa individuale per il rinnovo</td><td>1760</td><td>500.–</td></tr>
 <tr><td>Art. 35*a* cpv. 3</td><td>LPM</td><td>Tassa di cancellazione</td><td>1800</td><td>800.–</td></tr>
@@ -177,8 +185,8 @@ Allegato*[^t-1]*
 </table>
 
 [^annexu1-lvlu1-lvl1-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^annexu1-lvlu1-lvl1-2]: O del 23 dic. 1992 sulla protezione dei marchi e delle indicazioni di provenienza ([RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)).
-[^annexu1-lvlu1-lvl1-3]: Prot. del 27 giu. 1989 relativo all’Accordo di Madrid per la registrazione internazionale dei marchi ([RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)).
+[^annexu1-lvlu1-lvl1-2]: O del 23 dicembre 1992 sulla protezione dei marchi e delle indicazioni di provenienza ([RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296))
+[^annexu1-lvlu1-lvl1-3]: Prot. del 27 giugno 1989 relativo all’Accordo di Madrid per la registrazione internazionale dei marchi ([RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350))
 [^annexu1-lvlu1-lvl1-4]: O DOP/IGP per prodotti non agricoli, del 2 set. 2015 ([RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)).
 
 ### 2. Tasse riscosse in materia di design
