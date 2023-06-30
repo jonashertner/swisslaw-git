@@ -4,13 +4,13 @@ number: "770.11"
 title: Energiereglement
 short: EnR
 language: de
-version: 2023-03-01
-valid_until: 2023-06-30
-version_adopted: 2023-02-14
+version: 2023-07-01
+valid_until: 2024-12-31
+version_adopted: 2023-06-20
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7731/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7780/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Energie – R
 
 (EnR)
 
-vom 05.11.2019 (Fassung in Kraft getreten am 01.03.2023)
+vom 05.11.2019 (Fassung in Kraft getreten am 01.07.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -459,6 +459,24 @@ beschliesst:
 - f) Lüftungs- und Klimaanlagen (Art. 16 EnGe);
 - g) Wärmerückgewinnung (Art. 17 EnGe);
 - h) Elektrizitätserzeugung (Art. 19 EnGe).
+
+## 9a Beleuchtung
+
+#### Art. 34a
+
+**Öffentliche Beleuchtung (Art. 5 Abs. 7 EnGe)**
+
+<sup>1</sup> Zwischen Mitternacht und fünf Uhr morgens praktizieren der Staat und die Gemeinden eine vollständige oder dynamische Nachtabschaltung der öffentlichen Beleuchtung.
+
+<sup>2</sup> Ausnahmen von der Pflicht zur Nachtabschaltung zwischen Mitternacht und fünf Uhr morgens sind möglich, sofern sie auf der Gesetzgebung des Bundes oder des Kantons, insbesondere auf Artikel 84 des Mobilitätsgesetzes vom 5. November 2021, beruhen und im Zusammenhang mit der Sicherheit von Personen oder Sachen stehen. In Zonen, in denen die Artenvielfalt empfindlich auf Lichtverschmutzung reagiert, wird ihrem Schutz besondere Beachtung geschenkt. Das Amt entscheidet über die Gewährung einer Ausnahme.
+
+<sup>3</sup> Die Gemeinden setzen die in Artikel 5 Abs. 7 EnGe vorgesehene Pflicht zur Nachtabschaltung ab Inkrafttreten der Änderung vom 20. Juni 2023 um, sofern die technischen Bedingungen dies erlauben, spätestens jedoch bis Ende Dezember 2028.
+
+#### Art. 34b
+
+**Himmelwärts strahlende Beleuchtung und Zeiten des Vogelzugs (Art. 15a Abs. 4 EnGe)**
+
+<sup>1</sup> Die Zeiten des Vogelzugs erstrecken sich vom 10. Februar bis 31. Mai und vom 2. August bis 10. November des gleichen Jahres.
 
 ## 10 Vorbildfunktion öffentlicher Körperschaften
 

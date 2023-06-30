@@ -4,13 +4,13 @@ number: "770.11"
 title: "Règlement sur l'énergie"
 short: REn
 language: fr
-version: 2023-03-01
-valid_until: 2023-06-30
-version_adopted: 2023-02-14
+version: 2023-07-01
+valid_until: 2024-12-31
+version_adopted: 2023-06-20
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7731/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7780/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Energie – R
 
 (REn)
 
-du 05.11.2019 (version entrée en vigueur le 01.03.2023)
+du 05.11.2019 (version entrée en vigueur le 01.07.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -459,6 +459,24 @@ Arrête:
 - f) ventilation et climatisation (art. 16 LEn);
 - g) récupération de chaleur (art. 17 LEn);
 - h) production d'électricité (art. 19 LEn).
+
+## 9a Eclairage
+
+#### Art. 34a
+
+**Eclairage public (art. 5 al. 7 LEn)**
+
+<sup>1</sup> Entre minuit et cinq heures du matin, l'Etat et les communes pratiquent l'extinction nocturne complète ou dynamique de l'éclairage public.
+
+<sup>2</sup> Des exceptions à l'obligation d'extinction entre minuit et cinq heures du matin sont possibles pour autant qu'elles ressortent de la législation fédérale ou cantonale, notamment de l'article 84 de la loi du 5 novembre 2021 sur la mobilité, et qu'elles soient liées à la sécurité des biens ou des personnes. La préservation de la biodiversité est prise en compte dans les zones où celle-ci est sensible à la pollution lumineuse. Les demandes d'exception font l'objet d'une décision du Service.
+
+<sup>3</sup> Les communes doivent mettre en œuvre l'obligation d'extinction prévue à l'article 5 al. 7 LEn dès l'entrée en vigueur de la modification du 20 juin 2023 si les conditions techniques le permettent, mais au plus tard à la fin décembre 2028.
+
+#### Art. 34b
+
+**Eclairage vers le ciel et périodes migratoires (art. 15a al. 4 LEn)**
+
+<sup>1</sup> Les périodes migratoires s'étendent du 10 février au 31 mai et du 2 août au 10 novembre de la même année.
 
 ## 10 Politique d'exemplarité des collectivités publiques
 
