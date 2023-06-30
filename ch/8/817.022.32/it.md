@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sull'aggiunta di vitamine, sali m
 short: OAVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: it
-version: 2023-01-09
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230109/it/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230109-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/it"
 
 (OAVM)
 
-del 16 dicembre 2016 (Stato 9 gennaio 2023)
+del 16 dicembre 2016 (Stato 1° luglio 2023)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 10 capoverso 4 lettera a, 25 capoverso 2, 26 capoverso 3 e 36
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 1
 
@@ -49,10 +49,10 @@ La presente ordinanza non si applica:
 
 <sup>4</sup> Sono fatte salve le disposizioni concernenti le singole derrate alimentari.
 
-[^1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^1-2]: [RS 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
+[^1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^1-2]: [RS 817.022.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9675)
 [^1-3]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
-[^1-4]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^1-4]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 2
 
@@ -86,7 +86,7 @@ Su richiesta motivata, l’Ufficio federale della sicurezza alimentare e di vete
 - b. il consumatore non è ingannato dall’utilizzazione delle sostanze e dei composti.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^2-2]: [RS 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
+[^2-2]: [RS 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
 [^2-3]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
 
 #### Art. 3
@@ -97,22 +97,20 @@ Su richiesta motivata, l’Ufficio federale della sicurezza alimentare e di vete
 
 <sup>2</sup> Sono ammessi i composti secondo l’allegato 5. Per le sostanze elencate all’allegato 5 valgono i requisiti specifici di purezza per gli additivi fissati nell’allegato del regolamento (UE) n. 231/2012[^3-1]. Per le sostanze elencate nell’allegato 5 per le quali non sono stati fissati dei requisiti di purezza valgono i requisiti di purezza riconosciuti generalmente e raccomandati dagli organismi internazionali come l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura, l’Organizzazione mondiale della sanità e le farmacopee internazionali.
 
-<sup>2</sup> <sup>bis</sup> In deroga al capoverso 2, i composti di cui all’allegato 1 ODPPE[^3-2] autorizzati per la categoria alimentare «sostituto di un’intera razione alimentare giornaliera per il controllo del peso» sono ammessi nelle derrate alimentari dotate di un’indicazione sulla salute per la categoria alimentare «sostituto di un pasto per il controllo del peso» di cui all’allegato 14 dell’ordinanza del 16 dicembre 2016[^3-3] concernente le informazioni sulle derrate alimentari (OID).[^3-4]
+<sup>2bis</sup> ...[^3-2]
 
 <sup>3</sup> Per l’impiego di colture batteriche vive si applicano le condizioni di cui all’allegato 6.
 
 [^3-1]: Regolamento (UE) n. 231/2012 della Commissione, del 9 marzo 2012, che stabilisce le specifiche degli additivi alimentari elencati negli allegati II e III del regolamento (CE) n. 1333/2008 del Parlamento europeo e del Consiglio, GU L 83 del 22.3.2012, pag. 1; modificato da ultimo dal regolamento (UE) 2015/1739, GU L 253 del 30.09.2015, pag. 3.
-[^3-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
-[^3-3]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^3-4]: Introdotto dal n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^3-2]: Introdotto dal n. I dell’O del DFI del 31 mag. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)). Abrogato dal n. I dell’O del DFI del 9 giu. 2023, con effetto dal 1° lug. 2023 ([RU 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 #### Art. 4
 
 **Quantità minime e massime**[^4-1]
 
-<sup>1</sup> L’aggiunta di vitamine, sali minerali o altre sostanze deve essere dosata in modo che sia contenuta una quantità significativa di tali sostanze. La quantità è considerata significativa quando soddisfa i requisiti di cui all’allegato 10 parte A numero 2 OID[^4-2].[^4-3]
+<sup>1</sup> L’aggiunta di vitamine, sali minerali o altre sostanze deve essere dosata in modo che sia contenuta una quantità significativa di tali sostanze. La quantità è considerata significativa quando soddisfa i requisiti di cui all’allegato 10 parte A numero 2 dell’ordinanza del DFI del 16 dicembre 2016[^4-2] concernente le informazioni sulle derrate alimentari (OID).[^4-3]
 
-<sup>2</sup> Per l’aggiunta di vitamine e sali minerali valgono per ogni razione giornaliera di cui all’allegato 7 le quantità massime di cui all’allegato 1. Si può derogare dalle quantità massime di cui all’allegato 1 se la quantità minima è utilizzata e non viene superata secondo le condizioni di utilizzo di cui all’allegato 14 OID per l’indicazione sulla salute per la categoria alimentare «sostituto di un pasto per il controllo del peso».[^4-4]
+<sup>2</sup> Per l’aggiunta di vitamine e sali minerali valgono per ogni razione giornaliera di cui all’allegato 7 le quantità massime di cui all’allegato 1.[^4-4]
 
 3 Per l’aggiunta di altre sostanze che hanno effetti nutrizionali o fisiologici valgono per ogni razione giornaliera di cui all’allegato 7 le quantità massime di cui all’allegato 2.
 
@@ -121,14 +119,14 @@ Su richiesta motivata, l’Ufficio federale della sicurezza alimentare e di vete
 <sup>5</sup> Nell’aggiunta di colture batteriche vive devono essere contenute almeno 10<sup>8</sup> UFC[^4-5] nella razione giornaliera secondo l’allegato 7.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^4-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^4-3]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^4-3]: Nuovo testo giusta il n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 [^4-5]: UFC = unità formanti colonia
 
-#### <sup>Art. 5</sup>
+#### Art. 5
 
-**<sup>Aggiunte al sale commestibile</sup>**
+**Aggiunte al sale commestibile**
 
 <sup>1</sup> Al sale commestibile possono essere aggiunti fluoruri, ioduri o iodati, sempre che ciò sia indicato per motivi di salute pubblica.
 
@@ -164,7 +162,7 @@ Per quanto riguarda il sale commestibile sono ammesse le seguenti indicazioni:
 
 [^6-1]: ICSP; www.the-icsp.org
 [^6-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^6-3]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^6-3]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 7
 
@@ -200,16 +198,16 @@ La presente ordinanza entra in vigore il 1° maggio 2017.
 
 Allegato 1[^t-1]
 
-(art. 2 cpv. 2 lett. a e 5 nonché 4 cpv. 1 e 2)
+(art. 2 cpv. 2 lett. a e 5 nonché 4 cpv. 2)
 
 ## Vitamine e sali minerali che possono essere aggiunti alle derrate alimentari
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)). Aggiornato dal n. II dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 <table>
 <tr><th>Sostanza</th><th>Quantità massima per razione giornaliera</th><th>Condizioni d’impiego</th></tr>
 <tr><td>1 Vitamine</td><td></td><td></td></tr>
-<tr><td>Vitamina A</td><td>450 µg[^annexu1-lvlu1-1] (corrisponde a 2,7 mg di beta-carotene)</td><td>Solo come beta-carotene</td></tr>
+<tr><td>Vitamina A</td><td>450 µg[^annex1-lvlu1-1] (corrisponde a 2,7 mg di beta-carotene)</td><td>Solo come beta-carotene</td></tr>
 <tr><td>Vitamina D</td><td>23 µg</td><td></td></tr>
 <tr><td>Vitamina E</td><td>68 mg</td><td></td></tr>
 <tr><td>Vitamina C</td><td>250 mg</td><td></td></tr>
@@ -239,7 +237,7 @@ Allegato 1[^t-1]
 <tr><td>Potassio</td><td>750 mg</td><td></td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Retinolo equivalente, fattore di conversione: beta-carotene = 6 × retinolo equivalente
+[^annex1-lvlu1-1]: Retinolo equivalente, fattore di conversione: beta-carotene = 6 × retinolo equivalente
 
 Allegato 2[^t-2]
 
@@ -333,7 +331,7 @@ L-ascorbato di potassio
 
 Fillochinone o fitomenadione
 
-Menachinone[^annex3-lvlu1-lvl1-1]
+Menachinone[^annex4-lvlu1-lvl1-1]
 
 **1.6** **Vitamina B****<sub>1</sub>**
 
@@ -383,7 +381,7 @@ D-pantotenato di sodio
 
 D-pantenolo
 
-[^annex3-lvlu1-lvl1-1]: Il menachinone si presenta principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
+[^annex4-lvlu1-lvl1-1]: Il menachinone si presenta principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
 
 ### 2 Sali minerali
 
@@ -415,7 +413,7 @@ Solfato di calcio
 
 Oligosaccaridi di fosforil e calcio
 
-Alghe rosse calcaree o maerl[^annex3-lvlu1-lvl2-1]
+Alghe rosse calcaree o maerl[^annex4-lvlu1-lvl2-1]
 
 **2.2** **Ferro**
 
@@ -507,7 +505,7 @@ Iodato di sodio
 
 **2.6** **Selenio**
 
-Lievito arricchito di selenio[^annex3-lvlu1-lvl2-2]
+Lievito arricchito di selenio[^annex4-lvlu1-lvl2-2]
 
 Selenato di sodio
 
@@ -577,8 +575,8 @@ Idrossido di potassio
 
 Sali di potassio dell’acido ortofosforico
 
-[^annex3-lvlu1-lvl2-1]: Alghe calcificate delle specie *Lithothamnium corallioides* e *Phymatolithon calcareum* oppure loro miscele.
-[^annex3-lvlu1-lvl2-2]: Lieviti arricchiti di selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 % e l’85 % del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non può superare il 10 % del tenore complessivo di selenio estratto. I livelli di selenio inorganico non possono superare normalmente l’1 % del tenore complessivo di selenio estratto.
+[^annex4-lvlu1-lvl2-1]: Alghe calcificate delle specie *Lithothamnium corallioides* e *Phymatolithon calcareum* oppure loro miscele.
+[^annex4-lvlu1-lvl2-2]: Lieviti arricchiti di selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 % e l’85 % del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non può superare il 10 % del tenore complessivo di selenio estratto. I livelli di selenio inorganico non possono superare normalmente l’1 % del tenore complessivo di selenio estratto.
 
 Allegato 6
 
@@ -600,14 +598,14 @@ Allegato 6
 
 Allegato 7[^t-5]
 
-(art. 4 cpv. 1–3 e 5)
+(art. 4 cpv. 2, 3 e 5)
 
 ## Razioni giornaliere
 
-[^t-5]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^t-5]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)). Aggiornato dal n. II dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 <table>
-<tr><td>Derrate alimentari</td><td>Razione giornaliera in g[^annex5-lvlu1-1]</td></tr>
+<tr><td>Derrate alimentari</td><td>Razione giornaliera in g[^annex6-lvlu1-1]</td></tr>
 <tr><td>Latte e bevande a base di latte di tutte le categorie di tenori di grasso</td><td>500</td></tr>
 <tr><td>Latti aciduli</td><td>250</td></tr>
 <tr><td>Formaggi, preparazioni di formaggi</td><td>100</td></tr>
@@ -634,7 +632,7 @@ Allegato 7[^t-5]
 <tr><td>Tè, tè di erbe e tè di frutti nonché bevande calde simili</td><td>500</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: Sono possibili divergenze, se il fabbricante può motivarle sul piano nutritivo-fisiologico.
+[^annex6-lvlu1-1]: Sono possibili divergenze, se il fabbricante può motivarle sul piano nutritivo-fisiologico.
 
 Allegato 8[^t-6]
 

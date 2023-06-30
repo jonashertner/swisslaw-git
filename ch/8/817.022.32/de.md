@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über den Zusatz von Vitaminen,
 short: VZVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: de
-version: 2023-01-09
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230109/de/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230109-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/de"
 
 (VZVM)
 
-vom 16. Dezember 2016 (Stand am 9. Januar 2023)
+vom 16. Dezember 2016 (Stand am 1. Juli 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Art. 10 Abs. 4 Bst. a, 25 Absatz 2, 26 Absatz 3 und 36 Absätz
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 1
 
@@ -49,10 +49,10 @@ Diese Verordnung gilt nicht für:
 
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen zu den einzelnen Lebensmitteln.
 
-[^1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^1-2]: [SR 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
+[^1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^1-2]: [SR 817.022.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9675)
 [^1-3]: Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
-[^1-4]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^1-4]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 2
 
@@ -72,7 +72,7 @@ Zulässig ist der Zusatz von Vitaminen, Mineralstoffen und sonstige Stoffen:
 - a.[^2-1] nach Anhang 1;
 - b. gemäss der Verordnung des EDI vom 16. Dezember 2016[^2-2] über neuartige Lebensmittel.
 
-<sup>2bis</sup> Für die sonstigen Stoffe gelten zusätzlich die Einschränkungen nach Anhang 2.[^2-3]
+<sup>2bis</sup> ...[^2-3]
 
 <sup>3</sup> Der Zusatz eines Stoffes nach Absatz 1 zu Lebensmitteln nach Anhang 3 ist verboten.
 
@@ -86,8 +86,8 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) kann auf beg
 - b. Die Konsumentinnen und Konsumenten werden durch die Verwendung der Stoffe und Verbindungen nicht getäuscht.
 
 [^2-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^2-2]: [SR 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
-[^2-3]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^2-2]: [SR 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
+[^2-3]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)). Aufgehoben durch Ziff. I der V des EDI vom 9. Juni 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 #### Art. 3
 
@@ -97,22 +97,20 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) kann auf beg
 
 <sup>2</sup> Zulässig sind die Verbindungen nach Anhang 5. Für die in Anhang 5 aufgeführten Stoffe gelten die spezifischen Reinheitskriterien, die im Anhang der Verordnung (EU) Nr. 231/2012[^3-1] für Zusatzstoffe festgelegt sind. Für die in Anhang 5 aufgeführten Stoffe, für die keine Reinheitskriterien festgelegt wurden, gelten die allgemein anerkannten Reinheitskriterien, die von internationalen Gremien, wie FAO/WHO und Internationale Pharmakopöen empfohlen werden.
 
-<sup>2bis</sup> Abweichend von Absatz 2 sind die Verbindungen gemäss Anhang 1 VLBE[^3-2], die für die Lebensmittelkategorie «Tagesration für eine gewichtskontrollierende Ernährung» zugelassenen sind, bei Lebensmitteln erlaubt, die mit einer gesundheitsbezogenen Angabe für die Lebensmittelkategorie «Mahlzeitersatz für eine gewichtskontrollierende Ernährung» gemäss Anhang 14 der Verordnung des EDI vom 16. Dezember 2016[^3-3] betreffend die Information über Lebensmittel (LIV) versehen sind.[^3-4]
+<sup>2bis</sup> …[^3-2]
 
 <sup>3</sup> Bei der Verwendung von lebenden Bakterienkulturen gelten die Anforderungen nach Anhang 6.
 
 [^3-1]: Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe, ABl. L 83 vom 22.3.2012, S. 1; zuletzt geändert durch Verordnung (EU) 2015/1739, ABl. 253 vom 30.9.2015, S. 3.
-[^3-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
-[^3-3]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^3-4]: Eingefügt durch Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^3-2]: Eingefügt durch Ziff. I der V des EDI vom 31. Mai 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)). Aufgehoben durch Ziff. I der V des EDI vom 9. Juni 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 #### Art. 4
 
 **Mindest- und Höchstmengen**[^4-1]
 
-<sup>1</sup> Der Zusatz von Vitaminen, Mineralstoffen oder sonstigen Stoffen muss so bemessen sein, dass eine signifikante Menge dieser Stoffe enthalten ist. Die Menge gilt als signifikant, wenn sie den Anforderungen von Anhang 10 Teil A Ziffer 2 LIV[^4-2] entspricht.[^4-3]
+<sup>1</sup> Der Zusatz von Vitaminen, Mineralstoffen oder sonstigen Stoffen muss so bemessen sein, dass eine signifikante Menge dieser Stoffe enthalten ist. Die Menge gilt als signifikant, wenn sie den Anforderungen von Anhang 10 Teil A Ziffer 2 der Verordnung des EDI vom 16. Dezember 2016[^4-2] betreffend die Information über Lebensmittel (LIV) entspricht.[^4-3]
 
-<sup>2</sup> Für den Zusatz von Vitaminen und Mineralstoffen gelten pro Tagesration nach Anhang 7 die Höchstmengen nach Anhang 1. Von den Höchstmengen nach Anhang 1 darf abgewichen werden, wenn die Mindestmenge verwendet und nicht überschritten wird gemäss den Verwendungsbedingungen von Anhang 14 LIV für die gesundheitsbezogene Angabe für die Lebensmittelkategorie «Mahlzeitersatz für eine gewichtskontrollierende Ernährung».[^4-4]
+<sup>2</sup> Für den Zusatz von Vitaminen und Mineralstoffen gelten pro Tagesration nach Anhang 7 die Höchstmengen nach Anhang 1.[^4-4]
 
 <sup>3</sup> Für den Zusatz sonstiger Stoffe mit ernährungsbezogener oder physiologischer Wirkung gelten pro Tagesration nach Anhang 7 die Höchstmengen nach Anhang 2.
 
@@ -121,14 +119,14 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) kann auf beg
 <sup>5</sup> Beim Zusatz von lebenden Bakterienkulturen müssen mindestens 10<sup>8</sup> KBE[^4-5] in der Tagesration nach Anhang 7 enthalten sein.
 
 [^4-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^4-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^4-3]: Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
-[^4-4]: Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-2]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^4-3]: Fassung gemäss Ziff. I der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
+[^4-4]: Fassung gemäss Ziff. I der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 [^4-5]: KBE = koloniebildende Einheiten
 
-#### <sup>Art. 5</sup>
+#### Art. 5
 
-**<sup>Zusätze zu Speisesalz</sup>**
+**Zusätze zu Speisesalz**
 
 <sup>1</sup> Speisesalz dürfen Fluoride, Iodide oder Iodate zugesetzt werden, soweit dies aus Gründen der Volksgesundheit angezeigt ist.
 
@@ -164,7 +162,7 @@ Bei Speisesalz sind folgende Hinweise zulässig:
 
 [^6-1]: ICSP; www.the-icsp.org
 [^6-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^6-3]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^6-3]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 7
 
@@ -200,11 +198,11 @@ Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
 Anhang 1[^t-1]
 
-(Art. 2 Abs. 2 Bst. a und 5 sowie 4 Abs. 1 und 2)
+(Art. 2 Abs. 2 Bst. a und 5 sowie 4 Abs. 2)
 
 ## Vitamine und Mineralstoffe, die Lebensmitteln zugesetzt werden dürfen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)). Bereinigt gemäss Ziff. II der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 <table>
 <tr><th>Stoff</th><th>Höchstmenge pro Tagesration</th><th>Verwendungsbedingungen</th></tr>
@@ -596,11 +594,13 @@ Anhang 6
   - a. *Species:* DNA-DNA Hybridisierung oder 16SrRNA Sequenzanalyse;
   - b. *Stamm:* International akzeptierte molekular-biologische Methode wie molekularbiologisches Fingerprintverfahren PFGE oder RAPD.
 
-Anhang 7
+Anhang 7[^t-5]
 
-(Art. 4 Abs. 1–3 und 5)
+(Art. 4 Abs. 2, 3 und 5)
 
 ## Tagesrationen
+
+[^t-5]: Bereinigt gemäss Ziff. II der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 <table>
 <tr><td>Lebensmittel</td><td>Tagesration in g[^annex7-lvlu1-1]</td></tr>
@@ -632,6 +632,6 @@ Anhang 7
 
 [^annex7-lvlu1-1]: Abweichungen sind möglich, wenn der Hersteller diese ernährungsphysiologisch begründen kann.
 
-Anhang 8[^t-5]
+Anhang 8[^t-6]
 
-[^t-5]: Aufgehoben durch Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^t-6]: Aufgehoben durch Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).

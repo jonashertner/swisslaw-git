@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur l'adjonction de vitamines, de
 short: OASM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: fr
-version: 2023-01-09
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230109/fr/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230109-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/fr"
 
 (OASM)
 
-du 16 décembre 2016 (État le 9 janvier 2023)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2023)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 10, al. 4, let. a, 25, al. 2, 26, al. 3, et 36, al. 3 et 4, de l’o
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 1
 
@@ -49,10 +49,10 @@ La présente ordonnance ne s’applique pas:
 
 <sup>4</sup> Les dispositions spécifiques s’appliquant aux diverses catégories de denrées alimentaires sont réservées.
 
-[^1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^1-2]: [RS 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
+[^1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^1-2]: [RS 817.022.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9675)
 [^1-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
-[^1-4]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^1-4]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 2
 
@@ -86,7 +86,7 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 - b. l’emploi des substances et composés ne peut induire le consommateur en erreur.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^2-2]: <sup>5</sup> [RS 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
+[^2-2]: <sup>5</sup> [RS 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
 [^2-3]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
 
 #### Art. 3
@@ -97,22 +97,20 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 <sup>2</sup> Les composés selon l’annexe 5 sont autorisés. Pour les substances énumérées à l’annexe 5, les critères de pureté spécifiques pour les additifs, définis dans l’annexe du règlement (UE) n° 231/2012[^3-1], sont applicables. Les critères de pureté généralement admis, recommandés par des organismes internationaux tels que l’Organisation des Nations Unies pour l’alimentation et l’agriculture ou l’Organisation mondiale de la santé et par les pharmacopées internationales s’appliquent aux substances énumérées à l’annexe 5 pour lesquelles les critères de pureté n’ont pas été définis.
 
-<sup>2bis</sup> Par dérogation à l’al. 2, les composés autorisés pour la catégorie de denrées alimentaires «Substitut de la ration journalière totale pour contrôle du poids» de l’annexe 1 de l’OBNP[^3-2] sont autorisés pour les denrées alimentaires accompagnées d’une allégation de santé pour la catégorie de denrées alimentaires «Substitut de repas pour contrôle du poids» de l’annexe 14 de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^3-3].[^3-4]
+<sup>2bis</sup> ...[^3-2]
 
 <sup>3</sup> Les exigences fixées à l’annexe 6 s’appliquent à l’utilisation des cultures de bactéries vivantes.
 
 [^3-1]: Règlement (UE) n° 231/2012 du 9 mars 2012 établissant les spécifications des additifs alimentaires énumérés aux annexes II et III du règlement (CE) n° 1333/2008 du Parlement européen et du Conseil, JO L 83 du 22.3.2012, p. 1, modifié en dernier lieu par le règlement (UE) 2015/1739, JO L 253 du 30.09.2015, p. 3.
-[^3-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
-[^3-3]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^3-4]: Introduit par le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^3-2]: Introduit par le ch. I de l’O du DFI du 31 mai 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)). Abrogé par le ch. I de l’O du DFI du 9 juin 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 #### Art. 4
 
 **Quantités minimales et quantités maximales**[^4-1]
 
-<sup>1</sup> L’adjonction de vitamines, de sels minéraux ou d’autres substances doit être calculée de telle manière que la ration journalière contienne une quantité significative de ces substances. La quantité est considérée comme significative si elle est conforme aux exigences fixées à l’annexe 10, partie A, ch. 2, OIDAl[^4-2].[^4-3]
+<sup>1</sup> L’adjonction de vitamines, de sels minéraux ou d’autres substances doit être calculée de telle manière que la ration journalière contienne une quantité significative de ces substances. La quantité est considérée comme significative si elle est conforme aux exigences fixées à l’annexe 10, partie A, ch. 2, de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^4-2].[^4-3]
 
-<sup>2</sup> Les quantités maximales de vitamines et de sels minéraux pouvant être ajoutées aux denrées alimentaires pour chaque ration journalière définie à l’annexe 7 sont fixées à l’annexe 1. Il est possible de déroger à ces quantités maximales lorsque la quantité minimale est utilisée et n’est pas dépassée, conformément aux conditions d’utilisation définies à l’annexe 14 OIDAl concernant l’allégation de santé pour la catégorie de denrées alimentaires «Substitut de repas pour contrôle du poids».[^4-4]
+<sup>2</sup> Les quantités maximales de vitamines et de sels minéraux pouvant être ajoutées aux denrées alimentaires par ration journalière définie à l’annexe 7 sont fixées à l’annexe 1.[^4-4]
 
 <sup>3</sup> Les quantités maximales d’autres substances ayant un effet nutritionnel ou physiologique pouvant être ajoutées aux denrées alimentaires par ration journalière définie à l’annexe 7 sont fixées à l’annexe 2.
 
@@ -121,9 +119,9 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 <sup>5</sup> En cas d’adjonction de cultures de bactéries vivantes, la ration journalière fixée à l’annexe 7 doit contenir au moins 10<sup>8</sup> UFC[^4-5].
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^4-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 [^4-5]: UFC = unités formant colonie
 
 #### Art. 5
@@ -164,7 +162,7 @@ Pour le sel comestible, les mentions suivantes sont admises:
 
 [^6-1]: ICSP; www.the-icsp.org
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
-[^6-3]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^6-3]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 7
 
@@ -200,11 +198,11 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
 Annexe 1[^t-1]
 
-(art. 2, al. 2, let. a, et 5, et 4, al. 1 et 2)
+(art. 2, al. 2, let. a, et 5, et 4, al. 2)
 
 ## Vitamines et sels minéraux pouvant être ajoutés aux denrées alimentaires
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)). Mise à jour par le ch. II de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 <table>
 <tr><th>Substance</th><th>Quantité maximale par ration journalière</th><th>Conditions d’utilisation</th></tr>
@@ -598,11 +596,11 @@ Annexe 6
 
 Annexe 7[^t-5]
 
-(art. 4, al. 1 à 3 et 5)
+(art. 4, al. 2, 3 et 5)
 
 ## Rations quotidiennes
 
-[^t-5]: Mise à jour par l’erratum du 6 fév. 2018 ([RO 2018 551](https://fedlex.data.admin.ch/eli/oc/2018/70)) et le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^t-5]: Mise à jour par l’erratum du 6 fév. 2018 ([RO 2018 551](https://fedlex.data.admin.ch/eli/oc/2018/70)), le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)) et le ch. II de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 292](https://fedlex.data.admin.ch/eli/oc/2023/292)).
 
 <table>
 <tr><td>Denrées alimentaires</td><td>Ration quotidienne en g[^annex7-lvlu1-1]</td></tr>
