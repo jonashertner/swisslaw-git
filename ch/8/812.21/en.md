@@ -4,11 +4,11 @@ title: "Federal Act of 15 December 2000 on Medicinal Products and Medical Device
 short: TPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Therapeutic Products Act, TPA)
 
-of 15 December 2000 (Status as of 1 January 2022)
+of 15 December 2000 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -253,7 +253,7 @@ The following shall be exempt from authorisation:
 
 <sup>3</sup> The Federal Council may make provision for a requirement of authorisation for the production or manufacturing process used in making medicinal products which cannot be standardised.
 
-<sup>4</sup> ...[^9-9]
+<sup>4</sup> …[^9-9]
 
 [^9-1]: Amended by No 1 of the FA of 13 June 2008, in force since 1 Oct. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^9-2]: Amended by No 1 of the FA of 13 June 2008, in force since 1 Oct. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
@@ -426,7 +426,7 @@ The Agency shall make provision for simplified procedures for the authorisation 
 - a<sup>ter</sup>.[^14-2] non-prescription medicinal products with indications which, when the application was submitted, have been proven to have been used medically for at least 30 years, and for at least 15 years in EU and EFTA countries;
 - a<sup>quater</sup>.[^14-3] medicinal products which, when the application was submitted, have been authorised as medicinal products for at least 15 years in a canton;
 - b.[^14-4] complementary medicines;
-- c.[^14-5] ...
+- c.[^14-5] …
 - c<sup>bis</sup>.[^14-6] herbal medicines;
 - d.[^14-7] medicinal products prepared by a hospital pharmacy or in the hospital’s own radiopharmaceutical unit for the needs of the hospital;
 - e. medicinal products prepared by the army and used in the context of the coordinated army medical corps;
@@ -440,7 +440,7 @@ The Agency shall make provision for a simplified authorisation procedure in the 
 - a. if the medicinal product satisfies the same requirements as the medicinal product already authorised in Switzerland, in particular in regard to the labelling and the medical information mentioned in Article 11;
 - b. if the other person responsible for placing the medicinal product on the market can continue to guarantee that all the authorised medicinal products that he distributes fulfil the same requirements of safety and quality as those of the first applicant.
 
-<sup>3</sup> ...[^14-8]
+<sup>3</sup> …[^14-8]
 
 [^14-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-2]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -524,7 +524,7 @@ The marketing authorisation is issued for the first time for a period of five ye
 
 <sup>3</sup> The authorisation of medicinal products on the basis of a notification shall be valid for an unlimited period.[^16-3]
 
-<sup>4</sup> ...[^16-4]
+<sup>4</sup> …[^16-4]
 
 [^16-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16-2]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -692,7 +692,7 @@ The export of medicinal products and their foreign trade from Switzerland shall 
 
 <sup>2</sup> Any person exporting medicinal products intended for use in clinical trials must demand proof that the rules of good clinical trial practice are applied.
 
-### Section 4 Distribution, Prescription, Dispensing and Application****
+### Section 4 Distribution, Prescription, Dispensing and Application
 
 [^chap2-sec4-1]
 
@@ -765,7 +765,7 @@ The following shall be entitled to dispense non-prescription medicinal products:
 
 <sup>3</sup> The Agency shall determine the medicinal products which may be dispensed by the persons referred to in paragraph 1 letter c.[^25-2]
 
-<sup>4</sup> ...[^25-3]
+<sup>4</sup> …[^25-3]
 
 <sup>5</sup> Subject to the provisions of paragraphs 2 and 3, the cantons may grant to persons holding a qualification recognised by the canton the right to dispense certain groups of medicinal products, such as those pertaining to complementary medicine. The Agency must be informed of this.
 
@@ -1324,11 +1324,11 @@ As part of the authorisation procedure, the Agency shall verify:
   - 2\. the risks associated with a medical device are duly considered in the clinical trial,
   - 3\. the information on the medical device is in line with current scientific knowledge and is correctly indicated in the protocol.[^54-4]
 
-<sup>5</sup> ...[^54-5]
+<sup>5</sup> …[^54-5]
 
 <sup>6</sup> The Federal Council shall regulate the authorisation procedure. It may define the required form of the application and stipulate that the submission of applications, correspondence and the publication of decisions must be effected electronically.[^54-6]
 
-<sup>7</sup> ...[^54-7]
+<sup>7</sup> …[^54-7]
 
 <sup>8</sup> In issuing regulations in accordance with paragraphs 3 and 6, the Federal Council shall have regard to the recognised international regulations.[^54-8]
 
@@ -1377,7 +1377,7 @@ The Federal Council may, having regard to recognised international regulations, 
 [^54b-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^54b-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
-### Section 2*a* Integrity and Transparency****
+### Section 2*a* Integrity and Transparency
 
 [^chap4-sec2a-1]
 
@@ -1491,7 +1491,7 @@ It is responsible for the inspections specified in Articles 6, 19 and 28 in the 
 
 <sup>5</sup> The cantons may involve regional or other cantonal inspectorates or the Agency in, or ask them to carry out the inspections referred to in paragraph 3.
 
-### Section 4 Obligation of Secrecy and Data Processing****
+### Section 4 Obligation of Secrecy and Data Processing
 
 [^chap4-sec4-1]
 
@@ -1661,7 +1661,7 @@ Competent foreign authorities shall, on notifying the Agency, be entitled to ins
 [^64a-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^64a-2]: Second sentence inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
-### Section 4*a***** Information System on Antibiotics in Veterinary Medicine
+### Section 4*a* Information System on Antibiotics in Veterinary Medicine
 
 [^chap4-sec4a-1]
 
@@ -1752,7 +1752,7 @@ The Federal Council regulates the following for the Antibiotics Information Syst
 
 The cantons that use the Antibiotics Information System for their own enforcement purposes are obliged to issue equivalent data protection provisions for their own areas and to designate a body to monitor compliance with these provisions.
 
-### Section 5 Fees and Supervision Fee****
+### Section 5 Fees and Supervision Fee
 
 [^chap4-sec5-1]
 
@@ -1914,7 +1914,7 @@ The Federal Council:
 
 <sup>5</sup> It may appoint advisory committees and experts.
 
-### Section 2 Tasks and Strategic Objectives****
+### Section 2 Tasks and Strategic Objectives
 
 [^chap5-sec2-1]
 
@@ -2155,7 +2155,7 @@ The staff of the Agency are insured by the Federal Pension Fund.
 
 [^76-1]: Amended by Annex No 3 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-### Section 5 Budget and Annual Report****
+### Section 5 Budget and Annual Report
 
 [^chap5-sec5-1]
 
@@ -2269,7 +2269,7 @@ This shall be without prejudice to the federal law governing:
 - a. value added tax on remunerations;
 - b. withholding tax and stamp duties.
 
-### Section 6**** Independence and Oversight
+### Section 6 Independence and Oversight
 
 [^chap5-sec6-1]
 
@@ -2344,7 +2344,7 @@ The cantons shall carry out the enforcement tasks:
 
 #### Art. 84
 
-**...[^84-1]**
+**…[^84-1]**
 
 <sup>1</sup> Unless this Act provides otherwise, the administrative procedure and rights of appeal are regulated by the Federal Act of 20 December 1968[^84-2] on Administrative Procedure and by the Federal Administrative Court Act of 17 June 2005[^84-3], and the Federal Supreme Court Act of 17 June 2005[^84-4].[^84-5]
 
@@ -2378,7 +2378,7 @@ The cantons shall carry out the enforcement tasks:
 
 <sup>1</sup>
 
-A custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who wilfully:
+Any person who wilfully:
 
 - a. manufactures, places on the market, uses, prescribes, imports or exports, or trades in a foreign country medicinal products without the required marketing authorisation or licence, or contrary to the due diligence requirements stipulated in Articles 3, 7, 21, 22, 26, 29 and 42;
 - b. uses antibiotic substances contrary to the restrictions or prohibitions laid down in Article 42*a* paragraph 2;
@@ -2391,15 +2391,16 @@ A custodial sentence not exceeding three years or a monetary penalty shall be im
 - i.[^86-3] places on the market products which do not meet the requirements specified by the Federal Council in accordance with Article 2*a*;
 - j.[^86-4] offers, grants, demands or accepts a financial gain or other advantage for human tissue or human cells or uses such tissues or cells for the manufacture of products as specified in Article 2*a*;
 - k.[^86-5] removes or uses human tissue or human cells for the manufacture of products as specified in Article 2*a* in the absence of consent for removal.
+- [tab] shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup>
+<sup>2</sup> shall be liable to a custodial sentence not exceeding ten years or a monetary penalty.[^86-6]
 
-A custodial sentence not exceeding ten years, which may be combined with a monetary penalty, or a monetary penalty shall be imposed on any person who, in the cases referred to in paragraph 1 letters a–g and i–k:[^86-6]
+Any person who, in the cases referred to in paragraph 1 letters a–g and i–k:
 
 - a. knows or must assume that the violation specifically endangers human health;
 - b. achieves a high turnover or makes substantial profits through commercial activity.
 
-<sup>3</sup> Any person acting as a member of a gang involved in the illicit trade in therapeutic products in the cases referred to in paragraph 1 letters a, c, d, f, g and i–k shall be liable to a custodial sentence not exceeding ten years, which may be combined with a monetary penalty, or to a monetary penalty.[^86-7]
+<sup>3</sup> Any person acting as a member of a gang involved in the illicit trade in therapeutic products in the cases referred to in paragraph 1 letters a, c, d, f, g and i–k shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.[^86-7]
 
 <sup>4</sup> If the person concerned acts through negligence, he or she shall be liable to a monetary penalty. In minor cases, a fine may be imposed.[^86-8]
 
@@ -2408,8 +2409,8 @@ A custodial sentence not exceeding ten years, which may be combined with a monet
 [^86-3]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-4]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-5]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-6]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-7]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-6]: Amended by No I 30 of the FA of 17. Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-7]: Amended by No I 30 of the FA of 17. Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^86-8]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
@@ -2627,7 +2628,7 @@ II
 
 The following enactments are amended as follows:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1990 570](https://fedlex.data.admin.ch/eli/oc/1990/570_570_570)]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422).

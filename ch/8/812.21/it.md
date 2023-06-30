@@ -4,11 +4,11 @@ title: "Legge federale del 15 dicembre 2000 sui medicamenti e i dispositivi medi
 short: LATer
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/it"
 
 (Legge sugli agenti terapeutici, LATer)
 
-del 15 dicembre 2000 (Stato 1° gennaio 2022)
+del 15 dicembre 2000 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -693,7 +693,7 @@ L’esportazione o il commercio all’estero di medicamenti è vietato se:
 
 <sup>2</sup> Chi esporta medicamenti da utilizzarsi per sperimentazioni cliniche deve farsi documentare che le norme della Buona prassi delle sperimentazioni cliniche sono rispettate.
 
-### Sezione 4: Smercio, prescrizione, dispensazione e uso****
+### Sezione 4: Smercio, prescrizione, dispensazione e uso
 
 [^chap2-sec4-1]
 
@@ -1288,7 +1288,7 @@ Il Consiglio federale può, per proteggere la salute e impedire l’inganno, lim
 
 <sup>4</sup> La Farmacopea è pubblicata al di fuori della Raccolta ufficiale del diritto federale. Il Consiglio federale disciplina i dettagli e determina in particolare le lingue per la pubblicazione.
 
-### Sezione 2:**** Sperimentazioni cliniche
+### Sezione 2: Sperimentazioni cliniche
 
 [^chap4-sec2-1]
 
@@ -1383,7 +1383,7 @@ Il Consiglio federale può, tenendo conto delle norme internazionali riconosciut
 [^54b-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^54b-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
-### Sezione 2*a*: Integrità e trasparenza****
+### Sezione 2*a*: Integrità e trasparenza
 
 [^chap4-sec2a-1]
 
@@ -1499,7 +1499,7 @@ Chi fabbrica o smercia[^59-1] agenti terapeutici pronti per l’uso deve allesti
 
 <sup>5</sup> I Cantoni possono associare alle ispezioni i servizi regionali di ispezione o l’Istituto alle ispezioni di cui al capoverso 3 oppure incaricarli delle medesime.
 
-### Sezione 4: Segreto e trattamento di dati****
+### Sezione 4: Segreto e trattamento di dati
 
 [^chap4-sec4-1]
 
@@ -1668,7 +1668,7 @@ Previa notifica all’Isituto, le autorità estere competenti possono effettuare
 [^64a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^64a-2]: Per. introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
-### Sezione 4*a*:**** Sistema d’informazione sugli antibiotici nella medicina veterinaria
+### Sezione 4*a*: Sistema d’informazione sugli antibiotici nella medicina veterinaria
 
 [^chap4-sec4a-1]
 
@@ -1921,7 +1921,7 @@ Il Consiglio federale:
 
 <sup>5</sup> Esso può istituire commissioni consultive nonché nominare periti.
 
-### Sezione 2: Compiti e obiettivi strategici****
+### Sezione 2: Compiti e obiettivi strategici
 
 [^chap5-sec2-1]
 
@@ -2164,7 +2164,7 @@ Il personale dell’Istituto è assicurato presso la Cassa pensioni della Confed
 
 [^76-1]: Nuovo testo giusta l’all. n. 3 della LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-### Sezione 5: Gestione finanziaria e relazione sulla gestione****
+### Sezione 5: Gestione finanziaria e relazione sulla gestione
 
 [^chap5-sec5-1]
 
@@ -2278,7 +2278,7 @@ L’Istituto e le persone da esso incaricate sono responsabili soltanto se:
 - a. imposta sul valore aggiunto su controprestazioni;
 - b. imposta preventiva e tasse di bollo.
 
-### Sezione 6:**** Indipendenza e vigilanza
+### Sezione 6: Indipendenza e vigilanza
 
 [^chap5-sec6-1]
 
@@ -2403,12 +2403,12 @@ I Cantoni adempiono i compiti di esecuzione:
 
 <sup>2</sup>
 
-È punito con una pena detentiva fino a dieci anni, cumulabile con una pena pecuniaria, o con una pena pecuniaria, chiunque, nei casi di cui al capoverso 1 lettere a–g ed i–k:[^86-6]
+È punito con una pena detentiva fino a dieci anni o con una pena pecuniaria chiunque, nei casi di cui al capoverso 1 lettere a–g ed i–k:[^86-6]
 
 - a. sa o deve presumere che l’infrazione mette concretamente in pericolo la salute delle persone;
 - b. realizza, agendo per mestiere, una grossa cifra d’affari o un guadagno considerevole.
 
-<sup>3</sup> È punito con una pena detentiva fino a dieci anni, cumulabile con una pena pecuniaria, o con una pena pecuniaria, chiunque, nei casi di cui al capoverso 1 lettere a, c, d, f, g ed i–k agisce come membro di una banda costituitasi per esercitare sistematicamente il traffico illecito di agenti terapeutici.[^86-7]
+<sup>3</sup> È punito con una pena detentiva fino a dieci anni o con una pena pecuniaria chiunque, nei casi di cui al capoverso 1 lettere a, c, d, f, g ed i–k, agisce come membro di una banda costituitasi per esercitare sistematicamente il traffico illecito di agenti terapeutici.[^86-7]
 
 <sup>4</sup> Se l’autore agisce per negligenza, la pena è una pena pecuniaria. Nei casi poco gravi può essere pronunciata la multa.[^86-8]
 
@@ -2417,8 +2417,8 @@ I Cantoni adempiono i compiti di esecuzione:
 [^86-3]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-4]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-5]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-6]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-7]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-6]: Nuovo testo giusta il n. I 30 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-7]: Nuovo testo giusta il n. I 30 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^86-8]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
@@ -2620,7 +2620,7 @@ Fino alla completa fruibilità dell’elenco elettronico di cui all’articolo 6
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore:[^96-1] 1° gennaio 2002 art. 71 e 72: 1° ottobre 2001
+Data dell’entrata in vigore:[^96-1] 1° gennaio 2002art. 71 e 72: 1° ottobre 2001
 
 [^96-1]: DCF del 28 set. 2001.
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukt
 short: HMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/de"
 
 (Heilmittelgesetz, HMG)
 
-vom 15. Dezember 2000 (Stand am 1. Januar 2022)
+vom 15. Dezember 2000 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -251,7 +251,7 @@ Keine Zulassung brauchen:
 
 <sup>3</sup> Der Bundesrat kann für Arzneimittel, die nicht standardisierbar sind, eine Zulassung für das Gewinnungs- oder Herstellungsverfahren vorschreiben.
 
-<sup>4</sup> ...[^9-9]
+<sup>4</sup> …[^9-9]
 
 [^9-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^9-2]: Fassung gemäss Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
@@ -425,7 +425,7 @@ Das Institut sieht für bestimmte Kategorien von Arzneimitteln vereinfachte Zula
 - a<sup>ter</sup>.[^14-2] nicht verschreibungspflichtige Arzneimittel mit Indikationsangabe, die zum Zeitpunkt der Gesuchseinreichung nachweislich seit mindestens 30 Jahren medizinisch verwendet werden, davon mindestens 15 Jahre in Ländern der EU und der EFTA;
 - [tab] a<sup>quater</sup>.[^14-3]Arzneimittel, die zum Zeitpunkt der Gesuchseinreichung nachweislich mindestens 15 Jahre in einem Kanton als Arzneimittel zugelassen sind;
 - b.[^14-4] Komplementärarzneimittel;
-- c.[^14-5] ...
+- c.[^14-5] …
 - c<sup>bis</sup>.[^14-6] Phytoarzneimittel;
 - d.[^14-7] Arzneimittel, die in einer Spitalapotheke oder in einem spitalinternen radiopharmazeutischen Betrieb für den Spitalbedarf hergestellt werden;
 - e. Arzneimittel, die von der Armee hergestellt und für Zwecke des Koordinierten Sanitätsdienstes verwendet werden;
@@ -439,7 +439,7 @@ Das Institut sieht für ein Gesuch eines weiteren Inverkehrbringers für ein in 
 - a. das Arzneimittel den gleichen Anforderungen genügt wie das in der Schweiz bereits zugelassene Arzneimittel, insbesondere denjenigen an die Kennzeichnung und Arzneimittelinformation nach Artikel 11;
 - b. dieser weitere Inverkehrbringer fortwährend sicherstellen kann, dass er für alle von ihm vertriebenen zugelassenen Arzneimittel die gleichen Sicherheits- und Qualitätsanforderungen erfüllt wie der Erstanmelder.
 
-<sup>3</sup> ...[^14-8]
+<sup>3</sup> …[^14-8]
 
 [^14-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -523,7 +523,7 @@ Die Zulassung wird erstmals für fünf Jahre verfügt. Das Institut verfügt ein
 
 <sup>3</sup> Die Zulassung von Arzneimitteln aufgrund einer Meldung ist unbefristet gültig.[^16-3]
 
-<sup>4</sup> ...[^16-4]
+<sup>4</sup> …[^16-4]
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -691,7 +691,7 @@ Es ist verboten, Arzneimittel auszuführen oder mit ihnen Handel im Ausland zu b
 
 <sup>2</sup> Wer Arzneimittel für klinische Versuche ausführt, muss sich belegen lassen, dass die Regeln der Guten Praxis der klinischen Versuche bei der Anwendung beachtet werden.
 
-### 4. Abschnitt: Vertrieb, Verschreibung, Abgabe und Anwendung****
+### 4. Abschnitt: Vertrieb, Verschreibung, Abgabe und Anwendung
 
 [^chap2-sec4-1]
 
@@ -765,7 +765,7 @@ Nicht verschreibungspflichtige Arzneimittel abgeben dürfen:
 
 <sup>3</sup> Das Institut legt fest, welche Arzneimittel durch Personen nach Absatz 1 Buchstabe c abgegeben werden dürfen.[^25-2]
 
-<sup>4</sup> ...[^25-3]
+<sup>4</sup> …[^25-3]
 
 <sup>5</sup> Die Kantone können, vorbehältlich der Absätze 2 und 3, Personen, die über eine kantonal anerkannte Ausbildung verfügen, zur Abgabe bestimmter Arzneimittelgruppen wie komplementärmedizinischer Arzneimittel zulassen. Das Institut ist zu informieren.
 
@@ -1324,11 +1324,11 @@ Im Rahmen des Bewilligungsverfahrens prüft das Institut:
   - 2\. die Risiken, die mit einem Medizinprodukt zusammenhängen, im klinischen Versuch berücksichtigt werden,
   - 3\. die Angaben zum Medizinprodukt dem wissenschaftlichen Stand entsprechen und im Prüfplan korrekt abgebildet werden.[^54-4]
 
-<sup>5</sup> ...[^54-5]
+<sup>5</sup> …[^54-5]
 
 <sup>6</sup> Der Bundesrat regelt das Bewilligungsverfahren. Er kann die Form für die Anmeldung vorschreiben und festlegen, dass die Eingabe von Gesuchen, der Schriftenverkehr und die Eröffnung von Entscheiden auf elektronischem Weg erfolgen müssen.[^54-6]
 
-<sup>7</sup> ...[^54-7]
+<sup>7</sup> …[^54-7]
 
 <sup>8</sup> Beim Erlass von Vorschriften nach den Absätzen 3 und 6 beachtet der Bundesrat die anerkannten internationalen Regelungen.[^54-8]
 
@@ -1377,7 +1377,7 @@ Der Bundesrat kann unter Beachtung anerkannter internationaler Regelungen Melde-
 [^54b-1]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^54b-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
-### 2*a*. Abschnitt: Integrität und Transparenz****
+### 2*a*. Abschnitt: Integrität und Transparenz
 
 [^chap4-sec2a-1]
 
@@ -1491,7 +1491,7 @@ Es ist zuständig für Inspektionen nach den Artikeln 6, 19 und 28 in folgenden 
 
 <sup>5</sup> Die Kantone können regionale oder andere kantonale Inspektorate oder das Institut zu Inspektionen nach Absatz 3 beiziehen oder mit solchen Inspektionen beauftragen.
 
-### 4. Abschnitt: Schweigepflicht und Datenbearbeitung****
+### 4. Abschnitt: Schweigepflicht und Datenbearbeitung
 
 [^chap4-sec4-1]
 
@@ -1661,7 +1661,7 @@ Ausländische zuständige Behörden sind berechtigt, nach Meldung an das Institu
 [^64a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^64a-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
-### 4*a*. Abschnitt:**** Informationssystem Antibiotika in der Veterinärmedizin
+### 4*a*. Abschnitt: Informationssystem Antibiotika in der Veterinärmedizin
 
 [^chap4-sec4a-1]
 
@@ -1752,7 +1752,7 @@ Der Bundesrat regelt für das Informationssystem Antibiotika:
 
 Die Kantone, die das Informationssystem Antibiotika für ihre eigenen Vollzugsaufgaben nutzen, sind verpflichtet, für ihren Bereich gleichwertige Datenschutzbestimmungen zu erlassen und ein Organ zu bezeichnen, welches deren Einhaltung überwacht.
 
-### 5. Abschnitt: Gebühren und Aufsichtsabgabe****
+### 5. Abschnitt: Gebühren und Aufsichtsabgabe
 
 [^chap4-sec5-1]
 
@@ -1914,7 +1914,7 @@ Der Bundesrat:
 
 <sup>5</sup> Es kann beratende Kommissionen sowie Expertinnen und Experten einsetzen.
 
-### 2. Abschnitt: Aufgaben und strategische Ziele****
+### 2. Abschnitt: Aufgaben und strategische Ziele
 
 [^chap5-sec2-1]
 
@@ -2271,7 +2271,7 @@ Vorbehalten bleibt das Bundesrecht über:
 - a. die Mehrwertsteuer auf Entgelten;
 - b. die Verrechnungssteuer und die Stempelabgaben.
 
-### 6. Abschnitt:**** Unabhängigkeit und Aufsicht
+### 6. Abschnitt: Unabhängigkeit und Aufsicht
 
 [^chap5-sec6-1]
 
@@ -2346,7 +2346,7 @@ Die Kantone erfüllen die Vollzugsaufgaben, die:
 
 #### Art. 84
 
-**...[^84-1]**
+**…[^84-1]**
 
 <sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, richten sich das Verwaltungsverfahren und der Rechtsschutz nach dem Bundesgesetz vom 20. Dezember 1968[^84-2] über das Verwaltungsverfahren, dem Verwaltungsgerichtsgesetz vom 17. Juni 2005[^84-3] und dem Bundesgerichtsgesetz vom 17. Juni 2005[^84-4].[^84-5]
 
@@ -2396,12 +2396,12 @@ Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer vo
 
 <sup>2</sup>
 
-Mit Freiheitsstrafe bis zu zehn Jahren, womit eine Geldstrafe verbunden werden kann, oder mit Geldstrafe wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a–g und i–k:[^86-6]
+Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a–g und i–k:[^86-6]
 
 - a. weiss oder annehmen muss, dass die Widerhandlung die Gesundheit von Menschen konkret gefährdet;
 - b. durch gewerbsmässiges Handeln einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
 
-<sup>3</sup> Mit Freiheitsstrafe bis zu zehn Jahren, womit eine Geldstrafe verbunden werden kann, oder mit Geldstrafe wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a, c, d, f, g und i–k als Mitglied einer Bande zur fortgesetzten Ausübung des unerlaubten Heilmittelhandels handelt.[^86-7]
+<sup>3</sup> Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a, c, d, f, g und i–k als Mitglied einer Bande zur fortgesetzten Ausübung des unerlaubten Heilmittelhandels handelt.[^86-7]
 
 <sup>4</sup> Wer fahrlässig handelt, wird mit Geldstrafe bestraft. In leichten Fällen kann auf Busse erkannt werden.[^86-8]
 
@@ -2410,8 +2410,8 @@ Mit Freiheitsstrafe bis zu zehn Jahren, womit eine Geldstrafe verbunden werden k
 [^86-3]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-4]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-5]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-6]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-7]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-6]: Fassung gemäss Ziff. I 30 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-7]: Fassung gemäss Ziff. I 30 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^86-8]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
@@ -2629,7 +2629,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1990 570](https://fedlex.data.admin.ch/eli/oc/1990/570_570_570)]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)konsultiert werden.

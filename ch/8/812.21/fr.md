@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur les médicaments et les disposit
 short: LPTh
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/fr"
 
 (Loi sur les produits thérapeutiques, LPTh)[^t-1]
 
-du 15 décembre 2000 (Etat le 1<sup>er</sup> janvier 2022)
+du 15 décembre 2000 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -428,7 +428,7 @@ L’institut prévoit des procédures simplifiées d’autorisation de mise sur 
 - [tab] a<sup>quater</sup>.[^14-4] les médicaments dont il est avéré, au moment du dépôt de la demande, qu’ils sont autorisés en tant que médicaments dans un canton depuis au moins 15 ans;
 - b. les médicaments de la médecine complémentaire;
 - c.[^14-5] ...
-- c<sup>bis</sup>.[^14-6] les phytomédicaments;
+- c<sup>bis</sup>*.*[^14-6] les phytomédicaments;
 - d.[^14-7] les médicaments qui sont fabriqués dans une pharmacie d’hôpital ou le service de radiopharmacie d’un hôpital et qui sont destinés aux besoins hospitaliers;
 - e. les médicaments qui sont fabriqués par l’armée et qui sont utilisés dans le cadre du service sanitaire coordonné;
 - f. les médicaments importants pour des maladies rares;
@@ -693,7 +693,7 @@ L’exportation de médicaments et leur commerce à l’étranger à partir de l
 
 <sup>2</sup> Quiconque exporte des médicaments destinés à des essais cliniques doit exiger la preuve que les règles des Bonnes pratiques des essais cliniques seront appliquées.
 
-### Section 4 Distribution, prescription, remise et utilisation****
+### Section 4 Distribution, prescription, remise et utilisation
 
 [^chap2-sec4-1]
 
@@ -1287,7 +1287,7 @@ Le Conseil fédéral peut, pour protéger la santé et empêcher la tromperie, r
 
 <sup>4</sup> La Pharmacopée est publiée en dehors du Recueil officiel des lois fédérales. Le Conseil fédéral règle les modalités de la publication et détermine notamment les langues dans lesquelles elle est publiée.
 
-### Section 2**** Essais cliniques
+### Section 2 Essais cliniques
 
 [^chap4-sec2-1]
 
@@ -1382,7 +1382,7 @@ Le Conseil fédéral peut prévoir, en tenant compte des réglementations intern
 [^54b-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^54b-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
-### Section 2a Intégrité et transparence****
+### Section 2a Intégrité et transparence
 
 [^chap4-sec2a-1]
 
@@ -1498,7 +1498,7 @@ Il est compétent pour les inspections visées aux art. 6, 19 et 28 dans les dom
 
 <sup>5</sup> Les cantons peuvent associer des services régionaux d’inspection ou d’autres services cantonaux d’inspection ou encore l’institut aux inspections visées à l’al. 3, ou les charger de telles inspections.
 
-### Section 4 Obligation de garder le secret et traitement des données****
+### Section 4 Obligation de garder le secret et traitement des données
 
 [^chap4-sec4-1]
 
@@ -1668,7 +1668,7 @@ Les autorités étrangères compétentes sont habilitées à contrôler, après 
 [^64a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^64a-2]: Phrase introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
-### Section 4*a***** Système d’information sur les antibiotiques en médecine vétérinaire
+### Section 4*a* Système d’information sur les antibiotiques en médecine vétérinaire
 
 [^chap4-sec4a-1]
 
@@ -1759,7 +1759,7 @@ S’agissant du système d’information «Antibiotiques», le Conseil fédéral
 
 Les cantons qui utilisent le système d’information «Antibiotiques» pour leurs propres tâches d’exécution sont tenus de prévoir des dispositions équivalentes en matière de protection des données pour leur domaine et de désigner un organe qui surveille le respect de cette réglementation.
 
-### Section 5 Émoluments et taxe de surveillance****
+### Section 5 Émoluments et taxe de surveillance
 
 [^chap4-sec5-1]
 
@@ -1921,7 +1921,7 @@ Le Conseil fédéral:
 
 <sup>5</sup> Il peut instituer des commissions consultatives et mandater des experts.
 
-### Section 2 Tâches et objectifs stratégiques****
+### Section 2 Tâches et objectifs stratégiques
 
 [^chap5-sec2-1]
 
@@ -2164,7 +2164,7 @@ Le personnel de l’institut est assuré à la Caisse fédérale de pensions.
 
 [^76-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-### Section 5 Budget et rapport de gestion****
+### Section 5 Budget et rapport de gestion
 
 [^chap5-sec5-1]
 
@@ -2278,7 +2278,7 @@ Est réservé le droit fédéral régissant:
 - a. la taxe sur la valeur ajoutée portant sur les rémunérations;
 - b. l’impôt anticipé et les droits de timbre.
 
-### Section 6**** Indépendance et surveillance
+### Section 6 Indépendance et surveillance
 
 [^chap5-sec6-1]
 
@@ -2402,13 +2402,13 @@ Est passible d’une peine privative de liberté de trois ans au plus ou d’une
 - j.[^86-4] propose, octroie, exige ou accepte un avantage pécuniaire ou un autre avantage pour le don de tissus humains ou des cellules humaines ou utilise de tels tissus ou cellules pour fabriquer les produits visés à l’art. 2*a*;
 - k.[^86-5] prélève ou utilise des tissus humains ou des cellules humaines pour fabriquer les produits visés à l’art. 2*a* en l’absence de consentement au prélèvement.
 
-<sup>2</sup> Est passible d’une peine privative de liberté de dix ans au plus, à laquelle peut s’ajouter une peine pécuniaire, ou d’une peine pécuniaire, quiconque, dans les cas prévus à l’al. 1, let. a à g et i à k:[^86-6]
+<sup>2</sup> Est passible d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire quiconque, dans les cas prévus à l’al. 1, let. a à g et i à k:[^86-6]
 
 a. sait ou ne peut ignorer que cette infraction met concrètement en danger la santé humaine;
 
 - b. ayant agi par métier, réalise un chiffre d’affaires élevé ou un gain important.
 
-<sup>3</sup> Est passible d’une peine privative de liberté de dix ans au plus, à laquelle peut s’ajouter une peine pécuniaire, ou d’une peine pécuniaire, quiconque, dans les cas prévus à l’al. 1, let. a, c, d, f, g et i à k, agit en tant que membre d’une bande se livrant de manière systématique au trafic illicite de produits thérapeutiques.[^86-7]
+<sup>3</sup> Est passible d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire quiconque, dans les cas prévus à l’al. 1, let. a, c, d, f, g et i à k, agit en tant que membre d’une bande se livrant de manière systématique au trafic illicite de produits thérapeutiques.[^86-7]
 
 <sup>4</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire. Dans les cas de peu de gravité, une amende peut être prononcée.[^86-8]
 
@@ -2417,8 +2417,8 @@ a. sait ou ne peut ignorer que cette infraction met concrètement en danger la s
 [^86-3]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-4]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-5]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-6]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-7]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-6]: Nouvelle teneur selon le ch. I 30 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-7]: Nouvelle teneur selon le ch. I 30 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^86-8]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
