@@ -4,13 +4,13 @@ number: "801.110"
 title: Ordinanza sulla pianificazione territoriale del Cantone dei Grigioni
 short: OPTC
 language: it
-version: 2019-04-01
-corrected: 2019-10-28
-version_adopted: 2019-03-12
+version: 2023-07-01
+valid_until: 2023-08-31
+version_adopted: 2023-06-27
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2934/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3329/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2934/pdf_file"
 
 (OPTC)
 
-del 24.05.2005 (stato 01.04.2019)
+del 24.05.2005 (stato 01.07.2023)
 
 emanata dal Governo il 24 maggio 2005
 
@@ -619,6 +619,30 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 105 del
 - c) capanna d'alpe e dei pastori: SUL sec. necessità
 
 <sup>2</sup> Locali nelle stalle sono autorizzati fino ad una misura massima di 15 m² se sono soddisfatti i presupposti. Essi vanno eliminati qualora siano venuti meno i presupposti per l'autorizzazione.
+
+### 5.3. Edifici e impianti nella zona di pericolo 1
+
+#### Art. 39a
+
+**Rinnovo di edifici e impianti esistenti**
+
+<sup>1</sup> Sono considerati quale rinnovo di edifici e impianti destinati a ospitare persone e animali segnatamente la manutenzione, il risanamento e la modernizzazione. Fatti salvi i seguenti capoversi, nella zona di pericolo 1 gli ampliamenti di tali edifici e impianti non sono ammessi.
+
+<sup>2</sup> In via eccezionale, nel quadro di un rinnovo l'ampliamento di edifici e impianti che vengono utilizzati da un esercizio stagionale agricolo oppure artigianale è ammesso all'interno del volume esistente dell'edificio se:
+
+- a) l'ampliamento è necessario per soddisfare i requisiti attuali in materia di igiene, segnatamente per quanto riguarda cucina, magazzino e impianti sanitari; e
+- b) ciò non comporta un'intensificazione dell'utilizzazione.
+
+<sup>3</sup> In via eccezionale, nel quadro di un rinnovo l'ampliamento di edifici e impianti che vengono utilizzati da un esercizio stagionale agricolo oppure artigianale è ammesso al di fuori del volume esistente dell'edificio se:
+
+- a) l'ampliamento è necessario per soddisfare i requisiti attuali in materia di igiene, segnatamente per quanto riguarda cucina, magazzino e impianti sanitari;
+- b) ciò non comporta un'intensificazione dell'utilizzazione;
+- c) non esistono alternative a un ampliamento al di fuori del volume esistente dell'edificio;
+- d) complessivamente ciò comporta un miglioramento della situazione di protezione;
+- e) l'utilizzazione è limitata a una determinata stagione al di fuori del periodo di pericolo; e
+- f) il comune garantisce l'utilizzazione limitata conformemente alla lettera e tramite misure nel quadro di un concetto.
+
+<sup>4</sup> Nella domanda di costruzione occorre dimostrare che i presupposti conformemente al capoverso 2 o al capoverso 3 sono soddisfatti.
 
 ## 6. Diritto edilizio formale
 

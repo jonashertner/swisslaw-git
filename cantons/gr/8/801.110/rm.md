@@ -4,13 +4,13 @@ number: "801.110"
 title: Ordinaziun davart la planisaziun dal territori per il chantun Grischun
 short: OPTGR
 language: rm
-version: 2019-04-01
-corrected: 2019-10-28
-version_adopted: 2019-03-12
+version: 2023-07-01
+valid_until: 2023-08-31
+version_adopted: 2023-06-27
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2934/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3329/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2934/pdf_file"
 
 (OPTGR)
 
-dals 24-05-2005 (versiun dals 01-04-2019)
+dals 24-05-2005 (versiun dals 01-07-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 105 da la lescha davart la planisaziun dal territori[^ingress-2] per il chantun Grischun
 
@@ -620,6 +620,30 @@ relaschada da la regenza ils 24 da matg 2005
 
 <sup>2</sup> Chombras d'uigl vegnan permessas fin ad ina mesira maximala da 15 m², sche las premissas èn ademplidas. Ellas ston vegnir allontanadas, sche las premissas per la permissiun èn scadidas.
 
+### 5.3. Edifizis e stabiliments en la zona da privel 1
+
+#### Art. 39a
+
+**Renovaziun d'edifizis e da stabiliments existents**
+
+<sup>1</sup> Sco renovaziun d'edifizis e da stabiliments, che servan a la dimora d'umans e d'animals, vala particularmain il mantegniment, la reparaziun e la modernisaziun. En la zona da privel 1 èsi scumandà d'engrondir tals edifizis e stabiliments, quai cun resalva dals suandants alineas.
+
+<sup>2</sup> En il rom d'ina renovaziun èsi excepziunalmain admess d'engrondir entaifer il volumen da l'edifizi existent edifizis e stabiliments che vegnan duvrads d'in manaschi stagiunal agricul u commerzial, sche:
+
+- a) l'engrondiment è necessari per tegnair quint da las pretensiuns actualas envers l'igiena, particularmain areguard la cuschina, il deposit e las installaziuns sanitaras; e
+- b) l'utilisaziun na vegn betg intensivada.
+
+<sup>3</sup> En il rom d'ina renovaziun èsi excepziunalmain admess d'engrondir ordaifer il volumen da l'edifizi existent edifizis e stabiliments che vegnan duvrads d'in manaschi stagiunal agricul u commerzial, sche:
+
+- a) l'engrondiment è necessari per tegnair quint da las pretensiuns actualas envers l'igiena, particularmain areguard la cuschina, il deposit e las installaziuns sanitaras;
+- b) l'utilisaziun na vegn betg intensivada;
+- c) in engrondiment ordaifer il volumen da l'edifizi existent n'è betg pussaivel autramain;
+- d) la situaziun da protecziun vegn meglierada tut en tut;
+- e) l'utilisaziun è limitada mintgamai ad ina stagiun temporara ordaifer la perioda privlusa; e
+- f) la vischnanca garantescha l'utilisaziun limitada tenor la litera e a maun da mesiras en il rom d'in concept.
+
+<sup>4</sup> En la dumonda da construcziun stoi vegnir cumprovà, che las premissas tenor l'alinea 2 u l'alinea 3 èn ademplidas.
+
 ## 6. Dretg da construcziun formal
 
 ### 6.1. Projects da construcziun che na basegnan betg ina permissiun da construcziun
@@ -702,7 +726,7 @@ relaschada da la regenza ils 24 da matg 2005
 
 **Giudicament provisoric**
 
-<sup>1</sup> Avant l'inoltraziun d'ina dumonda da construcziun po l'autoritad communala da construcziun po vegnir dumandada da far in giudicament provisoric davart puncts essenzials dal project da construcziun.
+<sup>1</sup> Avant l'inoltraziun d'ina dumonda da construcziun po l'autoritad communala da construcziun vegnir dumandada da far in giudicament provisoric davart puncts essenzials dal project da construcziun.
 
 <sup>2</sup> En cas da projects da construcziun ordaifer las zonas da construcziun po il post spezialisà vegnir dumandà sur la vischnanca da far in giudicament provisoric.
 

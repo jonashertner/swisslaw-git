@@ -4,13 +4,13 @@ number: "801.110"
 title: Raumplanungsverordnung für den Kanton Graubünden
 short: KRVO
 language: de
-version: 2019-04-01
-corrected: 2019-10-28
-version_adopted: 2019-03-12
+version: 2023-07-01
+valid_until: 2023-08-31
+version_adopted: 2023-06-27
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2934/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3329/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2934/pdf_file"
 
 (KRVO)
 
-Vom 24.05.2005 (Stand 01.04.2019)
+Vom 24.05.2005 (Stand 01.07.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 105 des Raumplanungsgesetzes[^ingress-2] für den Kanton Graubünden
 
@@ -619,6 +619,30 @@ von der Regierung erlassen am 24. Mai 2005
 - c) Alp- und Hirtenhütte: BGF nach Bedarf
 
 <sup>2</sup> Stallkammern werden, wenn die Voraussetzungen erfüllt sind, bis zu einem Höchstmass von 15 m² bewilligt. Sie sind zu entfernen, wenn die Voraussetzungen für die Bewilligung weggefallen sind.
+
+### 5.3. Bauten und Anlagen in der Gefahrenzone 1
+
+#### Art. 39a
+
+**Erneuerung bestehender Bauten und Anlagen**
+
+<sup>1</sup> Als Erneuerung von Bauten und Anlagen, die dem Aufenthalt von Menschen und Tieren dienen, gilt insbesondere die Instandhaltung, die Instandstellung und die Modernisierung. In der Gefahrenzone 1 sind Erweiterungen solcher Bauten und Anlagen, vorbehältlich der folgenden Absätze, unzulässig.
+
+<sup>2</sup> Ausnahmsweise ist im Rahmen einer Erneuerung die Erweiterung von Bauten und Anlagen, die von einem landwirtschaftlichen oder gewerblichen Saisonbetrieb genutzt werden, innerhalb des bestehenden Gebäudevolumens zulässig, wenn:
+
+- a) die Erweiterung nötig ist, um den aktuellen Anforderungen an die Hygiene gerecht zu werden, namentlich bezüglich Küche, Lager und sanitärer Einrichtungen; und
+- b) keine Nutzungsintensivierung erfolgt.
+
+<sup>3</sup> Ausnahmsweise ist im Rahmen einer Erneuerung die Erweiterung von Bauten und Anlagen, die von einem landwirtschaftlichen oder gewerblichen Saisonbetrieb genutzt werden, ausserhalb des bestehenden Gebäudevolumens zulässig, wenn:
+
+- a) die Erweiterung nötig ist, um den aktuellen Anforderungen an die Hygiene gerecht zu werden, namentlich bezüglich Küche, Lager und sanitärer Einrichtungen;
+- b) keine Nutzungsintensivierung erfolgt;
+- c) keine Alternativen zu einer Erweiterung ausserhalb des bestehenden Gebäudevolumens zur Verfügung stehen;
+- d) insgesamt eine Verbesserung der Schutzsituation erfolgt;
+- e) sich die Nutzung jeweils auf eine befristete Saison ausserhalb des Gefahrenzeitraums beschränkt; und
+- f) die Gemeinde die beschränkte Nutzung gemäss Litera e mittels Massnahmen im Rahmen eines Konzepts sicherstellt.
+
+<sup>4</sup> Im Baugesuch ist nachzuweisen, dass die Voraussetzungen gemäss Absatz 2 oder Absatz 3 erfüllt sind.
 
 ## 6. Formelles Baurecht
 
