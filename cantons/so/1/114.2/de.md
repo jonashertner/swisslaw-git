@@ -4,13 +4,12 @@ number: "114.2"
 title: Informations- und Datenschutzverordnung
 short: InfoDV
 language: de
-version: 2004-07-01
-valid_until: 2023-06-30
-version_adopted: 2004-07-06
+version: 2023-07-01
+version_adopted: 2023-05-02
 adopted: 2001-12-10
 in_force: 2003-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/114.2"
-pdf: "https://bgs.so.ch/api/de/versions/3654/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/3654/pdf_file"
 
 (InfoDV)
 
-Vom 10.12.2001 (Stand 01.07.2004)
+Vom 10.12.2001 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -70,11 +69,11 @@ beschliesst:
 
 **Amtsblatt**
 
-<sup>1</sup> Das Amtsblatt des Kantons Solothurn dient als Publikationsorgan für die amtlichen Bekanntmachungen aufgrund einer besonderen Verordnung[^4-1].
+<sup>1</sup> Das Amtsblatt des Kantons Solothurn dient als Publikationsorgan für die amtlichen Bekanntmachungen aufgrund der Verordnung über die amtlichen Publikationsorgane (Publikationsverordnung, PuV) vom 2. Mai 2023[^4-1].
 
-<sup>2</sup> Die Staatskanzlei kann das Amtsblatt mit Einschluss von Personendaten im Internet veröffentlichen. Personendaten im amtlichen Teil des Amtsblattes müssen spätestens nach einer Woche gelöscht werden.
+<sup>2</sup> …
 
-[^4-1]: Zur Zeit die Verordnung über die amtlichen Bekanntmachungen vom 23.04.1971, BGS [111.321](https://bgs.so.ch/data/111.321/de).
+[^4-1]: BGS [111.32](https://bgs.so.ch/data/111.32/de).
 
 #### § 5
 
