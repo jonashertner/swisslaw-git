@@ -4,13 +4,13 @@ number: "832.012"
 title: Standeskommissionsbeschluss über die Zulassung zur Leistungserbringung zulasten der obligatorischen Krankenpflegeversicherung
 short: StKB Zulassung OKP
 language: de
-version: 2022-01-01
-valid_until: 2023-06-30
-version_adopted: 2021-12-21
+version: 2023-07-01
+valid_until: 2025-06-30
+version_adopted: 2023-06-20
 adopted: 2021-12-21
 in_force: 2022-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/832.012"
-pdf: "https://ai.clex.ch/api/de/versions/2081/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2081/pdf_file"
 
 (StKB Zulassung OKP)
 
-vom 21.12.2021 (Stand 01.01.2022)
+vom 21.12.2021 (Stand 01.07.2023)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -48,6 +48,8 @@ beschliesst:
 <sup>1</sup> Die Standeskommission legt die Höchstzahl an Leistungserbringenden fest, die im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung Leistungen erbringen dürfen.
 
 <sup>2</sup> Sie entscheidet über die Festlegung von regionalen Höchstzahlen je Berufsgattung oder medizinischem Fachbereich.
+
+<sup>3</sup> Der Beschränkung unterstehen die medizinischen Fachgebiete und Höchstzahlen gemäss Anhang 1.
 
 #### Art. 4
 
