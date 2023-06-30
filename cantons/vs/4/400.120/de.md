@@ -4,20 +4,22 @@ number: "400.120"
 title: "Reglement über die Übernahme der Fahrkosten im öffentlichen Verkehr der Lernenden und Schüler der Sekundarstufe II *"
 short: RÜFÖV
 language: de
-version: 2021-07-01
-valid_until: 2023-06-30
-version_adopted: 2021-05-26
+version: 2023-07-01
+valid_until: 2024-06-30
+version_adopted: 2023-05-31
 adopted: 2012-06-06
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.120"
-pdf: "https://lex.vs.ch/api/de/versions/2905/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3219/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Übernahme der Fahrkosten im öffentlichen Verkehr der Lernenden und Schüler der Sekundarstufe II
 
-vom 06.06.2012 (Stand 01.07.2021)
+(RÜFÖV)
+
+vom 06.06.2012 (Stand 01.07.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -75,7 +77,7 @@ beschliesst:[^ingress-1]
 
 <sup>7</sup> Für die Lernenden, die die integrierte Berufsmaturität absolvieren (mit verschiedenen Schulorten), entsprechen die Fahrkosten mit den öffentlichen Verkehrsmitteln der Strecke zwischen dem Wohnort und dem am weitesten entfernten Schulort.
 
-<sup>8</sup> Die im Wallis wohnhaften Lernenden, deren Lehrvertrag von einem anderen Kanton validiert worden ist, müssen bei der Dienststelle für Berufsbildung des Kantons Wallis eine Kopie ihres Lehrvertrags sowie eine Wohnsitzbestätigung einreichen. Sobald die zuständige Behörde diese Dokumente erhalten und falls nötig validiert hat, erhalten die Lernenden ihren Rail-Check.
+<sup>8</sup> Die im Wallis wohnhaften Lernenden, deren Lehrvertrag von einem anderen Kanton validiert worden ist, müssen bei der Dienststelle für Berufsbildung des Kantons Wallis eine Kopie ihres Lehrvertrags sowie eine Wohnsitzbestätigung einreichen. Bei online validierten Lehrverträgen muss auch die Bestätigung der Gültigkeit des Vertrags durch den Lehrvertragskanton übermittelt werden. Sobald die zuständige Behörde diese Dokumente erhalten und falls nötig validiert hat, erhalten die Lernenden ihren Rail-Check.
 
 #### Art. 3
 

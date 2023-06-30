@@ -4,20 +4,22 @@ number: "400.120"
 title: Règlement concernant les modalités de prise en charge des frais de déplacement en transport public pour les apprentis et étudiants du secondaire du deuxième degré général
 short: RMFTP
 language: fr
-version: 2021-07-01
-valid_until: 2023-06-30
-version_adopted: 2021-05-26
+version: 2023-07-01
+valid_until: 2024-06-30
+version_adopted: 2023-05-31
 adopted: 2012-06-06
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.120"
-pdf: "https://lex.vs.ch/api/fr/versions/2905/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3219/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant les modalités de prise en charge des frais de déplacement en transport public pour les apprentis et étudiants du secondaire du deuxième degré général
 
-du 06.06.2012 (état 01.07.2021)
+(RMFTP)
+
+du 06.06.2012 (état 01.07.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -75,7 +77,7 @@ arrête:[^ingress-1]
 
 <sup>7</sup> Pour les apprentis qui effectuent la maturité professionnelle intégrée (avec des lieux de cours différents), les frais de déplacement en transport public correspondent au trajet entre le lieu de domicile et le lieu de cours le plus éloigné.
 
-<sup>8</sup> Les apprentis domiciliés en Valais et dont le contrat d'apprentissage est validé par un autre canton doivent adresser une copie de leur contrat d'apprentissage et une attestation de domicile au Service en charge de la formation professionnelle du canton du Valais. Une fois ces documents reçus et validés par le Service en question, les apprentis reçoivent leur rail-check.
+<sup>8</sup> Les apprentis domiciliés en Valais et dont le contrat d'apprentissage est validé par un autre canton doivent adresser une copie de leur contrat d'apprentissage et une attestation de domicile au Service en charge de la formation professionnelle du canton du Valais. Pour les contrats d’apprentissage validés en ligne, la confirmation cantonale de la validité du contrat doit également être transmise. Une fois ces documents reçus et validés par le Service en question, les apprentis reçoivent leur rail-check.
 
 #### Art. 3
 
