@@ -3,27 +3,30 @@ sr: "946.201"
 title: Bundesgesetz vom 25. Juni 1982 über aussenwirtschaftliche Massnahmen
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923"
 language: de
-version: 2007-05-01
+version: 2023-07-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923/20070501/de/xml/fedlex-data-admin-ch-eli-cc-1982-1923_1923_1923-20070501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1923_1923_1923/20070501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1982-1923_1923_1923-20230701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1923_1923_1923/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über aussenwirtschaftliche Massnahmen
 
-vom 25. Juni 1982 (Stand am 1. Mai 2007)
+vom 25. Juni 1982 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Zuständigkeit des Bundes in auswärtigen Angelegenheiten sowie auf die Artikel 28 und 29 der Bundesverfassung[^ingress-1], nach Einsicht in eine Botschaft des Bundesrates vom 7. Dezember 1981[^ingress-2],
+gestützt auf die Artikel 54 Absatz 1, 101 und 133 der Bundesverfassung[^ingress-1],[^ingress-2]
+
+nach Einsicht in eine Botschaft des Bundesrates vom 7. Dezember 1981[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]. Den genannten Bestimmungen entsprechen heute die Art. 101 und 133 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [BBl 1982 I 61](https://fedlex.data.admin.ch/eli/fga/1982/1_61_65_57)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 15 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1982 I 61](https://fedlex.data.admin.ch/eli/fga/1982/1_61_65_57)
 
 #### Art. 1
 
@@ -48,7 +51,7 @@ Der Bundesrat kann zur Wahrnehmung wesentlicher schweizerischer Wirtschaftsinter
 
 <sup>2</sup> Er erlässt Vorschriften über den Erwerb und den Nachweis des Ursprungs von Waren.
 
-[^3-1]: Fassung gemäss Anhang Ziff. 20 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^3-1]: Fassung gemäss Anhang Ziff. 20 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 #### Art. 4
 
@@ -72,18 +75,18 @@ Der Bundesrat kann zur Deckung der Vollzugskosten Gebühren erheben und die beau
 
 <sup>1</sup> Der Bundesrat kann vorsehen, dass der Beschwerde gegen Verfügungen, die gestützt auf Ausführungserlasse zu diesem Gesetz getroffen werden, ein Einspracheverfahren vorauszugehen hat.
 
-<sup>2</sup> ...[^6-1]
+<sup>2</sup> …[^6-1]
 
-<sup>3</sup> ...[^6-2]
+<sup>3</sup> …[^6-2]
 
-[^6-1]: Aufgehoben durch Anhang Ziff. 141 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
-[^6-2]: Eingefügt durch Anhang Ziff. 64 des BG vom 4. Okt. 1991 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Aufgehoben durch Anhang Ziff. 141 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^6-1]: Aufgehoben durch Anhang Ziff. 141 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^6-2]: Eingefügt durch Anhang Ziff. 64 des BG vom 4. Okt. 1991 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Aufgehoben durch Anhang Ziff. 141 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 7
 
-**Strafbestimmungen[^7-1]**
+**Strafbestimmungen**
 
-<sup>1</sup> Wer vorsätzlich oder fahrlässig den Ausführungsvorschriften dieses Gesetzes zuwiderhandelt, wird mit Busse bis zu 100000 Franken bestraft. Bei schwerer vorsätzlicher Widerhandlung kann der Täter überdies mit Gefängnis bis zu einem Jahr bestraft werden.
+<sup>1</sup> Wer vorsätzlich den Ausführungsvorschriften dieses Gesetzes zuwiderhandelt, wird mit Geldstrafe bestraft. Bei schwerer vorsätzlicher Widerhandlung kann der Täter überdies mit Freiheitsstrafe bis zu einem Jahr bestraft werden. Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 100 000 Franken.[^7-1]
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar. Es gelten die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^7-2].
 
@@ -91,16 +94,17 @@ Der Bundesrat kann zur Deckung der Vollzugskosten Gebühren erheben und die beau
 
 <sup>4</sup> Widerhandlungen gegen das Zollgesetz vom 1. Oktober 1925[^7-4] werden ausschliesslich nach dessen Strafvorschriften und Verfahrensbestimmungen geahndet, auch wenn ein Tatbestand nach diesem Artikel erfüllt ist.
 
-<sup>5</sup> Widerhandlungen gegen die Vorschriften über den Erwerb und den Nachweis des Ursprungs von Waren werden nach den vom Bundesrat erlassenen Strafbestimmungen verfolgt. Der Bundesrat kann für die Fälschung von Ursprungszeugnissen und ähnliche Handlungen die Gefängnisstrafe androhen.[^7-5]
+<sup>5</sup> Widerhandlungen gegen die Vorschriften über den Erwerb und den Nachweis des Ursprungs von Waren werden nach den vom Bundesrat erlassenen Strafbestimmungen verfolgt.[^7-5] Der Bundesrat kann für die Fälschung von Ursprungserzeugnissen und ähnliche Handlungen Freiheitsstrafe bis zu drei Jahren oder Geldstrafe androhen.[^7-6]
 
-<sup>6</sup> Die Strafverfolgung aufgrund der besonderen Bestimmungen des Strafgesetzbuches[^7-6] bleibt in allen Fällen vorbehalten.
+<sup>6</sup> Die Strafverfolgung aufgrund der besonderen Bestimmungen des Strafgesetzbuches[^7-7] bleibt in allen Fällen vorbehalten.
 
-[^7-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
+[^7-1]: Fassung gemäss Ziff. I 15 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^7-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^7-3]: Fassung gemäss Ziff. I 4 des BG vom 24. März 2006 über die Neuregelung der Berichterstattung auf dem Gebiet der Aussenwirtschaftspolitik, in Kraft seit 1. Jan. 2007 ([AS 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [BBl 2006 1831](https://fedlex.data.admin.ch/eli/fga/2006/162)).
-[^7-4]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 3, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^7-5]: Fassung gemäss Anhang Ziff. 20 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^7-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^7-4]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 3; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^7-5]: Fassung gemäss Anhang Ziff. 20 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^7-6]: Fassung des zweiten Satzes gemäss Ziff. I 15 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^7-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 8
 
@@ -116,7 +120,7 @@ Die Verfolgung und Beurteilung der Widerhandlungen unterstehen der Bundesstrafge
 
 <sup>2</sup> Fragen, welche die internationale Entwicklungszusammenarbeit berühren, werden an einer gemeinsamen Sitzung mit der Beratenden Kommission für internationale Entwicklungszusammenarbeit behandelt.
 
-[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
+[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
 #### Art. 10
 
@@ -137,7 +141,7 @@ Den Berichten zur Aussenwirtschaftspolitik beigefügt sind die jährlichen Beric
 - c. Artikel 4 Absatz 2 des Zollpräferenzenbeschlusses vom 9. Oktober 1981[^10-3].[^10-4]
 
 [^10-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^10-2]: [[AS 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927), [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796), [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)Ziff. I 2. [AS 2018 3933](https://fedlex.data.admin.ch/eli/oc/2018/629)Art. 5]. Siehe heute: Art. 3 des BG vom 15. Dez. 2017 über die Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten ([SR 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)).
+[^10-2]: [[AS 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927); [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796); [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)Ziff. I 2. [AS 2018 3933](https://fedlex.data.admin.ch/eli/oc/2018/629)Art. 5]. Siehe heute: Art. 3 des BG vom 15. Dez. 2017 über die Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten ([SR 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)).
 [^10-3]: [SR 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
 [^10-4]: Eingefügt durch Ziff. I 4 des BG vom 24. März 2006 über die Neuregelung der Berichterstattung auf dem Gebiet der Aussenwirtschaftspolitik, in Kraft seit 1. Jan. 2007 ([AS 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [BBl 2006 1831](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 

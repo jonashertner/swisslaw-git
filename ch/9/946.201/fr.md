@@ -3,33 +3,28 @@ sr: "946.201"
 title: Loi fédérale du 25 juin 1982 sur les mesures économiques extérieures
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923"
 language: fr
-version: 2007-05-01
+version: 2023-07-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923/20070501/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1923_1923_1923-20070501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1923_1923_1923/20070501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1923_1923_1923-20230701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1923_1923_1923/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les mesures économiques extérieures
 
-[^t-1]¶ (Etat le 1<sup>er</sup> mai 2007)
-
-946.201
-
-du 25 juin 1982 (Etat le 1<sup>er</sup> mai 2007)
-
-[^t-1]: [RO 1982 1923](https://fedlex.data.admin.ch/eli/oc/1982/1923_1923_1923)
+du 25 juin 1982 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu la compétence de la Confédération en matière de relations extérieures, vu les art. 28 et 29 de la constitution[^ingress-1], vu le message du Conseil fédéral du 7 décembre 1981[^ingress-2],
+vu la compétence de la Confédération en matière de relations extérieures, vu les art. 54, al. 1, 101 et 133 de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 7 décembre 1981[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. Aux dispositions mentionnées correspondent actuellement les art. 101 et 133 de la Constitution du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [FF 1982 I 65](https://fedlex.data.admin.ch/eli/fga/1982/1_61_65_57)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 15 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1982 I 65](https://fedlex.data.admin.ch/eli/fga/1982/1_61_65_57)
 
 #### Art. 1
 
@@ -54,7 +49,7 @@ Afin de sauvegarder des intérêts économiques suisses essentiels, le Conseil f
 
 <sup>2</sup> Il édicte des prescriptions sur l’obtention et la preuve de l’origine de marchandises.
 
-[^3-1]: Nouvelle teneur selon le ch. 20 de l'annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^3-1]: Nouvelle teneur selon le ch. 20 de l’annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 #### Art. 4
 
@@ -62,13 +57,13 @@ Afin de sauvegarder des intérêts économiques suisses essentiels, le Conseil f
 
 <sup>1</sup> Le Conseil fédéral et les départements peuvent confier l’exécution de mesures fondées sur l’art. 1 et l’application d’accords sur le trafic des marchandises, des services et des paiements, à des organisations ou institutions, en particulier à celles qui appartiennent à l’économie privée.
 
-<sup>2</sup> A cet effet, ces organisations et institutions sont soumises à la surveillance et aux instructions du Conseil fédéral ou des unités administratives qu’il désigne.
+<sup>2</sup> À cet effet, ces organisations et institutions sont soumises à la surveillance et aux instructions du Conseil fédéral ou des unités administratives qu’il désigne.
 
 <sup>3</sup> Les organes et les employés de ces organisations et institutions sont soumis aux dispositions légales sur la responsabilité pénale et financière et le secret de fonction des fonctionnaires fédéraux.
 
 #### Art. 5
 
-**Emoluments**
+**Émoluments**
 
 Le Conseil fédéral peut percevoir des émoluments aux fins de couvrir les frais d’exécution et autoriser les organisations et institutions chargées de l’exécution des mesures à effectuer cette perception. Les tarifs de ces émoluments doivent être approuvés par le Département compétent.
 
@@ -78,18 +73,18 @@ Le Conseil fédéral peut percevoir des émoluments aux fins de couvrir les frai
 
 <sup>1</sup> Le Conseil fédéral peut prévoir que le recours interjeté contre les décisions prises en vertu des prescriptions d’exécution de la présente loi sera précédé d’une procédure d’opposition.
 
-<sup>2</sup> ...[^6-1]
+<sup>2</sup> …[^6-1]
 
-<sup>3</sup> ...[^6-2]
+<sup>3</sup> …[^6-2]
 
-[^6-1]: Abrogé par le ch. 141 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
-[^6-2]: Introduit par le ch. 64 de l’annexe à la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogé par le ch. 141 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^6-1]: Abrogé par le ch. 141 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^6-2]: Introduit par le ch. 64 de l’annexe à la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogé par le ch. 141 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 7
 
-**Dispositions pénales[^7-1]**
+**Dispositions pénales**
 
-<sup>1</sup> Celui qui enfreint intentionnellement ou par négligence les prescriptions d’exécution de la présente loi sera puni d’une amende de 100 000 francs au plus. Si l’infraction est intentionnelle, le juge pourra prononcer en outre, dans les cas graves, une peine d’emprisonnement d’une année au plus.
+<sup>1</sup> Quiconque enfreint intentionnellement les prescriptions d’exécution de la présente loi est puni d’une peine pécuniaire. Si l’infraction est intentionnelle, le juge peut prononcer en outre, dans les cas graves, une peine privative de liberté d’un an au plus. L’auteur qui agit par négligence est puni d’une amende de 100 000 francs au plus.[^7-1]
 
 <sup>2</sup> La tentative et la complicité sont punissables. Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^7-2] sont applicables.
 
@@ -97,16 +92,17 @@ Le Conseil fédéral peut percevoir des émoluments aux fins de couvrir les frai
 
 <sup>4</sup> Les infractions à la loi fédérale du 1<sup>er</sup> octobre 1925 sur les douanes[^7-4] seront jugées uniquement selon les dispositions pénales et de procédure de cette loi, même si l’infraction constitue en même temps un acte punissable en vertu du présent article.
 
-<sup>5</sup> Les infractions aux prescriptions sur l’obtention et la preuve de l’origine des marchandises sont poursuivies selon les dispositions pénales édictées par le Conseil fédéral. Ce dernier peut prévoir une peine d’emprisonnement pour la falsification de certificats d’origine et les actes similaires.[^7-5]
+<sup>5</sup> Les infractions aux prescriptions sur l’obtention et la preuve de l’origine des marchandises sont poursuivies selon les dispositions pénales édictées par le Conseil fédéral.[^7-5] Ce dernier peut prévoir une peine privative de liberté de trois ans au plus ou une peine pécuniaire pour la falsification de certificats d’origine et les actes similaires.[^7-6]
 
-<sup>6</sup> La poursuite pénale fondée sur les dispositions spéciales du code pénal suisse[^7-6] est réservée dans tous les cas.
+<sup>6</sup> La poursuite pénale fondée sur les dispositions spéciales du code pénal suisse[^7-7] est réservée dans tous les cas.
 
-[^7-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^7-1]: Nouvelle teneur selon le ch. I 15 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^7-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^7-3]: Nouvelle teneur selon le ch. I 4 de la LF du 24 mars 2006 relative à la nouvelle réglementation concernant le rapport sur la politique économique extérieure, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1797](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 [^7-4]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793), [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la loi du 18 mars 2005 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^7-5]: Nouvelle teneur selon le ch. 20 de l'annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^7-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^7-5]: Nouvelle teneur selon le ch. 20 de l’annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^7-6]: Nouvelle teneur de la phrase selon le ch. I 15 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^7-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 8
 
@@ -122,7 +118,7 @@ La poursuite pénale et le jugement des infractions sont du ressort de la juridi
 
 <sup>2</sup> Les questions touchant aussi la coopération internationale au développement sont traitées lors de séances communes, qui réunissent la commission consultative pour la politique économique extérieure et la commission pour la coopération internationale au développement.
 
-[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 10
 
@@ -143,7 +139,7 @@ Aux rapports sur la politique économique extérieure sont joints les rapports a
 - c. l’art. 4, al. 2, de l’arrêté du 9 octobre 1981 sur les préférences tarifaires[^10-3].[^10-4]
 
 [^10-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^10-2]: [RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)
+[^10-2]: [[RO 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927); [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796); [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)ch. I 2. [RO 2018 3933](https://fedlex.data.admin.ch/eli/oc/2018/629)art. 5]. Voir actuellement l’art. 3 de la LF du 15 déc. 2017 sur l’importation de produits agricoles transformés ([RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)).
 [^10-3]: [RS 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
 [^10-4]: Introduit par le ch. I 4 de la LF du 24 mars 2006 relative à la nouvelle réglementation concernant le rapport sur la politique économique extérieure, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1797](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 

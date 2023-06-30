@@ -3,33 +3,34 @@ sr: "946.201"
 title: Legge federale del 25 giugno 1982 sulle misure economiche esterne
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923"
 language: it
-version: 2007-05-01
+version: 2023-07-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923/20070501/it/xml/fedlex-data-admin-ch-eli-cc-1982-1923_1923_1923-20070501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1923_1923_1923/20070501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1982-1923_1923_1923-20230701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1923_1923_1923/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulle misure economiche esterne
 
-del 25 giugno 1982 (Stato 1° maggio 2007)
+del 25 giugno 1982 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-vista la competenza della Confederazione in materia di affari esteri; visti gli articoli 28 e 29 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 7 dicembre 1981[^ingress-2],
+vista la competenza della Confederazione in materia di affari esteri; visti gli articoli 54 capoverso 1, 101 e 133 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 7 dicembre 1981[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3]. Vedi ora gli art. 101 e 133 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [FF 1982 I 57](https://fedlex.data.admin.ch/eli/fga/1982/1_61_65_57)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: NT 15
+[^ingress-3]: [FF 1982 I 57](https://fedlex.data.admin.ch/eli/fga/1982/1_61_65_57)
 
 #### Art. 1
 
 **Protezione da ripercussioni di misure estere o di condizioni straordinarie all’estero**
 
-Se, a causa di misure estere o di condizioni straordinarie all’estero, il traffico svizzero delle merci, dei servizi o dei pagamenti dovesse subire ripercussioni tali da risultarne danneggiati interessi economici svizzeri essenziali, il Consiglio federale può, fintanto che le circostanze lo esigano,
+Se, a causa di misure estere o di condizioni straordinarie all’estero, il traffico svizzero delle merci, dei servizi o dei pagamenti dovesse subire ripercussioni tali da risultarne danneggiati interessi economici svizzeri essenziali, il Consiglio federale può, fintanto che le circostanze lo esigano:
 
 - a. sorvegliare, assoggettare a permesso, limitare o proibire l’importazione, l’esportazione e il transito delle merci e il traffico dei servizi;
 - b. disciplinare il traffico dei pagamenti con determinati Paesi e all’occorrenza ordinare la riscossione di contributi per far fronte alle perturbazioni nel traffico delle merci, dei servizi e dei pagamenti causate dalla fluttuazione dei prezzi o della moneta.
@@ -48,7 +49,7 @@ Per tutelare interessi economici svizzeri essenziali, il Consiglio federale può
 
 <sup>2</sup> Emana prescrizioni sull’acquisizione e la prova dell’origine delle merci.
 
-[^3-1]: Nuovo testo giusta il n. 20 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^3-1]: Nuovo testo giusta l’all. n. 20 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 #### Art. 4
 
@@ -76,14 +77,14 @@ Il Consiglio federale può riscuotere emolumenti al fine di coprire i costi d’
 
 <sup>3</sup> ...[^6-2]
 
-[^6-1]: Abrogato dal n. 141 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
-[^6-2]: Introdotto dal n. 64 dell’all. alla LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dal n. 141 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^6-1]: Abrogato dall’all. n. 141 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^6-2]: Introdotto dall’all. n. 64 della LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dall’all. n. 141 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 7
 
-**Disposizioni penali[^7-1]**
+**Disposizioni penali**
 
-<sup>1</sup> Chiunque, intenzionalmente o per negligenza, viola le disposizioni esecutive della presente legge, è punito con la multa fino a 100 000 franchi. Se l’infrazione è intenzionale, il giudice può pronunciare inoltre, nei casi gravi, la detenzione fino a un anno.
+<sup>1</sup> Chiunque intenzionalmente viola le disposizioni esecutive della presente legge, è punito con una pena pecuniaria. In caso di infrazione intenzionale grave, il giudice può pronunciare inoltre una pena detentiva sino a un anno. Se l’autore ha agito per negligenza, la pena è della multa fino a 100 000 franchi.[^7-1]
 
 <sup>2</sup> Il tentativo e la complicità sono punibili. Sono applicabili gli articoli 6 e 7 della legge federale del 22 marzo 1974[^7-2] sul diritto penale amministrativo.
 
@@ -91,16 +92,17 @@ Il Consiglio federale può riscuotere emolumenti al fine di coprire i costi d’
 
 <sup>4</sup> Le infrazioni alla legge federale del 1° ottobre 1925[^7-4] sulle dogane sono giudicate esclusivamente secondo le disposizioni penali e di procedura previste da quella legge, anche se l’infrazione costituisce una fattispecie secondo il presente articolo.
 
-<sup>5</sup> Le infrazioni alle prescrizioni sull’acquisizione e la prova dell’origine delle merci sono perseguite secondo le disposizioni penali emanate dal Consiglio federale. Per la falsificazione di attestazioni dell’origine e operazioni analoghe il Consiglio federale può comminare la detenzione.[^7-5]
+<sup>5</sup> Le infrazioni alle prescrizioni sull’acquisizione e la prova dell’origine delle merci sono perseguite secondo le disposizioni penali emanate dal Consiglio federale.[^7-5] Per la falsificazione di attestazioni dell’origine e operazioni analoghe il Consiglio federale può comminare una pena detentiva sino a tre anni o una pena pecuniaria.[^7-6]
 
-<sup>6</sup> È riservato in ogni caso il perseguimento penale conformemente alle disposizioni speciali del Codice penale svizzero[^7-6].
+<sup>6</sup> È riservato in ogni caso il perseguimento penale conformemente alle disposizioni speciali del Codice penale svizzero[^7-7].
 
-[^7-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^7-1]: Nuovo testo giusta la cifra I 15 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^7-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^7-3]: Nuovo testo giusta il n. I 4 della LF del 24 mar. 2006 sul nuovo dispositivo normativo concernente il rapporto sulla politica economica esterna, in vigore dal 1° gen. 2007 ([RU 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1709](https://fedlex.data.admin.ch/eli/fga/2006/162)).
-[^7-4]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 n. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^7-5]: Nuovo testo giusta il n. 20 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^7-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^7-3]: Nuovo testo giusta la cifra I 4 della LF del 24 mar. 2006 sul nuovo dispositivo normativo concernente il rapporto sulla politica economica esterna, in vigore dal 1° gen. 2007 ([RU 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1709](https://fedlex.data.admin.ch/eli/fga/2006/162)).
+[^7-4]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^7-5]: Nuovo testo giusta l’all. n. 20 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^7-6]: Nuovo testo del per. giusta la cifra I 15 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^7-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 8
 
@@ -116,7 +118,7 @@ Il perseguimento e il giudizio delle infrazioni soggiacciono alla giurisdizione 
 
 <sup>2</sup> I problemi concernenti anche la cooperazione internazionale allo sviluppo sono trattati durante sedute comuni della commissione consultiva di politica economica esterna e della commissione per la cooperazione internazionale allo sviluppo.
 
-[^9-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^9-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 10
 
@@ -137,9 +139,9 @@ I rapporti sulla politica economica esterna sono corredati dei rendiconti annual
 - c. l’articolo 4 capoverso 2 del decreto del 9 ottobre 1981[^10-3] sulle preferenze tariffali.[^10-4]
 
 [^10-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^10-2]: [[RU 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927), [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796), [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)n. I 2. [RU 2018 3933](https://fedlex.data.admin.ch/eli/oc/2018/629)art. 5]. Ora: l’art. 3 della LF del 15 dic. 2017 sull’importazione di prodotti agricoli trasformati ([RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)).
+[^10-2]: [[RU 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927), [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796), [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)cifra I 2. [RU 2018 3933](https://fedlex.data.admin.ch/eli/oc/2018/629)art. 5]. Ora: l’art. 3 della LF del 15 dic. 2017 sull’importazione di prodotti agricoli trasformati ([RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)).
 [^10-3]: [RS 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
-[^10-4]: Introdotto dal n. I 4 della LF del 24 mar. 2006 sul nuovo dispositivo normativo concernente il rapporto sulla politica economica esterna, in vigore dal 1° gen. 2007 ([RU 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1709](https://fedlex.data.admin.ch/eli/fga/2006/162)).
+[^10-4]: Introdotto dalla cifra I 4 della LF del 24 mar. 2006 sul nuovo dispositivo normativo concernente il rapporto sulla politica economica esterna, in vigore dal 1° gen. 2007 ([RU 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1709](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 
 #### Art. 11
 
