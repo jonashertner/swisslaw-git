@@ -4,11 +4,11 @@ title: Loi du 22 mars 1991 sur la radioprotection (LRaP)
 short: LRaP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1991-03-22
 in_force: 1994-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/fr"
 
 (LRaP)
 
-du 22 mars 1991 (Etat le 1<sup>er</sup> janvier 2022)
+du 22 mars 1991 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 64, 74, 118, 122 et 123 de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 17 février 1988[^ingress-3],
+vu les art. 64, al. 1, 74, al. 1, et 118, al. 2, let. c, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 17 février 1988[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon l’annexe ch. II 5 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^ingress-2]: Nouvelle teneur selon le ch. I 32 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1988 II 189](https://fedlex.data.admin.ch/eli/fga/1988/2_181_189_141)
 
 ## Chapitre 1 Dispositions générales
@@ -506,7 +506,7 @@ Lorsqu’une autorisation a été retirée ou qu’elle est caduque, son détent
 
 <sup>4</sup> L’autorité qui a délivré l’autorisation constate par la voie d’une décision que les sources de danger ont été éliminées correctement.
 
-## Chapitre 4 Responsabilité civile****
+## Chapitre 4 Responsabilité civile
 
 [^chap4-1]
 
@@ -563,13 +563,15 @@ Le Conseil fédéral fixe les émoluments pour:
 
 **Exposition injustifiée de tiers à l’irradiation**[^43-1]
 
-<sup>1</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement, expose un tiers à des irradiations manifestement injustifiées.
+<sup>1</sup> Est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire quiconque, intentionnellement, expose un tiers à des irradiations manifestement injustifiées.[^43-2]
 
-<sup>2</sup> Est puni d’une peine privative de liberté ou d’une peine pécuniaire quiconque, intentionnellement, expose un tiers à des irradiations manifestement injustifiées, dans le but de nuire à sa santé.
+<sup>2</sup> Est puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire quiconque, intentionnellement, expose un tiers à des irradiations manifestement injustifiées, dans le but de nuire à sa santé.[^43-3]
 
 <sup>3</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, par négligence, expose un tiers à des irradiations manifestement injustifiées.
 
 [^43-1]: Nouvelle teneur selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^43-2]: Nouvelle teneur selon le ch. I 32 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^43-3]: Nouvelle teneur selon le ch. I 32 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 43a
 

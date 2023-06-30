@@ -4,11 +4,11 @@ title: Legge del 22 marzo 1991 sulla radioprotezione (LRaP)
 short: LRaP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1991-03-22
 in_force: 1994-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/it"
 
 (LRaP)
 
-del 22 marzo 1991 (Stato 1° gennaio 2022)
+del 22 marzo 1991 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 64, 74, 118, 122 e 123 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 17 febbraio 1988[^ingress-3],
+visti gli articoli 64 capoverso 1, 74 capoverso 1 e 118 capoverso 2 lettera c della Co-stituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 17 febbraio 1988[^ingress-3],
 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. II 5 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^ingress-2]: Nuovo testo giusta il n. I 32 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1988 II 141](https://fedlex.data.admin.ch/eli/fga/1988/2_181_189_141)
 
 ## Capitolo 1: Disposizioni generali
@@ -54,9 +54,9 @@ La presente legge è applicabile a tutte le attività, le installazioni, gli eve
 
 <sup>4</sup> Il Consiglio federale può prevedere deroghe alla presente legge per le sostanze di debole radioattività.
 
-[^2-1]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^2-1]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 [^2-2]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^2-3]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^2-3]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 
 #### Art. 3
 
@@ -68,7 +68,7 @@ In complemento alle disposizioni della presente legge sono applicabili in partic
 - b. per i danni d’origine nucleare causati da impianti nucleari o dal trasporto di materie nucleari, la legge del 18 marzo 1983[^3-3] sulla responsabilità civile in materia nucleare;
 - c. per il trasporto di sostanze radioattive all’esterno dell’area dell’impresa, le prescrizioni della Confederazione sul trasporto di merci pericolose.
 
-[^3-1]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^3-1]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 [^3-2]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 [^3-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
@@ -115,7 +115,7 @@ Il Consiglio federale istituisce le commissioni consultive seguenti:
 
 [^7-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015.
 [^7-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015.
-[^7-3]: Nuovo testo giusta il n. II 9 dell’all. alla LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^7-3]: Nuovo testo giusta l’all. n. II 9 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 
 ## Capitolo 2: Protezione dell’uomo e dell’ambiente
 
@@ -224,7 +224,7 @@ Il Consiglio federale disciplina l’accertamento della dose di radiazione. Esso
 
 <sup>3</sup> Per i radionuclidi nelle derrate alimentari si applicano le concentrazioni massime secondo la legislazione sulle derrate alimentari.
 
-[^18-1]: Nuovo testo giusta il n. II 5 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^18-1]: Nuovo testo giusta l’all. n. II 5 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 #### Art. 19
 
@@ -336,8 +336,8 @@ Per le scorie radioattive non prodotte in Svizzera, ma da smaltire in Svizzera, 
 - c. gli Stati di transito hanno acconsentito al transito;
 - d. il destinatario ha convenuto in modo vincolante con lo speditore, e con il consenso dello Stato d’origine, che lo speditore riprenderà se necessario le scorie.[^25-2]
 
-[^25-1]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
-[^25-2]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^25-1]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^25-2]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 
 #### Art. 26
 
@@ -349,7 +349,7 @@ Per le scorie radioattive non prodotte in Svizzera, ma da smaltire in Svizzera, 
 
 <sup>3</sup> Le scorie radioattive che non possono essere scaricate nell’ambiente devono essere trattenute adeguatamente oppure racchiuse in modo sicuro, se del caso solidificate, raccolte e depositate in un luogo approvato dall’autorità di sorveglianza sino alla loro fornitura o esportazione.[^26-1]
 
-[^26-1]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^26-1]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 
 #### Art. 27
 
@@ -363,10 +363,10 @@ Per le scorie radioattive non prodotte in Svizzera, ma da smaltire in Svizzera, 
 
 <sup>4</sup> Se la loro immediata fornitura o il loro smaltimento non sono possibili oppure sono inadeguati dal profilo della radioprotezione, le scorie sono depositate, sotto controllo, in un deposito intermedio.[^27-4]
 
-[^27-1]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
-[^27-2]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
-[^27-3]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
-[^27-4]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^27-1]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^27-2]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^27-3]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^27-4]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 
 ## Capitolo 3: Licenza e sorveglianza
 
@@ -396,7 +396,7 @@ Il Consiglio federale può:
 
 Il Consiglio federale determina le autorità preposte al rilascio delle licenze.
 
-[^30-1]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^30-1]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 
 #### Art. 31
 
@@ -506,7 +506,7 @@ Se una licenza è stata revocata o è estinta, il titolare della licenza o il de
 
 <sup>4</sup> L’autorità che ha rilasciato la licenza accerta mediante decisione che le fonti di pericolo sono state eliminate correttamente.
 
-## Capitolo 4: Responsabilità civile****
+## Capitolo 4: Responsabilità civile
 
 [^chap4-1]
 
@@ -563,15 +563,15 @@ Il Consiglio federale stabilisce emolumenti per:
 
 **Irradiazione ingiustificata di persone**[^43-1]
 
-<sup>1</sup> Chiunque intenzionalmente espone una persona a una radiazione manifestamente ingiustificata, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^43-2]
+<sup>1</sup> Chiunque intenzionalmente espone una persona a una radiazione manifestamente ingiustificata, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.[^43-2]
 
-<sup>2</sup> Chiunque intenzionalmente espone una persona a una radiazione manifestamente ingiustificata, con l’intenzione di nuocere alla sua salute, è punito con una pena detentiva o con una pena pecuniaria.[^43-3]
+<sup>2</sup> Chiunque intenzionalmente espone una persona a una radiazione manifestamente ingiustificata, con l’intenzione di nuocere alla sua salute, è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.[^43-3]
 
 <sup>3</sup> Chiunque, per negligenza, espone una persona a una radiazione manifestamente ingiustificata , è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^43-4]
 
-[^43-1]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
-[^43-2]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^43-3]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^43-1]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^43-2]: Nuovo testo giusta il n. I 32 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^43-3]: Nuovo testo giusta il n. I 32 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^43-4]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 #### Art. 43a
@@ -587,7 +587,7 @@ Chiunque intenzionalmente:
 
 <sup>2</sup> Se il colpevole ha agito per negligenza, la pena è una pena pecuniaria sino a 180 aliquote giornaliere.[^43a-3]
 
-[^43a-1]: Introdotto dal n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^43a-1]: Introdotto dall’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 [^43a-2]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 [^43a-3]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
@@ -609,7 +609,7 @@ Chiunque, intenzionalmente o per negligenza:
 <sup>2</sup> Il Consiglio federale può prevedere una multa sino a 20 000 franchi per le infrazioni alle prescrizioni che esso emana per il caso di messa in pericolo attraverso radioattività.[^44-3]
 
 [^44-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^44-2]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^44-2]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 [^44-3]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 #### Art. 45
@@ -630,7 +630,7 @@ Chiunque, intenzionalmente o per negligenza:
 
 <sup>2</sup> Le infrazioni di cui agli articoli 44 e 45 capoverso 1 sono perseguite e giudicate dall’autorità che ha rilasciato la licenza o dall’autorità di sorveglianza. Alla procedura è applicabile la legge federale del 22 marzo 1974[^46-2] sul diritto penale amministrativo.
 
-[^46-1]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^46-1]: Nuovo testo giusta l’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 [^46-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 ## Capitolo 7: Disposizioni finali
@@ -646,7 +646,7 @@ Chiunque, intenzionalmente o per negligenza:
 <sup>3</sup> All’esecuzione può associare i Cantoni.[^47-3]
 
 [^47-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^47-2]: Introdotto dal n. II 4 dell’all. alla LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
+[^47-2]: Introdotto dall’all. n. II 4 della LF del 21 mar. 2003 sull’energia nucleare, in vigore dal 1° feb. 2005 ([RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [FF 2001 2349](https://fedlex.data.admin.ch/eli/fga/2001/546)).
 [^47-3]: Originario cpv. 2.
 
 #### Art. 48

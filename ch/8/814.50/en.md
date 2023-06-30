@@ -4,11 +4,11 @@ title: Radiological Protection Act of 22 March 1991 (RPA)
 short: RPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1991-03-22
 in_force: 1994-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20230701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,16 +19,16 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RPA)
 
-of 22 March 1991 (Status as of 1 January 2022)
+of 22 March 1991 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of Articles 64, 74, 118, 122 und 123 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Dispatch of the Federal Council dated 17 February 1988[^ingress-3],
+on the basis of Articles 64 paragraph 1, 74 paragraph 1 and 118 paragraph 2 letter c of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Dispatch of the Federal Council dated 17 February 1988[^ingress-3],
 
 decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Amended by Annex No II 5 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^ingress-2]: Amended by No I 32 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1988 II 181](https://fedlex.data.admin.ch/eli/fga/1988/2_181_189_141)
 
 ## Chapter 1 General Provisions
@@ -508,7 +508,7 @@ Once a licence is revoked or has expired, the sources of risk must be removed by
 
 <sup>4</sup> The licensing authority shall issue a decree declaring that the sources of risk have been duly removed.
 
-## Chapter 4 Liability****
+## Chapter 4 Liability
 
 [^chap4-1]
 
@@ -565,15 +565,15 @@ The Federal Council shall set the fees for:
 
 **Unjustified radiation exposure of persons**[^43-1]
 
-<sup>1</sup> Any person who wilfully subjects someone to manifestly unjustified radiation exposure shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^43-2]
+<sup>1</sup> Any person who wilfully subjects someone to manifestly unjustified radiation exposure shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.[^43-2]
 
-<sup>2</sup> Any person who wilfully subjects another to manifestly unjustified radiation exposure with the intention of damaging that person’s health shall be liable to a custodial sentence or to a monetary penalty.[^43-3]
+<sup>2</sup> Any person who wilfully subjects another to manifestly unjustified radiation exposure with the intention of damaging that person’s health shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.[^43-3]
 
 <sup>3</sup> Any person who negligently subjects another to manifestly unjustified radiation exposure shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^43-4]
 
 [^43-1]: Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ([AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [BBl 2001 2665](https://fedlex.data.admin.ch/eli/fga/2001/546)).
-[^43-2]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the amended version of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^43-3]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the amended version of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^43-2]: Amended by No I 32 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^43-3]: Amended by No I 32 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^43-4]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the amended version of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 #### Art. 43a

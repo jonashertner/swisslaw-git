@@ -4,11 +4,11 @@ title: Strahlenschutzgesetz vom 22. März 1991 (StSG)
 short: StSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1991-03-22
 in_force: 1994-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/de"
 
 (StSG)
 
-vom 22. März 1991 (Stand am 1. Januar 2022)
+vom 22. März 1991 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 64, 74, 118, 122 und 123 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 17. Februar 1988[^ingress-3],
+gestützt auf die Artikel 64 Absatz 1, 74 Absatz 1 und 118 Absatz 2 Buchstabe c der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 17. Februar 1988[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Fassung gemäss Anhang Ziff. II 5 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^ingress-2]: Fassung gemäss Ziff. I 32 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1988 II 181](https://fedlex.data.admin.ch/eli/fga/1988/2_181_189_141)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -506,7 +506,7 @@ Ist eine Bewilligung entzogen worden oder erloschen, so muss der bisherige Inhab
 
 <sup>4</sup> Die Bewilligungsbehörde stellt in einer Verfügung fest, dass die Gefahrenquellen ordnungsgemäss beseitigt wurden.
 
-## 4. Kapitel: Haftpflicht****
+## 4. Kapitel: Haftpflicht
 
 [^chap4-1]
 
@@ -563,15 +563,15 @@ Der Bundesrat setzt die Gebühren fest für:
 
 **Ungerechtfertigte Bestrahlung von Personen**[^43-1]
 
-<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich jemanden einer offensichtlich ungerechtfertigten Strahlung aussetzt.[^43-2]
+<sup>1</sup> Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer vorsätzlich jemanden einer offensichtlich ungerechtfertigten Strahlung aussetzt.[^43-2]
 
-<sup>2</sup> Mit Freiheitsstrafe oder Geldstrafe wird bestraft, wer vorsätzlich jemanden einer offensichtlich ungerechtfertigten Strahlung aussetzt, in der Absicht, dessen Gesundheit zu schädigen.[^43-3]
+<sup>2</sup> Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer vorsätzlich jemanden einer offensichtlich ungerechtfertigten Strahlung aussetzt, in der Absicht, seine Gesundheit zu schädigen.[^43-3]
 
 <sup>3</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer fahrlässig jemanden einer offensichtlich ungerechtfertigten Strahlung aussetzt.[^43-4]
 
 [^43-1]: Fassung gemäss Anhang Ziff. II 4 des Kernenergiegesetzes vom 21. März 2003, in Kraft seit 1. Dez. 2005 ([AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [BBl 2001 2665](https://fedlex.data.admin.ch/eli/fga/2001/546)).
-[^43-2]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^43-3]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^43-2]: Fassung gemäss Ziff. I 32 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^43-3]: Fassung gemäss Ziff. I 32 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^43-4]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 #### Art. 43a
