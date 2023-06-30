@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "922.110"
-title: "Arrêté sur l'exercice de la chasse en Valais 2022-2023"
+title: "Arrêté sur l'exercice de la chasse en Valais 2023-2024"
 language: fr
-version: 2022-07-08
-corrected: 2022-08-18
-version_adopted: 2022-08-10
+version: 2023-07-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-14
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/fr/versions/3061/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3222/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté sur l'exercice de la chasse en Valais 2022-2023
+# Arrêté sur l'exercice de la chasse en Valais 2023-2024
 
-du 28.06.2022 (état 08.07.2022)
+du 14.06.2023 (état 01.07.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -95,9 +95,8 @@ arrête:[^ingress-1]
 - b) carnet de contrôle perdu durant l’exercice de la chasse:
   - 1\. permis A, B ou A+B — Fr. 250.-
   - 2\. permis C, E ou S — Fr. 50.-
-- c) taxe non membre d’une diana — Fr. 100.-
-- d) duplicata du permis de chasse — Fr. 10.-
-- e) carte d'invité — Fr. 200.-
+- c) taxe non membre d’une Diana — Fr. 200.-
+- d) carte d'invité — Fr. 200.-
 
 <sup>4</sup> Dès le 50<sup>e</sup> permis, les chasseurs bénéficient du demi-tarif.
 
@@ -109,7 +108,7 @@ arrête:[^ingress-1]
 
 **Supplément pour non-membre**
 
-<sup>1</sup> Pour tout chasseur non-membre d'une Diana affiliée à la Fédération Valaisanne des Sociétés de Chasse (ci-après: FVSC), il est perçu lors de la délivrance du permis un supplément de 100 francs, en compensation du travail effectué par les Dianas et la FVSC en collaboration avec le canton. Ce montant est restitué à la FVSC.
+<sup>1</sup> Pour tout chasseur non-membre d'une Diana affiliée à la Fédération Valaisanne des Sociétés de Chasse (ci-après: FVSC), il est perçu lors de la délivrance du permis un supplément de 200 francs, en compensation du travail effectué par les Dianas et la FVSC en collaboration avec le canton. Ce montant est restitué à la FVSC.
 
 #### Art. 6
 
@@ -117,7 +116,7 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Les permis de chasse sont délivrés par le Service de la chasse, de la pêche et de la faune (ci-après: SCPF). Celui qui entend valider son permis de chasse doit retourner à cette instance le formulaire officiel de commande dûment rempli et accompagné de tous les justificatifs demandés, au plus tard pour le 21 août. Cette échéance du 21 août est également valable pour les commandes de permis effectuées en ligne.
 
-<sup>2</sup> Celui qui n’a pas reçu le formulaire de commande au 1<sup>er</sup> août ou qui souhaite des renseignements peut s’adresser au SCPF.
+<sup>2</sup> Celui qui n’a pas reçu le formulaire de commande au 1<sup>er</sup> août peut s’adresser au SCPF.
 
 <sup>3</sup> Toute commande de permis A, B, A+B et G émise après le 21 août fera l'objet d'une facturation de 50 francs. Le cachet du timbre postal fait foi. Pour les commandes formulées avec le formulaire papier, cette taxe fera l’objet d’une facture et pour les commandes en ligne elle sera automatiquement imputée sur le prix du permis.
 
@@ -145,9 +144,9 @@ arrête:[^ingress-1]
 
 **Dates d'ouvertures et durées**
 
-<sup>1</sup> L’ouverture de l’exercice de la chasse 2022-2023 est fixée au lundi 19 septembre 2022.
+<sup>1</sup> L’ouverture de l’exercice de la chasse 2023-2024 est fixée au 18 septembre 2023.
 
-<sup>2</sup> Les dates d’ouvertures pour l’exercice de la chasse 2022-2023 et l’exercice de la chasse 2023-2024 figurent dans l’annexe 1.
+<sup>2</sup> Les dates d’ouvertures pour l’exercice de la chasse 2023-2024 et l’exercice de la chasse 2024-2025 figurent dans l’annexe 1.
 
 #### Art. 9
 
@@ -209,7 +208,7 @@ arrête:[^ingress-1]
 
 <sup>7</sup> Dans le cas où il s’agit d’une pièce de gibier non autorisé de l’espèce cerf, le garde-faune doit être informé; celui-ci fixe les modalités de contrôle et de la possibilité de découper ce gibier.
 
-<sup>8</sup> Pendant la chasse haute le garde-faune n’a pas l’obligation de contrôler les gibiers en dehors des postes de contrôle et des horaires annoncés.
+<sup>8</sup> Pendant la chasse haute, le garde-faune n’a pas l’obligation de contrôler les gibiers en dehors des postes de contrôle et des horaires annoncés.
 
 <sup>9</sup> L'organisation des postes de contrôle est du ressort du SCPF. Après la chasse haute, les postes de contrôle n’étant plus en fonction, le chasseur est tenu de contacter par téléphone et aussitôt que possible le garde-faune pour convenir avec lui des modalités de présentation du gibier abattu.
 
@@ -217,17 +216,17 @@ arrête:[^ingress-1]
 
 #### Art. 12
 
-**Perte du carnet de contrôle**
+**Carnet de contrôle**
 
 <sup>1</sup> Sous réserve de force majeure, la perte du carnet de contrôle des permis A/B/A+B ou G donne lieu à la perception d’une taxe de 250 francs. En cas de perte du carnet de contrôle des permis C/E/S, la taxe est de 50 francs.
 
-<sup>2</sup> Un montant de 150 francs est perçu sous forme d’un procès-verbal de contravention lorsque suite à un rappel et sans motivation, le carnet de contrôle A/B/A+B ou G n’est pas renvoyé au SCPF dans le délai fixé. En cas de récidive, les montants sont majorés.
+<sup>2</sup> Un montant de 150 francs est perçu sous forme d’un mandat de répression lorsque suite à un rappel et sans motivation, le carnet de contrôle A/B/A+B ou G n’est pas renvoyé au SCPF dans le délai fixé. En cas de récidive, les montants sont majorés.
 
-<sup>3</sup> Un montant de 50 francs est perçu sous forme d’un procès-verbal de contravention lorsque suite à un rappel et sans motivation, le carnet de contrôle C/E/S n’est pas renvoyé au SCPF dans le délai fixé. En cas de récidive, les montants sont majorés.
+<sup>3</sup> Un montant de 50 francs est perçu sous forme d’un mandat de répression lorsque suite à un rappel et sans motivation, le carnet de contrôle C/E/S n’est pas renvoyé au SCPF dans le délai fixé. En cas de récidive, les montants sont majorés.
 
 #### Art. 13
 
-**Permis A a) Chasse haute, généralités**
+**Permis A a) Chasse haute - Généralités**
 
 <sup>1</sup> Le permis A autorise le chasseur à tirer avec l’arme à canon rayé les animaux suivants:
 
@@ -240,7 +239,7 @@ arrête:[^ingress-1]
 
 #### Art. 14
 
-**b) Chasse au cerf**
+**b) Modalité de la chasse au cerf**
 
 <sup>1</sup> Le contingent de bêtes autorisées est le suivant:
 
@@ -285,35 +284,37 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Le contingent de base autorisé est le suivant:
 
-- a) 2 chamois adultes, à savoir 1 bouc et 1 chèvre ou 2 chèvres (dont 1 seule de 2,5 ans);
+- a) 2 chamois adultes, à savoir 1 bouc de 3,5 ans et plus et 1 chèvre de 3,5 ans et plus;
 - b) 1 éterle (mâle ou femelle).
 
-<sup>2</sup> Un 4<sup>e</sup> chamois est autorisé pour le chasseur qui a obtenu un contingent bonus, selon les précisions de l’alinéa 3 de cet article.
+<sup>2</sup> Un 4<sup>e</sup> droit de tir (ci-après: contingent bonus) est octroyé au chasseur qui prélève un chamois, selon les précisions de l’alinéa 3 de cet article.
 
 <sup>3</sup> Le contingent bonus est confirmé par le garde-faune sur présentation des bêtes suivantes:
 
 - a) l’éterle mâle dont le poids est égal ou inférieur à 14kg;
 - b) l’éterle femelle dont le poids est égal ou inférieur à 13kg;
 - c) la chèvre âgée de 11,5 ans et plus;
-- d) le chamois adulte dont le poids est égal ou inférieur à 16kg.
+- d) le chamois adulte de 3,5 ans et plus dont le poids est égal ou inférieur à 16kg.
 
 <sup>4</sup> Le contingent bonus permet de prélever les bêtes suivantes:
 
-- a) l'éterle chétif mâle ou femelle (poids égal ou inférieur à 14kg);
-- b) la chèvre de 3,5 ans et plus;
-- c) le bouc de 3,5 ans et plus.
+- a) l'éterle chétif mâle dont le poids égal ou inférieur à 14kg;
+- b) l'éterle chétif femelle dont le poids est égal ou inférieur à 13kg;
+- c) la chèvre de 3,5 ans et plus;
+- d) le bouc de 3,5 ans et plus.
 
-<sup>5</sup> Le tir d’une chèvre allaitante supprime le droit au tir d’une deuxième chèvre.
+<sup>5</sup> Le tir d’un éterle mâle fort (poids égal ou supérieur à 17kg) supprime définitivement le droit de tir du bouc. Si le droit de tir du bouc a déjà été utilisé, la situation est assimilée à une erreur de tir.
 
-<sup>6</sup> Le tir d’un éterle mâle fort (poids égal ou supérieur à 17kg) supprime définitivement le droit de tir du bouc. Si le droit de tir du bouc (adulte) a déjà été utilisé, la situation est assimilée à une erreur de tir.
+<sup>6</sup> Le tir d’un éterle femelle fort (poids égal ou supérieur à 16kg) supprime définitivement le droit de tir de la chèvre. Si le droit de tir de la chèvre a déjà été utilisé, la situation est assimilée à une erreur de tir.
 
-<sup>7</sup> Le chasseur qui abat un chamois non autorisé ne peut plus prélever le contingent bonus, même s’il tire un chamois au sens de l’alinéa 3 de cet article.
+<sup>7</sup> Le chasseur qui abat un chamois protégé ou non autorisé ne peut plus prélever le contingent bonus, même s’il tire un chamois au sens de l’alinéa 3 de cet article.
 
 <sup>8</sup> Tous les chamois abattus sont inscrits dans le carnet de contrôle sous la rubrique correspondante. Si le droit de tir a déjà été utilisé, le chasseur inscrit son prélèvement de la manière suivante:
 
-- a) tir d'un deuxième bouc, le chasseur perd le droit de tir adulte, à défaut il doit utiliser son contingent éterle;
-- b) tir d'un deuxième éterle, le chasseur perd le droit de tir correspondant au sexe de l'éterle abattu, à défaut il perd le droit de tir de l'adulte restant;
-- c) tir d'un cabri le chasseur perd le droit de tir de l'éterle, à défaut il perd un droit de tir adulte correspondant au sexe du cabri abattu, à défaut il perd le droit de tir de l'adulte restant.
+- a) tir d'un deuxième bouc, le chasseur perd le droit de tir de la chèvre, à défaut il doit utiliser son contingent éterle;
+- b) tir d'une deuxième chèvre, le chasseur perd le droit de tir du bouc, à défaut il doit utiliser son contingent éterle;
+- c) tir d'un deuxième éterle, le chasseur perd le droit de tir de l'adulte correspondant au sexe de l'éterle abattu, à défaut il perd le droit de tir de l'adulte restant;
+- d) tir d'un cabri le chasseur perd le droit de tir de l'éterle, à défaut il perd le droit de tir adulte correspondant au sexe du cabri abattu, à défaut il perd le droit de tir de l'adulte restant.
 
 #### Art. 18
 
@@ -330,19 +331,15 @@ arrête:[^ingress-1]
 
 - a) dans ces sous-unités, les boucs de 2,5 à 4,5 ans sont protégés (contingent de base et réalisation du bonus).
 
-<sup>4</sup> Pour les sous-unités de chamois 4.1 et 4.2 les prescriptions particulières suivantes s’appliquent:
+<sup>4</sup> Pour les sous-unités de chamois 4.1, 4.2, 4.3 et 4.4 les prescriptions particulières suivantes s'appliquent:
 
-- a) dans ces sous-unités, le bouc de 2,5 ans est protégé (contingent de base et réalisation du bonus).
+- a) dans ces sous-unités, la chèvre de 2,5 ans et le bouc de 2,5 ans sont protégés (contingent de base et réalisation du bonus).
 
-<sup>5</sup> Pour les sous-unités de chamois 4.3 et 4.4 les prescriptions particulières suivantes s'appliquent:
-
-- a) dans ces sous-unités, la chèvre de 2,5 et le bouc de 2,5 sont protégés (contingent de base et réalisation du bonus).
-
-<sup>6</sup> Pour les sous-unités de chamois 10.4 et 10.5, les prescriptions particulières suivantes s’appliquent:
+<sup>5</sup> Pour les sous-unités de chamois 7.2, 7.3, 7.4, 10.4 et 10.5, les prescriptions particulières suivantes s’appliquent:
 
 - a) dans ces sous-unités, tous les éterles et les chamois de 2,5 ans mâles et femelles sont protégés (contingent de base et réalisation du bonus).
 
-<sup>7</sup> En cas d’erreur de tir, les dispositions à l’article 44 RexChP s’appliquent. De surcroît le chasseur perd le droit à son contingent. Lors du contrôle, le garde-faune lui supprime les droits de tir dont il dispose encore.
+<sup>6</sup> En cas d’erreur de tir (chamois protégés ou non autorisés), les dispositions de l’article 44 RexChP s’appliquent. De surcroît le chasseur perd le droit à son contingent. Lors du contrôle, le garde-faune lui supprime les droits de tir dont il dispose encore.
 
 #### Art. 19
 
@@ -352,7 +349,7 @@ arrête:[^ingress-1]
 
 #### Art. 20
 
-**Permis B a) Chasse basse, généralités**
+**Permis B a) Chasse basse - Généralités**
 
 <sup>1</sup> Le permis B autorise le chasseur à tirer avec l’arme à canon lisse les animaux suivants:
 
@@ -383,9 +380,14 @@ arrête:[^ingress-1]
 
 <sup>2</sup> La zone de chasse particulière dans laquelle le prélèvement du faon et de la chevrette est autorisé, est définie sur la carte de chasse.
 
-<sup>3</sup> La chasse dans la zone de chasse particulière au chevreuil est autorisée les 3 samedis successifs qui suivent la fin de la chasse au brocard; le tir est à réaliser exclusivement avec l’arme et la munition autorisées au sens de l'article 30 RexChP.
+<sup>3</sup> La chasse dans la zone de chasse particulière au chevreuil est autorisée les 4 jours suivants:
 
-<sup>4</sup> Durant les 3 jours susmentionnés, en plus du faon de chevreuil et de la chevrette, le chasseur est en droit de chasser, avec l'arme à canon lisse, toutes les espèces autorisées durant la chasse basse, à teneur de l’article 20 lettres b à f du présent arrêté. Néanmoins ces espèces ne peuvent pas être chassées dans les DFC, parties de DFC ou DFC mixtes situés dans cette zone de chasse particulière.
+- a) le dernier samedi de la chasse au brocard: faon uniquement (maximum 1);
+- b) le mardi après la clôture de la chasse au brocard: chevrette et faon;
+- c) le premier samedi après la clôture de la chasse au brocard: chevrette et faon;
+- d) le deuxième samedi après la clôture de la chasse au brocard: chevrette et faon.
+
+<sup>4</sup> Durant les 4 jours susmentionnés, le chasseur est en droit de chasser, avec l'arme à canon lisse, toutes les espèces autorisées durant la chasse basse, à teneur de l’article 20 lettres b à f du présent arrêté. Néanmoins ces espèces ne peuvent pas être chassées dans les DFC, parties de DFC ou DFC mixtes situés dans cette zone de chasse particulière.
 
 <sup>5</sup> Dans les secteurs de la zone de chasse particulière qui sont situés sur la plaine du Rhône, les prescriptions de sécurité définies à l’article 34 alinéas 4 et 5 du présent arrêté restent applicables.
 
@@ -409,7 +411,7 @@ arrête:[^ingress-1]
 
 **e) Chasse au lièvre brun et variable et lapin de garenne**
 
-<sup>1</sup> La chasse est autorisée à partir du 4 octobre 2022 jusqu'au 29 novembre 2022.
+<sup>1</sup> La chasse est autorisée à partir du 3 octobre 2023 jusqu'au 30 novembre 2023.
 
 <sup>2</sup> Les dispositions relatives à l'utilisation des chiens selon l'article 32 du présent arrêté sont applicables.
 
@@ -419,16 +421,16 @@ arrête:[^ingress-1]
 
 <sup>1</sup> La chasse à l'arrêt pour le tétras-lyre et le lagopède se pratique:
 
-- a) dès le 17 octobre 2022, sans jours de trêve, jusqu'au 31 octobre 2022;
-- b) dès le 3 novembre 2022, les jours autorisés du permis B, jusqu'au 29 novembre 2022.
+- a) dès le 16 octobre 2023, sans jours de trêve, jusqu'au 31 octobre 2023;
+- b) dès le 4 novembre 2023, les jours autorisés du permis B, jusqu'au 30 novembre 2023.
 
 <sup>2</sup> La chasse à l'arrêt pour la bécasse des bois se pratique:
 
-- a) dès le 20 octobre 2022, sans jour de trêve, jusqu'au 31 octobre 2022;
-- b) dès le 3 novembre 2022, les jours autorisés du permis B, jusqu'au 29 novembre 2022;
+- a) dès le 20 octobre 2023, sans jour de trêve, jusqu'au 31 octobre 2023;
+- b) dès le 4 novembre 2023, les jours autorisés du permis B, jusqu'au 30 novembre 2023;
 - c) contingents: 15 pièces, jusqu'à fin octobre 3 pièces (maximum 1 par jour), dès le 1<sup>er</sup> novembre, solde du contingent (maximum 2 par jour).
 
-<sup>3</sup> Du 17 au 31 octobre, la restriction de l’utilisation des véhicules à moteur définie par l’article 35 du présent arrêté est applicable uniquement pendant les jours de chasse où la chasse au brocard est également autorisée.
+<sup>3</sup> Du 16 au 28 octobre 2023, la restriction de l’utilisation des véhicules à moteur définie par l’article 35 du présent arrêté est applicable uniquement pendant les jours de chasse où la chasse au brocard est également autorisée.
 
 <sup>4</sup> Les dispositions relatives à l'utilisation des chiens selon l'article 32 du présent arrêté sont applicables.
 
@@ -438,8 +440,8 @@ arrête:[^ingress-1]
 
 <sup>1</sup> La chasse au gibier d'eau se pratique:
 
-- a) dès le 3 novembre 2022, les jours autorisés du permis B, jusqu'au 29 novembre 2022;
-- b) dès le 1<sup>er</sup> décembre 2022 sans jour de trêve, jusqu'au 31 janvier 2023.
+- a) dès le 2 novembre 2023, les jours autorisés du permis B, jusqu'au 30 novembre 2023;
+- b) dès le 1<sup>er</sup> décembre 2023 sans jour de trêve, jusqu'au 31 janvier 2024.
 
 <sup>2</sup> Ce permis donne le droit d'abattre, avec l'arme à canon lisse, le grèbe huppé, la foulque macroule, le cormoran et les canards sauvages autorisés par la LChP, ainsi que les corvidés et les petits prédateurs chassables selon l’article 27 du présent arrêté.
 
@@ -453,17 +455,17 @@ arrête:[^ingress-1]
 
 **Permis E - Chasse aux petits prédateurs**
 
-<sup>1</sup> Le permis E donne le droit de tirer le blaireau (jusqu'au 15 janvier), la martre et la fouine (jusqu’au 15 février) et le renard (jusqu’à fin février), selon les conditions suivantes:
+<sup>1</sup> Le permis E donne le droit de tirer le blaireau (jusqu'au 15 janvier), la martre et la fouine (jusqu’au 15 février) et le renard (jusqu’au 29 février), selon les conditions suivantes:
 
 - a) pour la chasse au terrier avec l'arme à canon lisse:
   - 1\. les chasseurs doivent s'annoncer au moins 24 heures à l'avance au garde-faune du secteur, en précisant le lieu, les chasseurs accompagnants et le moment de la chasse,
   - 2\. le chien ne peut être engagé que pour pénétrer dans le terrier. Les chiens qui chassent hors des terriers sont interdits;
-- b) pour la chasse à l'affût avec l'arme à canon lisse, sous réserve de l'article 29 alinéa 4 du RexChP:
+- b) pour la chasse à l'affût avec l'arme à canon lisse, sous réserve de l'article 29 alinéa 4 RexChP:
   - 1\. les porteurs du permis E ne peuvent pratiquer la chasse à l’affût que dans un rayon routier de 30km autour de leur résidence,
   - 2\. le lieu d'affût doit être signalé 24 heures à l'avance au garde-faune du secteur qui convient des modalités d’annonce. Tout changement doit être communiqué dans le même délai,
   - 3\. le chasseur ne peut pas rejoindre son lieu d’affût avant 16h00; pour ce faire il doit emprunter le chemin le plus court reliant son domicile à son lieu d’affût; la chasse prend fin au plus tard une heure avant le lever du soleil,
   - 4\. le changement du lieu d’affût durant la même soirée de chasse est interdit. En quittant son poste le chasseur met fin à la chasse du jour,
-  - 5\. le tir depuis l’intérieur d’un véhicule stationné à l’emplacement de l’affût est autorisé,
+  - 5\. le tir depuis un poste fixe ainsi que depuis l’intérieur d’un véhicule stationné à l’emplacement de l’affût est autorisé,
   - 6\. sous réserve d'une autorisation du garde-faune, l’utilisation de sous-produits animaux[^27-1] en guise d’appâts est interdite;
 - c) le chasseur a le devoir de déposer les animaux abattus dans un centre pour déchets carnés. Toutefois, les carcasses qui ne sont pas suspectées d'être porteuses d'une maladie transmissible à l'homme ou aux animaux peuvent être éliminées conformément aux bonnes pratiques de chasse.
 
@@ -471,7 +473,7 @@ arrête:[^ingress-1]
 
 #### Art. 28
 
-**Permis S a) Chasse spéciale au sanglier, généralités**
+**Permis S a) Chasse spéciale au sanglier - Généralités**
 
 <sup>1</sup> Ce permis est réservé aux chasseurs domiciliés en Valais, sauf pour les porteurs du permis A, B, A+B ou G.
 
@@ -485,12 +487,12 @@ arrête:[^ingress-1]
 
 #### Art. 29
 
-**b) Chasse spéciale au sanglier, pratique de la chasse**
+**b) Chasse spéciale au sanglier - Pratique de la chasse**
 
 <sup>1</sup> La chasse au sanglier se pratique exclusivement en groupe de 8 à 15 chasseurs, entre 08h00 et 17h00:
 
 - a) les 4 premiers samedis, elle s’exerce sur la totalité des zones de chasse spéciales aux sanglier, et sur toutes les catégories de bêtes autorisées;
-- b) pour les 4 samedis suivants, les modalités de chasse sont fixées par le SCPF, en fonction des objectifs à atteindre et des résultats déjà acquis. Ces modalités seront signifiées aux intéressés, via les chefs de groupes.
+- b) pour les 4 samedis suivants, les modalités de chasse sont fixées par le SCPF, en fonction des objectifs à atteindre et des résultats déjà acquis. Ces modalités seront signifiées aux chasseurs, via les chefs de groupes.
 
 #### Art. 30
 
@@ -498,17 +500,17 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Les erreurs de tir sont traitées selon les dispositions de l'article 44 RexChP.
 
-<sup>2</sup> En cas de récidives pour des faits similaires, le cas est traité au moyen d'une contravention avec amende et facturation de la valeur de l'animal.
+<sup>2</sup> En cas de récidives pour des faits similaires, le cas est traité au moyen d'un mandat de répression.
 
 #### Art. 31
 
 **Essais de chiens - Généralités**
 
-<sup>1</sup> Les chiens autorisés sont précisés à l’article 33 RexChP.
+<sup>1</sup> Les chiens autorisés pour l'exercice de la chasse sont précisés à l’article 33 RexChP.
 
 <sup>2</sup> Les dispositions relatives aux essais de chiens sont précisées à l’article 34 RexChP.
 
-<sup>3</sup> Les essais de chiens dans les terrains d’essai, hors du mois d'août, doivent être annoncés au garde-faune du secteur au moins 24 heures à l'avance.
+<sup>3</sup> Les essais de chiens dans les terrains d’essai, hors du mois d'août, doivent être annoncés au garde-faune du secteur.
 
 <sup>4</sup> Lorsque le sol est uniformément recouvert de neige les essais de chiens sont interdits.
 
@@ -531,7 +533,7 @@ arrête:[^ingress-1]
 
 - a) les seules races de chiens autorisés dans le cadre du permis S sont les chiens reconnus au sens de l’article 33 RexChP ayant été agréés par le SCPF pour ce type de chasse ou disposant d'une attestation de compétence reconnue;
 - b) les chiens peuvent être lâchés dès 08h30 et pour autant qu’au moins une trace fraîche de sanglier ait été repérée. Le lâché est aussi possible lorsqu’un ou plusieurs sangliers ont pu être localisés dans un massif forestier ou dans un secteur bien circonscrit;
-- c) lorsqu’une couche de neige de plus de 15cm d’épaisseur recouvre le sol, il est interdit de laisser courir les chiens librement ou ceux-ci doivent impérativement être tenus en laisse.
+- c) lorsqu’une couche de neige de plus de 15cm d’épaisseur recouvre le sol, il est interdit de laisser courir les chiens librement et ceux-ci doivent impérativement être tenus en laisse.
 
 #### Art. 33
 
@@ -543,20 +545,21 @@ arrête:[^ingress-1]
 - b) Oberwald: Pischenwald entre le pt 1368 - Le Rhône - Goneriwasser - Unterwassern;
 - c) Oberwald - Ulrichen: entre la route cantonale et le chemin forestier conduisant d’Oberwald jusqu’à Zum Loch-Aegina, pt 1358;
 - d) Ulrichen - Niederwald: côté droit de la vallée, entre la route cantonale et le Rhône; côté gauche de la vallée entre le Rhône et le chemin forestier;
-- e) Bieligermatte et Zeiterbode comme suit: du pont Ritzibrigge en suivant la route forestière qui traverse le camping jusqu’au pt 1326 (bifurcation), en descendant cette route jusqu’à la courbe en épingle (balisage); d’ici en ligne droite sur la route qui passe à coté des cibles du stand de tir (balisage), en suivant cette route jusqu’à Zeit pt 1284, et en continunant jusqu’à la Selkingerbrücke;
+- e) Bieligermatte et Zeiterbode comme suit: du pont Ritzibrigge en suivant la route forestière qui traverse le camping jusqu’au pt 1326 (bifurcation), en descendant cette route jusqu’à la courbe en épingle (balisage); d’ici en ligne droite sur la route qui passe à côté des cibles du stand de tir (balisage), en suivant cette route jusqu’à Zeit pt 1284, et en continunant jusqu’à la Selkingerbrücke;
 - f) au lieu-dit Guldersand, dans la zone sise entre le Rhône et la voie de chemin de fer FO depuis le pont FO "Nussbaum" jusqu’au pont FO de Grengiols, y compris la place de parc VBB;
 - g) sur tout le territoire de la société Suisse des explosifs de Gamsen, y compris dans un cercle de 200m autour de cette zone;
 - h) Viège: depuis le pont de Viège, suivre la route cantonale jusqu'à Neubrück; de ce point, gagner, sur la rive opposée, une route de campagne et la suivre jusqu’au pont de Viège (point de départ);
 - i) Saas-Fee: dans la région Plattjen (Gämsweg - Waldweg - Forststrasse) il est interdit de tirer entre 09h00 et 16h00;
-- j) Kalpetran: du Killerhofbrücke jusqu’à Emdbach le tir par-dessus la Mattervispa et les voies MGB est interdit;
-- k) Randa - Täsch: de l’embouchure du Birchbach dans la Vispa en remontant ce cours d’eau jusqu’à la fenêtre de déviation, de ce point en suivant le chemin pédestre jusqu’au Schalibach, en descendant cette rivière dans la Vispa, de là en suivant cette rivière jusqu’au pont du Schali; de là suivre la route jusqu’à la route cantonale "maison Bärgfriede". Puis suivre la route cantonale jusqu’au Birchbach pour finalement suivre ce cours d’eau jusqu’au point initial;
-- l) Zermatt/Zär Bänä: de la Mattervispa, monter le couloir Leimragraben jusqu’à la route Riedstrasse. Suivre la route Riedstrasse jusqu'à la bifurcation avec le chemin de l'AHV en dessus de l'hôtel Cervin. Suivre ce chemin jusqu'à la voie de chemin de fer GGB. Suivre celle-ci en montant jusqu’au pont Findelbrücke et de là descendre le Findelbach jusqu’à la Vispa, puis en aval de la Vispa jusqu’au point de départ;
-- m) Gampel-Bratsch - Steg-Hohtenn: le tir d’une rive à l’autre est interdit de l’usine électrique de Steg en remontant la Lonza jusqu’à Goppenstein;
-- n) Les Haudères (Sanières): depuis l’intersection du torrent descendant des Coulayes avec la route de Molignon; puis par cette route vers Molignon - les Haudères - les Sanières jusqu’aux Coulayes; de là en descendant le torrent jusqu’au point initial;
-- o) Riddes - Bieudron: le tir contre le mont depuis la plaine, les vignes et les vergers est interdit entre le torrent d’Econe et la STEP de Bieudron;
-- p) Ardève - Chamoson – Leytron: le tir contre le mont depuis la plaine et les vignes est interdit dans tout le périmètre de l’Ardève;
-- q) les Marécottes (Salvan): 200m de part et d’autre de la voie ferrée, depuis la gare des Marécottes jusqu’à la dernière habitation du hameau de la Medetta;
-- r) dans les places de camping et de sport.
+- j) Raftgarten - Stalden : depuis le pont près de Raftgarten pt 977 jusqu'à lintersection de la Saaser Vispa et de la Matter Vispa, il est interdit de tirer par-dessus la Saaser Vispa;
+- k) Kalpetran - Stalden: depuis l'Embdbach jusqu'à la jonction de la Saaser Vispa et de la Matter Vispa, il est interdit de tirer par-dessus la Matter Vispa et les voies du MGB
+- l) Randa - Täsch: de l’embouchure du Birchbach dans la Vispa en remontant ce cours d’eau jusqu’à la fenêtre de déviation, de ce point en suivant le chemin pédestre jusqu’au Schalibach, en descendant cette rivière dans la Vispa, de là en suivant cette rivière jusqu’au pont du Schali; de là suivre la route jusqu’à la route cantonale "maison Bärgfriede". Puis suivre la route cantonale jusqu’au Birchbach pour finalement suivre ce cours d’eau jusqu’au point initial;
+- m) Zermatt/Zär Bänä: de la Mattervispa, monter le couloir Leimragraben jusqu’à la route Riedstrasse. Suivre la route Riedstrasse jusqu'à la bifurcation avec le chemin de l'AHV en dessus de l'hôtel Cervin. Suivre ce chemin jusqu'à la voie de chemin de fer GGB. Suivre celle-ci en montant jusqu’au pont Findelbrücke et de là descendre le Findelbach jusqu’à la Vispa, puis en aval de la Vispa jusqu’au point de départ;
+- n) Gampel-Bratsch - Steg-Hohtenn: le tir d’une rive à l’autre est interdit de l’usine électrique de Steg en remontant la Lonza jusqu’à Goppenstein;
+- o) Les Haudères (Sanières): depuis l’intersection du torrent descendant des Coulayes avec la route de Molignon; puis par cette route vers Molignon - les Haudères - les Sanières jusqu’aux Coulayes; de là en descendant le torrent jusqu’au point initial;
+- p) Riddes - Bieudron: le tir contre le mont depuis la plaine, les vignes et les vergers est interdit entre le torrent d’Econe et la STEP de Bieudron;
+- q) Ardève - Chamoson – Leytron: le tir contre le mont depuis la plaine et les vignes est interdit dans tout le périmètre de l’Ardève;
+- r) les Marécottes (Salvan): 200m de part et d’autre de la voie ferrée, depuis la gare des Marécottes jusqu’à la dernière habitation du hameau de la Medetta;
+- s) dans les places de camping et de sport.
 
 <sup>2</sup> Le tir avec l’arme à canon lisse est interdit pendant la chasse basse:
 
@@ -588,9 +591,9 @@ arrête:[^ingress-1]
 
 #### Art. 35
 
-**Utilisation des routes et chemins pour l’exercice de la chasse, généralités**
+**Utilisation des routes pour l’exercice de la chasse - Généralités**
 
-<sup>1</sup> La circulation est autorisée sur toutes les routes et chemins cantonaux, communaux, agricoles, d’alpages et forestiers, de la classe 1 à 5 (selon Swisstopo[^35-1]).
+<sup>1</sup> La circulation est autorisée sur toutes les routes carrossables, cantonales, communales, agricoles, d’alpages et forestières.
 
 <sup>2</sup> Le chasseur qui utilise une route communale, agricole ou forestière, pour laquelle une restriction de circulation est homologuée et signalée, le fait sous sa propre responsabilité.
 
@@ -601,8 +604,6 @@ arrête:[^ingress-1]
 <sup>5</sup> L’utilisation des routes dont l’usage est régulé par une barrière ou un dispositif ad hoc est autorisée uniquement si la barrière ou le dispositif reste ouvert durant les 5 premières semaines de chasse.
 
 <sup>6</sup> Le déplacement via une route implantée hors du territoire suisse pour revenir chasser en Valais est interdit.
-
-[^35-1]: [https://www.swisstopo.admin.ch/content/swisstopo-internet/fr/home/meta/search.download/swisstopo-internet/fr/publications/karto-publications/shop/symbols\_fr.pdf](https://www.swisstopo.admin.ch/content/swisstopo-internet/fr/home/meta/search.download/swisstopo-internet/fr/publications/karto-publications/shop/symbols_fr.pdf)
 
 #### Art. 36
 
@@ -617,11 +618,11 @@ arrête:[^ingress-1]
 
 <sup>2</sup> Pour le transport des ongulés abattus, sur les routes autorisées sous conditions et les routes interdites, l'utilisation d'un véhicule à moteur est autorisée sous réserve d’une annonce préalable au garde-faune du secteur qui fixe les modalités. En l'occurrence, une fois le transport terminé, le véhicule peut regagner l'emplacement où il se trouvait au début de l'opération.
 
-<sup>3</sup> Le chasseur qui met fin à sa chasse de la journée doit inscrire dans son carnet de contrôle l’heure exacte de départ et la description de la route utilisée jusqu’à la prochaine route rouge.
+<sup>3</sup> Le chasseur qui met fin à sa chasse de la journée doit inscrire dans son carnet de contrôle l’heure exacte de départ.
 
 <sup>4</sup> Sauf disposition particulière précisée à l'annexe 4 du présent arrêté, la circulation à l'intérieur des DFC mixtes et des volets de réserve est soumis aux horaires.
 
-<sup>5</sup> Pour la traversée de districts francs fédéraux (ci-après: DFF), les réserves fédérales d'oiseaux d'eau et migrateurs d'importance nationale et internationale (ci-après: OROEM) et DFC, seules sont autorisées les routes rouges, orange ou violettes sur la carte de chasse; tout arrêt sur ces routes est interdit.
+<sup>5</sup> Pour la traversée de districts francs fédéraux (ci-après: DFF), des réserves fédérales d'oiseaux d'eau et migrateurs d'importance nationale et internationale (ci-après: OROEM) et des DFC, seules sont autorisées les routes rouges, orange ou violettes sur la carte de chasse; tout arrêt sur ces routes est interdit.
 
 <sup>6</sup> Après la clôture de la chasse au brocard, l’utilisation des routes, sous réserve de la signalisation routière homologuée, est libre.
 
@@ -635,15 +636,15 @@ arrête:[^ingress-1]
 
 <sup>3</sup> En présence d’un indice de blessure, le tireur doit marquer l’emplacement de l’animal au moment du tir, la direction de fuite, les indices retrouvés, et faire appel à un conducteur de chien de rouge, titulaire d'un permis de chasse valable pour la chasse concernée ou d'un permis R. Si le tireur est lui-même conducteur de chien de rouge, il peut effectuer lui-même la recherche.
 
-<sup>4</sup> Toute recherche d’un animal blessé doit préalablement être annoncée par téléphone au garde-faune. Sitôt la recherche terminée, le garde-faune est informé du résultat.
+<sup>4</sup> Toute recherche d’un gibier blessé doit préalablement être annoncée par téléphone au garde-faune. Sitôt la recherche terminée, le garde-faune est informé du résultat.
 
-<sup>5</sup> La recherche dans un district franc est à effectuer selon les dispositions y relatives à l’article 45 RexChP.
+<sup>5</sup> La recherche du gibier blessé dans un district franc est à effectuer selon les dispositions de l’article 45 RexChP.
 
 <sup>6</sup> A l’issue de l’engagement, le conducteur du chien est tenu de remplir le protocole de recherche et de le remettre au garde-faune.
 
 #### Art. 38
 
-**Permis R, recherche du gibier blessé, généralités**
+**Permis R - Recherche du gibier blessé, généralités**
 
 <sup>1</sup> Pour la recherche, le conducteur de chien de rouge peut utiliser librement une arme autorisée selon l’article 29 RexChP, qu’il choisit en fonction du gibier qu’il doit rechercher.
 
@@ -655,7 +656,7 @@ arrête:[^ingress-1]
 
 **Utilisation de moyens aériens**
 
-<sup>1</sup> L’utilisation d’un aeronef avec ou sans occupant pour l'exercice de la chasse ou le transport du gibier est interdite.
+<sup>1</sup> L’utilisation d’un aéronef avec ou sans occupant pour l'exercice de la chasse ou le transport du gibier est interdite.
 
 #### Art. 40
 
@@ -693,7 +694,7 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Le SCPF ristourne une prime de 15 francs par renard et de 20 francs par blaireau abattus durant l'exercice de la chasse, ainsi que les frais d'élimination des déchets carnés, y relatifs.
 
-<sup>2</sup> Pour toucher ces montants, le chasseur doit remettre au garde-faune de son secteur, dans les dix jours qui suivent la fermeture du permis respectif, les deux pattes avant du renard et/ou du blaireau, les justificatifs des éliminations des déchets carnés, ainsi que son carnet de contrôle. Il fournira par la même occasion ses références bancaires ou postales.
+<sup>2</sup> Pour toucher ces montants, le chasseur doit remettre au garde-faune de son secteur, dans les dix jours qui suivent la fermeture du permis respectif, les deux pattes avant du renard et/ou du blaireau, les justificatifs des éliminations des déchets carnés, son carnet de contrôle, ainsi que ses références bancaires ou postales.
 
 <sup>3</sup> Les éventuelles réclamations relatives à ces montants sont à formuler auprès du SCPF.
 
@@ -701,7 +702,7 @@ arrête:[^ingress-1]
 
 **Inscription pour l’action bouquetin**
 
-<sup>1</sup> Le chasseur qui s’intéresse à la régulation du bouquetin doit s’inscrire lors de la commande du permis de chasse. L’inscription n’est possible que pour le chasseur, membre d’une Diana, qui a commandé un permis A, A+B, B ou G.
+<sup>1</sup> Le chasseur qui s’intéresse à la régulation du bouquetin doit s’inscrire lors de la commande de son permis de chasse. L’inscription n’est possible que pour le chasseur, membre d’une Diana.
 
 <sup>2</sup> L’inscription en dehors de la commande du permis de chasse est exclue.
 
@@ -715,4 +716,4 @@ arrête:[^ingress-1]
 
 <sup>2</sup> Afin de garantir l’exercice de la chasse nécessaire à la régulation des populations de gibier, afin de prévenir les dommages aux forêts de protection et aux cultures, préserver les habitats et la diversité des espèces, l’effet suspensif d’un éventuel recours contre cet arrêté est retiré.
 
-RCV RO/AGS 2022-060
+RCV RO/AGS 2023-074
