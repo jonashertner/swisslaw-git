@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2023-04-01
+version: 2023-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230401-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230701-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 1° aprile 2023)
+del 16 dicembre 2005 (Stato 1° luglio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3255,6 +3255,7 @@ Qualora non garantisca un adeguato livello di protezione, allo Stato terzo posso
 I dati provenienti dalla banca dati Eurodac non possono in nessun caso essere trasmessi a:
 
 - a. uno Stato non vincolato da un accordo di associazione alla normativa di Dublino;
+
 - b. organizzazioni internazionali;
 - c. soggetti di diritto privato.[^111d-1]
 
@@ -3410,29 +3411,33 @@ I dati di cui ai capoversi 1 e 2 sono memorizzati nella banca dati Eurodac a cur
 - b. procura un’attività lucrativa in Svizzera a uno straniero sprovvisto del permesso necessario;
 - c.[^116-2] facilita o aiuta a preparare l’entrata illegale di uno straniero nel territorio nazionale di un altro Stato, violando le disposizioni ivi vigenti in materia d’entrata, dopo che questi ha lasciato la Svizzera o le zone di transito internazionali degli aeroporti.
 
-<sup>2</sup> Nei casi di lieve entità può essere pronunciata la sola multa.
+<sup>2</sup> ...[^116-3]
 
 <sup>3</sup>
 
-La pena è una pena detentiva sino a cinque anni o una pena pecuniaria, e con la pena detentiva è cumulata una pena pecuniaria se l’autore:
+La pena è una pena detentiva sino a cinque anni o una pena pecuniaria se l’autore:[^116-4]
 
 - a. ha agito nell’intento di procurare a sé o ad altri un indebito arricchimento; o
 - b. ha agito per un’associazione o un gruppo di persone costituitosi per commettere ripetutamente tali atti.
 
 [^116-1]: Introdotta dal n. I della LF del 18 giu. 2010 (Controllo di confine automatizzato, consulenti in materia di documenti, sistema d’informazione MIDES), in vigore dal 1° gen. 2011 ([RU 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [FF 2009 7737](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^116-2]: Nuovo testo giusta il n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^116-3]: Abrogato dal n. I 3 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^116-4]: Nuovo testo giusta il n. I 3 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 117
 
 **Impiego di stranieri sprovvisti di permesso**
 
-<sup>1</sup> Chiunque, in qualità di datore di lavoro, impiega intenzionalmente stranieri non autorizzati a esercitare un’attività lucrativa in Svizzera o fa capo in Svizzera a servizi transfrontalieri prestati da una persona che non dispone del relativo permesso, è punito con una pena detentiva fino a un anno o con una pena pecuniaria. Nei casi gravi, la pena è una pena detentiva sino a tre anni o una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.
+<sup>1</sup> Chiunque, in qualità di datore di lavoro, impiega intenzionalmente stranieri non autorizzati a esercitare un’attività lucrativa in Svizzera o fa capo in Svizzera a servizi transfrontalieri prestati da una persona che non dispone del relativo permesso, è punito con una pena detentiva fino a un anno o con una pena pecuniaria. Nei casi gravi, la pena è una pena detentiva sino a tre anni o una pena pecuniaria. ...[^117-1]
 
-<sup>2</sup> Chiunque è già stato oggetto di una condanna passata in giudicato ai sensi del capoverso 1 ed entro cinque anni commette nuovamente un reato secondo il capoverso 1, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.
+<sup>2</sup> Chiunque è già stato oggetto di una condanna passata in giudicato ai sensi del capoverso 1 ed entro cinque anni commette nuovamente un reato secondo il capoverso 1, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. ...[^117-2]
 
-<sup>3</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 20 000 franchi.[^117-1]
+<sup>3</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 20 000 franchi.[^117-3]
 
-[^117-1]: Introdotto dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^117-1]: Terzo per. abrogato dal n. I 3 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^117-2]: Secondo per. abrogato dal n. I 3 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^117-3]: Introdotto dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 117a
 
@@ -3454,10 +3459,12 @@ La pena è una pena detentiva sino a cinque anni o una pena pecuniaria, e con la
 
 <sup>3</sup>
 
-La pena è una pena detentiva sino a cinque anni o una pena pecuniaria, e con la pena detentiva è cumulata una pena pecuniaria se l’autore:
+La pena è una pena detentiva sino a cinque anni o una pena pecuniaria se l’autore:[^118-1]
 
 - a. ha agito al fine di procurare a sé o ad altri un indebito arricchimento; o
 - b. ha agito per un’associazione o un gruppo costituitisi per commettere tali reati in modo continuato.
+
+[^118-1]: Nuovo testo giusta il n. I 3 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 119
 

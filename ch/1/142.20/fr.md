@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2023-04-01
+version: 2023-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230401-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230701-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> avril 2023)
+du 16 décembre 2005 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -3412,30 +3412,33 @@ Est puni d’une peine privative de liberté d’un an au plus ou d’une peine 
 - b. procure à un étranger une activité lucrative en Suisse alors qu’il n’est pas titulaire de l’autorisation requise;
 - c.[^116-2] facilite l’entrée d’un étranger sur le territoire national d’un autre État ou participe à des préparatifs dans ce but après son départ de Suisse ou de la zone internationale de transit des aéroports, en violation des dispositions sur l’entrée dans le pays applicables dans cet État.
 
-<sup>2</sup> Dans les cas de peu de gravité, la peine peut consister en une simple amende.
+<sup>2</sup> …[^116-3]
 
 <sup>3</sup>
 
-La peine encourue est une peine privative de liberté de cinq ans au plus additionnée d’une peine pécuniaire ou une peine pécuniaire si:[^116-3]
+La peine encourue est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire si:[^116-4]
 
 - a. l’auteur agit pour se procurer ou procurer à un tiers un enrichissement illégitime;
 - b. l’auteur agit dans le cadre d’un groupe ou d’une association de personnes, formé dans le but de commettre de tels actes de manière suivie.
 
 [^116-1]: Introduite par le ch. I de la LF du 18 juin 2010 (Contrôle automatisé aux frontières, conseillers en matière de documents, système d’information MIDES), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^116-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^116-3]: [RO 2009 3541](https://fedlex.data.admin.ch/eli/oc/2009/439)
+[^116-3]: Abrogé par le ch. I 3 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^116-4]: Nouvelle teneur selon le ch. I 3 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 117
 
 **Emploi d’étrangers sans autorisation**
 
-<sup>1</sup> Quiconque, intentionnellement, emploie un étranger qui n’est pas autorisé à exercer une activité lucrative en Suisse ou a recours, en Suisse, à une prestation de services transfrontaliers d’une personne qui n’a pas l’autorisation requise est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire. Dans les cas graves, la peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>1</sup> Quiconque, intentionnellement, emploie un étranger qui n’est pas autorisé à exercer une activité lucrative en Suisse ou a recours, en Suisse, à une prestation de services transfrontaliers d’une personne qui n’a pas l’autorisation requise est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire. Dans les cas graves, la peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire. …[^117-1]
 
-<sup>2</sup> Quiconque, ayant fait l’objet d’une condamnation exécutoire en vertu de l’al. 1, contrevient de nouveau, dans les cinq années suivantes, à l’al. 1, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>2</sup> Quiconque, ayant fait l’objet d’une condamnation exécutoire en vertu de l’al. 1, contrevient de nouveau, dans les cinq années suivantes, à l’al. 1, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. …[^117-2]
 
-<sup>3</sup> Si l’auteur agit par négligence, il est puni d’une amende de 20 000 francs au plus.[^117-1]
+<sup>3</sup> Si l’auteur agit par négligence, il est puni d’une amende de 20 000 francs au plus.[^117-3]
 
-[^117-1]: Introduit par l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^117-1]: Phrase abrogée par le ch. I 3 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^117-2]: Phrase abrogée par le ch. I 3 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^117-3]: Introduit par l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 117a
 
@@ -3457,12 +3460,12 @@ La peine encourue est une peine privative de liberté de cinq ans au plus additi
 
 <sup>3</sup>
 
-La peine encourue est une peine privative de liberté de cinq ans au plus additionnée d’une peine pécuniaire ou une peine pécuniaire si:[^118-1]
+La peine encourue est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire si:[^118-1]
 
 - a. l’auteur agit pour se procurer ou procurer à un tiers un enrichissement illégitime;
 - b. l’auteur agit dans le cadre d’un groupe ou d’une association de personnes, formé dans le but de commettre de tels actes de manière suivie.
 
-[^118-1]: [RO 2009 3541](https://fedlex.data.admin.ch/eli/oc/2009/439)
+[^118-1]: Nouvelle teneur selon le ch. I 3 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 119
 

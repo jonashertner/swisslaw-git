@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2023-04-01
+version: 2023-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230401-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. April 2023)
+vom 16. Dezember 2005 (Stand am 1. Juli 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3406,29 +3406,33 @@ Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer:
 - b. Ausländerinnen oder Ausländern eine Erwerbstätigkeit in der Schweiz ohne die dazu erforderliche Bewilligung verschafft;
 - c.[^116-2] einer Ausländerin oder einem Ausländer nach der Ausreise aus der Schweiz oder aus den internationalen Transitzonen der Flughäfen die Einreise in das Hoheitsgebiet eines anderen Staates unter Verletzung der dort geltenden Einreisebestimmungen erleichtert oder vorbereiten hilft.
 
-<sup>2</sup> In leichten Fällen kann auch nur auf Busse erkannt werden.
+<sup>2</sup> …[^116-3]
 
 <sup>3</sup>
 
-Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe und mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden, wenn die Täterin oder der Täter:
+Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe, wenn die Täterin oder der Täter:[^116-4]
 
 - a. mit der Absicht handelt, sich oder einen andern unrechtmässig zu bereichern; oder
 - b. für eine Vereinigung oder Gruppe handelt, die sich zur fortgesetzten Begehung dieser Tat zusammengefunden hat.
 
 [^116-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010 (Automatisierte Grenzkontrolle, Doku-mentenberaterinnen und Dokumentenberater, Informationssystem MIDES), in Kraft seit 1. Jan. 2011 ([AS 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^116-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^116-3]: Aufgehoben durch Ziff. I 3 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^116-4]: Fassung gemäss Ziff. I 3 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 117
 
 **Beschäftigung von Ausländerinnen und Ausländern ohne Bewilligung**
 
-<sup>1</sup> Wer als Arbeitgeberin oder Arbeitgeber vorsätzlich Ausländerinnen und Ausländer beschäftigt, die in der Schweiz nicht zur Ausübung einer Erwerbstätigkeit berechtigt sind, oder wer eine grenzüberschreitende Dienstleistung in der Schweiz in Anspruch nimmt, für welche der Dienstleistungserbringer keine Bewilligung besitzt, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft. In schweren Fällen ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.
+<sup>1</sup> Wer als Arbeitgeberin oder Arbeitgeber vorsätzlich Ausländerinnen und Ausländer beschäftigt, die in der Schweiz nicht zur Ausübung einer Erwerbstätigkeit berechtigt sind, oder wer eine grenzüberschreitende Dienstleistung in der Schweiz in Anspruch nimmt, für welche der Dienstleistungserbringer keine Bewilligung besitzt, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft. In schweren Fällen ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. …[^117-1]
 
-<sup>2</sup> Wer nach Absatz 1 rechtskräftig verurteilt wurde und innert fünf Jahren erneut Straftaten nach Absatz 1 begeht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.
+<sup>2</sup> Wer nach Absatz 1 rechtskräftig verurteilt wurde und innert fünf Jahren erneut Straftaten nach Absatz 1 begeht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. …[^117-2]
 
-<sup>3</sup> Wird die Tat fahrlässig begangen, beträgt die Strafe Busse bis zu 20 000 Franken.[^117-1]
+<sup>3</sup> Wird die Tat fahrlässig begangen, beträgt die Strafe Busse bis zu 20 000 Franken.[^117-3]
 
-[^117-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^117-1]: Dritter Satz aufgehoben durch Ziff. I 3 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^117-2]: Zweiter Satz aufgehoben durch Ziff. I 3 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^117-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 117a
 
@@ -3450,10 +3454,12 @@ Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe und mit der F
 
 <sup>3</sup>
 
-Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe und mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden, wenn die Täterin oder der Täter:
+Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe, wenn die Täterin oder der Täter:[^118-1]
 
 - a. mit der Absicht handelt, sich oder einen andern unrechtmässig zu bereichern; oder
 - b. für eine Vereinigung oder Gruppe handelt, die sich zur fortgesetzten Begehung dieser Tat zusammengefunden hat.
+
+[^118-1]: Fassung gemäss Ziff. I 3 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 119
 

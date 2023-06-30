@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2023-04-01
+version: 2023-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230401/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230401-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230701-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 April 2023)
+of 16 December 2005 (Status as of 1 July 2023)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3401,29 +3401,33 @@ Any person who:
 - b. finds employment for a foreign national in Switzerland without the required permit;
 - c.[^116-2] facilitates the entry of a foreign national who has left Switzerland or the international transit zone of the airports into the sovereign territory of another state in violation of the entry provisions applicable there or assists that foreign national in preparing for such entry.
 
-<sup>2</sup> In minor cases, a fine may be imposed.
+<sup>2</sup> …[^116-3]
 
 <sup>3</sup>
 
-The penalty is a custodial sentence not exceeding five years or a monetary penalty and the custodial sentence must be combined with a fine if the offender:
+The penalty is a custodial sentence not exceeding five years or a monetary penalty if the offender:[^116-4]
 
 - a. acts intentionally for their own or another's unlawful financial gain; or
 - b. acts for an association or group that was formed for the purpose of the continued perpetration of this offence.
 
 [^116-1]: Inserted by No I of the FA of 18 June 2010 (Automated Border Controls, Documentation Advisers, MIDES Information System), in force since 1 Jan. 2011 ([AS 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^116-2]: Amended by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^116-3]: Repealed by No I 3 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^116-4]: Amended by No I 3 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 117
 
 **Employment of foreign nationals without a permit**
 
-<sup>1</sup> Any person who as an employer wilfully employs foreign nationals who are not entitled to work in Switzerland, or any person who obtains a cross-border service in Switzerland for which the service provider has no permit is liable on conviction to a custodial sentence not exceeding one year or to a monetary penalty. In serious cases, the penalty is a custodial sentence not exceeding three years or a monetary penalty. The custodial sentence must be combined with a monetary penalty.
+<sup>1</sup> Any person who as an employer wilfully employs foreign nationals who are not entitled to work in Switzerland, or any person who obtains a cross-border service in Switzerland for which the service provider has no permit is liable on conviction to a custodial sentence not exceeding one year or to a monetary penalty. In serious cases, the penalty is a custodial sentence not exceeding three years or a monetary penalty. …[^117-1]
 
-<sup>2</sup> Any person who has a legally binding conviction under paragraph 1 and again commits offences under paragraph 1 within five years is liable on conviction to a custodial sentence not exceeding three years or a monetary penalty. The custodial sentence must be combined with a monetary penalty.
+<sup>2</sup> Any person who has a legally binding conviction under paragraph 1 and again commits offences under paragraph 1 within five years is liable on conviction to a custodial sentence not exceeding three years or a monetary penalty. …[^117-2]
 
-<sup>3</sup> If the offence is committed through negligence, the penalty is a fine not exceeding 20,000 francs.[^117-1]
+<sup>3</sup> If the offence is committed through negligence, the penalty is a fine not exceeding 20,000 francs.[^117-3]
 
-[^117-1]: Inserted by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^117-1]: Third sentence repealed by No I 3 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^117-2]: Second sentence repealed by No I 3 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^117-3]: Inserted by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 117a
 
@@ -3445,10 +3449,12 @@ The penalty is a custodial sentence not exceeding five years or a monetary penal
 
 <sup>3</sup>
 
-The penalty is a custodial sentence not exceeding five years or a monetary penalty and the custodial sentence must be combined with a monetary penalty if the offender:
+The penalty is a custodial sentence not exceeding five years or a monetary penalty if the offender:[^118-1]
 
 - a. acts intentionally for their own or another's unlawful financial gain; or
 - b. acts for an association or group that was formed for the purpose of the continued perpetration of this offence.
+
+[^118-1]: Amended by No I 3 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 119
 
