@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2022-05-01
+version: 2023-07-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220501-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220501/de"
 
 (Luftfahrtgesetz, LFG)[^t-1]
 
-vom 21. Dezember 1948 (Stand am 1. Mai 2022)
+vom 21. Dezember 1948 (Stand am 1. Juli 2023)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -2203,11 +2203,12 @@ Die Tat ist auch strafbar, wenn sie im Ausland begangen wird:
 
 [^90-1]
 
-<sup>1</sup> Wer während eines Flugs als Kommandant des Luftfahrzeugs, als Mitglied der Besatzung oder als Passagier die gesetzlichen Vorschriften oder Verkehrsregeln vorsätzlich missachtet und dadurch wissentlich Leib und Leben von Menschen oder fremdes Eigentum von erheblichem Wert auf der Erdoberfläche in Gefahr bringt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+<sup>1</sup> Wer während eines Fluges als Kommandant des Luftfahrzeuges, als Mitglied der Besatzung oder als Passagier die gesetzlichen Vorschriften oder Verkehrsregeln vorsätzlich missachtet und dadurch wissentlich Leib und Leben von Menschen oder fremdes Eigentum von erheblichem Wert auf der Erdoberfläche in Gefahr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.[^90-2]
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Geldstrafe bis zu 180 Tagessätzen bestraft.
 
 [^90-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^90-2]: Fassung gemäss Ziff. I 25 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 4. Beeinträchtigter Zustand der Besatzung
 

@@ -4,11 +4,11 @@ title: Legge federale del 21 dicembre 1948 sulla navigazione aerea (LNA)
 short: LNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: it
-version: 2022-05-01
+version: 2023-07-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220501-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220501/it"
 
 (LNA[^t-1])
 
-del 21 dicembre 1948 (Stato 1° maggio 2022)
+del 21 dicembre 1948 (Stato 1° luglio 2023)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -2222,11 +2222,12 @@ L’atto è parimenti punibile se è stato commesso all’estero a bordo:
 
 [^90-1]
 
-<sup>1</sup> Chiunque, durante un volo, come comandante di un aeromobile, o membro dell’equipaggio o passeggero, viola intenzionalmente le prescrizioni legali o le norme della circolazione e mette in tal modo scientemente in pericolo la vita o l’integrità fisica di persone o beni di terzi di notevole valore a terra è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.
+<sup>1</sup> Chiunque, durante un volo, come comandante di un aeromobile, o membro dell’equipaggio o passeggero, viola intenzionalmente le prescrizioni legali o le norme della circolazione e mette in tal modo scientemente in pericolo la vita o l’integrità fisica di persone o beni di terzi di notevole valore a terra è punito con una pena detentiva fino a cinque anni o con una pena pecuniaria.[^90-2]
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
 [^90-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^90-2]: Nuovo testo giusta il n. I 25 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 4. Facoltà menomate dei membri dell’equipaggio
 
@@ -2854,9 +2855,9 @@ Disposizioni finali della modifica del 18 giugno 1999[^t-6] <sup>1</sup> Le proc
 Disposizioni transitorie della modifica del 1° ottobre 2010[^t-7] <sup>1</sup> Le procedure pendenti dinanzi alla Commissione federale sugli infortuni aeronautici (Commissione; ex art. 26 cpv. 1[^t-8]) al momento dell’entrata in vigore della modifica del 1° ottobre 2010 della presente legge sono portate a termine in applicazione del diritto anteriore. La Commissione resta in funzione fino al termine dell’ultima procedura. <sup>2</sup> Per una durata di cinque anni al massimo a partire dall’entrata in vigore della presente modifica e per quanto le prescrizioni europee applicabili in virtù di accordi bilaterali non dispongano altrimenti, il Consiglio federale può prevedere che i proventi della tassa di una singola categoria di aerodromi possano essere utilizzati per finanziare i costi di un’altra categoria di aerodromi in deroga all’articolo 49 capoverso 4. <sup>3</sup> Il Consiglio federale stabilisce quali importi possono essere trasferiti e tra quali categorie.
 
 [^t-2]: [RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)
-[^t-3]: Questa L è entrata in vigore il 1° gen. 1974, salvo l’art. 34 che è entrato in vigore il 23 nov. 1973 (RU **1973** 1750).
+[^t-3]: Questa L è <sup>entrata</sup> in vigore il 1° gen. 1974, salvo l’art. 34 che è entrato in vigore il 23 nov. 1973 (RU **1973** 1750).
 [^t-4]: Abrogati dal n. II della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^t-5]: [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029
+[^t-5]: [RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)
 [^t-6]: [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029
 [^t-7]: [RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)
-[^t-8]: [RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010).
+[^t-8]: [RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010)

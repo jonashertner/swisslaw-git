@@ -4,20 +4,20 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2022-05-01
+version: 2023-07-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220501-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’aviation
 
-(LA)**[^t-1]** **[^t-2]**
+(LA)[^t-1] [^t-2]
 
-du 21 décembre 1948 (Etat le 1<sup>er</sup> mai 2022)
+du 21 décembre 1948 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -32,13 +32,13 @@ arrête:
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^ingress-3]: [FF 1945 I 325](https://fedlex.data.admin.ch/eli/fga/1945/1_341_325_481)
 
-## Première partie: Fondements de l’aviation****
+## Première partie: Fondements de l’aviation
 
 [^part1-1]
 
 [^part1-1]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
-### Titre premier: Espace aérien**** et surface terrestre
+### Titre premier: Espace aérien et surface terrestre
 
 [^part1-tit1-1]
 
@@ -337,7 +337,7 @@ L’OFAC peut fixer, d’entente avec la Direction générale des douanes, les p
 
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 1963, en vigueur depuis le 1<sup>er</sup> mai 1964 ([RO 1964 317](https://fedlex.data.admin.ch/eli/oc/1964/325_317_317); [FF 1962 II 713](https://fedlex.data.admin.ch/eli/fga/1962/2_717_713_1413)).
 
-### Chapitre II: Usage de l’espace aérien et mesures de sûreté****
+### Chapitre II: Usage de l’espace aérien et mesures de sûreté
 
 [^part1-tit1-chap2-1]
 
@@ -809,11 +809,12 @@ L’autorisation est délivrée aux conditions suivantes:
 
 <sup>2</sup> L’OFAC octroie la concession si les conditions fixées dans les traités internationaux sont remplies.
 
-<sup>3</sup> Le Conseil fédéral fixe les conditions qui permettent au DETEC d’octroyer des droits de trafic à des entreprises étrangères en cas d’absence de réglementation internationale. Lors de l’octroi de ces droits, il convient notamment de veiller à ce que la réciprocité soit garantie.
+<sup>3</sup> Le Conseil fédéral fixe les conditions qui permettent au DETEC[^30-2] d’octroyer des droits de trafic à des entreprises étrangères en cas d’absence de réglementation internationale. Lors de l’octroi de ces droits, il convient notamment de veiller à ce que la réciprocité soit garantie.
 
 <sup>4</sup> Pour la conclusion d’accords bilatéraux et multilatéraux, la Confédération veille à l’emploi de «multiple désignations».
 
 [^30-1]: Nouvelle teneur selon le ch. I de la LF du 26 juin 1998, en vigueur depuis le 15 nov. 1998 ([RO 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 1058](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^30-2]: Nouvelle expression selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### 3. Dispositions communes
 
@@ -1047,13 +1048,13 @@ La demande d’approbation des plans doit être adressée avec les documents req
 
 <sup>2</sup> La demande doit être publiée dans les organes officiels des cantons et des communes concernés et mise à l’enquête pendant 30 jours.
 
-<sup>3</sup> ...[^37d-3]
+<sup>3</sup> …[^37d-3]
 
 [^37d-1]: Introduit par le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^37d-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^37d-3]: Abrogé par l’annexe ch. 16 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### f. ...
+### f. …
 
 #### Art. 37e
 
@@ -1138,7 +1139,7 @@ La procédure simplifiée d’approbation des plans d’installations d’aérod
 
 <sup>1</sup> Après clôture de la procédure d’approbation des plans pour les installations d’aéroport, des procédures de conciliation et d’estimation sont ouvertes, au besoin, devant la commission fédérale d’estimation (commission d’estimation), conformément à la LEx[^37k-2].[^37k-3]
 
-<sup>2</sup> ...[^37k-4]
+<sup>2</sup> …[^37k-4]
 
 <sup>3</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque l’approbation des plans est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
 
@@ -1346,13 +1347,7 @@ Les catégories de redevances sont notamment les suivantes:
 - [tab] f. redevances d’utilisation des infrastructures centralisées;
 - [tab] g. redevances d’accès aux installations aéroportuaires.
 
-<sup>4</sup> 5 Le produit des redevances ne doit pas excéder les frais attestés et une rémunération raisonnable du capital investi.
-
-6 Le Conseil fédéral détermine les frais et les revenus qui doivent entrer dans le calcul des redevances. Si un aéroport réalise des revenus provenant de secteurs d’activités autres que ceux liés directement à l’exploitation du trafic aérien, le Conseil fédéral peut obliger l’exploitant de l’aéroport à intégrer une partie des gains dans le calcul des redevances. Le Conseil fédéral fixe les modalités en tenant compte des intérêts de l’exploitant et des usagers de l’aéroport, de la situation du marché et des spécificités de l’aéroport concerné.
-
-7 Le Conseil fédéral peut prescrire que le calcul du montant des redevances prenne en compte le taux d’occupation des installations aéroportuaires au fil de la journée. Dans l’environnement général du marché, la situation des compagnies aériennes qui transportent un fort volume de passagers en transfert ne doit pas en être affectée.
-
-8 L’OFAC exerce la surveillance sur l’établissement et la perception des redevances. En cas de litige entre l’exploitant de l’aéroport et les usagers, il approuve les redevances sur demande. Le Conseil fédéral règle la procédure.
+<sup>4</sup>
 
 L’exploitant de l’aéroport fixe le montant des redevances en sefondant notamment sur les critères suivants:
 
@@ -1360,6 +1355,14 @@ L’exploitant de l’aéroport fixe le montant des redevances en sefondant nota
 - [tab] b. nombre de passagers;
 - [tab] c. émission de bruit;
 - [tab] d. émission de substances nocives.
+
+<sup>5</sup> Le produit des redevances ne doit pas excéder les frais attestés et une rémunération raisonnable du capital investi.
+
+<sup>6</sup> Le Conseil fédéral détermine les frais et les revenus qui doivent entrer dans le calcul des redevances. Si un aéroport réalise des revenus provenant de secteurs d’activités autres que ceux liés directement à l’exploitation du trafic aérien, le Conseil fédéral peut obliger l’exploitant de l’aéroport à intégrer une partie des gains dans le calcul des redevances. Le Conseil fédéral fixe les modalités en tenant compte des intérêts de l’exploitant et des usagers de l’aéroport, de la situation du marché et des spécificités de l’aéroport concerné.
+
+<sup>7</sup> Le Conseil fédéral peut prescrire que le calcul du montant des redevances prenne en compte le taux d’occupation des installations aéroportuaires au fil de la journée. Dans l’environnement général du marché, la situation des compagnies aériennes qui transportent un fort volume de passagers en transfert ne doit pas en être affectée.
+
+<sup>8</sup> L’OFAC exerce la surveillance sur l’établissement et la perception des redevances. En cas de litige entre l’exploitant de l’aéroport et les usagers, il approuve les redevances sur demande. Le Conseil fédéral règle la procédure.
 
 [^39-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2012 2751](https://fedlex.data.admin.ch/eli/oc/2012/327); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^39-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
@@ -2212,11 +2215,12 @@ L’acte est également punissable s’il a été commis à l’étranger à bor
 
 [^90-1]
 
-<sup>1</sup> Quiconque, pendant un vol, comme commandant d’un aéronef, membre de l’équipage ou passager, viole intentionnellement les prescriptions légales ou des règles de l’air et met ainsi sciemment en danger la vie ou l’intégrité corporelle de personnes ou des biens de grande valeur appartenant à des tiers à la surface est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque, pendant un vol, comme commandant d’un aéronef, membre de l’équipage ou passager viole intentionnellement les prescriptions légales ou des règles de l’air et met ainsi sciemment en danger la vie ou l’intégrité corporelle des personnes, ou des biens de grande valeur appartenant à des tiers, à la surface est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^90-2]
 
 <sup>2</sup> Quiconque agit par négligence est puni d’une peine pécuniaire de 180 jours-amende au plus.
 
 [^90-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^90-2]: Nouvelle teneur selon le ch. I 25 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 4. Diminution des facultés de l’équipage
 
@@ -2842,7 +2846,7 @@ Date de l’entrée en vigueur: 15 juin 1950[^111-1]
 
 [^111-1]: ACF du 5 juin 1950
 
-## Dispositions finales de la modification du 17 décembre 1971****
+## Dispositions finales de la modification du 17 décembre 1971
 
 [^u1-1]
 
@@ -2859,7 +2863,7 @@ IV et V[^u1-3]
 [^u1-2]: Cette loi est entrée en vigueur le 1<sup>er</sup> janv. 1974, sauf l’art. 34 qui est entré en vigueur le 23 nov. 1973 (RO **1973** 1750).
 [^u1-3]: Abrogés par le ch. I de la LF du 18 juin 1993, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
-## Dispositions finales de la modification du 26 juin 1998****
+## Dispositions finales de la modification du 26 juin 1998
 
 [^u2-1]
 
@@ -2869,7 +2873,7 @@ IV et V[^u1-3]
 
 <sup>2</sup> Les droits découlant de concessions existantes restent acquis pour autant qu’ils soient effectivement exercés au moment de l’entrée en vigueur de la présente modification. Ils sont repris dans les concessions de routes. L’atteinte à ces droits par des traités internationaux ultérieurs ne donnera droit à aucun dédommagement par la Confédération. Les droits concédés existants peuvent être retirés ou limités, sous réserve d’un éventuel dédommagement.
 
-## Dispositions finales de la modification du 18 juin 1999****
+## Dispositions finales de la modification du 18 juin 1999
 
 [^u3-1]
 
@@ -2879,7 +2883,7 @@ IV et V[^u1-3]
 
 <sup>2</sup> Les recours pendants sont régis par les anciennes règles de procédure.
 
-## Dispositions transitoires de la modification du 1<sup>er</sup> octobre 2010****
+## Dispositions transitoires de la modification du 1<sup>er</sup> octobre 2010
 
 [^u4-1]
 
