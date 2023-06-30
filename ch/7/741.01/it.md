@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 short: LCStr
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: it
-version: 2020-01-01
+version: 2023-07-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20200101/it"
 
 (LCStr)
 
-del 19 dicembre 1958 (Stato 1° gennaio 2020)
+del 19 dicembre 1958 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -152,7 +152,7 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>4</sup> La Confederazione e i Cantoni nominano una persona di contatto responsabile della sicurezza stradale (addetto alla sicurezza).[^6a-2]
 
-[^6a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013, i cpv. 1, 3 e 4 entrano in vigore il 1° lug. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); FF **201****0** 7455).
+[^6a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013, i cpv. 1, 3 e 4 entrano in vigore il 1° lug. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^6a-2]: Correzione della CdR dell’AF del 27 mag. 2014, pubblicata l’11 giu. 2014 ([RU 2014 1387](https://fedlex.data.admin.ch/eli/oc/2014/293)). Concerne soltanto il testo francese.
 
 ## Titolo secondo: Veicoli e conducenti
@@ -197,7 +197,7 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>4</sup> Rimane salva ogni limitazione, indicata da un segnale, della larghezza, dell’altezza, del peso e del carico per asse dei veicoli.
 
-[^9-1]: Nuovo testo giusta il n. I 1 della LF dell’8 ott. 1999 concernente l’Acc. fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia, in vigore dal 1° gen. 2001 ([RU 2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497); FF **19****99** 5092).
+[^9-1]: Nuovo testo giusta il n. I 1 della LF dell’8 ott. 1999 concernente l’Acc. fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia, in vigore dal 1° gen. 2001 ([RU 2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^9-2]: Nuovo testo giusta l’art. 7 della LF del 13 dic. 2013 sul corridoio di quattro metri, in vigore dal 1° giu. 2014 ([RU 2014 1111](https://fedlex.data.admin.ch/eli/oc/2014/242); [FF 2013 3185](https://fedlex.data.admin.ch/eli/fga/2013/825)).
 [^9-3]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^9-4]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
@@ -907,7 +907,7 @@ Il Consiglio federale può vietare ai seguenti gruppi di persone di guidare sott
 
 <sup>3</sup> Alle fermate dei servizi di trasporto pubblici, il conducente deve badare alle persone che salgono e scendono.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1961, in vigore dal 1° gen. 1963 (RU **19****62** 1417; FF **1961** 767).
+[^33-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1961, in vigore dal 1° gen. 1963 ([RU 1962 1417](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417); FF **1961** 767).
 [^33-2]: Nuovo testo giusta il n. I della LF del 13 giu. 1961, in vigore dal 1° gen. 1963 ([RU 1962 1417](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417); FF **1961** 767).
 
 ### II. Singole manovre
@@ -1248,7 +1248,7 @@ Il Consiglio federale disciplina l’applicazione delle disposizioni sulla durat
 
 <sup>3</sup> Il Consiglio federale può vietare che il salario dei conducenti professionali di autoveicoli sia calcolato in funzione del tragitto percorso, della quantità di merci trasportate o di prestazioni analoghe.[^56-2]
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 (RU **1****975** 1257 1268 art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^56-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^56-2]: Introdotto dal n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Norme completive della circolazione
@@ -1295,7 +1295,7 @@ Esso emana disposizioni concernenti:
 
 <sup>4</sup> I Governi dei Cantoni interessati regolano i reciproci diritti e doveri risultanti dall’attività di polizia di un Cantone sul territorio dell’altro. Se, mancando l’accordo, il servizio di polizia non è garantito, il Consiglio federale prende disposizioni provvisionali.
 
-[^57a-1]: Originario art. 57<sup>bis</sup>. Introdotto dal n. I della LF del 16 mar. 1967, in vigore dal 1° set. 1967 (RU **1****967** 1147; [FF 1966 II 261](https://fedlex.data.admin.ch/eli/fga/1966/2_332_335_261)).
+[^57a-1]: Originario art. 57<sup>bis</sup>. Introdotto dal n. I della LF del 16 mar. 1967, in vigore dal 1° set. 1967 ([RU 1967 1147](https://fedlex.data.admin.ch/eli/oc/1967/1114_1154_1147); [FF 1966 II 261](https://fedlex.data.admin.ch/eli/fga/1966/2_332_335_261)).
 [^57a-2]: Nuovo testo giusta il n. II 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 57b
@@ -1304,7 +1304,7 @@ Esso emana disposizioni concernenti:
 
 [^57b-1]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
-## Titolo terzo *a*:**** Gestione del traffico****
+## Titolo terzo *a*: Gestione del traffico
 
 [^titIIIa-1][^titIIIa-2]
 
@@ -1394,7 +1394,7 @@ La Confederazione può:
 [^59-1]: Abrogato dal n. I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)n. III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^59-3]: Nuovo testo giusta l’art. 54 n. 2 della LF del 4 ott. 1985 sul trasporto pubblico, in vigore dal 1° gen. 1987 ([RU 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)).
-[^59-4]: [[RU 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974), [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)n. V, **1****995** 3517 n. I 10 4093 all. n. 13, [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. III]. Vedi ora la L del 20 mar. 2009 sul trasporto di viaggiatori ([RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
+[^59-4]: [[RU 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974), [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)n. V, [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 10 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 13, [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. III]. Vedi ora la L del 20 mar. 2009 sul trasporto di viaggiatori ([RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
 
 ### Concorso nel danneggiamento
 
@@ -1406,7 +1406,7 @@ La Confederazione può:
 
 <sup>2</sup> Ciascuna di esse concorre al risarcimento nella misura risultante dall’apprezzamento, di tutte le circostanze. Trattandosi di più detentori di veicoli a motore, il concorso al risarcimento avviene in proporzione alla loro colpa, salvo che circostanze speciali, segnatamente il rischio d’esercizio dei veicoli, giustifichino un altro modo di ripartizione.
 
-[^60-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; FF **197****3** II 1053).
+[^60-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Risarcimento fra detentori di veicoli a motore
 
@@ -1737,7 +1737,7 @@ Il Consiglio federale emana disposizioni sui compiti e sulle competenze dell’U
 - a. la copertura dei danni in Svizzera e all’estero;
 - b. la promozione e lo sviluppo della protezione assicurativa e della protezione delle vittime della circolazione nel traffico transfrontaliero.
 
-[^76b-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2****002** 4093).
+[^76b-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 [^76b-2]: Nuova espr. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Veicoli non assicurati
@@ -1953,7 +1953,7 @@ Se le prestazioni dell’assicurazione non soddisfano integralmente una parte le
 [^89-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^89-2]: Nuovo testo giusta il n. 73 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Titolo quarto *a*:**** Sistemi d’informazione
+## Titolo quarto *a*: Sistemi d’informazione
 
 [^titIVa-1]
 
@@ -2238,7 +2238,7 @@ Il sistema d’informazione serve all’adempimento dei seguenti compiti:
   - 2\. gestire e analizzare i dati relativi ai controlli della circolazione stradale,
   - 3\. elaborare le basi per la politica della sicurezza stradale.
 
-[^89p-1]: RS **0.7****40.72**
+[^89p-1]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
 
 ### Contenuto
 
@@ -2461,7 +2461,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - a. chiunque conduce un velocipede, sebbene la circolazione con siffatto veicolo gli sia stata vietata;
 - b. chiunque conduce un veicolo a trazione animale, sebbene la circolazione con siffatto veicolo gli sia stata vietata.
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2011, in vigore dal 1° gen. 2012 (RU **20****11** 3267; [FF 2010 3453](https://fedlex.data.admin.ch/eli/fga/2010/629)[3463](https://fedlex.data.admin.ch/eli/fga/2010/631)).
+[^95-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3267](https://fedlex.data.admin.ch/eli/oc/2011/428); [FF 2010 3453](https://fedlex.data.admin.ch/eli/fga/2010/629)[3463](https://fedlex.data.admin.ch/eli/fga/2010/631)).
 
 ### Guida senza licenza di circolazione, senza autorizzazione o senza assicurazione per la responsabilità civile
 
@@ -2477,11 +2477,12 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - b. senza permesso, effettua viaggi subordinati dalla presente legge a un permesso speciale;
 - c. non osserva le limitazioni o le altre condizioni, in particolare circa il peso totale ammesso del veicolo, cui la licenza di circolazione o l’autorizzazione è subordinata in virtù della presente legge o nel singolo caso.
 
-<sup>2</sup> È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque conduce un veicolo a motore, sebbene sappia o dovrebbe sapere, prestando tutta l’attenzione richiesta dalle circostanze, che non sussiste la prescritta assicurazione per la responsabilità civile. Con la pena detentiva è cumulata una pena pecuniaria. Nei casi di lieve gravità, il colpevole è punito con una pena pecuniaria.
+<sup>2</sup> È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque conduce un veicolo a motore sebbene sappia o dovrebbe sapere, prestando tutta l’attenzione richiesta dalle circostanze, che non sussiste la prescritta assicurazione per la responsabilità civile. Nei casi di lieve gravità, il colpevole è punito con una pena pecuniaria.[^96-2]
 
 <sup>3</sup> Le stesse pene sono comminate al detentore o alla persona che dispone del veicolo in sua vece, se è a conoscenza dell’infrazione o dovrebbe esserne a conoscenza, prestando tutta l’attenzione richiesta dalle circostanze.
 
 [^96-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^96-2]: Nuovo testo giusta il n. I 22 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Abuso della licenza e delle targhe
 
@@ -2747,7 +2748,7 @@ Data dell’entrata in vigore: art. 10 cpv. 3, 104 a 107: 1° ottobre 1959[^108-
 [^108-6]: Art. 99 cpv. 2 dell’O del 13 nov. 1962 ([RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)).
 [^108-7]: Art. 14 cpv. 1 del DCF del 22 nov. 1966 ([RU 1966 1531](https://fedlex.data.admin.ch/eli/oc/1966/1493_1543_1531)).
 
-## Disposizione finale della modifica del 23 giugno 1995****
+## Disposizione finale della modifica del 23 giugno 1995
 
 [^u1-1]
 
@@ -2757,7 +2758,7 @@ Data dell’entrata in vigore: art. 10 cpv. 3, 104 a 107: 1° ottobre 1959[^108-
 
 <sup>2</sup> I contratti di assicurazione devono essere adeguati all’articolo 63 capoverso 3 lettera a modificato, entro la fine dell’anno di assicurazione.
 
-## Disposizioni finali della modifica del 14 dicembre 2001****
+## Disposizioni finali della modifica del 14 dicembre 2001
 
 [^u2-1]
 
@@ -2769,7 +2770,7 @@ Data dell’entrata in vigore: art. 10 cpv. 3, 104 a 107: 1° ottobre 1959[^108-
 
 <sup>3</sup> Le disposizioni degli articoli 16*b* capoverso 2 lettera f e 16*c* capoverso 2 lettera e si applicano anche alle revoche di licenze di condurre secondo il previgente articolo 16 capoverso 3 lettera e.
 
-## Versione originaria dell’art. 25 cpv. 3 lett. e****
+## Versione originaria dell’art. 25 cpv. 3 lett. e
 
 [^u3-1]
 

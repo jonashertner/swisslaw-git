@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 short: LCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: fr
-version: 2020-01-01
+version: 2023-07-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20200101/fr"
 
 (LCR)
 
-du 19 décembre 1958 (Etat le 1<sup>er</sup> janvier 2020)
+du 19 décembre 1958 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1318,7 +1318,7 @@ Le Conseil fédéral peut prescrire:
 
 [^57b-1]: Introduit par le ch. I de la LF du 6 oct. 1989 ([RO 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 197](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogé par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
-## Titre 3*a***** Gestion du trafic****
+## Titre 3*a* Gestion du trafic
 
 [^titIIIa-1][^titIIIa-2]
 
@@ -1965,7 +1965,7 @@ Lorsqu’un lésé n’est pas couvert complètement par des prestations d’ass
 [^89-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^89-2]: Nouvelle teneur selon l’annexe ch. 73 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Titre 4*a***** Systèmes d’information
+## Titre 4*a* Systèmes d’information
 
 [^titIVa-1]
 
@@ -2015,7 +2015,7 @@ Le SIAC contribue à l’exécution des tâches légales suivantes:
 - m.[^89b-2] réduction des émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers.
 
 [^89b-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89b-2]: Nouvelle teneur selon le ch. II 10 de l’annexe à la L du 30 sept. 2016 sur l’ énergie, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^89b-2]: Nouvelle teneur selon l’annexe ch. II 10 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 ### Contenu
 
@@ -2076,7 +2076,7 @@ Les services ci-après peuvent accéder en ligne aux données suivantes:
 - j. les organes de contrôle étrangers responsables du contrôle de la durée de travail et de repos des conducteurs professionnels de véhicules automobiles: statut de la carte du conducteur.
 
 [^89e-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89e-2]: Nouvelle teneur selon le ch. II 10 de l’annexe à la L du 30 sept. 2016 sur l’ énergie, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^89e-2]: Nouvelle teneur selon l’annexe ch. II 10 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 ### Droit de consulter
 
@@ -2489,11 +2489,12 @@ Est puni de l’amende quiconque:
 - b. entreprend sans autorisation des courses soumises à l’agrément de l’autorité en vertu de la présente loi;
 - c. n’observe pas les restrictions ou les conditions auxquelles le permis de circulation ou l’autorisation sont soumis de par la loi ou dans un cas d’espèce, notamment en ce qui concerne le poids total du véhicule.
 
-<sup>2</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque conduit un véhicule automobile en sachant qu’il n’est pas couvert par l’assurance responsabilité civile prescrite ou qui devrait le savoir s’il avait prêté toute l’attention commandée par les circonstances. La peine privative de liberté est assortie d’une peine pécuniaire. Dans les cas de peu de gravité, la sanction est la peine pécuniaire.
+<sup>2</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque conduit un véhicule automobile en sachant qu’il n’est pas couvert par l’assurance responsabilité civile prescrite ou qui devrait le savoir s’il avait prêté toute l’attention commandée par les circonstances. Dans les cas de peu de gravité, la sanction est la peine pécuniaire.[^96-2]
 
 <sup>3</sup> Est puni des mêmes peines le détenteur du véhicule ou la personne qui dispose de ce dernier en ayant connaissance de l’infraction ou qui devrait en avoir connaissance s’il avait prêté toute l’attention commandée par les circonstances.
 
 [^96-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^96-2]: Nouvelle teneur selon le ch. I 22 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Usage abusif de permis et de plaques
 
@@ -2776,7 +2777,7 @@ Tous les autres articles: 1<sup>er</sup> janvier 1963[^108-7]
 [^108-6]: Art. 14 al. 1 de l’ACF du 22 nov. 1966 ([RO 1966 1543](https://fedlex.data.admin.ch/eli/oc/1966/1493_1543_1531))
 [^108-7]: Art. 99 al. 2 de l’O du 13 nov. 1962 ([RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420))
 
-## Disposition finale de la modification du 23 juin 1995****
+## Disposition finale de la modification du 23 juin 1995
 
 [^u1-1]
 
@@ -2786,7 +2787,7 @@ Tous les autres articles: 1<sup>er</sup> janvier 1963[^108-7]
 
 <sup>2</sup> Les contrats d’assurance devront être adaptés au nouvel art. 63, al. 3, let. a, avant la fin de l’année d’assurance.
 
-## Disposition finale de la modification du 14 décembre 2001****
+## Disposition finale de la modification du 14 décembre 2001
 
 [^u2-1]
 
@@ -2798,7 +2799,7 @@ Tous les autres articles: 1<sup>er</sup> janvier 1963[^108-7]
 
 <sup>3</sup> Les art. 16*b*, al. 2, let. f, et 16*c*, al. 2, let. e, s’appliquent aussi aux retraits du permis de conduire régis par l’ancien art. 16, al. 3, let. e.
 
-## Teneur originale de l’art. 25 al. 3, let. e****
+## Teneur originale de l’art. 25 al. 3, let. e
 
 [^u3-1]
 

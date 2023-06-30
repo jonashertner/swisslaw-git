@@ -4,20 +4,20 @@ title: Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 short: SVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: de
-version: 2020-01-01
+version: 2023-07-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Strassenverkehrsgesetz
 
-(SVG)**[^t-1]**
+(SVG)[^t-1]
 
-vom 19. Dezember 1958 (Stand am 1. Januar 2020)
+vom 19. Dezember 1958 (Stand am 1. Juli 2023)
 
 [^t-1]: Tit. gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -58,7 +58,7 @@ Der Bundesrat ist ermächtigt, nach Anhören der Kantone:
 
 - a. Strassen, die für den allgemeinen Durchgangsverkehr notwendig sind, mit oder ohne Einschränkungen für den Motorfahrzeug- und Fahrradverkehr offen zu erklären;
 - b. für alle oder einzelne Arten von Motorfahrzeugen zeitliche, für die ganze Schweiz geltende Fahrverbote zu erlassen;
-- c.[^2-1] ...
+- c.[^2-1] …
 
 <sup>2</sup> Für schwere Motorwagen zur Güterbeförderung gilt ein Nachtfahrverbot von 22.00 Uhr bis 05.00 Uhr und ein Sonntagsfahrverbot. Der Bundesrat regelt die Einzelheiten.[^2-2]
 
@@ -97,9 +97,9 @@ Der Bundesrat ist ermächtigt, nach Anhören der Kantone:
 
 <sup>2</sup> Die Kantone sind befugt, für bestimmte Strassen Fahrverbote, Verkehrsbeschränkungen und Anordnungen zur Regelung des Verkehrs zu erlassen. Sie können diese Befugnis den Gemeinden übertragen unter Vorbehalt der Beschwerde an eine kantonale Behörde.
 
-<sup>3</sup> Der Motorfahrzeug- und Fahrradverkehr kann auf Strassen, die nicht dem allgemeinen Durchgangsverkehr geöffnet sind, vollständig untersagt oder zeitlich beschränkt werden; Fahrten im Dienste des Bundes bleiben jedoch gestattet. ...[^3-1]
+<sup>3</sup> Der Motorfahrzeug- und Fahrradverkehr kann auf Strassen, die nicht dem allgemeinen Durchgangsverkehr geöffnet sind, vollständig untersagt oder zeitlich beschränkt werden; Fahrten im Dienste des Bundes bleiben jedoch gestattet. …[^3-1]
 
-<sup>4</sup> Andere Beschränkungen oder Anordnungen können erlassen werden, soweit der Schutz der Bewohner oder gleichermassen Betroffener vor Lärm und Luftverschmutzung, die Beseitigung von Benachteiligungen von Menschen mit Behinderungen, die Sicherheit, die Erleichterung oder die Regelung des Verkehrs, der Schutz der Strasse oder andere in den örtlichen Verhältnissen liegende Gründe dies erfordern.[^3-2] Aus solchen Gründen können insbesondere in Wohnquartieren der Verkehr beschränkt und das Parkieren besonders geregelt werden. Die Gemeinden sind zur Beschwerde berechtigt, wenn Verkehrsmassnahmen auf ihrem Gebiet angeordnet werden.[^3-3] ...[^3-4] [^3-5]
+<sup>4</sup> Andere Beschränkungen oder Anordnungen können erlassen werden, soweit der Schutz der Bewohner oder gleichermassen Betroffener vor Lärm und Luftverschmutzung, die Beseitigung von Benachteiligungen von Menschen mit Behinderungen, die Sicherheit, die Erleichterung oder die Regelung des Verkehrs, der Schutz der Strasse oder andere in den örtlichen Verhältnissen liegende Gründe dies erfordern.[^3-2] Aus solchen Gründen können insbesondere in Wohnquartieren der Verkehr beschränkt und das Parkieren besonders geregelt werden. Die Gemeinden sind zur Beschwerde berechtigt, wenn Verkehrsmassnahmen auf ihrem Gebiet angeordnet werden.[^3-3] …[^3-4] [^3-5]
 
 <sup>5</sup> Massnahmen für die übrigen Fahrzeugarten und Strassenbenützer richten sich, soweit sie nicht zur Regelung des Motorfahrzeug- und Fahrradverkehrs erforderlich sind, nach kantonalem Recht.
 
@@ -214,7 +214,7 @@ Der Bundesrat ist ermächtigt, nach Anhören der Kantone:
 
 <sup>2</sup> Wer ein Motorfahrzeug führt, bedarf des Führerausweises, wer Lernfahrten unternimmt, des Lernfahrausweises.
 
-<sup>3</sup> ...[^10-1]
+<sup>3</sup> …[^10-1]
 
 <sup>4</sup> Die Ausweise sind stets mitzuführen und den Kontrollorganen auf Verlangen vorzuweisen; dasselbe gilt für besondere Bewilligungen.
 
@@ -482,7 +482,7 @@ Der Fahrzeugausweis wird entzogen, wenn:
 - a. die gegebenenfalls nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^16-6] für das Fahrzeug geschuldete Abgabe oder die geschuldeten Sicherheitsleistungen nicht bezahlt und der Halter erfolglos gemahnt worden ist; oder
 - b. das Fahrzeug nicht mit dem vorgeschriebenen Erfassungsgerät zur Abgabeerhebung ausgerüstet ist.[^16-7]
 
-[^16-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: das Ordnungsbussengesetz vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^16-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: das Ordnungsbussengesetz vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
 [^16-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
 [^16-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^16-4]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
@@ -764,7 +764,7 @@ Der Bundesrat erlässt Vorschriften über:
 - e. Kennzeichnung besonderer Fahrzeuge;
 - f.[^25-2] besondere Warnsignale, die den Fahrzeugen der Feuerwehr, der Sanität, der Polizei und des Zolls, sofern diese für polizeiliche Aufgaben eingesetzt werden, vorbehalten sind, sowie Warnsignale der Fahrzeuge der konzessionierten Transportunternehmen auf Bergpoststrassen;
 - g. Reklamen an Motorfahrzeugen;
-- h.[^25-3] ...
+- h.[^25-3] …
 - i. Geräte zur Aufzeichnung der Fahrzeit, der Geschwindigkeit u. dgl.; er schreibt solche Einrichtungen vor, namentlich zur Kontrolle der Arbeitszeit berufsmässiger Motorfahrzeugführer sowie allenfalls für Fahrzeuge von Personen, die wegen zu schnellen Fahrens bestraft wurden.
 
 <sup>3</sup>
@@ -778,9 +778,9 @@ Der Bundesrat stellt nach Anhören der Kantone Vorschriften auf über:
 - e.[^25-4] Inhalt und Umfang der Fahreignungsuntersuchung sowie das Vorgehen bei Zweifelsfällen;
 - f. [^25-5] Mindestanforderungen an die Personen, die Fahreignungsuntersuchungen durchführen, an das Untersuchungsverfahren und an die Qualitätssicherung.
 
-<sup>3bis</sup> ...[^25-6]
+<sup>3bis</sup> …[^25-6]
 
-<sup>4</sup> ...[^25-7]
+<sup>4</sup> …[^25-7]
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)Art. 1; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^25-2]: Fassung gemäss Ziff. II 12 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
@@ -890,9 +890,9 @@ Der Bundesrat kann folgenden Personengruppen das Fahren unter Alkoholeinfluss ve
 
 <sup>3</sup> Die vom Bundesrat festgesetzte Höchstgeschwindigkeit kann für bestimmte Strassenstrecken von der zuständigen Behörde nur auf Grund eines Gutachtens herab- oder heraufgesetzt werden. Der Bundesrat kann Ausnahmen vorsehen.[^32-2]
 
-<sup>4</sup> ...[^32-3]
+<sup>4</sup> …[^32-3]
 
-<sup>5</sup> ...[^32-4]
+<sup>5</sup> …[^32-4]
 
 [^32-1]: Fassung gemäss Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Jan. 1977 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)Ziff. II Abs. 2; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^32-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
@@ -1064,7 +1064,7 @@ Wo die Sicherheit des Verkehrs es erfordert, hat der Fahrzeugführer die übrige
 
 <sup>2</sup> Radfahrer dürfen nicht nebeneinander fahren. Der Bundesrat kann Ausnahmen vorsehen.[^46-1]
 
-<sup>3</sup> ...[^46-2]
+<sup>3</sup> …[^46-2]
 
 <sup>4</sup> Radfahrer dürfen sich nicht durch Fahrzeuge oder Tiere ziehen lassen.
 
@@ -1203,7 +1203,7 @@ Eine Blutprobe muss angeordnet werden, wenn:[^55-2]
 
 <sup>4</sup> Die Blutprobe kann aus wichtigen Gründen auch gegen den Willen der verdächtigten Person abgenommen werden. Andere Beweismittel für die Feststellung der Fahrunfähigkeit bleiben vorbehalten.
 
-<sup>5</sup> ...[^55-6]
+<sup>5</sup> …[^55-6]
 
 <sup>6</sup>
 
@@ -1269,7 +1269,7 @@ Er erlässt Bestimmungen über:
 - d. die Verkehrsregelung durch das Militär;
 - e. die Tatbestandsaufnahme bei Unfällen, an denen Militärmotorfahrzeuge beteiligt sind.
 
-<sup>4</sup> ...[^57-2]
+<sup>4</sup> …[^57-2]
 
 <sup>5</sup> Der Bundesrat kann vorschreiben, dass
 
@@ -1304,7 +1304,7 @@ Er erlässt Bestimmungen über:
 
 [^57b-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 1989 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Aufgehoben durch Ziff. I des BG vom 15. Juni 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
-## III*a*. Titel:**** Verkehrsmanagement****
+## III*a*. Titel: Verkehrsmanagement
 
 [^titIIIa-1][^titIIIa-2]
 
@@ -1382,7 +1382,7 @@ Er kann:
 
 <sup>2</sup> Beweist der Halter, der nicht nach Absatz 1 befreit wird, dass ein Verschulden des Geschädigten beim Unfall mitgewirkt hat, so bestimmt der Richter die Ersatzpflicht unter Würdigung aller Umstände.
 
-<sup>3</sup> ...[^59-1]
+<sup>3</sup> …[^59-1]
 
 <sup>4</sup>
 
@@ -1499,7 +1499,7 @@ Der Bundesrat bestimmt die Beträge, die als Ersatzansprüche der Geschädigten 
 
 <sup>3</sup> Der Bundesrat regelt die Voraussetzungen, unter welchen der Halter an Stelle des versicherten Fahrzeuges und mit dessen Kontrollschildern ein anderes Fahrzeug verwenden darf. Die Versicherung gilt ausschliesslich für das verwendete Fahrzeug. Der Versicherer kann auf den Halter Rückgriff nehmen, wenn die Verwendung nicht zulässig war.[^67-1]
 
-<sup>4</sup> ...[^67-2]
+<sup>4</sup> …[^67-2]
 
 [^67-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. März 2004 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 647](https://fedlex.data.admin.ch/eli/oc/2004/56); BBl **1999** 4462).
 [^67-2]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2001, mit Wirkung seit 1. März 2004 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 647](https://fedlex.data.admin.ch/eli/oc/2004/56); BBl **1999** 4462).
@@ -1597,7 +1597,7 @@ Radfahrer haften nach Obligationenrecht[^70-2].
 
 <sup>1</sup> Bund und Kantone unterstehen als Halter von Motorfahrzeugen den Haftpflichtbestimmungen dieses Gesetzes, jedoch nicht der Versicherungspflicht. Ausserdem sind von der Versicherungspflicht Motorfahrzeuge ausgenommen, für die der Bund die Deckungspflicht wie ein Versicherer übernimmt.
 
-<sup>2</sup> ...[^73-1]
+<sup>2</sup> …[^73-1]
 
 <sup>3</sup> Bund und Kantone regulieren nach den für die Haftpflichtversicherung geltenden Bestimmungen die Schäden, die durch Motorfahrzeuge, Anhänger und Fahrräder verursacht werden, für die sie haften. Sie teilen der Auskunftsstelle (Art. 79*a*) mit, welche Stellen für die Schadenregulierung zuständig sind.[^73-2]
 
@@ -1953,7 +1953,7 @@ Wird einem Geschädigten durch Versicherungsleistungen der Schaden nicht voll ge
 [^89-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^89-2]: Fassung gemäss Anhang Ziff. 73 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## IV*a*.**** Titel: Informationssysteme
+## IV*a*. Titel: Informationssysteme
 
 [^titIVa-1]
 
@@ -1969,7 +1969,7 @@ Wird einem Geschädigten durch Versicherungsleistungen der Schaden nicht voll ge
 
 <sup>2</sup> Die Kantone liefern dem ASTRA die Daten der Verkehrszulassung.
 
-<sup>3</sup> Die Daten des IVZ stehen unter der Datenhoheit des ASTRA. ...[^89a-1]
+<sup>3</sup> Die Daten des IVZ stehen unter der Datenhoheit des ASTRA. …[^89a-1]
 
 <sup>4</sup> Das ASTRA definiert die technischen Schnittstellen und die Verfahren zum Datenabgleich.
 
@@ -2477,11 +2477,12 @@ Mit Busse wird bestraft, wer:
 - b. ohne Bewilligung Fahrten durchführt, die nach diesem Gesetz einer Bewilligung bedürfen;
 - c. die mit dem Fahrzeugausweis oder der Bewilligung von Gesetzes wegen oder im Einzelfall verbundenen Beschränkungen oder Auflagen, namentlich über das zulässige Gesamtgewicht, missachtet.
 
-<sup>2</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer ein Motorfahrzeug führt, obwohl er weiss oder bei pflichtgemässer Aufmerksamkeit wissen kann, dass die vorgeschriebene Haftpflichtversicherung nicht besteht. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden. In leichten Fällen ist die Strafe Geldstrafe.
+<sup>2</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer ein Motorfahrzeug führt, obwohl er weiss oder bei pflichtgemässer Aufmerksamkeit wissen kann, dass die vorgeschriebene Haftpflichtversicherung nicht besteht. In leichten Fällen ist die Strafe Geldstrafe.[^96-2]
 
 <sup>3</sup> Den gleichen Strafandrohungen untersteht der Halter oder die Person, die an seiner Stelle über das Fahrzeug verfügt, wenn er oder sie von der Widerhandlung Kenntnis hatte oder bei pflichtgemässer Aufmerksamkeit haben konnte.
 
 [^96-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^96-2]: Fassung gemäss Ziff. I 22 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Missbrauch von Ausweisen und Schildern
 
@@ -2567,7 +2568,7 @@ Mit Busse wird bestraft, wer:
 - e. unerlaubterweise Kennzeichen der Verkehrspolizei verwendet;
 - f. unerlaubterweise an Motorfahrzeugen Lautsprecher verwendet;
 - g. unerlaubterweise motor- oder radsportliche Veranstaltungen oder Versuchsfahrten durchführt oder bei bewilligten Veranstaltungen dieser Art die verlangten Sicherheitsmassnahmen nicht trifft;
-- h.–j. ...[^99-2]
+- h.–j. …[^99-2]
 
 <sup>2</sup> Mit Busse bis zu 100 Franken wird der Halter bestraft, der nach Übernahme eines Motorfahrzeugs oder Motorfahrzeuganhängers von einem andern Halter oder nach Verlegung des Standorts in einen andern Kanton nicht fristgemäss einen neuen Fahrzeugausweis einholt.
 
@@ -2661,7 +2662,7 @@ Der Fahrschüler ist verantwortlich, soweit er eine Widerhandlung nach dem Stand
 
 <sup>2</sup> Fahrzeuge, deren Standort in einen anderen Kanton verlegt wird, können im neuen Standortkanton von dem Tag an besteuert werden, an dem sie mit dem Fahrzeugausweis und den Kontrollschildern des neuen Standortkantons versehen werden oder hätten versehen werden müssen. Der alte Standortkanton muss Steuern, die für weitere Zeit erhoben wurden, zurückerstatten.[^105-1]
 
-<sup>3</sup> ...[^105-2]
+<sup>3</sup> …[^105-2]
 
 <sup>4</sup> Die Kantone können die Motorfahrzeuge des Bundes für ihre ausserdienstliche Verwendung besteuern. Fahrräder des Bundes sind steuer- und gebührenfrei.
 
@@ -2682,17 +2683,17 @@ Der Fahrschüler ist verantwortlich, soweit er eine Widerhandlung nach dem Stand
 
 <sup>3</sup> Die Kantone bleiben zuständig zum Erlass ergänzender Vorschriften über den Strassenverkehr, ausgenommen für Motorfahrzeuge und Fahrräder sowie für Eisenbahnfahrzeuge.
 
-<sup>4</sup> Der Bundesrat kann Fragen der Durchführung dieses Gesetzes durch Sachverständige oder Fachkommissionen begutachten lassen. ...[^106-2]
+<sup>4</sup> Der Bundesrat kann Fragen der Durchführung dieses Gesetzes durch Sachverständige oder Fachkommissionen begutachten lassen. …[^106-2]
 
 <sup>5</sup> Beim Auftreten neuer technischer Erscheinungen auf dem Gebiete des Strassenverkehrs sowie zur Durchführung zwischenstaatlicher Vereinbarungen kann der Bundesrat die vorläufigen Massnahmen treffen, die sich bis zur gesetzlichen Regelung als notwendig erweisen.
 
 <sup>6</sup> Für die Personen, die im Genuss der diplomatischen Vorrechte und Befreiungen stehen, kann der Bundesrat die Zuständigkeit der Behörden abweichend regeln und die weiteren Ausnahmen von diesem Gesetz vorsehen, die sich aus den völkerrechtlichen Gepflogenheiten ergeben.
 
-<sup>7</sup> ...[^106-3]
+<sup>7</sup> …[^106-3]
 
 <sup>8</sup> Der Bundesrat kann Fahrten ausländischer Fahrzeuge verbieten, kontingentieren, der Bewilligungspflicht unterstellen oder andern Beschränkungen unterwerfen, wenn ein ausländischer Staat gegenüber schweizerischen Fahrzeugen und deren Führern solche Massnahmen anordnet oder strengere Verkehrsvorschriften anwendet als für die eigenen Fahrzeuge und deren Führer.[^106-4]
 
-<sup>9</sup> ...[^106-5]
+<sup>9</sup> …[^106-5]
 
 <sup>10</sup> Der Bundesrat kann die Ausführung bestimmter Arbeiten an Fahrzeugen einer Bewilligungspflicht unterstellen, soweit die Verkehrssicherheit oder der Umweltschutz dies erfordern. Er legt die Bewilligungsvoraussetzungen fest und regelt die Aufsicht.[^106-6]
 
@@ -2735,7 +2736,7 @@ Der Bundesrat kann mit ausländischen Staaten Verträge abschliessen über den g
 
 <sup>3</sup> Alle diesem Gesetz widersprechenden Bestimmungen sind aufgehoben, namentlich das Bundesgesetz vom 15. März 1932[^107-1] über den Motorfahrzeug- und Fahrradverkehr.
 
-[^107-1]: [BS **7** 595 614; [AS 1948 531](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1491 Art. 4, [1960 1157](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)Art. 28 Abs. 1 Ziff. 1, [1308](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)Art. 4 Abs. 6, [1962 1364](https://fedlex.data.admin.ch/eli/oc/1962/1364_1409_1420)Art. 99 Abs. 3]
+[^107-1]: [BS **7** 595 614; [AS 1948 531](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478); **1949** II 1491 Art. 4; [1960 1157](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)Art. 28 Abs. 1 Ziff. 1, [1308](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)Art. 4 Abs. 6; [1962 1364](https://fedlex.data.admin.ch/eli/oc/1962/1364_1409_1420)Art. 99 Abs. 3]
 
 ### Übergangsbestimmung zur Änderung vom 29. September 2017
 
@@ -2757,7 +2758,7 @@ Art. 10 Abs. 3, 104–107: 1. Oktober 1959[^108-2] Art. 58–75, 77–89, 96, 97
 [^108-6]: Art. 99 Abs. 2 der V vom 13. Nov. 1962 ([SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)).
 [^108-7]: Art. 14 Abs. 1 des BRB vom 22. Nov. 1966 ([AS 1966 1493](https://fedlex.data.admin.ch/eli/oc/1966/1493_1543_1531)).
 
-## Schlussbestimmungen der Änderung vom 23. Juni 1995****
+## Schlussbestimmungen der Änderung vom 23. Juni 1995
 
 [^u1-1]
 
@@ -2767,11 +2768,11 @@ Art. 10 Abs. 3, 104–107: 1. Oktober 1959[^108-2] Art. 58–75, 77–89, 96, 97
 
 <sup>2</sup> Die Versicherungsverträge sind bis Ende des Versicherungsjahres an den geänderten Artikel 63 Absatz 3 Buchstabe a anzupassen.
 
-## Schlussbestimmungen der Änderung vom 14. Dezember 2001****
+## Schlussbestimmungen der Änderung vom 14. Dezember 2001
 
 [^u2-1]
 
-[^u2-1]: [AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350)[5053](https://fedlex.data.admin.ch/eli/oc/2004/778); BBl **1999** 4462
+[^u2-1]: [AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350), [5053](https://fedlex.data.admin.ch/eli/oc/2004/778); BBl **1999** 4462
 
 <sup>1</sup> Nach den Vorschriften dieser Änderung wird beurteilt, wer nach ihrem Inkrafttreten eine leichte, mittelschwere oder schwere Widerhandlung gegen die Strassenverkehrsvorschriften begeht.
 
@@ -2779,7 +2780,7 @@ Art. 10 Abs. 3, 104–107: 1. Oktober 1959[^108-2] Art. 58–75, 77–89, 96, 97
 
 <sup>3</sup> Die Bestimmungen der Artikel 16*b* Absatz 2 Buchstabe f und 16*c* Absatz 2 Buchstabe e gelten auch für Führerausweisentzüge nach dem bisherigen Artikel 16 Absatz 3 Buchstabe e.
 
-## Ursprüngliche Fassung des Art. 25 Abs. 3 Bst. e****
+## Ursprüngliche Fassung des Art. 25 Abs. 3 Bst. e
 
 [^u3-1]
 
