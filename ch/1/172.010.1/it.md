@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Am
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230101-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230701-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230101/it"
 
 (OLOGA)
 
-del 25 novembre 1998 (Stato 1° gennaio 2023)
+del 25 novembre 1998 (Stato 1° luglio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1434,7 +1434,7 @@ Allegato 1[^t-1]
 L’Amministrazione federale consta delle seguenti unità amministrative:
 
 <table>
-<tr><td>A.</td><td colspan="8">Bundeskanzlei (BK)Chancellerie fédérale (ChF) Cancelleria federale (CaF) Chanzlia federala (ChF)</td></tr>
+<tr><td>A.</td><td colspan="8">Bundeskanzlei (BK) Chancellerie fédérale (ChF) Cancelleria federale (CaF) Chanzlia federala (ChF)</td></tr>
 <tr><td></td><td>**1.**</td><td colspan="7">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
 <tr><td></td><td></td><td colspan="2">1.1</td><td colspan="5">Bundeskanzlei (BK) Chancellerie fédérale (ChF) Cancelleria federale (CaF) Chanzlia federala (ChF)</td></tr>
 <tr><td></td><td>**2.**</td><td colspan="7">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
@@ -1493,7 +1493,7 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td colspan="3"></td><td colspan="2">**2.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4">**2.1**</td><td colspan="2">**Unità amministrative senza personalità giuridica autonome sul piano organizzativo:**</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.1</td><td>*Abrogato*</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.2</td><td>Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch da surveglianza dal traffic da posta e da telecommunicaziun (STPT)</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.2</td><td>Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch Surveglianza da la correspundenza postala e dal traffic da telecommunicaziun (SCPT)</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.3</td><td>Kommission zur Verhütung von Folter Commission de prévention de la torture Commissione per la prevenzione della tortura Cumissiun per la prevenziun cunter la tortura</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2">**2.2**</td><td colspan="2">**Enti, istituti e fondazioni autonomi sul piano giuridico:**</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2"></td><td>2.2.1</td><td>Schweizerisches Institut für Rechtsvergleichung (SIR) Institut suisse de droit comparé (ISDC) Istituto svizzero di diritto comparato (ISDC) Institut svizzer da dretg cumparativ (ISDC)</td></tr>
@@ -1671,7 +1671,7 @@ Allegato 3[^t-3]
 
 ## Attribuzione delle unità rese autonome al dipartimento con il più stretto legame ed esercizio congiunto con l’AFF dei diritti del proprietario
 
-[^t-3]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nuovo testo giusta l’O dell’11 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)).
+[^t-3]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nuovo testo giusta il n. I dell’O del 17 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 249](https://fedlex.data.admin.ch/eli/oc/2023/249)).
 
 <table>
 <tr><th>Unità resa autonoma</th><th>Dipartimento con il più stretto legame con l’unità resa autonoma e unità amministrativa competente</th><th>Esercizio congiunto dei diritti del proprietario</th></tr>
@@ -1686,10 +1686,9 @@ Allegato 3[^t-3]
 <tr><td>Settore dei PF</td><td>DEFR (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>SUFFP</td><td>DEFR (SG)</td><td></td></tr>
 <tr><td>ASRE</td><td>DEFR (SECO)</td><td>DFF (AFF)</td></tr>
-<tr><td>SIFEM SA</td><td>DEFR (SECO)</td><td></td></tr>
-<tr><td>Identitas SA</td><td>DFI (USAV) / DEFR (SG)</td><td></td></tr>
+<tr><td>SIFEM SA</td><td>DEFR (SECO)</td><td>DFF (AFF)</td></tr>
+<tr><td>Identitas AG</td><td>DFI (SG) / DEFR (SG)</td><td></td></tr>
 <tr><td>Innosuisse</td><td>DEFR (SG)</td><td></td></tr>
-<tr><td>BGRB Holding SA</td><td>DDPS (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>RUAG MRO Holding SA</td><td>DDPS (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>RUAG International Holding SA</td><td>DFF (AFF)</td><td>DDPS (SG)</td></tr>
 <tr><td>Swisscom SA</td><td>DATEC (SG)</td><td>DFF (AFF)</td></tr>

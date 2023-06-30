@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 1998 sur l'organisation du gouvernement et de 
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230701-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230101/fr"
 
 (OLOGA)
 
-du 25 novembre 1998 (État le 1<sup>er</sup> janvier 2023)
+du 25 novembre 1998 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -328,9 +328,9 @@ Un dépassement se justifie notamment dans les cas suivants:
 L’acte d’institution doit notamment:
 
 - a. justifier la nécessité d’instituer la commission et définir de manière détaillée sa mission;
-- b.[^8e-1] ...
+- b.[^8e-1] …
 - c.[^8e-2] indiquer le nombre de membres que compte la commission et, le cas échéant, pour quelles raisons le nombre maximal de membres prévu par la loi a été dépassé;
-- d.[^8e-3] ...
+- d.[^8e-3] …
 - e. régler l’organisation de la commission;
 - f. fixer la manière dont la commission rendra compte de ses activités et informera le public;
 - g. fixer les règles de confidentialité;
@@ -528,7 +528,7 @@ L’annuaire contient les données suivantes sur les personnes visées à l’al
 - f.[^8k-2] liens d’intérêts;
 - g.[^8k-3] canton selon l’adresse de correspondance.
 
-<sup>3</sup> ...[^8k-4]
+<sup>3</sup> …[^8k-4]
 
 <sup>4</sup> Les données sont accessibles en ligne dès que la personne est nommée membre de la commission et jusqu’à ce qu’elle quitte la commission.
 
@@ -667,7 +667,7 @@ Pour déterminer le montant de l’indemnité, les commissions de suivi du march
 
 Les membres des commissions extraparlementaires sont indemnisés selon les seuls montants applicables à leur commission. Ils ne reçoivent aucune autre indemnité pour toutes les activités qui sont liées à leur mandat.
 
-### Section 2 ...
+### Section 2 …
 
 #### Art. 9 à 10c
 
@@ -1327,7 +1327,7 @@ Les départements et la Chancellerie fédérale se donnent chacun un règlement 
 Les instructions et les documents auxiliaires portent notamment sur:
 
 - a. la préparation des affaires du Conseil fédéral;
-- b.[^30-1] ...
+- b.[^30-1] …
 - c. l’établissement des messages et des rapports du Conseil fédéral aux Chambres fédérales;
 - d. la préparation et l’établissement d’actes législatifs fédéraux;
 - e. les principes de l’attribution des compétences décisionnelles au niveau adéquat;
@@ -1364,7 +1364,7 @@ Les instructions et les documents auxiliaires portent notamment sur:
 [^31-3]: Introduit par l’annexe ch. 2 de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> fév. 2004 ([RO 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 [^31-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> fév. 2004 ([RO 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 
-### Section 3 ...
+### Section 3 …
 
 #### Art. 32
 
@@ -1372,7 +1372,7 @@ Les instructions et les documents auxiliaires portent notamment sur:
 
 [^32-1]: Abrogé par le ch. I de l’O du 21 août 2002, avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 
-### Section 4 ...
+### Section 4 …
 
 #### Art. 33
 
@@ -1432,7 +1432,7 @@ Annexe 1[^t-1]
 
 ## Liste des unités de l’administration fédérale
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 30 juin 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Mise à jour par le ch. I de l’O du 27 oct. 2010 ([RO 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), l’art. 15 de l’O du 20 avril 2011 ([RO 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), le ch. II de l’O du 17 août 2011 ([RO 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), l’annexe ch. 1 de l’O du 23 mars 2011 sur l’organisation du SESA ([RO 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), le ch. I de l’O du 30 nov. 2011 ([RO 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), l’annexe ch. 1 de l’O du 9 déc. 2011 sur l’informatique dans l’administration fédérale ([RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), l’annexe ch. 2 de l’O du 21 nov. 2012 sur l’Institut fédéral de métrologie ([RO 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)), le ch. I 2 al. 1 de l’O du 15 juin 2012 (Réorganisation des départements) ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), les errata du 28 déc. 2012 ([RO 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), du 15 janv. 2013 ([RO 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), le ch. II des O du 8 mai 2013 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), du 28 nov. 2014 ([RO 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)), du 28 janv. 2015 ([RO 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), le ch. I de l’O du 7 oct. 2015 ([RO 2015 4053](https://fedlex.data.admin.ch/eli/oc/2015/677)), l’annexe ch. 2 de l’O du 16 août 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), l’annexe 2 ch. II 1 de l’O du 29 mars 2017 sur les structures de l’armée ([RO 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), l’annexe 2 ch. II 2 de l’O du 15 sept. 2017 sur l’alcool ([RO 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), l’annexe ch. 1 de l’O du 15 nov. 2017 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), l’annexe 6 ch. II 1 de l’O du 21 sept. 2018 ([RO 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), le ch. II de l’O du 7 nov. 2018 ([RO 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), le ch. I de l’O du 30 nov. 2018 ([RO 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), le ch. I 1 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), l’annexe ch. 2 de l’O du 25 nov. 2020 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)), le ch.II 1 de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)) et l’erratum du 8 juil. 2021 ([RO 2021 429](https://fedlex.data.admin.ch/eli/oc/2021/429)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 30 juin 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Mise à jour par le ch. I de l’O du 27 oct. 2010 ([RO 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), l’art. 15 de l’O du 20 avril 2011 ([RO 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), le ch. II de l’O du 17 août 2011 ([RO 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), l’annexe ch. 1 de l’O du 23 mars 2011 sur l’organisation du SESA ([RO 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), le ch. I de l’O du 30 nov. 2011 ([RO 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), l’annexe ch. 1 de l’O du 9 déc. 2011 sur l’informatique dans l’administration fédérale ([RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), l’annexe ch. 2 de l’O du 21 nov. 2012 sur l’Institut fédéral de métrologie ([RO 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)), le ch. I 2 al. 1 de l’O du 15 juin 2012 (Réorganisation des départements) ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), les errata du 28 déc. 2012 ([RO 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), du 15 janv. 2013 ([RO 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), le ch. II des O du 8 mai 2013 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), du 28 nov. 2014 ([RO 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)), du 28 janv. 2015 ([RO 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), le ch. I de l’O du 7 oct. 2015 ([RO 2015 4053](https://fedlex.data.admin.ch/eli/oc/2015/677)), l’annexe ch. 2 de l’O du 16 août 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), l’annexe 2 ch. II 1 de l’O du 29 mars 2017 sur les structures de l’armée ([RO 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), l’annexe 2 ch. II 2 de l’O du 15 sept. 2017 sur l’alcool ([RO 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), l’annexe ch. 1 de l’O du 15 nov. 2017 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), l’annexe 6 ch. II 1 de l’O du 21 sept. 2018 ([RO 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), le ch. II de l’O du 7 nov. 2018 ([RO 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), le ch. I de l’O du 30 nov. 2018 ([RO 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), le ch. I 1 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), l’annexe ch. 2 de l’O du 25 nov. 2020 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)), le ch. II 1 de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)) et l’erratum du 8 juil. 2021 ([RO 2021 429](https://fedlex.data.admin.ch/eli/oc/2021/429)).
 
 L’administration fédérale se compose des unités suivantes:
 
@@ -1496,7 +1496,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="3">**2.**</td><td colspan="7">**Unités de l’administration fédérale** décentralisée**:**</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3">**2.1**</td><td colspan="3">**Unités administratives sans personnalité juridique devenues autonomes sur le plan organisationnel:**</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.1.1</td><td>*abrogé*</td></tr>
-<tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.1.2</td><td>Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch da surveglianza dal traffic da posta e da telecommunicaziun (STPT)</td></tr>
+<tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.1.2</td><td>Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch Surveglianza da la correspundenza postala e dal traffic da telecommunicaziun (SCPT)</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.1.3</td><td>Kommission zur Verhütung von Folter Commission de prévention de la torture Commissione per la prevenzione della tortura Cumissiun per la prevenziun cunter la tortura</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4">**2.2**</td><td colspan="3">**Corporations, établissements et fondations devenus juridiquement autonomes:**</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.2.1</td><td>Schweizerisches Institut für Rechtsvergleichung (SIR) Institut suisse de droit comparé (ISDC) Istituto svizzero di diritto comparato (ISDC) Institut svizzer da dretg cumparativ (ISDC)</td></tr>
@@ -1577,7 +1577,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.9</td><td colspan="2">Eidgenössische Materialprüfungs- und Forschungsanstalt (EMPA) Laboratoire fédéral d’essai des matériaux et de recherche (EMPA) Laboratorio federale di prova dei materiali e di ricerca (EMPA) Institut federal da controlla da material e da perscrutaziun (EMPA)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.10</td><td colspan="2">Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz (EAWAG) Institut fédéral pour l’aménagement, l’épuration et la protection des eaux (EAWAG) Istituto federale per l’approvvigionamento, la depurazione e la protezione delle acque (EAWAG) Institut federal per provediment, serenaziun e protecziun da las auas (EAWAG)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.11</td><td colspan="2">Schweizerische Agentur für Innovationsförderung (Innosuisse) Agence suisse pour l’encouragement de l’innovation (Innosuisse) Agenzia svizzera per la promozione dell’innovazione (Innosuisse) Agentura svizra per la promoziun da l’innovaziun (Innosuisse)</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Sociétés anonymes dans lesquelles la Confédération détient une participation majoritaire :**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Sociétés anonymes dans lesquelles la Confédération détient une participation majoritaire:**</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.3.1</td><td>Swiss Investment Fund for Emerging Markets (SIFEM AG) Swiss Investment Fund for Emerging Markets (SIFEM SA) Swiss Investment Fund for Emerging Markets (SIFEM SA) Swiss Investment Fund for Emerging Markets (SIFEM SA)</td></tr>
 </table>
 
@@ -1675,7 +1675,7 @@ Annexe 3[^t-3]
 
 ## Rattachement des entités devenues autonomes au département ayant le lien le plus étroit avec elles et exercice des droits du propriétaire avec l’AFF
 
-[^t-3]: Introduite par l’O du 27 nov. 2009 ([RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nouvelle teneur selon l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> juil.2022 ([RO 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)).
+[^t-3]: Introduite par l’O du 27 nov. 2009 ([RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nouvelle teneur selon le ch. I de l’O du 17 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 249](https://fedlex.data.admin.ch/eli/oc/2023/249)).
 
 <table>
 <tr><th>Entité devenue autonome</th><th>Département ayant le lien le plus étroit avec l’entité et unité administrative responsable</th><th>Exercice en commun des droits du propriétaire</th></tr>
@@ -1690,16 +1690,15 @@ Annexe 3[^t-3]
 <tr><td>Domaine des EPF</td><td>DEFR (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>HEFP</td><td>DEFR (SG)</td><td></td></tr>
 <tr><td>ASRE</td><td>DEFR (SECO)</td><td>DFF (AFF)</td></tr>
-<tr><td>SIFEM SA</td><td>DEFR (SECO)</td><td></td></tr>
-<tr><td>Identitas SA</td><td>DFI (OSAV) / DEFR (SG)</td><td></td></tr>
+<tr><td>SIFEM SA</td><td>DEFR (SECO)</td><td>DFF (AFF)</td></tr>
+<tr><td>Identitas AG</td><td>DFI (SG) / DEFR (SG)</td><td></td></tr>
 <tr><td>Innosuisse</td><td>DEFR (SG)</td><td></td></tr>
-<tr><td>BGRB Holding SA</td><td>DDPS (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>RUAG MRO Holding SA</td><td>DDPS (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>RUAG International Holding SA</td><td>DFF (AFF)</td><td>DDPS (SG)</td></tr>
 <tr><td>Swisscom SA</td><td>DETEC (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>La Poste Suisse SA</td><td>DETEC (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>CFF SA</td><td>DETEC (SG)</td><td>DFF (AFF)</td></tr>
-<tr><td>Skyguide</td><td>DETEC (SG), DDPS (SG)</td><td>DFF (AFF)</td></tr>
+<tr><td>Skyguide</td><td>DETEC (SG) / DDPS (SG)</td><td>DFF (AFF)</td></tr>
 <tr><td>IFSN</td><td>DETEC (SG)</td><td></td></tr>
 <tr><td>Service d’attribution des sillons</td><td>DETEC (SG)</td><td></td></tr>
 </table>

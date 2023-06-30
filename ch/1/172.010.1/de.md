@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230101-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230101/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. Januar 2023)
+vom 25. November 1998 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1507,7 +1507,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td colspan="3"></td><td colspan="3">**2.**</td><td colspan="5">**Verwaltungseinheiten der** dezentralen **Bundesverwaltung:**</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td>**2.1**</td><td colspan="4">**Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rechtspersönlichkeit:**</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.1</td><td colspan="2">*Aufgehoben*</td></tr>
-<tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.2</td><td colspan="2">Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch da surveglianza dal traffic da posta e da telecommunicaziun (STPT)</td></tr>
+<tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.2</td><td colspan="2">Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch Surveglianza da la correspundenza postala e dal traffic da telecommunicaziun (SCPT)</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.3</td><td colspan="2">Kommission zur Verhütung von Folter Commission de prévention de la torture Commissione per la prevenzione della tortura Cumissiun per la prevenziun cunter la tortura</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">**2.2**</td><td colspan="3">**Rechtlich verselbstständigte Körperschaften, Anstalten und Stiftungen:**</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.1</td><td colspan="2">Schweizerisches Institut für Rechtsvergleichung (SIR) Institut suisse de droit comparé (ISDC) Istituto svizzero di diritto comparato (ISDC) Institut svizzer da dretg cumparativ (ISDC)</td></tr>
@@ -1686,10 +1686,10 @@ Anhang 3[^t-3]
 
 ## Zuordnung der verselbstständigten Einheiten zum Departement mit dem engsten Sachbezug und gemeinsame Ausübung der Eignerrechte mit der EFV
 
-[^t-3]: Eingefügt durch die V vom 27. Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Fassung gemäss der V vom 11. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)).
+[^t-3]: Eingefügt durch die V vom 27. Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Fassung gemäss Ziff. I der V vom 17. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 249](https://fedlex.data.admin.ch/eli/oc/2023/249)).
 
 <table>
-<tr><td>Verselbstständigte Einheit</td><td>Departement mit engstem Sachbezug und zuständige Verwaltungseinheit</td><td>Gemeinsame Ausübung der Eignerrechte</td></tr>
+<tr><th>Verselbstständigte Einheit</th><th>Departement mit engstem Sachbezug und zuständige Verwaltungseinheit</th><th>Gemeinsame Ausübung der Eignerrechte</th></tr>
 <tr><td>SNM</td><td>EDI (GS)</td><td></td></tr>
 <tr><td>Pro Helvetia</td><td>EDI (GS)</td><td></td></tr>
 <tr><td>Swissmedic</td><td>EDI (GS)</td><td></td></tr>
@@ -1701,10 +1701,9 @@ Anhang 3[^t-3]
 <tr><td>ETH-Bereich</td><td>WBF (GS)</td><td>EFD (EFV)</td></tr>
 <tr><td>EHB</td><td>WBF (GS)</td><td></td></tr>
 <tr><td>SERV</td><td>WBF (SECO)</td><td>EFD (EFV)</td></tr>
-<tr><td>SIFEM AG</td><td>WBF (SECO)</td><td></td></tr>
-<tr><td>Identitas AG</td><td>EDI (BLV) / WBF (GS)</td><td></td></tr>
+<tr><td>SIFEM AG</td><td>WBF (SECO)</td><td>EFD (EFV)</td></tr>
+<tr><td>Identitas AG</td><td>EDI (GS) / WBF (GS)</td><td></td></tr>
 <tr><td>Innosuisse</td><td>WBF (GS)</td><td></td></tr>
-<tr><td>BGRB Holding AG</td><td>VBS (GS)</td><td>EFD (EFV)</td></tr>
 <tr><td>RUAG MRO Holding AG</td><td>VBS (GS)</td><td>EFD (EFV)</td></tr>
 <tr><td>RUAG International Holding AG</td><td>EFD (EFV)</td><td>VBS (GS)</td></tr>
 <tr><td>Swisscom AG</td><td>UVEK (GS)</td><td>EFD (EFV)</td></tr>
