@@ -4,11 +4,11 @@ title: "Loi fédérale du 1<sup>er</sup> octobre 2010 sur les ouvrages d'accumul
 short: LOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/703"
 language: fr
-version: 2013-01-01
+version: 2023-07-01
 adopted: 2010-10-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-703-20130101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-703-20230701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20130101/fr"
 
 (LOA)
 
-du 1<sup>er</sup> octobre 2010 (Etat le 1<sup>er</sup> janvier 2013)
+du 1<sup>er</sup> octobre 2010 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -359,14 +359,17 @@ Les personnes responsables de la construction ou de l’exploitation d’un ouvr
 
 <sup>1</sup>
 
-Est puni d’une peine privative de liberté jusqu’à trois ans au plus quiconque:
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:[^30-1]
 
 - a. construit intentionnellement un ouvrage d’accumulation qui présente des défauts, en particulier en ne tenant pas compte des mesures de sécurité prescrites;
 - b. continue à exploiter un ouvrage d’accumulation en sachant qu’il présente des défauts de sécurité importants.
 
-<sup>2</sup> La peine privative de liberté doit être assortie d’une peine pécuniaire.
+<sup>2</sup> ...[^30-2]
 
 <sup>3</sup> Quiconque agit par négligence est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^30-1]: Nouvelle teneur selon le ch. I 20 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^30-2]: Abrogé par le ch. I 20 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 31
 

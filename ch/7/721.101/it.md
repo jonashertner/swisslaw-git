@@ -4,11 +4,11 @@ title: Legge federale del 1° ottobre 2010 sugli impianti di accumulazione (LImA
 short: LImA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/703"
 language: it
-version: 2013-01-01
+version: 2023-07-01
 adopted: 2010-10-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2012-703-20130101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2012-703-20230701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20130101/it"
 
 (LImA)
 
-del 1° ottobre 2010 (Stato 1° gennaio 2013)
+del 1° ottobre 2010 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -359,14 +359,17 @@ Le persone responsabili della costruzione o dell’esercizio di un impianto di a
 
 <sup>1</sup>
 
-È punito con una pena detentiva sino a 3 anni chiunque:
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque:[^30-1]
 
 - a. costruisce intenzionalmente un impianto di accumulazione difettoso, disattendendo in particolare le misure di sicurezza prescritte;
 - b. continua a esercitare un impianto di accumulazione pur sapendo che presenta gravi carenze nella sicurezza.
 
-<sup>2</sup> Con la pena detentiva è cumulata una pena pecuniaria.
+<sup>2</sup> ...[^30-2]
 
 <sup>3</sup> Chi agisce per negligenza è punito con una pena detentiva sino a 3 anni o con una pena pecuniaria.
+
+[^30-1]: Nuovo testo giusta il n. I 20 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^30-2]: Abrogato dal n. I 20 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 31
 

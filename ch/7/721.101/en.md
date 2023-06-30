@@ -4,11 +4,11 @@ title: "Federal Act of 1 October 2010 on Water Retaining Facilities (Water Retai
 short: WRFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/703"
 language: en
-version: 2013-01-01
+version: 2023-07-01
 adopted: 2010-10-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20130101/en/xml/fedlex-data-admin-ch-eli-cc-2012-703-20130101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20130101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2012-703-20230701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Water Retaining Facilities Act, WRFA)
 
-of 1 October 2010 (Status as of 1 January 2013)
+of 1 October 2010 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -253,9 +253,9 @@ There is large-scale damage if, as the result of a disaster, it has to be antici
 
 In its compensation plan, the Federal Assembly may:
 
-- c. deviate from the provisions of this Act or from other provisions governing compensation claims;
-- d. provide that the Federal Government will pay additional contributions to compensate uncovered damage and that payment thereof shall be made dependent on payments effected by the canton in which the water retaining facility is located;
-- e. regulate the procedures for the enforcement of its compensation plan and appoint an independent panel against whose rulings an appeal may be filed with the Federal Supreme Court.
+- a. deviate from the provisions of this Act or from other provisions governing compensation claims;
+- b. provide that the Federal Government will pay additional contributions to compensate uncovered damage and that payment thereof shall be made dependent on payments effected by the canton in which the water retaining facility is located;
+- c. regulate the procedures for the enforcement of its compensation plan and appoint an independent panel against whose rulings an appeal may be filed with the Federal Supreme Court.
 
 <sup>5</sup> The Federal Council shall take precautionary measures.
 
@@ -359,16 +359,19 @@ Persons responsible for the construction or operation of water retaining facilit
 
 **Violation of safety regulations**
 
-<sup>1</sup> is liable to custodial sentence not exceeding 3 years.
+<sup>1</sup> shall be liable to custodial sentence not exceeding three years or to a monetary penalty.[^30-1]
 
 Any person who:
 
 - a. wilfully constructs a defective water retaining facility, in particular by ignoring the required safety measures;
-- b. continues to operate a water retaining facility despite being aware that it has significant safety defects
+- b. continues to operate a water retaining facility despite being aware that it has significant safety defects,
 
-<sup>2</sup> The custodial sentence must be combined with a monetary penalty.
+<sup>2</sup> …[^30-2]
 
 <sup>3</sup> An offender who acts through negligence is liable to a custodial sentence not exceeding 3 years or to a monetary penalty.
+
+[^30-1]: Amended by No I 20 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^30-2]: Repealed by No I 20 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 31
 
@@ -412,8 +415,8 @@ The Federal Act of 22 June 1877[^34-1] on the Hydraulic Engineering Inspectorate
 
 <sup>1</sup> This Act is subject to an optional referendum.
 
-<sup>2</sup> The Federal Council shall specify the commencement date.
+<sup>2</sup> The Federal Council shall determine the commencement date.
 
 Commencement Date:[^35-1] 1 January 2013
 
-[^35-1]: FCD of 17 Oct. 2012..
+[^35-1]: FCD of 17 Oct. 2012.

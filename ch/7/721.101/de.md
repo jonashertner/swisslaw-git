@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 1. Oktober 2010 über die Stauanlagen (Stauanlagengeset
 short: StAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/703"
 language: de
-version: 2013-01-01
+version: 2023-07-01
 adopted: 2010-10-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2012-703-20130101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2012-703-20230701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20130101/de"
 
 (Stauanlagengesetz, StAG)
 
-vom 1. Oktober 2010 (Stand am 1. Januar 2013)
+vom 1. Oktober 2010 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -359,14 +359,17 @@ Personen, welche die Verantwortung tragen für Bau oder Betrieb einer Stauanlage
 
 <sup>1</sup>
 
-Mit Freiheitsstrafe bis zu 3 Jahren wird bestraft, wer:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:[^30-1]
 
 - a. vorsätzlich eine Stauanlage fehlerhaft, insbesondere unter Ausserachtlassung vorgeschriebener Sicherheitsmassnahmen, erstellt;
 - b. eine Stauanlage, von der er weiss, dass sie erhebliche Sicherheitsmängel aufweist, weiter betreibt.
 
-<sup>2</sup> Die Freiheitsstrafe ist mit einer Geldstrafe zu verbinden.
+<sup>2</sup> …[^30-2]
 
 <sup>3</sup> Wer fahrlässig handelt, wird mit Freiheitsstrafe bis zu 3 Jahren oder mit Geldstrafe bestraft.
+
+[^30-1]: Fassung gemäss Ziff. I 20 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^30-2]: Aufgehoben durch Ziff. I 20 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 31
 
@@ -402,7 +405,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 Das Bundesgesetz vom 22. Juni 1877[^34-1] über die Wasserbaupolizei wird aufgehoben.
 
-[^34-1]: [BS **4** 931; [AS 1953 950](https://fedlex.data.admin.ch/eli/oc/1953/950_970_1004), [1973 1462](https://fedlex.data.admin.ch/eli/oc/1973/1462_1462_1462), [1993 234](https://fedlex.data.admin.ch/eli/oc/1993/234_234_234)Art. 18 Ziff. 2]
+[^34-1]: [BS **4** 931; [AS 1953 950](https://fedlex.data.admin.ch/eli/oc/1953/950_970_1004); [1973 1462](https://fedlex.data.admin.ch/eli/oc/1973/1462_1462_1462); [1993 234](https://fedlex.data.admin.ch/eli/oc/1993/234_234_234)Art. 18 Ziff. 2]
 
 #### Art. 35
 

@@ -4,11 +4,11 @@ title: "Lescha federala dal 1. d'october 2010 davart ils implants d'accumulaziun
 short: LIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/703"
 language: rm
-version: 2013-01-01
+version: 2023-07-01
 adopted: 2010-10-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20130101/rm/xml/fedlex-data-admin-ch-eli-cc-2012-703-20130101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20130101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/703/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-2012-703-20230701-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/703/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart ils implants d’accumulaziun, LIA)
 
-dal 1. d’october 2010 (Versiun dal 1. da schaner 2013)
+dal 1. d’october 2010 (versiun dal 1. da fanadur 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -30,7 +30,7 @@ concluda:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2006 6037](https://fedlex.data.admin.ch/eli/fga/2006/711)
 
-## 1. chapitel: Disposiziuns generalas
+## 1. chapitel Disposiziuns generalas
 
 #### Art. 1
 
@@ -79,9 +79,9 @@ Gronds implants d’accumulaziun èn tals:
 
 <sup>2</sup> El po divergiar da las disposiziuns en leschas federalas u en contracts internaziunals davart il dretg applitgabel e davart la dretgira cumpetenta.
 
-## 2. chapitel: Segirezza dals implants d’accumulaziun
+## 2. chapitel Segirezza dals implants d’accumulaziun
 
-### 1. secziun: Construcziun e manaschi
+### 1. secziun Construcziun e manaschi
 
 #### Art. 5
 
@@ -158,7 +158,7 @@ El sto:
 
 Avant ch’ina autoritad decida davart la construcziun u la midada d’in edifizi u d’in stabiliment, che pudess avair in dischavantatg per la segirezza d’in implant d’accumulaziun existent, taidla ella l’autoritad da surveglianza.
 
-### 2. secziun: Concept per cas d’urgenza
+### 2. secziun Concept per cas d’urgenza
 
 #### Art. 10
 
@@ -186,7 +186,7 @@ Avant ch’ina autoritad decida davart la construcziun u la midada d’in edifiz
 
 <sup>2</sup> En cas d’ina smanatscha militara po il post designà dal Cussegl federal prender mesiras spezialas.
 
-## 3. chapitel: Responsabladad
+## 3. chapitel Responsabladad
 
 #### Art. 13
 
@@ -279,7 +279,7 @@ Sch’igl è resultada ina situaziun d’urgenza pervia d’in donn grond, è il
 
 Ils custs da las mesiras che las autoritads cumpetentas prendan per cumbatter u per reducir in privel imminent, pon vegnir adossads al gestiunari ed al proprietari.
 
-## 4. chapitel: Surveglianza e protecziun giuridica
+## 4. chapitel Surveglianza e protecziun giuridica
 
 #### Art. 22
 
@@ -353,7 +353,7 @@ Las persunas ch’èn responsablas per la construcziun u per il manaschi d’in 
 
 <sup>3</sup> Las instanzas chantunalas communitgeschan immediatamain e gratuitamain lur disposiziuns contestablas a l’autoritad da surveglianza.
 
-## 5. chapitel: Disposiziuns penalas ed elavuraziun da datas
+## 5. chapitel Disposiziuns penalas ed elavuraziun da datas
 
 #### Art. 30
 
@@ -361,14 +361,17 @@ Las persunas ch’èn responsablas per la construcziun u per il manaschi d’in 
 
 <sup>1</sup>
 
-Cun in chasti da detenziun da fin 3 onns vegn chastià tgi che:
+Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che:[^30-1]
 
 - a. construescha intenziunadamain in implant d’accumulaziun cun sbagls, particularmain senza resguardar las mesiras da segirezza prescrittas;
 - b. maina vinavant in implant d’accumulaziun savend che tal ha mancanzas da segirezza considerablas.
 
-<sup>2</sup> Il chasti da detenziun sto vegnir collià cun in chasti pecuniar.
+<sup>2</sup> ...[^30-2]
 
-<sup>3</sup> Tgi che agescha per negligientscha, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>3</sup> Tgi che agescha per negligientscha, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
+
+[^30-1]: Versiun tenor la cifra I 20 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^30-2]: Abolì tras la cifra I 20 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 31
 
@@ -390,7 +393,7 @@ Cun in chasti da detenziun da fin 3 onns vegn chastià tgi che:
 
 <sup>2</sup> Els pon tegnair en salv questas datas en furma electronica. Els pon barattar las datas tranter els, sche quai è necessari per l’execuziun unitara da questa lescha.
 
-## 6. chapitel: Disposiziuns finalas
+## 6. chapitel Disposiziuns finalas
 
 #### Art. 33
 
@@ -404,7 +407,7 @@ Il Cussegl federal decretescha las disposiziuns executivas.
 
 La Lescha federala dals 22 da zercladur 1877[^34-1] davart la polizia da las auas vegn abolida.
 
-[^34-1]: [BS **4** 931; [AS 1953 950](https://fedlex.data.admin.ch/eli/oc/1953/950_970_1004), [1973 1462](https://fedlex.data.admin.ch/eli/oc/1973/1462_1462_1462), [1993 234](https://fedlex.data.admin.ch/eli/oc/1993/234_234_234)art. 18 cifra 2]
+[^34-1]: [BS **4** 931; [AS 1953 950](https://fedlex.data.admin.ch/eli/oc/1953/950_970_1004); [1973 1462](https://fedlex.data.admin.ch/eli/oc/1973/1462_1462_1462); [1993 234](https://fedlex.data.admin.ch/eli/oc/1993/234_234_234)art. 18 cifra 2]
 
 #### Art. 35
 
