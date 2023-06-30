@@ -3,11 +3,11 @@ sr: "0.916.111.311"
 title: Accordo internazionale sui cereali del 1995
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642"
 language: it
-version: 2021-07-01
+version: 2023-07-01
 adopted: 1994-12-05
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20210701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **1996** 2642; FF **1995** IV 1588
 
 Traduzione
 
-(Stato 1° luglio 2021)
+(Stato 1° luglio 2023)
 
 *Preambolo*
 
@@ -479,7 +479,7 @@ Se il Consiglio conclude che un membro è venuto meno agli obblighi imposti dall
 
 <sup>5.</sup> Il Consiglio notifica al depositario qualsiasi decisione adottata ai sensi del paragrafo 2 o paragrafo 3 del presente articolo.
 
-[^33-1]: Prorogata fino al 30 giu. 2007 dalla Dec. del Consiglio internazionale dei cereali dei 13/14 giu. 2005 ([RU 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)), fino al 30 giu. 2009 dalla Dec. del Consiglio internazionale dei cereali dell’11 giu. 2007 ([RU 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)), fino al 30 giu. 2011 dalla Dec. del Consiglio internazionale dei cereali dell’8 giu. 2009 ([RU 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)), fino al 30 giu. 2013 dalla Dec. del Consiglio internazionale dei cereali del 6 giu. 2011 ([RU 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)), fino al 30 giu. 2013 dalla Dec. del Consiglio internazionale dei cereali dei 10/11 giu. 2013 ([RU 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)), fino al 30 giu. 2017 dalla Dec. del Consiglio internazionale dei cereali dell’8 giu. 2015 ([RU 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)), fino al 30 giu. 2019 dalla Dec. del Consiglio internazionale dei cereali del 5 giu. 2017 ([RU 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)), fino al 30 giu. 2021 dalla Dec. del Consiglio internazionale dei cereali del 10 giu. 2019 ([RU 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)) e fino al 30 giu. 2023 dalla Dec. del Consiglio internazionale dei cereali del 7 giu. 2021 ([RU 2021 557](https://fedlex.data.admin.ch/eli/oc/2021/557)).
+[^33-1]: Prorogata fino al 30 giu. 2007 dalla Dec. del Consiglio internazionale dei cereali dei 13/14 giu. 2005 ([RU 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)), fino al 30 giu. 2009 dalla Dec. del Consiglio internazionale dei cereali dell’11 giu. 2007 ([RU 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)), fino al 30 giu. 2011 dalla Dec. del Consiglio internazionale dei cereali dell’8 giu. 2009 ([RU 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)), fino al 30 giu. 2013 dalla Dec. del Consiglio internazionale dei cereali del 6 giu. 2011 ([RU 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)), fino al 30 giu. 2013 dalla Dec. del Consiglio internazionale dei cereali dei 10/11 giu. 2013 ([RU 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)), fino al 30 giu. 2017 dalla Dec. del Consiglio internazionale dei cereali dell’8 giu. 2015 ([RU 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)), fino al 30 giu. 2019 dalla Dec. del Consiglio internazionale dei cereali del 5 giu. 2017 ([RU 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)), fino al 30 giu. 2021 dalla Dec. del Consiglio internazionale dei cereali del 10 giu. 2019 ([RU 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)), fino al 30 giu. 2023 dalla Dec. del Consiglio internazionale dei cereali del 7 giu. 2021 ([RU 2021 557](https://fedlex.data.admin.ch/eli/oc/2021/557)) e fino al 30 giu. 2025 dalla Dec. del Consiglio internazionale dei cereali del 14 giu. 2023 (RU **202****3** 540).
 
 #### Art. 34
 
@@ -592,7 +592,7 @@ Allegato
 <tr><td>Zimbabwe</td><td colspan="2">5</td></tr>
 </table>
 
-Campo d’applicazione della Convenzione il 1° agosto 1996**[^t-1]**
+Campo d’applicazione della Convenzione il 1° agosto 1996[^t-1]
 
 Una conferenza dei Governi, svoltasi a Londra il 6 luglio 1995, ha deciso di mettere in vigore la Convenzione a partire dal 1° luglio 1995 tra i governi e l’organizzazione integovernativa menzionati qui appresso, che hanno depositato uno strumento di ratifica, d’accettazione, d’approvazione, d’adesione o una notifica d’applicazione a titolo provvisorio, conformemente al paragrafo 2 dell’articolo 28 della Convenzione:
 
@@ -634,6 +634,6 @@ Ungheria
 
 [^t-1]: Il campo d’applicazione dettagliato sarà pubblicato all’entrata in vigore definitiva della Conv.
 
-Convenzione sull’aiuto alimentare del 1999**[^t-2]**
+Convenzione sull’aiuto alimentare del 1999[^t-2]
 
 [^t-2]: [RU 2002 4109](https://fedlex.data.admin.ch/eli/oc/2002/662). Durante la centoseiesima sessione del Comitato dell’aiuto alimentare, tenutasi a Londra l’11 giu. 2012, gli Stati Parte hanno constatato che la Conv. sull’aiuto alimentare scade il 30 giu. 2012 e hanno convenuto di non prorogarla (vedi [RU 2012 7485](https://fedlex.data.admin.ch/eli/oc/2012/898)). Pertanto essa ha cessato di essere in vigore il 30 giu. 2012. La Conv. sull’assistenza alimentare del 25 apr. 2012, entra in vigore il 1° gen. 2013 ([RS 0.916.111.312](https://fedlex.data.admin.ch/eli/cc/2012/899)).

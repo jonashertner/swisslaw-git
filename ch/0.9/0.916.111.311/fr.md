@@ -3,11 +3,11 @@ sr: "0.916.111.311"
 title: Accord international sur les céréales de 1995
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642"
 language: fr
-version: 2021-07-01
+version: 2023-07-01
 adopted: 1994-12-05
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ RO **1996** 2642; FF **1995** IV 1674
 
 Texte original
 
-(Etat le 1<sup>er</sup> juillet 2021)
+(État le 1<sup>er</sup> juillet 2023)
 
 *Préambule*
 
@@ -40,15 +40,11 @@ et que chacune de ces deux Conventions, ou l’une des deux, suivant qu’il con
 [^ingress-3]: [RO **1987** 1362, [1994 356](https://fedlex.data.admin.ch/eli/oc/1994/356_356_356)]
 [^ingress-4]: [[RO 1986 2049](https://fedlex.data.admin.ch/eli/oc/1986/2049_2049_2049)]
 
-## **¶**Convention sur le commerce des céréales de 1995
-
-[^lvlu1-1]
-
-[^lvlu1-1]: RO **1996** 2643
+## Convention sur le commerce des céréales de 1995
 
 Conclue à Londres le 7 décembre 1994
 
-Approuvée par l’Assemblée fédérale le 6 mars 1996[^lvlu1-2]
+Approuvée par l’Assemblée fédérale le 6 mars 1996[^lvlu1-1]
 
 Instrument de ratification déposé par la Suisse le 16 avril 1996
 
@@ -56,7 +52,7 @@ Entrée en vigueur à titre provisoire pour la Suisse le 1<sup>er</sup> juillet 
 
 ### Première partie Généralités
 
-[^lvlu1-2]: [RO 1996 2641](https://fedlex.data.admin.ch/eli/oc/1996/2641_2641_2641)
+[^lvlu1-1]: [RO 1996 2641](https://fedlex.data.admin.ch/eli/oc/1996/2641_2641_2641)
 
 #### Art. 1
 
@@ -472,7 +468,7 @@ Si le Conseil conclut qu’un membre a enfreint les obligations que lui impose l
 
 \5) Le Conseil notifie au dépositaire toute décision prise au titre du par. 2 ou du par. 3 du présent article.
 
-[^33-1]: Prorogée par les D du Conseil international des céréales des 13/14 juin 2005 jusqu’au 30 juin 2007 ([RO 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)), du 11 juin 2007 jusqu’au 30 juin 2009 ([RO 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)), du 8 juin 2009 jusqu’au 30 juin 2011 ([RO 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)), du 6 juin 2011 jusqu’au 30 juin 2013 ([RO 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)), des 10/11 juin 2013 jusqu’au 30 juin 2015 ([RO 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)), du 8 juin 2015 jusqu’au 30 juin 2017 ([RO 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)), du 5 juin 2017 jusqu’au 30 juin 2019 ([RO 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)), du 10 juin 2019 jusqu’au 30 juin 2021 ([RO 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)) et du 7 juin 2021 jusqu’au 30 juin 2023 ([RO 2021 557](https://fedlex.data.admin.ch/eli/oc/2021/557)).
+[^33-1]: Prorogée par les D du Conseil international des céréales des 13/14 juin 2005 jusqu’au 30 juin 2007 ([RO 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)), du 11 juin 2007 jusqu’au 30 juin 2009 ([RO 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)), du 8 juin 2009 jusqu’au 30 juin 2011 ([RO 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)), du 6 juin 2011 jusqu’au 30 juin 2013 ([RO 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)), des 10/11 juin 2013 jusqu’au 30 juin 2015 ([RO 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)), du 8 juin 2015 jusqu’au 30 juin 2017 ([RO 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)), du 5 juin 2017 jusqu’au 30 juin 2019 ([RO 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)), du 10 juin 2019 jusqu’au 30 juin 2021 ([RO 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)), du 7 juin 2021 jusqu’au 30 juin 2023 ([RO 2021 557](https://fedlex.data.admin.ch/eli/oc/2021/557)) et du 14 juin 2023 jusqu’au 30 juin 2025 ([RO 2023 540](https://fedlex.data.admin.ch/eli/oc/2023/540)).
 
 #### Art. 34
 
@@ -585,7 +581,7 @@ Annexe
 <tr><td>Zimbabwe</td><td>5</td></tr>
 </table>
 
-Champ d’application de la convention le 1<sup>er</sup> août 1996**[^t-1]**
+Champ d’application de la convention le 1<sup>er</sup> août 1996[^t-1]
 
 Une conférence des Gouvernements, tenue à Londres le 6 juillet 1995, a décidé de mettre en vigueur la convention, à partir du 1<sup>er</sup> juillet 1995, entre les Gouvernements et l’Organisation intergouvernementale, mentionnés ci-après, qui ont déposé un instrument de ratification, d’acceptation, d’approbation, d’adhésion ou une notification d’application à titre provisoire, conformément au par. 2 de l’art. 28 de la convention:
 
@@ -627,6 +623,6 @@ Turquie
 
 [^t-1]: Le champ d’application détaillé sera publié au moment de l’entrée en vigueur à titre définitif de l’accord.
 
-Convention relative à l’aide alimentaire de 1999**[^t-2]**
+Convention relative à l’aide alimentaire de 1999[^t-2]
 
 [^t-2]: [[RO 2002 4109](https://fedlex.data.admin.ch/eli/oc/2002/662)]. Lors de la cent sixième session du Comité de l’aide alimentaire, tenue à Londres, le 11 juin 2012, le Comité et les États parties ont constaté que la Conv. relative à l’aide alimentaire de 1999 expire le 30 juin 2012 et ont convenu d’y mettre fin. Par conséquent la Conv. est abrogée à partir du 30 juin 2012 (voir [RO 2012 7485](https://fedlex.data.admin.ch/eli/oc/2012/898)). La Conv. du 25 avril 2012 relative à l’assistance alimentaire entre en vigueur le 1<sup>er</sup> janv. 2013 ([RS 0.916.111.312](https://fedlex.data.admin.ch/eli/cc/2012/899)).
