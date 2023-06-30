@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlasse
 short: BVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/de"
 
 (BVG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2023)
+vom 25. Juni 1982 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf Artikel 34<sup>quater</sup> der Bundesverfassung und auf Artikel 11 der Übergangsbestimmungen der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 19. Dezember 1975[^ingress-3],
+gestützt auf Artikel 112 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 19. Dezember 1975[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)]. Den genannten Bestimmungen entsprechen heute die Art. 111–113 sowie 196 Ziff. 10 und 11 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 11 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)
 
 ## Erster Teil: Zweck und Geltungsbereich
@@ -985,7 +985,7 @@ Sind die Selbstständigerwerbenden obligatorisch für Alter, Tod und Invaliditä
 
 **Ausscheiden aus der obligatorischen Versicherung nach Vollendung des 58. Altersjahres**[^47a-1]
 
-<sup>1</sup> Eine versicherte Person, die nach Vollendung des 58. Altersjahres aus der obligatorischen Versicherung ausscheidet, weil das Arbeitsverhältnis vom Arbeitgeber aufgelöst wurde, kann die Versicherung nach Artikel 47 weiterführen oder die Weiterführung nach den Absätzen 2-7 im bisherigen Umfang bei ihrer bisherigen Vorsorgeeinrichtung verlangen.
+<sup>1</sup> Eine versicherte Person, die nach Vollendung des 58. Altersjahres aus der obligatorischen Versicherung ausscheidet, weil das Arbeitsverhältnis vom Arbeitgeber aufgelöst wurde, kann die Versicherung nach Artikel 47 weiterführen oder die Weiterführung nach den Absätzen 2–7 im bisherigen Umfang bei ihrer bisherigen Vorsorgeeinrichtung verlangen.
 
 <sup>2</sup> Die versicherte Person hat die Möglichkeit, während dieser Weiterversicherung die Altersvorsorge durch Beiträge weiter aufzubauen. Die Austrittsleistung bleibt in der Vorsorgeeinrichtung, auch wenn die Altersvorsorge nicht weiter aufgebaut wird. Tritt die versicherte Person in eine neue Vorsorgeeinrichtung ein, so hat die bisherige Vorsorgeeinrichtung die Austrittsleistung in dem Umfang an die neue zu überweisen, als sie für den Einkauf in die vollen reglementarischen Leistungen verwendet werden kann.
 
@@ -2224,26 +2224,18 @@ Jeder Kanton bezeichnet ein Gericht, das als letzte kantonale Instanz über Stre
 
 ### Zweiter Titel: Strafbestimmungen
 
-[^part5-tit2-1]
-
-[^part5-tit2-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
-
 #### Art. 75
 
-**Übertretungen**
+**Übertretungen**[^75-1]
 
-<sup>1.</sup> Wer die Auskunftspflicht verletzt, indem er wissentlich unwahre Auskunft erteilt oder die Auskunft verweigert,
+Sofern nicht eine mit schwererer Strafe bedrohte strafbare Handlung des Strafgesetzbuchs[^75-2] vorliegt, wird mit Busse bestraft, wer:
 
-wer sich einer von der zuständigen Behörde angeordneten Kontrolle widersetzt oder diese auf eine andere Weise verunmöglicht,
+- a. die Auskunftspflicht verletzt, indem er wissentlich unwahre Auskunft erteilt oder die Auskunft verweigert;
+- b. sich einer von der zuständigen Behörde angeordneten Kontrolle widersetzt oder diese auf eine andere Weise verunmöglicht;
+- c. die erforderlichen Formulare nicht oder nicht wahrheitsgetreu ausfüllt.
 
-wer die erforderlichen Formulare nicht oder nicht wahrheitsgetreu ausfüllt,
-
-wird mit Haft oder mit Busse bis zu 10 000 Franken bestraft, sofern nicht ein mit schwererer Strafe bedrohtes Vergehen des Strafgesetzbuches[^75-1] vorliegt.[^75-2]
-
-<sup>2.</sup> Bei geringfügigen Fällen kann von der Durchführung eines Verfahrens abgesehen werden.
-
-[^75-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^75-1]: Fassung gemäss Ziff. I 11 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^75-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 76
 
@@ -2251,20 +2243,20 @@ wird mit Haft oder mit Busse bis zu 10 000 Franken bestraft, sofern nicht ein mi
 
 <sup>1</sup>
 
-Sofern nicht ein mit schwererer Strafe bedrohtes Vergehen oder Verbrechen des Strafgesetzbuches[^76-2] vorliegt, wird mit Geldstrafe bis zu 180 Tagessätzen bestraft, wer:
+Sofern nicht eine mit schwererer Strafe bedrohte strafbare Handlung des Strafgesetzbuchs[^76-2] vorliegt, wird mit Geldstrafe bestraft, wer:
 
 - a. durch unwahre oder unvollständige Angaben oder in anderer Weise für sich oder einen anderen eine Leistung der Vorsorgeeinrichtung oder des Sicherheitsfonds erwirkt, die ihm nicht zukommt;
 - b. sich durch unwahre oder unvollständige Angaben oder in anderer Weise der Beitragspflicht gegenüber einer Vorsorgeeinrichtung oder dem Sicherheitsfonds entzieht;
 - c. als Arbeitgeber einem Arbeitnehmer Beiträge vom Lohn abzieht und sie dem vorgesehenen Zweck entfremdet;
 - d. die Schweigepflicht verletzt oder bei der Durchführung dieses Gesetzes seine Stellung als Organ oder Funktionär zum Nachteil Dritter oder zum eigenen Vorteil missbraucht;
-- e. als Inhaber oder Mitglied einer Revisionsstelle oder als anerkannter Experte für berufliche Vorsorge die gesetzlichen Pflichten in grober Weise verletzt;
-- f. unzulässige Eigengeschäfte tätigt, gegen die Offenlegung verstösst, indem er unwahre oder unvollständige Angaben macht, oder sonst in grober Weise gegen die Interessen der Vorsorgeeinrichtung handelt;
-- g. Vermögensvorteile oder Retrozessionen im Zusammenhang mit der Vermögensverwaltung nicht offenlegt oder für sich einbehält, die nicht ausdrücklich im Vermögensverwaltungsauftrag als Entschädigung beziffert sind; oder
-- h. als Mitglied des obersten Organs oder als mit der Geschäftsführung betraute Person einer den Artikeln 71a und 71b unterstellten Vorsorgeeinrichtung die Stimmpflicht oder die Offenlegungspflicht nach diesen Artikeln verletzt.
+- e. als Inhaber oder Mitglied einer Revisionsstelle oder als anerkannter Experte für berufliche Vorsorge die Pflichten nach den Artikeln 52*c* und 52*e* in grober Weise verletzt;
+- f. unzulässige Eigengeschäfte tätigt, gegen die Offenlegungspflicht verstösst, indem er unwahre oder unvollständige Angaben macht, oder sonst in grober Weise gegen die Interessen der Vorsorgeeinrichtung handelt;
+- g. Vermögensvorteile oder Retrozessionen im Zusammenhang mit der Vermögensverwaltung nicht offenlegt oder für sich einbehält, die nicht ausdrücklich im Vermögensverwaltungsvertrag als Entschädigung beziffert sind; oder
+- h. als Mitglied des obersten Organs oder als mit der Geschäftsführung betraute Person einer den Artikeln 71*a* und 71*b* unterstellten Vorsorgeeinrichtung die Stimmpflicht oder die Offenlegungspflicht nach diesen Artikeln verletzt.
 
 <sup>2</sup> Nimmt der Täter die Möglichkeit der Verwirklichung einer Tat nach Absatz 1 Buchstabe h lediglich in Kauf, so macht er sich nach dieser Bestimmung nicht strafbar.
 
-[^76-1]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^76-1]: Fassung gemäss Ziff. II des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^76-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 77

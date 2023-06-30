@@ -4,11 +4,11 @@ title: "Lescha federala dals 25 da zercladur 1982 davart il provediment professi
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: rm
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230701-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,16 +19,16 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPP)
 
-dals 25 da zercladur 1982 (versiun dals 1. da schaner 2023)
+dals 25 da zercladur 1982 (versiun dals 1. da fanadur 2023) [0]
 
 L’Assamblea federala da la Confederaziun svizra,
 
-sa basond sin l’artitgel 34<sup>quater</sup> da la Constituziun federala[^ingress-1] e sin l’artitgel 11 da las disposiziuns transitoricas da la Constituziun federala,[^ingress-2] suenter avair gì invista d’ina missiva dal Cussegl federal dals 19 da december 1975[^ingress-3],
+sa basond sin l’artitgel 112 da la Constituziun federala[^ingress-1],[^ingress-2] suenter avair gì invista d’ina missiva dal Cussegl federal dals 19 da december 1975[^ingress-3],
 
 concluda:
 
-[^ingress-1]: [BS **1** 3; [AS 1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)]. A las disposiziuns numnadas correspundan oz ils art. 111–113 e 196 cifras 10 ed 11 da la Cst. dals 18 d’avr. 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Versiun tenor la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Versiun tenor la cifra I 11 da la LF dals 17 da dec. 2021 davart l’adattaziun dal dretg penal accessoric al nov dretg da sancziuns, en vigur dapi il 1. da fan. 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)
 
 ## 1. part Intent e champ d’applicaziun
@@ -189,7 +189,7 @@ Cun resalva da l’artitgel 8 alinea 3 finescha l’obligaziun da s’assicurar,
 <sup>7</sup> L’instituziun auxiliara e la cassa da cumpensaziun da la AVS mettan a quint al patrun negligent ils custs administrativs ch’el ha chaschunà. Ils custs administrativs nunincassabels vegnan surpigliads dal fond da garanzia (art. 56 al. 1 lit. d e h).[^11-8]
 
 [^11-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^11-2]: Versiun da la frasa tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^11-2]: Versiun da la frasa tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l’instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 [^11-3]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^11-4]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^11-5]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -1090,7 +1090,7 @@ Sche l’instituziun da provediment conceda dapli che las prestaziuns minimalas,
 [^49-12]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-13]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-14]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-15]: Versiun tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^49-15]: Versiun tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l’instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 [^49-16]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-17]: Abolì tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-18]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
@@ -1400,7 +1400,7 @@ En il rom da las disposiziuns legalas e dal reglament fixescha l’organ paritet
 
 [^53e-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^53e-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^53e-3]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^53e-3]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l’instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 
 #### Art. 53f
 
@@ -1423,7 +1423,7 @@ Sco midadas substanzialas d’in contract d’affiliaziun u d’in contract d’
 
 <sup>5</sup> Las midadas tenor l’alinea 4 na valan betg sco substanzialas, sch’ellas resultan d’ina midada da las basas giuridicas.
 
-[^53f-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^53f-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l’instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 
 ### 2. titel Fundaziuns d’investiziun
 
@@ -1565,7 +1565,7 @@ Il fond da garanzia:
 [^56-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. da schan. 1997 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580). Guardar er disp. trans. da questa midada a la fin dal text.
 [^56-2]: Versiun tenor la cifra II 1 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
 [^56-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^56-4]: Versiun tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^56-4]: Versiun tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l’instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 [^56-5]: Integrà tras la cifra II 1 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
 [^56-6]: Integrà tras la cifra I 7 da la LF dals 8 d’oct. 1999 davart la Cunvegna tranter la Confederaziun svizra e la Communitad europeica cun ses stadis commembers davart la libra circulaziun da persunas ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Versiun tenor la cifra I 6 da la LF dals 14 da dec. 2001 concernent las disposiziuns davart la libra circulaziun da persunas en la Cunvegna per midar la Convenziun davart la fundaziun da la AECL, en vigur dapi il 1. da zer. 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^56-7]: Oz: Uniun europeica.
@@ -1666,7 +1666,7 @@ Ella è obligada:
 [^60-5]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^60-6]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^60-7]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^60-8]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^60-8]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l’instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 
 #### Art. 60a
 
@@ -2226,26 +2226,18 @@ Mintga chantun designescha ina dretgira che decida sco ultima instanza chantunal
 
 ### 2. titel Disposiziuns penalas
 
-[^part5-tit2-1]
-
-[^part5-tit2-1]: Dapi il 1. da schan. 2007 ston ils chastis smanatschads ed ils termins da surannaziun vegnir interpretads resp. quintads applitgond l’art. 333 al. 2–6 dal Cudesch penal ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) en la versiun da la LF dals 13 da dec. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-
 #### Art. 75
 
-**Surpassaments**
+**Surpassaments**[^75-1]
 
-<sup>1.</sup> Tgi che violescha l’obligaziun da dar infurmaziuns, dond sapientivamain infurmaziuns faussas ubain refusond da dar infurmaziuns,
+Uschenavant ch’i n’è betg avant maun in malfatg ch’è smanatschà cun in chasti pli sever tenor il Cudesch penal[^75-2], vegn chastià cun ina multa, tgi che fa il suandant:
 
-tgi che s’oppona ad ina controlla ordinada da l’autoritad cumpetenta u impedescha ina tala en autra moda,
+- a. violescha l’obligaziun da dar infurmaziuns, dond sapientivamain infurmaziuns faussas ubain refusond da dar infurmaziuns;
+- b. s’oppona ad ina controlla ordinada da l’autoritad cumpetenta u impedescha ina tala en autra moda;
+- c. n’emplenescha betg ils formulars necessaris u als emplenescha en ina moda che na correspunda betg a la vardad.
 
-tgi che n’emplenescha betg ils formulars necessaris u als emplenescha en ina moda che na correspunda betg a la vardad,
-
-vegn chastià cun arrest u cun multa fin a 10 000 francs, nun ch’i saja avant maun in delict tenor il Cudesch penal[^75-1] che vegn chastià cun in chasti pli grev.[^75-2]
-
-<sup>2.</sup> Tar cas da pauca impurtanza poi vegnir desistì da far ina procedura.
-
-[^75-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^75-1]: Versiun tenor la cifra I 11 da la LF dals 17 da dec. 2021 davart l’adattaziun dal dretg penal accessoric al nov dretg da sancziuns, en vigur dapi il 1. da fan. 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^75-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 76
 
@@ -2253,20 +2245,20 @@ vegn chastià cun arrest u cun multa fin a 10 000 francs, nun ch’i saja avant 
 
 <sup>1</sup>
 
-Uschenavant ch’i n’è betg avant maun in delict u in crim ch’è smanatschà cun in chasti pli sever tenor il Cudesch penal[^76-2], vegn chastià cun in chasti pecuniar da fin 180 taxas per di, tgi che:
+Uschenavant ch’i n’è betg avant maun in malfatg ch’è smanatschà cun in chasti pli sever tenor il Cudesch penal[^76-2], vegn chastià cun in chasti pecuniar, tgi che fa il suandant:
 
 - a. obtegna – tras indicaziuns faussas u incumplettas u en autra moda – per sasez u per in auter ina prestaziun da l’instituziun da provediment u dal fond da garanzia, da la quala el n’ha nagin dretg;
 - b. sa retira – tras indicaziuns faussas u incumplettas u en autra moda – da l’obligaziun da pajar contribuziuns ad ina instituziun da provediment u al fond da garanzia;
 - c. deducescha sco patrun contribuziuns dal salari d’in lavurant e na dovra betg las contribuziuns per l’intent previs;
 - d. violescha l’obligaziun da discreziun u surdovra, exequind questa lescha, sia posiziun sco organ u sco funcziunari per dischavantatg da terzas persunas u per ses agen avantatg;
-- e. violescha sco possessur u commember d’in post da revisiun u sco expert renconuschì per il provediment professiunal gravantamain las obligaziuns legalas;
-- f. fa sin agen quint affars inadmissibels, cuntrafa a la transparenza cun far indicaziuns nunvairas u incumplettas u cun agir en autra moda gravantamain cunter ils interess da l’instituziun da provediment;
-- g. na declera betg u tegna per sai avantatgs da facultad u retrocessiuns che stattan en connex cun l’administraziun da la facultad, premess che quels na sajan betg quantifitgads explicitamain sco indemnisaziun en l’incumbensa d’administrar la facultad; u
-- h. violescha – sco commember da l’organ suprem u sco persuna ch’è incumbensada cun la gestiun d’ina instituziun da provediment suttamessa als artitgels 71a e 71b – l’obligaziun da votar u l’obligaziun da transparenza tenor quests artitgels.
+- e. violescha – sco possessur u commember d’in post da revisiun u sco expert renconuschì per il provediment professiunal – gravantamain las obligaziuns tenor ils artitgels 52*c* e 52*e*;
+- f. fa sin agen quint affars inadmissibels, cuntrafa a l’obligaziun da transparenza cun far indicaziuns nunvairas u incumplettas u cun agir en autra moda gravantamain cunter ils interess da l’instituziun da provediment;
+- g. na declera betg u tegna per sai avantatgs da facultad u retrocessiuns che stattan en connex cun l’administraziun da la facultad, premess che quels na sajan betg quantifitgads explicitamain sco indemnisaziun en il contract d’administraziun da la facultad; u
+- h. violescha – sco commember da l’organ suprem u sco persuna ch’è incumbensada cun la gestiun d’ina instituziun da provediment suttamessa als artitgels 71*a* e 71*b* – l’obligaziun da votar u l’obligaziun da transparenza tenor quests artitgels.
 
 <sup>2</sup> Sch’il delinquent prenda mo en cumpra la pussaivladad da realisar in malfatg tenor l’alinea 1 litera h, na po el betg vegnir chastià tenor questa disposiziun.
 
-[^76-1]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^76-1]: Versiun tenor la cifra II da la LF dals 17 da dec. 2021 davart l’adattaziun dal dretg penal accessoric al nov dretg da sancziuns, en vigur dapi il 1. da fan. 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^76-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 77
@@ -2295,7 +2287,7 @@ La persecuziun ed il giudicament èn chaussa dals chantuns.
 
 **Cuntravenziuns administrativas**
 
-<sup>1</sup> Tgi che n’ademplescha betg a temp util ad ina disposiziun da l’autoritad da surveglianza cumpetenta, malgrà ch’el è vegnì admonì e rendì attent a la smanatscha da chasti tenor quest artitgel, vegn chastià da l’autoritad da surveglianza cun ina multa disciplinara fin a 4000 francs.[^79-1] En cas da violaziuns da l’urden da pauca impurtanza po vegnir pronunzià in avertiment.
+<sup>1</sup> Tgi che n’ademplescha betg a temp util ad ina disposiziun da l’autoritad da surveglianza cumpetenta, malgrà ch’el è vegnì admonì e rendì attent a la smanatscha da chasti tenor quest artitgel, vegn chastià da l’autoritad da surveglianza cun ina multa disciplinara da fin 4000 francs.[^79-1] En cas da violaziuns da l’urden da pauca impurtanza po vegnir pronunzià in avertiment.
 
 <sup>2</sup> Cunter las disposiziuns da multa poi vegnir fatg recurs tar il Tribunal administrativ federal.[^79-2]
 
@@ -2879,7 +2871,7 @@ L’organ suprem da l’instituziun da provediment determinescha entaifer 2 onns
 
 ### b. Furma giuridica da las instituziuns da provediment
 
-Las instituziuns da provediment registradas che han – il mument che questa midada entra en vigur – la furma giuridica d’ina associaziun, dastgan mantegnair questa furma giuridica fin ch’ellas vegnan liquidadas u transfurmadas en ina fundaziun. Sin ellas vegnan applitgadas subsidiarmain las disposiziuns davart l’associaziun tenor ils artitgels 828–926 DO[^u5-lvlb-1].
+Las instituziuns da provediment registradas che han – il mument che questa midada entra en vigur – la furma giuridica d’ina associaziun, dastgan mantegnair questa furma giuridica, fin ch’ellas vegnan liquidadas u transfurmadas en ina fundaziun. Sin ellas vegnan applitgadas subsidiarmain las disposiziuns davart l’associaziun tenor ils artitgels 828–926 DO[^u5-lvlb-1].
 
 [^u5-lvlb-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 

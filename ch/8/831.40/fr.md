@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieill
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/fr"
 
 (LPP)
 
-du 25 juin 1982 (État le 1<sup>er</sup> janvier 2023)
+du 25 juin 1982 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu l’art. 34<sup>quater</sup> de la constitution et l’art. 11 des dispositions transitoires de la constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 19 décembre 1975[^ingress-3],
+vu l’art. 112 de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 19 décembre 1975[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)]. Aux disp. mentionnées correspondent actuellement les art. 111 à 113 et 196, ch. 10 et 11, de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 11 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1976 I 117](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)
 
 ## Partie 1 But et champ d’application
@@ -741,7 +741,7 @@ Le Conseil fédéral règle le mode de calcul des prestations dans les cas spéc
 - a.[^34-1] lorsque l’année d’assurance déterminante selon l’art. 24, al. 4, n’est pas complète ou que l’assuré n’a pas joui, durant cette période, de sa pleine capacité de gain;
 - b. lorsqu’en vertu de la présente loi, l’assuré reçoit déjà une rente d’invalidité lors de la survenance du nouveau cas d’assurance, ou a déjà touché antérieurement des prestations d’invalidité.
 
-<sup>2</sup> ...[^34-2]
+<sup>2</sup> …[^34-2]
 
 [^34-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^34-2]: Abrogé par l’annexe ch. 10 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, **1995** V 897, **1999** 4168).
@@ -830,7 +830,7 @@ L’institution de prévoyance peut prévoir dans son règlement que les ayants 
 - a. peuvent choisir une prestation en capital en lieu et place d’une rente de vieillesse, de survivants ou d’invalidité;
 - b. respectent un délai déterminé pour faire connaître leur volonté de recevoir une prestation en capital.
 
-<sup>5</sup> ...[^37-3]
+<sup>5</sup> …[^37-3]
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^37-2]: L’art. 13*a* figurait dans la 11<sup>e</sup> révision de l’AVS du 3 oct. 2003, laquelle a été refusée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html)(voir [FF 2004 3727](https://fedlex.data.admin.ch/eli/fga/2004/664)).
@@ -1057,7 +1057,7 @@ Lorsqu’une institution de prévoyance étend la prévoyance au-delà des prest
 - 12\.[^49-15] la résiliation de contrats (art. 53*e* et 53*f*);
 - 13\. le fonds de garantie (art. 56, al. 1, let. c, al. 2 à 5, art. 56*a*, 57 et 59);
 - 14\.[^49-16] la surveillance et la haute surveillance (art. 61 à 62*a* et 64 à 64*c*);
-- 15\.[^49-17] ...
+- 15\.[^49-17] …
 - 16\.[^49-18] la sécurité financière (art. 65, 65*c*, 65*d*, al. 1, 2 et 3, let. a, 2<sup>e</sup> phrase, et b, 65*e*, 66, al. 4, 67 et 72*a* à 72*g*);
 - 17\. la transparence (art. 65*a*);
 - 18\. les réserves (art. 65*b*);
@@ -1133,9 +1133,9 @@ L’institution de prévoyance doit garantir le bon fonctionnement de la gestion
 
 <sup>4</sup> Si la procédure à suivre en cas d’égalité des voix n’est pas encore réglée, le différend sera tranché par un arbitre neutre, désigné d’un commun accord. À défaut d’entente sur la personne de l’arbitre, celui-ci sera désigné par l’autorité de surveillance.
 
-<sup>5</sup> ...[^51-3]
+<sup>5</sup> …[^51-3]
 
-<sup>6</sup> et <sup>7</sup> ...[^51-4]
+<sup>6</sup> et <sup>7</sup> …[^51-4]
 
 [^51-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^51-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -2004,7 +2004,7 @@ Le Conseil fédéral règle les modalités, en particulier:
 
 <sup>1</sup> Les institutions d’assurance qui veulent se charger de la couverture de risques assumés par des institutions de prévoyance enregistrées conformément à la présente loi doivent assortir leurs offres de tarifs qui ne couvrent que les risques de décès et d’invalidité légalement prescrits. Le Conseil fédéral édicte des prescriptions de détail.
 
-<sup>2</sup> ...[^68-1]
+<sup>2</sup> …[^68-1]
 
 <sup>3</sup> Les institutions d’assurance donnent aux institutions de prévoyance les indications nécessaires pour que celles-ci soient en mesure d’appliquer la transparence exigée par l’art. 65*a*.[^68-2]
 
@@ -2199,7 +2199,7 @@ Chaque canton désigne un tribunal qui connaît, en dernière instance cantonale
 
 <sup>3</sup> Le for est au siège ou domicile suisse du défendeur ou au lieu de l’exploitation dans laquelle l’assuré a été engagé.
 
-<sup>4</sup> ...[^73-4]
+<sup>4</sup> …[^73-4]
 
 [^73-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^73-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
@@ -2224,26 +2224,18 @@ Chaque canton désigne un tribunal qui connaît, en dernière instance cantonale
 
 ### Titre 2 Dispositions pénales
 
-[^part5-tit2-1]
-
-[^part5-tit2-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-
 #### Art. 75
 
-**Contraventions**
+**Contraventions**[^75-1]
 
-<sup>1.</sup> Celui qui, en violation de l’obligation de renseigner, donne sciemment des renseignements inexacts ou refuse d’en donner,
+Est puni d’une amende, à moins qu’il ne s’agisse d’une infraction frappée d’une peine plus lourde par le code pénal[^75-2], quiconque:
 
-celui qui s’oppose à un contrôle ordonné par l’autorité compétente ou le rend impossible de toute autre manière,
+- a. en violation de l’obligation de renseigner, donne sciemment des renseignements inexacts ou refuse d’en donner;
+- b. s’oppose à un contrôle ordonné par l’autorité compétente ou le rend impossible de toute autre manière;
+- c. ne remplit pas les formules nécessaires ou ne les remplit pas de façon véridique.
 
-celui qui ne remplit pas les formules nécessaires ou ne les remplit pas de façon véridique,
-
-sera puni des arrêts ou d’une amende de 10 000 francs au plus, à moins qu’il ne s’agisse d’un délit frappé d’une peine plus lourde par le code pénal[^75-1].[^75-2]
-
-<sup>2.</sup> Dans les cas de peu de gravité, l’autorité peut renoncer à la poursuite pénale.
-
-[^75-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^75-1]: Nouvelle teneur selon le ch. I 11 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^75-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 76
 
@@ -2251,20 +2243,20 @@ sera puni des arrêts ou d’une amende de 10 000 francs au plus, à moins qu’
 
 <sup>1</sup>
 
-À moins qu’il ne s’agisse d’un délit ou d’un crime frappé d’une peine plus lourde par le code pénal[^76-2], est puni d’une peine pécuniaire de 180 jours-amende au plus, celui qui:
+Est puni d’une peine pécuniaire, à moins qu’il ne s’agisse d’une infraction frappée d’une peine plus lourde par le code pénal[^76-2], quiconque:
 
-- a. par des indications fausses ou incomplètes, ou de toute autre manière, a obtenu de l’institution de prévoyance ou du fonds de garantie, pour lui-même ou pour autrui, une prestation qui ne lui revient pas;
-- b. par des indications fausses ou incomplètes, ou de toute autre manière, a éludé l’obligation de payer des cotisations ou des contributions à une institution de prévoyance ou au fonds de garantie;
-- c. en sa qualité d’employeur, a déduit des cotisations du salaire d’un travailleur sans les affecter au but auquel elles étaient destinées;
-- d. n’a pas observé l’obligation de garder le secret ou a, dans l’application de la présente loi, abusé de sa fonction en tant qu’organe, fonctionnaire ou employé, au détriment de tiers ou à son propre profit;
-- e. en tant que titulaire ou membre d’un organe de révision, ou en tant qu’expert agréé en matière de prévoyance professionnelle, a gravement enfreint les obligations légales qui lui incombent;
-- f. a mené des affaires non autorisées pour son propre compte, a contrevenu à l’obligation de déclarer en fournissant des indications inexactes ou incomplètes, ou a desservi grossièrement de toute autre manière les intérêts de l’institution de prévoyance;
-- g. n’a pas communiqué les avantages financiers ou les rétrocessions liés à l’administration de la fortune ou les a gardés pour lui, à moins qu’ils ne soient indiqués expressément à titre d’indemnité et chiffrés dans le contrat d’administration de la fortune, ou
-- h. en tant que membre de l’organe suprême ou chargé de la gestion d’une institution de prévoyance soumise aux art. 71*a* et 71*b*, a violé l’obligation de voter ou l’obligation de communiquer prévues par ces articles.
+- a. par des indications fausses ou incomplètes, ou de toute autre manière, obtient de l’institution de prévoyance ou du fonds de garantie, pour lui-même ou pour autrui, une prestation qui ne lui revient pas;
+- b. par des indications fausses ou incomplètes, ou de toute autre manière, élude l’obligation de payer des cotisations ou des contributions à une institution de prévoyance ou au fonds de garantie;
+- c. en sa qualité d’employeur, déduit des cotisations du salaire d’un travailleur sans les affecter au but auquel elles sont destinées;
+- d. enfreint l’obligation de garder le secret ou, dans l’application de la présente loi, abuse de sa fonction en tant qu’organe, fonctionnaire ou employé, au détriment de tiers ou à son propre profit;
+- e. en tant que titulaire ou membre d’un organe de révision, ou en tant qu’expert agréé en matière de prévoyance professionnelle, enfreint gravement les obligations qui lui incombent en vertu des art. 52*c* et 52*e*;
+- f. mène des affaires non autorisées pour son propre compte, contrevient à l’obligation de déclarer en fournissant des indications inexactes ou incomplètes, ou dessert grossièrement de toute autre manière les intérêts de l’institution de prévoyance;
+- g. omet de communiquer les avantages financiers ou les rétrocessions liés à l’administration de la fortune ou les garde pour lui, à moins qu’ils ne soient indiqués expressément à titre d’indemnité et chiffrés dans le contrat d’administration de la fortune, ou
+- h. en tant que membre de l’organe suprême ou chargé de la gestion d’une institution de prévoyance soumise aux art. 71*a* et 71*b*, viole l’obligation de voter ou l’obligation de communiquer prévues par ces articles.
 
-<sup>2</sup> Si l’auteur n’a fait que s’accommoder de l’éventualité de la réalisation d’une infraction selon l’al. 1, let. h, il n’est pas punissable au sens de ladite disposition.
+<sup>2</sup> Si l’auteur ne fait que s’accommoder de l’éventualité de la réalisation d’une infraction selon l’al. 1, let. h, il n’est pas punissable au sens de ladite disposition.
 
-[^76-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^76-1]: Nouvelle teneur selon le ch. II de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^76-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 77
@@ -2501,7 +2493,7 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, des do
 - d. aux offices des poursuites, conformément aux art. 91, 163 et 222 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^86a-3];
 - e. aux autorités fiscales, lorsqu’elles se rapportent au versement des prestations de la prévoyance professionnelle et qu’elles sont nécessaires à l’application des lois fiscales.
 - f.[^86a-4] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, CC[^86a-5];
-- [tab] g.[^86a-6] ...
+- [tab] g.[^86a-6] …
 
 <sup>2</sup>
 
@@ -2746,7 +2738,7 @@ Durant les deux premières années d’application de la loi, les taux minimaux 
 
 <sup>1bis</sup> Le Conseil fédéral édicte des prescriptions sur la mise en œuvre de relevés et sur la publication des informations servant au contrôle de l’application et à l’analyse des effets de cette loi. Ces relevés et informations portent notamment sur l’organisation et le financement des institutions de prévoyance, sur les prestations et leurs bénéficiaires ainsi que sur la contribution de la prévoyance professionnelle au maintien du niveau de vie antérieur.[^97-1]
 
-<sup>2</sup> Les cantons édicteront les dispositions d’exécution. ... [^97-2]
+<sup>2</sup> Les cantons édicteront les dispositions d’exécution. … [^97-2]
 
 <sup>3</sup> Les dispositions cantonales d’exécution sont communiquées au Département fédéral de l’intérieur.[^97-3]
 
@@ -2940,6 +2932,6 @@ Annexe
 
 ## Modification du droit fédéral
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797).

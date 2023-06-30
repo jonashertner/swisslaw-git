@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sulla previdenza professionale per la 
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/it"
 
 (LPP)
 
-del 25 giugno 1982 (Stato 1° gennaio 2023)
+del 25 giugno 1982 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti l’articolo 34<sup>quater</sup> della Costituzione federale[^ingress-1] e l’articolo 11 delle disposizioni transitorie della medesima;[^ingress-2] visto il messaggio del Consiglio federale del 19 dicembre 1975[^ingress-3],
+visto l’articolo 112 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 19 dicembre 1975[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)]. A queste disp. corrispondono ora gli art. 111 a 113 e 196 n. 10 e 11 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I 11 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)
 
 ## Parte prima: Scopo e campo d’applicazione
@@ -2229,30 +2229,22 @@ Ogni Cantone designa un tribunale che, in ultima istanza cantonale, decide sulle
 [^74-1]: Nuovo testo giusta il n. I 14 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^74-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^74-3]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^74-4]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^74-4]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); FF 2007 5199).
 
 ### Titolo secondo: Disposizioni penali
 
-[^part5-tit2-1]
-
-[^part5-tit2-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-
 #### Art. 75
 
-**Contravvenzioni**
+**Contravvenzioni**[^75-1]
 
-<sup>1.</sup> Chiunque viola l’obbligo d’informare fornendo scientemente informazioni inveritiere o rifiutando di dare informazioni,
+Se non ha commesso un reato per il quale il Codice penale[^75-2] commina una pena più grave, è punito con la multa chiunque:
 
-chiunque si oppone a un controllo ordinato dall’autorità competente, o lo impedisce altrimenti,
+- a. viola l’obbligo d’informare fornendo scientemente informazioni inveritiere o rifiutando di dare informazioni;
+- b. si oppone a un controllo ordinato dall’autorità competente, o lo impedisce altrimenti;
+- c. non riempie i moduli prescritti, o li riempie in modo non conforme al vero.
 
-chiunque non riempie i moduli prescritti, o li riempie in modo non conforme al vero,
-
-è punito con l’arresto o con la multa fino 10 000 franchi se non si tratta di un delitto per il quale il Codice penale[^75-1] commina una pena più grave.[^75-2]
-
-<sup>2.</sup> In casi di lieve entità, si può prescindere dal procedimento penale.
-
-[^75-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^75-1]: Nuovo testo giusta il n. I 11 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^75-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 76
 
@@ -2260,20 +2252,20 @@ chiunque non riempie i moduli prescritti, o li riempie in modo non conforme al v
 
 <sup>1</sup>
 
-Se non ha commesso un delitto o un crimine per il quale il Codice penale[^76-2] commina una pena più grave, è punito con una pena pecuniaria fino a 180 aliquote giornaliere chiunque:
+Se non ha commesso un reato per il quale il Codice penale[^76-2] commina una pena più grave, è punito con una pena pecuniaria chiunque:
 
 - a. mediante indicazioni inveritiere o incomplete, oppure in altro modo, ottiene per sé o per altri dall’istituto di previdenza o dal fondo di garanzia una prestazione che non gli spetta;
 - b. mediante indicazioni inveritiere o incomplete, oppure in altro modo, si sottrae all’obbligo di pagare i contributi a un istituto di previdenza o al fondo di garanzia;
 - c. nella sua qualità di datore di lavoro, deduce i contributi dal salario di un lavoratore e li destina a uno scopo diverso da quello per cui sono previsti;
 - d. viola l’obbligo del segreto oppure, nell’applicazione della presente legge, abusa della sua posizione di organo o funzionario a danno di terzi o a suo vantaggio;
-- e. nella sua qualità di titolare o membro di un ufficio di revisione oppure di perito riconosciuto in materia di previdenza professionale, viola in modo grave gli obblighi legali;
+- e. nella sua qualità di titolare o membro di un ufficio di revisione oppure di perito riconosciuto in materia di previdenza professionale, viola in modo grave gli obblighi secondo gli articoli 52*c* e 52*e*;
 - f. tratta per conto proprio affari non autorizzati, viola l’obbligo di dichiarazione fornendo indicazioni inveritiere o incomplete o agisce in maniera altrimenti gravemente lesiva degli interessi dell’istituto di previdenza;
 - g. non dichiara o trattiene per sé vantaggi patrimoniali o retrocessioni in relazione con l’amministrazione del patrimonio, a meno che questi siano espressamente quantificati come indennità nel contratto di amministrazione patrimoniale; o
-- h. in qualità di membro dell’organo superiore o di persona incaricata della gestione di uno degli istituti di previdenza assoggettati agli articoli 71*a* e 71*b* viola l’obbligo di voto o l’obbligo di trasparenza secondo detti articoli.
+- h. in qualità di membro dell’organo superiore o di persona incaricata della gestione di uno degli istituti di previdenza assoggettati agli articoli 71*a* e 71*b* viola l’obbligo di trasparenza secondo detti articoli.
 
 <sup>2</sup> Non è punibile secondo il capoverso 1 lettera h chi ritiene possibile il realizzarsi di uno degli atti di cui alla predetta disposizione e se ne accolli il rischio.
 
-[^76-1]: Nuovo testo giusta l’all. n. 10 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^76-1]: Nuovo testo giusta il n. II della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^76-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 77
