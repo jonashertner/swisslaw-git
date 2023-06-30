@@ -4,20 +4,20 @@ number: "145.11"
 title: Dienstordnung der Sicherheitsdirektion
 short: Do SID
 language: de
-version: 2022-04-01
-valid_until: 2023-06-30
-version_adopted: 2021-04-13
+version: 2023-07-01
+valid_until: 2023-09-30
+version_adopted: 2023-06-27
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.11"
-pdf: "https://bl.clex.ch/api/de/versions/3031/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3638/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Sicherheitsdirektion
 
-Vom 23.10.1984 (Stand 01.04.2022)
+Vom 23.10.1984 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -207,6 +207,7 @@ beschliesst:
 - a.<sup>ter</sup> Controlling;
 - a.<sup>quater</sup> Human Resources (HR):
   - 1\. Organisation;
+- a.<sup>quinquies</sup> Ressort Digitalisierung;
 - b. Familien, Integration und Dienste mit den Fachbereichen:
   - 1\. Familien;
   - 2\. Integration;
