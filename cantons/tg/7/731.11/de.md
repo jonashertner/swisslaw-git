@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "731.11"
-title: Verordnung des Regierungsrates zum Gesetz über die Energienutzung
+title: Energienutzungsverordnung
 short: ENV
 language: de
-version: 2020-07-01
-valid_until: 2023-06-30
-version_adopted: 2020-04-14
+version: 2023-07-01
+valid_until: 2024-12-31
+version_adopted: 2023-06-20
 adopted: 2010-11-09
 in_force: 2011-02-06
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/731.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2668/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2684/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über die Energienutzung
+# Energienutzungsverordnung
 
 ENV
 
 (ENV)
 
-vom 09.11.2010 (Stand 01.07.2020)
+vom 09.11.2010 (Stand 01.07.2023)
 
 ## 1. Allgemeine Bemerkungen
 
@@ -37,19 +37,21 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 #### § 2
 
-**Abteilung Energie**
+**Amt für Energie**
 
-<sup>1</sup> Die Abteilung Energie gilt als kantonale Energiefachstelle.
+<sup>1</sup> Das Amt für Energie gilt als kantonale Energiefachstelle.
 
-<sup>2</sup> Sie vollzieht die bundes- und kantonalrechtlichen Vorschriften über die Energienutzung, soweit nichts anderes bestimmt ist.
+<sup>2</sup> Es vollzieht die bundes- und kantonalrechtlichen Vorschriften über die Energienutzung, soweit nichts anderes bestimmt ist.
 
-<sup>3</sup> Sie ist die Zertifizierungsstelle für den Minergie-Baustandard.
+<sup>3</sup> Es ist die Zertifizierungsstelle für den Minergie-Baustandard.
 
 #### § 3
 
 **Politische Gemeinden**
 
-<sup>1</sup> Der Vollzug von § 7 bis § 13 des Gesetzes und von § 12 bis § 45 dieser Verordnung mit Ausnahme von § 17, § 21 Abs. 3 und § 22 obliegt den Politischen Gemeinden.
+<sup>1</sup> Der Vollzug von § 7 bis § 13 des Gesetzes über die Energienutzung (ENG)[^3-1] und von § 12 bis § 45 dieser Verordnung mit Ausnahme von § 17, § 21 Abs. 3 und § 22 obliegt den Politischen Gemeinden.
+
+[^3-1]: RB [731.1](https://www.rechtsbuch.tg.ch/data/731.1/de)
 
 #### § 4
 
@@ -65,13 +67,67 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>2</sup> Daneben gelten die Begriffsdefinitionen der SIA-Norm 380/1 «Heizwärmebedarf», Ausgabe 2016.
 
+## 1a. Vorbildfunktion der öffentlichen Hand
+
+#### § 4a
+
+**Baustandards**
+
+<sup>1</sup> Kanton, Gemeinden sowie andere Körperschaften und Anstalten des öffentlichen Rechtes haben ihre Neubauten und tiefgreifenden Umbau- und Sanierungsmassnahmen an ihren Gebäuden mindestens nach einem der folgenden Standards auszuführen und zu zertifizieren:
+
+- 1\. Minergie
+- 2\. Standard Nachhaltiges Bauen Schweiz SNBS 2.1
+- 3\. SIA-Effizienzpfad Energie (2040) mit Zielwerten und Zusatzanforderung
+
+<sup>2</sup> Bei kantonalen Neubauten ist einer der folgenden Standards auszuführen und zu zertifizieren:
+
+- 1\. Minergie-A
+- 2\. Minergie-P
+- 3\. Standard Nachhaltiges Bauen Schweiz SNBS 2.1 mit einer Gesamtnote von mindestens 5.0
+- 4\. SIA-Effizienzpfad Energie (SIA 2040) mit Zielwerten und Zusatzanforderung, wobei der Nachweis unter Verwendung des Schweizer Verbraucherstrommix zu erfolgen hat
+
+<sup>3</sup> Kantonale Neubauten, die nach Minergie-A oder Minergie-P den Nachweis der Vorbildfunktion ohne den Zusatz ECO führen, haben folgende Konstruktionsauflagen zu erfüllen:
+
+- 1\. Tragstruktur: Aussenwände, Geschossdecken und Dachkonstruktionen sind in Holz- oder Holzverbundkonstruktion (Hybridbauweise) auszuführen. Das verwendete Konstruktionsholz muss aus der Schweiz stammen. Die Herkunft ist mit dem Label «Schweizer Holz» des Vereins Lignum Holzwirtschaft Schweiz, mit einem anderen gleichwertigen Label oder durch Selbstdeklaration zu belegen, mit der bestätigt wird, dass das Holz Anforderungen erfüllt, die denjenigen des Labels «Schweizer Holz» entsprechen.
+- 2\. Für Betonkonstruktionen ist der nachweislich technisch maximal mögliche Anteil an Recycling-Beton einzusetzen.
+
+<sup>4</sup> Als tiefgreifende Umbau- und Sanierungsmassnahmen gelten Bauvorhaben, bei denen die Kosten der Sanierung mehr als 50 % des indexierten Gebäudeversicherungswertes betragen.
+
+<sup>5</sup> Bei kleineren Eingriffen oder der Sanierung einzelner Bauteile sind für diese bei Umbauten U-Werte von 0.15 W/m²K für opake Bauteile gegen Aussenklima und 0.80 W/m²K für Fenster sowie 0.20 W/m²K für opake Bauteile gegen unbeheizt einzuhalten.
+
+#### § 4b
+
+**Haustechnische Anlagen**
+
+<sup>1</sup> Bei Neubauten und tiefgreifenden Umbau- und Sanierungsmassnahmen sind Gebäude mit Personenbelegungen, in denen pro Person eine Fläche von 20 m² oder weniger zur Verfügung steht, mit einer mechanischen Lüftungsanlage mit Wärmerückgewinnung und einem WRG-Wirkungsgrad von mindestens 70 % sowie nach dem Stand der Technik auszurüsten.
+
+<sup>2</sup> Bei einem Heizungsersatz, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, gilt die Vorbildfunktion bezüglich der Förderung der Nutzung erneuerbarer und umweltverträglich produzierter Energien als wahrgenommen, wenn die neue Anlage nicht mehr mit fossilen Brennstoffen betrieben wird.
+
+#### § 4c
+
+**Eigenstromerzeugung**
+
+<sup>1</sup> Bei Neubauten und tiefgreifenden Umbau- und Sanierungsmassnahmen ist neben der Einhaltung der Baustandards gemäss § 4a und der Eigenstromerzeugung gemäss § 42e das gesamte solare Potenzial der geeigneten Dachflächen zur Eigenstromerzeugung mittels PV-Anlagen zu nutzen.
+
+<sup>2</sup> Bei umfassenden Dachsanierungen, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, ist das gesamte solare Potenzial der geeigneten Dachflächen zur Eigenstromerzeugung mittels PV-Anlagen zu nutzen. Bei einer umfassenden Dachsanierung wird die Dachhaut grossflächig ersetzt oder instand gestellt. Kleinteilige Reparatur- und Unterhaltsarbeiten an den Dachflächen sind hiervon nicht betroffen.
+
+<sup>3</sup> Geeignete Dachflächen sind Flächen ab 85 % Globalstrahlung (Anhang 7). Ausgenommen sind Dachaufbauten wie Liftüberfahrten oder Gauben sowie Dachflächen, deren Jahresertrag unter Berücksichtigung einer vorliegenden Verschattung um mehr als 50 % reduziert wird.
+
+#### § 4d
+
+**Ausnahmen**
+
+<sup>1</sup> Von den Anforderungen gemäss § 4a bis § 4c kann abgewichen werden, wenn zwingende technische, denkmal- oder ortsbildpflegerische Gründe dies erfordern oder ihre Umsetzung mit unverhältnismässigen Kosten verbunden ist.
+
+<sup>2</sup> Ausnahmen gemäss Abs. 1 sind zu begründen.
+
 ## 2. Fördermassnahmen
 
 #### § 5
 
 **Energieberatungsstellen**
 
-<sup>1</sup> Der Betrieb von Energieberatungsstellen der Politischen Gemeinden im Sinne von § 4 Abs. 3 des Gesetzes kann mit Kantonsbeiträgen unterstützt werden.
+<sup>1</sup> Der Betrieb von Energieberatungsstellen der Politischen Gemeinden im Sinne von § 4 Abs. 3 ENG kann mit Kantonsbeiträgen unterstützt werden.
 
 <sup>2</sup> Die Beitragsleistung setzt voraus, dass die Beiträge der Politischen Gemeinden mindestens zwei Drittel der Betriebskosten decken.
 
@@ -97,17 +153,17 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Beiträge**
 
-<sup>1</sup> Im Rahmen des bewilligten Budgetkredites für Fördermassnahmen im Energienutzungsbereich kann die Abteilung Energie pro Einzelfall über einen Beitrag von maximal Fr. 30'000 verfügen. Über höhere Beiträge bestimmt das Departement.
+<sup>1</sup> Im Rahmen des bewilligten Budgetkredites für Fördermassnahmen im Energienutzungsbereich kann das Amt für Energie pro Einzelfall über einen Beitrag von maximal Fr. 50'000 verfügen. Über höhere Beiträge bestimmt das Departement.
 
 <sup>2</sup> Die Beitragsauszahlung erfolgt in der Regel in Form von Investitionsbeiträgen, in besonderen Fällen in Form von Risikogarantien.
 
-<sup>3</sup> Die Abteilung Energie kann weitere Voraussetzungen für die Ausrichtung von Förderbeiträgen festlegen.
+<sup>3</sup> Das Amt für Energie kann weitere Voraussetzungen für die Ausrichtung von Förderbeiträgen festlegen.
 
 #### § 9
 
 **Verfahren**
 
-<sup>1</sup> Beitragsgesuche sind zusammen mit den notwendigen Unterlagen bei der Abteilung Energie einzureichen, bevor mit dem Bau oder der Installation begonnen wird.
+<sup>1</sup> Beitragsgesuche sind zusammen mit den notwendigen Unterlagen beim Amt für Energie einzureichen, bevor mit dem Bau oder der Installation begonnen wird.
 
 #### § 10
 
@@ -119,10 +175,10 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Rückforderung der Beiträge**
 
-<sup>1</sup> Die Beiträge können ganz oder teilweise zurückgefordert werden, wenn:
+<sup>1</sup> Die Beiträge können ganz oder teilweise zurückgefordert werden, wenn
 
-- 1\. sie durch unrichtige Angaben des Beitragsempfängers erschlichen worden sind;
-- 2\. sie trotz Mahnung nicht bestimmungsgemäss verwendet werden;
+- 1\. sie durch unrichtige Angaben des Beitragsempfängers erschlichen worden sind,
+- 2\. sie trotz Mahnung nicht bestimmungsgemäss verwendet werden,
 - 3\. der Beitragsempfänger seine Pflichten gemäss § 10 trotz Mahnung verletzt.
 
 ## 3. Energiesparmassnahmen
@@ -135,10 +191,10 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>1</sup> Die Bestimmungen dieses Abschnitts sind anwendbar auf:
 
-- 1\. Neubauten, welche beheizt, belüftet, gekühlt oder befeuchtet werden;
-- 2\. Umbauten und Umnutzungen von bestehenden Bauten, welche beheizt, belüftet, gekühlt oder befeuchtet werden, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
-- 3\. Neuinstallationen haustechnischer Anlagen zur Aufarbeitung und Verteilung von Wärme, Kälte, Warmwasser und Raumluft, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
-- 4\. Erneuerung, Umbau und Änderung haustechnischer Anlagen, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind.
+- 1\. Neubauten, welche beheizt, belüftet, gekühlt oder befeuchtet werden
+- 2\. Umbauten und Umnutzungen von bestehenden Bauten, welche beheizt, belüftet, gekühlt oder befeuchtet werden, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind
+- 3\. Neuinstallationen haustechnischer Anlagen zur Aufarbeitung und Verteilung von Wärme, Kälte, Warmwasser und Raumluft, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind
+- 4\. Erneuerung, Umbau und Änderung haustechnischer Anlagen, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind
 
 <sup>2</sup> Mit Ausnahme von Bagatellfällen gelten Anbauten und neubauartige Umbauten wie Auskernungen und dergleichen als Neubauten und haben die Anforderungen an Neubauten zu erfüllen.
 
@@ -148,12 +204,12 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>1</sup> Die Einhaltung der energierechtlichen Vorschriften ist vom Bauherrn und vom Projektverfasser mit amtlichem Formular nachzuweisen:
 
-- 1\. bei Neubauten sowie An- und Umbauten von Gebäuden mit Baukosten von mehr als Fr. 200'000;
-- 2\. beim Ersatz oder Umbau wesentlicher Teile von haustechnischen Anlagen.
+- 1\. bei Neubauten sowie An- und Umbauten von Gebäuden mit Baukosten von mehr als Fr. 200'000
+- 2\. beim Ersatz oder Umbau wesentlicher Teile von haustechnischen Anlagen
 
 <sup>2</sup> Der Nachweis für den Wärmeschutz ist zusammen mit dem Baugesuch einzureichen. Der Nachweis für haustechnische Anlagen kann nachträglich, bei Neubauten spätestens aber vor Abnahme des Schnurgerüstes eingereicht werden. Die Fristen können auf Gesuch hin verlängert werden, falls die Art des Bauvorhabens dies erfordert.
 
-<sup>3</sup> Ein Minergie-Label gilt als Nachweis.
+<sup>3</sup> Ein Minergie-Label zusammen mit den nachgewiesenen erhöhten Anforderungen an die Eigenstromproduktion gemäss § 42e gilt als Nachweis. Dieser ist von der Zertifizierungsstelle Minergie zu kontrollieren und zu bestätigen.
 
 #### § 14
 
@@ -181,7 +237,7 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Auskunftspflicht**
 
-<sup>1</sup> Als zuständige Stellen gemäss § 14b des Gesetzes gelten insbesondere die Gemeindebehörde, die kantonale Behörde und die Elektrizitätsversorgungsunternehmen.
+<sup>1</sup> Als zuständige Stellen gemäss § 14b ENG gelten insbesondere die Gemeindebehörde, die kantonale Behörde und die Elektrizitätsversorgungsunternehmen.
 
 #### § 16
 
@@ -191,32 +247,23 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>2</sup> Folgende Normen, Empfehlungen und Richtlinien von Fachorganisationen legen den Stand der Technik fest:
 
-- 1\. SIA-Norm 180 «Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden», Ausgabe 2014;
-- 2\. SIA-Norm 380/1 «Heizwärmebedarf», Ausgabe 2016;
+- 1\. SIA-Norm 180 «Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden», Ausgabe 2014
+- 2\. SIA-Norm 380/1 «Heizwärmebedarf», Ausgabe 2016
 - 3\. …
-- 4\. SIA-Norm 382/1 «Lüftungs- und Klimaanlagen - Allgemeine Grundlagen und Anforderungen», Ausgabe 2014;
+- 4\. SIA-Norm 382/1 «Lüftungs- und Klimaanlagen - Allgemeine Grundlagen und Anforderungen», Ausgabe 2014
 - 5\. …
-- 6\. SIA-Norm 384/1 «Heizungsanlagen in Gebäuden - Technische Anforderungen», Ausgabe 2009;
-- 6a. SIA-Norm 387/4 «Elektrizität in Gebäuden - Beleuchtung Berechnung und Anforderungen», Ausgabe 2017;
+- 6\. SIA-Norm 384/1 «Heizungsanlagen in Gebäuden - Grundlagen und Anforderungen», Ausgabe 2022
+- 6a. SIA-Norm 387/4 «Elektrizität in Gebäuden - Beleuchtung: Berechnung und Anforderungen», Ausgabe 2017
 - 7\. …
-- 8\. SIA-Merkblatt 2024 «Standard-Nutzungsbedingungen für Energie- und Gebäudetechnik», Ausgabe 2015;
-- 9\. SIA-Merkblatt 2028 «Klimadaten für Bauphysik, Energie- und Gebäudetechnik», Ausgabe 2012;
-- 10\. SIA-Merkblatt 2040 «SIA-Effizienzpfad Energie», Ausgabe 2017;
-- 11\. Vollzugshilfen der Konferenz kantonaler Energiefachstellen.
+- 7a. SIA-Norm 380 «Grundlagen für energetische Berechnungen von Gebäuden», Ausgabe 2022
+- 8\. SIA-Merkblatt 2024 «Raumnutzungsdaten für Energie- und Gebäudetechnik», Ausgabe 2021
+- 9\. SIA-Merkblatt 2028 «Klimadaten für Bauphysik, Energie- und Gebäudetechnik», Ausgabe 2010
+- 10\. SIA-Merkblatt 2040 «SIA-Effizienzpfad Energie», Ausgabe 2017
+- 11\. Vollzugshilfen der Konferenz kantonaler Energiefachstellen
 
 #### § 17
 
-**Vorbildfunktion der öffentlichen Hand**
-
-<sup>1</sup> Zur Wahrung ihrer Vorbildfunktion haben Kanton, Gemeinden sowie andere Körperschaften und Anstalten des öffentlichen Rechtes ihre Neubauten und tiefgreifende Umbau- und Sanierungsmassnahmen an ihren Gebäuden mindestens nach dem Minergie-Baustandard oder dem Standard Nachhaltiges Bauen Schweiz SNBS zu zertifizieren oder die Zielwerte inklusive Zusatzanforderungen des SIA-Merkblatts 2040 «Effizienzpfad Energie» einzuhalten. Kantonale Neubauten sind nach dem Minergie-A oder P-Standard oder dem Standard Nachhaltiges Bauen Schweiz SNBS zu zertifizieren oder es sind die Zielwerte inklusive den Zusatzanforderungen des SIA-Merkblatts 2040 «Effizienzpfad Energie» einzuhalten.
-
-<sup>1<sup>bis</sup></sup> Als tiefgreifende Umbauten gelten Bauvorhaben, bei denen die Kosten der Sanierung mehr als 50 Prozent des indexierten Gebäudeversicherungswertes betragen.
-
-<sup>1<sup>ter</sup></sup> Gebäude mit hohen Personenbelegungen sind mit einer mechanischen Lüftungsanlage auszurüsten.
-
-<sup>2</sup> Bei kleineren Eingriffen beziehungsweise der Sanierung einzelner Bauteile sind für diese bei Umbauten u-Werte von 0.15 W/m²K für opake Bauteile gegen Aussenklima und 0.80 W/m²K für Fenster sowie 0.20 W/m²K für opake Bauteile gegen unbeheizt einzuhalten.
-
-<sup>3</sup> Von diesen Anforderungen kann insbesondere abgewichen werden, wenn zwingende technische oder denkmalpflegerische Gründe dies erfordern oder ihre Umsetzung mit unverhältnismässigen Kosten verbunden ist.
+**…**
 
 #### § 18
 
@@ -224,10 +271,10 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>1</sup> Bei Neubauten sowie erheblichen Umbauten und Umnutzungen, die Geschossflächen von insgesamt mehr als 1'000 m² für Dienstleistungen, gewerbliche oder öffentliche Nutzungen enthalten, ist für diese Flächen der Elektrizitätsbedarf folgendermassen einzuhalten:
 
-- 1\. Beleuchtung: Einhaltung der Grenzwerte Energie oder Einhaltung der spezifischen installierten Leistung mittels EnFK-Berechnungswerkzeug basierend auf den Grenz- und Zielwerten der SIA-Norm 387/4, Ausgabe 2017; und
+- 1\. Beleuchtung: Einhaltung der Grenzwerte Energie oder Einhaltung der spezifischen installierten Leistung mittels EnFK-Berechnungswerkzeug basierend auf den Grenz- und Zielwerten der SIA-Norm 387/4, Ausgabe 2017.
 - 2\. Kühlen, Be- und Entfeuchten: bei Neubauten ist die benötigte Energie im gewichteten Energiebedarf gemäss § 24a zu berücksichtigen. Bei Umbauten und Umnutzungen ist entweder der elektrische Leistungsbedarf von 12 W/m² für Medienförderung, Aufbereitung, Kühlung, Be- und Entfeuchtung einzuhalten, oder die Anlagen sind gemäss der Vollzugshilfe EN-110 der Energiefachstellenkonferenz auszuführen.
 
-<sup>1<sup>bis</sup></sup> Alternativ zu Abs. 1 ist eine zu § 42e (§ 8 Abs. 1<sup>bis</sup> des Gesetzes) zusätzliche Elektrizitätserzeugungsanlage mit mindestens 10 W pro m² Energiebezugsfläche zu installieren. Die Obergrenze von 30 kW entfällt.
+<sup>1<sup>bis</sup></sup> Alternativ zu Abs. 1 ist eine zu § 42e (§ 8 Abs. 1<sup>bis</sup> ENG) zusätzliche Elektrizitätserzeugungsanlage mit mindestens 10 W pro m² Energiebezugsfläche zu installieren. Die Obergrenze von 30 kW entfällt.
 
 <sup>2–3</sup> …
 
@@ -235,13 +282,13 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Beheizte Freiluftbäder**
 
-<sup>1</sup> Als Freiluftbäder im Sinne von § 12 des Gesetzes gelten Wasserbecken mit einem Inhalt von mehr als 8 m³.
+<sup>1</sup> Als Freiluftbäder im Sinne von § 12 ENG gelten Wasserbecken mit einem Inhalt von mehr als 8 m³.
 
 #### § 20
 
 **Heizungen im Freien**
 
-<sup>1</sup> Zu den Heizungen im Freien im Sinne von § 12a des Gesetzes gehören unter anderem fest installierte Terrassen-, Rampen-, Rinnen- und Sitzplatzheizungen.
+<sup>1</sup> Zu den Heizungen im Freien im Sinne von § 12a ENG gehören unter anderem fest installierte Terrassen-, Rampen-, Rinnen- und Sitzplatzheizungen.
 
 #### § 21
 
@@ -249,26 +296,26 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>1</sup> Die Abwärmenutzung bei Elektrizitätserzeugungsanlagen, die mit fossilen Brennstoffen betrieben werden, gilt als fachgerecht und weitgehend, wenn der jährliche Energie-Gesamtnutzungsgrad bei Dieselmotoren und Mikroturbinen über 80 % und bei Gasmotoren, Kombikraftwerken und Brennstoffzellen über 85 % liegt.
 
-<sup>2</sup> Bei mit erneuerbaren Brennstoffen betriebenen Anlagen gilt die Nutzung der Abwärme als fachgerecht und weitgehend, wenn der jährliche Energie-Gesamtnutzungsgrad bei mindestens 70 % liegt.
+<sup>2</sup> Bei mit erneuerbaren Brennstoffen betriebenen Anlagen gilt die Nutzung der Abwärme als fachgerecht und weitgehend, wenn der jährliche Energie-Gesamtnutzungsgrad in der Regel bei 70 % liegt.
 
-<sup>3</sup> Für Anlagen mit einer elektrischen Leistung von mehr als 300 kW obliegt der Vollzug dieser Bestimmung der Abteilung Energie.
+<sup>3</sup> Für Anlagen mit einer elektrischen Leistung von mehr als 300 kW obliegt der Vollzug dieser Bestimmung dem Amt für Energie.
 
 #### § 22
 
 **Optimierungsmassnahmen in Betriebsstätten**
 
-<sup>1</sup> Unternehmen und Institutionen mit Betriebsstätten im Sinne von § 14 des Gesetzes müssen die energetische Optimierung ihres Energieverbrauchs mit einer Zielvereinbarung oder einer Energieverbrauchsanalyse nachweisen.
+<sup>1</sup> Unternehmen und Institutionen mit Betriebsstätten im Sinne von § 14 ENG müssen die energetische Optimierung ihres Energieverbrauchs mit einer Zielvereinbarung oder einer Energieverbrauchsanalyse nachweisen.
 
-<sup>2</sup> Die Überprüfung dieses Nachweises obliegt der Abteilung Energie. Diese kann den Vollzug Dritten übertragen.
+<sup>2</sup> Die Überprüfung dieses Nachweises obliegt dem Amt für Energie. Dieses kann den Vollzug Dritten übertragen.
 
 <sup>3</sup> Unternehmen und Institutionen, die sich individuell oder in einer Gruppe im Rahmen von Vereinbarungen gemäss Abs. 1 zur Reduktion des CO<sub>2</sub>-Ausstosses oder zur effizienten Energienutzung verpflichten, sind für die Dauer dieser Vereinbarungen von der Einhaltung folgender Bestimmungen entbunden:
 
-- 1\. Grenzwerte für den Elektrizitätsbedarf (§ 11 des Gesetzes und § 18);
-- 2\. beheizte Freiluftbäder (§ 12 des Gesetzes und § 19);
-- 3\. Heizungen im Freien (§ 12a des Gesetzes);
-- 4\. Elektrizitätserzeugungsanlagen (§ 13 des Gesetzes und § 21);
-- 5\. Anforderungen an Neubauten (§ 8 des Gesetzes sowie § 24a bis § 27, § 42e und § 42f);
-- 6\. haustechnische Anlagen (§ 10 des Gesetzes und § 31 bis § 42).
+- 1\. Grenzwerte für den Elektrizitätsbedarf (§ 11 ENG und § 18)
+- 2\. beheizte Freiluftbäder (§ 12 ENG und § 19)
+- 3\. Heizungen im Freien (§ 12a ENG)
+- 4\. Elektrizitätserzeugungsanlagen (§ 13 ENG und § 21)
+- 5\. Anforderungen an Neubauten (§ 8 ENG sowie § 24a bis § 27, § 42e und § 42f)
+- 6\. haustechnische Anlagen (§ 10 ENG und § 31 bis § 42)
 
 <sup>4</sup> Zielvereinbarungen können aufgehoben werden, wenn vereinbarte Ziele nicht erreicht werden.
 
@@ -326,18 +373,18 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Nachweis mittels Standardlösung oder TG-Light**
 
-<sup>1</sup> Für die Gebäudekategorien I (Wohnen MFH) und II (Wohnen EFH) gelten die Anforderungen für Neubauten und Erweiterungen von bestehenden Bauten gemäss § 8 des Gesetzes als erbracht, wenn eine der in Anhang 2b genannten Standardlösungen fachgerecht ausgeführt wird.
+<sup>1</sup> Für die Gebäudekategorien I (Wohnen MFH) und II (Wohnen EFH) gelten die Anforderungen für Neubauten und Erweiterungen von bestehenden Bauten gemäss § 8 ENG als erbracht, wenn eine der in Anhang 2b genannten Standardlösungen fachgerecht ausgeführt wird.
 
-<sup>2</sup> Für die Gebäudekategorien I (Wohnen MFH), II (Wohnen EFH), III (Verwaltung), IV (Schulen), IX (Industrie) und X (Lager) gelten die Anforderungen für Neubauten und Erweiterungen von bestehenden Bauten gemäss § 8 des Gesetzes als erfüllt, wenn alle in Anhang 1 genannten Vorgaben fachgerecht umgesetzt werden.
+<sup>2</sup> Für die Gebäudekategorien I (Wohnen MFH), II (Wohnen EFH), III (Verwaltung), IV (Schulen), IX (Industrie) und X (Lager) gelten die Anforderungen für Neubauten und Erweiterungen von bestehenden Bauten gemäss § 8 ENG als erfüllt, wenn alle in Anhang 1 genannten Vorgaben fachgerecht umgesetzt werden.
 
 #### § 27
 
 **Befreiung für Neubauten**
 
-<sup>1</sup> Neubauten und Erweiterungen von bestehenden Bauten sind von den Anforderungen gemäss § 8 Abs. 1 und Abs. 1<sup>bis</sup> des Gesetzes befreit, wenn die neu geschaffene Energiebezugsfläche:
+<sup>1</sup> Neubauten und Erweiterungen von bestehenden Bauten sind von den Anforderungen gemäss § 8 Abs. 1 und Abs. 1<sup>bis</sup> ENG befreit, wenn die neu geschaffene Energiebezugsfläche:
 
 - 1\. weniger als 50 m² beträgt oder
-- 2\. maximal 20 % der gesamten bisherigen Energiebezugsfläche des bestehenden Gebäudeteils und nicht mehr als 1 000 m² beträgt.
+- 2\. maximal 20 % der gesamten bisherigen Energiebezugsfläche des bestehenden Gebäudeteils und nicht mehr als 1'000 m² beträgt
 
 #### § 28
 
@@ -347,16 +394,16 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>2</sup> Erleichterungen für den geforderten winterlichen Wärmeschutz können unter anderem zugelassen werden bei:
 
-- 1\. Bauten, die auf weniger als 10 °C aktiv beheizt werden, ausgenommen Kühlräume;
-- 2\. Kühlräumen, die nicht auf unter 8 °C aktiv gekühlt werden;
-- 3\. Bauten, deren Baubewilligung auf maximal drei Jahre befristet ist (provisorische Bauten);
-- 4\. denkmalpflegerisch schützenswerten Gebäuden, falls das Erscheinungsbild beeinträchtigt würde.
+- 1\. Bauten, die auf weniger als 10 °C aktiv beheizt werden, ausgenommen Kühlräume
+- 2\. Kühlräumen, die nicht auf unter 8 °C aktiv gekühlt werden
+- 3\. Bauten, deren Baubewilligung begründet und angemessen befristet ist (provisorische Bauten)
+- 4\. denkmalpflegerisch schützenswerten Gebäuden, falls das Erscheinungsbild beeinträchtigt würde
 
 <sup>3</sup> Von den Anforderungen an den sommerlichen Wärmeschutz sind befreit:
 
-- 1\. Bauten, deren Baubewilligung auf maximal drei Jahre befristet ist (provisorische Bauten);
-- 2\. Umnutzungen, bei welchen keine Räume gemäss § 24 Abs. 3 betroffen sind;
-- 3\. Vorhaben, für die mit einem anerkannten Rechenverfahren nachgewiesen wird, dass kein erhöhter Energieverbrauch auftreten wird.
+- 1\. Bauten, deren Baubewilligung begründet und angemessen befristet ist (provisorische Bauten)
+- 2\. Umnutzungen, bei welchen keine Räume gemäss § 24 Abs. 3 betroffen sind
+- 3\. Vorhaben, für die mit einem anerkannten Rechenverfahren nachgewiesen wird, dass kein erhöhter Energieverbrauch auftreten wird
 
 <sup>4</sup> Gesuche für Erleichterungen haben einen bauteilbezogenen Nachweis der Problemlage sowie einen objektbezogenen Vorschlag für kompensatorische Massnahmen zu enthalten.
 
@@ -368,9 +415,9 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>2</sup> Für die entsprechende Berechnung ist von der Auslegungstemperatur des Kühlraums einerseits und den folgenden Umgebungstemperaturen andererseits auszugehen:
 
-- 1\. beheizte Räume: Auslegungstemperatur für die Beheizung;
-- 2\. Aussenklima: 20 °C;
-- 3\. Erdreich oder unbeheizte Räume: 10 °C.
+- 1\. beheizte Räume: Auslegungstemperatur für die Beheizung
+- 2\. Aussenklima: 20 °C
+- 3\. Erdreich oder unbeheizte Räume: 10 °C
 
 <sup>3</sup> Für Kühl- und Tiefkühlräume mit weniger als 30 m³ Nutzvolumen sind die Anforderungen auch erfüllt, wenn die umschliessenden Bauteile einen mittleren U-Wert von maximal 0,15 W/m²K einhalten.
 
@@ -400,7 +447,7 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>2</sup> Wassererwärmer sind für eine Betriebstemperatur von maximal 60 °C auszulegen. Ausgenommen sind Wassererwärmer, deren Temperatur aus betrieblichen oder aus hygienischen Gründen höher sein muss.
 
-<sup>3</sup> Der Neueinbau einer direkt-elektrischen Erwärmung des Brauchwarmwassers ist in Wohnbauten nur erlaubt, wenn das Brauchwarmwasser:
+<sup>3</sup> Der Neueinbau einer direkt-elektrischen Erwärmung des Brauchwarmwassers ist in Wohnbauten nur erlaubt, wenn das Brauchwarmwasser
 
 - 1\. während der Heizperiode mit dem Wärmeerzeuger für die Raumbeheizung erwärmt beziehungsweise vorgewärmt wird oder
 - 2\. primär mittels erneuerbarer Energie oder nicht anders nutzbarer Abwärme erwärmt wird.
@@ -409,7 +456,7 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Ortsfeste elektrische Widerstandsheizungen**
 
-<sup>1</sup> Ortsfeste elektrische Widerstandsheizungen sind als Notheizungen zulässig, wenn sie:
+<sup>1</sup> Ortsfeste elektrische Widerstandsheizungen sind als Notheizungen zulässig, wenn sie
 
 - 1\. bei Wärmepumpen unter der Auslegetemperatur eingesetzt werden oder
 - 2\. bei handbeschickten Holzheizungen maximal 50 % des Leistungsbedarfs decken.
@@ -434,8 +481,8 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>1</sup> Folgende neue oder im Rahmen eines Umbaus neu erstellte Installationen inklusive Armaturen und Pumpen sind durchgehend mindestens mit den Dämmstärken gemäss Vollzugshilfe EN-103 der Energiefachstellenkonferenz gegen Wärmeverluste zu dämmen:
 
-- 1\. Verteilleitungen der Heizung in unbeheizten Räumen und im Freien;
-- 1a. alle warm gehaltenen Teile des Warmwasserverteilsystems.
+- 1\. Verteilleitungen der Heizung in unbeheizten Räumen und im Freien
+- 1a. alle warm gehaltenen Teile des Warmwasserverteilsystems
 - 2\.–4. …
 
 <sup>2</sup> Beim Ersatz des Wärmeerzeugers sind frei zugängliche Leitungen den Anforderungen gemäss Abs. 1 anzupassen, soweit es die örtlichen Platzverhältnisse zulassen.
@@ -468,7 +515,7 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>1</sup> Lüftungstechnische Anlagen mit Aussenluft und Fortluft sind mit einer Wärmerückgewinnung auszurüsten. Die Anlagen haben die Anforderungen der Verordnung über die Anforderungen an die Energieeffizienz serienmässig hergestellter Anlagen, Fahrzeuge und Geräte (Energieeffizienzverordnung, EnEV)[^39-1] zu erfüllen. Enthält die EnEV keine Anforderung, muss der Temperaturänderungsgrad dem Stand der Technik entsprechen.
 
-<sup>2</sup> Einfache Abluftanlagen von beheizten Räumen mit einem Abluftvolumenstrom von mehr als 1 000 m³ pro Stunde und einer Betriebsdauer von mehr als 500 Stunden pro Jahr sind entweder mit einer kontrollierten Zuführung der Ersatzluft und einer Wärmerückgewinnung oder einer Nutzung der Wärme der Abluft auszurüsten. Mehrere getrennte einfache Abluftanlagen im gleichen Gebäude gelten als eine Anlage.
+<sup>2</sup> Einfache Abluftanlagen von beheizten Räumen mit einem Abluftvolumenstrom von mehr als 1'000 m³ pro Stunde und einer Betriebsdauer von mehr als 500 Stunden pro Jahr sind entweder mit einer kontrollierten Zuführung der Ersatzluft und einer Wärmerückgewinnung oder einer Nutzung der Wärme der Abluft auszurüsten. Mehrere getrennte einfache Abluftanlagen im gleichen Gebäude gelten als eine Anlage.
 
 [^39-1]: SR [730.02](https://db.clex.ch/link/Bund/730.02/de)
 
@@ -486,17 +533,17 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>1</sup> Die Luftgeschwindigkeiten dürfen in Apparaten, bezogen auf die Nettofläche, 2 m/s und im massgebenden Strang der Kanäle folgende Werte nicht überschreiten:
 
-- 1\. bis 1 000 m³/h — 3 m/s;
-- 2\. bis 2 000 m³/h — 4 m/s;
-- 3\. bis 4 000 m³/h — 5 m/s;
-- 4\. bis 10 000 m³/h — 6 m/s;
-- 5\. über 10 000 m³/h — 7 m/s.
+- 1\. bis 1'000 m³/h — 3 m/s
+- 2\. bis 2'000 m³/h — 4 m/s
+- 3\. bis 4'000 m³/h — 5 m/s
+- 4\. bis 10'000 m³/h — 6 m/s
+- 5\. über 10'000 m³/h — 7 m/s
 
 <sup>2</sup> Grössere Luftgeschwindigkeiten sind zulässig:
 
-- 1\. wenn mit einer fachgerechten Energieverbrauchsrechnung nachgewiesen wird, dass kein erhöhter Energieverbrauch auftritt;
-- 2\. bei weniger als 1 000 Jahresbetriebsstunden;
-- 3\. wenn sie wegen einzelner räumlicher Hindernisse nicht vermeidbar sind.
+- 1\. wenn mit einer fachgerechten Energieverbrauchsrechnung nachgewiesen wird, dass kein erhöhter Energieverbrauch auftritt
+- 2\. bei weniger als 1'000 Jahresbetriebsstunden
+- 3\. wenn sie wegen einzelner räumlicher Hindernisse nicht vermeidbar sind
 
 #### § 42
 
@@ -511,19 +558,19 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Erneuerbare Energie beim Heizungsersatz**
 
-<sup>1</sup> Die Anforderung bezüglich erneuerbare Energie beim Heizungsersatz ist erfüllt, wenn:
+<sup>1</sup> Die Anforderung bezüglich erneuerbare Energie beim Heizungsersatz ist erfüllt, wenn
 
-- 1\. die fachgerechte Umsetzung einer Standardlösung gemäss Anhang 3a gewährleistet ist;
-- 2\. die Zertifizierung des Gebäudes nach Minergie ausgewiesen ist;
-- 3\. die Klasse D bei der Gesamtenergieeffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist;
-- 4\. für die betroffenen Bauten und Gebäudegruppen die Baubewilligung nach dem 1. Juli 1988 erteilt wurde;
+- 1\. die fachgerechte Umsetzung einer Standardlösung gemäss Anhang 3a gewährleistet ist,
+- 2\. die Zertifizierung des Gebäudes nach Minergie ausgewiesen ist,
+- 3\. die Klasse D bei der Gesamtenergieeffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist,
+- 4\. für die betroffenen Bauten und Gebäudegruppen die Baubewilligung nach dem 1. Juli 1988 erteilt wurde,
 - 5\. eine Bezugsvereinbarung für leitungsgebundene erneuerbare gasförmige Brennstoffe mit dem Energieversorger über den minimal geforderten Anteil vorliegt.
 
 <sup>2</sup> Bei flüssigen Brennstoffen sind zum Zeitpunkt der Bewilligung für den Ersatz des Wärmeerzeugers Zertifikate für den Bezug erneuerbarer flüssiger Brennstoffe für den gesetzlich vorgegebenen Anteil des bisherigen Wärmebedarfs für die Lebensdauer während 20 Jahren zu erwerben. Die Zertifikate für die ganze Betriebsdauer sind zusammen mit dem Kaufbeleg vor Baubeginn der Anlage der Bewilligungsbehörde einzureichen.
 
 <sup>3</sup> Für die Berechnung des erneuerbaren Anteils wird auf die nationalen Gewichtungsfaktoren abgestützt.
 
-<sup>4</sup> Die erneuerbaren flüssigen oder gasförmigen Brennstoffe sind mit mindestens 75 Prozent schweizerischer Biomasse zu produzieren.
+<sup>4</sup> Die erneuerbaren flüssigen oder gasförmigen Brennstoffe sind mit mindestens 75 % schweizerischer Biomasse zu produzieren.
 
 <sup>5</sup> Die Frist für die Umsetzung einer Standardlösung beträgt maximal drei Jahre.
 
@@ -543,12 +590,12 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Befreiung Ersatz dezentrale Elektroheizungen und Elektrowassererwärmer**
 
-<sup>1</sup> Von der Ersatzpflicht für dezentrale Elektroheizungen und Elektrowassererwärmer gemäss § 11c des Gesetzes sind befreit:
+<sup>1</sup> Von der Ersatzpflicht für dezentrale Elektroheizungen und Elektrowassererwärmer gemäss § 11c ENG sind befreit:
 
-- 1\. Nasszellen und WC-Anlagen;
-- 2\. Gebäude, die entweder eine installierte Leistung von höchstens 3 kW haben oder deren elektrisch beheizte Fläche kleiner als 50 m² Energiebezugsfläche ist;
-- 3\. Kirchen;
-- 4\. dezentrale Wassererwärmer mit weniger als 200 Liter Speicherinhalt in Nichtwohnbauten.
+- 1\. Nasszellen und WC-Anlagen
+- 2\. Gebäude, die entweder eine installierte Leistung von höchstens 3 kW haben oder deren elektrisch beheizte Fläche kleiner als 50 m² Energiebezugsfläche ist
+- 3\. Kirchen
+- 4\. dezentrale Wassererwärmer mit weniger als 200 Liter Speicherinhalt in Nichtwohnbauten
 
 <sup>2</sup> Befreit von der Ersatzpflicht für dezentrale Elektroheizungen und Elektrowassererwärmer sind auch tiefgreifende Umbauten, bei denen der kleinere Teil der Investitionen im Inneren des Gebäudes anfällt.
 
@@ -558,7 +605,7 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Anforderung Eigenstromerzeugung bei Neubauten**
 
-<sup>1</sup> Die im, auf oder am Gebäude installierte Elektrizitätserzeugungsanlage bei Neubauten muss mindestens 10 W pro m² Energiebezugsfläche leisten. Die maximal geforderte Leistung beträgt 30 kW.
+<sup>1</sup> Die im, auf oder am Gebäude installierte Elektrizitätserzeugungsanlage bei Neubauten muss mindestens 30 W/m² Energiebezugsfläche leisten.
 
 <sup>2</sup> Elektrizität aus Wärme-Kraft-Kopplungsanlagen kann nur berücksichtigt werden, wenn sie nicht zur Erfüllung der Anforderung an die Deckung des Wärmebedarfs eingerechnet wird.
 
@@ -566,7 +613,10 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Ersatzlösung**
 
-<sup>1</sup> Wird auf eine Eigenstromproduktion verzichtet, muss der Energiebedarf einer Ersatzlösung für Heizung, Warmwasser, Klima und Lüftung jährlich um mindestens 5 kWh/m²a unter dem Grenzwert für Heizung, Warmwasser, Klima und Lüftung gemäss Anhang 2a liegen.
+<sup>1</sup> Wird auf eine Eigenstromproduktion ganz oder teilweise verzichtet, muss der Energiebedarf für Heizung, Warmwasser, Klima und Lüftung gegenüber dem Grenzwert gemäss Anhang 2a in folgenden Fällen wie folgt zusätzlich gesenkt werden:
+
+- 1\. bei einer Eigenstromproduktion unter 15 W/m² Energiebezugsfläche um 10.0 kWh/m² pro Jahr
+- 2\. bei einer Eigenstromproduktion von mindestens 15 W/m² und weniger als 30 W/m² Energiebezugsfläche um 5.0 kWh/m² pro Jahr
 
 ### 3.4. Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 
@@ -574,7 +624,7 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 **Ausrüstungspflicht**
 
-<sup>1</sup> Als ausrüstungspflichtige Neubauten und neue Gebäudegruppen im Sinne von § 9 des Gesetzes gelten alle Bauten und Gebäudegruppen, für die nach dem 1. Juli 2020 die Baubewilligung erteilt worden ist.
+<sup>1</sup> Als ausrüstungspflichtige Neubauten und neue Gebäudegruppen im Sinne von § 9 ENG gelten alle Bauten und Gebäudegruppen, für die nach dem 1. Juli 2020 die Baubewilligung erteilt worden ist.
 
 <sup>2</sup> Bei ausrüstungspflichtigen Bauten und Gebäudegruppen, für die zwischen dem 1. Juli 1988 und dem 1. Juli 2020 die Baubewilligung erteilt worden ist, ist der Wärmebedarf für Heizung und Warmwasser zu erfassen und verbrauchsabhängig abzurechnen.
 
@@ -603,16 +653,12 @@ vom 09.11.2010 (Stand 01.07.2020)
 
 <sup>1</sup> Bewilligungspflichtige Vorhaben, für die das Gesuch vor Inkrafttreten dieser Verordnung und der Gesetzesänderung vom 18. Dezember 2019 eingereicht worden ist, werden nach bisherigem Recht beurteilt.
 
-#### § 47
+<sup>2</sup> Bewilligungspflichtige Vorhaben der öffentlichen Hand gemäss Titel 1a, für die das Gesuch bis zum 30. Juni 2024 eingereicht wird, werden nach dem Recht in der Fassung vom 1. Juli 2020 beurteilt.
 
-**Aufhebung bisherigen Rechtes**
+<sup>3</sup> Bei bewilligungspflichtigen Neubauten mit Eigenstromerzeugung, für die das Gesuch bis zum 31. Dezember 2023 eingereicht wird, muss die installierte Elektrizitätserzeugungsanlage die Anforderung gemäss § 42e Abs. 1 in der Fassung vom 1. Juli 2020 erfüllen.
 
-<sup>1</sup> Die Verordnung des Regierungsrates zum Gesetz über die Energienutzung vom 15. Februar 2005 wird aufgehoben.
+#### § 47–48
 
-#### § 48
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung und das Gesetz vom 27. Oktober 2010 betreffend die Änderung des Gesetzes über die Energienutzung treten auf den 6. Februar 2011 in Kraft.
+**…**
 
 ABl. 12/2010
