@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "814.03"
-title: Verordnung des Regierungsrates zur Umweltschutzgesetzgebung
+title: Verordnung zur Umweltschutzgesetzgebung
 short: USGV
 language: de
-version: 2020-02-22
-valid_until: 2023-06-30
-version_adopted: 2020-02-18
+version: 2023-07-01
+version_adopted: 2023-06-13
 adopted: 2011-10-04
 in_force: 2011-12-31
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.03"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2245/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2687/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zur Umweltschutzgesetzgebung
+# Verordnung zur Umweltschutzgesetzgebung
 
 USGV
 
 (USGV)
 
-vom 04.10.2011 (Stand 22.02.2020)
+vom 04.10.2011 (Stand 01.07.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -151,14 +150,14 @@ vom 04.10.2011 (Stand 22.02.2020)
 
 <sup>1</sup> Die Politische Gemeinde:
 
-- 1\. stellt sicher, dass nur Anlagen installiert werden, die die Vorgaben der LRV und der Energieeffizienzverordnung (EnEV)[^14-1] erfüllen;
-- 2\. prüft bei kleingewerblichen Anlagen, für die keine Emissionsgrenzwerte festgelegt sind oder bei welchen die LRV eine bestimmte Begrenzung als nicht anwendbar erklärt, ob die Emissionsableitungen den Anforderungen der LRV entsprechen;
-- 3\. prüft bei Feuerungsanlagen für Heizöl «Extra leicht» und bei Feuerungsanlagen für Gas mit einer Feuerungswärmeleistung bis zu 1 Megawatt sowie bei Feuerungsanlagen für Kohle oder Holz mit einer Feuerungswärmeleistung bis zu 70 Kilowatt, ob die Emissionsableitungen den Anforderungen der LRV entsprechen;
-- 4\. unterzieht die Feuerungsanlagen gemäss Ziff. 3 einer periodischen Emissionsmessung und -kontrolle gemäss LRV und den Messempfehlungen Feuerungen des Bundesamtes für Umwelt und ordnet die erforderlichen Massnahmen an;
-- 5\. vollzieht das Verbot der Abfallverbrennung in Feuerungsanlagen gemäss Ziff. 3;
-- 6\. legt dem Amt für Umwelt jährlich in elektronischer Form Rechenschaft über die durchgeführten Kontrollen und Anordnungen ab;
-- 7\. führt unter Anleitung und zu Handen des Amtes für Umwelt Erhebungen über übermässige Rauch-, Russ-, Staub- oder Geruchsimmissionen auf ihrem Gebiet durch;
-- 8\. erlässt bei übermässigen Immissionen aus nicht bäuerlichen oder gewerblichen Tierhaltungen oder aus deren Hofdüngerlager in Zusammenarbeit mit dem Amt für Umwelt die erforderlichen Anordnungen zur Geruchsminderung.
+- 1\. stellt sicher, dass nur Anlagen installiert werden, die die Vorgaben der LRV und der Energieeffizienzverordnung (EnEV)[^14-1] erfüllen
+- 2\. prüft bei kleingewerblichen Anlagen, für die keine Emissionsgrenzwerte festgelegt sind oder bei welchen die LRV eine bestimmte Begrenzung als nicht anwendbar erklärt, ob die Emissionsableitungen den Anforderungen der LRV entsprechen
+- 3\. prüft bei Feuerungsanlagen für Heizöl «Extra leicht» und bei Feuerungsanlagen für Gas mit einer Feuerungswärmeleistung bis zu 1 Megawatt sowie bei Feuerungsanlagen für Kohle oder Holz mit einer Feuerungswärmeleistung bis zu 70 Kilowatt, ob die Emissionsableitungen den Anforderungen der LRV entsprechen
+- 4\. unterzieht die Feuerungsanlagen gemäss Ziff. 3 einer periodischen Emissionsmessung und -kontrolle gemäss LRV und den Messempfehlungen Feuerungen des Bundesamtes für Umwelt und ordnet die erforderlichen Massnahmen an
+- 5\. vollzieht das Verbot der Abfallverbrennung in Feuerungsanlagen gemäss Ziff. 3
+- 6\. legt dem Amt für Umwelt jährlich in elektronischer Form Rechenschaft über die durchgeführten Kontrollen und Anordnungen ab
+- 7\. führt unter Anleitung und zu Handen des Amtes für Umwelt Erhebungen über übermässige Rauch-, Russ-, Staub- oder Geruchsimmissionen auf ihrem Gebiet durch
+- 8\. erlässt bei übermässigen Immissionen aus nicht bäuerlichen oder gewerblichen Tierhaltungen oder aus deren Hofdüngerlager in Zusammenarbeit mit dem Amt für Umwelt die erforderlichen Anordnungen zur Geruchsminderung
 
 <sup>2</sup> Sie erhebt für ihre Kontrolltätigkeit und Sanierungsverfügungen kostendeckende Gebühren.
 
@@ -194,11 +193,9 @@ vom 04.10.2011 (Stand 22.02.2020)
 
 <sup>1</sup> Wer eine Anlage, die Luftverunreinigungen verursacht, errichten oder umbauen will, hat die Emissionserklärung nach Art. 12 LRV entweder mit dem Gesuch um Feuerschutzbewilligung oder mit dem Bau- oder Plangenehmigungsgesuch einzureichen.
 
-<sup>2</sup> Soweit es sich um Feuerungsanlagen für Heizöl «Extra leicht» oder Gas bis 1 Megawatt oder für Kohle oder Holz bis 70 Kilowatt Feuerungswärmeleistung handelt, genügen die Angaben des energetischen Nachweises respektive der Deklaration gemäss EnEV[^18-1].
+<sup>2</sup> Soweit es sich um Feuerungsanlagen für Heizöl «Extra leicht» oder Gas bis 1 Megawatt oder für Kohle oder Holz bis 70 Kilowatt Feuerungswärmeleistung handelt, genügen die Angaben des energetischen Nachweises respektive der Deklaration gemäss EnEV.
 
 <sup>3</sup> Soweit die Politische Gemeinde nicht abschliessend zuständig ist, leitet sie die Gesuche an das Amt für Raumentwicklung weiter.
-
-[^18-1]: SR [730.02](https://db.clex.ch/link/Bund/730.02/de)
 
 #### § 19
 
@@ -216,7 +213,7 @@ vom 04.10.2011 (Stand 22.02.2020)
 
 <sup>2</sup> Für spezielle Gas- und Ölfeuerungen wie Lufterhitzer, Dampfkessel und andere Prozessfeuerungen mit einer Feuerungswärmeleistung bis 350 Kilowatt, die nicht in Art. 20 LRV genannt sind, gelten für Stickoxide und Kohlenmonoxid die Emissionsgrenzwerte gemäss Anhang 3 Ziff. 411 und Ziff. 61 LRV.
 
-<sup>3</sup> Auf begründetes Gesuch kann das Amt für Umwelt Ausnahmen gewähren, soweit die Einhaltung der Werte gemäss Abs. 1 und Abs. 2 aus technischen oder betrieblichen Gründen nicht möglich oder wirtschaftlich nicht tragbar ist. Die Abgasverluste bei Wärmeerzeugern nach Abs. 1 dürfen die maximalen Werte nach Anhang 2 der Verordnung des Regierungsrates zum Gesetz über die Energienutzung[^20-1] nicht überschreiten.
+<sup>3</sup> Auf begründetes Gesuch kann das Amt für Umwelt Ausnahmen gewähren, soweit die Einhaltung der Werte gemäss Abs. 1 und Abs. 2 aus technischen oder betrieblichen Gründen nicht möglich oder wirtschaftlich nicht tragbar ist. Die Abgasverluste bei Wärmeerzeugern nach Abs. 1 dürfen die maximalen Werte nach Anhang 2 der Verordnung zum Gesetz über die Energienutzung (ENV)[^20-1] nicht überschreiten.
 
 [^20-1]: RB [731.11](https://www.rechtsbuch.tg.ch/data/731.11/de)
 
@@ -280,11 +277,10 @@ vom 04.10.2011 (Stand 22.02.2020)
 
 <sup>4</sup> Im Sanierungsplan oder im Entscheid ist die Kostenpflicht festzulegen.
 
-<sup>5</sup> Die Bewilligungspflicht für Schallschutzmassnahmen am Gebäude richtet sich nach dem Planungs- und Baugesetz (PBG)[^27-3].
+<sup>5</sup> …
 
 [^27-1]: RB [725.1](https://www.rechtsbuch.tg.ch/data/725.1/de)
 [^27-2]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
-[^27-3]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
 
 ### 6.2. Baubewilligung und Nutzungsplanung
 
@@ -419,16 +415,8 @@ vom 04.10.2011 (Stand 22.02.2020)
 
 <sup>1</sup> Bei Inkrafttreten dieser Verordnung hängige Verfahren sind nach bisherigem Recht zu beurteilen.
 
-#### § 43–44
+#### § 43–45
 
 **…**
-
-#### § 45
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt nach Genehmigung des Bundes mit der Publikation im Amtsblatt in Kraft[^45-1].
-
-[^45-1]: Vom Bund genehmigt am 25. November 2011, in Kraft getreten am 31. Dezember 2011.
 
 52/2011
