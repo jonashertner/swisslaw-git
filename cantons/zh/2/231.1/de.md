@@ -4,11 +4,11 @@ number: "231.1"
 title: Kantonale Zivilstandsverordnung (ZVO)
 short: ZVO
 language: de
-version: "2019-07-01"
-nachtrag: "119"
-valid_until: 2023-07-01
+version: "2023-07-01"
+nachtrag: "121"
+valid_until: 2023-08-25
 adopted: 2004-12-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-231_1-2004_12_01-2005_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-231_1-2004_12_01-2005_01_01-121.html"
 text: pdf
 ---
 
@@ -72,7 +72,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
 <sup>4</sup> Die Sitzgemeinde des Zivilstandsamtes meldet dem Gemeindeamt die Lokale für Trauungen und für die Beurkundung von eingetragenen Partnerschaften vor ihrer Benützung.
 
@@ -186,7 +186,7 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
 [^11-1]: Aufgehoben durch RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 [^11-2]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
@@ -297,7 +297,7 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 **5**
 
-- 1\. 1. 23 - 119 § 22. Die Zivilstandsverordnung vom 29. November 2000 wird aufgehoben.
+- 1\. 7. 23 - 121 § 22. Die Zivilstandsverordnung vom 29. November 2000 wird aufgehoben.
 
 [^hHSchlussbestimmung-1]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 
@@ -346,21 +346,21 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 ### Name: Sitz: Beteiligte Gemeinden:
 
-Affoltern Affoltern a. A. Aeugst a. A., Affoltern a. A., Bonstetten, Hausen a. A., Hedingen, Kappel a. A., Knonau, Maschwanden, Mettmenstetten,
+[^hNameSitzBeteilig-1]: Aufgehoben durch RRB vom 19. April 2023 (OS 78, 217; ABl 2023-04-28). In Kraft seit 1. Juli 2023. 1. 7. 23 - 121 7
 
-### Obfelden, Ottenbach, Rifferswil, Stallikon
+### Affoltern
 
-und Wettswil a. A.
+[^hNameSitzBeteilig-1]
 
-[^hObfeldenOttenbach-1]: Die Gemeinde Sternenberg wurde nach dem Zusammenschluss mit der Gemeinde Bauma auf 1. Januar 2015 aus der Liste entfernt.
+[^hAffolternhNameSitz-1]: Die Gemeinde Sternenberg wurde nach dem Zusammenschluss mit der Gemeinde Bauma auf 1. Januar 2015 aus der Liste entfernt.
 
 ### Bauma Bauma Bäretswil, Bauma, Fischenthal und Wila
 
-[^hObfeldenOttenbach-1]
+[^hAffolternhNameSitz-1]
 
-Bezirk Kleinandelfingen Andelfingen, Benken, Berg a. I., Andelfingen[^hBaumahObfeldenOtte-1], <sup>26</sup> Buch a. I., Dachsen, Dorf, Feuerthalen, Flaach, Flurlingen, Henggart, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Rheinau, Stammheim, Thalheim a. d. Th., Trüllikon,
+Bezirk Kleinandelfingen Andelfingen, Benken, Berg a. I., Andelfingen[^hBaumahAffolternhNa-1], <sup>26</sup> Buch a. I., Dachsen, Dorf, Feuerthalen, Flaach, Flurlingen, Henggart, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Rheinau, Stammheim, Thalheim a. d. Th., Trüllikon,
 
-[^hBaumahObfeldenOtte-1]: Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
+[^hBaumahAffolternhNa-1]: Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
 
 ### Truttikon und Volken
 
@@ -376,7 +376,9 @@ Dielsdorf Dielsdorf Bachs, Dielsdorf, Neerach, Niederglatt, Niederhasli, Niederw
 
 Dietikon Dietikon Aesch, Bergdietikon (AG), Birmensdorf, Dietikon, Geroldswil, Oberengstringen, Oetwil a. d. L., Schlieren, Uitikon,
 
-### Unterengstringen, Urdorf und Weiningen Dübendorf Dübendorf Dübendorf, Fällanden, Maur, Wallisellen
+### Unterengstringen, Urdorf und Weiningen
+
+### Dübendorf Dübendorf Dübendorf, Fällanden, Maur, Wallisellen
 
 und Wangen-Brüttisellen
 
@@ -385,15 +387,24 @@ Furttal Regensdorf Boppelsen, Buchs, Dällikon, Dänikon,
 ### Hüttikon, Otelfingen und Regensdorf
 
 [^hHüttikonOtelfingen-1]: Die Gemeinde Hirzel wurde nach dem Zusammenschluss mit der Gemeinde Horgen auf 1. Januar 2018 aus der Liste entfernt.
-[^hHüttikonOtelfingen-2]: Die Gemeinde Kyburg wurde nach dem Zusammenschluss mit der Gemeinde Illnau-Effretikon auf 1. Januar 2016 aus der Liste entfernt.
 
-### Name: Sitz: Beteiligte Gemeinden: Horgen Horgen Horgen und Oberrieden Illnau-Effretikon Illnau-Effretikon Illnau-Effretikon, Lindau und Weisslingen
+### Horgen Horgen Horgen und Oberrieden
 
-[^hHüttikonOtelfingen-1][^hHüttikonOtelfingen-2]
+[^hHüttikonOtelfingen-1]
+
+[^hHorgenhHüttikonOte-1]: Die Gemeinde Kyburg wurde nach dem Zusammenschluss mit der Gemeinde Illnau-Effretikon auf 1. Januar 2016 aus der Liste entfernt.
+
+### Illnau-Effretikon Illnau-Effretikon Illnau-Effretikon, Lindau und Weisslingen
+
+[^hHorgenhHüttikonOte-1]
+
+### Name: Sitz: Beteiligte Gemeinden:
 
 Kloten Kloten Bassersdorf, Dietlikon, Kloten, Nürensdorf,
 
-### Opfikon und Rümlang Küsnacht Küsnacht Erlenbach, Herrliberg, Küsnacht und Zumikon
+### Opfikon und Rümlang
+
+### Küsnacht Küsnacht Erlenbach, Herrliberg, Küsnacht und Zumikon
 
 Männedorf Männedorf Hombrechtikon, Männedorf, Meilen, Oetwil a. S., Stäfa und Uetikon a. S.
 
@@ -403,29 +414,45 @@ und Wildberg
 
 ### Rüti Rüti Bubikon, Dürnten, Rüti und Wald
 
-Sihltal Adliswil Adliswil und Langnau a. A.
+Sihltal-Albis[^hRütiRütiBubikonD-1] Adliswil Adliswil, Aeugst a. A., Affoltern a. A., Bonstetten, Hausen a. A., Hedingen, Kappel a. A., Knonau, Langnau a. A., Maschwanden, Mettmenstetten,
 
-[^hRütiRütiBubikonD-1]: Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
+[^hRütiRütiBubikonD-1]: Fassung gemäss RRB vom 19. April 2023 (OS 78, 217; ABl 2023-04-28). In Kraft seit 1. Juli 2023.
 
-### Thalwil- Thalwil Kilchberg, Rüschlikon und Thalwil Rüschlikon-Kilchberg Uster Uster Egg, Mönchaltorf und Uster Volketswil Volketswil Greifensee, Schwerzenbach und Volketswil Wädenswil Wädenswil Richterswil und Wädenswil Wetzikon Wetzikon Gossau, Grüningen, Hinwil, Seegräben
+### Obfelden, Ottenbach, Rifferswil, Stallikon
 
-[^hRütiRütiBubikonD-1]
+und Wettswil a. A.
+
+### Thalwil- Thalwil Kilchberg, Rüschlikon und Thalwil Rüschlikon-Kilchberg
+
+### Uster Uster Egg, Mönchaltorf und Uster
+
+### Volketswil Volketswil Greifensee, Schwerzenbach und Volketswil
+
+[^hVolketswilVolketswi-1]: Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
+
+### Wädenswil Wädenswil Richterswil und Wädenswil
+
+[^hVolketswilVolketswi-1]
+
+### Wetzikon Wetzikon Gossau, Grüningen, Hinwil, Seegräben
 
 und Wetzikon
 
-Winterthur[^hThalwilThalwilKil-1], <sup>21</sup> Winterthur Altikon, Brütten, Dägerlen, Dättlikon, Dinhard, Elgg, Ellikon an der Thur, Elsau, Hagenbuch, Hettlingen, Neftenbach, Pfungen, Rickenbach, Schlatt, Seuzach,
+Winterthur[^hWetzikonWetzikonGo-1], <sup>21</sup> Winterthur Altikon, Brütten, Dägerlen, Dättlikon, Dinhard, Elgg, Ellikon an der Thur, Elsau, Hagenbuch, Hettlingen, Neftenbach, Pfungen, Rickenbach, Schlatt, Seuzach,
 
-[^hThalwilThalwilKil-1]: Die Gemeinde Bertschikon wurde nach dem Zusammenschluss mit der Gemeinde Wiesendangen auf 1. Januar 2014 aus der Liste entfernt.
+[^hWetzikonWetzikonGo-1]: Die Gemeinde Bertschikon wurde nach dem Zusammenschluss mit der Gemeinde Wiesendangen auf 1. Januar 2014 aus der Liste entfernt.
 
 ### Turbenthal, Wiesendangen, Winterthur
 
 und Zell
 
-### Zollikon Zollikon Zollikon Zürich Zürich Zürich
+### Zollikon Zollikon Zollikon
+
+### Zürich Zürich Zürich
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
 ## Weitere Fussnoten
 
@@ -434,4 +461,4 @@ und Zell
 - [8] Eingefügt durch RRB vom 17. Dezember 2008 (OS 64, 220; ABl 2009, 661). In Kraft seit 1. Januar 2009.
 - [9] Fassung gemäss RRB vom 17. Dezember 2008 (OS 64, 220; ABl 2009, 661). In Kraft seit 1. Januar 2009.
 - [21] Die Gemeinde Hofstetten wurde nach dem Zusammenschluss mit der Gemeinde Elgg auf 1. Januar 2018 aus der Liste entfernt.
-- [26] Die Gemeinden Humlikon und Adlikon wurden nach dem Zusammenschluss mit der Gemeinde Andelfingen auf 1. Januar 2023 aus der Liste entfernt. 1. 1. 23 - 119 7
+- [26] Die Gemeinden Humlikon und Adlikon wurden nach dem Zusammenschluss mit der Gemeinde Andelfingen auf 1. Januar 2023 aus der Liste entfernt.
