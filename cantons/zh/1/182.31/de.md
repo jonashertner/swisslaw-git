@@ -4,19 +4,19 @@ number: "182.31"
 title: Geschäftsordnung der Synode der Römisch-katholischen Körperschaft des Kantons Zürich (GOS)
 short: GOS
 language: de
-version: "2019-06-01"
-nachtrag: "106"
-valid_until: 2023-07-01
+version: "2023-07-01"
+nachtrag: "122"
+valid_until: 2024-01-01
 adopted: 2009-10-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_31-2009_10_01-2010_01_01-106.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_31-2009_10_01-2010_01_01-122.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Geschäftsordnung der Synode der Römisch-katholischen Körperschaft des Kantons Zürich
+# Geschäftsordnung der Synode der Römisch-katholischen Körperschaft des Kantons Zürich (GOS)
 
-(vom 1. Oktober 2009)[^t-1]
+(vom 1. Oktober 2009)[^t-2][^t-1]
 
 Die Synode der Römisch-katholischen Körperschaft,
 
@@ -24,7 +24,8 @@ nach Einsichtnahme in den Bericht und Antrag des Büros der Synode vom 2. Septem
 
 beschliesst:
 
-[^t-1]: OS 64, 829.
+[^t-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^t-2]: OS 64, 829.
 
 ### I. Einberufung und Konstituierung
 
@@ -56,7 +57,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Danach wählt die Synode die Vizepräsidentin oder den Vizepräsidenten und weitere fünf Mitglieder der Geschäftsleitung auf die Amtsdauer der Synode.
 
@@ -78,26 +79,25 @@ beschliesst:
 
 ### II. Wahlgeschäfte der Synode
 
-#### § 5
+**Wahl des  Synodalrates und übrige Wahlen**
 
-**Wahl des Synodalrates und übrige Wahlen**
+§ 5.[^hIIWahlgeschäftede-1] <sup>1</sup> Die Synode wählt auf ihre Amtsdauer:
 
-<sup>1</sup> Die Synode wählt auf ihre Amtsdauer:
-
-a.[^5-1] die Mitglieder der Geschäftsprüfungskommission und der Finanzkommission sowie der weiteren ständigen Kommissionen und deren Präsidentinnen oder Präsidenten;
+a.[^hIIWahlgeschäftede-2] die Mitglieder der Geschäftsprüfungskommission und der Finanzkommission sowie der weiteren ständigen Kommissionen und deren Präsidentinnen oder Präsidenten;
 
 - b. die Mitglieder des Synodalrates und seine Präsidentin oder seinen Präsidenten,
 
-- c. die Ombudspersonen der Personalombudsstelle,
+- c. ihre Vertretung in Organisationen.
 
-- d. ihre Vertretung in Organisationen.
+<sup>2</sup> Die Synode wählt in der Mitte ihrer Amtsdauer auf vier Jahre:[^hIIWahlgeschäftede-3] a. die Mitglieder der Rekurskommission und ihre Präsidentin oder ihren Präsidenten,
 
-<sup>2</sup> Die Synode wählt in der Mitte ihrer Amtsdauer auf vier Jahre:[^5-2] a. die Mitglieder der Rekurskommission und ihre Präsidentin oder ihren Präsidenten,
+- b. auf Vorschlag des Synodalrates die Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände,
 
-- b. auf Vorschlag des Synodalrates die Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände.
+- c. die Ombudspersonen der Personalombudsstelle.
 
-[^5-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
-[^5-2]: Fassung gemäss B vom 7. Dezember 2017 (OS 73, 77; ABl 2017-12-22). In Kraft seit 1. März 2018.
+[^hIIWahlgeschäftede-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^hIIWahlgeschäftede-2]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^hIIWahlgeschäftede-3]: Fassung gemäss B vom 7. Dezember 2017 (OS 73, 77; ABl 2017-12-22). In Kraft seit 1. März 2018.
 
 #### § 6
 
@@ -105,17 +105,27 @@ a.[^5-1] die Mitglieder der Geschäftsprüfungskommission und der Finanzkommissi
 
 Nach erfolgter Wahl leisten die Mitglieder des Synodalrates und der Rekurskommission das Amtsgelübde gemäss § 4.
 
-### III. Synodensitzungen
+[^6-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+
+### III. Synoden-Sitzungen
+
+[^6-1]
 
 **Einladung**
 
-§ 7.[^hIIISynodensitzunge-1] <sup>1</sup> Die Einladung ist den Mitgliedern der Synode und allen Eingeladenen in der Regel vier Wochen vor der Sitzung zuzustellen.
+§ 7.[^hIIISynodenSitzung-1] <sup>1</sup> Die Einladung ist den Mitgliedern der Synode und allen Eingeladenen in der Regel vier Wochen vor der Sitzung zuzustellen.
 
 <sup>2</sup> Die Traktandenliste mit den zu behandelnden Geschäften, Anträgen und Berichten ist den Mitgliedern der Synode und allen Eingeladenen in der Regel zwei Wochen vor der Sitzung zuzustellen. Kann diese Vorschrift bei einem Geschäft nicht eingehalten werden, ist dessen Behandlung auf Begehren von mindestens 20 Mitgliedern der Synode auf eine spätere Sitzung zu verschieben.
 
-<sup>3</sup> Der Versand der Dokumente erfolgt in der Regel elektronisch. Die Mitglieder der Synode haben das Recht auf einen Versand der Dokumente in Papierform.
+<sup>3</sup> Der Versand der Dokumente erfolgt elektronisch. Die Mitglieder der Synode können den Versand der Dokumente in Papierform bei der Geschäftsleitung verlangen.[^hIIISynodenSitzung-2]
 
-[^hIIISynodensitzunge-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+**Parlamentsbetrieb in ausser- ordentlichen und besonderen Lagen**
+
+§ 7 a.[^hIIISynodenSitzung-3] In von staatlichen Behörden ausgerufenen ausserordentlichen und besonderen Lagen entscheidet die Geschäftsleitung der Synode im Rahmen der übergeordneten Vorgaben über den Parlamentsbetrieb sowie die allfällige Inanspruchnahme technischer Hilfsmittel für Abstimmungen zu Sachvorlagen.
+
+[^hIIISynodenSitzung-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^hIIISynodenSitzung-2]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^hIIISynodenSitzung-3]: Eingefügt durch B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 #### § 8
 
@@ -141,15 +151,19 @@ Nach erfolgter Wahl leisten die Mitglieder des Synodalrates und der Rekurskommis
 
 <sup>1</sup> Die Synode ist verhandlungsfähig, wenn mehr als die Hälfte der Mitglieder anwesend ist.
 
-<sup>2</sup> Scheint dies nicht mehr gewährleistet zu sein, veranlasst die Präsidentin oder der Präsident von sich aus oder auf Antrag eines Mitgliedes die Anwesenden zu zählen oder einen Namensaufruf vorzunehmen.
-
 **3**
 
-- 1\. 7. 19 - 105 § 11. <sup>1</sup> Die Mitglieder der Synode treten in den Ausstand, wenn sie mit einem Geschäft im Einzelfall unmittelbar persönlich betroffen sind. Dies betrifft die Angelegenheiten[^10-1]
+- 1\. 7. 23 - 121
+
+<sup>2</sup> Scheint dies nicht mehr gewährleistet zu sein, veranlasst die Präsidentin oder der Präsident von sich aus oder auf Antrag eines Mitgliedes die Anwesenden zu zählen oder einen Namensaufruf vorzunehmen.
+
+[^10-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+
+#### § 11
 
 **Ausstand**
 
-- a. in eigener Sache;
+<sup>1</sup> Die Mitglieder der Synode treten in den Ausstand, wenn sie mit einem Geschäft im Einzelfall unmittelbar persönlich betroffen sind. Dies betrifft die Angelegenheiten[^10-1] a. in eigener Sache;
 
 - b. einer ihnen infolge Verwandtschaft, Schwägerschaft oder in ähnlicher Weise nahestehenden Person.
 
@@ -159,19 +173,20 @@ Nach erfolgter Wahl leisten die Mitglieder des Synodalrates und der Rekurskommis
 
 **Öffentlichkeit**
 
-§ 12.[^10-1] <sup>1</sup> Die Verhandlungen der Synode sind öffentlich. Ton- und Bildaufnahmen im Saal und auf der Tribüne sind nur mit Erlaubnis der Präsidentin oder des Präsidenten zulässig.
+§ 12.[^11-1] <sup>1</sup> Die Verhandlungen der Synode sind öffentlich. Ton- und Bildaufnahmen im Saal und auf der Tribüne sind nur mit Erlaubnis der Präsidentin oder des Präsidenten zulässig.
 
 <sup>2</sup> Die Synode kann die Öffentlichkeit aus Persönlichkeitsschutz- oder Sicherheitsgründen ausschliessen. Der Antrag über den Ausschluss der Öffentlichkeit wird geheim verhandelt.
 
 <sup>3</sup> Die Kommunikationsstelle der Katholischen Kirche im Kanton Zürich informiert die Öffentlichkeit über die Verhandlungen der Synode.
 
-[^10-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^11-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^11-2]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 #### § 13
 
 **Publikum**
 
-<sup>1</sup> Dem Publikum werden im Verhandlungsraum besondere von der Versammlung getrennte Plätze zugewiesen. Im Ratssaal steht ihnen die Tribüne zur Verfügung.
+<sup>1</sup> Dem Publikum werden im Verhandlungsraum besondere von der Versammlung getrennte Plätze zugewiesen.[^11-2]
 
 <sup>2</sup> Das Publikum hat sich jeder Äusserung des Beifalls oder der Missbilligung zu enthalten. Die Präsidentin oder der Präsident kann Zuwiderhandelnde aus dem Saal weisen.
 
@@ -211,11 +226,9 @@ Nach erfolgter Wahl leisten die Mitglieder des Synodalrates und der Rekurskommis
 
 <sup>4</sup> Das Sekretariat des Synodalrates steht der Geschäftsleitung nach Absprache mit der Präsidentin oder dem Präsidenten des Synodalrates zur Verfügung.
 
-**Aufgaben der Geschäftsleitung**
+**Aufgaben  der Geschäftsleitung**
 
-§ 17.[^16-1] <sup>1</sup> Der Geschäftsleitung kommen zu:
-
-- a. die Vertretung der Synode nach aussen,
+§ 17.[^16-1] <sup>1</sup> Der Geschäftsleitung kommen zu:[^16-2] a. die Vertretung der Synode nach aussen,
 
 - b. die Planung und Zuweisung der zur Beratung anstehenden Geschäfte an die Kommissionen, unter Berücksichtigung der Planung des Synodalrates,
 
@@ -233,33 +246,36 @@ Nach erfolgter Wahl leisten die Mitglieder des Synodalrates und der Rekurskommis
 
 - i. die Entgegennahme von Rücktritten von Mitgliedern der Synode,
 
-- j. die Entgegennahme von Rücktritten von Mitgliedern der Geschäftsleitung sowie von Mitgliedern ständiger Kommissionen, k.[^16-2]
-
-- l. die Entgegennahme von Rücktritten von Mitgliedern des Synodalrates sowie der Rekurskommission,
-
-- m. die Antragstellung auf Revision der Kirchenordnung[^16-3] und Geschäftsordnung sowie weiterer Erlasse von grundlegender Bedeutung,
+- j. die Entgegennahme von Rücktritten von Mitgliedern der Geschäftsleitung sowie von Mitgliedern ständiger Kommissionen, k.[^16-3]
 
 **5**
 
-- 1\. 7. 19 - 105
+- 1\. 7. 23 - 121
 
-- n. die Sicherstellung des Informationsflusses zwischen ihr, den Kommissionen und den Fraktionspräsidien sowie zwischen den Kommissionen untereinander,
+- l. die Entgegennahme von Rücktritten von Mitgliedern des Synodalrates, der Rekurskommission sowie der Personalombudsstelle,
 
-- o. die Sicherstellung des Informationsflusses zwischen ihr und dem Synodalrat,
+- m. die Entgegennahme von Rücktritten von Mitgliedern der Aufsichtskommission zur Weiterleitung für die weitere Behandlung durch den Synodalrat,
 
-- p. die Sicherstellung des Informationsflusses an die Mitglieder der Synode,
+- n. die Antragstellung auf Revision der Kirchenordnung[^16-4] und Geschäftsordnung sowie weiterer Erlasse von grundlegender Bedeutung,
 
-- q. die interne Aus- und Weiterbildung der Mitglieder der Synode für die parlamentarische Arbeit.
+- o. die Sicherstellung des Informationsflusses zwischen ihr, den Kommissionen und den Fraktionspräsidien sowie zwischen den Kommissionen untereinander,
+
+- p. die Sicherstellung des Informationsflusses zwischen ihr und dem Synodalrat,
+
+- q. die Sicherstellung des Informationsflusses an die Mitglieder der Synode,
+
+- r. die interne Aus- und Weiterbildung der Mitglieder der Synode für die parlamentarische Arbeit.
 
 <sup>2</sup> Die Geschäftsleitung kann in eigener Kompetenz im Rahmen des bewilligten Budgets Sachverständige beiziehen.
 
 [^16-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
-[^16-2]: Aufgehoben durch B vom 7. Dezember 2017 (OS 73, 77; ABl 2017-12-22). In Kraft seit 1. März 2018.
-[^16-3]: LS 182.10.
+[^16-2]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^16-3]: Aufgehoben durch B vom 7. Dezember 2017 (OS 73, 77; ABl 2017-12-22). In Kraft seit 1. März 2018.
+[^16-4]: LS 182.10.
 
 #### § 18
 
-**Aufgaben der Präsidentin oder des Präsidenten**
+**Aufgaben der Präsidentin oder des Präsidenten**
 
 <sup>1</sup> Der Präsidentin oder dem Präsidenten kommen zu:
 
@@ -273,7 +289,7 @@ Nach erfolgter Wahl leisten die Mitglieder des Synodalrates und der Rekurskommis
 
 <sup>2</sup> Sie oder er eröffnet der Geschäftsleitung sämtliche an die Synode gerichteten Schreiben und setzt die Versammlung in geeigneter Weise davon in Kenntnis.[^18-1]
 
-**Vertretung im Vorsitz**
+**Vertretung  im Vorsitz**
 
 § 19. Bei Verhinderung der Präsidentin oder des Präsidenten übernimmt die Vizepräsidentin oder der Vizepräsident den Vorsitz; sind beide verhindert, bezeichnet die Synode eine Tagespräsidentin oder einen Tagespräsidenten.
 
@@ -299,25 +315,22 @@ Die Präsidentin oder der Präsident, bei Verhinderung die Stellvertretung, unte
 
 <sup>1</sup> Über die Verhandlungen der Synode, der Geschäftsleitung und der Kommissionen werden Protokolle geführt.
 
-<sup>2</sup> Die Kommissionsprotokolle werden den Kommissionsmitgliedern, den Mitgliedern der Geschäftsleitung sowie den Kommissions- und Fraktionspräsidien zugestellt. Aussenstehende Sitzungsteilnehmende erhalten einen Protokollauszug.
+<sup>2</sup> Die Kommissionsprotokolle werden den Mitgliedern der Geschäftsleitung und der Kommissionen sowie den Fraktionspräsidien zugestellt. Aussenstehende Sitzungsteilnehmende erhalten einen Protokollauszug.[^22-1]
 
-**Protokolle der Synode Beschlussprotokoll**
+**Protokolle  der Synode Beschlussprotokoll**
 
-§ 23.[^22-1] Das Beschlussprotokoll enthält die an der Sitzung behandelten Geschäfte, die gestellten Anträge sowie die Ergebnisse der Abstimmungen und Wahlen. Es wird nach der Sitzung innert angemessener Frist erstellt und verteilt.
-
-[^22-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
-
-#### § 24
+§ 23.[^22-2] Das Beschlussprotokoll enthält die an der Sitzung behandelten Geschäfte, die gestellten Anträge sowie die Ergebnisse der Abstimmungen und Wahlen. Es wird nach der Sitzung innert angemessener Frist erstellt und verteilt.
 
 **Substanzielles Protokoll**
 
-<sup>1</sup> Das substanzielle Protokoll enthält alle Geschäfte, die gefassten Beschlüsse sowie den wesentlichen Inhalt der Voten, die zusätzlich eingebrachten Anträge und die entsprechenden Beschlüsse, die Art ihrer Erledigung sowie die ausgesprochenen Disziplinarmassnahmen.
+§ 24.[^22-1] <sup>1</sup> Das substanzielle Protokoll enthält alle Geschäfte, die gefassten Beschlüsse sowie den Inhalt der Voten, die zusätzlich eingebrachten Anträge und die entsprechenden Beschlüsse, die Art ihrer Erledigung sowie die ausgesprochenen Disziplinarmassnahmen.
 
-<sup>2</sup> Wird ein Antrag von einer nichtständigen Kommission beraten, ist im Protokoll die personelle Zusammensetzung dieser Kommission aufzuführen.[^24-1]
+<sup>2</sup> Wird ein Antrag von einer nichtständigen Kommission beraten, ist im Protokoll die personelle Zusammensetzung dieser Kommission aufzuführen.[^22-2]
 
-<sup>3</sup> Das Protokoll wird innert dreier Monate nach der Synoden-Sitzung erstellt.
+<sup>3</sup> Das Protokoll wird in der Regel innert dreier Monate nach der Synoden-Sitzung erstellt.
 
-[^24-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^22-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^22-2]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
 
 #### § 25
 
@@ -335,11 +348,13 @@ Die Präsidentin oder der Präsident, bei Verhinderung die Stellvertretung, unte
 
 Die Protokolle der Synode sind von der Geschäftsleitung zu genehmigen. Über Einwände gegen die Richtigkeit des Protokolls entscheidet die Geschäftsleitung. Der Entscheid kann an die Synode weiter gezogen werden.
 
+[^26-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+
 #### § 27
 
-**Empfänger**
+**Zustellung**
 
-<sup>1</sup> Das Beschlussprotokoll wird den Mitgliedern der Synode und des Synodalrates, den eingeladenen Personen, sowie den Präsidien der Kirchenpflegen zugestellt. Über die Zustellung an weitere Empfänger entscheidet die Geschäftsleitung.
+<sup>1</sup> Das Beschlussprotokoll wird den Mitgliedern der Synode und des Synodalrates, den eingeladenen Personen sowie den Präsidien der Kirchenpflegen in elektronischer Form zugestellt. Über die Zustellung an weitere Empfängerinnen und Empfänger entscheidet die Geschäftsleitung.[^26-1]
 
 <sup>2</sup> Das Beschlussprotokoll sowie das substanzielle Protokoll stehen der Öffentlichkeit zudem in elektronischer Form zur Verfügung.
 
@@ -351,7 +366,7 @@ Den Mitgliedern der Synode steht das Recht zu, Protokolle und Akten der Synode u
 
 **7**
 
-- 1\. 7. 19 - 105
+- 1\. 7. 23 - 121
 
 ### V. Kommissionen
 
@@ -361,9 +376,11 @@ Den Mitgliedern der Synode steht das Recht zu, Protokolle und Akten der Synode u
 
 <sup>1</sup> Aufsichtskommissionen sind die Geschäftsprüfungskommission und die Finanzkommission.
 
-<sup>2</sup> Sachkommissionen sind die Kommission für Bildung/Medien/ Soziales (BiMeSo) und die Kommission für Seelsorge (SeSo).
+<sup>2</sup> Sachkommissionen sind die Kommission für Bildung und Soziales (BiSo) und die Kommission für Seelsorge und Medien (SeMe).[^29-1]
 
 <sup>3</sup> Die ständigen Kommissionen bestehen aus je sieben Mitgliedern. Die Synode kann weitere Sachkommissionen schaffen oder bestehende auflösen.
+
+[^29-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 #### § 30
 
@@ -389,58 +406,65 @@ Die Geschäftsleitung kann Geschäfte einer ständigen oder einer nichtständige
 
 Für die Teilnahme der Mitglieder des Synodalrates an den Sitzungen der Kommissionen findet Art. 26 Abs. 2 der Kirchenordnung[^31-1] Anwendung.
 
-#### § 33
-
 **Aufsichtskommissionen; Geschäftsprüfungskommission**
 
-Die Geschäftsprüfungskommission prüft:
+§ 33.[^32-1] <sup>1</sup> Die Geschäftsprüfungskommission prüft:
 
-- a. den Jahresbericht des Synodalrates, der Rekurskommission und der Personalombudsstelle der Römisch-katholischen Körperschaft,
+- a. im Rahmen der parlamentarischen Oberaufsicht die Geschäftsführung des Synodalrates und der Verwaltung, der Rekurskommission und der Personalombudsstelle,
 
-- b. den Vollzug der von der Synode dem Synodalrat überwiesenen Geschäfte,
+- b. den Jahresbericht des Synodalrates, der Rekurskommission und der Personalombudsstelle der Römisch-katholischen Körperschaft,
 
-- c. die ihr von der Synode übertragenen Geschäfte.
+- c. den Vollzug der von der Synode dem Synodalrat überwiesenen Geschäfte,
 
-#### § 34
+- d. die ihr von der Synode übertragenen Geschäfte.
+
+<sup>2</sup> Zu einer Überprüfung der Entscheide der Rekurskommission in tatsächlicher und rechtlicher Hinsicht ist die Geschäftsprüfungskommission nicht befugt.
 
 **Finanzkommission**
 
-<sup>1</sup> Die Finanzkommission prüft:
+§ 34.[^32-1] <sup>1</sup> Die Finanzkommission prüft:
 
-- a. die Jahresrechnung der Zentralkasse sowie aller dem Synodalrat unterstehenden Verwaltungen, Fonds und Stiftungen auf ihre Richtigkeit und Übereinstimmung mit den bestehenden Vorschriften und den gefassten Beschlüssen, b.[^34-1] das Budget der Zentralkasse, die Nachtragskredite, den Finanzplan sowie die Stellungnahme zur Festsetzung der Beitragssätze.
+- a. die Jahresrechnung der Körperschaft sowie aller dem Synodalrat unterstehenden Verwaltungen, Fonds und Stiftungen auf ihre Richtigkeit und Übereinstimmung mit den bestehenden Vorschriften und den gefassten Beschlüssen,
 
-<sup>2</sup> Die Finanzkommission kann zuhanden der vorberatenden Kommission zu den Anträgen des Synodalrates Stellung nehmen.[^34-2] § 35. <sup>1</sup> Die Geschäftsprüfungskommission und die Finanzkommission haben das Recht, in Erfüllung ihrer Aufgaben jederzeit eine Abordnung des Synodalrates beizuziehen. Sie können vom Synodalrat Auskünfte über die Geschäftsführung oder über einzelne laufende oder abgeschlossene Geschäfte verlangen. Das Amtsgeheimnis zum Schutz überwiegender, öffentlicher Interessen kann nicht geltend gemacht werden.
+- b. das Budget der Körperschaft, die Nachtragskredite, den Finanzplan sowie die Stellungnahme zur Festsetzung der Beitragssätze.
+
+<sup>2</sup> Die Finanzkommission kann zuhanden der vorberatenden Kommission zu den Anträgen des Synodalrates Stellung nehmen.[^32-2]
 
 **Auskunft des Synodalrates**
 
-<sup>2</sup> Dem Begehren ist bei abgeschlossenen Geschäften zu entsprechen und Akteneinsicht zu gewähren; bei laufenden Geschäften kann es der Synodalrat unter Angabe der Gründe ablehnen. In diesem Fall erstattet er einen besonderen Bericht.[^34-1]
+§ 35. <sup>1</sup> Die Geschäftsprüfungskommission und die Finanzkommission haben das Recht, in Erfüllung ihrer Aufgaben jederzeit eine Abordnung des Synodalrates beizuziehen. Sie können vom Synodalrat Auskünfte über die Geschäftsführung oder über einzelne laufende oder abgeschlossene Geschäfte verlangen. Das Amtsgeheimnis zum Schutz überwiegender, öffentlicher Interessen kann nicht geltend gemacht werden.
 
-**Sachkommission Bildung/ Medien/Soziales**
+<sup>2</sup> Dem Begehren ist bei abgeschlossenen Geschäften zu entsprechen und Akteneinsicht zu gewähren; bei laufenden Geschäften kann es der Synodalrat unter Angabe der Gründe ablehnen. In diesem Fall erstattet er einen besonderen Bericht.[^32-3]
 
-§ 36. <sup>1</sup> Der Sachkommission Bildung/Medien/Soziales obliegen:[^34-1] a. die Behandlung der ihr von der Geschäftsleitung zugewiesenen Geschäfte aus den Bereichen Bildung, Medien und Soziales;
+**Sachkommission Bildung und Soziales**
+
+§ 36.[^32-1] <sup>1</sup> Der Sachkommission Bildung und Soziales obliegen:
+
+- a. die Behandlung der ihr von der Geschäftsleitung zugewiesenen Geschäfte aus den Bereichen Bildung und Soziales,
+
+- b. die Informationsbeschaffung zum allgemeinen Geschäftsgang sowie zu den geplanten Synodengeschäften der ihr zugeordneten Bereiche.
+
+<sup>2</sup> Sie hat das Recht, in Erfüllung ihrer Aufgaben jederzeit eine Abordnung des Synodalrates beizuziehen.
+
+**Sachkommission Seelsorge und Medien**
+
+§ 37.[^32-1] <sup>1</sup> Der Sachkommission Seelsorge und Medien obliegen:
+
+- a. die Behandlung der ihr von der Geschäftsleitung zugewiesenen Geschäfte aus den Bereichen Seelsorge und Medien,
 
 - b. die Informationsbeschaffung zum allgemeinen Geschäftsgang sowie zu den geplanten Synodengeschäften der ihr zugeordneten Bereiche.
 
 <sup>2</sup> Sie hat das Recht, in Erfüllung ihrer Aufgaben jederzeit eine Abordnung des Synodalrates beizuziehen.
 
-[^34-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
-[^34-2]: Fassung gemäss B vom 12. April 2018 (OS 73, 431; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
-
-#### § 37
-
-**Sachkommission Seelsorge**
-
-<sup>1</sup> Der Sachkommission Seelsorge obliegen:[^34-1] a. die Behandlung der ihr von der Geschäftsleitung zugewiesenen Geschäfte aus den Seelsorgebereichen;
-
-- b. die Informationsbeschaffung zum allgemeinen Geschäftsgang sowie zu den geplanten Synodengeschäften der ihr zugeordneten Bereiche.
-
-<sup>2</sup> Sie hat das Recht, in Erfüllung ihrer Aufgaben jederzeit eine Abordnung des Synodalrates beizuziehen.
+[^32-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^32-2]: Fassung gemäss B vom 12. April 2018 (OS 73, 431; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
+[^32-3]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
 
 #### § 38
 
 **Mitbericht**
 
-<sup>1</sup> Betrifft ein Geschäft, das einer Kommission zur Vorberatung zugeteilt wurde, den Fachbereich einer anderen Kommission, muss die zuständige Kommission die andere Kommission zum Mitbericht einladen.
+<sup>1</sup> Betrifft ein Geschäft, das einer Kommission zur Vorberatung zugeteilt wurde, den Fachbereich einer anderen Kommission, hat die vorberatende Kommission zu prüfen, ob die andere Kommission zum Mitbericht einzuladen ist.[^32-1]
 
 <sup>2</sup> Die vorberatende Kommission bestimmt das Verfahren der Meinungsäusserung.
 
@@ -448,21 +472,17 @@ Die Geschäftsprüfungskommission prüft:
 
 § 39.[^38-1] Die Kommissionen können in Absprache mit der Geschäftsleitung Sachverständige beiziehen.
 
-[^38-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+**9**
 
-#### § 40
+- 1\. 7. 23 - 121 § 40. <sup>1</sup> Die Kommissionen erstatten der Synode schriftlich Bericht über das Ergebnis ihrer Prüfungen und stellen Antrag.
 
-**Bericht und Antrag**
-
-<sup>1</sup> Die Kommissionen erstatten der Synode schriftlich Bericht über das Ergebnis ihrer Prüfungen und stellen Antrag.
+**Bericht  und Antrag**
 
 <sup>2</sup> Die Kommissionsberichte müssen ausser den Anträgen auch allfällige Minderheitsanträge sowie Stellungnahmen der Finanzkommission und Mitberichte enthalten.
 
-**9**
-
-- 1\. 7. 19 - 105
-
 <sup>3</sup> Weicht der Antrag einer Kommission in wesentlichen Punkten vom Antrag des Synodalrates ab, hat sie vor dem Abschluss ihrer Beratungen dem Synodalrat Gelegenheit zur Vernehmlassung zu geben.
+
+[^38-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
 
 ### VI. Fraktionen
 
@@ -474,25 +494,25 @@ Die Fraktionen befassen sich neben den Kommissionen mit der Vorberatung der Gesc
 
 #### § 42
 
-**Mitwirkung in der Synode**
+**Mitwirkung  in der Synode**
 
 <sup>1</sup> Mindestens fünf Mitglieder der Synode können sich zu einer Fraktion zusammenschliessen. Sie melden Mitglieder, Konstituierung und Bezeichnung der Geschäftsleitung. Jedes Mitglied der Synode kann nur einer Fraktion angehören.
 
-<sup>2</sup> Die Fraktionen sollen bei der Bestellung der Geschäftsleitung und der Kommissionen angemessen vertreten sein.
+<sup>2</sup> Die Fraktionen sollen in der Geschäftsleitung und in den Kommissionen angemessen vertreten sein.[^42-1]
 
-#### § 43
+**Interfraktionelle Konferenz**
 
-**Interfraktionelle Konferenz**
-
-<sup>1</sup> Die Interfraktionelle Konferenz bereitet insbesondere die durch die Synode zu treffenden Wahlen vor.
+§ 43.[^42-1] <sup>1</sup> Die Interfraktionelle Konferenz bereitet die durch die Synode zu treffenden Wahlen vor.
 
 <sup>2</sup> Sie erstellt aufgrund der von den Fraktionen eingegangenen Kandidaturen eine Wahlempfehlung. Gleichzeitig teilt sie mit, welche weiteren Personen sich zur Wahl zur Verfügung stellen.
 
-<sup>3</sup> Sie besteht aus zwei Delegierten jeder Fraktion sowie der Präsidentin oder dem Präsidenten und der Vizepräsidentin oder dem Vizepräsidenten der Synode. Die Delegierten vertreten die Meinung ihrer Fraktion.[^43-1]
+<sup>3</sup> Sie besteht aus zwei Delegierten jeder Fraktion sowie der Präsidentin oder dem Präsidenten und der Vizepräsidentin oder dem Vizepräsidenten der Synode.
 
 <sup>4</sup> Sie konstituiert sich selbst.
 
-[^43-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+<sup>5</sup> Die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident der Synode haben kein Stimmrecht.
+
+[^42-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 ### VII. Gegenstände und Form der Verhandlung
 
@@ -507,7 +527,7 @@ Die Synode übt die ihr durch das Kirchengesetz[^hVIIGegenständeund-1] und die 
 
 #### § 45
 
-**Reihenfolge der Geschäfte**
+**Reihenfolge  der Geschäfte**
 
 Die Präsidentin oder der Präsident bestimmt die Reihenfolge der Geschäfte. Die Synode kann die vorgeschlagene Traktandenliste ändern.
 
@@ -559,11 +579,11 @@ Danach wird die Diskussion eröffnet.
 
 <sup>2</sup> Die Präsidentin oder der Präsident erteilt das Wort in der Reihenfolge der Anmeldungen. Mitglieder, die zu einem Geschäft noch nicht gesprochen haben, erhalten den Vorrang gegenüber jenen, die bereits sprechen konnten.
 
-#### § 50
+**11**
+
+- 1\. 7. 23 - 121 § 50. <sup>1</sup> Die Redezeit beträgt höchstens 20 Minuten für:
 
 **Redezeit**
-
-<sup>1</sup> Die Redezeit beträgt höchstens 20 Minuten für:
 
 - Sprecherinnen oder Sprecher einer Kommission und des Synodalrates,
 
@@ -571,19 +591,19 @@ Danach wird die Diskussion eröffnet.
 
 - Diskussionsrednerinnen oder -redner.
 
-**11**
-
-- 1\. 7. 19 - 105
-
 <sup>2</sup> Die Synode kann eine längere Redezeit bewilligen oder bei einem Geschäft die Redezeit generell beschränken.
 
 <sup>3</sup> In der Regel darf ein Mitglied der Synode nicht mehr als zweimal zum gleichen Gegenstand sprechen. Ausnahmen gelten für Sprecherinnen oder Sprecher einer Kommission, Mitglieder des Synodalrates sowie für Fraktions- oder persönliche Erklärungen.
+
+[^49-1]: Eingefügt durch B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 #### § 51
 
 **Anträge**
 
-Alle Anträge sind mündlich zu eröffnen und sofort nach deren Begründung schriftlich und unterzeichnet der Präsidentin oder dem Präsidenten einzureichen.
+<sup>1</sup> Jedes Mitglied der Synode kann zu einem hängigen Beratungsgegenstand Anträge stellen.[^49-1]
+
+<sup>2</sup> Alle Anträge sind mündlich zu eröffnen und sofort nach deren Begründung schriftlich und unterzeichnet der Präsidentin oder dem Präsidenten einzureichen.
 
 #### § 52
 
@@ -605,7 +625,7 @@ Stellt jemand während der Beratung einen Ordnungsantrag, wird die Beratung übe
 
 #### § 54
 
-**Schluss der Beratung**
+**Schluss  der Beratung**
 
 <sup>1</sup> Jedes Mitglied der Synode kann die Schliessung der Beratung beantragen. Die Beratung wird geschlossen, wenn die Mehrheit der anwesenden Mitglieder der Synode dafür stimmen. Mitgliedern, die sich zum Zeitpunkt der Antragstellung bereits zu Wort gemeldet haben, ist das Wort noch zu erteilen.
 
@@ -625,7 +645,7 @@ Am Schluss der Beratung hat die Sprecherin oder der Sprecher der Kommission und 
 
 #### § 57
 
-**Publikation der Beschlüsse**
+**Publikation  der Beschlüsse**
 
 Beschlüsse der Synode, die dem obligatorischen oder fakultativen Referendum unterstehen, sind im Amtsblatt des Kantons Zürich zu publizieren.
 
@@ -663,21 +683,21 @@ Beschlüsse der Synode, die dem obligatorischen oder fakultativen Referendum unt
 
 Die Motionärin oder der Motionär begründet die Motion mündlich. Bei Verhinderung kann ein anderes Mitglied der Synode diese Aufgabe übernehmen.
 
-#### § 62
+**13**
+
+- 1\. 7. 23 - 121 § 62. <sup>1</sup> Nach der Motionärin oder dem Motionär erhält die Sprecherin oder der Sprecher des Synodalrates das Wort.
 
 **Unbestrittene Überweisung**
-
-<sup>1</sup> Nach der Motionärin oder dem Motionär erhält die Sprecherin oder der Sprecher des Synodalrates das Wort.
 
 <sup>2</sup> Nimmt der Synodalrat die Motion entgegen und wird aus der Mitte der Synode kein Gegenantrag gestellt, gilt die Motion als überwiesen.
 
 <sup>3</sup> Weitere Wortmeldungen sind nur möglich, wenn Diskussion beschlossen wird.
 
-**13**
-
-- 1\. 7. 19 - 105 § 63. <sup>1</sup> Wird die Entgegennahme der Motion vom Synodalrat oder ihre Überweisung von einem Mitglied der Synode abgelehnt, ist die Diskussion über das Geschäft offen.
+#### § 63
 
 **Umstrittene Überweisung**
+
+<sup>1</sup> Wird die Entgegennahme der Motion vom Synodalrat oder ihre Überweisung von einem Mitglied der Synode abgelehnt, ist die Diskussion über das Geschäft offen.
 
 <sup>2</sup> Nach Abschluss der Diskussion entscheidet die Synode, ob die Motion überwiesen wird.
 
@@ -691,7 +711,7 @@ Die Motionärin oder der Motionär begründet die Motion mündlich. Bei Verhinde
 
 <sup>2</sup> Die Synode kann diese Frist auf Gesuch des Synodalrates um höchstens ein Jahr verlängern. Entspricht der Synodalrat den Forderungen einer Motion nicht, kann sie einer Kommission der Synode zur Antragstellung überwiesen werden. Andernfalls entscheidet die Synode darüber, ob die Motion abgeschrieben wird.
 
-**Hängige Überweisungen**
+**Hängige  Überweisungen**
 
 § 64 a.[^64-1] Die hängigen Motionen werden im Anhang des Jahresberichtes des Synodalrates mit einem Vermerk über den Stand des Geschäftes aufgeführt.
 
@@ -720,13 +740,13 @@ Die Motionärin oder der Motionär begründet die Motion mündlich. Bei Verhinde
 
 <sup>2</sup> Später eingereichte Postulate werden an der nächsten Sitzung nur behandelt, wenn sich mehr als 20 Mitglieder der Synode dafür aussprechen.
 
-[^67-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^67-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 #### § 68
 
-**Einreichung bei der Behandlung von Jahresbericht oder Budget**
+**Einreichung bei der Behandlung von Jahresbericht oder Budget**
 
-<sup>1</sup> Bei der Beratung des Jahresberichtes des Synodalrates und des Budgets der Zentralkasse können Postulate, die mit dem behandelten Gegenstand in engem Zusammenhang stehen, mündlich vorgebracht und sofort begründet werden.[^67-1]
+<sup>1</sup> Bei der Beratung des Jahresberichtes des Synodalrates und des Budgets der Körperschaft können Postulate, die mit dem behandelten Gegenstand in engem Zusammenhang stehen, mündlich vorgebracht und sofort begründet werden.[^67-1]
 
 <sup>2</sup> Der Wortlaut des Postulats ist spätestens nach der Begründung der Präsidentin oder dem Präsidenten schriftlich und unterzeichnet abzugeben.
 
@@ -760,29 +780,24 @@ Dem Synodalrat steht es frei, erst in der nächsten Sitzung zu erklären, ob er 
 
 Der Synodalrat unterbreitet der Synode zu jedem überwiesenen Postulat innerhalb von einem Jahr einen schriftlichen Bericht. Die Synode beschliesst in der Sache und über die Abschreibung des Postulats. Schreibt die Synode das Postulat nicht ab, verlängert sich die Frist zur Weiterbehandlung um ein Jahr.
 
-[^70-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+**15**
 
-#### § 71
+- 1\. 7. 23 - 121 § 71. <sup>1</sup> Die hängigen Postulate werden im Anhang des Jahresberichtes des Synodalrates mit einem Vermerk über den Stand des Geschäftes aufgeführt.[^70-1]
 
 **Hängige Überweisungen**
 
-<sup>1</sup> Die hängigen Postulate werden im Anhang des Jahresberichtes des Synodalrates mit einem Vermerk über den Stand des Geschäftes aufgeführt.[^70-1]
-
 <sup>2</sup> Die Synode beschliesst nach der Beratung des Jahresberichtes aufgrund der schriftlich begründeten Anträge des Synodalrates oder der Geschäftsprüfungskommission, ob ein Postulat abgeschrieben wird.
-
-**15**
-
-- 1\. 7. 19 - 105
 
 - 3\. Parlamentarische Initiative
 
 **Gegenstand**
 
-§ 72. <sup>1</sup> Die Mitglieder der Synode sind berechtigt, für Erlass, Änderung, Ergänzung oder Aufhebung von Bestimmungen der Kirchenordnung[^71-1] sowie für Synodenbeschlüsse parlamentarische Initiativen in der Form ausgearbeiteter Entwürfe einzureichen.
+§ 72. <sup>1</sup> Die Mitglieder der Synode sind berechtigt, für Erlass, Änderung, Ergänzung oder Aufhebung von Bestimmungen der Kirchenordnung[^70-2] sowie für Synodenbeschlüsse parlamentarische Initiativen in der Form ausgearbeiteter Entwürfe einzureichen.
 
 <sup>2</sup> Die Präsidentin oder der Präsident verweigert an der folgenden Sitzung die Entgegennahme einer parlamentarischen Initiative, sofern sich diese auf Gegenstände bezieht, welche die Synode bereits aufgrund einer Vorlage des Synodalrates beschäftigen. Wird der Entscheid der Präsidentin oder des Präsidenten aus der Mitte der Synode angefochten, beschliesst die Synode über die Entgegennahme der Initiative.
 
-[^71-1]: LS 182.10.
+[^70-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^70-2]: LS 182.10.
 
 #### § 73
 
@@ -802,7 +817,7 @@ Die Präsidentin oder der Präsident stellt fest, ob mindestens ein Drittel der 
 
 #### § 76
 
-**Behandlung in der Synode**
+**Behandlung  in der Synode**
 
 Die Synode berät die Anträge der Kommission. Bei Nichteintreten oder Ablehnung in der Schlussabstimmung ist das Verfahren beendet.
 
@@ -847,13 +862,13 @@ Sofern gemäss Kirchengesetz[^76-1] oder Kirchenordnung[^76-2] vorgesehen oder v
 
 <sup>2</sup> Der Synodalrat ist berechtigt, unter Angabe von Gründen die Auskunft zu verweigern. Über die Stichhaltigkeit der Gründe entscheidet die Synode. Sie kann den Synodalrat beauftragen, die Interpellation dennoch zu beantworten.
 
+**17**
+
+- 1\. 7. 23 - 121
+
 <sup>3</sup> Nach der Beantwortung der Interpellation kann die Interpellantin oder der Interpellant erklären, ob sie oder er von der erhaltenen Auskunft befriedigt ist oder nicht. Eine weitere Diskussion findet nur statt, wenn die Mehrheit der Synode dies beschliesst.
 
 <sup>4</sup> Jede Beschlussfassung über die mit der Interpellation aufgeworfene Frage ist ausgeschlossen.
-
-**17**
-
-- 1\. 7. 19 - 105
 
 - 5\. Schriftliche Anfrage
 
@@ -923,15 +938,15 @@ Fraktionserklärungen und persönliche Erklärungen einzelner Mitglieder der Syn
 
 An die Synode gerichtete Petitionen werden der Geschäftsleitung zugewiesen.
 
+**19**
+
+- 1\. 7. 23 - 121
+
 ### X. Abstimmungen
 
 **Vorgehen**
 
 § 89.[^hXAbstimmungen-1] <sup>1</sup> Vor der Abstimmung gibt die Präsidentin oder der Präsident der Synode die Anträge und die Abstimmungsfolge bekannt. Über Einsprachen gegen dieses Vorgehen entscheidet die Synode.
-
-**19**
-
-- 1\. 7. 19 - 105
 
 <sup>2</sup> Liegt zu einer Abstimmungsfrage nur ein Antrag vor, wird dieser zum Beschluss erklärt.
 
@@ -945,11 +960,11 @@ An die Synode gerichtete Petitionen werden der Geschäftsleitung zugewiesen.
 
 <sup>2</sup> Liegen zum selben Abstimmungsgegenstand mehr als zwei Anträge vor, ist zu prüfen, ob eine paarweise Ausmehrung der Anträge möglich ist. Dabei sind die Anträge mit der kleinsten inhaltlichen Differenz vor denjenigen mit der grössten inhaltlichen Differenz zur Abstimmung zu bringen (Detailfragen vor Grundsatzfragen).
 
-<sup>3</sup> Lässt sich nach den Kriterien von Abs. 2 keine klare Reihenfolge bestimmen, werden alle Anträge nebeneinander zur Abstimmung gebracht (Cupsystem). In diesem Fall hat jedes Mitglied der Synode nur eine Stimme.
+<sup>3</sup> Lässt sich nach den Kriterien von Abs. 2 keine klare Reihenfolge bestimmen, werden alle Anträge nebeneinander zur Abstimmung gebracht. In diesem Fall hat jedes Mitglied der Synode nur eine Stimme.[^hXAbstimmungen-2]
 
 <sup>4</sup> Vereinigt keiner der Anträge die absolute Mehrheit der stimmenden Mitglieder der Synode auf sich, fällt derjenige mit der geringsten Stimmenzahl aus der Abstimmung. In der Folge wird das Verfahren fortgesetzt, bis einer der Anträge die Mehrheit erlangt.
 
-§§ 91 und 92.[^hXAbstimmungen-2]
+§§ 91 und 92.[^hXAbstimmungen-3]
 
 **Stimmabgabe**
 
@@ -958,7 +973,8 @@ An die Synode gerichtete Petitionen werden der Geschäftsleitung zugewiesen.
 <sup>2</sup> Falls die elektronische Abstimmungsanlage ausser Betrieb ist, erfolgt die Stimmabgabe durch Aufstehen. Die Stimmenzählerinnen und Stimmenzähler geben ihr Ergebnis der Aktuarin oder dem Aktuar laut bekannt. Die gemeldeten Abstimmungsresultate werden laut wiederholt und der Präsidentin oder dem Präsidenten weitergeleitet.
 
 [^hXAbstimmungen-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
-[^hXAbstimmungen-2]: Aufgehoben durch B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^hXAbstimmungen-2]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^hXAbstimmungen-3]: Aufgehoben durch B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
 
 #### § 94
 
@@ -972,7 +988,7 @@ An die Synode gerichtete Petitionen werden der Geschäftsleitung zugewiesen.
 
 #### § 95
 
-**Stimmabgabe in der Geschäftsleitung und in den Kommissionen**
+**Stimmabgabe in der Geschäftsleitung und  in den Kommissionen**
 
 Bei Abstimmungen in der Geschäftsleitung und in den Kommissionen stimmt die oder der Vorsitzende mit. Bei Stimmengleichheit zählt diese Stimme doppelt.
 
@@ -1009,15 +1025,19 @@ Für die durch die Synode und die Geschäftsleitung zu treffenden Wahlen sind di
 
 <sup>2</sup> Die Mitglieder der Synode sind an die Wahlvorschläge nicht gebunden, mit Ausnahme der vom Synodalrat unterbreiteten Vorschläge für die Wahl der Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände.
 
-<sup>3</sup> Die Wahlvorschläge des Synodalrates für die Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände dürfen von der Synode weder ergänzte noch abgeändert werden.
-
 **21**
 
-- 1\. 7. 19 - 105 § 101. <sup>1</sup> Geheim in geschlossener Versammlung gewählt werden:[^99-1]
+- 1\. 7. 23 - 121
+
+<sup>3</sup> Die Wahlvorschläge des Synodalrates für die Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände dürfen von der Synode weder ergänzt noch abgeändert werden.
+
+[^99-1]: Fassung gemäss B vom 7. Dezember 2017 (OS 73, 77; ABl 2017-12-22). In Kraft seit 1. März 2018.
+
+#### § 101
 
 **Geheime Wahlen**
 
-- a. die Präsidentin oder der Präsident der Synode,
+<sup>1</sup> Geheim in geschlossener Versammlung gewählt werden:[^99-1] a. die Präsidentin oder der Präsident der Synode,
 
 - b. die Vizepräsidentin oder der Vizepräsident der Synode,
 
@@ -1033,8 +1053,6 @@ Für die durch die Synode und die Geschäftsleitung zu treffenden Wahlen sind di
 
 <sup>2</sup> Die übrigen Mitglieder der Geschäftsleitung sowie die Mitglieder und Präsidien der ständigen Kommissionen werden offen gewählt, sofern die Synode nicht die Durchführung des geheimen Wahlverfahrens beschliesst.
 
-[^99-1]: Fassung gemäss B vom 7. Dezember 2017 (OS 73, 77; ABl 2017-12-22). In Kraft seit 1. März 2018.
-
 #### § 102
 
 **Stimmabgabe**
@@ -1049,21 +1067,19 @@ Für die durch die Synode und die Geschäftsleitung zu treffenden Wahlen sind di
 
 <sup>5</sup> Enthält ein Wahlzettel für die gleiche Stelle denselben Namen mehrmals, wird dieser nur einmal gezählt; Wiederholungen des gleichen Namens werden zu den ungültigen Stimmen gerechnet.
 
-[^102-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
-
-#### § 103
-
 **Wahlgänge**
 
-<sup>1</sup> Es finden höchstens drei Wahlgänge statt. Im ersten und im zweiten Wahlgang entscheidet das absolute, im dritten Wahlgang das relative Mehr. Bei Stimmengleichheit entscheidet das Los, das durch die Präsidentin oder den Präsidenten gezogen wird.
+§ 103.[^102-2] <sup>1</sup> Es finden höchstens drei Wahlgänge statt. Im ersten und im zweiten Wahlgang entscheidet das absolute, im dritten Wahlgang das relative Mehr. Bei Stimmengleichheit entscheidet das Los, das durch die Präsidentin oder den Präsidenten gezogen wird.
 
 <sup>2</sup> Sind bei der Wahl der Mitglieder des Synodalrates mehr Personen gewählt worden, als gemäss Art. 38 Abs. 3 KO zulässig sind, fallen diejenigen mit den geringsten Stimmenzahlen weg. Es findet ein weiterer Wahlgang statt. Es gilt das relative Mehr.
 
 <sup>3</sup> Ist bei der Wahl der Mitglieder des Synodalrates nach den ersten drei Wahlgängen keine Person geistlichen Standes gewählt, scheidet das Mitglied mit der geringsten Stimmenzahl aus. Zur Wahl der Person geistlichen Standes findet ein weiterer Wahlgang statt. Es gilt das relative Mehr.
 
-<sup>4</sup> Nach erfolgter Wahl des Synodalrates und der Rekurskommission wählt die Synode aus deren Mitte je die Präsidentin oder den Präsidenten.
+<sup>4</sup> Die Synode ist an den Vorschlag des Seelsorgekapitels nicht gebunden. Wählbar ist jede Person, welche die Anforderungen von Abs. 3 erfüllt.
 
-<sup>5</sup> Für die Wahl der Aufsichtskommission über Kirchgemeinden und Zweckverbände finden höchstens zwei Wahlgänge statt. Es gilt das absolute Mehr. Erreicht eine vom Synodalrat vorgeschlagene Person auch im zweiten Wahlgang das absolute Mehr nicht, legt der Synodalrat der Synode einen Ersatzvorschlag vor.[^103-1]
+<sup>5</sup> Nach erfolgter Wahl des Synodalrates und der Rekurskommission wählt die Synode aus deren Mitte je die Präsidentin oder den Präsidenten.
+
+<sup>6</sup> Für die Wahl der Aufsichtskommission über Kirchgemeinden und Zweckverbände finden höchstens zwei Wahlgänge statt. Es gilt das absolute Mehr. Erreicht eine vom Synodalrat vorgeschlagene Person auch im zweiten Wahlgang das absolute Mehr nicht, legt der Synodalrat der Synode einen Ersatzvorschlag vor.[^102-1]
 
 **Auszählung**
 
@@ -1073,7 +1089,8 @@ Für die durch die Synode und die Geschäftsleitung zu treffenden Wahlen sind di
 
 <sup>3</sup> Die Wahlzettel und die Hilfsunterlagen werden sicher aufbewahrt, bis Rechtsmittelverfahren, welche die Wahl betreffen, erledigt sind. Danach werden sie vernichtet.
 
-[^103-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^102-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 283; ABl 2019-05-03). In Kraft seit 1. Juni 2019.
+[^102-2]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 #### § 105
 
@@ -1087,6 +1104,10 @@ Für offene Wahlen gilt folgendes Verfahren:
 
 Die Zahl der Stimmen ist für jede Kandidatin und für jeden Kandidaten festzustellen, und zwar in der gleichen Reihenfolge, wie die Vorschläge erfolgt sind.
 
+**23**
+
+- 1\. 7. 23 - 121
+
 - c. Es finden höchstens drei Wahlgänge statt. Im ersten und im zweiten Wahlgang entscheidet das absolute, im dritten das relative Mehr.
 
 #### § 106
@@ -1095,17 +1116,23 @@ Die Zahl der Stimmen ist für jede Kandidatin und für jeden Kandidaten festzust
 
 Bei geheimen Wahlen stimmt die Präsidentin oder der Präsident mit, bei offenen nur dann, wenn ein Stichentscheid erforderlich ist.
 
-**23**
+[^106-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
-- 1\. 7. 19 - 105
+### XII. Übergangs- und Schlussbestimmungen
 
-### XII. Schlussbestimmung
+[^106-1]
 
 #### § 107
 
 **Inkrafttreten**
 
 Diese Geschäftsordnung tritt nach Annahme durch die Synode am 1. Januar 2010 in Kraft. Sie ersetzt diejenige vom 27. Juni 1985 mit seitherigen Änderungen.
+
+**Übergangsbestimmung zur Änderung vom 13. April 2023**
+
+§ 108.[^107-1] Zu Beginn ihrer Amtsdauer 2023–2027 wählt die Synode die Ombudspersonen der Personalombudsstelle bis zur Mitte der Amtsdauer.
+
+[^107-1]: Eingefügt durch B vom 13. April 2023 (OS 78, 211; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 ## Weitere Fussnoten
 
