@@ -4,7 +4,7 @@ number: "172.215.1.1"
 title: "ARRÊTÉ du 06.07.2022 sur la composition des départements et les noms des services de l'administration (AdésA)"
 short: AdésA
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.215.1.1?id=fb9fa455-62db-4167-8351-6fc7171d6451"
 ---
 
@@ -41,7 +41,7 @@ arrête
 
 <sup>3</sup> Le Ministère public est administrativement rattaché à ce département.
 
-<sup>4</sup> Ce département comprend les entités stratégiques suivantes : l'Office des affaires extérieures, l'Unité du Plan climat et le Bureau de la durabilité.
+<sup>4</sup> Ce département comprend l'entité stratégique suivante : l'Office des affaires extérieures.
 
 [^t-1]: Modif. 2 du 21.06.2023: Modification Al. 4; entrée en vigueur au 01.07.2023
 
@@ -119,7 +119,7 @@ arrête
 - c. Service d'analyse et de gestion financières.
 - d. Direction générale de l'agriculture, de la viticulture et des affaires vétérinaires.
 
-<sup>2</sup> Ce département comprend l'entité stratégique suivante : Statistique Vaud.
+<sup>2</sup> Ce département comprend les entités stratégiques suivantes : Statistique Vaud et l'Office cantonal de la durabilité et du climat.
 
 [^6-1]: Modif. 2 du 21.06.2023: Modification Al. 2; entrée en vigueur au 01.07.2023
 
