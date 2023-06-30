@@ -3,26 +3,27 @@ sr: "747.11"
 title: Legge federale del 28 settembre 1923 sul registro del naviglio
 eli: "https://fedlex.data.admin.ch/eli/cc/40/62_63_63"
 language: it
-version: 2011-01-01
+version: 2023-07-01
 adopted: 1923-09-28
 in_force: 1924-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/40/62_63_63/20110101/it/xml/fedlex-data-admin-ch-eli-cc-40-62_63_63-20110101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/40/62_63_63/20110101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/40/62_63_63/20230701/it/xml/fedlex-data-admin-ch-eli-cc-40-62_63_63-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/40/62_63_63/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sul registro del naviglio
 
-del 28 settembre 1923 (Stato 1° gennaio 2011)
+del 28 settembre 1923 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 24<sup>ter</sup>, 64 e 64<sup>bis</sup> della Costituzione federale[^ingress-1], visto il messaggio del Consiglio federale del 31 ottobre 1922,
+visti gli articoli 87 e 122 capoverso 1 della Costituzione federale[^ingress-1],[^ingress-2] visto il messaggio del Consiglio federale del 31 ottobre 1922,
 
 decreta:
 
 [^ingress-1]: [CS **1** 3]
+[^ingress-2]: Nuovo testo giusta il n. I 9 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154))..
 
 ## I. Registro del naviglio
 
@@ -75,7 +76,7 @@ L’autorità della navigazione renana del Cantone nel cui registro dev’essere
 
 [^3-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1971, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
 [^3-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1985, in vigore dal 15 lug. 1986 ([RU 1986 1130](https://fedlex.data.admin.ch/eli/oc/1986/1130_1130_1130); [FF 1984 II 1357](https://fedlex.data.admin.ch/eli/fga/1984/2_1453_1477_1357)).
-[^3-3]: Introdotto dal n. I della LF del 4 ott. 1985 ([RU 1986 1130](https://fedlex.data.admin.ch/eli/oc/1986/1130_1130_1130); [FF 1984 II 1357](https://fedlex.data.admin.ch/eli/fga/1984/2_1453_1477_1357)). Abrogato dal n. 79 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^3-3]: Introdotto dal n. I della LF del 4 ott. 1985 ([RU 1986 1130](https://fedlex.data.admin.ch/eli/oc/1986/1130_1130_1130); [FF 1984 II 1357](https://fedlex.data.admin.ch/eli/fga/1984/2_1453_1477_1357)). Abrogato dall’all. n. 79 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### b. Intavolazione
 
@@ -415,7 +416,7 @@ Possono inoltre essere annotate le restrizioni della facoltà di disporre:
 
 <sup>3</sup> Mediante l’annotazione, i diritti personali e le limitazioni della facoltà di disporre diventano efficaci in confronto ai diritti posteriormente acquisiti.
 
-[^27-1]: Nuovo testo giusta il n. 20 dell’all. della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^27-1]: Nuovo testo giusta l’all. n. 20 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Disposizioni applicabili del CC
 
@@ -528,7 +529,7 @@ Gli articoli 955, 961, 963 a 966, 967 capoversi 1 e 2, 969 a 971, 973 a 977 del 
 
 [^37-1]
 
-[^37-1]: Abrogato dal n. II 22 dell'all. 1 al codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^37-1]: Abrogato dall’all. 1 n. II 22 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### b. Diritti di pegno
 
@@ -690,7 +691,7 @@ Danno diritto ad ottenere la costituzione di un’ipoteca legale:
 
 [^52-1]
 
-[^52-1]: Abrogato dal n. II 22 dell'all. 1 al codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^52-1]: Abrogato dall’all. 1 n. II 22 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### D. Pegno manuale e ritenzione
 
@@ -698,7 +699,7 @@ Danno diritto ad ottenere la costituzione di un’ipoteca legale:
 
 Su di una nave intavolata non può essere costituito un diritto di pegno manuale né fatto valere un diritto di ritenzione.
 
-## II<sup>bis</sup>. Privilegi sulle navi della navigazione interna****
+## II<sup>bis</sup>. Privilegi sulle navi della navigazione interna
 
 [^lvlIIbis-1]
 
@@ -818,11 +819,7 @@ Se una nave è stata pignorata, la domanda di realizzazione può essere presenta
 
 [^61-1]: Introdotto dal n. I della LF dell’8 ott. 1971, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
 
-## IV. Disposizioni penali****
-
-[^lvlIV-1]
-
-[^lvlIV-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell'art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## IV. Disposizioni penali
 
 ### A. Multe disciplinari
 
@@ -840,11 +837,18 @@ Chiunque trasgredisce l’obbligo di notificazione stabilito negli arti-coli 7, 
 
 #### Art. 63
 
-<sup>1</sup> Chiunque notifica per l’intavolazione una nave già registrata in Svizzera o all’estero, tacendo all’ufficio del registro l’intavolazione precedente; chiunque, all’estero, costituisce dei diritti di pegno contrattuali o d’usufrutto o fa annotare dei diritti personali su di una nave intavolata in Svizzera, recando così pregiudizio alla situazione giuridica degli aventi diritto iscritti nel registro svizzero, è punito con la detenzione o con la multa.[^63-1]
+[^63-1]
 
-<sup>2</sup> Se l’azione è dovuta a negligenza, l’autore sarà punito con la multa fino a 10 000 franchi.
+<sup>1</sup>
 
-[^63-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1971, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque:
+
+- a. notifica per l’intavolazione una nave già registrata in Svizzera o all’estero, tacendo all’ufficio del registro l’intavolazione precedente;
+- b. all’estero, costituisce dei diritti di pegno contrattuali o d’usufrutto o fa annotare dei diritti personali su di una nave intavolata in Svizzera, recando così pregiudizio alla situazione giuridica degli aventi diritto iscritti nel registro svizzero.
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
+
+[^63-1]: Nuovo testo giusta il n. I 9 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### II. Reati in materia di esecuzione e di fallimento
 
@@ -852,9 +856,9 @@ Chiunque trasgredisce l’obbligo di notificazione stabilito negli arti-coli 7, 
 
 [^64-1]
 
-Il proprietario o il capitano o pilota della nave che non osserva gli ordini impartitigli dall’ufficio d’esecuzione e fallimenti o dall’amministrazione del fallimento, segnatamente non tenendo la nave a disposizione conforme alla richiesta fattagli, è punito con la detenzione o con la multa.
+Il proprietario o il capitano o pilota della nave che non osserva gli ordini impartitigli dall’ufficio d’esecuzione e fallimenti o dall’amministrazione del fallimento, segnatamente non tenendo la nave a disposizione conforme alla richiesta fattagli, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^64-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1971, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
+[^64-1]: Nuovo testo giusta il n. I 9 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### III. Infrazioni commesse nell’esercizio di una azienda, da mandatari e simili
 

@@ -3,27 +3,28 @@ sr: "747.11"
 title: Loi fédérale du 28 septembre 1923 sur le registre des bateaux
 eli: "https://fedlex.data.admin.ch/eli/cc/40/62_63_63"
 language: fr
-version: 2011-01-01
+version: 2023-07-01
 adopted: 1923-09-28
 in_force: 1924-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/40/62_63_63/20110101/fr/xml/fedlex-data-admin-ch-eli-cc-40-62_63_63-20110101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/40/62_63_63/20110101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/40/62_63_63/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-40-62_63_63-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/40/62_63_63/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur le registre des bateaux
 
-du 28 septembre 1923 (Etat le 1<sup>er</sup> janvier 2011)
+du 28 septembre 1923 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 24<sup>ter</sup>, 64 et 64<sup>bis</sup> de la constitution[^ingress-1], vu le message du Conseil fédéral du 31 octobre 1922[^ingress-2],
+vu les art. 87 et 122, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 31 octobre 1922[^ingress-3],
 
 décrète:
 
-[^ingress-1]: [RS **1** 3]
-[^ingress-2]: [FF 1922 III 1053](https://fedlex.data.admin.ch/eli/fga/1922/3_1025_1053_)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 9 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1922 III 1053](https://fedlex.data.admin.ch/eli/fga/1922/3_1025_1053_)
 
 ## I. Registre des bateaux
 
@@ -73,7 +74,7 @@ L’autorité de la navigation rhénane du canton dans lequel un bateau utilisé
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 1971, en vigueur depuis le 1<sup>er</sup> fév. 1972 ([RO 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 1248](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
 [^3-2]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1985, en vigueur depuis le 15 juillet 1986 ([RO 1986 1130](https://fedlex.data.admin.ch/eli/oc/1986/1130_1130_1130); [FF 1984 II 1477](https://fedlex.data.admin.ch/eli/fga/1984/2_1453_1477_1357)).
-[^3-3]: Introduit par le ch. I de la LF du 4 oct. 1985 ([RO 1986 1130](https://fedlex.data.admin.ch/eli/oc/1986/1130_1130_1130); [FF 1984 II 1477](https://fedlex.data.admin.ch/eli/fga/1984/2_1453_1477_1357)). Abrogé par le ch. 79 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^3-3]: Introduit par le ch. I de la LF du 4 oct. 1985 ([RO 1986 1130](https://fedlex.data.admin.ch/eli/oc/1986/1130_1130_1130); [FF 1984 II 1477](https://fedlex.data.admin.ch/eli/fga/1984/2_1453_1477_1357)). Abrogé par l’annexe ch. 79 de la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### b. Immatriculation
 
@@ -397,7 +398,7 @@ Le registre des bateaux est destiné à l’inscription des droits suivants sur 
 
 <sup>3</sup> L’effet de l’inscription remonte à l’époque où elle a été faite dans le journal, moyennant que les pièces justificatives prévues par la loi aient été jointes à la demande ou, en cas d’inscription provisoire, que la légitimation complémentaire ait lieu en temps utile.
 
-<sup>4</sup> A la demande du propriétaire, les accessoires peuvent être mentionnés au feuillet. Ils ne sont radiés que du consentement de tous ceux dont les droits sont constatés par le registre.
+<sup>4</sup> À la demande du propriétaire, les accessoires peuvent être mentionnés au feuillet. Ils ne sont radiés que du consentement de tous ceux dont les droits sont constatés par le registre.
 
 ### D. Annotations
 
@@ -415,7 +416,7 @@ Peuvent en outre être annotées les restrictions apportées au droit d’alién
 
 <sup>3</sup> Les droits personnels et restrictions deviennent, par l’effet de leur annotation, opposables à tout droit postérieurement acquis.
 
-[^27-1]: Nouvelle teneur selon le ch. 20 de l’annexe à la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^27-1]: Nouvelle teneur selon l’annexe ch. 20 de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Application du CC
 
@@ -524,7 +525,7 @@ Les art. 955, 961, 963 à 966, 967, al. 1 et 2, 969 à 971, 973 à 977 du code c
 
 [^37-1]
 
-[^37-1]: Abrogé par le ch. II 22 de l'annexe 1 au code de procédure civile du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^37-1]: Abrogé par l’annexe 1 ch. II 22 du code de procédure civile du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### b. Hypothèques
 
@@ -589,7 +590,7 @@ Des obligations nominatives ou au porteur peuvent être garanties par gage:
 
 ### III. Effets
 
-### a. Etendue du droit du créancier
+### a. Étendue du droit du créancier
 
 #### Art. 43
 
@@ -686,7 +687,7 @@ Peuvent requérir l’inscription d’une hypothèque légale:
 
 [^52-1]
 
-[^52-1]: Abrogé par le ch. II 22 de l'annexe 1 au code de procédure civile du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^52-1]: Abrogé par l’annexe 1 ch. II 22 du code de procédure civile du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### D. Exclusion du nantissement et du droit de rétention
 
@@ -694,7 +695,7 @@ Peuvent requérir l’inscription d’une hypothèque légale:
 
 On ne peut ni constituer un nantissement ni exercer un droit de rétention sur un bateau immatriculé.
 
-## II<sup>bis</sup>. Des privilèges sur les bateaux****
+## II<sup>bis</sup>. Des privilèges sur les bateaux
 
 [^lvlIIbis-1]
 
@@ -814,11 +815,7 @@ Le créancier peut requérir la vente du bateau saisi un mois au plus tôt et un
 
 [^61-1]: Introduit par le ch. I de la LF du 8 oct. 1971, en vigueur depuis le 1<sup>er</sup> fév. 1972 ([RO 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 1248](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
 
-## IV. Dispositions pénales****
-
-[^lvlIV-1]
-
-[^lvlIV-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## IV. Dispositions pénales
 
 ### A. Amendes d’ordre
 
@@ -836,15 +833,18 @@ Celui qui contrevient à l’obligation prévue aux art. 7, 10, 18, 19 et 20 de 
 
 #### Art. 63
 
-<sup>1</sup> Celui qui requiert l’immatriculation d’un bateau déjà immatriculé en Suisse ou à l’étranger, en célant à l’office l’immatriculation antérieure,
+[^63-1]
 
-celui qui, à l’étranger, constitue des droits de gage ou des usufruits ou fait annoter des droits personnels sur un bateau immatriculé en Suisse et porte ainsi préjudice aux ayants droit inscrits au registre suisse,
+<sup>1</sup>
 
-sera puni de l’emprisonnement ou d’une amende.[^63-1]
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
 
-<sup>2</sup> La peine est l’amende jusqu’à 10 000 francs, si le délinquant a agi par négligence.
+- a. requiert l’immatriculation d’un bateau déjà immatriculé en Suisse ou à l’étranger, en célant à l’office l’immatriculation antérieure;
+- b. à l’étranger, constitue des droits de gage ou des usufruits ou fait annoter des droits personnels sur un bateau immatriculé en Suisse et porte ainsi préjudice aux ayants droit inscrits au registre suisse.
 
-[^63-1]: Nouvelle teneur des deux dernières phrases selon le ch. I de la LF du 8 oct. 1971, en vigueur depuis le 1<sup>er</sup> fév. 1972 ([RO 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 1248](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
+<sup>2</sup> L’auteur qui agit par négligence est puni de l’amende.
+
+[^63-1]: Nouvelle teneur selon le ch. I 9 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### II. Délits en matière de poursuite pour dettes et de faillite
 
@@ -852,9 +852,9 @@ sera puni de l’emprisonnement ou d’une amende.[^63-1]
 
 [^64-1]
 
-Le propriétaire ou le capitaine ou patron du bateau qui contrevient aux instructions de l’office des poursuites ou des faillites ou de l’administration de la faillite, notamment à la sommation de mettre le bateau à leur disposition, sera puni de l’emprisonnement ou d’une amende.
+Le propriétaire ou le capitaine ou patron du bateau qui contrevient aux instructions de l’office des poursuites ou des faillites ou de l’administration de la faillite, notamment à la sommation de mettre le bateau à leur disposition, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^64-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 1971, en vigueur depuis le 1<sup>er</sup> fév. 1972 ([RO 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 1248](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
+[^64-1]: Nouvelle teneur selon le ch. I 9 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### III. Infractions commises dans la gestion d’une entreprise commerciale, par des mandataires ou des personnes qui leur sont assimilées
 

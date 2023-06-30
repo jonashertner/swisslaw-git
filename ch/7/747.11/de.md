@@ -3,27 +3,28 @@ sr: "747.11"
 title: Bundesgesetz vom 28. September 1923 über das Schiffsregister
 eli: "https://fedlex.data.admin.ch/eli/cc/40/62_63_63"
 language: de
-version: 2011-01-01
+version: 2023-07-01
 adopted: 1923-09-28
 in_force: 1924-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/40/62_63_63/20110101/de/xml/fedlex-data-admin-ch-eli-cc-40-62_63_63-20110101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/40/62_63_63/20110101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/40/62_63_63/20230701/de/xml/fedlex-data-admin-ch-eli-cc-40-62_63_63-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/40/62_63_63/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über das Schiffsregister
 
-vom 28. September 1923 (Stand am 1. Januar 2011)
+vom 28. September 1923 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 24<sup>ter</sup>, 64 und 64<sup>bis</sup> der Bundesverfassung[^ingress-1], nach Einsicht in eine Botschaft des Bundesrates vom 31. Oktober 1922[^ingress-2],
+gestützt auf die Artikel 87 und 122 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 31. Oktober 1922[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]
-[^ingress-2]: [BBl 1922 III 1025](https://fedlex.data.admin.ch/eli/fga/1922/3_1025_1053_)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 9 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1922 III 1025](https://fedlex.data.admin.ch/eli/fga/1922/3_1025_1053_)
 
 ## I. Das Schiffsregister
 
@@ -55,7 +56,7 @@ Die Rheinschifffahrtsbehörde des Kantons, in dessen Schiffsregister ein auf dem
 
 <sup>1</sup> Die kantonalen Aufsichtsbehörden über das Grundbuch üben die Aufsicht über die Führung des Schiffsregisters aus.
 
-<sup>2</sup> Die Oberaufsicht steht dem Bundesrate zu.
+Die Oberaufsicht steht dem Bundesrate zu.
 
 <sup>3</sup> Die Vorschriften über die Aufsicht im Grundbuchwesen finden entsprechende Anwendung.
 
@@ -692,7 +693,7 @@ Die Rechte des Gläubigers auf Befriedigung aus dem Pfande beurteilen sich nach 
 
 An einem in das Schiffsregister aufgenommenen Schiffe kann weder ein Faustpfandrecht bestellt noch ein Retentionsrecht geltend gemacht werden.
 
-## II<sup>bis</sup>: Die Privilegien an Binnenschiffen****
+## II<sup>bis</sup>: Die Privilegien an Binnenschiffen
 
 [^lvlIIbis-1]
 
@@ -812,11 +813,7 @@ Ist ein Schiff gepfändet worden, so kann das Verwertungsbegehren frühestens ei
 
 [^61-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 1971, in Kraft seit 1. Febr. 1972 ([AS 1972 345](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [BBl 1970 II 1236](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
 
-## IV. Strafbestimmungen****
-
-[^lvlIV-1]
-
-[^lvlIV-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2-6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
+## IV. Strafbestimmungen
 
 ### A. Ordnungsbussen
 
@@ -834,15 +831,18 @@ Wer die in den Artikeln 7, 10, 18, 19 und 20 aufgestellte Anmeldepflicht verletz
 
 #### Art. 63
 
-<sup>1</sup> Wer zur Aufnahme in das Schiffsregister ein Schiff anmeldet, das schon in einem in- oder ausländischen Register registriert ist und die Tatsache der Registrierung dem Schiffsregisterführer verschweigt,
+[^63-1]
 
-wer im Ausland an einem Schiff, das in der Schweiz registriert ist, vertragliche Pfandrechte oder Nutzniessungen bestellt oder persönliche Rechte vormerken lässt, durch welche die Rechtsstellung der im schweizerischen Register eingetragenen Berechtigten beeinträchtigt wird,
+<sup>1</sup>
 
-wird mit Gefängnis oder mit Busse bestraft.[^63-1]
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis auf 10 000 Franken.
+- a. zur Aufnahme in das Schiffsregister ein Schiff anmeldet, das schon in einem in- oder ausländischen Register registriert ist, und diese Tatsache der Registrierung dem Schiffsregisterführer verschweigt;
+- b. im Ausland an einem Schiff, das in der Schweiz registriert ist, vertragliche Pfandrechte oder Nutzniessungen bestellt oder persönliche Rechte vormerken lässt, durch welche die Rechtsstellung der im schweizerischen Register eingetragenen Berechtigten beeinträchtigt wird.
 
-[^63-1]: Fassung der Sätze 2 und 3 gemäss Ziff. I des BG vom 8. Okt. 1971, in Kraft seit 1. Febr. 1972 ([AS 1972 345](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [BBl 1970 II 1236](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse.
+
+[^63-1]: Fassung gemäss Ziff. I 9 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### II. Betreibungs- und Konkursvergehen
 
@@ -850,9 +850,9 @@ wird mit Gefängnis oder mit Busse bestraft.[^63-1]
 
 [^64-1]
 
-Der Schiffseigentümer oder Schiffsführer, der die ihm vom Betreibungs- oder Konkursamt oder von der Konkursverwaltung erteilten Weisungen nicht befolgt, insbesondere das Schiff nach gestelltem Verlangen nicht zur Verfügung hält, wird mit Gefängnis oder mit Busse bestraft.
+Der Schiffseigentümer oder Schiffsführer, der die ihm vom Betreibungs- oder Konkursamt oder von der Konkursverwaltung erteilten Weisungen nicht befolgt, insbesondere das Schiff nach gestelltem Verlangen nicht zur Verfügung hält, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-[^64-1]: Fassung gemäss Ziff. I des BG vom 8. Okt. 1971, in Kraft seit 1. Febr. 1972 ([AS 1972 345](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [BBl 1970 II 1236](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
+[^64-1]: Fassung gemäss Ziff. I 9 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### III. Widerhandlungen in Geschäfts- betrieben, durch Beauftragte u. dgl.
 
