@@ -3,20 +3,19 @@ canton: BL
 number: "104"
 title: Gesetz über die Gewaltentrennung
 language: de
-version: 2018-01-01
-valid_until: 2023-06-30
-version_adopted: 2017-06-15
+version: 2023-07-01
+version_adopted: 2023-05-11
 adopted: 1999-06-23
 in_force: 2003-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/104"
-pdf: "https://bl.clex.ch/api/de/versions/2285/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3678/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Gewaltentrennung
 
-Vom 23.06.1999 (Stand 01.01.2018)
+Vom 23.06.1999 (Stand 01.07.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -29,9 +28,16 @@ beschliesst:[^ingress-2]
 
 #### § 1
 
-**Erstinstanzliche Gerichte**
+**Gerichte**
 
-<sup>1</sup> Mit Ausnahme der Friedensrichter und Friedensrichterinnen können die Mitglieder, Ersatzrichter und Ersatzrichterinnen sowie die Gerichtsschreiber und Gerichtsschreiberinnen der erstinstanzlichen Gerichte dem Landrat nicht angehören.
+<sup>1</sup> Mit Ausnahme der Friedensrichterinnen und Friedensrichter können dem Landrat nicht angehören:
+
+- a. die Mitglieder und Ersatzmitglieder der Gerichte (§ 51 Kantonsverfassung[^1-1]);
+- b. die Gerichtsschreiberinnen und Gerichtsschreiber (§ 51 Kantonsverfassung[^1-2]);
+- c. die Leiterin oder der Leiter der Gerichtsverwaltung und die Stellvertreterin oder der Stellvertreter sowie Mitarbeiterinnen und Mitarbeiter der Gerichtsverwaltung, die regelmässig an Vorlagen der Gerichte an den Landrat mitarbeiten.
+
+[^1-1]: [SGS 100](https://bl.clex.ch/data/100/de/art51)
+[^1-2]: [SGS 100](https://bl.clex.ch/data/100/de/art51)
 
 #### § 2
 
@@ -48,32 +54,36 @@ beschliesst:[^ingress-2]
 
 **Kantonale Verwaltung**
 
-<sup>1</sup> Mitarbeiter und Mitarbeiterinnen der kantonalen Verwaltung können dem Landrat nicht angehören, wenn sie:
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter der kantonalen Verwaltung können dem Landrat nicht angehören, wenn sie:
 
-- a. dem direkten Weisungsrecht des Direktionsvorstehers oder der Direktionsvorsteherin unterstehen;
-- b. regelmässig an Vorlagen des Regierungsrates an den Landrat mitarbeiten;
-- c. den Parlamentsdiensten des Landrats (Landeskanzlei, Finanzkontrolle, Rechtsdienst von Regierungsrat und Landrat) angehören.
+- a. dem direkten Weisungsrecht der Direktionsvorsteherin oder des Direktionsvorstehers unterstehen, oder
+- b. regelmässig an Vorlagen des Regierungsrats an den Landrat mitarbeiten.
+- c. …
 
 <sup>2</sup> Insbesondere können dem Landrat nicht angehören:
 
-- a. die Landschreiber und Landschreiberinnen;
-- b. die Staatsanwälte und Staatsanwältinnen;
-- c. die Leiter und Leiterinnen der Dienststellen sowie deren Stellvertreter und Stellvertreterinnen;
-- d. die Leiter und Leiterinnen der Rechtsabteilungen der Direktionen sowie deren Stellvertreter und Stellvertreterinnen;
-- e. der Chief Controller oder die Chief Controllerin;
-- f. die Direktionscontroller und Direktionscontrollerinnen.
+- a. die Leiterinnen und Leiter der Dienststellen sowie ihre Stellvertreterinnen und Stellvertreter;
+- b. die Leiterinnen und Leiter, ihre Stellvertreterinnen und Stellvertreter sowie die juristischen Mitarbeiterinnen und Mitarbeiter der Rechtsdienste der kantonalen Verwaltung;
+- c. die Fachpersonen im Controlling des Regierungsrats sowie im Controlling der Direktionen;
+- d. die Leiterinnen und Leiter der Informations- und Kommunikationsdienste der kantonalen Verwaltung sowie ihre Stellvertreterinnen und Stellvertreter;
+- e. die Jugendanwältinnen und Jugendanwälte.
+- f. …
 
 #### § 4
 
-**Dekret**
+**Besondere Behörden**
 
-<sup>1</sup> Der Landrat regelt, welche weiteren Mitarbeiter und Mitarbeiterinnen der kantonalen Verwaltung gestützt auf § 3 Absatz 1 dieses Gesetzes dem Landrat nicht angehören können.
+<sup>1</sup> Dem Landrat können nicht angehören:
+
+- a. die Landschreiberin oder der Landschreiber, die 2. Landschreiberin oder der 2. Landschreiber, die Leiterin oder der Leiter des Staatsarchivs und die Stellvertreterin oder der Stellvertreter sowie die Mitarbeiterinnen und Mitarbeiter der Parlamentsdienste des Landrats (Landeskanzlei, Finanzkontrolle, Rechtsdienst von Regierungsrat und Landrat); ausgenommen sind die Mitarbeiterinnen und Mitarbeiter des Staatsarchivs;
+- b. die oder der Datenschutzbeauftragte, die Stellvertreterin oder der Stellvertreter sowie die weiteren Fachpersonen der Aufsichtsstelle Datenschutz;
+- c. die Staatsanwältinnen und Staatsanwälte.
 
 #### § 5
 
 **Wahl zwischen den unvereinbaren Stellen**
 
-<sup>1</sup> Wer aufgrund der Verfassung, des Gesetzes oder des Dekrets nicht zugleich Mitglied des Landrates und Mitglied einer anderen Behörde oder Mitarbeiter oder Mitarbeiterin der kantonalen Verwaltung sein kann, muss sich nach der Wahl für die eine oder die andere Funktion entscheiden.
+<sup>1</sup> Wer aufgrund der Verfassung oder des Gesetzes nicht zugleich Mitglied des Landrats und Mitglied einer anderen Behörde oder Mitarbeiterin oder Mitarbeiter der kantonalen Verwaltung sein kann, muss sich nach der Wahl für die eine oder die andere Funktion entscheiden.
 
 #### § 6
 
