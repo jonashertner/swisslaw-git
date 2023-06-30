@@ -3,20 +3,19 @@ canton: OW
 number: "870.125"
 title: Ausführungsbestimmungen über den Vollzug der Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen
 language: de
-version: 2022-01-01
-valid_until: 2023-06-30
-version_adopted: 2021-12-07
+version: 2023-07-01
+version_adopted: 2023-06-13
 adopted: 2021-12-07
 in_force: 2022-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/870.125"
-pdf: "http://gdb.ow.ch/api/de/versions/1559/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1809/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über den Vollzug der Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen
 
-vom 07.12.2021 (Stand 01.01.2022)
+vom 07.12.2021 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -33,11 +32,16 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Folgende Fachstellen leisten Inkassohilfe:
+<sup>1</sup> Der Regionale Sozialdienst Obwalden ist die Fachstelle für die Leistung der Inkassohilfe für berechtigte Personen mit zivilrechtlichem Wohnsitz im Kanton Obwalden.
 
-- a. Alimentenfachstelle Sarnen für berechtigte Personen mit zivilrechtlichem Wohnsitz in Sarnen, Sachseln, Alpnach, Giswil;
-- b. Sozialdienst Kerns, für berechtigte Personen mit zivilrechtlichen Wohnsitz in Kerns;
-- c. Sozialdienst Lungern, für berechtigte Personen mit zivilrechtlichem Wohnsitz in Lungern;
-- d. Sozialdienst Engelberg für berechtigte Personen mit zivilrechtlichem Wohnsitz in Engelberg.
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2021, 52
+
+Ursprüngliches Inkrafttreten: 1. Januar 2022
+
+Geändert durch:
+
+\- Nachtrag vom 13. Juni 2023, in Kraft seit 1. Juli 2023 (OGS 2023, 17)
 
 OGS 2021, 52
