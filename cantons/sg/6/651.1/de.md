@@ -3,20 +3,19 @@ canton: SG
 number: "651.1"
 title: Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 language: de
-version: 2021-10-01
-valid_until: 2023-06-30
-version_adopted: 2021-06-15
+version: 2023-07-01
+version_adopted: 2023-01-24
 adopted: 1998-11-29
 in_force: 2000-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/651.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3265/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 
-vom 29.11.1998 (Stand 01.10.2021)
+vom 29.11.1998 (Stand 01.07.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -221,9 +220,11 @@ als Gesetz:[^ingress-5]
 
 **Abstand für Ersatzaufforstungen**
 
-<sup>1</sup> Ersatzaufforstungen halten gegenüber Bauzonen, Bauten und Anlagen einen Abstand ein, der dem baugesetzlichen Waldabstand[^14-1] für Bauten und Anlagen entspricht.
+<sup>1</sup> Ersatzaufforstungen halten gegenüber Strassen, leicht befestigten Naturstrassen, die ohne Terrainveränderung erstellt werden, sowie den übrigen Bauten und Anlagen in der Regel einen Abstand ein, der dem jeweiligen doppelten baugesetzlichen Waldabstand[^14-1] entspricht.
 
-[^14-1]: Art. [58](https://www.gesetzessammlung.sg.ch/data/731.1/de/art58.) BauG, sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
+<sup>2</sup> Sie halten gegenüber Bauzonen in der Regel den doppelten baugesetzlichen Waldabstand für übrige Bauten und Anlagen ein.
+
+[^14-1]: Art. 91 Abs. 1 des Planungs- und Baugesetzes, sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 ### 3. Betreten und Befahren von Wald
 
@@ -238,7 +239,7 @@ als Gesetz:[^ingress-5]
 <sup>3</sup> Wo der Schutz der Lebensräume oder die Walderhaltung es erfordert, kann die für den Wald zuständige Stelle des Kantons:
 
 - a) auf öffentlichen Strassen und Wegen ein allgemeines Fahrverbot oder ein Reitverbot verfügen;
-- b) das Skifahren im Wald verbieten.
+- b) Sport- und Freizeitaktivitäten im Wald verbieten.
 
 [^15-1]: [Art. 41<sup>septies</sup>](https://www.gesetzessammlung.sg.ch/data/853.1/de/art41sexies) des Jagdgesetzes vom 17. November 1994, sGS [853.1](https://www.gesetzessammlung.sg.ch/data/853.1/de).
 
@@ -274,7 +275,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Grosse Veranstaltungen bedürfen einer Bewilligung der zuständigen Stelle des Kantons.
 
-<sup>2</sup> Die Bewilligung wird erteilt, wenn keine erhebliche Störung der Tiere und keine erhebliche Schädigung der Pflanzen erwartet werden. Neben der Teilnehmerzahl werden insbesondere Ort, Zeit und Art der Veranstaltung berücksichtigt. Die politische Gemeinde wird angehört.
+<sup>2</sup> Die Bewilligung wird erteilt, wenn keine erhebliche Störung der Tiere und keine erhebliche Schädigung der Pflanzen erwartet werden. Neben der Teilnehmerzahl werden insbesondere Ort, Zeit, Dauer und Art der Veranstaltung berücksichtigt. Die politische Gemeinde wird angehört.
 
 <sup>3</sup> Die Regierung regelt durch Verordnung:
 
@@ -367,23 +368,27 @@ als Gesetz:[^ingress-5]
 
 #### Art. 26
 
-**Waldschäden[^26-1]**
+**Waldschäden und Schadorganismen**
 
 <sup>1</sup> Der Waldeigentümer meldet der für den Wald zuständigen Stelle des Kantons Waldschäden, welche die Erhaltung des Waldes gefährden können.
 
-<sup>2</sup> Die für den Wald zuständige Stelle des Kantons ordnet die erforderlichen Massnahmen[^26-2] an.
+<sup>1<sup>bis</sup></sup> Besitzer von Bäumen, Sträuchern, weiteren Pflanzen, Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen, die von Schadorganismen befallen sind, befallen sein könnten oder selbst Schadorganismen sind, melden einen Verdacht oder das Vorfinden von Schadorganismen der für den Wald zuständigen Stelle des Kantons.
 
-<sup>3</sup> Der Waldeigentümer führt die Massnahmen[^26-3] aus.
+<sup>2</sup> Die für den Wald zuständige Stelle des Kantons ordnet, allenfalls in Zusammenarbeit mit dem Bund, die erforderlichen Massnahmen an.
 
-[^26-1]: In Vollzug ab 1. Januar 2009.
-[^26-2]: Vgl. Art. 28 f. der eidgV über den Wald vom 30. November 1992, SR [921.01](https://db.clex.ch/link/Bund/921.01/de).
-[^26-3]: Vgl. Art. 28 f. der eidgV über den Wald vom 30. November 1992, SR [921.01](https://db.clex.ch/link/Bund/921.01/de).
+<sup>3</sup> Waldeigentümer oder Besitzer nach Abs. 1<sup>bis</sup> dieser Bestimmung führen die Massnahmen aus oder dulden diese.
+
+#### Art. 26bis
+
+**Anpassung des Waldes an den Klimawandel**
+
+<sup>1</sup> Die für den Wald zuständige Stelle des Kantons trifft Massnahmen, die den Wald darin unterstützen, seine Funktionen auch unter veränderten klimatischen Bedingungen dauernd erfüllen zu können.
 
 #### Art. 27
 
-**Wildschäden**
+**Waldverjüngung und Wildschäden**
 
-<sup>1</sup> Die für den Wald zuständige Stelle des Kantons erhebt periodisch die Wildschadensituation und erarbeitet in Zusammenarbeit mit der für die Jagd zuständigen Stelle des Kantons Konzepte zur Verhütung von Wildschäden.[^27-1]
+<sup>1</sup> Die für den Wald zuständige Stelle des Kantons erhebt periodisch die Waldverjüngungssituation und die Wildschadensituation und erarbeitet in Zusammenarbeit mit der für die Jagd zuständigen Stelle des Kantons Konzepte zur Verhütung von Wildschäden.[^27-1]
 
 [^27-1]: Vgl. Art. 31 der eidgV über den Wald vom 30. November 1992, SR [921.01](https://db.clex.ch/link/Bund/921.01/de).
 
@@ -395,13 +400,17 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Der Kanton beteiligt sich am Betrieb einer interkantonalen Försterschule oder gewährleistet die Ausbildung der Förster anderweitig.
 
-<sup>2</sup> Er fördert und unterstützt die Ausbildung der Forstwarte durch die Organisation der Forstwartlehre und durch Fachkurse.
+<sup>2</sup> Er fördert und unterstützt die Ausbildung der Forstwarte durch die Organisation der Forstwartlehre sowie die Weiterbildung der Forstleute und Waldarbeiter durch Fachkurse.
+
+<sup>3</sup> Die für den Wald zuständige Stelle des Kantons erlässt Richtlinien über die Ausbildung der Waldarbeiter für die Ausübung von Holzerntearbeiten im Auftrag.
 
 #### Art. 29
 
 **Förderung der Holzverwendung**
 
-<sup>1</sup> Der Kanton fördert die Verwendung einheimischen Holzes, soweit dies technisch möglich und wirtschaftlich tragbar ist.
+<sup>1</sup> Der Kanton fördert die Verwendung einheimischen Holzes.
+
+<sup>2</sup> Kanton und Gemeinden prüfen bei der Planung, der Errichtung und dem Betrieb eigener und subventionierter Bauten und Anlagen die Verwendung von nachhaltig produziertem Holz.
 
 #### Art. 30
 
@@ -410,28 +419,25 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Der Kanton leistet im Rahmen der vom Kantonsrat bewilligten Kredite und unter den Voraussetzungen nach Art. 35 des Bundesgesetzes über den Wald vom 4. Oktober 1991[^30-1] Beiträge an Massnahmen:
 
 - a) zur Erhaltung und Pflege des Schutzwaldes;
-- b) zur Förderung der Biodiversität, insbesondere von Waldreservaten und ökologischen Ergänzungsflächen im Wald;
+- b) zur Förderung der Waldbiodiversität;
 - c) zum Schutz von Menschen und erheblichen Sachwerten vor Naturgefahren;
-- d) zur Verbesserung der Bewirtschaftungsbedingungen.
+- d) zur Verbesserung der Bewirtschaftungsbedingungen, insbesondere durch forstliche Seilkrananlagen, durch die Anpassung oder Wiederinstandstellung forstlicher Erschliessungs- und Infrastrukturanlagen sowie durch die Optimierung forstlicher Strukturen und Prozesse;
+- e) zur Entwicklung und Erhaltung stabiler sowie dem Klima angepasster Wälder;
+- f) zur Verhütung und Behebung von Schäden am Wald, die durch Naturereignisse oder Schadorganismen verursacht werden.
 
-<sup>2</sup> Er trägt die Kosten für Waldentwicklungspläne und deren Grundlagen, abzüglich allfälliger Bundesbeiträge.
+<sup>2</sup> Er trägt die Kosten für Waldentwicklungspläne und deren Grundlagen.
 
 <sup>3</sup> Er kann im Rahmen der vom Kantonsrat bewilligten Kredite mit Beiträgen unterstützen:
 
-- 1\. forstliche Beratungs-, Versuchs- und Fortbildungstätigkeit;
-- 2\. befristete gemeinsame Massnahmen der Wald- und Holzwirtschaft für Werbung und Absatzförderung bei aussergewöhnlichem Holzanfall;
+- 1\. forstliche Beratungs-, Versuchs- sowie Fort- und Weiterbildungstätigkeit;
+- 2\. Massnahmen für Werbung und Förderung der Nutzung, des Absatzes und der Verwendung einheimischen Holzes;
 - 3\. Massnahmen zur Verhütung von Wildschaden im Wald.
 
 [^30-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de).
 
 #### Art. 30bis
 
-**2. Verbesserungen der Bewirtschaftungsbedingungen**
-
-<sup>1</sup> Betriebe der Waldwirtschaft erhalten Beiträge nach Art. 30 dieses Erlasses an Verbesserungen der Bewirtschaftungsbedingungen, wenn der Betrieb:
-
-- a) nach betriebswirtschaftlichen Grundsätzen geführt wird;
-- b) sich, sofern er keine hinreichende Betriebsgrösse aufweist, an einer überbetrieblichen Zusammenarbeit oder an einer Betriebsgemeinschaft beteiligt.
+**…**
 
 #### Art. 30ter
 
@@ -575,11 +581,14 @@ als Gesetz:[^ingress-5]
 - a) im Wald bauliche Vorhaben ohne forstrechtliche Bewilligung erstellt, zweckentfremdet oder erweitert oder die Bedingungen und Auflagen missachtet;
 - b) im Waldbestand verbotene Freizeitbetätigungen ausübt;
 - c) ohne Bewilligung nachteilige Nutzungen vornimmt;
-- d) Lebensräume von Pflanzen und wildlebenden Tieren in schwerwiegender Weise beeinträchtigt, die Meldepflicht für Veranstaltungen missachtet, Veranstaltungen ohne Bewilligung durchführt oder Bedingungen und Auflagen verletzt.
+- d) Lebensräume von Pflanzen und wildlebenden Tieren in schwerwiegender Weise beeinträchtigt, die Meldepflicht für Veranstaltungen missachtet, Veranstaltungen ohne Bewilligung durchführt oder Bedingungen und Auflagen verletzt;
+- e) Holzerntearbeiten im Auftrag ohne minimale Ausbildung[^39-1] ausführt.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
 <sup>3</sup> …
+
+[^39-1]: Vgl. Art. [21a](https://db.clex.ch/link/Bund/921.0/de) des BG über den Wald vom 4. Oktober 1991, SR [921.0](https://db.clex.ch/link/Bund/921.0/de).
 
 #### Art. 40
 
