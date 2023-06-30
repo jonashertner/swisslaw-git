@@ -4,13 +4,12 @@ number: "111.31"
 title: Gesetz über die amtlichen Publikationsorgane
 short: "Publikationsgesetz, PuG"
 language: de
-version: 2018-10-01
-valid_until: 2023-06-30
-version_adopted: 2018-03-20
+version: 2023-07-01
+version_adopted: 2022-07-06
 adopted: 2018-03-20
 in_force: 2018-10-01
 url: "https://bgs.so.ch/app/de/texts_of_law/111.31"
-pdf: "https://bgs.so.ch/api/de/versions/4750/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5330/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4750/pdf_file"
 
 (Publikationsgesetz, PuG)
 
-Vom 20.03.2018 (Stand 01.10.2018)
+Vom 20.03.2018 (Stand 01.07.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -50,7 +49,7 @@ beschliesst:
 
 #### § 2
 
-**Inhalt**
+**Zweck und Inhalt**
 
 <sup>1</sup> Das Amtsblatt des Kantons Solothurn dient als Publikationsorgan für die vom kantonalen oder eidgenössischen Recht vorgesehenen Bekanntmachungen.
 
@@ -60,17 +59,17 @@ beschliesst:
 - b) Ergebnisse von kantonalen Volksabstimmungen und -wahlen;
 - c) vom kantonalen oder eidgenössischen Recht vorgesehene Bekanntmachungen.
 
-<sup>3</sup> Andere behördliche Bekanntmachungen und Inserate werden im nichtamtlichen Inserateteil publiziert.
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
 #### § 3
 
 **Publikation**
 
-<sup>1</sup> Das Amtsblatt wird in gedruckter Form publiziert. Die Staatskanzlei publiziert das Amtsblatt unter Beachtung von § 4 im Internet.
+<sup>1</sup> Das Amtsblatt wird in elektronischer Form publiziert. Es kann zusätzlich ganz oder teilweise in gedruckter Form bezogen werden.
 
-<sup>2</sup> Massgebend ist die gedruckte Fassung.
+<sup>2</sup> …
 
-<sup>3</sup> Die Staatskanzlei besorgt die Redaktion, entscheidet über Drucklegung, Administration und Spedition. Administration und Spedition können einer verwaltungsexternen Druckerei übertragen werden.
+<sup>3</sup> Die Staatskanzlei besorgt die Redaktion und Administration.
 
 #### § 4
 
@@ -78,9 +77,9 @@ beschliesst:
 
 <sup>1</sup> Veröffentlichungen nach diesem Gesetz können Personendaten enthalten; insbesondere können sie auch besonders schützenswerte Personendaten nach § 6 Absatz 3 des Informations- und Datenschutzgesetzes vom 21. Februar 2001[^4-1] enthalten, sofern dies für eine in einem Bundesgesetz oder in einem kantonalen Gesetz vorgesehene Veröffentlichung notwendig ist.
 
-<sup>2</sup> Die aktuelle Ausgabe des gedruckten Amtsblattes wird mit Einschluss von Personendaten und besonders schützenswerten Personendaten im Internet veröffentlicht.
+<sup>2</sup> Publikationen, die Personendaten enthalten, dürfen im Internet nicht länger zugänglich sein und nicht mehr Informationen enthalten, als es ihr Zweck erfordert.
 
-<sup>3</sup> Der Regierungsrat legt die weiteren notwendigen Massnahmen fest, um bei der Online-Veröffentlichung den Schutz von besonders schützenswerten Personendaten sicherzustellen; er berücksichtigt dabei den Stand der Technik.
+<sup>3</sup> Der Regierungsrat bestimmt durch Verordnung die Zeiträume, während derer die Veröffentlichungen über eine Suchfunktion erschlossen werden. Er legt zudem weitere Massnahmen fest, um den Schutz von Personendaten sicherzustellen; dabei ist der Stand der Technik zu berücksichtigen.
 
 [^4-1]: BGS [114.1](https://bgs.so.ch/data/114.1/de).
 
@@ -110,7 +109,7 @@ beschliesst:
 
 <sup>1</sup> Sobald allfällige Veto- oder Referendumsfristen unbenutzt abgelaufen sind und das Inkrafttreten beschlossen wurde, werden die allgemein verbindlichen Erlasse und Erlassänderungen elektronisch publiziert.
 
-<sup>2</sup> Die GS wird jährlich als Band in gedruckter Form herausgegeben.
+<sup>2</sup> Die GS kann zusätzlich ganz oder teilweise in gedruckter Form veröffentlicht werden.
 
 ## 4. Bereinigte Sammlung der solothurnischen Erlasse (BGS)
 
@@ -164,19 +163,25 @@ beschliesst:
 
 <sup>1</sup> Amtsblatt, GS und BGS werden von der Staatskanzlei herausgegeben.
 
+<sup>2</sup> Sie macht die Internetseiten bekannt, auf welchen die elektronischen Publikationen veröffentlicht werden.
+
+<sup>3</sup> Sie stellt durch geeignete Massnahmen sicher, dass die Internetpublikation nicht unberechtigt oder unbeabsichtigt verändert wird.
+
 #### § 13
 
-**Zugang**
+**Einsichtnahme und Gebühren**
 
-<sup>1</sup> Der Zugang zum aktuellen Amtsblatt, zur GS und zur BGS im Internet ist unentgeltlich.
+<sup>1</sup> Der Zugang zur elektronischen Fassung des Amtsblatts, der GS und der BGS sowie das Herunterladen von Inhalten daraus für die individuelle Bearbeitung sind unentgeltlich. Für Publikationen in gedruckter Form setzt der Regierungsrat angemessene Gebühren nach Aufwand fest.
 
-<sup>2</sup> Der Regierungsrat regelt die Abonnementsgebühren für das Amtsblatt, die Gebühren für die amtlichen Publikationen und die Preise für die Inserate im Amtsblatt sowie die Gebühren der gedruckten Fassung der GS.
+<sup>1<sup>bis</sup></sup> Der Regierungsrat bezeichnet durch Verordnung die Stellen, bei denen Einsicht in die Publikationen genommen werden kann.
+
+<sup>2</sup> Die Kosten für die Publikationen im Amtsblatt werden dem Auftraggeber auferlegt.
 
 #### § 14
 
 **Massgebende Fassung**
 
-<sup>1</sup> Stimmt der Inhalt der BGS nicht mit der Publikation in der GS oder im Amtsblatt überein, ist die gedruckte Fassung der GS massgebend. Solange diese nicht vorliegt, ist die elektronische Fassung der GS massgebend.
+<sup>1</sup> Massgebend sind die elektronischen Fassungen. Stimmt der Inhalt der BGS nicht mit der Publikation in der GS oder im Amtsblatt überein, ist die Amtsblattpublikation massgebend.
 
 <sup>2</sup> Erscheint ein Text in den kantonalen Publikationen nur mit Titel, Einsichtsstelle und Bezugsquelle, ist die Fassung, auf die verwiesen wird, massgebend.
 
