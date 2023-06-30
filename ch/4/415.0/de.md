@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2011 über die Förderung von Sport und Bewegu
 short: SpoFöG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: de
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/de"
 
 (Sportförderungsgesetz, SpoFöG)
 
-vom 17. Juni 2011 (Stand am 23. Januar 2023)
+vom 17. Juni 2011 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -298,7 +298,7 @@ Die Dopingkontrollstellen nach Absatz 2 sind berechtigt, die im Zusammenhang mit
 
 <sup>1</sup> Wer zu Dopingzwecken Mittel nach Artikel 19 Absatz 3 herstellt, erwirbt, einführt, ausführt, durchführt, vermittelt, vertreibt, verschreibt, in Verkehr bringt, abgibt oder besitzt oder Methoden nach Artikel 19 Absatz 3 bei Dritten anwendet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2</sup> In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren; mit der Freiheitsstrafe wird eine Geldstrafe verbunden.
+<sup>2</sup> In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.[^22-1]
 
 <sup>3</sup>
 
@@ -310,6 +310,8 @@ Ein schwerer Fall liegt namentlich vor, wenn die Täterin oder der Täter:
 - d. durch gewerbsmässiges Handeln einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
 
 <sup>4</sup> Erfolgen Herstellung, Erwerb, Einfuhr, Ausfuhr, Durchfuhr oder Besitz ausschliesslich zum Zweck des eigenen Konsums, so bleibt die Täterin oder der Täter straflos.
+
+[^22-1]: Fassung gemäss Ziff. I 15 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 23
 
@@ -375,10 +377,12 @@ In den Fällen nach Absatz 1 Buchstabe b dürfen nur die folgenden Daten weiterg
 
 <sup>3</sup>
 
-In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe; mit der Freiheitsstrafe wird eine Geldstrafe verbunden. Ein schwerer Fall liegt namentlich vor, wenn die Täterin oder der Täter:
+In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Ein schwerer Fall liegt namentlich vor, wenn die Täterin oder der Täter:[^25a-1]
 
 - a. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung der indirekten oder direkten Wettkampfmanipulation zusammengefunden hat;
 - b. durch gewerbsmässiges Handeln einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
+
+[^25a-1]: Fassung gemäss Ziff. I 15 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25b
 

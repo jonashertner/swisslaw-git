@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2011 sulla promozione dello sport e dell'at
 short: LPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: it
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/it"
 
 (Legge sulla promozione dello sport, LPSpo)
 
-del 17 giugno 2011 (Stato 23 gennaio 2023)
+del 17 giugno 2011 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -298,7 +298,7 @@ Gli organi di controllo antidoping di cui al capoverso 2 sono autorizzati a trat
 
 <sup>1</sup> Chiunque a scopo di doping fabbrica, acquista, importa, esporta, fa transitare, procura per mediazione, smercia, prescrive, mette in circolazione, consegna o possiede prodotti dopanti di cui all’articolo 19 capoverso 3 o applica a terzi metodi dopanti di cui all’articolo 19 capoverso 3, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>2</sup> Nei casi gravi la pena è una pena detentiva sino a cinque anni; la pena detentiva è cumulata con una pena pecuniaria.
+<sup>2</sup> Nei casi gravi la pena è una pena detentiva sino a cinque anni o una pena pecunia-ria.[^22-1]
 
 <sup>3</sup>
 
@@ -310,6 +310,8 @@ Il caso è considerato grave segnatamente se l’autore:
 - d. realizza una grossa cifra d’affari o un guadagno considerevole agendo per mestiere.
 
 <sup>4</sup> Se la fabbricazione, l’acquisto, l’importazione, l’esportazione, il transito o il possesso sono finalizzati esclusivamente al consumo personale, il responsabile è esente da pena.
+
+[^22-1]: Nuovo testo giusta il n. I 15 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 23
 
@@ -375,10 +377,12 @@ Nei casi di cui al capoverso 1 lettera b possono essere comunicati soltanto i da
 
 <sup>3</sup>
 
-In casi gravi la pena è una pena detentiva sino a cinque anni o una pena pecuniaria; con la pena detentiva è cumulata una pena pecuniaria. Vi è caso grave segnatamente se l’autore:
+Nei casi gravi la pena è una pena detentiva sino a cinque anni o una pena pecunia-ria. Vi è caso grave segnatamente se l’autore:[^25a-1]
 
 - a. agisce come membro di una banda costituitasi per esercitare sistematicamente la manipolazione diretta o indiretta delle competizioni;
 - b. realizza una grossa cifra d’affari o un guadagno considerevole agendo per mestiere.
+
+[^25a-1]: Nuovo testo giusta il n. I 15 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25b
 

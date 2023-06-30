@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2011 sur l'encouragement du sport et de l'acti
 short: LESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: fr
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/fr"
 
 (Loi sur l’encouragement du sport, LESp)[^t-1]
 
-du 17 juin 2011 (État le 23 janvier 2023)
+du 17 juin 2011 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -300,7 +300,7 @@ Les organes visés à l’al. 2 sont habilités à traiter les données qu’ils
 
 <sup>1</sup> Quiconque, à des fins de dopage, fabrique, acquiert, importe, exporte, fait transiter, procure, distribue, prescrit, met sur le marché, remet ou détient des produits visés à l’art. 19, al. 3, ou applique à des tiers des méthodes qui y sont visées est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Dans les cas graves, la peine est une peine privative de liberté de cinq ans au plus, cumulée avec une peine pécuniaire.
+<sup>2</sup> Dans les cas graves, la peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire.[^22-1]
 
 <sup>3</sup>
 
@@ -312,6 +312,8 @@ Le cas est grave notamment lorsque l’auteur:
 - d. se livre au trafic par métier et réalise ainsi un chiffre d’affaires ou un gain important.
 
 <sup>4</sup> L’auteur n’encourt aucune peine si la fabrication, l’acquisition, l’importation, l’exportation, le transit ou la détention sont réservés à son usage personnel.
+
+[^22-1]: Nouvelle teneur selon le ch. I 15 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 23
 
@@ -377,10 +379,12 @@ Dans les cas visés à l’al. 1, let. b, seules les données suivantes peuvent 
 
 <sup>3</sup>
 
-Dans les cas graves, le juge prononce une peine privative de liberté de cinq ans au plus ou une peine pécuniaire; en cas de peine privative de liberté, une peine pécuniaire est également prononcée. Le cas est grave notamment lorsque le délinquant:
+Dans les cas graves, le juge prononce une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. Le cas est grave notamment lorsque le délinquant:[^25a-1]
 
 - a. agit comme membre d’une bande formée pour se livrer de manière systématique à la manipulation indirecte ou directe de compétitions;
 - b. réalise un chiffre d’affaires ou un gain importants en faisant métier de manipuler des compétitions.
+
+[^25a-1]: Nouvelle teneur selon le ch. I 15 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25b
 
@@ -524,7 +528,7 @@ La loi fédérale du 17 mars 1972 encourageant la gymnastique et les sports[^33-
 
 **Modification du droit en vigueur**
 
-...[^34-1]
+…[^34-1]
 
 [^34-1]: Les mod. peuvent être consultées au [RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460).
 

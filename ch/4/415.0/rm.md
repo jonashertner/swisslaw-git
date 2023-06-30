@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2011 davart la promoziun dal sport 
 short: LPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: rm
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha per promover il sport, LPSpo)
 
-dals 17 da zercladur 2011 (versiun dals 23 da schaner 2023)
+dals 17 da zercladur 2011 (versiun dal 1. da fanadur 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -300,7 +300,7 @@ Las autoritads da controlla da doping tenor l’alinea 2 han il dretg d’elavur
 
 <sup>1</sup> Tgi che producescha, acquista, importa, exporta, transferescha, intermediescha, distribuescha, perscriva, metta en circulaziun, consegna u posseda – per intents da doping – products tenor l’artitgel 19 alinea 3 u applitgescha envers terzs metodas tenor l’artitgel 19 alinea 3, vegn chastià cun in chasti da detenziun fin 3 onns u cun in chasti pecuniar.
 
-<sup>2</sup> En cas grevs è il chasti in chasti da detenziun fin 5 onns; ensemen cun il chasti da detenziun vegn pronunzià in chasti pecuniar.
+<sup>2</sup> En cas grevs è il chastì in chasti da detenziun da fin 5 onns u in chasti pecuniar.[^22-1]
 
 <sup>3</sup>
 
@@ -312,6 +312,8 @@ In cas grev è avant maun en spezial, sch’il delinquent:
 - d. fa ina gronda svieuta u in gudogn considerabel cun agir a titel professiunal.
 
 <sup>4</sup> Sche la producziun, l’acquisiziun, l’import, l’export, il transit u il possess èn destinads exclusivamain per l’agen consum, na vegn il delinquent betg chastià.
+
+[^22-1]: Versiun tenor la cifra I 15 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 23
 
@@ -377,10 +379,12 @@ En ils cas tenor l’alinea 1 litera b dastgan vegnir communitgadas mo las suand
 
 <sup>3</sup>
 
-En cas grevs è il chastì in chasti da detenziun fin 5 onns u in chasti pecuniar; ensemen cun il chasti da detenziun vegn pronunzià in chasti pecuniar. In cas grev è avant maun en spezial, sch’il delinquent:
+En cas grevs è il chastì in chasti da detenziun da fin 5 onns u in chasti pecuniar. In cas grev è avant maun en spezial, sch’il delinquent:[^25a-1]
 
 - a. agescha sco commember d’ina banda ch’è s’unida cun l’intent da sa deditgar cuntinuadamain a la manipulaziun directa u indirecta da concurrenzas;
 - b. fa ina gronda svieuta u in gudogn considerabel cun agir a titel professiunal.
+
+[^25a-1]: Versiun tenor la cifra I 15 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25b
 

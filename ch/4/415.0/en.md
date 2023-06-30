@@ -4,11 +4,11 @@ title: "Federal Act of 17 June 2011 on the Prommotion of Sport and Exercise (Spo
 short: SpoPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: en
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Sport Promotion Act, SpoPA)
 
-of 17 June 2011 (Status as of 23 January 2023)
+of 17 June 2011 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation, based on Article 68 of the Federal Constitution[^ingress-1], having considered the Federal Council Dispatch of 11 November 2009[^ingress-2],
 
@@ -298,7 +298,7 @@ The doping control agencies listed in paragraph 2 are entitled to process the pe
 
 <sup>1</sup> Any person who manufactures, acquires, imports, exports, conveys, distributes, sells, prescribes, markets, administers or possesses doping substances under Article 19 paragraph 3 or applies methods under Article 19 paragraph 3 to third parties is liable to a custodial sentence not exceeding three years or a monetary penalty.
 
-<sup>2</sup> In serious cases, a custodial sentence not exceeding five years may be imposed; a monetary penalty shall be combined with the custodial sentence.
+<sup>2</sup> In serious cases, a custodial sentence not exceeding five years or a monetary penalty may be imposed.[^22-1]
 
 <sup>3</sup>
 
@@ -310,6 +310,8 @@ A case is considered serious in particular if the offender:
 - d. makes a large turnover or a considerable profit from commercial trade.
 
 <sup>4</sup> If the manufacture, acquisition, import, export, conveyance or possession of doping substances are exclusively for personal consumption, the person is not liable to a penalty.
+
+[^22-1]: Amended by No I 15 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 23
 
@@ -375,10 +377,12 @@ In the cases under paragraph 1 letter b, only the following data may be transmit
 
 <sup>3</sup>
 
-In serious cases, the penalty shall be a custodial sentence not exceeding five years or a monetary penalty; any custodial sentence shall be combined with a monetary penalty. A serious case arises in particular where the offender:
+In serious cases, the penalty shall be a custodial sentence not exceeding five years or a monetary penalty. A serious case arises in particular where the offender:[^25a-1]
 
 - a. acts as a member of a group that has been formed for the purpose of the continued conduct of indirect or direct competition rigging;
 - b. achieves a large turnover or substantial profit by acting commercially.
+
+[^25a-1]: Amended by No I 15 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25b
 
