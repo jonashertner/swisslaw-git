@@ -4,13 +4,12 @@ number: "450.250"
 title: Verordnung zum Gesetz über Ausbildungsbeiträge
 short: "Stipendienverordnung, StipVO"
 language: de
-version: 2013-08-01
-corrected: 2016-09-02
-version_adopted: 2013-06-25
+version: 2023-07-01
+version_adopted: 2023-05-30
 adopted: 2007-06-19
 in_force: 2007-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/450.250"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2334/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2334/pdf_file"
 
 (Stipendienverordnung, StipVO)
 
-Vom 19.06.2007 (Stand 01.08.2013)
+Vom 19.06.2007 (Stand 01.07.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 23 des Gesetzes über Ausbildungsbeiträge (Stipendiengesetz, StipG) vom 5. Dezember 2006[^ingress-2]
 
@@ -42,7 +41,7 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Weitere beitragsberechtigte Personen**
 
-<sup>1</sup> Neben den gemäss Stipendiengesetz erwähnten beitragsberechtigten Personen können Ausbildungsbeiträge ausnahmsweise an Personen ausgerichtet werden, die nach vollendetem 40. Altersjahr eine Ausbildung beginnen, über keine Berufsbefähigung verfügen und für die ein wirtschaftliches Fortkommen ohne Ausbildung nicht gesichert ist.
+<sup>1</sup> Neben den gemäss Stipendiengesetz erwähnten beitragsberechtigten Personen können Ausbildungsbeiträge ausnahmsweise an Personen ausgerichtet werden, die nach vollendetem 40. Altersjahr eine Ausbildung beginnen und über keine Berufsbefähigung verfügen oder deren berufsbefähigende Ausbildung nicht mehr angeboten wird.
 
 <sup>2</sup> Bestehen im Zusammenhang mit dem stipendienrechtlichen Wohnsitz interkantonale oder internationale Differenzen bezüglich der kantonalen Zuständigkeit, so entscheidet die Fachstelle über die Beitragsberechtigung.
 
@@ -64,7 +63,7 @@ von der Regierung erlassen am 19. Juni 2007
 
 **An- und Aberkennung von Ausbildungen**
 
-<sup>1</sup> Für die Intensiv-Deutschkurse am Landwirtschaftlichen Bildungs- und Beratungszentrum Plantahof in Landquart können an Personen, welche die obligatorische Schulzeit abgeschlossen haben, Ausbildungsbeiträge gewährt werden.
+<sup>1</sup> Für die Intensiv-Deutschkurse am Plantahof in Landquart können an Personen, welche die obligatorische Schulzeit abgeschlossen haben, Ausbildungsbeiträge gewährt werden.
 
 <sup>2</sup> Für Ausbildungen von Geistlichen, welche nicht der Glaubensrichtung einer kantonal öffentlichrechtlich anerkannten Landeskirche oder Religionsgemeinschaft angehören, kann die Regierung Ausbildungsbeiträge gewähren.
 
@@ -130,7 +129,7 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Höhere Schul- und Studiengelder**
 
-<sup>1</sup> Ein Schul- und Studiengeld zwischen 1500 Franken und maximal 9200 Franken wird angerechnet, wenn:
+<sup>1</sup> Ein Schul- und Studiengeld zwischen 1500 Franken und maximal 9800 Franken wird angerechnet, wenn:
 
 - a) der Ausbildungsgang im Kanton angeboten oder mit Kantonsbeiträgen unterstützt wird. Wird der Ausbildungsgang durch verschiedene Institutionen angeboten, wird das günstigere Schulgeld angerechnet;
 - b) der Ausbildungsgang in einer für den Kanton geltenden Schulgeldvereinbarung geregelt ist und durch die Ausbildungsstätte ein höheres Schul- und Studiengeld verlangt wird;
@@ -140,12 +139,12 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Lehrmittel, Schulmaterial und Gebühren**
 
-<sup>1</sup> Anrechenbar sind die effektiven Kosten, jedoch höchstens:
+<sup>1</sup> Für Lehrmittel, Schulmaterial und Gebühren werden pauschal 1000 Franken angerechnet.
 
-- a) 1500 Franken für Hochschulen und höhere Fachschulen;
-- b) 900 Franken für schulische Vollzeitangebote;
-- c) 500 Franken für Gymnasien, Fachmittelschulen und Berufsmaturitätsschulen nach der Lehre;
-- d) 400 Franken für alle übrigen Ausbildungen.
+- a) …
+- b) …
+- c) …
+- d) …
 
 #### Art. 12
 
@@ -153,11 +152,11 @@ von der Regierung erlassen am 19. Juni 2007
 
 <sup>1</sup> Es werden folgende Kosten angerechnet:
 
-- a) für «Kost und Logis auswärts» die tatsächlichen Kosten bis höchstens 11 300 Franken; davon werden 5900 Franken für Kost und maximal 5400 Franken für Logis angerechnet;
-- b) für «Kost und Logis bei den Eltern mit mindestens 5 Mittagessen pro Woche auswärts» 3000 Franken;
-- c) für «Kost und Logis bei den Eltern» 2000 Franken.
+- a) für «Kost und Logis auswärts» die tatsächlichen Kosten bis höchstens 13 500 Franken; davon werden 6300 Franken für Kost und maximal 7200 Franken für Logis angerechnet;
+- b) für «Kost und Logis bei den Eltern mit Mittagessen auswärts» 3200 Franken;
+- c) für «Kost und Logis bei den Eltern» 2100 Franken.
 
-<sup>2</sup> Für die Ermittlung der anrechenbaren Aufwendungen für Kost und Logis wird darauf abgestellt, ob die «Wegstrecke Wohnort Eltern - Ausbildungsort» im Tagespendelbereich liegt und ob eine Heimkehr zur Einnahme des Mittagessens zumutbar ist. Ausbildungszeiten der stipendienberechtigten Person sind zu berücksichtigen.
+<sup>2</sup> Für die Ermittlung der anrechenbaren Aufwendungen für Kost und Logis wird darauf abgestellt, ob die «Wegstrecke Wohnort Eltern - Ausbildungsort» im Tagespendelbereich liegt und ob eine Heimkehr zur Einnahme des Mittagessens zumutbar ist. Ausbildungszeiten der stipendienberechtigten Person sind zu berücksichtigen. Bei anerkannten Flüchtlingen und Staatenlosen, deren Eltern sich nicht in der Schweiz aufhalten, ist die «Wegstrecke Wohnort Stipendiat - Ausbildungsort» massgebend.
 
 <sup>3</sup> Bei stipendienberechtigten Personen, die verheiratet sind, die in eingetragener Partnerschaft leben oder die für den Unterhalt von Kindern aufkommen müssen, ist der Ansatz für «Kost und Logis auswärts» anzurechnen, wenn sie einen eigenen Haushalt führen.
 
@@ -167,20 +166,20 @@ von der Regierung erlassen am 19. Juni 2007
 
 <sup>1</sup> Als Reiseaufwendungen werden die Aufwendungen für die kostengünstigste Benützung der öffentlichen Verkehrsmittel, höchstens aber die Kosten eines Generalabonnements der Schweizerischen Bundesbahnen (SBB) angerechnet.
 
-<sup>2</sup> Für die Ermittlung der Reiseaufwendungen ist die Wegstrecke «Wohnort Eltern - Ausbildungsort», bei Verheirateten, bei in eingetragener Partnerschaft lebenden oder bei stipendienberechtigten Personen mit Unterhaltspflicht und eigenem Haushalt die Wegstrecke «Wohnort Stipendiat - Ausbildungsort» massgebend.
+<sup>2</sup> Für die Ermittlung der Reiseaufwendungen ist die Wegstrecke «Wohnort Eltern - Ausbildungsort», bei Verheirateten, bei in eingetragener Partnerschaft lebenden oder bei stipendienberechtigten Personen mit Unterhaltspflicht und eigenem Haushalt sowie bei anerkannten Flüchtlingen und Staatenlosen, deren Eltern sich nicht in der Schweiz aufhalten, die Wegstrecke «Wohnort Stipendiat - Ausbildungsort» massgebend.
 
-<sup>3</sup> Befindet sich die Ausbildungsstätte ausserhalb des Kantons und wird kein Nachweis über die Benützung der öffentlichen Verkehrsmittel erbracht, so wird für die Reiseaufwendungen eine Pauschale von 1000 Franken berücksichtigt.
+<sup>3</sup> Befindet sich die Ausbildungsstätte ausserhalb des Kantons und wird kein Nachweis über die Benützung der öffentlichen Verkehrsmittel erbracht, so wird für die Reiseaufwendungen eine Pauschale von 1100 Franken berücksichtigt.
 
 #### Art. 14
 
 **Bekleidung, Versicherungen, weitere Auslagen**
 
-<sup>1</sup> Für Kleider und Wäsche werden pauschal 1100 Franken angerechnet.
+<sup>1</sup> Für Kleider und Wäsche werden pauschal 1200 Franken angerechnet.
 
 <sup>2</sup> Für Körperpflege, Versicherungen, Kultur und weitere Auslagen werden pauschal angerechnet:
 
-- a) 900 Franken für stipendienberechtigte Personen, welche zu Beginn des Ausbildungsjahres das 20. Altersjahr noch nicht erfüllt haben;
-- b) 1900 Franken für alle übrigen stipendienberechtigten Personen und für solche an Universitäten oder Eidgenössischen Technischen Hochschulen.
+- a) 1000 Franken für stipendienberechtigte Personen, welche zu Beginn des Ausbildungsjahres das 18. Altersjahr noch nicht erfüllt haben;
+- b) 2000 Franken für alle übrigen stipendienberechtigten Personen.
 
 #### Art. 15
 
@@ -202,27 +201,27 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Eigenverdienst und Ferienerwerb**
 
-<sup>1</sup> Vom Lehrlingslohn oder einer anderen vertraglichen Entschädigung sind 1700 Franken pro Jahr frei. Der diese Summe übersteigende Bruttoerwerb wird in der Stipendienberechnung als Einnahme angerechnet. Ein allfälliger 13. Monatslohn oder eine Gratifikation werden nicht angerechnet.
+<sup>1</sup> Vom Lehrlingslohn oder einer anderen vertraglichen Entschädigung sind 3600 Franken pro Jahr frei. Der diese Summe übersteigende Bruttoerwerb wird in der Stipendienberechnung als Einnahme angerechnet. Ein allfälliger 13. Monatslohn oder eine Gratifikation werden nicht angerechnet.
 
-<sup>2</sup> Bei stipendienberechtigten Personen, die auf Grund ihrer Ausbildung mehr als fünf Wochen Ferien pro Jahr zur Verfügung haben und weder Lehrlingslohn noch eine vertragliche Entschädigung erhalten, wird als Erwerb angerechnet:
+<sup>2</sup> Bei stipendienberechtigten Personen, die auf Grund ihrer Ausbildung mehr als fünf Wochen Ferien beziehungsweise mehr als fünf Wochen vorlesungsfreie Zeit pro Ausbildungsjahr zur Verfügung haben und weder Lehrlingslohn noch eine vertragliche Entschädigung erhalten, wird als Erwerb angerechnet:
 
-- a) 2900 Franken für unter 25-jährige Studierende ab der Tertiärstufe sowie für Personen, bei denen die zumutbare Leistung der Eltern reduziert ist;
-- b) 1400 Franken für unter 25-jährige Studierende in allen übrigen Ausbildungen;
-- c) 3400 Franken für über 25-jährige Studierende aller Ausbildungen.
+- a) 3100 Franken für unter 25-jährige Studierende ab der Tertiärstufe sowie für Personen, bei denen die zumutbare Leistung der Eltern reduziert ist;
+- b) 1500 Franken für unter 25-jährige Studierende in allen übrigen Ausbildungen;
+- c) 3600 Franken für über 25-jährige Studierende aller Ausbildungen.
 
 <sup>3</sup> Bei Teilzeitausbildungen wird das Einkommen aus Erwerbstätigkeit in die Berechnung miteinbezogen. Wird keiner Erwerbstätigkeit nachgegangen, so wird ein zumutbares Einkommen angerechnet, wobei ein Freibetrag entsprechend der Bestimmung über den Lehrlingslohn zum Tragen kommt.
 
 #### Art. 18
 
-**Vermögensertrag stipendienberechtigte Person**
+**Vermögensverzehr der stipendienberechtigten Person**
 
-<sup>1</sup> Das Reinvermögen der stipendienberechtigten Person ist bis zu 15 000 Franken frei. 20 Prozent des den Freibetrag übersteigenden Reinvermögens der stipendienberechtigten Person wird als Einnahme angerechnet.
+<sup>1</sup> Das Reinvermögen der stipendienberechtigten Person ist bis zu 20 000 Franken frei. 20 Prozent des den Freibetrag übersteigenden Reinvermögens der stipendienberechtigten Person wird als Einnahme angerechnet.
 
 #### Art. 19
 
 **Einkommen des Ehepartners**
 
-<sup>1</sup> Bei verheirateten und bei in eingetragener Partnerschaft lebenden stipendienberechtigten Personen werden 50 000 Franken des Bruttoerwerbs des Partners für dessen Lebensunterhalt zugestanden. Dieser Betrag erhöht sich je Kind um 5000 Franken. Übersteigt der Bruttoerwerb des Partners 50 000 Franken zuzüglich 5000 Franken je Kind, wird die Differenz vollumfänglich als Einnahme berücksichtigt.
+<sup>1</sup> Bei verheirateten und bei in eingetragener Partnerschaft lebenden stipendienberechtigten Personen werden 55 000 Franken des Bruttoerwerbs des Partners für dessen Lebensunterhalt zugestanden. Dieser Betrag erhöht sich je Kind um 5000 Franken. Übersteigt der Bruttoerwerb des Partners 55 000 Franken zuzüglich 5000 Franken je Kind, wird die Differenz vollumfänglich als Einnahme berücksichtigt.
 
 #### Art. 20
 
@@ -258,7 +257,7 @@ von der Regierung erlassen am 19. Juni 2007
 
 **3. Ermittlung des Basisbetrags**
 
-<sup>1</sup> Das massgebende Vermögen der Eltern ist bis zu 190 000 Franken frei. Das diesen Betrag übersteigende massgebende Vermögen wird zu sechs Prozent zum massgebenden Einkommen der Eltern gerechnet.
+<sup>1</sup> Das massgebende Vermögen der Eltern ist bis zu 210 000 Franken frei. Das diesen Betrag übersteigende massgebende Vermögen wird zu sechs Prozent zum massgebenden Einkommen der Eltern gerechnet.
 
 <sup>2</sup> Das massgebende Einkommen und der zu diesem addierte Anteil des massgebenden Vermögens bilden den Basisbetrag. Der Basisbetrag wird auf 1000 Franken abgerundet.
 
@@ -272,22 +271,22 @@ von der Regierung erlassen am 19. Juni 2007
 
 <sup>1</sup> Der errechnete Basisbetrag ergibt folgenden zumutbaren Elternbeitrag:
 
-- a) 0 Franken für die ersten 24 000 Franken;
-- b) 100 Franken für je weitere 1000 Franken bis und mit 30 000 Franken;
-- c) 200 Franken für je weitere 1000 Franken bis und mit 52 000 Franken;
-- d) 300 Franken für je weitere 1000 Franken bis und mit 74 000 Franken;
-- e) 400 Franken für je weitere 1000 Franken bis und mit 80 000 Franken;
+- a) 0 Franken für die ersten 25 000 Franken;
+- b) 100 Franken für je weitere 1000 Franken bis und mit 35 000 Franken;
+- c) 200 Franken für je weitere 1000 Franken bis und mit 65 000 Franken;
+- d) 300 Franken für je weitere 1000 Franken bis und mit 85 000 Franken;
+- e) 400 Franken für je weitere 1000 Franken bis und mit 95 000 Franken;
 - f) 500 Franken für je weitere 1000 Franken.
 
-<sup>2</sup> Ist gemäss Stipendiengesetz ein reduzierter Elternbeitrag zu berücksichtigen, wird der errechnete Basisbetrag um 60 000 Franken reduziert.
+<sup>2</sup> Ist gemäss Stipendiengesetz ein reduzierter Elternbeitrag zu berücksichtigen, wird der errechnete Basisbetrag um 65 000 Franken reduziert.
 
 #### Art. 24
 
 **Aufteilung des Elternbeitrags**
 
-<sup>1</sup> Die stipendienberechtigte Person wie auch die Geschwister, welche sich in nachobligatorischer Ausbildung befinden, haben gleiche Anteile am zumutbaren Elternbeitrag. Geschwister in Teilzeitausbildungen werden in die Aufteilung des Elternbeitrages nur dann miteinbezogen, wenn das monatliche Bruttoeinkommen 2000 Franken nicht übersteigt. Sprachkurse werden berücksichtigt, sofern die Ausbildung mindestens 16 Wochen dauert.
+<sup>1</sup> Die stipendienberechtigte Person wie auch die Geschwister, welche sich in nachobligatorischer Ausbildung befinden, haben gleiche Anteile am zumutbaren Elternbeitrag. Geschwister in Teilzeitausbildungen werden in die Aufteilung des Elternbeitrages nur dann miteinbezogen, wenn das monatliche Bruttoeinkommen 3000 Franken nicht übersteigt. Sprachkurse werden berücksichtigt, sofern die Ausbildung mindestens 16 Wochen dauert.
 
-<sup>2</sup> Studierende von Familien mit vier oder mehr Kindern erhalten eine Reduktion des je Kind berechneten Elternbeitrages von 2000 Franken, wenn mindestens vier Kinder die obligatorische Schulzeit noch nicht abgeschlossen haben oder in nachobligatorischer Ausbildung sind.
+<sup>2</sup> Studierende von Familien mit vier oder mehr Kindern erhalten eine Reduktion des je Kind berechneten Elternbeitrages von 2100 Franken, wenn mindestens vier Kinder die obligatorische Schulzeit noch nicht abgeschlossen haben oder in nachobligatorischer Ausbildung sind.
 
 <sup>3</sup> Der Anteil des zumutbaren Elternbeitrages wird von den anrechenbaren Kosten pro Jahr, nach Abzug der anderen anrechenbaren Einnahmen, abgezogen.
 
@@ -319,7 +318,7 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Höchstlimite Einnahmen**
 
-<sup>1</sup> Stipendien von Kanton und Bund, Stipendien Dritter sowie übrige Einnahmen dürfen 23 000 Franken nicht übersteigen.
+<sup>1</sup> Stipendien von Kanton und Bund, Stipendien Dritter sowie übrige Einnahmen dürfen 28 000 Franken nicht übersteigen.
 
 <sup>2</sup> Entrichten Gesuchstellende höhere Schul- und Studiengelder als 1500 Franken, so erhöht sich die Limite im Umfang der entsprechenden Differenz.
 
@@ -337,9 +336,7 @@ von der Regierung erlassen am 19. Juni 2007
 
 #### Art. 30
 
-**Höheres Stipendium**
-
-<sup>1</sup> Bei ausserordentlich hohen Ausbildungskosten oder bei ausserordentlich hoher Belastung durch die Ausbildung kann das Departement im Einzelfall über die Höhe des Stipendiums befinden.
+**…**
 
 ## 3. Darlehen
 
@@ -383,8 +380,8 @@ von der Regierung erlassen am 19. Juni 2007
 
 <sup>1</sup> Das Total der Einkünfte der Eltern gemäss Veranlagungsverfügung für die direkte Bundessteuer und deren gesamtes Reinvermögen dürfen folgende Höchstlimiten nicht übersteigen:
 
-- a) Total der Einkünfte — 180 000 Franken;
-- b) Reinvermögen — 500 000 Franken.
+- a) Total der Einkünfte — 200 000 Franken;
+- b) Reinvermögen — 540 000 Franken.
 
 <sup>2</sup> Bilden die massgebenden Einkommen und Vermögen nicht die finanzielle Leistungsfähigkeit der Eltern ab, so kann insbesondere bei privaten Liegenschaften, welche die Eltern nicht dauernd selbst bewohnen, bei Leistungen der Sozialversicherungen und bei Ermessenstaxationen das massgebende Einkommen und Vermögen entsprechend korrigiert werden.
 
@@ -394,11 +391,11 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Höchstansätze**
 
-<sup>1</sup> Für Personen, welche Stipendien erhalten, können höchstens 10 000 Franken Darlehen pro Ausbildungsjahr gewährt werden.
+<sup>1</sup> Für Personen, welche Stipendien erhalten, können höchstens 11 000 Franken Darlehen pro Ausbildungsjahr gewährt werden.
 
-<sup>2</sup> Für alle übrigen Personen können höchstens 15 000 Franken Darlehen pro Ausbildungsjahr gewährt werden.
+<sup>2</sup> Für alle übrigen Personen können höchstens 16 000 Franken Darlehen pro Ausbildungsjahr gewährt werden.
 
-<sup>3</sup> Im Total können höchstens 60 000 Franken Darlehen pro Person gewährt werden.
+<sup>3</sup> Im Total können höchstens 64 000 Franken Darlehen pro Person gewährt werden.
 
 #### Art. 37
 
@@ -428,7 +425,11 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Erlass**
 
-<sup>1</sup> Die Regierung kann Darlehensnehmern und Darlehensnehmerinnen nach Ausbildungsabschluss auf Gesuch hin die restliche Darlehensschuld erlassen, wenn sie seit Ausbildungsabschluss fünf Jahre im Kanton Graubünden steuerpflichtig waren und die vorgeschriebenen Rückzahlungen erfolgt sind.
+<sup>1</sup> Das Departement kann Darlehensnehmerinnen und Darlehensnehmern nach Ausbildungsabschluss auf Gesuch hin die restliche Darlehensschuld erlassen, wenn die Darlehensnehmerin oder der Darlehensnehmer nach Ausbildungsabschluss:
+
+- a) seit mindestens fünf Jahren ununterbrochen im Kanton Graubünden steuerpflichtig ist; und
+- b) die vorgeschriebenen ersten fünf Rückzahlungsraten getätigt hat; und
+- c) den Nachweis erbringt, dass die Summe der seit Ausbildungsabschluss von ihr oder ihm bezahlten Einkommenssteuern des Kantons und der Gemeinde mindestens der noch offenen Darlehensschuld entspricht.
 
 #### Art. 40
 
@@ -442,7 +443,7 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Ausbildungsbeiträge für Semester, welche vor dem 15. Juni 2007 begonnen haben, unterstehen bisherigem Recht.
+<sup>1</sup> Ausbildungsbeiträge für Ausbildungsjahre, welche vor dem 1. Juli 2023 begonnen haben, unterstehen dem bisherigen Recht.
 
 <sup>2</sup> Ausbildungen, welche vor Inkrafttreten des neuen Stipendiengesetzes begonnen und im Sinne der Ausnahmeregelung für zusätzliche gleichwertige Ausbildungen stipendiert wurden, können für die restliche Ausbildungszeit mit Stipendien unterstützt werden.
 
@@ -450,7 +451,7 @@ von der Regierung erlassen am 19. Juni 2007
 
 **Anpassung an die Teuerung**
 
-<sup>1</sup> Die Ansätze entsprechen dem Stand des Landesindexes für Konsumentenpreise von 100.5 Punkten (Basisindex Dezember 2005).
+<sup>1</sup> Die Ansätze entsprechen dem Stand des Landesindexes für Konsumentenpreise von 104.6 Punkten (Basisindex Dezember 2020).
 
 #### Art. 43
 

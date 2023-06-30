@@ -4,13 +4,12 @@ number: "450.250"
 title: Ordinaziun tar la lescha davart las contribuziuns da scolaziun
 short: "ordinaziun da stipendis, OStip"
 language: rm
-version: 2013-08-01
-corrected: 2016-09-02
-version_adopted: 2013-06-25
+version: 2023-07-01
+version_adopted: 2023-05-30
 adopted: 2007-06-19
 in_force: 2007-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/450.250"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2334/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2334/pdf_file"
 
 (ordinaziun da stipendis, OStip)
 
-dals 19-06-2007 (versiun dals 01-08-2013)
+dals 19-06-2007 (versiun dals 01-07-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 23 da la lescha davart las contribuziuns da scolaziun (lescha da stipendis, LStip) dals 5 da december 2006[^ingress-2]
 
@@ -42,7 +41,7 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Ulteriuras persunas cun dretg da survegnir contribuziuns**
 
-<sup>1</sup> Ultra da las persunas cun dretg da survegnir contribuziuns che vegnan menziunadas en la lescha da stipendis pon contribuziuns da scolaziun vegnir pajadas excepziunalmain a persunas che cumenzan cun ina scolaziun, suenter ch'ellas han cumplenì 40 onns, las qualas n'han naginas qualificaziuns professiunalas e per las qualas in progress economic n'è betg garantì senza scolaziun.
+<sup>1</sup> Ultra da las persunas cun dretg da survegnir contribuziuns che vegnan menziunadas en la Lescha da stipendis pon contribuziuns da scolaziun vegnir pajadas excepziunalmain a persunas che cumenzan ina scolaziun, suenter ch'ellas han cumplenì 40 onns e che n'han betg ina qualificaziun professiunala u che han fatg ina scolaziun per ina qualificaziun professiunala, che na vegn betg pli purschida.
 
 <sup>2</sup> Sch'i dat – en connex cun il domicil tenor il dretg da stipendis – differenzas interchantunalas u internaziunalas concernent la cumpetenza chantunala, decida il servetsch per stipendis davart il dretg da survegnir contribuziuns.
 
@@ -64,7 +63,7 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Renconuschientscha ed abgiudicaziun da scolaziuns**
 
-<sup>1</sup> Per ils curs intensivs da tudestg al center da furmaziun e cussegliaziun agricula Plantahof a Landquart pon vegnir concedidas contribuziuns da scolaziun a persunas che han terminà il temp da scola obligatoric.
+<sup>1</sup> Per ils curs intensivs da tudestg al Plantahof a Landquart pon vegnir concedidas contribuziuns da scolaziun a persunas che han terminà il temp da scola obligatoric.
 
 <sup>2</sup> Per scolar spiritualas e spirituals che n'appartegnan betg a la direcziun religiusa d'ina baselgia chantunala u d'ina communitad religiusa che vegn renconuschida dal chantun Grischun tenor il dretg public po la regenza conceder contribuziuns da scolaziun.
 
@@ -130,7 +129,7 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Daners da scola e da studi pli auts**
 
-<sup>1</sup> In daner da scola e da studi tranter 1500 francs e maximalmain 9200 francs vegn quintà, sche:
+<sup>1</sup> In daner da scola e da studi tranter 1500 francs e maximalmain 9800 francs vegn quintà, sche:
 
 - a) la scolaziun vegn purschida en il chantun u vegn sustegnida cun contribuziuns chantunalas. Sche la scolaziun vegn purschida da pliras instituziuns, vegn quintà il daner da scola pli favuraivel;
 - b) la scolaziun è reglada en ina cunvegna davart ils daners da scola che vala per il chantun ed il lieu da scolaziun pretenda in daner da scola e da studi pli aut;
@@ -140,12 +139,12 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Meds d'instrucziun, material da scola e taxas**
 
-<sup>1</sup> Imputabels èn ils custs effectivs, dentant maximalmain:
+<sup>1</sup> Per meds d'instrucziun, material da scola e taxas vegn quintada ina pauschala da 1000 francs.
 
-- a) 1500 francs per scolas autas e per scolas professiunalas superiuras;
-- b) 900 francs per purschidas da scolaziun a temp cumplain;
-- c) 500 francs per gimnasis, per scolas medias professiunalas e per scolas da maturitad professiunala suenter l'emprendissadi;
-- d) 400 francs per tut las ulteriuras scolaziuns.
+- a) …
+- b) …
+- c) …
+- d) …
 
 #### Art. 12
 
@@ -153,11 +152,11 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 <sup>1</sup> Ils suandants custs vegnan quintads:
 
-- a) ils custs effectivs fin maximalmain 11 300 francs per «dunsena ed alloschi ordaifer»; da quels vegnan quintads 5900 francs per la dunsena e maximalmain 5400 francs per l'alloschi;
-- b) 3000 francs per «dunsena ed alloschi tar il geniturs cun almain 5 gentars per emna ordaifer»;
-- c) 2000 francs per «dunsena ed alloschi tar ils geniturs».
+- a) ils custs effectivs fin maximalmain 13 500 francs per «dunsena ed alloschi ordaifer»; da quels vegnan quintads 6300 francs per la dunsena e maximalmain 7200 francs per l'alloschi;
+- b) 3200 francs per «dunsena ed alloschi tar ils geniturs cun gentar ordaifer»;
+- c) 2100 francs per «dunsena ed alloschi tar ils geniturs».
 
-<sup>2</sup> Per eruir ils custs imputabels per la dunsena e per l'alloschi vegni sa basà sin il «traject dal domicil dals geniturs fin al lieu da scolaziun» cun resguardar, sche quel è en il sectur ch'ins pudess cuntanscher sco pendularia u sco pendulari dal di e sch'in return a chasa per gentar è raschunaivel. L'urari da scolaziun da la persuna che ha il dretg da survegnir stipendis sto vegnir resguardà.
+<sup>2</sup> Per eruir ils custs imputabels per la dunsena e per l'alloschi vegni sa basà sin il «traject dal domicil dals geniturs fin al lieu da scolaziun» cun resguardar, sche quel è en il sectur ch'ins pudess cuntanscher sco pendularia u sco pendulari dal di e sch'in return a chasa per gentar è raschunaivel. L'urari da scolaziun da la persuna che ha il dretg da survegnir stipendis sto vegnir resguardà. Per fugitivas e fugitivs renconuschids e per persunas senza naziunalitad è decisiv il «traject dal domicil da la stipendiata u dal stipendiat fin al lieu da scolaziun», sche lur geniturs na sa trategnan betg en Svizra.
 
 <sup>3</sup> Tar persunas che han il dretg da survegnir stipendis e ch'èn maridadas, che vivan en partenadi registrà u ch'èn responsablas per il mantegniment d'uffants, sto vegnir quintada la tariffa per «dunsena ed alloschi ordaifer», sch'ellas mainan in'atgna chasada.
 
@@ -167,20 +166,20 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 <sup>1</sup> Sco expensas da viadi vegnan quintadas las expensas las pli favuraivlas per utilisar ils meds da transport publics, maximalmain dentant ils custs d'in abunament general da las viafiers federalas svizras (VFF).
 
-<sup>2</sup> Per eruir las expensas da viadi è decisiv il «traject dal domicil dals geniturs fin al lieu da scolaziun», tar persunas maridadas, tar persunas che vivan en partenadi registrà u tar persunas che han il dretg da survegnir stipendis che han in'obligaziun da mantegniment ed in'atgna chasada il «traject dal domicil da la persuna che ha il dretg da survegnir stipendis fin al lieu da scolaziun».
+<sup>2</sup> Per eruir las expensas da viadi è decisiv il «traject dal domicil dals geniturs fin al lieu da scolaziun», per persunas maridadas, per persunas che vivan en partenadi registrà u per persunas che han il dretg da survegnir stipendis plus in'obligaziun da mantegniment ed in'atgna chasada sco er per fugitivas e fugitivs renconuschids e per persunas senza naziunalitad, dals quals ils geniturs na sa trategnan betg en Svizra, è decisiv il «traject dal domicil da la stipendiata u dal stipendiat fin al lieu da scolaziun».
 
-<sup>3</sup> Sch'il lieu da scolaziun sa chatta ordaifer il chantun e sch'i na vegn betg cumprovà ch'ils meds da transport publics vegnian utilisads, vegn resguardada ina pauschala da 1000 francs per las expensas da viadi.
+<sup>3</sup> Sch'il lieu da scolaziun sa chatta ordaifer il chantun e sch'i na vegn betg cumprovà ch'ils meds da transport publics vegnian utilisads, vegn resguardada ina pauschala da 1100 francs per las expensas da viadi.
 
 #### Art. 14
 
 **Vestgadira, assicuranzas, ulteriuras expensas**
 
-<sup>1</sup> Per vestgadira e per laschiva vegn quintada ina pauschala da 1100 francs.
+<sup>1</sup> Per vestgadira e per laschiva vegn quintada ina pauschala da 1 200 francs.
 
 <sup>2</sup> Per l'igiena dal corp, per assicuranzas, per la cultura e per ulteriuras expensas vegn quintada ina pauschala da:
 
-- a) 900 francs per persunas che han il dretg da survegnir stipendis e che n'han anc betg cumplenì 20 onns al cumenzament da l'onn da scolaziun;
-- b) 1900 francs per tut las ulteriuras persunas che han il dretg da survegnir stipendis e per persunas ad universitads u a las scolas politecnicas federalas.
+- a) 1000 francs per persunas che han il dretg da survegnir stipendis e che n'han anc betg cumplenì 18 onns al cumenzament da l'onn da scolaziun;
+- b) 2000 francs per tut las ulteriuras persunas che han il dretg da survegnir stipendis.
 
 #### Art. 15
 
@@ -202,27 +201,27 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Agen gudogn e gudogn durant las vacanzas**
 
-<sup>1</sup> Dal salari d'emprendista u d'emprendist u d'ina autra indemnisaziun contractuala èn libers 1700 francs per onn. Il gudogn brut che surpassa quest import vegn quintà sco entrada tar la calculaziun dals stipendis. In eventual 13avel salari mensil u ina gratificaziun na vegn betg quintà.
+<sup>1</sup> Dal salari d'emprendista u d'emprendist u d'ina autra indemnisaziun contractuala èn libers 3600 francs per onn. Il gudogn brut che surpassa quest import vegn quintà sco entrada tar la calculaziun dals stipendis. In eventual 13avel salari mensil u ina gratificaziun na vegn betg quintà.
 
-<sup>2</sup> Tar persunas che han il dretg da survegnir stipendis e che han a disposiziun – pervia da lur scolaziun – passa 5 emnas vacanzas per onn e che na survegnan ni in salari d'emprendista u d'emprendist ni ina indemnisaziun tenor contract, vegnan quintads sco gudogn durant las vacanzas:
+<sup>2</sup> Per las persunas cun dretg da stipendis che han a disposiziun passa 5 emnas vacanzas, respectivamain pli ditg che 5 emnas naginas prelecziuns per onn da scolaziun e che na survegnan ni in salari d'emprendista u d'emprendist ni ina indemnisaziun tenor contract, vegn quintà sco gudogn:
 
-- a) 2900 francs per studentas e per students sut 25 onns a partir dal stgalim terziar sco er per persunas, tar las qualas las prestaziuns finanzialas che pon vegnir pretendidas da lur geniturs èn limitadas;
-- b) 1400 francs per studentas e per students sut 25 onns da tut las ulteriuras scolaziuns;
-- c) 3400 francs per studentas e per students sur 25 onns da tut las scolaziuns.
+- a) 3100 francs per studentas e students sut 25 onns a partir dal stgalim terziar sco er per persunas, tar las qualas las prestaziuns finanzialas che pon vegnir pretendidas da lur geniturs èn limitadas;
+- b) 1500 francs per studentas e students sut 25 onns da tut las ulteriuras scolaziuns;
+- c) 3600 francs per studentas e students sur 25 onns da tut las scolaziuns.
 
 <sup>3</sup> En cas da scolaziuns a temp parzial vegn er l'entrada or da l'activitad da gudogn resguardada tar la calculaziun. Sche la persuna en dumonda n'ha betg in'activitad da gudogn, vegn quintada in'entrada giustifitgabla. En quest connex vegn resguardà in import liber che correspunda a la disposiziun davart il salari d'emprendista u d'emprendist.
 
 #### Art. 18
 
-**Retgav da facultad da la persuna che ha il dretg da survegnir stipendis**
+**Consum da la facultad da las persunas che han il dretg da survegnir stipendis**
 
-<sup>1</sup> La facultad netta da la persuna che ha il dretg da survegnir stipendis è libra fin 15 000 francs. 20 pertschient da la facultad netta da la persuna che ha il dretg da survegnir stipendis che surpassa l'import liber, vegnan quintads sco entrada.
+<sup>1</sup> La facultad netta da la persuna che ha il dretg da survegnir stipendis è libra fin 20 000 francs. 20 pertschient da la facultad netta da la persuna che ha il dretg da survegnir stipendis che surpassa l'import liber, vegnan quintads sco entrada.
 
 #### Art. 19
 
 **Entrada da la conjugala u dal conjugal**
 
-<sup>1</sup> Tar persunas che han il dretg da survegnir stipendis e ch'èn maridadas e tar persunas che han il dretg da survegnir stipendis e che vivan en partenadi registrà vegnan 50 000 francs dal gudogn brut da la partenaria u dal partenari deducids per ses custs da viver. Quest import vegn augmentà per 5000 francs per mintga uffant. Sch'il gudogn brut da la partenaria u dal partenari surpassa 50 000 francs plus 5000 francs per mintga uffant, vegn la differenza resguardada cumplainamain sco entrada.
+<sup>1</sup> Tar persunas che han il dretg da survegnir stipendis e ch'èn maridadas u che vivan en in partenadi registrà vegnan 55 000 francs dal gudogn brut da la partenaria u dal partenari deducids per ses custs da viver. Quest import vegn augmentà per 5000 francs per mintga uffant. Sch'il gudogn brut da la partenaria u dal partenari surpassa 55 000 francs plus 5000 francs per mintga uffant, vegn la differenza resguardada cumplainamain sco entrada.
 
 #### Art. 20
 
@@ -258,7 +257,7 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **3. calculaziun da l'import da basa**
 
-<sup>1</sup> La facultad decisiva dals geniturs è libra fin 190 000 francs. La facultad che surpassa quest import vegn quintada a 6 pertschient tar l'entrada decisiva dals geniturs.
+<sup>1</sup> La facultad decisiva dals geniturs è libra fin 210 000 francs. La facultad che surpassa quest import vegn quintada a 6 pertschient tar l'entrada decisiva dals geniturs.
 
 <sup>2</sup> L'entrada decisiva e la part da la facultad decisiva che vegn adida a quella furman l'import da basa. L'import da basa vegn arrundà giu sin ils proxims 1000 francs.
 
@@ -272,22 +271,22 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 <sup>1</sup> Da l'import da basa calculà resorta la suandanta contribuziun che po vegnir pretendida dals geniturs:
 
-- a) 0 francs per ils emprims 24 000 francs;
-- b) 100 francs per mintga ulteriurs 1000 francs fin e cun 30 000 francs;
-- c) 200 francs per mintga ulteriurs 1000 francs fin e cun 52 000 francs;
-- d) 300 francs per mintga ulteriurs 1000 francs fin e cun 74 000 francs;
-- e) 400 francs per mintga ulteriurs 1000 francs fin e cun 80 000 francs;
+- a) 0 francs per ils emprims 25 000 francs;
+- b) 100 francs per mintga ulteriurs 1000 francs fin e cun 35 000 francs;
+- c) 200 francs per mintga ulteriurs 1000 francs fin e cun 65 000 francs;
+- d) 300 francs per mintga ulteriurs 1000 francs fin e cun 85 000 francs;
+- e) 400 francs per mintga ulteriurs 1000 francs fin e cun 95 000 francs;
 - f) 500 francs per mintga ulteriurs 1000 francs.
 
-<sup>2</sup> Sch'ina contribuziun dals geniturs reducida sto vegnir resguardada tenor la lescha da stipendis, vegn l'import da basa, ch'è vegnì calculà, reducì per 60 000 francs.
+<sup>2</sup> Sch'ina contribuziun dals geniturs reducida sto vegnir resguardada tenor la Lescha da stipendis, vegn l'import da basa, ch'è vegnì calculà, reducì per 65 000 francs.
 
 #### Art. 24
 
 **Repartiziun da la contribuziun dals geniturs**
 
-<sup>1</sup> La persuna che ha il dretg da survegnir stipendis sco er ils fragliuns che sa chattan en ina scolaziun postobligatorica, survegnan las medemas parts da la contribuziun che po vegnir pretendida dals geniturs. Fragliuns che frequentan scolaziuns a temp parzial vegnan integrads en la repartiziun da la contribuziun dals geniturs mo, sche l'entrada brutta mensila na surpassa betg 2000 francs. Curs da lingua vegnan resguardads, sche la scolaziun dura almain 16 emnas.
+<sup>1</sup> La persuna che ha in dretg da survegnir stipendis sco er ils fragliuns che sa chattan en ina scolaziun postobligatorica, survegnan las medemas parts da la contribuziun che po vegnir pretendida dals geniturs. Fragliuns che frequentan scolaziuns a temp parzial vegnan integrads en la repartiziun da la contribuziun dals geniturs mo, sche l'entrada brutta mensila na surpassa betg 3000 francs. Curs da lingua vegnan resguardads, sche la scolaziun dura almain 16 emnas.
 
-<sup>2</sup> Tar studentas e tar students da famiglias cun quatter uffants u dapli vegn la contribuziun dals geniturs, ch'è vegnida calculada per mintga uffant, reducida per 2000 francs, sche almain quatter uffants n'han betg anc terminà il temp da scola obligatoric u sa chattan en ina scolaziun postobligatorica.
+<sup>2</sup> Tar studentas e students da famiglias cun quatter uffants u dapli vegn la contribuziun dals geniturs, ch'è vegnida calculada per mintga uffant, reducida per 2100 francs, sche almain quatter uffants n'han betg anc terminà il temp da scola obligatoric u sa chattan en ina scolaziun postobligatorica.
 
 <sup>3</sup> La part da la contribuziun che po vegnir pretendida dals geniturs vegn deducida dals custs imputabels per onn suenter avair deducì las autras entradas imputablas.
 
@@ -319,7 +318,7 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Limita maximala da las entradas**
 
-<sup>1</sup> Ils stipendis dal chantun e da la confederaziun, ils stipendis da terzas persunas e las ulteriuras entradas na dastgan betg surpassar 23 000 francs.
+<sup>1</sup> Ils stipendis dal chantun e da la confederaziun, ils stipendis da terzas persunas e las ulteriuras entradas na dastgan betg surpassar 28 000 francs.
 
 <sup>2</sup> Sche petentas e sche petents pajan daners da scola e da studi ch'èn pli auts che 1500 francs, s'augmenta la limita en la dimensiun da la differenza correspundenta.
 
@@ -337,9 +336,7 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 #### Art. 30
 
-**Stipendi pli aut**
-
-<sup>1</sup> En cas da custs da scolaziun extraordinariamain auts u en cas d'ina chargia extraordinariamain gronda tras la scolaziun po il departament decider en il cas singul davart l'autezza dal stipendi.
+**…**
 
 ## 3. Emprests da daners
 
@@ -383,8 +380,8 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 <sup>1</sup> Il total da las entradas dals geniturs tenor la decisiun da taxaziun per la taglia federala directa e tut lur facultad netta na dastgan betg surpassar las suandantas limitas maximalas:
 
-- a) total da las contribuziuns: — 180 000 francs;
-- b) facultad netta: — 500 000 francs.
+- a) total da las contribuziuns: — 200 000 francs;
+- b) facultad netta: — 540 000 francs.
 
 <sup>2</sup> Sche las entradas e las facultads decisivas na mussan betg la capacitad da prestaziun dals geniturs, pon – en spezial tar immobiglias privatas, en las qualas ils geniturs na vivan betg permanentamain sezs, tar prestaziuns da las assicuranzas socialas e tar taxaziuns d'uffizi – l'entrada decisiva e la facultad vegnir curregidas correspundentamain.
 
@@ -394,11 +391,11 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Tariffas maximalas**
 
-<sup>1</sup> Per persunas che survegnan stipendis po vegnir concedì in emprest da daners da maximalmain 10 000 francs per mintga onn da scolaziun.
+<sup>1</sup> Per persunas che survegnan stipendis po vegnir concedì in emprest da daners da maximalmain 11 000 francs per mintga onn da scolaziun.
 
-<sup>2</sup> Per tut las ulteriuras persunas po vegnir concedì in emprest da daners da maximalmain 15 000 francs per mintga onn da scolaziun.
+<sup>2</sup> Per tut las ulteriuras persunas po vegnir concedì in emprest da daners da maximalmain 16 000 francs per mintga onn da scolaziun.
 
-<sup>3</sup> Totalmain po vegnir concedì in emprest da daners da maximalmain 60 000 francs per persuna.
+<sup>3</sup> Totalmain po vegnir concedì in emprest da daners da maximalmain 64 000 francs per persuna.
 
 #### Art. 37
 
@@ -428,7 +425,11 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Relasch**
 
-<sup>1</sup> Sin dumonda po la regenza relaschar il rest dal debit d'emprest ad emprestantas ed ad emprestants, suenter che quellas e che quels han terminà lur scolaziun, sch'ellas e sch'els han pajà taglias en il chantun Grischun durant almain 5 onns suenter la terminaziun da la scolaziun e sch'ils rembursaments prescrits èn vegnids fatgs.
+<sup>1</sup> Suenter la finiziun da la scolaziun po il departament relaschar a las emprestantas ed als emprestants sin dumonda il debit d'emprest restant, sche, suenter la finiziun da la scolaziun, l'emprestanta u l'emprestant:
+
+- a) è obligada u obligà da pajar taglia en il chantun Grischun dapi almain 5 onns senza interrupziun; e
+- b) ha pajà las emprimas tschintg ratas da rembursament prescrittas; e
+- c) porta la cumprova, che la summa da las taglias sin las entradas dal chantun e da la vischnanca, ch'ella u el ha pajà dapi la finiziun da la scolaziun, correspundia almain al debit d'emprest ch'è anc avert.
 
 #### Art. 40
 
@@ -442,7 +443,7 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Disposiziuns transitoricas**
 
-<sup>1</sup> Contribuziuns da scolaziun per semesters che han cumenzà avant ils 15 da zercladur 2007 suttastattan al dretg vertent.
+<sup>1</sup> Contribuziuns da scolaziun per onns da scolaziun che han cumenzà avant il 1. da fanadur 2023 suttastattan al dretg precedent.
 
 <sup>2</sup> Scolaziuns, cun las qualas igl è vegnì cumenzà avant che la nova lescha da stipendis è entrada en vigur e per las qualas igl èn vegnids concedids stipendis en il senn da la regulaziun excepziunala per scolaziuns supplementaras equivalentas, pon vegnir sustegnidas cun stipendis per il rest dal temp da scolaziun.
 
@@ -450,7 +451,7 @@ relaschada da la regenza ils 19 da zercladur 2007
 
 **Adattaziun a la chareschia**
 
-<sup>1</sup> Las tariffas correspundan al stadi da l'index naziunal dals pretschs da consum da 100,5 puncts (index da basa dal december 2005).
+<sup>1</sup> Las tariffas correspundan al stadi da l'index naziunal dals pretschs da consum da 104.6 puncts (index da basa dal december 2020).
 
 #### Art. 43
 

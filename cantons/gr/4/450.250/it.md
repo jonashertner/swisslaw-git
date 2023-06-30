@@ -4,13 +4,12 @@ number: "450.250"
 title: Ordinanza relativa alla legge sui contributi di formazione
 short: "Ordinanza sulle borse di studio, OCBor"
 language: it
-version: 2013-08-01
-corrected: 2016-09-02
-version_adopted: 2013-06-25
+version: 2023-07-01
+version_adopted: 2023-05-30
 adopted: 2007-06-19
 in_force: 2007-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/450.250"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2334/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3322/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2334/pdf_file"
 
 (Ordinanza sulle borse di studio, OCBor)
 
-del 19.06.2007 (stato 01.08.2013)
+del 19.06.2007 (stato 01.07.2023)
 
 emanata dal Governo il 19 giugno 2007
 
@@ -42,7 +41,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Altre persone aventi diritto**
 
-<sup>1</sup> Oltre che alle persone aventi diritto a contributi secondo la legge sulle borse di studio, contributi di formazione possono eccezionalmente essere versati a persone che iniziano una formazione dopo il compimento del 40° anno d'età, che non sono in possesso di un'abilitazione professionale e il cui sostentamento economico non è garantito senza una formazione.
+<sup>1</sup> Oltre che alle persone aventi diritto a contributi secondo la legge sulle borse di studio, contributi di formazione possono eccezionalmente essere versati a persone che iniziano una formazione dopo il compimento del 40° anno d'età e che non sono in possesso di un'abilitazione professionale o la cui formazione che abilita a una professione non viene più proposta.
 
 <sup>2</sup> Qualora in relazione al domicilio giuridico agli effetti del riconoscimento delle borse di studio esistano differenze tra i Cantoni o tra gli Stati per quanto riguarda la competenza del Cantone, in merito al diritto a contributi decide il Servizio.
 
@@ -64,7 +63,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Riconoscimento e disconoscimento di formazioni**
 
-<sup>1</sup> Per i corsi intensivi di tedesco presso il Centro di formazione e consulenza agraria Plantahof di Landquart possono essere concessi contributi di formazione a persone che hanno concluso la scolarità obbligatoria.
+<sup>1</sup> Per i corsi intensivi di tedesco presso il Plantahof a Landquart possono essere concessi contributi di formazione a persone che hanno concluso la scolarità obbligatoria.
 
 <sup>2</sup> Il Governo può concedere contributi di formazione per la formazione di religiosi che non appartengono alla confessione di una Chiesa di Stato o comunità religiosa riconosciuta dal diritto pubblico cantonale.
 
@@ -130,7 +129,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Tasse scolastiche e di studio superiori**
 
-<sup>1</sup> Una tassa scolastica e di studio compresa tra 1500 franchi e al massimo 9200 franchi viene riconosciuta, se:
+<sup>1</sup> Una tassa scolastica e di studio compresa tra 1500 franchi e al massimo 9800 franchi viene riconosciuta, se:
 
 - a) il ciclo di formazione viene offerto nel Cantone o viene sostenuto da contributi cantonali. Se il ciclo di formazione viene offerto da diverse istituzioni, viene riconosciuta la tassa scolastica più bassa;
 - b) il ciclo di formazione è disciplinato in una convenzione relativa alle tasse scolastiche valida per il Cantone e se l'istituto di formazione richiede una tassa scolastica e di studio più alta;
@@ -140,12 +139,12 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Materiale didattico, materiale scolastico e tasse**
 
-<sup>1</sup> Sono computabili le spese effettive, tuttavia al massimo:
+<sup>1</sup> Per materiale didattico, materiale scolastico e tasse vengono computati forfettariamente 1000 franchi.
 
-- a) 1500 franchi per scuole universitarie e scuole specializzate superiori;
-- b) 900 franchi per offerte scolastiche a tempo pieno;
-- c) 500 franchi per licei, scuole medie di diploma e scuole di maturità professionale dopo l'apprendistato;
-- d) 400 franchi per tutte le altre formazioni.
+- a) …
+- b) …
+- c) …
+- d) …
 
 #### Art. 12
 
@@ -153,11 +152,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 <sup>1</sup> Vengono riconosciute le spese seguenti:
 
-- a) per «vitto e alloggio fuori casa» le spese effettive fino al massimo a 11 300 franchi; di questi, 5900 franchi vengono riconosciuti per il vitto e al massimo 5400 per l'alloggio;
-- b) per «vitto e alloggio presso i genitori con almeno cinque pranzi alla settimana fuori casa» 3000 franchi;
-- c) per «vitto e alloggio presso i genitori» 2000 franchi.
+- a) per «vitto e alloggio fuori casa» le spese effettive fino al massimo a 13 500 franchi; di questi, 6300 franchi vengono riconosciuti per il vitto e al massimo 7200 franchi per l'alloggio;
+- b) per «vitto e alloggio presso i genitori con pranzi fuori casa» 3200 franchi;
+- c) per «vitto e alloggio presso i genitori» 2100 franchi.
 
-<sup>2</sup> Per la determinazione delle spese computabili per vitto e alloggio si valuta se la distanza «abitazione dei genitori – luogo di formazione» possa essere coperta da pendolari giornalieri e se possa essere preteso il rientro a casa per il pranzo. Devono essere considerati gli orari di formazione della persona avente diritto a borse di studio.
+<sup>2</sup> Per la determinazione delle spese computabili per vitto e alloggio si valuta se la distanza «abitazione dei genitori – luogo di formazione» possa essere coperta da pendolari giornalieri e se possa essere preteso il rientro a casa per il pranzo. Devono essere considerati gli orari di formazione della persona avente diritto a borse di studio. Nel caso di rifugiati riconosciuti e di apolidi i cui genitori non soggiornano in Svizzera è determinante la distanza «abitazione beneficiario – luogo di formazione».
 
 <sup>3</sup> Per persone aventi diritto a borse di studio che sono sposate, che vivono in unione domestica registrata o che devono provvedere al mantenimento di bambini, si deve calcolare l'aliquota «vitto e alloggio fuori casa» se gestiscono un'economia domestica propria.
 
@@ -167,20 +166,20 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 <sup>1</sup> Come spese di viaggio vengono riconosciute le spese per l'utilizzo più economico dei mezzi di trasporto pubblici, tuttavia al massimo le spese di un abbonamento generale delle Ferrovie federali svizzere (FFS).
 
-<sup>2</sup> Per la determinazione delle spese di viaggio è determinante la distanza «abitazione dei genitori – luogo di formazione», per persone sposate, per persone che vivono in unione domestica registrata o per persone aventi diritto a borse di studio con obbligo di mantenimento e con economia domestica propria la distanza «abitazione beneficiario – luogo di formazione».
+<sup>2</sup> Per la determinazione delle spese di viaggio è determinante la distanza «abitazione dei genitori – luogo di formazione», per persone sposate, per persone che vivono in unione domestica registrata o per persone aventi diritto a borse di studio con obbligo di mantenimento e con economia domestica propria nonché per rifugiati riconosciuti e apolidi i cui genitori non soggiornano in Svizzera la distanza «abitazione beneficiario – luogo di formazione».
 
-<sup>3</sup> Se il luogo di formazione si trova al di fuori del Cantone e se non viene fornita la comprova dell'utilizzo dei mezzi pubblici, per le spese di viaggio viene considerata una forfettaria di 1000 franchi.
+<sup>3</sup> Se il luogo di formazione si trova al di fuori del Cantone e se non viene fornita la comprova dell'utilizzo dei mezzi pubblici, per le spese di viaggio viene considerata una forfettaria di 1100 franchi.
 
 #### Art. 14
 
 **Abbigliamento, assicurazioni, altre spese**
 
-<sup>1</sup> Per abbigliamento e biancheria vengono computati forfettariamente 1100 franchi.
+<sup>1</sup> Per abbigliamento e biancheria vengono computati forfettariamente 1200 franchi.
 
 <sup>2</sup> Per l'igiene personale, le assicurazioni, la cultura e altre spese vengono computati forfettariamente:
 
-- a) 900 franchi per persone aventi diritto a borse di studio che all'inizio dell'anno di formazione non hanno ancora compiuto il 20° anno d'età;
-- b) 1900 franchi per tutte le altre persone aventi diritto a borse di studio e per quelle che studiano presso università o politecnici federali.
+- a) 1000 franchi per persone aventi diritto a borse di studio che all'inizio dell'anno di formazione non hanno ancora compiuto il 18° anno d'età;
+- b) 2000 franchi per tutte le altre persone aventi diritto a borse di studio.
 
 #### Art. 15
 
@@ -202,27 +201,27 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Reddito proprio e attività lucrativa durante le vacanze**
 
-<sup>1</sup> Sono esenti 1700 franchi all'anno del salario di apprendista o di un'altra indennità contrattuale. Il reddito lordo che supera questa somma viene computato quale entrata nel calcolo della borsa di studio. Un'eventuale 13a mensilità o una gratifica non vengono computate.
+<sup>1</sup> Sono esenti 3600 franchi all'anno del salario di apprendista o di un'altra indennità contrattuale. Il reddito lordo che supera questa somma viene computato quale entrata nel calcolo della borsa di studio. Un'eventuale 13a mensilità o una gratifica non vengono computate.
 
-<sup>2</sup> Per le persone aventi diritto a borse di studio, che sulla base della loro formazione hanno a disposizione più di cinque settimane di vacanze all'anno e che non percepiscono né un salario di apprendista né un'indennità contrattuale, vengono computati quale reddito:
+<sup>2</sup> Per le persone aventi diritto a borse di studio che a seguito della loro formazione hanno a disposizione più di cinque settimane di vacanze o più di cinque settimane senza lezioni per anno di formazione e che non percepiscono né un salario di apprendista né un'indennità contrattuale, vengono computati quale reddito:
 
-- a) 2900 franchi per studenti di meno di 25 anni a partire dal livello terziario, nonché per persone per le quali la prestazione esigibile dai genitori è ridotta;
-- b) 1400 franchi per studenti di meno di 25 anni in tutte le altre formazioni;
-- c) 3400 franchi per studenti di oltre 25 anni in tutte le formazioni.
+- a) 3100 franchi per studenti di meno di 25 anni a partire dal livello terziario, nonché per persone per le quali la prestazione esigibile dai genitori è ridotta;
+- b) 1500 franchi per studenti di meno di 25 anni in tutte le altre formazioni;
+- c) 3600 franchi per studenti di oltre 25 anni in tutte le formazioni.
 
 <sup>3</sup> Per formazioni a tempo parziale viene incluso nel calcolo il reddito da attività lucrativa. Se non viene esercitata un'attività lucrativa, viene computato un reddito esigibile; viene riconosciuto un importo esente conformemente alla disposizione sul salario di apprendista.
 
 #### Art. 18
 
-**Reddito di sostanza di persone aventi diritto**
+**Consumo della sostanza della persona avente diritto a borse di studio**
 
-<sup>1</sup> La sostanza netta della persona avente diritto a borse di studio è esente fino a 15 000 franchi. Il 20 per cento della sostanza netta che supera l'importo esente della persona avente diritto a borse di studio viene computato quale entrata.
+<sup>1</sup> La sostanza netta della persona avente diritto a borse di studio è esente fino a 20 000 franchi. Il 20 per cento della sostanza netta che supera l'importo esente della persona avente diritto a borse di studio viene computato quale entrata.
 
 #### Art. 19
 
 **Reddito del coniuge**
 
-<sup>1</sup> Per le persone aventi diritto a borse di studio che sono sposate o che vivono in unione domestica registrata, 50 000 franchi del reddito lordo del partner vengono riconosciuti per il mantenimento di quest'ultimo. Questo importo aumenta di 5000 franchi per ogni figlio. Se il reddito lordo del partner supera i 50 000 franchi più 5000 franchi per ogni figlio, la differenza viene interamente considerata quale entrata.
+<sup>1</sup> Per le persone aventi diritto a borse di studio che sono sposate o che vivono in unione domestica registrata, 55 000 franchi del reddito lordo del partner vengono riconosciuti per il mantenimento di quest'ultimo. Questo importo aumenta di 5000 franchi per ogni figlio. Se il reddito lordo del partner supera i 55 000 franchi più 5000 franchi per ogni figlio, la differenza viene interamente considerata quale entrata.
 
 #### Art. 20
 
@@ -258,7 +257,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **3. Determinazione dell'importo di base**
 
-<sup>1</sup> La sostanza determinante dei genitori è esente fino a 190 000 franchi. La sostanza determinante che supera questo importo viene aggiunta al reddito determinante dei genitori in misura del sei per cento.
+<sup>1</sup> La sostanza determinante dei genitori è esente fino a 210 000 franchi. La sostanza determinante che supera questo importo viene aggiunta al reddito determinante dei genitori in misura del sei per cento.
 
 <sup>2</sup> Il reddito determinante e la parte di sostanza determinante ad esso aggiunta costituiscono l'importo di base. L'importo di base viene arrotondato per difetto ai 1000 franchi.
 
@@ -272,22 +271,22 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 <sup>1</sup> L'importo di base calcolato porta ai seguenti contributi dei genitori esigibili:
 
-- a) 0 franchi per i primi 24 000 franchi;
-- b) 100 franchi per ogni ulteriori 1000 franchi fino a 30 000 franchi compresi;
-- c) 200 franchi per ogni ulteriori 1000 franchi fino a 52 000 franchi compresi;
-- d) 300 franchi per ogni ulteriori 1000 franchi fino a 74 000 franchi compresi;
-- e) 400 franchi per ogni ulteriori 1000 franchi fino a 80 000 franchi compresi;
+- a) 0 franchi per i primi 25 000 franchi;
+- b) 100 franchi per ogni ulteriori 1000 franchi fino a 35 000 franchi compresi;
+- c) 200 franchi per ogni ulteriori 1000 franchi fino a 65 000 franchi compresi;
+- d) 300 franchi per ogni ulteriori 1000 franchi fino a 85 000 franchi compresi;
+- e) 400 franchi per ogni ulteriori 1000 franchi fino a 95 000 franchi compresi;
 - f) 500 franchi per ogni ulteriori 1000 franchi.
 
-<sup>2</sup> Se conformemente alla legge sulle borse di studio si deve considerare un contributo dei genitori ridotto, l'importo di base calcolato viene ridotto di 60 000 franchi.
+<sup>2</sup> Se conformemente alla legge sulle borse di studio si deve considerare un contributo dei genitori ridotto, l'importo di base calcolato viene ridotto di 65 000 franchi.
 
 #### Art. 24
 
 **Ripartizione del contributo dei genitori**
 
-<sup>1</sup> La persona avente diritto a borse di studio, nonché i fratelli e le sorelle che si trovano in formazione postobbligatoria hanno diritto a parti uguali del contributo dei genitori esigibile. Fratelli e sorelle che frequentano formazioni a tempo parziale vengono inclusi nella ripartizione del contributo dei genitori soltanto se il reddito mensile lordo non supera i 2000 franchi. I corsi di lingua vengono considerati se la formazione dura almeno 16 settimane.
+<sup>1</sup> La persona avente diritto a borse di studio, nonché i fratelli e le sorelle che si trovano in formazione postobbligatoria hanno diritto a parti uguali del contributo dei genitori esigibile. Fratelli e sorelle che frequentano formazioni a tempo parziale vengono inclusi nella ripartizione del contributo dei genitori soltanto se il reddito mensile lordo non supera i 3000 franchi. I corsi di lingua vengono considerati se la formazione dura almeno 16 settimane.
 
-<sup>2</sup> Gli studenti di famiglie con quattro o più figli beneficiano di una riduzione di 2000 franchi del contributo dei genitori calcolato per ogni figlio, se almeno quattro figli non hanno ancora concluso la scolarità obbligatoria o si trovano in formazione postobbligatoria.
+<sup>2</sup> Gli studenti di famiglie con quattro o più figli beneficiano di una riduzione di 2100 franchi del contributo dei genitori calcolato per ogni figlio, se almeno quattro figli non hanno ancora concluso la scolarità obbligatoria o si trovano in formazione postobbligatoria.
 
 <sup>3</sup> La quota del contributo dei genitori esigibile viene dedotta dalle spese annue computabili dopo deduzione delle altre entrate computabili.
 
@@ -319,7 +318,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Limite superiore delle entrate**
 
-<sup>1</sup> Le borse di studio del Cantone e della Confederazione, le borse di studio di terzi, nonché le altre entrate non possono superare i 23 000 franchi.
+<sup>1</sup> Le borse di studio del Cantone e della Confederazione, le borse di studio di terzi, nonché le altre entrate non possono superare i 28 000 franchi.
 
 <sup>2</sup> Se i richiedenti pagano tasse scolastiche e di studio superiori ai 1500 franchi, il limite aumenta in misura pari alla rispettiva differenza.
 
@@ -337,9 +336,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 #### Art. 30
 
-**Borsa di studio più alta**
-
-<sup>1</sup> In caso di spese di formazione straordinariamente elevate o in caso di carico straordinariamente elevato dovuto alla formazione, il Dipartimento può nel singolo caso decidere sull'ammontare della borsa di studio.
+**…**
 
 ## 3. Prestiti di studio
 
@@ -383,8 +380,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 <sup>1</sup> Il totale dei redditi dei genitori secondo la decisione di tassazione per l'imposta federale diretta e la loro sostanza netta complessiva non possono superare i seguenti limiti massimi:
 
-- a) Totale dei redditi: — 180 000 franchi;
-- b) Sostanza netta: — 500 000 franchi;
+- a) Totale dei redditi: — 200 000 franchi;
+- b) Sostanza netta: — 540 000 franchi.
 
 <sup>2</sup> Se il reddito e la sostanza determinanti non rispecchiano la capacità finanziaria dei genitori, in particolare in caso di immobili privati non permanentemente abitati dai genitori, in caso di prestazioni delle assicurazioni sociali e in caso di tassazioni d'ufficio, il reddito e la sostanza determinanti possono essere corretti di conseguenza.
 
@@ -394,11 +391,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Importi massimi**
 
-<sup>1</sup> Alle persone che ricevono borse di studio può essere concesso un prestito di studio di al massimo 10 000 franchi per anno di formazione.
+<sup>1</sup> Alle persone che ricevono borse di studio può essere concesso un prestito di studio di al massimo 11 000 franchi per anno di formazione.
 
-<sup>2</sup> A tutte le altre persone può essere concesso un prestito di studio di al massimo 15 000 franchi per anno di formazione.
+<sup>2</sup> A tutte le altre persone può essere concesso un prestito di studio di al massimo 16 000 franchi per anno di formazione.
 
-<sup>3</sup> In totale possono essere concessi prestiti di studio per un importo massimo di 60 000 franchi per persona.
+<sup>3</sup> In totale possono essere concessi prestiti di studio per un importo massimo di 64 000 franchi per persona.
 
 #### Art. 37
 
@@ -428,7 +425,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Condono**
 
-<sup>1</sup> Su richiesta, il Governo può condonare il debito rimanente dopo la conclusione della formazione ai debitori che dopo la conclusione della formazione sono stati contribuenti per cinque anni nel Cantone dei Grigioni e che hanno effettuato i rimborsi prescritti.
+<sup>1</sup> Su domanda, dopo la conclusione della formazione il Dipartimento può condonare il debito rimanente ai debitori, se dopo la conclusione della formazione il debitore:
+
+- a) è assoggettato alle imposte nel Cantone dei Grigioni ininterrottamente da almeno cinque anni; e
+- b) ha versato le prime cinque rate di rimborso; e
+- c) fornisce la prova del fatto che la somma delle imposte sul reddito del Cantone e del comune che ha pagato dopo la conclusione della formazione corrisponde almeno all'ammontare del debito ancora scoperto.
 
 #### Art. 40
 
@@ -442,7 +443,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Disposizioni transitorie**
 
-<sup>1</sup> I contributi di formazione per semestri iniziati prima del 15 giugno 2007 sottostanno al diritto previgente.
+<sup>1</sup> I contributi di formazione per anni di formazione iniziati prima del 1° luglio 2023 sottostanno al diritto previgente.
 
 <sup>2</sup> Le formazioni iniziate prima dell'entrata in vigore della nuova legge sulle borse di studio e per le quali sono state versate borse di studio ai sensi di un'eccezione per formazioni supplementari equivalenti possono continuare a essere sostenute con borse di studio per il periodo di formazione rimanente.
 
@@ -450,7 +451,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 23 dell
 
 **Adeguamento al rincaro**
 
-<sup>1</sup> Le aliquote corrispondono allo stato dell'indice nazionale dei prezzi al consumo di 100,5 punti (base dicembre 2005).
+<sup>1</sup> Le aliquote corrispondono allo stato dell'indice nazionale dei prezzi al consumo di 104,6 punti (base dicembre 2020).
 
 #### Art. 43
 
