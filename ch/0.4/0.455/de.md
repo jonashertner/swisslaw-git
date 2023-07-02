@@ -3,11 +3,11 @@ sr: "0.455"
 title: Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/802_802_802"
 language: de
-version: 2018-03-08
+version: 2023-07-03
 adopted: 1979-09-19
 in_force: 1982-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20180308/de/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20180308-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20180308/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20230703/de/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20230703-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20230703/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1982** 802; BBl **1980** III 225
 
 Abgeschlossen in Bern am 19. September 1979 Von der Bundesversammlung genehmigt am 11. Dezember 1980[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 12. März 1981 In Kraft getreten für die Schweiz am 1. Juni 1982
 
-(Stand am 8. März 2018)
+(Stand am 3. Juli 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 11. Dez. 1980 ([AS 1982 801](https://fedlex.data.admin.ch/eli/oc/1982/801_801_801))
 
@@ -297,70 +297,71 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Bern, am 19. September 1979, in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt jedem Mitgliedstaat des Europarats, jedem Unterzeichnerstaat, der Europäischen Wirtschaftsgemeinschaft, sofern sie Unterzeichner ist, sowie jedem Staat, der zur Unterzeichnung dieses Übereinkommens oder zum Beitritt zu diesem Übereinkommen eingeladen worden ist, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 22. Januar 2016**[^t-2]**
+Geltungsbereich am 3. Juli 2023[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
-<tr><td>Albanien</td><td>13. Januar</td><td>1999</td><td>1. Mai</td><td colspan="2">1999</td></tr>
-<tr><td>Andorra</td><td>13. Oktober</td><td>2000</td><td>1. Februar</td><td colspan="2">2001</td></tr>
-<tr><td>Armenien</td><td>14. April</td><td>2008</td><td>1. August</td><td colspan="2">2008</td></tr>
-<tr><td>Aserbaidschan</td><td>28. März</td><td>2000 B</td><td>1. Juli</td><td colspan="2">2000</td></tr>
-<tr><td>Belarus<sup>\*</sup></td><td>19. Februar</td><td>2013 B</td><td>1. Juni</td><td colspan="2">2013</td></tr>
-<tr><td>Belgien\*</td><td>24. August</td><td>1990</td><td>1. Dezember</td><td colspan="2">1990</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td>17. November</td><td>2008</td><td>1. März</td><td colspan="2">2009</td></tr>
-<tr><td>Bulgarien\*</td><td>31. Januar</td><td>1991 B</td><td>1. Mai</td><td colspan="2">1991</td></tr>
-<tr><td>Burkina Faso</td><td>14. Juni</td><td>1990 B</td><td>1. Oktober</td><td colspan="2">1990</td></tr>
-<tr><td>Dänemark\* \*\*</td><td>8. September</td><td>1982</td><td>1. Januar</td><td colspan="2">1983</td></tr>
-<tr><td>Deutschland</td><td>13. Dezember</td><td>1984</td><td>1. April</td><td colspan="2">1985</td></tr>
-<tr><td>Estland</td><td>3. August</td><td>1992 B</td><td>1. Dezember</td><td colspan="2">1992</td></tr>
-<tr><td>Europäische Union</td><td>7. Mai</td><td>1982</td><td>1. September</td><td colspan="2">1982</td></tr>
-<tr><td>Finnland\*\*</td><td>9. Dezember</td><td>1985</td><td>1. April</td><td colspan="2">1986</td></tr>
-<tr><td>Frankreich\* \*\*</td><td>26. April</td><td>1990</td><td>1. August</td><td colspan="2">1990</td></tr>
-<tr><td>Georgien\*</td><td>19. November</td><td>2009</td><td>1. März</td><td colspan="2">2010</td></tr>
-<tr><td>Griechenland\*\*</td><td>13. Juni</td><td>1983</td><td>1. Oktober</td><td colspan="2">1983</td></tr>
-<tr><td>Irland</td><td>23. April</td><td>1982</td><td>1. August</td><td colspan="2">1982</td></tr>
-<tr><td>Island\* \*\*</td><td>17. Juni</td><td>1993</td><td>1. Oktober</td><td colspan="2">1993</td></tr>
-<tr><td>Italien</td><td>11. Februar</td><td>1982</td><td>1. Juni</td><td colspan="2">1982</td></tr>
-<tr><td>Kroatien\*</td><td>3. Juli</td><td>2000</td><td>1. November</td><td colspan="2">2000</td></tr>
-<tr><td>Lettland\*</td><td>23. Januar</td><td>1997</td><td>1. Mai</td><td colspan="2">1997</td></tr>
-<tr><td>Liechtenstein</td><td>30. Oktober</td><td>1980</td><td>1. Juni</td><td colspan="2">1982</td></tr>
-<tr><td>Litauen\*</td><td>5. September</td><td>1996</td><td>1. Januar</td><td colspan="2">1997</td></tr>
-<tr><td>Luxemburg</td><td>23. März</td><td>1982</td><td>1. Juli</td><td colspan="2">1982</td></tr>
-<tr><td>Malta\* \*\*</td><td>26. November</td><td>1993</td><td>1. März</td><td colspan="2">1994</td></tr>
-<tr><td>Marokko</td><td>25. April</td><td>2001 B</td><td>1. August</td><td colspan="2">2001</td></tr>
-<tr><td>Mazedonien\*</td><td>17. Dezember</td><td>1998</td><td>1. April</td><td colspan="2">1999</td></tr>
-<tr><td>Moldau</td><td>24. Mai</td><td>1994 B</td><td>1. September</td><td colspan="2">1994</td></tr>
-<tr><td>Monaco</td><td>7. Februar</td><td>1994 B</td><td>1. Juni</td><td colspan="2">1994</td></tr>
-<tr><td>Montenegro</td><td>1. Oktober</td><td>2009</td><td>1. Februar</td><td colspan="2">2010</td></tr>
-<tr><td>Niederlande\*</td><td>28. Oktober</td><td>1980</td><td>1. Juni</td><td colspan="2">1982</td></tr>
-<tr><td>Norwegen\* \*\*</td><td>27. Mai</td><td>1986</td><td>1. September</td><td colspan="2">1986</td></tr>
-<tr><td>Österreich</td><td>2. Mai</td><td>1983</td><td>1. September</td><td colspan="2">1983</td></tr>
-<tr><td>Polen\*</td><td>13. September</td><td>1995</td><td>1. Januar</td><td colspan="2">1996</td></tr>
-<tr><td>Portugal</td><td>3. Februar</td><td>1982</td><td>1. Juni</td><td colspan="2">1982</td></tr>
-<tr><td>Rumänien</td><td>18. Mai</td><td>1993 B</td><td>1. September</td><td colspan="2">1993</td></tr>
-<tr><td>Schweden</td><td>14. Juni</td><td>1983</td><td>1. Oktober</td><td colspan="2">1983</td></tr>
-<tr><td>Schweiz</td><td>12. März</td><td>1981</td><td>1. Juni</td><td colspan="2">1982</td></tr>
-<tr><td>Senegal</td><td>13. April</td><td>1987 B</td><td>1. August</td><td colspan="2">1987</td></tr>
-<tr><td>Serbien</td><td>9. Januar</td><td>2008</td><td>1. Mai</td><td colspan="2">2008</td></tr>
-<tr><td>Slowakei\*</td><td>23. September</td><td>1996</td><td>1. Januar</td><td colspan="2">1997</td></tr>
-<tr><td>Slowenien\*</td><td>29. September</td><td>1999</td><td>1. Januar</td><td colspan="2">2000</td></tr>
-<tr><td>Spanien\*</td><td>27. Mai</td><td>1986</td><td>1. September</td><td colspan="2">1986</td></tr>
-<tr><td>Tschechische Republik\*</td><td>25. Februar</td><td>1998</td><td>1. Juni</td><td colspan="2">1998</td></tr>
-<tr><td>Tunesien\*</td><td>12. Januar</td><td>1996 B</td><td>1. Mai</td><td colspan="2">1996</td></tr>
-<tr><td>Türkei\* \*\*</td><td>2. Mai</td><td>1984</td><td>1. September</td><td colspan="2">1984</td></tr>
-<tr><td>Ukraine\*</td><td>5. Januar</td><td>1999</td><td>1. Mai</td><td colspan="2">1999</td></tr>
-<tr><td>Ungarn\*</td><td>16. November</td><td>1989 B</td><td>1. März</td><td colspan="2">1990</td></tr>
-<tr><td>Vereinigtes Königreich\* \*\*</td><td>28. Mai</td><td>1982</td><td>1. September</td><td colspan="2">1982</td></tr>
-<tr><td>Akrotiri und Dhekelia\*</td><td>24. Oktober</td><td>2001</td><td>24. Oktober</td><td colspan="2">2001</td></tr>
-<tr><td>Insel Man</td><td>24. August</td><td>1992</td><td>24. August</td><td colspan="2">1992</td></tr>
-<tr><td>Jersey</td><td>25. Oktober</td><td>2002</td><td>25. Oktober</td><td colspan="2">2002</td></tr>
-<tr><td>Zypern\*</td><td>16. Mai</td><td>1988</td><td>1. September</td><td colspan="2">1988</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td>13. Januar</td><td colspan="2">1999</td><td>1. Mai</td><td>1999</td></tr>
+<tr><td>Andorra</td><td>13. Oktober</td><td colspan="2">2000</td><td>1. Februar</td><td>2001</td></tr>
+<tr><td>Armenien</td><td>14. April</td><td colspan="2">2008</td><td>1. August</td><td>2008</td></tr>
+<tr><td>Aserbaidschan</td><td>28. März</td><td colspan="2">2000 B</td><td>1. Juli</td><td>2000</td></tr>
+<tr><td>Belarus<sup>\*</sup></td><td>19. Februar</td><td colspan="2">2013 B</td><td>1. Juni</td><td>2013</td></tr>
+<tr><td>Belgien\*</td><td>24. August</td><td colspan="2">1990</td><td>1. Dezember</td><td>1990</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>17. November</td><td colspan="2">2008</td><td>1. März</td><td>2009</td></tr>
+<tr><td>Bulgarien\*</td><td>31. Januar</td><td colspan="2">1991 B</td><td>1. Mai</td><td>1991</td></tr>
+<tr><td>Burkina Faso</td><td>14. Juni</td><td colspan="2">1990 B</td><td>1. Oktober</td><td>1990</td></tr>
+<tr><td>Dänemark\* \*\*</td><td>8. September</td><td colspan="2">1982</td><td>1. Januar</td><td>1983</td></tr>
+<tr><td>Deutschland</td><td>13. Dezember</td><td colspan="2">1984</td><td>1. April</td><td>1985</td></tr>
+<tr><td>Estland</td><td>3. August</td><td colspan="2">1992 B</td><td>1. Dezember</td><td>1992</td></tr>
+<tr><td>Europäische Union</td><td>7. Mai</td><td colspan="2">1982</td><td>1. September</td><td>1982</td></tr>
+<tr><td>Finnland\*\*</td><td>9. Dezember</td><td colspan="2">1985</td><td>1. April</td><td>1986</td></tr>
+<tr><td>Frankreich\* \*\*</td><td>26. April</td><td colspan="2">1990</td><td>1. August</td><td>1990</td></tr>
+<tr><td>Georgien\*</td><td>19. November</td><td colspan="2">2009</td><td>1. März</td><td>2010</td></tr>
+<tr><td>Griechenland\*\*</td><td>13. Juni</td><td colspan="2">1983</td><td>1. Oktober</td><td>1983</td></tr>
+<tr><td>Irland</td><td>23. April</td><td colspan="2">1982</td><td>1. August</td><td>1982</td></tr>
+<tr><td>Island\* \*\*</td><td>17. Juni</td><td colspan="2">1993</td><td>1. Oktober</td><td>1993</td></tr>
+<tr><td>Italien</td><td>11. Februar</td><td colspan="2">1982</td><td>1. Juni</td><td>1982</td></tr>
+<tr><td>Kroatien\*</td><td>3. Juli</td><td colspan="2">2000</td><td>1. November</td><td>2000</td></tr>
+<tr><td>Lettland\*</td><td>23. Januar</td><td colspan="2">1997</td><td>1. Mai</td><td>1997</td></tr>
+<tr><td>Liechtenstein</td><td>30. Oktober</td><td colspan="2">1980</td><td>1. Juni</td><td>1982</td></tr>
+<tr><td>Litauen\*</td><td>5. September</td><td colspan="2">1996</td><td>1. Januar</td><td>1997</td></tr>
+<tr><td>Luxemburg</td><td>23. März</td><td colspan="2">1982</td><td>1. Juli</td><td>1982</td></tr>
+<tr><td>Malta\* \*\*</td><td>26. November</td><td colspan="2">1993</td><td>1. März</td><td>1994</td></tr>
+<tr><td>Marokko</td><td>25. April</td><td colspan="2">2001 B</td><td>1. August</td><td>2001</td></tr>
+<tr><td>Moldau</td><td>24. Mai</td><td colspan="2">1994 B</td><td>1. September</td><td>1994</td></tr>
+<tr><td>Monaco</td><td>7. Februar</td><td colspan="2">1994 B</td><td>1. Juni</td><td>1994</td></tr>
+<tr><td>Montenegro</td><td>1. Oktober</td><td colspan="2">2009</td><td>1. Februar</td><td>2010</td></tr>
+<tr><td>Niederlande\*</td><td>28. Oktober</td><td colspan="2">1980</td><td>1. Juni</td><td>1982</td></tr>
+<tr><td>Nordmazedonien\*</td><td>17. Dezember</td><td colspan="2">1998</td><td>1. April</td><td>1999</td></tr>
+<tr><td>Norwegen\* \*\*</td><td>27. Mai</td><td colspan="2">1986</td><td>1. September</td><td>1986</td></tr>
+<tr><td>Österreich</td><td>2. Mai</td><td colspan="2">1983</td><td>1. September</td><td>1983</td></tr>
+<tr><td>Polen\*</td><td>13. September</td><td colspan="2">1995</td><td>1. Januar</td><td>1996</td></tr>
+<tr><td>Portugal</td><td>3. Februar</td><td colspan="2">1982</td><td>1. Juni</td><td>1982</td></tr>
+<tr><td>Rumänien</td><td>18. Mai</td><td colspan="2">1993 B</td><td>1. September</td><td>1993</td></tr>
+<tr><td>Schweden</td><td>14. Juni</td><td colspan="2">1983</td><td>1. Oktober</td><td>1983</td></tr>
+<tr><td>Schweiz</td><td>12. März</td><td colspan="2">1981</td><td>1. Juni</td><td>1982</td></tr>
+<tr><td>Senegal</td><td>13. April</td><td colspan="2">1987 B</td><td>1. August</td><td>1987</td></tr>
+<tr><td>Serbien</td><td>9. Januar</td><td colspan="2">2008</td><td>1. Mai</td><td>2008</td></tr>
+<tr><td>Slowakei\*</td><td>23. September</td><td colspan="2">1996</td><td>1. Januar</td><td>1997</td></tr>
+<tr><td>Slowenien\*</td><td>29. September</td><td colspan="2">1999</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Spanien\*</td><td>27. Mai</td><td colspan="2">1986</td><td>1. September</td><td>1986</td></tr>
+<tr><td>Tschechische Republik\*</td><td>25. Februar</td><td colspan="2">1998</td><td>1. Juni</td><td>1998</td></tr>
+<tr><td>Tunesien\*</td><td>12. Januar</td><td colspan="2">1996 B</td><td>1. Mai</td><td>1996</td></tr>
+<tr><td>Türkei\* \*\*</td><td>2. Mai</td><td colspan="2">1984</td><td>1. September</td><td>1984</td></tr>
+<tr><td>Ukraine\*</td><td>5. Januar</td><td colspan="2">1999</td><td>1. Mai</td><td>1999</td></tr>
+<tr><td>Ungarn\*</td><td>16. November</td><td colspan="2">1989 B</td><td>1. März</td><td>1990</td></tr>
+<tr><td>Vereinigtes Königreich\* \*\*</td><td>28. Mai</td><td colspan="2">1982</td><td>1. September</td><td>1982</td></tr>
+<tr><td>Akrotiri und Dhekelia\*</td><td>24. Oktober</td><td colspan="2">2001</td><td>24. Oktober</td><td>2001</td></tr>
+<tr><td>Gibraltar</td><td>18. Dezember</td><td colspan="2">2020</td><td>18. Dezember</td><td>2020</td></tr>
+<tr><td>Insel Man</td><td>24. August</td><td colspan="2">1992</td><td>24. August</td><td>1992</td></tr>
+<tr><td>Jersey</td><td>25. Oktober</td><td colspan="2">2002</td><td>25. Oktober</td><td>2002</td></tr>
+<tr><td>Zypern\*</td><td>16. Mai</td><td colspan="2">1988</td><td>1. September</td><td>1988</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1982 802](https://fedlex.data.admin.ch/eli/oc/1982/802_802_802)[2077](https://fedlex.data.admin.ch/eli/oc/1982/2077_2077_2077), [1984 231](https://fedlex.data.admin.ch/eli/oc/1984/231_231_231), [1985 371](https://fedlex.data.admin.ch/eli/oc/1985/371_371_371), [1986 522](https://fedlex.data.admin.ch/eli/oc/1986/522_522_522), [1987 1028](https://fedlex.data.admin.ch/eli/oc/1987/1028_1028_1028), [1989 181](https://fedlex.data.admin.ch/eli/oc/1989/181_181_181), [1990 1301](https://fedlex.data.admin.ch/eli/oc/1990/1301_1301_1301), [1991 1029](https://fedlex.data.admin.ch/eli/oc/1991/1029_1029_1029)[1895](https://fedlex.data.admin.ch/eli/oc/1991/1895_1895_1895), [1992 1390](https://fedlex.data.admin.ch/eli/oc/1992/1390_1390_1390), **1994** 1741, [1996 727](https://fedlex.data.admin.ch/eli/oc/1996/727_727_727)[2560](https://fedlex.data.admin.ch/eli/oc/1996/2560_2560_2560), [2004 4999](https://fedlex.data.admin.ch/eli/oc/2004/759), [2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439), [2010 3253](https://fedlex.data.admin.ch/eli/oc/2010/437)und [2016 421](https://fedlex.data.admin.ch/eli/oc/2016/67). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1982 802](https://fedlex.data.admin.ch/eli/oc/1982/802_802_802), [2077](https://fedlex.data.admin.ch/eli/oc/1982/2077_2077_2077); [1984 231](https://fedlex.data.admin.ch/eli/oc/1984/231_231_231); [1985 371](https://fedlex.data.admin.ch/eli/oc/1985/371_371_371); [1986 522](https://fedlex.data.admin.ch/eli/oc/1986/522_522_522); [1987 1028](https://fedlex.data.admin.ch/eli/oc/1987/1028_1028_1028); [1989 181](https://fedlex.data.admin.ch/eli/oc/1989/181_181_181); [1990 1301](https://fedlex.data.admin.ch/eli/oc/1990/1301_1301_1301); [1991 1029](https://fedlex.data.admin.ch/eli/oc/1991/1029_1029_1029), [1895](https://fedlex.data.admin.ch/eli/oc/1991/1895_1895_1895); [1992 1390](https://fedlex.data.admin.ch/eli/oc/1992/1390_1390_1390); [1994 1722](https://fedlex.data.admin.ch/eli/oc/1994/1722_1722_1722); [1996 727](https://fedlex.data.admin.ch/eli/oc/1996/727_727_727), [2560](https://fedlex.data.admin.ch/eli/oc/1996/2560_2560_2560); [2004 4999](https://fedlex.data.admin.ch/eli/oc/2004/759); **2008** 3527; [2010 3253](https://fedlex.data.admin.ch/eli/oc/2010/437); [2016 421](https://fedlex.data.admin.ch/eli/oc/2016/67); [2023 359](https://fedlex.data.admin.ch/eli/oc/2023/359). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Anhang I*[^t-3]*
+Anhang I[^t-3]
 
 ## Streng geschützte Pflanzenarten
 
@@ -2054,7 +2055,7 @@ Euphorbiaceae
 
 - [tab] *Thamnobryum fernandesii* Sergio
 
-Anhang II*[^t-4]*
+Anhang II[^t-4]
 
 ## Streng geschützte Tierarten
 
@@ -3504,7 +3505,7 @@ Salamandra lanzai (Salamandra atra lanzai)
 
 <sup>6</sup> *Discus defloratus:* Diese Art ist nicht mehr als taxonomisch gültig anerkannt, da sie nur aufgrund einiger weniger Exemplare beschrieben worden war; sie ist nun anerkannt als eine andere Art von Discus.
 
-Anhang III*[^t-5]*
+Anhang III[^t-5]
 
 ## Geschützte Tierarten
 
@@ -3740,7 +3741,7 @@ Salmonidae
 
 Hucho hucho
 
-Salmo salar*[^declu4-lvlu1-lvlu1-lvlu5-lvlu6-1]*<sup>©1®</sup>
+Salmo salar[^declu4-lvlu1-lvlu1-lvlu5-lvlu6-1]<sup>©1®</sup>
 
 [^declu4-lvlu1-lvlu1-lvlu5-lvlu6-1]: Die Bestimmungen dieses Anhangs gelten nicht für die Lachse im Meer.
 
@@ -4062,7 +4063,7 @@ Spongia officinalis (Méd.)
 
 Spongia zimocca (Méd.)
 
-Anhang IV*[^t-6]*
+Anhang IV[^t-6]
 
 ## Verbotene Mittel und Methoden des Tötens, Fangens und anderer Formen der Nutzung
 

@@ -3,11 +3,11 @@ sr: "0.455"
 title: "Convention du 19 septembre 1979 relative à la conservation de la vie sauvage et du milieu naturel de l'Europe (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/802_802_802"
 language: fr
-version: 2018-03-08
+version: 2023-07-03
 adopted: 1979-09-19
 in_force: 1982-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20180308/fr/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20180308-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20180308/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20230703/fr/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20230703-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20230703/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,29 +26,29 @@ Instrument de ratification déposé par la Suisse le 12 mars 1981
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 1982
 
-(Etat le 8 mars 2018)
+(État le 3 juillet 2023)
 
 [^t-1]: [RO 1982 801](https://fedlex.data.admin.ch/eli/oc/1982/801_801_801)
 
 *Préambule*
 
-Les Etats membres du Conseil de l’Europe et les autres signataires de la présente Convention,
+Les États membres du Conseil de l’Europe et les autres signataires de la présente Convention,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres,
 
-considérant la volonté du Conseil de l’Europe de coopérer avec d’autres Etats dans le domaine de la conservation de la nature;
+considérant la volonté du Conseil de l’Europe de coopérer avec d’autres États dans le domaine de la conservation de la nature,
 
-reconnaissant que la flore et la faune sauvages constituent un patrimoine naturel d’une valeur esthétique, scientifique, culturelle, récréative, économique et intrinsèque, qu’il importe de préserver et de transmettre aux générations futures;
+reconnaissant que la flore et la faune sauvages constituent un patrimoine naturel d’une valeur esthétique, scientifique, culturelle, récréative, économique et intrinsèque, qu’il importe de préserver et de transmettre aux générations futures,
 
-reconnaissant le rôle essentiel de la flore et de la faune sauvages dans le maintien des équilibres biologiques;
+reconnaissant le rôle essentiel de la flore et de la faune sauvages dans le maintien des équilibres biologiques,
 
-constatant la raréfaction de nombreuses espèces de la flore et de la faune sauvages et la menace d’extinction qui pèse sur certaines d’entre elles;
+constatant la raréfaction de nombreuses espèces de la flore et de la faune sauvages et la menace d’extinction qui pèse sur certaines d’entre elles,
 
-conscients de ce que la conservation des habitats naturels est l’un des éléments essentiels de la protection et de la préservation de la flore et de la faune sauvages;
+conscients de ce que la conservation des habitats naturels est l’un des éléments essentiels de la protection et de la préservation de la flore et de la faune sauvages,
 
-reconnaissant que la conservation de la flore et de la faune sauvages devrait être prise en considération par les gouvernements dans leurs objectifs et programmes nationaux, et qu’une coopération internationale devrait s’instaurer pour préserver en particulier les espèces migratrices;
+reconnaissant que la conservation de la flore et de la faune sauvages devrait être prise en considération par les gouvernements dans leurs objectifs et programmes nationaux, et qu’une coopération internationale devrait s’instaurer pour préserver en particulier les espèces migratrices,
 
-conscients des nombreuses demandes d’action commune émanant des gouvernements ou des instances internationales, notamment celles exprimées par la Conférence des Nations Unies sur l’environnement, de 1972, et l’Assemblée Consultative du Conseil de l’Europe;
+conscients des nombreuses demandes d’action commune émanant des gouvernements ou des instances internationales, notamment celles exprimées par la Conférence des Nations Unies sur l’environnement, de 1972, et l’Assemblée Consultative du Conseil de l’Europe,
 
 désireux en particulier de suivre, dans le domaine de la conservation de la vie sauvage, les recommandations de la Résolution n<sup>o</sup> 2 de la deuxième Conférence ministérielle européenne sur l’environnement,
 
@@ -58,7 +58,7 @@ sont convenus de ce qui suit:
 
 #### Art. 1
 
-<sup>1.</sup> La présente Convention a pour objet d’assurer la conservation de la flore et de la faune sauvages et de leurs habitats naturels, notamment des espèces et des habitats dont la conservation nécessite la coopération de plusieurs Etats, et de promouvoir une telle coopération.
+<sup>1.</sup> La présente Convention a pour objet d’assurer la conservation de la flore et de la faune sauvages et de leurs habitats naturels, notamment des espèces et des habitats dont la conservation nécessite la coopération de plusieurs États, et de promouvoir une telle coopération.
 
 <sup>2.</sup> Une attention particulière est accordée aux espèces, y compris les espèces migratrices, menacées d’extinction et vulnérables.
 
@@ -124,7 +124,7 @@ S’agissant de la capture ou de la mise à mort des espèces de faune sauvage �
 
 <sup>1.</sup>
 
-A condition qu’il n’existe pas une autre solution satisfaisante et que la dérogation ne nuise pas à la survie de la population concernée, chaque Partie contractante peut déroger aux dispositions des art. 4, 5, 6, 7 et à l’interdiction de l’utilisation des moyens visés à l’art. 8:
+À condition qu’il n’existe pas une autre solution satisfaisante et que la dérogation ne nuise pas à la survie de la population concernée, chaque Partie contractante peut déroger aux dispositions des art. 4, 5, 6, 7 et à l’interdiction de l’utilisation des moyens visés à l’art. 8:
 
 - – dans l’intérêt de la protection de la flore et de la faune;
 - – pour prévenir des dommages importants aux cultures, au bétail, aux forêts, aux pêcheries, aux eaux et aux autres formes de propriété;
@@ -180,18 +180,18 @@ Les Parties contractantes peuvent adopter pour la conservation de la flore et de
 
 <sup>1.</sup> Il est constitué, aux fins de la présente Convention, un Comité permanent.
 
-<sup>2.</sup> Toute Partie contractante peut se faire représenter au sein du Comité permanent par un ou plusieurs délégués. Chaque délégation dispose d’une voix. Dans les domaines relevant de ses compétences, la Communauté économique européenne exerce son droit de vote avec un nombre de voix égal au nombre de ses Etats membres qui sont Parties contractantes à la présente Convention; la Communauté économique européenne n’exerce pas son droit de vote dans les cas où les Etats membres concernés exercent le leur et réciproquement.
+<sup>2.</sup> Toute Partie contractante peut se faire représenter au sein du Comité permanent par un ou plusieurs délégués. Chaque délégation dispose d’une voix. Dans les domaines relevant de ses compétences, la Communauté économique européenne exerce son droit de vote avec un nombre de voix égal au nombre de ses États membres qui sont Parties contractantes à la présente Convention; la Communauté économique européenne n’exerce pas son droit de vote dans les cas où les États membres concernés exercent le leur et réciproquement.
 
-<sup>3.</sup> Tout Etat membre du Conseil de l’Europe qui n’est pas Partie contractante à la Convention peut se faire représenter au Comité par un observateur.
+<sup>3.</sup> Tout État membre du Conseil de l’Europe qui n’est pas Partie contractante à la Convention peut se faire représenter au Comité par un observateur.
 
-Le Comité permanent peut, à l’unanimité, inviter tout Etat non membre du Conseil de l’Europe qui n’est pas Partie contractante à la Convention à se faire représenter par un observateur à l’une de ses réunions.
+Le Comité permanent peut, à l’unanimité, inviter tout État non membre du Conseil de l’Europe qui n’est pas Partie contractante à la Convention à se faire représenter par un observateur à l’une de ses réunions.
 
 peuvent informer le Secrétaire Général du Conseil de l’Europe, trois mois au moins avant la réunion du Comité, de leur intention de se faire représenter à cette réunion par des observateurs. Ils sont admis sauf si, un mois au moins avant la réunion, un tiers des Parties contractantes ont informé le Secrétaire Général qu’elles s’y opposent.
 
 Tout organisme ou toute institution techniquement qualifié dans le domaine de la protection, de la conservation ou de la gestion de la flore et de la faune sauvages et de leurs habitats, et appartenant à l’une des catégories suivantes:
 
 - a. organismes ou institutions internationaux, soit gouvernementaux soit non gouvernementaux, ou organismes ou institutions nationaux gouvernementaux;
-- b. organismes ou institutions nationaux non gouvernementaux qui ont été agréés à cette fin par l’Etat dans lequel ils sont établis,
+- b. organismes ou institutions nationaux non gouvernementaux qui ont été agréés à cette fin par l’État dans lequel ils sont établis,
 
 <sup>4.</sup> Le Comité permanent est convoqué par le Secrétaire Général du Conseil de l’Europe. Il tient sa première réunion dans le délai d’un an à compter de la date d’entrée en vigueur de la Convention. Il se réunit par la suite au moins tous les deux ans et, en outre, lorsque la majorité des Parties contractantes en formule la demande.
 
@@ -208,8 +208,8 @@ Le Comité permanent est chargé de suivre l’application de la présente Conve
 - – revoir de manière permanente les dispositions de la présente Convention, y compris ses annexes, et examiner les modification qui pourraient être nécessaires;
 - – faire des recommandations aux Parties contractantes sur les mesures à prendre pour la mise en oeuvre de la présente Convention;
 - – recommander les mesures appropriées pour assurer l’information du public sur les travaux entrepris dans le cadre de la présente Convention;
-- – faire des recommandations au Comité des Ministres relatives à l’invitation d’Etats non membres du Conseil de l’Europe à adhérer à la présente Convention;
-- – faire toute proposition tendant à améliorer l’efficacité de la présente Convention et portant notamment sur la conclusion, avec des Etats qui ne sont pas Parties contractantes à la Convention, d’accords propres à rendre plus efficace la conservation d’espèces ou de groupes d’espèces.
+- – faire des recommandations au Comité des Ministres relatives à l’invitation d’États non membres du Conseil de l’Europe à adhérer à la présente Convention;
+- – faire toute proposition tendant à améliorer l’efficacité de la présente Convention et portant notamment sur la conclusion, avec des États qui ne sont pas Parties contractantes à la Convention, d’accords propres à rendre plus efficace la conservation d’espèces ou de groupes d’espèces.
 
 <sup>2.</sup> Pour l’accomplissement de sa mission, le Comité permanent peut, de sa propre initiative, prévoir des réunions de groupes d’experts.
 
@@ -221,7 +221,7 @@ Après chacune de ses réunions, le Comité permanent transmet au Comité des Mi
 
 #### Art. 16
 
-<sup>1.</sup> Tout amendement aux articles de la présente Convention, proposé par une Partie contractante ou par le Comité des Ministres, est communiqué au Secrétaire Général du Conseil de l’Europe et transmis par ses soins deux mois au moins avant la réunion du Comité permanent aux Etats membres du Conseil de l’Europe, à tout signataire, à toute Partie contractante, à tout Etat invité à signer la présente Convention conformément aux dispositions de l’art 19 et à tout Etat invité à y adhérer, conformément aux dispositions de l’art 20.
+<sup>1.</sup> Tout amendement aux articles de la présente Convention, proposé par une Partie contractante ou par le Comité des Ministres, est communiqué au Secrétaire Général du Conseil de l’Europe et transmis par ses soins deux mois au moins avant la réunion du Comité permanent aux États membres du Conseil de l’Europe, à tout signataire, à toute Partie contractante, à tout État invité à signer la présente Convention conformément aux dispositions de l’art 19 et à tout État invité à y adhérer, conformément aux dispositions de l’art 20.
 
 <sup>2.</sup>
 
@@ -236,11 +236,11 @@ Tout amendement proposé conformément aux dispositions du paragraphe précéden
 
 #### Art. 17
 
-<sup>1.</sup> Tout amendement aux annexes à la présente Convention, proposé par une Partie contractante ou par le Comité des Ministres, est communiqué au Secrétaire Général du Conseil de l’Europe et transmis par ses soins deux mois au moins avant la réunion du Comité permanent aux Etats membres du Conseil de l’Europe, à tout signataire, à toute Partie contractante, à tout Etat invité à signer la présente Convention conformément aux dispositions de l’art. 19 et à tout Etat invité à y adhérer, conformément aux dispositions de l’art. 20.
+<sup>1.</sup> Tout amendement aux annexes à la présente Convention, proposé par une Partie contractante ou par le Comité des Ministres, est communiqué au Secrétaire Général du Conseil de l’Europe et transmis par ses soins deux mois au moins avant la réunion du Comité permanent aux États membres du Conseil de l’Europe, à tout signataire, à toute Partie contractante, à tout État invité à signer la présente Convention conformément aux dispositions de l’art. 19 et à tout État invité à y adhérer, conformément aux dispositions de l’art. 20.
 
 <sup>2.</sup> Tout amendement proposé conformément aux dispositions du paragraphe précédent est examiné par le Comité permanent qui peut l’adopter à la majorité des deux tiers des Parties contractantes. Le texte adopté est communiqué aux Parties contractantes.
 
-<sup>3.</sup> A l’expiration d’une période de trois mois après son adoption par le Comité permanent, et sauf si un tiers des Parties contractantes ont notifié des objections, tout amendement entre en vigueur à l’égard des Parties contractantes qui n’ont pas notifié d’objections.
+<sup>3.</sup> À l’expiration d’une période de trois mois après son adoption par le Comité permanent, et sauf si un tiers des Parties contractantes ont notifié des objections, tout amendement entre en vigueur à l’égard des Parties contractantes qui n’ont pas notifié d’objections.
 
 ## Chapitre VIII Règlement des différends
 
@@ -250,7 +250,7 @@ Tout amendement proposé conformément aux dispositions du paragraphe précéden
 
 <sup>2.</sup> Tout différend entre Parties contractantes concernant l’interprétation ou l’application de la présente Convention qui n’a pas été réglé sur la base des dispositions du paragraphe précédent ou par voie de négociation entre les parties au différend et sauf si ces parties en conviennent autrement est, à la requête de l’une d’entre elles, soumis à l’arbitrage. Chacune des parties désigne un arbitre et les deux arbitres désignent un troisième arbitre. Si, sous réserve des dispositions du par. 3 du présent article, dans un délai de trois mois à compter de la requête d’arbitrage, l’une des parties n’a pas désigné son arbitre, le Président de la Cour européenne des Droits de l’Homme procède, à la demande de l’autre partie, à sa désignation dans un nouveau délai de trois mois. La même procédure s’applique au cas où les deux arbitres ne peuvent pas se mettre d’accord sur le choix du troisième arbitre dans un délai de trois mois à compter de la désignation des deux premiers arbitres.
 
-<sup>3.</sup> En cas de différend entre deux Parties contractantes dont l’une est un Etat membre de la Communauté économique européenne, elle-même Partie contractante, l’autre Partie contractante adresse la requête d’arbitrage à la fois à cet Etat membre et à la Communauté, qui lui notifient conjointement, dans un délai de deux mois après la réception de la requête, si l’Etat membre ou la Communauté, ou l’Etat membre et la Communauté conjointement, se constituent partie au différend. A défaut d’une telle notification dans ledit délai, l’Etat membre et la Communauté sont réputés n’être qu’une seule et même partie au différend pour l’application des dispositions régissant la constitution et la procédure du tribunal arbitral. Il en est de même lorsque l’Etat membre et la Communauté se constituent conjointement partie au différend.
+<sup>3.</sup> En cas de différend entre deux Parties contractantes dont l’une est un État membre de la Communauté économique européenne, elle-même Partie contractante, l’autre Partie contractante adresse la requête d’arbitrage à la fois à cet État membre et à la Communauté, qui lui notifient conjointement, dans un délai de deux mois après la réception de la requête, si l’État membre ou la Communauté, ou l’État membre et la Communauté conjointement, se constituent partie au différend. À défaut d’une telle notification dans ledit délai, l’État membre et la Communauté sont réputés n’être qu’une seule et même partie au différend pour l’application des dispositions régissant la constitution et la procédure du tribunal arbitral. Il en est de même lorsque l’État membre et la Communauté se constituent conjointement partie au différend.
 
 <sup>4.</sup> Le tribunal arbitral établit ses propres règles de procédure. Les décisions sont prises à la majorité. Sa sentence est définitive et obligatoire.
 
@@ -260,25 +260,25 @@ Tout amendement proposé conformément aux dispositions du paragraphe précéden
 
 #### Art. 19
 
-<sup>1.</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe et des Etats non membres qui ont participé à son élaboration, ainsi qu’à celle de la Communauté économique européenne.
+<sup>1.</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe et des États non membres qui ont participé à son élaboration, ainsi qu’à celle de la Communauté économique européenne.
 
-Jusqu’à la date de son entrée en vigueur, elle est aussi ouverte à la signature de tout autre Etat invité à la signer par le Comité des Ministres.
+Jusqu’à la date de son entrée en vigueur, elle est aussi ouverte à la signature de tout autre État invité à la signer par le Comité des Ministres.
 
 La Convention sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>2.</sup> La convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle cinq Etats, dont au moins quatre Etats membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la Convention conformément aux dispositions du paragraphe précédent.
+<sup>2.</sup> La convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle cinq États, dont au moins quatre États membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la Convention conformément aux dispositions du paragraphe précédent.
 
-<sup>3.</sup> Elle entrera en vigueur à l’égard de tout Etat signataire ou de la Communauté économique européenne, qui exprimeront ultérieurement leur consente ment à être liés par elle, le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
+<sup>3.</sup> Elle entrera en vigueur à l’égard de tout État signataire ou de la Communauté économique européenne, qui exprimeront ultérieurement leur consente ment à être liés par elle, le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 20
 
-<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra, après consultation des Parties contractantes, inviter à adhérer à la Convention tout Etat non membre du Conseil qui, invité à la signer conformément aux dispositions de l’art. 19, ne l’aura pas encore fait, et tout autre Etat non membre.
+<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra, après consultation des Parties contractantes, inviter à adhérer à la Convention tout État non membre du Conseil qui, invité à la signer conformément aux dispositions de l’art. 19, ne l’aura pas encore fait, et tout autre État non membre.
 
-<sup>2.</sup> Pour tout Etat adhèrent, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
+<sup>2.</sup> Pour tout État adhèrent, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
 #### Art. 21
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
 
 <sup>2.</sup> Toute Partie contractante peut, au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout autre moment par la suite, étendre l’application de la présente convention, par déclaration adressée au Secrétaire Général du conseil de l’Europe, à tout autre territoire désigné dans la déclaration et dont elle assure les relations internationales ou pour lequel elle est habilitée à stipuler.
 
@@ -286,7 +286,7 @@ La Convention sera soumise à ratification, acceptation ou approbation. Les inst
 
 #### Art. 22
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, formuler une ou plusieurs réserves à l’égard de certaines espèces énumérées dans les annexes I à III et/ou, pour certaines de ces espèces qui seront indiquées dans la ou les réserves, à l’égard de certains moyens ou méthodes de chasse et d’autres formes d’exploitation mentionnés dans l’annexe IV. Des réserves de caractère général ne sont pas admises.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, formuler une ou plusieurs réserves à l’égard de certaines espèces énumérées dans les annexes I à III et/ou, pour certaines de ces espèces qui seront indiquées dans la ou les réserves, à l’égard de certains moyens ou méthodes de chasse et d’autres formes d’exploitation mentionnés dans l’annexe IV. Des réserves de caractère général ne sont pas admises.
 
 <sup>2.</sup> Toute Partie contractante qui étend l’application de la présente Convention à un territoire désigné dans la déclaration prévue au par. 2 de l’art. 21 peut, pour le territoire concerné, formuler une ou plusieurs réserves conformément aux dispositions du paragraphe précédent.
 
@@ -302,7 +302,7 @@ La Convention sera soumise à ratification, acceptation ou approbation. Les inst
 
 #### Art. 24
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil de l’Europe, à tout Etat signataire, à la Communauté économique européenne signataire de la présente Convention, et à toute Partie contractante:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil de l’Europe, à tout État signataire, à la Communauté économique européenne signataire de la présente Convention, et à toute Partie contractante:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation, ou d’adhésion;
@@ -315,79 +315,77 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 - i. le retrait de toute réserve effectué en vertu des dispositions du par. 4 de l’art. 22;
 - j. toute notification faite en vertu des dispositions de l’art. 23 et la date à laquelle la dénonciation prendra effet.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Berne, le 19 septembre 1979, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe, à tout Etat et à la communauté économique européenne signataires ainsi qu’à tout Etat invité à signer la présente Convention ou à y adhérer.
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Berne, le 19 septembre 1979, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, à tout État et à la communauté économique européenne signataires ainsi qu’à tout État invité à signer la présente Convention ou à y adhérer. (Suivent les signatures)
 
-(Suivent les signatures)
-
-Champ d’application le 22 janvier 2016**[^t-2]**
+Champ d’application le 3 juillet 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>13 janvier</td><td>1999</td><td>1<sup>er</sup> mai</td><td>1999</td></tr>
 <tr><td>Allemagne</td><td>13 décembre</td><td>1984</td><td>1<sup>er</sup> avril</td><td>1985</td></tr>
 <tr><td>Andorre</td><td>13 octobre</td><td>2000</td><td>1<sup>er</sup> février</td><td>2001</td></tr>
 <tr><td>Arménie</td><td>14 avril</td><td>2008</td><td>1<sup>er</sup> août</td><td>2008</td></tr>
 <tr><td>Autriche</td><td>2 mai</td><td>1983</td><td>1<sup>er</sup> septembre</td><td>1983</td></tr>
 <tr><td>Azerbaïdjan</td><td>28 mars</td><td>2000 A</td><td>1<sup>er</sup> juillet</td><td>2000</td></tr>
-<tr><td>Bélarus<sup>\*</sup></td><td>19 février</td><td>2013 A</td><td>1<sup>er</sup> juin</td><td>2013</td></tr>
-<tr><td>Belgique<sup>\*</sup></td><td>24 août</td><td>1990</td><td>1<sup>er</sup> décembre</td><td>1990</td></tr>
+<tr><td>Bélarus\*</td><td>19 février</td><td>2013 A</td><td>1<sup>er</sup> juin</td><td>2013</td></tr>
+<tr><td>Belgique\*</td><td>24 août</td><td>1990</td><td>1<sup>er</sup> décembre</td><td>1990</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>17 novembre</td><td>2008</td><td>1<sup>er</sup> mars</td><td>2009</td></tr>
-<tr><td>Bulgarie<sup>\*</sup></td><td>31 janvier</td><td>1991 A</td><td>1<sup>er</sup> mai</td><td>1991</td></tr>
+<tr><td>Bulgarie\*</td><td>31 janvier</td><td>1991 A</td><td>1<sup>er</sup> mai</td><td>1991</td></tr>
 <tr><td>Burkina Faso</td><td>14 juin</td><td>1990 A</td><td>1<sup>er</sup> octobre</td><td>1990</td></tr>
-<tr><td>Chypre<sup>\*</sup></td><td>16 mai</td><td>1988</td><td>1<sup>er</sup> septembre</td><td>1988</td></tr>
-<tr><td>Croatie<sup>\*</sup></td><td>3 juillet</td><td>2000</td><td>1<sup>er</sup> novembre</td><td>2000</td></tr>
-<tr><td>Danemark<sup>\* \*\*</sup></td><td>8 septembre</td><td>1982</td><td>1<sup>er</sup> janvier</td><td>1983</td></tr>
-<tr><td>Espagne<sup>\*</sup></td><td>27 mai</td><td>1986</td><td>1<sup>er</sup> septembre</td><td>1986</td></tr>
+<tr><td>Chypre\*</td><td>16 mai</td><td>1988</td><td>1<sup>er</sup> septembre</td><td>1988</td></tr>
+<tr><td>Croatie\*</td><td>3 juillet</td><td>2000</td><td>1<sup>er</sup> novembre</td><td>2000</td></tr>
+<tr><td>Danemark\* \*\*</td><td>8 septembre</td><td>1982</td><td>1<sup>er</sup> janvier</td><td>1983</td></tr>
+<tr><td>Espagne\*</td><td>27 mai</td><td>1986</td><td>1<sup>er</sup> septembre</td><td>1986</td></tr>
 <tr><td>Estonie</td><td>3 août</td><td>1992 A</td><td>1<sup>er</sup> décembre</td><td>1992</td></tr>
-<tr><td>Finlande<sup>\*</sup> <sup>\*\*</sup></td><td>9 décembre</td><td>1985</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
-<tr><td>France<sup>\* \*\*</sup></td><td>26 avril</td><td>1990</td><td>1<sup>er</sup> août</td><td>1990</td></tr>
+<tr><td>Finlande\* \*\*</td><td>9 décembre</td><td>1985</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
+<tr><td>France\* \*\*</td><td>26 avril</td><td>1990</td><td>1<sup>er</sup> août</td><td>1990</td></tr>
 <tr><td>Géorgie\*</td><td>19 novembre</td><td>2009</td><td>1<sup>er</sup> mars</td><td>2010</td></tr>
-<tr><td>Grèce<sup>\*\*</sup></td><td>13 juin</td><td>1983</td><td>1<sup>er</sup> octobre</td><td>1983</td></tr>
-<tr><td>Hongrie<sup>\*</sup></td><td>16 novembre</td><td>1989 A</td><td>1<sup>er</sup> mars</td><td>1990</td></tr>
+<tr><td>Grèce\*\*</td><td>13 juin</td><td>1983</td><td>1<sup>er</sup> octobre</td><td>1983</td></tr>
+<tr><td>Hongrie\*</td><td>16 novembre</td><td>1989 A</td><td>1<sup>er</sup> mars</td><td>1990</td></tr>
 <tr><td>Irlande</td><td>23 avril</td><td>1982</td><td>1<sup>er</sup> août</td><td>1982</td></tr>
-<tr><td>Islande<sup>\* \*\*</sup></td><td>17 juin</td><td>1993</td><td>1<sup>er</sup> octobre</td><td>1993</td></tr>
+<tr><td>Islande\* \*\*</td><td>17 juin</td><td>1993</td><td>1<sup>er</sup> octobre</td><td>1993</td></tr>
 <tr><td>Italie</td><td>11 février</td><td>1982</td><td>1<sup>er</sup> juin</td><td>1982</td></tr>
-<tr><td>Lettonie<sup>\*</sup></td><td>23 janvier</td><td>1997</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
+<tr><td>Lettonie\*</td><td>23 janvier</td><td>1997</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
 <tr><td>Liechtenstein</td><td>30 octobre</td><td>1980</td><td>1<sup>er</sup> juin</td><td>1982</td></tr>
-<tr><td>Lituanie<sup>\*</sup></td><td>5 septembre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
+<tr><td>Lituanie\*</td><td>5 septembre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
 <tr><td>Luxembourg</td><td>23 mars</td><td>1982</td><td>1<sup>er</sup> juillet</td><td>1982</td></tr>
-<tr><td>Macédoine<sup>\*</sup></td><td>17 décembre</td><td>1998</td><td>1<sup>er</sup> avril</td><td>1999</td></tr>
-<tr><td>Malte<sup>\*</sup> <sup>\*\*</sup></td><td>26 novembre</td><td>1993</td><td>1<sup>er</sup> mars</td><td>1994</td></tr>
+<tr><td>Macédoine du Nord\*</td><td>17 décembre</td><td>1998</td><td>1<sup>er</sup> avril</td><td>1999</td></tr>
+<tr><td>Malte\* \*\*</td><td>26 novembre</td><td>1993</td><td>1<sup>er</sup> mars</td><td>1994</td></tr>
 <tr><td>Maroc</td><td>25 avril</td><td>2001 A</td><td>1<sup>er</sup> août</td><td>2001</td></tr>
 <tr><td>Moldova</td><td>24 mai</td><td>1994 A</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
 <tr><td>Monaco</td><td>7 février</td><td>1994 A</td><td>1<sup>er</sup> juin</td><td>1994</td></tr>
 <tr><td>Monténégro</td><td>1<sup>er</sup> octobre</td><td>2009</td><td>1<sup>er</sup> février</td><td>2010</td></tr>
-<tr><td>Norvège<sup>\* \*\*</sup></td><td>27 mai</td><td>1986</td><td>1<sup>er</sup> septembre</td><td>1986</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup></td><td>28 octobre</td><td>1980</td><td>1<sup>er</sup> juin</td><td>1982</td></tr>
-<tr><td>Pologne<sup>\*</sup></td><td>13 septembre</td><td>1995</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
+<tr><td>Norvège\* \*\*</td><td>27 mai</td><td>1986</td><td>1<sup>er</sup> septembre</td><td>1986</td></tr>
+<tr><td>Pays-Bas\*</td><td>28 octobre</td><td>1980</td><td>1<sup>er</sup> juin</td><td>1982</td></tr>
+<tr><td>Pologne\*</td><td>13 septembre</td><td>1995</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
 <tr><td>Portugal</td><td>3 février</td><td>1982</td><td>1<sup>er</sup> juin</td><td>1982</td></tr>
-<tr><td>République tchèque<sup>\*</sup></td><td>25 février</td><td>1998</td><td>1<sup>er</sup> juin</td><td>1998</td></tr>
+<tr><td>République tchèque\*</td><td>25 février</td><td>1998</td><td>1<sup>er</sup> juin</td><td>1998</td></tr>
 <tr><td>Roumanie</td><td>18 mai</td><td>1993 A</td><td>1<sup>er</sup> septembre</td><td>1993</td></tr>
-<tr><td>Royaume-Uni<sup>\*</sup> <sup>\*\*</sup></td><td>28 mai</td><td>1982</td><td>1<sup>er</sup> septembre</td><td>1982</td></tr>
+<tr><td>Royaume-Uni\* \*\*</td><td>28 mai</td><td>1982</td><td>1<sup>er</sup> septembre</td><td>1982</td></tr>
 <tr><td>[tab] Akrotiri et Dhekelia\*</td><td>24 octobre</td><td>2001</td><td>24 octobre</td><td>2001</td></tr>
-<tr><td>[tab] Ile de Man</td><td>24 août</td><td>1992</td><td>24 août</td><td>1992</td></tr>
+<tr><td>Gibraltar</td><td>18 décembre</td><td>2020</td><td>18 décembre</td><td>2020</td></tr>
+<tr><td>[tab] Île de Man</td><td>24 août</td><td>1992</td><td>24 août</td><td>1992</td></tr>
 <tr><td>[tab] Jersey</td><td>25 octobre</td><td>2002</td><td>25 octobre</td><td>2002</td></tr>
 <tr><td>Sénégal</td><td>13 avril</td><td>1987 A</td><td>1<sup>er</sup> août</td><td>1987</td></tr>
 <tr><td>Serbie</td><td>9 janvier</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
-<tr><td>Slovaquie<sup>\*</sup></td><td>23 septembre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
-<tr><td>Slovénie<sup>\*</sup></td><td>29 septembre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
+<tr><td>Slovaquie\*</td><td>23 septembre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
+<tr><td>Slovénie\*</td><td>29 septembre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
 <tr><td>Suède</td><td>14 juin</td><td>1983</td><td>1<sup>er</sup> octobre</td><td>1983</td></tr>
 <tr><td>Suisse</td><td>12 mars</td><td>1981</td><td>1<sup>er</sup> juin</td><td>1982</td></tr>
-<tr><td>Tunisie<sup>\*</sup></td><td>12 janvier</td><td>1996 A</td><td>1<sup>er</sup> mai</td><td>1996</td></tr>
-<tr><td>Turquie<sup>\*</sup> <sup>\*\*</sup></td><td>2 mai</td><td>1984</td><td>1<sup>er</sup> septembre</td><td>1984</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>5 janvier</td><td>1999</td><td>1<sup>er</sup> mai</td><td>1999</td></tr>
+<tr><td>Tunisie\*</td><td>12 janvier</td><td>1996 A</td><td>1<sup>er</sup> mai</td><td>1996</td></tr>
+<tr><td>Turquie\* \*\*</td><td>2 mai</td><td>1984</td><td>1<sup>er</sup> septembre</td><td>1984</td></tr>
+<tr><td>Ukraine\*</td><td>5 janvier</td><td>1999</td><td>1<sup>er</sup> mai</td><td>1999</td></tr>
 <tr><td>[tab] Union européenne</td><td>7 mai</td><td>1982</td><td>1<sup>er</sup> septembre</td><td>1982</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: RO **1982** 813 [2077](https://fedlex.data.admin.ch/eli/oc/1982/2077_2077_2077), [1984 231](https://fedlex.data.admin.ch/eli/oc/1984/231_231_231), [1985 371](https://fedlex.data.admin.ch/eli/oc/1985/371_371_371), [1986 522](https://fedlex.data.admin.ch/eli/oc/1986/522_522_522), [1987 1028](https://fedlex.data.admin.ch/eli/oc/1987/1028_1028_1028), [1989 181](https://fedlex.data.admin.ch/eli/oc/1989/181_181_181), [1990 1301](https://fedlex.data.admin.ch/eli/oc/1990/1301_1301_1301), [1991 1029](https://fedlex.data.admin.ch/eli/oc/1991/1029_1029_1029)1911, [1992 1390](https://fedlex.data.admin.ch/eli/oc/1992/1390_1390_1390), [1994 1722](https://fedlex.data.admin.ch/eli/oc/1994/1722_1722_1722), **1996** 728 [2560](https://fedlex.data.admin.ch/eli/oc/1996/2560_2560_2560), [2004 4999](https://fedlex.data.admin.ch/eli/oc/2004/759), [2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439), [2010 3253](https://fedlex.data.admin.ch/eli/oc/2010/437), [2016 421](https://fedlex.data.admin.ch/eli/oc/2016/67). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1982 802](https://fedlex.data.admin.ch/eli/oc/1982/802_802_802), [2077](https://fedlex.data.admin.ch/eli/oc/1982/2077_2077_2077); [1984 231](https://fedlex.data.admin.ch/eli/oc/1984/231_231_231); [1985 371](https://fedlex.data.admin.ch/eli/oc/1985/371_371_371); [1986 522](https://fedlex.data.admin.ch/eli/oc/1986/522_522_522); [1987 1028](https://fedlex.data.admin.ch/eli/oc/1987/1028_1028_1028); [1989 181](https://fedlex.data.admin.ch/eli/oc/1989/181_181_181); [1990 1301](https://fedlex.data.admin.ch/eli/oc/1990/1301_1301_1301); [1991 1029](https://fedlex.data.admin.ch/eli/oc/1991/1029_1029_1029), [1895](https://fedlex.data.admin.ch/eli/oc/1991/1895_1895_1895); [1992 1390](https://fedlex.data.admin.ch/eli/oc/1992/1390_1390_1390); [1994 1722](https://fedlex.data.admin.ch/eli/oc/1994/1722_1722_1722); [1996 727](https://fedlex.data.admin.ch/eli/oc/1996/727_727_727), [2560](https://fedlex.data.admin.ch/eli/oc/1996/2560_2560_2560); [2004 4999](https://fedlex.data.admin.ch/eli/oc/2004/759); **2008** 3527; [2010 3253](https://fedlex.data.admin.ch/eli/oc/2010/437); [2016 421](https://fedlex.data.admin.ch/eli/oc/2016/67); [2023 359](https://fedlex.data.admin.ch/eli/oc/2023/359). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
-Annexe I*[^t-3]*
+Annexe I[^t-3]
 
 ## Espèces de flore strictement protégées
 
-[^t-3]: Nouvelle teneur la mod. adoptée le 5 déc. 1997, en vigueur depuis le 6 mars 1998 ([RO 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)).
+[^t-3]: Nouvelle teneur selon la mod. adoptée le 5 déc. 1997, en vigueur depuis le 6 mars 1998 ([RO 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)).
 
 (Méd.) = en Méditerranée
 
@@ -402,7 +400,7 @@ Annexe I*[^t-3]*
 - [tab] *Cystoseira amentacea* (inclus var. *stricta* et var. *spicata*) (Méd.)
 - [tab] *Cystoseira mediterranea* (Méd.)
 - [tab] *Cystoseira sedoides* (Méd.)
-- [tab] *Cystoseira* *spinosa* (inclus C. *adriatica*) (Méd.)
+- [tab] *Cystoseira spinosa* (inclus C. *adriatica*) (Méd.)
 - [tab] *Cystoseira zosteroides* (Méd.)
 - [tab] *Laminaria rodriguezii* (Méd.)
 - [tab] *Laminaria ochroleuca* (Méd.)
@@ -447,11 +445,11 @@ Annexe I*[^t-3]*
 - [tab] *Marsilea batardae* Launert
 - [tab] *Marsilea quadrifolia* L.
 - [tab] *Marsilea strigosa* Willd.
-- [tab] *Pilularia* *minuta* Durieu ex Braun
+- [tab] *Pilularia minuta* Durieu ex Braun
 
 ### Ophioglossaceae
 
-- [tab] *Botrychium* *matricariifolium* A. Braun ex Koch
+- [tab] *Botrychium matricariifolium* A. Braun ex Koch
 - [tab] *Botrychium multifidum* (S. G. Gmelin) Rupr.
 - [tab] *Botrychium simplex* Hitchc.
 - [tab] *Ophioglossum polyphyllum* A. Braun
@@ -474,7 +472,7 @@ Annexe I*[^t-3]*
 
 ### Alismataceae
 
-- [tab] *Alisma* *wahlenbergii* (O. R. Holmb.) Juz.
+- [tab] *Alisma wahlenbergii* (O. R. Holmb.) Juz.
 - [tab] *Caldesia parnassifolia* (L.) Parl.
 - [tab] *Luronium natans* (L.) Raf.
 
@@ -508,8 +506,8 @@ Annexe I*[^t-3]*
 ### Boraginaceae
 
 - [tab] *Alkanna pinardii* Boiss.
-- [tab] *Anchusa* *crispa* Viv. (inclu. A. litoreae Moris)
-- [tab] *Lithodora* *nitida* (H. Ern) R. Fernandes
+- [tab] *Anchusa crispa* Viv. (inclu. A. litoreae Moris)
+- [tab] *Lithodora nitida* (H. Ern) R. Fernandes
 - [tab] *Myosotis praecox* Hulphers
 - [tab] *Myosotis rehsteineri* Wartm.
 - [tab] *Omphalodes kuzinskyana* Willk.
@@ -525,7 +523,7 @@ Annexe I*[^t-3]*
 ### Campanulaceae
 
 - [tab] *Asyneuma giganteum* (Boiss.) Bornm.
-- [tab] *Campanula* *abietina* Griseb. et Schenk.
+- [tab] *Campanula abietina* Griseb. et Schenk.
 - [tab] *Campanula damboldtiana* Davis
 - [tab] *Campanula gelida* Kovanda
 - [tab] *Campanula lanata* Friv.
@@ -556,18 +554,18 @@ Annexe I*[^t-3]*
 - [tab] *Moehringia jankae* Griseb. ex Janka
 - [tab] *Moehringia tommasinii* Marches.
 - [tab] *Petrocoptis grandiflora* Rothm.
-- [tab] *Petrocoptis* *montsicciana* O. Bolos Rivas Mart.
+- [tab] *Petrocoptis montsicciana* O. Bolos Rivas Mart.
 - [tab] *Petrocoptis pseudoviscosa* Fernandez Casas
-- [tab] *Saponaria* *halophila* Hedge & Hub.-Mor.
-- [tab] *Silene* *cretacea* Fisch. ex Spreng.
+- [tab] *Saponaria halophila* Hedge & Hub.-Mor.
+- [tab] *Silene cretacea* Fisch. ex Spreng.
 - [tab] *Silene furcata Raf. subsp. angustiflora (Rupr.) Walters*
-- [tab] *Silene* *haussknechtii* Heldr. ex Hausskn.
+- [tab] *Silene haussknechtii* Heldr. ex Hausskn.
 - [tab] *Silene hifacensis Rouy ex Willk.*
 - [tab] *Silene holzmannii* Heldr. ex Boiss.
 - [tab] *Silene mariana* Pau
 - [tab] *Silene orphanidis* Boiss.
-- [tab] *Silene* *pompeiopolitana* Gay ex. Boiss.
-- [tab] *Silene* *rothmaleri* Pinto da Silva
+- [tab] *Silene pompeiopolitana* Gay ex. Boiss.
+- [tab] *Silene rothmaleri* Pinto da Silva
 - [tab] *Silene salsuginea* Hub.-Mor.
 - [tab] *Silene sangaria* Coode & Cullen
 - [tab] *Silene velutina* Pourret ex Loisel.
@@ -575,7 +573,7 @@ Annexe I*[^t-3]*
 ### Chenopodiaceae
 
 - [tab] *Beta adanensis* Pamuk. apud Aellen
-- [tab] *Beta* *trojana* Pamuk. apud Aellen
+- [tab] *Beta trojana* Pamuk. apud Aellen
 - [tab] *Cremnophyton lanfrancoi* Brullo et Pavone
 - [tab] *Kalidiopsis wagenitzii* Aellen
 - [tab] *Kochia saxicola* Guss.
@@ -586,20 +584,20 @@ Annexe I*[^t-3]*
 
 ### Cistaceae
 
-- [tab] *Helianthemum* *alypoides* Losa & Rivas Goday
+- [tab] *Helianthemum alypoides* Losa & Rivas Goday
 - [tab] *Helianthemum arcticum* (Grosser) Janch.
 - [tab] *Helianthemum caput-felis* Boiss.
-- [tab] *Tuberaria* *major* (Willk.) Pinto da Silva & Roseira
+- [tab] *Tuberaria major* (Willk.) Pinto da Silva & Roseira
 
 ### Compositae
 
 - [tab] *Achillea glaberrima* Klok.
 - [tab] *Achillea thracica* Velen.
 - [tab] *Anacyclus latealatus* Hub.-Mor.
-- [tab] *Andryala* *levitomentosa* (E. I. Nayardy) P. D. Sell
-- [tab] *Anthemis* *glaberrima* (Rech. f.) Greuter
+- [tab] *Andryala levitomentosa* (E. I. Nayardy) P. D. Sell
+- [tab] *Anthemis glaberrima* (Rech. f.) Greuter
 - [tab] *Anthemis halophila* Boiss. & Bal.
-- [tab] *Anthemis* *trotzkiana* Claus ex Bunge.
+- [tab] *Anthemis trotzkiana* Claus ex Bunge.
 - [tab] *Artemisia granatensis* Boiss.
 - [tab] *Artemisia insipida* Vill.
 - [tab] *Artemisia laciniata* Willd.
@@ -607,14 +605,14 @@ Annexe I*[^t-3]*
 - [tab] *Aster pyrenaeus* Desf. ex. DC. France
 - [tab] *Aster sibiricus* L.
 - [tab] *Carduus myriacanthus* Salzm. ex DC.
-- [tab] *Carlina* *diae* (Rech. f.) Meusel & Kastener
+- [tab] *Carlina diae* (Rech. f.) Meusel & Kastener
 - [tab] *Carlina onopordifolia* Besser
 - [tab] *Centaurea alba* L. subsp. *heldreichii* (Halacsy) Dostal (*Centaurea heldreichii* Halacsy)
 - [tab] *Centaurea alba* L. subsp. *princeps* (Boiss. & Heldr.) Gugler (*Centaurea princeps* Boiss. & Heldr.)
 - [tab] *Centaurea akamatis* Th. Georgiades & G. Chatzikiriakou
 - [tab] *Centaurea attica* Nyman subsp. *megarensis* (Halacsy & Hayek) Dostal (*Centaurea megarensis* Halacsy & Hayek)
-- [tab] *Centaurea balea**rica* J. D. Rodriguez
-- [tab] *Centaurea* *borjae* Valdes-Berm. & Rivas Goday
+- [tab] *Centaurea balearica* J. D. Rodriguez
+- [tab] *Centaurea borjae* Valdes-Berm. & Rivas Goday
 - [tab] *Centaurea citricolor* Font Quer
 - [tab] *Centaurea corymbosa* Pourret
 - [tab] *Centaurea dubjanskyi* Iljin.
@@ -628,16 +626,16 @@ Annexe I*[^t-3]*
 - [tab] *Centaurea peucedanifolia* Boiss. & Orph.
 - [tab] *Centaurea pineticola* Iljin.
 - [tab] *Centaurea pinnata* Pau
-- [tab] *Centaurea* *pontica* Prodan & E. I. Nayardy
+- [tab] *Centaurea pontica* Prodan & E. I. Nayardy
 - [tab] *Centaurea pseudoleucolepis* Kleop
-- [tab] *Centaurea* *pulvinata* (G. Blanca) G. Blanca
+- [tab] *Centaurea pulvinata* (G. Blanca) G. Blanca
 - [tab] *Centaurea tchihatcheffii* Fich. & Mey.
 - [tab] *Crepis crocifolia* Boiss. & Heldr.
-- [tab] *Crepis* *granatensis* (Willk.) G. Blanca & M. Cueto
+- [tab] *Crepis granatensis* (Willk.) G. Blanca & M. Cueto
 - [tab] *Crepis purpurea* Willd. Bieb.
 - [tab] *Dendranthema zawadskyi* (Herb.) Tzvel.
 - [tab] *Erigeron frigidus* Boiss. ex DC.
-- [tab] *Helichrysum* *melitense* (Pignatti) Brulo, Lanfranco, Pavone et Ronsisvalle
+- [tab] *Helichrysum melitense* (Pignatti) Brulo, Lanfranco, Pavone et Ronsisvalle
 - [tab] *Helichrysum sibthorpii* Rouy
 - [tab] *Hymenostemma pseudanthemis* (Kunze) Willd.
 - [tab] *Hyoseris frutescens* Brullo et Pavone
@@ -647,11 +645,11 @@ Annexe I*[^t-3]*
 - [tab] *Lamyropsis microcephala* (Moris) Dittrich & Greuter
 - [tab] *Leontodon boryi* Boiss. ex DC.
 - [tab] *Leontodon microcephalus* (Boiss. ex DC.) Boiss.
-- [tab] *Leontodon* *siculus* (Guss.) Finch & Sell
+- [tab] *Leontodon siculus* (Guss.) Finch & Sell
 - [tab] *Ligularia sibirica* (L.) Cass.
 - [tab] *Palaeocyanus crassifolius* (Bertoloni) Dostál
 - [tab] *Picris willkommii* (Schultz Bip.) Nyman
-- [tab] *Santolina* *elegans* Boiss. ex DC.
+- [tab] *Santolina elegans* Boiss. ex DC.
 - [tab] *Senecio elodes* Boiss. ex DC.
 - [tab] *Senecio nevadensis* Boiss. & Reuter
 - [tab] *Serratula tanaitica* P. Smirn.
@@ -669,7 +667,7 @@ Annexe I*[^t-3]*
 - [tab] *Alyssum borzaeanum* E. I. Nayardy
 - [tab] *Alyssum pyrenaicum* Lapeyr. (*Ptilotrichum pyrenaicum* [Lapeyr.] Boiss.)
 - [tab] *Arabis kennedyae* Meikle
-- [tab] *Armoracia* *macrocarpa* (Waldst. & Kit.) Kit. ex Baumg.
+- [tab] *Armoracia macrocarpa* (Waldst. & Kit.) Kit. ex Baumg.
 - [tab] *Aurinia uechtritziana* (Bornm.) Cullen et T. R. Dudley
 - [tab] *Biscutella neustriaca* Bonnet
 - [tab] *Boleum asperum* (Pers.) Desvaux
@@ -678,11 +676,11 @@ Annexe I*[^t-3]*
 - [tab] *Brassica insularis* Moris
 - [tab] *Brassica macrocarpa* Guss.
 - [tab] *Brassica sylvestris* (I.) Mill. subsp. *taurica* Tzvel.
-- [tab] *Braya* *purpurasceus* (R. Br.) Bunge
+- [tab] *Braya purpurasceus* (R. Br.) Bunge
 - [tab] *Cochlearia polonica* Frohlich
 - [tab] *Coincya rupestris* Rouy (*Hutera rupestris* P. Porta)
 - [tab] *Coronopus navasii Pau*
-- [tab] *Crambe* *koktebelica* (Junge) N. Busch.
+- [tab] *Crambe koktebelica* (Junge) N. Busch.
 - [tab] *Crambe litwinonowii* K. Gross.
 - [tab] *Diplotaxis ibicensis* (Pau) Gomez-Campo
 - [tab] *Diplotaxis siettiana* Maire
@@ -695,7 +693,7 @@ Annexe I*[^t-3]*
 - [tab] *Lepidium turczaninowii* Lipsky.
 - [tab] *Murbeckiella sousae* Rothm.
 - [tab] *Schivereckia podolica* (Besser) Andrz.
-- [tab] *Sisymbrium* *cavanillesianum* Valdes & Castroviejo (*S. matritense* P. W. Ball & Heywood)
+- [tab] *Sisymbrium cavanillesianum* Valdes & Castroviejo (*S. matritense* P. W. Ball & Heywood)
 - [tab] *Sisymbrium confertum* Stev.
 - [tab] *Sisymbrium supinum* L.
 - [tab] *Thlaspi cariense* A. Carlström
@@ -731,14 +729,14 @@ Annexe I*[^t-3]*
 
 - [tab] *Centaurium rigualii* Esteve Chueca
 - [tab] *Centaurium somedanum* Lainz
-- [tab] *Gentiana* *liguistica* R. de Vilm. Chopinet
-- [tab] *Gentianella* *anglica* (Pugsley) E. F. Warburg
+- [tab] *Gentiana liguistica* R. de Vilm. Chopinet
+- [tab] *Gentianella anglica* (Pugsley) E. F. Warburg
 
 ### Geraniaceae
 
 - [tab] *Erodium astragaloides* Boiss. & Reuter
 - [tab] *Erodium chrysanthum* L’Herit. ex DC.
-- [tab] *Erodium* *paularense* Fernandez-Gonzalez & Izco
+- [tab] *Erodium paularense* Fernandez-Gonzalez & Izco
 - [tab] *Erodium rupicola* Boiss.
 
 ### Gesneriaceae
@@ -758,12 +756,12 @@ Annexe I*[^t-3]*
 - [tab] *Coleanthus subtilis* (Tratt.) Seidl
 - [tab] *Eremopoa mardinensis* R. Mill
 - [tab] *Gaudinia hispanica* Stace & Tutin
-- [tab] *Micropyropsis* *tuberosa* Romero-Zarco Cabezudo
+- [tab] *Micropyropsis tuberosa* Romero-Zarco Cabezudo
 - [tab] *Poa granitica* Br.-Bl.
-- [tab] *Poa* *riphaea* (Ascherson et Graebner) Fritsch
+- [tab] *Poa riphaea* (Ascherson et Graebner) Fritsch
 - [tab] *Puccinellia pungens* (Pau) Paunero
 - [tab] *Stipa austroitalica* Martinovsky
-- [tab] *Stipa* *bavarica* Martinovsky & H. Scholz
+- [tab] *Stipa bavarica* Martinovsky & H. Scholz
 - [tab] *Stipa danubialis* Dihoru & Roman
 - [tab] *Stipa styriaca* Martinovsky
 - [tab] *Stipa syreistschikowii* P. Smirn.
@@ -775,12 +773,12 @@ Annexe I*[^t-3]*
 
 ### Hypericaceae
 
-- [tab] *Hypericum* *aciferum* (Greuter) N. K. B. Robson
-- [tab] *Hypericum* *salsugineum* Robson & Hub.-Mor.
+- [tab] *Hypericum aciferum* (Greuter) N. K. B. Robson
+- [tab] *Hypericum salsugineum* Robson & Hub.-Mor.
 
 ### Iridaceae
 
-- [tab] *Crocus* *abantensis* T. Baytop & Mathew
+- [tab] *Crocus abantensis* T. Baytop & Mathew
 - [tab] *Crocus cyprius* Boiss. & Kotschy
 - [tab] *Crocus etruscus* Parl.
 - [tab] *Crocus hartmannianus* Holmboe
@@ -792,10 +790,10 @@ Annexe I*[^t-3]*
 
 - [tab] *Dracocephalum austriacum* L.
 - [tab] *Dracocephalum ruyschiana* L.
-- [tab] *Micromeria* *taygetea* P. H. Davis
+- [tab] *Micromeria taygetea* P. H. Davis
 - [tab] *Nepeta dirphya* (Boiss.) Heldr. ex Halacsy
-- [tab] *Nepeta* *sphaciotica* P. H. Davis
-- [tab] *Origanum* *cordifolium* (Auch. & Montbr.) Vogel (*Amaracus cordifolium* Montr. & Auch.)
+- [tab] *Nepeta sphaciotica* P. H. Davis
+- [tab] *Origanum cordifolium* (Auch. & Montbr.) Vogel (*Amaracus cordifolium* Montr. & Auch.)
 - [tab] *Origanum dictamnus* L.
 - [tab] *Origanum scabrum* Boiss. & Heldr.
 - [tab] *Phlomis brevibracteata* Turrill
@@ -803,13 +801,13 @@ Annexe I*[^t-3]*
 - [tab] *Rosmarinus tomentosus* Hub.-Mor. & Maire
 - [tab] *Salvia crassifolia* Sibth. & Smith
 - [tab] *Sideritis cypria* Post
-- [tab] *Sideritis* *incana* L. subsp. *glauca* (Cav.) Malagarriga
+- [tab] *Sideritis incana* L. subsp. *glauca* (Cav.) Malagarriga
 - [tab] *Sideritis javalambrensis* Pau
-- [tab] *Sideritis* *serrata* Cav. ex Lag.
+- [tab] *Sideritis serrata* Cav. ex Lag.
 - [tab] *Teucrium charidemi* Sandwith
 - [tab] *Teucrium lamiifolium* D’Urv.
 - [tab] *Teucrium lepicephalum* Pau
-- [tab] *Teucrium* *turredanum* Losa & Rivas Goday
+- [tab] *Teucrium turredanum* Losa & Rivas Goday
 - [tab] *Thymus aznavourii* Velen.
 - [tab] *Thymus camphoratus* Hoffmanns. & Link
 - [tab] *Thymus carnosus* Boiss.
@@ -837,18 +835,18 @@ Annexe I*[^t-3]*
 - [tab] *Genista holopetala* (Fleischm. ex Koch) Baldacci
 - [tab] *Genista tetragona* Bess.
 - [tab] *Glycyrrhiza iconica* Hub.-Mor.
-- [tab] *Hedysarum* *razoumovianum* Fisch. et Helm.
+- [tab] *Hedysarum razoumovianum* Fisch. et Helm.
 - [tab] *Ononis maweana* Ball
 - [tab] *Oxytropis deflexa* (Pallas) DC. subsp. *norvegica* Nordh.
 - [tab] *Sphaerophysa kotschyana* Boiss.
-- [tab] *Thermopsis* *turcica* Kit Tan, Vural & Küçüködü
+- [tab] *Thermopsis turcica* Kit Tan, Vural & Küçüködü
 - [tab] *Trifolium banaticum* (Heuffel) Majovsky
 - [tab] *Trifolium pachycalyx* Zoh.
 - [tab] *Trifolium saxatile* All.
 - [tab] *Trigonella arenicola* Hub.-Mor.
 - [tab] *Trigonella halophila* Boiss.
 - [tab] *Trigonella polycarpa* Boiss. & Heldr.
-- [tab] *Vicia* *bifoliolata* J. D. Rodriguez
+- [tab] *Vicia bifoliolata* J. D. Rodriguez
 
 ### Lentibulariaceae
 
@@ -860,10 +858,10 @@ Annexe I*[^t-3]*
 - [tab] *Allium grosii* Font Quer
 - [tab] *Allium regelianum* A. Beck.
 - [tab] *Allium vuralii* Kit Tan
-- [tab] *Androcymbium* *europaeum* (Lange) K. Richter
+- [tab] *Androcymbium europaeum* (Lange) K. Richter
 - [tab] *Androcymbium rechingeri* Greuter
 - [tab] *Asparagus lycaonicus* Davis
-- [tab] *Asphodelus* *bento-rainhae* Pinto da Silva
+- [tab] *Asphodelus bento-rainhae* Pinto da Silva
 - [tab] *Chionodoxa lochiae* Meikle
 - [tab] *Chionodoxa luciliae* Boiss.
 - [tab] *Colchicum arenarium* Waldst. & Kit.
@@ -874,10 +872,10 @@ Annexe I*[^t-3]*
 - [tab] *Colchicum micranthum* Boiss.
 - [tab] *Fritillaria conica* Boiss.
 - [tab] *Fritillaria drenovskii* Degen & Stoy.
-- [tab] *Fritillaria* *epirotica* Turrill ex Rix
-- [tab] *Fritillaria* *euboeica* (Rix Doerfler) Rix
+- [tab] *Fritillaria epirotica* Turrill ex Rix
+- [tab] *Fritillaria euboeica* (Rix Doerfler) Rix
 - [tab] *Fritillaria graeca* Boiss.
-- [tab] *Fritillaria* *gussichiae* (Degen & Doerfler) Rix
+- [tab] *Fritillaria gussichiae* (Degen & Doerfler) Rix
 - [tab] *Fritillaria montana* Hoppe.
 - [tab] *Fritillaria obliqua* Ker-Gawl.
 - [tab] *Fritillaria rhodocanakis* Orph. ex Baker
@@ -910,7 +908,7 @@ Annexe I*[^t-3]*
 ### Najadaceae
 
 - [tab] *Caulinia tenuissima* (A. br. ex Magnus) Tzvel.
-- [tab] *Najas* *flexilis* (Willd.) Rostk. & W. L. Schmidt
+- [tab] *Najas flexilis* (Willd.) Rostk. & W. L. Schmidt
 - [tab] *Najas tenuissima* (A. Braun) Magnus
 
 ### Oleaceae
@@ -920,7 +918,7 @@ Annexe I*[^t-3]*
 ### Orchidaceae
 
 - [tab] *Cephalanthera cucullata* Boiss. & Heldr.
-- [tab] *Comperia* *comperiana* (Steven) Aschers. & Graebner
+- [tab] *Comperia comperiana* (Steven) Aschers. & Graebner
 - [tab] *Cypripedium calceolus* L.
 - [tab] *Dactylorhiza chuhensis* Renz & Taub.
 - [tab] *Himantoglossum caprinum* (Bieb.) C. Koch.
@@ -933,8 +931,8 @@ Annexe I*[^t-3]*
 - [tab] *Ophrys oestrifera* Bieb.
 - [tab] *Ophrys taurica* (Aggeenko) Nevski
 - [tab] *Orchis provincialis* Balb.
-- [tab] *Orchis* *punctulata* Stev. ex Lindl.
-- [tab] *Platanthera* *obtusata* (Pursh) Lindl. subsp. *oligantha* (Turcz.) Hulten
+- [tab] *Orchis punctulata* Stev. ex Lindl.
+- [tab] *Platanthera obtusata* (Pursh) Lindl. subsp. *oligantha* (Turcz.) Hulten
 - [tab] *Spiranthes aestivalis* (Poiret) L. C. M. Richard
 - [tab] *Steveniella satyrioides* (Stev.) Schlechter.
 
@@ -942,7 +940,7 @@ Annexe I*[^t-3]*
 
 - [tab] *Paeonia cambessedesii* (Willk.) Willk.
 - [tab] *Paeonia clusii* F. C. Stern subsp. *rhodia* (Stearn) Tzanoudakis
-- [tab] *Paeonia* *officinalis* L. subsp. *banatica* (Rochel) Soo
+- [tab] *Paeonia officinalis* L. subsp. *banatica* (Rochel) Soo
 - [tab] *Paeonia parnassica* Tzanoudakis
 - [tab] *Paeonia tenuifolia* L.
 
@@ -960,7 +958,7 @@ Annexe I*[^t-3]*
 - [tab] *Armeria pseudarmeria* (Murray) Mansfeld
 - [tab] *Armeria rouyana* Daveau
 - [tab] *Armeria soleirolii* (Duby) Godron
-- [tab] *Armeria* *velutina* Welv. ex Boiss. & Reuter
+- [tab] *Armeria velutina* Welv. ex Boiss. & Reuter
 - [tab] *Limonium anatolicum* Hedge
 - [tab] *Limonium tamaricoides* Bokhari
 
@@ -1002,16 +1000,16 @@ Annexe I*[^t-3]*
 - [tab] *Aconitum corsicum* Gayer
 - [tab] *Aconitum flerovii* Steinb.
 - [tab] *Aconitum lasiocarpum* (Reichenb.) Gayer
-- [tab] *Adonis* *cyllenea* Boiss., Heldr. & Orph.
+- [tab] *Adonis cyllenea* Boiss., Heldr. & Orph.
 - [tab] *Adonis distorta* Ten.
 - [tab] *Anemone uralense* Nevski.
 - [tab] *Aquilegia bertolonii* Schott
 - [tab] *Aquilegia kitaibelii* Schott
 - [tab] *Aquilegia ottonis* subsp. *taygetea* (Orph.) Strid
 - [tab] *Aquilegia pyrenaica* DC. subsp. *cazorlensis* (Heywood) Galiano & Rivas Martinez (*Aquilegia cazorlensis* Heywood)
-- [tab] *Consolida* *samia* P. H. Davis
-- [tab] *Delphinium* *caseyi* B. L. Burtt
-- [tab] *Pulsatilla* *grandis* Wend. (*Pulsatilla halleri* [All.] Willd. subsp. *grandis* [Wend.] Meikle)
+- [tab] *Consolida samia* P. H. Davis
+- [tab] *Delphinium caseyi* B. L. Burtt
+- [tab] *Pulsatilla grandis* Wend. (*Pulsatilla halleri* [All.] Willd. subsp. *grandis* [Wend.] Meikle)
 - [tab] *Pulsatilla patens* (L.) Miller
 - [tab] *Pulsatilla slavica* G. Reuss
 - [tab] *Ranunculus fontanus* C. Presl
@@ -1027,14 +1025,14 @@ Annexe I*[^t-3]*
 - [tab] *Crataegus dikmensis* Pojark
 - [tab] *Geum bulgaricum* Panc.
 - [tab] *Potentilla delphinensis* Gren. & Godron
-- [tab] *Potentilla* *emilii-popii* E. I. Nayardy
+- [tab] *Potentilla emilii-popii* E. I. Nayardy
 - [tab] *Potentilla silesiaca* Uechtr.
 - [tab] *Pyrus anatolica* Browicz
 
 ### Rubiaceae
 
 - [tab] *Galium cracoviense* Ehrend.
-- [tab] *Galium* *globuliferum* Hub.-Mor. & Reese
+- [tab] *Galium globuliferum* Hub.-Mor. & Reese
 - [tab] *Galium litorale* Guss.
 - [tab] *Galium moldavicum* (Dobrescu) Franco
 - [tab] *Galium rhodopeum* Velen.
@@ -1046,8 +1044,8 @@ Annexe I*[^t-3]*
 
 ### Saxifragaceae
 
-- [tab] *Saxifraga* *berica* (Beguinot) D. A. Webb
-- [tab] *Saxifraga* *cintrana* Kuzinsky ex Willk.
+- [tab] *Saxifraga berica* (Beguinot) D. A. Webb
+- [tab] *Saxifraga cintrana* Kuzinsky ex Willk.
 - [tab] *Saxifraga florulenta* Moretti
 - [tab] *Saxifraga hirculus* L.
 - [tab] *Saxifraga presolanensis* Engl.
@@ -1064,25 +1062,25 @@ Annexe I*[^t-3]*
 - [tab] *Linaria flava* (Poiret) Desf.
 - [tab] *Linaria hellenica* Turril
 - [tab] *Linaria loeselii* Schweigger
-- [tab] *Linaria* *pseudolaxiflora* Lojacono
+- [tab] *Linaria pseudolaxiflora* Lojacono
 - [tab] *Linaria ricardoi* Cout.
-- [tab] *Linaria* *tursica* B. Valdes & Cabezudo
+- [tab] *Linaria tursica* B. Valdes & Cabezudo
 - [tab] *Lindernia procumbens* (Krocker) Philcox
 - [tab] *Odontites granatensis* Boiss.
 - [tab] *Pedicularis sudetica* Willd.
 - [tab] *Verbascum afyonense* Hub.-Mor.
 - [tab] *Verbascum basivelatum* Hub.-Mor.
-- [tab] *Verbascum* *cylleneum* (Boiss. & Heldr.) Kuntze
+- [tab] *Verbascum cylleneum* (Boiss. & Heldr.) Kuntze
 - [tab] *Verbascum degenii* Hal.
-- [tab] *Verbascum* *purpureum* (Janka) Hub.-Mor.
+- [tab] *Verbascum purpureum* (Janka) Hub.-Mor.
 - [tab] *Verbascum stepporum* Hub.-Mor.
 - [tab] *Veronica euxina* Turrill
-- [tab] *Veronica* *oetaea* L.-A. Gustavsson
-- [tab] *Veronica* *turrilliana* Stoj. et Stef.
+- [tab] *Veronica oetaea* L.-A. Gustavsson
+- [tab] *Veronica turrilliana* Stoj. et Stef.
 
 ### Selaginaceae
 
-- [tab] *Globularia* *stygia* Orph. ex Boiss.
+- [tab] *Globularia stygia* Orph. ex Boiss.
 
 ### Solanaceae
 
@@ -1152,7 +1150,7 @@ Annexe I*[^t-3]*
 
 ### Zosteracea
 
-- [tab] *Zostera* *marina* (Med.)
+- [tab] *Zostera marina* (Med.)
 
 ### Bryophyta
 
@@ -1190,7 +1188,7 @@ Annexe I*[^t-3]*
 
 ### Ricciaceae
 
-- [tab] *Riccia* *breidleri* Jur. ex Steph.
+- [tab] *Riccia breidleri* Jur. ex Steph.
 
 ### Riellaceae
 
@@ -1198,7 +1196,7 @@ Annexe I*[^t-3]*
 
 ### Scapaniaceae
 
-- [tab] *Scapania* *massalongi* (K. Muell.) K. Muell.
+- [tab] *Scapania massalongi* (K. Muell.) K. Muell.
 
 ### Bryopsida: Musci
 
@@ -1246,7 +1244,7 @@ Annexe I*[^t-3]*
 
 ### Splachnaceae
 
-- [tab] *Tayloria* *rudolphiana* (Garov.) B. S. G.
+- [tab] *Tayloria rudolphiana* (Garov.) B. S. G.
 
 ### Espèces endémiques de la région macaronésienne
 
@@ -1254,7 +1252,7 @@ Annexe I*[^t-3]*
 
 ### Aspleniaceae
 
-- [tab] *Asplenium* *azoricum* Lovis, Rasbach & Reichstein
+- [tab] *Asplenium azoricum* Lovis, Rasbach & Reichstein
 
 ### Dryopteridaceae
 
@@ -1290,7 +1288,7 @@ Annexe I*[^t-3]*
 
 ### Asclepiadaceae
 
-- [tab] *Caralluma* *burchardii* N. E. Brown
+- [tab] *Caralluma burchardii* N. E. Brown
 - [tab] *Ceropegia chrysantha* Svent.
 
 ### Berberidaceae
@@ -1301,14 +1299,14 @@ Annexe I*[^t-3]*
 
 - [tab] *Echium gentianoides* Webb ex Coincy
 - [tab] *Echium handiense* Svent.
-- [tab] *Echium* *pininana* Webb et Berth.
-- [tab] *Myosotis* *azorica* H. C. Watson
+- [tab] *Echium pininana* Webb et Berth.
+- [tab] *Myosotis azorica* H. C. Watson
 - [tab] *Myosotis maritima* Hochst. ex Seub.
 
 ### Campanulaceae
 
 - [tab] *Azorina vidalii* (H. C. Watson) Feer
-- [tab] *Musschia* *aurea* (L. f.) DC.
+- [tab] *Musschia aurea* (L. f.) DC.
 - [tab] *Musschia wollastonii* Lowe
 
 ### Caprifoliaceae
@@ -1330,7 +1328,7 @@ Annexe I*[^t-3]*
 
 - [tab] *Andryala crithmifolia* Ait.
 - [tab] *Argyranthemum lidii* Humphries
-- [tab] *Argyranthemum* *pinnatifidum* (L. F.) Lowe subsp. *succulentum* (Lowe) Humphries
+- [tab] *Argyranthemum pinnatifidum* (L. F.) Lowe subsp. *succulentum* (Lowe) Humphries
 - [tab] *Argyranthemum winterii* (Svent.) Humphries
 - [tab] *Atractylis arbuscula* Svent. & Michaelis
 - [tab] *Atractylis preauxiana* Schultz Bip.
@@ -1344,15 +1342,15 @@ Annexe I*[^t-3]*
 - [tab] *Cheirolophus santosabreui* Santos
 - [tab] *Cheirolophus satarataensis* (Svent.) Holub
 - [tab] *Cheirolophus tagananensis* (Svent.) Holub
-- [tab] *Helichrysum* *monogynum* B. L. Burth. & Sunding
+- [tab] *Helichrysum monogynum* B. L. Burth. & Sunding
 - [tab] *Helichrysum gossypinum* Webb
-- [tab] *Hypochoeris* *oligocephala* (Svent. & D. Bramwell) Lack
+- [tab] *Hypochoeris oligocephala* (Svent. & D. Bramwell) Lack
 - [tab] *Lactuca watsoniana* Trelease
 - [tab] *Leotodon filii* (Hochst. ex Seub.) Paiva & Orm.
 - [tab] *Onopordum carduelinum* Bolle
 - [tab] *Onopordum nogalesii* Svent.
 - [tab] *Pericallis hadrosomus* Svent.
-- [tab] *Pericallis* *malvifolia* (L’Hér) B. Nord.
+- [tab] *Pericallis malvifolia* (L’Hér) B. Nord.
 - [tab] *Phagnalon benetii* Lowe
 - [tab] *Senecio hermosae* Pitard
 - [tab] *Sonchus gandogeri* Pitard
@@ -1371,7 +1369,7 @@ Annexe I*[^t-3]*
 
 ### Crassulaceae
 
-- [tab] *Aeonium* *balsamiferum* Webb et Berth.
+- [tab] *Aeonium balsamiferum* Webb et Berth.
 - [tab] *Aeonium gomeraense* Praeger
 - [tab] *Aeonium saundersii* Bolle
 - [tab] *Aichrysum dumosum* (Lowe) Praeg.
@@ -1382,7 +1380,7 @@ Annexe I*[^t-3]*
 - [tab] *Crambe arborea* Webb ex Christ
 - [tab] *Crambe laevigata* DC. ex Christ
 - [tab] *Crambe scoparia* Svent.
-- [tab] *Crambe* *sventenii* B. Petters. ex. Bramw. & Sunding
+- [tab] *Crambe sventenii* B. Petters. ex. Bramw. & Sunding
 - [tab] *Parolinia schizogynoides* Svent.
 - [tab] *Sinapidendron sempervivifolium* Mnzs.
 
@@ -1397,14 +1395,14 @@ Annexe I*[^t-3]*
 ### Ericaceae
 
 - [tab] *Daboecia azorica* Tutin & Warb.
-- [tab] *Erica* *scoparia* L. subsp. *azorica* (Hochst.) D. A. Webb
+- [tab] *Erica scoparia* L. subsp. *azorica* (Hochst.) D. A. Webb
 
 ### Euphorbiaceae
 
 - [tab] *Euphorbia bourgaeana* Gay ex Boiss.
 - [tab] *Euphorbia handiensis* Burchard
 - [tab] *Euphorbia lambii* Svent.
-- [tab] *Euphorbia* *stygiana* H. C. Watson
+- [tab] *Euphorbia stygiana* H. C. Watson
 
 ### Geraniaceae
 
@@ -1419,7 +1417,7 @@ Annexe I*[^t-3]*
 ### Labiatae
 
 - [tab] *Micromeria glomerata* P. Pérez
-- [tab] *Micromeria* *leucantha* Svent. ex Pérez
+- [tab] *Micromeria leucantha* Svent. ex Pérez
 - [tab] *Salvia herbanica* Santos et Fernández
 - [tab] *Sideritis cystosiphon* Svent.
 - [tab] *Sideritis discolor* (Webb ex de Noe) Bolle
@@ -1434,8 +1432,8 @@ Annexe I*[^t-3]*
 - [tab] *Anagyris latifolia* Brouss. ex Willd.
 - [tab] *Cicer canariensis* Santos & Gweil
 - [tab] *Dorycnium spectabile* Webb & Berthel.
-- [tab] *Genista* *benehoavensis* (Bolle ex Svent.) Del Arco
-- [tab] *Lotus* *azoricus* P. W. Ball
+- [tab] *Genista benehoavensis* (Bolle ex Svent.) Del Arco
+- [tab] *Lotus azoricus* P. W. Ball
 - [tab] *Lotus callis-viridis* D. Bramwell & D. H. Davis
 - [tab] *Lotus eremiticus* Santos
 - [tab] *Lotus kunkelii* (E. Chueca) D. Bramwell et al.
@@ -1444,12 +1442,12 @@ Annexe I*[^t-3]*
 - [tab] *Teline nervosa* (Esteve) A. Hansen et Sund.
 - [tab] *Teline rosmarinifolia* Webb & Berthel.
 - [tab] *Teline salsoloides* Arco & Acebes.
-- [tab] *Vicia* *dennesiana* H. C. Watson
+- [tab] *Vicia dennesiana* H. C. Watson
 
 ### Liliaceae
 
 - [tab] *Androcymbium psammophilum* Svent.
-- [tab] *Smilax* *divaricata* Sol. ex Wats.
+- [tab] *Smilax divaricata* Sol. ex Wats.
 
 ### Myricaceae
 
@@ -1479,11 +1477,11 @@ Annexe I*[^t-3]*
 
 - [tab] *Limonium arborescens* (Brouss.) Kuntze
 - [tab] *Limonium dendroides* Svent.
-- [tab] *Limonium* *fruticans* (Webb) O. Kuntze
+- [tab] *Limonium fruticans* (Webb) O. Kuntze
 - [tab] *Limonium perezii* (Stapf) Hubb
 - [tab] *Limonium preauxii* (Webb et Berth.) O. Kuntze
 - [tab] *Limonium spectabile* (Svent.) Kunkel & Sunding
-- [tab] *Limonium* *sventenii* Santos & Fernandez Galvan
+- [tab] *Limonium sventenii* Santos & Fernandez Galvan
 
 ### Polygonaceae
 
@@ -1501,7 +1499,7 @@ Annexe I*[^t-3]*
 - [tab] *Chamaemeles coriacea* Lindl.
 - [tab] *Dendriopoterium pulidoi* Svent.
 - [tab] *Marcetella maderensis* (Bornm.) Svent.
-- [tab] *Prunus* *lusitanica* subsp. *azorica* (Moui.). Franco
+- [tab] *Prunus lusitanica* subsp. *azorica* (Moui.). Franco
 
 ### Rutaceae
 
@@ -1526,11 +1524,11 @@ Annexe I*[^t-3]*
 - [tab] *Euphrasia azorica* H. C. Watson
 - [tab] *Euphrasia grandiflora* Hochst.
 - [tab] *Isoplexis chalcantha* Svent. & O’Shanahan
-- [tab] *Isoplexis* *isabelliana* (Webb & Berthel.) Masferrer
+- [tab] *Isoplexis isabelliana* (Webb & Berthel.) Masferrer
 
 ### Selaginaceae
 
-- [tab] *Globularia* *ascanii* D. Bramwell & Kunkel
+- [tab] *Globularia ascanii* D. Bramwell & Kunkel
 - [tab] *Globularia sarcophylla* Svent.
 
 ### Solanaceae
@@ -1545,7 +1543,7 @@ Annexe I*[^t-3]*
 - [tab] *Chaerophylum azoricum* Trel.
 - [tab] *Monizia edulis* Lowe
 - [tab] *Ferula latipinna* Santos
-- [tab] *Sanicula* *azorica* Gunthn. ex Seub.
+- [tab] *Sanicula azorica* Gunthn. ex Seub.
 
 ### Violaceae
 
@@ -1561,17 +1559,17 @@ Annexe I*[^t-3]*
 
 ### Pottiaceae
 
-- [tab] *Bryoerythrophyllum* *machadoanum* (Sergio) M. Hill
+- [tab] *Bryoerythrophyllum machadoanum* (Sergio) M. Hill
 
 ### Thamniaceae
 
 - [tab] *Thamnobryum fernandesii* Sergio
 
-Annexe II*[^t-4]*
+Annexe II[^t-4]
 
 ## Espèces de faune strictement protégées
 
-[^t-4]: Nouvelle teneur selon la mod. adoptée le 1<sup>er</sup> déc. 2001 ([RO 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Mise à jour selon la mod. adoptée le 8 déc. 2017, en vigueur depuis le 8 mars 2018 ([RO 2018 1749](https://fedlex.data.admin.ch/eli/oc/2018/256)).
+[^t-4]: Nouvelle teneur selon la mod. adoptée le 1<sup>er</sup> déc. 2001 ([RO 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Mise à jour par la mod. adoptée le 8 déc. 2017, en vigueur depuis le 8 mars 2018 ([RO 2018 1749](https://fedlex.data.admin.ch/eli/oc/2018/256)).
 
 ### Vertébrés
 
@@ -1584,7 +1582,7 @@ Annexe II*[^t-4]*
 - [tab] Erinaceidae
 - [tab] *Atelerix* *algirus* (Erinaceus algirus)\*<sup>)</sup>
 - [tab] Soricidae
-- [tab] *Crocidura* *suaveolens* *ariadne* (Crocidura ariadne)\*<sup>)</sup>
+- [tab] *Crocidura suaveolens ariadne* (Crocidura ariadne)\*<sup>)</sup>
 - [tab] *Crocidura* *russula* *cypria* (Crocidura cypria)\*<sup>)</sup>
 - [tab] *Crocidura* *canariensis*
 - [tab] Talpidae
@@ -2370,7 +2368,7 @@ Procellariidae
 - [tab] Myoida
 - [tab] *Pholas dactylus* (Méd.)
 
-### Echinodermes
+### Échinodermes
 
 ### Asteridae
 
@@ -2392,7 +2390,7 @@ Procellariidae
 - [tab] *Astroides calycularis* (Méd.)
 - [tab] *Gerardia savaglia* (Méd.)
 
-### Eponges
+### Éponges
 
 ### Porifera
 
@@ -2439,7 +2437,7 @@ Salamandra lanzai (Salamandra atra lanzai)
 
 <sup>6</sup> *Discus defloratus:* n’est plus reconnue comme un espèce valide du point de vue taxonomique étant donné qu’elle a été décrite à partir de quelques spécimens seulement; désormais reconnue comme appartenant à une espèce différente de *Discus.*
 
-Annexe III*[^t-5]*
+Annexe III[^t-5]
 
 ## Espèces de faune protégées
 
@@ -2596,7 +2594,7 @@ Annexe III*[^t-5]*
 - [tab] *Hucho hucho*
 - [tab] *Salmo salar*[^declu4-lvlu1-lvlu1-lvlu5-lvlu6-1]<sup>)</sup>
 
-[^declu4-lvlu1-lvlu1-lvlu5-lvlu6-1]: Les disp. pour cette annexe ne s'appliquent pas aux saumons dans les eaux marines.
+[^declu4-lvlu1-lvlu1-lvlu5-lvlu6-1]: Les disp. pour cette annexe ne s’appliquent pas aux saumons dans les eaux marines.
 
 ### Cypriniformes
 
@@ -2769,7 +2767,7 @@ Annexe III*[^t-5]*
 - [tab] Arhynchobdellae
 - [tab] *Hirudo medicinalis*
 
-### Echinodermes
+### Échinodermes
 
 ### Echinoidea
 
@@ -2785,7 +2783,7 @@ Annexe III*[^t-5]*
 
 - [tab] *Corallium rubrun* (Méd.)
 
-### Eponges
+### Éponges
 
 ### Porifera
 
@@ -2794,11 +2792,11 @@ Annexe III*[^t-5]*
 - [tab] *Spongia officinalis* (Méd.)
 - [tab] *Spongia zimocca* (Méd.)
 
-Annexe IV*[^t-6]*
+Annexe IV[^t-6]
 
 ## Moyens et méthodes de mise à mort, de capture et autres formes d’exploitation interdits
 
-[^t-6]: Mise à jour selon la mod. adoptée le 24 mars 1995 et en vigueur depuis le 25 juin 1995 ([RO 1996 727](https://fedlex.data.admin.ch/eli/oc/1996/727_727_727)).
+[^t-6]: Mise à jour par la mod. adoptée le 24 mars 1995 et en vigueur depuis le 25 juin 1995 ([RO 1996 727](https://fedlex.data.admin.ch/eli/oc/1996/727_727_727)).
 
 ### Mammifères
 
@@ -2886,11 +2884,11 @@ Poisons
 
 Anesthésiants
 
-Electricité au courant alternatif
+Électricité au courant alternatif
 
 Sources lumineuses artificielles
 
-### Ecrevisses *(Decapoda)*
+### Écrevisses *(Decapoda)*
 
 Explosifs
 

@@ -3,11 +3,11 @@ sr: "0.455"
 title: Convenzione del 19 settembre 1979 per la conservazione della vita selvatica e dei suoi biotopi in Europa (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/802_802_802"
 language: it
-version: 2018-03-08
+version: 2023-07-03
 adopted: 1979-09-19
 in_force: 1982-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20180308/it/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20180308-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20180308/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20230703/it/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20230703-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20230703/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1982** 802; FF **1980** III 198
 
 Traduzione
 
-Conchiusa a Berna il 19 settembre 1979
+Conchiusa a Berna il 19 settembre 1979 Approvata dall’Assemblea federale l’11 dicembre 1980[^t-1] Istrumenti di ratificazione depositati dalla Svizzera il 12 marzo 1981 Entrata in vigore per la Svizzera il 1° giugno 1982
 
-Approvata dall’Assemblea federale l’11 dicembre 1980[^t-1]
-
-Istrumenti di ratificazione depositati dalla Svizzera il 12 marzo 1981
-
-Entrata in vigore per la Svizzera il 1° giugno 1982
-
-(Stato 8 marzo 2018)
+(Stato 3 luglio 2023)
 
 [^t-1]: Art. 1 cpv. 1 del DF dell’11 dic. 1980 ([RU 1982 801](https://fedlex.data.admin.ch/eli/oc/1982/801_801_801)).
 
@@ -310,6 +304,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 - d. qualsiasi informazione comunicata in virtù delle disposizioni del paragrafo 3 dell’articolo 13;
 - e. qualsiasi rapporto allestito in applicazione delle disposizioni dell’articolo 15;
 - f. qualsiasi emendamento o nuovo allegato accettato conformemente agli articoli 16 e 17 e la data in cui questo emendamento o questo nuovo allegato entra in vigore;
+
 - g. ogni dichiarazione fatta in virtù delle disposizioni dei paragrafi 2 e 3 dell’articolo 21;
 - h. ogni riserva formulata in virtù delle disposizioni dei paragrafi 1 e 2 dell’articolo 22;
 - i. il ritiro di qualsiasi riserva effettuata in virtù delle disposizioni del paragrafo 4 dell’articolo 22;
@@ -317,7 +312,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a Berna, il 19 settembre 1979, nelle lingue francese e inglese, i due testi facenti parimente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne comunicherà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa, ad ogni Stato e alla Comunità economica europea firmatari, nonché a qualsiasi Stato invitato a firmare la presente Convenzione o ad aderirvi. (Seguono le firme)
 
-Campo d’applicazione il 22 gennaio 2016**[^t-2]**
+Campo d’applicazione il 3 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -348,7 +343,7 @@ Campo d’applicazione il 22 gennaio 2016**[^t-2]**
 <tr><td>Liechtenstein</td><td>30 ottobre</td><td>1980</td><td>1° giugno</td><td>1982</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>5 settembre</td><td>1996</td><td>1° gennaio</td><td>1997</td></tr>
 <tr><td>Lussemburgo</td><td>23 marzo</td><td>1982</td><td>1° luglio</td><td>1982</td></tr>
-<tr><td>Macedonia<sup>\*</sup></td><td>17 dicembre</td><td>1998</td><td>1° aprile</td><td>1999</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td>17 dicembre</td><td>1998</td><td>1° aprile</td><td>1999</td></tr>
 <tr><td>Malta <sup>\* \*\*</sup></td><td>26 novembre</td><td>1993</td><td>1° marzo</td><td>1994</td></tr>
 <tr><td>Marocco</td><td>25 aprile</td><td>2001 A</td><td>1° agosto</td><td>2001</td></tr>
 <tr><td>Moldova</td><td>24 maggio</td><td>1994 A</td><td>1° settembre</td><td>1994</td></tr>
@@ -360,6 +355,7 @@ Campo d’applicazione il 22 gennaio 2016**[^t-2]**
 <tr><td>Portogallo</td><td>3 febbraio</td><td>1982</td><td>1° giugno</td><td>1982</td></tr>
 <tr><td>Regno Unito<sup>\*</sup> <sup>\*\*</sup></td><td>28 maggio</td><td>1982</td><td>1° settembre</td><td>1982</td></tr>
 <tr><td>Akrotiri e Dhekelia</td><td>24 ottobre</td><td>2001</td><td>24 ottobre</td><td>2001</td></tr>
+<tr><td>Gibilterra</td><td>18 dicembre</td><td>2020</td><td>18 dicembre</td><td>2020</td></tr>
 <tr><td>Isola di Man</td><td>24 agosto</td><td>1992</td><td>24 agosto</td><td>1992</td></tr>
 <tr><td>Jersey</td><td>25 ottobre</td><td>2002</td><td>25 ottobre</td><td>2002</td></tr>
 <tr><td>Romania</td><td>18 maggio</td><td>1993 A</td><td>1° settembre</td><td>1993</td></tr>
@@ -375,12 +371,12 @@ Campo d’applicazione il 22 gennaio 2016**[^t-2]**
 <tr><td>Ucraina<sup>\*</sup></td><td>5 gennaio</td><td>1999</td><td>1° maggio</td><td>1999</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>16 novembre</td><td>1989 A</td><td>1° marzo</td><td>1990</td></tr>
 <tr><td>Unione europea</td><td>7 maggio</td><td>1982</td><td>1° settembre</td><td>1982</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1982 802](https://fedlex.data.admin.ch/eli/oc/1982/802_802_802)[2077](https://fedlex.data.admin.ch/eli/oc/1982/2077_2077_2077), [1984 231](https://fedlex.data.admin.ch/eli/oc/1984/231_231_231), [1985 371](https://fedlex.data.admin.ch/eli/oc/1985/371_371_371), [1986 522](https://fedlex.data.admin.ch/eli/oc/1986/522_522_522), [1987 1028](https://fedlex.data.admin.ch/eli/oc/1987/1028_1028_1028), [1989 181](https://fedlex.data.admin.ch/eli/oc/1989/181_181_181), [1990 1301](https://fedlex.data.admin.ch/eli/oc/1990/1301_1301_1301), [1991 1029](https://fedlex.data.admin.ch/eli/oc/1991/1029_1029_1029)[1895](https://fedlex.data.admin.ch/eli/oc/1991/1895_1895_1895), [1992 1390](https://fedlex.data.admin.ch/eli/oc/1992/1390_1390_1390), **1994** 1742, [1996 727](https://fedlex.data.admin.ch/eli/oc/1996/727_727_727)[2560](https://fedlex.data.admin.ch/eli/oc/1996/2560_2560_2560), [2004 4999](https://fedlex.data.admin.ch/eli/oc/2004/759), [2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439), [2010 3253](https://fedlex.data.admin.ch/eli/oc/2010/437)e [2016 421](https://fedlex.data.admin.ch/eli/oc/2016/67). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1982 802](https://fedlex.data.admin.ch/eli/oc/1982/802_802_802)[2077](https://fedlex.data.admin.ch/eli/oc/1982/2077_2077_2077); [1984 231](https://fedlex.data.admin.ch/eli/oc/1984/231_231_231); [1985 371](https://fedlex.data.admin.ch/eli/oc/1985/371_371_371); [1986 522](https://fedlex.data.admin.ch/eli/oc/1986/522_522_522); [1987 1028](https://fedlex.data.admin.ch/eli/oc/1987/1028_1028_1028); [1989 181](https://fedlex.data.admin.ch/eli/oc/1989/181_181_181); [1990 1301](https://fedlex.data.admin.ch/eli/oc/1990/1301_1301_1301); [1991 1029](https://fedlex.data.admin.ch/eli/oc/1991/1029_1029_1029), [1895](https://fedlex.data.admin.ch/eli/oc/1991/1895_1895_1895); [1992 1390](https://fedlex.data.admin.ch/eli/oc/1992/1390_1390_1390); [1994 1722](https://fedlex.data.admin.ch/eli/oc/1994/1722_1722_1722); [1996 727](https://fedlex.data.admin.ch/eli/oc/1996/727_727_727), [2560](https://fedlex.data.admin.ch/eli/oc/1996/2560_2560_2560); [2004 4999](https://fedlex.data.admin.ch/eli/oc/2004/759); **2008** 3527; [2010 3253](https://fedlex.data.admin.ch/eli/oc/2010/437); [2016 421](https://fedlex.data.admin.ch/eli/oc/2016/67); [2023 359](https://fedlex.data.admin.ch/eli/oc/2023/359). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
 
-Allegato I*[^t-3]*
+Allegato I[^t-3]
 
 ## Specie di flora assolutamente protette
 
@@ -392,24 +388,24 @@ Allegato I*[^t-3]*
 
 ### Chlorophyta
 
-- [tab] *Caulerpa* *ollivieri* (Med.)
+- [tab] *Caulerpa ollivieri* (Med.)
 
 ### Fucophycea
 
-- [tab] *Cystoseira* *amentacea* (inclus var. *stricta* et var. *spicata*) (Med.)
-- [tab] *Cystoseira* *mediterranea* (Med.)
-- [tab] *Cystoseira* *sedoides* (Med.)
-- [tab] *Cystoseira* *spinosa* (inclus C. *adriatica*) (Med.)
-- [tab] *Cystoseira* *zosteroides* (Med.)
-- [tab] *Laminaria* *rodriguezii* (Med.)
-- [tab] *Laminaria* *ochroleuca* (Med.)
+- [tab] *Cystoseira amentacea* (inclus var. *stricta* et var. *spicata*) (Med.)
+- [tab] *Cystoseira mediterranea* (Med.)
+- [tab] *Cystoseira sedoides* (Med.)
+- [tab] *Cystoseira spinosa* (inclus C. *adriatica*) (Med.)
+- [tab] *Cystoseira zosteroides* (Med.)
+- [tab] *Laminaria rodriguezii* (Med.)
+- [tab] *Laminaria ochroleuca* (Med.)
 
 ### Rhodophyta
 
-- [tab] *Goniolithon* *byssoides* (Med.)
-- [tab] *Lithophyllum* *lichenoides* (Med.)
-- [tab] *Ptilophora* *mediterranea* (Med.)
-- [tab] *Schimmelmannia* *schousboei = S. ornata* (Med.)
+- [tab] *Goniolithon byssoides* (Med.)
+- [tab] *Lithophyllum lichenoides* (Med.)
+- [tab] *Ptilophora mediterranea* (Med.)
+- [tab] *Schimmelmannia schousboei = S. ornata* (Med.)
 
 ### Pteridophyta
 
@@ -450,123 +446,123 @@ Allegato I*[^t-3]*
 
 - [tab] *Botrychium matricariifolium* A. Braun ex Koch
 - [tab] *Botrychium multifidum* (S. G. Gmelin) Rupr.
-- [tab] *Botrychium* *simplex* Hitchc.
-- [tab] *Ophioglossum* *polyphyllum* A. Braun
+- [tab] *Botrychium simplex* Hitchc.
+- [tab] *Ophioglossum polyphyllum* A. Braun
 
 ### Salviniaceae
 
-- [tab] *Salvinia* *natans* (L.) All.
+- [tab] *Salvinia natans* (L.) All.
 
 ### Gymnospermae
 
 ### Cupressaceae
 
-- [tab] *Tetraclinis* *articulata* (Vahl) Masters
+- [tab] *Tetraclinis articulata* (Vahl) Masters
 
 ### Pinaceae
 
-- [tab] *Abies* *nebrodensis* (Lojac.) Mattei
+- [tab] *Abies nebrodensis* (Lojac.) Mattei
 
 ### Angiospermae
 
 ### Alismataceae
 
-- [tab] *Alisma* *wahlenbergii* (O. R. Holmb.) Juz.
-- [tab] *Caldesia* *parnassifolia* (L.) Parl.
-- [tab] *Luronium* *natans* (L.) Raf.
+- [tab] *Alisma wahlenbergii* (O. R. Holmb.) Juz.
+- [tab] *Caldesia parnassifolia* (L.) Parl.
+- [tab] *Luronium natans* (L.) Raf.
 
 ### Amaryllidaceae
 
-- [tab] *Leucojum* *nicaeense* Ard.
-- [tab] *Narcissus* *angustifolius* Curt.
-- [tab] *Narcissus* *longispathus* Pugsley
-- [tab] *Narcissus* *nevadensis* Pugsley
-- [tab] *Narcissus* *scaberulus* Henriq.
-- [tab] *Narcissus* *triandrus* L.
-- [tab] *Narcissus* *viridiflorus* Schousboe
-- [tab] *Sternbergia* *candida* B. Mathew & Baytop
+- [tab] *Leucojum nicaeense* Ard.
+- [tab] *Narcissus angustifolius* Curt.
+- [tab] *Narcissus longispathus* Pugsley
+- [tab] *Narcissus nevadensis* Pugsley
+- [tab] *Narcissus scaberulus* Henriq.
+- [tab] *Narcissus triandrus* L.
+- [tab] *Narcissus viridiflorus* Schousboe
+- [tab] *Sternbergia candida* B. Mathew & Baytop
 
 ### Apocynaceae
 
-- [tab] *Rhazya* *orientalis* (Decaisne) A. DC.
+- [tab] *Rhazya orientalis* (Decaisne) A. DC.
 
 ### Araceae
 
-- [tab] *Arum* *purpureospathum* Boyce
+- [tab] *Arum purpureospathum* Boyce
 
 ### Aristolochiaceae
 
-- [tab] *Aristolochia* *samsunensis* Davis
+- [tab] *Aristolochia samsunensis* Davis
 
 ### Asclepiadaceae
 
-- [tab] *Vincetoxicum* *pannonicum* (Borhidi) Holub
+- [tab] *Vincetoxicum pannonicum* (Borhidi) Holub
 
 ### Boraginaceae
 
-- [tab] *Alkanna* *pinardii* Boiss.
-- [tab] *Anchusa* *crispa* Viv. (inclu. A. litoreae Moris)
-- [tab] *Lithodora* *nitida* (H. Ern) R. Fernandes
-- [tab] *Myosotis* *praecox* Hulphers
-- [tab] *Myosotis* *rehsteineri* Wartm.
-- [tab] *Omphalodes* *kuzinskyana* Willk.
-- [tab] *Omphalodes* *littoralis* Lehm.
-- [tab] *Onosma* *halophilum* Boiss. & Heldr.
-- [tab] *Onosma* *polyphylla* Lebed.
-- [tab] *Onosma* *proponticum* Aznav.
-- [tab] *Onosma* *tornensis* Javorka
-- [tab] *Onosma* *troodi* Kotschy
+- [tab] *Alkanna pinardii* Boiss.
+- [tab] *Anchusa crispa* Viv. (inclu. A. litoreae Moris)
+- [tab] *Lithodora nitida* (H. Ern) R. Fernandes
+- [tab] *Myosotis praecox* Hulphers
+- [tab] *Myosotis rehsteineri* Wartm.
+- [tab] *Omphalodes kuzinskyana* Willk.
+- [tab] *Omphalodes littoralis* Lehm.
+- [tab] *Onosma halophilum* Boiss. & Heldr.
+- [tab] *Onosma polyphylla* Lebed.
+- [tab] *Onosma proponticum* Aznav.
+- [tab] *Onosma tornensis* Javorka
+- [tab] *Onosma troodi* Kotschy
 - [tab] *Solenanthus* *albanicus* (Degen et al.) Degen & Baldacci
-- [tab] *Symphytum* *cycladense* Pawl.
+- [tab] *Symphytum cycladense* Pawl.
 
 ### Campanulaceae
 
-- [tab] *Asyneuma* *giganteum* (Boiss.) Bornm.
-- [tab] *Campanula* *abietina* Griseb. et Schenk.
-- [tab] *Campanula* *damboldtiana* Davis
-- [tab] *Campanula* *gelida* Kovanda
-- [tab] *Campanula* *lanata* Friv.
-- [tab] *Campanula* *lycica* Sorger & Kit Tan
-- [tab] *Campanula* *morettiana* Reichenb.
-- [tab] *Campanula* *romanica* Savul.
-- [tab] *Campanula* *sabatia* De Not.
-- [tab] *Jasione* *lusitanica* A. DC.
-- [tab] *Physoplexis* *comosa* (L.) Schur
-- [tab] *Trachelium* *asperuloides* Boiss. & Orph.
+- [tab] *Asyneuma giganteum* (Boiss.) Bornm.
+- [tab] *Campanula abietina* Griseb. et Schenk.
+- [tab] *Campanula damboldtiana* Davis
+- [tab] *Campanula gelida* Kovanda
+- [tab] *Campanula lanata* Friv.
+- [tab] *Campanula lycica* Sorger & Kit Tan
+- [tab] *Campanula morettiana* Reichenb.
+- [tab] *Campanula romanica* Savul.
+- [tab] *Campanula sabatia* De Not.
+- [tab] *Jasione lusitanica* A. DC.
+- [tab] *Physoplexis comosa* (L.) Schur
+- [tab] *Trachelium asperuloides* Boiss. & Orph.
 
 ### Caryophyllaceae
 
-- [tab] *Arenaria* *nevadensis* Boiss. & Reuter
-- [tab] *Arenaria* *provincialis* Chater & Halliday
-- [tab] *Cerastium* *alsinifolium* Tausch
-- [tab] *Dianthus* *hypanicus* Andrz.
-- [tab] *Dianthus* *nitidus* Waldst. et Kit.
-- [tab] *Dianthus* *rupicola* Biv.
-- [tab] *Dianthus* *serotinus* Waldst. et Kit.
-- [tab] *Dianthus* *urumoffii* Stoj. et Acht.
-- [tab] *Gypsophila* *papillosa* P. Porta
-- [tab] *Herniaria* *algarvica* Chaudri
-- [tab] *Herniaria* *maritima* Link
-- [tab] *Minuartia* *smejkalii* Dvorakova
-- [tab] *Moehringia* *fontqueri* Pau
-- [tab] *Moehringia* *hypanica* Grynj. et Klok.
-- [tab] *Moehringia* *jankae* Griseb. ex Janka
-- [tab] *Moehringia* *tommasinii* Marches.
-- [tab] *Petrocoptis* *grandiflora* Rothm.
-- [tab] *Petrocoptis* *montsicciana* O. Bolos Rivas Mart.
-- [tab] *Petrocoptis* *pseudoviscosa* Fernandez Casas
-- [tab] *Saponaria* *halophila* Hedge & Hub.-Mor.
-- [tab] *Silene* *cretacea* Fisch. ex Spreng.
-- [tab] *Silene* *furcata* Raf. subsp. *angustiflora* (Rupr.) Walters
-- [tab] *Silene* *haussknechtii* Heldr. ex Hausskn.
-- [tab] *Silene* *hifacensis* Rouy ex Willk.
-- [tab] *Silene* *holzmannii* Heldr. ex Boiss.
-- [tab] *Silene* *mariana* Pau
-- [tab] *Silene* *orphanidis* Boiss.
-- [tab] *Silene* *pompeiopolitana* Gay ex. Boiss.
-- [tab] *Silene* *rothmaleri* Pinto da Silva
-- [tab] *Silene* *salsuginea* Hub.-Mor.
-- [tab] *Silene* *sangaria* Coode & Cullen
+- [tab] *Arenaria nevadensis* Boiss. & Reuter
+- [tab] *Arenaria provincialis* Chater & Halliday
+- [tab] *Cerastium alsinifolium* Tausch
+- [tab] *Dianthus hypanicus* Andrz.
+- [tab] *Dianthus nitidus* Waldst. et Kit.
+- [tab] *Dianthus rupicola* Biv.
+- [tab] *Dianthus serotinus* Waldst. et Kit.
+- [tab] *Dianthus urumoffii* Stoj. et Acht.
+- [tab] *Gypsophila papillosa* P. Porta
+- [tab] *Herniaria algarvica* Chaudri
+- [tab] *Herniaria maritima* Link
+- [tab] *Minuartia smejkalii* Dvorakova
+- [tab] *Moehringia fontqueri* Pau
+- [tab] *Moehringia hypanica* Grynj. et Klok.
+- [tab] *Moehringia jankae* Griseb. ex Janka
+- [tab] *Moehringia tommasinii* Marches.
+- [tab] *Petrocoptis grandiflora* Rothm.
+- [tab] *Petrocoptis montsicciana* O. Bolos Rivas Mart.
+- [tab] *Petrocoptis pseudoviscosa* Fernandez Casas
+- [tab] *Saponaria halophila* Hedge & Hub.-Mor.
+- [tab] *Silene cretacea* Fisch. ex Spreng.
+- [tab] *Silene furcata* Raf. subsp. *angustiflora* (Rupr.) Walters
+- [tab] *Silene haussknechtii* Heldr. ex Hausskn.
+- [tab] *Silene hifacensis* Rouy ex Willk.
+- [tab] *Silene holzmannii* Heldr. ex Boiss.
+- [tab] *Silene mariana* Pau
+- [tab] *Silene orphanidis* Boiss.
+- [tab] *Silene pompeiopolitana* Gay ex. Boiss.
+- [tab] *Silene rothmaleri* Pinto da Silva
+- [tab] *Silene salsuginea* Hub.-Mor.
+- [tab] *Silene sangaria* Coode & Cullen
 - [tab] *Silene* *velutina* Pourret ex Loisel.
 
 ### Chenopodiaceae
@@ -574,33 +570,33 @@ Allegato I*[^t-3]*
 - [tab] *Beta adanensis* Pamuk. apud Aellen
 - [tab] *Beta trojana* Pamuk. apud Aellen
 - [tab] *Cremnophyton lanfrancoi* Brullo et Pavone
-- [tab] *Kalidiopsis* *wagenitzii* Aellen
-- [tab] *Kochia* *saxicola* Guss.
-- [tab] *Microcnemum* *coralloides* (Loscos & Pardo) subsp. *anatolicum* Wagenitz
-- [tab] *Salicornia* *veneta* Pignatti & Lausi
-- [tab] *Salsola* *anatolica* Aellen
-- [tab] *Suaeda* *cucullata* Aellen
+- [tab] *Kalidiopsis wagenitzii* Aellen
+- [tab] *Kochia saxicola* Guss.
+- [tab] *Microcnemum coralloides* (Loscos & Pardo) subsp. *anatolicum* Wagenitz
+- [tab] *Salicornia veneta* Pignatti & Lausi
+- [tab] *Salsola anatolica* Aellen
+- [tab] *Suaeda cucullata* Aellen
 
 ### Cistaceae
 
-- [tab] *Helianthemum* *alypoides* Losa & Rivas Goday
-- [tab] *Helianthemum* *arcticum* (Grosser) Janch.
-- [tab] *Helianthemum* *caput-felis* Boiss.
-- [tab] *Tuberaria* *major* (Willk.) Pinto da Silva & Roseira
+- [tab] *Helianthemum alypoides* Losa & Rivas Goday
+- [tab] *Helianthemum arcticum* (Grosser) Janch.
+- [tab] *Helianthemum caput-felis* Boiss.
+- [tab] *Tuberaria major* (Willk.) Pinto da Silva & Roseira
 
 ### Compositae
 
-- [tab] *Achillea* *glaberrima* Klok.
-- [tab] *Achillea* *thracica* Velen.
-- [tab] *Anacyclus* *latealatus* Hub.-Mor.
-- [tab] *Andryala* *levitomentosa* (E. I. Nayardy) P. D. Sell
-- [tab] *Anthemis* *glaberrima* (Rech. f.) Greuter
-- [tab] *Anthemis* *halophila* Boiss. & Bal.
-- [tab] *Anthemis* *trotzkiana* Claus ex Bunge.
-- [tab] *Artemisia* *granatensis* Boiss.
-- [tab] *Artemisia* *insipida* Vill.
-- [tab] *Artemisia* *laciniata* Willd.
-- [tab] *Artemisia* *pancicii* (Janka) Ronn.
+- [tab] *Achillea glaberrima* Klok.
+- [tab] *Achillea thracica* Velen.
+- [tab] *Anacyclus latealatus* Hub.-Mor.
+- [tab] *Andryala levitomentosa* (E. I. Nayardy) P. D. Sell
+- [tab] *Anthemis glaberrima* (Rech. f.) Greuter
+- [tab] *Anthemis halophila* Boiss. & Bal.
+- [tab] *Anthemis trotzkiana* Claus ex Bunge.
+- [tab] *Artemisia granatensis* Boiss.
+- [tab] *Artemisia insipida* Vill.
+- [tab] *Artemisia laciniata* Willd.
+- [tab] *Artemisia pancicii* (Janka) Ronn.
 - [tab] *Aster pyrenaeus* Desf. ex. DC. France
 - [tab] *Aster sibiricus* L.
 - [tab] *Carduus* *myriacanthus* Salzm. ex DC.
@@ -608,146 +604,146 @@ Allegato I*[^t-3]*
 - [tab] *Carlina onopordifolia* Besser
 - [tab] *Centaurea* *alba* L. subsp. *heldreichii* (Halacsy) Dostal (*Centaurea heldreichii* Halacsy)
 - [tab] *Centaurea* *alba* L. subsp. *princeps* (Boiss. & Heldr.) Gugler (*Centaurea princeps* Boiss. & Heldr.)
-- [tab] *Centaurea* *akamatis Th.* *Georgiades & G. Chatzikiriakou*
-- [tab] *Centaurea* *attica* Nyman subsp. *megarensis* (Halacsy & Hayek) Dostal (*Centaurea megarensis* Halacsy & Hayek)
-- [tab] *Centaurea* *bal**earica* J. D. Rodriguez
-- [tab] *Centaurea* *borjae* Valdes-Berm. & Rivas Goday
-- [tab] *Centaurea* *citricolor* Font Quer
-- [tab] *Centaurea* *corymbosa* Pourret
-- [tab] *Centaurea* *dubjanskyi* Iljin.
-- [tab] *Centaurea* *hermannii* F. Hermann
-- [tab] *Centaurea* *horrida* Badaro
-- [tab] *Centaurea* *jankae* Brandza
-- [tab] *Centaurea* *kalambakensis* Freyn & Sint.
-- [tab] *Centaurea* *kartschiana* Scop.
-- [tab] *Centaurea* *lactiflora* Halacsy
-- [tab] *Centaurea* *niederi* Heldr.
-- [tab] *Centaurea* *peucedanifolia* Boiss. & Orph.
-- [tab] *Centaurea* *pineticola* Iljin.
-- [tab] *Centaurea* *pinnata* Pau
-- [tab] *Centaurea* *pontica* Prodan & E. I. Nayardy
-- [tab] *Centaurea* *pseudoleucolepis* Kleop
-- [tab] *Centaurea* *pulvinata* (G. Blanca) G. Blanca
-- [tab] *Centaurea* *tchihatcheffii* Fich. & Mey.
-- [tab] *Crepis* *crocifolia* Boiss. & Heldr.
-- [tab] *Crepis* *granatensis* (Willk.) G. Blanca & M. Cueto
-- [tab] *Crepis* *purpurea* Willd. Bieb.
-- [tab] *Dendranthema* *zawadskyi* (Herb.) Tzvel.
+- [tab] *Centaurea akamatis Th. Georgiades & G. Chatzikiriakou*
+- [tab] *Centaurea attica* Nyman subsp. *megarensis* (Halacsy & Hayek) Dostal (*Centaurea megarensis* Halacsy & Hayek)
+- [tab] *Centaurea balearica* J. D. Rodriguez
+- [tab] *Centaurea borjae* Valdes-Berm. & Rivas Goday
+- [tab] *Centaurea citricolor* Font Quer
+- [tab] *Centaurea corymbosa* Pourret
+- [tab] *Centaurea dubjanskyi* Iljin.
+- [tab] *Centaurea hermannii* F. Hermann
+- [tab] *Centaurea horrida* Badaro
+- [tab] *Centaurea jankae* Brandza
+- [tab] *Centaurea kalambakensis* Freyn & Sint.
+- [tab] *Centaurea kartschiana* Scop.
+- [tab] *Centaurea lactiflora* Halacsy
+- [tab] *Centaurea niederi* Heldr.
+- [tab] *Centaurea peucedanifolia* Boiss. & Orph.
+- [tab] *Centaurea pineticola* Iljin.
+- [tab] *Centaurea pinnata* Pau
+- [tab] *Centaurea pontica* Prodan & E. I. Nayardy
+- [tab] *Centaurea pseudoleucolepis* Kleop
+- [tab] *Centaurea pulvinata* (G. Blanca) G. Blanca
+- [tab] *Centaurea tchihatcheffii* Fich. & Mey.
+- [tab] *Crepis crocifolia* Boiss. & Heldr.
+- [tab] *Crepis granatensis* (Willk.) G. Blanca & M. Cueto
+- [tab] *Crepis purpurea* Willd. Bieb.
+- [tab] *Dendranthema zawadskyi* (Herb.) Tzvel.
 - [tab] *Erigeron* *frigidus* Boiss. ex DC.
-- [tab] *Helichrysum* *melitense* (Pignatti) Brulo, Lanfranco, Pavone et Ronsisvalle
-- [tab] *Helichrysum* *sibthorpii* Rouy
-- [tab] *Hymenostemma* *pseudanthemis* (Kunze) Willd.
+- [tab] *Helichrysum melitense* (Pignatti) Brulo, Lanfranco, Pavone et Ronsisvalle
+- [tab] *Helichrysum sibthorpii* Rouy
+- [tab] *Hymenostemma pseudanthemis* (Kunze) Willd.
 - [tab] *Hyoseris frutescens* Brullo et Pavone
-- [tab] *Jurinea* *cyanoides* (L.) Reichenb.
-- [tab] *Jurinea* *fontqueri* Cuatrec.
-- [tab] *Lagoseris* *purpurea* (Willd.) Boiss.
-- [tab] *Lamyropsis* *microcephala* (Moris) Dittrich & Greuter
-- [tab] *Leontodon* *boryi* Boiss. ex DC.
+- [tab] *Jurinea cyanoides* (L.) Reichenb.
+- [tab] *Jurinea fontqueri* Cuatrec.
+- [tab] *Lagoseris purpurea* (Willd.) Boiss.
+- [tab] *Lamyropsis microcephala* (Moris) Dittrich & Greuter
+- [tab] *Leontodon boryi* Boiss. ex DC.
 - [tab] *Leontodon* *microcephalus* (Boiss. ex DC.) Boiss.
 - [tab] *Leontodon* *siculus* (Guss.) Finch & Sell
-- [tab] *Ligularia* *sibirica* (L.) Cass.
+- [tab] *Ligularia sibirica* (L.) Cass.
 - [tab] *Palaeocyanus crassifolius* (Bertoloni) Dostál
-- [tab] *Picris* *willkommii* (Schultz Bip.) Nyman
-- [tab] *Santolina* *elegans* Boiss. ex DC.
-- [tab] *Senecio* *elodes* Boiss. ex DC.
-- [tab] *Senecio* *nevadensis* Boiss. & Reuter
-- [tab] *Serratula* *tanaitica* P. Smirn.
-- [tab] *Sonchus* *erzincanicus* Matthews
-- [tab] *Wagenitzia* *lancifolia* (Sieber ex Sprengel) Dostal
+- [tab] *Picris willkommii* (Schultz Bip.) Nyman
+- [tab] *Santolina elegans* Boiss. ex DC.
+- [tab] *Senecio elodes* Boiss. ex DC.
+- [tab] *Senecio nevadensis* Boiss. & Reuter
+- [tab] *Serratula tanaitica* P. Smirn.
+- [tab] *Sonchus erzincanicus* Matthews
+- [tab] *Wagenitzia lancifolia* (Sieber ex Sprengel) Dostal
 
 ### Convolvulaceae
 
-- [tab] *Convolvulus* *argyrothamnos* Greuter
-- [tab] *Convolvulus* *pulvinatus* Sa’ad
+- [tab] *Convolvulus argyrothamnos* Greuter
+- [tab] *Convolvulus pulvinatus* Sa’ad
 
 ### Cruciferae
 
-- [tab] *Alyssum* *akamasicum* B. L. Burtt
-- [tab] *Alyssum* *borzaeanum* E. I. Nayardy
-- [tab] *Alyssum* *pyrenaicum* Lapeyr. (*Ptilotrichum pyrenaicum* [Lapeyr.] Boiss.)
-- [tab] *Arabis* *kennedyae* Meikle
-- [tab] *Armoracia* *macrocarpa* (Waldst. & Kit.) Kit. ex Baumg.
-- [tab] *Aurinia* *uechtritziana* (Bornm.) Cullen et T. R. Dudley
-- [tab] *Biscutella* *neustriaca* Bonnet
-- [tab] *Boleum* *asperum* (Pers.) Desvaux
-- [tab] *Brassica* *glabrescens* Poldini
-- [tab] *Brassica* *hilarionis* Post
-- [tab] *Brassica* *insularis* Moris
-- [tab] *Brassica* *macrocarpa* Guss.
-- [tab] *Brassica* *sylvestris* (I.) Mill. subsp. *taurica* Tzvel.
-- [tab] *Braya* *purpurasceus* (R. Br.) Bunge
-- [tab] *Cochlearia* *polonica* Fröhlich
+- [tab] *Alyssum akamasicum* B. L. Burtt
+- [tab] *Alyssum borzaeanum* E. I. Nayardy
+- [tab] *Alyssum pyrenaicum* Lapeyr. (*Ptilotrichum pyrenaicum* [Lapeyr.] Boiss.)
+- [tab] *Arabis kennedyae* Meikle
+- [tab] *Armoracia macrocarpa* (Waldst. & Kit.) Kit. ex Baumg.
+- [tab] *Aurinia uechtritziana* (Bornm.) Cullen et T. R. Dudley
+- [tab] *Biscutella neustriaca* Bonnet
+- [tab] *Boleum asperum* (Pers.) Desvaux
+- [tab] *Brassica glabrescens* Poldini
+- [tab] *Brassica hilarionis* Post
+- [tab] *Brassica insularis* Moris
+- [tab] *Brassica macrocarpa* Guss.
+- [tab] *Brassica sylvestris* (I.) Mill. subsp. *taurica* Tzvel.
+- [tab] *Braya purpurasceus* (R. Br.) Bunge
+- [tab] *Cochlearia polonica* Fröhlich
 - [tab] *Coincya* *rupestris* Rouy (*Hutera rupestris* P. Porta)
 - [tab] *Coronopus* *navasii* Pau
 - [tab] *Crambe* *koktebelica* (Junge) N. Busch.
 - [tab] *Crambe* *litwinonowii* K. Gross.
 - [tab] *Diplotaxis* *ibicensis* (Pau) Gomez-Campo
-- [tab] *Diplotaxis* *siettiana* Maire
-- [tab] *Draba* *dorneri* Heuffel
-- [tab] *Erucastrum* *palustre* (Pirona) Vis.
-- [tab] *Erysimum* *pieninicum* (Zapal.) Pawl.
-- [tab] *Iberis* *arbuscula* Runemark
-- [tab] *Ionopsidium* *acaule* (Desf.) Reichemb.
-- [tab] *Ionopsidium* *savianum* (Caruel) Ball ex Arcang.
-- [tab] *Lepidium* *turczaninowii* Lipsky.
-- [tab] *Murbeckiella* *sousae* Rothm.
-- [tab] *Schivereckia* *podolica* (Besser) Andrz.
+- [tab] *Diplotaxis siettiana* Maire
+- [tab] *Draba dorneri* Heuffel
+- [tab] *Erucastrum palustre* (Pirona) Vis.
+- [tab] *Erysimum pieninicum* (Zapal.) Pawl.
+- [tab] *Iberis arbuscula* Runemark
+- [tab] *Ionopsidium acaule* (Desf.) Reichemb.
+- [tab] *Ionopsidium savianum* (Caruel) Ball ex Arcang.
+- [tab] *Lepidium turczaninowii* Lipsky.
+- [tab] *Murbeckiella sousae* Rothm.
+- [tab] *Schivereckia podolica* (Besser) Andrz.
 - [tab] *Sisymbrium* *cavanillesianum* Valdes & Castroviejo (*S. matritense* P. W. Ball & Heywood)
-- [tab] *Sisymbrium* *confertum* Stev.
-- [tab] *Sisymbrium* *supinum* L.
-- [tab] *Thlaspi* *cariense* A. Carlström
-- [tab] *Thlaspi* *jankae* A. Kern
+- [tab] *Sisymbrium confertum* Stev.
+- [tab] *Sisymbrium supinum* L.
+- [tab] *Thlaspi cariense* A. Carlström
+- [tab] *Thlaspi jankae* A. Kern
 
 ### Cyperaceae
 
 - [tab] *Carex secalina* Willd. ex Wahlenb.
-- [tab] *Eleocharis* *carniolica* Koch
+- [tab] *Eleocharis carniolica* Koch
 
 ### Dioscoreaceae
 
-- [tab] *Borderea* *chouardii* (Gaussen) Heslot
+- [tab] *Borderea chouardii* (Gaussen) Heslot
 
 ### Dipsacaceae
 
-- [tab] *Dipsacus* *cephalarioides* Mathews & Kupicha
+- [tab] *Dipsacus cephalarioides* Mathews & Kupicha
 
 ### Droseraceae
 
-- [tab] *Aldrovanda* *vesiculosa* L.
+- [tab] *Aldrovanda vesiculosa* L.
 
 ### Ericaceae
 
-- [tab] *Vaccinium* *arctostaphylos* L.
+- [tab] *Vaccinium arctostaphylos* L.
 
 ### Euphorbiaceae
 
-- [tab] *Euphorbia* *margalidiana* Kuhbier & Lewejohann
-- [tab] *Euphorbia* *nevadensis* Boiss. & Reuter
+- [tab] *Euphorbia margalidiana* Kuhbier & Lewejohann
+- [tab] *Euphorbia nevadensis* Boiss. & Reuter
 
 ### Gentianaceae
 
-- [tab] *Centaurium* *rigualii* Esteve Chueca
-- [tab] *Centaurium* *somedanum* Lainz
-- [tab] *Gentiana* *liguistica* R. de Vilm. Chopinet
-- [tab] *Gentianella* *anglica* (Pugsley) E. F. Warburg
+- [tab] *Centaurium rigualii* Esteve Chueca
+- [tab] *Centaurium somedanum* Lainz
+- [tab] *Gentiana liguistica* R. de Vilm. Chopinet
+- [tab] *Gentianella anglica* (Pugsley) E. F. Warburg
 
 ### Geraniaceae
 
-- [tab] *Erodium* *astragaloides* Boiss. & Reuter
-- [tab] *Erodium* *chrysanthum* L’Herit. ex DC.
-- [tab] *Erodium* *paularense* Fernandez-Gonzalez & Izco
-- [tab] *Erodium* *rupicola* Boiss
+- [tab] *Erodium astragaloides* Boiss. & Reuter
+- [tab] *Erodium chrysanthum* L’Herit. ex DC.
+- [tab] *Erodium paularense* Fernandez-Gonzalez & Izco
+- [tab] *Erodium rupicola* Boiss
 
 ### Gesneriaceae
 
-- [tab] *Haberlea* *rhodopensis* Friv.
-- [tab] *Jankaea* *heldreichii* (Boiss.) Boiss.
-- [tab] *Ramonda* *serbica* Pancic
+- [tab] *Haberlea rhodopensis* Friv.
+- [tab] *Jankaea heldreichii* (Boiss.) Boiss.
+- [tab] *Ramonda serbica* Pancic
 
 ### Gramineae
 
-- [tab] *Avenula* *hackelii* (Henriq.) Holub
-- [tab] *Bromus* *bromoideus* (Lej.) Crepin
+- [tab] *Avenula hackelii* (Henriq.) Holub
+- [tab] *Bromus bromoideus* (Lej.) Crepin
 - [tab] *Bromus* *grossus* Desf. ex DC.
 - [tab] *Bromus* *interruptus* (Hackel) Druce
 - [tab] *Bromus* *moesiacus* Velen.
@@ -758,398 +754,398 @@ Allegato I*[^t-3]*
 - [tab] *Micropyropsis* *tuberosa* Romero-Zarco Cabezudo
 - [tab] *Poa granitica* Br.-Bl.
 - [tab] *Poa riphaea* (Ascherson et Graebner) Fritsch
-- [tab] *Puccinellia* *pungens* (Pau) Paunero
-- [tab] *Stipa* *austroitalica* Martinovsky
-- [tab] *Stipa* *bavarica* Martinovsky & H. Scholz
-- [tab] *Stipa* *danubialis* Dihoru & Roman
-- [tab] *Stipa* *styriaca* Martinovsky
-- [tab] *Stipa* *syreistschikowii* P. Smirn.
-- [tab] *Trisetum* *subalpestre* (Hartm.) Neuman
+- [tab] *Puccinellia pungens* (Pau) Paunero
+- [tab] *Stipa austroitalica* Martinovsky
+- [tab] *Stipa bavarica* Martinovsky & H. Scholz
+- [tab] *Stipa danubialis* Dihoru & Roman
+- [tab] *Stipa styriaca* Martinovsky
+- [tab] *Stipa syreistschikowii* P. Smirn.
+- [tab] *Trisetum subalpestre* (Hartm.) Neuman
 
 ### Grossulariaceae
 
-- [tab] *Ribes* *sardoum* Martelli
+- [tab] *Ribes sardoum* Martelli
 
 ### Hypericaceae
 
-- [tab] *Hypericum* *aciferum* (Greuter) N. K. B. Robson
+- [tab] *Hypericum aciferum* (Greuter) N. K. B. Robson
 - [tab] *Hypericum* *salsugineum* Robson & Hub.-Mor.
 
 ### Iridaceae
 
 - [tab] *Crocus* *abantensis* T. Baytop & Mathew
-- [tab] *Crocus* *cyprius* Boiss. & Kotschy
-- [tab] *Crocus* *etruscus* Parl.
-- [tab] *Crocus* *hartmannianus* Holmboe
+- [tab] *Crocus cyprius* Boiss. & Kotschy
+- [tab] *Crocus etruscus* Parl.
+- [tab] *Crocus hartmannianus* Holmboe
 - [tab] *Crocus* *robertianus* C. D. Brickell
-- [tab] *Gladiolus* *felicis* Mirek
+- [tab] *Gladiolus felicis* Mirek
 - [tab] *Iris marsica* Ricci & Colasante
 
 ### Labiatae
 
-- [tab] *Dracocephalum* *austriacum* L.
+- [tab] *Dracocephalum austriacum* L.
 - [tab] *Dracocephalum ruyschiana* L.
-- [tab] *Micromeria* *taygetea* P. H. Davis
-- [tab] *Nepeta* *dirphya* (Boiss.) Heldr. ex Halacsy
-- [tab] *Nepeta* *sphaciotica* P. H. Davis
-- [tab] *Origanum* *cordifolium* (Auch. & Montbr.) Vogel (*Amaracus cordifolium* Montr. & Auch.)
-- [tab] *Origanum* *dictamnus* L.
-- [tab] *Origanum* *scabrum* Boiss. & Heldr.
-- [tab] *Phlomis* *brevibracteata* Turrill
-- [tab] *Phlomis* *cypria* Post
-- [tab] *Rosmarinus* *tomentosus* Hub.-Mor. & Maire
-- [tab] *Salvia* *crassifolia* Sibth. & Smith
-- [tab] *Sideritis* *cypria* Post
-- [tab] *Sideritis* *incana* L. subsp. *glauca* (Cav.) Malagarriga
-- [tab] *Sideritis* *javalambrensis* Pau
-- [tab] *Sideritis* *serrata* Cav. ex Lag.
-- [tab] *Teucrium* *charidemi* Sandwith
-- [tab] *Teucrium* *lamiifolium* D’Urv.
-- [tab] *Teucrium* *lepicephalum* Pau
-- [tab] *Teucrium* *turredanum* Losa & Rivas Goday
-- [tab] *Thymus* *aznavourii* Velen.
-- [tab] *Thymus* *camphoratus* Hoffmanns. & Link
-- [tab] *Thymus* *carnosus* Boiss.
-- [tab] *Thymus* *cephalotos* L.
+- [tab] *Micromeria taygetea* P. H. Davis
+- [tab] *Nepeta dirphya* (Boiss.) Heldr. ex Halacsy
+- [tab] *Nepeta sphaciotica* P. H. Davis
+- [tab] *Origanum cordifolium* (Auch. & Montbr.) Vogel (*Amaracus cordifolium* Montr. & Auch.)
+- [tab] *Origanum dictamnus* L.
+- [tab] *Origanum scabrum* Boiss. & Heldr.
+- [tab] *Phlomis brevibracteata* Turrill
+- [tab] *Phlomis cypria* Post
+- [tab] *Rosmarinus tomentosus* Hub.-Mor. & Maire
+- [tab] *Salvia crassifolia* Sibth. & Smith
+- [tab] *Sideritis cypria* Post
+- [tab] *Sideritis incana* L. subsp. *glauca* (Cav.) Malagarriga
+- [tab] *Sideritis javalambrensis* Pau
+- [tab] *Sideritis serrata* Cav. ex Lag.
+- [tab] *Teucrium charidemi* Sandwith
+- [tab] *Teucrium lamiifolium* D’Urv.
+- [tab] *Teucrium lepicephalum* Pau
+- [tab] *Teucrium turredanum* Losa & Rivas Goday
+- [tab] *Thymus aznavourii* Velen.
+- [tab] *Thymus camphoratus* Hoffmanns. & Link
+- [tab] *Thymus carnosus* Boiss.
+- [tab] *Thymus cephalotos* L.
 
 ### Leguminosae
 
-- [tab] *Anthyllis* *hystrix* Cardona, Contandr. & E. Sierra
-- [tab] *Astragalus* *aitosensis* Ivanisch.
-- [tab] *Astragalus* *algarbiensis* Coss. ex Bunge
-- [tab] *Astragalus* *aquilanus* Anzalone
-- [tab] *Astragalus* *centralpinus* Braun-Blanquet
-- [tab] *Astragalus* *kungurensis* Boriss.
-- [tab] *Astragalus* *macrocarpus* DC. subsp. l*efkarensis* Agerer-Kirchoff & Meikle
-- [tab] *Astragalus* *maritimus* Moris
-- [tab] *Astragalus* *peterfii* Jav.
-- [tab] *Astragalus* *physocalyx* Fischer
-- [tab] *Astragalus* *psedopurpureus* Gusul.
-- [tab] *Astragalus* *setosulus* Gontsch.
-- [tab] *Astragalus* *tanaiticus* C. Koch.
-- [tab] *Astragalus* *tremolsianus* Pau
-- [tab] *Astragalus* *verrucosus* Moris
+- [tab] *Anthyllis hystrix* Cardona, Contandr. & E. Sierra
+- [tab] *Astragalus aitosensis* Ivanisch.
+- [tab] *Astragalus algarbiensis* Coss. ex Bunge
+- [tab] *Astragalus aquilanus* Anzalone
+- [tab] *Astragalus centralpinus* Braun-Blanquet
+- [tab] *Astragalus kungurensis* Boriss.
+- [tab] *Astragalus macrocarpus* DC. subsp. l*efkarensis* Agerer-Kirchoff & Meikle
+- [tab] *Astragalus maritimus* Moris
+- [tab] *Astragalus peterfii* Jav.
+- [tab] *Astragalus physocalyx* Fischer
+- [tab] *Astragalus psedopurpureus* Gusul.
+- [tab] *Astragalus setosulus* Gontsch.
+- [tab] *Astragalus tanaiticus* C. Koch.
+- [tab] *Astragalus tremolsianus* Pau
+- [tab] *Astragalus verrucosus* Moris
 - [tab] *Cytisus* *aeolicus* Guss. ex Lindl.
-- [tab] *Genista* *dorycnifolia* Font Quer
-- [tab] *Genista* *holopetala* (Fleischm. ex Koch) Baldacci
-- [tab] *Genista* *tetragona* Bess.
-- [tab] *Glycyrrhiza* *iconica* Hub.-Mor.
-- [tab] *Hedysarum* *razoumovianum* Fisch. et Helm.
-- [tab] *Ononis* *maweana* Ball
-- [tab] *Oxytropis* *deflexa* (Pallas) DC. subsp. *norvegica* Nordh.
-- [tab] *Sphaerophysa* *kotschyana* Boiss.
-- [tab] *Thermopsis* *turcica* Kit Tan, Vural & Küçüködü
-- [tab] *Trifolium* *banaticum* (Heuffel) Majovsky
-- [tab] *Trifolium* *pachycalyx* Zoh.
-- [tab] *Trifolium* *saxatile* All.
-- [tab] *Trigonella* *arenicola* Hub.-Mor.
-- [tab] *Trigonella* *halophila* Boiss.
-- [tab] *Trigonella* *polycarpa* Boiss. & Heldr.
-- [tab] *Vicia* *bifoliolata* J. D. Rodriguez
+- [tab] *Genista dorycnifolia* Font Quer
+- [tab] *Genista holopetala* (Fleischm. ex Koch) Baldacci
+- [tab] *Genista tetragona* Bess.
+- [tab] *Glycyrrhiza iconica* Hub.-Mor.
+- [tab] *Hedysarum razoumovianum* Fisch. et Helm.
+- [tab] *Ononis maweana* Ball
+- [tab] *Oxytropis deflexa* (Pallas) DC. subsp. *norvegica* Nordh.
+- [tab] *Sphaerophysa kotschyana* Boiss.
+- [tab] *Thermopsis turcica* Kit Tan, Vural & Küçüködü
+- [tab] *Trifolium banaticum* (Heuffel) Majovsky
+- [tab] *Trifolium pachycalyx* Zoh.
+- [tab] *Trifolium saxatile* All.
+- [tab] *Trigonella arenicola* Hub.-Mor.
+- [tab] *Trigonella halophila* Boiss.
+- [tab] *Trigonella polycarpa* Boiss. & Heldr.
+- [tab] *Vicia bifoliolata* J. D. Rodriguez
 
 ### Lentibulariaceae
 
-- [tab] *Pinguicula* *crystallina* Sibth. & Sm.
-- [tab] *Pinguicula* *nevadensis* (Lindb.) Casper
+- [tab] *Pinguicula crystallina* Sibth. & Sm.
+- [tab] *Pinguicula nevadensis* (Lindb.) Casper
 
 ### Liliaceae
 
-- [tab] *Allium* *grosii* Font Quer
-- [tab] *Allium* *regelianum* A. Beck.
-- [tab] *Allium* *vuralii* Kit Tan
-- [tab] *Androcymbium* *europaeum* (Lange) K. Richter
-- [tab] *Androcymbium* *rechingeri* Greuter
-- [tab] *Asparagus* *lycaonicus* Davis
-- [tab] *Asphodelus* *bento-rainhae* Pinto da Silva
-- [tab] *Chionodoxa* *lochiae* Meikle
-- [tab] *Chionodoxa* *luciliae* Boiss.
-- [tab] *Colchicum* *arenarium* Waldst. & Kit.
-- [tab] *Colchicum* *corsicum* Baker
-- [tab] *Colchicum* *cousturieri* Greuter
-- [tab] *Colchicum* *davidovii* Stef.
-- [tab] *Colchicum* *fominii* Bordz.
-- [tab] *Colchicum* *micranthum* Boiss.
-- [tab] *Fritillaria* *conica* Boiss.
-- [tab] *Fritillaria* *drenovskii* Degen & Stoy.
-- [tab] *Fritillaria* *epirotica* Turrill ex Rix
-- [tab] *Fritillaria* *euboeica* (Rix Doerfler) Rix
-- [tab] *Fritillaria* *graeca* Boiss.
-- [tab] *Fritillaria* *gussichiae* (Degen & Doerfler) Rix
-- [tab] *Fritillaria* *montana* Hoppe.
-- [tab] *Fritillaria* *obliqua* Ker-Gawl.
-- [tab] *Fritillaria* *rhodocanakis* Orph. ex Baker
-- [tab] *Fritillaria* *tuntasia* Heldr. ex Halacsy
-- [tab] *Lilium* *jankae* A. Kerner
-- [tab] *Lilium* *rhodopaeum* Delip.
-- [tab] *Muscari* *gussonei* (Parl.) Tod.
-- [tab] *Ornithogalum* *reverchonii* Lange
-- [tab] *Scilla* *morrisii* Meikle
-- [tab] *Scilla* *odorata* Link
-- [tab] *Tulipa* *cypria* Stapf
-- [tab] *Tulipa* *goulimya* Sealy & Turrill
-- [tab] *Tulipa* *hungarica* Borbas
-- [tab] *Tulipa* *praecox* Ten.
-- [tab] *Tulipa* *sprengeri* Baker
+- [tab] *Allium grosii* Font Quer
+- [tab] *Allium regelianum* A. Beck.
+- [tab] *Allium vuralii* Kit Tan
+- [tab] *Androcymbium europaeum* (Lange) K. Richter
+- [tab] *Androcymbium rechingeri* Greuter
+- [tab] *Asparagus lycaonicus* Davis
+- [tab] *Asphodelus bento-rainhae* Pinto da Silva
+- [tab] *Chionodoxa lochiae* Meikle
+- [tab] *Chionodoxa luciliae* Boiss.
+- [tab] *Colchicum arenarium* Waldst. & Kit.
+- [tab] *Colchicum corsicum* Baker
+- [tab] *Colchicum cousturieri* Greuter
+- [tab] *Colchicum davidovii* Stef.
+- [tab] *Colchicum fominii* Bordz.
+- [tab] *Colchicum micranthum* Boiss.
+- [tab] *Fritillaria conica* Boiss.
+- [tab] *Fritillaria drenovskii* Degen & Stoy.
+- [tab] *Fritillaria epirotica* Turrill ex Rix
+- [tab] *Fritillaria euboeica* (Rix Doerfler) Rix
+- [tab] *Fritillaria graeca* Boiss.
+- [tab] *Fritillaria gussichiae* (Degen & Doerfler) Rix
+- [tab] *Fritillaria montana* Hoppe.
+- [tab] *Fritillaria obliqua* Ker-Gawl.
+- [tab] *Fritillaria rhodocanakis* Orph. ex Baker
+- [tab] *Fritillaria tuntasia* Heldr. ex Halacsy
+- [tab] *Lilium jankae* A. Kerner
+- [tab] *Lilium rhodopaeum* Delip.
+- [tab] *Muscari gussonei* (Parl.) Tod.
+- [tab] *Ornithogalum reverchonii* Lange
+- [tab] *Scilla morrisii* Meikle
+- [tab] *Scilla odorata* Link
+- [tab] *Tulipa cypria* Stapf
+- [tab] *Tulipa goulimya* Sealy & Turrill
+- [tab] *Tulipa hungarica* Borbas
+- [tab] *Tulipa praecox* Ten.
+- [tab] *Tulipa sprengeri* Baker
 
 ### Linaceae
 
-- [tab] *Linum* *dolomiticum* Borbas
+- [tab] *Linum dolomiticum* Borbas
 
 ### Lythraceae
 
-- [tab] *Lythrum* *flexuosum* Lag.
-- [tab] *Lythrum* *thesioides* M. Bieb.
+- [tab] *Lythrum flexuosum* Lag.
+- [tab] *Lythrum thesioides* M. Bieb.
 
 ### Malvaceae
 
-- [tab] *Kosteletzkya* *pentacarpos* (L.) Ledeb.
+- [tab] *Kosteletzkya pentacarpos* (L.) Ledeb.
 
 ### Najadaceae
 
-- [tab] *Caulinia* *tenuissima* (A. br. ex Magnus) Tzvel.
-- [tab] *Najas* *flexilis* (Willd.) Rostk. & W. L. Schmidt
-- [tab] *Najas* *tenuissima* (A. Braun) Magnus
+- [tab] *Caulinia tenuissima* (A. br. ex Magnus) Tzvel.
+- [tab] *Najas flexilis* (Willd.) Rostk. & W. L. Schmidt
+- [tab] *Najas tenuissima* (A. Braun) Magnus
 
 ### Oleaceae
 
-- [tab] *Syringa* *josikaea* Jacq. fil.
+- [tab] *Syringa josikaea* Jacq. fil.
 
 ### Orchidaceae
 
-- [tab] *Cephalanthera* *cucullata* Boiss. & Heldr.
-- [tab] *Comperia* *comperiana* (Steven) Aschers. & Graebner
-- [tab] *Cypripedium* *calceolus* L.
-- [tab] *Dactylorhiza* *chuhensis* Renz & Taub.
-- [tab] *Himantoglossum* *caprinum* (Bieb.) C. Koch.
-- [tab] *Liparis* *loeselii* (L.) Rich.
-- [tab] *Ophrys* *argolica* Fleischm.
-- [tab] *Ophrys* *isaura* Renz & Taub.
-- [tab] *Ophrys* *kotschyi* Fleischm. & Soo
-- [tab] *Ophrys* *lunulata* Parl.
-- [tab] *Ophrys* *lycia* Renz & Taub.
+- [tab] *Cephalanthera cucullata* Boiss. & Heldr.
+- [tab] *Comperia comperiana* (Steven) Aschers. & Graebner
+- [tab] *Cypripedium calceolus* L.
+- [tab] *Dactylorhiza chuhensis* Renz & Taub.
+- [tab] *Himantoglossum caprinum* (Bieb.) C. Koch.
+- [tab] *Liparis loeselii* (L.) Rich.
+- [tab] *Ophrys argolica* Fleischm.
+- [tab] *Ophrys isaura* Renz & Taub.
+- [tab] *Ophrys kotschyi* Fleischm. & Soo
+- [tab] *Ophrys lunulata* Parl.
+- [tab] *Ophrys lycia* Renz & Taub.
 - [tab] *Ophrys oestrifera* Bieb.
 - [tab] *Ophrys taurica* (Aggeenko) Nevski
 - [tab] *Orchis provincialis* Balb.
-- [tab] *Orchis* *punctulata* Stev. ex Lindl.
-- [tab] *Platanthera* *obtusata* (Pursh) Lindl. subsp. *oligantha* (Turcz.) Hulten
+- [tab] *Orchis punctulata* Stev. ex Lindl.
+- [tab] *Platanthera obtusata* (Pursh) Lindl. subsp. *oligantha* (Turcz.) Hulten
 - [tab] *Spiranthes* *aestivalis* (Poiret) L. C. M. Richard
 - [tab] *Steveniella* *satyrioides* (Stev.) Schlechter.
 
 ### Paeoniaceae
 
 - [tab] *Paeonia* *cambessedesii* (Willk.) Willk.
-- [tab] *Paeonia* *clusii* F. C. Stern subsp. *rhodia* (Stearn) Tzanoudakis
-- [tab] *Paeonia* *officinalis* L. subsp. *banatica* (Rochel) Soo
-- [tab] *Paeonia* *parnassica* Tzanoudakis
-- [tab] *Paeonia* *tenuifolia* L.
+- [tab] *Paeonia clusii* F. C. Stern subsp. *rhodia* (Stearn) Tzanoudakis
+- [tab] *Paeonia officinalis* L. subsp. *banatica* (Rochel) Soo
+- [tab] *Paeonia parnassica* Tzanoudakis
+- [tab] *Paeonia tenuifolia* L.
 
 ### Palmae
 
-- [tab] *Phoenix* *theophrasti* Greuter
+- [tab] *Phoenix theophrasti* Greuter
 
 ### Papaveraceae
 
-- [tab] *Papaver* *lapponicum* (Tolm.) Nordh.
-- [tab] *Rupicapnos* *africana* (Lam.) Pomel
+- [tab] *Papaver lapponicum* (Tolm.) Nordh.
+- [tab] *Rupicapnos africana* (Lam.) Pomel
 
 ### Plumbaginaceae
 
-- [tab] *Armeria* *pseudarmeria* (Murray) Mansfeld
-- [tab] *Armeria* *rouyana* Daveau
-- [tab] *Armeria* *soleirolii* (Duby) Godron
-- [tab] *Armeria* *velutina* Welv. ex Boiss. & Reuter
-- [tab] *Limonium* *anatolicum* Hedge
-- [tab] *Limonium* *tamaricoides* Bokhari
+- [tab] *Armeria pseudarmeria* (Murray) Mansfeld
+- [tab] *Armeria rouyana* Daveau
+- [tab] *Armeria soleirolii* (Duby) Godron
+- [tab] *Armeria velutina* Welv. ex Boiss. & Reuter
+- [tab] *Limonium anatolicum* Hedge
+- [tab] *Limonium tamaricoides* Bokhari
 
 ### Polemoniaceae
 
-- [tab] *Polemonium* *boreale* Adams
+- [tab] *Polemonium boreale* Adams
 
 ### Polygonaceae
 
-- [tab] *Polygonum* *praelongum* Coode & Cullen
-- [tab] *Rheum* *rhaponticum* L.\*\*
-- [tab] *Rumex* *rupestris* Le Gall
+- [tab] *Polygonum praelongum* Coode & Cullen
+- [tab] *Rheum rhaponticum* L.\*\*
+- [tab] *Rumex rupestris* Le Gall
 
 ### Posidoniacea
 
-- [tab] *Posidonia* *oceanica* (Med.)
+- [tab] *Posidonia oceanica* (Med.)
 
 ### Primulaceae
 
-- [tab] *Androsace* *cylindrica* DC.
-- [tab] *Androsace* *mathildae* Levier
-- [tab] *Androsace* *pyrenaica* Lam.
-- [tab] *Cyclamen* *coum* Mill.
-- [tab] *Cyclamen* *kuznetzovii* Kotov et Czernova.
-- [tab] *Cyclamen* *mirabile* Hildebr.
-- [tab] *Lysimachia* *minoricensis* J. D. Rodriguez
-- [tab] *Primula* *apennina* Widmer
-- [tab] *Primula* *deorum* Velen.
-- [tab] *Primula* *frondosa* Janka
-- [tab] *Primula* *egaliksensis* Wormsk.
-- [tab] *Primula* *glaucescens* Moretti
-- [tab] *Primula* *palinuri* Petagna
-- [tab] *Primula* *spectabilis* Tratt.
-- [tab] *Primula* *wulfeniana* Scot subsp. *baumgarteniana* (Degen & Moesz) Ludi
-- [tab] *Soldanella* *villosa* Darracq
+- [tab] *Androsace cylindrica* DC.
+- [tab] *Androsace mathildae* Levier
+- [tab] *Androsace pyrenaica* Lam.
+- [tab] *Cyclamen coum* Mill.
+- [tab] *Cyclamen kuznetzovii* Kotov et Czernova.
+- [tab] *Cyclamen mirabile* Hildebr.
+- [tab] *Lysimachia minoricensis* J. D. Rodriguez
+- [tab] *Primula apennina* Widmer
+- [tab] *Primula deorum* Velen.
+- [tab] *Primula frondosa* Janka
+- [tab] *Primula egaliksensis* Wormsk.
+- [tab] *Primula glaucescens* Moretti
+- [tab] *Primula palinuri* Petagna
+- [tab] *Primula spectabilis* Tratt.
+- [tab] *Primula wulfeniana* Scot subsp. *baumgarteniana* (Degen & Moesz) Ludi
+- [tab] *Soldanella villosa* Darracq
 
 ### Ranunculaceae
 
-- [tab] *Aconitum* *corsicum* Gayer
-- [tab] *Aconitum* *flerovii* Steinb.
-- [tab] *Aconitum* *lasiocarpum* (Reichenb.) Gayer
-- [tab] *Adonis* *cyllenea* Boiss., Heldr. & Orph.
-- [tab] *Adonis* *distorta* Ten.
-- [tab] *Anemone* *uralense* Nevski.
-- [tab] *Aquilegia* *bertolonii* Schott
-- [tab] *Aquilegia* *kitaibelii* Schott
-- [tab] *Aquilegia* *ottonis* subsp. *taygetea* (Orph.) Strid
-- [tab] *Aquilegia* *pyrenaica* DC. subsp. *cazorlensis* (Heywood) Galiano & Rivas Martinez (*Aquilegia cazorlensis* Heywood)
-- [tab] *Consolida* *samia* P. H. Davis
+- [tab] *Aconitum corsicum* Gayer
+- [tab] *Aconitum flerovii* Steinb.
+- [tab] *Aconitum lasiocarpum* (Reichenb.) Gayer
+- [tab] *Adonis cyllenea* Boiss., Heldr. & Orph.
+- [tab] *Adonis distorta* Ten.
+- [tab] *Anemone uralense* Nevski.
+- [tab] *Aquilegia bertolonii* Schott
+- [tab] *Aquilegia kitaibelii* Schott
+- [tab] *Aquilegia ottonis* subsp. *taygetea* (Orph.) Strid
+- [tab] *Aquilegia pyrenaica* DC. subsp. *cazorlensis* (Heywood) Galiano & Rivas Martinez (*Aquilegia cazorlensis* Heywood)
+- [tab] *Consolida samia* P. H. Davis
 - [tab] *Delphinium* *caseyi* B. L. Burtt
 - [tab] *Pulsatilla* *grandis* Wend. (*Pulsatilla halleri* [All.] Willd. subsp. *grandis* [Wend.] Meikle)
-- [tab] *Pulsatilla* *patens* (L.) Miller
-- [tab] *Pulsatilla* *slavica* G. Reuss
-- [tab] *Ranunculus* *fontanus* C. Presl
-- [tab] *Ranunculus* *kykkoensis* Meikle
-- [tab] *Ranunculus* *weyleri* Mares
+- [tab] *Pulsatilla patens* (L.) Miller
+- [tab] *Pulsatilla slavica* G. Reuss
+- [tab] *Ranunculus fontanus* C. Presl
+- [tab] *Ranunculus kykkoensis* Meikle
+- [tab] *Ranunculus weyleri* Mares
 
 ### Resedaceae
 
-- [tab] *Reseda* *decursiva* Forssk. Gibraltar
+- [tab] *Reseda decursiva* Forssk. Gibraltar
 
 ### Rosaceae
 
-- [tab] *Crataegus* *dikmensis* Pojark
-- [tab] *Geum* *bulgaricum* Panc.
-- [tab] *Potentilla* *delphinensis* Gren. & Godron
-- [tab] *Potentilla* *emilii-popii* E. I. Nayardy
-- [tab] *Potentilla* *silesiaca* Uechtr.
-- [tab] *Pyrus* *anatolica* Browicz
+- [tab] *Crataegus dikmensis* Pojark
+- [tab] *Geum bulgaricum* Panc.
+- [tab] *Potentilla delphinensis* Gren. & Godron
+- [tab] *Potentilla emilii-popii* E. I. Nayardy
+- [tab] *Potentilla silesiaca* Uechtr.
+- [tab] *Pyrus anatolica* Browicz
 
 ### Rubiaceae
 
-- [tab] *Galium* *cracoviense* Ehrend.
-- [tab] *Galium* *globuliferum* Hub.-Mor. & Reese
-- [tab] *Galium* *litorale* Guss.
-- [tab] *Galium* *moldavicum* (Dobrescu) Franco
-- [tab] *Galium* *rhodopeum* Velen.
-- [tab] *Galium* *viridiflorum* Boiss. & Reuter
+- [tab] *Galium cracoviense* Ehrend.
+- [tab] *Galium globuliferum* Hub.-Mor. & Reese
+- [tab] *Galium litorale* Guss.
+- [tab] *Galium moldavicum* (Dobrescu) Franco
+- [tab] *Galium rhodopeum* Velen.
+- [tab] *Galium viridiflorum* Boiss. & Reuter
 
 ### Santalaceae
 
-- [tab] *Thesium* *ebracteatum* Hayne
+- [tab] *Thesium ebracteatum* Hayne
 
 ### Saxifragaceae
 
-- [tab] *Saxifraga* *berica* (Beguinot) D. A. Webb
-- [tab] *Saxifraga* *cintrana* Kuzinsky ex Willk.
-- [tab] *Saxifraga* *florulenta* Moretti
-- [tab] *Saxifraga* *hirculus* L.
-- [tab] *Saxifraga* *presolanensis* Engl.
-- [tab] *Saxifraga* *tombeanensis* Boiss. ex Engl.
-- [tab] *Saxifraga* *valdensis* DC.
-- [tab] *Saxifraga* *vayredana* Luizet
+- [tab] *Saxifraga berica* (Beguinot) D. A. Webb
+- [tab] *Saxifraga cintrana* Kuzinsky ex Willk.
+- [tab] *Saxifraga florulenta* Moretti
+- [tab] *Saxifraga hirculus* L.
+- [tab] *Saxifraga presolanensis* Engl.
+- [tab] *Saxifraga tombeanensis* Boiss. ex Engl.
+- [tab] *Saxifraga valdensis* DC.
+- [tab] *Saxifraga vayredana* Luizet
 
 ### Scrophulariaceae
 
-- [tab] *Antirrhinum* *charidemi* Lange
-- [tab] *Euphrasia* *marchesettii* Wettst. ex Marches.
-- [tab] *Linaria* *algarviana* Chav.
-- [tab] *Linaria* *ficalhoana* Rouy
-- [tab] *Linaria* *flava* (Poiret) Desf.
-- [tab] *Linaria* *hellenica* Turril
-- [tab] *Linaria* *loeselii* Schweigger
-- [tab] *Linaria* *pseudolaxiflora* Lojacono
-- [tab] *Linaria* *ricardoi* Cout.
-- [tab] *Linaria* *tursica* B. Valdes & Cabezudo
-- [tab] *Lindernia* *procumbens* (Krocker) Philcox
-- [tab] *Odontites* *granatensis* Boiss.
-- [tab] *Pedicularis* *sudetica* Willd.
-- [tab] *Verbascum* *afyonense* Hub.-Mor.
-- [tab] *Verbascum* *basivelatum* Hub.-Mor.
-- [tab] *Verbascum* *cylleneum* (Boiss. & Heldr.) Kuntze
-- [tab] *Verbascum* *degenii* Hal.
-- [tab] *Verbascum* *purpureum* (Janka) Hub.-Mor.
-- [tab] *Verbascum* *stepporum* Hub.-Mor.
-- [tab] *Veronica* *euxina* Turrill
-- [tab] *Veronica* *oetaea* L.-A. Gustavsson
-- [tab] *Veronica* *turrilliana* Stoj. et Stef.
+- [tab] *Antirrhinum charidemi* Lange
+- [tab] *Euphrasia marchesettii* Wettst. ex Marches.
+- [tab] *Linaria algarviana* Chav.
+- [tab] *Linaria ficalhoana* Rouy
+- [tab] *Linaria flava* (Poiret) Desf.
+- [tab] *Linaria hellenica* Turril
+- [tab] *Linaria loeselii* Schweigger
+- [tab] *Linaria pseudolaxiflora* Lojacono
+- [tab] *Linaria ricardoi* Cout.
+- [tab] *Linaria tursica* B. Valdes & Cabezudo
+- [tab] *Lindernia procumbens* (Krocker) Philcox
+- [tab] *Odontites granatensis* Boiss.
+- [tab] *Pedicularis sudetica* Willd.
+- [tab] *Verbascum afyonense* Hub.-Mor.
+- [tab] *Verbascum basivelatum* Hub.-Mor.
+- [tab] *Verbascum cylleneum* (Boiss. & Heldr.) Kuntze
+- [tab] *Verbascum degenii* Hal.
+- [tab] *Verbascum purpureum* (Janka) Hub.-Mor.
+- [tab] *Verbascum stepporum* Hub.-Mor.
+- [tab] *Veronica euxina* Turrill
+- [tab] *Veronica oetaea* L.-A. Gustavsson
+- [tab] *Veronica turrilliana* Stoj. et Stef.
 
 ### Selaginaceae
 
-- [tab] *Globularia* *stygia* Orph. ex Boiss.
+- [tab] *Globularia stygia* Orph. ex Boiss.
 
 ### Solanaceae
 
-- [tab] *Atropa* *baetica* Willk.
-- [tab] *Mandragora* *officinarum* L.
+- [tab] *Atropa baetica* Willk.
+- [tab] *Mandragora officinarum* L.
 
 ### Thymelaeaceae
 
-- [tab] *Daphne* *arbuscula* Celak.
-- [tab] *Daphne* *petraea* Leybold
-- [tab] *Daphne* *rodriguezii* Texidor
-- [tab] *Thymelea* *broterana* Coutinho
+- [tab] *Daphne arbuscula* Celak.
+- [tab] *Daphne petraea* Leybold
+- [tab] *Daphne rodriguezii* Texidor
+- [tab] *Thymelea broterana* Coutinho
 
 ### Trapaceae
 
-- [tab] *Trapa* *natans* L.
+- [tab] *Trapa natans* L.
 
 ### Typhaceae
 
-- [tab] *Typha* *minima* Funk
-- [tab] *Typha* *shuttleworthii* Koch & Sonder
+- [tab] *Typha minima* Funk
+- [tab] *Typha shuttleworthii* Koch & Sonder
 
 ### Ulmaceae
 
-- [tab] *Zelkova* *abelicea* (Lam.) Boiss.
+- [tab] *Zelkova abelicea* (Lam.) Boiss.
 
 ### Umbelliferae
 
-- [tab] *Angelica* *heterocarpa* Lloyd
-- [tab] *Angelica* *palustris* (Besser) Hoffman
-- [tab] *Apium* *bermejoi* Llorens
-- [tab] *Apium* *repens* (Jacq.) Lag.
-- [tab] *Athamanta* *cortiana* Ferrarini
-- [tab] *Bupleurum* *capillare* Boiss. & Heldr.
-- [tab] *Bupleurum* *dianthifolium* Guss.
-- [tab] *Bupleurum* *kakiskalae* Greuter
-- [tab] *Eryngium* *alpinum* L.
-- [tab] *Eryngium* *viviparum* Gay
-- [tab] *Ferula* *halophila* H. Pesmen
-- [tab] *Ferula* *orientalis* L.
-- [tab] *Ferula* *sadleriana* Ledebour
-- [tab] *Laserpitium* *longiradium* Boiss.
-- [tab] *Naufraga* *balearica* Constance & Cannon
-- [tab] *Oenanthe* *conioides* Lange
-- [tab] *Petagnia* *saniculifolia* Guss.
-- [tab] *Rouya* *polygama* (Desf.) Coincy
-- [tab] *Seseli* *intricatum* Boiss.
-- [tab] *Thorella* *verticillatinundata* (Thore) Briq.
+- [tab] *Angelica heterocarpa* Lloyd
+- [tab] *Angelica palustris* (Besser) Hoffman
+- [tab] *Apium bermejoi* Llorens
+- [tab] *Apium repens* (Jacq.) Lag.
+- [tab] *Athamanta cortiana* Ferrarini
+- [tab] *Bupleurum capillare* Boiss. & Heldr.
+- [tab] *Bupleurum dianthifolium* Guss.
+- [tab] *Bupleurum kakiskalae* Greuter
+- [tab] *Eryngium alpinum* L.
+- [tab] *Eryngium viviparum* Gay
+- [tab] *Ferula halophila* H. Pesmen
+- [tab] *Ferula orientalis* L.
+- [tab] *Ferula sadleriana* Ledebour
+- [tab] *Laserpitium longiradium* Boiss.
+- [tab] *Naufraga balearica* Constance & Cannon
+- [tab] *Oenanthe conioides* Lange
+- [tab] *Petagnia saniculifolia* Guss.
+- [tab] *Rouya polygama* (Desf.) Coincy
+- [tab] *Seseli intricatum* Boiss.
+- [tab] *Thorella verticillatinundata* (Thore) Briq.
 
 ### Valerianaceae
 
-- [tab] *Centranthus* *kellererii* (Stoj. Stef. et Georg.) J.K.B. Richardson.
-- [tab] *Centranthus* *trinervis* (Viv.) Beguinot
+- [tab] *Centranthus kellererii* (Stoj. Stef. et Georg.) J.K.B. Richardson.
+- [tab] *Centranthus trinervis* (Viv.) Beguinot
 
 ### Violaceae
 
-- [tab] *Viola* *athois* W. Becker
-- [tab] *Viola* *cazorlensis* Gandoger
-- [tab] *Viola* *cryana* Gillot
-- [tab] *Viola* *delphinantha* Boiss.
-- [tab] *Viola* *hispida* Lam.
-- [tab] *Viola* *jaubertiana* Mares & Vigineix
+- [tab] *Viola athois* W. Becker
+- [tab] *Viola cazorlensis* Gandoger
+- [tab] *Viola cryana* Gillot
+- [tab] *Viola delphinantha* Boiss.
+- [tab] *Viola hispida* Lam.
+- [tab] *Viola jaubertiana* Mares & Vigineix
 
 ### Zannichelliacea
 
-- [tab] *Cymodocea* *nodosa* (Med.)
+- [tab] *Cymodocea nodosa* (Med.)
 
 ### Zosteracea
 
-- [tab] *Zostera* *marina* (Med.)
+- [tab] *Zostera marina* (Med.)
 
 ### Bryophyta
 
@@ -1157,93 +1153,93 @@ Allegato I*[^t-3]*
 
 ### Anthocerotaceae
 
-- [tab] *Notothylas* *orbicularis* (Schwein.) Sull.
+- [tab] *Notothylas orbicularis* (Schwein.) Sull.
 
 ### Bryopsida: Hepaticae
 
 ### Aytoniaceae
 
-- [tab] *Mannia* *triandra* (Scop.) Grolle
+- [tab] *Mannia triandra* (Scop.) Grolle
 
 ### Cephaloziaceae
 
-- [tab] *Cephalozia* *macounii* (Aust.) Aust.
+- [tab] *Cephalozia macounii* (Aust.) Aust.
 
 ### Codoniaceae
 
-- [tab] *Petalophyllum* *ralfsii* (Wils.) Nees et Gott. ex Lehm.
+- [tab] *Petalophyllum ralfsii* (Wils.) Nees et Gott. ex Lehm.
 
 ### Frullaniaceae
 
-- [tab] *Frullania* *parvistipula* Steph.
+- [tab] *Frullania parvistipula* Steph.
 
 ### Gymnomitriaceae
 
-- [tab] *Marsupella* *profunda* Lindb.
+- [tab] *Marsupella profunda* Lindb.
 
 ### Jungermanniaceae
 
-- [tab] *Jungermannia* *handelii* (Schiffn.) Amak.
+- [tab] *Jungermannia handelii* (Schiffn.) Amak.
 
 ### Ricciaceae
 
-- [tab] *Riccia* *breidleri* Jur. ex Steph.
+- [tab] *Riccia breidleri* Jur. ex Steph.
 
 ### Riellaceae
 
-- [tab] *Riella* *helicophylla* (Mont.) Hook.
+- [tab] *Riella helicophylla* (Mont.) Hook.
 
 ### Scapaniaceae
 
-- [tab] *Scapania* *massalongi* (K. Muell.) K. Muell.
+- [tab] *Scapania massalongi* (K. Muell.) K. Muell.
 
 ### Bryopsida: Musci
 
 ### Amblystegiaceae
 
-- [tab] *Drepanocladus* *vernicosus* (Mitt.) Warnst.
+- [tab] *Drepanocladus vernicosus* (Mitt.) Warnst.
 
 ### Bruchiaceae
 
-- [tab] *Bruchia* *vogesiaca* Schwaegr.
+- [tab] *Bruchia vogesiaca* Schwaegr.
 
 ### Buxbaumiaceae
 
-- [tab] *Buxbaumia* *viridis* (Moug. ex Lam. & DC.) Brid. ex Moug. & Nestl.
+- [tab] *Buxbaumia viridis* (Moug. ex Lam. & DC.) Brid. ex Moug. & Nestl.
 
 ### Dicranaceae
 
-- [tab] *Atractylocarpus* *alpinus* (Schimp. ex Milde) Lindb.
-- [tab] *Cynodontium* *suecicum* (H. Arn. & C. Jens) I. Hag.
-- [tab] *Dicranum* *viride* (Sull. & Lesq.) Lindb.
+- [tab] *Atractylocarpus alpinus* (Schimp. ex Milde) Lindb.
+- [tab] *Cynodontium suecicum* (H. Arn. & C. Jens) I. Hag.
+- [tab] *Dicranum viride* (Sull. & Lesq.) Lindb.
 
 ### Fontinalaceae
 
-- [tab] *Dichelyma* *capillaceum* (With.) Myr.
+- [tab] *Dichelyma capillaceum* (With.) Myr.
 
 ### Funariaceae
 
-- [tab] *Pyramidula* *tetragona* (Brid.) Brid.
+- [tab] *Pyramidula tetragona* (Brid.) Brid.
 
 ### Hookeriaceae
 
-- [tab] *Distichophyllum* *carinatum* Dix. & Nich.
+- [tab] *Distichophyllum carinatum* Dix. & Nich.
 
 ### Meesiaceae
 
-- [tab] *Meesia* *longiseta* Hedw.
+- [tab] *Meesia longiseta* Hedw.
 
 ### Orthotrichaceae
 
-- [tab] *Orthotrichum* *rogeri* Brid.
+- [tab] *Orthotrichum rogeri* Brid.
 
 ### Sphagnaceae
 
-- [tab] *Sphagnum* *pylaisii* Brid.
+- [tab] *Sphagnum pylaisii* Brid.
 
 ### Splachnaceae
 
-- [tab] *Tayloria* *rudolphiana* (Garov.) B. S. G.
+- [tab] *Tayloria rudolphiana* (Garov.) B. S. G.
 
 ### Specie endemiche della regione macaronesica
 
@@ -1251,302 +1247,302 @@ Allegato I*[^t-3]*
 
 ### Aspleniaceae
 
-- [tab] *Asplenium* *azoricum* Lovis
+- [tab] *Asplenium azoricum* Lovis
 
 ### Dryopteridaceae
 
-- [tab] *Polystichum* *drepanum* (Swartz) C. Presl
+- [tab] *Polystichum drepanum* (Swartz) C. Presl
 
 ### Hymenophyllaceae
 
-- [tab] *Hymenophyllum* *maderensis* Gibby & Lowis
+- [tab] *Hymenophyllum maderensis* Gibby & Lowis
 
 ### Isoetaceae
 
-- [tab] *Isoetes* *azorica* Durieu ex Milde
+- [tab] *Isoetes azorica* Durieu ex Milde
 
 ### Lycopodiaceae
 
-- [tab] *Diphasium* *maderense* (Wilce.) Rothm.
+- [tab] *Diphasium maderense* (Wilce.) Rothm.
 
 ### Marsileaceae
 
-- [tab] *Marsilea* *azorica* Launert
+- [tab] *Marsilea azorica* Launert
 
 ### Gymnospermae
 
 ### Cupresaceae
 
-- [tab] *Juniperus* *brevifolia* (Seub.) Antoine
+- [tab] *Juniperus brevifolia* (Seub.) Antoine
 
 ### Angiospermae
 
 ### Agavaceae
 
-- [tab] *Dracaena* *draco* (L.) L.
+- [tab] *Dracaena draco* (L.) L.
 
 ### Asclepiadaceae
 
-- [tab] *Caralluma* *burchardii* N. E. Brown
-- [tab] *Ceropegia* *chrysantha* Svent.
+- [tab] *Caralluma burchardii* N. E. Brown
+- [tab] *Ceropegia chrysantha* Svent.
 
 ### Berberidaceae
 
-- [tab] *Berberis* *maderensis* Lowe
+- [tab] *Berberis maderensis* Lowe
 
 ### Boraginaceae
 
-- [tab] *Echium* *gentianoides* Webb ex Coincy
-- [tab] *Echium* *handiense* Svent.
-- [tab] *Echium* *pininana* Webb et Berth.
-- [tab] *Myosotis* *azorica* H. C. Watson
-- [tab] *Myosotis* *maritima* Hochst. ex Seub.
+- [tab] *Echium gentianoides* Webb ex Coincy
+- [tab] *Echium handiense* Svent.
+- [tab] *Echium pininana* Webb et Berth.
+- [tab] *Myosotis azorica* H. C. Watson
+- [tab] *Myosotis maritima* Hochst. ex Seub.
 
 ### Campanulaceae
 
-- [tab] *Azorina* *vidalii* (H. C. Watson) Feer
-- [tab] *Musschia* *aurea* (L. f.) DC.
-- [tab] *Musschia* *wollastonii* Lowe
+- [tab] *Azorina vidalii* (H. C. Watson) Feer
+- [tab] *Musschia aurea* (L. f.) DC.
+- [tab] *Musschia wollastonii* Lowe
 
 ### Caprifoliaceae
 
-- [tab] *Sambucus* *palmensis* Link
+- [tab] *Sambucus palmensis* Link
 
 ### Caryophyllaceae
 
-- [tab] *Cerastium* *azoricum* Hochst
-- [tab] *Silene* *nocteolens* Webb et Berth.
+- [tab] *Cerastium azoricum* Hochst
+- [tab] *Silene nocteolens* Webb et Berth.
 
 ### Cistaceae
 
-- [tab] *Cistus* *chinamadensis* Bañares & Romero
-- [tab] *Helianthemum* *bystropogophyllum* Svent.
-- [tab] *Helianthemum* *teneriffae* Cosson
+- [tab] *Cistus chinamadensis* Bañares & Romero
+- [tab] *Helianthemum bystropogophyllum* Svent.
+- [tab] *Helianthemum teneriffae* Cosson
 
 ### Compositae
 
-- [tab] *Andryala* *crithmifolia* Ait.
-- [tab] *Argyranthemum* *lidii* Humphries
-- [tab] *Argyranthemum* *pinnatifidum* (L. F.) Lowe subsp. *succulentum* (Lowe) Humphries
-- [tab] *Argyranthemum* *winterii* (Svent.) Humphries
-- [tab] *Atractylis* *arbuscula* Svent. & Michaelis
-- [tab] *Atractylis* *preauxiana* Schultz Bip.
-- [tab] *Bellis* *azorica* Hochst. ex Seub.
-- [tab] *Calendula* *maderensis* DC.
-- [tab] *Cheirolophus* *duranii* (Burchard) Holub
-- [tab] *Cheirolophus* *falsisectus* Montelongo et Moraleda
-- [tab] *Cheirolophus* *ghomerythus* (Svent.) Holub
-- [tab] *Cheirolophus* *junonianus* (Svent.) Holub
-- [tab] *Cheirolophus* *metlesicsii* Montelongo
-- [tab] *Cheirolophus* *santosabreui* Santos
-- [tab] *Cheirolophus* *satarataensis* (Svent.) Holub
-- [tab] *Cheirolophus* *tagananensis* (Svent.) Holub
+- [tab] *Andryala crithmifolia* Ait.
+- [tab] *Argyranthemum lidii* Humphries
+- [tab] *Argyranthemum pinnatifidum* (L. F.) Lowe subsp. *succulentum* (Lowe) Humphries
+- [tab] *Argyranthemum winterii* (Svent.) Humphries
+- [tab] *Atractylis arbuscula* Svent. & Michaelis
+- [tab] *Atractylis preauxiana* Schultz Bip.
+- [tab] *Bellis azorica* Hochst. ex Seub.
+- [tab] *Calendula maderensis* DC.
+- [tab] *Cheirolophus duranii* (Burchard) Holub
+- [tab] *Cheirolophus falsisectus* Montelongo et Moraleda
+- [tab] *Cheirolophus ghomerythus* (Svent.) Holub
+- [tab] *Cheirolophus junonianus* (Svent.) Holub
+- [tab] *Cheirolophus metlesicsii* Montelongo
+- [tab] *Cheirolophus santosabreui* Santos
+- [tab] *Cheirolophus satarataensis* (Svent.) Holub
+- [tab] *Cheirolophus tagananensis* (Svent.) Holub
 - [tab] *Helichrysum* *monogynum* B. L. Burth. & Sunding
-- [tab] *Helichrysum* *gossypinum* Webb
-- [tab] *Hypochoeris* *oligocephala* (Svent. & D. Bramwell) Lack
-- [tab] *Lactuca* *watsoniana* Trelease
+- [tab] *Helichrysum gossypinum* Webb
+- [tab] *Hypochoeris oligocephala* (Svent. & D. Bramwell) Lack
+- [tab] *Lactuca watsoniana* Trelease
 - [tab] *Leotodon* *filii* (Hochst. ex Seub.) Paiva & Orm.
 - [tab] *Onopordum* *carduelinum* Bolle
 - [tab] *Onopordum* *nogalesii* Svent.
-- [tab] *Pericallis* *hadrosomus* Svent.
-- [tab] *Pericallis* *malvifolia* (L’Hér) B. Nord.
-- [tab] *Phagnalon* *benetii* Lowe
-- [tab] *Senecio* *hermosae* Pitard
-- [tab] *Sonchus* *gandogeri* Pitard
-- [tab] *Stemmacantha* *cynaroides*
-- [tab] *Sventenia* *bupleuroides* Font Quer
-- [tab] *Tanacetum* *o’shanahanii* Febles. Marrero et Suárez
-- [tab] *Tanacetum* *ptarmiciflorum* (Webb) Schultz Bip.
-- [tab] *Tolpis* *glabrescens* Kämmer
+- [tab] *Pericallis hadrosomus* Svent.
+- [tab] *Pericallis malvifolia* (L’Hér) B. Nord.
+- [tab] *Phagnalon benetii* Lowe
+- [tab] *Senecio hermosae* Pitard
+- [tab] *Sonchus gandogeri* Pitard
+- [tab] *Stemmacantha cynaroides*
+- [tab] *Sventenia bupleuroides* Font Quer
+- [tab] *Tanacetum o’shanahanii* Febles. Marrero et Suárez
+- [tab] *Tanacetum ptarmiciflorum* (Webb) Schultz Bip.
+- [tab] *Tolpis glabrescens* Kämmer
 
 ### Convolvulaceae
 
-- [tab] *Convolvulus* *caput-medusae* Lowe
-- [tab] *Convolvulus* *lopez-socasi* Svent.
-- [tab] *Convolvulus* *massonii* A. Dietr.
-- [tab] *Pharbitis* *preauxii* Webb
+- [tab] *Convolvulus caput-medusae* Lowe
+- [tab] *Convolvulus lopez-socasi* Svent.
+- [tab] *Convolvulus massonii* A. Dietr.
+- [tab] *Pharbitis preauxii* Webb
 
 ### Crassulaceae
 
-- [tab] *Aeonium* *balsamiferum* Webb et Berth.
-- [tab] *Aeonium* *gomeraense* Praeger
-- [tab] *Aeonium* *saundersii* Bolle
-- [tab] *Aichrysum* *dumosum* (Lowe) Praeg.
-- [tab] *Monanthes* *wildpretii* Bañares & Scholz
+- [tab] *Aeonium balsamiferum* Webb et Berth.
+- [tab] *Aeonium gomeraense* Praeger
+- [tab] *Aeonium saundersii* Bolle
+- [tab] *Aichrysum dumosum* (Lowe) Praeg.
+- [tab] *Monanthes wildpretii* Bañares & Scholz
 
 ### Cruciferae
 
-- [tab] *Crambe* *arborea* Webb ex Christ
-- [tab] *Crambe* *laevigata* DC. ex Christ
-- [tab] *Crambe* *scoparia* Svent.
-- [tab] *Crambe* *sventenii* B. Petters. ex. Bramw. & Sunding
-- [tab] *Parolinia* *schizogynoides* Svent
-- [tab] *Sinapidendron* *sempervivifolium* Mnzs
+- [tab] *Crambe arborea* Webb ex Christ
+- [tab] *Crambe laevigata* DC. ex Christ
+- [tab] *Crambe scoparia* Svent.
+- [tab] *Crambe sventenii* B. Petters. ex. Bramw. & Sunding
+- [tab] *Parolinia schizogynoides* Svent
+- [tab] *Sinapidendron sempervivifolium* Mnzs
 
 ### Cyperaceae
 
-- [tab] *Carex* *malato-belizii* Raymond
+- [tab] *Carex malato-belizii* Raymond
 
 ### Dipsacaceae
 
-- [tab] *Scabiosa* *nitens* Roem. & Schult
+- [tab] *Scabiosa nitens* Roem. & Schult
 
 ### Ericaceae
 
-- [tab] *Daboecia* *azorica* Tutin & Warb
-- [tab] *Erica* *scoparia* L. subsp. *azorica* (Hochst.) D. A. Webb
+- [tab] *Daboecia azorica* Tutin & Warb
+- [tab] *Erica scoparia* L. subsp. *azorica* (Hochst.) D. A. Webb
 
 ### Euphorbiaceae
 
-- [tab] *Euphorbia* *bourgaeana* Gay ex Boiss
-- [tab] *Euphorbia* *handiensis* Burchard
-- [tab] *Euphorbia* *lambii* Svent.
-- [tab] *Euphorbia* *stygiana* H. C. Watson
+- [tab] *Euphorbia bourgaeana* Gay ex Boiss
+- [tab] *Euphorbia handiensis* Burchard
+- [tab] *Euphorbia lambii* Svent.
+- [tab] *Euphorbia stygiana* H. C. Watson
 
 ### Geraniaceae
 
-- [tab] *Geranium* *maderense* Yeo
+- [tab] *Geranium maderense* Yeo
 
 ### Gramineae
 
-- [tab] *Agrostis* *gracilaxa* Franco
-- [tab] *Deschampsia* *maderensis* (Hack. et Bornm.) Buschm.
-- [tab] *Phalaris* *maderensis* (Mnzs.) Mnzs
+- [tab] *Agrostis gracilaxa* Franco
+- [tab] *Deschampsia maderensis* (Hack. et Bornm.) Buschm.
+- [tab] *Phalaris maderensis* (Mnzs.) Mnzs
 
 ### Labiatae
 
-- [tab] *Micromeria* *glomerata* P. Pérez
-- [tab] *Micromeria* *leucantha* Svent. ex Pérez
-- [tab] *Salvia* *herbanica* Santos et Fernández
-- [tab] *Sideritis* *cystosiphon* Svent.
-- [tab] *Sideritis* *discolor* (Webb ex de Noe) Bolle
-- [tab] *Sideritis* *infernalis* Bolle
-- [tab] *Sideritis* *marmorea* Bolle
-- [tab] *Teucrium* *abutiloides* l’Her
+- [tab] *Micromeria glomerata* P. Pérez
+- [tab] *Micromeria leucantha* Svent. ex Pérez
+- [tab] *Salvia herbanica* Santos et Fernández
+- [tab] *Sideritis cystosiphon* Svent.
+- [tab] *Sideritis discolor* (Webb ex de Noe) Bolle
+- [tab] *Sideritis infernalis* Bolle
+- [tab] *Sideritis marmorea* Bolle
+- [tab] *Teucrium abutiloides* l’Her
 
 ### Leguminosae
 
-- [tab] *Adenocarpus* *ombriosus* Ceb. & Ort.
-- [tab] *Anthyllis* *lemanniana* Lowe
-- [tab] *Anagyris* *latifolia* Brouss. ex Willd.
-- [tab] *Cicer* *canariensis* Santos & Gweil
-- [tab] *Dorycnium* *spectabile* Webb & Berthel.
-- [tab] *Genista* *benehoavensis* (Bolle ex Svent.) Del Arco
+- [tab] *Adenocarpus ombriosus* Ceb. & Ort.
+- [tab] *Anthyllis lemanniana* Lowe
+- [tab] *Anagyris latifolia* Brouss. ex Willd.
+- [tab] *Cicer canariensis* Santos & Gweil
+- [tab] *Dorycnium spectabile* Webb & Berthel.
+- [tab] *Genista benehoavensis* (Bolle ex Svent.) Del Arco
 - [tab] *Lotus* *azoricus* P. W. Ball
-- [tab] *Lotus* *callis-viridis* D. Bramwell & D. H. Davis
-- [tab] *Lotus* *eremiticus* Santos
-- [tab] *Lotus* *kunkelii* (E. Chueca) D. Bramwell et al.
-- [tab] *Lotus* *maculatus* Breitfeld
-- [tab] *Lotus* *pyranthus* P. Perez
-- [tab] *Teline* *nervosa* (Esteve) A. Hansen et Sund.
-- [tab] *Teline* *rosmarinifolia* Webb & Berthel.
-- [tab] *Teline* *salsoloides* Arco & Acebes
-- [tab] *Vicia* *dennesiana* H. C. Watson
+- [tab] *Lotus callis-viridis* D. Bramwell & D. H. Davis
+- [tab] *Lotus eremiticus* Santos
+- [tab] *Lotus kunkelii* (E. Chueca) D. Bramwell et al.
+- [tab] *Lotus maculatus* Breitfeld
+- [tab] *Lotus pyranthus* P. Perez
+- [tab] *Teline nervosa* (Esteve) A. Hansen et Sund.
+- [tab] *Teline rosmarinifolia* Webb & Berthel.
+- [tab] *Teline salsoloides* Arco & Acebes
+- [tab] *Vicia dennesiana* H. C. Watson
 
 ### Liliaceae
 
-- [tab] *Androcymbium* *psammophilum* Svent.
-- [tab] *Smilax* *divaricata* Sol. ex Wats
+- [tab] *Androcymbium psammophilum* Svent.
+- [tab] *Smilax divaricata* Sol. ex Wats
 
 ### Myricaceae
 
-- [tab] *Myrica* *rivas-martinezii* Santos
+- [tab] *Myrica rivas-martinezii* Santos
 
 ### Oleaceae
 
-- [tab] *Jasminium* *azoricum* L.
-- [tab] *Picconia* *azorica* (Tutin) Knbol
+- [tab] *Jasminium azoricum* L.
+- [tab] *Picconia azorica* (Tutin) Knbol
 
 ### Orchidaceae
 
-- [tab] *Barlia* *metlesicsiaca* Teschner
-- [tab] *Goodyera* *macrophylla* Lowe
-- [tab] *Orchis* *scopulorum* Summerh
+- [tab] *Barlia metlesicsiaca* Teschner
+- [tab] *Goodyera macrophylla* Lowe
+- [tab] *Orchis scopulorum* Summerh
 
 ### Pittosporaceae
 
-- [tab] *Pittosporum* *coriaceum* Dryander ex Aiton
+- [tab] *Pittosporum coriaceum* Dryander ex Aiton
 
 ### Plantaginaceae
 
-- [tab] *Plantago* *famarae* Svent.
-- [tab] *Plantago* *malato-belizii* Lawalree
+- [tab] *Plantago famarae* Svent.
+- [tab] *Plantago malato-belizii* Lawalree
 
 ### Plumbaginaceae
 
-- [tab] *Limonium* *arborescens* (Brouss.) Kuntze
-- [tab] *Limonium* *dendroides* Svent.
-- [tab] *Limonium* *fruticans* (Webb) O. Kuntze
-- [tab] *Limonium* *perezii* (Stapf) Hubb
+- [tab] *Limonium arborescens* (Brouss.) Kuntze
+- [tab] *Limonium dendroides* Svent.
+- [tab] *Limonium fruticans* (Webb) O. Kuntze
+- [tab] *Limonium perezii* (Stapf) Hubb
 - [tab] *Limonium* *preauxii* (Webb et Berth.) O. Kuntze
-- [tab] *Limonium* *spectabile* (Svent.) Kunkel & Sunding
-- [tab] *Limonium* *sventenii* Santos & Fernandez Galvan
+- [tab] *Limonium spectabile* (Svent.) Kunkel & Sunding
+- [tab] *Limonium sventenii* Santos & Fernandez Galvan
 
 ### Polygonaceae
 
-- [tab] *Rumex* *azoricus* Rech
+- [tab] *Rumex azoricus* Rech
 
 ### Rhamnaceae
 
-- [tab] *Frangula* *azorica* Tutin
+- [tab] *Frangula azorica* Tutin
 
 ### Rosaceae
 
-- [tab] *Bencomia* *brachystachya* Svent.
-- [tab] *Bencomia* *exstipulata* Svent.
-- [tab] *Bencomia* *sphaerocarpa* Svent.
-- [tab] *Chamaemeles* *coriacea* Lindl.
-- [tab] *Dendriopoterium* *pulidoi* Svent.
-- [tab] *Marcetella* *maderensis* (Bornm.) Svent.
-- [tab] *Prunus* *lusitanica* subsp. *azorica* (Moui.). Franco
+- [tab] *Bencomia brachystachya* Svent.
+- [tab] *Bencomia exstipulata* Svent.
+- [tab] *Bencomia sphaerocarpa* Svent.
+- [tab] *Chamaemeles coriacea* Lindl.
+- [tab] *Dendriopoterium pulidoi* Svent.
+- [tab] *Marcetella maderensis* (Bornm.) Svent.
+- [tab] *Prunus lusitanica* subsp. *azorica* (Moui.). Franco
 
 ### Rutaceae
 
-- [tab] *Ruta* *microcarpa* Svent
+- [tab] *Ruta microcarpa* Svent
 
 ### Santalaceae
 
-- [tab] *Kunkeliella* *canariensis* Stearn
-- [tab] *Kunkeliella* *psilotoclada* (Svent.) Stearn
-- [tab] *Kunkeliella* *subsucculenta* Kammer
+- [tab] *Kunkeliella canariensis* Stearn
+- [tab] *Kunkeliella psilotoclada* (Svent.) Stearn
+- [tab] *Kunkeliella subsucculenta* Kammer
 
 ### Sapotaceae
 
-- *Sideroxylon* *marmulano* Banks ex Lowe
+- *Sideroxylon marmulano* Banks ex Lowe
 
 ### Saxifragaceae
 
-- [tab] *Saxifraga* *portosanctana* Boiss
+- [tab] *Saxifraga portosanctana* Boiss
 
 ### Scrophulariaceae
 
-- [tab] *Euphrasia* *azorica* H. C. Watson
-- [tab] *Euphrasia* *grandiflora* Hochst.
-- [tab] *Isoplexis* *chalcantha* Svent. & O’Shanahan
-- [tab] *Isoplexis* *isabelliana* (Webb & Berthel.) Masferrer
+- [tab] *Euphrasia azorica* H. C. Watson
+- [tab] *Euphrasia grandiflora* Hochst.
+- [tab] *Isoplexis chalcantha* Svent. & O’Shanahan
+- [tab] *Isoplexis isabelliana* (Webb & Berthel.) Masferrer
 
 ### Selaginaceae
 
-- [tab] *Globularia* *ascanii* D. Bramwell & Kunkel
-- [tab] *Globularia* *sarcophylla* Svent
+- [tab] *Globularia ascanii* D. Bramwell & Kunkel
+- [tab] *Globularia sarcophylla* Svent
 
 ### Solanaceae
 
-- [tab] *Solanum* *lidii* Sunding
+- [tab] *Solanum lidii* Sunding
 
 ### Umbelliferae
 
-- [tab] *Ammi* *trifoliatum* (Wats.) Trel.
-- [tab] *Bunium* *brevifolium* Lowe
-- [tab] *Bupleurum* *handiense* (Bolle) Kunkel
-- [tab] *Chaerophylum* *azoricum* Trel
-- [tab] *Monizia* *edulis* Lowe
-- [tab] *Ferula* *latipinna* Santos
-- [tab] *Sanicula* *azorica* Gunthn. ex Seub
+- [tab] *Ammi trifoliatum* (Wats.) Trel.
+- [tab] *Bunium brevifolium* Lowe
+- [tab] *Bupleurum handiense* (Bolle) Kunkel
+- [tab] *Chaerophylum azoricum* Trel
+- [tab] *Monizia edulis* Lowe
+- [tab] *Ferula latipinna* Santos
+- [tab] *Sanicula azorica* Gunthn. ex Seub
 
 ### Violaceae
 
-- [tab] *Viola* *paradoxa* Lowe
+- [tab] *Viola paradoxa* Lowe
 
 ### Bryophyta
 
@@ -1554,17 +1550,17 @@ Allegato I*[^t-3]*
 
 ### Echinodiaceae
 
-- [tab] *Echinodium* *spinosum* (Mitt.) Jur.
+- [tab] *Echinodium spinosum* (Mitt.) Jur.
 
 ### Pottiaceae
 
-- [tab] *Bryoerythrophyllum* *machadoanum* (Sergio) M. Hill
+- [tab] *Bryoerythrophyllum machadoanum* (Sergio) M. Hill
 
 ### Thamniaceae
 
 - [tab] *Thamnobryum fernandesii* Sergio
 
-Allegato II*[^t-4]*
+Allegato II[^t-4]
 
 ## Specie faunistiche assolutamente protette
 
@@ -2434,7 +2430,7 @@ Salamandra lanzai (Salamandra atra lanzai)
 
 <sup>6</sup> *Discus defloratus:* non è più riconosciuta come una specie valida dal punto di vista tassonomico essendo descritta solamente a partire da qualche specimen; ormai riconosciuta come appartenente a una specie differente da *Discus.*
 
-Allegato III*[^t-5]*
+Allegato III[^t-5]
 
 ## Specie faunistiche protette
 
@@ -2774,22 +2770,22 @@ Allegato III*[^t-5]*
 
 ### Hexacorallia
 
-- [tab] *Antipathes* *sp. plur.* (Med.)
+- [tab] *Antipathes sp. plur.* (Med.)
 
 ### Alcionaria
 
-- [tab] *Corallium* *rubrun* (Med.)
+- [tab] *Corallium rubrun* (Med.)
 
 ### Eponges
 
 ### Porifera
 
-- [tab] *Hippospongia* *communis* (Med.)
+- [tab] *Hippospongia communis* (Med.)
 - [tab] Spongia agaricina *(Med.)*
 - [tab] *Spongia* officinalis *(Med.)*
 - [tab] *Spongia* zimocca *(Med.)*
 
-Allegato IV*[^t-6]*
+Allegato IV[^t-6]
 
 ## Mezzi e metodi di uccisione e di cattura e altre forme di sfruttamento vietati
 
