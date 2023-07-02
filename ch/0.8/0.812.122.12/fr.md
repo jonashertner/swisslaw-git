@@ -3,11 +3,11 @@ sr: "0.812.122.12"
 title: Protocole additionnel du 12 septembre 2002 à la Convention contre le dopage
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/50"
 language: fr
-version: 2017-08-11
+version: 2023-07-03
 adopted: 2002-09-12
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/50/20170811/fr/xml/fedlex-data-admin-ch-eli-cc-2005-50-20170811-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/50/20170811/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/50/20230703/fr/xml/fedlex-data-admin-ch-eli-cc-2005-50-20230703-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/50/20230703/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 4 octobre 2004
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> février 2005
 
-(Etat le 11 août 2017)
+(État le 3 juillet 2023)
 
 [^t-1]: [RO 2005 415](https://fedlex.data.admin.ch/eli/oc/2005/49)
 
@@ -78,7 +78,7 @@ Aucune réserve n’est admise aux dispositions du présent Protocole.
 
 Le présent Protocole est ouvert à la signature des États membres du Conseil de l’Europe et des autres États signataires de la Convention ou Parties à celle-ci, qui peuvent exprimer leur consentement à être liés par:
 
-- a. signature sans réserve de ratification, d’acceptation ou d’approbation; ou
+- a. signature sans réserve de ratification, d’acceptation ou d’approbation, ou
 - b. signature, sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation.
 
 <sup>2.</sup> Un signataire de la Convention ne peut signer le présent Protocole sans réserve de ratification, d’acceptation ou d’approbation, ou déposer un instrument de ratification, d’acceptation ou d’approbation, sans avoir, antérieurement ou simultanément, exprimé son consentement à être lié par la Convention.
@@ -133,7 +133,7 @@ Le Secrétaire général du Conseil de l’Europe notifiera à tous les États m
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Varsovie, le 12 septembre 2002, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux autres États signataires de la Convention ou Parties à celle-ci et à tout État invité à adhérer à la Convention. (Suivent les signatures)
 
-Champ d’application le 11 août 2017**[^t-2]**
+Champ d’application le 3 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -141,14 +141,16 @@ Champ d’application le 11 août 2017**[^t-2]**
 <tr><td>Arménie</td><td>14 septembre</td><td>2006</td><td>1<sup>er</sup> janvier</td><td>2007</td></tr>
 <tr><td>Autriche</td><td>3 février</td><td>2004</td><td>1<sup>er</sup> juin</td><td>2004</td></tr>
 <tr><td>Azerbaïdjan</td><td>11 février</td><td>2004</td><td>1<sup>er</sup> juin</td><td>2004</td></tr>
+<tr><td>Bélarus</td><td>10 janvier</td><td>2018</td><td>1<sup>er</sup> mai</td><td>2018</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>30 mars</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2009</td></tr>
-<tr><td>Bulgarie</td><td>13 juin</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
+<tr><td>Bulgarie</td><td>13 juin</td><td>2005 Si</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
 <tr><td>Chypre</td><td>15 décembre</td><td>2004</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
 <tr><td>Danemark</td><td>12 septembre</td><td>2002 Si</td><td>1<sup>er</sup> avril</td><td>2004</td></tr>
 <tr><td>Espagne\*</td><td>19 juillet</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
 <tr><td>Estonie</td><td>26 novembre</td><td>2004 Si</td><td>1<sup>er</sup> mars</td><td>2005</td></tr>
 <tr><td>Hongrie</td><td>21 juin</td><td>2007</td><td>1<sup>er</sup> octobre</td><td>2007</td></tr>
 <tr><td>Islande</td><td>30 mars</td><td>2004 Si</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
+<tr><td>Italie</td><td>5 juin</td><td>2023</td><td>1<sup>er</sup> octobre</td><td>2023</td></tr>
 <tr><td>Lettonie</td><td>9 décembre</td><td>2003</td><td>1<sup>er</sup> avril</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>8 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2006</td></tr>
 <tr><td>Lituanie</td><td>9 novembre</td><td>2004</td><td>1<sup>er</sup> mars</td><td>2005</td></tr>
@@ -164,7 +166,7 @@ Champ d’application le 11 août 2017**[^t-2]**
 <tr><td>Suisse</td><td>4 octobre</td><td>2004</td><td>1<sup>er</sup> février</td><td>2005</td></tr>
 <tr><td>Tunisie</td><td>26 février</td><td>2004 A</td><td>1<sup>er</sup> juin</td><td>2004</td></tr>
 <tr><td>Ukraine</td><td>4 novembre</td><td>2004</td><td>1<sup>er</sup> mars</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 417](https://fedlex.data.admin.ch/eli/oc/2005/50)[1633](https://fedlex.data.admin.ch/eli/oc/2005/259), [2007 4467](https://fedlex.data.admin.ch/eli/oc/2007/628), [2011 3635](https://fedlex.data.admin.ch/eli/oc/2011/504), [2017 4083](https://fedlex.data.admin.ch/eli/oc/2017/489). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 417](https://fedlex.data.admin.ch/eli/oc/2005/50), [1633](https://fedlex.data.admin.ch/eli/oc/2005/259); [2007 4467](https://fedlex.data.admin.ch/eli/oc/2007/628); [2011 3635](https://fedlex.data.admin.ch/eli/oc/2011/504); [2017 4083](https://fedlex.data.admin.ch/eli/oc/2017/489); [2023 363](https://fedlex.data.admin.ch/eli/oc/2023/363). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

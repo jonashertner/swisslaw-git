@@ -3,11 +3,11 @@ sr: "0.812.122.12"
 title: Zusatzprotokoll vom 12. September 2002 zum Übereinkommen gegen Doping
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/50"
 language: de
-version: 2017-08-11
+version: 2023-07-03
 adopted: 2002-09-12
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/50/20170811/de/xml/fedlex-data-admin-ch-eli-cc-2005-50-20170811-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/50/20170811/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/50/20230703/de/xml/fedlex-data-admin-ch-eli-cc-2005-50-20230703-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/50/20230703/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2005** 417; BBl **2003** 7751
 
 Abgeschlossen in Warschau am 12. September 2002 Von der Bundesversammlung genehmigt am 7. Juni 2004[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 4. Oktober 2004 Inkrafttreten für die Schweiz am 1. Februar 2005
 
-(Stand am 11. August 2017)
+(Stand am 3. Juli 2023)
 
 [^t-1]: [AS 2005 415](https://fedlex.data.admin.ch/eli/oc/2005/49)
 
@@ -127,18 +127,20 @@ Der Generalsekretär des Europarats notifiziert allen Mitgliedstaaten des Europa
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Warschau am 12. September 2002 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den anderen Unterzeichner- oder Vertragsstaaten des Übereinkommens sowie jedem Staat, der zum Beitritt zum Übereinkommen eingeladen wurde, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 11. August 2017**[^t-2]**
+Geltungsbereich am 3. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Armenien</td><td>14. September</td><td>2006</td><td>1. Januar</td><td>2007</td></tr>
 <tr><td>Aserbaidschan</td><td>11. Februar</td><td>2004</td><td>1. Juni</td><td>2004</td></tr>
+<tr><td>Belarus</td><td>10. Januar</td><td>2018</td><td>1. Mai</td><td>2018</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>30. März</td><td>2009</td><td>1. Juli</td><td>2009</td></tr>
-<tr><td>Bulgarien</td><td>13. Juni</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
+<tr><td>Bulgarien</td><td>13. Juni</td><td>2005 U</td><td>1. Oktober</td><td>2005</td></tr>
 <tr><td>Dänemark</td><td>12. September</td><td>2002 U</td><td>1. April</td><td>2004</td></tr>
 <tr><td>Deutschland</td><td>15. Januar</td><td>2008</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Estland</td><td>26. November</td><td>2004 U</td><td>1. März</td><td>2005</td></tr>
 <tr><td>Island</td><td>30. März</td><td>2004 U</td><td>1. Juli</td><td>2004</td></tr>
+<tr><td>Italien</td><td>5. Juni</td><td>2023</td><td>1. Oktober</td><td>2023</td></tr>
 <tr><td>Lettland</td><td>9. Dezember</td><td>2003</td><td>1. April</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>8. Februar</td><td>2006</td><td>1. Juni</td><td>2006</td></tr>
 <tr><td>Litauen</td><td>9. November</td><td>2004</td><td>1. März</td><td>2005</td></tr>
@@ -159,7 +161,7 @@ Geltungsbereich am 11. August 2017**[^t-2]**
 <tr><td>Ungarn</td><td>21. Juni</td><td>2007</td><td>1. Oktober</td><td>2007</td></tr>
 <tr><td>Zypern</td><td>15. Dezember</td><td>2004</td><td>1. April</td><td>2005</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2005 417](https://fedlex.data.admin.ch/eli/oc/2005/50)[1633](https://fedlex.data.admin.ch/eli/oc/2005/259), [2007 4467](https://fedlex.data.admin.ch/eli/oc/2007/628), [2011 3635](https://fedlex.data.admin.ch/eli/oc/2011/504)und [2017 4083](https://fedlex.data.admin.ch/eli/oc/2017/489). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2005 417](https://fedlex.data.admin.ch/eli/oc/2005/50), [1633](https://fedlex.data.admin.ch/eli/oc/2005/259); [2007 4467](https://fedlex.data.admin.ch/eli/oc/2007/628); [2011 3635](https://fedlex.data.admin.ch/eli/oc/2011/504); [2017 4083](https://fedlex.data.admin.ch/eli/oc/2017/489); [2023 363](https://fedlex.data.admin.ch/eli/oc/2023/363). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

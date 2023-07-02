@@ -3,11 +3,11 @@ sr: "0.812.122.12"
 title: Protocollo aggiuntivo del 12 settembre 2002 alla Convenzione contro il doping
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/50"
 language: it
-version: 2017-08-11
+version: 2023-07-03
 adopted: 2002-09-12
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/50/20170811/it/xml/fedlex-data-admin-ch-eli-cc-2005-50-20170811-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/50/20170811/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/50/20230703/it/xml/fedlex-data-admin-ch-eli-cc-2005-50-20230703-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/50/20230703/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Varsavia il 12 settembre 2002 Approvato dall’Assemblea federale il 7 giugno 2004[^t-1] Ratificato con strumenti depositati dalla Svizzera il 4 ottobre 2004 Entrato in vigore per la Svizzera il 1° febbraio 2005
 
-(Stato 11 agosto 2017)
+(Stato 3 luglio 2023)
 
 [^t-1]: [RU 2005 415](https://fedlex.data.admin.ch/eli/oc/2005/49)
 
@@ -127,13 +127,14 @@ Il Segretario Generale del Consiglio d’Europa notifica a tutti gli Stati membr
 
 *In fede di che*, i sottoscritti, a tal fine debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Varsavia il 12 settembre 2002 in francese e in inglese, entrambi i testi facenti ugualmente fede, in un unico esemplare che sarà depositato nell’archivio del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne comunicherà copie certificate conformi a ciascuno degli Stati membri del Consiglio d’Europa, agli altri Stati firmatari o Stati contraenti della Convenzione nonché ad ogni Stato invitato ad aderire alla Convenzione. (Seguono le firme)
 
-Campo d’applicazione l’11 agosto 2017**[^t-2]**
+Campo d’applicazione il 3 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Armenia</td><td>14 settembre</td><td>2006</td><td>1° gennaio</td><td>2007</td></tr>
 <tr><td>Austria</td><td>3 febbraio</td><td>2004</td><td>1° giugno</td><td>2004</td></tr>
 <tr><td>Azerbaigian</td><td>11 febbraio</td><td>2004</td><td>1° giugno</td><td>2004</td></tr>
+<tr><td>Bielorussia</td><td>10 gennaio</td><td>2018</td><td>1° maggio</td><td>2018</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>30 marzo</td><td>2009</td><td>1° luglio</td><td>2009</td></tr>
 <tr><td>Bulgaria</td><td>13 giugno</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
 <tr><td>Ceca, Repubblica</td><td>12 gennaio</td><td>2005</td><td>1° maggio</td><td>2005</td></tr>
@@ -142,6 +143,7 @@ Campo d’applicazione l’11 agosto 2017**[^t-2]**
 <tr><td>Estonia</td><td>26 novembre</td><td>2004 F</td><td>1° marzo</td><td>2005</td></tr>
 <tr><td>Germania</td><td>15 gennaio</td><td>2008</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Islanda</td><td>30 marzo</td><td>2004 F</td><td>1° luglio</td><td>2004</td></tr>
+<tr><td>Italia</td><td>5 giugno</td><td>2023</td><td>1° ottobre</td><td>2023</td></tr>
 <tr><td>Lettonia</td><td>9 dicembre</td><td>2003</td><td>1° aprile</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>8 febbraio</td><td>2006</td><td>1° giugno</td><td>2006</td></tr>
 <tr><td>Lituania</td><td>9 novembre</td><td>2004</td><td>1° marzo</td><td>2005</td></tr>
@@ -158,7 +160,7 @@ Campo d’applicazione l’11 agosto 2017**[^t-2]**
 <tr><td>Tunisia</td><td>26 febbraio</td><td>2004 A</td><td>1° giugno</td><td>2004</td></tr>
 <tr><td>Ucraina</td><td>4 novembre</td><td>2004</td><td>1° marzo</td><td>2005</td></tr>
 <tr><td>Ungheria</td><td>21 giugno</td><td>2007</td><td>1° ottobre</td><td>2007</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète](http://www.coe.int/it), oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2005 417](https://fedlex.data.admin.ch/eli/oc/2005/50)[1633](https://fedlex.data.admin.ch/eli/oc/2005/259), [2007 4467](https://fedlex.data.admin.ch/eli/oc/2007/628), [2011 3635](https://fedlex.data.admin.ch/eli/oc/2011/504)e [2017 4083](https://fedlex.data.admin.ch/eli/oc/2017/489). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 417](https://fedlex.data.admin.ch/eli/oc/2005/50), [1633](https://fedlex.data.admin.ch/eli/oc/2005/259); [2007 4467](https://fedlex.data.admin.ch/eli/oc/2007/628); [2011 3635](https://fedlex.data.admin.ch/eli/oc/2011/504); [2017 4083](https://fedlex.data.admin.ch/eli/oc/2017/489); [2023 363](https://fedlex.data.admin.ch/eli/oc/2023/363). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
