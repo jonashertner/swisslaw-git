@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2023-06-27
-valid_until: 2023-07-03
-version_adopted: 2023-06-27
+version: 2023-07-04
+valid_until: 2023-09-07
+version_adopted: 2023-07-04
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4092/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4094/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 27.06.2023)
+vom 04.07.2017 (Stand 04.07.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -61,6 +61,8 @@ beschliesst:
 <tr><td>Hergiswil</td><td>22. November 2022</td><td>6. Juni 2023</td></tr>
 <tr><td>Doppleschwand</td><td>7. November 2022</td><td>13. Juni 2023</td></tr>
 <tr><td>Grossdietwil</td><td>30. November 2022</td><td>27. Juni 2023</td></tr>
+<tr><td>Ermensee</td><td>5. September 2022</td><td>4. Juli 2023</td></tr>
+<tr><td>Sempach</td><td>5. April 2022</td><td>4. Juli 2023</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
