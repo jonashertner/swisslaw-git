@@ -3,11 +3,11 @@ sr: "0.972.31"
 title: "Übereinkommen vom 7. Mai 1982 zur Errichtung der Afrikanischen Entwicklungsbank, abgeschlossen in Khartum am 4. August 1963, abgeändert durch die vom Gouverneursrat am 17. Mai 1979 angenommene Resolution 05-79 (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/46_46_46"
 language: de
-version: 2019-09-23
+version: 2023-07-04
 adopted: 1982-05-07
 in_force: 1982-12-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/46_46_46/20190923/de/xml/fedlex-data-admin-ch-eli-cc-1984-46_46_46-20190923-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/46_46_46/20190923/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/46_46_46/20230704/de/xml/fedlex-data-admin-ch-eli-cc-1984-46_46_46-20230704-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/46_46_46/20230704/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Annahmeurkunde hinterlegt am 14. September 1982
 
 In Kraft getreten für die Schweiz am 30. Dezember 1982
 
-(Stand am 23. September 2019)
+(Stand am 4. Juli 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 19. Dez. 1980 ([AS 1984 45](https://fedlex.data.admin.ch/eli/oc/1984/45_45_45)).
 
@@ -58,16 +58,21 @@ Zweck der Bank ist es, zur nachhaltigen wirtschaftlichen Entwicklung und zum soz
 
 **Aufgaben**
 
-<sup>1</sup> Zur Erfüllung ihres Zweckes hat die Bank die Aufgabe,
+<sup>1</sup>
 
-- a. die ihr zur Verfügung stehenden Mittel zur Finanzierung von Investitionsvorhaben und ‑programmen im Zusammenhang mit der wirtschaftlichen und sozialen Entwicklung ihrer regionalen Mitglieder zu verwenden, wobei sie besonderen Vorrang einräumt
+Zur Erfüllung ihres Zweckes hat die Bank die Aufgabe:
+
+- a.
+
+  die ihr zur Verfügung stehenden Mittel zur Finanzierung von Investitionsvorhaben und ‑programmen im Zusammenhang mit der wirtschaftlichen und sozialen Entwicklung ihrer regionalen Mitglieder zu verwenden, wobei sie besonderen Vorrang einräumt:
+
   - i) Vorhaben oder Programmen, die nach Art oder Umfang mehrere Mitglieder betreffen, und
   - ii) Vorhaben oder Programmen, die bewirken sollen, dass die Volkswirtschaften ihrer Mitglieder einander in zunehmendem Masse ergänzen und dass ihr Aussenhandel planvoll ausgeweitet wird;
 
 - b. die Auswahl, Untersuchung und Vorbereitung von Vorhaben, Unternehmungen und Tätigkeiten, die zu einer solchen Entwicklung beitragen, durchzuführen oder sich daran zu beteiligen;
 - c. innerhalb und ausserhalb Afrikas Mittel zur Finanzierung solcher Investitionsvorhaben und ‑programme zu mobilisieren und zu erhöhen;
 - d. allgemein Investitionen öffentlichen und privaten Kapitals in Afrika bei Vorhaben oder Programmen zu fördern, die zur wirtschaftlichen Entwicklung oder zum sozialen Fortschritt ihrer regionalen Mitglieder beitragen sollen;
-- e. jede in Afrika benötigte technische Hilfe bei der Untersuchung, Vorbereitung, Finanzierung und Durchführung von Entwicklungsvorhaben oder ‑programmen zu gewähren und
+- e. jede in Afrika benötigte technische Hilfe bei der Untersuchung, Vorbereitung, Finanzierung und Durchführung von Entwicklungsvorhaben oder ‑programmen zu gewähren; und
 - f. alle sonstigen Tätigkeiten zu unternehmen und alle sonstigen Leistungen zu erbringen, die zur Erfüllung ihres Zweckes beitragen können.
 
 <sup>2</sup> Bei der Erfüllung ihrer Aufgaben bemüht sich die Bank um Zusammenarbeit mit nationalen, regionalen und subregionalen Entwicklungsinstitutionen in Afrika. Zum gleichen Zweck sollte sie auch mit anderen internationalen Organisationen, die einen ähnlichen Zweck verfolgen, und mit anderen mit der Entwicklung von Afrika befassten Institutionen zusammenarbeiten.
@@ -155,34 +160,38 @@ Die Bank hat einen Gouverneursrat, ein Direktorium, einen Präsidenten, wenigste
 
 <sup>2</sup> Die Bestände solcher Sonderfonds sind nach Artikel 11 getrennt und gesondert von den ordentlichen Kapitalbeständen der Bank zu halten.
 
-<sup>3</sup> Die Bank erlässt die für die Verwaltung und Verwendung jedes Sonderfonds erforderlichen besonderen Richtlinien und Vorschriften; dabei gilt stets,
+<sup>3</sup>
+
+Die Bank erlässt die für die Verwaltung und Verwendung jedes Sonderfonds erforderlichen besonderen Richtlinien und Vorschriften; dabei gilt stets:
 
 - a. dass diese besonderen Richtlinien und Vorschriften Artikel 7 Absatz 4, den Artikeln 9 bis 11 und denjenigen Bestimmungen dieses Übereinkommens unterliegen, die ausdrücklich für die ordentlichen Kapitalbestände oder für die ordentlichen Geschäfte der Bank gelten;
-- b. dass diese besonderen Richtlinien und Vorschriften mit den Bestimmungen dieses Übereinkommens vereinbar sein müssen, die ausdrücklich für Sonderbestände oder Sondergeschäfte der Bank gelten, und
+- b. dass diese besonderen Richtlinien und Vorschriften mit den Bestimmungen dieses Übereinkommens vereinbar sein müssen, die ausdrücklich für Sonderbestände oder Sondergeschäfte der Bank gelten; und
 - c. dass die Sonderfonds, wenn diese besonderen Richtlinien und Vorschriften nicht anwendbar sind, den Bestimmungen dieses Übereinkommens unterliegen.
 
 #### Art. 9
 
 **Ordentliche Kapitalbestände**
 
-Für die Zwecke dieses Übereinkommens bezeichnet der Ausdruck «ordentliche Kapitalbestände» der Bank
+Für die Zwecke dieses Übereinkommens bezeichnet der Ausdruck «ordentliche Kapitalbestände» der Bank:
 
-- a. das nach Artikel 6 gezeichnete genehmigte Stammkapital der Bank,
+- a. das nach Artikel 6 gezeichnete genehmigte Stammkapital der Bank;
 - b. Mittel, die durch Kreditaufnahme der Bank kraft der ihr in Artikel 23 Buchstabe a verliehenen Befugnisse aufgebracht werden und auf welche die in Artikel 7 Absatz 4 vorgesehene Abrufverpflichtung Anwendung findet;
-- c. Mittel aus der Rückzahlung von Darlehen, die aus den unter den Buchstaben a und b genannten Beständen gewährt wurden, und
-- d. Einnahmen aus Darlehen, die aus den genannten Mitteln gewährt wurden, Einnahmen aus Garantien, auf welche die in Artikel 7 Absatz 4 vorgesehene Abrufverpflichtung Anwendung findet, sowie
+- c. Mittel aus der Rückzahlung von Darlehen, die aus den unter den Buchstaben a und b genannten Beständen gewährt wurden; und
+- d. Einnahmen aus Darlehen, die aus den genannten Mitteln gewährt wurden, Einnahmen aus Garantien, auf welche die in Artikel 7 Absatz 4 vorgesehene Abrufverpflichtung Anwendung findet; sowie
 - e. alle sonstigen Mittel oder Einnahmen, welche die Bank erhält und die nicht Bestandteil ihrer Sonderbestände sind.
 
 #### Art. 10
 
 **Sonderbestände**
 
-<sup>1</sup> Für die Zwecke dieses Übereinkommens bezeichnet der Ausdruck «Sonderbestände» die Bestände der Sonderfonds und umfasst
+<sup>1</sup>
+
+Für die Zwecke dieses Übereinkommens bezeichnet der Ausdruck «Sonderbestände» die Bestände der Sonderfonds und umfasst:
 
 - a. die ursprünglich zu Sonderfonds beigetragenen Bestände;
 - b. die für die Zwecke von Sonderfonds einschliesslich des in Artikel 24 Absatz 6 vorgesehenen Sonderfonds durch Kreditaufnahme aufgebrachten Mittel;
 - c. Mittel aus der Rückzahlung von aus den Beständen von Sonderfonds finanzierten Darlehen oder Garantien, die nach den Richtlinien und Vorschriften des betreffenden Sonderfonds bei diesem Sonderfonds eingehen;
-- d. Einnahmen aus Geschäften der Bank, bei denen die vorgenannten Bestände oder Mittel verwendet oder festgelegt werden, wenn nach den Richtlinien und Vorschriften des betreffenden Sonderfonds diese Einnahmen dem betreffenden Sonderfonds zufliessen, und
+- d. Einnahmen aus Geschäften der Bank, bei denen die vorgenannten Bestände oder Mittel verwendet oder festgelegt werden, wenn nach den Richtlinien und Vorschriften des betreffenden Sonderfonds diese Einnahmen dem betreffenden Sonderfonds zufliessen; und
 - e. sonstige Bestände, die den Sonderfonds zur Verfügung stehen.
 
 <sup>2</sup> Für die Zwecke dieses Übereinkommens schliesst der Ausdruck «zu einem Sonderfonds gehörende Sonderbestände» die Bestände, Mittel und Einnahmen ein, die in Absatz 1 genannt sind und die dem betreffenden Sonderfonds im Einklang mit den für ihn geltenden Richtlinien und Vorschriften je nach Lage des Falles als Beitrag zugehen, von ihm durch Kreditaufnahme beschafft werden oder bei ihm eingehen, ihm zufliessen oder ihm zur Verfügung stehen.
@@ -228,7 +237,7 @@ Die Bestände und Einrichtungen der Bank werden ausschliesslich zur Erfüllung d
 Bei ihrer Geschäftstätigkeit kann die Bank jedem regionalen Mitglied, jeder seiner Gebietskörperschaften oder Dienststellen oder jeder Einrichtung oder jedem Unternehmen im Hoheitsgebiet jedes regionalen Mitglieds sowie internationalen oder regionalen mit der Entwicklung Afrikas befassten Stellen oder Institutionen Finanzierungsmittel gewähren oder bei deren Beschaffung behilflich sein. Vorbehaltlich dieses Kapitels kann die Bank ihre Geschäftstätigkeit auf folgende Weise durchführen:
 
 - a. durch Gewährung von oder Beteiligung an direkten Darlehen
-  - i) aus Mitteln, die dem unverminderten gezeichneten eingezahlten Kapital und – ...[^14-1] – ihren Reserven und nicht ausgeschütteten Überschüssen entsprechen, oder
+  - i) aus Mitteln, die dem unverminderten gezeichneten eingezahlten Kapital und – …[^14-1] – ihren Reserven und nicht ausgeschütteten Überschüssen entsprechen, oder
   - ii) aus Mitteln, die den Sonderbeständen entsprechen;
 
 - b. durch Gewährung von oder Beteiligung an direkten Darlehen aus Mitteln, welche die Bank durch Kreditaufnahme beschafft oder auf andere Weise erworben hat, um sie in ihre ordentlichen Kapitalbestände oder in die Sonderbestände einzubringen;
@@ -244,7 +253,7 @@ Bei ihrer Geschäftstätigkeit kann die Bank jedem regionalen Mitglied, jeder se
 
 **Grenzen der Geschäftstätigkeit**
 
-<sup>1</sup> Der ausstehende Gesamtbetrag im Rahmen der ordentlichen Geschäftstätigkeit der Bank darf den Gesamtbetrag ihres unverminderten gezeichneten Kapitals und der zu den ordentlichen Kapitalbeständen gehörenden Reserven und Überschüsse, ...[^15-1], zu keiner Zeit übersteigen.
+<sup>1</sup> Der ausstehende Gesamtbetrag im Rahmen der ordentlichen Geschäftstätigkeit der Bank darf den Gesamtbetrag ihres unverminderten gezeichneten Kapitals und der zu den ordentlichen Kapitalbeständen gehörenden Reserven und Überschüsse, …[^15-1], zu keiner Zeit übersteigen.
 
 <sup>2</sup> Der ausstehende Gesamtbetrag im Rahmen der Sondergeschäfte der Bank, die im Zusammenhang mit einem Sonderfonds stehen, darf den Gesamtbetrag der zu dem Sonderfonds gehörenden unverminderten Sonderbestände zu keiner Zeit übersteigen.
 
@@ -260,7 +269,7 @@ Bei ihrer Geschäftstätigkeit kann die Bank jedem regionalen Mitglied, jeder se
 
 **Zurverfügungstellung von Währungen für direkte Darlehen**
 
-Bei der Gewährung von direkten Darlehen stellt die Bank dem Darlehensnehmer die zur Deckung der Devisenkosten des Vorhabens erforderlichen Währungen zur Verfügung, mit Ausnahme der Währung des Mitglieds, in dessen Hoheitsgebiet das betreffende Vorhaben durchgeführt werden soll (im folgenden als «Landeswährung» bezeichnet); dabei gilt stets, dass die Bank bei der Gewährung direkter Darlehen Finanzierungsmittel zur Deckung von örtlichen Ausgaben bei dem betreffenden Vorhaben zur Verfügung stellen kann,
+Bei der Gewährung von direkten Darlehen stellt die Bank dem Darlehensnehmer die zur Deckung der Devisenkosten des Vorhabens erforderlichen Währungen zur Verfügung, mit Ausnahme der Währung des Mitglieds, in dessen Hoheitsgebiet das betreffende Vorhaben durchgeführt werden soll (im folgenden als «Landeswährung» bezeichnet); dabei gilt stets, dass die Bank bei der Gewährung direkter Darlehen Finanzierungsmittel zur Deckung von örtlichen Ausgaben bei dem betreffenden Vorhaben zur Verfügung stellen kann:
 
 - a.[^16-1] wenn sie dies durch Bereitstellung von Beträgen in der Landeswährung tun kann, ohne von ihren Beständen ankonvertiblen Währungenzu verkaufen; oder
 - b. wenn nach Ansicht der Bank die örtlichen Ausgaben des Vorhabens ungebührliche Verluste oder Beanspruchungen für die Zahlungsbilanz des Landes, in dem das Vorhaben durchgeführt werden soll, zur Folge haben könnten und wenn die von der Bank zur Verfügung gestellten Finanzierungsmittel einen vertretbaren Teil der dem Darlehensnehmer für das Vorhaben entstehenden gesamten örtlichen Ausgaben nicht übersteigen.
@@ -275,7 +284,7 @@ Bei der Gewährung von direkten Darlehen stellt die Bank dem Darlehensnehmer die
 
 Die Geschäftstätigkeit der Bank wird nach folgenden Grundsätzen ausgeübt:
 
-- a. i) Die Geschäftstätigkeit der Bank dient, ausser unter besonderen Umständen, der Finanzierung bestimmter Vorhaben oder Gruppen von Vorhaben, insbesondere solcher, die Teil eines nationalen oder regionalen Entwicklungsprogramms sind, das für die wirtschaftliche oder soziale Entwicklung ihrer regionalen Mitglieder dringend erforderlich ist. Jedoch kann sich diese Tätigkeit auch auf globale Darlehen oder Darlehensgarantien an afrikanische nationale Entwicklungsbanken oder sonstige geeignete Institutionen erstrecken, damit diese dem Zweck der Bank dienende und im Rahmen des Tätigkeitsbereichs solcher Banken oder Institutionen liegende Vorhaben bestimmter Art finanzieren können;
+- a. i) Die Geschäftstätigkeit der Bank dient, ausser unter besonderen Umständen, der Finanzierung bestimmter Vorhaben oder Gruppen von Vorhaben, insbesondere solcher, die Teil eines nationalen oder regionalen Entwicklungsprogramms sind, das für die wirtschaftliche oder soziale Entwicklung ihrer regionalen Mitglieder dringend erforderlich ist. Jedoch kann sich diese Tätigkeit auch auf globale Darlehen oder Darlehensgarantien an afrikanische nationale Entwicklungsbanken oder sonstige geeignete Institutionen erstrecken, damit diese dem Zweck der Bank dienende und im Rahmen des Tätigkeitsbereichs solcher Banken oder Institutionen liegende Vorhaben bestimmter Art finanzieren können,
   - ii) bei der Auswahl geeigneter Vorhaben lässt sich die Bank stets von Artikel 2 Absatz 1 Buchstabe a und von dem möglichen Beitrag des betreffenden Vorhabens zu dem Zweck der Bank und nicht von der Art des Vorhabens leiten. Sie schenkt jedoch der Auswahl geeigneter multinationaler Vorhaben besondere Beachtung;
 
 - b. die Bank stellt keine Finanzierungsmittel für ein Vorhaben im Hoheitsgebiet eines Mitglieds zur Verfügung, wenn dieses Einspruch erhebt;
@@ -286,7 +295,7 @@ Die Geschäftstätigkeit der Bank wird nach folgenden Grundsätzen ausgeübt:
 - g. im Fall eines von der Bank gewährten direkten Darlehens gestattet die Bank dem Darlehensnehmer lediglich, die Mittel zur Bezahlung von Ausgaben im Zusammenhang mit dem Vorhaben in dem Masse in Anspruch zu nehmen, in dem sie tatsächlich entstehen;
 - h. die Bank trifft Vorkehrungen, um sicherzustellen, dass die bereitgestellten Mittel aller Darlehen, welche die Bank gewährt oder garantiert hat, nur für die Zwecke, für die das Darlehen gewährt wurde, und unter gebührender Berücksichtigung von Wirtschaftlichkeits‑ und Leistungsfähigkeitserwägungen verwendet werden;
 - i. die Bank wird sich bemühen, bei ihren Kapitalbeteiligungen für eine angemessene Streuung zu sorgen;
-- j. in ihrer Geschäftstätigkeit und insbesondere bei Kapitalbeteiligungen wendet die Bank die Grundsätze ordentlicher Geschäftsführung bei Banken an. Sie übernimmt keine Verantwortung für die Leitung einer Einrichtung oder eines Unternehmens, in die sie investiert hat, und
+- j. in ihrer Geschäftstätigkeit und insbesondere bei Kapitalbeteiligungen wendet die Bank die Grundsätze ordentlicher Geschäftsführung bei Banken an. Sie übernimmt keine Verantwortung für die Leitung einer Einrichtung oder eines Unternehmens, in die sie investiert hat; und
 - k. bei der Gewährung einer Garantie für ein von anderen Kapitalgebern gewährtes Darlehen erhält die Bank eine angemessene Risikovergütung.
 
 <sup>2</sup> Die Bank erlässt die für die Prüfung der ihr vorgelegten Vorhaben notwendigen Richtlinien und Vorschriften.
@@ -297,18 +306,24 @@ Die Geschäftstätigkeit der Bank wird nach folgenden Grundsätzen ausgeübt:
 
 **Bedingungen für direkte Darlehen und Garantien**
 
-<sup>1</sup> Bei direkten Darlehen, welche die Bank gewährt, wird der Vertrag
+<sup>1</sup>
 
-- a. im Einklang mit den in Artikel 17 Absatz 1 niedergelegten Geschäftsgrundsätzen und vorbehaltlich der anderen Bestimmungen dieses Kapitels alle Bedingungen in Bezug auf das Darlehen festlegen, darunter die Bedingungen für Tilgung, Zinsen und sonstige Spesen und in Bezug auf Fälligkeits- und Zahlungstermine, und insbesondere
+Bei direkten Darlehen, welche die Bank gewährt, wird der Vertrag:
+
+- a. im Einklang mit den in Artikel 17 Absatz 1 niedergelegten Geschäftsgrundsätzen und vorbehaltlich der anderen Bestimmungen dieses Kapitels alle Bedingungen in Bezug auf das Darlehen festlegen, darunter die Bedingungen für Tilgung, Zinsen und sonstige Spesen und in Bezug auf Fälligkeits- und Zahlungstermine; und insbesondere
 - b. vorsehen, dass – vorbehaltlich des Absatzes 3 Buchstabe c – Zahlungen an die Bank für Tilgung, Zinsen, Provisionen und andere Spesen in der Währung des Darlehens erfolgen, sofern nicht – im Fall eines im Rahmen von Sondergeschäften gewährten direkten Darlehens – die Richtlinien und Vorschriften eine andere Regelung vorsehen.
 
-<sup>2</sup> Bei Darlehen, die von der Bank garantiert werden, wird der Garantievertrag
+<sup>2</sup>
+
+Bei Darlehen, die von der Bank garantiert werden, wird der Garantievertrag:
 
 - a. im Einklang mit den in Artikel 17 Absatz 1 niedergelegten Geschäftsgrundsätzen und vorbehaltlich der anderen Bestimmungen dieses Kapitels alle Bedingungen der betreffenden Garantie festlegen, darunter die Bedingungen für Gebühren, Kommissionen und sonstige Spesen der Bank, und insbesondere
 - b. vorsehen, dass – vorbehaltlich des Absatzes 3 Buchstabe c – alle nach dem Garantievertrag an die Bank zu leistenden Zahlungen in der Währung erfolgen, in der das Darlehen gewährt wurde, sofern nicht – im Fall eines im Rahmen von Sondergeschäften garantierten Darlehens – die Richtlinien und Vorschriften eine andere Regelung vorsehen;
 - c. auch vorsehen, dass die Bank ihrer Haftung hinsichtlich der Zinszahlungen ein Ende setzen kann, wenn bei Zahlungsverzug des Darlehensnehmers und des etwaigen Bürgen die Bank das Angebot macht, die garantierten Schuldscheine oder sonstigen Schuldverschreibungen zum Nennwert zuzüglich der bis zu einem in dem Angebot bezeichneten Zeitpunkt aufgelaufenen Zinsen aufzukaufen.
 
-<sup>3</sup> Bei von der Bank gewährten direkten Darlehen oder garantierten Darlehen
+<sup>3</sup>
+
+Bei von der Bank gewährten direkten Darlehen oder garantierten Darlehen:
 
 - a. berücksichtigt die Bank bei der Festsetzung der Bedingungen für das Geschäft in angemessener Weise die Bedingungen, zu denen die Bank die entsprechenden Mittel erhalten hat;
 - b. kann die Bank, wenn der Darlehensnehmer nicht Mitglied ist, verlangen, sofern sie dies für ratsam hält, dass das Mitglied, in dessen Hoheitsgebiet das betreffende Vorhaben durchgeführt werden soll, oder eine der Bank annehmbar erscheinende öffentliche Stelle oder Einrichtung dieses Mitglieds die Rückzahlung des Kapitals und die Zahlung der Zinsen und sonstigen Spesen für das Darlehen garantiert;
@@ -329,18 +344,20 @@ Die Geschäftstätigkeit der Bank wird nach folgenden Grundsätzen ausgeübt:
 
 <sup>1</sup> Zur Erfüllung ihrer vertraglichen Zahlungen von Zinsen, sonstigen Spesen oder Tilgungsbeträgen für von der Bank aufgenommene Kredite oder zur Erfüllung ihrer Verbindlichkeiten in Bezug auf ähnliche Zahlungen für von ihr garantierte Darlehen, die zu Lasten ihrer ordentlichen Kapitalbestände gehen, kann die Bank nach Artikel 7 Absatz 4 einen angemessenen Betrag des nicht eingezahlten gezeichneten abrufbaren Kapitals abrufen.
 
-<sup>2</sup> Tritt bei einem Darlehen, das die Bank im Rahmen ihrer ordentlichen Geschäftstätigkeit garantiert oder aus aufgenommenen Krediten gewährt hat, ein Zahlungsverzug ein, so kann sie, wenn nach ihrer Ansicht der Verzug von langer Dauer sein kann, einen weiteren Betrag des abrufbaren Kapitals abrufen, der jedoch in einem Jahr 1 Prozent der Gesamtzeichnungen der Mitglieder nicht übersteigen darf,
+<sup>2</sup>
 
-- a. um ihre Verbindlichkeit in Bezug auf das gesamte oder einen Teil des ausstehenden Kapitals eines von ihr garantierten Darlehens, für das sich der Schuldner in Verzug befindet, vor der Fälligkeit abzulösen oder auf andere Weise zu erfüllen und
+Tritt bei einem Darlehen, das die Bank im Rahmen ihrer ordentlichen Geschäftstätigkeit garantiert oder aus aufgenommenen Krediten gewährt hat, ein Zahlungsverzug ein, so kann sie, wenn nach ihrer Ansicht der Verzug von langer Dauer sein kann, einen weiteren Betrag des abrufbaren Kapitals abrufen, der jedoch in einem Jahr 1 Prozent der Gesamtzeichnungen der Mitglieder nicht übersteigen darf:
+
+- a. um ihre Verbindlichkeit in Bezug auf das gesamte oder einen Teil des ausstehenden Kapitals eines von ihr garantierten Darlehens, für das sich der Schuldner in Verzug befindet, vor der Fälligkeit abzulösen oder auf andere Weise zu erfüllen; und
 - b. um ihre Verbindlichkeit in Bezug auf den gesamten oder einen Teil des ausstehenden von ihr selbst aufgenommenen Kredits zurückzukaufen oder auf andere Weise zu erfüllen.
 
 #### Art. 22
 
 **Methoden der Erfüllung von Verbindlichkeiten aus der Aufnahme von Krediten für Sonderfonds**
 
-Zahlungen zur Erfüllung von Verbindlichkeiten aus der Aufnahme von Krediten zwecks Auffüllung der zu einem Sonderfonds gehörenden Sonderbestände gehen
+Zahlungen zur Erfüllung von Verbindlichkeiten aus der Aufnahme von Krediten zwecks Auffüllung der zu einem Sonderfonds gehörenden Sonderbestände gehen:
 
-- i) zunächst zu Lasten einer zu diesem Zweck für den oder innerhalb des Sonderfonds gebildeten Reserve und
+- i) zunächst zu Lasten einer zu diesem Zweck für den oder innerhalb des Sonderfonds gebildeten Reserve; und
 - ii) sodann zu Lasten sonstiger Vermögenswerte, die in den zu diesem Sonderfonds gehörenden Sonderbeständen verfügbar sind.
 
 ## Kapitel IV Befugnis zur Kreditaufnahme und sonstige Befugnisse
@@ -349,11 +366,14 @@ Zahlungen zur Erfüllung von Verbindlichkeiten aus der Aufnahme von Krediten zwe
 
 **Allgemeine Befugnisse**
 
-Neben den sonst in diesem Übereinkommen vorgesehenen Befugnissen hat die Bank die Befugnis,
+Neben den sonst in diesem Übereinkommen vorgesehenen Befugnissen hat die Bank die Befugnis:
 
-- a. in den Mitgliedstaaten oder anderswo Kredite aufzunehmen und in diesem Zusammenhang alle von ihr bestimmten Sicherheiten dafür zu stellen, stets vorausgesetzt, dass
+- a.
+
+  in den Mitgliedstaaten oder anderswo Kredite aufzunehmen und in diesem Zusammenhang alle von ihr bestimmten Sicherheiten dafür zu stellen, stets vorausgesetzt, dass:
+
   - i) die Bank vor einer Veräusserung ihrer Schuldverschreibungen auf dem Markt eines Mitglieds dessen Zustimmung einholt;
-  - ii) die Bank, wenn ihre Schuldverschreibungen auf die Währung eines Mitglieds lauten, dessen Zustimmung einholt und
+  - ii) die Bank, wenn ihre Schuldverschreibungen auf die Währung eines Mitglieds lauten, dessen Zustimmung einholt, und
   - iii) die Bank, wenn die Kreditaufnahme zwecks Auffüllung ihrer ordentlichen Kapitalbestände erfolgt, gegebenenfalls die Zustimmung der unter den Ziffern i und ii bezeichneten Mitglieder zur uneingeschränkten Umwechslung der Beträge in die Währung jedes anderen Staates einholt;
 
 - b. Wertpapiere, die sie ausgegeben oder garantiert hat oder in denen sie Mittel angelegt hat, zu kaufen oder zu verkaufen, stets vorausgesetzt, dass sie die Zustimmung des Mitglieds einholt, in dessen Hoheitsgebiet die Wertpapiere gekauft oder verkauft werden sollen;
@@ -361,7 +381,7 @@ Neben den sonst in diesem Übereinkommen vorgesehenen Befugnissen hat die Bank d
 - d. die Mittel, die sie für ihre Geschäftstätigkeit nicht benötigt, in von ihr bestimmten Schuldverschreibungen anzulegen und die Mittel, die sie für Renten oder ähnliche Zwecke unterhält, in börsenfähigen Wertpapieren anzulegen;
 - e. mit ihren Geschäften zusammenhängende Tätigkeiten vorzunehmen, unter anderem die Förderung von Konsortien für Finanzierungen, die dem Zweck der Bank dienen und in ihren Aufgabenbereich fallen;
 - f. i) jede technische Beratung und Hilfe zu gewähren, die ihrem Zweck dient und in ihren Aufgabenbereich fällt, und
-  - ii) wenn durch solche Dienste entstandene Ausgaben nicht erstattet werden, das Nettoeinkommen der Bank damit zu belasten und in den ersten fünf Jahren ihrer Geschäftstätigkeit bis zu 1 Prozent ihres eingezahlten Kapitals für solche Ausgaben zu verwenden, stets vorausgesetzt, dass die Gesamtausgaben der Bank für diese Dienste in jedem Jahr dieses Zeitraums ein Fünftel dieses Prozentsatzes nicht übersteigen, und
+  - ii) wenn durch solche Dienste entstandene Ausgaben nicht erstattet werden, das Nettoeinkommen der Bank damit zu belasten und in den ersten fünf Jahren ihrer Geschäftstätigkeit bis zu 1 Prozent ihres eingezahlten Kapitals für solche Ausgaben zu verwenden, stets vorausgesetzt, dass die Gesamtausgaben der Bank für diese Dienste in jedem Jahr dieses Zeitraums ein Fünftel dieses Prozentsatzes nicht übersteigen; und
 
 - g. alle sonstigen Befugnisse auszuüben, die zur Förderung ihres Zweckes und ihrer Aufgaben im Einklang mit diesem Übereinkommen notwendig oder wünschenswert sind.
 
@@ -395,8 +415,8 @@ so nimmt die Bank diese Bewertung bzw. Feststellung nach Konsultierung des Inter
 
 Wird es nach diesem Übereinkommen erforderlich:
 
-- i. eine Währung im Vergleich zu einer anderen Währung oder zu der in Artikel 5 Absatz 1 Buchstabe b dieses Übereinkommens bestimmten Rechnungseinheit zu bewerten, oder
-- ii. festzustellen, ob eine Währung konvertierbar ist,
+- i. eine Währung im Vergleich zu einer anderen Währung oder zu der in Artikel 5 Absatz 1 Buchstabe b dieses Übereinkommens bestimmten Rechnungseinheit zu bewerten; oder
+- ii. festzustellen, ob eine Währung konvertierbar ist;
 
 [^26-1]: Fassung gemäss Resolution 2001/08 des Gouverneursrats vom 29. Mai 2001, in Kraft seit 5. Juli 2002 ([AS 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)Ziff. IV).
 
@@ -414,9 +434,11 @@ Die Mitglieder dürfen keinerlei Beschränkungen beibehalten oder einführen, we
 - d. Währungen, welche die Bank durch Kapitalrückzahlung oder durch Zahlung von Zinsen, Dividenden und sonstigen Spesen für Darlehen oder Anlagen, die aus den unter den Buchstaben a bis c bezeichneten Mittel gewährt wurden, erhalten hat, oder die durch Zahlung von Provisionen oder Gebühren für von der Bank gegebene Garantien eingegangen sind; und
 - e. Währungen, mit Ausnahme der eigenen, die ein Mitglied von der Bank bei der Ausschüttung des Nettoeinkommens der Bank nach Artikel 42 erhalten hat.[^27-1]
 
-<sup>2</sup> Die Mitglieder dürfen keinerlei Beschränkungen beibehalten oder einführen, welche die Bank oder einen Empfänger der Bank daran hindern, für Zahlungen an jedem beliebigen Ort die von der Bank entgegengenommene Währung eines Mitglieds zu halten oder zu verwenden, die nicht unter Absatz 1 fällt, es sei denn,
+<sup>2</sup>
 
-- a. dass das Mitglied erklärt, dass es die Beschränkung der Verwendung dieser Währung auf die Bezahlung von in seinem Hoheitsgebiet erzeugten Waren oder erbrachten Dienstleistungen wünscht, oder
+Die Mitglieder dürfen keinerlei Beschränkungen beibehalten oder einführen, welche die Bank oder einen Empfänger der Bank daran hindern, für Zahlungen an jedem beliebigen Ort die von der Bank entgegengenommene Währung eines Mitglieds zu halten oder zu verwenden, die nicht unter Absatz 1 fällt, es sei denn:
+
+- a. dass das Mitglied erklärt, dass es die Beschränkung der Verwendung dieser Währung auf die Bezahlung von in seinem Hoheitsgebiet erzeugten Waren oder erbrachten Dienstleistungen wünscht; oder
 - b. dass eine solche Währung zu den Sonderbeständen der Bank gehört und ihre Verwendung durch besondere Richtlinien und Vorschriften geregelt ist.
 
 <sup>3</sup> Die Mitglieder dürfen keine Beschränkungen beibehalten oder einführen, welche die Bank daran hindern, für Tilgungs‑ oder Vorauszahlungen oder zum vollständigen oder teilweisen Rückkauf ihrer Verbindlichkeiten Währungen zu halten oder zu verwenden, die sie als Rückzahlung der aus ihren ordentlichen Kapitalbeständen gewährten direkten Darlehen erhalten hat.
@@ -451,7 +473,9 @@ Währungen im Besitz der Bank werden von ihr nicht zum Ankauf anderer Währungen
 
 <sup>1</sup> Alle Befugnisse der Bank liegen beim Gouverneursrat. Insbesondere erlässt der Rat die allgemeinen Richtlinien für die Kreditpolitik der Bank.
 
-<sup>2</sup> Der Gouverneursrat kann alle seine Befugnisse auf das Direktorium übertragen, jedoch mit Ausnahme der Befugnis,
+<sup>2</sup>
+
+Der Gouverneursrat kann alle seine Befugnisse auf das Direktorium übertragen, jedoch mit Ausnahme der Befugnis:
 
 - a. das genehmigte Stammkapital der Bank herabzusetzen;
 - b. Sonderfonds einzurichten oder ihre Verwaltung zu übernehmen;
@@ -459,7 +483,7 @@ Währungen im Besitz der Bank werden von ihr nicht zum Ankauf anderer Währungen
 - d.[^29-1] den Präsidenten zu wählen, ihn seines Amtes vorläufig oder endgültig zu entheben und seine Bezüge und Arbeits- und Vertragsbedingungen festzulegen;
 - e. die Bezüge der Direktoren und ihrer Stellvertreter festzusetzen;
 - f. externe Rechnungsprüfer zur Bestätigung der Jahresbilanz und der Gewinn‑ und Verlustrechnung der Bank auszuwählen sowie erforderlichenfalls andere Fachleute zur Prüfung der allgemeinen Geschäftsführung der Bank und zur Berichterstattung darüber auszuwählen;
-- g. nach Prüfung des Berichts der Rechnungsprüfer die Jahresbilanz und die Gewinn‑ und Verlustrechnung der Bank zu genehmigen und
+- g. nach Prüfung des Berichts der Rechnungsprüfer die Jahresbilanz und die Gewinn‑ und Verlustrechnung der Bank zu genehmigen; und
 - h. alle sonstigen Befugnisse auszuüben, die in diesem Übereinkommen ausdrücklich für den Rat vorgesehen sind.
 
 <sup>3</sup> Der Gouverneursrat behält volle Weisungsbefugnis in allen nach Absatz 2 dem Direktorium übertragenen Angelegenheiten.
@@ -495,16 +519,16 @@ Währungen im Besitz der Bank werden von ihr nicht zum Ankauf anderer Währungen
 
 **Direktorium: Befugnisse**
 
-Unbeschadet der in Artikel 29 vorgesehenen Befugnisse des Gouverneursrats ist das Direktorium für die Leitung der allgemeinen Geschäftstätigkeit der Bank verantwortlich und übt zu diesem Zweck zusätzlich zu den ihm in diesem Übereinkommen ausdrücklich zugewiesenen Befugnissen alle ihm vom Gouverneursrat übertragenen Befugnisse aus, insbesondere,
+Unbeschadet der in Artikel 29 vorgesehenen Befugnisse des Gouverneursrats ist das Direktorium für die Leitung der allgemeinen Geschäftstätigkeit der Bank verantwortlich und übt zu diesem Zweck zusätzlich zu den ihm in diesem Übereinkommen ausdrücklich zugewiesenen Befugnissen alle ihm vom Gouverneursrat übertragenen Befugnisse aus, insbesondere:
 
-- [tab] ... [^32-1]
+- [tab] …[^32-1]
 - a. die Arbeit des Gouverneursrats vorzubereiten;
 - b. nach Massgabe der allgemeinen Richtlinien des Gouverneursrats Beschlüsse über bestimmte direkte Darlehen, Garantien, Kapitalbeteiligungen und Kreditaufnahme durch die Bank zu fassen;
 - c. den Zinssatz für direkte Darlehen und die Kommissionen für Garantien festzusetzen;
 - d. dem Gouverneursrat auf jeder Jahrestagung die Bücher für jedes Rechnungsjahr und den Jahresbericht zur Genehmigung vorzulegen;
 - e. die allgemeine Struktur der Dienstleistungen der Bank zu bestimmen.
 
-[^32-1]: Bst. aufgehoben durch Ziff. 2 der Resolution 97/05 des Gouverneursrats vom 29. Mai 1997, in Kraft seit 5. Mai 1998 ([AS 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)Ziff. II). Die ursprünglichen Bst. b-f wurden zu a-e.
+[^32-1]: Bst. aufgehoben durch Ziff. 2 der Resolution 97/05 des Gouverneursrats vom 29. Mai 1997, in Kraft seit 5. Mai 1998 ([AS 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)Ziff. II). Die ursprünglichen Bst. b–f wurden zu a–e.
 
 #### Art. 33
 
@@ -699,9 +723,11 @@ Im Notfall kann das Direktorium die Geschäftstätigkeit in Bezug auf neue Darle
 
 **Verteilung der Vermögenswerte**
 
-<sup>1</sup> Im Fall der Beendigung der Geschäftstätigkeit der Bank erfolgt eine Verteilung an die Mitglieder auf Grund ihrer Zeichnungen auf das Stammkapital der Bank erst, wenn
+<sup>1</sup>
 
-- i) alle Verbindlichkeiten gegenüber den Gläubigern erfüllt sind oder hierfür Vorsorge getroffen ist und
+Im Fall der Beendigung der Geschäftstätigkeit der Bank erfolgt eine Verteilung an die Mitglieder auf Grund ihrer Zeichnungen auf das Stammkapital der Bank erst, wenn:
+
+- i) alle Verbindlichkeiten gegenüber den Gläubigern erfüllt sind oder hierfür Vorsorge getroffen ist; und
 - ii) der Gouverneursrat die Vornahme einer Verteilung beschlossen hat. Dieser Beschluss muss vom Rat mit der Mehrheit der Gesamtstimmenzahl der Mitglieder einschliesslich der Mehrheit der Gesamtstimmenzahl der regionalen Mitglieder gefasst werden.
 
 <sup>2</sup> Nachdem ein Beschluss zur Vornahme einer Verteilung nach Absatz 1 gefasst worden ist, kann das Direktorium beschliessen**,** aufeinander folgende Verteilungen der Vermögenswerte der Bank an die Mitglieder vorzunehmen, bis sämtliche Vermögenswerte verteilt sind. Voraussetzung für eine solche Verteilung ist die vorherige Erfüllung aller ausstehenden Forderungen der Bank gegen jedes Mitglied.[^49-1]
@@ -733,10 +759,10 @@ Um der Bank die Erfüllung ihres Zweckes und der ihr zugewiesenen Aufgaben zu er
 
 **Rechtsstellung in Mitgliedstaaten**
 
-Die Bank besitzt im Hoheitsgebiet jedes Mitglieds volle Rechtspersönlichkeit und hat insbesondere die uneingeschränkte Fähigkeit,
+Die Bank besitzt im Hoheitsgebiet jedes Mitglieds volle Rechtspersönlichkeit und hat insbesondere die uneingeschränkte Fähigkeit:
 
-- a. Verträge zu schliessen,
-- b. unbewegliches und bewegliches Vermögen zu erwerben und darüber zu verfügen und
+- a. Verträge zu schliessen;
+- b. unbewegliches und bewegliches Vermögen zu erwerben und darüber zu verfügen; und
 - c. vor Gericht zu stehen.
 
 #### Art. 52
@@ -771,7 +797,7 @@ Jedes Mitglied gewährt dem amtlichen Nachrichtenverkehr der Bank dieselbe Behan
 
 **Persönliche Immunitäten und Vorrechte**
 
-Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bediensteten der Bank sowie Sachverständige und Berater, die Aufträge für die Bank durchführen,
+Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bediensteten der Bank sowie Sachverständige und Berater, die Aufträge für die Bank durchführen:
 
 - i) geniessen Immunität von der Gerichtsbarkeit hinsichtlich ihrer in amtlicher Eigenschaft vorgenommenen Handlungen;
 - ii) erhalten, wenn sie nicht Inländer sind, die gleiche Immunität von Einwanderungsbeschränkungen, von der Meldepflicht der Ausländer und von staatlichen Dienstverpflichtungen sowie die gleichen Erleichterungen in Bezug auf Devisenbestimmungen, wie sie die Mitglieder den in vergleichbarem Rang stehenden Vertretern, leitenden und sonstigen Bediensteten anderer Mitglieder gewähren;
@@ -785,14 +811,18 @@ Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bedienstet
 
 <sup>2</sup> Die von der Bank den Direktoren, Stellvertretern, leitenden Bediensteten und anderen Fachkräften gezahlten Gehälter und Vergütungen unterliegen keiner Art von Besteuerung.
 
-<sup>3</sup> Von der Bank ausgegebene Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung,
+<sup>3</sup>
 
-- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank ausgegeben wurde, oder
+Von der Bank ausgegebene Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung:
+
+- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank ausgegeben wurde; oder
 - ii) deren einzige rechtliche Grundlage der Ort oder die Währung, in denen diese Urkunde ausgegeben oder bezahlt worden oder zahlbar ist, oder der Ort einer Geschäftsstelle oder eines Büros der Bank ist.
 
-<sup>4</sup> Von der Bank garantierte Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung,
+<sup>4</sup>
 
-- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank garantiert ist, oder
+Von der Bank garantierte Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung:
+
+- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank garantiert ist; oder
 - ii) deren einzige rechtliche Grundlage der Ort einer Geschäftsstelle oder eines Büros der Bank ist.
 
 [^57-1]: Die deutsche Übersetzung folgt dem englischen Originaltext. Im englischen Text steht «all taxes», im französischen dagegen: «impôts directs». «The Bank, its property, other assets, income and its operations and transactions, shall be exempt from all taxation and from all custom duties.»
@@ -819,10 +849,12 @@ Die in diesem Kapitel vorgesehenen Immunitäten, Befreiungen und Vorrechte werde
 
 <sup>2</sup> Ungeachtet des Absatzes 1 des vorliegenden Artikels können die in Artikel 3 Absatz 3 vorgesehenen Abstimmungsmehrheiten nur durch die dort genannten Abstimmungsmehrheiten geändert werden.
 
-<sup>3</sup> Ungeachtet des Absatzes 1 ist die Zustimmung aller Mitglieder erforderlich bei Änderungen, welche betreffen
+<sup>3</sup>
+
+Ungeachtet des Absatzes 1 ist die Zustimmung aller Mitglieder erforderlich bei Änderungen, welche betreffen:
 
 - i) das durch Artikel 6 Absatz 2 gesicherte Recht;
-- ii) die in Artikel 6 Absatz 5 vorgesehene Haftungsbeschränkung und
+- ii) die in Artikel 6 Absatz 5 vorgesehene Haftungsbeschränkung; und
 - iii) das in Artikel 43 vorgesehene Recht zum Austritt aus der Bank.
 
 <sup>4</sup> Änderungen treten für alle Mitglieder drei Monate nach dem Tag der in Absatz 1 vorgesehenen förmlichen Mitteilung in Kraft, sofern nicht der Gouverneursrat eine andere Frist festsetzt.
@@ -884,9 +916,11 @@ Dieses Übereinkommen tritt in Kraft, wenn zwölf Unterzeichnerregierungen, dere
 
 <sup>1</sup> Sobald dieses Übereinkommen in Kraft getreten ist, ernennt jedes Mitglied einen Gouverneur, und der zu diesem Zweck und zu dem in Artikel 7 Absatz 5 angegebenen Zweck ernannte Treuhänder beraumt die erste Sitzung des Gouverneursrats an.
 
-<sup>2</sup> An seiner ersten Sitzung wird der Gouverneursrat
+<sup>2</sup>
 
-- a. neun Direktoren der Bank nach Artikel 33 Absatz 1 wählen und
+An seiner ersten Sitzung wird der Gouverneursrat:
+
+- a. neun Direktoren der Bank nach Artikel 33 Absatz 1 wählen; und
 - b. Vorkehrungen zur Bestimmung des Tages treffen, an dem die Bank ihre Geschäftstätigkeit aufnimmt.
 
 <sup>3</sup> Die Bank notifiziert ihren Mitgliedern den Tag der Aufnahme ihrer Geschäftstätigkeit.
@@ -947,7 +981,10 @@ Bei der Wahl der Direktoren gibt jeder Gouverneur alle Stimmen des von ihm vertr
 ### 2. Regionale Direktoren
 
 - a. Die zwölf Bewerber, welche die höchste Stimmenzahl der die regionalen Mitglieder vertretenden Gouverneure erhalten, werden Direktoren; jedoch gelten Bewerber, die weniger als acht\* Prozent der Gesamtstimmenzahl der regionalen Mitglieder erhalten, als nicht gewählt.
-- b. Werden im ersten Wahlgang keine zwölf Bewerber gewählt, so findet ein zweiter Wahlgang statt, bei dem derjenige Bewerber, der im vorhergehenden Wahlgang die geringste Stimmenzahl erhielt, ausscheidet und in dem nur Stimmen abgegeben werden von
+- b.
+
+  Werden im ersten Wahlgang keine zwölf Bewerber gewählt, so findet ein zweiter Wahlgang statt, bei dem derjenige Bewerber, der im vorhergehenden Wahlgang die geringste Stimmenzahl erhielt, ausscheidet und in dem nur Stimmen abgegeben werden von:
+
   - i) Gouverneuren, die im ersten Wahlgang für einen Bewerber stimmten, der nicht gewählt wurde, und
   - ii) Gouverneuren, von deren für einen gewählten Bewerber abgegebenen Stimmen nach Buchstabe c angenommen wird, dass sie die für diesen Bewerber abgegebene Stimmenzahl auf über zehn\* Prozent der Gesamtstimmenzahl der regionalen Mitglieder angehoben haben.
 
@@ -959,7 +996,10 @@ Bei der Wahl der Direktoren gibt jeder Gouverneur alle Stimmen des von ihm vertr
 ### 3. Nichtregionale Direktoren
 
 - a. Die sechs Bewerber, welche die höchste Stimmenzahl der die nichtregionalen Mitglieder vertretenden Gouverneure erhalten, werden Direktoren, jedoch gelten Bewerber, die weniger als vierzehn\* Prozent der Gesamtstimmenzahl der nichtregionalen Mitglieder erhalten, als nicht gewählt.
-- b. Werden im ersten Wahlgang keine sechs Bewerber gewählt, so findet ein zweiter Wahlgang statt, bei dem derjenige Bewerber, der im vorhergehenden Wahlgang die niedrigste Stimmenzahl erhielt, ausscheidet und in dem Stimmen nur abgegeben werden von
+- b.
+
+  Werden im ersten Wahlgang keine sechs Bewerber gewählt, so findet ein zweiter Wahlgang statt, bei dem derjenige Bewerber, der im vorhergehenden Wahlgang die niedrigste Stimmenzahl erhielt, ausscheidet und in dem Stimmen nur abgegeben werden von:
+
   - i) Gouverneuren, die im ersten Wahlgang für einen Bewerber stimmten, der nicht gewählt wurde, und
   - ii) Gouverneuren, von deren für einen gewählten Bewerber abgegebenen Stimmen nach Buchstabe c angenommen wird, dass sie die für diesen Bewerber abgegebene Stimmenzahl auf über neunzehn\* Prozent der Gesamtstimmenzahl der nichtregionalen Mitglieder angehoben haben.
 
@@ -972,7 +1012,7 @@ Bei der Wahl der Direktoren gibt jeder Gouverneur alle Stimmen des von ihm vertr
 <tr><td>\*</td><td>*Anmerkung des Leiters der Rechtsabteilung:* Die Annahme der Änderung zu Artikel 33, durch welche die Zahl der Mitglieder des Direktoriums der Bank von neun auf achtzehn erhöht und eine Bestimmung dahingehend aufgenommen wurde, dass zwölf Direktoren ausschliesslich von den regionalen Mitgliedern und sechs ausschliesslich von den nichtregionalen Mitgliedern gewählt werden, machte es notwendig, in Anhang B zu dem Übereinkommen getrennte Regeln für die Wahl der regionalen und nichtregionalen Direktoren festzulegen. Wegen derselben Änderung musste der Gouverneursrat auch die in der ursprünglichen Fassung des Anhangs B festgelegten prozentualen Mindest‑ und Höchstsätze für die Wahl eines Direktors überprüfen. Während der Beratung dieser Änderung beschloss der Gouverneursrat, dass in dem Abschnitt des Anhangs B, der die Wahl der regionalen Direktoren behandelt, die entsprechenden Prozentsätze acht und zehn statt zehn und zwölf wie in den ursprünglichen Regeln sein sollten, und setzte gleichzeitig die prozentualen Mindest‑ und Höchstsätze für die Wahl der nichtregionalen Direktoren auf vierzehn bzw. neunzehn fest. Da diese Beschlüsse vor der Annahme der Entschliessung zur Änderung des Bankübereinkommens gefasst wurden, wird die daraus hervorgehende Änderung so angesehen, als habe sie die Annahme der neuen prozentualen Mindest‑ und Höchstsätze eingeschlossen.</td></tr>
 </table>
 
-Geltungsbereich am 23. September 2019**[^t-2]**
+Geltungsbereich am 4. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation oder Annahme Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1001,6 +1041,7 @@ Geltungsbereich am 23. September 2019**[^t-2]**
 <tr><td>Guinea</td><td></td><td></td><td>7. Mai</td><td>1982<sup>a</sup></td></tr>
 <tr><td>Guinea-Bissau</td><td></td><td></td><td>7. Mai</td><td>1982<sup>a</sup></td></tr>
 <tr><td>Indien\*</td><td>6. Dezember</td><td>1983</td><td>6. Dezember</td><td>1983</td></tr>
+<tr><td>Irland</td><td>4. März</td><td>2020 B</td><td>4. März</td><td>2020</td></tr>
 <tr><td>Italien\*</td><td>26. November</td><td>1982</td><td>31. Dezember</td><td>1982</td></tr>
 <tr><td>Japan\*</td><td>3. Februar</td><td>1983</td><td>3. Februar</td><td>1983</td></tr>
 <tr><td>Kamerun</td><td></td><td></td><td>7. Mai</td><td>1982<sup>a</sup></td></tr>
@@ -1054,10 +1095,10 @@ Geltungsbereich am 23. September 2019**[^t-2]**
 <tr><td>Vereinigtes Königreich\*</td><td>27. April</td><td>1983</td><td>29. April</td><td>1983</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>31. Januar</td><td>1983</td><td>8. Februar</td><td>1983</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td></td><td></td><td>7. Mai</td><td>1982<sup>a</sup></td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlich, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Datum der Teilnahme an diesem Übereinkommen.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlich, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Datum der Teilnahme an diesem Übereinkommen.</td></tr>
 </table>
 
-[^t-2]: [AS 1984 46](https://fedlex.data.admin.ch/eli/oc/1984/46_46_46), [1985 344](https://fedlex.data.admin.ch/eli/oc/1985/344_344_344), [1986 1962](https://fedlex.data.admin.ch/eli/oc/1986/1962_1962_1962), [1992 994](https://fedlex.data.admin.ch/eli/oc/1992/994_994_994), [2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683), [2019 3081](https://fedlex.data.admin.ch/eli/oc/2019/562). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1984 46](https://fedlex.data.admin.ch/eli/oc/1984/46_46_46); [1985 344](https://fedlex.data.admin.ch/eli/oc/1985/344_344_344); [1986 1962](https://fedlex.data.admin.ch/eli/oc/1986/1962_1962_1962); [1992 994](https://fedlex.data.admin.ch/eli/oc/1992/994_994_994); [2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683); [2019 3081](https://fedlex.data.admin.ch/eli/oc/2019/562); [2023 364](https://fedlex.data.admin.ch/eli/oc/2023/364). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
 
 Vorbehalte und Erklärungen
 

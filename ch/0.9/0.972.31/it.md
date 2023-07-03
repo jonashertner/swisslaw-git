@@ -3,11 +3,11 @@ sr: "0.972.31"
 title: Accordo del 7 maggio 1982 istitutivo della Banca africana di sviluppo (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/46_46_46"
 language: it
-version: 2019-09-23
+version: 2023-07-04
 adopted: 1982-05-07
 in_force: 1982-12-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/46_46_46/20190923/it/xml/fedlex-data-admin-ch-eli-cc-1984-46_46_46-20190923-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/46_46_46/20190923/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/46_46_46/20230704/it/xml/fedlex-data-admin-ch-eli-cc-1984-46_46_46-20230704-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/46_46_46/20230704/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1984** 46; FF **1980** II 985
 
 Traduzione
 
-Conchiuso a Lusaka il 7 maggio 1982
+Conchiuso a Lusaka il 7 maggio 1982 Approvato dall’Assemblea federale il 19 dicembre 1980[^t-1] Accettato con strumento depositato dalla Svizzera il 14 settembre 1982 Entrato in vigore per la Svizzera il 30 dicembre 1982
 
-Approvato dall’Assemblea federale il 19 dicembre 1980[^t-1]
-
-Accettato con strumento depositato dalla Svizzera il 14 settembre 1982
-
-Entrato in vigore per la Svizzera il 30 dicembre 1982
-
-(Stato 23 settembre 2019)
+(Stato 4 luglio 2023)
 
 [^t-1]: Art. 1 cpv.1 del DF del 19 dic. 1980 ([RU 1984 45](https://fedlex.data.admin.ch/eli/oc/1984/45_45_45))
 
@@ -999,12 +993,102 @@ Per l’elezione degli Amministratori, ciascun governatore deve attribuire a un 
 - c. i) Per determinare se i voti assegnati da un governatore devono essere considerati aver portato a più del diciannove per cento\* il totale dei voti ottenuti da un candidato qualsiasi, questo diciannove per cento\* è considerato comprendere, anzitutto il voto del governatore che ha assegnato il maggior numero di voti a detto candidato, quindi, per ordine decrescente, i voti di ciascuno dei governatori che hanno emesso il numero di voti immediatamente inferiore, fino a concorrenza del diciannove per cento\*.
   - ii) Ogni governatore i cui voti devono essere parzialmente conteggiati per portare il totale ottenuto da un candidato a più del quattordici per cento\* sarà considerato attribuire i suoi voti a detto candidato, anche se il totale dei voti da questi ottenuto supera con ciò il diciannove per cento\*.
 
-- [tab] d. Se dopo il secondo scrutinio non vi sono sei eletti, si procede, giusta i principi enunciati nel presente allegato, a scrutini supplementari, con riserva che dopo l’elezione di cinque amministratori, il sesto può – nonostante le disposizioni del paragrafo 3a del presente allegato – essere eletto alla maggioranza semplice dei voti rimanenti, i quali sono tutti considerati aver contribuito all’elezione del sesto amministratore.
+- d. Se dopo il secondo scrutinio non vi sono sei eletti, si procede, giusta i principi enunciati nel presente allegato, a scrutini supplementari, con riserva che dopo l’elezione di cinque amministratori, il sesto può – nonostante le disposizioni del paragrafo 3a del presente allegato – essere eletto alla maggioranza semplice dei voti rimanenti, i quali sono tutti considerati aver contribuito all’elezione del sesto amministratore.
 
 \* Nota del Consigliere Generale:
 
 L’adozione dell’emendamento dell’articolo 33 riguardante l’aumento, da 9 a 18 del numero dei membri del Consiglio d’amministrazione della Banca e prevedente l’elezione di 12 di essi esclusivamente da parte degli Stati membri regionali e quella dei 6 altri esclusivamente da parte degli Stati membri non regionali, ha resa necessaria l’istituzione, nell’allegato B all’accordo, di regole distinte per quanto concerne l’elezione degli amministratori regionali e non regionali. Il medesimo emendamento ha parimente reso indispensabile la revisione, da parte del Consiglio dei governatori, delle percentuali minime e massime stabilite nel testo originale dell’allegato B relativo all’elezione degli amministratori. Durante l’esame del presente emendamento, il Consiglio dei governatori ha deciso che nella sezione dell’allegato B concernente l’elezione degli amministratori regionali, le percentuali rispettive siano di 8 e 10 invece di 10 e 12 come previsto nelle regole iniziali; esso ha nel contempo stabilito le percentuali minime e massime a 14 e 19 rispettivamente per quanto concerne l’elezione degli amministratori non regionali. Poiché l’adozione di queste risoluzioni precede quella della risoluzione d’emendamento dell’accordo istitutivo della Banca, l’emendamento che ne deriva è considerato aver tenuto conto delle nuove cifre di percentuali minime e massime.
 
-Campo d’applicazione il 23 settembre 2019**[^t-2]**
+Campo d’applicazione il 4 luglio 2023[^t-2]
 
-[^t-2]: RU **198****4** 46, **1985** 344, **1986** 1962, **1992** 994, **2007** 4777 e **2019** 3081. Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+<table>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th colspan="2"></th><th colspan="2">Entrata in vigore</th><th></th></tr>
+<tr><td>Angola</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Arabia Saudita</td><td colspan="2">15 dicembre</td><td>1983</td><td>15 dicembre</td><td colspan="2">1983</td></tr>
+<tr><td>Argentina</td><td colspan="2">6 giugno</td><td>1985</td><td>2 luglio</td><td colspan="2">1985</td></tr>
+<tr><td>Austria</td><td colspan="2">10 marzo</td><td>1983</td><td>30 marzo</td><td colspan="2">1983</td></tr>
+<tr><td>Belgio</td><td colspan="2">15 febbraio</td><td>1983</td><td>15 marzo</td><td colspan="2">1983</td></tr>
+<tr><td>Bénin</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Botswana</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Brasile</td><td colspan="2">14 luglio</td><td>1983</td><td>14 luglio</td><td colspan="2">1983</td></tr>
+<tr><td>Burkina Faso</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Burundi</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Cameroun</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Canada\*</td><td colspan="2">23 dicembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Capapo Verde</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Cina</td><td colspan="2">9 maggio</td><td>1985</td><td>10 maggio</td><td colspan="2">1985</td></tr>
+<tr><td>Comore</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Congo (Brazzaville)</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Congo (Kinshasa)</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Corea (Sud)</td><td colspan="2">27 settembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Côte d’Ivoire</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Danimarca\*</td><td colspan="2">7 settembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Djibouti</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Egitto</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Eswatini</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Etiopia</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Finlandia</td><td colspan="2">7 settembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Francia</td><td colspan="2">1<sup>°</sup> luglio</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Gabon</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Gambia</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Germania\*</td><td colspan="2">16 febbraio</td><td>1983</td><td>18 febbraio</td><td colspan="2">1983</td></tr>
+<tr><td>Ghana</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Giappone\*</td><td colspan="2">3 febbraio</td><td>1983</td><td>3 febbraio</td><td colspan="2">1983</td></tr>
+<tr><td>Guinea</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Guinea equatoriale</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Guinea-Bissau</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>India\*</td><td colspan="2">6 dicembre</td><td>1983</td><td>6 dicembre</td><td colspan="2">1983</td></tr>
+<tr><td>Irlanda</td><td colspan="2">4 marzo</td><td>2020 A</td><td>4 marzo</td><td colspan="2">2020</td></tr>
+<tr><td>Italia\*</td><td colspan="2">26 novembre</td><td>1982</td><td>31 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Kenya</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Kuwait</td><td colspan="2">9 novembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Lesotho</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Liberia</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Lussemburgo</td><td colspan="2">29 maggio</td><td>2014 A</td><td>29 maggio</td><td colspan="2">2014</td></tr>
+<tr><td>Madagascar</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Malawi</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Mali</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Marocco</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Mauritania</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Maurizio</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Mozambico</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Namibia</td><td colspan="2">10 aprile</td><td>1991 A</td><td>2 maggio</td><td colspan="2">1991</td></tr>
+<tr><td>Niger</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Nigeria</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Norvegia\*</td><td colspan="2">7 settembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Paesi Bassi\*</td><td colspan="2">28 gennaio</td><td>1983</td><td>28 gennaio</td><td colspan="2">1983</td></tr>
+<tr><td>Portogallo</td><td colspan="2">15 dicembre</td><td>1983</td><td>15 dicembre</td><td colspan="2">1983</td></tr>
+<tr><td>Rego Unito\*</td><td colspan="2">27 aprile</td><td>1983</td><td>29 aprile</td><td colspan="2">1983</td></tr>
+<tr><td>Repubblica centrafricana</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Ruanda</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Senegal</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Serbia</td><td colspan="2">15 settembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Seychelles</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Sierra Leone</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Somalia</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Soudan</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Soudan del Sud</td><td colspan="2">30 aprile</td><td>2015 A</td><td>30 aprile</td><td colspan="2">2015</td></tr>
+<tr><td>Spagna</td><td colspan="2">13 febbraio</td><td>1984</td><td>20 marzo</td><td colspan="2">1984</td></tr>
+<tr><td>Stati Uniti\*</td><td colspan="2">31 gennaio</td><td>1983</td><td>8 febbraio</td><td colspan="2">1983</td></tr>
+<tr><td>Sudafrica</td><td colspan="2">13 dicembre</td><td>1995 A</td><td>13 dicembre</td><td colspan="2">1995</td></tr>
+<tr><td>Svezia\*</td><td colspan="2">7 settembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Svizzera\*</td><td colspan="2">14 settembre</td><td>1982</td><td>30 dicembre</td><td colspan="2">1982</td></tr>
+<tr><td>Tanzania</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Tchad</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Togo</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Tunisia</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Turchia</td><td colspan="2">9 settembre</td><td>2013 A</td><td>9 settembre</td><td colspan="2">2013</td></tr>
+<tr><td>Uganda</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Zambia</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td>Zimbabwe</td><td colspan="2"></td><td></td><td>7 maggio</td><td colspan="2">1982 <sup>a</sup></td></tr>
+<tr><td colspan="7">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Data di partecipazione all’accordo.</td></tr>
+</table>
+
+[^t-2]: [RU 1984 46](https://fedlex.data.admin.ch/eli/oc/1984/46_46_46); [1985 344](https://fedlex.data.admin.ch/eli/oc/1985/344_344_344); [1986 1962](https://fedlex.data.admin.ch/eli/oc/1986/1962_1962_1962); [1992 994](https://fedlex.data.admin.ch/eli/oc/1992/994_994_994); [2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683); [2019 3081](https://fedlex.data.admin.ch/eli/oc/2019/562); [2023 364](https://fedlex.data.admin.ch/eli/oc/2023/364). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty .
+
+Riserve e dichiarazioni
+
+## Svizzera
+
+Conformemente all’articolo 64 paragrafo 3 dell’Accordo la Svizzera si riserva il diritto di assoggettare ad imposta i salari ed emolumenti versati dalla Banca ai suoi cittadini aventi residenza permanente sul suo territorio.

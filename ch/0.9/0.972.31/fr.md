@@ -3,11 +3,11 @@ sr: "0.972.31"
 title: "Accord du 7 mai 1982 portant création de la Banque africaine de développement en date à Khartoum du 4 août 1963 tel qu'amendé par la résolution 05-79 adoptée par le Conseil des Gouverneurs le 17 mai 1979 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/46_46_46"
 language: fr
-version: 2019-09-23
+version: 2023-07-04
 adopted: 1982-05-07
 in_force: 1982-12-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/46_46_46/20190923/fr/xml/fedlex-data-admin-ch-eli-cc-1984-46_46_46-20190923-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/46_46_46/20190923/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/46_46_46/20230704/fr/xml/fedlex-data-admin-ch-eli-cc-1984-46_46_46-20230704-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/46_46_46/20230704/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’acceptation déposé par la Suisse le 14 septembre 1982
 
 Entré en vigueur pour la Suisse le 30 décembre 1982
 
-(Etat le 23 septembre 2019)
+(État le 4 juillet 2023)
 
 [^t-1]: Art. 1<sup>er</sup> al. 1 de l’AF du 19 décembre 1980 ([RO 1984 45](https://fedlex.data.admin.ch/eli/oc/1984/45_45_45))
 
@@ -240,7 +240,7 @@ La Banque, dans le cadre de ses opérations, peut procurer des moyens de finance
 
   En accordant des prêts directs ou en participant à de tels prêts au moyen:
 
-  - i) Des ressources provenant de son capital‑actions libéré et non engagé et – ...[^14-1] – de ses réserves et de l’actif, ou
+  - i) Des ressources provenant de son capital‑actions libéré et non engagé et – …[^14-1] – de ses réserves et de l’actif, ou
   - ii) Des fonds correspondant aux ressources spéciales, ou
 
 - b. En accordant des prêts directs ou en participant à de tels prêts au moyen de fonds qu’elle emprunte ou acquiert de toute manière pour les intégrer dans ses ressources ordinaires en capital ou dans les ressources spéciales, ou
@@ -249,14 +249,14 @@ La Banque, dans le cadre de ses opérations, peut procurer des moyens de finance
 
 <sup>2</sup> Les dispositions du présent Accord qui s’appliquent aux prêts directs que la Banque peut consentir conformément aux al. a ou b du paragraphe précédent s’appliquent également à sa participation à tout prêt direct accordé conformément aux termes de l’un ou l’autre des alinéas susmentionnés. De même, les dispositions de l’Accord qui s’appliquent aux garanties de prêts consentis par la Banque conformément à l’alinéa d du paragraphe précédent sont applicables dans les cas où la Banque ne garantit qu’une partie d’un tel prêt.
 
-[^14-1]: Référence supprimée par la rés. 2001/08 adoptée par le Conseil des gouverneurs le 29 mai 2001, avec effet au 5 juillet 2002 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. IV).
+[^14-1]: Référence abrogée par la rés. 2001/08 adoptée par le Conseil des gouverneurs le 29 mai 2001, avec effet au 5 juillet 2002 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. IV).
 [^14-2]: Nouvelle teneur selon la rés. 2001/08 adoptée par le Conseil des gouverneurs le 29 mai 2001, en vigueur depuis le 5 juillet 2002 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. IV).
 
 #### Art. 15
 
 **Limites des opérations**
 
-<sup>1</sup> L’encours total afférent aux opérations ordinaires de la Banque ne doit, à aucun moment, excéder le montant total du capital souscrit et non grevé de la Banque, des réserves et de l’actif compris dans ses ressources ordinaires en capital – ...[^15-1] –.
+<sup>1</sup> L’encours total afférent aux opérations ordinaires de la Banque ne doit, à aucun moment, excéder le montant total du capital souscrit et non grevé de la Banque, des réserves et de l’actif compris dans ses ressources ordinaires en capital – …[^15-1] –.
 
 <sup>2</sup> L’encours total afférent aux opérations spéciales de la Banque dans le cadre d’un fonds spécial ne doit, à aucun moment, excéder le montant total des ressources spéciales non grevées affectées audit fonds.
 
@@ -265,7 +265,7 @@ La Banque, dans le cadre de ses opérations, peut procurer des moyens de finance
 - <sup>4</sup> a. Dans le cas d’investissements effectués conformément au par. 1(c) de l’art. 14 du présent Accord au moyen des ressources ordinaires en capital de la Banque, l’encours total ne doit, à aucun moment, dépasser un pourcentage fixé par le Conseil des gouverneurs, du montant global du capital-actions de la Banque à libérer entièrement, des réserves et de l’actif compris dans ses ressources ordinaires en capital.
 - b. Le montant d’un investissement particulier visé à l’alinéa précédent ne saurait, au moment où il est fait, dépasser un pourcentage du capital social de l’institution ou de l’entreprise intéressée, fixé par le Conseil d’administration pour tous les investissements effectués conformément au par. 1(c) de l’art. 14 du présent Accord. En aucun cas, la Banque ne cherchera, au moyen de ces investissements, à s’assurer une participation dominante dans l’institution ou l’entreprise en question.[^15-2]
 
-[^15-1]: Référence supprimée par la rés. 2001/08 adoptée par le Conseil des gouverneurs le 29 mai 2001, avec effet au 5 juillet 2002 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. IV).
+[^15-1]: Référence abrogée par la rés. 2001/08 adoptée par le Conseil des gouverneurs le 29 mai 2001, avec effet au 5 juillet 2002 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. IV).
 [^15-2]: Nouvelle teneur selon la rés. 2001/08 adoptée par le Conseil des gouverneurs le 29 mai 2001, en vigueur depuis le 5 juillet 2002 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. IV).
 
 #### Art. 16
@@ -339,7 +339,7 @@ Dans le cas de prêts directement consentis ou garantis par elle, la Banque:
 
 [^1920-1]
 
-[^1920-1]: Supprimés par la rés. 2001/08 adoptée par le Conseil des gouverneurs le 29 mai 2001, avec effet au 5 juillet 2002 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. IV).
+[^1920-1]: Abrogés par la rés. 2001/08 adoptée par le Conseil des gouverneurs le 29 mai 2001, avec effet au 5 juillet 2002 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. IV).
 
 #### Art. 21
 
@@ -524,14 +524,14 @@ Le Conseil des gouverneurs peut déléguer tous ses pouvoirs au Conseil d’admi
 
 Sans préjudice des pouvoirs que l’art. 29 du présent Accord confère au Conseil des gouverneurs, le Conseil d’administration est chargé de la conduite des opérations générales de la Banque. À cette fin, il exerce, outre les pouvoirs que le présent Accord lui confère expressément, tous les pouvoirs à lui déléguer par le Conseil des gouverneurs et, en particulier:
 
-- ...[^32-1]
+- [tab] …[^32-1]
 - a. Prépare le travail du Conseil des gouverneurs;
 - b. Suivant les directives générales que le Conseil des gouverneurs lui donne, prend des décisions concernant les prêts directs individuels, les garanties, les placements en actions et les emprunts de fonds par la Banque;
 - c. Détermine le taux d’intérêt des prêts directs et celui des commissions de garantie;
 - d. Soumet les comptes de chaque exercice financier et un rapport annuel à l’approbation du Conseil des gouverneurs lors de chaque assemblée annuelle, et
 - e. Détermine la structure générale des services de la Banque.
 
-[^32-1]: Let. supprimée par le ch. 2 de la rés. 97/05 adoptée par le Conseil des gouverneurs le 29 mai 1997, avec effet au 5 mai 1998 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. II). Nouvelle numérotation des par. restants, qui deviennent respectivement a à e.
+[^32-1]: Let. abrogée par le ch. 2 de la rés. 97/05 adoptée par le Conseil des gouverneurs le 29 mai 1997, avec effet au 5 mai 1998 ([RO 2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683)ch. II). Nouvelle numérotation des par. restants, qui deviennent respectivement a à e.
 
 #### Art. 33
 
@@ -1011,10 +1011,10 @@ Pour l’élection des administrateurs, chaque gouverneur doit apporter à un se
 <tr><td>\* note du Conseiller général: L’adoption de l’amendement à l’art. 33 portant augmentation, de neuf à dix‑huit du nombre des membres du Conseil d’administration de la Banque, et prévoyant l’élection de douze d’entre eux exclusivement par les États membres régionaux et celle des six autres exclusivement par les États membres non régionaux, a rendu nécessaire la création à l’annexe B de l’Accord de règles distinctes en ce qui concerne l’élection des administrateurs régionaux et non régionaux. Le même amendement a également rendu indispensable la révision par le Conseil des gouverneurs des pourcentages minimum et maximum fixés dans le texte original de l’annexe B relative à l’élection des administrateurs. Au cours de l’examen du présent amendement, le Conseil des gouverneurs a décidé que dans la section de l’annexe B traitant de l’élection des administrateurs régionaux, les pourcentages respectifs soient de huit et dix au lieu de dix et douze tels que prévus dans les règles initiales; il a en même temps fixé les pourcentages minimum et maximum, en ce qui concerne l’élection des administrateurs non régionaux, à quatorze et dix‑neuf respectivement. L’adoption de ces résolutions étant antérieure à celle de la résolution d’amendement de l’Accord portant création de la Banque, l’amendement qui en découle est réputé avoir tenu compte des nouveaux chiffres de pourcentages minimum et maximum.</td></tr>
 </table>
 
-Champ d’application le 23 septembre 2019**[^t-2]**
+Champ d’application le 4 juillet 2023[^t-2]
 
 <table>
-<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>13 décembre</td><td>1995 A</td><td>13 décembre</td><td>1995</td></tr>
 <tr><td>Allemagne\*</td><td>16 février</td><td>1983</td><td>18 février</td><td>1983</td></tr>
 <tr><td>Angola</td><td></td><td></td><td>7 mai</td><td>1982 <sup>a</sup></td></tr>
@@ -1052,6 +1052,7 @@ Champ d’application le 23 septembre 2019**[^t-2]**
 <tr><td>Guinée équatoriale</td><td></td><td></td><td>7 mai</td><td>1982 <sup>a</sup></td></tr>
 <tr><td>Guinée-Bissau</td><td></td><td></td><td>7 mai</td><td>1982 <sup>a</sup></td></tr>
 <tr><td>Inde\*</td><td>6 décembre</td><td>1983</td><td>6 décembre</td><td>1983</td></tr>
+<tr><td>Irlande</td><td>4 mars</td><td>2020 A</td><td>4 mars</td><td>2020</td></tr>
 <tr><td>Italie\*</td><td>26 novembre</td><td>1982</td><td>31 décembre</td><td>1982</td></tr>
 <tr><td>Japon\*</td><td>3 février</td><td>1983</td><td>3 février</td><td>1983</td></tr>
 <tr><td>Kenya</td><td></td><td></td><td>7 mai</td><td>1982 <sup>a</sup></td></tr>
@@ -1093,12 +1094,12 @@ Champ d’application le 23 septembre 2019**[^t-2]**
 <tr><td>Turquie</td><td>9 septembre</td><td>2013 A</td><td>9 septembre</td><td>2013</td></tr>
 <tr><td>Zambie</td><td></td><td></td><td>7 mai</td><td>1982 <sup>a</sup></td></tr>
 <tr><td>Zimbabwe</td><td></td><td></td><td>7 mai</td><td>1982 <sup>a</sup></td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Date de participation à l’accord.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Date de participation à l’accord.</td></tr>
 </table>
 
 ## Réserves et déclarations
 
-[^t-2]: [RO 1984 46](https://fedlex.data.admin.ch/eli/oc/1984/46_46_46), [1985 344](https://fedlex.data.admin.ch/eli/oc/1985/344_344_344), [1986 1962](https://fedlex.data.admin.ch/eli/oc/1986/1962_1962_1962), [1992 994](https://fedlex.data.admin.ch/eli/oc/1992/994_994_994), [2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683), [2019 3091](https://fedlex.data.admin.ch/eli/oc/2019/567). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.eda.admin.ch/eda/fr/home/topics/intla/intrea/dbstv.html).
+[^t-2]: [RO 1984 46](https://fedlex.data.admin.ch/eli/oc/1984/46_46_46); [1985 344](https://fedlex.data.admin.ch/eli/oc/1985/344_344_344); [1986 1962](https://fedlex.data.admin.ch/eli/oc/1986/1962_1962_1962); [1992 994](https://fedlex.data.admin.ch/eli/oc/1992/994_994_994); [2007 4777](https://fedlex.data.admin.ch/eli/oc/2007/683); [2019 3081](https://fedlex.data.admin.ch/eli/oc/2019/562); [2023 364](https://fedlex.data.admin.ch/eli/oc/2023/364). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
 
 ## Suisse
 
