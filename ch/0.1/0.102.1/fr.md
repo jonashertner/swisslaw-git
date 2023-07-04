@@ -3,11 +3,11 @@ sr: "0.102.1"
 title: "Protocole additionnel du 16 novembre 2009 à la Charte européenne de l'autonomie locale sur le droit de participer aux affaires des collectivités locales"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/521"
 language: fr
-version: 2020-06-29
+version: 2023-07-05
 adopted: 2009-11-16
 in_force: 2017-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/521/20200629/fr/xml/fedlex-data-admin-ch-eli-cc-2017-521-20200629-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/521/20200629/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/521/20230705/fr/xml/fedlex-data-admin-ch-eli-cc-2017-521-20230705-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/521/20230705/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,13 +26,13 @@ Instrument de ratification déposé par la Suisse le 18 juillet 2017
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> novembre 2017
 
-(Etat le 29 juin 2020)
+(État le 5 juillet 2023)
 
 [^t-1]: [RO 2017 4841](https://fedlex.data.admin.ch/eli/oc/2017/520)
 
 *Préambule*
 
-Les États membres du Conseil de l’Europe, signataires du présent Protocole additionnel à la Charte européenne de l’autonomie locale*[^ingress-1]* (ci‑après dénommée «la Charte»),
+Les États membres du Conseil de l’Europe, signataires du présent Protocole additionnel à la Charte européenne de l’autonomie locale[^ingress-1] (ci‑après dénommée «la Charte»),
 
 considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun,
 
@@ -145,15 +145,16 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi les soussignés*, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Utrecht, le 16 novembre 2009, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe. *(Suivent les signatures)*
 
-Champ d’application le 29 juin 2020**[^t-2]**
+Champ d’application le 5 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Arménie</td><td>13 mai</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
 <tr><td>Bulgarie</td><td>14 mars</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2016</td></tr>
-<tr><td>Chypre<sup>\*</sup></td><td>28 septembre</td><td>2012</td><td>1<sup>er</sup> janvier</td><td>2013</td></tr>
+<tr><td>Chypre\*</td><td>28 septembre</td><td>2012</td><td>1<sup>er</sup> janvier</td><td>2013</td></tr>
 <tr><td>Estonie</td><td>20 avril</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
 <tr><td>Finlande</td><td>10 février</td><td>2012</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
+<tr><td>France</td><td>1<sup>er</sup> septembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Géorgie\*</td><td>27 novembre</td><td>2019</td><td>1<sup>er</sup> mars</td><td>2020</td></tr>
 <tr><td>Hongrie</td><td>7 juin</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
 <tr><td>Islande</td><td>22 mai</td><td>2017</td><td>1<sup>er</sup> septembre</td><td>2017</td></tr>
@@ -164,16 +165,16 @@ Champ d’application le 29 juin 2020**[^t-2]**
 <tr><td>Norvège</td><td>16 décembre</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
 <tr><td>Svalbard</td><td>16 décembre</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
 <tr><td>Pays-Bas <sup>a</sup></td><td>13 décembre</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
+<tr><td>Portugal</td><td>16 septembre</td><td>2022</td><td>1<sup>er</sup> janvier</td><td>2023</td></tr>
 <tr><td>Serbie</td><td>29 juin</td><td>2018</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
-<tr><td>Slovénie<sup>\*</sup></td><td>6 septembre</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>18 juillet</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
+<tr><td>Slovénie\*</td><td>6 septembre</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
+<tr><td>Suisse\*</td><td>18 juillet</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
 <tr><td>Suède</td><td>5 mai</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>16 décembre</td><td>2014</td><td>1<sup>er</sup> avril</td><td>2015</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe</td></tr>
+<tr><td>Ukraine\*</td><td>16 décembre</td><td>2014</td><td>1<sup>er</sup> avril</td><td>2015</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-2]: [RO 2017 4843](https://fedlex.data.admin.ch/eli/oc/2017/521), [2020 3319](https://fedlex.data.admin.ch/eli/oc/2020/558). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2017 4843](https://fedlex.data.admin.ch/eli/oc/2017/521); [2020 3319](https://fedlex.data.admin.ch/eli/oc/2020/558); [2023 357](https://fedlex.data.admin.ch/eli/oc/2023/357). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
 
 Déclarations
 

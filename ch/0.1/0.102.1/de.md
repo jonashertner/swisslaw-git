@@ -3,11 +3,11 @@ sr: "0.102.1"
 title: Zusatzprotokoll vom 16. November 2009 zur Europäischen Charta der kommunalen Selbstverwaltung über das Recht auf Mitwirkung an den Angelegenheiten der kommunalen Gebietskörperschaften
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/521"
 language: de
-version: 2020-06-29
+version: 2023-07-05
 adopted: 2009-11-16
 in_force: 2017-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/521/20200629/de/xml/fedlex-data-admin-ch-eli-cc-2017-521-20200629-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/521/20200629/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/521/20230705/de/xml/fedlex-data-admin-ch-eli-cc-2017-521-20230705-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/521/20230705/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,13 +26,13 @@ Schweizerische Ratifikationsurkunde hinterlegt am 18. Juli 2017
 
 In Kraft getreten für die Schweiz am 1. November 2017
 
-(Stand am 29. Juni 2020)
+(Stand am 5. Juli 2023)
 
 [^t-1]: [AS 2017 4841](https://fedlex.data.admin.ch/eli/oc/2017/520)
 
 *Präambel*
 
-Die Mitgliedstaaten des Europarats, die dieses Zusatzprotokoll zur Europäischen Charta der kommunalen Selbstverwaltung (im Folgenden als «Charta» bezeichnet*[^ingress-1]*) unterzeichnen,
+Die Mitgliedstaaten des Europarats, die dieses Zusatzprotokoll zur Europäischen Charta der kommunalen Selbstverwaltung (im Folgenden als «Charta» bezeichnet[^ingress-1]) unterzeichnen,
 
 in der Erwägung, dass es das Ziel des Europarats ist, eine engere Verbindung zwischen seinen Mitgliedern herzustellen, um die Ideale und die Grundsätze, die ihr gemeinsames Erbe bilden, zu wahren und zu fördern;
 
@@ -145,7 +145,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichnenden dieses Protokoll unterschrieben. Geschehen zu Utrecht, am 16. November 2009 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats beglaubigte Abschriften. *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 29. Juni 2020**[^t-2]**
+Geltungsbereich am 5. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -153,6 +153,7 @@ Geltungsbereich am 29. Juni 2020**[^t-2]**
 <tr><td>Bulgarien</td><td>14. März</td><td>2016</td><td>1. Juli</td><td>2016</td></tr>
 <tr><td>Estland</td><td>20. April</td><td>2011</td><td>1. Juni</td><td>2012</td></tr>
 <tr><td>Finnland</td><td>10. Februar</td><td>2012</td><td>1. Juni</td><td>2012</td></tr>
+<tr><td>Frankreich</td><td>1. September</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Georgien\*</td><td>27. November</td><td>2019</td><td>1. März</td><td>2020</td></tr>
 <tr><td>Island</td><td>22. Mai</td><td>2017</td><td>1. September</td><td>2017</td></tr>
 <tr><td>Litauen</td><td>26. Juli</td><td>2012</td><td>1. November</td><td>2012</td></tr>
@@ -162,6 +163,7 @@ Geltungsbereich am 29. Juni 2020**[^t-2]**
 <tr><td>Nordmazedonien</td><td>30. September</td><td>2015</td><td>1. Januar</td><td>2016</td></tr>
 <tr><td>Norwegen</td><td>16. Dezember</td><td>2009</td><td>1. Juni</td><td>2012</td></tr>
 <tr><td>Svalbard</td><td>16. Dezember</td><td>2009</td><td>1. Juni</td><td>2012</td></tr>
+<tr><td>Portugal</td><td>16. September</td><td>2022</td><td>1. Januar</td><td>2023</td></tr>
 <tr><td>Schweden</td><td>5. Mai</td><td>2010</td><td>1. Juni</td><td>2012</td></tr>
 <tr><td>Schweiz<sup>\*</sup></td><td>18. Juli</td><td>2017</td><td>1. November</td><td>2017</td></tr>
 <tr><td>Serbien</td><td>29. Juni</td><td>2018</td><td>1. Oktober</td><td>2018</td></tr>
@@ -172,7 +174,7 @@ Geltungsbereich am 29. Juni 2020**[^t-2]**
 <tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2017 4843](https://fedlex.data.admin.ch/eli/oc/2017/521), [2020 3319](https://fedlex.data.admin.ch/eli/oc/2020/558). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2017 4843](https://fedlex.data.admin.ch/eli/oc/2017/521); [2020 3319](https://fedlex.data.admin.ch/eli/oc/2020/558); [2023 357](https://fedlex.data.admin.ch/eli/oc/2023/357). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
 
 Erklärungen
 

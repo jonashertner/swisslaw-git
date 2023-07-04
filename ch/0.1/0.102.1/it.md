@@ -3,11 +3,11 @@ sr: "0.102.1"
 title: "Protocollo addizionale del 16 novembre 2009 alla Carta europea dell'autonomia locale sul diritto di partecipare agli affari delle collettività locali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/521"
 language: it
-version: 2020-06-29
+version: 2023-07-05
 adopted: 2009-11-16
 in_force: 2017-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/521/20200629/it/xml/fedlex-data-admin-ch-eli-cc-2017-521-20200629-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/521/20200629/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/521/20230705/it/xml/fedlex-data-admin-ch-eli-cc-2017-521-20230705-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/521/20230705/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,21 +18,17 @@ RU **2017** 4843; FF **2016** 6253
 
 *Traduzione*
 
-Concluso a Utrecht il 16 novembre 2009
+Concluso a Utrecht il 16 novembre 2009 Approvato dall’Assemblea federale il 17 marzo 2017[^t-1]
 
-Approvato dall’Assemblea federale il 17 marzo 2017[^t-1]
+Strumento di ratifica depositato dalla Svizzera il 18 luglio 2017 Entrato in vigore per la Svizzera il 1° novembre 2017
 
-Strumento di ratifica depositato dalla Svizzera il 18 luglio 2017
-
-Entrato in vigore per la Svizzera il 1° novembre 2017
-
-(Stato 29 giugno 2020)
+(Stato 5 luglio 2023)
 
 [^t-1]: [RU 2017 4841](https://fedlex.data.admin.ch/eli/oc/2017/520)
 
 *Preambolo*
 
-Gli Stati membri del Consiglio d’Europa firmatari del presente Protocollo addizionale alla Carta europea dell’autonomia locale (di seguito denominata «Carta»*[^ingress-1]*),
+Gli Stati membri del Consiglio d’Europa firmatari del presente Protocollo addizionale alla Carta europea dell’autonomia locale (di seguito denominata «Carta»[^ingress-1]),
 
 considerato che il fine del Consiglio d’Europa è di realizzare un’unione più stretta tra i suoi membri, per salvaguardare e promuovere gli ideali ed i principi che sono il loro patrimonio comune;
 
@@ -145,7 +141,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Utrecht il 16 novembre 2009, in francese e in inglese, i due testi facenti ugualmente fede, in un unico esemplare, depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne invia copia autenticata conforme a ciascuno degli Stati membri del Consiglio d’Europa. *(Seguono le firme)*
 
-Campo d’applicazione il 29 giugno 2020[^t-2]
+Campo d’applicazione il 5 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -154,6 +150,7 @@ Campo d’applicazione il 29 giugno 2020[^t-2]
 <tr><td>Cipro<sup>\*</sup></td><td>28 settembre</td><td>2012</td><td>1° gennaio</td><td>2013</td></tr>
 <tr><td>Estonia</td><td>20 aprile</td><td>2011</td><td>1° giugno</td><td>2012</td></tr>
 <tr><td>Finlandia</td><td>10 febbraio</td><td>2012</td><td>1° giugno</td><td>2012</td></tr>
+<tr><td>Francia</td><td>1° settembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Georgia\*</td><td>27 novembre</td><td>2019</td><td>1° marzo</td><td>2020</td></tr>
 <tr><td>Islanda</td><td>22 maggio</td><td>2017</td><td>1° settembre</td><td>2017</td></tr>
 <tr><td>Lituania</td><td>26 luglio</td><td>2012</td><td>1° novembre</td><td>2012</td></tr>
@@ -163,16 +160,17 @@ Campo d’applicazione il 29 giugno 2020[^t-2]
 <tr><td>Norvegia</td><td>16 dicembre</td><td>2009</td><td>1° giugno</td><td>2012</td></tr>
 <tr><td>Svalbard</td><td>16 dicembre</td><td>2009</td><td>1° giugno</td><td>2012</td></tr>
 <tr><td>Paesi Bassi <sup>a</sup></td><td>13 dicembre</td><td>2010</td><td>1° giugno</td><td>2012</td></tr>
+<tr><td>Portogallo</td><td>16 settembre</td><td>2022</td><td>1° gennaio</td><td>2023</td></tr>
 <tr><td>Serbia</td><td>29 giugno</td><td>2018</td><td>1° ottobre</td><td>2018</td></tr>
 <tr><td>Slovenia<sup>\*</sup></td><td>6 settembre</td><td>2011</td><td>1° giugno</td><td>2012</td></tr>
 <tr><td>Svezia</td><td>5 maggio</td><td>2010</td><td>1° giugno</td><td>2012</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>18 luglio</td><td>2017</td><td>1° novembre</td><td>2017</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>16 dicembre</td><td>2014</td><td>1° aprile</td><td>2015</td></tr>
 <tr><td>Ungheria</td><td>7 giugno</td><td>2010</td><td>1° giugno</td><td>2012</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2017 4843](https://fedlex.data.admin.ch/eli/oc/2017/521), [2020 3319](https://fedlex.data.admin.ch/eli/oc/2020/558). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2017 4843](https://fedlex.data.admin.ch/eli/oc/2017/521), [2020 3319](https://fedlex.data.admin.ch/eli/oc/2020/558), [2023 357](https://fedlex.data.admin.ch/eli/oc/2023/357). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [http://www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazione
 
