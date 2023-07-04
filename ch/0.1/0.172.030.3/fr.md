@@ -3,40 +3,41 @@ sr: "0.172.030.3"
 title: Convention européenne du 7 juin 1968 relative à la suppression de la légalisation des actes établis par les agents diplomatiques ou consulaires
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207"
 language: fr
-version: 2020-06-30
+version: 2023-07-05
 adopted: 1968-06-07
 in_force: 1970-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207/20200630/fr/xml/fedlex-data-admin-ch-eli-cc-1970-1211_1207_1207-20200630-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/1211_1207_1207/20200630/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207/20230705/fr/xml/fedlex-data-admin-ch-eli-cc-1970-1211_1207_1207-20230705-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/1211_1207_1207/20230705/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention européenne relative à la suppression de la légalisation des actes établis par les agents diplomatiques ou consulaires
 
-RO **1970** 1207; FF **1969** II 844
+RO **1970** 1207; FF **1969** II 844[^t-1]
 
 TTexte original
 
 Conclue à Londres le 7 juin 1968
 
-Approuvée par l’Assemblée fédérale le 18 mars 1970[^t-1]
+Approuvée par l’Assemblée fédérale le 18 mars 1970[^t-2]
 
 Instrument de ratification déposé par la Suisse le 19 août 1970
 
 Entrée en vigueur pour la Suisse le 20 novembre 1970
 
-(Etat le 30 juin 2020)
+(État le 5 juillet 2023)
 
-[^t-1]: [RO 1970 1205](https://fedlex.data.admin.ch/eli/oc/1970/1209_1205_1205)
+[^t-1]: Erratum du 15 janv. 1980 ([RO 1980 22](https://fedlex.data.admin.ch/eli/oc/1980/22_22_22)).
+[^t-2]: [RO 1970 1205](https://fedlex.data.admin.ch/eli/oc/1970/1209_1205_1205)
 
 Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses Membres;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses Membres,
 
-considérant que les relations entre les États membres, ainsi qu’entre leurs agents diplomatiques ou consulaires, sont de plus en plus fondées sur une confiance réciproque;
+considérant que les relations entre les États membres, ainsi qu’entre leurs agents diplomatiques ou consulaires, sont de plus en plus fondées sur une confiance réciproque,
 
-considérant que la suppression de la légalisation tend à renforcer les liens entre les États membres en permettant l’utilisation de documents étrangers au même titre que ceux qui émanent des autorités nationales;
+considérant que la suppression de la légalisation tend à renforcer les liens entre les États membres en permettant l’utilisation de documents étrangers au même titre que ceux qui émanent des autorités nationales,
 
 convaincus de la nécessité de supprimer l’exigence de la légalisation des actes établis par leurs agents diplomatiques ou consulaires,
 
@@ -113,10 +114,10 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Londres, le 7 juin 1968, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États signataires et adhérents. (Suivent les signatures)
 
-Champ d’application le 30 juin 2020**[^t-2]**
+Champ d’application le 5 juillet 2023[^t-3]
 
 <table>
-<tr><td>États parties</td><td>Ratification Acceptation (a) Adhésion (A)</td><td></td><td>Entrée en vigueur</td><td></td></tr>
+<tr><th>États parties</th><th>Ratification Acceptation (a) Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne\*</td><td>18 juin</td><td>1971</td><td>19 septembre</td><td>1971</td></tr>
 <tr><td>Autriche</td><td>9 avril</td><td>1973</td><td>10 juillet</td><td>1973</td></tr>
 <tr><td>Belgique</td><td>14 mars</td><td>2016</td><td>15 juin</td><td>2016</td></tr>
@@ -127,6 +128,7 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Grèce</td><td>22 février</td><td>1979</td><td>23 mai</td><td>1979</td></tr>
 <tr><td>Irlande</td><td>8 décembre</td><td>1998</td><td>9 mars</td><td>1999</td></tr>
 <tr><td>Italie</td><td>18 octobre</td><td>1971</td><td>19 janvier</td><td>1972</td></tr>
+<tr><td>Lettonie</td><td>20 mai</td><td>2022</td><td>21 août</td><td>2022</td></tr>
 <tr><td>Liechtenstein</td><td>6 novembre</td><td>1972 A</td><td>7 février</td><td>1973</td></tr>
 <tr><td>Luxembourg</td><td>30 mars</td><td>1979</td><td>30 juin</td><td>1979</td></tr>
 <tr><td>Malte</td><td>14 mars</td><td>2018</td><td>15 juin</td><td>2018</td></tr>
@@ -142,12 +144,14 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>République tchèque</td><td>24 juin</td><td>1998</td><td>25 septembre</td><td>1998</td></tr>
 <tr><td>Roumanie</td><td>2 janvier</td><td>2012</td><td>3 avril</td><td>2012</td></tr>
 <tr><td>Royaume-Uni\*</td><td>24 septembre</td><td>1969</td><td>14 août</td><td>1970</td></tr>
-<tr><td>[tab] Guernesey, Jersey</td><td>9 septembre</td><td>1971</td><td>9 septembre</td><td>1971</td></tr>
-<tr><td>[tab] Île de Man</td><td>24 septembre</td><td>1969</td><td>14 août</td><td>1970</td></tr>
+<tr><td>Guernesey, Jersey</td><td>9 septembre</td><td>1971</td><td>9 septembre</td><td>1971</td></tr>
+<tr><td>Île de Man</td><td>24 septembre</td><td>1969</td><td>14 août</td><td>1970</td></tr>
+<tr><td>Russie</td><td>8 décembre</td><td>2020</td><td>9 mars</td><td>2021</td></tr>
 <tr><td>Suède</td><td>27 septembre</td><td>1973</td><td>28 décembre</td><td>1973</td></tr>
 <tr><td>Suisse</td><td>19 août</td><td>1970</td><td>20 novembre</td><td>1970</td></tr>
 <tr><td>Turquie</td><td>22 juin</td><td>1987</td><td>23 septembre</td><td>1987</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Ukraine</td><td>5 janvier</td><td>2023</td><td>6 avril</td><td>2023</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1976 1495](https://fedlex.data.admin.ch/eli/oc/1976/1495_1495_1495), [1979 2106](https://fedlex.data.admin.ch/eli/oc/1979/2101_2106_2106), [1982 2073](https://fedlex.data.admin.ch/eli/oc/1982/2073_2073_2073), [1983 1174](https://fedlex.data.admin.ch/eli/oc/1983/1174_1174_1174), [1988 569](https://fedlex.data.admin.ch/eli/oc/1988/569_569_569), [2001 466](https://fedlex.data.admin.ch/eli/oc/2001/92), [2006 2017](https://fedlex.data.admin.ch/eli/oc/2006/315), [2013 1583](https://fedlex.data.admin.ch/eli/oc/2013/365), [2016 2741](https://fedlex.data.admin.ch/eli/oc/2016/444), [2020 3321](https://fedlex.data.admin.ch/eli/oc/2020/559). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1976 1495](https://fedlex.data.admin.ch/eli/oc/1976/1495_1495_1495); [1979 2106](https://fedlex.data.admin.ch/eli/oc/1979/2101_2106_2106); [1982 2073](https://fedlex.data.admin.ch/eli/oc/1982/2073_2073_2073); [1983 1174](https://fedlex.data.admin.ch/eli/oc/1983/1174_1174_1174); [1988 569](https://fedlex.data.admin.ch/eli/oc/1988/569_569_569); [2001 466](https://fedlex.data.admin.ch/eli/oc/2001/92); [2006 2017](https://fedlex.data.admin.ch/eli/oc/2006/315); [2013 1583](https://fedlex.data.admin.ch/eli/oc/2013/365); [2016 2741](https://fedlex.data.admin.ch/eli/oc/2016/444); [2020 3321](https://fedlex.data.admin.ch/eli/oc/2020/559); [2023 358](https://fedlex.data.admin.ch/eli/oc/2023/358). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).

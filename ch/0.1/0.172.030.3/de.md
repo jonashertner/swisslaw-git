@@ -3,11 +3,11 @@ sr: "0.172.030.3"
 title: Europäisches Übereinkommen vom 7. Juni 1968 zur Befreiung der von diplomatischen oder konsularischen Vertretern errichteten Urkunden von der Beglaubigung
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207"
 language: de
-version: 2020-06-30
+version: 2023-07-05
 adopted: 1968-06-07
 in_force: 1970-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207/20200630/de/xml/fedlex-data-admin-ch-eli-cc-1970-1211_1207_1207-20200630-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/1211_1207_1207/20200630/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207/20230705/de/xml/fedlex-data-admin-ch-eli-cc-1970-1211_1207_1207-20230705-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/1211_1207_1207/20230705/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1970** 1211; BBl **1969** II 821
 
 Abgeschlossen in London am 7. Juni 1968 Von der Bundesversammlung genehmigt am 18. März 1970[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. August 1970 In Kraft getreten für die Schweiz am 20. November 1970
 
-(Stand am 30. Juni 2020)
+(Stand am 5. Juli 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 18. März 1970 ([AS 1970 1209](https://fedlex.data.admin.ch/eli/oc/1970/1209_1205_1205))
 
@@ -107,7 +107,7 @@ Der Generalsekretär des Europarates notifiziert den Mitgliedstaaten des Rates u
 
 *Zu Urkund dessen* haben die hiezu gehörig befugten Unterzeichneten dieses Übereinkommens unterzeichnet. Geschehen zu London am 7. Juni 1968, in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer einzigen Ausfertigung, die im Archiv des Europarates hinterlegt wird. Der Generalsekretär des Europarates übermittelt allen Unterzeichnerstaaten und beitretenden Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 30. Juni 2020**[^t-2]**
+Geltungsbereich am 5. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Annahme (A) Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -118,6 +118,7 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Griechenland</td><td>22. Februar</td><td>1979</td><td>23. Mai</td><td>1979</td></tr>
 <tr><td>Irland</td><td>8. Dezember</td><td>1998</td><td>9. März</td><td>1999</td></tr>
 <tr><td>Italien</td><td>18. Oktober</td><td>1971</td><td>19. Januar</td><td>1972</td></tr>
+<tr><td>Lettland</td><td>20. Mai</td><td>2022</td><td>21. August</td><td>2022</td></tr>
 <tr><td>Liechtenstein</td><td>6. November</td><td>1972 B</td><td>7. Februar</td><td>1973</td></tr>
 <tr><td>Luxemburg</td><td>30. März</td><td>1979</td><td>30. Juni</td><td>1979</td></tr>
 <tr><td>Malta</td><td>14. März</td><td>2018</td><td>15. Juni</td><td>2018</td></tr>
@@ -132,17 +133,19 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Polen</td><td>11. Januar</td><td>1995</td><td>12. April</td><td>1995</td></tr>
 <tr><td>Portugal</td><td>13. Dezember</td><td>1982</td><td>14. März</td><td>1983</td></tr>
 <tr><td>Rumänien</td><td>2. Januar</td><td>2012</td><td>3. April</td><td>2012</td></tr>
+<tr><td>Russland</td><td>8. Dezember</td><td>2020</td><td>9. März</td><td>2021</td></tr>
 <tr><td>Schweden</td><td>27. September</td><td>1973</td><td>28. Dezember</td><td>1973</td></tr>
 <tr><td>Schweiz</td><td>19. August</td><td>1970</td><td>20. November</td><td>1970</td></tr>
 <tr><td>Spanien</td><td>10. Juni</td><td>1982</td><td>11. September</td><td>1982</td></tr>
 <tr><td>Tschechische Republik</td><td>24. Juni</td><td>1998</td><td>25. September</td><td>1998</td></tr>
 <tr><td>Türkei</td><td>22. Juni</td><td>1987</td><td>23. September</td><td>1987</td></tr>
+<tr><td>Ukraine</td><td>5. Januar</td><td>2023</td><td>6. April</td><td>2023</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>24. September</td><td>1969</td><td>14. August</td><td>1970</td></tr>
 <tr><td>Guernsey</td><td>9. September</td><td>1971</td><td>9. September</td><td>1971</td></tr>
 <tr><td>Insel Man</td><td>24. September</td><td>1969</td><td>14. August</td><td>1970</td></tr>
 <tr><td>Jersey</td><td>9. September</td><td>1971</td><td>9. September</td><td>1971</td></tr>
 <tr><td>Zypern</td><td>16. April</td><td>1969</td><td>14. August</td><td>1970</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1976 1495](https://fedlex.data.admin.ch/eli/oc/1976/1495_1495_1495), [1979 2101](https://fedlex.data.admin.ch/eli/oc/1979/2101_2106_2106), [1982 2073](https://fedlex.data.admin.ch/eli/oc/1982/2073_2073_2073), [1983 1174](https://fedlex.data.admin.ch/eli/oc/1983/1174_1174_1174), [1988 569](https://fedlex.data.admin.ch/eli/oc/1988/569_569_569), [2001 466](https://fedlex.data.admin.ch/eli/oc/2001/92), [2006 2017](https://fedlex.data.admin.ch/eli/oc/2006/315), [2013 1583](https://fedlex.data.admin.ch/eli/oc/2013/365), [2016 2741](https://fedlex.data.admin.ch/eli/oc/2016/444), [2020 3321](https://fedlex.data.admin.ch/eli/oc/2020/559). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1976 1495](https://fedlex.data.admin.ch/eli/oc/1976/1495_1495_1495); [1979 2101](https://fedlex.data.admin.ch/eli/oc/1979/2101_2106_2106); [1982 2073](https://fedlex.data.admin.ch/eli/oc/1982/2073_2073_2073); [1983 1174](https://fedlex.data.admin.ch/eli/oc/1983/1174_1174_1174); [1988 569](https://fedlex.data.admin.ch/eli/oc/1988/569_569_569); [2001 466](https://fedlex.data.admin.ch/eli/oc/2001/92); [2006 2017](https://fedlex.data.admin.ch/eli/oc/2006/315); [2013 1583](https://fedlex.data.admin.ch/eli/oc/2013/365); [2016 2741](https://fedlex.data.admin.ch/eli/oc/2016/444); [2020 3321](https://fedlex.data.admin.ch/eli/oc/2020/559); [2023 358](https://fedlex.data.admin.ch/eli/oc/2023/358). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

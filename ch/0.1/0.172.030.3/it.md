@@ -3,26 +3,24 @@ sr: "0.172.030.3"
 title: Convenzione europea del 7 giugno 1968 sulla soppressione della legalizzazione di atti compilati dagli agenti diplomatici o consolari
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207"
 language: it
-version: 2020-06-30
+version: 2023-07-05
 adopted: 1968-06-07
 in_force: 1970-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207/20200630/it/xml/fedlex-data-admin-ch-eli-cc-1970-1211_1207_1207-20200630-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/1211_1207_1207/20200630/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207/20230705/it/xml/fedlex-data-admin-ch-eli-cc-1970-1211_1207_1207-20230705-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/1211_1207_1207/20230705/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione europea sulla soppressione della legalizzazione di atti compilati dagli agenti diplomatici o consolari
 
-RU **1970** 1207; FF **1969** II 207
-
 Traduzione
 
 Conchiusa a Londra il 7 giugno 1968 Approvata dall’Assemblea federale il 18 marzo 1970[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 19 agosto 1970 Entrata in vigore per la Svizzera il 20 novembre 1970
 
-(Stato 30 giugno 2020)
+(Stato 5 luglio 2023)
 
-[^t-1]: Art. 1 cpv. 1 del DF del 18 mar. 1970 ([RU 1970 1205](https://fedlex.data.admin.ch/eli/oc/1970/1209_1205_1205)).
+[^t-1]: RU **1970** 1207; FF **1969** II 207 Art. 1 cpv. 1 del DF del 18 mar. 1970 (RU **1970** 1205).
 
 Gli Stati membri del Consiglio d’Europa, firmatari della presente Convenzione,
 
@@ -107,7 +105,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Londra, il 7 giugno 1968, nelle lingue francese e inglese, i due testi facendo ugualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne comunicherà una copia certificata conforme a ciascuno degli Stati che hanno firmato la presente Convenzione o vi hanno aderito. (Seguono le firme)
 
-Campo d’applicazione il 30 giugno 2020**[^t-2]**
+Campo d’applicazione il 5 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Accettazione (a) Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -121,6 +119,7 @@ Campo d’applicazione il 30 giugno 2020**[^t-2]**
 <tr><td>Grecia</td><td>22 febbraio</td><td>1979</td><td>23 maggio</td><td>1979</td></tr>
 <tr><td>Irlanda</td><td>8 dicembre</td><td>1998</td><td>9 marzo</td><td>1999</td></tr>
 <tr><td>Italia</td><td>18 ottobre</td><td>1971</td><td>19 gennaio</td><td>1972</td></tr>
+<tr><td>Lettonia</td><td>20 maggio</td><td>2022</td><td>21 agosto</td><td>2022</td></tr>
 <tr><td>Liechtenstein</td><td>6 novembre</td><td>1972 A</td><td>7 febbraio</td><td>1973</td></tr>
 <tr><td>Lussemburgo</td><td>30 marzo</td><td>1979</td><td>30 giugno</td><td>1979</td></tr>
 <tr><td>Malta</td><td>14 marzo</td><td>2018</td><td>15 giugno</td><td>2018</td></tr>
@@ -138,11 +137,13 @@ Campo d’applicazione il 30 giugno 2020**[^t-2]**
 <tr><td>Isola di Man</td><td>24 settembre</td><td>1969</td><td>14 agosto</td><td>1970</td></tr>
 <tr><td>Jersey</td><td>9 settembre</td><td>1971</td><td>9 settembre</td><td>1971</td></tr>
 <tr><td>Romania</td><td>2 gennaio</td><td>2012</td><td>3 aprile</td><td>2012</td></tr>
+<tr><td>Russia</td><td>8 dicembre</td><td>2020</td><td>9 marzo</td><td>2021</td></tr>
 <tr><td>Spagna</td><td>10 giugno</td><td>1982</td><td>11 settembre</td><td>1982</td></tr>
 <tr><td>Svezia</td><td>27 settembre</td><td>1973</td><td>28 dicembre</td><td>1973</td></tr>
 <tr><td>Svizzera</td><td>19 agosto</td><td>1970</td><td>20 novembre</td><td>1970</td></tr>
 <tr><td>Turchia</td><td>22 giugno</td><td>1987</td><td>23 settembre</td><td>1987</td></tr>
+<tr><td>Ucraina</td><td>5 gennaio</td><td>2023</td><td>6 aprile</td><td>2023</td></tr>
 <tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1976 1495](https://fedlex.data.admin.ch/eli/oc/1976/1495_1495_1495), [1979 2106](https://fedlex.data.admin.ch/eli/oc/1979/2101_2106_2106), [1982 2073](https://fedlex.data.admin.ch/eli/oc/1982/2073_2073_2073), [1983 1174](https://fedlex.data.admin.ch/eli/oc/1983/1174_1174_1174), [1988 569](https://fedlex.data.admin.ch/eli/oc/1988/569_569_569), [2001 466](https://fedlex.data.admin.ch/eli/oc/2001/92), [2006 2017](https://fedlex.data.admin.ch/eli/oc/2006/315), [2013 1583](https://fedlex.data.admin.ch/eli/oc/2013/365), [2016 2741](https://fedlex.data.admin.ch/eli/oc/2016/444), [2020 3321](https://fedlex.data.admin.ch/eli/oc/2020/559). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1970 1207](https://fedlex.data.admin.ch/eli/oc/1970/1211_1207_1207); [1976 1495](https://fedlex.data.admin.ch/eli/oc/1976/1495_1495_1495); [1979 2106](https://fedlex.data.admin.ch/eli/oc/1979/2101_2106_2106); [1982 2073](https://fedlex.data.admin.ch/eli/oc/1982/2073_2073_2073); [1983 1174](https://fedlex.data.admin.ch/eli/oc/1983/1174_1174_1174); [1988 569](https://fedlex.data.admin.ch/eli/oc/1988/569_569_569); [2001 466](https://fedlex.data.admin.ch/eli/oc/2001/92); [2006 2017](https://fedlex.data.admin.ch/eli/oc/2006/315); [2013 1583](https://fedlex.data.admin.ch/eli/oc/2013/365); [2016 2741](https://fedlex.data.admin.ch/eli/oc/2016/444); [2020 3321](https://fedlex.data.admin.ch/eli/oc/2020/559); [2023 358](https://fedlex.data.admin.ch/eli/oc/2023/358). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty).
