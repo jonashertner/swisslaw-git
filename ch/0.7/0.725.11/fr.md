@@ -4,11 +4,11 @@ title: Accord européen du 15 novembre 1975 sur les grandes routes de trafic int
 short: AGR
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834"
 language: fr
-version: 2017-12-05
+version: 2023-07-05
 adopted: 1975-11-15
 in_force: 1988-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20171205/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20171205-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20171205/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20230705/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20230705-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20230705/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -27,7 +27,7 @@ Instrument de ratification déposé par la Suisse le 5 août 1988
 
 Entré en vigueur pour la Suisse le 3 novembre 1988
 
-(Etat le 5 décembre 2017)
+(État le 5 juillet 2023)
 
 [^t-1]: [RO 1988 1833](https://fedlex.data.admin.ch/eli/oc/1988/1833_1833_1833)
 
@@ -63,9 +63,9 @@ Les routes du réseau international «E» auquel se réfère l’article premier
 
 <sup>1.</sup> Les routes du réseau international «E» seront identifiées et signalées au moyen du signal décrit à l’annexe III au présent Accord.
 
-<sup>2.</sup> Tous les signaux utilisés pour désigner les routes E, qui ne sont pas conformes aux dispositions du présent Accord et ses annexes, seront enlevés dans les trois ans qui suivront la date à laquelle le présent Accord entrera en vigueur pour l’Etat concerné, en application de l’article 6.
+<sup>2.</sup> Tous les signaux utilisés pour désigner les routes E, qui ne sont pas conformes aux dispositions du présent Accord et ses annexes, seront enlevés dans les trois ans qui suivront la date à laquelle le présent Accord entrera en vigueur pour l’État concerné, en application de l’article 6.
 
-<sup>3.</sup> De nouveaux signaux conformes à celui qui est décrit dans l’annexe III au présent Accord seront mis en place sur toutes les routes du réseau international «E» dans les quatre ans qui suivront la date à laquelle le présent Accord entrera en vigueur pour l’Etat concerné, en application de l’article 6.
+<sup>3.</sup> De nouveaux signaux conformes à celui qui est décrit dans l’annexe III au présent Accord seront mis en place sur toutes les routes du réseau international «E» dans les quatre ans qui suivront la date à laquelle le présent Accord entrera en vigueur pour l’État concerné, en application de l’article 6.
 
 <sup>4.</sup> Les dispositions du présent article ne sont pas sujettes aux limitations pouvant résulter des programmes nationaux mentionnés à l’article premier du présent Accord.
 
@@ -73,12 +73,12 @@ Les routes du réseau international «E» auquel se réfère l’article premier
 
 #### Art. 5
 
-<sup>1.</sup> Le présent Accord sera ouvert jusqu’au 31 décembre 1976 à la signature des Etats qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au paragraphe 8 du Mandat de cette Commission.
+<sup>1.</sup> Le présent Accord sera ouvert jusqu’au 31 décembre 1976 à la signature des États qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au paragraphe 8 du Mandat de cette Commission.
 
-<sup>2.</sup> Ces Etats pourront devenir parties au présent Accord par
+<sup>2.</sup> Ces États pourront devenir parties au présent Accord par
 
 - a) signature sans réserve de ratification, acceptation ou approbation;
-- b) signature sous réserve de ratification, acceptation ou approbation, suivie de ratification, acceptation ou approbation; ou
+- b) signature sous réserve de ratification, acceptation ou approbation, suivie de ratification, acceptation ou approbation, ou
 - c) adhésion.
 
 <sup>3.</sup> La ratification, l’acceptation, l’approbation ou l’adhésion s’effectueront par le dépôt d’un instrument en bonne et due forme auprès du Secrétaire général de l’Organisation des Nations Unies.
@@ -87,11 +87,11 @@ Les routes du réseau international «E» auquel se réfère l’article premier
 
 #### Art. 6
 
-<sup>1.</sup> Le présent Accord entrera en vigueur 90 jours après la date à laquelle les gouvernements de huit Etats auront soit signé l’Accord sans réserve de ratification, acceptation ou approbation, soit déposé un instrument de ratification, acceptation, approbation ou adhésion, à condition qu’une ou plusieurs routes du réseau international «E» relient de façon ininterrompue les territoires d’au moins quatre des Etats ayant ainsi signé ou ayant déposé un tel instrument. Si cette condition n’est pas remplie, l’Accord entrera en vigueur 90 jours après la date soit de la signature sans réserve de ratification, acceptation ou approbation, soit du dépôt de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion qui permettra de satisfaire à ladite condition.
+<sup>1.</sup> Le présent Accord entrera en vigueur 90 jours après la date à laquelle les gouvernements de huit États auront soit signé l’Accord sans réserve de ratification, acceptation ou approbation, soit déposé un instrument de ratification, acceptation, approbation ou adhésion, à condition qu’une ou plusieurs routes du réseau international «E» relient de façon ininterrompue les territoires d’au moins quatre des États ayant ainsi signé ou ayant déposé un tel instrument. Si cette condition n’est pas remplie, l’Accord entrera en vigueur 90 jours après la date soit de la signature sans réserve de ratification, acceptation ou approbation, soit du dépôt de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion qui permettra de satisfaire à ladite condition.
 
-<sup>2.</sup> Pour chaque Etat qui déposera son instrument de ratification, d’acceptation, d’approbation ou d’adhésion après la date à partir de laquelle court le délai de 90 jours spécifié au paragraphe 1 du présent article, l’Accord entrera en vigueur 90 jours après la date dudit dépôt.
+<sup>2.</sup> Pour chaque État qui déposera son instrument de ratification, d’acceptation, d’approbation ou d’adhésion après la date à partir de laquelle court le délai de 90 jours spécifié au paragraphe 1 du présent article, l’Accord entrera en vigueur 90 jours après la date dudit dépôt.
 
-<sup>3.</sup> A son entrée en vigueur, le présent Accord abrogera et remplacera, dans les relations entre les Parties contractantes, la Déclaration sur la construction de grandes routes de trafic international, signée à Genève le 16 septembre 1950.
+<sup>3.</sup> À son entrée en vigueur, le présent Accord abrogera et remplacera, dans les relations entre les Parties contractantes, la Déclaration sur la construction de grandes routes de trafic international, signée à Genève le 16 septembre 1950.
 
 ## Procédure d’amendement du texte principal du présent Accord
 
@@ -103,7 +103,7 @@ Les routes du réseau international «E» auquel se réfère l’article premier
 - b) S’il est adopté par une majorité des deux tiers des membres présents et votants, et si cette majorité comprend une majorité des deux tiers des Parties contractantes présentes et votantes, l’amendement sera communiqué pour acceptation à toutes les Parties contractantes par le Secrétaire général.
 - c) Si l’amendement est accepté par les deux tiers des Parties contractantes, le Secrétaire général le notifiera à toutes les Parties contractantes et l’amendement entrera en vigueur douze mois après la date de cette notification. L’amendement entrera en vigueur pour toutes les Parties contractantes à l’exception de celles qui, avant son entrée en vigueur, auront déclaré ne pas l’accepter.
 
-<sup>3.</sup> Sur la demande d’un tiers au moins des Parties contractantes, une conférence, à laquelle seront invités les Etats visés à l’article 5, sera convoquée par le Secrétaire général. La procédure indiquée aux alinéas a) et b) du paragraphe 2 du présent article sera appliquée à l’égard de tout amendement soumis à l’examen d’une telle conférence.
+<sup>3.</sup> Sur la demande d’un tiers au moins des Parties contractantes, une conférence, à laquelle seront invités les États visés à l’article 5, sera convoquée par le Secrétaire général. La procédure indiquée aux alinéas a) et b) du paragraphe 2 du présent article sera appliquée à l’égard de tout amendement soumis à l’examen d’une telle conférence.
 
 ## Procédure d’amendement de l’annexe I au présent Accord
 
@@ -144,7 +144,7 @@ S’il est adopté par la majorité des membres présents et votants, et si cett
 
 #### Art. 10
 
-Chaque Etat, au moment où il signera, ratifiera, acceptera ou approuvera le présent Accord ou y adhérera, notifiera au Secrétaire général le nom et l’adresse de son administration à laquelle doivent être communiquées, conformément aux dispositions des articles 8 et 9 du présent Accord, les propositions d’amendement aux annexes à cet Accord.
+Chaque État, au moment où il signera, ratifiera, acceptera ou approuvera le présent Accord ou y adhérera, notifiera au Secrétaire général le nom et l’adresse de son administration à laquelle doivent être communiquées, conformément aux dispositions des articles 8 et 9 du présent Accord, les propositions d’amendement aux annexes à cet Accord.
 
 ## Dénonciation de l’Accord et cessation de sa validité
 
@@ -176,13 +176,13 @@ Aucune disposition du présent Accord ne sera interprétée comme interdisant à
 
 #### Art. 15
 
-Tout Etat pourra, au moment où il signera le présent Accord ou déposera son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’il ne se considère pas lié par l’article 13 du présent Accord. Les autres Parties contractantes ne seront pas liées par l’article 13 vis‑à‑vis de l’une quelconque des Parties contractantes qui aura fait une telle déclaration.
+Tout État pourra, au moment où il signera le présent Accord ou déposera son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’il ne se considère pas lié par l’article 13 du présent Accord. Les autres Parties contractantes ne seront pas liées par l’article 13 vis‑à‑vis de l’une quelconque des Parties contractantes qui aura fait une telle déclaration.
 
 ## Notification aux Parties contractantes
 
 #### Art. 16
 
-Outre les déclarations, notifications et communications prévues aux articles 7, 8, 9 et 15 du présent Accord, le Secrétaire général notifiera aux Parties contractantes et aux autres Etats visés à l’article 5:
+Outre les déclarations, notifications et communications prévues aux articles 7, 8, 9 et 15 du présent Accord, le Secrétaire général notifiera aux Parties contractantes et aux autres États visés à l’article 5:
 
 - a) les signatures, ratifications, acceptations, approbations et adhésions au titre de l’article 5,
 - b) les dates d’entrée en vigueur du présent Accord en vertu de l’article 6;
@@ -194,21 +194,19 @@ Outre les déclarations, notifications et communications prévues aux articles 7
 
 #### Art. 17
 
-Après le 31 décembre 1976, l’original du présent Accord sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à tous les Etats visés à l’article 5 du présent Accord.
+Après le 31 décembre 1976, l’original du présent Accord sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à tous les États visés à l’article 5 du présent Accord.
 
-*En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le quinze novembre mil neuf cent soixante‑quinze en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi.
+*En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le quinze novembre mil neuf cent soixante‑quinze en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi. (Suivent les signatures)
 
-(Suivent les signatures)
-
-Champ d’application le 27 mai 2009**[^t-2]**
+Champ d’application le 5 juillet 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Albanie</td><td>2 août</td><td>2006 A</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>2 août</td><td>2006 A</td><td>31 octobre</td><td>2006</td></tr>
 <tr><td>Allemagne</td><td>3 août</td><td>1978</td><td>15 mars</td><td>1983</td></tr>
 <tr><td>Arménie</td><td>9 juin</td><td>2006 A</td><td>7 septembre</td><td>2006</td></tr>
 <tr><td>Azerbaïdjan</td><td>16 août</td><td>1996 A</td><td>14 novembre</td><td>1996</td></tr>
-<tr><td>Bélarus<sup>\*</sup></td><td>17 décembre</td><td>1982 A</td><td>17 mars</td><td>1983</td></tr>
+<tr><td>Bélarus\*</td><td>17 décembre</td><td>1982 A</td><td>17 mars</td><td>1983</td></tr>
 <tr><td>Belgique</td><td>15 avril</td><td>1985 A</td><td>14 juillet</td><td>1985</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> septembre</td><td>1993 S</td><td>6 mars</td><td>1992</td></tr>
 <tr><td>Bulgarie</td><td>17 novembre</td><td>1977</td><td>15 mars</td><td>1983</td></tr>
@@ -218,30 +216,31 @@ Champ d’application le 27 mai 2009**[^t-2]**
 <tr><td>France</td><td>15 décembre</td><td>1982 A</td><td>15 mars</td><td>1983</td></tr>
 <tr><td>Géorgie</td><td>30 août</td><td>1995 A</td><td>28 novembre</td><td>1995</td></tr>
 <tr><td>Grèce</td><td>11 octobre</td><td>1988 A</td><td>9 janvier</td><td>1989</td></tr>
-<tr><td>Hongrie<sup>\*</sup></td><td>1<sup>er</sup> septembre</td><td>1978 A</td><td>15 mars</td><td>1983</td></tr>
+<tr><td>Hongrie\*</td><td>1<sup>er</sup> septembre</td><td>1978 A</td><td>15 mars</td><td>1983</td></tr>
 <tr><td>Italie</td><td>2 juillet</td><td>1981 A</td><td>15 mars</td><td>1983</td></tr>
 <tr><td>Kazakhstan</td><td>17 juillet</td><td>1995 A</td><td>15 octobre</td><td>1995</td></tr>
 <tr><td>[tab] Lettonie</td><td>12 juin</td><td>1997 A</td><td>10 septembre</td><td>1997</td></tr>
 <tr><td>Lituanie</td><td>27 août</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
 <tr><td>Luxembourg</td><td>20 novembre</td><td>1981</td><td>15 mars</td><td>1983</td></tr>
-<tr><td>[tab] Macédoine</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>[tab] Macédoine du Nord</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Moldova</td><td>25 mai</td><td>2006 A</td><td>23 août</td><td>2006</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Norvège</td><td>14 septembre</td><td>1992 A</td><td>13 décembre</td><td>1992</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup></td><td>12 décembre</td><td>1979 A</td><td>15 mars</td><td>1983</td></tr>
+<tr><td>Pays-Bas\*</td><td>12 décembre</td><td>1979 A</td><td>15 mars</td><td>1983</td></tr>
 <tr><td>Pologne</td><td>9 novembre</td><td>1984</td><td>7 février</td><td>1985</td></tr>
 <tr><td>Portugal</td><td>8 janvier</td><td>1991 A</td><td>8 avril</td><td>1991</td></tr>
-<tr><td>République tchèque<sup>\*</sup></td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td>Roumanie<sup>\*</sup></td><td>2 juillet</td><td>1985 A</td><td>30 septembre</td><td>1985</td></tr>
+<tr><td>République tchèque\*</td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie\*</td><td>2 juillet</td><td>1985 A</td><td>30 septembre</td><td>1985</td></tr>
 <tr><td>Russie</td><td>14 décembre</td><td>1982 A</td><td>15 mars</td><td>1983</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
-<tr><td>Slovaquie<sup>\*</sup></td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovaquie\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Suède</td><td>27 octobre</td><td>1992 A</td><td>25 janvier</td><td>1993</td></tr>
 <tr><td>Suisse</td><td>5 août</td><td>1988</td><td>3 novembre</td><td>1988</td></tr>
+<tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>29 novembre</td><td>2020</td></tr>
 <tr><td>Turquie</td><td>16 octobre</td><td>1992 A</td><td>14 janvier</td><td>1993</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>29 décembre</td><td>1982 A</td><td>29 mars</td><td>1983</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit internationalpublic (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Ukraine\*</td><td>29 décembre</td><td>1982 A</td><td>29 mars</td><td>1983</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1988 1834](https://fedlex.data.admin.ch/eli/oc/1988/1834_1834_1834); [1991 2216](https://fedlex.data.admin.ch/eli/oc/1991/2216_2216_2216); [1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2009 3205](https://fedlex.data.admin.ch/eli/oc/2009/414); [2023 372](https://fedlex.data.admin.ch/eli/oc/2023/372). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

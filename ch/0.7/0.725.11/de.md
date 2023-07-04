@@ -4,11 +4,11 @@ title: Europäisches Übereinkommen vom 15. November 1975 über die Hauptstrasse
 short: AGR
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834"
 language: de
-version: 2017-12-05
+version: 2023-07-05
 adopted: 1975-11-15
 in_force: 1988-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20171205/de/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20171205-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20171205/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20230705/de/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20230705-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20230705/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -21,7 +21,7 @@ AS **1988** 1834, BBl **1987** III 181
 
 Abgeschlossen in Genf am 15. November 1975 Von der Bundesversammlung genehmigt am 1. März 1988[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 5. August 1988 In Kraft getreten für die Schweiz am 3. November 1988
 
-(Stand am 5. Dezember 2017)
+(Stand am 5. Juli 2023)
 
 [^t-1]: [AS 1988 1833](https://fedlex.data.admin.ch/eli/oc/1988/1833_1833_1833)
 
@@ -190,11 +190,11 @@ Geschehen zu Genf am 15. November 1975 in einer Urschrift in englischer, franzö
 
 ## (Es folgen die Unterschriften)
 
-Geltungsbereich am 27. Mai 2009**[^t-2]**
+Geltungsbereich am 5. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Albanien</td><td>2. August</td><td>2006 B</td><td>1. Oktober</td><td>2006</td></tr>
+<tr><td>Albanien</td><td>2. August</td><td>2006 B</td><td>31. Oktober</td><td>2006</td></tr>
 <tr><td>Armenien</td><td>9. Juni</td><td>2006 B</td><td>7. September</td><td>2006</td></tr>
 <tr><td>Aserbaidschan</td><td>16. August</td><td>1996 B</td><td>14. November</td><td>1996</td></tr>
 <tr><td>Belarus\*</td><td>17. Dezember</td><td>1982 B</td><td>17. März</td><td>1983</td></tr>
@@ -213,10 +213,10 @@ Geltungsbereich am 27. Mai 2009**[^t-2]**
 <tr><td>Lettland</td><td>12. Juni</td><td>1997 B</td><td>10. September</td><td>1997</td></tr>
 <tr><td>Litauen</td><td>27. August</td><td>1993 B</td><td>25. November</td><td>1993</td></tr>
 <tr><td>Luxemburg</td><td>20. November</td><td>1981</td><td>15. März</td><td>1983</td></tr>
-<tr><td>Mazedonien</td><td>20. Dezember</td><td>1999 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Moldau</td><td>25. Mai</td><td>2006 B</td><td>23. August</td><td>2006</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Niederlande\*</td><td>12. Dezember</td><td>1979 B</td><td>15. März</td><td>1983</td></tr>
+<tr><td>Nordmazedonien</td><td>20. Dezember</td><td>1999 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>14. September</td><td>1992 B</td><td>13. Dezember</td><td>1992</td></tr>
 <tr><td>Polen</td><td>9. November</td><td>1984</td><td>7. Februar</td><td>1985</td></tr>
 <tr><td>Portugal</td><td>8. Januar</td><td>1991 B</td><td>8. April</td><td>1991</td></tr>
@@ -228,6 +228,7 @@ Geltungsbereich am 27. Mai 2009**[^t-2]**
 <tr><td>Slowakei\*</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>6. Juli</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
 <tr><td>Tschechische Republik\*</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Turkmenistan</td><td>31. August</td><td>2020 B</td><td>29. November</td><td>2020</td></tr>
 <tr><td>Türkei</td><td>16. Oktober</td><td>1992 B</td><td>14. Januar</td><td>1993</td></tr>
 </table>
 
@@ -235,7 +236,7 @@ Geltungsbereich am 27. Mai 2009**[^t-2]**
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ukraine\*</td><td>29. Dezember</td><td>1982 B</td><td>29. März</td><td>1983</td></tr>
 <tr><td>Ungarn\*</td><td>1. September</td><td>1978 B</td><td>15. März</td><td>1983</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht..</td></tr>
+<tr><td colspan="5">\* Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [AS 1991 2216](https://fedlex.data.admin.ch/eli/oc/1991/2216_2216_2216), **1992** 813, **1996** 882, [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573), [2009 3205](https://fedlex.data.admin.ch/eli/oc/2009/414). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1988 1834](https://fedlex.data.admin.ch/eli/oc/1988/1834_1834_1834); [1991 2216](https://fedlex.data.admin.ch/eli/oc/1991/2216_2216_2216); [1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2009 3205](https://fedlex.data.admin.ch/eli/oc/2009/414); [2023 372](https://fedlex.data.admin.ch/eli/oc/2023/372). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

@@ -4,11 +4,11 @@ title: Accordo europeo del 15 novembre 1975 sulle grandi strade a traffico inter
 short: AGR
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834"
 language: it
-version: 2017-12-05
+version: 2023-07-05
 adopted: 1975-11-15
 in_force: 1988-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20171205/it/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20171205-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20171205/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20230705/it/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20230705-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20230705/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -27,7 +27,7 @@ Istrumento di ratificazione depositato dalla Svizzera il 5 agosto 1988
 
 Entrato in vigore per la Svizzera il 3 novembre 1988
 
-(Stato 5 dicembre 2017)
+(Stato 5 luglio 2023)
 
 [^t-1]: [RU 1988 1833](https://fedlex.data.admin.ch/eli/oc/1988/1833_1833_1833)
 
@@ -200,11 +200,11 @@ Successivamente al 31 dicembre 1976, l’originale del presente Accordo sarà de
 
 (Seguono le firme)
 
-Campo d’applicazione il 27 maggio 2009**[^t-2]**
+Campo d’applicazione il 5 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Albania</td><td>2 agosto</td><td>2006 A</td><td>1° ottobre</td><td>2006</td></tr>
+<tr><td>Albania</td><td>2 agosto</td><td>2006 A</td><td>31 ottobre</td><td>2006</td></tr>
 <tr><td>Armenia</td><td>9 giugno</td><td>2006 A</td><td>7 settembre</td><td>2006</td></tr>
 <tr><td>Azerbaigian</td><td>16 agosto</td><td>1996 A</td><td>14 novembre</td><td>1996</td></tr>
 <tr><td>Belarus<sup>\*</sup></td><td>17 dicembre</td><td>1982 A</td><td>17 marzo</td><td>1983</td></tr>
@@ -224,7 +224,7 @@ Campo d’applicazione il 27 maggio 2009**[^t-2]**
 <tr><td>[tab] Lettonia</td><td>12 giugno</td><td>1997 A</td><td>10 septembre</td><td>1997</td></tr>
 <tr><td>Lituania</td><td>27 agosto</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
 <tr><td>Lussemburgo</td><td>20 novembre</td><td>1981</td><td>15 marzo</td><td>1983</td></tr>
-<tr><td>Macedonia</td><td>20 dicembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>20 dicembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Moldova</td><td>25 maggio</td><td>2006 A</td><td>23 agosto</td><td>2006</td></tr>
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Norvegia</td><td>14 settembre</td><td>1992 A</td><td>13 dicembre</td><td>1992</td></tr>
@@ -239,9 +239,10 @@ Campo d’applicazione il 27 maggio 2009**[^t-2]**
 <tr><td>Svezia</td><td>27 ottobre</td><td>1992 A</td><td>25 gennaio</td><td>1993</td></tr>
 <tr><td>Svizzera</td><td>5 agosto</td><td>1988</td><td>3 novembre</td><td>1988</td></tr>
 <tr><td>Turchia</td><td>16 ottobre</td><td>1992 A</td><td>14 gennaio</td><td>1993</td></tr>
+<tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>29 novembre</td><td>2020</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>29 dicembre</td><td>1982 A</td><td>29 marzo</td><td>1983</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>1° settembre</td><td>1978 A</td><td>15 marzo</td><td>1983</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni, non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione delle Nazioni Unite: http://untreaty.un.org/ oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni, non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione delle Nazioni Unite: [[http://treaties.un.org](https://treaties.un.org)](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1988 1834](https://fedlex.data.admin.ch/eli/oc/1988/1834_1834_1834); [1991 2216](https://fedlex.data.admin.ch/eli/oc/1991/2216_2216_2216); [1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2009 3205](https://fedlex.data.admin.ch/eli/oc/2009/414); [2023 372](https://fedlex.data.admin.ch/eli/oc/2023/372). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
