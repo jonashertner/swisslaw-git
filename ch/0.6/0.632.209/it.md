@@ -3,11 +3,11 @@ sr: "0.632.209"
 title: "Accordo del 30 novembre 1999 che istituisce il Centro di consulenza giuridica sulla legislazione dell'OMC (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/97"
 language: it
-version: 2020-06-08
+version: 2023-07-06
 adopted: 1999-11-30
 in_force: 2004-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/97/20200608/it/xml/fedlex-data-admin-ch-eli-cc-2005-97-20200608-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/97/20200608/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/97/20230706/it/xml/fedlex-data-admin-ch-eli-cc-2005-97-20230706-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/97/20230706/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento d’adesione depositato dalla Svizzera il 5 novembre 2004
 
 Entrato in vigore per la Svizzera il 5 dicembre 2004
 
-(Stato 8 giugno 2020)
+(Stato 6 luglio 2023)
 
 [^t-1]: [RU 2005 769](https://fedlex.data.admin.ch/eli/oc/2005/96)
 
@@ -485,59 +485,62 @@ Allegato IV
 
 *Nota:* questa tariffa può essere modificata dall’Assemblea generale su proposta del Consiglio di direzione per tenere conto delle modifiche dell’indice svizzero dei prezzi al consumo.
 
-Campo d’applicazione l’8 giugno 2020**[^t-2]**
+Campo d’applicazione il 6 luglio 2023[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Australia</td><td>28 giugno</td><td>2011 A</td><td>28 luglio</td><td>2011</td></tr>
-<tr><td>Bolivia</td><td>30 settembre</td><td>2002</td><td>30 ottobre</td><td>2002</td></tr>
-<tr><td>Canada</td><td>1° dicembre</td><td>1999</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hong Kong</td><td>1° dicembre</td><td>1999</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Colombia</td><td>25 luglio</td><td>2002</td><td>24 agosto</td><td>2002</td></tr>
-<tr><td>Costa d’Avorio</td><td>13 dicembre</td><td>2016 A</td><td>12 gennaio</td><td>2017</td></tr>
-<tr><td>Costa Rica</td><td>31 marzo</td><td>2009 A</td><td>30 aprile</td><td>2009</td></tr>
-<tr><td>Cuba</td><td>4 ottobre</td><td>2013</td><td>4 novembre</td><td>2013</td></tr>
-<tr><td>Danimarca</td><td>31 ottobre</td><td>2000</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Dominicana, Repubblica</td><td>1° giugno</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Ecuador</td><td>22 maggio</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Egitto</td><td>3 giugno</td><td>2003</td><td>3 luglio</td><td>2003</td></tr>
-<tr><td>El Salvador</td><td>4 agosto</td><td>2004 A</td><td>3 settembre</td><td>2004</td></tr>
-<tr><td>Emirati Arabi Uniti</td><td>22 aprile</td><td>2016 A</td><td>22 maggio</td><td>2016</td></tr>
-<tr><td>Filippine</td><td>1° dicembre</td><td>1999</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Finlandia</td><td>24 maggio</td><td>2000</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Giordania</td><td>21 dicembre</td><td>2001 A</td><td>20 gennaio</td><td>2002</td></tr>
-<tr><td>Guatemala</td><td>27 agosto</td><td>2002</td><td>26 settembre</td><td>2002</td></tr>
-<tr><td>Honduras</td><td>11 dicembre</td><td>2002</td><td>10 gennaio</td><td>2003</td></tr>
-<tr><td>India</td><td>18 dicembre</td><td>2000</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Indonesia</td><td>29 marzo</td><td>2004 A</td><td>28 aprile</td><td>2004</td></tr>
-<tr><td>Irlanda</td><td>6 novembre</td><td>2000</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Italia</td><td>3 gennaio</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Kazakistan</td><td>29 maggio</td><td>2020 A</td><td>28 giugno</td><td>2020</td></tr>
-<tr><td>Kenya</td><td>15 giugno</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Marocco</td><td>14 maggio</td><td>2019 A</td><td>13 giugno</td><td>2019</td></tr>
-<tr><td>Maurizio</td><td>12 maggio</td><td>2003 A</td><td>11 giugno</td><td>2003</td></tr>
-<tr><td>Nicaragua</td><td>7 giugno</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Norvegia</td><td>6 dicembre</td><td>2000</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Oman</td><td>26 marzo</td><td>2003 A</td><td>25 aprile</td><td>2003</td></tr>
-<tr><td>Paesi Bassi</td><td>30 settembre</td><td>2000</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Pakistan</td><td>14 marzo</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Panama</td><td>26 aprile</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Paraguay</td><td>30 settembre</td><td>2002</td><td>30 ottobre</td><td>2002</td></tr>
-<tr><td>Perù</td><td>30 maggio</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Regno Unito</td><td>18 maggio</td><td>2001</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Seicelle</td><td>25 febbraio</td><td>2014</td><td>27 marzo</td><td>2014</td></tr>
-<tr><td>Sri Lanka</td><td>22 ottobre</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
-<tr><td>Sudafrica</td><td>3 aprile</td><td>2017 A</td><td>3 maggio</td><td>2017</td></tr>
-<tr><td>Svezia</td><td>1° dicembre</td><td>1999 F</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Svizzera</td><td>5 novembre</td><td>2004 A</td><td>5 dicembre</td><td>2004</td></tr>
-<tr><td>Tailandia</td><td>31 ottobre</td><td>2000</td><td>15 luglio</td><td>2001</td></tr>
-<tr><td>Taiwan (Taipei cinese)</td><td>13 aprile</td><td>2004 A</td><td>13 maggio</td><td>2004</td></tr>
-<tr><td>Tunisia</td><td>19 ottobre</td><td>2001</td><td>18 novembre</td><td>2001</td></tr>
-<tr><td>Turchia</td><td>18 luglio</td><td>2003 A</td><td>17 agosto</td><td>2003</td></tr>
-<tr><td>Uruguay</td><td>25 settembre</td><td>2002</td><td>25 ottobre</td><td>2002</td></tr>
-<tr><td>Venezuela</td><td>6 maggio</td><td>2002</td><td>5 giugno</td><td>2002</td></tr>
-<tr><td>Vietnam</td><td>26 agosto</td><td>2009 A</td><td>25 settembre</td><td>2009</td></tr>
+<tr><th>Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th colspan="2"></th><th colspan="2">Entrata in vigore</th><th></th></tr>
+<tr><td>Australia</td><td colspan="2">28 giugno</td><td colspan="2">2011 A</td><td colspan="2">28 luglio</td><td>2011</td></tr>
+<tr><td>Bolivia</td><td colspan="2">30 settembre</td><td colspan="2">2002</td><td colspan="2">30 ottobre</td><td>2002</td></tr>
+<tr><td>Canada</td><td colspan="2">1° dicembre</td><td colspan="2">1999 F</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Cina</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>Hong Kong</td><td colspan="2">1° dicembre</td><td colspan="2">1999 F</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Colombia</td><td colspan="2">25 luglio</td><td colspan="2">2002</td><td colspan="2">24 agosto</td><td>2002</td></tr>
+<tr><td>Costa d’Avorio</td><td colspan="2">13 dicembre</td><td colspan="2">2016 A</td><td colspan="2">12 gennaio</td><td>2017</td></tr>
+<tr><td>Costa Rica</td><td colspan="2">31 marzo</td><td colspan="2">2009 A</td><td colspan="2">30 aprile</td><td>2009</td></tr>
+<tr><td>Cuba</td><td colspan="2">4 ottobre</td><td colspan="2">2013</td><td colspan="2">4 novembre</td><td>2013</td></tr>
+<tr><td>Danimarca</td><td colspan="2">31 ottobre</td><td colspan="2">2000</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Dominicana, Repubblica</td><td colspan="2">1° giugno</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Ecuador</td><td colspan="2">22 maggio</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Egitto</td><td colspan="2">3 giugno</td><td colspan="2">2003</td><td colspan="2">3 luglio</td><td>2003</td></tr>
+<tr><td>El Salvador</td><td colspan="2">4 agosto</td><td colspan="2">2004 A</td><td colspan="2">3 settembre</td><td>2004</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td colspan="2">22 aprile</td><td colspan="2">2016 A</td><td colspan="2">22 maggio</td><td>2016</td></tr>
+<tr><td>Filippine</td><td colspan="2">1° dicembre</td><td colspan="2">1999</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Finlandia</td><td colspan="2">24 maggio</td><td colspan="2">2000</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td colspan="2">Germania</td><td colspan="2">9 giugno</td><td colspan="2">2021 A</td><td>9 luglio</td><td>2021</td></tr>
+<tr><td>Giordania</td><td colspan="2">21 dicembre</td><td colspan="2">2001 A</td><td colspan="2">20 gennaio</td><td>2002</td></tr>
+<tr><td>Guatemala</td><td colspan="2">27 agosto</td><td colspan="2">2002</td><td colspan="2">26 settembre</td><td>2002</td></tr>
+<tr><td>Honduras</td><td colspan="2">11 dicembre</td><td colspan="2">2002</td><td colspan="2">10 gennaio</td><td>2003</td></tr>
+<tr><td>India</td><td colspan="2">18 dicembre</td><td colspan="2">2000</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Indonesia</td><td colspan="2">29 marzo</td><td colspan="2">2004 A</td><td colspan="2">28 aprile</td><td>2004</td></tr>
+<tr><td>Irlanda</td><td colspan="2">6 novembre</td><td colspan="2">2000</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Italia</td><td colspan="2">3 gennaio</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Kazakistan</td><td colspan="2">29 maggio</td><td colspan="2">2020 A</td><td colspan="2">28 giugno</td><td>2020</td></tr>
+<tr><td>Kenya</td><td colspan="2">15 giugno</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Marocco</td><td colspan="2">14 maggio</td><td colspan="2">2019 A</td><td colspan="2">13 giugno</td><td>2019</td></tr>
+<tr><td>Maurizio</td><td colspan="2">12 maggio</td><td colspan="2">2003 A</td><td colspan="2">11 giugno</td><td>2003</td></tr>
+<tr><td colspan="2">Mongolia</td><td colspan="2">20 ottobre</td><td colspan="2">2020 A</td><td>19 novembre</td><td>2020</td></tr>
+<tr><td>Nicaragua</td><td colspan="2">7 giugno</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Norvegia</td><td colspan="2">6 dicembre</td><td colspan="2">2000</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Oman</td><td colspan="2">26 marzo</td><td colspan="2">2003 A</td><td colspan="2">25 aprile</td><td>2003</td></tr>
+<tr><td>Paesi Bassi</td><td colspan="2">30 settembre</td><td colspan="2">2000</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Pakistan</td><td colspan="2">14 marzo</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Panama</td><td colspan="2">26 aprile</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Paraguay</td><td colspan="2">30 settembre</td><td colspan="2">2002</td><td colspan="2">30 ottobre</td><td>2002</td></tr>
+<tr><td>Perù</td><td colspan="2">30 maggio</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Regno Unito</td><td colspan="2">18 maggio</td><td colspan="2">2001</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Seicelle</td><td colspan="2">25 febbraio</td><td colspan="2">2014</td><td colspan="2">27 marzo</td><td>2014</td></tr>
+<tr><td>Sri Lanka</td><td colspan="2">22 ottobre</td><td colspan="2">2008 A</td><td colspan="2">21 novembre</td><td>2008</td></tr>
+<tr><td>Sudafrica</td><td colspan="2">3 aprile</td><td colspan="2">2017 A</td><td colspan="2">3 maggio</td><td>2017</td></tr>
+<tr><td>Svezia</td><td colspan="2">1° dicembre</td><td colspan="2">1999 F</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Svizzera</td><td colspan="2">5 novembre</td><td colspan="2">2004 A</td><td colspan="2">5 dicembre</td><td>2004</td></tr>
+<tr><td>Tailandia</td><td colspan="2">31 ottobre</td><td colspan="2">2000</td><td colspan="2">15 luglio</td><td>2001</td></tr>
+<tr><td>Taiwan (Taipei cinese)</td><td colspan="2">13 aprile</td><td colspan="2">2004 A</td><td colspan="2">13 maggio</td><td>2004</td></tr>
+<tr><td>Tunisia</td><td colspan="2">19 ottobre</td><td colspan="2">2001</td><td colspan="2">18 novembre</td><td>2001</td></tr>
+<tr><td>Turchia</td><td colspan="2">18 luglio</td><td colspan="2">2003 A</td><td colspan="2">17 agosto</td><td>2003</td></tr>
+<tr><td colspan="2">Ucraina</td><td colspan="2">29 luglio</td><td colspan="2">2021 A</td><td>28 agosto</td><td>2021</td></tr>
+<tr><td>Uruguay</td><td colspan="2">25 settembre</td><td colspan="2">2002</td><td colspan="2">25 ottobre</td><td>2002</td></tr>
+<tr><td>Venezuela</td><td colspan="2">6 maggio</td><td colspan="2">2002</td><td colspan="2">5 giugno</td><td>2002</td></tr>
+<tr><td>Vietnam</td><td colspan="2">26 agosto</td><td colspan="2">2009 A</td><td colspan="2">25 settembre</td><td>2009</td></tr>
 </table>
 
-[^t-2]: [RU 2005 771](https://fedlex.data.admin.ch/eli/oc/2005/97), [2011 2299](https://fedlex.data.admin.ch/eli/oc/2011/320), [2014 1195](https://fedlex.data.admin.ch/eli/oc/2014/251), [2019 1193](https://fedlex.data.admin.ch/eli/oc/2019/218)e [2020 2623](https://fedlex.data.admin.ch/eli/oc/2020/484). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 771](https://fedlex.data.admin.ch/eli/oc/2005/97); [2011 2299](https://fedlex.data.admin.ch/eli/oc/2011/320); [2014 1195](https://fedlex.data.admin.ch/eli/oc/2014/251); [2019 1193](https://fedlex.data.admin.ch/eli/oc/2019/218); [2020 2623](https://fedlex.data.admin.ch/eli/oc/2020/484); [2023 377](https://fedlex.data.admin.ch/eli/oc/2023/377). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

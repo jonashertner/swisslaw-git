@@ -3,11 +3,11 @@ sr: "0.632.209"
 title: Übereinkommen vom 30. November 1999 zur Errichtung des Beratungszentrums für WTO-Recht (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/97"
 language: de
-version: 2020-06-08
+version: 2023-07-06
 adopted: 1999-11-30
 in_force: 2004-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/97/20200608/de/xml/fedlex-data-admin-ch-eli-cc-2005-97-20200608-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/97/20200608/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/97/20230706/de/xml/fedlex-data-admin-ch-eli-cc-2005-97-20230706-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/97/20230706/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2005** 771; BBl **2003** 1074
 
 Abgeschlossen in Seattle am 30. November 1999 Von der Bundesversammlung genehmigt am 21. März 2003[^t-1] Beitrittsurkunde von der Schweiz hinterlegt am 5. November 2004 In Kraft getreten für die Schweiz am 5. Dezember 2004
 
-(Stand am 8. Juni 2020)
+(Stand am 6. Juli 2023)
 
 [^t-1]: [AS 2005 769](https://fedlex.data.admin.ch/eli/oc/2005/96)
 
@@ -482,7 +482,7 @@ Anhang IV
 
 *Hinweis:* Dieser Tarif kann von der Generalversammlung auf Antrag der Geschäftsleitung geändert werden, um ihn an die Entwicklung des Schweizerischen Indexes der Konsumentenpreise anzupassen.
 
-Geltungsbereich am 8. Juni 2020**[^t-2]**
+Geltungsbereich am 6. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnung ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -490,10 +490,11 @@ Geltungsbereich am 8. Juni 2020**[^t-2]**
 <tr><td>Australien</td><td>28. Juni</td><td>2011 B</td><td>28. Juli</td><td>2011</td></tr>
 <tr><td>Bolivien</td><td>30. September</td><td>2002</td><td>30. Oktober</td><td>2002</td></tr>
 <tr><td>China</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hongkong</td><td>1. Dezember</td><td>1999</td><td>15. Juli</td><td>2001</td></tr>
+<tr><td>Hongkong</td><td>1. Dezember</td><td>1999 U</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Costa Rica</td><td>31. März</td><td>2009 B</td><td>30. April</td><td>2009</td></tr>
 <tr><td>Côte d’Ivoire</td><td>13. Dezember</td><td>2016 B</td><td>12. Januar</td><td>2017</td></tr>
 <tr><td>Dänemark</td><td>31. Oktober</td><td>2000</td><td>15. Juli</td><td>2001</td></tr>
+<tr><td>Deutschland</td><td>9. Juni</td><td>2021 B</td><td>9. Juli</td><td>2021</td></tr>
 <tr><td>Dominikanische Republik</td><td>1. Juni</td><td>2001</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Ecuador</td><td>22. Mai</td><td>2001</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>El Salvador</td><td>4. August</td><td>2004 B</td><td>3. September</td><td>2004</td></tr>
@@ -505,13 +506,14 @@ Geltungsbereich am 8. Juni 2020**[^t-2]**
 <tr><td>Irland</td><td>6. November</td><td>2000</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Italien</td><td>3. Januar</td><td>2001</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Jordanien</td><td>21. Dezember</td><td>2001 B</td><td>20. Januar</td><td>2002</td></tr>
-<tr><td>Kanada</td><td>1. Dezember</td><td>1999</td><td>15. Juli</td><td>2001</td></tr>
+<tr><td>Kanada</td><td>1. Dezember</td><td>1999 U</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Kasachstan</td><td>29. Mai</td><td>2020 B</td><td>28. Juni</td><td>2020</td></tr>
 <tr><td>Kenia</td><td>15. Juni</td><td>2001</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Kolumbien</td><td>25. Juli</td><td>2002</td><td>24. August</td><td>2002</td></tr>
 <tr><td>Kuba</td><td>4. Oktober</td><td>2013</td><td>4. November</td><td>2013</td></tr>
 <tr><td>Marokko</td><td>14. Mai</td><td>2019 B</td><td>13. Juni</td><td>2019</td></tr>
 <tr><td>Mauritius</td><td>12. Mai</td><td>2003 B</td><td>11. Juni</td><td>2003</td></tr>
+<tr><td>Mongolei</td><td>20. Oktober</td><td>2020 B</td><td>19. November</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>7. Juni</td><td>2001</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Niederlande</td><td>30. September</td><td>2000</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Norwegen</td><td>6. Dezember</td><td>2000</td><td>15. Juli</td><td>2001</td></tr>
@@ -520,16 +522,17 @@ Geltungsbereich am 8. Juni 2020**[^t-2]**
 <tr><td>Panama</td><td>26. April</td><td>2001</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Paraguay</td><td>30. September</td><td>2002</td><td>30. Oktober</td><td>2002</td></tr>
 <tr><td>Peru</td><td>30. Mai</td><td>2001</td><td>15. Juli</td><td>2001</td></tr>
-<tr><td>Philippinen</td><td>1. Dezember</td><td>1999</td><td>15. Juli</td><td>2001</td></tr>
+<tr><td>Philippinen</td><td>1. Dezember</td><td>1999 U</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Schweden</td><td>1. Dezember</td><td>1999 U</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Schweiz</td><td>5. November</td><td>2004 B</td><td>5. Dezember</td><td>2004</td></tr>
 <tr><td>Seychellen</td><td>25. Februar</td><td>2014</td><td>27. März</td><td>2014</td></tr>
 <tr><td>Sri Lanka</td><td>22. Oktober</td><td>2008 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Südafrika</td><td>3. April</td><td>2017 B</td><td>3. Mai</td><td>2017</td></tr>
-<tr><td>Taiwan</td><td>13. April</td><td>2004 B</td><td>13. Mai</td><td>2004</td></tr>
+<tr><td>Taiwan (Chinesisches Taipei)</td><td>13. April</td><td>2004 B</td><td>13. Mai</td><td>2004</td></tr>
 <tr><td>Thailand</td><td>31. Oktober</td><td>2000</td><td>15. Juli</td><td>2001</td></tr>
 <tr><td>Tunesien</td><td>19. Oktober</td><td>2001</td><td>18. November</td><td>2001</td></tr>
 <tr><td>Türkei</td><td>18. Juli</td><td>2003 B</td><td>17. August</td><td>2003</td></tr>
+<tr><td>Ukraine</td><td>29. Juli</td><td>2021 B</td><td>28. August</td><td>2021</td></tr>
 <tr><td>Uruguay</td><td>25. September</td><td>2002</td><td>25. Oktober</td><td>2002</td></tr>
 <tr><td>Venezuela</td><td>6. Mai</td><td>2002</td><td>5. Juni</td><td>2002</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>22. April</td><td>2016 B</td><td>22. Mai</td><td>2016</td></tr>
@@ -537,4 +540,4 @@ Geltungsbereich am 8. Juni 2020**[^t-2]**
 <tr><td>Vietnam</td><td>26. August</td><td>2009 B</td><td>25. September</td><td>2009</td></tr>
 </table>
 
-[^t-2]: [AS 2005 771](https://fedlex.data.admin.ch/eli/oc/2005/97), [2011 2299](https://fedlex.data.admin.ch/eli/oc/2011/320), [2014 1195](https://fedlex.data.admin.ch/eli/oc/2014/251), [2019 1193](https://fedlex.data.admin.ch/eli/oc/2019/218), [2020 2623](https://fedlex.data.admin.ch/eli/oc/2020/484). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2005 771](https://fedlex.data.admin.ch/eli/oc/2005/97); [2011 2299](https://fedlex.data.admin.ch/eli/oc/2011/320); [2014 1195](https://fedlex.data.admin.ch/eli/oc/2014/251); [2019 1193](https://fedlex.data.admin.ch/eli/oc/2019/218); [2020 2623](https://fedlex.data.admin.ch/eli/oc/2020/484); [2023 377](https://fedlex.data.admin.ch/eli/oc/2023/377). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

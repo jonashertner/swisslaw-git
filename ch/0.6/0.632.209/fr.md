@@ -3,11 +3,11 @@ sr: "0.632.209"
 title: "Accord du 30 novembre 1999 instituant le Centre consultatif sur la législation de l'OMC (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/97"
 language: fr
-version: 2020-06-08
+version: 2023-07-06
 adopted: 1999-11-30
 in_force: 2004-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/97/20200608/fr/xml/fedlex-data-admin-ch-eli-cc-2005-97-20200608-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/97/20200608/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/97/20230706/fr/xml/fedlex-data-admin-ch-eli-cc-2005-97-20230706-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/97/20230706/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 5 novembre 2004
 
 Entré en vigueur pour la Suisse le 5 décembre 2004
 
-(Etat le 8 juin 2020)
+(État le 6 juillet 2023)
 
 [^t-1]: [RO 2005 769](https://fedlex.data.admin.ch/eli/oc/2005/96)
 
@@ -485,16 +485,17 @@ Annexe IV
 
 *Note:* Ce tarif peut être modifié par l’Assemblée générale sur proposition du Conseil de direction pour tenir compte des modifications de l’indice suisse des prix à la consommation.
 
-Champ d’application le 8 juin 2020**[^t-2]**
+Champ d’application le 6 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>3 avril</td><td>2017 A</td><td>3 mai</td><td>2017</td></tr>
+<tr><td>Allemagne</td><td>9 juin</td><td>2021 A</td><td>9 juillet</td><td>2021</td></tr>
 <tr><td>Australie</td><td>28 juin</td><td>2011 A</td><td>28 juillet</td><td>2011</td></tr>
 <tr><td>Bolivie</td><td>30 septembre</td><td>2002</td><td>30 octobre</td><td>2002</td></tr>
-<tr><td>Canada</td><td>1<sup>er</sup> décembre</td><td>1999</td><td>15 juillet</td><td>2001</td></tr>
+<tr><td>Canada</td><td>1<sup>er</sup> décembre</td><td>1999 Si</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Hong Kong</td><td>1<sup>er</sup> décembre</td><td>1999</td><td>15 juillet</td><td>2001</td></tr>
+<tr><td>[tab] Hong Kong</td><td>1<sup>er</sup> décembre</td><td>1999 Si</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Colombie</td><td>25 juillet</td><td>2002</td><td>24 août</td><td>2002</td></tr>
 <tr><td>Costa Rica</td><td>31 mars</td><td>2009 A</td><td>30 avril</td><td>2009</td></tr>
 <tr><td>Côte d’Ivoire</td><td>13 décembre</td><td>2016 A</td><td>12 janvier</td><td>2017</td></tr>
@@ -516,6 +517,7 @@ Champ d’application le 8 juin 2020**[^t-2]**
 <tr><td>Kenya</td><td>15 juin</td><td>2001</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Maroc</td><td>14 mai</td><td>2019 A</td><td>13 juin</td><td>2019</td></tr>
 <tr><td>Maurice</td><td>12 mai</td><td>2003 A</td><td>11 juin</td><td>2003</td></tr>
+<tr><td>Mongolie</td><td>20 octobre</td><td>2020 A</td><td>19 novembre</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>7 juin</td><td>2001</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Norvège</td><td>6 décembre</td><td>2000</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Oman</td><td>26 mars</td><td>2003 A</td><td>25 avril</td><td>2003</td></tr>
@@ -524,7 +526,7 @@ Champ d’application le 8 juin 2020**[^t-2]**
 <tr><td>Paraguay</td><td>30 septembre</td><td>2002</td><td>30 octobre</td><td>2002</td></tr>
 <tr><td>Pays-Bas</td><td>30 septembre</td><td>2000</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Pérou</td><td>30 mai</td><td>2001</td><td>15 juillet</td><td>2001</td></tr>
-<tr><td>Philippines</td><td>1<sup>er</sup> décembre</td><td>1999</td><td>15 juillet</td><td>2001</td></tr>
+<tr><td>Philippines</td><td>1<sup>er</sup> décembre</td><td>1999 Si</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>République dominicaine</td><td>1<sup>er</sup> juin</td><td>2001</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Royaume-Uni</td><td>18 mai</td><td>2001</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Seychelles</td><td>25 février</td><td>2014</td><td>27 mars</td><td>2014</td></tr>
@@ -535,9 +537,10 @@ Champ d’application le 8 juin 2020**[^t-2]**
 <tr><td>Thaïlande</td><td>31 octobre</td><td>2000</td><td>15 juillet</td><td>2001</td></tr>
 <tr><td>Tunisie</td><td>19 octobre</td><td>2001</td><td>18 novembre</td><td>2001</td></tr>
 <tr><td>Turquie</td><td>18 juillet</td><td>2003 A</td><td>17 août</td><td>2003</td></tr>
+<tr><td>Ukraine</td><td>29 juillet</td><td>2021 A</td><td>28 août</td><td>2021</td></tr>
 <tr><td>Uruguay</td><td>25 septembre</td><td>2002</td><td>25 octobre</td><td>2002</td></tr>
 <tr><td>Venezuela</td><td>6 mai</td><td>2002</td><td>5 juin</td><td>2002</td></tr>
 <tr><td>Vietnam</td><td>26 août</td><td>2009 A</td><td>25 septembre</td><td>2009</td></tr>
 </table>
 
-[^t-2]: [RO 2005 771](https://fedlex.data.admin.ch/eli/oc/2005/97), [2011 2299](https://fedlex.data.admin.ch/eli/oc/2011/320), [2014 1195](https://fedlex.data.admin.ch/eli/oc/2014/251), [2019 1193](https://fedlex.data.admin.ch/eli/oc/2019/218), [2020 2623](https://fedlex.data.admin.ch/eli/oc/2020/484). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 771](https://fedlex.data.admin.ch/eli/oc/2005/97); [2011 2299](https://fedlex.data.admin.ch/eli/oc/2011/320); [2014 1195](https://fedlex.data.admin.ch/eli/oc/2014/251); [2019 1193](https://fedlex.data.admin.ch/eli/oc/2019/218); [2020 2623](https://fedlex.data.admin.ch/eli/oc/2020/484); [2023 377](https://fedlex.data.admin.ch/eli/oc/2023/377). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
