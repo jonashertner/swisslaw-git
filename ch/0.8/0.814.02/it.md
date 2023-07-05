@@ -3,11 +3,11 @@ sr: "0.814.02"
 title: "Convenzione di Vienna del 22 marzo 1985 per la protezione dello strato d'ozono (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752"
 language: it
-version: 2019-12-18
+version: 2023-07-06
 adopted: 1985-03-22
 in_force: 1988-09-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752/20191218/it/xml/fedlex-data-admin-ch-eli-cc-1988-1752_1752_1752-20191218-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1752_1752_1752/20191218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752/20230706/it/xml/fedlex-data-admin-ch-eli-cc-1988-1752_1752_1752-20230706-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1752_1752_1752/20230706/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificata dalla Svizzera con strumento depositato il 17 dicembre 1987
 
 Entrata in vigore per la Svizzera il 22 settembre 1988
 
-(Stato 18 dicembre 2019)
+(Stato 6 luglio 2023)
 
 [^t-1]: [RU 1988 1751](https://fedlex.data.admin.ch/eli/oc/1988/1751_1751_1751)
 
@@ -52,7 +52,7 @@ Determinate a proteggere la salute umana e l’ambiente contro gli effetti nefas
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -355,7 +355,7 @@ Allegato I
 
 \2. Le parti alla Convenzione, conformemente all’articolo 3, coopereranno facendo ricerche, procedendo a osservazioni sistematiche e formulando raccomandazioni concernenti le ricerche e le osservazioni future nei campi come:
 
-- a) *Le ricerche di fisica e chimica* *dell**’**atmosfera*
+- a) *Le ricerche di fisica e chimica dell**’**atmosfera*
   - i) stabilimento di modelli teorici globali: proseguimento della messa a punto di modelli interattivi dei processi radioattivi, chimici e dinamici; studi degli effetti simultanei delle diverse sostanze chimiche artificiali o naturali sull’ozono dell’atmosfera, interpretazione delle serie di misure raccolte con satellite o diversamente; valutazione delle tendenze dei parametri atmosferici e geofisci e messa a punto di metodi che permettano d’attribuire a cause ben determinate le variazioni di questi parametri;
   - ii) studio di laboratorio sui coefficienti cinetici, le sezioni efficaci d’assorbimento e i processi chimici e fotochimici nella troposfera e nella stratosfera; i dati spettroscopici necessari alle misurazioni effettuate per tutte le regioni utili dello spettro;
   - iii) misurazioni sul terreno: concentrazioni e flussi di gas fonti essenziali sia naturali sia antropogene; studio sulla dinamica dell’atmosfera; misurazioni simultanee di sostanze fotochimicamente apparentate discendendo fino allo strato limite planetario, per mezzo di strumenti *in situ* e di telemisurazioni; paragone tra i diversi segnalatori; misurazioni coordinate di correlazione per gli strumenti situati a bordo di satelliti; campi tridimensionali di costituenti-traccia essenziali, del flusso solare spettrale e dei parametri meteorologici;
@@ -443,7 +443,7 @@ Queste informazioni vertono segnatamente su:
 - a) l’esistenza e il costo di prodotti chimici di sostituzione e di tecnologie di sostituzione utilizzabili per ridurre le emissioni di sostanze che comportano modificazioni dello strato d’ozono e i lavori di ricerca connessi intrapresi o presi in considerazione;
 - b) le limitazioni ed eventualmente i rischi che l’utilizzazione di prodotti chimici di sostituzione o di altro genere e di tecnologie di sostituzione comporta.
 
-\5. *Informazion**i socioeconomiche e commerciali sulle sostanze di cui nell**’**allegato I*
+\5. *Informazioni socioeconomiche e commerciali sulle sostanze di cui nell**’**allegato I*
 
 Queste informazioni vertono segnatamente su:
 
@@ -460,7 +460,7 @@ Queste informazioni vertono segnatamente su:
 - b) gli accordi internazionali, e segnatamente gli accordi bilaterali che interessano la protezione dello strato d’ozono;
 - c) i metodi e le condizioni in materia d’accordi di licenza e i brevetti esistenti concernenti la protezione dello strato d’ozono.
 
-Campo d’applicazione il 18 dicembre 2019**[^t-2]**
+Campo d’applicazione il 6 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -580,7 +580,7 @@ Campo d’applicazione il 18 dicembre 2019**[^t-2]**
 <tr><td>Malta</td><td>15 settembre</td><td>1988 A</td><td>14 dicembre</td><td>1988</td></tr>
 <tr><td>Marocco</td><td>28 dicembre</td><td>1995</td><td>27 marzo</td><td>1996</td></tr>
 <tr><td>Mauritania</td><td>26 maggio</td><td>1994 A</td><td>24 agosto</td><td>1994</td></tr>
-<tr><td>Maurizio</td><td>18 agosto</td><td>1992 A</td><td>16 novembre</td><td>1992</td></tr>
+<tr><td>Maurizio<sup>\*</sup></td><td>18 agosto</td><td>1992 A</td><td>16 novembre</td><td>1992</td></tr>
 <tr><td>Messico</td><td>14 settembre</td><td>1987</td><td>22 settembre</td><td>1988</td></tr>
 <tr><td>Micronesia</td><td>3 agosto</td><td>1994 A</td><td>1° novembre</td><td>1994</td></tr>
 <tr><td>Moldova</td><td>24 ottobre</td><td>1996 A</td><td>22 gennaio</td><td>1997</td></tr>
@@ -602,8 +602,8 @@ Campo d’applicazione il 18 dicembre 2019**[^t-2]**
 <tr><td>Paesi Bassi <sup>d</sup> <sup>\*</sup></td><td>28 settembre</td><td>1988</td><td>27 dicembre</td><td>1988</td></tr>
 <tr><td>[tab] Aruba</td><td>28 settembre</td><td>1988</td><td>27 dicembre</td><td>1988</td></tr>
 <tr><td>[tab] Curaçao</td><td>28 settembre</td><td>1988</td><td>27 dicembre</td><td>1988</td></tr>
-<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba) <sup>a</sup></td><td>28 settembre</td><td>1988</td><td>27 dicembre</td><td>1988</td></tr>
-<tr><td>[tab] Sint Maarten <sup>a</sup></td><td>28 settembre</td><td>1988</td><td>27 dicembre</td><td>1988</td></tr>
+<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>28 settembre</td><td>1988</td><td>27 dicembre</td><td>1988</td></tr>
+<tr><td>[tab] Sint Maarten</td><td>28 settembre</td><td>1988</td><td>27 dicembre</td><td>1988</td></tr>
 <tr><td>Pakistan</td><td>18 dicembre</td><td>1992 A</td><td>18 marzo</td><td>1993</td></tr>
 <tr><td>Palau</td><td>29 maggio</td><td>2001 A</td><td>27 agosto</td><td>2001</td></tr>
 <tr><td>Palestina</td><td>18 marzo</td><td>2019 A</td><td>16 giugno</td><td>2019</td></tr>
@@ -684,11 +684,7 @@ Campo d’applicazione il 18 dicembre 2019**[^t-2]**
 <tr><td>Yemen</td><td>21 febbraio</td><td>1996 A</td><td>21 maggio</td><td>1996</td></tr>
 <tr><td>Zambia</td><td>24 gennaio</td><td>1990 A</td><td>24 aprile</td><td>1990</td></tr>
 <tr><td>Zimbabwe</td><td>3 novembre</td><td>1992 A</td><td>1° febbraio</td><td>1993</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell'Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Dal 15 mag. 1987 al 30 giu.1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Dal 15 feb. 1994 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 19 ott. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Con l’adesione di Niue e delle Isole Cook alla Conv. la dichiarazione territoriale della Nuova Zelanda è diventata nulla.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 15 mag. 1987 al 30 giu.1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> Dal 15 feb. 1994 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 19 ott. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999. <sup>c</sup> Con l’adesione di Niue e delle Isole Cook alla Conv. la dichiarazione territoriale della Nuova Zelanda è diventata nulla. <sup>d</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1988 1752](https://fedlex.data.admin.ch/eli/oc/1988/1752_1752_1752), [1989 474](https://fedlex.data.admin.ch/eli/oc/1989/474_474_474), [1991 36](https://fedlex.data.admin.ch/eli/oc/1991/36_36_36), [1992 667](https://fedlex.data.admin.ch/eli/oc/1992/667_667_667), [1993 3014](https://fedlex.data.admin.ch/eli/oc/1993/3014_3014_3014), [2002 2652](https://fedlex.data.admin.ch/eli/oc/2002/364), [2005 2319](https://fedlex.data.admin.ch/eli/oc/2005/391), [2009 2553](https://fedlex.data.admin.ch/eli/oc/2009/328), [2012 1275](https://fedlex.data.admin.ch/eli/oc/2012/187), [2020 249](https://fedlex.data.admin.ch/eli/oc/2020/41). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1988 1752](https://fedlex.data.admin.ch/eli/oc/1988/1752_1752_1752); [1989 474](https://fedlex.data.admin.ch/eli/oc/1989/474_474_474); [1991 36](https://fedlex.data.admin.ch/eli/oc/1991/36_36_36); [1992 667](https://fedlex.data.admin.ch/eli/oc/1992/667_667_667); [1993 3014](https://fedlex.data.admin.ch/eli/oc/1993/3014_3014_3014); [2002 2652](https://fedlex.data.admin.ch/eli/oc/2002/364); [2005 2319](https://fedlex.data.admin.ch/eli/oc/2005/391); [2009 2553](https://fedlex.data.admin.ch/eli/oc/2009/328); [2012 1275](https://fedlex.data.admin.ch/eli/oc/2012/187); [2020 249](https://fedlex.data.admin.ch/eli/oc/2020/41); [2023 376](https://fedlex.data.admin.ch/eli/oc/2023/376). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

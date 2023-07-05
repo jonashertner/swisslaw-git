@@ -3,11 +3,11 @@ sr: "0.814.02"
 title: "Convention de Vienne du 22 mars 1985 pour la protection de la couche d'ozone (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752"
 language: fr
-version: 2019-12-18
+version: 2023-07-06
 adopted: 1985-03-22
 in_force: 1988-09-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752/20191218/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1752_1752_1752-20191218-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1752_1752_1752/20191218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752/20230706/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1752_1752_1752-20230706-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1752_1752_1752/20230706/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 17 décembre 1987
 
 Entrée en vigueur pour la Suisse le 22 septembre 1988
 
-(Etat le 18 décembre 2019)
+(État le 6 juillet 2023)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 30 sept. 1987 ([RO 1988 1751](https://fedlex.data.admin.ch/eli/oc/1988/1751_1751_1751))
 
@@ -34,25 +34,25 @@ Entrée en vigueur pour la Suisse le 22 septembre 1988
 
 Les Parties à la présente Convention,
 
-Conscientes de l’incidence néfaste que pourrait avoir sur la santé humaine et l’environnement toute modification de la couche d’ozone,
+conscientes de l’incidence néfaste que pourrait avoir sur la santé humaine et l’environnement toute modification de la couche d’ozone,
 
-Rappelant les dispositions pertinentes de la Déclaration de la Conférence des Nations Unies sur l’environnement, et en particulier le principe 21, où il est stipulé que, conformément à la Charte des Nations Unies[^ingress-1] et aux principes du droit international, «les États ont le droit souverain d’exploiter leurs propres ressources selon leur politique d’environnement et qu’ils ont le devoir de faire en sorte que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommages à l’environnement dans d’autres États ou dans des régions ne relevant d’aucune juridiction nationale»,
+rappelant les dispositions pertinentes de la Déclaration de la Conférence des Nations Unies sur l’environnement, et en particulier le principe 21, où il est stipulé que, conformément à la Charte des Nations Unies[^ingress-1] et aux principes du droit international, «les États ont le droit souverain d’exploiter leurs propres ressources selon leur politique d’environnement et qu’ils ont le devoir de faire en sorte que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommages à l’environnement dans d’autres États ou dans des régions ne relevant d’aucune juridiction nationale»,
 
-Tenant compte de la situation et des besoins particuliers des pays en développement,
+tenant compte de la situation et des besoins particuliers des pays en développement,
 
-Ayant présents à l’esprit les travaux et les études en cours au sein d’organisations tant internationales que nationales et, en particulier, le Plan mondial d’action pour la couche d’ozone du Programme des Nations Unies pour l’environnement,
+ayant présents à l’esprit les travaux et les études en cours au sein d’organisations tant internationales que nationales et, en particulier, le Plan mondial d’action pour la couche d’ozone du Programme des Nations Unies pour l’environnement,
 
-Ayant aussi présentes à l’esprit les mesures de précaution déjà prises à l’échelon national et international en vue de la protection de la couche d’ozone,
+ayant aussi présentes à l’esprit les mesures de précaution déjà prises à l’échelon national et international en vue de la protection de la couche d’ozone,
 
-Conscientes que l’adoption de mesures visant à protéger la couche d’ozone des modifications imputables aux activités humaines ne peut se faire que dans le contexte d’une coopération et d’une action internationales, et devrait être fondée sur des données scientifiques et techniques pertinentes,
+conscientes que l’adoption de mesures visant à protéger la couche d’ozone des modifications imputables aux activités humaines ne peut se faire que dans le contexte d’une coopération et d’une action internationales, et devrait être fondée sur des données scientifiques et techniques pertinentes,
 
-Conscientes également de la nécessité d’effectuer de nouvelles recherches et des observations systématiques afin de développer les connaissances scientifiques sur la couche d’ozone et les effets nocifs que pourrait entraîner sa perturbation,
+conscientes également de la nécessité d’effectuer de nouvelles recherches et des observations systématiques afin de développer les connaissances scientifiques sur la couche d’ozone et les effets nocifs que pourrait entraîner sa perturbation,
 
-Déterminées à protéger la santé humaine et l’environnement contre les effets néfastes résultant des modifications de la couche d’ozone,
+déterminées à protéger la santé humaine et l’environnement contre les effets néfastes résultant des modifications de la couche d’ozone,
 
-Sont convenues de ce qui suit:
+sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -78,10 +78,10 @@ Aux fins de la présente Convention:
 
 À cette fin, les Parties, selon les moyens dont elles disposent et selon leurs possibilités:
 
-- a) Coopèrent, au moyen d’observations systématiques, de recherches et d’échanges de renseignements afin de mieux comprendre et apprécier les effets des activités humaines sur la couche d’ozone et les effets exercés sur la santé humaine et l’environnement par la modification de la couche d’ozone;
-- b) Adoptent les mesures législatives ou administratives appropriées et coopèrent pour harmoniser les politiques appropriées visant à réglementer, limiter, réduire ou prévenir les activités humaines relevant de leur juridiction ou de leur contrôle s’il s’avère que ces activités ont ou sont susceptibles d’avoir des effets néfastes par suite de la modification, ou de la modification susceptible de se produire, de la couche d’ozone;
-- c) Coopèrent pour formuler des mesures, procédures et normes convenues pour l’application de la présente Convention en vue de l’adoption de protocoles et annexes;
-- d) Coopèrent avec les organes internationaux compétents pour appliquer effectivement la présente Convention et les protocoles auxquels elles sont parties.
+- a) coopèrent, au moyen d’observations systématiques, de recherches et d’échanges de renseignements afin de mieux comprendre et apprécier les effets des activités humaines sur la couche d’ozone et les effets exercés sur la santé humaine et l’environnement par la modification de la couche d’ozone;
+- b) adoptent les mesures législatives ou administratives appropriées et coopèrent pour harmoniser les politiques appropriées visant à réglementer, limiter, réduire ou prévenir les activités humaines relevant de leur juridiction ou de leur contrôle s’il s’avère que ces activités ont ou sont susceptibles d’avoir des effets néfastes par suite de la modification, ou de la modification susceptible de se produire, de la couche d’ozone;
+- c) coopèrent pour formuler des mesures, procédures et normes convenues pour l’application de la présente Convention en vue de l’adoption de protocoles et annexes;
+- d) coopèrent avec les organes internationaux compétents pour appliquer effectivement la présente Convention et les protocoles auxquels elles sont parties.
 
 <sup>3.</sup> Les dispositions de la présente Convention sont sans effet sur le droit des Parties d’adopter, conformément au droit international, des mesures internes plus rigoureuses que celles visées aux par. 1 et 2 ci‑dessus et sont de même sans effet sur les mesures internes additionnelles déjà prises par une Partie, sous réserve que ces mesures ne soient pas incompatibles avec les obligations desdites Parties en vertu de la présente Convention.
 
@@ -95,13 +95,13 @@ Aux fins de la présente Convention:
 
 Les Parties s’engagent, selon qu’il conviendra, à entreprendre des recherches et des évaluations scientifiques ou à coopérer à la réalisation de recherches et d’évaluations scientifiques, directement ou par l’intermédiaire d’organes internationaux compétents sur:
 
-- a) Les processus physiques et chimiques qui peuvent influer sur la couche d’ozone;
-- b) Les effets sur la santé de l’homme et les autres effets biologiques de toute modification de la couche d’ozone, en particulier ceux qui résultent de modifications du rayonnement ultraviolet d’origine solaire ayant une action biologique (UV‑B);
-- c) Les incidences sur le climat de toute modification de la couche d’ozone;
-- d) Les effets de toute modification de la couche d’ozone et des modifications du rayonnement UV‑B qui en résultent sur les matériaux naturels et synthétiques utiles à l’humanité;
-- e) Les substances, pratiques, procédés et activités qui peuvent influer sur la couche d’ozone, et leurs effets cumulatifs;
-- f) Les substances et technologies de remplacement;
-- g) Les problèmes socio‑économiques connexes;
+- a) les processus physiques et chimiques qui peuvent influer sur la couche d’ozone;
+- b) les effets sur la santé de l’homme et les autres effets biologiques de toute modification de la couche d’ozone, en particulier ceux qui résultent de modifications du rayonnement ultraviolet d’origine solaire ayant une action biologique (UV‑B);
+- c) les incidences sur le climat de toute modification de la couche d’ozone;
+- d) les effets de toute modification de la couche d’ozone et des modifications du rayonnement UV‑B qui en résultent sur les matériaux naturels et synthétiques utiles à l’humanité;
+- e) les substances, pratiques, procédés et activités qui peuvent influer sur la couche d’ozone, et leurs effets cumulatifs;
+- f) les substances et technologies de remplacement;
+- g) les problèmes socio‑économiques connexes,
 
 <sup>2.</sup> Les Parties s’engagent à promouvoir ou à mettre en place, selon qu’il conviendra, directement ou par l’intermédiaire d’organes internationaux compétents et en tenant pleinement compte de leur législation nationale et des activités pertinentes à la fois aux niveaux national et international, des programmes communs ou complémentaires aux fins d’observations systématiques de l’état de la couche d’ozone et d’autres paramètres pertinents, conformément aux dispositions de l’annexe I.
 
@@ -117,10 +117,10 @@ Les Parties s’engagent, selon qu’il conviendra, à entreprendre des recherch
 
 Les Parties coopèrent, conformément à leur législation, réglementation et pratiques nationales, et en tenant compte, en particulier, des besoins des pays en développement, pour promouvoir, directement ou par l’intermédiaire des organes internationaux compétents, la mise au point et le transfert de technologie et de connaissances. La coopération se fera notamment par les moyens suivants:
 
-- a) Faciliter l’acquisition de technologies de remplacement par les autres Parties;
-- b) Fournir des renseignements sur les technologies et le matériel de remplacement et des manuels ou des guides spéciaux à leur sujet;
-- c) Fournir le matériel et les installations de recherche et d’observations systématiques nécessaires;
-- d) Assurer la formation appropriée du personnel scientifique et technique.
+- a) faciliter l’acquisition de technologies de remplacement par les autres Parties;
+- b) fournir des renseignements sur les technologies et le matériel de remplacement et des manuels ou des guides spéciaux à leur sujet;
+- c) fournir le matériel et les installations de recherche et d’observations systématiques nécessaires;
+- d) assurer la formation appropriée du personnel scientifique et technique.
 
 #### Art. 5
 
@@ -142,17 +142,17 @@ Les Parties transmettent à la Conférence des Parties instituée par l’art. 6
 
 La Conférence des Parties examine en permanence l’application de la présente Convention et, en outre:
 
-- a) Établit la forme et la fréquence de la communication des renseignements devant être présentés conformément à l’art. 5 et examine ces renseignements ainsi que les rapports présentés par tout organe subsidiaire;
-- b) Étudie les renseignements scientifiques sur l’état de la couche d’ozone, sur sa modification possible et sur les effets possibles de cette modification;
-- c) Favorise, conformément à l’art. 2, l’harmonisation des politiques, stratégies et mesures appropriées pour réduire au minimum les rejets de substances qui modifient ou sont susceptibles de modifier la couche d’ozone, et fait des recommandations sur toutes autres mesures en rapport avec la présente Convention;
-- d) Adopte, conformément aux art. 3 et 4, des programmes de recherche, d’observations systématiques, de coopération scientifique et technique, d’échange de renseignements et de transfert de technologie et de connaissances;
-- e) Examine et adopte, selon qu’il convient, les amendements à la présente Convention et à ses annexes, conformément aux art. 9 et 10;
-- f) Examine les amendements à tout protocole et les annexes à tout protocole et, s’il en est ainsi décidé, recommande leur adoption aux parties au protocole pertinent;
-- g) Examine et adopte, selon qu’il convient, les annexes supplémentaires à la présente Convention conformément à l’art. 10;
-- h) Examine et adopte, selon qu’il convient, les protocoles conformément à l’art. 8;
-- i) Établit les organes subsidiaires jugés nécessaires à l’application de la présente Convention;
-- j) S’assure, selon qu’il convient, les services d’organismes internationaux et de comités scientifiques compétents et, en particulier, ceux de l’Organisation météorologique mondiale, de l’Organisation mondiale de la santé, ainsi que du Comité de coordination pour la couche d’ozone, pour des recherches scientifiques, des observations systématiques et d’autres activités conformes aux objectifs de la présente Convention; elle utilise aussi, selon qu’il convient, les renseignements émanant de ces organes et comités;
-- k) Examine et prend toute autre mesure nécessaire à la poursuite des objectifs de la présente Convention.
+- a) établit la forme et la fréquence de la communication des renseignements devant être présentés conformément à l’art. 5 et examine ces renseignements ainsi que les rapports présentés par tout organe subsidiaire;
+- b) étudie les renseignements scientifiques sur l’état de la couche d’ozone, sur sa modification possible et sur les effets possibles de cette modification;
+- c) favorise, conformément à l’art. 2, l’harmonisation des politiques, stratégies et mesures appropriées pour réduire au minimum les rejets de substances qui modifient ou sont susceptibles de modifier la couche d’ozone, et fait des recommandations sur toutes autres mesures en rapport avec la présente Convention;
+- d) adopte, conformément aux art. 3 et 4, des programmes de recherche, d’observations systématiques, de coopération scientifique et technique, d’échange de renseignements et de transfert de technologie et de connaissances;
+- e) examine et adopte, selon qu’il convient, les amendements à la présente Convention et à ses annexes, conformément aux art. 9 et 10;
+- f) examine les amendements à tout protocole et les annexes à tout protocole et, s’il en est ainsi décidé, recommande leur adoption aux parties au protocole pertinent;
+- g) examine et adopte, selon qu’il convient, les annexes supplémentaires à la présente Convention conformément à l’art. 10;
+- h) examine et adopte, selon qu’il convient, les protocoles conformément à l’art. 8;
+- i) établit les organes subsidiaires jugés nécessaires à l’application de la présente Convention;
+- j) s’assure, selon qu’il convient, les services d’organismes internationaux et de comités scientifiques compétents et, en particulier, ceux de l’Organisation météorologique mondiale, de l’Organisation mondiale de la santé, ainsi que du Comité de coordination pour la couche d’ozone, pour des recherches scientifiques, des observations systématiques et d’autres activités conformes aux objectifs de la présente Convention; elle utilise aussi, selon qu’il convient, les renseignements émanant de ces organes et comités;
+- k) examine et prend toute autre mesure nécessaire à la poursuite des objectifs de la présente Convention.
 
 <sup>5.</sup> L’Organisation des Nations Unies, ses institutions spécialisées et l’Agence internationale de l’énergie atomique, de même que tout État qui n’est pas partie à la présente Convention, peuvent se faire représenter aux réunions de la Conférence des Parties par des observateurs. Tout organe ou organisme national ou international, gouvernemental ou non gouvernemental qualifié dans les domaines liés à la protection de la couche d’ozone qui a informé le secrétariat de son désir de se faire représenter à une réunion de la Conférence des Parties en qualité d’observateur peut être admis à y prendre part à moins qu’un tiers au moins des Parties présentes n’y fassent objection. L’admission et la participation des observateurs sont subordonnées au respect du règlement intérieur adopté par la Conférence des Parties.
 
@@ -164,12 +164,12 @@ La Conférence des Parties examine en permanence l’application de la présente
 
 Les fonctions du secrétariat sont les suivantes:
 
-- a) Organiser les réunions des Parties conformément aux art. 6, 8, 9 et 10 et en assurer le service;
-- b) Établir et transmettre un rapport fondé sur les renseignements reçus conformément aux art. 4 et 5 ainsi que sur les renseignements obtenus à l’occasion des réunions des organes subsidiaires créés en vertu de l’art. 6;
-- c) S’acquitter des fonctions qui lui sont assignées en vertu de tout protocole à la présente convention;
-- d) Établir des rapports sur les activités menées à bien dans l’exercice des fonctions qui lui sont assignées en vertu de la présente Convention et les présenter à la Conférence des Parties;
-- e) Assurer la coordination nécessaire avec d’autres organismes internationaux compétents, et en particulier conclure les arrangements administratifs et contractuels qui pourraient lui être nécessaires pour s’acquitter efficacement de ses fonctions;
-- f) S’acquitter de toutes autres fonctions que la Conférence des Parties pourrait décider de lui assigner.
+- a) organiser les réunions des Parties conformément aux art. 6, 8, 9 et 10 et en assurer le service;
+- b) établir et transmettre un rapport fondé sur les renseignements reçus conformément aux art. 4 et 5 ainsi que sur les renseignements obtenus à l’occasion des réunions des organes subsidiaires créés en vertu de l’art. 6;
+- c) s’acquitter des fonctions qui lui sont assignées en vertu de tout protocole à la présente convention;
+- d) établir des rapports sur les activités menées à bien dans l’exercice des fonctions qui lui sont assignées en vertu de la présente Convention et les présenter à la Conférence des Parties;
+- e) assurer la coordination nécessaire avec d’autres organismes internationaux compétents, et en particulier conclure les arrangements administratifs et contractuels qui pourraient lui être nécessaires pour s’acquitter efficacement de ses fonctions;
+- f) s’acquitter de toutes autres fonctions que la Conférence des Parties pourrait décider de lui assigner.
 
 <sup>2.</sup> Les fonctions du secrétariat seront exercées provisoirement par le Programme des Nations Unies pour l’environnement jusqu’à la fin de la première réunion ordinaire de la Conférence des Parties tenue conformément à l’art. 6. À sa première réunion ordinaire, la Conférence des Parties désignera le secrétariat parmi les organisations internationales compétentes qui se seraient proposées pour assurer les fonctions de secrétariat prévues par la présente Convention.
 
@@ -207,8 +207,8 @@ Les fonctions du secrétariat sont les suivantes:
 
 Sauf disposition contraire de tout protocole concernant ses propres annexes, la proposition, l’adoption et l’entrée en vigueur d’annexes supplémentaires à la présente Convention ou d’annexes à un protocole sont régies par la procédure suivante:
 
-- a) Les annexes à la présente Convention sont proposées et adoptées selon la procédure décrite aux par. 2 et 3 de l’art. 9; les annexes à tout protocole sont proposées et adoptées selon la procédure décrite aux par. 2 et 4 de l’art. 9;
-- b) Toute partie qui n’est pas en mesure d’approuver une annexe supplémentaire à la présente Convention ou une annexe à l’un quelconque des protocoles auquel elle est partie en donne par écrit notification au dépositaire dans les six mois qui suivent la date de communication de l’adoption par le dépositaire. Ce dernier informe sans délai toutes les parties de toute notification reçue. Une partie peut à tout moment accepter une annexe à laquelle elle avait déclaré précédemment faire objection, et cette annexe entre alors en vigueur à l’égard de cette partie;
+- a) Les annexes à la présente Convention sont proposées et adoptées selon la procédure décrite aux par. 2 et 3 de l’art. 9; les annexes à tout protocole sont proposées et adoptées selon la procédure décrite aux par. 2 et 4 de l’art. 9.
+- b) Toute partie qui n’est pas en mesure d’approuver une annexe supplémentaire à la présente Convention ou une annexe à l’un quelconque des protocoles auquel elle est partie en donne par écrit notification au dépositaire dans les six mois qui suivent la date de communication de l’adoption par le dépositaire. Ce dernier informe sans délai toutes les parties de toute notification reçue. Une partie peut à tout moment accepter une annexe à laquelle elle avait déclaré précédemment faire objection, et cette annexe entre alors en vigueur à l’égard de cette partie.
 - c) À l’expiration d’un délai de six mois à compter de la date de l’envoi de la communication par le dépositaire, l’annexe prend effet à l’égard de toutes les parties à la présente Convention ou au protocole considéré qui n’ont pas soumis de notification conformément à l’al. b) ci-dessus.
 
 <sup>3.</sup> La proposition, l’adoption et l’entrée en vigueur d’amendements aux annexes à la présente Convention ou à l’un quelconque des protocoles sont soumises à la même procédure que la proposition, l’adoption et l’entrée en vigueur des annexes à la Convention ou à l’un quelconque des protocoles. Les annexes et les amendements y relatifs tiennent dûment compte, entre autres, des considérations scientifiques et techniques pertinentes.
@@ -227,8 +227,8 @@ Sauf disposition contraire de tout protocole concernant ses propres annexes, la 
 
 Lorsqu’il ratifie, accepte, approuve la présente Convention ou y adhère, tout État ou organisation d’intégration économique régionale peut déclarer par écrit auprès du Dépositaire que, dans le cas de différends qui n’ont pas été réglés conformément aux par. 1 ou 2 ci‑dessus, il accepte de considérer comme obligatoire l’un ou l’autre ou les deux modes de règlement ci‑après:
 
-- a) Arbitrage, conformément à la procédure qui sera adoptée par la Conférence des Parties, à sa première session ordinaire;
-- b) Soumission du différend à la Cour internationale de justice.
+- a) arbitrage, conformément à la procédure qui sera adoptée par la Conférence des Parties, à sa première session ordinaire;
+- b) soumission du différend à la Cour internationale de justice.
 
 <sup>4.</sup> Si les Parties n’ont pas, conformément au par. 3 ci‑dessus, accepté la même procédure ou une procédure, le différend est soumis à la conciliation conformément au par. 5 ci‑après, à moins que les Parties n’en conviennent autrement.
 
@@ -320,13 +320,13 @@ Aucune réserve ne peut être faite à la présente Convention.
 
 Le dépositaire informe les Parties en particulier:
 
-- a) De la signature de la présente Convention et de tout protocole, ainsi que du dépôt des instruments de ratification, d’acceptation, d’approbation ou d’adhésion conformément aux art. 13 et 14;
-- b) De la date d’entrée en vigueur de la Convention et de tout protocole conformément à l’art. 17;
-- c) Des notifications de dénonciation faites conformément à l’art. 19;
-- d) Des amendements adoptés en ce qui concerne la Convention et tout protocole, de l’acceptation de ces amendements par les Parties et de leur date d’entrée en vigueur conformément à l’art. 9;
-- e) De toutes communications relatives à l’adoption ou à l’approbation d’annexes et à leurs amendements conformément à l’art. 10;
-- f) De la notification par les organisations régionales d’intégration économique de l’étendue de leurs compétences dans les domaines régis par la présente Convention et par tout protocole, et de toute modification y relative;
-- g) Des déclarations prévues à l’art. 11.
+- a) de la signature de la présente Convention et de tout protocole, ainsi que du dépôt des instruments de ratification, d’acceptation, d’approbation ou d’adhésion conformément aux art. 13 et 14;
+- b) de la date d’entrée en vigueur de la Convention et de tout protocole conformément à l’art. 17;
+- c) des notifications de dénonciation faites conformément à l’art. 19;
+- d) des amendements adoptés en ce qui concerne la Convention et tout protocole, de l’acceptation de ces amendements par les Parties et de leur date d’entrée en vigueur conformément à l’art. 9;
+- e) de toutes communications relatives à l’adoption ou à l’approbation d’annexes et à leurs amendements conformément à l’art. 10;
+- f) de la notification par les organisations régionales d’intégration économique de l’étendue de leurs compétences dans les domaines régis par la présente Convention et par tout protocole, et de toute modification y relative;
+- g) des déclarations prévues à l’art. 11.
 
 #### Art. 21
 
@@ -353,7 +353,7 @@ Annexe I
   - iii) Mesures sur le terrain: concentrations et flux de gaz sources essentiels d’origine aussi bien naturelle qu’anthropogène; étude sur la dynamique de l’atmosphère; mesures simultanées de substances photochimiquement apparentées, en descendant jusqu’à la couche limite planétaire, au moyen d’instruments *in situ* et de télémesures; comparaison des divers détecteurs; mesures coordonnées de corrélation pour les instruments placés à bord de satellites; champs tridimensionnels de constituants‑traces essentiels, du flux solaire spectral et des paramètres météorologiques;
   - iv) Réalisation d’instruments, notamment de détecteurs à bord de satellites et autres pour la mesure des constituants‑traces de l’atmosphère, du flux solaire et des paramètres météorologiques.
 
-- b) *Recherches intéressant les effets sur la santé, les effets biologiques et les e**f**fets de photodégradation*
+- b) *Recherches intéressant les effets sur la santé, les effets biologiques et les ef**fets de photodégradation*
   - i) Relation entre l’exposition de l’homme au rayonnement solaire, visible ou ultraviolet et a) l’apparition de cancers de la peau autres que le mélanome ou de mélanomes malins, et b) les effets sur le système immunologique;
   - ii) Effets du rayonnement UV‑B, y compris la relation avec la longueur d’onde, sur a) les cultures, les forêts et autres écosystèmes terrestres et b) sur le système des aliments d’origine aquatique et sur la pêche, y compris en ce qui concerne l’inhibition éventuelle de la capacité de production d’oxygène du phytoplancton marin;
   - iii) Mécanismes par lesquels le rayonnement UV‑B agit sur les matériaux, espèces et écosystèmes biologiques, y compris: relation entre la dose, le débit de dose et la réponse; photoréparation, adaptation et protection;
@@ -450,7 +450,7 @@ Ces renseignements portent notamment sur:
 - b) Les accords internationaux, et notamment les accords bilatéraux, intéressant la protection de la couche d’ozone;
 - c) Les méthodes et conditions en matière d’accords de licence et les brevets existants concernant la protection de la couche d’ozone.
 
-Champ d’application le 18 décembre 2019**[^t-2]**
+Champ d’application le 6 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -491,8 +491,8 @@ Champ d’application le 18 décembre 2019**[^t-2]**
 <tr><td>Cap-Vert</td><td>31 juillet</td><td>2001 A</td><td>29 octobre</td><td>2001</td></tr>
 <tr><td>Chili</td><td>6 mars</td><td>1990</td><td>4 juin</td><td>1990</td></tr>
 <tr><td>Chine</td><td>11 septembre</td><td>1989 A</td><td>10 décembre</td><td>1989</td></tr>
-<tr><td>[tab] Hong Kong <sup>a</sup></td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td>[tab] Macao <sup>b</sup></td><td>19 octobre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao <sup>b</sup></td><td>19 octobre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>28 mai</td><td>1992 A</td><td>26 août</td><td>1992</td></tr>
 <tr><td>Colombie</td><td>16 juillet</td><td>1990 A</td><td>14 octobre</td><td>1990</td></tr>
 <tr><td>Comores</td><td>31 octobre</td><td>1994 A</td><td>29 janvier</td><td>1995</td></tr>
@@ -536,6 +536,7 @@ Champ d’application le 18 décembre 2019**[^t-2]**
 <tr><td>Hongrie</td><td>4 mai</td><td>1988 A</td><td>22 septembre</td><td>1988</td></tr>
 <tr><td>Îles Cook</td><td>22 décembre</td><td>2003 A</td><td>21 mars</td><td>2004</td></tr>
 <tr><td>Îles Marshall</td><td>11 mars</td><td>1993 A</td><td>9 juin</td><td>1993</td></tr>
+<tr><td>Îles Salomon</td><td>17 juin</td><td>1993 A</td><td>15 septembre</td><td>1993</td></tr>
 <tr><td>Inde</td><td>18 mars</td><td>1991 A</td><td>16 juin</td><td>1991</td></tr>
 <tr><td>Indonésie</td><td>26 juin</td><td>1992 A</td><td>24 septembre</td><td>1992</td></tr>
 <tr><td>Iran</td><td>3 octobre</td><td>1990 A</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
@@ -569,7 +570,7 @@ Champ d’application le 18 décembre 2019**[^t-2]**
 <tr><td>Mali</td><td>28 octobre</td><td>1994 A</td><td>26 janvier</td><td>1995</td></tr>
 <tr><td>Malte</td><td>15 septembre</td><td>1988 A</td><td>14 décembre</td><td>1988</td></tr>
 <tr><td>Maroc</td><td>28 décembre</td><td>1995</td><td>27 mars</td><td>1996</td></tr>
-<tr><td>Maurice</td><td>18 août</td><td>1992 A</td><td>16 novembre</td><td>1992</td></tr>
+<tr><td>Maurice\*</td><td>18 août</td><td>1992 A</td><td>16 novembre</td><td>1992</td></tr>
 <tr><td>Mauritanie</td><td>26 mai</td><td>1994 A</td><td>24 août</td><td>1994</td></tr>
 <tr><td>Mexique</td><td>14 septembre</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
 <tr><td>Micronésie</td><td>3 août</td><td>1994 A</td><td>1<sup>er</sup> novembre</td><td>1994</td></tr>
@@ -598,10 +599,10 @@ Champ d’application le 18 décembre 2019**[^t-2]**
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>27 octobre</td><td>1992 A</td><td>25 janvier</td><td>1993</td></tr>
 <tr><td>Paraguay</td><td>3 décembre</td><td>1992 A</td><td>3 mars</td><td>1993</td></tr>
 <tr><td>Pays-Bas\* <sup>d</sup></td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
-<tr><td>[tab] Aruba</td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
-<tr><td>[tab] Curaçao</td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
-<tr><td>[tab] Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
-<tr><td>[tab] Sint Maarten</td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
+<tr><td>Aruba</td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
+<tr><td>Curaçao</td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
+<tr><td>Sint Maarten</td><td>28 septembre</td><td>1988</td><td>27 décembre</td><td>1988</td></tr>
 <tr><td>Pérou</td><td>7 avril</td><td>1989</td><td>6 juillet</td><td>1989</td></tr>
 <tr><td>Philippines</td><td>17 juillet</td><td>1991 A</td><td>15 octobre</td><td>1991</td></tr>
 <tr><td>Pologne</td><td>13 juillet</td><td>1990 A</td><td>11 octobre</td><td>1990</td></tr>
@@ -612,22 +613,22 @@ Champ d’application le 18 décembre 2019**[^t-2]**
 <tr><td>République tchèque</td><td>30 septembre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>27 janvier</td><td>1993 A</td><td>27 avril</td><td>1993</td></tr>
 <tr><td>Royaume-Uni</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Akrotiri et Dhekelia</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Anguilla</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Bermudes</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Gibraltar</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Guernesey</td><td>30 août</td><td>1990</td><td>30 août</td><td>1990</td></tr>
-<tr><td>[tab] Île de Man</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Îles Cayman</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Îles Turques et Caïques</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Îles Vierges britanniques</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Jersey</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Montserrat</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Territoire antarctique britannique</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Territoire britannique de l’Océan Indien</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Akrotiri et Dhekelia</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Anguilla</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Bermudes</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Gibraltar</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Guernesey</td><td>30 août</td><td>1990</td><td>30 août</td><td>1990</td></tr>
+<tr><td>Île de Man</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Îles Cayman</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Îles Turques et Caïques</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Jersey</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Montserrat</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Territoire antarctique britannique</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
+<tr><td>Territoire britannique de l’Océan Indien</td><td>15 mai</td><td>1987</td><td>22 septembre</td><td>1988</td></tr>
 <tr><td>Russie</td><td>18 juin</td><td>1986</td><td>22 septembre</td><td>1988</td></tr>
 <tr><td>Rwanda</td><td>11 octobre</td><td>2001 A</td><td>9 janvier</td><td>2002</td></tr>
 <tr><td>Sainte-Lucie</td><td>28 juillet</td><td>1993 A</td><td>26 octobre</td><td>1993</td></tr>
@@ -635,7 +636,6 @@ Champ d’application le 18 décembre 2019**[^t-2]**
 <tr><td>Saint-Marin</td><td>23 avril</td><td>2009 A</td><td>22 juillet</td><td>2009</td></tr>
 <tr><td>Saint-Siège\*</td><td>5 mai</td><td>2008 A</td><td>3 août</td><td>2008</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>2 décembre</td><td>1996 A</td><td>2 mars</td><td>1997</td></tr>
-<tr><td>Salomon, Îles</td><td>17 juin</td><td>1993 A</td><td>15 septembre</td><td>1993</td></tr>
 <tr><td>Samoa</td><td>21 décembre</td><td>1992 A</td><td>21 mars</td><td>1993</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>19 novembre</td><td>2001 A</td><td>17 février</td><td>2002</td></tr>
 <tr><td>Sénégal</td><td>19 mars</td><td>1993 A</td><td>17 juin</td><td>1993</td></tr>
@@ -666,7 +666,7 @@ Champ d’application le 18 décembre 2019**[^t-2]**
 <tr><td>Turquie</td><td>20 septembre</td><td>1991 A</td><td>19 décembre</td><td>1991</td></tr>
 <tr><td>Tuvalu</td><td>15 juillet</td><td>1993 A</td><td>13 octobre</td><td>1993</td></tr>
 <tr><td>Ukraine</td><td>18 juin</td><td>1986</td><td>22 septembre</td><td>1988</td></tr>
-<tr><td>[tab] Union européenne (UE)\*</td><td>17 octobre</td><td>1988</td><td>15 janvier</td><td>1989</td></tr>
+<tr><td>Union européenne (UE)\*</td><td>17 octobre</td><td>1988</td><td>15 janvier</td><td>1989</td></tr>
 <tr><td>Uruguay</td><td>27 février</td><td>1989 A</td><td>28 mai</td><td>1989</td></tr>
 <tr><td>Vanuatu</td><td>21 novembre</td><td>1994 A</td><td>19 février</td><td>1995</td></tr>
 <tr><td>Venezuela</td><td>1<sup>er</sup> septembre</td><td>1988 A</td><td>30 novembre</td><td>1988</td></tr>
@@ -674,7 +674,7 @@ Champ d’application le 18 décembre 2019**[^t-2]**
 <tr><td>Yémen</td><td>21 février</td><td>1996 A</td><td>21 mai</td><td>1996</td></tr>
 <tr><td>Zambie</td><td>24 janvier</td><td>1990 A</td><td>24 avril</td><td>1990</td></tr>
 <tr><td>Zimbabwe</td><td>3 novembre</td><td>1992 A</td><td>1<sup>er</sup> février</td><td>1993</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 15 mai 1987 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 15 fév. 1994 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>c</sup> À la date de l’adhésion de Nioué et des Îles-Cook à la Convention la déclaration territoriale de la Nouvelle-Zélande est devenue caduque. d Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 15 mai 1987 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 15 fév. 1994 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>c</sup> À la date de l’adhésion de Nioué et des Îles-Cook à la Convention la déclaration territoriale de la Nouvelle-Zélande est devenue caduque. <sup>d</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: RO **1988** 1772, [1989 474](https://fedlex.data.admin.ch/eli/oc/1989/474_474_474), [1991 36](https://fedlex.data.admin.ch/eli/oc/1991/36_36_36), [1992 667](https://fedlex.data.admin.ch/eli/oc/1992/667_667_667), [1993 3014](https://fedlex.data.admin.ch/eli/oc/1993/3014_3014_3014), [2002 2652](https://fedlex.data.admin.ch/eli/oc/2002/364), [2005 2319](https://fedlex.data.admin.ch/eli/oc/2005/391), [2009 2553](https://fedlex.data.admin.ch/eli/oc/2009/328), [2012 1275](https://fedlex.data.admin.ch/eli/oc/2012/187), [2020 249](https://fedlex.data.admin.ch/eli/oc/2020/41). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1988 1752](https://fedlex.data.admin.ch/eli/oc/1988/1752_1752_1752); [1989 474](https://fedlex.data.admin.ch/eli/oc/1989/474_474_474); [1991 36](https://fedlex.data.admin.ch/eli/oc/1991/36_36_36); [1992 667](https://fedlex.data.admin.ch/eli/oc/1992/667_667_667); [1993 3014](https://fedlex.data.admin.ch/eli/oc/1993/3014_3014_3014); [2002 2652](https://fedlex.data.admin.ch/eli/oc/2002/364); [2005 2319](https://fedlex.data.admin.ch/eli/oc/2005/391); [2009 2553](https://fedlex.data.admin.ch/eli/oc/2009/328); [2012 1275](https://fedlex.data.admin.ch/eli/oc/2012/187); [2020 249](https://fedlex.data.admin.ch/eli/oc/2020/41); [2023 376](https://fedlex.data.admin.ch/eli/oc/2023/376). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
