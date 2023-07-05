@@ -3,11 +3,11 @@ sr: "0.747.305.151"
 title: Übereinkommen vom 28. Juli 1994 zur Durchführung des Teiles XI des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/417"
 language: de
-version: 2019-02-22
+version: 2023-07-06
 adopted: 1994-07-28
 in_force: 2009-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/417/20190222/de/xml/fedlex-data-admin-ch-eli-cc-2009-417-20190222-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/417/20190222/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/417/20230706/de/xml/fedlex-data-admin-ch-eli-cc-2009-417-20230706-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/417/20230706/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,15 +18,9 @@ AS **2009** 3411; BBl **2008** 4293
 
 Übersetzung
 
-Abgeschlossen in New York am 28. Juli 1994
+Abgeschlossen in New York am 28. Juli 1994 Von der Bundesversammlung genehmigt am 19. Dezember 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Mai 2009 In Kraft getreten für die Schweiz am 31. Mai 2009
 
-Von der Bundesversammlung genehmigt am 19. Dezember 2008[^t-1]
-
-Schweizerische Ratifikationsurkunde hinterlegt am 1. Mai 2009
-
-In Kraft getreten für die Schweiz am 31. Mai 2009
-
-(Stand am 22. Februar 2019)
+(Stand am 6. Juli 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 19. Dez. 2008 ([AS 2009 3207](https://fedlex.data.admin.ch/eli/oc/2009/415)).
 
@@ -48,7 +42,7 @@ in der Erwägung, dass ein Übereinkommen zur Durchführung des Teiles XI diesem
 
 haben Folgendes vereinbart:
 
-[^ingress-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^ingress-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 1
 
@@ -391,7 +385,7 @@ Die Bestimmungen in Artikel 155 Absätze 1, 3 und 4 des Seerechtsübereinkommens
 
 \9. Der Forderung des Artikels 162 Absatz 2 Buchstabe y des Seerechtsübereinkommens nach Bildung eines Nebenorgans, das sich mit finanziellen Angelegenheiten befasst, ist durch die Bildung des Finanzausschusses in Übereinstimmung mit diesem Abschnitt Genüge getan.
 
-Geltungsbereich am 22. Februar 2019**[^t-2]**
+Geltungsbereich am 6. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -412,6 +406,7 @@ Geltungsbereich am 22. Februar 2019**[^t-2]**
 <tr><td>Belize</td><td>21. Oktober</td><td>1994</td><td>28. Juli</td><td>1996</td></tr>
 <tr><td>Benin</td><td>16. Oktober</td><td>1997</td><td>15. November</td><td>1997</td></tr>
 <tr><td>Bolivien</td><td>28. April</td><td>1995</td><td>28. Juli</td><td>1996</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>26. Mai</td><td>2021 B</td><td>25. Juni</td><td>2021</td></tr>
 <tr><td>Botsuana</td><td>31. Januar</td><td>2005 B</td><td>2. März</td><td>2005</td></tr>
 <tr><td>Brasilien</td><td>25. Oktober</td><td>2007</td><td>24. November</td><td>2007</td></tr>
 <tr><td>Brunei</td><td>5. November</td><td>1996</td><td>5. Dezember</td><td>1996</td></tr>
@@ -476,7 +471,7 @@ Geltungsbereich am 22. Februar 2019**[^t-2]**
 <tr><td>Malta</td><td>26. Juni</td><td>1996</td><td>26. Juli</td><td>1996</td></tr>
 <tr><td>Marokko</td><td>31. Mai</td><td>2007</td><td>30. Juni</td><td>2007</td></tr>
 <tr><td>Mauretanien</td><td>17. Juli</td><td>1996</td><td>16. August</td><td>1996</td></tr>
-<tr><td>Mauritius</td><td>4. November</td><td>1994</td><td>28. Juli</td><td>1996</td></tr>
+<tr><td>Mauritius\*</td><td>4. November</td><td>1994</td><td>28. Juli</td><td>1996</td></tr>
 <tr><td>Mexiko</td><td>10. April</td><td>2003 B</td><td>10. Mai</td><td>2003</td></tr>
 <tr><td>Mikronesien</td><td>6. September</td><td>1995</td><td>28. Juli</td><td>1996</td></tr>
 <tr><td>Moldau</td><td>6. Februar</td><td>2007</td><td>8. März</td><td>2007</td></tr>
@@ -510,6 +505,7 @@ Geltungsbereich am 22. Februar 2019**[^t-2]**
 <tr><td>Philippinen</td><td>23. Juli</td><td>1997</td><td>22. August</td><td>1997</td></tr>
 <tr><td>Polen</td><td>13. November</td><td>1998</td><td>13. Dezember</td><td>1998</td></tr>
 <tr><td>Portugal</td><td>3. November</td><td>1997</td><td>3. Dezember</td><td>1997</td></tr>
+<tr><td>Ruanda</td><td>18. Mai</td><td>2023</td><td>17. Juni</td><td>2023</td></tr>
 <tr><td>Rumänien</td><td>17. Dezember</td><td>1996 B</td><td>16. Januar</td><td>1997</td></tr>
 <tr><td>Russland\*</td><td>12. März</td><td>1997 B</td><td>11. April</td><td>1997</td></tr>
 <tr><td>Salomoninseln</td><td>23. Juni</td><td>1997</td><td>23. Juli</td><td>1997</td></tr>
@@ -563,7 +559,7 @@ Geltungsbereich am 22. Februar 2019**[^t-2]**
 <tr><td>Turks- und Caicosinseln</td><td>25. Juli</td><td>1997</td><td>24. August</td><td>1997</td></tr>
 <tr><td>Vietnam</td><td>27. April</td><td>2006 B</td><td>26. Mai</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>27. Juli</td><td>1995</td><td>28. Juli</td><td>1996</td></tr>
-<tr><td colspan="5">\* Vorbehalte, Erklärungen und Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2009 3411](https://fedlex.data.admin.ch/eli/oc/2009/417), [2011 5147](https://fedlex.data.admin.ch/eli/oc/2011/746), [2016 623](https://fedlex.data.admin.ch/eli/oc/2016/118), [2019 849](https://fedlex.data.admin.ch/eli/oc/2019/147). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2009 3411](https://fedlex.data.admin.ch/eli/oc/2009/417); [2011 5147](https://fedlex.data.admin.ch/eli/oc/2011/746); [2016 623](https://fedlex.data.admin.ch/eli/oc/2016/118); [2019 849](https://fedlex.data.admin.ch/eli/oc/2019/147); [2023 375](https://fedlex.data.admin.ch/eli/oc/2023/375). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

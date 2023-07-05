@@ -3,11 +3,11 @@ sr: "0.747.305.151"
 title: "Accordo del 28 luglio 1994 relativo all'attuazione della Parte XI della Convenzione delle Nazioni Unite sul diritto del mare del 10 dicembre 1982 (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/417"
 language: it
-version: 2019-02-22
+version: 2023-07-06
 adopted: 1994-07-28
 in_force: 2009-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/417/20190222/it/xml/fedlex-data-admin-ch-eli-cc-2009-417-20190222-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/417/20190222/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/417/20230706/it/xml/fedlex-data-admin-ch-eli-cc-2009-417-20230706-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/417/20230706/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2009** 3411; FF **2008** 3487
 
 Traduzione
 
-Concluso a New York il 28 luglio 1994
+Concluso a New York il 28 luglio 1994 Approvato dall’Assemblea federale il 19 dicembre 2008[^t-1] Strumento di ratifica depositato dalla Svizzera il 1° maggio 2009 Entrato in vigore per la Svizzera il 31 maggio 2009
 
-Approvato dall’Assemblea federale il 19 dicembre 2008[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 1° maggio 2009
-
-Entrato in vigore per la Svizzera il 31 maggio 2009
-
-(Stato 22 febbraio 2019)
+(Stato 6 luglio 2023)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 19 dic. 2008 ([RU 2009 3207](https://fedlex.data.admin.ch/eli/oc/2009/415)).
 
@@ -48,7 +42,7 @@ ritenendo che un accordo in merito all’attuazione della Parte XI sarebbe il mo
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 1
 
@@ -391,7 +385,7 @@ Le disposizioni relative alla Conferenza di revisione di cui all’articolo 155 
 
 \9. Si ritiene che il requisito di cui all’articolo 162 numero 2 lettera y) della Convenzione, che contempla l’istituzione di un organo sussidiario che si occupi delle questioni finanziarie, sia soddisfatto dall’istituzione del Comitato finanziario conformemente a questa sezione.
 
-Campo d’applicazione il 22 febbraio 2019**[^t-2]**
+Campo d’applicazione il 6 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -413,6 +407,7 @@ Campo d’applicazione il 22 febbraio 2019**[^t-2]**
 <tr><td>Benin</td><td>16 ottobre</td><td>1997</td><td>15 novembre</td><td>1997</td></tr>
 <tr><td>Bielorussia</td><td>30 agosto</td><td>2006 A</td><td>29 settembre</td><td>2006</td></tr>
 <tr><td>Bolivia</td><td>28 aprile</td><td>1995</td><td>28 luglio</td><td>1996</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>26 maggio</td><td>2021 A</td><td>25 giugno</td><td>2021</td></tr>
 <tr><td>Botswana</td><td>31 gennaio</td><td>2005 A</td><td>2 marzo</td><td>2005</td></tr>
 <tr><td>Brasile</td><td>25 ottobre</td><td>2007</td><td>24 novembre</td><td>2007</td></tr>
 <tr><td>Brunei</td><td>5 novembre</td><td>1996</td><td>5 dicembre</td><td>1996</td></tr>
@@ -480,7 +475,7 @@ Campo d’applicazione il 22 febbraio 2019**[^t-2]**
 <tr><td>Malta</td><td>26 giugno</td><td>1996</td><td>26 luglio</td><td>1996</td></tr>
 <tr><td>Marocco</td><td>31 maggio</td><td>2007</td><td>30 giugno</td><td>2007</td></tr>
 <tr><td>Mauritania</td><td>17 luglio</td><td>1996</td><td>16 agosto</td><td>1996</td></tr>
-<tr><td>Maurizio</td><td>4 novembre</td><td>1994</td><td>28 luglio</td><td>1996</td></tr>
+<tr><td>Maurizio\*</td><td>4 novembre</td><td>1994</td><td>28 luglio</td><td>1996</td></tr>
 <tr><td>Messico</td><td>10 aprile</td><td>2003 A</td><td>10 maggio</td><td>2003</td></tr>
 <tr><td>Micronesia</td><td>6 settembre</td><td>1995</td><td>28 luglio</td><td>1996</td></tr>
 <tr><td>Moldova</td><td>6 febbraio</td><td>2007</td><td>8 marzo</td><td>2007</td></tr>
@@ -528,6 +523,7 @@ Campo d’applicazione il 22 febbraio 2019**[^t-2]**
 <tr><td>Turks e Caicos, Isole</td><td>25 luglio</td><td>1997</td><td>24 agosto</td><td>1997</td></tr>
 <tr><td>Vergini Britanniche, Isole</td><td>25 luglio</td><td>1997</td><td>24 agosto</td><td>1997</td></tr>
 <tr><td>Romania</td><td>17 dicembre</td><td>1996 A</td><td>16 gennaio</td><td>1997</td></tr>
+<tr><td>Ruanda</td><td>18 maggio</td><td>2023</td><td>17 giugno</td><td>2023</td></tr>
 <tr><td>Russia\*</td><td>12 marzo</td><td>1997 A</td><td>11 aprile</td><td>1997</td></tr>
 <tr><td>Salomone, Isole</td><td>23 giugno</td><td>1997</td><td>23 luglio</td><td>1997</td></tr>
 <tr><td>Samoa</td><td>14 agosto</td><td>1995</td><td>28 luglio</td><td>1996</td></tr>
@@ -562,8 +558,7 @@ Campo d’applicazione il 22 febbraio 2019**[^t-2]**
 <tr><td>Yemen</td><td>13 ottobre</td><td>2014 A</td><td>12 novembre</td><td>2014</td></tr>
 <tr><td>Zambia</td><td>28 luglio</td><td>1995</td><td>28 luglio</td><td>1996</td></tr>
 <tr><td>Zimbabwe</td><td>28 luglio</td><td>1995</td><td>28 luglio</td><td>1996</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Per il Regno Unito in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [[http://treaties.un.org](https://treaties.un.org)](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno Unito in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 3411](https://fedlex.data.admin.ch/eli/oc/2009/417), [2011 5147](https://fedlex.data.admin.ch/eli/oc/2011/746), [2016 623](https://fedlex.data.admin.ch/eli/oc/2016/118)e [2019 849](https://fedlex.data.admin.ch/eli/oc/2019/147). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2009 3411](https://fedlex.data.admin.ch/eli/oc/2009/417); [2011 5147](https://fedlex.data.admin.ch/eli/oc/2011/746); [2016 623](https://fedlex.data.admin.ch/eli/oc/2016/118); [2019 849](https://fedlex.data.admin.ch/eli/oc/2019/147); [2023 375](https://fedlex.data.admin.ch/eli/oc/2023/375). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

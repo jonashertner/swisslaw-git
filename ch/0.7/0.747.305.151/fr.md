@@ -3,11 +3,11 @@ sr: "0.747.305.151"
 title: "Accord du 28 juillet 1994 relatif à l'application de la partie XI de la Convention des Nations Unies sur le droit de la mer du 10 décembre 1982 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/417"
 language: fr
-version: 2019-02-22
+version: 2023-07-06
 adopted: 1994-07-28
 in_force: 2009-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/417/20190222/fr/xml/fedlex-data-admin-ch-eli-cc-2009-417-20190222-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/417/20190222/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/417/20230706/fr/xml/fedlex-data-admin-ch-eli-cc-2009-417-20230706-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/417/20230706/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2009** 3411; FF **2008** 3653
 
 Texte original
 
-Conclu à New York le 28 juillet 1994
+Conclu à New York le 28 juillet 1994 Approuvé par l’Assemblée fédérale le 19 décembre 2008[^t-1] Instrument de ratification déposé par la Suisse le 1<sup>er</sup> mai 2009 Entré en vigueur pour la Suisse le 31 mai 2009
 
-Approuvé par l’Assemblée fédérale le 19 décembre 2008[^t-1]
-
-Instrument de ratification déposé par la Suisse le 1<sup>er</sup> mai 2009
-
-Entré en vigueur pour la Suisse le 31 mai 2009
-
-(Etat le 22 février 2019)
+(État le 6 juillet 2023)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 19 déc. 2008 ([RO 2009 3207](https://fedlex.data.admin.ch/eli/oc/2009/415))
 
@@ -48,7 +42,7 @@ considérant que le meilleur moyen d’atteindre cet objectif est de conclure un
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 1
 
@@ -391,7 +385,7 @@ Les dispositions relatives à la Conférence de révision figurant à l’art. 1
 
 \9. Les dispositions de l’art. 162, par. 2, let. y) de la Convention prévoyant la création d’un organe subsidiaire chargé des questions financières sont réputées avoir reçu effet par la création de la Commission des finances conformément à la présente section.
 
-Champ d’application le 22 février 2019**[^t-2]**
+Champ d’application le 6 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -405,16 +399,17 @@ Champ d’application le 22 février 2019**[^t-2]**
 <tr><td>Argentine</td><td>1<sup>er</sup> décembre</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Arménie</td><td>9 décembre</td><td>2002 A</td><td>8 janvier</td><td>2003</td></tr>
 <tr><td>Australie</td><td>5 octobre</td><td>1994</td><td>28 juillet</td><td>1996</td></tr>
-<tr><td>Autriche<sup>\*</sup></td><td>14 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
+<tr><td>Autriche\*</td><td>14 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Azerbaïdjan</td><td>16 juin</td><td>2016 A</td><td>16 juillet</td><td>2016</td></tr>
 <tr><td>Bahamas</td><td>28 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Bangladesh</td><td>27 juillet</td><td>2001 A</td><td>26 août</td><td>2001</td></tr>
 <tr><td>Barbade</td><td>28 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Bélarus</td><td>30 août</td><td>2006 A</td><td>29 septembre</td><td>2006</td></tr>
-<tr><td>Belgique<sup>\*</sup></td><td>13 novembre</td><td>1998</td><td>13 décembre</td><td>1998</td></tr>
+<tr><td>Belgique\*</td><td>13 novembre</td><td>1998</td><td>13 décembre</td><td>1998</td></tr>
 <tr><td>Belize</td><td>21 octobre</td><td>1994</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Bénin</td><td>16 octobre</td><td>1997</td><td>15 novembre</td><td>1997</td></tr>
 <tr><td>Bolivie</td><td>28 avril</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>26 mai</td><td>2021 A</td><td>25 juin</td><td>2021</td></tr>
 <tr><td>Botswana</td><td>31 janvier</td><td>2005 A</td><td>2 mars</td><td>2005</td></tr>
 <tr><td>Brésil</td><td>25 octobre</td><td>2007</td><td>24 novembre</td><td>2007</td></tr>
 <tr><td>Brunéi</td><td>5 novembre</td><td>1996</td><td>5 décembre</td><td>1996</td></tr>
@@ -479,7 +474,7 @@ Champ d’application le 22 février 2019**[^t-2]**
 <tr><td>Maldives</td><td>7 septembre</td><td>2000</td><td>7 octobre</td><td>2000</td></tr>
 <tr><td>Malte</td><td>26 juin</td><td>1996</td><td>26 juillet</td><td>1996</td></tr>
 <tr><td>Maroc</td><td>31 mai</td><td>2007</td><td>30 juin</td><td>2007</td></tr>
-<tr><td>Maurice</td><td>4 novembre</td><td>1994</td><td>28 juillet</td><td>1996</td></tr>
+<tr><td>Maurice\*</td><td>4 novembre</td><td>1994</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Mauritanie</td><td>17 juillet</td><td>1996</td><td>16 août</td><td>1996</td></tr>
 <tr><td>Mexique</td><td>10 avril</td><td>2003 A</td><td>10 mai</td><td>2003</td></tr>
 <tr><td>Micronésie</td><td>6 septembre</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
@@ -533,7 +528,8 @@ Champ d’application le 22 février 2019**[^t-2]**
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>25 juillet</td><td>1997</td><td>24 août</td><td>1997</td></tr>
 <tr><td>Territoire antarctique britannique</td><td>25 juillet</td><td>1997</td><td>24 août</td><td>1997</td></tr>
 <tr><td>Territoire britannique de l’Océan Indien</td><td>25 juillet</td><td>1997</td><td>24 août</td><td>1997</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>12 mars</td><td>1997 A</td><td>11 avril</td><td>1997</td></tr>
+<tr><td>Russie\*</td><td>12 mars</td><td>1997 A</td><td>11 avril</td><td>1997</td></tr>
+<tr><td>Rwanda</td><td>18 mai</td><td>2023</td><td>17 juin</td><td>2023</td></tr>
 <tr><td>Samoa</td><td>14 août</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Sénégal</td><td>25 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Serbie</td><td>28 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
@@ -555,7 +551,7 @@ Champ d’application le 22 février 2019**[^t-2]**
 <tr><td>Trinité-et-Tobago</td><td>28 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Tunisie</td><td>24 mai</td><td>2002</td><td>23 juin</td><td>2002</td></tr>
 <tr><td>Tuvalu</td><td>9 décembre</td><td>2002</td><td>8 janvier</td><td>2003</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>26 juillet</td><td>1999</td><td>25 août</td><td>1999</td></tr>
+<tr><td>Ukraine\*</td><td>26 juillet</td><td>1999</td><td>25 août</td><td>1999</td></tr>
 <tr><td>Union européenne</td><td>1<sup>er</sup> avril</td><td>1998</td><td>1<sup>er</sup> mai</td><td>1998</td></tr>
 <tr><td>Uruguay</td><td>7 août</td><td>2007</td><td>6 septembre</td><td>2007</td></tr>
 <tr><td>Vanuatu</td><td>10 août</td><td>1999</td><td>9 septembre</td><td>1999</td></tr>
@@ -563,8 +559,7 @@ Champ d’application le 22 février 2019**[^t-2]**
 <tr><td>Yémen</td><td>13 octobre</td><td>2014 A</td><td>12 novembre</td><td>2014</td></tr>
 <tr><td>Zambie</td><td>28 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
 <tr><td>Zimbabwe</td><td>28 juillet</td><td>1995</td><td>28 juillet</td><td>1996</td></tr>
-<tr><td colspan="5">\* Réserves, déclarations et objection. Les réserves, déclarations et objection ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2009 3411](https://fedlex.data.admin.ch/eli/oc/2009/417), [2011 5147](https://fedlex.data.admin.ch/eli/oc/2011/746), [2016 623](https://fedlex.data.admin.ch/eli/oc/2016/118), [2019 849](https://fedlex.data.admin.ch/eli/oc/2019/147). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2009 3411](https://fedlex.data.admin.ch/eli/oc/2009/417); [2011 5147](https://fedlex.data.admin.ch/eli/oc/2011/746); [2016 623](https://fedlex.data.admin.ch/eli/oc/2016/118); [2019 849](https://fedlex.data.admin.ch/eli/oc/2019/147); [2023 375](https://fedlex.data.admin.ch/eli/oc/2023/375). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
