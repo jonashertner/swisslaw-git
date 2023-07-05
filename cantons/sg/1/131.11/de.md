@@ -5,12 +5,12 @@ title: Geschäftsreglement des Kantonsrates
 short: GeschKR
 language: de
 version: 2023-07-01
-valid_until: 2024-12-31
+corrected: 2023-07-06
 version_adopted: 2023-06-14
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3520/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -77,38 +77,33 @@ als Reglement:[^ingress-7]
 
 **Provisorisches Präsidium**
 
-<sup>1</sup> Nach einer Gesamterneuerung eröffnet die amtsjüngste Ratspräsidentin oder der amtsjüngste Ratspräsident, die oder der anwesend ist, die erste Sitzung des Kantonsrates. Ist keine ehemalige Ratspräsidentin und kein ehemaliger Ratspräsident anwesend, eröffnet das amtsälteste anwesende Mitglied die Sitzung, unter mehreren das an Jahren älteste.
+<sup>1</sup> Nach einer Gesamterneuerung eröffnet der amtsjüngste Ratspräsident, der anwesend ist, die erste Sitzung des Kantonsrates. Ist kein ehemaliger Ratspräsident anwesend, eröffnet das amtsälteste anwesende Mitglied die Sitzung, unter mehreren das an Jahren älteste.
 
-<sup>2</sup> Sie oder er leitet:
+<sup>2</sup> Er leitet das Verfahren über die Gültigkeit der Wahlen, die Vereidigung des Rates sowie die Wahl der Stimmenzähler und des Präsidenten.
 
-- a) das Verfahren über die Gültigkeit der Wahlen;
-- b) die Vereidigung des Rates;
-- c) die Wahl der Stimmenzählerinnen und Stimmenzähler;
-- d) die Wahl der Präsidentin oder des Präsidenten.
-
-<sup>3</sup> Drei Ratsmitglieder, die bereits in früheren Amtsjahren Stimmenzählerinnen oder Stimmenzähler gewesen sind, amten als provisorische Stimmenzählerinnen und Stimmenzähler.
+<sup>3</sup> Drei Ratsmitglieder, die bereits in früheren Amtsjahren Stimmenzähler gewesen sind, amten als provisorische Stimmenzähler.
 
 #### Art. 4
 
 **Präsidium a) Zusammensetzung**
 
-<sup>1</sup> Das Präsidium des Kantonsrates setzt sich aus der Präsidentin oder dem Präsidenten, der Vizepräsidentin oder dem Vizepräsidenten, drei Stimmenzählerinnen und Stimmenzählern sowie den Fraktionspräsidentinnen und Fraktionspräsidenten zusammen.
+<sup>1</sup> Das Präsidium des Kantonsrates setzt sich aus dem Präsidenten, dem Vizepräsidenten, drei Stimmenzählern und den Fraktionspräsidenten zusammen.
 
 #### Art. 5
 
-**b) Engeres Präsidium**
+**b) Präsident, Vizepräsident, Stimmenzähler**
 
-<sup>1</sup> Der Kantonsrat wählt zu Beginn der Sommersession zuerst die Stimmenzählerinnen und Stimmenzähler, dann die Präsidentin oder den Präsidenten und die Vizepräsidentin oder den Vizepräsidenten.
+<sup>1</sup> Der Kantonsrat wählt zu Beginn der Sommersession zuerst die Stimmenzähler, dann den Präsidenten und den Vizepräsidenten.
 
-<sup>2</sup> Präsidentin oder Präsident, Vizepräsidentin oder Vizepräsident sowie Stimmenzählerinnen und Stimmenzähler können für die nächsten zwei Jahre in gleicher Eigenschaft nicht wiedergewählt werden.
+<sup>2</sup> Präsident, Vizepräsident und Stimmenzähler können für die nächsten zwei Jahre in gleicher Eigenschaft nicht wiedergewählt werden.
 
-<sup>3</sup> Die Gewählten bleiben bis zur Wahl ihrer Nachfolgerinnen und Nachfolger im Amt.
+<sup>3</sup> Die Gewählten bleiben bis zur Wahl ihrer Nachfolger im Amt.
 
 #### Art. 6
 
-**c) Fraktionspräsidentinnen und Fraktionspräsidenten**
+**c) Fraktionspräsidenten**
 
-<sup>1</sup> Die Fraktionspräsidentinnen und Fraktionspräsidenten können sich an den Sitzungen des Präsidiums ausnahmsweise vertreten lassen.
+<sup>1</sup> Die Fraktionspräsidenten können sich an den Sitzungen des Präsidiums ausnahmsweise vertreten lassen.
 
 #### Art. 7
 
@@ -118,8 +113,8 @@ als Reglement:[^ingress-7]
 
 - a) plant die Ratstätigkeit auf wenigstens vier Jahre und legt darin die Daten der ordentlichen Sessionen fest;
 - b) setzt das Geschäftsverzeichnis der Sessionen nach Anhören der Regierung fest;
-- c) wählt Mitglieder sowie Präsidentinnen und Präsidenten der Kommissionen, soweit sie nicht vom Kantonsrat gewählt werden;
-- c<sup>bis</sup>) wählt auf Antrag der Staatssekretärin oder des Staatssekretärs die Leiterin oder den Leiter der Parlamentsdienste, legt vorgängig das entsprechende Wahlverfahren fest und beendet das Dienstverhältnis. Wahl und Beendigung des Dienstverhältnisses der Leiterin oder des Leiters der Parlamentsdienste unterliegen der Genehmigung durch den Kantonsrat. Die Leiterin oder der Leiter der Parlamentsdienste ist Generalsekretärin oder Generalsekretär des Kantonsrates;
+- c) wählt Mitglieder und Präsidenten der Kommissionen, soweit sie nicht vom Kantonsrat gewählt werden;
+- c<sup>bis</sup>) wählt auf Antrag des Staatssekretärs die Leiterin oder den Leiter der Parlamentsdienste, legt vorgängig das entsprechende Wahlverfahren fest und beendet das Dienstverhältnis. Wahl und Beendigung des Dienstverhältnisses der Leiterin oder des Leiters der Parlamentsdienste unterliegen der Genehmigung durch den Kantonsrat. Die Leiterin oder der Leiter der Parlamentsdienste ist Generalsekretärin oder Generalsekretär des Kantonsrates;
 - c<sup>ter</sup>) bezeichnet bei vom Kantonsrat eingereichten Standesinitiativen die Vertretung für die Anhörung durch die zuständige Kommission der eidgenössischen Räte;[^7-1]
 - c<sup>quater</sup> genehmigt die Wahl der Leiterin oder des Leiters der kantonalen Fachstelle für Datenschutz bzw. die Auflösung des Dienstverhältnisses;
 - c<sup>quinquies</sup>) genehmigt die Wahl der Leiterin oder des Leiters der Finanzkontrolle bzw. die Auflösung des Dienstverhältnisses;
@@ -128,13 +123,13 @@ als Reglement:[^ingress-7]
 - f) bereitet Reglementsänderungen und Beschlüsse vor, welche die Geschäftsordnung des Kantonsrates betreffen;
 - g) erstellt die Abschnitte «Kantonsrat» und «Parlamentsdienste» des Budgets;
 - g<sup>bis</sup>) überwacht die Verwendung der Kredite, soweit es diese Aufgabe nicht der Generalsekretärin oder dem Generalsekretär des Kantonsrates überträgt;
-- h) vereinbart mit der Staatssekretärin oder dem Staatssekretär die unterstützenden Leistungen der Staatskanzlei im Aufgabenbereich der Parlamentsdienste.
+- h) vereinbart mit dem Staatssekretär die unterstützenden Leistungen der Staatskanzlei im Aufgabenbereich der Parlamentsdienste.
 
 <sup>2</sup> Entscheide des Präsidiums können an den Kantonsrat weitergezogen werden. Nicht weitergezogen werden können Genehmigungen von Wahlen nach Abs. 1 Bst. c<sup>quater</sup> und c<sup>quinquies</sup> dieser Bestimmung.
 
 <sup>2<sup>bis</sup></sup> Protokolle sowie sonstige Informationen und Dokumente des Präsidiums sind nach [Art. 7 Abs. 1 Bst. a und b](https://www.gesetzessammlung.sg.ch/data/140.2/de/art7) des Öffentlichkeitsgesetzes vom 18. November 2014[^7-2] von der Einsicht ausgenommen.
 
-<sup>3</sup> Das Präsidium erlässt unter Zuzug der Präsidentin oder des Präsidenten der vorberatenden Kommission die erläuternden Berichte für Volksabstimmungen, soweit der Kantonsrat im Einzelfall nichts anderes beschliesst.
+<sup>3</sup> Das Präsidium erlässt unter Zuzug des Präsidenten der vorberatenden Kommission die erläuternden Berichte für Volksabstimmungen, soweit der Kantonsrat im Einzelfall nichts anderes beschliesst.
 
 <sup>4</sup> Das Präsidium beantragt dem Kantonsrat Grösse und Zusammensetzung der Vertretungen in interkantonalen und internationalen parlamentarischen Gremien.
 
@@ -145,39 +140,39 @@ als Reglement:[^ingress-7]
 
 #### Art. 8
 
-**Präsidentin oder Präsident**
+**Präsident**
 
-<sup>1</sup> Die Präsidentin oder der Präsident leitet die Verhandlungen des Kantonsrates und des Präsidiums.
+<sup>1</sup> Der Präsident leitet die Verhandlungen des Kantonsrates und des Präsidiums.
 
-<sup>2</sup> Sie oder er vertritt den Kantonsrat nach aussen, wacht über dessen Rechte sowie über die Befolgung des Reglementes und sorgt für Ruhe und Ordnung im Sitzungssaal.
+<sup>2</sup> Er vertritt den Kantonsrat nach aussen, wacht über dessen Rechte sowie über die Befolgung des Reglementes und sorgt für Ruhe und Ordnung im Sitzungssaal.
 
-<sup>3</sup> Sie oder er unterzeichnet zusammen mit der Generalsekretärin oder dem Generalsekretär des Kantonsrates im Namen des Kantonsrates.
+<sup>3</sup> Er unterzeichnet zusammen mit der Generalsekretärin oder dem Generalsekretär des Kantonsrates im Namen des Kantonsrates.
 
-<sup>4</sup> Sie oder er kann anstelle des Präsidiums dringliche Ersatzwahlen in Kommissionen treffen.
+<sup>4</sup> Er kann anstelle des Präsidiums dringliche Ersatzwahlen in Kommissionen treffen.
 
 #### Art. 9
 
-**Vizepräsidentin oder Vizepräsident**
+**Vizepräsident**
 
-<sup>1</sup> Die Vizepräsidentin oder der Vizepräsident vertritt die Präsidentin oder den Präsidenten, wenn diese oder dieser verhindert ist.
+<sup>1</sup> Der Vizepräsident vertritt den Präsidenten, wenn dieser verhindert ist.
 
 #### Art. 10
 
-**Interimspräsidentin oder Interimspräsident**
+**Interimspräsident**
 
-<sup>1</sup> Wenn die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident verhindert sind, leitet die abgetretene Präsidentin oder der abgetretene Präsident, allenfalls deren oder dessen Vorgängerin oder Vorgänger, die Verhandlungen des Kantonsrates.
+<sup>1</sup> Wenn Präsident und Vizepräsident verhindert sind, leitet der abgetretene Präsident, allenfalls dessen Vorgänger, die Verhandlungen des Kantonsrates.
 
-<sup>2</sup> Ist keine ehemalige Präsidentin oder kein ehemaliger Präsident anwesend, so leitet das älteste anwesende Mitglied die Wahl einer Interimspräsidentin oder eines Interimspräsidenten.
+<sup>2</sup> Ist kein ehemaliger Präsident anwesend, so leitet das älteste anwesende Mitglied die Wahl eines Interimspräsidenten.
 
 #### Art. 11
 
-**Stimmenzählerinnen und Stimmenzähler**
+**Stimmenzähler**
 
-<sup>1</sup> Die Stimmenzählerinnen und Stimmenzähler führen die Anwesenheitskontrolle des Kantonsrates und ermitteln die Abstimmungs- und Wahlergebnisse.
+<sup>1</sup> Die Stimmenzähler führen die Anwesenheitskontrolle des Kantonsrates und ermitteln die Abstimmungs- und Wahlergebnisse.
 
-<sup>2</sup> Ist eine Stimmenzählerin oder ein Stimmenzähler während der Ratsverhandlungen verhindert, so bezeichnet die Präsidentin oder der Präsident eine frühere Stimmenzählerin oder einen früheren Stimmenzähler als Stellvertreterin oder Stellvertreter. Diese oder dieser soll nach Möglichkeit der gleichen Fraktion angehören wie die verhinderte Stimmenzählerin oder der verhinderte Stimmenzähler.
+<sup>2</sup> Ist ein Stimmenzähler während der Ratsverhandlungen verhindert, so bezeichnet der Präsident einen früheren Stimmenzähler als Stellvertreter. Dieser soll nach Möglichkeit der gleichen Fraktion angehören wie der verhinderte Stimmenzähler.
 
-<sup>3</sup> Sind in einer Session zeitraubende geheime Wahlen durchzuführen, so kann das Präsidium zusätzliche Gruppen von Stimmenzählerinnen und Stimmenzählern einsetzen. Nach Möglichkeit werden frühere Stimmenzählerinnen und Stimmenzähler beigezogen.
+<sup>3</sup> Sind in einer Session zeitraubende geheime Wahlen durchzuführen, so kann das Präsidium zusätzliche Stimmenzählergruppen einsetzen. Nach Möglichkeit werden frühere Stimmenzähler beigezogen.
 
 ### 3. Kommissionen
 
@@ -234,7 +229,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Sind schwierige oder umfangreiche Abklärungen über die Gültigkeit der Wahl des Kantonsrates zu treffen, tritt die Rechtspflegekommission auf Einladung des Präsidiums vor ihrer Wahl aufgrund der Fraktionsvorschläge zur provisorischen Behandlung zusammen.
 
-<sup>2</sup> Bei Ersatzwahlen während der Amtsdauer tritt sie nur zusammen, wenn ihre Präsidentin oder ihr Präsident es anordnet oder wenn es vom Präsidium oder aus der Mitte des Rates verlangt wird. Im Übrigen prüft die Kommissionspräsidentin oder der Kommissionspräsident, ob die Wahl gültig ist.
+<sup>2</sup> Bei Ersatzwahlen während der Amtsdauer tritt sie nur zusammen, wenn ihr Präsident es anordnet oder wenn es vom Präsidium oder aus der Mitte des Rates verlangt wird. Im Übrigen prüft der Kommissionspräsident, ob die Wahl gültig ist.
 
 #### Art. 14ter
 
@@ -317,20 +312,20 @@ als Reglement:[^ingress-7]
 
 **Zusammenwirken a) Aussprachen**
 
-<sup>1</sup> Die Präsidentinnen und Präsidenten der Rechtspflege-, der Staatswirtschaftlichen und der Finanzkommission besprechen Abgrenzung und gegenseitige Ergänzung der Kommissionstätigkeit. Die Präsidentin oder der Präsident des Kantonsrates lädt sie bei Bedarf zu einer Aussprache ein.
+<sup>1</sup> Die Präsidenten der Rechtspflege-, der Staatswirtschaftlichen und der Finanzkommission besprechen Abgrenzung und gegenseitige Ergänzung der Kommissionstätigkeit. Der Präsident des Kantonsrates lädt sie bei Bedarf zu einer Aussprache ein.
 
-<sup>2</sup> Das Präsidium kann die Präsidentinnen und Präsidenten der ständigen Kommissionen zur Besprechung gemeinsamer Fragen zusammenrufen.
+<sup>2</sup> Das Präsidium kann die Präsidenten der ständigen Kommissionen zur Besprechung gemeinsamer Fragen zusammenrufen.
 
 #### Art. 19bis
 
 **b) Teilnahme an Kommissionssitzungen**
 
-<sup>1</sup> Die Präsidentin oder der Präsident einer ständigen Kommission kann bei Bedarf zur gegenseitigen Information und Abstimmung der Kommissionstätigkeiten an Sitzungen von anderen ständigen Kommissionen mit beratender Stimme teilnehmen.
+<sup>1</sup> Der Präsident einer ständigen Kommission kann bei Bedarf zur gegenseitigen Information und Abstimmung der Kommissionstätigkeiten an Sitzungen von anderen ständigen Kommissionen mit beratender Stimme teilnehmen.
 
-<sup>2</sup> Ihre oder seine Teilnahme erfolgt:
+<sup>2</sup> Seine Teilnahme erfolgt:
 
 - a) aus eigenem Entschluss;
-- b) auf Beschluss der von ihr oder ihm geleiteten Kommission;
+- b) auf Beschluss der von ihm geleiteten Kommission;
 - c) auf Einladung der anderen ständigen Kommissionen.
 
 #### Art. 19ter
@@ -345,7 +340,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die ununterbrochene Zugehörigkeit zu einer ständigen Kommission ist auf sechs Jahre beschränkt.
 
-<sup>2</sup> Die Kommissionspräsidentin oder der Kommissionspräsident darf der Kommission insgesamt acht Jahre angehören, davon höchstens sechs Jahre als Präsidentin oder Präsident.
+<sup>2</sup> Der Kommissionspräsident darf der Kommission insgesamt acht Jahre angehören, davon höchstens sechs Jahre als Präsident.
 
 <sup>3</sup> Diese Beschränkungen gelten nicht für die Redaktionskommission.
 
@@ -357,7 +352,7 @@ als Reglement:[^ingress-7]
 
 **Vorberatende Kommissionen**
 
-<sup>1</sup> Der Kantonsrat bestellt vorberatende Kommissionen für Vorlagen, die nicht durch Reglement oder Beschluss einer ständigen Kommission zugewiesen werden. Er bestimmt die Mitgliederzahl und die Fraktion, welche die Präsidentin oder den Präsidenten stellt. Ausnahmsweise wählt er die Mitglieder und die Präsidentin oder den Präsidenten.
+<sup>1</sup> Der Kantonsrat bestellt vorberatende Kommissionen für Vorlagen, die nicht durch Reglement oder Beschluss einer ständigen Kommission zugewiesen werden. Er bestimmt die Mitgliederzahl und die Fraktion, die den Präsidenten stellt. Ausnahmsweise wählt er die Mitglieder und den Präsidenten.
 
 <sup>2</sup> Ist die Behandlung einer Vorlage dringlich, beschliesst das Präsidium über die Kommissionsbestellung.
 
@@ -365,7 +360,7 @@ als Reglement:[^ingress-7]
 
 **Besondere Kommissionen a) Grundsatz**
 
-<sup>1</sup> Der Kantonsrat kann ausnahmsweise besondere Kommissionen für Vorlagen und Angelegenheiten bestellen, die durch Reglement einer ständigen Kommission zugewiesen werden. Er bestimmt die Mitgliederzahl und die Fraktion, welche die Präsidentin oder den Präsidenten stellt. Ausnahmsweise wählt er die Mitglieder und die Präsidentin oder den Präsidenten.
+<sup>1</sup> Der Kantonsrat kann ausnahmsweise besondere Kommissionen für Vorlagen und Angelegenheiten bestellen, die durch Reglement einer ständigen Kommission zugewiesen werden. Er bestimmt die Mitgliederzahl und die Fraktion, die den Präsidenten stellt. Ausnahmsweise wählt er die Mitglieder und den Präsidenten.
 
 #### Art. 21ter
 
@@ -394,10 +389,10 @@ als Reglement:[^ingress-7]
 <sup>1</sup> Die Kommission kann im Rahmen ihres Auftrags:
 
 - a) die das Geschäft betreffenden Akten einsehen; in Akten, die unter das Amtsgeheimnis[^23-1] fallen, nimmt die Kommission durch eine Abordnung Einblick;
-- b) Mitarbeitende des Staates und seiner Anstalten über Sachverhalte befragen;
+- b) Mitarbeiter des Staates und seiner Anstalten über Sachverhalte befragen;
 - c) Besichtigungen durchführen;
 - d) sachverständige Dritte befragen und Gutachten einholen;
-- e) Interessenvertreterinnen und Interessenvertreter anhören.
+- e) Interessenvertreter anhören.
 
 <sup>2</sup> Handelt es sich um ein Strafverfahren, ein Disziplinarverfahren oder eine Verantwortlichkeitsklage,[^23-2] kann die Kommission Auskunftspersonen einvernehmen.
 
@@ -410,11 +405,11 @@ als Reglement:[^ingress-7]
 
 #### Art. 23bis
 
-**Beobachterinnen und Beobachter**
+**Fraktionsbeobachter**
 
-<sup>1</sup> Fraktionen können ein Fraktionsmitglied als Beobachterin oder Beobachter in die ständigen Kommissionen delegieren, in denen sie nicht vertreten sind.
+<sup>1</sup> Fraktionen können ein Fraktionsmitglied als Beobachter in die ständigen Kommissionen delegieren, in denen sie nicht vertreten sind.
 
-<sup>2</sup> Die Beobachterin oder der Beobachter kann sich in der Kommission an der Diskussion beteiligen und Anträge stellen, nicht aber abstimmen.
+<sup>2</sup> Der Beobachter kann sich in der Kommission an der Diskussion beteiligen und Anträge stellen, nicht aber abstimmen.
 
 ### 3bis. Vertretungen
 
@@ -456,7 +451,7 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Der Kantonsrat legt auf Antrag des Präsidiums den Schlüssel für die Zuteilung der Kommissionssitze an die Fraktionen fest.
 
-<sup>3</sup> Die Präsidentin oder der Präsident der vorberatenden Kommission soll in der Regel einer anderen Fraktion angehören als die Vorsteherin oder der Vorsteher des zuständigen Departementes.
+<sup>3</sup> Der Präsident der vorberatenden Kommission soll in der Regel einer anderen Fraktion angehören als der Vorsteher des zuständigen Departementes.
 
 #### Art. 26
 
@@ -492,7 +487,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Anstelle des Eides kann das schriftliche Gelübde geleistet werden: «Ich gelobe, die Pflichten, welche mir mein Amt auferlegt, mit aller Gewissenhaftigkeit und Treue, ohne Ansehen der Person, zu erfüllen, überhaupt die öffentliche Wohlfahrt nach meinen Kräften zu fördern.»
 
-<sup>2</sup> Mitglieder, die das Gelübde leisten, haben es unterzeichnet der Präsidentin oder dem Präsidenten einzureichen. Diese oder dieser gibt dem Rat davon Kenntnis.
+<sup>2</sup> Mitglieder, die das Gelübde leisten, haben es unterzeichnet dem Präsidenten einzureichen. Dieser gibt dem Rat davon Kenntnis.
 
 #### Art. 30
 
@@ -512,7 +507,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Bei Amtsantritt legt das Mitglied offen:
 
-- a) berufliche Tätigkeit und Arbeitgeberin oder Arbeitgeber;
+- a) berufliche Tätigkeit und Arbeitgeber;
 - b) Tätigkeit in Führungs- und Aufsichtsgremien wirtschaftlicher Unternehmen und Körperschaften, Anstalten und Stiftungen des privaten und des öffentlichen Rechts;
 - c) dauernde Leitungs- und Beratungsfunktionen für wichtige Interessengruppen und Verbände;
 - d) Mitwirkung in Kommissionen und anderen Organen von Bund, Kanton und Gemeinde;
@@ -537,7 +532,7 @@ als Reglement:[^ingress-7]
 <sup>1</sup> Ein Mitglied hat in Ausstand zu treten, wenn:
 
 - a) die Gültigkeit seiner Wahl angefochten ist;
-- b) es selbst, eine nächste Angehörige oder ein nächster Angehöriger oder eine private Auftraggeberin oder ein privater Auftraggeber an einem nicht allgemeinverbindlichen Beschluss des Kantonsrates ein unmittelbares privates Interesse hat.
+- b) es selbst, ein nächster Angehöriger oder ein privater Auftraggeber an einem nicht allgemeinverbindlichen Beschluss des Kantonsrates ein unmittelbares privates Interesse hat.
 
 #### Art. 33
 
@@ -568,13 +563,13 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Mitglieder sind für die Ansichten, die sie im Kantonsrat und in seinen Kommissionen äussern, nur dem Kantonsrat selbst verantwortlich. Die Immunität der Mitglieder richtet sich nach der Kantonsverfassung.[^36-1]
 
-<sup>2</sup> Die Präsidentin oder der Präsident mahnt mündlich oder schriftlich Mitglieder zur Ordnung, die:
+<sup>2</sup> Der Präsident mahnt mündlich oder schriftlich Mitglieder zur Ordnung, die:
 
 - a) Vorschriften des Reglementes missachten;
-- b) durch ihre Äusserungen oder ihr Verhalten die Würde des Rates, einzelner Mitglieder, anderer Behörden oder von Mitbürgerinnen und Mitbürgern verletzen;
+- b) durch ihre Äusserungen oder ihr Verhalten die Würde des Rates, einzelner Mitglieder, anderer Behörden oder von Mitbürgern verletzen;
 - c) aus ihrem Amt für sich oder für andere einen privaten Vorteil zu erlangen suchen.
 
-<sup>3</sup> Die Präsidentin oder der Präsident kann einem Mitglied im Wiederholungsfall oder bei schwerem Verstoss eine Rüge erteilen oder das Wort entziehen. Bei besonders schwerer Verfehlung kann sie oder er es aus dem Sitzungssaal weisen. Über Einsprachen entscheidet der Kantonsrat.
+<sup>3</sup> Der Präsident kann einem Mitglied im Wiederholungsfall oder bei schwerem Verstoss eine Rüge erteilen oder das Wort entziehen. Bei besonders schwerer Verfehlung kann er es aus dem Sitzungssaal weisen. Über Einsprachen entscheidet der Kantonsrat.
 
 [^36-1]: [Art. 61](https://www.gesetzessammlung.sg.ch/data/111.1/de/art61) KV.
 
@@ -586,7 +581,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Regierung lässt an den Sitzungen des Kantonsrates ihre Vorlagen und Anträge durch die zuständigen Mitglieder vertreten. Diese haben beratende Stimme und das Recht, Anträge zu stellen. Die Mitglieder der Regierung erhalten die Beratungsunterlagen wie die Mitglieder des Kantonsrates.
 
-<sup>2</sup> Die Vorsteherin oder der Vorsteher des zuständigen Departementes vertritt die Regierung in den Sitzungen der vorberatenden Kommission.
+<sup>2</sup> Der Vorsteher des zuständigen Departementes vertritt die Regierung in den Sitzungen der vorberatenden Kommission.
 
 #### Art. 38
 
@@ -596,7 +591,7 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Die Eidesformel lautet: «Ihr werdet schwören: die Verfassung und Gesetze getreulich zu halten, die Pflichten Eures Amtes mit aller Gewissenhaftigkeit, ohne Ansehen der Person zu erfüllen, dafür weder Geld noch Gabe, sei es mittelbar oder unmittelbar, anzunehmen und die öffentliche Wohlfahrt nach Kräften zu fördern, redlich, treu und ohne Falsch, so wie Ihr es vor Gott und Eurem Gewissen verantworten möget.» Nach Vorlesen der Eidesformel ist bei erhobenen Schwurfingern die Schwurformel nachzusprechen: «Was mir vorgelesen wurde, schwöre ich zu tun und zu halten, so wahr mir Gott helfe.»
 
-<sup>3</sup> Die Handgelübde-Formel lautet: «Ihr werdet geloben: die Verfassung und Gesetze getreulich zu halten, die Pflichten Eures Amtes mit aller Gewissenhaftigkeit, ohne Ansehen der Person, zu erfüllen, dafür weder Geld noch Gabe, sei es mittelbar oder unmittelbar, anzunehmen und die öffentliche Wohlfahrt nach Kräften zu fördern, redlich, treu und ohne Falsch, so wie Ihr es vor Eurem Gewissen verantworten möget.» Nach Vorlesen der Handgelübde-Formel reichen Mitglieder der Regierung der Präsidentin oder dem Präsidenten die rechte Hand und sprechen nach: «Das gelobe ich.»
+<sup>3</sup> Die Handgelübde-Formel lautet: «Ihr werdet geloben: die Verfassung und Gesetze getreulich zu halten, die Pflichten Eures Amtes mit aller Gewissenhaftigkeit, ohne Ansehen der Person, zu erfüllen, dafür weder Geld noch Gabe, sei es mittelbar oder unmittelbar, anzunehmen und die öffentliche Wohlfahrt nach Kräften zu fördern, redlich, treu und ohne Falsch, so wie Ihr es vor Eurem Gewissen verantworten möget.» Nach Vorlesen der Handgelübde-Formel reichen Mitglieder der Regierung dem Präsidenten die rechte Hand und sprechen nach: «Das gelobe ich.»
 
 #### Art. 39
 
@@ -628,19 +623,19 @@ als Reglement:[^ingress-7]
 
 #### Art. 43
 
-**Staatssekretärin oder Staatssekretär a) Aufgaben**
+**Staatssekretär a) Aufgaben**
 
 <sup>1</sup> …
 
-<sup>2</sup> Die Staatssekretärin oder der Staatssekretär nimmt an den Sitzungen des Kantonsrates teil und hat das Recht, sich in Angelegenheiten der Staatskanzlei an der Diskussion zu beteiligen.
+<sup>2</sup> Der Staatssekretär nimmt an den Sitzungen des Kantonsrates teil und hat das Recht, sich in Angelegenheiten der Staatskanzlei an der Diskussion zu beteiligen.
 
-<sup>3</sup> Sie oder er hat im Präsidium beratende Stimme, soweit der Geschäftskreis der Staatskanzlei oder die Zusammenarbeit zwischen Regierung und Kantonsrat betroffen sind.
+<sup>3</sup> Er hat im Präsidium beratende Stimme, soweit der Geschäftskreis der Staatskanzlei oder die Zusammenarbeit zwischen Regierung und Kantonsrat betroffen sind.
 
 #### Art. 44
 
 **b) Pflichteid**
 
-<sup>1</sup> Die Staatssekretärin oder der Staatssekretär leistet den Pflichteid oder das Handgelübde vor dem Kantonsrat zusammen mit den Mitgliedern der Regierung.
+<sup>1</sup> Der Staatssekretär leistet den Pflichteid oder das Handgelübde vor dem Kantonsrat zusammen mit den Mitgliedern der Regierung.
 
 #### Art. 45
 
@@ -650,12 +645,12 @@ als Reglement:[^ingress-7]
 
 **Generalsekretärin oder Generalsekretär des Kantonsrates**
 
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär des Kantonsrates führt unter Aufsicht des Präsidiums und nach dessen Weisungen die Parlamentsdienste. Sie oder er ist der Präsidentin oder dem Präsidenten unterstellt.
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär des Kantonsrates führt unter Aufsicht des Präsidiums und nach dessen Weisungen die Parlamentsdienste. Sie oder er ist dem Präsidenten unterstellt.
 
 <sup>2</sup> Die Generalsekretärin oder der Generalsekretär des Kantonsrates:
 
 - a) steht dem Kantonsrat und dem Präsidium unmittelbar zur Verfügung;
-- a<sup>bis</sup>) steht der Präsidentin oder dem Präsidenten in der Amtsführung zur Seite;
+- a<sup>bis</sup>) steht dem Präsidenten in der Amtsführung zur Seite;
 - b) sorgt für die Protokollführung im Kantonsrat und im Präsidium;
 - c) führt die Geschäfte des Präsidiums und nimmt an den Sitzungen mit beratender Stimme teil;
 - d) führt die Verfahren nach dem Öffentlichkeitsgesetz vom 18. November 2014[^45bis-1], die den Kantonsrat und seine Organe betreffen. Die Generalsekretärin oder der Generalsekretär des Kantonsrates informiert das Präsidium regelmässig über die Entscheide über Informations- und Einsichtsgesuche.
@@ -701,7 +696,7 @@ als Reglement:[^ingress-7]
 - d) Abklärungen vornimmt und über das Ergebnis berichtet;
 - e) Verfahrens-, Rechts- und Sachauskünfte unmittelbar erteilt oder Anfragen an das zuständige Departement weiterleitet;
 - e<sup>bis</sup>) die Öffentlichkeit über Angelegenheiten von Kommissionen und Vertretungen informiert;
-- f) weitere ihm vom Präsidium und im Einzelfall von der Kommissionspräsidentin oder dem Kommissionspräsidenten übertragene Aufgaben erfüllt.
+- f) weitere ihm vom Präsidium und im Einzelfall vom Kommissionspräsidenten übertragene Aufgaben erfüllt.
 
 #### Art. 47
 
@@ -741,38 +736,38 @@ als Reglement:[^ingress-7]
 
 **Ansetzung**
 
-<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident setzt nach Anhören des zuständigen Departementes Ort und Zeit der Kommissionssitzung fest. Bei der Festsetzung des Orts ist darauf zu achten, dass für die Raummiete und -nutzung in der Regel keine Kosten entstehen.
+<sup>1</sup> Der Kommissionspräsident setzt nach Anhören des zuständigen Departementes Ort und Zeit der Kommissionssitzung fest. Bei der Festsetzung des Orts ist darauf zu achten, dass für die Raummiete und -nutzung in der Regel keine Kosten entstehen.
 
 <sup>2</sup> Über weitere Kommissionssitzungen entscheidet die Kommission.
 
 #### Art. 51
 
-**Geschäftsführung**
+**Geschäftsführerin oder Geschäftsführer**
 
 <sup>1</sup> Eine Mitarbeiterin oder ein Mitarbeiter des parlamentarischen Kommissionsdienstes ist Geschäftsführerin oder Geschäftsführer der ständigen Kommission, ausgenommen die Finanzkommission.
 
-<sup>2</sup> Die Kommissionspräsidentin oder der Kommissionspräsident bezeichnet als Geschäftsführerin oder Geschäftsführer einer nichtständigen Kommission:
+<sup>2</sup> Der Kommissionspräsident bezeichnet als Geschäftsführerin oder Geschäftsführer einer nichtständigen Kommission:
 
 - a) im Einvernehmen mit der Generalsekretärin oder dem Generalsekretär des Kantonsrates eine Mitarbeiterin oder einen Mitarbeiter des parlamentarischen Kommissionsdienstes oder
 - b) im Einvernehmen mit der Vorsteherin oder dem Vorsteher eine Mitarbeiterin oder einen Mitarbeiter des zuständigen Departementes.
 
-<sup>3</sup> Die Geschäftsführerin oder der Geschäftsführer führt unter Aufsicht der Kommissionspräsidentin oder des Kommissionspräsidenten das Protokoll, steht ihr oder ihm für weitere Dienstleistungen zur Verfügung und übermittelt den Parlamentsdiensten die erforderlichen Angaben und Mitteilungen.
+<sup>3</sup> Die Geschäftsführerin oder der Geschäftsführer führt unter Aufsicht des Kommissionspräsidenten das Protokoll, steht ihm für weitere Dienstleistungen zur Verfügung und übermittelt den Parlamentsdiensten die erforderlichen Angaben und Mitteilungen.
 
 #### Art. 52
 
-**Weitere Teilnehmerinnen und Teilnehmer a) Beizug**
+**Weitere Teilnehmer a) Beizug**
 
-<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident bezeichnet nach Anhören des zuständigen Departementes die Mitarbeitenden der Staatsverwaltung, die zur Kommissionssitzung beigezogen werden.
+<sup>1</sup> Der Kommissionspräsident bezeichnet nach Anhören des zuständigen Departementes die Mitarbeiter der Staatsverwaltung, die zur Kommissionssitzung beigezogen werden.
 
-<sup>2</sup> Die Kommission beschliesst über die Einladung von Sachverständigen sowie von Interessenvertreterinnen und Interessenvertretern.
+<sup>2</sup> Die Kommission beschliesst über die Einladung von Sachverständigen und Interessenvertretern.
 
 #### Art. 53
 
 **b) Mitwirkung**
 
-<sup>1</sup> Sachbearbeiterinnen und Sachbearbeiter haben beratende Stimme. Sie können den Kommissionsberatungen folgen, soweit sie die Vorlage bearbeitet haben.
+<sup>1</sup> Sachbearbeiter haben beratende Stimme. Sie können den Kommissionsberatungen folgen, soweit sie die Vorlage bearbeitet haben.
 
-<sup>2</sup> Im Übrigen beschränkt sich der Beizug von Mitarbeitenden der Staatsverwaltung, von Sachverständigen sowie von Interessenvertreterinnen und Interessenvertretern auf die Befragung. In der Regel verlassen sie die Kommissionssitzung nach der Befragung.
+<sup>2</sup> Im Übrigen beschränkt sich der Beizug von Mitarbeitern der Staatsverwaltung, von Sachverständigen und von Interessenvertretern auf die Befragung. In der Regel verlassen sie die Kommissionssitzung nach der Befragung.
 
 #### Art. 54
 
@@ -784,9 +779,9 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Kommissionsmitglieder nehmen an den Kommissionssitzungen teil.
 
-<sup>2</sup> Kann ein Kommissionsmitglied an einer Sitzung nicht teilnehmen, entschuldigt es sich rechtzeitig bei der Kommissionspräsidentin oder beim Kommissionspräsidenten.
+<sup>2</sup> Kann ein Kommissionsmitglied an einer Sitzung nicht teilnehmen, entschuldigt es sich rechtzeitig beim Kommissionspräsidenten.
 
-<sup>3</sup> Kann ein Kommissionsmitglied im Wesentlichen nicht an den Verhandlungen teilnehmen, reicht es der Fraktionspräsidentin oder dem Fraktionspräsidenten seinen Rücktritt ein. Diese oder dieser macht der Präsidentin oder dem Präsidenten einen Vorschlag für die Ersatzwahl.
+<sup>3</sup> Kann ein Kommissionsmitglied im Wesentlichen nicht an den Verhandlungen teilnehmen, reicht es dem Fraktionspräsidenten seinen Rücktritt ein. Dieser macht dem Präsidenten einen Vorschlag für die Ersatzwahl.
 
 <sup>4</sup> Das Präsidium kann in besonderen Fällen die Stellvertretung oder den zeitlich begrenzten Ersatz von Mitgliedern nicht ständiger Kommissionen vorsehen.
 
@@ -796,7 +791,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Geschäftsführerin oder der Geschäftsführer führt die Anwesenheitskontrolle der vorberatenden Kommission.
 
-<sup>2</sup> Zu Beginn jeder Sitzung haben sich die Mitglieder in eine Liste einzutragen. Die Kommissionspräsidentin oder der Kommissionspräsident kann das Führen der Liste den Parlamentsdiensten übertragen. Sie oder er kann bei längeren Sitzungen die Anwesenheit der Mitglieder ein zweites Mal feststellen lassen.
+<sup>2</sup> Zu Beginn jeder Sitzung haben sich die Mitglieder in eine Liste einzutragen. Der Kommissionspräsident kann das Führen der Liste den Parlamentsdiensten übertragen. Er kann bei längeren Sitzungen die Anwesenheit der Mitglieder ein zweites Mal feststellen lassen.
 
 <sup>3</sup> Wer sich innert einer Stunde nicht einträgt, gilt als abwesend.
 
@@ -810,7 +805,7 @@ als Reglement:[^ingress-7]
 
 **Zirkulationsbeschluss**
 
-<sup>1</sup> Die Kommission kann auf Antrag der Kommissionspräsidentin oder des Kommissionspräsidenten einen Zirkulationsbeschluss fassen, wenn:
+<sup>1</sup> Die Kommission kann auf Antrag des Kommissionspräsidenten einen Zirkulationsbeschluss fassen, wenn:
 
 - a) eine Sitzung nicht mehr rechtzeitig durchgeführt werden kann;
 - b) nebensächliche Punkte zu bereinigen sind.
@@ -827,7 +822,7 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Die Kommission führt eine allgemeine Diskussion über die Vorlage anstelle einer Eintretensdiskussion. Anschliessend führt sie die Spezialdiskussion.
 
-<sup>3</sup> Die Präsidentin oder der Präsident stimmt mit und gibt bei Stimmengleichheit den Stichentscheid.
+<sup>3</sup> Der Präsident stimmt mit und gibt bei Stimmengleichheit den Stichentscheid.
 
 <sup>4</sup> Die Kommissionsmitglieder dürfen zum gleichen Gegenstand mehr als zweimal sprechen.
 
@@ -840,7 +835,7 @@ als Reglement:[^ingress-7]
 <sup>2</sup> Nicht bekannt gegeben werden dürfen:
 
 - a) dem Amtsgeheimnis[^59-1] unterstehende Gegenstände der Kommissionsberatungen;
-- b) die Urheberinnen und Urheber einzelner Meinungsäusserungen.
+- b) die Urheber einzelner Meinungsäusserungen.
 
 [^59-1]: Art. 320 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
@@ -856,7 +851,7 @@ als Reglement:[^ingress-7]
 
 **Anträge**
 
-<sup>1</sup> Die Geschäftsführerin oder der Geschäftsführer übermittelt die Kommissionsanträge unmittelbar nach Abschluss der Beratungen der Generalsekretärin oder dem Generalsekretär des Kantonsrates zur Weiterleitung an den Kantonsrat und der Staatssekretärin oder dem Staatssekretär zur Weiterleitung an die Regierung.
+<sup>1</sup> Die Geschäftsführerin oder der Geschäftsführer übermittelt die Kommissionsanträge unmittelbar nach Abschluss der Beratungen der Generalsekretärin oder dem Generalsekretär des Kantonsrates zur Weiterleitung an den Kantonsrat und dem Staatssekretär zur Weiterleitung an die Regierung.
 
 <sup>2</sup> Wesentlichen Anträgen lässt die Kommission eine kurze Erläuterung und Begründung zuhanden des Kantonsrates und der Medien beigeben.
 
@@ -876,9 +871,9 @@ als Reglement:[^ingress-7]
 
 **b) mündlich**
 
-<sup>1</sup> Soweit kein schriftlicher Bericht unterbreitet wird, lässt die Kommission durch ihre Präsidentin oder ihren Präsidenten mündlich Bericht erstatten.
+<sup>1</sup> Soweit kein schriftlicher Bericht unterbreitet wird, lässt die Kommission durch ihren Präsidenten mündlich Bericht erstatten.
 
-<sup>2</sup> Die Kommission kann eine andere Berichterstatterin oder einen anderen Berichterstatter bezeichnen.
+<sup>2</sup> Die Kommission kann einen anderen Berichterstatter bezeichnen.
 
 <sup>3</sup> Der mündliche Bericht beschränkt sich auf eine knappe Darlegung der Kommissionsarbeit, auf Meinungsverschiedenheiten gegenüber der Regierung oder innerhalb der Kommission, auf abweichende und ergänzende Gesichtspunkte der Kommission sowie auf die Änderung von Voraussetzungen der Beschlussfassung.
 
@@ -918,7 +913,7 @@ als Reglement:[^ingress-7]
 
 **Ausfertigung**
 
-<sup>1</sup> Die Geschäftsführerin oder der Geschäftsführer legt den Protokollentwurf der Kommissionspräsidentin oder dem Kommissionspräsidenten innert Wochenfrist zur Genehmigung vor.
+<sup>1</sup> Die Geschäftsführerin oder der Geschäftsführer legt den Protokollentwurf dem Kommissionspräsidenten innert Wochenfrist zur Genehmigung vor.
 
 <sup>2</sup> Die Geschäftsführerin oder der Geschäftsführer lässt das genehmigte Protokoll verzugslos zustellen.
 
@@ -1014,25 +1009,25 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Die Tagesordnung der weiteren Sitzungstage wird am Vortag im Ratssaal ausgeteilt.
 
-<sup>3</sup> Die Präsidentin oder der Präsident bestimmt die Tagesordnung.
+<sup>3</sup> Der Präsident bestimmt die Tagesordnung.
 
 #### Art. 74
 
 **Entschuldigung**
 
-<sup>1</sup> Wer an einer Sitzung nicht teilnehmen kann, hat den Grund der Präsidentin oder dem Präsidenten wenn möglich schriftlich und im Voraus, spätestens aber zwei Stunden nach Sitzungsbeginn mitzuteilen.
+<sup>1</sup> Wer an einer Sitzung nicht teilnehmen kann, hat den Grund dem Präsidenten wenn möglich schriftlich und im Voraus, spätestens aber zwei Stunden nach Sitzungsbeginn mitzuteilen.
 
 #### Art. 75
 
 **Anwesenheit**
 
-<sup>1</sup> Zu Beginn jeder Sitzung haben sich die Mitglieder in eine Liste einzutragen. Die Präsidentin oder der Präsident kann das Führen der Liste den Parlamentsdiensten übertragen. Die Stimmenzählerinnen und Stimmenzähler können bei längeren Sitzungen die Anwesenheit der Mitglieder ein zweites Mal feststellen.
+<sup>1</sup> Zu Beginn jeder Sitzung haben sich die Mitglieder in eine Liste einzutragen. Die Präsidentin oder der Präsident kann das Führen der Liste den Parlamentsdiensten übertragen. Die Stimmenzähler können bei längeren Sitzungen die Anwesenheit der Mitglieder ein zweites Mal feststellen.
 
 <sup>2</sup> Wer sich innert zwei Stunden nicht einträgt, gilt als abwesend.
 
 <sup>3</sup> Die Abwesenden werden im Protokoll als entschuldigt oder unentschuldigt aufgeführt.
 
-<sup>4</sup> Anträge stellen, sich an der Diskussion beteiligen sowie an Wahlen und Abstimmungen teilnehmen kann, wer an ihrem oder seinem Platz ist.
+<sup>4</sup> Anträge stellen, sich an der Diskussion beteiligen sowie an Wahlen und Abstimmungen teilnehmen kann, wer an seinem Platz ist.
 
 #### Art. 76
 
@@ -1040,7 +1035,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Der Kantonsrat kann nur beraten, wenn die Mehrheit seiner Mitglieder anwesend ist.
 
-<sup>2</sup> Vermutet die Präsidentin oder der Präsident, die Zahl der Anwesenden sei geringer, lässt sie oder er die Anwesenheit der Ratsmitglieder feststellen.
+<sup>2</sup> Vermutet der Präsident, die Zahl der Anwesenden sei geringer, lässt er die Anwesenheit der Ratsmitglieder feststellen.
 
 ### b) Öffentlichkeit
 
@@ -1064,11 +1059,11 @@ als Reglement:[^ingress-7]
 
 **Medien**
 
-<sup>1</sup> Den Medienschaffenden werden soweit möglich besondere Plätze angewiesen.
+<sup>1</sup> Den Vertretern der Medien werden soweit möglich besondere Plätze angewiesen.
 
 <sup>2</sup> Sie haben sich bei den Parlamentsdiensten zu melden.
 
-<sup>3</sup> Medienschaffende, die regelmässig über die Kantonsratsverhandlungen berichten, erhalten die Beratungsunterlagen und die organisatorischen Mitteilungen gleichzeitig mit den Mitgliedern des Kantonsrates.
+<sup>3</sup> Medienvertreter, die regelmässig über die Kantonsratsverhandlungen berichten, erhalten die Beratungsunterlagen und die organisatorischen Mitteilungen gleichzeitig mit den Mitgliedern des Kantonsrates.
 
 #### Art. 80
 
@@ -1076,7 +1071,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Der Kantonsrat kann ausnahmsweise die Öffentlichkeit einer Sitzung aufheben, wenn ein überwiegendes Staatsinteresse oder schützenswerte private Interessen es rechtfertigen.
 
-<sup>2</sup> Den Medienschaffenden kann die Anwesenheit bei geschlossener Sitzung gestattet werden mit der Auflage, dass sie nur kurz und ohne Namensnennung berichten.
+<sup>2</sup> Den Medienvertretern kann die Anwesenheit bei geschlossener Sitzung gestattet werden mit der Auflage, dass sie nur kurz und ohne Namennennung berichten.
 
 <sup>3</sup> Die Öffentlichkeit kann bereits während der Beratung, ob die Sitzung geschlossen sein soll, aufgehoben werden.
 
@@ -1084,7 +1079,7 @@ als Reglement:[^ingress-7]
 
 **b) Räumung der Tribüne**
 
-<sup>1</sup> Entsteht Unruhe auf der Tribüne, so lässt sie die Präsidentin oder der Präsident nach fruchtloser Mahnung räumen und schliessen.
+<sup>1</sup> Entsteht Unruhe auf der Tribüne, so lässt sie der Präsident nach fruchtloser Mahnung räumen und schliessen.
 
 <sup>2</sup> Die Sitzung wird unterbrochen, bis die Anordnung vollzogen ist.
 
@@ -1100,7 +1095,7 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Vorstösse, die den gleichen Gegenstand betreffen, können miteinander beraten werden.
 
-<sup>3</sup> Ausser den im Geschäftsverzeichnis aufgeführten Geschäften sind nur Mitteilungen der Präsidentin oder des Präsidenten und ausnahmsweise, wenn das Präsidium es gestattet, Erklärungen der Regierung und der Fraktionen, persönliche Erklärungen von Ratsmitgliedern, die sich auf höchstens drei Minuten beschränken, und Richtigstellungen zulässig.
+<sup>3</sup> Ausser den im Geschäftsverzeichnis aufgeführten Geschäften sind nur Mitteilungen des Präsidenten und ausnahmsweise, wenn das Präsidium es gestattet, Erklärungen der Regierung und der Fraktionen, persönliche Erklärungen von Ratsmitgliedern, die sich auf höchstens drei Minuten beschränken, und Richtigstellungen zulässig.
 
 #### Art. 83
 
@@ -1119,7 +1114,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Anträge vorberatender Kommissionen und der Regierung, die nicht mit den Beratungsunterlagen zur Verfügung gestellt werden können, werden so rasch als möglich in elektronischer Form zur Verfügung gestellt und zu Beginn der Session jenen Ratsmitgliedern verteilt, die ausdrücklich die Zustellung in gedruckter Form verlangen.
 
-<sup>2</sup> Anträge von Ratsmitgliedern werden während der Session in elektronischer Form zur Verfügung gestellt, wenn sie rechtzeitig den Parlamentsdiensten übermittelt werden. Andernfalls sind sie der Präsidentin oder dem Präsidenten schriftlich einzureichen, der sie dem Rat mündlich bekannt gibt. Den Parlamentsdiensten oder der Präsidentin oder dem Präsidenten schriftlich eingereichte Anträge bedürfen der Bestätigung der Antragstellerin oder des Antragstellers bei der Beratung.
+<sup>2</sup> Anträge von Ratsmitgliedern werden während der Session in elektronischer Form zur Verfügung gestellt, wenn sie rechtzeitig den Parlamentsdiensten übermittelt werden. Andernfalls sind sie dem Präsidenten schriftlich einzureichen, der sie dem Rat mündlich bekannt gibt. Den Parlamentsdiensten oder dem Präsidenten schriftlich eingereichte Anträge bedürfen der Bestätigung des Antragstellers bei der Beratung.
 
 #### Art. 85
 
@@ -1143,27 +1138,27 @@ als Reglement:[^ingress-7]
 
 **Diskussion a) Zulassung**
 
-<sup>1</sup> Wer sprechen will, hat sich bei der Präsidentin oder beim Präsidenten anzumelden.
+<sup>1</sup> Wer sprechen will, hat sich beim Präsidenten anzumelden.
 
-<sup>2</sup> Die Präsidentin oder der Präsident erteilt das Wort in der Reihenfolge der Anmeldungen. Die Kommissionsberichterstatterin oder der Kommissionsberichterstatter und die Vorsteherin oder der Vorsteher des zuständigen Departementes haben jedoch Vorrang.
+<sup>2</sup> Der Präsident erteilt das Wort in der Reihenfolge der Anmeldungen. Der Kommissionsberichterstatter und der Vorsteher des zuständigen Departementes haben jedoch Vorrang.
 
-<sup>3</sup> Will die Präsidentin oder der Präsident ausnahmsweise selbst als Mitglied des Rates sprechen, so hat sie oder er sich bei der Vizepräsidentin oder beim Vizepräsidenten anzumelden. Mitglieder des Präsidiums sprechen aus der Mitte des Rates.
+<sup>3</sup> Will der Präsident ausnahmsweise selbst als Mitglied des Rates sprechen, so hat er sich beim Vizepräsidenten anzumelden. Mitglieder des Präsidiums sprechen aus der Mitte des Rates.
 
 #### Art. 87
 
 **b) Beschränkungen**
 
-<sup>1</sup> Mit Ausnahme der Kommissionsberichterstatterinnen und Kommissionsberichterstatter sowie der Vertreterin oder des Vertreters der Regierung darf kein Mitglied über den nämlichen Gegenstand mehr als zweimal sprechen. Vorbehalten bleibt eine persönliche Berichtigung.
+<sup>1</sup> Mit Ausnahme der Kommissionsberichterstatter und des Vertreters der Regierung darf kein Mitglied über den nämlichen Gegenstand mehr als zweimal sprechen. Vorbehalten bleibt eine persönliche Berichtigung.
 
-<sup>2</sup> Weicht eine Rednerin oder ein Redner von dem zur Beratung stehenden Gegenstand ab, so ermahnt die Präsidentin oder der Präsident sie oder ihn, zur Sache zu sprechen.
+<sup>2</sup> Weicht ein Redner von dem zur Beratung stehenden Gegenstand ab, so ermahnt ihn der Präsident, zur Sache zu sprechen.
 
 <sup>3</sup> Das Präsidium kann in geeigneten Fällen ausnahmsweise die für eine Vorlage zur Verfügung stehende Redezeit beschränken. Es teilt den Fraktionen und den keiner Fraktion angehörenden Mitgliedern zusammen einen Anteil an der gesamten Redezeit zu.
 
 #### Art. 88
 
-**c) Schluss der Redeliste**
+**c) Schluss der Rednerliste**
 
-<sup>1</sup> Wird Schluss der Redeliste verlangt und vom Rat beschlossen, so erhalten noch die bereits in der Redeliste eingetragenen Mitglieder, die Vertreterin oder der Vertreter der Regierung und zuletzt die Berichterstatterin oder der Berichterstatter der vorberatenden Kommission das Wort.
+<sup>1</sup> Wird Schluss der Rednerliste verlangt und vom Rat beschlossen, so erhalten noch die bereits in der Rednerliste eingetragenen Mitglieder, der Vertreter der Regierung und zuletzt der Berichterstatter der vorberatenden Kommission das Wort.
 
 #### Art. 89
 
@@ -1171,15 +1166,15 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Wird Schluss der Diskussion verlangt und von der Mehrheit der Ratsmitglieder beschlossen, so wird die Diskussion sofort abgebrochen.
 
-<sup>2</sup> Die Präsidentin oder der Präsident hat vor der Beschlussfassung auf diese Folge hinzuweisen.
+<sup>2</sup> Der Präsident hat vor der Beschlussfassung auf diese Folge hinzuweisen.
 
-<sup>3</sup> Der Berichterstatterin oder dem Berichterstatter der vorberatenden Kommission und der Regierung steht eine kurze abschliessende Stellungnahme zu.
+<sup>3</sup> Dem Berichterstatter der vorberatenden Kommission und der Regierung steht eine kurze abschliessende Stellungnahme zu.
 
 #### Art. 90
 
 **e) Abschluss**
 
-<sup>1</sup> Haben die angemeldeten Rednerinnen und Redner gesprochen oder ist Schluss der Diskussion beschlossen worden, so erklärt die Präsidentin oder der Präsident die Diskussion als geschlossen.
+<sup>1</sup> Haben die angemeldeten Redner gesprochen oder ist Schluss der Diskussion beschlossen worden, so erklärt der Präsident die Diskussion als geschlossen.
 
 <sup>2</sup> Nachher darf niemand mehr das Wort über den Gegenstand ergreifen.
 
@@ -1211,7 +1206,7 @@ als Reglement:[^ingress-7]
 
 <sup>3</sup> Wird das Eintreten nicht bestritten, wird keine Eintretensdiskussion geführt. Das Präsidium oder der Kantonsrat kann aber eine Eintretensdiskussion beschliessen.
 
-<sup>4</sup> Besteht eine gesetzliche Pflicht, auf die Vorlage einzutreten, verweist die Präsidentin oder der Präsident darauf. Nach einer Eintretensdiskussion entfällt die Abstimmung über das Eintreten.
+<sup>4</sup> Besteht eine gesetzliche Pflicht, auf die Vorlage einzutreten, verweist der Präsident darauf. Nach einer Eintretensdiskussion entfällt die Abstimmung über das Eintreten.
 
 #### Art. 94
 
@@ -1238,9 +1233,9 @@ als Reglement:[^ingress-7]
 
 **Rückkommensanträge**
 
-<sup>1</sup> Die Präsidentin oder der Präsident fragt am Ende der Spezialdiskussion, ob Rückkommensanträge gestellt werden.
+<sup>1</sup> Der Präsident fragt am Ende der Spezialdiskussion, ob Rückkommensanträge gestellt werden.
 
-<sup>2</sup> Die Antragstellerin oder der Antragsteller kann darlegen, wie sie oder er die Vorlage im Fall des Rückkommens geändert sehen will.
+<sup>2</sup> Der Antragsteller kann darlegen, wie er die Vorlage im Fall des Rückkommens geändert sehen will.
 
 #### Art. 97
 
@@ -1266,7 +1261,7 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Wird eine Bestimmung an die Kommission oder an die Regierung zurückgewiesen, so wird die erste Lesung in Bezug auf diese Bestimmung ausgesetzt.
 
-<sup>3</sup> Die Kommissionsberichterstatterin oder der Kommissionsberichterstatter kann Anregungen zur Prüfung auf die zweite Lesung entgegennehmen.
+<sup>3</sup> Der Kommissionsberichterstatter kann Anregungen zur Prüfung auf die zweite Lesung entgegennehmen.
 
 <sup>4</sup> Nach der ersten Lesung geht die Vorlage zur weiteren Prüfung an die vorberatende Kommission.
 
@@ -1296,7 +1291,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Schlussabstimmung findet in der Regel am Schluss des letzten Sessionstags statt.
 
-<sup>2</sup> Vor der Schlussabstimmung eröffnet die Präsidentin oder der Präsident die Diskussion über die Anträge der Redaktionskommission sowie die allgemeine Diskussion, in welcher das Beratungsergebnis gewürdigt und zur Schlussabstimmung Stellung genommen werden kann.
+<sup>2</sup> Vor der Schlussabstimmung eröffnet der Präsident die Diskussion über die Anträge der Redaktionskommission sowie die allgemeine Diskussion, in welcher das Beratungsergebnis gewürdigt und zur Schlussabstimmung Stellung genommen werden kann.
 
 #### Art. 103
 
@@ -1330,7 +1325,7 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> …
 
-<sup>3</sup> Nach der Spezialdiskussion stellt die Präsidentin oder der Präsident Kenntnisnahme des Berichts fest.
+<sup>3</sup> Nach der Spezialdiskussion stellt der Präsident Kenntnisnahme des Berichts fest.
 
 ### c) parlamentarische Vorstösse
 
@@ -1342,9 +1337,9 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Motionen, Postulate und Interpellationen können während, Einfache Anfragen auch ausserhalb der Session eingereicht werden. Motionen und Postulate einer Kommission können mit den Anträgen zu einer Vorlage auch ausserhalb der Session eingereicht werden.
 
-<sup>2<sup>bis</sup></sup> Mehr als drei Erstunterzeichnende von Motionen, Postulaten, Interpellationen und Einfachen Anfragen sind lediglich in jenen Fällen zulässig, in denen alle Erstunterzeichnenden einer anderen Fraktion angehören.
+<sup>2<sup>bis</sup></sup> Mehr als drei Erstunterzeichner von Motionen, Postulaten, Interpellationen und Einfachen Anfragen sind lediglich in jenen Fällen zulässig, in denen alle Erstunterzeichner einer anderen Fraktion angehören.
 
-<sup>3</sup> Der Wortlaut samt Liste der Unterzeichnenden wird spätestens am Ende der Session zur Verfügung gestellt.
+<sup>3</sup> Der Wortlaut samt Liste der Unterzeichner wird spätestens am Ende der Session zur Verfügung gestellt.
 
 #### Art. 108
 
@@ -1358,15 +1353,15 @@ als Reglement:[^ingress-7]
 
 **c) Rückzug, Umwandlung und Übernahme**
 
-<sup>1</sup> Die oder der Erstunterzeichnende kann:
+<sup>1</sup> Der Erstunterzeichner kann:
 
 - a) eine Motion zurückziehen oder unter Anpassung des Wortlauts in ein Postulat oder in eine Interpellation umwandeln;
 - b) ein Postulat zurückziehen oder unter Anpassung des Wortlauts in eine Interpellation umwandeln;
 - c) eine Interpellation zurückziehen oder in eine Einfache Anfrage umwandeln.
 
-<sup>2</sup> Motionen, Postulate oder Interpellationen, die zurückgezogen oder umgewandelt werden oder deren Erstunterzeichnende aus dem Rat ausgeschieden sind, können am nächsten Sitzungstag von einer oder einem Mitunterzeichnenden übernommen werden.
+<sup>2</sup> Motionen, Postulate oder Interpellationen, die zurückgezogen oder umgewandelt werden oder deren Erstunterzeichner aus dem Rat ausgeschieden ist, können am nächsten Sitzungstag von einem Mitunterzeichner übernommen werden.
 
-<sup>3</sup> Einfache Anfragen können von der Fragestellerin oder vom Fragesteller zurückgezogen werden.
+<sup>3</sup> Einfache Anfragen können vom Fragesteller zurückgezogen werden.
 
 #### Art. 110
 
@@ -1399,7 +1394,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Motion oder das Postulat hat den Auftrag knapp zu umschreiben.
 
-<sup>2</sup> Die Präsidentin oder der Präsident weist weitschweifige Motionen und Postulate zur Kürzung an die Erstunterzeichnenden zurück.
+<sup>2</sup> Der Präsident weist weitschweifige Motionen und Postulate zur Kürzung an den Erstunterzeichner zurück.
 
 #### Art. 114
 
@@ -1411,11 +1406,11 @@ als Reglement:[^ingress-7]
 
 **e) Eintreten**
 
-<sup>1</sup> Die Präsidentin oder der Präsident stellt fest, ob Eintreten auf die Motion oder das Postulat bestritten wird.
+<sup>1</sup> Der Präsident stellt fest, ob Eintreten auf die Motion oder das Postulat bestritten wird.
 
-<sup>2</sup> Wird Eintreten nicht bestritten, stellt die Präsidentin oder der Präsident Eintreten des Rates auf die Motion oder das Postulat fest.
+<sup>2</sup> Wird Eintreten nicht bestritten, stellt der Präsident Eintreten des Rates auf die Motion oder das Postulat fest.
 
-<sup>3</sup> Wird Eintreten bestritten, wird eine Eintretensdiskussion geführt. Die oder der Erstunterzeichnende erhält für höchstens 15 Minuten das Wort zur Begründung, anschliessend, wer sich an der Diskussion beteiligen will. Will die Regierung die Motion oder das Postulat bestreiten oder eine besondere Erklärung abgeben, erhält ihre Vertreterin oder ihr Vertreter für höchstens 15 Minuten das Wort.
+<sup>3</sup> Wird Eintreten bestritten, wird eine Eintretensdiskussion geführt. Der Erstunterzeichner erhält für höchstens 15 Minuten das Wort zur Begründung, anschliessend, wer sich an der Diskussion beteiligen will. Will die Regierung die Motion oder das Postulat bestreiten oder eine besondere Erklärung abgeben, erhält ihr Vertreter für höchstens 15 Minuten das Wort.
 
 <sup>4</sup> Der Kantonsrat kann eine Motion unter Anpassung des Wortlauts in ein Postulat umwandeln. Zuerst wird über Umwandlung, dann über Eintreten abgestimmt.
 
@@ -1466,7 +1461,7 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Die Interpellation soll die Fragen kurz und klar umschreiben.
 
-<sup>3</sup> Die Präsidentin oder der Präsident weist weitschweifige Interpellationen zur Kürzung an die Erstunterzeichnenden zurück.
+<sup>3</sup> Der Präsident weist weitschweifige Interpellationen zur Kürzung an den Erstunterzeichner zurück.
 
 #### Art. 120
 
@@ -1486,7 +1481,7 @@ als Reglement:[^ingress-7]
 
 **d) Diskussion**
 
-<sup>1</sup> Der oder dem Erstunterzeichnenden der Interpellation und allenfalls der Vertreterin oder dem Vertreter der Regierung steht nach der Beantwortung eine kurze Stellungnahme von höchstens drei Minuten Dauer zu.
+<sup>1</sup> Dem Erstunterzeichner der Interpellation und allenfalls dem Vertreter der Regierung steht nach der Beantwortung eine kurze Stellungnahme von höchstens drei Minuten Dauer zu.
 
 <sup>2</sup> Der Kantonsrat kann Diskussion beschliessen.
 
@@ -1494,7 +1489,7 @@ als Reglement:[^ingress-7]
 
 **Einfache Anfrage**
 
-<sup>1</sup> Die Einfache Anfrage enthält Fragen über einen Gegenstand der Staatstätigkeit. Sie wird nur von der Fragestellerin oder vom Fragesteller unterzeichnet.
+<sup>1</sup> Die Einfache Anfrage enthält Fragen über einen Gegenstand der Staatstätigkeit. Sie wird nur vom Fragesteller unterzeichnet.
 
 <sup>2</sup> Die Regierung antwortet schriftlich. Die Antwort soll knapp sein und wird dem Kantonsrat elektronisch zur Verfügung gestellt.
 
@@ -1548,9 +1543,9 @@ als Reglement:[^ingress-7]
 
 **Rückweisung**
 
-<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident weist weitschweifige oder Sitte und Anstand verletzende Eingaben zur Behebung der Mängel zurück.
+<sup>1</sup> Der Kommissionspräsident weist weitschweifige oder Sitte und Anstand verletzende Eingaben zur Behebung der Mängel zurück.
 
-<sup>2</sup> Sie oder er kann die Nichtbehandlung für den Fall androhen, dass die Mängel nicht innert gesetzter Frist behoben werden.
+<sup>2</sup> Er kann die Nichtbehandlung für den Fall androhen, dass die Mängel nicht innert gesetzter Frist behoben werden.
 
 #### Art. 127ter
 
@@ -1574,7 +1569,7 @@ als Reglement:[^ingress-7]
 
 **Eröffnung**
 
-<sup>1</sup> Die Präsidentin oder der Präsident bezeichnet vor jeder Abstimmung die Anträge und den Gang der Abstimmung.
+<sup>1</sup> Der Präsident bezeichnet vor jeder Abstimmung die Anträge und den Gang der Abstimmung.
 
 <sup>2</sup> Über Einwendungen gegen den Gang der Abstimmung entscheidet der Rat, bevor über die Sache abgestimmt wird.
 
@@ -1614,11 +1609,11 @@ als Reglement:[^ingress-7]
 
 #### Art. 133
 
-**Stimme der Präsidentin oder des Präsidenten**
+**Stimme des Präsidenten**
 
-<sup>1</sup> Die Präsidentin oder der Präsident stimmt nur, wenn Stimmengleichheit festgestellt ist.
+<sup>1</sup> Der Präsident stimmt nur, wenn Stimmengleichheit festgestellt ist.
 
-<sup>2</sup> Sie oder er kann stimmen, wenn eine bestimmte Stimmenzahl vorgeschrieben ist.
+<sup>2</sup> Er kann stimmen, wenn eine bestimmte Stimmenzahl vorgeschrieben ist.
 
 ### b) Abstimmung mit elektronischer Abstimmungsanlage
 
@@ -1640,7 +1635,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Abstimmungsergebnis und Abstimmungsverhalten werden auf Bildschirmen angezeigt.
 
-<sup>2</sup> Die Präsidentin oder der Präsident gibt das Abstimmungsergebnis bekannt.
+<sup>2</sup> Der Präsident gibt das Abstimmungsergebnis bekannt.
 
 #### Art. 133quater
 
@@ -1658,7 +1653,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Ohne die elektronische Abstimmungsanlage wird abgestimmt:
 
-- a) in besonderen Fällen auf Anordnung der Präsidentin oder des Präsidenten;
+- a) in besonderen Fällen auf Anordnung des Präsidenten;
 - b) wenn die Abstimmungsanlage ihren Dienst versagt.
 
 #### Art. 134
@@ -1667,7 +1662,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Durch Handerheben wird abgestimmt, soweit dieses Reglement nichts anderes vorsieht.
 
-<sup>2</sup> Wenn die Stimmenzählerinnen und Stimmenzähler nicht einstimmig erklären, dass die Mehrheit unzweifelhaft vorhanden sei, wird die Abstimmung wiederholt.
+<sup>2</sup> Wenn die Stimmenzähler nicht einstimmig erklären, dass die Mehrheit unzweifelhaft vorhanden sei, wird die Abstimmung wiederholt.
 
 #### Art. 135
 
@@ -1675,7 +1670,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Durch Aufstehen zum Zweck des Abzählens wird abgestimmt:
 
-- a) wenn nach Wiederholung der Abstimmung die Stimmenzählerinnen und Stimmenzähler das Handmehr nicht unzweifelhaft feststellen;
+- a) wenn nach Wiederholung der Abstimmung die Stimmenzähler das Handmehr nicht unzweifelhaft feststellen;
 - a<sup>bis</sup>) wenn ein Ratsmitglied es verlangt;
 - b) zur Festlegung der nach Art. 132 Abs. 2 dieses Reglementes erforderlichen Stimmenanteile;
 - c) …
@@ -1700,9 +1695,9 @@ als Reglement:[^ingress-7]
 
 **Eröffnung**
 
-<sup>1</sup> Zu Beginn der Wahl verweist die Präsidentin oder der Präsident auf die Wahlvorschläge.
+<sup>1</sup> Zu Beginn der Wahl verweist der Präsident auf die Wahlvorschläge.
 
-<sup>2</sup> Sie oder er gibt Gelegenheit, weitere Vorschläge aus der Mitte des Rates zu machen sowie die Vorschläge zu begründen und zu diskutieren.
+<sup>2</sup> Er gibt Gelegenheit, weitere Vorschläge aus der Mitte des Rates zu machen sowie die Vorschläge zu begründen und zu diskutieren.
 
 #### Art. 139
 
@@ -1710,40 +1705,40 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Gewählt ist, wer die absolute Mehrheit der gültigen Stimmen auf sich vereinigt.
 
-<sup>2</sup> Im ersten und zweiten Wahlgang können alle wählbaren Personen gewählt werden. Vom dritten Wahlgang an kann für eine neue Kandidatin oder einen neuen Kandidaten keine gültige Stimme mehr abgegeben werden. Vom vierten Wahlgang an kann für die Kandidatin oder den Kandidaten, der im vorhergehenden Wahlgang die geringste Stimmenzahl erhalten hat, keine gültige Stimme mehr abgegeben werden. Bei Stimmengleichheit zieht die Präsidentin oder der Präsident das Los.
+<sup>2</sup> Im ersten und zweiten Wahlgang können alle wählbaren Personen gewählt werden. Vom dritten Wahlgang an kann für einen neuen Kandidaten keine gültige Stimme mehr abgegeben werden. Vom vierten Wahlgang an kann für den Kandidaten, der im vorhergehenden Wahlgang die geringste Stimmenzahl erhalten hat, keine gültige Stimme mehr abgegeben werden. Bei Stimmengleichheit zieht der Präsident das Los.
 
 #### Art. 140
 
 **Offene Wahl**
 
-<sup>1</sup> Die Stimmenzählerinnen und Stimmenzähler sowie die ständigen und die vorberatenden Kommissionen werden in offener Abstimmung gewählt.
+<sup>1</sup> Die Stimmenzähler sowie die ständigen und die vorberatenden Kommissionen werden in offener Abstimmung gewählt.
 
-<sup>2</sup> Stimmenzählerinnen und Stimmenzähler sowie Kommissionen werden gesamthaft gewählt, wenn der Rat nicht Einzelwahl beschliesst.
+<sup>2</sup> Stimmenzähler und Kommissionen werden gesamthaft gewählt, wenn der Rat nicht Einzelwahl beschliesst.
 
 #### Art. 141
 
 **Geheime Wahl a) im allgemeinen**
 
-<sup>1</sup> Wahlen und Genehmigungen von Wahlen sind geheim, soweit dieses Reglement nicht offene Stimmabgabe vorschreibt. Die Präsidentin oder der Präsident stimmt mit.
+<sup>1</sup> Wahlen und Genehmigungen von Wahlen sind geheim, soweit dieses Reglement nicht offene Stimmabgabe vorschreibt. Der Präsident stimmt mit.
 
-<sup>2</sup> Die Stimmenzählerinnen und Stimmenzähler übergeben den an ihrem Platz anwesenden Mitgliedern den Stimmzettel. Die Präsidentin oder der Präsident gibt die Zahl der ausgeteilten Stimmzettel unverzüglich bekannt.
+<sup>2</sup> Die Stimmenzähler übergeben den an ihrem Platz anwesenden Mitgliedern den Stimmzettel. Der Präsident gibt die Zahl der ausgeteilten Stimmzettel unverzüglich bekannt.
 
-<sup>3</sup> Die Weibelinnen und Weibel sammeln bei den an ihrem Platz anwesenden Mitgliedern die Stimmzettel ein und übergeben sie den Stimmenzählerinnen und Stimmenzählern. Wurden mehr Stimmzettel eingesammelt als ausgeteilt, ist der Wahlgang nichtig.
+<sup>3</sup> Die Weibel sammeln bei den an ihrem Platz anwesenden Mitgliedern die Stimmzettel ein und übergeben sie den Stimmenzählern. Wurden mehr Stimmzettel eingesammelt als ausgeteilt, ist der Wahlgang nichtig.
 
 #### Art. 142
 
 **b) Bekanntgabe des Ergebnisses**
 
-<sup>1</sup> Die Präsidentin oder der Präsident eröffnet dem Rat nach dem Wahlgang die Zahl:
+<sup>1</sup> Der Präsident eröffnet dem Rat nach dem Wahlgang die Zahl:
 
 - a) der ausgeteilten Stimmzettel;
 - b) der eingegangenen Stimmzettel;
 - c) der leeren und der ungültigen Stimmzettel;
 - d) der gültigen Stimmzettel;
 - e) des absoluten Mehrs;
-- f) der auf die Kandidatinnen und Kandidaten entfallenen Stimmen. Kandidatinnen und Kandidaten, die weniger als sieben Stimmen erhalten haben, werden ohne Namensangabe als Vereinzelte aufgeführt.
+- f) der auf die Kandidaten entfallenen Stimmen. Kandidaten, die weniger als sieben Stimmen erhalten haben, werden ohne Namensangabe als Vereinzelte aufgeführt.
 
-<sup>2</sup> Die Präsidentin oder der Präsident hält fest, wer gewählt ist.
+<sup>2</sup> Der Präsident hält fest, wer gewählt ist.
 
 #### Art. 143
 
@@ -1757,7 +1752,7 @@ als Reglement:[^ingress-7]
 
 <sup>3<sup>bis</sup></sup> Ungültig sind Stimmzettel, auf denen die Zahl der angekreuzten Namen die Zahl der zu wählenden Personen übersteigt. Bei unterschiedlichen Wahlen, die auf demselben Stimmzettel aufgeführt werden, bezieht sich die Ungültigkeit nur auf die betroffene Wahl.
 
-<sup>4</sup> Erreichen mehr Personen, als zu wählen sind, das absolute Mehr, so fällt die Kandidatin oder der Kandidat mit der geringsten Stimmenzahl aus der Wahl. Bei Stimmengleichheit zieht die Präsidentin oder der Präsident das Los.
+<sup>4</sup> Erreichen mehr Personen, als zu wählen sind, das absolute Mehr, so fällt der Kandidat mit der geringsten Stimmenzahl aus der Wahl. Bei Stimmengleichheit zieht der Präsident das Los.
 
 #### Art. 143bis
 
@@ -1784,7 +1779,7 @@ als Reglement:[^ingress-7]
 <sup>1</sup> Das Kantonsratsprotokoll enthält:
 
 - a) die Bezeichnung der Beratungsgegenstände und -unterlagen;
-- b) die Namen der Sprecherinnen und Sprecher mit dem wesentlichen Inhalt ihrer Ausführungen sowie mit dem Wortlaut der während der Beratung gestellten Anträge;
+- b) die Namen der Sprecher mit dem wesentlichen Inhalt ihrer Ausführungen sowie mit dem Wortlaut der während der Beratung gestellten Anträge;
 - c) die Entscheidung des Rates über die Anträge.
 
 <sup>2</sup> Abstimmungsergebnis und Abstimmungsverhalten werden angegeben, wenn elektronisch abgestimmt wurde. Das Abstimmungsergebnis wird angegeben, wenn abgezählt oder geheim gewählt wurde, zusätzlich das Abstimmungsverhalten bei Abstimmung durch Namensaufruf.
@@ -1877,7 +1872,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Entschädigungen für Sitzungen des Kantonsrates werden aufgrund der Anwesenheitskontrolle ausgerichtet.
 
-<sup>2</sup> Die weiteren Entschädigungen werden aufgrund der von der Kommissionspräsidentin oder dem Kommissionspräsidenten, von der Geschäftsführerin oder dem Geschäftsführer oder von den Parlamentsdiensten geprüften Listen ausgerichtet.
+<sup>2</sup> Die weiteren Entschädigungen werden aufgrund der vom Kommissionspräsidenten, von der Geschäftsführerin oder vom Geschäftsführer oder von den Parlamentsdiensten geprüften Listen ausgerichtet.
 
 #### Art. 153
 
@@ -1893,7 +1888,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> In Härtefällen wird Mitgliedern des Kantonsrates, die wegen der Teilnahme an Sitzungen oder der Übernahme besonderer Aufträge einen Verdienstausfall erleiden, eine zusätzliche Entschädigung von höchstens zwei Dritteln des Taggeldes ausgerichtet.
 
-<sup>2</sup> Die Ausrichtung der zusätzlichen Entschädigung ordnet die Präsidentin oder der Präsident der Fraktion an, der das Mitglied angehört.
+<sup>2</sup> Die Ausrichtung der zusätzlichen Entschädigung ordnet der Präsident der Fraktion an, der das Mitglied angehört.
 
 #### Art. 154bis
 
@@ -1903,21 +1898,21 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Die Entschädigung richtet sich nach den Bestimmungen von Art. 150 dieses Reglementes.
 
-### 2. Präsidentinnen und Präsidenten sowie Berichterstatterinnen und Berichterstatter
+### 2. Präsidenten und Berichterstatter
 
 #### Art. 155
 
 **Doppeltes Taggeld**
 
-<sup>1</sup> Die Präsidentin oder der Präsident des Kantonsrates sowie die Kommissionspräsidentinnen und die Kommissionspräsidenten erhalten für die von ihnen geleiteten Sitzungen das doppelte Taggeld.
+<sup>1</sup> Der Präsident des Kantonsrates und die Kommissionspräsidenten erhalten für die von ihnen geleiteten Sitzungen das doppelte Taggeld.
 
 #### Art. 156
 
 **Funktionsentschädigung**
 
-<sup>1</sup> Die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident des Kantonsrates erhalten eine Funktionsentschädigung je Amtsjahr.
+<sup>1</sup> Präsident und Vizepräsident des Kantonsrates erhalten eine Funktionsentschädigung je Amtsjahr.
 
-<sup>2</sup> Die Präsidentinnen und Präsidenten der ständigen Kommissionen erhalten eine Funktionsentschädigung je Jahr.
+<sup>2</sup> Die Präsidenten der ständigen Kommissionen erhalten eine Funktionsentschädigung je Jahr.
 
 <sup>3</sup> Das Präsidium legt die Höhe der Funktionsentschädigungen fest.
 
@@ -1925,7 +1920,7 @@ als Reglement:[^ingress-7]
 
 **Ausserordentliche Entschädigung**
 
-<sup>1</sup> Das Präsidium kann Präsidentinnen und Präsidenten sowie Berichterstatterinnen und Berichterstattern von Kommissionen eine ausserordentliche Entschädigung zusprechen, wenn sie durch ihre Aufgabe ungewöhnlich beansprucht werden.
+<sup>1</sup> Das Präsidium kann Präsidenten und Berichterstattern von Kommissionen eine ausserordentliche Entschädigung zusprechen, wenn sie durch ihre Aufgabe ungewöhnlich beansprucht werden.
 
 ### 3. Fraktionen
 
@@ -1946,9 +1941,9 @@ als Reglement:[^ingress-7]
 
 #### Art. 158bis
 
-**b) Präsidentinnen und Präsidenten**
+**b) Präsidenten**
 
-<sup>1</sup> Die Fraktionspräsidentinnen und Fraktionspräsidenten erhalten für die von ihnen geleiteten Fraktionssitzungen das doppelte Taggeld.
+<sup>1</sup> Die Fraktionspräsidenten erhalten für die von ihnen geleiteten Fraktionssitzungen das doppelte Taggeld.
 
 <sup>2</sup> Sie erhalten eine Funktionsentschädigung je Jahr.
 
