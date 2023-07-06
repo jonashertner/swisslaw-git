@@ -4,13 +4,12 @@ number: "751.222"
 title: Verordnung über die Kontrollschildnummern
 short: KnV
 language: de
-version: 2020-12-19
-valid_until: 2023-07-06
-version_adopted: 2020-12-15
+version: 2023-07-07
+version_adopted: 2023-07-04
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/751.222"
-pdf: "https://bgs.zg.ch/api/de/versions/2183/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2183/pdf_file"
 
 (KnV)
 
-Vom 12. Dezember 2017 (Stand 19. Dezember 2020)
+Vom 12. Dezember 2017 (Stand 7. Juli 2023)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf § 47 Abs. 1 Bst. d der Kantonsverfassung[^ingress-1], Art. 10 Abs. 1 des Bundesgesetzes über den Strassenverkehr vom 19. Dezember 1958[^ingress-2], Art. 82 ff. der Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr[^ingress-3] sowie in Vollziehung von § 1a des Gesetzes über die Steuern im Strassenverkehr vom 30. Oktober 1986[^ingress-4] und der Verordnung über die Gebühren im Strassenverkehr vom 13. Dezember 2005[^ingress-5],
+gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1], Art. 10 Abs. 1 des Bundesgesetzes über den Strassenverkehr vom 19. Dezember 1958[^ingress-2], Art. 82 ff. der Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr[^ingress-3] sowie in Vollziehung von § 1a des Gesetzes über die Steuern im Strassenverkehr vom 30. Oktober 1986[^ingress-4] und der Verordnung über die Gebühren im Strassenverkehr vom 13. Dezember 2005[^ingress-5],
 
 beschliesst:
 
@@ -35,13 +34,7 @@ beschliesst:
 
 #### § 1
 
-**Versteigerung von besonderen Kontrollschildnummern**
-
-<sup>1</sup> Das Strassenverkehrsamt legt die besonderen Kontrollschildnummern fest, die über das Internet versteigert werden.
-
-<sup>2</sup> Das Strassenverkehrsamt teilt die Kontrollschildnummer der Person mit dem Höchstgebot zu.
-
-<sup>3</sup> Das Strassenverkehrsamt regelt die Rechte und Pflichten zwischen dem Strassenverkehrsamt und den an der Versteigerung teilnehmenden Personen in allgemeinen Geschäftsbedingungen.
+**…**
 
 #### § 2
 
