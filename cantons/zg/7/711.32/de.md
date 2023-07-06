@@ -3,13 +3,13 @@ canton: ZG
 number: "711.32"
 title: "Kantonaler Richtplan, Richtplankarte"
 language: de
-version: 2023-02-03
-valid_until: 2023-07-06
-version_adopted: 2013-01-26
+version: 2023-07-07
+valid_until: 2024-07-11
+version_adopted: 2023-06-29
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.32"
-pdf: "https://bgs.zg.ch/api/de/versions/2525/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2633/pdf_file"
 text: pdf
 ---
 
