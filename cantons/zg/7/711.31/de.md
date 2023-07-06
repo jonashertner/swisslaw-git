@@ -3,13 +3,13 @@ canton: ZG
 number: "711.31"
 title: "Kantonaler Richtplan, Richtplantext"
 language: de
-version: 2023-02-03
-valid_until: 2023-07-06
-version_adopted: 2013-01-26
+version: 2023-07-07
+valid_until: 2024-07-11
+version_adopted: 2023-06-29
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2524/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2632/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +17,7 @@ text: pdf
 
 # Kantonaler Richtplan Richtplantext
 
-### Kantonsratsbeschlüsse bis: 29. Juni 2023 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 26. Januar 2023
+### Kantonsratsbeschlüsse bis: 4. Juli 2024 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 29. Juni 2023
 
 Amt für Raum und Verkehr
 
@@ -25,11 +25,11 @@ Amt für Raum und Verkehr
 
 Herausgeber Baudirektion des Kantons Zug Amt für Raum und Verkehr Aabachstrasse 5
 
-6300 Zug T 041 728 54 80 info.arv@zg.ch
+6300 Zug T +41 41 594 54 80 info.arv@zg.ch
 
-Stand der Nachführung: Kantonsratsbeschlüsse bis: 29. Juni 2023 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 26. Januar 2023
+Stand der Nachführung: Kantonsratsbeschlüsse bis: 4. Juli 2024 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 29. Juni 2023
 
-Erstellt am 19. Dezember 2023
+Erstellt am 21. Oktober 2024
 
 ### Vorwort
 
@@ -63,7 +63,7 @@ G 1 Räumliche Leitgedanken zur Zukunft des Kantons Zug G 2 Bevölkerungsentwick
 
 S Siedlung
 
-**14 15 16**
+**14 15 15**
 
 S 1 Siedlungsgebiet S 2 Siedlungsbegrenzung S 3 Hochhäuser S 4 Verkehrsintensive Einrichtungen S 5 Siedlungsqualität / Dichten der Siedlungen / Natur in der Siedlung / Naherholung 16 S 6 Zonen mit speziellen Vorschriften für historisch wertvolle Gebäude und Anlagen S 7 Denkmalpflege und Archäologie S 9 Öffentliche Bauten und Anlagen S 10 Preisgünstiger Wohnraum
 
@@ -73,7 +73,7 @@ S 1 Siedlungsgebiet S 2 Siedlungsbegrenzung S 3 Hochhäuser S 4 Verkehrsintensiv
 
 L Landschaft
 
-**21 22 22 23 25 26 27 28 31 31 32**
+**21 22 22 23 25 26 27 28 31 32 32**
 
 L 1 Landwirtschaft L 2 Bodenschutz L 3 Weiler L 4 Wald L 5 Naturschutzgebiete und Naturobjekte L 6 Wildtierkorridore und Bewegungsachsen L 7 Landschaft L 8 Gewässer L 9 Naturgefahren L 10 Zentrale Bootsstationierungen L 11 Gebiete für Erholung und Sport
 
@@ -87,15 +87,15 @@ M 1 Grundsätze zur Mobilität M 2 Flächen- und energieeffiziente Mobilität M 
 
 **45**
 
-**45 45 45 46 47 47 47 48 49 49 50 50**
+**45 45 45 46 47 47 47 47 49 49 49 49**
 
 E 1 Abfallplanung E 2 Entsorgung von Siedlungsabfällen E 3 Deponierung E 4 Verwertung von Bauabfällen E 5 Abwasser E 6 Grundwasser und Wasserversorgung E 10 Störfallvorsorge E 11 Abbau Steine und Erden E 12 Altlasten E 13 Militärische Infrastrukturanlagen E 14 Kommunikation E 15 Energie
 
-**54**
+**53**
 
 P Agglomerationsprogramm
 
-**54 54 54**
+**53 53 53**
 
 P 1 Strategie für die Agglomeration Zug P 2 Projekte der Agglomeration Zug P 3 Subventionierung durch den Bund
 
@@ -511,13 +511,7 @@ S 1.4 Kerngebiete
 
 S 1.4.1 Die Gemeinden unterstützen mit planerischen Massnahmen die Attraktivität ihrer Kerngebiete (Einkaufen, öffentliche Plätze, architektonische Qualität). Der Kanton trägt mit der Gestaltung des Strassenraums der Kantonsstrassen zur Attraktivität bei.
 
-S 1.6 Gebiete mit raumplanerischem Koordinationsbedarf
-
-S 1.6.1 In Gebieten mit raumplanerischem Koordinationsbedarf führen die Gemeinden vertiefte Studien zur zukünftigen Entwicklung durch. Die Resultate fliessen in die Revision der Nutzungsplanungen ein. Der Kanton sowie die betroffene Bevölkerung sind einzubeziehen. Dies betrifft insbesondere folgende Gebiete:
-
-Nr. Gemeinde Ortsbezeichnung
-
-4 Oberägeri, Kanton Franzenmatt, Seematt, Kirchmatt
+S 1.6 Raumplanerischer Koordinationsbedarf
 
 S 1.6.2 Die Gemeinden stimmen ihre Nutzungsplanung frühzeitig mit den Nachbargemeinden ab.
 
@@ -549,9 +543,11 @@ S 3 Hochhäuser
 
 S 3.1 Gebiete mit möglichen Standorten für Hochhäuser
 
-S 3.1.1 Neue Hochhäuser (höher als 30 Meter) sind im Kanton Zug nur in der Stadtlandschaft möglich. Sie bedingen einen Bebauungsplan.
+S 3.1.1 Neue Hochhäuser (höher als 30 Meter) sind im Kanton Zug nur in der Stadtlandschaft möglich.
 
 **Richtplankarte Teilkarte G 9**
+
+Sie bedingen einen Bebauungsplan.
 
 S 3.1.3 Ein Hochhausprojekt muss hohe Anforderungen erfüllen betreffend:
 
@@ -588,6 +584,8 @@ S 5.1 Siedlungsqualität
 S 5.1.1 Die Gemeinden sorgen für eine den Bedürfnissen der Bevölkerung entsprechende Siedlungsqualität (Ortsbild, Qualität der Architektur, Umgebungs- und Freiraumgestaltung, Erschliessung und Parkierung).
 
 S 5.1.2 Die Gemeinden stärken in den Zentrumgebieten die ortsbaulichen Qualitäten. Dazu ergreifen sie Massnahmen beispielsweise für die Verbesserung der Wege für den Langsamverkehr, das Schaffen und Beleben neuer öffentlicher Freiräume sowie die Gestaltung der Strassenräume.
+
+**Richtplankarte S 5**
 
 S 5.2 Dichten der Siedlungen
 
@@ -627,8 +625,6 @@ S 5.3.1 Kanton und Gemeinden sorgen für ökologische Ausgleichsflächen auch in
 
 - a. im Rahmen von Sondernutzungsplänen Regelungen für die naturnahe Umgebungsgestaltung aufnehmen;
 
-**Richtplankarte S 5**
-
 - b. in der Bauordnung die notwendigen Bestimmungen aufnehmen.
 
 S 5.3.2 Der Kanton und die Gemeinden gestalten und pflegen ihre Grundstücke naturnah. Bei Sport-, Spiel- und Parkanlagen sind unter anderem die Interessen der Nutzerinnen und Nutzer zu berücksichtigen.
@@ -636,8 +632,6 @@ S 5.3.2 Der Kanton und die Gemeinden gestalten und pflegen ihre Grundstücke nat
 S 5.4 Öffentliche Plätze, Zugang zu den Naherholungsgebieten
 
 S 5.4.1 Die Gemeinden und der Kanton sorgen für attraktive Naherholungsmöglichkeiten im Siedlungsgebiet. Sie fördern den Zugang und Erholungswert der öffentlichen Plätze und sichern den direkten und fussgängerfreundlichen Zugang in die Naherholungsgebiete. Aus jeder Siedlung sollten die Naherholungsgebiete schnell und gefahrlos erreichbar sein.
-
-**Richtplantext Kap. L 11**
 
 S 6 Zonen mit speziellen Vorschriften für historisch wertvolle Gebäude und Anlagen
 
@@ -671,15 +665,15 @@ S 7.2.3 Die Gemeinden und der Kanton ziehen das Inventar der schützenswerten Or
 
 S 7.3 Archäologische Fundstätten
 
-S 7.3.1 Die archäologischen Fundstätten werden festgesetzt. Dazu gehören namentlich die drei UNESCO-Weltkulturerbestätten «Sumpf», «Oterswil Insel Eielen» und «Riedmatt», Gemeinde Zug.
+**Richtplantext Kap. L 11**
+
+S 7.3.1 Die archäologischen Fundstätten werden festgesetzt. Dazu gehören namentlich die drei UNESCO-Weltkulturerbestätten «Sumpf», «Oterswil Insel Eielen» und «Riedmatt», Gemeinde Zug. Die Gemeinden übernehmen bei der Revision der Nutzungspläne die neuen archäologischen
 
 **Richtplankarte Teilkarte S 7.3**
 
-Die Gemeinden übernehmen bei der Revision der Nutzungspläne die neuen archäologischen Fundstätten.
+Fundstätten.
 
 S 7.4 Kulturgüterschutz
-
-**S 7.3: Ergänzung UNESO Stätten: KRB 26.1.2023**
 
 S 7.4.1 Der Kanton unterstützt den Bund in seinen Massnahmen des Kulturgüterschutzes.
 
@@ -697,19 +691,15 @@ S 9.1.2 Öffentliche Bauten und Anlagen sind gut mit dem öffentlichen Verkehr s
 
 S 9.2 Vorhaben
 
-S 9.2.1 Die Gemeinden berücksichtigen in ihren Nutzungsplänen die Bedürfnisse der öffentlichen Bauten von Bund, Kanton und Gemeinden sowie raumwirksamer und im öffentlichen Interesse stehender Vorhaben. Folgende Vorhaben mit überkommunaler Bedeutung werden in den Richtplan aufge-
+S 9.2.1 Die Gemeinden berücksichtigen in ihren Nutzungsplänen die Bedürfnisse der öffentlichen Bauten von Bund, Kanton und Gemeinden sowie raumwirksamer und im öffentlichen Interesse stehender Vorhaben. Folgende Vorhaben mit überkommunaler Bedeutung werden in den Richtplan aufgenommen:
 
 **Richtplankarte S 9**
-
-nommen:
 
 **Stand Planquadrat**
 
 Nr. Gemeinde Vorhaben
 
 **Festsetzung M 10**
-
-1 Zug Umnutzung altes Kantonsspital 6 Zug Erweiterung kantonale Verwaltung an der Aa Festsetzung 7 Risch Aufhebung Tanklager (Antrag Kanton an den Vororientierung O 4 Bund) 8 Zug Hofstrasse, Standort Mittelschule 9 Menzingen Institut Bernarda, Standort Mittelschule 10 Zug Neubau Kunsthaus, Areal des alten Kantons- Festsetzung spitals 12 Zug Lüssiweg, Standort Mittelschule 13 Risch Suurstoffi, Standort Fachhochschule Zentral- Festsetzung schweiz 14 Risch Rotkreuz Bahnhof, Standort Mittelschule Bei den nachfolgenden Planungen sind folgende Punkte zu vertiefen:
 
 **K 10**
 
@@ -723,13 +713,15 @@ Nr. Gemeinde Vorhaben
 
 **Festsetzung O 4**
 
+1 Zug Umnutzung altes Kantonsspital 6 Zug Erweiterung kantonale Verwaltung an der Aa Festsetzung 7 Risch Aufhebung Tanklager (Antrag Kanton an den Vororientierung O 4 Bund) 8 Zug Hofstrasse, Standort Mittelschule 9 Menzingen Institut Bernarda, Standort Mittelschule 10 Zug Neubau Kunsthaus, Areal des alten Kantons- Festsetzung spitals 12 Zug Lüssiweg, Standort Mittelschule 13 Risch Suurstoffi, Standort Fachhochschule Zentral- Festsetzung schweiz 14 Risch Rotkreuz Bahnhof, Standort Mittelschule Nr. Gemeinde Vorhaben Bei den nachfolgenden Planungen sind folgende Punkte zu vertiefen:
+
+**Stand Planquadrat**
+
 - a. Gemeinsame Nutzungen: Erarbeiten eines Betriebskonzepts für die Nutzung der kantonalen Mittelschule und der gemeindlichen Sportanlagen;
 
 - b. Velo: Stärken der Veloinfrastruktur im Ennetsee;
 
-**erar-**
-
-- c. Störfall: Der Kanton stellt den Einbezug der zuständigen Bundesbehörden und der SBB sicher. Sie beiten gemeinsam die notwendigen, vorsorglichen Massnahmen. Kanton und Gemeinde legen in einem Bebauungsplan bzw. im Rahmen der Baubewilligung diese Massnahmen grundeigentümerverbindlich fest.
+- c. Störfall: Der Kanton stellt den Einbezug der zuständigen Bundesbehörden und der SBB sicher. Sie erarbeiten gemeinsam die notwendigen, vorsorglichen Massnahmen. Kanton und Gemeinde legen in einem Bebauungsplan bzw. im Rahmen der Baubewilligung diese Massnahmen grundeigentümerverbindlich fest.
 
 S 9.2.2 Der Kanton optimiert in Zusammenarbeit mit den Betreibern des öffentlichen Verkehrs und den Schulleitungen die Erschliessung der Standorte der Mittel- und Fachhochschulen.
 
@@ -1055,117 +1047,117 @@ L 8.1.1 Der Kanton und die Gemeinden verbessern die Qualität der Bäche und Fl�
 
 L 8.1.2 Kanton und Gemeinden fördern die Hochwassersicherheit und die ökologische und landschaftliche Aufwertung durch den Unterhalt der Gewässer, mit raumplanerischen Massnahmen und durch Renaturierung.
 
-L 8.1.3 Kanton und Gemeinden renaturieren folgende Fliessgewässer im Rahmen von Gesamtprojekten. In der Richtplankarte sind die Hauptläufe der zu renaturierenden Gewässer abgebildet. Angrenzende Gewässerabschnitte und Seitenbäche bilden Teil der Projektierung. Die Grundeigentümerinnen und Grundeigentümer sind in die Bearbeitung einzubeziehen.
+L 8.1.3 Kanton und Gemeinden renaturieren folgende Fliessgewässer im Rahmen von Gesamtprojekten. In der Richtplankarte sind die Hauptläufe der zu renaturierenden Gewässer abgebildet. Angrenzende Gewässerabschnitte und Seitenbäche bilden Teil der Projektierung. Die Grundeigentümerinnen und Grundeigentümer sind in die Bearbeitung einzubeziehen. Der Kanton überprüft die Prioritäten der Vorhaben periodisch und passt sie bei Bedarf an.
 
 **Richtplankarte L 8**
 
+Priorität 1 = Baubeginn bis 2028, Priorität 2 = Baubeginn bis 2034, Priorität 3 = Baubeginn nach 2034 (Stand 2024).
+
+**Priorität Planquadrat**
+
+Nr. Gemeinde Vorhaben
+
+**2 K 11–L 12**
+
+1 Zug Arbach L 7.1.2 Nr. Gemeinde Vorhaben Die Landschaftsschongebiete überlagern das Landwirtschaftsgebiet und den Wald. Der Kanton 5 Unterägeri Nübächli und die Gemeinden fördern die ökologische Aufwertung, die Vernetzung und den besonderen 9 Menzingen Edlibach Charakter dieser Gebiete mittels:
+
+**Priorität Planquadrat**
+
+**Richtplantext Kap. L 1, L 5**
+
+**1 Q 14–O 16 2 J 15–L 17 2 J 14–K 14,**
+
+12 Menzingen Dürrbach a. Erarbeiten und Finanzieren von Landschaftsentwicklungskonzepten (LEK);
+
+K 15–M 18 b. Erlass von Landschaftsschutzzonen für besonders zu schützende Landschaften;
+
+**3 F 11,**
+
+14 Baar Chlingenbach c. Erhalten der Naturobjekte;
+
+F 12–G 11 d. Abschliessen von freiwilligen Verträgen mit Bewirtschaftenden für ökologische Aufwertungen 20 Baar, Zug Aufwertung neuer Lorzenlauf zwischen (Hochstammobstbäume, Hecken und Feldgehölze, Waldränder, weitere ökologische Aus-Blickensdorf und Letzi gleichsflächen).
+
+**1, 2 G 11–J 9**
+
+**3 H 2–K 3 1 M 3–J 1 1 D 1–B 2 3 R 6 1 J 8–J 9 3 F 15–J 18 - P 15 - R 15 - N 23 1, 2, 3 H 12–M 14**
+
+29 Hünenberg Drälikerbach 30 Hünenberg Reuss Schachenweid–Sinserbrücke L 7.1.3
+
+31 Hünenberg Reuss Mühlauerbrücke–Reussspitz Kanton und Gemeinden achten bei der Bewilligung von Bauten und Anlagen auf die landschaft-
+
+32 Risch Aabach liche Eingliederung. Dabei braucht es im Einzelfall eine Interessenabwägung zwischen den land-
+
+35 Baar, Zug Alte Lorze schaftlichen Anliegen und den Ansprüchen der anderen Nutzungsinteressen, insbesondere der 36 Menzingen, Neuheim Sar-/Winzenbach Landwirtschaft.
+
+38 Unterägeri Hüribach, Betonsperren Gmeind 39 Unterägeri Hüribach, Holzsperren Furengatter L 7.2 BLN-Gebiete 40 Oberägeri Ijenbach, Durchlass Kantonsstrasse R 41 Baar, Neuheim, Lorzentobel L 7.2.1 Menzingen Die BLN-Gebiete dienen den Behörden von Kanton und Gemeinden als eine Grundlage für ihre 42 Baar, Unterägeri Lorze, Durchlass Kantonsstrasse 381 planerischen Entscheide. Im Rahmen ihrer Interessenabwägung zeigen sie dies auf.
+
+**- M 14**
+
+L 8.1.4 Der Kanton überwacht die Qualität der Gewässer und unterstützt Massnahmen zur weiteren L 8 Gewässer Reduktion der Belastung der Gewässer mit Schadstoffen.
+
+L 8.1 Fliessgewässer L 8.2 Öffentliche Gewässer
+
+L 8.1.1 L 8.2.1 Der Kanton und die Gemeinden verbessern die Qualität der Bäche und Flüsse als Lebensraum Die öffentlichen Gewässer sind festgesetzt.
+
+**Richtplankarte**
+
+von Tieren und Pflanzen sowie als Erholungsraum der Menschen. Sie setzen sich für eine Teilkarte L 8.2 Erhöhung der Restwassermengen ein und machen die Bäche durchgängig für Fische und andere L 8.3 Seen Wassertiere.
+
+L 8.3.1 L 8.1.2 Kanton und Gemeinden unterstützen im Siedlungsgebiet die Anliegen, den See für Erholung, Kanton und Gemeinden fördern die Hochwassersicherheit und die ökologische und landschaft-Freizeit und Sport attraktiv zu gestalten. Dazu gehören gute Verbindungen vom Seeufer zu den liche Aufwertung durch den Unterhalt der Gewässer, mit raumplanerischen Massnahmen und dahinter liegenden Freiflächen.
+
+**Richtplantext Kap. S 1**
+
+durch Renaturierung.
+
+L 8.3.2 L 8.1.3 Ausserhalb der Siedlungsgebiete halten Kanton und Gemeinden die Seeufer grundsätzlich für die Kanton und Gemeinden renaturieren folgende Fliessgewässer im Rahmen von Gesamtprojekten.
+
+**Richtplantext Kap. S 1**
+
+**Richtplankarte L 8**
+
+Interessen von Natur und Landschaft frei.
+
+In der Richtplankarte sind die Hauptläufe der zu renaturierenden Gewässer abgebildet. Angrenzende Gewässerabschnitte und Seitenbäche bilden Teil der Projektierung. Die Grundeigentüme-L 8.3.3 rinnen und Grundeigentümer sind in die Bearbeitung einzubeziehen. Der Kanton überprüft die Der Kanton Zug schützt die Ufervegetation des Zugersees und ergänzt wo sinnvoll die Schilfbe-Prioritäten der Vorhaben periodisch und passt sie bei Bedarf an.
+
+**Richtplantext Kap. L 1, L 2**
+
+stände.
+
+Priorität 1 = Baubeginn bis 2028, Priorität 2 = Baubeginn bis 2034, Priorität 3 = Baubeginn nach 2034 (Stand 2024).
+
+L 8.3.4 Der Kanton Zug ergreift Massnahmen, um die Nährstoffbelastung des Zugersees zu senken. Ziel Nr. Gemeinde Vorhaben Priorität Planquadrat ist, den Zugersee in einen naturnahen, mittel nährstoffreichen Zustand zurückzuführen, welcher sich im biologischen Gleichgewicht befindet. Der Kanton setzt see-externe Massnahmen (Reduk-
+
+1 Zug Arbach 2 K 11–L 12 tion Phosphoreintrag) und see-interne Massnahmen (Zirkulationsunterstützung im Winter) um.
+
+Er koordiniert diese mit den Nachbarkantonen Schwyz und Luzern. Folgendes Vorhaben wird festgesetzt:
+
 **Planquadrat**
 
 Nr. Gemeinde Vorhaben
 
-**K 11–L 12 Q 14–O 16 J 15–L 17 J 14–K 14,**
+1 Walchwil Zirkulationsunterstützung (Kompressorenstation und S 9–S 10 Diffusoren)
 
-1 Zug Arbach 5 Unterägeri Nübächli 9 Menzingen Edlibach
+Der Kanton überprüft die Auswirkungen der Zirkulationsunterstützung laufend. Dies betrifft den Phosphor- und Sauerstoffgehalt des Sees, wie auch die Biologie des Sees (Plankton, Wasserpflanzen, Rötel und Felchen). Die Daten sind periodisch zu veröffentlichen.
 
-12 Menzingen Dürrbach
+L 8.3.5 Der Kanton und die Gemeinden renaturieren folgende Uferabschnitte im Rahmen von Gesamtprojekten und Unterhaltsmassnahmen Die Grundeigentümerinnen und Grundeigentümer sind in die Bearbeitung einzubeziehen. Der Kanton überprüft die Prioritäten der Vorhaben periodisch und passt sie bei Bedarf an.
 
-**H 2–K 3 R 6 F 15–J 18**
+**Richtplankarte L 8**
 
-K 15–M 18 Nr. Gemeinde Vorhaben 14 Baar Chlingenbach F 12–G 11
+Priorität 1 = Umsetzung bis 2028, Priorität 2 = Umsetzung bis 2032, Priorität 3 = Umsetzung bis 2036, Priorität 4 = Umsetzung bis 2040, Priorität 5 = Umsetzung nach 2040 (Stand 2024).
 
-**Planquadrat F 11,**
+**Priorität Planquadrat 3 Q 6–Q 7 1 N 6–O 6 2 N 6 4 M 6–N 6 2 K 5–K 6 3 K 6–K7 3 K 7–K 8 3 K 8 1 K 9 4 P 9 1 P 17**
 
-20 Baar, Zug Aufwertung neuer Lorzenlauf zwischen Blickens- G 11–J 9 dorf und Letzi 29 Hünenberg Drälikerbach 30 Hünenberg Reuss Schachenweid–Sinserbrücke 31 Hünenberg Reuss Mühlauerbrücke–Reussspitz 32 Risch Aabach 35 Baar, Zug Alte Lorze 36 Menzingen, Neuheim Sar-/Winzenbach 37 Hünenberg, Risch Dersbach, Schwelle GVRZ-Leitung 38 Unterägeri Hüribach, Betonsperren Gmeind 39 Unterägeri Hüribach, Holzsperren Furengatter 40 Oberägeri Ijenbach, Durchlass Kantonsstrasse R 41 Baar, Menzingen Lorze, drei Schwellen vor Höll 42 Baar, Unterägeri Lorze, Durchlass Kantonsstrasse 381
+Nr. Gemeinde Vorhaben 1 Risch Oberrisch 2 Risch Buonas Bucht 3 Risch Sijentalbach Bucht Süd 4 Risch Sporn Freudenberg 5 Cham Eslen 6 Cham Schloss St. Andreas 7 Zug Choller Delta 8 Zug Choller Ost 9 Zug Öschwiese 10 Zug Murpfli 11 Oberägeri Seeplatz 12 Oberägeri Altes Dorfbachdelta Seematt/Chilenmatt 2
 
-**H 2–K 3 M 3–J 1 D 1–B 2 R 6 J 8–J 9 F 15–J 18 L 6 P 15 R 15 N 23 J 13 M 14**
+**1 P 18–P 19 3 P 19 1 R 20 4 Q 17 4 Q 17 2 P 16 5 M 10–N 10 5 P 9 5 O 9–P 9 5 P 9–Q 9 5 T 11 5 R 19 5 O 16 5 -**
 
-L 8.1.4 Der Kanton überwacht die Qualität der Gewässer und unterstützt Massnahmen zur weiteren Reduktion der Belastung der Gewässer mit Schadstoffen.
-
-L 8.1.5 Die Liste Stand 2014 sieht folgende Prioritäten:
-
-Priorität 1: Umsetzung bis 2022
-
-**Planquadrat**
-
-Nr. Gemeinde Vorhaben
-
-**J 15–L 17 M 3–J 1 D 1–B 2 J 8–J 9**
-
-9 Menzingen Edlibach 30 Hünenberg Reuss Schachenweid–Sinserbrücke 31 Hünenberg Reuss Mühlauerbrücke - Reussspitz 35 Baar, Zug Alte Lorze
-
-Priorität 2: Umsetzung bis 2028
-
-**Planquadrat**
-
-Nr. Gemeinde Vorhaben
-
-**K 11–L 12 J 14–K 14,**
-
-1 Zug Arbach 12 Menzingen Dürrbach K 15–M 18
-
-20 Baar, Zug Aufwertung neuer Lorzenlauf zwischen Blickens- G 11–J 9 dorf und Letzi
-
-Priorität 3: Umsetzung bis 2034
-
-**Planquadrat**
-
-Nr. Gemeinde Vorhaben
-
-**Q 14–O 16 F 11,**
-
-5 Unterägeri Nübächli 14 Baar Chlingenbach F 12–G 11
-
-29 Hünenberg Drälikerbach 32 Risch Aabach 36 Menzingen, Neuheim Sar-/Winzenbach L 8.1.6 Bei folgenden Vorhaben ist die Fischgängigkeit wiederherzustellen. Sie stehen im Zusammenhang mit Kraftwerkanlagen.
-
-**Planquadrat**
-
-Nr. Gemeinde Vorhaben
-
-**J 6 J 5**
-
-24 Cham Sanierung Wehr Obermühle
-
-25 Cham Sanierung Wehr Hammer
-
-L 8.2 Öffentliche Gewässer
-
-L 8.2.1 Richtplankarte Die öffentlichen Gewässer sind festgesetzt.
-
-Teilkarte L 8.2 L 8.3 Seen
-
-L 8.3.1 Richtplantext Kap. S 1 Kanton und Gemeinden unterstützen im Siedlungsgebiet die Anliegen, den See für Erholung, Freizeit und Sport attraktiv zu gestalten. Dazu gehören gute Verbindungen vom Seeufer zu den dahinter liegenden Freiflächen.
-
-L 8.3.2 Richtplantext Kap. S 1 Ausserhalb der Siedlungsgebiete halten Kanton und Gemeinden die Seeufer grundsätzlich für die Interessen von Natur und Landschaft frei.
-
-L 8.3.3 Richtplantext Kap. L 1, L 2 Der Kanton führt die Massnahmen weiter, um die Qualität des Wassers des Zugersees zu verbessern und die Ufervegetation zu schützen. Wo sinnvoll, ergänzt er die Schilfbestände. Der Kanton arbeitet mit den Nachbarkantonen zusammen.
-
-L 8.3.4 Richtplankarte L 8 Der Kanton analysiert folgende Seeufer auf das Renaturierungspotenzial. Die Grundeigentümerinnen und Grundeigentümer sind in die Bearbeitung einzubeziehen.
-
-**Planquadrat**
-
-Nr. Gemeinde Vorhaben
-
-**K 8 K 9 M 10–N 10, O 9 P 9 P 18 N 6–O 6**
-
-1 Zug Lorzen 2 Zug Seeufer bei Öschwiese
-
-3 Zug Ostufer (Stolzengraben, Trubikon)
-
-4 Zug Ufer bei Insel Eiola 5 Oberägeri Kirchmatt 6 Risch Buonas
-
-L 8.4 Gewässerraum
+13 Oberägeri Breiten 14 Oberägeri Sulzmatt 15 Oberägeri Haselmatt-Schönenfurt 16 Oberägeri Bergmatt 17 Unterägeri Bergmatt 18 Unterägeri Delta Hüribach 19 Zug Stolzengraben-St. Karl 20 Zug Sagiplatz 21 Zug Räbmatt 22 Zug Eielen–Murpfli 23 Walchwil Rufibachdelta 24 Oberägeri Naas 25 Unterägeri Birkenwäldli/Bootshäuser 26 Walchwil diverse Deltas L 8.4 Gewässerraum
 
 L 8.4.1 Die Gemeinden legen den Gewässerraum für Fliessgewässer und stehende Gewässer innerhalb und ausserhalb der Bauzone im Rahmen der Ortsplanungsrevisionen, erstmals bis spätestens Ende 2025 fest.
 
-L 8.4.2 Bis zur erstmaligen Festlegung des Gewässerraums gelten die Übergangsbestimmungen des
+L 8.4.2 Bis zur erstmaligen Festlegung des Gewässerraums gelten die Übergangsbestimmungen des Bundes.
 
-**Erweiterung der bestehenden Anlage auf max. 20 S 19 Plätze auf dem Land**
-
-**O 16**
-
-**Plätze (trocken oder im See)**
-
-Bundes. L 8.4.3 Die Sicherung des Gewässerraums erfolgt mit überlagernden Zonen nach dem kantonalen Planungs- und Baugesetz.
+L 8.4.3 Die Sicherung des Gewässerraums erfolgt mit überlagernden Zonen nach dem kantonalen Planungs- und Baugesetz.
 
 L 8.4.4 Die Gemeinden legen den Gewässerraum mindestens für jene Gewässer fest, die auf der Landeskarte 1:25'000 (swissTLM3D) verzeichnet sind.
 
@@ -1176,6 +1168,8 @@ L 9 Naturgefahren
 L 9.1 Naturgefahren
 
 L 9.1.1 Die Gefahrenkarte dient als Grundlage für die Beurteilung von Naturgefahren. Wo keine Gefahrenkarte vorhanden ist, ist die Gefahrenhinweiskarte zu konsultieren.
+
+**P 18**
 
 L 9.1.2 Der Kanton erstellt in Zusammenarbeit mit den Gemeinden für das Siedlungsgebiet und wichtige Infrastrukturanlagen Gefahrenkarten und passt diese an geänderte Verhältnisse an.
 
@@ -1191,19 +1185,13 @@ L 10.1.1 Folgende Sanierungen und Erweiterungen bestehender Anlagen bzw. neue An
 
 **Richtplankarte L 10**
 
-**Bezeichnung Planquadrat**
+**Planquadrat**
 
-Nr. Gemeinde
+Nr. Gemeinde Bezeichnung
 
 **O 17**
 
-1 Oberägeri Seeplatz Erweiterung des bestehenden Bojenfeldes mit einem Kleinhafen 2 Oberägeri Morgarten 3 Unterägeri Birken- Erweiterung der bestehenden Anlage um max. 30
-
-**Richtplantext L 4.4**
-
-wäldli Nr. Gemeinde Bezeichnung 5 Hünenberg Ders- Erweiterung der bestehenden Anlage um max. 30 L 5 bach Plätze auf dem Wasser (Verlängerung des bestehenden Steges) oder an Land. Dabei ist folgende Bedingung einzuhalten: Aufwertungsmassnahmen
-
-**Planquadrat**
+1 Oberägeri Seeplatz Erweiterung des bestehenden Bojenfeldes mit einem Kleinhafen 2 Oberägeri Erweiterung der bestehenden Anlage auf max. 20 S 19 Morgarten Plätze auf dem Land 3 Unterägeri Birken- Erweiterung der bestehenden Anlage um max. 30 O 16 wäldli Plätze (trocken oder im See) 5 Hünenberg Ders- Erweiterung der bestehenden Anlage um max. 30 L 5 bach Plätze auf dem Wasser (Verlängerung des bestehenden Steges) oder an Land. Dabei ist folgende Bedingung einzuhalten: Aufwertungsmassnahmen
 
 zum Schutz der Ufervegetation.
 
@@ -1235,6 +1223,8 @@ L 11.1.2 In den Schwerpunkten konzentrieren sich neue Bauten und Anlagen für di
 
 L 11.1.3 Für Bauten und Anlagen für die Erholung, welche über die Erteilung einer Bewilligung nach Bundesrecht (Ausnahmen für Bauten und Anlagen ausserhalb der Bauzonen) hinausgehen, können die Gemeinden in ihren Nutzungsplänen übrige Zonen mit speziellen Vorschriften bezeichnen (ausserhalb des Waldes). Diese Zonen stützen sich auf konzeptionelle Überlegungen der Gemeinden. Die Gemeinden arbeiten mit dem Kanton und den Betroffenen zusammen.
 
+**Richtplantext L 4.4**
+
 L 11.2 Kommunale Naherholungsgebiete
 
 L 11.2.1 Die grobe Abgrenzung der kommunalen Naherholungsgebiete wird festgesetzt. Diese Gebiete werden grundsätzlich landwirtschaftlich genutzt. Gleichzeitig dienen sie vermehrt der Naherholung. Die Gemeinden sorgen in ihren Nutzungsplänen und bei Bauten und Anlagen für den Erhalt der Qualität der Naherholungsgebiete. Die daraus entstehenden Beeinträchtigungen sind abzugelten.
@@ -1257,15 +1247,15 @@ Um dieses Ziel zu erreichen, setzen Kanton und Gemeinden unter Berücksichtigung
 
 - b. Die Stadt Zug wertet mit dem Kanton und der Korporation Zug das Gebiet Brüggli für die Erholung auf. Der Campingplatz in seiner heutigen Form (fixe Stellplätze) ist bis spätestens 2022 aufzuheben. Der freiwerdende Platz ist für Sportlerinnen und Sportler, Badende und Erholungsuchende aufzuwerten. Die fixe Parkierung südlich der SBB Geleise ist aufzuheben. Mittels gezielter Aufschüttungen im Zugersee ist die Flachwasserzone ökologisch aufzuwerten und für die Erholung suchenden erlebbar zu machen. Im Gebiet östlich der Mündung der alten Lorze in den Zugersee hat der Naturschutz Priorität.
 
-- c. Die Zugänge zum Seeufer sind entlang der neuen Lorze, der alten Lorze sowie im Gebiet Lorzen (Höhe Lorzenstrasse) zu verbessern.
+- c. Die Zugänge zum Seeufer sind entlang der neuen Lorze, der alten Lorze sowie im Gebiet Lor-
+
+zen (Höhe Lorzenstrasse) zu verbessern.
 
 - d. Der Kanton Zug entflicht mit der Stadt Zug und der Korporation Zug im Gebiet der Schiessanlage Choller den Autoverkehr vom Langsamverkehr.
 
 - e. Der Kanton setzt sich dafür ein, dass die bestehende Hochspannungsleitung UW Altgass– UW Herti und die damit in Zusammenhang stehenden 16-kV-Leitungen in den Boden verlegt werden. Weiter setzt er sich dafür ein, dass die 380-kV-Leitung Mettlen–Benken/Grynau langfristig verkabelt oder aus der Lorzenebene entfernt wird.
 
-- f. Der Kanton erarbeitet mit den Einwohnergemeinden und den Grundeigentümerinnen und Grundeigentümern eine einfache Besucherlenkung. Dazu gehören die Neuorganisation von bestehenden Wegen, die Durchsetzung der geltenden Regelungen und eine aktive Information der Erholungsuchenden. Mit konkreten Projekten sind die Identität und die Qualitäten der
-
-ganzen Lorzenebene in Wert zu setzen.
+- f. Der Kanton erarbeitet mit den Einwohnergemeinden und den Grundeigentümerinnen und Grundeigentümern eine einfache Besucherlenkung. Dazu gehören die Neuorganisation von bestehenden Wegen, die Durchsetzung der geltenden Regelungen und eine aktive Information der Erholungsuchenden. Mit konkreten Projekten sind die Identität und die Qualitäten der ganzen Lorzenebene in Wert zu setzen.
 
 L 11.3.3 Der Kanton setzt sich beim Bund zum Schutz des Naherholungsgebiets Lorzenebene und der angrenzenden Siedlungsgebiete für durchgehende Schallschutzmassnahmen an der Autobahn im Abschnitt Blegi bis Ausfahrt Baar ein.
 
@@ -1283,11 +1273,11 @@ Nr. Gemeinde Bezeichnung 2 Menzingen Lenkwaffenstellung Gubel. Bei Wegfall der m
 
 M 1 Grundsätze zur Mobilität
 
-M 1.1 Handlungen
+M 1.1 Planungsgrundsätze
 
-- 1\. Kanton und Gemeinden setzen die Kernsätze und Handlungen zur Mobilität um und sorgen dabei für die grenzüberschreitende Koordination.
+- 1\. Kanton und Gemeinden setzen die Ziele und Planungsgrundsätze zur Mobilität um und sorgen dabei für die grenzüberschreitende Koordination.
 
-- 2\. Der Kanton erstattet dem Kantonsrat bis 2027 in geeigneter Form Bericht und bis spätestens 2035 Bericht und Antrag über die Umsetzung der Kernsätze und Handlungen und die Entwicklung des Modal-Splits im Kanton Zug.
+- 2\. Der Kanton erstattet dem Kantonsrat bis 2027 in geeigneter Form Bericht und bis spätestens 2035 Bericht und Antrag über die Umsetzung der Ziele und Planungsgrundsätze und die Entwicklung des Modal-Splits im Kanton Zug.
 
 - 3\. Kanton und Gemeinden setzen sich für Vorgaben im Verkehr ein, welche Innovation, Effizienzsteigerung und Pilotprojekte fördern.
 
@@ -1297,7 +1287,7 @@ M 1.1 Handlungen
 
 M 2 Flächen- und energieeffiziente Mobilität
 
-M 2.1 Handlungen
+M 2.1 Planungsgrundsätze
 
 **Richtplantext Kap. M 4**
 
@@ -1329,13 +1319,13 @@ M 2.1 Handlungen
 
 M 3 Verursachergerechte Finanzierung der Mobilität
 
-M 3.1 Handlungen
+M 3.1 Planungsgrundsätze
 
 - 1\. Der Kanton unterstützt grundsätzlich die Initiative des Bundes zur schweizweiten Einführung von Mobility Pricing für das Brechen von Verkehrsspitzen und die verursachergerechte Finanzierung der Mobilität unter Berücksichtigung der gesamtgesellschaftlichen Interessen.
 
 M 4 Infrastruktur und Erreichbarkeiten
 
-M 4.1 Handlungen
+M 4.1 Planungsgrundsätze
 
 - 1\. Kanton und Gemeinden planen, bauen, unterhalten und erneuern ihre Infrastrukturen für die Mobilität.
 
@@ -1463,7 +1453,7 @@ Nr. Vorhaben 2 Neubau Umfahrung Cham–Hünenberg 2.1 Mit dem Abschluss des Baup
 
 **Zwischenergebnis 3 N 4–O 5**
 
-6 Neubau Ostumfahrung Rotkreuz Nr. Vorhaben Stand 7 Verbindung Autobahnanschluss Rotkreuz an die Zwischenergebnis 2 Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse (1. Teil Bügel zur Industriestrasse und 2. Teil Verbindung Holzhäusernstrasse/ Bösch) 7.1 Der Kanton unterbreitet dem Kantonsrat bis 2023 einen Antrag zur weiteren Planung des 1. Teils des Bügels zur Industriestrasse. Mit Gemeinden, Bund und Betroffenen evaluiert er die Machbarkeit, die Kosten und die verkehrlichen Wirkungen des 1. Teils des Bügels mit Unterbindung des Durchgangsverkehrs. Ein Trassee für den Feinverteiler des öffentlichen Verkehrs ist einzubeziehen.
+6 Neubau Ostumfahrung Rotkreuz Nr. Vorhaben Stand 7 Verbindung Autobahnanschluss Rotkreuz an die Zwischenergebnis 2 Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse und Unterbindung des Durchgangsverkehrs auf der Industriestrasse (1. Teil Bügel zur Industriestrasse und 2. Teil Verbindung Holzhäusernstrasse/Bösch) 7.1 Bis spätestens 2035 oder 2 Jahre nach Inbetriebnahme des Autobahn-Halbanschlusses Rotkreuz Süd prüft der Kanton den Erfolg der realisierten verkehrlichen Massnahmen im Raum Rotkreuz/Hünenberg. Verfehlen diese Massnahmen die Ziele M 4.3.1; 2.a., 2.b. und 2.c., prüft der Kanton innert 2 Jahren die Vorhaben M 4.3.2; Nr. 6 und M 4.3.2; Nr. 7 erneut auf deren Machbarkeit, Kosten sowie die verkehrlichen Wirkungen und unterbreitet dem Kantonsrat einen Antrag auf Festsetzung oder Streichung. Der Kanton bindet den Bund und die betroffenen Gemeinden sowie die betroffenen Grundeigentümerschaften in den Prozess ein.
 
 **Priorität Planquadrat**
 
@@ -1472,8 +1462,6 @@ Nr. Vorhaben 2 Neubau Umfahrung Cham–Hünenberg 2.1 Mit dem Abschluss des Baup
 **(1.Teil)**
 
 **3 (2. Teil)**
-
-7.2 Bis spätestens 2035 prüft der Kanton den Erfolg der realisierten verkehrlichen Massnahmen im Raum Rotkreuz/Hünenberg. Verfehlen diese Massnahmen die Ziele M 4.3.1; 2.a., 2.b. und 2.c., ist dem Kantonsrat innert 2 Jahren eine Anpassung des Richtplans zur Festsetzung der Vorhaben M 4.3.2; Nr. 6 und M 4.3.2; Nr. 7 zu unterbreiten. Der Kanton bindet den Bund und die betroffenen Gemeinden in den Prozess ein.
 
 **2 K 10–L 11**
 
@@ -1625,21 +1613,17 @@ M 4.7.1 Angebot 1. Der Kanton Zug ist vom Bund in die Planung des Güterverkehrs
 
 - 3\. Der Kanton Zug setzt sich beim Bund dafür ein, dass der Transitgüterverkehr via Freiamt–Rotkreuz–Gotthard geführt wird.
 
-- 4\. Die bestehende Güterumladestation der Bahn im Bahnohf Steinhausen wird bis zum Baubeginn des ÖV-Feinverteilertrassees (M 4.6.2; 1) und in Koordination mit den Anlagen in Rotkreuz und in Zug (Vorhaben M 4.7.2; Nr. 1 und 2) aufgehoben.
-
-M 4.7.2 Vorhaben An den nachfolgenden Vorhaben besteht ein kantonales Interesse. Der Kanton konkretisiert zusammen mit der SBB die Vorhaben mit Interessenlinien. Sofern notwendig, sichert der Bund auf Antrag des Kantons Zug die Trassees mittels Projektierungszonen. Die Nachbarkantone
+M 4.7.2 Vorhaben An den nachfolgenden Vorhaben besteht ein kantonales Interesse. Der Kanton konkretisiert zusammen mit der SBB die Vorhaben mit Interessenlinien. Sofern notwendig, sichert der Bund auf Antrag des Kantons Zug die Trassees mittels Projektierungszonen. Die Nachbarkantone werden miteinbezogen.
 
 **Richtplankarte M 4.7**
 
-werden miteinbezogen.
+**Priorität Planquadrat**
 
-Nr. Vorhaben Stand Priorität Planquadrat
+Nr. Vorhaben Stand
 
-1 Güterumladestation Bahnhof Zug (Zug) Festsetzung 1 K 10
+**2 O 4**
 
-2 Güterumladestation Bahnhofareal Rotkreuz Festsetzung 3 O 4 (Risch)
-
-M 4.8 Flugverkehr
+2 Freiverlad Bahnhofareal Rotkreuz (Risch) Festsetzung M 4.8 Flugverkehr
 
 M 4.8.1 Angebot 1. Der Kanton Zug ist vom Kanton Zürich und vom Bund frühzeitig in die Bearbeitung des Sachplans Infrastruktur Luftfahrt (SIL) und des neuen Betriebsreglements des Flughafens Zürich Kloten einzubeziehen. Die Auswirkungen des neuen Betriebsreglements auf die Militärflugplätze Emmen und Dübendorf sowie die Auswirkungen auf den Kanton Zug sind aufzuzeigen.
 
@@ -1665,7 +1649,7 @@ M 4.10.1 Angebot 1. An der langfristigen Sicherung und Erhaltung eines attraktiv
 
 M 5 Mobilität und Siedlung
 
-M 5.1 Handlungen
+M 5.1 Planungsgrundsätze
 
 - 1\. Kanton und Gemeinden unterstützen das Engagement der Privatwirtschaft bei Realisierungen von Wohn- und Arbeitsformen mit flächeneffizienten Mobilitätsformen.
 
@@ -1679,7 +1663,7 @@ M 5.1 Handlungen
 
 M 6 Digitalisierung und Verkehrslenkung
 
-M 6.1 Handlungen
+M 6.1 Planungsgrundsätze
 
 - 1\. Kanton und Gemeinden leben den Grundsatz: Software vor Hardware in der Abwicklung der Mobilität.
 
@@ -1769,18 +1753,6 @@ E 4.1.2 Der Kanton sichert die Standorte für den Umschlag und die Aufbereitung 
 
 E 4.1.3 Innerhalb der Industrie- und Gewerbezonen sind Umschlag- und Aufbereitungsplätze für Bauabfälle zonenkonform und bedingen keine kantonalen Nutzungszonen.
 
-E 4.2 Vorhaben
-
-E 4.2.1 Die folgenden Standorte für Umschlag- und Aufbereitungsplätze für mineralische Bauabfälle sind raumplanerisch abgestimmt und werden festgesetzt:
-
-**Richtplankarte E 4**
-
-Nr. Ort Gemeinde Planquadrat
-
-2 Boden Cham F 6
-
-4 Chrüzegg Baar F 14
-
 E 5 Abwasser
 
 E 5.1 Kläranlagen
@@ -1835,59 +1807,41 @@ E 11.1.4 Der Kanton scheidet für die grundeigentümerverbindliche Sicherung die
 
 E 11.2 Vorhaben
 
-**Richtplankarte E 11**
-
-E 11.2.1 Folgende Standorte werden als Festsetzung in den Richtplan aufgenommen: E 11 Abbau Steine und Erden Nr. Gemeinde
-
-**Standort Planquadrat**
-
-**Bethlehem K 14–K 15**
-
-E 11.1 Planungsgrundsätze 1 Menzingen 2 Menzingen, Neuheim Hinterburg–Müli–Kuenz E 11.1.1 3 Cham An der langfristigen Sicherung der Versorgung des Kantons mit mineralischen Rohstoffen, 4 Cham Steinen und Erden besteht ein kantonales Interesse. Um der Endlichkeit des Kiesvorkommens im 5 Neuheim, Baar Kanton Zug Rechnung zu tragen, legt der Kanton das jährliche maximale Abbauvolumen bis 2034 6 Neuheim auf 400'000 m<sup>3</sup> und ab 2035 auf jährlich maximal 300'000 m<sup>3</sup> fest. Er kontrolliert die Einhaltung 7 Neuheim dieser Abbauvolumen jährlich. 8 Neuheim 9 Menzingen Der Kanton revidiert sein Kies- und Deponiekonzept bis 2025. Mit dem Konzept prüft er auch die 10 Cham Variante einer Kiesversorgung des Kantons ohne neue Abbaugebiete. Er zeigt die damit zusam- 11 Cham menhängenden Auswirkungen auf den Bedarf an Deponievolumen für unverschmutzten Aushub auf. Er zieht die Standortgemeinden, Organisationen, Unternehmen, Nachbarkantone mit ihren Regionen und den Bund stufengerecht in den Prozess ein.
-
-**H 14–J 14**
-
-**Oberwil–Hof–Boden F 6 Äbnetwald E 5–F 6 Kreuzhügel E 15–F 15 Tal–Winkel–Hof–Hintertann–Winzenbach F 16–G 16 Hintertann Ost G 16 Hintertann West G 16 Bethlehem Süd L 15 Hof Süd F 6 Äbnetwald West (Abbau max. zu bestehendem E 5–F 6 Feldweg, westlich des Feldweges nur Sichtschutzmassnahmen ohne Bodenveränderungen)**
-
-E 11.2.2 Der Kanton Zug koordiniert das Kiesabbauvolumen mit dem Deponievolumen, insbesondere von Für die langfristige Kiesversorgung wird in den kantonalen Richtplan folgender Standort als nichtstandfestem Material. Beim Aushubvolumen hält er eine ausgeglichene Import- und Export- Zwischenergebnis aufgenommen:
+E 11.2.1 Folgende Standorte werden als Festsetzung in den Richtplan aufgenommen:
 
 **Richtplankarte E 11**
 
-bilanz mit den anderen Kantonen ein und kontrolliert die Einhaltung.
+**Planquadrat H 14–J 14 L 15**
 
-**Standort Planquadrat**
+Nr. Gemeinde Standort 2 Menzingen, Neuheim Hinterburg–Müli–Kuenz 9 Menzingen Bethlehem Süd
 
-Nr. Ort
+E 11.2.2 Für die langfristige Kiesversorgung wird in den kantonalen Richtplan folgender Standort als Zwischenergebnis aufgenommen:
 
-**Hatwil/Hubletzen E 4–F 4**
+**Richtplankarte E 11**
 
-E 11.1.2 1 Cham Um die natürlichen Ressourcen zu schonen, unterstützt der Kanton die Verwendung von Holz und Recyclingmaterialien sowie die Wiederverwertung von Aushubmaterial. Der Kanton überprüft mit der Erarbeitung des Kies- und Deponiekonzepts die seitens des Bundesgerichts (Entscheid vom 13. Januar 2022) aufgeworfenen Fragen.
+**Planquadrat**
 
-E 11.1.3 Der Anteil des mineralischen Recyclingbaustoffes am jährlichen Gesamtumsatz von Kies- und E 12 Kiesersatzstoffen wird auf 33 % im Jahr 2035 gesteigert.
+Nr. Ort Standort
 
-**Altlasten**
+**E 4–F 4**
 
-**Kataster der belasteten Standorte**
+1 Cham Hatwil/Hubletzen
 
-E 12.1 Gemeinden und Kanton erreichen dieses Ziel mit folgenden Massnahmen:
+Der Kanton überprüft mit der Erarbeitung des Kies- und Deponiekonzepts die seitens des Bundesgerichts (Entscheid vom 13. Januar 2022) aufgeworfenen Fragen. E 12 Altlasten
 
-- a. Öffentliche Ausschreibungen für Hoch- und Tiefbauten verlangen einen maximalen Einsatz von E 12.1.1 mineralischen Recyclingbaustoffen.
+E 12.1 Kataster der belasteten Standorte
 
-Die Gemeinden konsultieren im Rahmen von Planungen und Baubewilligungsverfahren den Katab. Der Kanton unterstützt die Entwicklung von neuen Methoden zur Optimierung der Verwendung ster der belasteten Standorte.
+E 12.1.1 Die Gemeinden konsultieren im Rahmen von Planungen und Baubewilligungsverfahren den Kataster der belasteten Standorte.
 
-von Aushubmaterial und stösst gemeinsam mit der Bauwirtschaft wirksame Massnahmen zur Erhöhung der Recyclingquote an.
+E 12.1.2 Der Kanton berät und informiert Bauwillige und Gemeinden bei der Sanierung der Altlasten.
 
-E 12.1.2 c. Der Kanton überprüft den Recyclinganteil alle vier Jahre und führt beim Nichterreichen der Der Kanton berät und informiert Bauwillige und Gemeinden bei der Sanierung der Altlasten. festgelegten Werte weitergehende Massnahmen ein.
+E 13 Militärische Infrastrukturanlagen
 
-**Militärische Infrastrukturanlagen**
+E 13.1 Planungsgrundsätze
 
-E 11.1.4 E 13 Der Kanton scheidet für die grundeigentümerverbindliche Sicherung dieser Abbaugebiete kantonale Nutzungszonen aus. Im Rahmen dieses Verfahrens bezeichnet er die genaue Abgrenzung, E 13.1 legt den Zeitraum für den Abbau und die Wiederauffüllung sowie die Massnahmen für die Rekultivierung fest. Rekultivierte Flächen erfüllen nach 5 bis 10 Jahren die Kriterien der Fruchtfolge- E 13.1.1 flächen (FFF). Kanton und Gemeinden prüfen bei historisch wertvollen militärischen Anlagen, die nicht mehr militärisch genutzt werden, deren Eintrag in das Inventar der schützenswerten Denkmäler bzw. E 11.2 Vorhaben die Unterschutzstellung.
+E 13.1.1 Kanton und Gemeinden prüfen bei historisch wertvollen militärischen Anlagen, die nicht mehr militärisch genutzt werden, deren Eintrag in das Inventar der schützenswerten Denkmäler bzw. die Unterschutzstellung.
 
-**Richtplantext Kap. L 1**
-
-**Planungsgrundsätze**
-
-E 11.2.1 E 13.1.2 Folgende Standorte werden als Festsetzung in den Richtplan aufgenommen: Der Bund informiert den Kanton und die Standortgemeinden frühzeitig über die Aufhebung oder Umnutzung von militärischen Bauten und Anlagen.
+E 13.1.2 Der Bund informiert den Kanton und die Standortgemeinden frühzeitig über die Aufhebung oder Umnutzung von militärischen Bauten und Anlagen.
 
 E 13.2 Vorhaben
 
@@ -1895,13 +1849,13 @@ E 13.2.1 Folgende Bauten und Anlagen werden in den Richtplan aufgenommen:
 
 **Richtplankarte E 13**
 
-**Planquadrat**
+**Stand Planquadrat**
 
-Nr. Gemeinde Anlage und Standort Stand
+Nr. Gemeinde Anlage und Standort
 
-**F 3**
+**Festsetzung F 3**
 
-1 Cham Übersetzstelle Frauental Festsetzung
+1 Cham Übersetzstelle Frauental
 
 E 14 Kommunikation
 
@@ -1929,8 +1883,6 @@ E 15.1.3 Kanton und Gemeinden fördern:
 
 Sie unterstützen Pilotprojekte und Förderprogramme für erneuerbare Energien und Fernwärmenetze.
 
-**Richtplankarte E 11**
-
 E 15.1.4 Der Kanton erstellt in Zusammenarbeit mit den Gemeinden bis 2016 die planerischen Grundlagen für die stärkere Nutzung der erneuerbaren Energien. Eine Karte zeigt auf, in welchen Gebieten erneuerbare Energien effizient und effektiv nutzbar sind. Die räumlich-relevanten Resultate fliessen in den kantonalen Richtplan ein.
 
 E 15.2 Elektrische Übertragungs- und Verteilnetze
@@ -1945,15 +1897,13 @@ Dies in folgenden Gebieten:
 
 - c. in den BLN-Gebieten.
 
-E 15.2.2 Der Bund und die Leitungsbetreiber ziehen den Kanton frühzeitig in die Planung und Evaluation von neuen Trassees und Leistungserhöhungen von elektrischen Übertragungsleitungen ein.
+E 15.2.2 Der Bund und die Leitungsbetreiber ziehen den Kanton frühzeitig in die Planung und Evaluation von neuen Trassees und Leistungserhöhungen von elektrischen Übertragungsleitungen ein. Zukunftsweisende Technologien sind anzuwenden.
 
-Zukunftsweisende Technologien sind anzuwenden.
+E 15.2.3 Die Gemeinden prüfen ihre unbebauten Bauzonen auf die minimalen Abstände von Hochspannungsleitungen und Unterwerken und veranlassen Auszonungen, raumplanerische Optimierung oder Verlegungen der Leitungen in enger Zusammenarbeit mit den Leitungsbetreibern. Im Rahmen von Bebauungsplänen oder Arealbebauungen ist der Sorge vor nichtionisierenden Strahlen grosses Gewicht beizumessen.
 
-E 15.2.3 Die Gemeinden prüfen ihre unbebauten Bauzonen auf die minimalen Abstände von Hochspannungsleitungen und Unterwerken und veranlassen Auszonungen, raumplanerische Optimierung oder Verlegungen der Leitungen in enger Zusammenarbeit mit den Leitungsbetreibern.
+E 15.2.4 Der Kanton setzt sich beim Bund und den Leitungsbetreibern dafür ein, dass bei bestehenden Leitungen alle wirtschaftlich tragbaren und technisch möglichen Massnahmen zur Reduktion der Belastung der Bevölkerung ergriffen werden. Der Kanton verfolgt den technologischen Fortschritt
 
-Im Rahmen von Bebauungsplänen oder Arealbebauungen ist der Sorge vor nichtionisierenden Strahlen grosses Gewicht beizumessen.
-
-E 15.2.4 Der Kanton setzt sich beim Bund und den Leitungsbetreibern dafür ein, dass bei bestehenden Leitungen alle wirtschaftlich tragbaren und technisch möglichen Massnahmen zur Reduktion der Belastung der Bevölkerung ergriffen werden. Der Kanton verfolgt den technologischen Fortschritt bei Übertragungsleitungen.
+bei Übertragungsleitungen.
 
 E 15.2.5 Folgende Vorhaben werden in den Richtplan aufgenommen:
 
@@ -1964,6 +1914,8 @@ Nr. Gemeinde Vorhaben Stand Planquadrat 2 Risch, Zug, Baar, Raumfreihaltung Erdv
 E 15.3 Wasserkraft
 
 E 15.3.1 Der Kanton und die Gemeinden setzen sich für den Erhalt und die Steigerung der Leistung der bestehenden Wasserkraftwerke ein. Bei einer Steigerung der Leistung der Wasserkraftwerke sind die Interessen des Natur- und Landschaftsschutzes und des Gewässerschutzes angemessen zu berücksichtigen.
+
+**Richtplantext Kap. L 5, L 7, L 8**
 
 E 15.4 Windkraft
 
@@ -1992,8 +1944,6 @@ E 15.5.3 Eine Anpassung des Richtplanes benötigen nur übergeordnete Leitungen.
 E 15.6 Geothermie
 
 E 15.6.1 Ein Geothermiekraftwerk bedarf einer Festsetzung im kantonalen Richtplan. Die Standorte für die oberirdischen Bauten und Anlagen sind in bestehenden Bauzonen, angrenzend an Bauzonen oder im Umfeld von grossen Infrastrukturanlagen zu realisieren. In BLN-Gebieten und Moorlandschaften werden für Geothermiekraftwerke keine neuen Zonen ausgeschieden.
-
-**Richtplantext Kap. L 5, L 7, L 8**
 
 E 15.7 Sonnenenergie
 
@@ -2041,20 +1991,18 @@ P 3 Subventionierung durch den Bund
 
 P 3.1 Anerkennung und Mitfinanzierung durch den Bund
 
-P 3.1.1 Der Bund anerkennt das Kapitel P des kantonalen Richtplanes als Agglomerationsprogramm im Sinne der Agglomerationspolitik des Bundes.
+P 3.1.1 a.1 Der Bund anerkennt das Kapitel P des kantonalen Richtplanes als Agglomerationsprogramm im Sinne der Agglomerationspolitik des Bundes.
 
 P 3.1.2 Der Kanton setzt sich beim Bund zur Verbesserung des Agglomerationsverkehrs für die Mitfinanzierung von Projekten in den folgenden Bereichen ein:
 
 - a. Öffentlicher Verkehr: Busnetz als leistungsfähiges und zuverlässiges Feinverteilernetz; ZVB-Hauptstützpunkt;
 
-- b. Fuss- und Veloverkehr: Netzergänzungen zur Stärkung des Fuss- und Veloverkehrs in der Agglomeration;
+- b. Fuss- und Veloverkehr: Netzergänzungen zur Stärkung des Fuss- und Veloverkehrs in der
+
+Agglomeration;
 
 - c. Verkehrssicherheit: bauliche Massnahmen zur Förderung der Verkehrssicherheit;
 
-**P Agglomerationsprogramm**
-
 - d. Aufwertung des Strassenraums: Umgestaltung und Aufwertung der Strassenräume in der Agglomeration;
-
-**damit das Kapitel P auf eine Seite passt, wurden die Abstände nach den Titel 2. Ebene von 4 auf 2 mm reduziert**
 
 - e. allfällig weitere Projekte.
