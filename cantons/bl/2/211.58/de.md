@@ -4,13 +4,13 @@ number: "211.58"
 title: Kantonale Verordnung über Geoinformation
 short: KGeoIV
 language: de
-version: 2022-03-01
-valid_until: 2023-07-07
-version_adopted: 2022-01-25
+version: 2023-07-08
+valid_until: 2024-06-30
+version_adopted: 2023-06-27
 adopted: 2008-06-17
 in_force: 2008-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.58"
-pdf: "https://bl.clex.ch/api/de/versions/3256/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3645/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3256/pdf_file"
 
 (KGeoIV)
 
-Vom 17.06.2008 (Stand 01.03.2022)
+Vom 17.06.2008 (Stand 08.07.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -347,25 +347,23 @@ beschliesst:
 
 <sup>1</sup> Die Abgabe von Geobasisdaten erfolgt zentral durch die GIS-Fachstelle oder durch die für die Erhebung, Nachführung und Verwaltung der entsprechenden Geobasisdaten zuständigen Stellen.
 
-<sup>2</sup> Die Datenabgabe kann auch über das kantonale Geoportal im Abrufverfahren erfolgen.
+<sup>2</sup> Die Datenabgabe kann auch über das kantonale Geoportal und die Plattform für Open Government Data im Abrufverfahren erfolgen.
 
 <sup>3</sup> Abgabestelle für die Daten der amtlichen Vermessung ist für lokale Bezüge in der Regel die zuständige Nachführungsgeometerin oder der Nachführungsgeometer. Datenbezüge für die kantonale Verwaltung und deren Projektbeauftragte sowie über gemeindeübergreifende Gebiete oder in Kombination mit Geodaten anderer Sachbereiche erfolgen durch die GIS-Fachstelle.
 
 #### § 28
 
-**Voraussetzungen für eine Datenabgabe**
-
-<sup>1</sup> Voraussetzung für eine Datenabgabe bildet das Akzeptieren der Nutzungsbedingungen durch die Datenbezügerin oder den Datenbezüger.
+**…**
 
 #### § 29
 
-**Weitergabe der Geobasisdaten**
+**Nutzung**
 
 <sup>1</sup> Die Datenbezugsstelle kann innerhalb eines Projektes die Daten an ihre Projektpartnerinnen und -partner weitergeben.
 
 <sup>2</sup> Bei der Weitergabe der Geobasisdaten gehen alle Verpflichtungen der Datenbezugsstelle zusätzlich auf die empfangenden Dritten über.
 
-<sup>3</sup> Geobasisdaten dürfen nur mit der Angabe der Quelle weitergegeben werden.
+<sup>3</sup> Geobasisdaten dürfen nur mit der Angabe der Quelle veröffentlicht oder weitergegeben werden.
 
 #### § 30
 
@@ -382,6 +380,10 @@ beschliesst:
 <sup>2</sup> Das Urheberrecht an den kommunalen Geobasisdaten liegt bei der zuständigen Gemeinde.
 
 <sup>3</sup> Die Aufschaltung der Geobasisdaten im öffentlichen Datennetz erfolgt ohne Gewähr und hat keinerlei Rechtswirkung. Verbindlich sind einzig die von den zuständigen Stellen beglaubigten Dokumente.
+
+<sup>4</sup> Aus technischen Gründen kann die Richtigkeit, Vollständigkeit und Aktualität der Daten nicht garantiert werden.
+
+<sup>5</sup> Der Kanton Basel-Landschaft übernimmt für materielle oder immaterielle Schäden, welche aus dem Zugriff auf die oder der Nutzung bzw. Nichtnutzung der veröffentlichten Daten oder durch technische Störungen entstanden sind, keine Haftung.
 
 ## 5 Finanzierung
 
