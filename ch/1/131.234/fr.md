@@ -4,11 +4,11 @@ title: "Constitution de la République et canton de Genève, du 14 octobre 2012 
 short: Cst-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: fr
-version: 2023-03-06
+version: 2023-07-08
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230306-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230306/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230708-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230708/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230306/fr"
 
 (Cst-GE)
 
-du 14 octobre 2012 (État le 6 mars 2023)[^t-1]
+du 14 octobre 2012 (État le 8 juillet 2023)[^t-1]
 
-[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 **Préambule**
 
@@ -94,7 +94,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 **Armoiries et devise**
 
 <table>
-<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/fr/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/fr/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -212,6 +212,20 @@ Toute personne a droit à la liberté personnelle, à la sécurité ainsi qu’�
 <sup>1</sup> Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et de ses communications.
 
 <sup>2</sup> Toute personne a le droit d’être protégée contre l’emploi abusif des données qui la concernent.
+
+#### Art. 21A
+
+**Droit à l’intégrité numérique**[^21A-1]
+
+<sup>1</sup> Toute personne a le droit à la sauvegarde de son intégrité numérique.
+
+<sup>2</sup> L’intégrité numérique inclut notamment le droit d’être protégé contre le traitement abusif des données liées à sa vie numérique, le droit à la sécurité dans l’espace numérique, le droit à une vie hors ligne ainsi que le droit à l’oubli.
+
+<sup>3</sup> Le traitement des données personnelles dont la responsabilité incombe à l’État ne peut s’effectuer à l’étranger que dans la mesure où un niveau de protection adéquat est assuré.
+
+<sup>4</sup> L’État favorise l’inclusion numérique et sensibilise la population aux enjeux du numérique. Il s’engage en faveur du développement de la souveraineté numérique de la Suisse et collabore à sa mise en œuvre.
+
+[^21A-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 8 juil. 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 22
 
@@ -359,6 +373,14 @@ La liberté d’association est garantie.
 
 Le droit au logement est garanti. Toute personne dans le besoin a droit d’être logée de manière appropriée.
 
+#### Art. 38A
+
+**Droit à l’alimentation**[^38A-1]
+
+Le droit à l’alimentation est garanti. Toute personne a droit à une alimentation adéquate, ainsi que d’être à l’abri de la faim.
+
+[^38A-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 8 juil. 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+
 #### Art. 39
 
 **Droit à un niveau de vie suffisant**
@@ -463,7 +485,7 @@ Le droit d’utiliser le domaine public gratuitement afin de récolter des signa
 
 <sup>3</sup> Sont titulaires du droit d’élire, de voter et de signer des initiatives et des demandes de référendum sur le plan communal les personnes de nationalité étrangère âgées de 18 ans révolus qui ont leur domicile légal en Suisse depuis huit ans au moins.
 
-<sup>4</sup> ...[^48-1]
+<sup>4</sup> …[^48-1]
 
 [^48-1]: Abrogé en [votation populaire du 29 nov. 2020](http://www.admin.ch/ch/f/pore/va/20201129/index.html), avec effet au 19 déc. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
@@ -540,7 +562,7 @@ Le corps électoral communal élit:
 
 <sup>5</sup> Si le nombre de candidatures est égal au nombre de sièges à pourvoir, l’élection est tacite. Cette règle ne s’applique pas au premier tour de l’élection du Conseil d’État et de la députation genevoise au Conseil des États.[^55-1]
 
-[^55-1]: Accepté en [votation populaire du 25 sept. 2016](http://www.admin.ch/ch/f/pore/va/20160925/index.html), en vigueur depuis le 22 oct. 2016. Garantie de l’Ass. féd. du 5 déc. 2017 ([FF 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 4, [2017 5481](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^55-1]: Accepté en [votation populaire du 25 sept. 2016](http://www.admin.ch/ch/f/pore/va/20160925/index.html), en vigueur depuis le 22 oct. 2016. Garantie de l’Ass. féd. du 5 déc. 2017 ([FF 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 4; [2017 5481](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ### Chapitre III Initiative populaire cantonale
 
@@ -554,7 +576,7 @@ Le corps électoral communal élit:
 
 <sup>3</sup> Une initiative constitutionnelle ne peut être transformée en initiative législative postérieurement à la publication de son lancement.
 
-[^56-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^56-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6, [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 #### Art. 57
 
@@ -564,7 +586,7 @@ Le corps électoral communal élit:
 
 <sup>2</sup> L’initiative peut être formulée ou non formulée. Une initiative partiellement formulée est considérée comme non formulée.
 
-[^57-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^57-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6, [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 #### Art. 58
 
@@ -669,7 +691,7 @@ Sont également soumises au corps électoral si le référendum est demandé par
 
 <sup>3</sup> Les objets visés au présent article sont également soumis au corps électoral si le Grand Conseil le décide à la majorité des deux tiers des voix exprimées, les abstentions n’étant pas prises en considération, mais au moins à la majorité de ses membres.
 
-[^67-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^67-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6, [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 #### Art. 68
 
@@ -711,7 +733,7 @@ Peuvent demander au conseil municipal de délibérer sur un objet déterminé:
 
 <sup>3</sup> Les art. 58 et 59 sont applicables.
 
-[^71-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^71-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6, [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 #### Art. 72
 
@@ -779,7 +801,7 @@ Les délibérations des conseils municipaux sont soumises au corps électoral co
 
 <sup>2</sup> L’art. 68 est applicable.
 
-[^77-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^77-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 21 oct. 2017. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6, [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 #### Art. 78
 
@@ -1048,7 +1070,7 @@ Les membres du Conseil d’État exercent librement leur mandat. Ils rendent pub
 
 <sup>2</sup> Toute modification de la composition des départements est soumise pour approbation au Grand Conseil. Ce dernier se détermine par voie de résolution à la séance qui suit la proposition du Conseil d’État.
 
-<sup>3</sup> ...[^106-1]
+<sup>3</sup> …[^106-1]
 
 [^106-1]: Abrogé en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), avec effet au 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
@@ -1884,9 +1906,9 @@ L’État assure la sécurité et l’ordre public.
 
 <sup>4</sup> Il soutient la formation et l’emploi dans l’agriculture.[^187-3]
 
-[^187-1]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^187-2]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^187-3]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-1]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-2]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-3]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 188
 
@@ -1940,7 +1962,7 @@ L’État veille à l’information et à la protection des consommatrices et co
 
 <sup>4</sup> L’Aéroport international de Genève rend compte aux autorités cantonales et communales de la façon dont les objectifs précités sont planifiés puis mis en œuvre au regard du cadre et des limites définis par la Confédération. Il soumet en particulier régulièrement au Grand Conseil pour approbation un rapport relatif aux actions entreprises et principaux objectifs à moyen et long terme.
 
-[^191A-1]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^191A-1]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 192
 
@@ -2180,7 +2202,7 @@ L’État prend en compte les exigences de la solidarité intergénérationnelle
 
 <sup>4</sup> Le canton et les communes élaborent et mettent en œuvre une stratégie de cofinancement pour la création artistique et les institutions culturelles.
 
-[^216-1]: Accepté en [votation populaire du 19 mai 2019](http://www.admin.ch/ch/f/pore/va/20190519/index.html), en vigueur depuis le 15 juin 2019. Garantie de l’Ass. féd. du 11 mars 2020 ([FF 2020 4557](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 5 [139](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^216-1]: Accepté en [votation populaire du 19 mai 2019](http://www.admin.ch/ch/f/pore/va/20190519/index.html), en vigueur depuis le 15 juin 2019. Garantie de l’Ass. féd. du 11 mars 2020 ([FF 2020 4557](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 5, [139](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 #### Art. 217
 
@@ -2625,6 +2647,7 @@ Droit de cité v. Citoyen
 
 Droits fondamentaux
 
+- – alimentation 38A
 - – contenu 14 à 40
 - – égalité v. Égalité
 - – évaluation 42
@@ -2643,6 +2666,7 @@ Droits fondamentaux
 - – garantie 8
 - – garantie de la propriété 34
 - – garanties de procédure 40
+- – intégrité numérique 21A
 - – interdiction de l’arbitraire et protection de la bonne foi 17
 - – liberté d’association 31
 - – liberté de conscience et de croyance 25

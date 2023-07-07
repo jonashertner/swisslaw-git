@@ -4,11 +4,11 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2023-03-06
+version: 2023-07-08
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230306-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230306/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230708-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230708/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,10 +19,10 @@ Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 6 marzo 2023)[^t-2]
+del 14 ottobre 2012 (Stato 8 luglio 2023)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 **Preambolo**
 
@@ -97,7 +97,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/it/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -215,6 +215,20 @@ Ognuno ha diritto alla libertà personale, alla sicurezza e alla libertà di mov
 <sup>1</sup> Ognuno ha diritto al rispetto della sua vita privata e familiare, del suo domicilio, della sua corrispondenza e delle sue comunicazioni.
 
 <sup>2</sup> Ognuno ha diritto d’essere protetto da un impiego abusivo dei suoi dati personali.
+
+#### Art. 21A
+
+**Diritto all’integrità digitale**[^21A-1]
+
+<sup>1</sup> Ognuno ha diritto alla tutela della sua integrità digitale.
+
+<sup>2</sup> L’integrità digitale include in particolare il diritto d’essere protetto da un trattamento abusivo dei dati legati alla propria vita digitale, il diritto alla sicurezza nello spazio digitale, il diritto a una vita al di fuori di esso nonché il diritto all’oblio.
+
+<sup>3</sup> Il trattamento di dati personali la cui responsabilità incombe allo Stato può essere effettuato all’estero soltanto se è garantito un livello di protezione adeguato.
+
+<sup>4</sup> Lo Stato promuove l’inclusione digitale e sensibilizza la popolazione alle sfide della digitalizzazione. Si impegna a favore dello sviluppo della sovranità digitale della Svizzera e collabora alla sua attuazione.
+
+[^21A-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dall’8 lug. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 22
 
@@ -361,6 +375,14 @@ La libertà d’associazione è garantita.
 **Diritto all’alloggio**
 
 Il diritto all’alloggio è garantito. Chiunque si trovi in stato di bisogno ha il diritto di essere alloggiato in modo appropriato.
+
+#### Art. 38A
+
+**Diritto all’alimentazione**[^38A-1]
+
+Il diritto all’alimentazione è garantito. Ognuno ha diritto a un’alimentazione adeguata e di essere al riparo dalla fame.
+
+[^38A-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dall’8 lug. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 39
 
@@ -2790,8 +2812,10 @@ Diritto(i)
   - – a un ambiente sano 19
   - – a un livello di vita adeguato 39
   - – all’alloggio 38
+  - – all’alimentazione 38A
   - – all’informazione 28
   - – all’integrità 18
+  - – all’integrità digitale 21A
   - – alla formazione 24
   - – alla vita 18
   - – altri modi di vita 22

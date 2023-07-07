@@ -4,11 +4,11 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2023-03-06
+version: 2023-07-08
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230306-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230306/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230708-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230708/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,10 +19,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230306/de"
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 6. März 2023)[^t-2]
+vom 14. Oktober 2012 (Stand am 8. Juli 2023)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 **Präambel**
 
@@ -97,7 +97,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/de/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -215,6 +215,20 @@ Jede Person hat das Recht auf persönliche Freiheit, Sicherheit und Bewegungsfre
 <sup>1</sup> Jede Person hat Anspruch auf Achtung ihres Privat- und Familienlebens, ihrer Wohnung sowie ihres Brief- und Fernmeldeverkehrs.
 
 <sup>2</sup> Jede Person hat Anspruch auf Schutz vor Missbrauch ihrer persönlichen Daten.
+
+#### Art. 21A
+
+**Recht auf digitale Integrität**[^21A-1]
+
+<sup>1</sup> Jede Person hat das Recht auf den Schutz ihrer digitalen Integrität.
+
+<sup>2</sup> Die digitale Integrität schliesst insbesondere das Recht ein, gegen die missbräuchliche Bearbeitung von Daten ihres digitalen Lebens geschützt zu sein, das Recht auf Sicherheit im digitalen Raum, das Recht auf ein Offline-Leben sowie das Recht auf Vergessen.
+
+<sup>3</sup> Die Bearbeitung von Personendaten, die in der Verantwortung des Staates liegt, darf nur im Ausland erfolgen, soweit ein angemessener Schutz gewährleistet ist.
+
+<sup>4</sup> Der Staat fördert die digitale Integration und sensibilisiert die Bevölkerung für die digitalen Herausforderungen. Er setzt sich für die Entwicklung der digitalen Souveränität der Schweiz ein und wirkt bei deren Umsetzung mit.
+
+[^21A-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 8. Juli 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 3, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 22
 
@@ -361,6 +375,14 @@ Die Vereinigungsfreiheit ist gewährleistet.
 **Recht auf Wohnung**
 
 Das Recht auf Wohnung ist gewährleistet. Jede Person, die in Not ist, hat Anspruch auf angemessene Unterkunft.
+
+#### Art. 38A
+
+**Recht auf Ernährung**[^38A-1]
+
+Das Recht auf Ernährung ist gewährleistet. Jede Person hat das Recht auf angemessene Ernährung sowie davor geschützt zu sein, Hunger zu leiden.
+
+[^38A-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 8. Juli 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 3, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 39
 
@@ -2520,6 +2542,16 @@ Departemente 106, 114
 
 Devise 7
 
+Digitale
+
+- – digitaler Raum 21A<sup>2</sup>
+- – digitales Leben 21A<sup>2</sup>
+- – Herausforderung 21A<sup>4</sup>
+- – Integration 21A<sup>4</sup>
+- – Integrität 21A
+- – Information 220<sup>2</sup>
+- – Souveränität 21A<sup>4</sup>
+
 Diskriminierungsverbot 15<sup>2</sup>
 
 Dringlichkeit
@@ -2541,6 +2573,8 @@ Eigentum
 - – Garantie 34
 
 Einbürgerung 210
+
+Ernährung, Recht auf 38A
 
 Energie 167–170
 
@@ -2846,6 +2880,7 @@ Rechte
   - – Wählbarkeit s. Wählbarkeit
 
 - – Grundrechte
+  - – digitale Integrität 43
   - – Einschränkungen 43
   - – Garantie 8
   - – Inhalt 14–40
@@ -2865,8 +2900,10 @@ Rechte
   - – Non-refoulement 18<sup>3</sup>
   - – Persönliche Freiheit 20
   - – Petitionsrecht 33
+  - – Recht auf digitale Integrität 43
   - – Recht auf eine gesunde Umwelt 19
   - – Recht auf einen angemessenen Lebensstandard 39
+  - – Recht auf Ernährung 38A
   - – Recht auf Wohnung 38
   - – Rechte der Behinderten 16
   - – Rechte des Kindes 23
