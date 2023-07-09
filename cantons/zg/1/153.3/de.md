@@ -4,13 +4,13 @@ number: "153.3"
 title: Delegationsverordnung
 short: DelV
 language: de
-version: 2023-07-01
-valid_until: 2023-07-09
-version_adopted: 2023-05-09
+version: 2023-07-10
+valid_until: 2024-05-30
+version_adopted: 2023-06-06
 adopted: 2017-11-28
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.3"
-pdf: "https://bgs.zg.ch/api/de/versions/2433/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2437/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2433/pdf_file"
 
 (DelV)
 
-Vom 28. November 2017 (Stand 1. Juli 2023)
+Vom 28. November 2017 (Stand 10. Juli 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -244,7 +244,7 @@ beschliesst:
 - 8\. Vollzug des Konkordats über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte vom 12. Mai 1966[^7-6] (§ 2 Abs. 2 des Kantonsratsbeschlusses über den Beitritt zum Konkordat über die nicht eidgenössisch konzessionierten Luftseilbahnen und Skilifte vom 12. Mai 1966[^7-7]);
 - 9\. Festlegung der Einzugsgebiete von Abfallanlagen auch für andere Abfälle (§ 17 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über den Umweltschutz (EG USG) vom 29. Januar 1998[^7-8]);
 - 10\. Öffentlicherklärung von Gewässern und die Nachführung des Verzeichnisses über die öffentlichen Oberflächengewässer im Anhang 1 des Gesetzes über die Gewässer (GewG) (§ 7 Abs. 2 und 4 des Gesetzes über die Gewässer (GewG) vom 25. November 1999[^7-9]);
-- 11\. Kreditfreigabe und Zeichnungsberechtigung für Verträge bis 1,5 Millionen Franken (inkl. 8 % MWST), mit Ausnahme der allgemeinen Projektierungen (§ 3 Abs. 3 des Kantonsratsbeschlusses über das Strassenbauprogramm 2014–2022 (erstreckt bis 2026) vom 28. August 2014[^7-10]);
+- 11\. Kreditfreigabe und Zeichnungsberechtigung für Verträge bis 3,0 Millionen Franken (inkl. MWST) (§ 4 Abs. 2 des Kantonsratsbeschlusses über das Strassenbauprogramm 2023–2030 vom 30. März 2023[^7-10]);
 - 12\. Erlass von Belegungsvorschriften (§ 7 Abs. 4 des Gesetzes über die Förderung von preisgünstigem Wohnraum (Wohnraumförderungsgesetz, WFG) vom 30. Januar 2003[^7-11]);
 - 13\. Erlass der Grundsätze im Verbundtarif (§ 4 Abs. 2 Bst. e des Gesetzes über den öffentlichen Verkehr vom 22. Februar 2007[^7-12]).
 
@@ -257,7 +257,7 @@ beschliesst:
 [^7-7]: BGS [752.5-A1](https://bgs.zg.ch/data/752.5-A1/de)
 [^7-8]: BGS [811.1](https://bgs.zg.ch/data/811.1/de)
 [^7-9]: BGS [731.1](https://bgs.zg.ch/data/731.1/de)
-[^7-10]: BGS [751.12](https://bgs.zg.ch/data/751.12/de)
+[^7-10]: BGS [751.xx](https://bgs.zg.ch/data/751.xx/de)
 [^7-11]: BGS [851.211](https://bgs.zg.ch/data/851.211/de)
 [^7-12]: BGS [751.31](https://bgs.zg.ch/data/751.31/de)
 
