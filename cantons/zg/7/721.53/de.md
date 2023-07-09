@@ -4,13 +4,13 @@ number: "721.53"
 title: Submissionsverordnung
 short: SubV
 language: de
-version: 2018-01-01
-valid_until: 2023-07-09
-version_adopted: 2017-10-31
+version: 2023-07-10
+valid_until: 2024-02-29
+version_adopted: 2023-06-06
 adopted: 2024-02-20
 in_force: 2024-03-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/721.53"
-pdf: "https://bgs.zg.ch/api/de/versions/1659/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1659/pdf_file"
 
 (SubV)
 
-Vom 20. September 2005 (Stand 1. Januar 2018)
+Vom 20. September 2005 (Stand 10. Juli 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -466,13 +466,13 @@ beschliesst:
 - c) …
 - d) bei einem Auftragswert über Fr. 500'000.– der Regierungsrat;
 - e) …
-- f) bei einem Auftragswert zwischen Fr. 500'000.– und Fr. 1,5 Mio. die Baudirektion für Strassenbauvorhaben gemäss dem jeweiligen Kantonsratsbeschluss über das Strassenbauprogramm, auf welchen sich das Projekt stützt[^40-1].
+- f) bei einem Auftragswert zwischen Fr. 500'000.– und Fr. 3,0 Mio. die Baudirektion für Strassenbauvorhaben gemäss dem jeweiligen Kantonsratsbeschluss über das Strassenbauprogramm, auf welchen sich das Projekt stützt[^40-1].
 
 <sup>2</sup> Die Direktion ist berechtigt, ihre Vergabekompetenz bis Fr. 250 000.– zu delegieren.
 
 <sup>3</sup> Die anderen Auftraggeberinnen und Auftraggeber, die unter das Submissionsgesetz fallen, bestimmen die Zuschlagskompetenzen selber.
 
-[^40-1]: BGS [751.12](https://bgs.zg.ch/data/751.12/de)
+[^40-1]: BGS [751.xx](https://bgs.zg.ch/data/751.xx/de)
 
 #### § 41
 
