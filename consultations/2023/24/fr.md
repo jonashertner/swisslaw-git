@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la coordination des transports en vue de la maîtrise de situations exceptionnelles (OCTSE)
 document: Projet mis en consultation
 language: fr

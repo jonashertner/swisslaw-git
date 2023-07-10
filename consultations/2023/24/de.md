@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Koordination des Verkehrs zur Bewältigung von Ausnahmesituationen (VKOVA)
 document: Vernehmlassungsvorlage
 language: de
