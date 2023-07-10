@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: "Ordonnance du 22 juin 2005 instituant des mesures à l'encontre de la République démocratique du Congo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: fr
-version: 2023-06-01
+version: 2023-07-11
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-442-20230601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20230711/fr/xml/fedlex-data-admin-ch-eli-cc-2005-442-20230711-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20230711/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République démocratique du Congo
 
-du 22 juin 2005 (État le 1<sup>er</sup> juin 2023)
+du 22 juin 2005 (État le 11 juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -202,5 +202,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 21 fév. 2018 ([RO 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Mise à jour par le ch. I des O du DEFR du 23 avr. 2018 ([RO 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), du 17 janv. 2019 ([RO 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), du 19 déc. 2019 ([RO 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), du 21 déc. 2020 ([RO 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), du 22 déc. 2021 ([RO 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), du 19 sept. 2022 ([RO 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)) et du 19 déc. 2022, en vigueur depuis le 20 déc. 2022 à 18 heures ([RO 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/831](https://fedlex.data.admin.ch/eli/oc/2022/831) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 21 fév. 2018 ([RO 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Mise à jour par le ch. I des O du DEFR du 23 avr. 2018 ([RO 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), du 17 janv. 2019 ([RO 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), du 19 déc. 2019 ([RO 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), du 21 déc. 2020 ([RO 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), du 22 déc. 2021 ([RO 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), du 19 sept. 2022 ([RO 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), du 19 déc. 2022 ([RO 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)) et du 10 juil. 2023, en vigueur depuis le 11 juil. 2023 à 18 heures ([RO 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/370](https://fedlex.data.admin.ch/eli/oc/2023/370) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
