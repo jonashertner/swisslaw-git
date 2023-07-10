@@ -3,11 +3,11 @@ sr: "0.192.110.33"
 title: "Terzo protocollo addizionale del 6 marzo 1959 all'Accordo generale su i privilegi e le immunità del Consiglio d'Europa (con Statuto del Fondo di ristabilimento e Allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/702_702_702"
 language: it
-version: 2019-04-18
+version: 2023-07-11
 adopted: 1959-03-06
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/702_702_702/20190418/it/xml/fedlex-data-admin-ch-eli-cc-1974-702_702_702-20190418-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/702_702_702/20190418/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/702_702_702/20230711/it/xml/fedlex-data-admin-ch-eli-cc-1974-702_702_702-20230711-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/702_702_702/20230711/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Istrumento d’adesione depositato dalla Svizzera il 13 dicembre 1973
 
 Entrato in vigore per la Svizzera il lo gennaio 1974
 
-(Stato 18 aprile 2019)
+(Stato 11 luglio 2023)
 
 [^t-1]: Art. 2 cpv. 1 del DF del 27 set. 1973 ([RU 1974 700](https://fedlex.data.admin.ch/eli/oc/1974/700_700_700)).
 
@@ -178,10 +178,11 @@ Ogni Governo che ha deposto uno strumento d’adesione prima dell’entrata in v
 
 *In fede di che,* i plenipotenziari sottoscritti, hanno firmato il presente Protocollo. Fatto a Strasburgo, il 6 marzo 1959, nelle lingue francese e inglese, i cui testi fanno egualmente fede, in un solo esemplare, che sarà depositato nell’archivio del Consiglio d’Europa. Il Segretario Generale ne comunicherà copie, certificate conformi, a tutti i Governi firmatari o aderenti. (Seguono le firme)
 
-Campo d’applicazione del Protocollo il 18 aprile 2019**[^t-2]**
+Campo d’applicazione del Protocollo l’11 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Andorra\*</td><td>20 marzo</td><td>2023 A</td><td>20 marzo</td><td>2023</td></tr>
 <tr><td>Belgio</td><td>26 ottobre</td><td>1962</td><td>15 marzo</td><td>1963</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>17 novembre</td><td>2005 A</td><td>17 novembre</td><td>2005</td></tr>
 <tr><td>Bulgaria</td><td>31 ottobre</td><td>2008 A</td><td>31 ottobre</td><td>2008</td></tr>
@@ -207,6 +208,7 @@ Campo d’applicazione del Protocollo il 18 aprile 2019**[^t-2]**
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>8 agosto</td><td>1978 A</td><td>8 agosto</td><td>1978</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>17 dicembre</td><td>2018 A</td><td>17 dicembre</td><td>2018</td></tr>
 <tr><td>Romania</td><td>14 febbraio</td><td>2017 A</td><td>14 febbraio</td><td>2017</td></tr>
+<tr><td>San Marino</td><td>26 agosto</td><td>2020 A</td><td>26 agosto</td><td>2020</td></tr>
 <tr><td>Slovacchia</td><td>21 ottobre</td><td>2016 A</td><td>21 ottobre</td><td>2016</td></tr>
 <tr><td>Slovenia</td><td>18 marzo</td><td>1997 A</td><td>18 marzo</td><td>1997</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>16 dicembre</td><td>1996 A</td><td>16 dicembre</td><td>1996</td></tr>
@@ -214,14 +216,14 @@ Campo d’applicazione del Protocollo il 18 aprile 2019**[^t-2]**
 <tr><td>Svizzera<sup>\*</sup></td><td>13 dicembre</td><td>1973 A</td><td>1° gennaio</td><td>1974</td></tr>
 <tr><td>Turchia</td><td>16 gennaio</td><td>1975</td><td>16 gennaio</td><td>1975</td></tr>
 <tr><td>Ungheria</td><td>2 settembre</td><td>2004 A</td><td>2 settembre</td><td>2004</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, accetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
 </table>
 
 ## Riserve e dichiarazioni
 
-[^t-2]: [RU 1974 702](https://fedlex.data.admin.ch/eli/oc/1974/702_702_702), [1977 38](https://fedlex.data.admin.ch/eli/oc/1977/38_38_38)[1457](https://fedlex.data.admin.ch/eli/oc/1977/1457_1457_1457), [1982 1288](https://fedlex.data.admin.ch/eli/oc/1982/1288_1288_1288), [1990 536](https://fedlex.data.admin.ch/eli/oc/1990/536_536_536), [1994 1088](https://fedlex.data.admin.ch/eli/oc/1994/1088_1088_1088), [2004 3453](https://fedlex.data.admin.ch/eli/oc/2004/461), [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192), [2012 5599](https://fedlex.data.admin.ch/eli/oc/2012/650)e [2019 1329](https://fedlex.data.admin.ch/eli/oc/2019/255). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1974 702](https://fedlex.data.admin.ch/eli/oc/1974/702_702_702); [1977 38](https://fedlex.data.admin.ch/eli/oc/1977/38_38_38), [1457](https://fedlex.data.admin.ch/eli/oc/1977/1457_1457_1457); [1982 1288](https://fedlex.data.admin.ch/eli/oc/1982/1288_1288_1288); [1990 536](https://fedlex.data.admin.ch/eli/oc/1990/536_536_536); [1994 1088](https://fedlex.data.admin.ch/eli/oc/1994/1088_1088_1088); [2004 3453](https://fedlex.data.admin.ch/eli/oc/2004/461); [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192); [2012 5599](https://fedlex.data.admin.ch/eli/oc/2012/650); [2019 1329](https://fedlex.data.admin.ch/eli/oc/2019/255); [2023 374](https://fedlex.data.admin.ch/eli/oc/2023/374). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
-Svizzera**[^scopeu1-lvlu1-1]**
+Svizzera[^scopeu1-lvlu1-1]
 
 Articolo 7 comma 2 per quel che concerne l’esonero delle imposte, la Confederazione Svizzera non è in grado d’accordare ai prestiti del Fondo di ristabilimento vantaggi superiori a quelli spettanti ai propri prestiti. Il comma 2 dell’articolo 7 non comporta quindi, per questo Governo, alcun obbligo d’emanare i disposti ivi previsti.
 
@@ -523,7 +525,7 @@ Il Segretario Generale del Consiglio d’Europa comunicherà una copia, certific
 
 Allegato
 
-## Tabella dei contributi al «Fondo di Ristabilimento del Consiglio d’Europa» sulla base di 10 milioni di dollari****
+## Tabella dei contributi al «Fondo di Ristabilimento del Consiglio d’Europa» sulla base di 10 milioni di dollari
 
 [^declu3-lvlu1-1]
 
@@ -551,7 +553,7 @@ Allegato
 
 La percentuale di ripartizione è quella adottata per i contributi al Consiglio d’Europa.
 
-## Campo d’applicazione dello Statuto il 1° ottobre 2012****
+## Campo d’applicazione dello Statuto il 1° ottobre 2012
 
 [^declu3-lvlu2-1]
 

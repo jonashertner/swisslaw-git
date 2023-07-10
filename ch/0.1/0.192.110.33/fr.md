@@ -3,11 +3,11 @@ sr: "0.192.110.33"
 title: "Troisième Protocole additionnel du 6 mars 1959 à l'Accord général sur les privilèges et immunités du Conseil de l'Europe (avec statut du Fonds de réétablissement et annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/702_702_702"
 language: fr
-version: 2019-04-18
+version: 2023-07-11
 adopted: 1959-03-06
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/702_702_702/20190418/fr/xml/fedlex-data-admin-ch-eli-cc-1974-702_702_702-20190418-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/702_702_702/20190418/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/702_702_702/20230711/fr/xml/fedlex-data-admin-ch-eli-cc-1974-702_702_702-20230711-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/702_702_702/20230711/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,19 +26,19 @@ Instrument d’adhésion déposé par la Suisse le 13 décembre 1973
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 1974
 
-(Etat le 18 avril 2019)
+(État le 11 juillet 2023)
 
 [^t-1]: Art. 2 al. 1 de l’AF du 27 sept. 1973 ([RO 1974 700](https://fedlex.data.admin.ch/eli/oc/1974/700_700_700))
 
-Les Gouvernements signataires, Membres du Conseil de l’Europe, signataires de l’Accord général sur les privilèges et immunités du Conseil de l’Europe*[^ingress-1]* ou Parties à cet Accord et, en même temps, Membres du Fonds de Réétablissement du Conseil de l’Europe pour les réfugiés nationaux et les excédents de population;
+Les Gouvernements signataires, Membres du Conseil de l’Europe, signataires de l’Accord général sur les privilèges et immunités du Conseil de l’Europe[^ingress-1] ou Parties à cet Accord et, en même temps, Membres du Fonds de Réétablissement du Conseil de l’Europe pour les réfugiés nationaux et les excédents de population;
 
-vu les dispositions des art. 1 et 9 (g) du Statut dudit Fonds[^ingress-2];
+vu les dispositions des art. 1 et 9 (g) du Statut dudit Fonds[^ingress-2],
 
-vu l’art. 40 du Statut du Conseil de l’Europe[^ingress-3];
+vu l’art. 40 du Statut du Conseil de l’Europe[^ingress-3],
 
-désireux de préciser le régime juridique des biens, avoirs et opérations, ainsi que le statut juridique des organes et des agents du Fonds de Réétablissement;
+désireux de préciser le régime juridique des biens, avoirs et opérations, ainsi que le statut juridique des organes et des agents du Fonds de Réétablissement,
 
-considérant que, à ce sujet, il est nécessaire que la réalisation des objectifs statutaires du Fonds soit facilitée par la réduction aussi large que possible des charges fiscales qui pèsent directement ou indirectement sur les opérations du Fonds et qui retombent en définitive sur les bénéficiaires des prêts accordés par le Fonds;
+considérant que, à ce sujet, il est nécessaire que la réalisation des objectifs statutaires du Fonds soit facilitée par la réduction aussi large que possible des charges fiscales qui pèsent directement ou indirectement sur les opérations du Fonds et qui retombent en définitive sur les bénéficiaires des prêts accordés par le Fonds,
 
 désireux de compléter, en ce qui concerne le Fonds de Réétablissement, les dispositions de l’Accord général sur les privilèges et immunités du Conseil de l’Europe,
 
@@ -67,18 +67,18 @@ Le Fonds de Réétablissement du Conseil de l’Europe a la pleine personnalité
 
 #### Art. 2
 
-Toutes juridictions compétentes d’un Etat membre du Fonds ou d’un Etat où le Fonds a contracté ou garanti des emprunts peuvent connaître des litiges où le Fonds est partie défenderesse.
+Toutes juridictions compétentes d’un État membre du Fonds ou d’un État où le Fonds a contracté ou garanti des emprunts peuvent connaître des litiges où le Fonds est partie défenderesse.
 
 Toutefois:
 
-- (i) Aucune action ne pourra être intentée devant ces juridictions, soit contre le Fonds par un Etat membre ou par des personnes agissant pour le compte dudit Etat membre ou faisant valoir des droits cédés par ce dernier, soit par le Fonds contre un Etat membre ou contre lesdites personnes;
-- (ii) Les litiges nés de contrats d’emprunt ou de garantie d’emprunt conclus par le Fonds avec un Etat membre ou tout autre emprunteur agréé par cet Etat seront réglés par une procédure arbitrale à déterminer dans lesdits contrats. Les litiges nés de contrats de prêt ou de garantie signés par le Fonds seront réglés par recours à une procédure arbitrale dont les modalités sont définies par le Règlement des Prêts pris en application de l’art. 10, section 1 (d), du Statut du Fonds.
+- (i) Aucune action ne pourra être intentée devant ces juridictions, soit contre le Fonds par un État membre ou par des personnes agissant pour le compte dudit État membre ou faisant valoir des droits cédés par ce dernier, soit par le Fonds contre un État membre ou contre lesdites personnes;
+- (ii) Les litiges nés de contrats d’emprunt ou de garantie d’emprunt conclus par le Fonds avec un État membre ou tout autre emprunteur agréé par cet État seront réglés par une procédure arbitrale à déterminer dans lesdits contrats. Les litiges nés de contrats de prêt ou de garantie signés par le Fonds seront réglés par recours à une procédure arbitrale dont les modalités sont définies par le Règlement des Prêts pris en application de l’art. 10, section 1 (d), du Statut du Fonds.
 
 #### Art. 3
 
 Les biens et avoirs du Fonds, en quelque lieu qu’ils se trouvent et quels qu’en soient les détenteurs, seront à l’abri de toute forme de saisie, d’opposition ou d’exécution, avant que n’ait été rendu contre le Fonds un jugement exécutoire qui n’est plus susceptible d’être attaqué par les voies de recours ordinaires.
 
-L’exécution forcée, sur le territoire des Etats membres du Fonds, des sentences intervenues à la suite d’une procédure arbitrale visée à l’art. 2, al. 3, est poursuivie suivant les voies de droit en vigueur dans chacun de ces Etats et après qu’aura été apposée – sans autre contrôle que celui de la vérification de l’authenticité de ces sentences, de leur conformité aux règles de compétence et de procédure établies par le Règlement des Prêts du Fonds, ainsi que de l’absence de contradiction entre lesdites sentences et un jugement définitif intervenu dans le pays intéressé – la formule exécutoire usitée dans l’Etat sur le territoire duquel la sentence doit être exécutée. Chaque signataire notifiera, lors du dépôt de son instrument de ratification, aux autres signataires, par l’entremise du Secrétaire Général du Conseil de l’Europe, quelle est, d’après la législation de son pays, l’autorité compétente pour pourvoir à cette formalité.
+L’exécution forcée, sur le territoire des États membres du Fonds, des sentences intervenues à la suite d’une procédure arbitrale visée à l’art. 2, al. 3, est poursuivie suivant les voies de droit en vigueur dans chacun de ces États et après qu’aura été apposée – sans autre contrôle que celui de la vérification de l’authenticité de ces sentences, de leur conformité aux règles de compétence et de procédure établies par le Règlement des Prêts du Fonds, ainsi que de l’absence de contradiction entre lesdites sentences et un jugement définitif intervenu dans le pays intéressé – la formule exécutoire usitée dans l’État sur le territoire duquel la sentence doit être exécutée. Chaque signataire notifiera, lors du dépôt de son instrument de ratification, aux autres signataires, par l’entremise du Secrétaire Général du Conseil de l’Europe, quelle est, d’après la législation de son pays, l’autorité compétente pour pourvoir à cette formalité.
 
 #### Art. 4
 
@@ -88,7 +88,7 @@ Les bâtiments et locaux utilisés pour le fonctionnement des services du Fonds,
 
 #### Art. 5
 
-Dans l’exercice des droits prévus par cet article, le Fonds de Réétablissement tiendra compte de toute représentation qui lui sera faite par le Gouvernement de tout Etat membre.
+Dans l’exercice des droits prévus par cet article, le Fonds de Réétablissement tiendra compte de toute représentation qui lui sera faite par le Gouvernement de tout État membre.
 
 Dans la mesure nécessaire à l’accomplissement de son objectif statutaire, le Fonds de Réétablissement peut:
 
@@ -103,18 +103,18 @@ Les biens et avoirs du Fonds sont exempts de restrictions, réglementations, con
 
 Le Fonds de Réétablissement, ses avoirs, revenus et autres biens, sont exonérés de tous impôts directs.
 
-Le Fonds de Réétablissement est exonéré de tous impôts dans les Etats membres du Fonds sur les transactions et opérations relatives aux emprunts que le Fonds contracte pour en affecter le produit, conformément à son objet, aux besoins des réfugiés et des excédents de population et aux prêts qu’il consent ou qu’il garantit dans les conditions statutairement prévues.
+Le Fonds de Réétablissement est exonéré de tous impôts dans les États membres du Fonds sur les transactions et opérations relatives aux emprunts que le Fonds contracte pour en affecter le produit, conformément à son objet, aux besoins des réfugiés et des excédents de population et aux prêts qu’il consent ou qu’il garantit dans les conditions statutairement prévues.
 
 Aucune exonération n’est accordée au Fonds en ce qui concerne les impôts, taxes et droits qui ne constituent que la simple rémunération de services d’utilité publique.
 
-Les Gouvernements des Etats membres prennent, chaque fois qu’il leur est possible, les dispositions appropriées en vue:
+Les Gouvernements des États membres prennent, chaque fois qu’il leur est possible, les dispositions appropriées en vue:
 
 - (a) de l’exonération des impôts sur les revenus afférents aux intérêts des obligations émises ou des emprunts contractés par le Fonds;
 - (b) de la remise ou du remboursement du montant des droits indirects et des taxes entrant dans le prix des biens immobiliers ou mobiliers, ou dans celui des prestations de service, lorsque le Fonds, pour son usage officiel, effectue des achats importants ou bénéficie de services dont le prix comprend des droits et taxes de cette nature.
 
 Aucun impôt, de quelque nature que ce soit, ne sera perçu sur les valeurs ou obligations émises ou garanties par le Fonds (y compris tout dividende ou intérêt y afférent), quel qu’en soit le détenteur:
 
-- (a) si cet impôt constitue une mesure de discrimination contre une telle valeur ou obligation du seul fait qu’elle est émise ou garantie par le Fonds; ou
+- (a) si cet impôt constitue une mesure de discrimination contre une telle valeur ou obligation du seul fait qu’elle est émise ou garantie par le Fonds, ou
 - (b) si le seul fondement juridique d’un tel impôt est le lieu ou la devise dans laquelle la valeur ou l’obligation est émise ou garantie, rendue payable ou payée, ou encore l’emplacement du siège, de tout bureau ou centre d’opérations du Fonds.
 
 #### Art. 8
@@ -125,11 +125,11 @@ Le Fonds est exonéré de tous droits de douane, prohibitions et restrictions d�
 
 #### Art. 9
 
-Les organes visés à l’art. 8 du Statut du Fonds bénéficient sur le territoire de chaque Etat membre, pour leurs communications officielles, d’un traitement au moins aussi favorable que le traitement accordé par ce Membre aux missions diplomatiques de tout autre gouvernement. La correspondance officielle et les autres communications officielles des organes du Fonds ne peuvent être censurées.
+Les organes visés à l’art. 8 du Statut du Fonds bénéficient sur le territoire de chaque État membre, pour leurs communications officielles, d’un traitement au moins aussi favorable que le traitement accordé par ce Membre aux missions diplomatiques de tout autre gouvernement. La correspondance officielle et les autres communications officielles des organes du Fonds ne peuvent être censurées.
 
 #### Art. 10
 
-Les membres du Comité de Direction, du Conseil d’Administration et du Comité de Surveillance jouissent de l’immunité de juridiction pour les actes accomplis par eux, y compris leurs paroles et écrits, en leur qualité officielle et dans les limites de leurs attributions. Cette immunité leur reste acquise à l’expiration de leur mandat. Ils bénéficient, en outre, en ce qui concerne les restrictions à l’immigration, l’enregistrement des étrangers, les réglementations de change et les facilités de voyage, du même traitement que celui qui est accordé par les Etats membres aux représentants des autres gouvernements du Fonds possédant un statut équivalent. Les sommes qui leur sont allouées en frais de représentation ou dépenses inhérentes à l’exercice de leurs fonctions ne sont soumises à aucune imposition fiscale.
+Les membres du Comité de Direction, du Conseil d’Administration et du Comité de Surveillance jouissent de l’immunité de juridiction pour les actes accomplis par eux, y compris leurs paroles et écrits, en leur qualité officielle et dans les limites de leurs attributions. Cette immunité leur reste acquise à l’expiration de leur mandat. Ils bénéficient, en outre, en ce qui concerne les restrictions à l’immigration, l’enregistrement des étrangers, les réglementations de change et les facilités de voyage, du même traitement que celui qui est accordé par les États membres aux représentants des autres gouvernements du Fonds possédant un statut équivalent. Les sommes qui leur sont allouées en frais de représentation ou dépenses inhérentes à l’exercice de leurs fonctions ne sont soumises à aucune imposition fiscale.
 
 #### Art. 11
 
@@ -137,7 +137,7 @@ Les immunités et privilèges sont accordés aux personnes visées par l’art. 
 
 #### Art. 12
 
-- (a) Les dispositions des art. 10 et 11 ci‑dessus ne sont pas opposables aux autorités de l’Etat dont la personne est ou a été le représentant.
+- (a) Les dispositions des art. 10 et 11 ci‑dessus ne sont pas opposables aux autorités de l’État dont la personne est ou a été le représentant.
 - (b) Les art. 10, 11 et 12 (a) s’appliquent également aux représentants adjoints, conseillers, experts techniques et secrétaires de délégation.
 
 ## Titre IV Agents
@@ -150,17 +150,17 @@ Le Gouverneur déterminera les catégories des agents auxquels s’appliquent, e
 
 Les communications prévues à l’art. 17 de l’Accord général sur les privilèges et immunités du Conseil de l’Europe seront faites par le Secrétaire Général du Conseil tant en ce qui concerne le Gouverneur que les agents visés à l’alinéa précédent.
 
-Le Secrétaire Général, après consultation du Gouverneur, peut et doit lever l’immunité accordée à un agent dans tous les cas où il estime que cette immunité empêcherait l’exercice normal d’une action de justice et pourrait être levée sans que cette mesure portât préjudice au bon fonctionnement du Fonds. A l’égard du Gouverneur, le Comité de Direction du Fonds a qualité pour prononcer la levée des immunités.
+Le Secrétaire Général, après consultation du Gouverneur, peut et doit lever l’immunité accordée à un agent dans tous les cas où il estime que cette immunité empêcherait l’exercice normal d’une action de justice et pourrait être levée sans que cette mesure portât préjudice au bon fonctionnement du Fonds. À l’égard du Gouverneur, le Comité de Direction du Fonds a qualité pour prononcer la levée des immunités.
 
 ## Titre V Application de l’Accord
 
 #### Art. 14
 
-Les Gouvernements des Etats membres du Fonds s’engagent à solliciter les autorisations constitutionnelles qui seraient éventuellement nécessaires pour faire face aux obligations statutaires que ces Etats assument à l’égard du Fonds de Réétablissement. Ils s’engagent également à solliciter en temps utile lesdites autorisations afin de pouvoir remplir les engagements qu’ils auraient contractés au titre d’emprunteur ou de garant, conformément à la section 3 de l’art. 6 du Statut du Fonds de Réétablissement.
+Les Gouvernements des États membres du Fonds s’engagent à solliciter les autorisations constitutionnelles qui seraient éventuellement nécessaires pour faire face aux obligations statutaires que ces États assument à l’égard du Fonds de Réétablissement. Ils s’engagent également à solliciter en temps utile lesdites autorisations afin de pouvoir remplir les engagements qu’ils auraient contractés au titre d’emprunteur ou de garant, conformément à la section 3 de l’art. 6 du Statut du Fonds de Réétablissement.
 
 #### Art. 15
 
-Le Fonds pourra conclure avec tout Etat membre des accords spéciaux précisant les modalités d’application des dispositions du présent Protocole, complétant lesdites dispositions ou portant dérogation à celles de l’art. 13 ci‑dessus. Il peut également conclure des accords avec tout Etat non membre du Fonds de Réétablissement pour l’aménagement à leur égard de l’application des dispositions de ce Protocole.
+Le Fonds pourra conclure avec tout État membre des accords spéciaux précisant les modalités d’application des dispositions du présent Protocole, complétant lesdites dispositions ou portant dérogation à celles de l’art. 13 ci‑dessus. Il peut également conclure des accords avec tout État non membre du Fonds de Réétablissement pour l’aménagement à leur égard de l’application des dispositions de ce Protocole.
 
 ## Titre VI Dispositions finales
 
@@ -178,11 +178,12 @@ Tout Gouvernement ayant déposé un instrument d’adhésion avant l’entrée e
 
 *En foi de quoi,* les plénipotentiaires soussignés ont signé le présent Protocole. Fait à Strasbourg, le 6 mars 1959, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général en communiquera des copies certifiées conformes à tous les signataires ou adhérents. (Suivent les signatures)
 
-Champ d'application du protocole le 18 avril 2019**[^t-2]**
+Champ d’application du protocole le 11 juillet 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne\*</td><td>8 août</td><td>1963</td><td>8 août</td><td>1963</td></tr>
+<tr><td>Andorre**\***</td><td>20 mars</td><td>2023 A</td><td>20 mars</td><td>2023</td></tr>
 <tr><td>Belgique</td><td>26 octobre</td><td>1962</td><td>15 mars</td><td>1963</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>17 novembre</td><td>2005 A</td><td>17 novembre</td><td>2005</td></tr>
 <tr><td>Bulgarie</td><td>31 octobre</td><td>2008 A</td><td>31 octobre</td><td>2008</td></tr>
@@ -209,19 +210,20 @@ Champ d'application du protocole le 18 avril 2019**[^t-2]**
 <tr><td>Pologne\*</td><td>17 décembre</td><td>2018 A</td><td>17 décembre</td><td>2018</td></tr>
 <tr><td>République tchèque\*</td><td>9 février</td><td>2001 A</td><td>9 février</td><td>2001</td></tr>
 <tr><td>Roumanie</td><td>14 février</td><td>2017 A</td><td>14 février</td><td>2017</td></tr>
+<tr><td>Saint-Marin</td><td>26 août</td><td>2020 A</td><td>26 août</td><td>2020</td></tr>
 <tr><td>Slovaquie</td><td>21 octobre</td><td>2016 A</td><td>21 octobre</td><td>2016</td></tr>
 <tr><td>Slovénie</td><td>18 mars</td><td>1997 A</td><td>18 mars</td><td>1997</td></tr>
 <tr><td>Suède\*</td><td>18 septembre</td><td>1992 A</td><td>18 septembre</td><td>1992</td></tr>
 <tr><td>Suisse\*</td><td>13 décembre</td><td>1973 A</td><td>1<sup>er</sup> janvier</td><td>1974</td></tr>
 <tr><td>Turquie</td><td>16 janvier</td><td>1975</td><td>16 janvier</td><td>1975</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1974 702](https://fedlex.data.admin.ch/eli/oc/1974/702_702_702), [1977 38](https://fedlex.data.admin.ch/eli/oc/1977/38_38_38), [1977 1457](https://fedlex.data.admin.ch/eli/oc/1977/1457_1457_1457), [1982 1288](https://fedlex.data.admin.ch/eli/oc/1982/1288_1288_1288), [1990 536](https://fedlex.data.admin.ch/eli/oc/1990/536_536_536), [1994 1088](https://fedlex.data.admin.ch/eli/oc/1994/1088_1088_1088), [2004 3453](https://fedlex.data.admin.ch/eli/oc/2004/461), [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192), [2012 5599](https://fedlex.data.admin.ch/eli/oc/2012/650)et **2019** 1329. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1974 702](https://fedlex.data.admin.ch/eli/oc/1974/702_702_702); [1977 38](https://fedlex.data.admin.ch/eli/oc/1977/38_38_38), [1457](https://fedlex.data.admin.ch/eli/oc/1977/1457_1457_1457); [1982 1288](https://fedlex.data.admin.ch/eli/oc/1982/1288_1288_1288); [1990 536](https://fedlex.data.admin.ch/eli/oc/1990/536_536_536); [1994 1088](https://fedlex.data.admin.ch/eli/oc/1994/1088_1088_1088); [2004 3453](https://fedlex.data.admin.ch/eli/oc/2004/461); [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192); [2012 5599](https://fedlex.data.admin.ch/eli/oc/2012/650); [2019 1329](https://fedlex.data.admin.ch/eli/oc/2019/255); [2023 374](https://fedlex.data.admin.ch/eli/oc/2023/374). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
-Suisse**[^t-3]**
+Suisse[^t-3]
 
 Art. 7, al. 2: En ce qui concerne l’exonération des impôts, la Confédération suisse ne sera pas à même d’accorder aux emprunts du Fonds de réétablissement des avantages excédant ceux qui le sont à ses propres emprunts. L’al. 2 de l’art. 7 ne peut donc comporter aucun engagement pour la Confédération suisse de prendre les mesures qui y sont prévues.
 
@@ -237,12 +239,297 @@ Approuvé par l’Assemblée fédérale le 27 septembre 1973[^declu3-lvlu1-1]
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 1974
 
-### Barème de contribution au «Fonds de Réétablissement du Conseil de l’Europe» sur la base de 10 millions de dollars****
+#### Art. 1
 
-[^declu3-lvlu1-lvlu16-1]
+**Constitution du Fonds**
+
+Il est institué un Fonds de Réétablissement du Conseil de l’Europe (ci-après dénommé le «Fonds»).
+
+Le Fonds est rattaché au Conseil de l’Europe et soumis comme tel à sa haute autorité.
 
 [^declu3-lvlu1-1]: Art. 1 al. 1 de l’AF du 27 sept. 1973 ([RO 1974 700](https://fedlex.data.admin.ch/eli/oc/1974/700_700_700))
-[^declu3-lvlu1-lvlu16-1]: La Suisse a souscrit des titres de participation pour un montant capitalisé de 180 000 dollars E.U. (art. 1 de l’AF du 28 sept. 1978; [RS 192.11](https://fedlex.data.admin.ch/eli/cc/1978/1487_1487_1487)).
+
+#### Art. 2
+
+**Objectif**
+
+Le Fonds a pour objectif d’aider à résoudre les problèmes que l’existence d’excédents de population, y compris des réfugiés nationaux, pose ou peut poser aux pays européens par le financement, au moyen de prêts ou de garanties de prêts:
+
+- (a) de programmes d’intégration, agréés par un Membre du Fonds, conformément à l’art. 6 du présent statut, visant à créer de nouvelles possibilités d’emploi en faveur de ces personnes;
+- (b) de programmes de réétablissement, agréés par un Membre du Fonds, prévoyant l’octroi de prêts ou le règlement de dépenses en faveur de personnes résidant en Europe, désirant se réétablir dans un autre pays en Europe ou dans un pays hors d’Europe et s’engageant à rembourser le montant de ces prêts ou dépenses à concurrence des sommes avancées par le Fonds.
+
+#### Art. 3
+
+**Affiliation**
+
+Les gouvernements membres du Conseil de l’Europe peuvent devenir Membres du Fonds conformément aux dispositions de l’art. 4, section 2 (a) (i). D’autres gouvernements admis à adhérer au Fonds peuvent en devenir Membres, dans des conditions spéciales que le Fonds peut édicter pour chaque cas, conformément aux dispositions de l’art. 4, section 2 (a) (ii).
+
+#### Art. 4
+
+**Obligations des membres**
+
+### Section 1 – Titres de participation
+
+Le Fonds émet des titres de participation, libellés en une devise de compte, auxquels souscrivent les Membres. Chaque titre a la même valeur nominale. Les Membres se libèrent de leur souscription par des versements dans leur monnaie nationale aux taux de change officiel en vigueur à la date de la souscription.
+
+### Section 2 – Souscription
+
+- (a)
+
+  Chaque Membre souscrit un nombre de titres de participation:
+
+  - (i) Le nombre des titres de participation mis à la disposition de chacun des États membres du Conseil de l’Europe est fixé au tableau annexé au présent statut. Chacun de ces Membres du Fonds souscrit autant de titres de participation qu’il le désire sans toutefois que sa souscription initiale puisse être inférieure au quart du nombre des titres qui lui sont réservés.
+  - (ii) Le nombre des titres de participation des autres Membres adhérant au Fonds sera fixé en accord avec le Comité de Direction du Fonds, conformément à l’art. 9, par. (e) du présent statut.
+
+- (b) Chaque Membre verse aussitôt après son affiliation au moins vingt‑cinq pour cent (25 %.) du prix de souscription du nombre minimum de titres de participation auxquels il souscrit: le solde sera versé conformément à l’art. 9, par. (c).
+
+### Section 3 – Maintien de la valeur des souscriptions
+
+Si le pair de la monnaie d’un État membre est abaissé ou si le taux de change de la monnaie de l’État membre s’est déprécié dans une mesure importante, celui‑ci versera au Fonds, dans un délai raisonnable, une somme supplémentaire de sa propre monnaie, suffisante pour maintenir à la même valeur qu’à l’époque de la souscription le montant souscrit par lui en titres de participation au Fonds.
+
+### Section 4 – Limite des obligations
+
+Aucun membre ne se trouve engagé envers des tiers par une obligation assumée par le Fonds.
+
+#### Art. 5
+
+**Concours financiers et opérations d’emprunt**
+
+En vue d’utilisations conformes à ses objectifs, le Fonds peut accepter des concours financiers. Il peut également emprunter des fonds.
+
+Le Fonds est habilité à recevoir des versements destinés à des buts déterminés conformes aux objectifs du Fonds.
+
+#### Art. 6
+
+**Dispositions générales relatives aux prêts et aux garanties**
+
+### Section 1 – Types de prêts
+
+\* Résolution 11 (1957) du Comité de direction.
+
+Le Fonds consent des prêts sous l’une des formes suivantes:
+
+- (i) prêts aux gouvernements membres du Fonds;
+- (ii) prêts garantis par un gouvernement membre du Fonds et consentis à toute personne morale agréée par ce Membre;
+- (iii) prêts garantis par un gouvernement membre du Fonds et consentis à des migrants par l’intermédiaire du Membre ou de toute personne morale agréée par ce Membre;
+- (iv) prêts consentis à toute personne morale agréée par un gouvernement membre du Fonds lorsque le Conseil d’Administration estime que le prêt demandé est assorti de garanties suffisantes et répond aux conditions spécifiées à la Section 3 ci‑dessous concernant les prêts envisagés aux par. (i), (ii) et (iii) de la présente section\*.
+
+### Section 2 – Garanties
+
+Le Fonds peut consentir sa garantie pour les opérations découlant de la réalisation des objectifs prévus à l’art. 2 à des conditions à déterminer pour chaque cas d’espèce.
+
+### Section 3 – Obligations de l’emprunteur ou du garant
+
+- (a)
+
+  Les engagements pris par les gouvernements membres du Fonds en ce qui concerne les prêts qui leur sont consentis au titre de la section 1 (i) du présent article et les garanties fournies par les gouvernements membres du Fonds au titre de la section 1 (ii) et (iii) du présent article doivent, dans chaque cas, comporter la promesse inconditionnelle:
+
+  - (i) de rembourser dans un délai spécifié une somme spécifiée exprimée dans une devise spécifiée, et
+  - (ii) de payer, pour la somme spécifiée, un intérêt et une commission à un taux spécifié à échéances spécifiées à partir d’une date spécifiée.
+
+- (b) Pour déterminer les monnaies dans lesquelles sont exprimées les obligations des gouvernements membres du Fonds en leur qualité d’emprunteurs ou de garants, le Fonds s’efforce de maintenir un rapport constant en valeur et en devises entre ses avoirs, y compris ses obligations, et les souscriptions versées par ses Membres, y compris tous versements effectués en vertu de l’art. 4, section 3.
+
+### Section 4 – Subrogation
+
+Dans les contrats de prêts garantis en vertu de la section 1 (ii) et (iii) du présent article, il sera prévu que le garant ayant satisfait à ses engagements envers le Fonds au titre de cette garantie, est subrogé au Fonds vis‑à‑vis de l’emprunteur ou des emprunteurs.
+
+### Section 5 – Déclarations des Membres
+
+Le Fonds reçoit, à l’appui des demandes de prêts relatifs à des programmes de réétablissement ou d’intégration, une déclaration aux termes de laquelle le Membre intéressé
+
+- (i) agrée le programme;
+- (ii) déclare estimer que le programme permettra le réétablissement ou l’intégration de personnes résidant sur son territoire européen;
+- (iii) déclare estimer qu’il n’est pas possible d’obtenir d’une autre source à des conditions raisonnables les fonds nécessaires,
+
+### Section 6 – Renseignements à fournir
+
+Le Conseil d’administration prévu à l’article 10 du présent statut fixera la nature des renseignements et engagements que tout emprunteur est tenu de fournir à l’appui de sa demande.
+
+#### Art. 7
+
+**Investissements**
+
+### Section 1 – Investissements temporaires
+
+En attendant d’utiliser pour la première fois les fonds souscrits par un État, le Fonds peut les placer en bons du Trésor ou autres obligations issues de cet État et garanties par lui.
+
+Dans les opérations d’investissement, le Conseil d’administration demandera l’avis d’experts en matière de placements.
+
+### Section 2 – Accumulation et investissement des réserves
+
+Les réserves du Fonds provenant d’un excédent des recettes d’intérêt et de commissions pourront être cumulées et investies en tout ou partie dans les conditions qui seront fixées par le Conseil d’administration.
+
+#### Art. 8
+
+**Organisation, administration et contrôle du Fonds**
+
+conformément aux dispositions des articles ci‑après.
+
+L’organisation, l’administration et le contrôle du Fonds sont assurés par les organes suivants:
+
+- – le Comité de Direction;
+- – le Conseil d’administration;
+- – le Gouverneur;
+- – le Comité de Surveillance;
+
+#### Art. 9
+
+**Comité de Direction**
+
+### Section 1 – Décisions réservées aux Membres
+
+Les Membres, réunis en Comité de Direction, sont habilités à:
+
+- (a) choisir la monnaie de compte et fixer la valeur nominale des titres de participation;
+- (b) déterminer les conditions dans lesquelles le Fonds accepte des concours financiers ou emprunte des fonds et fixer les droits à accorder aux bailleurs ou prêteurs, y compris leurs droits sur les avoirs du Fonds;
+- (c) fixer les échéances de libération des parts souscrites selon les besoins du Fonds pour la réalisation de ses objectifs;
+- (d) fixer les principes de gestion du Fonds;
+- (e) autoriser les gouvernements autres que les gouvernements membres du Conseil de l’Europe à adhérer au Fonds, fixer les conditions de cette admission et le nombre de titres de participation à souscrire par ces gouvernements;
+- (f) nommer le Gouverneur, le révoquer et accepter sa démission;
+- (g) recommander les mesures législatives, internationales ou autres, que les Membres prendront, notamment pour définir le régime spécial des avoirs ou biens du Fonds sur leur territoire ou sur le territoire tiers, et les engagements des Membres résultant des opérations spéciales du Fonds;
+- (h) amender le présent Statut, sans toutefois changer ses objectifs;
+- (i) interpréter le présent Statut;
+- (j) suspendre les opérations du Fonds de façon permanente et répartir ses avoirs;
+- (k) établir le règlement intérieur et désigner son président;
+- (l) désigner les trois commissaires qui constitueront le Comité de Surveillance.
+
+### Section 2 – Vote
+
+- (a) Les décisions réservées aux Membres du Fonds sont prises par votes, exprimés soit oralement au cours des réunions, soit par écrit dans l’intervalle de leurs réunions.
+- (b) Chaque Membre du Fonds dispose d’une voix pour chaque titre de participation qu’il détient.
+
+#### Art. 10
+
+**Conseil d’administration**
+
+### Section 1 – Décisions réservées au Conseil d’administration
+
+Le Conseil d’administration a tous les pouvoirs nécessaires à l’administration du Fonds. Il prend notamment une décision sur les objets suivants:
+
+- (a) déterminer périodiquement quelle fraction des réserves éventuelles du Fonds doit être cumulée et investie en application des dispositions de l’art. 7, section 2;
+- (b) approuver le budget de fonctionnement du Fonds selon le principe que les dépenses de gestion ne peuvent excéder les recettes d’intérêts et de commissions;
+- (c) donner au Gouverneur des directives d’ordre général ou particulier;
+- (d) établir le règlement intérieur du Fonds et notamment les conditions d’octroi des prêts ou des garanties de prêts;
+- (e) présenter annuellement au Représentant Spécial, pour être soumis au Comité des Ministres, le rapport établi par le Gouverneur du Fonds.
+
+### Section 2 – Composition du Conseil d’administration
+
+- (a) Le Conseil d’administration se compose d’un Président désigné par le Comité de Direction et d’un représentant de chacun des Membres du Fonds. Chaque représentant au Conseil d’administration dispose d’un nombre de voix égal au nombre de titres de participation détenus.
+- (b) Le Conseil d’administration pourra appeler à participer à ses travaux, sans droit de vote, les représentants des organisations internationales et intergouvernementales intéressées.
+
+### Section 3 – Durée du mandat des membres du Conseil d’administration
+
+Tout membre désigné du Conseil d’administration demeure en fonction jusqu’à ce qu’il soit révoqué par le Membre du Fonds qui l’a désigné. Les membres du Conseil sortant peuvent toujours être désignés ou réélus.
+
+### Section 4 – Mode de décision du Conseil d’administration
+
+- (a) Le Conseil d’administration se réunit sur convocation de son Président, aussi souvent que la chose paraît nécessaire et au moins une fois par trimestre;
+- (b) Les décisions du Conseil d’administration sont prises à la majorité des voix des membres présents. Le Conseil ne délibère valablement que si les deux tiers au moins de ses membres sont présents.
+
+### Section 5 – Commissions du Conseil d’administration
+
+Le Conseil d’administration peut à tout moment constituer des commissions composées de ses membres et déléguer à ces commissions des pouvoirs spécifiés dans chaque cas.
+
+### Section 6 – Rémunération des membres du Conseil d’administration
+
+Les membres du Conseil d’administration ne perçoivent aucune rémunération du Fonds; cependant, les frais raisonnables engagés lors de l’exécution de leurs fonctions de membres du Conseil d’administration leur sont remboursés par le Fonds.
+
+#### Art. 11
+
+**Gouverneur**
+
+### Section 1 – Fonctions du Gouverneur
+
+Le Gouverneur assure l’administration courante du Fonds, conformément aux directives du Conseil d’administration et sous sa surveillance.
+
+Il représente le Fonds dans toutes les transactions que celui‑ci effectue. Il ne contracte aucune obligation financière, conformément aux dispositions des art. 5 et 6 du statut, sans autorisation expresse du Conseil d’administration.
+
+Il engage les dépenses d’administration dans la limite des crédits budgétaires qui lui sont alloués.
+
+Il prend toutes dispositions utiles pour maintenir ces dépenses au strict minimum. En particulier, il recourt aux services que peut lui offrir le Conseil de l’Europe et s’assure, en matière financière, la coopération de banques centrales des États membres et de la Banque des Règlements Internationaux et, en matière de réétablissement et d’intégration des excédents de population, la collaboration des institutions et des personnalités compétentes dans ce domaine.
+
+Il détient les avoirs et les biens du Fonds et entretient une comptabilité adéquate.
+
+### Section 2 – Rapports au Conseil d’administration
+
+Le Gouverneur adresse, à intervalles réguliers, au Conseil d’administration, des rapports sur la position du Fonds et sur les opérations envisagées et lui fournit tous les renseignements qu’il peut demander.
+
+Le Gouverneur établit chaque année un rapport complet sur toutes les opérations de l’année.
+
+Il y joint le bilan du Fonds et le compte de gestion des opérations financières ainsi que le rapport établi sur ces documents par le Comité de Surveillance.
+
+### Section 3 – Nomination et rétribution du Gouverneur
+
+Le Gouverneur est nommé pour un terme de 3 ans et est rééligible à l’expiration de son mandat. Le montant de sa rétribution est fixé par le Conseil d’administration du Fonds.
+
+#### Art. 12
+
+**Comité de Surveillance**
+
+Le Comité de Surveillance examine une fois par an les comptes du Fonds et vérifie l’exactitude du compte de gestion et du bilan.
+
+Le rapport du Comité certifie que le bilan et le compte de gestion concordent avec les écritures et qu’ils reflètent exactement et honnêtement l’état des opérations du Fonds à la fin de chaque exercice financier.
+
+#### Art. 13
+
+**Siège**
+
+Le siège du Fonds est installé à Strasbourg, France. Le siège des services de gestion sera fixé par le Conseil d’administration.
+
+#### Art. 14
+
+**Suspension des opérations et liquidation du Fonds**
+
+### Section 1 – Suspension des opérations
+
+Si le Comité de Direction décide la clôture des opérations, le Fonds cessera immédiatement toutes activités à l’exception de celles qui se rapportent au règlement de ses obligations ainsi qu’à la réalisation méthodique, à la conservation et à la sauvegarde de ses avoirs.
+
+### Section 2 – Retrait des Membres
+
+Tout Membre peut se retirer du Fonds après préavis de six mois précédant la fin de l’exercice en cours. Les conditions en seront fixées par le Comité de Direction.
+
+### Section 3 – Liquidation du Fonds
+
+Après règlement de tous les engagements du Fonds, y compris l’exécution des droits à répartitions, consentis par le Fonds lors de l’acceptation de concours financiers au titre de l’art. 5, ou constitution de réserves en vue de ce règlement, les Membres du Fonds pourront convenir d’un plan de répartition des avoirs fondé sur les principes suivants:
+
+- (a) Aucun Membre du Fonds se trouvant dans une position de débiteur vis-à-vis du Fonds ne peut être admis à participer à la répartition avant d’avoir régularisé sa position.
+- (b) Si l’actif net du Fonds le permet, chaque Membre du Fonds reçoit pour sa part le montant qu’il a versé au titre de l’art. 4 dans la monnaie de ce versement, ou, si cela n’est pas possible, l’équivalent de ce montant en d’autres devises, calculé au taux de change en vigueur à la date de la répartition. Si l’actif net du Fonds ne permet pas le remboursement intégral de ces parts, le déficit éventuel sera partagé entre tous les Membres du Fonds de la même façon.
+- (c) Tout actif net du Fonds subsistant après la distribution de ces parts sera réparti entre tous les Membres du Fonds en proportion du nombre de titres de participation détenu par chacun.
+- (d) Si ces parts sont payées à certains Membres du Fonds en devises d’autres Membres du Fonds, ces derniers prendront les mesures nécessaires pour assurer, selon les modalités prévues par leur réglementation des changes, le mouvement des montants ainsi versés au titre de la répartition.
+
+#### Art. 15
+
+**Dispositions finales**
+
+### Section 1 – Réunion d’organisation
+
+Dès que le présent statut sera adopté par une résolution du Comité des Ministres sur la base d’un accord partiel, le Secrétaire Général du Conseil de l’Europe convoquera, en accord avec le Représentant Spécial, la première réunion du Comité de Direction qui prendra toutes mesures nécessaires ou souhaitables pour organiser le Fonds en conformité avec le présent statut.
+
+### Section 2 – Notification du commencement des opérations
+
+Le Gouverneur notifiera aux Membres du Fonds la date à laquelle celui‑ci sera prêt à commencer ses opérations.
+
+### Section 3 – Adhésion
+
+- (a) Tout Membre du Conseil de l’Europe qui n’est pas Membre du Fonds peut adhérer à celui‑ci par une déclaration adressée au Comité des Ministres. Cette déclaration doit contenir l’acceptation du présent statut par le Gouvernement adhérent et la souscription de la part de ce gouvernement du nombre de titres de participation fixé en accord avec le Comité de Direction, conformément à l’art. 4 du présent statut.
+- (b) Tout gouvernement non membre du Conseil de l’Europe qui, conformément à la section 1, par. (e), de l’art. 9, a été admis à adhérer au Fonds, peut adhérer à celui‑ci en déposant auprès du Secrétaire Général du Conseil un instrument établissant qu’il accepte le présent statut, qu’il souscrit le nombre de titres de participation fixé en accord avec le Comité de Direction, conformément à l’art. 4 du présent statut, qu’il a pris toutes les mesures nécessaires pour se mettre en état d’exécuter toutes les obligations découlant du présent statut et qu’il a rempli toutes les conditions d’admission fixées par le Comité de Direction.
+- (c) Le Secrétaire Général du Conseil de l’Europe notifiera au Gouverneur et à tous les Membres du Fonds la réception de toute déclaration d’adhésion et le dépôt de tout instrument d’adhésion effectué en application des paragraphes précédents.
+
+### Section 4 – Interprétation du présent statut
+
+Toute décision du Conseil d’administration comportant l’interprétation du présent statut peut être portée devant le Comité de Direction à la demande d’un Membre. En attendant que le Comité de Direction ait statué, le Fonds peut, dans la mesure où il l’estime nécessaire, agir sur la base de la décision du Conseil d’administration.
+
+### Section 5 – Copie certifiée conforme
+
+Le Secrétaire Général du Conseil de l’Europe communiquera une copie certifiée conforme du présent statut à tout Membre du Conseil et à tout gouvernement non membre du Conseil ayant adhéré au Fonds.
+
+Appendice
+
+## Barème de contribution au «Fonds de Réétablissement du Conseil de l’Europe» sur la base de 10 millions de dollars
+
+[^declu4-lvlu1-1]
+
+[^declu4-lvlu1-1]: La Suisse a souscrit des titres de participation pour un montant capitalisé de 180 000 dollars E.U. (art. 1 de l’AF du 28 sept. 1978; [RS 192.11](https://fedlex.data.admin.ch/eli/cc/1978/1487_1487_1487)).
 
 <table>
 <tr><td colspan="3">Pourcentage de répartition (1955)</td><td>Nombre de titres à raison de 1 par 1000 dollars</td><td></td><td>Taux de change (1. 1. 1955)</td><td>Contributions en monnaies nationales</td></tr>
@@ -266,11 +553,7 @@ Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 1974
 
 Le pourcentage de répartition est celui adopté pour les contributions au budget du Conseil de l’Europe.
 
-### Champ d’application du statut du Fonds de réétablissement le 1<sup>er</sup> octobre 2012****
-
-[^declu3-lvlu1-lvlu17-1]
-
-[^declu3-lvlu1-lvlu17-1]: [RO 1977 39](https://fedlex.data.admin.ch/eli/oc/1977/39_39_39), [1978 1488](https://fedlex.data.admin.ch/eli/oc/1978/1488_1488_1488), [1990 537](https://fedlex.data.admin.ch/eli/oc/1990/537_537_537), **2004** 3454, [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192)et **2012** 5599.
+Champ d’application du statut du Fonds de réétablissement le 1<sup>er</sup> octobre 2012[^t-4]
 
 <table>
 <tr><th>Membres du fonds</th><th colspan="2">dès le</th></tr>
@@ -315,3 +598,5 @@ Le pourcentage de répartition est celui adopté pour les contributions au budge
 <tr><td>Suisse</td><td>1<sup>er</sup> janvier</td><td>1974</td></tr>
 <tr><td>Turquie</td><td>16 avril</td><td>1956</td></tr>
 </table>
+
+[^t-4]: [RO 1977 39](https://fedlex.data.admin.ch/eli/oc/1977/39_39_39); [1978 1488](https://fedlex.data.admin.ch/eli/oc/1978/1488_1488_1488); [1990 537](https://fedlex.data.admin.ch/eli/oc/1990/537_537_537); **2004** 3454; [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192)et **2012** 5599.

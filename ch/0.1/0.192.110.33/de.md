@@ -3,29 +3,28 @@ sr: "0.192.110.33"
 title: Drittes Zusatzprotokoll vom 6. März 1959 zum Allgemeinen Abkommen über die Vorrechte und Befreiungen des Europarates (mit der Satzung des Wiedereingliederungsfonds und einer Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/702_702_702"
 language: de
-version: 2019-04-18
+version: 2023-07-11
 adopted: 1959-03-06
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/702_702_702/20190418/de/xml/fedlex-data-admin-ch-eli-cc-1974-702_702_702-20190418-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/702_702_702/20190418/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/702_702_702/20230711/de/xml/fedlex-data-admin-ch-eli-cc-1974-702_702_702-20230711-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/702_702_702/20230711/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Drittes Zusatzprotokoll zum Allgemeinen Abkommen über die Vorrechte und Befreiungen des Europarats
 
-Nicht löschen bitte "[^t-1] " !!
+AS **1974** 702; BBl **1973** I 349
 
 Übersetzung
 
-Abgeschlossen in Strassburg am 6. März 1959 Von der Bundesversammlung genehmigt am 27. September 1973[^t-2] Schweizerische Beitrittsurkunde hinterlegt am 13. Dezember 1973 In Kraft getreten für die Schweiz am 1. Januar 1974
+Abgeschlossen in Strassburg am 6. März 1959 Von der Bundesversammlung genehmigt am 27. September 1973[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 13. Dezember 1973 In Kraft getreten für die Schweiz am 1. Januar 1974
 
-(Stand am 18. April 2019)
+(Stand am 11. Juli 2023)
 
-[^t-1]: [AS 1974 702](https://fedlex.data.admin.ch/eli/oc/1974/702_702_702); [BBl 1973 I 349](https://fedlex.data.admin.ch/eli/fga/1973/1_349_317_373)
-[^t-2]: Art. 2 Abs. 1 des BB vom 27. Sept. 1973 ([AS 1974 700](https://fedlex.data.admin.ch/eli/oc/1974/700_700_700))
+[^t-1]: Art. 2 Abs. 1 des BB vom 27. Sept. 1973 ([AS 1974 700](https://fedlex.data.admin.ch/eli/oc/1974/700_700_700))
 
-Die Unterzeichnerregierungen als Mitglieder des Europarats, Unterzeichner des Allgemeinen Abkommens über die Vorrechte und Befreiungen des Europarats*[^ingress-1]* oder Parteien dieses Abkommens und zugleich Mitglieder des Wiedereingliederungsfonds des Europarats für nationale Flüchtlinge und Bevölkerungsüberschüsse,
+Die Unterzeichnerregierungen als Mitglieder des Europarats, Unterzeichner des Allgemeinen Abkommens über die Vorrechte und Befreiungen des Europarats[^ingress-1] oder Parteien dieses Abkommens und zugleich Mitglieder des Wiedereingliederungsfonds des Europarats für nationale Flüchtlinge und Bevölkerungsüberschüsse,
 
 im Hinblick auf die Artikel 1 und 9 (g) der Satzung des genannten Fonds[^ingress-2];
 
@@ -172,10 +171,11 @@ Jede Regierung, die vor dem Inkrafttreten des Protokolls eine Beitrittsurkunde h
 
 *Zu Urkund dessen* haben die unterzeichneten Bevollmächtigten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 6. März 1959 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Ausfertigung, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär übermittelt jedem Unterzeichnerstaat und beitretenden Staat beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. April 2019**[^t-3]**
+Geltungsbereich des Protokolls am 11. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Andorra\*</td><td>20. März</td><td>2023 B</td><td>20. März</td><td>2023</td></tr>
 <tr><td>Belgien</td><td>26. Oktober</td><td>1962</td><td>15. März</td><td>1963</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>17. November</td><td>2005 B</td><td>17. November</td><td>2005</td></tr>
 <tr><td>Bulgarien</td><td>31. Oktober</td><td>2008 B</td><td>31. Oktober</td><td>2008</td></tr>
@@ -199,6 +199,7 @@ Geltungsbereich am 18. April 2019**[^t-3]**
 <tr><td>Niederlande\*</td><td>8. August</td><td>1978 B</td><td>8. August</td><td>1978</td></tr>
 <tr><td>Polen\*</td><td>17. Dezember</td><td>2018 B</td><td>17. Dezember</td><td>2018</td></tr>
 <tr><td>Rumänien</td><td>14. Februar</td><td>2017 B</td><td>14. Februar</td><td>2017</td></tr>
+<tr><td>San Marino</td><td>26. August</td><td>2020 B</td><td>26. August</td><td>2020</td></tr>
 <tr><td>Schweden\*</td><td>18. September</td><td>1992 B</td><td>18. September</td><td>1992</td></tr>
 <tr><td>Schweiz\*</td><td>13. Dezember</td><td>1973 B</td><td>1. Januar</td><td>1974</td></tr>
 <tr><td>Slowenien</td><td>18. März</td><td>1997 B</td><td>18. März</td><td>1997</td></tr>
@@ -208,14 +209,14 @@ Geltungsbereich am 18. April 2019**[^t-3]**
 <tr><td>Türkei</td><td>16. Januar</td><td>1975</td><td>16. Januar</td><td>1975</td></tr>
 <tr><td>Ungarn</td><td>2. September</td><td>2004 B</td><td>2. September</td><td>2004</td></tr>
 <tr><td>Zypern</td><td>30. November</td><td>1967 B</td><td>30. November</td><td>1967</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
 ## Vorbehalte und Erklärungen
 
-[^t-3]: [AS 1974 702](https://fedlex.data.admin.ch/eli/oc/1974/702_702_702), [1977 38](https://fedlex.data.admin.ch/eli/oc/1977/38_38_38)[1457](https://fedlex.data.admin.ch/eli/oc/1977/1457_1457_1457), [1982 1288](https://fedlex.data.admin.ch/eli/oc/1982/1288_1288_1288), [1990 536](https://fedlex.data.admin.ch/eli/oc/1990/536_536_536), [1994 1088](https://fedlex.data.admin.ch/eli/oc/1994/1088_1088_1088), [2004 3453](https://fedlex.data.admin.ch/eli/oc/2004/461), [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192), [2012 5599](https://fedlex.data.admin.ch/eli/oc/2012/650), [2019 1329](https://fedlex.data.admin.ch/eli/oc/2019/255). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1974 702](https://fedlex.data.admin.ch/eli/oc/1974/702_702_702); [1977 38](https://fedlex.data.admin.ch/eli/oc/1977/38_38_38), [1457](https://fedlex.data.admin.ch/eli/oc/1977/1457_1457_1457); [1982 1288](https://fedlex.data.admin.ch/eli/oc/1982/1288_1288_1288); [1990 536](https://fedlex.data.admin.ch/eli/oc/1990/536_536_536); [1994 1088](https://fedlex.data.admin.ch/eli/oc/1994/1088_1088_1088); [2004 3453](https://fedlex.data.admin.ch/eli/oc/2004/461); [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192); [2012 5599](https://fedlex.data.admin.ch/eli/oc/2012/650); [2019 1329](https://fedlex.data.admin.ch/eli/oc/2019/255); [2023 374](https://fedlex.data.admin.ch/eli/oc/2023/374). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)..
 
-Schweiz**[^scopeu1-lvlu1-1]**
+Schweiz[^scopeu1-lvlu1-1]
 
 Zu Artikel 7 Absatz 2: Was die Steuerbefreiung anbelangt, kann die Schweiz den Anleihen des Wiedereingliederungsfonds keine weitergehenden Vorteile gewähren als die, welche sie ihren eigenen Anleihen zugesteht. Artikel 7 Absatz 2 kann demzufolge für die Schweiz keine Verpflichtung enthalten, die in diesem Absatz vorgesehenen Massnahmen zu ergreifen.
 
@@ -516,7 +517,7 @@ Der Generalsekretär des Europarats übermittelt jedem Mitglied des Rates und je
 
 Anlage
 
-## Beitragstabelle zum «Wiedereingliederungsfonds des Europarats» unter Zugrundelegung eines Gesamtbetrages von 10 000 000 Dollar****
+## Beitragstabelle zum «Wiedereingliederungsfonds des Europarats» unter Zugrundelegung eines Gesamtbetrages von 10 000 000 Dollar
 
 [^declu3-lvlu1-1]
 
@@ -543,7 +544,7 @@ Anlage
 <tr><td colspan="7">Die prozentuale Aufteilung entspricht dem für die Beiträge zum Haushalt des Europarats angenommenen Prozentsatz.</td></tr>
 </table>
 
-Geltungsbereich der Satzung am 1. Oktober 2012**[^t-4]**
+Geltungsbereich der Satzung am 1. Oktober 2012[^t-3]
 
 <table>
 <tr><th>Mitglieder des Fonds</th><th>seit</th><th></th></tr>
@@ -589,4 +590,4 @@ Geltungsbereich der Satzung am 1. Oktober 2012**[^t-4]**
 <tr><td>Zypern</td><td>18. Oktober</td><td>1962</td></tr>
 </table>
 
-[^t-4]: [AS 1977 39](https://fedlex.data.admin.ch/eli/oc/1977/39_39_39), [1978 1488](https://fedlex.data.admin.ch/eli/oc/1978/1488_1488_1488), [1990 537](https://fedlex.data.admin.ch/eli/oc/1990/537_537_537), **2004** 3454, [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192), [2012 5599](https://fedlex.data.admin.ch/eli/oc/2012/650)
+[^t-3]: [AS 1977 39](https://fedlex.data.admin.ch/eli/oc/1977/39_39_39), [1978 1488](https://fedlex.data.admin.ch/eli/oc/1978/1488_1488_1488), [1990 537](https://fedlex.data.admin.ch/eli/oc/1990/537_537_537), **2004** 3454, [2007 1173](https://fedlex.data.admin.ch/eli/oc/2007/192), [2012 5599](https://fedlex.data.admin.ch/eli/oc/2012/650)
