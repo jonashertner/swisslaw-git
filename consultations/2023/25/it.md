@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Diritto di ricorso delle associazioni. Evitare una sfida tra Davide e Golia
 document: Progetto posto in consultazione
 language: it

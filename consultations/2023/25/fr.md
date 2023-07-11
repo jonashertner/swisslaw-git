@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Droit de recours des organisations. David contre Goliath
 document: Projet mis en consultation
 language: fr

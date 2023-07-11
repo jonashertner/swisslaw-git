@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Kein «David gegen Goliath» beim Verbandsbeschwerderecht
 document: Vernehmlassungsvorlage
 language: de
