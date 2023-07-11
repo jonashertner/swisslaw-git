@@ -3,11 +3,11 @@ sr: "0.235.11"
 title: "Protocollo aggiuntivo dell' 8 novembre 2001 alla Convenzione per la protezione delle persone in relazione all'elaborazione automatica dei dati a carattere personale concernente le autorità di controllo e i flussi internazionali di dati"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/183"
 language: it
-version: 2019-03-11
+version: 2023-07-12
 adopted: 2001-11-08
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/183/20190311/it/xml/fedlex-data-admin-ch-eli-cc-2008-183-20190311-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/183/20190311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/183/20230712/it/xml/fedlex-data-admin-ch-eli-cc-2008-183-20230712-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/183/20230712/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,13 +26,13 @@ Strumento di ratifica depositato dalla Svizzera il 20 dicembre 2007
 
 Entrato in vigore per la Svizzera il 1<sup>o</sup> aprile 2008
 
-(Stato 11 marzo 2019)
+(Stato 12 luglio 2023)
 
 [^t-1]: [RU 2008 729](https://fedlex.data.admin.ch/eli/oc/2008/182)
 
 *Preambolo*
 
-Le Parti al presente Protocollo aggiuntivo alla Convenzione per la protezione delle persone in relazione all’elaborazione automatica dei dati a carattere personale, aperta alla firma a Strasburgo, il 28 gennaio 1981*[^ingress-1]* (in seguito detta «la Convenzione»),
+Le Parti al presente Protocollo aggiuntivo alla Convenzione per la protezione delle persone in relazione all’elaborazione automatica dei dati a carattere personale, aperta alla firma a Strasburgo, il 28 gennaio 1981[^ingress-1] (in seguito detta «la Convenzione»),
 
 convinte che le autorità di controllo, esercitando le loro funzioni in assoluta indipendenza, sono un elemento della protezione effettiva delle persone in relazione al trattamento dei dati a carattere personale;
 
@@ -104,7 +104,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di ciò,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Strasburgo l’8 novembre 2001 in francese e in inglese, i due testi facenti egualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmette copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa, alla Comunità europea e a ogni Stato invitato ad aderire alla Convenzione. (Seguono le firme)
 
-Campo d’applicazione l’11 marzo 2019**[^t-2]**
+Campo d’applicazione il 12 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -131,6 +131,7 @@ Campo d’applicazione l’11 marzo 2019**[^t-2]**
 <tr><td>Lituania</td><td>2 marzo</td><td>2004</td><td>1° luglio</td><td>2004</td></tr>
 <tr><td>Lussemburgo</td><td>23 gennaio</td><td>2007</td><td>1° maggio</td><td>2007</td></tr>
 <tr><td>Macedonia del Nord</td><td>26 settembre</td><td>2008</td><td>1° gennaio</td><td>2009</td></tr>
+<tr><td>Marocco</td><td>24 maggio</td><td>2019 A</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Maurizio<sup>\*</sup></td><td>17 giugno</td><td>2016 A</td><td>1° ottobre</td><td>2016</td></tr>
 <tr><td>Messico</td><td>29 giugno</td><td>2018 A</td><td>1° ottobre</td><td>2018</td></tr>
 <tr><td>Moldova</td><td>28 settembre</td><td>2011</td><td>1° gennaio</td><td>2012</td></tr>
@@ -152,9 +153,9 @@ Campo d’applicazione l’11 marzo 2019**[^t-2]**
 <tr><td>Ucraina</td><td>30 settembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
 <tr><td>Ungheria</td><td>4 maggio</td><td>2005</td><td>1° settembre</td><td>2005</td></tr>
 <tr><td>Uruguay</td><td>10 aprile</td><td>2013 A</td><td>1° agosto</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [www.coe.int](https://www.coe.int/it) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il Prot. aggiuntivo non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2008 731](https://fedlex.data.admin.ch/eli/oc/2008/183), [2010 597](https://fedlex.data.admin.ch/eli/oc/2010/91), [2012 619](https://fedlex.data.admin.ch/eli/oc/2012/92), [2016 2219](https://fedlex.data.admin.ch/eli/oc/2016/355)e [2019 945](https://fedlex.data.admin.ch/eli/oc/2019/170). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2008 731](https://fedlex.data.admin.ch/eli/oc/2008/183); [2010 597](https://fedlex.data.admin.ch/eli/oc/2010/91); [2012 619](https://fedlex.data.admin.ch/eli/oc/2012/92); [2016 2219](https://fedlex.data.admin.ch/eli/oc/2016/355); [2019 945](https://fedlex.data.admin.ch/eli/oc/2019/170); [2023 381](https://fedlex.data.admin.ch/eli/oc/2023/381). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

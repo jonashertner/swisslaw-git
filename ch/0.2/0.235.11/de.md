@@ -3,11 +3,11 @@ sr: "0.235.11"
 title: Zusatzprotokoll vom 8. November 2001 zum Übereinkommen zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten bezüglich Aufsichtsbehörden und grenzüberschreitende Datenübermittlung
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/183"
 language: de
-version: 2019-03-11
+version: 2023-07-12
 adopted: 2001-11-08
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/183/20190311/de/xml/fedlex-data-admin-ch-eli-cc-2008-183-20190311-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/183/20190311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/183/20230712/de/xml/fedlex-data-admin-ch-eli-cc-2008-183-20230712-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/183/20230712/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 20. Dezember 2007
 
 Inkrafttreten für die Schweiz am 1. April 2008
 
-(Stand am 11. März 2019)
+(Stand am 12. Juli 2023)
 
 [^t-1]: [AS 2008 729](https://fedlex.data.admin.ch/eli/oc/2008/182)
 
@@ -104,7 +104,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichner dieses Protokoll unterschrieben. Geschehen zu Strassburg am 8. November 2001, in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den Europäischen Gemeinschaften und allen zum Beitritt zum Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 11. März 2019**[^t-2]**
+Geltungsbereich am 12. Juli. 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -127,6 +127,7 @@ Geltungsbereich am 11. März 2019**[^t-2]**
 <tr><td>Liechtenstein</td><td>28. Januar</td><td>2010</td><td>1. Mai</td><td>2010</td></tr>
 <tr><td>Litauen</td><td>2. März</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
 <tr><td>Luxemburg</td><td>23. Januar</td><td>2007</td><td>1. Mai</td><td>2007</td></tr>
+<tr><td>Marokko</td><td>24. Mai</td><td>2019 B</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Mauritius\*</td><td>17. Juni</td><td>2016 B</td><td>1. Oktober</td><td>2016</td></tr>
 <tr><td>Mexiko</td><td>29. Juni</td><td>2018 B</td><td>1. Oktober</td><td>2018</td></tr>
 <tr><td>Moldau</td><td>28. September</td><td>2011</td><td>1. Januar</td><td>2012</td></tr>
@@ -152,7 +153,7 @@ Geltungsbereich am 11. März 2019**[^t-2]**
 <tr><td>Ungarn</td><td>4. Mai</td><td>2005</td><td>1. September</td><td>2005</td></tr>
 <tr><td>Uruguay</td><td>10. April</td><td>2013 B</td><td>1. August</td><td>2013</td></tr>
 <tr><td>Zypern</td><td>17. März</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Zusatzprotokoll findet keine Anwendung auf die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Zusatzprotokoll findet keine Anwendung auf die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 2008 731](https://fedlex.data.admin.ch/eli/oc/2008/183), [2010 597](https://fedlex.data.admin.ch/eli/oc/2010/91), [2012 619](https://fedlex.data.admin.ch/eli/oc/2012/92), [2016 2219](https://fedlex.data.admin.ch/eli/oc/2016/355), [2019 945](https://fedlex.data.admin.ch/eli/oc/2019/170). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2008 731](https://fedlex.data.admin.ch/eli/oc/2008/183); [2010 597](https://fedlex.data.admin.ch/eli/oc/2010/91); [2012 619](https://fedlex.data.admin.ch/eli/oc/2012/92); [2016 2219](https://fedlex.data.admin.ch/eli/oc/2016/355); [2019 945](https://fedlex.data.admin.ch/eli/oc/2019/170); [2023 381](https://fedlex.data.admin.ch/eli/oc/2023/381). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
