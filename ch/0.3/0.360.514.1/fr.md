@@ -3,11 +3,11 @@ sr: "0.360.514.1"
 title: "Accord du 15 décembre 2004 entre la Confédération suisse et la Principauté du Liechtenstein concernant la coopération dans le cadre des systèmes d'information suisses sur les empreintes digitales et les profils d'ADN (avec appendice)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/322"
 language: fr
-version: 2016-05-20
+version: 2023-07-12
 adopted: 2004-12-15
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/322/20160520/fr/xml/fedlex-data-admin-ch-eli-cc-2006-322-20160520-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20160520/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/322/20230712/fr/xml/fedlex-data-admin-ch-eli-cc-2006-322-20230712-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20230712/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,26 +16,25 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20160520/fr"
 
 RO **2006** 2031; FF **2005** 2733
 
-Traduction*[^t-1]*
+Traduction
 
 Conclu le 15 décembre 2004
 
-Approuvé par l’Assemblée fédérale le 16 décembre 2005[^t-2]
+Approuvé par l’Assemblée fédérale le 16 décembre 2005[^t-1]
 
 Instruments de ratification échangés le 30 avril 2006
 
 Entré en vigueur le 1<sup>er</sup> mai 2006
 
-(Etat le 20 mai 2016)
+(État le 12 juillet 2023)
 
-[^t-1]: Texte original allemand.
-[^t-2]: [RO 2006 2029](https://fedlex.data.admin.ch/eli/oc/2006/321)
+[^t-1]: [RO 2006 2029](https://fedlex.data.admin.ch/eli/oc/2006/321)
 
 La Confédération suisse et la Principauté du Liechtenstein,
 
-ci-après désignées les Etats contractants,
+ci-après désignées les États contractants,
 
-ayant à l’esprit la longue tradition d’amitié entre les deux Etats,
+ayant à l’esprit la longue tradition d’amitié entre les deux États,
 
 désirant oeuvrer ensemble à la sauvegarde de leurs intérêts communs en matière de sécurité,
 
@@ -67,7 +66,7 @@ sont convenues des dispositions suivantes:
 
 <sup>(2)</sup> L’appendice fait partie intégrante du présent Accord. Il peut être modifié par la voie diplomatique.
 
-<sup>(3)</sup> La Confédération suisse informe en temps utile la Principauté du Liechtenstein des modifications prévues du droit relatif aux dispositions mentionnées dans l’appendice et de son application, en vue de leur reprise par la Principauté du Liechtenstein. En cas de conflits d’intérêts, les Etats contractants s’efforcent de trouver des solutions communes.
+<sup>(3)</sup> La Confédération suisse informe en temps utile la Principauté du Liechtenstein des modifications prévues du droit relatif aux dispositions mentionnées dans l’appendice et de son application, en vue de leur reprise par la Principauté du Liechtenstein. En cas de conflits d’intérêts, les États contractants s’efforcent de trouver des solutions communes.
 
 #### Art. 3
 
@@ -85,7 +84,7 @@ Sont responsables de l’exécution du présent Accord et de la procédure prév
 
 **Commission mixte**
 
-Les deux Etats contractants constituent une commission mixte. Celle-ci traite les questions liées à l’interprétation et à l’application du présent Accord. Elle agit d’un commun accord.
+Les deux États contractants constituent une commission mixte. Celle-ci traite les questions liées à l’interprétation et à l’application du présent Accord. Elle agit d’un commun accord.
 
 #### Art. 6
 
@@ -95,9 +94,9 @@ La coopération prévue dans le cadre du présent Accord applique les dispositio
 
 #### Art. 7
 
-**Remise à des Etats tiers**
+**Remise à des États tiers**
 
-Les données transmises dans le cadre du présent Accord ne peuvent être remises à un Etat tiers qu’avec l’assentiment préalable écrit de l’Etat contractant qui a récolté et transmis les données.
+Les données transmises dans le cadre du présent Accord ne peuvent être remises à un État tiers qu’avec l’assentiment préalable écrit de l’État contractant qui a récolté et transmis les données.
 
 #### Art. 8
 
@@ -136,9 +135,9 @@ Les autorités suisses ne peuvent proposer ni fournir aux Archives fédérales d
 
 **Responsabilité**
 
-<sup>(1)</sup> Les Etats contractants sont responsables, conformément à leur droit national, de tout dommage illicite causé à une personne dans l’exécution du présent Accord.
+<sup>(1)</sup> Les États contractants sont responsables, conformément à leur droit national, de tout dommage illicite causé à une personne dans l’exécution du présent Accord.
 
-<sup>(2)</sup> L’Etat contractant requis peut former un recours contre l’autre Etat contractant, en fonction du degré de responsabilité de ce dernier, pour être remboursé en tout ou partie des dommages-intérêts qu’il a versés aux personnes lésées ou à leurs ayants droit.
+<sup>(2)</sup> L’État contractant requis peut former un recours contre l’autre État contractant, en fonction du degré de responsabilité de ce dernier, pour être remboursé en tout ou partie des dommages-intérêts qu’il a versés aux personnes lésées ou à leurs ayants droit.
 
 #### Art. 12
 
@@ -160,7 +159,7 @@ Les échantillons prélevés par les autorités liechtensteinoises qui sont tran
 
 [^13-1]: Nouvelle teneur selon l’échange de notes du 20 mai 2016, en vigueur depuis le 20 mai 2016 ([RO 2016 1613](https://fedlex.data.admin.ch/eli/oc/2016/296)).
 
-### B.**** Données signalétiques biométriques (AFIS)
+### B. Données signalétiques biométriques (AFIS)
 
 [^chapII-lvlB-1]
 
@@ -180,7 +179,7 @@ Les prélèvements de données signalétiques biométriques de requérants d’a
 
 <sup>(1)</sup> Le présent rapport est soumis à ratification. Il entrera en vigueur le jour suivant l’échange des instruments de ratification.
 
-<sup>(2)</sup> Le présent Accord est conclu pour une durée indéterminée. Chaque Etat contractant peut le dénoncer par la voie diplomatique, moyennant notification écrite. L’Accord sera abrogé six mois après réception de la dénonciation.
+<sup>(2)</sup> Le présent Accord est conclu pour une durée indéterminée. Chaque État contractant peut le dénoncer par la voie diplomatique, moyennant notification écrite. L’Accord sera abrogé six mois après réception de la dénonciation.
 
 <sup>(3)</sup> La Partie suisse se chargera de faire enregistrer le présent Accord auprès du Secrétariat général des Nations Unies, conformément à l’art. 102 de la Charte des Nations Unies[^15-1].
 
@@ -188,16 +187,17 @@ Les prélèvements de données signalétiques biométriques de requérants d’a
 
 *En foi de quoi,* les plénipotentiaires ont signé le présent Accord. Fait à Vaduz, en deux exemplaires en langue allemande, le 15 décembre 2004. Pour la Confédération suisse: Jean-Luc Vez Pour la Principauté du Liechtenstein: Adrian Hasler
 
-Appendice*[^t-3]*
+Appendice[^t-2]
 
-## Liste des dispositions du droit suisse applicables par la Principauté du Liechtenstein en vertu de l’art. 2 du présent Accord:
+## Liste des dispositions du droit suisse applicables par la Principauté de Liechtenstein en vertu de l’art. 2 du présent Accord:
 
-[^t-3]: Nouvelle teneur selon l’échange de notes du 20 mai 2016, en vigueur depuis le 20 mai 2016 ([RO 2016 1613](https://fedlex.data.admin.ch/eli/oc/2016/296)).
+[^t-2]: Nouvelle teneur selon l’échange de notes du 12 juil. 2023, en vigueur depuis le 12 juil. 2023 ([RO 2023 388](https://fedlex.data.admin.ch/eli/oc/2023/388)).
 
 <table>
-<tr><td>RS</td><td>Acte</td><td>RO</td></tr>
-<tr><td>312.0</td><td>Code de procédure pénale suisse du 5 octobre 2007 (code de procédure pénale, CPP) *Sont applicables* les art. 255 à 259 relatifs à l’analyse d’ADN concernant le prélèvement d’échantillons et l’établissement de profils dans le cadre d’une procédure pénale, en vue d’une transmission aux autorités suisses pour traitement.</td><td>*2010* 1881 *2014* 2055</td></tr>
-<tr><td>363</td><td>Loi fédérale du 20 juin 2003 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (loi sur les profils d’ADN) *Sont applicables* les art. 1*a*, 2, 6, 8, 9, 11, al. 1, 2 et 4, art. 13, al. 2, art. 14, 15, al. 1, art. 16, al. 1, let. a à f et al. 2 à 4, art. 17, al. 1, art. 18, 19, 20, al. 2 et art. 23, al. 1.</td><td>*2004* 5269 *2010* 1573 *2014* 2055</td></tr>
-<tr><td>363.1</td><td>Ordonnance du 3 décembre 2004 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (ordonnance sur les profils d’ADN) *Sont applicables* les art. 1, 2, al. 1, art. 6, 6*a*, 8, 9, 10, 11, 12, al. 1 et 2, art. 14 à 15*a* et 19.</td><td>*2004* 5279 *2005* 3337 *2008* 4943 *2014* 3467</td></tr>
-<tr><td>361.3</td><td>Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques *Sont applicables* les art. 2, 8, al. 1, let. a à c et e, art. 9, 10, 14, 16, al. 1, art. 17 à 22 et art. 26.</td><td>*2014* 4479</td></tr>
+<tr><th>RS</th><th>Acte</th><th>RO</th></tr>
+<tr><td>311.0</td><td>Code pénal suisse du 21 décembre 1937 *Est applicable* l’art. 354, al. 4</td><td>*54* 781 *2022* 600</td></tr>
+<tr><td>312.0</td><td>Code de procédure pénale suisse du 5 octobre 2007 (code de procédure pénale, CPP) *Sont applicables* les art. 255, al. 1 et 2, 257, 258 et 259 relatifs à l’analyse d’ADN concernant le prélèvement d’échantillons et l’établissement de profils dans le cadre d’une procédure pénale, en vue d’une transmission aux autorités suisses pour traitement</td><td>*2010* 1881 *2014* 2055</td></tr>
+<tr><td>363</td><td>Loi fédérale du 20 juin 2003 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (loi sur les profils d’ADN) *Sont applicables* les art. 2, 3, 6, 8, 9, 9*a*, let. a, 11, al. 1, 2 et 4, art. 14, 15, al. 1, art. 16, al. 1, al. 2, let. a à d et al. 3 à 7, art. 17, al. 1, art. 18, 19, 20, al. 2, art. 23, al. 1, et art. 23*a*</td><td>*2004* 5269 *2010* 1573 *2014* 2055 *2022* 537 *2023* 309</td></tr>
+<tr><td>363.1</td><td>Ordonnance du 3 décembre 2004 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (ordonnance sur les profils d’ADN) *Sont applicables* les art. 1, 2, al. 1, art. 6, 6*a*, 7, 8, 9, 9c, 10, 11, 12, al. 1 et 2, art. 13, 15*a*, 18*a* et art. 19</td><td>*2004* 5279 *2005* 3337 *2008* 4943 *2014* 3467 *2021* 132 *2022* 568 *2023* 325</td></tr>
+<tr><td>361.3</td><td>Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques *Sont applicables* les art 2, 8, al. 1, let. a à c et e, art. 9, 10, 12, 14, 16, al. 1, art. 18, 22, 23, al. 2, 23*a* et art. 26</td><td>*2014* 4479 *2021* 132 *2022* 568 *2023* 325</td></tr>
 </table>

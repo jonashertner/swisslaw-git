@@ -3,11 +3,11 @@ sr: "0.360.514.1"
 title: "Trattato del 15 dicembre 2004 tra la Confederazione Svizzera e il Principato del Liechtenstein sulla cooperazione nell'ambito dei sistemi d'informazione svizzeri per le impronte digitali e per i profili del DNA (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/322"
 language: it
-version: 2016-05-20
+version: 2023-07-12
 adopted: 2004-12-15
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/322/20160520/it/xml/fedlex-data-admin-ch-eli-cc-2006-322-20160520-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20160520/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/322/20230712/it/xml/fedlex-data-admin-ch-eli-cc-2006-322-20230712-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20230712/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20160520/it"
 
 RU **2006** 2031; FF **2005** 2597
 
-Traduzione*[^t-1]*
+Traduzione
 
 Concluso il 15 dicembre 2004
 
-Approvato dall’Assemblea federale il 16 dicembre 2005[^t-2] Ratificato con strumenti scambiati il 30 aprile 2006 Entrato in vigore il 1° maggio 2006
+Approvato dall’Assemblea federale il 16 dicembre 2005[^t-1] Ratificato con strumenti scambiati il 30 aprile 2006 Entrato in vigore il 1° maggio 2006
 
-(Stato 20 maggio 2016)
+(Stato 12 luglio 2023)
 
-[^t-1]: Dal testo originale tedesco.
-[^t-2]: [RU 2006 2029](https://fedlex.data.admin.ch/eli/oc/2006/321)
+[^t-1]: [RU 2006 2029](https://fedlex.data.admin.ch/eli/oc/2006/321)
 
 La Confederazione Svizzera e il Principato del Liechtenstein
 
@@ -156,7 +155,7 @@ Per quanto concerne i campioni prelevati dalle autorità del Liechtenstein e tra
 
 [^13-1]: Nuovo testo giusta lo scambio di note del 20 mag. 2016, in vigore dal 20 mag. 2016 ([RU 2016 1613](https://fedlex.data.admin.ch/eli/oc/2016/296)).
 
-### B.**** Dati segnaletici di natura biometrica (AFIS)
+### B. Dati segnaletici di natura biometrica (AFIS)
 
 [^chapII-lvlB-1]
 
@@ -184,16 +183,17 @@ Il prelievo da parte delle autorità del Liechtenstein di dati segnaletici di na
 
 *In fede di che,* i plenipotenziari hanno firmato il presente Trattato. Fatto a Vaduz, in due esemplari in lingua tedesca, il 15 dicembre 2004. Per la Confederazione Svizzera: Jean-Luc Vez Per il Principato del Liechtenstein: Adrian Hasler
 
-Allegato*[^t-3]*
+Allegato[^t-2]
 
 ## Lista delle disposizioni della legislazione federale svizzera applicabili nel Principato del Liechtenstein in virtù dell’articolo 2 del presente Trattato:
 
-[^t-3]: Nuovo testo giusta lo scambio di note del 20 mag. 2016, in vigore dal 20 mag. 2016 ([RU 2016 1613](https://fedlex.data.admin.ch/eli/oc/2016/296)).
+[^t-2]: Nuovo testo giusta lo scambio di note del 12 lug. 2023, in vigore dal 12 lug. 2023 ([RU 2023 388](https://fedlex.data.admin.ch/eli/oc/2023/388)).
 
 <table>
-<tr><td>n. RS</td><td>Testo</td><td>RU</td></tr>
-<tr><td>312.0</td><td>Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice di procedura penale, CPP) Sono *applicabili* gli art. 255–259 concernenti l’analisi del DNA, in particolare il prelievo di campioni e l’allestimento di profili nel contesto di un procedimento penale al fine della trasmissione alle autorità svizzere per l’ulteriore trattamento</td><td>*2010* 1881 *2014* 2055</td></tr>
-<tr><td>363</td><td>Legge federale del 20 giugno 2003 sull’utilizzo di profili del DNA nel procedimento penale e per l’identificazione di persone sconosciute o scomparse (Legge sui profili del DNA) Sono *applicabili* gli art. 1*a*, 2, 6, 8, 9, 11 cpv. 1, 2 e 4, l’art. 13 cpv. 2, gli art. 14 e 15 cpv. 1, l’art. 16 cpv. 1 lett. a–f e cpv. 2–4, l’art. 17 cpv. 1, gli art. 18, 19, 20 cpv. 2 e l’art. 23 cpv. 1</td><td>*2004* 5269 *2010* 1573 *2014* 2055</td></tr>
-<tr><td>363.1</td><td>Ordinanza del 3 dicembre 2004 sull’utilizzo di profili del DNA nel procedimento penale e per l’identificazione di persone sconosciute o scomparse (Ordinanza sui profili del DNA) Sono *applicabili* gli art. 1, 2 cpv. 1, gli art. 6, 6*a*, 8, 9, 10, 11, 12 cpv. 1 e 2 e gli art. 14–15*a* e 19</td><td>*2004* 5279 *2005* 3337 *2008* 4943 *2014* 3467</td></tr>
-<tr><td>361.3</td><td>Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica Sono *applicabili* gli art. 2, 8 cpv. 1 lett. a–c ed e, gli art. 9, 10, 14, 16 cpv. 1, gli art. 17–22 e l’art. 26</td><td>*2014* 4479</td></tr>
+<tr><th>n. RS</th><th>Testo</th><th>RU</th></tr>
+<tr><td>311.0</td><td>Codice penale svizzero del 21 dicembre 1937 È *applicabile* l’art. 354 cpv. 4</td><td>*54* 799 *2022* 600</td></tr>
+<tr><td>312.0</td><td>Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice di procedura penale, CPP) Sono *applicabili* l’art. 255 cpv. 1 e 2 e gli art. 257, 258 e 259 concernenti l’analisi del DNA, in particolare il prelievo di campioni e l’allestimento di profili nel contesto di un procedimento penale al fine della trasmissione alle autorità svizzere per l’ulteriore trattamento</td><td>*2010* 1881 *2014* 2055</td></tr>
+<tr><td>363</td><td>Legge federale del 20 giugno 2003 sull’utilizzo di profili del DNA nel procedimento penale e per l’identificazione di persone sconosciute o scomparse (Legge sui profili del DNA) Sono *applicabili* gli art. 2, 3, 6, 8, 9, 9*a* lett. a, 11 cpv. 1, 2 e 4, gli art. 14, 15 cpv. 1, l’art. 16 cpv. 1, 2 lett. a–d e cpv. 3–7, l’art. 17 cpv. 1, gli art. 18, 19, 20 cpv. 2, l’art. 23 cpv. 1 e l’art. 23*a*</td><td>*2004* 5269 *2010* 1573 *2014* 2055 *2022* 537 *2023* 309</td></tr>
+<tr><td>363.1</td><td>Ordinanza del 3 dicembre 2004 sull’utilizzo di profili del DNA nel procedimento penale e per l’identificazione di persone sconosciute o scomparse (Ordinanza sui profili del DNA) Sono *applicabili* gli art. 1, 2 cpv. 1, gli art. 6, 6*a*, 7, 8, 9, 9*c*, 10, 11, 12 cpv. 1 e 2 e gli art. 13, 15*a*, 18*a* e 19</td><td>*2004* 5279 *2005* 3337 *2008* 4943 *2014* 3467 *2021* 132 *2022* 568 *2023* 325</td></tr>
+<tr><td>361.3</td><td>Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica Sono *applicabili* gli art. 2, 8 cpv. 1 lett. a–c ed e, gli art. 9, 10, 12, 14, 16 cpv. 1, gli art. 18, 22, 23 cpv. 2 e gli art. 23*a* e 26</td><td>*2014* 4479 *2021* 132 *2022* 568 *2023* 325</td></tr>
 </table>
