@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Automobilsteuerverordnung: Aufhebung der Befreiung der Elektromobile von der Automobilsteuer"
 document: Vernehmlassungsvorlage
 language: de

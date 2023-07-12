@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur l’imposition des véhicules automobiles; suppression de l’exonération de l’impôt sur les véhicules automobiles pour les voitures électriques
 document: Projet mis en consultation
 language: fr
