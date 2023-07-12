@@ -4,13 +4,12 @@ number: "563.280"
 title: Tarifverordnung zum Taxigesetz
 short: Taxitarifverordnung
 language: de
-version: 2017-05-01
-valid_until: 2023-07-12
-version_adopted: 2017-04-25
+version: 2023-07-13
+version_adopted: 2023-07-04
 adopted: 2017-04-25
 in_force: 2017-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/563.280"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4135/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5957/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Taxitarifverordnung | Dienstleistungsgewerbe
 
 (Taxitarifverordnung)
 
-Vom 25. April 2017 (Stand 1. Mai 2017)
+Vom 25. April 2017 (Stand 13. Juli 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -46,9 +45,9 @@ beschliesst:
 <sup>1</sup> Es gelten folgende Höchstpreise:
 
 - a) Grundtaxe — Fr. 6.50
-- b) Tarif 1 (pro km): Für Fahrten an Werktagen (06.00 - 20.00 Uhr) innerhalb der Kantonsgrenze — Fr. 3.80
-- c) Tarif 2 (pro km): Für Fahrten in der Nacht (20.00 - 06.00 Uhr), an kantonalen und eidgenössischen Sonn- und Feiertagen sowie für Fahrten ausserhalb der Kantonsgrenze — Fr. 4.30
-- d) Wartezeittaxe pro Stunde — Fr. 70.00
+- b) Tarif 1 (pro km): Für Fahrten an Werktagen (06.00 - 20.00 Uhr) innerhalb der Kantonsgrenze — Fr. 4.00
+- c) Tarif 2 (pro km): Für Fahrten in der Nacht (20.00 - 06.00 Uhr), an kantonalen und eidgenössischen Sonn- und Feiertagen sowie für Fahrten ausserhalb der Kantonsgrenze — Fr. 4.50
+- d) Wartezeittaxe pro Stunde — Fr. 74.00
 - e) Zuschlag für Bestellfahrten — Fr. 2.80
 - f) Zuschlag für Bestellfahrten mit Grossraumtaxi — Fr. 12.80
 - g) Kinderrückhaltevorrichtungen:
