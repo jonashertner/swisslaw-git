@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modernisierung der Aufsicht. Änderung der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV), der Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2) und weiterer Verordnungen"
 document: Vernehmlassungsvorlage
 language: de

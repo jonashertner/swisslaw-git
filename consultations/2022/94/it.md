@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modernizzazione della vigilanza. Modifica dell’ordinanza sull’assicurazione per la vecchiaia e per i superstiti (OAVS), Ordinanza sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (OPP 2) e di altre ordinanze"
 document: Progetto posto in consultazione
 language: it

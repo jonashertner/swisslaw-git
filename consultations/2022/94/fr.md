@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modernisation de la surveillance. Modification du règlement sur l’assurance-vieillesse et survivants (RAVS), de l'ordonnance sur la prévoyance professionnelle vieillesse, survivants et invalidité (OPP 2) et d'autres ordonnances"
 document: Projet mis en consultation
 language: fr
