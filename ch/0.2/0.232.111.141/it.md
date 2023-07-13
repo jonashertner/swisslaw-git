@@ -3,11 +3,11 @@ sr: "0.232.111.141"
 title: Regolamento d’esecuzione comune del 2 ottobre 2018 all’Accordo di Lisbona sulla protezione delle denominazioni d’origine e sulla loro registrazione internazionale e all’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/744"
 language: it
-version: 2023-01-01
+version: 2023-07-14
 adopted: 2018-10-02
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230714/it/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230714-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230714/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Approvato dall’Assemblea dell’Unione di Lisbona il 2 ottobre 2018 Entrato in vigore per la Svizzera il 1° dicembre 2021
 
-(Stato 1° gennaio 2023)
+(Stato 14 luglio 2023)
 
 ## Capitolo I: Disposizioni generali e preliminari
 
@@ -124,9 +124,8 @@ Ai fini del presente regolamento d’esecuzione:
 - 3\. a) Se, per garantire la protezione di una denominazione d’origine o di un’indicazione geografica registrata sul proprio territorio, una Parte contraente dell’Atto di Ginevra esige che la domanda retta da detto Atto riporti anche dati relativi, nel caso di una denominazione d’origine, alla qualità o alle caratteristiche del prodotto e al suo legame con l’ambiente geografico dell’area geografica di produzione e, nel caso di un’indicazione geografica, alla qualità, alla reputazione o ad altre caratteristiche del prodotto e al suo legame con l’area geografica d’origine, tale Parte contraente lo notifica al Direttore generale.
 - b) Affinché tale requisito sia soddisfatto, i dati di cui al punto a) devono essere riportati in una lingua di lavoro, ma non sono tradotti dall’Ufficio internazionale.
 - c) Ogni domanda che non soddisfa i requisiti notificati da una Parte contraente in virtù del punto a) comporterà, fatta salva la regola 6, la rinuncia alla protezione in detta Parte contraente.
-- 4\. a) Se, per garantire la protezione di una denominazione d’origine o di un’indicazione geografica registrata, una Parte contraente dell’Atto di Ginevra esige che la domanda retta da detto Atto sia firmata da una persona autorizzata a rivendicare i diritti conferiti da tale protezione, la Parte contraente lo notifica al Direttore generale.
-- b) Se, per garantire la protezione di una denominazione d’origine o di un’indicazione geografica registrata, una Parte contraente dell’Atto di Ginevra esige che la domanda retta da detto Atto sia accompagnata da una dichiarazione dell’intenzione di utilizzo della denominazione d’origine o dell’indicazione geografica registrata sul proprio territorio o da una dichiarazione dell’intenzione di esercitare un controllo sull’utilizzo da parte di terzi di detta denominazione d’origine o indicazione geografica sul proprio territorio, tale Parte contraente lo notifica al Direttore generale.
-- c) Ogni domanda retta dall’Atto di Ginevra che non è firmata in conformità con il punto a) o che non è accompagnata da una dichiarazione di cui al punto b) comporterà, fatta salva la regola 6, la rinuncia alla protezione nella Parte contraente che ha notificato i suoi requisiti in materia di firma o dichiarazione in conformità con il punto a) o b).
+
+<sup>4.</sup> …[^5-2]
 
 <sup>5.</sup> La domanda retta dall’Atto di Ginevra indica se, per quanto noto al depositante, nella registrazione, nell’atto legislativo o regolatorio oppure nella decisione giudiziaria o amministrativa in virtù della quale la protezione è concessa alla denominazione d’origine o all’indicazione geografica nella Parte contraente d’origine è o meno precisato che la protezione non è concessa a taluni elementi della denominazione d’origine o dell’indicazione geografica. Questi elementi sono indicati nella domanda in una lingua di lavoro e nella lingua ufficiale o nelle lingue ufficiali della Parte contrante d’origine di cui all’alinea 2)a)iv), con le traslitterazioni richieste in virtù dell’alinea 2)b).
 
@@ -144,6 +143,7 @@ Ai fini del presente regolamento d’esecuzione:
 - b) In deroga alla regola 3.3), i dati di cui al punto a)i) e vi) non sono tradotti dall’Ufficio internazionale.
 
 [^5-1]: L’applicazione della regola 5.2)a)iv) e della regola 5.2)b) è subordinata alle disposizioni delle regole 3.3) e 4).
+[^5-2]: Abrogato dalla mod. adottata dall’Assemblea dell’Unione di Lisbona del 14 lug. 2023, con effetto dal 14 lug. 2023 ([RU 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Regola 6
 
@@ -152,10 +152,12 @@ Ai fini del presente regolamento d’esecuzione:
 - 1\. a) Fatto salvo l’alinea 2), qualora constati che una domanda non soddisfa i requisiti di cui alla regola 3.1) o alla regola 5, l’Ufficio internazionale sospende la registrazione e invita l’Autorità competente o, nel caso di cui all’articolo 5.3) dell’Atto di Ginevra, i beneficiari oppure la persona fisica o giuridica di cui all’articolo 5.2)ii) di detto Atto, a porre rimedio alle irregolarità constatate entro tre mesi a decorrere dalla data di invio dell’invito.
 - b) Qualora alle irregolarità constatate non sia posto rimedio entro due mesi a decorrere dalla data di invio dell’invito di cui al punto a), l’Ufficio internazionale invia una comunicazione con cui rinnova il suo invito. Questo non incide sul termine di tre mesi di cui al punto a).
 - c) Qualora alle irregolarità constatate non sia posto rimedio entro il termine di tre mesi di cui al punto a), l’Ufficio internazionale, fatto salvo il punto d), respinge la domanda e informa l’Autorità competente oppure, nel caso di cui all’articolo 5.3) dell’Atto di Ginevra, i beneficiari o la persona fisica o giuridica di cui all’articolo 5.2)ii) di detto Atto nonché l’Autorità competente.
-- d) Nel caso di un’irregolarità riguardante un requisito basato su una notifica di cui alla regola 5.3) o 4) oppure su una dichiarazione di cui all’articolo 7.4) dell’Atto di Ginevra, il fatto che all’irregolarità constatata non sia posto rimedio entro il termine di tre mesi di cui al punto a) è considerato dall’Ufficio internazionale come una rinuncia alla protezione risultante dalla registrazione internazionale nella Parte contraente che ha inviato la notifica o la dichiarazione.
+- d)[^6-1] Nel caso di un’irregolarità riguardante un requisito basato su una notifica di cui alla regola 5.3) oppure su una dichiarazione di cui all’articolo 7.4) dell’Atto di Ginevra, il fatto che all’irregolarità constatata non sia posto rimedio entro il termine di tre mesi di cui al punto a) è considerato dall’Ufficio internazionale come una rinuncia alla protezione risultante dalla registrazione internazionale nella Parte contraente che ha inviato la notifica o la dichiarazione.
 - e) Qualora, in conformità con il punto c), la domanda sia respinta, l’Ufficio internazionale rimborsa le tasse pagate per tale domanda al netto di un importo corrispondente alla metà della tassa di registrazione di cui alla regola 8.
 
 <sup>2.</sup> Qualora la domanda non sia depositata dall’Autorità competente della Parte contraente d’origine o, nel caso di cui all’articolo 5.3) dell’Atto di Ginevra, dai beneficiari oppure dalla persona fisica o giuridica di cui all’articolo 5.2)ii) di detto Atto, questa non è considerata come tale dall’Ufficio internazionale ed è rispedita al mittente.
+
+[^6-1]: Nuovo testo giusta la mod. adottata dall’Assemblea dell’Unione di Lisbona del 14 lug. 2023, in vigore dal 14 lug. 2023 ([RU 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Regola 7
 
@@ -179,12 +181,12 @@ L’Ufficio internazionale:
 
 - i) invia un certificato di registrazione internazionale all’Autorità competente della Parte contraente d’origine o, nel caso di cui all’articolo 5.3) dell’Atto di Ginevra, ai beneficiari oppure alla persona fisica o giuridica di cui all’articolo 5.2)ii) di detto Atto che hanno richiesto la registrazione; e
 - ii) notifica tale registrazione internazionale all’Autorità competente di ogni Parte contraente.
-- 4\. a)[^7-1] In caso di ratifica dell’Atto di Ginevra da parte di uno Stato parte dell’Atto del 1967 o di adesione di tale Stato all’Atto di Ginevra, nei confronti di tale Stato, per quanto riguarda le registrazioni internazionali o le denominazioni d’origine riconosciute in virtù dell’Atto del 1967, si applica *mutatis mutandis* la regola 5.2)–4). L’Ufficio internazionale verifica insieme all’Autorità competente interessata quali modifiche devono essere apportate, alla luce dei requisiti di cui alle regole 3.1) e 5.2)–4), in vista della registrazione in virtù dell’Atto di Ginevra e notifica le registrazioni internazionali così effettuate a ogni altra Parte contraente parte dell’Atto di Ginevra. Le modifiche di cui alla regola 5.2) sono soggette al pagamento della tassa di cui alla regola 8.1)ii).
+- 4\. a)[^7-1] In caso di ratifica dell’Atto di Ginevra da parte di uno Stato parte dell’Atto del 1967 o di adesione di tale Stato all’Atto di Ginevra, nei confronti di tale Stato, per quanto riguarda le registrazioni internazionali o le denominazioni d’origine riconosciute in virtù dell’Atto del 1967, si applica *mutatis mutandis* la regola 5.2) e 3). L’Ufficio internazionale verifica insieme all’Autorità competente interessata quali modifiche devono essere apportate, alla luce dei requisiti di cui alle regole 3.1), 5.2) e 3), in vista della registrazione in virtù dell’Atto di Ginevra e notifica le registrazioni internazionali così effettuate a ogni altra Parte contraente parte dell’Atto di Ginevra. Le modifiche di cui alla regola 5.2) sono soggette al pagamento della tassa di cui alla regola 8.1)ii).
 - b) Ogni notifica di rifiuto o invalidazione di una registrazione internazionale di cui al punto a) proveniente da una Parte contraente che è parte dell’Atto di Lisbona o dell’Atto del 1967 è riconosciuta come tale anche in virtù dell’Atto di Ginevra, a meno che la Parte contraente non notifichi il ritiro del rifiuto in virtù dell’articolo 16 dell’Atto di Ginevra o la concessione della protezione in virtù dell’articolo 18 dell’Atto di Ginevra.
 - c) Qualora il punto b) non sia applicabile, ogni Parte contraente che è parte dell’Atto di Ginevra e dell’Atto del 1967 continua, una volta ricevuta la notifica di cui al punto a), a proteggere la denominazione d’origine interessata anche in virtù dell’Atto di Ginevra, fatta salva ogni indicazione contraria della Parte contraente entro il termine di cui all’articolo 5.3) dell’Atto del 1967 e, per il resto della sua durata di validità, all’articolo 15.1) dell’Atto di Ginevra. Ogni termine concesso in virtù dell’articolo 5.6) dell’Atto del 1967 ancora in vigore al momento della ricezione della notifica di cui al punto a) è retto dalle disposizioni dell’articolo 17 dell’Atto di Ginevra per il resto della sua durata di validità.
 - d) L’Autorità competente di una Parte contraente dell’Atto di Ginevra, ma non parte dell’Atto del 1967, che riceve una notifica di cui al punto a) può notificare all’Ufficio internazionale, in conformità con l’articolo 15 dell’Atto di Ginevra, il rifiuto degli effetti di ogni singola registrazione internazionale sul suo territorio. Il rifiuto è notificato all’Ufficio internazionale da parte dell’Autorità competente entro il termine di cui alla regola 9.1)b) e c). Le regole 6.1)d) e 9–12 si applicano *mutatis mutandis*.
 
-[^7-1]: Nuovo testo giusta la mod. dell’Assemblea dell’Unione di Lisbona del 22 lug. 2022, in vigore dal 1° gen. 2023 ([RU 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^7-1]: Nuovo testo giusta la mod. adottata dall’Assemblea dell’Unione di Lisbona del 14 lug. 2023, in vigore dal 14 lug. 2023 ([RU 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Regola 7<sup>bis</sup>
 
@@ -380,7 +382,7 @@ Le modifiche che possono essere iscritte nel registro internazionale sono le seg
 - iii) modifica dei confini dell’area geografica di produzione o dell’area geografica d’origine del prodotto o dei prodotti cui si applica la denominazione d’origine o l’indicazione geografica;
 - iv) modifiche riguardanti l’atto legislativo o regolatorio, la decisione giudiziaria o amministrativa oppure la registrazione di cui alla regola 5.2)a)vii);
 - v) modifiche riguardanti la Parte contraente d’origine che non interessano l’area geografica di produzione o l’area geografica d’origine del prodotto o dei prodotti cui si applica la denominazione d’origine o l’indicazione geografica;
-- vi) [*Abrogato*].[^15-1]
+- vi) [*Abrogato*][^15-1]
 - 2\. a) Ogni domanda d’iscrizione di una modifica di cui all’alinea 1) è presentata all’Ufficio internazionale e firmata dall’Autorità competente della Parte contraente d’origine o, nel caso di cui all’articolo 5.3) dell’Atto di Ginevra, dai beneficiari oppure dalla persona fisica o giuridica di cui all’articolo 5.2)ii) di detto Atto ed è accompagnata dalla tassa di cui alla regola 8.
 - b) Qualora riguardi un’area geografica di produzione o una nuova area geografica d’origine transfrontaliera di cui all’articolo 1.xiii) dell’Atto di Ginevra, ogni domanda d’iscrizione di una modifica di cui all’alinea 1) è presentata all’Ufficio internazionale e firmata dall’Autorità competente designata di comune accordo di cui all’articolo 5.4) dell’Atto di Ginevra.
 

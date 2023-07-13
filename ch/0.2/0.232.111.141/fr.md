@@ -3,11 +3,11 @@ sr: "0.232.111.141"
 title: Règlement d’exécution commun du 2 octobre 2018 à l’Arrangement de Lisbonne concernant la protection des appellations d’origine et leur enregistrement international et à l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/744"
 language: fr
-version: 2023-01-01
+version: 2023-07-14
 adopted: 2018-10-02
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230714/fr/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230714-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230714/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en vigueur pour la Suisse le 1<sup>er</sup> décembre 2021
 
-(État le 1<sup>er</sup> janvier 2023)
+(État le 14 juillet 2023)
 
 ## Chapitre I Dispositions générales et liminaires
 
@@ -122,9 +122,7 @@ Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en 
 - 3\. a) Dans la mesure où une Partie contractante de l’Acte de Genève exige, pour qu’une appellation d’origine ou indication géographique enregistrée soit protégée sur son territoire, que la demande régie par l’Acte de Genève indique aussi des données concernant, dans le cas d’une appellation d’origine, la qualité ou les caractères du produit et le lien existant avec le milieu géographique de l’aire géographique de production et, dans le cas d’une indication géographique, la qualité, la notoriété ou d’autres caractères du produit et le lien existant avec l’aire géographique d’origine, elle doit notifier cette exigence au Directeur général.
 - b) Pour que cette condition soit remplie, les données visées au sous-al. a) doivent être fournies dans une langue de travail, mais elles ne sont pas traduites par le Bureau international.
 - c) Toute demande qui n’est pas conforme à une exigence notifiée par une Partie contractante en application du sous-al. a) a pour effet, sous réserve de la règle 6, qu’il est renoncé à la protection à l’égard de cette Partie contractante.
-- 4\. a) Dans la mesure où une Partie contractante de l’Acte de Genève exige, pour qu’une appellation d’origine ou indication géographique enregistrée soit protégée, que la demande régie par l’Acte de Genève soit signée par une personne habilitée à revendiquer les droits conférés par cette protection, elle doit notifier cette exigence au Directeur général.
-- b) Dans la mesure où une Partie contractante exige, pour qu’une appellation d’origine ou indication géographique enregistrée soit protégée, que la demande régie par l’Acte de Genève soit accompagnée d’une déclaration d’intention d’utiliser l’appellation d’origine ou indication géographique enregistrée sur son territoire ou d’une déclaration d’intention d’exercer un contrôle sur l’utilisation par d’autres de l’appellation d’origine ou indication géographique enregistrée sur son territoire, elle doit notifier cette exigence au Directeur général.
-- c) Toute demande régie par l’Acte de Genève qui n’est pas signée conformément au sous-al. a) ou qui n’est pas accompagnée d’une déclaration indiquée au sous-al. b) a pour effet, sous réserve de la règle 6, qu’il est renoncé à la protection à l’égard de la Partie contractante exigeant cette signature ou cette déclaration et qui l’a notifié conformément au sous-al. a) ou b).
+- [tab] 4. …[^5-2]
 
 - 6\. a)
 
@@ -140,6 +138,7 @@ Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en 
 - b) Nonobstant la règle 3.3), les données visées au sous-al. a)i) et vi) ne sont pas traduites par le Bureau international.
 
 [^5-1]: L’application de la règle 5.2)a)iv) et de la règle 5.2)b) est subordonnée aux dispositions de la règle 3.3) et 4).
+[^5-2]: Abrogé par les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 14 juil. 2023, avec effet au 14 juil. 2023 ([RO 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Règle 6
 
@@ -150,8 +149,10 @@ Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en 
 - 1\. a) Sous réserve de l’al. 2), si le Bureau international constate que la demande ne remplit pas les conditions fixées à la règle 3.1) ou à la règle 5, il sursoit à l’enregistrement et invite l’administration compétente ou, dans le cas visé à l’art. 5.3) de l’Acte de Genève, les bénéficiaires ou la personne physique ou morale visée à l’art. 5.2)ii) de cet Acte, à remédier à l’irrégularité constatée dans un délai de trois mois à compter de la date à laquelle a été envoyée cette invitation.
 - b) Si l’irrégularité constatée n’a pas été corrigée dans un délai de deux mois à compter de la date de l’invitation visée au sous-al. a), le Bureau international envoie une communication rappelant son invitation. L’envoi d’une telle communication n’a pas d’incidence sur le délai de trois mois visé au sous-al. a).
 - c) Si la correction de l’irrégularité n’est pas reçue par le Bureau international dans le délai de trois mois visé au sous-al. a), la demande est, sous réserve de l’al. d), rejetée par le Bureau international qui en informe l’administration compétente ou, dans le cas visé à l’art. 5.3) de l’Acte de Genève, les bénéficiaires ou la personne physique ou morale visée à l’art. 5.2)ii) de cet Acte ainsi que l’administration compétente.
-- d) Dans le cas d’une irrégularité concernant une exigence fondée sur une notification faite en vertu de la règle 5.3) ou 4), ou sur une déclaration faite en vertu de l’art. 7.4) de l’Acte de Genève, si la correction de l’irrégularité n’est pas reçue par le Bureau international dans le délai de trois mois visé au sous-al. a), il est considéré qu’il est renoncé à la protection résultant de l’enregistrement international dans la Partie contractante qui a fait la notification ou la déclaration.
+- d)[^6-1] Dans le cas d’une irrégularité concernant une exigence fondée sur une notification faite en vertu de la règle 5.3), ou sur une déclaration faite en vertu de l’art. 7.4) de l’Acte de Genève, si la correction de l’irrégularité n’est pas reçue par le Bureau international dans le délai de trois mois visé au sous-alinéa a), il est considéré qu’il est renoncé à la protection résultant de l’enregistrement international dans la partie contractante de l’Acte de Genève qui a fait la notification ou la déclaration.
 - e) Lorsque, conformément au sous-al. c), la demande est rejetée, le Bureau international rembourse les taxes payées pour cette demande, après déduction d’un montant correspondant à la moitié de la taxe d’enregistrement visée à la règle 8.
+
+[^6-1]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 14 juil. 2023, en vigueur depuis le 14 juil. 2023 ([RO 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Règle 7
 
@@ -173,12 +174,12 @@ Le Bureau international:
 
 - i) adresse un certificat d’enregistrement international à l’administration compétente de la Partie contractante d’origine ou, dans le cas visé à l’art. 5.3) de l’Acte de Genève, aux bénéficiaires ou à la personne physique ou morale visée à l’art. 5.2)ii) de cet Acte qui ont demandé cet enregistrement, et
 - ii) notifie ledit enregistrement international à l’administration compétente de chaque Partie contractante.
-- 4\. a)[^7-1] En cas de ratification de l’Acte de Genève par un État partie à l’Acte de 1967, ou d’adhésion de cet État à l’Acte de Genève, la règle 5.2) à 4) s’applique mutatis mutandis en ce qui concerne les enregistrements internationaux ou appellations d’origine en vigueur au titre de l’Acte de 1967 à l’égard de cet État. Le Bureau international vérifie auprès de l’administration compétente concernée toutes les modifications à apporter, compte tenu des conditions prescrites aux règles 3.1) et 5.2) à 4), en vue de leur enregistrement au titre de l’Acte de Genève et notifie les enregistrements internationaux ainsi effectués à toutes les autres parties contractantes qui sont parties à l’Acte de Genève. Les modifications relatives à la règle 5.2) donnent lieu au paiement de la taxe visée à la règle 8.1)ii).
+- 4\. a)[^7-1] En cas de ratification de l’Acte de Genève par un État partie à l’Acte de 1967, ou d’adhésion de cet État à l’Acte de Genève, la règle 5.2) et 3) s’applique mutatis mutandis en ce qui concerne les enregistrements internationaux ou appellations d’origine en vigueur au titre de l’Acte de 1967 à l’égard de cet État. Le Bureau international vérifie auprès de l’administration compétente concernée toutes les modifications à apporter, compte tenu des conditions prescrites aux règles 3.1), 5.2) et 3) en vue de leur enregistrement au titre de l’Acte de Genève et notifie les enregistrements internationaux ainsi effectués à toutes les autres parties contractantes qui sont parties à l’Acte de Genève. Les modifications relatives à la règle 5.2) donnent lieu au paiement de la taxe visée à la règle 8.1)ii).
 - b) Tout refus ou invalidation émis par une Partie contractante de l’Acte de Genève et de l’Acte de 1967 reste en vigueur au titre de l’Acte de Genève à l’égard d’un enregistrement international visé au sous-al. a), sauf si la Partie contractante notifie un retrait de refus en vertu de l’art. 16 de l’Acte de Genève ou une déclaration d’octroi de la protection en vertu de l’art. 18 de l’Acte de Genève.
 - c) Lorsque le sous-al. b) n’est pas applicable, toute Partie contractante de l’Acte de Genève et de l’Acte de 1967 doit, à la réception de la notification visée au sous-al. a), continuer de protéger l’appellation d’origine concernée également en vertu de l’Acte de Genève, sauf indication contraire de la Partie contractante dans le délai prévu à l’art. 5.3) de l’Acte de 1967, et à l’art. 15.1) de l’Acte de Genève pour le reste de sa durée de validité. Tout délai accordé en vertu de l’art. 5.6) de l’Acte de 1967, encore en vigueur au moment où la notification visée au sous-al. a) est reçue, est régi par les dispositions de l’art. 17 de l’Acte de Genève pour le reste de sa durée de validité.
 - d) L’administration compétente d’une Partie contractante de l’Acte de Genève mais pas de l’Acte de 1967 qui reçoit une notification visée au sous-al. a) peut, conformément à l’art. 15 de l’Acte de Genève, notifier au Bureau international le refus des effets de l’un quelconque de ces enregistrements internationaux sur son territoire. Le refus est adressé au Bureau international par cette administration compétente dans le délai prescrit à la règle 9.1)b) et c). Les règles 6.1)d) et 9) à 12) s’appliquent *mutatis mutandis*.
 
-[^7-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^7-1]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 14 juil. 2023, en vigueur depuis le 14 juil. 2023 ([RO 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Règle 7<sup>bis</sup>
 
@@ -239,7 +240,7 @@ la date de l’enregistrement international est la date à laquelle la dernière
 - b) L’Assemblée peut, à la majorité des trois quarts, abroger le sous-al. a) ou restreindre la portée du sous-al. a). Seules les Parties contractantes de l’Acte de Genève et de l’Acte de 1967 ont le droit de vote.
 
 [^8-1]: Pour un enregistrement international désignant une aire géographique située dans un pays de la catégorie des pays les moins avancés (PMA), conformément aux listes établies par l’Organisation des Nations Unies, la taxe est ramenée à 50 % du montant prescrit (arrondi au nombre entier le plus proche). Dans ce cas, la taxe sera de 500 francs suisses pour un enregistrement international désignant une aire géographique d’origine située dans un pays de la catégorie des PMA, de 250 francs suisses pour une modification d’un enregistrement international désignant une aire géographique d’origine située dans un pays de la catégorie des PMA et de 150 francs suisses représentant une taxe complémentaire pour une ou plusieurs modifications supplémentaires présentées dans la même demande. Ces réductions de taxes seront applicables pendant une durée de trois ans à compter de la date d’entrée en vigueur de l’Acte de Genève.
-[^8-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^8-2]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
 
 ## Chapitre III Refus et autres mesures relatives à l’enregistrement international
 
@@ -262,8 +263,8 @@ la date de l’enregistrement international est la date à laquelle la dernière
 - v) lorsque le refus ne concerne que certains éléments de l’appellation d’origine ou de l’indication géographique, une indication des éléments qu’il concerne;
 - vi) les recours judiciaires ou administratifs disponibles pour contester le refus ainsi que les délais de recours applicables.
 
-[^9-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
-[^9-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^9-1]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^9-2]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
 
 #### Règle 10
 
@@ -370,7 +371,7 @@ la date de l’enregistrement international est la date à laquelle la dernière
 - 2\. a) Toute demande d’inscription d’une modification visée à l’al. 1) doit être présentée au Bureau international et signée par l’administration compétente de la Partie contractante d’origine ou, dans le cas visé à l’art. 5.3) de l’Acte de Genève, par les bénéficiaires ou par la personne physique ou morale visée à l’art. 5.2)ii) de cet Acte et doit être accompagnée de la taxe prescrite à la règle 8.
 - b) Toute demande d’inscription d’une modification visée à l’al. 1) doit, lorsqu’elle concerne une aire géographique de production ou une aire géographique d’origine transfrontalière nouvellement établie visée à l’art. 1.xiii) de l’Acte de Genève, être présentée au Bureau international et signée par l’administration compétente désignée en commun visée à l’art. 5.4) de l’Acte de Genève.
 
-[^15-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^15-1]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
 
 #### Règle 16
 
@@ -390,7 +391,7 @@ la date de l’enregistrement international est la date à laquelle la dernière
   - i) le retrait de la renonciation est reçu par le Bureau international dans le cas d’une renonciation visée à l’al. 1), et
   - ii) la correction de l’irrégularité est reçue par le Bureau international dans le cas d’une renonciation visée à la règle 6.1)d).
 
-[^16-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^16-1]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
 
 #### Règle 17
 

@@ -3,11 +3,11 @@ sr: "0.232.111.141"
 title: Gemeinsame Ausführungsordnung vom 2. Oktober 2018 zum Lissabonner Abkommen über den Schutz der Ursprungsbezeichnungen und ihre internationale Registrierung und zur Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/744"
 language: de
-version: 2023-01-01
+version: 2023-07-14
 adopted: 2018-10-02
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230714/de/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230714-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230714/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2021** 744
 
 Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kraft getreten für die Schweiz am 1. Dezember 2021
 
-(Stand am 1. Januar 2023)
+(Stand am 14. Juli 2023)
 
 ## Kapitel I: Einleitende und allgemeine Bestimmungen
 
@@ -122,9 +122,7 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - 3\. a) Sofern eine Vertragspartei der Genfer Akte für den Schutz einer eingetragenen Ursprungsbezeichnung oder einer eingetragenen geografischen Angabe in ihrem Gebiet verlangt, dass das durch die Genfer Akte geregelte Gesuch im Fall einer Ursprungsbezeichnung auch Angaben zur Qualität oder zu den Eigenschaften der Ware und zum Zusammenhang mit den geografischen Verhältnissen des geografischen Produktionsgebiets sowie im Fall einer geografischen Angabe auch Angaben zur Qualität, zum Ruf oder zu anderen Eigenschaften der Ware und zum Zusammenhang mit dem geografischen Ursprungsgebiet beinhaltet, hat sie diese Anforderung dem Generaldirektor mitzuteilen.
 - b) Damit dieses Erfordernis erfüllt ist, sind die in Buchstabe a genannten Angaben in einer Arbeitssprache einzureichen, werden jedoch vom Internationalen Büro nicht übersetzt.
 - c) Die Nichteinhaltung einer von einer Vertragspartei in Anwendung von Buchstabe a mitgeteilten Anforderung führt vorbehaltlich Regel 6 zur Verweigerung des Schutzes in Bezug auf diese Vertragspartei.
-- 4\. a) Sofern eine Vertragspartei der Genfer Akte für den Schutz einer eingetragenen Ursprungsbezeichnung oder einer eingetragenen geografischen Angabe verlangt, dass das durch die Genfer Akte geregelte Gesuch von einer Person unterzeichnet sein muss, die befugt ist, die durch diesen Schutz gewähren Rechte geltend zu machen, hat sie diese Anforderung dem Generaldirektor mitzuteilen.
-- b) Sofern eine Vertragspartei für den Schutz einer eingetragenen Ursprungsbezeichnung oder einer eingetragenen geografischen Angabe verlangt, dass das durch die Genfer Akte geregelte Gesuch zusammen mit einer Erklärung über die beabsichtigte Benutzung der in ihrem Gebiet eingetragenen Ursprungsbezeichnung oder geografischen Angabe oder zusammen mit einer Erklärung über die beabsichtigte Ausübung einer Kontrolle über die Benutzung der in ihrem Gebiet eingetragenen Ursprungsbezeichnung oder geografischen Angabe durch andere eingereicht wird, hat sie diese Anforderung dem Generaldirektor mitzuteilen
-- c) Die Nichtunterzeichnung von durch die Genfer Akte geregelten Gesuchen gemäss Buchstabe a oder die Nichteinreichung einer Erklärung gemäss Buchstabe b führt vorbehaltlich der Regel 6 zur Verweigerung des Schutzes in Bezug auf die Vertragspartei, die diese Unterzeichnung oder Erklärung verlangt und dies gemäss Buchstabe a oder b mitgeteilt hat.
+- 4\. …[^5-2]
 
 - 6\. a)
 
@@ -140,6 +138,7 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - b) Ungeachtet von Regel 3 Absatz 3 werden die in Buchstabe a Ziffern i und vi genannten Angaben vom Internationalen Büro nicht übersetzt.
 
 [^5-1]: Die Anwendung von Regel 5 Absatz 2 Buchstabe a Ziffer iv und von Regel 5 Absatz 2 Buchstabe b untersteht den Bestimmungen von Regel 3 Absatz 3 und 4.
+[^5-2]: Aufgehoben durch Beschluss der Versammlung des Lissabonner Verbands vom 14. Juli 2023, mit Wirkung seit 14. Juli 2023 ([AS 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Regel 6
 
@@ -150,8 +149,10 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - 1\. a) Stellt das Internationale Büro vorbehaltlich Absatz 2 fest, dass das Gesuch die Erfordernisse von Regel 3 Absatz 1 oder Regel 5 nicht erfüllt, so setzt es die Registrierung aus und fordert die zuständige Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte auf, den festgestellten Mangel innerhalb von drei Monaten ab dem Datum, an dem diese Aufforderung übersandt wurde, zu beheben.
 - b) Wird der festgestellte Mangel nicht innerhalb von zwei Monaten ab dem Datum der in Buchstabe a genannten Aufforderung behoben, so übersendet das Internationale Büro eine Mitteilung, in der an seine Aufforderung erinnert wird. Die in Buchstabe a genannte Frist von drei Monaten bleibt von der Übersendung einer solchen Mitteilung unberührt.
 - c) Geht die Behebung des Mangels nicht innerhalb der in Buchstabe a genannten Frist von drei Monaten beim Internationalen Büro ein, so wird das Gesuch vorbehaltlich Buchstabe d vom Internationalen Büro abgewiesen, das die zuständige Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie die zuständige Behörde darüber unterrichtet.
-- d) Im Fall eines Mangels in Bezug auf ein Erfordernis, das auf der Grundlage einer gemäss Regel 5 Absatz 3 oder 4 erfolgten Mitteilung oder einer gemäss Artikel 7 Absatz 4 der Genfer Akte abgegebenen Erklärung basiert, wird davon ausgegangen, dass in der Vertragspartei, die die Mitteilung eingereicht oder die Erklärung abgegeben hat, auf den Schutz aus der internationalen Registrierung verzichtet wird, falls die Behebung des Mangels nicht innerhalb der in Buchstabe a genannten Frist von drei Monaten beim Internationalen Büro eingeht.
+- d)[^6-1] Im Fall eines Mangels in Bezug auf ein Erfordernis, das auf der Grundlage einer gemäss Regel 5 Absatz 3 erfolgten Mitteilung oder einer gemäss Artikel 7 Absatz 4 der Genfer Akte abgegebenen Erklärung basiert, wird davon ausgegangen, dass in der Vertragspartei, die die Mitteilung eingereicht oder die Erklärung abgegeben hat, auf den Schutz aus der internationalen Registrierung verzichtet wird, falls die Behebung des Mangels nicht innerhalb der in Buchstabe a genannten Frist von drei Monaten beim Internationalen Büro eingeht.
 - e) Wird das Gesuch gemäss Buchstabe c zurückgewiesen, erstattet das Internationale Büro die für dieses Gesuch entrichteten Gebühren nach Abzug eines Betrags in Höhe der halben in Regel 8 genannten Registrierungsgebühr zurück.
+
+[^6-1]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 14. Juli 2023, in Kraft seit 14. Juli 2023 ([AS 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Regel 7
 
@@ -173,12 +174,12 @@ Das Internationale Büro:
 
 - i) übersendet der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii, die die Registrierung beantragt haben, eine Bescheinigung über die internationale Registrierung; und
 - ii) teilt die internationale Registrierung der zuständigen Behörde jeder Vertragspartei mit.
-- 4\. a)[^7-1] Im Fall der Ratifikation der Genfer Akte durch einen Staat, der Partei der Akte von 1967 ist, oder im Fall des Beitritts dieses Staates zur Genfer Akte findet Regel 5 Absatz 2–4 auf internationale Registrierungen oder Ursprungsbezeichnungen, die in Bezug auf diesen Staat gemäss der Akte von 1967 in Kraft sind, sinngemäss Anwendung. Das Internationale Büro prüft bei der betroffenen zuständigen Behörde alle vorzunehmenden Änderungen unter Berücksichtigung der in Regel 3 Absatz 1 und Regel 5 Absatz 2–4 vorgeschriebenen Erfordernisse hinsichtlich ihrer Eintragung gemäss der Genfer Akte und teilt die auf diese Weise vorgenommenen internationalen Registrierungen allen anderen Vertragsparteien mit, die Partei der Genfer Akte sind. Für die Änderungen gemäss Regel 5 Absatz 2 ist die Zahlung der Gebühr gemäss Regel 8 Absatz 1 Ziffer ii erforderlich.
+- 4\. a)[^7-1] Im Fall der Ratifikation der Genfer Akte durch einen Staat, der Partei der Akte von 1967 ist, oder im Fall des Beitritts dieses Staates zur Genfer Akte findet Regel 5 Absatz 2 und 3 auf internationale Registrierungen oder Ursprungsbezeichnungen, die in Bezug auf diesen Staat gemäss der Akte von 1967 in Kraft sind, sinngemäss Anwendung. Das Internationale Büro prüft bei der betroffenen zuständigen Behörde alle vorzunehmenden Änderungen unter Berücksichtigung der in Regel 3 Absatz 1 und Regel 5 Absatz 2 und 3 vorgeschriebenen Erfordernisse hinsichtlich ihrer Eintragung gemäss der Genfer Akte und teilt die auf diese Weise vorgenommenen internationalen Registrierungen allen anderen Vertragsparteien mit, die Partei der Genfer Akte sind. Für die Änderungen gemäss Regel 5 Absatz 2 ist die Zahlung der Gebühr gemäss Regel 8 Absatz 1 Ziffer ii erforderlich.
 - b) Eine von einer Vertragspartei der Genfer Akte und der Akte von 1967 erlassene Schutzverweigerung oder Ungültigerklärung bleibt gemäss der Genfer Akte in Bezug auf die in Buchstabe a genannte internationale Registrierung in Kraft, ausser wenn die Vertragspartei eine Rücknahme der Schutzverweigerung gemäss Artikel 16 der Genfer Akte oder eine Erklärung über die Schutzgewährung gemäss Artikel 18 der Genfer Akte mitteilt.
 - c) Ist Buchstabe b nicht anwendbar, so hat jede Vertragspartei der Genfer Akte und der Akte von 1967 beim Eingang der Mitteilung gemäss Buchstabe a die betreffende Ursprungsbezeichnung ausser im Fall einer gegenteiligen Angabe der Vertragspartei innerhalb der in Artikel 5 Absatz 3 der Akte von 1967 und der in Artikel 15 Absatz 1 der Genfer Akte genannten Frist auch gemäss der Genfer Akte für die restliche Dauer ihrer Gültigkeit weiter zu schützen. Jede gemäss Artikel 5 Absatz 6 der Akte von 1967 gewährte, zum Zeitpunkt des Eingangs der Mitteilung gemäss Buchstabe a noch gültige Frist wird für die restliche Dauer ihrer Gültigkeit durch die Bestimmungen von Artikel 17 der Genfer Akte geregelt.
 - d) Die zuständige Behörde einer Partei, die Vertragspartei der Genfer Akte, jedoch nicht der Akte von 1967 ist und bei der eine Mitteilung gemäss Buchstabe a eingegangen ist, kann gemäss Artikel 15 der Genfer Akte dem Internationalen Büro die Verweigerung der Wirksamkeit irgendeiner dieser internationalen Registrierungen in ihrem Gebiet mitteilen. Die Verweigerung ist über diese zuständige Behörde innerhalb der in Regel 9 Absatz 1 Buchstabe b und c genannten Frist dem Internationalen Büro zu übersenden. Regel 6 Absatz 1 Buchstabe d und die Regeln 9–12 sind sinngemäss anzuwenden.
 
-[^7-1]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 22. Juli 2022, in Kraft seit 1. Jan. 2023 ([AS 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^7-1]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 14. Juli 2023, in Kraft seit 14. Juli 2023 ([AS 2026 330](https://fedlex.data.admin.ch/eli/oc/2026/330)).
 
 #### Regel 7<sup>bis</sup>
 
@@ -466,7 +467,7 @@ Die Mitteilungen des Internationalen Büros gemäss dieser Ausführungsordnung s
 
 **Inkrafttreten; Übergangsbestimmungen**
 
-<sup>1.</sup> Diese Ausführungsordnung tritt am [*das Datum des Inkrafttretens wird mit dem Inkrafttreten der Genfer Akte des Lissabonner Abkommens über* *Ursprungsbezeichnungen und geografische Angaben*[^25-1] *zusammenfallen*] in Kraft und ersetzt von diesem Zeitpunkt an die am 1. Januar 2016 geltende Ausführungsordnung zur Akte von 1967 über den Schutz und die internationale Registrierung von Ursprungsbezeichnungen (nachfolgend als «Ausführungsordnung zum Abkommen» bezeichnet).
+<sup>1.</sup> Diese Ausführungsordnung tritt am [*das Datum des Inkrafttretens wird mit dem Inkrafttreten der Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben*[^25-1] *zusammenfallen*] in Kraft und ersetzt von diesem Zeitpunkt an die am 1. Januar 2016 geltende Ausführungsordnung zur Akte von 1967 über den Schutz und die internationale Registrierung von Ursprungsbezeichnungen (nachfolgend als «Ausführungsordnung zum Abkommen» bezeichnet).
 
 <sup>2.</sup>
 
