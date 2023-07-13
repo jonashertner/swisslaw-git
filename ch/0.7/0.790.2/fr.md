@@ -3,11 +3,11 @@ sr: "0.790.2"
 title: Convention du 29 mars 1972 sur la responsabilité internationale pour les dommages causés par des objets spatiaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/784_784_784"
 language: fr
-version: 2020-08-05
+version: 2023-07-14
 adopted: 1972-03-29
 in_force: 1974-01-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/784_784_784/20200805/fr/xml/fedlex-data-admin-ch-eli-cc-1974-784_784_784-20200805-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/784_784_784/20200805/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/784_784_784/20230714/fr/xml/fedlex-data-admin-ch-eli-cc-1974-784_784_784-20230714-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/784_784_784/20230714/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres, Moscou et Washington le 29 mars 1972 Approuvée par l’Assemblée fédérale le 26 novembre 1973[^t-1] Instrument de ratification déposé par la Suisse le 22 janvier 1974 Entrée en vigueur pour la Suisse le 22 janvier 1974
 
-(Etat le 5 août 2020)
+(État le 14 juillet 2023)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 26 nov. 1973 ([RO 1974 783](https://fedlex.data.admin.ch/eli/oc/1974/783_783_783))
 
@@ -234,7 +234,7 @@ La présente Convention, dont les textes anglais, russe, français, espagnol et 
 
 *En foi de quoi,* les soussignés, dûment habilités à cet effet, ont signé la présente Convention. Fait en trois exemplaires, à Londres, Moscou et Washington, le 29 mars 1972. (Suivent les signatures)
 
-Champ d’application le 5 août 2020**[^t-2]**
+Champ d’application le 14 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
@@ -259,7 +259,7 @@ Champ d’application le 5 août 2020**[^t-2]**
 <tr><td>Canada\*</td><td>20 février</td><td>1975 A</td><td>20 février</td><td colspan="2">1975</td></tr>
 <tr><td>Chili</td><td>1<sup>er</sup> décembre</td><td>1976 A</td><td>1<sup>er</sup> décembre</td><td colspan="2">1976</td></tr>
 <tr><td>Chine\*</td><td>20 décembre</td><td>1988 A</td><td>20 décembre</td><td colspan="2">1988</td></tr>
-<tr><td>[tab] Hong Kong <sup>a</sup></td><td>3 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td colspan="2">1997</td></tr>
+<tr><td>[tab] Hong Kong</td><td>3 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td colspan="2">1997</td></tr>
 <tr><td>Chypre</td><td>15 mai</td><td>1973</td><td>15 mai</td><td colspan="2">1973</td></tr>
 <tr><td>Colombie</td><td>2 juillet</td><td>2014</td><td>2 juillet</td><td colspan="2">2014</td></tr>
 <tr><td>Corée (Nord)</td><td>24 février</td><td>2016 A</td><td>24 février</td><td colspan="2">2016</td></tr>
@@ -306,10 +306,12 @@ Champ d’application le 5 août 2020**[^t-2]**
 <tr><td>Nigéria</td><td>21 décembre</td><td>2005 A</td><td>21 décembre</td><td colspan="2">2005</td></tr>
 <tr><td>Norvège</td><td>3 avril</td><td>1995</td><td>3 avril</td><td colspan="2">1995</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>30 octobre</td><td>1974</td><td>30 octobre</td><td colspan="2">1974</td></tr>
+<tr><td>Oman</td><td>4 février</td><td>2022</td><td>4 février</td><td colspan="2">2022</td></tr>
 <tr><td>Organisation européenne de télécommunications par satellite (EUTELSAT)</td><td>30 novembre</td><td>1987</td><td>30 novembre</td><td colspan="2">1987</td></tr>
 <tr><td>Pakistan</td><td>4 avril</td><td>1973</td><td>4 avril</td><td colspan="2">1973</td></tr>
 <tr><td>Panama</td><td>5 juin</td><td>1974</td><td>5 juin</td><td colspan="2">1974</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>27 octobre</td><td>1980 S</td><td>16 septembre</td><td colspan="2">1975</td></tr>
+<tr><td>Paraguay</td><td>11 juillet</td><td>2023 A</td><td>11 juillet</td><td colspan="2">2023</td></tr>
 <tr><td>Pays-Bas</td><td>17 février</td><td>1981 A</td><td>17 février</td><td colspan="2">1981</td></tr>
 <tr><td>Aruba</td><td>17 février</td><td>1981</td><td>17 février</td><td colspan="2">1981</td></tr>
 <tr><td>Curaçao</td><td>17 février</td><td>1981</td><td>17 février</td><td colspan="2">1981</td></tr>
@@ -345,7 +347,7 @@ Champ d’application le 5 août 2020**[^t-2]**
 <tr><td>Uruguay</td><td>7 janvier</td><td>1977 A</td><td>7 janvier</td><td colspan="2">1977</td></tr>
 <tr><td>Venezuela</td><td>1<sup>er</sup> août</td><td>1978</td><td>1<sup>er</sup> août</td><td colspan="2">1978</td></tr>
 <tr><td>Zambie</td><td>20 août</td><td>1973 A</td><td>20 août</td><td colspan="2">1973</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Celles-ci peuvent être consultées à l’adresse du site Internet des Nations Unies https://treaties.un.org/ &gt; Enregistrement et publication &gt; Recueil des Traités des Nations Unies ou obtenues auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 9 oct. 1973 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 11 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Celles-ci peuvent être consultées à l’adresse du site Internet des Nations Unies: [https://treaties.un.org/](https://treaties.un.org/) &gt; Enregistrement et publication &gt; Recueil des Traités des Nations Unies ou obtenues auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: RO **1974** 793, [1976 1862](https://fedlex.data.admin.ch/eli/oc/1976/1862_1862_1862), [1979 1861](https://fedlex.data.admin.ch/eli/oc/1979/1861_1861_1861), [1982 260](https://fedlex.data.admin.ch/eli/oc/1982/260_260_260), [1983 1324](https://fedlex.data.admin.ch/eli/oc/1983/1324_1324_1324), [1985 1693](https://fedlex.data.admin.ch/eli/oc/1985/1693_1693_1693), [1987 1219](https://fedlex.data.admin.ch/eli/oc/1987/1219_1219_1219), [1990 1996](https://fedlex.data.admin.ch/eli/oc/1990/1996_1996_1996), [2005 2085](https://fedlex.data.admin.ch/eli/oc/2005/335), [2007 2055](https://fedlex.data.admin.ch/eli/oc/2007/288), [2012 431](https://fedlex.data.admin.ch/eli/oc/2012/48), [2015 2575](https://fedlex.data.admin.ch/eli/oc/2015/485), [2019 1223](https://fedlex.data.admin.ch/eli/oc/2019/231), [2020 3575](https://fedlex.data.admin.ch/eli/oc/2020/636). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1974 784](https://fedlex.data.admin.ch/eli/oc/1974/784_784_784); [1976 1862](https://fedlex.data.admin.ch/eli/oc/1976/1862_1862_1862); [1979 1861](https://fedlex.data.admin.ch/eli/oc/1979/1861_1861_1861); [1982 260](https://fedlex.data.admin.ch/eli/oc/1982/260_260_260); [1983 1324](https://fedlex.data.admin.ch/eli/oc/1983/1324_1324_1324); [1985 1693](https://fedlex.data.admin.ch/eli/oc/1985/1693_1693_1693); [1987 1219](https://fedlex.data.admin.ch/eli/oc/1987/1219_1219_1219); [1990 1996](https://fedlex.data.admin.ch/eli/oc/1990/1996_1996_1996); [2005 2085](https://fedlex.data.admin.ch/eli/oc/2005/335); [2007 2055](https://fedlex.data.admin.ch/eli/oc/2007/288); [2012 431](https://fedlex.data.admin.ch/eli/oc/2012/48); [2015 2575](https://fedlex.data.admin.ch/eli/oc/2015/485); [2019 1223](https://fedlex.data.admin.ch/eli/oc/2019/231); [2020 3575](https://fedlex.data.admin.ch/eli/oc/2020/636); [2023 389](https://fedlex.data.admin.ch/eli/oc/2023/389). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)

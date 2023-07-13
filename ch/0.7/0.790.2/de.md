@@ -3,11 +3,11 @@ sr: "0.790.2"
 title: Übereinkommen vom 29. März 1972 über die völkerrechtliche Haftung für Schäden durch Weltraumgegenstände
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/784_784_784"
 language: de
-version: 2020-08-05
+version: 2023-07-14
 adopted: 1972-03-29
 in_force: 1974-01-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/784_784_784/20200805/de/xml/fedlex-data-admin-ch-eli-cc-1974-784_784_784-20200805-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/784_784_784/20200805/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/784_784_784/20230714/de/xml/fedlex-data-admin-ch-eli-cc-1974-784_784_784-20230714-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/784_784_784/20230714/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 22. Januar 1974
 
 In Kraft getreten für die Schweiz am 22. Januar 1974
 
-(Stand am 5. August 2020)
+(Stand am 14. Juli 2023)
 
 [^t-1]: [AS 1974 783](https://fedlex.data.admin.ch/eli/oc/1974/783_783_783)
 
@@ -235,7 +235,7 @@ Dieses Übereinkommen, dessen englischer, russischer, französischer, spanischer
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu London, Moskau und Washington am 29. März 1972 in drei Urschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. August 2020**[^t-2]**
+Geltungsbereich am 14. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -254,7 +254,7 @@ Geltungsbereich am 5. August 2020**[^t-2]**
 <tr><td>Bulgarien</td><td>16. Mai</td><td>1972</td><td>1. September</td><td>1972</td></tr>
 <tr><td>Chile</td><td>1. Dezember</td><td>1976 B</td><td>1. Dezember</td><td>1976</td></tr>
 <tr><td>China\*</td><td>20. Dezember</td><td>1988 B</td><td>20. Dezember</td><td>1988</td></tr>
-<tr><td>Hongkong <sup>a</sup></td><td>3. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Hongkong</td><td>3. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Dänemark\*</td><td>1. April</td><td>1977</td><td>1. April</td><td>1977</td></tr>
 <tr><td>Deutschland</td><td>18. Dezember</td><td>1975 B</td><td>18. Dezember</td><td>1975</td></tr>
 <tr><td>Dominikanische Republik</td><td>23. Februar</td><td>1973</td><td>23. Februar</td><td>1973</td></tr>
@@ -307,10 +307,12 @@ Geltungsbereich am 5. August 2020**[^t-2]**
 <tr><td>Niger</td><td>1. September</td><td>1972</td><td>1. September</td><td>1972</td></tr>
 <tr><td>Nigeria</td><td>21. Dezember</td><td>2005 B</td><td>21. Dezember</td><td>2005</td></tr>
 <tr><td>Norwegen</td><td>3. April</td><td>1995</td><td>3. April</td><td>1995</td></tr>
+<tr><td>Oman</td><td>4. Februar</td><td>2022</td><td>4. Februar</td><td>2022</td></tr>
 <tr><td>Österreich\*</td><td>10. Januar</td><td>1980</td><td>10. Januar</td><td>1980</td></tr>
 <tr><td>Pakistan</td><td>4. April</td><td>1973</td><td>4. April</td><td>1973</td></tr>
 <tr><td>Panama</td><td>5. Juni</td><td>1974</td><td>5. Juni</td><td>1974</td></tr>
 <tr><td>Papua-Neuguinea</td><td>27. Oktober</td><td>1980 N</td><td>16. September</td><td>1975</td></tr>
+<tr><td>Paraguay</td><td>11. Juli</td><td>2023 B</td><td>11. Juli</td><td>2023</td></tr>
 <tr><td>Peru</td><td>6. November</td><td>2002</td><td>6. November</td><td>2002</td></tr>
 <tr><td>Polen</td><td>25. Januar</td><td>1973</td><td>25. Januar</td><td>1973</td></tr>
 <tr><td>Portugal</td><td>27. Juni</td><td>2019 B</td><td>27. Juni</td><td>2019</td></tr>
@@ -346,8 +348,7 @@ Geltungsbereich am 5. August 2020**[^t-2]**
 <tr><td>Anguilla</td><td>9. Oktober</td><td>1973 B</td><td>9. Oktober</td><td>1973</td></tr>
 <tr><td>Gebiete unter territorialer Souveräntiät des Vereinigten Königreichs</td><td>9. Oktober</td><td>1973</td><td>9. Oktober</td><td>1973</td></tr>
 <tr><td>Zypern</td><td>15. Mai</td><td>1973</td><td>15. Mai</td><td>1973</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: https:// treaties.un.org &gt; Enregistrement et publication de traités &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Vom 9. Okt. 1973 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 11. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1974 784](https://fedlex.data.admin.ch/eli/oc/1974/784_784_784), [1976 1862](https://fedlex.data.admin.ch/eli/oc/1976/1862_1862_1862), [1979 1861](https://fedlex.data.admin.ch/eli/oc/1979/1861_1861_1861), [1982 260](https://fedlex.data.admin.ch/eli/oc/1982/260_260_260), [1983 1324](https://fedlex.data.admin.ch/eli/oc/1983/1324_1324_1324), [1985 1693](https://fedlex.data.admin.ch/eli/oc/1985/1693_1693_1693), [1987 1219](https://fedlex.data.admin.ch/eli/oc/1987/1219_1219_1219), [1990 1996](https://fedlex.data.admin.ch/eli/oc/1990/1996_1996_1996), [2005 2085](https://fedlex.data.admin.ch/eli/oc/2005/335), [2007 2055](https://fedlex.data.admin.ch/eli/oc/2007/288), [2012 431](https://fedlex.data.admin.ch/eli/oc/2012/48), [2015 2575](https://fedlex.data.admin.ch/eli/oc/2015/485), [2019 1223](https://fedlex.data.admin.ch/eli/oc/2019/231), [2020 3575](https://fedlex.data.admin.ch/eli/oc/2020/636). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1974 784](https://fedlex.data.admin.ch/eli/oc/1974/784_784_784), [1976 1862](https://fedlex.data.admin.ch/eli/oc/1976/1862_1862_1862), [1979 1861](https://fedlex.data.admin.ch/eli/oc/1979/1861_1861_1861), [1982 260](https://fedlex.data.admin.ch/eli/oc/1982/260_260_260), [1983 1324](https://fedlex.data.admin.ch/eli/oc/1983/1324_1324_1324), [1985 1693](https://fedlex.data.admin.ch/eli/oc/1985/1693_1693_1693), [1987 1219](https://fedlex.data.admin.ch/eli/oc/1987/1219_1219_1219), [1990 1996](https://fedlex.data.admin.ch/eli/oc/1990/1996_1996_1996), [2005 2085](https://fedlex.data.admin.ch/eli/oc/2005/335), [2007 2055](https://fedlex.data.admin.ch/eli/oc/2007/288), [2012 431](https://fedlex.data.admin.ch/eli/oc/2012/48), [2015 2575](https://fedlex.data.admin.ch/eli/oc/2015/485), [2019 1223](https://fedlex.data.admin.ch/eli/oc/2019/231), [2020 3575](https://fedlex.data.admin.ch/eli/oc/2020/636); [2023 389](https://fedlex.data.admin.ch/eli/oc/2023/389). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

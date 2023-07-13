@@ -3,11 +3,11 @@ sr: "0.790.2"
 title: Convenzione del 29 marzo 1972 sulla responsabilità internazionale per danni cagionati da oggetti spaziali
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/784_784_784"
 language: it
-version: 2020-08-05
+version: 2023-07-14
 adopted: 1972-03-29
 in_force: 1974-01-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/784_784_784/20200805/it/xml/fedlex-data-admin-ch-eli-cc-1974-784_784_784-20200805-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/784_784_784/20200805/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/784_784_784/20230714/it/xml/fedlex-data-admin-ch-eli-cc-1974-784_784_784-20230714-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/784_784_784/20230714/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Ratificata dalla Svizzera con strumento depositato il 22 gennaio 1974
 
 Entrata in vigore per la Svizzera il 22 gennaio 1974
 
-(Stato 5 agosto 2020) (Stato 5 agosto 2020)
+(Stato 14 luglio 2023) (Stato 14 luglio 2023)
 
 [^t-1]: RU **1974** 784; FF **1973** 1045 RU **1974** 783
 
@@ -236,9 +236,9 @@ Ogni Stato partecipe della presente convenzione può, un anno dopo l’entrata i
 
 La presente Convenzione, i cui testi inglese, cinese, spagnolo, francese e russo fanno parimente fede, sarà depositata negli archivi dei governi depositari. Copie debitamente certificate ne saranno indirizzate, dai governi depositari, ai governi degli Stati che avranno firmato la convenzione o che vi avranno aderito.
 
-*In fede di che* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto in tre esemplari a Londra, Mosca e Washington il 29 marzo 1972. (*Seguono le firme*)
+*In fede di che* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto in tre esemplari a Londra, Mosca e Washington il 29 marzo 1972. (Seguono le firme)
 
-Campo d’applicazione il 5 agosto 2020**[^t-2]**
+Campo d’applicazione il 14 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
@@ -261,7 +261,7 @@ Campo d’applicazione il 5 agosto 2020**[^t-2]**
 <tr><td>Ceca, Repubblica</td><td>24 settembre</td><td>1993 S</td><td>1° gennaio</td><td colspan="2">1993</td></tr>
 <tr><td>Cile</td><td>1° dicembre</td><td>1976 A</td><td>1° dicembre</td><td colspan="2">1976</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>20 dicembre</td><td>1988 A</td><td>20 dicembre</td><td colspan="2">1988</td></tr>
-<tr><td>Hong Kong <sup>a</sup></td><td>3 giugno</td><td>1997</td><td>1° luglio</td><td colspan="2">1997</td></tr>
+<tr><td>Hong Kong</td><td>3 giugno</td><td>1997</td><td>1° luglio</td><td colspan="2">1997</td></tr>
 <tr><td>Cipro</td><td>15 maggio</td><td>1973</td><td>15 maggio</td><td colspan="2">1973</td></tr>
 <tr><td>Colombia</td><td>2 luglio</td><td>2014</td><td>2 luglio</td><td colspan="2">2014</td></tr>
 <tr><td>Corea del Nord</td><td>24 febbraio</td><td>2016 A</td><td>24 febbraio</td><td colspan="2">2016</td></tr>
@@ -309,6 +309,7 @@ Campo d’applicazione il 5 agosto 2020**[^t-2]**
 <tr><td>Nigeria</td><td>21 dicembre</td><td>2005 A</td><td>21 dicembre</td><td colspan="2">2005</td></tr>
 <tr><td>Norvegia</td><td>3 aprile</td><td>1995</td><td>3 aprile</td><td colspan="2">1995</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>30 ottobre</td><td>1974</td><td>30 ottobre</td><td colspan="2">1974</td></tr>
+<tr><td>Oman</td><td>4 febbraio</td><td>2022</td><td>4 febbraio</td><td colspan="2">2022</td></tr>
 <tr><td>Paesi Bassi</td><td>17 febbraio</td><td>1981 A</td><td>17 febbraio</td><td colspan="2">1981</td></tr>
 <tr><td>Aruba</td><td>17 febbraio</td><td>1981</td><td>17 febbraio</td><td colspan="2">1981</td></tr>
 <tr><td>Curaçao</td><td>17 febbraio</td><td>1981</td><td>17 febbraio</td><td colspan="2">1981</td></tr>
@@ -317,6 +318,7 @@ Campo d’applicazione il 5 agosto 2020**[^t-2]**
 <tr><td>Pakistan</td><td>4 aprile</td><td>1973</td><td>4 aprile</td><td colspan="2">1973</td></tr>
 <tr><td>Panama</td><td>5 giugno</td><td>1974</td><td>5 giugno</td><td colspan="2">1974</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>27 ottobre</td><td>1980 S</td><td>16 settembre</td><td colspan="2">1975</td></tr>
+<tr><td>Paraguay</td><td>11 luglio</td><td>2023 A</td><td>11 luglio</td><td colspan="2">2023</td></tr>
 <tr><td>Perù</td><td>6 novembre</td><td>2002</td><td>6 novembre</td><td colspan="2">2002</td></tr>
 <tr><td>Polonia</td><td>25 gennaio</td><td>1973</td><td>25 gennaio</td><td colspan="2">1973</td></tr>
 <tr><td>Portogallo</td><td>27 giugno</td><td>2019 A</td><td>27 giugno</td><td colspan="2">2019</td></tr>
@@ -349,8 +351,9 @@ Campo d’applicazione il 5 agosto 2020**[^t-2]**
 <tr><td>Uruguay</td><td>7 gennaio</td><td>1977 A</td><td>7 gennaio</td><td colspan="2">1977</td></tr>
 <tr><td>Venezuela</td><td>1° agosto</td><td>1978</td><td>1° agosto</td><td colspan="2">1978</td></tr>
 <tr><td>Zambia</td><td>20 agosto</td><td>1973 A</td><td>20 agosto</td><td colspan="2">1973</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. Possono essere consultate sul sito Internet delle Nazioni Unite https://treaties.un.org &gt; Enregistrement et publication &gt; Recueil des Traités des Nations Unies oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td>Paesi Bassi</td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. Possono essere consultate sul sito Internet delle Nazioni Unite: [https://treaties.un.org/](https://treaties.un.org/)&gt; Enregistrement et publication &gt; Recueil des Traités des Nations Unies oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 9 ott. 1973 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese dell’11 giugno 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-2]: [RU 1974 784](https://fedlex.data.admin.ch/eli/oc/1974/784_784_784), [1976 1862](https://fedlex.data.admin.ch/eli/oc/1976/1862_1862_1862), [1979 1861](https://fedlex.data.admin.ch/eli/oc/1979/1861_1861_1861), [1982 260](https://fedlex.data.admin.ch/eli/oc/1982/260_260_260), [1983 1324](https://fedlex.data.admin.ch/eli/oc/1983/1324_1324_1324), [1985 1693](https://fedlex.data.admin.ch/eli/oc/1985/1693_1693_1693), [1987 1219](https://fedlex.data.admin.ch/eli/oc/1987/1219_1219_1219), [1990 1996](https://fedlex.data.admin.ch/eli/oc/1990/1996_1996_1996), [2005 2085](https://fedlex.data.admin.ch/eli/oc/2005/335), [2007 2055](https://fedlex.data.admin.ch/eli/oc/2007/288), [2012 431](https://fedlex.data.admin.ch/eli/oc/2012/48), [2015 2575](https://fedlex.data.admin.ch/eli/oc/2015/485), [2019 1223](https://fedlex.data.admin.ch/eli/oc/2019/231)e [2020 3575](https://fedlex.data.admin.ch/eli/oc/2020/636). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1974 784](https://fedlex.data.admin.ch/eli/oc/1974/784_784_784); [1976 1862](https://fedlex.data.admin.ch/eli/oc/1976/1862_1862_1862); [1979 1861](https://fedlex.data.admin.ch/eli/oc/1979/1861_1861_1861); [1982 260](https://fedlex.data.admin.ch/eli/oc/1982/260_260_260); [1983 1324](https://fedlex.data.admin.ch/eli/oc/1983/1324_1324_1324); [1985 1693](https://fedlex.data.admin.ch/eli/oc/1985/1693_1693_1693); [1987 1219](https://fedlex.data.admin.ch/eli/oc/1987/1219_1219_1219); [1990 1996](https://fedlex.data.admin.ch/eli/oc/1990/1996_1996_1996); [2005 2085](https://fedlex.data.admin.ch/eli/oc/2005/335); [2007 2055](https://fedlex.data.admin.ch/eli/oc/2007/288); [2012 431](https://fedlex.data.admin.ch/eli/oc/2012/48); [2015 2575](https://fedlex.data.admin.ch/eli/oc/2015/485); [2019 1223](https://fedlex.data.admin.ch/eli/oc/2019/231); [2020 3575](https://fedlex.data.admin.ch/eli/oc/2020/636); [2023 389](https://fedlex.data.admin.ch/eli/oc/2023/389). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20)
