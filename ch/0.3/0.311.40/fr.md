@@ -3,11 +3,11 @@ sr: "0.311.40"
 title: "Convention du Conseil de l'Europe du 25 octobre 2007 sur la protection des enfants contre l'exploitation et les abus sexuels"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/249"
 language: fr
-version: 2020-10-26
+version: 2023-07-14
 adopted: 2007-10-25
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/249/20201026/fr/xml/fedlex-data-admin-ch-eli-cc-2014-249-20201026-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/249/20201026/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/249/20230714/fr/xml/fedlex-data-admin-ch-eli-cc-2014-249-20230714-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/249/20230714/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,11 +26,11 @@ Instrument de ratification déposé par la Suisse le 18 mars 2014
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 2014
 
-(Etat le 26 octobre 2020)
+(État le 14 juillet 2023)
 
 [^t-1]: Art. 1, al. 1, de l’AF du 27 sept. 2013 ([RO 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248))
 
-Les États membres du Conseil de l’Europe et les autres signataires de la présente Convention;
+Les États membres du Conseil de l’Europe et les autres signataires de la présente Convention,
 
 considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres,
 
@@ -673,61 +673,62 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Lanzarote, le 25 octobre 2007, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux États non membres ayant participé à l’élaboration de la présente Convention, à la Communauté européenne et à tout autre État invité à adhérer à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 26 octobre 2020**[^t-2]**
+Champ d’application le 14 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>14 avril</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
-<tr><td>Allemagne<sup>\*</sup></td><td>18 novembre</td><td>2015</td><td>1<sup>er</sup> mars</td><td>2016</td></tr>
-<tr><td>Andorre<sup>\*</sup></td><td>30 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
+<tr><td>Allemagne\* \*\*</td><td>18 novembre</td><td>2015</td><td>1<sup>er</sup> mars</td><td>2016</td></tr>
+<tr><td>Andorre\*</td><td>30 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Arménie\*</td><td>17 septembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
-<tr><td>Autriche<sup>\*</sup></td><td>25 février</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
+<tr><td>Autriche\* \*\*</td><td>25 février</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>19 décembre</td><td>2019</td><td>1<sup>er</sup> avril</td><td>2020</td></tr>
-<tr><td>Belgique<sup>\*</sup></td><td>8 mars</td><td>2013</td><td>1<sup>er</sup> juillet</td><td>2013</td></tr>
-<tr><td>Bosnie et Herzégovine<sup>\*</sup></td><td>14 novembre</td><td>2012</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
-<tr><td>Bulgarie<sup>\*</sup></td><td>15 décembre</td><td>2011</td><td>1<sup>er</sup> avril</td><td>2012</td></tr>
+<tr><td>Belgique\* \*\*</td><td>8 mars</td><td>2013</td><td>1<sup>er</sup> juillet</td><td>2013</td></tr>
+<tr><td>Bosnie et Herzégovine\*</td><td>14 novembre</td><td>2012</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
+<tr><td>Bulgarie\*</td><td>15 décembre</td><td>2011</td><td>1<sup>er</sup> avril</td><td>2012</td></tr>
 <tr><td>Chypre</td><td>12 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
 <tr><td>Croatie</td><td>21 septembre</td><td>2011</td><td>1<sup>er</sup> janvier</td><td>2012</td></tr>
-<tr><td>Danemark<sup>\*</sup></td><td>18 novembre</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
+<tr><td>Danemark\*</td><td>18 novembre</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
 <tr><td>Estonie\*</td><td>22 novembre</td><td>2016</td><td>1<sup>er</sup> mars</td><td>2017</td></tr>
-<tr><td>Espagne<sup>\*</sup></td><td>5 août</td><td>2010</td><td>1<sup>er</sup> décembre</td><td>2010</td></tr>
+<tr><td>Espagne\*</td><td>5 août</td><td>2010</td><td>1<sup>er</sup> décembre</td><td>2010</td></tr>
 <tr><td>Finlande</td><td>9 juin</td><td>2011</td><td>1<sup>er</sup> octobre</td><td>2011</td></tr>
-<tr><td>France<sup>\*</sup></td><td>27 septembre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
-<tr><td>Géorgie<sup>\*</sup></td><td>23 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
-<tr><td>Grèce</td><td>10 mars</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
-<tr><td>Hongrie<sup>\*</sup></td><td>3 août</td><td>2015</td><td>1<sup>er</sup> décembre</td><td>2015</td></tr>
+<tr><td>France\*</td><td>27 septembre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
+<tr><td>Géorgie\*</td><td>23 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
+<tr><td>Grèce\*\*</td><td>10 mars</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
+<tr><td>Hongrie\*</td><td>3 août</td><td>2015</td><td>1<sup>er</sup> décembre</td><td>2015</td></tr>
+<tr><td>Irlande\*</td><td>21 décembre</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Islande</td><td>20 septembre</td><td>2012</td><td>1<sup>er</sup> janvier</td><td>2013</td></tr>
 <tr><td>Italie</td><td>3 janvier</td><td>2013</td><td>1<sup>er</sup> mai</td><td>2013</td></tr>
-<tr><td>Lettonie<sup>\*</sup></td><td>18 août</td><td>2014</td><td>1<sup>er</sup> décembre</td><td>2014</td></tr>
-<tr><td>Liechtenstein<sup>\*</sup></td><td>11 septembre</td><td>2015</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
+<tr><td>Lettonie\*</td><td>18 août</td><td>2014</td><td>1<sup>er</sup> décembre</td><td>2014</td></tr>
+<tr><td>Liechtenstein\*</td><td>11 septembre</td><td>2015</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
 <tr><td>Lituanie</td><td>9 avril</td><td>2013</td><td>1<sup>er</sup> août</td><td>2013</td></tr>
 <tr><td>Luxembourg</td><td>9 septembre</td><td>2011</td><td>1<sup>er</sup> janvier</td><td>2012</td></tr>
 <tr><td>Macédoine du Nord</td><td>11 juin</td><td>2012</td><td>1<sup>er</sup> octobre</td><td>2012</td></tr>
 <tr><td>Malte</td><td>6 septembre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
 <tr><td>Moldova</td><td>12 mars</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
-<tr><td>Monaco<sup>\*</sup></td><td>7 octobre</td><td>2014</td><td>1<sup>er</sup> février</td><td>2015</td></tr>
-<tr><td>Monténégro<sup>\*</sup></td><td>29 novembre</td><td>2010</td><td>1<sup>er</sup> mars</td><td>2011</td></tr>
+<tr><td>Monaco\*</td><td>7 octobre</td><td>2014</td><td>1<sup>er</sup> février</td><td>2015</td></tr>
+<tr><td>Monténégro\*</td><td>29 novembre</td><td>2010</td><td>1<sup>er</sup> mars</td><td>2011</td></tr>
 <tr><td>Norvège\*</td><td>13 juin</td><td>2018</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup></td><td>1<sup>er</sup> mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
-<tr><td>Pologne<sup>\*</sup></td><td>20 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
+<tr><td>Pays-Bas\*</td><td>1<sup>er</sup> mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
+<tr><td>Pologne\*</td><td>20 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
 <tr><td>Portugal</td><td>23 août</td><td>2012</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
-<tr><td>République tchèque<sup>\*</sup></td><td>2 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
+<tr><td>République tchèque\*</td><td>2 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
 <tr><td>Roumanie</td><td>17 mai</td><td>2011</td><td>1<sup>er</sup> septembre</td><td>2011</td></tr>
 <tr><td>Royaume-Uni\*</td><td>20 juin</td><td>2018</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>9 août</td><td>2013</td><td>1<sup>er</sup> décembre</td><td>2013</td></tr>
+<tr><td>Russie\*</td><td>9 août</td><td>2013</td><td>1<sup>er</sup> décembre</td><td>2013</td></tr>
 <tr><td>Saint-Marin</td><td>22 mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
 <tr><td>Serbie</td><td>29 juillet</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
-<tr><td>Slovaquie<sup>\*</sup></td><td>1<sup>er</sup> mars</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2016</td></tr>
-<tr><td>Slovénie<sup>\*</sup></td><td>26 septembre</td><td>2013</td><td>1<sup>er</sup> janvier</td><td>2014</td></tr>
-<tr><td>Suède<sup>\*</sup></td><td>28 juin</td><td>2013</td><td>1<sup>er</sup> octobre</td><td>2013</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>18 mars</td><td>2014</td><td>1<sup>er</sup> juillet</td><td>2014</td></tr>
+<tr><td>Slovaquie\*</td><td>1<sup>er</sup> mars</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2016</td></tr>
+<tr><td>Slovénie\*</td><td>26 septembre</td><td>2013</td><td>1<sup>er</sup> janvier</td><td>2014</td></tr>
+<tr><td>Suède\*</td><td>28 juin</td><td>2013</td><td>1<sup>er</sup> octobre</td><td>2013</td></tr>
+<tr><td>Suisse\*</td><td>18 mars</td><td>2014</td><td>1<sup>er</sup> juillet</td><td>2014</td></tr>
 <tr><td>Tunisie\*</td><td>15 octobre</td><td>2019 A</td><td>1<sup>er</sup> février</td><td>2020</td></tr>
 <tr><td>Turquie</td><td>7 décembre</td><td>2011</td><td>1<sup>er</sup> avril</td><td>2012</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>27 août</td><td>2012</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Ukraine\*</td><td>27 août</td><td>2012</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse.. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: La présente publication complète celles qui figurent au [RO 2014 1165](https://fedlex.data.admin.ch/eli/oc/2014/249), [2015 3123](https://fedlex.data.admin.ch/eli/oc/2015/583), [2016 2893](https://fedlex.data.admin.ch/eli/oc/2016/479), [2019 1957](https://fedlex.data.admin.ch/eli/oc/2019/360), [2020 4557](https://fedlex.data.admin.ch/eli/oc/2020/804). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2014 1165](https://fedlex.data.admin.ch/eli/oc/2014/249); [2015 3123](https://fedlex.data.admin.ch/eli/oc/2015/583); [2016 2893](https://fedlex.data.admin.ch/eli/oc/2016/479); [2019 1957](https://fedlex.data.admin.ch/eli/oc/2019/360); [2020 4557](https://fedlex.data.admin.ch/eli/oc/2020/804); [2023 383](https://fedlex.data.admin.ch/eli/oc/2023/383). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

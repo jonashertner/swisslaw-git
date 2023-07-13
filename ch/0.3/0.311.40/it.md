@@ -3,11 +3,11 @@ sr: "0.311.40"
 title: "Convenzione del Consiglio d'Europa del 25 ottobre 2007 sulla protezione dei minori contro lo sfruttamento e l'abuso sessuali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/249"
 language: it
-version: 2020-10-26
+version: 2023-07-14
 adopted: 2007-10-25
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/249/20201026/it/xml/fedlex-data-admin-ch-eli-cc-2014-249-20201026-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/249/20201026/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/249/20230714/it/xml/fedlex-data-admin-ch-eli-cc-2014-249-20230714-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/249/20230714/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 18 marzo 2014
 
 Entrata in vigore per la Svizzera il 1° luglio 2014
 
-(Stato 26 ottobre 2020)
+(Stato 14 luglio 2023)
 
 [^t-1]: Art. 1 cpv. 1 DF del 27 set. 2013 ([RU 2014 <sup>1159</sup>](https://fedlex.data.admin.ch/eli/oc/2014/248)<sup>).</sup>
 
@@ -709,16 +709,16 @@ Il Segretario generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Lanzarote, il 25 ottobre 2007, nelle lingue francese e inglese, entrambi i testi facenti ugualmente fede, in un solo esemplare depositato presso gli archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa ne invia copia conforme a ciascuno degli Stati membri del Consiglio d’Europa, agli Stati non membri che hanno partecipato all’elaborazione della presente Convenzione, alla Comunità europea e a ogni altro Stato invitato ad aderire alla presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 26 ottobre 2020**[^t-2]**
+Campo d’applicazione il 14 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>14 aprile</td><td>2009</td><td>1° luglio</td><td>2010</td></tr>
 <tr><td>Andorra\*</td><td>30 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
-<tr><td>Armenia\*</td><td>17 settembre</td><td>2020</td><td>1<sup>o</sup> gennaio</td><td>2021</td></tr>
+<tr><td>Armenia\* <sup>\*\*</sup></td><td>17 settembre</td><td>2020</td><td>1<sup>o</sup> gennaio</td><td>2021</td></tr>
 <tr><td>Austria<sup>\*</sup></td><td>25 febbraio</td><td>2011</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Azerbaigian\*</td><td>19 dicembre</td><td>2019</td><td>1<sup>o</sup> aprile</td><td>2020</td></tr>
-<tr><td>Belgio<sup>\*</sup></td><td>8 marzo</td><td>2013</td><td>1° luglio</td><td>2013</td></tr>
+<tr><td>Belgio<sup>\*</sup> <sup>\*\*</sup></td><td>8 marzo</td><td>2013</td><td>1° luglio</td><td>2013</td></tr>
 <tr><td>Bosnia ed Erzegovina<sup>\*</sup></td><td>14 novembre</td><td>2012</td><td>1° marzo</td><td>2013</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>15 dicembre</td><td>2011</td><td>1° aprile</td><td>2012</td></tr>
 <tr><td>Ceca, Repubblica<sup>\*</sup></td><td>2 maggio</td><td>2016</td><td>1° settembre</td><td>2016</td></tr>
@@ -729,8 +729,9 @@ Campo d’applicazione il 26 ottobre 2020**[^t-2]**
 <tr><td>Finlandia</td><td>9 giugno</td><td>2011</td><td>1° ottobre</td><td>2011</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>27 settembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
 <tr><td>Georgia\*</td><td>23 settembre</td><td>2014</td><td>1° gennaio</td><td>2015</td></tr>
-<tr><td>Germania<sup>\*</sup></td><td>18 novembre</td><td>2015</td><td>1° marzo</td><td>2016</td></tr>
-<tr><td>Grecia</td><td>10 marzo</td><td>2009</td><td>1° luglio</td><td>2010</td></tr>
+<tr><td>Germania<sup>\*</sup> <sup>\*\*</sup></td><td>18 novembre</td><td>2015</td><td>1° marzo</td><td>2016</td></tr>
+<tr><td>Grecia <sup>\*\*</sup></td><td>10 marzo</td><td>2009</td><td>1° luglio</td><td>2010</td></tr>
+<tr><td>Irlanda\*</td><td>21 dicembre</td><td>2020</td><td>1° aprile</td><td>2021</td></tr>
 <tr><td>Islanda</td><td>20 settembre</td><td>2012</td><td>1° gennaio</td><td>2013</td></tr>
 <tr><td>Italia</td><td>3 gennaio</td><td>2013</td><td>1° maggio</td><td>2013</td></tr>
 <tr><td>Lettonia\*</td><td>18 agosto</td><td>2014</td><td>1° dicembre</td><td>2014</td></tr>
@@ -760,10 +761,10 @@ Campo d’applicazione il 26 ottobre 2020**[^t-2]**
 <tr><td>Turchia</td><td>7 dicembre</td><td>2011</td><td>1° aprile</td><td>2012</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>27 agosto</td><td>2012</td><td>1° dicembre</td><td>2012</td></tr>
 <tr><td>Ungheria</td><td>3 agosto</td><td>2015</td><td>1° dicembre</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni \*\* Obiezioni Le riserve, obiezioni e dichiarazioni non sono pubblicate nella RU, eccetto le dichiarazioni della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, op-pure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2014 1165](https://fedlex.data.admin.ch/eli/oc/2014/249), [2015 3123](https://fedlex.data.admin.ch/eli/oc/2015/583), [2016 2893](https://fedlex.data.admin.ch/eli/oc/2016/479), [2019 1957](https://fedlex.data.admin.ch/eli/oc/2019/360), [2020 4557](https://fedlex.data.admin.ch/eli/oc/2020/804). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2014 1165](https://fedlex.data.admin.ch/eli/oc/2014/249); [2015 3123](https://fedlex.data.admin.ch/eli/oc/2015/583); [2016 2893](https://fedlex.data.admin.ch/eli/oc/2016/479); [2019 1957](https://fedlex.data.admin.ch/eli/oc/2019/360); [2020 4557](https://fedlex.data.admin.ch/eli/oc/2020/804); [2023 383](https://fedlex.data.admin.ch/eli/oc/2023/383). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Riserve e dichiarazioni
 

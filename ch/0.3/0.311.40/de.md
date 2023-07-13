@@ -3,11 +3,11 @@ sr: "0.311.40"
 title: Übereinkommen des Europarats vom 25. Oktober 2007 zum Schutz von Kindern vor sexueller Ausbeutung und sexuellem Missbrauch
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/249"
 language: de
-version: 2020-10-26
+version: 2023-07-14
 adopted: 2007-10-25
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/249/20201026/de/xml/fedlex-data-admin-ch-eli-cc-2014-249-20201026-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/249/20201026/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/249/20230714/de/xml/fedlex-data-admin-ch-eli-cc-2014-249-20230714-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/249/20230714/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2014** 1165; BBl **2012** 7571
 
 Abgeschlossen in Lanzarote am 25. Oktober 2007 Von der Bundesversammlung genehmigt am 27. September 2013[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 18. März 2014 In Kraft getreten für die Schweiz am 1. Juli 2014
 
-(Stand am 26. Oktober 2020)
+(Stand am 14. Juli 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 27. Sept. 2013 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248))
 
@@ -703,7 +703,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Lanzarote am 25. Oktober 2007 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den Nichtmitgliedstaaten, die sich an der Ausarbeitung dieses Übereinkommens beteiligt haben, der Europäischen Gemeinschaft und allen zum Beitritt zu dem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 26. Oktober 2020**[^t-2]**
+Geltungsbereich am 14. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -711,53 +711,54 @@ Geltungsbereich am 26. Oktober 2020**[^t-2]**
 <tr><td>Andorra\*</td><td>30. April</td><td>2014</td><td>1. August</td><td>2014</td></tr>
 <tr><td>Armenien\*</td><td>17. September</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Aserbaidschan\*</td><td>19. Dezember</td><td>2019</td><td>1. April</td><td>2020</td></tr>
-<tr><td>Belgien<sup>\*</sup></td><td>8. März</td><td>2013</td><td>1. Juli</td><td>2013</td></tr>
-<tr><td>Bosnien und Herzegowina<sup>\*</sup></td><td>14. November</td><td>2012</td><td>1. März</td><td>2013</td></tr>
-<tr><td>Bulgarien<sup>\*</sup></td><td>15. Dezember</td><td>2011</td><td>1. April</td><td>2012</td></tr>
-<tr><td>Dänemark<sup>\*</sup></td><td>18. November</td><td>2009</td><td>1. Juli</td><td>2010</td></tr>
-<tr><td>Deutschland<sup>\*</sup></td><td>18. November</td><td>2015</td><td>1. März</td><td>2016</td></tr>
+<tr><td>Belgien\* \*\*</td><td>8. März</td><td>2013</td><td>1. Juli</td><td>2013</td></tr>
+<tr><td>Bosnien und Herzegowina\*</td><td>14. November</td><td>2012</td><td>1. März</td><td>2013</td></tr>
+<tr><td>Bulgarien\*</td><td>15. Dezember</td><td>2011</td><td>1. April</td><td>2012</td></tr>
+<tr><td>Dänemark\*</td><td>18. November</td><td>2009</td><td>1. Juli</td><td>2010</td></tr>
+<tr><td>Deutschland\* \*\*</td><td>18. November</td><td>2015</td><td>1. März</td><td>2016</td></tr>
 <tr><td>Estland\*</td><td>22. November</td><td>2016</td><td>1. März</td><td>2017</td></tr>
 <tr><td>Finnland</td><td>9. Juni</td><td>2011</td><td>1. Oktober</td><td>2011</td></tr>
-<tr><td>Frankreich<sup>\*</sup></td><td>27. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
+<tr><td>Frankreich\*</td><td>27. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td>Georgien\*</td><td>23. September</td><td>2014</td><td>1. Januar</td><td>2015</td></tr>
-<tr><td>Griechenland</td><td>10. März</td><td>2009</td><td>1. Juli</td><td>2010</td></tr>
+<tr><td>Griechenland\*\*</td><td>10. März</td><td>2009</td><td>1. Juli</td><td>2010</td></tr>
+<tr><td>Irland\*</td><td>21. Dezember</td><td>2020</td><td>1. April</td><td>2021</td></tr>
 <tr><td>Island</td><td>20. September</td><td>2012</td><td>1. Januar</td><td>2013</td></tr>
 <tr><td>Italien</td><td>3. Januar</td><td>2013</td><td>1. Mai</td><td>2013</td></tr>
 <tr><td>Kroatien</td><td>21. September</td><td>2011</td><td>1. Januar</td><td>2012</td></tr>
 <tr><td>Lettland\*</td><td>18. August</td><td>2014</td><td>1. Dezember</td><td>2014</td></tr>
-<tr><td>Liechtenstein<sup>\*</sup></td><td>11. September</td><td>2015</td><td>1. Januar</td><td>2016</td></tr>
+<tr><td>Liechtenstein\*</td><td>11. September</td><td>2015</td><td>1. Januar</td><td>2016</td></tr>
 <tr><td>Litauen</td><td>9. April</td><td>2013</td><td>1. August</td><td>2013</td></tr>
 <tr><td>Luxemburg</td><td>9. September</td><td>2011</td><td>1. Januar</td><td>2012</td></tr>
 <tr><td>Malta</td><td>6. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td>Moldau</td><td>12. März</td><td>2012</td><td>1. Juli</td><td>2012</td></tr>
 <tr><td>Monaco\*</td><td>7. Oktober</td><td>2014</td><td>1. Februar</td><td>2015</td></tr>
-<tr><td>Montenegro<sup>\*</sup></td><td>29. November</td><td>2010</td><td>1. März</td><td>2011</td></tr>
-<tr><td>Niederlande<sup>\*</sup></td><td>1. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
+<tr><td>Montenegro\*</td><td>29. November</td><td>2010</td><td>1. März</td><td>2011</td></tr>
+<tr><td>Niederlande\*</td><td>1. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
 <tr><td>Nordmazedonien</td><td>11. Juni</td><td>2012</td><td>1. Oktober</td><td>2012</td></tr>
 <tr><td>Norwegen\*</td><td>13. Juni</td><td>2018</td><td>1. Oktober</td><td>2018</td></tr>
-<tr><td>Österreich<sup>\*</sup></td><td>25. Februar</td><td>2011</td><td>1. Juni</td><td>2011</td></tr>
+<tr><td>Österreich\* \*\*</td><td>25. Februar</td><td>2011</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Polen\*</td><td>20. Februar</td><td>2015</td><td>1. Juni</td><td>2015</td></tr>
 <tr><td>Portugal</td><td>23. August</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
 <tr><td>Rumänien</td><td>17. Mai</td><td>2011</td><td>1. September</td><td>2011</td></tr>
-<tr><td>Russland<sup>\*</sup></td><td>9. August</td><td>2013</td><td>1. Dezember</td><td>2013</td></tr>
+<tr><td>Russland\*</td><td>9. August</td><td>2013</td><td>1. Dezember</td><td>2013</td></tr>
 <tr><td>San Marino</td><td>22. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
-<tr><td>Schweden<sup>\*</sup></td><td>28. Juni</td><td>2013</td><td>1. Oktober</td><td>2013</td></tr>
-<tr><td>Schweiz<sup>\*</sup></td><td>18. März</td><td>2014</td><td>1. Juli</td><td>2014</td></tr>
+<tr><td>Schweden\*</td><td>28. Juni</td><td>2013</td><td>1. Oktober</td><td>2013</td></tr>
+<tr><td>Schweiz\*</td><td>18. März</td><td>2014</td><td>1. Juli</td><td>2014</td></tr>
 <tr><td>Serbien</td><td>29. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
-<tr><td>Slowakei<sup>\*</sup></td><td>1. März</td><td>2016</td><td>1. Juli</td><td>2016</td></tr>
-<tr><td>Slowenien<sup>\*</sup></td><td>26. September</td><td>2013</td><td>1. Januar</td><td>2014</td></tr>
-<tr><td>Spanien<sup>\*</sup></td><td>5. August</td><td>2010</td><td>1. Dezember</td><td>2010</td></tr>
-<tr><td>Tschechische Republik<sup>\*</sup></td><td>2. Mai</td><td>2016</td><td>1. September</td><td>2016</td></tr>
+<tr><td>Slowakei\*</td><td>1. März</td><td>2016</td><td>1. Juli</td><td>2016</td></tr>
+<tr><td>Slowenien\*</td><td>26. September</td><td>2013</td><td>1. Januar</td><td>2014</td></tr>
+<tr><td>Spanien\*</td><td>5. August</td><td>2010</td><td>1. Dezember</td><td>2010</td></tr>
+<tr><td>Tschechische Republik\*</td><td>2. Mai</td><td>2016</td><td>1. September</td><td>2016</td></tr>
 <tr><td>Tunesien\*</td><td>15. Oktober</td><td>2019 B</td><td>1. Februar</td><td>2020</td></tr>
 <tr><td>Türkei</td><td>7. Dezember</td><td>2011</td><td>1. April</td><td>2012</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>27. August</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Ukraine\*</td><td>27. August</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
 <tr><td>Ungarn\*</td><td>3. August</td><td>2015</td><td>1. Dezember</td><td>2015</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>20. Juni</td><td>2018</td><td>1. Oktober</td><td>2018</td></tr>
 <tr><td>Zypern</td><td>12. Februar</td><td>2015</td><td>1. Juni</td><td>2015</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz.. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](http://www.coe.int) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2014 1165](https://fedlex.data.admin.ch/eli/oc/2014/249), [2015 3123](https://fedlex.data.admin.ch/eli/oc/2015/583), [2016 2893](https://fedlex.data.admin.ch/eli/oc/2016/479), [2019 1957](https://fedlex.data.admin.ch/eli/oc/2019/360), [2020 4557](https://fedlex.data.admin.ch/eli/oc/2020/804). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2014 1165](https://fedlex.data.admin.ch/eli/oc/2014/249); [2015 3123](https://fedlex.data.admin.ch/eli/oc/2015/583); [2016 2893](https://fedlex.data.admin.ch/eli/oc/2016/479); [2019 1957](https://fedlex.data.admin.ch/eli/oc/2019/360); [2020 4557](https://fedlex.data.admin.ch/eli/oc/2020/804); [2023 383](https://fedlex.data.admin.ch/eli/oc/2023/383). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20)
 
 Vorbehalte und Erklärungen
 
