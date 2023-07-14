@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung 5 zum Arbeitsgesetz (Ausnahmen des Verbots gefährlicher Arbeiten für Jugendliche ab 15 Jahren in Programmen zur Vorbereitung auf die berufliche Grundbildung)
 document: Vernehmlassungsvorlage
 language: de

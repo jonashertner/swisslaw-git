@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance 5 relative à la loi sur le travail (dérogations à l’interdiction des travaux dangereux pour les jeunes de plus de 15 ans dans le cadre de programmes visant à préparer la formation professionnelle initiale)
 document: Projet mis en consultation
 language: fr

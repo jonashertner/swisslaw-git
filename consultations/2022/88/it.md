@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza 5 concernente la legge sul lavoro (deroghe al divieto dei lavori pericolosi per i giovani di età superiore ai 15 anni in programmi di preparazione alla formazione professionale di base)
 document: Progetto posto in consultazione
 language: it
