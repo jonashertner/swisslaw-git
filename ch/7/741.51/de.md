@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2023-04-01
+version: 2023-07-15
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230401/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230401-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230715/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230715-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230401/de"
 
 (Verkehrszulassungsverordnung,[^t-1] VZV)
 
-vom 27. Oktober 1976 (Stand am 1. April 2023)
+vom 27. Oktober 1976 (Stand am 15. Juli 2023)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -108,12 +108,12 @@ Es werden folgende Abkürzungen für Subsysteme des Informationssystems Verkehrs
 Der Führerausweis wird für folgende Kategorien erteilt:
 
 - A: Motorräder;
-- B: [^3-1] Motorwagen und dreirädrige Motorfahrzeuge mit einem Gesamtgewicht von nicht mehr als 3500 kg und nicht mehr als acht Sitzplätzen ausser dem Führersitz;
+- B:[^3-1] Motorwagen und dreirädrige Motorfahrzeuge mit einem Gesamtgewicht von nicht mehr als 3500 kg und nicht mehr als acht Plätzen[^3-2] ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie B und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie B und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 3500 kg nicht übersteigt;
-- C: [^3-2] Motorwagen, ausgenommen jene der Kategorie D, mit einem Gesamtgewicht von mehr als 3500 kg;
+- C:[^3-3] Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg und nicht mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie C und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
-- D: [^3-3] Motorwagen zum Personentransport mit mehr als acht Sitzplätzen ausser dem Führersitz;
+- D: [^3-4] Motorwagen zum Personentransport mit mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie D und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
 - BE: Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie B und einem Anhänger, die als Kombination nicht unter die Kategorie B fallen;
 - CE: Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie C und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg;
@@ -125,31 +125,32 @@ Der Führerausweis wird für folgende Unterkategorien erteilt:
 
 - A1: Motorräder mit einem Hubraum von nicht mehr als 125 cm<sup>3</sup> und einer Motorleistung von höchstens 11 kW;
 - B1: Klein- und dreirädrige Motorfahrzeuge mit einem Leergewicht von nicht mehr als 550 kg;
-- C1:[^3-4] Motorwagen, ausgenommen jene der Kategorie D, mit einem Gesamtgewicht von mehr als 3500 kg, aber nicht mehr als 7500 kg;
+- C1:[^3-5] Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 7500 kg und mit nicht mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie C1 und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
-- D1:[^3-5] Motorwagen zum Personentransport mit mehr als acht, aber nicht mehr als 16 Sitzplätzen ausser dem Führersitz;
+- D1:[^3-6] Motorwagen zum Personentransport mit mehr als acht, aber nicht mehr als 16 Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie D1 und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
-- C1E:[^3-6] Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie C1 und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 12 000 kg nicht übersteigt;
-- D1E:[^3-7] Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie D1 und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 12 000 kg nicht übersteigt und der Anhänger nicht zum Personentransport verwendet wird.
+- C1E:[^3-7] Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie C1 und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 12 000 kg nicht übersteigt;
+- D1E:[^3-8] Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie D1 und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 12 000 kg nicht übersteigt und der Anhänger nicht zum Personentransport verwendet wird.
 
 <sup>3</sup>
 
 Der Führerausweis wird für folgende Spezialkategorien erteilt:
 
-- F:[^3-8] Motorfahrzeuge, ausgenommen Motorräder, mit einer Höchstgeschwindigkeit bis 45 km/h;
-- G:[^3-9] land- und forstwirtschaftliche[^3-10] Motorfahrzeuge mit einer Höchstgeschwindigkeit bis 30 km/h sowie gewerblich immatrikulierte Arbeitskarren, Motorkarren und Traktoren mit einer Höchstgeschwindigkeit bis 30 km/h auf land- und forstwirtschaftlichen Fahrten, unter Ausschluss der Ausnahmefahrzeuge;
+- F:[^3-9] Motorfahrzeuge, ausgenommen Motorräder, mit einer Höchstgeschwindigkeit bis 45 km/h;
+- G:[^3-10] land- und forstwirtschaftliche[^3-11] Motorfahrzeuge mit einer Höchstgeschwindigkeit bis 30 km/h sowie gewerblich immatrikulierte Arbeitskarren, Motorkarren und Traktoren mit einer Höchstgeschwindigkeit bis 30 km/h auf land- und forstwirtschaftlichen Fahrten, unter Ausschluss der Ausnahmefahrzeuge;
 - M: Motorfahrräder.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-2]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-3]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-2]: Ausdruck gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-5]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-5]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^3-6]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^3-7]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-8]: Die Berichtigung vom 19. Aug. 2014 betrifft nur den italienischen Text ([AS 2014 2601](https://fedlex.data.admin.ch/eli/oc/2014/454)).
-[^3-9]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4191](https://fedlex.data.admin.ch/eli/oc/2005/548)).
-[^3-10]: Ausdruck gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Diese Änd. wurde in den in der AS genannten Bestimmungen berücksichtigt.
+[^3-8]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-9]: Die Berichtigung vom 19. Aug. 2014 betrifft nur den italienischen Text ([AS 2014 2601](https://fedlex.data.admin.ch/eli/oc/2014/454)).
+[^3-10]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4191](https://fedlex.data.admin.ch/eli/oc/2005/548)).
+[^3-11]: Ausdruck gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Diese Änd. wurde in den in der AS genannten Bestimmungen berücksichtigt.
 
 #### Art. 4
 
@@ -192,7 +193,7 @@ Es berechtigt der Führerausweis der Spezialkategorie:
 Im Übrigen berechtigt im Binnenverkehr der Führerausweis:[^4-4]
 
 - a. der Kategorie D: zum Führen von leeren Trolleybussen;
-- b.[^4-5] der Kategorie C: zum Führen von Polizeimannschaftsfahrzeugen und Feuerwehrmotorwagen mit mehr als acht Sitzplätzen, von leeren Fahrzeugen der Kategorie D, der Unterkategorie D1 und leeren Trolleybussen;
+- b.[^4-5] der Kategorie C: zum Führen von Polizeimannschaftsfahrzeugen und Feuerwehrmotorwagen mit mehr als acht Plätzen, von leeren Fahrzeugen der Kategorie D, der Unterkategorie D1 und leeren Trolleybussen;
 - c. der Unterkategorie C1: zum Führen von leeren Fahrzeugen der Unterkategorie D1;
 - d. der Kategorien B und C sowie der Unterkategorie C1: zum Mitführen von land- und forstwirtschaftlichen Anhängern oder Anhängern der Feuerwehr, der Polizei und des Zivilschutzes;
 - e. der Spezialkategorien F, G und M: zum Mitführen von Anhängern an Fahrzeugen dieser Spezialkategorien;
@@ -201,10 +202,10 @@ Im Übrigen berechtigt im Binnenverkehr der Führerausweis:[^4-4]
   der Kategorie B:
 
   - 1\. zum Führen von leichten Motorwagen der Unterkategorie D1 für die Behebung von Pannen und zum Abschleppen, zum Überführen und Erproben von Fahrzeugen im Zusammenhang mit dem Fahrzeughandel, mit Reparaturen oder Umbauten am Fahrzeug, zum Erproben von neuen Fahrzeugen durch Hersteller und Importeure, zum Begutachten von Fahrzeugen durch Sachverständige sowie für die amtliche Fahrzeugprüfung und Fahrten zu dieser Prüfung,
-  - 2\. zum Führen von schweren Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 4250 kg, und mit nicht mehr als acht Sitzplätzen ausser dem Führersitz, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS[^4-7]) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird; es darf ein Anhänger mit einem Gesamtgewicht von nicht mehr als 750 kg mitgeführt werden;
+  - 2\. zum Führen von schweren Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 4250 kg, und mit nicht mehr als acht Plätzen ausser dem Führersitz, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS[^4-7]) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird; es darf ein Anhänger mit einem Gesamtgewicht von nicht mehr als 750 kg mitgeführt werden;
 
 - g.[^4-8] der Kategorien B und F: zum Führen von Elektro-Rikschas;
-- h.[^4-9] der Kategorie BE: zum Mitführen eines Anhängers mit einem Gesamtgewicht von mehr als 750 kg an schweren Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 4250 kg, und mit nicht mehr als acht Sitzplätzen ausser dem Führersitz, sofern das Zugfahrzeug über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS) verfügt und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
+- h.[^4-9] der Kategorie BE: zum Mitführen eines Anhängers mit einem Gesamtgewicht von mehr als 750 kg an schweren Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 4250 kg, und mit nicht mehr als acht Plätzen ausser dem Führersitz, sofern das Zugfahrzeug über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS) verfügt und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
 
 <sup>6</sup> Soweit Absatz 5 das Führen von leeren Fahrzeugen anderer Kategorien, Unterkategorien und Trolleybussen erlaubt, dürfen Personen mitgeführt werden, die für die Feststellung von Mängeln, die Überprüfung von Reparaturen sowie die Durchführung von amtlichen Fahrzeugprüfungen erforderlich sind.[^4-10]
 
@@ -285,7 +286,7 @@ Die kantonale Behörde anerkennt Ärzte für Untersuchungen nach folgenden Stufe
 
   - 1\. Zweituntersuchungen von Personen nach den Buchstaben a und b, wenn das Ergebnis der Erstuntersuchung keinen eindeutigen Schluss über deren Fahreignung zulässt,
   - 2\. erstmalige Untersuchung von Bewerbern um einen Lernfahr- oder Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport, an deren medizinischer Eignung zum Führen von Motorfahrzeugen die kantonale Behörde zweifelt,
-  - 3\. erstmalige Untersuchung von über 65-jährigen oder körperbehinderten Bewerbern um einen Lernfahr- oder Führerausweis oder um eine Bewilligung zum berufsmässigen Personentransport,
+  - 3\.[^5abis-2] erstmalige Untersuchung von über 75-jährigen oder körperbehinderten Bewerbern um einen Lernfahr- oder Führerausweis oder um eine Bewilligung zum berufsmässigen Personentransport,
   - 4\. verkehrsmedizinische Kontrolluntersuchungen von Ausweisinhabern während oder nach schweren körperlichen Beeinträchtigungen durch Unfallverletzungen oder Krankheiten, und
   - 5\. verkehrsmedizinische Untersuchungen in Fällen nach Artikel 15*d* Absatz 1 Buchstaben d und e SVG;
 
@@ -296,6 +297,7 @@ Die kantonale Behörde anerkennt Ärzte für Untersuchungen nach folgenden Stufe
 <sup>3</sup> Inhaber einer Anerkennung einer höheren Stufe dürfen alle Untersuchungen durchführen, für die eine Anerkennung einer niedrigeren Stufe vorgeschrieben ist.
 
 [^5abis-1]: Fassung gemäss Ziff. I der V vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^5abis-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 5b
 
@@ -391,7 +393,7 @@ Die Anerkennung erlischt am Ende des Jahres, in dem deren Inhaber das 75. Alters
 
 <sup>2</sup> Die Ärzte haben die Untersuchungen nach den Artikeln 11*b*, 27 Absatz 1 sowie 65 Absatz 2 Buchstabe d nach den Anhängen 2 und 2*a* durchzuführen.
 
-<sup>3</sup> Die Ärzte und Psychologen haben die Untersuchungsergebnisse den kantonalen Behörden mitzuteilen.
+<sup>3</sup> Die Ärzte und Psychologen müssen die Untersuchungsergebnisse den untersuchten Personen und den kantonalen Behörden mitteilen.[^5i-1]
 
 <sup>4</sup>
 
@@ -400,16 +402,22 @@ Die Ärzte verwenden zur Meldung der Untersuchungsergebnisse an die kantonalen B
 - a. Anhang 3 bei Untersuchungen nach den Artikeln 6 Absatz 4 Buchstabe a Ziffer 1, 11*b*, 27 Absatz 1 und 65 Absatz 2 Buchstabe d;
 - b. Anhang 3*a* bei Untersuchungen nach Artikel 7 Absatz 1<sup>bis</sup> und 9 Absatz 4;
 - c. Anhang 4 bei Untersuchungen nach Artikel 9 Absatz 1.
+- [tab] <sup>5</sup> Die kantonalen Behörden können die Formulare nach Absatz 4 elektronisch zur Verfügung stellen. Wenn eine kantonale Behörde von dieser Möglichkeit Gebrauch macht, kann sie verlangen, dass ihr diese Formulare ausschliesslich elektronisch übermittelt werden.[^5i-2]
+
+[^5i-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^5i-2]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 5j
 
-**Vorgehen bei nicht schlüssigen Untersuchungsergebnissen**
+**Vorgehen bei nicht schlüssigen Untersuchungsergebnissen**[^5j-1]
 
 <sup>1</sup> Lässt das Ergebnis einer Fahreignungsuntersuchung keinen eindeutigen Schluss zu, so kann der Arzt bei der kantonalen Behörde eine zusätzliche Untersuchung durch einen Arzt mit einer Anerkennung einer höheren Stufe beantragen. Bei einem nicht eindeutigen Ergebnis einer Untersuchung nach Artikel 27 Absatz 1 Buchstabe b muss dieser mindestens die Anerkennung der Stufe 3 besitzen.
 
-<sup>2</sup> Um allfällige Zweifel am Untersuchungsergebnis auszuräumen, kann der Arzt mit der Anerkennung der Stufe 4 bei der kantonalen Behörde eine Kontrollfahrt beantragen, an der ein Arzt und ein Verkehrsexperte teilnehmen.
+<sup>2</sup> Bestehen Zweifel am Untersuchungsergebnis, so kann ein Arzt mit der Anerkennung der Stufe 4 bei der kantonalen Behörde eine Fahrt zur Überprüfung der Fahreignung beantragen, an der ein Arzt mit der Anerkennung der Stufe 4 und ein Verkehrsexperte teilnehmen.
 
-<sup>3</sup> Besteht die untersuchte Person die Kontrollfahrt nicht, so nimmt der Verkehrsexperte ihr den Führerausweis auf der Stelle ab und übermittelt ihn der kantonalen Behörde.
+<sup>3</sup> Besteht die untersuchte Person die Fahrt zur Überprüfung der Fahreignung nicht, so nimmt der Verkehrsexperte ihr den Führerausweis auf der Stelle ab und übermittelt ihn an die kantonale Behörde.
+
+[^5j-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 12 Führerprüfung
 
@@ -456,11 +464,16 @@ Das Mindestalter zum Führen von Motorfahrzeugen beträgt für:
 - d.[^6-4] die Kategorien A, C und CE sowie die Unterkategorien B1, C1 und C1E: 18 Jahre;
 - e. die Kategorien D und DE sowie die Unterkategorien D1 und D1E: 21 Jahre;
 - f.[^6-5] Motorfahrzeuge, für die ein Führerausweis nicht erforderlich ist: 16 Jahre.
-- [tab] <sup>2</sup> Lernenden der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ» darf der Lernfahrausweis der Kategorien C und CE bereits nach vollendetem 17. Altersjahr erteilt werden. Die Führerprüfung der Kategorien B, C und CE darf frühestens 6 Monate vor dem vollendeten 18. Altersjahr abgelegt, der Führerausweis erst nach vollendetem 18. Altersjahr erteilt werden.[^6-6]
 
-<sup>3</sup> …[^6-7]
+<sup>2</sup> Lernenden der beruflichen Grundbildungen «Strassentransportfachfrau/Strassentransportfachmann EFZ», «Automobil-Fachfrau/Automobil-Fachmann EFZ» mit der Fachrichtung «Nutzfahrzeuge» und «Automobil-Mechatronikerin/Automobil-Mechatroniker EFZ» mit der Fachrichtung «Nutzfahrzeuge» darf der Lernfahrausweis der Kategorien C und CE ab dem vollendeten 17. Altersjahr erteilt werden. Die Führerprüfung der Kategorien B, BE, C und CE darf frühestens 6 Monate vor dem vollendeten 18. Altersjahr abgelegt werden. Der Führerausweis darf erst ab dem vollendeten 18. Altersjahr erteilt werden.[^6-6]
 
-<sup>3bis</sup> …[^6-8]
+<sup>2bis</sup> Lernende der beruflichen Grundbildung «Strassentransportpraktikerin/Strassentransportpraktiker EBA» dürfen die praktische Führerprüfung der Kategorie B oder der Kategorie BE frühestens 6 Monate vor dem vollendeten 18. Altersjahr ablegen. Der Führerausweis darf erst ab dem vollendeten 18. Altersjahr erteilt werden.[^6-7]
+
+<sup>2ter</sup> Lernende, welche die praktische Führerprüfung der Kategorie B, BE, C oder CE vor dem vollendeten 18. Altersjahr bestehen, dürfen bis zur Erteilung des Führerausweises begleitet Motorfahrzeuge führen. Die Begleitperson muss die Anforderungen nach Artikel 15 Absatz 1 SVG erfüllen. Die Fahrberechtigung muss mit dem vom Verkehrsexperten unterzeichneten Lernfahrausweis oder mit dem Prüfbescheid nachgewiesen werden. Die Fahrt gilt nicht als Lernfahrt im Sinne von Artikel 17 Absatz 1.[^6-8]
+
+<sup>3</sup> …[^6-9]
+
+<sup>3bis</sup> …[^6-10]
 
 <sup>4</sup>
 
@@ -468,9 +481,9 @@ Die kantonale Behörde kann:
 
 - a.
 
-  Personen mit Behinderung, die auf ein Motorfahrzeug angewiesen und zu dessen sicherer Führung fähig sind:[^6-9]
+  Personen mit Behinderung, die auf ein Motorfahrzeug angewiesen und zu dessen sicherer Führung fähig sind:[^6-11]
 
-  - 1\.[^6-10] den Führerausweis der Kategorie B, der Unterkategorie B1 oder der Spezialkategorien F oder M aufgrund einer Meldung nach Anhang 3 eines Arztes mit mindestens der Anerkennung der Stufe 3 vor Erreichen des jeweiligen Mindestalters erteilen,
+  - 1\.[^6-12] den Führerausweis der Kategorie B, der Unterkategorie B1 oder der Spezialkategorien F oder M aufgrund einer Meldung nach Anhang 3 eines Arztes mit mindestens der Anerkennung der Stufe 3 vor Erreichen des jeweiligen Mindestalters erteilen,
   - 2\. das Führen von Fahrzeugen, für die ein Führerausweis nicht erforderlich ist, vor Erreichen des Mindestalters bewilligen;
 
 - b. den Führerausweis der Spezialkategorie M vor Erreichen des Mindestalters erteilen, wenn die Verwendung eines anderen Verkehrsmittels unzumutbar ist.
@@ -482,26 +495,30 @@ Die kantonale Behörde kann:
 [^6-3]: Eingefügt durch Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-4]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-5]: Eingefügt durch Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^6-6]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^6-7]: Aufgehoben durch Ziff. I der V vom 15. Juni 2007, mit Wirkung seit 1. Sept. 2009 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
-[^6-8]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Aufgehoben durch Ziff. I der V vom 15. Juni 2007, mit Wirkung seit 1. Sept. 2009 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
-[^6-9]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^6-10]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^6-6]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^6-7]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^6-8]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^6-9]: Aufgehoben durch Ziff. I der V vom 15. Juni 2007, mit Wirkung seit 1. Sept. 2009 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
+[^6-10]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Aufgehoben durch Ziff. I der V vom 15. Juni 2007, mit Wirkung seit 1. Sept. 2009 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
+[^6-11]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^6-12]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
 #### Art. 7
 
 **Medizinische Mindestanforderungen**
 
-<sup>1</sup> Wer einen Lernfahr-, Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport erwerben will, muss die medizinischen Mindestanforderungen nach Anhang 1 erfüllen.
+<sup>1</sup> Wer einen Lernfahr-, einen Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport erwerben will oder erworben hat, muss die entsprechenden medizinischen Mindestanforderungen nach Anhang 1 erfüllen.[^7-1]
 
-<sup>1bis</sup> Wer die Sehschärfewerte nach Anhang 1 Ziffer 1.1 nur mit einer Sehhilfe erreicht, muss diese während der Fahrt tragen. Bei neu auftretender Einäugigkeit muss eine viermonatige Fahrkarenz eingehalten, ein augenärztliches Zeugnis eingereicht und eine Kontrollfahrt mit einem Verkehrsexperten bestanden werden.[^7-1]
+<sup>1bis</sup> Wer die Sehschärfewerte nach Anhang 1 Ziffer 1.1 nur mit einer Sehhilfe erreicht, muss diese während der Fahrt tragen. Bei neu auftretender Einäugigkeit muss eine viermonatige Fahrkarenz eingehalten, ein augenärztliches Zeugnis eingereicht und eine Kontrollfahrt mit einem Verkehrsexperten bestanden werden.[^7-2]
 
-<sup>2</sup> Wer ein Motorfahrzeug führt, für das ein Führerausweis nicht erforderlich ist, muss eine Mindestsehschärfe korrigiert oder unkorrigiert einseitig von 0,2 erreichen und darf keine extreme Gesichtsfeldeinschränkung aufweisen.
+<sup>2</sup> Wer ein Motorfahrzeug führt, für das ein Führerausweis nicht erforderlich ist, muss die entsprechenden Mindestanforderungen an das Sehvermögen nach Anhang 1 erfüllen.[^7-3]
 
-<sup>3</sup> Die kantonale Behörde kann von den medizinischen Mindestanforderungen abweichen, wenn der Gesuchsteller über die Fahreignung nach Artikel 14 Absatz 2 SVG verfügt und ein Arzt mit der Anerkennung der Stufe 4 dies bestätigt.[^7-2]
+<sup>3</sup> Die kantonale Behörde kann von den medizinischen Mindestanforderungen abweichen, wenn der Gesuchsteller über die Fahreignung nach Artikel 14 Absatz 2 SVG verfügt und ein Arzt mit der Anerkennung der Stufe 4 dies bestätigt.[^7-4]
 
-[^7-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^7-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^7-4]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
 #### Art. 8
 
@@ -598,24 +615,55 @@ Den Kurs über lebensrettende Sofortmassnahmen brauchen nicht zu absolvieren:
 
 #### Art. 11
 
-**Einreichung des Gesuchs**
+**Einreichung des Gesuchs**[^11-1]
 
 <sup>1</sup>
 
-Wer einen Lernfahr- oder Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport erwerben will, muss bei der Zulassungsbehörde oder einer von ihr bezeichneten Stelle einreichen:
+Wer einen Lernfahrausweis, einen Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport erwerben will, muss bei der Zulassungsbehörde oder einer von ihr bezeichneten Stelle einreichen:
 
 - a. ein vollständig und wahrheitsgetreu ausgefülltes Gesuchsformular nach Anhang 4;
-- b.[^11-1] zwei aktuelle farbige Passfotos im Format 35×45 mm;
-- c. eine Bescheinigung über den Abschluss eines Kurses nach Artikel 10.
+- b. eine Bescheinigung über den Abschluss eines Kurses nach Artikel 10;
+- c. ein aktuelles Passfoto im Format 35 x 45 mm oder ein aktuelles Foto in digitaler Form, sofern die kantonale Behörde dies ermöglicht.
 
-<sup>2</sup> Der Lastwagenführer-Lehrling, der das 18. Altersjahr noch nicht erreicht hat, und der Motorradmechaniker-Lehrling müssen dem Gesuch zudem eine Bestätigung des kantonalen Lehrlingsamtes über den Abschluss eines gültigen Lehrvertrages beilegen.
+<sup>2</sup>
 
-<sup>3</sup> Wird das Gesuch erstmals eingereicht, muss der Gesuchsteller persönlich vorsprechen und zusätzlich einen gültigen Identitätsnachweis mit Foto vorlegen. Die mit der Entgegennahme betraute Person prüft und bestätigt mit Stempel und Unterschrift die Identität des Gesuchstellers und leitet das Gesuchsformular an die Zulassungsbehörde weiter.
+Folgende Personen müssen dem Gesuch zudem eine Bestätigung des kantonalen Berufsbildungsamtes über den Abschluss eines gültigen Lehrvertrages beilegen:
 
-<sup>4</sup> Wird das Gesuch nach der Annullierung des Führerausweises auf Probe eingereicht, so muss zudem ein Gutachten eines Verkehrspsychologen nach Artikel 5*c* beigelegt werden, das die verkehrspsychologische Eignung bejaht. Das Gutachten darf frühestens einen Monat vor Ablauf der Sperrfrist eingereicht werden und nicht älter als drei Monate sein.[^11-2]
+- a.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^11-2]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+  Lernende folgender beruflichen Grundbildungen, die das 18. Altersjahr noch nicht erreicht haben:
+
+  - 1\. «Strassentransportfachfrau/Strassentransportfachmann EFZ»,
+  - 2\. «Automobil-Fachfrau/Automobil-Fachmann EFZ» mit der Fachrichtung «Nutzfahrzeuge»,
+  - 3\. «Automobil-Mechatronikerin/Automobil-Mechatroniker EFZ» mit der Fachrichtung «Nutzfahrzeuge»;
+
+- b. Lernende der beruflichen Grundbildung «Motorradmechanikerin/Motorradmechaniker EFZ».
+
+<sup>3</sup>
+
+Wird das Gesuch erstmals eingereicht, muss der Gesuchsteller persönlich vorsprechen und zusätzlich einen gültigen Identitätsnachweis mit Foto vorlegen. Als Identitätsnachweise werden namentlich anerkannt:
+
+- a. alle Passarten und die Identitätskarte nach der Ausweisverordnung vom 20. September 2002[^11-2];
+- b. die vom Herkunfts- oder Heimatstaat ausgestellten Pässe und Identitätskarten;
+- c. alle von einer zuständigen schweizerischen Behörde nach dem Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^11-3] und im Rahmen des Vollzuges des Asylgesetzes vom 26. Juni 1998[^11-4] ausgestellten Ausländerausweise;
+- d.
+
+  die vom Staatssekretariat für Migration nach der Verordnung vom 14. November 2012[^11-5] über die Ausstellung von Reisedokumenten für ausländische Personen (RDV) ausgestellten gültigen Reisedokumente:
+
+  - 1\. Reiseausweis für Flüchtlinge (Art. 3 RDV) nach Artikel 28 des Abkommens vom 28. Juli 1951[^11-6] über die Rechtsstellung der Flüchtlinge,
+  - 2\. Pass für eine ausländische Person nach Artikel 4 RDV für staatenlose Personen nach dem Übereinkommen vom 28. September 1954[^11-7] über die Rechtsstellung der Staatenlosen, für schriftenlose ausländische Personen mit einer Aufenthaltsbewilligung B oder einer Niederlassungsbewilligung C und für schriftenlose vorläufig aufgenommene Personen.
+
+<sup>4</sup> Die mit der Entgegennahme betraute Person prüft und bestätigt mit Stempel und Unterschrift die Identität des Gesuchstellers und leitet das Gesuchsformular an die Zulassungsbehörde weiter.
+
+<sup>5</sup> Wird das Gesuch nach der Annullierung des Führerausweises auf Probe eingereicht, so muss zudem ein Gutachten eines Verkehrspsychologen nach Artikel 5*c* beigelegt werden, das die verkehrspsychologische Eignung bejaht. Das Gutachten darf frühestens einen Monat vor Ablauf der Sperrfrist eingereicht werden und nicht älter als drei Monate sein.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^11-2]: [SR 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+[^11-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^11-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^11-5]: [SR 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^11-6]: [SR 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^11-7]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 
 #### Art. 11a
 
@@ -687,7 +735,7 @@ Das Prüfungsergebnis muss dem Kandidaten eröffnet werden. Das Nichtbestehen de
 
 <sup>1bis</sup> Die Prüfung der Basistheorie kann frühestens einen Monat vor Erreichen des Mindestalters abgelegt werden.[^13-2]
 
-<sup>2</sup> Die Kantone erarbeiten die Prüfungsfragen im Einvernehmen mit dem ASTRA.
+<sup>2</sup> Die Kantone erarbeiten die Prüfungsfragen im Einvernehmen mit dem ASTRA. Sie können diese Aufgabe Dritten übertragen.[^13-3]
 
 <sup>3</sup>
 
@@ -699,11 +747,12 @@ Keine Prüfung der Basistheorie müssen Personen ablegen, die:
 
 <sup>4</sup> Wer den Führerausweis der Spezialkategorien F, G oder M erwerben will, legt eine Prüfung der Basistheorie ab, welche der entsprechenden Fahrzeugkategorie angepasst ist.
 
-<sup>5</sup> Wer nach der Annullierung des Führerausweises auf Probe ein neues Gesuch um einen Lernfahrausweis stellen will, muss die Prüfung der Basistheorie wiederholen.[^13-3]
+<sup>5</sup> Wer nach der Annullierung des Führerausweises auf Probe ein neues Gesuch um einen Lernfahrausweis stellen will, muss die Prüfung der Basistheorie wiederholen.[^13-4]
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4519](https://fedlex.data.admin.ch/eli/oc/2005/584))
 [^13-2]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^13-3]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^13-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^13-4]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 14
 
@@ -726,7 +775,7 @@ Vor der Erteilung des Lernfahrausweises oder eines Führerausweises der Spezialk
 Der Lernfahrausweis der Kategorie A wird für Motorräder, einschliesslich solche mit Seitenwagen, mit einer Motorleistung von nicht mehr als 35 kW und einem Verhältnis von Motorleistung und Leergewicht von nicht mehr als 0,20 kW/kg erteilt. Diese Leistungsbeschränkung gilt nicht bei:
 
 - a. Lernenden der beruflichen Grundbildung «Motorradmechanikerin/Motorradmechaniker EFZ», die von einem Fahrlehrer der Kategorie A ausgebildet werden;
-- b.[^15-1] Personen, die in Kursen der Polizei auf Motorrädern ausgebildet werden;
+- b.[^15-1] Personen, die für ihre berufliche Tätigkeit bei der Polizei auf Motorrädern ausgebildet werden;
 - c. Verkehrsexperten im Rahmen ihrer Aus- und Weiterbildung.[^15-2]
 
 <sup>2bis</sup> Der Lernfahrausweis der Kategorie A ohne Leistungsbeschränkung wird Personen erteilt, die den Führerausweis der Kategorie A mit Leistungsbeschränkung seit mindestens zwei Jahren besitzen und die klaglose Fahrpraxis nach Artikel 8 Absatz 6 nachweisen können.[^15-3]
@@ -735,13 +784,13 @@ Der Lernfahrausweis der Kategorie A wird für Motorräder, einschliesslich solch
 
 <sup>4</sup> Die Inhaber haben unter Vorlage des Lernfahrausweises der Zulassungsbehörde innert 14 Tagen jede Tatsache zu melden, die eine Änderung oder Ersetzung des Ausweises erfordert.
 
-<sup>5</sup> Der Lehrmeister hat eine Auflösung des Lehrverhältnisses mit dem Motorradmechaniker-Lehrling während der Gültigkeitsdauer des Lernfahrausweises der Kategorie A unverzüglich der Zulassungsbehörde zu melden, die den Lernfahrausweis ausgestellt hat. Diese fordert den Ausweisinhaber zur Vorlage des Lernfahrausweises auf und erteilt für die verbleibende Gültigkeitsdauer einen Lernfahrausweis der Kategorie A für Motorräder mit einer Motorleistung von nicht mehr als 35 kW und einem Verhältnis von Motorleistung und Leergewicht von nicht mehr als 0,20 kW/kg.[^15-5]
+<sup>5</sup> …[^15-5]
 
-[^15-1]: Die Berichtigung vom 7. Juli 2021 betrifft nur den französischen Text ([AS 2021 419](https://fedlex.data.admin.ch/eli/oc/2021/419)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^15-2]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^15-3]: Eingefügt durch Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^15-4]: Fassung gemäss Ziff. I der V vom 28. April 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
-[^15-5]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Fassung gemäss Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. April 2016 ([AS 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
+[^15-5]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Aufgehoben durch Ziff. I der V vom 10. Mai 2023, mit Wirkung seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 16
 
@@ -762,11 +811,17 @@ Der Lernfahrausweis ist gültig:
 Die Gültigkeit des Lernfahrausweises erlischt, wenn:
 
 - a. der Inhaber drei Mal in Folge die Führerprüfung nicht bestanden hat und die Zulassungsbehörde aufgrund eines Tests die Fahreignung des Bewerbers verneint;
-- b. das Lehrverhältnis vor Vollendung des 18. Altersjahres des Lastwagenführer-Lehrlings aufgelöst wird.[^16-1]
+- b.[^16-1]
+
+  der Lehrvertrag folgender Lernenden vor Vollendung ihres 18. Altersjahres aufgelöst wird:
+
+  - 1\. Lernende der beruflichen Grundbildung «Strassentransportfachfrau/ Strassentransportfachmann EFZ»,
+  - 2\. Lernende der beruflichen Grundbildung «Automobil-Fachfrau/Automobil-Fachmann EFZ» mit der Fachrichtung «Nutzfahrzeuge»,
+  - 3\. Lernende der beruflichen Grundbildung «Automobil-Mechatronikerin/Automobil-Mechatroniker EFZ» mit der Fachrichtung «Nutzfahrzeuge».
 
 <sup>4</sup> Einen zweiten Lernfahrausweis kann nur beantragen, wer aufgrund eines Tests der Zulassungsbehörde als fahrgeeignet gilt oder nach Ablauf der Gültigkeitsdauer des ersten Lernfahrausweises noch nicht alle Prüfungsmöglichkeiten ausgeschöpft hat. Die Zulassungsbehörde verfügt allfällige Auflagen.
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 28. April 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
+[^16-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 17
 
@@ -845,21 +900,33 @@ Folgende Berechtigungen und Auflagen sind im Lernfahrausweis einzutragen:
 
 #### Art. 19a
 
-**Durchführung**
+**Gestaltung, Inhalt und Durchführung**[^19a-1]
 
-Das ASTRA erlässt Weisungen über die Gestaltung und den Inhalt des Kurses über Verkehrskunde und der praktischen Grundschulung.
+Das ASTRA regelt die Gestaltung, den Inhalt und die Durchführung des Kurses über Verkehrskunde und der praktischen Grundschulung für Motorrad-Fahrschüler.
+
+[^19a-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 20
 
-**Ausbildung von Lastwagenführer-Lehrlingen**
+**Ausbildung von Lernenden der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ»**[^20-1]
 
-<sup>1</sup> Wer Lastwagenführer-Lehrlinge ausbilden will, benötigt eine Ausbildungsbewilligung. Diese wird von der kantonalen Behörde nur Lehrmeistern oder Betriebsangehörigen erteilt, die über Erfahrung im Chauffeurberuf und eine mindestens dreijährige Fahrpraxis auf Lastwagen ohne verkehrsgefährdende Verletzung von Verkehrsvorschriften verfügen, einen guten Leumund besitzen und Gewähr bieten, dass ihnen die Ausbildung von jungen Erwachsenen anvertraut werden kann.
+<sup>1</sup> Wer Lernende der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ» ausbilden will, benötigt eine Ausbildungsbewilligung. Diese wird von der kantonalen Behörde nur Berufsbildnern oder Betriebsangehörigen erteilt, die über Erfahrung im Chauffeurberuf und eine mindestens dreijährige Fahrpraxis auf Lastwagen ohne verkehrsgefährdende Verletzung von Verkehrsvorschriften verfügen sowie Gewähr bieten, dass ihnen die Ausbildung von jungen Erwachsenen anvertraut werden kann.
 
-<sup>2</sup> Wer die Ausbildungsbewilligung erwerben will, hat einen Instruktionskurs zu besuchen und sich über die erforderlichen Verkehrskenntnisse (Anh. 11 Ziff. II) auszuweisen. Das ASTRA erlässt Richtlinien über die Instruktionskurse.
+<sup>2</sup> Wer die Ausbildungsbewilligung erwerben will, hat einen Instruktionskurs zu besuchen und sich über die erforderlichen Verkehrskenntnisse (Anh. 11 Ziff. II) auszuweisen. Das ASTRA regelt die Instruktionskurse.
 
-<sup>3</sup> Die Ausbildungsbewilligung wird für sechs Jahre erteilt. Sie kann um je weitere sechs Jahre verlängert werden, wenn der Inhaber nachweist, dass er seit der Ausstellung oder der letzten Verlängerung einen Wiederholungskurs absolviert hat und mindestens ein Lehrling, den er regelmässig begleitet hat, die Führerprüfung auf Lastwagen bestanden hat.
+<sup>3</sup> Die Ausbildungsbewilligung wird für sechs Jahre erteilt. Sie kann um je weitere sechs Jahre verlängert werden, wenn der Inhaber nachweist, dass er seit der Ausstellung oder der letzten Verlängerung einen Wiederholungskurs absolviert hat und mindestens ein Lernender, den er regelmässig begleitet hat, die Führerprüfung auf Lastwagen bestanden hat.
 
-<sup>4</sup> Ist der Lernfahrausweis für einen Lastwagenführer-Lehrling vor dem 18. Altersjahr erteilt worden, so hat der Lehrmeister eine vorzeitige Auflösung des Lehrverhältnisses unverzüglich der kantonalen Zulassungsbehörde zu melden, die den Lernfahrausweis ausgestellt hat.
+[^20-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+
+#### Art. 20a
+
+**Meldung der Auflösung von Lehrverträgen**[^20a-1]
+
+<sup>1</sup> Wird der Lehrvertrag eines Lernenden der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ», «Automobil-Fachfrau/Automobil-Fachmann EFZ» mit der Fachrichtung «Nutzfahrzeuge» oder «Automobil-Mechatronikerin/Automobil-Mechatroniker EFZ» mit der Fachrichtung «Nutzfahrzeuge» aufgelöst und ist diesem Lernenden vor seinem vollendeten 18. Altersjahr ein Lernfahrausweis der Kategorie C oder CE erteilt worden, so muss der Berufsbildner die Auflösung des Lehrvertrags unverzüglich der kantonalen Behörde melden, die den Lernfahrausweis ausgestellt hat. Sofern der Lernende das 18. Altersjahr noch nicht vollendet hat, fordert die kantonale Behörde ihn zur Rückgabe des Lernfahrausweises auf (Art. 16 Abs. 3 Bst. b).
+
+<sup>2</sup> Wird der Lehrvertrag eines Lernenden der beruflichen Grundbildung «Motorradmechanikerin/Motorradmechaniker EFZ» aufgelöst und ist diesem Lernenden ein Lernfahrausweis der Kategorie A ohne Leistungsbeschränkung nach Artikel 15 Absatz 2 Buchstabe a erteilt worden, so muss der Berufsbildner die Auflösung des Lehrvertrags unverzüglich der kantonalen Behörde melden, die den Lernfahrausweis ausgestellt hat. Die kantonale Behörde fordert den Lernenden zur Rückgabe des Lernfahrausweises auf und erteilt ihm für die verbleibende Gültigkeitsdauer einen Lernfahrausweis der Kategorie A für Motorräder mit einer Motorleistung von nicht mehr als 35 kW und einem Verhältnis von Motorleistung und Leergewicht von nicht mehr als 0,20 kW/kg.
+
+[^20a-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 127 Prüfung der Zusatztheorie für Führer von Last- und Gesellschaftswagen
 
@@ -867,14 +934,15 @@ Das ASTRA erlässt Weisungen über die Gestaltung und den Inhalt des Kurses übe
 
 <sup>1</sup> Mit der Prüfung der Zusatztheorie stellt die Zulassungsbehörde fest, ob der Gesuchsteller um einen Führerausweis der Kategorien C oder D oder der Unterkategorien C1 oder D1 über die Kenntnisse in Anhang 11 Ziffer II. 2 verfügt.
 
-<sup>2</sup> Die Kantone erarbeiten die Prüfungsfragen im Einvernehmen mit dem ASTRA.
+<sup>2</sup> Die Kantone erarbeiten die Prüfungsfragen im Einvernehmen mit dem ASTRA. Sie können diese Aufgabe Dritten übertragen.[^21-1]
 
-<sup>3</sup> …[^21-1]
+<sup>3</sup> …[^21-2]
 
-<sup>4</sup> …[^21-2]
+<sup>4</sup> …[^21-3]
 
-[^21-1]: Aufgehoben durch Ziff. I der V vom 26. Sept. 2003, mit Wirkung seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^21-2]: Aufgehoben durch Ziff. I der V vom 14. Dez. 2018, mit Wirkung seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^21-2]: Aufgehoben durch Ziff. I der V vom 26. Sept. 2003, mit Wirkung seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^21-3]: Aufgehoben durch Ziff. I der V vom 14. Dez. 2018, mit Wirkung seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 ### 128 Praktische Führerprüfung
 
@@ -884,7 +952,14 @@ Das ASTRA erlässt Weisungen über die Gestaltung und den Inhalt des Kurses übe
 
 <sup>1</sup> Mit der praktischen Führerprüfung stellt der Verkehrsexperte fest, ob der Gesuchsteller fähig ist, ein Motorfahrzeug der entsprechenden Kategorie unter Einhaltung der Verkehrsregeln auch in schwierigen Verkehrssituationen vorausschauend und mit Rücksicht auf die übrigen Verkehrsteilnehmer zu führen.
 
-<sup>1bis</sup> Gesuchsteller um einen Führerausweis der Kategorie B, die den Lernfahrausweis vor dem zurückgelegten 20. Altersjahr erworben haben, müssen diesen seit mindestens einem Jahr besitzen, um zur praktischen Führerprüfung zugelassen zu werden. Dies gilt nicht für Lernende der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ».[^22-1]
+<sup>1bis</sup>
+
+Gesuchsteller um einen Führerausweis der Kategorie B, die den Lernfahrausweis vor dem zurückgelegten 20. Altersjahr erworben haben, müssen diesen seit mindestens einem Jahr besitzen, um zur praktischen Führerprüfung zugelassen zu werden. Dies gilt nicht für Lernende der folgenden beruflichen Grundbildungen:
+
+- a. «Strassentransportfachfrau/Strassentransportfachmann EFZ»;
+- b. «Automobil-Fachfrau/Automobil-Fachmann EFZ» mit der Fachrichtung «Nutzfahrzeuge»;
+- c. «Automobil-Mechatronikerin/Automobil-Mechatroniker EFZ» mit der Fachrichtung «Nutzfahrzeuge»;
+- d. «Strassentransportpraktikerin/Strassentransportpraktiker EBA».[^22-1]
 
 <sup>2</sup> Die Zulassungsbedingungen und der Prüfungsstoff richten sich nach Anhang 12.
 
@@ -898,7 +973,7 @@ Keine praktische Führerprüfung haben abzulegen:
 
 <sup>4</sup> Stellt sich bei der praktischen Führerprüfung heraus, dass der Gesuchsteller die Verkehrsregeln nur ungenügend kennt, so ordnet die Zulassungsbehörde eine neue Prüfung der Basistheorie an.
 
-[^22-1]: Eingefügt durch Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^22-1]: Eingefügt durch Ziff. I der V vom 14. Dez. 2018 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)). Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^22-2]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 23
@@ -974,9 +1049,9 @@ Im Führerausweis sind folgende Berechtigungen einzutragen:
 
 **Eintrag von Auflagen, Beschränkungen und anderen Zusatzangaben**[^24d-1]
 
-Für Auflagen, Beschränkungen und andere Zusatzangaben, die im Führerausweis eingetragen werden, sind Schlüsselzahlen oder Kurztexte zu verwenden. Das ASTRA erlässt die entsprechenden Weisungen.
+Für Auflagen, Beschränkungen und andere Zusatzangaben, die im Führerausweis eingetragen werden, sind Schlüsselzahlen oder Kurztexte zu verwenden. Diese werden vom ASTRA festgelegt.
 
-[^24d-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^24d-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 24e
 
@@ -1409,15 +1484,19 @@ Die kantonale Behörde kann Ausweisinhabern eine Bewilligung für Fahrten währe
 
 **Annullierung**[^35a-1]
 
-<sup>1</sup> Begeht der Inhaber des Führerausweises auf Probe eine zweite Widerhandlung, die zum Entzug des Führerausweises der Kategorien und Unterkategorien führt, wird der Ausweis annulliert. Dies gilt auch, wenn der Ausweis inzwischen unbefristet erteilt wurde.
+<sup>1</sup> Begeht der Inhaber des Führerausweises auf Probe eine zweite Widerhandlung, die zum Entzug des Führerausweises der Kategorien und Unterkategorien führt, wird der Ausweis annulliert. Dies gilt auch, wenn der Ausweis inzwischen unbefristet erteilt worden ist. Mit der Annullierung muss der Führerausweis eingezogen werden.[^35a-2]
 
 <sup>2</sup> Die Annullierung betrifft alle Kategorien und Unterkategorien. Sie betrifft auch die Spezialkategorien, wenn der Ausweisinhaber keine Gewähr bietet, dass er künftig mit Fahrzeugen der Spezialkategorien keine Widerhandlungen begeht.
+
+<sup>2bis</sup> Bei einer Annullierung sind allfällig vorhandene Lernfahrausweise zu entziehen und ebenfalls einzuziehen.[^35a-3]
 
 <sup>3</sup> Betrifft die Annullierung nur die Kategorien und Unterkategorien, stellt die Zulassungsbehörde einen Führerausweis der Spezialkategorien aus.
 
 <sup>4</sup> Die Entzugsbehörde informiert den betroffenen Fahrzeugführer über die Voraussetzungen, unter denen er wieder einen Lernfahrausweis erwerben kann.
 
 [^35a-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^35a-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^35a-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 35b
 
@@ -1548,52 +1627,59 @@ Die Anerkennung wird erteilt, wenn:
 Motorfahrzeugführer aus dem Ausland dürfen in der Schweiz nur Motorfahrzeuge führen, wenn sie:
 
 - a. einen gültigen nationalen Führerausweis besitzen; oder
-- b. einen gültigen internationalen Führerausweis nach dem Abkommen vom 24. April 1926[^42-1] über Kraftfahrzeugverkehr, nach dem Abkommen vom 19. September 1949[^42-2] über den Strassenverkehr oder nach dem Übereinkommen vom 8. November 1968[^42-3] über den Strassenverkehr besitzen und einen solchen zusammen mit dem entsprechenden nationalen Führerausweis vorweisen können.[^42-4]
+- b. einen gültigen internationalen Führerausweis nach dem Abkommen vom 24. April 1926[^42-1] über Kraftfahrzeugverkehr, nach dem Abkommen vom 19. September 1949[^42-2] über den Strassenverkehr oder nach dem Übereinkommen vom 8. November 1968[^42-3] über den Strassenverkehr besitzen und einen solchen zusammen mit dem entsprechenden nationalen Führerausweis vorweisen können;
+- c.[^42-4] einen gültigen Lernfahrausweis besitzen.[^42-5]
 
-<sup>2</sup> Der ausländische nationale oder internationale Führerausweis berechtigt den Inhaber in der Schweiz zur Führung der Motorfahrzeugkategorien, die auf dem Ausweis ausdrücklich, verständlich und in lateinischer Schrift dokumentiert sind.[^42-5]
+<sup>2</sup> Der ausländische nationale, der internationale Führerausweis zusammen mit dem nationalen Führerausweis oder der ausländische Lernfahrausweis berechtigt den Inhaber in der Schweiz zur Führung der Motorfahrzeugkategorien, die auf dem Ausweis ausdrücklich, verständlich und in lateinischer Schrift dokumentiert sind. Der Inhaber eines ausländischen Lernfahrausweises muss von einer Person begleitet werden, welche die Anforderungen nach Artikel 15 Absatz 1 SVG erfüllt.[^42-6]
 
-<sup>3</sup> Führer von Motorfahrrädern, Kleinmotorrädern, land- und forstwirtschaftlichen Motorfahrzeugen und Arbeitsmotorfahrzeugen aus dem Ausland benötigen keinen Führerausweis, sofern in ihrem Herkunftsland kein Ausweis verlangt wird. Solche Führer haben stets einen Identitätsausweis mit Foto auf sich zu tragen und dürfen nur das Fahrzeug führen, mit dem sie in die Schweiz eingereist sind.[^42-6]
+<sup>2bis</sup> Mit einem gültigen ausländischen Führerausweis für Motorfahrräder darf in der Schweiz ein Fahrzeug geführt werden, das die Anforderungen von Artikel 18 Buchstabe a VTS[^42-7] erfüllt.[^42-8]
+
+<sup>3</sup> Motorfahrzeugführer aus dem Ausland, die mit einem Motorfahrrad im Sinne von Artikel 18 Buchstabe a VTS, einem land- oder forstwirtschaftlichen Motorfahrzeug oder einem Arbeitsmotorfahrzeug in die Schweiz einreisen und mit dem Fahrzeug in der Schweiz verkehren, benötigen keinen Führerausweis, sofern in ihrem Herkunftsland für die entsprechenden Fahrzeuge kein Ausweis verlangt wird. Solche Führer haben stets einen Identitätsausweis mit Foto auf sich zu tragen und dürfen nur das Fahrzeug führen, mit dem sie in die Schweiz eingereist sind.[^42-9]
 
 <sup>3bis</sup>
 
 Einen schweizerischen Führerausweis benötigen:
 
 - a. Fahrzeugführer aus dem Ausland, die seit zwölf Monaten in der Schweiz wohnen und sich in dieser Zeit nicht länger als drei Monate ununterbrochen im Ausland aufgehalten haben;
-- b.[^42-7] Personen, die berufsmässig in der Schweiz immatrikulierte Motorfahrzeuge der Kategorien C oder D oder der Unterkategorien C1 oder D1 führen oder einer Bewilligung nach Artikel 25 bedürfen.[^42-8]
+- b.[^42-10] Personen, die berufsmässig in der Schweiz immatrikulierte Motorfahrzeuge der Kategorien C oder D oder der Unterkategorien C1 oder D1 führen oder einer Bewilligung nach Artikel 25 bedürfen.[^42-11]
 
 <sup>3ter</sup>
 
-Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^42-9] geniessen, benötigen keinen schweizerischen Führerausweis, wenn sie:
+Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^42-12] geniessen, benötigen keinen schweizerischen Führerausweis, wenn sie:
 
 - a. einen gültigen nationalen Führerausweis besitzen;
 - b. nicht Schweizer Bürger sind; und
-- c. Inhaber einer Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten sind, welche bestätigt, dass sie die Immunität von der Gerichtsbarkeit geniessen.[^42-10]
+- c. Inhaber einer Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten sind, welche bestätigt, dass sie die Immunität von der Gerichtsbarkeit geniessen.[^42-13]
 
 <sup>4</sup> Ausländische Führerausweise, die der Führer unter Umgehung der Bestimmungen dieser Verordnung über den Erwerb des schweizerischen Führerausweises oder der in seinem Wohnsitzstaat geltenden Zuständigkeitsbestimmungen erworben hat, dürfen in der Schweiz nicht verwendet werden.
 
 [^42-1]: [SR 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
 [^42-2]: Nicht ratifiziert von der Schweiz.
 [^42-3]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402). Siehe auch das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
-[^42-4]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^42-5]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
-[^42-6]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^42-7]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^42-8]: Eingefügt durch Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^42-9]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^42-10]: Eingefügt durch Anhang Ziff. 11 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^42-4]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-5]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^42-6]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-7]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^42-8]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-9]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-10]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^42-11]: Eingefügt durch Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
+[^42-12]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^42-13]: Eingefügt durch Anhang Ziff. 11 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 43
 
 **Mindestalter**
 
-<sup>1</sup> Ausländische Führerausweise dürfen in der Schweiz nur von Personen verwendet werden, die das in dieser Verordnung von den schweizerischen Führern verlangte Mindestalter erreicht haben. Für unbegleitete Fahrten mit Motorwagen der Kategorie B gilt ein Mindestalter von 18 Jahren.[^43-1]
+<sup>1</sup> Ausländische Lernfahr- und Führerausweise dürfen in der Schweiz nur von Personen verwendet werden, die das in dieser Verordnung für die Ausweisinhaber mit Wohnsitz in der Schweiz vorgeschriebene Mindestalter erreicht haben. Für unbegleitete Fahrten mit Motorwagen der Kategorie B gilt ein Mindestalter von 18 Jahren.[^43-1]
 
-<sup>2</sup> Führer von ausländischen Motorfahrrädern, Kleinmotorrädern und Motorrädern mit einem Zylinderinhalt bis 125 cm<sup>3</sup>, die das in ihrem Herkunftsland vorgeschriebene Mindestalter erreicht haben, sind zu Fahrten in der Schweiz zugelassen, wenn sie mindestens 16 Jahre alt sind und keine Ausschlussgründe vorliegen.
+<sup>2</sup> Personen mit Wohnsitz im Ausland, die nach dem Recht ihres Herkunftslandes keinen Führerausweis für Motorfahrräder benötigen und das dort vorgeschriebene Mindestalter erreicht haben, sind zu Fahrten in der Schweiz zugelassen, wenn sie mindestens 16 Jahre alt sind.[^43-2]
 
-<sup>3</sup> Das ASTRA[^43-2] kann in begründeten Fällen Ausnahmen vom Mindestalter ausländischer Fahrzeugführer bewilligen.
+<sup>3</sup> Das ASTRA[^43-3] kann in begründeten Fällen Ausnahmen vom Mindestalter ausländischer Fahrzeugführer bewilligen.
 
-[^43-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^43-2]: Ausdruck gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^43-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^43-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^43-3]: Ausdruck gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 
 #### Art. 44
 
@@ -1601,14 +1687,24 @@ Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 
 
 <sup>1</sup> Dem Inhaber eines gültigen nationalen ausländischen Ausweises wird der schweizerische Führerausweis der entsprechenden Kategorie erteilt, wenn er auf einer Kontrollfahrt nachweist, dass er die Verkehrsregeln kennt und Fahrzeuge der Kategorien, für die der Ausweis gelten soll, sicher zu führen versteht. Führer von Motorwagen haben die Kontrollfahrt auf einem Fahrzeug der Kategorie abzulegen, welche zum Führen aller im Ausweis eingetragenen Kategorien berechtigt. Besitzt der Ausweisinhaber zusätzlich die Berechtigung zum Führen von Motorrädern, so wird dafür keine weitere Kontrollfahrt durchgeführt. Für die ärztlichen Untersuchungen gelten die Artikel 7 Absätze 1 und 1<sup>bis</sup>, 9, 11*b* Absatz 1 sowie 27 sinngemäss.[^44-2]
 
+<sup>1bis</sup> Die Kontrollfahrt kann nicht wiederholt werden.[^44-3]
+
+<sup>1ter</sup> Bleibt die betroffene Person der Kontrollfahrt unentschuldigt fern, gilt diese als nicht bestanden. Die Behörde muss bei der Anordnung der Kontrollfahrt auf diese Säumnisfolge aufmerksam machen.[^44-4]
+
+<sup>1quater</sup> Besteht die betroffene Person die Kontrollfahrt nicht, wird der ausländische Führerausweis aberkannt.[^44-5]
+
 <sup>2</sup> Der zum berufsmässigen Führen von Motorfahrzeugen berechtigende schweizerische Führerausweis wird Motorfahrzeugführern aus dem Ausland nur erteilt, wenn sie zusätzlich zur Kontrollfahrt an einer Prüfung nachweisen, dass sie die in der Schweiz für solche Führer geltende Regelung kennen.
 
 <sup>3</sup> Führer von ausländischen Motorfahrrädern, Kleinmotorrädern, land- und forstwirtschaftlichen Motorfahrzeugen und Arbeitsmotorfahrzeugen, die sich um den schweizerischen Führerausweis bewerben, haben eine Führerprüfung abzulegen, wenn sie nicht im Besitz eines entsprechenden ausländischen Ausweises sind.
 
-<sup>4</sup> Die Behörden ziehen bei der Erteilung eines schweizerischen Führerausweises Ausweise ein, die von EU- oder EFTA-Staaten ausgestellt worden sind, und senden sie an die Ausstellungsbehörde zurück. Sie vermerken in Ausweisen, die von andern Staaten ausgestellt worden sind, die Ungültigkeit für die Schweiz. Der Inhalt der ausländischen Ausweise wird registriert.
+<sup>4</sup> Wenn die Behörden einen schweizerischen Führerausweis erteilen, müssen sie Ausweise, die von EU- oder EFTA-Staaten ausgestellt worden sind, an die Ausstellungsbehörde zurücksenden. Andere Ausweise müssen sie an die Ausstellungsbehörde zurücksenden oder dem Inhaber aushändigen. Der Inhalt der ausländischen Ausweise wird registriert.[^44-6]
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^44-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^44-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-4]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-5]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-6]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 44a
 
@@ -1637,10 +1733,12 @@ Der schweizerische Führerausweis wird nicht auf Probe erteilt bei Personen, der
 
 <sup>4</sup>
 
-Aberkannte ausländische Führerausweise werden bei der Behörde hinterlegt. Sie sind dem Berechtigten auszuhändigen:
+Aberkannte ausländische Führerausweise werden bei der Behörde hinterlegt, sofern der Inhaber in der Schweiz Wohnsitz hat. Sie werden dem Berechtigten ausgehändigt:[^45-1]
 
 - a. nach Ablauf der Aberkennungsfrist oder Aufhebung der Aberkennung;
-- b. auf Verlangen beim Verlassen der Schweiz, wenn er hier keinen Wohnsitz hat. Bei unbefristeter Aberkennung kann die Ungültigkeit in der Schweiz vermerkt werden, wenn die Gefahr von Missbräuchen besteht.[^45-1]
+- b.[^45-2] auf Verlangen, wenn er den Wohnsitz in der Schweiz aufgibt.[^45-3]
+
+<sup>4bis</sup> Unbefristet aberkannte ausländische Führerausweise werden mit einer Kopie der Aberkennungsverfügung an die Ausstellungsbehörde zurückgesendet, sofern der Inhaber in der Schweiz keinen Wohnsitz hat.[^45-4]
 
 <sup>5</sup> Kann die Aberkennung dem Betroffenen in der Schweiz nicht eröffnet werden, so ist sie durch das ASTRA auf dem Rechtshilfeweg eröffnen zu lassen.
 
@@ -1649,12 +1747,15 @@ Aberkannte ausländische Führerausweise werden bei der Behörde hinterlegt. Sie
 Aberkennungen, die wegen Umgehung der schweizerischen oder ausländischen Zuständigkeitsbestimmungen verfügt wurden, erlöschen, wenn der Inhaber nachweist, dass er seither:
 
 - a. während mindestens drei Monaten Wohnsitz in dem Staat begründet hat, der den aberkannten Ausweis ausgestellt hat; oder
-- b. einen gültigen Ausweis im neuen Wohnsitzstaat erworben hat.[^45-2]
+- b. einen gültigen Ausweis im neuen Wohnsitzstaat erworben hat.[^45-5]
 
 <sup>7</sup> Die von ausländischen Behörden verfügten Entzüge von ausländischen Führerausweisen sind zu vollziehen, wenn das ASTRA dies anordnet.
 
-[^45-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^45-2]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
+[^45-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^45-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^45-3]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
+[^45-4]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^45-5]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 
 #### Art. 46
 
@@ -2057,7 +2158,9 @@ Die Zulassungsbehörde des Standortkantons erteilt den Fahrzeugausweis dem Halte
 
 <sup>1</sup> Als Standort gilt der Ort, wo das Fahrzeug nach Gebrauch in der Regel für die Nacht abgestellt wird.
 
-<sup>2</sup> Der Wohnsitz des Halters gilt als Standort
+<sup>2</sup>
+
+Der Wohnsitz des Halters gilt als Standort:
 
 - a. bei Fahrzeugen, die während der Woche ausserhalb des Wohnsitzkantons des Halters verwendet und durchschnittlich mindestens zweimal im Monat über das Wochenende im Wohnsitzkanton des Halters untergebracht werden;
 - b. bei Fahrzeugen, die in verschiedenen Kantonen je weniger als neun zusammenhängende Monate verwendet werden;
@@ -2338,17 +2441,13 @@ Die Kantone stellen Schilder mit reflektierendem Belag zur Verfügung. Sie entsc
 
 #### Art. 88a
 
-**Besondere Prüfungsfahrzeuge**[^88a-1]
+**Motorrad der Unterkategorie A1 mit beschränkter Geschwindigkeit**[^88a-1]
 
-<sup>1</sup> …[^88a-2]
+<sup>1</sup> Wird die praktische Führerprüfung der Unterkategorie A1 mit einem Motorrad abgelegt, dessen Geschwindigkeit auf 45 km/h beschränkt ist, so dürfen nur entsprechende Motorräder geführt werden.
 
-<sup>2</sup> Wird die praktische Führerprüfung der Unterkategorie A1 mit einem Motorrad abgelegt, dessen Geschwindigkeit auf 45 km/h beschränkt ist, so dürfen nur entsprechende Motorräder geführt werden.
+<sup>2</sup> Diese Beschränkung wird im Führerausweis eingetragen (Art. 24*d*), sofern der Inhaber das 16. Altersjahr zurückgelegt hat.
 
-<sup>3</sup> Die Beschränkungen werden im Führerausweis eingetragen (Art. 24*d*).[^88a-3]
-
-[^88a-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^88a-2]: Aufgehoben durch Ziff. I der V vom 14. Dez. 2018, mit Wirkung seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^88a-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^88a-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 89
 
@@ -2594,7 +2693,9 @@ Wird bei einer Prüfung oder Kontrolle festgestellt, dass Fahrzeuge, die nach Ar
 
 **Schweizerische Zulassung**
 
-<sup>1</sup> Ausländische Motorfahrzeuge und Anhänger müssen mit schweizerischem Fahrzeugausweis und schweizerischen Kontrollschildern versehen werden, wenn
+<sup>1</sup>
+
+Ausländische Motorfahrzeuge und Anhänger müssen mit schweizerischem Fahrzeugausweis und schweizerischen Kontrollschildern versehen werden, wenn:
 
 - a. ihr Standort sich seit mehr als einem Jahr ohne Unterbruch von mehr als drei zusammenhängenden Monaten in der Schweiz befindet;
 - b. der Halter sich seit mehr als einem Jahr ohne Unterbruch von mehr als drei zusammenhängenden Monaten in der Schweiz aufhält und das Fahrzeug länger als einen Monat hier verwendet;
@@ -2808,11 +2909,13 @@ wird mit Busse bis 100 Franken bestraft.[^143-2]
 
 #### Art. 144
 
-**Meldung der Auflösung von Lehrverhältnissen**[^144-1]
+**Unterlassen der Meldung der Auflösung von Lehrverträgen**[^144-1]
 
-Der Lehrmeister, der die vorzeitige Auflösung des Lehrverhältnisses mit dem Lastwagenführer-Lehrling, dem der Lernfahrausweis vor dem 18. Altersjahr erteilt wurde, oder die Auflösung des Lehrverhältnisses mit dem Motorradmechaniker-Lehrling während der Gültigkeitsdauer des Lernfahrausweises der Kategorie A nicht meldet, wird mit Busse bestraft.
+<sup>1</sup> Der Berufsbildner, der die Auflösung des Lehrvertrages mit einem Lernenden der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ», «Automobil-Fachfrau/Automobil-Fachmann EFZ» mit der Fachrichtung «Nutzfahrzeuge» oder «Automobil-Mechatronikerin/Automobil-Mechatroniker EFZ» mit der Fachrichtung «Nutzfahrzeuge», dem der Lernfahrausweis der Kategorie C oder CE vor dem vollendeten 18. Altersjahr erteilt worden ist, nicht meldet, wird mit Busse bestraft.
 
-[^144-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Febr. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+<sup>2</sup> Der Berufsbildner, der die Auflösung des Lehrvertrages mit einem Lernenden der beruflichen Grundbildung «Motorradmechanikerin/Motorradmechaniker EFZ» während der Gültigkeitsdauer des Lernfahrausweises der Kategorie A ohne Leistungsbeschränkung nach Artikel 15 Absatz 2 Buchstabe a nicht meldet, wird mit Busse bestraft.
+
+[^144-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 145
 
@@ -2900,50 +3003,55 @@ Wer gewerbsmässig Motorfahrzeuge an Selbstfahrer vermietet und die vorgeschrieb
 
 <sup>2</sup>
 
-Das ASTRA erlässt Weisungen hinsichtlich der Anforderungen an Form, Inhalt, Gestaltung, Material und Druck für die:[^150-2]
+Das ASTRA regelt die Anforderungen an die schriftliche oder elektronische Form, an Inhalt, Gestaltung sowie gegebenenfalls Material und Druck für die:[^150-2]
 
 - a. Lernfahrausweise;
 - b.[^150-3] Führerausweise;
 - c. Fahrzeugausweise inkl. Motorfahrradfahrzeugausweise;
 - d.[^150-4] Fahrlehrerbewilligungen;
-- e. Ausbildungsbewilligungen für Ausbilder von Lastwagenführer-Lehrlingen;
-- f. Sonderbewilligungen.[^150-5]
+- e.[^150-5] Ausbildungsbewilligungen für Ausbilder von Lernenden der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ»;
+- f. Sonderbewilligungen.[^150-6]
 
 <sup>3</sup> Eintragungen in die Ausweise und Bewilligungen dürfen nur von Behörden oder von ihnen schriftlich Ermächtigten vorgenommen werden. Nachträgliche Eintragungen, die Rechte oder Pflichten begründen, ändern oder aufheben und die sich nicht auf eine besondere, dem Inhaber eröffnete und unterzeichnete Verfügung stützen, sind mit Amtsstempel und Unterschrift der zuständigen Behörde zu versehen.
 
-<sup>4</sup> Ein Duplikat des Fahrzeugausweises, das die Behörde als solches kennzeichnen kann, darf nur bei schriftlich bestätigtem Verlust des Originals erteilt werden. Der Inhaber ist verpflichtet, das Duplikat der Behörde innert 14 Tagen seit Auffindung des Originals zurückzugeben.[^150-6]
+<sup>4</sup> Ein Duplikat des Fahrzeugausweises, das die Behörde als solches kennzeichnen kann, darf nur bei schriftlich bestätigtem Verlust des Originals erteilt werden. Der Inhaber ist verpflichtet, das Duplikat der Behörde innert 14 Tagen seit Auffindung des Originals zurückzugeben.[^150-7]
 
 <sup>5</sup>
 
-Das ASTRA kann:[^150-7]
+Das ASTRA kann:[^150-8]
 
-- a.[^150-8] …
-- b.[^150-9] eine zum amtlichen Gebrauch bestimmte Anleitung für die Ärzte über die Durchführung der verkehrsmedizinischen Untersuchungen herausgeben;
-- c.[^150-10] für die Durchführung der Untersuchungen nach Artikel 9, 11*b* Absatz 1 und 27 einheitliche Methoden empfehlen;
+- a.[^150-9] …
+- b.[^150-10] eine zum amtlichen Gebrauch bestimmte Anleitung für die Ärzte über die Durchführung der verkehrsmedizinischen Untersuchungen herausgeben;
+- c.[^150-11] für die Durchführung der Untersuchungen nach Artikel 9, 11*b* Absatz 1 und 27 einheitliche Methoden empfehlen;
 - d. die Anforderungen festlegen, denen Motorfahrzeugführer in verkehrspsychologischer Hinsicht genügen müssen;
-- e.[^150-11] die Anerkennungsfristen für ausländische Ausweise und Kontrollschilder ändern sowie auf die Kontrollfahrt nach Artikel 44 Absatz 1 und die Theorieprüfung nach Artikel 44 Absatz 2 verzichten gegenüber Führern aus Staaten, die in Bezug auf Ausbildung und Prüfung der Schweiz entsprechende Anforderungen stellen;
-- f.[^150-12] …
+- e.[^150-12] die Anerkennungsfristen für ausländische Ausweise und Kontrollschilder ändern sowie auf die Kontrollfahrt nach Artikel 44 Absatz 1 und die Theorieprüfung nach Artikel 44 Absatz 2 verzichten gegenüber Führern aus Staaten, die in Bezug auf Ausbildung und Prüfung der Schweiz entsprechende Anforderungen stellen;
+- f.[^150-13] …
 
-<sup>6</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen und in besonderen Fällen Ausnahmen von einzelnen Bestimmungen bewilligen. Es trifft allgemeine Anordnungen in der Regel nach Rücksprache mit den Kantonen und mit Fachleuten.
+<sup>6</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen, Einzelheiten in Verordnungen regeln und namentlich zur Vermeidung von Härtefällen generelle, abstrakte Ausnahmen von einzelnen Bestimmungen bewilligen. Es trifft allgemeine Anordnungen in der Regel nach Rücksprache mit den Kantonen und mit Fachleuten.[^150-14]
 
-<sup>7</sup> Das ASTRA anerkennt als Traktorfahrkurse im Sinne von Artikel 4 Absatz 3 Weiterbildungskurse, in welchen den Teilnehmern das für das Fahren im Verkehr erforderliche Grundverständnis der Fahrdynamik und die Beherrschung des Fahrzeugs gelehrt wird. Das ASTRA erlässt Weisungen über die Durchführung dieser Kurse.[^150-13]
+<sup>6bis</sup> Die Kantone können zur Vermeidung von Härtefällen individuelle, konkrete Ausnahmen von einzelnen Bestimmungen bewilligen.[^150-15]
 
-<sup>8</sup> Das BAZG kann in begründeten Fällen in Abweichung von Artikel 115 Absatz 1 Buchstabe d Binnentransporte mit ausländischen Fahrzeugen bewilligen, sofern die Erhebung der geschuldeten Abgaben sichergestellt ist.[^150-14]
+<sup>7</sup> Das ASTRA anerkennt als Traktorfahrkurse im Sinne von Artikel 4 Absatz 3 Weiterbildungskurse, in welchen den Teilnehmern das für das Fahren im Verkehr erforderliche Grundverständnis der Fahrdynamik und die Beherrschung des Fahrzeugs gelehrt wird. Das ASTRA regelt die Gestaltung, den Inhalt und die Durchführung der Traktorfahrkurse.[^150-16]
+
+<sup>8</sup> Das BAZG kann in begründeten Fällen in Abweichung von Artikel 115 Absatz 1 Buchstabe d Binnentransporte mit ausländischen Fahrzeugen bewilligen, sofern die Erhebung der geschuldeten Abgaben sichergestellt ist.[^150-17]
 
 [^150-1]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^150-2]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^150-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^150-3]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-4]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
-[^150-5]: Fassung gemäss Anhang 1 Ziff. 3 der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^150-6]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^150-5]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^150-6]: Fassung gemäss Anhang 1 Ziff. 3 der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^150-7]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^150-8]: Aufgehoben durch Ziff. I der V vom 1. Juli 2015, mit Wirkung seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^150-9]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^150-8]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^150-9]: Aufgehoben durch Ziff. I der V vom 1. Juli 2015, mit Wirkung seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^150-10]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^150-11]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^150-12]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
-[^150-13]: Eingefügt durch Anhang 1 Ziff. 3 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^150-14]: Eingefügt durch Art. 59 Ziff. 3 der Schwerverkehrsabgabeverordnung vom 6. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)).
+[^150-11]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^150-12]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
+[^150-13]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
+[^150-14]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^150-15]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^150-16]: Eingefügt durch Anhang 1 Ziff. 3 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^150-17]: Eingefügt durch Art. 59 Ziff. 3 der Schwerverkehrsabgabeverordnung vom 6. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)).
 
 #### Art. 151
 
@@ -3169,10 +3277,11 @@ Die kantonalen Behörden können verkehrsmedizinische Untersuchungen, die von ei
 
 <sup>5</sup> Personen, deren Führerausweis auf das Führen von Motorwagen mit Schalterleichterung oder elektrischem Batterieantrieb beschränkt ist, wird auf Gesuch hin die Beschränkung aufgehoben, wenn keine Fahreignungsmängel einer Aufhebung entgegenstehen.
 
-<sup>6</sup> Inhaber eines Papierführerausweises müssen ihren Ausweis bis spätestens am 31. Januar 2024 in einen Ausweis im Kreditkartenformat umtauschen. Als Ausstelldatum des neuen Ausweisdokuments ist das Datum des Tages einzutragen, an dem die kantonale Behörde die Umschreibung vorgenommen hat. Die Papierführerausweise verlieren nach Ablauf der Frist ihre Eigenschaft als Nachweis der Fahrberechtigungen.
+<sup>6</sup> Inhaber eines blauen Papierführerausweises müssen ihren Ausweis bis spätestens am 31. Oktober 2024 in einen Führerausweis im Kreditkartenformat umtauschen. Als Ausstelldatum des neuen Ausweisdokuments ist das Datum des Tages einzutragen, an dem die kantonale Behörde die Umschreibung vorgenommen hat. Die Papierführerausweise verlieren nach Ablauf der Frist ihre Eigenschaft als Nachweis der Fahrberechtigungen.[^151l-3]
 
 [^151l-1]: Eingefügt durch Ziff. I der V vom 14. Dez. 2018, Abs. 5 und 6 in Kraft seit 1. Febr. 2019, Abs. 2 seit 1. Jan. 2020 und Abs. 1, 3 und 4 seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^151l-2]: Eingefügt durch Ziff. I der V vom 3. Juli 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 2143](https://fedlex.data.admin.ch/eli/oc/2019/397)).
+[^151l-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 151m
 
@@ -3192,6 +3301,22 @@ Wer gestützt auf Artikel 151*d* Absätze 9 und 10 Fahrzeuge mit einem Gesamtgew
 
 [^151n-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
 [^151n-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+
+#### Art. 151o
+
+[^151o-1]
+
+[^151o-1]: Noch nicht in Kraft.
+
+#### Art. 151p
+
+**Übergangsbestimmungen zur Änderung vom 10. Mai 2023**[^151p-1]
+
+<sup>1</sup> Ein bis am 14. Juli 2023 erworbener Führerausweis der Unterkategorie D1 (unter Vorbehalt von Art. 151*d* Abs. 10) berechtigt im Binnenverkehr auch zum berufsmässigen Führen von Motorwagen zum Personentransport mit mehr als 8, aber nicht mehr als 16 Sitzplätzen ausser dem Führersitz und Stehplätzen.
+
+<sup>2</sup> …
+
+[^151p-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023, Abs. 2 in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 152
 
@@ -3237,9 +3362,11 @@ Es werden insbesondere aufgehoben:
 
 **Inkrafttreten**
 
-<sup>1</sup> Artikel 19 ist nicht anwendbar auf Fahrzeugführer, die sich vor dem 1. März 1977 zur Führerprüfung angemeldet haben.
+<sup>1</sup> …[^154-1]
 
 <sup>2</sup> Diese Verordnung tritt am 1. Januar 1977 in Kraft.
+
+[^154-1]: Aufgehoben durch Ziff. I der V vom 10. Mai 2023, mit Wirkung seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ## Schlussbestimmungen der Änderung vom 15. April 1987
 
@@ -3293,7 +3420,9 @@ Anhang 1[^t-2]
 
 ## Medizinische Mindestanforderungen
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Die Berichtigung vom 4. Juni 2019 betrifft nur den französischen Text ([AS 2019 1645](https://fedlex.data.admin.ch/eli/oc/2019/317)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Die Berichtigung vom 4. Juni 2019 betrifft nur den französischen Text ([AS 2019 1645](https://fedlex.data.admin.ch/eli/oc/2019/317)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+
+### Führer von Fahrzeugen, für die ein Führerausweis erforderlich ist
 
 <table>
 <tr><th></th><th>1. Gruppe</th><th></th><th>2. Gruppe</th></tr>
@@ -3313,19 +3442,25 @@ Anhang 1[^t-2]
 <tr><td>**10** **Krankheiten der Wirbel****säule und des Bewegungs****apparates**</td><td colspan="3">Keine Missbildungen, Erkrankungen, Lähmungen, Folgen von Verletzungen oder Operationen mit bedeutsamen Auswirkungen auf die Fähigkeit zum sicheren Führen eines Motorfahrzeugs, die nicht durch Einrichtungen genügend korrigiert werden können.</td></tr>
 </table>
 
+### Führer von Fahrzeugen, für die kein Führerausweis erforderlich ist
+
+<table>
+<tr><td>Sehvermögen</td><td>Mindestsehschärfe korrigiert oder unkorrigiert einseitig von 0,2; keine extreme Gesichtsfeldeinschränkung</td></tr>
+</table>
+
 Anhang 1<sup>bis</sup> [^t-3]
 
-(Art. 5*b* Abs. 1 Bst. b)
+(Art. 5*b* Abs. 1 Bst. b und 5*f* Abs. 1 Bst. a)
 
 ## Anforderungen an Ärztinnen und Ärzte der Stufe 1
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Bereinigt gemäss Ziff. II der V vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^t-3]: Eingefügt durch Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Bereinigt gemäss Ziff. II der V vom 15. Juni 2018 ([AS 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)) und Ziff. II Abs. 1 der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 Ärztinnen und Ärzte, die verkehrsmedizinische Kontrolluntersuchungen von über 75-Jährigen (Art. 27 Abs. 1 Bst. b) durchführen, müssen über folgende Kenntnisse und Fähigkeiten verfügen:
 
 - a. Kenntnis und Verständnis der für die verkehrsmedizinischen Kontrolluntersuchungen relevanten rechtlichen Grundlagen (SVG, SKV[^annex1bis-lvlu1-1], VRV[^annex1bis-lvlu1-2], VZV, kant. Ausführungsbestimmungen);
 - b. Kenntnis der administrativen Abläufe zwischen der kantonalen Behörde und der untersuchenden Ärztin oder dem untersuchenden Arzt;
-- c. Kenntnis der Indikationen für verkehrsmedizinische Abklärungen, Zusatzuntersuchungen und ärztlich begleitete Kontrollfahrten sowie des diesbezüglichen Vorgehens;
+- c. Kenntnis der Indikationen für verkehrsmedizinische Abklärungen, Zusatzuntersuchungen und ärztlich begleitete Fahrten zur Überprüfung der Fahreignung sowie des diesbezüglichen Vorgehens;
 - d. Kenntnis des Untersuchungsgangs;
 - e. Fähigkeit zur Beurteilung der Fahreignung gemäss den medizinischen Mindestanforderungen (Anhang 1) in den einzelnen Diagnosegruppen sowie Erkennen eines Konsums problematischer Substanzen;
 - f. Kenntnis der verkehrsrelevanten Einschränkungen und Erkrankungen bei über 75-Jährigen und Fähigkeit, die Fahreignung, insbesondere bei Vorliegen von kognitiven Defiziten, zu beurteilen;
@@ -3658,9 +3793,9 @@ Anhang 4[^t-8]
 
 (Art. 11)
 
-## Gesuch um die Erteilung eines Lernfahr- oder Führerausweises
+## Gesuch um die Erteilung eines Lernfahr- oder Führerausweises oder der Bewilligung zum berufsmässigen Personentransport
 
-[^t-8]: Fassung gemäss Ziff. II Abs. 1 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II Abs. 3 der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)) und Ziff. II der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 1 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II Abs. 3 der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)), Ziff. II Abs. 1 der V vom 14. Dez. 2018 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) und vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 <table>
 <tr><td>1</td><td>Personalien</td><td></td></tr>
@@ -3676,7 +3811,7 @@ Anhang 4[^t-8]
 </table>
 
 <table>
-<tr><td></td><td>Aktuelle Passfoto (35×45 mm)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Aktuelles Passfoto (35 x 45 mm)</td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Unterschrift:</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Formularfeld zum Einscannen der Unterschrift</td></tr>
 </table>
@@ -3689,10 +3824,10 @@ Anhang 4[^t-8]
 </table>
 
 <table>
-<tr><td colspan="2">oder um die Bewilligung zum berufsmässigen Personentransport</td><td colspan="2"></td></tr>
-<tr><td colspan="3">(Beschreibung der Ausweiskategorien: vgl. Beilage)</td><td></td></tr>
-<tr><td colspan="3">Die gesuchstellende Person</td><td></td></tr>
-<tr><td></td><td colspan="3">erklärt:</td></tr>
+<tr><td colspan="2">oder um die Bewilligung zum berufsmässigen Personentransport</td></tr>
+<tr><td colspan="2">(Beschreibung der Ausweiskategorien: vgl. Beilage)</td></tr>
+<tr><td colspan="2">Die gesuchstellende Person</td></tr>
+<tr><td></td><td>erklärt:</td></tr>
 </table>
 
 <table>
@@ -3770,7 +3905,10 @@ Anhang 4[^t-8]
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>oben</td><td></td><td>unten</td></tr>
 </table>
 
-5.53 Augenbeweglichkeit nach rechts oben, rechts, rechts unten, links oben, links und links unten geprüft Doppelbilder nein ja, Richtung:
+<table>
+<tr><td>5.53</td><td>Augenbeweglichkeit</td><td></td><td colspan="3">nach rechts oben, rechts, rechts unten, links oben, links und links unten geprüft</td></tr>
+<tr><td></td><td>Doppelbilder</td><td></td><td>nein</td><td></td><td>Doppelbilder</td></tr>
+</table>
 
 - 5\.54 Bemerkungen
 
@@ -3795,13 +3933,13 @@ Die unterzeichnete Person bestätigt, das Gesuchsformular wahrheitsgetreu ausgef
 
 Ort und Datum:
 
-Unterschrift der gesetzlichen Vertreterin/des gesetzlichen Vertreters:
+Unterschrift der gesetzlichen Vertreterin / des gesetzlichen Vertreters:
 
 -
 
 (bei Minderjährigen oder Personen, die unter umfassender Beistandschaft stehen)
 
-Die zur Entgegennahme dieses Gesuchs berechtigte Stelle muss bei Personen, die sich erstmals um einen Lernfahr- oder Führerausweis oder um die Bewilligung zum berufsmässigen Personentransport bewerben, die Identität bestätigen (Art. 11 Abs. 3 VZV):
+Die zur Entgegennahme dieses Gesuchs berechtigte Stelle muss bei Personen, die sich erstmals um einen Lernfahr- oder Führerausweis oder um die Bewilligung zum berufsmässigen Personentransport bewerben, die Identität bestätigen (Art. 11 Abs. 4 VZV):
 
 Die Identität der gesuchstellenden Person bestätigt:
 
@@ -3814,8 +3952,8 @@ Beigelegte Dokumente
 (Zutreffendes bitte ankreuzen)
 
 - Gegebenenfalls (Art. 10 Abs. 1 VZV): Bescheinigung über den erfolgreichen Abschluss eines anerkannten Kurses über lebensrettende Sofortmassnahmen
-- Lernende im Beruf Lastwagenführerin/Lastwagenführer, die das 18. Altersjahr noch nicht zurückgelegt haben: Bestätigung des kantonalen Lehrlingsamtes über den Abschluss eines gültigen Lehrvertrages (Art. 11 Abs. 2 VZV)
-- Lernende im Beruf Motorradmechanikerin/Motorradmechaniker: Bestätigung des kantonalen Lehrlingsamtes über den Abschluss eines gültigen Lehrvertrages (Art. 11 Abs. 2 VZV)
+- Lernende der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ», «Automobil-Fachfrau/Automobil-Fachmann EFZ» mit der Fachrichtung «Nutzfahrzeuge» und «Automobil-Mechatronikerin/Automobil-Mechatroniker EFZ» mit der Fachrichtung «Nutzfahrzeuge», die das 18. Altersjahr noch nicht zurückgelegt haben: Bestätigung des kantonalen Berufsbildungsamtes über den Abschluss eines gültigen Lehrvertrages (Art. 11 Abs. 2 Bst. a VZV)
+- Lernende der beruflichen Grundbildung «Motorradmechanikerin/Motorradmechaniker EFZ»: Bestätigung des kantonalen Berufsbildungsamtes über den Abschluss eines gültigen Lehrvertrages (Art. 11 Abs. 2 Bst. b VZV)
 - Ausländische Staatsangehörige: Ausländerausweis und ausländischer Führerausweis
 
 Beilage
@@ -3824,12 +3962,12 @@ Beilage
 
 - [tab] **Kategorien:**
 - A: Motorräder
-- B: Motorwagen und dreirädrige Motorfahrzeuge mit einem Gesamtgewicht von nicht mehr als 3500 kg und nicht mehr als acht Sitzplätzen ausser dem Führersitz;
+- B: Motorwagen und dreirädrige Motorfahrzeuge mit einem Gesamtgewicht von nicht mehr als 3500 kg und nicht mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie B und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie B und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 3500 kg nicht übersteigt;
-- C: Motorwagen, ausgenommen jene der Kategorie D, mit einem Gesamtgewicht von mehr als 3500 kg;
+- C: Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg und nicht mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie C und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
-- D: Motorwagen zum Personentransport mit mehr als acht Sitzplätzen ausser dem Führersitz;
+- D: Motorwagen zum Personentransport mit mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie D und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
 - BE: Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie B und einem Anhänger, die als Kombination nicht unter die Kategorie B fallen;
 - CE: Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie C und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg;
@@ -3837,9 +3975,9 @@ Beilage
 - [tab] **Unterkategorien:**
 - A1: Motorräder mit einem Hubraum von nicht mehr als 125 cm<sup>3</sup> und einer Motorleistung von höchstens 11 kW;
 - B1: Klein- und dreirädrige Motorfahrzeuge mit einem Leergewicht von nicht mehr als 550 kg;
-- C1: Motorwagen, ausgenommen jene der Kategorie D, mit einem Gesamtgewicht von mehr als 3500 kg, aber nicht mehr als 7500 kg;
+- C1: Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber nicht mehr als 7500 kg und nicht mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie C1 und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
-- D1: Motorwagen zum Personentransport mit mehr als acht, aber nicht mehr als 16 Sitzplätzen ausser dem Führersitz;
+- D1: Motorwagen zum Personentransport mit mehr als acht, aber nicht mehr als 16 Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie D1 und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
 - C1E: Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie C1 und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 12 000 kg nicht übersteigt;
 - D1E: Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie D1 und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 12 000 kg nicht übersteigt und der Anhänger nicht zum Personentransport verwendet wird.
@@ -3850,11 +3988,11 @@ Beilage
 
 Anhang 4a[^t-9]
 
-(Art. 27*d*)
+(Art. 27*d* Abs. 1)
 
 ## Bescheinigung der Weiterausbildung
 
-[^t-9]: Eingefügt durch Ziff. II der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Fassung gemäss Ziff. II Abs. 2 der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-9]: Eingefügt durch Ziff. II der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Fassung gemäss Ziff. II Abs. 2 der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 <table>
 <tr><td>Name:</td></tr>
@@ -3865,14 +4003,13 @@ Anhang 4a[^t-9]
 <tr><td>Führerausweisnummer:</td></tr>
 </table>
 
+Wer vorsätzlich durch unrichtige Angaben, Verschweigen erheblicher Tatsachen oder Vorlage falscher Bescheinigungen einen Ausweis erschleicht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft (Art. 97 SVG) und hat mit dem Entzug des Ausweises zu rechnen (Art. 16 SVG).
+
 Bescheinigung über die Teilnahme an der Weiterausbildung
 
-Ablaufdatum des Führerausweises auf Probe:
-
 <table>
-<tr><td>Weiterausbildungskurs</td></tr>
-<tr><td>Stempel und Unterschrift des Kursveranstalters:</td></tr>
-<tr><td>Datum:</td></tr>
+<tr><td>Ablaufdatum des Führerausweises auf Probe: …………………………………………</td><td>Datum des Kursbesuchs: …………………………………………</td></tr>
+<tr><td></td><td>Unterschrift des Kursveranstalters: …………………………………………</td></tr>
 </table>
 
 Anhänge 5 und 6[^t-10]

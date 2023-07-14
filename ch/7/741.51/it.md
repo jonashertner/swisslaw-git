@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2023-04-01
+version: 2023-07-15
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230401/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230401-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230715/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230715-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230401/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)[^t-1]
 
-del 27 ottobre 1976 (Stato 1° aprile 2023)
+del 27 ottobre 1976 (Stato 15 luglio 2023)
 
 [^t-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -107,12 +107,12 @@ Per i sottosistemi del sistema d’informazione sull’ammissione alla circolazi
 La licenza di condurre è rilasciata per le categorie seguenti:
 
 - A: motoveicoli;
-- B:[^3-1] autoveicoli e tricicli a motore con peso totale non superiore a 3500 kg e non più di otto posti a sedere, escluso quello del conducente;
+- B:[^3-1] autoveicoli e tricicli a motore con peso totale non superiore a 3500 kg e non più di otto posti[^3-2], escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio con peso totale non superiore a 750 kg;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 3500 kg;
-- C:[^3-2] autoveicoli, esclusi quelli della categoria D, con peso totale superiore a 3500 kg;
+- C:[^3-3] autoveicoli con peso totale superiore a 3500 kg e non più di otto posti, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria C e un rimorchio con peso totale non superiore a 750 kg;
-- D:[^3-3] autoveicoli adibiti al trasporto di persone con più di otto posti a sedere, escluso quello del conducente;
+- D:[^3-4] autoveicoli adibiti al trasporto di persone con più di otto posti, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria D e un rimorchio con peso totale non superiore a 750 kg;
 - BE: le combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio che come combinazione non rientrano nella categoria B;
 - CE: le combinazioni di veicoli costituite da un veicolo trattore della categoria C e un rimorchio con un peso totale superiore a 750 kg;
@@ -124,31 +124,32 @@ La licenza di condurre è rilasciata per le sottocategorie seguenti:
 
 - A1: motoveicoli di cilindrata non superiore a 125 cm<sup>3</sup> e una potenza del motore massima di 11 kW;
 - B1: quadricicli e tricicli a motore con peso a vuoto non superiore a 550 kg;
-- C1:[^3-4] autoveicoli, esclusi quelli della categoria D, con peso totale superiore a 3500 kg, ma non a 7500 kg;
-- combinazioni di veicoli costituite da un veicolo trattore della sottocategoria C1 e un rimorchio con peso totale non superiore a 750 kg;
-- D1:[^3-5] autoveicoli adibiti al trasporto di persone con più di otto posti a sedere, ma non più di sedici, escluso quello del conducente;
+- C1:[^3-5] autoveicoli con peso totale superiore a 3500 kg ma non oltre 7500 kg e non più di otto posti, escluso quello del conducente;
+- combinazioni di veicoli costituite da un veicolo trattore della categoria C1 e un rimorchio con peso totale non superiore a 750 kg;
+- D1:[^3-6] autoveicoli adibiti al trasporto di persone con più di otto posti, ma non più di sedici, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della sottocategoria D1 e un rimorchio con peso totale non superiore a 750 kg;
-- C1E:[^3-6] combinazioni di veicoli costituite da un veicolo trattore della sottocategoria C1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg;
-- D1E:[^3-7] combinazioni di veicoli costituite da un veicolo trattore della sottocategoria D1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg e il rimorchio non sia adibito al trasporto di persone.
+- C1E:[^3-7] combinazioni di veicoli costituite da un veicolo trattore della sottocategoria C1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg;
+- D1E:[^3-8] combinazioni di veicoli costituite da un veicolo trattore della sottocategoria D1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg e il rimorchio non sia adibito al trasporto di persone.
 
 <sup>3</sup>
 
 La licenza di condurre è rilasciata per le categorie speciali seguenti:
 
-- F:[^3-8] veicoli a motore, esclusi motoveicoli, la cui velocità massima non supera 45 km/h;
-- G: [^3-9] veicoli a motore agricoli e forestali[^3-10], come pure carri di lavoro, carri a motore industriali immatricolati e trattori impiegati a scopo agricolo e forestale, la cui velocità massima non supera 30 km/h, esclusi i veicoli speciali;
+- F:[^3-9] veicoli a motore, esclusi motoveicoli, la cui velocità massima non supera 45 km/h;
+- G: [^3-10] veicoli a motore agricoli e forestali[^3-11], come pure carri di lavoro, carri a motore industriali immatricolati e trattori impiegati a scopo agricolo e forestale, la cui velocità massima non supera 30 km/h, esclusi i veicoli speciali;
 - M: ciclomotori.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-2]: Nuova espressione giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-3]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^3-4]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-5]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-5]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^3-6]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^3-7]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-8]: Correzione del 19 ago. 2014 ([RU 2014 2601](https://fedlex.data.admin.ch/eli/oc/2014/454)).
-[^3-9]: Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4191](https://fedlex.data.admin.ch/eli/oc/2005/548)).
-[^3-10]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018 in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-8]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-9]: Correzione del 19 ago. 2014 ([RU 2014 2601](https://fedlex.data.admin.ch/eli/oc/2014/454)).
+[^3-10]: Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4191](https://fedlex.data.admin.ch/eli/oc/2005/548)).
+[^3-11]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018 in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 4
 
@@ -191,7 +192,7 @@ La licenza di condurre della categoria speciale:
 Inoltre, nel traffico interno:
 
 - a. la licenza di condurre della categoria D autorizza a condurre filobus vuoti;
-- b.[^4-4] la licenza di condurre della categoria C autorizza a condurre veicoli adibiti al trasporto di agenti di polizia e autoveicoli del servizio antincendio con più di otto posti a sedere, veicoli vuoti della categoria D, della sottocategoria D1 e filobus vuoti;
+- b.[^4-4] la licenza di condurre della categoria C autorizza a condurre veicoli adibiti al trasporto di agenti di polizia e autoveicoli del servizio antincendio con più di otto posti, veicoli vuoti della categoria D, della sottocategoria D1 e filobus vuoti;
 - c. la licenza di condurre della sottocategoria C1 autorizza a condurre veicoli vuoti della sottocategoria D1;
 - d. la licenza di condurre delle categorie B e C e della sottocategoria C1 autorizza a trainare rimorchi agricoli e forestali o rimorchi del servizio antincendio, della polizia e della protezione civile;
 - e. la licenza di condurre delle categorie speciali F, G e M autorizza a trainare rimorchi con veicoli di queste categorie speciali;
@@ -200,10 +201,10 @@ Inoltre, nel traffico interno:
   la licenza di condurre della categoria B autorizza a:
 
   - 1\. condurre autoveicoli leggeri della sottocategoria D1 per la riparazione di guasti, per il rimorchio, per corse di trasferimento e di prova connesse al commercio di veicoli, a riparazioni o a modifiche dei veicoli, per corse di prova di veicoli nuovi da parte di fabbricanti e importatori, per collaudi di veicoli da parte di esperti nonché per controlli ufficiali di veicoli e per recarsi al luogo di questi controlli,
-  - 2\. condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti a sedere, escluso quello del conducente, se a emissioni zero (art. 9*a* cpv. 2 OETV[^4-6]) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero; è consentito il traino di un rimorchio con peso totale non superiore a 750 kg;
+  - 2\. condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti, escluso quello del conducente, se a emissioni zero (art. 9*a* cpv. 2 OETV[^4-6]) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero; è consentito il traino di un rimorchio con peso totale non superiore a 750 kg;
 
 - g.[^4-7] la licenza di condurre delle categorie B e F autorizza a condurre risciò elettrici;
-- h.[^4-8] la licenza di condurre della categoria BE autorizza a condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti a sedere, escluso quello del conducente, trainanti un rimorchio con peso totale di oltre 750 kg, se il veicolo trattore è a emissioni zero (art. 9*a* cpv. 2 OETV) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
+- h.[^4-8] la licenza di condurre della categoria BE autorizza a condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti, escluso quello del conducente, trainanti un rimorchio con peso totale di oltre 750 kg, se il veicolo trattore è a emissioni zero (art. 9*a* cpv. 2 OETV) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
 
 <sup>6</sup> Qualora il capoverso 5 autorizzi a condurre veicoli vuoti di altre categorie o sottocategorie e filobus, è consentito trasportare le persone incaricate di constatare i difetti, di controllare le riparazioni nonché di eseguire i collaudi ufficiali dei veicoli.[^4-9]
 
@@ -283,7 +284,7 @@ L’autorità cantonale riconosce i medici per esami secondo i seguenti livelli:
 
   - 1\. secondo esame di persone di cui alle lettere a e b, se il primo esame non consente di giungere a un risultato univoco sull’idoneità alla guida,
   - 2\. primo esame di candidati a una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone sulla cui idoneità medica alla guida di veicoli a motore sussistano dubbi da parte dell’autorità cantonale,
-  - 3\. primo esame di candidati a una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone che abbiano superato i 65 anni di età o presentino disabilità fisiche,
+  - 3\.[^5abis-2] primo esame di candidati a una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone che abbiano superato i 75 anni di età o presentino disabilità fisiche,
   - 4\. visite di controllo di idoneità alla guida di titolari di licenza affetti o precedentemente affetti da gravi minorazioni fisiche dovute a lesioni da incidente o a malattie, e
   - 5\. esami medici di idoneità alla guida nei casi previsti all’articolo 15*d* capoverso 1 lettere d ed e LCStr;
 
@@ -294,6 +295,7 @@ L’autorità cantonale riconosce i medici per esami secondo i seguenti livelli:
 <sup>3</sup> I titolari di riconoscimento di livello superiore possono effettuare tutti gli esami per i quali sia prescritto un riconoscimento di livello inferiore.
 
 [^5abis-1]: Nuovo testo giusta il n. I dell’O del 15 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^5abis-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 5b
 
@@ -389,7 +391,7 @@ Il riconoscimento si estingue alla fine dell’anno in cui il titolare compie 75
 
 <sup>2</sup> I medici devono effettuare gli esami di cui agli articoli 11*b*, 27 capoverso 1 nonché 65 capoverso 2 lettera d conformemente agli allegati 2 e 2*a*.
 
-<sup>3</sup> I medici e gli psicologi devono comunicarne i risultati alle autorità cantonali.
+<sup>3</sup> I medici e gli psicologi devono comunicare i risultati degli esami alle persone esaminate e alle autorità cantonali.[^5i-1]
 
 <sup>4</sup>
 
@@ -399,15 +401,22 @@ Per la notifica dei risultati alle autorità cantonali, i medici utilizzano i mo
 - b. all’allegato 3*a* per esami secondo gli articoli 7 capoverso 1<sup>bis</sup> e 9 capoverso 4;
 - c. all’allegato 4 per esami secondo l’articolo 9 capoverso 1.
 
+<sup>5</sup> Le autorità cantonali possono mettere a disposizione i moduli di cui al capoverso 4 in forma elettronica. Se un’autorità cantonale ricorre a tale possibilità, può chiedere di ricevere i moduli solo elettronicamente.[^5i-2]
+
+[^5i-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^5i-2]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+
 #### Art. 5j
 
-**Procedura in caso di risultato non univoco degli esami**
+**Procedura in caso di risultato non univoco degli esami**[^5j-1]
 
-<sup>1</sup> Se l’esame di verifica dell’idoneità alla guida non consente di giungere a un risultato univoco, il medico può richiedere all’autorità cantonale che un medico in possesso di riconoscimento di un livello superiore esegua un esame complementare. In caso di risultato non univoco in seguito a un esame di cui all’articolo 27 capoverso 1 lettera b, è necessario il riconoscimento almeno di livello 3.
+<sup>1</sup> Se l’esame di verifica dell’idoneità alla guida non consente di giungere a un risultato univoco, il medico può richiedere all’autorità cantonale che un medico in possesso del riconoscimento di un livello superiore esegua un esame complementare. In caso di risultato non univoco di un esame di cui all’articolo 27 capoverso 1 lettera b, il medico interpellato deve possedere almeno il riconoscimento di livello 3.
 
-<sup>2</sup> Per dissipare eventuali dubbi in merito al risultato dell’esame, il medico in possesso del riconoscimento di livello 4 può chiedere all’autorità cantonale di disporre una corsa di controllo cui partecipino un medico e un esperto della circolazione.
+<sup>2</sup> Se sussistono dubbi in merito al risultato dell’esame, un medico in possesso del riconoscimento di livello 4 può chiedere all’autorità cantonale di disporre una corsa di verifica dell’idoneità alla guida cui partecipino un medico in possesso del riconoscimento di livello 4 e un esperto della circolazione.
 
-<sup>3</sup> Se la persona esaminata non supera la corsa di controllo, l’esperto della circolazione le ritira immediatamente la licenza di condurre e la inoltra all’autorità cantonale.
+<sup>3</sup> Se la persona esaminata non supera la corsa di verifica dell’idoneità alla guida, l’esperto della circolazione le ritira immediatamente la licenza di condurre e la inoltra all’autorità cantonale.
+
+[^5j-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 12 Esame di conducente
 
@@ -455,11 +464,15 @@ L’età minima per condurre veicoli a motore è:
 - e. di 21 anni per le categorie D e DE e le sottocategorie D1 e D1E;
 - f.[^6-5] per i veicoli a motore per i quali non è necessaria una licenza di condurre: 16 anni.
 
-<sup>2</sup> Gli apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC» possono ottenere la licenza per allievo conducente delle categorie C e CE già a 17 anni compiuti. L’esame di conducente delle categorie B, C e CE può essere sostenuto al più presto sei mesi prima del compimento dei 18 anni, mentre la licenza di condurre può essere rilasciata soltanto una volta compiuti i 18 anni.[^6-6]
+<sup>2</sup> Gli apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC», «meccanico di manutenzione per automobili AFC» con indirizzo «veicoli utilitari» o «meccatronico d’automobili AFC» con indirizzo «veicoli utilitari» possono ottenere la licenza per allievo conducente delle categorie C e CE a partire da 17 anni compiuti. L’esame di conducente delle categorie B, BE, C e CE può essere sostenuto al più presto sei mesi prima del compimento dei 18 anni. La licenza di condurre può essere rilasciata soltanto una volta compiuti i 18 anni.[^6-6]
 
-<sup>3</sup> ...[^6-7]
+<sup>2bis</sup> Gli apprendisti che seguono la formazione professionale di base di «autista di veicoli leggeri CFP» possono sostenere l’esame pratico di conducente delle categorie B o BE al più presto sei mesi prima del compimento dei 18 anni. La licenza di condurre può essere rilasciata soltanto una volta compiuti i 18 anni.[^6-7]
 
-<sup>3bis</sup> ...[^6-8]
+<sup>2ter</sup> Gli apprendisti che superano l’esame pratico di conducente delle categorie B, BE, C o CE prima del compimento dei 18 anni possono guidare veicoli a motore fino al rilascio della licenza di condurre solo se accompagnati. L’accompagnatore deve soddisfare i requisiti di cui all’articolo 15 capoverso 1 LCStr. L’autorizzazione a condurre deve essere comprovata dalla licenza per allievo conducente firmata dall’esperto della circolazione o dall’attestato d’esame. Tale guida accompagnata non è considerata scuola guida ai sensi dell’articolo 17 capoverso 1.[^6-8]
+
+<sup>3</sup> ...[^6-9]
+
+<sup>3bis</sup> ...[^6-10]
 
 <sup>4</sup>
 
@@ -467,9 +480,9 @@ L’autorità cantonale può:
 
 - a.
 
-  alle persone con disabilità che hanno bisogno di un veicolo a motore e sono in grado di guidarlo con sicurezza:[^6-9]
+  alle persone con disabilità che hanno bisogno di un veicolo a motore e sono in grado di guidarlo con sicurezza:[^6-11]
 
-  - 1\.[^6-10] rilasciare una licenza di condurre della categoria B, della sottocategoria B1 o delle categorie speciali F o M prima del raggiungimento dell’età minima richiesta, basandosi sulla notifica di cui all’allegato 3 da parte di un medico che possieda almeno il riconoscimento di livello 3,
+  - 1\.[^6-12] rilasciare una licenza di condurre della categoria B, della sottocategoria B1 o delle categorie speciali F o M prima del raggiungimento dell’età minima richiesta, basandosi sulla notifica di cui all’allegato 3 da parte di un medico che possieda almeno il riconoscimento di livello 3,
   - 2\. autorizzare la guida di veicoli per cui non è necessaria una licenza di condurre prima del raggiungimento dell’età minima richiesta;
 
 - b. rilasciare la licenza di condurre della categoria speciale M prima del raggiungimento dell’età minima richiesta, se non si può ragionevolmente esigere l’impiego di un altro mezzo di trasporto.
@@ -481,26 +494,30 @@ L’autorità cantonale può:
 [^6-3]: Introdotta dal n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-4]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-5]: Introdotta dal n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^6-6]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^6-7]: Abrogato dal n. I dell’O del 15 giu. 2007, con effetto dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
-[^6-8]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Abrogato dal n. I dell’O del 15 giu. 2007, con effetto dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
-[^6-9]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^6-10]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^6-6]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^6-7]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^6-8]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^6-9]: Abrogato dal n. I dell’O del 15 giu. 2007, con effetto dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
+[^6-10]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Abrogato dal n. I dell’O del 15 giu. 2007, con effetto dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
+[^6-11]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^6-12]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
 #### Art. 7
 
 **Requisiti medici minimi**
 
-<sup>1</sup> Chi fa domanda di una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone deve soddisfare i requisiti medici minimi di cui nell’allegato 1.
+<sup>1</sup> Chi intende ottenere o ha ottenuto una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone deve soddisfare i requisiti medici minimi di cui all’allegato 1.[^7-1]
 
-<sup>1bis</sup> Chi raggiunge i valori di acuità visiva di cui all’allegato 1 numero 1.1 soltanto con un ausilio visivo deve indossare quest’ultimo durante la guida. In caso di successiva comparsa di visione monoculare occorre astenersi dalla guida per un periodo di quattro mesi, presentare un certificato oftalmologico e superare una corsa di controllo con un esperto della circolazione.[^7-1]
+<sup>1bis</sup> Chi raggiunge i valori di acuità visiva di cui all’allegato 1 numero 1.1 soltanto con un ausilio visivo deve indossare quest’ultimo durante la guida. In caso di successiva comparsa di visione monoculare occorre astenersi dalla guida per un periodo di quattro mesi, presentare un certificato oftalmologico e superare una corsa di controllo con un esperto della circolazione.[^7-2]
 
-<sup>2</sup> Chi conduce un veicolo a motore per cui non è necessaria la licenza di condurre deve avere un’acuità visiva minima corretta o non corretta dello 0,2 per occhio e non avere un campo visivo troppo ridotto.
+<sup>2</sup> Chi conduce un veicolo a motore per cui non è necessaria la licenza di condurre deve soddisfare i requisiti minimi relativi alla vista di cui all’allegato 1.[^7-3]
 
-<sup>3</sup> L’autorità cantonale può derogare ai requisiti medici minimi previsti se il richiedente soddisfa i requisiti di idoneità alla guida di cui all’articolo 14 capoverso 2 LCStr e tale condizione è attestata da un medico titolare di riconoscimento di livello 4.[^7-2]
+<sup>3</sup> L’autorità cantonale può derogare ai requisiti medici minimi previsti se il richiedente soddisfa i requisiti di idoneità alla guida di cui all’articolo 14 capoverso 2 LCStr e tale condizione è attestata da un medico titolare di riconoscimento di livello 4.[^7-4]
 
-[^7-1]: Introdotto dal n. I dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^7-2]: Introdotto dal n. I dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^7-3]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^7-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
 #### Art. 8
 
@@ -534,16 +551,17 @@ Il candidato alla licenza di condurre della sottocategoria D1 deve aver condotto
 
 <sup>4</sup> Per trasportare professionalmente persone con veicoli a motore della categoria B, delle sottocategorie B1 o C1 oppure della categoria speciale F, occorre aver condotto regolarmente durante un anno un veicolo a motore della corrispondente o di una categoria di licenza superiore, eccettuate la categoria A e la sottocategoria A1.
 
-<sup>5</sup> Salvo disposizione contraria, vale come pratica di guida ai sensi del presente articolo la guida regolare di veicoli a motore effettuata nei due anni precedenti la presentazione della domanda di licenza per allievo conducente o di una licenza di condurre. Le corse di scuola di guida non valgono come pratica di guida.
+<sup>5</sup> Salvo disposizione contraria, vale come pratica di guida ai sensi del presente articolo la guida regolare di veicoli a motore effettuata nei due anni precedenti la presentazione della domanda di licenza per allievo conducente o di una licenza di condurre. Le corse di scuola guida[^8-6] non valgono come pratica di guida.
 
-<sup>6</sup> Durante il periodo di prova secondo i capoversi 1–5, ma almeno nell’anno precedente il rilascio della licenza per allievo conducente o, se detta licenza non è necessaria, l’ammissione all’esame pratico di conducente, il richiedente non deve aver commesso con un veicolo a motore infrazioni alle disposizioni del diritto della circolazione stradale implicanti la revoca della licenza di condurre.[^8-6]
+<sup>6</sup> Durante il periodo di prova secondo i capoversi 1–5, ma almeno nell’anno precedente il rilascio della licenza per allievo conducente o, se detta licenza non è necessaria, l’ammissione all’esame pratico di conducente, il richiedente non deve aver commesso con un veicolo a motore infrazioni alle disposizioni del diritto della circolazione stradale implicanti la revoca della licenza di condurre.[^8-7]
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^8-2]: Nuovo testo giusta il n. I dell’O del 15 giu. 2007, in vigore dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 [^8-3]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. I dell’O del 15 giu. 2007, in vigore dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 [^8-4]: Introdotto dal n. I dell’O del 15 giu. 2007, in vigore dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 [^8-5]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^8-6]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^8-6]: Nuova espressione giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-7]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 9
 
@@ -597,24 +615,55 @@ Sono dispensati dal corso di pronto soccorso:
 
 #### Art. 11
 
-**Presentazione della domanda**
+**Presentazione della domanda**[^11-1]
 
 <sup>1</sup>
 
 Chiunque intende ottenere la licenza per allievo conducente, la licenza di condurre o un permesso per il trasporto professionale di persone deve trasmettere all’autorità d’ammissione o a un ufficio da questa designato:
 
 - a. un modulo di domanda debitamente compilato e conforme a verità secondo l’allegato 4;
-- b.[^11-1] due fotografie attuali a colori formato passaporto 35×45 mm;
-- c. un certificato sulla partecipazione completa a un corso riconosciuto ai sensi dell’articolo 10.
+- b. un certificato sulla partecipazione completa a un corso riconosciuto ai sensi dell’articolo 10;
+- c. una fotografia attuale formato passaporto 35×45 mm o una fotografia attuale in formato digitale, purché l’autorità cantonale lo consenta.
 
-<sup>2</sup> L’apprendista conducente di autocarri che non ha ancora compiuto 18 anni e l’apprendista meccanico di motoveicoli devono inoltre allegare alla domanda un certificato dell’Ufficio cantonale per la formazione professionale che provi la conclusione di un contratto di tirocinio valido.
+<sup>2</sup>
 
-<sup>3</sup> Se la domanda è presentata per la prima volta, il richiedente deve presentarsi personalmente e produrre una carta d’identità valida con fotografia. La persona incaricata del ricevimento della domanda verifica e certifica l’identità del richiedente con timbro e firma e trasmette il modulo di domanda all’autorità d’ammissione.
+Le seguenti persone devono inoltre allegare alla domanda un certificato dell’Ufficio cantonale per la formazione professionale comprovante la conclusione di un contratto di tirocinio valido:
 
-<sup>4</sup> Se presentata dopo l’annullamento della licenza di condurre in prova, la domanda deve essere corredata di una perizia rilasciata da uno psicologo del traffico di cui all’articolo 5*c* attestante l’idoneità psicologica alla guida. La perizia non può essere presentata prima di un mese dalla scadenza del periodo di sospensione e non deve risalire a più di tre mesi prima.[^11-2]
+- a.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^11-2]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+  gli apprendisti che seguono le formazioni professionali di base seguenti e non hanno ancora compiuto 18 anni:
+
+  - 1\. «autista di veicoli pesanti AFC»,
+  - 2\. «meccanico di manutenzione per automobili AFC» con indirizzo «veicoli utilitari»,
+  - 3\. «meccatronico d’automobili AFC» con indirizzo «veicoli utilitari»;
+
+- b. gli apprendisti che seguono la formazione professionale di base di «meccanico di motoveicoli AFC».
+
+<sup>3</sup>
+
+Se la domanda è presentata per la prima volta, il richiedente deve presentarsi personalmente e produrre un documento d’identità valido con fotografia. Sono riconosciuti come documenti d’identità in particolare:
+
+- a. tutti i tipi di passaporto e la carta d’identità secondo l’ordinanza del 20 settembre 2002[^11-2] sui documenti d’identità;
+- b. i passaporti e le carte d’identità rilasciati dallo Stato di provenienza o d’origine;
+- c. tutte le carte di soggiorno rilasciate da un’autorità svizzera competente secondo la legge federale del 16 dicembre 2005[^11-3] sugli stranieri e la loro integrazione e nel quadro dell’esecuzione della legge del 26 giugno 1998[^11-4] sull’asilo;
+- d.
+
+  i documenti di viaggio validi rilasciati dalla Segreteria di Stato della migrazione secondo l’ordinanza del 14 novembre 2012[^11-5] concernente il rilascio di documenti di viaggio per stranieri (ODV):
+
+  - 1\. titolo di viaggio per rifugiati di cui all’articolo 3 ODV rilasciato ai sensi dell’articolo 28 della Convenzione del 28 luglio 1951[^11-6] sullo statuto dei rifugiati,
+  - 2\. passaporto per stranieri di cui all’articolo 4 ODV rilasciato ad apolidi ai sensi della Convenzione del 28 settembre 1954[^11-7] sullo statuto degli apolidi, a stranieri sprovvisti di documenti di viaggio titolari di un permesso di dimora B o di un permesso di domicilio C e a persone ammesse provvisoriamente.
+
+<sup>4</sup> La persona incaricata del ricevimento della domanda verifica e certifica l’identità del richiedente con timbro e firma e trasmette il modulo di domanda all’autorità di ammissione.
+
+<sup>5</sup> Se presentata dopo l’annullamento della licenza di condurre in prova, la domanda deve essere corredata di una perizia rilasciata da uno psicologo del traffico di cui all’articolo 5*c* attestante l’idoneità psicologica alla guida. La perizia non può essere presentata prima di un mese dalla scadenza del periodo di sospensione e non deve risalire a più di tre mesi prima.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^11-2]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+[^11-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^11-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^11-5]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^11-6]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^11-7]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 
 #### Art. 11a
 
@@ -686,7 +735,7 @@ Il risultato dell’esame deve essere comunicato al candidato. Il non superament
 
 <sup>1bis</sup> Il candidato può sostenere l’esame teorico di base al più presto un mese prima dell’età minima richiesta.[^13-2]
 
-<sup>2</sup> I Cantoni elaborano le domande d’esame d’intesa con l’USTRA.
+<sup>2</sup> I Cantoni elaborano le domande d’esame d’intesa con l’USTRA. Possono delegare questo compito a terzi.[^13-3]
 
 <sup>3</sup>
 
@@ -698,11 +747,12 @@ Sono dispensate dall’esame teorico di base le persone che si candidano:
 
 <sup>4</sup> Chi vuole ottenere la licenza di condurre delle categorie speciali F, G o M deve sostenere un esame teorico di base adattato alla pertinente categoria del veicolo.
 
-<sup>5</sup> Chi, dopo l’annullamento della licenza di condurre in prova, intende richiedere una nuova licenza per allievo conducente deve ripetere l’esame teorico di base.[^13-3]
+<sup>5</sup> Chi, dopo l’annullamento della licenza di condurre in prova, intende richiedere una nuova licenza per allievo conducente deve ripetere l’esame teorico di base.[^13-4]
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4519](https://fedlex.data.admin.ch/eli/oc/2005/584)).
 [^13-2]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^13-3]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^13-3]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^13-4]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 14
 
@@ -725,7 +775,7 @@ Prima del rilascio della licenza per allievo conducente o di una licenza di cond
 La licenza per allievo conducente della categoria A è rilasciata per motoveicoli, compresi quelli con carrozzino laterale, con una potenza del motore non superiore a 35 kW e un rapporto tra potenza del motore e peso a vuoto non superiore a 0,20 kW/kg. Tale limitazione non si applica a:
 
 - a. apprendisti che seguono la formazione professionale di base di «meccanico di motoveicoli AFC» e sono formati da un maestro conducente della categoria A;
-- b.[^15-1] persone formate su motoveicoli durante corsi di polizia;
+- b.[^15-1] persone formate su motoveicoli ai fini della loro attività professionale in polizia;
 - c. esperti della circolazione durante la propria formazione e perfezionamento.[^15-2]
 
 <sup>2bis</sup> La licenza per allievo conducente della categoria A senza limitazione della potenza è rilasciata a chi è in possesso da almeno due anni della licenza di condurre della categoria A con limitazione della potenza e può dimostrare una pratica di guida ineccepibile ai sensi dell’articolo 8 capoverso 6.[^15-3]
@@ -734,13 +784,13 @@ La licenza per allievo conducente della categoria A è rilasciata per motoveicol
 
 <sup>4</sup> I titolari devono annunciare entro 14 giorni all’autorità, presentando la loro licenza per allievo conducente, ogni circostanza che richiede una modifica o una sostituzione della licenza.
 
-<sup>5</sup> Il maestro di tirocinio è tenuto ad annunciare tempestivamente all’autorità d’ammissione che ha rilasciato la licenza per allievo conducente l’interruzione del tirocinio con l’apprendista meccanico di motoveicoli durante la durata di validità della licenza per allievo conducente. L’autorità invita il titolare della licenza a depositarla e gli rilascia, per il rimanente periodo di validità, una licenza per allievo conducente della categoria A per motoveicoli con una potenza del motore non superiore a 35 kW e un rapporto tra potenza del motore e peso a vuoto non superiore a 0,20 kW/kg.[^15-5]
+<sup>5</sup> ...[^15-5]
 
-[^15-1]: La correzione del 7 lug. 2021 concerne soltanto il testo francese ([RU 2021 419](https://fedlex.data.admin.ch/eli/oc/2021/419)).
+[^15-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^15-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^15-3]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^15-4]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
-[^15-5]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. I dell’O del 18 dic. 2015, in vigore dal 1° apr. 2016 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
+[^15-5]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Abrogato dal n. I dell’O del 10 mag. 2023, con effetto dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 16
 
@@ -761,36 +811,43 @@ La licenza per allievo conducente è valida:
 La validità della licenza per allievo conducente si estingue se:
 
 - a. il titolare non ha superato per tre volte l’esame di conducente e l’autorità d’ammissione in base a una perizia nega l’idoneità a condurre del candidato;
-- b. il rapporto di tirocinio è disdetto prima che l’apprendista conducente di autocarri abbia compiuto i 18 anni d’età.[^16-1]
+- b.[^16-1]
+
+  il contratto di tirocinio dei seguenti apprendisti è risolto prima che abbiano compiuto 18 anni:
+
+  - 1\. gli apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC»,
+  - 2\. gli apprendisti che seguono la formazione professionale di base di «meccanico di manutenzione per automobili AFC» con indirizzo «veicoli utilitari»,
+  - 3\. gli apprendisti che seguono la formazione professionale di base di «meccatronico d’automobili AFC» con indirizzo «veicoli utilitari[^16-2]
 
 <sup>4</sup> Può richiedere una seconda licenza per allievo conducente soltanto chi, in base a una perizia dell’autorità d’ammissione, è ritenuto idoneo a condurre oppure chi, alla scadenza della durata di validità della prima licenza per allievo conducente, non ha ancora usufruito di tutte le possibilità di ripetere l’esame. L’autorità d’ammissione stabilisce eventuali condizioni.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
+[^16-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
 #### Art. 17
 
-**Scuola di guida**
+**Scuola guida**
 
-<sup>1</sup> È considerata corsa di scuola di guida ogni corsa effettuata con un veicolo a motore il cui conducente deve essere titolare di una licenza per allievo conducente.
+<sup>1</sup> È considerata corsa di scuola guida ogni corsa effettuata con un veicolo a motore il cui conducente deve essere titolare di una licenza per allievo conducente.
 
-<sup>2</sup> La licenza per allievo conducente della categoria A, delle sottocategorie A1 e B1 e della categoria speciale F autorizza a effettuare corse di scuola di guida senza accompagnatore.
+<sup>2</sup> La licenza per allievo conducente della categoria A, delle sottocategorie A1 e B1 e della categoria speciale F autorizza a effettuare corse di scuola guida senza accompagnatore.
 
-<sup>2bis</sup> La licenza per allievo conducente della sottocategoria D1 autorizza a effettuare corse di scuola di guida con veicoli della sottocategoria C1, quella della sottocategoria D1E corse di scuola di guida con una combinazione di veicoli della sottocategoria C1E.[^17-1]
+<sup>2bis</sup> La licenza per allievo conducente della sottocategoria D1 autorizza a effettuare corse di scuola guida con veicoli della sottocategoria C1, quella della sottocategoria D1E corse di scuola guida con una combinazione di veicoli della sottocategoria C1E.[^17-1]
 
-<sup>3</sup> Il titolare della licenza per allievo conducente delle categorie BE, CE o DE e delle sottocategorie C1E o D1E può effettuare, senza accompagnatore, corse di scuola di guida con autotreni se è già in possesso della licenza di condurre per il veicolo trattore.
+<sup>3</sup> Il titolare della licenza per allievo conducente delle categorie BE, CE o DE e delle sottocategorie C1E o D1E può effettuare, senza accompagnatore, corse di scuola guida con autotreni se è già in possesso della licenza di condurre per il veicolo trattore.
 
-<sup>4</sup> Nelle corse di scuola di guida con veicoli della categoria D o della sottocategoria D1 non possono essere trasportate persone. Sono eccettuati l’accompagnatore ai sensi dell’articolo 15 capoverso 1 LCStr, il maestro conducente, l’esperto della circolazione e altri allievi conducenti.[^17-2]
+<sup>4</sup> Nelle corse di scuola guida con veicoli della categoria D o della sottocategoria D1 non possono essere trasportate persone. Sono eccettuati l’accompagnatore ai sensi dell’articolo 15 capoverso 1 LCStr, il maestro conducente, l’esperto della circolazione e altri allievi conducenti.[^17-2]
 
 <sup>5</sup>
 
 Nella licenza per allievo conducente devono essere iscritte le seguenti autorizzazioni e condizioni:
 
-- a. la licenza per allievo conducente della categoria C o della sottocategoria C1 autorizza a effettuare corse di scuola di guida con un autoveicolo della categoria B;
-- b.[^17-3] i sordi e le persone che presentano disabilità fisiche possono effettuare corse di scuola di guida soltanto se accompagnati da una persona ufficialmente autorizzata a formarli;
-- c. gli apprendisti conducenti di autocarri possono effettuare corse di scuola di guida soltanto se accompagnati da un maestro conducente o da una persona autorizzata a formarli. Nelle corse di scuola di guida con un veicolo a motore della categoria B questo accompagnamento è necessario soltanto fino al compimento dei 18 anni d’età;
-- d.[^17-4] la licenza per allievo conducente della sottocategoria C1 autorizza a effettuare corse di scuola di guida con un autoveicolo dei servizi antincendio il cui peso totale supera i 7500 kg e con un autocarro per la scuola guida della categoria C.
+- a. la licenza per allievo conducente della categoria C o della sottocategoria C1 autorizza a effettuare corse di scuola guida con un autoveicolo della categoria B;
+- b.[^17-3] i sordi e le persone che presentano disabilità fisiche possono effettuare corse di scuola guida soltanto se accompagnati da una persona ufficialmente autorizzata a formarli;
+- c. gli apprendisti conducenti di autocarri possono effettuare corse di scuola guida soltanto se accompagnati da un maestro conducente o da una persona autorizzata a formarli. Nelle corse di scuola guida con un veicolo a motore della categoria B questo accompagnamento è necessario soltanto fino al compimento dei 18 anni d’età;
+- d.[^17-4] la licenza per allievo conducente della sottocategoria C1 autorizza a effettuare corse di scuola guida con un autoveicolo dei servizi antincendio il cui peso totale supera i 7500 kg e con un autocarro per la scuola guida della categoria C.
 
-<sup>6</sup> Durante le corse di scuola di guida gli allievi conducenti non possono effettuare trasporti professionali di persone.
+<sup>6</sup> Durante le corse di scuola guida gli allievi conducenti non possono effettuare trasporti professionali di persone.
 
 [^17-1]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^17-2]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
@@ -845,21 +902,33 @@ Nella licenza per allievo conducente devono essere iscritte le seguenti autorizz
 
 #### Art. 19a
 
-**Esecuzione**
+**Impostazione, contenuto e svolgimento**[^19a-1]
 
-L’USTRA emana istruzioni concernenti la presentazione e il contenuto dei corsi di teoria della circolazione e della formazione pratica di base.
+L’USTRA disciplina l’impostazione, il contenuto e lo svolgimento dei corsi di teoria della circolazione e della formazione pratica di base degli allievi motociclisti.
+
+[^19a-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 20
 
-**Formazione degli apprendisti conducenti di autocarri**
+**Formazione degli apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC»**[^20-1]
 
-<sup>1</sup> Chi vuole formare apprendisti conducenti di autocarri necessita di un permesso di formazione. Questo è rilasciato dall’autorità cantonale soltanto ai maestri di tirocinio o alle persone occupate nell’impresa che siano esperte nella professione dell’autista e abbiano guidato durante almeno tre anni autocarri senza commettere infrazioni alle norme della circolazione pericolose per la sicurezza del traffico, che godono di una buona reputazione e offrono la garanzia che può essere loro affidata l’istruzione di giovani adulti.
+<sup>1</sup> Chi vuole formare apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC» necessita di un permesso di formazione. Questo è rilasciato dall’autorità cantonale soltanto a formatori o dipendenti dell’azienda che siano esperti nella professione dell’autista, abbiano guidato durante almeno tre anni autocarri senza commettere infrazioni alle norme della circolazione tali da compromettere la sicurezza del traffico, e offrano la garanzia che può essere loro affidata la formazione di giovani adulti.
 
-<sup>2</sup> Chi vuole ottenere il permesso di formazione deve seguire un corso di istruzione e dimostrare di possedere le necessarie conoscenze in materia di circolazione (all. 11 n. II). L’USTRA emana direttive concernenti i corsi d’istruzione.
+<sup>2</sup> Chi vuole ottenere il permesso di formazione deve seguire un corso di istruzione e dimostrare di possedere le necessarie conoscenze in materia di circolazione (all. 11 n. II). L’USTRA disciplina i corsi d’istruzione.
 
-<sup>3</sup> Il permesso di formazione è rilasciato per sei anni. Può essere prolungato per un nuovo periodo di sei anni se il titolare dimostra che, dal rilascio o dall’ultima proroga del permesso, ha frequentato un corso di ripetizione e almeno uno degli apprendisti da lui regolarmente accompagnati ha superato l’esame di conducente di autocarri.
+<sup>3</sup> Il permesso di formazione è rilasciato per sei anni. Può essere prorogato per un nuovo periodo di sei anni se il titolare dimostra che, dal rilascio o dall’ultima proroga del permesso, ha frequentato un corso di ripetizione e almeno uno degli apprendisti da lui regolarmente accompagnati ha superato l’esame di conducente di autocarri.
 
-<sup>4</sup> Se la licenza per allievo conducente è stata rilasciata a un apprendista conducente di autocarri prima del compimento dei 18 anni d’età, il maestro conducente deve notificare immediatamente ogni interruzione anticipata del tirocinio all’autorità cantonale d’ammissione che ha rilasciato la licenza per allievo conducente.
+[^20-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+
+#### Art. 20a
+
+**Notifica della risoluzione di un contratto di tirocinio**[^20a-1]
+
+<sup>1</sup> In caso di risoluzione del contratto di tirocinio di un apprendista che segue la formazione professionale di base di «autista di veicoli pesanti AFC», «meccanico di manutenzione per automobili AFC» con indirizzo «veicoli utilitari» o «meccatronico d’automobili AFC» con indirizzo «veicoli utilitari» e se all’apprendista è stata rilasciata una licenza per allievo conducente della categoria C o CE prima del compimento dei 18 anni, il formatore deve notificare immediatamente la risoluzione del contratto all’autorità cantonale che ha rilasciato la licenza. Se l’apprendista non ha ancora compiuto 18 anni, l’autorità cantonale lo invita a restituire la licenza (art. 16 cpv. 3 lett. b).
+
+<sup>2</sup> In caso di risoluzione del contratto di tirocinio di un apprendista che segue la formazione professionale di base di «meccanico di motoveicoli AFC» e se all’apprendista è stata rilasciata una licenza per allievo conducente della categoria A senza limitazione della potenza secondo l’articolo 15 capoverso 2 lettera a, il formatore deve notificare immediatamente la risoluzione del contratto all’autorità cantonale che ha rilasciato la licenza. L’autorità cantonale invita l’apprendista a restituire la licenza e gli rilascia, per il rimanente periodo di validità, una licenza per allievo conducente della categoria A per motoveicoli con una potenza del motore non superiore a 35 kW e un rapporto tra potenza del motore e peso a vuoto non superiore a 0,20 kW/kg.
+
+[^20a-1]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 127 Esame teorico complementare per la guida di autocarri e autobus
 
@@ -867,14 +936,15 @@ L’USTRA emana istruzioni concernenti la presentazione e il contenuto dei corsi
 
 <sup>1</sup> L’esame teorico complementare permette all’autorità d’ammissione di stabilire se il richiedente di una licenza di condurre delle categorie C o D oppure delle sottocategorie C1 o D1 dispone delle conoscenze di cui all’allegato 11 numero II. 2.
 
-<sup>2</sup> I Cantoni elaborano le domande d’esame d’intesa con l’USTRA.
+<sup>2</sup> I Cantoni elaborano le domande d’esame d’intesa con l’USTRA. Possono delegare questo compito a terzi.[^21-1]
 
-<sup>3</sup> ...[^21-1]
+<sup>3</sup> ...[^21-2]
 
-<sup>4</sup> ...[^21-2]
+<sup>4</sup> ...[^21-3]
 
-[^21-1]: Abrogato dal n. I dell’O del 26 set. 2003, con effetto dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^21-2]: Abrogato dal n. I dell’O del 14 dic. 2018, con effetto dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^21-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^21-2]: Abrogato dal n. I dell’O del 26 set. 2003, con effetto dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^21-3]: Abrogato dal n. I dell’O del 14 dic. 2018, con effetto dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 ### 128 Esame pratico di conducente
 
@@ -884,7 +954,14 @@ L’USTRA emana istruzioni concernenti la presentazione e il contenuto dei corsi
 
 <sup>1</sup> Con l’esame pratico, l’esperto ufficiale della circolazione verifica se il richiedente è in grado, anche in situazioni difficili del traffico, di condurre un veicolo a motore della categoria corrispondente alla licenza secondo le norme della circolazione stradale e tenendo conto degli altri utenti della strada.
 
-<sup>1bis</sup> Per essere ammessi all’esame pratico di conducente, i richiedenti una licenza di condurre della categoria B devono essere in possesso della licenza per allievo conducente da almeno un anno se l’hanno ottenuta prima del compimento dei 20 anni. Ciò non vale per gli apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC».[^22-1]
+<sup>1bis</sup>
+
+Per essere ammessi all’esame pratico di conducente, i richiedenti una licenza di condurre della categoria B devono essere in possesso della licenza per allievo conducente da almeno un anno se l’hanno ottenuta prima del compimento dei 20 anni. Ciò non vale per gli apprendisti che seguono le seguenti formazioni professionali di base:
+
+- a. «autista di veicoli pesanti AFC»;
+- b. «meccanico di manutenzione per automobili AFC» con indirizzo «veicoli utilitari»;
+- c. «meccatronico d’automobili AFC» con indirizzo «veicoli utilitari»;
+- d. «autista di veicoli leggeri CFP».[^22-1]
 
 <sup>2</sup> I requisiti d’ammissione e la materia d’esame si basano sull’allegato 12.
 
@@ -898,7 +975,7 @@ Non devono superare l’esame pratico di conducente:
 
 <sup>4</sup> Se durante l’esame pratico di conducente risulta che il richiedente non conosce sufficientemente le norme della circolazione, l’autorità d’ammissione ordina un nuovo esame teorico di base.
 
-[^22-1]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^22-1]: Introdotto dal n. I dell’O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)). Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^22-2]: Introdotta dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 23
@@ -975,9 +1052,9 @@ Nella licenza di condurre devono essere iscritte le seguenti autorizzazioni:
 
 **Iscrizione di condizioni, restrizioni e altri dati supplementari**[^24d-1]
 
-Per le condizioni, le restrizioni e i dati supplementari che devono essere iscritti nella licenza di condurre come decisione, devono essere utilizzati codici o scritte abbreviate. L’USTRA emana le pertinenti istruzioni.
+Per le condizioni, le restrizioni e gli altri dati supplementari che devono essere iscritti nella licenza di condurre devono essere utilizzati codici o scritte abbreviate. Questi sono definiti dall’USTRA.
 
-[^24d-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^24d-1]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 24e
 
@@ -1411,15 +1488,19 @@ L’autorità cantonale può rilasciare al titolare della licenza un’autorizza
 
 **Annullamento**[^35a-1]
 
-<sup>1</sup> Se il titolare di una licenza di condurre in prova commette una seconda infrazione che comporta la revoca della licenza di condurre delle categorie e sottocategorie, l’autorità annulla la licenza, anche se nel frattempo è stata rilasciata la licenza di condurre per una durata illimitata.
+<sup>1</sup> Se il titolare di una licenza di condurre in prova commette una seconda infrazione che comporta la revoca della licenza di condurre per categorie e sottocategorie, la licenza è annullata. Questo vale anche se nel frattempo è stata rilasciata la licenza di condurre per una durata illimitata. L’annullamento comporta il ritiro della licenza di condurre.[^35a-2]
 
 <sup>2</sup> L’annullamento si applica a tutte le categorie e sottocategorie. Si applica anche alle categorie speciali se il titolare della licenza non offre alcuna garanzia che in futuro non commetterà infrazioni con veicoli delle categorie speciali.
+
+<sup>2bis</sup> In caso di annullamento le eventuali licenze per allievo conducente sono revocate e anche ritirate.[^35a-3]
 
 <sup>3</sup> Se l’annullamento concerne soltanto le categorie e sottocategorie, l’autorità d’ammissione rilascia una licenza di condurre delle categorie speciali.
 
 <sup>4</sup> L’autorità di revoca informa il conducente interessato sulle condizioni alle quali può nuovamente ottenere una licenza per allievo conducente.
 
 [^35a-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^35a-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^35a-3]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 35b
 
@@ -1548,51 +1629,60 @@ Il riconoscimento è rilasciato se:
 I conducenti di veicoli a motore provenienti dall’estero possono condurre in Svizzera veicoli a motore soltanto se sono titolari:
 
 - a. di una licenza di condurre nazionale valevole; o
-- b. di una licenza di condurre internazionale valevole prescritta dalla Convenzione internazionale del 24 aprile 1926[^42-1] per la circolazione degli autoveicoli, dalla Convenzione del 19 settembre 1949[^42-2] sulla circolazione stradale o dalla Convenzione dell’8 novembre 1968[^42-3] sulla circolazione stradale, e sono in grado di esibire tale licenza unitamente alla corrispondente licenza di condurre nazionale.[^42-4]
+- b. di una licenza di condurre internazionale valevole prescritta dalla Convenzione internazionale del 24 aprile 1926[^42-1] per la circolazione degli autoveicoli, dalla Convenzione del 19 settembre 1949[^42-2] sulla circolazione stradale o dalla Convenzione dell’8 novembre 1968[^42-3] sulla circolazione stradale, e sono in grado di esibire tale licenza unitamente alla corrispondente licenza di condurre nazionale;
+- c.[^42-4] di una licenza per allievo conducente valevole.[^42-5]
 
-<sup>2</sup> La licenza di condurre straniera, nazionale o internazionale, autorizza il titolare a condurre in Svizzera le categorie di veicoli documentate sulla licenza in maniera esplicita, comprensibile e in caratteri latini.[^42-5]
+<sup>2</sup> La licenza di condurre straniera nazionale, la licenza di condurre internazionale insieme a quella nazionale e la licenza per allievo conducente straniera autorizzano il titolare a condurre in Svizzera le categorie di veicoli documentate sulla licenza in maniera esplicita, comprensibile e in caratteri latini. Il titolare di una licenza per allievo conducente straniera deve essere accompagnato da una persona che soddisfa i requisiti di cui all’articolo 15 capoverso 1 LCStr.[^42-6]
 
-<sup>3</sup> I conducenti di ciclomotori, di motoleggere, di veicoli a motore agricoli e forestali e di veicoli a motore di lavoro provenienti dall’estero non hanno bisogno di una licenza di condurre se essa non è richiesta nel loro Paese d’origine. Questi conducenti devono sempre portar seco una carta d’identità con fotografia e possono condurre solo il veicolo con cui sono entrati in Svizzera.[^42-6]
+<sup>2bis</sup> Con una licenza di condurre per ciclomotori straniera valevole si può guidare in Svizzera un veicolo che soddisfa i requisiti di cui all’articolo 18 lettera a OETV[^42-7].[^42-8]
+
+<sup>3</sup> I conducenti provenienti dall’estero che entrano e circolano in Svizzera con un ciclomotore ai sensi dell’articolo 18 lettera a OETV, un veicolo a motore agricolo o forestale o un veicolo a motore di lavoro non hanno bisogno di una licenza di condurre se essa non è richiesta nel loro Paese d’origine per questo tipo di veicoli. Questi conducenti devono sempre portar seco un documento d’identità con fotografia e possono condurre solo il veicolo con cui sono entrati in Svizzera.[^42-9]
 
 <sup>3bis</sup>
 
 Hanno bisogno di una licenza di condurre svizzera:
 
 - a. i conducenti provenienti dall’estero, residenti in Svizzera da 12 mesi e che durante questo periodo non hanno soggiornato per più di tre mesi consecutivi all’estero;
-- b.[^42-7] le persone che conducono a titolo professionale veicoli a motore immatricolati in Svizzera delle categorie C o D oppure delle sottocategorie C1 o D1 o hanno bisogno di un permesso secondo l’articolo 25.
+- b.[^42-10] le persone che conducono a titolo professionale veicoli a motore immatricolati in Svizzera delle categorie C o D oppure delle sottocategorie C1 o D1 o hanno bisogno di un permesso secondo l’articolo 25.
 
 <sup>3ter</sup>
 
-Non hanno bisogno di un permesso di condurre svizzero le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007[^42-8] sullo Stato ospite, a condizione che:
+Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007[^42-11] sullo Stato ospite, a condizione che: [^42-12]
 
-- a. siano titolari di un permesso di condurre nazionale valevole;
+- a.[^42-13] siano titolari di una licenza di condurre nazionale valevole;
 - b. non possiedano la cittadinanza svizzera o non abbiano avuto la loro residenza permanente in Svizzera prima di entrare in funzione; e
-- c. siano titolari di una carta di legittimazione rilasciata dal Dipartimento federale degli affari esteri che attesti che sono al beneficio dell’immunità di giurisdizione.[^42-9]
+- c. siano titolari di una carta di legittimazione rilasciata dal Dipartimento federale degli affari esteri che attesti che sono al beneficio dell’immunità di giurisdizione.[^42-14]
 
 <sup>4</sup> La licenza di condurre straniera che il conducente ha ottenuto eludendo le disposizioni della presente ordinanza sull’ottenimento della licenza svizzera, o quelle di competenza dello Stato dove è domiciliato, non può essere utilizzata in Svizzera.
 
 [^42-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
 [^42-2]: Non ratificata dalla Svizzera
 [^42-3]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402). Cfr. anche l’Acc. europeo del 1° mag. 1971 completante la Conv. sulla circolazione stradale ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
-[^42-4]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^42-5]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
-[^42-6]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^42-7]: Introdotta dal n. I dell’O del 7 mar. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)). Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^42-8]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^42-9]: Introdotto dall’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^42-4]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-5]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^42-6]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^42-8]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-9]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-10]: Introdotta dal n. I dell’O del 7 mar. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)). Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^42-11]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^42-12]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-13]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-14]: Introdotto dall’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 43
 
 **Età minima**
 
-<sup>1</sup> Le licenze di condurre straniere possono essere utilizzate in Svizzera soltanto dalle persone che hanno raggiunto l’età minima richiesta nella presente ordinanza per i conducenti svizzeri. Per la guida senza accompagnatore di autoveicoli della categoria B si applica l’età minima di 18 anni.[^43-1]
+<sup>1</sup> Le licenze per allievo conducente e le licenze di condurre straniere possono essere utilizzate in Svizzera soltanto dalle persone che hanno raggiunto l’età minima prescritta nella presente ordinanza per i titolari di licenze domiciliati in Svizzera. Per la guida senza accompagnatore di autoveicoli della categoria B si applica l’età minima di 18 anni.[^43-1]
 
-<sup>2</sup> Raggiunta l’età minima richiesta nel loro paese d’origine, i conducenti di ciclomotori, motoleggere e motoveicoli di una cilindrata di 125 cm<sup>3</sup> al massimo, in provenienza dall’estero, sono ammessi a circolare in Svizzera, se hanno raggiunto almeno l’età di 16 anni e non vi si oppongono ragioni di esclusione.
+<sup>2</sup> Le persone domiciliate all’estero che secondo il diritto del loro Paese d’origine non hanno bisogno di una licenza di condurre per ciclomotori e hanno raggiunto l’età minima ivi prescritta sono ammesse a circolare in Svizzera se hanno almeno 16 anni.[^43-2]
 
-<sup>3</sup> In casi fondati, l’USTRA[^43-2] può ammettere eccezioni concernenti l’età minima di conducenti provenienti dall’estero.
+<sup>3</sup> In casi fondati, l’USTRA[^43-3] può ammettere eccezioni concernenti l’età minima di conducenti provenienti dall’estero.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^43-2]: Nuova espressione giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^43-1]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^43-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^43-3]: Nuova espressione giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 44
 
@@ -1600,14 +1690,24 @@ Non hanno bisogno di un permesso di condurre svizzero le persone beneficiarie di
 
 <sup>1</sup> Al titolare di una licenza di condurre nazionale straniera valevole è rilasciata la licenza di condurre svizzera della rispettiva categoria se, durante una corsa di controllo, dimostra di conoscere le norme della circolazione ed è in grado di condurre in modo sicuro veicoli delle categorie per le quali la licenza è valevole. I conducenti di autoveicoli devono effettuare la corsa di controllo con un veicolo della categoria che autorizza a condurre tutti i veicoli delle categorie iscritte nella licenza. Se il titolare della licenza è inoltre autorizzato a condurre un motoveicolo, non è effettuata nessuna ulteriore corsa di controllo per quest’ultima categoria. Agli esami medici si applicano per analogia gli articoli 7 capoversi 1 e 1<sup>bis</sup>, 9, 11*b* capoverso 1 e 27.[^44-2]
 
+<sup>1bis</sup> La corsa di controllo non può essere ripetuta.[^44-3]
+
+<sup>1ter</sup> Se la persona interessata non si presenta, senza giustificarsi, alla corsa di controllo, questa è considerata non superata. L’autorità, quando ordina la corsa di controllo, deve informare sulle conseguenze dell’omessa partecipazione.[^44-4]
+
+<sup>1quater</sup> Se la persona interessata non supera la corsa di controllo, le è vietato l’uso della licenza di condurre straniera.[^44-5]
+
 <sup>2</sup> La licenza di condurre svizzera per autisti professionali di veicoli a motore è rilasciata a conducenti di veicoli a motore provenienti dall’estero soltanto se, oltre alla corsa di controllo, provano ad un esame di conoscere il disciplinamento in vigore in Svizzera per tale tipo di conducenti.
 
 <sup>3</sup> I conducenti di ciclomotori, di motoleggere, di veicoli a motore agricoli e forestali e di veicoli a motore di lavoro esteri, che desiderano ottenere la licenza di condurre svizzera devono sostenere un esame di conducente se non sono titolari di una licenza straniera corrispondente.
 
-<sup>4</sup> Al rilascio di una licenza di condurre svizzera le autorità ritirano le licenze rilasciate dagli Stati dell’UE o dell’AELS e le restituiscono all’autorità di emissione. Esse annotano nelle licenze rilasciate da altri Stati la non validità per la Svizzera. È registrato il contenuto delle licenze straniere.
+<sup>4</sup> Le autorità che rilasciano una licenza di condurre svizzera devono restituire le licenze rilasciate dagli Stati membri dell’UE o dell’AELS all’autorità di emissione. Le altre licenze devono essere restituite all’autorità di emissione o consegnate al titolare. Il contenuto delle licenze straniere viene registrato.[^44-6]
 
 [^44-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^44-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^44-3]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-4]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-5]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-6]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 44a
 
@@ -1636,10 +1736,12 @@ La licenza di condurre svizzera non è rilasciata in prova alle persone la cui l
 
 <sup>4</sup>
 
-La licenza di condurre straniera il cui uso è stato vietato va depositata presso l’autorità. Essa deve essere restituita al titolare:
+La licenza di condurre straniera il cui uso è stato vietato va depositata presso l’autorità, se il titolare è domiciliato in Svizzera. Essa è restituita al titolare:[^45-1]
 
 - a. alla scadenza del periodo di divieto oppure dopo l’abrogazione del divieto;
-- b. su richiesta quando lascia la Svizzera se il titolare non vi ha il domicilio. Se la durata del divieto è illimitata, può essere iscritto nella licenza che essa non è valida in Svizzera qualora esista il pericolo di abusi.[^45-1]
+- b.[^45-2] su richiesta, se questi rinuncia al domicilio in Svizzera.[^45-3]
+
+<sup>4bis</sup> Le licenze di condurre straniere il cui uso è stato vietato per una durata illimitata sono restituite all’autorità di rilascio allegando una copia della decisione di divieto di far uso della licenza, se il titolare non è domiciliato in Svizzera.[^45-4]
 
 <sup>5</sup> Se il divieto di uso della licenza non può essere notificato al titolare in Svizzera, l’USTRA si incarica di farlo notificare per la via dell’assistenza giudiziaria.
 
@@ -1648,12 +1750,15 @@ La licenza di condurre straniera il cui uso è stato vietato va depositata press
 Il divieto di far uso della licenza di condurre, pronunciato perché sono state eluse le disposizioni svizzere o straniere di competenza, diventa privo di effetti se il titolare della licenza fornisce la prova che egli, da quella data:
 
 - a. ha eletto domicilio per almeno tre mesi nello Stato che gli ha rilasciato la licenza disconosciuta, oppure
-- b. ha ottenuto una licenza valevole nel nuovo Stato dove è domiciliato.[^45-2]
+- b. ha ottenuto una licenza valevole nel nuovo Stato dove è domiciliato.[^45-5]
 
 <sup>7</sup> Le revoche di licenze di condurre straniere ordinate da autorità straniere devono essere eseguite se l’USTRA lo ordina.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^45-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
+[^45-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^45-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^45-3]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
+[^45-4]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^45-5]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 
 #### Art. 46
 
@@ -2324,17 +2429,13 @@ I Cantoni mettono a disposizione targhe munite di un rivestimento riflettente. E
 
 #### Art. 88a
 
-**Veicoli speciali per gli esami**[^88a-1]
+**Motoveicolo della sottocategoria A1 con velocità limitata**[^88a-1]
 
-<sup>1</sup> ...[^88a-2]
+<sup>1</sup> L’esame pratico di conducente della sottocategoria A1 sostenuto con un motoveicolo la cui velocità è limitata a 45 km/h dà diritto a condurre soltanto motoveicoli corrispondenti.
 
-<sup>2</sup> L’esame pratico di conducente della sottocategoria A1 sostenuto con un motoveicolo la cui velocità è limitata a 45 km/h dà diritto a condurre soltanto motoveicoli corrispondenti.
+<sup>2</sup> Questa restrizione è iscritta nella licenza di condurre (art. 24*d*) se il titolare ha compiuto 16 anni d’età.
 
-<sup>3</sup> Le restrizioni devono essere iscritte nella licenza di condurre (art. 24*d*).[^88a-3]
-
-[^88a-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^88a-2]: Abrogato dal n. I dell’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^88a-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^88a-1]: Introdotto dal n. I dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 89
 
@@ -2802,11 +2903,13 @@ chi, essendo titolare della licenza di condurre della categoria A limitata a 25 
 
 #### Art. 144
 
-**Notifica dell’interruzione del tirocinio**[^144-1]
+**Mancata notifica della risoluzione di un contratto di tirocinio**[^144-1]
 
-Il maestro di tirocinio che non annuncia l’interruzione del tirocinio con l’apprendista conducente d’autocarro al quale la licenza per allievo conducente è stata rilasciata prima del compimento dei 18 anni di età o l’interruzione del tirocinio con l’apprendista meccanico di motoveicoli, avvenuta durante la durata di validità della licenza per allievo conducente della categoria A, è punito con la multa.
+<sup>1</sup> Il formatore che non notifica la risoluzione del contratto di tirocinio concluso con un apprendista che segue la formazione professionale di base di «autista di veicoli pesanti AFC», «meccanico di manutenzione per automobili AFC» con indirizzo «veicoli utilitari» o «meccatronico d’automobili AFC» con indirizzo «veicoli utilitari» e al quale la licenza per allievo conducente della categoria C o CE è stata rilasciata prima del compimento dei 18 anni è punito con la multa.
 
-[^144-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° feb. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+<sup>2</sup> Il formatore che non notifica la risoluzione del contratto di tirocinio concluso con un apprendista che segue la formazione professionale di base di «meccanico di motoveicoli AFC» durante la durata di validità della licenza per allievo conducente della categoria A senza limitazione della potenza di cui all’articolo 15 capoverso 2 lettera a è punito con la multa.
+
+[^144-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 145
 
@@ -2893,50 +2996,56 @@ Chiunque cede a nolo a titolo professionale veicoli a motore a persone che li co
 
 <sup>2</sup>
 
-L’USTRA emana direttive riguardo alle esigenze concernenti forma, contenuto, aspetto, materiale e stampa per:[^150-2]
+L’USTRA disciplina le esigenze relative a forma cartacea o elettronica, contenuto, aspetto e, se del caso, materiale e stampa per:[^150-2]
 
 - a. licenze per allievo conducente;
 - b.[^150-3] licenze di condurre;
 - c. licenze di circolazione, incluse licenze di circolazione per ciclomotori;
 - d.[^150-4] abilitazioni a maestro conducente;
 - e. permessi per formare apprendisti conducenti di autocarri;
-- f. permessi speciali.[^150-5]
+- f. permessi speciali;
+- e.[^150-5] permessi per formare apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC».[^150-6]
 
 <sup>3</sup> Le iscrizioni nelle licenze e nei permessi possono essere fatte solo da autorità o da persone autorizzate per iscritto. Le iscrizioni successive che hanno per effetto di giustificare, modificare o sopprimere diritti o obblighi, non fondate su una decisione firmata e notificata separatamente al titolare, devono essere munite del bollo dell’autorità competente e della firma.
 
-<sup>4</sup> Un duplicato della licenza di circolazione che l’autorità può contrassegnare come tale può essere rilasciato soltanto se la perdita dell’originale è stata confermata per scritto. Il titolare deve restituire il duplicato all’autorità entro 14 giorni dopo il ritrovamento dell’originale.[^150-6]
+<sup>4</sup> Un duplicato della licenza di circolazione che l’autorità può contrassegnare come tale può essere rilasciato soltanto se la perdita dell’originale è stata confermata per scritto. Il titolare deve restituire il duplicato all’autorità entro 14 giorni dopo il ritrovamento dell’originale.[^150-7]
 
 <sup>5</sup>
 
-L’USTRA può:[^150-7]
+L’USTRA può:[^150-8]
 
-- a.[^150-8] ...
-- b.[^150-9] pubblicare una guida ufficiale per i medici relativa all’esecuzione degli esami medici di idoneità alla guida;
-- c.[^150-10] raccomandare metodi uniformi per eseguire gli esami di cui agli articoli 9, 11*b* capoverso 1 e 27;
+- a.[^150-9] ...
+- b.[^150-10] pubblicare una guida ufficiale per i medici relativa all’esecuzione degli esami medici di idoneità alla guida;
+- c.[^150-11] raccomandare metodi uniformi per eseguire gli esami di cui agli articoli 9, 11*b* capoverso 1 e 27;
 - d. fissare le esigenze che i conducenti di veicoli a motore devono soddisfare in materia di psicologia del traffico;
-- [tab] e.[^150-11] modificare i termini fissati per il riconoscimento delle targhe e delle licenze straniere nonché rinunciare alla corsa di controllo giusta l’articolo 44 capoverso 1 e all’esame teorico giusta l’articolo 44 capoverso 2 nei confronti di conducenti di Stati che, in materia di formazione ed esame, pongono esigenze analoghe a quelle che vigono in Svizzera;
-- f.[^150-12] ...
+- [tab] e.[^150-12] modificare i termini fissati per il riconoscimento delle targhe e delle licenze straniere nonché rinunciare alla corsa di controllo giusta l’articolo 44 capoverso 1 e all’esame teorico giusta l’articolo 44 capoverso 2 nei confronti di conducenti di Stati che, in materia di formazione ed esame, pongono esigenze analoghe a quelle che vigono in Svizzera;
+- f.[^150-13] ...
 
-<sup>6</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza e, in casi particolari, permettere deroghe a certe disposizioni. Esso prende decisioni d’ordine generale, di regola, dopo aver consultato i Cantoni e specialisti della materia.
+<sup>6</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza, disciplinare i dettagli in ordinanze e, in particolare per evitare casi di rigore, autorizzare deroghe generali e astratte a singole disposizioni. Esso prende decisioni d’ordine generale, di regola dopo aver consultato i Cantoni e specialisti della materia.[^150-14]
 
-<sup>7</sup> L’USTRA riconosce come corsi per condurre trattori ai sensi dell’articolo 4 capoverso 3 i corsi di perfezionamento durante i quali ai partecipanti sono insegnate la necessaria comprensione di base della dinamica di condotta per la guida nella circolazione e la padronanza del veicolo. L’USTRA emana direttive sull’esecuzione di questi corsi.[^150-13]
+<sup>6bis</sup> I Cantoni possono autorizzare deroghe individuali e concrete a singole disposizioni per evitare casi di rigore.[^150-15]
 
-<sup>8</sup> In casi motivati, e in deroga alle disposizioni dell’articolo 115 capoverso 1 lettera d, l’UDSC può autorizzare trasporti interni con veicoli esteri, sempre che sia garantita la riscossione della tassa dovuta.[^150-14]
+<sup>7</sup> L’USTRA riconosce come corsi per condurre trattori ai sensi dell’articolo 4 capoverso 3 i corsi di perfezionamento durante i quali ai partecipanti sono insegnate la comprensione di base della dinamica di guida necessaria per circolare nel traffico e la padronanza del veicolo. L’USTRA disciplina l’impostazione, il contenuto e lo svolgimento dei corsi di guida di trattori.[^150-16]
+
+<sup>8</sup> In casi motivati, e in deroga alle disposizioni dell’articolo 115 capoverso 1 lettera d, l’UDSC può autorizzare trasporti interni con veicoli esteri, sempre che sia garantita la riscossione della tassa dovuta.[^150-17]
 
 [^150-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^150-2]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^150-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^150-3]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-4]: Nuovo testo giusta il n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
-[^150-5]: Nuovo testo giusta il n. 3 dell’all. 1 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^150-6]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^150-5]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^150-6]: Nuovo testo giusta il n. 3 dell’all. 1 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^150-7]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^150-8]: Abrogata dal n. I dell’O del 1° lug. 2015, con effetto dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^150-9]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^150-8]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^150-9]: Abrogata dal n. I dell’O del 1° lug. 2015, con effetto dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^150-10]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^150-11]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^150-12]: Abrogata dal n. I dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
-[^150-13]: Introdotto dal n. 3 dell’all. 1 dell’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^150-14]: Introdotto dall’art. 59 n. 3 dell’O del 6 mar. 2000 sul traffico pesante, in vigore dal 1° gen. 2001 ([RU 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)).
+[^150-11]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^150-12]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
+[^150-13]: Abrogata dal n. I dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
+[^150-14]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^150-15]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^150-16]: Introdotto dal n. 3 dell’all. 1 dell’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^150-17]: Introdotto dall’art. 59 n. 3 dell’O del 6 mar. 2000 sul traffico pesante, in vigore dal 1° gen. 2001 ([RU 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)).
 
 #### Art. 151
 
@@ -3025,8 +3134,8 @@ Le licenze per allievo conducente e le licenze di condurre conformi all’allega
 
 I titolari di una licenza per allievo conducente della vecchia categoria A1 possono, con un permesso dell’autorità d’ammissione:
 
-- a. eseguire corse di scuola di guida con motoveicoli della categoria A con una potenza del motore non superiore a 25 kW e un rapporto tra potenza del motore e peso a vuoto non superiore a 0,16 kW/kg;
-- b. eseguire corse di scuola di guida con motoveicoli della categoria A con una potenza del motore di oltre 25 kW o un rapporto tra potenza del motore e peso a vuoto superiore a 0,16 kW/kg se hanno già compiuto 25 anni d’età.
+- a. eseguire corse di scuola guida con motoveicoli della categoria A con una potenza del motore non superiore a 25 kW e un rapporto tra potenza del motore e peso a vuoto non superiore a 0,16 kW/kg;
+- b. eseguire corse di scuola guida con motoveicoli della categoria A con una potenza del motore di oltre 25 kW o un rapporto tra potenza del motore e peso a vuoto superiore a 0,16 kW/kg se hanno già compiuto 25 anni d’età.
 
 <sup>6</sup> I veicoli adatti all’esame delle categorie C, D e CE, che adempiono i requisiti secondo il diritto anteriore, devono adempiere i nuovi requisiti entro il 1° gennaio 2006.
 
@@ -3162,10 +3271,11 @@ Fino al 31 dicembre 2019, le autorità cantonali possono incaricare di effettuar
 
 <sup>5</sup> Alle persone la cui licenza di condurre è limitata alla guida di veicoli provvisti di dispositivi che agevolano il cambio di marcia o a trazione elettrica la limitazione è soppressa, su richiesta, se non vi sono carenze nell’idoneità alla guida.
 
-<sup>6</sup> I titolari di una licenza di condurre cartacea devono sostituirla entro il 31 gennaio 2024 con un documento in formato carta di credito. Come data di rilascio del nuovo documento va riportata la data del giorno in cui l’autorità cantonale ha proceduto alla sostituzione. Trascorso il suddetto termine, i documenti cartacei perdono la loro validità come attestato delle autorizzazioni a condurre.
+<sup>6</sup> I titolari di una licenza di condurre cartacea blu devono sostituirla entro il 31 ottobre 2024 con un documento in formato carta di credito. Come data di rilascio del nuovo documento va riportata la data del giorno in cui l’autorità cantonale ha proceduto alla sostituzione. Trascorso il suddetto termine, i documenti cartacei perdono la loro validità come attestato delle autorizzazioni a condurre.[^151l-3]
 
 [^151l-1]: Introdotto dal n. I dell’O del 14 dic. 2018, cpv. 5 e 6 in vigore dal 1° feb. 2019, cpv. 2 in vigore dal 1° gen. 2020, cpv. 1, 3 e 4 in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^151l-2]: Introdotto dal n. I dell’O del 3 lug. 2019, in vigore dal 1° gen. 2021 ([RU 2019 2143](https://fedlex.data.admin.ch/eli/oc/2019/397)).
+[^151l-3]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 151m
 
@@ -3185,6 +3295,22 @@ Chi, in virtù dell’articolo 151*d* capoversi 9 e 10, è autorizzato a condurr
 
 [^151n-1]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
 [^151n-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+
+#### Art. 151o
+
+[^151o-1]
+
+[^151o-1]: Non ancora in vigore.
+
+#### Art. 151p
+
+**Disposizioni transitorie della modifica del 10 maggio 2023**[^151p-1]
+
+<sup>1</sup> Una licenza di condurre della sottocategoria D1 ottenuta fino al 14 luglio 2023 (fatto salvo l’art. 151*d* cpv. 10) autorizza a condurre a titolo professionale nel traffico interno anche autoveicoli adibiti al trasporto di persone con più di otto posti a sedere, ma non più di 16, escluso quello del conducente, e posti in piedi.
+
+<sup>2</sup> ...
+
+[^151p-1]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023, il cpv. 2 dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 152
 
@@ -3222,7 +3348,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 [^153-7]: [[RU 1968 263](https://fedlex.data.admin.ch/eli/oc/1968/245_261_263)]
 [^153-8]: [[RU 1969 170](https://fedlex.data.admin.ch/eli/oc/1969/158_170_170), [1971 1284](https://fedlex.data.admin.ch/eli/oc/1971/__1284)]
 [^153-9]: [[RU 1969 475](https://fedlex.data.admin.ch/eli/oc/1969/469_477_475), [1971 1360](https://fedlex.data.admin.ch/eli/oc/1971/__1360)]
-[^153-10]: [[RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)[1138](https://fedlex.data.admin.ch/eli/oc/1969/__1138), [1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)art. 10 cpv. 2 [716](https://fedlex.data.admin.ch/eli/oc/1971/715_716_716), [1972 535](https://fedlex.data.admin.ch/eli/oc/1972/603_611_535), [670](https://fedlex.data.admin.ch/eli/oc/1972/738_746_670)art. 7 cpv. 2, [1973 2155](https://fedlex.data.admin.ch/eli/oc/1973/2155_2155_2155)n. II, [1974 57](https://fedlex.data.admin.ch/eli/oc/1974/57_57_57)art. 25]
+[^153-10]: [[RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811), [1138](https://fedlex.data.admin.ch/eli/oc/1969/__1138); [1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)art. 10 cpv. 2, [716](https://fedlex.data.admin.ch/eli/oc/1971/715_716_716); [1972 535](https://fedlex.data.admin.ch/eli/oc/1972/603_611_535), [670](https://fedlex.data.admin.ch/eli/oc/1972/738_746_670)art. 7 cpv. 2; [1973 2155](https://fedlex.data.admin.ch/eli/oc/1973/2155_2155_2155)n. II; [1974 57](https://fedlex.data.admin.ch/eli/oc/1974/57_57_57)art. 25]
 [^153-11]: [[RU 1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)]
 [^153-12]: [RS 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
 
@@ -3230,9 +3356,11 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 
 **Entrata in vigore**
 
-<sup>1</sup> L’articolo 19 non si applica ai conducenti che si sono annunciati per l’esame di conducente avanti il 1° marzo 1977.
+<sup>1</sup> ...[^154-1]
 
 <sup>2</sup> La presente ordinanza entra in vigore il 1° gennaio 1977.
+
+[^154-1]: Abrogato dal n. I dell’O del 10 mag. 2023, con effetto dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ## Disposizioni finali della modifica del 15 aprile 1987
 
@@ -3286,7 +3414,9 @@ Allegato 1[^t-2]
 
 ## Requisiti medici minimi
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). La correzione del 4 giu. 2019 concerne soltanto il testo francese ([RU 2019 1645](https://fedlex.data.admin.ch/eli/oc/2019/317)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). La correzione del 4 giu. 2019 concerne soltanto il testo francese ([RU 2019 1645](https://fedlex.data.admin.ch/eli/oc/2019/317)). Aggiornato dal n. II cpv. 1 dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+
+### Conducenti di veicoli per i quali è necessaria una licenza di condurre
 
 <table>
 <tr><th></th><th>1° gruppo</th><th>2° gruppo</th></tr>
@@ -3306,19 +3436,25 @@ Allegato 1[^t-2]
 <tr><td>**10** **Malattie della colonna vertebrale e dell’apparato locomotore**</td><td colspan="2">Nessuna malformazione, malattia, paralisi, nessuna conseguenza di lesioni od operazioni avente ripercussioni significative sulla capacità di guidare con sicurezza un veicolo a motore e non sufficientemente correggibile mediante appositi ausili.</td></tr>
 </table>
 
+### Conducenti di veicoli per i quali non è necessaria una licenza di condurre
+
+<table>
+<tr><td>Vista</td><td>Acuità visiva minima corretta o non corretta dello 0,2 per occhio; campo visivo non troppo ridotto</td></tr>
+</table>
+
 Allegato 1<sup>bis</sup> [^t-3]
 
-(art. 5*b* cpv. 1 lett. b)
+(art. 5*b* cpv. 1 lett. b e 5*f* cpv. 1 lett. a)
 
 ## Requisiti per i medici di livello 1
 
-[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Aggiornato dal n. II dell’O del 15 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Aggiornato dal n. II dell’O del 15 giu. 2018 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)) e dal n. II cpv. 1 dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 I medici che effettuano visite di controllo di idoneità alla guida di persone che hanno superato i 75 anni di età (art. 27 cpv. 1 lett. b) devono disporre delle seguenti conoscenze e competenze:
 
 - a. conoscenza e comprensione delle basi giuridiche pertinenti ai fini delle predette visite di controllo (LCStr, OCCS[^annex1bis-lvlu1-1], ONC[^annex1bis-lvlu1-2], OAC, disposizioni d’esecuzione cantonali);
 - b. conoscenza delle procedure amministrative tra l’autorità cantonale e il medico preposto;
-- c. conoscenza delle indicazioni concernenti gli accertamenti medici di idoneità alla guida, gli esami supplementari e le corse di controllo accompagnate da un medico nonché della relativa procedura;
+- c. conoscenza delle indicazioni concernenti gli accertamenti medici di idoneità alla guida, gli esami supplementari e le corse accompagnate da un medico per verificare l’idoneità alla guida nonché della relativa procedura;
 - d. conoscenza della procedura relativa all’esecuzione della visita;
 - e. capacità di valutare l’idoneità alla guida in base ai requisiti medici minimi (allegato 1) nei singoli gruppi diagnostici e rilevamento di un’assunzione di sostanze problematiche;
 - f. conoscenza delle limitazioni e malattie con ripercussioni sulla guida di persone che hanno superato i 75 anni di età e capacità di valutare l’idoneità alla guida, in particolare in presenza di deficit cognitivi;
@@ -3557,6 +3693,7 @@ Cognome: Nome: Data di nascita: NPA/Domicilio: Indirizzo:
 
   -
 
+- [tab]
 - 2 *Conclusioni*
 - 2\.1 I requisiti medici minimi (allegato 1 OAC)
 
@@ -3651,27 +3788,27 @@ Allegato 4[^t-8]
 
 (art. 11)
 
-## Domanda per il rilascio di una licenza per allievo conducente o di una licenza di condurre
+## Domanda per il rilascio di una licenza per allievo conducente, di una licenza di condurre o del permesso per il trasporto professionale di persone
 
-[^t-8]: Nuovo testo giusta il n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dal n. II cpv. 3 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)) e dal n. II cpv. 1 dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-8]: Nuovo testo giusta il n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dal n. II cpv. 3 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)), dal n. II cpv. 1 delle O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) e del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 <table>
-<tr><td>1</td><td>Dati personali</td><td colspan="2"></td></tr>
-<tr><td></td><td>Cognome (anche cognome da nubile):</td><td colspan="2"></td></tr>
-<tr><td></td><td>Nome:</td><td colspan="2"></td></tr>
-<tr><td></td><td>Eventuali cognomi precedenti:</td><td colspan="2"></td></tr>
-<tr><td></td><td>Cognome dei genitori:</td><td colspan="2"></td></tr>
-<tr><td></td><td>Data di nascita (giorno/mese/anno):</td><td colspan="2"></td></tr>
-<tr><td></td><td>Indirizzo esatto:</td><td colspan="2"></td></tr>
-<tr><td></td><td>NPA/Domicilio:</td><td colspan="2"></td></tr>
-<tr><td></td><td>Comune di origine (stranieri: Paese di origine)</td><td colspan="2"></td></tr>
-<tr><td></td><td>Domicilio precedente:</td><td></td><td>fino al:</td></tr>
+<tr><td>1</td><td>Dati personali</td><td></td></tr>
+<tr><td></td><td>Cognome (anche cognome da nubile):</td><td></td></tr>
+<tr><td></td><td>Nome:</td><td></td></tr>
+<tr><td></td><td>Eventuali cognomi precedenti:</td><td></td></tr>
+<tr><td></td><td>Cognome dei genitori:</td><td></td></tr>
+<tr><td></td><td>Data di nascita (giorno/mese/anno):</td><td></td></tr>
+<tr><td></td><td>Indirizzo esatto:</td><td></td></tr>
+<tr><td></td><td>NPA/Domicilio:</td><td></td></tr>
+<tr><td></td><td>Comune di origine (stranieri: Paese di origine):</td><td></td></tr>
+<tr><td></td><td>Domicilio precedente:</td><td>fino al:</td></tr>
 </table>
 
 <table>
-<tr><td></td><td>Foto attuale formato passaporto (35×45 mm)</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Firma:</td></tr>
-<tr><td></td><td></td><td></td><td>Campo del modulo per lo scanning della firma</td></tr>
+<tr><td></td><td>Foto attuale, formato passaporto (35 x 45 mm)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td>Firma:</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>Campo riservato alla scansione della firma</td></tr>
 </table>
 
 <table>
@@ -3762,7 +3899,7 @@ Allegato 4[^t-8]
 Data: Timbro e firma:
 
 - **6** **Tutela e curatela**
-- È minorenne o sotto curatela generale? Sì No
+- È minorenne o sotto curatela generale? sì no
 - Nome e indirizzo del rappresentante legale:
 -
 
@@ -3778,7 +3915,7 @@ Firma del rappresentante legale:
 
 (per minorenni o persone sotto curatela generale)
 
-La persona autorizzata a ricevere la presente domanda deve certificare l’identità delle persone che si candidano per la prima volta a una licenza per allievo conducente, a una licenza di condurre o a un permesso per il trasporto professionale di persone (art. 11 cpv. 3 OAC):
+La persona autorizzata a ricevere la presente domanda deve certificare l’identità delle persone che si candidano per la prima volta a una licenza per allievo conducente, a una licenza di condurre o a un permesso per il trasporto professionale di persone (art. 11 cpv. 4 OAC):
 
 Certifica l’identità del richiedente:
 
@@ -3791,8 +3928,8 @@ Documenti allegati
 (Contrassegnare i documenti corrispondenti)
 
 - Eventualmente (art. 10 cpv. 1 OAC): certificato di superamento di un corso riconosciuto di pronto soccorso
-- Apprendisti della professione di conducente di autocarri che non hanno ancora compiuto 18 anni d’età: certificato dell’Ufficio cantonale per la formazione professionale comprovante la conclusione di un contratto di tirocinio valido (art. 11 cpv. 2 OAC)
-- Apprendisti della professione di meccanico di motoveicoli: certificato dell’Ufficio cantonale per la formazione professionale comprovante la conclusione di un contratto di tirocinio valido (art. 11 cpv. 2 OAC)
+- Apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC», «meccanico di manutenzione per automobili AFC» con indirizzo «veicoli utilitari» o «meccatronico d’automobili AFC» con indirizzo «veicoli utilitari» e non hanno ancora compiuto 18 anni: certificato dell’Ufficio cantonale per la formazione professionale comprovante la conclusione di un contratto di tirocinio valido (art. 11 cpv. 2 lett. a OAC)
+- Apprendisti che seguono la formazione professionale di base di «meccanico di motoveicoli AFC»: certificato dell’Ufficio cantonale per la formazione professionale comprovante la conclusione di un contratto di tirocinio valido (art. 11 cpv. 2 lett. b OAC)
 - Cittadini stranieri: libretto per stranieri e licenza di condurre estera
 
 Annesso
@@ -3801,12 +3938,12 @@ Annesso
 
 - [tab] **Categorie:**
 - A: Motoveicoli;
-- B: Autoveicoli e tricicli a motore con peso totale non superiore a 3500 kg e con non più di otto posti a sedere, escluso quello del conducente;
+- B: Autoveicoli e tricicli a motore con peso totale non superiore a 3500 kg e con non più di otto posti sedere, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio con peso totale non superiore a 750 kg;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso totale del convoglio non superi 3500 kg;
-- C: Autoveicoli, esclusi quelli della categoria D, con peso totale superiore a 3500 kg;
+- C: Autoveicoli con peso totale superiore a 3500 kg e non più di otto posti, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria C e un rimorchio con peso totale non superiore a 750 kg;
-- D: Autoveicoli adibiti al trasporto di persone con più di otto posti a sedere, escluso quello del conducente;
+- D: Autoveicoli adibiti al trasporto di persone con più di otto posti sedere, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria D e un rimorchio con peso totale non superiore a 750 kg;
 - BE: Combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio la cui combinazione non rientri nella categoria B;
 - CE: Combinazioni di veicoli costituite da un veicolo trattore della categoria C e un rimorchio con peso totale superiore a 750 kg;
@@ -3814,9 +3951,9 @@ Annesso
 - [tab] **Sottocategorie:**
 - A1: Motoveicoli con una cilindrata non superiore a 125 cm3 e una potenza del motore massima di 11 kW;
 - B1: Quadricicli a motore e tricicli a motore con peso a vuoto massimo non superiore a 550 kg;
-- C1: Autoveicoli, esclusi quelli della categoria D, con peso totale superiore a 3500 kg, ma non superiore a 7500 kg;
+- C1: Autoveicoli con peso totale superiore a 3500 kg, ma non superiore a 7500 kg, e non più di otto posti, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della sottocategoria C1 e un rimorchio con peso totale non superiore a 750 kg;
-- D1: Autoveicoli adibiti al trasporto di persone con più di otto, ma meno di sedici posti a sedere, escluso quello del conducente;
+- D1: Autoveicoli adibiti al trasporto di persone con più di otto, ma meno di sedici posti sedere, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria e un rimorchio con peso totale non superiore a 750 kg;
 - C1E: Combinazioni di veicoli costituite da un veicolo trattore della sottocategoria C1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg;
 - D1E: Combinazioni di veicoli costituite da un veicolo trattore della sottocategoria D1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg e il rimorchio non sia adibito al trasporto di persone.
@@ -3828,29 +3965,28 @@ Annesso
 
 Allegato 4a[^t-9]
 
-(art. 27*d*)
+(art. 27*d* cpv. 1)
 
 ## Attestato di formazione complementare
 
-[^t-9]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. II cpv. 2 dell’O del 14 dic. 2018, in vigore dal 1° gen. 2020 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-9]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. II cpv. 2 dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 <table>
 <tr><td>Cognome:</td></tr>
 <tr><td>Nome:</td></tr>
 <tr><td>Data di nascita:</td></tr>
 <tr><td>Via e n.:</td></tr>
-<tr><td>NPA/località:</td></tr>
+<tr><td>NPA/Località:</td></tr>
 <tr><td>Numero licenza di condurre:</td></tr>
 </table>
 
-Attestato di partecipazione ai corsi di formazione complementare
+Chiunque, fornendo informazioni non esatte, dissimulando fatti importanti o presentando certificati falsi, ottiene fraudolentemente una licenza, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria (art. 97 LCStr). In questi casi è prevista la revoca della licenza (art. 16 LCStr).
 
-Data di scadenza della licenza di condurre in prova:
+Attestato di partecipazione al corso di formazione complementare
 
 <table>
-<tr><td>Corso di formazione complementare</td></tr>
-<tr><td>Timbro e firma dell’organizzatore:</td></tr>
-<tr><td>Data:</td></tr>
+<tr><td>Data di scadenza della licenza di condurre in prova: …………………………………………</td><td>Data di partecipazione al corso: …………………………………………</td></tr>
+<tr><td></td><td>Firma dell’organizzatore: …………………………………………</td></tr>
 </table>
 
 Allegati 5 e 6[^t-10]
@@ -4027,7 +4163,7 @@ in particolare la segnaletica, compresi demarcazioni e segnali luminosi, le rego
 
 Allegato 12[^t-15]
 
-(art. 22)
+(art. 22 cpv. 2 e 88 cpv. 1)
 
 ## Esame pratico di conducente
 
@@ -4202,11 +4338,11 @@ Si richiede uno stile di guida regolare e fluido con una buona percezione del tr
 
 ### IV. Durata dell’esame e distanza percorsa
 
-La durata dell’esame e la distanza percorsa devono essere sufficienti per consentire la valutazione della capacità e dei comportamenti conformemente al presente allegato. La durata dell’esame non deve essere in nessun caso inferiore a:
+La durata dell’esame e la distanza percorsa devono essere sufficienti per consentire la valutazione delle capacità e dei comportamenti conformemente al presente allegato. La durata dell’esame, inclusi accoglienza e commiato dal candidato, non deve essere in nessun caso inferiore a:
 
-- – 30 minuti per la categoria A e la sottocategoria A1,
-- – 60 minuti per le categorie B, BE, DE, le sottocategorie B1, C1, D1, C1E e D1E, la categoria speciale F come anche per il permesso per il trasporto professionale di persone giusta l’articolo 25. La corsa d’esame per conseguire il certificato di capacità per il trasporto di persone o il certificato di capacità per il trasporto di merci giusta l’articolo 14 capoverso 3 dell’ordinanza del 15 giugno 2007[^annex12-lvlu1-lvlIV-1] sull’ammissione degli autisti può essere effettuata subito dopo,
-- – 90 minuti per le categorie C e CE,
+- – 60 minuti, di cui almeno 45 su strade pubbliche, per le categorie A e B, le sottocategorie A1 e B1 nonché la categoria speciale F;
+- – 60 minuti per le categorie BE e DE, le sottocategorie C1, D1, C1E e D1E nonché per il permesso per il trasporto professionale di persone giusta l’articolo 25. La corsa d’esame per conseguire il certificato di capacità per il trasporto di persone o il certificato di capacità per il trasporto di merci giusta l’articolo 14 capoverso 3 dell’ordinanza del 15 giugno 2007[^annex12-lvlu1-lvlIV-1] sull’ammissione degli autisti può essere effettuata subito dopo;
+- – 90 minuti per le categorie C e CE;
 - – 120 minuti per la categoria D.
 
 [^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
