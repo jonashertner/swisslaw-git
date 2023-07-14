@@ -4,20 +4,20 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2022-04-01
+version: 2023-07-15
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20220401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20230715/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20230715-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verkehrsregelnverordnung
 
-(VRV)**[^t-1]**
+(VRV)[^t-1]
 
-vom 13. November 1962 (Stand am 1. April 2022)
+vom 13. November 1962 (Stand am 15. Juli 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -110,9 +110,9 @@ Fahrunfähigkeit gilt als erwiesen, wenn im Blut des Fahrzeuglenkers nachgewiese
 
 <sup>3</sup> Niemand darf ein Fahrzeug einem Führer überlassen, der nicht fahrfähig ist.
 
-<sup>4</sup> ...[^2-7]
+<sup>4</sup> …[^2-7]
 
-<sup>5</sup> ...[^2-8]
+<sup>5</sup> …[^2-8]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 1979, in Kraft seit 1. Jan. 1980 ([AS 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)).
 [^2-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
@@ -215,12 +215,12 @@ Von der Gurtentragpflicht in Absatz 1 sind ausgenommen:
 
 <sup>4</sup>
 
-Auf Plätzen mit Sicherheitsgurten muss für Kinder unter zwölf Jahren eine geeignete Kinderrückhaltevorrichtung, zum Beispiel ein Kindersitz, verwendet werden, die nach dem UNECE-Reglement Nr. 44 oder Nr. 129 gemäss Anhang 2 VTS[^3a-6] zugelassen ist. Keine Kinderrückhaltevorrichtung muss verwendet werden:
+Auf Plätzen mit Sicherheitsgurten muss für Kinder unter zwölf Jahren eine geeignete Kinderrückhaltevorrichtung, zum Beispiel ein Kindersitz, verwendet werden, die nach dem UNECE-Reglement Nr. 44 oder Nr. 129 gemäss Anhang 2 VTS[^3a-6] zugelassen ist. Für Kinderrückhaltevorrichtungen nach dem UNECE-Reglement Nr. 44 gilt Artikel 222*r* Absatz 3 VTS. Keine Kinderrückhaltevorrichtung muss verwendet werden:[^3a-7]
 
 - a. für Kinder, die mindestens 150 cm gross sind;
 - b. für Kinder ab vier Jahren auf speziell für Kinder zugelassenen Sitzplätzen;
 - c. für Kinder ab vier Jahren in Gesellschaftswagen;
-- d. für Kinder ab sieben Jahren auf Sitzplätzen mit Beckengurten.[^3a-7]
+- d. für Kinder ab sieben Jahren auf Sitzplätzen mit Beckengurten.[^3a-8]
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 10. März 1975 ([AS 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)). Fassung gemäss Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^3a-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
@@ -228,7 +228,8 @@ Auf Plätzen mit Sicherheitsgurten muss für Kinder unter zwölf Jahren eine gee
 [^3a-4]: Richtlinie 91/671/EWG des Rates vom 16. Dezember 1991 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Gurtanlegepflicht in Kraftfahrzeugen mit einem Gewicht von weniger als 3,5 Tonnen, ABl. L 373 vom 31.12.1991, S. 26; zuletzt geändert durch Richtlinie 2014/37/EU, ABl. L 59 vom 28.02.2014, S. 32.
 [^3a-5]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^3a-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3a-7]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^3a-7]: Fassung gemäss Ziff. III der V vom 9. Juni 2023, in Kraft seit 15. Juli 2023 ([AS 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
+[^3a-8]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 3b
 
@@ -266,9 +267,9 @@ Von der Helmtragpflicht sind ausgenommen:
 
 <sup>1</sup> Der Fahrzeugführer darf nur so schnell fahren, dass er innerhalb der überblickbaren Strecke halten kann; wo das Kreuzen schwierig ist, muss er auf halbe Sichtweite halten können.
 
-<sup>2</sup> und <sup>3</sup> ...[^4-1]
+<sup>2</sup> und <sup>3</sup> …[^4-1]
 
-<sup>4</sup> ...[^4-2]
+<sup>4</sup> …[^4-2]
 
 <sup>5</sup> Der Fahrzeugführer darf ohne zwingende Gründe nicht so langsam fahren, dass er einen gleichmässigen Verkehrsfluss hindert.
 
@@ -340,7 +341,7 @@ Auf Autobahnen und Autostrassen beträgt die Höchstgeschwindigkeit 100 km/h fü
 - b. schwere Wohnmotorwagen;
 - c.[^5-5] leichte Motorwagen mit Anhänger, sofern das Gesamtgewicht des Anhängers 3,5 t nicht übersteigt.[^5-6]
 
-<sup>2bis</sup> ...[^5-7]
+<sup>2bis</sup> …[^5-7]
 
 <sup>3</sup> Die vorstehenden Höchstgeschwindigkeiten dürfen auch nicht überschritten werden, wo eine höhere Geschwindigkeitsgrenze signalisiert ist.
 
@@ -439,7 +440,7 @@ Benützen mehrspurige Motorfahrzeuge und Radfahrer denselben Fahrstreifen, so m�
 
 <sup>1</sup> Der Fahrzeugführer, der überholen will, muss vorsichtig ausschwenken\* und darf nachfolgende Fahrzeuge nicht behindern. Er darf nicht überholen, wenn sich vor dem voranfahrenden Fahrzeug Hindernisse befinden, wie Baustellen, eingespurte Fahrzeuge oder Fussgänger, welche die Strasse überqueren.
 
-<sup>2</sup> Nach dem Überholen hat der Fahrzeugführer wieder einzubiegen, sobald für den überholten Strassenbenützer keine Gefahr mehr besteht ...[^10-1]
+<sup>2</sup> Nach dem Überholen hat der Fahrzeugführer wieder einzubiegen, sobald für den überholten Strassenbenützer keine Gefahr mehr besteht …[^10-1]
 
 <sup>3</sup> Die Führer schwerer Motorwagen haben ausserorts den schnelleren Motorfahrzeugen das Überholen angemessen zu erleichtern, indem sie ganz rechts fahren, unter sich einen Abstand von wenigstens 100 m wahren und nötigenfalls auf Ausweichplätzen halten. Dies gilt auch für andere Motorfahrzeuge, wenn sie langsam fahren.
 
@@ -652,9 +653,9 @@ Das Parkieren ist untersagt:
 
 <sup>1</sup> Fahrzeuge ohne die vorgeschriebenen Kontrollschilder dürfen nicht auf öffentlichen Strassen oder Parkplätzen abgestellt werden; ausgenommen sind öffentliche Parkplätze privater Eigentümer, wenn diese das Abstellen gestatten. In besonderen Fällen kann die zuständige Behörde Ausnahmen bewilligen.[^20-1]
 
-<sup>2</sup> ...[^20-2]
+<sup>2</sup> …[^20-2]
 
-<sup>3</sup> ...[^20-3]
+<sup>3</sup> …[^20-3]
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
 [^20-2]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -735,7 +736,7 @@ Warnblinklichter (Art. 110 Abs. 1 Bst. g VTS) dürfen nur zur Warnung vor Gefahr
 - a. am stehenden Fahrzeug zusätzlich zum Pannensignal sowie am gekennzeichneten Schulbus beim Ein- und Aussteigenlassen der Schüler (Art. 6 Abs. 5);
 - b. am fahrenden Fahrzeug, namentlich vor einer unvermutet auftauchenden Unfallstelle, einem Fahrzeugstau oder auf Autobahnen und Autostrassen beim Abschleppen.[^23-6]
 
-<sup>4</sup> und <sup>5</sup> ...[^23-7]
+<sup>4</sup> und <sup>5</sup> …[^23-7]
 
 <sup>6</sup> Das Pannensignal ist auch an der Rückseite abgeschleppter Fahrzeuge anzubringen.
 
@@ -753,13 +754,13 @@ Warnblinklichter (Art. 110 Abs. 1 Bst. g VTS) dürfen nur zur Warnung vor Gefahr
 
 ### (Art. 28, 32 Abs. 1 SVG)
 
-<sup>1</sup> ...[^24-1]
+<sup>1</sup> …[^24-1]
 
 <sup>2</sup> Beim Überqueren von Bahnübergängen ist jede Verzögerung zu vermeiden; Fahrzeuge mit Reifen oder Raupen aus Metall sowie Tierfuhrwerke und Reiter dürfen den Übergang nur im Schritttempo überqueren.[^24-2]
 
 <sup>3</sup> Die Strassenbenützer dürfen Schranken, auch solche bei Flugplätzen und dergleichen, nicht öffnen, umfahren, umgehen, übersteigen oder unter ihnen durchgehen. Den Schranken sind die Halbschranken und Bedarfsschranken gleichgestellt, wobei Bedarfsschranken mit der vorgesehenen Bedienung geöffnet werden dürfen.[^24-3]
 
-<sup>4</sup> ...[^24-4]
+<sup>4</sup> …[^24-4]
 
 \* Vgl. auch Art. 52 Abs. 4.
 
@@ -798,21 +799,27 @@ Warnblinklichter (Art. 110 Abs. 1 Bst. g VTS) dürfen nur zur Warnung vor Gefahr
 
 ### (Art. 15 SVG)
 
-<sup>1</sup> Solange Motorfahrzeuge von Inhabern eines Lernfahrausweises geführt werden, müssen sie auf der Rückseite an gut sichtbarer Stelle eine blaue Tafel mit weissem «L» tragen. Die Tafel ist zu entfernen, wenn keine Lernfahrt stattfindet.
+<sup>1</sup> Solange Motorfahrzeuge von Inhabern eines Lernfahrausweises geführt werden, müssen sie eine blaue Tafel mit weissem «L» tragen. Die Tafel muss so angebracht sein, dass sie von hinten gut erkennbar ist. Sie ist zu entfernen, wenn keine Lernfahrt stattfindet.[^27-1]
 
-<sup>2</sup> Auf Lern- und Prüfungsfahrten mit Motorwagen muss der Begleiter neben dem Führer Platz nehmen, ausgenommen auf Übungsplätzen, beim Rückwärtsfahren oder beim Parkieren; der Begleiter muss wenigstens die Handbremse leicht erreichen können.[^27-1]
+<sup>2</sup> Auf Lern- und Prüfungsfahrten mit Motorwagen muss der Begleiter neben dem Führer Platz nehmen, ausgenommen auf Übungsplätzen, beim Rückwärtsfahren oder beim Parkieren. Der Begleiter muss wenigstens die Handbremse leicht erreichen können, ausgenommen auf Lernfahrten mit Motorwagen der Kategorie C, sofern der Fahrzeugführer prüfungsreif ist.[^27-2]
 
-<sup>3</sup> Der Inhaber eines Lernfahrausweises darf auf Motorrädern sowie auf oder in anderen Motorfahrzeugen, mit welchen er Lernfahrten ohne Begleitperson ausführen darf, keine Passagiere mitführen, die nicht selber über den entsprechenden Führerausweis verfügen.[^27-2]
+<sup>3</sup>
+
+Der Inhaber eines Lernfahrausweises darf keine Passagiere mitführen, die nicht selber über den entsprechenden Führerausweis verfügen:
+
+- a. auf Motorrädern;
+- b. auf oder in Motorfahrzeugen ohne Anhänger, mit denen er Lernfahrten ohne Begleitperson ausführen darf.[^27-3]
 
 <sup>4</sup> Fahrschüler dürfen verkehrsreiche Strassen erst befahren, wenn sie genügend ausgebildet sind, Autobahnen und Autostrassen erst, wenn sie prüfungsreif sind.
 
 <sup>5</sup> Auf verkehrsreichen Strassen sind Anfahren in Steigungen, Wenden, Rückwärtsfahren und ähnliche Übungen untersagt, in Wohngebieten sind sie möglichst zu vermeiden.
 
-<sup>6</sup> Auf Lern- und Prüfungsfahrten darf auch dann über längere Strecken rückwärts gefahren werden, wenn das Weiterfahren oder Wenden möglich ist.[^27-3]
+<sup>6</sup> Auf Lern- und Prüfungsfahrten darf auch dann über längere Strecken rückwärts gefahren werden, wenn das Weiterfahren oder Wenden möglich ist.[^27-4]
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
-[^27-2]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3212](https://fedlex.data.admin.ch/eli/oc/2002/481)).
-[^27-3]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^27-1]: Fassung gemäss Ziff. III der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-2]: Fassung gemäss Ziff. III der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-3]: Fassung gemäss Ziff. III der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-4]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 ### 3. Abschnitt: Sicherungsvorkehren
 
@@ -1009,11 +1016,11 @@ Das Rechtsüberholen durch Ausschwenken und Wiedereinbiegen ist untersagt. Der F
 
 <sup>1</sup> Können auf steilen Strassen und Bergstrassen gleichartige Fahrzeuge\* nicht kreuzen, so muss das abwärtsfahrende zurückfahren, ausser das andere befinde sich nahe bei einer Ausweichstelle. Für das Kreuzen mit ungleichartigen Fahrzeugen gilt Artikel 9 Absatz 2 erster Satz.[^38-1]
 
-<sup>2</sup> ...[^38-2]
+<sup>2</sup> …[^38-2]
 
 <sup>3</sup> Auf Bergpoststrassen müssen die Fahrzeugführer bei schwierigem Kreuzen und Überholen die Zeichen und Weisungen der Führer von Fahrzeugen im Linienverkehr beachten.[^38-3]
 
-\* ...[^38-4]
+\* …[^38-4]
 
 [^38-1]: Zweiter Satz eingefügt durch Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^38-2]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1218,11 +1225,11 @@ Die Führer von Fahrrädern und Motorfahrrädern dürfen nicht neben andern Fahr
 
 <sup>3</sup> Bei Fussgängerstreifen ohne Verkehrsregelung, die durch eine Verkehrsinsel unterteilt sind, gilt jeder Teil des Überganges als selbständiger Streifen.[^47-2]
 
-<sup>4</sup> ...[^47-3]
+<sup>4</sup> …[^47-3]
 
 <sup>5</sup> Ausserhalb von Fussgängerstreifen haben die Fussgänger den Fahrzeugen den Vortritt zu lassen.
 
-<sup>6</sup> ...[^47-4]
+<sup>6</sup> …[^47-4]
 
 [^47-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. Juni 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^47-2]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. Juni 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -1239,11 +1246,11 @@ Die Führer von Fahrrädern und Motorfahrrädern dürfen nicht neben andern Fahr
 
 <sup>1bis</sup> Ski und Schlitten dürfen als Verkehrsmittel benützt werden, wo dies ortsüblich ist.[^48-1]
 
-<sup>2</sup> ...[^48-2]
+<sup>2</sup> …[^48-2]
 
 <sup>3</sup> Personen, die auf der Fahrbahn oder in deren Bereich arbeiten, müssen nötigenfalls Signale aufstellen; bei Planungs-, Bau- oder Unterhaltsarbeiten müssen sie fluoreszierende und rückstrahlende Kleidung tragen, durch die sie sowohl bei Tag als auch bei Nacht gut sichtbar sind.[^48-3]
 
-<sup>4</sup> ...[^48-4]
+<sup>4</sup> …[^48-4]
 
 [^48-1]: Eingefügt durch Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^48-2]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1277,7 +1284,7 @@ Fahrzeugähnliche Geräte dürfen als Verkehrsmittel verwendet werden auf:
 
 <sup>2</sup> Für Tätigkeiten, namentlich Spiele, die auf einer begrenzten Fläche stattfinden, darf die für die Fussgänger bestimmte Verkehrsfläche und auf verkehrsarmen Nebenstrassen (z.B. in Wohnquartieren) der gesamte Bereich der Fahrbahn benützt werden, sofern die übrigen Verkehrsteilnehmer dadurch weder behindert noch gefährdet werden.
 
-<sup>3</sup> ...[^50-2]
+<sup>3</sup> …[^50-2]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^50-2]: Aufgehoben durch Ziff. I der V vom 29. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
@@ -1346,7 +1353,7 @@ Fahrzeugähnliche Geräte dürfen als Verkehrsmittel verwendet werden auf:
 
 <sup>2</sup> Die Polizei ist sofort zu benachrichtigen, wenn eine Gefahr nicht unverzüglich beseitigt werden kann, namentlich auch, wenn ausfliessende Flüssigkeiten offene Gewässer oder Grundwasser verunreinigen könnten. Wird der Bahnbetrieb behindert, z.B. wenn Fahrzeuge oder Ladungen auf Bahnanlagen fallen, so ist die Bahnverwaltung sofort zu verständigen.
 
-<sup>3</sup> ...[^54-1]
+<sup>3</sup> …[^54-1]
 
 [^54-1]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
@@ -1360,7 +1367,7 @@ Fahrzeugähnliche Geräte dürfen als Verkehrsmittel verwendet werden auf:
 
 <sup>2</sup> Die Meldung an die Polizei ist nicht erforderlich bei kleinen Schürfungen oder Prellungen; der Schädiger muss aber dem Verletzten Namen und Adresse angeben. Die Polizei muss ebenfalls nicht beigezogen werden, wenn nur der Fahrzeugführer, seine Angehörigen oder Familiengenossen geringfügig verletzt wurden und keine Drittpersonen am Unfall beteiligt sind.
 
-<sup>3</sup> ...[^55-1]
+<sup>3</sup> …[^55-1]
 
 [^55-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -1422,7 +1429,7 @@ Fahrzeugähnliche Geräte dürfen als Verkehrsmittel verwendet werden auf:
 
 <sup>3</sup> Bewegliche Teile, wie Kranarme oder Haken, sind für die Fahrt zu sichern; Hebegabeln müssen hochgeklappt sein oder gut sichtbare Schutzkasten tragen.
 
-<sup>4</sup> ...[^58-4]
+<sup>4</sup> …[^58-4]
 
 <sup>5</sup> Motorfahrzeuge, die sichthemmende Ladungen oder Anhänger mitführen, müssen links und rechts aussen je einen Rückspiegel tragen, der dem Fahrer erlaubt, die Fahrbahn seitlich neben den Ladungen oder Anhängern und nach hinten mindestens 100 m weit zu überblicken.[^58-5]
 
@@ -1446,7 +1453,7 @@ Die Fahrzeugführer haben jede Beschmutzung der Fahrbahn zu vermeiden. Ist eine 
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
-### I*a.***** Abgasemissionen, Abgaswartung des Fahrzeugs
+### I*a.* Abgasemissionen, Abgaswartung des Fahrzeugs
 
 [^part4-chap1-lvlIa-1]
 
@@ -1512,7 +1519,7 @@ Der Halter muss Fahrzeuge, die der Abgaswartung unterstehen, innerhalb der folge
 
 ### (Art. 30 Abs. 1 SVG)
 
-<sup>1</sup> ...[^60-2]
+<sup>1</sup> …[^60-2]
 
 <sup>2</sup> In und auf Motorfahrzeugen und ihren Anhängern dürfen nur so viele Personen mitgeführt werden, als Plätze bewilligt sind. Während der Fahrt müssen die bewilligten Plätze benützt werden; in Gesellschaftswagen ist das kurzzeitige Verlassen des Sitzplatzes gestattet.[^60-3]
 
@@ -1582,7 +1589,7 @@ Fahrradfahrer über 16 Jahre dürfen mitführen:
 
 <sup>4</sup> Fahrradfahrer über 16 Jahre dürfen zusätzlich zu den Möglichkeiten nach Absatz 3 ein Kind auf einem sicheren Kindersitz mitführen. Der Sitz muss namentlich die Beine des Kindes schützen und darf den Radfahrer nicht behindern.
 
-<sup>5</sup> ...[^63-5]
+<sup>5</sup> …[^63-5]
 
 <sup>6</sup> Auf mehrspurigen Fahrrädern kann die kantonale Behörde mehr Plätze bewilligen als Pedalpaare vorhanden sind.
 
@@ -1670,7 +1677,7 @@ Motorfahrzeuge und Fahrzeugkombinationen im Fahrzustand müssen sich in einer Kr
 
 [^66-1]
 
-Die Höhe der Fahrzeuge darf mit der Ladung höchstens 4 m betragen. ...[^66-2]
+Die Höhe der Fahrzeuge darf mit der Ladung höchstens 4 m betragen. …[^66-2]
 
 [^66-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^66-2]: Letzter Satz aufgehoben durch Ziff. I der V vom 7. März 1994, mit Wirkung seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -1736,7 +1743,7 @@ Das Gewicht auf den Antriebsachsen muss mindestens betragen (minimales Adhäsion
 
 <sup>5</sup> Das Betriebsgewicht der Anhänger darf die im Fahrzeugausweis des Zugfahrzeuges eingetragene Anhängelast nicht übersteigen.
 
-<sup>6</sup> und <sup>7</sup> ...[^67-19]
+<sup>6</sup> und <sup>7</sup> …[^67-19]
 
 <sup>8</sup> Die nach den Absätzen 2 und 3 zulässigen Achslasten dürfen um höchstens 2 Prozent überschritten werden, wenn das Betriebsgewicht der Fahrzeuge und der Fahrzeugkombinationen nach den Absätzen 1 und 3 eingehalten ist.[^67-20]
 
@@ -1786,7 +1793,7 @@ Es gelten folgende Ausnahmen:
 
 <sup>4</sup> Anhänger zum Personentransport dürfen nur im regionalen fahrplanmässigen Verkehr konzessionierter Transportunternehmungen verwendet werden. An Gesellschaftswagen ist nur ein Gepäckanhänger bis 3,50 t Gesamtgewicht zulässig.[^68-6]
 
-<sup>5</sup> ... [^68-7]
+<sup>5</sup> … [^68-7]
 
 <sup>6</sup> Im Ernstfall und bei Ernstfallübungen dürfen an Motorwagen zwei Feuerwehr- oder Zivilschutzanhänger oder zwei für Hand- oder Pferdezug eingerichtete Feuerwehrgeräte mitgeführt werden.[^68-8]
 
@@ -1816,7 +1823,7 @@ Es gelten folgende Ausnahmen:
 
 <sup>2</sup> Der Fahrzeugführer und seine Hilfspersonen haben nötigenfalls Sicherheitsmassnahmen zu treffen und namentlich eine allfällige Lenkung des Anhängers ordnungsgemäss zu bedienen, wenn bei ungünstigem Nachlauf eines Anhängers enge Kurven befahren werden müssen.[^70-2]
 
-<sup>3</sup> ...[^70-3]
+<sup>3</sup> …[^70-3]
 
 [^70-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^70-2]: Fassung gemäss Art. 36 Ziff. 1 des BRB vom 27. Aug. 1969 über administrative Ausführungsbestimmungen zum Strassenverkehrsgesetz, in Kraft seit 1. Okt. 1969 ([AS 1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)).
@@ -1830,7 +1837,7 @@ Es gelten folgende Ausnahmen:
 
 <sup>2</sup> Die kantonale Behörde kann das Schleppen von Holz und dergleichen gestatten, ebenso das Ziehen von Skifahrern in Wintersportgebieten.[^71-1]
 
-<sup>3</sup> ...[^71-2]
+<sup>3</sup> …[^71-2]
 
 \* Für die Fahrräder vgl. auch Art. 46 Abs. 4 SVG.
 
@@ -1950,7 +1957,7 @@ Sie können eine Breite bis 2,55 m auch auf Strassen mit einer signalisierten H�
 - c. 25 m beim Gesellschaftswagen mit Anhänger zum Personentransport;
 - d. 28 m beim Gesellschaftswagen, wenn ein Anhänger zum Personen transport und ein Gepäckanhänger mitgeführt werden, und beim Gelenkbus mit Gepäckanhänger.
 
-<sup>5</sup> ...[^76-6]
+<sup>5</sup> …[^76-6]
 
 [^76-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
 [^76-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -2074,7 +2081,7 @@ Ausnahmen von den gesetzlichen Höchstmassen und Höchstgewichten (Art. 64–67)
 
 <sup>3</sup> Innerhalb des Kantonsgebietes kann die kantonale Behörde auf Strassen mit einer signalisierten Höchstbreite Fahrten mit breiteren Fahrzeugen bewilligen, soweit die Strassenverhältnisse es zulassen.[^80-6]
 
-<sup>4</sup> ...[^80-7]
+<sup>4</sup> …[^80-7]
 
 [^80-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -2124,7 +2131,7 @@ Ausnahmen von den gesetzlichen Höchstmassen und Höchstgewichten (Art. 64–67)
 
 <sup>1</sup> Die Fahrzeugführer müssen so fahren, dass die andern Strassenbenützer möglichst wenig behindert werden. Andern Fahrzeugen ist das Kreuzen und Überholen zu erleichtern, nötigenfalls durch Halten ausserhalb der Fahrbahn.
 
-<sup>2</sup> ...[^85-1]
+<sup>2</sup> …[^85-1]
 
 <sup>3</sup> Mit Ausnahmefahrzeugen und auf Ausnahmetransporten darf aus zwingenden Gründen und bei genügenden Sicherheitsmassnahmen von den Verkehrsregeln sowie signalisierten oder markierten Anordnungen abgewichen werden. Dies gilt sinngemäss für deren Begleitfahrzeuge sowie für Fahrzeuge zum Bau, zum Unterhalt und zur Reinigung der Strasse.[^85-2]
 
@@ -2155,7 +2162,7 @@ Mit land- und forstwirtschaftlichen Motorfahrzeugen und Anhängern (land- und fo
 
 Den Land- und Forstwirtschaftsbetrieben sind gleichgestellt:[^86-4]
 
-- a.[^86-5] ...
+- a.[^86-5] …
 - b. die dem Pflanzenbau, namentlich dem Gemüse‑, Obst- und Weinbau dienenden Betriebe;
 - c. die Gärtnereien;
 - d. die Imkereien.[^86-6]
@@ -2362,13 +2369,13 @@ In der Bewilligung sind anzugeben:
 - a bei Einzelbewilligungen: die Art des Ladegutes, die Zeit der Fahrt und die Fahrstrecke;
 - b. bei Dauerbewilligungen: die Art des Ladegutes, das Gebiet und die Zeit der Fahrten.[^93-2]
 
-<sup>3</sup> ...[^93-3]
+<sup>3</sup> …[^93-3]
 
 <sup>4</sup> Die Bewilligung kann jederzeit entzogen werden, namentlich wenn sie missbraucht wurde oder bewilligte Fahrten nicht mehr nötig sind.
 
 [^93-1]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
 [^93-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
-[^93-3]: Aufgehoben durch Ziff. II 62 der V vom 8. Nov. 2006 über die Anpassung von Bun-desratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^93-3]: Aufgehoben durch Ziff. II 62 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### 2. Abschnitt: Sportliche Veranstaltungen
 
@@ -2473,7 +2480,7 @@ Diese Informationssysteme enthalten insbesondere folgende Daten:
 
 Bereits in Verkehr stehende Fahrzeuge, welche der vor dem 1. August 2002 geltenden Fahrraddefinition nach Artikel 24 Absatz 1 VTS[^98-2] entsprechen und alle technischen Anforderungen an Fahrräder erfüllen, dürfen noch bis zum 31. Dezember 2003 wie Fahrräder verwendet werden, sofern sie eine Fahrradvignette tragen.
 
-[^98-1]: Aufgehoben durch Ziff. I der V vom 10. Juli 1972 ([AS 1972 1573](https://fedlex.data.admin.ch/eli/oc/1972/1573_1605_1777)). Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
+[^98-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^98-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 #### Art. 98a
@@ -2504,10 +2511,10 @@ Bereits in Verkehr stehende Fahrzeuge, welche der vor dem 1. August 2002 geltend
 <sup>4</sup> Die Verordnungen und Beschlüsse, die der Bundesrat in Ausführung des Bundesgesetzes vom 15. März 1932 über den Motorfahrzeug- und Fahrradverkehr erlassen hat, bleiben, mit Ausnahme der darin enthaltenen Verkehrsregeln, bis auf weiteres in Kraft, soweit sie dem SVG oder dessen Ausführungsvorschriften nicht widersprechen. Das UVEK stellt eine Liste der noch in Kraft bleibenden Bestimmungen auf.
 
 [^99-1]: [AS 1962 1362](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417)(SVG 33 Abs. 1 und 2, 49 Abs. 2)
-[^99-2]: [BS **7** 595 614; [AS 1948 531](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1491 Art. 4, [1959 679](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)Art. 107 Abs. 3, [1960 1157](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)Art. 28 Abs. 1 Ziff. 1, [1308](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)Art. 4 Abs. 6]
+[^99-2]: [BS **7** 595 614; [AS 1948 531](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478); **1949** II 1491 Art. 4; [1959 679](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)Art. 107 Abs. 3; [1960 1157](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)Art. 28 Abs. 1 Ziff. 1; [1308](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)Art. 4 Abs. 6]
 [^99-3]: [BS **9** 360]
 
-## Schlussbestimmungen der Änderung vom 25. Januar 1989****
+## Schlussbestimmungen der Änderung vom 25. Januar 1989
 
 [^u1-1]
 
@@ -2521,7 +2528,7 @@ Zu Art. 41 Abs. 1 und 1<sup>bis</sup>
 
 Artikel 41 Absätze 1 und 1<sup>bis</sup> gilt ab 1. Juli 1989.
 
-## Schlussbestimmungen der Änderung vom 22. Dezember 1993****
+## Schlussbestimmungen der Änderung vom 22. Dezember 1993
 
 [^u2-1]
 
@@ -2535,9 +2542,9 @@ Artikel 41 Absätze 1 und 1<sup>bis</sup> gilt ab 1. Juli 1989.
 
 <sup>4</sup> An Fahrzeugen, die zwischen dem 1. Juli 1994 und dem 28. Februar 1995 erstmals in Verkehr gesetzt werden, kann bei der Abgas-Nachkontrolle vor der ersten Inverkehrsetzung auf eine Rauchmessung verzichtet werden.
 
-[^u2-2]: [[AS 1969 821](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839), [1972 1577](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781)[1748](https://fedlex.data.admin.ch/eli/oc/1972/1748__), [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)Ziff. II 2, [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611), [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922), [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)Art. 72 Ziff. 3, [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495)[531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)Ziff. II, [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)Art. 88 Ziff. 1, [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338), [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608), [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833), [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)Ziff. II 2 [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195), [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)Ziff. III, [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)Ziff. II 214 Ziff. I, II [816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)Ziff. II 3 [1326](https://fedlex.data.admin.ch/eli/oc/1994/1326_1326_1326). [AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. I Bst. a]. Siehe heute die V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
+[^u2-2]: [[AS 1969 821](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1577](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781), [1748](https://fedlex.data.admin.ch/eli/oc/1972/1748__); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)Ziff. II 2; [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611); [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)Art. 72 Ziff. 3; [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495), [531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)Ziff. II; [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)Art. 88 Ziff. 1; [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338); [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608); [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833); [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)Ziff. II 2, [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195); [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)Ziff. III; [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)Ziff. II, [214](https://fedlex.data.admin.ch/eli/oc/1994/214_214_214)Ziff. I und, II 816 Ziff. II 3, 1326. [AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. I Bst. a]. Siehe heute die V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
 
-## Schlussbestimmung der Änderung vom 22. Oktober 1997****
+## Schlussbestimmung der Änderung vom 22. Oktober 1997
 
 [^u3-1]
 

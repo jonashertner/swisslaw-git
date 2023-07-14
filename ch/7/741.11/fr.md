@@ -4,20 +4,20 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2022-04-01
+version: 2023-07-15
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20220401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20230715/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20230715-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les règles de la circulation routière
 
-(OCR)**[^t-1]**
+(OCR)[^t-1]
 
-du 13 novembre 1962 (Etat le 1<sup>er</sup> avril 2022)
+du 13 novembre 1962 (État le 15 juillet 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -215,12 +215,12 @@ Sont dispensées de l’obligation de porter la ceinture selon l’al. 1:
 
 <sup>4</sup>
 
-Aux places équipées de ceintures de sécurité, les enfants de moins de douze ans doivent toujours être attachés par un dispositif de retenue pour enfant approprié, par exemple un siège pour enfant, qui est autorisé en vertu du règlement CEE-ONU n° 44 ou 129 visé à l’annexe 2 OETV[^3a-6]. Il n’est pas obligatoire d’utiliser un dispositif de retenue:
+Aux places équipées de ceintures de sécurité, les enfants de moins de douze ans doivent toujours être attachés par un dispositif de retenue pour enfants approprié, par exemple un siège pour enfants, qui est autorisé en vertu du règlement CEE-ONU n<sup>o</sup> 44 ou 129 visé à l’annexe 2 OETV[^3a-6]. L’art. 222*r*, al. 3, OETV s’applique aux dispositifs de retenue pour enfants conformes au règlement CEE-ONU n<sup>o</sup> 44. Il n’est pas obligatoire d’utiliser un dispositif de retenue:[^3a-7]
 
 - a. pour les enfants mesurant au moins 150 cm;
 - b. pour les enfants de quatre ans et plus lorsqu’ils sont assis sur des sièges spécialement admis pour les enfants;
 - c. pour les enfants de quatre ans et plus lorsqu’ils sont assis dans des autocars;
-- d. pour les enfants de sept ans et plus lorsqu’ils sont assis sur des sièges équipés de ceintures abdominales.[^3a-7]
+- d. pour les enfants de sept ans et plus lorsqu’ils sont assis sur des sièges équipés de ceintures abdominales.[^3a-8]
 
 [^3a-1]: Introduit par le ch. I de l’O du 10 mars 1975 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)). Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^3a-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
@@ -228,7 +228,8 @@ Aux places équipées de ceintures de sécurité, les enfants de moins de douze 
 [^3a-4]: Directive 91/671/CEE du Conseil du 16 décembre 1991 concernant le rapprochement des législations des États membres relatives au port obligatoire de la ceinture de sécurité dans les véhicules de moins de 3,5 tonnes, JO L 373 du 31.12.1991, p. 26; modifiée en dernier lieu par la directive 2014/37/UE, JO L 59 du 28.2.2014, p. 32.
 [^3a-5]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^3a-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3a-7]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^3a-7]: Nouvelle teneur selon le ch. III de l’O du 9 juin 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
+[^3a-8]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 3b
 
@@ -802,21 +803,27 @@ Les feux clignotants avertisseurs (art. 110, al. 1, let. g, OETV) ne peuvent êt
 
 ### (art. 15 LCR)
 
-<sup>1</sup> Tant qu’un véhicule automobile est conduit par un élève conducteur, il sera muni d’une plaque portant un L blanc sur fond bleu, fixée à l’arrière du véhicule à un endroit bien visible. Cette plaque sera ôtée lorsque le véhicule n’est pas utilisé pour une course d’apprentissage.
+<sup>1</sup> Tout véhicule automobile conduit par un élève conducteur doit être muni d’une plaque portant un L blanc sur fond bleu. La plaque doit être fixée de telle sorte qu’elle soit bien visible de l’arrière. Elle doit être ôtée lorsque le véhicule n’est pas utilisé pour une course d’apprentissage.[^27-1]
 
-<sup>2</sup> Lors de courses d’apprentissage et d’examen, la personne qui accompagne le conducteur prendra place à côté de lui, sauf s’il s’agit de circuler sur des terrains d’exercice, de faire marche arrière ou de parquer; la personne accompagnant l’élève devra pouvoir facilement atteindre au moins le frein à main.[^27-1]
+<sup>2</sup> Lors de courses d’apprentissage et d’examen, la personne qui accompagne le conducteur prend place à côté de lui, sauf s’il s’agit de circuler sur des terrains d’exercice, de faire marche arrière ou de parquer. Elle doit pouvoir facilement atteindre au moins le frein à main, sauf si la course d’apprentissage est effectuée avec une voiture automobile de la catégorie C et que le conducteur du véhicule est prêt à passer l’examen de conduite.[^27-2]
 
-<sup>3</sup> Sur un motocycle ou sur ou dans d’autres véhicules automobiles avec lesquels il est autorisé à effectuer des courses d’apprentissage sans être accompagné, l’élève conducteur ne peut transporter de passagers qui ne sont pas eux-mêmes titulaires du permis de conduire correspondant.[^27-2]
+<sup>3</sup>
+
+L’élève conducteur n’est pas autorisé à transporter de passagers qui ne sont pas eux-mêmes titulaires du permis de conduire correspondant:
+
+- a. sur des motocycles;
+- b. sur ou dans des véhicules automobiles sans remorque avec lesquels il est autorisé à effectuer des courses d’apprentissage sans être accompagné.[^27-3]
 
 <sup>4</sup> Les élèves conducteurs n’emprunteront des chaussées fortement fréquentées que s’ils ont une formation suffisante et des autoroutes ou semi-autoroutes que s’ils sont prêts à passer l’examen de conduite.
 
 <sup>5</sup> Sur les chaussées fortement fréquentées, il est interdit de démarrer en côte, de faire demi-tour sur la chaussée, de faire des marches arrière et d’autres exercices semblables; dans les quartiers habités, de telles manœuvres doivent être évitées le plus possible.
 
-<sup>6</sup> Lors de courses d’apprentissage et d’examen, la marche arrière sur un parcours d’une certaine longueur est admise même s’il est possible de continuer ou de faire demi-tour.[^27-3]
+<sup>6</sup> Lors de courses d’apprentissage et d’examen, la marche arrière sur un parcours d’une certaine longueur est admise même s’il est possible de continuer ou de faire demi-tour.[^27-4]
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
-[^27-2]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3212](https://fedlex.data.admin.ch/eli/oc/2002/481)).
-[^27-3]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^27-1]: Nouvelle teneur selon le ch. III de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-2]: Nouvelle teneur selon le ch. III de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-3]: Nouvelle teneur selon le ch. III de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-4]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 ### Chapitre 3 Mesures de protection
 
@@ -1258,7 +1265,7 @@ Les conducteurs de cycles et de cyclomoteurs ne circuleront pas à côté d’au
 
 [^49-1]: Abrogé par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
-### Chapitre 1*a* Utilisateurs d’engins assimilés à des véhicules****
+### Chapitre 1*a* Utilisateurs d’engins assimilés à des véhicules
 
 [^part2-chap1a-1]
 
@@ -1449,7 +1456,7 @@ Le conducteur d’un véhicule évitera de salir la chaussée. Les chaussées qu
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
-### I*a* *.***** Émissions de gaz d’échappement. Entretien du système antipollution des véhicules
+### I*a* *.* Émissions de gaz d’échappement. Entretien du système antipollution des véhicules
 
 [^part4-chap1-lvlIa-1]
 
@@ -1633,10 +1640,6 @@ Un cycliste âgé de plus de seize ans peut transporter:
 <tr><td>c. autocars à deux essieux</td><td>13,50</td></tr>
 <tr><td>d. autocars ayant plus de deux essieux</td><td>15,00</td></tr>
 <tr><td>e. véhicules articulés</td><td>16,50</td></tr>
-</table>
-
-<table>
-<tr><th></th><th>Mètres</th></tr>
 <tr><td>f. trains routiers</td><td>18,75</td></tr>
 <tr><td>g. bus à plate-forme pivotante</td><td>18,75.[^65-3]</td></tr>
 </table>
@@ -2141,7 +2144,7 @@ Des exceptions aux normes légales sur les dimensions et les poids maximaux (art
 [^85-1]: Abrogé par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
 [^85-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 
-### Chapitre 3 Véhicules agricoles et forestiers****
+### Chapitre 3 Véhicules agricoles et forestiers
 
 [^part4-chap3-1]
 
@@ -2520,7 +2523,7 @@ Les véhicules déjà en circulation, qui répondent à la définition du cycle 
 [^99-2]: [RS **7** 593 611; [RO 1948 519](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1595 art. 4, [1959 705](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)art. 107 al. 3,[1960 1209](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 al. 1 ch. 1 [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 al. 6]
 [^99-3]: [RS **9** 354]
 
-## Dispositions finales de la modification du 25 janvier 1989****
+## Dispositions finales de la modification du 25 janvier 1989
 
 [^u1-1]
 
@@ -2534,7 +2537,7 @@ Ad art. 41 al. 1 et 1<sup>bis</sup>
 
 L’art. 41, al. 1 et 1<sup>bis</sup>, est applicable dès le 1<sup>er</sup> juillet 1989.
 
-## Dispositions finales de la modification du 22 décembre 1993****
+## Dispositions finales de la modification du 22 décembre 1993
 
 [^u2-1]
 
@@ -2552,7 +2555,7 @@ Ad art. 59a
 
 [^u2-2]: [[RO 1969 841](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839), [1972 1609](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781), [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)ch. II 2, [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611)[2867](https://fedlex.data.admin.ch/eli/oc/1976/_2867_), [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922), [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 ch. 3, [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495)[531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)ch. II [1107](https://fedlex.data.admin.ch/eli/oc/1982/1107_1107_1107), [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)art. 88 ch. 1, [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338), [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608)[620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620)art. 36 al. 1, [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833), [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)ch. II 2 [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195), [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)ch. III, [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)ch. II 214 ch. I, II [816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)ch. II 3 [1326](https://fedlex.data.admin.ch/eli/oc/1994/1326_1326_1326). [RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. I let. a]. Voir actuellement l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
-## Disposition finale de la modification du 22 octobre 1997****
+## Disposition finale de la modification du 22 octobre 1997
 
 [^u3-1]
 
@@ -2560,10 +2563,10 @@ Ad art. 59a
 
 Les vêtements conformes à l’art. 48, al. 3, OCR, qui ne répondent toutefois pas aux exigences de la norme suisse SN 640 710, peuvent encore être utilisés jusqu’au 31 décembre 2000.
 
-Annexe I*[^t-2]*
+Annexe I[^t-2]
 
 [^t-2]: Abrogée par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 
-Annexe II*[^t-3]*
+Annexe II[^t-3]
 
 [^t-3]: Abrogée par l’art. 72 ch. 2 de l’O du 27 mai 1981 sur la protection des animaux, avec effet au 1<sup>er</sup> juil. 1981 ([RO 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).

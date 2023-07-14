@@ -4,20 +4,20 @@ title: Ordinanza del 13 novembre 1962 sulle norme della circolazione stradale (O
 short: ONC
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: it
-version: 2022-04-01
+version: 2023-07-15
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20220401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20230715/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20230715-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle norme della circolazione stradale
 
-(ONC)**[^t-1]**
+(ONC)[^t-1]
 
-del 13 novembre 1962 (Stato 1° aprile 2022)
+del 13 novembre 1962 (Stato 15 luglio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 10 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -218,12 +218,12 @@ L’obbligo di allacciarsi con la cintura di sicurezza di cui al capoverso 1 non
 
 <sup>4</sup>
 
-Nei posti provvisti di cintura di sicurezza, i fanciulli al di sotto dei 12 anni devono essere assicurati con un dispositivo di sicurezza per fanciulli, ad esempio un seggiolino, omologato in base al regolamento UNECE n. 44 o n. 129 di cui all’allegato 2 OETV[^3a-6]. L’impiego di tali dispositivi non è obbligatorio per:
+Nei posti provvisti di cintura di sicurezza, i fanciulli al di sotto dei 12 anni devono essere assicurati con un dispositivo di ritenuta per fanciulli, ad esempio un seggiolino, omologato in base al regolamento UNECE n. 44 o n. 129 di cui all’allegato 2 OETV[^3a-6]. Ai dispositivi secondo il regolamento UNECE n. 44 si applica l’articolo 222r capoverso 3 OETV. L’impiego di tali dispositivi non è obbligatorio per:[^3a-7]
 
 - a. fanciulli alti almeno 150 cm;
 - b. fanciulli di almeno quattro anni che viaggiano su sedili appositamente previsti per fanciulli;
 - c. fanciulli di almeno quattro anni che viaggiano su autobus;
-- d. fanciulli di almeno sette anni che viaggiano su sedili con cinture addominali.[^3a-7]
+- d. fanciulli di almeno sette anni che viaggiano su sedili con cinture addominali.[^3a-8]
 
 [^3a-1]: Introdotto dal n. I dell’O del 10 mar. 1975 ([RU 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)). Nuovo testo giusta il n. I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^3a-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
@@ -231,7 +231,8 @@ Nei posti provvisti di cintura di sicurezza, i fanciulli al di sotto dei 12 anni
 [^3a-4]: Direttiva 91/671/CEE del Consiglio del 16 dicembre 1991 per il ravvicinamento delle legislazioni degli Stati Membri relative all’uso obbligatorio delle cinture di sicurezza sugli autoveicoli di peso inferiore a 3,5 tonnellate. GU L 373 del 31.12.1991, pag. 26; modificata da ultimo dalla direttiva 2014/37/UE della Commissione del 27 febbraio 2014, GU L 59 del 28.02.2014, pag. 32.
 [^3a-5]: Introdotta dal n. I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^3a-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3a-7]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^3a-7]: Nuovo testo giusta il n. III dell’O del 9 giu. 2023, in vigore dal 15 lug. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
+[^3a-8]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 3b
 
@@ -808,25 +809,32 @@ Le luci di avvertimento lampeggianti (art. 110 cpv. 1 lett. g OETV) possono esse
 
 #### Art. 27
 
-**Scuola di guida**
+**Scuola guida[^27-1]**
 
 ### (art. 15 LCStr)
 
-<sup>1</sup> I veicoli a motore guidati da un allievo conducente devono essere muniti di una targa portante una «L» bianca su fondo blu, applicata posteriormente in un punto ben visibile. La targa deve essere tolta quando il veicolo non è più guidato da un allievo conducente.
+<sup>1</sup> I veicoli a motore guidati da un allievo conducente devono essere muniti di una targa recante una «L» bianca su fondo blu. La targa deve essere fissata in modo tale da essere facilmente riconoscibile da dietro. Deve essere tolta quando il veicolo non è più guidato da un allievo conducente.[^27-2]
 
-<sup>2</sup> Sugli autoveicoli adoperati per corse di scuole guida e per corse d’esame, l’accompagnatore deve prendere posto accanto al conducente, salvo sui terreni di esercitazione chiusi come pure per eseguire la retromarcia e parcheggiare; l’accompagnatore deve potersi facilmente servire almeno del freno a mano.[^27-1]
+<sup>2</sup> Sugli autoveicoli adoperati per corse di scuola guida e per corse d’esame, l’accompagnatore deve prendere posto accanto al conducente, salvo sui terreni di esercitazione chiusi come pure per eseguire la retromarcia e parcheggiare. L’accompagnatore deve potersi facilmente servire almeno del freno a mano, tranne in caso di corse di scuola guida effettuate con autoveicoli della categoria C, a condizione che il conducente sia pronto all’esame di guida.[^27-3]
 
-<sup>3</sup> Il titolare di una licenza per allievo conducente non può trasportare passeggeri che non posseggono la licenza di condurre pertinente su motoveicoli come anche su o in altri veicoli a motore con i quali può effettuare corse di scuola guida senza accompagnatore.[^27-2]
+<sup>3</sup>
+
+Il titolare di una licenza per allievo conducente non può trasportare passeggeri che non posseggono la licenza di condurre pertinente:
+
+- a. su motoveicoli;
+- b. su altri veicoli a motore senza rimorchio con i quali può effettuare corse di scuola guida senza accompagnatore.[^27-4]
 
 <sup>4</sup> Gli allievi conducenti possono circolare sulle strade a forte traffico solo se hanno una formazione sufficiente e sulle autostrade e semiautostrade soltanto quando sono pronti all’esame di guida.
 
 <sup>5</sup> Sulle strade a forte traffico sono vietate esercitazioni di partenza in salita, d’inversione di marcia, di marcia indietro e analoghe; nei quartieri abitati, esse devono essere evitate il più possibile.
 
-<sup>6</sup> Durante le corse di scuola guida e di esame la retromarcia è consentita su lunghi tratti anche quando è possibile proseguire o invertire il senso di marcia.[^27-3]
+<sup>6</sup> Durante le corse di scuola guida e di esame la retromarcia è consentita su lunghi tratti anche quando è possibile proseguire o invertire il senso di marcia.[^27-5]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1976, in vigore dal 1° gen. 1977 ([RU 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3212](https://fedlex.data.admin.ch/eli/oc/2002/481)).
-[^27-3]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^27-1]: Nuovo testo giusta il n. III dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-2]: Nuovo testo giusta il n. III dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-3]: Nuovo testo giusta il n. III dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-4]: Nuovo testo giusta il n. III dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-5]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 ### Capo terzo: Misure di sicurezza
 
@@ -1460,7 +1468,7 @@ Il conducente di un veicolo deve evitare di sporcare la carreggiata in qualsiasi
 
 [^59-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
-### I. *a***** Emissioni dei gas di scarico. Manutenzione del sistema antinquinamento dei veicoli
+### I. *a* Emissioni dei gas di scarico. Manutenzione del sistema antinquinamento dei veicoli
 
 [^part4-chap1-lvlIa-1]
 
@@ -2527,7 +2535,7 @@ I veicoli già in circolazione che corrispondono alla definizione vigente prima 
 [^99-3]: [CS **9** 363]
 [^99-4]: [CS **7** 535, 555; [RU 1948 478](https://fedlex.data.admin.ch/eli/oc/1948/532_520_478); **1949** II 1525 art. 4; [1959 685](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)art. 107 cpv. 3; [1960 1205](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 cpv. 1 n. 1, [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 cpv. 6]
 
-## Disposizioni finali della modifica del 25 gennaio 1989****
+## Disposizioni finali della modifica del 25 gennaio 1989
 
 [^u1-1]
 
@@ -2541,7 +2549,7 @@ Ad art. 41 cpv. 1 e 1<sup>bis</sup>
 
 L’articolo 41 capoversi 1 e 1<sup>bis</sup> è applicabile dal 1° luglio 1989
 
-## Disposizioni finali della modifica del 22 dicembre 1993****
+## Disposizioni finali della modifica del 22 dicembre 1993
 
 [^u2-1]
 
@@ -2559,7 +2567,7 @@ Ad art. 59a
 
 [^u2-2]: [[RU 1969 839](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1781](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)n. II 2; [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611), 2867; [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 3; [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495), [531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)n. II, [1107](https://fedlex.data.admin.ch/eli/oc/1982/1107_1107_1107), [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)art. 88 n. 1; [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338); [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608), [620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620)art. 36 cpv. 1; [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833); [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/__876); [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)n. II 2, [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195); [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)n. III; [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536); [1993 2062](https://fedlex.data.admin.ch/eli/oc/1993/__2062); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)n. II, [214](https://fedlex.data.admin.ch/eli/oc/1994/214_214_214)n. I, II, [816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)n. II 3, [1326](https://fedlex.data.admin.ch/eli/oc/1994/1326_1326_1326). [RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 n. I lett. a]. Vedi ora l’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
 
-## Disposizione finale della modifica del 22 ottobre 1997****
+## Disposizione finale della modifica del 22 ottobre 1997
 
 [^u3-1]
 
@@ -2567,10 +2575,10 @@ Ad art. 59a
 
 Gli abiti, giusta l’articolo 48 capoverso 3 ONC, che non sono conformi alla norma svizzera SN 640 710 possono ancora essere usati fino al 31 dicembre 2000.
 
-Allegato I*[^t-2]*
+Allegato I[^t-2]
 
 [^t-2]: Abrogato dal n. I dell’O del 7 mar. 1994, con effetto dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 
-Allegato II*[^t-3]*
+Allegato II[^t-3]
 
 [^t-3]: Abrogato dall’art. 72 n. 2 dell’O del 27 mag. 1981 sulla protezione degli animali, con effetto dal 1° lug. 1981 ([RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
