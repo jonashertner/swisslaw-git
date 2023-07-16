@@ -3,11 +3,11 @@ sr: "0.311.551"
 title: Zusatzprotokoll vom 15. Mai 2003 zu dem Strafrechtsübereinkommen über Korruption
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/368"
 language: de
-version: 2020-07-06
+version: 2023-07-17
 adopted: 2003-05-15
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/368/20200706/de/xml/fedlex-data-admin-ch-eli-cc-2006-368-20200706-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/368/20200706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/368/20230717/de/xml/fedlex-data-admin-ch-eli-cc-2006-368-20230717-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/368/20230717/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 31. März 2006
 
 In Kraft getreten für die Schweiz am 1. Juli 2006
 
-(Stand am 6. Juli 2020)
+(Stand am 17. Juli 2023)
 
 [^t-1]: Art. 1 Abs. 2 des BB vom 7. Okt. 2005 ([AS 2006 2371](https://fedlex.data.admin.ch/eli/oc/2006/366)).
 
@@ -179,7 +179,7 @@ Der Generalsekretär des Europarates notifiziert den Mitgliedstaaten des Europar
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 15. Mai 2003 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarates hinterlegt wird. Der Generalsekretär des Europarates übermittelt allen Unterzeichnerstaaten sowie allen dem Protokoll beitretenden Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 6. Juli 2020**[^t-2]**
+Geltungsbereich am 17. Juli 2023[^t-2]
 
 <table>
 <tr><th colspan="3">Vertragsstaaten</th><th colspan="3">Ratifikation</th><th></th><th colspan="3">Inkrafttreten</th><th colspan="2"></th></tr>
@@ -193,6 +193,7 @@ Geltungsbereich am 6. Juli 2020**[^t-2]**
 <tr><td colspan="3">Bulgarien</td><td colspan="3">4. Februar</td><td>2004</td><td colspan="3">1. Februar</td><td colspan="2">2005</td></tr>
 <tr><td colspan="3">Dänemark <sup>a</sup></td><td colspan="3">16. November</td><td>2005</td><td colspan="3">1. März</td><td colspan="2">2006</td></tr>
 <tr><td colspan="3">Deutschland</td><td colspan="3">10. Mai</td><td>2017</td><td colspan="3">1. September</td><td colspan="2">2017</td></tr>
+<tr><td colspan="3">Estland</td><td colspan="3">14. Dezember</td><td>2020</td><td colspan="3">1. April</td><td colspan="2">2021</td></tr>
 <tr><td colspan="3">Finnland</td><td colspan="3">24. Juni</td><td>2011</td><td colspan="3">1. Oktober</td><td colspan="2">2011</td></tr>
 <tr><td colspan="3">Frankreich</td><td colspan="3">25. April</td><td>2008</td><td colspan="3">1. August</td><td colspan="2">2008</td></tr>
 <tr><td colspan="3">Georgien</td><td colspan="3">10. Januar</td><td>2014</td><td colspan="3">1. Mai</td><td colspan="2">2014</td></tr>
@@ -208,7 +209,7 @@ Geltungsbereich am 6. Juli 2020**[^t-2]**
 <tr><td colspan="3">Monaco</td><td colspan="3">10. Juli</td><td>2013</td><td colspan="3">1. November</td><td colspan="2">2013</td></tr>
 <tr><td colspan="3">Montenegro</td><td colspan="3">17. März</td><td>2008</td><td colspan="3">1. Juli</td><td colspan="2">2008</td></tr>
 <tr><td colspan="3">Niederlande\*</td><td colspan="3">16. November</td><td>2005</td><td colspan="3">1. März</td><td colspan="2">2006</td></tr>
-<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td colspan="3">10. Oktober</td><td colspan="2">2010</td><td colspan="3">10. Oktober</td><td colspan="2">2010</td></tr>
+<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td colspan="3">10. Oktober</td><td colspan="2">2010</td><td colspan="3">10. Oktober</td><td colspan="2">2010</td></tr>
 <tr><td colspan="3">Nordmazedonien</td><td colspan="3">14. November</td><td>2005</td><td colspan="3">1. März</td><td colspan="2">2006</td></tr>
 <tr><td colspan="3">Norwegen</td><td colspan="3">2. März</td><td>2004</td><td colspan="3">1. Februar</td><td colspan="2">2005</td></tr>
 <tr><td colspan="3">Österreich</td><td colspan="3">13. Dezember</td><td>2013</td><td colspan="3">1. April</td><td colspan="2">2014</td></tr>
@@ -231,11 +232,11 @@ Geltungsbereich am 6. Juli 2020**[^t-2]**
 <tr><td colspan="12">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Zusatzprotokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Mittels Schreiben vom 8. März 2018 hat die Schweiz dem Depositar mitgeteilt, dass sie die Erklärung gemäss Art. 36 und die Vorbehalte gemäss Art. 37 in Anwendung des Artikels 38 des Übereinkommens für weitere drei Jahre in ihrer Gesamtheit aufrechterhält und dies vom 1. Juli 2018 bis zum 1. Juli 2021 und dies gilt auch in Anwendung des Artikels 9 des Zusatzprotokolls.</td></tr>
 </table>
 
-[^t-2]: [AS 2006 2393](https://fedlex.data.admin.ch/eli/oc/2006/368), [2008 4061](https://fedlex.data.admin.ch/eli/oc/2008/561), [2012 467](https://fedlex.data.admin.ch/eli/oc/2012/64), [2013 2079](https://fedlex.data.admin.ch/eli/oc/2013/435), [2015 5949](https://fedlex.data.admin.ch/eli/oc/2015/915), **2018** 2071, [2020 3385](https://fedlex.data.admin.ch/eli/oc/2020/579). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2006 2393](https://fedlex.data.admin.ch/eli/oc/2006/368); [2008 4061](https://fedlex.data.admin.ch/eli/oc/2008/561); [2012 467](https://fedlex.data.admin.ch/eli/oc/2012/64); [2013 2079](https://fedlex.data.admin.ch/eli/oc/2013/435); [2015 5949](https://fedlex.data.admin.ch/eli/oc/2015/915); **2018** 2071; [2020 3385](https://fedlex.data.admin.ch/eli/oc/2020/579); [2023 387](https://fedlex.data.admin.ch/eli/oc/2023/387). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen
 
-## Schweiz****
+## Schweiz
 
 [^declu2-lvlu1-1]
 

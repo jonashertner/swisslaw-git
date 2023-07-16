@@ -3,11 +3,11 @@ sr: "0.311.551"
 title: Protocole additionnel du 15 mai 2003 à la Convention pénale sur la corruption
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/368"
 language: fr
-version: 2020-07-06
+version: 2023-07-17
 adopted: 2003-05-15
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/368/20200706/fr/xml/fedlex-data-admin-ch-eli-cc-2006-368-20200706-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/368/20200706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/368/20230717/fr/xml/fedlex-data-admin-ch-eli-cc-2006-368-20230717-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/368/20230717/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 31 mars 2006
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2006
 
-(Etat le 6 juillet 2020)
+(État le 17 juillet 2023)
 
 [^t-1]: Art. 1 al. 2 de l’AF du 7 oct. 2005 ([RO 2006 2371](https://fedlex.data.admin.ch/eli/oc/2006/366))
 
@@ -175,9 +175,9 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 - d. toute déclaration ou réserve formulée en vertu des art. 9 et 12;
 - e. tout autre acte, notification ou communication ayant trait au présent Protocole.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 15 mai 2003, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacune des Parties signataires et adhérentes. *(Suivent les signatures)*
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 15 mai 2003, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacune des Parties signataires et adhérentes. (Suivent les signatures)
 
-Champ d’application le 6 juillet 2020**[^t-2]**
+Champ d’application le 17 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -186,7 +186,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Andorre</td><td>20 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
 <tr><td>Arménie</td><td>9 janvier</td><td>2006</td><td>1<sup>er</sup> mai</td><td colspan="2">2006</td></tr>
 <tr><td>Autriche</td><td>13 décembre</td><td>2013</td><td>1<sup>er</sup> avril</td><td colspan="2">2014</td></tr>
-<tr><td>Azerbaïdjan<sup>\*</sup></td><td>3 avril</td><td>2013</td><td>1<sup>er</sup> août</td><td colspan="2">2013</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>3 avril</td><td>2013</td><td>1<sup>er</sup> août</td><td colspan="2">2013</td></tr>
 <tr><td>Bélarus</td><td>5 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
 <tr><td>Belgique</td><td>26 février</td><td>2009</td><td>1<sup>er</sup> juin</td><td colspan="2">2009</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>7 septembre</td><td>2011</td><td>1<sup>er</sup> janvier</td><td colspan="2">2012</td></tr>
@@ -195,6 +195,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Croatie</td><td>10 mai</td><td>2005</td><td>1<sup>er</sup> septembre</td><td colspan="2">2005</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>16 novembre</td><td>2005</td><td>1<sup>er</sup> mars</td><td colspan="2">2006</td></tr>
 <tr><td>Espagne\*</td><td>17 janvier</td><td>2011</td><td>1<sup>er</sup> mai</td><td colspan="2">2011</td></tr>
+<tr><td>Estonie</td><td>14 décembre</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Finlande</td><td>24 juin</td><td>2011</td><td>1<sup>er</sup> octobre</td><td colspan="2">2011</td></tr>
 <tr><td>France</td><td>25 avril</td><td>2008</td><td>1<sup>er</sup> août</td><td colspan="2">2008</td></tr>
 <tr><td>Géorgie</td><td>10 janvier</td><td>2014</td><td>1<sup>er</sup> mai</td><td colspan="2">2014</td></tr>
@@ -212,9 +213,9 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Monténégro</td><td>17 mars</td><td>2008</td><td>1<sup>er</sup> juillet</td><td colspan="2">2008</td></tr>
 <tr><td>Norvège</td><td>2 mars</td><td>2004</td><td>1<sup>er</sup> février</td><td colspan="2">2005</td></tr>
 <tr><td>Pays-Bas\*</td><td>16 novembre</td><td>2005</td><td>1<sup>er</sup> mars</td><td colspan="2">2006</td></tr>
-<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td colspan="2">2010</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)\*</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td colspan="2">2010</td></tr>
 <tr><td>Pologne</td><td>30 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
-<tr><td>Portugal<sup>\*</sup></td><td>12 mars</td><td>2015</td><td>1<sup>er</sup> juillet</td><td>2015</td></tr>
+<tr><td>Portugal\*</td><td>12 mars</td><td>2015</td><td>1<sup>er</sup> juillet</td><td>2015</td></tr>
 <tr><td>République tchèque</td><td>11 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Roumanie</td><td>29 novembre</td><td>2004</td><td>1<sup>er</sup> mars</td><td colspan="2">2005</td></tr>
 <tr><td>Royaume-Uni</td><td>9 décembre</td><td>2003</td><td>1<sup>er</sup> février</td><td colspan="2">2005</td></tr>
@@ -223,14 +224,13 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Slovaquie</td><td>7 avril</td><td>2005</td><td>1<sup>er</sup> août</td><td colspan="2">2005</td></tr>
 <tr><td>Slovénie</td><td>11 octobre</td><td>2004</td><td>1<sup>er</sup> février</td><td colspan="2">2005</td></tr>
 <tr><td>Suède\*</td><td>25 juin</td><td>2004</td><td>1<sup>er</sup> février</td><td colspan="2">2005</td></tr>
-<tr><td>Suisse<sup>\*</sup> <sup>b</sup></td><td>31 mars</td><td>2006</td><td>1<sup>er</sup> juillet</td><td colspan="2">2006</td></tr>
+<tr><td>Suisse\* <sup>b</sup></td><td>31 mars</td><td>2006</td><td>1<sup>er</sup> juillet</td><td colspan="2">2006</td></tr>
 <tr><td>Turquie</td><td>16 décembre</td><td>2014</td><td>1<sup>er</sup> avril</td><td>2015</td></tr>
 <tr><td>Ukraine\*</td><td>27 novembre</td><td>2009</td><td>1<sup>er</sup> mars</td><td colspan="2">2010</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Par lettre du 8 mars 2018, la Suisse a confirmé au dépositaire qu’elle maintient sa déclaration selon l’art. 36 et ses réserves selon l’art. 37, en application de l’art. 38 de la Convention dans leur intégralité pour une nouvelle période de 3 ans, soit du 1<sup>er</sup> juillet 2018 au 1<sup>er</sup> juillet 2021, et ceci vaut également en application de l’art. 9 du Protocole additionnel.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux Îles Féroé et au Groenland. <sup>b</sup> Par lettre du 8 mars 2018, la Suisse a confirmé au dépositaire qu’elle maintient sa déclaration selon l’art. 36 et ses réserves selon l’art. 37, en application de l’art. 38 de la Convention dans leur intégralité pour une nouvelle période de 3 ans, soit du 1<sup>er</sup> juillet 2018 au 1<sup>er</sup> juillet 2021, et ceci vaut également en application de l’art. 9 du Protocole additionnel.</td></tr>
 </table>
 
-[^t-2]: [RO 2006 2393](https://fedlex.data.admin.ch/eli/oc/2006/368), [2008 4061](https://fedlex.data.admin.ch/eli/oc/2008/561), [2012 467](https://fedlex.data.admin.ch/eli/oc/2012/64), [2013 2079](https://fedlex.data.admin.ch/eli/oc/2013/435), [2015 5949](https://fedlex.data.admin.ch/eli/oc/2015/915), [2018 2701](https://fedlex.data.admin.ch/eli/oc/2018/397), [2020 3385](https://fedlex.data.admin.ch/eli/oc/2020/579). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2006 2393](https://fedlex.data.admin.ch/eli/oc/2006/368); [2008 4061](https://fedlex.data.admin.ch/eli/oc/2008/561); [2012 467](https://fedlex.data.admin.ch/eli/oc/2012/64); [2013 2079](https://fedlex.data.admin.ch/eli/oc/2013/435); [2015 5949](https://fedlex.data.admin.ch/eli/oc/2015/915); [2018 2701](https://fedlex.data.admin.ch/eli/oc/2018/397); [2020 3385](https://fedlex.data.admin.ch/eli/oc/2020/579); [2023 387](https://fedlex.data.admin.ch/eli/oc/2023/387). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclaration
 

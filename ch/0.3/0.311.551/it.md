@@ -3,11 +3,11 @@ sr: "0.311.551"
 title: Protocollo aggiuntivo del 15 maggio 2003 alla Convenzione penale sulla corruzione
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/368"
 language: it
-version: 2020-07-06
+version: 2023-07-17
 adopted: 2003-05-15
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/368/20200706/it/xml/fedlex-data-admin-ch-eli-cc-2006-368-20200706-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/368/20200706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/368/20230717/it/xml/fedlex-data-admin-ch-eli-cc-2006-368-20230717-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/368/20230717/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumenti depositati dalla Svizzera il 31 marzo 2006
 
 Entrato in vigore per la Svizzera il 1° luglio 2006
 
-(Stato 6 luglio 2020)
+(Stato 17 luglio 2023)
 
 [^t-1]: Art. 1 cpv. 2 del DF del 7 ott. 2005 ([RU 2006 2371](https://fedlex.data.admin.ch/eli/oc/2006/366)).
 
@@ -177,7 +177,7 @@ Il Segretario generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato il presente Protocollo. Fatto a Strasburgo il 15 maggio 2003, in francese e in inglese, entrambi i testi facenti ugualmente fede, in un unico esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa ne trasmetterà una copia certificata conforme a ciascuna Parte firmataria e aderente. (Seguono le firme)
 
-Campo d’applicazione il 6 luglio 2020**[^t-2]**
+Campo d’applicazione il 17 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -194,6 +194,7 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Cipro</td><td>21 novembre</td><td>2006</td><td>1° marzo</td><td>2007</td></tr>
 <tr><td>Croazia</td><td>10 maggio</td><td>2005</td><td>1° settembre</td><td>2005</td></tr>
 <tr><td>Danimarca <sup>a</sup></td><td>16 novembre</td><td>2005</td><td>1° marzo</td><td>2006</td></tr>
+<tr><td>Estonia</td><td>14 dicembre</td><td>2020</td><td>1° aprile</td><td>2021</td></tr>
 <tr><td>Finlandia</td><td>24 giugno</td><td>2011</td><td>1° ottobre</td><td>2011</td></tr>
 <tr><td>Francia</td><td>25 aprile</td><td>2008</td><td>1° agosto</td><td>2008</td></tr>
 <tr><td>Georgia</td><td>10 gennaio</td><td>2014</td><td>1° maggio</td><td>2014</td></tr>
@@ -210,8 +211,8 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Monaco</td><td>10 luglio</td><td>2013</td><td>1° novembre</td><td>2013</td></tr>
 <tr><td>Montenegro</td><td>17 marzo</td><td>2008</td><td>1° luglio</td><td>2008</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>2 marzo</td><td>2004</td><td>1° febbraio</td><td>2005</td></tr>
-<tr><td>Paesi Bassi</td><td>16 novembre</td><td>2005</td><td>1° marzo</td><td>2006</td></tr>
-<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>2010</td><td>10 ottobre</td><td>2010</td></tr>
+<tr><td>Paesi Bassi <sup>\*</sup></td><td>16 novembre</td><td>2005</td><td>1° marzo</td><td>2006</td></tr>
+<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba) <sup>\*</sup></td><td>10 ottobre</td><td>2010</td><td>10 ottobre</td><td>2010</td></tr>
 <tr><td>Polonia</td><td>30 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>12 marzo</td><td>2015</td><td>1° luglio</td><td>2015</td></tr>
 <tr><td>Regno Unito</td><td>9 dicembre</td><td>2003</td><td>1° febbraio</td><td>2005</td></tr>
@@ -226,11 +227,11 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Turchia</td><td>16 dicembre</td><td>2014</td><td>1° aprile</td><td>2015</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>27 novembre</td><td>2009</td><td>1° marzo</td><td>2010</td></tr>
 <tr><td>Ungheria</td><td>27 febbraio</td><td>2015</td><td>1° giugno</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il protocollo non vale per le isole Féroé e la Groenlandia. b Con lettera dell’8 mar. 2018 la Svizzera ha comunicato al depositario di voler mantenere la sua dichiarazione secondo l’art. 36 e le sue riserve secondo l’art. 37 della Convenzione in applicazione dell’art. 38 nella loro integralità per un nuovo periodo di tre anni, dal 1° lug. 2018 al 1° lug. 2021 e questo vale anche in applicazione dell’art. 9 del Protocollo aggiuntivo.</td></tr>
 </table>
 
-[^t-2]: [RU 2006 2393](https://fedlex.data.admin.ch/eli/oc/2006/368), [2008 4061](https://fedlex.data.admin.ch/eli/oc/2008/561), [2012 467](https://fedlex.data.admin.ch/eli/oc/2012/64), [2013 2079](https://fedlex.data.admin.ch/eli/oc/2013/435), [2015 5949](https://fedlex.data.admin.ch/eli/oc/2015/915), **2018** 270, [2020 3385](https://fedlex.data.admin.ch/eli/oc/2020/579). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2006 2393](https://fedlex.data.admin.ch/eli/oc/2006/368); [2008 4061](https://fedlex.data.admin.ch/eli/oc/2008/561); [2012 467](https://fedlex.data.admin.ch/eli/oc/2012/64); [2013 2079](https://fedlex.data.admin.ch/eli/oc/2013/435); [2015 5949](https://fedlex.data.admin.ch/eli/oc/2015/915); [2018 2701](https://fedlex.data.admin.ch/eli/oc/2018/397); [2020 3385](https://fedlex.data.admin.ch/eli/oc/2020/579); [2023 387](https://fedlex.data.admin.ch/eli/oc/2023/387). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Dichiarazione
 
