@@ -3,11 +3,11 @@ sr: "0.672.945.41"
 title: Abkommen vom 9. März 1976 zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik zur Vermeidung der Doppelbesteuerung und zur Regelung einiger anderer Fragen auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (mit Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/461_461_461"
 language: de
-version: 2016-07-13
+version: 2023-07-17
 adopted: 1976-03-09
 in_force: 1979-03-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/461_461_461/20160713/de/xml/fedlex-data-admin-ch-eli-cc-1979-461_461_461-20160713-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/461_461_461/20160713/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/461_461_461/20230717/de/xml/fedlex-data-admin-ch-eli-cc-1979-461_461_461-20230717-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/461_461_461/20230717/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1979** 461; BBl **1976** II 677
 
 Abgeschlossen am 9. März 1976 Von der Bundesversammlung genehmigt am 24. Oktober 1978[^t-1] Ratifikationsurkunden ausgetauscht am 27. März 1979 In Kraft getreten am 27. März 1979
 
-(Stand am 13. Juli 2016)
+(Stand am 17. Juli 2023)
 
 [^t-1]: [AS 1979 460](https://fedlex.data.admin.ch/eli/oc/1979/460_460_460)
 
@@ -276,9 +276,10 @@ Die zuständigen Behörden der Vertragsstaaten regeln in gegenseitigem Einverneh
 
 <sup>3.</sup> Ungeachtet der vorstehenden Bestimmungen dieses Artikels können Vergütungen für unselbständige Arbeit, die an Bord eines Schiffes oder Luftfahrzeuges im internationalen Verkehr oder an Bord eines Schiffes, das der Binnenschifffahrt dient, ausgeübt wird, in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
 
-<sup>4.</sup> Die Besteuerung der Einkünfte, die Grenzgänger als Vergütung für eine unselbständige Arbeit beziehen, richtet sich nach der Vereinbarung zwischen der Schweiz und Italien über die Besteuerung der Grenzgänger und den finanziellen Ausgleich zugunsten der italienischen Grenzgemeinden vom 3. Oktober 1974[^15-1], deren Artikel 1 bis 5 als Bestandteil dieses Abkommens gelten.
+<sup>4.</sup> Die Besteuerung der Gehälter, Löhne und ähnlichen Vergütungen, die Grenzgängerinnen und Grenzgänger aus unselbständiger Arbeit beziehen, richtet sich nach dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Besteuerung der Grenzgängerinnen und Grenzgänger, mit Zusatzprotokoll, unterzeichnet in Rom am 23. Dezember 2020[^15-1], das einen integralen Bestandteil dieses Abkommens bildet.[^15-2]
 
 [^15-1]: [SR 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410)
+[^15-2]: Fassung gemäss Art. I des Prot. vom 23. Dez. 2020, von der BVers genehmigt am 18. März 2022 und in Kraft seit 17. Juli 2023 ([AS 2023 411](https://fedlex.data.admin.ch/eli/oc/2023/411), [409](https://fedlex.data.admin.ch/eli/oc/2023/409); [BBl 2021 1917](https://fedlex.data.admin.ch/eli/fga/2021/1917)).
 
 #### Art. 16
 
@@ -442,7 +443,7 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 <sup>5.</sup> Absatz 3 ist in keinem Fall so auszulegen, als könne ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen, weil sich die Informationen bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten, Beauftragten oder Treuhänder befinden oder weil sie sich auf Eigentumsrechte an einer Person beziehen.
 
-[^27-1]: Fassung gemäss Art. I des Prot. vom 23. Febr. 2015, von der BVers genehmigt am 18. März 2016 und durch Notenaustausch in Kraft getreten am 13. Juli 2016 ([AS 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451)[2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [BBl 2015 6825](https://fedlex.data.admin.ch/eli/fga/2015/1575)). Siehe auch Art. III Abs. 2 dieses Prot. am Schluss des Textes.
+[^27-1]: Fassung gemäss Art. I des Prot. vom 23. Febr. 2015, von der BVers genehmigt am 18. März 2016 und durch Notenaustausch in Kraft getreten am 13. Juli 2016 ([AS 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451), [2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [BBl 2015 6825](https://fedlex.data.admin.ch/eli/fga/2015/1575)). Siehe auch Art. III Abs. 2 dieses Prot. am Schluss des Textes.
 
 #### Art. 28
 
@@ -485,8 +486,8 @@ Dieses Abkommen tritt mit dem Austausch der Ratifikationsurkunden in Kraft, und 
 
 <sup>4.</sup> Das am 31. Juli 1958[^30-3] in Rom unterzeichnete Abkommen zwischen der Schweiz und Italien zur Vermeidung der Doppelbesteuerung von Einkünften aus dem Betrieb der Luft-, See- und Binnenschifffahrt wird aufgehoben und gilt nicht mehr für Steuern, auf die dieses Abkommen gemäss Absatz 2 angewendet wird.
 
-[^30-1]: Fassung gemäss Art. 1 des Prot. vom 28. April 1978, von der BVers genehmigt am 15. Dez. 1978 und in Kraft getreten am 27. März 1979 ([AS 1979 484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484)[483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483); [BBl 1978 I 1454](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
-[^30-2]: Fassung gemäss Art. 1 des Prot. vom 28. April 1978, von der BVers genehmigt am 15. Dez. 1978 und in Kraft getreten am 27. März 1979 ([AS 1979 484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484)[483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483); [BBl 1978 I 1454](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
+[^30-1]: Fassung gemäss Art. 1 des Prot. vom 28. April 1978, von der BVers genehmigt am 15. Dez. 1978 und in Kraft getreten am 27. März 1979 ([AS 1979 484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484), [483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483); [BBl 1978 I 1454](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
+[^30-2]: Fassung gemäss Art. 1 des Prot. vom 28. April 1978, von der BVers genehmigt am 15. Dez. 1978 und in Kraft getreten am 27. März 1979 ([AS 1979 484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484), [483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483); [BBl 1978 I 1454](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
 [^30-3]: [[AS 1961 403](https://fedlex.data.admin.ch/eli/oc/1961/403_413_423)]
 
 #### Art. 31
@@ -498,7 +499,7 @@ Dieses Abkommen, zu dem die in Artikel 15 Absatz 4 erwähnte Vereinbarung als Be
 - a. auf die durch Abzug an der Quelle erhobenen Steuern auf Einkünften, die spätestens am 31. Dezember des Kündigungsjahres zahlbar werden;
 - b. auf die übrigen Steuern für die Steuerperioden, die spätestens am 31. Dezember desselben Jahres zu Ende gehen.
 
-[^31-1]: Fassung gemäss Art. 2 des Prot. vom 28. April 1978, von der BVers genehmigt am 15. Dez. 1978 und in Kraft getreten am 27. März 1979 ([AS 1979 484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484)[483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483); [BBl 1978 I 1454](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
+[^31-1]: Fassung gemäss Art. 2 des Prot. vom 28. April 1978, von der BVers genehmigt am 15. Dez. 1978 und in Kraft getreten am 27. März 1979 ([AS 1979 484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484), [483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483); [BBl 1978 I 1454](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
 
 *Zu Urkund dessen* haben die Bevollmächtigten der beiden Staaten dieses Abkommen unterzeichnet und mit ihren Siegeln versehen. Geschehen zu Rom am 9. März 1976 in zwei Urschriften in italienischer Sprache. Für den Schweizerischen Bundesrat: Hans-Conrad Cramer Für die Regierung der Italienischen Republik: Cesidio Guazzaroni
 
@@ -553,17 +554,25 @@ Geschehen zu Rom am 9. März 1976 in zwei Urschriften in italienischer Sprache.
 <tr><td>Für den Schweizerischen Bundesrat: Hans-Conrad Cramer</td><td>Für die Regierung der Italienischen Republik: Cesidio Guazzaroni</td></tr>
 </table>
 
-## Artikel III Absatz 2 des Protokolls vom 23. Februar 2015****
+## Artikel III Absatz 2 des Protokolls vom 23. Februar 2015
 
 [^annexu1-lvlu2-1]
 
 [^t-2]: [[AS 1974 261](https://fedlex.data.admin.ch/eli/oc/1974/261_261_261)]
 [^t-3]: [[AS 1974 261](https://fedlex.data.admin.ch/eli/oc/1974/261_261_261)]
-[^t-4]: Eingefügt durch Art. 3 des Prot. vom 28. April 1978, von der BVers genehmigt am 15. Dez. 1978 und durch Notenaustausch in Kraft getreten am 13. Juli 2016 ([AS 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451)[2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [BBl 2015 6825](https://fedlex.data.admin.ch/eli/fga/2015/1575)).
+[^t-4]: Eingefügt durch Art. 3 des Prot. vom 28. April 1978, von der BVers genehmigt am 15. Dez. 1978 und durch Notenaustausch in Kraft getreten am 13. Juli 2016 ([AS 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451), [2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [BBl 2015 6825](https://fedlex.data.admin.ch/eli/fga/2015/1575)).
 [^t-5]: Ursprünglich Bst. c.
 [^t-6]: Ursprünglich Bst. d.
-[^t-7]: Eingefügt durch Art. II des Prot. vom 23. Febr. 2015, von der BVers genehmigt am 18. März 2016 und in Kraft seit 13. Juli 2016 ([AS 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451)[2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [BBl 2015 6825](https://fedlex.data.admin.ch/eli/fga/2015/1575)). Siehe auch Art. III Abs. 2 dieses Prot. am Schluss des Textes.
+[^t-7]: Eingefügt durch Art. II des Prot. vom 23. Febr. 2015, von der BVers genehmigt am 18. März 2016 und in Kraft seit 13. Juli 2016 ([AS 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451), [2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [BBl 2015 6825](https://fedlex.data.admin.ch/eli/fga/2015/1575)). Siehe auch Art. III Abs. 2 dieses Prot. am Schluss des Textes.
 [^t-8]: Ursprünglich Bst. e.
 [^annexu1-lvlu2-1]: [AS 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451); [BBl 2015 6825](https://fedlex.data.admin.ch/eli/fga/2015/1575)
 
 \2. Die Bestimmungen des Protokolls finden Anwendung auf Ersuchen, die am Tag des Inkrafttretens des Protokolls oder danach gestellt werden für Informationen, die Tatsachen und/oder Gegebenheiten betreffen, die am Tag der Unterzeichnung des Protokolls oder danach vorliegen oder geschaffen werden.
+
+## Artikel II Ziffer 2 des Protokolls vom 23. Dezember 2020
+
+[^annexu1-lvlu3-1]
+
+[^annexu1-lvlu3-1]: [AS 2023 411](https://fedlex.data.admin.ch/eli/oc/2023/411); [BBl 2021 1917](https://fedlex.data.admin.ch/eli/fga/2021/1917)
+
+\2. Dieses Protokoll ist ab dem 1. Januar des auf das Jahr des Inkrafttretens folgenden Kalenderjahrs anwendbar.

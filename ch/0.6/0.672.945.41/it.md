@@ -3,11 +3,11 @@ sr: "0.672.945.41"
 title: Convenzione del 9 marzo 1976 tra la Confederazione Svizzera e la Repubblica italiana per evitare le doppie imposizioni e per regolare talune altre questioni in materia di imposte sul reddito e sul patrimonio (con Protocollo aggiuntivo)
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/461_461_461"
 language: it
-version: 2016-07-13
+version: 2023-07-17
 adopted: 1976-03-09
 in_force: 1979-03-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/461_461_461/20160713/it/xml/fedlex-data-admin-ch-eli-cc-1979-461_461_461-20160713-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/461_461_461/20160713/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/461_461_461/20230717/it/xml/fedlex-data-admin-ch-eli-cc-1979-461_461_461-20230717-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/461_461_461/20230717/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Conchiusa il 9 marzo 1976 Approvata dall’Assemblea federale il 24 ottobre 1978[^t-1] Istrumenti di ratificazione scambiati il 27 marzo 1979 Entrata in vigore il 27 marzo 1979
 
-(Stato 13 luglio 2016)
+(Stato 17 luglio 2023)
 
 [^t-1]: [RU 1979 460](https://fedlex.data.admin.ch/eli/oc/1979/460_460_460)
 
@@ -40,7 +40,9 @@ Hanno deciso di concludere una Convenzione ed hanno nominato a tale scopo come p
 
 (Seguono i nomi dei plenipotenziari)
 
-i quali, dopo essersi comunicati i loro pieni poteri ed averli riconosciuti in buona e dovuta forma, hanno convenuto quanto segue:
+i quali, dopo essersi comunicati i loro pieni poteri ed averli riconosciuti in buona e dovuta forma,
+
+hanno convenuto quanto segue:
 
 #### Art. 1
 
@@ -275,9 +277,9 @@ Nonostante le disposizioni del paragrafo 1, le remunerazioni che un residente di
 
 <sup>3.</sup> Nonostante le disposizioni precedenti del presente articolo, le rimunerazioni dovute per attività dipendente svolta a bordo di navi o di aeromobili in traffico internazionale o a bordo di battelli destinati alla navigazione interna sono imponibili nello Stato contraente nel quale è situata la sede della direzione effettiva dell’impresa.
 
-<sup>4.</sup> Il regime fiscale applicabile ai redditi ricevuti in corrispettivo di un’attività dipendente dei lavoratori frontalieri è regolato dall’Accordo tra la Svizzera e l’Italia relativo alla imposizione dei lavoratori frontalieri ed alla compensazione finanziaria a favore dei Comuni italiani di confine, del 3 ottobre 1974[^15-1], i cui articoli da 1 a 5 costituiscono parte integrante della presente Convenzione.
+<sup>4.</sup> Il regime fiscale applicabile ai salari, agli stipendi ed alle altre remunerazioni analoghe ricevuti in corrispettivo di un’attività dipendente dai lavoratori frontalieri è regolato dall’Accordo tra la Confederazione Svizzera e la Repubblica Italiana, con Protocollo aggiuntivo, relativo all’imposizione dei lavoratori frontalieri, firmato a Roma, il 23 dicembre 2020, che costituisce parte integrante della presente Convenzione.[^15-1]
 
-[^15-1]: [RS 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410)
+[^15-1]: Nuovo testo giusta l’art. I del Prot. del 23 dic. 2020, accettato dall’AF il 18 mar. 2022 ed in vigore dal 17 lug. 2023 ([RU 2023 411](https://fedlex.data.admin.ch/eli/oc/2023/411), [409](https://fedlex.data.admin.ch/eli/oc/2023/409); [FF 2021 1917](https://fedlex.data.admin.ch/eli/fga/2021/1917)).
 
 #### Art. 16
 
@@ -438,7 +440,7 @@ Le disposizioni dei paragrafi 1 e 2 non possono in nessun caso essere interpreta
 
 <sup>5.</sup> In nessun caso le disposizioni del paragrafo 3 devono essere interpretate nel senso che uno Stato contraente può rifiutare di comunicare informazioni unicamente perché queste sono detenute da una banca, un altro istituto finanziario, un mandatario o una persona che opera in qualità di agente o fiduciario oppure perché dette informazioni si riferiscono a diritti di proprietà in una persona.
 
-[^27-1]: Nuovo testo giusta l’art. I del Prot. del 23 feb. 2015, approvato dall’AF il 18 mar. 2016 e in vigore mediante scambio di note dal 13 lug. 2016 ([RU 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451)[2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [FF 2015 5631](https://fedlex.data.admin.ch/eli/fga/2015/1575)). Vedi anche l’art. III par. 2 del Prot. del 23 feb. 2015 alla fine del presente testo.
+[^27-1]: Nuovo testo giusta l’art. I del Prot. del 23 feb. 2015, approvato dall’AF il 18 mar. 2016, in vigore dal 13 lug. 2016 ([RU 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451), [2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [FF 2015 5631](https://fedlex.data.admin.ch/eli/fga/2015/1575)). Vedi anche l’art. III par. 2 del Prot. del 23 feb. 2015 alla fine del presente testo.
 
 #### Art. 28
 
@@ -481,8 +483,8 @@ La presente Convenzione entrerà in vigore alla data dello scambio degli strumen
 
 <sup>4.</sup> La Convenzione tra la Svizzera e l’Italia per evitare la doppia imposizione dei redditi derivanti dalla navigazione aerea, marittima e lacuale, firmata a Roma il 31 luglio 1958[^30-3], è abrogata e cessa di produrre i suoi effetti per le imposte cui si applica la presente Convenzione conformemente al paragrafo 2.
 
-[^30-1]: Nuovo testo giusta l’art. 1 del Prot. del 28 apr. 1978, approvato dall’AF il 15 dic. 1978 e in vigore dal 27 mar. 1979 ([RU 1979 483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483)[484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484); [FF 1978 I 1370](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
-[^30-2]: Nuovo testo giusta l’art. 1 del Prot. del 28 apr. 1978, approvato dall’AF il 15 dic. 1978 e in vigore dal 27 mar. 1979 ([RU 1979 483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483)[484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484); [FF 1978 I 1370](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
+[^30-1]: Nuovo testo giusta l’art. 1 del Prot. del 28 apr. 1978, approvato dall’AF il 15 dic. 1978, in vigore dal 27 mar. 1979 ([RU 1979 483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483)[484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484); [FF 1978 I 1370](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
+[^30-2]: Nuovo testo giusta l’art. 1 del Prot. del 28 apr. 1978, approvato dall’AF il 15 dic. 1978, in vigore dal 27 mar. 1979 ([RU 1979 483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483)[484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484); [FF 1978 I 1370](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
 [^30-3]: [[RU 1961 423](https://fedlex.data.admin.ch/eli/oc/1961/403_413_423)]
 
 #### Art. 31
@@ -494,7 +496,7 @@ La presente Convenzione, di cui all’Accordo citato nel paragrafo 4 dell’arti
 - a. alle imposte riscosse mediante ritenuta alla fonte sui redditi pagabili al più tardi il 31 dicembre dell’anno della denuncia;
 - b. alle altre imposte di periodi imponibili che si chiudono al più tardi il 31 dicembre dello stesso anno.
 
-[^31-1]: Nuovo testo giusta l’art. 2 del Prot. del 28 apr. 1978, approvato dall’AF il 15 dic. 1978 e in vigore dal 27 mar. 1979 ([RU 1979 483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483)[484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484); [FF 1978 I 1370](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
+[^31-1]: Nuovo testo giusta l’art. 2 del Prot. del 28 apr. 1978, approvato dall’AF il 15 dic. 1978, in vigore dal 27 mar. 1979 ([RU 1979 483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483)[484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484); [FF 1978 I 1370](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
 
 *In fede di che* i plenipotenziari dei due Stati hanno firmato la presente Convenzione e vi hanno apposto i loro sigilli. Fatto a Roma il 9 marzo 1976 in due originali in lingua italiana. Per il Consiglio federale svizzero: Hans‑Conrad Cramer Per il Governo della Repubblica italiana: Cesidio Guazzaroni
 
@@ -548,16 +550,24 @@ Fatto a Roma il 9 marzo 1976 in due originali in lingua italiana.
 <tr><td>Per il Consiglio federale svizzero: Hans‑Conrad Cramer</td><td>Per il Governo della Repubblica italiana: Cesidio Guazzaroni</td></tr>
 </table>
 
-## Articolo III paragrafo 2 del Protocollo del 23 febbraio 2015****
+## Articolo III paragrafo 2 del Protocollo del 23 febbraio 2015
 
 [^annexu1-lvlu2-1]
 
 [^t-2]: [[RU 1974 261](https://fedlex.data.admin.ch/eli/oc/1974/261_261_261)]
-[^t-3]: Introdotta dall’art. 3 del Prot. del 28 apr. 1978, approvato dall’AF il 15 dic. 1978 e in vigore dal 27 mar. 1979 ([RU 1979 483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483)[484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484); [FF 1978 I 1370](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
+[^t-3]: Introdotta dall’art. 3 del Prot. del 28 apr. 1978, approvato dall’AF il 15 dic. 1978, in vigore dal 27 mar. 1979 ([RU 1979 483](https://fedlex.data.admin.ch/eli/oc/1979/483_483_483)[484](https://fedlex.data.admin.ch/eli/oc/1979/484_484_484); [FF 1978 I 1370](https://fedlex.data.admin.ch/eli/fga/1978/1_1454_1454_1370)).
 [^t-4]: Lettera c originaria.
 [^t-5]: Lettera d originaria.
-[^t-6]: Introdotta dall’art. II del Prot. del 23 feb. 2015, approvato dall’AF il 18 mar. 2016 e in vigore mediante scambio di note dal 13 lug. 2016 ([RU 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451)[2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [FF 2015 5631](https://fedlex.data.admin.ch/eli/fga/2015/1575)). Vedi anche l’art. III par. 2 del Prot. del 23 feb. 2015 alla fine del presente testo.
-[^t-7]: Lettera e originaria.
+[^t-6]: Introdotta dall’art. II del Prot. del 23 feb. 2015, approvato dall’AF il 18 mar. 2016, in vigore dal 13 lug. 2016 ([RU 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451)[2767](https://fedlex.data.admin.ch/eli/oc/2016/450); [FF 2015 5631](https://fedlex.data.admin.ch/eli/fga/2015/1575)). Vedi anche l’art. III par. 2 del Prot. del 23 feb. 2015 alla fine del presente testo.
+[^t-7]: Lett. e originaria.
 [^annexu1-lvlu2-1]: [RU 2016 2769](https://fedlex.data.admin.ch/eli/oc/2016/451); [FF 2015 5631](https://fedlex.data.admin.ch/eli/fga/2015/1575)
 
 \2. Le disposizioni del presente Protocollo di modifica sono applicabili alle domande di informazioni presentate alla data dell’entrata in vigore del Protocollo di modifica, o dopo tale data, che si riferiscono a fatti e, o, circostanze esistenti o realizzate il giorno della firma del Protocollo di modifica, o dopo questa data.
+
+## Articolo II paragrafo 2 del Protocollo del 23 dicembre 2020
+
+[^annexu1-lvlu3-1]
+
+[^annexu1-lvlu3-1]: [RU 2023 411](https://fedlex.data.admin.ch/eli/oc/2023/411); [FF 2021 1917](https://fedlex.data.admin.ch/eli/fga/2021/1917)
+
+\2. Il presente Protocollo si applica dal primo giorno di gennaio dell’anno civile successivo a quello dell’entrata in vigore dell’Accordo.
