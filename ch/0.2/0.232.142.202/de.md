@@ -3,18 +3,18 @@ sr: "0.232.142.202"
 title: Übereinkommen vom 17. Oktober 2000 über die Anwendung des Artikels 65 des Übereinkommens über die Erteilung europäischer Patente (Sprachenübereinkommen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/252"
 language: de
-version: 2019-03-19
+version: 2023-07-17
 adopted: 2000-10-17
 in_force: 2008-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/252/20190319/de/xml/fedlex-data-admin-ch-eli-cc-2008-252-20190319-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/252/20190319/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/252/20230717/de/xml/fedlex-data-admin-ch-eli-cc-2008-252-20230717-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/252/20230717/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen über die Anwendung des Artikels 65 des Übereinkommens über die Erteilung europäischer Patente
 
-AS **2008** 1741; BBl **2005** 3773
+AS **2008** 1741
 
 Originaltext
 
@@ -28,7 +28,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 12. Juni 2006
 
 Inkrafttreten für die Schweiz am 1. Mai 2008
 
-(Stand am 19. März 2019)
+(Stand am 17. Juli 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 16. Dez. 2005 ([AS 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251))
 
@@ -142,11 +142,12 @@ Dieses Übereinkommen ist in einer Urschrift in deutscher, englischer und franz�
 
 *Zu Urkund dessen* haben die hierzu ernannten Bevollmächtigten nach Vorlage ihrer in guter und gehöriger Form befundenen Vollmachten dieses Übereinkommen unterschrieben. Geschehen zu London am 17. Oktober 2000 in einer Urschrift in deutscher, englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. (Es folgen die Unterschriften)
 
-Geltungsbereich am 19. März 2019**[^t-2]**
+Geltungsbereich am 17. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>31. Mai</td><td>2013 B</td><td>1. September</td><td>2013</td></tr>
+<tr><td>Belgien</td><td>2. Mai</td><td>2019 B</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Dänemark</td><td>18. Januar</td><td>2008</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Deutschland</td><td>19. Februar</td><td>2004</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Finnland</td><td>25. Juli</td><td>2011 B</td><td>1. November</td><td>2011</td></tr>
@@ -167,7 +168,7 @@ Geltungsbereich am 19. März 2019**[^t-2]**
 <tr><td>Slowenien</td><td>18. September</td><td>2002 B</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Ungarn</td><td>28. September</td><td>2010 B</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>15. August</td><td>2005</td><td>1. Mai</td><td>2008</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der deutscher Regierung: www.diplo.de/vertraege eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.</td></tr>
 </table>
 
-[^t-2]: [AS 2008 1741](https://fedlex.data.admin.ch/eli/oc/2008/252), [2011 3301](https://fedlex.data.admin.ch/eli/oc/2011/439), [2014 485](https://fedlex.data.admin.ch/eli/oc/2014/89), [2019 1067](https://fedlex.data.admin.ch/eli/oc/2019/198). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2008 1741](https://fedlex.data.admin.ch/eli/oc/2008/252), [2011 3301](https://fedlex.data.admin.ch/eli/oc/2011/439), [2014 485](https://fedlex.data.admin.ch/eli/oc/2014/89), [2019 1067](https://fedlex.data.admin.ch/eli/oc/2019/198), [2023 386](https://fedlex.data.admin.ch/eli/oc/2023/386). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).

@@ -3,11 +3,11 @@ sr: "0.232.142.202"
 title: "Accordo del 17 ottobre 2000 relativo all'applicazione dell'articolo 65 della Convenzione sul brevetto europeo (Accordo sulle lingue)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/252"
 language: it
-version: 2019-03-19
+version: 2023-07-17
 adopted: 2000-10-17
 in_force: 2008-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/252/20190319/it/xml/fedlex-data-admin-ch-eli-cc-2008-252-20190319-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/252/20190319/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/252/20230717/it/xml/fedlex-data-admin-ch-eli-cc-2008-252-20230717-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/252/20230717/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumenti depositati dalla Svizzera il 12 giugno 2006
 
 Entrato in vigore per la Svizzera il 1° maggio 2008
 
-(Stato 19 marzo 2019)
+(Stato 17 luglio 2023)
 
 [^t-1]: Art. 1 del DCF del 16 dic. 2008 ([RU 2005 1739](https://fedlex.data.admin.ch/eli/oc/2005/275)).
 
@@ -142,11 +142,12 @@ Il Governo della Repubblica federale di Germania notifica ai Governi degli Stati
 
 *In fede di che*, i plenipotenziari designati a tale scopo, dopo aver presentato i loro pieni poteri, riconosciuti in buona e debita forma, hanno firmato il presente Accordo. Fatto a Londra il 17 ottobre 2000 in un esemplare originale nelle lingue tedesca, inglese e francese, i tre testi facenti ugualmente fede. (*Seguono le firme*)
 
-Campo d’applicazione il 19 marzo 2019**[^t-2]**
+Campo d’applicazione il 17 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>31 maggio</td><td>2013 A</td><td>1° settembre</td><td>2013</td></tr>
+<tr><td>Belgio</td><td>2 maggio</td><td>2019 A</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Croazia</td><td>31 ottobre</td><td>2007 A</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Danimarca</td><td>18 gennaio</td><td>2008</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Finlandia</td><td>25 luglio</td><td>2011 A</td><td>1° novembre</td><td>2011</td></tr>
@@ -167,7 +168,7 @@ Campo d’applicazione il 19 marzo 2019**[^t-2]**
 <tr><td>Svezia</td><td>29 aprile</td><td>2008</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Svizzera</td><td>12 giugno</td><td>2006</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Ungheria</td><td>28 settembre</td><td>2010 A</td><td>1° gennaio</td><td>2011</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Governo tedesco: www.diplo.de/vertraege oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, op-pure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2008 1741](https://fedlex.data.admin.ch/eli/oc/2008/252), [2011 3301](https://fedlex.data.admin.ch/eli/oc/2011/439), [2014 485](https://fedlex.data.admin.ch/eli/oc/2014/89), [2019 1067](https://fedlex.data.admin.ch/eli/oc/2019/198). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2008 1741](https://fedlex.data.admin.ch/eli/oc/2008/252); [2011 3301](https://fedlex.data.admin.ch/eli/oc/2011/439); [2014 485](https://fedlex.data.admin.ch/eli/oc/2014/89); [2019 1067](https://fedlex.data.admin.ch/eli/oc/2019/198); [2023 386](https://fedlex.data.admin.ch/eli/oc/2023/386). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
