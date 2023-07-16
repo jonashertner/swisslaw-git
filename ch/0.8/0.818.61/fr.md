@@ -3,26 +3,28 @@ sr: "0.818.61"
 title: Arrangement international du 10 février 1937 concernant le transport des corps
 eli: "https://fedlex.data.admin.ch/eli/cc/56/1198_1258_1314"
 language: fr
-version: 2005-04-29
+version: 2023-07-17
 adopted: 1937-02-10
 in_force: 1940-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/1198_1258_1314/20050429/fr/xml/fedlex-data-admin-ch-eli-cc-56-1198_1258_1314-20050429-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/56/1198_1258_1314/20050429/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/1198_1258_1314/20230717/fr/xml/fedlex-data-admin-ch-eli-cc-56-1198_1258_1314-20230717-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/56/1198_1258_1314/20230717/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Arrangement international concernant le transport des corps
 
-[^t-1]rs (Etat le 24 mai 2005)0.818.61
+RS **12** 421
 
 Texte original
 
-Conclu le 10 février 1937 Instrument de ratification déposé par la Suisse le 21 septembre 1939 Entré en vigueur pour la Suisse le 19 janvier 1940
+Conclu le 10 février 1937
 
-(Etat le 24 mai 2005)
+Instrument de ratification déposé par la Suisse le 21 septembre 1939
 
-[^t-1]: RS **12** 421
+Entré en vigueur pour la Suisse le 19 janvier 1940
+
+(État le 17 juillet 2023)
 
 Désireux d’éviter les inconvénients résultant des divergences dans les règlements relatifs au transport des corps, et vu l’intérêt qu’il y aurait à établir une réglementation uniforme à cet égard, les Gouvernements soussignés s’engagent à accepter l’entrée ou le passage en transit sur leurs territoires respectifs des corps de personnes décédées sur le territoire d’un des autres pays contractants, à la condition que les prescriptions suivantes soient observées:
 
@@ -156,9 +158,7 @@ Le Gouvernement de chacun des Pays participant au présent Arrangement pourra, �
 
 La signature du présent Arrangement ne pourra être accompagnée d’aucune réserve qui n’aura pas été préalablement approuvée par les Hautes Parties contractantes déjà signataires. De même, il ne sera pris acte de ratifications ni d’adhésions accompagnées de réserves qui n’auront pas été approuvées préalablement par tous les pays participant à la Convention.
 
-*En foi de quoi*, les Plénipotentiaires respectifs, munis de pleins pouvoirs reconnus en bonne et due forme, ont signé le présent Arrangement. Fait à Berlin, le 10 février 1937 en un seul exemplaire, qui restera déposé dans les archives du Gouvernement allemand et dont des copies, certifiées conformes, seront remises par la voie diplomatique à chacune des Hautes Parties contractantes.
-
-(Suivent les signatures)
+*En foi de quoi*, les Plénipotentiaires respectifs, munis de pleins pouvoirs reconnus en bonne et due forme, ont signé le présent Arrangement. Fait à Berlin, le 10 février 1937 en un seul exemplaire, qui restera déposé dans les archives du Gouvernement allemand et dont des copies, certifiées conformes, seront remises par la voie diplomatique à chacune des Hautes Parties contractantes. (Suivent les signatures)
 
 Annexe
 
@@ -166,10 +166,10 @@ Annexe
 
 <table>
 <tr><td>Toutes les prescriptions légales relatives à la mise en cercueil ayant été observées,</td></tr>
-<tr><td>le corps de ........................................................................................ (nom, prénom et</td></tr>
+<tr><td>le corps de (nom, prénom et</td></tr>
 <tr><td>profession du défunt; pour les enfants, profession des père et mère), décédé</td></tr>
-<tr><td>le ............................................... , à , part suite</td></tr>
-<tr><td>de .......................................... (cause du décès), à l’âge de .............................. ans</td></tr>
+<tr><td>le , à , part suite</td></tr>
+<tr><td>de (cause du décès), à l’âge de ans</td></tr>
 <tr><td>(date précise de la naissance, si possible), doit être transporté</td></tr>
 <tr><td>(indication du moyen de transport), de (lieu</td></tr>
 <tr><td>de départ), par (route), à</td></tr>
@@ -178,22 +178,25 @@ Annexe
 
 Le transport de ce corps ayant été autorisé, toutes les autorités des pays sur le territoire desquels le transport doit avoir lieu sont invitées à le laisser passer librement et sans obstacle.
 
-## Champ d’application le 29 avril 2005
+Champ d’application le 17 juillet 2023[^t-1]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>1<sup>er</sup> février</td><td>1938</td><td>1<sup>er</sup> juin</td><td>1938</td></tr>
 <tr><td>Autriche</td><td>14 mai</td><td>1958 A</td><td>11 septembre</td><td>1958</td></tr>
 <tr><td>Belgique</td><td>11 octobre</td><td>1938</td><td>8 février</td><td>1939</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>22 mai</td><td>1962 S</td><td>30 juin</td><td>1960</td></tr>
-<tr><td>Egypte</td><td>1<sup>er</sup> novembre</td><td>1937</td><td>1<sup>er</sup> juin</td><td>1938</td></tr>
+<tr><td>Égypte</td><td>1<sup>er</sup> novembre</td><td>1937</td><td>1<sup>er</sup> juin</td><td>1938</td></tr>
 <tr><td>France</td><td>20 juillet</td><td>1937</td><td>1<sup>er</sup> juin</td><td>1938</td></tr>
 <tr><td>Italie</td><td>21 décembre</td><td>1937</td><td>1<sup>er</sup> juin</td><td>1938</td></tr>
 <tr><td>Mexique</td><td>17 février</td><td>1938 A</td><td>17 juin</td><td>1938</td></tr>
 <tr><td>Portugal</td><td>20 avril</td><td>1970 A</td><td>18 août</td><td>1970</td></tr>
 <tr><td>République tchèque</td><td>30 décembre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>18 novembre</td><td>1942 A</td><td>18 mars</td><td>1943</td></tr>
+<tr><td>Saint-Marin</td><td>15 juin</td><td>2023</td><td>13 octobre</td><td>2023</td></tr>
 <tr><td>Slovaquie</td><td>2 mai</td><td>1994 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Suisse</td><td>21 septembre</td><td>1939</td><td>19 janvier</td><td>1940</td></tr>
 <tr><td>Turquie</td><td>24 août</td><td>1959</td><td>22 décembre</td><td>1959</td></tr>
 </table>
+
+[^t-1]: RS **12** 421; [RO 1973 1785](https://fedlex.data.admin.ch/eli/oc/1973/1785_1785_1785); [2005 2195](https://fedlex.data.admin.ch/eli/oc/2005/363); [2023 390](https://fedlex.data.admin.ch/eli/oc/2023/390). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

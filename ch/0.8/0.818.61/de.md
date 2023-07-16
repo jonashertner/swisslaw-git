@@ -3,11 +3,11 @@ sr: "0.818.61"
 title: Internationales Abkommen vom 10. Februar 1937 über Leichenbeförderung
 eli: "https://fedlex.data.admin.ch/eli/cc/56/1198_1258_1314"
 language: de
-version: 2005-04-29
+version: 2023-07-17
 adopted: 1937-02-10
 in_force: 1940-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/1198_1258_1314/20050429/de/xml/fedlex-data-admin-ch-eli-cc-56-1198_1258_1314-20050429-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/56/1198_1258_1314/20050429/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/1198_1258_1314/20230717/de/xml/fedlex-data-admin-ch-eli-cc-56-1198_1258_1314-20230717-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/56/1198_1258_1314/20230717/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,13 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/56/1198_1258_1314/20050429/de"
 
 BS **12** 460
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen am 10. Februar 1937 Schweizerische Ratifikationsurkunde hinterlegt am 21. September 1939 In Kraft getreten für die Schweiz am 19. Januar 1940
 
-(Stand am 24. Mai 2005)
-
-[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
+(Stand am 17. Juli 2023)
 
 In dem Wunsche, die sich aus der Verschiedenheit der Bestimmungen über Leichenbeförderung ergebenden Unzuträglichkeiten zu vermeiden, und in Anbetracht der Zweckmässigkeit einer allgemeinen Regelung dieser Frage verpflichten sich die unterzeichneten Regierungen, Leichen solcher Personen, die auf dem Gebiete eines der anderen Vertragsstaaten verstorben sind, in ihr Gebiet oder durch ihr Gebiet befördern zu lassen unter der Bedingung, dass folgende Vorschriften beachtet werden:
 
@@ -175,10 +173,10 @@ Anlage
 
 Da diese Leichenbeförderung genehmigt ist, werden alle Behörden der Länder, auf deren Gebiet der Transport stattfinden soll, gebeten, ihn frei und ungehindert passieren zu lassen.
 
-### Geltungsbereich am 29. April 2005
+Geltungsbereich am 17. Juli 2023[^t-1]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>In-Kraft-Treten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten</td><td>1. November</td><td>1937</td><td>1. Juni</td><td>1938</td></tr>
 <tr><td>Belgien</td><td>11. Oktober</td><td>1938</td><td>8. Februar</td><td>1939</td></tr>
 <tr><td>Deutschland</td><td>1. Februar</td><td>1938</td><td>1. Juni</td><td>1938</td></tr>
@@ -189,8 +187,11 @@ Da diese Leichenbeförderung genehmigt ist, werden alle Behörden der Länder, a
 <tr><td>Österreich</td><td>14. Mai</td><td>1958 B</td><td>11. September</td><td>1958</td></tr>
 <tr><td>Portugal</td><td>20. April</td><td>1970 B</td><td>18. August</td><td>1970</td></tr>
 <tr><td>Rumänien</td><td>18. November</td><td>1942 B</td><td>18. März</td><td>1943</td></tr>
+<tr><td>San Marino</td><td>15. Juni</td><td>2023</td><td>13. Oktober</td><td>2023</td></tr>
 <tr><td>Schweiz</td><td>21. September</td><td>1939</td><td>19. Januar</td><td>1940</td></tr>
 <tr><td>Slowakei</td><td>2. Mai</td><td>1994 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Tschechische Republik</td><td>30. Dezember</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Türkei</td><td>24. August</td><td>1959</td><td>22. Dezember</td><td>1959</td></tr>
 </table>
+
+[^t-1]: BS **12** 460; [AS 1973 1785](https://fedlex.data.admin.ch/eli/oc/1973/1785_1785_1785); [2005 2195](https://fedlex.data.admin.ch/eli/oc/2005/363); [2023 390](https://fedlex.data.admin.ch/eli/oc/2023/390). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

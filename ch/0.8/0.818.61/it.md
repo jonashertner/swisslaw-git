@@ -3,11 +3,11 @@ sr: "0.818.61"
 title: Convenzione internazionale del 10 febbraio 1937 concernente il trasporto dei cadaveri
 eli: "https://fedlex.data.admin.ch/eli/cc/56/1198_1258_1314"
 language: it
-version: 2005-04-29
+version: 2023-07-17
 adopted: 1937-02-10
 in_force: 1940-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/1198_1258_1314/20050429/it/xml/fedlex-data-admin-ch-eli-cc-56-1198_1258_1314-20050429-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/56/1198_1258_1314/20050429/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/1198_1258_1314/20230717/it/xml/fedlex-data-admin-ch-eli-cc-56-1198_1258_1314-20230717-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/56/1198_1258_1314/20230717/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/56/1198_1258_1314/20050429/it"
 
 CS **12** 435
 
-Traduzione*[^t-1]*
+Traduzione
 
 Conchiusa il 10 febbraio 1937 Ratificazione depositata dalla Svizzera il 21 settembre 1939
 
 Entrata in vigore per la Svizzera il 19 gennaio 1940
 
-(Stato 24 maggio 2005)
-
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+(Stato 17 luglio 2023)
 
 Animati dal desiderio di evitare gli inconvenienti causati dalle differenze esistenti fra i diversi regolamenti relativi al trasporto dei cadaveri e tenuto conto dell’opportunità di creare in questo campo un regolamento uniforme i Governi firmatari dichiarano di impegnarsi ad ammettere l’entrata o il passaggio in transito, sui loro rispettivi territori, dei cadaveri di persone morte sul territorio di uno degli altri paesi contraenti, a condizione, tuttavia, che siano osservate le prescrizioni seguenti:
 
@@ -176,7 +174,11 @@ Allegato
 
 Siccome il trasporto di questo cadavere è stato autorizzato, tutte le autorità dei paesi sul cui territorio deve aver luogo il trasporto sono invitate a lasciarlo passare liberamente e senza ostacoli.
 
-### Campo d’applicazione il 29 aprile 2005
+### Campo d’applicazione il 17 luglio 2023
+
+[^annexu1-lvlu1-lvlu1-1]
+
+[^annexu1-lvlu1-lvlu1-1]: CS **12** 435; [RU 1973 1785](https://fedlex.data.admin.ch/eli/oc/1973/1785_1785_1785); [2005 2195](https://fedlex.data.admin.ch/eli/oc/2005/363); [2023 390](https://fedlex.data.admin.ch/eli/oc/2023/390). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -191,6 +193,7 @@ Siccome il trasporto di questo cadavere è stato autorizzato, tutte le autorità
 <tr><td>Portogallo</td><td>20 aprile</td><td>1970 A</td><td>18 agosto</td><td>1970</td></tr>
 <tr><td>Repubblica Ceca</td><td>30 dicembre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Romania</td><td>18 novembre</td><td>1942 A</td><td>18 marzo</td><td>1943</td></tr>
+<tr><td>San Marino</td><td>15 giugno</td><td>2023</td><td>13 ottobre</td><td>2023</td></tr>
 <tr><td>Slovacchia</td><td>2 maggio</td><td>1994 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Svizzera</td><td>21 settembre</td><td>1939</td><td>19 gennaio</td><td>1940</td></tr>
 <tr><td>Turchia</td><td>24 agosto</td><td>1959</td><td>22 dicembre</td><td>1959</td></tr>
