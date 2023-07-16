@@ -3,11 +3,11 @@ sr: "0.311.611"
 title: Zusatzprotokoll vom 22. Oktober 2015 zum Übereinkommen des Europarats zur Verhütung des Terrorismus
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/387"
 language: de
-version: 2021-07-01
+version: 2023-07-17
 adopted: 2015-10-22
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/387/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2021-387-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/387/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/387/20230717/de/xml/fedlex-data-admin-ch-eli-cc-2021-387-20230717-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/387/20230717/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 25. März 2021
 
 In Kraft getreten am 1. Juli 2021
 
-(Stand am 1. Juli 2021)
+(Stand am 17. Juli 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 25. Sept. 2020 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360))
 
@@ -180,26 +180,31 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Riga am 22. Oktober 2015 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, der Europäischen Union, den Nichtmitgliedstaaten, die sich an der Ausarbeitung des Protokolls beteiligt haben, und allen zum Beitritt zu ihm eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 21. Juni 2021
+Geltungsbereich am 17. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>6. Juni</td><td>2016</td><td>1. Juli</td><td>2017</td></tr>
+<tr><td>Andorra</td><td>18. Oktober</td><td>2022</td><td>1. Februar</td><td>2023</td></tr>
+<tr><td>Armenien</td><td>4. Mai</td><td>2022</td><td>1. September</td><td>2022</td></tr>
+<tr><td>Belgien<sup>\*</sup></td><td>11. Mai</td><td>2023</td><td>1. September</td><td>2023</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>29. März</td><td>2017</td><td>1. Juli</td><td>2017</td></tr>
 <tr><td>Deutschland</td><td>30. August</td><td>2019</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Dänemark \*</td><td>3. November</td><td>2016</td><td>1. Juli</td><td>2017</td></tr>
 <tr><td>Europäische Union (EU)</td><td>26. Juni</td><td>2018</td><td>1. Oktober</td><td>2018</td></tr>
+<tr><td>Finnland<sup>\*</sup></td><td>21. April</td><td>2023</td><td>1. August</td><td>2023</td></tr>
 <tr><td>Frankreich</td><td>12. Oktober</td><td>2017</td><td>1. Februar</td><td>2018</td></tr>
 <tr><td>Italien</td><td>21. Februar</td><td>2017</td><td>1. Juli</td><td>2017</td></tr>
 <tr><td>Kroatien</td><td>15. März</td><td>2021</td><td>1. Juli</td><td>2021</td></tr>
 <tr><td>Lettland</td><td>11. Juli</td><td>2017</td><td>1. November</td><td>2017</td></tr>
 <tr><td>Litauen</td><td>26. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Luxemburg</td><td>27. Februar</td><td>2023</td><td>1. Juni</td><td>2023</td></tr>
 <tr><td>Moldau \*</td><td>23. Februar</td><td>2017</td><td>1. Juli</td><td>2017</td></tr>
 <tr><td>Monaco</td><td>4. Oktober</td><td>2016</td><td>1. Juli</td><td>2017</td></tr>
 <tr><td>Montenegro</td><td>6. Oktober</td><td>2017</td><td>1. Februar</td><td>2018</td></tr>
 <tr><td>Niederlande</td><td>2. Juni</td><td>2021</td><td>1. Oktober</td><td>2021</td></tr>
-<tr><td>Niederlande</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>2. Juni</td><td>2021</td><td>1. Oktober</td><td>2021</td></tr>
+<tr><td>Norwegen</td><td>8. Juni</td><td>2023</td><td>1. Oktober</td><td>2023</td></tr>
 <tr><td>Portugal</td><td>13. März</td><td>2018</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Russland \*</td><td>24. Januar</td><td>2020</td><td>1. Mai</td><td>2020</td></tr>
 <tr><td>San Marino</td><td>12. Januar</td><td>2021</td><td>1. Mai</td><td>2021</td></tr>
@@ -210,5 +215,7 @@ Geltungsbereich am 21. Juni 2021
 <tr><td>Tschechische Republik</td><td>21. September</td><td>2017</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Türkei</td><td>13. Februar</td><td>2018</td><td>1. Juni</td><td>2018</td></tr>
 <tr><td>Ungarn</td><td>31. August</td><td>2018</td><td>1. Dezember</td><td>2018</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [https://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden [tab]</td></tr>
 </table>
+
+[^t-2]: [AS 2021 387](https://fedlex.data.admin.ch/eli/oc/2021/387); [2023 394](https://fedlex.data.admin.ch/eli/oc/2023/394). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
