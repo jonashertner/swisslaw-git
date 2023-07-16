@@ -3,18 +3,18 @@ sr: "935.22"
 title: "Loi fédérale du 30 septembre 2011 encourageant l'innovation, la coopération et la professionnalisation dans le domaine du tourisme"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/75"
 language: fr
-version: 2017-01-01
+version: 2023-07-17
 adopted: 2011-09-30
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/75/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-75-20170101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/75/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/75/20230717/fr/xml/fedlex-data-admin-ch-eli-cc-2012-75-20230717-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/75/20230717/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale encourageant l’innovation, la coopération et la professionnalisation dans le domaine du tourisme****
+# Loi fédérale encourageant l’innovation, la coopération et la professionnalisation dans le domaine du tourisme
 
-du 30 septembre 2011 (Etat le 1<sup>er</sup> janvier 2017)[^t-1]
+du 30 septembre 2011 (État le 17 juillet 2023)[^t-1]
 
 [^t-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -48,7 +48,7 @@ La Confédération peut soutenir des projets poursuivant les buts suivants:
 
 <sup>2</sup> Elle concentre la majeure partie des crédits disponibles sur quelques projets importants.
 
-[^2-1]: Nouvelle teneur selon le ch. 45 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 45 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 3
 
@@ -85,11 +85,35 @@ Les projets doivent débuter dans un délai de six mois à compter de l’octroi
 
 <sup>2</sup> Lorsque les promoteurs d’un projet donné peuvent prétendre à plusieurs subventions fédérales, l’ensemble de l’aide financière allouée par la Confédération ne doit pas dépasser 50 % du coût total.
 
+#### Art. 5a
+
+**Augmentation temporaire de l’aide financière**[^5a-1]
+
+<sup>1</sup> En ce qui concerne les projets qui occasionnent des frais entre 2023 et 2026, la Confédération peut, à la demande des promoteurs, les soutenir au moyen d’une aide financière couvrant 70 % au plus des frais imputables.
+
+<sup>2</sup>
+
+L’al. 1 est applicable aux projets suivants:
+
+- a. les nouveaux projets pour lesquels une demande d’aide financière est déposée après le début du délai référendaire relatif à la modification du 17 mars 2023 de la présente loi et avant le 31 décembre 2026;
+- b.
+
+  les projets en cours pour lesquels une aide financière a été octroyée avant l’entrée en vigueur du présent article, pour autant que le bénéficiaire de la contribution démontre:
+
+  - 1\. que l’augmentation du taux de subventionnement apporte une plus-value au projet, ou
+  - 2\. que le projet ne peut être mené à bien comme prévu sans l’augmentation du taux de subventionnement, en raison des conséquences de la pandémie de COVID-19.
+
+<sup>3</sup> Si la mise en œuvre d’un projet débute avant le 1<sup>er</sup> janvier 2023 ou se prolonge au-delà du 31 décembre 2026, le taux de subventionnement est fixé en fonction de l’année durant laquelle les prestations sont fournies.
+
+<sup>4</sup> Lorsqu’un projet peut prétendre à plusieurs subventions fédérales, l’ensemble de l’aide financière allouée par la Confédération ne doit pas dépasser 70 % du coût total du projet durant les années 2023 à 2026.
+
+[^5a-1]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur du 17 juil. 2023 au 31 déc. 2026 ([RO 2023 366](https://fedlex.data.admin.ch/eli/oc/2023/366); [FF 2022 1742](https://fedlex.data.admin.ch/eli/fga/2022/1742)).
+
 #### Art. 6
 
 **Procédure**
 
-<sup>1</sup> Les demandes d’aide financière sont à adresser au Secrétariat d’Etat à l’économie (SECO). Celui-ci consulte les cantons directement concernés. Il peut faire appel à des experts pour l’examen des demandes.
+<sup>1</sup> Les demandes d’aide financière sont à adresser au Secrétariat d’État à l’économie (SECO). Celui-ci consulte les cantons directement concernés. Il peut faire appel à des experts pour l’examen des demandes.
 
 <sup>2</sup> Il décide de l’octroi des aides financières après consultation des offices fédéraux directement concernés.
 
