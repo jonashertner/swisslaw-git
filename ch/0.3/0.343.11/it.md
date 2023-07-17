@@ -3,11 +3,11 @@ sr: "0.343.11"
 title: Protocollo del 22 novembre 2017 di emendamento del Protocollo addizionale alla Convenzione sul trasferimento dei condannati
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/795"
 language: it
-version: 2020-01-01
+version: 2023-07-18
 adopted: 2017-11-22
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/795/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2019-795-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/795/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/795/20230718/it/xml/fedlex-data-admin-ch-eli-cc-2019-795-20230718-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/795/20230718/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumenti depositati dalla Svizzera il 21 novembre 2019
 
 Applicato provvisoriamente dal 1° gennaio 2020
 
-(Stato 1° gennaio 2020)
+(Stato 18 luglio 2023)
 
 [^t-1]: [RU 2019 5023](https://fedlex.data.admin.ch/eli/oc/2019/794)
 
@@ -121,13 +121,18 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Strasburgo, il 22 novembre 2017, in francese e in inglese, i due testi facenti ugualmente fede, in un unico esemplare depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmetterà una copia autentica a ciascun Stato membro del Consiglio d’Europa, alle altre Parti alla Convenzione e a ogni Stato invitato ad aderire alla Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 20 dicembre 2019
+Campo d’applicazione il 18 Iuglio 2023[^t-2]
 
 I seguenti Stati hanno dichiarato, conformemente all’articolo 5 del presente Protocollo, che le disposizioni del Protocollo sono loro applicabili a titolo provvisorio nelle loro relazioni con gli Stati che hanno rilasciato una dichiarazione analoga in tal senso.
 
 <table>
 <tr><td>Applicabile a titolo provvisorio tra i seguenti Stati:</td><td>dal:</td></tr>
+<tr><td>Austria</td><td>08.07.2020</td></tr>
+<tr><td>Italia</td><td>15.06.2021</td></tr>
 <tr><td>Lituania</td><td>01.01.2020</td></tr>
 <tr><td>Santa Sede</td><td>01.01.2020</td></tr>
 <tr><td>Svizzera</td><td>01.01.2020</td></tr>
+<tr><td>Ungheria</td><td>13.02.2023</td></tr>
 </table>
+
+[^t-2]: [RU 2019 5025](https://fedlex.data.admin.ch/eli/oc/2019/795); [2023 401](https://fedlex.data.admin.ch/eli/oc/2023/401). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

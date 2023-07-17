@@ -3,11 +3,11 @@ sr: "0.343.11"
 title: Protokoll vom 22. November 2017 zur Änderung des Zusatzprotokolls zum Übereinkommen über die Überstellung verurteilter Personen
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/795"
 language: de
-version: 2020-01-01
+version: 2023-07-18
 adopted: 2017-11-22
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/795/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-795-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/795/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/795/20230718/de/xml/fedlex-data-admin-ch-eli-cc-2019-795-20230718-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/795/20230718/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. November 2019
 
 Provisorisch anwendbar ab 1. Januar 2020
 
-(Stand am 1. Januar 2020)
+(Stand am 18. Juli 2023)
 
 [^t-1]: [AS 2019 5023](https://fedlex.data.admin.ch/eli/oc/2019/794)
 
@@ -121,13 +121,18 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 22. November 2017 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den anderen Vertragsparteien des Übereinkommens und jedem Staat, der eingeladen worden ist, dem Übereinkommen beizutreten, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 20. Dezember 2019
+Geltungsbereich am 18. Juli 2023[^t-2]
 
 Die folgenden Staaten haben gemäss Artikel 5 des Protokolls erklärt, dass die Bestimmungen des Protokolls für sie in ihren Beziehungen zu Staaten, die eine ähnliche Erklärung zu diesem Zweck abgegeben haben, provisorisch anwendbar sind.
 
 <table>
 <tr><td>Provisorisch anwendbar zwischen den folgenden Staaten:</td><td>seit:</td></tr>
+<tr><td>Italien</td><td>15.06.2021</td></tr>
 <tr><td>Litauen</td><td>01.01.2020</td></tr>
+<tr><td>Österreich</td><td>08.07.2020</td></tr>
 <tr><td>Heiliger Stuhl</td><td>01.01.2020</td></tr>
 <tr><td>Schweiz</td><td>01.01.2020</td></tr>
+<tr><td>Ungarn</td><td>13.02.2023</td></tr>
 </table>
+
+[^t-2]: [AS 2019 5025](https://fedlex.data.admin.ch/eli/oc/2019/795); [2023 401](https://fedlex.data.admin.ch/eli/oc/2023/401). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
