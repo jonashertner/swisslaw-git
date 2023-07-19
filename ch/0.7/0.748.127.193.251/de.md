@@ -3,11 +3,11 @@ sr: "0.748.127.193.251"
 title: Abkommen vom 7. Dezember 2017 zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Arabischen Emiraten über den Luftlinienverkehr zwischen ihren Gebieten und darüber hinaus (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/431"
 language: de
-version: 2017-12-07
+version: 2023-07-20
 adopted: 2017-12-07
 in_force: 2017-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20171207/de/xml/fedlex-data-admin-ch-eli-cc-2018-431-20171207-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20171207/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20230720/de/xml/fedlex-data-admin-ch-eli-cc-2018-431-20230720-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20230720/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,11 @@ Abgeschlossen am 7. Dezember 2017
 
 Provisorisch angewendet ab 7. Dezember 2017
 
-(Stand am 7. Dezember 2017)
+In Kraft getreten am 20. Juli 2023[^t-1]
+
+(Stand am 20. Juli 2023)
+
+[^t-1]: [AS 2023 469](https://fedlex.data.admin.ch/eli/oc/2023/469)
 
 Die Schweizerische Eidgenossenschaft und die Vereinigten Arabischen Emirate (nachstehend die «Vertragsparteien»):
 
@@ -314,6 +318,7 @@ Anmerkungen:
 - 3\. Die bezeichneten Luftverkehrsunternehmen können jede der vereinbarten Linien auf dem Gebiet der anderen Vertragspartei enden lassen.
 - 4\. Die bezeichneten Luftverkehrsunternehmen können nicht erwähnte Punkte unter der Bedingung bedienen, dass zwischen diesen Punkten und dem Gebiet der anderen Vertragspartei keine Verkehrsrechte ausgeübt werden.
 - 5\. Punkte im Gebiet jeder Vertragspartei können in jeder Reihenfolge bedient werden, vorausgesetzt, dass zwischen diesen Punkten keine Verkehrsrechte ausgeübt werden.
+- [tab]
 
 ### Linienplan II
 

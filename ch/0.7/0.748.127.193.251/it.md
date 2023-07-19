@@ -3,11 +3,11 @@ sr: "0.748.127.193.251"
 title: Accordo del 7 dicembre 2017 tra la Confederazione Svizzera e gli Emirati Arabi Uniti concernente il traffico aereo di linea fra i rispettivi territori e oltre (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/431"
 language: it
-version: 2017-12-07
+version: 2023-07-20
 adopted: 2017-12-07
 in_force: 2017-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20171207/it/xml/fedlex-data-admin-ch-eli-cc-2018-431-20171207-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20171207/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20230720/it/xml/fedlex-data-admin-ch-eli-cc-2018-431-20230720-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20230720/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,11 @@ Concluso il 7 dicembre 2017
 
 Applicato provvisoriamente dal 7 dicembre 2017
 
-(Stato 7 dicembre 2017)
+Entrato in vigore il 20 luglio 2023[^t-1]
+
+(Stato 20 luglio 2023)
+
+[^t-1]: [RU 2023 469](https://fedlex.data.admin.ch/eli/oc/2023/469)
 
 La Confederazione Svizzera e gli Emirati Arabi Uniti (di seguito «Parti»);
 

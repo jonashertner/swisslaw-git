@@ -3,11 +3,11 @@ sr: "0.748.127.193.251"
 title: Accord du 7 décembre 2017 entre la Confédération suisse et les Émirats arabes unis relatif aux services aériens réguliers entre leurs territoires respectifs et au-delà (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/431"
 language: fr
-version: 2017-12-07
+version: 2023-07-20
 adopted: 2017-12-07
 in_force: 2017-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20171207/fr/xml/fedlex-data-admin-ch-eli-cc-2018-431-20171207-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20171207/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20230720/fr/xml/fedlex-data-admin-ch-eli-cc-2018-431-20230720-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20230720/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,11 @@ Conclu le 7 décembre 2017
 
 Appliqué provisoirement dès le 7 décembre 2017
 
-(Etat le 7 décembre 2017)
+Entré en vigueur le 20 juillet 2023[^t-1]
+
+(État le 20 juillet 2023)
+
+[^t-1]: [RO 2023 469](https://fedlex.data.admin.ch/eli/oc/2023/469)
 
 La Confédération suisse et les Émirats arabes unis (ci-après dénommées «les Parties contractantes»);
 
