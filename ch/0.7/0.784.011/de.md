@@ -3,39 +3,43 @@ sr: "0.784.011"
 title: Änderungsurkunde vom 18. Oktober 2002 zu der von den Konferenzen der Bevollmächtigten in Kyoto 1994 und Minneapolis 1998 geänderten Konstitution der Internationalen Fernmeldeunion (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/597"
 language: de
-version: 2016-03-09
+version: 2023-07-20
 adopted: 2002-10-18
 in_force: 2006-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/597/20160309/de/xml/fedlex-data-admin-ch-eli-cc-2006-597-20160309-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/597/20160309/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/597/20230720/de/xml/fedlex-data-admin-ch-eli-cc-2006-597-20230720-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/597/20230720/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Änderungsurkunde zu der von den Konferenzen der Bevollmächtigten in Kyoto 1994 und Minneapolis 1998 geänderten Konstitution der Internationalen Fernmeldeunion****
+# Änderungsurkunde zu der von den Konferenzen der Bevollmächtigten in Kyoto 1994 und Minneapolis 1998 geänderten Konstitution der Internationalen Fernmeldeunion
 
 AS **2006** 4001[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
 Angenommen in Marrakesch am 18. Oktober 2002 Schweizerische Ratifikationsurkunde hinterlegt am 17. Januar 2006 Für die Schweiz in Kraft getreten am 17. Januar 2006
 
-(Stand am 9. März 2016)
+(Stand am 20. Juli 2023)
 
 [^t-1]: Siehe jedoch die Konstitution (SR **0.784.0**) unddie konsolidierte Fassung der Änderungsurkunden vom 24. Nov. 2006/22. Okt. 2010 ([SR 0.784.012](https://fedlex.data.admin.ch/eli/cc/2008/442)), mit ihren eigenen Geltungsbereichen.
-[^t-2]: Übersetzung des französischen Originaltexts.
 
-(Konsolidierte Fassung)*[^ingress-1]*
+(Konsolidierte Fassung[^ingress-1]
 
-Präambel
+*Präambel*
 
-1 In voller Anerkennung des uneingeschränkten Rechts jedes Staates, sein Fernmeldewesen zu regeln, und angesichts der wachsenden Bedeutung des Fernmeldewesens für die Wahrung des Friedens und die wirtschaftliche und soziale Entwicklung aller Staaten haben die Staaten, die Vertragspartei dieser Konstitution als der grundlegenden Urkunde der Internationalen Fernmeldeunion und der die Konstitution ergänzenden Konvention der Internationalen Fernmeldeunion[^ingress-2] (nachstehend «die Konvention» genannt) sind, mit dem Ziel, die friedlichen Beziehungen und die internationale Zusammenarbeit zwischen den Völkern sowie die wirtschaftliche und soziale Entwicklung durch leistungsfähige Fernmeldedienste zu erleichtern, Folgendes vereinbart:
+<table>
+<tr><td>1</td><td>In voller Anerkennung des uneingeschränkten Rechts jedes Staates, sein Fernmeldewesen zu regeln, und angesichts der wachsenden Bedeutung des Fernmeldewesens für die Wahrung des Friedens und die wirtschaftliche und soziale Entwicklung aller Staaten haben die Staaten, die Vertragspartei dieser Konstitution als der grundlegenden Urkunde der Internationalen Fernmeldeunion und der die Konstitution ergänzenden Konvention der Internationalen Fernmeldeunion[^ingress-2] (nachstehend «die Konvention» genannt) sind, mit dem Ziel, die friedlichen Beziehungen und die internationale Zusammenarbeit zwischen den Völkern sowie die wirtschaftliche und soziale Entwicklung durch leistungsfähige Fernmeldedienste zu erleichtern,</td></tr>
+</table>
+
+Folgendes vereinbart:
 
 [^ingress-1]: *Anmerkung des Generalsekretariats:*Gemäss der Entschliessung Nr. 70 (Rev. Marrakesch 2002) der Konferenz der Regierungsbevollmächtigten zur Berücksichtigung des Grundsatzes der Gleichbehandlung von Männern und Frauen bei der ITU gelten die Grundsatzdokumente der Union (Konstitution und Konvention) als in einer geschlechtsneutralen Sprache abgefasst.
 [^ingress-2]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
 
+## Kapitel I Grundlegende Bestimmungen
+
 <table>
-<tr><td></td><td>Kapitel I Grundlegende Bestimmungen</td></tr>
 <tr><td></td><td>**Art. 1** Zweck der Union</td></tr>
 <tr><td>2</td><td>1. Zweck der Union ist,</td></tr>
 <tr><td>3</td><td>a) die internationale Zusammenarbeit zwischen allen ihren Mitgliedstaaten im Hinblick auf die Verbesserung und den zweckmässigen Einsatz der Fernmeldeeinrichtungen aller Art zu erhalten und auszubauen;</td></tr>
@@ -134,9 +138,6 @@ Präambel
 <tr><td>70A</td><td>[tab] (2<sup>bis</sup>) Der Rat erstellt einen Bericht über seine Empfehlungen für die Politik und die strategische Planung der Union und deren finanzielle Auswirkungen; zu diesem Zweck bedient er sich der nach Nummer 74A vom Generalsekretär vorbereiteten Unterlagen.</td></tr>
 <tr><td>71</td><td>(3) Er sorgt für eine erfolgreiche Koordinierung der Tätigkeiten der Union und übt eine wirksame Finanzkontrolle über das Generalsekretariat und die drei Sektoren aus.</td></tr>
 <tr><td>72</td><td>(4) Er trägt, entsprechend dem Zweck der Union, zur Entwicklung des Fernmeldewesens in den Entwicklungsländern mit allen ihm zur Verfügung stehenden Mitteln bei, einschliesslich der Teilnahme der Union an den entsprechenden Programmen der Vereinten Nationen.</td></tr>
-</table>
-
-<table>
 <tr><td></td><td>**Art. 11** Generalsekretariat</td></tr>
 <tr><td>73</td><td>1. (1) Das Generalsekretariat wird von einem Generalsekretär geleitet, der von einem Vizegeneralsekretär unterstützt wird.</td></tr>
 <tr><td>73A</td><td>(2) Die Aufgaben des Generalsekretärs sind in der Konvention enthalten. Ausserdem nimmt er folgende Funktionen wahr:</td></tr>
@@ -148,8 +149,9 @@ Präambel
 <tr><td>77</td><td>2. Der Vizegeneralsekretär ist dem Generalsekretär verantwortlich; er unterstützt den Generalsekretär bei der Ausübung seines Amtes und übernimmt die besonderen Aufgaben, die ihm der Generalsekretär überträgt. Er übt das Amt des Generalsekretärs während dessen Abwesenheit aus.</td></tr>
 </table>
 
+## Kapitel II Sektor für das Funkwesen
+
 <table>
-<tr><td></td><td>Kapitel II Sektor für das Funkwesen</td></tr>
 <tr><td></td><td>**Art. 12** Aufgaben und Aufbau</td></tr>
 <tr><td>78</td><td>1. (1) Die Aufgaben des Sektors für das Funkwesen bestehen darin, unter Berücksichtigung der besonderen Belange der Entwicklungsländer den in Artikel 1 dieser Konstitution genannten Zweck der Union in Bezug auf das Funkwesen zu erfüllen und dabei:</td></tr>
 <tr><td></td><td>– die rationelle, gerechte, wirksame und wirtschaftliche Nutzung des Funkfrequenzspektrums durch alle Funkdienste einschliesslich derer, welche die Umlaufbahn der geostationären Satelliten oder andere Umlaufbahnen nutzen, vorbehaltlich des Artikels 44 dieser Konstitution zu gewährleisten; und</td></tr>
@@ -187,8 +189,9 @@ Präambel
 <tr><td>103</td><td>Die Aufgaben des Direktors des Büros für das Funkwesen sind in der Konvention enthalten.</td></tr>
 </table>
 
+## Kapitel III Sektor für die Standardisierung im Fernmeldewesen
+
 <table>
-<tr><td></td><td>Kapitel III Sektor für die Standardisierung im Fernmeldewesen</td></tr>
 <tr><td></td><td>**Art. 17** Aufgaben und Aufbau</td></tr>
 <tr><td>104</td><td>1. (1) Die Aufgaben des Sektors für die Standardisierung im Fernmeldewesen bestehen darin, unter Berücksichtigung der besonderen Belange der Entwicklungsländer den in Artikel 1 dieser Konstitution genannten Zweck der Union in Bezug auf die Standardisierung im Fernmeldewesen zu erfüllen und dabei Studien über technische, betriebliche und tarifliche Fragen durchzuführen und im Hinblick auf die weltweite Standardisierung im Fernmeldewesen Empfehlungen zu diesen Fragen anzunehmen.</td></tr>
 <tr><td>105</td><td>(2) Die Aufgaben, für die der Sektor für die Standardisierung im Fernmeldewesen und der Sektor für das Funkwesen im Einzelnen zuständig sind, müssen hinsichtlich der beide Sektoren betreffenden Angelegenheiten ständig in enger Zusammenarbeit nach den einschlägigen Bestimmungen der Konvention überprüft werden. Zwischen dem Sektor für das Funkwesen, dem Sektor für die Standardisierung im Fernmeldewesen und dem Sektor für die Entwicklung des Fernmeldewesens ist eine optimale Koordinierung sicherzustellen.</td></tr>
@@ -204,17 +207,15 @@ Präambel
 <tr><td>113</td><td>1. Die Aufgaben der weltweiten Versammlungen für die Standardisierung im Fernmeldewesen sind in der Konvention festgelegt.</td></tr>
 <tr><td>114</td><td>2. Weltweite Versammlungen für die Standardisierung im Fernmeldewesen werden alle vier Jahre einberufen; nach den einschlägigen Bestimmungen der Konvention kann jedoch eine zusätzliche Versammlung abgehalten werden.</td></tr>
 <tr><td>115</td><td>3. Die Beschlüsse der weltweiten Versammlungen für die Standardisierung im Fernmeldewesen müssen in jedem Fall den Bestimmungen dieser Konstitution, der Konvention und der Vollzugsordnungen entsprechen. Wenn die Versammlungen Entschliessungen oder Entscheidungen annehmen, müssen sie die voraussehbaren finanziellen Auswirkungen berücksichtigen und sollen vermeiden, Entschliessungen oder Entscheidungen anzunehmen, welche die Überschreitung des von der Konferenz der Regierungsbevollmächtigten festgesetzten finanziellen Rahmens zur Folge haben können.</td></tr>
-</table>
-
-<table>
 <tr><td></td><td>**Art. 19** Studienkommissionen und Beratende Gruppe für die Standardisierung im Fernmeldewesen</td></tr>
 <tr><td>116</td><td>Die Aufgaben der Studienkommissionen und der Beratenden Gruppe für die Standardisierung im Fernmeldewesen sind in der Konvention enthalten.</td></tr>
 <tr><td></td><td>**Art. 20** Büro für die Standardisierung im Fernmeldewesen</td></tr>
 <tr><td>117</td><td>Die Aufgaben des Direktors des Büros für die Standardisierung im Fernmeldewesen sind in der Konvention enthalten.</td></tr>
 </table>
 
+## Kapitel IV Sektor für die Entwicklung des Fernmeldewesens
+
 <table>
-<tr><td></td><td>Kapitel IV Sektor für die Entwicklung des Fernmeldewesens</td></tr>
 <tr><td></td><td>**Art. 21** Aufgaben und Aufbau</td></tr>
 <tr><td>118</td><td>1. (1) Die Aufgaben des Sektors für die Entwicklung des Fernmeldewesens bestehen darin, den in Artikel 1 dieser Konstitution genannten Zweck der Union zu erfüllen und im Rahmen seiner besonderen Zuständigkeiten der doppelten Verantwortung der Union als Sonderorganisation der Organisation der Vereinten Nationen und als ausführendes Organ bei der Durchführung von Projekten im Rahmen des Entwicklungssystems der Vereinten Nationen oder anderer Finanzierungsvereinbarungen nachzukommen, d. h. die Entwicklung des Fernmeldewesens dadurch zu erleichtern und zu verbessern, dass er Tätigkeiten auf dem Gebiet der technischen Zusammenarbeit und der technischen Hilfe bereitstellt, organisiert und koordiniert.</td></tr>
 <tr><td>119</td><td>(2) Der Sektor für das Funkwesen, der Sektor für die Standardisierung im Fernmeldewesen und der Sektor für die Entwicklung des Fernmeldewesens arbeiten bei allen die Entwicklung betreffenden Angelegenheiten nach den einschlägigen Bestimmungen dieser Konstitution eng zusammen.</td></tr>
@@ -250,13 +251,15 @@ Präambel
 <tr><td>145</td><td>Die Aufgaben des Direktors des Büros für die Entwicklung des Fernmeldewesens sind in der Konvention enthalten.</td></tr>
 </table>
 
+## Kapitel IVA Arbeitsweise der Sektoren
+
 <table>
-<tr><td></td><td>Kapitel IVA Arbeitsweise der Sektoren</td></tr>
 <tr><td>145A</td><td>Die Funkversammlung, die weltweite Versammlung für die Normung im Fernmeldewesen und die weltweite Konferenz für die Entwicklung des Fernmeldewesens können für die Abwicklung der Arbeiten in ihrem jeweiligen Sektor entsprechende Arbeitsweisen und Verfahren ausarbeiten und verabschieden . Diese Arbeitsweisen und Verfahren müssen mit der Konstitution, der Konvention und den Verwaltungsverordnungen, insbesondere den Nummern 246D−246H der Konvention, in Einklang stehen.</td></tr>
 </table>
 
+## Kapitel V Weitere Bestimmungen über die Arbeitsweise der Union
+
 <table>
-<tr><td></td><td>Kapitel V Weitere Bestimmungen über die Arbeitsweise der Union</td></tr>
 <tr><td></td><td>**Art. 25** Weltweite Konferenzen für internationale Fernmeldedienste</td></tr>
 <tr><td>146</td><td>1. Eine weltweite Konferenz für internationale Fernmeldedienste kann eine teilweise oder, im Ausnahmefall, eine vollständige Revision der Vollzugsordnung für internationale Fernmeldedienste vornehmen und jede andere Frage von weltweitem Interesse behandeln, für die sie zuständig ist oder die sich auf ihre Tagesordnung bezieht.</td></tr>
 <tr><td>147</td><td>2. Die Beschlüsse der weltweiten Konferenzen für internationale Fernmeldedienste müssen in jedem Fall den Bestimmungen dieser Konstitution und der Konvention entsprechen. Wenn die Konferenzen Entschliessungen oder Entscheidungen annehmen, müssen sie die voraussehbaren finanziellen Auswirkungen berücksichtigen und sollen vermeiden, Entschliessungen oder Entscheidungen, welche die Überschreitung des von der Konferenz der Regierungsbevollmächtigten festgesetzten finanziellen Rahmens zur Folge haben können.</td></tr>
@@ -265,9 +268,9 @@ Präambel
 <tr><td>149</td><td>2. Der Koordinierungsausschuss nimmt die Aufgaben eines Teams für interne Verwaltung wahr; es berät den Generalsekretär und leistet ihm praktische Hilfe in allen Fragen der Verwaltung, der Finanzen, der Informationssysteme und der technischen Zusammenarbeit, die nicht in die ausschliessliche Zuständigkeit eines bestimmten Sektors oder des Generalsekretariats fallen, sowie auf dem Gebiet der Beziehungen nach aussen und der Information der Öffentlichkeit. Bei der Untersuchung dieser Fragen berücksichtigt der Ausschuss in jeder Hinsicht die Bestimmungen dieser Konstitution und der Konvention sowie die Beschlüsse des Rates und die Interessen der gesamten Union.</td></tr>
 <tr><td></td><td>**Art. 27** Die gewählten Beamten und das Personal der Union</td></tr>
 <tr><td>150</td><td>1. (1) Die gewählten Beamten sowie das Personal der Union dürfen bei der Ausübung ihres Amtes Weisungen irgendeiner Regierung oder irgendeiner unionsfremden Stelle weder erbitten noch entgegennehmen. Sie müssen von jeder Handlung Abstand nehmen, die mit ihrer Stellung als internationale Beamte unvereinbar ist.</td></tr>
-<tr><td>[tab] 151</td><td>(2) Die Mitgliedstaaten und die Sektormitglieder müssen den ausschliesslich internationalen Charakter der Tätigkeit dieser gewählten Beamten und des Personals der Union achten und davon Abstand nehmen, zu versuchen, sie bei der Erfüllung ihrer Aufgabe zu beeinflussen.</td></tr>
-<tr><td>[tab] 152</td><td>(3) Die gewählten Beamten sowie das Personal der Union dürfen sich neben ihrem Amt in keiner Weise an irgendeinem Unternehmen des Fernmeldewesens beteiligen oder irgendwelche finanziellen Interessen in einem solchen Unternehmen wahrnehmen. Der Ausdruck «finanzielle Interessen» darf jedoch nicht so ausgelegt werden, als stehe er der Fortsetzung von Zahlungen für die Pension, auf die jemand aufgrund eines früheren Amtes oder früherer Dienste Anspruch hat, entgegen.</td></tr>
-<tr><td>[tab] 153</td><td>(4) Um eine effiziente Arbeitsweise der Union zu gewährleisten, muss jeder Mitgliedstaat, aus dem ein Staatsangehöriger zum Generalsekretär, zum Vizegeneralsekretär oder zum Direktor eines Büros gewählt worden ist, nach Möglichkeit davon Abstand nehmen, diesen Staatsangehörigen in der Zeit zwischen zwei Konferenzen der Regierungsbevollmächtigten abzuberufen.</td></tr>
+<tr><td>151</td><td>(2) Die Mitgliedstaaten und die Sektormitglieder müssen den ausschliesslich internationalen Charakter der Tätigkeit dieser gewählten Beamten und des Personals der Union achten und davon Abstand nehmen, zu versuchen, sie bei der Erfüllung ihrer Aufgabe zu beeinflussen.</td></tr>
+<tr><td>152</td><td>(3) Die gewählten Beamten sowie das Personal der Union dürfen sich neben ihrem Amt in keiner Weise an irgendeinem Unternehmen des Fernmeldewesens beteiligen oder irgendwelche finanziellen Interessen in einem solchen Unternehmen wahrnehmen. Der Ausdruck «finanzielle Interessen» darf jedoch nicht so ausgelegt werden, als stehe er der Fortsetzung von Zahlungen für die Pension, auf die jemand aufgrund eines früheren Amtes oder früherer Dienste Anspruch hat, entgegen.</td></tr>
+<tr><td>153</td><td>(4) Um eine effiziente Arbeitsweise der Union zu gewährleisten, muss jeder Mitgliedstaat, aus dem ein Staatsangehöriger zum Generalsekretär, zum Vizegeneralsekretär oder zum Direktor eines Büros gewählt worden ist, nach Möglichkeit davon Abstand nehmen, diesen Staatsangehörigen in der Zeit zwischen zwei Konferenzen der Regierungsbevollmächtigten abzuberufen.</td></tr>
 <tr><td>154</td><td>2. Die Auswahl des Personals und die Festsetzung der Bedingungen für seine Einstellung müssen von dem Gedanken geleitet sein, dass es notwendig ist, der Union die Dienste von Personen mit grösster Leistungsfähigkeit, Fachkenntnis und Rechtschaffenheit zu sichern. Die Wichtigkeit einer Personalauswahl auf möglichst breiter geographischer Grundlage muss gebührend berücksichtigt werden.</td></tr>
 <tr><td></td><td>**Art. 28** Finanzen der Union</td></tr>
 <tr><td>155</td><td>1. Die Ausgaben der Union umfassen die Kosten:</td></tr>
@@ -276,7 +279,6 @@ Präambel
 <tr><td>158</td><td>c) der Konferenzen der Regierungsbevollmächtigten und der weltweiten Konferenzen für internationale Fernmeldedienste.</td></tr>
 <tr><td>159</td><td>2. Die Ausgaben der Union werden gedeckt durch:</td></tr>
 <tr><td>159A</td><td>a) die Beiträge ihrer Mitgliedstaaten und der Sektormitglieder;</td></tr>
-<tr><td></td><td>[tab]</td></tr>
 <tr><td>159B</td><td>b) die übrigen in der Konvention oder in den Finanzvorschriften genannten Einnahmen.</td></tr>
 <tr><td>159C</td><td>2<sup>bis</sup>. Alle Mitgliedstaaten und alle Sektormitglieder zahlen einen Betrag, welcher der Anzahl der Einheiten in der von ihnen nach den Nummern 160−161I gewählten Beitragsklasse entspricht.</td></tr>
 <tr><td>159E</td><td>2<sup>ter</sup>. Die Ausgaben für die in Nummer 43 dieser Konstitution genannten regionalen Konferenzen werden getragen:</td></tr>
@@ -319,8 +321,9 @@ Präambel
 <tr><td>178</td><td>2. Die Konferenzen, die Versammlungen und der Rat können die Vorschriften annehmen, die sie als Ergänzung zu den Vorschriften aus Kapitel II der Geschäftsordnung der Konferenzen, Versammlungen und Tagungen der Union für erforderlich halten. Diese ergänzenden Vorschriften müssen jedoch mit den Bestimmungen dieser Konstitution, der Konvention und denen aus Kapitel II vereinbar sein; werden diese ergänzenden Vorschriften von den Konferenzen oder den Versammlungen angenommen, so werden sie als Dokument dieser Konferenzen oder Versammlungen veröffentlicht.</td></tr>
 </table>
 
+## Kapitel VI Allgemeine Bestimmungen über den Fernmeldedienst
+
 <table>
-<tr><td></td><td>Kapitel VI Allgemeine Bestimmungen über den Fernmeldedienst</td></tr>
 <tr><td></td><td>**Art. 33** Recht der Öffentlichkeit auf Benutzung des internationalen Fernmeldedienstes</td></tr>
 <tr><td>179</td><td>Die Mitgliedstaaten gestehen jedermann das Recht zu, den internationalen Dienst für den öffentlichen Nachrichtenaustausch zu benützen. Die Dienstleistungen, die Gebühren und die Gewährleistung sind in den einzelnen Verkehrsarten für alle Benutzer gleich, ohne irgendwelchen Vorrang oder Vorzug.</td></tr>
 <tr><td></td><td>**Art. 34** Anhalten von Fernmeldenachrichten</td></tr>
@@ -351,8 +354,9 @@ Präambel
 <tr><td>194</td><td>Die Mitgliedstaaten behalten sich das Recht vor, regionale Konferenzen abzuhalten, regionale Vereinbarungen zu schliessen und regionale Organisationen zu bilden, um Fragen des Fernmeldewesens zu regeln, die zur Behandlung auf regionaler Ebene geeignet sind. Die regionalen Vereinbarungen dürfen nicht im Widerspruch zu dieser Konstitution oder zur Konvention stehen.</td></tr>
 </table>
 
+## Kapitel VII Besondere Bestimmungen über den Funkdienst
+
 <table>
-<tr><td></td><td>Kapitel VII Besondere Bestimmungen über den Funkdienst</td></tr>
 <tr><td></td><td>**Art. 44** Nutzung des Funkfrequenzspektrums sowie der Umlaufbahn der geostationären Satelliten und anderer Umlaufbahnen</td></tr>
 <tr><td>195</td><td>1. Die Mitgliedstaaten bemühen sich, die Zahl der benutzten Frequenzen und den Umfang des benutzten Frequenzspektrums so weit zu beschränken, wie es für die zufrieden stellende Wahrnehmung der erforderlichen Dienste unerlässlich ist. Zu diesem Zweck bemühen sie sich, die neuesten technischen Errungenschaften unverzüglich anzuwenden.</td></tr>
 <tr><td>196</td><td>2. Bei der Benutzung von Frequenzbereichen für die Funkdienste müssen die Mitgliedstaaten berücksichtigen, dass die Funkfrequenzen und die zugehörigen Umlaufbahnen, einschliesslich der Umlaufbahn der geostationären Satelliten, begrenzte natürliche Ressourcen sind; diese müssen entsprechend den Bestimmungen der Vollzugsordnung für den Funkdienst auf rationelle, wirksame und wirtschaftliche Weise genutzt werden, damit die einzelnen Länder oder Ländergruppen in gerechter Weise Zugang zu diesen Umlaufbahnen und zu diesen Frequenzen haben; dabei werden die besonderen Bedürfnisse der Entwicklungsländer und die geographische Lage bestimmter Länder berücksichtigt.</td></tr>
@@ -370,8 +374,9 @@ Präambel
 <tr><td>204</td><td>3. Nehmen diese Anlagen am Dienst für den öffentlichen Nachrichtenaustausch oder an anderen Diensten teil, die durch die Vollzugsordnungen geregelt werden, so müssen sie im Allgemeinen nach den für diese Dienste geltenden Bestimmungen betrieben werden.</td></tr>
 </table>
 
+## Kapitel VIII Beziehungen zur Organisation der Vereinten Nationen, zu anderen internationalen Organisationen und zu Nichtmitgliedstaaten
+
 <table>
-<tr><td></td><td>Kapitel VIII Beziehungen zur Organisation der Vereinten Nationen, zu anderen internationalen Organisationen und zu Nichtmitgliedstaaten</td></tr>
 <tr><td></td><td>**Art. 49** Beziehungen zur Organisation der Vereinten Nationen</td></tr>
 <tr><td>205</td><td>Die Beziehungen zwischen der Organisation der Vereinten Nationen und der Internationalen Fernmeldeunion sind in dem zwischen diesen beiden Organisationen geschlossenen Abkommen geregelt.</td></tr>
 <tr><td></td><td>**Art. 50** Beziehungen zu anderen internationalen Organisationen</td></tr>
@@ -380,8 +385,9 @@ Präambel
 <tr><td>207</td><td>Alle Mitgliedstaaten behalten sich für sich selbst und für die anerkannten Betriebsunternehmen das Recht vor, die Bedingungen festzusetzen, unter denen sie Fernmeldeverkehr mit einem Staat zulassen, der nicht Mitglied der Union ist. Wenn eine von einem solchen Staat ausgehende Nachricht von einem Mitgliedstaat angenommen wird, muss sie weitergeleitet werden; soweit dafür Fernmeldeübertragungswege eines Mitgliedstaates in Anspruch genommen werden, gelten für diesen Verkehr die zwingenden Bestimmungen dieser Konstitution, der Konvention und der Vollzugsordnungen sowie die normalen Gebührensätze.</td></tr>
 </table>
 
+## Kapitel IX Schlussbestimmungen
+
 <table>
-<tr><td></td><td>Kapitel IX Schlussbestimmungen</td></tr>
 <tr><td></td><td>**Art. 52** Ratifikation, Annahme oder Genehmigung</td></tr>
 <tr><td>208</td><td>1. Diese Konstitution und die Konvention werden von jedem Unterzeichnermitgliedstaat nach seinen verfassungsrechtlichen Vorschriften in Form einer einzigen Urkunde gleichzeitig ratifiziert, angenommen oder genehmigt. Diese Urkunde ist so bald wie möglich beim Generalsekretär zu hinterlegen. Der Generalsekretär unterrichtet die Mitgliedstaaten über die Hinterlegung jeder einzelnen Urkunde.</td></tr>
 <tr><td>209</td><td>2. (1) Zwei Jahre lang, vom Tag des Inkrafttretens dieser Konstitution und der Konvention an gerechnet, geniesst jeder Unterzeichnermitgliedstaat die den Mitgliedstaaten der Union in den Nummern 25−28 dieser Konstitution gewährten Rechte, selbst wenn er die Ratifikations-, Annahme- oder Genehmigungsurkunde nach Nummer 208 nicht hinterlegt hat.</td></tr>
@@ -394,7 +400,7 @@ Präambel
 <tr><td></td><td>**Art. 54** Vollzugsordnungen</td></tr>
 <tr><td>215</td><td>1. Die in Artikel 4 dieser Konstitution genannten Vollzugsordnungen sind verbindliche internationale Übereinkünfte und müssen den Bestimmungen dieser Konstitution und der Konvention entsprechen.</td></tr>
 <tr><td>216</td><td>2. Die Ratifikation, die Annahme oder die Genehmigung dieser Konstitution und der Konvention oder der Beitritt zu diesen Grundsatzdokumenten nach den Artikeln 52 und 53 dieser Konstitution schliesst auch die Anerkennung der Verbindlichkeit der Vollzugsordnungen ein, die von den zuständigen weltweiten Konferenzen vor dem Zeitpunkt der Unterzeichnung dieser Konstitution und der Konvention angenommen wurden. Diese Anerkennung gilt unter Berücksichtigung jedes Vorbehalts, der zum Zeitpunkt der Unterzeichnung der Vollzugsordnungen oder einer Revision dieser Letzteren gemacht wurde, soweit dieser Vorbehalt zum Zeitpunkt der Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde aufrechterhalten wird.</td></tr>
-<tr><td>216A</td><td>2<sup>bis</sup>. Die in Nummer 216 genannten Vollzugsordnungen bleiben vorbehaltlich der Revisionen in Kraft, die in Anwendung der Nummern 89 und 146 dieser Konstitution angenommen und in Kraft gesetzt werden können. Jede teilweise oder vollständige Revision der Vollzugsordnungen tritt an dem in der Revision genannten Tag nur für diejenigen Mitgliedstaaten in Kraft, die dem Generalsekretär vor diesem Tag oder diesen Tagen notifiziert haben, dass sie die Verbindlichkeit einer solchen Revision anerkennen.</td></tr>
+<tr><td>216A</td><td>2<sup>bis.</sup> Die in Nummer 216 genannten Vollzugsordnungen bleiben vorbehaltlich der Revisionen in Kraft, die in Anwendung der Nummern 89 und 146 dieser Konstitution angenommen und in Kraft gesetzt werden können. Jede teilweise oder vollständige Revision der Vollzugsordnungen tritt an dem in der Revision genannten Tag nur für diejenigen Mitgliedstaaten in Kraft, die dem Generalsekretär vor diesem Tag oder diesen Tagen notifiziert haben, dass sie die Verbindlichkeit einer solchen Revision anerkennen.</td></tr>
 <tr><td>217</td><td>3. Aufgehoben</td></tr>
 <tr><td>217A</td><td>3<sup>bis</sup>. Ein Mitgliedstaat erkennt die Verbindlichkeit einer teilweisen oder vollständigen Revision der Vollzugsordnungen an, indem er eine Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde zu dieser Revision beim Generalsekretär hinterlegt oder indem er dem Generalsekretär notifiziert, dass er die Verbindlichkeit der Revision anerkennt.</td></tr>
 <tr><td>217B</td><td>3<sup>ter</sup>. Die Mitgliedstaaten können dem Generalsekretär auch notifizieren, dass die Ratifikation, die Annahme oder die Genehmigung von Änderungen oder der Beitritt zu Änderungen dieser Konstitution oder der Konvention nach Artikel 55 der Konstitution oder Artikel 42 der Konvention die Anerkennung der Verbindlichkeit aller teilweisen oder vollständigen Revisionen der Vollzugsordnungen einschliesst, die von einer zuständigen Konferenz vor Unterzeichnung der betreffenden Änderungen dieser Konstitution oder der Konvention angenommen wurden.</td></tr>
@@ -417,7 +423,7 @@ Präambel
 <tr><td>229</td><td>6. Alle von einer Konferenz der Regierungsbevollmächtigten angenommenen Änderungen dieser Konstitution treten insgesamt und in Form einer einzigen Änderungsurkunde zu einem von der Konferenz festgelegten Zeitpunkt zwischen den Mitgliedstaaten in Kraft, die bis zu diesem Zeitpunkt ihre Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde zu dieser Konstitution und zur Änderungsurkunde hinterlegt haben. Die Ratifikation, die Annahme, die Genehmigung oder der Beitritt zu nur einem Teil dieser Änderungsurkunde ist ausgeschlossen.</td></tr>
 <tr><td>230</td><td>7. Der Generalsekretär notifiziert allen Mitgliedstaaten die Hinterlegung einer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde.</td></tr>
 <tr><td>231</td><td>8. Nach dem Inkrafttreten einer solchen Änderungsurkunde gilt die Ratifikation, die Annahme, die Genehmigung oder der Beitritt nach den Artikeln 52 und 53 dieser Konstitution für die geänderte Konstitution.</td></tr>
-<tr><td>232</td><td>9. Der Generalsekretär lässt eine solche Änderungsurkunde nach ihrem Inkrafttreten beim Sekretariat der Organisation der Vereinten Nationen nach Artikel 102 der Charta der Vereinten Nationen[^t-3] registrieren. Nummer 241 dieser Konstitution gilt auch für jede Änderungsurkunde.</td></tr>
+<tr><td>232</td><td>9. Der Generalsekretär lässt eine solche Änderungsurkunde nach ihrem Inkrafttreten beim Sekretariat der Organisation der Vereinten Nationen nach Artikel 102 der Charta der Vereinten Nationen[^chapIX-1] registrieren. Nummer 241 dieser Konstitution gilt auch für jede Änderungsurkunde.</td></tr>
 <tr><td></td><td>**Art. 56** Beilegung von Streitfällen</td></tr>
 <tr><td>233</td><td>1. Die Mitgliedstaaten können ihre Streitfälle über Fragen der Auslegung oder der Anwendung dieser Konstitution, der Konvention oder der Vollzugsordnungen auf dem Verhandlungsweg, auf diplomatischem Wege oder nach den Verfahren beilegen, die in den zwischen ihnen zur Beilegung internationaler Streitfälle geschlossenen zwei- oder mehrseitigen Verträgen festgelegt sind, oder nach jedem anderen von ihnen zu vereinbarenden Verfahren.</td></tr>
 <tr><td>234</td><td>2. Wird von keiner dieser Möglichkeiten zur Beilegung der Streitfälle Gebrauch gemacht, so kann jeder Mitgliedstaat, der in einem Streitfall Partei ist, ein Schiedsgericht nach dem in der Konvention festgelegten Verfahren anrufen.</td></tr>
@@ -427,15 +433,15 @@ Präambel
 <tr><td>237</td><td>2. Eine solche Kündigung wird nach Ablauf eines Jahres wirksam, vom Zeitpunkt des Eingangs der Notifikation beim Generalsekretär an gerechnet.</td></tr>
 <tr><td></td><td>**Art. 58** Inkrafttreten und damit verbundene Fragen</td></tr>
 <tr><td>238</td><td>1. Diese Konstitution und die Konvention, die von der zusätzlichen Konferenz der Regierungsbevollmächtigten (Genf 1992) angenommen wurden, treten am 1. Juli 1994 zwischen den Mitgliedstaaten in Kraft, die bis zu diesem Tage ihre Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde hinterlegt haben.</td></tr>
-<tr><td>239</td><td>2. Zu dem in Nummer 238 bezeichneten Zeitpunkt des Inkrafttretens heben diese Konstitution und die Konvention den Internationalen Fernmeldevertrag (Nairobi[^t-4] 1982) in den Beziehungen zwischen den Vertragsparteien auf und treten an seine Stelle.</td></tr>
-<tr><td>240</td><td>3. Nach Artikel 102 der Charta der Vereinten Nationen[^t-5] lässt der Generalsekretär der Union diese Konstitution und die Konvention beim Sekretariat der Organisation der Vereinten Nationen registrieren.</td></tr>
+<tr><td>239</td><td>2. Zu dem in Nummer 238 bezeichneten Zeitpunkt des Inkrafttretens heben diese Konstitution und die Konvention den Internationalen Fernmeldevertrag (Nairobi[^chapIX-2] 1982) in den Beziehungen zwischen den Vertragsparteien auf und treten an seine Stelle.</td></tr>
+<tr><td>240</td><td>3. Nach Artikel 102 der Charta der Vereinten Nationen[^chapIX-3] lässt der Generalsekretär der Union diese Konstitution und die Konvention beim Sekretariat der Organisation der Vereinten Nationen registrieren.</td></tr>
 <tr><td>241</td><td>4. Diese Konstitution und die Konvention, die in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache abgefasst sind, werden in einer Urschrift im Archiv der Union hinterlegt und verwahrt. Der Generalsekretär übermittelt jedem Unterzeichnermitgliedstaat eine beglaubigte Abschrift in den verlangten Sprachen.</td></tr>
 <tr><td>242</td><td>5. Weicht der Wortlaut dieser Konstitution und der Konvention in den verschiedenen Sprachen voneinander ab, so ist der französische Wortlaut massgebend.</td></tr>
 </table>
 
-[^t-3]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^t-4]: [SR 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)
-[^t-5]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^chapIX-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^chapIX-2]: [SR 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)
+[^chapIX-3]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
 Anlage
 
@@ -471,7 +477,7 @@ Anlage
 - *Anmerkung:* Ein grafisches Dokument ist ein Träger von Informationen, auf dem ein geschriebener oder gedruckter Text oder ein feststehendes Bild dauerhaft aufgezeichnet ist; es kann eingeordnet und eingesehen werden.
 - 1020 *Telefonie:* Form des Fernmeldeverkehrs, die im Wesentlichen für den Austausch von Nachrichten mittels Sprache bestimmt ist.
 
-Geltungsbereich am 9. März 2016**[^t-6]**
+Geltungsbereich am 20. Juli 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -563,10 +569,11 @@ Geltungsbereich am 9. März 2016**[^t-6]**
 <tr><td>Ungarn</td><td>28. September</td><td>2011</td><td>28. September</td><td>2011</td></tr>
 <tr><td>Vatikanstadt</td><td>22. Juli</td><td>2009</td><td>22. Juli</td><td>2009</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>6. Januar</td><td>2005</td><td>6. Januar</td><td>2005</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>2. August</td><td>2017</td><td>2. August</td><td>2017</td></tr>
 <tr><td>Vereinigte Staaten<sup>\*</sup></td><td>16. Januar</td><td>2009</td><td>16. Januar</td><td>2009</td></tr>
 <tr><td>Vietnam</td><td>12. November</td><td>2003</td><td>12. November</td><td>2003</td></tr>
 <tr><td>Zypern</td><td>30. Mai</td><td>2008</td><td>30. Mai</td><td>2008</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen zum Abschluss der Zusätzlichen Konferenz der Regierungsbevollmächtigten der Internationalen Fernmeldeunion sind Bestandteil der Schlussakten. Sie werden in der AS nicht veröffentlicht. Die französischen, deutschen und englischen Texte können bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen zum Abschluss der Zusätzlichen Konferenz der Regierungsbevollmächtigten der Internationalen Fernmeldeunion sind Bestandteil der Schlussakten. Sie werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Fernmeldeunion: [www.itu.int](http://www.itu.int) &gt; Portail Histoire de l’UIT &gt; Explore the digital collections &gt; Constitution and Convention eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-6]: [AS 2006 4001](https://fedlex.data.admin.ch/eli/oc/2006/597), [2007 4457](https://fedlex.data.admin.ch/eli/oc/2007/623), [2008 631](https://fedlex.data.admin.ch/eli/oc/2008/146), [2010 2151](https://fedlex.data.admin.ch/eli/oc/2010/288)und [2016 1021](https://fedlex.data.admin.ch/eli/oc/2016/187). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2006 4001](https://fedlex.data.admin.ch/eli/oc/2006/597); [2007 4457](https://fedlex.data.admin.ch/eli/oc/2007/623); [2008 631](https://fedlex.data.admin.ch/eli/oc/2008/146); [2010 2151](https://fedlex.data.admin.ch/eli/oc/2010/288); [2016 1021](https://fedlex.data.admin.ch/eli/oc/2016/187); [2023 406](https://fedlex.data.admin.ch/eli/oc/2023/406). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

@@ -3,39 +3,43 @@ sr: "0.784.011"
 title: "Strumento di emendamento alla Costituzione dell'Unione internazionale delle telecomunicazioni così come emendata dalle Conferenze di plenipotenziari di Kyoto 1994 e di Minneapolis 1998, del 18 ottobre 2002 (con annesso)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/597"
 language: it
-version: 2016-03-09
+version: 2023-07-20
 adopted: 2002-10-18
 in_force: 2006-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/597/20160309/it/xml/fedlex-data-admin-ch-eli-cc-2006-597-20160309-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/597/20160309/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/597/20230720/it/xml/fedlex-data-admin-ch-eli-cc-2006-597-20230720-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/597/20230720/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Strumento di emendamento alla Costituzione così come emendata dalle Conferenze di plenipotenziari di Kyoto 1994 e di Minneapolis 1998****
+# Strumento di emendamento alla Costituzione così come emendata dalle Conferenze di plenipotenziari di Kyoto 1994 e di Minneapolis 1998
 
 RU **2006** 4001[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
 Adottato a Marrakech il 18 ottobre 2002 Ratificato con strumenti depositati dalla Svizzera il 17 gennaio 2006 Entrato in vigore per la Svizzera il 17 gennaio 2006
 
-(Stato 9 marzo 2016) (Stato 9 marzo 2016)
+(Stato 20 luglio 2023)
 
 [^t-1]: Vedi comunque la Costituzione ([RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)) e la versione consolidata dell’atto modificatore del 24 nov. 2006/22 ott. 2019 ([RS 0.784.012](https://fedlex.data.admin.ch/eli/cc/2008/442)) e i relativi campi d’applicazione.
-[^t-2]: Dal testo originale francese.
 
-(Versione consolidata)*[^ingress-1]*
+(Versione consolidata)[^ingress-1]
 
-Preambolo
+*Preambolo*
 
-1 Nel riconoscere pienamente a ciascuno Stato il diritto sovrano di regolamentare le sue telecomunicazioni e tenuto conto dell’importanza crescente delle telecomunicazioni per la salvaguardia della pace e lo sviluppo economico e sociale di tutti gli Stati, gli Stati Parti alla presente Costituzione, strumento fondamentale dell’Unione internazionale delle telecomunicazioni, ed alla Convenzione dell’Unione internazionale delle telecomunicazioni[^ingress-2] (in appresso designata «La Convenzione») che la completa, ai fini di agevolare le relazioni pacifiche e la cooperazione internazionale tra i popoli nonché lo sviluppo economico e sociale mediante il buon funzionamento delle telecomunicazioni, hanno convenuto quanto segue:
+<table>
+<tr><td>1</td><td>Nel riconoscere pienamente a ciascuno Stato il diritto sovrano di regolamentare le sue telecomunicazioni e tenuto conto dell’importanza crescente delle telecomunicazioni per la salvaguardia della pace e lo sviluppo economico e sociale di tutti gli Stati, gli Stati Parti alla presente Costituzione, strumento fondamentale dell’Unione internazionale delle telecomunicazioni, ed alla Convenzione dell’Unione internazionale delle telecomunicazioni[^ingress-2] (in appresso designata «La Convenzione») che la completa, ai fini di agevolare le relazioni pacifiche e la cooperazione internazionale tra i popoli nonché lo sviluppo economico e sociale mediante il buon funzionamento delle telecomunicazioni,</td></tr>
+</table>
+
+hanno convenuto quanto segue:
 
 [^ingress-1]: *Nota del Segretario generale:* conformemente alla Risoluzione 70 (Rev. Marrakech, 2002) della Conferenza di plenipotenziari relativa all’integrazione del principio di parità tra donne e uomini all’UIT, si considera che gli strumenti fondamentali dell’Unione (Costituzione e Convenzione) siano redatti in un linguaggio neutro.
 [^ingress-2]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
 
+## Capitolo I Disposizioni di base
+
 <table>
-<tr><td></td><td>Capitolo I Disposizioni di base</td></tr>
 <tr><td></td><td>**Art. 1** Oggetto dell’Unione</td></tr>
 <tr><td>2</td><td>1. L’Unione si prefigge:</td></tr>
 <tr><td>3</td><td>a) di mantenere e di estendere la cooperazione internazionale tra tutti i suoi Stati membri ai fini del miglioramento e del razionale utilizzo delle telecomunicazioni di ogni sorta;</td></tr>
@@ -145,8 +149,9 @@ Preambolo
 <tr><td>77</td><td>2. Il Vice-Segretario generale è responsabile dinnanzi al Segretario generale; egli assiste il Segretario generale nell’esercizio delle sue funzioni e si assume i particolari incarichi affidatigli dal Segretario generale. Egli esercita le funzioni del Segretario generale quando quest’ultimo è assente.</td></tr>
 </table>
 
+## Capitolo II Settore delle radiocomunicazioni
+
 <table>
-<tr><td></td><td>Capitolo II Settore delle radiocomunicazioni</td></tr>
 <tr><td></td><td>**Art. 12** Funzioni e struttura</td></tr>
 <tr><td>78</td><td>1. (1) Considerando le particolari preoccupazioni dei Paesi in via di sviluppo, le funzioni del Settore delle radiocomunicazioni consistono nel conformarsi alle finalità dell’Unione per quanto riguarda le radiocomunicazioni così come enunciate all’articolo 1 della presente Costituzione:</td></tr>
 <tr><td></td><td>– assicurando l’utilizzazione razionale, equa, efficace ed economica dello spettro delle frequenze radioelettriche con ogni servizio di radiocomunicazione, ivi compresi quelli che utilizzano l’orbita dei satelliti geostazionari o altre orbite, sotto riserva delle disposizioni dell’articolo 44 della presente Costituzione, e</td></tr>
@@ -184,8 +189,9 @@ Preambolo
 <tr><td>103</td><td>Le funzioni del direttore dell’Ufficio delle radiocomunicazioni sono enunciate nella Convenzione.</td></tr>
 </table>
 
+## Capitolo III Settore di normalizzazione delle telecomunicazioni
+
 <table>
-<tr><td></td><td>Capitolo III Settore di normalizzazione delle telecomunicazioni</td></tr>
 <tr><td></td><td>**Art. 17** Funzioni e struttura</td></tr>
 <tr><td>104</td><td>1. (1) Considerando le particolari preoccupazioni dei Paesi in via di sviluppo, le funzioni del Settore di normalizzazione delle telecomunicazioni consistono nel corrispondere pienamente allo scopo dell’Unione concernente la normalizzazione delle telecomunicazioni, così come enunciato all’articolo 1 della presente Costituzione, effettuando studi sui problemi tecnici di utilizzazione e di tariffazione e adottando raccomandazioni al riguardo in vista della normalizzazione delle telecomunicazioni a livello mondiale.</td></tr>
 <tr><td>105</td><td>(2) Le competenze specifiche del Settore di normalizzazione delle telecomunicazioni e dei Settore delle radiocomunicazioni devono essere riesaminate in permanenza, in stretta collaborazione, per quanto concerne i problemi che interessano i due Settori, secondo le disposizioni pertinenti della Convenzione. Deve essere assicurato tra i Settori delle radiocomunicazioni, di normalizzazione delle telecomunicazioni e di sviluppo delle telecomunicazioni uno stretto coordinamento.</td></tr>
@@ -207,8 +213,9 @@ Preambolo
 <tr><td>117</td><td>Le funzioni del direttore dell’Ufficio di normalizzazione delle telecomunicazioni sono enunciate nella Convenzione.</td></tr>
 </table>
 
+## Capitolo IV Settore di sviluppo delle telecomunicazioni
+
 <table>
-<tr><td></td><td>Capitolo IV Settore di sviluppo delle telecomunicazioni</td></tr>
 <tr><td></td><td>**Art. 21** Funzioni e struttura</td></tr>
 <tr><td>118</td><td>1. (1) Le funzioni del Settore di sviluppo delle telecomunicazioni consistono nel rispondere agli scopi dell’Unione, così come enunciati all’articolo 1 della presente Costituzione e a espletare, nei limiti della sua specifica sfera di competenza, la doppia responsabilità dell’Unione come istituzione specializzata dell’Organizzazione delle Nazioni Unite ed agente esecutivo per l’attuazione di progetti nel quadro del sistema di sviluppo delle Nazioni Unite o di altre intese di finanziamento al fine di agevolare e migliorare lo sviluppo delle telecomunicazioni offrendo, organizzando e coordinando attività di cooperazione e d’assistenza tecniche.</td></tr>
 <tr><td>119</td><td>(2) Le attività dei Settori delle radiocomunicazioni, di normalizzazione delle telecomunicazioni e di sviluppo delle telecomunicazioni sono oggetto di una stretta cooperazione per quanto concerne le questioni relative allo sviluppo, in conformità con le disposizioni pertinenti della presente Costituzione.</td></tr>
@@ -244,13 +251,15 @@ Preambolo
 <tr><td>145</td><td>Le funzioni del direttore dell’Ufficio di sviluppo delle telecomunicazioni sono enunciate nella Convenzione.</td></tr>
 </table>
 
+## Capitolo IVA Metodi di lavoro dei Settori
+
 <table>
-<tr><td></td><td>Capitolo IVA Metodi di lavoro dei Settori</td></tr>
 <tr><td>145A</td><td>L’assemblea delle radiocomunicazioni, l’assemblea mondiale per la normalizzazione delle telecomunicazioni e la conferenza mondiale per lo sviluppo delle telecomunicazioni possono stabilire e adottare metodi di lavoro e procedure applicabili alla gestione delle attività dei loro rispettivi Settori. Questi metodi di lavoro e di procedura devono essere conformi alla presente Costituzione, alla Convenzione, ai regolamenti amministrativi e in particolare ai numeri 246D–246H della Convenzione.</td></tr>
 </table>
 
+## Capitolo V Altre disposizioni relative al funzionamento dell’Unione
+
 <table>
-<tr><td></td><td>Capitolo V Altre disposizioni relative al funzionamento dell’Unione</td></tr>
 <tr><td></td><td>**Art. 25** Conferenze mondiali delle telecomunicazioni internazionali</td></tr>
 <tr><td>146</td><td>1. Una conferenza mondiale delle telecomunicazioni internazionali può procedere ad una revisione, parziale o a titolo eccezionale totale, del Regolamento delle telecomunicazioni internazionali e trattare ogni altra questione a carattere mondiale di sua competenza o relativa al suo ordine del giorno.</td></tr>
 <tr><td>147</td><td>2. Le decisioni delle conferenze mondiali delle telecomunicazioni internazionali debbono in ogni caso essere conformi alle disposizioni della presente Costituzione e della Convenzione. Nell’adottare risoluzioni e decisioni, le conferenze devono tener conto di ripercussioni finanziarie prevedibili e dovrebbero evitare di adottare risoluzioni o decisioni tali da comportare il superamento dei limiti finanziari stabiliti dalla Conferenza di plenipotenziari.</td></tr>
@@ -312,8 +321,9 @@ Preambolo
 <tr><td>178</td><td>2. Le conferenze, le assemblee e il Consiglio possono adottare le regole che ritengono indispensabili a complemento di quelle sancite dal capitolo II delle Regole generali per le conferenze, le assemblee e le riunioni dell’Unione. Tuttavia, queste regole complementari devono essere compatibili con le disposizioni della presente Costituzione, della Convenzione e del capitolo II di cui sopra; si tratta di regole complementari adottate dalle Conferenze o dalle assemblee e pubblicate come documenti di queste ultime.</td></tr>
 </table>
 
+## Capitolo VI Disposizioni generali relative alle telecomunicazioni
+
 <table>
-<tr><td></td><td>Capitolo VI Disposizioni generali relative alle telecomunicazioni</td></tr>
 <tr><td></td><td>**Art. 33** Diritto del pubblico di utilizzare il servizio internazionale di telecomunicazione</td></tr>
 <tr><td>179</td><td>Gli Stati membri riconoscono al pubblico il diritto di corrispondere per mezzo del servizio internazionale di corrispondenza pubblica. I servizi, le tasse e le garanzie sono le stesse per tutti gli utenti in ciascuna categoria di corrispondenza, senza alcuna priorità o preferenza.</td></tr>
 <tr><td></td><td>**Art. 34** Interruzione delle telecomunicazioni</td></tr>
@@ -344,8 +354,9 @@ Preambolo
 <tr><td>194</td><td>Gli Stati membri si riservano il diritto di svolgere conferenze regionali, di concludere intese regionali e di creare organizzazioni regionali al fine di risolvere problemi di telecomunicazione che possono essere trattati a livello regionale. Le intese regionali non debbono essere in contrasto con la presente Costituzione o con la Convenzione.</td></tr>
 </table>
 
+## Capitolo VII Disposizioni speciali relative alle radiocomunicazioni
+
 <table>
-<tr><td></td><td>Capitolo VII Disposizioni speciali relative alle radiocomunicazioni</td></tr>
 <tr><td></td><td>**Art. 44** Utilizzazione dello spettro delle frequenze radioelettriche, dell’orbita dei satelliti geostazionari e di altre orbite</td></tr>
 <tr><td>195</td><td>1. Gli Stati membri si sforzano di limitare il numero delle frequenze e l’estensione dello spettro utilizzato al minimo indispensabile per garantire in maniera soddisfacente il funzionamento dei servizi necessari. A tal fine si sforzano di applicare, il più rapidamente possibile, gli ultimi perfezionamenti della tecnica.</td></tr>
 <tr><td>196</td><td>2. Nell’utilizzare le bande di frequenze per i servizi di radiocomunicazione, gli Stati membri tengono conto del fatto che le frequenze e l’orbita dei satelliti geostazionari sono risorse naturali limitate che debbono essere utilizzate in maniera razionale, efficace ed economica, in conformità con le norme del Regolamento delle radiocomunicazioni al fine di consentire ai vari Paesi, o gruppi di Paesi, un equo accesso a queste orbite e a tali frequenze, tenendo conto delle particolari esigenze dei Paesi in via di sviluppo e della situazione geografica di alcuni Paesi.</td></tr>
@@ -363,8 +374,9 @@ Preambolo
 <tr><td>204</td><td>3. Inoltre, quando questi impianti partecipano al servizio di corrispondenza pubblico o agli altri servizi regolati dai Regolamenti amministrativi, essi debbono conformarsi, in linea di massima, alle prescrizioni regolamentari applicabili a questi servizi.</td></tr>
 </table>
 
+## Capitolo VIII Relazioni con l’Organizzazione delle Nazioni Unite, altre organizzazioni internazionali e Stati non-membri
+
 <table>
-<tr><td></td><td>Capitolo VIII Relazioni con l’Organizzazione delle Nazioni Unite, altre organizzazioni internazionali e Stati non-membri</td></tr>
 <tr><td></td><td>**Art. 49** Relazioni con l’Organizzazione delle Nazioni Unite</td></tr>
 <tr><td>205</td><td>Le relazioni tra l’Organizzazione delle Nazioni Unite e l’Unione internazionale delle telecomunicazioni sono definite nell’Accordo stipulato tra queste due organizzazioni.</td></tr>
 <tr><td></td><td>**Art. 50** Relazioni con le altre organizzazioni internazionali</td></tr>
@@ -373,8 +385,9 @@ Preambolo
 <tr><td>207</td><td>Tutti gli Stati membri riservano, a sé stessi e alle gestioni riconosciute, la facoltà di stabilire le condizioni alle quali vengono ammessi gli scambi di telecomunicazioni con uno Stato che non è Membro dell’Unione. Se una telecomunicazione proveniente da tale Stato è accettata da uno Stato membro, essa dovrà essere trasmessa e, nella misura in cui utilizza i canali di telecomunicazione di uno Stato membro, le saranno applicate le disposizioni obbligatorie della presente Costituzione, della Convenzione e dei Regolamenti amministrativi come anche le tasse normali.</td></tr>
 </table>
 
+## Capitolo IX Disposizioni finali
+
 <table>
-<tr><td></td><td>Capitolo IX Disposizioni finali</td></tr>
 <tr><td></td><td>**Art. 52** Ratifica, accettazione e approvazione</td></tr>
 <tr><td>208</td><td>1. La presente Costituzione e la Convenzione sono contestualmente ratificate, accettate o approvate da ogni Stato membro firmatario, secondo le sue regole costituzionali, mediante uno strumento unico. Tale strumento deve essere depositato il più presto possibile presso il Segretario generale. Il Segretario generale informa gli Stati membri riguardo al deposito di ogni strumento.</td></tr>
 <tr><td>209</td><td>2. (1) Per un periodo di due anni a decorrere dalla data di entrata in vigore della presente Costituzione e della Convenzione, ogni Stato membro firmatario gode dei diritti conferiti agli Stati membri dell’Unione dai numeri 25–28 della presente Costituzione, anche se non ha depositato strumenti di ratifica, di accettazione o di approvazione ai sensi del numero 208 di cui sopra.</td></tr>
@@ -410,7 +423,7 @@ Preambolo
 <tr><td>229</td><td>6. Tutti gli emendamenti alla presente Costituzione adottati da una Conferenza di plenipotenziari entrano in vigore, ad una data stabilita dalla Conferenza, nella loro totalità e sotto forma di uno strumento unico di emendamento, tra gli Stati membri che avranno depositato prima di tale data il loro strumento di ratifica, di accettazione, di approvazione o di adesione alla presente Costituzione e allo strumento di emendamento. È esclusa la ratifica, l’accettazione, l’approvazione o l’adesione relativa a una sola parte di tale strumento di emendamento.</td></tr>
 <tr><td>230</td><td>7. Il Segretario generale notifica a tutti gli Stati membri il deposito di ciascuno strumento di ratifica, di accettazione, di approvazione o di adesione.</td></tr>
 <tr><td>231</td><td>8. Dopo l’entrata in vigore di ogni strumento di emendamento, si applicano alla Costituzione emendata la ratifica, l’accettazione, l’approvazione o l’adesione, secondo gli articoli 52 e 53 della presente Costituzione.</td></tr>
-<tr><td>232</td><td>9. Dopo che tale strumento di emendamento è entrato in vigore, il Segretario generale lo registra presso il Segretariato dell’Organizzazione delle Nazioni Unite, secondo le disposizioni dell’articolo 102 della Carta delle Nazioni Unite[^t-3]. Il numero 241 della presente Costituzione si applica inoltre ad ogni strumento di emendamento.</td></tr>
+<tr><td>232</td><td>9. Dopo che tale strumento di emendamento è entrato in vigore, il Segretario generale lo registra presso il Segretariato dell’Organizzazione delle Nazioni Unite, secondo le disposizioni dell’articolo 102 della Carta delle Nazioni Unite[^chapIX-1]. Il numero 241 della presente Costituzione si applica inoltre ad ogni strumento di emendamento.</td></tr>
 <tr><td></td><td>**Art. 56** Soluzione delle controversie</td></tr>
 <tr><td>233</td><td>1. Gli Stati membri possono risolvere le loro controversie su questioni relative all’interpretazione o all’applicazione della presente Costituzione, della Convenzione o dei Regolamenti amministrativi per via negoziale, diplomatica o secondo le procedure fissate dai trattati bilaterali o multilaterali conclusi tra di loro per la soluzione delle controversie internazionali, o con ogni altro metodo che potranno decidere di comune accordo.</td></tr>
 <tr><td>234</td><td>2. Qualora nessuno di questi mezzi di soluzione delle controversie sia adottato, ogni Stato membro parte a una controversia può ricorrere all’arbitrato, in conformità con la procedura definita nella Convenzione.</td></tr>
@@ -420,54 +433,51 @@ Preambolo
 <tr><td>237</td><td>2. Tale denuncia produce i suoi effetti allo scadere di un periodo di un anno a decorrere dalla data alla quale il Segretario generale ne ha ricevuto notifica.</td></tr>
 <tr><td></td><td>**Art. 58** Entrata in vigore e questioni connesse</td></tr>
 <tr><td>238</td><td>1. La presente Costituzione e la Convenzione, adottate dalla Conferenza di plenipotenziari addizionale (Ginevra, 1992) entreranno in vigore il 1° luglio 1994 tra gli Stati membri che avranno depositato prima di questa data lo strumento di ratifica, di accettazione, di approvazione o di adesione.</td></tr>
-<tr><td>239</td><td>2. Alla data di entrata in vigore specificata al numero 238 di cui sopra, la presente Costituzione e la Convenzione abrogheranno e sostituiranno, tra le parti, la Convenzione internazionale delle telecomunicazioni di Nairobi (1982)[^t-4].</td></tr>
-<tr><td>240</td><td>3. In conformità con le disposizioni dell’articolo 102 della Carta delle Nazioni Unite[^t-5], il Segretario generale dell’Unione registrerà la presente Costituzione e la Convenzione presso il Segretariato dell’Organizzazione delle Nazioni Unite.</td></tr>
+<tr><td>239</td><td>2. Alla data di entrata in vigore specificata al numero 238 di cui sopra, la presente Costituzione e la Convenzione abrogheranno e sostituiranno, tra le parti, la Convenzione internazionale delle telecomunicazioni di Nairobi (1982)[^chapIX-2].</td></tr>
+<tr><td>240</td><td>3. In conformità con le disposizioni dell’articolo 102 della Carta delle Nazioni Unite[^chapIX-3], il Segretario generale dell’Unione registrerà la presente Costituzione e la Convenzione presso il Segretariato dell’Organizzazione delle Nazioni Unite.</td></tr>
 <tr><td>241</td><td>4. L’originale della presente Costituzione e della Convenzione redatto in lingua araba, cinese, francese, inglese, russa e spagnola rimarrà depositato negli archivi dell’Unione. Il Segretario generale invierà nelle lingue richieste una copia certificata conforme a ciascuno Stato membro firmatario.</td></tr>
 <tr><td>242</td><td>5. In caso di divergenze tra i testi della presente Costituzione e della Convenzione nelle diverse lingue, fa fede il testo francese.</td></tr>
 </table>
 
-[^t-3]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^t-4]: [RS 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)
-[^t-5]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^chapIX-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^chapIX-2]: [RS 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)
+[^chapIX-3]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
 Annesso
 
-<table>
-<tr><td></td><td>Definizione di alcuni termini utilizzati nella presente Costituzione, nella Convenzione e nei Regolamenti amministrativi dell’Unione internazionale delle telecomunicazioni</td></tr>
-</table>
+## Definizione di alcuni termini utilizzati nella presente Costituzione, nella Convenzione e nei Regolamenti amministrativi dell’Unione internazionale delle telecomunicazioni
 
-<table>
-<tr><td>1001</td><td>Ai fini dei summenzionati strumenti dell’Unione, i termini seguenti hanno il significato loro attribuito dalle definizioni che li accompagnano.</td></tr>
-<tr><td>1002</td><td>*Stato membro:* Stato che è considerato Membro dell’Unione internazionale delle telecomunicazioni in applicazione delle disposizioni dell’articolo 2 della presente Costituzione.</td></tr>
-<tr><td>1003</td><td>*Membro di Settore:* Ente o organizzazione autorizzata, conformemente alle disposizioni dell’articolo 19 della Convenzione, a partecipare alle attività di un Settore.</td></tr>
-<tr><td>1004</td><td>*Amministrazione:* Ogni servizio o dipartimento governativo responsabile delle misure da adottare per adempiere agli obblighi della Costituzione dell’Unione internazionale delle telecomunicazioni, della Convenzione dell’Unione internazionale delle telecomunicazioni e dei Regolamenti amministrativi.</td></tr>
-<tr><td>1005</td><td>*Interferenza pregiudizievole:* Interferenza che ha effetti nocivi sul funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che degrada gravemente, interrompe ripetutamente ovvero impedisce il funzionamento di un servizio di radiocomunicazione utilizzato in conformità con il Regolamento delle radiocomunicazioni.</td></tr>
-<tr><td>1006</td><td>*Corrispondenza pubblica:* Ogni telecomunicazione che gli uffici e le stazioni devono accettare, in ragione della loro disponibilità al pubblico, ai fini della trasmissione.</td></tr>
-<tr><td>1007</td><td>*Delegazione:* Insieme di delegati e, se del caso, di rappresentanti, consiglieri, addetti o interpreti inviati dallo stesso Stato membro.</td></tr>
-<tr><td></td><td>Ciascun Stato membro è libero di comporre la sua delegazione a seconda della sua convenienza. In particolare può includervi tra gli altri, in qualità di delegati, di consiglieri o di addetti, persone appartenenti ad ogni ente od organizzazione approvata, in conformità con le disposizioni pertinenti della Convenzione.</td></tr>
-<tr><td>1008</td><td>...</td></tr>
-<tr><td>1009</td><td>*Delegato:* Persona inviata dal Governo di uno Stato membro ad una Conferenza di plenipotenziari, o persona che rappresenta il governo o l’amministrazione di uno Stato membro a un’altra Conferenza o a una riunione dell’Unione.</td></tr>
-<tr><td>1010</td><td>*Gestione:* Ogni privato, società, azienda o istituzione governativa che ha in esercizio un impianto di telecomunicazione destinato ad assicurare un servizio internazionale di telecomunicazione o suscettibile di causare interferenze pregiudizievoli a tale servizio.</td></tr>
-<tr><td>1011</td><td>*Gestione riconosciuta:* Ogni gestione che corrisponde alla definizione di cui sopra, che ha in esercizio un servizio di corrispondenza pubblica o di radiodiffusione e alla quale gli obblighi previsti all’articolo 6 della presente Costituzione sono imposti dallo Stato membro sul cui territorio è installata la sede sociale di tale gestione, ovvero dallo Stato membro che ha autorizzato tale gestione a installare e a utilizzare un servizio di telecomunicazione sul suo territorio.</td></tr>
-<tr><td>1012</td><td>*Radiocomunicazione:* Telecomunicazione attraverso onde radioelettriche.</td></tr>
-<tr><td>1013</td><td>*Servizio di radiodiffusione*: Servizio di radiocomunicazione le cui trasmissioni sono destinate ad essere ricevute direttamente dal pubblico. Questo servizio può comprendere trasmissioni audio, trasmissioni televisive o altri tipi di trasmissione.</td></tr>
-<tr><td>1014</td><td>*Servizio internazionale di telecomunicazione:* Prestazione di telecomunicazione tra uffici o stazioni di telecomunicazione di qualunque natura, situati in Paesi diversi o appartenenti a Paesi diversi.</td></tr>
-<tr><td>1015</td><td>*Telecomunicazione:* Ogni trasmissione, emissione o ricezione di segni, segnali, scritti, immagini, audio o informazioni di qualunque natura mediante cavo, radio- elettricità, ottica o altri sistemi elettromagnetici.</td></tr>
-<tr><td>1016</td><td>*Telegramma:* Scritto destinato ad essere trasmesso a mezzo telegrafia in vista della sua consegna al destinatario. Questa parola indica altresì il radiotelegramma, salvo diversa specificazione.</td></tr>
-<tr><td>1017</td><td>*Telecomunicazioni di Stato:* Telecomunicazioni provenienti da:</td></tr>
-<tr><td>[tab]</td><td>– il Capo di Stato;</td></tr>
-<tr><td>[tab]</td><td>– il Capo del Governo o i membri di un Governo;</td></tr>
-<tr><td>[tab]</td><td>– il Comandante in capo delle forze militari, terrestri, navali ed aeree;</td></tr>
-<tr><td>[tab]</td><td>– agenti diplomatici o consolari;</td></tr>
-<tr><td>[tab]</td><td>– il Segretario generale dell’Organizzazione delle Nazioni Unite; i Capi degli organi principali delle Nazioni Unite;</td></tr>
-<tr><td>[tab]</td><td>– la Corte internazionale di Giustizia, [tab] ovvero risposte alle telecomunicazioni di Stato sopra menzionate.</td></tr>
-<tr><td>1018</td><td>*Telegrammi privati:* Telegrammi diversi dai telegrammi di Stato o di servizio.</td></tr>
-<tr><td>1019</td><td>*Telegrafia:* Mezzo di telecomunicazione in cui le informazioni trasmesse sono destinate ad essere registrate all’arrivo sotto forma di un documento grafico; tali informazioni possono in alcuni casi essere presentate sotto un’altra forma o registrate in vista di una successiva utilizzazione.</td></tr>
-<tr><td></td><td>*Nota:* Per documento grafico s’intende un supporto informativo sul quale è registrato in maniera permanente un testo scritto o stampato o un’immagine fissa e che può essere classificato e consultato.</td></tr>
-<tr><td>1020</td><td>*Telefonia:* Mezzo di telecomunicazione essenzialmente destinato allo scambio di informazioni sotto forma di parole.</td></tr>
-</table>
+- 1001 Ai fini dei summenzionati strumenti dell’Unione, i termini seguenti hanno il significato loro attribuito dalle definizioni che li accompagnano.
+- 1002 *Stato membro:* Stato che è considerato Membro dell’Unione internazionale delle telecomunicazioni in applicazione delle disposizioni dell’articolo 2 della presente Costituzione.
+- 1003 *Membro di Settore:* Ente o organizzazione autorizzata, conformemente alle disposizioni dell’articolo 19 della Convenzione, a partecipare alle attività di un Settore.
+- 1004 *Amministrazione:* Ogni servizio o dipartimento governativo responsabile delle misure da adottare per adempiere agli obblighi della Costituzione dell’Unione internazionale delle telecomunicazioni, della Convenzione dell’Unione internazionale delle telecomunicazioni e dei Regolamenti amministrativi.
+- 1005 *Interferenza pregiudizievole:* Interferenza che ha effetti nocivi sul funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che degrada gravemente, interrompe ripetutamente ovvero impedisce il funzionamento di un servizio di radiocomunicazione utilizzato in conformità con il Regolamento delle radiocomunicazioni.
+- 1006 *Corrispondenza pubblica:* Ogni telecomunicazione che gli uffici e le stazioni devono accettare, in ragione della loro disponibilità al pubblico, ai fini della trasmissione.
+- 1007 *Delegazione:* Insieme di delegati e, se del caso, di rappresentanti, consiglieri, addetti o interpreti inviati dallo stesso Stato membro.
+- Ciascun Stato membro è libero di comporre la sua delegazione a seconda della sua convenienza. In particolare può includervi tra gli altri, in qualità di delegati, di consiglieri o di addetti, persone appartenenti ad ogni ente od organizzazione approvata, in conformità con le disposizioni pertinenti della Convenzione.
+- 1008 ...
+- 1009 *Delegato:* Persona inviata dal Governo di uno Stato membro ad una Conferenza di plenipotenziari, o persona che rappresenta il governo o l’amministrazione di uno Stato membro a un’altra Conferenza o a una riunione dell’Unione.
+- 1010 *Gestione:* Ogni privato, società, azienda o istituzione governativa che ha in esercizio un impianto di telecomunicazione destinato ad assicurare un servizio internazionale di telecomunicazione o suscettibile di causare interferenze pregiudizievoli a tale servizio.
+- 1011 *Gestione riconosciuta:* Ogni gestione che corrisponde alla definizione di cui sopra, che ha in esercizio un servizio di corrispondenza pubblica o di radiodiffusione e alla quale gli obblighi previsti all’articolo 6 della presente Costituzione sono imposti dallo Stato membro sul cui territorio è installata la sede sociale di tale gestione, ovvero dallo Stato membro che ha autorizzato tale gestione a installare e a utilizzare un servizio di telecomunicazione sul suo territorio.
+- 1012 *Radiocomunicazione:* Telecomunicazione attraverso onde radioelettriche.
+- 1013 *Servizio di radiodiffusione*: Servizio di radiocomunicazione le cui trasmissioni sono destinate ad essere ricevute direttamente dal pubblico. Questo servizio può comprendere trasmissioni audio, trasmissioni televisive o altri tipi di trasmissione.
+- 1014 *Servizio internazionale di telecomunicazione:* Prestazione di telecomunicazione tra uffici o stazioni di telecomunicazione di qualunque natura, situati in Paesi diversi o appartenenti a Paesi diversi.
+- 1015 *Telecomunicazione:* Ogni trasmissione, emissione o ricezione di segni, segnali, scritti, immagini, audio o informazioni di qualunque natura mediante cavo, radio- elettricità, ottica o altri sistemi elettromagnetici.
+- 1016 *Telegramma:* Scritto destinato ad essere trasmesso a mezzo telegrafia in vista della sua consegna al destinatario. Questa parola indica altresì il radiotelegramma, salvo diversa specificazione.
+- 1017 *Telecomunicazioni di Stato:* Telecomunicazioni provenienti da:
+- – il Capo di Stato;
+- – il Capo del Governo o i membri di un Governo;
+- – il Comandante in capo delle forze militari, terrestri, navali ed aeree;
+- – agenti diplomatici o consolari;
+- – il Segretario generale dell’Organizzazione delle Nazioni Unite; i Capi degli organi principali delle Nazioni Unite;
+- – la Corte internazionale di Giustizia,
+- ovvero risposte alle telecomunicazioni di Stato sopra menzionate.
+- 1018 *Telegrammi privati:* Telegrammi diversi dai telegrammi di Stato o di servizio.
+- 1019 *Telegrafia:* Mezzo di telecomunicazione in cui le informazioni trasmesse sono destinate ad essere registrate all’arrivo sotto forma di un documento grafico; tali informazioni possono in alcuni casi essere presentate sotto un’altra forma o registrate in vista di una successiva utilizzazione.
+- *Nota:* Per documento grafico s’intende un supporto informativo sul quale è registrato in maniera permanente un testo scritto o stampato o un’immagine fissa e che può essere classificato e consultato.
+- 1020 *Telefonia:* Mezzo di telecomunicazione essenzialmente destinato allo scambio di informazioni sotto forma di parole.
 
-Campo d’applicazione il 9 marzo 2016**[^t-6]**
+Campo d’applicazione il 20 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -536,6 +546,7 @@ Campo d’applicazione il 9 marzo 2016**[^t-6]**
 <tr><td>Paraguay</td><td>9 gennaio</td><td>2009</td><td>9 gennaio</td><td>2009</td></tr>
 <tr><td>Perù</td><td>18 ottobre</td><td>2006</td><td>18 ottobre</td><td>2006</td></tr>
 <tr><td>Qatar</td><td>22 dicembre</td><td>2004</td><td>22 dicembre</td><td>2004</td></tr>
+<tr><td>Regno Unito</td><td>2 agosto</td><td>2017</td><td>2 agosto</td><td>2017</td></tr>
 <tr><td>Romania\*</td><td>17 luglio</td><td>2008</td><td>17 luglio</td><td>2008</td></tr>
 <tr><td>Ruanda</td><td>5 ottobre</td><td>2006</td><td>5 ottobre</td><td>2006</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>15 marzo</td><td>2006 A</td><td>15 marzo</td><td>2006</td></tr>
@@ -562,7 +573,7 @@ Campo d’applicazione il 9 marzo 2016**[^t-6]**
 <tr><td>Uzbekistan</td><td>19 gennaio</td><td>2007 A</td><td>19 gennaio</td><td>2007</td></tr>
 <tr><td>Vaticano, Città del</td><td>22 luglio</td><td>2009</td><td>22 luglio</td><td>2009</td></tr>
 <tr><td>Vietnam</td><td>12 novembre</td><td>2003</td><td>12 novembre</td><td>2003</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni fatte al termine della Conferenza addizionale dei plenipotenziari dell’Unione internazionale delle telecomunicazioni sono parte integrante degli Atti finali della Conferenza. Esse non sono pubblicate nella RU. Il testo, in francese, tedesco o inglese, può essere ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni fatte al termine della Conferenza addizionale dei plenipotenziari dell’Unione internazionale delle telecomunicazioni sono parte integrante degli Atti finali della Conferenza. Esse non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’UIT: [www.itu.int](http://www.itu.int) &gt; Portail Histoire de l’UIT &gt; Explore the digital collections &gt; Constitution and Convention, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-6]: [RU 2006 4001](https://fedlex.data.admin.ch/eli/oc/2006/597), [2007 4457](https://fedlex.data.admin.ch/eli/oc/2007/623), [2008 631](https://fedlex.data.admin.ch/eli/oc/2008/146), [2010 2151](https://fedlex.data.admin.ch/eli/oc/2010/288)e [2016 1021](https://fedlex.data.admin.ch/eli/oc/2016/187). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2006 4001](https://fedlex.data.admin.ch/eli/oc/2006/597); [2007 4457](https://fedlex.data.admin.ch/eli/oc/2007/623); [2008 631](https://fedlex.data.admin.ch/eli/oc/2008/146); [2010 2151](https://fedlex.data.admin.ch/eli/oc/2010/288); [2016 1021](https://fedlex.data.admin.ch/eli/oc/2016/187); [2023 406](https://fedlex.data.admin.ch/eli/oc/2023/406). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
