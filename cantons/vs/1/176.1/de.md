@@ -3,21 +3,19 @@ canton: VS
 number: "176.1"
 title: Gesetz über die Einwohnerkontrolle
 language: de
-version: 2009-03-01
-corrected: 2017-03-20
-version_adopted: 2008-11-14
+version: 2023-07-21
+version_adopted: 2023-06-15
 adopted: 2008-11-14
 in_force: 2009-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/176.1"
-pdf: "https://lex.vs.ch/api/de/versions/629/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3227/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Einwohnerkontrolle
 
-vom 14. November 2008
+vom 14.11.2008 (Stand 21.07.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -27,7 +25,7 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -61,9 +59,9 @@ verordnet:
 
 **Aufenthalt**
 
-Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten Zweck ohne Absicht dauernden Verbleibens mindestens während dreier aufeinander folgender Monate oder dreier Monate innerhalb eines Jahres wohnt, insbesondere zum Zweck des Besuchs einer Lehranstalt oder Schule oder der Unterbringung in einer Erziehungs-, Versorgungs-, Heil- oder Strafanstalt.
+<sup>1</sup> Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten Zweck ohne Absicht dauernden Verbleibens mindestens während dreier aufeinander folgender Monate oder dreier Monate innerhalb eines Jahres wohnt, insbesondere zum Zweck des Besuchs einer Lehranstalt oder Schule oder der Unterbringung in einer Erziehungs-, Versorgungs-, Heil- oder Strafanstalt.
 
-### 2. Kapitel: Zuständigkeiten
+## 2 Zuständigkeiten
 
 #### Art. 5
 
@@ -74,11 +72,8 @@ Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten 
 <sup>2</sup> Das Gemeindebüro der Einwohnerkontrolle übt diese Aufgabe aus und hat namentlich folgende Zuständigkeiten:
 
 - a) es führt das Register der Personen, die sich auf dem Gemeindegebiet niederlassen oder sich dort aufhalten;
-
 - b) es nimmt die Zuzugs- und Wegzugsmeldungen, die Adressänderungen, die Änderungen des Zivilstands und der persönlichen Situation entgegen und registriert sie;
-
 - c) es bewahrt die erforderlichen Ausweisdokumente auf und gibt sie den Inhabern beim Wegzug zurück;
-
 - d) es achtet darauf, dass alle betreffenden Personen die Verpflichtungen erfüllen, die ihnen das vorliegende Gesetz auferlegt, und es führt die notwendigen Kontrollen durch. Wenn nötig kann es dazu die Unterstützung der öffentlichen Gewalt anfordern.
 
 #### Art. 6
@@ -90,12 +85,11 @@ Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten 
 <sup>2</sup> Die Aufsichtsbehörde hat namentlich folgende Zuständigkeiten:
 
 - a) sie übt die Aufsicht über die Vorsteher aus und sorgt für deren Ausbildung;
-
 - b) sie gibt die nötigen Richtlinien und Weisungen heraus.
 
 <sup>3</sup> Ist es schwierig, bei einer Person den Wohnsitz zu bestimmen, so entscheidet die Aufsichtsbehörde, wobei sie sich an die Bestimmungen des Schweizerischen Zivilgesetzbuches und die Rechtsprechung hält.
 
-### 3. Kapitel: Meldungen
+## 3 Meldungen
 
 #### Art. 7
 
@@ -103,9 +97,11 @@ Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten 
 
 <sup>1</sup> Eine Person, die sich in einer Gemeinde niederlässt, hat sich innert 14 Tagen bei der Einwohnerkontrolle anzumelden. Sie hat ausserdem ihren Heimatschein oder ein ähnliches Zivilstandsdokument gegen einen Empfangsschein zu hinterlegen. Ausländische Staatsangehörige weisen ein Identitätspapier und gegebenenfalls ihre Aufenthalts- oder Niederlassungsbewilligung vor.
 
+<sup>1<sup>bis</sup></sup> Wenn die Person die Anmeldung elektronisch vornimmt, sorgt die Wegzugsgemeinde für die postalische Übermittlung des Heimatscheins oder des analogen Dokuments an die Zuzugsgemeinde.
+
 <sup>2</sup> Hält sich eine Person mehr als drei Monate hintereinander oder verteilt auf ein Jahr in einer Gemeinde des Kantons auf, ohne jedoch die Absicht zu haben, sich dort niederzulassen, muss sie sich innert 14 Tagen bei der Einwohnerkontrolle anmelden. Sie hat einen offiziellen Ausweis vorzulegen, mit dem sie bezeugt, dass sie ihren Wohnsitz in einer anderen Gemeinde beibehält. Nach einem Jahr oder spätestens, wenn dieser Ausweis abläuft, muss sie eine neue Bestätigung der Wohnsitzgemeinde vorweisen.
 
-<sup>3</sup> Die Person, die in einer Gemeinde niedergelassen ist oder sich dort aufhält, muss beim Verlassen dieser Gemeinde ihren Wegzug und ihren Zielort melden.
+<sup>3</sup> Die Person, die in einer Gemeinde niedergelassen ist oder sich dort aufhält, muss beim Verlassen dieser Gemeinde ihren Wegzug und ihren Zielort persönlich oder auf elektronischem Weg melden.
 
 <sup>4</sup> Jede Person, die in einer Gemeinde niedergelassen ist oder sich dort aufhält und innerhalb der Gemeinde die Adresse wechselt, muss diesen Wechsel innert 14 Tagen der Einwohnerkontrolle melden.
 
@@ -115,13 +111,15 @@ Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten 
 
 **Modalitäten der Anmeldung**
 
-<sup>1</sup> Die Anmeldung erfolgt bei der Einwohnerkontrolle. Die volljährigen Personen müssen persönlich erscheinen, ausser sie seien wegen stichhaltigen Gründen dispensiert.
+<sup>1</sup> Die Anmeldung erfolgt persönlich oder auf elektronischem Weg bei der Einwohnerkontrolle. Volljährige Personen müssen persönlich erscheinen, ausser sie seien aus stichhaltigen Gründen dispensiert oder sie hätten sich elektronisch angemeldet.
 
 <sup>2</sup> Die Anmeldung der Ehegattin, des Ehegatten, der registrierten Partnerin, des registrierten Partners und des Inhabers der elterlichen Gewalt gilt für die Ehegattin, den Ehegatten, die registrierte Partnerin, den registrierten Partner und für die minderjährigen Kinder, solange diese Personen in einem gemeinsamen Haushalt leben.
 
 <sup>3</sup> Für die Anmeldung von bevormundeten Personen ist ihr gesetzlicher Vertreter zuständig.
 
 <sup>4</sup> Die Direktion von Gemeinschaftshaushalten achtet darauf, dass die Personen, die in ihrer Anstalt leben, bei der Einwohnerkontrolle gemeldet sind; wenn nötig meldet sie den Zuzug an Stelle der betreffenden Personen.
+
+<sup>5</sup> Der Staatsrat erlässt ein Reglement, das insbesondere die technischen Spezifikationen, die Organisationsmodalitäten und das anwendbare Format für den Austausch von Daten im Bereich der Anzeigen auf elektronischem Weg betrifft, um deren Sicherheit zu gewährleisten.
 
 #### Art. 9
 
@@ -134,11 +132,8 @@ Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten 
 <sup>3</sup> Verpflichtet, der Einwohnerkontrolle auf Verlangen und kostenlos die Auskünfte zu den meldepflichtigen Personen zu geben, sind:
 
 - a) die Arbeitgeber für ihre Angestellten;
-
 - b) die Verwalter und Immobilienverwalter, für Mieter, die ihre Wohnungen und Gebäude bewohnen und dort ein- und ausziehen;
-
 - c) die öffentlichen Gaststätten, die den einschlägigen Bestimmungen des Gesetzes über die Beherbergung und die Bewirtung unterstehen;
-
 - d) die Logisgeber, für Personen, die in ihrem Haushalt leben.
 
 <sup>4</sup> Die Post teilt den Dienststellen der Einwohnerkontrolle auf Verlangen unentgeltlich die Adressen der Personen mit, die ihren Verpflichtungen nach Artikel 7 des vorliegenden Gesetzes nicht nachkommen.
@@ -147,7 +142,7 @@ Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten 
 
 **Schutz der Daten im Besitz der Einwohnerkontrolle**
 
-Die Bekanntgabe von Daten der Einwohnerkontrolle ist durch die Datenschutzgesetzgebung geregelt.
+<sup>1</sup> Die Bekanntgabe von Daten der Einwohnerkontrolle ist durch die Datenschutzgesetzgebung geregelt.
 
 #### Art. 11
 
@@ -161,7 +156,7 @@ Die Bekanntgabe von Daten der Einwohnerkontrolle ist durch die Datenschutzgesetz
 
 <sup>4</sup> Die daraus entstehenden Kosten gehen zu Lasten des Betroffenen.
 
-### 4. Kapitel: Weitere Bestimmungen
+## 4 Weitere Bestimmungen
 
 #### Art. 12
 
@@ -189,7 +184,7 @@ Die Bekanntgabe von Daten der Einwohnerkontrolle ist durch die Datenschutzgesetz
 
 <sup>2</sup> Das Verfahren wird im Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 geregelt.
 
-### 5. Kapitel: Schlussbestimmungen
+## 5 Schlussbestimmungen
 
 #### Art. 15
 
@@ -205,10 +200,6 @@ Die Bekanntgabe von Daten der Einwohnerkontrolle ist durch die Datenschutzgesetz
 
 <sup>1</sup> Das vorliegende Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes.[^16-1]
+<sup>2</sup> Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes.
 
-So angenommen in einziger Lesung (Art. 101 RGR) im Grossen Rat in Sitten, den 14. November 2008.
-
-Der Präsident des Grossen Rates: Paul-André Roux Der Chef des Parlamentsdienstes: Claude Bumann
-
-[^16-1]: Inkrafttreten am 1. März 2009 (Abl. Nr. 49/2008)
+CSW BO/Abl. 49/2008

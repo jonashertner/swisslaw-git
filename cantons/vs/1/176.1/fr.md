@@ -3,21 +3,19 @@ canton: VS
 number: "176.1"
 title: "Loi sur le contrôle de l'habitant"
 language: fr
-version: 2009-03-01
-corrected: 2017-03-20
-version_adopted: 2008-11-14
+version: 2023-07-21
+version_adopted: 2023-06-15
 adopted: 2008-11-14
 in_force: 2009-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/176.1"
-pdf: "https://lex.vs.ch/api/fr/versions/629/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3227/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi sur le contrôle de l'habitant
 
-du 14 novembre 2008
+du 14.11.2008 (état 21.07.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -27,7 +25,7 @@ sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -61,9 +59,9 @@ ordonne:
 
 **Séjour**
 
-Est en séjour dans une commune, la personne qui y réside dans un but particulier, sans intention d'y vivre durablement, mais pour une durée d'au moins trois mois consécutifs ou répartis sur une même année, notamment en vue d'y fréquenter les écoles ou d'y être placé dans un établissement d'éducation, un hospice, un hôpital ou une maison de détention.
+<sup>1</sup> Est en séjour dans une commune, la personne qui y réside dans un but particulier, sans intention d'y vivre durablement, mais pour une durée d'au moins trois mois consécutifs ou répartis sur une même année, notamment en vue d'y fréquenter les écoles ou d'y être placé dans un établissement d'éducation, un hospice, un hôpital ou une maison de détention.
 
-### Chapitre 2: Attributions
+## 2 Attributions
 
 #### Art. 5
 
@@ -74,11 +72,8 @@ Est en séjour dans une commune, la personne qui y réside dans un but particuli
 <sup>2</sup> Le Bureau communal du contrôle de l'habitant est affecté à cette tâche et a notamment les attributions suivantes:
 
 - a) tenir le registre des personnes établies et séjournant sur le territoire communal;
-
 - b) recevoir et enregistrer les déclarations d'arrivée et de départ, les changements d'adresse, d'état civil et de situation;
-
 - c) conserver les documents de légitimation requis et les restituer à leurs titulaires lors du départ;
-
 - d) veiller à ce que toutes les personnes concernées remplissent les obligations que leur impose la présente loi et procéder aux contrôles nécessaires. Le concours de la force publique peut être requis en cas de besoin.
 
 #### Art. 6
@@ -90,12 +85,11 @@ Est en séjour dans une commune, la personne qui y réside dans un but particuli
 <sup>2</sup> L'autorité de surveillance a notamment les attributions suivantes:
 
 - a) exercer la surveillance des préposés et veiller à assurer leur formation;
-
 - b) émettre les directives et les instructions nécessaires.
 
 <sup>3</sup> En cas de difficulté concernant la détermination du domicile, l'autorité de surveillance décide en se référant aux dispositions du Code civil suisse et à la jurisprudence.
 
-### Chapitre 3: Déclarations
+## 3 Déclarations
 
 #### Art. 7
 
@@ -103,9 +97,11 @@ Est en séjour dans une commune, la personne qui y réside dans un but particuli
 
 <sup>1</sup> La personne qui s'établit dans une commune doit s'annoncer au contrôle de l'habitant dans les 14 jours. Elle est en outre tenue de déposer son acte d'origine ou un document d'état civil analogue contre délivrance d'un accusé de réception. Les ressortissants étrangers produisent une pièce d'identité ainsi que, le cas échéant, leur permis de séjour ou d'établissement.
 
+<sup>1<sup>bis</sup></sup> Si la personne effectue son annonce par voie électronique, la commune de départ se charge de l'envoi postal de l'acte d'origine ou du document analogue à la commune d'arrivée.
+
 <sup>2</sup> La personne qui séjourne plus de trois mois consécutifs ou plus de trois mois par an dans une commune du canton, sans toutefois avoir l'intention de s'y établir doit s'annoncer au contrôle de l'habitant dans un délai de 14 jours. Elle présentera une pièce officielle attestant le maintien de son domicile dans une autre commune. Après un délai d'une année ou au plus tard à l'échéance dudit document, elle devra produire une nouvelle attestation de sa commune de domicile.
 
-<sup>3</sup> La personne établie ou en séjour qui quitte la commune doit annoncer son départ et indiquer sa destination.
+<sup>3</sup> La personne établie ou en séjour qui quitte la commune doit annoncer son départ personnellement ou par voie électronique et indiquer sa destination.
 
 <sup>4</sup> Toute personne, établie ou en séjour, qui change d'adresse à l'intérieur de la commune, doit le communiquer au contrôle de l'habitant dans les 14 jours.
 
@@ -115,13 +111,15 @@ Est en séjour dans une commune, la personne qui y réside dans un but particuli
 
 **Modalités d'annonce**
 
-<sup>1</sup> L'annonce est faite au contrôle de l'habitant. Les personnes majeures sont tenues de se présenter personnellement à moins d'en avoir été dispensées pour de justes motifs.
+<sup>1</sup> L'annonce est faite au contrôle de l'habitant personnellement ou par voie électronique. Les personnes majeures sont tenues de se présenter personnellement à moins d'en avoir été dispensées pour de justes motifs ou de s'être annoncées par voie électronique.
 
 <sup>2</sup> La déclaration du conjoint, du partenaire enregistré et du titulaire de l'autorité parentale vaut pour l'autre conjoint ou partenaire enregistré et pour les enfants mineurs aussi longtemps que ces personnes font ménage commun avec lui.
 
 <sup>3</sup> La déclaration d'arrivée concernant les personnes sous tutelle incombe à leur représentant légal.
 
 <sup>4</sup> La direction des ménages collectifs veille à ce que les personnes vivant dans son établissement soient annoncées au contrôle de l'habitant; si nécessaire, elle annonce l'arrivée en lieu et place des intéressés.
+
+<sup>5</sup> Le Conseil d’Etat édicte un règlement concernant notamment les spécifications techniques, les modalités d’organisation et le format applicable à l’échange des données en matière d’annonces par voie électronique afin d’en garantir leur sécurité.
 
 #### Art. 9
 
@@ -134,18 +132,17 @@ Est en séjour dans une commune, la personne qui y réside dans un but particuli
 <sup>3</sup> Ont l'obligation de communiquer au contrôle de l'habitant, sur demande et sans frais, les renseignements relatifs aux personnes tenues de s'annoncer:
 
 - a) les employeurs pour leurs employés;
-
 - b) les bailleurs et gérants d'immeubles, pour les locataires qui habitent leurs appartements ou immeubles, qui y emménagent ou qui les quittent;
-
 - c) les établissements publics qui sont soumis aux dispositions topiques de la loi sur l'hébergement et la restauration;
-
 - d) les logeurs, pour les personnes habitant dans leur ménage.
 
 <sup>4</sup> La Poste communique gratuitement aux services du contrôle de l'habitant qui en font la demande les adresses des personnes qui ne s'acquittent pas de leur obligation au sens de l'article 7 de la présente loi.
 
 #### Art. 10
 
-Protection des données détenues par le contrôle de l'habitant La communication de données du contrôle de l'habitant est réglée par la loi qui traite de la protection des données.
+**Protection des données détenues par le contrôle de l'habitant**
+
+<sup>1</sup> La communication de données du contrôle de l'habitant est réglée par la loi qui traite de la protection des données.
 
 #### Art. 11
 
@@ -155,11 +152,11 @@ Protection des données détenues par le contrôle de l'habitant La communicatio
 
 <sup>2</sup> Lorsqu'une personne quitte sa commune de domicile sans annoncer son départ et que le nouveau domicile est connu, son départ est enregistré après sommation et ses documents de légitimation sont envoyés à la nouvelle commune de domicile.
 
-<sup>3</sup> Si le nouveau domicile est inconnu, la commune peut enregistrer d'office un départ après un délai de six mois..
+<sup>3</sup> Si le nouveau domicile est inconnu, la commune peut enregistrer d'office un départ après un délai de six mois.
 
 <sup>4</sup> Les frais administratifs en découlant sont à la charge de l'intéressé.
 
-### Chapitre 4: Autres dispositions
+## 4 Autres dispositions
 
 #### Art. 12
 
@@ -187,7 +184,7 @@ Protection des données détenues par le contrôle de l'habitant La communicatio
 
 <sup>2</sup> La procédure est régie par la loi sur la procédure et la juridiction administratives du 6 octobre 1976.
 
-### Chapitre 5: Dispositions finales
+## 5 Dispositions finales
 
 #### Art. 15
 
@@ -203,10 +200,6 @@ Protection des données détenues par le contrôle de l'habitant La communicatio
 
 <sup>1</sup> La présente loi est soumise au référendum facultatif.
 
-<sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi.[^16-1]
+<sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi.
 
-Ainsi adopté en lecture unique (art. 101 RGC) en séance du Grand Conseil, à Sion, le 14 novembre 2008.
-
-Le président du Grand Conseil: Paul-André Roux Le chef du Service parlementaire: Claude Bumann
-
-[^16-1]: Entrée en vigueur le 1er mars 2009 (BO No 49/2008)
+RCV BO/Abl. 49/2008
