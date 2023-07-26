@@ -4,11 +4,11 @@ title: "Verordnung vom 17. Juni 1996 über das schweizerische Akkreditierungssys
 short: AkkBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904"
 language: de
-version: 2023-01-01
+version: 2023-07-27
 adopted: 1996-06-17
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20230727-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de"
 
 (Akkreditierungs‑ und Bezeichnungsverordnung, AkkBV)
 
-vom 17. Juni 1996 (Stand am 1. Januar 2023)
+vom 17. Juni 1996 (Stand am 27. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 8, 10, 15 und 16 des Bundesgesetzes vom 6. Oktober 1995[^ingress-1] über die technischen Handelshemmnisse (THG), in Anwendung des Abkommens vom 3. Dezember 1998[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und Kanada über die gegenseitige Anerkennung von Konformitätsbewertungen, in Anwendung des Abkommens vom 21. Juni 1999[^ingress-3] zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die gegenseitige Anerkennung von Konformitätsbewertungen, in Anwendung des Abkommens vom 21. Juni 2001[^ingress-4] zur Ergänzung des Übereinkommens vom 4. Januar 1960[^ingress-5] zur Errichtung der Europäischen Freihandels‑Assoziation (EFTA) und seines Anhanges I, in Anwendung des Abkommens vom 17. November 2022[^ingress-6] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die gegenseitige Anerkennung von Konformitätsbewertungen,[^ingress-7]
+gestützt auf die Artikel 8, 10, 15 und 16 des Bundesgesetzes vom 6. Oktober 1995[^ingress-1] über die technischen Handelshemmnisse, in Anwendung des Abkommens vom 3. Dezember 1998[^ingress-2] zwischen der Schweiz und Kanada über die gegenseitige Anerkennung von Konformitätsbewertungen, in Anwendung des Abkommens vom 21. Juni 1999[^ingress-3] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die gegenseitige Anerkennung von Konformitätsbewertungen, in Anwendung des Abkommens vom 21. Juni 2001[^ingress-4] zur Änderung des Übereinkommens vom 4. Januar 1960[^ingress-5] zur Errichtung der Europäischen Freihandelsassoziation und seines Anhanges I, in Anwendung des Abkommens vom 17. November 2022[^ingress-6] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die gegenseitige Anerkennung von Konformitätsbewertungen, in Anwendung des Abkommens vom 12. Januar 2023[^ingress-7] zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika über die gegenseitige Anerkennung betreffend die gute Herstellungspraxis für Arzneimittel,[^ingress-8]
 
 verordnet:
 
@@ -31,7 +31,8 @@ verordnet:
 [^ingress-4]: [AS 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
 [^ingress-5]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^ingress-6]: [SR 0.946.536.71](https://fedlex.data.admin.ch/eli/cc/2023/11)
-[^ingress-7]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 767](https://fedlex.data.admin.ch/eli/oc/2022/767)).
+[^ingress-7]: [SR 0.812.101.933.6](https://fedlex.data.admin.ch/eli/cc/2023/419)
+[^ingress-8]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 27. Juli 2023 ([AS 2023 418](https://fedlex.data.admin.ch/eli/oc/2023/418)).
 
 ## 1. Kapitel: Gegenstand; Zweck der Akkreditierung und der Bezeichnung
 
@@ -508,10 +509,11 @@ Die Stelle hat die Kosten zu tragen, die sie im Rahmen von Verfahren nach dieser
 
 Das SECO bestimmt und leitet die schweizerische Delegation in den Organen der folgenden Abkommen:
 
-- a. Abkommen vom 3. Dezember 1998[^39-2] zwischen der der Schweizerischen Eidgenossenschaft und Kanada über die gegenseitige Anerkennung von Konformitätsbewertungen.
-- b. Abkommen vom 21. Juni 1999[^39-3] zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die gegenseitige Anerkennung von Konformitätsbewertungen.
-- c. Anhang I des Abkommens vom 21. Juni 2001[^39-4] zur Ergänzung des Übereinkommens vom 4. Januar 1960[^39-5] zur Errichtung der Europäischen Freihandels-Assoziation (EFTA).
-- d.[^39-6] Abkommen vom 17. November 2022 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigtes Königreich von Grossbritannien und Nordirland über die gegenseitige Anerkennung von Konformitätsbewertungen.
+- a. Abkommen vom 3. Dezember 1998 zwischen der Schweiz und Kanada über die gegenseitige Anerkennung von Konformitätsbewertungen;
+- b. Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die gegenseitige Anerkennung von Konformitätsbewertungen;
+- c. Anhang I des Abkommens vom 21. Juni 2001 zur Änderung des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation;
+- d. Abkommen vom 17. November 2022 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die gegenseitige Anerkennung von Konformitätsbewertungen;
+- e. Abkommen vom 12. Januar 2023 zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika über die gegenseitige Anerkennung betreffend die gute Herstellungspraxis für Arzneimittel.[^39-2]
 
 <sup>2</sup>
 
@@ -524,11 +526,7 @@ Im Einvernehmen mit den zuständigen Behörden kann das SECO Beschlüssen der Or
 <sup>3</sup> Kommt es zu keinem Einvernehmen unter den zuständigen Behörden, entscheidet der Bundesrat.
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)).
-[^39-2]: [SR 0.946.523.21](https://fedlex.data.admin.ch/eli/cc/2001/436)
-[^39-3]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^39-4]: [BBl 2001 5028](https://fedlex.data.admin.ch/eli/fga/2001/849)
-[^39-5]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^39-6]: Eingefügt durch Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 767](https://fedlex.data.admin.ch/eli/oc/2022/767)).
+[^39-2]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 27. Juli 2023 ([AS 2023 418](https://fedlex.data.admin.ch/eli/oc/2023/418)).
 
 #### Art. 40
 
@@ -620,35 +618,35 @@ Folgende Akkreditierungszeichen können in roter oder in schwarzer Ausführung v
 
 - a. Zeichen der akkreditierten Prüfstellen («Swiss Testing Service» [STS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image2.png)
 
 - b. Zeichen der akkreditierten Kalibrierstellen («Swiss Calibration Service» [SCS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image4.png)
 
 - c. Zeichen der akkreditierten Hersteller von Referenzmaterialien («Swiss Reference Material Service» [SRMS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image6.png)
 
 - d. Zeichen der akkreditierten Anbieter von Eignungsprüfungen («Swiss Proficiency Testing Service» [SPTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image8.png)
 
 - e. Zeichen der akkreditierten Inspektionsstellen («Swiss Inspection Service» [SIS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image10.png)
 
 - f. Zeichen der akkreditierten Zertifizierungsstellen für Managementsysteme («Swiss Certification Service for Managementsystems» [SCESm])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image12.png)
 
 - g. Zeichen der akkreditierten Zertifizierungsstellen für Personen («Swiss Certification Service for Persons» [SCESe])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image14.png)
 
 - h. Zeichen der akkreditierten Zertifizierungsstellen für Produkte, Prozesse und Dienstleistungen («Swiss Certification Service for Products, Processes and Services» [SCESp])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image16.png)
 
 Anhang 5[^t-5]
 

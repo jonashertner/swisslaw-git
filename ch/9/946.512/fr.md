@@ -4,11 +4,11 @@ title: "Ordonnance du 17 juin 1996 sur le système suisse d'accréditation et la
 short: OAccD
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904"
 language: fr
-version: 2023-01-01
+version: 2023-07-27
 adopted: 1996-06-17
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20230727-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr"
 
 (Ordonnance sur l’accréditation et la désignation, OAccD)
 
-du 17 juin 1996 (État le 1<sup>er</sup> janvier 2023)
+du 17 juin 1996 (État le 27 juillet 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 8, 10, 15 et 16 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-1], vu l’Accord du 3 décembre 1998 entre la Confédération suisse et le Canada sur la reconnaissance mutuelle d’évaluations de la conformité[^ingress-2], vu l’Accord du 21 juin 1999 entre la Communauté européenne et la Confédération suisse relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^ingress-3], vu l’Accord du 21 juin 2001[^ingress-4] amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE)[^ingress-5] et son annexe I, vu l’Accord du 17 novembre 2022 entre la Confédération suisse et Royaume-Uni de Grande-Bretagne et d’Irlande du Nord sur la reconnaissance mutuelle en matière d’évaluations de la conformité[^ingress-6],[^ingress-7]
+vu les art. 8, 10, 15 et 16 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^ingress-1], vu l’Accord du 3 décembre 1998 entre la Confédération suisse et le Canada sur la reconnaissance mutuelle d’évaluations de la conformité[^ingress-2], vu l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^ingress-3], vu l’Accord du 21 juin 2001[^ingress-4] amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange[^ingress-5] et son annexe I, vu l’Accord du 17 novembre 2022 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord sur la reconnaissance mutuelle en matière d’évaluations de la conformité[^ingress-6], vu l’Accord du 12 janvier 2023 entre la Confédération suisse et les États-Unis d’Amérique sur la reconnaissance mutuelle relative aux bonnes pratiques de fabrication des médicaments[^ingress-7],[^ingress-8]
 
 arrête:
 
@@ -30,8 +30,9 @@ arrête:
 [^ingress-3]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
 [^ingress-4]: [RO 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
 [^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-6]: [RS 0.946.536.71](https://fedlex.data.admin.ch/eli/cc/2023/11); RO **...**
-[^ingress-7]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 767](https://fedlex.data.admin.ch/eli/oc/2022/767)).
+[^ingress-6]: [RS 0.946.536.71](https://fedlex.data.admin.ch/eli/cc/2023/11)
+[^ingress-7]: [RS 0.812.101.933.6](https://fedlex.data.admin.ch/eli/cc/2023/419)
+[^ingress-8]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 27 juil. 2023 ([RO 2023 418](https://fedlex.data.admin.ch/eli/oc/2023/418)).
 
 ## Chapitre 1 Objet; but de l’accréditation et de la désignation
 
@@ -196,7 +197,7 @@ Le requérant doit garantir aux auditeurs l’accès à ses locaux et installati
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4323](https://fedlex.data.admin.ch/eli/oc/2003/644)).
 [^14-2]: Abrogé par le ch. I de l’O du 10 mars 2006, avec effet au 1<sup>er</sup> avr. 2006 ([RO 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)).
-[^14-3]: Nouvelle teneur selon le ch. II de l'O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5757](https://fedlex.data.admin.ch/eli/oc/2007/782)).
+[^14-3]: Nouvelle teneur selon le ch. II de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5757](https://fedlex.data.admin.ch/eli/oc/2007/782)).
 
 ### Section 8 Effet de l’accréditation
 
@@ -509,9 +510,10 @@ L’organisme supporte les coûts qu’il engendre dans le cadre des procédures
 Le SECO désigne et conduit la délégation suisse auprès des organes des accords suivants:
 
 - a. Accord du 3 décembre 1998 entre la Confédération suisse et le Canada sur la reconnaissance mutuelle d’évaluations de la conformité;
-- b. Accord du 21 juin 1999 entre la Communauté européenne et la Confédération suisse relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité;
-- c. Annexe I de l’Accord du 21 juin 2001 amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE);
-- d.[^39-2] Accord du 17 novembre 2022 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité.
+- b. Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité;
+- c. Annexe I de l’Accord du 21 juin 2001 amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange.
+- d. Accord 17 novembre 2022 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord sur la reconnaissance mutuelle en matière d’évaluations de la conformité;
+- e. Accord du 12 janvier 2023 entre la Confédération suisse et les États-Unis d’Amérique sur la reconnaissance mutuelle relative aux bonnes pratiques de fabrication des médicaments.[^39-2]
 
 <sup>2</sup>
 
@@ -524,7 +526,7 @@ En accord avec les autorités concernées, le SECO peut consentir aux décisions
 <sup>3</sup> Faute d’entente entre les autorités concernées, la décision incombe au Conseil fédéral.
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)).
-[^39-2]: Introduite par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 767](https://fedlex.data.admin.ch/eli/oc/2022/767)).
+[^39-2]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 27 juil. 2023 ([RO 2023 418](https://fedlex.data.admin.ch/eli/oc/2023/418)).
 
 #### Art. 40
 
@@ -576,7 +578,7 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Nouvelle teneur selon le ch. II de l’O du DEFR du 5 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1411](https://fedlex.data.admin.ch/eli/oc/2014/301)).
-[^annex1-lvlu1-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex1-lvlu1-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 SN EN ISO/CEI 17011, Évaluation de la conformité – Exigences générales pour les organes d’accréditation procédant à l’accréditation des organes d’évaluation de la conformité.
 
@@ -589,7 +591,7 @@ Annexe 2[^t-2]
 [^annex2-lvlu1-1]
 
 [^t-2]: Nouvelle teneur selon le ch. II de l’O du DEFR du 5 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1411](https://fedlex.data.admin.ch/eli/oc/2014/301)).
-[^annex2-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex2-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 - a. SN EN ISO/CEI 17025, Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais;
 - b. SN EN ISO 15189, Laboratoires de biologie médicale – Exigences concernant la qualité et la compétence;
@@ -616,35 +618,35 @@ Les sigles d’accréditation suivants peuvent être utilisés dans leur version
 
 - a. Sigle des laboratoires d’essais accrédités («Swiss Testing Service» [STS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image2.png)
 
 - b. Sigle des laboratoires d’étalonnage accrédités («Swiss Calibration Service» [SCS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image4.png)
 
 - c. Sigle des producteurs de matériaux de référence accrédités («Swiss Reference Material Service» [SRMS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image6.png)
 
 - d. Sigle des organisateurs d’essais d’aptitude accrédités («Swiss Proficiency Testing Service» [SPTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image8.png)
 
 - e. Sigle des organismes d’inspection accrédités («Swiss Inspection Service» [SIS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image10.png)
 
 - f. Sigle des organismes accrédités de certification de systèmes de management («Swiss Certification Service for Managementsystems» [SCESm])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image12.png)
 
 - g. Sigle des organismes accrédités de certification de personnes («Swiss Certification Service for Persons» [SCESe])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image14.png)
 
 - h. Sigle des organismes accrédités de certification de produits, procédés et services («Swiss Certification Service for Products, Processes and Services» [SCESp])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image16.png)
 
 Annexe 5[^t-5]
 
@@ -652,7 +654,7 @@ Annexe 5[^t-5]
 
 ## Conditions pour la désignation d’organismes d’évaluation de la conformité
 
-[^t-5]: Introduite par le ch. II al. 3 de l’O du 29 mai 2002 ([RO 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)). Mise à jour selon le ch. II des O du 9 mai 2012 ([RO 2012 2887](https://fedlex.data.admin.ch/eli/oc/2012/343)) et du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 261](https://fedlex.data.admin.ch/eli/oc/2016/32)).
+[^t-5]: Introduite par le ch. II al. 3 de l’O du 29 mai 2002 ([RO 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)). Mise à jour par le ch. II des O du 9 mai 2012 ([RO 2012 2887](https://fedlex.data.admin.ch/eli/oc/2012/343)) et du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 261](https://fedlex.data.admin.ch/eli/oc/2016/32)).
 
 1
 
