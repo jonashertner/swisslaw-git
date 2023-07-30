@@ -3,11 +3,11 @@ sr: "0.748.710.11"
 title: Protocole du 4 avril 2014 portant amendement de la Convention relative aux infractions et à certains autres actes survenant à bord des aéronefs
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/469"
 language: fr
-version: 2021-08-01
+version: 2023-07-31
 adopted: 2014-04-04
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/469/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2021-469-20210801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/469/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/469/20230731/fr/xml/fedlex-data-admin-ch-eli-cc-2021-469-20230731-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/469/20230731/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Montréal le 4 avril 2014 Approuvé par l’Assemblée fédérale le 18 décembre 2020[^t-1] Instrument d’adhésion déposé par la Suisse le 10 juin 2021 Entré en vigueur pour la Suisse le 1<sup>er</sup> août 2021
 
-(Etat le 1<sup>er</sup> août 2021)
+(État le 31 juillet 2023)
 
 [^t-1]: [RO 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468)
 
@@ -44,7 +44,7 @@ Le présent Protocole porte amendement de la Convention relative aux infractions
 
 L’art. 1, par. 3, de la Convention est remplacé par ce qui suit:
 
-«Art. 1
+«*Art. 1*
 
 <sup>3.</sup>
 
@@ -57,7 +57,7 @@ Aux fins de la présente Convention:
 
 L’art. 2 de la Convention est remplacé par ce qui suit:
 
-«Art. 2
+«*Art. 2*
 
 Sans préjudice des dispositions de l’art. 4 et sous réserve des exigences de la sécurité de l’aéronef et des personnes ou des biens à bord, aucune disposition de la présente Convention ne peut être interprétée comme autorisant ou prescrivant l’application de quelque mesure que ce soit dans le cas d’infractions à des lois pénales de caractère politique ou fondées sur la discrimination pour tout motif comme la race, la religion, la nationalité, l’origine ethnique, l’opinion politique ou le genre.»
 
@@ -65,7 +65,7 @@ Sans préjudice des dispositions de l’art. 4 et sous réserve des exigences de
 
 L’art. 3 de la Convention est remplacé par ce qui suit:
 
-«Art. 3
+«*Art. 3*
 
 <sup>1.</sup> L’État d’immatriculation de l’aéronef est compétent pour connaître des infractions commises et actes accomplis à bord.
 
@@ -95,7 +95,7 @@ L’art. 3 de la Convention est remplacé par ce qui suit:
 
 Le texte ci-après est ajouté en tant qu’art. 3<sup>bis</sup> de la Convention:
 
-«Art. 3<sup>bis</sup>
+«*Art.* *3**<sup>bis</sup>*
 
 Si un État contractant, exerçant sa compétence au titre de l’art. 3, a été informé ou a appris autrement qu’un ou plusieurs autres États contractants mènent une enquête, une poursuite ou une instance judiciaire concernant les mêmes infractions ou actes, ledit État contractant consulte, le cas échéant, ces autres États contractants aux fins de coordonner leurs actions. Les obligations du présent article sont sans préjudice des obligations qui incombent à un État contractant en vertu de 1’art. 13.»
 
@@ -107,7 +107,7 @@ L’art. 5, par. 2, de la Convention est supprimé.
 
 L’art. 6 de la Convention est remplacé par ce qui suit:
 
-«Art. 6
+«*Art. 6*
 
 <sup>1.</sup>
 
@@ -127,7 +127,7 @@ Lorsque le commandant d’aéronef est fondé à croire qu’une personne a comm
 
 L’art. 9 de la Convention est remplacé par ce qui suit:
 
-«Art. 9
+«*Art. 9*
 
 <sup>1.</sup> Lorsque le commandant d’aéronef est fondé à croire qu’une personne a accompli à bord de l’aéronef un acte qui, selon lui, constitue une infraction grave, il peut remettre ladite personne aux autorités compétentes de tout État contractant sur le territoire duquel atterrit l’aéronef.
 
@@ -139,7 +139,7 @@ L’art. 9 de la Convention est remplacé par ce qui suit:
 
 L’art. 10 de la Convention est remplacé par ce qui suit:
 
-«Art. 10
+«*Art. 10*
 
 Si les mesures prises sont conformes à la présente Convention, ni le commandant d’aéronef, ni un autre membre de l’équipage, ni un passager, ni un agent de sûreté en vol, ni le propriétaire, ni l’exploitant de l’aéronef, ni la personne pour le compte de laquelle le vol a été effectué, ne peuvent être tenus responsables dans une procédure engagée en raison d’un préjudice subi par la personne qui a fait l’objet de ces mesures.»
 
@@ -147,7 +147,7 @@ Si les mesures prises sont conformes à la présente Convention, ni le commandan
 
 Le texte ci-après est ajouté en tant qu’art. 15<sup>bis</sup> de la Convention:
 
-«Art. 15<sup>bis</sup>
+«*Art. 15**<sup>bis</sup>*
 
 <sup>1.</sup>
 
@@ -162,7 +162,7 @@ Tout État contractant est encouragé à prendre les mesures nécessaires pour e
 
 L’art. 16, par 1, de la Convention est remplacé par ce qui suit:
 
-«Art. 16
+«*Art. 16*
 
 Les infractions commises à bord d’aéronefs sont considérées, aux fins d’extradition entre les États contractants, comme ayant été commises tant au lieu de leur perpétration que sur le territoire des États contractants qui doivent établir leur compétence conformément aux dispositions des par. 2 et 2<sup>bis</sup> de l’art. 3.»
 
@@ -170,7 +170,7 @@ Les infractions commises à bord d’aéronefs sont considérées, aux fins d’
 
 L’art. 17 de la Convention est remplacé par ce qui suit:
 
-«Art. 17
+«*Art. 17*
 
 <sup>1.</sup> En prenant des mesures d’enquête ou d’arrestation ou en exerçant de toute autre manière leur compétence à l’égard d’une infraction commise à bord d’un aéronef, les États contractants doivent dûment tenir compte de la sécurité et des autres intérêts de la navigation aérienne et doivent agir de manière à éviter de retarder sans nécessité l’aéronef, les passagers, les membres de l’équipage ou les marchandises.
 
@@ -180,7 +180,7 @@ L’art. 17 de la Convention est remplacé par ce qui suit:
 
 Le texte ci-après est ajouté en tant qu’art. 18<sup>bis</sup> de la Convention:
 
-«Art. 18<sup>bis</sup>
+«*Art. 18**<sup>bis</sup>*
 
 Aucune disposition de la présente Convention n’exclut le droit de chercher à recouvrer, conformément au droit national, des dommages-intérêts auprès d’une personne débarquée ou remise conformément aux dispositions de l’art. 8 ou 9, respectivement.»
 
@@ -224,43 +224,57 @@ Le dépositaire notifiera rapidement à tous les États signataires et à tous l
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés, ont signé le présent Protocole. Fait à Montréal le quatrième jour du mois d’avril de l’an deux mille quatorze dans les langues française, anglaise, arabe, chinoise, espagnole et russe, tous les textes faisant également foi après la vérification effectuée par le Secrétariat de la Conférence, sous l’autorité du Président de la Conférence, dans les quatre-vingt-dix jours suivant cette date, pour ce qui est de la concordance des textes entre eux. Le présent Protocole sera déposé auprès de l’Organisation de l’aviation civile internationale, et le dépositaire en transmettra des copies certifiées conformes à tous les États contractants du présent Protocole. (Suivent les signatures)
 
-Champ d’application le 20 juillet 2021**[^t-2]**
+Champ d’application le 31 juillet 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Angola</td><td>4 octobre</td><td>2022</td><td>1<sup>er</sup> décembre</td><td>2022</td></tr>
+<tr><td>Arménie</td><td>17 février</td><td>2022 A</td><td>1<sup>er</sup> avril</td><td>2022</td></tr>
 <tr><td>Bahreïn</td><td>26 février</td><td>2016 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Botswana</td><td>30 avril</td><td>2021 A</td><td>1<sup>er</sup> juin</td><td>2021</td></tr>
+<tr><td>Chypre</td><td>10 mai</td><td>2023 A</td><td>1<sup>er</sup> juillet</td><td>2023</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>5 février</td><td>2015</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
-<tr><td>Cuba</td><td>21 octobre</td><td>2020 A</td><td>1<sup>er</sup> décembre</td><td>2020</td></tr>
 <tr><td>Côte d’Ivoire</td><td>31 juillet</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Cuba</td><td>21 octobre</td><td>2020 A</td><td>1<sup>er</sup> décembre</td><td>2020</td></tr>
+<tr><td>Égypte</td><td>19 juin</td><td>2017 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Émirats arabes unis</td><td>7 mars</td><td>2023</td><td>1<sup>er</sup> mai</td><td>2023</td></tr>
 <tr><td>Finlande</td><td>28 juin</td><td>2021</td><td>1<sup>er</sup> août</td><td>2021</td></tr>
 <tr><td>France \*</td><td>25 mars</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
-<tr><td>Égypte</td><td>19 juin</td><td>2017 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Gabon</td><td>1<sup>er</sup> décembre</td><td>2015 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Gambie</td><td>15 février</td><td>2021 A</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>4 juin</td><td>2018 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Guyana</td><td>10 juin</td><td>2016 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Honduras</td><td>23 août</td><td>2021 A</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Jordanie</td><td>10 juin</td><td>2016</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Kazakhstan</td><td>14 février</td><td>2019 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Kenya</td><td>7 octobre</td><td>2022 A</td><td>1<sup>er</sup> décembre</td><td>2022</td></tr>
 <tr><td>Koweït</td><td>11 décembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Luxembourg</td><td>19 novembre</td><td>2021 A</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Malaisie</td><td>7 mars</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Malte</td><td>29 juin</td><td>2016 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Mozambique</td><td>17 août</td><td>2016 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Niger</td><td>7 mars</td><td>2022</td><td>1<sup>er</sup> mai</td><td>2022</td></tr>
 <tr><td>Nigéria</td><td>26 novembre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Oman</td><td>9 février</td><td>2023 A</td><td>1<sup>er</sup> avril</td><td>2023</td></tr>
 <tr><td>Ouganda</td><td>28 novembre</td><td>2017 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Paraguay</td><td>7 août</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Pays-Bas</td><td>4 mars</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>4 mars</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
+<tr><td>Pérou</td><td>28 septembre</td><td>2022 A</td><td>1<sup>er</sup> novembre</td><td>2022</td></tr>
 <tr><td>Portugal</td><td>24 octobre</td><td>2017 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Qatar</td><td>12 juin</td><td>2020</td><td>1<sup>er</sup> août</td><td>2020</td></tr>
 <tr><td>République dominicaine</td><td>21 juin</td><td>2016</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Roumanie</td><td>17 mai</td><td>2022</td><td>1<sup>er</sup> juillet</td><td>2022</td></tr>
+<tr><td>Russie</td><td>17 août</td><td>2021 A</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
+<tr><td>Rwanda</td><td>9 décembre</td><td>2021 A</td><td>1<sup>er</sup> février</td><td>2022</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>5 octobre</td><td>2020 A</td><td>1<sup>er</sup> décembre</td><td>2020</td></tr>
+<tr><td>Sénégal</td><td>4 juillet</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Sierra Leone</td><td>7 octobre</td><td>2022</td><td>1<sup>er</sup> décembre</td><td>2022</td></tr>
 <tr><td>Singapour</td><td>25 septembre</td><td>2018 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Suisse</td><td>10 juin</td><td>2021 A</td><td>1<sup>er</sup> août</td><td>2021</td></tr>
-<tr><td>Sénégal</td><td>4 juillet</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Turquie</td><td>14 mars</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Uruguay</td><td>5 juin</td><td>2019 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](http://www.icao.int) &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty.
+[^t-2]: [RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [2023 443](https://fedlex.data.admin.ch/eli/oc/2023/443). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

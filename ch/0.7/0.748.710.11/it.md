@@ -3,11 +3,11 @@ sr: "0.748.710.11"
 title: Protocollo emendativo del 4 aprile 2014 della Convenzione concernente le infrazioni e taluni altri atti commessi a bordo di aeromobili
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/469"
 language: it
-version: 2021-08-01
+version: 2023-07-31
 adopted: 2014-04-04
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/469/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2021-469-20210801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/469/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/469/20230731/it/xml/fedlex-data-admin-ch-eli-cc-2021-469-20230731-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/469/20230731/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2021** 469; FF **2020** 4579
 
 Traduzione
 
-Concluso a Montreal il 4 aprile 2014
+Concluso a Montreal il 4 aprile 2014 Approvato dall’Assemblea federale il 18 dicembre 2020[^t-1] Strumento di adesione depositato dalla Svizzera il 10 giugno 2021 Entrato in vigore per la Svizzera il 1° agosto 2021
 
-Approvato dall’Assemblea federale il 18 dicembre 2020[^t-1]
-
-Strumento di adesione depositato dalla Svizzera il 10 giugno 2021
-
-Entrato in vigore per la Svizzera il 1° agosto 2021
-
-(Stato 1° agosto 2021)
+(Stato 31 luglio 2023)
 
 [^t-1]: [RU 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468)
 
@@ -230,16 +224,20 @@ Il depositario notificherà sollecitamente a tutti gli Stati firmatari e a tutti
 
 *In fede di che,* i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Montreal il quarto giorno di aprile dell’anno duemilaquattordici in lingua araba, cinese, inglese, francese, russa e spagnola, tutti i testi facenti ugualmente fede, previa verifica, entro novanta giorni da tale data, da parte della Segreteria della Conferenza, sotto l’autorità del Presidente della Conferenza, della coerenza dei testi tra loro. Il presente Protocollo è depositato presso l’Organizzazione dell’aviazione civile internazionale e il depositario ne trasmette copie certificate conformi a tutti gli Stati contraenti del presente Protocollo. (Seguono le firme)
 
-Campo d’applicazione il 20 luglio 2021**[^t-2]**
+Campo d’applicazione il 31 luglio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Angola</td><td>4 ottobre</td><td>2022</td><td>1° dicembre</td><td>2022</td></tr>
+<tr><td>Armenia</td><td>17 febbraio</td><td>2022 A</td><td>1° aprile</td><td>2022</td></tr>
 <tr><td>Bahrein</td><td>26 febbraio</td><td>2016 A</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Botswana</td><td>30 aprile</td><td>2021 A</td><td>1° giugno</td><td>2021</td></tr>
+<tr><td>Cipro</td><td>10 maggio</td><td>2023 A</td><td>1° luglio</td><td>2023</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>5 febbraio</td><td>2015</td><td>1° gennaio</td><td>2020</td></tr>
-<tr><td>Cuba</td><td>21 ottobre</td><td>2020 A</td><td>1° dicembre</td><td>2020</td></tr>
 <tr><td>Costa d’Avorio</td><td>31 luglio</td><td>2017</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Cuba</td><td>21 ottobre</td><td>2020 A</td><td>1° dicembre</td><td>2020</td></tr>
 <tr><td>Egitto</td><td>19 giugno</td><td>2017 A</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>7 marzo</td><td>2023</td><td>1° maggio</td><td>2023</td></tr>
 <tr><td>Finlandia</td><td>28 giugno</td><td>2021</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Francia <sup>\*</sup></td><td>25 marzo</td><td>2021</td><td>1° maggio</td><td>2021</td></tr>
 <tr><td>Gabon</td><td>1° dicembre</td><td>2015 A</td><td>1° gennaio</td><td>2020</td></tr>
@@ -247,26 +245,36 @@ Campo d’applicazione il 20 luglio 2021**[^t-2]**
 <tr><td>Ghana</td><td>4 giugno</td><td>2018 A</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Giordania</td><td>10 giugno</td><td>2016</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Guyana</td><td>10 giugno</td><td>2016 A</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Honduras</td><td>23 agosto</td><td>2021 A</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Kazakistan</td><td>14 febbraio</td><td>2019 A</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Kenya</td><td>7 ottobre</td><td>2022 A</td><td>1° dicembre</td><td>2022</td></tr>
 <tr><td>Kuwait</td><td>11 dicembre</td><td>2018</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Lussemburgo</td><td>19 novembre</td><td>2021 A</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Malaysia</td><td>7 marzo</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Malta</td><td>29 giugno</td><td>2016 A</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Mozambico</td><td>17 agosto</td><td>2016 A</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Niger</td><td>7 marzo</td><td>2022</td><td>1° maggio</td><td>2022</td></tr>
 <tr><td>Nigeria</td><td>26 novembre</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Oman</td><td>9 febbraio</td><td>2023 A</td><td>1° aprile</td><td>2023</td></tr>
 <tr><td>Paesi Bassi</td><td>4 marzo</td><td>2021</td><td>1° maggio</td><td>2021</td></tr>
-<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>4 marzo</td><td>2021</td><td>1° maggio</td><td>2021</td></tr>
+<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>4 marzo</td><td>2021</td><td>1° maggio</td><td>2021</td></tr>
 <tr><td>Paraguay</td><td>7 agosto</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Perù</td><td>28 settembre</td><td>2022 A</td><td>1° novembre</td><td>2022</td></tr>
 <tr><td>Portogallo</td><td>24 ottobre</td><td>2017 A</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Qatar</td><td>12 giugno</td><td>2020</td><td>1° agosto</td><td>2020</td></tr>
 <tr><td>Repubblica Dominicana</td><td>21 giugno</td><td>2016</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Romania</td><td>17 maggio</td><td>2022</td><td>1° luglio</td><td>2022</td></tr>
+<tr><td>Ruanda</td><td>9 dicembre</td><td>2021 A</td><td>1° febbraio</td><td>2022</td></tr>
+<tr><td>Russia</td><td>17 agosto</td><td>2021 A</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>5 ottobre</td><td>2020 A</td><td>1° dicembre</td><td>2020</td></tr>
 <tr><td>Senegal</td><td>4 luglio</td><td>2018</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Sierra Leone</td><td>7 ottobre</td><td>2022</td><td>1° dicembre</td><td>2022</td></tr>
 <tr><td>Singapore</td><td>25 settembre</td><td>2018 A</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Svizzera</td><td>10 giugno</td><td>2021 A</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Turchia</td><td>14 marzo</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Uganda</td><td>28 novembre</td><td>2017 A</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Uruguay</td><td>5 giugno</td><td>2019 A</td><td>1° gennaio</td><td>2020</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: [www.icao.int/](http://www.icao.int/) &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
+[^t-2]: [RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [2023 443](https://fedlex.data.admin.ch/eli/oc/2023/443). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
