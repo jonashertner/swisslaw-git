@@ -4,13 +4,12 @@ number: "480.11"
 title: Reglement über die kulturellen Angelegenheiten
 short: KAR
 language: de
-version: 2022-07-01
-valid_until: 2023-07-30
-version_adopted: 2022-07-04
+version: 2023-07-31
+version_adopted: 2023-07-06
 adopted: 2007-12-10
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/480.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7517/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7800/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kulturelle Angelegenheiten – R
 
 (KAR)
 
-vom 10.12.2007 (Fassung in Kraft getreten am 01.07.2022)
+vom 10.12.2007 (Fassung in Kraft getreten am 31.07.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -176,7 +175,7 @@ beschliesst:
 - c) Die Gesuchstellerin oder der Gesuchsteller verfügt auf dem betreffenden Gebiet über eine abgeschlossene Berufsausbildung und ist darin hauptberuflich tätig.
 - d) Die Gesuchstellerin oder der Gesuchsteller kann mindestens die Hälfte der Gesamtkosten des Schaffensprojekts finanzieren.
 
-<sup>3</sup> Die Vergabe von Schaffensbeiträgen an anerkannte Theatergruppen wird in einer eigenen Verordnung geregelt.
+<sup>3</sup> …
 
 #### Art. 13
 

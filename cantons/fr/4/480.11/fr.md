@@ -4,13 +4,12 @@ number: "480.11"
 title: Règlement sur les affaires culturelles
 short: RAC
 language: fr
-version: 2022-07-01
-valid_until: 2023-07-30
-version_adopted: 2022-07-04
+version: 2023-07-31
+version_adopted: 2023-07-06
 adopted: 2007-12-10
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/480.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7517/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7800/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Affaires culturelles – R
 
 (RAC)
 
-du 10.12.2007 (version entrée en vigueur le 01.07.2022)
+du 10.12.2007 (version entrée en vigueur le 31.07.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -176,7 +175,7 @@ Arrête:
 - c) le requérant ou la requérante doit justifier d'une formation professionnelle achevée et exercer une part prépondérante de son activité professionnelle dans le domaine d'expression concerné;
 - d) le requérant ou la requérante doit être en mesure de financer au minimum la moitié du coût total du projet de création.
 
-<sup>3</sup> L'octroi d'aides ponctuelles à la création en faveur des compagnies théâtrales confirmées fait l'objet d'une ordonnance séparée.
+<sup>3</sup> …
 
 #### Art. 13
 
