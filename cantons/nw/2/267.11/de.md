@@ -4,32 +4,31 @@ number: "267.11"
 title: Vollzugsverordnung zum Gesetz über die Ausübung des Anwaltsberufes
 short: Anwaltsverordnung
 language: de
-version: 2018-03-01
-corrected: 2021-11-09
-version_adopted: 2017-12-12
+version: 2023-08-01
+version_adopted: 2023-06-20
 adopted: 2004-11-23
 in_force: 2004-12-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/267.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/108/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1163/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Gesetz über die Ausübung des Anwaltsberufes (Anwaltsverordnung)
+# Vollzugsverordnung zum Gesetz über die Ausübung des Anwaltsberufes
 
-vom 23. November 2004[^t-1]
+(Anwaltsverordnung)
+
+vom 23.11.2004 (Stand 01.08.2023)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 21 und 25 des Gesetzes vom 4. Februar 2004 über die Ausübung des Anwaltsberufes (Kantonales Anwaltsgesetz)[^t-2],
+gestützt auf Art. 21 und 25 des Gesetzes vom 4. Februar 2004 über die Ausübung des Anwaltsberufes (Kantonales Anwaltsgesetz)[^ingress-1],
 
 beschliesst:
 
-[^t-1]: A 2004, 1979
-[^t-2]: NG 267.1
+[^ingress-1]: NG 267.1
 
-### I. ANWALTSPRÜFUNG
+## 1 Anwaltsprüfung
 
 #### § 1
 
@@ -40,11 +39,8 @@ beschliesst:
 <sup>2</sup> Massgebende Gesichtspunkte für die Bewertung der Kenntnisse sind:
 
 - 1\. das juristische Wissen und Denkvermögen;
-
 - 2\. die Qualität der Analyse von Sachverhalten;
-
 - 3\. die logische und systematische Bearbeitung der gestellten Aufgaben und Fragen;
-
 - 4\. die sprachlichen Fähigkeiten.
 
 #### § 2
@@ -61,7 +57,7 @@ beschliesst:
 
 **Anmeldung**
 
-Die Anmeldung ist unter Beilage der für den Nachweis der Voraussetzungen gemäss Art. 8 des kantonalen Anwaltsgesetzes[^3-1] erforderlichen Belege bei der Kanzlei des Obergerichts einzureichen.
+<sup>1</sup> Die Anmeldung ist unter Beilage der für den Nachweis der Voraussetzungen gemäss Art. 8 des kantonalen Anwaltsgesetzes[^3-1] erforderlichen Belege bei der Kanzlei des Obergerichts einzureichen.
 
 [^3-1]: NG 267.1
 
@@ -69,41 +65,33 @@ Die Anmeldung ist unter Beilage der für den Nachweis der Voraussetzungen gemäs
 
 **Zulassungsentscheid**
 
-Die Anwaltskommission entscheidet über:
+<sup>1</sup> Die Anwaltskommission entscheidet über:
 
 - 1\. die Zulassung;
-
 - 2\. die genauen Termine der Prüfungen;
-
 - 3\. die Gebühren.
 
 #### § 5
 
 **Prüfungsstoff**
 
-Der Prüfungsstoff umfasst das Recht des Bundes und des Kantons in den Bereichen:
+<sup>1</sup> Der Prüfungsstoff umfasst das Recht des Bundes und des Kantons in den Bereichen:
 
 - 1\. Privatrecht;
-
 - 2\. Zivilprozessrecht;
-
 - 3\. Schuldbetreibungs- und Konkursrecht;
-
 - 4\. Straf- und Strafprozessrecht;
-
 - 5\. Staats- und Verwaltungsrecht, einschliesslich Abgabe- und Sozialversicherungsrecht;
-
 - 6\. Verwaltungsverfahrensrecht;
-
 - 7\. Anwaltsrecht.
 
 #### § 6
 
 **Schriftliche Prüfung**
 
-<sup>1</sup> Die schriftliche Prüfung umfasst zwei Klausurarbeiten von je 8 Stunden.
+<sup>1</sup> Die schriftliche Prüfung umfasst eine Klausurarbeit von 8 Stunden.
 
-<sup>2</sup> Im Rahmen der Klausurarbeiten sind in verschiedenen Gebieten des Prüfungsstoffes insbesondere Gutachten, Rechtsschriften, Verträge oder Plädoyers auszuarbeiten.
+<sup>2</sup> Im Rahmen dieser Klausurarbeit sind in verschiedenen Gebieten des Prüfungsstoffes insbesondere Gutachten, Rechtsschriften, Verträge oder Plädoyers auszuarbeiten.
 
 <sup>3</sup> Die Anwaltskommission bestimmt die zulässigen Hilfsmittel. Es dürfen nur die zur Verfügung gestellten technischen Einrichtungen (PC, Drucker usw.) verwendet werden.
 
@@ -127,21 +115,17 @@ Der Prüfungsstoff umfasst das Recht des Bundes und des Kantons in den Bereichen
 
 #### § 9
 
-**Wiederholungen**
-
-Als Prüfungsteile im Sinne von Art. 11 des kantonalen Anwaltsgesetzes[^9-1] gelten die einzelnen Klausurarbeiten und die mündliche Prüfung.
-
-[^9-1]: NG 267.1
+**…**
 
 #### § 10
 
 **Urkunde**
 
-Die Anwaltskommission stellt der Kandidatin oder dem Kandidaten eine Urkunde aus, welche die Erteilung des Anwaltspatentes bestätigt.
+<sup>1</sup> Die Anwaltskommission stellt der Kandidatin oder dem Kandidaten eine Urkunde aus, welche die Erteilung des Anwaltspatentes bestätigt.
 
-### II. ANWALTSREGISTER UND ÖFFENTLICHE LISTE
+## 2 Anwaltsregister und öffentliche Liste
 
-### A. Allgemeine Bestimmungen
+### 2.1 Allgemeine Bestimmungen
 
 #### § 11
 
@@ -167,17 +151,17 @@ Die Anwaltskommission stellt der Kandidatin oder dem Kandidaten eine Urkunde aus
 
 **Meldepflicht**
 
-Im Anwaltsregister oder in der öffentlichen Liste eingetragene Anwältinnen und Anwälte haben Änderungen der registrierten Angaben sowie das Wegfallen der Voraussetzungen für den Eintrag unverzüglich der Kanzlei des Obergerichts zu melden.
+<sup>1</sup> Im Anwaltsregister oder in der öffentlichen Liste eingetragene Anwältinnen und Anwälte haben Änderungen der registrierten Angaben sowie das Wegfallen der Voraussetzungen für den Eintrag unverzüglich der Kanzlei des Obergerichts zu melden.
 
-### B. Anwältinnen und Anwälte aus EU- oder EFTA-Mitgliedstaaten
+### 2.2 Anwältinnen und Anwälte aus EU- oder EFTA-Mitgliedstaaten
 
-### 1. Eignungsprüfung
+### 2.2.1 Eignungsprüfung
 
 #### § 14
 
 **Zulassung und Gegenstand**
 
-Die Zulassung zur Eignungsprüfung und deren Gegenstand richten sich nach Art. 31 BGFA.
+<sup>1</sup> Die Zulassung zur Eignungsprüfung und deren Gegenstand richten sich nach Art. 31 BGFA.
 
 #### § 15
 
@@ -194,11 +178,8 @@ Die Zulassung zur Eignungsprüfung und deren Gegenstand richten sich nach Art. 3
 <sup>1</sup> Die Anwaltskommission entscheidet über:
 
 - 1\. die Zulassung;
-
 - 2\. die zu prüfenden Sachgebiete im Sinne von Art. 31 Abs. 3 BGFA;
-
 - 3\. die Termine für die schriftlichen Prüfungen;
-
 - 4\. die Gebühren.
 
 <sup>2</sup> Die Termine für die schriftlichen Prüfungen werden auf diejenigen der Anwaltsprüfung abgestimmt.
@@ -207,9 +188,9 @@ Die Zulassung zur Eignungsprüfung und deren Gegenstand richten sich nach Art. 3
 
 **Gegenstand und Durchführung**
 
-Die Eignungsprüfung wird grundsätzlich in der Art und im Umfang der Anwaltsprüfung abgenommen. Es gelten die Bestimmungen von § 2 - 9 über die Anwaltsprüfung.
+<sup>1</sup> Die Eignungsprüfung wird grundsätzlich in der Art und im Umfang der Anwaltsprüfung abgenommen. Es gelten die Bestimmungen von § 2–9 über die Anwaltsprüfung.
 
-- 2\. Eignungsgespräch
+### 2.2.2 Eignungsgespräch
 
 #### § 18
 
@@ -226,14 +207,12 @@ Die Eignungsprüfung wird grundsätzlich in der Art und im Umfang der Anwaltspr�
 <sup>1</sup> Die Anwaltskommission entscheidet über:
 
 - 1\. die Zulassung zum Gespräch;
-
 - 2\. den Termin und den Umfang des Gespräches;
-
 - 3\. die Gebühren.
 
 <sup>2</sup> Die Kandidatin oder der Kandidat hat im Rahmen eines Gespräches mit der Anwaltskommission nachzuweisen, dass die Voraussetzungen gemäss Art. 30 Abs. 1 lit. b Ziff. 2 BGFA erfüllt sind.
 
-- 3\. Urkunde, Eintrag in das Anwaltsregister
+### 2.2.3 Urkunde, Eintrag in das Anwaltsregister
 
 #### § 20
 
@@ -243,15 +222,13 @@ Die Eignungsprüfung wird grundsätzlich in der Art und im Umfang der Anwaltspr�
 
 <sup>2</sup> Für den Entscheid über den Eintrag in das kantonale Anwaltsregister gilt § 12.
 
-### III. GEBÜHREN
-
-[^hIIIGEBÜHREN-1]: Fassung gemäss Regierungsratsbeschluss vom 12. Dezember 2017, A 2018, 16; in Kraft seit 1. März 2018
+## 3 Gebühren
 
 #### § 21
 
-**…[^hIIIGEBÜHREN-1]**
+**…**
 
-### IV. SCHLUSSBESTIMMUNGEN
+## 4 Schlussbestimmungen
 
 #### § 22
 
@@ -269,7 +246,7 @@ Die Eignungsprüfung wird grundsätzlich in der Art und im Umfang der Anwaltspr�
 
 **Aufhebung bisherigen Rechts**
 
-Das Reglement vom 12. Februar 1993 zur Verordnung über die vertragliche Vertretung der Parteien vor den Gerichten (Anwaltsreglement)[^23-1] wird aufgehoben.
+<sup>1</sup> Das Reglement vom 12. Februar 1993 zur Verordnung über die vertragliche Vertretung der Parteien vor den Gerichten (Anwaltsreglement)[^23-1] wird aufgehoben.
 
 [^23-1]: A 1993, 407
 
@@ -277,8 +254,6 @@ Das Reglement vom 12. Februar 1993 zur Verordnung über die vertragliche Vertret
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
 
-## Weitere Fussnoten
-
-- [4] NG 265.51
+A 2004, 1979
