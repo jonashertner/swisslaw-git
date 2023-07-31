@@ -4,13 +4,13 @@ number: "471.211"
 title: Verordnung über Ausbildungsbeiträge
 short: "Stipendienverordnung, StipV"
 language: de
-version: 2022-07-01
-valid_until: 2023-07-31
+version: 2023-08-01
+valid_until: 2024-06-30
 version_adopted: 2022-05-18
 adopted: 2007-05-02
 in_force: 2007-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/471.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3220/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3233/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3220/pdf_file"
 
 (Stipendienverordnung, StipV)
 
-Vom 02.05.2007 (Stand 01.07.2022)
+Vom 02.05.2007 (Stand 01.08.2023)
 
 Der Regierungsrat des Kanton Aargau,
 
@@ -230,9 +230,10 @@ beschliesst:
 
 - a) im Total der Einkünfte nicht enthaltene Unterhaltsbeiträge und Renten für die gesuchstellende Person und ihre Geschwister,
 - b) Ergänzungsleistungen zur AHV und IV,
+- b<sup>bis</sup>) Prämienverbilligung Krankenkasse,
 - c) im Total der Einkünfte enthaltene Unterhaltskosten selbstbewohnter Liegenschaften,
 - d) maximal Fr. 30'000.– der Einkünfte des Stiefelternteils,
-- e) Fr. 3'000.– pro Elternteil und Fr. 1'500.– pro Kind,
+- e) Fr. 4'500.– pro Elternteil und Fr. 2'250.– pro Kind,
 - f) Beiträge im Haupterwerb Selbstständiger an die Säule 3a gemäss Steuerveranlagung, wenn beim Geschäftseinkommen keine Beiträge an die 2. Säule berücksichtigt sind,
 - g) Eigenmietwert,
 - h) im Total der Einkünfte enthaltene Unterhaltsbeiträge und Renten für die gesuchstellende Person und ihre Geschwister, wenn sie im Elternbudget nicht berücksichtigt sind.
@@ -295,8 +296,9 @@ beschliesst:
 
 - a) ein allfälliger Elternbeitrag gemäss § 24 Abs. 2,
 - b) tatsächlich erzielte und zumutbarerweise erzielbare Einkünfte der gesuchstellenden Person und ihrer Partnerin oder ihres Partners,
-- b<sup>bis</sup>) Im Vollzeitstudium an Hochschulen bei der gesuchstellenden Person pauschal Fr. 3'000.– zuzüglich des Fr. 8'000.– übersteigenden Anteils eigener Einkünfte,
+- b<sup>bis</sup>) im Vollzeitstudium an Hochschulen bei der gesuchstellenden Person pauschal Fr. 3'000.– zuzüglich des Fr. 9'000.– übersteigenden Anteils eigener Einkünfte,
 - c) weitere Einkünfte wie Erwerbsersatz, Unterhaltsbeiträge, Renten und Ergänzungsleistungen, wenn ein eigener Haushalt anerkannt wird,
+- c<sup>bis</sup>) Prämienverbilligung Krankenkasse, wenn der gesuchstellenden Person ein eigener Anspruch zugestanden und ein eigener Haushalt anerkannt wird,
 - d) Leistungen und Zuwendungen Dritter, namentlich von Privatpersonen, Gemeinden und Stiftungen.
 
 <sup>2</sup> Haben sich die finanziellen Verhältnisse von Eltern, die ihrem gesuchstellenden Kind Unterhaltsbeiträge zu leisten haben oder ihrem Kind diese Beiträge auch nach dessen Volljährigkeit bezahlen, seit der behördlichen oder gerichtlichen Festlegung spürbar verbessert, werden zumutbar höhere Beiträge angerechnet.
