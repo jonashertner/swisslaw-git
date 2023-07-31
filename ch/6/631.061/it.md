@@ -4,11 +4,11 @@ title: "Ordinanza del 23 agosto 2017 sul trattamento dei dati personali nell’U
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: it
-version: 2023-01-01
+version: 2023-08-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/it"
 
 (Ordinanza sul trattamento dei dati nell’UDSC, OTDD)[^t-1]
 
-del 23 agosto 2017 (Stato 1° gennaio 2023)
+del 23 agosto 2017 (Stato 1° agosto 2023)
 
 [^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo
 
@@ -2022,9 +2022,70 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.1 dati personali delle persone fisiche oggetto di controlli delle persone nell’ambito dell’esecuzione di disposti federali di natura non doganale e della lotta alla criminalità;
 - 2\.2 avvisi relativi a persone, veicoli e fatti in relazione con reati per i quali non sussistono sufficienti indizi di reità per l’avvio di un’inchiesta penale.
 
-Allegato 73
+Allegato 72a[^t-5]
+
+## Sistema d’informazione per il contrassegno elettronico
+
+[^t-5]: Introdotto dall’all. n. 2 dell’O del 16 giu. 2023 sul contrassegno stradale, in vigore dal 1° ago. 2023 ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+
+### 1. Scopo
+
+Il sistema d’informazione serve per gli scopi previsti all’articolo 12*a* della legge del 19 marzo 2010[^annex72a-lvlu1-lvl1-1] sul contrassegno stradale (LUSN).
+
+[^annex72a-lvlu1-lvl1-1]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+
+### 2. Contenuto
+
+Il sistema d’informazione può contenere i seguenti dati:
+
+- 2\.1 genere di veicolo;
+- 2\.2 dati relativi alla targa di controllo: tipo, numero, sigla della nazionalità;
+- 2\.3 informazioni di pagamento;
+- 2\.4 momento della registrazione della targa di controllo nel sistema d’informazione e numero del giustificativo;
+- 2\.5 stato dell’accessibilità pubblica;
+- 2\.6 in caso di trasferimento del contrassegno elettronico su un’altra targa di controllo: motivo del trasferimento e prova che la targa di controllo originaria è stata sostituita con un’altra da un’autorità competente per l’ammissione alla circolazione;
+- 2\.7 in caso di contravvenzioni secondo l’articolo 14 capoverso 1 LUSN: immagine scattata nonché luogo e ora;
+- 2\.8
+
+  indirizzo e-mail delle seguenti persone:
+
+  - – persona che ha registrato la targa di controllo nel sistema d’informazione, se ha fornito l’indirizzo e-mail a titolo facoltativo,
+  - – detentore del veicolo in caso di cambiamento della targa di controllo;
+
+- 2\.9 indirizzo di fatturazione.
+
+### 3. Autorizzazioni
+
+- 3\.1 I collaboratori dell’UDSC competenti per la riscossione della tassa per l’utilizzazione delle strade nazionali, per la verifica del pagamento della tassa per l’utilizzazione delle strade nazionali o per il perseguimento e il giudizio delle infrazioni alla LUSN possono trattare i dati di cui al numero 2.
+- 3\.2 I collaboratori dei corpi di polizia cantonali incaricati della verifica del pagamento della tassa per l’utilizzazione delle strade nazionali o del perseguimento e del giudizio delle infrazioni alla LUSN possono consultare i dati di cui ai numeri 2.1–2.4.
+
+### 4. Scambio di dati con altri sistemi d’informazione
+
+- 4\.1
+
+  La consultazione e la ripresa di dati dal sistema d’informazione sull’ammissione alla circolazione (SIAC) sono ammesse per:
+
+  - – la verifica del pagamento della tassa per l’utilizzazione delle strade nazionali;
+  - – il perseguimento e il giudizio di infrazioni alla LUSN; e
+  - – la verifica del trasferimento del contrassegno elettronico su un’altra targa di controllo (art. 5 dell’ordinanza del 16 giugno 2023[^annex72a-lvlu1-lvl4-1] sul contrassegno stradale).
+
+4.2 Lo scambio di dati con i sistemi d’informazione per le finanze e la contabilità (allegato 5) è ammesso per l’incasso della tassa per l’utilizzazione delle strade nazionali.
+
+[^annex72a-lvlu1-lvl4-1]: [RS 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
+
+### 5. Comunicazione dei dati
+
+I dati indicanti che la tassa è stata pagata per una targa di controllo possono essere comunicati nella procedura di richiamo se la persona che ha registrato la targa di controllo ha acconsentito, al momento della registrazione, alla verifica da parte di terzi dell’avvenuto pagamento della tassa.
+
+### 6. Durata di conservazione
+
+I dati sono cancellati al più tardi un anno dopo la scadenza della validità del contrassegno elettronico.
+
+Allegato 73[^t-6]
 
 ## Collezioni ausiliarie di dati
+
+[^t-6]: Aggiornato dall’all. n. 2 dell’O del 16 giu. 2023 sul contrassegno stradale, in vigore dal 1° ago. 2023 ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
 
 ### 1. Scopo
 
@@ -2032,7 +2093,7 @@ Le unità organizzative dell’UDSC possono gestire le collezioni ausiliarie di 
 
 ### 2. Contenuto
 
-Le collezioni ausiliarie di dati possono contenere esclusivamente i dati che si trovano nei sistemi d’informazione previsti per il compito in questione ai sensi degli allegati 1–72.
+Le collezioni ausiliarie di dati possono contenere esclusivamente i dati che si trovano nei sistemi d’informazione previsti per il compito in questione ai sensi degli allegati 1–72*a*.
 
 ### 3. Autorizzazioni e comunicazione
 
@@ -2041,4 +2102,4 @@ Le collezioni ausiliarie di dati possono contenere esclusivamente i dati che si 
 
 ### 4. Conservazione dei dati
 
-I dati contenuti nelle collezioni ausiliarie di dati non possono essere conservati più a lungo di quanto previsto per i rispettivi dati negli allegati 1–72.
+I dati contenuti nelle collezioni ausiliarie di dati non possono essere conservati più a lungo di quanto previsto per i rispettivi dati negli allegati 1–72*a*.

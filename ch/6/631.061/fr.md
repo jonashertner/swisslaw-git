@@ -4,11 +4,11 @@ title: "Ordonnance du 23 août 2017 sur le traitement des données personnelles 
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: fr
-version: 2023-01-01
+version: 2023-08-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/fr"
 
 (Ordonnance sur le traitement des données dans l’OFDF, OTD-OFDF)[^t-1]
 
-du 23 août 2017 (État le 1<sup>er</sup> janvier 2023)
+du 23 août 2017 (État le 1<sup>er</sup> août 2023)
 
 [^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -2016,9 +2016,70 @@ Le système d’information peut contenir les données suivantes:
 - 2\.1 l’identité des personnes physiques faisant l’objet de contrôles d’identité dans le cadre de l’exécution d’actes législatifs de la Confédération autres que douaniers et de la lutte contre la criminalité;
 - 2\.2 les messages indicatifs relatifs aux personnes, aux véhicules et aux opérations liés à un délit pour lequel il n’existe pas de présomption suffisante pour l’ouverture d’une enquête pénale.
 
-Annexe 73
+Annexe 72a[^t-5]
+
+## Système d’information pour la perception de la vignette électronique
+
+[^t-5]: Introduite par l’annexe ch. 2 de l’O du 16 juin 2023 sur la vignette autoroutière, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+
+### 1. But
+
+Le système d’information est utilisé aux fins prévues à l’art. 12*a* de la loi du 19 mars 2010 sur la vignette autoroutière (LVA)[^annex72a-lvlu1-lvl1-1].
+
+[^annex72a-lvlu1-lvl1-1]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+
+### 2. Contenu
+
+Le système d’information peut contenir les données suivantes:
+
+- 2\.1 le type de véhicule;
+- 2\.2 s’agissant de la plaque de contrôle: le type, le numéro et le sigle du pays;
+- 2\.3 les informations de paiement;
+- 2\.4 la date d’enregistrement de la plaque de contrôle dans le système d’information et le numéro du justificatif;
+- 2\.5 le statut de l’accès public;
+- 2\.6 lors du transfert de la vignette électronique sur une autre plaque de contrôle: le motif du transfert et la preuve que la plaque de contrôle originale a été remplacée par une autorité d’admission à la circulation compétente;
+- 2\.7 lors de contraventions au sens de l’art. 14, al. 1, LVA: l’image prise ainsi que le lieu et l’heure de prise de celle-ci;
+- 2\.8
+
+  l’adresse électronique:
+
+  - – de la personne qui a procédé à l’enregistrement de la plaque de contrôle, si elle l’a indiquée volontairement à ce moment-là;
+  - – du détenteur du véhicule en cas de changement de la plaque de contrôle;
+
+- 2\.9 l’adresse de facturation.
+
+### 3. Autorisations
+
+- 3\.1 Les collaborateurs de l’OFDF chargés de la perception de la redevance pour l’utilisation des routes nationales, de la vérification de l’acquittement de la redevance pour l’utilisation des routes nationales ou de la poursuite et du jugement des infractions à la LVA sont autorisés à traiter les données visées au ch. 2.
+- 3\.2 Les collaborateurs des autorités de police cantonales chargés de la vérification de l’acquittement de la redevance pour l’utilisation des routes nationales ou de la poursuite et du jugement des infractions sont autorisés à consulter les données visées aux ch. 2.1 à 2.4.
+
+### 4. Échange de données avec d’autres systèmes d’information
+
+- 4\.1
+
+  La consultation et l’importation de données du système d’information relatif à l’admission à la circulation (SIAC) sont autorisées:
+
+  - – pour la vérification de l’acquittement de la redevance pour l’utilisation des routes nationales;
+  - – pour la poursuite et le jugement d’infractions à la LVA;
+  - – pour la vérification du transfert de la vignette électronique sur une autre plaque de contrôle (art. 5 de l’ordonnance du 16 juin 2023 sur la vignette autoroutière[^annex72a-lvlu1-lvl4-1]).
+
+- 4\.2 L’échange de données avec les systèmes d’information pour les finances et la comptabilité (annexe 5) est autorisé pour l’encaissement de la redevance pour l’utilisation des routes nationales.
+
+[^annex72a-lvlu1-lvl4-1]: [RS 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
+
+### 5. Communication de données
+
+Les données indiquant que la redevance a été acquittée pour une plaque de contrôle peuvent être communiquées en ligne si la personne qui a enregistré la plaque de contrôle a, lors de l’enregistrement, donné son accord à ce que quiconque puisse vérifier dans le système d’information que la redevance a été acquittée.
+
+### 6. Durée de conservation
+
+Les données sont effacées au plus tard une année après l’expiration de la validité de la vignette électronique.
+
+Annexe 73[^t-6]
 
 ## Recueils auxiliaires de données
+
+[^t-6]: Mise à jour par l’annexe ch. 2 de l’O du 16 juin 2023 sur la vignette autoroutière, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
 
 ### 1. But
 
@@ -2026,7 +2087,7 @@ Les unités d’organisation de l’OFDF sont autorisées à tenir des recueils 
 
 ### 2. Contenu
 
-Les recueils auxiliaires de données doivent traiter exclusivement les données qui figurent dans les systèmes d’information prévus pour la tâche en question et visés aux annexes 1 à 72.
+Les recueils auxiliaires de données doivent traiter exclusivement les données qui figurent dans les systèmes d’information prévus pour la tâche en question et visés aux annexes 1 à 72*a*.
 
 ### 3. Autorisations et communication
 
@@ -2035,4 +2096,4 @@ Les recueils auxiliaires de données doivent traiter exclusivement les données 
 
 ### 4. Conservation des données
 
-Les données figurant dans les recueils auxiliaires de données ne doivent pas être conservées plus longtemps que ne le prescrivent les dispositions des annexes 1 à 72 relatives aux données en question.
+Les données figurant dans les recueils auxiliaires de données ne doivent pas être conservées plus longtemps que ne le prescrivent les dispositions des annexes 1 à 72*a* relatives aux données en question.

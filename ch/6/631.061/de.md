@@ -4,11 +4,11 @@ title: "Verordnung vom 23. August 2017 über die Bearbeitung von Personendaten i
 short: DBZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: de
-version: 2023-01-01
+version: 2023-08-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/de"
 
 (Datenbearbeitungsverordnung für das BAZG, DBZV)[^t-1]
 
-vom 23. August 2017 (Stand am 1. Januar 2023)
+vom 23. August 2017 (Stand am 1. August 2023)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -2023,9 +2023,70 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.2 Hinweismeldungen über Personen, Fahrzeuge und Vorgänge im Zusammenhang mit Delikten, bei denen kein genügender Tatverdacht zur Einleitung einer Strafuntersuchung besteht.
 - [tab]
 
-Anhang 73
+Anhang 72a[^t-5]
+
+## Informationssystem für die Erhebung der E-Vignette
+
+[^t-5]: Eingefügt durch Anhang Ziff. 2 der Nationalstrassenabgabeverordnung vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+
+### 1. Zweck
+
+Das Informationssystem dient den in Artikel 12*a* des Nationalstrassenabgabegesetzes vom 19. März 2010[^annex72a-lvlu1-lvl1-1] (NSAG) vorgesehenen Zwecken.
+
+[^annex72a-lvlu1-lvl1-1]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+
+### 2. Inhalt
+
+Das Informationssystem kann folgende Daten enthalten:
+
+- 2\.1 die Fahrzeugart;
+- 2\.2 betreffend das Kontrollschild: Art, Nummer und Länderkennung;
+- 2\.3 die Zahlungsinformation;
+- 2\.4 den Zeitpunkt der Registrierung des Kontrollschildes im Informationssystem und die Belegnummer;
+- 2\.5 den Status der öffentlichen Einsehbarkeit;
+- 2\.6 bei einer Übertragung der E-Vignette auf ein anderes Kontrollschild: Grund der Übertragung sowie Nachweis, dass das ursprüngliche Kontrollschild von einer zuständigen Verkehrszulassungsbehörde durch ein anderes ersetzt wurde;
+- 2\.7 bei Übertretungen nach Artikel 14 Absatz 1 NSAG: aufgenommenes Bild sowie Ort und Zeit der Aufnahme;
+- 2\.8
+
+  die E-Mail-Adressen folgender Personen:
+
+  - – der Person, die das Kontrollschild im Informationssystem registriert hat, falls sie diese bei der Registrierung freiwillig angegeben hat,
+  - – der Halterin oder des Halters des Fahrzeugs im Falle eines Kontrollschildwechsels;
+
+- 2\.9 die Rechnungsadresse.
+
+### 3. Berechtigungen
+
+- 3\.1 Die Mitarbeiterinnen und Mitarbeiter des BAZG, die mit der Erhebung der Nationalstrassenabgabe, der Überprüfung der Entrichtung der Nationalstrassenabgabe oder der Verfolgung und Beurteilung von Widerhandlungen gegen das NSAG betraut sind, dürfen die Daten nach Ziffer 2 bearbeiten.
+- 3\.2 Die Mitarbeiterinnen und Mitarbeiter der kantonalen Polizeibehörden, die mit der Überprüfung der Entrichtung der Nationalstrassenabgabe oder der Verfolgung und Beurteilung von Widerhandlungen gegen das NSAG betraut sind, dürfen die Daten nach den Ziffern 2.1–2.4 einsehen.
+
+### 4. Datenaustausch mit anderen Informationssystemen
+
+- 4\.1
+
+  Die Einsicht in und die Übernahme von Daten aus dem Informationssystem Verkehrszulassung (IVZ) ist zulässig für:
+
+  - – die Überprüfung der Entrichtung der Nationalstrassenabgabe;
+  - – die Verfolgung und Beurteilung von Wiederhandlungen gegen das NSAG; und
+  - – die Überprüfung der Übertragung der E-Vignette auf ein anderes Kontrollschild (Art. 5 Nationalstrassenabgabeverordnung vom 16. Juni 2023[^annex72a-lvlu1-lvl4-1]).
+
+- 4\.2 Der Datenaustausch mit den Informationssystemen für Finanzen und Rechnungswesen (Anhang 5) ist zulässig für das Inkasso der Nationalstrassenabgabe.
+
+[^annex72a-lvlu1-lvl4-1]: [SR 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
+
+### 5. Datenbekanntgabe
+
+Die Angabe, ob für ein Kontrollschild die Abgabe entrichtet worden ist, darf im Abrufverfahren bekanntgegeben werden, wenn die Person, die das Kontrollschild registriert hat, sich bei der Registrierung damit einverstanden erklärt hat, dass im Informationssystem öffentlich abrufbar ist, dass die Abgabe entrichtet worden ist.
+
+### 6. Aufbewahrungsdauer
+
+Die Daten werden spätestens ein Jahr nach Ablauf der Gültigkeit der E-Vignette gelöscht.
+
+Anhang 73[^t-6]
 
 ## Hilfsdatensammlungen
+
+[^t-6]: Bereinigt gemäss Anhang Ziff. 2 der Nationalstrassenabgabeverordnung vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
 
 ### 1. Zweck
 
@@ -2033,7 +2094,7 @@ Die Organisationseinheiten des BAZG dürfen für die Planung und die Kontrolle i
 
 ### 2. Inhalt
 
-Die Hilfsdatensammlungen dürfen ausschliesslich die Daten enthalten, die in den für die betroffene Aufgabe vorgesehenen Informationssystemen nach den Anhängen 1–72 enthalten sind.
+Die Hilfsdatensammlungen dürfen ausschliesslich die Daten enthalten, die in den für die betroffene Aufgabe vorgesehenen Informationssystemen nach den Anhängen 1– 72*a* enthalten sind.
 
 ### 3. Berechtigungen und Bekanntgabe
 
@@ -2042,4 +2103,4 @@ Die Hilfsdatensammlungen dürfen ausschliesslich die Daten enthalten, die in den
 
 ### 4. Datenaufbewahrung
 
-Die in den Hilfsdatensammlungen enthaltenen Daten dürfen nicht länger aufbewahrt werden, als dies in den Anhängen 1–72 für die jeweiligen Daten vorgesehen ist.
+Die in den Hilfsdatensammlungen enthaltenen Daten dürfen nicht länger aufbewahrt werden, als dies in den Anhängen 1–72*a* für die jeweiligen Daten vorgesehen ist.
