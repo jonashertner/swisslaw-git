@@ -1,81 +1,86 @@
 ---
 canton: GR
 number: "919.300"
-title: Reglement über die Kosten für Unterkunft und Verpflegung sowie über die Kursgelder am landwirtschaftlichen Bildungs- und Beratungszentrum Plantahof
+title: Reglement über die Kosten für Unterkunft und Verpflegung sowie über die Kursgebühren am Plantahof
 language: de
-version: 2010-08-01
-corrected: 2014-10-09
-version_adopted: 2010-06-29
+version: 2023-08-01
+version_adopted: 2023-04-25
 adopted: 2010-06-29
 in_force: 2010-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/919.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1797/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3318/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Kosten für Unterkunft und Verpflegung sowie über die Kursgelder am landwirtschaftlichen Bildungs- und Beratungszentrum Plantahof
+# Reglement über die Kosten für Unterkunft und Verpflegung sowie über die Kursgebühren am Plantahof
 
-Gestützt auf Art. 9 der Landwirtschaftsverordnung des Kantons Graubünden[^t-1]
+Vom 29.06.2010 (Stand 01.08.2023)
+
+Gestützt auf Art. 9 der Landwirtschaftsverordnung des Kantons Graubünden[^ingress-1]
 
 von der Regierung erlassen am 29. Juni 2010
 
-[^t-1]: BR 910.050
+[^ingress-1]: BR [910.050](https://www.gr-lex.gr.ch/data/910.050/de)
 
 #### Art. 1
 
-<sup>1</sup> Der Bildungsbereich umfasst vom Landwirtschaftlichen Bildungs- und Unterkunft und Beratungszentrum Plantahof (LBBZ Plantahof) angebotene strukturierte <sup>Verpflegung</sup> Ausbildungsgänge, die von Auszubildenden grundsätzlich in Wochen- <sup>1.</sup> <sup>Bildungs-</sup> bereich blöcken im Internat besucht werden.
+**Unterkunft und Verpflegung 1. Bildungsbereich**
 
-<sup>2</sup> Massgebend sind die AHV-Ansätze für Naturalbezüge beziehungsweise freie Unterkunft und Verpflegung[^1-1].
+<sup>1</sup> Der Bildungsbereich umfasst die vom Plantahof angebotenen Ausbildungsgänge der Grundbildung und der höheren Berufsbildung, die von Lernenden tageweise oder in Wochenblöcken im Internat besucht werden.
 
-<sup>3</sup> Die Wochenpauschale für Auszubildende im Internat berechnet sich aufgrund von sieben Übernachtungen, fünf Frühstücken, fünf Mittagessen und vier Abendessen.
+<sup>2</sup> Massgebend sind die AHV-Ansätze für Naturalbezüge.
 
-<sup>4</sup> Bei der Wochenpauschale für Auszubildende im Externat wird von fünf Mittagessen ausgegangen. Im Externat erhöht sich der massgebende AHV-Ansatz um 50 Prozent, womit auch die Pausenverpflegung abgegolten ist.
+<sup>3</sup> Die Wochenpauschale für Lernende im Internat berechnet sich aufgrund von sieben Übernachtungen, fünf Frühstücken, fünf Mittagessen und vier Abendessen.
 
-<sup>5</sup> Die Ansätze nach den Absätzen 3 und 4 können vom LBBZ Plantahof in begründeten Fällen für die naturwissenschaftliche Berufsmittelschule um bis zu 30 Prozent reduziert werden.
+<sup>4</sup> Bei der Wochenpauschale für Lernende im Externat wird von fünf Mittagessen ausgegangen.
 
-[^1-1]: Die Ansätze sind im Internet publiziert unter: www.plantahof.ch/Dokumentation 1.01.2011 1
+<sup>5</sup> …
 
 #### Art. 2
 
-<sup>1</sup> Der Seminarbereich umfasst Weiterbildungstagungen oder andere Bil- 2. Seminarbereich dungsveranstaltungen, welche entweder vom LBBZ Plantahof angeboten werden oder für welche das LBBZ Plantahof lediglich die Infrastruktur zur Verfügung stellt.
+**2. Kurs- und Seminarbereich**
 
-<sup>2</sup> Im Seminarbereich werden individuelle Marktpreise im Einzelfall festgelegt. Die vereinbarten Preise dürfen die Ansätze gemäss Artikel 1 nicht unterbieten.
+<sup>1</sup> Der Kurs- und Seminarbereich umfasst Weiterbildungsangebote oder andere Bildungsveranstaltungen, welche vom Plantahof selbst angeboten werden oder für welche er lediglich die Infrastruktur zur Verfügung stellt.
+
+<sup>2</sup> Im Kurs- und Seminarbereich werden Marktpreise festgelegt. Die vereinbarten Preise dürfen die Ansätze gemäss Artikel 1 nicht unterschreiten.
+
+<sup>3</sup> Lernende als Langzeitmietende (mindestens 10 Monate), die eine nichtlandwirtschaftliche Ausbildungs- oder Lehrstelle in der Umgebung von Landquart innehaben, werden am Plantahof in Kost und Logis genommen, sofern freie Zimmer vorhanden sind.
 
 #### Art. 3
 
-**Einzelne Mittagessen**
+**Einzelne Mittagessen und Pausenverpflegung**
 
-Für einzelne Mittagessen gelten folgende Preise:
+<sup>1</sup> Für einzelne Mittagessen gelten folgende Preise:
 
-- Auszubildende im Bildungsbereich AHV-Ansatz
+- a) für Lernende der Grundbildung: AHV-Ansatz;
+- b) für Lernende der Grundbildung anderer Bildungsinstitutionen: eineinhalbfacher AHV-Ansatz;
+- c) für Lernende der berufsbegleitenden Grundbildung und der höheren Berufsbildung sowie für Teilnehmende des Direktzahlungskurses und von Kursen gemäss Weiterbildungsprogramm: doppelter AHV-Ansatz;
+- d) für externe Gäste im Seminarbereich: Marktpreise, jedoch mindestens der doppelte AHV-Ansatz.
 
-- Andere Personen im Bildungsbereich doppelter AHV-Ansatz
-
-- Personen im Seminarbereich (inklu- 2.5-facher AHV-Ansatz sive Pausenverpflegung)
+<sup>2</sup> Eine allfällige Pausenverpflegung wird zusätzlich zum Mittagessen in Rechnung gestellt.
 
 #### Art. 4
 
-**Kurse 1. Gebühren**
+**Kursgebühren**
 
-<sup>1</sup> Die Gebühr für einen Kurs beträgt pro Tag 60 Franken und pro Halbtag 40 Franken.
+<sup>1</sup> Die Kursgebühr für einen vom Plantahof angebotenen Kurs gemäss Weiterbildungsprogramm beträgt 60 Franken pro Tag und 40 Franken pro Halbtag.
 
-<sup>2</sup> Für Auszubildende in der Grundbildung wird kein Kursgeld erhoben. Ausgenommen ist die Nachholbildung, für die ein Kursgeld von 40 Franken pro Tag erhoben wird.
+<sup>2</sup> …
 
-<sup>3</sup> In begründeten Fällen kann von diesen Ansätzen abgewichen und ein Pauschalpreis festgelegt werden.
+<sup>3</sup> In begründeten Fällen, insbesondere bei hohen Kosten für Referentinnen und Referenten oder bei einer Beschränkung der Anzahl Teilnehmenden, kann von diesen Ansätzen abgewichen und eine höhere Kursgebühr festgelegt werden.
 
 #### Art. 5
 
-**2. Lehrmaterial und Exkursionen**
+**Lehrmittel und Exkursionen**
 
-Die Kosten für Lehrmittel und weitere Unterrichtsmaterialien sowie Exkursionen gehen zulasten der Auszubildenden.
+<sup>1</sup> Die Kosten für Lehrmittel und weitere Unterrichtsmaterialien sowie Exkursionen gehen zulasten der Lernenden.
 
 #### Art. 6
 
 **Mehrwertsteuer**
 
-In allen Ansätzen und Gebühren ist die Mehrwertsteuer inbegriffen.
+<sup>1</sup> In allen Ansätzen und Gebühren ist die Mehrwertsteuer inbegriffen.
 
 #### Art. 7
 
@@ -85,4 +90,6 @@ In allen Ansätzen und Gebühren ist die Mehrwertsteuer inbegriffen.
 
 <sup>2</sup> Auf diesen Zeitpunkt wird das Reglement über die Kosten für Unterkunft und Verpflegung sowie über die Kursgelder am landwirtschaftlichen Bildungs- und Beratungszentrum Plantahof vom 18. Februar 2003[^7-1] aufgehoben.
 
-[^7-1]: AGS 2003, KA 2003\_1106 2 1.01.2011
+[^7-1]: AGS 2003, KA 2003\_1106
+
+-
