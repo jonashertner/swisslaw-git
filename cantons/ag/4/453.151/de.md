@@ -4,13 +4,13 @@ number: "453.151"
 title: "Verordnung über die Promotion, die Maturitätsprüfung und die Erlangung der Maturität an der Aargauischen Maturitätsschule für Erwachsene"
 short: VPAME
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-05-04
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-05-17
 adopted: 1998-01-07
 in_force: 1998-02-16
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.151"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3215/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3316/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3215/pdf_file"
 
 (VPAME)
 
-Vom 07.01.1998 (Stand 01.08.2022)
+Vom 07.01.1998 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -110,7 +110,7 @@ beschliesst:
 
 <sup>1</sup> Zeugnisse werden am Ende des Grundkurses sowie am Ende des ersten, zweiten und dritten Jahres des Aufbaukurses ausgestellt.
 
-<sup>2</sup> Das Zeugnis enthält die Noten sämtlicher Fächer, an den Promotionsterminen den Promotionsentscheid und in den Fällen von § 4 Abs. 1<sup>bis</sup> eine zusätzliche Begründung.
+<sup>2</sup> Das Zeugnis enthält die Noten sämtlicher Fächer, an den Promotionsterminen den Promotionsentscheid und gegebenenfalls einen Hinweis auf § 4 Abs. 1<sup>bis</sup>.
 
 #### § 5b
 
