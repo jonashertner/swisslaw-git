@@ -3,20 +3,20 @@ canton: LU
 number: 539d
 title: Berufungsreglement der Universität Luzern
 language: de
-version: 2020-08-01
-valid_until: 2023-07-31
-version_adopted: 2020-07-06
+version: 2023-08-01
+valid_until: 2024-03-31
+version_adopted: 2023-04-05
 adopted: 2002-04-10
 in_force: 2002-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539d"
-pdf: "https://srl.lu.ch/api/de/versions/3621/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4115/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Berufungsreglement der Universität Luzern
 
-vom 10.04.2002 (Stand 01.08.2020)
+vom 10.04.2002 (Stand 01.08.2023)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -68,7 +68,7 @@ beschliesst:
 
 <sup>1</sup> Der Berufungskommission gehören in der Regel drei Professorinnen oder Professoren an, von denen zwei aus der berufenden Fakultät stammen müssen, sowie ausser in begründeten Ausnahmefällen eine Fachvertretung aus der Professorenschaft einer anderen Universität. Diese Kommissionsmitglieder werden von der Fakultätsversammlung ernannt; diese bestimmt auch die Vorsitzende oder den Vorsitzenden der Kommission.
 
-<sup>2</sup> Der Kommission gehören ausserdem je eine Vertreterin oder ein Vertreter der Assistierenden und der Studierenden an, die oder der auf Vorschlag der entsprechenden Gruppierung von der Fakultätsversammlung ernannt wird, sowie eine Chancengleichheitsdelegierte oder ein Chancengleichheitsdelegierter, die oder der auf Vorschlag der Dekanin oder des Dekans von der Fakultätsversammlung ernannt wird.
+<sup>2</sup> Der Kommission gehören ausserdem je eine Vertreterin oder ein Vertreter der Assistierenden und der Studierenden an, die oder der auf Vorschlag der entsprechenden Gruppierung von der Fakultätsversammlung ernannt wird, sowie eine Chancengleichheitsdelegierte oder ein Chancengleichheitsdelegierter, die oder der aus einer Liste mit entsprechend qualifizierten Personen, die durch die Gleichstellungskommission geführt wird, von der Fakultätsversammlung ernannt wird.
 
 <sup>3</sup> In die Berufungskommission wird eine fakultätsfremde Senatsberichterstatterin oder ein fakultätsfremder Senatsberichterstatter entsandt, die oder den die Rektorin oder der Rektor ernennt. Sie oder er hat kein Stimmrecht und ist zur Berichterstattung gegenüber dem Senat verpflichtet und gegebenenfalls zur kritischen Beurteilung der Ausschussarbeit berechtigt.
 
@@ -79,21 +79,23 @@ beschliesst:
 
 <sup>5</sup> Amtsvorgängerinnen oder Amtsvorgänger beziehungsweise Emeriti können grundsätzlich nicht als Mitglieder der Berufungskommission ernannt werden. Sie können aber im Verlaufe der Sitzungsperiode der Kommission beratend beigezogen werden.
 
+<sup>5<sup>bis</sup></sup> Soll eine Professur im Hinblick auf eine enge Zusammenarbeit mit einer Partnerinstitution der Universität Luzern («Brückenprofessur») auf dem Weg eines Berufungsverfahrens besetzt werden, kann die Partnerinstitution ein Mitglied mit beratender Stimme in die Berufungskommission entsenden. Diese Regelung ist für gestiftete Professuren nicht anwendbar.
+
 <sup>6</sup> Sämtliche Mitglieder der Berufungskommission haben – unabhängig vom Stimmrecht – Einsicht in die Akten.
 
 #### § 5
 
 **Einleitung des Verfahrens und Ausschreibung**
 
-<sup>1</sup> Die Fakultät ist dafür verantwortlich, dass fachrelevante Kriterien für die Besetzung der Professur formuliert werden. Gestützt auf diesen Kriterienkatalog wird die Professur national und in der Regel auch international, unter Einschluss des nicht-deutschsprachigen Auslandes, ausgeschrieben. Die Fakultät muss vor Beschluss des Ausschreibungstextes die Chancengleichheitsdelegierte beziehungsweise den Chancengleichheitsdelegierten der künftigen Berufungskommission zur Konsultation einladen.
+<sup>1</sup> Die Fakultät ist dafür verantwortlich, dass fachrelevante Kriterien für die Besetzung der Professur formuliert werden. Gestützt auf diesen Kriterienkatalog wird die Professur national und in der Regel auch international, unter Einschluss des nicht-deutschsprachigen Auslandes, ausgeschrieben. Die Fakultät muss vor Beschluss des Ausschreibungstextes die Chancengleichheitsdelegierte beziehungsweise den Chancengleichheitsdelegierten der künftigen Berufungskommission zur Konsultation einladen. Ausschreibungen, die sich nur an ein Geschlecht richten, sind ausnahmsweise zulässig, wenn dies durch eine nicht hinnehmbare Unterrepräsentation in der betroffenen Fakultät gerechtfertigt ist.
 
-<sup>1<sup>bis</sup></sup> Die Fakultät klärt im Vorfeld der Ausschreibung die Gleichstellungssituation im Fach der betreffenden Professur ab. Ist aufgrund dieser Abklärungen eine geschlechtlich unausgeglichene Bewerbungslage zu erwarten, ist die Berufungskommission gehalten, proaktiv nach geeigneten Kandidatinnen beziehungsweise Kandidaten des untervertretenen Geschlechts zu suchen. Die oder der Vorsitzende der Kommission ist verantwortlich für die proaktive Suche und lädt geeignete Kandidatinnen beziehungsweise Kandidaten persönlich zur Bewerbung ein, gegebenenfalls auch nach Ablauf der Bewerbungsfrist. Die oder der Chancengleichheitsdelegierte der Berufungskommission ist verantwortlich für die Dokumentation der proaktiven Suchbemühungen und ihres Erfolgs.
+<sup>1<sup>bis</sup></sup> Die Fakultät klärt im Vorfeld der Ausschreibung die Gleichstellungssituation im Fach der betreffenden Professur ab. Ist aufgrund dieser Abklärungen eine geschlechtlich unausgeglichene Bewerbungslage zu erwarten, ist die Berufungskommission gehalten, proaktiv nach geeigneten Kandidatinnen beziehungsweise Kandidaten des untervertretenen Geschlechts zu suchen. Die oder der Vorsitzende der Kommission ist verantwortlich für die proaktive Suche und lädt geeignete Kandidatinnen beziehungsweise Kandidaten persönlich zur Bewerbung ein, gegebenenfalls auch nach Ablauf der Bewerbungsfrist.
 
 <sup>2</sup> Die Berufungskommission hat die Gewichtung der Evaluationskriterien vor Sichtung der Bewerbungsunterlagen schriftlich festzuhalten, die eingegangenen Bewerbungen und die dazugehörigen Publikationen eingehend zu evaluieren und die Aufgaben der Berichterstattung über die in die engere Wahl genommenen Kandidatinnen und Kandidaten zu verteilen.
 
-<sup>3</sup> Die Berufungskommission kann Kandidaturen von Persönlichkeiten erwägen, die keine Bewerbung eingereicht haben.
+<sup>3</sup> …
 
-<sup>4</sup> Die Berufungskommission organisiert die Einladung der in die engere Wahl genommenen Kandidatinnen und Kandidaten. Die Bewerbungsvorträge sind fakultätsöffentlich. Im Anschluss an die Bewerbungsvorträge sind in der Regel Anhörungen der Kandidatinnen und Kandidaten durch die Berufungskommission vorzusehen.
+<sup>4</sup> Die Berufungskommission organisiert die Einladung der in die engere Wahl genommenen Kandidatinnen und Kandidaten. Die Bewerbungsvorträge sind mindestens fakultätsöffentlich; sie können auch im Rahmen einer Lehrveranstaltung erfolgen. Im Anschluss an die Bewerbungsvorträge sind in der Regel Anhörungen der Kandidatinnen und Kandidaten durch die Berufungskommission vorzusehen.
 
 #### § 6
 
