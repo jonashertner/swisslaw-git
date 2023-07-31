@@ -4,13 +4,13 @@ number: "544"
 title: "Verordnung über die Schul- und Studiengelder sowie die Gebühren an kantonalen Schulen, privaten Berufsfachschulen und den Hochschulen des Kantons Luzern"
 short: Schulgeldverordnung
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-03-29
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-05-16
 adopted: 2015-03-03
 in_force: 2015-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/544"
-pdf: "https://srl.lu.ch/api/de/versions/3947/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4117/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3947/pdf_file"
 
 (Schulgeldverordnung)
 
-vom 03.03.2015 (Stand 01.08.2022)
+vom 03.03.2015 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -272,8 +272,8 @@ beschliesst:
   - 7\. andere Prüfungen — Fr. 100.–
 - b. Pädagogische Hochschule Luzern:
   - 1\. Aufnahmeprüfung — Fr. 250.– (im Wiederholungsfall: Fr. 125.–)
-  - 2\. Bachelor-Abschlussprüfung — Fr. 400.– (im Wiederholungsfall: Fr. 200.–)
-  - 3\. Master-Abschlussprüfung, Prüfung Erweiterungsdiplom oder Lehrdiplom Sekundarstufe II — Fr. 200.– (im Wiederholungsfall: Fr. 100.–)
+  - 2\. Bachelor-Abschlussprüfung, Master-Abschlussprüfung Sekundarstufe I — Fr. 400.– (im Wiederholungsfall: Fr. 200.–)
+  - 3\. übrige Master-Abschlussprüfungen, Prüfung Erweiterungsdiplom, Diplomprüfung Sekundarstufe II - gymnasiale Bildung — Fr. 200.– (im Wiederholungsfall: Fr. 100.–)
 - c. Gymnasien und Maturitätsschule für Erwachsene:
   - 1\. Maturitätsprüfung — Fr. 250.–
   - 2\. Diplomprüfung — Fr. 250.–
@@ -281,7 +281,7 @@ beschliesst:
   - 4\. Ergänzungsprüfung Passerellen-Lehrgang — Fr. 250.–
 - c.<sup>bis</sup> Fachmittelschulen:
   - 1\. Fachmittelschulabschlussprüfung — Fr. 250.–
-- d. Berufsfachschulen: Nachholbildung, Modulprüfung ohne Unterrichtsbesuch — Fr. 125.–
+- d. …
 - e. alle übrigen Diplomprüfungen — Fr. 250.–
 
 <sup>2</sup> Im Fall eines Rückzugs der Anmeldung nach Ablauf der Anmeldefrist wird die Gebühr nicht zurückbezahlt.
