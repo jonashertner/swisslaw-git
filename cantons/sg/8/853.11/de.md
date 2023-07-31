@@ -4,13 +4,13 @@ number: "853.11"
 title: Jagdverordnung
 short: JV
 language: de
-version: 2023-01-01
-valid_until: 2023-07-31
-version_adopted: 2022-12-06
+version: 2023-08-01
+valid_until: 2024-03-31
+version_adopted: 2023-01-24
 adopted: 2015-05-19
 in_force: 2016-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3422/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3477/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3422/pdf_file"
 
 (JV)
 
-vom 19.05.2015 (Stand 01.01.2023)
+vom 19.05.2015 (Stand 01.08.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -91,7 +91,7 @@ als Verordnung:[^ingress-3]
 
 **Formelles**
 
-<sup>1</sup> Die Bewerbung wird von allen Bewerberinnen und Bewerbern unterzeichnet.
+<sup>1</sup> Die Bewerbung wird von allen Mitgliedern der Jagdgesellschaft unterzeichnet.
 
 #### Art. 8
 
@@ -99,7 +99,7 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Die Bewerbung enthält:
 
-- a) von allen Bewerberinnen und Bewerbern:
+- a) von allen Mitgliedern der Jagdgesellschaft:
   - 1\. Personalien mit Wohnsitz und Geburtsdatum;
   - 2\. Fähigkeitsausweis;
   - 3\. Nachweis der Treffsicherheit, der wenigstens bis zum Pachtbeginn gültig ist;
@@ -107,16 +107,15 @@ als Verordnung:[^ingress-3]
   - 5\. aktueller Auszug aus dem Strafregister;
   - 6\. aktuelles Passfoto.
 - b) eine Vertreterin oder einen Vertreter für das Vergabeverfahren.
+- c) die Statuten.
 
-<sup>2</sup> Bewerberinnen und Bewerber, die sich für mehr als ein Revier bewerben, bezeichnen das Revier, in dem sie an die notwendige Anzahl Pächterinnen und Pächter anzurechnen sind.
+<sup>2</sup> Personen, die Mitglied mehrerer Jagdgesellschaften sind, bezeichnen das Revier, in dem sie an die notwendige Mitgliederzahl der Jagdgesellschaft anzurechnen sind.
 
 ## 3. Pachtverfügung
 
 #### Art. 9
 
-**Anhörung der Standortgemeinde vor der Vergabe**
-
-<sup>1</sup> Das Amt für Natur, Jagd und Fischerei teilt der Standortgemeinde des Reviers wenigstens 20 Tage vor der Vergabe mit, an welche Bewerberinnen und Bewerber das Revier vergeben werden soll, und gibt ihr Gelegenheit zur Stellungnahme.
+**…**
 
 #### Art. 10
 
@@ -212,7 +211,7 @@ als Verordnung:[^ingress-3]
 
 **b) revierübergreifende Bejagungen**
 
-<sup>1</sup> Erfordert die Regulierung des Wildbestandes eine revierübergreifende Bejagung, so organisieren die betroffenen Jagdgesellschaften auf Anordnung der Hegegemeinschaft Drückjagden, die in mehreren Revieren gleichzeitig und aufeinander abgestimmt durchgeführt werden.
+<sup>1</sup> Erfordert die Regulierung des Wildbestandes eine revierübergreifende Bejagung, organisieren die betroffenen Jagdgesellschaften auf Anordnung der Hegegemeinschaft oder des Amtes für Natur, Jagd und Fischerei Drückjagden, die in mehreren Revieren gleichzeitig und aufeinander abgestimmt durchgeführt werden.
 
 #### Art. 18
 
@@ -254,7 +253,7 @@ als Verordnung:[^ingress-3]
 
 **Nichterfüllen einer Abschussvorgabe**
 
-<sup>1</sup> Erfüllt die Jagdgesellschaft eine Abschussvorgabe schuldhaft nicht, kann das Amt für Natur, Jagd und Fischerei gegenüber der Jagdgesellschaft die Ersatzvornahme anordnen.
+<sup>1</sup> Erfüllt die Jagdgesellschaft eine Abschussvorgabe nicht, kann das Amt für Natur, Jagd und Fischerei gegenüber der Jagdgesellschaft die Ersatzvornahme anordnen.
 
 #### Art. 23
 
