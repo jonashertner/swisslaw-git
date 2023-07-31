@@ -4,7 +4,7 @@ number: "700.11.1"
 title: "RÈGLEMENT du 19.09.1986 d'application de la loi du 4 décembre 1985 sur l'aménagement du territoire et les constructions (RLATC)"
 short: RLATC
 language: fr
-version: 2023-01-01
+version: 2023-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11.1?id=12fdc2a6-5c95-4ad5-9433-0801702d6d2b"
 ---
 
@@ -656,30 +656,76 @@ arrête
 
 [^68a-3]: Modif. 10 du 06.02.2008: Introduction Art. 68b; entrée en vigueur au 01.03.2008
 
+#### Art. 68c
+
+**[^68b-1]**
+
+<sup>1</sup> L'installation d'une pompe à chaleur air/eau ou air/air à l'intérieur d'un bâtiment existant est dispensé d'autorisation de construire.
+
+<sup>2</sup> L'installation d'une pompe à chaleur air/eau ou air/air à l'extérieur d'un bâtiment existant est dispensé d'autorisation de construire lorsque les conditions cumulatives suivantes sont réalisées :
+
+- a. elle s'intègre au bâti existant ;
+- b. son volume ne dépasse pas 2 m3 ;
+- c. elle ne porte pas atteinte à d'autres intérêts publics prépondérants ;
+- d. le rapport entre sa puissance de chauffe, la puissance acoustique maximale de nuit et la distance minimale au récepteur, selon les valeurs déterminées dans les tableaux contenus à l'annexe IV, est respecté.
+
+<sup>3</sup> Les pompes à chaleur air/eau et air/air installées à l'extérieur d'un bâtiment doivent être placées et orientées de manière à minimiser autant que possible les immissions de bruit auprès des voisins et dans le respect du principe de prévention (art. 11 LPE).
+
+<sup>4</sup> Les installations visées aux alinéas 1 et 2 doivent être annoncées à la commune au moyen du formulaire d'annonce mis à disposition par le service en charge de l'environnement en y joignant le plan de situation et la fiche technique. L'article 103, alinéas 4 et 5 de la loi, est applicable pour le surplus.
+
+<sup>5</sup> A une altitude de plus de 1'000 mètres, une pompe à chaleur air/eau ou air/air n'est dispensée d'autorisation que pour un bâtiment existant Minergie ou équivalent. L'équivalence Minergie est admise pour un bâtiment dont la performance énergétique correspond au minimum à la classe C de la catégorie enveloppe du Certificat énergétique cantonal des bâtiments (CECB). L'installation d'un chauffe-eau à pompe à chaleur n'est pas visée par la présente disposition.
+
+[^68b-1]: Modif. 17 du 14.06.2023: Introduction Art. 68c; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Modification Al. 2, d; entrée en vigueur au 01.01.2026; Abrogation Al. 5; entrée en vigueur au 01.01.2026; Introduction Art. 69, Al. 1, 1, k-m; entrée en vigueur au 01.01.2026
+
 #### Art. 69
 
-**Pièces et indications à fournir avec la demande de permis de construire [^68b-1]**
+**Pièces et indications à fournir avec la demande de permis de construire [^68c-1]**
 
 <sup>1</sup> Dans les cas de constructions nouvelles, d'agrandissements, de surélévations, de transformations d'immeubles ou de changement de leur destination, la demande est accompagnée d'un dossier au format A4 comprenant les plans pliés au même format (210 x 297 millimètres) et les pièces suivantes :
 
-\1. un plan de situation extrait du plan cadastral et portant les indications suivantes : a. le nom et prénom ou la raison sociale du propriétaire du fonds ; b. les noms et prénoms ou la raison sociale des propriétaires voisins ; c. les coordonnées cartographiques du bâtiment concerné ou projeté avec indication sur le plan de leur localisation ; d. l'indication des limites de construction, des limites de zones, l'affectation réglementaire et les servitudes ; e. le projet de construction, selon les cotes tirées du plan établi par l'architecte ; f. les distances de la construction aux limites du terrain et, au besoin, aux bâtiments existants ainsi que la distance au lac et cours d'eau si celle-ci est inférieure à 20 m ; g. l'emplacement des arbres protégés et de tous les arbres d'un diamètre supérieur à 0,30m (mesuré à1m du sol), des boqueteaux et des haies vives dont la construction projetée entraînerait l'abattage ainsi que la limite de l'aire forestière et de toutes surfaces soumises au régime forestier ; h. en cas de transformation, de démolition ou de changement de destination, le numéro d'assurance et la note au recensement architectural du ou des bâtiments ; i. le ou les accès des véhicules ; j. les limites ou l'indication des secteurs de protection des eaux. - L'ingénieur géomètre breveté authentifie la conformité du plan de situation au plan cadastral mis à jour et les indications mentionnées ; 1bis. s'agissant des objets pouvant être dispensés d'enquête publique ou des transformations ou des changements d'affectation de constructions ou d'installations conformesaux dispositions légales et réglementaires n'impliquant pas de modification de volumesou de surfaces au sol, un extrait cadastral ou une copie du plan de situation à jour comportant les indications nécessaires 2. les plans à l'échelle du 1 :100 ou du 1 :50 des sous-sols, rez-de-chaussée, étages et combles avec destination de tous les locaux et l'indication des mesures de prévention contre les incendies ; pour les constructions de grandes dimensions ou présentant des éléments répétitifs, l'échelle du 1 :200 peut être autorisée par la municipalité qui indique, cas échéant, les parties du projet devant être établies à l'échelle du 1 :100; 3. les coupes nécessaires à la compréhension du projet comprenant les profils du terrain naturel et aménagé ; 4. les dessins de toutes les façades ; 5. Les plans des canalisations d'eau et d'égouts sur lesquels figureront les différents réseaux, dessinés en utilisant les symboles de la recommandation SIA n° 410, ainsi que les indications des pentes et des diamètres jusqu'au raccordement avec les canalisations principales ou, dans les cas exceptionnels, avec les installations privées, autorisées par le département en charge de la gestion des eaux ; 6. le questionnaire général, complètement rempli, ainsi que les questionnaires particuliers, auxquels renvoie au besoin le questionnaire général ; 7. les documents et pièces démontrant que la construction est conforme aux dispositions applicables à l'utilisation rationnelle et aux économies d'énergie, ainsi qu'aux énergies renouvelables dans les constructions (voir la loi cantonale sur l'énergie [^69-1] et son règlement d'application [^69-2] ) ; 8. les plans des aménagements extérieurs avec le tracé précis du raccordement au réseau routier ; 9. pour les transformations, agrandissements, surélévations d'immeubles, les plans fourniront les indications suivantes : - état ancien : teinte grise - démolition : teinte jaune - ouvrage projeté : teinte rouge 10. le rapport d'impact sur l'environnement quand l'ouvrage est soumis à l'étude d'impact sur l'environnement ; 11. pour les projets touchant des locaux à usage sensible au bruit au sens de l'article 2, alinéa 6, de l'ordonnance sur la protection contre le bruit (OPB [^69-3] ), des pièces renseignant sur : a. le bruit extérieur, dans la mesure où les valeurs limites d'immissions sont dépassées ; b. l'affectation des locaux ; c. les éléments extérieurs et les éléments de séparation des locaux à usage sensible au bruit ; 12. La proposition du constructeur relative au degré de sensibilité et le préavis du Service de l'environnement et de l'énergie[^69-4] , lorsqu'il y a lieu à détermination cas par cas des degrés de sensibilité au bruit en vertu de l'article 44, alinéa 3, de l'ordonnance fédérale sur la protection contre le bruit (OPB) ; 13. la demande de défrichement, si le projet nécessite une autorisation de défrichement, cantonale ou fédérale, au sens de l'article 5, alinéa 2, de la loi fédérale sur les forêts (LFo)[^69-5] .
+- 1\. un plan de situation extrait du plan cadastral et portant les indications suivantes:
+- a. le nom et prénom ou la raison sociale du propriétaire du fonds;
+- b. les noms et prénoms ou la raison sociale des propriétaires voisins;
+- c. les coordonnées cartographiques du bâtiment concerné ou projeté avec indication sur le plan de leur localisation;
+- d. l'indication des limites de construction, des limites de zones, l'affectation réglementaire et les servitudes;
+- e. le projet de construction, selon les cotes tirées du plan établi par l'architecte;
+- f. les distances de la construction aux limites du terrain et, au besoin, aux bâtiments existants ainsi que la distance au lac et cours d'eau si celle-ci est inférieure à 20 m;
+- g. l'emplacement des arbres protégés et de tous les arbres d'un diamètre supérieur à 0,30m (mesuré à 1m du sol), des boqueteaux et des haies vives dont la construction projetée entraînerait l'abattage ainsi que la limite de l'aire forestière et de toutes surfaces soumises au régime forestier;
+- h. en cas de transformation, de démolition ou de changement de destination, le numéro d'assurance et la note au recensement architectural du ou des bâtiments;
+- i. le ou les accès des véhicules;
+- j. les limites ou l'indication des secteurs de protection des eaux.
+- - L'ingénieur géomètre breveté authentifie la conformité du plan de situation au plan cadastral mis à jour et les indications mentionnées.
+- 1bis. s'agissant des objets pouvant être dispensés d'enquête publique ou des transformations ou des changements d'affectation de constructions ou d'installations conformes aux dispositions légales et réglementaires n'impliquant pas de modification de volumes ou de surfaces au sol, un extrait cadastral ou une copie du plan de situation à jour comportant les indications nécessaires;
+- 2\. les plans à l'échelle du 1 :100 ou du 1 :50 des sous-sols, rez-de-chaussée, étages et combles avec destination de tous les locaux et l'indication des mesures de prévention contre les incendies ; pour les constructions de grandes dimensions ou présentant des éléments répétitifs, l'échelle du 1 :200 peut être autorisée par la municipalité qui indique, cas échéant, les parties du projet devant être établies à l'échelle du 1 :100;
+- 3\. les coupes nécessaires à la compréhension du projet comprenant les profils du terrain naturel et aménagé;
+- 4\. les dessins de toutes les façades;
+- 5\. les plans des canalisations d'eau et d'égouts sur lesquels figureront les différents réseaux, dessinés en utilisant les symboles de la recommandation SIA n° 410, ainsi que les indications des pentes et des diamètres jusqu'au raccordement avec les canalisations principales ou, dans les cas exceptionnels, avec les installations privées, autorisées par le département en charge de la gestion des eaux;
+- 6\. le questionnaire général, complètement rempli, ainsi que les questionnaires particuliers, auxquels renvoie au besoin le questionnaire général ;
+- 7\. les documents et pièces démontrant que la construction est conforme aux dispositions applicables à l'utilisation rationnelle et aux économies d'énergie, ainsi qu'aux énergies renouvelables dans les constructions (voir la loi cantonale sur l'énergie et son règlement d'application );
+- 8\. les plans des aménagements extérieurs avec le tracé précis du raccordement au réseau routier;
+- 9\. pour les transformations, agrandissements, surélévations d'immeubles, les plans fourniront les indications suivantes:
+- - état ancien : teinte grise
+- - démolition : teinte jaune
+- - ouvrage projeté : teinte rouge
+- 10\. le rapport d'impact sur l'environnement quand l'ouvrage est soumis à l'étude d'impact sur l'environnement;
+- 11\. pour les projets touchant des locaux à usage sensible au bruit au sens de l'article 2, alinéa 6, de l'ordonnance sur la protection contre le bruit (OPB ), des pièces renseignant sur:
+- a. le bruit extérieur, dans la mesure où les valeurs limites d'immissions sont dépassée;
+- b. l'affectation des locaux;
+- c. les éléments extérieurs et les éléments de séparation des locaux à usage sensible au bruit;
+- 12\. la proposition du constructeur relative au degré de sensibilité et le préavis du Service de l'environnement et de l'énergie , lorsqu'il y a lieu à détermination cas par cas des degrés de sensibilité au bruit en vertu de l'article 44, alinéa 3, de l'ordonnance fédérale sur la protection contre le bruit (OPB);
+- 13\. la demande de défrichement, si le projet nécessite une autorisation de défrichement, cantonale ou fédérale, au sens de l'article 5, alinéa 2, de la loi fédérale sur les forêts (LFo).
 
 <sup>2</sup> Dans tous les autres cas, la demande est accompagnée de toutes les indications nécessaires pour se rendre compte de l'importance et de la nature des travaux projetés.
 
-[^68b-1]: Modif. 2 du 27.08.1990: Modification Art. 69; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Introduction Al. 1 ch.11-13; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Al. 1 ch.1 c,d,ch.7, ch.12; entrée en vigueur au 14.05.2001 · Modif. 7 du 16.12.2004: Modification Al. 1 ch.5; entrée en vigueur au 01.12.2004 · Modif. 9 du 04.10.2006: Modification Al. 1 ch.7; entrée en vigueur au 01.11.2006 · Modif. 10 du 06.02.2008: Modification Al. 1 g; entrée en vigueur au 01.03.2008; Introduction Al. 1 ch.1bis; entrée en vigueur au 01.03.2008 · Modif. 18 du 01.10.2025: Modification Al. 1, 1, c; entrée en vigueur au 01.01.2026; Abrogation Al. 1, 1, Tiret 11; entrée en vigueur au 01.01.2026; Introduction Al. 1, 1, k-m; entrée en vigueur au 01.01.2026
-[^69-1]: Loi du 16.05.2006 sur l'énergie ([BLV 730.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01?id=e7f13ccb-9bc3-4442-876e-c316278b9975))
-[^69-2]: Règlement du 04.10.2006 d'application de la loi du 16.05.2006 sur l'énergie ([BLV 730.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01.1?id=cdf012a7-8491-4e62-aeee-72bd1bf5a011))
-[^69-3]: Ordonnance du 15.12.1986 sur la protection contre le bruit (RS 814.41)
-[^69-4]: Loi fédérale du 04.10.1991 sur les forêts (RS 921.0)
-[^69-5]: Loi fédérale du 04.10.1991 sur les forêts (RS 921.0)
+[^68c-1]: Modif. 2 du 27.08.1990: Modification Art. 69; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Introduction Al. 1 ch.11-13; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Al. 1 ch.1 c,d,ch.7, ch.12; entrée en vigueur au 14.05.2001 · Modif. 7 du 16.12.2004: Modification Al. 1 ch.5; entrée en vigueur au 01.12.2004 · Modif. 9 du 04.10.2006: Modification Al. 1 ch.7; entrée en vigueur au 01.11.2006 · Modif. 10 du 06.02.2008: Modification Al. 1 g; entrée en vigueur au 01.03.2008; Introduction Al. 1 ch.1bis; entrée en vigueur au 01.03.2008 · Modif. 18 du 01.10.2025: Modification Al. 1, 1, c; entrée en vigueur au 01.01.2026; Abrogation Al. 1, 1, Tiret 11; entrée en vigueur au 01.01.2026; Introduction Al. 1, 1, k-m; entrée en vigueur au 01.01.2026
 
 #### Art. 70
 
-**Documents à fournir avec la demande de permis d'implantation [^69-6]**
+**Documents à fournir avec la demande de permis d'implantation [^69-1]**
 
 <sup>1</sup> Lorsque la demande ne porte que sur l'implantation, le plan de situation est accompagné d'un avant-projet de la construction à l'échelle du 1:100 ou du 1:200, indiquant la destination de l'ouvrage et comprenant le plan schématique de tous les étages, les coupes nécessaires à la compréhension du projet et le questionnaire pour demande d'autorisation préalable d'implantation (API).
 
-[^69-6]: Modif. 2 du 27.08.1990: Modification Art. 70; entrée en vigueur au 01.10.1990
+[^69-1]: Modif. 2 du 27.08.1990: Modification Art. 70; entrée en vigueur au 01.10.1990
 
 #### Art. 70a
 
@@ -1087,15 +1133,19 @@ Annexes [^91-1]
 
 1
 
-[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/1?dmev=01.01.2023)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/1?dmev=01.08.2023)
 
 2
 
-[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/2?dmev=01.01.2023)
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/2?dmev=01.08.2023)
 
 3
 
-[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/3?dmev=01.01.2023)
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/3?dmev=01.08.2023)
+
+4
+
+[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/4?dmev=01.08.2023)
 
 [^90-1]: Modif. 6 du 14.05.2001: Modification Art. 91; entrée en vigueur au 14.05.2001
-[^91-1]: Modif. 2 du 27.08.1990: Modification Ann; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Modification Ann; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Ann; entrée en vigueur au 14.05.2001 · Modif. 7 du 16.12.2004: Modification Ann; entrée en vigueur au 01.12.2004 · Modif. 9 du 04.10.2006: Modification Ann; entrée en vigueur au 01.11.2006 · Modif. 16 du 14.12.2022: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2023 · Modif. 17 du 14.06.2023: Introduction Art. 68c; entrée en vigueur au 01.08.2023; Introduction Annexes, Ann. 4; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Introduction Art. 69, Al. 1, 1, k-m; entrée en vigueur au 01.01.2026; Modification Annexes, Ann. 4; entrée en vigueur au 01.01.2026
+[^91-1]: Modif. 2 du 27.08.1990: Modification Ann; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Modification Ann; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Ann; entrée en vigueur au 14.05.2001 · Modif. 7 du 16.12.2004: Modification Ann; entrée en vigueur au 01.12.2004 · Modif. 9 du 04.10.2006: Modification Ann; entrée en vigueur au 01.11.2006 · Modif. 16 du 14.12.2022: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2023 · Modif. 17 du 14.06.2023: Introduction Annexes, Ann. 4; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Introduction Art. 69, Al. 1, 1, k-m; entrée en vigueur au 01.01.2026; Modification Annexes, Ann. 4; entrée en vigueur au 01.01.2026
