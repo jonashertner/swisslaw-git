@@ -4,13 +4,12 @@ number: "425.050"
 title: Ordinaziun davart il gimnasi
 short: OGim
 language: rm
-version: 2019-08-01
-corrected: 2019-10-16
-version_adopted: 2019-06-25
+version: 2023-08-01
+version_adopted: 2023-06-06
 adopted: 2019-06-25
 in_force: 2019-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.050"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2950/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2950/pdf_file"
 
 (OGim)
 
-dals 25-06-2019 (versiun dals 01-08-2019)
+dals 25-06-2019 (versiun dals 01-08-2023)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -33,7 +32,7 @@ relaschà da la regenza ils 25 da zercladur 2019
 
 **Champ d'applicaziun**
 
-<sup>1</sup> Questa ordinaziun regla per il gimnasi che vegn manà tenor las disposiziuns da l'ordinaziun davart la renconuschientscha dals attestats da maturitad gimnasiala (ordinaziun davart ils attestats da maturitad, ORM)[^1-1], dal reglament da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica (CDEP) per la renconuschientscha dals attestats da maturitad gimnasiala (RRM) e tenor las directivas da la cumissiun svizra da maturitad (CSM) cunzunt la promoziun en la proxima classa pli auta, ils examens da maturitad e la concepziun dals attestats da maturitad.
+<sup>1</sup> Questa ordinaziun regla per il gimnasi che vegn manà tenor las disposiziuns da l'Ordinaziun davart la renconuschientscha dals attestats da maturitad gimnasiala (Ordinaziun davart ils attestats da maturitad, ORM)[^1-1], dal reglament da la Conferenza da las directuras e dals directurs chantunals da l'educaziun publica (CDEP) per la renconuschientscha dals attestats da maturitad gimnasiala (RRM) e tenor las directivas da la Cumissiun svizra da maturitad (CSM) cunzunt la promoziun en la proxima classa pli auta, ils examens da maturitad e la concepziun dals attestats da maturitad.
 
 <sup>2</sup> Reglaments da scolas medias privatas che divergeschan da disposiziuns en il champ d'applicaziun da questa ordinaziun basegnan l'approvaziun da la regenza.
 
@@ -91,7 +90,7 @@ relaschà da la regenza ils 25 da zercladur 2019
 
 <sup>1</sup> Sin dumonda decida la direcziun da la scola tenor las directivas da l'uffizi davart la concessiun da la cumpensaziun da dischavantatgs per cumprovas da prestaziun relevantas per l'attestat.
 
-<sup>2</sup> Sin dumonda decida l'uffizi davart la concessiun da la cumpensaziun da dischavantatgs per ils examens da maturitad.
+<sup>2</sup> Sin dumonda decida l'uffizi davart la concessiun da la cumpensaziun da dischavantatgs per ils examens da maturitad. La direcziun da la scola po vegnir tadlada.
 
 ## 2. Promoziun
 
@@ -127,7 +126,7 @@ relaschà da la regenza ils 25 da zercladur 2019
 
 **Cumpetenzas fundamentalas specificas per l'abilitad generala da studegiar**
 
-<sup>1</sup> Las cumpetenzas fundamentalas specificas en l'emprima lingua ed en matematica per l'abilitad generala da studegiar vegnan per regla examinadas en scrit e valitadas cun notas en l'emprim fin il terz onn da scolaziun dal gimnasi da 4 onns. La nota cuntanschida vegn resguardada en il rom correspundent per calcular la media da las notas dal segund attestat.
+<sup>1</sup> Las cumpetenzas fundamentalas specificas en l'emprima lingua ed en matematica per l'abilitad generala da studegiar vegnan per regla examinadas en scrit u a bucca e valitadas cun notas durant l'emprim fin il terz onn da scolaziun dal gimnasi da 4 onns. La nota cuntanschida vegn resguardada en il rom correspundent per calcular la media da las notas dal segund attestat.
 
 <sup>2</sup> Per las scolaras ed ils scolars cun l'emprima lingua rumantsch u talian vegnan examinadas las cumpetenzas fundamentalas specificas en tudestg sco emprima lingua.
 
@@ -151,7 +150,7 @@ relaschà da la regenza ils 25 da zercladur 2019
 
 <sup>2</sup> Scolaras e scolars cun l'emprima lingua talian ston absolver entaifer ils dus ultims onns da scolaziun dal gimnasi da 4 onns obligatoricamain in examen da certificat da lingua extern en tudestg sin il nivel C1 tenor la norma europeica communabla per las linguas.
 
-<sup>3</sup> Per la lavur interdisciplinara che vegn scritta en il segund u en il terz onn da scolaziun dal gimnasi da 4 onns vegn dada ina nota che vegn resguardada cun 25 pertschient en la nota dal segund attestat d'in dals roms pertutgads da quel onn da scola, en il qual la lavur è vegnida scritta. La direcziun da la scola communitgescha a la scolara u al scolar avant il cumenzament da la lavur interdisciplinara, per tgenin dals roms participads che la nota vegn resguardada.
+<sup>3</sup> Per la lavur interdisciplinara che vegn scritta durant il segund u terz onn da scolaziun dal gimnasi da 4 onns vegn dada ina nota che vegn resguardada cun 25 pertschient en la nota da l'emprim u dal segund attestat d'in dals roms pertutgads da quel onn da scola, durant il qual la lavur è vegnida scritta. La direcziun da la scola communitgescha a la scolara u al scolar avant il cumenzament da la lavur interdisciplinara, per tgenin dals roms participads ed en tgenin dals semesters che la nota vegn resguardada.
 
 #### Art. 15
 
@@ -193,13 +192,13 @@ relaschà da la regenza ils 25 da zercladur 2019
 
 <sup>1</sup> Ils examens da maturitad en scrit ed a bucca han lieu avant las vacanzas da stad.
 
-<sup>2</sup> Il termin dals examens da maturitad en scrit ed a bucca fixescha il departament.
+<sup>2</sup> Il termin dals examens da maturitad en scrit ed a bucca fixescha l'uffizi.
 
 #### Art. 19
 
 **Premissas d'admissiun**
 
-<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala dal departament che concerna la frequentaziun da la scola, pretenda l'admissiun la frequentaziun d'ina scola media en il chantun Grischun durant almain ils dus ultims onns avant l'examen da maturitad e prestaziuns suffizientas per ina promoziun en la classa finala.
+<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala da l'uffizi che concerna la frequentaziun da la scola, pretenda l'admissiun la frequentaziun d'ina scola media en il chantun Grischun durant almain ils dus ultims onns avant l'examen da maturitad e prestaziuns suffizientas per ina promoziun en la classa finala.
 
 #### Art. 20
 

@@ -4,13 +4,12 @@ number: "425.050"
 title: Ordinanza sul liceo
 short: OLic
 language: it
-version: 2019-08-01
-corrected: 2019-10-16
-version_adopted: 2019-06-25
+version: 2023-08-01
+version_adopted: 2023-06-06
 adopted: 2019-06-25
 in_force: 2019-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.050"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2950/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3325/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2950/pdf_file"
 
 (OLic)
 
-del 25.06.2019 (stato 01.08.2019)
+del 25.06.2019 (stato 01.08.2023)
 
 emanata dal Governo il 25 giugno 2019
 
@@ -33,7 +32,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Campo d'applicazione**
 
-<sup>1</sup> La presente ordinanza disciplina in particolare la promozione nella classe superiore, gli esami di maturità e la forma degli attestati di maturità per i licei gestiti secondo le disposizioni dell'ordinanza concernente il riconoscimento degli attestati liceali di maturità (ordinanza sulla maturità, ORM)[^1-1], il Regolamento della Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE) concernente il riconoscimento degli attestati di maturità (RRM) e le direttive della Commissione svizzera di maturità (CSM).
+<sup>1</sup> La presente ordinanza disciplina in particolare la promozione nella classe superiore, gli esami di maturità e la forma degli attestati di maturità per i licei gestiti secondo le disposizioni dell'ordinanza concernente il riconoscimento degli attestati liceali di maturità (ordinanza sulla maturità, ORM)[^1-1], il Regolamento della Conferenza delle direttrici e dei direttori cantonali della pubblica educazione (CDPE) concernente il riconoscimento degli attestati di maturità (RRM) e le direttive della Commissione svizzera di maturità (CSM).
 
 <sup>2</sup> I regolamenti di scuole medie superiori private che divergono da disposizioni che rientrano nel campo d'applicazione della presente ordinanza necessitano dell'approvazione del Governo.
 
@@ -91,7 +90,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Su domanda, la direzione scolastica decide secondo le direttive dell'Ufficio in merito alla concessione della compensazione degli svantaggi in caso di verifiche rilevanti ai fini della pagella.
 
-<sup>2</sup> Su domanda, l'Ufficio decide in merito alla concessione della compensazione degli svantaggi in occasione degli esami di maturità.
+<sup>2</sup> Su domanda, l'Ufficio decide in merito alla concessione della compensazione degli svantaggi in occasione degli esami di maturità. La direzione scolastica può essere sentita.
 
 ## 2. Promozione
 
@@ -127,7 +126,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Competenze di base nelle materie per l'attitudine generale agli studi**
 
-<sup>1</sup> Le competenze di base nella prima lingua e in matematica per l'attitudine generale agli studi vengono esaminate per iscritto e valutate con note di norma dal primo al terzo anno di formazione del liceo quadriennale. La nota ottenuta confluisce nel calcolo della media delle note della seconda pagella nella corrispondente materia.
+<sup>1</sup> Le competenze di base nella prima lingua e in matematica per l'attitudine generale agli studi vengono esaminate per iscritto od oralmente e valutate con note di norma dal primo al terzo anno di formazione del liceo quadriennale. La nota ottenuta confluisce nel calcolo della media delle note della seconda pagella nella corrispondente materia.
 
 <sup>2</sup> Per allievi con il romancio o l'italiano quale prima lingua vengono esaminate le competenze di base di tedesco quale prima lingua.
 
@@ -149,9 +148,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Nella classe finale, nella materia fondamentale inglese i risultati degli esami di certificati linguistici esterni vengono considerati in misura del 50 per cento nella nota della seconda pagella. L'Ufficio emana direttive per la conversione in una nota della valutazione della prestazione indicata sul certificato esterno.
 
-<sup>2</sup> Gli allievi con prima lingua italiano devono obbligatoriamente superare durante gli ultimi due anni di formazione del liceo quadriennale un esame esterno per l'ottenimento di un certificato linguistico in tedesco di livello C1 conformemente al quadro comune europeo di riferimento per le lingue.
+<sup>2</sup> Gli allievi con prima lingua italiano devono obbligatoriamente sostenere durante gli ultimi due anni di formazione del liceo quadriennale un esame esterno per l'ottenimento di un certificato linguistico in tedesco di livello C1 conformemente al quadro comune europeo di riferimento per le lingue.
 
-<sup>3</sup> Il lavoro interdisciplinare redatto nel secondo o nel terzo anno di formazione del liceo quadriennale viene valutato con una nota e considerato in misura del 25 per cento nella nota della seconda pagella di una delle materie interessate di quell'anno scolastico nel quale è stato redatto il lavoro. Prima dell'inizio del lavoro interdisciplinare, la direzione scolastica comunica all'allievo in quale delle materie interessate sarà considerata la nota.
+<sup>3</sup> Il lavoro interdisciplinare redatto nel secondo o nel terzo anno di formazione del liceo quadriennale viene valutato con una nota e considerato in misura del 25 per cento nella nota della prima o della seconda pagella di una delle materie interessate dell'anno scolastico nel quale è stato redatto il lavoro. Prima dell'inizio del lavoro interdisciplinare, la direzione scolastica comunica all'allievo in quale delle materie interessate e in quale semestre sarà considerata la nota.
 
 #### Art. 15
 
@@ -193,13 +192,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Gli esami di maturità scritti e orali si tengono prima delle vacanze estive.
 
-<sup>2</sup> Il Dipartimento stabilisce la data degli esami di maturità scritti e di quelli orali.
+<sup>2</sup> L'Ufficio stabilisce la data degli esami di maturità scritti e di quelli orali.
 
 #### Art. 19
 
 **Condizioni di ammissione**
 
-<sup>1</sup> Se per quanto concerne la frequenza della scuola non esiste un'autorizzazione d'eccezione del Dipartimento, l'ammissione presuppone la frequenza di una scuola media superiore nel Cantone dei Grigioni durante almeno gli ultimi due anni prima dell'esame di maturità e prestazioni sufficienti per la promozione nella classe finale.
+<sup>1</sup> Se per quanto concerne la frequenza della scuola non esiste un'autorizzazione d'eccezione dell'Ufficio, l'ammissione presuppone la frequenza di una scuola media superiore nel Cantone dei Grigioni durante almeno gli ultimi due anni prima dell'esame di maturità e prestazioni sufficienti per la promozione nella classe finale.
 
 #### Art. 20
 

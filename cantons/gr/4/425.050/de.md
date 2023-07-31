@@ -4,13 +4,12 @@ number: "425.050"
 title: Verordnung über das Gymnasium
 short: GymV
 language: de
-version: 2019-08-01
-corrected: 2019-10-16
-version_adopted: 2019-06-25
+version: 2023-08-01
+version_adopted: 2023-06-06
 adopted: 2019-06-25
 in_force: 2019-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.050"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2950/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2950/pdf_file"
 
 (GymV)
 
-Vom 25.06.2019 (Stand 01.08.2019)
+Vom 25.06.2019 (Stand 01.08.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -33,7 +32,7 @@ von der Regierung erlassen am 25. Juni 2019
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt für das Gymnasium, das nach den Bestimmungen der Verordnung über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV)[^1-1], des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von gymnasialen Maturitätsausweisen (MAR) und den Vorgaben der Schweizerischen Maturitätskommission (SMK) geführt wird, insbesondere die Promotion in die nächsthöhere Klasse, die Maturitätsprüfungen und die Ausgestaltung der Maturitätsausweise.
+<sup>1</sup> Diese Verordnung regelt für das Gymnasium, das nach den Bestimmungen der Verordnung über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV)[^1-1], des Reglements der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) über die Anerkennung von gymnasialen Maturitätsausweisen (MAR) und den Vorgaben der Schweizerischen Maturitätskommission (SMK) geführt wird, insbesondere die Promotion in die nächsthöhere Klasse, die Maturitätsprüfungen und die Ausgestaltung der Maturitätsausweise.
 
 <sup>2</sup> Reglemente privater Mittelschulen, welche von Bestimmungen im Geltungsbereich dieser Verordnung abweichen, bedürfen der Genehmigung durch die Regierung.
 
@@ -91,7 +90,7 @@ von der Regierung erlassen am 25. Juni 2019
 
 <sup>1</sup> Die Schulleitung entscheidet nach den Vorgaben des Amts auf Gesuch hin über die Gewährung des Nachteilsausgleichs bei zeugnisrelevanten Leistungsnachweisen.
 
-<sup>2</sup> Das Amt entscheidet auf Gesuch hin über die Gewährung des Nachteilsausgleichs bei den Maturitätsprüfungen.
+<sup>2</sup> Das Amt entscheidet auf Gesuch hin über die Gewährung des Nachteilsausgleichs bei den Maturitätsprüfungen. Die Schulleitung kann angehört werden.
 
 ## 2. Promotion
 
@@ -127,7 +126,7 @@ von der Regierung erlassen am 25. Juni 2019
 
 **Basale fachliche Kompetenzen für allgemeine Studierfähigkeit**
 
-<sup>1</sup> Die basalen erstsprachlichen und mathematischen Kompetenzen für allgemeine Studierfähigkeit werden in der Regel im ersten bis dritten Ausbildungsjahr des vierjährigen Gymnasiums schriftlich geprüft und benotet. Die erreichte Note fliesst im entsprechenden Fach in die Berechnung des Notendurchschnitts des zweiten Zeugnisses ein.
+<sup>1</sup> Die basalen erstsprachlichen und mathematischen Kompetenzen für allgemeine Studierfähigkeit werden in der Regel im ersten bis dritten Ausbildungsjahr des vierjährigen Gymnasiums schriftlich oder mündlich geprüft und benotet. Die erreichte Note fliesst im entsprechenden Fach in die Berechnung des Notendurchschnitts des zweiten Zeugnisses ein.
 
 <sup>2</sup> Für Schülerinnen und Schüler mit Erstsprache Rätoromanisch oder Italienisch werden die basalen erstsprachlichen Kompetenzen in Deutsch geprüft.
 
@@ -151,7 +150,7 @@ von der Regierung erlassen am 25. Juni 2019
 
 <sup>2</sup> Schülerinnen und Schüler mit Erstsprache Italienisch haben innerhalb der letzten beiden Ausbildungsjahre des vierjährigen Gymnasiums obligatorisch eine externe Sprachzertifikatsprüfung in Deutsch auf Niveau C1 gemäss gemeinsamem europäischem Referenzrahmen für Sprachen zu absolvieren.
 
-<sup>3</sup> Die im zweiten oder dritten Ausbildungsjahr des vierjährigen Gymnasiums verfasste interdisziplinäre Arbeit wird benotet und zu 25 Prozent in die Note des zweiten Zeugnisses eines der beteiligten Fächer jenes Schuljahrs eingerechnet, in dem die Arbeit verfasst wurde. Die Schulleitung teilt der Schülerin beziehungsweise dem Schüler vor Beginn der interdisziplinären Arbeit mit, in welches der beteiligten Fächer die Note eingerechnet wird.
+<sup>3</sup> Die im zweiten oder dritten Ausbildungsjahr des vierjährigen Gymnasiums verfasste interdisziplinäre Arbeit wird benotet und zu 25 Prozent in die Note des ersten oder zweiten Zeugnisses eines der beteiligten Fächer jenes Schuljahrs eingerechnet, in dem die Arbeit verfasst wurde. Die Schulleitung teilt der Schülerin beziehungsweise dem Schüler vor Beginn der interdisziplinären Arbeit mit, in welches der beteiligten Fächer und in welchem Semester die Note eingerechnet wird.
 
 #### Art. 15
 
@@ -193,13 +192,13 @@ von der Regierung erlassen am 25. Juni 2019
 
 <sup>1</sup> Die schriftlichen und mündlichen Maturitätsprüfungen finden vor den Sommerferien statt.
 
-<sup>2</sup> Den Zeitpunkt der schriftlichen und mündlichen Maturitätsprüfungen bestimmt das Departement.
+<sup>2</sup> Den Zeitpunkt der schriftlichen und mündlichen Maturitätsprüfungen bestimmt das Amt.
 
 #### Art. 19
 
 **Zulassungsvoraussetzungen**
 
-<sup>1</sup> Sofern betreffend Schulbesuch keine Ausnahmebewilligung des Departements vorliegt, erfordert die Zulassung den Besuch einer Mittelschule im Kanton Graubünden während mindestens der letzten zwei Jahre vor der Maturitätsprüfung und für eine Promotion ausreichende Leistungen in der Abschlussklasse.
+<sup>1</sup> Sofern betreffend Schulbesuch keine Ausnahmebewilligung des Amts vorliegt, erfordert die Zulassung den Besuch einer Mittelschule im Kanton Graubünden während mindestens der letzten zwei Jahre vor der Maturitätsprüfung und für eine Promotion ausreichende Leistungen in der Abschlussklasse.
 
 #### Art. 20
 
