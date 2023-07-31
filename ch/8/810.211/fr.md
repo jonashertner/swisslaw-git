@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Ordonnance du 16 mars 2007 sur la transplantation d'organes, de tissus et de cellules d'origine humaine (Ordonnance sur la transplantation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: fr
-version: 2022-12-01
+version: 2023-08-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-280-20221201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/fr"
 
 (Ordonnance sur la transplantation)
 
-du 16 mars 2007 (État le 1<sup>er</sup> décembre 2022)
+du 16 mars 2007 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -146,7 +146,7 @@ La personne requérante peut admettre, pour autant qu’aucun élément ne puiss
 
 S’il existe plusieurs proches au sens de l’al. 1, le prélèvement est autorisé si:
 
-- a. toutes les personnes joignables dans un délai raisonnable donnent leur accord; et si
+- a. toutes les personnes joignables dans un délai raisonnable donnent leur accord, et si
 - b. aucune opposition de la part des proches non joignables n’est connue.
 
 #### Art. 6
@@ -159,7 +159,7 @@ S’il existe plusieurs proches au sens de l’al. 1, le prélèvement est autor
 
 Si la personne décédée a désigné plusieurs personnes de confiance, le prélèvement est autorisé si:
 
-- a. toutes les personnes joignables dans un délai raisonnable donnent leur accord; et si
+- a. toutes les personnes joignables dans un délai raisonnable donnent leur accord, et si
 - b. aucune opposition de la part des personnes de confiance non joignables n’est connue.
 
 ### Section 2 Constatation du décès et mesures médicales préliminaires
@@ -168,9 +168,12 @@ Si la personne décédée a désigné plusieurs personnes de confiance, le prél
 
 **Constatation du décès**[^7-1]
 
-Le décès doit être constaté conformément aux directives mentionnées à l’annexe 1.
+<sup>1</sup> Le décès doit être constaté conformément aux directives mentionnées à l’annexe 1.
+
+<sup>2</sup> Si seuls des tissus ou des cellules, et non des organes, sont prélevés sur une personne décédée, un certificat de décès conforme au droit cantonal suffit. La personne responsable du prélèvement vérifie au préalable s’il existe un certificat de décès valable et le joint à la documentation relative au prélèvement.[^7-2]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^7-2]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 8
 
@@ -306,12 +309,14 @@ L’institution commune informe l’Office fédéral de la santé publique (OFSP
 
 <sup>2</sup> Elle effectue en deux tranches le versement visé à l’art. 15*b*, al. 3, de la loi sur la transplantation au service chargé du suivi des donneurs vivants; la première est payée au 15 janvier et la deuxième au 15 juillet.
 
-<sup>3</sup> Elle veille à la sécurité des placements de la fortune du fonds et garantit les liquidités nécessaires.
+<sup>3</sup> Elle veille à la sécurité des placements de la fortune du fonds et garantit les liquidités nécessaires. Le Conseil de fondation de l’institution commune édicte un règlement en la matière. Le revenu des capitaux est versé au Fonds chargé du suivi des donneurs vivants.[^12b-2]
 
-<sup>4</sup> Elle remet à l’OFSP un rapport annuel sur son activité, au plus tard à la fin juin. Ce document fait partie des rapports visés à l’art. 46 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^12b-2].
+<sup>4</sup> L’institution commune remet à l’OFSP un rapport annuel sur son activité, au plus tard à la fin juin. Ce document fait partie des rapports visés à l’art. 46 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^12b-3].[^12b-4]
 
 [^12b-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
-[^12b-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-2]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^12b-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-4]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12c
 
@@ -342,15 +347,18 @@ La Confédération verse en deux tranches la contribution visée à l’art. 15*
 
 <sup>1</sup> Le service chargé du suivi des donneurs vivants communique à l’institution commune et à l’OFSP, jusqu’à la fin du mois d’octobre, une estimation des coûts pour le suivi de l’état de santé des donneurs vivants pour l’année suivante et il les justifie.
 
-<sup>2</sup> Il présente à l’OFSP et à l’institution commune, jusqu’à la fin du mois de mars, le décompte des coûts de l’année précédente. Une éventuelle différence entre l’estimation et le décompte des coûts est compensée lors du versement de la deuxième tranche de versement visée à l’art. 12*b*, al. 2, ou à l’art. 12*d.*
+<sup>2</sup> Il présente à l’OFSP et à l’institution commune, jusqu’à la fin du mois d’avril, le décompte des coûts de l’année précédente. Une éventuelle différence entre l’estimation et le décompte des coûts est compensée lors du versement de la deuxième tranche de versement visée à l’art. 12*b*, al. 2, ou à l’art. 12*d*.[^12e-2]
 
 [^12e-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^12e-2]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12f
 
 **Cas spéciaux de prise en charge des coûts**[^12f-1]
 
-<sup>1</sup> Quiconque en Suisse prélève sur une personne vivante un organe destiné à une personne assurée auprès d’un assureur étranger doit veiller à ce que ce dernier paie par avance les coûts du suivi de l’état de santé du donneur ou qu’il fourni au préalable une garantie de prise en charge de ces frais.
+<sup>1</sup> Quiconque en Suisse prélève sur une personne vivante un organe destiné à un receveur qui n’est pas assuré auprès d’un assureur suisse (art. 14, al. 2, de la loi sur la transplantation) doit veiller à ce que le receveur ou son assureur étranger paie par avance les coûts du suivi de l’état de santé du donneur au Fonds chargé du suivi des donneurs vivants.[^12f-2]
+
+<sup>1bis</sup> Quiconque en Suisse prélève sur une personne vivante des cellules souches hématopoïétiques destinées à un receveur résidant en Suisse qui n’est pas assuré auprès d’un assureur suisse (art. 14, al. 2, de la loi sur la transplantation) doit veiller à ce que le receveur ou son assureur étranger paie par avance les coûts du suivi de l’état de santé du donneur au Fonds chargé du suivi des donneurs vivants.[^12f-3]
 
 <sup>2</sup> En cas de prélèvement en Suisse de cellules souches hématopoïétiques sur un donneur vivant qui sont destinées à une personne à l’étranger, le service chargé du suivi des donneurs vivants réclame au registre des cellules souches étranger ou au service chargé du suivi des donneurs vivants étranger le montant couvrant les coûts relatifs au suivi de l’état de santé du donneur et il verse les moyens financiers reçus au fonds chargé du suivi des donneurs vivants.
 
@@ -359,6 +367,8 @@ La Confédération verse en deux tranches la contribution visée à l’art. 15*
 <sup>4</sup> Si, en cas de transplantation croisée impliquant une paire incompatible en Suisse et une paire incompatible à l’étranger, un service du pays en question assure le suivi de l’état de santé du donneur de la paire étrangère, l’assureur du receveur suisse prend en charge la somme forfaitaire pour le suivi de l’état de santé du donneur formant une paire incompatible avec ce receveur.
 
 [^12f-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^12f-2]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^12f-3]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 ## Chapitre 4 Utilisation d’organes, de tissus et de cellules
 
@@ -430,7 +440,7 @@ En cas de transplantation effectuée à l’étranger, le médecin qui assure le
 
 Quiconque prélève des organes sur un donneur vivant doit communiquer les données suivantes à l’OFSP:
 
-- a. la nationalité du donneur et du receveur;
+- a.[^15a-2] l’année de naissance, le sexe, le groupe sanguin et la nationalité du donneur et du receveur;
 - b. le pays de résidence du donneur et du receveur; si l’installation en Suisse date de moins de trois mois, le pays de résidence précédent doit également être communiqué;
 - c. le lien existant entre le donneur et le receveur; en cas de don croisé, le lien existant entre le donneur et le receveur de la paire incompatible;
 - d. l’organe qui a été prélevé et la date du prélèvement;
@@ -441,7 +451,11 @@ Quiconque prélève des organes sur un donneur vivant doit communiquer les donn�
 
 <sup>3</sup> Elle est saisie en ligne dans la banque de données Swiss Organ Allocation Software (SOAS).
 
+<sup>4</sup> Si le domicile du donneur ou du receveur se trouve à l’étranger, l’OFSP peut transmettre les données anonymisées au Comité européen sur la transplantation d’organes.[^15a-3]
+
 [^15a-1]: Introduit par le ch. I de l’O du 10 sept. 2008 ([RO 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)). Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^15a-2]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^15a-3]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 15b
 
@@ -783,7 +797,7 @@ La demande d’autorisation pour la transplantation, dans le cadre d’un traite
 
 #### Art. 38
 
-**Evaluation scientifique de la demande d’autorisation**
+**Évaluation scientifique de la demande d’autorisation**
 
 <sup>1</sup> L’OFSP peut faire appel à des experts ou des organismes indépendants pour l’évaluation scientifique de la demande d’autorisation.
 
@@ -807,7 +821,7 @@ La demande d’autorisation pour la transplantation, dans le cadre d’un traite
 
 #### Art. 41
 
-**Etendue et durée de validité de l’autorisation**
+**Étendue et durée de validité de l’autorisation**
 
 <sup>1</sup> L’autorisation est délivrée au nom du requérant; elle n’est pas transmissible.
 
@@ -1108,7 +1122,7 @@ Lorsque des mesures s’avèrent nécessaires au vu des résultats des examens, 
 
 <sup>1</sup> La tenue du registre des cellules souches visé à l’art. 62 de la loi sur la transplantation est confiée à Transfusion CRS Suisse SA (Transfusion CRS)[^50-1].
 
-<sup>2</sup> A cet effet, l’OFSP conclut avec Transfusion CRS un accord qui règle notamment la rémunération, par la Confédération, des tâches déléguées.
+<sup>2</sup> À cet effet, l’OFSP conclut avec Transfusion CRS un accord qui règle notamment la rémunération, par la Confédération, des tâches déléguées.
 
 [^50-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -1225,7 +1239,7 @@ Annexe 2[^t-2]
 
 ## Communication, au service chargé du suivi des donneurs vivants et à l’institution commune, des dons d’organes ou de cellules souches hématopoïétiques
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Mise à jour par l’annexe ch. II 27 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Mise à jour par l’annexe ch. II 27 de l’O du 17 nov. 2021 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) et le ch. II de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 ### 1 Communication au service chargé du suivi des donneurs vivants
 
@@ -1287,7 +1301,9 @@ Pour ce qui est de l’assurance, les données suivantes doivent être communiqu
 
 - a. si l’assurance-maladie est compétente: le nom de l’assureur, le numéro de la carte européenne d’assurance maladie ou le numéro de la carte d’assurance du receveur pour l’assurance obligatoire des soins;
 - b. si l’assurance-accidents est compétente: le nom de l’assureur-accidents, le numéro de sinistre et le nom de l’employeur;
-- c. si l’assurance-invalidité est compétente: le numéro AVS.
+- c. si l’assurance-invalidité est compétente: l’office AI compétent au sens de l’art. 40 du règlement du 17 janvier 1961 sur l’assurance-invalidité[^annex2-lvlu1-lvl3-1] et le numéro AVS.
+
+[^annex2-lvlu1-lvl3-1]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 
 Annexe 3[^t-3]
 
@@ -1312,9 +1328,9 @@ Annexe 5[^t-5]
 
 ## Évaluation de l’aptitude au don, exclusion du don, obligation d’effectuer des tests, tests à effectuer, exigences auxquelles ils doivent satisfaire et procédure à suivre en cas de réactivité aux tests VIH, VHB et VHC
 
-[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 10 sept. 2008 ([RO 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)), le ch. I al. 1 de l’O du DFI du 12 janv. 2010 ([RO 2010 373](https://fedlex.data.admin.ch/eli/oc/2010/42)) et ch. II al. 3 de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 10 sept. 2008 ([RO 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)), le ch. I al. 1 de l’O du DFI du 12 janv. 2010 ([RO 2010 373](https://fedlex.data.admin.ch/eli/oc/2010/42)), le ch. II al. 3 de l’O du 18 oct. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)) et le ch. II de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
-### 1 Evaluation de l’aptitude au don
+### 1 Évaluation de l’aptitude au don
 
 -
 
@@ -1333,18 +1349,15 @@ Annexe 5[^t-5]
 
 ### 2 Exclusion du don
 
--
+- 2\.1
 
   Sont exclues de tout don les personnes:
 
   - a. atteintes d’une infection systémique grave incurable ou d’origine inconnue;
   - b. atteintes d’une maladie à prions, présentant un risque d’être infectées par une telle maladie, suspectées d’être infectées par le virus de la rage ou souffrant d’une autre maladie dégénérative d’origine inconnue affectant le système nerveux central;
-  - c.
+  - c. atteintes de leucémies, de lymphomes ou de plasmocytomes actifs (aigus ou chroniques).
 
-    atteintes d’un néoplasme malin, quelle que soit sa localisation, à l’exception de certaines tumeurs primaires du système nerveux central ne formant pas de métastases, du carcinome primaire des cellules basales de la peau ou d’un carcinome in situ du col de l’utérus; ne sont toutefois pas exclues du don:
-
-    - 1\. les personnes qui n’ont pas développé de tumeur pendant au moins cinq ans;
-    - 2\. les personnes atteintes par une affection maligne pour les dons de cornée, à l’exception toutefois des personnes atteintes d’un rétinoblastome, d’un néoplasme hématologique ou d’une tumeur maligne susceptible d’affecter le pôle antérieur de l’œil.
+- 2\.2 Sont également exclues de tout don de cornée les personnes atteintes d’un rétinoblastome, d’un mélanome malin avec maladie métastatique connue ou de tumeurs malignes du segment antérieur de l’œil.
 
 ### 3 Obligation d’effectuer des tests
 

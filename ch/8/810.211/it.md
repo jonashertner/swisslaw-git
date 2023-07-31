@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Ordinanza del 16 marzo 2007 concernente il trapianto di organi, tessuti e cellule umani (Ordinanza sui trapianti)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: it
-version: 2022-12-01
+version: 2023-08-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2007-280-20221201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/it"
 
 (Ordinanza sui trapianti)
 
-del 16 marzo 2007 (Stato 1° dicembre 2022) (Stato 1° dicembre 2022)
+del 16 marzo 2007 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -169,9 +169,12 @@ Se la persona deceduta ha designato più persone di fiducia, il prelievo è amme
 
 **Accertamento della morte**[^7-1]
 
-La morte è accertata secondo le direttive dell’allegato 1.
+<sup>1</sup> La morte è accertata secondo le direttive dell’allegato 1.
+
+<sup>2</sup> Qualora si prelevino soltanto tessuti o cellule, ma non organi, da una persona deceduta, è sufficiente un certificato di morte ai sensi del diritto cantonale. La persona responsabile del prelievo verifica preventivamente se è disponibile un certificato di morte valido e lo allega alla documentazione del prelievo.[^7-2]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^7-2]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 8
 
@@ -307,12 +310,14 @@ L’istituzione comune informa l’Ufficio federale della sanità pubblica (UFSP
 
 <sup>2</sup> Essa versa al servizio dei controlli postdonazione il dividendo di cui all’articolo 15*b* capoverso 3 della legge sui trapianti in due rate; la prima è versata entro il 15 gennaio e la seconda entro il 15 luglio.
 
-<sup>3</sup> Essa vigila sulla sicurezza degli investimenti del patrimonio del fondo e garantisce la liquidità necessaria.
+<sup>3</sup> Essa vigila sulla sicurezza degli investimenti del patrimonio del fondo e garantisce la liquidità necessaria. Il consiglio di fondazione dell’istituzione comune emana un regolamento sugli investimenti. Il reddito da capitale è destinato al fondo per i controlli postdonazione.[^12b-2]
 
-<sup>4</sup> Trasmette all’UFSP entro la fine di giugno un rapporto annuale sulla sua attività. Il rapporto è parte integrante dei rapporti di cui all’articolo 46 della legge del 26 settembre 2014[^12b-2] sulla vigilanza sull’assicurazione malattie.
+<sup>4</sup> L’istituzione comune trasmette all’UFSP entro la fine di giugno un rapporto annuale sulla sua attività. Il rapporto è parte integrante dei rapporti di cui all’articolo 46 della legge del 26 settembre 2014[^12b-3] sulla vigilanza sull’assicurazione malattie.[^12b-4]
 
 [^12b-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
-[^12b-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-2]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^12b-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-4]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12c
 
@@ -343,15 +348,18 @@ La Confederazione versa il contributo di cui all’articolo 15*a* capoverso 3 de
 
 <sup>1</sup> Il servizio dei controlli postdonazione informa l’istituzione comune e l’UFSP entro la fine di ottobre sulle spese previste per l’anno successivo per il controllo postoperatorio dello stato di salute dei donatori e le motiva.
 
-<sup>2</sup> Presenta all’UFSP e all’istituzione comune entro la fine di marzo il conteggio delle spese sostenute l’anno precedente. Eventuali differenze dall’anno precedente vengono compensate con la seconda rata di cui all’articolo 12*b* capoverso 2 o all’articolo 12*d*.
+<sup>2</sup> Presenta all’UFSP e all’istituzione comune entro la fine di aprile il conteggio delle spese sostenute l’anno precedente. Eventuali differenze dall’anno precedente vengono compensate con la seconda rata di cui all’articolo 12*b* capoverso 2 o all’articolo 12*d*.[^12e-2]
 
 [^12e-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^12e-2]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12f
 
 **Casi particolari di assunzione delle spese**[^12f-1]
 
-<sup>1</sup> Chi in Svizzera preleva da una persona vivente un organo destinato a un ricevente assicurato presso un assicuratore estero deve assicurarsi che quest’ultimo paghi in anticipo al fondo per i controlli postdonazione le spese per il controllo postoperatorio dello stato di salute del donatore oppure fornisca una garanzia di assunzione di queste spese.
+<sup>1</sup> Chi in Svizzera preleva da una persona vivente un organo destinato a un ricevente non assicurato presso un assicuratore svizzero (art. 14 cpv. 2 della legge sui trapianti) deve assicurarsi che il ricevente o il suo assicuratore estero paghi in anticipo al fondo per i controlli postdonazione le spese per il controllo postoperatorio dello stato di salute del donatore.[^12f-2]
+
+<sup>1bis</sup> Chi in Svizzera preleva da una persona vivente cellule staminali del sangue destinate a un ricevente con domicilio in Svizzera non assicurato presso un assicuratore svizzero (art. 14 cpv. 2 della legge sui trapianti) deve assicurarsi che il ricevente o il suo assicuratore estero paghi in anticipo al fondo per i controlli postdonazione le spese per il controllo postoperatorio dello stato di salute del donatore.[^12f-3]
 
 <sup>2</sup> Se in Svizzera da una persona vivente vengono prelevate cellule staminali del sangue destinate a un ricevente all’estero, il servizio dei controlli postdonazione esige dal registro delle cellule staminali estero o dal servizio dei controlli postdonazione estero il pagamento delle spese per il controllo postoperatorio dello stato di salute del donatore e versa i mezzi finanziari ricevuti al fondo per i controlli postdonazione.
 
@@ -360,6 +368,8 @@ La Confederazione versa il contributo di cui all’articolo 15*a* capoverso 3 de
 <sup>4</sup> Se, nel caso di trapianto incrociato tra vivi tra una coppia incompatibile in Svizzera e una coppia incompatibile all’estero, un servizio estero assicura il controllo postoperatorio dello stato di salute del donatore della coppia estera, l’assicuratore del ricevente svizzero versa l’importo forfettario per il controllo postoperatorio dello stato di salute del donatore con il quale tale ricevente costituisce una coppia incompatibile.
 
 [^12f-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^12f-2]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^12f-3]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 ## Capitolo 4: Impiego di organi, tessuti e cellule
 
@@ -431,7 +441,7 @@ Se l’organo è stato trapiantato all’estero, il medico responsabile del cont
 
 Chi preleva organi a una persona vivente deve notificare all’UFSP i seguenti dati:
 
-- a. la nazionalità del donatore e del ricevente;
+- a.[^15a-2] l’anno di nascita, il sesso, il gruppo sanguigno e la nazionalità del donatore e del ricevente;
 - b. il Paese di domicilio del donatore e del ricevente; se il domicilio in Svizzera è stato stabilito da meno di tre mesi, deve essere indicato anche il Paese di domicilio precedente;
 - c. la relazione tra il donatore e il ricevente; in caso di trapianto incrociato tra vivi la relazione tra il donatore e il ricevente della coppia incompatibile;
 - d. l’organo prelevato e la data del prelievo;
@@ -442,7 +452,11 @@ Chi preleva organi a una persona vivente deve notificare all’UFSP i seguenti d
 
 <sup>3</sup> La notifica avviene per mezzo di una registrazione online nella banca dati Swiss Organ Allocation System (SOAS).
 
+<sup>4</sup> Se il domicilio del donatore o del ricevente è all’estero, l’UFSP può trasmettere i dati in forma anonimizzata al Comitato per i trapianti di organi del Consiglio d’Europa.[^15a-3]
+
 [^15a-1]: Introdotto dal n. I dell’O del 10 set. 2008 ([RU 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)). Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^15a-2]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^15a-3]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 15b
 
@@ -1226,7 +1240,7 @@ Allegato 2[^t-2]
 
 ## Notifica al servizio dei controlli postdonazione e all’istituzione comune di donazioni di organi e cellule staminali del sangue da parte di persone viventi
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Aggiornato dall’all. n. II 27 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Aggiornato dall’all. n. II 27 dell’O del 17 nov. 2021 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) e dal n. II dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 ### 1 Notifiche al servizio dei controlli postdonazione
 
@@ -1288,7 +1302,9 @@ All’istituzione comune devono essere notificati i seguenti dati concernenti gl
 
 - a. se la competenza è dell’assicurazione malattie: il nome dell’assicuratore-malattie, il numero della tessera europea di assicurazione malattia o il numero della tessera d’assicurato del ricevente per l’assicurazione obbligatoria delle cure medico-sanitarie;
 - b. se la competenza è dell’assicurazione contro gli infortuni: il nome dell’assicuratore-infortuni, il numero del danno e il datore di lavoro;
-- c. se la competenza è dell’assicurazione per l’invalidità: il numero AVS sull’assicurazione per la vecchiaia e per i superstiti.
+- c. se la competenza è dell’assicurazione per l’invalidità: il competente ufficio AI ai sensi dell’articolo 40 dell’ordinanza del 17 gennaio 1961[^annex2-lvlu1-lvl3-1] sull’assicurazione per l’invalidità e il numero AVS.
+
+[^annex2-lvlu1-lvl3-1]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 
 Allegato 3[^t-3]
 
@@ -1313,7 +1329,7 @@ Allegato 5[^t-5]
 
 ## Valutazione dell’idoneità alla donazione, esclusione dalla donazione, test obbligatori, test da eseguire, requisiti dei test e procedura applicabile in caso di esito reattivo del test all’HIV, all’HBV e all’HCV
 
-[^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 10 set. 2008 ([RU 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)), dal n. I cpv. 1 dell’O del DFI del 12 gen. 2010 ([RU 2010 373](https://fedlex.data.admin.ch/eli/oc/2010/42)) e dal n. II cpv. 3 dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 10 set. 2008 ([RU 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)), dal n. I cpv. 1 dell’O del DFI del 12 gen. 2010 ([RU 2010 373](https://fedlex.data.admin.ch/eli/oc/2010/42)), dal n. II cpv. 3 dell’O del 18 ott. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)) e dal n. II dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 ### 1 Valutazione dell’idoneità alla donazione
 
@@ -1334,18 +1350,15 @@ Allegato 5[^t-5]
 
 ### 2 Esclusione dalla donazione
 
--
+- 2\.1
 
   Sono escluse dalla donazione le persone:
 
   - a. con infezioni sistemiche gravi incurabili o di origine sconosciuta;
   - b. con una malattia prionica o che presentano il rischio di essere colpite da una tale malattia, il sospetto di un’infezione con il virus della rabbia o con un’altra malattia degenerativa del sistema nervoso centrale di origine sconosciuta;
-  - c.
+  - c. con leucemia (acuta o cronica) attiva, linfoma o plasmocitoma.
 
-    con neoplasie maligne, indipendentemente dalla loro localizzazione, ad eccezione di singoli tumori primari del sistema nervoso centrale che non danno metastasi, del carcinoma primario basocellulare della cute e del carcinoma *in situ* del collo dell’utero. È possibile prescindere da un’esclusione:
-
-    - 1\. nel caso di persone in fase di remissione da almeno cinque anni;
-    - 2\. nel caso di donatori di cornea che soffrono di affezioni maligne, purché non si tratti di persone affette da retinoblastoma, da neoplasie ematologiche o da tumori maligni del fondo dell’occhio.
+- 2\.2 Nel caso di una donazione di cornea sono inoltre escluse le persone con retinoblastoma, melanoma maligno con malattia metastatica nota o tumori maligni del segmento anteriore dell’occhio.
 
 ### 3 Test obbligatori
 

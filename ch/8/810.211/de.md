@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Verordnung vom 16. März 2007 über die Transplantation von menschlichen Organen, Geweben und Zellen (Transplantationsverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: de
-version: 2022-12-01
+version: 2023-08-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2007-280-20221201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/de"
 
 (Transplantationsverordnung)
 
-vom 16. März 2007 (Stand am 1. Dezember 2022)
+vom 16. März 2007 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -168,9 +168,12 @@ Hat die verstorbene Person mehrere Personen ihres Vertrauens bestimmt, so ist di
 
 **Feststellung des Todes**[^7-1]
 
-Der Tod ist nach den Richtlinien nach Anhang 1 festzustellen.
+<sup>1</sup> Der Tod ist nach den Richtlinien nach Anhang 1 festzustellen.
+
+<sup>2</sup> Sollen einer verstorbenen Person nur Gewebe oder Zellen, nicht aber Organe entnommen werden, so ist eine Todesbescheinigung nach kantonalem Recht ausreichend. Die für die Entnahme verantwortliche Person prüft vorgängig, ob eine gültige Todesbescheinigung vorliegt, und legt diese den Entnahme-Dokumenten bei.[^7-2]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 8
 
@@ -306,12 +309,14 @@ Die gemeinsame Einrichtung informiert das Bundesamt für Gesundheit (BAG):
 
 <sup>2</sup> Sie entrichtet der Lebendspende-Nachsorgestelle die Ausschüttung nach Artikel 15*b* Absatz 3 des Transplantationsgesetzes in zwei Tranchen; die erste Tranche wird per 15. Januar entrichtet, die zweite per 15. Juli.
 
-<sup>3</sup> Sie achtet auf die Sicherheit der Anlagen des Fondsvermögens und gewährleistet die erforderliche Liquidität.
+<sup>3</sup> Sie achtet auf die Sicherheit der Anlagen des Fondsvermögens und gewährleistet die erforderliche Liquidität. Der Stiftungsrat der gemeinsamen Einrichtung erlässt ein Anlagereglement. Der Kapitalertrag kommt dem Lebendspende-Nachsorgefonds zugute.[^12b-2]
 
-<sup>4</sup> Sie reicht dem BAG jeweils bis Ende Juni einen Jahresbericht über ihre Tätigkeit ein. Der Bericht ist Teil der Berichterstattung nach Artikel 46 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^12b-2].
+<sup>4</sup> Die gemeinsame Einrichtung reicht dem BAG jeweils bis Ende Juni einen Jahresbericht über ihre Tätigkeit ein. Der Bericht ist Teil der Berichterstattung nach Artikel 46 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^12b-3].[^12b-4]
 
 [^12b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
-[^12b-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-2]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^12b-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-4]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12c
 
@@ -342,15 +347,18 @@ Der Bund entrichtet den Beitrag nach Artikel 15*a* Absatz 3 des Transplantations
 
 <sup>1</sup> Die Lebendspende-Nachsorgestelle informiert die gemeinsame Einrichtung und das BAG jeweils bis Ende Oktober über die für das Folgejahr zu erwartenden Kosten für die Nachverfolgung des Gesundheitszustands der Lebendspenderinnen und Lebendspender und begründet sie.
 
-<sup>2</sup> Sie legt dem BAG und der gemeinsamen Einrichtung jeweils bis Ende März die Abrechnung über die im Vorjahr entstandenen Kosten vor. Allfällige Differenzen aus dem Vorjahr werden jeweils mit der zweiten Tranche nach Artikel 12*b* Absatz 2 beziehungsweise 12*d* ausgeglichen.
+<sup>2</sup> Sie legt dem BAG und der gemeinsamen Einrichtung jeweils bis Ende April die Abrechnung über die im Vorjahr entstandenen Kosten vor. Allfällige Differenzen aus dem Vorjahr werden jeweils mit der zweiten Tranche nach Artikel 12*b* Absatz 2 beziehungsweise 12*d* ausgeglichen.[^12e-2]
 
 [^12e-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^12e-2]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12f
 
 **Sonderfälle der Kostentragung**[^12f-1]
 
-<sup>1</sup> Wer einer lebenden Person in der Schweiz ein Organ entnimmt, das für eine Empfängerin oder einen Empfänger bestimmt ist, die oder der bei einem ausländischen Versicherer versichert ist, hat sicherzustellen, dass dieser Versicherer die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders dem Lebendspende-Nachsorgefonds im Voraus bezahlt oder dafür eine Kostengutsprache leistet.
+<sup>1</sup> Wer einer lebenden Person in der Schweiz ein Organ entnimmt, das für eine Empfängerin oder einen Empfänger bestimmt ist, die oder der bei keinem Schweizer Versicherer (Art. 14 Abs. 2 des Transplantationsgesetzes) versichert ist, muss sicherstellen, dass die Empfängerin oder der Empfänger beziehungsweise deren oder dessen ausländischer Versicherer die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders dem Lebendspende-Nachsorgefonds im Voraus bezahlt.[^12f-2]
+
+<sup>1bis</sup> Wer einer lebenden Person in der Schweiz Blut-Stammzellen entnimmt, die für eine Empfängerin oder einen Empfänger mit Wohnsitz in der Schweiz bestimmt sind, die oder der bei keinem Schweizer Versicherer (Art. 14 Abs. 2 des Transplantationsgesetzes) versichert ist, muss sicherstellen, dass die Empfängerin oder der Empfänger beziehungsweise deren oder dessen ausländischer Versicherer die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders dem Lebendspende-Nachsorgefonds im Voraus bezahlt.[^12f-3]
 
 <sup>2</sup> Werden einer lebenden Person in der Schweiz Blut-Stammzellen für eine Empfängerin oder einen Empfänger im Ausland entnommen, so fordert die Lebendspende-Nachsorgestelle die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders beim ausländischen Stammzellenregister oder bei der ausländischen Lebendspende-Nachsorgestelle ein und überweist die erhaltenen finanziellen Mittel dem Lebendspende-Nachsorgefonds.
 
@@ -359,6 +367,8 @@ Der Bund entrichtet den Beitrag nach Artikel 15*a* Absatz 3 des Transplantations
 <sup>4</sup> Erfolgt eine Überkreuz-Lebendspende zwischen einem inkompatiblen Paar in der Schweiz und einem inkompatiblen Paar im Ausland und stellt eine ausländische Stelle die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders des ausländischen Paars sicher, so entrichtet der Versicherer der Schweizer Empfängerin oder des Schweizer Empfängers die Pauschale für die Nachverfolgung des Gesundheitszustands der spendenden Person, die mit dieser Empfängerin oder diesem Empfänger ein inkompatibles Paar bildet.
 
 [^12f-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^12f-2]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^12f-3]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 ## 4. Kapitel: Umgang mit Organen, Geweben und Zellen
 
@@ -434,16 +444,22 @@ Wurde das Organ im Ausland transplantiert, so meldet die für die medizinische N
 
 Wer einer lebenden Person Organe entnimmt, muss dem BAG die folgenden Daten melden:
 
-- a. die Nationalität der Spenderin oder des Spenders und der Empfängerin oder des Empfängers;
+- a.[^15a-2] das Geburtsjahr, das Geschlecht, die Blutgruppe und die Nationalität der Spenderin oder des Spenders und der Empfängerin oder des Empfängers;
 - b. das Wohnsitzland der Spenderin oder des Spenders und der Empfängerin oder des Empfängers; ist der Wohnsitz in der Schweiz vor weniger als drei Monaten begründet worden, so muss zudem das vorhergehende Wohnsitzland angegeben werden;
 - c. die Beziehung zwischen der Spenderin oder dem Spender und der Empfängerin oder dem Empfänger; bei einer Überkreuz-Lebendspende die Beziehung zwischen der spendenden und der empfangenden Person des inkompatiblen Paars;
 - d. die Angabe, welches Organ wann entnommen wurde;
 - e. die Angabe, ob und wenn ja wann das entnommene Organ transplantiert wurde;
 - f. die Angabe, ob die Spenderin oder der Spender mit der Nachverfolgung des Gesundheitszustands einverstanden ist, und gegebenenfalls den Grund, warum sie oder er nicht einverstanden ist.
-- [tab] <sup>2</sup> Die Meldung muss bis spätestens eine Woche nach der Entnahme erfolgen.
-- [tab] <sup>3</sup> Sie erfolgt durch einen Online-Eintrag in die Datenbank Swiss Organ Allocation System (SOAS).
+
+<sup>2</sup> Die Meldung muss bis spätestens eine Woche nach der Entnahme erfolgen.
+
+<sup>3</sup> Sie erfolgt durch einen Online-Eintrag in die Datenbank Swiss Organ Allocation System (SOAS).
+
+<sup>4</sup> Befindet sich der Wohnsitz der Spenderin oder des Spenders beziehungsweise der Empfängerin oder des Empfängers im Ausland, so kann das BAG die Daten in anonymisierter Form an das Komitee für Organtransplantation des Europarats weiterleiten.[^15a-3]
 
 [^15a-1]: Eingefügt durch Ziff. I der V vom 10. Sept. 2008 ([AS 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^15a-2]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^15a-3]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 15b
 
@@ -1228,7 +1244,7 @@ Anhang 2[^t-2]
 
 ## Meldung von Lebendspenden von Organen und Blut-Stammzellen an die Lebendspende-Nachsorgestelle und an die gemeinsame Einrichtung
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Bereinigt gemäss Anhang Ziff. II 27 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)). Bereinigt gemäss Anhang Ziff. II 27 der V vom 17. Nov. 2021 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) und Ziff. II der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 ### 1 Meldungen an die Lebendspende-Nachsorgestelle
 
@@ -1290,7 +1306,10 @@ Der gemeinsamen Einrichtung müssen folgende Angaben zur Versicherung gemeldet w
 
 - a. bei Zuständigkeit der Krankenversicherung: Name des Krankenversicherers, Nummer der europäischen Krankenversicherungskarte oder Nummer der Versichertenkarte der Empfängerin oder des Empfängers für die obligatorische Krankenpflegeversicherung;
 - b. bei Zuständigkeit der Unfallversicherung: Name des Unfallversicherers, Schadennummer und Arbeitgeber;
-- c. bei Zuständigkeit der Invalidenversicherung: AHV-Nummer.
+- c. bei Zuständigkeit der Invalidenversicherung: die zuständige IV-Stelle nach Artikel 40 der Verordnung vom 17. Januar 1961[^annex2-lvlu1-lvl3-1] über die Invalidenversicherung und die AHV-Nummer.
+- [tab]
+
+[^annex2-lvlu1-lvl3-1]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 
 Anhang 3[^t-3]
 
@@ -1316,7 +1335,7 @@ Anhang 5[^t-5]
 
 ## Beurteilung der Spendetauglichkeit, Ausschluss von der Spende, Testpflicht, durchzuführende Tests, Testanforderungen und Vorgehen bei reaktivem Testergebnis auf HIV, HBV und HCV
 
-[^t-5]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 10. Sept. 2008 ([AS 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)), Ziff. I Abs. 1 der V des EDI vom 12. Jan. 2010 ([AS 2010 373](https://fedlex.data.admin.ch/eli/oc/2010/42)) und Ziff. II Abs. 3 der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 10. Sept. 2008 ([AS 2008 4461](https://fedlex.data.admin.ch/eli/oc/2008/619)), Ziff. I Abs. 1 der V des EDI vom 12. Jan. 2010 ([AS 2010 373](https://fedlex.data.admin.ch/eli/oc/2010/42)), Ziff. II Abs. 3 der V vom 18. Okt. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)) und Ziff. II der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 ### 1 Beurteilung der Spendetauglichkeit
 
@@ -1337,18 +1356,15 @@ Anhang 5[^t-5]
 
 ### 2 Ausschluss von der Spende
 
--
+- 2\.1
 
   Von der Spende auszuschliessen sind Personen:
 
   - a. mit schweren systemischen Infektionen, die nicht behandelbar oder unbekannten Ursprungs sind;
   - b. mit einer Prionenerkrankung, dem Risiko für eine solche Erkrankung, dem Verdacht auf eine Infektion mit dem Tollwutvirus oder mit einer anderen degenerativen Erkrankung des zentralen Nervensystems unbekannten Ursprungs;
-  - c.
+  - c. mit aktiven (akuten oder chronischen) Leukämien, Lymphomen oder Plasmozytomen.
 
-    mit bösartigen Neoplasien jeder Lokalisation, mit Ausnahme von einzelnen primären nicht metastasierenden Tumoren des Zentralnervensystems, des primären Basalzellkarzinoms der Haut und des *Carcinoma in situ* des Gebärmutterhalses; vom Ausschluss kann abgesehen werden bei Personen:
-
-    - 1\. die seit mindestens fünf Jahren tumorfrei sind;
-    - 2\. mit malignen Erkrankungen für Augenhornhautspenden, jedoch mit Ausnahme von Personen mit Retinoblastom, hämatologischen Neoplasien oder malignen Tumoren des Augenhintergrunds.
+- 2\.2 Bei Augenhornhautspenden zusätzlich auszuschliessen sind Personen mit Retinoblastom, malignem Melanom mit bekannter metastasierender Erkrankung oder malignen Tumoren des vorderen Augenabschnitts.
 
 ### 3 Testpflicht
 
