@@ -4,13 +4,13 @@ number: "853.1"
 title: "Gesetz über die Jagd, den Schutz der wildlebenden Säugetiere und Vögel sowie deren Lebensräume (Jagdgesetz)"
 short: JG
 language: de
-version: 2021-10-01
-valid_until: 2023-07-31
-version_adopted: 2021-06-15
+version: 2023-08-01
+valid_until: 2024-03-31
+version_adopted: 2022-11-15
 adopted: 1994-11-17
 in_force: 1996-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3266/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3266/pdf_file"
 
 (JG)
 
-vom 17.11.1994 (Stand 01.10.2021)
+vom 17.11.1994 (Stand 01.08.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -112,15 +112,15 @@ als Gesetz:[^ingress-3]
 
 <sup>3</sup> …
 
-### 1bis. Anzahl Pächterinnen und Pächter
+### 1<sup>bis</sup>. Grösse der Jagdgesellschaft
 
 #### Art. 8
 
 **Bemessung**
 
-<sup>1</sup> Die zuständige Stelle des Kantons legt für jedes Revier die notwendige Anzahl Pächterinnen und Pächter fest.
+<sup>1</sup> Die zuständige Stelle des Kantons legt für jedes Revier die notwendige Mitgliederzahl der Jagdgesellschaft fest.
 
-<sup>2</sup> Die notwendige Anzahl Pächterinnen und Pächter bemisst sich nach der Bewertung des Reviers, weist jedoch wenigstens drei Pächterinnen oder Pächter auf. Sie gilt für die ganze Pachtdauer.
+<sup>2</sup> Die notwendige Mitgliederzahl der Jagdgesellschaft bemisst sich nach der Bewertung des Reviers, weist jedoch wenigstens drei Mitglieder auf. Sie gilt für die ganze Pachtdauer.
 
 <sup>3</sup> …
 
@@ -128,9 +128,9 @@ als Gesetz:[^ingress-3]
 
 **Anrechenbarkeit**
 
-<sup>1</sup> Eine Person wird nur in einem einzigen Revier an die notwendige Anzahl Pächterinnen und Pächter angerechnet.
+<sup>1</sup> Eine Person wird nur in einem einzigen Revier an die notwendige Mitgliederzahl der Jagdgesellschaft angerechnet.
 
-<sup>2</sup> Nach vollendetem 70. Altersjahr wird eine Person nicht mehr an die notwendige Anzahl Pächterinnen und Pächter angerechnet.
+<sup>2</sup> Nach vollendetem 70. Altersjahr wird eine Person nicht mehr an die notwendige Mitgliederzahl der Jagdgesellschaft angerechnet.
 
 ### 2. Pacht
 
@@ -146,43 +146,53 @@ als Gesetz:[^ingress-3]
 
 **Vergabe a) Voraussetzungen**
 
-<sup>1</sup> Das Revier wird an die Personengruppe vergeben, die:
+<sup>1</sup> Das Revier wird an die Jagdgesellschaft vergeben, die:
 
 - a) Gewähr bietet, die Aufgaben einer Jagdgesellschaft ordnungsgemäss zu erfüllen;
-- b) nur Mitglieder hat, die als Pächterinnen oder Pächter zur Jagd berechtigt sind;
-- c) die notwendige Anzahl Pächterinnen und Pächter aufweist.
+- b) nur Mitglieder hat, die zur Jagd berechtigt sind;
+- c) die notwendige Mitgliederzahl der Jagdgesellschaft aufweist;
+- d) in der Rechtsform des Vereins nach Art. 60 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^10-1] organisiert ist.
 
 <sup>2</sup> Die Voraussetzungen müssen spätestens bei Ablauf der Bewerbungsfrist erfüllt sein.
 
+[^10-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+
 #### Art. 11
 
-**b) Auswahl 1. wenn mehrere Personengruppen die Voraussetzungen erfüllen**
+**b) Auswahl 1. wenn mehrere Jagdgesellschaften die Voraussetzungen erfüllen**
 
-<sup>1</sup> Erfüllen mehrere Personengruppen die Voraussetzungen für eine Vergabe, wird vergeben:
+<sup>1</sup> Erfüllen mehrere Jagdgesellschaften die Voraussetzungen für eine Vergabe, wird vergeben:
 
-- a) das einheimische Revier an die Personengruppe mit den meisten einheimischen Bewerberinnen und Bewerbern;
-- b) das auswärtige Revier an die Personengruppe mit den meisten auswärtigen Bewerberinnen und Bewerbern.
+- a) das einheimische Revier an die Jagdgesellschaft, die bis zur notwendigen Mitgliederzahl mehr einheimische Mitglieder aufweist;
+- b) das auswärtige Revier an die Jagdgesellschaft, die bis zur notwendigen Mitgliederzahl mehr auswärtige Mitglieder aufweist.
 
-<sup>2</sup> Massgebend sind ausschliesslich Bewerberinnen und Bewerber, die für das Revier an die notwendige Anzahl Pächterinnen und Pächter angerechnet werden und im Kanton wohnen.
+<sup>1<sup>bis</sup></sup> Kommen mehrere Jagdgesellschaften nach Abs. 1 Bst. a und b dieser Bestimmung für eine Vergabe in Frage, wird das Revier an die Jagdgesellschaft vergeben, die das Revier in der ablaufenden Pachtperiode gepachtet hat.
+
+<sup>1<sup>ter</sup></sup> Führt auch das Vorgehen nach Abs. 1<sup>bis</sup> dieser Bestimmung zu keinem Ergebnis, wird das Revier an die Jagdgesellschaft vergeben, die aufgrund ihrer Altersstruktur die Erfüllung der Aufgaben einer Jagdgesellschaft besser gewährleistet.
+
+<sup>2</sup> Massgebend sind:
+
+- a) für die Auswahl nach Abs. 1 dieser Bestimmung ausschliesslich Mitglieder, die für das Revier an die notwendige Mitgliederzahl der Jagdgesellschaft angerechnet werden und im Kanton wohnen;
+- b) für die Auswahl nach Abs. 1<sup>ter</sup> dieser Bestimmung alle jagdberechtigten Mitglieder der Jagdgesellschaft.
 
 <sup>3</sup> Als einheimisch gilt, wer bei Ablauf der Bewerbungsfrist seit wenigstens sechs Monaten ununterbrochen in einer Standortgemeinde des Reviers wohnt.
 
 #### Art. 11bis
 
-**2. wenn keine Personengruppe die Voraussetzungen erfüllt**
+**2. wenn keine Jagdgesellschaft die Voraussetzungen erfüllt**
 
-<sup>1</sup> Erfüllt keine Personengruppe die Voraussetzungen für eine Vergabe, wird das Revier erneut ausgeschrieben.
+<sup>1</sup> Erfüllt keine Jagdgesellschaft die Voraussetzungen für eine Vergabe, wird das Revier erneut ausgeschrieben.
 
-<sup>2</sup> Erfüllt auch nach erneuter Ausschreibung keine Personengruppe die Voraussetzungen für eine Vergabe, wird das Revier an die Personengruppe vergeben, welche:
+<sup>2</sup> Erfüllt auch nach erneuter Ausschreibung keine Jagdgesellschaft die Voraussetzungen für eine Vergabe, wird das Revier an die Jagdgesellschaft vergeben, welche:
 
-- a) die Voraussetzungen von Art. 10 Abs. 1 Bst. a und b dieses Erlasses erfüllt und
-- b) die notwendige Anzahl Pächterinnen und Pächter am ehesten erreicht.
+- a) die Voraussetzungen von Art. 10 Abs. 1 Bst. a, b und d dieses Erlasses erfüllt und
+- b) die notwendige Mitgliederzahl der Jagdgesellschaft am ehesten erreicht. Die notwendige Mitgliederzahl der Jagdgesellschaft ist spätestens sechs Monate nach der Vergabe zu erfüllen.
 
 #### Art. 12
 
 **Pachtverfügung**
 
-<sup>1</sup> Die zuständige Stelle des Kantons vergibt die Reviere nach Anhören der Standortgemeinden durch Pachtverfügung.
+<sup>1</sup> Die zuständige Stelle des Kantons vergibt die Reviere durch Pachtverfügung.
 
 #### Art. 13
 
@@ -194,20 +204,22 @@ als Gesetz:[^ingress-3]
 
 #### Art. 14
 
-**Vorzeitige Auflösung der Pacht und Ausschluss aus der Jagdgesellschaft**
+**Vorzeitige Auflösung der Pacht**
 
-<sup>1</sup> Die zuständige Stelle des Kantons kann aus wichtigen Gründen:
+<sup>1</sup> Die zuständige Stelle des Kantons kann die Pacht vor Ablauf der Pachtdauer aus wichtigen Gründen auflösen.
 
-- a) die Pacht vor Ablauf der Pachtdauer auflösen;
-- b) eine Pächterin oder einen Pächter aus der Jagdgesellschaft ausschliessen.
+- a) …
+- b) …
 
-<sup>2</sup> Die Auflösung oder der Ausschluss ist insbesondere zulässig, wenn:
+<sup>2</sup> Die Auflösung ist insbesondere zulässig, wenn:
 
 - a) die Voraussetzungen der Vergabe nicht mehr erfüllt sind;
+- a<sup>bis</sup>) der Pachtzins nicht bezahlt wird;
 - b) wesentliche Pachtbestimmungen missachtet werden;
-- c) die Jagdgesellschaft ihre Aufgaben, insbesondere die Abschussvorgaben, grob oder wiederholt nicht erfüllt.
+- c) die Jagdgesellschaft ihre Aufgaben, insbesondere die Abschussvorgaben, grob oder wiederholt nicht erfüllt;
+- d) die Jagdgesellschaft bei der Ausübung der jagdlichen Tätigkeit ihren Pflichten gegenüber privaten oder öffentlichen Grundbesitzerinnen und Grundbesitzern oder Bewirtschafterinnen und Bewirtschaftern nicht nachkommt.
 
-<sup>3</sup> Aus der Auflösung der Pacht oder dem Ausschluss entsteht kein Anspruch auf Entschädigung.
+<sup>3</sup> Aus der Auflösung der Pacht entsteht kein Anspruch auf Entschädigung.
 
 ## III. Jagdgesellschaft und Hegegemeinschaft
 
@@ -263,9 +275,11 @@ als Gesetz:[^ingress-3]
 
 **Rechtsform und Haftung**
 
-<sup>1</sup> Die Jagdgesellschaft tritt im öffentlich-rechtlichen Verhältnis in Form einer Personenverbindung ohne Rechtspersönlichkeit auf.
+<sup>1</sup> Die Jagdgesellschaft tritt im öffentlich-rechtlichen Verhältnis in Form eines Vereins nach Art. 60 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^20-1] auf.
 
-<sup>2</sup> Für Verpflichtungen der Jagdgesellschaft haften die Pächterinnen und Pächter solidarisch.
+<sup>2</sup> Für Verpflichtungen der Jagdgesellschaft haftet das Vereinsvermögen.
+
+[^20-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
 
 ### 2. Hegegemeinschaft
 
@@ -956,5 +970,13 @@ als Gesetz:[^ingress-3]
 **Übergangsbestimmungen des IV. Nachtrags vom 15. Juni 2021**
 
 <sup>1</sup> Der bei Vollzugsbeginn dieses Erlasses bestehende Zaun, der nach Art. 41<sup>quinquies</sup> Abs. 2 und Art. 41<sup>septies</sup> dieses Erlasses verboten ist, muss innerhalb von vier Jahren ab Vollzugsbeginn dieses Erlasses abgeräumt werden.
+
+#### Art. 78
+
+**Übergangsbestimmungen des V. Nachtrags vom 15. November 2022**
+
+<sup>1</sup> Auf die bis 31. März 2024 laufenden Pachtverhältnisse werden die Bestimmungen von Abschnitt II sowie Art. 20 dieses Erlasses in der Fassung vor der Änderung durch diesen Nachtrag angewendet.
+
+<sup>2</sup> Auf die Vergabe der von 1. April 2024 bis 31. März 2032 laufenden Pachten wird bei Anwendung von Art. 11 Abs. 1<sup>bis</sup> dieses Erlasses anstelle der Jagdgesellschaft, die das Revier in der ablaufenden Pachtperiode gepachtet hat, die Jagdgesellschaft berücksichtigt, in der mehr bisherige Pächterinnen und Pächter des Reviers Mitglied sind. Massgebend ist der letzte Tag der laufenden Bewerbungsfrist.
 
 nGS 31–50
