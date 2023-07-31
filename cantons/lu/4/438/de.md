@@ -3,20 +3,20 @@ canton: LU
 number: "438"
 title: "Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern"
 language: de
-version: 2020-08-01
-valid_until: 2023-07-31
-version_adopted: 2020-03-10
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-06-13
 adopted: 2004-12-14
 in_force: 2004-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/438"
-pdf: "https://srl.lu.ch/api/de/versions/3611/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4110/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern
 
-vom 14.12.2004 (Stand 01.08.2020)
+vom 14.12.2004 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -127,7 +127,7 @@ beschliesst:
 
 **Verhaltensbeurteilungen**
 
-<sup>1</sup> Das Arbeitsverhalten und das Verhalten in der Gemeinschaft werden mit folgenden ganzen Noten beurteilt:
+<sup>1</sup> An den Schulstandorten Baldegg und Sursee werden das Arbeitsverhalten und das Verhalten in der Gemeinschaft mit folgenden ganzen Noten beurteilt:
 
 <table>
 <tr><th>Note</th><th>Bedeutung</th></tr>
@@ -135,6 +135,8 @@ beschliesst:
 <tr><td>II</td><td>mangelhaft</td></tr>
 <tr><td>III</td><td>ungenügend</td></tr>
 </table>
+
+<sup>2</sup> Am Schulstandort Luzern werden das Arbeitsverhalten und das Verhalten in der Gemeinschaft je mit den Prädikaten «übertroffen», «erreicht», «teilweise erreicht» und «nicht erreicht» beurteilt. Im Arbeitsverhalten werden die Kompetenzen «eigenverantwortlich arbeiten», «eigene Fähigkeiten einschätzen» und «Methoden und Arbeitswerkzeuge effektiv einsetzen» beurteilt. Im Verhalten in der Gemeinschaft werden die Kompetenzen «aktiv mit anderen zusammenarbeiten», «konstruktiv mit Kritik umgehen» und «respektvoll mit anderen umgehen» beurteilt.
 
 ## 3 Organe
 
@@ -217,8 +219,9 @@ beschliesst:
 
 <sup>1</sup> Voraussetzungen für die Aufnahme in eine Fachmittelschule sind neben dem Abschluss der obligatorischen Schulzeit im laufenden Schuljahr
 
-- a. das Erfüllen der Richtwerte für den Übertritt in ein Kurzzeitgymnasium im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule,
-- a<sup>bis</sup>. das Erzielen mindestens je der Note 4,5 in den Fächern Deutsch, Französisch, Englisch und Mathematik im ersten Semester der 3. Klasse eines Langzeitgymnasiums oder der 1. Klasse eines Kurzeitgymnasiums oder
+- a. im getrennt geführten Sekundarschulmodell das Erzielen von mindestens drei Zeugnisnoten von mindestens 4,5 und maximal einer Zeugnisnote von mindestens 4 in allen Niveaufächern im Niveau A und im Fach Natur und Technik die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B, und zwar im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
+- a<sup>bis</sup>. im kooperativen und im integriert geführten Sekundarschulmodell das Erzielen einer Zeugnisnote von mindestens 4,5 in mindestens drei Niveaufächern des Niveaus A, einer Zeugnisnote von mindestens 4,5 in einem Niveaufach im Niveau B und im Fach Natur und Technik die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B, und zwar im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr
+- a<sup>ter</sup>. das Erzielen mindestens je der Zeugnisnote 4,5 in den Fächern Deutsch, Französisch, Englisch und Mathematik im ersten Semester der 3. Klasse eines Langzeitgymnasiums oder der 1. Klasse eine Kurzzeitgymnasiums oder
 - b. …
 - c. das Bestehen einer Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik.
 
