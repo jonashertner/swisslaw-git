@@ -4,13 +4,13 @@ number: 439.15-1
 title: "Convention entre Berne, Jura et Neuchâtel sur les contributions aux frais d'enseignement"
 short: Convention BEJUNE
 language: fr
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-10-13
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-07-04
 adopted: 2015-07-01
 in_force: 2015-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.15-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2852/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2869/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2852/pdf_file"
 
 (Convention BEJUNE)
 
-du 01.07.2015 (état au 01.08.2022)
+du 01.07.2015 (état au 01.08.2023)
 
 Le Conseil-exécutif du Canton de Berne, Le Gouvernement de la République et Canton du Jura, Le Conseil d'Etat de la République et canton de Neuchâtel,
 
@@ -291,6 +291,26 @@ Elle est également disponible sur Internet à l’adresse suivante:
 #### Art. A1-7
 
 <sup>1</sup> La modification des 29 août / 20 septembre / 13 octobre 2022 de l’annexe à la Convention BEJUNE est uniquement publiée sous la forme d’un renvoi.⁠
+
+Elle peut être obtenue à l’adresse suivante:
+
+Direction de l’instruction publique et de la culture du canton de Berne
+
+Office des écoles moyennes et de la formation professionnelle
+
+Kasernenstrasse 27
+
+Case postale
+
+3000 Berne 22
+
+Elle est également disponible sur Internet à l’adresse suivante:
+
+[http://www.bkd.be.ch](http://www.bkd.be.ch) &gt; Services numériques & prestations &gt; Financement de la fréquentation d’une école extracantonale &gt; Fréquentation d’un gymnase extracantonal ou d’une école de culture générale extracantonale &gt; Convention BEJUNE
+
+#### Art. A1-8
+
+<sup>1</sup> La modification des 12 mai / 12 juin / 4 juillet 2023 de l’annexe à la Convention BEJUNE est uniquement publiée sous la forme d’un renvoi.⁠
 
 Elle peut être obtenue à l’adresse suivante:
 
