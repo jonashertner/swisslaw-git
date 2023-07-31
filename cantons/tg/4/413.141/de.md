@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "413.141"
-title: Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen
+title: Verordnung über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen
 short: RSV BM
 language: de
-version: 2022-01-01
-valid_until: 2023-07-31
-version_adopted: 2021-11-30
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-09
 adopted: 2004-03-02
 in_force: 2004-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.141"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2124/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2688/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen
+# Verordnung über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen
 
 RSV BM
 
 (RSV BM)
 
-vom 02.03.2004 (Stand 01.01.2022)
+vom 02.03.2004 (Stand 01.08.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -366,17 +366,17 @@ vom 02.03.2004 (Stand 01.01.2022)
 
 <sup>1</sup> Das Departement kann einer Lehrperson auf Gesuch hin unter folgenden Voraussetzungen ein einmalig besoldetes Bildungssemester gewähren:
 
-- 1\. sie muss mindestens zehn Jahre mit einem durchschnittlichen Pensum von wenigstens 50 % als Hauptlehrperson an einer kantonalen Schule unterrichtet haben, davon die letzten fünf Jahre ohne Unterbruch und unmittelbar vor dem Bildungssemester; nach einer Tätigkeit in einer thurgauischen Schulleitung kann von den letzten beiden Voraussetzungen abgesehen werden
+- 1\. sie muss mindestens zehn Jahre mit einem durchschnittlichen Pensum von wenigstens 50 % im thurgauischen Schuldienst unterrichtet haben, davon die letzten fünf Jahre als Hauptlehrperson an einer kantonalen Schule ohne Unterbruch und unmittelbar vor dem Bildungssemester; nach einer Tätigkeit in einer thurgauischen Schulleitung kann von den letzten beiden Voraussetzungen abgesehen werden
 - 2\. sie muss den Nachweis erbringen, dass sie sich schon bisher ausreichend in der unterrichtsfreien Zeit fortgebildet hat
 - 3\. sie muss sich schriftlich verpflichten, nach Abschluss des Bildungssemesters noch mindestens drei Schuljahre an einer kantonalen Schule zu unterrichten
 - 4\. die Stellvertretung muss sichergestellt sein
 - 5\. das Bildungssemester muss die Lehrperson in ihren beruflichen Fähigkeiten fördern
 
-<sup>2</sup> Das Bildungssemester darf längstens ein Schulsemester dauern und ist in der Regel bis zum vollendeten 55. Altersjahr anzutreten. Er ist in der Regel zusammenhängend zu beziehen. In begründeten Fällen kann eine Aufteilung bewilligt werden.
+<sup>2</sup> Das Bildungssemester darf längstens ein Schulsemester dauern und ist in der Regel bis zum vollendeten 55. Altersjahr anzutreten. Es ist in der Regel zusammenhängend zu beziehen. In begründeten Fällen kann eine Aufteilung bewilligt werden.
 
 <sup>3</sup> § 46 Abs. 3 und Abs. 4 gelten sinngemäss.
 
-<sup>4</sup> Das Departement erlässt ergänzende Richtlinien zum Bildungssemester, namentlich über die Mindestanforderungen an das Bildungsprogramm, die Kostentragung unter den Schulen, die Pensengrenze und Besoldungsberechnung bei Teilübertritten an die Pädagogische Hochschule Thurgau und das Verfahren.
+<sup>4</sup> Das Departement erlässt ergänzende Richtlinien zum Bildungssemester, namentlich über die Anrechnung von weiteren Tätigkeiten im Bildungsbereich, die Mindestanforderungen an das Bildungsprogramm, die Kostentragung unter den Schulen, die Pensengrenze und Besoldungsberechnung bei Teilübertritten an die Pädagogische Hochschule Thurgau und das Verfahren.
 
 #### § 32
 
@@ -490,7 +490,7 @@ vom 02.03.2004 (Stand 01.01.2022)
 
 **Mitwirkung**
 
-<sup>1</sup> Unter Vorbehalt abweichender Regelungen in anderen Erlassen gibt der Kanton vor Erlass, materieller Änderung oder Aufhebung von personalrechtlichen Bestimmungen sowie in grundlegenden Personal-, Führungs- und Organisationsfragen, die sich auf grosse Teile der Lehrerschaft oder ihre Gesamtheit auswirken, den Rektorenkonferenzen sowie dem Verband Bildung Thurgau Gelegenheit zur Vernehmlassung.
+<sup>1</sup> Unter Vorbehalt abweichender Regelungen in anderen Erlassen gibt der Kanton vor Erlass, materieller Änderung oder Aufhebung von personalrechtlichen Bestimmungen sowie in grundlegenden Personal-, Führungs- und Organisationsfragen, die sich auf grosse Teile der Lehrerschaft oder ihre Gesamtheit auswirken, den Konferenzen der Rektoren und Rektorinnen sowie dem Verband Bildung Thurgau Gelegenheit zur Vernehmlassung.
 
 <sup>2</sup> Die genannten Partner können in ihrem Bereich Anträge auf Erlass und Vollzug personalrechtlicher Bestimmungen stellen.
 
