@@ -4,13 +4,13 @@ number: "502"
 title: Verordnung zum Gesetz über die Gymnasialbildung
 short: GymBV
 language: de
-version: 2021-08-01
-valid_until: 2023-07-31
-version_adopted: 2021-05-18
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-04-04
 adopted: 2001-06-19
 in_force: 2001-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/502"
-pdf: "https://srl.lu.ch/api/de/versions/3780/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4112/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3780/pdf_file"
 
 (GymBV)
 
-vom 19.06.2001 (Stand 01.08.2021)
+vom 19.06.2001 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -300,10 +300,10 @@ beschliesst:
 
 <sup>1</sup> Für die Aufnahme in den Vorkurs müssen folgende Voraussetzungen erfüllt sein:
 
-- a. Vollendung des zwanzigsten Altersjahres spätestens am 31. Dezember vor dem Eintritt,
+- a. Vollendung des achtzehnten Altersjahres spätestens am 31. Dezember vor dem Eintritt,
 - b. abgeschlossene Berufslehre oder mindestens dreijährige Berufstätigkeit beziehungsweise Arbeit im Haushalt.
 
-<sup>2</sup> Die Altersgrenze kann in Ausnahmefällen um höchstens ein Jahr herabgesetzt werden.
+<sup>2</sup> …
 
 <sup>3</sup> Über die Aufnahme führt die Schulleitung mit den Interessentinnen und Interessenten bei Bedarf ein Gespräch.
 
@@ -671,17 +671,32 @@ beschliesst:
 
 **Angebote zur Begabungsförderung**
 
-<sup>1</sup> Im Rahmen der Begabungsförderung sind folgende drei Angebotsformen möglich:
+<sup>1</sup> Im Rahmen der Begabungsförderung sind folgende Angebotsformen möglich:
 
 - a. die Förderung im Rahmen des Unterrichts in den Regelklassen,
 - b. die Förderung durch Anreicherung der Unterrichtsangebote,
-- c. die Förderung durch Beschleunigung.
+- c. die Förderung durch Beschleunigung,
+- d. Talentklassen des Kurzzeitgymnasiums gemäss § 54a.
 
 <sup>2</sup> Die Förderung im Rahmen des Unterrichts in Regelklassen bedeutet insbesondere eine Differenzierung im Unterricht.
 
 <sup>3</sup> Zur Förderung durch Anreicherung der Unterrichtsangebote gehört unter anderem der Besuch von speziell organisierten Fächer- oder Projektangeboten, die den Interessen und Fähigkeiten der Lernenden Rechnung tragen.
 
 <sup>4</sup> Die Förderung durch Beschleunigung kann den frühzeitigen Eintritt in das Gymnasium, das Überspringen einer Klasse oder den Unterricht in einer höheren Klasse in einem oder in mehreren Fächern bedeuten.
+
+#### § 54a
+
+**Talentklassen**
+
+<sup>1</sup> Talentklassen ermöglichen begabten Lernenden die bessere Vereinbarkeit der schulischen Ausbildung mit der ausserschulischen Förderung ihrer besonderen Fähigkeiten durch Anpassung der schulischen Rahmenbedingungen des Kurzzeitgymnasiums.
+
+<sup>2</sup> Der Regierungsrat kann für Talentklassen Abweichungen von der Wochenstundentafel oder vom Lehrplan der Regelklassen beschliessen.
+
+<sup>3</sup> In eine Talentklasse kann aufgenommen werden, wer über eine ausgewiesene Begabung, insbesondere im sportlichen oder musischen Bereich, verfügt. Über die Aufnahme entscheidet die Schulleitung anhand eines Aufnahmeverfahrens. Sie erlässt dazu Richtlinien.
+
+<sup>4</sup> Wer am Ende eines Schuljahres die Voraussetzungen für die Aufnahme in die Talentklasse gemäss Absatz 3 nicht mehr erfüllt, wird vom Förderangebot ausgeschlossen. Die Schulleitung kann Ausnahmen bewilligen.
+
+<sup>5</sup> Muss ein Schuljahr wiederholt werden, ist ein Verbleib in der Talentklasse in der Regel nicht möglich. Über Ausnahmen entscheidet die Schulleitung.
 
 ### 10.2 Förderung von Lernenden mit schulischen Defiziten
 
