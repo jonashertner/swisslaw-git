@@ -4,13 +4,12 @@ number: "414.11"
 title: Einführungsgesetz zum Bundesgesetz über die Berufsbildung
 short: EG zum BBG
 language: de
-version: 2016-01-01
-valid_until: 2023-07-31
-version_adopted: 2015-05-11
+version: 2023-08-01
+version_adopted: 2023-03-27
 adopted: 2007-09-24
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/414.11"
-pdf: "https://ar.clex.ch/api/de/versions/994/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1496/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/994/pdf_file"
 
 (EG zum BBG)
 
-vom 24.09.2007 (Stand 01.01.2016)
+vom 24.09.2007 (Stand 01.08.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -110,9 +109,7 @@ beschliesst:
 
 #### Art. 7
 
-**Berufsbildungskommission**
-
-<sup>1</sup> Der Regierungsrat wählt eine Berufsbildungskommission, welche das Departement Bildung und Kultur in Fragen der Berufsbildung, der Berufs- und Laufbahnberatung sowie in der Weiterbildung berät und unterstützt. Er regelt die Zusammensetzung und die Aufgaben sowie die weiteren Einzelheiten.
+**…**
 
 #### Art. 8
 
