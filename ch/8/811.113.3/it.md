@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Ordinanza del 26 novembre 2008 concernente gli esami federali per le professioni mediche (Ordinanza sugli esami LPMed)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: it
-version: 2023-01-01
+version: 2023-08-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230801-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/it"
 
 (Ordinanza sugli esami LPMed)
 
-del 26 novembre 2008 (Stato 1° gennaio 2023)
+del 26 novembre 2008 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -65,19 +65,19 @@ Il contenuto dell’esame federale si fonda sugli obiettivi formativi generali e
 - b. farmacia: Catalogo svizzero degli obiettivi di apprendimento del 23 novembre 2016[^3-3];
 - c.[^3-4] odontoiatria: Catalogo svizzero degli obiettivi di apprendimento del 18 settembre 2017[^3-5];
 - d.[^3-6] chiropratica: Catalogo svizzero degli obiettivi di apprendimento (PROFILES) del 25 settembre 2017[^3-7];
-- e.[^3-8] veterinaria: Catalogo svizzero degli obiettivi di apprendimento del 10 ottobre 2017[^3-9].
+- e.[^3-8] veterinaria: Catalogo svizzero degli obiettivi di apprendimento (VET-PROFILES) del 26 novembre 2020[^3-9].
 
 <sup>2</sup> Il Dipartimento federale dell’interno (DFI) stabilisce, dopo aver consultato la Commissione delle professioni mediche (MEBEKO), sezione «Formazione», i principi e i dettagli delle diverse forme di esame.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
-[^3-2]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Humanmedizin (solo in ted. e franc.)
-[^3-3]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie (solo in ted. e franc.)
+[^3-2]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Humanmedizin (solo in ted. e franc.)
+[^3-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie (solo in ted. e franc.)
 [^3-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-5]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin
+[^3-5]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin
 [^3-6]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-7]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik
-[^3-8]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-9]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin
+[^3-7]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik
+[^3-8]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^3-9]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin
 
 #### Art. 4
 
@@ -473,15 +473,16 @@ La banca dati contiene inoltre:
 <tr><td>b. esame federale di odontoiatria:</td><td>1000 franchi</td></tr>
 <tr><td>c. esame federale di chiropratica:</td><td>1300 franchi</td></tr>
 <tr><td>d. esame federale di farmacia:</td><td>1300 franchi</td></tr>
-<tr><td>e. esame federale di medicina veterinaria:</td><td>1000 franchi. [^27-1]</td></tr>
+<tr><td>e.[^27-1] esame federale di medicina veterinaria:</td><td>1300 franchi. [^27-2]</td></tr>
 </table>
 
 <sup>3</sup> Se il candidato deve superare o ripetere unicamente parti dell’esame federale, le tasse vengono calcolate proporzionalmente.
 
-<sup>4</sup> Gli emolumenti per il rilascio dei diplomi sono indicati nell’allegato 5 dell’ordinanza del 27 giugno 2007[^27-2] sui diplomi, la formazione, il perfezionamento e l’esercizio della professione nelle professioni mediche universitarie.
+<sup>4</sup> Gli emolumenti per il rilascio dei diplomi sono indicati nell’allegato 5 dell’ordinanza del 27 giugno 2007[^27-3] sui diplomi, la formazione, il perfezionamento e l’esercizio della professione nelle professioni mediche universitarie.
 
-[^27-1]: Nuovo testo giusa il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
-[^27-2]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^27-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^27-2]: Nuovo testo giusa il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+[^27-3]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
 
 #### Art. 28
 
@@ -583,20 +584,22 @@ Nel caso in cui il contenuto degli esami che i candidati devono superare conform
 
 #### Art. 36a
 
-**Disposizioni transitorie della modifica del 17 novembre 2010**[^36a-1]
+**Disposizioni transitorie della modifica del 2 giugno 2023**[^36a-1]
 
-<sup>1</sup> Per le prime due sessioni dell’esame federale secondo la LPMed dopo l’entrata in vigore della modifica del 17 novembre 2010 sono previste le seguenti tasse d’esame:
+<sup>1</sup> Le persone che si sono iscritte per la prima volta all’esame federale di medicina veterinaria prima dell’entrata in vigore della modifica del 2 giugno 2023 possono sostenere l’esame federale in conformità al catalogo svizzero degli obiettivi di apprendimento del 10 ottobre 2017[^36a-2] nonché in base alle disposizioni e direttive della MEBEKO, sezione «Formazione», del 9 febbraio 2023[^36a-3].
 
-<table>
-<tr><td>a. esame federale di medicina umana:</td><td>1000 franchi</td></tr>
-<tr><td>b. esame federale di odontoiatria:</td><td>850 franchi</td></tr>
-<tr><td>c. esame federale di farmacia:</td><td>850 franchi</td></tr>
-<tr><td>d. esame federale di medicina veterinaria:</td><td>850 franchi</td></tr>
-</table>
+<sup>2</sup>
 
-<sup>2</sup> A partire dalla terza sessione dell’esame federale secondo la LPMed dopo l'entrata in vigore della modifica del 17 novembre 2010 sono dovute integralmente le tasse di cui all’articolo 27 capoverso 2.
+Per le persone che sostengono l’esame federale in conformità al catalogo svizzero degli obiettivi di apprendimento del 10 ottobre 2017 nonché in base alle disposizioni e direttive della MEBEKO, sezione «Formazione», del 9 febbraio 2023, si applica quando segue:
 
-[^36a-1]: Introdotto dal n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+- a. in deroga all’articolo 11 capoverso 2, l’esame si svolge in una data separata;
+- b. in deroga all’articolo 27 capoverso 2 lettera e, la tassa d’esame ammonta a 1000 franchi.
+
+<sup>3</sup> I capoversi 1 e 2 si applicano allo svolgimento dell’esame federale di medicina veterinaria fino al 2025. Dopo tale data, la MEBEKO, sezione «Formazione», decide, su proposta della commissione d’esame di medicina veterinaria, se imputare interamente o in parte le prove parziali superate secondo il diritto anteriore all’esame federale secondo il nuovo diritto.
+
+[^36a-1]: Introdotto dal n. I dell’O del 17 nov. 2010 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^36a-2]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
+[^36a-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
 
 #### Art. 37
 

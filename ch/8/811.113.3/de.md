@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Verordnung vom 26. November 2008 über die eidgenössischen Prüfungen der universitären Medizinalberufe (Prüfungsverordnung MedBG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: de
-version: 2023-01-01
+version: 2023-08-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230801-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/de"
 
 (Prüfungsverordnung MedBG)
 
-vom 26. November 2008 (Stand am 1. Januar 2023)
+vom 26. November 2008 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -65,19 +65,19 @@ Grundlage für den Inhalt der eidgenössischen Prüfung sind die allgemeinen und
 - b. Pharmazie: Lernzielkatalog vom 23. November 2016[^3-3];
 - c.[^3-4] Zahnmedizin: Lernzielkatalog vom 18. September 2017[^3-5];
 - d.[^3-6] Chiropraktik: Lernzielkatalog (PROFILES) vom 25. September 2017[^3-7];
-- e.[^3-8] Veterinärmedizin: Lernzielkatalog vom 10. Oktober 2017[^3-9].
+- e.[^3-8] Veterinärmedizin: Lernzielkatalog (VET-PROFILES) vom 26. November 2020[^3-9].
 
 <sup>2</sup> Das Eidgenössische Departement des Innern (EDI) legt nach Anhörung der Medizinalberufekommission (MEBEKO), Ressort Ausbildung, die Grundsätze und Einzelheiten der verschiedenen Prüfungsformen fest.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
-[^3-2]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Humanmedizin
-[^3-3]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie
+[^3-2]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Humanmedizin
+[^3-3]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie
 [^3-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-5]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin
+[^3-5]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin
 [^3-6]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-7]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik
-[^3-8]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-9]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin
+[^3-7]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik
+[^3-8]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^3-9]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
 
 #### Art. 4
 
@@ -473,15 +473,16 @@ Die Datenbank enthält zusätzlich:
 <tr><td>b. für die eidgenössische Prüfung in Zahnmedizin:</td><td>1000 Franken</td></tr>
 <tr><td>c. für die eidgenössische Prüfung in Chiropraktik:</td><td>1300 Franken</td></tr>
 <tr><td>d. für die eidgenössische Prüfung in Pharmazie:</td><td>1300 Franken</td></tr>
-<tr><td>e. für die eidgenössische Prüfung in Veterinärmedizin:</td><td>1000 Franken.[^27-1]</td></tr>
+<tr><td>e.[^27-1] für die eidgenössische Prüfung in Veterinärmedizin:</td><td>1300 Franken.[^27-2]</td></tr>
 </table>
 
 <sup>3</sup> Sind nur Teile der eidgenössischen Prüfung zu absolvieren oder zu wiederholen, so werden die Gebühren anteilsmässig berechnet.
 
-<sup>4</sup> Die Gebühren für die Diplomerteilung finden sich in Anhang 5 der Verordnung vom 27. Juni 2007[^27-2] über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen.
+<sup>4</sup> Die Gebühren für die Diplomerteilung finden sich in Anhang 5 der Verordnung vom 27. Juni 2007[^27-3] über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen.
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
-[^27-2]: [SR 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^27-1]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+[^27-3]: [SR 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
 
 #### Art. 28
 
@@ -583,20 +584,22 @@ Falls unter bisherigem Recht zu bestehende Prüfungen sich mit den Prüfungen na
 
 #### Art. 36a
 
-**Übergangsbestimmungen zur Änderung vom 17. November 2010**[^36a-1]
+**Übergangsbestimmungen zur Änderung vom 2. Juni 2023**[^36a-1]
 
-<sup>1</sup> Für die ersten zwei Prüfungssessionen der eidgenössischen Prüfungen gemäss MedBG nach Inkrafttreten der Änderung vom 17. November 2010 dieser Verordnung sind folgende Prüfungsgebühren geschuldet:
+<sup>1</sup> Personen, die sich vor Inkrafttreten der Änderung vom 2. Juni 2023 zum ersten Mal zur eidgenössischen Prüfung in Veterinärmedizin angemeldet haben, können die eidgenössische Prüfung im Einklang mit dem Lernzielkatalog vom 10. Oktober 2017[^36a-2] sowie gestützt auf die Vorgaben und Richtlinien der MEBEKO, Ressort Ausbildung, vom 9. Februar 2023[^36a-3] absolvieren.
 
-<table>
-<tr><td>a. für die eidgenössische Prüfung in Humanmedizin:</td><td>1000 Franken</td></tr>
-<tr><td>b. für die eidgenössische Prüfung in Zahnmedizin:</td><td>850 Franken</td></tr>
-<tr><td>c. für die eidgenössische Prüfung in Pharmazie:</td><td>850 Franken</td></tr>
-<tr><td>d. für die eidgenössische Prüfung in Veterinärmedizin:</td><td>850 Franken</td></tr>
-</table>
+<sup>2</sup>
 
-<sup>2</sup> Ab der dritten Prüfungssession der eidgenössischen Prüfungen gemäss MedBG nach Inkrafttreten der Änderung vom 17. November 2010 dieser Verordnung sind die Gebühren gemäss Artikel 27 Absatz 2 in vollem Umfang geschuldet.
+Für Personen, welche die eidgenössische Prüfung im Einklang mit dem Lernzielkatalog vom 10. Oktober 2017 sowie gestützt auf die Vorgaben und Richtlinien der MEBEKO, Ressort Ausbildung, vom 9. Februar 2023 absolvieren, gilt Folgendes:
 
-[^36a-1]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+- a. Die Prüfung findet in Abweichung von Artikel 11 Absatz 2 an einem separaten Termin statt.
+- b. Die Prüfungsgebühr beträgt in Abweichung von Artikel 27 Absatz 2 Buchstabe e 1000 Franken.
+
+<sup>3</sup> Die Absätze 1 und 2 gelangen letztmals für die Durchführung der eidgenössischen Prüfung in Veterinärmedizin im Jahr 2025 zur Anwendung. Danach entscheidet die MEBEKO, Ressort Ausbildung, auf Vorschlag der Prüfungskommission Veterinärmedizin, ob nach bisherigem Recht bestandene Teilprüfungen ganz oder teilweise an die eidgenössische Prüfung nach neuem Recht angerechnet werden.
+
+[^36a-1]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010 ([AS 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281))
+[^36a-2]: www.bag.admin.ch &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
+[^36a-3]: www.bag.admin.ch &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
 
 #### Art. 37
 

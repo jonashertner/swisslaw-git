@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Ordonnance du 26 novembre 2008 concernant les examens fédéraux des professions médicales universitaires (Ordonnance concernant les examens LPMéd)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: fr
-version: 2023-01-01
+version: 2023-08-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230801-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/fr"
 
 (Ordonnance concernant les examens LPMéd)
 
-du 26 novembre 2008 (État le 1<sup>er</sup> janvier 2023)
+du 26 novembre 2008 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -65,19 +65,19 @@ Les objectifs de formation généraux et spécifiques à chaque profession fixé
 - b. pharmacie: catalogue des objectifs de formation du 23 novembre 2016[^3-3];
 - c.[^3-4] médecine dentaire: catalogue des objectifs de formation du 18 septembre 2017[^3-5];
 - d.[^3-6] chiropratique: catalogue des objectifs de formation (PROFILES) du 25 septembre 2017[^3-7];
-- e.[^3-8] médecine vétérinaire: catalogue des objectifs de formation du 10 octobre 2017[^3-9].
+- e.[^3-8] médecine vétérinaire: catalogue des objectifs de formation (VET-PROFILES) du 26 novembre 2020[^3-9].
 
 <sup>2</sup> Le Département fédéral de l’intérieur (DFI) définit, après avoir consulté la section «formation universitaire» de la Commission des professions médicales (MEBEKO), les principes et les modalités des différentes formes d’examen.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
-[^3-2]: www.bag.admin.ch &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine humaine
-[^3-3]: www.bag.admin.ch &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en pharmacie
+[^3-2]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine humaine
+[^3-3]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en pharmacie
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-5]: www.bag.admin.ch &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine dentaire
+[^3-5]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine dentaire
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-7]: www.bag.admin.ch &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en chiropratique
-[^3-8]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-9]: www.bag.admin.ch &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
+[^3-7]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en chiropratique
+[^3-8]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^3-9]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
 
 #### Art. 4
 
@@ -471,15 +471,16 @@ La banque de données contient en outre:
 <tr><td>b. examen fédéral de médecine dentaire:</td><td>1000 francs</td></tr>
 <tr><td>c. examen fédéral de chiropratique:</td><td>1300 francs</td></tr>
 <tr><td>d. examen fédéral de pharmacie:</td><td>1300 francs</td></tr>
-<tr><td>e. examen fédéral de médecine vétérinaire:</td><td>1000 francs.[^27-1]</td></tr>
+<tr><td>e.[^27-1] examen fédéral de médecine vétérinaire:</td><td>1300 francs.[^27-2]</td></tr>
 </table>
 
 <sup>3</sup> Si le candidat ne doit passer ou répéter que des parties de l’examen fédéral, les taxes sont calculées proportionnellement.
 
-<sup>4</sup> Les taxes liées à la délivrance du diplôme se trouvent à l’annexe 5 de l’ordonnance du 27 juin 2007 concernant les diplômes, la formation universitaire, la formation postgrade et l’exercice des professions médicales universitaires[^27-2].
+<sup>4</sup> Les taxes liées à la délivrance du diplôme se trouvent à l’annexe 5 de l’ordonnance du 27 juin 2007 concernant les diplômes, la formation universitaire, la formation postgrade et l’exercice des professions médicales universitaires[^27-3].
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
-[^27-2]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+[^27-3]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
 
 #### Art. 28
 
@@ -581,20 +582,22 @@ Si le contenu des examens que les candidats doivent passer conformément au droi
 
 #### Art. 36a
 
-**Dispositions transitoires relatives à la modification du 17 novembre 2010**[^36a-1]
+**Dispositions transitoires relatives à la modification du 2 juin 2023**[^36a-1]
 
-<sup>1</sup> Les taxes d’examen ci-après sont dues pour les deux premières sessions d’épreuves de l’examen fédéral au sens de la LPMéd après l’entrée en vigueur de la modification du 17 novembre 2010 de la présente ordonnance:
+<sup>1</sup> Les personnes s’étant inscrites pour la première fois à l’examen fédéral de médecine vétérinaire avant l’entrée en vigueur de la modification du 2 juin 2023 peuvent passer ledit examen conformément au catalogue des objectifs de formation du 10 octobre 2017[^36a-2] et aux exigences et directives du 9 février 2023 de la section «formation universitaire» de la MEBEKO[^36a-3].
 
-<table>
-<tr><td>a. examen fédéral de médecine humaine:</td><td>1000 francs</td></tr>
-<tr><td>b. examen fédéral de médecine dentaire:</td><td>850 francs</td></tr>
-<tr><td>c. examen fédéral de pharmacie:</td><td>850 francs</td></tr>
-<tr><td>d. examen fédéral de médecine vétérinaire:</td><td>850 francs</td></tr>
-</table>
+<sup>2</sup>
 
-<sup>2</sup> À partir de la troisième session de l’examen fédéral au sens de la LPMéd après l’entrée en vigueur de la modification du 17 novembre 2010 de la présente ordonnance, les taxes mentionnées à l’art. 27, al. 2, sont dues dans leur intégralité.
+Les règles suivantes s’appliquent aux personnes qui passent l’examen fédéral conformément au catalogue des objectifs de formation du 10 octobre 2017 et aux exigences et directives du 9 février 2023 de la section «formation universitaire» de la MEBEKO:
 
-[^36a-1]: Introduit par le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+- a. en dérogation à l’art. 11, al. 2, l’examen a lieu à une date distincte;
+- b. en dérogation à l’art. 27, al. 2, let. e, la taxe d’examen s’élève à 1000 francs.
+
+<sup>3</sup> Les al. 1 et 2 s’appliquent pour la dernière fois à l’organisation de l’examen fédéral de médecine vétérinaire de 2025. La section «formation universitaire» de la MEBEKO décide ensuite, sur proposition de la commission d’examen de médecine vétérinaire, si tout ou partie des épreuves partielles réussies qui ont été passées selon l’ancien droit sont imputées à l’examen fédéral organisé selon le nouveau droit.
+
+[^36a-1]: Introduit par le ch. I de l’O du 17 nov. 2010 ([RO 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^36a-2]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
+[^36a-3]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
 
 #### Art. 37
 
