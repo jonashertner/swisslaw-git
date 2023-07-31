@@ -4,13 +4,12 @@ number: "415.211"
 title: Fachhochschulgesetz
 short: FHG
 language: de
-version: 2011-01-01
-valid_until: 2023-07-31
-version_adopted: 2010-11-03
+version: 2023-08-01
+version_adopted: 2022-01-26
 adopted: 2007-10-31
 in_force: 2008-03-01
 url: "https://bgs.so.ch/app/de/texts_of_law/415.211"
-pdf: "https://bgs.so.ch/api/de/versions/3312/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5341/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/3312/pdf_file"
 
 (FHG)
 
-Vom 31.10.2007 (Stand 01.01.2011)
+Vom 31.10.2007 (Stand 01.08.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -172,14 +171,14 @@ beschliesst:
 
 **Betriebsbewilligung**
 
-<sup>1</sup> Soweit nicht der Bund zuständig ist, bedarf die Errichtung und Führung einer privaten Fachhochschule der Bewilligung des Regierungsrates.
+<sup>1</sup> Soweit nicht der Bund zuständig ist, bedarf die Errichtung und Führung einer privaten Fachhochschule der Bewilligung des Departements.
 
 <sup>2</sup> Die Bewilligung wird erteilt, wenn
 
 - a) die Schule die für ihren Zweck erforderlichen fachlichen, personellen, infrastrukturellen und finanziellen Anforderungen erfüllt;
 - b) die Vorgaben des Bundes und des Kantons eingehalten werden.
 
-<sup>3</sup> Der Regierungsrat entzieht auf Antrag des Departementes die Bewilligung, wenn die Voraussetzungen gemäss Absatz 2 nicht mehr erfüllt sind.
+<sup>3</sup> Das Departement entzieht die Bewilligung, wenn die Voraussetzungen gemäss Absatz 2 nicht mehr erfüllt sind.
 
 #### § 16
 
