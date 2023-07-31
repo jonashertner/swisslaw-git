@@ -4,13 +4,12 @@ number: "413.11"
 title: Verordnung über die Mittel- und Hochschulen
 short: MHV
 language: de
-version: 2015-01-01
-valid_until: 2023-07-31
-version_adopted: 2014-12-09
+version: 2023-08-01
+version_adopted: 2023-06-27
 adopted: 2014-12-09
 in_force: 2015-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/413.11"
-pdf: "https://ar.clex.ch/api/de/versions/993/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/993/pdf_file"
 
 (MHV)
 
-vom 09.12.2014 (Stand 01.01.2015)
+vom 09.12.2014 (Stand 01.08.2023)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -58,28 +57,9 @@ verordnet
 
 <sup>1</sup> Das zuständige Amt vollzieht die Gesetzgebung über die Mittel- und Hochschulen, soweit keine andere Zuständigkeit festgelegt ist. Es stellt insbesondere das Reporting und Controlling sicher, legt die Rahmenbedingungen für die Sicherung und Entwicklung der Schulqualität der kantonalen Mittelschule fest und erhebt den Bedarf an Leistungen und Angeboten.
 
-#### Art. 4
+#### Art. 4–5
 
-**Aufgaben und Zusammensetzung der Mittelschulkommission**
-
-<sup>1</sup> Es wird eine Mittelschulkommission eingesetzt. Diese steht unter dem Vorsitz der Vorsteherin oder des Vorstehers des zuständigen Departements und umfasst mindestens vier weitere Mitglieder. Die Wahl erfolgt durch den Regierungsrat. Er achtet auf eine ausgewogene Vertretung der Anspruchsgruppen.
-
-<sup>2</sup> Die Mittelschulkommission berät das zuständige Departement und das zuständige Amt in Fragen der Mittelschulen im Allgemeinen und der kantonalen Mittelschule im Besonderen. Ihr obliegen insbesondere:
-
-- a) Stellungnahme in strategischen Fragen, insbesondere zu den Angeboten, Massnahmen und Projekten im Mittelschulbereich;
-- b) Kenntnisnahme der Berichte der kantonalen Mittelschule sowie der privaten Bildungsinstitutionen, mit welchen eine Leistungsvereinbarung abgeschlossen wurde.
-
-<sup>3</sup> Die Mitglieder haben in Absprache mit der Schulleitung jederzeit das Recht, den Unterricht an der kantonalen Mittelschule zu besuchen.
-
-#### Art. 5
-
-**Sitzungen der Mittelschulkommission**
-
-<sup>1</sup> Je eine Vertretung des zuständigen Amtes, der Schulleitung der kantonalen Mittelschule und der Lehrenden nehmen an den Sitzungen mit beratender Stimme teil.
-
-<sup>2</sup> Sowohl die Mitglieder als auch die Vertretungen mit beratender Stimme können Anträge stellen.
-
-<sup>3</sup> Das zuständige Amt stellt die Geschäftsführung und die Protokollierung der Sitzungen sicher.
+**…**
 
 ## 3. Abschnitt: Private Bildungseinrichtungen
 
