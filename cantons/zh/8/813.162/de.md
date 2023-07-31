@@ -4,11 +4,11 @@ number: "813.162"
 title: Personalreglement des Kantonsspitals Winterthur (PR-KSW)
 short: PR-KSW
 language: de
-version: "2022-08-01"
-nachtrag: "118"
-valid_until: 2023-08-01
+version: "2023-08-01"
+nachtrag: "122"
+valid_until: 2025-01-01
 adopted: 2010-06-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_162-2010_06_14-2010_09_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_162-2010_06_14-2010_09_01-122.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ beschliesst:
 
 **1**
 
-1.10. 22 - 118 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+1.10. 23 - 122 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
 - f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal des Kantonsspitals Winterthur,
 
@@ -66,11 +66,13 @@ beschliesst:
 
 <sup>2</sup> Er ist zuständig zur Festlegung:
 
+a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung gemäss § 9 a,
+
 - b. der Entschädigung von Nacht- und Wochenendarbeit sowie von Pikett- und Präsenzdienst gemäss § 12,
 
 - c. des Prämienanteils des Personals an einer allfälligen Krankentaggeldversicherung gemäss § 14,
 
-- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind,
+- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind, e.<sup>16</sup>
 
 - f. von Sozialplänen gemäss § 27 PG<sup>4</sup>.
 
@@ -110,9 +112,9 @@ beschliesst:
 
 § 6.<sup>12</sup> <sup>1</sup> Das Arbeitsverhältnis wird in der Regel unbefristet mit der Möglichkeit der Kündigung begründet.
 
-<sup>2</sup> Befristete Arbeitsverhältnisse sind zulässig a. im Rahmen von § 13 Abs. 2 PG,
+<sup>2</sup> Befristete Arbeitsverhältnisse sind zulässig:
 
-- b. für Stellen, die der Aus-, Fort- und Weiterbildung sowie der Forschung dienen, wie namentlich Assistenzarzt- und Oberarztstellen,
+- a. im Rahmen von § 13 Abs. 2 PG, b.<sup>15</sup> für Stellen, die der Aus-, Fort- und Weiterbildung sowie der Forschung dienen, insbesondere Assistenzarzt- und Oberarztstellen,
 
 - c. bei Anstellungen, bei denen der Lohn durch Drittmittel finanziert wird,
 
@@ -126,13 +128,15 @@ beschliesst:
 
 <sup>6</sup> Wird ein befristetes Arbeitsverhältnis weitergeführt, gilt es als unbefristet.
 
-<sup>7</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
-
 **3**
 
-1.10. 22 - 118 § 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
+1.10. 23 - 122
+
+<sup>7</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
 
 **Sachlich zureichende Kündigungsgründe a. allgemein**
+
+§ 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
 
 - a. die Auflösung der Vereinbarung über eine Drittmittelfinanzierung und der Abbruch des finanzierten Projekts,
 
@@ -168,9 +172,15 @@ beschliesst:
 
 <sup>2</sup> Die Vergütung des ärztlichen Kaders richtet sich nach den Vorgaben gemäss § 14 KSWG<sup>6</sup>.
 
+#### § 9 a
+
 **b. Entwicklung**
 
-§ 9 a.<sup>11</sup> <sup>3</sup> Die Lohnentwicklung orientiert sich am Arbeitsmarkt im Gesundheitswesen und berücksichtigt die finanzielle Situation des Kantonsspitals Winterthur.
+<sup>1</sup> Der Spitalrat entscheidet auf Antrag der Spitaldirektion über die jährliche Lohnentwicklung und den Teuerungsausgleich.<sup>14</sup>
+
+<sup>2</sup> Er kann für einzelne Personalgruppen unterschiedliche Lohnentwicklungen vorsehen.<sup>14</sup>
+
+<sup>3</sup> Die Lohnentwicklung orientiert sich am Arbeitsmarkt im Gesundheitswesen und berücksichtigt die finanzielle Situation des Kantonsspitals Winterthur.<sup>11</sup>
 
 **c. variabler Vergütungsbestandteil**
 
@@ -194,19 +204,19 @@ beschliesst:
 
 <sup>5</sup> Der Spitalrat erlässt ein Vergütungsreglement.
 
-**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
+**5**
 
-§ 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
+1.10. 23 - 122 § 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
+
+**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
 
 <sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
 
 § 13.<sup>13</sup>
 
-**5**
-
-1.10. 22 - 118 § 14.<sup>12</sup> <sup>1</sup> Das Kantonsspital Winterthur kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
-
 **Versicherungen**
+
+§ 14.<sup>12</sup> <sup>1</sup> Das Kantonsspital Winterthur kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
 
 <sup>2</sup> Die Leistungen müssen für das Personal mindestens gleichwertig zur Regelung gemäss kantonalem Personalrecht und für das Kantonsspital Winterthur wirtschaftlich sein.
 
@@ -262,6 +272,10 @@ beschliesst:
 
 § 19 b.<sup>11</sup> Die Spitaldirektion erlässt Ausführungsbestimmungen über die Nebenbeschäftigungen und die Tätigkeit im Rahmen öffentlicher Ämter. Sie regelt dabei insbesondere das Verfahren, die Auflagen, die Abgeltungen und die Abgaben.
 
+**7**
+
+1.10. 23 - 122
+
 ### E. Erfindungen und urheberrechtlich geschützte Werke
 
 #### § 20
@@ -278,22 +292,22 @@ Das Kantonsspital Winterthur unterstützt die Entwicklung und Verwertung von Erf
 
 <sup>2</sup> Die Spitaldirektion kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen. Angestellte, denen die Auswertung einer Erfindung von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
 
-**7**
-
-1.10. 22 - 118 § 22. <sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen dem Kantonsspital Winterthur zu, soweit keine anders lautenden Vereinbarungen getroffen wurden.
+#### § 22
 
 **Urheberrechtlich geschützte Werke**
 
-<sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht[^21-1] gilt sinngemäss.
+<sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen dem Kantonsspital Winterthur zu, soweit keine anders lautenden Vereinbarungen getroffen wurden.
+
+<sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht[^22-1] gilt sinngemäss.
 
 **Weitere Arbeitsergebnisse**
 
-§ 22 a.[^21-2] <sup>1</sup> Vorbehältlich §§ 21 und 22 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Kantonsspitals Winterthur.
+§ 22 a.[^22-2] <sup>1</sup> Vorbehältlich §§ 21 und 22 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Kantonsspitals Winterthur.
 
 <sup>2</sup> Vorbehalten sind anderslautende vertragliche Vereinbarungen.
 
-[^21-1]: SR 220.
-[^21-2]: Eingefügt durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22).
+[^22-1]: SR 220.
+[^22-2]: Eingefügt durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22).
 
 ### F. Schluss- und Übergangsbestimmungen
 
@@ -312,7 +326,11 @@ Die Spitaldirektion passt Bewilligungen, Auflagen und andere im Zeitpunkt des In
 
 Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Genehmigung durch den Regierungsrat[^23-1] in Kraft[^23-2].
 
-### Anhang<sup>8</sup>
+[^24-1]: Eingefügt durch B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
+
+### Anhang
+
+[^24-1]
 
 ### Ergänzungen und Abweichungen zu kantonalen Bestimmungen
 
@@ -374,9 +392,11 @@ Pikett-/Hintergrunddienst Entschädigung
 - [4] LS 177.10.
 - [5] LS 177.111.
 - [6] LS 813.16.
-- [8] Eingefügt durch B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
 - [9] Fassung gemäss B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
 - [10] Heute: BVK Personalvorsorge des Kantons Zürich.
 - [12] Fassung gemäss B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22).
-- [13] Aufgehoben durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22). 1.10. 22 - 118 9
+- [13] Aufgehoben durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22).
+- [14] Eingefügt durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2023 (OS 78, 286).
+- [15] Fassung gemäss B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2023 (OS 78, 286).
+- [16] Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00005). 1.10. 23 - 122 9
 - [*] Die zusätzliche Anrechnung der Pikettdienstzeit als Arbeitszeit erfolgt auch bei einer vorgegebenen Interventionszeit von mehr als 30 Minuten.
