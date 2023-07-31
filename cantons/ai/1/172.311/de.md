@@ -4,13 +4,13 @@ number: "172.311"
 title: Standeskommissionsbeschluss zur Personalverordnung
 short: StKB PeV
 language: de
-version: 2023-01-01
-corrected: 2023-01-17
-version_adopted: 2023-01-03
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2023-04-11
 adopted: 1999-04-13
 in_force: 1999-04-13
 url: "https://ai.clex.ch/app/de/texts_of_law/172.311"
-pdf: "https://ai.clex.ch/api/de/versions/2198/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2217/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2198/pdf_file"
 
 (StKB PeV)
 
-vom 13.04.1999 (Stand 01.01.2023)
+vom 13.04.1999 (Stand 01.08.2023)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -43,7 +43,7 @@ beschliesst:
 
 <sup>1</sup> Die Departementsvorsteher stellen in ihrem Bereich Mitarbeitende bis zur Funktionsstufe 5 sowie Aushilfskräfte und Praktikanten an.
 
-<sup>2</sup> Der Landesfähnrich stellt die Kursleitenden von Integrationskursen an, der Vorsteher des Erziehungsdepartements die für das Departement tätigen pädagogischen oder therapeutischen Fachpersonen ohne festes Pensum.
+<sup>2</sup> Der Landesfähnrich stellt die Lehrpersonen der Fachstelle Integration an, der Vorsteher des Erziehungsdepartements die für das Departement tätigen pädagogischen oder therapeutischen Fachpersonen ohne festes Pensum.
 
 <sup>3</sup> Für die Festlegung der Löhne ist die Stellungnahme des Personalamts einzuholen. Bei Differenzen zwischen Departementsvorsteher und Personalamt entscheidet die Standeskommission.
 
@@ -998,6 +998,40 @@ beschliesst:
 #### Art. 68a
 
 #### Art. 69
+
+## IXa. Besondere Regelungen für Lehrpersonen Integration
+
+#### Art. 69a
+
+**Anstellung**
+
+<sup>1</sup> Die Bestimmungen dieses Standeskommissionsbeschlusses über Ferien, Arbeitszeit, Überstunden und Zeitguthaben sind auf Lehrpersonen der Fachstelle Integration nicht anwendbar, ausgenommen die Bestimmungen über die Arbeitsverhinderung.
+
+<sup>2</sup> Lehrpersonen der Fachstelle Integration werden befristet für ein Semester angestellt. Ein Semester dauert vom 1. Februar bis zum 31. Juli oder vom 1. August bis zum 31. Januar.
+
+<sup>3</sup> Die Unterrichtswochen und die Lektionenzahl werden für jede Anstellung neu vereinbart.
+
+#### Art. 69b
+
+**Lohnhöhe**
+
+<sup>1</sup> Die Lehrpersonen erhalten Lohn nach Massgabe der Lektionenzahl, die sie unterrichten. 30 Wochenlektionen entsprechen einem vollen Pensum.
+
+<sup>2</sup> Der Wochenlohn entspricht dem Jahresgehalt einschliesslich 13. Monatsgehalt geteilt durch 47; hat die Lehrperson das 50. Altersjahr vor Beginn des Semesters vollendet, wird durch 46 geteilt.
+
+<sup>3</sup> Der Lektionenlohn entspricht dem Wochenlohn geteilt durch 30.
+
+#### Art. 69c
+
+**Abgegoltene Leistungen und Ansprüche**
+
+<sup>1</sup> Mit dem Lohn für eine Lektion sind abgegolten:
+
+- a) die Unterrichtszeit von 45 Minuten;
+- b) die unterrichtsfreie Arbeitszeit, umfassend die Planung, Vor- und Nachbereitung und Auswertung des Unterrichts, administrative und organisatorische Arbeiten, Teamarbeit und Weiterbildung gemäss dem Stellenbeschrieb;
+- c) Feiertags- und Ferienentschädigungen.
+
+<sup>2</sup> Fällt eine Lektion aus Gründen, die in der Person der Lehrperson liegen, ohne ihr Verschulden aus, oder hatte die Lehrperson Mutterschafts-, Vaterschafts- oder Betreuungsurlaub, wird ihr der Lohn für eine nachgeholte Lektion zusätzlich bezahlt.
 
 ## X. Schlussbestimmungen
 
