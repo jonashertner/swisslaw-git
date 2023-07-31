@@ -4,13 +4,13 @@ number: "414.133"
 title: Promotionsordnung für das Kurzzeitgymnasium der Kantonsschule Menzingen
 short: PO KZG KSM
 language: de
-version: 2020-08-01
-valid_until: 2023-07-31
-version_adopted: 2019-10-23
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-05-22
 adopted: 2015-03-26
 in_force: 2015-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.133"
-pdf: "https://bgs.zg.ch/api/de/versions/2118/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2461/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2118/pdf_file"
 
 (PO KZG KSM)
 
-Vom 26. März 2015 (Stand 1. August 2020)
+Vom 26. März 2015 (Stand 1. August 2023)
 
 Die Schulkommission der kantonalen Mittelschulen des Kantons Zug,
 
@@ -41,7 +41,7 @@ beschliesst:
 
 **Information**
 
-<sup>1</sup> Die Schule informiert die Schülerinnen und Schüler über den Leistungsstand gemäss Zeugnis, Zwischenbericht und Lernbericht.
+<sup>1</sup> Die Schule informiert die Schülerinnen und Schüler über den Leistungsstand gemäss Zeugnis, Zwischenzeugnis und gegebenenfalls Zwischenbericht.
 
 <sup>2</sup> Die Schule regelt die Information der Erziehungsberechtigten minderjähriger Schülerinnen und Schüler.
 
@@ -53,12 +53,12 @@ beschliesst:
 
 **Beurteilungszeitpunkt**
 
-<sup>1</sup> Die promotionswirksame Beurteilung der Schülerinnen und Schüler mittels Zeugnisses erfolgt jeweils am Ende des Schuljahrs.
+<sup>1</sup> Die promotionswirksame Beurteilung der Schülerinnen und Schüler erfolgt jeweils am Ende des Schuljahrs.
 
 - a) …
 - b) …
 
-<sup>2</sup> Das erste Semester der ersten Klasse wird mit einem nicht promotionswirksamen Orientierungszeugnis abgeschlossen.
+<sup>2</sup> …
 
 #### § 4
 
@@ -69,11 +69,11 @@ beschliesst:
 - a) den Promotionsentscheid;
 - b) Angaben über die Leistungen in den einzelnen Fächern;
 - c) die Bestätigung über den Besuch des Unterrichts in weiteren Fächern;
-- d) den Vermerk über unentschuldigte Absenzen im abgelaufenen Semester respektive Schuljahr;
+- d) den Vermerk über unentschuldigte Absenzen im abgelaufenen Schuljahr;
 - e) den Vermerk über einen Ein- oder Austritt während des Schuljahrs;
 - f) Beschlüsse und allfällige Bemerkungen der Promotionskonferenz.
 
-<sup>1a</sup> Im Orientierungszeugnis des ersten Semesters der ersten Klasse wird auf den Vermerk Promotionsentscheid gemäss Abs. 1 Bst. a verzichtet.
+<sup>1a</sup> …
 
 <sup>2</sup> Auf Bemerkungen zur Persönlichkeit oder zur Arbeitshaltung ist im Zeugnis zu verzichten.
 
@@ -86,31 +86,31 @@ beschliesst:
 - e) 2 = schwach
 - f) 1 = sehr schwach
 
-### 2.2. Zwischenbericht und Lernbericht
+### 2.2. Zwischenzeugnis und Zwischenbericht
 
 #### § 5
 
 **Grundsatz**
 
-<sup>1</sup> Die Beurteilung der Schülerinnen und Schüler mittels Zwischenbericht beziehungsweise Lernbericht ist nicht promotionswirksam.
+<sup>1</sup> Die Beurteilung der Schülerinnen und Schüler mittels Zwischenzeugnis und Zwischenbericht ist nicht promotionswirksam.
 
 #### § 6
 
 **Zwischenbericht**
 
-<sup>1</sup> In der Klassenstufe mit Semesterpromotion wird Mitte des Semesters der Leistungsstand der Schülerinnen und Schüler erhoben.
+<sup>1</sup> In der Mitte des Semesters kann der Leistungsstand der Schülerinnen und Schüler erhoben werden.
 
-<sup>2</sup> Die Schulleitung legt zu Beginn des Schuljahrs die Termine der Zwischenberichte fest.
+<sup>2</sup> Die Schulleitung legt die Termine der Zwischenberichte fest.
 
 #### § 7
 
-**Lernbericht**
+**Zwischenzeugnis**
 
-<sup>1</sup> In den Klassenstufen mit Jahrespromotion nimmt die Lernberichtskonferenz die Beurteilung der Schülerinnen und Schüler sowie der Klasse vor.
+<sup>1</sup> Die Klassenkonferenz nimmt die Beurteilung der Schülerinnen und Schüler sowie der Klasse vor.
 
-<sup>2</sup> Über die Zusammensetzung und Organisation der Lernberichtskonferenz entscheidet die Schulleitung.
+<sup>2</sup> Über die Zusammensetzung und Organisation der Klassenkonferenz entscheidet die Schulleitung.
 
-<sup>3</sup> Die Beurteilung aller Schülerinnen und Schüler mittels Lernbericht erfolgt am Ende des 1. Semesters.
+<sup>3</sup> Die Beurteilung aller Schülerinnen und Schüler mittels Zwischenzeugnis erfolgt am Ende des 1. Semesters jedes Schuljahrs.
 
 ## 3. Promotion
 
@@ -190,32 +190,28 @@ beschliesst:
 
 **Wegweisung von der Schule**
 
-<sup>1</sup> Die Schülerinnen und Schüler der 1. Klasse werden von der Schule weggewiesen, wenn sie am Ende des 2. Semesters die Promotionsbedingungen nicht erfüllen.
+<sup>1</sup> Die Schülerinnen und Schüler der 1. Klasse werden von der Schule weggewiesen, wenn sie am Ende des Schuljahrs die Promotionsbedingungen nicht erfüllen.
 
 <sup>2</sup> Die Schülerinnen und Schüler werden von der Schule weggewiesen, wenn sie zum zweiten Mal zurückversetzt werden müssten. Dies gilt auch bei freiwilliger Repetition.
 
 <sup>3</sup> Muss eine Schülerin oder ein Schüler die Schule verlassen oder entscheidet sie oder er sich, die Schule zu verlassen, kann das zuständige Schulleitungsmitglied ein Hospitium gewähren. Das Hospitium dauert maximal ein Semester.
 
-## 4. Übergangs- und Schlussbestimmungen
+## 4.
 
 #### § 15
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Die Promotionsordnung gilt erstmals für Schülerinnen und Schüler, die im Schuljahr 2015/16 die 1. und 2. Klasse des Kurzzeitgymnasiums besuchen. Für die 3. und 4. Klasse des Kurzzeitgymnasiums gilt weiterhin die Promotionsordnung für die Kantonsschule Menzingen vom 26. Juni 2002[^15-1].
+<sup>1</sup> …
 
-<sup>2</sup> Wechselt eine Schülerin oder ein Schüler aufgrund einer Repetition oder eines Austauschjahres in eine Klasse, für die bereits diese Promotionsordnung gilt, so werden die neuen Bestimmungen angewendet. Ergeben sich daraus im Einzelfall Unklarheiten, so sind diese von der zuständigen Rektorin oder dem zuständigen Rektor zusammen mit der Leiterin oder dem Leiter des Amts für Mittelschulen und Pädagogische Hochschule zu lösen.
+<sup>2</sup> …
 
-<sup>3</sup> Negative Promotionsentscheide, Rückversetzungen und freiwillige Repetitionen bleiben nach dem Inkrafttreten der vorliegenden Promotionsordnung oder nach einem Wechsel zur vorliegenden Promotionsordnung bestehen.
-
-[^15-1]: BGS [414.131](https://bgs.zg.ch/data/414.131/de)
+<sup>3</sup> …
 
 #### § 16
 
 **Schlussbestimmung**
 
-<sup>1</sup> Die Promotionsordnung für die Kantonsschule Menzingen vom 26. Juni 2002[^16-1] wird per 1. August 2017 aufgehoben.
-
-[^16-1]: BGS [414.131](https://bgs.zg.ch/data/414.131/de)
+<sup>1</sup> …
 
 GS 2015/027
