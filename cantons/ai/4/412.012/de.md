@@ -3,21 +3,19 @@ canton: AI
 number: "412.012"
 title: Landesschulkommissionsbeschluss zur Gymnasialverordnung
 language: de
-version: 2017-02-01
-corrected: 2018-09-04
-version_adopted: 2017-01-18
+version: 2023-08-01
+version_adopted: 2023-06-15
 adopted: 2006-11-29
 in_force: 2007-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/412.012"
-pdf: "https://ai.clex.ch/api/de/versions/424/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2230/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Landesschulkommissionsbeschluss zur Gymnasialverordnung
 
-vom 29. November 20061
+vom 29.11.2006 (Stand 01.08.2023)
 
 Die Landesschulkommission des Kantons Appenzell I. Rh.,
 
@@ -25,15 +23,16 @@ in Ausführung von Art. 16 Abs. 2, Art. 18, Art. 19 Abs. 2, Art. 24 Abs. 2, Art.
 
 beschliesst:
 
-### I. Fortbildung der Lehrer
+## I. Fortbildung der Lehrer
 
 #### Art. 1
 
 <sup>1</sup> Die Lehrpersonen des Gymnasiums St. Antonius, Appenzell sind zur fachlichen und didaktisch-methodischen Fortbildung berechtigt und verpflichtet.
 
-<sup>2</sup> Als Fortbildung gilt - die persönliche Fortbildung durch Lektüre und dgl.
+<sup>2</sup> Als Fortbildung gilt
 
-- der Besuch von Kursen, Vorträgen, Seminarien und dgl.
+- a) die persönliche Fortbildung durch Lektüre und dgl.
+- b) der Besuch von Kursen, Vorträgen, Seminarien und dgl.
 
 <sup>3</sup> Die Fortbildung wird in gemeinsamen Schulveranstaltungen und individuell durchgeführt.
 
@@ -59,13 +58,14 @@ beschliesst:
 
 #### Art. 4
 
-Die Schule übernimmt auf ihre Rechnung a) das Kursgeld;
+<sup>1</sup> Die Schule übernimmt auf ihre Rechnung
 
+- a) das Kursgeld;
 - b) Reiseentschädigung sowie Kost und Logis gemäss den kantonalen Ansätzen für Lehrpersonen.
 
-### II. Bildungssemester der Lehrpersonen
+## II. Bildungssemester der Lehrpersonen
 
-#### Art. 51
+#### Art. 5
 
 <sup>1</sup> Das Bildungssemester ist eine befristete und besoldete Freistellung von Lehrpersonen mit längerer Unterrichtspraxis. Es bezweckt die intensive Förderung der persönlichen Fähigkeiten, welche im Zusammenhang mit dem Berufsauftrag stehen, sowie die an die Bedürfnisse der Schule ausgerichtete Fortbildung.
 
@@ -73,7 +73,7 @@ Die Schule übernimmt auf ihre Rechnung a) das Kursgeld;
 
 <sup>3</sup> Das Bildungssemester dauert höchstens sechs Monate und ist in der Regel zusammenhängend zu beziehen.
 
-#### Art. 62
+#### Art. 6
 
 <sup>1</sup> Die Gewährung des Bildungssemesters setzt eine Lehrtätigkeit im Umfange von mindestens 50% eines Vollpensums während einer Dauer von zehn Jahren, davon mindestens fünf Jahre im Kanton, voraus.
 
@@ -82,58 +82,50 @@ Die Schule übernimmt auf ihre Rechnung a) das Kursgeld;
 <sup>3</sup> Ein Jahr vor Antreten des Bildungssemesters ist von der Landesschulkommission der Grundsatzentscheid über einen beantragten Urlaub zu fällen; spätestens ein halbes Jahr vor Antritt des Bildungssemesters muss der Landesschulkommission das konkrete Programm vorliegen. Es hat zu enthalten:
 
 - a) die Stellvertretungsregelung;
-
 - b) das Programm;
-
 - c) die schriftliche Stellungnahme der Schulleitung.
 
 <sup>4</sup> Am Gymnasium kann üblicherweise pro Schulhalbjahr nur eine Lehrperson ein Bildungssemester beziehen; bei mehreren Bewerbungen entscheidet in der Regel das Dienstalter über die Reihenfolge.
 
 <sup>5</sup> Bereits bezogene Bildungssemester werden angerechnet.
 
-#### Art. 71
+#### Art. 7
 
 <sup>1</sup> Der Lohnanspruch für die Dauer des Bildungssemesters errechnet sich aus dem durchschnittlichen Pensum der letzten fünf Jahre.
 
 <sup>2</sup> Es können höchstens pro-rata-temporis ausbezahlt werden:
 
 - a) Lohn für ein Vollpensum;
-
 - b) Kinderzulagen.
 
 <sup>3</sup> Über die Ausrichtung von Entschädigungen an Kurskosten und Spesen entscheidet die Landesschulkommission.
 
 <sup>4</sup> Das Bildungssemester darf nicht zu zusätzlichen Nebeneinkünften führen.
 
-#### Art. 82
+#### Art. 8
 
 <sup>1</sup> Wer vor Ablauf von drei Jahren nach dem Bezug eines besoldeten Bildungssemesters die Stelle kündigt, hat die entstandenen Kosten anteilsmässig zurückzuerstatten, nämlich:
 
-im 1. Jahr 100%;
-
-im 2. Jahr 60%;
-
-im 3. Jahr 30% der eigenen Nettolohnkosten während der Freistellung für das Bildungssemester.
+- a) im 1. Jahr 100%;
+- b) im 2. Jahr 60%;
+- c) im 3. Jahr 30%
 
 <sup>2</sup> Bei Nichterfüllung des Programms müssen diese Kosten anteilmässig gemäss Entscheid der Landesschulkommission zurückerstattet werden.
 
-#### Art. 93
+#### Art. 9
 
-Am Ende des Bildungssemesters ist der Schulleitung ein schriftlicher Schlussbericht einzureichen und der Landesschulkommission zu präsentieren. Er muss mindestens folgende Angaben enthalten:
+<sup>1</sup> Am Ende des Bildungssemesters ist der Schulleitung ein schriftlicher Schlussbericht einzureichen und der Landesschulkommission zu präsentieren. Er muss mindestens folgende Angaben enthalten:
 
 - a) Bestätigung für das durchgeführte Detailprogramm;
-
 - b) Aussage über das Erreichen der Ziele des Bildungssemesters;
-
 - c) zu erwartende Auswirkungen auf die eigene Schulpraxis;
-
 - d) allfällige Lehren und Konsequenzen für Bildungssemester weiterer Lehrpersonen.
 
-### III. Aufnahme in das Gymnasium
+## III. Aufnahme in das Gymnasium
 
-### A. Aufnahme in die erste Gymnasialklasse
+### III.A. Aufnahme in die erste Gymnasialklasse
 
-#### Art. 101
+#### Art. 10
 
 <sup>1</sup> Schüler mit erfüllter Primarschulpflicht oder abgeschlossenem ersten Sekundarschuljahr können die Schulbildung auf der Sekundarstufe I am Gymnasium fortführen.
 
@@ -145,7 +137,7 @@ Am Ende des Bildungssemesters ist der Schulleitung ein schriftlicher Schlussberi
 
 #### Art. 11
 
-Die Schulleitung schlägt der Landesschulkommission ein Mitglied in die Aufnahmekommission vor.
+<sup>1</sup> Die Schulleitung schlägt der Landesschulkommission ein Mitglied in die Aufnahmekommission vor.
 
 #### Art. 12
 
@@ -155,7 +147,7 @@ Die Schulleitung schlägt der Landesschulkommission ein Mitglied in die Aufnahme
 
 <sup>3</sup> Es steht den Inhabern der elterlichen Sorge frei, das Kind zum Zeitpunkt der Herbstferien an die Sekundarschule zu versetzen.
 
-### B. Aufnahme in die 3. Gymnasialklasse
+### III.B. Aufnahme in die 3. Gymnasialklasse
 
 #### Art. 13
 
@@ -165,13 +157,13 @@ Die Schulleitung schlägt der Landesschulkommission ein Mitglied in die Aufnahme
 
 <sup>3</sup> Für übrige Schüler gelten Art. 18 und 19 dieses Beschlusses.
 
-#### Art. 141
+#### Art. 14
 
-Der Anmeldung sind die Zeugnisse der letzten drei Schulsemester und eine schriftliche Stellungnahme der Klassenlehrperson beizulegen.
+<sup>1</sup> Der Anmeldung sind die Zeugnisse der letzten drei Schulsemester und eine schriftliche Stellungnahme der Klassenlehrperson beizulegen.
 
 #### Art. 15
 
-Die Anmeldung hat bis anfangs Februar an die Schulleitung zu erfolgen.
+<sup>1</sup> Die Anmeldung hat bis anfangs Februar an die Schulleitung zu erfolgen.
 
 #### Art. 16
 
@@ -181,7 +173,7 @@ Die Anmeldung hat bis anfangs Februar an die Schulleitung zu erfolgen.
 
 <sup>3</sup> Die Schulleitung legt die erforderlichen Bedingungen fest.
 
-#### Art. 172
+#### Art. 17
 
 <sup>1</sup> Die Aufnahmekommission Appenzell entscheidet über die Aufnahme von Schülern aus dem Kanton Appenzell I.Rh., welche sich nach Art. 13 Abs. 1 zur Aufnahme in die 3. Gymnasialklasse angemeldet haben.
 
@@ -189,13 +181,13 @@ Die Anmeldung hat bis anfangs Februar an die Schulleitung zu erfolgen.
 
 <sup>3</sup> Die Aufnahme in die 3. Gymnasialklasse erfolgt in der Regel für ein Jahr. Bei mangelndem Schulerfolg kann die Promotionskonferenz den Eltern empfehlen, den Schüler eine Klasse tiefer einzustufen oder zum Zeitpunkt der Herbstferien an die Sekundarschule zu versetzen.
 
-### C. Übrige Eintritte
+### III.C. Übrige Eintritte
 
 #### Art. 18
 
-Schüler, welche von einem Gymnasium mit eidg. anerkannter Maturität ans Gymnasium Appenzell übertreten, werden der abgebenden Schule entsprechend definitiv bzw. provisorisch eingestuft.
+<sup>1</sup> Schüler, welche von einem Gymnasium mit eidg. anerkannter Maturität ans Gymnasium Appenzell übertreten, werden der abgebenden Schule entsprechend definitiv bzw. provisorisch eingestuft.
 
-#### Art. 191
+#### Art. 19
 
 <sup>1</sup> Schüler aus anderen Schulen haben sich einem Eignungstest in den Fächern Deutsch, Latein (für den Übertritt in die 2. Gymnasialklasse), Französisch, Englisch, Mathematik und in einem Schwerpunkt- resp. Ergänzungsfach zu unterziehen.
 
@@ -207,27 +199,27 @@ Schüler, welche von einem Gymnasium mit eidg. anerkannter Maturität ans Gymnas
 
 <sup>5</sup> Die Schulleitung kann pro Schuljahr maximal vier Gastschüler, für welche kein Schulgeld erhoben wird, aufnehmen.
 
-### D. Rechtsmittel
+### III.D. Rechtsmittel
 
 #### Art. 20
 
-Gegen Aufnahmeentscheide kann innert zehn Tagen schriftlich Beschwerde bei der Landesschulkommission eingereicht werden.
+<sup>1</sup> Gegen Aufnahmeentscheide kann innert zehn Tagen schriftlich Beschwerde bei der Landesschulkommission eingereicht werden.
 
-### IV. Absenzen, Dispensationen und Urlaube
+## IV. Absenzen, Dispensationen und Urlaube
 
-#### Art. 212
+#### Art. 21
 
-Als Absenz gilt jede nicht besuchte Lektion oder Veranstaltung im Sinne von Art. 19 Abs. 1 GymV, d.h. alle obligatorischen Unterrichtslektionen der Pflicht-, Wahlpflicht- und Freifächer, alle Veranstaltungen im Rahmen von Projekttagen, Sonderwochen usw., sowie alle Schulanlässe.
+<sup>1</sup> Als Absenz gilt jede nicht besuchte Lektion oder Veranstaltung im Sinne von Art. 19 Abs. 1 GymV, d.h. alle obligatorischen Unterrichtslektionen der Pflicht-, Wahlpflicht- und Freifächer, alle Veranstaltungen im Rahmen von Projekttagen, Sonderwochen usw., sowie alle Schulanlässe.
 
-#### Art. 221
+#### Art. 22
 
-Als entschuldigte Absenzen gelten Krankheit und Unfall. Im Zweifelsfall kann ein ärztliches Zeugnis verlangt werden.
+<sup>1</sup> Als entschuldigte Absenzen gelten Krankheit und Unfall. Im Zweifelsfall kann ein ärztliches Zeugnis verlangt werden.
 
-#### Art. 232
+#### Art. 23
 
-Bleibt ein Schüler der Schule fern, hat er darüber sofort das Sekretariat zu informieren.
+<sup>1</sup> Bleibt ein Schüler der Schule fern, hat er darüber sofort das Sekretariat zu informieren.
 
-#### Art. 243
+#### Art. 24
 
 <sup>1</sup> Die Meldung der Absenz erfolgt auf dem offiziellen Absenzenformular. Jede Absenz ist darauf zu vermerken und bei Unmündigkeit von den Inhabern der elterlichen Sorge oder einer anderen zeichnungsberechtigten Person (gesetzlicher Vertreter, Präfekt) zu bestätigen.
 
@@ -235,19 +227,19 @@ Bleibt ein Schüler der Schule fern, hat er darüber sofort das Sekretariat zu i
 
 <sup>3</sup> Alle Absenzen werden im Zeugnis vermerkt, wobei die Zählung der Absenzen für die jeweilige Zeugnisperiode fortlaufend erfolgt.
 
-#### Art. 254
+#### Art. 25
 
 <sup>1</sup> Verspätungen werden von den jeweiligen Fachlehrpersonen geahndet.
 
 <sup>2</sup> Grössere bzw. wiederholte Verspätungen gelten als Absenz und werden entsprechend behandelt.
 
-#### Art. 265
+#### Art. 26
 
 <sup>1</sup> Unentschuldigte Absenzen werden von der Schulleitung gemäss Art. 6 in Verbindung mit Art. 21 GymV disziplinarisch geahndet.
 
 <sup>2</sup> Unentschuldigte Absenzen meldet die betroffene Fachlehrperson umgehend und mit Begründung der jeweiligen Klassenlehrperson und der Schulleitung.
 
-#### Art. 276
+#### Art. 27
 
 <sup>1</sup> Ist eine Abwesenheit vorherseh- bzw. planbar, kann die Schulleitung bei Vorliegen triftiger Gründe eine Schuldispens gewähren.
 
@@ -257,7 +249,7 @@ Bleibt ein Schüler der Schule fern, hat er darüber sofort das Sekretariat zu i
 
 <sup>4</sup> Für eine längerfristige gesundheitsbedingte Schuldispens ist ergänzend ein Arztzeugnis vorzulegen.
 
-#### Art. 281
+#### Art. 28
 
 <sup>1</sup> Die Klassenlehrperson kontrolliert die Absenzen und Dispensen.
 
@@ -267,27 +259,27 @@ Bleibt ein Schüler der Schule fern, hat er darüber sofort das Sekretariat zu i
 
 <sup>4</sup> Die Klassenlehrpersonen kontrollieren die Einträge jeweils am Ende eines Semesters.
 
-#### Art. 292
+#### Art. 29
 
 <sup>1</sup> Die Bestimmungen gemäss Titel über die Förderung sportlich oder musisch besonders begabter Schüler im Landesschulkommissionsbeschluss zum Schulgesetz gilt sinngemäss auch für die teilweise Freistellung vom Unterricht zu Gunsten sportlich oder musisch begabter Schüler des Gymnasiums.
 
 <sup>2</sup> Die Aufgaben des Schulrates werden durch die Schulleitung des Gymnasiums wahrgenommen.
 
-Art. 29a3
+#### Art. 29a
 
-### V. Festlegung der wöchentlichen Schultage
+## V. Festlegung der wöchentlichen Schultage
 
 #### Art. 30
 
-Am Gymnasium St. Antonius, Appenzell sind die Werktage, mit Ausnahme des Samstages, Schultage.
+<sup>1</sup> Am Gymnasium St. Antonius, Appenzell sind die Werktage, mit Ausnahme des Samstages, Schultage.
 
 #### Art. 31
 
-<sup>1</sup> Die Lektionen (37 - 38 Lektionen pro Woche) sind möglichst gleichmässig auf neun Schulhalbtage zu verteilen.
+<sup>1</sup> Die Lektionen (37–38 Lektionen pro Woche) sind möglichst gleichmässig auf neun Schulhalbtage zu verteilen.
 
 <sup>2</sup> Der Mittwochnachmittag ist in der Regel schulfrei zu halten.
 
-### VI. Promotionsordnung
+## VI. Promotionsordnung
 
 #### Art. 32
 
@@ -295,7 +287,12 @@ Am Gymnasium St. Antonius, Appenzell sind die Werktage, mit Ausnahme des Samstag
 
 <sup>2</sup> Die ganzen Noten haben folgende Bedeutung:
 
-6 sehr gut 5 gut 4 genügend 3 ungenügend 2 schlecht 1 sehr schlecht
+- a) 6 sehr gut
+- b) 5 gut
+- c) 4 genügend
+- d) 3 ungenügend
+- e) 2 schlecht
+- f) 1 sehr schlecht
 
 <sup>3</sup> Es können auch halbe Noten erteilt werden.
 
@@ -305,9 +302,9 @@ Am Gymnasium St. Antonius, Appenzell sind die Werktage, mit Ausnahme des Samstag
 
 <sup>2</sup> Die Lehrperson ist befugt, in begründeten Fällen aufgrund der Gesamtbeurteilung die aus den Einzelnoten des Semesters sich ergebende Gesamtnote über das übliche Mass hinaus auf- bzw. abzurunden, höchstens aber so, dass die Semesternote nicht mehr als einen halben Punkt von der Note mit üblicher Rundung abweicht.
 
-<sup>3</sup> Wird ein Schüler bei einer Prüfung oder einer anderen notenrelevanten Arbeit der Unehrlichkeit überführt, so ist die Fachlehrperson befugt, für diese Arbeit die Note 1 zu verrechnen oder dann im Semesterzeugnis eine Note zu setzen, die gegenüber dem Durchschnitt (ohne Verrechnung einer Note für die unehrliche Arbeit) bis zu einem Punkt tiefer liegt. - Allfällige Disziplinarmassnahmen bleiben vorbehalten.
+<sup>3</sup> Wird ein Schüler bei einer Prüfung oder einer anderen notenrelevanten Arbeit der Unehrlichkeit überführt, so setzt die Fachlehrperson die Note für die entsprechende Arbeit um bis zu zwei Notenpunkte tiefer als die tatsächlich erbrachte Leistung. Die Fachlehrperson setzt im Zeugnis einen Betragenseintrag und informiert unmittelbar die Klassenlehrperson. Die Klassenlehrperson informiert die Eltern und die Schulleitung. Allfällige Disziplinarmassnahmen bleiben vorbehalten.
 
-Art. 33a1
+#### Art. 33a
 
 <sup>1</sup> Den Inhabern der elterlichen Sorge steht das Recht zu, jederzeit bei der Fachlehrkraft Einsicht in die schriftlichen Prüfungen zu nehmen bzw. diese einzuverlangen.
 
@@ -329,32 +326,28 @@ Art. 33a1
 
 <sup>1</sup> Die Promotionsverfügungen sind:
 
-- ”definitiv promoviert”,
-
-- ”provisorisch promoviert”,
-
-- ”nicht promoviert”.
+- a) ”definitiv promoviert”,
+- b) ”provisorisch promoviert”,
+- c) ”nicht promoviert”.
 
 <sup>2</sup> Die Promotionsverfügungen werden im Zeugnis vermerkt.
 
-#### Art. 361
+#### Art. 36
 
-<sup>1</sup> Die Promotion hängt ab von den Noten in den Fächern Deutsch, Französisch, Englisch, Mathematik, Biologie, Chemie, Physik, Geschichte, Geografie, Bildnerisches Gestalten, Musik, Informatik, Sport (1. bis 4. Klasse), Religionswissenschaften/Religionsphilosophie, im Schwerpunkt- und im Ergänzungsfach sowie in Latein (1. und 2. Klasse) respektive in Wirtschaft und Recht (3. und 4. Klasse).
+<sup>1</sup> Die Promotion hängt ab von den Noten in den Fächern Deutsch, Französisch, Englisch, Mathematik, Biologie, Chemie, Physik, Geschichte, Geografie, Bildnerisches Gestalten, Musik, Informatik, Sport (1. bis 4. Klasse), Religionswissenschaften/Re-ligionsphilosophie, im Schwerpunkt- und im Ergänzungsfach sowie in Latein (1. und 2. Klasse) respektive in Wirtschaft und Recht (3. und 4. Klasse).
 
 <sup>2</sup> Falls Mathematik in verschiedenen Fächern (Arithmetik, Algebra, Geometrie) unterrichtet wird, so wird im Zeugnis für jedes Unterrichtsfach eine separate Note gesetzt.
 
 <sup>3</sup> Das Fach Sport zählt in den 1. bis 4. Klassen zur ordentlichen Promotion, jedoch ohne die Doppelkompensation allfälliger Negativnoten unter 4.00. In der 5. und 6. Klasse erfährt das Grundlagenfach Sport keine promotionsrelevante Benotung; ausgenommen als ordentliches Ergänzungsfach.
 
-#### Art. 371
+#### Art. 37
 
 <sup>1</sup> Eine definitive Promotion gemäss Art. 36 erfolgt, wenn die doppelte Summe aller Notenabweichungen von 4.0 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4.0 nach oben, und wenn nicht mehr als vier Noten unter 4.0 vorliegen.
 
 <sup>2</sup> Wer die Anforderungen für eine definitive Promotion nicht erfüllt, ist provisorisch promoviert, ausser wenn einer der folgenden Fälle eintritt:
 
 - a) In drei aufeinander folgenden Zeugnissen darf nur eine provisorische Promotion vorkommen. Wer innerhalb von drei Semestern ein zweites Mal nicht definitiv promoviert werden kann, wird in der Regel nicht promoviert.
-
 - b) In das zweite Semester der Maturaklasse kann nur eintreten, wer definitiv promoviert ist. Wer die Bedingungen dafür nicht erfüllt, gilt als nicht promoviert.
-
 - c) Ebenso wird nicht promoviert, wer einen Notendurchschnitt, bei dem die ungenügenden Noten doppelt gezählt werden, unter 3.75 erreicht.
 
 <sup>3</sup> Wer nicht promoviert wird, muss die beiden letzten Semester wiederholen bzw. die Schule verlassen.
@@ -363,7 +356,7 @@ Art. 33a1
 
 #### Art. 38
 
-Der Promotionsstatus für Neueintretende richtet sich nach den Bestimmungen dieses Beschlusses über die Aufnahme in das Gymnasium.
+<sup>1</sup> Der Promotionsstatus für Neueintretende richtet sich nach den Bestimmungen dieses Beschlusses über die Aufnahme in das Gymnasium.
 
 #### Art. 39
 
@@ -387,15 +380,15 @@ Der Promotionsstatus für Neueintretende richtet sich nach den Bestimmungen dies
 
 <sup>4</sup> Liegen im nächsten oder übernächsten Zeugnis erneut drei oder mehr Beanstandungen vor, so ist anstelle eines erneuten Verweises die befristete Androhung der Wegweisung von der Schule im Sinne von Art. 6 i.V. Art. 21 GymV auszusprechen.
 
-#### Art. 421
+#### Art. 42
 
-Entscheide der Promotionskonferenz im Zusammenhang mit den Zeugnissen können innert zehn Tagen nach Erhalt bei der Landesschulkommission angefochten werden. Die Landesschulkommission entscheidet in der Sache neu.
+<sup>1</sup> Entscheide der Promotionskonferenz im Zusammenhang mit den Zeugnissen können innert zehn Tagen nach Erhalt bei der Landesschulkommission angefochten werden. Die Landesschulkommission entscheidet in der Sache neu.
 
-### VII. Maturitätsordnung
+## VII. Maturitätsordnung
 
-### A. Behörden
+### VII.A. Behörden
 
-#### Art. 432
+#### Art. 43
 
 <sup>1</sup> Die Landesschulkommission setzt eine kantonale Maturitätskommission ein.
 
@@ -409,7 +402,7 @@ Entscheide der Promotionskonferenz im Zusammenhang mit den Zeugnissen können in
 
 <sup>6</sup> Als Aufsichts- und Rekurskommission amtet die Landesschulkommission.
 
-#### Art. 441
+#### Art. 44
 
 <sup>1</sup> Die Maturitätskommission leitet die Prüfungen und setzt deren Ergebnisse fest.
 
@@ -417,7 +410,7 @@ Entscheide der Promotionskonferenz im Zusammenhang mit den Zeugnissen können in
 
 <sup>3</sup> Der Aktuar erstattet alljährlich Bericht über ihre Tätigkeit an die Landesschulkommission.
 
-#### Art.45
+#### Art. 45
 
 <sup>1</sup> Der schweizerischen Maturitätskommission sind Zeitpunkt und Prüfungsplan der Maturaprüfungen rechtzeitig mitzuteilen.
 
@@ -425,23 +418,21 @@ Entscheide der Promotionskonferenz im Zusammenhang mit den Zeugnissen können in
 
 #### Art. 46
 
-Zu den Maturitätsprüfungen haben freien Zutritt:
+<sup>1</sup> Zu den Maturitätsprüfungen haben freien Zutritt:
 
-- die Mitglieder der Landesschulkommission
+- a) die Mitglieder der Landesschulkommission
+- b) die Mitglieder der schweizerischen Maturitätskommission
+- c) die Lehrpersonen des Gymnasiums.
 
-- die Mitglieder der schweizerischen Maturitätskommission
+#### Art. 47
 
-- die Lehrpersonen des Gymnasiums.
+<sup>1</sup> Die Entschädigung der Mitglieder der Maturitätskommission richtet sich nach dem Standeskommissionsbeschluss über die Entschädigung von Behördenmitgliedern.
 
-#### Art. 472
-
-Die Entschädigung der Mitglieder der Maturitätskommission richtet sich nach dem Standeskommissionsbeschluss über die Entschädigung von Behördenmitgliedern.
-
-### B. Die Prüfungen
+### VII.B. Die Prüfungen
 
 #### Art. 48
 
-Die Maturitätsprüfung soll feststellen, ob der Kandidat/die Kandidatin durch Verarbeitung des gymnasialen Bildungsstoffes die Hochschulreife erlangt hat. Diese setzt den sicheren Besitz grundlegender Kenntnisse voraus, verlangt aber ebenso selbständiges Denken und Arbeiten sowie die Fähigkeit, sich richtig und treffend auszudrücken.
+<sup>1</sup> Die Maturitätsprüfung soll feststellen, ob der Kandidat/die Kandidatin durch Verarbeitung des gymnasialen Bildungsstoffes die Hochschulreife erlangt hat. Diese setzt den sicheren Besitz grundlegender Kenntnisse voraus, verlangt aber ebenso selbständiges Denken und Arbeiten sowie die Fähigkeit, sich richtig und treffend auszudrücken.
 
 #### Art. 49
 
@@ -449,7 +440,7 @@ Die Maturitätsprüfung soll feststellen, ob der Kandidat/die Kandidatin durch V
 
 <sup>2</sup> Bei der Prüfung ist im wesentlichen das Unterrichtsprogramm der letzten zwei Jahre zu berücksichtigen und ebensoviel Gewicht ist auf die geistige Reife und die Selbständigkeit im Denken zu legen wie auf den Umfang der erworbenen Kenntnisse.
 
-#### Art. 501
+#### Art. 50
 
 <sup>1</sup> Die Kandidaten haben im ersten Semester der 6. Klasse allein oder in einer Gruppe eine grössere, eigenständige, schriftliche oder schriftlich kommentierte Arbeit (Maturaarbeit) zu erstellen und mündlich zu präsentieren.
 
@@ -457,7 +448,7 @@ Die Maturitätsprüfung soll feststellen, ob der Kandidat/die Kandidatin durch V
 
 <sup>3</sup> Details werden von der Schulleitung geregelt.
 
-#### Art. 512
+#### Art. 51
 
 <sup>1</sup> Die Kandidaten haben ihr Gesuch um Zulassung zu den Prüfungen bis spätestens 30 Tage vor Beginn der schriftlichen Prüfung an die Schulleitung zu richten.
 
@@ -467,67 +458,51 @@ Die Maturitätsprüfung soll feststellen, ob der Kandidat/die Kandidatin durch V
 
 <sup>4</sup> Die Prüfungsgebühr wird durch das Departement festgesetzt.
 
-#### Art. 523
+<sup>5</sup> …
+
+#### Art. 52
 
 <sup>1</sup> Das Maturitätszeugnis ist über die Maturitätsfächer auszustellen.
 
 <sup>2</sup> Als solche gelten die Grundlagenfächer:
 
 - a) Deutsch
-
 - b) eine zweite Landessprache
-
 - c) eine dritte Sprache (eine dritte Landessprache, Englisch oder eine alte Sprache)
-
 - d) Mathematik
-
 - e) Biologie
-
 - f) Chemie
-
 - g) Physik
-
 - h) Geschichte
-
 - i) Geografie
-
 - j) Bildnerisches Gestalten oder Musik.
 
 <sup>3</sup> Als Schwerpunktfach können gewählt werden:
 
 - a) Latein
-
 - b) Physik und Anwendungen der Mathematik
-
 - c) Wirtschaft und Recht
-
 - d) Philosophie/Pädagogik/Psychologie.
 
 <sup>4</sup> Als Ergänzungsfächer können jene Fächer gewählt werden, welche gemäss Beschluss der Landesschulkommission an der Schule angeboten werden.
 
-#### Art. 531
+#### Art. 53
 
 <sup>1</sup> Schriftlich werden geprüft:
 
 - a) Deutsch
-
 - b) Französisch
-
 - c) Mathematik
-
 - d) Schwerpunktfach
-
 - e) ein nicht geprüftes, im letzten Schuljahr unterrichtetes, Grundlagenfach (gemäss Art. 14 lit e MAR).
 
 <sup>2</sup> Mündlich werden geprüft:
 
 - a) Deutsch
-
 - b) Französisch
-
 - c) Schwerpunktfach.
 
-#### Art. 542
+#### Art. 54
 
 <sup>1</sup> Für die schriftlichen Prüfungen stehen höchstens vier Stunden zu Verfügung.
 
@@ -555,31 +530,28 @@ Die Maturitätsprüfung soll feststellen, ob der Kandidat/die Kandidatin durch V
 
 <sup>3</sup> Nach der Prüfung setzen die anwesenden Experten und die Fachlehrperson die Benotung für die mündliche Prüfung fest. Die Fachlehrperson macht den Vorschlag. Bei Stimmengleichheit hat der Vorsitzende doppelte Stimme.
 
-#### Art. 571
+#### Art. 57
 
 <sup>1</sup> Nach Abschluss der Prüfungen setzt die Maturitätskommission die Ergebnisse fest.
 
 <sup>2</sup> Die Maturitätsnoten werden gesetzt:
 
-- a) in den Fächern, in denen eine Maturitätsprüfung stattfindet, je zur Hälfte aufgrund der Leistungen im letzten Ausbildungsjahr (Zeugnisnoten) und der Leistung an der Maturitätsprüfung;
-
-- b) in den übrigen Fächern aufgrund der Leistungen im letzten Ausbildungsjahr (Zeugnisnoten), in dem das Fach unterrichtet wurde;
-
+- a) in den Fächern, in denen eine Maturitätsprüfung stattfindet, je zur Hälfte aufgrund der Leistungen im letzten Ausbildungsjahr in Form einer Jahresnote in Zehnteln und der Leistung an der Maturitätsprüfung;
+- b) in den übrigen Fächern aufgrund der Leistungen im letzten Ausbildungsjahr, in dem das Fach unterrichtet wurde, in Form einer Jahresnote;
 - c) in der Maturaarbeit aufgrund des Arbeitsprozesses, der schriftlichen Arbeit und der mündlichen Präsentation.
 
-#### Art. 581
+#### Art. 58
 
-Die Leistungen in den Maturitätsfächern werden in ganzen und halben Noten ausgedrückt. 6.0 ist die höchste, 1.0 die tiefste Note. Noten unter 4.0 stehen für ungenügende Leistungen, Grenzwerte (.25 / .75) werden aufgerundet.
+<sup>1</sup> Die Leistungen in den Maturitätsfächern werden in ganzen und halben Noten ausgedrückt. 6.0 ist die höchste, 1.0 die tiefste Note. Noten unter 4.0 stehen für ungenügende Leistungen, Grenzwerte (.25 / .75) werden aufgerundet.
 
-#### Art. 592
+#### Art. 59
 
-Die Maturität ist bestanden, wenn in den Maturitätsfächern:
+<sup>1</sup> Die Maturität ist bestanden, wenn in den Maturitätsfächern:
 
 - a) die doppelte Summe aller Notenabweichungen von 4.0 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4.0 nach oben und
-
 - b) nicht mehr als vier Noten unter 4.0 erteilt werden.
 
-#### Art. 603
+#### Art. 60
 
 <sup>1</sup> Ein Kandidat, der nach Art. 59 dieses Beschlusses die Prüfung nicht bestanden hat, darf zu einer zweiten Prüfung erst zugelassen werden, wenn er den Unterricht des vollen letzten Jahres wiederholt hat.
 
@@ -587,33 +559,25 @@ Die Maturität ist bestanden, wenn in den Maturitätsfächern:
 
 <sup>3</sup> Für die Nachprüfung ist in jedem Fall die volle Prüfungsgebühr zu entrichten.
 
-#### Art. 614
+#### Art. 61
 
-Der Maturitätsausweis enthält:
+<sup>1</sup> Der Maturitätsausweis enthält:
 
 - a) die Aufschrift «Schweizerische Eidgenossenschaft» sowie als Untertitel: «Kanton Appenzell Innerrhoden»;
-
 - b) den Vermerk «Maturitätsausweis ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995»;
-
 - c) den Namen der Schule, die ihn ausstellt: "Gymnasium St. Antonius Appenzell“;
-
 - d) den Namen, Vornamen, Heimatort (für Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum des Inhabers;
-
 - e) die Angaben der Zeit, während derer der Inhaber als regelmässiger Schüler die Lehranstalt besucht hat, mit dem genauen Datum des Eintrittes und Austrittes;
-
 - f) die Maturitätsnoten der einzelnen Fächer nach Art. 52;
-
 - g) das Thema und die Note der Maturaarbeit;
-
 - h) die Unterschrift des kantonalen Erziehungsdirektors und des Rektors der Schule;
-
 - i) Schulcode des Schweizerischen Hochschulinformationssystems (SHIS).
 
-### VIII. Abgabe von Lehrmitteln
+## VIII. Abgabe von Lehrmitteln
 
 #### Art. 62
 
-Die Kosten für die persönlichen Materialien wie Schreibzeug, Taschenrechner usw. und allgemeines Verbrauchsmaterial sind in allen Klassen von den Schülern zu tragen.
+<sup>1</sup> Die Kosten für die persönlichen Materialien wie Schreibzeug, Taschenrechner usw. und allgemeines Verbrauchsmaterial sind in allen Klassen von den Schülern zu tragen.
 
 #### Art. 63
 
@@ -625,54 +589,26 @@ Die Kosten für die persönlichen Materialien wie Schreibzeug, Taschenrechner us
 
 #### Art. 64
 
-Das Gymnasium hat die Lehrmittel, welche diesen Bestimmungen unterliegen, bei der kantonalen Lehrmittelverwaltung zu beziehen.
+<sup>1</sup> Das Gymnasium hat die Lehrmittel, welche diesen Bestimmungen unterliegen, bei der kantonalen Lehrmittelverwaltung zu beziehen.
 
-### IX. Schlussbestimmung
+## IX. Schlussbestimmung
 
-Art. 64bis1
+#### Art. 64bis
 
-#### Art. 652
+**…**
+
+#### Art. 64ter
+
+<sup>1</sup> Die Änderung des Landesschulkommissionsbeschlusses vom 19. Dezember 2019 zur Revision des Landesschulkommissionsbeschlusses vom 29. November 2006 gilt für Schüler, die im Schuljahr 2020/21 oder später die vierte Gymnasialklasse besuchen.
+
+<sup>2</sup> Für die übrigen Schüler gilt das bisherige Recht.
+
+#### Art. 64quater
+
+<sup>1</sup> Auf Maturitätsnoten, die vor dem Inkrafttreten des Landeschulkommissionsbeschlusses vom 15. Juni 2023 zur Revision des Landesschulkommissionsbeschlusses zur Gymnasialverordnung vom 29. November 2006 gesetzt wurden, wird das neue Recht nicht angewendet.
+
+#### Art. 65
 
 <sup>1</sup> Dieser Beschluss tritt am 1. August 2007 in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 22. August 2007, 28. November 2007, 27. August 2008, 17. Dezember 2008, 18. März 2009, 28. Oktober 2009, 13. Januar 2010, 30. März 2010, 22. Juni 2011, 20. Juni 2012, 26. Februar 2014, 20. Januar 2016, 31. August 2016 und 18. Januar 2017.
-- [1] Abgeändert durch LdsKB vom 20. Januar 2016 (Inkrafttreten: 1. Februar 2016).
-- [2] Ergänzt (Abs. 5) durch LdsKB vom 26. Februar 2014 (Inkrafttreten: 1. August 2014). Abgeändert durch LdsKB vom 20. Januar 2016 (Inkrafttreten: 1. Februar 2016).
-- [1] Abgeändert (Abs. 1 und 4) durch LdsKB vom 20. Januar 2016 (Inkrafttreten: 1. Februar 2016).
-- [2] Abgeändert (Abs. 1) durch LdsKB vom 20. Januar 2016 (Inkrafttreten: 1. Februar 2016).
-- [3] Abgeändert durch LdsKB vom 20. Januar 2016 (Inkrafttreten: 1. Februar 2016).
-- [1] Abgeändert (Abs. 1) durch LdsKB vom 28. November 2007 und 13. Januar 2010 (Inkrafttreten: 1. August 2010). Abgeändert (Abs. 3) durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [1] Abgeändert durch LdsKB vom 17. Dezember 2008 (Inkrafttreten: 1. Januar 2009).
-- [2] Abgeändert durch LdsKB vom 28. November 2007. Abgeändert durch LdsKB vom 17. Dezember 2008 (Inkrafttreten: 1. Januar 2009).
-- [1] Eingefügt (Abs. 5) durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [2] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [1] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [2] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [3] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [4] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [5] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [6] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [1] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [2] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016). Abgeändert durch LdsKB vom 18. Januar 2017 (Inkrafttreten: 1. Februar 2017).
-- [3] Eingefügt durch LdsKB vom 22. Juni 2011. Aufgehoben durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [1] Eingefügt durch LdsKB vom 28. Oktober 2009 (Inkrafttreten: 1. Februar 2010). Neue Fassung durch LdsKB vom 30. März 2010. Abgeändert (Abs. 3 - 5) durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [1] Abgeändert durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008). Abgeändert (Abs. 1 ergänzt und Abs. 3 angefügt) durch LdsKB vom 18. März 2009 (Inkrafttreten: 1. August 2009).
-- [1] Abgeändert (Abs. 1) durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [1] Abgeändert durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [2] Abgeändert (Abs. 4) durch LdsKB vom 20. Juni 2012 (Inkrafttreten: 1. August 2013). Abgeändert (Abs. 2 und 4) durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [1] Abgeändert (Abs. 3) durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [2] Abgeändert durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [1] Abs. 2 aufgehoben, nachfolgende Absätze nachgerückt durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [2] Abs. 5 aufgehoben durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [3] Abs. 2 und 3 abgeändert, Abs. 5 und 6 aufgehoben durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [1] Abgeändert durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008) und LdsKB vom 26. Februar 2014 (Inkrafttreten: 1. August 2014).
-- [2] Abgeändert (Abs. 3) durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [1] Abgeändert (Abs. 2) durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [1] Abgeändert durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [2] Abgeändert durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [3] Abgeändert (Abs. 2) durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [4] Abgeändert (lit. f und g) durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008).
-- [1] Eingefügt durch LdsKB vom 27. August 2008 (Inkrafttreten: 1. August 2008). Aufgehoben durch LdsKB vom 31. August 2016 (Inkrafttreten: 1. August 2016).
-- [2] Abgeändert durch LdsKB vom 22. August 2007.
+cGS -
