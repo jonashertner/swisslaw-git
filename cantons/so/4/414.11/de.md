@@ -3,20 +3,19 @@ canton: SO
 number: "414.11"
 title: Mittelschulgesetz
 language: de
-version: 2015-01-01
-valid_until: 2023-07-31
-version_adopted: 2014-12-10
+version: 2023-08-01
+version_adopted: 2022-01-26
 adopted: 2005-06-29
 in_force: 2007-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.11"
-pdf: "https://bgs.so.ch/api/de/versions/4380/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Mittelschulgesetz
 
-Vom 29.06.2005 (Stand 01.01.2015)
+Vom 29.06.2005 (Stand 01.08.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -96,7 +95,7 @@ beschliesst:
 
 <sup>1</sup> Der Beginn des Schuljahres richtet sich nach den Vorschriften für die Volksschule.
 
-<sup>2</sup> Das Schuljahr umfasst 38 Unterrichtswochen. Das Departement legt den Zeitpunkt der Unterrichtswochen und der unterrichtsfreien Zeit fest.
+<sup>2</sup> Das Schuljahr umfasst 38 Unterrichtswochen bei 52 Kalenderwochen und 39 Unterrichtswochen bei 53 Kalenderwochen. Das Departement legt den Zeitpunkt der Unterrichtswochen und der unterrichtsfreien Zeit fest.
 
 #### § 8
 
@@ -305,7 +304,7 @@ beschliesst:
 
 **Private Mittelschulen**
 
-<sup>1</sup> Wer eine private Mittelschule betreibt, bedarf der Bewilligung des Regierungsrates.
+<sup>1</sup> Wer eine private Mittelschule betreibt, bedarf der Bewilligung des Departements.
 
 <sup>2</sup> Die Bewilligung ist zu erteilen, wenn
 
