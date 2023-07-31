@@ -3,11 +3,11 @@ sr: "363.1"
 title: Verordnung vom 3. Dezember 2004 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: de
-version: 2023-01-23
+version: 2023-08-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,15 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230123/de"
 
 (DNA-Profil-Verordnung)
 
-vom 3. Dezember 2004 (Stand am 23. Januar 2023)
+vom 3. Dezember 2004 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 22 des Bundesgesetzes vom 20. Juni 2003[^ingress-1] über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz),
+gestützt auf die Artikel 10 Absatz 3 und 22 des Bundesgesetzes vom 20. Juni 2003[^ingress-1] über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz) und auf Artikel 46*a* Absätze 1 und 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## 1. Abschnitt: Forensische DNA-Proben und ihre Analyse
 
@@ -51,8 +53,8 @@ Das EJPD[^2-2] kann Labors auf Gesuch hin anerkennen, wenn:
 
 - a. sie auf dem Gebiet der forensischen Genetik gemäss der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^2-3] durch die Schweizerische Akkreditierungsstelle (SAS) akkreditiert sind;
 - b. sie jederzeit die Leistungs- und Qualitätsanforderungen erfüllen;
-- c. sie innerhalb der letzten zwölf Monate erfolgreich an mindestens vier Eignungsprüfungen (Ringversuchen) teilgenommen haben; das EJPD legt die Voraussetzungen für die Anerkennung dieser Ringversuche fest;
-- d.[^2-4] der fachliche Leiter oder die fachliche Leiterin des Labors und dessen oder deren Stellvertretung den Abschluss als «Forensischer Genetiker/Forensische Genetikerin SGRM» der Schweizerischen Gesellschaft für Rechtsmedizin erworben hat oder eine gleichwertige Qualifikation nachweisen kann;
+- c.[^2-4] sie innerhalb der letzten zwölf Monate erfolgreich an mindestens vier Ringversuchen teilgenommen haben, bei denen DNA-Profile nach Artikel 1 Buchstabe a Ziffer 1 des DNA-Profil-Gesetzes erstellt wurden; das EJPD legt fest, aufgrund welcher Ringversuche einem Labor die Anerkennung erteilt wird;
+- d.[^2-5] der fachliche Leiter oder die fachliche Leiterin des Labors und dessen oder deren Stellvertretung den Abschluss als «Forensischer Genetiker/Forensische Genetikerin SGRM» der Schweizerischen Gesellschaft für Rechtsmedizin erworben hat oder eine gleichwertige Qualifikation nachweisen kann;
 - e. die mit der Geschäftsführung des Labors betrauten Personen einen guten Ruf geniessen und Gewähr für eine einwandfreie Geschäftstätigkeit bieten; und
 - f. die mit der Geschäftsführung des Labors betrauten Personen die Geschäftsleitung am Sitz des Labors tatsächlich und verantwortlich ausüben können.
 
@@ -61,7 +63,8 @@ Das EJPD[^2-2] kann Labors auf Gesuch hin anerkennen, wenn:
 [^2-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 [^2-2]: Ausdruck gemäss Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)). Diese Änd. wurde im ganzen Text berücksichtigt.
 [^2-3]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^2-4]: Fassung gemäss Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2018 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+[^2-4]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^2-5]: Fassung gemäss Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2018 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
 
 #### Art. 2a
 
@@ -70,9 +73,9 @@ Das EJPD[^2-2] kann Labors auf Gesuch hin anerkennen, wenn:
 Dem Gesuch um Anerkennung sind folgende Unterlagen beizulegen:
 
 - a. Akkreditierung nach Artikel 2 Absatz 2 Buchstabe a;
-- b. Bescheinigung der erfolgreichen Teilnahme an mindestens vier Eignungsprüfungen nach Artikel 2 Absatz 2 Buchstabe c;
+- b.[^2a-2] Bescheinigung der erfolgreichen Teilnahme an den Ringversuchen nach Artikel 2 Absatz 2 Buchstabe c;
 - c. Nachweis der Qualifikation nach Artikel 2 Absatz 2 Buchstabe d;
-- d.[^2a-2] Privatauszug aus dem Strafregister-Informationssystem VOSTRA sowie Auszug aus dem Schuldbetreibungs- und Konkursregister der mit der Geschäftsführung betrauten Personen;
+- d.[^2a-3] Privatauszug aus dem Strafregister-Informationssystem VOSTRA sowie Auszug aus dem Schuldbetreibungs- und Konkursregister der mit der Geschäftsführung betrauten Personen;
 - e. Liste aller Strafuntersuchungen sowie straf- und zivilrechtlichen Prozesse der letzten zehn Jahre der mit der Geschäftsführung betrauten Personen;
 - f. Auszug aus dem Handelsregister;
 - g. Geschäftsbericht oder Rechenschaftsbericht des vergangenen Jahres;
@@ -82,7 +85,8 @@ Dem Gesuch um Anerkennung sind folgende Unterlagen beizulegen:
 - k. Nachweis der Sicherstellung der Datensicherheit.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
-[^2a-2]: Fassung gemäss Anhang 10 Ziff. II 13 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^2a-2]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^2a-3]: Fassung gemäss Anhang 10 Ziff. II 13 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
@@ -94,10 +98,11 @@ Dem Gesuch um Anerkennung sind folgende Unterlagen beizulegen:
 
 <sup>3</sup> Es kann zur Erfüllung seiner Aufgaben Grundstücke, Betriebe und Räume betreten.
 
-<sup>4</sup> Es prüft mindestens alle drei Jahre, ob die Leistungs- und Qualitätsanforderungen eingehalten werden, und erstattet dem EJPD Bericht.
+<sup>4</sup> Es prüft mindestens alle fünf Jahre, ob die Leistungs- und Qualitätsanforderungen eingehalten werden, und erstattet dem EJPD Bericht.[^3-3]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 [^3-2]: Fassung gemäss Ziff. I 14 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 3a
 
@@ -117,13 +122,32 @@ Das EJPD kann die Anerkennung jederzeit entziehen, falls das Labor die Vorausset
 
 #### Art. 4a
 
-**Gebühren**[^4a-1]
+**Gebühren im Zusammenhang mit der Anerkennung von Labors**[^4a-1]
 
-<sup>1</sup> Die Gebühren für die Anerkennung und die Kontrolle (Art. 2–4) richten sich nach der Allgemeinen Gebührenverordnung vom 8. September 2004[^4a-2].
+<sup>1</sup> Die Gebühren für den Erlass von Verfügungen im Zusammenhang mit der Anerkennung von Labors betragen:
 
-<sup>2</sup> Die Gebühren für die Tätigkeit der SAS im Rahmen dieser Verordnung richten sich nach der Verordnung vom 10. März 2006[^4a-3] über die Gebühren des Staatssekretariats für Wirtschaft im Bereich der Akkreditierung.
+<table>
+<tr><th></th><th></th><th></th><th>Franken</th></tr>
+<tr><td></td><td>a.</td><td>für die Erteilung</td><td>500.–</td></tr>
+<tr><td></td><td>b.</td><td>für die Ablehnung</td><td>500.–</td></tr>
+<tr><td></td><td>c.</td><td>für die Änderung</td><td>200.–</td></tr>
+<tr><td></td><td>d.</td><td>für die Sistierung</td><td>200.–</td></tr>
+<tr><td></td><td>e.</td><td>für den Entzug</td><td>500.–</td></tr>
+</table>
 
-[^4a-1]: Eingefügt durch Art. 22 der V vom 14. Febr. 2007 über die Erstellung von DNA-Profilen im Zivil- und im Verwaltungsbereich, in Kraft seit 1. April 2007 ([AS 2007 669](https://fedlex.data.admin.ch/eli/oc/2007/134)).
+<sup>2</sup> Der Gebührenansatz für Tätigkeiten im Bereich der DNA-Labor-Aufsicht beträgt pro Arbeitsstunde:
+
+<table>
+<tr><th></th><th></th><th></th><th>Franken</th></tr>
+<tr><td></td><td>a.</td><td>für Mitarbeiterinnen und Mitarbeiter des administrativen Bereichs</td><td>97.–</td></tr>
+<tr><td></td><td>b.</td><td>für Mitarbeiterinnen und Mitarbeiter des Bereichs Planung, Qualitätsmanagement und DNA-Labor-Aufsicht</td><td>128.–</td></tr>
+</table>
+
+<sup>3</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^4a-2].
+
+<sup>4</sup> Die Gebühren für die Tätigkeit der SAS im Rahmen dieser Verordnung richten sich nach der Verordnung vom 10. März 2006[^4a-3] über die Gebühren des Staatssekretariats für Wirtschaft im Bereich der Akkreditierung.
+
+[^4a-1]: Eingefügt durch Art. 22 der V vom 14. Febr. 2007 über die Erstellung von DNA-Profilen im Zivil- und im Verwaltungsbereich ([AS 2007 669](https://fedlex.data.admin.ch/eli/oc/2007/134)). Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 [^4a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 [^4a-3]: [SR 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
 
@@ -132,6 +156,14 @@ Das EJPD kann die Anerkennung jederzeit entziehen, falls das Labor die Vorausset
 **Meldepflicht**
 
 Die Labors melden dem EJPD innert 30 Tagen sämtliche Änderungen von Angaben, die sie zur Erfüllung der Voraussetzungen für ihre Anerkennung gemacht haben.
+
+#### Art. 5a
+
+**Interessenvertretung der Labors gegenüber dem Bund**[^5a-1]
+
+Die Labors vertreten gemeinsam ihre Interessen gegenüber dem Bund.
+
+[^5a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 6
 
@@ -160,13 +192,18 @@ Der lokale Vergleich kann durchgeführt werden:
 
 <sup>3</sup> Das Labor prüft vor der Durchführung des lokalen Vergleichs, ob das DNA-Profil der Person, das mit dem lokal vorliegenden Spurenprofil verglichen werden soll, im Informationssystem einen aktiven Status hat.
 
+<sup>4</sup> Die Polizei kann im Einzelfall die Koordinationsstelle (Art. 9*a*) beauftragen, auch das DNA-Profil einer Spur abzugleichen, das mangels Erfüllung der Aufnahmekriterien nach Artikel 9 Absatz 2 nicht in das Informationssystem aufgenommen wird, sofern dies notwendig ist, um Ermittlungshinweise zu erhalten.[^6a-2]
+
 [^6a-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+[^6a-2]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 7
 
-[^7-1]
+**Weiterverwendung eines bereits vorhandenen DNA-Personenprofils**[^7-1]
 
-[^7-1]: Aufgehoben durch Ziff. I der V vom 22. Okt. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+Die anordnende Behörde informiert fedpol innerhalb von sechs Monaten ab dem Zeitpunkt der erkennungsdienstlichen Erfassung, wenn ein bereits im Informationssystem gespeichertes Personenprofil für das vorliegende Verfahren weiterzuverwenden ist.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## 2. Abschnitt: DNA-Profil-Informationssystem
 
@@ -205,52 +242,103 @@ Im Informationssystem werden Daten folgender Kategorien bearbeitet:
 
 #### Art. 9a
 
-**Koordinationsstelle**[^9a-1]
+**Koordinationsstelle: Zuständigkeit**[^9a-1]
 
-<sup>1</sup> Das EJPD bestimmt eines der anerkannten Labors als Koordinationsstelle.
+Das Institut für Rechtsmedizin (IRM) der Universität Zürich führt die Koordinationsstelle nach Artikel 10 Absatz 2 des DNA-Profil-Gesetzes.
 
-<sup>2</sup>
+[^9a-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2014 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)). Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+
+#### Art. 9b
+
+**Koordinationsstelle: Aufgaben**[^9b-1]
+
+<sup>1</sup>
 
 Die Koordinationsstelle hat folgende Aufgaben:
 
-- a. Sie überprüft die von den Labors erstellten Profile auf die Erfüllung der Vorgaben von fedpol.
+- a. Sie prüft, ob die von den Labors erstellten Profile die Vorgaben von fedpol erfüllen.
 - b. Sie betreibt das Informationssystem auf operativer Ebene.
 - c. Sie arbeitet bei internationalen Ersuchen mit fedpol zusammen.
-- d. Sie vertritt die Interessen der anerkannten Labors gegenüber dem Bund.
+- d. Sie unterstützt fedpol bei fachlichen Anliegen im Zusammenhang mit dem Betrieb des Informationssystems nach Artikel 10 des DNA-Profil-Gesetzes.
 
-<sup>3</sup> Sie gleicht auf besonderen Auftrag hin auch das DNA-Profil einer Spur ab, das die Kriterien für eine Aufnahme in das Informationssystem nicht erfüllt.
+<sup>2</sup> Sie verfügt über ein Qualitätsmanagementsystem; fedpol überprüft dessen Umsetzung.
 
-<sup>4</sup> Sie muss über ein Qualitätsmanagementsystem verfügen; fedpol überprüft dessen Umsetzung.
+<sup>3</sup> Sie legt fedpol jährlich einen Finanzbericht vor.
 
-<sup>5</sup>
+<sup>4</sup> Fedpol regelt die Einzelheiten der Aufgaben, die das IRM der Universität Zürich in seiner Funktion als Koordinationsstelle wahrzunehmen hat, in einem öffentlich-rechtlichen Vertrag mit der Universität Zürich.
 
-Sie erhebt die folgenden Gebühren:
+<sup>5</sup> Es überprüft die Erfüllung der Aufgaben durch die Koordinationsstelle alle fünf Jahre und erstattet dem Bundesrat Bericht.
 
-- a. für die Bearbeitung eines Wangenschleimhautabstrichs: 20 Franken;
-- b. für die Bearbeitung einer Spur: 40 Franken;
-- c. für die Bearbeitung eines Profils aus dem Ausland: 20 Franken.
+[^9b-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
-[^9a-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+#### Art. 9c
+
+**Koordinationsstelle: Bearbeitungsgebühren**[^9c-1]
+
+<sup>1</sup>
+
+Die Koordinationsstelle erhebt die folgenden Gebühren:
+
+- a. für die Bearbeitung eines Personenprofils: 20 Franken;
+- b. für die Bearbeitung eines Spurenprofils: 40 Franken;
+- c. für den Suchlauf nach Artikel 6*a* Absatz 4: 60 Franken;
+- d. für die Bearbeitung eines Y-DNA-Profils: 40 Franken;
+- e. für den Suchlauf nach Verwandtschaftsbezug: 200 Franken;
+- f. für den Suchlauf bezüglich einer vermissten Person: 40 Franken;
+- g. für den Suchlauf bezüglich einer unbekannten Leiche: 60 Franken;
+- h. für den Suchlauf bezüglich Verwandter von vermissten Personen: 40 Franken.
+
+<sup>2</sup>
+
+Bei ausserordentlichen Fällen ausserhalb der regulären Dienstzeiten erhebt die Koordinationsstelle die folgenden Gebühren:
+
+- a. Grundgebühr pro Fall: 300 Franken;
+- b. Gebühr pro angefangene Arbeitsstunde: 128 Franken.
+
+[^9c-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 10
 
 **Verfahren**
 
-<sup>1</sup> Die auftraggebende Behörde teilt die Prozesskontrollnummer mit den bekannten Personalien oder den Tatortangaben den AFIS DNA Services mit. Sie sendet das Analysematerial zusammen mit der Prozesskontrollnummer einem anerkannten Labor zur Analyse zu.
+<sup>1</sup> Die auftraggebende Behörde teilt die Prozesskontrollnummer mit den bekannten Personalien oder den Tatortangaben fedpol[^10-1] mit. Sie sendet das Analysematerial zusammen mit der Prozesskontrollnummer einem anerkannten Labor zur Analyse zu.
 
-<sup>2</sup> Die AFIS DNA Services bearbeiten die Prozesskontrollnummer, die Personen- oder Spurendaten und die Tatortangaben im Informationssystem IPAS.[^10-1]
+<sup>2</sup> Fedpol bearbeitet die Prozesskontrollnummer, die Personen- oder Spurendaten und die Tatortangaben im Informationssystem IPAS.[^10-2]
 
-<sup>3</sup> Das Labor erstellt das Profil und leitet es mit der Prozesskontrollnummer ausschliesslich an die Koordinationsstelle weiter.[^10-2]
+<sup>3</sup> Das Labor erstellt das Profil und leitet es mit der Prozesskontrollnummer ausschliesslich an die Koordinationsstelle weiter.[^10-3]
 
-<sup>4</sup> Die Koordinationsstelle gibt das Profil in das Informationssystem ein, prüft es auf Übereinstimmung mit den im Informationssystem vorhandenen Profilen (Profilabgleich) und leitet das Ergebnis an die AFIS-DNA-Services weiter.[^10-3]
+<sup>4</sup> Die Koordinationsstelle gibt das Profil in das Informationssystem ein, prüft es auf Übereinstimmung mit den im Informationssystem vorhandenen Profilen (Profilabgleich) und leitet das Ergebnis an die AFIS-DNA-Services weiter.[^10-4]
 
-<sup>5</sup> Die AFIS DNA Services verknüpfen mittels der Prozesskontrollnummer die von der Koordinationsstelle mitgeteilten Profil- oder Spurentreffer mit den im IPAS vorhandenen Personen- oder Spurendaten und Tatortangaben. Das Ergebnis stellen sie der auftraggebenden Behörde und allfälligen weiteren betroffenen Behörden zur Verfügung.
+<sup>5</sup> Fedpol bearbeitet mittels der Prozesskontrollnummer die von der Koordinationsstelle mitgeteilten Profil- oder Spurentreffer mit den im IPAS vorhandenen Personen- oder Spurendaten und Tatortangaben. Das Ergebnis stellt es der auftraggebenden Behörde und allfälligen weiteren betroffenen Behörden zur Verfügung.
 
 <sup>6</sup> Das Falldossier muss während des gesamten Verfahrens folgende Angaben enthalten: Prozesskontrollnummer des Profils, Name, Vorname und Geburtsdatum der betroffenen Person.
 
-[^10-1]: Fassung gemäss Ziff. I 14 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+[^10-1]: Ausdruck gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^10-2]: Fassung gemäss Ziff. I 14 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 [^10-3]: Fassung gemäss Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+[^10-4]: Fassung gemäss Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+
+#### Art. 10a
+
+**Verfahren beim Suchlauf nach Verwandtschaftsbezug**[^10a-1]
+
+<sup>1</sup> Liegt eine Verfügung nach Artikel 258*a* der Strafprozessordnung[^10a-2] (StPO) vor, so beauftragt die Polizei die Koordinationsstelle, den Suchlauf mit dem DNA-Profil der Spurenlegerin oder des Spurenlegers durchzuführen.
+
+<sup>2</sup> Die Koordinationsstelle grenzt die Anzahl der Personenprofile mit möglichem Verwandtschaftsbezug ein, indem sie in Absprache mit der Polizei und dem Labor den Schwellenwert des Wahrscheinlichkeitsquotienten festlegt. Sie übermittelt die Ergebnisliste mit den Prozesskontrollnummern der betroffenen Personen an fedpol.
+
+<sup>3</sup>
+
+Die Koordinationsstelle erstattet der Polizei Bericht mit mindestens folgenden Informationen:
+
+- a. dem gesuchten Verwandtschaftsverhältnis;
+- b. den verwendeten Populationsfrequenzen;
+- c. dem Schwellenwert des Wahrscheinlichkeitsquotienten;
+- d. der Ergebnisliste mit den Prozesskontrollnummern und den verwendeten Wahrscheinlichkeitsquotienten.
+
+<sup>4</sup> Fedpol ergänzt die Ergebnisliste gestützt auf die jeweilige Prozesskontrollnummer mit den dazugehörigen Personendaten aus dem IPAS und übermittelt sie an die Polizei.
+
+[^10a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^10a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 11
 
@@ -270,13 +358,13 @@ Sie erhebt die folgenden Gebühren:
 
 **Meldung von Löschungsereignissen**
 
-<sup>1</sup> Die Kantone melden den AFIS DNA Services das Eintreten der gesetzlichen Voraussetzungen für die Löschung von Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes. Sie bestimmen eine zentrale Stelle, welche für die Meldung verantwortlich ist.
+<sup>1</sup> Die Kantone melden fedpol das Eintreten der gesetzlichen Voraussetzungen für die Löschung von Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes. Es bestimmt eine zentrale Stelle, welche für die Meldung verantwortlich ist.
 
 <sup>2</sup> Die Meldung hat elektronisch und innert 30 Tagen nach Eintritt des für die Löschung massgeblichen Ereignisses zu erfolgen.
 
 <sup>3</sup>
 
-Folgende Bundesbehörden melden den AFIS DNA Services das Eintreten der gesetzlichen Voraussetzungen für die Löschung von Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes:
+Folgende Bundesbehörden melden fedpol das Eintreten der gesetzlichen Voraussetzungen für die Löschung von Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes:
 
 - a. die Bundeskriminalpolizei und die Bundesanwaltschaft;
 - b. das Oberauditorat für die Behörden der Militärjustiz;
@@ -285,25 +373,20 @@ Folgende Bundesbehörden melden den AFIS DNA Services das Eintreten der gesetzli
 
 #### Art. 13
 
-**Bearbeitung der Löschungsmeldungen**
+**Bearbeitung der Löschmeldungen**[^13-1]
 
-Sind die gesetzlichen Voraussetzungen für die Löschung erfüllt, so löschen die AFIS DNA Services auf Grund der Meldung die Daten im IPAS gemäss Artikel 16 Absatz 2 der IPAS-Verordnung vom 21. November 2001[^13-1]. Gleichzeitig lösen sie die Löschung des Profils im Informationssystem aus.
+<sup>1</sup> Erhält Fedpol die Meldung zur Löschung eines DNA-Datensatzes nach Artikel 12, so nimmt es die Löschung der Daten im IPAS gemäss Artikel 9 der IPAS-Verordnung vom 15. Oktober 2008[^13-2] vor und löst gleichzeitig die Löschung des DNA-Profils im Informationssystem aus.
 
-[^13-1]: [[AS 2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20), [4174](https://fedlex.data.admin.ch/eli/oc/2002/674); [2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 10, [5279](https://fedlex.data.admin.ch/eli/oc/2004/812)Art. 21; [2006 945](https://fedlex.data.admin.ch/eli/oc/2006/170). [AS 2008 5043](https://fedlex.data.admin.ch/eli/oc/2008/700)Art. 14]. Siehe heute: die V vom 15. Okt. 2008 ([SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)).
+<sup>2</sup> Ohne entsprechende Meldung löscht fedpol das DNA-Personenprofil 30 Jahre nach der erkennungsdienstlichen Erfassung der betroffenen Person.
 
-#### Art. 14
+[^13-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^13-2]: [SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
 
-**Fristenlauf**[^14-1]
+#### Art. 14 und 15
 
-Die Frist zur Löschung nach Artikel 16 Absatz 3 des DNA-Profil-Gesetzes läuft ab der erkennungsdienstlichen Behandlung.
+[^1415-1]
 
-[^14-1]: Fassung gemäss Ziff. I 14 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
-
-#### Art. 15
-
-**Zustimmungsbedürftige Löschungen**
-
-Bei zustimmungsbedürftigen Löschungen nach Artikel 17 des DNA-Profil-Gesetzes beantragt die auftraggebende Behörde den AFIS DNA Services die Löschung erst, wenn ihr die erforderliche richterliche Zustimmung vorliegt.
+[^1415-1]: Aufgehoben durch Ziff. I der V vom 16. Juni 2023, mit Wirkung seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 15a
 
@@ -316,13 +399,11 @@ Wird ein Strafverfahren nach Artikel 30 der Strafprozessordnung[^15a-2] getrennt
 
 #### Art. 16
 
-**Löschung von ausländischen Profilen im Rahmen der internationalen Zusammenarbeit**
+**Löschung von ausländischen Profilen bei der internationalen Zusammenarbeit**[^16-1]
 
-<sup>1</sup> Wird die Schweiz im Rahmen der internationalen Zusammenarbeit um einen Profilvergleich mit einem ausländischen Profil ersucht, so gilt fedpol als anordnende Behörde nach Artikel 7 des DNA-Profil-Gesetzes.[^16-1]
+Erhält fedpol das DNA-Profil einer Person bei der internationalen Zusammenarbeit, so löscht es dieses auf Verlangen der ausländischen Behörde. Ohne entsprechende Meldung löscht es das Profil 30 Jahre nach der Erfassung im IPAS.
 
-<sup>2</sup> Ist ein solches Profil mit einem Löschungsdatum versehen, so wird dieses im IPAS vermerkt.
-
-[^16-1]: Fassung gemäss Ziff. I 14 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^16-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## 4. Abschnitt: Datenschutz und Datensicherheit
 
@@ -351,6 +432,21 @@ Wird ein Strafverfahren nach Artikel 30 der Strafprozessordnung[^15a-2] getrennt
 
 <sup>3</sup> Das fedpol stellt dem Bundesamt für Statistik die für dessen Aufgabenerfüllung erforderlichen Daten aus dem Informationssystem anonymisiert zur Verfügung.
 
+#### Art. 18a
+
+**Zurverfügungstellung von Daten aus dem Informationssystem zu Forschungszwecken**[^18a-1]
+
+<sup>1</sup> Fedpol kann Daten aus dem Personen- sowie aus dem Spuren-Index des Informationssystems auf Ersuchen der für die Durchführung des Forschungsprojekts verantwortlichen Institution in anonymisierter Form für Forschungszwecke zur Verfügung stellen.
+
+<sup>2</sup>
+
+Es vereinbart mit der verantwortlichen Institution schriftlich:
+
+- a. die Einzelheiten der Bearbeitung der Daten wie deren Speicherung oder Löschung nach Abschluss des Forschungsprojekts;
+- b. die Zugriffsrechte der Forschungsmitarbeiterinnen und -mitarbeiter.
+
+[^18a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+
 #### Art. 19
 
 **Datensicherheit**
@@ -364,7 +460,7 @@ Die Datensicherheit richtet sich nach:
 
 <sup>2</sup> Die Kantone gewährleisten die Datensicherheit in ihrem Bereich gemäss den Vorgaben nach Absatz 1. Weitergehende kantonale Bestimmungen zur Datensicherheit bleiben vorbehalten.
 
-<sup>3</sup> Die AFIS DNA Services und die Koordinationsstelle treffen in ihrem Bereich die erforderlichen organisatorischen und technischen Massnahmen zur Sicherung der Personendaten.
+<sup>3</sup> Fedpol und die Koordinationsstelle treffen in ihrem Bereich die erforderlichen organisatorischen und technischen Massnahmen zur Sicherung der Personendaten.
 
 [^19-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^19-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
@@ -395,6 +491,21 @@ Das EJPD und die Kantone vollziehen diese Verordnung in ihrem jeweiligen Bereich
 <sup>2</sup> In begründeten Fällen kann das EJPD eine Fristverlängerung gewähren.
 
 [^22-1]: [[AS 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258); [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)Art. 19 Ziff. 1]
+
+#### Art. 22a
+
+**Evaluation der Änderung vom 17. Dezember 2021[^22a-2] des DNA-Profil-Gesetzes**[^22a-1]
+
+<sup>1</sup> Die Staatsanwaltschaften der Kantone, die Bundesanwaltschaft sowie das Oberauditorat für die Militärjustiz melden fedpol im Hinblick auf die Evaluation nach Artikel 20*a* des DNA-Profil-Gesetzes die Verfügungen, die gestützt auf Artikel 255 Absatz 3, 256, 258*a* oder 258*b* StPO[^22a-3] oder auf Artikel 73*s* Absatz 2, 73*t*, 73*w* oder 73*x* des Militärstrafprozesseses vom 23. März 1979[^22a-4] erlassen wurden. Die Meldungen erfolgen in anonymisierter Form und unter Angabe der Fallnummer.
+
+<sup>2</sup> Fedpol kann zusätzliche Informationen bei den kriminaltechnischen Diensten der Kantone, bei der Koordinationsstelle sowie bei den Labors, die Analyseaufträge der Behörden nach Absatz 1 bearbeiten, einholen.
+
+<sup>3</sup> Für spezielle molekulargenetische Fragestellungen kann es externe Gutachteraufträge erteilen.
+
+[^22a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^22a-2]: [AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309)
+[^22a-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^22a-4]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 23
 

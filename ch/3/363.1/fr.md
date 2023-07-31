@@ -3,11 +3,11 @@ sr: "363.1"
 title: "Ordonnance du 3 décembre 2004 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Ordonnance sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: fr
-version: 2023-01-23
+version: 2023-08-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,15 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230123/fr"
 
 (Ordonnance sur les profils d’ADN)
 
-du 3 décembre 2004 (État le 23 janvier 2023)
+du 3 décembre 2004 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 22 de la loi fédérale du 20 juin 2003 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (loi sur les profils d’ADN)[^ingress-1],
+vu les art. 10, al. 3, et 22 de la loi fédérale du 20 juin 2003 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (Loi sur les profils d’ADN)[^ingress-1], vu l’art. 46*a,* al. 1 et 2, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## Section 1 Échantillons forensiques d’ADN et analyse
 
@@ -51,8 +53,8 @@ Le DFJP[^2-2] peut, sur demande, reconnaître des laboratoires:
 
 - a. s’ils sont accrédités par le Service d’accréditation suisse (SAS) dans le domaine de la génétique médico-légale, conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^2-3];
 - b. s’ils répondent à tout moment aux exigences de prestation et de qualité;
-- c. s’ils ont participé avec succès au cours des douze derniers mois à au moins quatre contrôles de qualité externes; le DFJP définit les conditions relatives à la reconnaissance de ces contrôles de qualité externes;
-- d.[^2-4] si le directeur du laboratoire et son suppléant ont obtenu le titre de «généticien forensique SSML» délivré par la Société suisse de médecine légale ou justifiant d’une qualification équivalente;
+- c.[^2-4] s’ils ont participé avec succès au cours des douze derniers mois à au moins quatre contrôles de qualité externes ayant donné lieu à l’établissement de profils d’ADN au sens de l’art. 1, let. a, ch. 1, de la loi sur les profils d’ADN; le DFJP définit les contrôles de qualité externes qui peuvent servir de base à la reconnaissance d’un laboratoire;
+- d.[^2-5] si le directeur du laboratoire et son suppléant ont obtenu le titre de «généticien forensique SSML» délivré par la Société suisse de médecine légale ou justifiant d’une qualification équivalente;
 - e. si les membres de la direction du laboratoire jouissent d’une bonne réputation et offrent la garantie d’une activité irréprochable, et
 - f. si les membres de la direction du laboratoire peuvent exercer la gestion effective du laboratoire en son siège et en assumer la responsabilité.
 
@@ -61,7 +63,8 @@ Le DFJP[^2-2] peut, sur demande, reconnaître des laboratoires:
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2005, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 [^2-2]: Nouvelle expression selon le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)). Il a été tenu compte de cette mod. dans tout le texte.
 [^2-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^2-4]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
 
 #### Art. 2a
 
@@ -70,9 +73,9 @@ Le DFJP[^2-2] peut, sur demande, reconnaître des laboratoires:
 Les documents suivants doivent être joints à la demande de reconnaissance:
 
 - a. l’accréditation selon l’art. 2, al. 2, let. a;
-- b. le certificat de participation réussie à au moins quatre contrôles de qualité externes selon l’art. 2, al. 2, let. c;
+- b.[^2a-2] le certificat de participation réussie aux contrôles de qualité externes visés à l’art. 2, al. 2, let. c;
 - c. la preuve de la qualification selon l’art. 2, al. 2, let. d;
-- d.[^2a-2] l’extrait destiné aux particuliers du casier judiciaire et l’extrait du registre des poursuites pour dettes et faillites de chaque membre de la direction;
+- d.[^2a-3] l’extrait destiné aux particuliers du casier judiciaire et l’extrait du registre des poursuites pour dettes et faillites de chaque membre de la direction;
 - e. la liste complète des enquêtes pénales ainsi que des procédures pénales et civiles des dix dernières années des membres de la direction;
 - f. l’extrait du registre du commerce;
 - g. le rapport d’activité ou le rapport de gestion de l’année précédente;
@@ -82,7 +85,8 @@ Les documents suivants doivent être joints à la demande de reconnaissance:
 - k. la garantie de la sécurité des données.
 
 [^2a-1]: Introduit par le ch. I de l’O du 22 juin 2005, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
-[^2a-2]: Nouvelle teneur selon l’annexe 10 ch. II 13 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^2a-2]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^2a-3]: Nouvelle teneur selon l’annexe 10 ch. II 13 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
@@ -94,10 +98,11 @@ Les documents suivants doivent être joints à la demande de reconnaissance:
 
 <sup>3</sup> Il peut, pour accomplir les tâches qui lui incombent, se rendre sur des terrains et pénétrer dans des entreprises ou dans des locaux.
 
-<sup>4</sup> Il vérifie, tous les trois ans au moins, si les exigences de prestation et de qualité sont respectées, et livre un rapport au DFJP.
+<sup>4</sup> Il vérifie, tous les cinq ans au moins, si les exigences de prestation et de qualité sont respectées, et livre un rapport au DFJP.[^3-3]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2005, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 [^3-2]: Nouvelle teneur selon le ch. I 14 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 3a
 
@@ -117,13 +122,32 @@ Le DFJP peut en tout temps retirer la reconnaissance si le laboratoire ne répon
 
 #### Art. 4a
 
-**Émoluments**[^4a-1]
+**Émoluments en lien avec la reconnaissance de laboratoires**[^4a-1]
 
-<sup>1</sup> La perception d’émoluments pour la reconnaissance et le contrôle (art. 2 à 4) est régie par l’ordonnance du 8 septembre 2004 sur les émoluments[^4a-2].
+<sup>1</sup> Les émoluments perçus pour le prononcé d’une décision en lien avec la reconnaissance d’un laboratoire se montent à:
 
-<sup>2</sup> La perception d’émoluments pour l’activité du SAS exercée dans le cadre de la présente ordonnance est régie par l’ordonnance du 10 mars 2006 sur les émoluments du Secrétariat d’État à l’économie dans le domaine de l’accréditation[^4a-3].
+<table>
+<tr><th></th><th></th><th></th><th>Francs</th></tr>
+<tr><td></td><td>a.</td><td>pour l’octroi</td><td>500.–</td></tr>
+<tr><td></td><td>b.</td><td>pour le rejet</td><td>500.–</td></tr>
+<tr><td></td><td>c.</td><td>pour la modification</td><td>200.–</td></tr>
+<tr><td></td><td>d.</td><td>pour la suspension</td><td>200.–</td></tr>
+<tr><td></td><td>e.</td><td>pour le retrait</td><td>500.–</td></tr>
+</table>
 
-[^4a-1]: Introduit par l’art. 22 de l’O du 14 fév. 2007 sur l’établissement de profils d’ADN en matière civile et administrative, en vigueur depuis le 1<sup>er</sup> avril 2007 ([RO 2007 669](https://fedlex.data.admin.ch/eli/oc/2007/134)).
+<sup>2</sup> Le tarif horaire applicable aux activités en lien avec la surveillance des laboratoires ADN se monte à:
+
+<table>
+<tr><th></th><th></th><th></th><th>Francs</th></tr>
+<tr><td></td><td>a.</td><td>pour le personnel administratif</td><td>97.–</td></tr>
+<tr><td></td><td>b.</td><td>pour les collaborateurs du Domaine Planification, MQ et surveillance des laboratoires ADN</td><td>128.–</td></tr>
+</table>
+
+<sup>3</sup> Pour le reste, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^4a-2] sont applicables.
+
+<sup>4</sup> La perception d’émoluments pour l’activité du SAS exercée dans le cadre de la présente ordonnance est régie par l’ordonnance du 10 mars 2006 sur les émoluments du Secrétariat d’État à l’économie dans le domaine de l’accréditation[^4a-3].
+
+[^4a-1]: Introduit par l’art. 22 de l’O du 14 fév. 2007 sur l’établissement de profils d’ADN en matière civile et administrative ([RO 2007 669](https://fedlex.data.admin.ch/eli/oc/2007/134)). Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 [^4a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 [^4a-3]: [RS 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
 
@@ -132,6 +156,14 @@ Le DFJP peut en tout temps retirer la reconnaissance si le laboratoire ne répon
 **Obligation de communication**
 
 Les laboratoires communiquent au DFJP dans les 30 jours toute modification des données qu’ils ont transmises pour remplir les conditions nécessaires à leur reconnaissance.
+
+#### Art. 5a
+
+**Représentation des intérêts des laboratoires auprès de la Confédération**[^5a-1]
+
+Les laboratoires représentent ensemble leurs intérêts auprès de la Confédération.
+
+[^5a-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 6
 
@@ -160,13 +192,18 @@ La comparaison locale peut être effectuée afin:
 
 <sup>3</sup> Avant d’effectuer la comparaison locale, le laboratoire vérifie si le profil d’ADN de la personne qui doit être comparé au profil de traces existant au niveau local dispose d’un statut actif dans le système d’information.
 
+<sup>4</sup> La police peut, dans des cas particuliers, charger le Service de coordination (art. 9*a*) de comparer également le profil d’ADN d’une trace ne remplissant pas les critères de saisie dans le système d’information au sens de l’art. 9, al. 2, dans la mesure où cela est nécessaire pour obtenir des indices d’enquête.[^6a-2]
+
 [^6a-1]: Introduit par le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+[^6a-2]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 7
 
-[^7-1]
+**Réutilisation d’un profil d’ADN de personne**[^7-1]
 
-[^7-1]: Abrogé par le ch. I de l’O du 22 oct. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+L’autorité qui ordonne la mesure informe fedpol dans les six mois à compter de la saisie de données signalétiques qu’un profil de la personne déjà enregistré dans le système d’information doit être réutilisé pour la procédure en cours.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## Section 2 Système d’information fondé sur les profils d’ADN
 
@@ -205,52 +242,103 @@ Les catégories de données suivantes sont traitées dans le système d’inform
 
 #### Art. 9a
 
-**Service de coordination**[^9a-1]
+**Service de coordination: compétence**[^9a-1]
 
-<sup>1</sup> Le DFJP désigne le Service de coordination parmi l’un des laboratoires reconnus.
+L’Institut de médecine légale (IML) de l’Université de Zurich gère le Service de coordination visé à l’art. 10, al. 2, de la loi sur les profils d’ADN.
 
-<sup>2</sup>
+[^9a-1]: Introduit par le ch. I de l’O du 22 oct. 2014 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)). Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+
+#### Art. 9b
+
+**Service de coordination: tâches**[^9b-1]
+
+<sup>1</sup>
 
 Le Service de coordination exerce les fonctions suivantes:
 
 - a. il vérifie que les profils établis par les laboratoires répondent aux exigences de fedpol;
 - b. il exploite le système d’information sur le plan opérationnel;
 - c. il collabore avec fedpol dans les cas de requêtes internationales;
-- d. il représente les intérêts des laboratoires reconnus auprès de la Confédération.
+- d. il soutient fedpol dans les questions spécifiques en lien avec l’exploitation du système d’information visé à l’art. 10 de la loi sur les profils d’ADN.
 
-<sup>3</sup> Il compare également, sur mandat spécifique, le profil d’ADN d’une trace ne remplissant pas les critères de saisie dans le système d’information.
+<sup>2</sup> Il dispose d’un système de gestion de la qualité; fedpol en supervise la mise en œuvre.
 
-<sup>4</sup> Il doit disposer d’un système de gestion de la qualité; fedpol en supervise la mise en œuvre.
+<sup>3</sup> Il présente chaque année un rapport financier à fedpol.
 
-<sup>5</sup>
+<sup>4</sup> Fedpol règle les détails des tâches que l’IML de l’Université de Zurich doit assumer en sa qualité de service de coordination dans un contrat de droit public conclu avec l’Université de Zurich.
 
-Il perçoit les émoluments suivants:
+<sup>5</sup> Il réexamine l’accomplissement des tâches par le Service de coordination tous les cinq ans et livre un rapport au Conseil fédéral.
 
-- a. pour le traitement d’un frottis de la muqueuse jugale: 20 francs;
-- b. pour le traitement d’une trace: 40 francs;
-- c. pour le traitement d’un profil provenant de l’étranger: 20 francs.
+[^9b-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
-[^9a-1]: Introduit par le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+#### Art. 9c
+
+**Service de coordination: émoluments de traitement**[^9c-1]
+
+<sup>1</sup>
+
+Le Service de coordination perçoit les émoluments suivants:
+
+- a. pour le traitement d’un profil de personne: 20 francs;
+- b. pour le traitement d’un profil de trace: 40 francs;
+- c. pour la recherche au sens de l’al. 6*a*, al. 4: 60 francs;
+- d. pour le traitement d’un profil d’ADN du chromosome Y: 40 francs;
+- e. pour la recherche en parentèle: 200 francs;
+- f. pour la recherche portant sur une personne disparue: 40 francs;
+- g. pour la recherche portant sur un cadavre inconnu: 60 francs;
+- h. pour la recherche portant sur les personnes apparentées à une personne disparue: 40 francs.
+
+<sup>2</sup>
+
+Dans les cas extraordinaires survenant en dehors des heures de service régulières, le Service de coordination perçoit les émoluments suivants:
+
+- a. émolument de base par cas: 300 francs;
+- b. émolument par heure de travail entamée: 128 francs.
+
+[^9c-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 10
 
 **Procédures**
 
-<sup>1</sup> L’autorité requérante envoie aux Services AFIS ADN le numéro de contrôle de processus accompagné des données d’identité connues ou des données relatives aux lieux de l’infraction. Elle transmet l’échantillon avec le numéro de contrôle de processus pour analyse à un laboratoire reconnu.
+<sup>1</sup> L’autorité requérante envoie à fedpol[^10-1] le numéro de contrôle de processus accompagné des données d’identité connues ou des données relatives aux lieux de l’infraction. Elle transmet l’échantillon avec le numéro de contrôle de processus pour analyse à un laboratoire reconnu.
 
-<sup>2</sup> Les Services AFIS ADN traitent le numéro de contrôle de processus, les données relatives à une personne ou à une trace biologique et celles relatives aux lieux de l’infraction dans le Système informatisé IPAS. [^10-1]
+<sup>2</sup> Fedpol traite le numéro de contrôle de processus, les données relatives à une personne ou à une trace biologique et celles relatives aux lieux de l’infraction dans le Système informatisé IPAS. [^10-2]
 
-<sup>3</sup> Le laboratoire établit le profil et le transmet avec le numéro de contrôle de processus au Service de coordination exclusivement.[^10-2]
+<sup>3</sup> Le laboratoire établit le profil et le transmet avec le numéro de contrôle de processus au Service de coordination exclusivement.[^10-3]
 
-<sup>4</sup> Le Service de coordination saisit le profil dans le système d’information, vérifie si une concordance s’établit avec les profils contenus dans le système d’information (comparaison des profils) et transmet le résultat aux Services AFIS ADN.[^10-3]
+<sup>4</sup> Le Service de coordination saisit le profil dans le système d’information, vérifie si une concordance s’établit avec les profils contenus dans le système d’information (comparaison des profils) et transmet le résultat à fedpol.[^10-4]
 
-<sup>5</sup> Les Services AFIS ADN relient, à l’aide du numéro de contrôle de processus, les concordances de profils d’ADN ou de traces biologiques communiquées par le Service de coordination avec les données relatives à des personnes ou à des traces biologiques et les données relatives aux lieux de l’infraction déjà contenues dans IPAS. Ils mettent le résultat de la comparaison à la disposition de l’autorité requérante et des autres autorités concernées.
+<sup>5</sup> Fedpol relie, à l’aide du numéro de contrôle de processus, les concordances de profils d’ADN ou de traces biologiques communiquées par le Service de coordination avec les données relatives à des personnes ou à des traces biologiques et les données relatives aux lieux de l’infraction déjà contenues dans IPAS. Il met le résultat de la comparaison à la disposition de l’autorité requérante et des autres autorités concernées.
 
 <sup>6</sup> Le dossier concernant le cas doit contenir les informations suivantes durant toute la procédure: numéro de contrôle de processus du profil, nom, prénom et date de naissance de la personne concernée.
 
-[^10-1]: Nouvelle teneur selon le ch. I 14 de l’O du 15 oct. 2008 sur les adaptations découlant de la LF sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+[^10-1]: Nouvelle expression selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)). Il a été tenu compte de cette mod. dans tout le texte.
+[^10-2]: Nouvelle teneur selon le ch. I 14 de l’O du 15 oct. 2008 sur les adaptations découlant de la LF sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
+
+#### Art. 10a
+
+**Procédure lors d’une recherche en parentèle**[^10a-1]
+
+<sup>1</sup> En cas de décision rendue en vertu de l’art. 258*a* du code de procédure pénale (CPP)[^10a-2], la police charge le Service de coordination d’effectuer la recherche avec le profil d’ADN du donneur de la trace.
+
+<sup>2</sup> Le Service de coordination restreint le nombre de profils de personnes présentant un lien de parenté possible en définissant, en accord avec la police et le laboratoire, la valeur seuil du rapport de vraisemblance. Il transmet à fedpol la liste des résultats munie des numéros de contrôle de processus des personnes concernées.
+
+<sup>3</sup>
+
+Le Service de coordination livre un rapport à la police, qui doit au moins contenir:
+
+- a. le lien de parenté recherché;
+- b. les fréquences alléliques utilisées;
+- c. la valeur seuil du rapport de vraisemblance;
+- d. la liste des résultats munie des numéros de contrôle de processus et des rapports de vraisemblance utilisés.
+
+<sup>4</sup> Fedpol complète la liste des résultats avec les données personnelles correspondantes issues d’IPAS en se basant sur les numéros de contrôle de processus puis la transmet à la police.
+
+[^10a-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^10a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 11
 
@@ -270,13 +358,13 @@ Il perçoit les émoluments suivants:
 
 **Communication des effacements**
 
-<sup>1</sup> Les cantons avertissent les Services AFIS ADN lorsque les conditions légales sont remplies pour l’effacement de profils au sens des art. 16 à 19 de la loi sur les profils d’ADN. Ils désignent un service central chargé d’effectuer ces communications.
+<sup>1</sup> Les cantons avertissent fedpol lorsque les conditions légales sont remplies pour l’effacement de profils au sens des art. 16 à 19 de la loi sur les profils d’ADN. Ils désignent un service central chargé d’effectuer ces communications.
 
 <sup>2</sup> La communication doit être effectuée par voie électronique dans les 30 jours suivant l’apparition de l’événement justifiant l’effacement.
 
 <sup>3</sup>
 
-Les autorités fédérales suivantes avertissent les Services AFIS ADN lorsque les conditions légales sont remplies pour l’effacement de profils au sens des art. 16 à 19 de la loi sur les profils d’ADN:
+Les autorités fédérales suivantes avertissent fedpol lorsque les conditions légales sont remplies pour l’effacement de profils au sens des art. 16 à 19 de la loi sur les profils d’ADN:
 
 - a. la Police judiciaire fédérale et le Ministère public de la Confédération;
 - b. l’Office de l’auditeur en chef pour les autorités de la justice militaire;
@@ -285,25 +373,20 @@ Les autorités fédérales suivantes avertissent les Services AFIS ADN lorsque l
 
 #### Art. 13
 
-**Traitement des communications d’effacement**
+**Traitement des communications d’effacement**[^13-1]
 
-Lorsque les conditions légales pour un effacement sont remplies, les Services AFIS ADN effacent les données dans le système IPAS sur la base de la communication, conformément à l’art. 16, al. 2, de l’ordonnance IPAS du 21 novembre 2001[^13-1]. Parallèlement, ils font effacer le profil du système d’information.
+<sup>1</sup> Si fedpol est chargé d’effacer un bloc de données ADN en vertu de l’art. 12, il procède à l’effacement des données dans IPAS conformément à l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^13-2] et fait effacer en même temps le profil d’ADN du système d’information.
 
-[^13-1]: [[RO 2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20), [2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)annexe ch. 10, [2006 945](https://fedlex.data.admin.ch/eli/oc/2006/170). [RO 2008 5043](https://fedlex.data.admin.ch/eli/oc/2008/700)art. 14]. Voir actuellement l’O du 15 oct. 2008 ([RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)).
+<sup>2</sup> En l’absence d’une telle communication, fedpol efface le profil d’ADN d’une personne 30 ans après la saisie des données signalétiques de la personne concernée.
 
-#### Art. 14
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^13-2]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
 
-**Délais**[^14-1]
+#### Art. 14 et 15
 
-Le délai d’effacement prévu à l’art. 16, al. 3, de la loi sur les profils d’ADN court dès le moment du traitement signalétique.
+[^1415-1]
 
-[^14-1]: Nouvelle teneur selon le ch. I 14 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
-
-#### Art. 15
-
-**Effacements soumis à autorisation**
-
-Pour les effacements soumis à autorisation au sens de l’art. 17 de la loi sur les profils d’ADN, l’autorité requérante ne communique la demande d’effacement aux Services AFIS ADN que lorsqu’elle a obtenu l’autorisation requise du juge.
+[^1415-1]: Abrogés par le ch. I de l’O du 16 juin 2023, avec effet au 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 15a
 
@@ -316,13 +399,11 @@ Si une procédure pénale est disjointe ou jointe, en vertu de l’art. 30 du co
 
 #### Art. 16
 
-**Effacement de profils étrangers dans le cadre de la coopération internationale**
+**Effacement de profils étrangers dans le cadre de la coopération internationale**[^16-1]
 
-<sup>1</sup> Lorsque, dans le cadre de la coopération internationale, une demande de comparaison est adressée à la Suisse pour un profil étranger, fedpol fait fonction d’autorité qui ordonne les mesures au sens de l’art. 7 de la loi sur les profils d’ADN.[^16-1]
+Si fedpol, dans le cadre de la coopération internationale, reçoit le profil d’ADN d’une personne, il l’efface sur demande de l’autorité étrangère. En l’absence d’une telle communication, il efface le profil 30 ans après la saisie dans IPAS.
 
-<sup>2</sup> Si le profil étranger est assorti d’une date d’effacement, celle-ci doit être indiquée dans le système IPAS.
-
-[^16-1]: Nouvelle teneur selon le ch. I 14 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## Section 4 Protection et sécurité des données
 
@@ -351,6 +432,21 @@ Si une procédure pénale est disjointe ou jointe, en vertu de l’art. 30 du co
 
 <sup>3</sup> Fedpol tient à la disposition de l’Office fédéral de la statistique, après les avoir rendues anonymes, les données du système d’information dont cet office a besoin pour accomplir ses tâches.
 
+#### Art. 18a
+
+**Mise à disposition de données du système d’information à des fins de recherche**[^18a-1]
+
+<sup>1</sup> Sur demande de l’institution chargée de mener le projet de recherche, fedpol peut mettre à disposition, à des fins de recherche et sous forme anonyme, des données issues de l’index des personnes et de l’index des traces du système d’information.
+
+<sup>2</sup>
+
+Il convient par écrit avec l’institution compétente:
+
+- a. des modalités relatives au traitement des données, comme leur enregistrement ou leur effacement à la fin du projet de recherche;
+- b. des droits d’accès des collaborateurs du projet de recherche.
+
+[^18a-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+
 #### Art. 19
 
 **Sécurité des données**
@@ -364,7 +460,7 @@ La sécurité des données est régie par:
 
 <sup>2</sup> Les cantons garantissent la sécurité des données dans leur domaine conformément aux règles visées à l’al. 1. Les dispositions cantonales plus strictes relatives à la sécurité des données sont réservées.
 
-<sup>3</sup> Les Services AFIS ADN et le Service de coordination prennent, dans leurs domaines d’activité respectifs, les mesures organisationnelles et techniques nécessaires pour assurer la sécurité des données personnelles.
+<sup>3</sup> Fedpol et le Service de coordination prennent, dans leurs domaines d’activité respectifs, les mesures organisationnelles et techniques nécessaires pour assurer la sécurité des données personnelles.
 
 [^19-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^19-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
@@ -394,7 +490,22 @@ Le DFJP et les cantons exécutent la présente ordonnance dans leurs domaines d�
 
 <sup>2</sup> Dans les cas motivés, le DFJP peut accorder une prolongation de délai.
 
-[^22-1]: [[RO 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258), [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 ch. 1]
+[^22-1]: [[RO 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258); [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 ch. 1]
+
+#### Art. 22a
+
+**Évaluation de la modification du 17 décembre 2021 de la loi sur les profils d’ADN[^22a-2]**[^22a-1]
+
+<sup>1</sup> Les ministères publics des cantons, le Ministère public de la Confédération et l’Office de l’auditeur en chef pour la justice militaire communiquent à fedpol, en vue de l’évaluation au sens de l’art. 20*a* de la loi sur les profils d’ADN, les décisions prononcées en vertu de l’art. 255, al. 3, 256, 258*a* ou 258*b* CPP[^22a-3] ou 73*s*, al. 2, 73*t*, 73*w* ou 73*x* de la procédure pénale militaire du 23 mars 1979[^22a-4]. Les communications se font sous forme anonyme et doivent être munie du numéro du cas.
+
+<sup>2</sup> Fedpol peut recueillir des informations supplémentaires auprès des services de police scientifique des cantons, du Service de coordination et des laboratoires qui traitent des mandats d’analyse pour le compte des autorités visées à l’al. 1.
+
+<sup>3</sup> Il peut confier des mandats d’expertise externes pour les questions spécifiques de génétique moléculaire.
+
+[^22a-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^22a-2]: [RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309)
+[^22a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^22a-4]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 23
 
