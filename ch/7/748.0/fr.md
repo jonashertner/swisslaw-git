@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230801-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230701/fr"
 
 (LA)[^t-1] [^t-2]
 
-du 21 décembre 1948 (État le 1<sup>er</sup> juillet 2023)
+du 21 décembre 1948 (État le 1<sup>er</sup> août 2023)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -93,15 +93,22 @@ Sont admis à circuler dans l’espace aérien suisse, sous réserve de l’al. 
 
 #### Art. 3
 
-<sup>1</sup> La surveillance de l’aviation sur tout le territoire de la Confédération incombe au Conseil fédéral dans le cadre des compétences de la Confédération. Elle est exercée par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC[^3-1]). …[^3-2].[^3-3]
+<sup>1</sup>
 
-<sup>2</sup> Pour exercer la surveillance immédiate, il est créé une division spéciale du DETEC, l’OFAC.
+La surveillance de l’aviation sur tout le territoire de la Confédération incombe au Conseil fédéral dans le cadre des compétences de la Confédération. Elle est exercée comme suit:
+
+- a. par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC), pour l’aviation civile et les aéronefs d’État, dans la mesure où ceux-ci ne sont pas utilisés pour accomplir des tâches de l’armée;
+- b. par le Département fédéral de la défense, de la protection de la population et des sports (DDPS), pour l’aviation militaire et les aéronefs d’État, dans la mesure où ceux-ci sont utilisés pour accomplir des tâches de l’armée prévues par la loi.[^3-1]
+
+<sup>2</sup> Pour exercer la surveillance immédiate, le Conseil fédéral institue l’OFAC auprès du DETEC (conformément à l’al. 1, let. a) et l’Autorité de l’aviation militaire, *Military Aviation Authority* (MAA), auprès du DDPS (conformément à l’al. 1, let. b).[^3-2]
+
+<sup>2bis</sup> L’OFAC et la MAA coordonnent leurs activités et établissent les modalités de leur collaboration.[^3-3]
 
 <sup>3</sup> Le Conseil fédéral établit les prescriptions plus détaillées, notamment celles qui concernent les taxes à percevoir.
 
-[^3-1]: Nouvelle expression selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Il a été tenu compte de cette mod. dans tout le texte.
-[^3-2]: Phrase abrogée par le ch. I de la LF du 1<sup>er</sup> oct. 2010, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^3-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juin 2006 ([RO 2006 1989](https://fedlex.data.admin.ch/eli/oc/2006/305); [FF 2005 3651](https://fedlex.data.admin.ch/eli/fga/2005/561)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^3-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^3-3]: Introduit par l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 1*a*. Accords internationaux
 
@@ -262,7 +269,7 @@ Le Conseil fédéral règle:
 - a. les conditions auxquelles les aéronefs sont autorisés à décoller ou à atterrir hors des aérodromes (atterrissage en campagne);
 - b. les constructions et les installations admises pour permettre ou faciliter l’atterrissage en campagne; le droit de l’aménagement du territoire et le droit de la construction doivent être respectés.[^8-3]
 
-<sup>3</sup> Des atterrissages en montagne en vue de la formation et de l’entraînement des pilotes et pour le transport de personnes à des fins touristiques ne peuvent avoir lieu que sur des places d’atterrissage désignées par le DETEC, avec l’accord du Département fédéral de la défense, de la protection de la population et des sports (DDPS) et des autorités cantonales compétentes.[^8-4]
+<sup>3</sup> Des atterrissages en montagne en vue de la formation et de l’entraî­nement des pilotes et pour le transport de personnes à des fins touris­tiques ne peuvent avoir lieu que sur des places d’atterrissage désignées par le DETEC, avec l’accord du DDPS et des autorités cantonales compétentes.[^8-4]
 
 <sup>4</sup> Le nombre de ces places d’atterrissage sera restreint et des zones de silence seront aménagées.
 
@@ -275,7 +282,7 @@ Le Conseil fédéral règle:
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1971, en vigueur depuis le 1<sup>er</sup> janv. 1974 ([RO 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 287](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^8-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2014 1337](https://fedlex.data.admin.ch/eli/oc/2014/285); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^8-3]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2014 1337](https://fedlex.data.admin.ch/eli/oc/2014/285); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^8-4]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^8-4]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^8-5]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^8-6]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
@@ -629,12 +636,12 @@ L’OFAC peut arrêter des prescriptions sur l’organisation du service de sauv
 
 [^23-1]
 
-<sup>1</sup> Les membres du personnel aéronautique, les organes de la police aérienne et les autorités locales qui sont impliqués dans un accident d’aviation ou un incident grave doivent l’annoncer immédiatement au DETEC.[^23-2]
+<sup>1</sup> Les membres du personnel aéronautique, les organes de la police aérienne et les autorités locales qui sont impliquées dans un accident ou un incident grave doivent l’annoncer immédiatement au DETEC ou au DDPS selon qu’il concerne l’aviation civile ou l’aviation militaire.[^23-2]
 
 <sup>2</sup> Les autorités locales veillent à ce que, sauf les mesures nécessaires de sauvetage, aucun changement de nature à entraver l’enquête ne soit apporté sur les lieux de l’accident.
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 2 oct. 1959, en vigueur depuis le 1<sup>er</sup> mai 1960 ([RO 1960 385](https://fedlex.data.admin.ch/eli/oc/1960/357_385_371); [FF 1959 I 1372](https://fedlex.data.admin.ch/eli/fga/1959/1_1369_1372_414)).
-[^23-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^23-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 3. Enquêtes
 
@@ -650,23 +657,28 @@ L’OFAC peut arrêter des prescriptions sur l’organisation du service de sauv
 
 [^24-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
-### b. Commission d’enquête
+### b. Commission d’enquête pour l’aviation civile
+
+[^part1-tit1-chap2-lvlVIII-lvl3-lvlb-1]
+
+[^part1-tit1-chap2-lvlVIII-lvl3-lvlb-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 25
 
 [^25-1]
 
-<sup>1</sup> Le Conseil fédéral institue une commission extraparlementaire au sens des art. 57*a* à 57*g* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^25-2] pour mener les enquêtes.
+<sup>1</sup> Le Conseil fédéral institue une commission extraparlementaire au sens des art. 57*a* à 57*g* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^25-2] pour mener les enquêtes concernant l’aviation civile.[^25-3]
 
 <sup>2</sup> La commission se compose de trois à cinq experts indépendants.
 
 <sup>3</sup> Elle est indépendante des autorités administratives et dispose de son propre secrétariat. Elle est rattachée administrativement au DETEC.
 
-<sup>4</sup> Le Conseil fédéral règle l’organisation de la commission. Il peut regrouper cet organe avec la commission visée à l’art. 15*a* de la loi fédérale du 20 décembre 1957 sur les chemins de fer[^25-3].
+<sup>4</sup> Le Conseil fédéral règle l’organisation de la commission. Il peut regrouper cet organe avec la commission visée à l’art. 15*a* de la loi fédérale du 20 décembre 1957 sur les chemins de fer[^25-4].
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^25-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^25-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^25-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^25-4]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 
 ### c. Procédure
 
@@ -714,11 +726,25 @@ Afin d’élucider les faits, le secrétariat peut ordonner les mesures suivante
 [^26a-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^26a-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
-#### Art. 26b et 26c
+### e. Service d’enquête pour l’aviation militaire
 
-[^26b26c-1]
+#### Art. 26b
 
-[^26b26c-1]: Introduits par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogés par le ch. I de la LF du 1<sup>er</sup> oct. 2010, avec effet au 1<sup>er</sup> nov. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^26b-1]
+
+<sup>1</sup> Un service de la MAA est chargé de mener les enquêtes concernant l’aviation militaire.
+
+<sup>2</sup> La procédure est régie par analogie par l’art. 26, al. 1 à 3.
+
+<sup>3</sup> Le Conseil fédéral règle l’organisation du service, les modalités de la procédure et les mesures de contrainte.
+
+[^26b-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+
+#### Art. 26c
+
+[^26c-1]
+
+[^26c-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogé par le ch. I de la LF du 1<sup>er</sup> oct. 2010, avec effet au 1<sup>er</sup> nov. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### IX. Transports aériens commerciaux
 
@@ -1387,11 +1413,12 @@ L’exploitant de l’aéroport fixe le montant des redevances en sefondant nota
 
 [^40-1]
 
-<sup>1</sup> Le Conseil fédéral règle le service de la navigation aérienne.
+<sup>1</sup> Le Conseil fédéral règle les services civil et militaire de la navigation aérienne.[^40-2]
 
 <sup>2</sup> Le territoire sur lequel s’étend le service de la navigation aérienne ne se limite pas aux frontières nationales.
 
 [^40-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 1*a*. Données aéronautiques
 
@@ -1427,9 +1454,10 @@ La société doit remplir les conditions suivantes:
 
 <sup>3</sup> Elle doit coordonner les services civil et militaire de la navigation aérienne.
 
-<sup>4</sup> Elle est soumise à la surveillance de l’OFAC.
+<sup>4</sup> Le service civil de la navigation aérienne est placé sous la surveillance de l’OFAC. Le service militaire de la navigation aérienne est placé sous la surveillance de la MAA.[^40abis-2]
 
 [^40abis-1]: Anciennement art. 40a. Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40abis-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 3. Collaboration avec d’autres entreprises
 
@@ -1827,6 +1855,18 @@ Un aéronef n’est immatriculé dans le registre matricule suisse que:
 
 Les aéronefs immatriculés dans le registre matricule suisse sont réputés suisses.
 
+### II*a*. Registre matricule pour aéronefs militaires
+
+#### Art. 55a
+
+[^55a-1]
+
+<sup>1</sup> La MAA tient un registre distinct pour les aéronefs militaires.
+
+<sup>2</sup> Le Conseil fédéral arrête les prescriptions détaillées sur les conditions de l’inscription au registre, ainsi que sur le contenu, la modification et la radiation des immatriculations.
+
+[^55a-1]: Introduit par l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+
 ### III. Attestations
 
 #### Art. 56
@@ -1895,21 +1935,22 @@ L’OFAC atteste, pour les aéronefs immatriculés au registre matricule suisse:
 
 <sup>1</sup>
 
-Les personnes suivantes doivent obtenir une licence auprès de l’OFAC pour exercer leur activité:
+Les personnes ci-après doivent obtenir une licence auprès de l’OFAC pour exercer leur activité dans l’aviation civile et auprès de la MAA pour exercer leur activité dans l’aviation militaire:[^60-1]
 
 - a. les pilotes d’aéronefs;
 - b. le personnel auxiliaire indispensable pour la conduite d’un aéronef, notamment les navigateurs, les radiotélégraphistes de bord et les mécaniciens de bord;
 - c. les personnes qui forment du personnel aéronautique;
-- d. le personnel du service de la navigation aérienne.[^60-1]
+- d. le personnel du service de la navigation aérienne.[^60-2]
 
-<sup>1bis</sup> La licence est de durée limitée.[^60-2]
+<sup>1bis</sup> La licence est de durée limitée.[^60-3]
 
 <sup>2</sup> Le Conseil fédéral détermine les autres catégories du personnel aéronautique pour qui la possession d’une licence est exigée.
 
 <sup>3</sup> Il arrête les prescriptions sur l’octroi, le renouvellement et le retrait des licences.
 
-[^60-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^60-2]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^60-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^60-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^60-3]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### II. …
 
@@ -2636,27 +2677,38 @@ Les dispositions de la législation sur les télécommunications sont réservée
 
 <sup>2</sup> Les exploitants d’aérodromes sont tenus de mettre à disposition les locaux nécessaires aux formalités douanières.
 
-### III. Application à l’aviation militaire des dispositions régissant l’aviation civile
+### 1. Application à l’aviation militaire des dispositions régissant l’aviation civile
 
-[^part4-lvlIII-1]
+[^part4-lvlII-lvl1-1]
 
-[^part4-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-
-### 1. Généralités
+[^part4-lvlII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 106
+
+III. Aviation militaire
 
 <sup>1</sup> La Confédération ne répond que selon les art. 64 à 74 et 77 à 79 des dommages qui sont causés par un aéronef militaire suisse à des personnes et à des biens qui se trouvent à la surface.
 
 <sup>2</sup> Le Conseil fédéral définit les dispositions régissant l’aviation civile qui, pour des motifs liés à la sécurité de l’aviation, sont également applicables à l’aviation militaire.[^106-1]
 
-[^106-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+<sup>3</sup> D’entente avec l’OFAC, la MAA prend les mesures nécessaires pour que les règles édictées dans l’intérêt de la sécurité de la circulation et celles qui concernent les signaux soient observées lors de l’usage militaire d’aéronefs. Si ces règles sont fixées par des accords internationaux conclus par la Suisse, elles s’appliquent de plein droit à cet usage militaire.[^106-2]
 
-### 2. Règles pour la sécurité de la circulation et ordonnance sur les signaux
+[^106-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^106-2]: Introduit par l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+
+### 2. Règles particulières applicables à l’aviation militaire
 
 #### Art. 107
 
-Le service compétent du DDPS prendra, d’entente avec l’OFAC, les mesures nécessaires pour que les règles édictées dans l’intérêt de la sécurité de la circulation et celles qui concernent les signaux soient observées lors de l’usage militaire d’aéronefs. Si ces règles sont fixées par des accords internationaux conclus par la Suisse, elles s’appliquent de plein droit à cet usage militaire.
+[^107-1]
+
+Le Conseil fédéral règle, pour l’aviation militaire:
+
+- a. les prescriptions applicables aux systèmes et infrastructures aéronautiques;
+- b. le service de vol;
+- c. la gestion de la sécurité.
+
+[^107-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### III*a*. Protection des données
 

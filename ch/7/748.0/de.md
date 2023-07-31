@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230801/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230801-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230701/de"
 
 (Luftfahrtgesetz, LFG)[^t-1]
 
-vom 21. Dezember 1948 (Stand am 1. Juli 2023)
+vom 21. Dezember 1948 (Stand am 1. August 2023)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -84,15 +84,22 @@ Zum Verkehr im schweizerischen Luftraum sind unter Vorbehalt von Absatz 2 zugela
 
 #### Art. 3
 
-<sup>1</sup> Der Bundesrat hat im Rahmen der Zuständigkeit des Bundes die Aufsicht über die Luftfahrt im gesamten Gebiet der Schweizerischen Eidgenossenschaft. Er übt sie durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK[^3-1]) aus. …[^3-2].[^3-3]
+<sup>1</sup>
 
-<sup>2</sup> Für die unmittelbare Aufsicht wird beim UVEK eine besondere Abteilung, das BAZL, gebildet.
+Der Bundesrat hat im Rahmen der Zuständigkeit des Bundes die Aufsicht über die Luftfahrt im gesamten Gebiet der Schweizerischen Eidgenossenschaft. Er übt sie wie folgt aus:
+
+- a. für die Zivilluftfahrt und die Staatsluftfahrzeuge, soweit diese nicht für gesetzlich vorgesehene Aufgaben der Armee eingesetzt werden, durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK);
+- b. für die Militärluftfahrt und die Staatsluftfahrzeuge, soweit diese für gesetzlich vorgesehene Aufgaben der Armee eingesetzt werden, durch das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS).[^3-1]
+
+<sup>2</sup> Er bildet für die unmittelbare Aufsicht gemäss Absatz 1 Buchstabe a beim UVEK das BAZL und für die unmittelbare Aufsicht gemäss Absatz 1 Buchstabe b beim VBS die Militärluftfahrtbehörde (Military Aviation Authority, MAA).[^3-2]
+
+<sup>2bis</sup> Das BAZL und die MAA koordinieren ihre Tätigkeiten und stellen die Zusammenarbeit sicher.[^3-3]
 
 <sup>3</sup> Das Nähere bestimmt der Bundesrat; insbesondere setzt er die zu erhebenden Gebühren fest.
 
-[^3-1]: Bezeichnung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^3-2]: Dritter Satz aufgehoben durch Ziff. I des BG vom 1. Okt. 2010, mit Wirkung seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^3-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juni 2006 ([AS 2006 1989](https://fedlex.data.admin.ch/eli/oc/2006/305); [BBl 2005 3857](https://fedlex.data.admin.ch/eli/fga/2005/561)).
+[^3-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^3-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^3-3]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 1*a* *.*Internationale Vereinbarungen
 
@@ -252,7 +259,7 @@ Der Bundesrat regelt:
 - a. unter welchen Voraussetzungen Luftfahrzeuge ausserhalb von Flugplätzen abfliegen oder landen dürfen (Aussenlandung);
 - b. welche Bauten und Anlagen, die Aussenlandungen ermöglichen oder erleichtern, zulässig sind; das Raumplanungs- und das Baurecht sind jedoch einzuhalten.[^8-3]
 
-<sup>3</sup> Aussenlandungen im Gebirge zu Ausbildungs- und Übungszwecken sowie zur Personenbeförderung zu touristischen Zwecken dürfen nur auf Landeplätzen erfolgen, die vom UVEK im Einverständnis mit dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) und den zuständigen kantonalen Behörden bezeichnet werden.[^8-4]
+<sup>3</sup> Aussenlandungen im Gebirge zu Ausbildungs- und Übungszwecken sowie zur Personenbeförderung zu touristischen Zwecken dürfen nur auf Landeplätzen erfolgen, die vom UVEK im Einverständnis mit dem VBS und den zuständigen kantonalen Behörden bezeichnet werden.[^8-4]
 
 <sup>4</sup> Die Zahl solcher Landeplätze ist zu beschränken; es sind Ruhezonen auszuscheiden.
 
@@ -265,7 +272,7 @@ Der Bundesrat regelt:
 [^8-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1971, in Kraft seit 1. Jan. 1974 ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [BBl 1971 I 266](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^8-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Sept. 2014 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2014 1337](https://fedlex.data.admin.ch/eli/oc/2014/285); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^8-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Sept. 2014 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2014 1337](https://fedlex.data.admin.ch/eli/oc/2014/285); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^8-4]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^8-4]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^8-5]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^8-6]: Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den italienischen Text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^8-7]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
@@ -619,12 +626,12 @@ Das BAZL kann über die Organisation des Rettungs- und Bergungsdienstes bei Flug
 
 [^23-1]
 
-<sup>1</sup> Das beteiligte Luftfahrtpersonal, die Organe der Luftpolizei und die Ortsbehörden müssen Unfälle und schwere Vorfälle in der Luftfahrt dem UVEK unverzüglich melden.[^23-2]
+<sup>1</sup> Das beteiligte Luftfahrtpersonal, die Organe der Luftpolizei und die Ortsbehörden müssen Unfälle und schwere Vorfälle in der Zivilluftfahrt dem UVEK und solche in der Militärluftfahrt dem VBS unverzüglich melden.[^23-2]
 
 <sup>2</sup> Die Ortsbehörden sorgen dafür, dass, abgesehen von den notwendigen Rettungs- und Bergungsarbeiten, keine Veränderungen auf der Unfallstelle vorgenommen werden, welche die Untersuchung erschweren könnten.
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 2. Okt. 1959, in Kraft seit 1. Mai 1960 ([AS 1960 357](https://fedlex.data.admin.ch/eli/oc/1960/357_385_371); BBl **1959** I 1396).
-[^23-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^23-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 3. Untersuchung
 
@@ -640,23 +647,28 @@ Das BAZL kann über die Organisation des Rettungs- und Bergungsdienstes bei Flug
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Nov. 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
-### b. Untersuchungskommission
+### b. Untersuchungskommission für die Zivilluftfahrt
+
+[^part1-tit1-chap2-lvlVIII-lvl3-lvlb-1]
+
+[^part1-tit1-chap2-lvlVIII-lvl3-lvlb-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 25
 
 [^25-1]
 
-<sup>1</sup> Zur Durchführung der Untersuchungen setzt der Bundesrat eine ausserparlamentarische Kommission nach den Artikeln 57*a*–57*g* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^25-2] ein.
+<sup>1</sup> Zur Durchführung der Untersuchungen in der Zivilluftfahrt setzt der Bundesrat eine ausserparlamentarische Kommission nach den Artikeln 57*a–*57*g* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^25-2] ein.[^25-3]
 
 <sup>2</sup> Die Kommission besteht aus drei bis fünf unabhängigen Sachverständigen.
 
 <sup>3</sup> Sie ist von den Verwaltungsbehörden unabhängig und verfügt über ein eigenes Sekretariat. Sie ist dem UVEK administrativ zugeordnet.
 
-<sup>4</sup> Der Bundesrat regelt die Organisation der Kommission. Er kann sie mit der Kommission nach Artikel 15*a* des Eisenbahngesetzes vom 20. Dezember 1957[^25-3] zusammenlegen.
+<sup>4</sup> Der Bundesrat regelt die Organisation der Kommission. Er kann sie mit der Kommission nach Artikel 15*a* des Eisenbahngesetzes vom 20. Dezember 1957[^25-4] zusammenlegen.
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^25-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^25-3]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^25-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^25-4]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 
 ### c. Verfahren
 
@@ -704,11 +716,25 @@ Das Sekretariat kann zur Aufklärung des Sachverhalts anordnen:
 [^26a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Nov. 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^26a-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
-#### Art. 26b und 26c
+### e. Untersuchungsstelle für die Militärluftfahrt
 
-[^26b26c-1]
+#### Art. 26b
 
-[^26b26c-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Aufgehoben durch Ziff. I des BG vom 1. Okt. 2010, mit Wirkung seit 1. Nov. 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^26b-1]
+
+<sup>1</sup> Für die Durchführung der Untersuchungen in der Militärluftfahrt ist eine Stelle bei der MAA zuständig.
+
+<sup>2</sup> Für das Verfahren gilt Artikel 26 Absätze 1*–*3 sinngemäss.
+
+<sup>3</sup> Der Bundesrat regelt die Organisation der Stelle, die Einzelheiten des Verfahrens und die Zwangsmassnahmen.
+
+[^26b-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+
+#### Art. 26c
+
+[^26c-1]
+
+[^26c-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Aufgehoben durch Ziff. I des BG vom 1. Okt. 2010, mit Wirkung seit 1. Nov. 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### IX. Gewerbsmässiger Luftverkehr
 
@@ -799,11 +825,12 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>2</sup> Das BAZL erteilt die Konzession, wenn die in den Staatsverträgen festgelegten Voraussetzungen erfüllt sind.
 
-<sup>3</sup> Der Bundesrat regelt die Voraussetzungen, unter denen das UVEK ausländischen Unternehmen Verkehrsrechte erteilen kann, soweit staatsvertragliche Regelungen fehlen. Dabei ist besonders darauf zu achten, dass entsprechendes Gegenrecht gewährt wird.
+<sup>3</sup> Der Bundesrat regelt die Voraussetzungen, unter denen das UVEK[^30-2] ausländischen Unternehmen Verkehrsrechte erteilen kann, soweit staatsvertragliche Regelungen fehlen. Dabei ist besonders darauf zu achten, dass entsprechendes Gegenrecht gewährt wird.
 
 <sup>4</sup> Beim Abschluss von bilateralen und multilateralen Abkommen strebt der Bund die Mehrfachbezeichnung (multiple designation) an.
 
 [^30-1]: Fassung gemäss Ziff. I des BG vom 26. Juni 1998, in Kraft seit 15. Nov. 1998 ([AS 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [BBl 1997 III 1181](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^30-2]: Bezeichnung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 
 ### 3. Gemeinsame Bestimmungen
 
@@ -1375,11 +1402,12 @@ Der Flughafenhalter berücksichtigt bei der Festlegung der Gebühren namentlich 
 
 [^40-1]
 
-<sup>1</sup> Der Bundesrat regelt den Flugsicherungsdienst.
+<sup>1</sup> Der Bundesrat regelt den zivilen und den militärischen Flugsicherungsdienst.[^40-2]
 
 <sup>2</sup> Die räumliche Abgrenzung der Flugsicherungsgebiete ist nicht an die Landesgrenzen gebunden.
 
 [^40-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 1*a*. Luftfahrtdaten
 
@@ -1415,9 +1443,10 @@ Die Gesellschaft muss die folgenden Anforderungen erfüllen:
 
 <sup>3</sup> Sie muss den zivilen und den militärischen Flugsicherungsdienst aufeinander abstimmen.
 
-<sup>4</sup> Sie untersteht der Aufsicht durch das BAZL.
+<sup>4</sup> Der zivile Flugsicherungsdienst untersteht der Aufsicht durch das BAZL. Der militärische Flugsicherungsdienst untersteht der Aufsicht durch die MAA.[^40abis-2]
 
 [^40abis-1]: Ursprünglich: Art. 40*a*. Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40abis-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 3. Zusammenarbeit mit anderen Unternehmen
 
@@ -1815,6 +1844,18 @@ Ein Luftfahrzeug wird im schweizerischen Luftfahrzeugregister nur eingetragen, w
 
 Die im schweizerischen Luftfahrzeugregister eingetragenen Luftfahrzeuge gelten als schweizerische Luftfahrzeuge.
 
+### II*a*. Register für Militärluftfahrzeuge
+
+#### Art. 55a
+
+[^55a-1]
+
+<sup>1</sup> Die MAA führt ein separates Register für Militärluftfahrzeuge.
+
+<sup>2</sup> Der Bundesrat erlässt die näheren Vorschriften über die Voraussetzungen für die Eintragung in das Register sowie über den Inhalt, die Änderung und die Löschung von Einträgen.
+
+[^55a-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+
 ### III. Bescheinigungen
 
 #### Art. 56
@@ -1883,21 +1924,22 @@ Das BAZL bescheinigt für die im schweizerischen Luftfahrzeugregister eingetrage
 
 <sup>1</sup>
 
-Folgende Personen bedürfen zur Ausübung ihrer Tätigkeit einer Erlaubnis des BAZL:
+Folgende Personen bedürfen zur Ausübung ihrer Tätigkeit in der Zivilluftfahrt einer Erlaubnis des BAZL beziehungsweise in der Militärluftfahrt einer Erlaubnis der MAA:[^60-1]
 
 - a. die Führer von Luftfahrzeugen;
 - b. das zur Führung eines Luftfahrzeuges erforderliche Hilfspersonal, insbesondere Navigatoren, Bordfunker und Bordmechaniker;
 - c. Personen, die Luftfahrtpersonal ausbilden;
-- d. das Flugsicherungspersonal.[^60-1]
+- d. das Flugsicherungspersonal.[^60-2]
 
-<sup>1bis</sup> Die Erlaubnis wird befristet.[^60-2]
+<sup>1bis</sup> Die Erlaubnis wird befristet.[^60-3]
 
 <sup>2</sup> Der Bundesrat bestimmt, welche Kategorien des übrigen Luftfahrtpersonals für die Ausübung ihrer Tätigkeit einer Erlaubnis bedürfen.
 
 <sup>3</sup> Er erlässt die Vorschriften über die Erteilung, die Erneuerung und den Entzug der Erlaubnis.
 
-[^60-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^60-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^60-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^60-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^60-3]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### II. …
 
@@ -2620,13 +2662,13 @@ Die Bestimmungen der Fernmeldegesetzgebung bleiben vorbehalten.
 
 <sup>2</sup> Die Flugplatzhalter sind zur Bereitstellung der für die Zollabfertigung notwendigen Räume verpflichtet.
 
-### III. Anwendung der Bestimmungen für die zivile Luftfahrt auf die militärische Luftfahrt
+### III. Militärluftfahrt
 
-[^part4-lvlIII-1]
+### 1. Anwendbarkeit der Bestimmungen für die Zivilluftfahrt auf die Militärluftfahrt
 
-[^part4-lvlIII-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^part4-lvlIIIa-lvl1-1]
 
-### 1. Im Allgemeinen
+[^part4-lvlIIIa-lvl1-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 106
 
@@ -2634,13 +2676,24 @@ Die Bestimmungen der Fernmeldegesetzgebung bleiben vorbehalten.
 
 <sup>2</sup> Der Bundesrat legt fest, welche Bestimmungen für die zivile Luftfahrt aus Gründen der Flugsicherheit auch auf die militärische Luftfahrt anwendbar sind.[^106-1]
 
-[^106-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+<sup>3</sup> Über die Beachtung der im Interesse der Verkehrssicherheit aufgestellten Verkehrsregeln und der Signalordnung im Militärflugbetrieb trifft die MAA im Einvernehmen mit dem BAZL die erforderlichen Anordnungen. Soweit solche Regeln durch von der Schweiz abgeschlossene zwischenstaatliche Vereinbarungen festgelegt werden, sind sie auch im Militärflugbetrieb ohne Weiteres verbindlich.[^106-2]
 
-### 2. Verkehrsregeln und Signalordnung
+[^106-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^106-2]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+
+### 2. Besondere Regelungen für die Militärluftfahrt
 
 #### Art. 107
 
-Über die Beachtung der im Interesse der Verkehrssicherheit aufgestellten Verkehrsregeln und der Signalordnung im Militärflugbetrieb trifft die zuständige Abteilung des VBS im Einvernehmen mit dem BAZL die erforderlichen Anordnungen. Soweit solche Regeln durch von der Schweiz abgeschlossene zwischenstaatliche Vereinbarungen festgelegt werden, sind sie auch im Militärflugbetrieb ohne weiteres verbindlich.
+[^107-1]
+
+Der Bundesrat regelt für die Militärluftfahrt:
+
+- a. die Vorgaben für Luftfahrtsysteme und Infrastrukturen;
+- b. den Flugbetrieb;
+- c. das Sicherheitsmanagement.
+
+[^107-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### III*a*. Datenschutz
 
