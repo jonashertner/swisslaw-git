@@ -4,13 +4,13 @@ number: "122.515"
 title: Verordnung über die Integration der ausländischen Bevölkerung
 short: IntegrationsV
 language: de
-version: 2020-09-01
-valid_until: 2023-07-31
-version_adopted: 2020-06-03
+version: 2023-08-01
+valid_until: 2025-12-31
+version_adopted: 2023-05-17
 adopted: 2009-01-14
 in_force: 2009-03-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/122.515"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2866/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3561/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2866/pdf_file"
 
 (IntegrationsV)
 
-Vom 14.01.2009 (Stand 01.09.2020)
+Vom 14.01.2009 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -78,7 +78,7 @@ beschliesst:
 
 **Beiträge an Gemeinden**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport (BKS) kann Gemeinden Beiträge an die Kosten von Pilotprojekten der Deutschförderung vor dem Kindergarten für Kinder mit unzureichenden Deutschkenntnissen an zwei Halbtagen pro Woche in den Schuljahren 2021/22 bis 2023/24 ausrichten.
+<sup>1</sup> Das Departement Bildung, Kultur und Sport (BKS) kann Gemeinden Beiträge an die Kosten von Pilotprojekten der Deutschförderung vor dem Kindergarten für Kinder mit unzureichenden Deutschkenntnissen an zwei Halbtagen pro Woche ausrichten.
 
 <sup>2</sup> Beitragsberechtigt sind Pilotprojekte, die alltagsintegriert in einer Kindertagesstätte, Spielgruppe oder Tagesfamilie an mindestens zwei Halbtagen pro Woche im Schuljahr vor dem Kindergarteneintritt stattfinden.
 
@@ -181,6 +181,8 @@ beschliesst:
 **Publikation und Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung ist in der Gesetzessammlung zu publizieren. Sie tritt am 1. März 2009 in Kraft.
+
+<sup>2</sup> Die §§ 6a–6d gelten bis 31. Dezember 2025.
 
 Aarau, 14. Januar 2009
 
