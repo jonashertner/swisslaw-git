@@ -4,13 +4,12 @@ number: "432.213.15"
 title: "Ordonnance de Direction concernant le Plan d'études romand et les dispositions générales complétant le Plan d'études romand"
 short: OD PER
 language: fr
-version: 2021-11-01
-valid_until: 2023-07-31
-version_adopted: 2021-09-10
+version: 2023-08-01
+version_adopted: 2023-04-28
 adopted: 2019-05-31
 in_force: 2019-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.213.15"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2377/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2834/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2377/pdf_file"
 
 (OD PER)
 
-du 31.05.2019 (état au 01.11.2021)
+du 31.05.2019 (état au 01.08.2023)
 
 La Direction de l'instruction publique du canton de Berne,
 
@@ -72,6 +71,24 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance de Direction entre en vigueur le 1<sup>er</sup> août 2019.
+
+## T1 Dispositions transitoires de la modification du 28 avril 2023
+
+#### Art. T1-1
+
+<sup>1</sup> Le plan d'études Éducation numérique est appliqué comme suit:
+
+- a à partir du 1<sup>er</sup> août 2023 pour les classes de 7<sup>e</sup> et 8<sup>e</sup>,
+- b à partir du 1<sup>er</sup> août 2024 pour les classes de 5<sup>e</sup> et 6<sup>e</sup>,
+- c à partir du 1<sup>er</sup> août 2025 pour les classes de 3<sup>e</sup>, 4<sup>e</sup>, 9<sup>e</sup>, 10<sup>e</sup> et 11<sup>e</sup>, et
+- d à partir du 1<sup>er</sup> août 2026 pour les classes de 1<sup>re</sup> et 2<sup>e</sup>.
+
+<sup>2</sup> L'annexe 3 des dispositions générales complétant le Plan d'études romand (plan d'études cantonal pour l'éducation numérique) n'est plus appliquée comme suit:
+
+- a dès le 1<sup>er</sup> août 2023 pour les classes de 7<sup>e</sup> et 8<sup>e</sup>,
+- b dès le 1<sup>er</sup> août 2024 pour les classes de 5<sup>e</sup> et 6<sup>e</sup>,
+- c dès le 1<sup>er</sup> août 2025 pour les classes de 3<sup>e</sup>, 4<sup>e</sup>, 9<sup>e</sup>, 10<sup>e</sup> et 11<sup>e</sup>, et
+- d dès le 1<sup>er</sup> août 2026 pour les classes de 1<sup>re</sup> et 2<sup>e</sup>.
 
 ## A1 Annexe 1: Plan d'études romand (PER)
 
@@ -127,23 +144,35 @@ la présidente: Elisabeth Baume-Schneider
 
 le secrétaire: Olivier Maradan
 
+#### Art. A1-2a
+
+**Modification du 18 mars 2021**
+
+<sup>1</sup> La Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP),
+
+considérant l'article 7 de la Convention scolaire romande,
+
+et suite aux consultations menées en 2019 et 2020,
+
+décide:
+
+La version finale du plan d'études Éducation numérique est adoptée.
+
+Lausanne, le 18 mars 2021
+
+Au nom de la CIIP,
+
+le président: Jean-Pierre Siggen
+
+la secrétaire: Pascale Marro
+
 #### Art. A1-3
 
 **PER**
 
 <sup>1</sup> Conformément à l'article 5 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^A13-1], le présent acte législatif est publié dans le Recueil officiel des lois bernoises sous la forme d'un renvoi.
 
-Il peut être obtenu à l'adresse suivante:
-
-Editions scolaires – Schulverlag plus AG
-
-Güterstrasse 13
-
-3008 Berne
-
-et consulté sur le site de la Direction de l'instruction publique et de la culture à l'adresse:
-
-[www.bkd.be.ch](https://www.bkd.be.ch) &gt; Ecole obligatoire &gt; Comeo
+Il est disponible sur Internet à l'adresse [https://www.plandetudes.ch](https://www.plandetudes.ch).
 
 [^A13-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
 
@@ -151,21 +180,25 @@ et consulté sur le site de la Direction de l'instruction publique et de la cult
 
 #### Art. A2-1
 
+**Première version**
+
 <sup>1</sup> Conformément à l'article 5 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^A21-1], le présent acte législatif est publié dans le Recueil officiel des lois bernoises sous la forme d'un renvoi.
 
-Il peut être obtenu à l'adresse suivante:
+Il est disponible sur Internet à l'adresse:
 
-Editions scolaires – Schulverlag plus AG
-
-Güterstrasse 13
-
-3008 Berne
-
-et consulté sur le site de la Direction de l'instruction publique et de la culture à l'adresse:
-
-[www.bkd.be.ch](https://www.bkd.be.ch) &gt; Ecole obligatoire &gt; Comeo
+[https://www.bkd.be.ch](https://www.bkd.be.ch) &gt; Thèmes &gt; Formation &gt; École obligatoire y compris école enfantine &gt; École obligatoire y compris école enfantine &gt; Enseignement à l'école obligatoire &gt; Informations complémentaires sur le Plan d'études romand &gt; Dispositions générales complétant le Plan d'études romand (PER)
 
 [^A21-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
+
+#### Art. A2-2
+
+**Modification du 28 avril 2023**
+
+<sup>1</sup> La modification du 28 avril 2023 des dispositions générales complétant le Plan d'études romand n'est publiée que sous la forme de renvoi.
+
+Elle est disponible sur Internet à l'adresse:
+
+[https://www.bkd.be.ch](https://www.bkd.be.ch) &gt; Thèmes &gt; Formation &gt; École obligatoire y compris école enfantine &gt; École obligatoire y compris école enfantine &gt; Enseignement à l'école obligatoire &gt; Informations complémentaires sur le Plan d'études romand &gt; Dispositions générales complétant le Plan d'études romand (PER).
 
 Berne, le 31 mai 2019
 
