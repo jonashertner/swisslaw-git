@@ -4,13 +4,13 @@ number: "311.311"
 title: Regionales Schulabkommen Zentralschweiz
 short: RSZ
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2020-02-09
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-02-09
 adopted: 2011-05-19
 in_force: 2012-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/311.311"
-pdf: "https://gesetze.nw.ch/api/de/versions/1021/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1118/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1021/pdf_file"
 
 (RSZ)
 
-vom 19.05.2011 (Stand 01.08.2022)
+vom 19.05.2011 (Stand 01.08.2023)
 
 Die Vereinbarungskantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug treffen folgendes Abkommen:
 
@@ -254,7 +254,7 @@ Die Vereinbarungskantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug treffe
 <tr><th>Ausbildungstyp</th><th>Beitrag pro Schuljahr[^A11-3]</th><th>Anwendbare Wohnsitzregelung</th></tr>
 <tr><td>Fachschulen und Höhere Fachschulen, Vollzeitausbildungen</td><td>11'330.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
 <tr><td>Fachschulen und Höhere Fachschulen, Teilzeitausbildungen je Jahreswochenlektion</td><td>380.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
-<tr><td>Pädagogische Hochschulen Luzern und Zug: Diplomerweiterungsstudien (Erwerb einer Lehrbefähigung für ein zusätzliches Fach) je ECTS-Punkt</td><td>Je ECTS-Punkt 1/60 von 25'100.–</td><td>Interkantonale Fachhochschulvereinb</td></tr>
+<tr><td>Pädagogische Hochschulen Luzern und Zug: Diplomerweiterungsstudien (Erwerb einer Lehrbefähigung für ein zusätzliches Fach) je ECTS-Punkt</td><td>Je ECTS-Punkt 1/60 von 25'300.–</td><td>Interkantonale Fachhochschulvereinbarung</td></tr>
 </table>
 
 [^A11-1]: Bei einer Abrechnung nach Semestern wird 50 Prozent des Beitrags pro Schuljahr in Rechnung gestellt
