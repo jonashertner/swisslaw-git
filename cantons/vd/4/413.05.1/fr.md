@@ -4,7 +4,7 @@ number: "413.05.1"
 title: "RÈGLEMENT du 06.07.2022 de l'École de culture générale (RECG)"
 short: RECG
 language: fr
-version: 2022-08-01
+version: 2023-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.05.1?id=e79faf12-a2f0-4ff0-ac3d-93b768e4d711"
 ---
 
@@ -147,7 +147,7 @@ arrête
 
 **Nombre de notes [^8-1]**
 
-<sup>1</sup> Le nombre minimum de notes pour établir la note annuelle d'une discipline correspond au nombre de périodes d'enseignement hebdomadaires dans la discipline considérée, plus 1.
+<sup>1</sup> Le nombre minimum de notes pour établir la note annuelle d'une discipline correspond, en principe, au nombre de périodes d'enseignement hebdomadaires dans la discipline considérée, plus 1.
 
 <sup>2</sup> Dans les disciplines incluant des travaux pratiques, une note de travaux pratiques au moins doit être attribuée.
 
