@@ -4,13 +4,13 @@ number: "425.100"
 title: Verordnung über die Organisation der Mittelschulen mit kantonaler Trägerschaft
 short: "Mittelschulorganisationsverordnung, MSOV"
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-02-22
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-05-30
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3238/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3238/pdf_file"
 
 (Mittelschulorganisationsverordnung, MSOV)
 
-Vom 22.02.2022 (Stand 01.08.2022)
+Vom 22.02.2022 (Stand 01.08.2023)
 
 Gestützt auf Art. 20 Abs. 1 des Mittelschulgesetzes[^ingress-1]
 
@@ -63,13 +63,11 @@ von der Regierung erlassen am 22. Februar 2022
 
 **Mitglieder der Schulleitung, Stellenumfang, Arbeitszeiterfassung**
 
-<sup>1</sup> Vorsitzende oder Vorsitzender der Schulleitung gemäss Artikel 63 Absatz 1 des Personalgesetzes[^4-1] ist die Rektorin oder der Rektor. Weitere Mitglieder der Schulleitung sind die Stellvertreterin oder der Stellvertreter der Rektorin beziehungsweise des Rektors (Konrektorin oder Konrektor) und in der Regel mindestens eine weitere Person (Prorektorin oder Prorektor).
+<sup>1</sup> Vorsitzende oder Vorsitzender der Schulleitung ist die Rektorin oder der Rektor. Weitere Mitglieder der Schulleitung sind die Stellvertreterin oder der Stellvertreter der Rektorin beziehungsweise des Rektors (Konrektorin oder Konrektor) und in der Regel mindestens eine weitere Person (Prorektorin oder Prorektor).
 
 <sup>2</sup> Der Stellenumfang für die Schulleitung sowie die Zusammensetzung der Schulleitung pro Mittelschule mit kantonaler Trägerschaft sind in Anhang 1 geregelt.
 
 <sup>3</sup> Die Mitglieder der Schulleitung erfassen ihre Arbeitszeit gemäss der kantonalen Personalgesetzgebung. Sämtliche im Zusammenhang mit der Unterrichtstätigkeit stehenden Arbeiten, die Vertretung der Schule in Arbeitsgruppen und Kommissionen (regional und überregional) sowie die Erfüllung von Aufträgen für das Amt für Höhere Bildung (Amt) sind Bestandteil des Arbeitspensums.
-
-[^4-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 5
 
@@ -141,9 +139,12 @@ von der Regierung erlassen am 22. Februar 2022
 
 **Anstellung mit Bandbreitenvertrag**
 
-<sup>1</sup> Nach Massgabe der betrieblichen Bedürfnisse werden Lehrpersonen befristet oder unbefristet mit einem Bandbreitenvertrag angestellt.
+<sup>1</sup> Nach Massgabe der betrieblichen Bedürfnisse werden Lehrpersonen befristet oder unbefristet mit einem Bandbreitenvertrag angestellt. Die Probezeit dauert sechs Monate.
 
-<sup>2</sup> Bandbreitenverträge für eine «befristete Anstellung» beginnen am 1. August und enden am 31. Juli. Die Kündigungsfrist beträgt im ersten Anstellungsjahr einen Monat, im zweiten und dritten Anstellungsjahr vier Monate.
+<sup>2</sup> Bandbreitenverträge für eine «befristete Anstellung» beginnen am 1. August und enden am 31. Juli. Sie können per 31. Januar oder per 31. Juli gekündigt werden. Die Kündigungsfrist beträgt:
+
+- a) während der Probezeit: einen Monat;
+- b) nach der Probezeit: vier Monate.
 
 <sup>3</sup> Eine Anstellung mit einem Bandbreitenvertrag ohne Endzeitpunkt wird als «unbefristete Anstellung» bezeichnet. Bandbreitenverträge für eine unbefristete Anstellung beginnen in der Regel am 1. August und können per 31. Januar oder per 31. Juli gekündigt werden. Die Kündigungsfrist beträgt vier Monate.
 
@@ -163,7 +164,7 @@ von der Regierung erlassen am 22. Februar 2022
 
 **Jährliches Arbeitspensum**
 
-<sup>1</sup> Das jährliche Arbeitspensum für Lehrpersonen mit einer Anstellung von 100 Prozent beträgt 2016 Arbeitsstunden. Es berechnet sich aus dem Pensensaldo des vorgehenden Schuljahrs, dem Normpensum sowie den Zusatzaufgaben und umfasst 26 Unterrichtslektionen zu 40 Minuten während 38 Unterrichtswochen bei einem Arbeitspensum von 100 Prozent.
+<sup>1</sup> Das jährliche Arbeitspensum für Lehrpersonen mit einer Anstellung von 100 Prozent beträgt 1981,50 Arbeitsstunden. Es berechnet sich aus dem Pensensaldo des vorgehenden Schuljahrs, dem Normpensum sowie den Zusatzaufgaben und umfasst 26 Unterrichtslektionen zu 40 Minuten während 38 Unterrichtswochen bei einem Arbeitspensum von 100 Prozent.
 
 <sup>2</sup> Im jährlichen Arbeitspensum von 100 Prozent sind Zusatzaufgaben für schulspezifische Aufträge im Umfang von 60 Sollstunden für Fachlehrpersonen II, für Mittelschullehrpersonen I in der Funktionsklasse 20 und für Mittelschullehrpersonen II in der Funktionsklasse 21 enthalten.
 
@@ -264,19 +265,22 @@ von der Regierung erlassen am 22. Februar 2022
 
 #### Art. 24
 
-**Altersentlastung**
+**Individuelle Ferienanpassung**
 
-<sup>1</sup> Für Lehrpersonen, welche vor dem 1. August das 58. Altersjahr vollendet haben, sowie für Lehrpersonen, welche vor dem 1. August das 61. Altersjahr vollendet haben, wird folgende Altersentlastung in Form einer Pensenanpassung gewährt:
+<sup>1</sup> Für den vier Wochen übersteigenden Ferienanspruch wird den Lehrpersonen folgende Pensenanpassung in Form einer individuellen Ferienanpassung inklusive Normzuschlag gewährt:
 
 <table>
 <tr><th></th><th>Jährliches Arbeitspensum: 26 Jahreslektionen</th></tr>
-<tr><td>Altersentlastung ab vollendetem 58. Altersjahr</td><td>1,500</td></tr>
-<tr><td>Altersentlastung ab vollendetem 61. Altersjahr</td><td>3,500</td></tr>
+<tr><td>Bis und mit dem Kalenderjahr, in dem die oder der Mitarbeitende 57 Jahre alt wird</td><td>0,520</td></tr>
+<tr><td>Bis und mit dem Kalenderjahr, in dem die oder der Mitarbeitende 60 Jahre alt wird</td><td>1,560</td></tr>
+<tr><td>Bis und mit dem Kalenderjahr, in dem die oder der Mitarbeitende pensioniert wird</td><td>3,640</td></tr>
 </table>
 
-<sup>2</sup> Die Altersentlastung wird direkt proportional zum jährlichen Arbeitspensum der Lehrperson berechnet.
+<sup>1<sup>bis</sup></sup> Die nächsthöhere individuelle Ferienanpassung wird in dem Schuljahr gewährt, welches im Kalenderjahr der massgebenden Alterserreichung beginnt.
 
-<sup>3</sup> Der Pensensaldo aus dem letzten Jahr und die Pensenanpassung für den Dienstaltersurlaub werden nicht in die Berechnung der Altersentlastung miteinbezogen.
+<sup>2</sup> Die individuelle Ferienanpassung wird direkt proportional zum jährlichen Arbeitspensum der Lehrperson berechnet.
+
+<sup>3</sup> Der Pensensaldo aus dem letzten Jahr und die Pensenanpassung für den Dienstaltersurlaub werden nicht in die Berechnung der individuellen Ferienanpassung miteinbezogen.
 
 #### Art. 25
 

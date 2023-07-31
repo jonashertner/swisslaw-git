@@ -4,13 +4,13 @@ number: "425.100"
 title: "Ordinanza concernente l'organizzazione delle scuole medie superiori con ente responsabile cantonale"
 short: "Ordinanza sull'organizzazione delle scuole medie superiori, OOSMS"
 language: it
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-02-22
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-05-30
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3238/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3323/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3238/pdf_file"
 
 (Ordinanza sull'organizzazione delle scuole medie superiori, OOSMS)
 
-del 22.02.2022 (stato 01.08.2022)
+del 22.02.2022 (stato 01.08.2023)
 
 emanata dal Governo il 22 febbraio 2022
 
@@ -63,13 +63,11 @@ visto l'art. 20 cpv. 1 della legge sulle scuole medie superiori[^ingress-1]
 
 **Membri della direzione scolastica, volume d'impiego, rilevamento dell'orario di lavoro**
 
-<sup>1</sup> Il rettore è presidente della direzione scolastica conformemente all'articolo 63 capoverso 1 della legge sul personale[^4-1]. Gli altri membri della direzione scolastica sono il supplente del rettore (corettore) e di norma almeno un'altra persona (prorettore).
+<sup>1</sup> Il rettore è presidente della direzione scolastica. Gli altri membri della direzione scolastica sono il supplente del rettore (corettore) e di norma almeno un'altra persona (prorettore).
 
 <sup>2</sup> Il volume d'impiego per la direzione scolastica nonché la composizione della direzione scolastica per ciascuna scuola media superiore con ente responsabile cantonale sono disciplinati nell'allegato 1.
 
 <sup>3</sup> I membri della direzione scolastica rilevano il loro orario di lavoro in conformità alla legislazione cantonale sul personale. Tutti i lavori in relazione all'attività di insegnamento, la rappresentanza della scuola in seno a gruppi di lavoro e commissioni (regionali e sovraregionali) nonché l'adempimento di incarichi per l'Ufficio della formazione medio-superiore (Ufficio) sono parte integrante del volume di lavoro.
-
-[^4-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 5
 
@@ -141,9 +139,12 @@ visto l'art. 20 cpv. 1 della legge sulle scuole medie superiori[^ingress-1]
 
 **Impiego con contratto variabile**
 
-<sup>1</sup> A seconda delle esigenze d'esercizio, gli insegnanti vengono assunti a tempo determinato o indeterminato con un contratto variabile.
+<sup>1</sup> A seconda delle esigenze d'esercizio, gli insegnanti vengono assunti a tempo determinato o indeterminato con un contratto variabile. Il periodo di prova dura sei mesi.
 
-<sup>2</sup> I contratti variabili per un «impiego a tempo determinato» iniziano il 1° agosto e terminano il 31 luglio. Il termine di disdetta ammonta a un mese nel primo anno d'impiego, a quattro mesi nel secondo e nel terzo anno d'impiego.
+<sup>2</sup> I contratti variabili per un «impiego a tempo determinato» iniziano il 1° agosto e terminano il 31 luglio. Essi possono essere disdetti con effetto al 31 gennaio o al 31 luglio. Il termine di disdetta ammonta a:
+
+- a) durante il periodo di prova: un mese;
+- b) dopo il periodo di prova: quattro mesi.
 
 <sup>3</sup> Un impiego con un contratto variabile senza scadenza viene definito «impiego a tempo indeterminato». I contratti variabili per un impiego a tempo indeterminato iniziano di norma il 1° agosto e possono essere disdetti con effetto al 31 gennaio o al 31 luglio. Il termine di disdetta è di quattro mesi.
 
@@ -163,7 +164,7 @@ visto l'art. 20 cpv. 1 della legge sulle scuole medie superiori[^ingress-1]
 
 **Volume di lavoro annuo**
 
-<sup>1</sup> Il volume di lavoro annuo per insegnanti impiegati al 100 per cento ammonta a 2016 ore di lavoro. Esso viene calcolato sulla base del saldo del volume di lavoro dell'anno scolastico precedente, del volume di lavoro standard nonché dei compiti supplementari e comprende 26 lezioni da 40 minuti durante 38 settimane di lezioni in caso di volume di lavoro del 100 per cento.
+<sup>1</sup> Il volume di lavoro annuo per insegnanti impiegati al 100 per cento ammonta a 1981,50 ore di lavoro. Esso viene calcolato sulla base del saldo del volume di lavoro dell'anno scolastico precedente, del volume di lavoro standard nonché dei compiti supplementari e comprende 26 lezioni da 40 minuti durante 38 settimane di lezioni in caso di volume di lavoro del 100 per cento.
 
 <sup>2</sup> Nel volume di lavoro annuo pari al 100 per cento sono inclusi compiti supplementari per incarichi specifici in relazione alla scuola in misura di 60 ore indicative per insegnanti specialisti II, per insegnanti di scuola media superiore I nella classe di funzione 20 e per insegnanti di scuola media superiore II nella classe di funzione 21.
 
@@ -264,19 +265,22 @@ visto l'art. 20 cpv. 1 della legge sulle scuole medie superiori[^ingress-1]
 
 #### Art. 24
 
-**Sgravio per anzianità**
+**Adeguamento individuale delle vacanze**
 
-<sup>1</sup> Agli insegnanti che prima del 1° agosto hanno compiuto 58 anni nonché agli insegnanti che prima del 1° agosto hanno compiuto 61 anni viene concesso lo sgravio per anzianità seguente sotto forma di adeguamento del volume di lavoro:
+<sup>1</sup> Per il diritto a vacanze che supera le quattro settimane, agli insegnanti viene concesso il seguente adeguamento del volume di lavoro sotto forma di adeguamento individuale delle vacanze, incluso il supplemento standard:
 
 <table>
 <tr><th></th><th>Volume di lavoro annuo: 26 lezioni settimanali su base annua</th></tr>
-<tr><td>Sgravio per anzianità a partire dai 58 anni compiuti</td><td>1,500</td></tr>
-<tr><td>Sgravio per anzianità a partire dai 61 anni compiuti</td><td>3,500</td></tr>
+<tr><td>Fino all'anno civile compreso nel quale il collaboratore compie 57 anni</td><td>0,520</td></tr>
+<tr><td>Fino all'anno civile compreso nel quale il collaboratore compie 60 anni</td><td>1,560</td></tr>
+<tr><td>Fino all'anno civile compreso nel quale il collaboratore va in pensione</td><td>3,640</td></tr>
 </table>
 
-<sup>2</sup> Lo sgravio per anzianità viene calcolato in proporzione diretta del volume di lavoro annuo dell'insegnante.
+<sup>1<sup>bis</sup></sup> L'adeguamento individuale delle vacanze immediatamente successivo viene concesso nell'anno scolastico che inizia nell'anno civile in cui viene raggiunta l'età determinante.
 
-<sup>3</sup> Il saldo del volume di lavoro relativo all'anno precedente e l'adeguamento del volume di lavoro per il congedo per anzianità di servizio non vengono considerati nel calcolo dello sgravio per anzianità.
+<sup>2</sup> L'adeguamento individuale delle vacanze viene calcolato in proporzione diretta del volume di lavoro annuo dell'insegnante.
+
+<sup>3</sup> Il saldo del volume di lavoro relativo all'anno precedente e l'adeguamento del volume di lavoro per il congedo per anzianità di servizio non vengono considerati nel calcolo dell'adeguamento individuale delle vacanze.
 
 #### Art. 25
 

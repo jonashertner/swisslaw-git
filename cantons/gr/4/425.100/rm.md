@@ -4,13 +4,13 @@ number: "425.100"
 title: "Ordinaziun davart l'organisaziun da las scolas medias purtadas dal chantun"
 short: "Ordinaziun davart l'organisaziun da las scolas medias, OOSM"
 language: rm
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-02-22
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-05-30
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3238/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3238/pdf_file"
 
 (Ordinaziun davart l'organisaziun da las scolas medias, OOSM)
 
-dals 22-02-2022 (versiun dals 01-08-2022)
+dals 22-02-2022 (versiun dals 01-08-2023)
 
 Sa basond sin l'art. 20 al. 1 da la Lescha davart las scolas medias[^ingress-1]
 
@@ -63,13 +63,11 @@ relaschada da la Regenza ils 22 da favrer 2022
 
 **Commembras e commembers da la direcziun da la scola, grad d'occupaziun, registraziun dal temp da lavur**
 
-<sup>1</sup> Parsura da la direcziun da la scola tenor l'artitgel 63 alinea 1 da la Lescha da persunal[^4-1] è la rectura u il rectur. Ulteriuras commembras e commembers da la direcziun da scola èn la substituta u il substitut da la rectura u dal rectur (conrectura u conrectur) e per regla almain in'ulteriura persuna (prorectura u prorectur).
+<sup>1</sup> Parsura da la direcziun da la scola è la rectura u il rectur. Ulteriuras commembras e commembers da la direcziun da la scola èn la substituta u il substitut da la rectura u dal rectur (conrectura u conrectur) e per regla almain in'ulteriura persuna (prorectura u prorectur).
 
 <sup>2</sup> Il grad d'occupaziun per la direcziun da la scola sco er la cumposiziun da la direcziun da la scola da mintga scola media purtada dal chantun èn reglads en l'agiunta 1.
 
 <sup>3</sup> Las commembras ed ils commembers da la direcziun da la scola endateschan lur temp da lavur tenor la legislaziun chantunala dal persunal. Tut las lavurs en connex cun l'instrucziun, la represchentaziun da la scola en gruppas da lavur ed en cumissiuns (regiunalas e surregiunalas) sco er l'adempliment d'incumbensas per l'Uffizi per la furmaziun media-superiura (uffizi) èn parts integralas dal pensum da lavur.
-
-[^4-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 5
 
@@ -141,9 +139,12 @@ relaschada da la Regenza ils 22 da favrer 2022
 
 **Engaschament cun in contract cun in pensum variabel**
 
-<sup>1</sup> A norma dals basegns dal manaschi vegnan persunas d'instrucziun engaschadas per ina durada limitada ubain illimitada cun in contract cun in pensum variabel.
+<sup>1</sup> A norma dals basegns dal manaschi vegnan persunas d'instrucziun engaschadas per ina durada limitada ubain illimitada cun in contract cun in pensum variabel. Il temp d'emprova dura 6 mais.
 
-<sup>2</sup> Ils contracts cun in pensum variabel per «engaschaments da durada limitada» cumenzan il 1. d'avust e duran fin ils 31 da fanadur. Il termin da disditga importa 1 mais per l'emprim onn d'engaschament, 4 mais per il segund e per il terz onn d'engaschament.
+<sup>2</sup> Ils contracts cun in pensum variabel per «engaschaments da durada limitada» cumenzan il 1. d'avust e duran fin ils 31 da fanadur. Quests contracts pon vegnir disditgs per ils 31 da schaner u per ils 31 da fanadur. Il termin da disditga importa:
+
+- a) durant il temp d'emprova: 1 mais;
+- b) suenter il temp d'emprova: 4 mais.
 
 <sup>3</sup> In engaschament cun in contract cun in pensum variabel senza termin final vegn designà sco «engaschament da durada illimitada». Contracts cun in pensum variabel per in engaschament da durada illimitada cumenzan per regla il 1. d'avust e pon vegnir disditgs per ils 31 da schaner u per ils 31 da fanadur. Il termin da disditga importa 4 mais.
 
@@ -163,7 +164,7 @@ relaschada da la Regenza ils 22 da favrer 2022
 
 **Pensum da lavur annual**
 
-<sup>1</sup> Il pensum da lavur annual per persunas d'instrucziun cun in engaschament da 100 pertschient importa 2016 uras da lavur. El vegn calculà sin basa dal saldo dal pensum da l'onn da scola precedent, dal pensum da norma sco er da las incumbensas supplementaras e cumpiglia 26 lecziuns d'instrucziun a 40 minutas durant 38 emnas d'instrucziun en cas d'in pensum da 100 pertschient.
+<sup>1</sup> Il pensum da lavur annual per persunas d'instrucziun cun in engaschament da 100 pertschient importa 1981,50 uras da lavur. El vegn calculà sin basa dal saldo dal pensum da l'onn da scola precedent, dal pensum da norma sco er da las incumbensas supplementaras e cumpiglia 26 lecziuns d'instrucziun a 40 minutas durant 38 emnas d'instrucziun en cas d'in pensum da 100 pertschient.
 
 <sup>2</sup> Il pensum da lavur annual da 100 pertschient cuntegna incumbensas supplementaras per incaricas specificas da la scola da 60 uras regularas per persunas d'instrucziun spezialisadas II, per persunas d'instrucziun da scola media I en la classa da funcziun 20 e per persunas d'instrucziun da scola media II en la classa da funcziun 21.
 
@@ -264,19 +265,22 @@ relaschada da la Regenza ils 22 da favrer 2022
 
 #### Art. 24
 
-**Facilitaziun da vegliadetgna**
+**Adattaziun individuala da las vacanzas**
 
-<sup>1</sup> Per las persunas d'instrucziun che han cumplenì il 58. onn da vegliadetgna avant il 1. d'avust sco er per las persunas d'instrucziun che han cumplenì il 61. onn da vegliadetgna avant il 1. d'avust vegn concedida ina facilitaziun da vegliadetgna en furma d'ina adattaziun dal pensum:
+<sup>1</sup> Per il dretg da vacanzas che surpassa 4 emnas vegn concedida a las persunas d'instrucziun la suandanta adattaziun dal pensum en furma d'ina adattaziun individuala da las vacanzas inclusiv in supplement da norma:
 
 <table>
 <tr><th></th><th>Pensum da lavur annual: 26 lecziuns per emna ed onn</th></tr>
-<tr><td>facilitaziun da vegliadetgna a partir dal 58. onn da vegliadetgna cumplenì</td><td>1,500</td></tr>
-<tr><td>facilitaziun da vegliadetgna a partir dal 61. onn da vegliadetgna cumplenì</td><td>3,500</td></tr>
+<tr><td>Fin e cun l'onn chalendar, en il qual la collavuratura u il collavuratur cumplenescha 57 onns</td><td>0,520</td></tr>
+<tr><td>Fin e cun l'onn chalendar, en il qual la collavuratura u il collavuratur cumplenescha 60 onns</td><td>1,560</td></tr>
+<tr><td>Fin e cun l'onn chalendar, en il qual la collavuratura u il collavuratur vegn pensiunà</td><td>3,640</td></tr>
 </table>
 
-<sup>2</sup> La facilitaziun da vegliadetgna vegn calculada en moda directproporziunala al pensum da lavur annual da la persuna d'instrucziun.
+<sup>1<sup>bis</sup></sup> La proxima adattaziun individuala da las vacanzas pli auta vegn concedida en quel onn da scola che cumenza durant l'onn chalendar che la vegliadetgna decisiva vegn cuntanschida.
 
-<sup>3</sup> Il saldo dal pensum da l'ultim onn e l'adattaziun dal pensum per il congedi per onns da lavur na vegnan betg resguardads en la calculaziun da la facilitaziun da vegliadetgna.
+<sup>2</sup> L'adattaziun individuala da las vacanzas vegn calculada en moda directproporziunala al pensum da lavur annual da la persuna d'instrucziun.
+
+<sup>3</sup> Il saldo dal pensum da l'ultim onn e l'adattaziun dal pensum per il congedi per onns da lavur na vegnan betg resguardads en la calculaziun da l'adattaziun individuala da las vacanzas.
 
 #### Art. 25
 
