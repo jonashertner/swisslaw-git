@@ -3,13 +3,13 @@ canton: FR
 number: "433.21"
 title: Studien- und Prüfungsreglement für die Grundausbildung an der Pädagogischen Hochschule Freiburg
 language: de
-version: 2022-03-08
-valid_until: 2023-07-31
-version_adopted: 2022-03-08
+version: 2023-08-01
+valid_until: 2025-07-31
+version_adopted: 2023-01-10
 adopted: 2017-11-28
 in_force: 2017-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/433.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7327/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7773/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7327/pdf_file"
 
 Pädagogische Hochschule, Studien und Prüfungen – R
 
-vom 28.11.2017 (Fassung in Kraft getreten am 08.03.2022)
+vom 28.11.2017 (Fassung in Kraft getreten am 01.08.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -77,11 +77,13 @@ beschliesst:
 
 **Dauer der Ausbildung (Art. 11 Abs. 3 PHFG)**
 
-<sup>1</sup> Die Ausbildungsdauer beträgt grundsätzlich drei Jahre (sechs Semester).
+<sup>1</sup> Die Ausbildungsdauer beträgt grundsätzlich sechs Semester.
 
-<sup>2</sup> Jedes Ausbildungsjahr kann auf zwei Jahre verteilt werden, aber die gesamte Ausbildung darf nicht länger als fünf Jahre dauern.
+<sup>2</sup> Jedes Ausbildungsjahr kann auf zwei Jahre verteilt werden, aber die gesamte Ausbildung darf nicht länger als 12 Semester dauern.
 
-<sup>3</sup> Wenn die Ausbildung die Höchstdauer von fünf Jahren überschreitet, hat dies ein endgültiges Nichtbestehen zur Folge. Ausnahmefälle sind vorbehalten. Der Direktionsrat erlässt die entsprechenden Weisungen.
+<sup>3</sup> Wenn die Ausbildung die Höchstdauer von 12 Semestern überschreitet, hat dies ein endgültiges Nichtbestehen zur Folge.
+
+<sup>4</sup> Auf schriftliches Gesuch einer Studentin oder eines Studenten, die oder der wichtige Gründe geltend macht, kann der Direktionsrat eine Ausnahme von der maximalen Studiendauer gewähren, insbesondere im Falle einer Teilzeitausbildung.
 
 #### Art. 6
 
@@ -273,9 +275,9 @@ beschliesst:
 
 **Validierung des Studienjahres und Ausbildungsunterbruch**
 
-<sup>1</sup> Um in das folgende Ausbildungsjahr übertreten zu können, müssen die Studierenden alle jährlichen ECTS-Kreditpunkte erworben und alle im betreffenden Studienjahr vorgesehenen zertifizierenden Beurteilungen bestanden haben. Andernfalls wird die Dauer des Studiums verlängert.
+<sup>1</sup> Eine Studentin oder ein Student kann von einem Ausbildungsjahr in das nächste übertreten, ohne alle jährlichen ECTS-Kreditpunkte erworben oder die im Ausbildungsjahr vorgesehenen zertifizierenden Beurteilungen bestanden zu haben. Die jährlichen ECTS-Kreditpunkte und die zertifizierenden Beurteilungen des ersten Jahres müssen jedoch bis zum 1. Oktober des dritten Jahres erworben bzw. bestanden worden sein.
 
-<sup>2</sup> Hat eine Studentin oder ein Student die ECTS-Kreditpunkte eines Praktikums oder einer komplexen Aufgabe im Zusammenhang mit einem Praktikum nicht erworben, so kann sie oder er die Ausbildung trotzdem fortsetzen. Daraus kann eine Verlängerung des Studiums resultieren.
+<sup>2</sup> Eine Studentin oder ein Student kann einen freiwilligen Unterbruch der Ausbildung beantragen; die Bedingungen nach Artikel 5 bleiben vorbehalten. Der Antrag muss der Abteilungsleiterin oder dem Abteilungsleiter der Grundausbildung spätestens drei Wochen vor Beginn des betreffenden Semesters übermittelt werden.
 
 ### 4.2 Zertifizierende Beurteilungen während des Studiums
 
@@ -283,7 +285,7 @@ beschliesst:
 
 **Ablauf**
 
-<sup>1</sup> Die zertifizierenden Beurteilungen werden in der Regel von Lehrpersonen durchgeführt. Eine Ausnahme bildet die Validierung der Praktika (Art. 17 Abs. 1 Bst. d). Die Praktika werden von der zuständigen Praktikumslehrperson bewertet.
+<sup>1</sup> Die zertifizierenden Beurteilungen werden in der Regel von Lehrpersonen durchgeführt. Eine Ausnahme bildet die Validierung der Praktika (Art. 17 Abs. 1 Bst. d). Die Praktika werden von den Praktikumslehrpersonen bewertet.
 
 <sup>2</sup> Beim ersten Durchgang einer mündlichen zertifizierenden Beurteilung kann sich das Lehrpersonal von einer Beisitzerin oder einem Beisitzer unterstützen lassen.
 
@@ -305,11 +307,11 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Im Falle eines zweiten Misserfolgs in einer zertifizierenden Beurteilung im Laufe des Studiums kann die Studentin oder der Student diese ein drittes Mal ablegen, ohne die dazugehörige Lehrveranstaltung wiederholen zu müssen. Dies hat jedoch eine Verlängerung des Studiums zur Folge.
+<sup>2</sup> Im Falle eines zweiten Misserfolgs in einer zertifizierenden Beurteilung im Laufe des Studiums kann die Studentin oder der Student diese ein drittes Mal ablegen, ohne die dazugehörige Lehrveranstaltung wiederholen zu müssen.
 
 <sup>3</sup> Für die Validierung der Praktika sind jedoch nur zwei Versuche möglich (Art. 17 Abs. 1 Bst. d). Während der gesamten Dauer der Ausbildung dürfen nur zwei nicht aufeinanderfolgende Praktika wiederholt werden. Ansonsten wird ein endgültiges Nichtbestehen mitgeteilt.
 
-<sup>4</sup> Wer eine Überprüfung der Grundkenntnisse der Partnersprache zum zweiten Mal nicht besteht, muss die Ausbildung während zwei Semestern unterbrechen und ein extern erworbenes, von der HEP-PH FR anerkanntes Zertifikat C1 (mündliches und schriftliches Verständnis sowie mündlicher und schriftlicher Ausdruck) vorweisen. Dies hat eine Verlängerung des Studiums zur Folge.
+<sup>4</sup> Wer eine Überprüfung der Grundkenntnisse der Partnersprache zum dritten Mal nicht besteht, muss am Ende der Ausbildung ein extern erworbenes, von der HEP-PH FR anerkanntes Zertifikat C1 (mündliches und schriftliches Verständnis sowie mündlicher und schriftlicher Ausdruck) vorweisen.
 
 #### Art. 24
 
@@ -323,7 +325,7 @@ beschliesst:
 
 **Ablauf**
 
-<sup>1</sup> Die zertifizierenden Abschlussbeurteilungen werden in der Regel von Lehrpersonen durchgeführt. Eine Ausnahme bildet die Validierung der Praktika (Art. 17 Abs. 2 Bst. e). Die Praktika werden von der zuständigen Praktikumslehrperson bewertet.
+<sup>1</sup> Die zertifizierenden Abschlussbeurteilungen werden in der Regel von Lehrpersonen durchgeführt. Eine Ausnahme bildet die Validierung der Praktika (Art. 17 Abs. 2 Bst. e). Die Praktika werden von den Praktikumslehrpersonen bewertet.
 
 <sup>2</sup> Für die mündlichen zertifizierenden Abschlussbeurteilungen werden Expertinnen oder Experten beigezogen. Eine Beisitzerin oder ein Beisitzer kann ebenfalls anwesend sein. Die Expertin oder der Experte kann jedoch auch die Funktion der Beisitzerin oder des Beisitzers übernehmen.
 
@@ -335,13 +337,15 @@ beschliesst:
 
 **Nichtbestehen**
 
-<sup>1</sup> Besteht eine Studentin oder ein Student eine oder mehrere zertifizierende Abschlussbeurteilungen beim ersten Mal nicht, so kann sie oder er diese wiederholen.
+<sup>1</sup> Besteht eine Studentin oder ein Student eine oder mehrere zertifizierende Abschlussbeurteilungen nicht, so kann sie oder er nur diese wiederholen.
 
 <sup>2</sup> Die Studentin oder der Student kann zur dazu vorgesehenen Prüfungssession erscheinen.
 
-<sup>3</sup> Im Falle eines Misserfolgs in der komplexen Aufgabe Didaktik (Art. 17 Abs. 2 Bst. b) oder in der praktischen Prüfung (Art. 17 Abs. 2 Bst. c) macht die Studentin oder der Student den zweiten Versuch in einer Klasse des 1. oder 2. Zyklus.
+<sup>3</sup> Im Falle eines Misserfolgs in der komplexen Aufgabe Didaktik (Art. 17 Abs. 2 Bst. b) oder einer praktischen Prüfung (Art. 17 Abs. 2 Bst. c) kann die Studentin oder der Student einen erneuten Versuch in einer Klasse des 1. oder 2. Zyklus machen.
 
-<sup>4</sup> Ein zweiter Misserfolg hat ein endgültiges Nichtbestehen zur Folge.
+<sup>4</sup> Ein dritter Misserfolg in der komplexen Aufgabe Erziehungs- und Sozialwissenschaften (Art. 17 Abs. 2 Bst. a), der komplexen Aufgabe Didaktik (Art. 17 Abs. 2 Bst. b) oder der Bachelorarbeit (Art. 17 Abs. 2 Bst. d) hat ein endgültiges Nichtbestehen zur Folge.
+
+<sup>5</sup> Ein zweiter Misserfolg in der praktischen Prüfung (Art. 17 Abs. 2 Bst. c) oder im Abschlusspraktikum (Art. 17 Abs. 2 Bst. e) hat ein endgültiges Nichtbestehen zur Folge.
 
 ### 4.4 Ergebnis
 

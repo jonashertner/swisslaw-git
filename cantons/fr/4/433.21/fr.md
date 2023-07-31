@@ -3,13 +3,13 @@ canton: FR
 number: "433.21"
 title: "Règlement d'études et d'examens de la formation initiale de la Haute Ecole pédagogique Fribourg"
 language: fr
-version: 2022-03-08
-valid_until: 2023-07-31
-version_adopted: 2022-03-08
+version: 2023-08-01
+valid_until: 2025-07-31
+version_adopted: 2023-01-10
 adopted: 2017-11-28
 in_force: 2017-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/433.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7327/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7773/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7327/pdf_file"
 
 Haute Ecole pédagogique, études et examens – R
 
-du 28.11.2017 (version entrée en vigueur le 08.03.2022)
+du 28.11.2017 (version entrée en vigueur le 01.08.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -77,11 +77,13 @@ Arrête:
 
 **Durée de formation (art. 11 al. 3 LHEPF)**
 
-<sup>1</sup> La durée de formation est en principe de trois ans (six semestres).
+<sup>1</sup> La durée de formation est en principe de six semestres.
 
-<sup>2</sup> Chaque année de formation peut être répartie sur deux ans, mais la formation dans son entier ne peut excéder cinq ans.
+<sup>2</sup> Chaque année de formation peut être répartie sur deux ans. La formation dans son entier ne peut excéder douze semestres.
 
-<sup>3</sup> Si la formation excède la durée maximale de cinq ans, un échec définitif est prononcé. Les cas exceptionnels sont réservés. Le conseil de direction adopte les lignes directrices y relatives.
+<sup>3</sup> Si la formation excède la durée maximale de douze semestres, un échec définitif est prononcé.
+
+<sup>4</sup> En cas de demande écrite de la part d'un étudiant ou d'une étudiante invoquant de justes motifs, le Conseil de direction peut lui accorder une dérogation à la durée maximale des études, en particulier en cas de formation à temps partiel.
 
 #### Art. 6
 
@@ -181,7 +183,7 @@ Arrête:
 
 <sup>4</sup> La pratique professionnelle comprend au moins un stage dans la langue partenaire.
 
-<sup>5</sup> Pendant les stages, l'étudiant ou l'étudiante est accompagné-e par un formateur ou une formatrice de terrain (maître ou maîtresse de stage).
+<sup>5</sup> Pendant les stages, l'étudiant ou l'étudiante est accompagné-e par un formateur ou une formatrice de terrain.
 
 <sup>6</sup> Le conseil de direction adopte les lignes directrices y relatives.
 
@@ -273,9 +275,9 @@ Arrête:
 
 **Validation de l'année d'études et interruption de formation**
 
-<sup>1</sup> Pour le passage d'une année de formation à la suivante, l'étudiant ou l'étudiante doit avoir obtenu tous les crédits ECTS annuels et avoir réussi les évaluations certificatives liées à l'année de formation, sans quoi la durée des études est prolongée.
+<sup>1</sup> Un étudiant ou une étudiante peut passer d'une année de formation à la suivante sans avoir obtenu tous les crédits ECTS annuels ou avoir réussi les évaluations certificatives liées à l'année de formation. Toutefois, les crédits ECTS annuels et les évaluations certificatives de la première année doivent avoir été réussis au plus tard le 1<sup>er</sup> octobre de la troisième année.
 
-<sup>2</sup> Si les crédits ECTS relatifs à un stage ou une tâche complexe liée à un stage n'ont pas été acquis, l'étudiant ou l'étudiante peut tout de même poursuivre sa formation. Une prolongation de la durée des études peut en résulter.
+<sup>2</sup> Un étudiant ou une étudiante peut demander une interruption volontaire de sa formation, sous réserve des conditions de l'article 5. La demande doit être transmise au doyen ou à la doyenne de la formation initiale au plus tard trois semaines avant le début du semestre en question.
 
 ### 4.2 Evaluations certificatives en cours d'études
 
@@ -283,7 +285,7 @@ Arrête:
 
 **Déroulement**
 
-<sup>1</sup> Les évaluations certificatives sont conduites par les membres du personnel enseignant, à l'exception de la validation des stages (art. 17 al. 1 let. d) qui est faite par les formateurs et formatrices de terrain (maîtres et maîtresses de stage).
+<sup>1</sup> Les évaluations certificatives sont conduites par les membres du personnel enseignant, à l'exception de la validation des stages (art. 17 al. 1 let. d) qui est faite par les formateurs et formatrices de terrain.
 
 <sup>2</sup> Lors de la première tentative à une évaluation certificative orale, le membre du personnel enseignant peut décider de se faire assister par un ou une assesseur-e.
 
@@ -305,11 +307,11 @@ Arrête:
 
 <sup>1</sup> …
 
-<sup>2</sup> En cas de deuxième échec à une évaluation certificative en cours d'études, l'étudiant ou l'étudiante peut se présenter une troisième fois sans devoir répéter le cours qui y est lié. Une prolongation des études en résulte.
+<sup>2</sup> En cas de deuxième échec à une évaluation certificative en cours d'études, l'étudiant ou l'étudiante peut se présenter une troisième fois sans devoir répéter le cours qui y est lié.
 
 <sup>3</sup> Toutefois, seules deux tentatives sont possibles pour la validation des stages (art. 17 al. 1 let. d). Sur la durée totale de la formation, seuls deux stages non consécutifs peuvent être répétés, sous peine d'échec définitif.
 
-<sup>4</sup> En cas de deuxième échec au test de connaissances de la langue partenaire, l'étudiant ou l'étudiante doit interrompre sa formation pendant deux semestres et fournir un certificat C1 (compréhension écrite et orale, expression écrite et orale) réussi à l'extérieur et reconnu par la HEP-PH FR. Une prolongation des études en résulte.
+<sup>4</sup> En cas de troisième échec au test de connaissances de la langue partenaire, l'étudiant ou l'étudiante doit fournir un certificat C1 (compréhension écrite et orale, expression écrite et orale) réussi à l'extérieur et reconnu par la HEP-PH FR à la fin de la formation.
 
 #### Art. 24
 
@@ -323,7 +325,7 @@ Arrête:
 
 **Déroulement**
 
-<sup>1</sup> Les évaluations certificatives finales sont conduites par les membres du personnel enseignant, à l'exception de la validation des stages (art. 17 al. 2 let. e) qui est faite par les formateurs et formatrices de terrain (maîtres et maîtresses de stage).
+<sup>1</sup> Les évaluations certificatives finales sont conduites par les membres du personnel enseignant, à l'exception de la validation des stages (art. 17 al. 2 let. e) qui est faite par les formateurs et formatrices de terrain.
 
 <sup>2</sup> Un expert ou une experte assiste aux évaluations certificatives finales orales. Un ou une assesseur-e peut également être présent-e. Le rôle d'assesseur-e peut toutefois être rempli par l'expert ou l'experte.
 
@@ -335,13 +337,15 @@ Arrête:
 
 **Echec**
 
-<sup>1</sup> Lors d'un premier échec à une ou plusieurs évaluations certificatives finales, l'étudiant ou l'étudiante n'est tenu-e de répéter que cette ou ces évaluations.
+<sup>1</sup> Lors d'un échec à une ou plusieurs évaluations certificatives finales, l'étudiant ou l'étudiante n'est tenu-e de répéter que cette ou ces évaluations.
 
 <sup>2</sup> Il ou elle peut alors se présenter à la session prévue à cet effet.
 
-<sup>3</sup> En cas de premier échec à la tâche complexe didactique (art. 17 al. 2 let. b) ou à l'examen pratique (art. 17 al. 2 let. c), l'étudiant ou l'étudiante effectue la seconde tentative dans une classe du cycle I ou II.
+<sup>3</sup> En cas d'échec à la tâche complexe didactique (art. 17 al. 2 let. b) ou à l'examen pratique (art. 17 al. 2 let. c), l'étudiant ou l'étudiante peut effectuer les tentatives suivantes dans une classe du cycle I ou II.
 
-<sup>4</sup> Un second échec entraîne un échec définitif.
+<sup>4</sup> Un troisième échec à la tâche complexe sciences de l'éducation et sociales (art. 17 al. 2 let. a), à la tâche complexe didactique (art. 17 al. 2 let. b) ou au travail de bachelor (art. 17 al. 2 let. d) entraîne un échec définitif.
+
+<sup>5</sup> Un second échec à l'examen pratique (art. 17 al. 2 let. c) ou au stage final (art. 17 al. 2 let. e) entraîne un échec définitif.
 
 ### 4.4 Résultat
 
