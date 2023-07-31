@@ -3,20 +3,19 @@ canton: FR
 number: "122.0.31"
 title: Règlement de la Conférence des secrétaires généraux
 language: fr
-version: 2003-01-01
-valid_until: 2023-07-31
-version_adopted: 2002-11-14
+version: 2023-08-01
+version_adopted: 2023-07-06
 adopted: 1990-12-11
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/4999/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7794/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Règlement de la Conférence des secrétaires généraux
 
-du 11.12.1990 (version entrée en vigueur le 01.01.2003)
+du 11.12.1990 (version entrée en vigueur le 01.08.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -32,6 +31,7 @@ Arrête:
 
 - a) les structures et les procédures administratives;
 - b) le personnel, la gestion financière, l'informatique et l'équipement;
+- b1) la sécurité de l'information;
 - c) l'information et les publications;
 - d) les dossiers qui intéressent l'ensemble des Directions.
 

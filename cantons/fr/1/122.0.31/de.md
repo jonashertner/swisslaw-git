@@ -3,20 +3,19 @@ canton: FR
 number: "122.0.31"
 title: Reglement der Konferenz der Generalsekretäre
 language: de
-version: 2003-01-01
-valid_until: 2023-07-31
-version_adopted: 2002-11-14
+version: 2023-08-01
+version_adopted: 2023-07-06
 adopted: 1990-12-11
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/4999/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7794/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement der Konferenz der Generalsekretäre
 
-vom 11.12.1990 (Fassung in Kraft getreten am 01.01.2003)
+vom 11.12.1990 (Fassung in Kraft getreten am 01.08.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -32,6 +31,7 @@ beschliesst:
 
 - a) der Organisation und den Verfahren der Verwaltung;
 - b) dem Personal, der Finanzverwaltung, der Informatik und der Ausrüstung;
+- b1) der Informationssicherheit;
 - c) der Information und den Veröffentlichungen;
 - d) den Geschäften, die sämtliche Direktionen betreffen.
 
