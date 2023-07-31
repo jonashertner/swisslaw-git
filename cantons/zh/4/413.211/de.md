@@ -4,11 +4,11 @@ number: "413.211"
 title: Mittelschulverordnung (MSV)
 short: MSV
 language: de
-version: "2022-08-01"
-nachtrag: "117"
-valid_until: 2023-08-01
+version: "2023-08-01"
+nachtrag: "121"
+valid_until: 2026-04-01
 adopted: 2000-01-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_211-2000_01_26-2000_03_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_211-2000_01_26-2000_03_01-121.html"
 text: pdf
 ---
 
@@ -44,7 +44,7 @@ Der Regierungsrat beschliesst:
 
 <sup>3</sup> Der Präsidentenkonferenz obliegt die Koordination zwischen den Schulkommissionen. Die Vorsitzende oder der Vorsitzende vertritt die Präsidentenkonferenz gegenüber dem Mittelschul- und Berufsbildungsamt und der Bildungsdirektion.
 
-[^t-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 351; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 266). 1. 7. 22 - 117 9
+[^t-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 351; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 266).
 [^t-2]: OS 56, 58.
 [^t-3]: Fassung gemäss RRB vom 29. Mai 2013 (OS 68, 257; ABl 2013-06-07). In Kraft seit 19. August 2013.
 [^t-4]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 230; ABl 2012, 1053). In Kraft seit 1. August 2012.
@@ -66,7 +66,7 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Die Schulkommission ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Sie fasst ihre Beschlüsse mit dem einfachen Mehr der Stimmen. Bei Stimmengleichheit hat die Präsidentin oder der Präsident den Stichentscheid.
 
@@ -145,7 +145,7 @@ Der Gesamtkonvent beschliesst insbesondere über den Schulbetrieb betreffende Re
 
 **3**
 
-- 1\. 7. 22 - 117 § 14. <sup>1</sup> Die Präsidentin oder der Präsident beruft in Absprache mit der Schulleitung den Gesamtkonvent ein und legt die Traktandenliste fest. Die Einladung zur Sitzung erfolgt mindestens zehn Tage im Voraus.
+- 1\. 7. 23 - 121 § 14. <sup>1</sup> Die Präsidentin oder der Präsident beruft in Absprache mit der Schulleitung den Gesamtkonvent ein und legt die Traktandenliste fest. Die Einladung zur Sitzung erfolgt mindestens zehn Tage im Voraus.
 
 **Sitzungen**
 
@@ -191,23 +191,70 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 - 5\. Schulbetrieb
 
+**Schultypen**
+
+§ 19 a.[^18-2] Der Kanton führt folgende Schultypen:
+
+- a. Langgymnasium,
+
+- b. Kurzgymnasium,
+
+- c. Fachmittelschule,
+
+- d. Handelsmittelschule,
+
+- e. Informatikmittelschule.
+
+**Gymnasiale Maturitätsprofile**
+
+§ 19 b.[^18-2] <sup>1</sup> Der Kanton bietet folgende gymnasialen Maturitätsprofile an:
+
+- a. Altsprachliches Profil,
+
+- b. Neusprachliches Profil,
+
+- c. Mathematisch-naturwissenschaftliches Profil,
+
+- d. Wirtschaftlich-rechtliches Profil,
+
+- e. Musisches Profil,
+
+- f. Philosophisch-pädagogisch-psychologisches Profil.
+
+<sup>2</sup> Die Schülerinnen und Schüler wählen auf Beginn des 11. Schuljahres ein Profil.
+
+**Unterrichtssprache**
+
+§ 19 c.[^18-2] <sup>1</sup> Unterrichtssprache an den Lang- und Kurzgymnasien ist die Standardsprache. Vorbehalten bleibt der Fremdsprachenunterricht.
+
+<sup>2</sup> Die Lang- und Kurzgymnasien können zusätzlich Angebote führen, in denen ein Teil des Unterrichts in einer Fremdsprache erteilt wird.
+
+[^18-1]: Fassung gemäss RRB vom 7. November 2012 (OS 67, 607; ABl 2012-11-16). In Kraft seit 1. Januar 2013. 1. 7. 23 - 121 9
+[^18-2]: Eingefügt durch RRB vom 25. August 2021 (OS 77, 104; ABl 2021-09-03). In Kraft seit 1. August 2023.
+
+#### § 20
+
 **Umteilung**
 
-§ 20. <sup>1</sup> Schulen, die überbelegt oder mangelhaft ausgelastet sind, sorgen durch die Umteilung von Schülerinnen und Schülern untereinander für den notwendigen Ausgleich.
+<sup>1</sup> Schulen, die überbelegt oder mangelhaft ausgelastet sind, sorgen durch die Umteilung von Schülerinnen und Schülern untereinander für den notwendigen Ausgleich.
 
 <sup>2</sup> Das Mittelschul- und Berufsbildungsamt entscheidet über die Umteilung, wenn keine Einigung erzielt werden kann. Massgebend sind dabei Kriterien wie das gewählte Profil, die Verbindungen mit öffentlichen Verkehrsmitteln oder das Alter der Schülerinnen und Schüler.
 
-<sup>3</sup> Über Umteilungen, die das Liceo artistico betreffen, entscheidet die Schulleitung des Liceo artistico insbesondere aufgrund der künstlerischen Eignung der Schülerinnen und Schüler. Die Schulleitung bestimmt die einzureichenden Unterlagen. Das Mittelschul- und Berufsbildungsamt entscheidet über die Umteilung, wenn keine Einigung erzielt werden kann.[^18-2]
+<sup>3</sup> Über Umteilungen, die das Liceo artistico betreffen, entscheidet die Schulleitung des Liceo artistico insbesondere aufgrund der künstlerischen Eignung der Schülerinnen und Schüler. Die Schulleitung bestimmt die einzureichenden Unterlagen. Das Mittelschul- und Berufsbildungsamt entscheidet über die Umteilung, wenn keine Einigung erzielt werden kann.[^20-1]
 
-- 6\. Absenzen, Dispensationen und Jokertage[^18-3]
+**5**
+
+- 1\. 7. 23 - 121
+
+- 6\. Absenzen, Dispensationen und Jokertage[^20-2]
 
 **Geltungsbereich**
 
-§ 21.[^18-4] §§ 22–35 gelten nicht für die Kantonale Maturitätsschule für Erwachsene.
+§ 21.[^20-3] §§ 22–35 gelten nicht für die Kantonale Maturitätsschule für Erwachsene.
 
 **Absenzen a. Grundsatz**
 
-§ 22.[^18-4] <sup>1</sup> Eine Abwesenheit gilt als Absenz, wenn eine Schülerin oder ein Schüler dem Unterricht ganz oder teilweise fernbleibt:
+§ 22.[^20-3] <sup>1</sup> Eine Abwesenheit gilt als Absenz, wenn eine Schülerin oder ein Schüler dem Unterricht ganz oder teilweise fernbleibt:
 
 - a. aus unvorhersehbaren Gründen,
 
@@ -219,7 +266,7 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 **b. Entschuldigungsgründe**
 
-§ 23.[^18-4] <sup>1</sup> Als Entschuldigungsgründe gelten:
+§ 23.[^20-3] <sup>1</sup> Als Entschuldigungsgründe gelten:
 
 - a. eine Krankheit oder ein Unfall,
 
@@ -231,11 +278,7 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 **Dispensationen a. Grundsatz**
 
-§ 24.[^18-4] <sup>1</sup> Möchte eine Schülerin oder ein Schüler dem Unterricht aus vorhersehbaren Gründen fernbleiben, ersucht sie oder er vorgängig um Dispensation.
-
-**5**
-
-- 1\. 7. 22 - 117
+§ 24.[^20-3] <sup>1</sup> Möchte eine Schülerin oder ein Schüler dem Unterricht aus vorhersehbaren Gründen fernbleiben, ersucht sie oder er vorgängig um Dispensation.
 
 <sup>2</sup> Die Schulleitung oder die von ihr bezeichnete Stelle dispensiert Schülerinnen und Schüler bei Vorliegen eines Dispensationsgrunds für einen bestimmten Zeitraum vom Besuch des Unterrichts, eines Fachs oder Teilen davon. Sie berücksichtigt dabei die persönlichen, familiären und schulischen Verhältnisse.
 
@@ -243,7 +286,7 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 **b. Dispensationsgründe**
 
-§ 25.[^18-3] <sup>1</sup> Als Dispensationsgründe gelten:
+§ 25.[^20-2] <sup>1</sup> Als Dispensationsgründe gelten:
 
 - a. vorhersehbare Abwesenheiten im Zusammenhang mit einer Krankheit oder einem Unfall,
 
@@ -263,7 +306,7 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 **Gesuch a. Form**
 
-§ 26.[^18-3] <sup>1</sup> Schülerinnen und Schüler reichen das Gesuch um Entschuldigung einer Absenz oder um Dispensation schriftlich und unterzeichnet der Schulleitung oder der von ihr bezeichneten Stelle ein und legen die von der Schulleitung bezeichneten Unterlagen bei.
+§ 26.[^20-2] <sup>1</sup> Schülerinnen und Schüler reichen das Gesuch um Entschuldigung einer Absenz oder um Dispensation schriftlich und unterzeichnet der Schulleitung oder der von ihr bezeichneten Stelle ein und legen die von der Schulleitung bezeichneten Unterlagen bei.
 
 <sup>2</sup> Sie geben im Gesuch den Entschuldigungs- oder Dispensationsgrund an.
 
@@ -271,7 +314,7 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 **b. ärztliches Zeugnis**
 
-§ 27.[^18-3] <sup>1</sup> Bleiben Schülerinnen und Schüler dem Unterricht wegen Krankheit oder Unfall fern, reichen sie mit dem Gesuch ein ärztliches Zeugnis ein bei a. einer Abwesenheit von mehr als vier Tagen,
+§ 27.[^20-2] <sup>1</sup> Bleiben Schülerinnen und Schüler dem Unterricht wegen Krankheit oder Unfall fern, reichen sie mit dem Gesuch ein ärztliches Zeugnis ein bei a. einer Abwesenheit von mehr als vier Tagen,
 
 - b. kurzen, sich wiederholenden Abwesenheiten,
 
@@ -281,17 +324,17 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 **c. Frist**
 
-§ 28.[^18-3] Schülerinnen und Schüler reichen das Gesuch ein bei a. Absenzen, sobald es die Umstände erlauben,
+§ 28.[^20-2] Schülerinnen und Schüler reichen das Gesuch ein bei a. Absenzen, sobald es die Umstände erlauben,
 
 - b. Dispensationen mindestens 14 Tage im Voraus.
 
 **d. Entscheid**
 
-§ 29.[^18-3] Die Schulleitung oder die von ihr bezeichnete Stelle entscheidet über das Gesuch schriftlich.
+§ 29.[^20-2] Die Schulleitung oder die von ihr bezeichnete Stelle entscheidet über das Gesuch schriftlich.
 
 **Jokertage a. Grundsatz**
 
-§ 30.[^18-3] <sup>1</sup> Schülerinnen und Schüler können dem Unterricht während zweier Tage pro Schuljahr ohne Vorliegen von Dispensationsgründen fernbleiben (Jokertage).
+§ 30.[^20-2] <sup>1</sup> Schülerinnen und Schüler können dem Unterricht während zweier Tage pro Schuljahr ohne Vorliegen von Dispensationsgründen fernbleiben (Jokertage).
 
 <sup>2</sup> Jeder bezogene Jokertag gilt als ganzer Tag, auch wenn an jenem Tag der Unterricht nur während eines Halbtages stattfindet.
 
@@ -299,13 +342,17 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 **b. Mitteilung**
 
-§ 31.[^18-3] <sup>1</sup> Schülerinnen und Schüler teilen der Schulleitung oder der von ihr bezeichneten Stelle den Bezug eines Jokertages mindestens 14 Tage im Voraus schriftlich mit.
+§ 31.[^20-2] <sup>1</sup> Schülerinnen und Schüler teilen der Schulleitung oder der von ihr bezeichneten Stelle den Bezug eines Jokertages mindestens 14 Tage im Voraus schriftlich mit.
+
+**7**
+
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Bis zur Volljährigkeit ist die Mitteilung durch die Inhaberin oder den Inhaber der elterlichen Sorge oder andere Erziehungsberechtigte zu unterzeichnen.
 
 **c. Sperrtage**
 
-§ 32.[^18-3] <sup>1</sup> Die Schulleitung kann bestimmen, dass bei besonderen Veranstaltungen wie Sporttagen oder Projektwochen keine Jokertage bezogen werden können.
+§ 32.[^20-2] <sup>1</sup> Die Schulleitung kann bestimmen, dass bei besonderen Veranstaltungen wie Sporttagen oder Projektwochen keine Jokertage bezogen werden können.
 
 <sup>2</sup> Schülerinnen und Schüler dürfen an Schultagen, an denen sie Abschlussprüfungen ablegen oder ihre Abschlussarbeit präsentieren, keine Jokertage beziehen.
 
@@ -313,75 +360,72 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 **d. Ablehnung**
 
-§ 33.[^18-3] Die Schulleitung oder die von ihr bezeichnete Stelle teilt der Schülerin oder dem Schüler eine Ablehnung schriftlich mit.
+§ 33.[^20-2] Die Schulleitung oder die von ihr bezeichnete Stelle teilt der Schülerin oder dem Schüler eine Ablehnung schriftlich mit.
 
 **Vermerk im Zeugnis**
 
-§ 34.[^18-3] Das Zeugnis enthält keine Angaben zu Absenzen, Dispensationen und Jokertagen. Davon ausgenommen ist der Vermerk, dass eine Schülerin oder ein Schüler von einem Fach vollständig dispensiert worden ist.
+§ 34.[^20-2] Das Zeugnis enthält keine Angaben zu Absenzen, Dispensationen und Jokertagen. Davon ausgenommen ist der Vermerk, dass eine Schülerin oder ein Schüler von einem Fach vollständig dispensiert worden ist.
 
 **Nachholen von Unterrichtsstoff und Leistungsbeurteilungen**
 
-§ 35.[^18-3] <sup>1</sup> Schülerinnen und Schüler, die den Unterricht wegen einer Absenz, einer Dispensation oder eines Jokertages verpassen, holen den versäumten Unterrichtsstoff selbstständig nach.
-
-**7**
-
-- 1\. 7. 22 - 117
+§ 35.[^20-2] <sup>1</sup> Schülerinnen und Schüler, die den Unterricht wegen einer Absenz, einer Dispensation oder eines Jokertages verpassen, holen den versäumten Unterrichtsstoff selbstständig nach.
 
 <sup>2</sup> Sie holen Leistungsbeurteilungen vor oder nach. Die zuständige Lehrperson kann Ausnahmen gewähren.
 
-[^18-1]: Fassung gemäss RRB vom 7. November 2012 (OS 67, 607; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
-[^18-2]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 351; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 266).
-[^18-3]: Eingefügt durch RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
-[^18-4]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
-[^18-5]: Nummerierung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
+[^20-1]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 351; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 266).
+[^20-2]: Eingefügt durch RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
+[^20-3]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
+[^20-4]: Nummerierung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
 
 ### 7. Finanzen
 
-[^18-5]
+[^20-4]
 
 **Kostenbeitrag der Gemeinden**
 
-§ 36.[^h7185Finanzen-1],[^h7185Finanzen-2] <sup>1</sup> Die Beiträge gemäss § 31 Abs. 2 des Mittelschulgesetzes[^h7185Finanzen-3] werden vom Mittelschul- und Berufsbildungsamt bei den für das Oberstufenschulwesen zuständigen Gemeinden erhoben.
+§ 36.[^h7204Finanzen-1],[^h7204Finanzen-2] <sup>1</sup> Die Beiträge gemäss § 31 Abs. 2 des Mittelschulgesetzes[^h7204Finanzen-3] werden vom Mittelschul- und Berufsbildungsamt bei den für das Oberstufenschulwesen zuständigen Gemeinden erhoben.
 
 <sup>2</sup> Bei der Berechnung der Freigrenze von 5 Prozent werden nur Schülerinnen und Schüler der öffentlichen Volks- und Mittelschulen berücksichtigt.
 
 <sup>3</sup> Als in einer Gemeinde wohnhaft gelten Schülerinnen und Schüler, deren tatsächlicher Aufenthaltsort in der Gemeinde ist.
 
-<sup>4</sup> Die Beiträge berechnen sich aufgrund der im September des Vorjahres vorgenommenen allgemeinen jährlichen Datenerhebung bei den Mittelschulen, bereinigt um die Abgänge nach der Probezeit.[^h7185Finanzen-4]
+<sup>4</sup> Die Beiträge berechnen sich aufgrund der im September des Vorjahres vorgenommenen allgemeinen jährlichen Datenerhebung bei den Mittelschulen, bereinigt um die Abgänge nach der Probezeit.[^h7204Finanzen-4]
 
 <sup>5</sup> Die Bildungsdirektion erlässt Weisungen über die Berechnungsmodalitäten und den Verfahrensablauf.
 
 **Entschädigung**
 
-§ 37.[^h7185Finanzen-5], <sup>14</sup> Die Bildungsdirektion regelt die Entschädigung für die Mitwirkung bei den Aufnahme- und Abschlussprüfungen an Mittelschulen.
+§ 37.[^h7204Finanzen-5], <sup>14</sup> Die Bildungsdirektion regelt die Entschädigung für die Mitwirkung bei den Aufnahme- und Abschlussprüfungen an Mittelschulen.
 
-[^h7185Finanzen-1]: Eingefügt durch RRB vom 11. Dezember 2003 (OS 58, 374). In Kraft seit 1. Januar 2004.
-[^h7185Finanzen-2]: Nummerierung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
-[^h7185Finanzen-3]: LS 413.21.
-[^h7185Finanzen-4]: Fassung gemäss RRB vom 29. Mai 2013 (OS 68, 257; ABl 2013-06-07). In Kraft seit 19. August 2013.
-[^h7185Finanzen-5]: Eingefügt durch RRB vom 25. Mai 2005 (OS 60, 166). In Kraft seit 1. Mai 2005.
+[^h7204Finanzen-1]: Eingefügt durch RRB vom 11. Dezember 2003 (OS 58, 374). In Kraft seit 1. Januar 2004.
+[^h7204Finanzen-2]: Nummerierung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
+[^h7204Finanzen-3]: LS 413.21.
+[^h7204Finanzen-4]: Fassung gemäss RRB vom 29. Mai 2013 (OS 68, 257; ABl 2013-06-07). In Kraft seit 19. August 2013.
+[^h7204Finanzen-5]: Eingefügt durch RRB vom 25. Mai 2005 (OS 60, 166). In Kraft seit 1. Mai 2005.
 
 ### 8. Übergangs- und Schlussbestimmungen
 
-[^h7185Finanzen-2]
+[^h7204Finanzen-2]
 
 **Professortitel**
 
-§ 38.[^h8h7185Finanzen2-1] Lehrpersonen kantonaler Mittelschulen, denen der Regierungsrat gestützt auf § 197 des Unterrichtsgesetzes[^h8h7185Finanzen2-2] den Titel einer Professorin oder eines Professors verliehen hat, können diesen weiterhin führen.
+§ 38.[^h8h7204Finanzen2-1] Lehrpersonen kantonaler Mittelschulen, denen der Regierungsrat gestützt auf § 197 des Unterrichtsgesetzes[^h8h7204Finanzen2-2] den Titel einer Professorin oder eines Professors verliehen hat, können diesen weiterhin führen.
 
 **Zugehörigkeit zum Gesamtkonvent**
 
-§ 39.[^h8h7185Finanzen2-1] Bis zur Überführung der Anstellungsverhältnisse der Lehrpersonen gemäss § 15 der Mittel- und Berufsschullehrerverordnung[^h8h7185Finanzen2-3] gelten für die Teilnahme der Lehrpersonen die bisherigen Konventsordnungen der Schulen.
+§ 39.[^h8h7204Finanzen2-1] Bis zur Überführung der Anstellungsverhältnisse der Lehrpersonen gemäss § 15 der Mittel- und Berufsschullehrerverordnung[^h8h7204Finanzen2-3] gelten für die Teilnahme der Lehrpersonen die bisherigen Konventsordnungen der Schulen.
 
 **Amtszeitbeschränkung**
 
+§ 40.[^h8h7204Finanzen2-1] Die für die Anwendung der Amtszeitbeschränkung massgebliche Amtszeit beginnt mit dem Frühlingssemester 2000.
+
 **Inkrafttreten**
 
-§ 40.[^h8h7185Finanzen2-1] Die für die Anwendung der Amtszeitbeschränkung massgebliche Amtszeit beginnt mit dem Frühlingssemester 2000. § 41.[^h8h7185Finanzen2-1] Diese Verordnung tritt auf Beginn des Frühlingssemesters 2000 in Kraft.
+§ 41.[^h8h7204Finanzen2-1] Diese Verordnung tritt auf Beginn des Frühlingssemesters 2000 in Kraft.
 
-[^h8h7185Finanzen2-1]: Nummerierung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
-[^h8h7185Finanzen2-2]: Aufgehoben.
-[^h8h7185Finanzen2-3]: LS 413.111.
+[^h8h7204Finanzen2-1]: Nummerierung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
+[^h8h7204Finanzen2-2]: Aufgehoben.
+[^h8h7204Finanzen2-3]: LS 413.111.
 
 ## Weitere Fussnoten
 
