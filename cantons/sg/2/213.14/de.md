@@ -4,13 +4,12 @@ number: "213.14"
 title: Verordnung zum Personalrecht der Volksschul-Lehrpersonen
 short: VPVL
 language: de
-version: 2016-08-01
-valid_until: 2023-07-31
-version_adopted: 2016-02-02
+version: 2023-08-01
+version_adopted: 2023-03-14
 adopted: 2014-12-23
 in_force: 2015-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2108/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3487/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2108/pdf_file"
 
 (VPVL)
 
-vom 23.12.2014 (Stand 01.08.2016)
+vom 23.12.2014 (Stand 01.08.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -261,9 +260,9 @@ als Verordnung:[^ingress-3]
 
 **Besonderer Lohn[^21-1] a) Fehlendes Lehrdiplom oder fehlende gleichwertige Qualifikation**
 
-<sup>1</sup> Wer ohne anerkanntes Lehrdiplom oder diesem gleichwertige Qualifikation unterrichtet, erhält 75 Prozent des Lohns der Lohnklasse 1 für den erteilten Unterricht.
+<sup>1</sup> Wer ohne anerkanntes Lehrdiplom oder diesem gleichwertige Qualifikation unterrichtet, erhält 85 Prozent des Lohns der Lohnklasse 1 für den erteilten Unterricht.
 
-<sup>2</sup> Das Bildungsdepartement kann in besonderen Fällen den Lohn bis zur Lohnklasse 13 für den erteilten Unterricht, je zu 75 Prozent des Lohns, bewilligen.
+<sup>2</sup> Der Schulträger kann den Lohn bis zur Lohnklasse 13 für den erteilten Unterricht, je zu 85 Prozent des Lohns, erhöhen.
 
 [^21-1]: Art. [1](https://www.gesetzessammlung.sg.ch/data/213.51/de/art1) Abs. 2 LLG, sGS [213.51](https://www.gesetzessammlung.sg.ch/data/213.51/de).
 
@@ -291,7 +290,7 @@ als Verordnung:[^ingress-3]
   - 2\. auf der Oberstufe oder in der Kleinklasse unterrichtet wird und das Lehrdiplom als Bachelor-Abschluss anerkannt ist;
 - b) den Lohn der Oberstufen-Lehrperson, wenn auf der Oberstufe oder in der Kleinklasse unterrichtet wird und das Lehrdiplom als Master-Abschluss anerkannt ist.
 
-<sup>2</sup> Wer Fachunterricht ohne anerkanntes Lehrdiplom oder diesem gleichwertige Qualifikation für das Fach erteilt, erhält 75 Prozent des Lohns der Lohnklasse 1 nach Abs. 1 dieser Bestimmung. Das Bildungsdepartement kann in besonderen Fällen den Lohn bis zur Lohnklasse 13 nach Abs. 1 dieser Bestimmung, je zu 75 Prozent des Lohns, bewilligen.
+<sup>2</sup> …
 
 #### Art. 24
 
