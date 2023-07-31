@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2023-01-23
+version: 2023-08-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 23. Januar 2023)
+vom 6. Dezember 2013 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -292,12 +292,11 @@ Bei der Bekanntgabe des Vergleichsergebnisses nach Artikel 3 Buchstabe e teilt d
 
 #### Art. 17
 
-**Löschung von ausländischen biometrischen erkennungsdienstlichen Daten**[^17-1]
+**Löschung von ausländischen biometrischen erkennungsdienstlichen Daten bei der internationalen Zusammenarbeit**[^17-1]
 
-Ausländische biometrische erkennungsdienstliche Daten werden 30 Jahre nach deren Erfassung im IPAS gelöscht, falls sie nicht bereits nach den Artikeln 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003[^17-2] gelöscht worden sind.
+Erhält fedpol biometrische erkennungsdienstliche Daten einer Person bei der internationalen Zusammenarbeit, so löscht es diese auf Verlangen der ausländischen Behörde. Ohne entsprechende Meldung löscht es die Daten 30 Jahre nach der Erfassung im IPAS.
 
-[^17-1]: Fassung gemäss Anhang 10 Ziff. II 15 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^17-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^17-1]: Fassung gemäss Anhang Ziff. 2 der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 18
 
@@ -333,9 +332,27 @@ Die folgenden Behörden melden dem für die Führung von AFIS zuständigen Diens
 
 **Bearbeitung der Löschmeldungen**
 
-Der für die Führung von AFIS zuständige Dienst löscht aufgrund der Meldung nach Artikel 22 die Daten im IPAS gemäss Artikel 9 der IPAS-Verordnung vom 15. Oktober 2008[^23-1]. Gleichzeitig löst er die Löschung der biometrischen erkennungsdienstlichen Daten im AFIS aus.
+<sup>1</sup> Der für die Führung von AFIS zuständige Dienst löscht aufgrund der Meldung nach Artikel 22 die Daten im IPAS gemäss Artikel 9 der IPAS-Verordnung vom 15. Oktober 2008[^23-1]. Gleichzeitig löst er die Löschung der biometrischen erkennungsdienstlichen Daten im AFIS aus.
+
+<sup>2</sup> Ohne entsprechende Meldung löscht fedpol die biometrischen erkennungsdienstlichen Daten 30 Jahre nach der erkennungsdienstlichen Erfassung der betroffenen Person.[^23-2]
 
 [^23-1]: [SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^23-2]: Eingefügt durch Anhang Ziff. 2 der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+
+#### Art. 23a
+
+**Zurverfügungstellung von Daten aus dem AFIS zu Forschungszwecken**[^23a-1]
+
+<sup>1</sup> Fedpol kann Daten aus dem AFIS auf Ersuchen der für die Durchführung des Forschungsprojekts verantwortlichen Institution in anonymisierter Form für Forschungszwecke zur Verfügung stellen.
+
+<sup>2</sup>
+
+Es vereinbart mit der verantwortlichen Institution schriftlich:
+
+- a. die Einzelheiten der Bearbeitung der Daten wie deren Speicherung oder Löschung nach Abschluss des Forschungsprojekts;
+- b. die Zugriffsrechte der Forschungsmitarbeiterinnen und -mitarbeiter.
+
+[^23a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 

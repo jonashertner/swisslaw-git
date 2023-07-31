@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2023-01-23
+version: 2023-08-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (État le 23 janvier 2023)
+du 6 décembre 2013 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -292,12 +292,11 @@ Lors de la communication du résultat de la comparaison au sens de l’art. 3, l
 
 #### Art. 17
 
-**Effacement des données signalétiques étrangères**[^17-1]
+**Effacement des données signalétiques biométriques étrangères dans le cadre de la coopération internationale**[^17-1]
 
-Les données signalétiques étrangères sont effacées 30 ans après leur saisie dans IPAS, à moins qu’elles n’aient déjà été effacées en application des art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^17-2].
+Si fedpol, dans le cadre de la coopération internationale, reçoit des données signalétiques biométriques d’une personne, il les efface sur demande de l’autorité étrangère. En l’absence d’une telle communication, il efface les données 30 ans après la saisie dans IPAS.
 
-[^17-1]: Nouvelle teneur selon l’annexe 10 ch. II 15 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^17-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^17-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 18
 
@@ -333,9 +332,27 @@ Les autorités suivantes avertissent le service chargé de la gestion d’AFIS l
 
 **Traitement des communications d’effacement**
 
-Le service chargé de la gestion d’AFIS efface conformément à la communication prévue à l’art. 22 les données dans le système IPAS en vertu de l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^23-1]. Parallèlement, il fait effacer les données signalétiques biométriques dans AFIS.
+<sup>1</sup> Le service chargé de la gestion d’AFIS efface conformément à la communication prévue à l’art. 22 les données dans le système IPAS en vertu de l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^23-1]. Parallèlement, il fait effacer les données signalétiques biométriques dans AFIS.
+
+<sup>2</sup> En l’absence d’une telle communication, fedpol efface les données signalétiques biométriques d’une personne 30 ans après la saisie des données signalétiques de la personne concernée.[^23-2]
 
 [^23-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^23-2]: Introduit par l’annexe ch. 2 de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+
+#### Art. 23a
+
+**Mise à disposition de données d’AFIS à des fins de recherche**[^23a-1]
+
+<sup>1</sup> Sur demande de l’institution chargée de mener le projet de recherche, fedpol peut mettre à disposition, à des fins de recherche et sous forme anonyme, des données d’AFIS.
+
+<sup>2</sup>
+
+Il convient par écrit avec l’institution compétente:
+
+- a. des modalités relatives au traitement des données, comme leur enregistrement ou leur effacement à la fin du projet de recherche;
+- b. des droits d’accès des collaborateurs du projet de recherche.
+
+[^23a-1]: Introduit par l’annexe ch. 2 de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## Section 6 Dispositions finales
 

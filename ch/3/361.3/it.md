@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2023-01-23
+version: 2023-08-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 23 gennaio 2023)
+del 6 dicembre 2013 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -292,12 +292,11 @@ Al momento della comunicazione del risultato del confronto ai sensi dell’artic
 
 #### Art. 17
 
-**Cancellazione di dati segnaletici esteri di natura biometrica**[^17-1]
+**Cancellazione di dati segnaletici esteri di natura biometrica nell’ambito della cooperazione internazionale**[^17-1]
 
-I dati segnaletici esteri di natura biometrica sono cancellati 30 anni dopo la registrazione in IPAS, se non sono già stati cancellati in virtù degli articoli 16–19 della legge del 20 giugno 2003[^17-2] sui profili del DNA.
+Quando fedpol riceve i dati segnaletici di natura biometrica di una persona nell’ambito della cooperazione internazionale, li cancella su richiesta dell’autorità estera. In assenza di una tale comunicazione, cancella i dati 30 anni dopo la loro registrazione in IPAS.
 
-[^17-1]: Nuovo testo giusta l’all. 10 n. II 15 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^17-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^17-1]: Nuovo testo giusta l’all. n. 2 dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 18
 
@@ -333,9 +332,27 @@ Le seguenti autorità comunicano al servizio competente per la gestione di AFIS 
 
 **Trattamento delle comunicazioni di cancellazione**
 
-Il servizio competente per la gestione di AFIS cancella, sulla base della comunicazione di cui all’articolo 22, i dati in IPAS conformemente all’articolo 9 dell’ordinanza IPAS del 15 ottobre 2008[^23-1]. Al contempo fa cancellare i dati segnaletici di natura biometrica in AFIS.
+<sup>1</sup> Il servizio competente per la gestione di AFIS cancella, sulla base della comunicazione di cui all’articolo 22, i dati in IPAS conformemente all’articolo 9 dell’ordinanza IPAS del 15 ottobre 2008[^23-1]. Al contempo fa cancellare i dati segnaletici di natura biometrica in AFIS.
+
+<sup>2</sup> In assenza di una tale comunicazione, fedpol cancella i dati segnaletici di natura biometrica 30 anni dopo il rilevamento segnaletico della persona interessata.[^23-2]
 
 [^23-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^23-2]: Introdotto dall’all. n. 2 dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+
+#### Art. 23a
+
+**Messa a disposizione di dati di AFIS per scopi di ricerca**[^23a-1]
+
+<sup>1</sup> Su richiesta dell’istituzione responsabile dell’esecuzione del progetto di ricerca, fedpol può mettere a disposizione, sotto forma anonimizzata e per scopi di ricerca, dati tratti da AFIS.
+
+<sup>2</sup>
+
+Con l’istituzione responsabile concorda per iscritto:
+
+- a. i dettagli relativi al trattamento dei dati quali la loro registrazione o cancellazione alla fine del progetto di ricerca;
+- b. i diritti di accesso per chi collabora al progetto di ricerca.
+
+[^23a-1]: Introdotto dall’all. n. 2 dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 ## Sezione 6: Disposizioni finali
 
