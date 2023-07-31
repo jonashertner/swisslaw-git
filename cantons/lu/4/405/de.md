@@ -4,13 +4,13 @@ number: "405"
 title: Verordnung zum Gesetz über die Volksschulbildung
 short: "Volksschulbildungsverordnung, VBV"
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-01-04
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-09
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/405"
-pdf: "https://srl.lu.ch/api/de/versions/3934/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4095/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3934/pdf_file"
 
 (Volksschulbildungsverordnung, VBV)
 
-vom 16.12.2008 (Stand 01.08.2022)
+vom 16.12.2008 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -305,7 +305,7 @@ beschliesst:
 <sup>2</sup> Für die Erteilung einer Bewilligung gemäss Absatz 1 wird vorausgesetzt, dass
 
 - a. die Trägerschaft der Privatschule oder die Privatunterricht erteilende Person die für die Ausübung dieser öffentlichen Aufgabe notwendige Vertrauenswürdigkeit besitzt,
-- b. die Privatunterricht erteilende Person oder die an der Privatschule unterrichtenden Lehrpersonen eine gleichwertige pädagogische Ausbildung vorweisen können wie die der öffentlichen Schulen und
+- b. die Privatunterricht erteilende Person über eine stufen- und fachgemässe Ausbildung verfügt oder die an der Privatschule unterrichtenden Lehrpersonen in der Regel über eine stufen- und fachgemässe Ausbildung verfügen und
 - c. der Lehrplan den kantonalen Vorschriften entspricht.
 
 <sup>3</sup> Eine Privatunterricht erteilende Person darf nicht mehr als vier Lernende unterrichten.
@@ -585,6 +585,12 @@ beschliesst:
 **Übergangsbestimmung zur Änderung vom 4. Januar 2022**
 
 <sup>1</sup> § 14a dieser Verordnung bleibt für eine Gemeinde so lange in der Fassung vom 1. August 2020 anwendbar, als sie die frühe Sprachförderung nicht eingeführt hat, längstens jedoch bis zum 31. Juli 2024.
+
+#### § 33b
+
+**Übergangsbestimmung zur Änderung vom 9. Mai 2023**
+
+<sup>1</sup> Kinder, die vor Inkrafttreten der Änderung vom 9. Mai 2023 von ihren Eltern privat unterrichtet worden sind, können bis zum Ende der Primarstufe weiterhin nach bisherigem Recht von ihren Eltern privat unterrichtet werden.
 
 #### § 34
 
