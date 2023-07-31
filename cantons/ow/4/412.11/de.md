@@ -4,13 +4,13 @@ number: "412.11"
 title: Volksschulverordnung
 short: VSchV
 language: de
-version: 2019-08-01
-valid_until: 2023-07-31
-version_adopted: 2018-06-29
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-01-26
 adopted: 2006-03-16
 in_force: 2006-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/412.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1714/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1790/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1714/pdf_file"
 
 (VSchV)
 
-vom 16.03.2006 (Stand 01.08.2019)
+vom 16.03.2006 (Stand 01.08.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -146,13 +146,15 @@ beschliesst:
 
 **Kindergarteneintritt**
 
-<sup>1</sup> Kinder, die bis zum 31. Juli das fünfte Altersjahr vollenden, treten auf Beginn des nächsten Schuljahres in das obligatorische Kindergartenjahr ein.
+<sup>1</sup> Kinder, die bis Ende Februar das fünfte Altersjahr vollenden, treten auf Beginn des nächsten Schuljahres in das obligatorische Kindergartenjahr ein.[^12-1]
 
 <sup>2</sup> Die Einwohnergemeinde meldet den Schulleitungen die Kinder, die bis zum massgebenden Stichtag das fünfte Altersjahr vollendet haben.
 
 <sup>3</sup> Die Schulleitungen informieren die Erziehungsberechtigten, deren Kinder in das obligatorische Kindergartenjahr aufgenommen werden.
 
 <sup>4</sup> Ein früherer Kindergarteneintritt ist auf Antrag der Erziehungsberechtigten möglich, sofern dies dem Wohl des Kindes entspricht. Die Schulleitung entscheidet über den Antrag.
+
+[^12-1]: Zur gestaffelten Einführung des Stichtags siehe Übergangsbestimmung von Art. 18a
 
 #### Art. 12a
 
@@ -168,13 +170,13 @@ beschliesst:
 
 **Übertritt in die Primarschule**
 
-<sup>1</sup> Kinder, welche bis zum 31. Juli[^13-1] das sechste Altersjahr erreicht haben, treten auf Beginn des nächsten Schuljahres in die Primarschule ein.
+<sup>1</sup> Kinder, die bis Ende Februar das sechste Altersjahr vollenden, treten auf Beginn des nächsten Schuljahres in die Primarschule ein.[^13-1]
 
 <sup>2</sup> Die Schulleitung kann auf Antrag der Erziehungsberechtigten jüngere Kinder in die Primarschule aufnehmen, sofern sie schulfähig sind.
 
 <sup>3</sup> Die Schulleitung kann auf Antrag der Erziehungsberechtigten oder der Kindergartenlehrperson noch nicht schulfähige Kinder um höchstens ein Jahr vom Eintritt in die Primarschule zurückstellen. Die Beteiligten sind vor dem Entscheid anzuhören.
 
-[^13-1]: Berichtigung gemäss Beschluss der Redaktionskommission vom 10. Juni 2020 (OGS 2020, 25)
+[^13-1]: Zur gestaffelten Einführung des Stichtags siehe Übergangsbestimmung von Art. 18a
 
 #### Art. 14
 
@@ -236,6 +238,17 @@ beschliesst:
 
 <sup>2</sup> …
 
+#### Art. 18a
+
+**Übergangsbestimmung zum Nachtrag vom 26. Januar 2023**
+
+<sup>1</sup> Für die Umsetzung der nachfolgenden Artikel gelten folgende Übergangsregelungen:
+
+- a. Art. 12 Einführung des Stichtags Ende April auf das Schuljahr 2024/2025 und des neuen Stichtags Ende Februar auf das Schuljahr 2025/2026;
+- b. Art. 13 Einführung des Stichtags Ende April auf das Schuljahr 2025/2026 und des neuen Stichtags Ende Februar auf das Schuljahr 2026/2027;
+
+<sup>2</sup> Für Kinder, die im Zeitpunkt der Änderung eines Stichtags bereits in den freiwilligen Kindergarten eingetreten sind, finden die neuen Stichtage keine Anwendung.
+
 #### Art. 19
 
 **Aufhebung bisherigen Rechts**
@@ -277,6 +290,8 @@ geändert durch
 
 \- Nachtrag vom 14. April 2016, Botschaft und Vorlage des Regierungsrats vom 1. März 2016, Kantonsratsprotokoll vom 14. April 2016 (23.16.01), in Kraft seit 1. August 2016 (OGS 2016, 25),
 
-\- Nachtrag vom 29. Juni 2018 (OGS 2018, 23), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratsprotokoll vom 25. Mai und 29. Juni 2018 ((23.18.03), in Kraft seit 1. August 2019 (OGS 2018, 29), samt Berichtigung durch die Redaktionskommission vom 10. Juni 2020 (OGS 2020, 25)
+\- Nachtrag vom 29. Juni 2018 (OGS 2018, 23), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratsprotokoll vom 25. Mai und 29. Juni 2018 ((23.18.03), in Kraft seit 1. August 2019 (OGS 2018, 29), samt Berichtigung durch die Redaktionskommission vom 10. Juni 2020 (OGS 2020, 25),
+
+\- Nachtrag vom 26. Januar 2023, Botschaft und Vorlage des Regierungsrats vom 8. November 2022, Kantonsratsprotokoll vom 26. Januar 2023 (23.22.02), in Kraft seit 1. August 2023 (OGS 2023, 3)
 
 OGS 2006, 95
