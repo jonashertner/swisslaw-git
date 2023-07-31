@@ -4,7 +4,7 @@ number: "412.11.1"
 title: RÈGLEMENT du 06.07.2022 des gymnases (RGY)
 short: RGY
 language: fr
-version: 2022-08-01
+version: 2023-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/412.11.1?id=39748c2b-ab54-481e-9058-5389cd0e6d7e"
 ---
 
@@ -310,7 +310,7 @@ arrête
 
 <sup>5</sup> Aucune admission en classe spéciale n'est possible en 3<sup>e</sup> année.
 
-<sup>6</sup> Si un élève échoue son année ou ne satisfait plus aux critères artistiques ou sportifs au sens de l'alinéa 2, il ne peut pas poursuivre sa formation en classe spéciale.
+<sup>6</sup> Si un élève échoue son année plus d'une fois sur l'ensemble de son cursus d'études ou ne satisfait plus aux critères artistiques ou sportifs au sens de l'alinéa 2, il ne peut pas poursuivre sa formation en classe spéciale.
 
 [^21-1]: Modif. 1 du 28.06.2023: Modification Al. 6; entrée en vigueur au 01.08.2023 · Modif. 2 du 05.11.2025: Modification tArt; entrée en vigueur au 01.08.2025; Modification Al. 1,3,5; entrée en vigueur au 01.08.2025
 
@@ -330,7 +330,7 @@ arrête
 
 <sup>3</sup> Le Département peut déterminer des exceptions et en fixe les modalités.
 
-<sup>4</sup> L'effectif est limité à 20 élèves dans les classes spéciales pour artistes et sportifs d'élite.
+<sup>4</sup> L'effectif est limité à 20 élèves dans les classes spéciales pour artistes et sportifs d'élite. Des exceptions sont possibles uniquement afin de permettre l'enclassement d'élèves redoublant leur année en classe pour artistes et sportifs d'élite.
 
 [^23-1]: Modif. 1 du 28.06.2023: Modification Al. 4; entrée en vigueur au 01.08.2023 · Modif. 2 du 05.11.2025: Modification Al. 4; entrée en vigueur au 01.08.2025
 
