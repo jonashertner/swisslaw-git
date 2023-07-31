@@ -3,20 +3,20 @@ canton: BL
 number: "647.12"
 title: Verordnung für die Schulleitung und die Schulsekretariate
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-01-18
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-01-17
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/647.12"
-pdf: "https://bl.clex.ch/api/de/versions/3364/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Schulleitung und die Schulsekretariate
 
-Vom 13.05.2003 (Stand 01.08.2022)
+Vom 13.05.2003 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -458,18 +458,23 @@ beschliesst:
 
 <sup>1</sup> Den Schulen der Sekundarstufe I stehen für Schulsekretariatsaufgaben folgende Stellenprozente zur Verfügung:
 
-- a. Birsfelden und Reigoldswil — je 50 %;
-- b. Aesch, Frenkendorf und Waldenburgertal — je 70 %;
-- c. Gelterkinden, Laufen-Zwingen, Oberwil, Pratteln, Reinach und Therwil — je 90 %;
-- d. Allschwil, Arlesheim-Münchenstein, Binningen und Muttenz — je 100 %;
-- e. Sissach — 110 %;
-- f. Liestal — 120 %.
+- a. Birsfelden und Reigoldswil — je 60 %;
+- b. Aesch, Frenkendorf und Waldenburgertal — je 80 %;
+- c. Gelterkinden, Oberwil, Pratteln, Reinach und Therwil — je 110 %;
+- d. Allschwil, Binningen, Laufen-Zwingen und Muttenz — je 120 %;
+- e. Arlesheim-Münchenstein — 130 %;
+- f. Sissach — 140 %;
+- g. Liestal — 160 %.
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
 <sup>4</sup> …
+
+<sup>5</sup> Die anrechenbare Arbeitszeit wird alle 4 Jahre zeitgleich mit der Überprüfung der Leitungszeit der Schulleitungen vom Amt für Volksschulen überprüft und bei Bedarf angepasst.
+
+<sup>6</sup> Die Aufgaben der Schulsekretariate werden alle 4 Jahre zeitgleich mit der Überprüfung der Aufgaben der Schulleitungen vom Amt für Volksschulen überprüft.
 
 #### § 32e
 
