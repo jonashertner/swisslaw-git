@@ -5,12 +5,12 @@ title: "Ordinaziun davart la scola media commerziala *"
 short: OSMC
 language: rm
 version: 2023-08-01
-valid_until: 2026-06-30
+corrected: 2023-07-04
 version_adopted: 2023-07-04
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3331/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3326/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -65,7 +65,7 @@ relaschada da la regenza ils 8 da november 2011
 - 1\. ils roms dal sectur da basa: emprima lingua naziunala (Deutsch, rumantsch / Deutsch, italiano); segunda lingua naziunala (tedesco, franzos, talian); terza lingua (englais); matematica;
 - 2\. ils roms dal sectur central: finanzas e contabilitad; economia e dretg;
 - 3\. ils roms dal sectur cumplementar: istorgia e politica; tecnica ed ambient;
-- 4\. ils roms d'instrucziun supplementars d'enconuschientschas da la professiun, che cumpiglian ils dus roms pratica professiunala (champs da cumpetenza d'agir B fin D) e cumpetenzas digitalas (champ da cumpetenza d'agir E), sco er sport.
+- 4\. ils roms d'instrucziun supplementars d'enconuschientschas da la professiun, che cumpiglian ils dus roms pratica professiunala (champs da cumpetenza d'agir B fin D) e mund da lavur digital (champ da cumpetenza d'agir E), sco er sport.
 
 #### Art. 5
 

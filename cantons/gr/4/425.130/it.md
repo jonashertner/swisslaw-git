@@ -5,12 +5,12 @@ title: "Ordinanza concernente la scuola media di commercio *"
 short: OSMC
 language: it
 version: 2023-08-01
-valid_until: 2026-06-30
+corrected: 2023-07-04
 version_adopted: 2023-07-04
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3331/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3326/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -65,7 +65,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 19 dell
 - 1\. le materie del settore di base: prima lingua nazionale (Deutsch, rumantsch/Deutsch, italiano); seconda lingua nazionale (tedesco, francese, Italienisch); terza lingua (inglese); matematica;
 - 2\. le materie dell'opzione specifica: finanze e contabilità; economia e diritto;
 - 3\. le materie dell'opzione complementare: storia e politica; tecnica e ambiente;
-- 4\. le materie supplementari nelle conoscenze professionali consistenti nelle due materie pratica professionale (campi di competenze operative da B a D) e competenze digitali (campo di competenze operative E) nonché educazione fisica.
+- 4\. le materie supplementari nelle conoscenze professionali consistenti nelle due materie pratica professionale (campi di competenze operative da B a D) e mondo del lavoro digitale (campo di competenze operative E) nonché educazione fisica.
 
 #### Art. 5
 

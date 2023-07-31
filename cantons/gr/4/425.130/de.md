@@ -5,12 +5,12 @@ title: Verordnung über die Handelsmittelschule
 short: HMSV
 language: de
 version: 2023-08-01
-valid_until: 2026-06-30
+corrected: 2023-07-04
 version_adopted: 2023-07-04
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3331/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3326/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -65,7 +65,7 @@ von der Regierung erlassen am 8. November 2011
 - 1\. die Fächer des Grundlagenbereichs: erste Landessprache (Deutsch, rumantsch/Deutsch, italiano); zweite Landessprache (tedesco, Französisch, Italienisch); dritte Sprache (Englisch); Mathematik;
 - 2\. die Fächer des Schwerpunktbereichs: Finanz- und Rechnungswesen; Wirtschaft und Recht;
 - 3\. die Fächer des Ergänzungsbereichs: Geschichte und Politik; Technik und Umwelt;
-- 4\. die zusätzlichen Unterrichtsfächer in den Berufskenntnissen, bestehend aus den beiden Fächern Berufliche Praxis (Handlungskompetenzbereiche B bis D) und Digitale Kompetenzen (Handlungskompetenzbereich E), sowie Sport.
+- 4\. die zusätzlichen Unterrichtsfächer in den Berufskenntnissen, bestehend aus den beiden Fächern Berufliche Praxis (Handlungskompetenzbereiche B bis D) und Digitale Arbeitswelt (Handlungskompetenzbereich E), sowie Sport.
 
 #### Art. 5
 
