@@ -4,11 +4,11 @@ title: Procedura penale militare del 23 marzo 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: it
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230801/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230801-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/it"
 
 (PPM)
 
-del 23 marzo 1979 (Stato 1° luglio 2023)
+del 23 marzo 1979 (Stato 1° agosto 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -258,10 +258,12 @@ Il presidente designa fra i giudici ordinari un ufficiale come suo sostituto; qu
 - b. sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni;
 - c. sulla sorveglianza con appositi apparecchi tecnici;
 - d. sulle inchieste mascherate;
-- e. su misure tese alla protezione dei partecipanti al procedimento.[^15-2]
+- d<sup>bis</sup>.[^15-2] sulle analisi del DNA;
+- e. su misure tese alla protezione dei partecipanti al procedimento.[^15-3]
 
 [^15-1]: Nuovo testo giusta l’all. n. 4 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-2]: Nuovo testo giusta l’all. 1 n. II 12 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^15-2]: Introdotta all’all. 1 n. 3 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^15-3]: Nuovo testo giusta l’all. 1 n. II 12 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 15a
 
@@ -1408,6 +1410,79 @@ La polizia o il giudice istruttore che le ha ordinate pone fine senza indugio al
 <sup>3</sup> La fine dell’intervento va predisposta in modo tale da non esporre inutilmente a pericolo l’agente in incognito.
 
 <sup>4</sup> Alla comunicazione delle indagini in incognito e ai reclami si applicano per analogia gli articoli 73*m* capoverso 1 e 73*n*.
+
+### Sezione 10*d*: Analisi del DNA
+
+[^tit2-chap1-sec10d-1]
+
+[^tit2-chap1-sec10d-1]: Introdotta all’all. 1 n. 3 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 73s
+
+**Profilo del DNA. Condizioni in generale**
+
+<sup>1</sup>
+
+Per far luce su un crimine o su un delitto è possibile prelevare un campione e allestire un profilo del DNA da:
+
+- a. l’imputato;
+- b. altre persone, in particolare vittime o persone autorizzate ad accedere al luogo del reato, se il prelievo è necessario per distinguere il materiale biologico proveniente da loro da quello dell’imputato;
+- c. persone decedute;
+- d. materiale biologico pertinente al reato.
+
+<sup>2</sup> Se il materiale biologico pertinente al reato permette di allestire soltanto il profilo del DNA del cromosoma Y, per far luce su un crimine il giudice istruttore può disporre il confronto di tale profilo nel sistema d’informazione di cui all’articolo 10 della legge del 20 giugno 2003[^73s-1] sui profili del DNA.
+
+[^73s-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 73t
+
+**Indagini a tappeto**
+
+<sup>1</sup> Per far luce su un crimine, ad istanza del giudice istruttore il presidente del tribunale militare di cassazione può disporre il prelievo di campioni e l’allestimento di profili del DNA su persone che presentano determinate caratteristiche accertate in relazione alla commissione del reato. La cerchia delle persone da sottoporre a prelievo può essere ulteriormente ristretta mediante una fenotipizzazione ai sensi dell’articolo 73*x*.
+
+<sup>2</sup> Se il confronto del profilo ai sensi del capoverso 1 non dà esito, ad istanza del giudice istruttore il presidente del tribunale militare di cassazione può disporre che le indagini proseguano con la verifica di un legame di parentela con il donatore della traccia.
+
+#### Art. 73u
+
+**Profilo del DNA di condannati**
+
+Nella sentenza il giudice può disporre il prelievo di un campione e l’allestimento di un profilo del DNA su persone:
+
+- a. che sono state condannate a una pena detentiva superiore a un anno per aver commesso intenzionalmente un crimine;
+- b. che sono state condannate per un crimine o delitto intenzionale contro la vita o l’integrità della persona oppure contro l’integrità sessuale;
+- c. nei cui confronti è stata ordinata una misura terapeutica o l’internamento.
+
+#### Art. 73v
+
+**Esecuzione dei prelievi di campioni**
+
+I prelievi invasivi di campioni sono effettuati da un medico o da altro personale medico specializzato.
+
+#### Art. 73w
+
+**Ricerca di legami di parentela**
+
+Per far luce su uno dei crimini di cui agli articoli 108–114*b*, 115–117, 121, 132, 137*a* numeri 2–4, 151*b*, 151*c* e 153–156 CPM[^73w-1], può essere disposta una ricerca di legami di parentela ai sensi dell’articolo 2*a* della legge del 20 giugno 2003[^73w-2] sui profili del DNA se le operazioni d’inchiesta già svolte non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
+
+[^73w-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^73w-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 73x
+
+**Fenotipizzazione**
+
+Per far luce su uno dei crimini di cui agli articoli 108–114*b*, 115–117, 121, 132, 137*a* numeri 2–4, 151*b*, 151*c* e 153–156 CPM[^73x-1], può essere disposta una fenotipizzazione ai sensi dell’articolo 2*b* della legge del 20 giugno 2003[^73x-2] sui profili del DNA.
+
+[^73x-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^73x-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 73y
+
+**Applicabilità della legge sui profili del DNA**
+
+Per altro è applicabile la legge del 20 giugno 2003[^73y-1] sui profili del DNA.
+
+[^73y-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 ### Sezione 11: Testimoni e persone informate sui fatti
 

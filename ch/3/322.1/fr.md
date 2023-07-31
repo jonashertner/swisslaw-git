@@ -4,11 +4,11 @@ title: Procédure pénale militaire du 23 mars 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: fr
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230801-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/fr"
 
 (PPM)
 
-du 23 mars 1979 (État le 1<sup>er</sup> juillet 2023)
+du 23 mars 1979 (État le 1<sup>er</sup> août 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -259,10 +259,12 @@ Le président désigne parmi les juges ordinaires un officier pour le remplacer;
 - b. de la surveillance de la correspondance par poste et télécommunication;
 - c. du recours à des dispositifs techniques de surveillance;
 - d. de l’investigation secrète;
-- e. des mesures de protection des participants à la procédure.[^15-2]
+- d<sup>bis</sup>.[^15-2] de l’analyse de l’ADN;
+- e. des mesures de protection des participants à la procédure.[^15-3]
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-2]: Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^15-2]: Introduite par l’annexe 1 ch. 3 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^15-3]: Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 15a
 
@@ -1408,6 +1410,79 @@ L’autorité qui a ordonné les recherches secrètes y met fin immédiatement d
 <sup>3</sup> Lors de la clôture de l’intervention, il y a lieu de veiller à ce que l’agent affecté aux recherches secrètes ne soit pas exposé inutilement à des dangers.
 
 <sup>4</sup> Les art. 73*m*, al. 1, et 73*n* s’appliquent par analogie à la communication adressée à la personne visée et au recours.
+
+### Section 10*d* Analyse de l’ADN
+
+[^tit2-chap1-sec10d-1]
+
+[^tit2-chap1-sec10d-1]: Introduite par l’annexe 1 ch. 3 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 73s
+
+**Profil d’ADN. Conditions en général**
+
+<sup>1</sup>
+
+Afin d’élucider un crime ou un délit, le prélèvement d’un échantillon et l’établissement d’un profil d’ADN peuvent être ordonnés sur:
+
+- a. le prévenu;
+- b. d’autres personnes, notamment les victimes et les personnes habilitées à se rendre sur les lieux de l’infraction si cela est nécessaire pour distinguer leur matériel biologique de celui du prévenu;
+- c. des personnes décédées;
+- d. le matériel biologique ayant un rapport avec l’infraction.
+
+<sup>2</sup> Si seul le profil d’ADN du chromosome Y peut être établi à partir du matériel biologique ayant un rapport avec l’infraction, le juge d’instruction peut, afin d’élucider un crime, ordonner la comparaison de ce profil dans le système d’information visé à l’art. 10 de la loi du 20 juin 2003 sur les profils d’ADN[^73s-1].
+
+[^73s-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 73t
+
+**Prélèvement d’échantillons lors d’enquêtes de grande envergure**
+
+<sup>1</sup> Afin d’élucider un crime, le président du Tribunal militaire de cassation peut, à la demande du juge d’instruction, ordonner le prélèvement d’échantillons sur des personnes présentant des caractéristiques spécifiques constatées en rapport avec la commission de l’acte, en vue de l’établissement de leur profil d’ADN. Le cercle des personnes qui doivent faire l’objet d’un prélèvement peut être réduit encore au moyen d’un phénotypage au sens de l’art. 73*x*.
+
+<sup>2</sup> Si la comparaison de profils visée à l’al. 1 n’aboutit à aucune concordance, le président du Tribunal militaire de cassation peut, à la demande du juge d’instruction, ordonner que les investigations se poursuivent par l’examen de l’existence d’un lien de parenté avec le donneur de la trace.
+
+#### Art. 73u
+
+**Profil d’ADN de personnes condamnées**
+
+Dans le jugement qu’il rend, le tribunal peut ordonner, en vue de l’établissement d’un profil d’ADN, qu’un échantillon soit prélevé sur les personnes:
+
+- a. qui ont été condamnées pour la commission intentionnelle d’un crime à une peine privative de liberté de plus d’un an;
+- b. qui ont été condamnées pour un crime ou un délit commis intentionnellement contre la vie, l’intégrité physique ou l’intégrité sexuelle;
+- c. contre lesquelles une mesure thérapeutique ou l’internement a été prononcé.
+
+#### Art. 73v
+
+**Exécution du prélèvement d’échantillons**
+
+Le prélèvement invasif d’échantillons doit être exécuté par un médecin ou un auxiliaire médical.
+
+#### Art. 73w
+
+**Recherche en parentèle**
+
+Afin d’élucider un des crimes visés aux art. 108 à 114*b*, 115 à 117, 121, 132, 137*a*, ch. 2 à 4, 151*b*, 151*c* et 153 à 156 CPM[^73w-1], une recherche en parentèle au sens de l’art. 2*a* de la loi du 20 juin 2003 sur les profils d’ADN[^73w-2] peut être ordonnée si les mesures prises jusqu’alors dans le cadre de l’instruction sont restées sans succès ou si les recherches n’auraient aucune chance d’aboutir ou seraient excessivement difficiles.
+
+[^73w-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^73w-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 73x
+
+**Phénotypage**
+
+Un phénotypage au sens de l’art. 2*b* de la loi du 20 juin 2003 sur les profils d’ADN[^73x-1] peut être ordonné afin d’élucider un des crimes visés aux art. 108 à 114*b,* 115 à 117, 121, 132, 137*a*, ch. 2 à 4, 151*b*, 151*c* et 153 à 156 CPM[^73x-2].
+
+[^73x-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^73x-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+#### Art. 73y
+
+**Applicabilité de la loi sur les profils d’ADN**
+
+Au surplus, la loi du 20 juin 2003 sur les profils d’ADN[^73y-1] est applicable.
+
+[^73y-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 ### Section 11 Témoins et personnes appelées à donner des renseignements
 

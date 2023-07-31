@@ -4,11 +4,11 @@ title: Militärstrafprozess vom 23. März 1979 (MStP)
 short: MStP
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: de
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230801/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230801-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/de"
 
 (MStP)
 
-vom 23. März 1979 (Stand am 1. Juli 2023)
+vom 23. März 1979 (Stand am 1. August 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -258,10 +258,12 @@ Der Präsident ernennt aus dem Kreis der ordentlichen Richter einen Offizier als
 - b. Überwachung des Post- und Fernmeldeverkehrs;
 - c. Überwachung mit technischen Überwachungsgeräten;
 - d. verdeckte Ermittlung;
-- e. Massnahmen zum Schutz der Verfahrensbeteiligten.[^15-2]
+- d<sup>bis</sup>.[^15-2] DNA-Analysen;
+- e. Massnahmen zum Schutz der Verfahrensbeteiligten.[^15-3]
 
 [^15-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-2]: Fassung gemäss Anhang 1 Ziff. II 12 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^15-2]: Eingefügt durch Anhang Ziff. I 3 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^15-3]: Fassung gemäss Anhang 1 Ziff. II 12 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 15a
 
@@ -1407,6 +1409,79 @@ Die anordnende Polizei oder der Untersuchungsrichter beendet die verdeckte Fahnd
 <sup>3</sup> Bei der Beendigung ist darauf zu achten, dass die verdeckte Fahnderin oder der verdeckte Fahnder keiner abwendbaren Gefahr ausgesetzt wird.
 
 <sup>4</sup> Für die Mitteilung der verdeckten Fahndung und die Beschwerde gelten die Artikel 73*m* Absatz 1 und 73*n* sinngemäss.
+
+### Zehnter *d* Abschnitt: DNA-Analysen
+
+[^tit2-chap1-sec10d-1]
+
+[^tit2-chap1-sec10d-1]: Eingefügt durch Anhang Ziff. I 3 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 73s
+
+**DNA-Profil. Voraussetzungen im Allgemeinen**
+
+<sup>1</sup>
+
+Zur Aufklärung eines Verbrechens oder eines Vergehens kann eine Probe genommen und ein DNA-Profil erstellt werden von:
+
+- a. der beschuldigten Person;
+- b. anderen Personen, insbesondere Opfern oder Tatortberechtigten, soweit es notwendig ist, um von ihnen stammendes biologisches Material von jenem der beschuldigten Person zu unterscheiden;
+- c. toten Personen;
+- d. tatrelevantem biologischem Material.
+
+<sup>2</sup> Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann der Untersuchungsrichter zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003[^73s-1] anordnen.
+
+[^73s-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 73t
+
+**Massenuntersuchungen**
+
+<sup>1</sup> Der Präsident des Militärkassationsgerichts kann auf Antrag des Untersuchungsrichters zur Aufklärung eines Verbrechens die Entnahme von Proben und die Erstellung von DNA-Profilen gegenüber Personen anordnen, die bestimmte, in Bezug auf die Tatbegehung festgestellte Merkmale aufweisen. Der Kreis der zu untersuchenden Personen kann mittels einer Phänotypisierung nach Artikel 73*x* näher eingegrenzt werden.
+
+<sup>2</sup> Ergibt sich beim Profilvergleich nach Absatz 1 keine Übereinstimmung, kann der Präsident des Militärkassationsgerichts auf Antrag des Untersuchungsrichters anordnen, dass als Grundlage für die weiteren Ermittlungen eine Verwandtschaft mit der Spurenlegerin oder dem Spurenleger überprüft wird.
+
+#### Art. 73u
+
+**DNA-Profil von verurteilten Personen**
+
+Das Gericht kann in seinem Urteil anordnen, dass eine Probe genommen und ein DNA-Profil erstellt wird von Personen:
+
+- a. die wegen eines vorsätzlich begangenen Verbrechens zu einer Freiheitsstrafe von mehr als einem Jahr verurteilt worden sind;
+- b. die wegen eines vorsätzlich begangenen Verbrechens oder Vergehens gegen Leib und Leben oder gegen die sexuelle Integrität verurteilt worden sind;
+- c. gegenüber denen eine therapeutische Massnahme oder die Verwahrung angeordnet worden ist.
+
+#### Art. 73v
+
+**Durchführung der Probenahme**
+
+Invasive Probenahmen werden von einer Ärztin oder einem Arzt oder von einer anderen medizinischen Fachperson vorgenommen.
+
+#### Art. 73w
+
+**Suchlauf nach Verwandtschaftsbezug**
+
+Zur Aufklärung eines Verbrechens gemäss den Artikeln 108−114*b*, 115−117, 121, 132, 137*a* Ziffern 2−4, 151*b*, 151*c* und 153−156 MStG[^73w-1] kann ein Suchlauf nach Verwandtschaftsbezug nach Artikel 2*a* des DNA-Profil-Gesetzes vom 20. Juni 2003[^73w-2] angeordnet werden, wenn die bisherigen Untersuchungsmassnahmen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
+
+[^73w-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^73w-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 73x
+
+**Phänotypisierung**
+
+Die Phänotypisierung nach Artikel 2*b* des DNA-Profil-Gesetzes vom 20. Juni 2003[^73x-1] kann zur Verfolgung der in den folgenden Artikeln aufgeführten Verbrechen angeordnet werden: Artikel 108−114*b,* 115−117, 121, 132, 137*a* Ziffer 2−4, 151*b*, 151*c* und 153−156 MStG[^73x-2].
+
+[^73x-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^73x-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+#### Art. 73y
+
+**Anwendbarkeit des DNA-Profil-Gesetzes**
+
+Im Übrigen findet das DNA-Profil-Gesetz vom 20. Juni 2003[^73y-1] Anwendung.
+
+[^73y-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 ### Elfter Abschnitt[^tit2-chap1-sec11-1]: Zeugen und Auskunftspersonen
 
