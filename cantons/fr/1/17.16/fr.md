@@ -1,0 +1,264 @@
+---
+canton: FR
+number: "17.16"
+title: "Ordonnance sur la sécurité de l'information"
+short: OSI
+language: fr
+version: 2023-08-01
+valid_until: 2026-04-20
+version_adopted: 2023-07-06
+adopted: 2023-07-06
+in_force: 2023-08-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.16"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7807/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur la sécurité de l'information
+
+Sécurité de l'information – O
+
+(OSI)
+
+du 06.07.2023 (version entrée en vigueur le 01.08.2023)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu l'article 118 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
+
+Vu l'article 70 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration (LOCEA);
+
+Vu l'article 6 al. 2 de la loi du 10 septembre 2015 sur l'archivage et les Archives de l'Etat (LArch);
+
+Vu les articles 12d, 12e et 22 de la loi du 25 novembre 1994 sur la protection des données (LPrD);
+
+Vu la loi du 18 décembre 2020 sur la cyberadministration (LCyb);
+
+Sur la proposition de la Direction de la sécurité, de la justice et du sport,
+
+Arrête:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**But et objet**
+
+<sup>1</sup> La présente ordonnance règle la mise en place de l'organisation dédiée à la sécurité de l'information au sein de l'administration cantonale.
+
+<sup>2</sup> A cette fin, elle:
+
+- a) détermine les organes concernés en matière de sécurité de l'information;
+- b) institue le ou la délégué‑e à la sécurité de l'information (ci-après: le ou la délégué‑e SI);
+- c) fixe les compétences principales des organes concernés et du ou de la délégué‑e SI.
+
+#### Art. 2
+
+**Champ d'application**
+
+<sup>1</sup> La présente ordonnance s'applique au Conseil d'Etat, aux Directions et à la Chancellerie d'Etat ainsi qu'à leurs unités administratives, y compris les unités autonomes au sens de l'article 2 al. 2 de l'ordonnance du 28 juin 2021 sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat.
+
+<sup>2</sup> Les unités autonomes mentionnées à l'alinéa 1 fixent leur propre organisation et nomment leurs propres personnes responsables de la sécurité de l'information ou peuvent être intégrées à l'organisation de la Direction à laquelle elles sont rattachées administrativement ou à celle d'une autre entité autonome.
+
+<sup>3</sup> Les dispositions spéciales fédérales ou cantonales en matière de sécurité de l'information sont réservées.
+
+#### Art. 3
+
+**Définitions**
+
+<sup>1</sup> Au sens de la présente ordonnance, on entend par:
+
+- a) sécurité de l'information: l'ensemble des normes, mesures, procédures, stratégies, directives, méthodes de gestion des risques, actions, formations, bonnes pratiques et technologies destinées à renforcer la sécurité des informations détenues et traitées par les organes de l'administration cantonale;
+- b) système d'information: un ensemble organisé de ressources pour créer, collecter, grouper, classifier, traiter et diffuser de l'information;
+- c) moyen informatique: un ensemble de ressources matérielles et logicielles constituées de technologies de l'information et de la communication;
+- d) journalisation: l'enregistrement, à des fins de contrôle ou de reconstitution, de tout ou partie des activités effectuées dans un système d'information;
+- e) incident de sécurité: un ou plusieurs événements indésirables ou inattendus liés à la sécurité de l'information et présentant une forte probabilité d'altérer la fiabilité et la qualité des informations qu'un organe public traite, de compromettre la poursuite de ses activités et/ou de constituer une menace pour des personnes à l'intérieur ou à l'extérieur de l'administration cantonale;
+- f) procédure d'appel: le mode de communication automatisée des données personnelles par lequel les destinataires, en vertu d'une autorisation du ou de la responsable du traitement, décident de leur propre chef, sans contrôle préalable, du moment et de l'étendue de la communication.
+
+#### Art. 4
+
+**Responsabilités**
+
+<sup>1</sup> Tout organe public qui détient et traite des informations est responsable de leur sécurité, en particulier leur intégrité, leur disponibilité, leur confidentialité, leur traçabilité, leur pérennité et leur résilience.
+
+<sup>2</sup> Lorsque plusieurs organes publics traitent conjointement des informations, la répartition de leurs responsabilités est fixée dans une convention écrite, à moins qu'elle ne résulte expressément d'une disposition légale.
+
+<sup>3</sup> En outre, le Service de l'informatique et des télécommunications (ci-après: le SITel) est responsable de la sécurité des moyens informatiques conformément à l'article 13.
+
+## 2 Organisation
+
+### 2.1 Organes stratégiques
+
+#### Art. 5
+
+**Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat a les attributions suivantes:
+
+- a) il définit les orientations stratégiques de l'Etat en matière de sécurité de l'information;
+- b) il adopte la politique générale de sécurité de l'information de l'Etat (ci-après: PGSI);
+- c) il propose dans le cadre du processus budgétaire annuel les moyens nécessaires à la sécurité de l'information;
+- d) il approuve l'engagement du ou de la délégué‑e SI;
+- e) il arbitre les éventuels désaccords entre le ou la délégué‑e SI et une Direction.
+
+#### Art. 6
+
+**Direction de la sécurité, de la justice et du sport (DSJS)**
+
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport (ci-après: la DSJS) a les attributions suivantes:
+
+- a) elle porte les projets en matière de sécurité de l'information au sein de l'administration cantonale;
+- b) elle préavise à l'intention du Conseil d'Etat le contenu et les modifications successives de la PGSI;
+- c) elle préavise les propositions de budget des Directions spécifiques à la sécurité de l'information;
+- d) elle informe le Conseil d'Etat de toutes les affaires importantes en lien avec la sécurité de l'information;
+- e) elle fixe des orientations portant sur les principes ou les pratiques à favoriser en matière de sécurité de l'information;
+- f) elle autorise le ou la délégué‑e SI à mener des actions ciblées dans le but d'évaluer et/ou d'améliorer la sécurité de l'information de l'administration cantonale;
+- g) elle approuve les directives, les recommandations et les modèles de chartes élaborées par le ou la délégué‑e SI;
+- h) elle confie, sur recommandation du ou de la délégué‑e SI, des mandats d'audits à des tiers publics ou privés pour évaluer la sécurité de l'information au sein de l'administration.
+
+#### Art. 7
+
+**Conférence des secrétaires généraux (CSG)**
+
+<sup>1</sup> La Conférence des secrétaires généraux (ci-après: la CSG) coordonne les initiatives en matière de sécurité de l'information au sein de l'administration cantonale ainsi que leur mise en œuvre.
+
+<sup>2</sup> La personne représentant la DSJS au sein de la CSG assure la préparation et le suivi des dossiers dans le domaine de la sécurité de l'information.
+
+### 2.2 Organes opérationnels
+
+#### Art. 8
+
+**Directions du Conseil d'Etat**
+
+<sup>1</sup> Les Directions ont les attributions suivantes:
+
+- a) elles s'assurent que les unités administratives qui leur sont subordonnées appliquent les dispositions de la présente ordonnance et des autres textes adoptés conformément à celui-ci;
+- b) elles établissent leurs besoins budgétaires spécifiques à la sécurité de l'information;
+- c) elles arbitrent les éventuels désaccords entre le ou la délégué‑e SI et l'une de ses unités administratives;
+- d) elles veillent au besoin de formation et de sensibilisation de leur personnel.
+
+#### Art. 9
+
+**Directions – Correspondants et correspondantes SI**
+
+<sup>1</sup> Chaque Direction désigne au moins un correspondant ou une correspondante à la sécurité de l'information. En cette qualité, cette personne:
+
+- a) conseille et aide les unités administratives dans la mise en oeuvre de leurs obligations en vertu de la présente ordonnance;
+- b) s'assure auprès des unités administratives qu'elles ont mis en place des mesures de sécurité adaptées et que ces mesures soient appliquées;
+- c) est l'interlocuteur ou l'interlocutrice principal‑e au sein de la Direction pour toutes les questions relatives à la sécurité de l'information;
+- d) fait partie du réseau des correspondants et correspondantes à la sécurité de l'information (art. 12).
+
+<sup>2</sup> La fonction de correspondant ou correspondante à la sécurité de l'information peut être attribuée à la personne désignée comme correspondant ou correspondante à la protection des données.
+
+#### Art. 10
+
+**Délégué‑e à la sécurité de l'information – Tâches**
+
+<sup>1</sup> Le ou la délégué‑e à la sécurité de l'information (ci-après: délégué‑e SI) accomplit ses tâches de manière transversale pour l'ensemble des Directions.
+
+<sup>2</sup> En particulier, il ou elle:
+
+- a) conseille le Conseil d'Etat, les Directions, les unités administratives et les correspondants et correspondantes SI sur les questions liées à la sécurité de l'information et les mesures à prendre dans ce domaine;
+- b) élabore la PGSI et d'autres directives en matière de sécurité de l'information, veille à leur mise en oeuvre et en coordonne l'exécution;
+- c) fait rapport régulièrement à la DSJS sur l'état de situation de la sécurité de l'information dans l'administration cantonale, les menaces existantes et nouvelles, ainsi que les mesures à prendre pour y faire face;
+- d) organise des audits sur la sécurité de l'information dans les limites de ses compétences;
+- e) participe à la conception du dispositif de gestion des incidents;
+- f) organise les séances du réseau des correspondants et correspondantes à la sécurité de l'information;
+- g) accomplit les autres tâches que lui confie la DSJS dans le domaine de la sécurité de l'information.
+
+<sup>3</sup> Le ou la délégué‑e SI est intégré‑e au secrétariat général de la DSJS. Toutefois, dans l'exercice des tâches qu'il ou elle assume pour l'ensemble de l'administration cantonale, il ou elle est soumis‑e aux instructions du Conseil d'Etat. L'article 51 al. 2 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration est applicable par analogie.
+
+#### Art. 11
+
+**Délégué‑e à la sécurité de l'information – Collaboration**
+
+<sup>1</sup> Dans l'accomplissement de ses tâches, le ou la délégué‑e SI collabore et échange des informations avec:
+
+- a) la CSG;
+- b) les Présidents des commissions spécialisées de l'informatique cantonale (CoCyb, CIEns, etc.);
+- c) la ou les personnes responsables de la sécurité informatique au sein du SITel;
+- d) les personnes responsables de la sécurité de l'information de l'administration et celles des unités autonomes au sens de l'article 2 al. 2;
+- e) les responsables du traitement;
+- f) le ou la préposé‑e à la protection des donnée sur toutes les questions de sécurité concernant le traitement de données personnelles;
+- g) les autres autorités en Suisse chargées de la sécurité de l'information.
+
+<sup>2</sup> Le ou la délégué‑e SI recueille les informations nécessaires à l'accomplissement de ses tâches. Il ou elle peut notamment demander des renseignements, exiger la production de documents, procéder à des inspections et se faire présenter des systèmes d'information. Le secret de fonction ne peut lui être opposé.
+
+#### Art. 12
+
+**Réseau des correspondants et correspondantes à la sécurité de l'information**
+
+<sup>1</sup> Le réseau est un comité interdisciplinaire réunissant dans la mesure du possible des compétences juridiques, techniques et managériales.
+
+<sup>2</sup> Le réseau a les tâches suivantes:
+
+- a) il promeut l'exécution harmonisée de la présente ordonnance et de la PGSI au sein de l'administration cantonale;
+- b) il participe à l'échange d'informations, notamment sur la gestion des risques, sur les meilleures pratiques et sur les problèmes et les incidents dans le domaine de la sécurité de l'information;
+- c) il assiste le ou la délégué‑e SI dans l'élaboration des différents documents qu'il ou elle doit rédiger en vertu de la présente ordonnance.
+
+<sup>3</sup> Le réseau, présidé par le ou la délégué‑e SI, est composé du ou de la préposé‑e à la protection des données et d'au moins un représentant ou une représentante par Direction (correspondant ou correspondante SI). Il peut également accueillir des personnes responsables de la sécurité de l'information des unités autonomes, au sens de l'article 2 al. 2 de l'ordonnance du 28 juin 2021 sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat, et des communes.
+
+### 2.3 Organes spécialisés
+
+#### Art. 13
+
+**Service de l'informatique et des télécommunications**
+
+<sup>1</sup> Le SITel est responsable de la sécurité des moyens informatiques qu'il gère et met à disposition de l'administration cantonale.
+
+#### Art. 14
+
+**Service du personnel et d'organisation**
+
+<sup>1</sup> Le Service du personnel et d'organisation organise des cycles de formation au profit du personnel de l'Etat pour développer et renforcer les capacités de l'administration cantonale en matière de sécurité de l'information.
+
+<sup>2</sup> Il bénéficie dans cette tâche du soutien du ou de la délégué‑e SI et du SITel.
+
+#### Art. 15
+
+**Autorité de la transparence, de la protection des données et de la médiation**
+
+<sup>1</sup> Les compétences de conseil et de contrôle de l'Autorité de la transparence, de la protection des données et de la médiation (ci-après: ATPrDM), conformément à la législation relative à la protection des données, sont réservées.
+
+### 2.4 Organes compétents à raison de la matière
+
+#### Art. 16
+
+**Unités administratives**
+
+<sup>1</sup> Les unités administratives procèdent à une évaluation des risques pertinents de leurs systèmes d'information et prennent les mesures propres à assurer leur sécurité conformément à la présente ordonnance et à la PGSI.
+
+<sup>2</sup> Elles veillent à la formation de leur personnel et vérifient régulièrement l'application, par les collaborateurs et collaboratrices, des mesures prescrites.
+
+<sup>3</sup> L'article 4 al. 2 est réservé.
+
+#### Art. 17
+
+**Utilisateurs et utilisatrices**
+
+<sup>1</sup> Les collaborateurs et les collaboratrices qui utilisent des systèmes d'information mis à disposition par l'Etat veillent à l'application des mesures prescrites en vertu de la présente ordonnance.
+
+<sup>2</sup> Lorsque les utilisateurs et utilisatrices sont des mandataires non soumis aux dispositions de la présente ordonnance, leurs responsabilités en matière de sécurité sont définies au moyen d'un contrat.
+
+<sup>3</sup> Les utilisateurs et utilisatrices qui, dans l'accomplissement de leurs tâches, constatent des lacunes en matière de sécurité de l'information en informent leur hiérarchie. Celle-ci prend les mesures utiles.
+
+## 3 Collaboration avec la Confédération et les autres cantons
+
+#### Art. 18
+
+**Collaboration dans le domaine de la sécurité de l'information**
+
+<sup>1</sup> Le ou la délégué‑e SI et le SITel collaborent avec la Confédération et les autres cantons sur les différents aspects liés à la sécurité de l'information et des moyens informatiques.
+
+<sup>2</sup> Ils peuvent dans ce cadre échanger des informations et des données personnelles avec les organes spécialisés de la Confédération et des cantons.
+
+## 4 Validité
+
+#### Art. 19
+
+**Durée de validité**
+
+<sup>1</sup> La présente ordonnance porte effet jusqu'à l'entrée en vigueur de la loi sur la sécurité de l'information et de sa réglementation d'exécution.
+
+2023\_062
