@@ -4,13 +4,13 @@ number: "261.1"
 title: Gesetz über die Gerichte und die Justizbehörden
 short: "Gerichtsgesetz, GerG"
 language: de
-version: 2022-02-01
-valid_until: 2023-07-31
-version_adopted: 2021-10-27
+version: 2023-08-01
+valid_until: 2025-06-30
+version_adopted: 2023-03-29
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/981/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1160/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/981/pdf_file"
 
 (Gerichtsgesetz, GerG)
 
-vom 09.06.2010 (Stand 01.02.2022)
+vom 09.06.2010 (Stand 01.08.2023)
 
 Der Landrat von Nidwalden,
 
@@ -797,13 +797,20 @@ beschliesst:
 
 #### Art. 70
 
-**Parteivertretung**
+**Parteivertretung, Verteidigung**
 
-<sup>1</sup> Die vertragliche Vertretung von Parteien vor den Gerichten und den Strafuntersuchungsbehörden richtet sich nach den Bestimmungen des kantonalen Anwaltsgesetzes[^70-1].
+<sup>1</sup> Die berufsmässige Parteivertretung beziehungsweise die Verteidigung von Parteien vor den Gerichten und den Strafverfolgungsbehörden richtet sich:
 
-<sup>2</sup> Die im kantonalen Anwaltsregister eingetragenen Anwältinnen und Anwälte sind verpflichtet, amtlich verfügte Vertretungen sowie die Vertretung von Parteien, denen die unentgeltliche Rechtspflege gewährt wurde, zu übernehmen.
+- 1\. in Zivilverfahren nach Art. 68 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO)[^70-1];
+- 2\. in Straf- sowie in Übertretungsstrafverfahren nach den Art. 127 ff. der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO)[^70-2].
 
-[^70-1]: NG 267.1
+<sup>2</sup> Zur berufsmässigen Parteivertretung in Verwaltungsgerichtsverfahren ist berechtigt, wer im kantonalen Anwaltsregister eingetragen ist oder die Freizügigkeit nach dem BGFA[^70-3] geniesst.
+
+<sup>3</sup> Die im kantonalen Anwaltsregister eingetragenen Anwältinnen und Anwälte sind verpflichtet, amtlich verfügte Vertretungen sowie die Vertretung von Parteien, denen die unentgeltliche Rechtspflege gewährt wurde, zu übernehmen.
+
+[^70-1]: SR 272.0
+[^70-2]: SR 312.0
+[^70-3]: SR 935.61
 
 #### Art. 71
 
