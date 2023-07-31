@@ -3,20 +3,20 @@ canton: SO
 number: "414.471.12"
 title: Reglement über die Fachmaturitäten
 language: de
-version: 2020-09-01
-valid_until: 2023-07-31
-version_adopted: 2020-05-18
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-07-17
 adopted: 2007-06-26
 in_force: 2007-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.471.12"
-pdf: "https://bgs.so.ch/api/de/versions/5086/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Fachmaturitäten
 
-Vom 26.06.2007 (Stand 01.09.2020)
+Vom 26.06.2007 (Stand 01.08.2023)
 
 Das Departement für Bildung und Kultur des Kantons Solothurn
 
@@ -33,6 +33,8 @@ verfügt:
 **Zweck**
 
 <sup>1</sup> Dieses Reglement regelt die Voraussetzungen und das Prüfungsverfahren zum Erwerb der Fachmaturität.
+
+<sup>2</sup> Die Fachmaturität ermöglicht den Zugang zu einer dem Fachbereich verwandten Studienrichtung an einer Fachhochschule respektive an einer pädagogischen Hochschule.
 
 #### § 2
 
@@ -56,17 +58,27 @@ verfügt:
 
 <sup>1</sup> Die Mittelschulkonferenz setzt Anmeldefristen und Prüfungstermine fest und entscheidet über die Durchführung der Fachmaturitäten.
 
-<sup>2</sup> Sie kann ergänzende Bestimmungen zu den Praktika und der Fachmaturitätsarbeit erlassen.
+<sup>2</sup> Sie kann ergänzende Bestimmungen zu den Praktika der Berufsfelder Gesundheit und Soziale Arbeit, zum Praxiseinsatz des Berufsfelds Pädagogik und zur Fachmaturitätsarbeit erlassen.
 
 #### § 5
 
-**Voraussetzungen für die Erteilung der Fachmaturität**
+**Voraussetzungen für die Erteilung des Fachmaturitätszeugnisses**
 
-<sup>1</sup> Die Fachmittelschule erteilt den Fachmaturitätsausweis, wenn folgende Leistungen erbracht sind:
+<sup>1</sup> Die Fachmittelschule erteilt das Fachmaturitätszeugnis, wenn folgende Leistungen erbracht sind:
 
 - a) Erwerb des Fachmittelschulausweises im gewählten Berufsfeld;
-- b) bestandenes Praktikum im gewählten Berufsfeld beziehungsweise bestandene Abschlussprüfungen in der ergänzten Allgemeinbildung im Berufsfeld Pädagogik; und
+- b) bestandenes Praktikum im gewählten Berufsfeld beziehungsweise absolvierter Praxiseinsatz und bestandene Abschlussprüfungen in der ergänzten Allgemeinbildung im Berufsfeld Pädagogik; und
 - c) eine mindestens als genügend bewertete Fachmaturitätsarbeit im gewählten Berufsfeld.
+
+#### § 5bis
+
+**Berufsfeldwechsel nach Erwerb des Fachmittelschulausweises**
+
+<sup>1</sup> Der Schüler oder die Schülerin kann das Berufsfeld nach Erwerb des Fachmittelschulausweises im Hinblick auf das Absolvieren der Fachmaturität in einem anderen Berufsfeld wechseln.
+
+<sup>2</sup> Um den Erwerb der fehlenden berufsfeldspezifischen Kompetenzen sicherzustellen, müssen die berufsfeldspezifischen Ausbildungssemester der Fachmittelschule wiederholt werden.
+
+<sup>3</sup> Bei einem Wechsel des Berufsfeldes nach Erwerb des Fachmittelschulausweises besteht kein Anspruch auf den Besuch der Fachmittelschule am bisherigen Schulort.
 
 #### § 6
 
@@ -116,19 +128,13 @@ verfügt:
 
 <sup>1</sup> Die Fachmaturitätsarbeit beinhaltet in der Regel einen Praktikumsbericht mit Evaluation und greift ein Thema oder eine Fragestellung aus dem Praktikum vertieft auf.
 
-<sup>2</sup> Sie ist schriftlich vorzulegen und mündlich zu präsentieren.
+<sup>2</sup> Sie ist schriftlich vorzulegen und mündlich zu präsentieren. Für die Gesamtnote zählt die schriftliche Arbeit zu zwei Dritteln, die mündliche Präsentation zu einem Drittel.
+
+<sup>3</sup> Die Lehrpersonen der Fachmittelschule bewerten die Fachmaturitätsarbeit unter Beizug von Fachpersonen.
 
 #### § 12
 
-**Bewertung der Fachmaturitätsarbeit**
-
-<sup>1</sup> Die Fachmittelschule bewertet die Fachmaturitätsarbeit unter Beizug von Fachpersonen.
-
-<sup>2</sup> Eine als genügend bewertete schriftliche Arbeit ist Voraussetzung für die Zulassung zur mündlichen Präsentation.
-
-<sup>3</sup> Wird die schriftliche Arbeit als ungenügend bewertet, kann sie in der von der Schule festgesetzten Frist verbessert werden. Die verbesserte Arbeit wird höchstens mit der Note 4 bewertet.
-
-<sup>4</sup> Für die Gesamtnote zählt die schriftliche Arbeit zu zwei Dritteln, die mündliche Präsentation zu einem Drittel.
+**…**
 
 ## 3. Berufsfeld Pädagogik
 
@@ -136,20 +142,23 @@ verfügt:
 
 **Ergänzte Allgemeinbildung**
 
-<sup>1</sup> Die ergänzte Allgemeinbildung als praktische Leistung im Berufsfeld Pädagogik eignen sich die Schüler und Schülerinnen im Klassenunterricht und durch selbstständiges Lernen an.
+<sup>1</sup> Die Schüler und Schülerinnen eignen sich die ergänzte Allgemeinbildung im Berufsfeld Pädagogik im Klassenunterricht und durch selbstständiges Lernen an.
 
-<sup>2</sup> Der Unterricht dauert ein Semester und umfasst:
+<sup>2</sup> Der Unterricht dauert zwei Semester und umfasst:
 
-- a) Deutsch (2 Wochenlektionen);
-- b) Französisch oder Englisch (4 Wochenlektionen);
-- c) Mathematik (3 Wochenlektionen);
-- d) Biologie (2 Wochenlektionen);
-- e) Chemie (2 Wochenlektionen);
-- f) Physik (2 Wochenlektionen);
-- g) Geschichte ( 2 Wochenlektionen);
-- h) Geografie (2 Wochenlektionen).
+- a) Deutsch
+- b) Französisch oder Englisch
+- c) Mathematik
+- d) Naturwissenschaften: Biologie und Chemie und Physik
+- e) …
+- f) …
+- g) Geistes- und Sozialwissenschaften: Geschichte und Geografie
+- h) …
+- i) Informatik
+- j) Musik und Bildnerisches Gestalten
+- k) Angewandte Pädagogik und Psychologie
 
-<sup>3</sup> Ergänzend vertiefen und erweitern die Schüler und Schülerinnen den Unterricht in Absprache mit den Fachlehrpersonen selbstständig.
+<sup>3</sup> Ergänzend vertiefen und erweitern die Schüler und Schülerinnen die Inhalte des Unterrichts selbstständig.
 
 #### § 13bis
 
@@ -161,25 +170,29 @@ verfügt:
 
 [^13bis-1]: Berufsmaturität (www.sbfi.admin.ch).
 
+#### § 13ter
+
+**Praxiseinsatz**
+
+<sup>1</sup> Im ersten Semester absolvieren die Schüler und Schülerinnen während zwei Tagen pro Woche einen strukturierten, begleiteten Praxiseinsatz an der Solothurner Volksschule in den Zyklen 1 und 2 (Kindergarten und Primarstufe).
+
+<sup>2</sup> Der Praxiseinsatz ist ein obligatorischer Bestandteil der Fachmaturität Pädagogik.
+
+<sup>3</sup> Ein als besucht attestierter Praxiseinsatz ist Voraussetzung für die Erarbeitung der Fachmaturitätsarbeit.
+
 #### § 14
 
 **Fachmaturitätsarbeit**
 
-<sup>1</sup> Die Fachmaturitätsarbeit behandelt in der Regel ein Thema aus der Allgemeinbildung gemäss den Vorgaben der Fachmittelschule. Sie kann in einer Erweiterung der Abschlussarbeit der Fachmittelschule bestehen.
+<sup>1</sup> Die Fachmaturitätsarbeit hat einen engen Bezug zum Praxiseinsatz. Sie greift ein Thema oder eine Fragestellung aus dem Praxiseinsatz vertieft auf.
 
-<sup>2</sup> Sie ist schriftlich vorzulegen und mündlich zu präsentieren.
+<sup>2</sup> Der Schüler oder die Schülerin legt die Fachmaturitätsarbeit schriftlich vor und präsentiert sie mündlich. Für die Gesamtnote zählt die schriftliche Arbeit zu zwei Dritteln, die mündliche Präsentation zu einem Drittel.
+
+<sup>3</sup> Die Lehrpersonen der Fachmittelschule betreuen und bewerten die Fachmaturitätsarbeit.
 
 #### § 15
 
-**Bewertung der Fachmaturitätsarbeit**
-
-<sup>1</sup> Die Fachmittelschule bewertet die Fachmaturitätsarbeit.
-
-<sup>2</sup> Eine als genügend bewertete schriftliche Arbeit ist Voraussetzung für die Zulassung zur mündlichen Präsentation.
-
-<sup>3</sup> Wird die schriftliche Arbeit als ungenügend bewertet, kann sie in der von der Schule festgesetzten Frist verbessert werden. Die verbesserte Arbeit wird höchstens mit der Note 4 bewertet.
-
-<sup>4</sup> Für die Gesamtnote zählt die schriftliche Arbeit zu zwei Dritteln, die mündliche Präsentation zu einem Drittel.
+**…**
 
 #### § 16
 
@@ -199,6 +212,8 @@ verfügt:
 - e) Geistes- und Sozialwissenschaften:
   - 1\. Geschichte: schriftlich (60 Minuten) oder mündlich (15 Minuten);
   - 2\. Geografie: schriftlich (60 Minuten) oder mündlich (15 Minuten).
+
+<sup>2<sup>bis</sup></sup> Gegenstand der mündlichen Prüfungen können auch persönliche Arbeits- und Lernportfolios sein.
 
 <sup>3</sup> Die Abteilungsleitung der Fachmittelschule bestimmt die Form der Prüfungen in den Naturwissenschaften und in den Geistes- und Sozialwissenschaften.
 
@@ -220,11 +235,13 @@ verfügt:
 
 #### § 19
 
-**Wiederholung der Prüfung**
+**Wiederholung der Prüfung und der Fachmaturitätsarbeit**
 
 <sup>1</sup> Wer die Fachmaturitätsprüfung nicht bestanden hat, kann sie einmal an der nächsten Prüfungssession wiederholen.
 
 <sup>2</sup> Die Wiederholung umfasst sämtliche Prüfungsfächer, in denen keine genügende Prüfungsnote erreicht wurde.
+
+<sup>3</sup> Wer die Fachmaturitätsarbeit ungenügend abgeschlossen hat, wiederholt das ganze Fachmaturitätsjahr.
 
 ## 4. Kosten
 
@@ -238,9 +255,11 @@ verfügt:
 
 #### § 21
 
-**Praktikumsentschädigung**
+**Entschädigung**
 
-<sup>1</sup> Auf Entschädigungen während der Praktika besteht kein Anspruch. Eine allfällige Entschädigung ist Sache der Institution, die den Praktikumsplatz anbietet.
+<sup>1</sup> Es besteht kein Anspruch auf Entschädigungen während der Praktika für die Fachmaturitäten in den Berufsfeldern Gesundheit und Soziale Arbeit. Eine allfällige Entschädigung ist Sache der Institution, die den Praktikumsplatz anbietet.
+
+<sup>2</sup> Der Praxiseinsatz im Berufsfeld Pädagogik wird nicht entschädigt.
 
 ## 5. Rechtspflege
 
@@ -259,6 +278,18 @@ verfügt:
 #### § 22bis
 
 **…**
+
+## 5<sup>ter</sup> Übergangsbestimmungen
+
+#### § 22ter
+
+**Übergangsbestimmungen zur Änderung vom 17. Juli 2023**
+
+<sup>1</sup> Für die Fachmaturitätsausbildung, welche im Schuljahr 2023/2024 startet, gelten die Bestimmungen des Reglements über die Fachmaturitäten vom 26. Juni 2007 in der Fassung vom 1. September 2020 (bisherige Bestimmungen).
+
+<sup>2</sup> Schüler und Schülerinnen, welche die Prüfung im Frühling 2024 nicht bestehen, können die Prüfung ein Jahr später nach den bisherigen Bestimmungen wiederholen.
+
+<sup>3</sup> Schüler und Schülerinnen, deren Fachmaturitätsarbeit im Schuljahr 2023/2024 als ungenügend bewertet wurde, wiederholen das vollständige Fachmaturitätsjahr nach den neuen Bestimmungen.
 
 ## 6. Schlussbestimmung
 
