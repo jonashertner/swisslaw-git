@@ -3,11 +3,11 @@ sr: "363"
 title: Bundesgesetz vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: de
-version: 2023-01-23
+version: 2023-08-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230123/de"
 
 (DNA-Profil-Gesetz)
 
-vom 20. Juni 2003 (Stand am 23. Januar 2023)
+vom 20. Juni 2003 (Stand am 1. August 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -31,134 +31,121 @@ beschliesst:
 
 #### Art. 1
 
-**Gegenstand und Zweck**
-
-<sup>1</sup>
+**Gegenstand und Zweck**[^1-1]
 
 Dieses Gesetz regelt:
 
-- a. die Verwendung von DNA-Profilen in Strafverfahren;
-- b. die Bearbeitung von DNA-Profilen in einem Informationssystem des Bundes;
-- c. die Identifizierung von unbekannten, vermissten oder toten Personen ausserhalb von Strafverfahren mit Hilfe des Vergleichs von DNA-Profilen.[^1-1]
-
-<sup>2</sup>
-
-Es bezweckt insbesondere die Verbesserung der Effizienz der Strafverfolgung; diese soll namentlich erreicht werden, indem:
-
 - a.
 
-  mit Hilfe des Vergleichs von DNA-Profilen:
+  für die Verwendung im Strafverfahren:
 
-  - 1\. verdächtige Personen identifiziert und weitere Personen vom Tatverdacht entlastet werden,
-  - 2\. durch systematische Auswertung biologischen Materials Tatzusammenhänge und damit insbesondere organisiert operierende Tätergruppen sowie Serien- und Wiederholungstäter rascher erkannt werden,
-  - 3\. die Beweisführung unterstützt wird;
+  - 1\. die Erstellung des DNA-Profils aus Proben von Personen oder aus tatrelevantem biologischem Material (Spur),
+  - 2\. den Suchlauf nach Verwandtschaftsbezug,
+  - 3\. die Phänotypisierung;
 
-- b. DNA-Profile im Rahmen der Rechtshilfe und der polizeilichen Amtshilfe verglichen werden können.
+- b. die Identifizierung von unbekannten, vermissten oder toten Personen ausserhalb von Strafverfahren mit Hilfe des Vergleichs von DNA-Profilen;
+- c. die Identifizierung von toten Personen ausserhalb von Strafverfahren mit Hilfe der Phänotypisierung;
+- d. die Bearbeitung von DNA-Profilen in einem Informationssystem des Bundes.
 
-<sup>3</sup> …[^1-2]
-
-[^1-1]: Fassung gemäss Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^1-2]: Aufgehoben durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 1a
 
-**Geltungsbereich**[^1a-1]
+[^1a-1]
 
-Ist die Verfolgung oder Beurteilung einer Straftat durch die Strafprozessordnung vom 5. Oktober 2007[^1a-2] geregelt, so sind die für Strafverfahren geltenden Bestimmungen des 2. Abschnittes dieses Gesetzes nicht anwendbar.
-
-[^1a-1]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^1a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^1a-1]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)). Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021, mit Wirkung seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 2
 
 **DNA-Profil und Verwendungszweck**
 
-<sup>1</sup> Das DNA-Profil enthält Informationen über spezifische Eigenschaften des Erbguts einer Person, die mit einer genetischen Untersuchung abgeklärt und zur Identifizierung dieser Person verwendet werden.[^2-1]
+<sup>1</sup> Das DNA-Profil ist die für ein Individuum spezifische Buchstaben-Zahlen-Kombination, die mit Hilfe molekularbiologischer Techniken aus der Erbsubstanz DNA zwecks Identifizierung von Personen erstellt wird.[^2-1]
 
 <sup>2</sup> Bei der DNA-Analyse darf weder nach dem Gesundheitszustand noch nach anderen persönlichen Eigenschaften mit Ausnahme des Geschlechtes der betroffenen Person geforscht werden.
 
-<sup>3</sup> Das DNA-Profil und das zugrundeliegende Analysematerial dürfen zu keinen anderen als den in diesem Gesetz vorgesehenen Zwecken (Art. 1) verwendet werden.
+<sup>3</sup> Das DNA-Profil und das zugrundeliegende Analysematerial dürfen zu keinen anderen als den im Strafprozessrecht vorgesehenen Zwecken sowie für die Identifizierung ausserhalb von Strafverfahren verwendet werden.[^2-2]
 
-[^2-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^2-1]: Fassung gemäss Anhang 2 Ziff. 3 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^2-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
-## 2. Abschnitt: Probenahme und DNA-Analyse
+#### Art. 2a
+
+**Suchlauf nach Verwandtschaftsbezug**[^2a-1]
+
+Beim Suchlauf nach Verwandtschaftsbezug handelt es sich um einen Suchlauf im Informationssystem nach Artikel 10, bei dem zur Aufklärung eines Verbrechens nach Personen gesucht wird, die aufgrund der Ähnlichkeit ihres DNA-Profils mit demjenigen der Spurenlegerin oder des Spurenlegers mit dieser beziehungsweise mit diesem verwandt sein könnten.
+
+[^2a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 2b
+
+**Phänotypisierung**[^2b-1]
+
+<sup>1</sup> Die Phänotypisierung ist die Analyse spezieller DNA-Marker, mit der aus einer Spur Erkenntnisse über äusserlich sichtbare Merkmale der Spurenlegerin oder des Spurenlegers gewonnen werden.
+
+<sup>2</sup>
+
+Es dürfen ermittelt werden:
+
+- a. die Augen-, Haar- und Hautfarbe;
+- b. die biogeografische Herkunft;
+- c. das Alter.
+
+<sup>3</sup> Es dürfen weder gesundheitsbezogene noch persönliche Eigenschaften wie Charakter, Verhalten und Intelligenz ausgewertet werden.
+
+<sup>4</sup> Der Bundesrat kann in Abhängigkeit vom technischem Fortschritt und wenn die praktische Zuverlässigkeit gegeben ist weitere äusserlich sichtbare Merkmale festlegen.
+
+[^2b-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 3
 
-**Probenahme und DNA-Analyse in Strafverfahren**
+**Überschussinformationen**[^3-1]
 
-<sup>1</sup>
+<sup>1</sup> Bei der Analyse der DNA zur Erstellung eines DNA-Profils oder zur Phänotypisierung muss die Entstehung von Ergebnissen, die nicht benötigt werden oder die ausserhalb des Katalogs der zulässigen persönlichen Merkmale nach Artikel 2*b* liegen, so weit als möglich vermieden werden.
 
-Zur Aufklärung eines Verbrechens oder eines Vergehens kann folgenden Personen (betroffene Personen) eine Probe, zum Beispiel ein Wangenschleimhautabstrich, zum Zweck der DNA-Analyse genommen werden:
+<sup>2</sup> Fallen solche Informationen dennoch an, so müssen sie beim Labor verbleiben und dürfen weder an die auftraggebende Behörde noch an einen anderen Dritten weitergegeben werden.
 
-- a. verdächtigen Personen;
-- b. anderen Personen, insbesondere Opfern und Tatortberechtigten, soweit dies erforderlich ist, um ihre Spuren von den Spuren verdächtiger Personen zu unterscheiden.
+[^3-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
-<sup>2</sup> Bei Massenuntersuchungen, die zur Aufklärung eines Verbrechens vorgenommen werden, kann Personen, die bestimmte, in Bezug auf die Tatbegehung festgestellte Merkmale aufweisen, zum Zweck der DNA-Analyse eine Probe, zum Beispiel ein Wangenschleimhautabstrich, genommen werden, um sie als mögliche Täter erkennen oder ausschliessen zu können.
+#### Art. 4 und 5
 
-<sup>3</sup> Ausser im Falle einer Massenuntersuchung wird auf die Analyse der Probe verzichtet, solange noch nicht feststeht, dass die Voraussetzungen für die Aufnahme des DNA-Profils in das Informationssystem (Art. 11) erfüllt sind.
+[^45-1]
 
-#### Art. 4
+[^45-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021, mit Wirkung seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
-**Spurenerhebung und Probenahme bei toten Personen**
+## 2. Abschnitt: Identifizierung ausserhalb von Strafverfahren
 
-Aus tatrelevantem biologischem Material (Spuren) und aus Proben toter Personen wird ein DNA-Profil erstellt, wenn konkrete Anhaltspunkte dafür bestehen, dass dies der Aufklärung eines Verbrechens oder eines Vergehens dienen kann.
+[^sec2-1]
 
-#### Art. 5
-
-**Probenahme und DNA-Analyse bei verurteilten Personen**
-
-Unmittelbar nach Rechtskraft des Urteils kann eine Probe genommen und ein DNA-Profil erstellt werden von Personen:
-
-- a.[^5-1] die wegen eines vorsätzlich begangenen Verbrechens zu einer Freiheitsstrafe oder zu einem Freiheitsentzug von mehr als einem Jahr verurteilt worden sind;
-- b. die wegen eines vorsätzlich begangenen Verbrechens oder Vergehens gegen Leib und Leben oder die sexuelle Integrität verurteilt worden sind; oder
-- c.[^5-2] gegenüber denen eine therapeutische Massnahme (Art. 59–63 des Strafgesetzbuches, StGB[^5-3]), eine Verwahrung (Art. 64 StGB) oder eine Unterbringung (Art. 15 des Jugendstrafgesetzes vom 20. Juni 2003[^5-4]) angeordnet worden ist.
-
-[^5-1]: Fassung gemäss Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^5-2]: Fassung gemäss Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^5-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^5-4]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^sec2-1]: Ursprünglich: vor Art. 3. Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 6
 
-**Identifizierung ausserhalb von Strafverfahren**
+**…[^6-1]**
 
 <sup>1</sup>
 
-Ausserhalb eines Strafverfahrens kann, wenn die Identifikation auf anderem Weg nicht möglich ist, ein DNA-Profil erstellt werden von:
+Ausserhalb eines Strafverfahrens kann die zuständige Behörde des Kantons oder des Bundes, wenn die Identifikation auf anderem Weg nicht möglich ist, die Erstellung eines DNA-Profils anordnen von:[^6-2]
 
 - a. Toten;
 - b. Personen, die wegen ihres Alters, eines Unfalls, dauernder Krankheit, Behinderung, physischer Störung oder Bewusstseinsstörung über ihre Identität nicht Auskunft geben können.
 
 <sup>2</sup> Von diesen Personen können auch biologische Materialien analysiert werden, wenn dies der Identifizierung dienen kann.
 
+<sup>2bis</sup> Bei einer toten Person kann eine Phänotypisierung nach Artikel 2*b* angeordnet werden, wenn sie auf andere Weise nicht identifiziert werden kann.[^6-3]
+
 <sup>3</sup> Für eine spätere Identifizierung kann biologisches Material von vermissten Personen analysiert werden.
 
 <sup>4</sup> Von mutmasslichen Verwandten der zu identifizierenden Personen können DNA-Profile für Vergleichszwecke erstellt werden, wenn sie der Erstellung schriftlich zustimmen.
 
+[^6-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021, mit Wirkung seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^6-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^6-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 7
 
-**Anordnende Behörden**
+[^7-1]
 
-<sup>1</sup>
-
-Polizei, Strafuntersuchungsbehörden und Strafgerichte (anordnende Behörden) können anordnen:
-
-- a. die nicht invasive Probenahme bei Personen (Art. 3 Abs. 1) sowie die Analyse der Probe zur Erstellung eines DNA-Profils;
-- b. die Analyse von Spuren und von Proben toter Personen zur Erstellung eines DNA-Profils (Art. 4).
-
-<sup>2</sup> Ordnet die Polizei eine Probenahme an, so informiert sie die betreffende Person über ihr Recht, diesen Entscheid bei der Strafuntersuchungsbehörde anzufechten. Bei einer Anfechtung wird die Entnahme nur vorgenommen, wenn die Strafuntersuchungsbehörde den Entscheid bestätigt.
-
-<sup>3</sup>
-
-Richterliche Behörden entscheiden über:
-
-- a. die Durchführung von Massenuntersuchungen (Art. 3 Abs. 2);
-- b. die invasive Probenahme und die Analyse der Probe zur Erstellung eines DNA-Profils.
-
-<sup>4</sup> Die urteilende Behörde entscheidet über die Probenahme und die Analyse zur Erstellung eines DNA-Profils von verurteilten Personen (Art. 5).
-
-<sup>5</sup> Ist für die Identifizierung nach Artikel 6 eine andere Untersuchungsbehörde zuständig, so kann auch diese die Probenahme und Analyse zur Erstellung eines DNA-Profils anordnen.
+[^7-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021, mit Wirkung seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 ## 3. Abschnitt: Organisation der DNA-Analyse
 
@@ -172,22 +159,43 @@ Richterliche Behörden entscheiden über:
 
 <sup>3</sup> Die Probe wird mit einer Prozesskontrollnummer anonymisiert, die auch für die Personalien und für die anderen erkennungsdienstlichen Daten (Fotos, Fingerabdrücke) verwendet wird.
 
-<sup>4</sup> Dem Labor werden zusammen mit der Probe nur diejenigen Daten bekanntgegeben, die es für die Erstellung des DNA-Profils und die Beurteilung von dessen Beweiswert benötigt, namentlich Angaben über Rassenzugehörigkeit der betroffenen Person, Tatort und Fundort von Spuren.
+<sup>4</sup> Dem Labor werden zusammen mit der Probe nur diejenigen Daten bekanntgegeben, die es für die Erstellung des DNA-Profils und die Beurteilung von dessen Beweiswert benötigt, namentlich Angaben über Tatort und Fundort von Spuren.[^8-1]
+
+[^8-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 9
 
-**Vernichtung der Proben**
+**Vernichtung der Proben**[^9-1]
 
 <sup>1</sup>
 
 Die anordnende Behörde veranlasst die Vernichtung der Probe, die einer Person genommen wurde:
 
-- a. wenn bereits ein DNA-Profil der betroffenen Person erstellt worden ist;
-- b. drei Monate nach der Probenahme, wenn sie keine Analyse veranlasst hat;
+- a. wenn bereits ein DNA-Profil der betroffenen Person erstellt worden ist, es sei denn, das DNA-Profil wurde vor dem Datum des Inkrafttretens der Änderung vom 17. Dezember 2021 erstellt und die diesem Profil zugrunde liegende Probe wurde bereits vernichtet;
+- b. sechs Monate nach der Probenahme, wenn sie keine Analyse veranlasst hat;
 - c. wenn die betroffene Person als Täter ausgeschlossen werden kann;
 - d. nach der Identifizierung der Person in den Fällen von Artikel 6.
 
-<sup>2</sup> Das Labor vernichtet die einer Person genommene Probe, sobald das daraus erstellte DNA-Profil die qualitativen Anforderungen für die Aufnahme in das DNA‑Profil-Informationssystem (Art. 10–13) erfüllt, jedoch spätestens drei Monate nach dem Eingang der Probe im Labor.
+<sup>2</sup> Das Labor vernichtet die Probe, die einer Person genommen wurde, 15 Jahre nach Eingang der Probe.
+
+<sup>3</sup> Es vernichtet die Proben aus einer Massenuntersuchung nach Artikel 256 der Strafprozessordnung (StPO)[^9-2] oder Artikel 73*t* des Militärstrafprozesses vom 23. März 1979[^9-3] (MStP) nach Abschluss der Untersuchung auf Anordnung der Verfahrensleitung.
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^9-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^9-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+
+#### Art. 9a
+
+**Nachtypisierung**[^9a-1]
+
+Während ihrer Aufbewahrung darf die Probe einzig für Nachtypisierungen verwendet werden, soweit diese erforderlich sind:
+
+- a. um ein bestehendes DNA-Profil bezüglich seiner Aussagekraft zu erweitern, wenn dies seine Interpretation im Einzelfall oder die Umsetzung neuer Analysevorgaben erfordern;
+- b. zur näheren Eingrenzung des zu untersuchenden Personenkreises bei einem Suchlauf nach Verwandtschaftsbezug nach Artikel 258*a* StPO[^9a-2] oder Artikel 73*w* MStP[^9a-3].
+
+[^9a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^9a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^9a-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 ## 4. Abschnitt: DNA-Profil-Informationssystem
 
@@ -195,14 +203,15 @@ Die anordnende Behörde veranlasst die Vernichtung der Probe, die einer Person g
 
 **Grundsatz**
 
-<sup>1</sup> Das DNA-Profil-Informationssystem ermöglicht den Vergleich von DNA-Profilen zum Zwecke der Strafverfolgung und der Identifizierung unbekannter oder vermisster Personen.
+<sup>1</sup> Das DNA-Profil-Informationssystem ermöglicht den Abgleich von DNA-Profilen zum Zwecke der Strafverfolgung und der Identifizierung unbekannter oder vermisster Personen.[^10-1]
 
-<sup>2</sup> Das Informationssystem wird ausschliesslich durch den Bund betrieben. Der Bundesrat kann die operative Führung des Systems und die damit zusammenhängenden Aufgaben einem der anerkannten Labors übertragen (Koordinationsstelle). Dieses erhebt zur Finanzierung seiner Tätigkeiten Gebühren.[^10-1]
+<sup>2</sup> Das Informationssystem wird ausschliesslich durch den Bund betrieben. Der Bundesrat kann die operative Führung des Systems und die damit zusammenhängenden Aufgaben einem der anerkannten Labors übertragen (Koordinationsstelle). Dieses erhebt zur Finanzierung seiner Tätigkeiten Gebühren.[^10-2]
 
-<sup>3</sup> Der Bundesrat legt die Aufgaben der Koordinationsstelle und die Höhe der Gebühren fest.[^10-2]
+<sup>3</sup> Der Bundesrat legt die Aufgaben der Koordinationsstelle und die Höhe der Gebühren fest.[^10-3]
 
-[^10-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^10-2]: Eingefügt durch Anhang Ziff. II 1 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^10-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^10-2]: Fassung gemäss Anhang Ziff. II 1 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^10-3]: Eingefügt durch Anhang Ziff. II 1 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 11
 
@@ -226,45 +235,55 @@ In das Informationssystem aufgenommen werden zudem die DNA-Profile von:
 
 <sup>3</sup> Falls eine der unter den Absätzen 1 und 2 dieses Artikels vorgesehenen Bedingungen erfüllt ist, werden in das Informationssystem die DNA-Profile aufgenommen, die im Rahmen der internationalen Zusammenarbeit aus dem Ausland übermittelt und in schweizerischen Verfahren benötigt werden (Art. 13).
 
+<sup>3bis</sup> In das Informationssystem können die gestützt auf Artikel 255 Absatz 3 StPO[^11-1] erstellten Y-DNA-Profile aufgenommen werden.[^11-2]
+
 <sup>4</sup>
 
 Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 
 - a. identifizierten Opfern (Art. 3 Abs. 1 Bst. b);
 - b. tatortberechtigten Personen, deren Spuren von Täterspuren unterschieden werden müssen (Art. 3 Abs. 1 Bst. b);
-- c. Personen, die in einer Massenuntersuchung als Täter ausgeschlossen worden sind (Art. 3 Abs. 2);
+- c.[^11-3] Personen, die in einer Massenuntersuchung nach Artikel 256 StPO oder 73*t* MStP[^11-4] als Täter ausgeschlossen worden sind;
 - d. verdächtigten Personen, bei denen sich herausgestellt hat, dass sie als Täter des in Frage stehenden Verbrechens oder Vergehens ausgeschlossen werden können;
 - e. Personen, die in ein Verfahren verwickelt waren, das eingestellt worden ist.
+
+[^11-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-4]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 12
 
 **Verantwortliche Bundesbehörde**
 
-<sup>1</sup> Der Bundesrat bezeichnet das Bundesamt, das im Sinne des Bundesgesetzes vom 19. Juni 1992[^12-1] über den Datenschutz für das Informationssystem verantwortlich ist (Bundesamt).
+<sup>1</sup> Das Bundesamt für Polizei (fedpol) ist für das Informationssystem nach Artikel 10 verantwortlich.[^12-1]
 
 <sup>2</sup> Die anerkannten Labors können online an das Informationssystem angeschlossen werden. Das Departement entscheidet über den Anschluss.
 
-[^12-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^12-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 13
 
 **Internationale Zusammenarbeit**
 
-<sup>1</sup> Das Bundesamt kann im Rahmen der Interpol-Zusammenarbeit nach den Artikeln 351<sup>ter</sup> und 351<sup>quinquies</sup> des StGB[^13-1] ausländische Ersuchen um Überprüfung der DNA-Profile vermitteln und schweizerische Gesuche stellen.
+<sup>1</sup> Fedpol kann im Rahmen der Zusammenarbeit mit Interpol und jener mit Europol nach den Artikeln 350 und 352 beziehungsweise 355*a* des Strafgesetzbuches[^13-1] (StGB) ausländische Ersuchen um Überprüfung der DNA-Profile vermitteln und schweizerische Gesuche stellen.[^13-2]
 
 <sup>2</sup> Die internationale Zusammenarbeit setzt voraus, dass die Bedingungen für die Probenahme nach diesem Gesetz erfüllt sind und die Vergleichbarkeit der DNA-Profile gesichert ist.
 
 [^13-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^13-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 ## 5. Abschnitt: Bearbeitung weiterer Daten
 
 #### Art. 14
 
-<sup>1</sup> Die anordnende Behörde teilt dem Bundesamt die bekannten Personalien sowie Tatort- und Fundortangaben mit (weitere Daten).
+<sup>1</sup> Die anordnende Behörde teilt fedpol[^14-1] die bekannten Personalien sowie Tatort- und Fundortangaben mit (weitere Daten).
 
-<sup>2</sup> Das Bundesamt bearbeitet diese weiteren Daten in einem vom DNA-Profil-Informationssystem getrennten Informationssystem.
+<sup>2</sup> Fedpol bearbeitet diese weiteren Daten in einem vom DNA-Profil-Informationssystem getrennten Informationssystem.
 
-<sup>3</sup> Die DNA-Profile werden mittels der Prozesskontrollnummer mit den weiteren Daten verknüpft. Diese Verknüpfung darf nur vom Bundesamt vorgenommen werden.
+<sup>3</sup> Die DNA-Profile werden mittels der Prozesskontrollnummer mit den weiteren Daten verknüpft. Diese Verknüpfung darf nur von fedpol vorgenommen werden.
+
+[^14-1]: Ausdruck gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ## 6. Abschnitt: Datenschutz
 
@@ -274,7 +293,7 @@ Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 
 <sup>1</sup> Die anordnende Behörde informiert die betroffene Person vor der Probenahme über die Aufnahme ihres DNA-Profils in das Informationssystem, über ihre Auskunftsrechte und über die Voraussetzungen der Löschung.
 
-<sup>2</sup> Jede Person hat das Recht, beim Bundesamt darüber Auskunft zu verlangen, ob unter ihrem Namen ein DNA-Profil im Informationssystem aufgenommen ist.
+<sup>2</sup> Jede Person hat das Recht, bei fedpol darüber Auskunft zu verlangen, ob unter ihrem Namen ein DNA-Profil im Informationssystem aufgenommen ist.
 
 <sup>3</sup> Das Auskunftsrecht sowie die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft richten sich nach den Artikeln 8 und 9 des Bundesgesetzes vom 19. Juni 1992[^15-1] über den Datenschutz.
 
@@ -282,66 +301,78 @@ Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 
 #### Art. 16
 
-**Löschung der DNA-Profile von Personen**
+**Löschung der DNA-Profile von Personen**[^16-1]
 
 <sup>1</sup>
 
-Das Bundesamt löscht die DNA-Profile, die nach den Artikeln 3 und 5 von Personen erstellt worden sind:
+Fedpol löscht die DNA-Profile, die nach den Artikeln 255 und 257 StPO[^16-2] oder 73*s* und 73*u* MStP[^16-3] erstellt worden sind:
 
 - a. sobald die betroffene Person im Verlaufe des Verfahrens als Täter ausgeschlossen werden kann;
-- b. nach dem Tod der betroffenen Person;
+- b. zehn Jahre nach dem Tod der betroffenen Person;
 - c. sobald das betreffende Verfahren mit einem Freispruch rechtskräftig abgeschlossen worden ist;
-- d.[^16-1] ein Jahr nach Rechtskraft der Einstellung oder Nichtanhandnahme des Verfahrens;
-- e.[^16-2] fünf Jahre nach Ablauf der Probezeit bei bedingtem oder teilbedingtem Strafvollzug;
-- f.[^16-3] fünf Jahre nach der Zahlung einer Geldstrafe, nach der Beendigung einer gemeinnützigen Arbeit oder nach dem Vollzug einer entsprechenden Ersatzfreiheitsstrafe;
-- g.[^16-4] fünf Jahre nach der Erteilung eines Verweises, nach der Bezahlung einer Busse oder der Beendigung einer persönlichen Leistung nach den Artikeln 22–24 JStG[^16-5];
-- h.[^16-6] fünf Jahre nach der Probezeit bei bedingtem Vollzug einer Busse, einer persönlichen Leistung oder eines Freiheitsentzuges nach Artikel 35 JStG;
-- i.[^16-7] fünf Jahre nach dem Vollzug einer Schutzmassnahme gemäss den Artikeln 12–14 JStG;
-- j.[^16-8] zehn Jahre nach dem Vollzug eines Freiheitsentzuges nach Artikel 25 JStG;
-- k.[^16-9] zehn Jahre nach der Beendigung des Vollzugs einer Unterbringung nach Artikel 15 JStG;
-- l.[^16-10] zehn Jahre nach dem Ende eines Tätigkeitsverbots oder eines Kontakt- und Rayonverbots nach Artikel 67 beziehungsweise 67b StGB[^16-11], Artikel 50 beziehungsweise 50b des Militärstrafgesetzes vom 13. Juni 1927[^16-12] oder Artikel 16a JStG, unter Vorbehalt einer späteren Löschung nach Absatz 4.
+- d. ein Jahr nach Rechtskraft der Einstellung oder Nichtanhandnahme des Verfahrens.
 
-<sup>2</sup> Ist in einem Fall von Absatz 1 Buchstabe c oder d aufgrund bestimmter Tatsachen zu erwarten, dass das DNA-Profil über die beschuldigte Person der Aufklärung künftiger Straftaten dienen könnte, so darf es mit Zustimmung der Verfahrensleitung während höchstens zehn Jahren seit Rechtskraft des Entscheids aufbewahrt und verwendet werden. Das DNA-Profil wird nicht nach Absatz 1 Buchstabe c oder d gelöscht, wenn der Freispruch oder die Verfahrenseinstellung wegen Schuldunfähigkeit des Täters erfolgte.[^16-13]
+<sup>2</sup>
 
-<sup>3</sup> Das Bundesamt löscht alle DNA-Profile, die nicht bereits nach Absatz 1 gelöscht worden sind, nach 30 Jahren. Vorbehalten bleibt eine spätere Löschung nach Absatz 4.
+Es löscht das DNA-Profil, das nach den Artikeln 255 und 257 StPO oder 73*s* und 73*u* MStP erstellt worden ist:
 
-<sup>4</sup> Beim Vollzug einer Freiheitsstrafe, bei Verwahrung, bei therapeutischen Massnahmen oder bei Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^16-14] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^16-15] löscht das Bundesamt das DNA-Profil 20 Jahre nach der Entlassung aus der Freiheitsstrafe oder der Verwahrung beziehungsweise nach dem Vollzug der therapeutischen Massnahme oder der Landesverweisung.[^16-16]
+- a. im Falle der Verurteilung zu einer bedingten Freiheitsstrafe oder bedingten Geldstrafe oder zu einer gemeinnützigen Arbeit: nach zehn Jahren;
+- b. im Falle der Verurteilung zu einer unbedingten Freiheitsstrafe von bis zu drei Jahren, zu einer Ersatzfreiheitsstrafe oder zu einer unbedingten Geldstrafe: nach 20 Jahren;
+- c. im Falle der Verurteilung zu einer Freiheitsstrafe von mehr als drei und bis zu zehn Jahren: nach 30 Jahren;
+- d. im Falle der Verurteilung zu einer Freiheitsstrafe von mehr als zehn Jahren: nach 40 Jahren;
+- e. im Falle der Anordnung einer Schutzmassnahme nach den Artikeln 12–14 des Jugendstrafgesetzes vom 20. Juni 2003[^16-4] (JStG) sowie der Erteilung eines Verweises und der Verurteilung zu einer persönlichen Leistung oder zu einer Busse nach den Artikeln 22–24 JStG: nach fünf Jahren;
+- f. im Falle eines Freiheitsentzugs nach Artikel 25 JStG oder einer Unterbringung nach Artikel 15 JStG: nach 10 Jahren;
+- g. im Falle eines Tätigkeitsverbots oder eines Kontakt- und Rayonverbots nach Artikel 67 beziehungsweise 67*b* StGB[^16-5], Artikel 50 beziehungsweise 50*b* des Militärstrafgesetzes vom 13. Juni 1927[^16-6] (MStG) oder Artikel 16*a* JStG, das als einzige Sanktion verhängt worden ist: nach 5 Jahren;
+- h. im Falle einer Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG: nach 30 Jahren; ist die Massnahme lebenslänglich angeordnet worden: nach dem Tod der betroffenen Person.
 
-[^16-1]: Fassung gemäss Anhang 1 Ziff. 8 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-2]: Fassung gemäss Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-3]: Fassung gemäss Anhang 1 Ziff. 8 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-4]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-5]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-6]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-7]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-8]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-9]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-10]: Eingefügt durch Anhang Ziff. 4 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^16-11]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-12]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-13]: Fassung gemäss Anhang 1 Ziff. 8 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-14]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-15]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-16]: Fassung gemäss Anhang Ziff. I des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+<sup>3</sup> Die Fristen zur Löschung nach Absatz 2 laufen ab dem Datum des Urteils, sofern dieses in Rechtskraft erwachsen ist.
+
+<sup>4</sup> Ist in einem Fall von Absatz 1 Buchstabe c oder d aufgrund bestimmter Tatsachen zu erwarten, dass das DNA-Profil über die beschuldigte Person der Aufklärung künftiger Straftaten dienen könnte, so darf es mit Zustimmung der Verfahrensleitung während höchstens zehn Jahren seit Rechtskraft der Entscheide zum Freispruch beziehungsweise zur Einstellung oder Nichtanhandnahme des Verfahrens aufbewahrt und verwendet werden.
+
+<sup>5</sup> Erfolgen die Entscheide nach Absatz 1 Buchstabe c oder d wegen Schuldunfähigkeit des Täters, so wird das DNA-Profil nach 20 Jahren gelöscht.
+
+<sup>6</sup> Bei Verwahrung oder bei therapeutischen Massnahmen wird das nach den Artikeln 255 und 257 StPO oder 73*s* und 73*u* MStP erstellte DNA-Profil 20 Jahre nach der endgültigen Entlassung aus der Verwahrung beziehungsweise nach dem endgültigen Vollzug der therapeutischen Massnahme gelöscht.
+
+<sup>7</sup> In allen übrigen Fällen, die von den Absätzen 2–6 nicht erfasst sind, wird das DNA-Profil nach zehn Jahren gerechnet ab dem Datum des in Rechtskraft erwachsenen Urteils gelöscht.
+
+[^16-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^16-4]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^16-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-6]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 #### Art. 17
 
-**Zustimmungsbedürftige Löschungen**
+**Verlängerung der Aufbewahrungsdauer durch die urteilende Behörde[^17-1]**
 
-<sup>1</sup> In den Fällen nach Artikel 16 Absätze 1 Buchstaben e–k und 4 holt das Bundesamt die Zustimmung der zuständigen richterlichen Behörde ein.[^17-1] Diese kann die Zustimmung verweigern, wenn der konkrete Verdacht auf ein nicht verjährtes Verbrechen oder Vergehen nicht behoben ist oder eine Wiederholungstat befürchtet wird.
+<sup>1</sup> In den Fällen nach Artikel 16 Absatz 2 Buchstaben a–f und h und Absatz 6 kann das DNA-Profil mit Zustimmung der zuständigen urteilenden Behörde für eine Dauer von höchstens zehn Jahren über den Ablauf der Löschfrist hinaus aufbewahrt werden, wenn der konkrete Verdacht auf ein nicht verjährtes Verbrechen oder Vergehen nicht behoben ist oder eine Wiederholungstat befürchtet wird.[^17-2]
 
 <sup>2</sup> Auf die Einholung der Zustimmung einer ausländischen Behörde kann verzichtet werden.
 
-[^17-1]: Fassung gemäss Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^17-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^17-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 17a
+
+**Löschung des Y-DNA-Profils**[^17a-1]
+
+Ist zusätzlich zum DNA-Profil aus der Spur oder der Personenprobe das entsprechende Y-DNA-Profil nach Artikel 11 Absatz 3<sup>bis</sup> in das Informationssystem aufgenommen worden, so wird letzteres gleichzeitig mit dem DNA-Profil gelöscht.
+
+[^17a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 18
 
 **Löschung der DNA-Profile von Spuren und von Proben toter Personen**
 
-Das Bundesamt löscht die DNA-Profile, die nach Artikel 4 aus Spuren oder Proben toter Personen erstellt worden sind:
+Fedpol löscht die DNA-Profile, die nach Artikel 255 Absatz 1 Buchstaben c und d StPO[^18-1] oder Artikel 73*s* Absatz 1 Buchstaben c und d MStP[^18-2] von Proben toter Personen und von Spuren erstellt worden sind:[^18-3]
 
 - a. auf Verlangen der anordnenden Behörde; diese verlangt die Löschung, sobald die Spur einer Person zugeordnet werden kann, die als Täter ausgeschlossen worden ist;
 - b. von Amtes wegen nach 30 Jahren, ausgenommen bei unverjährbaren Straftaten.
+
+[^18-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^18-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^18-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 19
 
@@ -359,6 +390,16 @@ DNA-Profile, die nach Artikel 6 ausserhalb von Strafverfahren erstellt worden si
 
 ## 8. Abschnitt: Schlussbestimmungen
 
+#### Art. 20a
+
+**Evaluation**[^20a-1]
+
+<sup>1</sup> Fedpol überprüft unter Einbezug der Wissenschaft und Forschung zu Handen des Bundesrates die Zweckmässigkeit und die Wirksamkeit dieses Gesetzes fünf Jahre nach dem Inkrafttreten der Änderung vom 17. Dezember 2021.
+
+<sup>2</sup> Der Bundesrat erstattet dem Parlament spätestens sechs Jahre nach Inkrafttreten der Änderung vom 17. Dezember 2021 insbesondere über die Umsetzung von Artikel 2*b* Bericht.
+
+[^20a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 21
 
 **Vollzug in den Kantonen**
@@ -375,8 +416,13 @@ Der Bundesrat erlässt die Vollzugsbestimmungen; darin regelt er insbesondere:
 - b. die Einzelheiten der Identifizierung unbekannter lebender oder toter sowie vermisster Personen;
 - c. die Organisation und die Abläufe der Erstellung von DNA-Profilen;
 - d. die Voraussetzungen und das Verfahren für die Anerkennung der Labors;
-- e. die Mitteilung des Verfahrensabschlusses an das Bundesamt;
-- f. die Aufnahme von im Ausland erstellten DNA-Profilen.
+- e. die Mitteilung des Verfahrensabschlusses an fedpol;
+- f. die Aufnahme von im Ausland erstellten DNA-Profilen;
+- g.[^22-1] den Suchlauf nach Verwandtschaftsbezug nach Artikel 2*a*;
+- h.[^22-2] die Phänotypisierung nach Artikel 2*b*.
+
+[^22-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^22-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 23
 
@@ -390,6 +436,18 @@ Der Bundesrat erlässt die Vollzugsbestimmungen; darin regelt er insbesondere:
 
 [^23-1]: [[AS 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258); [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)Art. 19 Ziff. 1]
 [^23-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 23a
+
+**Übergangsbestimmungen zur Änderung vom 17. Dezember 2021**[^23a-1]
+
+<sup>1</sup> Die Regelung der Löschung nach den Artikeln 16 und 17 ist auch anwendbar auf die DNA-Profile von Personen, die vor dem Inkrafttreten der Änderung vom 17. Dezember 2021 erstellt worden sind und bei denen zu diesem Zeitpunkt die nach altem Recht notwendige richterliche Zustimmung zur Löschung nicht vorliegt.
+
+<sup>2</sup> Die Kantone und die Behörden des Bundes, die nach den Artikeln 255 und 257 StPO[^23a-2] oder 73*s* und 73*u* MStP[^23a-3] DNA-Profile erstellen lassen, melden fedpol bis fünf Jahre nach dem Inkrafttreten der Änderung vom 17. Dezember 2021 für jedes DNA-Profil einer Person die sich gemäss dieser Änderung ergebende neue Löschfrist. In begründeten Ausnahmefällen kann das Departement eine Fristverlängerung gewähren.
+
+[^23a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^23a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23a-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 24
 
