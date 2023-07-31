@@ -4,13 +4,13 @@ number: 439.16-1
 title: Accord intercantonal sur les contributions dans le domaine de la formation professionnelle initiale
 short: "accord sur les écoles professionnelles, AEPr"
 language: fr
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2020-10-30
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2021-10-21
 adopted: 2006-06-22
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.16-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2391/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2565/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2391/pdf_file"
 
 (accord sur les écoles professionnelles, AEPr)
 
-du 22.06.2006 (état au 01.08.2022)
+du 22.06.2006 (état au 01.08.2023)
 
 ## 1 Dispositions générales
 
@@ -261,6 +261,22 @@ Elle est également disponible sur Internet à l'adresse suivante: [http://www.e
 #### Art. A1-5
 
 <sup>1</sup> La modification du 30 octobre 2020 de l'annexe à l'AEPr est publiée uniquement sous la forme d'un renvoi.
+
+Elle peut être obtenue à l'adresse suivante:
+
+Direction de l'instruction publique et de la culture du canton de Berne
+
+Office des écoles moyennes et de la formation professionnelle
+
+Kasernenstrasse 27
+
+3000 Berne 22
+
+Elle est également disponible sur Internet à l'adresse suivante: [http://www.edk.ch](http://www.edk.ch) &gt; Thèmes &gt; Financement &gt; Ecoles professionnelles
+
+#### Art. A1-6
+
+<sup>1</sup> La modification du 21 octobre 2021 de l'annexe à l'AEPr est publiée uniquement sous la forme d'un renvoi.
 
 Elle peut être obtenue à l'adresse suivante:
 
