@@ -3,18 +3,18 @@ sr: "412.101.221.72"
 title: Ordonnance du SEFRI du 20 septembre 2011 sur la formation professionnelle initiale de peintre en décors de théâtre avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/810"
 language: fr
-version: 2013-01-01
+version: 2023-08-01
 adopted: 2011-09-20
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-810-20130101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-810-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI**** sur la formation professionnelle initiale de peintre en décors de théâtre avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de peintre en décors de théâtre avec certificat fédéral de capacité (CFC)\*
 
-du 20 septembre 2011 (Etat le 1<sup>er</sup> janvier 2013)[^t-1][^t-2]
+du 20 septembre 2011 (État le 1<sup>er</sup> août 2023)[^t-1][^t-2]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^t-2]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
@@ -25,12 +25,14 @@ du 20 septembre 2011 (Etat le 1<sup>er</sup> janvier 2013)[^t-1][^t-2]
 
 Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^ingress-1], vu l’art. 12 de l’ordonnance correspondante du 19 novembre 2003 (OFPr)[^ingress-2],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 ## Section 1 Objet et durée
 
@@ -98,13 +100,23 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   - 7\. garantir la sécurité au travail et la protection de la santé,
   - 8\. garantir la protection de l’environnement.
 
-## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
+## Section 3 Sécurité au travail, protection de la santé, protection de l’environnement et développement durable
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 5
 
-<sup>1</sup> Dès le début de la formation, les prestataires de la formation remettent et expliquent aux personnes en formation les directives et les recommandations en matière de sécurité au travail, de protection de la santé et de protection de l’environnement.
+<sup>1</sup> Dès le début de la formation et tout au long de celle-ci, les prestataires de la formation remettent et expliquent aux personnes en formation les directives et les recommandations en matière de sécurité au travail, de protection de la santé et de protection de l’environnement, en particulier les directives et les recommandations relatives à la communication des dangers et des mesures de sécurité dans ces trois domaines.
 
-<sup>2</sup> Les directives et les recommandations précitées font partie intégrante de la formation dispensée dans tous les lieux de formation et elles sont prises en considération dans les procédures de qualification.
+<sup>2</sup> Les directives et les recommandations précitées font partie intégrante de la formation dispensée dans tous les lieux de formation et sont prises en considération dans les procédures de qualification.
+
+<sup>3</sup> Les aspects liés au développement durable spécifiques à la profession sont transmis dans tous les lieux de formation.
+
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe 2 du plan de formation.
+
+<sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe 2 du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -116,7 +128,9 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>2</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 1620 périodes d’enseignement. Parmi celles-ci, 180 périodes sont consacrées à l’enseignement du sport.
 
-<sup>3</sup> Les cours interentreprises comprennent au total 42 jours de cours au minimum et 48 au maximum, à raison de 8 heures de cours par jour. Durant le dernier semestre de la formation professionnelle initiale, aucun cours interentreprises n’a lieu.
+<sup>3</sup> Les cours interentreprises comprennent au total 37 jours de cours, à raison de 8 heures de cours par jour. Durant le dernier semestre de la formation professionnelle initiale, aucun cours interentreprises n’a lieu.[^6-1]
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 7
 
@@ -134,7 +148,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 **Plan de formation**
 
-<sup>1</sup> Un plan de formation, élaboré par l’organisation compétente du monde du travail et approuvé par le SEFRI, est disponible au moment de l’entrée en vigueur de la présente ordonnance.
+<sup>1</sup> Un plan de formation[^8-1] édicté par l’organisation du monde du travail compétente est disponible à l’entrée en vigueur de la présente ordonnance.[^8-2]
 
 <sup>2</sup>
 
@@ -155,6 +169,9 @@ En outre, le plan de formation fixe:
 
 <sup>4</sup> Le plan de formation est assorti de la liste des documents relatifs à la mise en œuvre de la formation professionnelle initiale avec indication des titres, des dates et des organes de diffusion.
 
+[^8-1]: Le plan de formation du 7 juin 2023 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A-Z.
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
+
 #### Art. 9
 
 **Culture générale**
@@ -163,57 +180,74 @@ L’enseignement de la culture générale est régi par l’ordonnance du SEFRI 
 
 [^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
+## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
+
+[^sec6-1]
+
+[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 10
 
-**Exigences minimales posées aux formateurs**
+**Exigences posées aux formateurs**
 
-Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, let. a et b, OFPr, sont remplies par:
+Les personnes ci-après remplissent les exigences posées aux formateurs:
 
-- a. les peintres en décors de théâtre CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation;
-- b. les peintres en décors de théâtre qualifiés justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation;
-- c. les personnes de professions apparentées titulaires d’un CFC et justifiant des connaissances professionnelles requises propres aux peintres en décors de théâtre CFC et d’au moins 5 ans d’expérience professionnelle dans le domaine de la formation;
-- d. les personnes titulaires d’un titre correspondant de la formation professionnelle supérieure;
-- e. les personnes titulaires d’un diplôme correspondant d’une haute école spécialisée et justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation;
-- f. les personnes titulaires d’un diplôme correspondant d’une haute école universitaire et justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation.
+- a. les peintres en décors de théâtre CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- b. les peintres en décors de théâtre qualifiés justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- c. les titulaires d’un CFC dans une profession apparentée justifiant des connaissances professionnelles requises propres aux peintres en décors de théâtre CFC et d’au moins 5 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- d. les titulaires d’un diplôme correspondant d’une haute école justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
 
 #### Art. 11
 
 **Nombre maximal de personnes en formation**
 
-<sup>1</sup>
+<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 100 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
 
-Une personne peut être formée dans une entreprise si:
+<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 100 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
 
-- a. un formateur qualifié à cette fin est occupé à 100 %, ou
-- b. deux formateurs qualifiés à cette fin sont occupés chacun au moins à 60 %.
+<sup>3</sup> Sont réputés professionnels les titulaires d’un certificat fédéral de capacité ou d’une qualification équivalente dans le domaine de la personne en formation.
 
-<sup>2</sup> Lorsqu’une personne entre dans sa dernière année de formation professionnelle initiale, une seconde personne peut commencer sa formation.
-
-<sup>3</sup> Une autre personne peut être formée pour chaque professionnel occupé à 100 % ou pour chaque groupe de deux professionnels occupés chacun au moins à 60 % dans l’entreprise.
-
-<sup>4</sup> Sont réputés professionnels les titulaires d’un certificat fédéral de capacité dans le domaine de la personne en formation ou d’une qualification équivalente.
+<sup>4</sup> Dans les entreprises qui ne sont autorisées à former qu’une seule personne, une seconde personne peut commencer sa formation si la première entame sa dernière année de formation professionnelle initiale.
 
 <sup>5</sup> Dans des cas particuliers, l’autorité cantonale peut autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
 
-## Section 7 Dossier de formation et dossier des prestations
+## Section 7 Dossier de formation, rapport de formation et dossier des prestations
+
+[^sec7-1]
+
+[^sec7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 12
 
-**Entreprise formatrice**
+**Dossier de formation**[^12-1]
 
-<sup>1</sup> La personne en formation constitue un dossier de formation dans lequel elle inscrit au fur et à mesure les travaux importants accomplis ainsi que les compétences et l’expérience acquises dans l’entreprise.
+<sup>1</sup> Pendant la formation à la pratique professionnelle, la personne en formation tient un dossier de formation dans lequel elle inscrit au fur et à mesure les travaux importants concernant les compétences opérationnelles à acquérir.
 
-<sup>2</sup> Une fois par trimestre, le formateur contrôle et signe le dossier de formation. Il en discute avec la personne en formation au moins une fois par trimestre.
+<sup>2</sup> Au moins une fois par semestre, le formateur contrôle et signe le dossier de formation et en discute avec la personne en formation.
 
-<sup>3</sup> Le formateur établit à la fin de chaque semestre un rapport attestant le niveau atteint par la personne en formation.
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
+
+#### Art. 12a
+
+**Rapport de formation**[^12a-1]
+
+<sup>1</sup> À la fin de chaque semestre, le formateur établit un rapport de formation attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations fournies durant la formation à la pratique professionnelle, à l’école professionnelle et durant les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
+
+<sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais en conséquence. Ils consignent les décisions et les mesures prises par écrit.
+
+<sup>3</sup> Au terme du délai fixé, le formateur vérifie l’efficacité des mesures prises; il consigne ses conclusions dans le rapport de formation suivant.
+
+<sup>4</sup> Si les objectifs ne sont pas atteints malgré les mesures prises ou si les chances de réussite de la personne en formation sont compromises, le formateur le signale par écrit aux parties contractantes et à l’autorité cantonale.
+
+[^12a-1]: Introduit par le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 13
 
-**Formation scolaire et formation initiale en école**
+**Dossier des prestations fournies dans la formation scolaire et dans la formation initiale en école[^13-1]**
 
 Les prestataires de formations scolaires et de formations initiales en école documentent les prestations de la personne en formation dans les domaines enseignés et ils établissent un bulletin à son intention au terme de chaque semestre.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 ## Section 8 Procédures de qualification
 
@@ -316,28 +350,39 @@ Si le CFC a été obtenu par le biais de la procédure de qualification avec exa
 - a. la note globale;
 - b. les notes de chaque domaine de qualification de l’examen final et, sous réserve de l’art. 19, al. 1, la note d’expérience.
 
-## Section 10 Commission suisse pour le développement professionnel et la qualité
+## Section 10 Commission suisse pour le développement de la profession et la qualité de la formation des peintres en décors de théâtre CFC
+
+[^sec10-1]
+
+[^sec10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 21
 
 <sup>1</sup>
 
-La Commission suisse pour le développement professionnel et la qualité (commission) comprend:
+La Commission suisse pour le développement de la profession et la qualité de la formation despeintres en décors de théâtre CFC (commission) comprend:
 
-- a. trois à cinq représentants de l’association suisse des peintres de décors au théâtre (STMV);
-- b. un à deux représentants du corps des enseignants spécialisés;
-- c. au moins un représentant de la Confédération et au moins un représentant des cantons.
+- a. 3 à 5 représentants de l’Association suisse des peintres en décors de théâtre;
+- b. 1 ou 2 représentants des enseignants des connaissances professionnelles;
+- c. au moins 1 représentant de la Confédération et au moins 1 représentant des cantons.
 
-<sup>2</sup> Les régions linguistiques sont représentées équitablement.
+<sup>2</sup>
 
-<sup>3</sup> La commission s’auto-constitue.
+La composition de la commission doit également:
+
+- a. tendre à une représentation paritaire des sexes;
+- b. garantir une représentation équitable des régions linguistiques.
+
+<sup>3</sup> La commission se constitue elle-même.
 
 <sup>4</sup>
 
-La commission est chargée des tâches suivantes:
+Elle est notamment chargée des tâches suivantes:
 
-- a. adapter régulièrement, au moins tous les 5 ans, le plan de formation décrit à l’art. 8 aux développements économiques, technologiques, écologiques et didactiques. Intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale. Toute modification requiert, d’une part, l’approbation des représentants de la Confédération et des cantons et, d’autre part, l’approbation du SEFRI;
-- b. proposer au SEFRI toute modification de la présente ordonnance induite par des développements constatés, pour autant que ceux-ci touchent aux dispositions de la présente ordonnance, notamment à celles concernant les compétences opérationnelles décrites à l’art. 4.
+- a. examiner la présente ordonnance et le plan de formation au moins tous les 5 ans en fonction des développements économiques, technologiques, écologiques et didactiques; intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale;
+- b. identifier les développements qui requièrent une modification de l’ordonnance et demander à l’organisation du monde du travail compétente de proposer au SEFRI les modifications voulues;
+- c. identifier les développements qui requièrent une adaptation du plan de formation et proposer à l’organisation du monde du travail compétente d’effectuer les adaptations voulues;
+- d. prendre position sur les instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, en particulier les dispositions d’exécution relatives à la procédure de qualification avec examen final.
 
 ## Section 11 Dispositions finales
 
@@ -360,6 +405,14 @@ Sont abrogés:
 <sup>1</sup> Les personnes qui ont commencé leur formation de peintre en décors de théâtre avant le 1<sup>er</sup> janvier 2012 l’achèvent selon l’ancien droit.
 
 <sup>2</sup> Si elles en font la demande, les personnes qui répètent jusqu’au 31 décembre 2017 l’examen de fin d’apprentissage de peintre en décors de théâtre verront leurs prestations appréciées selon l’ancien droit.
+
+#### Art. 23a
+
+**Disposition transitoire concernant la modification du 7 juin 2023**[^23a-1]
+
+Pour les personnes qui ont commencé leur formation de peintre en décors de théâtre CFC avant l’entrée en vigueur de la modification du 7 juin 2023, les dispositions relatives aux cours interentreprises de l’ancien droit sont applicables.
+
+[^23a-1]: Introduit par le ch. I de l’O du SEFRI du 7 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 24
 

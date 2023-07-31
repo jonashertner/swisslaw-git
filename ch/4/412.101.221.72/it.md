@@ -3,18 +3,18 @@ sr: "412.101.221.72"
 title: Ordinanza della SEFRI del 20 settembre 2011 sulla formazione professionale di base Pittrice di scenari/Pittore di scenari con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/810"
 language: it
-version: 2013-01-01
+version: 2023-08-01
 adopted: 2011-09-20
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2011-810-20130101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2011-810-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza della SEFRI**** sulla formazione professionale di base Pittrice di scenari/Pittore di scenari con attestato federale di capacità (AFC)
+# Ordinanza della SEFRI sulla formazione professionale di base Pittrice di scenari/Pittore di scenari con attestato federale di capacità (AFC)
 
-del 20 settembre 2011 (Stato 1° gennaio 2013) (Stato 1° gennaio 2013)[^t-1]
+del 20 settembre 2011 (Stato 1° agosto 2023)[^t-1]
 
 [^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013.
 
@@ -24,12 +24,14 @@ del 20 settembre 2011 (Stato 1° gennaio 2013) (Stato 1° gennaio 2013)[^t-1]
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-4]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -97,13 +99,23 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
   - 7\. garantire la sicurezza sul lavoro e la protezione della salute,
   - 8\. garantire la protezione dell’ambiente.
 
-## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
+## Sezione 3: Sicurezza sul lavoro, protezione della salute, protezione dell’ambiente e sviluppo sostenibile
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 5
 
-<sup>1</sup> All’inizio e durante la formazione, gli operatori forniscono regolarmente e spiegano alle persone in formazione le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente.
+<sup>1</sup> All’inizio e durante la formazione gli operatori forniscono e spiegano alle persone in formazione le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro, alla protezione della salute e alla protezione dell’ambiente, in particolare quelle relative alla comunicazione dei pericoli e della sicurezza in questi tre ambiti.
 
-<sup>2</sup> Dette prescrizioni e raccomandazioni vengono fornite in tutti i luoghi di formazione e considerate ai fini delle procedure di qualificazione.
+<sup>2</sup> Dette prescrizioni e raccomandazioni sono fornite in tutti i luoghi di formazione e considerate nelle procedure di qualificazione.
+
+<sup>3</sup> Gli aspetti specifici della professione inerenti allo sviluppo sostenibile sono trasmessi in tutti i luoghi di formazione.
+
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate nell’allegato 2 del piano di formazione.
+
+<sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo; tali precauzioni particolari sono fissate nell’allegato 2 del piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -115,7 +127,9 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>2</sup> L’insegnamento scolastico obbligatorio comprende 1620 lezioni. Di queste, 180 sono dedicate all’insegnamento dello sport.
 
-<sup>3</sup> I corsi interaziendali hanno una durata complessiva minima di 42 e massima di 48 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali.
+<sup>3</sup> I corsi interaziendali hanno una durata complessiva di 37 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali.[^6-1]
+
+[^6-1]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 7
 
@@ -133,7 +147,7 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 **Piano di formazione**
 
-<sup>1</sup> Al momento dell’entrata in vigore della presente ordinanza è disponibile un piano di formazione redatto dalla competente organizzazione del mondo del lavoro e approvato dalla SEFRI.
+<sup>1</sup> All’entrata in vigore della presente ordinanza è disponibile un piano di formazione[^8-1] della competente organizzazione del mondo del lavoro.[^8-2]
 
 <sup>2</sup>
 
@@ -154,6 +168,9 @@ Il piano di formazione stabilisce inoltre:
 
 <sup>4</sup> Al piano di formazione è allegato l’elenco della documentazione concernente l’attuazione della formazione professionale di base con indicazione di titolo, data e centro di distribuzione.
 
+[^8-1]: Il piano del 7 giu. 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/) &gt; Professioni A–Z.
+[^8-2]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
+
 #### Art. 9
 
 **Cultura generale**
@@ -162,57 +179,74 @@ Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 
 
 [^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Sezione 6: Requisiti per gli operatori della formazione di base organizzata all’azienda
+## Sezione 6: Requisiti professionali per i formatori e numero massimo di persone in formazione in azienda
+
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 10
 
-**Requisiti professionali minimi richiesti ai formatori**
+**Requisiti professionali richiesti ai formatori**
 
-I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere a e b OFPr sono soddisfatti se il formatore possiede una delle seguenti qualifiche:
+Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:
 
-- a. attestato federale di capacità di pittore di scenari con almeno tre anni di esperienza professionale nel campo d’insegnamento;
-- b. attestato federale di capacità di pittore di scenari qualificato con almeno tre anni di esperienza professionale nel campo d’insegnamento;
-- c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività del grafico AFC e almeno cinque anni di esperienza professionale nel campo d’insegnamento;
-- d. titolo della formazione professionale superiore in ambito pertinente;
-- e. diploma di una scuola universitaria professionale in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
-- f. titolo accademico in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
+- a. attestato federale di capacità della professione corrispondente e almeno 3 anni di esperienza professionale nel campo d’insegnamento;
+- b. attestato federale di capacità di pittore di scenari qualificato e almeno 3 anni di esperienza professionale nel campo d’insegnamento;
+- c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività del pittore di scenari AFC e almeno 5 anni di esperienza professionale nel campo d’insegnamento;
+- d. diploma di scuola universitaria in ambito pertinente e almeno 3 anni di esperienza professionale nel campo d’insegnamento.
 
 #### Art. 11
 
-**Numero massimo di persone in formazione**
+**Numero massimo di persone in formazione in azienda**
 
-<sup>1</sup>
+<sup>1</sup> Nelle aziende che impiegano un formatore al 100 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.
 
-Una persona in formazione può svolgere il tirocinio in un’azienda se:
+<sup>2</sup> Per ogni altro specialista impiegato al 100 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
 
-- a. vi è occupato al 100 per cento un formatore qualificato; oppure
-- b. vi sono occupati due formatori qualificati, ciascuno almeno al 60 per cento.
+<sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità o di una qualifica equivalente nel campo della persona in formazione.
 
-<sup>2</sup> Quando una persona arriva all’ultimo anno della formazione professionale di base, un’altra persona in formazione può iniziare il tirocinio.
+<sup>4</sup> Nelle aziende che possono impiegare soltanto una persona in formazione una seconda persona può iniziare il tirocinio quando la prima inizia l’ultimo anno della formazione professionale di base.
 
-<sup>3</sup> Per ogni altro specialista occupato al 100 per cento o per ogni due specialisti in più occupati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
+<sup>5</sup> In casi particolari l’autorità cantonale può autorizzare un numero maggiore di persone in formazione nelle aziende che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
 
-<sup>4</sup> È considerato specialista il titolare di un attestato federale di capacità nel campo della persona in formazione o chi dispone di una qualifica equivalente.
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
-<sup>5</sup> In casi particolari l’autorità cantonale può autorizzare il superamento del numero massimo di persone in formazione nelle aziende di tirocinio che da più anni svolgono la loro funzione di formazione con un successo superiore alla media.
+[^sec7-1]
 
-## Sezione 7: Documentazione dell’apprendimento e delle prestazioni
+[^sec7-1]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 12
 
-**Formazione in azienda**
+**Documentazione dell’apprendimento**[^12-1]
 
-<sup>1</sup> La persona in formazione tiene una documentazione dell’apprendimento, in cui annota regolarmente i principali lavori eseguiti, le capacità acquisite e le esperienze fatte in azienda.
+<sup>1</sup> Nel corso della formazione professionale pratica la persona in formazione tiene una documentazione dell’apprendimento in cui annota regolarmente i principali lavori eseguiti in relazione alle competenze operative da acquisire.
 
-<sup>2</sup> Il formatore controlla e firma tale documentazione una volta al trimestre. La discute con la persona in formazione almeno una volta al trimestre.
+<sup>2</sup> Almeno una volta al semestre il formatore controlla e firma la documentazione dell’apprendimento e la discute con la persona in formazione.
 
-<sup>3</sup> Alla fine di ogni semestre, il formatore rileva in un rapporto il livello raggiunto dalla persona in formazione.
+[^12-1]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
+
+#### Art. 12a
+
+**Rapporto di formazione**[^12a-1]
+
+<sup>1</sup> Alla fine di ogni semestre, il formatore rileva in un rapporto il livello raggiunto dalla persona in formazione. A tal fine si basa sulle prestazioni nella formazione professionale pratica e sui resoconti delle prestazioni nella scuola professionale e nei corsi interaziendali. Discute il rapporto con la persona in formazione.
+
+<sup>2</sup> Se necessario, il formatore e la persona in formazione concordano misure per il raggiungimento degli obiettivi di formazione e fissano apposite scadenze. Le decisioni prese e le misure concordate sono annotate per iscritto.
+
+<sup>3</sup> Dopo la scadenza prefissata il formatore verifica l’efficacia delle misure concordate e ne riporta l’esito nel successivo rapporto di formazione.
+
+<sup>4</sup> Se nonostante le misure concordate gli obiettivi non sono raggiunti o se è a rischio il buon esito della formazione, il formatore lo comunica per iscritto alle parti contraenti e all’autorità cantonale.
+
+[^12a-1]: Introdotto dal n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 13
 
-**Formazione scolastica e formazione di base organizzata dalla scuola**
+**Documentazione delle prestazioni nella formazione scolastica e formazione di base organizzata dalla scuola[^13-1]**
 
 Gli operatori della formazione scolastica e della formazione di base organizzata dalla scuola documentano le prestazioni delle persone in formazione nelle materie insegnate e consegnano loro una pagella alla fine di ogni semestre.
+
+[^13-1]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 ## Sezione 8: Procedure di qualificazione
 
@@ -312,28 +346,39 @@ Se l’attestato federale di capacità è stato conseguito mediante procedura di
 - a. la nota complessiva;
 - b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 19 capoverso 1, la nota relativa all’insegnamento professionale.
 
-## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità
+## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità della formazione dei pittori di scenari AFC
+
+[^sec10-1]
+
+[^sec10-1]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 21
 
 <sup>1</sup>
 
-La Commissione svizzera per lo sviluppo professionale e la qualità ha la seguente composizione:
+La Commissione svizzera per lo sviluppo professionale e la qualità della formazione dei pittori di scenari AFC è composta da:
 
-- a. da tre a cinque rappresentanti dell’associazione svizzera dei pittori di scenari (STMV);
-- b. da uno a due rappresentanti dei docenti di materie professionali;
-- c. almeno un rappresentante, rispettivamente, della Confederazione e dei Cantoni.
+- a. 3–5 rappresentanti della Federazione svizzera dei pittori di scenari;
+- b. uno o due rappresentanti dei docenti di materie professionali;
+- c. almeno un rappresentante della Confederazione e almeno uno dei Cantoni.
 
-<sup>2</sup> Le regioni linguistiche devono essere adeguatamente rappresentate.
+<sup>2</sup>
+
+Per la composizione della Commissione vale inoltre quanto segue:
+
+- a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+- b. le regioni linguistiche sono equamente rappresentate.
 
 <sup>3</sup> La Commissione si autocostituisce.
 
 <sup>4</sup>
 
-La Commissione ha i seguenti compiti:
+Essa svolge in particolare i compiti seguenti:
 
-- a. adegua costantemente, ma almeno ogni cinque anni, il piano di formazione di cui all’articolo 8 agli sviluppi economici, tecnologici, ecologici e didattici. A tal fine tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base. Gli adeguamenti devono essere approvati dai rappresentanti della Confederazione e dei Cantoni e convalidati dalla SEFRI;
-- b. richiede alla SEFRI modifiche della presente ordinanza, qualora gli sviluppi osservati interessino disposizioni della stessa, segnatamente le competenze operative di cui all’articolo 4.
+- a. verifica almeno ogni cinque anni la presente ordinanza e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici; nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
+- b. se osserva sviluppi che richiedono una modifica della presente ordinanza, chiede alla competente organizzazione del mondo del lavoro di proporre alla SEFRI la corrispondente modifica;
+- c. se osserva sviluppi che richiedono una modifica del piano di formazione, presenta alla competente organizzazione del mondo del lavoro una proposta di adeguamento del piano di formazione;
+- d. esprime un parere riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
 
 ## Sezione 11: Disposizioni finali
 
@@ -356,6 +401,14 @@ Sono abrogati:
 <sup>1</sup> Le persone che hanno iniziato la formazione di pittori di scenari prima del 1<sup>o</sup> gennaio 2012 la portano a termine in base al diritto anteriore.
 
 <sup>2</sup> Chi ripete l’esame finale di tirocinio per pittori di scenari entro il 31 dicembre 2017 viene valutato, su richiesta, in base al diritto anteriore.
+
+#### Art. 23a
+
+**Disposizione transitoria relativa alla modifica del 7 giugno 2023**[^23a-1]
+
+Per le persone che hanno iniziato la formazione di pittore di scenari AFC prima dell’entrata in vigore della modifica del 7 giugno 2023 si applicano le disposizioni relative ai corsi interaziendali secondo il diritto anteriore.
+
+[^23a-1]: Introdotto dal n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 24
 

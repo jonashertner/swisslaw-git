@@ -3,18 +3,18 @@ sr: "412.101.221.72"
 title: Verordnung des SBFI vom 20. September 2011 über die berufliche Grundbildung Theatermalerin/Theatermaler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/810"
 language: de
-version: 2013-01-01
+version: 2023-08-01
 adopted: 2011-09-20
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2011-810-20130101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2011-810-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des SBFI**** über die berufliche Grundbildung Theatermalerin/Theatermaler mit eidgenössischem Fähigkeitszeugnis (EFZ)
+# Verordnung des SBFI über die berufliche Grundbildung Theatermalerin/Theatermaler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 20. September 2011 (Stand am 1. Januar 2013)[^t-1]
+vom 20. September 2011 (Stand am 1. August 2023)[^t-1]
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst.
 
@@ -24,12 +24,14 @@ vom 20. September 2011 (Stand am 1. Januar 2013)[^t-1]
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1] (BBG) und auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-4]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -97,13 +99,23 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   - 7\. Arbeitssicherheit und Gesundheitsschutze sicherstellen,
   - 8\. Umweltschutz sicherstellen.
 
-## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
+## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz, Umweltschutz und nachhaltige Entwicklung
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 5
 
-<sup>1</sup> Die Anbieter der Bildung geben den Lernenden zu Beginn und während der Bildung Vorschriften und Empfehlungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz ab und erklären sie ihnen.
+<sup>1</sup> Die Anbieter der Bildung geben den Lernenden zu Beginn und während der Bildung Vorschriften und Empfehlungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz, insbesondere zur Gefahren- und Sicherheitskommunikation in diesen drei Bereichen, ab und erklären sie ihnen.
 
 <sup>2</sup> Diese Vorschriften und Empfehlungen werden an allen Lernorten vermittelt und in den Qualifikationsverfahren berücksichtigt.
+
+<sup>3</sup> Die berufsspezifischen Aspekte für eine nachhaltige Entwicklung werden an allen Lernorten vermittelt.
+
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die in Anhang 2 zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+
+<sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Mass-nahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -115,7 +127,9 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>2</sup> Die schulische Bildung im obligatorischen Unterricht erfolgt in 1620 Lektionen. Davon entfallen auf den Sportunterricht 180 Lektionen.
 
-<sup>3</sup> Die überbetrieblichen Kurse umfassen insgesamt mindestens 42 und höchstens 48 Tage zu 8 Stunden. Im letzten Semester der beruflichen Grundbildung finden keine überbetrieblichen Kurse mehr statt.
+<sup>3</sup> Die überbetrieblichen Kurse umfassen insgesamt 37 Tage zu 8 Stunden. Im letzten Semester der beruflichen Grundbildung finden keine überbetrieblichen Kurse mehr statt.[^6-1]
+
+[^6-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 7
 
@@ -133,7 +147,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 **Bildungsplan**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan vor, der von der verantwortlichen Organisation der Arbeitswelt erarbeitet und vom SBFI genehmigt ist.
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan[^8-1] der zuständigen Organisation der Arbeitswelt vor.[^8-2]
 
 <sup>2</sup>
 
@@ -154,6 +168,9 @@ Der Bildungsplan legt überdies fest:
 
 <sup>4</sup> Dem Bildungsplan angefügt ist die Liste der Unterlagen zur Umsetzung der beruflichen Grundbildung mit Titel, Datum und Bezugsquelle.
 
+[^8-1]: Der Bildungsplan vom 7. Juni 2023 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z.
+[^8-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
+
 #### Art. 9
 
 **Allgemeinbildung**
@@ -162,57 +179,74 @@ Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. Apri
 
 [^9-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## 6. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
+## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 10
 
-**Fachliche Mindestanforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**
 
-Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben a und b BBV an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
+Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
 
-- a. Theatermalerin EFZ/Theatermaler EFZ mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
-- b. gelernte Theatermalerin/gelernter Theatermaler mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
-- c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Theatermalerin EFZ/des Theatermalers EFZ und mit mindestens 5 Jahren beruflicher Praxis im Lehrgebiet;
-- d. einschlägiger Abschluss der höheren Berufsbildung;
-- e. einschlägiger Abschluss einer Fachhochschule mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
-- f. einschlägiger Abschluss einer universitären Hochschule mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet.
+- a. Theatermalerin oder Theatermaler EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- b. gelernte Theatermalerin oder gelernter Theatermaler mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Theatermalerin EFZ und des Theatermalers EFZ und mit mindestens 5 Jahren beruflicher Praxis im Lehrgebiet;
+- d. einschlägiger Hochschulabschluss mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet.
 
 #### Art. 11
 
 **Höchstzahl der Lernenden**
 
-<sup>1</sup>
+<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 100 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
 
-In einem Betrieb darf eine lernende Person ausgebildet werden, wenn:
+<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
 
-- a. eine entsprechend qualifizierte Berufsbildnerin oder ein entsprechend qualifizierter Berufsbildner zu 100 Prozent beschäftigt wird; oder
-- b. zwei entsprechend qualifizierte Berufsbildnerinnen oder entsprechend qualifizierte Berufsbildner zu je mindestens 60 Prozent beschäftigt werden.
+<sup>3</sup> Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis oder über eine gleichwertige Qualifikation verfügt.
 
-<sup>2</sup> Tritt eine lernende Person in das letzte Jahr der beruflichen Grundbildung ein, so kann eine weitere lernende Person ihre Bildung beginnen.
-
-<sup>3</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von 2 Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
-
-<sup>4</sup> Als Fachkraft gilt, wer über ein eidgenössisches Fähigkeitszeugnis im Fachbereich der lernenden Person oder über eine gleichwertige Qualifikation verfügt.
+<sup>4</sup> In Betrieben, die nur eine lernende Person ausbilden dürfen, kann eine zweite lernende Person ihre Bildung beginnen, wenn die erste in das letzte Jahr der beruflichen Grundbildung eintritt.
 
 <sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
 
-## 7. Abschnitt: Lern- und Leistungsdokumentation
+## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentation
+
+[^sec7-1]
+
+[^sec7-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 12
 
-**Im Betrieb**
+**Lerndokumentation**[^12-1]
 
-<sup>1</sup> Die lernende Person führt eine Lerndokumentation, in der sie laufend alle wesentlichen Arbeiten, die erworbenen Fähigkeiten und ihre Erfahrungen im Betrieb festhält.
+<sup>1</sup> Die lernende Person führt während der Bildung in beruflicher Praxis eine Lerndokumentation, in der sie laufend alle wesentlichen Arbeiten im Zusammenhang mit den zu erwerbenden Handlungskompetenzen festhält.
 
-<sup>2</sup> Die Berufsbildnerin oder der Berufsbildner kontrolliert und unterzeichnet die Lerndokumentation einmal pro Quartal. Sie oder er bespricht sie mindestens einmal pro Quartal mit der lernenden Person.
+<sup>2</sup> Mindestens einmal pro Semester kontrolliert und unterzeichnet die Berufsbildnerin oder der Berufsbildner die Lerndokumentation und bespricht sie mit der lernenden Person.
 
-<sup>3</sup> Sie oder er hält am Ende jedes Semesters den Bildungsstand der lernenden Person in einem Bildungsbericht fest.
+[^12-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
+
+#### Art. 12a
+
+**Bildungsbericht**[^12a-1]
+
+<sup>1</sup> Die Berufsbildnerin oder der Berufsbildner hält am Ende jedes Semesters den Bildungsstand der lernenden Person in einem Bildungsbericht fest. Sie oder er stützt sich dabei auf die Leistungen in der beruflichen Praxis und auf Rückmeldungen über die Leistungen in der Berufsfachschule und in den überbetrieblichen Kursen. Sie oder er bespricht den Bildungsbericht mit der lernenden Person.
+
+<sup>2</sup> Die Berufsbildnerin oder der Berufsbildner und die lernende Person vereinbaren wenn nötig Massnahmen zum Erreichen der Bildungsziele und setzen dafür Fristen. Sie halten die getroffenen Entscheide und vereinbarten Massnahmen schriftlich fest.
+
+<sup>3</sup> Die Berufsbildnerin oder der Berufsbildner überprüft die Wirkung der vereinbarten Massnahmen nach der gesetzten Frist und hält den Befund im nächsten Bildungsbericht fest.
+
+<sup>4</sup> Werden trotz der vereinbarten Massnahmen die Ziele nicht erreicht oder ist der Ausbildungserfolg gefährdet, so teilt die Berufsbildnerin oder der Berufsbildner dies den Vertragsparteien und der kantonalen Behörde schriftlich mit.
+
+[^12a-1]: Eingefügt durch Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 13
 
-**In der schulischen Bildung und in der schulisch organisierten Grundbildung**
+**Leistungsdokumentation in der schulischen Bildung und in der schulisch organisierten Grundbildung[^13-1]**
 
 Die Anbieter der schulischen Bildung und die Anbieter schulisch organisierter Grundbildungen dokumentieren die Leistungen der Lernenden in den unterrichteten Bereichen und stellen ihnen am Ende jedes Semesters ein Zeugnis aus.
+
+[^13-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 ## 8. Abschnitt: Qualifikationsverfahren
 
@@ -315,28 +349,39 @@ Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung
 - a. die Gesamtnote;
 - b. die Noten jedes Qualifikationsbereichs der Abschlussprüfung sowie, unter dem Vorbehalt von Artikel 19 Absatz 1, die Erfahrungsnote.
 
-## 10. Abschnitt: Schweizerische Kommission für Berufsentwicklung und Qualität
+## 10. Abschnitt: Schweizerische Kommission für Berufsentwicklung und Qualität für Theatermalerin und Theatermaler EFZ
+
+[^sec10-1]
+
+[^sec10-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 21
 
 <sup>1</sup>
 
-Die Schweizerische Kommission für Berufsentwicklung und Qualität setzt sich zusammen aus:
+Die Schweizerische Kommission für Berufsentwicklung und Qualität fürTheatermalerin und Theatermaler EFZ setzt sich zusammen aus:
 
-- a. 3–5 Vertreterinnen oder Vertretern des Schweizerischen Theatermaler Verbandes (STMV);
-- b. 1–2 Vertreterinnen oder Vertretern der Fachlehrerschaft;
-- c. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
+- a. drei bis fünf Vertreterinnen oder Vertretern des Schweizerischen Theatermaler-Verbands;
+- b. einer bis zwei Vertreterinnen oder Vertretern der Fachlehrerschaft;
+- c. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.
 
-<sup>2</sup> Die Sprachregionen müssen gebührend vertreten sein.
+<sup>2</sup>
+
+Für die Zusammensetzung gilt überdies:
+
+- a. Eine paritätische Vertretung beider Geschlechter ist anzustreben.
+- b. Die Sprachregionen müssen angemessen vertreten sein.
 
 <sup>3</sup> Die Kommission konstituiert sich selbst.
 
 <sup>4</sup>
 
-Die Kommission hat folgende Aufgaben:
+Sie hat insbesondere folgende Aufgaben:
 
-- a. Sie passt den Bildungsplan nach Artikel 8 den wirtschaftlichen, technologischen, ökologischen und didaktischen Entwicklungen laufend, mindestens aber alle 5 Jahre an. Dabei trägt sie allfälligen neuen organisatorischen Aspekten der beruflichen Grundbildung Rechnung. Die Anpassungen bedürfen der Zustimmung der Vertreterinnen und Vertreter des Bundes und der Kantone sowie der Genehmigung durch das SBFI.
-- b. Sie beantragt dem SBFI Änderungen dieser Verordnung, sofern die beobachteten Entwicklungen die Regelungen dieser Verordnung, namentlich die Handlungskompetenzen nach Artikel 4, betreffen.
+- a. Sie überprüft diese Verordnung und den Bildungsplan mindestens alle fünf Jahre auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen; dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung.
+- b. Beobachtet sie Entwicklungen, die eine Änderung dieser Verordnung erfordern, so ersucht sie die zuständige Organisation der Arbeitswelt, dem SBFI die entsprechende Änderung zu beantragen.
+- c. Beobachtet sie Entwicklungen, die eine Anpassung des Bildungsplans erfordern, so stellt sie der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans.
+- d. Sie nimmt Stellung zu den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung.
 
 ## 11. Abschnitt: Schlussbestimmungen
 
@@ -359,6 +404,14 @@ Es werden aufgehoben:
 <sup>1</sup> Lernende, die ihre Bildung als Theatermalerin/Theatermaler vor dem 1. Januar 2012 begonnen haben, schliessen sie nach bisherigem Recht ab.
 
 <sup>2</sup> Wer die Lehrabschlussprüfung für Theatermalerin/Theatermaler bis zum 31. Dezember 2017 wiederholt, kann verlangen, nach bisherigem Recht beurteilt zu werden.
+
+#### Art. 23a
+
+**Übergangsbestimmung zur Änderung vom 7. Juni 2023**[^23a-1]
+
+Für Lernende, die ihre Bildung als Theatermalerin oder Theatermaler EFZ vor dem Inkrafttreten der Änderung vom 7. Juni 2023 begonnen haben, gelten die Bestimmungen zu den überbetrieblichen Kursen nach bisherigem Recht.
+
+[^23a-1]: Eingefügt durch Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 24
 
