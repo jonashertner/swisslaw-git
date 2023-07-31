@@ -4,23 +4,24 @@ number: "412.311"
 title: Lehrpersonalverordnung (LPVO)
 short: LPVO
 language: de
-version: "2023-01-01"
-nachtrag: "122"
-valid_until: 2023-08-01
+version: "2023-08-01"
+nachtrag: "123"
+valid_until: 2024-01-26
 adopted: 2000-07-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-123.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Lehrpersonalverordnung (LPVO)<sup>17</sup>
+# Lehrpersonalverordnung (LPVO)
 
-(vom 19. Juli 2000)[^t-1]
+(vom 19. Juli 2000)[^t-2][^t-1]
 
 Der Regierungsrat beschliesst:
 
-[^t-1]: OS 56, 309.
+[^t-1]: Fassung gemäss RRB vom 23. April 2008 (OS 63, 191; ABl 2008, 652). In Kraft seit 1. Mai 2008. 1. 7. 23 - 121 21
+[^t-2]: OS 56, 309.
 
 ### I. Allgemeine Bestimmungen
 
@@ -52,7 +53,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Er wird für jede Gemeinde auf der Grundlage der folgenden Merkmale festgelegt:
 
@@ -131,7 +132,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **3**
 
-- 1\. 4. 23 - 120 § 2 f.<sup>42</sup> <sup>1</sup> Die Gemeinden können die Lehrpersonen auf eigene Kosten für die Erfüllung einzelner Aufgaben im Schulwesen gemäss § 10 a zusätzlich entschädigen, wenn
+- 1\. 7. 23 - 121 § 2 f.<sup>42</sup> <sup>1</sup> Die Gemeinden können die Lehrpersonen auf eigene Kosten für die Erfüllung einzelner Aufgaben im Schulwesen gemäss § 10 a zusätzlich entschädigen, wenn
 
 **Zusätzliche Entschädigungen**
 
@@ -199,7 +200,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 <sup>3</sup> Eine Lektion dauert 45 Minuten.
 
-<sup>4</sup> Lehrpersonen in der Berufseinführung gemäss der Verordnung über die Berufseinführung der Lehrpersonen der Volksschule vom 29. Januar 2003[^hIIArbeitszeit-2] wird pro Wochenlektion jährlich pauschal eine zusätzliche Arbeitszeit von 1,5 Stunden angerechnet.
+<sup>4</sup> Lehrpersonen in der Berufseinführung gemäss der Verordnung über die Berufseinführung der Lehrpersonen der Volksschule vom 1. März 2023[^hIIArbeitszeit-2] wird pro Wochenlektion jährlich pauschal eine zusätzliche Arbeitszeit von 1,5 Stunden angerechnet.<sup>61</sup>
 
 **b. Auf Kindergartenstufe43**
 
@@ -219,7 +220,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **5**
 
-- 1\. 4. 23 - 120 § 10.<sup>43</sup> <sup>1</sup> Die Schulleitungen teilen den Lehrpersonen das Unterrichtspensum zu, legen bei Bedarf eine abweichende Arbeitszeit pro Wochenlektion fest und bestimmen den zeitlichen Aufwand für die Tätigkeitsbereiche gemäss §§ 10 a–10 c.
+- 1\. 7. 23 - 121 § 10.<sup>43</sup> <sup>1</sup> Die Schulleitungen teilen den Lehrpersonen das Unterrichtspensum zu, legen bei Bedarf eine abweichende Arbeitszeit pro Wochenlektion fest und bestimmen den zeitlichen Aufwand für die Tätigkeitsbereiche gemäss §§ 10 a–10 c.
 
 **Arbeitszeit der Lehrpersonen**
 
@@ -307,7 +308,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **7**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Übertragen werden:
 
@@ -387,7 +388,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekund
 
 **9**
 
-- 1\. 4. 23 - 120 b.<sup>50</sup> zu 75%: anderweitige Unterrichtstätigkeit, einschliesslich des auf der Volksschulstufe erteilten Unterrichts an einer Mittelschule (Langgymnasium), oder schulische Therapietätigkeiten mit Schülerinnen und Schülern der Volksschulstufe oder der Sekundarstufe II sowie Unterrichtstätigkeit in der Lehrerbildung, sofern dieselbe Zeitspanne nicht bereits unter lit. a angerechnet wurde,
+- 1\. 7. 23 - 121 b.<sup>50</sup> zu 75%: anderweitige Unterrichtstätigkeit, einschliesslich des auf der Volksschulstufe erteilten Unterrichts an einer Mittelschule (Langgymnasium), oder schulische Therapietätigkeiten mit Schülerinnen und Schülern der Volksschulstufe oder der Sekundarstufe II sowie Unterrichtstätigkeit in der Lehrerbildung, sofern dieselbe Zeitspanne nicht bereits unter lit. a angerechnet wurde,
 
 - c. zu 50%: anderweitige Berufstätigkeit, Aus- und Weiterbildung sowie Haus-, Erziehungs- und Betreuungsarbeit, sofern dieselbe Zeitspanne nicht bereits unter lit. a oder b angerechnet wurde.
 
@@ -446,7 +447,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekund
 
 **11**
 
-- 1\. 4. 23 - 120 § 21. <sup>1</sup> Die Grundlage für die Berechnung des Dienstaltersgeschenks in Form von Urlaub bilden 39 Schulwochen pro Jahr.
+- 1\. 7. 23 - 121 § 21. <sup>1</sup> Die Grundlage für die Berechnung des Dienstaltersgeschenks in Form von Urlaub bilden 39 Schulwochen pro Jahr.
 
 **Dienstaltersgeschenk**
 
@@ -506,7 +507,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekund
 
 **13**
 
-- 1\. 4. 23 - 120 § 27.[^hVWeitereRechteun-2] <sup>1</sup> Zusätzlich zu den im allgemeinen Personalrecht in den §§ 84–115 VVO<sup>24</sup> genannten Gründen kann auch zur beruflichen Weiterbildung, für Aufgaben im Schulwesen oder aus anderen wichtigen Gründen bezahlter Urlaub gewährt werden.
+- 1\. 7. 23 - 121 § 27.[^hVWeitereRechteun-2] <sup>1</sup> Zusätzlich zu den im allgemeinen Personalrecht in den §§ 84–115 VVO<sup>24</sup> genannten Gründen kann auch zur beruflichen Weiterbildung, für Aufgaben im Schulwesen oder aus anderen wichtigen Gründen bezahlter Urlaub gewährt werden.
 
 **Bezahlte Abwesenheiten**
 
@@ -581,7 +582,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekund
 
 **15**
 
-- 1\. 4. 23 - 120 § 29 f.<sup>43</sup> <sup>1</sup> Bei längeren Abwesenheiten kann die Schulpflege die Stellvertretung der Schulleiterin oder des Schulleiters einer Lehrperson oder einer anderen Schulleiterin oder einem anderen Schulleiter wie folgt übertragen:
+- 1\. 7. 23 - 121 § 29 f.<sup>43</sup> <sup>1</sup> Bei längeren Abwesenheiten kann die Schulpflege die Stellvertretung der Schulleiterin oder des Schulleiters einer Lehrperson oder einer anderen Schulleiterin oder einem anderen Schulleiter wie folgt übertragen:
 
 **Stellvertretung**
 
@@ -656,13 +657,14 @@ Die Schulpflegen[^hVIIISchlussbestimm-1] erlassen bis spätestens Ende 2000 Anst
 
 <sup>3</sup> § 21 und der Lektionenansatz der Vikariate gemäss Anhang C treten am 1. Januar 2001 in Kraft.
 
-<sup>4</sup> Die Lehrerbesoldungsverordnung vom 5. März 1986 wird mit Ausnahme von § 33, der bis 15. August 2009 in Kraft bleibt, aufgehoben.<sup>17</sup>
+<sup>4</sup> Die Lehrerbesoldungsverordnung vom 5. März 1986 wird mit Ausnahme von § 33, der bis 15. August 2009 in Kraft bleibt, aufgehoben.[^33-2]
 
 **17**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 23 - 121
 
 [^33-1]: Fassung gemäss RRB vom 30. Mai 2001 (OS 56, 585). In Kraft seit 16. August 2001.
+[^33-2]: Fassung gemäss RRB vom 23. April 2008 (OS 63, 191; ABl 2008, 652). In Kraft seit 1. Mai 2008. 1. 7. 23 - 121 21
 
 ### Übergangsbestimmung zur Änderung vom 15. Dezember 2004
 
@@ -710,7 +712,7 @@ Die bisherigen Stufen 1–3 werden wie folgt aufgehoben:
 
 **19**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 23 - 121
 
 <sup>4</sup> Lehrpersonen, die aufgrund einer Pensenerhöhung bereits zu einem früheren Zeitpunkt in ein kantonales Anstellungsverhältnis hätten übergeführt werden müssen, werden rückwirkend auf jenen Zeitpunkt nach den damals geltenden Grundlagen eingestuft und die weitere Lohnentwicklung gemäss §§ 24 und 25 vollzogen. Kommunale Dienstjahre werden bei der kantonalen Anstellung nicht berücksichtigt.
 
@@ -745,8 +747,6 @@ Bei einer Anstellung an Regelklassen der Kindergartenstufe vor Inkraftsetzung de
 (OS 77, 400)
 
 Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, bleibt das bisherige Recht anwendbar.
-
-<sup>17</sup> Fassung gemäss RRB vom 23. April 2008 (OS 63, 191; ABl 2008, 652). In Kraft seit 1. Mai 2008.
 
 <sup>18</sup> Eingefügt durch RRB vom 11. Juli 2007 (OS 62, 313; ABl 2007, 1407). In Kraft seit 16. August 2008.
 
@@ -834,9 +834,11 @@ Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, blei
 
 <sup>60</sup> Fassung gemäss RRB vom 21. September 2022 (OS 78, 21; ABl 2022-09-30). In Kraft seit 1. Januar 2023.
 
+<sup>61</sup> Fassung gemäss RRB vom 1. März 2023 (OS 78, 165; ABl 2023-03-10). In Kraft seit 1. August 2023.
+
 **23**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 23 - 121
 
 ### Anhang zur Lehrpersonalverordnung<sup>60</sup>
 
@@ -902,7 +904,7 @@ klassen der Primarstufe h. Förderlehrperson und Lehrperson an Einschulungs- und
 
 **25**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Vikarinnen und Vikare ohne Lehrdiplom für die Volksschule erhalten den Lektionenansatz gemäss Abs. 1<sup>26</sup> a. zu 100% mit Lehrdiplom für die Sekundarstufe II, b.<sup>58</sup> zu 90% nach erfolgreichem Abschluss des Basisstudiums als Volksschullehrperson und positiver Beurteilung der Eignung,
 
@@ -915,4 +917,4 @@ klassen der Primarstufe h. Förderlehrperson und Lehrperson an Einschulungs- und
 ## Weitere Fussnoten
 
 - [9] LS 414.41.
-- [16] Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 1. Januar 2008. 1. 4. 23 - 120 21
+- [16] Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 1. Januar 2008.
