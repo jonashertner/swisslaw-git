@@ -4,13 +4,13 @@ number: "165.117"
 title: Vollzugsverordnung betreffend die Lehrpersonen
 short: "Lehrpersonalverordnung, LPV"
 language: de
-version: 2021-08-01
-corrected: 2023-04-05
-version_adopted: 2021-06-23
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2023-06-27
 adopted: 2008-06-24
 in_force: 2008-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/991/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1166/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/991/pdf_file"
 
 (Lehrpersonalverordnung, LPV)
 
-vom 24.06.2008 (Stand 01.08.2021)
+vom 24.06.2008 (Stand 01.08.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -297,14 +297,9 @@ beschliesst:
 
 **Festlegung des Anfangslohns**
 
-<sup>1</sup> Der Anfangslohn liegt grundsätzlich innerhalb der Bandposition C des massgebenden Lebensalters.
+<sup>1</sup> Der Anfangslohn liegt grundsätzlich innerhalb der Bandposition C des Lebensalters.
 
-<sup>2</sup> Bei der Festlegung des massgebenden Lebensalters berücksichtigt die Anstellungsinstanz die bisherige berufliche Erfahrung angemessen. Sie orientiert sich dabei an den folgenden Richtlinien:
-
-- 1\. Jahre im Schuldienst mit einem Pensum von mindestens 70% werden voll angerechnet;
-- 2\. Jahre im Schuldienst mit einem Pensum von mindestens 30% können voll angerechnet werden, sofern nachweislich die Weiterbildungsverpflichtung erfüllt worden ist;
-- 3\. Jahre mit anderen beruflichen oder berufsbezogenen Tätigkeiten sowie die Dauer der Führung eines Familienhaushalts werden zur Hälfte angerechnet;
-- 4\. nicht angerechnet wird insbesondere die Ausbildungszeit.
+<sup>2</sup> Bei der Festlegung des Anfangslohns innerhalb der Bandposition C ist insbesondere die bisherige berufliche Erfahrung angemessen zu berücksichtigen.
 
 #### § 23
 
@@ -662,19 +657,23 @@ beschliesst:
 
 <sup>1</sup> Unterricht und Betreuung einer Klasse
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
+- 1\. Unterrichtsverpflichtung: — 29 Lektionen
+- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
 - 2\. Lohnband:
   - a) mit Kindergartendiplom: — L9
-  - b) mit Lehrdiplom Kindergarten / Unterstufe: — L10
+  - b) mit Lehrdiplom Kindergarten/Unterstufe: — L10
 
 #### § A1-3
 
 **Lehrperson für den Heilpädagogischen Kindergarten**
 
-<sup>1</sup>
+<sup>1</sup> Unterricht und Betreuung einer Klasse
 
 - 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 2\. Lohnband: — L11
+- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
+- 2\. Lohnband:
+  - a) mit Kindergartendiplom: — L11
+  - b) mit Lehrdiplom Kindergarten/Unterstufe: — L12
 
 #### § A1-4
 
@@ -685,25 +684,13 @@ beschliesst:
 - 1\. Unterrichtsverpflichtung:
   - a) im Einzelunterricht: — 34 Lektionen
   - b) im Gruppenunterricht: — 29 Lektionen
-- 2\. Lohnband: — L9
+- 2\. Lohnband:
+  - a) mit Diplom in Deutsch als Zweitsprache (DaZ): — L9
+  - b) mit Lehrdiplom Kindergarten/Unterstufe oder Primarstufe: — L10
 
-#### § A1-5
+#### § A1-5–A1-6
 
-**Legasthenie- oder Dyskalkulietherapeutin und ‑therapeut**
-
-<sup>1</sup> Einzel- oder Gruppenunterricht
-
-- 1\. Unterrichtsverpflichtung: — 32 Lektionen
-- 2\. Lohnband: — L10
-
-#### § A1-6
-
-**Fachlehrperson für die Primarschule**
-
-<sup>1</sup> Unterricht in einem oder zwei Fächern (z.B. Textiles Werken, Sport, Bildnerisches Gestalten); in der Regel in Halbklassenunterricht
-
-- 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 2\. Lohnband: — L10
+**…**
 
 #### § A1-7
 
@@ -720,39 +707,27 @@ beschliesst:
 
 #### § A1-9
 
-**Klassenlehrperson an der 1. bis 4. Klasse der Primarschule**
+**Lehrperson für die Primarschule**
 
 <sup>1</sup> Unterricht und Betreuung einer Klasse
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
+- 1\. Unterrichtsverpflichtung: — 29 Lektionen
+- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
 - 2\. Lohnband: — L10
 
 #### § A1-10
 
-**Klassenlehrperson an der 1. bis 4. Kleinklasse der Primarschule**
+**Lehrperson für die Kleinklasse der Primarschule**
 
 <sup>1</sup> Unterricht und Betreuung einer Klasse
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
+- 1\. Unterrichtsverpflichtung: — 29 Lektionen
+- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
 - 2\. Lohnband: — L12
 
-#### § A1-11
+#### § A1-11–A1-12
 
-**Klassenlehrperson an der 5. und 6. Klasse der Primarschule**
-
-<sup>1</sup> Unterricht und Betreuung einer Klasse
-
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L10
-
-#### § A1-12
-
-**Klassenlehrperson an der 5. und 6. Kleinklasse der Primarschule**
-
-<sup>1</sup> Unterricht und Betreuung einer Klasse
-
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L12
+**…**
 
 #### § A1-13
 
@@ -767,49 +742,37 @@ beschliesst:
 
 **Lehrperson für die Heilpädagogische Schule**
 
-<sup>1</sup> Unterricht als Klassenlehrperson und Betreuung einer Klasse
+<sup>1</sup> Unterricht als Lehrperson und Betreuung einer Klasse
 
 - 1\. Unterrichtsverpflichtung: — 29 Lektionen
+- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
 - 2\. Lohnband: — L12
 
-#### § A1-15–A1-16
+#### § A1-15–A1-17
 
 **…**
 
-#### § A1-17
-
-**Fachlehrperson II für die Sekundarstufe I**
-
-<sup>1</sup> Unterrichten in einem oder zwei Fächern (z.B. Textiles Werken, Hauswirtschaft, Sport, Bildnerisches Gestalten) in der Regel in Halbklassen- oder Gruppenunterricht an der Orientierungsschule oder dem Untergymnasium; Lehrdiplom mit seminaristischer Ausbildung
-
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L11
-
 #### § A1-18
 
-**Fachlehrperson I für die Sekundarstufe I**
+**Fachlehrperson für die Sekundarstufe I**
 
-<sup>1</sup> Unterrichten in einem oder zwei Fächern an der Orientierungsschule oder dem Untergymnasium; Lehrdiplom mit universitärer Ausbildung oder Ausbildung an höherer Fachschule
+<sup>1</sup> Unterrichten in einem oder zwei Fächern an der Orientierungsschule oder dem Untergymnasium; Lehrdiplom mit seminaristischer oder universitärer Ausbildung oder Ausbildung an einer pädagogischen Hochschule
 
 - 1\. Unterrichtsverpflichtung: — 28 Lektionen
 - 2\. Lohnband: — L12
 
 #### § A1-19
 
-**Fächergruppen-Lehrperson für die Sekundarstufe I ohne Klassenlehrerfunktion**
-
-<sup>1</sup> Unterrichten einer Fächergruppe im Klassenunterricht ohne Betreuen einer Klasse; Lehrdiplom für die Sekundarstufe I (Integrierte Orientierungsschule, Kooperative Orientierungsschule oder Werkschule)
-
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L13
+**…**
 
 #### § A1-20
 
-**Fächergruppen-Lehrperson für die Sekundarstufe I mit Klassenlehrerfunktion**
+**Fächergruppen-Lehrperson für die Sekundarstufe I**
 
-<sup>1</sup> Unterrichten einer Fächergruppe im Klassenunterricht und Betreuen einer Klasse; Lehrdiplom für die Sekundarstufe I (Integrierte Orientierungsschule, Kooperative Orientierungsschule oder Werkschule)
+<sup>1</sup> Unterrichten einer Fächergruppe im Klassenunterricht; Lehrdiplom für die Sekundarstufe I (Integrierte Orientierungsschule, Kooperative Orientierungsschule oder Werkschule)
 
-- 1\. Unterrichtsverpflichtung: — 27 Lektionen
+- 1\. Unterrichtsverpflichtung: — 28 Lektionen
+- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
 - 2\. Lohnband: — L13
 
 #### § A1-21
@@ -835,18 +798,22 @@ beschliesst:
 
 <sup>4</sup> Lohnband: L16
 
-<sup>5</sup> Für Lehrpersonen, die Hauswirtschaft, Technisches Gestalten und Tastaturschreiben / Informatik ausschliesslich im Untergymnasium unterrichten, gelten die entsprechenden Bestimmungen für Fachlehrpersonen II für die Sekundarstufe I bzw. für Fachlehrpersonen I für die Sekundarstufe I in diesem Anhang. Für Instrumentalunterricht und Sologesangslektionen gelten die entsprechenden Bestimmungen in diesem Anhang.
+<sup>5</sup> Für Lehrpersonen, die Wirtschaft/Arbeit/Haushalt, Technisches Gestalten oder Medien und Informatik im Untergymnasium unterrichten und über eine Ausbildung an einer pädagogischen Hochschule verfügen, gelten die entsprechenden Bestimmungen für Fachlehrpersonen für die Sekundarstufe I gemäss § A1-18.
+
+<sup>6</sup> Für Instrumentalunterricht und Sologesangslektionen gelten die Bestimmungen gemäss § A1-23.
 
 #### § A1-22
 
-**Lehrperson für die Berufsfachschule**
+**Lehrperson an der Berufsfachschule für die berufliche Grundausbildung**
 
-<sup>1</sup> Eine stufengerechte pädagogische Ausbildung setzt die Lehrbefähigung für die Sekundarstufe II (Höheres Lehramt, berufspädagogische Bildung von 1'800 Lernstunden, Diplom als Turn- und Sportlehrperson II) voraus oder eine andere pädagogische Ausbildung mit gleichem Niveau.
+<sup>1</sup> Eine stufengerechte pädagogische Ausbildung erfordert die Lehrbefähigung für die Sekundarstufe II gemäss Art. 46 der Verordnung über die Berufsbildung (Berufsbildungsverordnung, BBV)[^A122-1] oder eine andere pädagogisch gleichwertige Qualifikation.
 
-<sup>2</sup> Folgende Ausbildungen werden als gleichwertig beurteilt:
+<sup>2</sup> Folgende Ausbildungen werden als pädagogisch gleichwertig zu einer Lehrbefähigung für die Sekundarstufe I beurteilt:
 
-- 1\. eidg. Fachausweis Ausbilder/-in entspricht einer Lehrbefähigung für die Sekundarstufe I;
-- 2\. berufspädagogische Bildung von 300 Lernstunden entspricht einer Lehrbefähigung für die Primarstufe.
+- 1\. Ausbildnerin und Ausbildner FA;
+- 2\. Betriebsausbildnerin und Betriebsausbildner HFP;
+- 3\. dipl. Erwachsenenbildnerin und dipl. Erwachsenenbildner HF;
+- 4\. dipl. Ausbildungsleiterin und dipl. Ausbildungsleiter HF.
 
 <sup>3</sup> Unterrichtsverpflichtung:
 
@@ -861,25 +828,38 @@ beschliesst:
 <sup>4</sup> Lehrperson I:
 
 - 1\. Lohnband: L16
-- 2\. Fachausbildung auf Tertiärstufe A (Fachhochschule, Universität oder ETH mit Master, Lizentiat oder Diplom als Turn- und Sportlehrperson II) im zu unterrichtenden Fachbereich
+- 2\. Fachausbildung auf Tertiärstufe A mit Master (Fachhochschule, Universität, ETH oder Diplom als Turn- und Sportlehrperson II) im zu unterrichtenden Fachbereich
 
 <sup>5</sup> Lehrperson II:
 
 - 1\. Lohnband: L15
 - 2\. Ausbildung:
-  - a) Fachausbildung auf Tertiärstufe A (Fachhochschule, Universität oder ETH mit Bachelor, Sekundarlehrdiplom oder
-  - b) Diplom als Turn- und Sportlehrperson I) im zu unterrichtenden Fachbereich oder
-  - c) Fachausbildung auf Tertiärstufe B (Höhere Fachschule oder eidg. höhere Fachprüfung) im zu unterrichtenden Fachbereich
+  - a) Fachausbildung auf Tertiärstufe A mit Bachelor (Fachhochschule, Universität, ETH oder Diplom als Turn- und Sportlehrperson I) im zu unterrichtenden Fachbereich; oder
+  - b) Diplom als Turn- und Sportlehrperson I im zu unterrichtenden Fachbereich; oder
+  - c) Lehrdiplom für den allgemeinbildenden Unterricht
 
 <sup>6</sup> Lehrperson III:
 
 - 1\. Lohnband: L14
-- 2\. Fachausbildung auf Tertiärstufe B (Eidg. Berufsprüfung) im zu unterrichtenden Fachbereich
+- 2\. Ausbildung:
+  - a) Fachausbildung auf Tertiärstufe B (Eidg. Berufsprüfung) im zu unterrichtenden Fachbereich; oder
+  - b) Lehrdiplom für die obligatorische Schule
 
 <sup>7</sup> Lehrperson IV:
 
 - 1\. Lohnband: L13
 - 2\. Fachausbildung auf Sekundarstufe II (Eidg. Fähigkeitszeugnis) mit Berufspraxis
+
+[^A122-1]: SR 412.101
+
+#### § A1-22a
+
+**Lehrperson an der Berufsfachschule für Brückenangebote**
+
+<sup>1</sup> Unterrichten einer Fächergruppe im Klassenunterricht sowie Coaching der Lernenden und Zusammenarbeit mit der Berufs- und Studienberatung, Fach- und Amtsstellen, Schnupperlehr- und Praktikumsbetrieben sowie Erziehungsberechtigten; Lehrdiplom für die obligatorische Schule mit Nachqualifikation in pädagogischen Fördermassnahmen
+
+- 1\. Unterrichtsverpflichtung: — 25 Lektionen
+- 2\. Lohnband: — L13
 
 #### § A1-23
 
@@ -888,7 +868,7 @@ beschliesst:
 <sup>1</sup> Unterrichtsverpflichtung:
 
 - 1\. Einzel- und Kleingruppenunterricht: — 28 Stunden
-- 2\. Grossgruppenunterricht / Ensemble: — 28 Stunden
+- 2\. Grossgruppenunterricht / Ensemble: — 28 Lektionen
 
 <sup>2</sup> Lehrperson I:
 
@@ -961,7 +941,7 @@ beschliesst:
 <sup>2</sup> Parameter für die Berechnung der Lohnleitlinien:
 
 <table>
-<tr><th>Lohnband</th><th>massgebendes Lebensalter (Startjahr)</th><th>Minimallohn je Monat (62.5%)</th><th>jährlicher Anstieg in den Jahren 1–6</th><th>jährlicher Anstieg in den Jahren 7–12</th><th>jährlicher Anstieg in den Jahren 13–18</th><th>jährlicher Anstieg in den Jahren 19–25</th></tr>
+<tr><th>Lohnband</th><th>Lebensalter (Startjahr)</th><th>Minimallohn je Monat (62.5%)</th><th>jährlicher Anstieg in den Jahren 1–6</th><th>jährlicher Anstieg in den Jahren 7–12</th><th>jährlicher Anstieg in den Jahren 13–18</th><th>jährlicher Anstieg in den Jahren 19–25</th></tr>
 <tr><td>L 1</td><td>19</td><td>3'670</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
 <tr><td>L 2</td><td>19</td><td>3'850</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
 <tr><td>L 3</td><td>20</td><td>4'040</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
@@ -989,7 +969,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>19</td><td>3'780</td><td>3'670</td><td></td></tr>
 <tr><td>25</td><td>4'433</td><td>4'304</td><td>4'175</td></tr>
 <tr><td>31</td><td>4'941</td><td>4'797</td><td>4'654</td></tr>
@@ -1010,7 +990,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>19</td><td>3'966</td><td>3'850</td><td></td></tr>
 <tr><td>25</td><td>4'651</td><td>4'515</td><td>4'380</td></tr>
 <tr><td>31</td><td>5'184</td><td>5'033</td><td>4'882</td></tr>
@@ -1031,7 +1011,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>20</td><td>4'161</td><td>4'040</td><td></td></tr>
 <tr><td>26</td><td>4'880</td><td>4'738</td><td>4'596</td></tr>
 <tr><td>32</td><td>5'440</td><td>5'281</td><td>5'123</td></tr>
@@ -1052,7 +1032,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>20</td><td>4'367</td><td>4'240</td><td></td></tr>
 <tr><td>26</td><td>5'122</td><td>4'973</td><td>4'823</td></tr>
 <tr><td>32</td><td>5'709</td><td>5'543</td><td>5'376</td></tr>
@@ -1073,7 +1053,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>21</td><td>4'584</td><td>4'450</td><td></td></tr>
 <tr><td>27</td><td>5'376</td><td>5'219</td><td>5'062</td></tr>
 <tr><td>33</td><td>5'992</td><td>5'817</td><td>5'643</td></tr>
@@ -1094,7 +1074,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>21</td><td>4'810</td><td>4'670</td><td></td></tr>
 <tr><td>27</td><td>5'641</td><td>5'477</td><td>5'313</td></tr>
 <tr><td>33</td><td>6'288</td><td>6'105</td><td>5'921</td></tr>
@@ -1115,7 +1095,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>22</td><td>5'047</td><td>4'900</td><td></td></tr>
 <tr><td>28</td><td>5'919</td><td>5'747</td><td>5'574</td></tr>
 <tr><td>34</td><td>6'597</td><td>6'405</td><td>6'213</td></tr>
@@ -1136,7 +1116,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>22</td><td>5'294</td><td>5'140</td><td></td></tr>
 <tr><td>28</td><td>6'209</td><td>6'028</td><td>5'847</td></tr>
 <tr><td>34</td><td>6'921</td><td>6'719</td><td>6'517</td></tr>
@@ -1157,7 +1137,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>22</td><td>5'562</td><td>5'400</td><td></td></tr>
 <tr><td>28</td><td>6'523</td><td>6'333</td><td>6'143</td></tr>
 <tr><td>34</td><td>7'271</td><td>7'059</td><td>6'847</td></tr>
@@ -1178,7 +1158,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>22</td><td>5'840</td><td>5'670</td><td></td></tr>
 <tr><td>28</td><td>6'849</td><td>6'650</td><td>6'450</td></tr>
 <tr><td>34</td><td>7'634</td><td>7'412</td><td>7'189</td></tr>
@@ -1199,7 +1179,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>22</td><td>6'129</td><td>5'950</td><td></td></tr>
 <tr><td>28</td><td>7'188</td><td>6'978</td><td>6'769</td></tr>
 <tr><td>34</td><td>8'011</td><td>7'778</td><td>7'545</td></tr>
@@ -1220,7 +1200,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>25</td><td>6'438</td><td>6'250</td><td></td></tr>
 <tr><td>31</td><td>7'550</td><td>7'330</td><td>7'110</td></tr>
 <tr><td>37</td><td>8'415</td><td>8'170</td><td>7'925</td></tr>
@@ -1240,7 +1220,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>25</td><td>6'757</td><td>6'560</td><td></td></tr>
 <tr><td>31</td><td>7'924</td><td>7'694</td><td>7'463</td></tr>
 <tr><td>37</td><td>8'832</td><td>8'575</td><td>8'318</td></tr>
@@ -1260,7 +1240,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>25</td><td>7'097</td><td>6'890</td><td></td></tr>
 <tr><td>31</td><td>8'323</td><td>8'081</td><td>7'838</td></tr>
 <tr><td>37</td><td>9'277</td><td>9'007</td><td>8'736</td></tr>
@@ -1280,7 +1260,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>28</td><td>7'447</td><td>7'230</td><td></td></tr>
 <tr><td>34</td><td>8'734</td><td>8'479</td><td>8'225</td></tr>
 <tr><td>40</td><td>9'735</td><td>9'451</td><td>9'168</td></tr>
@@ -1300,7 +1280,7 @@ beschliesst:
 <sup>2</sup>
 
 <table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
+<tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
 <tr><td>28</td><td>7'818</td><td>7'590</td><td></td></tr>
 <tr><td>34</td><td>9'169</td><td>8'902</td><td>8'635</td></tr>
 <tr><td>40</td><td>10'219</td><td>9'922</td><td>9'624</td></tr>
