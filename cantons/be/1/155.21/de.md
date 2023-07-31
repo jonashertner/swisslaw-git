@@ -4,13 +4,13 @@ number: "155.21"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRPG
 language: de
-version: 2023-04-01
-valid_until: 2023-07-31
-version_adopted: 2022-09-13
+version: 2023-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-30
 adopted: 1989-05-23
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/155.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2815/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2855/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2815/pdf_file"
 
 (VRPG)
 
-vom 23.05.1989 (Stand 01.04.2023)
+vom 23.05.1989 (Stand 01.08.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1638,7 +1638,7 @@ beschliesst:
 
 **Übergangsbestimmung der Änderung zu Artikel 104 Absatz 3 und 4**
 
-<sup>1</sup> Beim Inkrafttreten dieser Änderung hängige Verfahren werden nach bisherigem Recht zu Ende geführt.
+<sup>1</sup> Beim Inkrafttreten dieser Änderung hängige Beschwerdeverfahren werden nach bisherigem Recht zu Ende geführt.
 
 Bern, 23. Mai 1989
 

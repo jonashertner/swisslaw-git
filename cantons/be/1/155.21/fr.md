@@ -4,13 +4,13 @@ number: "155.21"
 title: Loi sur la procédure et la juridiction administratives
 short: LPJA
 language: fr
-version: 2023-04-01
-valid_until: 2023-07-31
-version_adopted: 2022-09-13
+version: 2023-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-30
 adopted: 1989-05-23
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/155.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2815/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2855/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2815/pdf_file"
 
 (LPJA)
 
-du 23.05.1989 (état au 01.04.2023)
+du 23.05.1989 (état au 01.08.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1626,7 +1626,7 @@ arrête:
 
 **Disposition transitoire de la modification de l’article 104, alinéas 3 et 4**
 
-<sup>1</sup> Les procédures en cours au moment de l'entrée en vigueur de la présente modification sont menées à terme selon l'ancien droit.
+<sup>1</sup> Les procédures de recours en cours au moment de l'entrée en vigueur de la présente modification sont menées à terme selon l'ancien droit.
 
 Berne, le 23 mai 1989
 
