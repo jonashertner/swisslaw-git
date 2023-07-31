@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2023-04-03
+version: 2023-08-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230403/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230403-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230403/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230403/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 3. April 2023)
+vom 16. Januar 2019 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -603,7 +603,7 @@ Anhang 2[^t-2]
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 19. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), Ziff. III der V vom 16. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)) und Anhang Ziff. 1 der Covid-19-Verordnung besondere Lage vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022, Ziff. 16002 bis zum 31. März 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)). Die Berichtigung vom 3. April 2023 betrifft nur den französischen Text ([AS 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 19. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), Ziff. III der V vom 16. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), Anhang Ziff. 1 der Covid-19-Verordnung besondere Lage vom 16. Febr. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) und Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -621,8 +621,8 @@ Anhang 2[^t-2]
 <tr><td>5001. Nichtmitführen der Waffentragbewilligung (Art. 34 Abs. 1 Bst. h WG)</td><td>[tab] 20</td></tr>
 <tr><td>5002. Transportieren von Feuerwaffen, ohne Waffe und Munition zu trennen (Art. 34 Abs. 1 Bst. n WG)</td><td>[tab] 300</td></tr>
 <tr><td>VI. Nationalstrassenabgabegesetz vom 19. März 2010[^annex2-lvlu1-lvlu1-7] (NSAG)</td><td></td></tr>
-<tr><td>6001. Benutzung einer abgabepflichtigen Nationalstrasse ohne die für die Abgabeperiode erforderliche Vignette (Art. 14 Abs. 1 i. V. m. Art. 7 und 8 NSAG)</td><td>[tab] 200</td></tr>
-<tr><td>6002. Benutzung einer abgabepflichtigen Nationalstrasse mit einer für die Abgabeperiode erforderlichen Vignette, die nicht oder nicht an der vorgeschriebenen Stelle direkt am Fahrzeug aufgeklebt oder beschädigt ist (Art. 14 Abs. 1 i. V. m. Art. 7 und 8 NSAG)</td><td>[tab] 200</td></tr>
+<tr><td>6001. Benützung einer Nationalstrasse erster oder zweiter Klasse ohne die für die Abgabeperiode erforderliche Vignette (Art. 14 Abs. 1 i. V. m. Art. 6*a*–7*a* und 8 NSAG).</td><td>200</td></tr>
+<tr><td>6002. Benützung einer Nationalstrasse erster oder zweiten Klasse mit einer für die Abgabeperiode erforderlichen Klebevignette, die nicht oder nicht an der vorgeschriebenen Stelle direkt am Fahrzeug aufgeklebt ist oder die beschädigt ist (Art. 14 Abs. 1 i. V. m. Art. 6*a*, 7 und 8 NSAG).</td><td>200</td></tr>
 <tr><td>VII. Bundesgesetz vom 3. Oktober 1975[^annex2-lvlu1-lvlu1-8] über die Binnenschifffahrt (BSG)</td><td></td></tr>
 <tr><td>**1.** **Administrative Bestimmungen**</td><td>[tab]</td></tr>
 <tr><td>7100. Nichtmitführen der erforderlichen Ausweise oder Urkunden (Art. 45 und 46 BSG, Art. 8 BSV[^annex2-lvlu1-lvlu1-9], Art. 1.06 BSO[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>

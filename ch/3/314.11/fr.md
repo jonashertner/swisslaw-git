@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2023-04-03
+version: 2023-08-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230403/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230403-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230403/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230403/fr"
 
 (OAO)
 
-du 16 janvier 2019 (État le 3 avril 2023)
+du 16 janvier 2019 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -597,7 +597,7 @@ Annexe 2[^t-2]
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)) et du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), le ch. III de l’O du 16 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), l’annexe ch. 1 de l’O COVID-19 situation particulière du 16 fév. 2022, en vigueur depuis le 17 fév. 2022, le ch. 16002 en vigueur jusqu’au 31 mars 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) et l’erratum du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)) et du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), le ch. III de l’O du 16 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), l’annexe ch. 1 de l’O COVID-19 situation particulière du 16 fév. 2022, en vigueur depuis le 17 fév. 2022, le ch. 16002 en vigueur jusqu’au 31 mars 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)), l’erratum du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)) et l’annexe ch. 1 de l’O du 16 juin 2023 sur la vignette autoroutière, en vigueur depuis le 1<sup>er</sup> aout 2023 ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -614,9 +614,9 @@ Annexe 2[^t-2]
 <tr><td>**V.** **Loi fédérale du 20 juin 1997 sur les armes (LArm)**[^annex2-lvlu1-lvlu1-6]</td><td></td></tr>
 <tr><td>5001. Omettre de conserver sur soi le permis de port d’armes (art. 34, al. 1, let. h, LArm)</td><td>20</td></tr>
 <tr><td>5002. Transporter une arme à feu sans avoir séparé l’arme des munitions (art. 34, al. 1, let. n, LArm)</td><td>300</td></tr>
-<tr><td>**VI.** **Loi fédérale du 19 mars 2010 sur la vignette autoroutière (LVA)**[^annex2-lvlu1-lvlu1-7]</td><td></td></tr>
-<tr><td>6001. Emprunter une route nationale soumise à redevance sans avoir acheté la vignette nécessaire pour la période de taxation (art. 14, al. 1, en rel. avec les art. 7 et 8 LVA)</td><td>200</td></tr>
-<tr><td>6002. Emprunter une route nationale soumise à redevance sans avoir collé la vignette nécessaire pour la période de taxation directement sur le véhicule ou à l’emplacement prescrit ou en ayant collé une vignette endommagée (art. 14, al. 1, en rel. avec les art. 7 et 8 LVA)</td><td>200</td></tr>
+<tr><td>**VI.** **Loi** **fédérale** **du 19 mars 2010 sur la vignette autoroutière (LVA)**[^annex2-lvlu1-lvlu1-7]</td><td colspan="2"></td></tr>
+<tr><td>6001. Emprunter une route nationale I ou II sans avoir acheté la vignette nécessaire pour la période de taxation (art. 14, al. 1, en rel. avec les art. 6*a* à 7*a* et 8 LVA)</td><td colspan="2">200</td></tr>
+<tr><td>6002. Emprunter une route nationale I ou II sans avoir collé la vignette nécessaire pour la période de taxation directement sur le véhicule ou à l’emplacement prescrit ou en ayant collé une vignette endommagée (art. 14, al. 1, en rel. avec les art. 6*a*, 7 et 8 LVA)</td><td colspan="2">200</td></tr>
 <tr><td>**VII.** **Loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI)**[^annex2-lvlu1-lvlu1-8]</td><td></td></tr>
 <tr><td>**1.** **Dispositions administratives**</td><td>[tab]</td></tr>
 <tr><td>7100. Ne pas être muni des documents exigés (art. 45 et 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>

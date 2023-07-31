@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2023-04-03
+version: 2023-08-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230403/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230403-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230403/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230403/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 3 aprile 2023) (Stato 3 aprile 2023)
+del 16 gennaio 2019 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -600,26 +600,26 @@ Allegato 2[^t-2]
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 19 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), dal n. III dell’O del 16 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), dall’all. n. 1 dell’O COVID-19 situazione particolare del 16 feb. 2022, in vigore dal 17 feb. 2022, n. 16002 con effetto sino al 31 mar. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) e dalla correzione del 3 apr. 2023, concerne soltanto il testo francese ([RU 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 19 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), dal n. III dell’O del 16 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), dall’all. n. 1 dell’O COVID-19 situazione particolare del 16 feb. 2022, in vigore dal 17 feb. 2022, n. 16002 con effetto sino al 31 mar. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) e dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale, in vigore dal 1° ago. 2023 ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
 <table>
-<tr><th></th><th colspan="2">Fr.</th></tr>
-<tr><td>I. Legge federale del 16 dicembre 2005[^annex2-lvlu1-lvlu1-1] sugli stranieri e la loro integrazione (LStrI)</td><td colspan="2"></td></tr>
-<tr><td>1001. Violazione dell’obbligo di cooperare all’acquisizione di documenti d’identità (art. 120 cpv. 1 lett. e LStrI)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>II. Legge del 26 giugno 1998[^annex2-lvlu1-lvlu1-2] sull’asilo (LAsi)</td><td colspan="2"></td></tr>
-<tr><td>2001. Violazione dell’obbligo di informare rifiutando di fornire un’informazione (art. 116 lett. a LAsi)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td>III. Legge federale del 19 dicembre 1986[^annex2-lvlu1-lvlu1-3] contro la concorrenza sleale (LCSl)</td><td colspan="2"></td></tr>
-<tr><td>3001. Violazione dell’obbligo d’indicare i prezzi o il prezzo unitario (art. 24 cpv. 1 lett. a e cpv. 2 LCSl)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td>IV. Legge federale del 1° luglio 1966[^annex2-lvlu1-lvlu1-4] sulla protezione della natura e del paesaggio (LPN)</td><td colspan="2"></td></tr>
-<tr><td>4001. Raccogliere, dissotterrare, sradicare, trasportare, offrire in vendita, vendere, acquistare o distruggere, senza autorizzazione, non più di cinque esemplari di piante selvatiche delle specie designate nell’allegato 2 OPN[^annex2-lvlu1-lvlu1-5] (art. 24*a* cpv. 1 lett. b LPN, art. 20 cpv. 1 e 5 OPN)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>V. Legge del 20 giugno 1997[^annex2-lvlu1-lvlu1-6] sulle armi (LArm)</td><td colspan="2"></td></tr>
-<tr><td>5001. Omissione di recare con sé il permesso di porto di armi (art. 34 cpv. 1 lett. h LArm)</td><td colspan="2">[tab] 20</td></tr>
-<tr><td>5002. Trasporto di un’arma da fuoco senza tenere separate arma e munizioni (art. 34 cpv. 1 lett. n LArm)</td><td colspan="2">[tab] 300</td></tr>
-<tr><td>VI. Legge del 19 marzo 2010[^annex2-lvlu1-lvlu1-7] sul contrassegno stradale (LUSN)</td><td colspan="2"></td></tr>
-<tr><td>6001. Utilizzo di una strada nazionale assoggettata alla tassa senza il contrassegno necessario per il periodo di tassazione (art. 14 cpv. 1 in combinato disposto con art. 7 e 8 LUSN)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td>6002. Utilizzo di una strada nazionale assoggettata alla tassa con il contrassegno necessario per il periodo di tassazione non incollato direttamente sul veicolo oppure non al posto prescritto o danneggiato (art. 14 cpv. 1 in combinato disposto con art. 7 e 8 LUSN)</td><td colspan="2">[tab] 200</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Fr.</th></tr>
+<tr><td colspan="2">I. Legge federale del 16 dicembre 2005[^annex2-lvlu1-lvlu1-1] sugli stranieri e la loro integrazione (LStrI)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1001. Violazione dell’obbligo di cooperare all’acquisizione di documenti d’identità (art. 120 cpv. 1 lett. e LStrI)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td colspan="2">II. Legge del 26 giugno 1998[^annex2-lvlu1-lvlu1-2] sull’asilo (LAsi)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">2001. Violazione dell’obbligo di informare rifiutando di fornire un’informazione (art. 116 lett. a LAsi)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td colspan="2">III. Legge federale del 19 dicembre 1986[^annex2-lvlu1-lvlu1-3] contro la concorrenza sleale (LCSl)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">3001. Violazione dell’obbligo d’indicare i prezzi o il prezzo unitario (art. 24 cpv. 1 lett. a e cpv. 2 LCSl)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td colspan="2">IV. Legge federale del 1° luglio 1966[^annex2-lvlu1-lvlu1-4] sulla protezione della natura e del paesaggio (LPN)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">4001. Raccogliere, dissotterrare, sradicare, trasportare, offrire in vendita, vendere, acquistare o distruggere, senza autorizzazione, non più di cinque esemplari di piante selvatiche delle specie designate nell’allegato 2 OPN[^annex2-lvlu1-lvlu1-5] (art. 24*a* cpv. 1 lett. b LPN, art. 20 cpv. 1 e 5 OPN)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td colspan="2">V. Legge del 20 giugno 1997[^annex2-lvlu1-lvlu1-6] sulle armi (LArm)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">5001. Omissione di recare con sé il permesso di porto di armi (art. 34 cpv. 1 lett. h LArm)</td><td colspan="2">[tab] 20</td></tr>
+<tr><td colspan="2">5002. Trasporto di un’arma da fuoco senza tenere separate arma e munizioni (art. 34 cpv. 1 lett. n LArm)</td><td colspan="2">[tab] 300</td></tr>
+<tr><td colspan="2">VI. Legge del 19 marzo 2010[^annex2-lvlu1-lvlu1-7] sul contrassegno stradale (LUSN)</td><td colspan="2"></td></tr>
+<tr><td>6001. Utilizzo di una strada nazionale di prima o di seconda classe senza il contrassegno necessario per il periodo di tassazione (art. 14 cpv. 1 in combinato disposto con art. 6*a*–7*a* e 8 LUSN).</td><td colspan="2">200</td></tr>
+<tr><td>6002. Utilizzo di una strada nazionale di prima o di seconda classe con il contrassegno adesivo necessario per il periodo di tassazione non incollato direttamente sul veicolo oppure non al posto prescritto o danneggiato (art. 14 cpv. 1 in combinato disposto con art. 6*a*, 7 e 8 LUSN).</td><td colspan="2">200</td></tr>
 <tr><td>VII. Legge federale del 3 ottobre 1975[^annex2-lvlu1-lvlu1-8] sulla navigazione interna (LNI)</td><td colspan="2"></td></tr>
 <tr><td>**1.** **Disposizioni amministrative**</td><td colspan="2">[tab]</td></tr>
 <tr><td>7100. Omissione di tenere a bordo i documenti necessari (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td colspan="2"></td></tr>
