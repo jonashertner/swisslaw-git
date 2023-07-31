@@ -4,13 +4,13 @@ number: "433.121.1"
 title: Ordonnance de Direction sur les écoles moyennes
 short: ODEM
 language: fr
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-06-22
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-05-09
 adopted: 2017-06-16
 in_force: 2017-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.121.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2632/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2841/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2632/pdf_file"
 
 (ODEM)
 
-du 16.06.2017 (état au 01.08.2022)
+du 16.06.2017 (état au 01.08.2023)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -705,8 +705,8 @@ arrête:
 <sup>4</sup> Les admissions au début du deuxième, troisième ou quatrième semestre ont lieu sans examen pour
 
 - a les titulaires d'un certificat de maturité professionnelle reconnu,
-- b les titulaires d'un certificat d’école de culture générale, si le titre obtenu est reconnu par la CDIP et si l'école de culture générale a émis une recommandation les concernant,
-- c les titulaires d'un autre diplôme délivré par une école moyenne, si leur formation post-obligatoire a duré au moins trois ans, s'ils ont été scolarisés dans l’école concernée pendant cinq années au minimum et si cette école a émis une recommandation les concernant.
+- b les titulaires d'un certificat d’école de culture générale, si le titre obtenu est reconnu par la CDIP,
+- c les titulaires d'un autre diplôme délivré par une école moyenne, si leur formation post-obligatoire a duré au moins trois ans et s'ils ont été scolarisés dans l’école concernée pendant cinq années au minimum.
 
 <sup>5</sup> En cas d'admission en vertu de l'alinéa 4, l'élève détermine le semestre de sa rentrée après un entretien de conseil avec la direction d'école.
 
@@ -1040,7 +1040,7 @@ arrête:
 
 <sup>1</sup> Si des certificats de maturité doivent être émis ultérieurement, la cheffe ou le chef de la Section des écoles moyennes atteste l'exactitude du document nouvellement émis.
 
-## 3 Formation en école de culture générale (ECG)
+## 3 Formation en école de culture générale
 
 ### 3.1 Filières ECG
 
@@ -1067,7 +1067,11 @@ arrête:
 
 <sup>1</sup> L’admission des élèves à une filière ECG sur la base d’une recommandation repose sur l’évaluation
 
-- a des compétences disciplinaires en allemand, en français, en mathématiques et dans la discipline «Natur-Mensch-Gesellschaft»,
+- a des compétences dans les disciplines suivantes:
+  - 1\. allemand,
+  - 2\. français,
+  - 3\. mathématiques,
+  - 4\. Natur-Mensch-Gesellschaft en vue de l'enseignement en biologie, chimie, physique, histoire et géographie.
 - b des compétences méthodologiques et personnelles en allemand et en mathématiques, et
 - c de l’aptitude à fréquenter la filière de formation et à travailler dans les domaines professionnels concernés.
 
@@ -1416,7 +1420,7 @@ arrête:
 
 #### Art. 98a
 
-<sup>1</sup> Les filières de maturité spécialisée orientation Santé et orientation Travail social comprennent des séquences en introduction et en accompagnement de l’enseignement, un stage dans le domaine professionnel correspondant, un travail écrit de maturité spécialisée et des examens de maturité spécialisée.
+<sup>1</sup> Les filières de maturité spécialisée orientation Santé et orientation Travail social comprennent des séquences en introduction et en accompagnement de l’enseignement, un stage dans le domaine professionnel correspondant et des examens de maturité spécialisée.
 
 <sup>2</sup> La filière de maturité spécialisée orientation Pédagogie comprend un stage, un travail de maturité spécialisée, une formation en école d’un semestre et des examens de maturité spécialisée.
 
@@ -1495,7 +1499,9 @@ arrête:
 
 <sup>1</sup> Dans le domaine professionnel Pédagogie, le stage dure au moins six semaines.
 
-<sup>2</sup> Si le stage est effectué dans un établissement public de la scolarité obligatoire du canton de Berne, il est considéré comme autorisé. Il peut également, pour de juste motifs, être autorisé dans une école privée ou une école située dans un autre canton.
+<sup>2</sup> Il doit être effectué dans un établissement public de la scolarité obligatoire du canton. Il peut également, pour de juste motifs, être effectué dans une école privée ou une école située dans un autre canton.
+
+<sup>2a</sup> Avant qu'il ne commence, il doit être approuvé par la direction de l'école de culture générale où la formation de maturité spécialisée est effectuée.
 
 <sup>3</sup> La direction de l’école de culture générale dans laquelle la filière de maturité spécialisée est suivie confirme, à l’issue du stage, que celui-ci a été effectué conformément au contrat de stage.
 
@@ -1509,7 +1515,7 @@ arrête:
 
 <sup>1</sup> Dans la filière de maturité spécialisée orientation Pédagogie, le travail écrit de maturité spécialisée et sa soutenance orale font chacun l’objet d’une note.
 
-<sup>2</sup> Dans les filières de maturité spécialisée orientation Santé et orientation Travail social, le travail écrit de maturité spécialisée et les prestations fournies durant le stage sont évalués.
+<sup>2</sup> Dans les filières de maturité spécialisée orientation Santé et orientation Travail social, les prestations fournies durant le stage sont évaluées.
 
 #### Art. 102
 
@@ -1519,15 +1525,15 @@ arrête:
 
 <sup>2</sup> Dans les filières de maturité spécialisée orientation Santé et orientation Travail social, l’évaluation du stage porte sur l’aptitude à s’occuper des personnes qui nécessitent une prise en charge ou des soins, à prendre ses distances, à s’intégrer dans l’entreprise et à en comprendre les mécanismes.
 
-<sup>3</sup> En dérogation à l’article 2, les prestations fournies durant le stage sont sanctionnées par une note entière sur la base du barème appliqué par l’entreprise de stage.
+<sup>3</sup> En dérogation à l’article 2, les prestations fournies durant le stage sont sanctionnées par la mention «suffisant» ou «insuffisant».
 
 <sup>4</sup> L’école de culture générale notifie la note de stage attribuée par l’entreprise de stage par voie de décision.
 
 #### Art. 103
 
-**Evaluation du travail écrit de maturité spécialisée - Généralités**
+**Travail écrit de maturité spécialisée dans la filière de maturité spécialisée orientation Pédagogie - Généralités**
 
-<sup>1</sup> Le travail écrit de maturité spécialisée comprend la définition d’une problématique pratique, la formulation d’une question directrice pertinente et d’un objectif, la présentation de la solution du problème et l’analyse des résultats à l’appui d’une conclusion. Il respecte les critères de la rédaction scientifique.
+<sup>1</sup> Le travail écrit de maturité spécialisée dans la filière de maturité spécialisée orientation Pédagogie comprend la définition d’une problématique pratique, la formulation d’une question directrice pertinente et d’un objectif, la présentation de la solution du problème et l’analyse des résultats à l’appui d’une conclusion. Il respecte les critères de la rédaction scientifique.
 
 <sup>2</sup> Le non-respect des délais ou des prescriptions formelles est pris en compte dans l’évaluation de la démarche suivie. En cas de récidive, la direction de l’ECG peut ordonner l’exclusion de la filière de maturité spécialisée.
 
@@ -1549,15 +1555,7 @@ arrête:
 
 #### Art. 105
 
-**Evaluation du travail de maturité spécialisée dans les filières de maturité spécialisée orientation Santé et orientation Travail social**
-
-<sup>1</sup> Dans les filières de maturité spécialisée orientation Santé et orientation Travail social, peut remettre le travail écrit de maturité spécialisée quiconque a accompli un stage considéré au moins comme suffisant dans le domaine considéré.
-
-<sup>2</sup> L’évaluation du travail écrit de maturité spécialisée est effectuée par l’enseignant ou l’enseignante qui encadre le travail au sein de l’école de culture générale et par un expert ou une experte du domaine considéré.
-
-<sup>3</sup> La direction d’école notifie l’évaluation du travail écrit de maturité spécialisée par voie de décision.
-
-<sup>4</sup> Dans les écoles moyennes privées délivrant un certificat de maturité spécialisée reconnu, la direction d'école arrête l’évaluation du travail écrit de maturité spécialisée par voie de décision.
+**…**
 
 ### 3.2.4 Examens de maturité spécialisée
 
@@ -1567,7 +1565,9 @@ arrête:
 
 <sup>1</sup> Les candidats et les candidates s’inscrivent eux-mêmes aux examens de maturité spécialisée orientation Pédagogie au plus tard fin février.
 
-<sup>2</sup> L’inscription aux examens de maturité spécialisée orientation Santé et orientation Travail social se fait automatiquement avec la notification de la note attribuée au travail écrit de maturité spécialisée.
+<sup>2</sup> L’inscription aux examens de maturité spécialisée orientation Santé et orientation Travail social se fait automatiquement avec la notification de l'évaluation suffisante du stage.
+
+<sup>3</sup> L’inscription peut être retirée jusqu’à 30 jours avant le début des examens de maturité spécialisée.
 
 #### Art. 107
 
@@ -1576,7 +1576,7 @@ arrête:
 <sup>1</sup> Le candidat ou la candidate à la maturité spécialisée orientation Santé ou orientation Travail social est admise à passer les examens de maturité spécialisée
 
 - a s’il ou si elle a suivi les séquences d’enseignement en introduction ou en accompagnement;
-- b s’il ou si elle a obtenu une évaluation suffisante pour son stage et son travail écrit de maturité et
+- b s’il ou si elle a obtenu une évaluation suffisante pour son stage et
 - c si la taxe d’examen a été acquittée.
 
 <sup>2</sup> Le candidat ou la candidate est admise à passer les examens de maturité spécialisée orientation Pédagogie à condition
@@ -1610,17 +1610,24 @@ arrête:
 
 #### Art. 110
 
-**Examens de maturité spécialisée orientation Santé ou orientation Travail social**
+**Examens de maturité spécialisée orientation Santé et orientation Travail social**
 
-<sup>1</sup> Les examens de maturité spécialisée orientation Santé ou orientation Travail social se composent d’une présentation orale du travail écrit de maturité spécialisée et d’un entretien consécutif.
+<sup>1</sup> Les examens de maturité spécialisée orientation Santé et orientation Travail social se composent
+
+- a d'un travail écrit de maturité spécialisée et
+- b de la présentation orale de ce travail, suivie d'un entretien.
+
+<sup>1a</sup> L'article 103, alinéas 1 et 2 s'applique par analogie au travail écrit de maturité spécialisée.
 
 <sup>2</sup> La présentation orale et l'entretien durent au total 30 minutes.
 
-<sup>2a</sup> Les examens de maturité spécialisée sont conduits conjointement par un enseignant ou une enseignante et par un expert ou une experte.
+<sup>2a</sup> Les examens de maturité spécialisée sont évalués conjointement par un enseignant ou une enseignante et par un expert ou une experte.
 
-<sup>3</sup> L’évaluation porte en particulier sur la clarté de la présentation et sur la capacité à raisonner et à analyser les problématiques ainsi que sur la force de l’argumentation lors de l’entretien.
+<sup>3</sup> Concernant la présentation et l'entretien consécutif, l’évaluation porte en particulier sur la clarté de la présentation, sur la capacité à raisonner et à analyser les problématiques ainsi que sur la force de l’argumentation lors de l’entretien.
 
-<sup>4</sup> Si les examens de maturité spécialisée sont jugés insuffisants, ils peuvent être répétés une fois dans les quatre semaines suivant l’évaluation. La note attribuée ne peut pas être supérieure à 4.
+<sup>3a</sup> La note générale des examens de maturité spécialisée se calcule sur la base de l’évaluation du travail écrit de maturité spécialisée, de la présentation orale de celui-ci et de l'entretien consécutif, la partie écrite valant deux tiers de la note et la partie orale un tiers. Elle figure dans le bulletin de notes de la maturité spécialisée comme note du travail de maturité spécialisée.
+
+<sup>4</sup> Si les examens de maturité spécialisée sont jugés insuffisants, le travail écrit de maturité spécialisée peut être amélioré une fois dans les quatre semaines suivant l’évaluation, puis présenté oralement et défendu lors de l'entretien consécutif. La note générale attribuée pour les examens de maturité spécialisée retravaillés ne peut pas être supérieure à 4.
 
 #### Art. 111
 
@@ -1642,7 +1649,7 @@ arrête:
 
 <sup>1</sup> L’école de culture générale délivre les certificats de maturité spécialisée conformément à l’article 26 du Règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique du 25 octobre 2018 sur la reconnaissance des certificats des écoles de culture générale.
 
-<sup>2</sup> Pour les maturités spécialisées orientation Santé et orientation Travail social, la note générale du travail de maturité spécialisée se calcule sur la base de l’évaluation du travail écrit de maturité spécialisée et de l’examen oral, la partie écrite valant deux tiers de la note et la partie orale un tiers.
+<sup>2</sup> …
 
 <sup>3</sup> Le certificat de maturité spécialisée comporte une mention spéciale pour les élèves qui bénéficient d’une réglementation spéciale au sens de l’article 11, alinéa 1, lettre a.
 
@@ -1713,7 +1720,7 @@ arrête:
 
 **Certificats émis ultérieurement**
 
-<sup>1</sup> Si des certificats de maturité spécialisée sont émis ultérieurement, ils sont signés par la cheffe ou le chef de la Section des écoles moyennes.
+<sup>1</sup> Si des certificats de l’examen complémentaire sont émis ultérieurement, ils sont signés par la cheffe ou le chef de la Section des écoles moyennes.
 
 ### 4.2 Cours préparant à l’admission à des formations de hautes écoles spécifiques
 
@@ -2061,6 +2068,12 @@ arrête:
 <sup>5</sup> L’article 99, alinéa 1c est applicable pour la première fois aux admissions pour l’année scolaire 2024-2025. Les autres dispositions relatives au passage de la filière ECG à la filière de maturité spécialisée sont applicables pour la première fois aux admissions pour l’année scolaire 2024-2025.
 
 <sup>6</sup> Les élèves qui échouent aux examens de maturité spécialisée à la fin de l’année scolaire 2023-2024 peuvent, directement après leur échec, répéter une fois la filière de maturité spécialisée selon les nouvelles dispositions.
+
+## T3 Dispositions transitoires de la modification du 09.05.2023
+
+#### Art. T3-1
+
+<sup>1</sup> La modification des articles 98a, 100a à 103, 106, 107 et 110 ainsi que l'abrogation des articles 105 et 112, alinéa 2 sont applicables à partir du 1<sup>er</sup> août 2024.
 
 ## A1 Annexe 1: Remarques dans le bulletin (art. 15 et 18)
 

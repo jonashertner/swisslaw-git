@@ -4,13 +4,13 @@ number: "433.121.1"
 title: Mittelschuldirektionsverordnung
 short: MiSDV
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-06-22
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-05-09
 adopted: 2017-06-16
 in_force: 2017-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/433.121.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2632/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2841/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2632/pdf_file"
 
 (MiSDV)
 
-vom 16.06.2017 (Stand 01.08.2022)
+vom 16.06.2017 (Stand 01.08.2023)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -338,7 +338,7 @@ beschliesst:
 - c gegebenenfalls im gymnasialen Bildungsgang beim Fach Sport der Hinweis «dispensiert», falls eine Dispensation aus medizinischen Gründen notwendig ist oder falls im Rahmen der Förderung besonders Begabter eine Dispensation vom Fach gesprochen wurde,
 - d die Zeugnisnoten oder die Bestätigung des Besuchs für weiteren obligatorischen Unterricht und Fakultativfächer, allenfalls mit der Bemerkung «auf Anspruchsniveau des Promotionsfachs»,
 - e die Bemerkung, „Zeugnis genügend“ bzw. „Zeugnis ungenügend“ in Abhängigkeit von der Beurteilung der Gesamtleistung sowie den Promotionsentscheid gemäss Artikel 18,
-- f die Anzahl der entschuldigten und unentschuldigten Absenzen gemäss Artikel 130 und 131, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind,
+- f die Anzahl der entschuldigten und unentschuldigten Absenzen gemäss Artikel 130 und 131, ausser bei Bildungsgängen, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind,
 - g eine Rechtsmittelbelehrung und
 - h die Unterschriften der Schulleitung als verfügender Behörde und der Klassenlehrkraft.
 
@@ -705,8 +705,8 @@ beschliesst:
 <sup>4</sup> Auf den Beginn des zweiten, dritten oder vierten Semesters werden prüfungsfrei aufgenommen:
 
 - a Inhaberinnen und Inhaber von anerkannten Berufsmaturitätsausweisen,
-- b Inhaberinnen und Inhaber von Fachmittelschulausweisen, sofern der Abschluss von der EDK anerkannt ist und eine entsprechende Empfehlung der Fachmittelschule vorliegt,
-- c Inhaberinnen und Inhaber von andern Mittelschulabschlüssen, wenn der Bildungsgang nachobligatorisch mindestens drei Jahre umfasst und während mindestens fünf Jahren an der betreffenden Schule besucht worden ist sowie eine entsprechende Empfehlung der Schule vorliegt.
+- b Inhaberinnen und Inhaber von Fachmittelschulausweisen, sofern der Abschluss von der EDK anerkannt ist,
+- c Inhaberinnen und Inhaber von andern Mittelschulabschlüssen, wenn der Bildungsgang nachobligatorisch mindestens drei Jahre umfasst und während mindestens fünf Jahren an der betreffenden Schule besucht worden ist.
 
 <sup>5</sup> Bei Aufnahmen gemäss Absatz 4 bestimmt die oder der Eintretende nach einem Beratungsgespräch mit der Schulleitung das Eintrittssemester.
 
@@ -1067,7 +1067,11 @@ beschliesst:
 
 <sup>1</sup> Die Aufnahme aufgrund einer Empfehlung für den Besuch eines FMS-Bildungsgangs erfolgt gestützt auf die Beurteilung
 
-- a der fachlichen Kompetenzen in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Gesellschaft,
+- a der fachlichen Kompetenzen in folgenden Fächern:
+  - 1\. Deutsch,
+  - 2\. Französisch,
+  - 3\. Mathematik,
+  - 4\. Natur-Mensch-Gesellschaft im Hinblick auf den Unterricht in Biologie, Chemie, Physik, Geschichte und Geographie,
 - b der methodischen und personalen Kompetenzen in den Fächern Deutsch und Mathematik und
 - c der Eignung für den Bildungsgang und die Berufsfelder.
 
@@ -1416,7 +1420,7 @@ beschliesst:
 
 #### Art. 98a
 
-<sup>1</sup> Die Fachmaturitätsbildungsgänge Gesundheit und Soziale Arbeit setzen sich zusammen aus einführenden und begleitenden Unterrichtseinheiten, dem Praktikum im Berufsfeld, der schriftlichen Fachmaturitätsarbeit und den Fachmaturitätsprüfungen.
+<sup>1</sup> Die Fachmaturitätsbildungsgänge Gesundheit und Soziale Arbeit setzen sich zusammen aus einführenden und begleitenden Unterrichtseinheiten, dem Praktikum im Berufsfeld und den Fachmaturitätsprüfungen.
 
 <sup>2</sup> Der Fachmaturitätsbildungsgang Pädagogik setzt sich zusammen aus dem Praktikum, der Fachmaturitätsarbeit, dem schulischen Teil von einem Semester und den Fachmaturitätsprüfungen.
 
@@ -1495,7 +1499,9 @@ beschliesst:
 
 <sup>1</sup> Das Praktikum im Berufsfeld Pädagogik dauert mindestens sechs Wochen.
 
-<sup>2</sup> Erfolgt das Praktikum an einer öffentlichen Volksschule des Kantons, gilt es als genehmigt. Aus wichtigen Gründen kann das Praktikum auch an privaten oder ausserkantonalen Schulen genehmigt werden.
+<sup>2</sup> Es muss an einer öffentlichen Volksschule des Kantons absolviert werden. Aus wichtigen Gründen kann es auch an privaten oder ausserkantonalen Schulen absolviert werden.
+
+<sup>2a</sup> Es muss vor Beginn von der Schulleitung der Fachmittelschule, an welcher der Fachmaturitätsbildungsgang absolviert wird, genehmigt werden.
 
 <sup>3</sup> Die Schulleitung der Fachmittelschule, an welcher der Fachmaturitätsbildungsgang absolviert wird, bestätigt nach Abschluss des Praktikums, dass es gemäss Praktikumsvertrag absolviert wurde.
 
@@ -1509,7 +1515,7 @@ beschliesst:
 
 <sup>1</sup> Im Fachmaturitätsbildungsgang Pädagogik werden die schriftliche Fachmaturitätsarbeit sowie deren Präsentation bewertet.
 
-<sup>2</sup> Im Fachmaturitätsbildungsgang Gesundheit oder Soziale Arbeit werden die schriftliche Fachmaturitätsarbeit und die Leistungen im Praktikum bewertet.
+<sup>2</sup> Im Fachmaturitätsbildungsgang Gesundheit oder Soziale Arbeit wird die Leistung im Praktikum bewertet.
 
 #### Art. 102
 
@@ -1519,15 +1525,15 @@ beschliesst:
 
 <sup>2</sup> Die Bewertung des Praktikums für die Berufsfelder Gesundheit und Soziale Arbeit bezieht sich auf die Fähigkeit, auf die zu betreuenden bzw. zu pflegenden Personen eingehen, sich abgrenzen, sich in den Betrieb einfügen und Zusammenhänge verstehen zu können.
 
-<sup>3</sup> Die Leistungen im Praktikum werden in Abweichung zu Artikel 2 mit ganzzahligen Noten aufgrund der Skala des Praktikumsbetriebs bewertet.
+<sup>3</sup> Die Leistung im Praktikum wird in Abweichung zu Artikel 2 mit dem Prädikat genügend oder ungenügend bewertet.
 
 <sup>4</sup> Die Bewertung des Praktikumsanbieters wird durch die Fachmittelschule durch Verfügung eröffnet.
 
 #### Art. 103
 
-**Bewertung der schriftlichen Fachmaturitätsarbeit - Allgemeines**
+**Schriftliche Fachmaturitätsarbeit im Fachmaturitätsbildungsgang Pädagogik - Allgemeines**
 
-<sup>1</sup> Die schriftliche Fachmaturitätsarbeit umfasst die Definition einer praxisrelevanten Problemstellung, die Formulierung einer geeigneten Leitfrage und eines Ziels, die Darstellung der Problemlösung und die Überprüfung der Resultate mit einer Schlussfolgerung. Sie orientiert sich an den Kriterien wissenschaftlichen Schreibens.
+<sup>1</sup> Die schriftliche Fachmaturitätsarbeit im Fachmaturitätsbildungsgang Pädagogik umfasst die Definition einer praxisrelevanten Problemstellung, die Formulierung einer geeigneten Leitfrage und eines Ziels, die Darstellung der Problemlösung und die Überprüfung der Resultate mit einer Schlussfolgerung. Sie orientiert sich an den Kriterien wissenschaftlichen Schreibens.
 
 <sup>2</sup> Das Nichteinhalten von Terminen oder formalen Vorgaben wird bei der Beurteilung des Teilbereichs Arbeitsprozess berücksichtigt. Im Wiederholungsfall kann die FMS-Leitung den Ausschluss aus dem Fachmaturitätsbildungsgang verfügen.
 
@@ -1549,15 +1555,7 @@ beschliesst:
 
 #### Art. 105
 
-**Bewertung der schriftlichen Fachmaturitätsarbeit für die Berufsfelder Gesundheit oder Soziale Arbeit**
-
-<sup>1</sup> Die schriftliche Fachmaturitätsarbeit für die Berufsfelder Gesundheit oder Soziale Arbeit einreichen kann, wer ein mindestens als genügend bewertetes Praktikum im Berufsfeld absolviert hat.
-
-<sup>2</sup> Die Bewertung der schriftlichen Fachmaturitätsarbeit erfolgt durch die betreuende Lehrkraft der Fachmittelschule und eine Expertin oder einen Experten aus dem betreffenden Berufsfeld.
-
-<sup>3</sup> Die Schulleitung eröffnet die Bewertung der schriftlichen Fachmaturitätsarbeit durch Verfügung.
-
-<sup>4</sup> An Mittelschulen privater Anbieter mit anerkanntem Fachmaturitätsabschluss legt die Schulleitung die Bewertung der schriftlichen Fachmaturitätsarbeit durch Verfügung fest.
+**…**
 
 ### 3.2.4 Fachmaturitätsprüfungen
 
@@ -1567,7 +1565,9 @@ beschliesst:
 
 <sup>1</sup> Zu den Fachmaturitätsprüfungen Pädagogik melden sich die Kandidatinnen und Kandidaten selber bis spätestens Ende Februar an.
 
-<sup>2</sup> Die Anmeldung zu den Fachmaturitätsprüfungen Gesundheit oder Soziale Arbeit erfolgt automatisch mit der Verfügung der Note für die schriftliche Fachmaturitätsarbeit.
+<sup>2</sup> Die Anmeldung zu den Fachmaturitätsprüfungen Gesundheit oder Soziale Arbeit erfolgt automatisch mit der Verfügung über die genügende Bewertung des Praktikums.
+
+<sup>3</sup> Eine Abmeldung ist bis 30 Tage vor Beginn der Fachmaturitätsprüfungen möglich.
 
 #### Art. 107
 
@@ -1576,7 +1576,7 @@ beschliesst:
 <sup>1</sup> Die Kandidatin oder der Kandidat für eine Fachmaturität Gesundheit oder Soziale Arbeit wird zu den Fachmaturitätsprüfungen zugelassen, wenn
 
 - a die einführenden oder begleitenden Unterrichtseinheiten besucht wurden,
-- b das Praktikum und die schriftliche Fachmaturitätsarbeit mindestens als genügend bewertet wurden und
+- b das Praktikum als genügend bewertet wurde und
 - c die Prüfungsgebühr entrichtet wurde.
 
 <sup>2</sup> Die Kandidatin oder der Kandidat wird zu den Fachmaturitätsprüfungen für die Fachmaturität Pädagogik zugelassen, wenn
@@ -1612,15 +1612,22 @@ beschliesst:
 
 **Fachmaturitätsprüfungen für die Fachmaturität Gesundheit oder Soziale Arbeit**
 
-<sup>1</sup> Die Fachmaturitätsprüfungen für die Fachmaturität Gesundheit oder Soziale Arbeit bestehen aus einer mündlichen Präsentation der schriftlichen Fachmaturitätsarbeit und einem Prüfungsgespräch.
+<sup>1</sup> Die Fachmaturitätsprüfungen für die Fachmaturität Gesundheit oder Soziale Arbeit bestehen aus
+
+- a einer schriftlichen Fachmaturitätsarbeit und
+- b deren mündlichen Präsentation mit Prüfungsgespräch.
+
+<sup>1a</sup> Für die schriftliche Fachmaturitätsarbeit gilt Artikel 103 Absätze 1 und 2 sinngemäss.
 
 <sup>2</sup> Die mündliche Präsentation und das Prüfungsgespräch dauern zusammen 30 Minuten.
 
-<sup>2a</sup> Die Fachmaturitätsprüfungen werden von einer Lehrkraft und einer Expertin oder einem Experten gemeinsam abgenommen.
+<sup>2a</sup> Die Fachmaturitätsprüfungen werden von einer Lehrkraft und einer Expertin oder einem Experten gemeinsam bewertet.
 
-<sup>3</sup> Bewertet werden insbesondere die Klarheit der Präsentation und die Darstellung der Zusammenhänge und Problemfelder sowie die überzeugende Argumentation im Prüfungsgespräch.
+<sup>3</sup> Bei der Präsentation und dem Prüfungsgespräch werden insbesondere die Klarheit der Präsentation, die Darstellung der Zusammenhänge und Problemfelder sowie die überzeugende Argumentation im Prüfungsgespräch bewertet.
 
-<sup>4</sup> Werden die Fachmaturitätsprüfungen als ungenügend bewertet, können sie innert vier Wochen einmal wiederholt und höchstens mit der Note 4 bewertet werden.
+<sup>3a</sup> Die Gesamtnote der Fachmaturitätsprüfungen berechnet sich aus der Bewertung der schriftlichen Fachmaturitätsarbeit und deren mündlichen Präsentation mit Prüfungsgespräch, wobei der schriftliche Teil zu zwei Dritteln, der mündliche Teil zu einem Drittel gewichtet wird. Sie wird im Fachmaturitätszeugnis als Note der Fachmaturitätsarbeit ausgewiesen.
+
+<sup>4</sup> Werden die Fachmaturitätsprüfungen als ungenügend bewertet, kann die schriftliche Fachmaturitätsarbeit innert vier Wochen einmal nachgebessert, im Anschluss präsentiert und im Prüfungsgespräch verteidigt werden. Die nachgebesserten Fachmaturitätsprüfungen können höchstens mit der Gesamtnote 4 bewertet werden.
 
 #### Art. 111
 
@@ -1642,7 +1649,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachmittelschule stellt das Fachmaturitätszeugnis gemäss Artikel 26 des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 25. Oktober 2018 über die Anerkennung der Abschlüsse von Fachmittelschulen aus.
 
-<sup>2</sup> Die Gesamtnote der Fachmaturitätsarbeit berechnet sich für die Fachmaturität Gesundheit oder Soziale Arbeit aus der Bewertung der schriftlichen Fachmaturitätsarbeit und der mündlichen Prüfung, wobei der schriftliche Teil zu zwei Dritteln, der mündliche Teil zu einem Drittel gewichtet wird.
+<sup>2</sup> …
 
 <sup>3</sup> Das Fachmaturitätszeugnis enthält bei Schülerinnen und Schülern mit einer Sonderregelung gemäss Artikel 11 Absatz 1 Buchstabe a eine entsprechende Bemerkung.
 
@@ -1713,7 +1720,7 @@ beschliesst:
 
 **Nachträglich erneut ausgestellte Ausweise**
 
-<sup>1</sup> Werden Fachmaturitätszeugnisse nachträglich erneut ausgestellt, erfolgt dies mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Mittelschulen.
+<sup>1</sup> Werden Ausweise über die Ergänzungsprüfung nachträglich erneut ausgestellt, erfolgt dies mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Mittelschulen.
 
 ### 4.2 Vorbereitungskurse auf den Eintritt in bestimmte Hochschulstudiengänge
 
@@ -2061,6 +2068,12 @@ beschliesst:
 <sup>5</sup> Artikel 99 Absatz 1c ist erstmals für den Übertritt in das Schuljahr 2023/2024 anwendbar. Die übrigen Bestimmungen für den Übertritt vom Fachmittelschulbildungsgang in den Fachmaturitätsbildungsgang gelten erstmals für den Übertritt in das Schuljahr 2024/2025.
 
 <sup>6</sup> Schülerinnen und Schüler, welche die Fachmaturitätsprüfungen Ende Schuljahr 2023/2024 nicht bestehen, können den Fachmaturitätsbildungsgang direkt anschliessend unter Anwendung der neuen Bestimmungen einmal wiederholen.
+
+## T3 Übergangsbestimmungen der Änderung vom 09.05.2023
+
+#### Art. T3-1
+
+<sup>1</sup> Die Änderung von Artikel 98a, 100a bis 103, 106 und 107 und 110 sowie die Aufhebung von Artikel 105 und 112 Absatz 2 sind ab 1. August 2024 anwendbar.
 
 ## A1 Anhang 1: Zeugnisbemerkungen (Artikel 15 und Artikel 18)
 
