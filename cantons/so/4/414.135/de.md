@@ -3,20 +3,20 @@ canton: SO
 number: "414.135"
 title: Aufnahmereglement für die Fachmittelschule
 language: de
-version: 2015-08-01
-valid_until: 2023-07-31
-version_adopted: 2015-03-31
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-06-28
 adopted: 2012-09-07
 in_force: 2013-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.135"
-pdf: "https://bgs.so.ch/api/de/versions/4384/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5374/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Aufnahmereglement für die Fachmittelschule
 
-Vom 07.09.2012 (Stand 01.08.2015)
+Vom 07.09.2012 (Stand 01.08.2023)
 
 Das Departement für Bildung und Kultur
 
@@ -194,6 +194,16 @@ beschliesst:
 <sup>1</sup> Während des Schuljahres werden Schüler und Schülerinnen nur aufgenommen, wenn besondere Gründe vorliegen.
 
 <sup>2</sup> Die Abteilungsleitung legt die individuellen Bedingungen fest und entscheidet über die Aufnahme.
+
+#### § 19bis
+
+**Wechsel des Berufsfeldes**
+
+<sup>1</sup> Die Abteilungsleitung kann auf Ende des dritten Semesters auf schriftliches Gesuch hin einen Wechsel des Berufsfeldes bewilligen, sofern in den entsprechenden Kursen freie Plätze vorhanden sind.
+
+<sup>2</sup> Sie bewilligt einen späteren Wechsel des Berufsfeldes nur in Ausnahmefällen.
+
+<sup>3</sup> Die Gesuchstellenden verpflichten sich, die für die weitere Ausbildung vorausgesetzten, fehlenden Kompetenzen in jedem Fall zu kompensieren beziehungsweise zu erwerben.
 
 #### § 20
 
