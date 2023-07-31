@@ -4,13 +4,13 @@ number: "52"
 title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PVO"
 language: de
-version: 2023-01-01
-valid_until: 2023-07-31
-version_adopted: 2022-12-13
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52"
-pdf: "https://srl.lu.ch/api/de/versions/4022/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4096/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4022/pdf_file"
 
 (Personalverordnung, PVO)
 
-vom 24.09.2002 (Stand 01.01.2023)
+vom 24.09.2002 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
