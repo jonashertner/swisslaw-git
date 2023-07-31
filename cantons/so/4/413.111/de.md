@@ -4,13 +4,12 @@ number: "413.111"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2019-09-01
-valid_until: 2023-07-31
-version_adopted: 2018-12-19
+version: 2023-08-01
+version_adopted: 2022-01-26
 adopted: 2022-01-26
 in_force: 2023-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/413.111"
-pdf: "https://bgs.so.ch/api/de/versions/5180/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,596 +18,391 @@ pdf: "https://bgs.so.ch/api/de/versions/5180/pdf_file"
 
 (VSG)
 
-Vom 14.09.1969 (Stand 01.09.2019)
+Vom 26.01.2022 (Stand 01.08.2023)
 
 Der Kantonsrat von Solothurn
 
-gestützt auf Artikel 47 der Kantonsverfassung vom 23. Oktober 1887
+gestützt auf die Artikel 104, 105, 107, 108, 109 und 113 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-1]
 
-nach Kenntnisnahme von Bericht und Antrag des Regierungsrates vom 7. Juni 1968
+nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 4. Mai 2021 (RRB Nr. 2021/627)
 
 beschliesst:
 
-## 1. Allgemeine Bestimmungen
+[^ingress-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
+
+## 1. Grundlagen
 
 #### § 1
 
-**Ziele der Volksschule**
+**Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Die solothurnische Volksschule unterstützt die Familie in der Erziehung der Kinder zu Menschen, die sich vor Gott und gegenüber dem Nächsten verantwortlich wissen und danach handeln. Sie entfaltet die seelischen, geistigen und körperlichen Kräfte in harmonischer Weise, erzieht zu selbständigem Denken und Arbeiten und vermittelt die grundlegenden Kenntnisse zur Bewährung im Leben.
+<sup>1</sup> Dieses Gesetz regelt die Bildung und Erziehung auf Volksschulstufe.
 
-<sup>2</sup> Die Volksschule respektiert die Glaubens- und Gewissensfreiheit. Sie führt die Kinder von unterschiedlicher Herkunft zur Gemeinschaft, fördert die Erziehung zur Mitverantwortung in unserem demokratischen Staatswesen und weckt die Achtung vor der heimatlichen Eigenart.
+<sup>2</sup> Dieses Gesetz gilt für die öffentlichen Schulen, und wo aufgeführt, für die Privatschulen und den Privatunterricht, in denen oder in dem die Schulpflicht erfüllt wird.
 
 #### § 2
 
-**Recht auf Bildung und Erziehung**
+**Bildungsziele**
 
-<sup>1</sup> Jedes Kind hat im Rahmen dieses Gesetzes Anrecht auf einen seinen Fähigkeiten entsprechenden Unterricht.
+<sup>1</sup> Die solothurnische Volksschule unterstützt die Familie in der Erziehung der Kinder zu Menschen, die sich vor Gott und gegenüber dem Nächsten verantwortlich wissen und nach dieser Verantwortung handeln. Sie entfaltet die seelischen, geistigen und körperlichen Kräfte in harmonischer Weise, erzieht zu selbständigem Denken und Arbeiten und vermittelt die grundlegenden Kenntnisse zur Bewährung im Leben.
+
+<sup>2</sup> Die Volksschule
+
+- a) trägt durch die Förderung der Sach-, Selbst- und Sozialkompetenz zur ganzheitlichen Entwicklung der Schüler und Schülerinnen bei und fordert von ihnen Leistungsbereitschaft;
+- b) fördert die Selbständigkeit im Denken, Werten und Handeln und trägt zur Gemeinschaftsbildung bei;
+- c) fördert Verantwortungswillen, Leistungsbereitschaft, Urteils- und Kritikvermögen sowie Dialogfähigkeit;
+- d) erfüllt ihren Bildungsauftrag in Zusammenarbeit mit den Eltern und Erziehungsberechtigten und unterstützt diese in ihrem Erziehungsauftrag;
+- e) berücksichtigt individuelle Begabungen und Neigungen;
+- f) vermittelt jene Kenntnisse und Fertigkeiten, welche die Grundlage für die berufliche Ausbildung, für den Besuch weiterführender Schulen und für das lebenslange Lernen darstellen.
 
 #### § 3
 
-**Schulangebote**
+**Unentgeltlichkeit**
 
-<sup>1</sup> Die solothurnische Volksschule umfasst:
+<sup>1</sup> An den öffentlichen Schulen ist der obligatorische Unterricht unentgeltlich.
 
-- a) die Regelschule;
-- b) die kantonalen Spezialangebote.
+<sup>2</sup> An den öffentlichen Schulen ist die Verwendung von Lernmedien und Schulmaterial sowie die Nutzung von Apparaten unentgeltlich.
 
-#### § 3bis
+<sup>3</sup> Von den Eltern bzw. Erziehungsberechtigten können Beiträge erhoben werden:
 
-**Regelschule**
-
-<sup>1</sup> Die Regelschule umfasst:
-
-- a) den Kindergarten und die Primarschule;
-- b) die Sekundarschule;
-- c) die Spezielle Förderung.
-
-#### § 3ter
-
-**Kantonale Spezialangebote (SpezA)**
-
-<sup>1</sup> Die kantonalen Spezialangebote (SpezA) umfassen:
-
-- a) die zeitlich befristeten Spezialangebote;
-- a<sup>bis</sup>) die sonderschulischen Angebote;
-- b) die pädagogisch-therapeutischen Angebote.
+- a) an die Kosten der Verpflegung in den öffentlichen Schulen, auf mehrtägigen Schulreisen und in Klassenlagern;
+- b) an die Aufwendungen, die über den obligatorischen Teil hinausgehen.
 
 #### § 4
 
-**Einführung neuer Schularten**
+**Bearbeitung von Daten für die Bildungsstatistik**
 
-<sup>1</sup> Der Kantonsrat ist befugt, bei veränderten Verhältnissen neue Schularten einzuführen oder zur Angleichung an das Schulwesen der andern Kantone bestehende Schularten neu zu benennen.
+<sup>1</sup> Der Kanton führt zur Steuerung und Entwicklung des Bildungswesens eine Bildungsstatistik.
 
-#### § 4bis
+<sup>2</sup> Der Regierungsrat bestimmt die zu erhebenden Daten über die Schüler und Schülerinnen, die Bildungsabschlüsse, das Schulpersonal und die Bildungsausgaben.
 
-**Schulgeldvereinbarungen**
-
-<sup>1</sup> Der Regierungsrat kann mit anderen Kantonen Vereinbarungen über den ausserkantonalen Schulbesuch abschliessen.
+<sup>3</sup> Die öffentlichen und privaten Schulträger übermitteln dem Kanton die erforderlichen Daten.
 
 #### § 5
 
+**Bearbeitung sozio-ökonomischer Daten**
+
+<sup>1</sup> Der Kanton kann über Schüler und Schülerinnen Daten erheben, welche die Darstellung von Testergebnissen nach der Sozio-ökonomischen Herkunft ermöglichen. Die Beantwortung von Fragen zur sozio-ökonomischen Herkunft ist freiwillig und die Auswertung der Daten erfolgt anonymisiert.
+
+<sup>2</sup> Der Regierungsrat bestimmt, bei welchen Erhebungen Daten zur sozio-ökonomischen Herkunft erhoben werden.
+
+<sup>3</sup> Die öffentlichen und privaten Schulträger übermitteln dem Kanton die erforderlichen Daten.
+
+#### § 6
+
+**Bearbeitung von Schülerdaten**
+
+<sup>1</sup> Die kommunalen und kantonalen Behörden bearbeiten diejenigen Daten von Schülerinnen und Schülern, die sie zur Erfüllung ihrer Aufgaben benötigen. Dazu gehören insbesondere:
+
+- a) Identifizierende Daten;
+- b) Daten für die Leistungsbeurteilung und Daten über die Promotion;
+- c) Daten für die Beurteilung von Massnahmen der Speziellen Förderung, von Massnahmen der Sonderpädagogik und der weiteren kantonalen Spezialangebote;
+- d) Daten für die Bildungsstatistik;
+- e) Daten über Absenzen und Dispensationen;
+- f) Daten über Disziplinarmassnahmen;
+- g) Gesundheitsdaten, sofern sie für den Schulbetrieb zwingend erforderlich sind.
+
+#### § 7
+
+**Weitergabe von Schülerdaten**
+
+<sup>1</sup> Die identifizierenden Daten von Schülerinnen und Schülern dürfen zwischen den abgebenden und aufnehmenden Schulen weitergegeben werden, soweit dies erforderlich ist.
+
+<sup>2</sup> Die Daten für die Leistungsbeurteilung von Schülerinnen und Schülern dürfen zwischen den abgebenden und aufnehmenden Schulen weitergegeben werden, soweit sie für die laufende Promotion relevant sind.
+
+<sup>3</sup> Nach einem Schulübertritt oder Schulwechsel ist die frühere Schulleitung berechtigt, die nachfolgende Schulleitung zu informieren, wenn ein Schüler oder eine Schülerin wegen eines Verbrechens oder Vergehens, das sich im schulischen Umfeld zugetragen hat, rechtskräftig verurteilt worden ist.
+
+<sup>4</sup> Die weiteren schulrelevanten Daten von Schülerinnen und Schülern dürfen zwischen den abgebenden und aufnehmenden Schulen weitergegeben werden, soweit diese Daten für die Aufgabenerfüllung nötig sind. Besonders schützenswerte Daten dürfen nur weitergegeben werden, soweit dies für die Aufgabenerfüllung unentbehrlich ist.
+
+#### § 8
+
+**Meldung von Vorfällen an die kantonale Aufsichtsbehörde**
+
+<sup>1</sup> Die Schulleitung ist berechtigt, die kantonale Aufsichtsbehörde über Vorfälle an der Schule zu informieren, sofern
+
+- a) eine Intervention der Polizei oder anderer Behörden erforderlich ist;
+- b) andere geeignete Vorkehren zur Abwehr einer Gefahr getroffen werden müssen;
+- c) eine Untersuchung der Strafverfolgungsbehörden eingeleitet wird.
+
+#### § 9
+
+**Bildungs-Identität (Bildungs-ID)**
+
+<sup>1</sup> Die Bildungs-Identität (Bildungs-ID) ist eine eindeutige und unveränderliche Nutzer-Identität.
+
+<sup>2</sup> Die Bildungs-ID bezweckt:
+
+- a) die sichere Authentisierung der Nutzer und Nutzerinnen von digitalen Dienstleistungen in der Volksschule;
+- b) den sicheren Zugang zu digitalen Dienstleistungen in der Volksschule.
+
+<sup>3</sup> Der Kanton sorgt dafür, dass Schüler und Schülerinnen, Lehrpersonen, Schulleiter und Schulleiterinnen sowie weiteres Schulpersonal über eine Bildungs-ID verfügen. Der Regierungsrat bestimmt durch Verordnung, welche weiteren Nutzer und Nutzerinnen mit einer Bildungs-ID ausgestattet werden dürfen.
+
+<sup>4</sup> Der Regierungsrat stellt sicher, dass die Datenhoheit über die mit der Bildungs-ID erfassten Daten bei den Nutzerinnen und Nutzern verbleibt.
+
+<sup>5</sup> Zur Förderung von digitalen Bildungs-Identitäten kann der Regierungsrat zusammen mit anderen Kantonen eine gemeinsame Organisation bezeichnen.
+
+#### § 10
+
+**Beiträge an die Tätigkeit von Organisationen des Volksschulwesens**
+
+<sup>1</sup> Der Kanton kann die Tätigkeit von Organisationen, die im Volksschulwesen tätig sind, in folgenden Bereichen mit Kantonsbeiträgen unterstützen:
+
+- a) Beratung und Unterstützung von Schulleitungen und Lehrpersonen in schwierigen Situationen;
+- b) Erhaltung, Stärkung und Förderung der physischen und psychischen Gesundheit von Lehrpersonen;
+- c) Organisation und Entwicklung innovativer Projekte.
+
+## 2. Öffentliche Volksschulen
+
+### 2.1. Schulträger
+
+#### § 11
+
 **Schulträger**
 
-<sup>1</sup> Jede Einwohnergemeinde ist verpflichtet, für sich oder in Verbindung mit anderen Einwohnergemeinden oder öffentlichen Schulträgern die Regelschule zu führen.
+<sup>1</sup> Als Schulträger gelten in diesem Gesetz die Einwohnergemeinden, die Schulkreise sowie der Kanton.
 
-<sup>2</sup> Der Kanton ist Schulträger der Heilpädagogischen Sonderschulen und zuständig für die kantonalen Spezialangebote. Der Regierungsrat beschliesst die Angebotsplanung und bestimmt die Einzelheiten der Organisation.
+<sup>2</sup> Jede Einwohnergemeinde ist verpflichtet, für sich oder in Verbindung mit anderen öffentlichen Schulträgern die Regelschule zu führen.
 
-<sup>3</sup> Der Regierungsrat kann die Durchführung kantonaler Spezialangebote an öffentlich-rechtliche oder privatrechtliche Organisationen wie Sonderschulzentren, Schulheime oder Spitalschulen übertragen, wenn
+<sup>3</sup> Der Kanton ist Schulträger der Heilpädagogischen Schulzentren und zuständig für die kantonalen Spezialangebote.
+
+#### § 12
+
+**Progymnasiale Ausbildung**
+
+<sup>1</sup> Die progymnasiale Ausbildung ist Teil der Sekundarstufe I (vgl. § 25). Sie wird durch einen kommunalen oder kantonalen Schulträger geführt.
+
+<sup>2</sup> Der Regierungsrat bestimmt nach dem Gebot der Ressourcenoptimierung die Schulträger, die Standorte und das Einzugsgebiet der einzelnen Schulen.
+
+#### § 13
+
+**Bildung eines Schulkreises**
+
+<sup>1</sup> Zwei oder mehrere Einwohnergemeinden können sich zur Führung von Schulstufen oder Fächern zu einem Schulkreis zusammenschliessen.
+
+<sup>2</sup> Der Zusammenschluss kann durch einen öffentlich-rechtlichen Vertrag oder durch Errichten eines Zweckverbandes erfolgen.
+
+<sup>3</sup> Im öffentlich-rechtlichen Vertrag oder in den Zweckverbandsstatuten sind die Schulorte, die Rechte und Pflichten der Schulortsgemeinden und der übrigen Einwohnergemeinden, die Organisation der Schule und die Finanzierung festzulegen.
+
+<sup>4</sup> Der öffentlich-rechtliche Vertrag bedarf der Genehmigung durch das Departement.
+
+<sup>5</sup> Die Zweckverbandsstatuten bedürfen der Genehmigung durch den Regierungsrat (§ 166 Abs. 3 des Gemeindegesetzes [GG] vom 16. Februar 1992[^13-1]).
+
+[^13-1]: BGS [131.1](https://bgs.so.ch/data/131.1/de).
+
+#### § 14
+
+**Anordnung der Schulkreisbildung**
+
+<sup>1</sup> Der Regierungsrat kann die Einwohnergemeinden zur Bildung eines Schulkreises verpflichten und bestehende Schulkreise abändern, sofern eine vernünftige Schulplanung diese Massnahmen erfordert.
+
+<sup>2</sup> Sind sich die Einwohnergemeinden über die Bildung eines Schulkreises einig, können sich jedoch über die Modalitäten des künftigen Schulkreises nicht einigen, bestimmt der Regierungsrat die Modalitäten.
+
+#### § 15
+
+**Vertragliche Zusammenarbeit ohne Schulkreisbildung**
+
+<sup>1</sup> Eine Einwohnergemeinde kann die Führung einzelner Schulstufen oder Fächer durch öffentlich-rechtlichen Vertrag einem anderen Schulträger übertragen, ohne dass ein Schulkreis gebildet wird.
+
+<sup>2</sup> Der Vertrag bedarf der Genehmigung durch das Departement.
+
+#### § 16
+
+**Übertragung von Staatsaufgaben an Dritte**
+
+<sup>1</sup> Der Regierungsrat kann die Durchführung kantonaler Spezialangebote an öffentlich-rechtliche oder privatrechtliche Organisationen wie Sonderschulzentren, Schulheime oder Spitalschulen übertragen, wenn:
 
 - a) die fachkundige Leitung sichergestellt ist;
 - b) die fachlich angemessene, dem Zweck entsprechende Leistungserbringung gewährleistet ist;
 - c) die baulichen und betrieblichen Verhältnisse der vorgesehenen Verwendung entsprechen;
-- d) die Kosten aus den Anstellungsverhältnissen des Personals die Höchstgrenze bei staatlicher Führung gemäss den Regelungen des Gesamtarbeitsvertrages (GAV) vom 25. Oktober 2004[^5-1] nicht überschreiten;
+- d) die Kosten aus den Anstellungsverhältnissen des Personals die Höchstgrenze bei staatlicher Führung gemäss den Regelungen des Gesamtarbeitsvertrags (GAV) vom 25. Oktober 2004[^16-1] nicht überschreiten;
 - e) die Rechnungsführung gemäss den Vorgaben des Regierungsrates erfolgt.
 
-<sup>3<sup>bis</sup></sup> Wird die Durchführung von kantonalen Spezialangeboten öffentlich-rechtlichen oder privatrechtlichen Organisationen übertragen, sind die submissionsrechtlichen Vorschriften zu beachten.
+<sup>2</sup> Für einzelne Kinder und Jugendliche mit einer schweren Behinderung kann die kantonale Aufsichtsbehörde die Durchführung der Spezialangebote einem Dritten übertragen. Die zu erbringenden Leistungen sowie die Abgeltung durch den Kanton werden in einer Leistungsvereinbarung geregelt.
 
-<sup>4</sup> Für einzelne Kinder und Jugendliche mit einer schweren Behinderung kann die kantonale Aufsichtsbehörde die Durchführung der Spezialangebote einem Dritten übertragen. Die zu erbringenden Leistungen sowie die Abgeltung durch den Kanton werden in einer Leistungsvereinbarung geregelt.
+<sup>3</sup> Die privatrechtlichen Organisationen sind berechtigt, bei der Wahrnehmung der übertragenen Aufgaben hoheitlich zu handeln und Verfügungen zu erlassen. Die Verfügungen der privatrechtlichen Organisationen können innert zehn Tagen mit Beschwerde an das Departement weitergezogen werden.
 
-[^5-1]: BGS [126.3](https://bgs.so.ch/data/126.3/de).
+<sup>4</sup> Die Aufsicht obliegt der kantonalen Aufsichtsbehörde.
 
-#### § 5bis
-
-**Fachliche Leistungsvereinbarungen**
-
-<sup>1</sup> Die fachlichen Leistungsvereinbarungen umschreiben für alle kantonalen und kommunalen Volksschulangebote die zu erbringenden Leistungen und die damit verbundenen finanziellen Mittel sowie die Verantwortlichkeiten, die Mitwirkungs- und Kontrollrechte der Trägerschaften.
-
-<sup>2</sup> Die kantonale Aufsichtsbehörde handelt die fachliche Leistungsvereinbarung aus:
-
-- a) für die Regelschule: mit der zuständigen kommunalen Aufsichtsbehörde;
-- b) für die kantonalen Spezialangebote: mit den Institutionen, denen der Regierungsrat Aufgaben überträgt.
-
-<sup>3</sup> Die kantonale Aufsichtsbehörde stellt das Controlling der fachlichen Leistungsvereinbarung sicher.
-
-#### § 5ter
-
-**Leistungsauftrag**
-
-<sup>1</sup> Der Leistungsauftrag umschreibt das kommunale Volksschulangebot, die zu erbringenden Leistungen der Schule und die damit verbundenen finanziellen Mittel sowie die Verantwortlichkeiten, die Mitwirkungs- und Kontrollrechte der Trägerschaften.
-
-<sup>2</sup> Die kommunale Aufsichtsbehörde erteilt den Leistungsauftrag dem zuständigen Schulleiter.
-
-<sup>3</sup> Die kommunale Aufsichtsbehörde stellt das Controlling des Leistungsauftrags sicher.
-
-#### § 5quater
-
-**Bildungsstatistik**
-
-<sup>1</sup> Das Departement für Bildung und Kultur führt zur Steuerung und Entwicklung des Bildungswesens eine Bildungsstatistik. Es bestimmt die zu erhebenden Informationen und Daten in den Bereichen Schüler, Bildungsabschlüsse, Schulpersonal und Bildungsausgaben.
-
-<sup>2</sup> Die kantonale Aufsichtsbehörde bearbeitet die Informationen und Daten.
-
-<sup>3</sup> Die öffentlichen und privaten Schulträger liefern die notwendigen Informationen und Daten.
-
-<sup>4</sup> Der Datenschutz richtet sich nach der Informations- und Datenschutzgesetzgebung.
-
-#### § 6
-
-**Begriffsbezeichnungen**
-
-<sup>1</sup> Sofern das Gesetz nicht ausdrücklich etwas anderes bestimmt, gelten die Begriffsbezeichnungen sowohl für Männer als auch für Frauen.
-
-<sup>2</sup> …
-
-#### § 7
-
-**Unentgeltlichkeit der Volksschule**
-
-<sup>1</sup> Der Unterricht an der Volksschule ist unentgeltlich. Die Schulträger stellen die Lehrmittel und Schulmaterialien kostenlos zur Verfügung.
-
-<sup>2</sup> Im Fachbereich Werken können die Eltern zu Beiträgen an besondere Kosten für frei gewählte Werkstoffe oder im Stoffplan nicht vorgesehene Arbeiten verpflichtet werden.
-
-<sup>3</sup> Für die Sonderschulen und Schulheime gilt § 44<sup>quater</sup> Absatz 2.
-
-#### § 8
-
-**Schuljahr**
-
-<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen. Die Weihnachtsferien dauern zwei Wochen und sind Teil der unterrichtsfreien Zeit.
-
-<sup>2</sup> Der Beginn des Schuljahres wird vom Kantonsrat in Anpassung an den Schulbeginn anderer Kantone festgesetzt.
-
-<sup>3</sup> Die Verteilung der Ferien auf das Schuljahr wird in der Vollzugsverordnung geregelt. Im Rahmen der kantonalen Vorschriften setzen die zuständigen kommunalen Aufsichtsbehörden den Ferienplan in regionaler Zusammenarbeit fest. Können sie sich nicht verständigen, entscheidet die kantonale Aufsichtsbehörde.
-
-#### § 9
-
-**Bildungspläne**
-
-<sup>1</sup> Der Regierungsrat erlässt die Bildungspläne. Er kann zur Anpassung an die Bildungspläne der Nachbarkantone Abweichungen beschliessen.
-
-<sup>2</sup> Die Bildungspläne sind so zu gestalten, dass das Unterrichtsangebot für Knaben und Mädchen gleich ist. Für beide Geschlechter ist eine genügende Grundausbildung in den Fachbereichen Werken und Hauswirtschaft obligatorisch.
-
-#### § 10
-
-**Stundenpläne**
-
-<sup>1</sup> Der Schulleiter erstellt die Stundenpläne (Verteilung der wöchentlichen Unterrichtsstunden) aufgrund der Bildungspläne in Absprache mit der Lehrerschaft.
-
-#### § 10bis
-
-**Blockzeiten**
-
-<sup>1</sup> Alle Kinder im ersten Kindergartenjahr stehen an mindestens drei Vormittagen unter der Obhut des Kindergartens. Im zweiten Kindergartenjahr sowie in der Primarschule stehen alle Kinder an fünf Vormittagen während dreieinhalb Stunden unter der Obhut des Kindergartens bzw. der Schule.
-
-<sup>2</sup> Die kommunale Aufsichtsbehörde entscheidet aufgrund lokaler Verhältnisse über die Gestaltung der Obhutszeit.
-
-<sup>3</sup> Die kantonale Aufsichtsbehörde entscheidet namens des Departementes für Bildung und Kultur über Ausnahmen.
-
-#### § 11
-
-**Lehrmittel**
-
-<sup>1</sup> Das Departement für Bildung und Kultur bestimmt auf Vorschlag der kantonalen Lehrmittelkommission, welche Lehrmittel in den Schulen zu verwenden sind.
-
-#### § 12
-
-**Schülerzahlen**
-
-<sup>1</sup> Das Departement für Bildung und Kultur setzt Richtzahlen für die Klassenbestände der einzelnen Schularten und Unterrichtszweige fest.
-
-#### § 13
-
-**Änderungen**
-
-<sup>1</sup> Die Bildung neuer und die Aufhebung bestehender Schulen bedürfen der Bewilligung des Departements für Bildung und Kultur.
-
-<sup>2</sup> Über die Bildung und die Aufhebung von Abteilungen für Werken und für Hauswirtschaft entscheidet das Departement für Bildung und Kultur[^13-1].
-
-[^13-1]: Im ganzen Erlass neue Departementsbezeichnung ab 1. August 2000.
-
-#### § 13bis
-
-**Schule als pädagogisches Dienstleistungsunternehmen**
-
-<sup>1</sup> Die Schule als pädagogisches Dienstleistungsunternehmen ist eine durch einen Schulleiter geführte pädagogische und betriebliche Handlungseinheit, die im Wesentlichen den Schulleiter, die Lehrer, die Schüler und das Betriebspersonal umfasst.
-
-<sup>2</sup> Sie wird aus einem oder mehreren Schulhäusern eines Schulträgers unter Einbezug der Kindergärten gebildet.
-
-<sup>3</sup> Sie gibt sich ein Leitbild und nimmt ihre Aufgabe nach Massgabe dieses Gesetzes wahr.
-
-#### § 14
-
-**Schulräume und -anlagen**
-
-<sup>1</sup> Jeder Schulträger hat für geeignete Schulräume und -anlagen und deren Unterhalt zu sorgen.
-
-<sup>2</sup> Werden nicht geeignete Räume und Anlagen zu Schulzwecken benützt und schafft der Schulträger innert angemessener Frist nicht Abhilfe, sorgt der Regierungsrat auf ihre Kosten für geeignete Räumlichkeiten oder trifft andere angemessene aufsichtsrechtliche Vorkehren.
-
-#### § 14bis
-
-**Anlagen im sonderpädagogischen Bereich**
-
-<sup>1</sup> Die Trägerschaften von Anlagen im sonderpädagogischen Bereich haben die Baupläne und Kostenvoranschläge für diese Anlagen dem Amt für Volksschule und Kindergarten zur Genehmigung zu unterbreiten.
-
-<sup>2</sup> Werden nicht genehmigte Anlagen zu sonderpädagogischen Zwecken benützt und schafft die zuständige Trägerschaft innert angemessener Frist nicht Abhilfe, sorgt der Regierungsrat auf ihre Kosten für geeignete Räumlichkeiten oder trifft andere angemessene aufsichtsrechtliche Vorkehren.
-
-#### § 15
-
-**Schulbibliotheken**
-
-<sup>1</sup> Die Schulträger haben für die verschiedenen Schulen Schulbibliotheken einzurichten und zu unterhalten.
-
-<sup>2</sup> …
-
-#### § 16
-
-**Schulpsychologischer Dienst**
-
-<sup>1</sup> Der Kanton unterhält einen Schulpsychologischen Dienst.
-
-<sup>1<sup>bis</sup></sup> Der Regierungsrat regelt die Einzelheiten der Organisation in einer Verordnung.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-#### § 16bis
-
-**Schulärztlicher Dienst und Schulzahnpflege**
-
-<sup>1</sup> Die Zuständigkeiten, die Aufgaben und die Organisation im Bereich des schulärztlichen Dienstes und der Schulzahnpflege richten sich nach der Gesundheitsgesetzgebung.
+[^16-1]: BGS [126.3](https://bgs.so.ch/data/126.3/de).
 
 #### § 17
 
-**…**
+**Meldepflicht für Schülerdaten**
+
+<sup>1</sup> Die öffentlich-rechtlichen und privatrechtlichen Institutionen, denen der Regierungsrat Staatsaufgaben übertragen hat (§ 16), melden den kommunalen und kantonalen Behörden jene Daten über Schüler und Schülerinnen, die die Behörden zur Erfüllung ihrer Aufgaben benötigen.
 
 #### § 18
 
-**…**
+**Öffentlich-privates Partnerschaftsmodell (Public Private Partnership, PPP)**
 
-#### § 18bis
+<sup>1</sup> Kanton und Einwohnergemeinden können zwecks Planung, Finanzierung, Bau und Betrieb einer Infrastruktur oder einer Dienstleistung eine öffentlich-private Zusammenarbeit (Public Private Partnership, PPP) vereinbaren.
 
-**…**
+<sup>2</sup> Die Ausgabenbewilligung richtet sich nach der WoV-Gesetzgebung.
 
-## 2. Schüler
+### 2.2. Volksschulangebot
+
+### 2.2.1. Allgemeines
 
 #### § 19
 
-**Schulpflicht**
+**Bildungszyklen**
 
-<sup>1</sup> Die Schulpflicht dauert elf Jahre.
+<sup>1</sup> Die Volksschule besteht aus drei Zyklen und gliedert sich in die Primarstufe und die Sekundarstufe I.
 
-<sup>2</sup> …
+<sup>2</sup> Die Primarstufe dauert acht Jahre und setzt sich aus dem Kindergarten und der Primarschule zusammen. Die Zyklen umfassen:
 
-<sup>2<sup>bis</sup></sup> Die Schüler werden mit dem vollendeten vierten Altersjahr (Stichtag 31. Juli) eingeschult.
+- a) 1. Zyklus: zwei Jahre Kindergarten sowie erste und zweite Klasse der Primarschule;
+- b) 2. Zyklus: dritte bis sechste Klasse der Primarschule.
 
-<sup>3</sup> Die Eltern können nach Rücksprache mit der Schulleitung entscheiden, ob ihr Kind ausnahmsweise ein Jahr später eingeschult werden soll. Eine frühere Einschulung ist ausgeschlossen.
+<sup>3</sup> Die Sekundarstufe I schliesst an die Primarstufe an. Sie dauert in der Regel drei Jahre und bildet den dritten Zyklus. Der Regierungsrat kann die Sekundarstufe I durch Verordnung in höchstens drei verschiedene Anforderungsniveaus unterteilen.
 
-<sup>4</sup> …
-
-<sup>4<sup>bis</sup></sup> Das Departement kann auf begründetes Gesuch hin bewilligen, dass ein überdurchschnittlich begabtes Kind die Schulpflicht beschleunigt absolvieren kann.
-
-<sup>5</sup> …
+<sup>4</sup> Die Zeit für das Durchlaufen der Schulstufen ist im Einzelfall von der individuellen Entwicklung der Schülerin oder des Schülers abhängig.
 
 #### § 20
 
-**Befreiung von der Schulpflicht**
+**Lehrplan**
 
-<sup>1</sup> Das Departement kann einen Schüler von der Schulpflicht befreien, wenn er einen der Volksschule gleichwertigen Unterricht in einer anderen öffentlichen oder staatlich anerkannten privaten Schule besucht, ein Angebot im Rahmen der vertikalen Durchlässigkeit im Berufsbildungswesen in Anspruch nimmt oder eine gleichwertige Bildung erfährt.
+<sup>1</sup> Der Lehrplan regelt verbindlich die Bildungsziele und die grundlegenden Inhalte des Unterrichts.
 
-<sup>2</sup> Nach einer Befreiung von der Schulpflicht tragen die Eltern die Verantwortung für die genügende Grundbildung des Kindes.
-
-#### § 20bis
-
-**…**
-
-#### § 20ter
-
-**Schulort**
-
-<sup>1</sup> Die Schulpflicht ist beim Schulträger des Wohnorts zu erfüllen.
-
-<sup>2</sup> Die kantonale Aufsichtsbehörde kann namens des Departements aus schulorganisatorischen Gründen oder in besonderen Fällen für einzelne Schüler den Besuch der Schule an einem anderen Ort gestatten.
+<sup>2</sup> Lernmedien dienen zur Erreichung der Ziele des Lehrplans.
 
 #### § 21
 
-**…**
+**Festlegung des Volksschulangebots**
+
+<sup>1</sup> Der Kanton schliesst mit allen Schulträgern Vereinbarungen über die Volksschulangebote ab.
+
+<sup>2</sup> Die Vereinbarungen umschreiben für alle kommunalen und kantonalen Volksschulangebote die zu erbringenden Leistungen und die damit verbundenen finanziellen Mittel sowie die Verantwortlichkeiten und die Mitwirkungs- und Kontrollrechte der Trägerschaften.
+
+<sup>3</sup> Die kantonale Aufsichtsbehörde schliesst die Vereinbarung ab:
+
+- a) für die Regelschule: mit der zuständigen kommunalen Aufsichtsbehörde;
+- b) für die kantonalen Spezialangebote: mit den Organisationen, denen der Regierungsrat Aufgaben überträgt.
+
+<sup>4</sup> Die kantonale Aufsichtsbehörde stellt das Controlling der Vereinbarungen sicher.
 
 #### § 22
 
-**Absenzen und Dispensationen**
+**Leistungsbeurteilung der Schüler und Schülerinnen**
 
-<sup>1</sup> Ein schulpflichtiges Kind darf nicht ohne wichtigen Grund dem Unterricht fernbleiben.
+<sup>1</sup> Die Schüler und Schülerinnen der Primar- und Sekundarstufe I werden regelmässig schriftlich beurteilt. Berücksichtigt werden insbesondere die Leistung, die Lernentwicklung und die überfachlichen Kompetenzen.
 
-<sup>2</sup> Der Regierungsrat regelt Absenzen und Dispensationen vom gesamten Unterricht oder von einzelnen Fächern.
+<sup>2</sup> Ab dem zweiten Zyklus werden Zeugnisse ausgestellt.
+
+<sup>3</sup> Das Departement bestimmt den Inhalt und die Form der schriftlichen Beurteilung, die Notengebung für die Zeugnisse und die Bedingungen für die Aufnahme, die Beförderung und den Übertritt in die einzelnen Schulstufen.
+
+### 2.2.2. Kommunale Volksschulangebote (Regelschule)
 
 #### § 23
 
-**Unbegründete Schulversäumnisse**
+**Regelschule**
 
-<sup>1</sup> Bleiben Schüler erstmals unbegründet dem Unterricht fern, sind die Eltern durch den Lehrer zu ermahnen.
-
-<sup>2</sup> Im Wiederholungsfall meldet der Lehrer den Namen des Schülers dem Schulleiter. Der Schulleiter ermahnt die Eltern und verfügt den Schulbesuch schriftlich mit Vollstreckungs- und Bussenandrohung.
-
-<sup>3</sup> Nach erfolgloser Ermahnung kann der Schulleiter
-
-- a) den Schulbesuch vom Oberamt vollstrecken lassen;
-- b) die Eltern mit einer Busse bis zu 1‘000 Franken bestrafen.
+<sup>1</sup> Die Regelschule umfasst die Primarstufe und die Sekundarstufe I.
 
 #### § 24
 
-**…**
+**Angebot Primarstufe**
 
-#### § 24bis
+<sup>1</sup> Der Kindergarten unterstützt und fördert die individuelle Entwicklung der Kinder und schafft die Grundlagen für ein zielgerichtetes und gesteuertes Lernen an der Primarschule.
 
-**Disziplin a) Verantwortlichkeiten**
-
-<sup>1</sup> Die Schule und ihre Lehrpersonen sorgen für einen geordneten Schulbetrieb und ein förderliches Lernklima. Die Schüler haben die Regeln der Schule für das Zusammenleben einzuhalten sowie die Anordnungen der Lehrpersonen und des Schulleiters zu befolgen.
-
-<sup>2</sup> Die Inhaber der elterlichen Sorge
-
-- a) sind für die Erziehung ihrer Kinder verantwortlich;
-- b) unterstützen und fördern den Bildungsprozess ihrer Kinder;
-- c) arbeiten mit den Lehrpersonen sowie der Schule ihrer Kinder zusammen;
-- d) halten ihre Kinder an, die Regeln und Weisungen der Schule einzuhalten und den Unterricht lückenlos zu besuchen.
-
-<sup>3</sup> Inhaber der elterlichen Sorge, die ihren Pflichten der Schule gegenüber nicht nachkommen, werden durch den Schulleiter schriftlich mit Bussenandrohung ermahnt. Sie können von der Schulleitung nach erfolgloser Ermahnung mit einer Busse bis zu 1'000 Franken bestraft werden.
-
-#### § 24ter
-
-**b) Massnahmen**
-
-<sup>1</sup> Die Lehrperson ergreift gegenüber Schülern, deren Verhalten zu Beanstandungen Anlass gibt, diejenigen Massnahmen nach Absatz 2, die zur Aufrechterhaltung des Schulbetriebes nötig sind. Die Lehrperson orientiert bei Disziplinarproblemen frühzeitig den Schulleiter und zieht Fachstellen bei.
-
-<sup>2</sup> Die Lehrperson kann folgende Massnahmen ergreifen:
-
-- a) zusätzliche Arbeiten innerhalb oder ausserhalb der ordentlichen Unterrichtszeit;
-- b) Wegweisung aus der Lektion oder aus einer Veranstaltung;
-- c) Aussprache mit den Inhabern der elterlichen Sorge bzw. den Erziehungsberechtigten;
-- d) schriftliche Ermahnung an die Inhaber der elterlichen Sorge bzw. die Erziehungsberechtigten;
-- e) Ausschluss von einer Veranstaltung;
-- f) Ausschluss vom Unterricht bis höchstens 7 Tage, nach vorgängiger Benachrichtigung der Inhaber der elterlichen Sorge.
-
-<sup>3</sup> Der Schulleiter kann folgende Massnahmen ergreifen:
-
-- a) Aussprache mit den Inhabern der elterlichen Sorge;
-- b) Ermahnung mit Bussenandrohung der Inhaber der elterlichen Sorge auf Antrag der Lehrperson und Bussenverfügung bei erfolgloser Ermahnung (§ 24<sup>bis</sup> Abs. 3);
-- c) Versetzung in eine andere Klasse oder in ein anderes Schulhaus. Nötigenfalls wird die Versetzung an eine Schule einer anderen Einwohnergemeinde bei der zuständigen Behörde veranlasst;
-- d) Verweis oder Androhung des Ausschlusses von der Schule gemäss litera e) bei wiederholten oder schweren Verstössen;
-- e) teilweiser oder vollständiger Ausschluss vom Unterricht während höchstens zwölf Wochen pro Schuljahr, mit zwingender Benachrichtigung der Kindesschutzbehörde für Schüler, welche durch ihr Verhalten den ordentlichen Schulbetrieb erheblich beeinträchtigen oder das eigene Wohl oder dasjenige von anderen Personen schwerwiegend gefährden. Bei einem Schulausschluss ist es gleichzeitig verboten, sich ohne Genehmigung des Schulleiters auf dem Schulareal aufzuhalten.
-
-#### § 24quater
-
-**c) Verfahren**
-
-<sup>1</sup> Bei Anständen aus der Ergreifung von Massnahmen durch die Lehrperson nach § 24<sup>ter</sup> Absatz 2 Buchstaben e und f sowie bei Massnahmen gemäss § 24<sup>ter</sup> Absatz 3 Buchstaben b-e erlässt der Schulleiter eine Verfügung.
-
-<sup>2</sup> Die betroffenen Schüler sowie die Inhaber der elterlichen Sorge sind vor einer Verfügung des Schulleiters gemäss Absatz 1 anzuhören. In dringenden Fällen ist ein sofortiger Ausschluss ohne vorgängige Anhörung möglich. Die Anhörung ist in diesen Fällen so bald als möglich nachzuholen.
-
-<sup>3</sup> Der Schulleiter kann allfälligen Beschwerden die aufschiebende Wirkung entziehen. Der Entzug der aufschiebenden Wirkung einer Beschwerde ist jeweils explizit zu begründen.
-
-#### § 24quinquies
-
-**d) Betreuung und Beschäftigung**
-
-<sup>1</sup> Bei einem Ausschluss sorgen die Inhaber der elterlichen Sorge, nötigenfalls unter Beizug von Fachstellen, für eine angemessene Betreuung und Beschäftigung, mit dem Ziel der Wiedereingliederung und ordentlichen Beendigung der obligatorischen Schulzeit. Die Lehrperson plant rechtzeitig die Wiedereingliederung.
-
-<sup>2</sup> Bei einem Ausschluss von der Schule (§ 24<sup>ter</sup> Abs. 3 Bst. e) trifft die Kindesschutzbehörde die nötigen Abklärungen und ordnet die erforderlichen schulexternen Massnahmen an.
-
-<sup>3</sup> Die Kostentragung für die Betreuung und Beschäftigung der von der Schule ausgeschlossenen Schüler richtet sich nach den Bestimmungen des zivilrechtlichen Kindesschutzes.
-
-#### § 24sexies
-
-**e) Prävention**
-
-<sup>1</sup> Im Rahmen der verfügbaren finanziellen Mittel sorgen Kanton und Einwohnergemeinden für die flankierenden Massnahmen, die der Prävention disziplinarischer Probleme und Schwierigkeiten von Schülern dienen.
+<sup>2</sup> Die Primarschule vermittelt den Schülerinnen und Schülern die Grundlagen der elementaren Grundkompetenzen Lesen, Schreiben, Rechnen und Informatische Bildung. Sie ist auf eine ausgewogene Bildung der menschlichen Fähigkeiten bedacht und bereitet auf den Besuch der Sekundarstufe I vor.
 
 #### § 25
 
-**Prüfung, Zeugnis, Promotion**
+**Angebot Sekundarstufe I**
 
-<sup>1</sup> Die kantonale Aufsichtsbehörde ist ermächtigt Schulleistungsprüfungen anzuordnen.
-
-<sup>2</sup> Über Leistungen, Fleiss, Betragen und Absenzen der Kinder werden die Eltern oder Pflegeeltern durch Zeugnisse orientiert.
-
-<sup>3</sup> Das Departement für Bildung und Kultur erlässt die näheren Bestimmungen über die Notengebung und die Bedingungen für die Aufnahme, die Beförderung und den Übertritt in die einzelnen Schularten.
-
-<sup>4</sup> …
+<sup>1</sup> Die Sekundarstufe I vermittelt den Schülerinnen und Schülern eine niveauspezifische Ausbildung, die ihnen den Eintritt in eine berufliche Grundbildung oder eine allgemein bildende Schule der Sekundarstufe II ermöglicht. Sie fördert die Handlungsfähigkeit und das Verantwortungsbewusstsein.
 
 #### § 26
 
-**…**
+**Angebot Spezielle Förderung**
 
-#### § 27
-
-**…**
-
-## 3. Schulangebote
-
-### 3.1. Regelschule
-
-### 3.1.1. Kindergarten und Primarschule
-
-#### § 28
-
-**Zweck**
-
-<sup>1</sup> Im Kindergarten- und Primarunterricht erwirbt das Kind schrittweise die Grundlagen der Sozialkompetenz und der schulischen Arbeitsweise. Es vervollständigt und festigt insbesondere die sprachlichen Grundlagen. Je nach seiner intellektuellen Entwicklung und emotionalen Reife wird es durch besondere Massnahmen zusätzlich unterstützt.
-
-#### § 28bis
-
-**…**
-
-#### § 28ter
-
-**…**
-
-#### § 28quater
-
-**…**
-
-#### § 28quinquies
-
-**…**
-
-#### § 29
-
-**Dauer**
-
-<sup>1</sup> Der Kindergarten und die Primarschule umfassen acht Jahresstufen.
-
-### 3.1.2. Sekundarschule
-
-#### § 30
-
-**Angebot und Dauer**
-
-<sup>1</sup> Die Sekundarschule weist folgende Anforderungsniveaus auf:
-
-- a) Die Sekundarschule P (Progymnasium) bereitet auf den Eintritt in die gymnasialen Maturitätsschulen vor.
-- b) Die Sekundarschule E bereitet auf eine berufliche Grundbildung für erweiterte Anforderungen mit oder ohne Berufsmaturität oder zur Fachmittelschule vor.
-- c) Die Sekundarschule B bereitet auf eine berufliche Grundbildung für Basis- bzw. Grundanforderungen vor.
-- d) …
-
-<sup>2</sup> Die Schüler erhalten am Ende der Sekundarschule ein Zertifikat, welches über die erreichten Leistungen in den einzelnen Anforderungsniveaus Auskunft gibt.
-
-<sup>3</sup> Die Sekundarschulen E und B umfassen je drei und die Sekundarschule P zwei Jahresstufen.
-
-<sup>4</sup> Der Kantonsrat kann zur Koordination mit andern Kantonen die Dauer der Sekundarschule abändern.
-
-#### § 31
-
-**Zweck**
-
-<sup>1</sup> Die Sekundarschule vermittelt den Schülern eine niveauspezifische Ausbildung, die ihnen den Eintritt in eine berufliche Grundbildung oder in eine weiterführende Schule ermöglicht. Sie fördert ihre Handlungsfähigkeit und ihr Verantwortungsbewusstsein.
-
-#### § 32
-
-**Besondere Aufgabe des dritten Sekundarschuljahres**
-
-<sup>1</sup> Das dritte Sekundarschuljahr nimmt besondere Rücksicht auf die individuellen Begabungen und fördert die Berufswahlreife. Der Unterricht in Pflichtfächern, Wahlfächern und Begabungsgruppen wird im Bildungsplan geregelt.
-
-<sup>2</sup> Vom Bildungsplan abweichende Formen des neunten Schuljahres bedürfen der Genehmigung der kantonalen Aufsichtsbehörde.
-
-#### § 33
-
-**…**
-
-#### § 34
-
-**…**
-
-#### § 35
-
-**…**
-
-### 3.1.3. Spezielle Förderung
-
-#### § 36
-
-**Spezielle Förderung**
-
-<sup>1</sup> Die Spezielle Förderung umfasst Massnahmen für Schüler mit
+<sup>1</sup> Die Spezielle Förderung umfasst Massnahmen für Schüler und Schülerinnen mit
 
 - a) einer besonderen Begabung;
 - b) einer Lernbeeinträchtigung oder einem Lernrückstand;
 - c) einer Verhaltensauffälligkeit.
 
-<sup>2</sup> Sie hilft, die Fähigkeiten der Schüler innerhalb der Regelschule mit Angeboten zu entwickeln, die namentlich
+<sup>2</sup> Sie hilft, die Fähigkeiten der Schüler und Schülerinnen innerhalb der Regelschule mit Angeboten zu entwickeln, die namentlich:
 
 - a) die besondere kognitive Leistungsfähigkeit fördern;
-- b) Schüler mit speziellem Förderbedarf unterstützen;
+- b) die Lernbeeinträchtigungen und Lernrückstände mindern;
 - c) die Sprachentwicklung, Kommunikation und Bewegung fördern;
-- d) die Integration von fremdsprachigen Schülern unterstützen;
-- e) zugezogene Schüler im Bereich der Frühfremdsprachen unterstützen;
-- f) …
+- d) die Integration von fremdsprachigen Schülerinnen und Schülern unterstützen;
+- e) zugezogene Schüler und Schülerinnen im Bereich der Frühfremdsprachen unterstützen.
 
-<sup>3</sup> …
+<sup>3</sup> Die Spezielle Förderung erfolgt integrativ im Regelunterricht der Primarstufe bzw. der Sekundarstufe I. Die Schulträger können für einzelne Schüler und Schülerinnen temporäre und separative Schulungsformen einsetzen.
 
-<sup>4</sup> Die Angebote erfolgen grundsätzlich integrativ im Regelunterricht. Die Schulträger können für einzelne Schüler temporäre und separative Schulungsformen durchführen.
+#### § 27
 
-#### § 36bis
+**Anordnung der Speziellen Förderung**
 
-**Anordnung**
+<sup>1</sup> Die Schulleitung ordnet die Spezielle Förderung an. Dauern die Fördermassnahmen insgesamt länger als zwei Jahre, holt die Schulleitung vor einer Verlängerung bei der vom Kanton bezeichneten Fachstelle einen Abklärungsbericht ein.
 
-<sup>1</sup> Der Schulleiter ordnet die Spezielle Förderung an. Dauern die Fördermassnahmen insgesamt länger als zwei Jahre, holt er vor einer Verlängerung bei der durch die kantonale Aufsichtsbehörde bezeichneten Fachstelle einen Abklärungsbericht ein.
+<sup>2</sup> Die Eltern bzw. Erziehungsberechtigten sind in die Fördermassnahmen einzubeziehen.
 
-<sup>2</sup> …
+### 2.2.3. Kantonale Volksschulangebote (kantonale Spezialangebote)
 
-<sup>3</sup> Die Fördermassnahmen sind mit den Inhabern der elterlichen Sorge abzusprechen, schriftlich festzuhalten und zu begründen.
+### 2.2.3.1. Art und Zweck der kantonalen Spezialangebote
 
-#### § 36ter
+#### § 28
 
-**…**
+**Kantonale Spezialangebote**
 
-#### § 36quater
+<sup>1</sup> Die kantonalen Spezialangebote umfassen:
 
-**…**
+- a) die zeitlich befristeten Spezialangebote (SpezA);
+- b) die sonderschulischen Angebote.
 
-### 3.2. Kantonale Spezialangebote (SpezA)
+#### § 29
 
-### 3.2.1. Allgemeines
+**Zweck der kantonalen Spezialangebote**
 
-#### § 36quinquies
+<sup>1</sup> Für Kinder und Jugendliche mit besonderem Bildungsbedarf sorgt der Kanton für zeitlich befristete Spezialangebote (SpezA) und sonderschulische Angebote.
 
-**Zweck**
+<sup>2</sup> Der Aufenthalt in einem zeitlich befristeten Spezialangebot ist einmalig und dient der Integration bzw. Reintegration in die Regelschule. Der Unterricht richtet sich nach den Zielen und Inhalten der Regelschule.
 
-<sup>1</sup> Für Kinder und Jugendliche mit besonderem Bildungsbedarf sorgt der Kanton für zeitlich befristete Spezialangebote (SpezA), sonderschulische Angebote sowie fallbezogene Einzellösungen wie integrative sonderpädagogische Massnahmen (ISM) und pädagogisch-therapeutische Angebote.
+<sup>3</sup> Die sonderschulischen Angebote richten sich nach der Sonderpädagogik aus und orientieren sich, soweit möglich, an den Zielen und Inhalten der Regelschule. Sie ermöglichen die gesellschaftliche Integration und fördern die Persönlichkeitsentwicklung und selbständige Lebensführung.
 
-<sup>2</sup> Der Aufenthalt in einem zeitlich befristeten SpezA ist einmalig und dient der Integration bzw. Reintegration in die Regelschule. Der Unterricht richtet sich nach den Zielen und Inhalten der Regelschule.
+### 2.2.3.2. Zeitlich befristete Spezialangebote
 
-<sup>3</sup> Die sonderschulischen Angebote richten sich nach der Sonderpädagogik aus und orientieren sich, soweit wie möglich, an den Zielen und Inhalten der Regelschule. Sie ermöglichen die gesellschaftliche Integration und fördern die Persönlichkeitsentwicklung und selbstständige Lebensführung.
-
-<sup>4</sup> Die fallbezogenen Einzellösungen fördern und unterstützen entwicklungsbeeinträchtigte und entwicklungsauffällige Kinder und Jugendliche durch individualisierte Fördermassnahmen und Therapien.
-
-### 3.2.1.<sup>bis</sup> Zeitlich befristete Spezialangebote
-
-#### § 36sexies
+#### § 30
 
 **Vorbereitungsklassen (SpezA VK)**
 
-<sup>1</sup> In die Vorbereitungsklassen (SpezA VK) werden Kinder im Alter von vier bis acht Jahren aufgenommen, die schwere Auffälligkeiten im Bereich Verhalten, Sprache und Kommunikation zeigen. Ziel der SpezA VK ist es, diese Kinder auf den Übertritt in die Regelschule vorzubereiten.
+<sup>1</sup> In die Vorbereitungsklassen (SpezA VK) werden Kinder im Alter von vier bis acht Jahren aufgenommen, die schwere Auffälligkeiten im Bereich Verhalten oder Sprache und Kommunikation zeigen. Ziel der SpezA VK ist es, diese Kinder auf den Übertritt in die Regelschule vorzubereiten.
 
-<sup>2</sup> Der Unterricht basiert auf der systemischen Zusammenarbeit der Fach- und Lehrpersonen und dem intensiven Einbezug der Eltern.
+<sup>2</sup> Der Unterricht basiert auf der systematischen Zusammenarbeit der Fach- und Lehrpersonen und dem intensiven Einbezug der Eltern bzw. Erziehungsberechtigten.
 
-<sup>3</sup> Voraussetzungen für die Aufnahme in die SpezA VK sind:
+<sup>3</sup> Die Schulleitung der Regelschule beantragt die Aufnahme in die SpezA VK bei der kantonalen Aufsichtsbehörde.
 
-- a) Abklärung durch die von der Aufsichtsbehörde bezeichnete Fachstelle;
-- b) Regelung der Modalitäten in einer Zielvereinbarung mit den Eltern;
+<sup>4</sup> Voraussetzungen für die Aufnahme in die SpezA VK sind:
+
+- a) Abklärung durch die vom Kanton bezeichnete Fachstelle;
+- b) Regelung der Modalitäten in einer Zielvereinbarung mit den Eltern bzw. Erziehungsberechtigten;
 - c) Kapazität des Angebots.
 
-<sup>4</sup> Kommt keine Zielvereinbarung mit den Eltern zustande, wird ein Verfahren um Sonderschulung eingeleitet.
+<sup>5</sup> Kommt keine Zielvereinbarung mit den Eltern zustande, wird ein Verfahren um Sonderschulung eingeleitet.
 
-<sup>5</sup> Der Aufenthalt in der SpezA VK dauert zwei Jahre. Anschliessend erfolgt ein Wechsel an die Regelschule der Wohngemeinde oder an eine Sonderschule.
+<sup>6</sup> Der Aufenthalt in den SpezA VK dauert zwei Jahre. Anschliessend erfolgt ein Wechsel in die Regelschule der Wohngemeinde oder in eine Sonderschule.
 
-#### § 36septies
+#### § 31
 
 **Klassen für Kinder mit massiven Verhaltensauffälligkeiten (SpezA Verhalten)**
 
-<sup>1</sup> In die Klassen für Kinder mit massiven Verhaltensauffälligkeiten (SpezA Verhalten) werden Schüler mit massiven Verhaltensauffälligkeiten ab der dritten Primarschulklasse aufgenommen. Der Aufenthalt dauert nicht länger als ein Jahr. In besonderen Fällen kann der Aufenthalt um höchstens ein weiteres Jahr verlängert werden.
+<sup>1</sup> In die Klassen für Kinder mit massiven Verhaltensauffälligkeiten (SpezA Verhalten) werden Schüler und Schülerinnen mit massiven Verhaltensauffälligkeiten ab der dritten Primarschulklasse aufgenommen. Der Aufenthalt dauert nicht länger als ein Jahr. In besonderen Fällen kann der Aufenthalt um höchstens ein weiteres Jahr verlängert werden.
 
-<sup>2</sup> Der Schulleiter der Regelschule beantragt die Aufnahme in die SpezA Verhalten bei der kantonalen Aufsichtsbehörde.
+<sup>2</sup> Die Schulleitung der Regelschule beantragt die Aufnahme in die SpezA Verhalten bei der kantonalen Aufsichtsbehörde.
 
 <sup>3</sup> Voraussetzungen für die Aufnahme in die SpezA Verhalten sind:
 
-- a) Abklärung durch die von der kantonalen Aufsichtsbehörde bezeichneten Fachstelle;
-- b) Regelung der Modalitäten in einer Zielvereinbarung mit den Eltern;
+- a) Abklärung durch die vom Kanton bezeichnete Fachstelle;
+- b) Regelung der Modalitäten in einer Zielvereinbarung mit den Eltern bzw. Erziehungsberechtigten;
 - c) Kapazität des Angebots.
 
-<sup>4</sup> Kommt keine Zielvereinbarung mit den Eltern zustande, entscheidet das Departement über die Aufnahme in die SpezA Verhalten. Vor dem Entscheid hört das Departement die Eltern und den Schulleiter der Regelschule an.
+<sup>4</sup> Kommt keine Zielvereinbarung mit den Eltern bzw. Erziehungsberechtigten zustande, entscheidet das Departement über die Aufnahme in die SpezA Verhalten. Vor dem Entscheid hört das Departement die Eltern bzw. Erziehungsberechtigten und die Schulleitung der Regelschule an.
 
-#### § 36octies
+#### § 32
 
 **Klassen für Kinder aus Durchgangszentren (SpezA Sprache/Kultur)**
 
@@ -616,30 +410,26 @@ beschliesst:
 
 <sup>2</sup> Der Aufenthalt dauert nicht länger als ein Jahr. In besonderen Fällen kann der Aufenthalt um höchstens ein weiteres Jahr verlängert werden.
 
-<sup>3</sup> Bei Bedarf kann der Regierungsrat diese schulischen Angebote befristet mit spezialisierten unterstützenden Diensten wie interkulturelle Vermittlung, Behandlung von Traumata durch Schulpsychologie und Kinder- und Jugendpsychiatrie ausbauen.
+<sup>3</sup> Bei Bedarf kann der Regierungsrat diese schulischen Angebote befristet mit spezialisierten unterstützenden Diensten ergänzen.
 
-#### § 36novies
+#### § 33
 
 **Spezialangebot bei Hospitalisierung (SpezA Med)**
 
-<sup>1</sup> Das Spezialangebot bei Hospitalisierung (SpezA Med) richtet sich an Schüler mit längerem Spitalaufenthalt.
+<sup>1</sup> Das Spezialangebot bei Hospitalisierung (SpezA Med) richtet sich an Schüler und Schülerinnen mit längerem Spitalaufenthalt.
 
 <sup>2</sup> Das SpezA Med setzt eine Kostengutsprache der kantonalen Aufsichtsbehörde voraus. Diese wird erteilt, wenn:
 
-- a) die Spitalschule über eine Leistungsvereinbarung mit dem Kanton Solothurn gemäss § 5 Abs. 3 verfügt und
+- a) die Spitalschule über eine Leistungsvereinbarung mit dem Kanton Solothurn gemäss § 16 verfügt und
 - b) der Spitalaufenthalt länger als zwei Wochen dauert oder über einen längeren Zeitraum wiederkehrende Spitalaufenthalte notwendig sind.
 
-<sup>3</sup> Kann der Unterricht nach einem Spitalaufenthalt nicht ordentlich besucht werden, kann die kantonale Aufsichtsbehörde Einzelbeschulungen zu Hause gemäss den Vorgaben für die Spitalschulung anordnen.
+<sup>3</sup> Kann der Unterricht nach einem Spitalaufenthalt nicht ordentlich besucht werden, kann das Departement Einzelbeschulungen zu Hause gemäss den Vorgaben für die Spitalschulung anordnen.
 
-### 3.2.1.<sup>ter</sup> Sonderschulische Angebote
+### 2.2.3.3. Sonderschulische Angebote
 
-#### § 37
+#### § 34
 
-**…**
-
-#### § 37bis
-
-**Angebot**
+**Sonderschulangebot**
 
 <sup>1</sup> Das Sonderschulangebot für Kinder und Jugendliche mit einer Behinderung umfasst insbesondere:
 
@@ -649,930 +439,935 @@ beschliesst:
 - d) behinderungsbedingte ausserschulische Betreuung;
 - e) behinderungsbedingte Schulheimaufenthalte (Internate);
 - f) behinderungsbedingte Schülertransporte;
-- g) bedarfsweise ausserkantonale Schulung gemäss der interkantonalen Vereinbarung für soziale Einrichtungen vom 20. September 2002 [^37bis-1] (IVSE).
+- g) bedarfsweise Einzelfalllösungen;
+- h) bedarfsweise ausserkantonale Schulung.
 
-<sup>2</sup> Das Angebot beginnt mit Schuleintritt und dauert bis zum Abschluss der Volksschule.
+<sup>2</sup> Das Angebot beginnt mit dem Schuleintritt und dauert bis zum Abschluss der Volksschule.
 
 <sup>3</sup> Das Angebot kann in begründeten Fällen längstens bis zum 20. Altersjahr ausgedehnt werden.
 
-[^37bis-1]: BGS [837.33](https://bgs.so.ch/data/837.33/de).
+#### § 35
 
-#### § 37ter
+**Anspruch auf Sonderschulung**
 
-**Anspruch**
+<sup>1</sup> Die vom Kanton bezeichnete Fachstelle klärt den Anspruch auf Sonderschulung ab.
 
-<sup>1</sup> Die von der kantonalen Aufsichtsbehörde bestimmte Fachstelle klärt den Anspruch auf die Sonderschulung ab.
+<sup>2</sup> Das Departement ordnet die Sonderschulung auf Antrag der Fachstelle an.
 
-<sup>2</sup> Die kantonale Aufsichtsbehörde verfügt namens des Departements die Sonderschulung auf Antrag der kantonalen Fachstelle.
+<sup>3</sup> Das Departement hört zuvor die kommunale Aufsichtsbehörde, die Schulleitung und die Eltern bzw. Erziehungsberechtigten an.
 
-<sup>3</sup> Sie hört zuvor die kommunale Aufsichtsbehörde, die Schulleitung und die Inhaber der elterlichen Sorge an.
+<sup>4</sup> Die Verfügung erfolgt in der Regel zeitlich befristet und mit dem Auftrag, die verfügte Massnahme vor Ablauf der Frist zu überprüfen.
 
-<sup>4</sup> Die Verfügung erfolgt in der Regel zeitlich befristet und mit dem Auftrag, die verfügte Massnahme vor Ablauf dieser Frist zu überprüfen.
+### 2.2.4. Freiwillige Angebote der Schulträger
 
-#### § 37quater
+#### § 36
 
-**Integrative sonderpädagogische Massnahmen (ISM)**
+**Wahlangebote**
 
-<sup>1</sup> Schüler, deren schulische Ausbildung wegen Behinderungen erschwert ist, haben Anrecht darauf, dass eine integrative Schulung in einer Regelschulklasse geprüft wird.
+<sup>1</sup> Die Einwohnergemeinden können zusätzlich zum obligatorischen Unterricht des zweiten und dritten Zyklus freiwillige Wahlangebote für Schüler und Schülerinnen einrichten.
 
-<sup>2</sup> Die schulische Integration wird mit besonderen Massnahmen ermöglicht, namentlich mit:
+<sup>2</sup> Für den Besuch dieser Wahlangebote können die Einwohnergemeinden einen Beitrag der Eltern bzw. Erziehungsberechtigten verlangen. Die Einwohnergemeinden bestimmen die Tarife in einem rechtssetzenden Reglement.
 
-- a) fachlicher Beratung;
-- b) Unterstützung der Lehrperson;
-- c) Begleitung der Regelklasse;
-- d) sonderpädagogischem oder therapeutischem Einzel- und Kleingruppenunterricht;
-- e) individueller Förderplanung.
+#### § 37
 
-#### § 37quinquies
+**Freiwilliger Musikunterricht und freiwilliger Schulsport**
 
-**…**
+<sup>1</sup> Die Einwohnergemeinden können freiwilligen Musikunterricht und freiwilligen Schulsport anbieten.
 
-### 3.2.2. Pädagogisch-therapeutische Angebote
-
-#### § 37sexies
-
-**…**
-
-#### § 37septies
-
-**Angebot**
-
-<sup>1</sup> Das pädagogisch-therapeutische Angebot umfasst insbesondere:
-
-- a) heilpädagogische Früherziehung;
-- b) Logopädie bei Sprachentwicklungsverzögerungen und Sprachgebrechen;
-- c) Psychomotorik bei Bewegungsstörungen.
-
-<sup>2</sup> Die pädagogisch-therapeutischen Massnahmen werden frühzeitig eingesetzt und werden von Geburt an angeboten.
-
-#### § 37octies
-
-**Anspruch**
-
-<sup>1</sup> Die von der kantonalen Aufsichtsbehörde bestimmte Fachstelle klärt den Anspruch auf pädagogisch-therapeutische Massnahmen ab.
-
-<sup>2</sup> Die kantonale Aufsichtsbehörde verfügt namens des Departements die pädagogisch-therapeutischen Massnahmen auf Antrag der kantonalen Fachstelle und nach Anhörung der Inhaber der elterlichen Sorge.
-
-#### § 37novies
-
-**…**
+<sup>2</sup> Sie bestimmen die Tarife in einem rechtsetzenden Reglement.
 
 #### § 38
 
-**…**
+**Aufgabenhilfe**
+
+<sup>1</sup> Die Einwohnergemeinden können betreute Aufgabenhilfe anbieten.
+
+<sup>2</sup> Sie bestimmen die Tarife in einem rechtsetzenden Reglement.
+
+<sup>3</sup> In besonderen Fällen, insbesondere bei längerer Absenz, kann die Schulleitung einen Schüler oder eine Schülerin für eine zeitlich befristete Dauer zum Besuch der betreuten Aufgabenhilfe verpflichten. In diesen Fällen ist das Angebot unentgeltlich.
 
 #### § 39
 
-**…**
+**Schulische Betreuungsangebote**
 
-## 4. Schulträger und Finanzierung
+<sup>1</sup> Die Einwohnergemeinden können freiwillige Betreuungsangebote anbieten.
 
-### 4.1. Schulträger
+<sup>2</sup> Sie bestimmen die Tarife in einem rechtsetzenden Reglement.
 
 #### § 40
 
-**Schulträger**
+**Kantonale Schulträger**
 
-<sup>1</sup> Als Schulträger gelten in diesem Gesetz die Einwohnergemeinden, die Schulkreise sowie der Kanton.
+<sup>1</sup> Die §§ 36 bis 39 gelten für die kantonalen Schulträger sinngemäss.
+
+### 2.2.5. Angebote ausserschulischer Institutionen
 
 #### § 41
 
-**Bildung eines Schulkreises**
+**Kirchlicher Religionsunterricht**
 
-<sup>1</sup> Zwei oder mehrere Einwohnergemeinden können sich zur Führung aller oder bestimmter Schularten, Schulstufen oder Unterrichtszweige zu einem Schulkreis zusammenschliessen.
+<sup>1</sup> Die öffentlich-rechtlich anerkannten Religionsgemeinschaften (Landeskirchen) können den ihnen angehörenden Schülerinnen und Schülern in der öffentlichen Volksschule auf eigene Kosten kirchlichen Religionsunterricht erteilen. Die Schulträger stellen den Landeskirchen dafür die Schulräumlichkeiten zur Verfügung.
 
-<sup>2</sup> Der Zusammenschluss kann durch einen öffentlich-rechtlichen Vertrag oder durch Errichten eines öffentlich-rechtlichen Zweckverbandes erfolgen.
-
-<sup>3</sup> Das Departement genehmigt den Zusammenschluss durch Vertrag, der Regierungsrat denjenigen durch Errichten eines öffentlich-rechtlichen Zweckverbandes.
+<sup>2</sup> Die Eltern bzw. Erziehungsberechtigten können die Schüler und Schülerinnen vor Schuljahresbeginn schriftlich vom kirchlichen Religionsunterricht abmelden. Haben die Schüler und Schülerinnen das 16. Altersjahr zurückgelegt, entscheiden sie selbständig über die Abmeldung vom kirchlichen Religionsunterricht.
 
 #### § 42
 
-**Regelung im Schulkreis**
+**Kurse in heimatlicher Sprache und Kultur**
 
-<sup>1</sup> …
+<sup>1</sup> Ausserschulische Institutionen können Kurse in heimatlicher Sprache und Kultur (HSK) anbieten.
 
-<sup>2</sup> Im Vertrag oder in den Statuten des Schulkreises sind die Schulorte, die Pflichten der Schulortsgemeinden und der übrigen Einwohnergemeinden sowie die weitere Organisation der Schule festzulegen.
+<sup>2</sup> Die Schulträger stellen den ausserschulischen Institutionen dafür die Schulräumlichkeiten zur Verfügung.
 
-<sup>3</sup> Für den Zweckverband gelten ergänzend die Bestimmungen des Gemeindegesetzes[^42-1].
+<sup>3</sup> Der Besuch der HSK-Kurse kann in der schriftlichen Beurteilung (§ 22 Abs. 2) vermerkt werden.
 
-[^42-1]: GS 92, 325 (BGS [131.1](https://bgs.so.ch/data/131.1/de)).
+### 2.2.6. Recht auf Schulbesuch, Schulpflicht und Schulort
 
 #### § 43
 
-**Anordnung der Schulkreisbildung**
+**Recht auf Schulbesuch**
 
-<sup>1</sup> Der Regierungsrat kann die Einwohnergemeinden zum Zusammenschluss zu einem Schulkreis verpflichten und bestehende Schulkreise abändern, sofern dies den Grundsätzen einer vernünftigen Schulplanung entspricht.
-
-<sup>2</sup> Wird der Schulkreis durch Vertrag gebildet und können sich die Einwohnergemeinden nicht einigen, entscheidet der Regierungsrat.
+<sup>1</sup> Alle Kinder mit Aufenthaltsort im Kanton Solothurn haben das Recht auf Besuch der öffentlichen Volksschule.
 
 #### § 44
 
-**Vertragliche Zusammenarbeit ohne Schulkreisbildung**
+**Schulpflicht**
 
-<sup>1</sup> Eine Einwohnergemeinde kann durch Vertrag die Führung einzelner Schularten, Schulstufen oder Unterrichtszweige ausnahmsweise einem anderen Schulträger übertragen, ohne dass ein Schulkreis gebildet wird.
+<sup>1</sup> Alle Kinder mit Aufenthaltsort im Kanton Solothurn haben die Pflicht, die öffentliche Volksschule zu besuchen.
 
-<sup>2</sup> Das Departement genehmigt den Vertrag.
+<sup>2</sup> Die Schulpflicht dauert elf Jahre und beginnt mit dem Eintritt in ein schweizerisches oder ein gleichwertiges ausländisches Schulsystem.
 
-#### § 44bis
-
-**Sekundarschule P**
-
-<sup>1</sup> Die Sekundarschule P wird durch einen kommunalen oder kantonalen Schulträger geführt.
-
-<sup>2</sup> Der Regierungsrat bestimmt nach dem Gebot der Ressourcenoptimierung die Schulträger, die Standorte sowie das Einzugsgebiet der einzelnen Schule.
-
-<sup>3</sup> Der Regierungsrat regelt die Einzelheiten.
-
-### 4.2. Finanzierung
-
-### 4.2.1. Grundsätze der Kostentragung
-
-#### § 44ter
-
-**Kosten Regelschule**
-
-<sup>1</sup> Die kommunalen Schulträger tragen die Kosten für die Volksschule, soweit dieses Gesetz keine anderen Kostenträger vorsieht.
-
-<sup>2</sup> Für den Besuch einer Schule eines anderen Schulträgers zahlt die entlastete Einwohnergemeinde dem Schulträger ein Schulgeld.
-
-<sup>3</sup> Einwohnergemeinden, welche keine eigene Sekundarschule P oder Talentförderklasse führen, leisten dem aufnehmenden Schulträger pro Schüler ein Schulgeld. Der Regierungsrat setzt die Höhe des Schulgeldes fest.
-
-<sup>4</sup> …
-
-<sup>5</sup> Die kommunalen Schulträger können sich an den Kosten für Privatunterricht oder Privatschulen beteiligen. Der Kanton übernimmt diese Kosten nicht.
-
-#### § 44quater
-
-**Kosten kantonale Spezialangebote**
-
-<sup>1</sup> Der Kanton trägt die Kosten für die kantonalen Spezialangebote.
-
-<sup>1<sup>bis</sup></sup> Die Einwohnergemeinden beteiligen sich mit einem Schulgeld an den Angeboten gemäss § 37<sup>bis</sup>[^44quater-1].
-
-<sup>2</sup> Die Inhaber der elterlichen Sorge leisten einen Beitrag an die Verpflegungskosten und an die ausserschulische Betreuung.
-
-<sup>3</sup> Der Regierungsrat legt die Höhe des Schulgeldes und der Verpflegungskostenbeiträge fest.
-
-[^44quater-1]: Die Geltungsdauer von § 44<sup>quater</sup> Absatz 1<sup>bis</sup> wurde mit KRB Nr. SGB 0133/2021 vom 9. November 2021 bis am 31. Juli 2026 verlängert.
-
-#### § 44quinquies
-
-**…**
+<sup>3</sup> Die Schulpflicht endet mit dem 16. Altersjahr.
 
 #### § 45
 
-**…**
+**Eintritt und Austritt**
+
+<sup>1</sup> Die Schüler und Schülerinnen treten mit dem vollendeten vierten Altersjahr in den Kindergarten bzw. in den ersten Zyklus ein. Stichtag ist der 31. Juli.
+
+<sup>2</sup> Die Eltern bzw. Erziehungsberechtigten können nach Rücksprache mit der Schulleitung entscheiden, ob ihr Kind ausnahmsweise ein Jahr später eingeschult werden soll. Eine frühere Einschulung ist ausgeschlossen.
+
+<sup>3</sup> Schülerinnen und Schüler, die das 16. Altersjahr vollendet haben, dürfen die besuchte Schulstufe beenden.
+
+<sup>4</sup> Das Departement kann auf begründetes Gesuch hin bewilligen, dass ein überdurchschnittlich begabter Schüler oder eine überdurchschnittlich begabte Schülerin die Schulpflicht beschleunigt absolvieren bzw. die Schulpflicht ausserhalb der Volksschule erfüllen kann.
+
+<sup>5</sup> Zugezogene Kinder, die ihren früheren Schulbesuch nicht nachweisen können, werden so eingeschult, dass sie mit erfüllen der Schulpflicht die Sekundarstufe I absolviert haben.
 
 #### § 46
 
-**…**
+**Befreiung von der Schulpflicht**
+
+<sup>1</sup> Das Departement kann einen Schüler oder eine Schülerin von der Schulpflicht an der öffentlichen Volksschule befreien, wenn er oder sie einen der öffentlichen Volksschule gleichwertigen Unterricht in einer anderen öffentlichen oder staatlich anerkannten privaten Schule besucht, ein anderes Angebot im Rahmen der vertikalen Durchlässigkeit im Berufsbildungswesen in Anspruch nimmt oder eine gleichwertige Bildung erfährt.
+
+<sup>2</sup> Nach der Befreiung von der Schulpflicht an der öffentlichen Volksschule tragen die Eltern bzw. Erziehungsberechtigten die Verantwortung für eine ausreichende Grundbildung des Kindes.
 
 #### § 47
 
-**…**
+**Reduktion des Unterrichtspensums**
 
-### 4.2.2. Beiträge des Kantons und der kommunalen Schulträger
+<sup>1</sup> Die Schulleitung kann einem Schüler oder einer Schülerin auf Gesuch hin für eine befristete Dauer eine Reduktion des Unterrichtspensums gestatten, wenn gesundheitliche Gründe dies rechtfertigen. Dem Gesuch muss ein aussagekräftiges Arztzeugnis beigelegt werden.
 
-#### § 47bis
+#### § 48
 
-**Schülerpauschalen**
+**Schulort**
 
-<sup>1</sup> Der Kanton entrichtet dem kommunalen Schulträger pro Schüler einen Beitrag an die Kosten der Regelschule (Schülerpauschale). Er berechnet sich aufgrund der Normkostenanteile pro Schul- und Klassenstufe (Grundpauschale) sowie der Kosten für die über das Grundangebot hinaus zu erteilenden Lektionen (Lektionenpauschale).
+<sup>1</sup> Die Schulpflicht ist beim Schulträger des Aufenthaltsortes zu erfüllen.
 
-<sup>2</sup> Die Grundpauschale berechnet sich aus:
+<sup>2</sup> Das Departement kann für einzelne Schüler und Schülerinnen den Schulbesuch an einem anderen Ort bewilligen:
 
-- a) dem Grundlohn der funktionalen Lohnklasse gemäss Gesamtarbeitsvertrag (GAV) vom 25. Oktober 2004[^47bis-1];
-- b) dem durchschnittlichen Erfahrungszuschlag;
-- c) dem wöchentlichen Unterrichtspensum in Lektionen pro Vollzeitstelle;
-- d) den Unterrichtslektionen gemäss Lektionentafel;
-- e) den Abteilungsrichtgrössen gemäss § 12;
-- f) der Schulleitungspauschale;
-- g) den Lektionen pro 100 Schüler für die Spezielle Förderung gemäss § 36 Absatz 2 Buchstaben a–c.
+- a) aus schulorganisatorischen Gründen;
+- b) bei einem verhältnismässig weiten, beschwerlichen oder gefährlichen Schulweg;
+- c) aus gesundheitlichen, familiären oder sozialen Gründen.
 
-<sup>3</sup> Die Lektionenpauschale berechnet sich gemäss Absatz 2 Buchstaben a–d und wird ausgerichtet für:
+### 2.3. Schuldienste
 
-- a) Lektionen gemäss § 36 Absatz 2 Buchstaben d und e;
-- b) zusätzliche Lektionen gemäss § 36 Absatz 2 Buchstaben a, b und c;
-- c) weitere vom Regierungsrat festgelegte Speziallektionen.
+#### § 49
 
-<sup>3<sup>bis</sup></sup> Der Regierungsrat legt die Grund- und Lektionenpauschalen in Form von Bruttopauschalen fest.
+**Schulpsychologischer Dienst**
 
-<sup>4</sup> Der Kantonsrat legt auf der Grundlage des Wirksamkeitsberichts gemäss § 4 des Gesetzes über den Finanz- und Lastenausgleich der Einwohnergemeinden (Finanz- und Lastenausgleichsgesetz, FILAG EG) vom 30. November 2014[^47bis-2] den Beitragsprozentsatz jeweils für vier Jahre fest.
+<sup>1</sup> Der Kanton unterhält einen schulpsychologischen Dienst.
 
-<sup>5</sup> Die Schülerpauschalen werden jährlich nach der Formel A des Anhanges 1 berechnet.
+<sup>2</sup> Dem schulpsychologischen Dienst obliegen insbesondere folgende Aufgaben:
 
-[^47bis-1]: BGS[126.3](https://bgs.so.ch/data/126.3/de).
-[^47bis-2]: GS 2014, 67, (BGS [131.73](https://bgs.so.ch/data/131.73/de)).
+- a) Beratung der Schüler und Schülerinnen, der Eltern bzw. Erziehungsberechtigten, der Lehrpersonen sowie der Schulleitung bei auftretenden Schul- und Erziehungsproblemen (Beratungsstelle);
+- b) Abklärung bei individuellen Problemlagen, Beurteilung von Förderbedarf und Begutachtung externer Fachberichte (Fachstelle);
+- c) Vermittlung bei Gruppenproblemen zwischen Schülerinnen und Schülern, Lehrpersonen und Eltern bzw. Erziehungsberechtigten (Coaching);
+- d) Unterstützung und Institutionsberatung bei ausserordentlichen Ereignissen und in Krisenlagen (Interventionsteam).
 
-#### § 47ter
+<sup>3</sup> Der Regierungsrat regelt die Wirkungsziele, die Finanzierung und die Einzelheiten der Organisation durch Verordnung.
+
+#### § 50
+
+**Schulärztlicher Dienst und Schulzahnpflege**
+
+<sup>1</sup> Aufgaben, Organisation und Finanzierung des schulärztlichen Dienstes und der Schulzahnpflege richten sich nach der Gesundheitsgesetzgebung.
+
+#### § 51
+
+**Schulsozialarbeit**
+
+<sup>1</sup> Aufgaben, Organisation und Finanzierung der Schulsozialarbeit richten sich nach der Sozialgesetzgebung.
+
+### 2.4. Schulorganisation
+
+#### § 52
+
+**Geleitete Schulen**
+
+<sup>1</sup> Die Schule ist eine durch eine Schulleitung geführte pädagogische und betriebliche Handlungseinheit, die im Wesentlichen die Schulleitung, die Lehrpersonen, das übrige Schulpersonal sowie die Schüler und Schülerinnen umfasst.
+
+<sup>2</sup> Sie umfasst sämtliche Schulhäuser eines Schulträgers.
+
+<sup>3</sup> Sie gibt sich ein Leitbild und nimmt ihre Aufgaben nach Massgabe dieses Gesetzes wahr.
+
+#### § 53
+
+**Schuljahr**
+
+<sup>1</sup> Das Schuljahr beginnt administrativ am 1. August. Es umfasst 38 Unterrichtswochen bei 52 Kalenderwochen und 39 Unterrichtswochen bei 53 Kalenderwochen.
+
+<sup>2</sup> Der Regierungsrat bestimmt:
+
+- a) die Dauer der unterrichtsfreien Zeit;
+- b) die Verteilung der Ferien auf das Schuljahr.
+
+<sup>3</sup> Die kommunalen Aufsichtsbehörden legen in regionaler Zusammenarbeit die Ferien fest.
+
+#### § 54
+
+**Unterrichtszeiten**
+
+<sup>1</sup> Das Departement bestimmt die Unterrichts- bzw. Obhutszeit.
+
+#### § 55
+
+**Schülerzahlen**
+
+<sup>1</sup> Der Regierungsrat setzt Richtzahlen für die Klassenbestände und Lerngruppen der einzelnen Schulstufen fest.
+
+### 2.5. Schüler und Schülerinnen sowie Eltern bzw. Erziehungsberechtigte
+
+### 2.5.1. Rechte und Pflichten
+
+#### § 56
+
+**Rechte der Schüler und Schülerinnen**
+
+<sup>1</sup> Die Schüler und Schülerinnen
+
+- a) erhalten einen alters- und stufengerechten sowie ihren geistigen und körperlichen Fähigkeiten entsprechenden Unterricht, welcher den Professionsstandards folgt;
+- b) haben Anspruch auf Achtung ihrer Persönlichkeit;
+- c) erhalten von ihren Lehrpersonen und der Schulleitung angemessen Auskunft über sie betreffende schulische Fragen;
+- d) haben das Recht, an Evaluationen über die Qualität ihrer Schulen und Ausbildungen mitzuwirken.
+
+#### § 57
+
+**Pflichten der Schüler und Schülerinnen**
+
+<sup>1</sup> Die Schüler und Schülerinnen
+
+- a) besuchen den Unterricht und die Schulveranstaltungen lückenlos. Abwesenheiten sind zu begründen;
+- b) tragen mit ihrer Leistungsbereitschaft und ihrem Verhalten zum Erfolg des Unterrichts sowie der Klassen- und Schülergemeinschaft bei;
+- c) sind ihrem Alter und ihrer Schulstufe entsprechend für ihren Bildungsprozess mitverantwortlich;
+- d) halten die Regeln der Schule für einen geordneten Schulbetrieb ein;
+- e) halten die Anordnungen und Weisungen der Lehrpersonen, des übrigen Schulpersonals und der Behörden ein;
+- f) tragen Sorge zu den Lehrmitteln, den Lernmedien, dem Schulmaterial und den Apparaten.
+
+#### § 58
+
+**Rechte der Eltern bzw. Erziehungsberechtigten**
+
+<sup>1</sup> Die Eltern bzw. Erziehungsberechtigten werden
+
+- a) durch die Schulen am Bildungsprozess ihrer Kinder beteiligt;
+- b) über die ihre Kinder betreffenden Fragen, über die Leistungen, die Lernentwicklung, die überfachlichen Kompetenzen und die Absenzen ihrer Kinder und die Arbeit in deren Schulen und Klassen informiert;
+- c) in die Evaluation der Schulen und des kantonalen Bildungswesens einbezogen;
+- d) auf Verlangen von den für ihre Kinder zuständigen Lehrpersonen und der Schulleitung angehört.
+
+#### § 59
+
+**Pflichten der Eltern bzw. Erziehungsberechtigten**
+
+<sup>1</sup> Die Eltern bzw. Erziehungsberechtigten
+
+- a) sind für die Erziehung ihrer Kinder verantwortlich;
+- b) sind für die Bildung ihrer Kinder mitverantwortlich und unterstützen und fördern den schulischen Bildungsprozess ihrer Kinder;
+- c) arbeiten mit den Lehrpersonen und der Schulleitung zusammen und suchen bei offenen Fragen den direkten Kontakt mit ihnen;
+- d) halten ihre Kinder an, die Regeln, Anordnungen und Weisungen der Schule einzuhalten und den Unterricht lückenlos zu besuchen.
+
+#### § 60
+
+**Zusammenarbeit aller Beteiligten**
+
+<sup>1</sup> Behörden, Lehrpersonen, Schüler und Schülerinnen sowie Eltern bzw. Erziehungsberechtigten arbeiten im Rahmen ihrer Verantwortlichkeiten zusammen.
+
+### 2.5.2. Absenzen und Dispensationen
+
+#### § 61
+
+**Absenzen und Dispensationen**
+
+<sup>1</sup> Absenzen und Dispensationen müssen begründet werden. Bei krankheits- oder unfallbedingten Absenzen kann die Schulleitung ein Arztzeugnis verlangen.
+
+<sup>2</sup> Der Regierungsrat regelt die Absenzen- und Dispensationsgründe durch Verordnung.
+
+#### § 62
+
+**Unbegründete Absenzen**
+
+<sup>1</sup> Bleiben Schüler und Schülerinnen erstmals unbegründet dem Unterricht fern, werden die Eltern bzw. Erziehungsberechtigten durch die Lehrperson informiert und aufgefordert, dafür zu sorgen, dass ihre Kinder den Unterricht lückenlos besuchen.
+
+<sup>2</sup> Bleiben Schüler und Schülerinnen wiederholt unbegründet dem Unterricht fern, meldet die Lehrperson den Namen der Schülerin oder des Schülers der Schulleitung. Die Schulleitung verfügt den Schulbesuch schriftlich und droht den Eltern bzw. Erziehungsberechtigten für das wiederholte unbegründete Fernbleiben ihrer Kinder eine Ordnungsbusse an.
+
+### 2.5.3. Disziplinarwesen
+
+#### § 63
+
+**Disziplinarmassnahmen und Ordnungsbussen**
+
+<sup>1</sup> Gegenüber Schülerinnen und Schülern, deren Verhalten zu Beanstandungen Anlass gibt, können die Lehrpersonen und die Schulleitung Disziplinarmassnahmen anordnen. Die Disziplinarmassnahmen müssen erzieherisch sinnvoll sein.
+
+<sup>2</sup> Gegenüber Eltern bzw. Erziehungsberechtigten, die ihre Pflichten verletzen, kann die Schulleitung Ordnungsbussen aussprechen.
+
+#### § 64
+
+**Massnahmen der Lehrperson**
+
+<sup>1</sup> Die Lehrperson kann gegenüber Schülerinnen und Schülern insbesondere folgende Massnahmen anordnen:
+
+- a) zusätzliche Arbeiten innerhalb oder ausserhalb der ordentlichen Unterrichtszeit;
+- b) zeitlich befristete Wegnahme von Objekten, die dem Schüler oder der Schülerin gehören, insbesondere elektronische Geräte, Waffen oder Spielsachen;
+- c) Wegweisung aus der Lektion oder Veranstaltung;
+- d) Ausschluss von einer Veranstaltung;
+- e) Ausschluss vom Unterricht bis höchsten sieben Tage.
+
+<sup>2</sup> Die Lehrperson orientiert bei Disziplinarproblemen frühzeitig die Schulleitung und zieht eine geeignete Fachstelle bei.
+
+#### § 65
+
+**Massnahmen der Schulleitung**
+
+<sup>1</sup> Die Schulleitung kann gegenüber Schülerinnen und Schülern folgende Massnahmen anordnen:
+
+- a) Versetzung in eine andere Klasse oder in ein anderes Schulhaus. Nötigenfalls wird die Versetzung in eine Schule eines anderen Schulträgers veranlasst;
+- b) teilweiser oder vollständiger Ausschluss vom Unterricht während höchstens zwölf Wochen pro Schuljahr.
+
+<sup>2</sup> Die vom Unterricht ausgeschlossenen Schüler und Schülerinnen dürfen sich ohne Genehmigung der Schulleitung während der Schulzeit nicht auf dem Schulareal aufhalten.
+
+<sup>3</sup> Die Schulleitung kann den Eltern bzw. Erziehungsberechtigten eine Ordnungsbusse bis zu 1'000 Franken auferlegen:
+
+- a) für das wiederholte unbegründete Fernbleiben ihrer Kinder vom Unterricht;
+- b) für die Verweigerung der Zusammenarbeit mit den Lehrpersonen und der Schulleitung;
+- c) sofern die Eltern bzw. Erziehungsberechtigten den weiteren Pflichten gegenüber der Schule nicht nachkommen.
+
+#### § 66
+
+**Betreuung und Beschäftigung während eines Unterrichtsausschlusses bis zu sieben Tagen**
+
+<sup>1</sup> Bei einem Unterrichtsausschluss bis zu sieben Tagen sorgen die Eltern bzw. Erziehungsberechtigten für eine angemessene Betreuung und Beschäftigung.
+
+<sup>2</sup> Die Eltern bzw. Erziehungsberechtigten tragen die Kosten der Betreuung und Beschäftigung.
+
+#### § 67
+
+**Betreuung und Beschäftigung während eines Unterrichtsausschlusses von mehr als sieben Tagen**
+
+<sup>1</sup> Dauert der Unterrichtsausschluss länger als sieben Tage, trifft die Kindes- und Erwachsenenschutzbehörde (KESB) die nötigen Abklärungen und ordnet die erforderlichen schulexternen Massnahmen an. Die Schulleitung informiert die KESB umgehend über den Schulausschluss.
+
+<sup>2</sup> Die Kostentragung für die von der KESB angeordneten Massnahmen richtet sich nach dem Schweizerischen Zivilgesetzbuch (ZGB) vom 10. Dezember 1907[^67-1].
+
+<sup>3</sup> Ordnet die KESB keine Massnahmen an, tragen die Eltern bzw. Erziehungsberechtigten die Kosten der Betreuung und Beschäftigung.
+
+[^67-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+
+### 2.6. Lehrpersonen und übriges Schulpersonal
+
+### 2.6.1. Ausübung pädagogischer Tätigkeiten
+
+#### § 68
+
+**Erteilung der Berufsausübungsbewilligung**
+
+<sup>1</sup> Wer im Kanton Solothurn an der Volksschule als Lehrperson oder pädagogisch-therapeutisch tätig sein will, benötigt eine Berufsausübungsbewilligung des Departements.
+
+<sup>2</sup> Die Berufsausübungsbewilligung wird erteilt, wenn die Person
+
+- a) über die für die entsprechende Tätigkeit erforderlichen Ausbildungsabschlüsse verfügt (fachliche Qualifikation);
+- b) physisch und psychisch Gewähr bietet für eine einwandfreie Berufsausübung (persönliche Eignung).
+
+#### § 69
+
+**Entzug der Berufsausübungsbewilligung**
+
+<sup>1</sup> Die Berufsausübungsbewilligung wird vom Departement entzogen, wenn die fachliche Qualifikation oder die persönliche Eignung nicht mehr gewährleistet sind, insbesondere wenn:
+
+- a) die Person ihre Handlungsfähigkeit verloren hat;
+- b) die Person wegen eines Delikts verurteilt worden ist, das sie nach der Art und Schwere der Tat und nach dem Verschulden als nicht vertrauenswürdig beziehungsweise als zur Ausübung der bewilligungspflichtigen Tätigkeit ungeeignet erscheinen lässt;
+- c) aufgrund des Verhaltens der Person erhebliche Zweifel an der persönlichen Eignung bestehen;
+- d) die Person wiederholt durch ihr Verhalten die Sicherstellung des ordentlichen Schulbetriebs ernsthaft gefährdet;
+- e) die Person aus gesundheitlichen Gründen nicht mehr in der Lage ist, die bewilligungspflichtige Tätigkeit auszuüben.
+
+#### § 70
+
+**Erlöschen der Berufsausübungsbewilligung**
+
+<sup>1</sup> Die Berufsausübungsbewilligung erlischt:
+
+- a) mit dem Tod;
+- b) mit dem schriftlichen Verzicht, im Kanton Solothurn tätig zu sein;
+- c) aufgrund eines in einem Strafverfahren rechtskräftig ausgesprochenen Berufsverbots.
+
+### 2.6.2. Meldepflichten
+
+#### § 71
+
+**Meldungen an das Departement**
+
+<sup>1</sup> Die Verwaltungs- und Strafverfolgungsbehörden sowie die Gerichte melden dem Departement sämtliche für ein Verbot oder eine Einschränkung der Berufsausübung erheblichen Vorfälle und Wahrnehmungen.
+
+<sup>2</sup> Eine Person, zu deren Lasten eine Meldung gemäss Absatz 1 erfolgt, hat das Recht, eine Richtigstellung zu verlangen, wenn sich die Anschuldigungen als ungerechtfertigt erweisen. Die Schulleitung hat in geeigneter Weise über die Ergebnisse der Untersuchungen bzw. die ungerechtfertigten Anschuldigungen zu informieren.
+
+#### § 72
+
+**Meldungen des Departements**
+
+<sup>1</sup> Das Departement meldet den zuständigen Behörden inner- und ausserhalb des Kantons sämtliche Sachverhalte, die zum Entzug der Berufsausübungsbewilligung oder zur Auflösung des Anstellungsverhältnisses führen könnten.
+
+### 2.6.3. Personalrechtliche Bestimmungen
+
+#### § 73
+
+**Anwendbares Personalrecht**
+
+<sup>1</sup> Auf die Anstellungsverhältnisse der Lehrpersonen an den öffentlichen Volksschulen und auf die Anstellungsverhältnisse des übrigen kantonalen Schulpersonals finden die Gesetzgebung über das Staatspersonal und der GAV[^73-1] Anwendung.
+
+<sup>2</sup> Die Anstellungsverhältnisse des übrigen kommunalen Schulpersonals richten sich nach dem kommunalen Recht.
+
+[^73-1]: BGS [126.3](https://bgs.so.ch/data/126.3/de).
+
+### 2.7. Zuständigkeiten und Aufgaben der Behörden
+
+### 2.7.1. Kommunale Behörden
+
+#### § 74
+
+**Kommunale Aufsichtsbehörde**
+
+<sup>1</sup> Der Gemeinderat einer Einwohnergemeinde beziehungsweise der Vorstand eines Schulkreises ist die kommunale Aufsichtsbehörde im Volksschulwesen.
+
+<sup>2</sup> Der kommunalen Aufsichtsbehörde obliegen insbesondere folgende Aufgaben:
+
+- a) sie übt die Aufsicht über die kommunalen Schulen aus;
+- b) sie trifft die strategischen Entscheide;
+- c) sie legt das kommunale Volksschulangebot unter Berücksichtigung der kantonalen Vorgaben fest und stellt die dafür erforderlichen personellen und finanziellen Ressourcen und die Infrastruktur sicher;
+- d) sie stellt die Schulleitung an, beauftragt diese mit der Umsetzung des kommunalen Volksschulangebots und stellt das Controlling sicher;
+- e) sie erlässt, unter Vorbehalt der gesetzlichen Kompetenzen der übrigen Gemeindeorgane, eine Schulordnung, die vom Departement genehmigt werden muss;
+- f) sie genehmigt das Schulprogramm.
+
+#### § 75
+
+**Aufgabenübertragung**
+
+<sup>1</sup> Die kommunale Aufsichtsbehörde kann Aufgaben an eine Gemeinderatskommission (§ 71 GG[^75-1]) oder an ein einzelnes Gemeinderatsmitglied (Ressortsystem gemäss § 72 GG[^75-2]) übertragen, sofern:
+
+- a) die Aufgabenübertragung in der Gemeindeordnung vorgesehen ist
+- b) und es sich nicht um unübertragbare Befugnisse gemäss § 70 oder § 97 GG[^75-3] handelt.
+
+[^75-1]: BGS [131.1](https://bgs.so.ch/data/131.1/de).
+[^75-2]: BGS [131.1](https://bgs.so.ch/data/131.1/de).
+[^75-3]: BGS [131.1](https://bgs.so.ch/data/131.1/de).
+
+#### § 76
+
+**Schulleitung**
+
+<sup>1</sup> Die Schulleitung führt die Schule operativ.
+
+<sup>2</sup> Die Schulleitung ist verantwortlich für das Erreichen der von der Gesetzgebung vorgegebenen und mit dem Kanton vereinbarten Wirkungsziele.
+
+<sup>3</sup> Der Schulleitung obliegen insbesondere folgende Aufgaben:
+
+- a) Führung der Schule im Bereich Administration und Finanzen: Vertretung der Schule gegen aussen, Verwaltung der der Schule zugeteilten Mittel;
+- b) Führung der Schule im Bereich Personal: Personalselektion, Personalentwicklung und Personalqualifizierung;
+- c) Führung der Schule im Bereich Pädagogik: Erstellung des Schulprogramms, interne Schul- und Qualitätsentwicklung.
+
+### 2.7.2. Kantonale Behörden
+
+#### § 77
+
+**Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat erlässt den Lehrplan für die Volksschule.
+
+<sup>2</sup> Er schliesst Vereinbarungen über den ausserkantonalen Schulbesuch ab.
+
+#### § 78
+
+**Departement**
+
+<sup>1</sup> Dem Departement obliegen insbesondere folgende Aufgaben:
+
+- a) Verantwortung für das Erreichen der von der Gesetzgebung vorgegebenen Wirkungsziele der Volksschule und der Ziele der einzelnen Schulstufen;
+- b) Weiterentwicklung des Schulsystems und Anpassungen an die aktuellen Bedürfnisse;
+- c) Erstellung einer Bildungsstatistik;
+- d) Festsetzung der Lektionentafel;
+- e) Bewilligung von Abweichungen von den rechtlichen und pädagogischen Vorgaben für eine zeitlich befristete Dauer im Rahmen eines Schulversuchs;
+- f) Genehmigung der kommunalen Schulordnungen und der öffentlich-rechtlichen Verträge über die Zusammenarbeit der Gemeinden;
+- g) Erteilung und Entzug der nach diesem Gesetz erforderlichen Bewilligungen;
+- h) Behandlung von Beschwerden gegen Entscheide der kommunalen Behörden;
+- i) Genehmigung von geringfügigen Anpassungen des Lehrplans.
+
+<sup>2</sup> Das Departement erlässt Weisungen über:
+
+- a) die weiteren Einzelheiten zur Schulorganisation;
+- b) den Inhalt und die Form der schriftlichen Beurteilung der Schüler und Schülerinnen;
+- c) die obligatorisch zu verwendenden Lernmedien in einzelnen Fächern;
+- d) die Informations- und Datensicherheit;
+- e) den Einsatz elektronischer Kommunikations- und Austauschplattformen;
+- f) die Einzelheiten zu Privatschulen und Privatunterricht;
+- g) weitere Bereiche, die für den Vollzug des Gesetzes erforderlich sind.
+
+#### § 79
+
+**Amt**
+
+<sup>1</sup> Das Amt nimmt alle kantonalen Vollzugsaufgaben wahr, die keiner anderen Behörde zugewiesen werden.
+
+#### § 80
+
+**Kantonale Aufsichtsbehörde**
+
+<sup>1</sup> Das Amt ist die kantonale Aufsichtsbehörde für die gesamte Volksschule.
+
+<sup>2</sup> Der kantonalen Aufsichtsbehörde obliegen insbesondere folgende Aufgaben:
+
+- a) sie überwacht die Einhaltung der kantonalen Vorgaben;
+- b) sie schliesst die Vereinbarungen über das kommunale Volksschulangebot mit den kommunalen Aufsichtsbehörden ab;
+- c) sie erteilt Kostengutsprachen für das Spezialangebot bei Hospitalisierung;
+- d) sie übt die Aufsicht über die Privatschulen und den Privatunterricht aus;
+- e) sie übt die Aufsicht über die Organisationen, denen der Regierungsrat Staatsaufgaben übertragen hat, aus.
+
+<sup>3</sup> Die kantonale Aufsichtsbehörde kann in ausserordentlichen Situationen, insbesondere zur Bewältigung einer gesundheitlichen oder wirtschaftlichen Krisensituation, für eine zeitlich befristete Dauer Abweichungen von den pädagogischen, schulorganisatorischen oder finanziellen Bestimmungen dieses Gesetzes bewilligen.
+
+#### § 81
+
+**Weiterbildungsangebot für Lehrpersonen**
+
+<sup>1</sup> Die kantonale Aufsichtsbehörde stellt das kantonale Weiterbildungsangebot für Lehrpersonen sicher.
+
+<sup>2</sup> Die Weiterbildung dient den folgenden Zwecken:
+
+- a) dem Erhalt und der Erweiterung der Kenntnisse und Fähigkeiten der Lehrperson;
+- b) der Erneuerung und Vertiefung der Unterrichtskompetenz;
+- c) dem Erwerb von Kenntnissen und Fähigkeiten für besondere Schularten und neue Fächer;
+- d) dem Erwerb von Kenntnissen und Fähigkeiten zur Erfüllung neuer Aufgaben;
+- e) der Qualitätssicherung.
+
+<sup>3</sup> Die kantonale Aufsichtsbehörde und die Schulleitungen sorgen dafür, dass die Weiterbildung der Lehrpersonen grundsätzlich während der unterrichtsfreien Zeit stattfindet. Aus besonderen Gründen, insbesondere bei gesamtkantonalen Veranstaltungen und kollektiven Weiterbildungen, darf die Weiterbildung auch während der Schulzeit stattfinden.
+
+<sup>4</sup> Die kantonale Aufsichtsbehörde und die Schulleitungen können die Lehrpersonen zur Teilnahme an obligatorischen Weiterbildungskursen und Weiterbildungsveranstaltungen verpflichten.
+
+<sup>5</sup> Der Regierungsrat regelt die Kostenverteilung zwischen dem Kanton, den Schulträgern und den Lehrpersonen durch Verordnung.
+
+#### § 82
+
+**Entscheidbefugnisse bei Uneinigkeit der kommunalen Behörden**
+
+<sup>1</sup> Besteht in einer kommunalen Angelegenheit unter mehreren beteiligten kommunalen Behörden Uneinigkeit, entscheidet die kantonale Aufsichtsbehörde. Vorbehalten bleibt die Zuständigkeit des Regierungsrates bei der Schulkreisbildung (§ 14).
+
+#### § 83
+
+**Aufsichtsrechtliche Massnahmen gegenüber kommunalen Behörden**
+
+<sup>1</sup> Der Regierungsrat kann die Staatsbeiträge an die kommunalen Schulträger kürzen oder streichen:
+
+- a) wenn der ordnungsgemässe Schulbetrieb nicht mehr gewährleistet ist;
+- b) wenn die kommunalen Behörden den Anordnungen der kantonalen Behörden keine Folge leisten;
+- c) bei mehrfachen oder schwerwiegenden Verstössen gegen vertragliche Vereinbarungen;
+- d) bei wiederholtem Nichterreichen der von der Gesetzgebung vorgegebenen oder mit dem Kanton vereinbarten Wirkungsziele.
+
+<sup>2</sup> Der Regierungsrat kann die Wiederherstellung des rechtmässigen Zustandes auf Kosten der fehlbaren kommunalen Behörde anordnen, wenn die festgestellten Mängel nicht innert Frist behoben werden (Ersatzvornahme).
+
+### 2.8. Finanzierung
+
+### 2.8.1. Grundsätze der Kostentragung
+
+#### § 84
+
+**Kosten Regelschule**
+
+<sup>1</sup> Die kommunalen Schulträger tragen die Kosten für die Regelschule.
+
+<sup>2</sup> Der Kanton beteiligt sich mit einer Schülerpauschale an den Kosten der Regelschule.
+
+#### § 85
+
+**Kosten kantonale Spezialangebote**
+
+<sup>1</sup> Der Kanton trägt die Kosten der kantonalen Spezialangebote.
+
+<sup>2</sup> Die Eltern bzw. Erziehungsberechtigten leisten einen Beitrag an die Verpflegungskosten und die ausserschulische Betreuung.
+
+<sup>3</sup> Der Regierungsrat legt die Höhe der Beiträge an die Verpflegungskosten und die ausserschulische Betreuung fest.
+
+#### § 86
+
+**Beschaffung der finanziellen Mittel**
+
+<sup>1</sup> Der Kantonsrat bewilligt die für den Vollzug dieses Gesetzes notwendigen Ausgaben.
+
+<sup>2</sup> Die finanziellen Mittel dürfen zusätzlich beschafft werden durch:
+
+- a) Beiträge der Eltern bzw. Erziehungsberechtigten für freiwillige Angebote;
+- b) Fonds, Schenkungen, Spenden und weitere Drittmittel.
+
+### 2.8.2. Beiträge der Einwohnergemeinden
+
+#### § 87
 
 **Kostenbeiträge im Schulkreis**
 
-<sup>1</sup> Die beteiligten Einwohnergemeinden eines Schulkreises haben an die Bau-, Unterhalts- und Betriebskosten der Schulen Beiträge zu leisten.
+<sup>1</sup> Die an einem Schulkreis beteiligten Einwohnergemeinden haben an die Kosten der Schulen Beiträge zu leisten.
 
-#### § 47quater
+<sup>2</sup> Die Beiträge werden in den Zweckverbandsstatuten oder im öffentlich-rechtlichen Vertrag geregelt.
 
-**Auswärtiger Schulbesuch**
+#### § 88
 
-<sup>1</sup> Für auswärtige Schulbesuche von Schülern mit Wohnsitz im Kanton Solothurn werden die Schülerpauschalen wie folgt ausgerichtet:
+**Kostenbeiträge an Schulträger ausserhalb des Schulortes der Schüler und Schülerinnen**
 
-- a) Beim innerkantonalen Schulbesuch leistet der Kanton die Schülerpauschale an den aufnehmenden Schulträger; bei der Verrechnung zwischen den Einwohnergemeinden beziehungsweise Schulkreisen gilt das Nettoprinzip.
-- b) …
-- c) Beim ausserkantonalen Schulbesuch leistet der Kanton die Schülerpauschale an den entsendenden Schulträger.
+<sup>1</sup> Für den Besuch einer Schule ausserhalb des Kantons zahlt die entlastete Einwohnergemeinde dem aufnehmenden Schulträger ein Schulgeld, dessen Höhe im Regionalen Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (RSA 2009) vom 23. November 2007[^88-1] festgelegt wird.
 
-<sup>2</sup> Beim innerkantonalen Schulbesuch leistet der Kanton den gemäss § 47<sup>bis</sup> Absatz 4 festgelegten Beitragsprozentsatz der Bruttopauschalen.
+<sup>2</sup> Besuchen einzelne Schüler und Schülerinnen die Schule ausserhalb des Schulortes innerhalb des Kantons, wird kein Schulgeld ausgerichtet.
 
-<sup>3</sup> Beim ausserkantonalen Schulbesuch leistet der Kanton den gemäss § 47<sup>bis</sup> Absatz 4 festgelegten Beitragsprozentsatz des interkantonalen Schulgeldes.
+<sup>3</sup> Besuchen mehrere Schüler und Schülerinnen aus einem Teil einer Einwohnergemeinde, insbesondere einem Ortsteil, einem Quartier oder einem Weiler, die Schule ausserhalb des Schulorts innerhalb des Kantons, zahlt die entlastete Einwohnergemeinde dem aufnehmenden Schulträger ein Schulgeld. Die entlastete Einwohnergemeinde und der aufnehmende Schulträger legen die Höhe des Schulgeldes vertraglich fest. Das Schulgeld darf die Ansätze des RSA 2009[^88-2] nicht überschreiten.
 
-#### § 47quinquies
+[^88-1]: BGS [411.241](https://bgs.so.ch/data/411.241/de).
+[^88-2]: BGS [411.241](https://bgs.so.ch/data/411.241/de).
 
-**Weiterbildung**
+#### § 89
 
-<sup>1</sup> Der Regierungsrat regelt die Verteilung der Weiterbildungskosten zwischen Kanton, kommunalen Schulträgern und Lehrern.
+**Beiträge an die progymnasiale Ausbildung und die Talentförderklasse**
 
-#### § 47sexies
+<sup>1</sup> Einwohnergemeinden, die keine eigene progymnasiale Ausbildung oder Talentförderklasse führen, leisten dem aufnehmenden Schulträger ein Schulgeld. Der Regierungsrat setzt die Höhe des Schulgeldes fest.
 
-**Freiwilliger kommunaler Musikunterricht**
+#### § 90
+
+**Beiträge an die Unterkunfts- und Verpflegungskosten**
+
+<sup>1</sup> Bei einem unverhältnismässig weiten oder beschwerlichen Schulweg hat die Einwohnergemeinde einen angemessenen Beitrag an allfällige Kosten für die auswärtige Unterkunft und die auswärtige Verpflegung zu leisten.
+
+### 2.8.3. Beiträge des Kantons
+
+#### § 91
+
+**Schülerpauschalen**
+
+<sup>1</sup> Der Kanton beteiligt sich mit einer Schülerpauschale an den Kosten der Regelschule.
+
+#### § 92
+
+**Berechnung der Schülerpauschalen**
+
+<sup>1</sup> Die Schülerpauschale berechnet sich aufgrund der Normkostenanteile pro Schul- und Klassenstufe (Grundpauschale) sowie der Kosten für die über das Grundangebot hinaus zu erteilenden Lektionen (Lektionenpauschale).
+
+#### § 93
+
+**Berechnung der Grundpauschalen**
+
+<sup>1</sup> Die Grundpauschale berechnet sich aus:
+
+- a) dem Grundlohn der funktionalen Lohnklasse gemäss GAV[^93-1];
+- b) dem durchschnittlichen Erfahrungszuschlag;
+- c) dem wöchentlichen Unterrichtspensum in Lektionen pro Vollzeitstelle;
+- d) den Unterrichtslektionen gemäss Lektionentafel;
+- e) den Klassenbeständen;
+- f) der Schulleitungspauschale;
+- g) den Lektionen pro 100 Schüler und Schülerinnen für die Spezielle Förderung gemäss § 26 Absatz 2 Buchstabe a, b und c.
+
+[^93-1]: BGS [126.3](https://bgs.so.ch/data/126.3/de).
+
+#### § 94
+
+**Berechnung der Lektionenpauschalen**
+
+<sup>1</sup> Die Lektionenpauschale berechnet sich gemäss § 93 Absatz 1 Buchstabe a - d und wird ausgerichtet für:
+
+- a) Lektionen gemäss § 26 Absatz 2 Buchstabe d und e;
+- b) zusätzliche Lektionen gemäss § 26 Absatz 2 Buchstabe a, b und c;
+- c) weitere vom Regierungsrat festgelegte Speziallektionen.
+
+#### § 95
+
+**Festsetzung**
+
+<sup>1</sup> Der Regierungsrat legt die Grund- und Lektionenpauschalen in Form von Bruttopauschalen fest.
+
+<sup>2</sup> Der Kantonsrat legt auf der Grundlage des Wirksamkeitsberichts gemäss § 4 des Gesetzes über den Finanz- und Lastenausgleich der Einwohnergemeinden (Finanz- und Lastenausgleichsgesetz; FILAG EG) vom 30. November 2014[^95-1] den Beitragsprozentsatz jeweils für vier Jahre fest.
+
+<sup>3</sup> Die Schülerpauschalen werden jährlich nach der Formel A des Anhangs 1 berechnet.
+
+[^95-1]: BGS [131.73](https://bgs.so.ch/data/131.73/de).
+
+#### § 96
+
+**Auszahlung der Schülerpauschalen**
+
+<sup>1</sup> Besuchen Schüler und Schülerinnen die Schule ausserhalb des Schulortes, werden die Schülerpauschalen wie folgt ausgerichtet:
+
+- a) beim innerkantonalen Schulbesuch leistet der Kanton die Schülerpauschalen an den aufnehmenden Schulträger;
+- b) beim ausserkantonalen Schulbesuch leistet der Kanton die Schülerpauschalen an den entsendenden Schulträger.
+
+<sup>2</sup> Beim innerkantonalen Schulbesuch leistet der Kanton den Beitragsprozentsatz der Bruttopauschalen.
+
+<sup>3</sup> Beim ausserkantonalen Schulbesuch leistet der Kanton den Beitragsprozentsatz des interkantonalen Schulgeldes.
+
+#### § 97
+
+**Beiträge an den freiwilligen kommunalen Musikunterricht**
 
 <sup>1</sup> Der Kanton gewährt den Einwohnergemeinden Beiträge an den Lohn der Lehrpersonen für den freiwilligen kommunalen Musikunterricht in Form einer indexierten Musikschulpauschale pro Fachbelegung.
 
 <sup>2</sup> Der Regierungsrat legt die Höhe der Musikschulpauschale jährlich fest.
 
-#### § 48
-
-**Unterkunfts- und Verpflegungskosten**
-
-<sup>1</sup> Bei unverhältnismässig weitem oder beschwerlichem Schulweg hat die Einwohnergemeinde allfällige Kosten für auswärtige Unterkunft zu übernehmen und an Auslagen für auswärtige Verpflegung einen angemessenen Beitrag zu leisten. Der Kanton beteiligt sich mit Pauschalbeiträgen an den Kosten.
-
-<sup>2</sup> Der Regierungsrat legt die Höhe der Unterkunfts- und Verpflegungskostenbeiträge fest.
-
-### 4.2.3. Finanzplanung, Auszahlung und Abrechnung
-
-#### § 48bis
-
-**Planungsprozess**
-
-<sup>1</sup> Die fachliche Leistungsvereinbarung des Kantons mit den kommunalen Schulträgern dient als Grundlage für die Finanzplanung und den Voranschlag sowie für die Akontozahlungen des Kantons an die kommunalen Schulträger.
-
-<sup>2</sup> Kommunale Schulträger, welche durch eigenes Verschulden bis zum 15. November über keine der kantonalen Aufsichtsbehörde eingereichte Planung verfügen, erhalten keine Akontozahlungen.
-
-#### § 48ter
-
-**Akontozahlungen und Abrechnung**
-
-<sup>1</sup> Die Akontozahlungen des Kantons an die kommunalen Schulträger erfolgen quartalsweise im ersten, zweiten und dritten Quartal des laufenden Kalenderjahres.
-
-<sup>2</sup> Die Abrechnung erfolgt für das laufende Kalenderjahr im vierten Quartal basierend auf dem abgeschlossenen Schuljahr.
-
-## 5. Lehrer
-
-### 5.1. Voraussetzungen für die Ausübung des Lehrberufes
-
-#### § 49
-
-**Grundsatz**
-
-<sup>1</sup> Die vom Departement erteilte Unterrichtsberechtigung (Berufsausübungsbewilligung) ist Voraussetzung für die Ausübung des Lehrberufs. Diese wird erteilt, wenn kumulativ folgende Voraussetzungen erfüllt sind:
-
-- a) die für die Ausübung des Lehrberufs notwendige persönliche Eignung;
-- b) die für die entsprechende Lehrtätigkeit erforderliche fachliche Qualifikation (Lehrberechtigung);
-
-<sup>2</sup> Vorbehalten bleibt § 50 Absatz 3.
-
-#### § 50
-
-**Lehrberechtigung**
-
-<sup>1</sup> Die Lehrberechtigung bestätigt die fachliche Qualifikation einer Lehrperson und wird grundsätzlich von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) erteilt und entzogen. Vorbehalten bleibt § 95<sup>bis</sup>.
-
-<sup>2</sup> Als Lehrperson für die entsprechende Schulart und Schulstufe kann angestellt werden, wer über ein von der EDK anerkanntes Lehrdiplom (Lehrberechtigung) oder eine Gleichwertigkeitsanerkennung des Departements verfügt.
-
-<sup>3</sup> Lehrpersonen, deren Lehrdiplome nicht anerkannt sind und die über keine Gleichwertigkeitsanerkennung verfügen, können während vier Jahren nur befristet angestellt werden.
-
-- a) …
-- b) …
-
-#### § 50bis
-
-**Unterrichtsberechtigung**
-
-<sup>1</sup> Die Unterrichtsberechtigung ist eine Berufsausübungsbewilligung. Sie wird vom Departement für Bildung und Kultur erteilt und entzogen.
-
-<sup>2</sup> Die Unterrichtsberechtigung wird erteilt, wenn eine Lehrperson die in § 49 genannten Anstellungsvoraussetzungen erfüllt.
-
-<sup>3</sup> Die Unterrichtsberechtigung wird entzogen, wenn die persönliche oder fachliche Eignung der Lehrperson für eine genügende Berufsausübung nicht mehr gewährleistet ist, insbesondere, wenn:
-
-- a) sie ihre Handlungsfähigkeit verloren hat;
-- b) sie wegen eines Delikts verurteilt worden ist, das sie nach Art und Schwere der Tat und dem Verschulden nach als nicht vertrauenswürdig bzw. zur Ausübung des Lehrberufes ungeeignet erscheinen lässt;
-- c) sie wiederholt durch ihr Verhalten die Sicherstellung des ordentlichen Schulbetriebes ernsthaft gefährdet hat;
-- d) sie sonst offensichtlich unfähig geworden ist, ihren Beruf auszuüben.
-
-<sup>4</sup> Der Regierungsrat regelt die Einzelheiten und das Verfahren.
-
-#### § 51
-
-**…**
-
-### 5.2. Anstellungsverhältnisse der Lehrer und der Schulhilfen
-
-#### § 51bis
-
-**Grundsatz**
-
-<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, finden auf die Anstellungsverhältnisse der Lehrer und der Schulhilfen die Gesetzgebung über das Staatspersonal[^51bis-1] und der Gesamtarbeitsvertrag (GAV) vom 25. Oktober 2004[^51bis-2] Anwendung.
-
-<sup>2</sup> Der Verband der Solothurner Einwohnergemeinden ist in die Verhandlungen über den Gesamtarbeitsvertrag einzubeziehen. Er ist berechtigt, zu Verhandlungsergebnissen Stellung zu nehmen.
-
-[^51bis-1]: BGS [126.1](https://bgs.so.ch/data/126.1/de).
-[^51bis-2]: BGS [126.3](https://bgs.so.ch/data/126.3/de).
-
-#### § 52
-
-**Entstehung des Anstellungsverhältnisses**
-
-<sup>1</sup> Das Anstellungsverhältnis wird mit schriftlichem öffentlich-rechtlichem Vertrag begründet.
-
-#### § 53
-
-**…**
-
-#### § 54
-
-**…**
-
-#### § 55
-
-**…**
-
-#### § 56
-
-**…**
-
-#### § 56bis
-
-**Anrechnung von Erfahrungsjahren**
-
-<sup>1</sup> Für die Festsetzung des Anfangslohnes werden folgende Erfahrungen aus früheren Tätigkeiten angerechnet:
-
-- a) Unterricht an einer öffentlichen Schule in der Schweiz oder im Europäischen Wirtschaftsraum;
-- b) Schulleitung an einer öffentlichen Schule in der Schweiz oder im Europäischen Wirtschaftsraum.
-
-<sup>2</sup> Für die Anrechnung eines Erfahrungsjahres müssen die Tätigkeiten mindestens ein Schulhalbjahr gedauert haben. Schuldienst von einem halben Jahr und mehr gilt als ein ganzes Erfahrungsjahr.
-
-<sup>3</sup> Über Ausnahmen im Einzelfall entscheidet das Volksschulamt namens des Departements.
-
-### 5.3.
-
-#### § 57
-
-**Kündigungsfristen und Termine**
-
-<sup>1</sup> Die Kündigung ist grundsätzlich nur auf Ende eines Schuljahres möglich. Erfolgt die Kündigung infolge Pensionierung, kann sie auch auf Ende eines Schulhalbjahres erklärt werden.
-
-<sup>2</sup> Liegen wichtige Gründe vor, kann die nach § 53 zuständige Anstellungsbehörde einer Lehrkraft die Kündigung auch auf einen andern Zeitpunkt gestatten.
-
-<sup>3</sup> Die Kündigungsfrist des Anstellungsverhältnisses nach Ablauf der Probezeit beträgt beidseitig:
-
-- a) zwei Monate vor Ende eines Schuljahres, wenn die Kündigung aufgrund eines Stellenwechsels innerhalb des Kantons erfolgt;
-- b) …
-- c) vier Monate vor Ende des Schuljahres, wenn das Anstellungsverhältnis für mehr als ein Jahr eingegangen ist.
-
-#### § 58
-
-**…**
-
-#### § 59
-
-**…**
-
-#### § 59bis
-
-**…**
-
-### 5.4. Pflichten und Rechte
-
-#### § 60
-
-**Pflichten der Lehrer a) Grundsatz**
-
-<sup>1</sup> Der Lehrer soll bestrebt sein, den Unterricht mit der erzieherischen Führung der ihm anvertrauten Kinder zu verbinden.
-
-<sup>2</sup> Er vermittelt den Schülern nach bestem Wissen und Gewissen die der Stufe gemässen Kenntnisse und Fertigkeiten, wobei er den unterschiedlichen Begabungen Rechnung trägt.
-
-<sup>3</sup> Er pflegt die Verbindung zwischen Schule und Elternhaus.
-
-<sup>4</sup> Der Pflichtenkreis der Lehrer wird im einzelnen durch die Schulgesetzgebung, die darauf beruhenden Regelungen und die im Bildungsplan festgesetzten Unterrichtsziele bestimmt.
-
-#### § 61
-
-**b) weitere Pflichten**
-
-<sup>1</sup> Die Lehrer sind verpflichtet, den Unterricht zu den festgesetzten Zeiten zu halten und ohne wichtige Gründe keine Stunden ausfallen zu lassen.
-
-<sup>2</sup> Sie haben das ihnen anvertraute Schulmaterial und die Schulbibliothek zu verwalten.
-
-<sup>3</sup> …
-
-#### § 62
-
-**Pensenreduktion ohne Lohnkürzung**
-
-<sup>1</sup> …
-
-<sup>2</sup> Die kantonale Aufsichtsbehörde kann im Einzelfall aus besonderen Gründen das Unterrichtspensum ohne Lohnkürzung angemessen reduzieren.
-
-#### § 63
-
-**Aussetzung des Unterrichts**
-
-<sup>1</sup> Für voraussehbaren Ausfall des Unterrichts hat der Lehrer beim Schulleiter um Urlaub nachzusuchen. Dieser wird bis zu zwei Wochen von ihm, für eine längere Dauer vom Departement für Bildung und Kultur gewährt.
-
-#### § 64
-
-**…**
-
-#### § 65
-
-**…**
-
-#### § 66
-
-**Weiterbildung**
-
-<sup>1</sup> Die Weiterbildung der Lehrer besteht aus
-
-- a) der zusätzlichen Ausbildung neuer Lehrer für besondere Schularten und neue zusätzliche Fächer und Aufgaben;
-- b) dem Erhalten und Erweitern von Kenntnissen und Fähigkeiten der Lehrer;
-- c) der Erneuerung und Vertiefung der Unterrichtskompetenz;
-- d) der Qualitätssicherung.
-
-<sup>2</sup> Die kantonale Aufsichtsbehörde sorgt mittels Dienstleistungsverträgen mit Dritten für das kantonale Weiterbildungsangebot für Lehrer.
-
-#### § 67
-
-**Weiterbildungspflicht und -kosten**
-
-<sup>1</sup> Die kantonale Aufsichtsbehörde und die Schulleiter können die Lehrpersonen sowohl während der Schulzeit als auch während der unterrichtsfreien Zeit zu obligatorischen Weiterbildungskursen und -veranstaltungen verpflichten. Die Schulleiter holen vorgängig das Einverständnis der kantonalen Aufsichtsbehörde ein.
-
-<sup>2</sup> …
-
-<sup>3</sup> Der Regierungsrat kann Formen der Intensivweiterbildung einführen.
-
-#### § 68
-
-**Lehrervereine**
-
-<sup>1</sup> Die Lehrervereine und die Stufen- und Fachkonferenzen dienen dem Departement als Organe der Vernehmlassung und der Lehrerweiterbildung.
-
-<sup>2</sup> …
-
-#### § 68bis
-
-**Beiträge an die Tätigkeit von Organisationen des Bildungswesens**
-
-<sup>1</sup> Der Kanton kann die Tätigkeit von Organisationen, die im Bildungswesen tätig sind, in folgenden Bereichen mit Kantonsbeiträgen unterstützen:
-
-- a) Beratung und Unterstützung von Schulleitungen und Lehrpersonen in schwierigen Schulsituationen;
-- b) Erhaltung, Stärkung und Förderung der physischen und psychischen Gesundheit von Lehrpersonen;
-- c) Organisation und Entwicklung innovativer Projekte.
-
-#### § 69
-
-**…**
-
-## 6. Behörden und Rechtspflege
-
-### 6.1. Behörden der Einwohnergemeinden
-
-### 6.1.1. Kommunale Aufsichtsbehörde
-
-#### § 70
-
-**Kommunale Aufsichtsbehörde**
-
-<sup>1</sup> Der Gemeinderat einer Einwohnergemeinde beziehungsweise der Vorstand eines Schulkreises ist die kommunale Aufsichtsbehörde in Schulfragen.
-
-#### § 71
-
-**Zuständigkeit**
-
-<sup>1</sup> Die kommunale Aufsichtsbehörde ist für die strategischen Entscheide des Schulträgers zuständig.
-
-<sup>2</sup> Sie erlässt, unter Vorbehalt der gesetzlichen Kompetenzen der übrigen Gemeindeorgane, eine Schulordnung, die von der kantonalen Aufsichtsbehörde namens des Departements für Bildung und Kultur zu genehmigen ist.
-
-#### § 72
-
-**Aufgaben**
-
-<sup>1</sup> Die kommunale Aufsichtsbehörde hat insbesondere folgende Aufgaben:
-
-- a) sie legt das kommunale Volksschulangebot des Schulträgers unter Berücksichtigung der kantonalen Vorgaben fest;
-- b) sie passt die Ausgestaltung der Schulleitung den örtlichen Gegebenheiten an;
-- c) sie schliesst die fachliche Leistungsvereinbarung mit den zu erreichenden Zielen mit der kantonalen Aufsichtsbehörde ab;
-- d) sie erteilt dem Schulleiter den Leistungsauftrag;
-- e) sie erstellt ihre mehrjährige Sach- und Finanzplanung, ihre Kreditanträge sowie den Voranschlag und die Rechenschaftsberichte im Bereich des kommunalen Volksschulangebots;
-- f) sie sorgt für Erstellung, Betrieb, Ausrüstung und Unterhalt der Anlagen für das kommunale Volksschulangebot;
-- g) sie prüft die Einhaltung des Voranschlages für die Volksschule im Sinne der Rechtskontrolle;
-- h) sie genehmigt das Leitbild und das Schulprogramm;
-- i) sie stellt die Schulleitung an;
-- j) …
-- k) sie überprüft die Tätigkeit des Schulleiters und die Qualität der Aufgabenerfüllung;
-- l) sie sorgt dafür, dass alle schulpflichtigen Kinder, die sich in der Einwohnergemeinde beziehungsweise im Schulkreis aufhalten, die Schule besuchen.
-- m) …
-
-<sup>2</sup> …
-
-#### § 72bis
-
-**Aufgabenübertragung**
-
-<sup>1</sup> Die kommunalen Schulträger können Aufgaben der kommunalen Aufsichtsbehörde wie folgt übertragen:
-
-- a) Aufgaben nach den §§ 8 Absatz 3, 10<sup>bis</sup> Absatz 2, 19 Absätze 3 und 4 sowie 37<sup>ter</sup> Absatz 3 auf eine Gemeinderatskommission, eine andere in der Gemeindeordnung beziehungsweise in den Statuten oder dem Vertrag des Schulkreises bezeichnete Behörde oder den Schulleiter;
-- b) Aufgaben nach § 72 Buchstaben f, g, k und l auf eine Gemeinderatskommission oder eine andere in der Gemeindeordnung beziehungsweise in den Statuten oder dem Vertrag des Schulkreises bezeichnete Behörde.
-
-<sup>2</sup> Die Übertragung ist in der Schulordnung festzuhalten.
-
-#### § 73
-
-**…**
-
-### 6.1.2.
-
-#### § 74
-
-**…**
-
-### 6.1.3.
-
-#### § 75
-
-**…**
-
-### 6.1.4.
-
-#### § 76
-
-**…**
-
-#### § 77
-
-**…**
-
-### 6.1.5. Schulleiter
-
-#### § 78
-
-**Zuständigkeit**
-
-<sup>1</sup> Der Schulleiter ist verantwortlich für das Erreichen der von der Gesetzgebung vorgegebenen und im Leistungsauftrag festgelegten Wirkungsziele.
-
-#### § 78bis
-
-**Aufgaben a) im Allgemeinen**
-
-<sup>1</sup> Der Schulleiter führt die Schule im operativen Bereich. Er hat die Führungsverantwortung im Bereich der Zielbildungs-, Organisations-, Informations-, Kontroll- und Förderungsverantwortung.
-
-#### § 78ter
-
-**im Besonderen**
-
-<sup>1</sup> Der Schulleiter hat insbesondere folgende Aufgaben:
-
-- a) Personalführung, -selektion und –anstellung, vorbehältlich der Kompetenzen der kommunalen Aufsichtsbehörde (§ 72);
-- b) Personalbeurteilung;
-- c) fachliche Leitung;
-- d) administrative Leitung;
-- e) Schulentwicklung;
-- f) Internes Qualitätsmanagement;
-- g) Ausübung der Finanzkompetenzen im Rahmen des Gemeindevoranschlages;
-- h) Vertretung der Schule gegen aussen sowie Zusammenarbeit mit Institutionen ausserhalb der Schule und mit den Eltern;
-- i) Erfüllung weiterer Aufgaben, die ihm von der kommunalen Aufsichtsbehörde zugewiesen werden.
-
-#### § 78quater
-
-**Ausführungsbestimmungen**
-
-<sup>1</sup> Der Regierungsrat erlässt Ausführungsbestimmungen über Anstellung, Arbeitspensum, Aufgaben und Kompetenzen, Aus- und Weiterbildung sowie Entlöhnung.
-
-### 6.2. Behörden des Kantons
-
-### 6.2.1. Regierungsrat
-
-#### § 79
-
-**Aufgaben**
-
-<sup>1</sup> Der Regierungsrat ist die oberste kantonale Führungs- und Aufsichtsbehörde, soweit nicht der Kantonsrat zuständig ist.
-
-<sup>2</sup> …
-
-<sup>3</sup> Der Regierungsrat ist befugt, bei wiederholtem Nichterreichen der Wirkungsziele die Staatsbeiträge an die kommunalen Schulträger zu kürzen.
-
-#### § 79bis
-
-**Schulversuche und ausserordentliche Fälle**
-
-<sup>1</sup> Der Regierungsrat ist befugt, für Schulversuche und in ausserordentlichen Fällen Abweichungen von diesem Gesetz zu gestatten.
-
-### 6.2.2. Departement für Bildung und Kultur
-
-#### § 79ter
-
-**Aufgaben**
-
-<sup>1</sup> Das Departement für Bildung und Kultur leitet und beaufsichtigt das gesamte Schulwesen. Es ist in allen Fragen zuständig, deren Behandlung nicht dem Regierungsrat oder einer anderen Instanz übertragen ist.
-
-<sup>2</sup> Es ist verantwortlich für
-
-- a) das Erreichen der Wirkungsziele der Volksschule und der Ziele der einzelnen Stufen durch eine hohe Qualität des Volksschulangebots im ganzen Kanton;
-- b) die Weiterentwicklung des Schulsystems und dessen Anpassung an die aktuellen Erfordernisse.
-
-<sup>3</sup> Das Departement für Bildung und Kultur ist den kommunalen Aufsichtsbehörden fachlich vorgesetzt, verkehrt mit ihnen direkt und ist ihnen gegenüber verfügungsberechtigt.
-
-<sup>4</sup> Es regelt durch Weisungen oder Empfehlungen
-
-- a) die zu verwendenden Lehrmittel;
-- b) die Standardbildungspläne;
-- c) die Lektionentafeln;
-- d) die in § 25 Absatz 3 erwähnten Bereiche;
-- e) weitere Bereiche, soweit sie nicht einer anderen kantonalen Behörde übertragen sind.
-
-### 6.2.3. Volksschulamt
-
-#### § 80
-
-**Volksschulamt**
-
-<sup>1</sup> Das Volksschulamt ist die kantonale Aufsichtsbehörde für die gesamte Volksschule.
-
-<sup>2</sup> Es ist zuständig für die Vollzugsmassnahmen, die durch Gesetz und Verordnung nicht anderen Organen übertragen sind.
-
-<sup>3</sup> Ihm obliegt insbesondere die Bearbeitung der pädagogischen, didaktischen, organisatorischen und personaladministrativen Belange der Volksschule im Hinblick auf eine optimale Unterstützung, Koordination und Weiterentwicklung der Volksschulangebote.
-
-<sup>4</sup> …
-
-<sup>5</sup> Es überwacht die Einhaltung der kantonalen Vorgaben.
-
-#### § 80bis
-
-**Schulleiter der Heilpädagogischen Sonderschulen**
-
-<sup>1</sup> Der Schulleiter der Heilpädagogischen Sonderschulen ist verantwortlich für das Erreichen der von der Gesetzgebung vorgegebenen Ziele.
-
-<sup>2</sup> Er führt die Schulen im operativen Bereich. Er hat die Führungsverantwortung im Bereich der Zielbildungs-, Organisations-, Informations-, Kontroll- und Förderungsverantwortung.
-
-<sup>3</sup> Er hat insbesondere folgende Aufgaben:
-
-- a) Personalführung, -selektion und -anstellung, vorbehältlich der Kompetenzen des Volksschulamtes;
-- b) Personalbeurteilung;
-- c) fachliche Leitung;
-- d) administrative Leitung;
-- e) Schulentwicklung;
-- f) internes Qualitätsmanagement;
-- g) Vertretung der Schule gegen aussen sowie Zusammenarbeit mit Institutionen ausserhalb der Schule und mit den Eltern;
-- h) Erfüllung weiterer Aufgaben, die ihm vom Volksschulamt zugewiesen werden.
-
-#### § 81
-
-**…**
-
-#### § 82
-
-**…**
-
-#### § 83
-
-**…**
-
-#### § 84
-
-**…**
-
-#### § 85
-
-**…**
-
-#### § 86
-
-**…**
-
-#### § 87
-
-**…**
-
-### 6.3. Rechtspflege
-
-#### § 87bis
-
-**Verfahren und Weiterzug von Verfügungen**
-
-<sup>1</sup> Der Erlass von Verfügungen und deren Weiterzug richten sich grundsätzlich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen[^87bis-1] und dem Gesetz über die Gerichtsorganisation[^87bis-2].
-
-[^87bis-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
-[^87bis-2]: BGS [125.12](https://bgs.so.ch/data/125.12/de).
-
-#### § 87ter
-
-**Beschwerden**
-
-<sup>1</sup> Entscheide des Schulleiters können unter Vorbehalt der §§ 87<sup>quater</sup> und 87<sup>quinquies</sup> innert 10 Tagen an die kommunale Aufsichtsbehörde weitergezogen werden.
-
-<sup>1<sup>bis</sup></sup> Entscheide des Schulleiters der Heilpädagogischen Sonderschulen können unter Vorbehalt der §§ 87<sup>quater</sup> und 87<sup>quinquies</sup> innert 10 Tagen an die kantonale Aufsichtsbehörde weitergezogen werden.
-
-<sup>2</sup> Entscheide der kommunalen und der kantonalen Aufsichtsbehörde können innert 10 Tagen an das Departement weitergezogen werden.
-
-<sup>3</sup> Entscheide des Departements betreffend Genehmigungen nach §§ 14, 14<sup>bis</sup>, 41 und 44 können innert 10 Tagen an den Regierungsrat weitergezogen werden. Entscheide des Departements in allen übrigen Fällen können innert 10 Tagen an das Verwaltungsgericht weitergezogen werden.
-
-#### § 87quater
-
-**Beschwerden in Leistungs- und Disziplinarsachen**
-
-<sup>1</sup> Verfügungen der Klassen- und Schulleitungskonferenz, des Schulleiters und der Lehrperson, die Leistungen von Schülern zum Gegenstand haben (wie Aufnahmen und Beförderungen, Zuweisungen zu Kleinklassen und Sonderschulen) sowie über Disziplinarmassnahmen oder –strafen gegen Schüler können innert 10 Tagen an das Departement weitergezogen werden.
-
-<sup>2</sup> Die Entscheide des Departements können innert 10 Tagen an das Verwaltungsgericht weitergezogen werden.
-
-#### § 87quinquies
-
-**Anstände aus dem Anstellungsvertrag**
-
-<sup>1</sup> Rechtsschutz und Rechtspflege aus dem Anstellungsvertrag richten sich nach § 53 des Gesetzes über das Staatspersonal[^87quinquies-1].
-
-[^87quinquies-1]: BGS [126.1](https://bgs.so.ch/data/126.1/de).
-
-## 7. Übergangs- und Schlussbestimmungen
-
-#### § 88
-
-**Einführung des neunten Schuljahres**
-
-<sup>1</sup> Die Einführung des neunten Schuljahres hat innert 5 Jahren nach Annahme dieses Gesetzes zu erfolgen. Liegen besondere Verhältnisse vor, kann der Regierungsrat diese Frist erstrecken.
-
-#### § 89
-
-**…**
-
-#### § 90
-
-**Aufhebung bisheriger Vorschriften**
-
-<sup>1</sup> Mit dem Inkrafttreten des neuen Gesetzes treten alle damit in Widerspruch stehenden früheren Erlasse ausser Kraft.
-
-<sup>2</sup> Insbesondere werden aufgehoben:
-
-- a) das Gesetz über die Primarschulen vom 27. April 1873 mit den seitherigen Änderungen;
-- b) das Gesetz über die Anstellung von Lehrerinnen und die provisorische Lehrerwahl vom 23. April 1899 mit den seitherigen Änderungen;
-- c) das Gesetz über die Bezirksschulen des Kantons Solothurn vom 18. April 1875 mit den seitherigen Änderungen;
-- d) Ziffer 2 des Volksbeschlusses über den Ausbau des kinderpsychiatrischen und schulpsychologischen Dienstes des Kantons Solothurn vom 8. Dezember 1963.
-
-#### § 91
-
-**Änderung bestehender Erlasse**
-
-<sup>1</sup> Die Änderungen wurden in den entsprechenden Erlassen nachgeführt.
-
-#### § 92
-
-**Vollzug**
-
-<sup>1</sup> Der Regierungsrat wird mit dem Vollzug beauftragt.
-
-#### § 93
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk in einem vom Regierungsrat festzusetzenden Zeitpunkt in Kraft.
-
-#### § 94
-
-**Schluss- und Übergangsbestimmung der Teilrevision vom 8. November 2000; Übergang vom Beamten- in das Anstellungsverhältnis**
-
-<sup>1</sup> Alle am 31. Juli 2001 bestehenden Dienstverhältnisse der Lehrkräfte als Beamte oder Beamtinnen werden am 1. August 2001 in Anstellungsverhältnisse überführt. Die Dienstverhältnisse der davon betroffenen Lehrkräfte richten sich ab diesem Zeitpunkt nach den für die Angestellten des Kantons geltenden Vorschriften, soweit dieses Gesetz keine Abweichungen vorsieht.
-
-<sup>2</sup> Das Dienstverhältnis der Lehrkräfte, welche gestützt auf die vor dem 1. August 2001 geltenden Gesetzesvorschriften als Beamte oder Beamtinnen für die Amtsdauer 2001-2005 provisorisch wiedergewählt worden sind, wird am 1. August 2001 in das Anstellungsverhältnis mit Probezeit überführt. Die Probezeit beginnt am 1. August 2001 und dauert mindestens sechs Monate. Die Anstellungsbehörde kann diese im Sinne von § 18<sup>bis</sup> Absatz 3 Gesetz über das Staatspersonal um höchstens sechs Monate verlängern. Die Kündigung des Anstellungsverhältnisses richtet sich nach §18<sup>bis</sup> des Gesetzes über das Staatspersonal. § 28 des Gesetzes über das Staatspersonal bleibt vorbehalten.
-
-#### § 95
-
-**2. Weiterführung von Anstellungen als Lehrbeauftragte von vier und mehr Jahren**
-
-<sup>1</sup> Alle am 31. Juli 2001 bestehenden Anstellungsverhältnisse als Verweser oder Verweserinnen von vier und mehr Jahren, werden am 1. August 2001 in befristete Anstellungsverhältnisse als Lehrbeauftragte überführt. Die Anstellungsbehörde entscheidet bis am 30. April 2002, ob die befristeten Anstellungsverhältnisse ab 1. August 2002 in unbefristete Anstellungsverhältnisse überführt werden können. Wenn eine Überführung in ein unbefristetes Anstellungsverhältnis abgelehnt wird, ist dieses spätestens am 30. April 2002 mit Wirkung per 1. August 2002 zu kündigen.
-
-#### § 95bis
-
-**Übergangsbestimmung zur Teilrevision vom 27. Juni 2006; Aufhebung von § 64**
-
-<sup>1</sup> Lehrpersonen, die bereits vor dem 1. August 2000 die Wählbarkeit erworben haben, und Lehrpersonen, denen das Primarlehrer- und Primarlehrerinnenpatent (Wählbarkeit) aufgrund der Verordnung zur Überführung der Organisationsstrukturen vom Lehrer- und Lehrerinnenseminar zur Pädagogischen Fachhochschule des Kantons Solothurn (Überführungsverordnung PFH) vom 17. Juni 2002[^95bis-1] erteilt worden ist, sowie Lehrpersonen, deren Lehrberechtigung gemäss § 3 der Verordnung über die Anerkennung von Lehrdiplomen vom 4. Juli 2000[^95bis-2] als gleichwertig anerkannt wurde, gelten im Sinne von § 49 als unterrichtsberechtigt.
-
-<sup>2</sup> Für den Entzug vor dem 1. August 2000 erteilter Lehrberechtigungen ist das Departement zuständig.
-
-[^95bis-1]: GS 97, 140.
-[^95bis-2]: BGS [411.256](https://bgs.so.ch/data/411.256/de).
-
-### 7.1. Übergangsbestimmungen der Teilrevision vom 24. April 2005
-
-#### § 96
-
-**Überführung der Organisationsstrukturen**
-
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden vorbehältlich von Absatz 2 die geltenden Organisationsstrukturen der Volksschule aufgehoben, soweit sie den Bestimmungen dieses Gesetzes widersprechen.
-
-<sup>2</sup> Der Regierungsrat kann zur Überführung der geltenden in die neuen Organisationsstrukturen eine Frist von höchstens 5 Jahren festlegen.
-
-<sup>3</sup> Die Änderungen im Gesetz über die Besoldungen der Lehrkräfte an der Volksschule (Lehrerbesoldungsgesetz) vom 8. Dezember 1963[^96-1] wurden nachgeführt.
-
-[^96-1]: GS 82, 461 (BGS [126.515.851.1](https://bgs.so.ch/data/126.515.851.1/de)).
-
-### 7.2. Übergangs- und Schlussbestimmungen der Teilrevision vom 26. November 2006
-
-#### § 97
-
-**Reform der Sekundarstufe I**
-
-<sup>1</sup> Die Überführung der alten in die neue Struktur erfolgt gestaffelt. Der Regierungsrat bestimmt Abfolge und Inhalt der einzelnen Überführungsschritte und darauf abgestimmt das Inkrafttreten der Änderungen der einzelnen Gesetzesbestimmungen aus dieser Teilrevision.
-
-<sup>2</sup> Mit dem jeweiligen Inkrafttreten der einzelnen Änderungen aus dieser Teilrevision werden die denselben widersprechenden früheren Erlasse und Bestimmungen aufgehoben. Der Regierungsrat kann befristete Ausnahmen definieren.
-
-### 7.3. Übergangs- und Schlussbestimmungen der Teilrevision vom 16. Mai 2007
-
 #### § 98
 
-**Aufhebung bisherigen Rechts**
+**Akontozahlungen**
 
-<sup>1</sup> Das Gesetz über heilpädagogische Institutionen (HIG) vom 27. September 1970[^98-1] wird aufgehoben.
+<sup>1</sup> Die Vereinbarung des Kantons mit den kommunalen Aufsichtsbehörden bildet die Grundlage für die Finanzplanung und den Voranschlag sowie die Akontozahlungen des Kantons an die kommunalen Schulträger.
 
-[^98-1]: GS 85, 197 (BGS 837.11).
+<sup>2</sup> Kommunale Schulträger, welche durch eigenes Verschulden bis zum festgelegten Stichtag keine Planung einreichen, erhalten keine Akontozahlungen.
+
+## 3. Privatschulen und Privatunterricht
+
+### 3.1. Privatschulen
 
 #### § 99
 
-**…**
+**Erteilung der Bewilligung**
 
-### 7.4. Übergangsbestimmung zur Teilrevision vom 10. März 2010
+<sup>1</sup> Privatschulen bedürfen einer Bewilligung des Departements.
+
+<sup>2</sup> Die Bewilligung wird erteilt, wenn
+
+- a) die erforderlichen Räumlichkeiten und Apparate zur Verfügung stehen;
+- b) sich die Schulleitung über die notwendigen fachlichen Qualifikationen ausweist und die Lehrpersonen über die erforderlichen Ausbildungsabschlüsse verfügen;
+- c) eine einwandfreie Betriebsführung gewährleistet ist;
+- d) das Bildungsangebot demjenigen der öffentlichen Volksschule (Lehrplan) entspricht;
+- e) die Privatschule den schulärztlichen Dienst sicherstellt.
 
 #### § 100
 
-**Stichtag zur Einschulung**
+**Entzug der Bewilligung**
 
-<sup>1</sup> Als Stichtag für das Schuljahr 2012/2013 gilt der 31. Mai 2012.
+<sup>1</sup> Das Departement entzieht die Bewilligung, wenn die Voraussetzungen für die Bewilligungserteilung nicht mehr erfüllt sind. Fällt eine der Bewilligungsvoraussetzungen weg, ist der Schule vor dem Bewilligungsentzug das rechtliche Gehör zu gewähren und die Gelegenheit zur Beseitigung der Mängel innert angemessener Frist einzuräumen.
 
-<sup>2</sup> Als Stichtag für das Schuljahr 2013/2014 gilt der 30. Juni 2013.
+<sup>2</sup> Das Departement kann die Bewilligung entziehen, wenn Anordnungen der kantonalen Aufsichtsbehörde nicht eingehalten werden.
 
-### 7.5. Übergangsbestimmung zur Teilrevision vom 4. September 2012
+<sup>3</sup> Wird die Bewilligung entzogen, treten die Schüler und Schülerinnen in die öffentliche Volksschule über.
 
 #### § 101
 
-**Schulräume und -anlagen der Heilpädagogischen Sonderschulen**
+**Erlöschen der Bewilligung**
 
-<sup>1</sup> Die gemäss § 14 errichteten und betriebenen Schulräume und -anlagen für die Heilpädagogischen Sonderschulen, die im Eigentum der Gemeinden stehen, werden vom Kanton übernommen.
-
-<sup>2</sup> Deren ursprünglicher Anlagenbeschaffungswert abzüglich der Bundes- und Kantonsbeiträge ergibt den Anschaffungswert der Gemeinde. Der Restwert errechnet sich ausgehend vom Anschaffungswert mit einer jährlichen degressiven Abschreibung von acht Prozent bis zum Stichtag.
-
-<sup>3</sup> Die abtretende Gemeinde entscheidet die Art der Übergabe:
-
-- a) Übergabe ins Eigentum: Der Übernahmepreis ergibt sich aus dem Restwert der Anlage und dem Verkehrswert des Grundstücks oder;
-- b) Übergabe im Baurecht: Der Übernahmepreis ergibt sich aus dem Restwert der Anlage. Das Grundstück wird in einem selbstständigen Baurecht abgegeben und mit vier Prozent Baurechtszins verzinst.
-
-<sup>4</sup> Der Regierungsrat legt den Stichtag und die Zuständigkeit für den Vollzug fest.
-
-### 7.6. Übergangsbestimmung zur Teilrevision vom 27. Februar 2013
+<sup>1</sup> Die Bewilligung erlischt, wenn eine Privatschule ihren Betrieb einstellt.
 
 #### § 102
 
-**Nachobligatorisches Schuljahr**
+**Meldepflichten**
 
-<sup>1</sup> Die Schulträger, welche 2013/2014 ein fakultatives zwölftes Schuljahr geführt haben, dürfen ein solches auch noch in den Schuljahren 2014/2015 und 2015/2016 anbieten.
+<sup>1</sup> Bei wesentlichen Veränderungen im Schulbetrieb hat die Privatschule unverzüglich die kantonale Aufsichtsbehörde zu informieren.
+
+### 3.2. Privatunterricht
 
 #### § 103
 
-**Auflösung des Klassifikationsfonds**
+**Privatunterricht**
 
-<sup>1</sup> Die Mittel des Klassifikationsfonds gemäss § 6 des bisherigen Verteilschlüssels für die Klassifikation der Einwohnergemeinden zur Berechnung des staatlichen Anteils an die Besoldungskosten vom 21. September 1988[^103-1] werden in den Finanz- und Lastenausgleichsfonds gemäss § 21 des Gesetzes über den Finanz- und Lastenausgleich der Einwohnergemeinden (Finanz- und Lastenausgleichsgesetz, FILAG EG) vom 30. November 2014[^103-2] überführt.
+<sup>1</sup> Privatunterricht (Homeschooling) ist Volksschulunterricht, der zu Hause erteilt wird. Es werden ausschliesslich Kinder aus der eigenen Familie unterrichtet.
 
-<sup>2</sup> Die Überführung erfolgt mit dem Inkrafttreten des FILAG EG.
-
-[^103-1]: BGS [126.515.855.11](https://bgs.so.ch/data/126.515.855.11/de).
-[^103-2]: BGS [131.73](https://bgs.so.ch/data/131.73/de).
-
-#### § 105
-
-**Ausgleichsbeiträge an die altrechtlichen Staatsbeiträge bei Gemeindefusionen für drei Jahre ab Inkrafttreten**
-
-<sup>1</sup> Ausgleichsbeiträge an die Staatsbeiträge der Lehrerbesoldungen als Folge eines Gemeindezusammenschlusses werden in Anlehnung an § 30<sup>bis</sup> des Gesetzes über den direkten Finanzausgleich (Finanzausgleichsgesetz) vom 2. Dezember 1984[^105-1] vom Volkswirtschaftsdepartement festgelegt und aus dem Finanz- und Lastenausgleichsfonds gemäss § 21 FILAG EG [^105-2] ausgerichtet.
-
-[^105-1]: BGS [131.71](https://bgs.so.ch/data/131.71/de).
-[^105-2]: BGS [131.73](https://bgs.so.ch/data/131.73/de).
-
-### 7.7. Übergangsbestimmungen zur Teilrevision vom 30. November 2014
+<sup>2</sup> Durch bewilligten Privatunterricht kann die Schulpflicht erfüllt werden.
 
 #### § 104
 
-**Beitragsprozentsatz des Kantons an die ermittelten Schülerpauschalen für die ersten Vollzugsjahre**
+**Erteilung der Bewilligung**
 
-<sup>1</sup> Der Kantonsrat legt auf den Inkraftsetzungszeitpunkt des Gesetzes über den Finanz- und Lastenausgleich der Einwohnergemeinden (Finanz- und Lastenausgleichsgesetz, FILAG EG) vom 30. November 2014[^104-1] den Beitragsprozentsatz nach § 47<sup>bis</sup> Absatz 4 für die ersten vier Vollzugsjahre fest.
+<sup>1</sup> Privatunterricht bedarf einer Bewilligung des Departements.
 
-[^104-1]: BGS [131.73](https://bgs.so.ch/data/131.73/de).
+<sup>2</sup> Die Bewilligung wird erteilt, wenn
 
-Inkrafttreten am 15. April 1970.
+- a) die Lehrpersonen über die erforderlichen Ausbildungsabschlüsse verfügen;
+- b) das Bildungsangebot demjenigen der öffentlichen Volksschule (Lehrplan) entspricht.
 
-§ 53 Absatz 2 am 16. September 1969.
+#### § 105
 
-GS 84, 361
+**Entzug der Bewilligung**
+
+<sup>1</sup> Das Departement entzieht die Bewilligung, wenn die Voraussetzungen für die Bewilligungserteilung nicht mehr erfüllt sind.
+
+<sup>2</sup> Das Departement kann die Bewilligung entziehen, wenn Anordnungen der kantonalen Aufsichtsbehörde nicht eingehalten werden.
+
+<sup>3</sup> Wird die Bewilligung entzogen, treten die Schüler und Schülerinnen in die öffentliche Volksschule über.
+
+#### § 106
+
+**Erlöschen der Bewilligung**
+
+<sup>1</sup> Die Bewilligung erlischt mit dem Tod der Lehrperson.
+
+#### § 107
+
+**Meldepflichten**
+
+<sup>1</sup> Bei wesentlichen Veränderungen haben die Eltern bzw. Erziehungsberechtigten unverzüglich die kantonale Aufsichtsbehörde zu informieren.
+
+<sup>2</sup> Die Eltern bzw. Erziehungsberechtigten haben die Beendigung des Privatunterrichts auf Ende eines Semesters mindestens sechs Wochen im Voraus der kantonalen Aufsichtsbehörde und der kommunalen Schulleitung zu melden.
+
+### 3.3. Aufsicht und Staatsbeiträge
+
+#### § 108
+
+**Aufsicht über Privatschulen und Privatunterricht**
+
+<sup>1</sup> Die Aufsicht über Privatschulen und Privatunterricht obliegt der kantonalen Aufsichtsbehörde.
+
+<sup>2</sup> Die kantonale Aufsichtsbehörde überprüft in regelmässigen Abständen, ob die Voraussetzungen für die Bewilligungserteilung noch erfüllt sind.
+
+#### § 109
+
+**Beiträge an Privatschulen und Privatunterricht**
+
+<sup>1</sup> Der Kanton leistet keine Beiträge an Privatschulen und Privatunterricht.
+
+<sup>2</sup> Die kommunalen Schulträger können sich an den Kosten für Privatschulen und Privatunterricht beteiligen.
+
+<sup>3</sup> Schüler und Schülerinnen, die eine Privatschule besuchen oder privat unterrichtet werden, haben gegenüber Kanton und Einwohnergemeinden keinen Anspruch auf die für die öffentliche Volksschule unentgeltlich zur Verfügung gestellten Leistungen.
+
+## 4. Qualitätssicherung und Rechtsschutz
+
+### 4.1. Qualitätssicherung
+
+#### § 110
+
+**Durchführung**
+
+<sup>1</sup> Die Schulen sorgen für die Qualitätssicherung.
+
+<sup>2</sup> Die Überprüfung der Schulqualität erfolgt durch die kantonale Aufsichtsbehörde. Sie kann dafür eine externe Fachstelle beiziehen.
+
+<sup>3</sup> Die kantonale Aufsichtsbehörde
+
+- a) legt die Qualitätsstandards fest;
+- b) stellt den Schulen ein Instrumentarium für die Qualitätssicherung zur Verfügung;
+- c) kann den Schulen in besonderen Fällen finanzielle Mittel für qualitätssichernde Massnahmen zur Verfügung stellen.
+
+<sup>4</sup> Werden Qualitätsmängel festgestellt, wird dem Schulträger die Gelegenheit zur Beseitigung der Mängel innert angemessener Frist eingeräumt.
+
+<sup>5</sup> Werden wesentliche Qualitätsmängel festgestellt, welche der Schulträger nicht selber beheben kann, sorgt die kantonale Aufsichtsbehörde auf Kosten des Schulträgers für die Durchsetzung der erforderlichen Massnahmen.
+
+#### § 111
+
+**Leistungsmessungen von Schülerinnen und Schülern**
+
+<sup>1</sup> Die Leistungsmessungen liefern Informationen über den jeweiligen Leistungsstand der Schüler und Schülerinnen. Die Leistungsmessungen werden für die individuelle Leistungsbeurteilung im Sinne von § 22 und den förderorientierten Unterricht verwendet.
+
+<sup>2</sup> Die anonymisierten Ergebnisse der Leistungsmessungen vermitteln
+
+- a) dem Departement Kenntnisse über die Wirksamkeit des Bildungssystems;
+- b) den Schulen Angaben für die interne und externe Evaluation.
+
+### 4.2. Rechtsschutz
+
+#### § 112
+
+**Beschwerden gegen Entscheide der kommunalen Behörden**
+
+<sup>1</sup> Entscheide der kommunalen Schulleitung können innert zehn Tagen an die kommunale Aufsichtsbehörde weitergezogen werden.
+
+<sup>2</sup> Entscheide der kommunalen Aufsichtsbehörden können innert zehn Tagen an das Departement weitergezogen werden.
+
+<sup>3</sup> Entscheide der kommunalen Behörden in Leistungs- und Disziplinarsachen können innert zehn Tagen an das Departement weitergezogen werden.
+
+#### § 113
+
+**Beschwerden gegen Entscheide der kantonalen Behörden**
+
+<sup>1</sup> Entscheide der Heilpädagogischen Schulzentren können innert zehn Tagen an das Departement weitergezogen werden.
+
+<sup>2</sup> Entscheide der kantonalen Aufsichtsbehörde können innert zehn Tagen an das Departement weitergezogen werden.
+
+#### § 114
+
+**Beschwerden gegen Departementsentscheide**
+
+<sup>1</sup> Genehmigungsentscheide des Departements können innert zehn Tagen an den Regierungsrat weitergezogen werden.
+
+<sup>2</sup> Die übrigen Departementsentscheide können innert zehn Tagen an das Verwaltungsgericht weitergezogen werden.
+
+#### § 115
+
+**Verfahren**
+
+<sup>1</sup> Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^115-1] und dem Gesetz über die Gerichtsorganisation (GO) vom 13. März 1977[^115-2].
+
+[^115-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
+[^115-2]: BGS [125.12](https://bgs.so.ch/data/125.12/de).
+
+#### § 116
+
+**Streitigkeiten aus dem Anstellungsvertrag**
+
+<sup>1</sup> Der Rechtsschutz bei Streitigkeiten aus dem Anstellungsvertrag richtet sich nach dem Gesetz über das Staatspersonal vom 27. September 1992[^116-1].
+
+[^116-1]: BGS [126.1](https://bgs.so.ch/data/126.1/de).
+
+## 5. Übergangs- und Schlussbestimmungen
+
+### 5.1. Übergangsbestimmungen
+
+#### § 117
+
+**Nach bisherigem Recht erteilte Bewilligungen**
+
+<sup>1</sup> Die vor Inkrafttreten dieses Gesetzes erteilten Bewilligungen bleiben gültig.
+
+#### § 118
+
+**Weiterausübung des Lehrberufs**
+
+<sup>1</sup> Die bisherige Wählbarkeit, das bisherige Primarlehrer- und Primarlehrerinnenpatent und die bisher als gleichwertig anerkannte Lehrberechtigung gelten als ausreichende fachliche Eignung.
+
+<sup>2</sup> Den folgenden Lehrpersonen kann eine Berufsausübungsbewilligung erteilt werden, sofern die persönliche Eignung nachgewiesen wird:
+
+- a) Lehrpersonen, die vor dem 1. August 2000 die Wählbarkeit nach altem Recht erworben haben;
+- b) Lehrpersonen, denen das Primarlehrer- und Primarlehrerinnenpatent nach altem Recht erteilt worden ist (also nach der Verordnung zur Überführung der Organisationsstrukturen vom Lehrer- und Lehrerinnenseminar zur Pädagogischen Fachhochschule des Kantons Solothurn [Überführungsverordnung PFH] vom 17. Juni 2002[^118-1]);
+- c) Lehrpersonen, deren Lehrberechtigung nach altem Recht als gleichwertig anerkannt worden ist (also nach der Verordnung über die Anerkennung von Lehrdiplomen vom 4. Juli 2000[^118-2]).
+
+[^118-1]: GS 97, 140.
+[^118-2]: BGS [411.256](https://bgs.so.ch/data/411.256/de).
+
+#### § 119
+
+**Ausweitung der Bewilligungspflicht**
+
+<sup>1</sup> Personen, die im Zeitpunkt des Inkrafttretens dieses Gesetzes eine Tätigkeit ausüben, die neu der Bewilligungspflicht unterstellt ist, haben innert einem Jahr seit Inkrafttreten dieses Gesetzes ein Gesuch um eine Berufsausübungsbewilligung einzureichen. Wird das Gesuch nicht innert Frist eingereicht, ist die weitere Ausübung der Tätigkeit untersagt.
+
+### 5.2. Schlussbestimmungen
+
+#### § 120
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen durch Verordnung.
+
+KRB Nr. RG 0096/2021 vom 26. Januar 2022.
+
+Dieser Beschluss unterliegt dem fakultativen Referendum.
+
+Die Referendumsfrist ist am 13. Mai 2022 unbenutzt abgelaufen.
+
+Inkrafttreten am 1. August 2023.
+
+Gemäss KRB Nr. SGB 0133/2021 vom 9. November 2021 gilt § 44<sup>quater</sup> Absatz 1<sup>bis</sup> des Volksschulgesetz (VSG) vom 14. September 1969 bis am 31. Juli 2026 weiter und lautet wie folgt: Die Einwohnergemeinden beteiligen sich mit einem Schulgeld an den Angeboten gemäss § 37<sup>bis</sup>.
+
+Publiziert im Amtsblatt vom 26. Mai 2023.
+
+GS 2022, 3
