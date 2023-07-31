@@ -4,13 +4,13 @@ number: "152.110"
 title: Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates
 short: AB
 language: de
-version: 2023-02-01
-valid_until: 2023-07-31
-version_adopted: 2022-01-12
+version: 2023-08-01
+valid_until: 2025-01-31
+version_adopted: 2023-02-08
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5825/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5896/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates: Ausführungsbestimmungen | Grosser Rat / Om
 
 (AB)
 
-Vom 29. Juni 2006 (Stand 1. Februar 2023)
+Vom 29. Juni 2006 (Stand 1. August 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -37,9 +37,9 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Sitzungsort**
 
-<sup>1</sup> Die Beratungen des Grossen Rates finden im Rathaus statt.
+<sup>1</sup> Die Sitzungen des Grossen Rates finden im Rathaus oder bei Vorliegen besonderer Umstände an einem anderen Ort statt. Das Vorliegen besonderer Umstände beschliesst das Ratsbüro.
 
-<sup>2</sup> Das Ratsbüro und die Kommissionen halten ihre Sitzungen im Rathaus oder anderen von ihren Präsidien bestimmten geeigneten Sitzungsräumen ab.
+<sup>2</sup> Das Ratsbüro und die Kommissionen halten ihre Sitzungen im Rathaus oder anderen von ihren Präsidien bestimmten geeigneten Sitzungsräumen ab. Mit der Zustimmung von zwei Drittel der Mitglieder des Ratsbüros bzw. der Kommission können Sitzungen digital abgehalten werden. Die diesbezügliche Beschlussfassung kann elektronisch oder digital erfolgen.
 
 #### § 2
 
@@ -47,13 +47,15 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>1</sup> Die Mitglieder des Grossen Rates nehmen im Plenum ihre Sitze nach Wahlkreisen und in der Reihenfolge der von ihren Parteien und ihnen persönlich erhaltenen Stimmen ein.
 
+<sup>2</sup> Das Ratsbüro kann in begründeten Fällen Änderungen an der Sitzordnung vornehmen.
+
 #### § 3
 
-**Sitzungsdaten**
+**Sessionsdaten**
 
-<sup>1</sup> Die monatliche Sitzung beginnt in der Regel am zweiten Mittwoch eines Monats und wird am dritten Mittwoch fortgesetzt.
+<sup>1</sup> Die Sessionen beginnen in der Regel am zweiten Mittwoch eines Monats und werden am dritten Mittwoch fortgesetzt.
 
-<sup>2</sup> In den Monaten Juli und August finden keine ordentlichen Sitzungen des Grossen Rates statt.
+<sup>2</sup> In den Schulsommerferien und im August finden in der Regel keine Sessionen des Grossen Rates statt.
 
 #### § 4
 
@@ -75,7 +77,7 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Einladung**
 
-<sup>1</sup> Die Einladung zur Sitzung ist spätestens sechs Tage vorher zusammen mit der vorgeschlagenen Tagesordnung und dem Geschäftsverzeichnis den Mitgliedern des Grossen Rates zuzustellen und der Öffentlichkeit zugänglich zu machen.
+<sup>1</sup> Die Einladung zur Session ist spätestens sechs Tage vorher zusammen mit der vorgeschlagenen Tagesordnung und dem Geschäftsverzeichnis den Mitgliedern des Grossen Rates zuzustellen und der Öffentlichkeit zugänglich zu machen.
 
 <sup>2</sup> Der Grosse Rat legt den Gegenstand und den Ablauf einer Sondersitzung gemäss § 97 Abs. 3 lit. b der Kantonsverfassung in einer ordentlichen Sitzung fest.
 
@@ -163,7 +165,7 @@ Für jede halbtägige Sitzung im Plenum:
 
 <sup>1</sup> Der Anspruch auf das Sitzungsgeld entfällt für Mitglieder, die bei Sitzungsbeginn nicht anwesend waren.
 
-<sup>2</sup> Er entfällt auch für Mitglieder, die bei der Feststellung der Beschlussfähigkeit gemäss § 23 Abs. 2 GO oder nach Aufforderung den Saal zu verlassen gemäss § 21 Abs. 2 GO nicht anwesend sind.
+<sup>2</sup> Er entfällt auch für Mitglieder, die bei der Feststellung der Beschlussfähigkeit gemäss § 23 Abs. 2 GO oder nach Aufforderung die Parlamentszone zu verlassen gemäss § 21 Abs. 2 GO nicht anwesend sind.
 
 #### § 14
 
@@ -290,9 +292,9 @@ Für jede halbtägige Sitzung im Plenum:
 
 #### § 27
 
-**Schliessung der Rednerliste**
+**Schliessung der Redeliste**
 
-<sup>1</sup> Mit zwei Dritteln der Stimmen kann der Grosse Rat die Rednerliste schliessen. Bereits für Voten eingeschriebenen Ratsmitgliedern ist das Wort noch zu erteilen.
+<sup>1</sup> Mit zwei Dritteln der Stimmen kann der Grosse Rat einen Ordnungsantrag auf Schliessung der Redeliste annehmen. Bereits für Voten eingeschriebenen Ratsmitgliedern ist das Wort noch zu erteilen.
 
 #### § 28
 
@@ -406,23 +408,25 @@ Für jede halbtägige Sitzung im Plenum:
 
 **Interpellation**
 
-<sup>1</sup> Eine Interpellation ist spätestens am Montag 12.00 Uhr vor der ersten Grossratssitzung eines Monats beim Parlamentsdienst schriftlich und unterzeichnet einzureichen.
+<sup>1</sup> Eine Interpellation ist spätestens am Montag 12.00 Uhr vor der Session beim Parlamentsdienst schriftlich und unterzeichnet einzureichen.
 
 <sup>2</sup> Interpellationen werden auf den Nachmittag des ersten Sitzungstages traktandiert.
 
-<sup>3</sup> Nach der Beantwortung der Interpellation erklärt das interpellierende Mitglied des Grossen Rates, ob es von der Antwort befriedigt ist. Das mit der Beantwortung beauftragte Mitglied des Regierungsrats hat danach das Recht auf eine kurze Erklärung. Der Rat kann Diskussion beschliessen.
+<sup>3</sup> Nach der Beantwortung der Interpellation erklärt das interpellierende Mitglied des Grossen Rates, ob es mit der Antwort zufrieden ist. Das mit der Beantwortung beauftragte Mitglied des Regierungsrats hat danach das Recht auf eine kurze Erklärung. Der Rat kann Diskussion beschliessen.
 
 <sup>4</sup> Das Mitglied des Regierungsrates, dessen Aufgabenbereich die Interpellation betrifft, ist gehalten, bei der Stellungnahme zur Interpellationsbeantwortung anwesend zu sein.
+
+<sup>5</sup> Das interpellierende Ratsmitglied darf bei schriftlicher Beantwortung der Interpellation anstatt der mündlichen Stellungnahme, eine Stellungnahme von nicht mehr als 5000 Zeichen schriftlich zu Protokoll geben.
 
 #### § 40
 
 **Dringliche Interpellation**
 
-<sup>1</sup> Bei ausserordentlichen Vorkommnissen kann eine dringliche Interpellation bis spätestens eine halbe Stunde vor Sitzungsbeginn beim Ratspräsidium schriftlich eingereicht werden.
+<sup>1</sup> Bei ausserordentlichen Vorkommnissen kann eine dringliche Interpellation bis spätestens eine halbe Stunde vor Sessionsbeginn beim Ratspräsidium schriftlich eingereicht werden.
 
 <sup>2</sup> Der Grosse Rat entscheidet bei der Behandlung der Tagesordnung ohne Diskussion mit zwei Dritteln der Stimmen, ob dem Dringlichkeitsbegehren stattgegeben wird.
 
-<sup>3</sup> Eine dringliche Interpellation muss in der gleichen Sitzung mündlich beantwortet werden.
+<sup>3</sup> Eine dringliche Interpellation muss in der gleichen Session mündlich beantwortet werden.
 
 #### § 41
 
@@ -568,7 +572,7 @@ Für jede halbtägige Sitzung im Plenum:
 
 **Zwischenberichte**
 
-<sup>1</sup> Die Präsidien der Spezialkommissionen haben für die letzte Sitzung eines Amtsjahres einen schriftlichen Kurzbericht über den Stand der bei ihnen liegenden unerledigten Geschäfte vorzulegen.
+<sup>1</sup> Die Präsidien der Spezialkommissionen haben für die letzte Session eines Amtsjahres einen schriftlichen Kurzbericht über den Stand der bei ihnen liegenden unerledigten Geschäfte vorzulegen.
 
 <sup>2</sup> Auf Ende einer Amtsperiode haben diese Kommissionen ausführliche Rechenschaftsberichte über ihre Tätigkeit und die bereits gefassten Beschlüsse abzuliefern. Über weitere Zwischenberichte entscheiden die Kommissionen selbst.
 
