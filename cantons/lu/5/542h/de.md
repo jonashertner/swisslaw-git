@@ -3,20 +3,19 @@ canton: LU
 number: 542h
 title: Studien- und Prüfungsordnung für den Joint-Degree-Masterstudiengang Religion – Wirtschaft – Politik
 language: de
-version: 2009-09-01
-valid_until: 2023-07-31
-version_adopted: 2009-06-24
+version: 2023-08-01
+version_adopted: 2023-06-23
 adopted: 2009-06-24
 in_force: 2009-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/542h"
-pdf: "https://srl.lu.ch/api/de/versions/3632/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4102/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung für den Joint-Degree-Masterstudiengang Religion – Wirtschaft – Politik
 
-vom 24.06.2009 (Stand 01.09.2009)
+vom 24.06.2009 (Stand 01.08.2023)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,7 +33,7 @@ beschliesst:
 
 **Studienangebot und Geltungsbereich**
 
-<sup>1</sup> Die Fakultät I für Römisch-katholische Theologie sowie die Fakultät II für Kultur- und Sozialwissenschaften der Universität Luzern (nachfolgend TF beziehungsweise KSF) bieten zusammen mit der Theologischen Fakultät der Universität Basel und der Theologischen Fakultät der Universität Zürich in Verbindung mit dem Zentrum für Religion, Wirtschaft und Politik (nachfolgend ZRWP) einen Joint-Degree-Masterstudiengang in Religion – Wirtschaft – Politik (nachfolgend MA RWP) an.
+<sup>1</sup> Die Theologische Fakultät sowie die Kultur- und Sozialwissenschaftliche Fakultät der Universität Luzern (nachfolgend TF bzw. KSF) bieten zusammen mit der Theologischen Fakultät der Universität Basel und der Theologischen Fakultät der Universität Zürich in Verbindung mit dem Zentrum für Religion, Wirtschaft und Politik (nachfolgend ZRWP) einen Joint-Degree-Masterstudiengang in Religion – Wirtschaft – Politik (nachfolgend MA RWP) an.
 
 <sup>2</sup> Diese Studienordnung gilt für alle Studierenden, die an der Universität Luzern im MA RWP eingeschrieben sind.
 
@@ -50,7 +49,16 @@ beschliesst:
 
 **Studiengangsleitung**
 
-<sup>1</sup> Die Zusammensetzung, Aufgaben und Kompetenzen der Studiengangsleitung sind in der Kooperationsvereinbarung der Universitäten Basel, Luzern und Zürich über den Joint-Degree-Masterstudiengang (MA RWP) vom 9. April 2009 geregelt.
+<sup>1</sup> Die Zusammensetzung, Aufgaben und Kompetenzen der Studiengangsleitung sind in der Kooperationsvereinbarung der Universitäten Basel, Luzern und Zürich über den Joint-Degree-Masterstudiengang (MA RWP) vom 9. April 2009 geregelt. Demgemäss hat die Studiengangsleitung insbesondere folgende Aufgaben:
+
+- a. strategische Ausrichtung und Weiterentwicklung des Studiengangs,
+- b. Erarbeitung der Grundstruktur des Studiengangs,
+- c. Ausarbeitung und Bereitstellung einer universitätsübergreifenden Wegleitung für den Studiengang. Diese ist den Studienordnungen und dem übrigen Recht der jeweiligen Kooperationspartner untergeordnet,
+- d. Planung und administrative Sicherstellung des Lehrangebots sowie die Zuordnung der Lehrveranstaltungen zu den in der Grundstruktur vorgesehenen Modulen,
+- e. Empfehlungen auf Zulassung oder Abweisung von Zulassungsanträgen sowie Festlegung möglicher Auflagen für Studienbewerberinnen und Studienbewerber zuhanden der Dekanate der Kooperationspartner bzw. der Zulassungsbehörde der beteiligten Universitäten,
+- f. Vorschläge über Kooperationen,
+- g. Marketing,
+- h. Ausarbeitung akademischer Berichte.
 
 <sup>2</sup> Die KSF und die TF entsenden je ein Mitglied in die Studiengangsleitung. Beide haben gemeinsam nur eine Stimme.
 
@@ -58,7 +66,7 @@ beschliesst:
 
 **Fakultätsversammlung**
 
-<sup>1</sup> Die Fakultätsversammlungen der KSF und der TF können jeweils sie betreffende Wegleitungen zu dieser Studien- und Prüfungsordnung erlassen.
+<sup>1</sup> Die Fakultätsversammlungen der KSF und der TF können je eine sie betreffende Wegleitung zu dieser Studien- und Prüfungsordnung erlassen.
 
 ## 3 Zulassungs- und Studienvoraussetzungen
 
@@ -68,7 +76,7 @@ beschliesst:
 
 <sup>1</sup> Zum MA RWP wird nur zugelassen, wer mindestens über einen Bachelorabschluss oder einen äquivalenten Abschluss verfügt. Nicht zugelassen wird, wer in einer der in Absatz 2 genannten Studienrichtungen an einer anderen Fakultät des In- oder Auslandes wegen ungenügender Leistungen endgültig abgewiesen worden ist.
 
-<sup>2</sup> Zum Studiengang MA RWP wird zugelassen, wer über ein Bachelordiplom in den Studienrichtungen Religionswissenschaften, Theologie, Volkswirtschaftslehre, Betriebswirtschaftslehre oder Politikwissenschaft bzw. anderer Studiengänge verfügt, die mindestens 60 ECTS in einer der genannten Studienrichtungen umfassen.
+<sup>2</sup> Zum Studiengang MA RWP wird zugelassen, wer über ein Bachelordiplom in den Studienrichtungen Religionswissenschaft, Theologie, Volkswirtschaftslehre, Betriebswirtschaftslehre oder Politikwissenschaft bzw. anderer Studiengänge verfügt, die mindestens 60 Credits in einer der genannten Studienrichtungen umfassen.
 
 <sup>3</sup> Von Inhaberinnen und Inhabern von Bachelordiplomen anderer Studienrichtungen kann vor der Zulassung der Erwerb zusätzlicher Kenntnisse und Fähigkeiten verlangt werden (Zulassung mit Bedingungen).
 
@@ -78,7 +86,7 @@ beschliesst:
 
 **Studienbeginn**
 
-<sup>1</sup> Der Studiengang kann jeweils zum Herbstsemester begonnen werden.
+<sup>1</sup> Der Studiengang kann jeweils zum Herbstsemester oder zum Frühjahrssemester begonnen werden.
 
 ## 4 Studienstruktur
 
@@ -103,10 +111,10 @@ beschliesst:
   - 3\. Politik,
 - c. Meisterkurs,
 - d. Vertiefungsmodule:
-  - 1\. Wirtschaft und Religion,
-  - 2\. Politik und Religion,
-  - 3\. Öffentlichkeit und Religion,
-  - 4\. Weltgesellschaft, Globalisierung,
+  - 1\. Religion und Wirtschaft,
+  - 2\. Religion und Politik,
+  - 3\. Religion und Öffentlichkeit,
+  - 4\. Weltgesellschaft und Globalisierung,
   - 5\. Institutionen, Verbände, Religionsgemeinschaften,
 - e. Profilierungsbereich,
 - f. Masterabschluss (Forschungskolloquium, Masterarbeit und mündliche Verteidigung der Masterarbeit) im Umfang von 30 Credits.
@@ -119,7 +127,7 @@ beschliesst:
 
 <sup>2</sup> Wahlpflichtmodule sind die Basismodule (2 von 3) sowie die Vertiefungsmodule (4 von 5).
 
-<sup>3</sup> Der Profilierungsbereich bildet einen Wahlbereich. Er umfasst das Erbringen von vier (4) Credits zur «Erweiterung der Sozialkompetenz».
+<sup>3</sup> Der Profilierungsbereich bildet einen Wahlbereich. Im Profilierungsbereich können bis zu vier (4) Credits für «universitäres Engagement» erbracht werden.
 
 ## 5 Studienleistungen
 
@@ -209,7 +217,7 @@ beschliesst:
 
 <sup>1</sup> Das Diplom bestätigt den erfolgreichen Abschluss des MA RWP. Es enthält die genaue Bezeichnung des Studiengangs sowie den erworbenen Grad und die Gesamtnote.
 
-<sup>2</sup> Das Diplom wird von der Dekanin oder dem Dekan beider Trägerfakultäten unterzeichnet.
+<sup>2</sup> Das Diplom wird von der Dekanin oder dem Dekan beider Trägerfakultäten an der Universität Luzern sowie den beiden Trägerfakultäten an den Universitäten Basel und Zürich unterzeichnet.
 
 <sup>3</sup> Mit dem Diplom erhält die Absolventin oder der Absolvent einen Diplomzusatz ausgestellt. Dieser enthält detaillierte Angaben zum absolvierten Studium, zur Fächerkombination und zu den in den Prüfungen und Arbeiten erzielten Einzelbewertungen.
 
@@ -236,11 +244,9 @@ beschliesst:
 
 #### § 19
 
-**Aufhebung bisherigen Rechts**
+**Übergangsbestimmung**
 
-<sup>1</sup> Diese Studien- und Prüfungsordnung ersetzt die bisherige Studien- und Prüfungsordnung für den Masterstudiengang Religion – Wirtschaft – Politik vom 25. Juni 2008[^19-1].
-
-[^19-1]: G 2008 306 (SRL Nr. [542h](https://srl.lu.ch/data/542h/de))
+<sup>1</sup> Die Änderungen in §§ 5, 6, 8 und 9 vom 1. August 2023 sind auf alle ab dem Herbstsemester 2023 neu eingeschriebenen Studierenden anwendbar. Die Änderungen in §§ 1, 3, 4 und 16 sind mit deren Inkrafttreten auch auf alle nach bisherigem Recht gemäss dieser Ordnung am MA RWP teilnehmenden Personen anwendbar.
 
 #### § 20
 
