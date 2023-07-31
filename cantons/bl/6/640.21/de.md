@@ -4,13 +4,13 @@ number: "640.21"
 title: Verordnung über die schulische Laufbahn
 short: Laufbahnverordnung
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-06-28
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-06-20
 adopted: 2013-06-11
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.21"
-pdf: "https://bl.clex.ch/api/de/versions/3360/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3919/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3360/pdf_file"
 
 (Laufbahnverordnung)
 
-Vom 11.06.2013 (Stand 01.08.2022)
+Vom 11.06.2013 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -247,7 +247,7 @@ beschliesst:
 
 **Reglemente**
 
-<sup>1</sup> Auf Antrag des Amtes für Volksschulen, der Hauptabteilung Mittelschulen und der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) erlässt die Bildungs-, Kultur- und Sportdirektion Reglemente zur Leistungsbeurteilung, insbesondere über die Art, Durchführung und Gewichtung der Leistungserhebungen, je für die einzelnen Bereiche.
+<sup>1</sup> Auf Antrag des Amts für Volksschulen, der Hauptabteilung Mittelschulen und der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) erlässt die Bildungs-, Kultur- und Sportdirektion Reglemente zur Leistungsbeurteilung, insbesondere über die Art, Durchführung und Gewichtung der Leistungserhebungen, je für die einzelnen Bereiche.
 
 ## 1.3 Individuelle Beurteilung
 
@@ -307,7 +307,7 @@ beschliesst:
 
 <sup>2</sup> Die Erziehungsberechtigten oder die volljährige Schülerin oder der volljährige Schüler richten ein schriftliches Gesuch an den Klassenlehrer bzw. die Klassenlehrerin.
 
-<sup>3</sup> Die Schulleitung entscheidet über das Gesuch auf Antrag der Klassenlehrerin bzw. des Klassenlehrers oder des Klassenkonventes.
+<sup>3</sup> Die Schulleitung entscheidet über das Gesuch auf Antrag der Klassenlehrerin bzw. des Klassenlehrers oder des Klassenkonvents.
 
 <sup>4</sup> Das Überspringen der 6. Klasse der Primarschule oder der 3. Klasse der Sekundarstufe I bedingt eine Empfehlung der Klassenlehrerin bzw. des Klassenlehrers oder des Klassenkonvents.
 
@@ -327,7 +327,7 @@ beschliesst:
 
 <sup>4</sup> Schülerinnen und Schüler am Gymnasium und an der Fachmittelschule, die gemäss dem Reglement über die Förderung zugezogener Schülerinnen und Schüler in den Sprachen Deutsch und Französisch einen Förderunterricht während maximal 2 Schuljahren besuchen, wird die Note des Fachs, in der Förderunterricht besucht wird, im Zeugnis nicht angerechnet. Der Vermerk im Zeugnis lautet «keine Anrechnung der Note gemäss § 23 Abs. 4».
 
-<sup>5</sup> Im letzten Unterrichtsjahr eines Faches werden keine Ausnahmeregelungen bewilligt.
+<sup>5</sup> Im letzten Unterrichtsjahr eines Fachs werden keine Ausnahmeregelungen bewilligt.
 
 #### § 24
 
@@ -335,7 +335,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitung kann auf Antrag des Klassenkonvents aufgrund von vorübergehenden Umständen, welche die Schülerin oder den Schüler im Lernen erheblich behindern, nötigenfalls auf der Grundlage der Abklärung durch eine Fachstelle, von den Bestimmungen dieser Verordnung abweichen. Der Vermerk im Zeugnis lautet «Leistungsbeurteilung gemäss § 24 Abs. 1».
 
-<sup>2</sup> Beim Übertritt von der Primarstufe in die Sekundarstufe I und von der Sekundarstufe I in die Sekundarstufe II sowie im letzten Unterrichtsjahr eines Faches kommt Abs. 1 nicht zur Anwendung.
+<sup>2</sup> Beim Übertritt von der Primarstufe in die Sekundarstufe I und von der Sekundarstufe I in die Sekundarstufe II sowie im letzten Unterrichtsjahr eines Fachs kommt Abs. 1 nicht zur Anwendung.
 
 ## 2 Regelungen zu den einzelnen Schulstufen und Übertritte
 
@@ -448,7 +448,7 @@ beschliesst:
 
 **Übertrittsverfahren**
 
-<sup>1</sup> Die Klassenlehrerin oder der Klassenlehrer bespricht in der 6. Klasse der Primarschule mit den Erziehungsberechtigten im Rahmen des jährlichen Standortgesprächs den Übertritt und unterbreitet ihren oder seinen Vorschlag für die Zuweisung der Schülerin oder des Schülers zum Leistungszug A, E oder P der Sekundarstufe I aufgrund des Zwischenstandes in der Leistungsbeurteilung in allen Fächern und der Gesamtbeurteilung.
+<sup>1</sup> Die Klassenlehrerin oder der Klassenlehrer bespricht in der 6. Klasse der Primarschule mit den Erziehungsberechtigten im Rahmen des jährlichen Standortgesprächs den Übertritt und unterbreitet ihren oder seinen Vorschlag für die Zuweisung der Schülerin oder des Schülers zum Leistungszug A, E oder P der Sekundarstufe I aufgrund des Zwischenstands in der Leistungsbeurteilung in allen Fächern und der Gesamtbeurteilung.
 
 <sup>2</sup> Im Anschluss an das Gespräch händigt die Klassenlehrerin oder der Klassenlehrer den Erziehungsberechtigten den schriftlichen Zuweisungsvorschlag aus.
 
@@ -476,7 +476,7 @@ beschliesst:
 
 <sup>2</sup> Schülerinnen und Schüler, welche die Übertrittsprüfung absolviert haben, weist das Amt für Volksschulen aufgrund des Prüfungsergebnisses gemäss § 36 Abs. 4 dem Leistungszug A, E oder P der Sekundarstufe I zu.
 
-<sup>3</sup> Für Schülerinnen und Schüler, deren Prüfungsergebnis auf einen Leistungszug mit tieferen Anforderungen als der Vorschlag der Klassenlehrerin oder des Klassenlehrers hinweist, richtet sich der Entscheid des Amtes für Volksschulen nach dem Vorschlag.
+<sup>3</sup> Für Schülerinnen und Schüler, deren Prüfungsergebnis auf einen Leistungszug mit tieferen Anforderungen als der Vorschlag der Klassenlehrerin oder des Klassenlehrers hinweist, richtet sich der Entscheid des Amts für Volksschulen nach dem Vorschlag.
 
 <sup>4</sup> Schülerinnen und Schüler, die nicht an der Übertrittsprüfung teilgenommen haben und für die keine Zuweisung durch die Schulleitung der Primarstufe zustande gekommen ist, weist das Amt für Volksschulen gemäss Vorschlag der Klassenlehrerin oder des Klassenlehrers dem Leistungszug A, E oder P der Sekundarstufe I zu.
 
@@ -577,7 +577,7 @@ beschliesst:
 
 <sup>4</sup> Die Schulleitung entscheidet auf Gesuch der Erziehungsberechtigten über den Wechsel des Leistungszugs.
 
-<sup>5</sup> Beim Wechsel eines Leistungszuges oder der Wahlpflicht werden die erforderlichen Kenntnisse vorausgesetzt.
+<sup>5</sup> Beim Wechsel eines Leistungszugs oder der Wahlpflicht werden die erforderlichen Kenntnisse vorausgesetzt.
 
 ### 2.3.3 Volksschulabschluss und Abschlusszertifikat
 
@@ -847,11 +847,12 @@ beschliesst:
 <sup>1</sup> Die definitive Beförderung an der Wirtschaftsmittelschule erfolgt, wenn die folgenden Bedingungen erfüllt sind:
 
 - a. die Promotionsbedingungen gemäss Art. 17 der Verordnung vom 24. Juni 2009[^61-1] über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV) sind erfüllt;
-- b. die 3 folgenden Bedingungen für diejenigen Fächer, welche für das EFZ, jedoch nicht für die Berufsmaturität zählen, sowie für die weiteren Fächer der schulisch organisierten Grundbildung (SOG+) sind erfüllt:
-  - 1\. höchstens 1 Note unter 4;
-  - 2\. höchstens 1 Minuspunkt (Summe der Abweichungen aller Noten unter 4 von der Note 4);
-  - 3\. Notendurchschnitt mindestens 4.0.
+- b. in den Fächern der Berufsmaturität, dem Fach Information, Kommunikation, Technologie (IKT) und den weiteren Fächern der schulisch organisierten Grundbildung (SOG flexibel) sind insgesamt höchstens 3 Noten unter 4, davon nicht mehr als 2 Noten in den unterrichteten Berufsmaturitätsfächern;
+  - 1\. …
+  - 2\. …
+  - 3\. …
 - c. …
+- d. die Summe der Notenabweichungen von 4.0 nach unten beträgt nicht mehr als 2.0 Punkte.
 
 <sup>2</sup> Wer die Voraussetzungen nach Abs. 1 nicht erfüllt, wird provisorisch befördert.
 
@@ -997,6 +998,8 @@ beschliesst:
 <sup>1<sup>quater</sup></sup> Für Schülerinnen und Schüler, die bis und mit Schuljahr 2020/21 die BVS 2 besuchen, gilt § 67 Abs. 3 Bst. h in der Fassung vom 1. August 2018.
 
 <sup>1<sup>quinquies</sup></sup> Für Schülerinnen und Schüler, die bis und mit Schuljahr 2020/21 in die FMS eingetreten sind, gilt § 60 in der am 1. Januar 2021 gültigen Fassung.
+
+<sup>1<sup>sexies</sup></sup> Für Schülerinnen und Schüler, die bis und mit dem Schuljahr 2022/2023 in die WMS eingetreten sind, gelten § 61 sowie Anhang 5a in der am 1. August 2022 geltenden Fassung.
 
 <sup>2</sup> Die Verordnung vom 9. November 2004[^70-2] über Beurteilung, Beförderung, Zeugnis und Übertritt (VO BBZ) gilt für Schülerinnen und Schüler beziehungsweise Lernende, die:
 
