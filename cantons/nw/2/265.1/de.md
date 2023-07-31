@@ -4,38 +4,36 @@ number: "265.1"
 title: Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege
 short: "Verwaltungsrechtspflegegesetz, VRG"
 language: de
-version: 2020-11-01
-corrected: 2022-12-15
-version_adopted: 2020-02-12
+version: 2023-08-01
+valid_until: 2025-12-31
+version_adopted: 2023-03-29
 adopted: 1985-02-08
 in_force: 1985-02-08
 url: "https://gesetze.nw.ch/app/de/texts_of_law/265.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/102/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1289/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRG)
+# Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege
 
-vom 8. Februar 1985[^t-2][^t-1]
+(Verwaltungsrechtspflegegesetz, VRG)
 
-Der Landrat von Nidwalden, gestützt auf Art. 60, 68 und 69a der Kantonsverfassung,[^t-1]
+vom 08.02.1985 (Stand 01.08.2023)
+
+Der Landrat von Nidwalden,
+
+gestützt auf Art. 60, 68 und 69a der Kantonsverfassung,
 
 beschliesst:
 
-[^t-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-[^t-2]: A 1985, 183, 489
+## 1 Allgemeine Bestimmungen
 
-### I. ALLGEMEINE BESTIMMUNGEN
-
-### A. Geltungsbereich
-
-[^hAGeltungsbereich-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+### 1.1 Geltungsbereich
 
 #### Art. 1
 
-**Grundsatz[^hAGeltungsbereich-1]**
+**Grundsatz**
 
 <sup>1</sup> Dieses Gesetz findet Anwendung auf das Verfahren in kantonalen und kommunalen Verwaltungssachen.
 
@@ -43,15 +41,13 @@ beschliesst:
 
 <sup>3</sup> Auf Dienstanweisungen an das Personal des Gemeinwesens ist dieses Gesetz nicht anwendbar.
 
-### B. Begriffe
-
-[^hBBegriffe-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+### 1.2 Begriffe
 
 #### Art. 2
 
-**Realakte[^hBBegriffe-1]**
+**Realakte**
 
-Realakte sind tatsächliche behördliche Handlungen, die sich auf öffentliches Recht stützen.
+<sup>1</sup> Realakte sind tatsächliche behördliche Handlungen, die sich auf öffentliches Recht stützen.
 
 #### Art. 3
 
@@ -60,50 +56,40 @@ Realakte sind tatsächliche behördliche Handlungen, die sich auf öffentliches 
 <sup>1</sup> Als Entscheide im Sinne dieses Gesetzes gelten mit hoheitlicher Befugnis erlassene Verfügungen oder Anordnungen der Behörden mit folgender Wirkung im Einzelfall:
 
 - 1\. Begründung, Änderung oder Aufhebung von Rechten oder Pflichten;
-
 - 2\. Feststellung des Bestehens, Nichtbestehens oder Umfanges von Rechten oder Pflichten;
-
 - 3\. Abweisung von Begehren auf Begründung, Änderung, Aufhebung oder Feststellung von Rechten oder Pflichten oder Nichteintreten auf solche Begehren.
 
 <sup>2</sup> Als Entscheide gelten auch Zwischenentscheide, Ergänzungen und Erläuterungen sowie Vollstreckungsentscheide.
 
-[^3-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 4
 
-**Behörden[^3-1]**
+**Behörden**
 
 <sup>1</sup> Als Behörden im Sinne dieses Gesetzes gelten:
 
 - 1\. das Verwaltungsgericht;
-
 - 2\. der Regierungsrat, die Direktionen, die kantonalen Kommissionen, die kantonalen Amtsstellen sowie die Verwaltungen der kantonalen Anstalten;
-
 - 3\. die administrativen Räte, die Kommissionen und Amtsstellen der Gemeinden sowie die Verwaltungen der kommunalen Anstalten;
-
 - 4\. die Verwaltungsinstanzen der Gemeindeverbände;
-
 - 5\. Dritte, soweit sie in Erfüllung öffentlich-rechtlicher Aufgaben Entscheide treffen oder Realakte vornehmen.
 
-<sup>2</sup> Als Verwaltungsbehörden gelten die Behörden gemäss Ziff. 2-5.
+<sup>2</sup> Als Verwaltungsbehörden gelten die Behörden gemäss Ziff. 2–5.
 
-### C. Prinzipien der Verwaltungstätigkeit
+### 1.3 Prinzipien der Verwaltungstätigkeit
 
 #### Art. 5
 
 **Grundsatz der Gesetzmässigkeit**
 
-<sup>1</sup> Die Behörde ist bei der Erfüllung ihrer Aufgaben an Gesetz und Recht gebunden; sie wendet das massgebende Recht von Amtes wegen an.[^5-1]
+<sup>1</sup> Die Behörde ist bei der Erfüllung ihrer Aufgaben an Gesetz und Recht gebunden; sie wendet das massgebende Recht von Amtes wegen an.
 
 <sup>2</sup> Sie darf in die Rechte der Einzelnen nur eingreifen und ihnen Pflichten nur auferlegen, soweit es rechtlich zulässig ist.
-
-[^5-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 6
 
 **Öffentliches Interesse**
 
-Jede Einschränkung der Grundrechte und verfassungsmässigen Rechte muss auf einem rechtlich festgelegten öffentlichen Interesse beruhen.
+<sup>1</sup> Jede Einschränkung der Grundrechte und verfassungsmässigen Rechte muss auf einem rechtlich festgelegten öffentlichen Interesse beruhen.
 
 #### Art. 7
 
@@ -119,13 +105,13 @@ Jede Einschränkung der Grundrechte und verfassungsmässigen Rechte muss auf ein
 
 **Ermessen**
 
-Die Behörde handelt im Rahmen der ihr erteilten Ermächtigung nach sachlichen Gesichtspunkten unter Abwägung der öffentlichen und privaten Interessen.
+<sup>1</sup> Die Behörde handelt im Rahmen der ihr erteilten Ermächtigung nach sachlichen Gesichtspunkten unter Abwägung der öffentlichen und privaten Interessen.
 
 #### Art. 9
 
 **Rechtsgleichheit**
 
-Die Behörde behandelt auf gleiche Weise alle vergleichbaren, tatsächlichen Verhältnisse und auf unterschiedliche Weise jene tatsächlichen Verhältnisse, die voneinander abweichen und einer unterschiedlichen Behandlung bedürfen.
+<sup>1</sup> Die Behörde behandelt auf gleiche Weise alle vergleichbaren, tatsächlichen Verhältnisse und auf unterschiedliche Weise jene tatsächlichen Verhältnisse, die voneinander abweichen und einer unterschiedlichen Behandlung bedürfen.
 
 #### Art. 10
 
@@ -133,10 +119,10 @@ Die Behörde behandelt auf gleiche Weise alle vergleichbaren, tatsächlichen Ver
 
 <sup>1</sup> Die Behörde und die Parteien haben nach Treu und Glauben zu handeln.
 
-<sup>2</sup> Das Gemeinwesen wird grundsätzlich durch die Zusicherungen und Auskünfte verpflichtet, welche durch eine zuständige Behörde in einer konkreten Angelegenheit erteilt wurden, unter den Voraussetzungen, dass 1. für den Empfänger nicht ohne weiteres ihre Unrichtigkeit erkennbar war oder der Empfänger die richtige Auslegung selber nicht ohne weiteres erkennen konnte,
+<sup>2</sup> Das Gemeinwesen wird grundsätzlich durch die Zusicherungen und Auskünfte verpflichtet, welche durch eine zuständige Behörde in einer konkreten Angelegenheit erteilt wurden, unter den Voraussetzungen, dass
 
+- 1\. für den Empfänger nicht ohne weiteres ihre Unrichtigkeit erkennbar war oder der Empfänger die richtige Auslegung selber nicht ohne weiteres erkennen konnte,
 - 2\. der Empfänger im Vertrauen darauf Veranstaltungen getroffen hat, welche er nicht ohne wesentlichen Verlust zu erleiden aufheben kann und
-
 - 3\. die Gesetzgebung in der Zwischenzeit nicht geändert hat.
 
 <sup>3</sup> Steht dem Vertrauensschutz gemäss Abs. 2 ein überwiegendes öffentliches Interesse entgegen, hat das Gemeinwesen eine angemessene Entschädigung zu leisten.
@@ -149,20 +135,16 @@ Die Behörde behandelt auf gleiche Weise alle vergleichbaren, tatsächlichen Ver
 
 <sup>2</sup> Sie vermeidet überspitzten Formalismus.
 
-### II. PARTEIEN UND PARTEIVERTRETER
-
-[^hIIPARTEIENUNDPAR-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+## 2 Parteien und Parteivertreter
 
 #### Art. 12
 
-**Parteistellung[^hIIPARTEIENUNDPAR-1]**
+**Parteistellung**
 
-Als Parteien gelten:
+<sup>1</sup> Als Parteien gelten:
 
 - 1\. Personen, deren Rechte oder Pflichten durch den Entscheid oder Realakt berührt werden;
-
 - 2\. andere Personen, Organisationen oder Behörden, denen die Gesetzgebung ein Rechtsmittel gegen den Entscheid einräumt;
-
 - 3\. Behörden, deren Entscheid angefochten wird.
 
 #### Art. 13
@@ -185,9 +167,7 @@ Als Parteien gelten:
 
 #### Art. 15
 
-**Parteivertretung**
-
-### 1. Grundsatz
+**Parteivertretung 1. Grundsatz**
 
 <sup>1</sup> Die Partei kann sich auf jeder Stufe des Verfahrens vertreten lassen.
 
@@ -195,19 +175,19 @@ Als Parteien gelten:
 
 <sup>3</sup> Die Partei kann sich an den Verhandlungen durch einen Vertreter verbeiständen lassen.
 
-[^h1Grundsatz-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
-
 #### Art. 16
 
-**2. Voraussetzungen[^h1Grundsatz-1]**
+**2. Voraussetzungen**
 
-<sup>1</sup> Die Parteivertretung muss unbeschränkte Handlungsfähigkeit besitzen; für die vertragliche Vertretung vor dem Verwaltungsgericht gelten die Bestimmungen des Gerichtsgesetzes und des kantonalen Anwaltsgesetzes.
+<sup>1</sup> Die Parteivertretung muss unbeschränkte Handlungsfähigkeit besitzen; für die berufsmässige Parteivertretung vor dem Verwaltungsgericht ist Art. 70 GerG[^16-1] anwendbar.
 
 <sup>2</sup> Die Parteivertretung hat als Ausweis eine Vollmacht zu den Akten zu legen; legt die Parteivertretung binnen angesetzter Frist keine Vollmacht auf, tritt die Behörde auf ihre Eingabe nicht ein.
 
-### III. VERFAHRENSGRUNDSÄTZE
+[^16-1]: NG 261.1
 
-### A. Zuständigkeit
+## 3 Verfahrensgrundsätze
+
+### 3.1 Zuständigkeit
 
 #### Art. 17
 
@@ -243,41 +223,36 @@ Als Parteien gelten:
 
 <sup>3</sup> Kompetenzkonflikte, in denen das Verfassungsgericht Partei ist, werden durch den Landrat entschieden.
 
-### B. Ausstand
-
-[^hBAusstand-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+### 3.2 Ausstand
 
 #### Art. 21
 
-**Verwaltungsverfahren[^hBAusstand-1]**
+**Verwaltungsverfahren**
 
-Im Verwaltungs- und Verwaltungsbeschwerdeverfahren richtet sich der Ausstand nach den Bestimmungen des Behörden[^21-1]- beziehungsweise des Personalgesetzes[^21-2].
+<sup>1</sup> Im Verwaltungs- und Verwaltungsbeschwerdeverfahren richtet sich der Ausstand nach den Bestimmungen des Behörden-[^21-1] beziehungsweise des Personalgesetzes[^21-2].
 
 [^21-1]: NG 161
 [^21-2]: NG 165
-[^21-3]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
 
 #### Art. 21a
 
-**Gerichtsverfahren[^21-3]**
+**Gerichtsverfahren**
 
 <sup>1</sup> Im Verfahren vor dem Verwaltungsgericht und dem Verfassungsgericht gelten für den Ausstand die Bestimmungen der Zivilprozessordnung[^21a-1] sinngemäss.
 
 <sup>2</sup> Über streitige Ausstandsbegehren entscheidet:
 
-- 1\. die in der Sache zuständige Abteilung des Gerichts, wenn Mitglieder der Abteilung oder die Gerichtsschreiberin beziehungsweise der Gerichtsschreiber betroffen ist;
-
+- 1\. die in der Sache zuständige Abteilung des Gerichts, wenn Mitglieder der Abteilung oder die Gerichtsschreiberin beziehungsweise der Gerichtsschreiber betroffen sind;
 - 2\. das Kantonsgericht, wenn das Verwaltungsgericht oder das Verfassungsgericht für den Entscheid gemäss Ziffer 1 nicht mehr gehörig besetzt werden kann.
 
 <sup>3</sup> Der Entscheid ist binnen 20 Tagen mit Beschwerde anfechtbar:
 
 - 1\. beim Obergericht, wenn das Verwaltungsgericht betroffen ist;
-
 - 2\. beim Verwaltungsgericht, wenn das Verfassungsgericht betroffen ist.
 
 [^21a-1]: SR 272
 
-### C. Rechtshilfe
+### 3.3 Rechtshilfe
 
 #### Art. 22
 
@@ -287,7 +262,7 @@ Im Verwaltungs- und Verwaltungsbeschwerdeverfahren richtet sich der Ausstand nac
 
 <sup>2</sup> Das zuständige Departement sorgt für die Erledigung von Rechtshilfegesuchen von Verwaltungs- und Verwaltungsgerichtsbehörden des Bundes oder anderer Kantone; es ist zuständig, den Untersuchungsinstanzen des Bundes oder anderer Kantone Amtshandlungen im Kanton zu gestatten.
 
-### D. Vorgehen der Behörde
+### 3.4 Vorgehen der Behörde
 
 #### Art. 23
 
@@ -305,19 +280,17 @@ Im Verwaltungs- und Verwaltungsbeschwerdeverfahren richtet sich der Ausstand nac
 
 <sup>2</sup> In dringenden Fällen können diese Massnahmen durch den Vorsitzenden der Kollegialbehörde oder die beauftragte Stelle getroffen werden.
 
-<sup>3</sup> Ist die Angelegenheit in der Hauptsache noch nicht rechtshängig, setzt die Behörde der gesuchstellenden Partei eine Frist zur Einreichung der Beschwerde, mit der Androhung, die angeordnete Massnahme falle bei ungenutztem Ablauf der Frist ohne Weiteres dahin.[^24-1]
+<sup>3</sup> Ist die Angelegenheit in der Hauptsache noch nicht rechtshängig, setzt die Behörde der gesuchstellenden Partei eine Frist zur Einreichung der Beschwerde, mit der Androhung, die angeordnete Massnahme falle bei ungenutztem Ablauf der Frist ohne Weiteres dahin.
 
-<sup>4</sup> Haben sich die Umstände geändert oder erweisen sich die vorsorglichen Massnahmen nachträglich als ungerechtfertigt, so können sie geändert oder aufgehoben werden.[^24-1]
+<sup>4</sup> Haben sich die Umstände geändert oder erweisen sich die vorsorglichen Massnahmen nachträglich als ungerechtfertigt, so können sie geändert oder aufgehoben werden.
 
-<sup>5</sup> Mit Rechtskraft des Entscheides in der Hauptsache fallen die Massnahmen von Gesetzes wegen dahin. Die Behörde kann die Weitergeltung anordnen, wenn es der Vollstreckung dient oder das Gesetz dies vorsieht.[^24-1]
-
-[^24-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+<sup>5</sup> Mit Rechtskraft des Entscheides in der Hauptsache fallen die Massnahmen von Gesetzes wegen dahin. Die Behörde kann die Weitergeltung anordnen, wenn es der Vollstreckung dient oder das Gesetz dies vorsieht.
 
 #### Art. 25
 
 **Sistierung**
 
-Der Vorsitzende der Behörde kann aus Gründen der Zweckmässigkeit von Amtes wegen oder auf Antrag einer Partei das Verfahren aussetzen, namentlich wenn der Entscheid von einem andern abhängt oder wesentlich beeinflusst werden könnte.
+<sup>1</sup> Der Vorsitzende der Behörde kann aus Gründen der Zweckmässigkeit von Amtes wegen oder auf Antrag einer Partei das Verfahren aussetzen, namentlich wenn der Entscheid von einem andern abhängt oder wesentlich beeinflusst werden könnte.
 
 #### Art. 26
 
@@ -339,9 +312,9 @@ Der Vorsitzende der Behörde kann aus Gründen der Zweckmässigkeit von Amtes we
 
 **Öffentlichkeit**
 
-Die Parteiverhandlungen und Beratungen vor den Verwaltungsbehörden sind nicht öffentlich.
+<sup>1</sup> Die Parteiverhandlungen und Beratungen vor den Verwaltungsbehörden sind nicht öffentlich.
 
-### E. Formvorschriften
+### 3.5 Formvorschriften
 
 #### Art. 29
 
@@ -362,20 +335,14 @@ Die Parteiverhandlungen und Beratungen vor den Verwaltungsbehörden sind nicht �
 <sup>2</sup> Die Vorladung hat folgende Angaben zu enthalten:
 
 - 1\. Name und Wohnort der Parteien und ihrer Vertreter;
-
 - 2\. Ort und Zeit des Erscheinens;
-
 - 3\. Gegenstand der Verhandlung und verfahrensrechtliche Stellung des Vorgeladenen;
-
 - 4\. Hinweis auf die Säumnisfolgen;
-
 - 5\. Datum und Unterschrift.
 
 #### Art. 31
 
-**Zustellungen**
-
-### 1. im allgemeinen
+**Zustellungen 1. im allgemeinen**
 
 <sup>1</sup> Die Behörde hat Vorladungen, Entscheide und andere Mitteilungen durch die Post oder durch Boten zuzustellen; ist der Aufenthaltsort einer Partei unbekannt oder ist die Zustellung aus anderen Gründen nicht möglich, veranlasst die Behörde die Zustellung durch Veröffentlichung im Amtsblatt und nach deren Ermessen auch in andern Zeitungen.
 
@@ -387,52 +354,39 @@ Die Parteiverhandlungen und Beratungen vor den Verwaltungsbehörden sind nicht �
 
 **2. Rechtmässigkeit**
 
-Die Zustellung gilt auch als rechtmässig erfolgt und ist rechtswirksam, wenn der Adressat die Annahme ausdrücklich verweigert oder eine eingeschriebene Sendung nicht binnen der angesetzten Frist abholt.
+<sup>1</sup> Die Zustellung gilt auch als rechtmässig erfolgt und ist rechtswirksam, wenn der Adressat die Annahme ausdrücklich verweigert oder eine eingeschriebene Sendung nicht binnen der angesetzten Frist abholt.
 
-### F. Fristen
+### 3.6 Fristen
 
 #### Art. 33
 
 **Fristenlauf**
 
-Gesetzliche Fristen laufen von dem Zeitpunkt an, in welchem die Tatsache, woran sie geknüpft sind, eingetreten ist; behördliche Fristen laufen vom Empfang der Mitteilung an, sofern die Behörde nicht etwas anderes bestimmt.
-
-[^33-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+<sup>1</sup> Gesetzliche Fristen laufen von dem Zeitpunkt an, in welchem die Tatsache, woran sie geknüpft sind, eingetreten ist; behördliche Fristen laufen vom Empfang der Mitteilung an, sofern die Behörde nicht etwas anderes bestimmt.
 
 #### Art. 33a
 
-**Stillstand der Fristen[^33-1]**
+**Stillstand der Fristen**
 
 <sup>1</sup> In Einwendungsverfahren vor den Verwaltungsbehörden stehen gesetzliche oder von der Behörde nach Tagen bestimmte Fristen vom 18. Dezember bis und mit dem 2. Januar still.
 
 <sup>2</sup> In Einsprache- und Rechtsmittelverfahren vor den Verwaltungsbehörden sowie in Verwaltungsgerichtsverfahren stehen diese Fristen still:
 
 - 1\. vom siebten Tag vor Ostern bis und mit dem siebten Tag nach Ostern;
-
 - 2\. vom 15. Juli bis und mit dem 15. August;
-
 - 3\. vom 18. Dezember bis und mit dem 2. Januar.
 
-<sup>3</sup> Der Fristenstillstand gilt nicht:[^33a-1] 1. beim Erlass vorsorglicher Massnahmen;
+<sup>3</sup> Der Fristenstillstand gilt nicht:
 
+- 1\. beim Erlass vorsorglicher Massnahmen;
 - 2\. in Einsprache- beziehungsweise Rechtsmittelverfahren betreffend:
-
-- a) die fürsorgerische Unterbringung;
-
-- b) die Aufnahme in Schulen;
-
-- c) die Promotion und den Abschluss einer Schul- oder Berufsausbildung;
-
-- d) das öffentliche Beschaffungswesen;
-
-- e) die bedingte Haftentlassung; oder
-
-- f)[^33a-2] bei Wahl- und Abstimmungsangelegenheiten.
-
+  - a) die fürsorgerische Unterbringung;
+  - b) die Aufnahme in Schulen;
+  - c) die Promotion und den Abschluss einer Schul- oder Berufsausbildung;
+  - d) das öffentliche Beschaffungswesen;
+  - e) die bedingte Haftentlassung; oder
+  - f) bei Wahl- und Abstimmungsangelegenheiten.
 - 3\. bei Verhandlungen und Fristansetzungen im Einvernehmen mit den Parteien.
-
-[^33a-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-[^33a-2]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
 
 #### Art. 34
 
@@ -440,9 +394,7 @@ Gesetzliche Fristen laufen von dem Zeitpunkt an, in welchem die Tatsache, woran 
 
 <sup>1</sup> Bei der Berechnung der Frist wird der Tag, an welchem die den Fristenlauf auslösende Tatsache eintritt, nicht mitgezählt.
 
-<sup>2</sup> Fällt der letzte Tag der Frist auf einen Samstag, einen öffentlichen Ruhetag oder einen arbeitsfreien Tag, endigt sie am nächstfolgenden Werktag. Als arbeitsfreie Tage gelten: Berchtoldstag, Ostermontag, Pfingstmontag, Nationalfeiertag und Stefanstag.[^34-1]
-
-[^34-1]: Fassung gemäss Landratsbeschluss vom 26. März 1997, A 1997, 535, 859; in Kraft seit 15. Juni 1997
+<sup>2</sup> Fällt der letzte Tag der Frist auf einen Samstag, einen öffentlichen Ruhetag oder einen arbeitsfreien Tag, endigt sie am nächstfolgenden Werktag. Als arbeitsfreie Tage gelten: Berchtoldstag, Ostermontag, Pfingstmontag, Nationalfeiertag und Stefanstag.
 
 #### Art. 35
 
@@ -460,9 +412,7 @@ Gesetzliche Fristen laufen von dem Zeitpunkt an, in welchem die Tatsache, woran 
 
 <sup>1</sup> Eine gesetzlich bestimmte Frist kann nicht erstreckt werden.
 
-<sup>2</sup> Behördlich bestimmte Fristen kann die Behörde oder der Vorsitzende erstrecken, wenn vor Fristablauf ein Gesuch gestellt und ein ausreichender Grund glaubhaft gemacht wird; diese Vorschrift gilt sinngemäss auch für die Verschiebung von Terminen.[^36-1]
-
-[^36-1]: Fassung gemäss Landratsbeschluss vom 17. April 1990, A 1990, 678, 1211
+<sup>2</sup> Behördlich bestimmte Fristen kann die Behörde oder der Vorsitzende erstrecken, wenn vor Fristablauf ein Gesuch gestellt und ein ausreichender Grund glaubhaft gemacht wird; diese Vorschrift gilt sinngemäss auch für die Verschiebung von Terminen.
 
 #### Art. 37
 
@@ -480,9 +430,9 @@ Gesetzliche Fristen laufen von dem Zeitpunkt an, in welchem die Tatsache, woran 
 
 <sup>2</sup> Die Behörde gibt der Gegenpartei Gelegenheit zur Vernehmlassung; sie erhebt die erforderlichen Beweise und entscheidet ohne Weiterzug.
 
-### G. Rechte und Pflichten der Parteien
+### 3.7 Rechte und Pflichten der Parteien
 
-### 1. Rechtliches Gehör
+### 3.7.1 Rechtliches Gehör
 
 #### Art. 39
 
@@ -501,20 +451,16 @@ Gesetzliche Fristen laufen von dem Zeitpunkt an, in welchem die Tatsache, woran 
 <sup>2</sup> Sie kann auf das Anhören verzichten:
 
 - 1\. vor Zwischenentscheiden, die sich nicht selbständig anfechten lassen;
-
 - 2\. wenn der Entscheid nur den Eingabesteller betrifft;
-
 - 3\. wenn der Entscheid sich durch Einsprache anfechten lässt;
-
 - 4\. vor Entscheiden im erstinstanzlichen Verfahren, wenn Gefahr im Verzuge ist und den Parteien die Beschwerde gegen den Entscheid zusteht;
-
 - 5\. vor Vollstreckungsentscheiden.
 
 #### Art. 41
 
 **Vernehmlassung der Gegenpartei**
 
-In einer Sache mit widerstreitenden Interessen mehrerer Parteien hat die Behörde jeder Partei zu Vorbringen einer Gegenpartei einmal Gelegenheit zur Vernehmlassung zu geben.
+<sup>1</sup> In einer Sache mit widerstreitenden Interessen mehrerer Parteien hat die Behörde jeder Partei zu Vorbringen einer Gegenpartei einmal Gelegenheit zur Vernehmlassung zu geben.
 
 #### Art. 42
 
@@ -532,7 +478,7 @@ In einer Sache mit widerstreitenden Interessen mehrerer Parteien hat die Behörd
 
 <sup>2</sup> Sie orientiert die Parteien auf Anfrage über den Stand des hängigen Verfahrens.
 
-- 2\. Akteneinsicht
+### 3.7.2 Akteneinsicht
 
 #### Art. 44
 
@@ -541,16 +487,11 @@ In einer Sache mit widerstreitenden Interessen mehrerer Parteien hat die Behörd
 <sup>1</sup> Die Parteien sind berechtigt, in ihren eigenen Angelegenheiten am Sitz der entscheidenden Behörde folgende Akten einzusehen, soweit nicht anderslautende Bestimmungen in der Gesetzgebung dem entgegenstehen:
 
 - 1\. Vernehmlassungen und Mitberichte von Behörden;
-
 - 2\. Eingaben der Parteien und Protokolle über ihre Anbringen;
-
 - 3\. als Beweismittel dienende Urkunden, Protokolle und Gutachten;
-
 - 4\. Ausfertigungen eröffneter Entscheide.
 
-<sup>2</sup> Für die Gewährung der Akteneinsicht wird keine Gebühr erhoben, soweit es sich nicht um eine abgeschlossene Sache handelt.[^44-1]
-
-[^44-1]: Fassung gemäss Landratsbeschluss vom 27. Juni 2001, A 2001, 935, 1252; in Kraft seit 1. Januar 2002
+<sup>2</sup> Für die Gewährung der Akteneinsicht wird keine Gebühr erhoben, soweit es sich nicht um eine abgeschlossene Sache handelt.
 
 #### Art. 45
 
@@ -559,26 +500,21 @@ In einer Sache mit widerstreitenden Interessen mehrerer Parteien hat die Behörd
 <sup>1</sup> Die Behörde darf den Parteien die Akteneinsicht verweigern, soweit die Geheimhaltung bestimmter Aktenstücke geboten ist:
 
 - 1\. zur Wahrung überwiegender öffentlicher Interessen;
-
 - 2\. zum Schutze überwiegender privater Interessen;
-
 - 3\. im Interesse eines andern hängigen Verfahrens.
 
 <sup>2</sup> Die Akteneinsicht darf nicht verweigert werden betreffend:
 
 - 1\. eigenen Eingaben;
-
 - 2\. Protokollen über eigene Anträge und Aussagen;
-
 - 3\. eigenen als Beweismittel eingerichteten Urkunden;
-
 - 4\. eröffneten Entscheiden.
 
 #### Art. 46
 
 **Massgeblichkeit geheimer Akten**
 
-Wird einer Partei die Einsichtnahme in ein Aktenstück verweigert, darf auf dieses zum Nachteil der Partei nur abgestellt werden, wenn ihr die Behörde von seinem für die Sache wesentlichen Inhalt mündlich oder schriftlich Kenntnis und ihr ausserdem Gelegenheit gegeben hat, sich zu äussern und Gegenbeweismittel zu beantragen.
+<sup>1</sup> Wird einer Partei die Einsichtnahme in ein Aktenstück verweigert, darf auf dieses zum Nachteil der Partei nur abgestellt werden, wenn ihr die Behörde von seinem für die Sache wesentlichen Inhalt mündlich oder schriftlich Kenntnis und ihr ausserdem Gelegenheit gegeben hat, sich zu äussern und Gegenbeweismittel zu beantragen.
 
 #### Art. 47
 
@@ -588,13 +524,13 @@ Wird einer Partei die Einsichtnahme in ein Aktenstück verweigert, darf auf dies
 
 <sup>2</sup> Den Parteien können nach Möglichkeit unter Vorbehalt von Art. 45 Abs. 1 auf Gesuch hin Kopien der Akten herausgegeben werden.
 
-### H. Feststellung des Sachverhalts
+### 3.8 Feststellung des Sachverhalts
 
 #### Art. 48
 
 **Grundsatz**
 
-Die Behörde stellt den Sachverhalt von Amtes wegen fest; Art. 50 bleibt vorbehalten.
+<sup>1</sup> Die Behörde stellt den Sachverhalt von Amtes wegen fest; Art. 50 bleibt vorbehalten.
 
 #### Art. 49
 
@@ -603,15 +539,10 @@ Die Behörde stellt den Sachverhalt von Amtes wegen fest; Art. 50 bleibt vorbeha
 <sup>1</sup> Die Behörde bedient sich nötigenfalls folgender Beweismittel:
 
 - 1\. öffentliche und private Urkunden;
-
 - 2\. Parteibefragung;
-
 - 3\. Auskünfte oder Zeugnis von Dritten;
-
 - 4\. Auskünfte anderer Behörden und Verwaltungsstellen;
-
 - 5\. Augenschein;
-
 - 6\. Gutachten von Sachverständigen.
 
 <sup>2</sup> Andere Beweismittel sind zulässig, soweit sie beweistauglich sind und die persönliche Freiheit des Betroffenen nicht verletzen.
@@ -623,9 +554,7 @@ Die Behörde stellt den Sachverhalt von Amtes wegen fest; Art. 50 bleibt vorbeha
 <sup>1</sup> Die Parteien sind verpflichtet, an der Feststellung des Sachverhaltes mitzuwirken:
 
 - 1\. in einem Verfahren, das sie selbst veranlasst haben;
-
 - 2\. in einem andern Verfahren, soweit sie selbständige Anträge stellen;
-
 - 3\. soweit ihnen nach der Gesetzgebung eine besondere Auskunftspflicht obliegt.
 
 <sup>2</sup> Die Behörde braucht auf Anträge im Sinne von Abs. 1 Ziff. 1 und 2 nicht einzutreten, wenn die Parteien die notwendige und zumutbare Mitwirkung verweigern.
@@ -636,10 +565,10 @@ Die Behörde stellt den Sachverhalt von Amtes wegen fest; Art. 50 bleibt vorbeha
 
 <sup>1</sup> Die zuständige Behörde kann von andern Behörden schriftliche Berichte zum Nachweis von Tatsachen einholen, über die sie aufgrund ihrer amtlichen Tätigkeit Auskunft erteilen können.
 
-<sup>2</sup> Die ersuchte Behörde darf keine Auskünfte erteilen, wenn 1. die angeforderten Auskünfte aufgrund einer gesetzlichen Bestimmung oder ihrer Beschaffenheit vertraulich bleiben müssen;
+<sup>2</sup> Die ersuchte Behörde darf keine Auskünfte erteilen, wenn
 
+- 1\. die angeforderten Auskünfte aufgrund einer gesetzlichen Bestimmung oder ihrer Beschaffenheit vertraulich bleiben müssen;
 - 2\. die Erteilung der Auskünfte die Erfüllung der eigenen Aufgaben der ersuchten Behörde verunmöglichen oder stark gefährden könnte;
-
 - 3\. ein öffentliches oder erhebliches privates Interesse dadurch verletzt wird oder verletzt werden könnte.
 
 #### Art. 52
@@ -648,28 +577,23 @@ Die Behörde stellt den Sachverhalt von Amtes wegen fest; Art. 50 bleibt vorbeha
 
 <sup>1</sup> Zur Zeugeneinvernahme sind berechtigt:
 
-- 1\. der Gesamtregierungsrat, ein Ausschuss oder der Landammann im Rechtsmittelverfahren
-
+- 1\. der Gesamtregierungsrat, ein Ausschuss oder der Landammann im Rechtsmittelverfahren;
 - 2\. das Verwaltungsgericht, ein Ausschuss oder der Vorsitzende;
+- 3\. die andern verwaltungsrechtlichen Instanzen, ein Ausschuss oder der Vorsitzende.
 
-- 3\. die andern verwaltungsrechtlichen Instanzen, ein Ausschuss oder der Vorsitzende.[^52-1]
+<sup>2</sup> Der Regierungsrat kann Personen, die mit einer amtlichen Untersuchung beauftragt sind, zur Zeugeneinvernahme ermächtigen.
 
-<sup>2</sup> Der Regierungsrat kann Personen, die mit einer amtlichen Untersuchung beauftragt sind, zur Zeugeneinvernahme ermächtigen.[^52-1]
-
-<sup>3</sup> …[^52-2]
-
-[^52-1]: Fassung gemäss Landratsbeschluss vom 17. April 1990, A 1990, 678, 1211
-[^52-2]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+<sup>3</sup> …
 
 #### Art. 53
 
-**Ergänzende Bestimmungen[^52-2]**
+**Ergänzende Bestimmungen**
 
-Auf das Beweisverfahren finden ergänzend die Art. 150-193 der Schweizerischen Zivilprozessordnung (ZPO)[^53-1] Anwendung.
+<sup>1</sup> Auf das Beweisverfahren finden ergänzend die Art. 150–193 der Schweizerischen Zivilprozessordnung (ZPO)[^53-1] Anwendung.
 
 [^53-1]: SR 272
 
-### IV. ENTSCHEID
+## 4 Entscheid
 
 #### Art. 54
 
@@ -680,18 +604,12 @@ Auf das Beweisverfahren finden ergänzend die Art. 150-193 der Schweizerischen Z
 <sup>2</sup> Der Erlass eines Entscheides setzt namentlich voraus:
 
 - 1\. örtliche und sachliche Zuständigkeit;
-
 - 2\. Partei- und Verfahrensfähigkeit;
-
 - 3\. Vertretungsbefugnis der Parteivertreter;
-
-4.[^54-1] Bestehen eines besonderen Berührtseins und eines schutzwürdigen Interesses am Entscheid;
-
+- 4\. Bestehen eines besonderen Berührtseins und eines schutzwürdigen Interesses am Entscheid;
 - 5\. frist- und formgerechte Rechtsvorkehr.
 
 <sup>3</sup> Fehlt eine Voraussetzung für den Erlass eines Entscheides, tritt die Behörde auf die Sache nicht ein.
-
-[^54-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 55
 
@@ -708,33 +626,21 @@ Auf das Beweisverfahren finden ergänzend die Art. 150-193 der Schweizerischen Z
 <sup>1</sup> Der schriftliche Entscheid muss enthalten:
 
 - 1\. den Namen der Behörde, in Entscheiden gerichtlicher Instanzen überdies die Namen der urteilenden Richter sowie des Gerichtsschreibers;
-
 - 2\. die Namen der sich im Ausstand befindenden Behördenmitglieder;
-
 - 3\. die genaue Bezeichnung der Parteien und ihrer Vertreter;
-
 - 4\. die Rechtsbegehren der Parteien;
-
 - 5\. eine gedrängte Darstellung des Sachverhalts;
-
 - 6\. die Begründung;
-
 - 7\. die gesetzlichen Bestimmungen, auf die sich der Entscheid abstützt;
-
 - 8\. den Rechtsspruch mit Verlegung der Kosten;
-
 - 9\. die nötigen Angaben über die ordentlichen kantonalen Rechtsmittel, beziehungsweise die Angabe, dass kein ordentliches kantonales Rechtsmittel zulässig ist;
-
 - 10\. das Datum des Entscheides;
-
 - 11\. die Unterschrift.
 
 <sup>2</sup> Die Behörde kann auf die Darstellung des Sachverhalts und auf die Begründung verzichten:
 
 - 1\. wenn sie den Begehren der Parteien voll entspricht;
-
 - 2\. wenn die Parteien auf sie verzichten;
-
 - 3\. wenn gegen den Entscheid Einsprache erhoben werden kann.
 
 <sup>3</sup> Handelt es sich um einen Entscheid einer oberen Instanz, kann bezüglich des Sachverhalts und der Begründung auf den Entscheid der Vorinstanz verwiesen werden.
@@ -746,24 +652,16 @@ Auf das Beweisverfahren finden ergänzend die Art. 150-193 der Schweizerischen Z
 <sup>1</sup> Unter dem Vorbehalt anderslautender Vorschriften unterzeichnen folgende Personen den Entscheid:
 
 - 1\. für Kollegialbehörden: der Vorsitzende und der Schreiber;
-
 - 2\. bei Präsidialentscheiden: der Präsident oder sein Stellvertreter;
-
 - 3\. bei Einzelbehörden: der Amtsinhaber oder sein Stellvertreter;
-
 - 4\. für Amtsstellen: der Amtsvorsteher oder sein Stellvertreter;
-
 - 5\. für Verwaltungen von kantonalen oder kommunalen Anstalten: der Vorsitzende und der Schreiber.
 
-<sup>2</sup> Verfahrensleitende Entscheide und nicht selbständig anfechtbare Zwischenentscheide können durch den Vorsitzenden sowie in seinem Auftrag durch den Schreiber, den Sekretär oder den Sachbearbeiter unterzeichnet werden.[^57-1]
-
-[^57-1]: Fassung gemäss Landratsbeschluss vom 17. April 1990, A 1990, 678, 1211
+<sup>2</sup> Verfahrensleitende Entscheide und nicht selbständig anfechtbare Zwischenentscheide können durch den Vorsitzenden sowie in seinem Auftrag durch den Schreiber, den Sekretär oder den Sachbearbeiter unterzeichnet werden.
 
 #### Art. 58
 
-**Eröffnung**
-
-### 1. ordentliche
+**Eröffnung 1. ordentliche**
 
 <sup>1</sup> Die Behörde eröffnet den Parteien den Entscheid schriftlich durch Zustellung einer Ausfertigung; die Parteivertreter erhalten den Entscheid im Doppel.
 
@@ -783,17 +681,13 @@ Auf das Beweisverfahren finden ergänzend die Art. 150-193 der Schweizerischen Z
 
 **Mangelhafte Eröffnung**
 
-Aus mangelhafter Eröffnung darf den Parteien kein Nachteil erwachsen.
+<sup>1</sup> Aus mangelhafter Eröffnung darf den Parteien kein Nachteil erwachsen.
 
-### V. BESONDERE VERFAHREN VOR DEN VERWALTUNGS-BEHÖRDEN
-
-[^hVBESONDEREVERFAHR-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+## 5 Besondere Verfahren vor den Verwaltungsbehörden
 
 #### Art. 60a
 
-**Einwendung[^hVBESONDEREVERFAHR-1]**
-
-### 1. Begriff, Zulässigkeit
+**Einwendung 1. Begriff, Zulässigkeit**
 
 <sup>1</sup> Mit der Einwendung wird die Verwaltungsbehörde verpflichtet, öffentlich aufzulegende Gesuche, Pläne, Projekte und dergleichen gestützt auf die Vorbringen der einwendenden Personen zu überprüfen und in einem erstinstanzlichen Entscheid zu behandeln.
 
@@ -801,48 +695,39 @@ Aus mangelhafter Eröffnung darf den Parteien kein Nachteil erwachsen.
 
 <sup>3</sup> Die Zulässigkeit der Einwendung richtet sich nach der Gesetzgebung.
 
-[^h1BegriffZulässig-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
-
 #### Art. 60b
 
-**2. Ergänzende Bestimmungen[^h1BegriffZulässig-1]**
+**2. Ergänzende Bestimmungen**
 
-<sup>1</sup> Das Einwendungsverfahren richtet sich unter dem Vorbehalt abweichender Regelungen in der Spezialgesetzgebung sinngemäss nach Art. 70, 73-75 und 79.
+<sup>1</sup> Das Einwendungsverfahren richtet sich unter dem Vorbehalt abweichender Regelungen in der Spezialgesetzgebung sinngemäss nach Art. 70, 73–75 und 79.
 
-<sup>2</sup> Die Einwendung ist der Gesuchstellerin oder dem Gesuchsteller spätestens nach Ablauf der Auflagefrist zur Stellungnahme zuzustellen.[^60b-1]
+<sup>2</sup> Die Einwendung ist der Gesuchstellerin oder dem Gesuchsteller spätestens nach Ablauf der Auflagefrist zur Stellungnahme zuzustellen.
 
 <sup>3</sup> Die Verwaltungsbehörde versucht in der Regel eine gütliche Einigung herbeizuführen.
 
-[^60b-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-[^60b-2]: Fassung gemäss Landratsbeschluss vom 11. Juni 2014, A 2014, 1085, 1578; in Kraft seit 1. November 2014
-
 #### Art. 60c
 
-**Entscheide über Realakte[^60b-2]**
+**Entscheide über Realakte**
 
 <sup>1</sup> Wer durch einen Realakt in seinen Rechten und Pflichten berührt ist und ein schutzwürdiges Interesse an einem Entscheid hat, kann verlangen, dass die handelnde Behörde:
 
 - 1\. die widerrechtliche Handlung unterlässt, einstellt oder widerruft;
-
 - 2\. die Folgen widerrechtlicher Handlungen beseitigt;
-
 - 3\. die Widerrechtlichkeit von Handlungen feststellt.
 
 <sup>2</sup> Die Behörde erlässt einen Entscheid.
 
 #### Art. 61
 
-**Einsprache**
+**Einsprache 1. Begriff**
 
-### 1. Begriff
-
-Die Einsprache im Sinne dieses Gesetzes verpflichtet die Verwaltungsbehörde, ihren angefochtenen Entscheid gestützt auf die Vorbringen der Partei zu überprüfen und nochmals einen Entscheid in derselben Angelegenheit zu erlassen; die Prüfungsbefugnis der Verwaltungsbehörde ist nicht beschränkt.
+<sup>1</sup> Die Einsprache im Sinne dieses Gesetzes verpflichtet die Verwaltungsbehörde, ihren angefochtenen Entscheid gestützt auf die Vorbringen der Partei zu überprüfen und nochmals einen Entscheid in derselben Angelegenheit zu erlassen; die Prüfungsbefugnis der Verwaltungsbehörde ist nicht beschränkt.
 
 #### Art. 62
 
 **2. Zulässigkeit**
 
-Die Zulässigkeit der Einsprache richtet sich nach der Gesetzgebung.
+<sup>1</sup> Die Zulässigkeit der Einsprache richtet sich nach der Gesetzgebung.
 
 #### Art. 63
 
@@ -856,24 +741,19 @@ Die Zulässigkeit der Einsprache richtet sich nach der Gesetzgebung.
 
 **4. Ergänzende Bestimmungen**
 
-<sup>1</sup> Das Einspracheverfahren richtet sich unter dem Vorbehalt abweichender Bestimmungen sinngemäss nach Art. 70–75 sowie Art. 79.[^64-1]
+<sup>1</sup> Das Einspracheverfahren richtet sich unter dem Vorbehalt abweichender Bestimmungen sinngemäss nach Art. 70–75 sowie Art. 79.
 
 <sup>2</sup> Auf Antrag des Einsprechers hat die Behörde eine Einspracheverhandlung durchzuführen.
 
-[^64-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-[^64-2]: Fassung gemäss Landratsbeschluss vom 28. Februar 2018, A 2018, 427, 981; in Kraft seit 1. Juni 2018
-
 #### Art. 64a
 
-**Koordination baurechtlicher Verfahren[^64-2]**
+**Koordination baurechtlicher Verfahren 1. Grundsatz**
 
-### 1. Grundsatz
-
-<sup>1</sup> Erfordert die Errichtung oder Änderung einer Baute oder Anlage Verfügungen mehrerer Behörden, stellt eine Leitbehörde die Koordination gemäss Art. 25a RPG[^h1Grundsatz_2-1] sicher.
+<sup>1</sup> Erfordert die Errichtung oder Änderung einer Baute oder Anlage Verfügungen mehrerer Behörden, stellt eine Leitbehörde die Koordination gemäss Art. 25a RPG[^64a-1] sicher.
 
 <sup>2</sup> Auf die Nutzungsplanung sind die Bestimmungen zur Koordination baurechtlicher Verfahren sinngemäss anwendbar.
 
-[^h1Grundsatz_2-1]: SR 700
+[^64a-1]: SR 700
 
 #### Art. 64b
 
@@ -904,9 +784,7 @@ Die Zulässigkeit der Einsprache richtet sich nach der Gesetzgebung.
 <sup>1</sup> Sämtliche Verfügungen, die gemeinsam eröffnet werden, sind bei der gleichen Instanz anfechtbar; als Rechtsmittelinstanz gilt:
 
 - 1\. das Verwaltungsgericht, wenn eine Verfügung des Regierungsrates eröffnet wird;
-
 - 2\. die kantonale Genehmigungsbehörde, wenn eine Genehmigung der erstinstanzlichen Verfügungen erforderlich ist und diese vor dem Genehmigungsverfahren eröffnet werden;
-
 - 3\. der Regierungsrat in allen anderen Fällen.
 
 <sup>2</sup> Gelten für gemeinsam eröffnete Verfügungen unterschiedliche Beschwerdefristen, ist die längere Frist anwendbar. Sieht das Bundesrecht eine zwingende Beschwerdefrist vor, ist diese bundesrechtliche Frist massgebend.
@@ -918,7 +796,6 @@ Die Zulässigkeit der Einsprache richtet sich nach der Gesetzgebung.
 <sup>1</sup> Die Verwaltungsbehörde, welche den Entscheid getroffen hat, kann unter der Berücksichtigung der Grundsätze von Treu und Glauben aus wichtigen Gründen jederzeit einen Entscheid von Amtes wegen ändern oder aufheben, soweit dies besondere Vorschriften nicht ausschliessen oder einschränken; wichtige Gründe liegen insbesondere vor:
 
 - 1\. wenn der Entscheid einen schweren Mangel aufweist;
-
 - 2\. wenn wichtige öffentliche Interessen zu wahren sind, die durch die Behörde nicht anders wahrgenommen werden können.
 
 <sup>2</sup> Der Entscheid kann geändert oder aufgehoben werden, auch wenn er in Rechtskraft erwachsen ist.
@@ -943,11 +820,11 @@ Die Zulässigkeit der Einsprache richtet sich nach der Gesetzgebung.
 
 **Berichtigung**
 
-Die Behörde kann jederzeit Fehler der Niederschrift, Rechenfehler oder andere Unachtsamkeiten, die auf den Rechtsspruch oder den Inhalt der Begründung keinen wesentlichen Einfluss haben, berichtigen.
+<sup>1</sup> Die Behörde kann jederzeit Fehler der Niederschrift, Rechenfehler oder andere Unachtsamkeiten, die auf den Rechtsspruch oder den Inhalt der Begründung keinen wesentlichen Einfluss haben, berichtigen.
 
-### VI. RECHTSMITTELVERFAHREN
+## 6 Rechtsmittelverfahren
 
-### A. Allgemeine Bestimmungen
+### 6.1 Allgemeine Bestimmungen
 
 #### Art. 69
 
@@ -960,54 +837,38 @@ Die Behörde kann jederzeit Fehler der Niederschrift, Rechenfehler oder andere U
 <sup>3</sup> Als selbständig anfechtbare Zwischenentscheide gelten insbesondere Entscheide über:
 
 - 1\. Zuständigkeit;
-
 - 2\. Ausstand;
-
 - 3\. Sistierung, Trennung oder Vereinigung von Verfahren;
-
 - 4\. Ablehnung von Beweisanerbieten;
-
 - 5\. Ablehnung der von einer Partei oder einem Dritten beantragten Beiladung;
-
 - 6\. vorsorgliche Massnahmen;
-
 - 7\. Entzug der aufschiebenden Wirkung;
-
 - 8\. rechtliches Gehör;
-
 - 9\. Verweigerung der unentgeltlichen Rechtspflege.
-
-[^69-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 69a
 
-**Rechtsverweigerungen oder Rechtsverzögerungen[^69-1]**
+**Rechtsverweigerungen oder Rechtsverzögerungen**
 
 <sup>1</sup> Rechtsverweigerungen oder Rechtsverzögerungen können mit dem gegen den Entscheid zulässigen Rechtsmittel angefochten werden.
 
 <sup>2</sup> Heisst die angerufene Instanz das Rechtsmittel gut, weist sie die zuständige Behörde an, binnen angemessener Frist einen Entscheid zu erlassen.
 
-[^69a-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 70
 
-**Legitimation[^69a-1]**
+**Legitimation**
 
 <sup>1</sup> Zur Einreichung eines Rechtsmittels ist berechtigt, wer:
 
 - 1\. vor der Vorinstanz am Verfahren teilgenommen oder keine Möglichkeit zur Teilnahme erhalten hat;
-
 - 2\. durch den angefochtenen Entscheid besonders berührt ist; und
-
 - 3\. ein schutzwürdiges Interesse an der Aufhebung oder Änderung des Entscheides hat.
 
 <sup>2</sup> Zur Einreichung eines Rechtsmittels berechtigt sind ferner Personen, Organisationen und Behörden, denen die Gesetzgebung dieses Recht einräumt.
 
-[^70-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 71
 
-**Fristen[^70-1]**
+**Fristen**
 
 <sup>1</sup> Das Rechtsmittel ist binnen 20 Tagen nach Eröffnung des Entscheides einzureichen; besondere Bestimmungen bleiben vorbehalten.
 
@@ -1015,9 +876,7 @@ Die Behörde kann jederzeit Fehler der Niederschrift, Rechenfehler oder andere U
 
 #### Art. 72
 
-**Aufschiebende Wirkung und vorsorgliche**
-
-### Massnahmen
+**Aufschiebende Wirkung und vorsorgliche Massnahmen**
 
 <sup>1</sup> Verwaltungsbeschwerde und Verwaltungsgerichtsbeschwerde haben unter dem Vorbehalt abweichender Bestimmungen aufschiebende Wirkung.
 
@@ -1027,9 +886,7 @@ Die Behörde kann jederzeit Fehler der Niederschrift, Rechenfehler oder andere U
 
 #### Art. 73
 
-**Rechtsmittelschrift**
-
-### 1. Einreichung
+**Rechtsmittelschrift 1. Einreichung**
 
 <sup>1</sup> Die Rechtsmittelschrift ist in genügender Anzahl für die Rechtsmittelinstanz und alle Gegenparteien, mindestens jedoch im Doppel einzureichen.
 
@@ -1042,32 +899,22 @@ Die Behörde kann jederzeit Fehler der Niederschrift, Rechenfehler oder andere U
 <sup>1</sup> Die Rechtsmittelschrift hat zu enthalten:
 
 - 1\. genaue Bezeichnung der Parteien und ihrer Vertreter;
-
 - 2\. Rechtsbegehren; es ist anzugeben, welche Änderung der angefochtenen Verfügung verlangt wird;
-
 - 3\. Begründung und eine kurz gefasste Darlegung des Sachverhalts;
-
 - 4\. allfällige Beweisanträge;
-
 - 5\. Datum und Unterschrift der Partei oder des Vertreters.
 
-<sup>2</sup> Der angefochtene Entscheid mit Zustellkuvert, die zur Verfügung stehenden Beweisurkunden und eine allfällige Vertretungsvollmacht sind beizulegen.[^74-1]
-
-[^74-1]: Fassung gemäss Landratsbeschluss vom 17. April 1990, A 1990, 678, 1211
+<sup>2</sup> Der angefochtene Entscheid mit Zustellkuvert, die zur Verfügung stehenden Beweisurkunden und eine allfällige Vertretungsvollmacht sind beizulegen.
 
 #### Art. 75
 
 **3. Mängel**
 
-Leidet die Rechtsschrift an einem Mangel oder ist sie unleserlich, ungebührlich, unverständlich, weitschweifig oder in einer fremden Sprache abgefasst, wird sie zur Verbesserung oder zur Übersetzung unter Ansetzung einer angemessenen Frist zurückgewiesen mit der Androhung, dass auf die Sache nicht eingetreten und diese auf Kosten der betreffenden Partei vom Protokoll abgeschrieben wird.
-
-[^75-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>1</sup> Leidet die Rechtsschrift an einem Mangel oder ist sie unleserlich, ungebührlich, unverständlich, weitschweifig oder in einer fremden Sprache abgefasst, wird sie zur Verbesserung oder zur Übersetzung unter Ansetzung einer angemessenen Frist zurückgewiesen mit der Androhung, dass auf die Sache nicht eingetreten und diese auf Kosten der betreffenden Partei vom Protokoll abgeschrieben wird.
 
 #### Art. 76
 
-**Rechtsschriftenwechsel[^75-1]**
-
-### 1. erster Schriftenwechsel
+**Rechtsschriftenwechsel 1. erster Schriftenwechsel**
 
 <sup>1</sup> Wird das Rechtsmittel nicht sofort als unzulässig erklärt oder abgewiesen, ist die Vernehmlassung der Gegenpartei und der Vorinstanz einzuholen.
 
@@ -1089,15 +936,13 @@ Leidet die Rechtsschrift an einem Mangel oder ist sie unleserlich, ungebührlich
 
 **3. weitere Bestimmungen**
 
-<sup>1</sup> Die Art. 73-75 sind sinngemäss anwendbar.
+<sup>1</sup> Die Art. 73–75 sind sinngemäss anwendbar.
 
 <sup>2</sup> Die Rechtsschriften sind den Parteien zuzustellen.
 
-[^77a-1]: Fassung gemäss Landratsbeschluss vom 17. April 1990, A 1990, 678, 1211
-
 #### Art. 78
 
-**Neuer Entscheid der Vorinstanz[^77a-1]**
+**Neuer Entscheid der Vorinstanz**
 
 <sup>1</sup> Die Vorinstanz kann ihren Entscheid während des Rechtsmittelverfahrens weder ändern noch aufheben; zulässig bleibt die Anerkennung der Rechtsbegehren.
 
@@ -1109,25 +954,23 @@ Leidet die Rechtsschrift an einem Mangel oder ist sie unleserlich, ungebührlich
 
 **Rückzug**
 
-Das Rechtsmittel kann bis zum Entscheid der Rechtsmittelinstanz zurückgezogen werden; abweichende Bestimmungen bleiben vorbehalten.
+<sup>1</sup> Das Rechtsmittel kann bis zum Entscheid der Rechtsmittelinstanz zurückgezogen werden; abweichende Bestimmungen bleiben vorbehalten.
 
-### B. Rechtsschutz
+### 6.2 Rechtsschutz
 
-### 1. Verwaltungsbeschwerde
+### 6.2.1 Verwaltungsbeschwerde
 
 #### Art. 80
 
 **Begriff**
 
-<sup>1</sup> Die Verwaltungsbeschwerde ist die schriftliche Anfechtung eines Entscheides einer unteren Verwaltungsbehörde bei der oberen Verwaltungsbehörde.[^80-1]
+<sup>1</sup> Die Verwaltungsbeschwerde ist die schriftliche Anfechtung eines Entscheides einer unteren Verwaltungsbehörde bei der oberen Verwaltungsbehörde.
 
 <sup>2</sup> Die obere Verwaltungsbehörde ist verpflichtet, den angefochtenen Entscheid zu überprüfen, die Sache zu entscheiden oder zum neuen Entscheid an die Vorinstanz zurückzuweisen.
 
-[^80-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 81
 
-**Zulässigkeit, Zuständigkeit[^80-1]**
+**Zulässigkeit, Zuständigkeit**
 
 <sup>1</sup> Erstinstanzliche Entscheide einer Verwaltungsbehörde können mit Verwaltungsbeschwerde beim Regierungsrat angefochten werden.
 
@@ -1141,35 +984,29 @@ Das Rechtsmittel kann bis zum Entscheid der Rechtsmittelinstanz zurückgezogen w
 
 <sup>2</sup> Die Überprüfungsbefugnis der Rechtsmittelinstanz ist nicht beschränkt, soweit in der Gesetzgebung nichts anderes bestimmt wird.
 
-[^82-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 83
 
-**…[^82-1]**
-
-[^83-1]: Fassung gemäss Landratsbeschluss vom 17. April 1990, A 1990, 678, 1211
+**…**
 
 #### Art. 84
 
-**Neue Tatsachen und Anträge[^83-1]**
+**Neue Tatsachen und Anträge**
 
 <sup>1</sup> Im Beschwerdeverfahren können die Parteien und die Vorinstanz neue Tatsachen geltend machen und sich auf neue Beweismittel berufen.
 
 <sup>2</sup> Die Parteien können die im vorinstanzlichen Verfahren zur Sache gestellten Anträge nicht ausdehnen oder inhaltlich ändern.
 
-[^84-1]: Fassung gemäss Landratsbeschluss vom 17. April 1990, A 1990, 678, 1211
-
 #### Art. 85
 
-**Massgebende Verhältnisse[^84-1]**
+**Massgebende Verhältnisse**
 
-Soweit sich aus der Natur der Streitsache nichts anderes ergibt, sind für die Beurteilung der Verwaltungsbeschwerde die tatsächlichen und rechtlichen Verhältnisse im Zeitpunkt des Entscheides massgebend.
+<sup>1</sup> Soweit sich aus der Natur der Streitsache nichts anderes ergibt, sind für die Beurteilung der Verwaltungsbeschwerde die tatsächlichen und rechtlichen Verhältnisse im Zeitpunkt des Entscheides massgebend.
 
 #### Art. 86
 
 **Unvereinbarkeit**
 
-Wer als Verwaltungsbehörde, Mitglied oder Beamter einer Verwaltungsbehörde an einem angefochtenen Entscheid mitgewirkt hat, darf für die Vorbereitung oder Antragstellung des Beschwerdeentscheides nicht beigezogen werden.
+<sup>1</sup> Wer als Verwaltungsbehörde, Mitglied oder Beamter einer Verwaltungsbehörde an einem angefochtenen Entscheid mitgewirkt hat, darf für die Vorbereitung oder Antragstellung des Beschwerdeentscheides nicht beigezogen werden.
 
 #### Art. 87
 
@@ -1179,21 +1016,19 @@ Wer als Verwaltungsbehörde, Mitglied oder Beamter einer Verwaltungsbehörde an 
 
 <sup>2</sup> Zum Nachteil des Beschwerdeführers kann sie den angefochtenen Entscheid ändern, soweit dieser eidgenössisches, kantonales oder kommunales Recht verletzt oder auf einer unrichtigen oder unvollständigen Feststellung des Sachverhalts beruht; beabsichtigt die Behörde, den angefochtenen Entscheid zum Nachteil des Beschwerdeführers zu ändern, bringt sie ihm diese Absicht zur Kenntnis und räumt ihm unter Ansetzung einer angemessenen Frist Gelegenheit zur Vernehmlassung ein.
 
-- 2\. Verwaltungsgerichtsbeschwerde
+### 6.2.2 Verwaltungsgerichtsbeschwerde
 
 #### Art. 88
 
 **Begriff**
 
-<sup>1</sup> Die Verwaltungsgerichtsbeschwerde ist die schriftliche Anfechtung eines letztinstanzlichen Entscheides einer Verwaltungsbehörde beim Verwaltungsgericht.[^88-1]
+<sup>1</sup> Die Verwaltungsgerichtsbeschwerde ist die schriftliche Anfechtung eines letztinstanzlichen Entscheides einer Verwaltungsbehörde beim Verwaltungsgericht.
 
 <sup>2</sup> Das Verwaltungsgericht ist verpflichtet, den angefochtenen Entscheid zu überprüfen, die Sache zu entscheiden oder zum neuen Entscheid an die zuständige Instanz zurückzuweisen.
 
-[^88-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 89
 
-**Zulässigkeit, Zuständigkeit[^88-1]**
+**Zulässigkeit, Zuständigkeit**
 
 <sup>1</sup> Letztinstanzliche Entscheide einer Verwaltungsbehörde können mit Verwaltungsgerichtsbeschwerde beim Verwaltungsgericht angefochten werden.
 
@@ -1203,67 +1038,54 @@ Wer als Verwaltungsbehörde, Mitglied oder Beamter einer Verwaltungsbehörde an 
 
 **Beschwerdegründe**
 
-Mit der Verwaltungsgerichtsbeschwerde können nur Rechtsverletzungen geltend gemacht werden; Überschreitung oder Missbrauch des Ermessens gelten als Rechtsverletzung.
-
-[^90-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>1</sup> Mit der Verwaltungsgerichtsbeschwerde können nur Rechtsverletzungen geltend gemacht werden; Überschreitung oder Missbrauch des Ermessens gelten als Rechtsverletzung.
 
 #### Art. 91
 
-**Neue Tatsachen und Anträge[^90-1]**
+**Neue Tatsachen und Anträge**
 
 <sup>1</sup> Im Beschwerdeverfahren vor dem Verwaltungsgericht können die Parteien und die Vorinstanz neue Tatsachen geltend machen und sich auf neue Beweismittel berufen.
 
 <sup>2</sup> Die Parteien können die im vorinstanzlichen Verfahren zur Sache gestellten Anträge nicht ausdehnen oder inhaltlich ändern.
 
-[^91-1]: Fassung gemäss Landratsbeschluss vom 29. Juni 2016, A 2016, 1169, 1604; in Kraft seit 1. Januar 2017
-
 #### Art. 92
 
-**Massgebende Verhältnisse[^91-1]**
+**Massgebende Verhältnisse**
 
-Soweit sich aus der Natur der Streitsache nichts anderes ergibt, sind für die Beurteilung der Verwaltungsgerichtsbeschwerde die tatsächlichen und rechtlichen Verhältnisse im Zeitpunkt des angefochtenen Entscheides massgebend.
-
-[^92-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>1</sup> Soweit sich aus der Natur der Streitsache nichts anderes ergibt, sind für die Beurteilung der Verwaltungsgerichtsbeschwerde die tatsächlichen und rechtlichen Verhältnisse im Zeitpunkt des angefochtenen Entscheides massgebend.
 
 #### Art. 93
 
-**Verhandlung[^92-1]**
+**Verhandlung**
 
-Das Verwaltungsgericht ordnet auf Antrag einer Partei oder von Amtes wegen eine Parteiverhandlung an, sofern eine solche zur Wahrung der Parteirechte notwendig oder zweckmässig erscheint.
+<sup>1</sup> Das Verwaltungsgericht ordnet auf Antrag einer Partei oder von Amtes wegen eine Parteiverhandlung an, sofern eine solche zur Wahrung der Parteirechte notwendig oder zweckmässig erscheint.
 
 #### Art. 94
 
 **Änderung des angefochtenen Entscheides**
 
-Das Verwaltungsgericht darf über die zur Sache gestellten Parteianträge nicht hinausgehen.
+<sup>1</sup> Das Verwaltungsgericht darf über die zur Sache gestellten Parteianträge nicht hinausgehen.
 
-- 3\. Verwaltungsgerichtliche Klage
-
-[^94-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+### 6.2.3 Verwaltungsgerichtliche Klage
 
 #### Art. 95
 
-**Begriff, Zulässigkeit[^94-1]**
+**Begriff, Zulässigkeit**
 
 <sup>1</sup> Die verwaltungsgerichtliche Klage ist das schriftliche Gesuch an das Verwaltungsgericht, folgende Streitigkeiten zu beurteilen:
 
 - 1\. Streitigkeiten aus öffentlich-rechtlichen Verträgen;
-
 - 2\. öffentlich-rechtliche Streitigkeiten zwischen Gemeinwesen, Anstalten, Korporationen und anderen Körperschaften des öffentlichen Rechts;
-
 - 3\. Streitigkeiten über vermögensrechtliche Ansprüche zwischen Gemeinwesen, Anstalten, Korporationen und anderen Körperschaften des öffentlichen Rechts und ihren Funktionärinnen und Funktionären;
-
 - 4\. andere Streitigkeiten, für welche die Gesetzgebung die verwaltungsgerichtliche Klage vorsieht.
 
 <sup>2</sup> Sie ist zulässig, sofern die Gesetzgebung kein anderes Rechtsmittel vorsieht.
 
 <sup>3</sup> Sie ist unzulässig, sofern die Gesetzgebung eine Behörde zum Erlass einer Verfügung über solche Streitigkeiten ermächtigt.
 
-[^95-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 96
 
-**…[^95-1]**
+**…**
 
 #### Art. 97
 
@@ -1285,45 +1107,32 @@ Das Verwaltungsgericht darf über die zur Sache gestellten Parteianträge nicht 
 
 **Klageschrift**
 
-Die Klage hat zu enthalten:
+<sup>1</sup> Die Klage hat zu enthalten:
 
 - 1\. genaue Bezeichnung der Parteien und ihrer Vertreter;
-
 - 2\. Rechtsbegehren;
-
 - 3\. Angaben betreffend die Zuständigkeit des Verwaltungsgerichts;
-
 - 4\. Begründung und eine kurz gefasste Darlegung des Sachverhalts;
-
 - 5\. Schriftenwechsel aus dem Vorverfahren;
-
 - 6\. allfällige Beweismittel und Beweisanträge;
-
 - 7\. Datum und Unterschrift des Klägers oder seines Vertreters.
 
 #### Art. 100
 
 **Rechtsantwort**
 
-Die Rechtsantwort hat zu enthalten:
+<sup>1</sup> Die Rechtsantwort hat zu enthalten:
 
 - 1\. Rechtsbegehren;
-
 - 2\. allfällige Einwendungen gegen die verfahrensrechtliche Zulässigkeit der Klage;
-
 - 3\. Entgegnung auf die Ausführungen des Klägers;
-
 - 4\. allfällige Beweismittel und Beweisanträge;
-
 - 5\. allfällige Widerklage;
-
 - 6\. Datum und Unterschrift des Beklagten oder seines Vertreters.
-
-[^100-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
 
 #### Art. 101
 
-**Widerklage[^100-1]**
+**Widerklage**
 
 <sup>1</sup> Die beklagte Partei kann mit einer Widerklage an die Klägerschaft Gegenansprüche stellen, die mit der Klage in rechtlichem Zusammenhang stehen.
 
@@ -1337,29 +1146,27 @@ Die Rechtsantwort hat zu enthalten:
 
 **Neue Tatsachen**
 
-Die Parteien können bis zum Schluss des Beweisverfahrens neue Tatsachen und Beweismittel geltend machen; Art. 120 bleibt vorbehalten.
-
-[^102-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>1</sup> Die Parteien können bis zum Schluss des Beweisverfahrens neue Tatsachen und Beweismittel geltend machen; Art. 120 bleibt vorbehalten.
 
 #### Art. 103
 
-**Verhandlung[^102-1]**
+**Verhandlung**
 
-Das Verwaltungsgericht ordnet auf Antrag einer Partei oder von Amtes wegen eine Parteiverhandlung an, sofern eine solche zur Wahrung der Parteirechte notwendig oder zweckmässig erscheint.
+<sup>1</sup> Das Verwaltungsgericht ordnet auf Antrag einer Partei oder von Amtes wegen eine Parteiverhandlung an, sofern eine solche zur Wahrung der Parteirechte notwendig oder zweckmässig erscheint.
 
 #### Art. 104
 
 **Streitwert**
 
-Der Streitwert wird gemäss den Bestimmungen der Zivilprozessordnung bestimmt.
+<sup>1</sup> Der Streitwert wird gemäss den Bestimmungen der Zivilprozessordnung bestimmt.
 
 #### Art. 105
 
 **Beurteilung**
 
-Das Verwaltungsgericht beurteilt die Anträge der Parteien in tatsächlicher und rechtlicher Hinsicht frei.
+<sup>1</sup> Das Verwaltungsgericht beurteilt die Anträge der Parteien in tatsächlicher und rechtlicher Hinsicht frei.
 
-### 4. Revision
+### 6.2.4 Revision
 
 #### Art. 106
 
@@ -1370,9 +1177,7 @@ Das Verwaltungsgericht beurteilt die Anträge der Parteien in tatsächlicher und
 <sup>2</sup> Die Verwaltungsbehörde oder das Verwaltungsgericht zieht ausserdem ihren Entscheid auf Gesuch hin in Revision:
 
 - 1\. wenn nachträglich erhebliche Tatsachen oder entscheidende Beweismittel vorgebracht werden, die vor dem angefochtenen Entscheid entstanden sind;
-
 - 2\. wenn sie Tatsachen, die den amtlichen Akten hätten entnommen werden müssen, nicht berücksichtigt hat;
-
 - 3\. wenn sie den Entscheid unter Verletzung der Vorschriften über den Ausstand oder das rechtliche Gehör gefällt hat.
 
 <sup>3</sup> Die Revision eines Entscheides kann gestützt auf die Gründe gemäss Absatz 2 nicht mehr verlangt werden, wenn diese Gründe im Rahmen des ordentlichen Verfahrens oder auf dem Wege einer Beschwerde hätten geltend gemacht werden können.
@@ -1381,19 +1186,19 @@ Das Verwaltungsgericht beurteilt die Anträge der Parteien in tatsächlicher und
 
 **Zuständige Instanz**
 
-Über Revisionsbegehren entscheidet die Instanz, welche den angefochtenen Entscheid getroffen hat.
+<sup>1</sup> Über Revisionsbegehren entscheidet die Instanz, welche den angefochtenen Entscheid getroffen hat.
 
 #### Art. 108
 
 **Revisionsgesuch**
 
-Das Revisionsgesuch muss insbesondere die Revisionsgründe und die Beweismittel bezeichnen.
+<sup>1</sup> Das Revisionsgesuch muss insbesondere die Revisionsgründe und die Beweismittel bezeichnen.
 
 #### Art. 109
 
 **Frist**
 
-Das Revisionsgesuch ist binnen 90 Tagen nach Entdeckung des Revisionsgrundes schriftlich einzureichen; nach Ablauf von zehn Jahren seit der Zustellung des Entscheides kann die Revision nur noch verlangt werden, wenn durch ein Verbrechen oder Vergehen auf das Zustandekommen des angefochtenen Entscheides eingewirkt worden ist.
+<sup>1</sup> Das Revisionsgesuch ist binnen 90 Tagen nach Entdeckung des Revisionsgrundes schriftlich einzureichen; nach Ablauf von zehn Jahren seit der Zustellung des Entscheides kann die Revision nur noch verlangt werden, wenn durch ein Verbrechen oder Vergehen auf das Zustandekommen des angefochtenen Entscheides eingewirkt worden ist.
 
 #### Art. 110
 
@@ -1403,18 +1208,15 @@ Das Revisionsgesuch ist binnen 90 Tagen nach Entdeckung des Revisionsgrundes sch
 
 <sup>2</sup> Gegen den neuen Entscheid sind die gleichen Rechtsmittel gegeben, die gegenüber dem ersten Entscheid zur Verfügung standen.
 
-- 5\. Aufsichtsbeschwerde
-
-[^110-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+### 6.2.5 Aufsichtsbeschwerde
 
 #### Art. 111
 
-**Zulässigkeit[^110-1]**
+**Zulässigkeit**
 
 <sup>1</sup> Aufsichtsbeschwerde kann erhoben werden wegen:
 
 - 1\. Missbrauch der Amtsgewalt;
-
 - 2\. willkürlicher Ausübung amtlicher Befugnisse.
 
 <sup>2</sup> Sie ist zulässig, sofern die Gesetzgebung kein Rechtsmittel vorsieht.
@@ -1429,19 +1231,15 @@ Das Revisionsgesuch ist binnen 90 Tagen nach Entdeckung des Revisionsgrundes sch
 
 <sup>3</sup> Aufsichtsbeschwerden gegen die oberste Verwaltungsbehörde einer kantonalen Anstalt entscheidet der Landrat.
 
-[^112-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 113
 
-**Frist[^112-1]**
+**Frist**
 
-Richtet sich die Aufsichtsbeschwerde gegen eine bestimmte Handlung, ist sie binnen 20 Tagen seit der Mitteilung oder Kenntnisnahme einzureichen; in allen anderen Fällen ist sie binnen nützlicher Frist einzureichen.
-
-[^113-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>1</sup> Richtet sich die Aufsichtsbeschwerde gegen eine bestimmte Handlung, ist sie binnen 20 Tagen seit der Mitteilung oder Kenntnisnahme einzureichen; in allen anderen Fällen ist sie binnen nützlicher Frist einzureichen.
 
 #### Art. 114
 
-**Verfahren[^113-1]**
+**Verfahren**
 
 <sup>1</sup> Der Eingang der Aufsichtsbeschwerde ist schriftlich zu bestätigen.
 
@@ -1449,87 +1247,65 @@ Richtet sich die Aufsichtsbeschwerde gegen eine bestimmte Handlung, ist sie binn
 
 <sup>3</sup> Die Aufsichtsbeschwerde verleiht weder Parteirechte noch Anspruch auf einen Entscheid.
 
-[^114-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 114a
 
-**Erledigung[^114-1]**
+**Erledigung**
 
 <sup>1</sup> Die Aufsichtsinstanz trifft die erforderlichen Massnahmen.
 
 <sup>2</sup> Die Art der Erledigung wird der Beschwerdeführerin oder dem Beschwerdeführer mitgeteilt.
 
-### VII. KOSTEN
+## 7 Kosten
 
-[^hVIIKOSTEN-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
-
-### A. Amtliche Kosten und Parteienschädigung
-
-[^hVIIKOSTEN-1]
+### 7.1 Amtliche Kosten und Parteienschädigung
 
 #### Art. 115
 
 **Begriff**
 
-Die Kosten des Verwaltungsverfahrens umfassen die amtlichen Kosten (Gebühren und Auslagen) sowie die Parteientschädigung.
-
-[^115-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+<sup>1</sup> Die Kosten des Verwaltungsverfahrens umfassen die amtlichen Kosten (Gebühren und Auslagen) sowie die Parteientschädigung.
 
 #### Art. 116
 
-**Weitere Bestimmungen[^115-1]**
+**Weitere Bestimmungen**
 
-<sup>1</sup> Die Erhebung der amtlichen Kosten im erstinstanzlichen Verwaltungsverfahren einschliesslich des Einwendungs- und Einspracheverfahrens richtet sich nach der Gebührengesetzgebung[^116-1].[^116-2]
+<sup>1</sup> Die Erhebung der amtlichen Kosten im erstinstanzlichen Verwaltungsverfahren einschliesslich des Einwendungs- und Einspracheverfahrens richtet sich nach der Gebührengesetzgebung[^116-1].
 
-<sup>2</sup> Im verwaltungsinternen Rechtsmittelverfahren richtet sich die Erhebung der amtlichen Kosten unter Vorbehalt der Kostentragung nach der Gebührengesetzgebung. Die Festlegung der Parteientschädigung richtet sich nach der Gesetzgebung über die Prozesskosten[^116-3].
+<sup>2</sup> Im verwaltungsinternen Rechtsmittelverfahren richtet sich die Erhebung der amtlichen Kosten unter Vorbehalt der Kostentragung nach der Gebührengesetzgebung. Die Festlegung der Parteientschädigung richtet sich nach der Gesetzgebung über die Prozesskosten[^116-2].
 
 <sup>3</sup> Die Festlegung der amtlichen Kosten sowie der Parteientschädigung im Verfahren vor dem Verwaltungsgericht richtet sich nach der Gesetzgebung über die Prozesskosten.
 
 [^116-1]: NG 265.5
-[^116-2]: Fassung gemäss Landratsbeschluss vom 12. Februar 2020, A 2020, 327, 2029; in Kraft seit 1. November 2020
-[^116-3]: NG 261.11
-[^116-4]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+[^116-2]: NG 261.2
 
 #### Art. 117
 
-**Sicherstellung der Kosten[^116-4]**
+**Sicherstellung der Kosten 1. Kostenvorschuss**
 
-### 1. Kostenvorschuss
-
-<sup>1</sup> Im erstinstanzlichen Verwaltungsverfahren und im verwaltungsinternen Beschwerdeverfahren ist ein Kostenvorschuss gemäss Art. 17 des Gebührengesetzes[^h1Kostenvorschuss-1] zu leisten.
+<sup>1</sup> Im erstinstanzlichen Verwaltungsverfahren und im verwaltungsinternen Beschwerdeverfahren ist ein Kostenvorschuss gemäss Art. 17 des Gebührengesetzes[^117-1] zu leisten.
 
 <sup>2</sup> Im Verwaltungsgerichts- und dem Verfassungsgerichtsverfahren hat die beschwerdeführende oder klagende Partei einen angemessenen Kostenvorschuss für die amtlichen Kosten zu leisten. Die Gegenpartei kann zur Leistung eines Kostenvorschusses verpflichtet werden, wenn dies aufgrund der Beweisanträge angezeigt erscheint.
 
 <sup>3</sup> Die Verfahrensleitung legt die Höhe des Kostenvorschusses fest.
 
-[^h1Kostenvorschuss-1]: NG 265.5
-[^h1Kostenvorschuss-2]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+[^117-1]: NG 265.5
 
 #### Art. 118
 
-**2. Sicherheit für die Parteientschädigung[^h1Kostenvorschuss-2]**
+**2. Sicherheit für die Parteientschädigung**
 
 <sup>1</sup> Die beschwerdeführende oder klagende Partei hat auf Antrag der Gegenpartei für deren Parteientschädigung Sicherheit zu leisten, wenn sie:
 
 - 1\. keinen Wohnsitz oder Sitz in der Schweiz hat;
-
 - 2\. zahlungsunfähig erscheint, namentlich wenn gegen sie der Konkurs eröffnet oder ein Nachlassverfahren im Gang ist oder Verlustscheine bestehen;
-
 - 3\. Prozesskosten aus früheren Verfahren schuldet; oder
-
 - 4\. wenn andere Gründe für eine erhebliche Gefährdung der Parteientschädigung bestehen.
 
 <sup>2</sup> Vorbehalten bleiben staatsvertragliche Regelungen.
 
 #### Art. 119
 
-**3. Leistung des Kostenvorschusses und der**
-
-[^119-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
-
-### Sicherheit
-
-[^119-1]
+**3. Leistung des Kostenvorschusses und der Sicherheit**
 
 <sup>1</sup> Die Verfahrensleitung setzt eine Frist zur Leistung des Kostenvorschusses und der Sicherheit.
 
@@ -1537,43 +1313,33 @@ Die Kosten des Verwaltungsverfahrens umfassen die amtlichen Kosten (Gebühren un
 
 <sup>3</sup> Werden der Kostenvorschuss oder die Sicherheit auch nicht binnen einer kurzen Nachfrist geleistet, tritt das Gericht auf die Beschwerde oder die Klage nicht ein.
 
-[^hSicherheit1191-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
-
 #### Art. 120
 
-**Verletzung von Verfahrensvorschriften[^hSicherheit1191-1]**
+**Verletzung von Verfahrensvorschriften**
 
-Kosten, die eine Partei durch pflichtwidriges Verhalten im Verfahren oder verspätetes Vorbringen von Tatsachen oder Beweismitteln verursacht, gehen in jedem Fall zu ihren Lasten.
-
-[^120-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+<sup>1</sup> Kosten, die eine Partei durch pflichtwidriges Verhalten im Verfahren oder verspätetes Vorbringen von Tatsachen oder Beweismitteln verursacht, gehen in jedem Fall zu ihren Lasten.
 
 #### Art. 121
 
-**Tragen der amtlichen Kosten[^120-1]**
-
-### 1. Kostenpflicht der Gemeinwesen
+**Tragen der amtlichen Kosten 1. Kostenpflicht der Gemeinwesen**
 
 <sup>1</sup> Von Gemeinwesen werden keine amtlichen Kosten erhoben, ausser bei einer Streitsache mit vermögensrechtlichen Interessen.
 
 <sup>2</sup> Die kantonalen Rechtsmittelinstanzen können den Gemeinden und anderen dem Kanton nachgeordneten Gemeinwesen amtliche Kosten auferlegen, wenn ihren Behörden grobe Verfahrensmängel oder offenbare Rechtsverletzungen zur Last fallen.
 
-[^h1Kostenpflichtder-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
-
 #### Art. 122
 
-**2. Rechtsmittelverfahren[^h1Kostenpflichtder-1]**
+**2. Rechtsmittelverfahren**
 
 <sup>1</sup> Die Partei hat die amtlichen Kosten im Rechtsmittelverfahren zu tragen, wenn sie unterliegt, auf ihr Rechtsmittel nicht eingetreten wurde oder wenn sie das Rechtsmittel zurückgezogen hat.
 
 <sup>2</sup> Unterliegt eine kostenpflichtige Partei nur teilweise, werden die amtlichen Kosten angemessen herabgesetzt.
 
-[^122-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
-
 #### Art. 123
 
-**Parteientschädigung[^122-1]**
+**Parteientschädigung**
 
-<sup>1</sup> Im erstinstanzlichen Verwaltungsverfahren wird unter Vorbehalt abweichender Bestimmungen keine Parteientschädigung zugesprochen. Im Einwendungsverfahren haben die unterliegenden Einwenderinnen und Einwender den obsiegenden Gesuchstellerinnen und Gesuchstellern eine angemessene Parteientschädigung zu entrichten, wenn die Einwendung offensichtlich missbräuchlich erfolgt.[^123-1]
+<sup>1</sup> Im erstinstanzlichen Verwaltungsverfahren wird unter Vorbehalt abweichender Bestimmungen keine Parteientschädigung zugesprochen. Im Einwendungsverfahren haben die unterliegenden Einwenderinnen und Einwender den obsiegenden Gesuchstellerinnen und Gesuchstellern eine angemessene Parteientschädigung zu entrichten, wenn die Einwendung offensichtlich missbräuchlich erfolgt.
 
 <sup>2</sup> Im Rechtsmittelverfahren ist der ganz oder teilweise obsiegenden Partei eine angemessene Entschädigung zu Lasten der unterliegenden Partei zuzuerkennen.
 
@@ -1581,21 +1347,15 @@ Kosten, die eine Partei durch pflichtwidriges Verhalten im Verfahren oder versp�
 
 <sup>4</sup> Den am Verfahren beteiligten Gemeinwesen wird in der Regel keine Parteientschädigung zugesprochen.
 
-[^123-1]: Fassung gemäss Landratsbeschluss vom 12. Februar 2020, A 2020, 327, 2029; in Kraft seit 1. November 2020
-[^123-2]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
-
-### B. Unentgeltliche Rechtspflege
-
-[^123-2]
+### 7.2 Unentgeltliche Rechtspflege
 
 #### Art. 124
 
 **Anspruch**
 
-Eine natürliche Person hat Anspruch auf unentgeltliche Rechtspflege, wenn:
+<sup>1</sup> Eine natürliche Person hat Anspruch auf unentgeltliche Rechtspflege, wenn:
 
 - 1\. sie nicht über die erforderlichen Mittel verfügt; und
-
 - 2\. ihr Rechtsbegehren nicht aussichtslos erscheint.
 
 #### Art. 124a
@@ -1605,9 +1365,7 @@ Eine natürliche Person hat Anspruch auf unentgeltliche Rechtspflege, wenn:
 <sup>1</sup> Die unentgeltliche Rechtspflege umfasst:
 
 - 1\. die Befreiung von Vorschuss- und Sicherheitsleistungen;
-
 - 2\. die Befreiung von den amtlichen Kosten;
-
 - 3\. die Bestellung einer Rechtsbeiständin oder eines Rechtsbeistandes, wenn dies zur Wahrung der Rechte notwendig ist, insbesondere wenn die Gegenpartei anwaltlich vertreten ist; die Rechtsbeiständin oder der Rechtsbeistand kann bereits zur Vorbereitung des Rechtsmittelverfahrens bestellt werden.
 
 <sup>2</sup> Sie kann ganz oder teilweise gewährt werden.
@@ -1636,13 +1394,13 @@ Eine natürliche Person hat Anspruch auf unentgeltliche Rechtspflege, wenn:
 
 **Entzug der unentgeltlichen Rechtspflege**
 
-Der oder die Vorsitzende der Rechtsmittelinstanz entzieht die unentgeltliche Rechtspflege, wenn der Anspruch darauf nicht mehr besteht oder nie bestanden hat.
+<sup>1</sup> Der oder die Vorsitzende der Rechtsmittelinstanz entzieht die unentgeltliche Rechtspflege, wenn der Anspruch darauf nicht mehr besteht oder nie bestanden hat.
 
 #### Art. 124d
 
 **Rechtsmittel**
 
-Wird die unentgeltliche Rechtspflege ganz oder teilweise abgelehnt oder entzogen, kann der Entscheid mit Beschwerde angefochten werden.
+<sup>1</sup> Wird die unentgeltliche Rechtspflege ganz oder teilweise abgelehnt oder entzogen, kann der Entscheid mit Beschwerde angefochten werden.
 
 #### Art. 124e
 
@@ -1651,11 +1409,8 @@ Wird die unentgeltliche Rechtspflege ganz oder teilweise abgelehnt oder entzogen
 <sup>1</sup> Unterliegt die unentgeltlich prozessführende Partei, werden die Verfahrenskosten wie folgt auferlegt:
 
 - 1\. die unentgeltliche Rechtsbeiständin oder der unentgeltliche Rechtsbeistand wird vom Kanton angemessen entschädigt;
-
 - 2\. die amtlichen Kosten gehen zulasten des Kantons;
-
 - 3\. der Gegenpartei werden die Vorschüsse, die sie geleistet hat, zurückerstattet;
-
 - 4\. die unentgeltlich prozessführende Partei hat der Gegenpartei die Parteientschädigung zu bezahlen.
 
 <sup>2</sup> Obsiegt die unentgeltlich prozessführende Partei und ist die Parteientschädigung bei der Gegenpartei nicht oder voraussichtlich nicht einbringlich, wird die unentgeltliche Rechtsbeiständin oder der unentgeltliche Rechtsbeistand vom Kanton angemessen entschädigt. Mit der Zahlung geht der Anspruch auf den Kanton über.
@@ -1670,7 +1425,7 @@ Wird die unentgeltliche Rechtspflege ganz oder teilweise abgelehnt oder entzogen
 
 <sup>2</sup> Der Anspruch des Kantons verjährt zehn Jahre nach Abschluss des Verfahrens.
 
-### VIII. VOLLSTRECKUNG
+## 8 Vollstreckung
 
 #### Art. 125
 
@@ -1690,33 +1445,27 @@ Wird die unentgeltliche Rechtspflege ganz oder teilweise abgelehnt oder entzogen
 
 #### Art. 127
 
-**Vollstreckungsarten**
+**Vollstreckungsarten 1. Schuldbetreibung**
 
-### 1. Schuldbetreibung
+<sup>1</sup> Entscheide, die eine Pflicht zur Geldzahlung oder Sicherheitsleistung begründen, werden bei Verzug des Pflichtigen nach den Bestimmungen des Bundesgesetzes über Schuldbetreibung und Konkurs[^127-1] vollstreckt; sie sind vollstreckbaren Urteilen gemäss Art. 80 dieses Bundesgesetzes gleichgestellt, sobald sie in Rechtskraft erwachsen sind.
 
-Entscheide, die eine Pflicht zur Geldzahlung oder Sicherheitsleistung begründen, werden bei Verzug des Pflichtigen nach den Bestimmungen des Bundesgesetzes über Schuldbetreibung und Konkurs[^h1Schuldbetreibung-1] vollstreckt; sie sind vollstreckbaren Urteilen gemäss Art. 80 dieses Bundesgesetzes gleichgestellt, sobald sie in Rechtskraft erwachsen sind.
-
-[^h1Schuldbetreibung-1]: SR 281.1
+[^127-1]: SR 281.1
 
 #### Art. 128
 
 **2. Handlung, Dulden, Unterlassen**
 
-Ist der Entscheid auf Vornahme einer Handlung, auf Dulden oder Unterlassen gerichtet, können folgende Vollstreckungsmassnahmen getroffen werden:
+<sup>1</sup> Ist der Entscheid auf Vornahme einer Handlung, auf Dulden oder Unterlassen gerichtet, können folgende Vollstreckungsmassnahmen getroffen werden:
 
 - 1\. Einleitung der Strafverfolgung wegen Ungehorsams gemäss Art. 292 des Schweizerischen Strafgesetzbuches[^128-1];
-
 - 2\. Ersatzvornahme;
-
 - 3\. polizeiliche Hilfe.
 
-[^128-1]: SR 311,0
+[^128-1]: SR 311.0
 
 #### Art. 129
 
-**Verfahren**
-
-### 1. Fristansetzung
+**Verfahren 1. Fristansetzung**
 
 <sup>1</sup> Bevor die zuständige Behörde zu einem Zwangsmittel greift, ist dieses dem Verpflichteten anzudrohen unter Einräumung einer angemessenen Frist für die Erfüllung.
 
@@ -1742,7 +1491,7 @@ Ist der Entscheid auf Vornahme einer Handlung, auf Dulden oder Unterlassen geric
 
 **Verwaltungsgerichtliche Klagen**
 
-Die Urteile des Verwaltungsgerichts gemäss Art. 95 und folgende werden nach den Vorschriften der Zivilprozessordnung[^132-1] vollstreckt.
+<sup>1</sup> Die Urteile des Verwaltungsgerichts gemäss Art. 95 und folgende werden nach den Vorschriften der Zivilprozessordnung[^132-1] vollstreckt.
 
 [^132-1]: SR 272
 
@@ -1756,13 +1505,11 @@ Die Urteile des Verwaltungsgerichts gemäss Art. 95 und folgende werden nach den
 
 <sup>3</sup> Vorbehalten bleiben Konkordate oder Staatsverträge.
 
-[^133-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
 #### Art. 134
 
-**…[^133-1]**
+**…**
 
-### IX. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+## 9 Übergangs- und Schlussbestimmungen
 
 #### Art. 135
 
@@ -1776,25 +1523,21 @@ Die Urteile des Verwaltungsgerichts gemäss Art. 95 und folgende werden nach den
 
 #### Art. 136
 
-**Änderung bestehender Verordnungen**
+**Änderung bestehender Verordnungen 1. Regierungsratsverordnung**
 
-### 1. Regierungsratsverordnung
+<sup>1</sup> § 6 Abs. 2, § 25, § 27 sowie §§ 94–112 der Verordnung vom 21. April 1978 über die Organisation und die Geschäftsführung des Regierungsrates und der Kantonsverwaltung (Regierungsratsverordnung)[^136-1] werden aufgehoben.
 
-<sup>1</sup> § 6 Abs. 2, § 25, § 27 sowie §§ 94-112 der Verordnung vom 21. April 1978 über die Organisation und die Geschäftsführung des Regierungsrates und der Kantonsverwaltung (Regierungsratsverordnung)[^h1Regierungsratsver-1] werden aufgehoben.
+<sup>2</sup> Die Regierungsratsverordnung lautet neu: …
 
-<sup>2</sup> Die Regierungsratsverordnung lautet neu: ...
-
-[^h1Regierungsratsver-1]: NG 151.12 (heute aufgehoben)
+[^136-1]: NG 151.12 (heute aufgehoben)
 
 #### Art. 137
 
-**2. Einführungsverordnung zur Bundesgesetzgebung**
-
-über die Unfallversicherung
+**2. Einführungsverordnung zur Bundesgesetzgebung über die Unfallversicherung**
 
 <sup>1</sup> § 7 Abs. 2 der Einführungsverordnung vom 16. Dezember 1983 zur Bundesgesetzgebung über die Unfallversicherung[^137-1] wird aufgehoben.
 
-<sup>2</sup> § 7 Abs. 2 lautet neu: ...
+<sup>2</sup> § 7 Abs. 2 lautet neu: …
 
 [^137-1]: NG 742.2
 
@@ -1804,7 +1547,7 @@ Die Urteile des Verwaltungsgerichts gemäss Art. 95 und folgende werden nach den
 
 <sup>1</sup> § 5 der Verordnung vom 8. April 1972 über die vertragliche Vertretung der Parteien vor den Gerichten (Anwaltsverordnung)[^138-1] wird aufgehoben.
 
-<sup>2</sup> Die Anwaltsverordnung lautet neu: ...
+<sup>2</sup> Die Anwaltsverordnung lautet neu: …
 
 [^138-1]: NG 267.1
 
@@ -1814,33 +1557,25 @@ Die Urteile des Verwaltungsgerichts gemäss Art. 95 und folgende werden nach den
 
 <sup>1</sup> § 4 der Vollziehungsverordnung zum Gesetz über die öffentliche Beurkundung (Beurkundungsverordnung)[^139-1] wird aufgehoben.
 
-<sup>2</sup> Die Beurkundungsverordnung lautet neu: ...
+<sup>2</sup> Die Beurkundungsverordnung lautet neu: …
 
 [^139-1]: NG 268.11
 
 #### Art. 140
 
-**5. Einführungsgesetz zum Bundesgesetz über Investiti-**
-
-onskredite und Betriebshilfe in der Landwirtschaft
+**5. Einführungsgesetz zum Bundesgesetz über Investitionskredite und Betriebshilfe in der Landwirtschaft**
 
 <sup>1</sup> § 9 und § 10 der Einführungsverordnung vom 22. Dezember 1962 zum Bundesgesetz über Investitionskredite und Betriebshilfe in der Landwirtschaft[^140-1] werden aufgehoben.
 
-<sup>2</sup> Die Einführungsverordnung zum Bundesgesetz über Investitionskredite und Betriebshilfe in der Landwirtschaft lautet neu: ...
+<sup>2</sup> Die Einführungsverordnung zum Bundesgesetz über Investitionskredite und Betriebshilfe in der Landwirtschaft lautet neu: …
 
 [^140-1]: NG 823.1
 
 #### Art. 140a
 
-**Übergangsbestimmungen zur Änderung vom**
+**Übergangsbestimmungen zur Änderung vom 27. Mai 2015 1. anwendbares Recht**
 
-[^140a-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
-### 27. Mai 2015 1. anwendbares Recht
-
-[^140a-1]
-
-<sup>1</sup> Einwendungs-, Einsprache- und Rechtsmittelverfahren, die bei Inkrafttreten dieses Gesetzes hängig sind, werden von der nach bisherigem Recht zuständigen Instanz und nach den bisherigen Verfahrensbestimmungen beendet.
+<sup>1</sup> Einwendungs , Einsprache- und Rechtsmittelverfahren, die bei Inkrafttreten dieses Gesetzes hängig sind, werden von der nach bisherigem Recht zuständigen Instanz und nach den bisherigen Verfahrensbestimmungen beendet.
 
 <sup>2</sup> Gegen Verwaltungsbeschwerdeentscheide kommunaler Instanzen nach bisherigem Recht ist Beschwerde beim Regierungsrat zu erheben.
 
@@ -1852,7 +1587,7 @@ onskredite und Betriebshilfe in der Landwirtschaft
 
 **2. formelle Änderungen**
 
-<sup>1</sup> In den Paragrafen 3, 61 und 141 wird der Begriff „Verordnung“ durch den Begriff „Gesetz“ ersetzt; die unmittelbar mit der Begriffsänderung zusammenhängenden grammatikalischen Änderungen sind vorzunehmen.
+<sup>1</sup> In den Paragrafen 3, 61 und 141 wird der Begriff «Verordnung» durch den Begriff «Gesetz» ersetzt; die unmittelbar mit der Begriffsänderung zusammenhängenden grammatikalischen Änderungen sind vorzunehmen.
 
 <sup>2</sup> Die Paragrafen werden neu als Artikel bezeichnet.
 
@@ -1868,9 +1603,4 @@ onskredite und Betriebshilfe in der Landwirtschaft
 
 [^141-1]: NG 151.1 (heute aufgehoben)
 
-## Weitere Fussnoten
-
-- [2] NG 261.1
-- [4] NG 171.1
-- [7] NG 262.1
-- [22] heute Art. 38 des Gerichtsgesetzes vom 9. Juni 2010
+A 1985, 183, 489
