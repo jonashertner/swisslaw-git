@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. November 1999 für das Eidgenössische Ju
 short: OV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: de
-version: 2023-01-23
+version: 2023-08-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230123-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230123/de"
 
 (OV-EJPD)
 
-vom 17. November 1999 (Stand am 23. Januar 2023)
+vom 17. November 1999 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -294,37 +294,37 @@ Fedpol führt:
 - h.[^10-8] die gemeinsame Koordinationsstelle von Bund und Kantonen zur Bekämpfung der Internetkriminalität, zum Erkennen von strafbaren Missbräuchen des Internets sowie zur Koordination der Ermittlungsverfahren und zur Durchführung von Analysen der Internetkriminalität (KOBIK);
 - i.[^10-9] die Zeugenschutzstelle des Bundes.
 
-<sup>2</sup> Es leitet die Koordinationsstelle gegen Menschenhandel und Menschenschmuggel (KSMM) unter Beizug aller interessierten Stellen von Bund und Kantonen und führt zu diesem Zweck eine Geschäftsstelle. Die KSMM und ihre Geschäftsstelle nehmen die Aufgaben nach Artikel 13 der Verordnung vom 23. Oktober 2013[^10-10] gegen Menschenhandel wahr und treffen Vorkehren zur Verhütung und Bekämpfung des Menschenschmuggels.[^10-11]
+<sup>2</sup> Es ist das Kompetenzzentrum nach Artikel 29 Absatz 2 des Übereinkommens vom 16. Mai 2005[^10-10] zur Bekämpfung des Menschenhandels; es nimmt die Aufgaben nach Artikel 15*a* der Verordnung vom 23. Oktober 2013[^10-11] gegen Menschenhandel wahr und trifft Massnahmen zur Verhütung und Bekämpfung des Menschenschmuggels.[^10-12]
 
 <sup>3</sup> Es ist unter Vorbehalt abweichender Spezialbestimmungen die Fachstelle des Bundes für das Ausweiswesen und führt die Koordinationsstelle im Bereich der Identitäts- und Legitimationsausweise.
 
-<sup>4</sup> Es nimmt ausländerrechtliche Aufgaben mit Bezug zur inneren Sicherheit wahr.[^10-12]
+<sup>4</sup> Es nimmt ausländerrechtliche Aufgaben mit Bezug zur inneren Sicherheit wahr.[^10-13]
 
-<sup>5</sup> Es erstellt das Anforderungsprofil für die Sicherheitsbeauftragten für den Luftverkehr, leitet ihre Ausbildung und ist für ihren Einsatz verantwortlich. Es erstellt Risiko- und Bedrohungsanalysen im Zusammenhang mit ihrem Einsatz.[^10-13]
+<sup>5</sup> Es erstellt das Anforderungsprofil für die Sicherheitsbeauftragten für den Luftverkehr, leitet ihre Ausbildung und ist für ihren Einsatz verantwortlich. Es erstellt Risiko- und Bedrohungsanalysen im Zusammenhang mit ihrem Einsatz.[^10-14]
 
-<sup>6</sup> …[^10-14]
+<sup>6</sup> …[^10-15]
 
 <sup>7</sup> Es sorgt für die ständige Einsatzbereitschaft des Sonderstabes Geiselnahme und Erpressung und führt den Kernstab im Einsatzfall.
 
-<sup>8</sup> Es betreibt die Informationssysteme im Bereich der Polizei und der Strafverfolgung.[^10-15]
+<sup>8</sup> Es betreibt die Informationssysteme im Bereich der Polizei und der Strafverfolgung.[^10-16]
 
-<sup>9</sup> Es kann den kantonalen Behörden besondere technische Geräte sowie besondere Informatikprogramme für die Überwachung des Fernmeldeverkehrs zur Verfügung stellen (Art. 269<sup>bis</sup>–269<sup>quater</sup> der Strafprozessordnung[^10-16]; Art. 35 Abs. 3 und Art. 36 Abs. 2 des Bundesgesetzes vom 18. März 2016[^10-17] betreffend die Überwachung des Post- und Fernmeldeverkehrs [BÜPF]).[^10-18]
+<sup>9</sup> Es kann den kantonalen Behörden besondere technische Geräte sowie besondere Informatikprogramme für die Überwachung des Fernmeldeverkehrs zur Verfügung stellen (Art. 269<sup>bis</sup>–269<sup>quater</sup> der Strafprozessordnung[^10-17]; Art. 35 Abs. 3 und Art. 36 Abs. 2 des Bundesgesetzes vom 18. März 2016[^10-18] betreffend die Überwachung des Post- und Fernmeldeverkehrs [BÜPF]).[^10-19]
 
 <sup>10</sup> Es bearbeitet Fragen und Auskunftsgesuche in Polizeisachen, führt den internationalen polizeilichen Amtsverkehr und besorgt die polizeiliche Zusammenarbeit mit internationalen Gerichten.
 
-<sup>11</sup> Es leitet administrativ die gemeinsamen Zentren für Polizei- und Zollzusammenarbeit in Genf und Chiasso.[^10-19]
+<sup>11</sup> Es leitet administrativ die gemeinsamen Zentren für Polizei- und Zollzusammenarbeit in Genf und Chiasso.[^10-20]
 
-<sup>12</sup> Es ist, im Einvernehmen mit dem EDA, für die Entsendung, den Einsatz und die Führung von Polizeiverbindungsleuten zuständig. Die Weisungsbefugnis der Missionschefin oder des Missionschefs bleibt vorbehalten.[^10-20]
+<sup>12</sup> Es ist, im Einvernehmen mit dem EDA, für die Entsendung, den Einsatz und die Führung von Polizeiverbindungsleuten zuständig. Die Weisungsbefugnis der Missionschefin oder des Missionschefs bleibt vorbehalten.[^10-21]
 
-<sup>13</sup> …[^10-21]
+<sup>13</sup> …[^10-22]
 
-<sup>14</sup> Es übt die Aufsicht aus über die forensischen DNA-Analyselabors sowie über Laboratorien, die DNA-Profile im zivilen und administrativen Bereich erstellen.[^10-22]
+<sup>14</sup> Es übt die Aufsicht aus über die forensischen DNA-Analyselabors sowie über Laboratorien, die DNA-Profile im zivilen und administrativen Bereich erstellen.[^10-23]
 
-<sup>15</sup> Es leitet und koordiniert im Einvernehmen mit dem EDA und den kantonalen Behörden Einsätze des schweizerischen Disaster-Victim-Identification-Teams (DVI) im Ausland.[^10-23]
+<sup>15</sup> Es leitet und koordiniert im Einvernehmen mit dem EDA und den kantonalen Behörden Einsätze des schweizerischen Disaster-Victim-Identification-Teams (DVI) im Ausland.[^10-24]
 
-<sup>16</sup> Es erfüllt die Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^10-24], soweit dieses nicht eine andere Stelle als zuständig bezeichnet.[^10-25]
+<sup>16</sup> Es erfüllt die Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^10-25], soweit dieses nicht eine andere Stelle als zuständig bezeichnet.[^10-26]
 
-<sup>17</sup> Es unterstützt das Departement bei der Leitung des NATA, leitet das vorberatende Gremium und stellt dessen Einsatzbereitschaft sicher.[^10-26]
+<sup>17</sup> Es unterstützt das Departement bei der Leitung des NATA, leitet das vorberatende Gremium und stellt dessen Einsatzbereitschaft sicher.[^10-27]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-2]: Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
@@ -335,23 +335,24 @@ Fedpol führt:
 [^10-7]: Ursprünglich Bst. f.
 [^10-8]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-9]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Fassung gemäss Anhang Ziff. 4 der V vom 7. Nov. 2012 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^10-10]: [SR 311.039.3](https://fedlex.data.admin.ch/eli/cc/2013/680)
-[^10-11]: Fassung gemäss Art. 16 der V vom 23. Okt. 2013 gegen Menschenhandel, in Kraft seit 1. Jan. 2014 ([AS 2013 3625](https://fedlex.data.admin.ch/eli/oc/2013/680)).
-[^10-12]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-10]: [SR 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
+[^10-11]: [SR 311.039.3](https://fedlex.data.admin.ch/eli/cc/2013/680)
+[^10-12]: Fassung gemäss Ziff. II der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 [^10-13]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-14]: Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-15]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-16]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-17]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^10-18]: Fassung gemäss Ziff. II der V vom 27. Febr. 2019, mit Wirkung seit 1. Dez 2019 ([AS 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
-[^10-19]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-14]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-15]: Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-16]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-17]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-18]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^10-19]: Fassung gemäss Ziff. II der V vom 27. Febr. 2019, mit Wirkung seit 1. Dez 2019 ([AS 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
 [^10-20]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-21]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-22]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-21]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-22]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-23]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-24]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^10-25]: Eingefügt durch Anhang 2 Ziff. 3 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), dort Abs. 16).
-[^10-26]: Eingefügt durch Anhang der NATA-Verordnung vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
+[^10-24]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-25]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^10-26]: Eingefügt durch Anhang 2 Ziff. 3 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), dort Abs. 16).
+[^10-27]: Eingefügt durch Anhang der NATA-Verordnung vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
 
 #### Art. 11
 

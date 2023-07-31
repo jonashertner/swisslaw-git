@@ -4,11 +4,11 @@ title: "Ordonnance du 17 novembre 1999 sur l'organisation du Département fédé
 short: Org DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: fr
-version: 2023-01-23
+version: 2023-08-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230123-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230123/fr"
 
 (Org DFJP)
 
-du 17 novembre 1999 (État le 23 janvier 2023)
+du 17 novembre 1999 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -293,37 +293,37 @@ Fedpol gère:
 - h.[^10-8] le service de coordination géré conjointement par la Confédération et les cantons pour lutter contre la criminalité sur Internet, détecter les abus punissables d’Internet, coordonner les procédures d’enquête et procéder à des analyses de la criminalité sur Internet (SCOCI);
 - i.[^10-9] le Service de protection des témoins de la Confédération.
 
-<sup>2</sup> Il dirige le Service de coordination contre la traite d’êtres humains et le trafic de migrants (SCOTT) avec l’appui de tous les services fédéraux et cantonaux intéressés et gère un bureau de direction à cet effet. Le SCOTT et son bureau de direction assument les tâches mentionnées à l’art. 13 de l’ordonnance du 23 octobre 2013 contre la traite des êtres humains[^10-10] et prennent des dispositions visant à prévenir le trafic de migrants et à lutter contre lui.[^10-11]
+<sup>2</sup> Il est le centre de compétences selon l’art. 29, al. 2, de la convention du 16 mai 2005 sur la lutte contre la traite des êtres humains[^10-10]; il assume les tâches visées à l’art. 15 de l’ordonnance du 23 octobre 2013 contre la traite des êtres humains[^10-11] et prend les mesures nécessaires pour prévenir et combattre le trafic de migrants.[^10-12]
 
 <sup>3</sup> Sous réserve de dispositions spéciales dérogatoires, il est le service compétent en matière de documents d’identité et gère le service de coordination dans le domaine des documents d’identité et de légitimation.
 
-<sup>4</sup> Il exerce des fonctions relevant du droit des étrangers en matière de sécurité intérieure.[^10-12]
+<sup>4</sup> Il exerce des fonctions relevant du droit des étrangers en matière de sécurité intérieure.[^10-13]
 
-<sup>5</sup> Il établit le profil des gardes de sûreté engagés dans l’aviation, organise leur formation et est responsable de leur engagement. Il établit des analyses des risques et des menaces liés à leur engagement.[^10-13]
+<sup>5</sup> Il établit le profil des gardes de sûreté engagés dans l’aviation, organise leur formation et est responsable de leur engagement. Il établit des analyses des risques et des menaces liés à leur engagement.[^10-14]
 
-<sup>6</sup> …[^10-14]
+<sup>6</sup> …[^10-15]
 
 <sup>7</sup> Il veille à ce que l’état-major prévu spécialement pour les prises d’otage et le chantage puisse intervenir en tout temps et gère l’état-major central en cas d’engagement.
 
-<sup>8</sup> Il exploite les systèmes d’information dans les domaines de la police et de la poursuite pénale.[^10-15]
+<sup>8</sup> Il exploite les systèmes d’information dans les domaines de la police et de la poursuite pénale.[^10-16]
 
-<sup>9</sup> Il peut mettre à la disposition des autorités cantonales des dispositifs techniques spéciaux et des programmes informatiques spéciaux de surveillance de la correspondance par télécommunication (art. 269<sup>bis</sup> à 269<sup>quater</sup> du code de procédure pénale[^10-16]; art. 35, al. 3, et 36, al. 2, de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication [LSCPT][^10-17]).[^10-18]
+<sup>9</sup> Il peut mettre à la disposition des autorités cantonales des dispositifs techniques spéciaux et des programmes informatiques spéciaux de surveillance de la correspondance par télécommunication (art. 269<sup>bis</sup> à 269<sup>quater</sup> du code de procédure pénale[^10-17]; art. 35, al. 3, et 36, al. 2, de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication [LSCPT][^10-18]).[^10-19]
 
 <sup>10</sup> Il traite des questions et des demandes de renseignements portant sur des affaires policières, gère les relations policières internationales en matière d’entraide administrative et assure la collaboration policière avec des tribunaux internationaux.
 
-<sup>11</sup> Il administre les centres communs de coopération policière et douanière de Genève et Chiasso.[^10-19]
+<sup>11</sup> Il administre les centres communs de coopération policière et douanière de Genève et Chiasso.[^10-20]
 
-<sup>12</sup> Il est responsable, d’entente avec le DFAE, du détachement, de l’engagement et de la conduite d’attachés de police. La compétence du chef de mission d’édicter des directives est réservée.[^10-20]
+<sup>12</sup> Il est responsable, d’entente avec le DFAE, du détachement, de l’engagement et de la conduite d’attachés de police. La compétence du chef de mission d’édicter des directives est réservée.[^10-21]
 
-<sup>13</sup> …[^10-21]
+<sup>13</sup> …[^10-22]
 
-<sup>14</sup> Il exerce une surveillance sur les laboratoires qui effectuent des analyses forensiques d’ADN et sur les laboratoires qui établissent des profils d’ADN dans les domaines civil et administratif.[^10-22]
+<sup>14</sup> Il exerce une surveillance sur les laboratoires qui effectuent des analyses forensiques d’ADN et sur les laboratoires qui établissent des profils d’ADN dans les domaines civil et administratif.[^10-23]
 
-<sup>15</sup> Il dirige et coordonne, d’entente avec le DFAE et les autorités cantonales, les engagements de l’équipe suisse d’identification des victimes (Disaster Victim Identification; DVI) à l’étranger.[^10-23]
+<sup>15</sup> Il dirige et coordonne, d’entente avec le DFAE et les autorités cantonales, les engagements de l’équipe suisse d’identification des victimes (Disaster Victim Identification; DVI) à l’étranger.[^10-24]
 
-<sup>16</sup> Il accomplit les tâches prévues par la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^10-24], pour autant que celle-ci n’attribue pas cette compétence à un autre service.[^10-25]
+<sup>16</sup> Il accomplit les tâches prévues par la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^10-25], pour autant que celle-ci n’attribue pas cette compétence à un autre service.[^10-26]
 
-<sup>17</sup> Il apporte son soutien au département dans la direction du CNAT; il dirige l’organe consultatif du CNAT et en assure la disponibilité opérationnelle.[^10-26]
+<sup>17</sup> Il apporte son soutien au département dans la direction du CNAT; il dirige l’organe consultatif du CNAT et en assure la disponibilité opérationnelle.[^10-27]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-2]: Abrogés par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
@@ -334,23 +334,24 @@ Fedpol gère:
 [^10-7]: Anciennement let. f.
 [^10-8]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-9]: Introduite par le ch. I de l’O du 17 oct. 2007 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^10-10]: [RS 311.039.3](https://fedlex.data.admin.ch/eli/cc/2013/680)
-[^10-11]: Nouvelle teneur selon l’art. 16 de l’O du 23 oct. 2013 contre la traite des êtes humains, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3625](https://fedlex.data.admin.ch/eli/oc/2013/680)).
-[^10-12]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-10]: [RS 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
+[^10-11]: [RS 311.039.3](https://fedlex.data.admin.ch/eli/cc/2013/680)
+[^10-12]: Nouvelle teneur selon le ch. II de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 [^10-13]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-14]: Abrogé par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-15]: Nouvelle teneur selon le ch. I del’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-16]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-17]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^10-18]: Nouvelle teneur selon le ch. II de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
-[^10-19]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-14]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-15]: Abrogé par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-16]: Nouvelle teneur selon le ch. I del’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-17]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-18]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^10-19]: Nouvelle teneur selon le ch. II de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
 [^10-20]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-21]: Introduit par le ch. I de l’O du 17 oct. 2007 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Abrogé par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-22]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-21]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-22]: Introduit par le ch. I de l’O du 17 oct. 2007 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Abrogé par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-23]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-24]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^10-25]: Introduit par l’annexe 2 ch. 3 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^10-26]: Introduit par l’annexe de l’O du 23 nov. 2022 sur le Comité national contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765), ici al. 16).
+[^10-24]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-25]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^10-26]: Introduit par l’annexe 2 ch. 3 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^10-27]: Introduit par l’annexe de l’O du 23 nov. 2022 sur le Comité national contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765), ici al. 16).
 
 #### Art. 11
 
