@@ -4,11 +4,11 @@ title: Verordnung vom 29. September 2017 über den internationalen automatischen
 short: ALBAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/646"
 language: de
-version: 2020-12-01
+version: 2023-08-01
 adopted: 2017-09-29
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20201201/de/xml/fedlex-data-admin-ch-eli-cc-2017-646-20201201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20201201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2017-646-20230801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20201201/de"
 
 (ALBAV)
 
-vom 29. September 2017 (Stand am 1. Dezember 2020)
+vom 29. September 2017 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -76,10 +76,10 @@ Der länderbezogene Bericht enthält, gegliedert nach Staaten und Hoheitsgebiete
 
 ### (Art. 3 Abs. 2 ALBAG)
 
-Sehen die OECD-Leitlinien vom 23. Dezember 2019[^2-2] für den länderbezogenen Bericht Wahlmöglichkeiten vor, so können diese von jedem berichtenden Rechtsträger in Anspruch genommen werden.
+Sehen die OECD-Leitlinien vom 7. Oktober 2022[^2-2] für den länderbezogenen Bericht Wahlmöglichkeiten vor, so können diese von jedem berichtenden Rechtsträger in Anspruch genommen werden.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4809](https://fedlex.data.admin.ch/eli/oc/2020/863)).
-[^2-2]: Die OECD-Leitlinien können bei der ESTV kostenlos abgerufen werden unter www.estv.admin.ch &gt; Internationales Steuerrecht &gt; Fachinformationen &gt; Country-by-Country-Reporting CbCR &gt; Publikationen &gt; Dokumente der OECD.
+[^2-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 350](https://fedlex.data.admin.ch/eli/oc/2023/350)).
+[^2-2]: Die OECD-Leitlinien können bei der ESTV kostenlos abgerufen werden unter www.estv.admin.ch &gt; Internationales Steuerrecht &gt; Country-by-Country-Reporting CbCR &gt; CbCR-Publikationen &gt; OECD &gt; OECD-Leitlinien zur Umsetzung der länderbezogenen Berichterstattung (Originaltext in Französisch und Englisch).
 
 #### Art. 3
 

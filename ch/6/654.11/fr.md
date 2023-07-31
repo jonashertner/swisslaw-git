@@ -4,11 +4,11 @@ title: "Ordonnance du 29 septembre 2017 sur l'échange international automatique
 short: OEDPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/646"
 language: fr
-version: 2020-12-01
+version: 2023-08-01
 adopted: 2017-09-29
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20201201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-646-20201201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20201201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-646-20230801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20201201/fr"
 
 (OEDPP)
 
-du 29 septembre 2017 (Etat le 1<sup>er</sup> décembre 2020)
+du 29 septembre 2017 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -76,10 +76,10 @@ La déclaration pays par pays contient, par État et territoire (juridiction fis
 
 ### (art. 3, al. 2, LEDPP)
 
-Si les instructions du 23 décembre 2019 de l’Organisation de coopération et de développement économiques (OCDE)[^2-2] donnent des possibilités de choix quant à la déclaration pays par pays, toute entité déclarante peut exploiter ces possibilités.
+Si les instructions du 7 octobre 2022 de l’Organisation de coopération et de développement économiques (OCDE)[^2-2] donnent des possibilités de choix quant à la déclaration pays par pays, toute entité déclarante peut exploiter ces possibilités.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> déc. 2020 ([RO 2020 4809](https://fedlex.data.admin.ch/eli/oc/2020/863)).
-[^2-2]: Les instructions de l’OCDE peuvent être consultées gratuitement sur le site Internet de l’AFC à l’adresse www.estv.admin.ch &gt; Droit fiscal international &gt; Informations spécialisées &gt; Country-by-Country-Reporting CbCR &gt; Publications &gt; Documents de l’OCDE.
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 350](https://fedlex.data.admin.ch/eli/oc/2023/350)).
+[^2-2]: Les instructions de l’OCDE peuvent être consultées gratuitement sur le site Internet de l’AFC à l’adresse [www.estv.admin.ch](https://www.estv.admin.ch/estv/fr/accueil.html) &gt; Droit fiscal international &gt; Country-by-Country-Reporting CbCR &gt; Publications sur CbCR &gt; OCDE &gt; Instructions de l’OCDE relatives à la mise en œuvre de la déclaration pays par pays (texte original en français et anglais).
 
 #### Art. 3
 

@@ -4,11 +4,11 @@ title: Ordinanza del 29 settembre 2017 sullo scambio automatico internazionale d
 short: OSRPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/646"
 language: it
-version: 2020-12-01
+version: 2023-08-01
 adopted: 2017-09-29
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20201201/it/xml/fedlex-data-admin-ch-eli-cc-2017-646-20201201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20201201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2017-646-20230801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20201201/it"
 
 (OSRPP)
 
-del 29 settembre 2017 (Stato 1° dicembre 2020)
+del 29 settembre 2017 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -72,10 +72,10 @@ Una rendicontazione Paese per Paese contiene, distinti per Stato e territorio (G
 
 ### (art. 3 cpv. 2 LSRPP)
 
-Laddove le Linee Guida dell’OCSE del 23 dicembre 2019[^2-2] consentono a uno Stato o a un territorio di scegliere tra più opzioni per la rendicontazione Paese per Paese, ogni ente notificante ha diritto di disporre delle medesime opzioni.
+Laddove le Linee Guida dell’OCSE del 7 ottobre 2022[^2-2] consentono a uno Stato o a un territorio di scegliere tra più opzioni per la rendicontazione Paese per Paese, ogni ente notificante ha diritto di disporre delle medesime opzioni.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020, in vigore dal 1° dic. 2020 (RU **2020** 4089).
-[^2-2]: Le Linee Guida dell’OCSE possono essere scaricate gratuitamente dal sito Internet dell’AFC all’indirizzo www.estv.admin.ch &gt; Diritto fiscale internazionale &gt; Informazioni specifiche &gt; Country-by-Country-Reporting CbCR &gt; Pubblicazioni &gt; Documenti dell’OCSE.
+[^2-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 350](https://fedlex.data.admin.ch/eli/oc/2023/350)).
+[^2-2]: Le Linee Guida dell’OCSE possono essere scaricate gratuitamente dal sito Internet dell’AFC all’indirizzo [www.estv.admin.ch](https://www.oecd.org/ctp/exchange-of-tax-information/guidance-on-country-by-country-reporting-beps-action-13.htm) &gt; Diritto fiscale internazionale &gt; Country‑by‑Country-Reporting CbCR &gt; Pubblicazioni CbCR &gt; Documenti dell’OCSE &gt; Guidance on the Implementation of Country-by-Country Reporting (testo originale in francese e inglese).
 
 #### Art. 3
 
@@ -159,7 +159,7 @@ Tabella 1
 
 <table>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="13">Nome del gruppo di imprese multinazionale *[Name of the MNE group]*: Periodo fiscale oggetto della rendicontazione *[Fiscal year concerned]*: Valuta degli importi indicati *[Currency used]*:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="6">Giurisdizione fiscale *[Tax Jurisdiction]*</td><td></td><td colspan="3">Cifra d’affari *[Revenues]*</td><td></td><td>Utili/perdite al lordo delle imposte *[Profit (Loss) before Income Tax]*</td><td>Imposte sugli utili pagate (principio di cassa) *[Income Tax Paid (on Cash Basis)]*</td><td>Imposte sugli utili dovute anno corrente *[Income Tax Accrued – Current Year]*</td><td>Capitale dichiarato *[Stated Capital]*</td><td>Utili non distribuiti prima del loro impiego *[Accumulated Earnings]*</td><td>Numero di impiegati *[Number of Employees]*</td><td colspan="6">Valori patrimoniali materiali senza liquidità *[Tangible Assets other than Cash and Cash Equivalents]*</td></tr>
+<tr><td colspan="6">Giurisdizione fiscale *[Tax Jurisdiction]*</td><td></td><td colspan="3">Cifra d’affari *[Revenues]*</td><td></td><td>Utili/perdite al lordo delle imposte *[Profit (Loss) before Income Tax]*</td><td>Imposte sugli utili pagate (principio di cassa) *[Income Tax Paid (on Cash* *Basis)]*</td><td>Imposte sugli utili dovute anno corrente *[Income Tax Accrued – Current Year]*</td><td>Capitale dichiarato *[Stated Capital]*</td><td>Utili non distribuiti prima del loro impiego *[Accumulated Earnings]*</td><td>Numero di impiegati *[Number of Employees]*</td><td colspan="6">Valori patrimoniali materiali senza liquidità *[Tangible Assets other than Cash and Cash Equivalents]*</td></tr>
 <tr><td colspan="6"></td><td colspan="2">tramite transazioni con imprese indipendenti *[Unrelated Party**]*</td><td>tramite transazioni con imprese associate *[Related Party]*</td><td colspan="2">complessiva *[Total]*</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="6"></td></tr>
 </table>
 
