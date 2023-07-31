@@ -4,7 +4,7 @@ number: "417.42.1"
 title: RÈGLEMENT du 06.07.2022 relatif aux formations gymnasiales pour adultes  (RGyPAd)
 short: RGyPAd
 language: fr
-version: 2022-08-01
+version: 2023-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/417.42.1?id=31067d7b-38a6-4cef-8bf4-d83179d94a1b"
 ---
 
@@ -251,7 +251,7 @@ arrête
 
 **Nombre de notes [^21-1]**
 
-<sup>1</sup> Le nombre minimum de notes requis pour établir la note annuelle d'une discipline correspond au nombre de périodes d'enseignement hebdomadaires dans la discipline considérée, plus 2.
+<sup>1</sup> Le nombre minimum de notes requis pour établir la note annuelle d'une discipline correspond, en principe, au nombre de périodes d'enseignement hebdomadaires dans la discipline considérée, plus 2.
 
 [^21-1]: Modif. 1 du 28.06.2023: Modification Al. 1; entrée en vigueur au 01.08.2023
 
@@ -337,7 +337,7 @@ arrête
 
 **Nombre de notes [^30-1]**
 
-<sup>1</sup> Le nombre minimum de notes requis pour établir la note annuelle d'une discipline correspond au nombre de périodes d'enseignement hebdomadaires dans la discipline considérée, plus 2.
+<sup>1</sup> Le nombre minimum de notes requis pour établir la note annuelle d'une discipline correspond, en principe, au nombre de périodes d'enseignement hebdomadaires dans la discipline considérée, plus 2.
 
 [^30-1]: Modif. 1 du 28.06.2023: Modification Al. 1; entrée en vigueur au 01.08.2023
 
