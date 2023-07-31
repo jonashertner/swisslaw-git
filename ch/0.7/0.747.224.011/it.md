@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convenzione del 9 settembre 1996 sulla raccolta, il deposito e il ritiro di rifiuti nella navigazione sul Reno e nella navigazione interna (con annessi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: it
-version: 2023-01-01
+version: 2023-08-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230801-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 9 settembre 1996 Approvata dall’Assemblea federale il 19 dicembre 1997[^t-1] Strumento di ratifica depositato dalla Svizzera il 16 luglio 1998 Entrata in vigore per la Svizzera il 1° novembre 2009
 
-(Stato 1° gennaio 2023)
+(Stato 1° agosto 2023)
 
 [^t-1]: [RU 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -55,7 +55,6 @@ Ai fini della presente Convenzione si intendono per:
 - e) «altri rifiuti della navigazione»: acque di scarico domestiche, immondizie domestiche, fanghi di depurazione, slops e altri rifiuti speciali ai sensi della parte C delle disposizioni d’esecuzione;
 - f)[^1-1] «rifiuti provenienti dal carico»: rifiuti e acque di scarico provenienti dal carico a bordo dell’imbarcazione; non ne fanno parte il carico restante, i vapori e i residui del trasbordo ai sensi della parte B delle disposizioni d’esecuzione;
 - ff)[^1-2] «vapori»: composti gassosi che evaporano da carichi liquidi (residui gassosi di un carico liquido);
-- g) «imbarcazioni»: imbarcazioni per la navigazione interna, imbarcazioni marittime o apparecchi galleggianti;
 - h) «imbarcazioni passeggeri»: imbarcazioni costruite e predisposte per il trasporto di passeggeri;
 - i) «imbarcazioni marittime»: imbarcazioni ammesse per la navigazione marittima o costiera e prevalentemente destinate a tale scopo;
 - j)[^1-3] «centri di ritiro»: installazioni fisse o mobili autorizzate dalle autorità competenti a ritirare i rifiuti di bordo o i vapori;
@@ -92,7 +91,7 @@ La presente Convenzione si applica alle vie navigabili elencate nell’annesso 1
 
 <sup>(2)</sup> Gli Stati parte si adoperano affinché il divieto di cui al capoverso 1 sia rispettato.
 
-<sup>(3)</sup> Sono ammesse deroghe a tale divieto unicamente in conformità all’annesso 2 e ai relativi allegati, qui di seguito denominati «disposizioni d’esecuzione».
+<sup>(3)</sup> Sono ammesse deroghe a tale divieto unicamente in conformità all’annesso 2 e alle relative appendici, qui di seguito denominati «disposizioni d’esecuzione».
 
 #### Art. 4
 
@@ -351,7 +350,7 @@ Annesso 2[^t-3]
 
 ## Disposizione esecutiva
 
-[^t-3]: Aggiornato dall’emendamento dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)) e dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022, in vigore per la Svizzera dal 1° gen. 2023 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)).
+[^t-3]: Aggiornato dagli emendamenti dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)) e addottati il 21 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)).
 
 <table>
 <tr><td>Parte A:</td><td>Raccolta, deposito e ritiro di rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione.</td></tr>
@@ -429,8 +428,19 @@ I recipienti vanno sistemati a bordo in modo che ogni fuoriuscita di materiale p
 
 Ai sensi del presente capitolo:
 
-- a) l’«esercente dell’imbarcazione» è la persona fisica o giuridica che si assume le spese correnti in relazione con l’esercizio dell’imbarcazione, segnatamente per l’acquisto del carburante; a titolo sostitutivo, il proprietario dell’imbarcazione;
-- b) lo «SPE-CDNI» è un sistema di pagamento elettronico che comprende conti (conti ECO), carte magnetiche (EcoCard) e terminali elettronici mobili.
+- a) l’**«esercente dell’imbarcazione»** è la persona fisica o giuridica che si assume le spese correnti in relazione con l’esercizio dell’imbarcazione, segnatamente per l’acquisto del carburante; a titolo sostitutivo, il proprietario dell’imbarcazione;
+- b) lo **«SPE-CDNI»** è un sistema di pagamento elettronico che comprende conti (conti ECO), carte magnetiche (EcoCard) e terminali elettronici mobili;
+- c) il **«conto ECO»** è un conto intestato all’esercente dell’imbarcazione presso un ente nazionale designato per il versamento della tassa di eliminazione di cui all’articolo 3.03;
+- d) l’**«ECO-ID»** è un numero di identificazione unico associato a un’imbarcazione e al relativo conto ECO da parte dell’esercente dell’imbarcazione e che consente l’accesso all’uso autorizzato dell’app;
+- e)
+
+  l’**«app»** è un’applicazione che contiene un software destinato al versamento della tassa di eliminazione; è disponibile come applicazione tramite un dispositivo mobile o un sito Internet e contiene le seguenti funzioni:
+
+  - – la generazione e la visualizzazione dei codici a barre 2D contenenti l’ECO-ID,
+  - – l’attivazione di una transazione per la tassa di eliminazione da parte della stazione di rifornimento, e
+  - – l’esonero dal versamento della tassa di eliminazione da parte del conduttore o dell’esercente dell’imbarcazione;
+
+- f) il **«codice a barre 2D»** è un codice a barre unico che consente l’identificazione. I codici a barre 2D possono essere visualizzati su smartphone, tablet, PC o stampati in formato analogico.
 
 #### Art. 3.02
 
@@ -457,21 +467,23 @@ La procedura per il versamento della tassa di eliminazione tramite SPE-CDNI pogg
 - a) l’apertura di un conto ECO da parte dell’esercente dell’imbarcazione o del suo incaricato presso un ente nazionale di sua scelta;
 - b) l’emissione, da parte di tale ente nazionale, di una o più EcoCard che danno accesso al conto ECO per la transazione;
 - c) il versamento di un importo sufficiente da parte dell’esercente dell’imbarcazione o del suo incaricato a favore di tale conto ECO sul conto bancario dell’ente nazionale in questione per il pagamento della tassa di eliminazione;
-- d) l’addebito della tassa di eliminazione sul conto ECO al momento del rifornimento mediante la EcoCard e lo svolgimento della transazione da parte della stazione di rifornimento per il tramite di un terminale elettronico mobile. A tale scopo, il conduttore dell’imbarcazione consegna l’EcoCard alla stazione di rifornimento durante la procedura di rifornimento.
+- d) l’addebito della tassa di eliminazione sul conto ECO al momento del rifornimento mediante la EcoCard e lo svolgimento della transazione da parte della stazione di rifornimento per il tramite di un terminale elettronico mobile. A tale scopo, il conduttore dell’imbarcazione consegna l’EcoCard alla stazione di rifornimento durante la procedura di rifornimento;
+- e) la trasmissione da parte del sistema elettronico dei dati richiesti ai conduttori delle imbarcazioni e alle stazioni di rifornimento per la registrazione in detto sistema;
+- f) la creazione, da parte del sistema elettronico, di un ECO-ID per ogni imbarcazione dell’esercente o del suo incaricato collegato al conto ECO per le transazioni future;
+- g) il versamento di un importo sufficiente da parte dell’esercente dell’imbarcazione o del suo incaricato a favore di tale conto ECO sul conto bancario dell’ente nazionale in questione per il versamento della tassa di eliminazione;
+- h) l’addebito della tassa di eliminazione sul conto ECO al momento del rifornimento e lo svolgimento della transazione tramite il sistema elettronico. A tal fine, il conduttore dell’imbarcazione mostra alla stazione di rifornimento il codice a barre 2D.
 
 <sup>(6)</sup>
 
-In deroga al capoverso 4, nei casi seguenti il versamento della tassa di eliminazione da parte dell’esercente dell’imbarcazione avviene secondo una procedura scritta:
+In deroga al paragrafo 4, nei casi seguenti il versamento della tassa di eliminazione da parte dell’esercente dell’imbarcazione avviene secondo una procedura scritta:
 
-- a) lo SPE-CDNI è guasto o fuori servizio;
-- b) il conduttore dell’imbarcazione non presenta un’EcoCard oppure l’EcoCard presentata non è valida;
+- a) lo SPE-CDNI non è disponibile o è fuori servizio;
+- b) il conduttore dell’imbarcazione non è in grado di presentare un codice a barre 2D, o il codice a barre 2D presentato non è valido;
 - c) il credito sul conto ECO non è sufficiente.
 
 <sup>(7)</sup> Nei casi indicati al capoverso 6, la stazione di rifornimento trasmette entro sette giorni all’ente nazionale del Paese nel quale è avvenuto il rifornimento i dati necessari per il versamento della tassa di eliminazione concernente la fornitura di gasolio. L’ente nazionale adotta le misure del caso per la riscossione delle tasse dovute. All’occorrenza, può trasmettere la procedura a uno degli altri enti nazionali.
 
-<sup>(8)</sup> Per le transazioni che rientrano nei casi illustrati alle lettere b) e c) del paragrafo 6, l’esercente dell’imbarcazione deve coprire le spese amministrative dell’ente nazionale avente diritto. L’ammontare di tali spese è determinato unitariamente per tutti i contraenti dall’ufficio internazionale dei regolamenti finanziari e di coordinamento.
-
-<sup>(9)</sup> In singoli casi, per i quali l’applicazione della procedura di cui ai capoversi 4 e 5 non è giudicata adeguata dall’ente nazionale, tale ente nazionale può prevedere singole eccezioni al regolamento in relazione alla fornitura di gasolio e al versamento della tassa di eliminazione. Queste eccezioni vanno notificate all’ufficio internazionale dei regolamenti finanziari e di coordinamento e devono soddisfare le altre disposizioni del presente capitolo.
+<sup>(8)</sup> Per le transazioni che rientrano nei casi illustrati alle lettere b) e c) del paragrafo 6, l’esercente dell’imbarcazione deve coprire le spese amministrative dell’ente nazionale avente diritto. L’ammontare di tali spese è determinato unitariamente per tutti i contraenti dall’ufficio internazionale dei regolamenti finanziari e di coordinamento. (9) In singoli casi, per i quali l’applicazione della procedura di cui ai capoversi 4 e 5 non è giudicata adeguata dall’ente nazionale, tale ente nazionale può prevedere singole eccezioni al regolamento in relazione alla fornitura di gasolio e al versamento della tassa di eliminazione. Queste eccezioni vanno notificate all’ufficio internazionale dei regolamenti finanziari e di coordinamento e devono soddisfare le altre disposizioni del presente capitolo.
 
 <sup>(10)</sup> I dettagli delle procedure presentate in questo articolo vanno fissati all’interno di ogni Stato d’intesa con l’ufficio internazionale dei regolamenti finanziari e di coordinamento.
 
@@ -481,13 +493,13 @@ In deroga al capoverso 4, nei casi seguenti il versamento della tassa di elimina
 
 <sup>(1)</sup> A ogni rifornimento di gasolio, la stazione emette un relativo certificato, che deve contenere almeno le seguenti indicazioni: nome e numero europeo unitario dell’imbarcazione o un altro dato che la identifichi inequivocabilmente, nome dell’esercente o del conduttore, quantitativo di gasolio prelevato/consegnato (in litri in base al volume a 15 °C, arrotondato al litro successivo), luogo e data, firma del conduttore e della stazione di rifornimento.
 
-<sup>(2)</sup> La ricevuta emessa dallo SPE-CDNI per la transazione va allegata al certificato. Una copia del certificato e della ricevuta va al conduttore, che deve custodirla a bordo per almeno dodici mesi, un’altra resta per almeno dodici mesi alla stazione di rifornimento.
+<sup>(2)</sup> La ricevuta emessa dallo SPE-CDNI per la transazione è generata elettronicamente. Il conduttore dell’imbarcazione riceve una copia del certificato di rifornimento di gasolio e una ricevuta elettronica in conformità al periodo (1). Il conduttore deve custodire a bordo per almeno dodici mesi il certificato di rifornimento di gasolio e la ricevuta elettronica, che deve essere sempre leggibile. Un’altra copia del certificato relativo al gasolio come pure della ricevuta elettronica, che deve sempre essere leggibile, rimangono per dodici mesi presso la stazione di rifornimento.
 
 <sup>(3)</sup> Se si applica la procedura scritta ai sensi dell’articolo 3.03, capoverso 6, la stazione di rifornimento annota sul certificato che l’esercente dell’imbarcazione non ha versato la tassa di eliminazione.
 
-<sup>(4)</sup> La concordanza tra i quantitativi di gasolio di cui si sono rifornite le imbarcazioni e il totale delle tasse di eliminazione versate è verificata dall’ente nazionale o dall’autorità competente sulla scorta dei certificati di rifornimento di gasolio che la stazione deve presentare.
+<sup>(4)</sup> La concordanza tra i quantitativi di gasolio di cui si sono rifornite le imbarcazioni e il totale delle tasse di eliminazione versate è verificata dall’ente nazionale o dall’autorità competente sulla scorta dei certificati relativi al gasolio e delle ricevute elettroniche che la stazione di rifornimento deve presentare.
 
-<sup>(5)</sup> L’autorità competente può verificare a bordo delle imbarcazioni il pagamento della tassa di eliminazione e i quantitativi eliminati di rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione, in particolare comparando i viaggi registrati negli appositi documenti di bordo con le indicazioni contenute nel certificato di rifornimento di gasolio.
+<sup>(5)</sup> L’autorità competente può verificare a bordo delle imbarcazioni o a distanza consultando il sistema di pagamento elettronico il versamento della tassa di eliminazione e i quantitativi eliminati di rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione, in particolare comparando i viaggi registrati negli appositi documenti di bordo con le indicazioni contenute nel certificato di rifornimento di gasolio o nelle ricevute elettroniche.
 
 <sup>(6)</sup> L’ente nazionale o l’autorità competente possono controllare presso i centri di ritiro le indicazioni relative ai quantitativi eliminati e i costi dell’eliminazione sulla base dei documenti adeguati.
 
@@ -539,7 +551,7 @@ Gli enti nazionali segnalano trimestralmente, vale a dire il 1° febbraio, il 1�
 
 <sup>(1)</sup> Il regolamento finanziario ai sensi degli articoli 4.02 e 4.03 è determinato come segue per ogni ente nazionale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230101/it/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/it/xml/image/image1.png)</sub>
 
 Significato:
 

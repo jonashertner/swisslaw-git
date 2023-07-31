@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: fr
-version: 2023-01-01
+version: 2023-08-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230801-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Strasbourg le 9 septembre 1996 Approuvée par l’Assemblée fédérale le 19 décembre 1997[^t-1] Instrument de ratification déposé par la Suisse le 16 juillet 1998 Entrée en vigueur pour la Suisse le 1<sup>er</sup> novembre 2009
 
-(État le 1<sup>er</sup> janvier 2023)
+(État le 1<sup>er</sup> août 2023)
 
 [^t-1]: [RO 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -59,7 +59,6 @@ Aux fins de l’application de la présente Convention les termes suivants dési
 - h) «bateau à passagers»: un bateau construit et aménagé pour le transport de passagers;
 - i) «navire de mer»: bateau admis à la navigation maritime ou côtière et affecté à titre principal à cette navigation;
 - j)[^1-3] «station de réception»: installation fixe ou mobile agréée par les autorités compétentes pour recueillir les déchets survenant à bord ou les vapeurs;
-- k) «conducteur»: personne qui assure la conduite du bâtiment;
 - l) «bâtiment motorisé»: bâtiment dont les moteurs principaux ou auxiliaires, à l’exclusion des moteurs des guindeaux d’ancres, sont des moteurs à combustion interne;
 - m) «gazole»: carburant exempté de droits de douane et d’autres droits et destiné aux bateaux de navigation intérieure;
 - n) «station d’avitaillement»: station où les bâtiments s’approvisionnent en gazole;
@@ -354,7 +353,7 @@ Annexe 2[^t-3]
 
 ## Règlement d’application
 
-[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)) et les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022, entrés en vigueur pour la Suisse jusqu’au 1<sup>er</sup> janv. 2023 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)).
+[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)) et les Am. du 21 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)).
 
 <table>
 <tr><td>Partie A</td><td>Collecte, dépôt et réception des déchets huileux et graisseux survenant lors de l’exploitation du bâtiment.</td></tr>
@@ -432,8 +431,19 @@ Il est interdit:
 
 Aux fins de l’application du présent chapitre, les termes suivants désignent:
 
-- a) «transporteur» personne physique ou morale qui subvient aux dépenses courantes liées à l’exploitation du bâtiment et notamment à l’achat du carburant utilisé, ou à défaut, le propriétaire du bâtiment;
-- b) «SPE-CDNI» système de paiement électronique, comprenant des comptes (ECO-comptes), des cartes magnétiques (ECO-cartes) et des terminaux électroniques mobiles.
+- a) **«transporteur»** personne physique ou morale qui subvient aux dépenses courantes liées à l’exploitation du bâtiment et notamment à l’achat du carburant utilisé, ou à défaut, le propriétaire du bâtiment;
+- b) **«SPE-CDNI»** système de paiement électronique, comprenant des comptes (ECO-comptes), des cartes magnétiques (ECO-cartes) et des terminaux électroniques mobiles;
+- c) **«ECO-compte»**: un compte auprès d’une institution nationale, au nom de l’exploitant du bateau, destiné au paiement de la rétribution d’élimination visée à l’art. 3.03;
+- d) «ECO-ID»: un numéro d’identification unique lié à un bateau et à un ECO‑compte associé par l’exploitant d’un bateau qui donne accès à l’utilisation légitime de l’appli;
+- e)
+
+  «Application»: une application contenant un logiciel conçu pour le paiement de la rétribution d’élimination et disponible en tant qu’application via un appareil mobile ou via un site Internet et destinée à:
+
+  - – générer et afficher le code-barres 2D contenant l’ECO-ID,
+  - – activer une transaction pour la rétribution d’élimination par la station d’avitaillement, et
+  - – approuver le paiement de la rétribution d’élimination par le conducteur ou l’exploitant du bateau;
+
+- f) «2D Barcode»: un type unique de code-barres, destiné à permettre l’identification. Le code-barres 2D peut être affiché sur un smartphone, une tablette, un PC ou imprimé de manière analogique.
 
 #### Art. 3.02
 
@@ -455,19 +465,23 @@ L’institution nationale perçoit la rétribution d’élimination et soumet à
 
 <sup>(5)</sup>
 
-La procédure pour s’acquitter de la rétribution d’élimination à l’aide du SPE-CDNI est fondée sur le principe du versement d’un montant adéquat par le transporteur à une institution nationale, sur lequel les rétributions d’éliminations dues ultérieurement sont prélevées. La procédure comporte les étapes suivantes:
+La procédure pour s’acquitter de la rétribution d’élimination à l’aide du SPE-CDNI est fondée sur le principe du versement d’un montant adéquat par l’exploitant du bâtiment à une institution nationale, sur lequel les rétributions d’éliminations dues ultérieurement sont prélevées. La procédure comporte les étapes suivantes:
 
 - a) l’ouverture à la demande du transporteur ou de son mandataire d’un ECO-compte auprès de l’institution nationale de son choix;
 - b) la délivrance par cette institution nationale d’une ou plusieurs ECO-cartes donnant accès à l’ECO-compte concerné en vue du paiement de la rétribution d’élimination;
 - c) le versement par le transporteur ou son mandataire au crédit de l’ECO-compte concerné d’un montant adéquat sur le compte bancaire de l’institution nationale en vue du paiement des rétributions d’élimination;
-- d) l’acquittement de la rétribution d’élimination, imputée sur l’ECO-compte concerné au moyen de l’ECO-carte et le traitement de la transaction qui est effectuée par la station d’avitaillement à l’aide d’un terminal électronique mobile. À cet effet, le conducteur remet l’ECO-carte à la station d’avitaillement au moment de l’avitaillement.
+- d) l’acquittement de la rétribution d’élimination, imputée sur l’ECO-compte concerné au moyen de l’ECO-carte et le traitement de la transaction qui est effectuée par la station d’avitaillement à l’aide d’un terminal électronique mobile. À cet effet, le conducteur remet l’ECO-carte à la station d’avitaillement au moment de l’avitaillement;
+- e) la transmission par le système électronique des données nécessaires à l’inscription dans le système électronique aux conducteurs et aux stations d’avitaillement;
+- f) la création par le système électronique d’une ECO-ID par bâtiment de l’exploitant ou de son mandataire, qui est associée à l’ECO-Compte utilisé pour les futures transactions;
+- g) le versement par l’exploitant du bâtiment ou son mandataire au crédit de l’ECO-compte concerné d’un montant adéquat sur le compte bancaire de l’institution nationale en vue du paiement des rétributions d’élimination;
+- h) l’acquittement de la rétribution d’élimination, imputée sur l’ECO-compte concerné lors de l’avitaillement et le traitement de la transaction par le système électronique. Le conducteur présente à cet effet à la station d’avitaillement le code-barres 2D.
 
 <sup>(6)</sup>
 
 Par dérogation au par. 4, la rétribution d’élimination est acquittée par l’application d’une procédure écrite dans les cas particuliers suivants:
 
 - a) le SPE-CDNI fait défaut ou est hors service;
-- b) le conducteur ne présente pas d’ECO-carte ou l’ECO-carte présentée n’est pas valable;
+- b) le conducteur ne présente pas de code-barres 2D ou le code-barres 2D présenté n’est pas valable;
 - c) le solde de l’ECO-compte concerné est insuffisant.
 
 <sup>(7)</sup> Dans les cas visés au par. 6, la station d’avitaillement communique à l’institution nationale du pays où elle se situe, dans un délai ne dépassant pas sept jours civils, les données nécessaires à l’acquittement de la rétribution d’élimination relative à la livraison de gazole concernée. L’institution nationale prend les dispositions nécessaires pour la perception des rétributions dues. Le cas échéant, elle peut remettre le dossier à une autre institution nationale.
@@ -484,13 +498,13 @@ Par dérogation au par. 4, la rétribution d’élimination est acquittée par l
 
 <sup>(1)</sup> Un justificatif d’approvisionnement en gazole doit être établi par la station d’avitaillement pour chaque avitaillement en gazole. Il doit comporter au moins les indications suivantes: nom du bâtiment, numéro européen unique d’identification des bateaux, ou toute autre indication permettant l’identification du bâtiment, nom du transporteur ou du conducteur, quantité de gazole avitaillée/remise (en litres correspondant au volume à 15 °C arrondie au litre le plus proche), lieu et date, signature du conducteur et de la station d’avitaillement.
 
-<sup>(2)</sup> Le reçu relatif à la transaction de la rétribution d’élimination effectuée par le biais du SPE-CDNI doit être joint au justificatif d’approvisionnement en gazole. Une copie du justificatif d’approvisionnement et du reçu est remis au conducteur qui doit le conserver à bord pendant douze mois au moins. Les copies du justificatif d’approvisionnement et du reçu sont conservées par la station d’avitaillement pendant douze mois au moins.
+<sup>(2)</sup> Le reçu relatif à la transaction de la rétribution d’élimination est établi par le SPE‑CDNI sous forme électronique. Le conducteur reçoit une copie du justificatif d’approvisionnement et un reçu sous forme électronique visé dans la première phrase ci-avant. Le conducteur doit être en mesure de présenter à tout moment le justificatif d’approvisionnement ainsi que le reçu de transaction et les conserver à bord pendant douze mois. La station d’avitaillement doit être en mesure de présenter à tout moment une copie du justificatif d’approvisionnement et le reçu délivré sous forme électronique et les conserver dans son administration pendant douze mois.
 
 <sup>(3)</sup> Dans le cas de l’application de la procédure écrite visée par l’art. 3.03, par. 6, la station d’avitaillement indique sur le justificatif d’approvisionnement que le transporteur ne s’est pas acquitté de la rétribution d’élimination.
 
-<sup>(4)</sup> La concordance entre les quantités de gazole avitaillées par les bâtiments et le montant des rétributions d’élimination acquittées est contrôlée par l’institution nationale ou l’autorité compétente sur la base des justificatifs d’approvisionnement de gazole qui doivent être présentés par les stations d’avitaillement.
+<sup>(4)</sup> La concordance entre les quantités de gazole avitaillées par les bâtiments et le montant des rétributions d’élimination acquittées est contrôlée par l’institution nationale ou l’autorité compétente sur la base des justificatifs d’approvisionnement en gazole et des reçus délivrés sous forme électronique qui doivent être présentés par les stations d’avitaillement.
 
-<sup>(5)</sup> L’autorité compétente peut contrôler à bord des bâtiments le paiement de la rétribution d’élimination ainsi que les quantités éliminées de déchets huileux et graisseux survenant lors de l’exploitation du bâtiment, notamment en comparant les voyages effectués inscrits dans les documents de bord appropriés avec les indications figurant sur les justificatifs d’approvisionnement en gazole.
+<sup>(5)</sup> L’autorité compétente peut contrôler à bord des bâtiments, ou à distance en consultant le système de paiement électronique, le paiement de la rétribution d’élimination ainsi que les quantités éliminées de déchets huileux et graisseux survenant lors de l’exploitation du bâtiment, notamment en comparant les voyages effectués inscrits dans les documents de bord appropriés avec les indications figurant sur les justificatifs d’approvisionnement en gazole et sur les reçus délivrés sous forme électronique.
 
 <sup>(6)</sup> L’institution nationale ou l’autorité compétente peut contrôler auprès des stations de réception les données relatives aux quantités éliminées ainsi que les coûts d’élimination sur la base des documents appropriés.
 
@@ -542,7 +556,7 @@ Les institutions nationales communiquent au secrétariat de l’instance interna
 
 La péréquation financière visée aux art. 4.02 et 4.03 ci-dessus est déterminée comme suit pour chaque institution nationale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230101/fr/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/fr/xml/image/image1.png)</sub>
 
 où:
 

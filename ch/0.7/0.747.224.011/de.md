@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: de
-version: 2023-01-01
+version: 2023-08-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Strassburg am 9. September 1996 Von der Bundesversammlung genehmigt am 19. Dezember 1997[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 1998 In Kraft getreten für die Schweiz am 1. November 2009
 
-(Stand am 1. Januar 2023)
+(Stand am 1. August 2023)
 
 [^t-1]: [AS 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -353,7 +353,7 @@ Anlage 2[^t-3]
 
 ## Anwendungsbestimmung
 
-[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)) und der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse, in Kraft getreten für die Schweiz bis zum 1. Jan. 2023 ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)).
+[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)) und gemäss Beschluss vom 21. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)).
 
 <table>
 <tr><td>Teil A</td><td>Sammlung, Abgabe und Annahme von öl- und fetthaltigen Schiffsbetriebsabfällen</td></tr>
@@ -431,8 +431,19 @@ Es ist verboten:
 
 Im Sinne dieses Kapitels bedeutet der Ausdruck:
 
-- a) «Schiffsbetreiber» diejenige natürliche oder juristische Person, die die laufenden Ausgaben im Zusammenhang mit dem Schiffsbetrieb, insbesondere für den Kauf des verwendeten Kraftstoffs trägt, ersatzweise der Schiffseigner;
-- b) «SPE-CDNI» elektronisches Zahlungssystem, das Konten (ECO-Konten), Magnetkarten (ECO-Karten) und mobile elektronische Terminals umfasst.
+- a) **«Schiffsbetreiber»** diejenige natürliche oder juristische Person, die die laufenden Ausgaben im Zusammenhang mit dem Schiffsbetrieb, insbesondere für den Kauf des verwendeten Kraftstoffs trägt, ersatzweise der Schiffseigner;
+- b) **«SPE-CDNI»** elektronisches Zahlungssystem, das Konten (ECO-Konten), Magnetkarten (ECO-Karten) und mobile elektronische Terminals umfasst;
+- c) **«ECO-Konto»** ein auf den Namen des Schiffsbetreibers lautendes Konto bei einer Innerstaatlichen Institution, das für die Zahlung der in Artikel 3.03 genannten Entsorgungsgebühr bestimmt ist;
+- d) **«ECO-ID»** eine eindeutige Identifikationsnummer, die mit einem Schiff und einem zugehörigen ECO-Konto durch den Schiffsbetreiber verknüpft wird und Zugang zur autorisierten Nutzung der App ermöglicht;
+- e)
+
+  **«App»** eine Anwendung, die eine für die Zahlung der Entsorgungsgebühr bestimmte Software enthält und als Anwendung über ein mobiles Gerät oder über eine Internet-Website verfügbar ist und folgende Funktionen enthält:
+
+  - – die Erzeugung und Anzeige der 2-D Barcodes, die die ECO-ID enthalten,
+  - – die Auslösung einer Transaktion für die Entsorgungsgebühr durch die Bunkerstelle, und
+  - – die Freigabe der Zahlung der Entsorgungsgebühr durch den Schiffsführer oder den Schiffsbetreiber;
+
+- f) **«2D Barcode»** ein eindeutiger Barcode, der eine Identifizierung ermöglicht. 2D Barcodes können auf einem Smartphone, Tablet, PC angezeigt werden oder analog ausgedruckt werden.
 
 #### Art. 3.02
 
@@ -459,14 +470,18 @@ Das Verfahren zur Entrichtung der Entsorgungsgebühr mittels SPE-CDNI beruht auf
 - a) die Eröffnung eines ECO-Kontos durch den Schiffsbetreiber oder seinen Beauftragten bei der innerstaatlichen Institution seiner Wahl;
 - b) die Ausstellung einer oder mehrerer ECO-Karten, die zu dem an der Gebührentransaktion beteiligten ECO-Konto Zugang geben, durch diese innerstaatliche Institution;
 - c) die Überweisung eines ausreichenden Betrages durch den Schiffsbetreiber oder seinen Beauftragten zugunsten des betreffenden ECO-Kontos auf das Bankkonto der betreffenden innerstaatlichen Institution zur Zahlung der Entsorgungsgebühr;
-- d) die Abbuchung der Entsorgungsgebühr vom betreffenden ECO-Konto beim Bunkern mittels ECO-Karte und die Abwicklung der Transaktion über ein mobiles elektronisches Terminal durch die Bunkerstelle. Hierfür händigt der Schiffsführer der Bunkerstelle während des Bunkervorgangs die ECO-Karte aus.
+- d) die Abbuchung der Entsorgungsgebühr vom betreffenden ECO-Konto beim Bunkern mittels ECO-Karte und die Abwicklung der Transaktion über ein mobiles elektronisches Terminal durch die Bunkerstelle. Hierfür händigt der Schiffsführer der Bunkerstelle während des Bunkervorgangs die ECO-Karte aus;
+- e) die Übermittlung der zur Anmeldung im elektronischen System erforderlichen Daten an die Schiffsführer und an die Bunkerstellen durch das elektronische System;
+- f) das Erstellen einer ECO-ID pro Fahrzeug des Schiffsbetreibers oder seines Beauftragten, die mit dem an den künftigen Gebührentransaktionen beteiligten ECO-Konto verbunden ist durch das elektronische System;
+- g) die Überweisung eines ausreichenden Betrages durch den Schiffsbetreiber oder seinen Beauftragten zugunsten des betreffenden ECO-Kontos auf das Bankkonto der betreffenden innerstaatlichen Institution zur Zahlung der Entsorgungsgebühr;
+- h) die Abbuchung der Entsorgungsgebühr vom betreffenden ECO-Konto beim Bunkern und die Abwicklung der Transaktion mittels des elektronischen Systems. Hierfür zeigt der Schiffsführer der Bunkerstelle den 2D Barcode.
 
 <sup>(6)</sup>
 
 Abweichend von Absatz 4 erfolgt die Entrichtung der Entsorgungsgebühr durch den Schiffsbetreiber in den folgenden Fällen im Wege eines schriftlichen Verfahrens:
 
-- a) das SPE-CDNI ist defekt oder ausser Betrieb;
-- b) der Schiffsführer legt keine ECO-Karte vor oder die vorgelegte ECO-Karte ist ungültig;
+- a) das SPE-CDNI ist nicht verfügbar oder außer Betrieb;
+- b) der Schiffsführer kann keinen 2D Barcode vorlegen oder der vorgelegte 2D Barcode ist ungültig;
 - c) das Guthaben auf dem ECO-Konto ist nicht ausreichend.
 
 <sup>(7)</sup> In den unter Absatz 6 genannten Fällen übermittelt die Bunkerstelle der innerstaatlichen Institution des Landes, in dem das Bunkern stattgefunden hat, innerhalb eines Zeitraums von nicht mehr als sieben Kalendertagen die Angaben, die für die Entrichtung der Entsorgungsgebühr in Bezug auf die entsprechende Lieferung von Gasöl erforderlich sind. Die innerstaatliche Institution trifft die erforderlichen Massnahmen für die Erhebung der geschuldeten Gebühren. Gegebenenfalls kann sie den Vorgang einer der anderen nationalen Institutionen übergeben.
@@ -483,13 +498,13 @@ Abweichend von Absatz 4 erfolgt die Entrichtung der Entsorgungsgebühr durch den
 
 <sup>(1)</sup> Bei jedem Bezug von Gasöl ist durch die Bunkerstelle ein Bezugsnachweis für Gasöl auszufertigen. Dieser soll mindestens die folgenden Angaben enthalten: Name des Fahrzeugs, einheitliche europäische Schiffsnummer oder eine andere Angabe zur eindeutigen Identifizierung des Fahrzeugs, Name des Schiffsbetreibers oder des Schiffsführers, bezogene/abgegebene Gasölmenge (in Liter entsprechend dem Volumen bei 15°C, auf den nächsten vollen Liter gerundet), Ort und Datum, Unterschrift des Schiffsführers und der Bunkerstelle.
 
-<sup>(2)</sup> Die vom SPE-CDNI für die Gebührentransaktion ausgegebene Quittung ist dem Bezugsnachweis beizufügen. Eine Kopie des Bezugsnachweises und der Quittung erhält der Schiffsführer, der sie mindestens zwölf Monate an Bord aufzubewahren hat. Eine weitere Ausfertigung des Bezugsnachweises und der Quittung verbleibt mindestens zwölf Monate bei der Bunkerstelle.
+<sup>(2)</sup> Die vom SPE-CDNI für die Gebührentransaktion ausgegebene Quittung wird elektronisch erstellt. Der Schiffsführer erhält eine Kopie des Bezugsnachweises für Gasöl und der elektronischen Quittung nach Satz 1. Der Schiffsführer hat den Bezugsnachweis für Gasöl und die jederzeit lesbar zu machende elektronische Quittung zwölf Monate an Bord aufzubewahren. Eine weitere Ausfertigung des Bezugsnachweises für Gasöl bzw. die jederzeit elektronisch lesbar zu machende elektronische Quittung verbleibt zwölf Monate bei der Bunkerstelle.
 
 <sup>(3)</sup> Bei Anwendung des schriftlichen Verfahrens nach Artikel 3.03 Absatz 6 vermerkt die Bunkerstelle auf dem Bezugsnachweis, dass der Schiffsbetreiber die Entsorgungsgebühr nicht entrichtet hat.
 
-<sup>(4)</sup> Die Übereinstimmung zwischen den von den Fahrzeugen bezogenen Gasölmengen und der Summe der entrichteten Entsorgungsgebühren wird durch die innerstaatliche Institution oder durch die zuständige Behörde anhand der von den Bunkerstellen vorzulegenden Bezugsnachweise für Gasöl kontrolliert.
+<sup>(4)</sup> Die Übereinstimmung zwischen den von den Fahrzeugen bezogenen Gasölmengen und der Summe der entrichteten Entsorgungsgebühren wird durch die innerstaatliche Institution oder durch die zuständige Behörde anhand der von den Bunkerstellen vorzulegenden Bezugsnachweise für Gasöl und elektronischen Quittungen kontrolliert.
 
-<sup>(5)</sup> Die zuständige Behörde kann an Bord der Fahrzeuge die Entrichtung der Entsorgungsgebühr sowie die entsorgten Mengen der öl- und fetthaltigen Schiffsbetriebsabfälle, insbesondere durch Vergleich der in den geeigneten Borddokumenten eingetragenen Fahrten mit den im Bezugsnachweis für Gasöl enthaltenen Angaben kontrollieren.
+<sup>(5)</sup> Die zuständige Behörde kann an Bord der Fahrzeuge oder aus der Ferne über eine Einsichtnahme in das elektronische Bezahlsystem die Entrichtung der Entsorgungsgebühr sowie die entsorgten Mengen der öl- und fetthaltigen Schiffsbetriebsabfälle, insbesondere durch Vergleich der in den geeigneten Borddokumenten eingetragenen Fahrten mit den im Bezugsnachweis für Gasöl oder in elektronischen Quittungen enthaltenen Angaben kontrollieren.
 
 <sup>(6)</sup> Die innerstaatliche Institution oder die zuständige Behörde kann bei den Annahmestellen die Angaben über die entsorgten Mengen sowie die Kosten der Entsorgung anhand der geeigneten Dokumente kontrollieren.
 
@@ -541,7 +556,7 @@ Die innerstaatlichen Institutionen melden dem Sekretariat der Internationalen Au
 
 <sup>(1)</sup> Der Finanzausgleich nach den Artikeln 4.02 und 4.03 wird für jede innerstaatliche Institution wie folgt ermittelt:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230101/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/de/xml/image/image1.png)</sub>
 
 Darin bedeutet:
 
