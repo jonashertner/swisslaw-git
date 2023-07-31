@@ -3,20 +3,19 @@ canton: GL
 number: VI E/22/4
 title: Beschluss über die Schaffung von Schongebieten für Feldhasen
 language: de
-version: 2014-09-01
-valid_until: 2023-07-31
-version_adopted: 2014-04-22
+version: 2023-08-01
+version_adopted: 2023-07-06
 adopted: 1998-03-31
 in_force: 1998-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.22.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/1534/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2440/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Schaffung von Schongebieten für Feldhasen
 
-Vom 31.03.1998 (Stand 01.09.2014)
+Vom 31.03.1998 (Stand 01.08.2023)
 
 (Erlassen vom Regierungsrat am 31. März 1998)
 
@@ -86,5 +85,15 @@ Die sechs nachfolgend umschriebenen Gebiete werden mit Wirkung ab 1. Mai 1998 al
 - b. im Nordwesten: Kantonsgrenze von der Linth bis Lediwald;
 - c. im Südwesten: dem Waldrand entlang bis zum Schiessstand Niederurnen;
 - d. im Südosten: vom Schiessstand in Luftlinie zur Linthkolonie und dem Weg entlang zur Fussgängerbrücke über die Linth.
+
+#### Ziff. 7
+
+**Ämpächli (Elm)**
+
+<sup>1</sup> Begrenzungen:
+
+- a. im Talboden: linkes Sernfufer zwischen der Einmündung des Bischofbaches und der Einmündung der Chüebodenrus;
+- b. im Norden: die Chüebodenrus und Grenze des Eidgenössischen Jagdbanngebiets Kärpf (Chüebodenrus–Cuenz–P. 1875–Schabell–Schabellgrat);
+- c. im Westen: der Bischofbach bis zur Grenze des Eidgenössischen Jagdbanngebiets Kärpf.
 
 SBE VII/1 15
