@@ -4,13 +4,13 @@ number: "231.31"
 title: Ergänzende Verordnung über das Arbeitsverhältnis der Lehrpersonen an Berufs- und Weiterbildungszentren
 short: EVA-BS
 language: de
-version: 2016-08-01
-corrected: 2016-07-18
-version_adopted: 2015-03-24
+version: 2023-08-01
+valid_until: 2025-07-31
+version_adopted: 2023-05-16
 adopted: 2015-03-24
 in_force: 2016-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/231.31"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2096/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3510/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2096/pdf_file"
 
 (EVA-BS)
 
-vom 24.03.2015 (Stand 01.08.2016)
+vom 24.03.2015 (Stand 01.08.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -41,7 +41,7 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Dieser Erlass gilt an kantonalen Berufs- und Weiterbildungszentren (nachfolgend BWZ) für das Arbeitsverhältnis von:
 
 - a) Lehrpersonen der Grundbildung;
-- b) Lehrpersonen der erweiterten Grundbildung im Bereich Gesundheit;
+- b) …
 - c) Rektorinnen und Rektoren;
 - d) Lehrpersonen mit Personalführungsaufgaben.
 
@@ -55,7 +55,9 @@ als Verordnung:[^ingress-2]
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Zuständigkeit für Begründung und Beendigung sowie Gestaltung des Arbeitsverhältnisses richtet sich nach Art. 18 Abs. 3 des Einführungsgesetzes zur Bundesgesetzgebung über die Berufsbildung vom 23. September 2007[^2-1] und nach dem Schulreglement des BWZ.
+<sup>1</sup> Die Zuständigkeit für Begründung und Beendigung sowie Gestaltung des Arbeitsverhältnisses richtet sich nach [Art. 18](https://www.gesetzessammlung.sg.ch/data/231.1/de/art18) Abs. 2 Bst. g des Einführungsgesetzes zur Bundesgesetzgebung über die Berufsbildung vom 23. September 2007[^2-1] und nach dem Schulreglement des BWZ.
+
+<sup>2</sup> Das Amt für Berufsbildung regelt die Einzelheiten der Anforderungen an die fachliche und pädagogische Ausbildung der Lehrpersonen in der Grundbildung.
 
 [^2-1]: sGS [231.1](https://www.gesetzessammlung.sg.ch/data/231.1/de).
 
@@ -63,7 +65,7 @@ als Verordnung:[^ingress-2]
 
 **Unbefristetes oder befristetes Arbeitsverhältnis**
 
-<sup>1</sup> Einen unbefristeten Arbeitsvertrag erhält, wer die Aus- und Weiterbildung für eine Laufbahn nach dem Anhang zu diesem Erlass nachweist und wem für voraussichtlich zwei Jahre ein bestimmter Beschäftigungsgrad zugesichert werden kann.
+<sup>1</sup> Einen unbefristeten Arbeitsvertrag erhält, wer den Abschluss der Ausbildung für eine der Laufbahnen A bis E nach dem Anhang zu diesem Erlass nachweist und wem für voraussichtlich zwei Jahre ein bestimmter Beschäftigungsgrad zugesichert werden kann.
 
 <sup>2</sup> In den übrigen Fällen wird befristet angestellt.
 
@@ -72,6 +74,8 @@ als Verordnung:[^ingress-2]
 **Lohn a) Grundsatz**
 
 <sup>1</sup> Der Lohn richtet sich nach der jeweiligen Laufbahn nach dem Anhang zu diesem Erlass.
+
+<sup>2</sup> Eine Einstufung in eine der Laufbahnen C bis E ist auch ohne Nachweis der gemäss Anhang zu diesem Erlass geforderten berufspädagogischen Ausbildung oder Zusatzqualifikation möglich. Die betreffenden Lehrpersonen sind verpflichtet, die geforderte berufspädagogische Ausbildung oder Zusatzqualifikation innerhalb von zwei Jahren seit Aufnahme der Lehrtätigkeit zu beginnen und innerhalb von fünf Jahren abzuschliessen.
 
 #### Art. 5
 
@@ -100,9 +104,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> In die höhere Lohnklasse einer Laufbahn nach dem Anhang zu diesem Erlass kann befördert werden, wer gute oder besonders gute Leistungen erbringt. Das Amt für Berufsbildung regelt das Verfahren.
 
-<sup>3</sup> Vorbehalten bleibt Art. 71 der Personalverordnung vom 13. Dezember 2011[^6-1].
-
-[^6-1]: sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
+<sup>3</sup> …
 
 #### Art. 7
 
@@ -168,7 +170,7 @@ als Verordnung:[^ingress-2]
 
 **d) besondere Aufträge**
 
-<sup>1</sup> Der zuständigen Stelle des BWZ steht für die Erteilung besonderer Aufträge an Lehrpersonen ein Ressourcenpool zur Verfügung.
+<sup>1</sup> Der zuständigen Stelle des BWZ stehen für die Erteilung besonderer Aufträge an Lehrpersonen Ressourcen zur Verfügung. Das Bildungsdepartement regelt die Einzelheiten.
 
 <sup>2</sup> Der Umfang der besonderen Aufträge geht im Lehrauftrag der Lehrperson zulasten des Kernauftrags Unterricht.
 
@@ -194,6 +196,14 @@ als Verordnung:[^ingress-2]
 
 [^16-1]: Art. [57](https://www.gesetzessammlung.sg.ch/data/143.11/de/art57) der Personalverordnung, sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
 
+#### Art. 16a
+
+**f <sup>bis</sup>) befristeter Zusatzvertrag**
+
+<sup>1</sup> Bei kurzfristig angeordneten Klassenbildungen kann die zuständige Stelle des BWZ in Absprache mit dem Amt für Berufsbildung mit Lehrpersonen befristete Zusatzverträge für die Dauer eines Schuljahres abschliessen.
+
+<sup>2</sup> Der Beschäftigungsgrad aus allen Arbeitsverträgen mit dem Kanton darf 100 Prozent nicht überschreiten.
+
 #### Art. 17
 
 **g) Unterrichtsausfall**
@@ -213,6 +223,10 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Bei einem geringeren Beschäftigungsgrad wird die Altersentlastung anteilmässig gewährt.
 
+<sup>3</sup> Rektorinnen und Rektoren beziehen keine Altersentlastung nach Abs. 1 dieser Bestimmung. Für sie gilt hingegen Art. 61 der Personalverordnung vom 13. Dezember 2011[^18-1].
+
+[^18-1]: sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
+
 #### Art. 19
 
 **Amtspool**
@@ -227,29 +241,49 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Lohn der Rektorin oder des Rektors setzt sich zusammen aus:
 
-- a) dem Grundgehalt gemäss Laufbahn A nach dem Anhang zu diesem Erlass;
+- a) dem Grundlohn gemäss Laufbahn A nach dem Anhang zu diesem Erlass;
 - b) der Funktionszulage.
 
-<sup>2</sup> Grundgehalt und Funktionszulage der Rektorin oder des Rektors entsprechen zusammen höchstens einem Lohn in Lohnklasse 33 nach der Personalverordnung vom 13. Dezember 2011[^20-1].
+<sup>2</sup> …
 
-[^20-1]: sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
+<sup>3</sup> Wer in eine andere Laufbahn eingeordnet ist, tritt bei Amtsantritt als Rektorin oder Rektor in die Laufbahn A nach dem Anhang zu diesem Erlass über. Die Einordnung in die Laufbahn A erfolgt in dasjenige Laufbahnjahr, bei dem der Grundlohn dem bisherigen Lohn entspricht oder ihn möglichst wenig überschreitet.
+
+<sup>4</sup> Das Bildungsdepartement legt nach Massgabe des Personalbestands, des Bildungsangebots und der Anzahl Standorte des jeweiligen BWZ sowie der finanziellen und personellen Verantwortung der betreffenden Rektorin oder des betreffenden Rektors folgende jährliche Funktionszulage fest:
+
+- a) Fr. 35'753.– oder
+- b) Fr. 30'389.–.
+
+<sup>5</sup> Beschlüsse der Regierung zur Änderung der Löhne nach [Art. 37](https://www.gesetzessammlung.sg.ch/data/143.1/de/art37) des Personalgesetzes vom 25. Januar 2011[^20-1] werden auf die Funktionszulage angewendet. Dies gilt ab 1. August 2023 auch für die für das Jahr 2023 beschlossene Änderung der Löhne.
+
+[^20-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 21
 
-**b) Lehrpersonen mit Personalführungsaufgaben in der Grundbildung**
+**b) Lehrpersonen mit Personalführungsaufgaben in der Grund- und Weiterbildung 1. Grundsatz**
 
-<sup>1</sup> Der Lohn von Lehrpersonen mit Personalführungsaufgaben in der Grundbildung setzt sich zusammen aus:
+<sup>1</sup> Der Lohn von Lehrpersonen mit Personalführungsaufgaben in der Grund- und Weiterbildung setzt sich zusammen aus:
 
-- a) dem Grundgehalt nach dem Anhang zu diesem Erlass;
+- a) dem Grundlohn nach dem Anhang zu diesem Erlass;
 - b) der Funktionszulage.
 
-<sup>2</sup> Als Funktionszulage wird höchstens der Wert dreier Jahreswochenlektionen entsprechend der Einstufung beim Grundgehalt entschädigt.
+<sup>2</sup> Die für die Anstellung zuständige Stelle des BWZ legt die Funktionszulage der Lehrpersonen mit Personalführungsaufgaben in der Grund- und Weiterbildung fest. Die Funktionszulage entspricht höchstens dem Wert dreier Jahreswochenlektionen gemäss Laufbahn A nach dem Anhang zu diesem Erlass. Massgebend ist die Einstufung beim Grundlohn.
+
+#### Art. 21a
+
+**2. Ausnahme bei fehlender pädagogischer Ausbildung**
+
+<sup>1</sup> Der Grundlohn von Lehrpersonen ohne pädagogische Ausbildung mit Personalführungsaufgaben in der Weiterbildung kann nach Art. 36 des Personalgesetzes vom 25. Januar 2011[^21a-1] festgelegt werden. Er übersteigt nicht den maximalen Grundlohn, den eine Lehrperson gemäss Laufbahn A nach dem Anhang zu diesem Erlass erhält.
+
+<sup>2</sup> Die für die Anstellung zuständige Stelle des BWZ legt die Funktionszulage der Lehrpersonen ohne pädagogische Ausbildung mit Personalführungsaufgaben in der Weiterbildung fest. Die Funktionszulage entspricht höchstens dem Wert dreier Jahreswochenlektionen gemäss höchster Einstufung in der Laufbahn A nach dem Anhang zu diesem Erlass.
+
+<sup>3</sup> Beschlüsse der Regierung zur Änderung der Löhne nach [Art. 37](https://www.gesetzessammlung.sg.ch/data/143.1/de/art37) des Personalgesetzes vom 25. Januar 2011[^21a-2] werden auf die Funktionszulage angewendet. Dies gilt ab 1. August 2023 auch für die für das Jahr 2023 beschlossene Änderung der Löhne.
+
+[^21a-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^21a-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 22
 
-**Funktionszulagen**
-
-<sup>1</sup> Das Bildungsdepartement legt die Funktionszulagen nach Massgabe des Personalbestands, des Bildungsangebots und der Anzahl Standorte des jeweiligen BWZ sowie der finanziellen und personellen Verantwortung der betreffenden Person fest.
+**…**
 
 #### Art. 23
 
@@ -257,9 +291,13 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Rektorin oder der Rektor erteilt im Rahmen der Führungsaufgabe Unterricht im Umfang von wenigstens drei Wochenlektionen.
 
-<sup>2</sup> Die Lehrperson mit Personalführungsaufgaben erteilt im Rahmen der Führungsaufgabe Unterricht im Umfang von wenigstens fünf Wochenlektionen.
+<sup>2</sup> Die Lehrperson mit Personalführungsaufgaben in der Grund- und Weiterbildung erteilt im Rahmen der Führungsaufgabe Unterricht im Umfang von wenigstens fünf Wochenlektionen.
+
+<sup>2<sup>bis</sup></sup> Die Lehrperson mit Personalführungsaufgaben in der Weiterbildung, deren Grundlohn nach Art. 21a Abs. 1 dieses Erlasses nach Art. 36 des Personalgesetzes vom 25. Januar 2011[^23-1] festgelegt wird, erteilt Unterricht im Umfang von wenigstens fünf Prozent des Beschäftigungsgrads.
 
 <sup>3</sup> Die für die Anstellung zuständige Stelle setzt die Unterrichtsverpflichtung im Einzelfall fest.
+
+[^23-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 24
 
@@ -313,5 +351,16 @@ als Verordnung:[^ingress-2]
 **[^29-1]**
 
 [^29-1]: Der Vollzugsbeginn wird nicht aufgeführt.
+
+#### Art. 30
+
+**Übergangsbestimmung des Nachtrags vom 3. Mai 2016**
+
+<sup>1</sup> Der Besitzstand in Bezug auf den Lohn wird für folgende Personen, die bei Vollzugsbeginn dieses Nachtrags im Amt sind, gewahrt:
+
+- a) Rektorinnen und Rektoren;
+- b) Lehrpersonen mit Personalführungsaufgaben in der Weiterbildung, deren Grundlohn nach Art. 21a Abs. 1 dieses Erlasses nach Art. 36 des Personalgesetzes vom 25. Januar 2011[^30-1] festgelegt wird.
+
+[^30-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 nGS 2016-059
