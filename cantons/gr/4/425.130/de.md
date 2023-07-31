@@ -4,13 +4,13 @@ number: "425.130"
 title: Verordnung über die Handelsmittelschule
 short: HMSV
 language: de
-version: 2016-08-01
-corrected: 2019-05-22
-version_adopted: 2016-07-05
+version: 2023-08-01
+valid_until: 2026-06-30
+version_adopted: 2023-07-04
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2711/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2711/pdf_file"
 
 (HMSV)
 
-Vom 08.11.2011 (Stand 01.08.2016)
+Vom 08.11.2011 (Stand 01.08.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 19 des Gesetzes über die Mittelschulen im Kanton Graubünden[^ingress-2]
 
@@ -34,7 +34,7 @@ von der Regierung erlassen am 8. November 2011
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt für die nach den Bestimmungen des Bundesrechts geführten Handelsmittelschulen mit Berufsmaturität der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, die Semesterpromotion, die Bedingungen für die Erlangung des eidgenössischen Fähigkeitszeugnisses Kauffrau/Kaufmann erweiterte Grundbildung sowie der Berufsmaturität.
+<sup>1</sup> Diese Verordnung regelt für die nach den Bestimmungen des Bundesrechts geführten Handelsmittelschulen mit Berufsmaturität der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, die Semesterpromotion, die Bedingungen für die Erlangung des eidgenössischen Fähigkeitszeugnisses Kauffrau/Kaufmann sowie der Berufsmaturität.
 
 <sup>2</sup> Reglemente privater Mittelschulen, welche von Bestimmungen dieser Verordnung abweichen, bedürfen der Genehmigung durch die Regierung.
 
@@ -46,7 +46,7 @@ von der Regierung erlassen am 8. November 2011
 
 **Ausbildungsdauer**
 
-<sup>1</sup> Die Ausbildung dauert bis zum Erwerb des eidgenössischen Fähigkeitszeugnisses Kauffrau/Kaufmann erweiterte Grundbildung mit Berufsmaturität in der Regel vier Jahre. Sie gliedert sich in eine dreijährige schulische Vollzeitausbildung und in ein anschliessend zu absolvierendes einjähriges betriebliches Praktikum.
+<sup>1</sup> Die Ausbildung dauert bis zum Erwerb des eidgenössischen Fähigkeitszeugnisses Kauffrau/Kaufmann mit Berufsmaturität in der Regel vier Jahre. Sie gliedert sich in eine dreijährige schulische Vollzeitausbildung und in ein anschliessend zu absolvierendes einjähriges betriebliches Langzeitpraktikum.
 
 #### Art. 3
 
@@ -62,96 +62,109 @@ von der Regierung erlassen am 8. November 2011
 
 <sup>1</sup> Die Promotionsfächer sind:
 
-- 1\. die Fächer des Grundlagenbereichs: erste Landessprache (Deutsch, rumantsch/Deutsch, italiano); zweite Landessprache (tedesco, Französisch, Italienisch); dritte Sprache/Englisch; Mathematik;
+- 1\. die Fächer des Grundlagenbereichs: erste Landessprache (Deutsch, rumantsch/Deutsch, italiano); zweite Landessprache (tedesco, Französisch, Italienisch); dritte Sprache (Englisch); Mathematik;
 - 2\. die Fächer des Schwerpunktbereichs: Finanz- und Rechnungswesen; Wirtschaft und Recht;
-- 3\. die Fächer des Ergänzungsbereichs: Geschichte und Politik; Technik und Umwelt I (Geografie); Technik und Umwelt II (Naturwissenschaften);
-- 4\. die zusätzlichen Unterrichtsfächer Information/Kommunikation/Administration; integrierte Praxisteile (IPT); fächerübergreifende Projekte/Integrationsfach; Turnen und Sport.
+- 3\. die Fächer des Ergänzungsbereichs: Geschichte und Politik; Technik und Umwelt;
+- 4\. die zusätzlichen Unterrichtsfächer in den Berufskenntnissen, bestehend aus den beiden Fächern Berufliche Praxis (Handlungskompetenzbereiche B bis D) und Digitale Kompetenzen (Handlungskompetenzbereich E), sowie Sport.
 
 #### Art. 5
 
 **Semesterpromotion**
 
-<sup>1</sup> Die Promotion in das nächste Semester erfolgt, wenn der auf eine Dezimalstelle gerundete Durchschnitt der Noten der Promotionsfächer mindestens 4.0 beträgt, die Differenz der ungenügenden Noten zur Note 4.0 gesamthaft den Wert 2.0 nicht übersteigt und nicht mehr als drei Noten unter 4.0 erteilt wurden.
+<sup>1</sup> Die Promotion in das nächste Semester erfolgt, wenn gleichzeitig:
+
+- 1\. in den unterrichteten Berufsmaturitätsfächern des Grundlagen-, Schwerpunkt- und Ergänzungsbereichs gemäss Artikel 4 Absatz 1 Ziffer 1–3:
+  - a) der Durchschnitt aller Promotionsnoten mindestens 4,0 beträgt;
+  - b) die Differenz der ungenügenden Promotionsnoten zur Note 4,0 gesamthaft den Wert 2,0 nicht übersteigt; und
+  - c) nicht mehr als zwei Promotionsnoten unter 4,0 vorliegen;
+- 2\. in allen unterrichteten Promotionsfächern gemäss Artikel 4 Absatz 1 Ziffer 1–4:
+  - a) der Durchschnitt aller Promotionsnoten mindestens 4,0 beträgt;
+  - b) die Differenz der ungenügenden Promotionsnoten zur Note 4,0 gesamthaft den Wert 2,0 nicht übersteigt; und
+  - c) nicht mehr als drei Promotionsnoten unter 4,0 vorliegen.
 
 <sup>2</sup> Wer diese Voraussetzungen nicht erfüllt, wird provisorisch promoviert. Nach einer provisorischen Promotion müssen im nächsten Zeugnis die Promotionsbedingungen erfüllt werden. Andernfalls müssen die letzten zwei Semester wiederholt werden.
 
 <sup>3</sup> Bis zum Abschluss der Ausbildung ist die Wiederholung eines Unterrichtsjahres höchstens einmal möglich.
 
-## 3. Schulischer Ausbildungsabschluss
+## 3. Berufsmaturitätsprüfung
 
 #### Art. 6
 
-**Zeitpunkt der Prüfungen**
+**Zeitpunkt der Abschlussprüfungen der Berufsmaturität**
 
-<sup>1</sup> Die schriftlichen und mündlichen Prüfungen finden vor den Sommerferien am Ende des dritten Ausbildungsjahres statt. Mathematik wird ein Jahr früher abgeschlossen.
+<sup>1</sup> Die schriftlichen und mündlichen Abschlussprüfungen der Berufsmaturität finden vor den Sommerferien am Ende des dritten Ausbildungsjahres statt. Die schriftliche Abschlussprüfung im Fach Mathematik wird ein Jahr früher absolviert.
 
-<sup>2</sup> Den Zeitpunkt der Prüfungen bestimmt das Departement unter Berücksichtigung der Vorgaben des Bundes.
+<sup>2</sup> Den Zeitpunkt der Abschlussprüfungen der Berufsmaturität bestimmt das Amt für Höhere Bildung unter Berücksichtigung der Vorgaben des Bundes.
 
 #### Art. 7
 
 **Zulassung**
 
-<sup>1</sup> Die Zulassung erfordert den Besuch einer Handelsmittelschule im Kanton Graubünden in der Regel während mindestens der letzten zwei Jahre vor dem Abschluss des schulischen Ausbildungsteils und mindestens eine provisorische Promotion im letzten Semester vor den schulischen Abschlussprüfungen.
+<sup>1</sup> Sofern betreffend Schulbesuch keine Ausnahmebewilligung des Amts für Höhere Bildung vorliegt, erfordert die Zulassung den Besuch einer Handelsmittelschule im Kanton Graubünden während mindestens der letzten zwei Jahre vor dem Abschluss des schulischen Ausbildungsteils und mindestens eine provisorische Promotion im letzten Semester vor den Abschlussprüfungen der Berufsmaturität.
 
 #### Art. 8
 
 **Einbezug der Fachhochschulen**
 
-<sup>1</sup> Die Fachhochschulen sind an der Durchführung der Abschlussprüfungen angemessen zu beteiligen.
+<sup>1</sup> Die Fachhochschulen sind an der Durchführung der Abschlussprüfungen der Berufsmaturität angemessen zu beteiligen.
 
 #### Art. 9
 
 **Prüfungsfächer**
 
-<sup>1</sup> Schriftlich geprüft werden die erste Landessprache, die zweite Landessprache, die dritte Sprache/Englisch, Mathematik, Finanz- und Rechnungswesen, Wirtschaft und Recht sowie Information/Kommunikation/Administration. Die Prüfungsdauer richtet sich nach den bundesrechtlichen Bestimmungen.
+<sup>1</sup> Schriftlich geprüft werden die erste Landessprache, die zweite Landessprache, die dritte Sprache (Englisch), Mathematik, Finanz- und Rechnungswesen sowie Wirtschaft und Recht. Die Prüfungsdauer richtet sich nach den bundesrechtlichen Bestimmungen.
 
-<sup>2</sup> Die mündlichen Prüfungen dauern 15 Minuten. Geprüft werden die erste Landessprache, die zweite Landessprache sowie die dritte Sprache/Englisch.
+<sup>2</sup> Die mündlichen Prüfungen dauern 15 Minuten. Geprüft werden die erste Landessprache, die zweite Landessprache sowie die dritte Sprache (Englisch).
 
 <sup>3</sup> …
 
 #### Art. 10
 
-**Fachnoten für die Berufsmaturität**
+**Noten der Berufsmaturität**
 
-<sup>1</sup> Die Fachnoten werden gemäss bundesrechtlichen Bestimmungen gesetzt.
+<sup>1</sup> Die Noten der Berufsmaturität werden gemäss bundesrechtlichen Bestimmungen gesetzt.
 
 - 1\. …
 - 2\. …
 
-<sup>2</sup> Vom zuständigen Bundesamt anerkannte Sprachdiplome können in den entsprechenden Fächern Bestandteil der Fachnote sein.
+<sup>1<sup>bis</sup></sup> Die Schulleitung erlässt ein Reglement zum interdisziplinären Arbeiten. Dieses enthält die Konzepte zur Umsetzung der Module zum interdisziplinären Arbeiten in allen Fächern sowie zur interdisziplinären Projektarbeit, welche während des einjährigen betrieblichen Langzeitpraktikums mit einer Präsentation abgeschlossen wird.
 
-<sup>3</sup> Die Gesamtnote für die Berufsmaturität ist das auf eine Dezimalstelle gerundete Mittel sämtlicher zählender Fachnoten.
+<sup>2</sup> Vom zuständigen Bundesamt anerkannte Fremdsprachendiplome können in den entsprechenden Fächern Bestandteil der Note der Berufsmaturität sein. Die Schulleitung erlässt hierzu ein Reglement.
+
+<sup>3</sup> Die Gesamtnote der Berufsmaturität ist das auf eine Dezimalstelle gerundete Mittel sämtlicher zählender Noten.
 
 #### Art. 11
 
 **Provisorischer Notenausweis**
 
-<sup>1</sup> Der provisorische Notenausweis wird durch die Handelsmittelschule nach dem Absolvieren der schulischen Abschlussprüfungen ausgestellt und enthält die Fachnoten für die Berufsmaturität sowie die Noten des schulischen Teils für das eidgenössische Fähigkeitszeugnis, die Noten weiterer Fächer sowie die Note für Turnen und Sport. Die erworbenen externen Sprachdiplome werden aufgeführt.
+<sup>1</sup> Der provisorische Notenausweis wird durch die Handelsmittelschule unmittelbar nach dem Absolvieren der Abschlussprüfungen der Berufsmaturität ausgestellt und enthält die Noten der Berufsmaturität, ausgenommen die definitive Note für das interdisziplinäre Arbeiten. Die erworbenen Fremdsprachendiplome werden aufgeführt.
 
-## 4. Betrieblicher Ausbildungsabschluss
+## 4. Bildung in beruflicher Praxis und Qualifikationsverfahren
 
 #### Art. 12
 
-**Praktikum**
+**Langzeitpraktikum**
 
-<sup>1</sup> Das Amt für Höhere Bildung erlässt nach Rücksprache mit den zuständigen Organisationen der Arbeitswelt, dem Amt für Berufsbildung sowie den Schulleitungen Weisungen betreffend Ausgestaltung des einjährigen betrieblichen Praktikums.
+<sup>1</sup> Das Amt für Höhere Bildung erlässt nach Rücksprache mit den zuständigen Organisationen der Arbeitswelt, dem Amt für Berufsbildung sowie den Schulleitungen Weisungen betreffend Ausgestaltung des einjährigen betrieblichen Langzeitpraktikums.
 
 <sup>2</sup> Die Lernenden suchen ihren Praktikumsplatz selbst. Die Schule unterstützt die Lernenden bei der Suche nach einer Praktikumsstelle.
 
-<sup>3</sup> Die Lernenden werden während des Praktikums von einer Lehrperson der Schule begleitet.
+<sup>3</sup> Die Lernenden werden während des Langzeitpraktikums von einer Lehrperson der Schule betreut, welche auch für die Bewertung der Präsentation der interdisziplinären Projektarbeit während des Langzeitpraktikums zuständig ist.
+
+<sup>4</sup> Die Lernenden werden von der Schule während des Langzeitpraktikums auf den Qualifikationsbereich Berufskenntnisse und Allgemeinbildung des Qualifikationsverfahrens vorbereitet.
 
 #### Art. 13
 
-**Leistungsbeurteilung**
+**Leistungsbeurteilung und Qualifikationsverfahren**
 
-<sup>1</sup> Die Leistungsbeurteilung des betrieblichen Ausbildungsabschlusses erfolgt gemäss den bundesrechtlichen Bestimmungen.
+<sup>1</sup> Die Leistungsbeurteilung und das Qualifikationsverfahren erfolgen gemäss den bundesrechtlichen Bestimmungen.
 
 - 1\. …
 - 2\. …
 - 3\. …
 - 4\. …
 
-<sup>2</sup> Die Leistungen der vier Bereiche werden nach den Bestimmungen des Bundes bewertet.
+<sup>2</sup> …
 
 ## 5. Eidgenössisches Fähigkeitszeugnis und Berufsmaturität
 
@@ -159,11 +172,11 @@ von der Regierung erlassen am 8. November 2011
 
 **Eidgenössisches Fähigkeitszeugnis**
 
-<sup>1</sup> Wer den nach den Bestimmungen des Bundes beurteilten schulischen und betrieblichen Abschluss für das eidgenössische Fähigkeitszeugnis besteht und das einjährige betriebliche Praktikum erfüllt, erhält das eidgenössische Fähigkeitszeugnis Kauffrau/Kaufmann erweiterte Grundbildung.
+<sup>1</sup> Wer das nach den Bestimmungen des Bundes beurteilte Qualifikationsverfahren für das eidgenössische Fähigkeitszeugnis besteht, erhält das eidgenössische Fähigkeitszeugnis Kauffrau/Kaufmann.
 
-<sup>2</sup> Im Notenausweis zum eidgenössischen Fähigkeitszeugnis werden die Noten, die auf Berufsmaturitätsunterricht oder Berufsmaturitätsabschlussprüfungen basieren, entsprechend gekennzeichnet.
+<sup>2</sup> …
 
-<sup>3</sup> Die zusätzlichen Fächer der Handelsmittelschule werden in einem zusätzlichen Notenausweis zum eidgenössischen Fähigkeitszeugnis vermerkt.
+<sup>3</sup> …
 
 #### Art. 15
 
@@ -175,11 +188,15 @@ von der Regierung erlassen am 8. November 2011
 
 **Prüfungskommissionen**
 
-<sup>1</sup> Nach Abschluss der schulischen Abschlussprüfungen tritt auf Einladung der Prüfungsleitung die schulische Prüfungskommission gemäss Artikel 26 der Verordnung über das Gymnasium zusammen. Sie überprüft die Noten und entscheidet abschliessend über das Bestehen oder Nichtbestehen der schulischen Abschlussprüfungen für das eidgenössische Fähigkeitszeugnis sowie über das Bestehen der Berufsmaturität.
+<sup>1</sup> Unmittelbar nach Abschluss der Abschlussprüfungen der Berufsmaturität tritt auf Einladung der Prüfungsleitung der Handelsmittelschule die schulische Prüfungskommission gemäss Artikel 30 Absatz 1 der Verordnung über das Gymnasium[^15a-1] zusammen. Sie validiert die Noten der Abschlussprüfungen sowie die Noten der Berufsmaturität.
 
-<sup>2</sup> Nach Abschluss der betrieblichen Abschlussprüfungen tritt die kaufmännische Kreisprüfungskommission zusammen. Sie überprüft die Noten und entscheidet im Rahmen ihrer Grenzfallregelung abschliessend über das Bestehen oder Nichtbestehen der betrieblichen Abschlussprüfungen für das eidgenössische Fähigkeitszeugnis sowie über die Erteilung des eidgenössischen Fähigkeitszeugnisses.
+<sup>1<sup>bis</sup></sup> Die Prüfungsleitung der Handelsmittelschule stellt nach Vorliegen der Note für die interdisziplinäre Projektarbeit fest, ob die Voraussetzungen für das Bestehen der Berufsmaturitätsprüfung erfüllt sind und teilt dies den betroffenen Schülerinnen und Schülern schriftlich mit.
 
-<sup>3</sup> Entscheide der schulischen Prüfungskommission sowie der kaufmännischen Kreisprüfungskommission können innert zehn Tagen beim Erziehungs-, Kultur- und Umweltschutzdepartement angefochten werden.
+<sup>2</sup> Nach Abschluss des Qualifikationsverfahrens für das eidgenössische Fähigkeitszeugnis ermittelt die Prüfungsleitung für die Qualifikationsverfahren die Prüfungsergebnisse und stellt fest, ob das Qualifikationsverfahren als bestanden oder nicht bestanden gilt.
+
+<sup>3</sup> Entscheide der Prüfungsleitung der Handelsmittelschule sowie der Prüfungsleitung für die Qualifikationsverfahren können innert zehn Tagen beim Departement angefochten werden.
+
+[^15a-1]: BR [425.050](https://www.gr-lex.gr.ch/data/425.050/de)
 
 #### Art. 16
 
@@ -191,11 +208,7 @@ von der Regierung erlassen am 8. November 2011
 
 #### Art. 17
 
-**Eidgenössisches Fähigkeitszeugnis ohne Berufsmaturität**
-
-<sup>1</sup> Bei Nichtbestehen der Berufsmaturität werden die schulischen Noten nach Massgabe des Bundes in Noten für das Eidgenössische Fähigkeitszeugnis umgerechnet.
-
-<sup>2</sup> Werden nach der Umrechnung die Bestimmungen für das Eidgenössische Fähigkeitszeugnis erfüllt, wird das Eidgenössische Fähigkeitszeugnis erweiterte Grundbildung abgegeben.
+**…**
 
 ## 6. Schlussbestimmungen
 
@@ -207,9 +220,7 @@ von der Regierung erlassen am 8. November 2011
 
 #### Art. 19
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Für Schülerinnen und Schüler, welche im Schuljahr 2016/17 die dritte Klasse der Handelsmittelschule besuchen, gelten die bisherigen Bestimmungen der Verordnung über die Handelsmittelschule im Kanton Graubünden.
+**…**
 
 #### Art. 20
 
