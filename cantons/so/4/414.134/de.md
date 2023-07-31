@@ -4,13 +4,13 @@ number: "414.134"
 title: Verordnung über die Erteilung des Fachmittelschulausweises an kantonalen Fachmittelschulen
 short: Prüfungsverordnung für die Abschlussprüfungen der Fachmittelschule FMS
 language: de
-version: 2021-08-01
-valid_until: 2023-07-31
-version_adopted: 2021-09-14
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-05-30
 adopted: 2004-05-10
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.134"
-pdf: "https://bgs.so.ch/api/de/versions/5140/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5392/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5140/pdf_file"
 
 (Prüfungsverordnung für die Abschlussprüfungen der Fachmittelschule FMS)
 
-Vom 10.05.2004 (Stand 01.08.2021)
+Vom 10.05.2004 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -53,7 +53,7 @@ beschliesst
 
 <sup>2</sup> Schüler und Schülerinnen, welche die Prüfung nicht bestanden haben, können diese einmal wiederholen, nachdem sie grundsätzlich den Unterricht des letzten Schuljahres noch einmal besucht haben. Über Dispensationen entscheidet die Schulleitung der Fachmittelschule.
 
-<sup>3</sup> Im Falle einer Wiederholung der Prüfung kann eine weitere selbstständige Abschlussarbeit auf Wunsch des Kandidaten oder der Kandidatin eingereicht werden. Wird dies nicht gewünscht, so zählt die Note der bereits eingereichten Abschlussarbeit.
+<sup>3</sup> Schüler und Schülerinnen können bei nicht bestandener Prüfung im Falle einer Wiederholung eine weitere selbstständige Arbeit mit engem Bezug zum gewählten Berufsfeld einreichen. Reichen sie keine weitere selbstständige Arbeit ein, zählt die Note der bereits eingereichten Arbeit.
 
 <sup>4</sup> Wer zweimal eine Abschlussprüfung der Fachmittelschule nicht bestanden hat, wird zu keiner weiteren Abschlussprüfung der Fachmittelschule zugelassen.
 
@@ -80,7 +80,7 @@ beschliesst
 - i) Für das Berufsfeld Gesundheit: Biologie sowie Ethik / Philosophie;
 - j) Für das Berufsfeld Pädagogik: Bildnerisches Gestalten und Kunst sowie Naturwissenschaftliche Phänomene;
 - k) Für das Berufsfeld Soziale Arbeit: Wirtschaft und Recht sowie Psychologie;
-- l) selbstständige Arbeit.
+- l) selbstständige Arbeit mit engem Bezug zum gewählten Berufsfeld.
 
 <sup>2</sup> Die Leistungen in den Fächern gemäss Absatz 1 werden in ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
