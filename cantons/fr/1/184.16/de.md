@@ -3,13 +3,13 @@ canton: FR
 number: "184.16"
 title: "Verordnung über das kantonale Bezugssystem von Daten von Personen, von Organisationen und von Verzeichnissen (Pilotprojekt)"
 language: de
-version: 2022-01-01
-valid_until: 2023-07-31
-version_adopted: 2022-01-31
+version: 2023-08-01
+valid_until: 2024-11-30
+version_adopted: 2023-07-06
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7111/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7111/pdf_file"
 
 Kantonale Bezugssystem von Daten – V
 
-vom 24.06.2019 (Fassung in Kraft getreten am 01.01.2022)
+vom 24.06.2019 (Fassung in Kraft getreten am 01.08.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -453,7 +453,7 @@ beschliesst:
 
 **Allgemeine Bestimmungen**
 
-<sup>1</sup> Der Schutz der Daten des kantonalen Bezugssystems wird mit den Massnahmen, die darauf abzielen, die Sicherheit der Information allgemein sicherzustellen, und Massnahmen, die innerhalb der Informatiksicherheit getroffen werden, harmonisiert. Die konkreten Informatiksicherheitsmassnahmen werden vom ITA, entsprechend den existierenden Risiken und Technologien, beantragt und umgesetzt.
+<sup>1</sup> Der Schutz der Daten des kantonalen Bezugssystems wird mit den Massnahmen für die Sicherstellung der allgemeinen Informationssicherheit harmonisiert. Die Massnahmen für die Sicherheit der Informatikmittel werden vom ITA, entsprechend den existierenden Risiken und Technologien, beantragt und umgesetzt.
 
 #### Art. A5-2
 

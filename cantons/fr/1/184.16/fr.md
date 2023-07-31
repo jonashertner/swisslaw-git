@@ -3,13 +3,13 @@ canton: FR
 number: "184.16"
 title: "Ordonnance concernant la mise en œuvre du Référentiel cantonal de données de personnes, organisations et nomenclatures (projet pilote)"
 language: fr
-version: 2022-01-01
-valid_until: 2023-07-31
-version_adopted: 2022-01-31
+version: 2023-08-01
+valid_until: 2024-11-30
+version_adopted: 2023-07-06
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7111/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7797/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7111/pdf_file"
 
 Référentiel cantonal de données – O
 
-du 24.06.2019 (version entrée en vigueur le 01.01.2022)
+du 24.06.2019 (version entrée en vigueur le 01.08.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -453,7 +453,7 @@ Arrête:
 
 **En général**
 
-<sup>1</sup> La protection des données du Référentiel cantonal est harmonisée avec les mesures visant à assurer la sécurité de l'information en général ainsi qu'avec les mesures prises à titre de sécurité informatique. Les mesures de sécurité informatique concrètes sont proposées et mises en œuvre par le SITel en fonction des risques et des technologies existantes.
+<sup>1</sup> La protection des données du Référentiel cantonal est harmonisée avec les mesures visant à assurer la sécurité de l'information en général. Les mesures prises à titre de sécurité des moyens informatiques sont proposées et mises en œuvre par le SITel en fonction des risques et des technologies existantes.
 
 #### Art. A5-2
 
