@@ -3,11 +3,11 @@ sr: "311.039.3"
 title: Verordnung vom 23. Oktober 2013 über Massnahmen zur Verhütung von Straftaten im Zusammenhang mit Menschenhandel (Verordnung gegen Menschenhandel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/680"
 language: de
-version: 2014-01-01
+version: 2023-08-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/680/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2013-680-20140101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/680/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/680/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2013-680-20230801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/680/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/680/20140101/de"
 
 (Verordnung gegen Menschenhandel)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2014)
+vom 23. Oktober 2013 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -35,8 +35,11 @@ Diese Verordnung regelt:
 
 - a. die Durchführung von Präventionsmassnahmen des Bundes im Sinne der Artikel 5 und 6 des Übereinkommens vom 16. Mai 2005 zur Bekämpfung des Menschenhandels;
 - b. die Gewährung von Finanzhilfen des Bundes an Massnahmen nach Buchstabe a, die von Dritten durchgeführt werden;
-- c. die Beteiligung des Bundes an Organisationen, die Massnahmen nach Buchstabe a durchführen, sowie die Gewährung von Finanzhilfen des Bundes an solche Organisationen;
-- d. die Aufgaben der Koordinationsstelle gegen Menschenhandel und Menschenschmuggel (KSMM) im Bereich des Menschenhandels sowie die Aufgaben der Geschäftsstelle der KSMM zur Umsetzung dieser Verordnung.
+- c.[^1-1] …
+- d.[^1-2] die weiteren Aufgaben des Bundesamts für Polizei (fedpol) zur Bekämpfung des Menschenhandels und Menschenschmuggels.
+
+[^1-1]: Aufgehoben durch Ziff. I der V vom 9. Juni 2023, mit Wirkung seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 
 ## 2. Abschnitt: Präventionsmassnahmen
 
@@ -73,19 +76,34 @@ Der Bund kann folgende Massnahmen durchführen:
 
 #### Art. 4
 
-**Massnahmen Dritter**
+**Massnahmen Dritter**[^4-1]
 
-<sup>1</sup> Der Bund kann Organisationen des öffentlichen oder privaten Rechts mit Sitz in der Schweiz Finanzhilfen gewähren zur Durchführung von Massnahmen nach Artikel 2 in der Schweiz.
+Der Bund kann Organisationen des öffentlichen und privaten Rechts mit Sitz in der Schweiz zur Durchführung von Massnahmen in der Schweiz nach Artikel 2 mit Finanzhilfen unterstützen.
 
-<sup>2</sup> Er kann sich an solchen Organisationen, die Massnahmen nach Artikel 2 in der Schweiz durchführen, beteiligen und solche Organisationen mit Finanzhilfen unterstützen.
+[^4-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 
 ## 3. Abschnitt: Finanzhilfen
 
 #### Art. 5
 
-**Grundsatz**
+**Grundsätze**[^5-1]
 
-Der Bund kann Finanzhilfen im Rahmen der jährlich bewilligten Kredite gewähren.
+<sup>1</sup> Der Bund kann Finanzhilfen im Rahmen der jährlich bewilligten Kredite gewähren.
+
+<sup>2</sup> Es besteht kein Anspruch auf finanzielle Leistungen.
+
+<sup>3</sup>
+
+Übersteigen die beantragten Finanzhilfen die verfügbaren Mittel, so erstellt fedpol gestützt auf Artikel 13 Absatz 2 des Subventionsgesetzes vom 5. Oktober 1990[^5-2] (SuG) eine Prioritätenordnung, nach der die Gesuche beurteilt werden. Dabei werden in erster Linie Präventionsmassnahmen berücksichtigt, die:
+
+- a. den jährlich festgelegten Förderschwerpunkten Rechnung tragen;
+- b. die Qualitätsanforderungen am besten erfüllen;
+- c. einen effizienten Einsatz der Ressourcen gewährleisten.
+
+<sup>4</sup> Das Eidgenössische Justiz- und Polizeidepartement legt die Förderschwerpunkte nach Absatz 3 Buchstabe a fest.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
+[^5-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 6
 
@@ -95,7 +113,9 @@ Der Bund kann Finanzhilfen im Rahmen der jährlich bewilligten Kredite gewähren
 
 <sup>2</sup> Anrechenbar sind jene Ausgaben, die unmittelbar mit der Vorbereitung und Durchführung der Massnahme zusammenhängen.
 
-<sup>3</sup> Die Finanzhilfen für die Unterstützung von Organisationen nach Artikel 4 Absatz 2 betragen höchstens 25 Prozent der diesen jährlich zur Verfügung stehenden Mittel.
+<sup>3</sup> Handelt es sich um eine Unterstützung von wiederkehrenden Massnahmen, so darf der Anteil der Finanzhilfe höchstens 25 Prozent der Kosten dieser wiederkehrenden Massnahmen betragen.[^6-1]
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 
 #### Art. 7
 
@@ -120,7 +140,9 @@ Die Finanzhilfen zur Unterstützung von Organisationen bemessen sich nach:
 
 **Auszahlung**
 
-Das Bundesamt für Polizei kann die Finanzhilfen abgestimmt auf den Fortschritt der jeweiligen Massnahme gestaffelt auszahlen.
+Fedpol[^8-1] kann die Finanzhilfen abgestimmt auf den Fortschritt der jeweiligen Massnahme gestaffelt auszahlen.
+
+[^8-1]: Ausdruck gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ## 4. Abschnitt: Verfahren
 
@@ -128,11 +150,11 @@ Das Bundesamt für Polizei kann die Finanzhilfen abgestimmt auf den Fortschritt 
 
 **Grundlage und Rechtsform**
 
-<sup>1</sup> Das Verfahren für die Gewährung von Finanzhilfen richtet sich nach den Bestimmungen des Subventionsgesetzes vom 5. Oktober 1990[^9-1] (SuG).
+<sup>1</sup> Das Verfahren für die Gewährung von Finanzhilfen richtet sich nach den Bestimmungen des SuG[^9-1].[^9-2]
 
 <sup>2</sup>
 
-Das Bundesamt für Polizei gewährt die Finanzhilfen auf der Grundlage:
+Fedpol gewährt die Finanzhilfen auf der Grundlage:
 
 - a. einer Verfügung nach Artikel 16 Absatz 1 SuG für die Durchführung von Projekten;
 - b. eines Vertrages nach Artikel 16 Absatz 2 SuG für regelmässige Aktivitäten, Programme und Kampagnen sowie für die Unterstützung von Organisationen nach Artikel 4 Absatz 2.
@@ -149,22 +171,25 @@ In einem Vertrag werden namentlich festgelegt:
 <sup>4</sup> Ein Vertrag wird unter Kreditvorbehalt für die Dauer von höchstens vier Jahren abgeschlossen.
 
 [^9-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^9-2]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 
 #### Art. 10
 
 **Gesuche**
 
-<sup>1</sup> Gesuche um Finanzhilfe sind dem Bundesamt für Polizei einzureichen.
+<sup>1</sup> Gesuche um Finanzhilfe für Massnahmen, deren Durchführung im folgenden Kalenderjahr geplant ist, sind fedpol bis zum 31. Juli einzureichen. Betragen die Gesamtkosten für ein Projekt weniger als 10 000 Franken, so kann das Gesuch jederzeit eingereicht werden.[^10-1]
 
-<sup>2</sup> Das Bundesamt für Polizei erlässt Richtlinien für das Gesuchsverfahren. Darin legt es namentlich fest, welche Unterlagen den Gesuchen beigelegt werden müssen.
+<sup>2</sup> Fedpol erlässt Richtlinien für das Gesuchsverfahren. Darin legt es namentlich fest, welche Unterlagen den Gesuchen beigelegt werden müssen.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 
 #### Art. 11
 
 **Prüfung der Gesuche und Entscheid**
 
-<sup>1</sup> Das Bundesamt für Polizei prüft die Gesuche und entscheidet über die Gewährung von Finanzhilfen.
+<sup>1</sup> Fedpol prüft die Gesuche und entscheidet über die Gewährung von Finanzhilfen.
 
-<sup>2</sup> Erachtet das Bundesamt für Polizei ein Gesuch als unvollständig, so räumt es der Gesuchstellerin oder dem Gesuchsteller die Möglichkeit der Ergänzung ein.
+<sup>2</sup> Erachtet fedpol ein Gesuch als unvollständig, so räumt es der Gesuchstellerin oder dem Gesuchsteller die Möglichkeit der Ergänzung ein.
 
 <sup>3</sup> Die Ablehnung eines Gesuchs erfolgt schriftlich und begründet.
 
@@ -172,34 +197,15 @@ In einem Vertrag werden namentlich festgelegt:
 
 **Bedingungen und Auflagen**
 
-Das Bundesamt für Polizei kann die Gewährung einer Finanzhilfe an Bedingungen knüpfen und mit Auflagen verbinden.
+Fedpol kann die Gewährung einer Finanzhilfe an Bedingungen knüpfen und mit Auflagen verbinden.
 
-## 5. Abschnitt: Koordinationsstelle gegen Menschenhandel und Menschenschmuggel
+## 5. Abschnitt: …
 
 #### Art. 13
 
-<sup>1</sup>
+[^13-1]
 
-Die KSMM gemäss Artikel 10 Absatz 2 der Organisationsverordnung vom 17. November 1999[^13-1] für das Eidgenössische Justiz- und Polizeidepartement erfüllt mit Unterstützung ihrer Geschäftsstelle zum Zweck der Verhütung und der Bekämpfung von Menschenhandel folgende Aufgaben:
-
-- a. Sie beurteilt laufend die Lage bezüglich Menschenhandel.
-- b. Sie erstellt und koordiniert Lage- und Bedrohungsberichte, Stellungnahmen sowie Planungsgrundlagen.
-- c. Sie entwickelt gesamtschweizerische Strategien und Konzepte für die Prävention und Bekämpfung des Menschenhandels und seiner Folgen und bereitet die notwendigen Grundlagen für die politische Entscheidfindung vor.
-- d. Sie setzt die internationalen Verpflichtungen der Schweiz in ihrem Fachbereich um.
-- e. Sie koordiniert die strategischen und die operativen Massnahmen der zuständigen Behörden und Stellen des Bundes und der Kantone.
-- f. Sie bearbeitet und koordiniert Informationen aus dem In- und Ausland in ihrem Zuständigkeitsbereich.
-- g. Sie richtet eine Anlauf- und Vermittlungsstelle ein für Anfragen und Auskünfte aus dem In- und Ausland.
-- h. Sie initiiert und erarbeitet gezielte Ausbildungs- und Informationsangebote.
-
-<sup>2</sup>
-
-Die Geschäftsstelle der KSMM nimmt zur Umsetzung dieser Verordnung folgende Aufgaben wahr:
-
-- a. Sie erarbeitet und begleitet Massnahmen des Bundes nach Artikel 3.
-- b. Sie unterstützt die Überprüfung der gewährten Finanzhilfen auf ihre gesetzmässige Verwendung.
-- c. Sie nimmt Stellung zu Gesuchen um Finanzhilfen nach Artikel 10.
-
-[^13-1]: [SR 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
+[^13-1]: Aufgehoben durch Ziff. I der V vom 9. Juni 2023, mit Wirkung seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 
 ## 6. Abschnitt: Auskunfts- und Rechenschaftspflicht, Evaluation
 
@@ -207,19 +213,48 @@ Die Geschäftsstelle der KSMM nimmt zur Umsetzung dieser Verordnung folgende Auf
 
 **Auskunfts- und Rechenschaftspflicht**
 
-<sup>1</sup> Wer Beiträge nach dieser Verordnung erhält, ist verpflichtet, dem Bundesamt für Polizei über die Verwendung der Finanzhilfen jederzeit Auskunft zu erteilen und auf Verlangen Einsicht in die relevanten Unterlagen zu gewähren.
+<sup>1</sup> Wer Beiträge nach dieser Verordnung erhält, ist verpflichtet, fedpol über die Verwendung der Finanzhilfen jederzeit Auskunft zu erteilen und auf Verlangen Einsicht in die relevanten Unterlagen zu gewähren.
 
-<sup>2</sup> Organisationen des privaten oder öffentlichen Rechts nach Artikel 3 Absatz 2 sind verpflichtet, dem Bundesamt für Polizei über ihre Geschäfts- und Rechnungsführung regelmässig Rechenschaft abzulegen.
+<sup>2</sup> Organisationen des privaten oder öffentlichen Rechts nach Artikel 3 Absatz 2 sind verpflichtet, fedpol über ihre Geschäfts- und Rechnungsführung regelmässig Rechenschaft abzulegen.
 
 #### Art. 15
 
 **Evaluation**
 
-<sup>1</sup> Das Bundesamt für Polizei überprüft regelmässig die Zweckmässigkeit und Wirksamkeit der vom Bund durchgeführten Massnahmen und der gewährten Finanzhilfen.
+<sup>1</sup> Fedpol überprüft regelmässig die Zweckmässigkeit und Wirksamkeit der vom Bund durchgeführten Massnahmen und der gewährten Finanzhilfen.
 
-<sup>2</sup> Es erstattet dem Eidgenössischen Justiz- und Polizeidepartement regelmässig Bericht über die Ergebnisse der Evaluation.
+<sup>2</sup> Fedpol erstattet dem Eidgenössischen Justiz- und Polizeidepartement regelmässig Bericht über die Ergebnisse der Evaluation.
 
-<sup>3</sup> Es kann externe Fachpersonen mit der Evaluation beauftragen.
+<sup>3</sup> Fedpol kann externe Fachpersonen mit der Evaluation beauftragen.
+
+## 6*a*. Abschnitt: Weitere Aufgaben von fedpol
+
+[^sec6a-1]
+
+[^sec6a-1]: Eingefügt durch Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
+
+#### Art. 15a
+
+<sup>1</sup>
+
+Fedpol nimmt zur Verhütung und Bekämpfung von Menschenhandel die folgenden Aufgaben wahr:
+
+- a. Es entwickelt in den Bereichen Prävention, Strafverfolgung, Opferschutz und Zusammenarbeit gesamtschweizerische Strategien und Konzepte, namentlich in Form von nationalen Aktionsplänen; diese werden dem Bundesrat zur Verabschiedung unterbreitet.
+- b. Es koordiniert die strategischen und die operativen Massnahmen der zuständigen Stellen des Bundes und der Kantone.
+- c. Es betreibt eine Anlauf- und Vermittlungsstelle für Anfragen und Auskünfte aus dem In- und Ausland.
+- d. Es initiiert und erarbeitet fachspezifische Ausbildungs- und Informationsangebote.
+- e. Es beurteilt laufend die Lage bezüglich Menschenhandel und erstellt regelmässig Lageberichte.
+- f. Es bearbeitet und koordiniert Informationen aus dem In- und Ausland.
+- g. Es setzt die internationalen Verpflichtungen der Schweiz um.
+- h. Es anonymisiert die Entscheide, die es gestützt auf Artikel 1 Ziffer 3 der Verordnung vom 10. November 2004[^15a-1] über die Mitteilung kantonaler Strafentscheide erhalten hat, nachdem überprüft wurde, ob dagegen ein Rechtsmittel nach Artikel 381 Absatz 4 Buchstabe a der Strafprozessordnung[^15a-2] zu ergreifen ist.
+- i. Es analysiert die anonymisierten Entscheide nach Buchstabe h.
+
+<sup>2</sup> Es setzt zur Umsetzung der Aufgaben nach Absatz 1 Buchstaben a und b eine strategisch ausgerichtete Expertengruppe ein. Diese besteht aus Vertreterinnen und Vertretern der zuständigen Stellen von Bund, Kantonen und Städten sowie der Zivilgesellschaft.
+
+<sup>3</sup> Es erlässt für die Expertengruppe ein Geschäftsreglement.
+
+[^15a-1]: [SR 312.3](https://fedlex.data.admin.ch/eli/cc/2004/729)
+[^15a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 ## 7. Abschnitt: Schlussbestimmungen
 
