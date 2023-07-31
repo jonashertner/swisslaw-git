@@ -4,11 +4,11 @@ title: "Ordonnance du 30 novembre 2018 sur le système d'information relatif à 
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: fr
-version: 2022-01-01
+version: 2023-08-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/fr"
 
 (OSIAC)
 
-du 30 novembre 2018 (Etat le 1<sup>er</sup> janvier 2022)
+du 30 novembre 2018 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -217,12 +217,23 @@ Les données doivent être transmises au SIAC via les interfaces et selon les pr
 Outre les autorités visées à l’art. 89*d* LCR, l’OFDF peut traiter les données nécessaires:
 
 - a. au contrôle du dédouanement et de l’imposition selon la Limpauto[^16-1];
-- b. à la perception de la redevance sur le trafic des poids lourds liée aux prestations selon la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^16-2].
+- a<sup>bis</sup>.[^16-2]
+
+  aux tâches suivantes en lien avec la perception de la redevance pour l’utilisation des routes nationales prévue par la loi du 19 mars 2010 sur la vignette autoroutière[^16-3]:
+
+  - 1\. la vérification de l’acquittement de la redevance pour l’utilisation des routes nationales,
+  - 2\. la poursuite et le jugement d’infractions,
+  - 3\. la vérification du transfert de la vignette électronique sur une autre plaque de contrôle (art. 5 de l’ordonnance du 16 juin 2023 sur la vignette autoroutière[^16-4]);
+
+- b. à la perception de la redevance sur le trafic des poids lourds liée aux prestations selon la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^16-5].
 
 <sup>2</sup> Les services pouvant accéder en ligne aux données du SIAC conformément à l’art. 89*e* LCR désignent les personnes habilitées à consulter les données.
 
 [^16-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^16-2]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^16-2]: Introduite par l’annexe ch. 3 de l’O du 16 juin 2023 sur la vignette autoroutière, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^16-3]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^16-4]: [RS 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
+[^16-5]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 #### Art. 17
 
@@ -402,13 +413,13 @@ Annexe 1
 
 - – Données relatives au blocage
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 6)
 
 ## Données du sous-système SIAC-Personnes
 
-[^t-1]: Mise à jour selon le ch. I de l’O de l’OFROU du 28 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 (RO 2019 4223).
+[^t-1]: Mise à jour par le ch. I de l’O de l’OFROU du 28 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4223](https://fedlex.data.admin.ch/eli/oc/2019/726)).
 
 ### 1 Autorisations de conduire
 

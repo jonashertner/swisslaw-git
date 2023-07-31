@@ -4,11 +4,11 @@ title: Verordnung vom 30. November 2018 über das Informationssystem Verkehrszul
 short: IVZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: de
-version: 2022-01-01
+version: 2023-08-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/de"
 
 (IVZV)
 
-vom 30. November 2018 (Stand am 1. Januar 2022)
+vom 30. November 2018 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -217,12 +217,23 @@ Die Übermittlung von Daten ans IVZ muss über die vom ASTRA definierten Schnitt
 Das BAZG kann neben den Behörden nach Artikel 89*d* SVG die Daten bearbeiten, die erforderlich sind für:
 
 - a. die Kontrolle der Verzollung und Versteuerung nach dem AstG[^16-1];
-- b. die Erhebung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^16-2].
+- a<sup>bis</sup>.[^16-2]
+
+  die folgenden Aufgaben im Zusammenhang mit der Erhebung der Nationalstrassenabgabe nach dem Nationalstrassenabgabegesetz vom 19. März 2010[^16-3]:
+
+  - 1\. die Überprüfung der Entrichtung der Nationalstrassenabgabe,
+  - 2\. die Verfolgung und Beurteilung von Wiederhandlungen, und
+  - 3\. die Überprüfung der Übertragung der E-Vignette auf ein anderes Kontrollschild (Art. 5 Nationalstrassenabgabeverordnung vom 16. Juni 2023[^16-4]);
+
+- b. die Erhebung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^16-5].
 
 <sup>2</sup> Die Stellen, die nach Artikel 89*e* SVG durch ein Abrufverfahren Einsicht in Daten des IVZ nehmen können, bezeichnen die Personen, die zur Einsicht berechtigt sind.
 
 [^16-1]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^16-2]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^16-2]: Eingefügt durch Anhang Ziff. 3 der Nationalstrassenabgabeverordnung vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^16-3]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^16-4]: [SR 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
+[^16-5]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 #### Art. 17
 
@@ -402,7 +413,7 @@ Anhang 1
 
 - – Sperrdaten
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 6)
 
@@ -634,8 +645,8 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annex4-lvlu1-5]
 
-[^annex4-lvlu1-1]: [[AS 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364), [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489), [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471), [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782), [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264), [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25), [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247), [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553)]
-[^annex4-lvlu1-2]: [[AS 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474), [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490), [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353)[5073](https://fedlex.data.admin.ch/eli/oc/2004/783), [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26)[5043](https://fedlex.data.admin.ch/eli/oc/2007/705), [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248)]
-[^annex4-lvlu1-3]: [[AS 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472), [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 18, [2010 1657](https://fedlex.data.admin.ch/eli/oc/2010/249)]
-[^annex4-lvlu1-4]: [[AS 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267), [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556)]
+[^annex4-lvlu1-1]: [[AS 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364); [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489); [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471); [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782); [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264); [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25); [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247); [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553)]
+[^annex4-lvlu1-2]: [[AS 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474); [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490); [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353), [5073](https://fedlex.data.admin.ch/eli/oc/2004/783); [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26), [5043](https://fedlex.data.admin.ch/eli/oc/2007/705); [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248)]
+[^annex4-lvlu1-3]: [[AS 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472); [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 18; [2010 1657](https://fedlex.data.admin.ch/eli/oc/2010/249)]
+[^annex4-lvlu1-4]: [[AS 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267); [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556)]
 [^annex4-lvlu1-5]: Die Änderungen können unter [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)konsultiert werden.

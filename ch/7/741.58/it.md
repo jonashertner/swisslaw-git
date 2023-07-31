@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2018 concernente il sistema d'informazione sul
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: it
-version: 2022-01-01
+version: 2023-08-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/it"
 
 (OSIAC)
 
-del 30 novembre 2018 (Stato 1° gennaio 2022)
+del 30 novembre 2018 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -214,12 +214,23 @@ La trasmissione di dati al SIAC deve avvenire attraverso le interfacce e le proc
 Oltre alle autorità di cui all’articolo 89*d* LCStr, anche l’UDSC può trattare i dati necessari per:
 
 - a. il controllo dello sdoganamento e dell’imposizione secondo la LIAut[^16-1];
-- b. la riscossione della tassa sul traffico pesante commisurata alle prestazioni conformemente alla legge del 19 dicembre 1997[^16-2] sul traffico pesante.
+- a<sup>bis</sup>.[^16-2]
+
+  i seguenti compiti in relazione con la riscossione della tassa per l’utilizzazione delle strade nazionali secondo la legge del 19 marzo 2010[^16-3] sul contrassegno stradale:
+
+  - 1\. la verifica del pagamento della tassa per l’utilizzazione delle strade nazionali,
+  - 2\. il perseguimento e il giudizio delle infrazioni, e
+  - 3\. la verifica del trasferimento del contrassegno elettronico su un’altra targa di controllo (art. 5 dell’ordinanza del 16 giugno 2023[^16-4] sul contrassegno stradale);
+
+- b. la riscossione della tassa sul traffico pesante commisurata alle prestazioni conformemente alla legge del 19 dicembre 1997[^16-5] sul traffico pesante.
 
 <sup>2</sup> I servizi che possono accedere ai dati del SIAC mediante procedura di richiamo in virtù dell’articolo 89*e* LCStr designano le persone autorizzate a tal fine.
 
 [^16-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^16-2]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^16-2]: Introdotta dall’all. n. 3 dell’O del 16 giu. 2023 sul contrassegno stradale, in vigore dal 1° ago. 2023 ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^16-3]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^16-4]: [RS 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
+[^16-5]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 #### Art. 17
 
@@ -399,7 +410,7 @@ Allegato 1
 
 - – blocco
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 6)
 
