@@ -3,20 +3,20 @@ canton: LU
 number: "444"
 title: Reglement über die Berufsmaturität
 language: de
-version: 2022-09-01
-valid_until: 2023-07-31
-version_adopted: 2022-07-05
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-06-13
 adopted: 2013-07-02
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/444"
-pdf: "https://srl.lu.ch/api/de/versions/3955/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4111/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berufsmaturität
 
-vom 02.07.2013 (Stand 01.09.2022)
+vom 02.07.2013 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -132,13 +132,13 @@ beschliesst:
 
 **Verhaltensbeurteilung**
 
-<sup>1</sup> Das Arbeitsverhalten und das Verhalten in der Gemeinschaft werden mit folgenden ganzen Noten beurteilt:
+<sup>1</sup> Das Arbeitsverhalten und das Verhalten in der Gemeinschaft werden je mit den Prädikaten «übertroffen», «erreicht», «teilweise erreicht» und «nicht erreicht» beurteilt. Im Arbeitsverhalten werden die Kompetenzen «eigenverantwortlich arbeiten», «eigene Fähigkeiten einschätzen» und «Methoden und Arbeitswerkzeuge effektiv einsetzen» beurteilt. Im Verhalten in der Gemeinschaft werden die Kompetenzen «aktiv mit anderen zusammenarbeiten», «konstruktiv mit Kritik umgehen» und «respektvoll mit anderen umgehen» beurteilt.
 
 <table>
 <tr><th>Note</th><th>Bedeutung</th></tr>
-<tr><td>I</td><td>gut</td></tr>
-<tr><td>II</td><td>mangelhaft</td></tr>
-<tr><td>III</td><td>ungenügend</td></tr>
+<tr><td>I</td><td>…</td></tr>
+<tr><td>II</td><td>…</td></tr>
+<tr><td>III</td><td>…</td></tr>
 </table>
 
 <sup>2</sup> Nicht beurteilt werden das Arbeitsverhalten und das Verhalten in der Gemeinschaft bei Lernenden in Berufsmaturitätsangeboten, welche nach Abschluss der beruflichen Grundbildung absolviert werden.
@@ -153,8 +153,9 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Voraussetzung für die Aufnahme ist, unter Vorbehalt der Absätze 2<sup>bis</sup>–4<sup>bis</sup>,
 
-- a. das Erfüllen der Richtwerte für den Übertritt in ein Kurzzeitgymnasium im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
-- b. das Erzielen mindestens je der Note 4,5 in den Fächern Deutsch, Französisch, Englisch und Mathematik im ersten Semester der 3. Klasse eines Langzeitgymnasiums oder der 1. Klasse eines Kurzzeitgymnasiums im laufenden oder im vorangegangenen Schuljahr oder
+- a. im getrennt geführten Sekundarschulmodell das Erzielen von mindestens drei Zeugnisnoten von mindestens 4,5 und maximal einer Zeugnisnote von mindestens 4 in allen Niveaufächern im Niveau A und im Fach Natur und Technik die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B, und zwar im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
+- b. im kooperativen und im integriert geführten Sekundarschulmodell das Erzielen einer Zeugnisnote von mindestens 4,5 in mindestens drei Niveaufächern des Niveaus A, einer Zeugnisnote von mindesten 4,5 in einem Niveaufach im Niveau B und im Fach Natur und Technik die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B, und zwar im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
+- b<sup>bis</sup>. das Erzielen mindestens je der Zeugnisnote 4,5 in den Fächern Deutsch, Französisch, Englisch und Mathematik im ersten Semester der 3. Klasse eines Langzeitgymnasiums oder der 1. Klasse eines Kurzzeitgymnasiums im laufenden oder im vorangegangenen Schuljahr oder
 - c. das Bestehen einer Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik.
 
 <sup>2</sup> Der Prüfungsstoff der Aufnahmeprüfung richtet sich nach dem Lehrplan der Sekundarschule (5. Semester).
