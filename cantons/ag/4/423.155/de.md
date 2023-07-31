@@ -4,13 +4,13 @@ number: "423.155"
 title: Verordnung über die Handelsmittelschule
 short: V HMS
 language: de
-version: 2019-08-01
-valid_until: 2023-07-31
-version_adopted: 2019-05-15
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-05-17
 adopted: 2010-05-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.155"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2734/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2734/pdf_file"
 
 (V HMS)
 
-Vom 19.05.2010 (Stand 01.08.2019)
+Vom 19.05.2010 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -37,7 +37,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses (EFZ) Kauffrau beziehungsweise Kaufmann erweiterte Grundbildung (E-Profil) sowie die Berufsmaturität kaufmännischer Richtung an Handelsmittelschulen.
+<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses (EFZ) Kauffrau beziehungsweise Kaufmann sowie die Berufsmaturität mit Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, an Handelsmittelschulen.
 
 #### § 2
 
@@ -80,7 +80,7 @@ beschliesst:
 - a) die Grundlagenfächer Deutsch, Französisch beziehungsweise Italienisch, Englisch und Mathematik;
 - b) die Schwerpunktfächer Finanz und Rechnungswesen sowie Wirtschaft und Recht;
 - c) die Ergänzungsfächer Geschichte und Politik sowie Technik und Umwelt;
-- d) das für das eidgenössische Fähigkeitszeugnis erforderliche Fach (EFZ-Fach) Information, Kommunikation, Administration (IKA);
+- d) das auf den Handlungskompetenzbereichen b.–e. (b. Interagieren in einem vernetzten Arbeitsumfeld, c. Koordinieren von unternehmerischen Arbeitsprozessen, d. Gestalten von Kunden- oder Lieferantenbeziehungen, e. Einsetzen von Technologien der digitalen Arbeitswelt) beruhende Fach Technologie und Kommunikation;
 - e) das Fach Sport.
 
 <sup>2</sup> Promotionswirksam in der 2. Klasse sind:
@@ -88,16 +88,16 @@ beschliesst:
 - a) die Grundlagenfächer Deutsch, Französisch beziehungsweise Italienisch, Englisch und Mathematik;
 - b) die Schwerpunktfächer Wirtschaft und Recht sowie Finanz- und Rechnungswesen;
 - c) das Ergänzungsfach Geschichte und Politik;
-- d) die EFZ-Fächer Information, Kommunikation, Administration (IKA), Projekte Vertiefen und Vernetzen sowie Integrierte Praxisteile (IPT);
-- e) ein zusätzliches, allgemeinbildendes Fach der schulisch organisierten Grundbildung gemäss Bildungsplan (SOG+-Fach) und das Fach Sport. Wenn mehr als ein SOG+-Fach belegt wird, zählt dasjenige mit der besseren Note.
+- d) die auf den Handlungskompetenzbereichen b.–e. beruhenden Fächer Projektmanagement und Kommunikation, Projekte und Prozesse sowie Technologie und Kommunikation;
+- e) ein zusätzliches, allgemeinbildendes Fach der schulisch organisierten Grundbildung (Fach SOG Flexibel) und das Fach Sport. Wenn mehr als ein Fach SOG Flexibel belegt wird, zählt dasjenige mit der besseren Note.
 
 <sup>3</sup> Promotionswirksam im 1. Semester der 3. Klasse sind:
 
 - a) die Grundlagenfächer Deutsch, Französisch beziehungsweise Italienisch, Englisch und Mathematik;
 - b) die Schwerpunktfächer Wirtschaft und Recht sowie Finanz- und Rechnungswesen;
 - c) das Ergänzungsfach Geschichte und Politik;
-- d) das EFZ-Fach Information, Kommunikation, Administration (IKA);
-- e) ein SOG+-Fach und das Fach Sport. Wenn mehr als ein SOG+-Fach belegt wird, zählt dasjenige mit der besseren Note.
+- d) das auf den Handlungskompetenzbereichen b.–e. beruhende Fach Technologie und Kommunikation;
+- e) ein Fach SOG Flexibel und das Fach Sport. Wenn mehr als ein Fach SOG Flexibel belegt wird, zählt dasjenige mit der besseren Note.
 
 #### § 4a
 
@@ -131,7 +131,9 @@ beschliesst:
 
 <sup>1</sup> Wer am Ende der Probezeit die Voraussetzungen gemäss § 5 nicht erfüllt, wird aus der Schule entlassen.
 
-<sup>2</sup> Wer nach erfolgter Nichtbeförderung die Voraussetzungen gemäss § 5 ein weiteres Mal nicht erfüllt, wird aus der Schule entlassen.
+<sup>2</sup> Wer nach erfolgter Nichtbeförderung die Voraussetzungen gemäss § 5 ein weiteres Mal nicht erfüllt, wird aus der Schule entlassen. Vorbehalten bleibt Absatz 3.
+
+<sup>3</sup> Wer das letzte Schuljahr gemäss § 26 Abs. 2 lit. b wiederholt und die Voraussetzungen gemäss § 5 am Ende des 1. Semesters des zu wiederholenden Schuljahrs ein weiteres Mal nicht erfüllt, wird nicht aus der Schule entlassen.
 
 #### § 8
 
@@ -149,35 +151,35 @@ beschliesst:
 
 **…**
 
-## 3. EFZ Kauffrau beziehungsweise Kaufmann erweiterte Grundbildung (E-Profil)
+## 3. EFZ Kauffrau beziehungsweise Kaufmann
 
 #### § 12
 
 **Qualifikationsverfahren**
 
-<sup>1</sup> Das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses Kauffrau beziehungsweise Kaufmann erweiterte Grundbildung (E-Profil) richtet sich nach den massgebenden Bestimmungen des Bundes und der Verordnung über die Berufs- und Weiterbildung (VBW) vom 7. November 2007[^12-1].
+<sup>1</sup> Das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses Kauffrau beziehungsweise Kaufmann richtet sich nach den massgebenden Bestimmungen des Bundes und der Verordnung über die Berufs- und Weiterbildung (VBW) vom 7. November 2007[^12-1].
 
-<sup>2</sup> Das BKS entscheidet auf Antrag der Schulleitung über das Bestehen des schulischen Teils des Qualifikationsverfahrens.
+<sup>2</sup> …
+
+<sup>3</sup> Das Qualifikationsverfahren für die Erlangung des EFZ Kauffrau beziehungsweise Kaufmann findet am Ende des betrieblichen Praxisaufenthalts (Langzeitpraktikum) statt.
 
 [^12-1]: SAR [422.211](https://gesetzessammlungen.ag.ch/data/422.211/de)
 
-## 3.<sup>bis</sup> Betrieblicher Praxisaufenthalt (Langzeitpraktikum) und Ersatzprüfung
+## 3.<sup>bis</sup> Betrieblicher Praxisaufenthalt (Langzeitpraktikum)
 
 #### § 12a
 
-**Nichteintritt in das Langzeitpraktikum**
-
-<sup>1</sup> Wer selbst mit einer hypothetischen Note 6,0 in der interdisziplinären Projektarbeit (IDPA) weder den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Kauffrau beziehungsweise Kaufmann erweiterte Grundbildung (E-Profil) noch die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt, muss das letzte Schuljahr vor einem zweiten Versuch wiederholen. Erst danach darf ein Eintritt in das Langzeitpraktikum erfolgen.
-
-<sup>2</sup> Wer nach Wiederholung des letzten Schuljahrs die Bedingungen gemäss Absatz 1 ein weiteres Mal nicht erfüllt, wird aus der Schule entlassen.
+**…**
 
 #### § 12b
 
-**Ersatzprüfung**
+**…**
 
-<sup>1</sup> Wer selbst mit einer hypothetischen Note 6,0 in der IDPA die schulischen Bedingungen für den Erwerb des EFZ Kauffrau beziehungsweise Kaufmann erweiterte Grundbildung (E-Profil) nicht erfüllt, jedoch diejenigen für das Bestehen des Berufsmaturitätsabschlusses, kann eine Ersatzprüfung für alle ungenügenden Fächer des E-Profils absolvieren. Die Ersatzprüfung kann im Anschluss an die Prüfungsperiode oder im Rahmen der nächsten ordentlichen Prüfungsperiode abgelegt werden.
+#### § 12c
 
-<sup>2</sup> Es zählen lediglich die Noten der Ersatzprüfung ohne Berücksichtigung der Vorschlagsnoten.
+**Absolvierung des Langzeitpraktikums**
+
+<sup>1</sup> Das Langzeitpraktikum wird in der Regel unmittelbar nach dem schulischen Teil des Lehrgangs absolviert. In begründeten Fällen kann die Schulleitung einen Beginn des Langzeitpraktikums bis maximal zwei Jahre nach dem Abschluss des schulischen Teils gestatten.
 
 ## 4. Berufsmaturität
 
@@ -189,7 +191,7 @@ beschliesst:
 
 <sup>1</sup> Die Abschlussprüfung findet am Ende der schulischen Ausbildung statt.
 
-<sup>2</sup> Die Zulassung zur Abschlussprüfung setzt den Besuch des letzten Schuljahrs in der Regel an derjenigen Lehranstalt voraus, an welcher die Prüfung abgelegt wird.
+<sup>2</sup> Die Zulassung zur Abschlussprüfung setzt den Besuch des letzten Schuljahrs in der Regel an derjenigen Handelsmittelschule voraus, an welcher die Prüfung abgelegt wird.
 
 #### § 13a
 
@@ -251,7 +253,7 @@ beschliesst:
 
 <sup>2</sup> Die Abschlussprüfung kann am nächsten Prüfungstermin wiederholt werden, sofern es sich bei der für ungültig erklärten Prüfung um den ersten Versuch gehandelt hat.
 
-<sup>3</sup> Das letzte Schuljahr muss wiederholt werden. Erst danach darf ein Eintritt in den betrieblichen Praxisaufenthalt (Langzeitpraktikum) erfolgen. Es zählen die Zeugnisnoten des Wiederholungsjahrs für die Abschlussprüfung.
+<sup>3</sup> Das letzte Schuljahr muss wiederholt werden. Erst danach darf ein Eintritt in das Langzeitpraktikum erfolgen. Es zählen die Zeugnisnoten des Wiederholungsjahrs als Erfahrungsnoten des 3. Schuljahrs für den Berufsmaturitätsabschluss.
 
 #### § 20
 
@@ -271,7 +273,7 @@ beschliesst:
 
 **Notengebung und Antrag**
 
-<sup>1</sup> Die Notenkonferenz der jeweiligen Schule setzt die Fachnoten fest und die Schulleitung stellt dem BKS Antrag auf Bestehen beziehungsweise Nichtbestehen des Berufsmaturitätsabschlusses.
+<sup>1</sup> Die Notenkonferenz der jeweiligen Schule setzt die Fachnoten fest und die Schulleitung erarbeitet die Grundlagen für die Entscheide betreffend Berufsmaturitätsabschluss zuhanden des BKS.
 
 #### § 24
 
@@ -294,17 +296,13 @@ beschliesst:
 - a) die Abschlussprüfung in denjenigen Fächern wiederholen, in denen eine ungenügende Note erzielt wurde,
 - b) vor einem zweiten Versuch das letzte Schuljahr wiederholen. Die Abschlussprüfung ist in diesem Fall in allen Fächern zu wiederholen.
 
-<sup>3</sup> Wer weder den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Kauffrau beziehungsweise Kaufmann erweiterte Grundbildung (E-Profil) noch die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt, muss das letzte Schuljahr vor einem zweiten Versuch wiederholen.
+<sup>3</sup> …
 
-<sup>4</sup> Wer nach Wiederholung des letzten Schuljahrs und absolviertem Langzeitpraktikum die Bestehensbedingungen nicht erfüllt, wird aus der Schule entlassen.
+<sup>4</sup> …
 
 #### § 27
 
-**Ersatzprüfung**
-
-<sup>1</sup> Wer die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt, nicht aber die schulischen Bedingungen für den Erwerb des EFZ Kauffrau beziehungsweise Kaufmann erweiterte Grundbildung (E-Profil), kann eine Ersatzprüfung für alle ungenügenden Fächer des E-Profils absolvieren. Die Ersatzprüfung kann im Anschluss an die Prüfungsperiode oder im Rahmen der nächsten ordentlichen Prüfungsperiode abgelegt werden.
-
-<sup>2</sup> Es zählen lediglich die Noten der Ersatzprüfung ohne Berücksichtigung der Vorschlagsnoten.
+**…**
 
 #### § 28
 
@@ -334,7 +332,13 @@ beschliesst:
 
 <sup>6</sup> …
 
-<sup>7</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2017/18 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+<sup>7</sup> …
+
+<sup>8</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2023/24 begonnen haben, gelten die Bestimmungen des bisherigen Rechts, längstens jedoch bis zum 31. Dezember 2028.
+
+<sup>9</sup> Im Falle der Repetition eines Schuljahrs gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2022/23 begonnen haben, die Bestimmungen des neuen Rechts.
+
+<sup>10</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2023/24 begonnen haben und das Qualifikationsverfahren für die Erlangung des EFZ Kauffrau beziehungsweise Kaufmann wiederholen, gelten bis längstens zum 31. Dezember 2028 die Bestimmungen des bisherigen Rechts. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
 
 #### § 31
 
