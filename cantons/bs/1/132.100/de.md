@@ -4,13 +4,12 @@ number: "132.100"
 title: Gesetz über Wahlen und Abstimmungen
 short: Wahlgesetz
 language: de
-version: 2021-01-01
-valid_until: 2023-07-31
-version_adopted: 2019-09-18
+version: 2023-08-01
+version_adopted: 2023-02-08
 adopted: 1994-04-21
 in_force: 1994-12-30
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/132.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5111/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6765/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Wahlgesetz | Wahlen und Abstimmungen[^t-1]
 
 (Wahlgesetz)
 
-Vom 21. April 1994 (Stand 1. Januar 2021)
+Vom 21. April 1994 (Stand 1. August 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -379,7 +378,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Der Grosse Rat wird auf eine Amtsdauer von vier Jahren gewählt.
 
-<sup>2</sup> Die Legislaturperiode des Grossen Rates beginnt jeweils in der ersten Hälfte Februar mit der konstituierenden Sitzung des neu gewählten Rates.
+<sup>2</sup> Die Amtsperiode des Grossen Rates beginnt jeweils am 1. Februar nach den Neuwahlen.
 
 #### § 34
 
@@ -714,7 +713,7 @@ beschliesst:[^ingress-2]
 
 **Amtliche Wahlzettel**
 
-<sup>1</sup> Der amtliche Wahlzettel enthält
+<sup>1</sup> Der amtliche Wahlzettel enthält:
 
 - a) die bereinigten Wahlvorschläge in der Reihenfolge der ihnen zugewiesenen Ordnungsnummern und mit ihren Bezeichnungen;
 - b) leere Linien in der Zahl der zu wählenden Kandidatinnen und Kandidaten;
