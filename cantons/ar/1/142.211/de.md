@@ -4,13 +4,13 @@ number: "142.211"
 title: Besoldungsverordnung
 short: BVO
 language: de
-version: 2023-01-01
-valid_until: 2023-07-31
-version_adopted: 2021-03-29
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-27
 adopted: 2006-10-30
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.211"
-pdf: "https://ar.clex.ch/api/de/versions/1445/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1503/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1445/pdf_file"
 
 (BVO)
 
-vom 30.10.2006 (Stand 01.01.2023)
+vom 30.10.2006 (Stand 01.08.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -257,10 +257,9 @@ beschliesst:
 
 <sup>5</sup> Der Regierungsrat erlässt Weisungen über weitere Kriterien für die individuelle Lohnbestimmung sowie die Entschädigung von Stellvertretungen und besonderen Aufgaben.
 
-<sup>6</sup> Für kantonale Lehrende an Volksschulabteilungen kantonaler Schulen gemäss Schulgesetz[^18-1] richtet sich die Besoldung nach der Verordnung über die Anstellung der Lehrenden an den Volksschulen[^18-2].
+<sup>6</sup> Die Besoldung von Lehrpersonen an Volksschulabteilungen kantonaler Schulen richtet sich nach der Besoldungsverordnung für die Lehrpersonen der Volksschule[^18-1].
 
-[^18-1]: bGS [411.0](https://ar.clex.ch/data/411.0/de)
-[^18-2]: bGS [413.12](https://ar.clex.ch/data/413.12/de)
+[^18-1]: BLV (bGS...)
 
 #### Art. 19
 
