@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2023-06-01
+version: 2023-08-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230601/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (État le 1<sup>er</sup> juin 2023)
+du 21 septembre 2018 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -475,9 +475,11 @@ Si une nouvelle indication, un nouveau mode d’administration, une nouvelle for
 
 #### Art. 32
 
-**Procédés pour la fabrication de transplants non standardisés**
+**Procédés pour la fabrication de transplants non standardisés**[^32-1]
 
-Les transplants non standardisés dont le procédé de fabrication peut être standardisé ne peuvent être mis sur le marché que si le procédé a été autorisé par Swissmedic.
+Les transplants non standardisés dont le procédé de fabrication peut être standardisé ne peuvent être mis sur le marché ou utilisés pour une transplantation autologue que si le procédé a été autorisé par Swissmedic.
+
+[^32-1]: Nouvelle teneur selon le ch. III de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> aout 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 33
 

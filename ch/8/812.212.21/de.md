@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2023-06-01
+version: 2023-08-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230601/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. Juni 2023)
+vom 21. September 2018 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -475,9 +475,11 @@ Wurde für das bereits zugelassene Arzneimittel eine neue Indikation, ein neuer 
 
 #### Art. 32
 
-**Verfahren für nichtstandardisierbare Transplantatprodukte**
+**Verfahren für nichtstandardisierbare Transplantatprodukte**[^32-1]
 
-Nichtstandardisierbare Transplantatprodukte, deren Herstellungsverfahren standardisierbar ist, dürfen nur in Verkehr gebracht werden, wenn das Herstellungsverfahren von der Swissmedic zugelassen worden ist.
+Nichtstandardisierbare Transplantatprodukte, deren Herstellungsverfahren standardisierbar ist, dürfen nur in Verkehr gebracht oder autolog transplantiert werden, wenn das Herstellungsverfahren von der Swissmedic zugelassen worden ist.
+
+[^32-1]: Fassung gemäss Ziff. III der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 33
 
@@ -1324,7 +1326,7 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)) und vom 28. April 2023, in Kraft seit 1. Juni 2023 (AS **202****3** 230).
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)) und vom 28. April 2023, in Kraft seit 1. Juni 2023 ([AS 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)).
 [^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/230](https://fedlex.data.admin.ch/eli/oc/2023/230) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils.
 
 Anhang 3[^t-3]
