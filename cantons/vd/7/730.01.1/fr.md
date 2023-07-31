@@ -4,7 +4,7 @@ number: "730.01.1"
 title: "RÈGLEMENT du 04.10.2006 d'application de la loi du 16 mai 2006 sur l'énergie (RLVLEne)"
 short: RLVLEne
 language: fr
-version: 2022-06-03
+version: 2023-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01.1?id=cdf012a7-8491-4e62-aeee-72bd1bf5a011"
 ---
 
@@ -80,7 +80,7 @@ arrête
 - g. à la planification énergétique ;
 - h. aux transports.
 
-<sup>2</sup> Les exigences du présent règlement sont applicables, même si les travaux entrepris ne sont pas soumis à autorisation en vertu des dispositions de la législation en matière de police des constructions.
+<sup>2</sup> Les exigences du présent règlement sont applicables, même si les travaux entrepris ne sont pas soumis à autorisation en vertu des dispositions de la législation en matière de police des constructions. L'article 68c RLATC qui dispense d'autorisation de construire l'installation de certaines pompes à chaleur est applicable pour tous les bâtiments existants, sans réserve du présent règlement.
 
 <sup>3</sup> Les exigences s'appliquant aux nouvelles constructions sont également valables dans les cas suivants :
 
@@ -276,7 +276,7 @@ arrête
 
 <sup>2</sup> Les équipements sont dimensionnés de manière à fournir le meilleur coefficient de performance annuel (COPA) possible à un coût raisonnable.
 
-<sup>3</sup> A une altitude de plus de 1'000 mètres, les pompes à chaleur utilisant l'air comme source de chaleur ne sont, d'une manière générale, autorisées que pour les bâtiments Minergie ou équivalent.
+<sup>3</sup> A une altitude de plus de 1'000 mètres, les pompes à chaleur utilisant l'air comme source de chaleur (pompes à chaleur air/eau ou air/air) ne sont, d'une manière générale, autorisées que pour les nouveaux bâtiments Minergie ou équivalent. L'équivalence Minergie est admise pour un bâtiment dont la performance énergétique correspond au minimum à la classe C de la catégorie enveloppe du Certificat énergétique cantonal des bâtiments (CECB). Pour les bâtiments existants n'atteignant pas ces exigences, l'autorisation ne peut être délivrée qu'en cas de travaux permettant de les atteindre. L'installation d'un chauffe-eau à pompe à chaleur n'est pas visée par la présente disposition.
 
 [^16-1]: Modif. 1 du 02.07.2014: Modification Al. 1,2; entrée en vigueur au 01.02.2015; Introduction Al. 3; entrée en vigueur au 01.02.2015 · Modif. 5 du 14.06.2023: Modification Al. 3; entrée en vigueur au 01.08.2023 · Modif. 6 du 01.10.2025: Abrogation Al. 3; entrée en vigueur au 01.01.2026
 [^17-1]: Règlement du 31.08.2011 sur l'utilisation des pompes à chaleur ( [BLV 730.05.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.05.1?id=a51c9c68-5323-4048-8650-2772f78be251))
@@ -1162,27 +1162,27 @@ Annexes [^58-2]
 
 1
 
-[ANNEXE 1](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/1?dmev=03.06.2022)
+[ANNEXE 1](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/1?dmev=01.08.2023)
 
 2
 
-[ANNEXE 2](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/2?dmev=03.06.2022)
+[ANNEXE 2](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/2?dmev=01.08.2023)
 
 3
 
-[ANNEXE 3](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/3?dmev=03.06.2022)
+[ANNEXE 3](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/3?dmev=01.08.2023)
 
 4
 
-[ANNEXE 4](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/4?dmev=03.06.2022)
+[ANNEXE 4](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/4?dmev=01.08.2023)
 
 5
 
-[ANNEXE 5](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/5?dmev=03.06.2022)
+[ANNEXE 5](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/5?dmev=01.08.2023)
 
 6
 
-[ANNEXE 6](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/6?dmev=03.06.2022)
+[ANNEXE 6](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/6?dmev=01.08.2023)
 
 [^58-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^58-2]: Modif. 1 du 02.07.2014: Modification Annexes, Ann. 1; entrée en vigueur au 01.08.2014
