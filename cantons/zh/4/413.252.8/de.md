@@ -3,11 +3,10 @@ canton: ZH
 number: "413.252.8"
 title: Reglement für die Maturitätsprüfungen des schweizerisch-italienischen Liceo artistico (Kunstgymnasium) Zürich
 language: de
-version: "2022-08-01"
-nachtrag: "117"
-valid_until: 2023-08-01
+version: "2023-08-01"
+nachtrag: "121"
 adopted: 1998-08-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_8-1998_08_11-1998_08_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_8-1998_08_11-1998_08_01-121.html"
 text: pdf
 ---
 
@@ -35,7 +34,7 @@ B. Massgebende Fächer
 
 **Maturitätsfächer**
 
-§ 4.<sup>4</sup> <sup>1</sup> Zehn Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturitätsarbeit bilden die Maturitätsfächer.
+§ 4.<sup>4</sup> <sup>1</sup> Zehn Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturaarbeit<sup>9</sup> bilden die Maturitätsfächer.
 
 <sup>2</sup> Grundlagenfächer sind:
 
@@ -61,7 +60,7 @@ B. Massgebende Fächer
 
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Das Schwerpunktfach ist Bildnerisches Gestalten. Das Ergänzungsfach wird von der Schülerin bzw. vom Schüler aus dem Angebot des Liceo artistico gewählt.
 
@@ -139,6 +138,20 @@ Die Prüfungen werden durch die Fachlehrpersonen unter Beizug von Expertinnen un
 
 <sup>4</sup> Die Kandidatinnen und Kandidaten sind vor den Prüfungen auf diese Bestimmungen aufmerksam zu machen.
 
+**Verhinderung**
+
+§ 12 a.<sup>8</sup> <sup>1</sup> Wer die Prüfung oder Teile davon aufgrund eines zwingenden, unvorhersehbaren und unabwendbaren Verhinderungsgrundes nicht antreten oder zu Ende führen kann, meldet dies unverzüglich der Schulleitung oder der Prüfungsaufsicht.
+
+<sup>2</sup> Der Verhinderungsgrund ist zu belegen. Wer medizinische Gründe geltend macht, reicht der Schulleitung innert dreier Tage nach dem Prüfungstermin ein ärztliches Zeugnis ein.
+
+<sup>3</sup> Wer einer Prüfung oder Teilen davon unentschuldigt fernbleibt, hat die Prüfung nicht bestanden.
+
+<sup>4</sup> Verhinderungsgründe, die zum Zeitpunkt der Prüfung bekannt oder erkennbar waren, können nicht mehr geltend gemacht werden, nachdem die Prüfung ganz oder teilweise abgelegt wurde.
+
+**3**
+
+- 1\. 7. 23 - 121
+
 ### D. Beurteilung der Leistungen und Ermittlung der Noten
 
 #### § 13
@@ -151,25 +164,21 @@ Die Leistungen in den für die Maturität massgeblichen Fächern werden mit ganz
 
 § 14.<sup>4</sup> <sup>1</sup> Die Maturitätsnoten setzen sich aus den Erfahrungsnoten und in Fächern, in denen Prüfungen stattfinden, zusätzlich aus den Prüfungsnoten zusammen. Die Noten werden wie folgt ermittelt:
 
-**3**
-
-- 1\. 7. 22 - 117
-
 <sup>2</sup> Erfahrungsnote: In allen Maturitätsfächern wird eine Erfahrungsnote gebildet. Die Erfahrungsnote ist das ungerundete Mittel der Noten der letzten beiden Semester, in denen das Fach unterrichtet wurde. Wird ein Fach in beiden Semestern des zweitletzten oder in beiden Semestern des letzten Schuljahres vor der Maturität unterrichtet, ist die Erfahrungsnote die Note aus dem entsprechenden Jahreszeugnis.<sup>7</sup>
 
 <sup>3</sup> Die Schulleitung bezeichnet die Semester, deren Zeugnisnoten für die Erfahrungsnote zählen, entsprechend dem Lehrplan der Schule.
 
 <sup>4</sup> Prüfungsnote: Für die schriftlichen und mündlichen Prüfungen werden ganze und halbe Noten erteilt. Als Prüfungsnote wird das ungerundete Mittel aus den beiden Noten bezeichnet; in Fächern mit nur einer Prüfung gilt die erteilte Note als Prüfungsnote.
 
-<sup>5</sup> Maturitätsarbeitsnote: Die Maturitätsnote für die Maturitätsarbeit wird aufgrund der Bewertung des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt. Jede dieser drei Teilleistungen wird nach der von der Schule festgelegten Gewichtung zu mindestens 25% in Noten bewertet. Das gewichtete Mittel wird nach der nächsten ganzen oder halben Zahl gerundet und ergibt die Maturitätsarbeitsnote. Wird eine dieser drei Teilleistungen ohne zwingenden Grund nicht oder nicht rechtzeitig erbracht, so wird dies bei der Bewertung der Teilleistung, bis zur Erteilung der Note 1, angemessen berücksichtigt.<sup>6</sup>
+<sup>5</sup> Maturaarbeitsnote<sup>9</sup>: Die Maturitätsnote für die Maturaarbeit<sup>9</sup> wird aufgrund der Bewertung des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt. Jede dieser drei Teilleistungen wird nach der von der Schule festgelegten Gewichtung zu mindestens 25% in Noten bewertet. Das gewichtete Mittel wird nach der nächsten ganzen oder halben Zahl gerundet und ergibt die Maturaarbeitsnote<sup>9</sup>. Wird eine dieser drei Teilleistungen ohne zwingenden Grund nicht oder nicht rechtzeitig erbracht, so wird dies bei der Bewertung der Teilleistung, bis zur Erteilung der Note 1, angemessen berücksichtigt.<sup>6</sup>
 
 <sup>6</sup> Maturitätsnote: Das Mittel aus Erfahrungs- und Prüfungsnote wird nach der nächsten ganzen oder halben Zahl gerundet. Ist der Bruchteil des Mittels eine Viertelnote, so ist aufzurunden. Die so ermittelte Note ist die Maturitätsnote im betreffenden Fach. In Fächern, in denen keine Prüfung stattfindet, wird die Rundung auf die Maturitätsnote direkt von der Erfahrungsnote aus vorgenommen.
 
-**Maturitätsarbeit**
+**Maturaarbeit9**
 
-§ 15.<sup>4</sup> <sup>1</sup> Einzelheiten zur Einreichung, Präsentation und Bewertung der Maturitätsarbeit sind in den Richtlinien der Schulen geregelt. Die Maturitätsarbeit kann in anonymisierter Form zum Zweck der Feststellung von Plagiaten in einer Datenbank erfasst werden.
+§ 15.<sup>4</sup> <sup>1</sup> Einzelheiten zur Einreichung, Präsentation und Bewertung der Maturaarbeit<sup>9</sup> sind in den Richtlinien der Schulen geregelt. Die Maturaarbeit<sup>9</sup> kann in anonymisierter Form zum Zweck der Feststellung von Plagiaten in einer Datenbank erfasst werden.
 
-<sup>2</sup> Mit der Einreichung der Maturitätsarbeit ist eine persönlich unterzeichnete Erklärung abzugeben, in welcher die selbstständige Abfassung der Arbeit ohne Benützung anderer als der angegebenen Quellen oder Hilfsmittel bestätigt wird.
+<sup>2</sup> Mit der Einreichung der Maturaarbeit<sup>9</sup> ist eine persönlich unterzeichnete Erklärung abzugeben, in welcher die selbstständige Abfassung der Arbeit ohne Benützung anderer als der angegebenen Quellen oder Hilfsmittel bestätigt wird.
 
 <sup>3</sup> Die Bestimmungen von § 12 gelten sinngemäss.
 
@@ -177,9 +186,9 @@ Die Leistungen in den für die Maturität massgeblichen Fächern werden mit ganz
 
 **Bedingungen für die Erteilung des Maturitätsausweises**
 
-§ 16.<sup>4</sup> Die Maturität ist bestanden, wenn a. die Prüfungen in allen Maturitätsfächern abgelegt und die Maturitätsarbeit abgegeben wurden,
+§ 16.<sup>4</sup> Die Maturität ist bestanden, wenn a. die Prüfungen in allen Maturitätsfächern abgelegt und die Maturaarbeit<sup>9</sup> abgegeben wurden,
 
-- b. in den 12 Maturitätsfächern sowie der Maturitätsarbeit die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben,
+- b. in den 12 Maturitätsfächern sowie der Maturaarbeit<sup>9</sup> die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben,
 
 - c. nicht mehr als vier Noten unter 4 erteilt wurden.
 
@@ -197,7 +206,7 @@ Der Entscheid über das Bestehen der Maturität wird auf Antrag der Schulleitung
 
 <sup>2</sup> Zu einer Wiederholung des letzten Schuljahres und der Prüfung werden auch Kandidatinnen und Kandidaten zugelassen, die bereits ein Jahr repetiert haben.
 
-<sup>3</sup> Die Maturitätsarbeit muss nicht wiederholt werden.
+<sup>3</sup> Die Maturaarbeit<sup>9</sup> muss nicht wiederholt werden.
 
 ### F. Maturitätsausweis
 
@@ -207,15 +216,13 @@ Der Entscheid über das Bestehen der Maturität wird auf Antrag der Schulleitung
 
 Den Schülerinnen und Schülern, die den Maturitätsanforderungen genügen, wird ein Maturitätsausweis in deutscher und italienischer Sprache ausgestellt, welcher das Bestehen der eidgenössisch anerkannten Maturität bescheinigt. Er wird in Italien anerkannt als Diplom der fünfjährigen italienischen Maturità artistica mit der Berechtigung zur Fortsetzung der Studien. Dieser Ausweis gibt Zutritt zum Studium an sämtlichen schweizerischen und italienischen Hochschulen sowie an den Kunstakademien (Accademie di Belle Arti) und an den andern Fachhochschulen Italiens.
 
-**Maturitätsausweis**
-
-§ 20.<sup>4</sup> <sup>1</sup> Der Maturitätsausweis enthält:
-
-- a. die Aufschrift «Schweizerische Eidgenossenschaft» und «Kanton Zürich» sowie den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995 und nach den schweizerisch-italienischen Vereinbarungen»,
-
 **5**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121 § 20.[^19-1] <sup>1</sup> Der Maturitätsausweis enthält:
+
+**Maturitätsausweis**
+
+- a. die Aufschrift «Schweizerische Eidgenossenschaft» und «Kanton Zürich» sowie den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995 und nach den schweizerisch-italienischen Vereinbarungen»,
 
 - b. den Namen der Schule: Liceo artistico (Kunstgymnasium) Zürich,
 
@@ -225,9 +232,7 @@ Den Schülerinnen und Schülern, die den Maturitätsanforderungen genügen, wird
 
 - e. die Noten der 12 Maturitätsfächer gemäss § 4 und des Faches Sport im Grundlagenbereich,
 
-- f. das Thema und die Note der Maturitätsarbeit,
-
-- g. gegebenenfalls einen Hinweis auf die Zweisprachigkeit der Maturität mit Angabe der zweiten Sprache,
+- f. das Thema und die Note der Maturaarbeit[^19-2], g.[^19-2] einen Hinweis auf die Zweisprachigkeit der Maturität mit Angabe der zweiten Sprache,
 
 - h. die Unterschriften der Schulleiterin oder des Schulleiters, der zur Unterzeichnung berechtigten Person der Bildungsdirektion sowie einer Vertreterin oder eines Vertreters des italienischen Konsulats.
 
@@ -235,9 +240,11 @@ Den Schülerinnen und Schülern, die den Maturitätsanforderungen genügen, wird
 
 **Italienische Schlussnote**
 
-§ 21.[^19-1] Der zweisprachige Maturitätsausweis enthält überdies die italienische Schlussnote in Hundertsteln gemäss den italienischen Bestimmungen. Die Umrechnung der Punktzahl in die italienische Schlussnote erfolgt aufgrund der Tabelle im Anhang.
+§ 21.[^19-3] Der zweisprachige Maturitätsausweis enthält überdies die italienische Schlussnote in Hundertsteln gemäss den italienischen Bestimmungen. Die Umrechnung der Punktzahl in die italienische Schlussnote erfolgt aufgrund der Tabelle im Anhang.
 
-[^19-1]: Fassung gemäss Beschluss des Bildungsrates vom 15. Februar 2010 (OS 69,
+[^19-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 454). In Kraft seit 18. August 2008.
+[^19-2]: Fassung gemäss Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 99; ABl 2021-09-03. In Kraft seit 1. August 2023. 1. 7. 23 - 121 7
+[^19-3]: Fassung gemäss Beschluss des Bildungsrates vom 15. Februar 2010 (OS 69,
 
 #### § 22
 
@@ -285,4 +292,5 @@ Punktzahl Noten in Hundertsteln nach schweizerischem System nach italienischem S
 - [1] OS 54, 825.
 - [2] Vom Erziehungsrat erlassen.
 - [74] . In Kraft seit 23. August 2010.
-- [7] Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 283; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 22 - 117 7
+- [7] Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 283; ABl 2022-03-25). In Kraft seit 1. August 2022.
+- [8] Eingefügt durch Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 99; ABl 2021-09-03. In Kraft seit 1. August 2023.
