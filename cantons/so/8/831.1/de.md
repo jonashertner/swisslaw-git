@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2022-01-01
-valid_until: 2023-07-31
-version_adopted: 2021-08-31
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2022-01-26
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5265/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5338/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5265/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.01.2022)
+Vom 31.01.2007 (Stand 01.08.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -1622,7 +1622,7 @@ beschliesst:
 
 **Schulsozialarbeit**
 
-<sup>1</sup> Die Einwohnergemeinden können an den Volksschulen im Rahmen der Jugendhilfe für die Schulsozialarbeit sorgen.
+<sup>1</sup> Die Einwohnergemeinden können an den öffentlichen Volksschulen im Rahmen der Jugendhilfe für die Schulsozialarbeit sorgen.
 
 <sup>2</sup> Die Schulsozialarbeit
 
@@ -1806,7 +1806,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton führt eine Anlauf- und Koordinationsstelle für Integration und gegen Rassismus mit dem Ziel
 
-- a) die deutsche Sprache und die Mehrsprachigkeit zur Integration an Schulen zu fördern;
+- a) die deutsche Sprache und die Mehrsprachigkeit zur Integration an öffentlichen Schulen zu fördern;
 - b) Sprach- und Integrationskurse für ausländische Staatsangehörige zu unterstützen;
 - c) den interkulturellen und interreligiösen Dialog zu fördern, um das gegenseitige Verständnis zwischen schweizerischer und ausländischer Bevölkerung zu verbessern;
 - d) Institutionen und Aktivitäten von und für ausländische Staatsangehörige zu unterstützen;
