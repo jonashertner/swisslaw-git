@@ -3,20 +3,20 @@ canton: LU
 number: 506b
 title: Reglement über den Passerellen-Lehrgang und die Ergänzungsprüfungen für die Zulassung zu den universitären Hochschulen
 language: de
-version: 2017-03-01
-valid_until: 2023-07-31
-version_adopted: 2017-02-14
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-04-04
 adopted: 2004-11-16
 in_force: 2004-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/506b"
-pdf: "https://srl.lu.ch/api/de/versions/3000/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4113/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Passerellen-Lehrgang und die Ergänzungsprüfungen für die Zulassung zu den universitären Hochschulen
 
-vom 16.11.2004 (Stand 01.03.2017)
+vom 16.11.2004 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -94,11 +94,14 @@ beschliesst:
 <sup>1</sup> Voraussetzungen für die Aufnahme in den Passerellen-Lehrgang sind:
 
 - a. ein Berufsmaturitätszeugnis oder ein gesamtschweizerisch anerkanntes Fachmaturitätszeugnis und
-- b. ein Aufnahmegespräch mit der Schulleitung.
+- b. die Teilnahme an einer Informationsveranstaltung.
 
-<sup>2</sup> Die Schulleitung entscheidet gestützt auf die eingereichten Anmeldeunterlagen und das Aufnahmegespräch über die Aufnahme.
+<sup>2</sup> Die Schulleitung entscheidet gestützt auf die eingereichten Anmeldeunterlagen über die Aufnahme.
 
-<sup>3</sup> Bei beschränkter Platzzahl werden Personen mit höherem Notendurchschnitt im Berufsmaturitäts- beziehungsweise im Fachmaturitätszeugnis zuerst berücksichtigt.
+<sup>3</sup> Bei beschränkter Platzzahl sind für die Aufnahme folgende Kriterien massgebend:
+
+- a. Wohnort im Kanton Luzern oder in einem Vereinbarungskanton,
+- b. Reihenfolge des Eingangs der Anmeldungen.
 
 #### § 8
 
