@@ -4,13 +4,13 @@ number: "150.11"
 title: Verordnung zum Personalgesetz
 short: Personalverordnung
 language: de
-version: 2022-01-01
-valid_until: 2023-07-31
-version_adopted: 2021-12-14
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2023-06-27
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.11"
-pdf: "https://bl.clex.ch/api/de/versions/3654/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3655/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3654/pdf_file"
 
 (Personalverordnung)
 
-Vom 19.12.2000 (Stand 01.01.2022)
+Vom 19.12.2000 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
