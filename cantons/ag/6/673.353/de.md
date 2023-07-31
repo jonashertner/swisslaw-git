@@ -4,13 +4,12 @@ number: "673.353"
 title: Reglement über die Einschätzung und Schadenerledigung bei Gebäuden
 short: Schätzungsreglement
 language: de
-version: 2020-01-01
-valid_until: 2023-07-31
-version_adopted: 2019-08-30
+version: 2023-08-01
+version_adopted: 2023-06-27
 adopted: 2007-12-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.353"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2802/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3329/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2802/pdf_file"
 
 (Schätzungsreglement)
 
-Vom 07.12.2007 (Stand 01.01.2020)
+Vom 07.12.2007 (Stand 01.08.2023)
 
 Der Verwaltungsrat der Aargauischen Gebäudeversicherungsanstalt,
 
@@ -33,19 +32,19 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Die Geschäftsleitung setzt für die Einschätzung und Schadenerledigung bei Gebäuden Schätzungsexpertinnen und -experten beziehungsweise Schadenexpertinnen und -experten ein.
+<sup>1</sup> Die Geschäftsleitung kann für die Einschätzung und Schadenerledigung bei Gebäuden Schätzungsexpertinnen und -experten beziehungsweise Schadenexpertinnen und -experten einsetzen.
 
 <sup>2</sup> Sie sorgt dabei für eine zweckmässige Arbeitsaufteilung.
 
 <sup>2<sup>bis</sup></sup> Die Schätzungsexpertinnen und -experten beziehungsweise die Schadenexpertinnen und -experten werden nach Bedarf örtlich auf Regionen zugeteilt.
 
-<sup>3</sup> Die Geschäftsleitung kann vorübergehend Hilfskräfte für Schätzungsarbeiten einstellen, sofern der Arbeitsanfall dies erfordert.
+<sup>3</sup> Die Geschäftsleitung kann vorübergehend Hilfskräfte für Schätzungsarbeiten und Schadenserledigungen einstellen, sofern der Arbeitsanfall dies erfordert.
 
 #### § 2
 
 <sup>1</sup> Die Schätzungsexpertinnen und -experten beziehungsweise Schadenexpertinnen und -experten führen Einschätzungen, Schadenerledigungen und Schätzungsrevisionen durch und nehmen Aufgaben im Zusammenhang mit der Elementarschadenprävention wahr.
 
-<sup>2</sup> Zur Ermittlung von speziellen Versicherungswerten können die Schätzungsexpertinnen und -experten beziehungsweise Schadenexpertinnen und -experten in Absprache mit der Chefschätzerin beziehungsweise dem Chefschätzer externe Beratende beiziehen.
+<sup>2</sup> …
 
 #### § 3
 
@@ -59,7 +58,7 @@ beschliesst:
 
 #### § 4
 
-<sup>1</sup> Die Schätzung erfolgt auf Grund einer eingehenden Besichtigung des Gebäudes nach den in diesem Reglement enthaltenen Bewertungsnormen.
+<sup>1</sup> Die Gebäudeversicherung kann für die Gebäudeschätzung auf die Begehung des Gebäudes verzichten.
 
 ## 2. Einschätzung der Gebäude
 
@@ -82,7 +81,7 @@ beschliesst:
 
 #### § 7
 
-<sup>1</sup> Sollen Bestandteile der Liegenschaft, auf der das Gebäude steht, gestützt auf § 33 Abs. 2 lit. a GebVG freiwillig mitversichert werden (Umgebungsversicherung), sind sie im Schätzungsprotokoll mit Wertangabe aufzuführen.
+<sup>1</sup> Sollen Bestandteile der Liegenschaft, auf der das Gebäude steht, gestützt auf § 33 Abs. 2 lit. a GebVG freiwillig mitversichert werden (Umgebungsversicherung), sind sie mit Wertangabe der Gebäudeversicherung mitzuteilen.
 
 <sup>2</sup> Zusätzliche Aufräumungskosten können, soweit sie in der Grunddeckung nicht enthalten sind, freiwillig versichert werden (Aufräumungskostenversicherung).
 
@@ -130,7 +129,7 @@ beschliesst:
 
 <sup>2</sup> Sachen, die bisher als Fahrhabe oder nicht versichert waren und nach der Richtlinie Vollzug Abgrenzung nun unter die Gebäudeversicherung fallen, sind bei der Nachschätzung des Gebäudes zu berücksichtigen.
 
-<sup>3</sup> Die Gebäudeeigentümerin beziehungsweise der Gebäudeeigentümer ist anlässlich der Schätzung auf die Änderungen aufmerksam zu machen.
+<sup>3</sup> …
 
 #### § 12
 
@@ -142,7 +141,7 @@ beschliesst:
 
 #### § 13
 
-<sup>1</sup> Die Abschätzung der Brand- und Elementarschäden erfolgt auf Grund einer eingehenden Besichtigung des beschädigten Gebäudes.
+<sup>1</sup> Die Gebäudeversicherung kann auf die Besichtigung des beschädigten Gebäudes verzichten.
 
 <sup>2</sup> Den Versicherten ist der Zeitpunkt der Abschätzung rechtzeitig bekannt zu geben. Sie sind berechtigt, hiezu auf eigene Kosten eine Sachverständige beziehungsweise einen Sachverständigen beizuziehen. Das Resultat der Schätzung wird in einem Abschätzungsformular festgehalten.
 
