@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2022-01-01
-valid_until: 2023-07-31
-version_adopted: 2021-10-25
+version: 2023-08-01
+valid_until: 2023-09-30
+version_adopted: 2022-09-05
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5155/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.01.2022)
+Vom 25.05.2004 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -239,27 +239,26 @@ beschliesst:
 - a) …
 - a<sup>bis</sup>) vom Departementssekretär oder von der Departementssekretärin:
   - 1\. Bewilligung des Besuchs von allgemein bildenden Schulen auf der Sekundarstufe II und von tertiären Bildungsgängen ausserhalb des Kantons.
-- b) vom Vorsteher oder von der Vorsteherin des Volksschulamtes:
-  - 1\. Befreiung von der Schulpflicht (§ 20 VSG);
-  - 1<sup>bis</sup> Bewilligung zur beschleunigten Absolvierung der Schulpflicht (§ 19 Abs. 4<sup>bis</sup> VSG);
-  - 2\. …
-  - 3\. …
-  - 4\. Bewilligung des Schulbesuchs in einer anderen Gemeinde (§ 20<sup>ter</sup> Abs. 2 VSG);
-  - 5\. Beurlaubungen von Lehrpersonen an der Volksschule (§ 63 VSG);
-  - 6\. …
-  - 7\. Einsetzung von Arbeitsgruppen im Aufgabenbereich des Volksschulamtes;
-  - 8\. Beschwerdeentscheide, die das Departement ihm oder ihr zur Erledigung zuweist;
-  - 9\. Genehmigungen von öffentlich-rechtlichen Verträgen über die Bildung von Schulkreisen und von öffentlich-rechtlichen Verträgen zur Führung einzelner Schularten, Schulstufen oder Fächern ohne Schulkreisbildung (§§ 41 Abs. 3 und 44 Abs. 2 VSG);
-  - 10\. Genehmigungen von Schulordnungen;
-  - 11\. …
-  - 12\. Einsatz von Stellvertretungen für Kursleiter oder Kursleiterinnen und Teilnehmer oder Teilnehmerinnen von Weiterbildungen;
-  - 13\. Entlastung und Beurlaubung von Kursleitern oder Kursleiterinnen;
-  - 14\. Ausnahmen von der Gestaltung der Blockzeiten (§ 10<sup>bis</sup> Abs. 3 VSG);
-  - 15\. Sonderschulmassnahmen (§ 37<sup>ter</sup> Abs. 2 VSG);
-  - 16\. pädagogisch-therapeutische Massnahmen (§ 37<sup>octies</sup> Abs. 2 VSG);
-  - 17\. Erteilung, Wiedererteilung, Aberkennung und Entzug der Unterrichtsberechtigung (§ 50<sup>bis</sup> Abs. 1 VSG).
+- b) …
 - c) …
 - d) …
+- e) Vom Vorsteher oder von der Vorsteherin des Volksschulamtes:
+  - 1\. Genehmigung der öffentlich-rechtlichen Verträge über die Bildung von Schulkreisen und der öffentlich-rechtlichen Verträge zur Führung einzelner Schulstufen und Fächer ohne Schulkreisbildung (§§ 13 Abs. 4 und 15 Abs. 2 Volksschulgesetz [VSG] vom 26. Januar 2022[^5-1]) sowie Genehmigung der kommunalen Schulordnungen (§ 74 Abs. 2 Bst. e VSG);
+  - 2\. Aufnahme in das kantonale Spezialangebot Verhalten (§ 31 Abs. 4 VSG);
+  - 3\. Einzelbeschulungen zu Hause nach einem Spitalaufenthalt (§ 33 Abs. 3 VSG);
+  - 4\. Anordnung von Sonderschulmassnahmen (§ 35 Abs. 2 VSG);
+  - 5\. Bewilligung zur beschleunigten Absolvierung der Schulpflicht (§ 45 Abs. 4 VSG);
+  - 6\. Befreiung von der Schulpflicht (§ 46 Abs. 1 VSG);
+  - 7\. Bewilligung des Schulbesuchs ausserhalb des Schulorts (§ 48 Abs. 2 VSG);
+  - 8\. Erteilung und Entzug der Berufsausübungsbewilligungen für pädagogische und pädagogisch-therapeutische Tätigkeiten (§§ 68 und 69 VSG);
+  - 9\. Erteilung und Entzug der Bewilligungen für Privatschulen und Privatunterricht (§§ 99, 100, 104 und 105 VSG);
+  - 10\. Ausstellung von Gleichwertigkeitsanerkennungen (§ 33 Volksschulverordnung [VSV] vom 5. September 2022[^5-2]);
+  - 11\. Beschwerdeentscheide, die das Departement dem Volksschulamt zur Erledigung zuweist;
+  - 12\. Beurlaubung von Lehrpersonen (§ 344 Gesamtarbeitsvertrag [GAV] vom 25. Oktober 2004[^5-3]).
+
+[^5-1]: BGS [413.111](https://bgs.so.ch/data/413.111/de).
+[^5-2]: BGS [413.121.1](https://bgs.so.ch/data/413.121.1/de).
+[^5-3]: BGS [126.3](https://bgs.so.ch/data/126.3/de).
 
 ### 2.2.4. Geschäftskreis des Finanzdepartementes
 
