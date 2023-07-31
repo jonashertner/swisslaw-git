@@ -4,13 +4,12 @@ number: "416.111"
 title: Gesetz über die Berufsbildung
 short: GBB
 language: de
-version: 2012-01-01
-valid_until: 2023-07-31
-version_adopted: 2011-08-23
+version: 2023-08-01
+version_adopted: 2022-01-26
 adopted: 2008-09-03
 in_force: 2009-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.111"
-pdf: "https://bgs.so.ch/api/de/versions/3878/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5340/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/3878/pdf_file"
 
 (GBB)
 
-Vom 03.09.2008 (Stand 01.01.2012)
+Vom 03.09.2008 (Stand 01.08.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -207,7 +206,7 @@ beschliesst:
 
 **Schuljahr**
 
-<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen.
+<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen bei 52 Kalenderwochen und 39 Unterrichtswochen bei 53 Kalenderwochen.
 
 <sup>2</sup> Das Departement legt den Beginn des Schuljahres fest.
 
@@ -421,7 +420,8 @@ beschliesst:
 - b) ist im Rahmen der bundesrechtlichen Vorgaben verantwortlich für die Weiterentwicklung der Berufsbildung;
 - c) trifft geeignete Massnahmen für die Qualitätssicherung und -entwicklung;
 - d) berät den Regierungsrat in allen Fragen der beruflichen Bildung.
-- e) führt zur Steuerung und Entwicklung des Bildungswesens eine Bildungsstatistik; es bestimmt die zu erhebenden Daten in den Bereichen Lernende, Bildungsabschlüsse, Schulpersonal und Bildungsausgaben sowie die zuständige Stelle für die Datenbearbeitung; der Datenschutz richtet sich nach der Informations- und Datenschutzgesetzgebung.
+- e) führt zur Steuerung und Entwicklung des Bildungswesens eine Bildungsstatistik; es bestimmt die zu erhebenden Daten in den Bereichen Lernende, Bildungsabschlüsse, Schulpersonal und Bildungsausgaben sowie die zuständige Stelle für die Datenbearbeitung; der Datenschutz richtet sich nach der Informations- und Datenschutzgesetzgebung;
+- f) erteilt die Bewilligung zum Betrieb privater Schulen.
 
 #### § 45
 
