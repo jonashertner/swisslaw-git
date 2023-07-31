@@ -3,11 +3,11 @@ canton: ZH
 number: "182.41"
 title: Anstellungsordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2023-04-01"
-nachtrag: "120"
-valid_until: 2023-08-01
+version: "2023-08-01"
+nachtrag: "121"
+valid_until: 2023-11-24
 adopted: 2007-03-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_41-2007_03_22-2008_01_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_41-2007_03_22-2008_01_01-121.html"
 text: pdf
 ---
 
@@ -43,7 +43,7 @@ Die staatskirchenrechtlichen und innerkirchlichen Organe entscheiden und handeln
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 23 - 121
 
 - 1\. Allgemeine Bestimmungen
 
@@ -61,11 +61,13 @@ Die staatskirchenrechtlichen und innerkirchlichen Organe entscheiden und handeln
 
 Enthalten diese Verordnung und die zugehörigen Vollzugsverordnungen keine auf den Einzelfall anwendbare Regelung, gelten sinngemäss die Bestimmungen des Obligationenrechts<sup>4</sup>.
 
-#### § 3
-
 **Berufsbezogene Bestimmungen**
 
-Der Synodalrat kann für einzelne Personalgruppen insbesondere hinsichtlich Anstellung oder Wahl, Aufsicht, Lohn, Arbeitszeit, Ferien sowie Beendigung des Arbeitsverhältnisses abweichende Bestimmungen erlassen.
+§ 3.<sup>14</sup> <sup>1</sup> Der Synodalrat kann für einzelne Personalgruppen berufsbezogene Bestimmungen erlassen.
+
+<sup>2</sup> In den berufsbezogenen Bestimmungen dürfen unter Berücksichtigung von Abs. 3 für folgende Personalgruppen abweichende Regelungen getroffen werden: Priester und Diakone, Pastoralassistentinnen und Pastoralassistenten, Religionspädagoginnen und Religionspädagogen (Jugendseelsorgerinnen und Jugendseelsorger), Katechetinnen und Katecheten, Kirchenmusikerinnen und Kirchenmusiker.
+
+<sup>3</sup> Die abweichenden Regelungen beschränken sich auf folgende Sachgebiete: Anstellung oder Wahl, Aufsicht, Lohn, Arbeitszeit.
 
 #### § 4
 
@@ -127,11 +129,15 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 <sup>3</sup> Für die Auflösung bestehender Arbeitsverhältnisse bei einer Verurteilung wegen eines Verbrechens oder Vergehens gelten §§ 14 ff. sinngemäss.
 
-**3**
-
-- 1\. 4. 23 - 120 § 9. Übt eine Angestellte bzw. ein Angestellter mehr als eine Funktion aus, so ist für jede Funktion eine separate Anstellungsverfügung zu erlassen.
+#### § 9
 
 **Mehrere Funktionen**
+
+Übt eine Angestellte bzw. ein Angestellter mehr als eine Funktion aus, so ist für jede Funktion eine separate Anstellungsverfügung zu erlassen.
+
+**3**
+
+- 1\. 7. 23 - 121
 
 ### 2.2 Dauer
 
@@ -235,7 +241,7 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 **5**
 
-- 1\. 4. 23 - 120 § 18. <sup>1</sup> Das Arbeitsverhältnis kann aus wichtigen Gründen beidseitig ohne Einhaltung von Fristen jederzeit aufgelöst werden. Die Auflösung erfolgt schriftlich und mit Begründung.
+- 1\. 7. 23 - 121 § 18. <sup>1</sup> Das Arbeitsverhältnis kann aus wichtigen Gründen beidseitig ohne Einhaltung von Fristen jederzeit aufgelöst werden. Die Auflösung erfolgt schriftlich und mit Begründung.
 
 **Fristlose Auflösung aus wichtigen Gründen**
 
@@ -331,7 +337,7 @@ Der Jahreslohn wird nachschüssig in 13 gleichen Teilen ausbezahlt, 12 davon mon
 
 **7**
 
-- 1\. 4. 23 - 120 § 27. Der Synodalrat umschreibt, soweit erforderlich, die Richtpositionen und die Voraussetzungen für die Zuordnung einer Stelle. Er reiht jede Stelle gemäss Einreihungsplan und Richtpositionen entsprechend ihren Anforderungen und Belastungen in nur eine Lohnklasse ein.
+- 1\. 7. 23 - 121 § 27. Der Synodalrat umschreibt, soweit erforderlich, die Richtpositionen und die Voraussetzungen für die Zuordnung einer Stelle. Er reiht jede Stelle gemäss Einreihungsplan und Richtpositionen entsprechend ihren Anforderungen und Belastungen in nur eine Lohnklasse ein.
 
 #### § 28
 
@@ -437,7 +443,7 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Anliegen der Menschen
 
 **9**
 
-- 1\. 4. 23 - 120 § 40. <sup>1</sup> Die Angestellten haben in allen Angelegenheiten sowohl der Pfarrei als auch der Kirchgemeinde oder der Institution, in deren Dienst sie stehen, die gebotene Verschwiegenheit zu beachten. Die im Interesse der Zusammenarbeit notwendigen gegenseitigen Informationen sind innerhalb des Arbeitsteams und allenfalls gegenüber Vorgesetzten und umgekehrt gestattet.
+- 1\. 7. 23 - 121 § 40. <sup>1</sup> Die Angestellten haben in allen Angelegenheiten sowohl der Pfarrei als auch der Kirchgemeinde oder der Institution, in deren Dienst sie stehen, die gebotene Verschwiegenheit zu beachten. Die im Interesse der Zusammenarbeit notwendigen gegenseitigen Informationen sind innerhalb des Arbeitsteams und allenfalls gegenüber Vorgesetzten und umgekehrt gestattet.
 
 **Verschwiegenheitspflicht**
 
@@ -527,7 +533,7 @@ ab dem Kalenderjahr, in dem sie das 60. Altersjahr vollenden:
 
 **11**
 
-- 1\. 4. 23 - 120 § 48. Der Synodalrat regelt die Gewährung von bezahltem und unbezahltem Urlaub.
+- 1\. 7. 23 - 121 § 48. Der Synodalrat regelt die Gewährung von bezahltem und unbezahltem Urlaub.
 
 #### § 49
 
@@ -597,7 +603,7 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 **13**
 
-- 1\. 4. 23 - 120 § 55.<sup>8</sup> Die Arbeitgeberin oder der Arbeitgeber kann eine für alle Angestellten obligatorische Taggeldversicherung abschliessen. Diese löst nach Ablauf der im Versicherungsvertrag vereinbarten Karenzfrist die Lohnfortzahlung nach §§ 53 und 54 ab. Der Anspruch auf Versicherungsleistungen richtet sich nach den jeweils anwendbaren Versicherungsbedingungen. Die Prämien werden von der Arbeitgeberin oder dem Arbeitgeber und von den Angestellten zu gleichen Teilen getragen.
+- 1\. 7. 23 - 121 § 55.<sup>8</sup> Die Arbeitgeberin oder der Arbeitgeber kann eine für alle Angestellten obligatorische Taggeldversicherung abschliessen. Diese löst nach Ablauf der im Versicherungsvertrag vereinbarten Karenzfrist die Lohnfortzahlung nach §§ 53 und 54 ab. Der Anspruch auf Versicherungsleistungen richtet sich nach den jeweils anwendbaren Versicherungsbedingungen. Die Prämien werden von der Arbeitgeberin oder dem Arbeitgeber und von den Angestellten zu gleichen Teilen getragen.
 
 #### § 56
 
@@ -690,7 +696,7 @@ Für diejenigen Kirchgemeinden, welche die Anstellungsordnung bisher noch nicht 
 
 **15**
 
-- 1\. 4. 23 - 120 § 68. <sup>1</sup> Die in § 27 dieser Anstellungsordnung dem Synodalrat zuerkannte Kompetenz zum Erlass des Einreihungsplanes kann zur Neueinreihung von bestimmten Funktionen führen. Die erstmalige Überführung dieser Funktionen in die neuen Lohnklassen erfolgt mit dem Inkrafttreten des Einreihungsplanes. Die jeweiligen Erfahrungs- oder Leistungsstufen werden unter Vorbehalt von Abs. 2 unverändert übernommen.
+- 1\. 7. 23 - 121 § 68. <sup>1</sup> Die in § 27 dieser Anstellungsordnung dem Synodalrat zuerkannte Kompetenz zum Erlass des Einreihungsplanes kann zur Neueinreihung von bestimmten Funktionen führen. Die erstmalige Überführung dieser Funktionen in die neuen Lohnklassen erfolgt mit dem Inkrafttreten des Einreihungsplanes. Die jeweiligen Erfahrungs- oder Leistungsstufen werden unter Vorbehalt von Abs. 2 unverändert übernommen.
 
 **Erstmalige Überführung in neue Lohnklassen**
 
@@ -718,7 +724,7 @@ Besoldungsklasse Minimum (AS 1) 1. Maximum (ES 16) 2. Maximum (LS 12)
 
 **17**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 23 - 121
 
 ## Weitere Fussnoten
 
@@ -734,3 +740,4 @@ Besoldungsklasse Minimum (AS 1) 1. Maximum (ES 16) 2. Maximum (LS 12)
 - [20] . In Kraft seit 1. März 2021.
 - [12] Eingefügt durch B vom 1. Dezember 2022 (OS 78, 126; ABl 2022-12-16). In Kraft seit 1. April 2023.
 - [13] Fassung gemäss B vom 1. Dezember 2022 (OS 78, 126; ABl 2022-12-16). In Kraft seit 1. April 2023.
+- [14] Fassung gemäss B vom 1. Dezember 2022 (OS 78, 128 ABl 2022-12-16). In Kraft seit 1. August 2023.
