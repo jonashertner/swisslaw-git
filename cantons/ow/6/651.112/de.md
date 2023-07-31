@@ -3,20 +3,19 @@ canton: OW
 number: "651.112"
 title: "Ausführungsbestimmungen über die Jagdbann-, Wildschutz- und Sondergebiete"
 language: de
-version: 2017-07-01
-valid_until: 2023-07-31
-version_adopted: 2017-05-30
+version: 2023-08-01
+version_adopted: 2023-05-23
 adopted: 1991-05-21
 in_force: 1991-06-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/651.112"
-pdf: "http://gdb.ow.ch/api/de/versions/1234/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1806/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Jagdbann-, Wildschutz- und Sondergebiete
 
-vom 21.05.1991 (Stand 01.07.2017)
+vom 21.05.1991 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -59,6 +58,8 @@ beschliesst:
 **Anwendbare Vorschriften**
 
 <sup>1</sup> Die Vorschriften der Verordnung über die eidgenössischen Jagdbanngebiete[^3-1], über das Jagdverbot, das Tragen von Schusswaffen, die Wildhut und die Hegeabschüsse sind auf die kantonalen Wildschutzgebiete sachgemäss anwendbar.
+
+<sup>2</sup> Der Regierungsrat kann in begründeten Ausnahmefällen zeitlich befristete Massnahmen zur Regulierung bestimmter Arten anordnen.
 
 [^3-1]: SR [922.31](https://db.clex.ch/link/Bund/922.31/de)
 
@@ -109,6 +110,8 @@ geändert durch
 
 \- Nachtrag vom 2. Juni 2015, in Kraft seit 1. Juli 2015 (OGS 2015, 33),
 
-\- Nachtrag vom 30. Mai 2017, in Kraft seit 1. Juli 2017 (OGS 2017, 34)
+\- Nachtrag vom 30. Mai 2017, in Kraft seit 1. Juli 2017 (OGS 2017, 34),
+
+\- Nachtrag vom 23. Mai 2023, in Kraft seit 1. August 2023 (OGS 2023, 14)
 
 OGS 1991, 62 / ABl 1991, 582
