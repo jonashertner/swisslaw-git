@@ -4,13 +4,13 @@ number: "152.100"
 title: Gesetz über die Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2023-01-01
-valid_until: 2023-07-31
-version_adopted: 2021-10-20
+version: 2023-08-01
+valid_until: 2024-12-15
+version_adopted: 2023-02-08
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5823/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6475/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates | Grosser Rat / Ombudsman
 
 (GO)
 
-Vom 29. Juni 2006 (Stand 1. Januar 2023)
+Vom 29. Juni 2006 (Stand 1. August 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -45,7 +45,7 @@ erlässt folgendes Gesetz:
 
 <sup>1</sup> Der Grosse Rat wird von seiner Präsidentin oder seinem Präsidenten einberufen.
 
-<sup>2</sup> Er tagt, sooft es die Geschäfte erfordern.
+<sup>2</sup> Er tagt, sooft es die Geschäfte erfordern. Er versammelt sich in der Regel monatlich zu einer Session. Eine Session besteht aus mehreren Sitzungen.
 
 <sup>3</sup> Ausserordentlich wird er einberufen,
 
@@ -186,7 +186,7 @@ erlässt folgendes Gesetz:
 
 **Amtsperiode und Amtsjahr**
 
-<sup>1</sup> Die Amtsperiode beträgt vier Jahre. Sie beginnt jeweils in der ersten Hälfte des Februars nach der Wahl.
+<sup>1</sup> Die Amtsperiode beträgt vier Jahre. Sie beginnt jeweils am 1. Februar nach den Neuwahlen. Die konstituierende Sitzung findet in der Regel am ersten Mittwoch im Februar nach den Neuwahlen statt.
 
 <sup>2</sup> Das Amtsjahr des Grossen Rates beginnt am 1. Februar und endet am 31. Januar.
 
@@ -194,7 +194,7 @@ erlässt folgendes Gesetz:
 
 **Wahl des Präsidiums**
 
-<sup>1</sup> Der Grosse Rat wählt in der letzten ordentlichen Sitzung eines Amtsjahres seine Präsidentin oder seinen Präsidenten und seine Statthalterin oder seinen Statthalter für die Dauer des folgenden Amtsjahres.
+<sup>1</sup> Der Grosse Rat wählt in der letzten Session eines Amtsjahres seine Präsidentin oder seinen Präsidenten und seine Statthalterin oder seinen Statthalter für die Dauer des folgenden Amtsjahres.
 
 <sup>2</sup> Nach Neuwahlen erfolgt die Wahl in der ersten Sitzung der neuen Amtsperiode. Das älteste und das jüngste anwesende Mitglied des Grossen Rates eröffnen gemeinsam die konstituierende Sitzung. Sie halten ihre Ansprache in alphabetischer Reihenfolge. Das Mitglied, das als zweites gesprochen hat, führt die Wahl der Präsidentin oder des Präsidenten durch. Die Präsidentin oder der Präsident übernimmt anschliessend den Vorsitz.
 
@@ -227,7 +227,8 @@ erlässt folgendes Gesetz:
 - g) es schlägt dem Grossen Rat die Leiterin oder den Leiter des Parlamentsdienstes vor und wählt dessen übrige Mitarbeiterinnen und Mitarbeiter,
 - h) es koordiniert die Öffentlichkeitsarbeit des Grossen Rates und seiner Organe,
 - i) es entscheidet über die Einreihung der Stellen sowie ad personam-Einreihungen der dem Grossen Rat unterstellten oder zugeordneten Dienste,
-- j) es entscheidet über die Teilnahme der Gerichte an den Grossratssitzungen gemäss § 27a.
+- j) es entscheidet über die Teilnahme der Gerichte an den Grossratssitzungen gemäss § 27a,
+- k) es vertritt den Grossen Rat in allen ihn betreffenden rechtlichen Verfahren.
 
 #### § 19
 
@@ -249,6 +250,8 @@ erlässt folgendes Gesetz:
 
 <sup>1</sup> Die Präsidentin oder der Präsident, in seiner Vertretung die Statthalterin oder der Statthalter, leitet die Verhandlungen des Rats und des Ratsbüros. Sie oder er sorgt dafür, dass die Geschäftsordnung eingehalten und der parlamentarische Anstand gewahrt wird.
 
+<sup>1<sup>bis</sup></sup> Die Präsidentin oder der Präsident orientiert sich bei der Wahrung des parlamentarischen Anstands an den in der Kantonsverfassung verankerten Grundrechten und Grundrechtszielen.
+
 <sup>2</sup> Die Grossratspräsidentin oder der Grossratspräsident vertritt den Rat als oberste Behörde des Kantons und der Stadt Basel gegenüber den anderen Behörden, der Bevölkerung und einer weiteren Öffentlichkeit.
 
 <sup>3</sup> Die Grossratspräsidentin oder der Grossratspräsident vertritt das Ratsbüro gegenüber den einzelnen Mitgliedern des Rats und dem Parlamentsdienst.
@@ -259,11 +262,15 @@ erlässt folgendes Gesetz:
 
 <sup>1</sup> Wer sich in beleidigender Weise äussert oder die Verhandlungen stört, ist vom Präsidium zur Ordnung zu rufen. Dieses entzieht Votierenden, die in der gleichen Sitzung zum zweiten Mal zur Ordnung gerufen werden, gleichzeitig das Wort.
 
-<sup>2</sup> Das Präsidium fordert Mitglieder, die fortgesetzt die Ordnung stören, auf, den Saal zu verlassen. Eine Rückkehr ist frühestens auf den folgenden Sitzungshalbtag möglich. Kommt ein Mitglied der Aufforderung zum Verlassen des Saales nicht nach, beschliesst das Plenum über den Ausschluss für die Dauer der Sitzung. Weigern sich Ausgeschlossene, den Saal zu verlassen, lässt sie das Präsidium abführen.
+<sup>2</sup> Das Präsidium fordert Mitglieder, die fortgesetzt die Ordnung stören, auf, die Parlamentszone zu verlassen. Eine Rückkehr ist frühestens auf die folgende Sitzung möglich und der Ausschluss darf längstens für die Dauer der Session ausgesprochen werden. Kommt ein Mitglied der Aufforderung zum Verlassen der Parlamentszone nicht nach, beschliesst das Plenum über den Ausschluss für die Dauer der Session. Weigern sich Ausgeschlossene, die Parlamentszone zu verlassen, lässt sie das Präsidium abführen.
 
 <sup>3</sup> Im Falle der Ruhestörung ist das Präsidium befugt, die Sitzung zu unterbrechen oder zu vertagen.
 
 <sup>4</sup> Das Präsidium kann Ruhestörende von der Tribüne weisen oder die ganze Tribüne räumen lassen.
+
+<sup>5</sup> Verstösst ein Mitglied an den Sitzungstagen ausserhalb des Ratssaals, aber innerhalb der Parlamentszone gegen den parlamentarischen Anstand, entscheidet das Ratsbüro auf Antrag des Präsidiums über die Sanktion analog Abs. 1 und 2. Dem betroffenen Mitglied ist das rechtliche Gehör zu gewähren.
+
+<sup>6</sup> Das Präsidium weist Vorstösse, die den parlamentarischen Anstand verletzen, zur Verbesserung innert kurzer Frist zurück. Wird der Vorstoss innert Frist nicht verbessert neu eingereicht, entscheidet das Ratsbüro über das weitere Vorgehen.
 
 ## 2. Behandlung der Geschäfte
 
@@ -292,7 +299,7 @@ erlässt folgendes Gesetz:
 
 **Tagesordnung**
 
-<sup>1</sup> Zu Beginn der Sitzung wird die von der Präsidentin oder vom Präsidenten im Einvernehmen mit dem Regierungsrat aufgestellte Tagesordnung bereinigt. Hat der Grosse Rat die Tagesordnung genehmigt, kann nur mit einem Mehr von zwei Dritteln der Stimmen davon abgewichen werden.
+<sup>1</sup> Zu Beginn der Session wird die von der Präsidentin oder vom Präsidenten im Einvernehmen mit dem Regierungsrat aufgestellte Tagesordnung bereinigt. Hat der Grosse Rat die Tagesordnung genehmigt, kann nur mit einem Mehr von zwei Dritteln der Stimmen davon abgewichen werden.
 
 #### § 25
 
@@ -338,7 +345,7 @@ erlässt folgendes Gesetz:
 
 **Mehr**
 
-<sup>1</sup> Sofern Verfassung und Gesetz nichts anderes festlegen, entscheidet das einfache Mehr der Stimmen
+<sup>1</sup> Sofern Verfassung und Gesetz nichts anderes festlegen, entscheidet das einfache Mehr der Stimmen.
 
 <sup>1<sup>bis</sup></sup> Benötigt ein Beschluss zwei Drittel der Stimmen, bleiben die Enthaltungen unberücksichtigt.
 
@@ -404,7 +411,7 @@ erlässt folgendes Gesetz:
 
 **Jahresbericht**
 
-<sup>1</sup> Der Jahresbericht für das verflossene Jahr muss bis spätestens am 15. April im Besitz des Präsidiums der Finanzkommission und der Sachkommissionen und im Besitz des Präsidiums der Geschäftsprüfungskommission sein. Die Sachkommissionen erstatten ihre Berichte an die Finanzkommission bis spätestens Ende Mai. Die Finanzkommission hat bis spätestens Mitte Juni ihren schriftlichen Bericht zu erstatten.
+<sup>1</sup> Der Jahresbericht für das vergangene Jahr muss bis spätestens am 15. April im Besitz des Präsidiums der Finanzkommission und der Sachkommissionen und im Besitz des Präsidiums der Geschäftsprüfungskommission sein. Die Sachkommissionen erstatten ihre Berichte an die Finanzkommission bis spätestens Ende Mai. Die Finanzkommission hat bis spätestens Mitte Juni ihren schriftlichen Bericht zu erstatten.
 
 <sup>2</sup> Die Geschäftsprüfungskommission hat bis spätestens Mitte September ihren schriftlichen Bericht zu erstatten.
 
@@ -470,7 +477,7 @@ erlässt folgendes Gesetz:
 
 <sup>4</sup> Der Grosse Rat kann jederzeit bei der Beratung eines Zwischenberichtes des Regierungsrates entscheiden, ob die Motion stehen zu lassen oder ob sie abzuschreiben sei.
 
-<sup>4<sup>bis</sup></sup> Beschliesst der Grosse Rat, die Motion stehen zu lassen, so entscheidet er, wer sie zu behandeln hat und gegebenenfalls in welcher Frist. Er kann die Motion zur weiteren Bearbeitung dem Regierungsrat oder, wenn keine Motion gemäss § 42 Abs. 1<sup>bis</sup> vorliegt, an das Ratsbüro oder eine Grossratskommission überweisen.
+<sup>4<sup>bis</sup></sup> Beschliesst der Grosse Rat, die Motion stehen zu lassen, so entscheidet er, wer sie zu behandeln hat und gegebenenfalls in welcher Frist. Die Frist beträgt höchstens zwei Jahre. Er kann die Motion zur weiteren Bearbeitung dem Regierungsrat oder, wenn keine Motion gemäss § 42 Abs. 1<sup>bis</sup> vorliegt, an das Ratsbüro oder eine Grossratskommission überweisen.
 
 <sup>5</sup> Die Motion ist erfüllt, wenn der Regierungsrat dem Grossen Rat die darin verlangte Vorlage unterbreitet oder die Massnahme ergriffen hat. Mit dem Entscheid über Eintreten auf die Vorlage ist die Motion abgeschrieben. Bei bereits ergriffenen Massnahmen entscheidet der Grosse Rat über die Abschreibung der Motion anhand des Berichts des Regierungsrates.
 
@@ -496,11 +503,11 @@ erlässt folgendes Gesetz:
 
 **Inhalt und Eintretensbeschluss**
 
-<sup>1</sup> In der Form des Planungsanzugs kann der Grosse Rat, auf Antrag eines seiner Mitglieder oder einer ständigen Kommission, dem Regierungsrat im Bericht zum Budget eine Änderung der Schwerpunkte sowie eine Änderung der politischen Ziele pro Aufgaben- und Ressourcenfeld beantragen.
+<sup>1</sup> In der Form des Planungsanzugs kann der Grosse Rat, auf Antrag eines seiner Mitglieder oder einer ständigen Kommission, dem Regierungsrat im Bericht zum Budget eine Änderung der Schwerpunkte sowie der politischen Ziele und Massnahmen beantragen.
 
-<sup>2</sup> Der Grosse Rat entscheidet in der Budgetsitzung, ob der Planungsanzug an den Regierungsrat zur Stellungnahme bis zur Sitzung vor den nächsten Sommerferien überwiesen werden soll.
+<sup>2</sup> Der Grosse Rat entscheidet in der Budgetsitzung, ob der Planungsanzug an den Regierungsrat zur Stellungnahme bis zur Session vor den nächsten Sommerferien überwiesen werden soll.
 
-<sup>3</sup> Vor dem Überweisungsentscheid findet nur dann eine Diskussion statt, wenn ein Antrag auf Nichteintreten vorliegt.
+<sup>3</sup> …
 
 #### § 47
 
@@ -524,7 +531,7 @@ erlässt folgendes Gesetz:
 
 <sup>1</sup> Mit einem Budgetpostulat kann jedes Mitglied des Grossen Rates oder eine ständige Kommission dem Regierungsrat Antrag auf eine Verminderung der Einnahmen oder eine Erhöhung der Ausgaben im Budget stellen. Das Budgetpostulat ist dem Präsidium bis zum Schluss der Budgetsitzung schriftlich einzureichen.
 
-<sup>2</sup> Der Grosse Rat entscheidet an der nächstfolgenden ordentlichen Sitzung, ob ein Budgetpostulat dem Regierungsrat überwiesen wird.
+<sup>2</sup> Der Grosse Rat entscheidet an der nächstfolgenden Session, ob ein Budgetpostulat dem Regierungsrat überwiesen wird.
 
 <sup>3</sup> Der Regierungsrat hat zu einem überwiesenen Budgetpostulat so rechtzeitig zu berichten, dass es spätestens im April im Rat behandelt werden kann.
 
@@ -536,7 +543,7 @@ erlässt folgendes Gesetz:
 
 <sup>1</sup> Mit einem Vorgezogenen Budgetpostulat kann jedes Mitglied des Grossen Rates oder eine ständige Kommission dem Regierungsrat beantragen, in einem zukünftigen Budget Veränderungen vorzunehmen.
 
-<sup>2</sup> Vorgezogene Budgetpostulate, die das nächste Budget betreffen, sind so einzureichen, dass ihre Überweisung an der Februar-Sitzung des Grossen Rates behandelt werden kann.
+<sup>2</sup> Vorgezogene Budgetpostulate, die das nächste Budget betreffen, sind so einzureichen, dass ihre Überweisung an der Februar-Session des Grossen Rates behandelt werden kann.
 
 <sup>3</sup> Bei Einreichung des Vorgezogenen Budgetpostulats findet nur dann eine Diskussion statt, wenn ein Antrag auf Nichteintreten vorliegt.
 
@@ -568,9 +575,9 @@ erlässt folgendes Gesetz:
 
 <sup>1</sup> Jedes Mitglied des Grossen Rates oder die ständigen Kommissionen haben das Recht, den Antrag auf Ergreifung des Standesreferendums gemäss Art. 141 Abs. 1 der Bundesverfassung zu stellen.
 
-<sup>2</sup> Der Antrag ist mit einer kurzen Begründung und einer Kopie des Erlasses, gegen den sich das Referendum richten soll, beim Parlamentsdienst einzureichen. Er ist von diesem unverzüglich an die Mitglieder des Grossen Rates und des Regierungsrates zu versenden und auf die Tagesordnung der nächsten Sitzung des Grossen Rates zu setzen.
+<sup>2</sup> Der Antrag ist mit einer kurzen Begründung und einer Kopie des Erlasses, gegen den sich das Referendum richten soll, beim Parlamentsdienst einzureichen. Er ist von diesem unverzüglich an die Mitglieder des Grossen Rates und des Regierungsrates zu versenden und auf die Tagesordnung der nächsten Session des Grossen Rates zu setzen.
 
-<sup>3</sup> Über die Ergreifung des Referendums kann an dieser Sitzung Beschluss gefasst werden.
+<sup>3</sup> Über die Ergreifung des Referendums kann an dieser Session Beschluss gefasst werden.
 
 ### (3.)VII. Resolution und Parlamentarische Erklärung
 
@@ -594,9 +601,9 @@ erlässt folgendes Gesetz:
 
 <sup>1</sup> In der Form einer Interpellation hat jedes Mitglied des Grossen Rates das Recht, vom Regierungsrat Auskunft zu verlangen. Gegenstand einer Interpellation können die Verwaltung oder Angelegenheiten sein, die die Interessen des Kantons berühren.
 
-<sup>2</sup> Ein Ratsmitglied kann an einer Sitzung nicht mehr als eine Interpellation einreichen.
+<sup>2</sup> Ein Ratsmitglied darf an einer Session höchstens eine Interpellation einreichen.
 
-<sup>3</sup> Der Regierungsrat beantwortet die Interpellation mündlich oder schriftlich. Sofern der Grosse Rat nicht anders beschliesst, erfolgt die mündliche Beantwortung in der Sitzung, für welche die Interpellation eingereicht wurde, oder in der Fortsetzungssitzung. Die schriftliche Beantwortung ist den Ratsmitgliedern vor der nächsten Sitzung zuzustellen.
+<sup>3</sup> Der Regierungsrat beantwortet die Interpellation mündlich oder schriftlich. Sofern der Grosse Rat nicht anders beschliesst, erfolgt die mündliche Beantwortung in der Session, für welche die Interpellation eingereicht wurde. Die schriftliche Beantwortung ist den Ratsmitgliedern vor der nächsten Session zuzustellen.
 
 #### § 57
 
@@ -642,6 +649,8 @@ erlässt folgendes Gesetz:
 
 <sup>2</sup> Besteht für Verwaltungsangelegenheiten, über die eine Kommission von der zuständigen Amtsstelle Auskunft erhält, eine besondere gesetzliche Pflicht zur Verschwiegenheit, so sind auch die Mitglieder der Kommission dieser Pflicht ohne besonderen Beschluss unterworfen.
 
+<sup>3</sup> Die Kommissionspräsidien der Oberaufsichtskommissionen und parlamentarischer Untersuchungskommissionen dürfen sich ohne Rücksprache mit der jeweiligen Kommission über die Geschäfte in den Oberaufsichtskommissionen und parlamentarischen Untersuchungskommissionen austauschen. Dieser Informationsaustausch unterliegt der Vertraulichkeitsstufe des jeweiligen Geschäfts. Die Kommissionspräsidien sind verpflichtet, der Kommission über die Absprache Bericht zu erstatten, dies ist zu protokollieren.
+
 #### § 62
 
 **Verletzung der Vertraulichkeit oder der Geheimhaltung**
@@ -652,7 +661,7 @@ erlässt folgendes Gesetz:
 
 **Amtsdauer**
 
-<sup>1</sup> Die ständigen Kommissionen und ihre Präsidien werden an der ersten Grossratssitzung jeder Amtsperiode für deren Dauer vom Grossen Rat gewählt.
+<sup>1</sup> Die ständigen Kommissionen und ihre Präsidien werden an der ersten Session jeder Amtsperiode für deren Dauer vom Grossen Rat gewählt.
 
 <sup>2</sup> Die Amtsdauer der Mitglieder der ständigen und der besonderen Kommissionen endet mit ihrem Ausscheiden aus der Fraktion oder mit der Amtsperiode des Grossen Rates.
 
@@ -673,11 +682,13 @@ erlässt folgendes Gesetz:
 
 **Stellvertretung**
 
-<sup>1</sup> Falls ein Mitglied einer ständigen oder einer besonderen Kommission aus persönlichen oder beruflichen Gründen länger als zwei Monate verhindert ist, an der Ratstätigkeit teilzunehmen, kann die Fraktion eine Stellvertretung bezeichnen.
+<sup>1</sup> Falls ein Mitglied einer ständigen oder einer besonderen Kommission sowie des Ratsbüros aus persönlichen oder beruflichen Gründen länger als zwei Monate verhindert ist, an der Kommissions- oder Ratsbüroarbeit teilzunehmen, kann die Fraktion eine Stellvertretung bezeichnen.
 
 <sup>1<sup>bis</sup></sup> Bei staatsvertraglichen Gremien bezeichnet das Ratsbüro die Stellvertretung auf Antrag der betreffenden Kommission.
 
 <sup>2</sup> Dauert die Stellvertretung länger als sechs Monate, so muss der Grosse Rat die Stellvertretung genehmigen.
+
+<sup>3</sup> Eine Stellvertretung in den Kommissionen schliesst die Teilnahme des vertretenen Ratsmitglieds an den Sitzungen im Plenum und weiteren Kommissionen nicht aus.
 
 ### (4.)II. Ständige Kommissionen
 
@@ -862,6 +873,8 @@ erlässt folgendes Gesetz:
 <sup>1</sup> Zur Vorberatung einzelner Geschäfte kann der Grosse Rat nach dem Eintretensbeschluss eine Spezialkommission einsetzen. Der Rat kann auch auf eine Eintretensdebatte verzichten. Wird ein Geschäft bereits bei der Entgegennahme der neuen Geschäfte an eine Kommission gewiesen, so ist damit Eintreten beschlossen.
 
 <sup>2</sup> Spezialkommissionen bestehen aus dreizehn Mitgliedern. Der Grosse Rat kann mit einer Mehrheit von zwei Dritteln der Stimmen eine andere Zahl von Mitgliedern festlegen.
+
+<sup>2<sup>bis</sup></sup> Spezialkommissionen bleiben auch über einen Legislaturwechsel hinaus bestehen.
 
 <sup>3</sup> Nach Verabschiedung des Schlussberichts durch den Grossen Rat erlischt das Mandat der Spezialkommission.
 
