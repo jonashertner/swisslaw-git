@@ -5,12 +5,12 @@ title: Standeskommissionsbeschluss zum Schulgesetz
 short: StKB SchG
 language: de
 version: 2023-08-01
-valid_until: 2024-07-31
+corrected: 2023-07-27
 version_adopted: 2023-06-20
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/2228/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2227/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
