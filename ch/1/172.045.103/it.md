@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 novembre 2006 sugli emolumenti del DDPS (OEm-DDPS)"
 short: OEm-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/704"
 language: it
-version: 2012-10-01
+version: 2023-08-01
 adopted: 2006-11-08
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/704/20121001/it/xml/fedlex-data-admin-ch-eli-cc-2006-704-20121001-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/704/20121001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/704/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2006-704-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/704/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/704/20121001/it"
 
 (OEm-DDPS)
 
-dell’8 novembre 2006 (Stato 1° ottobre 2012)
+dell’8 novembre 2006 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -79,19 +79,13 @@ Gli esercenti d’impianti nucleari partecipano alla copertura dei costi d’ese
 
 <sup>2</sup> Se l’emolumento è calcolato in funzione degli oneri, sono applicabili le tariffe orarie di cui all’allegato. Esse comprendono i costi del materiale usualmente necessario.
 
-<sup>3</sup>
+<sup>3</sup> ...[^5-1]
 
-Per le prestazioni fornite con aeromobili sono fatturati i costi integrali. I costi sono composti dalle tariffe orarie per le prestazioni fornite con aeromobili delle Forze aeree secondo il numero 2 dell’allegato e dagli esborsi per:
-
-- a. la conclusione di assicurazioni speciali;
-- b. le prestazioni non connesse al volo vero e proprio che, su richiesta del committente, sono fornite a titolo eccezionale per il tramite delle Forze aeree;
-- c. maggiori o minori costi considerevoli dovuti al carburante.[^5-1]
-
-<sup>4</sup> …[^5-2]
+<sup>4</sup> ...[^5-2]
 
 <sup>5</sup> Oltre agli esborsi di cui all’articolo 6 capoverso 2 OgeEm[^5-3], è considerata un esborso anche l’imposta sul valore aggiunto.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5447](https://fedlex.data.admin.ch/eli/oc/2010/777)).
+[^5-1]: Abrogato dal n. II dell’O del 16 giu. 2023, con effetto dal 1° ago. 2023 ([RU 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
 [^5-2]: Abrogato dal n. I dell’O del 17 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5447](https://fedlex.data.admin.ch/eli/oc/2010/777)).
 [^5-3]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
@@ -142,7 +136,7 @@ Allegato[^t-1]
 
 ## Tariffe orarie e importi forfettari
 
-[^t-1]: Aggiornato dal n. II dell’O del 17 nov. 2010 ([RU 2010 5447](https://fedlex.data.admin.ch/eli/oc/2010/777)) e dall’art. 82 n. 1 dell’O del 23 mag. 2012 sulla promozione dello sport, in vigore dal 1° ott. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+[^t-1]: Aggiornato dal n. II dell’O del 17 nov. 2010 ([RU 2010 5447](https://fedlex.data.admin.ch/eli/oc/2010/777)), dall’art. 82 n. 1 dell’O del 23 mag. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)) e dal n. II dell’O del 16 giu. 2023, con effetto dal 1° ago. 2023 ([RU 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
 
 ### 1 Tariffe orarie per il personale federale
 
@@ -151,18 +145,4 @@ Allegato[^t-1]
 <tr><td>A dipendenza delle conoscenze specialistiche richieste e del livello di funzione</td><td>90.– a 150.–</td></tr>
 </table>
 
-### 2 Tariffe orarie per le prestazioni fornite con aeromobili delle Forze aeree
-
-<table>
-<tr><td>Tipo di aeromobile</td><td>Tariffa oraria in franchi</td></tr>
-<tr><td>2.1 Falcon 50</td><td>8 600.–</td></tr>
-<tr><td>2.2 Excel Citation</td><td>6 200.–</td></tr>
-<tr><td>2.3 Beech 1900D</td><td>4 650.–</td></tr>
-<tr><td>2.4 Super King Air</td><td>4 500.–</td></tr>
-<tr><td>2.5 Porter PC-6</td><td>2 300.–</td></tr>
-<tr><td>2.6 PC-12</td><td>5 000.–</td></tr>
-<tr><td>2.7 Twin Otter</td><td>3 200.–</td></tr>
-<tr><td>2.8 Super Puma/Cougar</td><td>10 900.–</td></tr>
-<tr><td>2.9 EC 635</td><td>5 300.–</td></tr>
-<tr><td>2.10 Ricognitore telecomandato ADS 95 (senza aeromobile di scorta)</td><td>7 300.–</td></tr>
-</table>
+### 2 ...

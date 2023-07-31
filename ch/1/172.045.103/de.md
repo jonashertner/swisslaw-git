@@ -4,11 +4,11 @@ title: "Verordnung vom 8. November 2006 über die Gebühren des VBS (Gebührenve
 short: GebV-VBS
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/704"
 language: de
-version: 2012-10-01
+version: 2023-08-01
 adopted: 2006-11-08
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/704/20121001/de/xml/fedlex-data-admin-ch-eli-cc-2006-704-20121001-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/704/20121001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/704/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2006-704-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/704/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/704/20121001/de"
 
 (Gebührenverordnung VBS, GebV-VBS)
 
-vom 8. November 2006 (Stand am 1. Oktober 2012)
+vom 8. November 2006 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -79,19 +79,13 @@ Die Betreiber von Kernanlagen haben sich an den Kosten für den Betrieb der NAZ 
 
 <sup>2</sup> Wird die Gebühr nach Aufwand berechnet, so gelten dafür die Stundenansätze gemäss Anhang. In den Stundenansätzen sind die Kosten des üblicherweise benötigten Materials enthalten.
 
-<sup>3</sup>
-
-Flugdienstleistungen werden zu den vollen Kosten in Rechnung gestellt. Die Kosten setzen sich zusammen aus den Stundenansätzen für Flugdienstleistungen der Luftwaffe gemäss Anhang Ziffer 2 und den Auslagen für:
-
-- a. speziell abzuschliessende Versicherungen;
-- b. nicht mit dem eigentlichen Flug zusammenhängende Leistungen, die durch die Luftwaffe auf Wunsch des Bestellers ausnahmsweise vermittelt werden;
-- c. erhebliche treibstoffbedingte Mehr- oder Minderkosten.[^5-1]
+<sup>3</sup> …[^5-1]
 
 <sup>4</sup> …[^5-2]
 
 <sup>5</sup> Als Auslage gilt zusätzlich zu den Auslagen nach Artikel 6 Absatz 2 AllgGebV[^5-3] die Mehrwertsteuer.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5447](https://fedlex.data.admin.ch/eli/oc/2010/777)).
+[^5-1]: Aufgehoben durch Ziff. II der V vom 16. Juni 2023, mit Wirkung seit 1. Aug. 2023 ([AS 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
 [^5-2]: Aufgehoben durch Ziff. I der V vom 17. Nov. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5447](https://fedlex.data.admin.ch/eli/oc/2010/777)).
 [^5-3]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
@@ -120,7 +114,7 @@ Ein Zuschlag von höchstens 50 Prozent wird erhoben:
 
 Die Verordnung vom 21. Dezember 1990[^8-1] über Dienstleistungen und die Gebührenerhebung durch das VBS wird aufgehoben.
 
-[^8-1]: [[AS 1991 91](https://fedlex.data.admin.ch/eli/oc/1991/91_91_91),[1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 27,[1998 2653](https://fedlex.data.admin.ch/eli/oc/1998/2653_2653_2653), [2002 127](https://fedlex.data.admin.ch/eli/oc/2002/21)]
+[^8-1]: [[AS 1991 91](https://fedlex.data.admin.ch/eli/oc/1991/91_91_91);[1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 27;[1998 2653](https://fedlex.data.admin.ch/eli/oc/1998/2653_2653_2653); [2002 127](https://fedlex.data.admin.ch/eli/oc/2002/21)]
 
 #### Art. 9
 
@@ -142,7 +136,7 @@ Anhang[^t-1]
 
 ## Stundenansätze und Pauschalen
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 17. Nov. 2010 ([AS 2010 5447](https://fedlex.data.admin.ch/eli/oc/2010/777)) und gemäss Art. 82 Ziff. 1 der Sportförderungsverordnung vom 23. Mai 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 17. Nov. 2010 ([AS 2010 5447](https://fedlex.data.admin.ch/eli/oc/2010/777)), Art. 82 Ziff. 1 der Sportförderungsverordnung vom 23. Mai 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)) und Ziff. II der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
 
 ### 1 Stundenansätze für Bundespersonal
 
@@ -151,18 +145,4 @@ Anhang[^t-1]
 <tr><td></td><td>Je nach erforderlicher Sachkenntnis und nach Funktionsstufe</td><td>90.– bis 150.–</td></tr>
 </table>
 
-### 2 Stundenansätze für Flugdienstleistungen der Luftwaffe
-
-<table>
-<tr><td></td><td>Flugzeugtyp</td><td>Franken pro Stunde</td></tr>
-<tr><td>2.1</td><td>Falcon 50</td><td>8 600.–</td></tr>
-<tr><td>2.2</td><td>Excel Citation</td><td>6 200.–</td></tr>
-<tr><td>2.3</td><td>Beech 1900D</td><td>4 650.–</td></tr>
-<tr><td>2.4</td><td>Super King Air</td><td>4 500.–</td></tr>
-<tr><td>2.5</td><td>Porter PC-6</td><td>2 300.–</td></tr>
-<tr><td>2.6</td><td>PC-12</td><td>5 000.–</td></tr>
-<tr><td>2.7</td><td>Twin Otter</td><td>3 200.–</td></tr>
-<tr><td>2.8</td><td>Super Puma/Cougar</td><td>10 900.–</td></tr>
-<tr><td>2.9</td><td>EC 635</td><td>5 300.–</td></tr>
-<tr><td>2.10</td><td>Drohne ADS-95 (ohne Begleitflugzeug)</td><td>7 300.–</td></tr>
-</table>
+### 2 …
