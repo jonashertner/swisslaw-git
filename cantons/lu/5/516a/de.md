@@ -4,13 +4,13 @@ number: 516a
 title: Studienreglement über die Ausbildung der Pädagogischen Hochschule Luzern
 short: PH-Ausbildungsreglement
 language: de
-version: 2021-08-01
-valid_until: 2023-07-31
-version_adopted: 2021-06-01
+version: 2023-08-01
+valid_until: 2025-07-31
+version_adopted: 2023-04-27
 adopted: 2013-09-20
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516a"
-pdf: "https://srl.lu.ch/api/de/versions/3771/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4114/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3771/pdf_file"
 
 (PH-Ausbildungsreglement)
 
-vom 20.09.2013 (Stand 01.08.2021)
+vom 20.09.2013 (Stand 01.08.2023)
 
 Der Rektor der Pädagogischen Hochschule Luzern,
 
@@ -115,9 +115,9 @@ beschliesst:
 
 **Aufnahmevoraussetzung Studiengang Schulische Heilpädagogik**
 
-<sup>1</sup> Bewerberinnen und Bewerber mit EDK-anerkanntem Lehrdiplom haben nachzuweisen, dass sie über unterrichtspraktische Erfahrung im Umfang von mindestens 40 Prozent Beschäftigungsgrad während eines Jahres verfügen.
+<sup>1</sup> …
 
-<sup>2</sup> Bewerberinnen und Bewerber ohne EDK-anerkanntes Lehrdiplom haben nachzuweisen, dass sie über unterrichtspraktische Erfahrung oder praktische Erfahrung im Arbeitsfeld eines verwandten Studienbereichs im Umfang von mindestens 40 Prozent Beschäftigungsgrad während eines Jahres verfügen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Zulassung zum berufsbegleitenden Studium im Studiengang Schulische Heilpädagogik setzt eine Bestätigung über ein bestehendes Anstellungsverhältnis oder eine Absichtserklärung über ein ab Studienbeginn geplantes Anstellungsverhältnis im heilpädagogischen Bereich voraus. Studierende ohne EDK-anerkanntes Lehrdiplom sind davon ausgenommen, solange sie ausschliesslich Zusatzleistungen erbringen.
 
@@ -355,7 +355,7 @@ beschliesst:
 
 **Wiederholung**
 
-<sup>1</sup> Ein nichtbestandener Leistungsnachweis, der als Anforderung für das Bestehen eines Teilmoduls gilt, kann zweimal wiederholt werden. Praktika sowie Teilmodule, die aufgrund verletzter Präsenzpflicht nicht bestanden werden, können einmal wiederholt werden.
+<sup>1</sup> Ein nichtbestandener Leistungsnachweis, der als Anforderung für das Bestehen eines Teilmoduls gilt, kann zweimal wiederholt werden. Praktika, Teilmodule der Eignungsabklärung sowie Teilmodule, die aufgrund verletzter Präsenzpflicht nicht bestanden werden, können einmal wiederholt werden.
 
 <sup>2</sup> In den Studiengängen Kindergarten/Unterstufe, Primarstufe und Sekundarstufe I müssen Studierende alle Teilmodule, die zur Eignungsabklärung gehören, wiederholen, wenn ein Teilmodul nicht erfüllt ist.
 
