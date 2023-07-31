@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2023-07-01
+version: 2023-08-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. Juli 2023)
+vom 5. Oktober 2007 (Stand am 1. August 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -3282,6 +3282,12 @@ Wenn es zur Aufklärung einer Straftat nötig erscheint, kann die Ausgrabung ein
 
 ### 5. Kapitel: DNA-Analysen
 
+### 1. Abschnitt: DNA-Profil
+
+[^tit5-chap5-sec1-1]
+
+[^tit5-chap5-sec1-1]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 255
 
 **Voraussetzungen im Allgemeinen**
@@ -3302,11 +3308,20 @@ Die Polizei kann anordnen:
 - a. die nicht invasive Probenahme bei Personen;
 - b. die Erstellung eines DNA-Profils von tatrelevantem biologischem Material.
 
+<sup>3</sup> Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann die Staatsanwaltschaft zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003[^255-1] anordnen.[^255-2]
+
+[^255-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-2]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 256
 
-**Massenuntersuchungen**
+**Massenuntersuchungen**[^256-1]
 
-Das Zwangsmassnahmengericht kann auf Antrag der Staatsanwaltschaft zur Aufklärung eines Verbrechens die Entnahme von Proben und die Erstellung von DNA‑Profilen gegenüber Personen anordnen, die bestimmte, in Bezug auf die Tatbegehung festgestellte Merkmale aufweisen.
+<sup>1</sup> Das Zwangsmassnahmengericht kann auf Antrag der Staatsanwaltschaft zur Aufklärung eines Verbrechens die Entnahme von Proben und die Erstellung von DNA-Profilen gegenüber Personen anordnen, die bestimmte, in Bezug auf die Tatbegehung festgestellte Merkmale aufweisen. Der Kreis der zu untersuchenden Personen kann mittels einer Phänotypisierung nach Artikel 258*b* näher eingegrenzt werden.
+
+<sup>2</sup> Ergibt sich beim Profilvergleich nach Absatz 1 keine Übereinstimmung, kann das Zwangsmassnahmengericht auf Antrag der Staatsanwaltschaft anordnen, dass als Grundlage für die weiteren Ermittlungen eine Verwandtschaft mit der Spurenlegerin oder dem Spurenleger überprüft wird.
+
+[^256-1]: Fassung gemäss Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 257
 
@@ -3323,6 +3338,32 @@ Das Gericht kann in seinem Urteil anordnen, dass eine Probe genommen und ein DNA
 **Durchführung der Probenahme**
 
 Invasive Probenahmen werden von einer Ärztin oder einem Arzt oder von einer anderen medizinischen Fachperson vorgenommen.
+
+#### Art. 258a
+
+**Suchlauf nach Verwandtschaftsbezug**[^258a-1]
+
+Zur Aufklärung eines Verbrechens gemäss den Artikeln 111−113, 118 Absatz 2, 122, 124, 140, 156 Ziffern 2−4, 182, 184, 185, 187, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 260<sup>ter</sup> oder 264−264*l* StGB[^258a-2] kann ein Suchlauf nach Verwandtschaftsbezug nach Artikel 2*a* des DNA-Profil-Gesetzes vom 20. Juni 2003[^258a-3] angeordnet werden, wenn die bisherigen Untersuchungsmassnahmen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
+
+[^258a-1]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^258a-3]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+### 2. Abschnitt: Phänotypisierung
+
+[^tit5-chap5-sec2-1]
+
+[^tit5-chap5-sec2-1]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 258b
+
+**Phänotypisierung**[^258b-1]
+
+Die Phänotypisierung nach Artikel 2*b* des DNA-Profil-Gesetzes vom 20. Juni 2003[^258b-2] kann zur Verfolgung der in den folgenden Artikeln aufgeführten Verbrechen angeordnet werden: Artikel 111−113, 118 Absatz 2, 122, 124, 140, 156 Ziffern 2−4, 182, 184, 185, 187, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 260<sup>ter</sup> oder 264−264*l* StGB[^258b-3].
+
+[^258b-1]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258b-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^258b-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 259
 
@@ -3355,7 +3396,7 @@ Im Übrigen findet das DNA-Profil-Gesetz vom 20. Juni 2003[^259-1] Anwendung.
 Erkennungsdienstliche Unterlagen über die beschuldigte Person dürfen ausserhalb des Aktendossiers aufbewahrt und, sofern ein hinreichender Tatverdacht auf ein neues Delikt besteht, verwendet werden:
 
 - a. bis zum Ablauf der Fristen für die Löschung von DNA-Profilen nach den Artikeln 16–18 des DNA-Profil-Gesetzes vom 20. Juni 2003[^261-2]; oder
-- b. bei einer Verurteilung wegen einer Übertretung: bis zu fünf Jahre nach Zahlung einer Busse oder nach dem Vollzug einer entsprechenden Ersatzfreiheitsstrafe.
+- b.[^261-3] bei einer Verurteilung wegen einer Übertretung: während fünf Jahren ab dem Datum des Urteils, sofern dieses in Rechtskraft erwachsen ist.
 
 <sup>2</sup> Erkennungsdienstliche Unterlagen über nicht beschuldigte Personen sind zu vernichten, sobald das Verfahren gegen die beschuldigte Person abgeschlossen oder eingestellt wurde oder entschieden wurde, es nicht an die Hand zu nehmen.
 
@@ -3363,6 +3404,7 @@ Erkennungsdienstliche Unterlagen über die beschuldigte Person dürfen ausserhal
 
 [^261-1]: Fassung gemäss Anhang 1 Ziff. 5 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^261-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^261-3]: Fassung gemäss Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 262
 
@@ -4854,6 +4896,7 @@ Der Strafbefehl enthält:
 - d. die dadurch erfüllten Straftatbestände;
 - e. die Sanktion;
 - f. den kurz begründeten Widerruf einer bedingt ausgesprochenen Sanktion oder einer bedingten Entlassung;
+- f<sup>bis</sup>.[^353-1] die Löschfrist für ein allfällig bestehendes DNA-Profil;
 - g. die Kosten- und Entschädigungsfolgen;
 - h. die Bezeichnung beschlagnahmter Gegenstände und Vermögenswerte, die freigegeben oder eingezogen werden;
 - i. den Hinweis auf die Möglichkeit der Einsprache und die Folgen einer unterbliebenen Einsprache;
@@ -4863,6 +4906,8 @@ Der Strafbefehl enthält:
 <sup>2</sup> Soweit die beschuldigte Person Zivilforderungen der Privatklägerschaft anerkannt hat, wird dies im Strafbefehl vorgemerkt. Nicht anerkannte Forderungen werden auf den Zivilweg verwiesen.
 
 <sup>3</sup> Der Strafbefehl wird den Personen und Behörden, die zur Einsprache befugt sind, unverzüglich schriftlich eröffnet.
+
+[^353-1]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 354
 

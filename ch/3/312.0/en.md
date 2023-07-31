@@ -4,22 +4,22 @@ title: "Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code
 short: CrimPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: en
-version: 2023-07-01
+version: 2023-08-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230801/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230801-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
 # Swiss Criminal Procedure Code
 
-English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
 (Criminal Procedure Code, CrimPC)
 
-of 5 October 2007 (Status as of 1 July 2023)
+of 5 October 2007 (Status as of 1 August 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -859,7 +859,7 @@ The Confederation and the cantons may regulate the accreditation and rights and 
 
 #### Art. 74
 
-**Information to thepublic**
+**Provision of information to thepublic**
 
 <sup>1</sup>
 
@@ -3155,7 +3155,7 @@ The warrant shall indicate:
 
 **Accidental finds**
 
-<sup>1</sup> Evidence or property found that is not connected with the offence under investigation but which appears to relate to a different offence shall be secured.
+<sup>1</sup> Forensic evidence or items found that are not connected with the offence under investigation but which appears to relate to a different offence shall be secured.
 
 <sup>2</sup> The property shall be handed over with a report thereon to the director of proceedings, who shall decide on the further course of action.
 
@@ -3224,7 +3224,7 @@ If it files a request for the removal of the seals, the following courts shall i
 
 **Principle**
 
-Persons and property may only be searched without consent if it is suspected that forensic evidence or property or assets that must be seized may be found.
+Persons and property may only be searched without consent if it is suspected that forensic evidence or items or assets that must be seized may be found.
 
 #### Art. 250
 
@@ -3284,13 +3284,19 @@ If it appears necessary in for the proper investigation of an offence, the exhum
 
 ### Chapter 5 DNA Analyses
 
+### Section 1 DNA Profiles
+
+[^tit5-chap5-sec1-1]
+
+[^tit5-chap5-sec1-1]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 255
 
 **General requirements**
 
 <sup>1</sup>
 
-In order to investigate a felony or a misdemeanour, a sample may be taken to create a DNA profile from:
+In order to investigate a felony or a misdemeanour, a sample may be taken to create a DNA profile of:
 
 - a. the accused;
 - b. other persons, in particular victims or persons entitled to be present at the place of commission, insofar as this is necessary to distinguish their biological material from that of the accused;
@@ -3304,11 +3310,20 @@ The police may order:
 - a. a sample to be taken from persons by non-invasive methods;
 - b. the creation of a DNA profile from biological material relevant to the offence.
 
+<sup>3</sup> If it is only possible to create the Y-DNA profile from biological material relevant to the offence, the public prosecutor may when investigating a felony order its comparison with data in the information system in accordance with Article 10 of the DNA Profiling Act of 20 June 2003[^255-1].[^255-2]
+
+[^255-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-2]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 256
 
-**Mass testing**
+**Mass testing**[^256-1]
 
-In an investigation into a felony, the compulsory measures court may at the request of the public prosecutor order that samples be taken to create DNA profiles from persons who display specific characteristics established as being relevant to the commission of the offence.
+<sup>1</sup> In an investigation into a felony, the compulsory measures court may at the request of the public prosecutor order that samples be taken to create DNA profiles from persons who display specific characteristics established as being relevant to the commission of the offence. The group of persons to be investigated may be more strictly defined by means of phenotyping in accordance with Article 258*b*.
+
+<sup>2</sup> If the profile comparison in accordance with paragraph 1 does not produce a match, the compulsory measures court may, at the request of the public prosecutor, order that a familial relationship with the person to whom forensic evidence pertains be used as a basis for further investigations.
+
+[^256-1]: Amended by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 257
 
@@ -3325,6 +3340,32 @@ The court may in its judgment order that a sample be taken to create a DNA profi
 **Taking samples**
 
 Where invasive methods are used to take samples, the sample shall be taken by a doctor or another medical specialist.
+
+#### Art. 258a
+
+**Familial searches**[^258a-1]
+
+In order to investigate a felony under Articles 111−113, 118 paragraph 2, 122, 124, 140, 156 numbers 2−4, 182, 184, 185, 187, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 260<sup>ter</sup> or 264−264*l* SCC[^258a-2], a familial DNA search may be ordered in accordance with Article 2*a* of the DNA Profiling Act of 20 June 2003[^258a-3], provided the investigative measures up to that point have been unsuccessful or the investigation would otherwise have no prospect of success or would be made disproportionately more difficult.
+
+[^258a-1]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^258a-3]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+### Section 2 Phenotyping
+
+[^tit5-chap5-sec2-1]
+
+[^tit5-chap5-sec2-1]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 258b
+
+**Phenotyping**[^258b-1]
+
+Phenotyping in accordance with Article 2*b* of the DNA Profiling Act of 20 June 2003[^258b-2] may be ordered when investigating felonies under the following Articles: Articles 111−113, 118 paragraph 2, 122, 124, 140, 156 numbers 2−4, 182, 184, 185, 187, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 260<sup>ter</sup> or 264−264*l* SCC[^258b-3].
+
+[^258b-1]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258b-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^258b-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 259
 
@@ -3357,7 +3398,7 @@ The DNA Profiling Act of 20 June 2003[^259-1] also applies.
 Documents that identify the accused may be retained outside the case file and, in the event of a reasonable suspicion that a new offence has been committed, may also be used:
 
 - a. until the expiry the time limits for the deletion of DNA profiles in accordance with Articles 16–18 of the DNA Profiles Act of 20 June 2003[^261-2]; or
-- b. in the event of a conviction for a contravention: for up to five years after payment of a fine or after completion of the corresponding alternative custodial sentence.
+- b.[^261-3] in the event of a conviction for a contravention: for five years from the date of the judgment, provided the judgment is final.
 
 <sup>2</sup> Documents identifying persons other than the accused must be destroyed as soon as the proceedings against the accused have been concluded or abandoned or it has been decided not to bring proceedings.
 
@@ -3365,6 +3406,7 @@ Documents that identify the accused may be retained outside the case file and, i
 
 [^261-1]: Amended by Annex 1 No 5 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^261-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^261-3]: Amended by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 262
 
@@ -4858,6 +4900,7 @@ The summary penalty order contains:
 - d. the offence constituted by the act;
 - e. the sanction;
 - f. notice of the revocation of a suspended sanction or of parole with a brief statement of the reasons;
+- f<sup>bis</sup>.[^353-1] the date on which any DNA profile created must be deleted;
 - g. the costs and damages due;
 - h. details of any seized property or assets that are to be released or forfeited;
 - i. reference to the possibility of rejecting the order and the consequences of failing to reject the order;
@@ -4867,6 +4910,8 @@ The summary penalty order contains:
 <sup>2</sup> If the accused has accepted the civil claims of the private claimant, this shall also be recorded in the summary penalty order. Claims that are not accepted shall be referred for civil proceedings.
 
 <sup>3</sup> Immediate written notice of the summary penalty order shall be given to persons and authorities who are entitled to reject the order.
+
+[^353-1]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 354
 

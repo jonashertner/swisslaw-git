@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2023-07-01
+version: 2023-08-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230801-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (État le 1<sup>er</sup> juillet 2023)
+du 5 octobre 2007 (État le 1<sup>er</sup> août 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -3279,6 +3279,12 @@ Lorsque cela paraît nécessaire pour élucider une infraction, l’autorité p�
 
 ### Chapitre 5 Analyse de l’ADN
 
+### Section 1 Profil d’ADN
+
+[^tit5-chap5-sec1-1]
+
+[^tit5-chap5-sec1-1]: Introduit par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 255
 
 **Conditions en général**
@@ -3299,11 +3305,20 @@ La police peut ordonner:
 - a. le prélèvement non invasif d’échantillons;
 - b. l’établissement d’un profil d’ADN à partir de matériel biologique ayant un rapport avec l’infraction.
 
+<sup>3</sup> Si seul le profil d’ADN du chromosome Y peut être établi à partir du matériel biologique ayant un rapport avec l’infraction, le ministère public peut, afin d’élucider un crime, ordonner la comparaison de ce profil dans le système d’information visé à l’art. 10 de la loi du 20 juin 2003 sur les profils d’ADN[^255-1].[^255-2]
+
+[^255-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-2]: Introduit par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 256
 
-**Prélèvement d’échantillons lors d’enquêtes de grande envergure**
+**Prélèvement d’échantillons lors d’enquêtes de grande envergure**[^256-1]
 
-Afin d’élucider un crime, le tribunal des mesures de contrainte peut, à la demande du ministère public, ordonner le prélèvement d’échantillons sur des personnes présentant des caractéristiques spécifiques constatées en rapport avec la commission de l’acte, en vue de l’établissement de leur profil d’ADN.
+<sup>1</sup> Afin d’élucider un crime, le tribunal des mesures de contrainte peut, à la demande du ministère public, ordonner le prélèvement d’échantillons sur des personnes présentant des caractéristiques spécifiques constatées en rapport avec la commission de l’acte, en vue de l’établissement de leur profil d’ADN. Le cercle des personnes qui doivent faire l’objet d’un prélèvement peut être réduit encore au moyen d’un phénotypage au sens de l’art. 258*b*.
+
+<sup>2</sup> Si la comparaison de profils visée à l’al. 1 n’aboutit à aucune concordance, le tribunal des mesures de contrainte peut, à la demande du ministère public, ordonner que les investigations se poursuivent par l’examen de l’existence d’un lien de parenté avec le donneur de la trace.
+
+[^256-1]: Nouvelle teneur selon l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 257
 
@@ -3320,6 +3335,32 @@ Dans le jugement qu’il rend, le tribunal peut ordonner, en vue de l’établis
 **Exécution du prélèvement d’échantillons**
 
 Le prélèvement invasif d’échantillons doit être exécuté par un médecin ou un auxiliaire médical.
+
+#### Art. 258a
+
+**Recherche en parentèle**[^258a-1]
+
+Afin d’élucider un des crimes visés aux art. 111 à 113, 118, al. 2, 122, 124, 140, 156, ch. 2 à 4, 182, 184, 185, 187, 189, al. 1 et 3, 190, al. 1 et 3, 191, 260<sup>ter</sup> ou 264 à 264*l* CP[^258a-2], une recherche en parentèle au sens de l’art. 2*a* de la loi du 20 juin 2003 sur les profils d’ADN[^258a-3] peut être ordonnée si les mesures prises jusqu’alors dans le cadre de l’instruction sont restées sans succès ou si les recherches n’auraient aucune chance d’aboutir ou seraient excessivement difficiles.
+
+[^258a-1]: Introduit par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^258a-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+### Section 2 Phénotypage
+
+[^tit5-chap5-sec2-1]
+
+[^tit5-chap5-sec2-1]: Introduit par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 258b
+
+**Phénotypage**[^258b-1]
+
+Un phénotypage au sens de l’art. 2*b* de la loi du 20 juin 2003 sur les profils d’ADN[^258b-2] peut être ordonné afin d’élucider un des crimes visés aux art. 111 à 113, 118 al. 2, 122, 124, 140, 156 ch. 2 à 4, 182, 184, 185, 187, 189 al. 1 et 3, 190 al. 1 et 3, 191, 260<sup>ter</sup> ou 264 à 264*l* CP[^258b-3].
+
+[^258b-1]: Introduit par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258b-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^258b-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 259
 
@@ -3352,7 +3393,7 @@ Au surplus, la loi du 20 juin 2003 sur les profils d’ADN[^259-1] est applicabl
 Les données signalétiques d’un prévenu peuvent être conservées hors du dossier de la procédure et, si des soupçons suffisants laissent présumer une récidive, être utilisées:
 
 - a. jusqu’à l’expiration du délai fixé pour l’effacement des profils d’ADN par les art. 16 à 18 de la loi du 20 juin 2003 sur les profils d’ADN[^261-2], ou
-- b. en cas de condamnation pour contravention, pendant les 5 ans suivant le paiement d’une amende ou l’exécution d’une peine privative de liberté de substitution.
+- b.[^261-3] en cas de condamnation pour contravention, pendant 5 ans à partir de la date du jugement, pour autant qu’il soit entré en force.
 
 <sup>2</sup> Les données signalétiques de personnes qui n’ont pas le statut de prévenu doivent être détruites sitôt que la procédure contre le prévenu est close ou a fait l’objet d’une ordonnance de classement ou de non-entrée en matière.
 
@@ -3360,6 +3401,7 @@ Les données signalétiques d’un prévenu peuvent être conservées hors du do
 
 [^261-1]: Nouvelle teneur selon l’annexe 1 ch. 5 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^261-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^261-3]: Nouvelle teneur selon l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 262
 
@@ -4850,6 +4892,7 @@ L’ordonnance pénale contient les informations suivantes:
 - d. les infractions commises;
 - e. la sanction;
 - f. la mention, brièvement motivée, de la révocation d’un sursis ou d’une libération conditionnelle;
+- f<sup>bis</sup>.[^353-1] le délai d’effacement d’un profil d’ADN éventuellement existant;
 - g. les frais et indemnités;
 - h. la mention des objets et valeurs patrimoniales séquestrés à restituer ou à confisquer;
 - i. l’indication du droit de faire opposition et des conséquences d’un défaut d’opposition;
@@ -4859,6 +4902,8 @@ L’ordonnance pénale contient les informations suivantes:
 <sup>2</sup> Si le prévenu a reconnu des prétentions civiles de la partie plaignante, mention en est faite dans l’ordonnance pénale. Les prétentions qui n’ont pas été reconnues sont renvoyées au procès civil.
 
 <sup>3</sup> L’ordonnance pénale est immédiatement notifiée par écrit aux personnes et aux autorités qui ont qualité pour former opposition.
+
+[^353-1]: Introduite par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 354
 

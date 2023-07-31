@@ -4,11 +4,11 @@ title: "Cudesch da procedura penala svizzer dals 5 d'october 2007 (Cudesch da pr
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: rm
-version: 2023-07-01
+version: 2023-08-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230801/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230801-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Cudesch da procedura penala, CPP)
 
-dals 5 d’october 2007 (versiun dal 1. da fanadur 2023)
+dals 5 d’october 2007 (versiun dal 1. d’avust 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -3284,6 +3284,12 @@ Sch’i para dad esser necessari per sclerir in malfatg, po vegnir ordinà ch’
 
 ### 5. chapitel Analisas dal DNA
 
+### 1. secziun Profil dal DNA
+
+[^tit5-chap5-sec1-1]
+
+[^tit5-chap5-sec1-1]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 255
 
 **Premissas en general**
@@ -3304,11 +3310,20 @@ La polizia po ordinar che:
 - a. emprovas vegnian prendidas da persunas en moda betg invasiva;
 - b. in profil dal DNA vegnia fatg or da material biologic ch’è relevant per il malfatg.
 
+<sup>3</sup> Sch’il material biologic ch’è relevant per il malfatg permetta da crear mo il profil dal DNA dal cromosom Y, po la procura publica ordinar, per sclerir il crim, che quest profil vegnia cumpareglià en il sistem d’infurmaziun tenor l’artitgel 10 da la Lescha dals 20 da zercladur 2003[^255-1] davart ils profils dal DNA.[^255-2]
+
+[^255-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-2]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 256
 
-**Examinaziuns extendidas**
+**Examinaziuns extendidas**[^256-1]
 
-Sin dumonda da la procura publica po la dretgira da mesiras repressivas ordinar per sclerir in crim ch’i vegnian prendidas emprovas e ch’i vegnian fatgs profils dal DNA da persunas che han tschertas caracteristicas ch’èn vegnidas constatadas areguard la commessa dal malfatg.
+<sup>1</sup> Sin dumonda da la procura publica po la dretgira da mesiras repressivas ordinar, per sclerir in crim, ch’i vegnian prendidas emprovas e ch’i vegnian creads profils dal DNA da persunas cun tschertas caracteristicas ch’èn vegnidas constatadas areguard la commessa dal malfatg. Il circul da las persunas che duain vegnir examinadas, po vegnir reducì anc pli fitg tras ina fenotipisaziun tenor l’artitgel 258*b*.
+
+<sup>2</sup> Sche la cumparegliaziun dal profil tenor l’alinea 1 na mussa nagina concordanza, po la dretgira da mesiras repressivas ordinar sin proposta da la procura publica, ch’i vegnia examinà, sco basa per las ulteriuras investigaziuns, sch’igl è avant maun ina relaziun da parentella cun il donatur dals fastizs.
+
+[^256-1]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 257
 
@@ -3325,6 +3340,32 @@ La dretgira po ordinar en sia sentenzia ch’i vegnia prendida in’emprova e ch
 **Realisaziun da las emprovas**
 
 Emprovas invasivas vegnan prendidas d’in medi u d’ina autra persuna medicinala spezialisada.
+
+#### Art. 258a
+
+**Tschertga da relaziuns da parentella**[^258a-1]
+
+Per sclerir in crim tenor ils artitgels 111–113, 118 alinea 2, 122, 124, 140, 156 cifras 2–4, 182, 184, 185, 187, 189 alineas 1 e 3, 190 alineas 1 e 3, 191, 260<sup>ter</sup> u 264–264*l* CP[^258a-2] po vegnir ordinada ina tschertga da relaziuns da parentella tenor l’artitgel 2*a* da la Lescha dals 20 da zercladur 2003[^258a-3] davart ils profils dal DNA, sche las mesiras d’examinaziun gia prendidas n’han gì nagin success u sche las investigaziuns fissan uschiglio invanas u vegnissan engrevgiadas sproporziunadamain.
+
+[^258a-1]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^258a-3]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+### 2. secziun Fenotipisaziun
+
+[^tit5-chap5-sec2-1]
+
+[^tit5-chap5-sec2-1]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 258b
+
+**Fenotipisaziun**[^258b-1]
+
+La fenotipisaziun tenor l’artitgel 2*b* da la Lescha dals 20 da zercladur 2003[^258b-2] davart ils profils dal DNA po vegnir ordinada per sclerir ils crims ch’èn enumerads en ils artitgels 111–113, 118 alinea 2, 122, 124, 140, 156 cifras 2–4, 182, 184, 185, 187, 189 alineas 1 e 3, 190 alineas 1 e 3, 191, 260<sup>ter</sup> u 264–264*l* CP[^258b-3].
+
+[^258b-1]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258b-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^258b-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 259
 
@@ -3357,7 +3398,7 @@ Dal rest vegn applitgada la Lescha dals 20 da zercladur 2003[^259-1] davart ils 
 Documents dal servetsch d’identificaziun davart la persuna inculpada dastgan vegnir conservads ordaifer il dossier d’actas e dastgan vegnir duvrads, sch’igl exista in suspect suffizient che la persuna commettia in nov delict:
 
 - a. fin a la scadenza dals termins per stizzar ils profils dal DNA tenor ils artitgels 16–18 da la Lescha dals 20 da zercladur 2003[^261-2] davart ils profils dal DNA; u
-- b. en cas d’ina condemnaziun pervia d’in surpassament: fin 5 onns suenter il pajament d’ina multa u suenter l’execuziun d’in chasti da detenziun subsidiar correspundent.
+- b.[^261-3] en cas d’ina condemnaziun pervia d’in surpassament: durant 5 onns a partir da la data da la sentenzia, sche quella ha survegnì forza legala.
 
 <sup>2</sup> Documents dal servetsch d’identificaziun davart persunas betg inculpadas ston vegnir destruids, uschespert che la procedura cunter la persuna inculpada è terminada u sistida ubain uschespert ch’igl è vegnì decidì da betg avrir la procedura.
 
@@ -3365,6 +3406,7 @@ Documents dal servetsch d’identificaziun davart la persuna inculpada dastgan v
 
 [^261-1]: Versiun tenor la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^261-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^261-3]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 262
 
@@ -4856,6 +4898,7 @@ Il mandat penal cuntegna:
 - d. ils causals penals che vegnan ademplids tras quai;
 - e. la sancziun;
 - f. la menziun – motivada curtamain – da la revocaziun d’ina sancziun u d’ina relaschada cundiziunada;
+- f<sup>bis</sup>.[^353-1] il termin per stizzar in eventual profil dal DNA;
 - g. l’obligaziun da surpigliar custs ed indemnisaziuns;
 - h. la designaziun d’objects e da valurs da facultad sequestrads che vegnan deliberads u confiscads;
 - i. il renviament a la pussaivladad da far protesta ed a las consequenzas d’ina protesta tralaschada;
@@ -4865,6 +4908,8 @@ Il mandat penal cuntegna:
 <sup>2</sup> Sche la persuna inculpada ha renconuschì pretensiuns civilas da l’accusader privat, vegn quai menziunà en il mandat penal. Pretensiuns che na vegnan betg renconuschidas vegnan renviadas a la giurisdicziun civila.
 
 <sup>3</sup> Il mandat penal vegn communitgà immediatamain en scrit a las persunas ed a las autoritads che han il dretg da far protesta.
+
+[^353-1]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 354
 

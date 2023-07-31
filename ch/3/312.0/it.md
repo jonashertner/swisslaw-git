@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2023-07-01
+version: 2023-08-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230801-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 1° luglio 2023)
+del 5 ottobre 2007 (Stato 1° agosto 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -3277,7 +3277,11 @@ Le ispezioni corporali e gli interventi nell’integrità fisica sono effettuati
 
 Se risulta necessario per chiarire la fattispecie, può essere ordinata l’esumazione o l’apertura dell’urna cineraria.
 
-### Capitolo 5: Analisi del DNA
+### Sezione 1: Profilo del DNA
+
+[^tit5-chap5-1]
+
+[^tit5-chap5-1]: Introdotto dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 255
 
@@ -3299,11 +3303,20 @@ La polizia può disporre:
 - a. il prelievo di campioni su persone, se non invasivo;
 - b. l’allestimento di un profilo del DNA a partire da materiale biologico pertinente al reato.
 
+<sup>3</sup> Se il materiale biologico pertinente al reato permette di allestire soltanto il profilo del DNA del cromosoma Y, per far luce su un crimine il pubblico ministero può disporre il confronto di tale profilo nel sistema d’informazione di cui all’articolo 10 della legge del 20 giugno 2003[^255-1] sui profili del DNA.[^255-2]
+
+[^255-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-2]: Introdotto dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
 #### Art. 256
 
-**Indagini a tappeto**
+**Indagini a tappeto**[^256-1]
 
-Per far luce su un crimine, ad istanza del pubblico ministero il giudice dei provvedimenti coercitivi può disporre il prelievo di campioni e l’allestimento di profili del DNA su persone che presentano determinate caratteristiche accertate in relazione alla commissione del reato.
+<sup>1</sup> Per far luce su un crimine, ad istanza del pubblico ministero il giudice dei provvedimenti coercitivi può disporre il prelievo di campioni e l’allestimento di profili del DNA su persone che presentano determinate caratteristiche accertate in relazione alla commissione del reato. La cerchia delle persone da sottoporre a prelievo può essere ulteriormente ristretta mediante una fenotipizzazione ai sensi dell’articolo 258*b*.
+
+<sup>2</sup> Se il confronto del profilo ai sensi del capoverso 1 non dà esito, ad istanza del pubblico ministero il giudice dei provvedimenti coercitivi può disporre che le indagini proseguano con la verifica di un legame di parentela con il donatore della traccia.
+
+[^256-1]: Nuovo testo giusta l’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 257
 
@@ -3320,6 +3333,32 @@ Nella sentenza il giudice può disporre il prelievo di un campione e l’allesti
 **Esecuzione dei prelievi di campioni**
 
 I prelievi invasivi di campioni sono effettuati da un medico o da altro personale medico specializzato.
+
+#### Art. 258a
+
+**Ricerca di legami di parentela**[^258a-1]
+
+Per far luce su uno dei crimini di cui agli articoli 111–113, 118 capoverso 2, 122, 124, 140, 156 numeri 2–4, 182, 184, 185, 187, 189 capoversi 1 e 3, 190 capoversi 1 e 3, 191, 260<sup>ter</sup> o 264–264*l* CP[^258a-2], può essere disposta una ricerca di legami di parentela ai sensi dell’articolo 2*a* della legge del 20 giugno 2003[^258a-3] sui profili del DNA se le operazioni d’inchiesta già svolte non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
+
+[^258a-1]: Introdotto dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^258a-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+### Sezione 2: Fenotipizzazione
+
+[^tit5-chap6-1]
+
+[^tit5-chap6-1]: Introdotto dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+#### Art. 258b
+
+**Fenotipizzazione**[^258b-1]
+
+Per far luce su uno dei crimini di cui agli articoli 111–113, 118 capoverso 2, 122, 124, 140, 156 numeri 2–4, 182, 184, 185, 187, 189 capoversi 1 e 3, 190 capoversi 1 e 3, 191, 260<sup>ter</sup> o 264–264*l* CP[^258b-2], può essere disposta una fenotipizzazione ai sensi dell’articolo 2*b* della legge del 20 giugno 2003[^258b-3] sui profili del DNA.
+
+[^258b-1]: Introdotto dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^258b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^258b-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 259
 
@@ -3352,7 +3391,7 @@ Per altro è applicabile la legge del 20 giugno 2003[^259-1] sui profili del DNA
 I documenti segnaletici concernenti l’imputato possono essere conservati fuori dal fascicolo, nonché impiegati in caso di sufficiente indizio di nuovo reato:
 
 - a. sino alla scadenza dei termini di cancellazione dei profili del DNA di cui agli articoli 16–18 della legge del 20 giugno 2003[^261-2] sui profili del DNA; o
-- b. in caso di condanna per contravvenzione, nei cinque anni successivi al pagamento di una multa o all’esecuzione di una corrispondente pena detentiva sostitutiva.
+- b.[^261-3] in caso di condanna per contravvenzione, per cinque anni a decorrere dalla data della sentenza, purché passata in giudicato.
 
 <sup>2</sup> I documenti segnaletici concernenti persone non imputate devono essere distrutti non appena il procedimento contro l’imputato è chiuso oppure è oggetto di un decreto di abbandono o di non luogo a procedere.
 
@@ -3360,6 +3399,7 @@ I documenti segnaletici concernenti l’imputato possono essere conservati fuori
 
 [^261-1]: Nuovo testo giusta l’all. 1 n. 5 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^261-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^261-3]: Nuovo testo giusta l’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 262
 
@@ -4854,6 +4894,7 @@ Nel decreto d’accusa sono indicati:
 - d. le fattispecie penali realizzate;
 - e. la sanzione;
 - f. la revoca, motivata succintamente, dell’eventuale sospensione condizionale o della liberazione condizionale;
+- f<sup>bis</sup>.[^353-1] il termine di cancellazione di un eventuale profilo del DNA;
 - g. le conseguenze in materia di spese e indennità;
 - h. gli oggetti e valori patrimoniali dissequestrati o confiscati;
 - i. la possibilità di interporre opposizione e gli effetti di una mancata opposizione;
@@ -4863,6 +4904,8 @@ Nel decreto d’accusa sono indicati:
 <sup>2</sup> Se l’imputato le riconosce, le pretese civili dell’accusatore privato sono annotate nel decreto d’accusa. Le pretese non riconosciute sono rinviate al foro civile.
 
 <sup>3</sup> Il decreto d’accusa è notificato per scritto e senza indugio alle persone e autorità legittimate a fare opposizione.
+
+[^353-1]: Introdotta dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 354
 
@@ -6250,7 +6293,7 @@ Le leggi federali qui appresso sono modificate come segue:
 
 [^annex1-lvlu1-1]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)n. III 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)n. II 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)n. II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)n. I 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)n. II 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. n. II 3]
 [^annex1-lvlu1-2]: [[RU 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 29, [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)art. 2 n. 2; [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. II 6]
-[^annex1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267).
+[^annex1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267).f
 
 Allegato 2
 
