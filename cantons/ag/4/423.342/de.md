@@ -4,13 +4,13 @@ number: "423.342"
 title: Verordnung über die Informatikmittelschule
 short: V IMS
 language: de
-version: 2019-08-01
-valid_until: 2023-07-31
-version_adopted: 2019-05-15
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-05-17
 adopted: 2010-05-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.342"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2735/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2735/pdf_file"
 
 (V IMS)
 
-Vom 19.05.2010 (Stand 01.08.2019)
+Vom 19.05.2010 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -37,7 +37,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses (EFZ) Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) sowie die Berufsmaturität kaufmännischer Richtung an Informatikmittelschulen.
+<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses (EFZ) Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) sowie die Berufsmaturität Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, an Informatikmittelschulen.
 
 #### § 2
 
@@ -80,7 +80,7 @@ beschliesst:
 - a) die Grundlagenfächer Deutsch, Französisch beziehungsweise Italienisch, Englisch und Mathematik,
 - b) die Schwerpunktfächer Finanz- und Rechnungswesen sowie Wirtschaft und Recht,
 - c) das Ergänzungsfach Technik und Umwelt,
-- d) das Fach Informatik, bestehend aus dem für das eidgenössische Fähigkeitszeugnis erforderliche Fach (EFZ-Fach) Informatikkompetenzen (Fachrichtung Applikationsentwicklung) und dem Lernatelier Informatik,
+- d) das für das eidgenössische Fähigkeitszeugnis erforderliche Fach (EFZ-Fach) Informatikkompetenzen (Fachrichtung Applikationsentwicklung),
 - e) das Fach Sport.
 
 <sup>2</sup> Promotionswirksam in der 2. Klasse sind:
@@ -88,18 +88,18 @@ beschliesst:
 - a) die Grundlagenfächer Deutsch, Französisch beziehungsweise Italienisch, Englisch und Mathematik,
 - b) die Schwerpunktfächer Finanz- und Rechnungswesen sowie Wirtschaft und Recht,
 - c) das Ergänzungsfach Geschichte und Politik,
-- d) das Fach Informatik, bestehend aus dem EFZ-Fach Informatikkompetenzen (Fachrichtung Applikationsentwicklung) und dem Lernatelier Informatik,
+- d) das EFZ-Fach Informatikkompetenzen (Fachrichtung Applikationsentwicklung),
 - e) das Fach Sport.
 
 <sup>3</sup> Promotionswirksam im 1. Semester der 3. Klasse sind:
 
 - a) die Grundlagenfächer Deutsch, Französisch beziehungsweise Italienisch, Englisch und Mathematik,
 - b) die Schwerpunktfächer Finanz- und Rechnungswesen sowie Wirtschaft und Recht,
-- c) das Fach Informatik, bestehend aus dem EFZ-Fach Informatikkompetenzen (Fachrichtung Applikationsentwicklung) und dem Lernatelier Informatik,
+- c) das EFZ-Fach Informatikkompetenzen (Fachrichtung Applikationsentwicklung),
 - d) das Fach Sport,
 - e) das Ergänzungsfach Geschichte und Politik.
 
-<sup>4</sup> Die Note im Fach Informatik wird zu 3/4 aus der Note des EFZ-Fachs Informatikkompetenzen (Fachrichtung Applikationsentwicklung) und zu 1/4 aus der Note des Lernateliers Informatik gebildet.
+<sup>4</sup> …
 
 #### § 4a
 
@@ -113,9 +113,10 @@ beschliesst:
 
 <sup>1</sup> Schülerinnen und Schüler werden nach der allfälligen Probezeit, die bis zum Ende des 1. Semesters dauert, definitiv aufgenommen beziehungsweise am Ende des Semesters definitiv befördert, wenn kumulativ die Promotionsvoraussetzungen gemäss Art. 17 BMV erfüllt sind sowie in den Promotionsfächern gemäss § 4
 
-- a) der Durchschnitt der Fachnoten mindestens 4,0 beträgt, wobei die Note im Fach Informatik doppelt zählt,
+- a) der Durchschnitt der Fachnoten mindestens 4,0 beträgt,
 - b) höchstens drei Fachnoten ungenügend sind,
-- c) die Differenz der ungenügenden Fachnoten zur Note 4,0 gesamthaft den Wert 2,5 nicht übersteigt, wobei die Note im Fach Informatik doppelt zählt.
+- c) die Differenz der ungenügenden Fachnoten zur Note 4,0 gesamthaft den Wert 2,5 nicht übersteigt.
+- d) die Note im EFZ-Fach Informatikkompetenzen (Fachrichtung Applikationsentwicklung) mindestens genügend ist.
 
 <sup>2</sup> …
 
@@ -133,7 +134,9 @@ beschliesst:
 
 <sup>1</sup> Wer am Ende der Probezeit die Voraussetzungen gemäss § 5 nicht erfüllt, wird aus der Schule entlassen.
 
-<sup>2</sup> Wer nach erfolgter Nichtbeförderung die Voraussetzungen gemäss § 5 ein weiteres Mal nicht erfüllt, wird aus der Schule entlassen.
+<sup>2</sup> Wer nach erfolgter Nichtbeförderung die Voraussetzungen gemäss § 5 ein weiteres Mal nicht erfüllt, wird aus der Schule entlassen. Vorbehalten bleibt Absatz 3.
+
+<sup>3</sup> Wer das letzte Schuljahr gemäss den §§ 11a Abs. 2 oder 25 Abs. 2 lit. b wiederholt und die Voraussetzungen gemäss § 5 am Ende des 1. Semesters des zu wiederholenden Schuljahrs ein weiteres Mal nicht erfüllt, wird nicht aus der Schule entlassen.
 
 #### § 8
 
@@ -170,6 +173,12 @@ beschliesst:
 <sup>2</sup> Wer weder den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) noch selbst mit einer hypothetischen Note 6,0 in der interdisziplinären Projektarbeit (IDPA) die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt, muss das letzte Schuljahr vor einem zweiten Versuch wiederholen. Erst danach darf ein Eintritt in das Langzeitpraktikum erfolgen.
 
 <sup>3</sup> Wer nach Wiederholung des letzten Schuljahrs die Bedingungen gemäss Absatz 2 ein weiteres Mal nicht erfüllt, wird aus der Schule entlassen.
+
+#### § 11b
+
+**Absolvierung des Langzeitpraktikums**
+
+<sup>1</sup> Das Langzeitpraktikum wird in der Regel unmittelbar nach dem schulischen Teil des Lehrgangs absolviert. In begründeten Fällen kann die Schulleitung einen Beginn des Langzeitpraktikums bis maximal zwei Jahre nach dem Abschluss des schulischen Teils gestatten.
 
 ## 4. Berufsmaturität
 
@@ -243,7 +252,7 @@ beschliesst:
 
 <sup>2</sup> Die Abschlussprüfung kann am nächsten Prüfungstermin wiederholt werden, sofern es sich bei der für ungültig erklärten Prüfung um den ersten Versuch gehandelt hat.
 
-<sup>3</sup> Das letzte Schuljahr muss wiederholt werden. Erst danach darf ein Eintritt in den betrieblichen Praxisaufenthalt (Langzeitpraktikum) erfolgen. Es zählen die Zeugnisnoten des Wiederholungsjahrs für die Abschlussprüfung.
+<sup>3</sup> Das letzte Schuljahr muss wiederholt werden. Erst danach darf ein Eintritt in das Langzeitpraktikum erfolgen. Es zählen die Zeugnisnoten des Wiederholungsjahrs als Erfahrungsnoten des 3. Schuljahrs für den Berufsmaturitätsabschluss.
 
 #### § 19
 
@@ -263,7 +272,7 @@ beschliesst:
 
 **Notengebung und Antrag**
 
-<sup>1</sup> Die Notenkonferenz der jeweiligen Schule setzt die Fachnoten fest und die Schulleitung stellt dem BKS Antrag auf Bestehen beziehungsweise Nichtbestehen des Berufsmaturitätsabschlusses.
+<sup>1</sup> Die Notenkonferenz der jeweiligen Schule setzt die Fachnoten fest und die Schulleitung erarbeitet die Grundlagen für die Entscheide betreffend Berufsmaturitätsabschluss zuhanden des BKS.
 
 #### § 23
 
@@ -288,9 +297,9 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Wer weder den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) noch die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt, muss das letzte Schuljahr vor einem zweiten Versuch wiederholen.
+<sup>4</sup> …
 
-<sup>5</sup> Wer nach Wiederholung des letzten Schuljahrs und absolviertem Langzeitpraktikum die Bestehensbedingungen nicht erfüllt, wird aus der Schule entlassen.
+<sup>5</sup> …
 
 #### § 26
 
@@ -318,7 +327,7 @@ beschliesst:
 
 <sup>5</sup> …
 
-<sup>6</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2017/18 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+<sup>6</sup> …
 
 #### § 28a
 
@@ -327,6 +336,14 @@ beschliesst:
 <sup>1</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2019/20 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
 
 <sup>2</sup> Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2018/19 begonnen haben, die Bestimmungen des neuen Rechts.
+
+#### § 28b
+
+**Übergangsbestimmung zur Änderung vom 17. Mai 2023**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2023/24 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+
+<sup>2</sup> Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2022/23 begonnen haben, die Bestimmungen des neuen Rechts.
 
 #### § 29
 
