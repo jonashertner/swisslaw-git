@@ -3,11 +3,11 @@ sr: "363.11"
 title: Verordnung des EJPD vom 8. Oktober 2014 über die Leistungs- und Qualitätsanforderungen für forensische DNA-Analyselabors (DNA-Analyselabor-Verordnung EJPD)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/605"
 language: de
-version: 2015-01-01
+version: 2023-08-01
 adopted: 2014-10-08
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/605/20150101/de/xml/fedlex-data-admin-ch-eli-cc-2014-605-20150101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/605/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2014-605-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20150101/de"
 
 (DNA-Analyselabor-Verordnung EJPD)
 
-vom 8. Oktober 2014 (Stand am 1. Januar 2015)
+vom 8. Oktober 2014 (Stand am 1. August 2023)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -34,16 +34,26 @@ verordnet:
 
 <sup>1</sup> Das Labor muss gemäss der Norm ISO/IEC 17025, 2005[^1-1] akkreditiert sein.
 
-<sup>2</sup> Es muss für sämtliche Leistungen nach den Artikeln 2–8 akkreditiert sein.
+<sup>2</sup> Es muss mit Ausnahme von Absatz 2<sup>bis</sup> für sämtliche Leistungen nach den Artikeln 2–8 akkreditiert sein.[^1-2]
 
-<sup>3</sup> Soweit diese Verordnung nichts anderes regelt, erfolgt die Analyse nach den Richtlinien der Schweizerischen Gesellschaft für Rechtsmedizin vom 1. Juni 2012[^1-2] zur internen Qualitätssicherung bei Spurenuntersuchungen mittels DNA-Untersuchungstechniken.
+<sup>2bis</sup> Es muss für die Analyse der mitochondrialen DNA (Art. 7 Bst. d) nur dann akkreditiert sein, wenn es diese anbieten will.[^1-3]
+
+<sup>2ter</sup> Bietet es Phänotypisierungen nach Artikel 2*b* des DNA-Profil-Gesetzes vom 20. Juni 2003[^1-4] an, so muss es das entsprechende Analyseverfahren, nicht aber die Interpretation des Untersuchungsergebnisses im Geltungsbereich der Akkreditierung gemäss der Norm SN EN ISO/IEC 17025:2018[^1-5] ausweisen.[^1-6]
+
+<sup>3</sup> Soweit diese Verordnung nichts anderes regelt, erfolgt die Analyse nach den Richtlinien der Schweizerischen Gesellschaft für Rechtsmedizin vom 1. Juni 2012[^1-7] zur internen Qualitätssicherung bei Spurenuntersuchungen mittels DNA-Untersuchungstechniken.
 
 <sup>4</sup> Die laborinternen Prozessschritte müssen auf eine eindeutige und fehlerfreie Bearbeitung ausgelegt sein.
 
-<sup>5</sup> Die zu analysierenden DNA-Systeme (Loci) werden im Anhang geregelt.
+<sup>5</sup> Die DNA-Systeme (Loci), die für die Erstellung des Standard-DNA-Profils analysiert werden müssen, sind in Anhang 1 geregelt, diejenigen für die Erstellung des Y‑DNA-Profils in Anhang 2.[^1-8]
 
 [^1-1]: Gegen Bezahlung zu beziehen bei: International Organization for Standardization, ISO Central Secretariat, 1, ch. de la Voie-Creuse, CP 56, 1211 Genf 20, oder über: [www.iso.org](http://www.iso.org) &gt; Store &gt; Standards catalogue.
-[^1-2]: www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente
+[^1-2]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-3]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-4]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^1-5]: Diese Norm kann kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Sie kann gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
+[^1-6]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-7]: www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente
+[^1-8]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 2
 
@@ -91,11 +101,13 @@ Die Aufträge sind innerhalb der folgenden Zeiten zu bearbeiten:
 
 <sup>2</sup>
 
-Eine Analyse umfasst:
+Die Bearbeitung einer Personenprobe umfasst:[^3-1]
 
 - a. zwei unabhängige DNA-Extraktionen;
 - b. eine DNA-Profilerstellung pro Extraktion;
 - c. die Kontrolle und Freigabe der Profile.
+
+[^3-1]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 4
 
@@ -105,7 +117,7 @@ Eine Analyse umfasst:
 
 <sup>2</sup>
 
-Eine Analyse umfasst:
+Die Bearbeitung einer Spurenprobe umfasst:[^4-1]
 
 - a. je nach Spurenmenge und Spurenqualität zwei unabhängige DNA-Extraktionen;
 - b. eine DNA-Profilerstellung pro Extraktion oder zwei unabhängige DNA-Profil-Erstellungen bei nur einem verfügbaren Extrakt;
@@ -121,6 +133,8 @@ Liegt eine Spur auf einem Spurenträger vor, so sind vorzunehmen oder in der Dok
 - c. die Lokalisation der Spur und die Detailaufnahme oder Skizze der Spur;
 - d. die Beschreibung der Spur, insbesondere die Abmessungen, die Farbe und der Zustand;
 - e. eine Probenahme oder mehrere Probenahmen ab Spurenträger.
+
+[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 5
 
@@ -148,11 +162,15 @@ Tritt bei der DNA-Analyse eine seltene, durch die Verwendung unterschiedlicher A
 
 **Analyse von zusätzlichen DNA-Systemen**
 
-Die Analyse von zusätzlichen, nicht im Anhang aufgeführten DNA-Systemen zur erweiterten Identifikation, zur Absicherung der Interpretation schwieriger Mischprofile oder zum Vergleich mit Profilen aus dem Ausland muss doppelt durchgeführt werden. Sie umfasst insbesondere:
+Die Analyse von zusätzlichen, nicht in Anhang 1 aufgeführten DNA-Systemen zur erweiterten Identifikation, zur Absicherung der Interpretation schwieriger Mischprofile oder zum Vergleich mit Profilen aus dem Ausland muss doppelt durchgeführt werden. Sie umfasst insbesondere:[^7-1]
 
 - a. weitere, international verwendete autosomale DNA-Systeme;
 - b. die Y-chromosomalen DNA-Systeme;
-- c. die X-chromosomalen DNA-Systeme.
+- c. die X-chromosomalen DNA-Systeme;
+- d.[^7-2] die Sequenzierung der mitochondrialen DNA.
+
+[^7-1]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^7-2]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 8
 
@@ -160,11 +178,52 @@ Die Analyse von zusätzlichen, nicht im Anhang aufgeführten DNA-Systemen zur er
 
 Auf Verlangen der Koordinationsstelle nimmt das Labor bei einem Treffer im Informationssystem die Profilüberprüfung vor und meldet das Ergebnis. Die dafür notwendigen Aufwendungen sind im Preis der Profilerstellung inbegriffen.
 
+#### Art. 8a
+
+**Besondere Regelung zum Abgleich des Y-DNA-Profils**[^8a-1]
+
+In das Informationssystem dürfen Y-DNA-Profile von Spuren aufgenommen werden, bei denen die Loci nach Anhang 2 analysiert worden sind.
+
+[^8a-1]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+
+#### Art. 8b
+
+**Besondere Regelung zum Suchlauf nach Verwandtschaftsbezug**[^8b-1]
+
+Beim Suchlauf nach Verwandtschaftsbezug nach Artikel 2*a* des DNA-Profil-Gesetzes vom 20. Juni 2003[^8b-2] wird nach DNA-Profilen gesucht, die einen Verwandtschaftsbezug zu einem Elternteil, Kindern oder Geschwistern aufweisen können.
+
+[^8b-1]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^8b-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 8c
+
+**Besondere Regelungen zur Phänotypisierung**[^8c-1]
+
+<sup>1</sup> Bei der Auswertung der Merkmale nach Artikel 2*b* Absatz 2 des DNA-Profil-Gesetzes vom 20. Juni 2003[^8c-2] kann auf eine Bestätigungsanalyse verzichtet werden. Das Labor spricht sich dabei mit der Polizei ab.
+
+<sup>2</sup>
+
+Der Bericht des Labors zuhanden der auftraggebenden Behörde muss folgende Angaben enthalten:
+
+- a. die Art des Untersuchungsmaterials;
+- b. die verwendete Methode;
+- c. das verwendete Analysegerät;
+- d. die Auswertungssoftware;
+- e. das Vorhersagemodell.
+
+<sup>3</sup> Im Übrigen gelten die Richtlinien der Schweizerischen Gesellschaft für Rechtsmedizin (SGRM) vom 25. Mai 2023[^8c-3] zur Phänotypisierung.
+
+[^8c-1]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^8c-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^8c-3]: [https://sgrm.ch](https://sgrm.ch) &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente.
+
 #### Art. 9
 
-**Aufbewahrung und Vernichtung der Laboranalysedaten von Profilen**
+**Aufbewahrung und Vernichtung der Laboranalysedaten**[^9-1]
 
-Das Labor bewahrt die Daten von Personen- und Spurenprofilen, die für die Rückverfolgung des Analyseprozesses und die Verifikation eines bestimmten Profils sowie zur Durchführung eines lokalen Vergleichs nach Artikel 6*a* der DNA-Profil-Verordnung vom 3. Dezember 2004 erforderlich sind, während 30 Jahren auf und vernichtet sie anschliessend.
+Das Labor bewahrt die Daten, die für die Rückverfolgung des Analyseprozesses erforderlich sind, während 30 Jahren auf und vernichtet sie anschliessend. Im Zusammenhang mit der Erstellung von Personen- und Spurenprofilen werden diese Daten zudem für die Verifikation eines bestimmten Profils sowie zur Durchführung eines lokalen Vergleichs nach Artikel 6*a* Absätze 1–3 der DNA-Profil-Verordnung vom 3. Dezember 2004 benötigt.
+
+[^9-1]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 10
 
@@ -190,23 +249,36 @@ Das Labor steht den auftraggebenden Behörden von Montag bis Freitag jeweils von
 
 <sup>2</sup> Verfügt keines der anerkannten Labors über das nötige Fachwissen für eine spezielle Untersuchung, so darf der Auftrag mit dem schriftlichen Einverständnis des Auftraggebers an ein nicht anerkanntes Labor in der Schweiz oder an ein Labor im Ausland weitergegeben werden. Diese Weitergabe ist im Ergebnisbericht zu vermerken.
 
+<sup>3</sup> Bei einer Weitervergabe nach Absatz 2 muss das auftraggebende Labor den Auftrag pseudonymisieren und den Nachweis erbringen können, dass das beauftragte Labor über ein Qualitätsmanagementsystem verfügt, das die Anforderungen der Norm ISO/IEC 17025:2017[^12-2], Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien, erfüllt. Es ist dafür verantwortlich, dass der Auftrag nach dem Stand von Wissenschaft und Technik durchgeführt wird.[^12-3]
+
 [^12-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^12-2]: Diese Norm entspricht der Norm SN EN ISO/IEC 17025:2018. Beide Normen können kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
+[^12-3]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 13
 
 **Qualitätsprüfung**
 
-<sup>1</sup> Die Qualitätsprüfung hat nach den Richtlinien der Schweizerischen Gesellschaft für Rechtsmedizin vom 1. Juni 2012[^13-1] zur internen Qualitätssicherung bei Spurenuntersuchungen mittels DNA-Untersuchungstechniken zu erfolgen.
+<sup>1</sup> Die Qualitätsprüfung hat nach den Richtlinien der SGRM vom 7. Juni 2019[^13-1] zur internen Qualitätssicherung bei Spurenuntersuchungen mittels DNA‑Untersuchungstechniken zu erfolgen.[^13-2]
 
 <sup>2</sup> Die Ergebnisse der Qualitätsprüfung sind zu dokumentieren.
 
 <sup>3</sup> Labors, die sowohl für den Strafrechtsbereich als auch für den Zivil- und Verwaltungsbereich anerkannt sind, müssen jeweils innerhalb eines Jahres an vier Ringversuchen im forensischen Bereich und an einem Ringversuch im Abstammungsbereich erfolgreich teilnehmen, wobei in einem der vier Ringversuche im forensischen Bereich eine Abstammungsfrage beantwortet werden muss. Enthalten die vier Ringversuche im forensischen Bereich keine Abstammungsfrage, so muss das Labor im selben Zeitraum zusätzlich an einem zweiten Ringversuch im Abstammungsbereich teilnehmen.
 
-<sup>4</sup> Das Bundesamt für Polizei (fedpol) anerkennt die Teilnahme an einem bestimmten Ringversuch nur, wenn dieser die Prüfung aller Systeme nach dem Anhang umfasste und erfolgreich abgeschlossen worden ist.
+<sup>4</sup> Das Bundesamt für Polizei (fedpol) anerkennt die Teilnahme an einem bestimmten Ringversuch im Strafrechtsbereich nur, wenn dieser die Prüfung aller Systeme nach Anhang 1 umfasst. Zwei dieser jährlichen Ringversuche müssen zusätzlich alle Loci nach Anhang 2 umfassen. Die Ringversuche müssen erfolgreich abgeschlossen werden.[^13-3]
 
-<sup>5</sup> Ist ein Ringversuch nicht erfolgreich abgeschlossen worden, so informiert das Labor im Rahmen des Quartalsberichts unaufgefordert fedpol.
+<sup>4bis</sup> Ein Labor, das Phänotypisierungen anbietet, muss die Bearbeitung aller im Geltungsbereich der Akkreditierung aufgeführten Analyseverfahren zur Phänotypisierung mittels Ringversuchen innerhalb von fünf Jahren überprüfen. Es muss jährlich an mindestens einem Ringversuch teilnehmen, der mindestens eines der Merkmale zur Phänotypisierung abdeckt.[^13-4]
 
-[^13-1]: www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente
+<sup>5</sup> Das Labor stellt das Ergebnis des Ringversuchs umgehend fedpol zu..[^13-5]
+
+<sup>6</sup> War die Teilnahme am Ringversuch nicht erfolgreich, so muss das Labor innerhalb einer angemessenen Frist zuhanden von fedpol einen Bericht erstellen. Dieser muss eine Analyse der Mängel enthalten und aufzeigen, welche Massnahmen innerhalb welcher Frist zur Behebung der Mängel getroffen werden.[^13-6]
+
+[^13-1]: [https://sgrm.ch](https://sgrm.ch) &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente.
+[^13-2]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-3]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-4]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-5]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-6]: Eingefügt durch Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 14
 
@@ -238,7 +310,9 @@ Bringt ein konkreter Analyseauftrag ein Labor in einen Interessenkonflikt, weil 
 
 <sup>2</sup> Die Verrechnung erfolgt pro durchgeführte Analyse unabhängig vom AnalyseErgebnis. Die erbrachten Dienstleistungen müssen in der Rechnungsstellung transparent ausgewiesen werden.
 
-<sup>3</sup> Die Koordinationsstelle verrechnet dem Labor die Kosten für die von ihr ausgeführten Arbeitsschritte gemäss Artikel 9*a* Absatz 5 der DNA-Profil-Verordnung vom 3. Dezember 2004. Das Labor kann diese Kosten der auftraggebenden Behörde weiterverrechnen.
+<sup>3</sup> Die Koordinationsstelle verrechnet der auftraggebenden Behörde oder dem Labor, das im Auftrag dieser Behörde handelt, die Kosten für die von ihr ausgeführten Arbeitsschritte gemäss Artikel 9*c* der DNA-Profil-Verordnung vom 3. Dezember 2004. Das Labor kann diese Kosten der auftraggebenden Behörde weiterverrechnen.[^17-1]
+
+[^17-1]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 18
 
@@ -274,10 +348,14 @@ Das Labor stellt fedpol unaufgefordert folgende Unterlagen zu:
 
 - a. die Bestätigung der erfolgreichen Verlängerung der von der Schweizerischen Akkreditierungsstelle erteilten Akkreditierung mit dem entsprechenden Geltungsbereich;
 - b. Änderungen im Handelsregistereintrag oder der Behördenorganisation;
-- c. die Bestätigung der nach Artikel 13 Absatz 3 durchgeführten Ringversuche;
+- c.[^20-1] die Bestätigung der nach Artikel 13 Absätze 3 und 4<sup>bis</sup> durchgeführten Ringversuche;
 - d. die Mitteilung über einen Wechsel beim Personal, das am Verarbeitungsprozess beteiligt ist;
-- e. vierteljährlich den Bericht über die Anzahl der verarbeiteten Proben und über die Vorkommnisse nach Artikel 18 Absatz 4;
-- f. jährlich den Geschäfts- oder Jahresbericht.
+- e.[^20-2] …
+- f.[^20-3] jährlich den Geschäfts- oder Jahresbericht; darin informiert das Labor insbesondere über die Anzahl der verarbeiteten Proben und über Vorkommnisse nach Artikel 18 Absatz 4.
+
+[^20-1]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^20-2]: Aufgehoben durch Ziff. I der V des EJPD vom 16. Juni 2023, mit Wirkung seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^20-3]: Fassung gemäss Ziff. I der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 21
 
@@ -309,11 +387,13 @@ Die Verordnung des EJPD vom 29. Juni 2005[^23-1] über die Leistungs- und Qualit
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft.
 
-Anhang
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 5)
 
-## Liste der zu analysierenden Loci
+## Liste der zu analysierenden Loci beim Standard-DNA-Profil
+
+[^t-1]: Ursprünglich: Anhang. Fassung gemäss Ziff. II Abs. 1 der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 D3S1358
 
@@ -348,3 +428,51 @@ D12S391
 SE33
 
 Amelogenin
+
+Anhang 2[^t-2]
+
+(Art. 1 Abs. 5)
+
+## Liste der zu analysierenden Loci beim Y-DNA-Profil
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V des EJPD vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+
+DYS19
+
+DYS385a/b
+
+DYS389 I
+
+DYS389 II
+
+DYS390
+
+DYS391
+
+DYS392
+
+DYS393
+
+DYS437
+
+DYS438
+
+DYS439
+
+DYS448
+
+DYS456
+
+DYS458
+
+DYS635
+
+Y-GATA-H4
+
+DYS481
+
+DYS533
+
+DYS570
+
+DYS576

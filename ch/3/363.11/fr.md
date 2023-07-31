@@ -3,11 +3,11 @@ sr: "363.11"
 title: "Ordonnance du DFJP du 8 octobre 2014 sur les exigences de prestations et de qualité requises pour les laboratoires forensiques d'analyse d'ADN (Ordonnance du DFJP sur les laboratoires d'analyse d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/605"
 language: fr
-version: 2015-01-01
+version: 2023-08-01
 adopted: 2014-10-08
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/605/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-605-20150101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/605/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2014-605-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20150101/fr"
 
 (Ordonnance du DFJP sur les laboratoires d’analyse d’ADN)
 
-du 8 octobre 2014 (Etat le 1<sup>er</sup> janvier 2015)
+du 8 octobre 2014 (État le 1<sup>er</sup> août 2023)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -34,16 +34,26 @@ arrête:
 
 <sup>1</sup> Tout laboratoire doit être accrédité conformément à la norme ISO/IEC 17025, 2005[^1-1].
 
-<sup>2</sup> Il doit être accrédité pour l’ensemble des prestations visées aux art. 2 à 8.
+<sup>2</sup> Il doit être accrédité pour l’ensemble des prestations visées aux art. 2 à 8 à l’exception de l’al. 2<sup>bis</sup>.[^1-2]
 
-<sup>3</sup> Sauf disposition contraire de la présente ordonnance, l’analyse est effectuée conformément aux Recommandations du 1<sup>er</sup> juin 2012 de la Société suisse de médecine légale pour l’analyse ADN des traces biologiques[^1-2].
+<sup>2bis</sup> Il doit être accrédité pour l’analyse de l’ADN mitochondrial (art. 7, let. d) uniquement s’il souhaite proposer cette prestation.[^1-3]
+
+<sup>2ter</sup> S’il propose des phénotypages au sens de l’art. 2*b* de la loi du 20 juin 2003 sur les profils d’ADN[^1-4], il doit indiquer la procédure d’analyse correspondante dans le champ d’application de l’accréditation selon la norme SN EN ISO/IEC 17025:2018[^1-5], mais pas l’interprétation du résultat de l’analyse.[^1-6]
+
+<sup>3</sup> Sauf disposition contraire de la présente ordonnance, l’analyse est effectuée conformément aux Recommandations du 1<sup>er</sup> juin 2012 de la Société suisse de médecine légale pour l’analyse ADN des traces biologiques[^1-7].
 
 <sup>4</sup> Les étapes internes du processus du laboratoire sont conçues pour un traitement précis et correct.
 
-<sup>5</sup> Les marqueurs ADN (loci) à analyser sont réglés en annexe.
+<sup>5</sup> Les marqueurs ADN (loci) devant être analysés pour l’établissement d’un profil d’ADN standard de personne sont réglés à l’annexe 1, ceux devant être analysés pour l’établissement d’un profil d’ADN du chromosome Y sont réglés à l’annexe 2.[^1-8]
 
 [^1-1]: Disponible contre paiement auprès de l’Organisation internationale de normalisation, Secrétariat central de l’ISO, ch. de la Voie-Creuse 1, CP 56, 1211 Genève 20, ou: [www.iso.org](http://www.iso.org) &gt; Store &gt; Catalogue de normes
-[^1-2]: www.sgrm.ch &gt; Génétique forensique &gt; Description de la section &gt; Documents
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-3]: Introduit par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-4]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^1-5]: Cette norme peut être consultée gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV). Elle peut être obtenue contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^1-6]: Introduit par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-7]: www.sgrm.ch &gt; Génétique forensique &gt; Description de la section &gt; Documents
+[^1-8]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 2
 
@@ -91,11 +101,13 @@ Les mandats doivent être traités dans les délais suivants:
 
 <sup>2</sup>
 
-Une analyse comprend:
+Le traitement d’un échantillon de personnes comprend:[^3-1]
 
 - a. deux extractions d’ADN indépendantes l’une de l’autre;
 - b. un établissement du profil d’ADN pour chaque extraction;
 - c. le contrôle des profils et leur transmission.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 4
 
@@ -105,7 +117,7 @@ Une analyse comprend:
 
 <sup>2</sup>
 
-Une analyse comprend:
+Le traitement d’un échantillon de traces comprend:[^4-1]
 
 - a. deux extractions d’ADN indépendantes l’une de l’autre, selon la quantité de trace et sa qualité;
 - b. un établissement du profil d’ADN pour chaque extraction, ou deux établissements du profil d’ADN indépendants l’un de l’autre en présence d’une seule extraction;
@@ -121,6 +133,8 @@ Si une trace se trouve sur un support, il convient de faire ou d’indiquer dans
 - c. la localisation de la trace et un gros plan ou un croquis de la trace;
 - d. la description de la trace, notamment les dimensions, la couleur et l’état;
 - e. un ou plusieurs prélèvements d’échantillons effectués sur le support de trace.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 5
 
@@ -148,11 +162,15 @@ Si, lors de l’analyse d’ADN, une différence rare due à l’utilisation de 
 
 **Analyse de marqueurs ADN supplémentaires**
 
-L’analyse de marqueurs ADN supplémentaires, qui ne figurent pas en annexe, dans le but d’augmenter le pouvoir d’identification, de s’assurer de l’interprétation de profils de mélange complexes ou de procéder à des comparaisons avec des profils provenant de l’étranger doit être effectué deux fois. Il comprend notamment:
+L’analyse de marqueurs ADN supplémentaires, qui ne figurent pas à l’annexe 1, dans le but d’augmenter le pouvoir d’identification, de s’assurer de l’interprétation de profils de mélange complexes ou de procéder à des comparaisons avec des profils provenant de l’étranger doit être effectuée deux fois. Elle comprend notamment:[^7-1]
 
 - a. d’autres marqueurs ADN autosomaux reconnus au niveau international;
 - b. les marqueurs ADN sur le chromosome Y;
-- c. les marqueurs ADN sur le chromosome X.
+- c. les marqueurs ADN sur le chromosome X;
+- d.[^7-2] le séquençage de l’ADN mitochondrial.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^7-2]: Introduite par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 8
 
@@ -160,11 +178,52 @@ L’analyse de marqueurs ADN supplémentaires, qui ne figurent pas en annexe, da
 
 En cas de concordance dans le système d’information, le laboratoire vérifie les profils sur demande du Service de coordination et communique les résultats. Cette tâche est comprise dans le prix de l’établissement du profil.
 
+#### Art. 8a
+
+**Règle particulière pour la comparaison de profils d’ADN du chromosome Y**[^8a-1]
+
+Les profils d’ADN du chromosome Y établis à partir de traces peuvent être saisis dans le système d’information pour autant que les loci visés à l’annexe 2 aient été analysés.
+
+[^8a-1]: Introduit par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+
+#### Art. 8b
+
+**Règle particulière pour la recherche en parentèle**[^8b-1]
+
+Une recherche en parentèle en vertu de l’art. 2*a* de la loi du 20 juin 2003 sur les profils d’ADN[^8b-2] consiste à rechercher des profils d’ADN qui peuvent présenter un lien de parenté avec le père, la mère, les enfants ou les frères et sœurs.
+
+[^8b-1]: Introduit par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^8b-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 8c
+
+**Règles particulières pour le phénotypage**[^8c-1]
+
+<sup>1</sup> Lors de l’analyse des caractéristiques visées à l’art. 2*b*, al. 2, de la loi du 20 juin 2003 sur les profils d’ADN[^8c-2], il est possible de renoncer à une analyse de confirmation. Le laboratoire consulte la police à ce sujet.
+
+<sup>2</sup>
+
+Le rapport du laboratoire remis à l’autorité requérante doit contenir les indications suivantes:
+
+- a. le type de matériel d’analyse;
+- b. la méthode utilisée;
+- c. l’appareil d’analyse utilisé;
+- d. le logiciel d’analyse;
+- e. le modèle de prédiction.
+
+<sup>3</sup> Pour le reste, les recommandations du 25 mai 2023 de la Société suisse de médecine légale pour le phénotypage[^8c-3] s’appliquent.
+
+[^8c-1]: Introduit par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^8c-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^8c-3]: [sgrm.ch](https://sgrm.ch/de/sgrmhomepage) &gt; Génétique forensique &gt; Description de la section &gt; Documents
+
 #### Art. 9
 
-**Conservation et destruction des données d’analyse de laboratoire relatives à des profils**
+**Conservation et destruction des données d’analyse de laboratoire**[^9-1]
 
-Tout laboratoire conserve pendant 30 ans les données des profils de personnes et de traces nécessaires pour retracer le processus d’analyse, vérifier un profil déterminé et effectuer une comparaison locale conformément à l’art. 6*a* de l’ordonnance du 3 décembre 2004 sur les profils d’ADN et détruit ensuite ces données.
+Tout laboratoire conserve les données nécessaires pour retracer le processus d’analyse pendant 30 ans puis les détruit. En lien avec l’établissement de profils de personnes et de traces, ces données sont en outre nécessaires pour vérifier un profil déterminé ou effectuer une comparaison locale conformément à l’art. 6*a,* al. 1 à 3, de l’ordonnance du 3 décembre 2004 sur les profils d’ADN.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 10
 
@@ -190,23 +249,36 @@ Tout laboratoire est disponible, pour les autorités requérantes, du lundi au v
 
 <sup>2</sup> Si aucun des laboratoires reconnus ne dispose des connaissances nécessaires pour accomplir une analyse spécifique, le mandat peut, avec l’accord écrit du mandant, être transmis à un laboratoire suisse qui n’est pas reconnu ou à un laboratoire étranger. Cette transmission est consignée dans le rapport présentant les résultats de l’analyse.
 
+<sup>3</sup> En cas de transmission conformément à l’al. 2, le laboratoire transmettant le mandat doit pseudonymiser celui-ci et pouvoir apporter la preuve que le laboratoire exécutant le mandat dispose d’un système de gestion de la qualité remplissant les exigences de la norme ISO/IEC 17025:2017[^12-2], Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais. Il doit veiller à ce que le mandat soit exécuté conformément à l’état de la science et de la technique.[^12-3]
+
 [^12-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^12-2]: Cette norme correspond à la norme SN EN ISO/IEC 17025:2018. Les deux normes peuvent être consultées gratuitement auprès de l’un des quatre sites de l’Association suisse de normalisation (SNV). Elles peuvent être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+[^12-3]: Introduit par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 13
 
 **Contrôle de la qualité**
 
-<sup>1</sup> Tout contrôle de la qualité doit être effectué conformément aux Recommandations du 1<sup>er</sup> juin 2012 de la Société suisse de médecine légale pour l’analyse ADN des traces biologiques[^13-1].
+<sup>1</sup> Tout contrôle de la qualité doit être effectué conformément aux Recommandations du 7 juin 2019 de la Société suisse de médecine légale pour l’assurance de la qualité interne pour l’analyse ADN de traces biologiques[^13-1].[^13-2]
 
 <sup>2</sup> Les résultats du contrôle de la qualité doivent être documentés.
 
 <sup>3</sup> Les laboratoires reconnus tant pour le domaine pénal que pour les domaines civil et administratif doivent, en un an, participer à quatre contrôles de qualité externes dans le domaine forensique et à un contrôle de qualité externe dans le domaine de la filiation, une question de filiation devant être résolue dans l’un des quatre contrôles de qualité externes du domaine forensique. Si les quatre contrôles de qualité externes du domaine forensique ne contiennent pas de question sur la filiation, le laboratoire doit participer à un deuxième contrôle de qualité externe supplémentaire dans le domaine de la filiation dans ce même intervalle.
 
-<sup>4</sup> L’Office fédéral de la police (fedpol) ne reconnaît la participation à un contrôle de qualité externe précis que si celui-ci a inclus le contrôle de tous les marqueurs visés à l’annexe et qu’il a été réussi.
+<sup>4</sup> L’Office fédéral de la police (fedpol) ne reconnaît la participation à un contrôle de qualité externe précis dans le domaine pénal que si celui-ci a inclus le contrôle de tous les loci visés à l’annexe 1. Deux de ces contrôles de qualité externes annuels doivent en outre inclure tous les loci visés à l’annexe 2. Les contrôles doivent être réussis.[^13-3]
 
-<sup>5</sup> Si le contrôle de qualité externe a échoué, le laboratoire en informe spontanément fedpol dans le rapport trimestriel.
+<sup>4bis</sup> Un laboratoire qui propose des phénotypages doit vérifier, dans les cinq ans, le traitement de toutes les procédures d’analyse visant le phénotypage mentionnées dans le champ d’application de l’accréditation en participant à des contrôles de qualité externes. Il doit participer à au moins un contrôle de qualité externe par an, qui couvre au moins une des caractéristiques du phénotypage.[^13-4]
 
-[^13-1]: www.sgrm.ch &gt; Génétique forensique &gt; Description de la section &gt; Documents
+<sup>5</sup> Le laboratoire communique immédiatement le résultat du contrôle de qualité externe à fedpol.[^13-5]
+
+<sup>6</sup> Si le contrôle de qualité externe a échoué, le laboratoire est tenu de fournir un rapport à fedpol dans un délai approprié. Ce rapport doit analyser les défauts et indiquer les mesures à prendre pour y remédier, ainsi que les délais prévus pour chacune d’entre elles.[^13-6]
+
+[^13-1]: [sgrm.ch](https://sgrm.ch/de/sgrmhomepage) &gt; Génétique forensique &gt; Description de la section &gt; Documents
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-4]: Introduit par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-5]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-6]: Introduit par le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 14
 
@@ -222,7 +294,7 @@ Les langues de travail sont l’allemand, le français et l’italien. Les terme
 
 <sup>1</sup> Tout laboratoire remet à fedpol les photocopies des diplômes de son personnel de laboratoire.
 
-<sup>2</sup> Il veille à ce que tous ses collaborateurs disposent des connaissances spécifiques nécessaires à l’accomplissement de leur tâche. A ce titre, fedpol peut consulter à tout moment le plan de formation continue et de perfectionnement.
+<sup>2</sup> Il veille à ce que tous ses collaborateurs disposent des connaissances spécifiques nécessaires à l’accomplissement de leur tâche. À ce titre, fedpol peut consulter à tout moment le plan de formation continue et de perfectionnement.
 
 #### Art. 16
 
@@ -238,7 +310,9 @@ Tout laboratoire doit immédiatement informer l’autorité requérante s’il e
 
 <sup>2</sup> Chaque analyse effectuée est facturée, indépendamment de son résultat. Les prestations fournies doivent figurer clairement sur la facture.
 
-<sup>3</sup> Le Service de coordination facture au laboratoire les frais des étapes de travail effectuées conformément à l’art. 9*a*, al. 5, de l’ordonnance du 3 décembre 2004 sur les profils d’ADN. Le laboratoire peut ensuite refacturer ces frais à l’autorité requérante.
+<sup>3</sup> Le Service de coordination facture à l’autorité requérante ou au laboratoire mandaté par celle-ci les frais des étapes de travail effectuées conformément à l’art. 9*c* de l’ordonnance du 2 décembre 2004 sur les profils d’ADN. Le laboratoire peut ensuite refacturer ces frais à l’autorité requérante.[^17-1]
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 18
 
@@ -274,10 +348,14 @@ Le laboratoire remet spontanément à fedpol les documents suivants:
 
 - a. la confirmation de la prolongation de l’accréditation remise par le Service d’accréditation suisse, accompagnée de son champ d’application;
 - b. les modifications de l’inscription au registre du commerce ou tout changement d’autorité;
-- c. la confirmation de sa participation aux contrôles de qualité externes, conformément à l’art. 13, al. 3;
+- c.[^20-1] la confirmation de sa participation aux contrôles de qualité externes, conformément à l’art. 13, al. 3 et 4<sup>bis</sup>;
 - d. l’information concernant les mutations du personnel impliqué dans le processus de traitement;
-- e. un rapport trimestriel sur le nombre d’échantillons traités et sur les irrégularités notifiées, conformément à l’art. 18, al. 4;
-- f. un rapport de gestion annuel ou un rapport annuel.
+- e.[^20-2] …
+- f.[^20-3] un rapport de gestion annuel ou un rapport annuel; le laboratoire y indique notamment le nombre d’échantillons traités et les irrégularités visées à l’art. 18, al. 4.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^20-2]: Abrogée par le ch. I de l’O du DFJP du 16 juin 2023, avec effet au 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^20-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 21
 
@@ -309,11 +387,13 @@ L’ordonnance du DFJP du 29 juin 2005 sur les laboratoires d’analyse d’ADN[
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2015.
 
-Annexe
+Annexe 1[^t-1]
 
 (art. 1, al. 5)
 
-## Liste des loci devant être analysés
+## Liste des loci devant être analysés pour le profil d’ADN standard
+
+[^t-1]: Anciennement annexe. Nouvelle teneur selon le ch. II al. 1 de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 D3S1358
 
@@ -348,3 +428,51 @@ D12S391
 SE33
 
 Amélogénine
+
+Annexe 2[^t-2]
+
+(art. 1, al. 5)
+
+## Liste des loci devant être analysés pour le profil d’ADN-Y
+
+[^t-2]: Introduite par le ch. II al. 2 de l’O du DFJP du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+
+DYS19
+
+DYS385a/b
+
+DYS389 I
+
+DYS389 II
+
+DYS390
+
+DYS391
+
+DYS392
+
+DYS393
+
+DYS437
+
+DYS438
+
+DYS439
+
+DYS448
+
+DYS456
+
+DYS458
+
+DYS635
+
+Y-GATA-H4
+
+DYS481
+
+DYS533
+
+DYS570
+
+DYS576

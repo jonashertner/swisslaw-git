@@ -3,11 +3,11 @@ sr: "363.11"
 title: "Ordinanza del DFGP dell' 8 ottobre 2014 sulle prestazioni e le caratteristiche qualitative per i laboratori di analisi forense del DNA (Ordinanza del DFGP sui laboratori di analisi del DNA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/605"
 language: it
-version: 2015-01-01
+version: 2023-08-01
 adopted: 2014-10-08
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/605/20150101/it/xml/fedlex-data-admin-ch-eli-cc-2014-605-20150101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/605/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2014-605-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/605/20150101/it"
 
 (Ordinanza del DFGP sui laboratori di analisi del DNA)
 
-dell’8 ottobre 2014 (Stato 1° gennaio 2015)
+dell’8 ottobre 2014 (Stato 1° agosto 2023)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -34,16 +34,26 @@ ordina:
 
 <sup>1</sup> Il laboratorio deve essere accreditato secondo la norma ISO/IEC 17025, 2005[^1-1].
 
-<sup>2</sup> Il laboratorio deve essere accreditato per tutte le prestazioni di cui agli articoli 2–8.
+<sup>2</sup> Deve essere accreditato per tutte le prestazioni di cui agli articoli 2–8, ad eccezione del capoverso 2<sup>bis</sup>.[^1-2]
 
-<sup>3</sup> Per quanto la presente ordinanza non disponga altrimenti, l’analisi è eseguita secondo le direttive del 1° giugno 2012[^1-2] della Società svizzera di medicina legale sulla garanzia della qualità nelle analisi del DNA delle tracce biologiche.
+<sup>2bis</sup> Deve essere accreditato per l’analisi del DNA mitocondriale (art. 7 lett. d) soltanto se intende offrire tale analisi.[^1-3]
+
+<sup>2ter</sup> Se offre la fenotipizzazione ai sensi dell’articolo 2*b* della legge del 20 giugno 2003[^1-4] sui profili del DNA, nel campo di applicazione dell’accreditamento secondo la norma SN EN ISO/IEC 17025:2018[^1-5] deve indicare la relativa procedura di analisi, ma non l’interpretazione dei risultati dell’analisi.[^1-6]
+
+<sup>3</sup> Per quanto la presente ordinanza non disponga altrimenti, l’analisi è eseguita secondo le direttive del 1° giugno 2012[^1-7] della Società svizzera di medicina legale sulla garanzia della qualità nelle analisi del DNA delle tracce biologiche.
 
 <sup>4</sup> Le fasi interne del processo del laboratorio devono essere concepite per un trattamento preciso e corretto.
 
-<sup>5</sup> Le regioni del DNA (loci) da analizzare sono disciplinate nell’allegato.
+<sup>5</sup> Le regioni del DNA (loci) da analizzare per allestire un profilo del DNA standard sono disciplinate nell’allegato 1, quelle da analizzare per allestire un profilo del DNA del cromosoma Y sono disciplinate nell’allegato 2.[^1-8]
 
-[^1-1]: Può essere ottenuta dietro pagamento presso: *International Organization for Standardiz**a**tion*, *ISO Central Secretariat*, 1, ch. de la Voie-Creuse, CP 56, 1211 Ginevra 20, oppure tramite: [www.iso.org](http://www.iso.org) &gt; Store &gt; Standards catalogue.
-[^1-2]: www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente
+[^1-1]: Può essere ottenuta dietro pagamento presso: *International Organization for Standardization*, *ISO Central Secretariat*, 1, ch. de la Voie-Creuse, CP 56, 1211 Ginevra 20, oppure tramite: [www.iso.org](http://www.iso.org) &gt; Store &gt; Standards catalogue.
+[^1-2]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-3]: Introdotto dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-4]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^1-5]: Questa norma può essere consultata gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Può essere ottenuta a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1-6]: Introdotto dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^1-7]: [www.sgrm.ch](http://www.sgrm.ch) &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente
+[^1-8]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 2
 
@@ -91,11 +101,13 @@ Gli incarichi devono essere eseguiti entro le scadenze seguenti:
 
 <sup>2</sup>
 
-Un’analisi comprende:
+Il trattamento di un campione di persona comprende:[^3-1]
 
 - a. due estrazioni indipendenti del DNA;
 - b. l’allestimento del profilo del DNA per ogni estrazione;
 - c. il controllo e la trasmissione dei profili.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 4
 
@@ -105,7 +117,7 @@ Un’analisi comprende:
 
 <sup>2</sup>
 
-Un’analisi comprende:
+Il trattamento di un campione di traccia comprende:[^4-1]
 
 - a. due estrazioni indipendenti del DNA, a seconda della quantità e della qualità della traccia;
 - b. l’allestimento del profilo del DNA per ogni estrazione oppure due allestimenti indipendenti del profilo del DNA qualora sia disponibile una sola estrazione;
@@ -121,6 +133,8 @@ Se una traccia si trova su un supporto, occorre effettuare o indicare nella docu
 - c. la localizzazione della traccia e l’immagine dettagliata o uno schizzo della traccia;
 - d. la descrizione della traccia, in particolare le dimensioni, il colore e lo stato;
 - e. uno o più prelievi di campione dal supporto della traccia.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 5
 
@@ -148,11 +162,15 @@ Se, durante l’analisi del DNA, per una regione del DNA appare una differenza r
 
 **Analisi di regioni del DNA supplementari**
 
-L’analisi di regioni del DNA supplementari non elencate nell’allegato finalizzata ad aumentare la possibilità d’identificazione, ad assicurare la valutazione di difficili profili misti o a effettuare confronti con profili provenienti dall’estero, deve essere eseguita due volte. Essa comprende in particolare:
+L’analisi di regioni del DNA supplementari non elencate nell’allegato 1 finalizzata ad aumentare la possibilità d’identificazione, ad assicurare la valutazione di difficili profili misti o a effettuare confronti con profili provenienti dall’estero, deve essere eseguita due volte. Essa comprende in particolare:[^7-1]
 
 - a. ulteriori regioni del DNA autosomici, utilizzate a livello internazionale;
 - b. le regioni del DNA sul cromosoma Y;
-- c. le regioni del DNA sul cromosoma X.
+- c. le regioni del DNA sul cromosoma X;
+- d.[^7-2] il sequenziamento del DNA mitocondriale.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^7-2]: Introdotta dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 8
 
@@ -160,11 +178,52 @@ L’analisi di regioni del DNA supplementari non elencate nell’allegato finali
 
 In caso di riscontro positivo nel sistema d’informazione, il laboratorio, su richiesta dell’Ufficio di coordinamento, esegue la verifica dei profili e comunica il risultato. Le relative spese sono comprese nel prezzo d’allestimento del profilo.
 
+#### Art. 8a
+
+**Norma particolare per il confronto del profilo del DNA del cromosoma Y**[^8a-1]
+
+Nel sistema d’informazione possono essere registrati i profili del DNA del cromosoma Y allestiti a partire da tracce, a condizione che siano stati analizzati i loci di cui all’allegato 2.
+
+[^8a-1]: Introdotto dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+
+#### Art. 8b
+
+**Norma particolare per la ricerca di legami di parentela**[^8b-1]
+
+La ricerca di legami di parentela di cui all’articolo 2*a* della legge del 20 giugno 2003[^8b-2] sui profili del DNA consiste nella ricerca di profili del DNA che possono presentare un legame di parentela con un genitore, figli o fratelli.
+
+[^8b-1]: Introdotto dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^8b-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+
+#### Art. 8c
+
+**Norma particolare per la fenotipizzazione**[^8c-1]
+
+<sup>1</sup> Nell’ambito dell’analisi delle caratteristiche di cui all’articolo 2*b* capoverso 2 della legge del 20 giugno 2003[^8c-2] sui profili del DNA si può rinunciare a un’analisi di conferma. Il laboratorio consulta al riguardo la polizia.
+
+<sup>2</sup>
+
+Il rapporto del laboratorio destinato all’autorità committente deve contenere le informazioni seguenti:
+
+- a. il tipo di materiale di analisi;
+- b. il metodo utilizzato;
+- c. l’apparecchio di analisi utilizzato;
+- d. il software di analisi;
+- e. il modello predittivo.
+
+<sup>3</sup> Per il resto si applicano le direttive della Società svizzera di medicina legale (SSML) del 25 maggio 2023[^8c-3] sulla fenotipizzazione.
+
+[^8c-1]: Introdotto dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^8c-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^8c-3]: [www.sgrm.ch](http://www.sgrm.ch) &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente
+
 #### Art. 9
 
-**Conservazione e distruzione dei dati di analisi di laboratorio dei profili**
+**Conservazione e distruzione dei dati di analisi di laboratorio**[^9-1]
 
-Il laboratorio conserva per 30 anni i dati dei profili di persone e di tracce necessari per ripercorrere il processo di analisi e verificare un determinato profilo nonché per eseguire un confronto in laboratorio ai sensi dell’articolo 6*a* dell’ordinanza del 3 dicembre 2004 sui profili del DNA e, scaduto tale termine, provvede a distruggerli.
+Il laboratorio conserva per 30 anni i dati necessari per ripercorrere il processo di analisi e, scaduto tale termine, provvede a distruggerli. In relazione all’allestimento di profili di persone e di tracce, tali dati sono inoltre necessari per verificare un determinato profilo nonché per eseguire un confronto in laboratorio ai sensi dell’articolo 6*a* capoversi 1–3 dell’ordinanza del 3 dicembre 2004 sui profili del DNA.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 10
 
@@ -190,23 +249,36 @@ Il laboratorio è a disposizione delle autorità committenti da lunedì a venerd
 
 <sup>2</sup> Se nessun laboratorio riconosciuto dispone delle conoscenze necessarie per effettuare un’analisi specifica, l’incarico può essere delegato, con l’approvazione scritta del committente, a un laboratorio non riconosciuto in Svizzera o a un laboratorio all’estero. Tale delega deve essere indicata nel rapporto sui risultati dell’analisi.
 
+<sup>3</sup> In caso di delega ai sensi del capoverso 2, il laboratorio delegante deve pseudonimizzare l’incarico ed essere in grado di fornire la prova che il laboratorio incaricato dispone di un sistema di gestione della qualità che adempie i requisiti della norma ISO/IEC 17025:2017[^12-2], Requisiti generali per la competenza dei laboratori di prova e taratura. Provvede affinché l’incarico venga eseguito conformemente allo stato della scienza e della tecnica.[^12-3]
+
 [^12-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^12-2]: Questa norma corrisponde alla norma SN EN ISO/IEC 17025:2018. Entrambe le norme possono essere consultate gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Possono essere ottenute a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^12-3]: Introdotto dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 13
 
 **Controllo della qualità**
 
-<sup>1</sup> Il controllo della qualità è effettuato secondo le direttive del 1° giugno 2012[^13-1] della Società svizzera di medicina legale relative alla garanzia della qualità nelle analisi delle tracce tramite tecniche di analisi del DNA.
+<sup>1</sup> Il controllo della qualità è effettuato secondo le direttive del 7 giugno 2019[^13-1] della SSML relative alla garanzia della qualità nelle analisi delle tracce tramite tecniche di analisi del DNA.[^13-2]
 
 <sup>2</sup> I risultati del controllo della qualità devono essere documentati.
 
 <sup>3</sup> I laboratori riconosciuti sia per il settore penale sia per quello civile e amministrativo, nell’arco di un anno devono partecipare con successo a quattro prove interlaboratorio nell’ambito forense e a una prova interlaboratorio nell’ambito della filiazione e risolvere, nel quadro di una delle quattro prove nell’ambito forense, un quesito sulla filiazione. Se le quattro prove interlaboratorio nell’ambito forense non contengono un quesito sulla filiazione, nel medesimo periodo il laboratorio deve partecipare a una seconda prova interlaboratorio nell’ambito della filiazione.
 
-<sup>4</sup> L’Ufficio federale di polizia (fedpol) riconosce la partecipazione a una determinata prova interlaboratorio soltanto se questa prova ha esaminato tutte le regioni di cui all’allegato ed è stata conclusa con successo.
+<sup>4</sup> L’Ufficio federale di polizia (fedpol) riconosce la partecipazione a una determinata prova interlaboratorio nel settore penale soltanto se questa prova ha esaminato tutte le regioni di cui all’allegato 1. Due di queste prove interlaboratorio annuali devono inoltre esaminare tutti i loci di cui all’allegato 2. Le prove interlaboratorio devono essere state concluse con successo.[^13-3]
 
-<sup>5</sup> Se una prova interlaboratorio non è stata superata, il laboratorio ne informa spontaneamente fedpol nel quadro del rapporto trimestrale.
+<sup>4bis</sup> Un laboratorio che offre la fenotipizzazione deve verificare nell’arco di cinque anni, tramite prove interlaboratorio, il trattamento di tutte le procedure di analisi in materia di fenotipizzazione indicate nel campo d’applicazione dell’accreditamento. Deve partecipare ad almeno una prova interlaboratorio all’anno che copre almeno una delle caratteristiche della fenotipizzazione.[^13-4]
 
-[^13-1]: www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente
+<sup>5</sup> Il laboratorio trasmette immediatamente il risultato della prova interlaboratorio a fedpol.[^13-5]
+
+<sup>6</sup> Se la prova interlaboratorio non è stata superata, il laboratorio allestisce un rapporto all’attenzione di fedpol entro un termine congruo. Il rapporto deve contenere un’analisi delle lacune e indicare le misure che saranno adottate per colmarle ed entro quale termine.[^13-6]
+
+[^13-1]: [https://sgrm.ch](https://sgrm.ch) &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente
+[^13-2]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-3]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-4]: Introdotto dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-5]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^13-6]: Introdotto dal n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 14
 
@@ -238,7 +310,9 @@ Il laboratorio informa immediatamente l’autorità committente se un incarico d
 
 <sup>2</sup> La fatturazione è eseguita per ogni analisi effettuata indipendentemente dal risultato. La fattura indica in modo trasparente ogni prestazione effettuata.
 
-<sup>3</sup> L’Ufficio di coordinamento fattura al laboratorio i costi per le fasi di lavoro da esso eseguite conformemente all’articolo 9*a* capoverso 5 dell’ordinanza del 3 dicembre 2004 sui profili del DNA. Il laboratorio può in seguito fatturare questi costi all’autorità committente.
+<sup>3</sup> L’Ufficio di coordinamento fattura all’autorità committente o al laboratorio che ha agito su incarico di tale autorità, i costi per le fasi di lavoro da esso eseguite conformemente all’articolo 9*c* dell’ordinanza del 3 dicembre 2004 sui profili del DNA. Il laboratorio può in seguito fatturare questi costi all’autorità committente.[^17-1]
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 18
 
@@ -274,10 +348,14 @@ Il laboratorio fornisce spontaneamente a fedpol la documentazione seguente:
 
 - a. la conferma dell’avvenuta proroga dell’accreditamento concesso dal Servizio d’accreditamento svizzero e il relativo campo d’applicazione;
 - b. le modifiche dell’iscrizione al registro di commercio o dell’organizzazione amministrativa;
-- c. la conferma dell’esecuzione delle prove interlaboratorio di cui all’articolo 13 capoverso 3;
+- c.[^20-1] la conferma dell’esecuzione delle prove interlaboratorio di cui all’articolo 13 capoversi 3 e 4<sup>bis</sup>;
 - d. l’informazione sui cambiamenti in seno al personale impiegato nel processo di trattamento;
-- e. ogni tre mesi, un rapporto sul numero di campioni trattati e sulle irregolarità di cui all’articolo 18 capoverso 4;
-- f. ogni anno, il rapporto di gestione o il rapporto annuale.
+- e.[^20-2] ...
+- f.[^20-3] ogni anno, il rapporto di gestione o il rapporto annuale; il laboratorio vi indica in particolare il numero dei campioni trattati e gli eventi di cui all’articolo 18 capoverso 4.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^20-2]: Abrogata dal n. I dell’O del DFGP del 16 giu. 2023, con effetto dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+[^20-3]: Nuovo testo giusta il n. I dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 #### Art. 21
 
@@ -309,11 +387,13 @@ L’ordinanza del DFGP del 29 giugno 2005[^23-1] sulle prestazioni e le caratter
 
 La presente ordinanza entra in vigore il 1° gennaio 2015.
 
-Allegato
+Allegato 1[^t-1]
 
 (art. 1 cpv. 5)
 
-## Elenco dei loci da analizzare
+## Elenco dei loci da analizzare per il profilo del DNA standard
+
+[^t-1]: Originario allegato. Nuovo testo giusta il n. II cpv. 1 dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
 
 D3S1358
 
@@ -348,3 +428,51 @@ D12S391
 SE33
 
 Amelogenina
+
+Allegato 2[^t-2]
+
+(art. 1 cpv. 5)
+
+## Elenco dei loci da analizzare per il profilo del DNA del cromosoma Y
+
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del DFGP del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 326](https://fedlex.data.admin.ch/eli/oc/2023/326)).
+
+DYS19
+
+DYS385a/b
+
+DYS389 I
+
+DYS389 II
+
+DYS390
+
+DYS391
+
+DYS392
+
+DYS393
+
+DYS437
+
+DYS438
+
+DYS439
+
+DYS448
+
+DYS456
+
+DYS458
+
+DYS635
+
+Y-GATA-H4
+
+DYS481
+
+DYS533
+
+DYS570
+
+DYS576
