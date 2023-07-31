@@ -4,13 +4,13 @@ number: "423.120"
 title: Dekret über die Mittelschulen
 short: Mittelschuldekret
 language: de
-version: 2017-08-01
-valid_until: 2023-07-31
-version_adopted: 2016-09-13
+version: 2023-08-01
+valid_until: 2025-04-30
+version_adopted: 2021-11-09
 adopted: 2009-10-20
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.120"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2404/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3240/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2404/pdf_file"
 
 (Mittelschuldekret)
 
-Vom 20.10.2009 (Stand 01.08.2017)
+Vom 20.10.2009 (Stand 01.08.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -43,7 +43,8 @@ beschliesst:
 - d) Kantonsschule Wettingen,
 - e) Kantonsschule Wohlen,
 - f) Kantonsschule Zofingen,
-- g) Aargauische Maturitätsschule für Erwachsene.
+- g) Aargauische Maturitätsschule für Erwachsene,
+- h) Kantonsschule Stein.
 
 #### § 2
 
