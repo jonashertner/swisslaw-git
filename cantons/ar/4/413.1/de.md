@@ -4,13 +4,12 @@ number: "413.1"
 title: Gesetz über die Mittel- und Hochschulen
 short: MHG
 language: de
-version: 2015-01-01
-valid_until: 2023-07-31
-version_adopted: 2014-03-24
+version: 2023-08-01
+version_adopted: 2023-03-27
 adopted: 2014-03-24
 in_force: 2015-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/413.1"
-pdf: "https://ar.clex.ch/api/de/versions/878/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/878/pdf_file"
 
 (MHG)
 
-vom 24.03.2014 (Stand 01.01.2015)
+vom 24.03.2014 (Stand 01.08.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -74,11 +73,11 @@ beschliesst:
 
 **Bildungsgänge**
 
-<sup>1</sup> Die gymnasialen Bildungsgänge beginnen in der Regel nach dem vollendeten 8. Schuljahr, dauern vier Jahre, schliessen mit der gymnasialen Maturität ab und bereiten insbesondere auf ein Studium an einer universitären Hochschule vor.
+<sup>1</sup> Die gymnasialen Bildungsgänge beginnen in der Regel nach dem vollendeten 10. Schuljahr, dauern vier Jahre, schliessen mit der gymnasialen Maturität ab und bereiten insbesondere auf ein Studium an einer universitären Hochschule vor.
 
-<sup>2</sup> Fachmittelschulbildungsgänge beginnen in der Regel nach dem vollendeten 9. Schuljahr, dauern drei Jahre, schliessen mit dem Fachmittelschulausweis ab und bereiten auf Ausbildungen an Fachhochschulen und höheren Fachschulen vor. Anschliessend kann in einem vierten Ausbildungsjahr fakultativ die Fachmaturität erworben werden.
+<sup>2</sup> Fachmittelschulbildungsgänge beginnen in der Regel nach dem vollendeten 11. Schuljahr, dauern drei Jahre, schliessen mit dem Fachmittelschulausweis ab und bereiten auf Ausbildungen an Fachhochschulen und höheren Fachschulen vor. Anschliessend kann in einem vierten Ausbildungsjahr fakultativ die Fachmaturität erworben werden.
 
-<sup>3</sup> Werden an der kantonalen Mittelschule Brückenangebote oder Ausbildungen der beruflichen Grundbildung geführt, so beginnen diese in der Regel nach dem vollendeten 9. Schuljahr.
+<sup>3</sup> Werden an der kantonalen Mittelschule Brückenangebote oder Ausbildungen der beruflichen Grundbildung geführt, so beginnen diese in der Regel nach dem vollendeten 11. Schuljahr.
 
 ## 2. Abschnitt: Ausserkantonale und private Bildungseinrichtungen
 
