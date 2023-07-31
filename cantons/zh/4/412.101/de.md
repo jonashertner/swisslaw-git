@@ -4,11 +4,11 @@ number: "412.101"
 title: Volksschulverordnung (VSV)
 short: VSV
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2023-08-01
+version: "2023-08-01"
+nachtrag: "121"
+valid_until: 2026-08-01
 adopted: 2006-06-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_101-2006_06_28-2006_08_21-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_101-2006_06_28-2006_08_21-121.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 [^3-1]: Eingefügt durch RRB vom 5. Oktober 2011 (OS 66, 895; ABl 2011, 2886). In Kraft seit 1. Januar 2012.
 [^3-2]: LS 412.100.
@@ -113,15 +113,16 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 <sup>2</sup> Die Schülerinnen und Schüler können in höchstens drei Fächern in den Anforderungsstufen I, II und III unterrichtet werden. Die Anforderungsstufe I ist die kognitiv anspruchsvollste.
 
-<sup>3</sup> Anforderungsstufen sind in den Fächern Mathematik, Deutsch, Französisch oder Englisch möglich. Sie werden abteilungsübergreifend geführt.[^6-1]
+<sup>3</sup> Anforderungsstufen sind in den Fächern Mathematik, Deutsch, Französisch oder Englisch möglich. Sie werden in der Regel abteilungsübergreifend geführt.[^6-1]
 
 <sup>4</sup> Die Schulpflege legt in der Gemeinde einheitlich die Anzahl Abteilungen fest und regelt, ob und in welchen Fächern Anforderungsstufen geführt werden.
 
-<sup>5</sup> Mehrklassige Klassen und Klassen, in denen die Schülerinnen und Schüler aus verschiedenen Abteilungen und Anforderungsstufen gemeinsam unterrichtet werden (kombinierte Klassen), sind zulässig. Die Kombination der beiden Formen ist nicht zulässig.[^6-1]
+<sup>5</sup> Mehrklassige Klassen und Klassen, in denen die Schülerinnen und Schüler aus verschiedenen Abteilungen und Anforderungsstufen gemeinsam unterrichtet werden (kombinierte Klassen), sind zulässig. Die Kombination der beiden Formen ist nicht zulässig.[^6-2]
 
-<sup>6</sup> Der Bildungsrat kann Ausnahmen von den Regelungen gemäss Abs. 2, 3 und 5 bewilligen.[^6-1]
+<sup>6</sup> Der Bildungsrat kann Ausnahmen von den Regelungen gemäss Abs. 2, 3 und 5 bewilligen.[^6-2]
 
-[^6-1]: Fassung gemäss RRB vom 3. Dezember 2008 (OS 63, 629; ABl 2008, 2292). In Kraft seit 1. Januar 2009.
+[^6-1]: Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 557; ABl 2022-10-14). In Kraft seit 1. August 2023. 1. 7. 23 - 121 27
+[^6-2]: Fassung gemäss RRB vom 3. Dezember 2008 (OS 63, 629; ABl 2008, 2292). In Kraft seit 1. Januar 2009.
 
 ### B. Schulort und Unentgeltlichkeit
 
@@ -159,7 +160,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 - b. die Zuteilung zu einer andern Klasse am bisherigen Schulort nicht möglich oder ebenfalls unzumutbar ist und
 
@@ -239,7 +240,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Die Schulärztinnen und Schulärzte sind zusammen mit den Gemeinden für die Verhütung und Bekämpfung übertragbarer Krankheiten an Schulen zuständig. Sie sorgen für die notwendigen epidemiologischen Abklärungen und wirken bei der Durchführung von Massnahmen mit.
 
@@ -326,7 +327,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **7**
 
-- 1\. 1. 21 - 111 § 20. <sup>1</sup> Beträgt der Anteil fremdsprachiger Schülerinnen und Schüler in einer Schule mehr als 40%, legt die Gemeinde die zusätzlichen Angebote zur Sicherung der Qualität in multikulturellen Schulen (QUIMS) fest. Diese bestehen insbesondere aus folgenden Massnahmen:[^19-1]
+- 1\. 7. 23 - 121 § 20. <sup>1</sup> Beträgt der Anteil fremdsprachiger Schülerinnen und Schüler in einer Schule mehr als 40%, legt die Gemeinde die zusätzlichen Angebote zur Sicherung der Qualität in multikulturellen Schulen (QUIMS) fest. Diese bestehen insbesondere aus folgenden Massnahmen:[^19-1]
 
 **Zusätzliche Angebote, QUIMS (§ 25 VSG)**
 
@@ -411,7 +412,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **9**
 
-- 1\. 1. 21 - 111 § 28. <sup>1</sup> Bleibt eine Schülerin oder ein Schüler wegen Krankheit oder aus anderen unvorhersehbaren Gründen dem Unterricht ganz oder teilweise fern, benachrichtigen die Eltern unverzüglich die Schule.
+- 1\. 7. 23 - 121 § 28. <sup>1</sup> Bleibt eine Schülerin oder ein Schüler wegen Krankheit oder aus anderen unvorhersehbaren Gründen dem Unterricht ganz oder teilweise fern, benachrichtigen die Eltern unverzüglich die Schule.
 
 **Absenzen (§ 28 VSG)**
 
@@ -505,7 +506,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Für private Tagesstrukturen und von Gemeinden geführte Tagesstrukturen, die nicht Teil einer Tagesschule sind, gilt der Betreuungsschlüssel gemäss § 30 e VSG nur, wenn eine Betreuung im Umfang von § 30 c Abs. 2 und 3 VSG angeboten wird. Für die Berechnung des Umfangs werden nur die Angebote nach den Blockzeiten berücksichtigt.
 
@@ -597,7 +598,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **13**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 - d. die Zusammenarbeit mit den Eltern und der Schule,
 
@@ -696,7 +697,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **15**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Erscheint die Promotion gefährdet, werden die Eltern frühzeitig, spätestens nach Ablauf des ersten Schulhalbjahres, benachrichtigt.
 
@@ -774,7 +775,7 @@ Ist aufgrund der Leistung und des Entwicklungsstandes einer Schülerin oder eine
 
 **17**
 
-- 1\. 1. 21 - 111 § 45.[^42-3]
+- 1\. 7. 23 - 121 § 45.[^42-3]
 
 **Schulkonferenz (§ 45 VSG)**
 
@@ -784,7 +785,7 @@ Ist aufgrund der Leistung und des Entwicklungsstandes einer Schülerin oder eine
 
 [^42-1]: Fassung gemäss RRB vom 21. Oktober 2020 (OS 75, 568; ABl 2020-10-30). In Kraft seit 1. Januar 2021.
 [^42-2]: OS 61, 224; Begründung siehe ABl 2006, 796.
-[^42-3]: Aufgehoben durch RRB vom 21. Oktober 2020 (OS 75, 568; ABl 2020-10-30). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 27
+[^42-3]: Aufgehoben durch RRB vom 21. Oktober 2020 (OS 75, 568; ABl 2020-10-30). In Kraft seit 1. Januar 2021.
 [^42-4]: Fassung gemäss RRB vom 18. März 2015 (OS 71, 77; ABl 2015-03-27). In Kraft seit 1. August 2017.
 [^42-5]: Inkrafttreten: 20. August 2007.
 
@@ -854,7 +855,7 @@ Ist aufgrund der Leistung und des Entwicklungsstandes einer Schülerin oder eine
 
 **19**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 [^h4AbschnittQualit-1]: Inkrafttreten: 20. August 2007.
 [^h4AbschnittQualit-2]: LS 410.1.
@@ -942,7 +943,7 @@ Die Haltung der Lehrpersonen gegenüber den Schülerinnen und Schülern ist durc
 
 **21**
 
-- 1\. 1. 21 - 111 § 61. Die Lehrpersonen und die Eltern einer Schülerin oder eines Schülers informieren sich gegenseitig bei auftretenden Schwierigkeiten, aussergewöhnlichen Ereignissen oder aussergewöhnlicher Entwicklung von Leistung und Verhalten, insbesondere wenn eine wesentlich schlechtere Qualifikation im Zeugnis zu erwarten ist.
+- 1\. 7. 23 - 121 § 61. Die Lehrpersonen und die Eltern einer Schülerin oder eines Schülers informieren sich gegenseitig bei auftretenden Schwierigkeiten, aussergewöhnlichen Ereignissen oder aussergewöhnlicher Entwicklung von Leistung und Verhalten, insbesondere wenn eine wesentlich schlechtere Qualifikation im Zeugnis zu erwarten ist.
 
 #### § 62
 
@@ -1030,7 +1031,7 @@ Stehen mitwirkungspflichtige Beschlüsse oder wichtige Informationen an oder kö
 
 **23**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 - b. die Namen der Personen, die in der Schule pädagogische oder administrative Leitungsfunktionen ausüben,
 
@@ -1123,7 +1124,7 @@ Diese Verordnung tritt wie folgt in Kraft:
 
 **25**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 23 - 121
 
 ### Übergangsbestimmung zur Änderung vom 12. Juni 2019 (OS 74, 343)
 
