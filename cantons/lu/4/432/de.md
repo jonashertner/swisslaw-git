@@ -3,20 +3,20 @@ canton: LU
 number: "432"
 title: Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 language: de
-version: 2022-01-01
-valid_until: 2023-07-31
-version_adopted: 2021-11-09
+version: 2023-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-06-13
 adopted: 2006-06-06
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/432"
-pdf: "https://srl.lu.ch/api/de/versions/3845/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4130/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 
-vom 06.06.2006 (Stand 01.01.2022)
+vom 06.06.2006 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -261,7 +261,7 @@ beschliesst:
 
 **…**
 
-### 2.5 Schulische Bildungsangebot
+### 2.5 Schulische Bildungsangebote
 
 ### 2.5.1 Berufsfachschulen
 
@@ -291,13 +291,13 @@ beschliesst:
 <tr><td>1</td><td>sehr schwach</td></tr>
 </table>
 
-<sup>3</sup> Das Arbeitsverhalten und das Verhalten in der Gemeinschaft werden mit folgenden ganzen Noten beurteilt:
+<sup>3</sup> Das Arbeitsverhalten und das Verhalten in der Gemeinschaft werden je mit den Prädikaten «übertroffen», «erreicht», «teilweise erreicht» und «nicht erreicht» beurteilt. Im Arbeitsverhalten werden die Kompetenzen «eigenverantwortlich arbeiten», «eigene Fähigkeiten einschätzen» und «Methoden und Arbeitswerkzeuge effektiv einsetzen» beurteilt. Im Verhalten in der Gemeinschaft werden die Kompetenzen «aktiv mit anderen zusammenarbeiten», «konstruktiv mit Kritik umgehen» und «respektvoll mit anderen umgehen» beurteilt.
 
 <table>
 <tr><th>Note</th><th>Bedeutung</th></tr>
-<tr><td>I</td><td>gut</td></tr>
-<tr><td>II</td><td>mangelhaft</td></tr>
-<tr><td>III</td><td>ungenügend</td></tr>
+<tr><td>I</td><td>…</td></tr>
+<tr><td>II</td><td>…</td></tr>
+<tr><td>III</td><td>…</td></tr>
 </table>
 
 <sup>4</sup> Das Zeugnis wird gestützt auf die Noten und die Rückmeldungen der Fachlehrpersonen durch die Klassenlehrperson ausgestellt.
