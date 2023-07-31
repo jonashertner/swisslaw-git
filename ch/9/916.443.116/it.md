@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 25 maggio 2023 che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/253"
 language: it
-version: 2023-05-27
+version: 2023-08-01
 adopted: 2023-05-25
 in_force: 2023-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/253/20230527/it/xml/fedlex-data-admin-ch-eli-cc-2023-253-20230527-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/253/20230527/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/253/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2023-253-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/253/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 
-del 25 maggio 2023 (Stato 27 maggio 2023)
+del 25 maggio 2023 (Stato 1° agosto 2023)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -45,9 +45,11 @@ La zona di osservazione comprende tutta la Svizzera, inclusa l’enclave di Büs
 
 #### Art. 3
 
-**Zona di controllo**
+**Zona di controllo**[^3-1]
 
-L’estensione delle zone di controllo intorno alle zone di riproduzione che rappresentano un rischio per le aziende detentrici di pollame è di regola di 1 km.
+L’estensione delle zone di controllo intorno ai luoghi che rappresentano un rischio per le aziende detentrici di pollame è di regola di 1 km.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 25 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 416](https://fedlex.data.admin.ch/eli/oc/2023/416)).
 
 ## Sezione 3: Misure
 
@@ -90,4 +92,8 @@ Su ordine dell’USAV, il veterinario cantonale provvede affinché nelle zone di
 
 #### Art. 8
 
-La presente ordinanza entra in vigore il 27 maggio 2023 con effetto sino al 31 luglio 2023.
+<sup>1</sup> La presente ordinanza entra in vigore il 27 maggio 2023 con effetto sino al 31 luglio 2023.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 15 ottobre 2023.[^8-1]
+
+[^8-1]: Introdotto dal n. I dell’O dell’USAV del 25 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 416](https://fedlex.data.admin.ch/eli/oc/2023/416)).

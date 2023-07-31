@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 25. Mai 2023 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/253"
 language: de
-version: 2023-05-27
+version: 2023-08-01
 adopted: 2023-05-25
 in_force: 2023-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/253/20230527/de/xml/fedlex-data-admin-ch-eli-cc-2023-253-20230527-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/253/20230527/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/253/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2023-253-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/253/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 25. Mai 2023 (Stand am 27. Mai 2023)
+vom 25. Mai 2023 (Stand am 1. August 2023)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -45,9 +45,11 @@ Das Beobachtungsgebiet umfasst die ganze Schweiz sowie die Enklave Büsingen.
 
 #### Art. 3
 
-**Kontrollgebiet**
+**Kontrollgebiet**[^3-1]
 
-Der Umfang von Kontrollgebieten um Brutgebiete, die ein Risiko für Geflügelhaltungen darstellen, beträgt in der Regel 1 km.
+Der Umfang von Kontrollgebieten um Orte, die ein Risiko für Geflügelhaltungen darstellen, beträgt in der Regel 1 km.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 25. Juli 2023 des BLV, in Kraft seit 1. Aug. 2023 ([AS 2023 416](https://fedlex.data.admin.ch/eli/oc/2023/416)).
 
 ## 3. Abschnitt: Massnahmen
 
@@ -90,4 +92,8 @@ Auf Anordnung des BLV sorgt die Kantonstierärztin oder der Kantonstierarzt daf�
 
 #### Art. 8
 
-Diese Verordnung tritt am 27. Mai 2023 in Kraft und gilt bis zum 31. Juli 2023.
+<sup>1</sup> Diese Verordnung tritt am 27. Mai 2023 in Kraft und gilt bis zum 31. Juli 2023.
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 15. Oktober 2023 verlängert.[^8-1]
+
+[^8-1]: Eingefügt durch Ziff. I der V vom 25. Juli 2023 des BLV, in Kraft seit 1. Aug. 2023 ([AS 2023 416](https://fedlex.data.admin.ch/eli/oc/2023/416)).

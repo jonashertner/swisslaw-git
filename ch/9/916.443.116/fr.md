@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 25 mai 2023 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/253"
 language: fr
-version: 2023-05-27
+version: 2023-08-01
 adopted: 2023-05-25
 in_force: 2023-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/253/20230527/fr/xml/fedlex-data-admin-ch-eli-cc-2023-253-20230527-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/253/20230527/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/253/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2023-253-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/253/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 25 mai 2023 (État le 27 mai 2023)
+du 25 mai 2023 (État le 1<sup>er</sup> août 2023)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -45,9 +45,11 @@ La région d’observation englobe toute la Suisse et l’enclave de Büsingen.
 
 #### Art. 3
 
-**Région de contrôle**
+**Région de contrôle**[^3-1]
 
-Le rayon des régions de contrôle est en règle générale de 1 km autour des nichoirs présentant un risque pour des unités d’élevage de volailles.
+Le rayon des régions de contrôle est en règle générale de 1 km autour des lieux présentant un risque pour des unités d’élevage de volailles.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 25 juil. 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 416](https://fedlex.data.admin.ch/eli/oc/2023/416)).
 
 ## Section 3 Mesures
 
@@ -90,4 +92,8 @@ Sur ordre de l’OSAV, le vétérinaire cantonal veille à ce qu’un dépistage
 
 #### Art. 8
 
-La présente ordonnance entre en vigueur le 27 mai 2023 et a effet jusqu’au 31 juillet 2023.
+<sup>1</sup> La présente ordonnance entre en vigueur le 27 mai 2023 et a effet jusqu’au 31 juillet 2023.
+
+<sup>2</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 15 octobre 2023.[^8-1]
+
+[^8-1]: Introduit par le ch. I de l’O de l’OSAV du 25 juil. 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 416](https://fedlex.data.admin.ch/eli/oc/2023/416)).
