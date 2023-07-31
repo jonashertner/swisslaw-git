@@ -4,11 +4,11 @@ title: "Ordinanza del 14 febbraio 2007 sull'allestimento di profili del DNA in m
 short: ODCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/134"
 language: it
-version: 2022-12-01
+version: 2023-08-01
 adopted: 2007-02-14
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2007-134-20221201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2007-134-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/it"
 
 (ODCA)
 
-del 14 febbraio 2007 (Stato 1° dicembre 2022)
+del 14 febbraio 2007 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -79,14 +79,14 @@ I laboratori che vogliono allestire profili del DNA volti a determinare la filia
 - a. sono accreditati dal Servizio d’accreditamento svizzero (SAS) nel settore dei profili del DNA volti a determinare la filiazione o l’identità di una persona per uno dei campi d’applicazione di cui all’articolo 5, conformemente all’ordinanza del 17 giugno 1996[^4-1] sull’accreditamento e sulla designazione;
 - b. il responsabile del settore è in possesso del titolo richiesto giusta l’articolo 6 ed esercita la gestione effettiva e responsabile nonché la vigilanza del suo settore presso la sede del laboratorio.
 
-<sup>2</sup> La norma determinante per l’accreditamento giusta il capoverso 1 lettera a è stabilita nell’allegato 1. Il DFGP aggiorna l’allegato a seconda degli sviluppi internazionali e dei progressi della tecnica.[^4-2]
+<sup>2</sup> La norma determinante per l’accreditamento giusta il capoverso 1 lettera a è stabilita nell’allegato 1.[^4-2]
 
 <sup>3</sup> Il riconoscimento è accordato per il campo d’applicazione corrispondente a quello dell’accreditamento.
 
 <sup>4</sup> La domanda di riconoscimento è presentata a fedpol[^4-3].
 
 [^4-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^4-2]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
 [^4-3]: Nuova espr. giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 5
@@ -205,7 +205,7 @@ Il riconoscimento e il riconoscimento provvisorio possono essere vincolati a con
 <sup>3</sup> In singoli casi debitamente motivati, la determinazione della filiazione può avvenire sulla base del confronto del profilo del DNA del bambino con quello della presunta madre o del presunto padre.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
-[^12-2]: Il testo delle direttive può essere consultato all’indirizzo www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente.
+[^12-2]: Il testo delle direttive può essere consultato all’indirizzo [www.sgrm.ch](http://www.sgrm.ch) &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente.
 
 #### Art. 12a
 
@@ -354,7 +354,7 @@ Il DFGP[^18-1] revoca il riconoscimento se il laboratorio:
 
 <sup>2</sup> In caso di violazioni di lieve entità fedpol ammonisce il laboratorio.
 
-[^18-1]: Nuova espr. giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^18-1]: Nuova espressione giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 19
 
@@ -397,6 +397,16 @@ Il DFGP[^18-1] revoca il riconoscimento se il laboratorio:
 [^20-2]: [RS 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
 [^20-3]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
+## Capitolo 4*a*: Adeguamento degli allegati
+
+[^chap4a-1]
+
+[^chap4a-1]: Introdotta giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
+
+#### Art. 20a
+
+Il DFGP può adeguare gli allegati 1–3 ai più recenti sviluppi a livello internazionale o nel campo della tecnica.
+
 ## Capitolo 5: Disposizioni finali
 
 #### Art. 21
@@ -435,13 +445,13 @@ Allegato 2[^t-2]
 
 ## Norme applicabili al sistema di gestione della qualità determinanti ai fini dell’affidamento di un mandato in subappalto a un laboratorio non riconosciuto in Svizzera o a un laboratorio all’estero
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 23 set. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Aggiornato dal n. II dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
 
 - 1\. ISO/IEC 17025:2017, Requisiti generali per la competenza dei laboratori di prova e taratura[^annex2-lvlu1-1]
-- 2\. ISO 15189:2012, Laboratori medici – Requisiti riguardanti la qualità e la competenza[^annex2-lvlu1-2]
+- 2\. ISO 15189:2022, Laboratori medici – Requisiti riguardanti la qualità e la competenza[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: Questa norma corrisponde alla norma SN EN ISO/IEC 17025:2018. Entrambe le norme possono essere consultate gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Possono essere ottenute a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex2-lvlu1-2]: Questa norma corrisponde alla norma SN EN ISO 15189:2013. Entrambe le norme possono essere consultate gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Possono essere ottenute a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-2]: Questa norma corrisponde alla norma SN EN ISO 15189:2022. Entrambe le norme possono essere consultate gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Possono essere ottenute a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 Allegato 3[^t-3]
 

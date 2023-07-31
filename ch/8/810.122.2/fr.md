@@ -4,11 +4,11 @@ title: "Ordonnance du 14 février 2007 sur l'établissement de profils d'ADN en 
 short: OACA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/134"
 language: fr
-version: 2022-12-01
+version: 2023-08-01
 adopted: 2007-02-14
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-134-20221201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-134-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/fr"
 
 (OACA)
 
-du 14 février 2007 (État le 1<sup>er</sup> décembre 2022)
+du 14 février 2007 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -79,7 +79,7 @@ Les laboratoires qui veulent établir des profils d’ADN visant à déterminer 
 - a. s’ils sont accrédités par le Service d’accréditation suisse (SAS) dans le domaine des profils d’ADN visant à déterminer la filiation ou l’identité d’une personne et dans l’un des champs d’application prévus par l’art. 5, conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^4-2];
 - b. si le responsable du domaine possède le titre exigé par l’art. 6 et s’il exerce la gestion effective et la surveillance de son domaine au siège du laboratoire.
 
-<sup>2</sup> La norme applicable à l’accréditation prévue à l’al. 1, let. a, est réglée dans l’annexe 1. Le DFJP met à jour l’annexe afin de l’adapter aux évolutions internationales et aux progrès techniques.[^4-3]
+<sup>2</sup> La norme applicable à l’accréditation prévue à l’al. 1, let. a, est réglée dans l’annexe 1.[^4-3]
 
 <sup>3</sup> La reconnaissance est octroyée pour le champ d’application correspondant à celui de l’accréditation.
 
@@ -87,7 +87,7 @@ Les laboratoires qui veulent établir des profils d’ADN visant à déterminer 
 
 [^4-1]: Nouvelle expression selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
 [^4-4]: Nouvelle expression selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
@@ -206,7 +206,7 @@ La reconnaissance et la reconnaissance provisoire peuvent être assorties de con
 <sup>3</sup> Dans des cas particuliers dûment motivés, la filiation peut être déterminée sur la base de la comparaison du profil d’ADN de l’enfant avec celui de la mère présumée ou du père présumé.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
-[^12-2]: Le texte des recommandations peut être consulté gratuitement sur le site de la SSML à l’adresse suivante: www.sgrm.ch &gt; Génétique forensique &gt; La section Génétique forensique.
+[^12-2]: Le texte des recommandations peut être consulté gratuitement sur le site de la SSML à l’adresse suivante: [www.sgrm.ch](http://www.sgrm.ch) &gt; Génétique forensique &gt; La section Génétique forensique.
 
 #### Art. 12a
 
@@ -398,6 +398,16 @@ Le DFJP[^18-1] retire la reconnaissance si le laboratoire:
 [^20-2]: [RS 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
 [^20-3]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
+## Chapitre 4*a* Adaptation des annexes
+
+[^chap4a-1]
+
+[^chap4a-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
+
+#### Art. 20a
+
+Le DFJP peut adapter les annexes 1 à 3 en fonction des développements internationaux ou techniques.
+
 ## Chapitre 5 Dispositions finales
 
 #### Art. 21
@@ -430,7 +440,7 @@ Annexe 1[^t-1]
 
 SN EN ISO/IEC 17025:2018, Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais[^annex1-lvlu1-1]
 
-[^annex1-lvlu1-1]: Cette norme peut être consultée gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV) mentionnés à l’adresse www.snv.ch. Elle peut aussi être obtenue auprès de la SNV, Sulzerallee 70, 8404 Winterthour.
+[^annex1-lvlu1-1]: Cette norme peut être consultée gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV) mentionnés à l’adresse [www.snv.ch](http://www.snv.ch). Elle peut aussi être obtenue auprès de la SNV, Sulzerallee 70, 8404 Winterthour.
 
 Annexe 2[^t-2]
 
@@ -438,13 +448,13 @@ Annexe 2[^t-2]
 
 ## Normes applicables au système de gestion de la qualité lors de l’octroi d’un mandat en sous-traitance à un laboratoire non reconnu en Suisse ou à un laboratoire à l’étranger
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 23 sept. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Mise à jour par le ch. II de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
 
 - 1\. ISO/IEC 17025:2017, Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais[^annex2-lvlu1-1]
-- 2\. ISO 15189:2012, Laboratoires de biologie médicale – Exigences concernant la qualité et la compétence[^annex2-lvlu1-2]
+- 2\. ISO 15189:2022, Laboratoires médicaux – Exigences concernant la qualité et la compétence[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: Cette norme correspond à la norme SN EN ISO/IEC 17025:2018. Les deux normes peuvent être consultées gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV) mentionnés à l’adresse www.snv.ch. Elles peuvent être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour.
-[^annex2-lvlu1-2]: Cette norme correspond à la norme SN EN ISO 15189:2013. Les deux normes peuvent être consultées gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV) mentionnés à l’adresse www.snv.ch. Elles peuvent être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour.
+[^annex2-lvlu1-1]: Cette norme correspond à la norme SN EN ISO/IEC 17025:2018. Les deux normes peuvent être consultées gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV) mentionnés à l’adresse [www.snv.ch](http://www.snv.ch). Elles peuvent être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour.
+[^annex2-lvlu1-2]: Cette norme correspond à la norme SN EN ISO 15189:2022. Ces deux normes peuvent être consultées gratuitement auprès de l’un des quatre sites de l’Association suisse de normalisation (SNV). Elles peuvent être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 Annexe 3[^t-3]
 

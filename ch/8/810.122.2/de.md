@@ -4,11 +4,11 @@ title: Verordnung vom 14. Februar 2007 über die Erstellung von DNA-Profilen im 
 short: VDZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/134"
 language: de
-version: 2022-12-01
+version: 2023-08-01
 adopted: 2007-02-14
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2007-134-20221201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2007-134-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/de"
 
 (VDZV)
 
-vom 14. Februar 2007 (Stand am 1. Dezember 2022)
+vom 14. Februar 2007 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -79,14 +79,14 @@ Ein Laboratorium, das DNA-Profile zur Klärung der Abstammung oder zur Identifiz
 - a. es von der Schweizerischen Akkreditierungsstelle (SAS) gemäss der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^4-1] auf dem Gebiet der DNA-Profile zur Klärung der Abstammung oder zur Identifizierung für einen der Geltungsbereiche nach Artikel 5 akkreditiert ist; und
 - b. die verantwortliche Fachbereichsleiterin oder der verantwortliche Fachbereichsleiter über die nach Artikel 6 erforderliche Ausbildung verfügt und die Aufsicht am Sitz des Laboratoriums tatsächlich und verantwortlich ausübt.
 
-<sup>2</sup> Die für die Akkreditierung nach Absatz 1 Buchstabe a massgebende Norm ist in Anhang 1 festgelegt. Das EJPD führt den Anhang entsprechend der internationalen und der technischen Entwicklung nach.[^4-2]
+<sup>2</sup> Die für die Akkreditierung nach Absatz 1 Buchstabe a massgebende Norm ist in Anhang 1 festgelegt.[^4-2]
 
 <sup>3</sup> Die Anerkennung wird entsprechend dem Geltungsbereich der Akkreditierung erteilt.
 
 <sup>4</sup> Das Anerkennungsgesuch ist bei fedpol[^4-3] einzureichen.
 
 [^4-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^4-2]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
 [^4-3]: Ausdruck gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 5
@@ -205,7 +205,7 @@ Die Anerkennung und die provisorische Anerkennung von Laboratorien können mit B
 <sup>3</sup> In begründeten Einzelfällen kann die Klärung der Abstammung auf der Grundlage des Vergleichs des DNA-Profils des Kindes mit demjenigen der mutmasslichen Mutter oder des mutmasslichen Vaters erfolgen.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
-[^12-2]: Der Text der Richtlinie ist abrufbar unter: www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion.
+[^12-2]: Der Text der Richtlinie ist abrufbar unter: [www.sgrm.ch](https://www.sgrm.ch) &gt; Forensische Genetik &gt; Über die Sektion.
 
 #### Art. 12a
 
@@ -397,6 +397,16 @@ Das EJPD[^18-1] entzieht einem Laboratorium die Anerkennung, wenn dieses:
 [^20-2]: [SR 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
 [^20-3]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
+## 4*a*. Kapitel: Nachführung der Anhänge
+
+[^chap4a-1]
+
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
+
+#### Art. 20a
+
+Das EJPD kann die Anhänge 1–3 entsprechend der internationalen oder technischen Entwicklung nachführen.
+
 ## 5. Kapitel: Schlussbestimmungen
 
 #### Art. 21
@@ -429,7 +439,7 @@ Anhang 1[^t-1]
 
 SN EN ISO/IEC 17025:2018, Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien[^annex1-lvlu1-1]
 
-[^annex1-lvlu1-1]: Der Text dieser Norm kann kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Er kann gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex1-lvlu1-1]: Der Text dieser Norm kann kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Er kann gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 
 Anhang 2[^t-2]
 
@@ -437,14 +447,13 @@ Anhang 2[^t-2]
 
 ## Massgebende Normen für das Qualitätsmanagementsystem bei der Erteilung eines Unterauftrags an ein nicht anerkanntes Laboratorium im Inland oder an ein Laboratorium im Ausland
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 23. Sept. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Fassung gemäss Ziff. II der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 328](https://fedlex.data.admin.ch/eli/oc/2023/328)).
 
 - 1\. ISO/IEC 17025:2017, Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien[^annex2-lvlu1-1]
-- 2\. ISO 15189:2012, Medizinische Laboratorien – Anforderungen an die Qualität und Kompetenz[^annex2-lvlu1-2]
-- [tab]
+- 2\. ISO 15189:2022, Medizinische Laboratorien – Anforderungen an die Qualität und Kompetenz[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: Diese Norm entspricht der Norm SN EN ISO/IEC 17025:2018. Beide Normen können kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex2-lvlu1-2]: Diese Norm entspricht der Norm SN EN ISO 15189:2013. Beide Normen können kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-1]: Diese Norm entspricht der Norm SN EN ISO/IEC 17025:2018. Beide Normen können kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
+[^annex2-lvlu1-2]: Diese Norm entspricht der Norm SN EN ISO 15189:2022. Beide Normen können kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 
 Anhang 3[^t-3]
 
