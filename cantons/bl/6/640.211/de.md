@@ -3,20 +3,20 @@ canton: BL
 number: "640.211"
 title: Reglement über die Leistungsbeurteilung an der Volksschule des Kantons Basel-Landschaft
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-03-26
+version: 2023-08-01
+valid_until: 2025-07-31
+version_adopted: 2023-08-22
 adopted: 2022-03-26
 in_force: 2022-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.211"
-pdf: "https://bl.clex.ch/api/de/versions/3377/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3713/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Leistungsbeurteilung an der Volksschule des Kantons Basel-Landschaft
 
-Vom 26.03.2022 (Stand 01.08.2022)
+Vom 26.03.2022 (Stand 01.08.2023)
 
 Die Bildungs-, Kultur- und Sportdirektion,
 
@@ -36,15 +36,29 @@ beschliesst auf Antrag des Amts für Volksschulen:
 
 **Grundsätze**
 
-<sup>1</sup> Die Leistungsbeurteilung der Schülerinnen und Schüler ist Teil des Berufsauftrags der Lehrerinnen und Lehrer.
+<sup>1</sup> Die formative und summative Leistungsbeurteilung der Schülerinnen und Schüler ist Teil des Berufsauftrags der Lehrerinnen und Lehrer.
 
-<sup>2</sup> Die Lehrerinnen und Lehrer haben ihre Bewertungen zu verantworten und müssen sie belegen können. Im Rekursfall hat die Schülerin oder der Schüler die entsprechenden Originale beizubringen, sofern sie sich nicht bei der Lehrperson befinden.
+<sup>2</sup> Die Lehrerinnen und Lehrer haben ihre Bewertungen zu verantworten und müssen sie belegen können. Im Fall einer Beschwerde hat die Schülerin oder der Schüler die entsprechenden Originale beizubringen, sofern sie sich nicht bei der Lehrperson befinden.
 
 <sup>3</sup> Die Lehrerinnen und Lehrer haben bei Leistungserhebungen eine repräsentative Auswahl des behandelten Stoffes zu berücksichtigen und deren Schwierigkeitsgrad gemäss den vorbereitenden Übungen im Unterricht entsprechend zu gestalten.
 
 <sup>4</sup> Sie verständigen sich innerhalb der Schule im Rahmen der Lehrpläne über Lernziele, Leistungsanforderungen und die damit verbundenen Aspekte der Beurteilung und nehmen ihre Verantwortung für die Förderung und Bewertung der Schülerinnen und Schüler wahr.
 
-<sup>5</sup> Sie geben die Rahmenbedingungen für die Bewertung der Leistungserhebungen rechtzeitig bekannt.
+<sup>5</sup> Sie geben den Schülerinnen und Schülern die Rahmenbedingungen für die Beurteilung der Leistungserhebungen zu Beginn der Beurteilungsperiode bekannt.
+
+<sup>6</sup> Die Beurteilung muss transparent sein.
+
+<sup>7</sup> Bei Beurteilung mit Prädikaten werden die Schülerinnen und Schüler über die folgenden Rahmenbedingungen informiert:
+
+- a. Kriterien, die der Beurteilung zu Grunde liegen («worauf kommt es an»);
+- b. Bereiche, die für das Zeugnisprädikat berücksichtigt werden.
+
+<sup>8</sup> Bei Beurteilung mit Noten werden die Schülerinnen und Schüler über folgende Rahmenbedingungen informiert:
+
+- a. Kriterien, die der Beurteilung zu Grunde liegen («worauf kommt es an»);
+- b. Gewichtung der einzelnen Noten in jedem Fach;
+- c. Bereiche, die für die Zeugnisnote mitberücksichtigt werden;
+- d. das Verfahren zur Errechnung der Zeugnisnote.
 
 #### § 3
 
@@ -52,11 +66,13 @@ beschliesst auf Antrag des Amts für Volksschulen:
 
 <sup>1</sup> Bewertet werden überprüfbare Leistungen, insbesondere Wissen, Fähigkeiten und Fertigkeiten.
 
-<sup>2</sup> Einsatz und Arbeitshaltung werden nicht bewertet.
+<sup>2</sup> Einsatz und Arbeitshaltung werden bei der Leistungsbeurteilung nicht bewertet, sie fliessen in die Gesamtbeurteilung ein.
 
-<sup>3</sup> Der Durchschnitt aller Noten von Leistungserhebungen wird für die Zeugnisnote auf die nächste halbe Note gerundet; ergibt sich eine Viertelsnote, so ist die Zeugnisnote aufzurunden.
+<sup>2<sup>bis</sup></sup> Disziplinarnoten sind nicht zulässig.
 
-<sup>4</sup> Bei der Bewertung mit Prädikaten wird im Zeugnis der aktuelle Kompetenzstand am Ende der Beurteilungsperiode abgebildet.
+<sup>3</sup> …
+
+<sup>4</sup> …
 
 #### § 4
 
@@ -66,7 +82,12 @@ beschliesst auf Antrag des Amts für Volksschulen:
 
 - a. schriftliche Arbeiten;
 - b. praktische und gestalterische Arbeiten;
-- c. mündliche Prüfungen und Leistungen sowie Referate.
+- c. mündliche Prüfungen und Leistungen sowie Referate;
+- d. mündliche und praktische Beiträge.
+
+<sup>1<sup>bis</sup></sup> Die verschiedenen Arten von Leistungserhebungen sind gleichwertig und grundsätzlich in allen Fächern zulässig.
+
+<sup>1<sup>ter</sup></sup> Die Bewertung einer repräsentativen Anzahl von mündlichen Leistungen ist in den Sprachen obligatorisch, für die anderen Fächer freiwillig. Die Dauer des Beobachtungszeitraums, die Bewertungskriterien und Form und Zeitpunkt der Rückmeldung und Bewertung sind den Schülerinnen und Schülern zu Beginn der Beurteilungsperiode bekanntzugeben.
 
 <sup>2</sup> Es bestehen folgende Durchführungsformen von Leistungserhebungen:
 
@@ -96,15 +117,25 @@ beschliesst auf Antrag des Amts für Volksschulen:
 
 #### § 6
 
-**Rahmenbedingungen der Leistungserhebungen und der Bewertung**
+**Anzahl Leistungserhebungen**
 
-<sup>1</sup> Bei Jahrespromotionen in der Primarschule sowie in der 1. und 2. Klasse der Sekundarschule entspricht die Mindestanzahl an ganzzählenden Einzelbewertungen in einem Fach der Anzahl Wochenlektionen plus 2. Ausnahmen beschliesst die Schulleitung.
+<sup>1</sup> Den Jahrespromotionen in der Primarschule entspricht die Mindestanzahl an ganzzählenden Leistungserhebungen der Anzahl Wochenlektionen. Ausnahmen beschliesst die Schulleitung.
 
-<sup>2</sup> Im Zeugnis des 1. Semesters der 3. Klasse der Sekundarschule entspricht die Mindestanzahl an ganzzählenden Einzelbewertungen in Fächern mit 2 Wochenlektionen der Anzahl 2. In den anderen Fächern ist die Mindestanzahl an ganzzählenden Einzelbewertungen 3. Ausnahmen beschliesst die Schulleitung.
+<sup>1<sup>bis</sup></sup> Bei den Jahrespromotionen in der 1. und 2. Klasse der Sekundarschule entspricht die Mindestanzahl an ganzzählenden Leistungserhebungen in einem Fach der Anzahl Wochenlektionen plus 2. Ausnahmen beschliesst die Schulleitung.
 
-<sup>3</sup> Im Zeugnis des 2. Semesters der 3. Klasse der Sekundarschule wird Abs. 1 angewendet, wobei die Leistungsbewertungen der beiden Semester möglichst in gleichen Teilen in die Zeugnisnote einfliessen sollen.
+<sup>2</sup> Im Zeugnis des 1. Semesters der 3. Klasse der Sekundarschule entspricht die Mindestanzahl an ganzzählenden Leistungserhebungen in Fächern mit 2 Wochenlektionen der Anzahl 2. In den anderen Fächern ist die Mindestanzahl an ganzzählenden Leistungserhebungen 3. Ausnahmen beschliesst die Schulleitung.
 
-<sup>4</sup> Die Bewertung von mündlichen Leistungen ist in den Sprachen obligatorisch, für die anderen Fächer freiwillig. Die Dauer des Beobachtungszeitraums, die Bewertungskriterien und Form und Zeitpunkt der Rückmeldung und Bewertung sind den Schülerinnen und Schülern zu Beginn der Beurteilungsperiode bekanntzugeben.
+<sup>3</sup> Im Zeugnis des 2. Semesters der 3. Klasse der Sekundarschule wird Abs. 1<sup>bis</sup> angewendet, wobei die Leistungsbeurteilungen der beiden Semester möglichst in gleichen Teilen in die Zeugnisnote einfliessen sollen.
+
+<sup>4</sup> …
+
+#### § 6a
+
+**Verfahren zur Bestimmung der Zeugnisprädikate und zur Errechnung der Zeugnisnoten**
+
+<sup>1</sup> Zeugnisprädikate geben den Kompetenzstand der Schülerinnen und Schüler am Ende der Beurteilungsperiode zusammenfassend wieder.
+
+<sup>2</sup> Der Durchschnitt aller Noten von Leistungserhebungen wird für die Zeugnisnote auf die nächste halbe Note gerundet; ergibt sich eine Viertelnote, so ist die Zeugnisnote aufzurunden.
 
 #### § 7
 
@@ -116,15 +147,13 @@ beschliesst auf Antrag des Amts für Volksschulen:
 
 #### § 8
 
-**Unredliches Verhalten anlässlich einer Leistungserhebung**
-
-<sup>1</sup> Unredliches Verhalten in einer Prüfung kann mit einem Abzug in der Bewertung oder mit dem Einziehen und der Wiederholung der Prüfung geahndet werden. Die Lehrperson entscheidet über die Höhe des Abzugs je nach Schwere des Falls.
+**…**
 
 #### § 9
 
 **Zeugnisabgabe**
 
-<sup>1</sup> Die Zeugnisse werden in der Regel 1 Woche nach Notenschluss, jedoch spätestens am Ende der zweitletzten Woche vor Ende der Beurteilungsperiode, abgegeben. Im 2. Semester der 3. Klasse der Sekundarschule wird lediglich eine Kopie ausgehändigt. Ausnahmen beschliesst die Schulleitung.
+<sup>1</sup> Die Zeugnisse werden in der Regel 1 Woche nach Notenschluss, jedoch spätestens am Ende der zweitletzten Woche vor Ende der Beurteilungsperiode (Semester oder Schuljahr), abgegeben. Im 2. Semester der 3. Klasse der Sekundarschule wird lediglich eine Kopie ausgehändigt. Ausnahmen beschliesst die Schulleitung.
 
 <sup>2</sup> Das Zeugnis bzw. die Kopie des Zeugnisses ist innert Wochenfrist unterzeichnet zurückzugeben. Ausnahmen beschliesst die Klassenlehrperson.
 
