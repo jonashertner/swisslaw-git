@@ -4,11 +4,11 @@ title: Ordinanza del 24 giugno 2009 sul Servizio di trasporto aereo della Confed
 short: O-STAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/420"
 language: it
-version: 2019-01-01
+version: 2023-08-01
 adopted: 2009-06-24
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/420/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2009-420-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/420/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/420/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2009-420-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/420/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/420/20190101/it"
 
 (O-STAC)
 
-del 24 giugno 2009 (Stato 1° gennaio 2019)
+del 24 giugno 2009 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -51,17 +51,19 @@ Delle prestazioni dello STAC possono beneficiare le persone seguenti:
 - a. i membri del Consiglio federale;
 - b. il cancelliere della Confederazione;
 - c. i presidenti del Consiglio nazionale e del Consiglio degli Stati;
-- d. il presidente del Tribunale federale;
-- e.[^2-1] gli ospiti di Stato invitati dal Consiglio federale nonché i mandatari, gli ospiti e le delegazioni svizzeri e stranieri designati caso per caso dal Consiglio federale o dall’Assemblea federale;
-- f.[^2-2] i segretari di Stato.
+- d.[^2-1] il presidente del Tribunale federale, il presidente del Tribunale penale federale e il presidente del Tribunale amministrativo federale
+- e.[^2-2] gli ospiti di Stato invitati dal Consiglio federale nonché i mandatari, gli ospiti e le delegazioni svizzeri e stranieri designati caso per caso dal Consiglio federale o dall’Assemblea federale;
+- f.[^2-3] i segretari di Stato;
+- g.[^2-4] il procuratore generale della Confederazione.
 
 <sup>2</sup>
 
 Altre persone possono beneficiare delle prestazioni dello STAC sulla base di un’autorizzazione scritta. Sono competenti per l’autorizzazione:
 
 - a. i Dipartimenti e la Cancelleria federale, per i collaboratori che sono loro subordinati o attribuiti nonché per i mandatari, gli ospiti o le delegazioni svizzere e straniere da essi designati caso per caso;
-- b.[^2-3] l’Assemblea federale, per i membri del Consiglio nazionale e del Consiglio degli Stati nonché per i collaboratori dei Servizi del Parlamento;
-- c. il Tribunale federale, per i propri membri.
+- b.[^2-5] l’Assemblea federale, per i membri del Consiglio nazionale e del Consiglio degli Stati nonché per i collaboratori dei Servizi del Parlamento;
+- c.[^2-6] il Tribunale federale, il Tribunale penale federale e il Tribunale amministrativo federale, per i propri membri;
+- d.[^2-7] il Ministero pubblico della Confederazione, per i collaboratori che gli sono subordinati o attribuiti.
 
 <sup>3</sup> L’organo competente rilascia l’autorizzazione sulla base dell’offerta di trasporto.
 
@@ -71,9 +73,13 @@ Altre persone possono beneficiare delle prestazioni dello STAC sulla base di un�
 
 <sup>6</sup> Se per motivi di servizio o protocollari è necessario un accompagnamento, la persona autorizzata può far beneficiare delle prestazioni dello STAC anche la persona che l’accompagna. L’accompagnamento di persone di cui al capoverso 2 è disciplinato nell’autorizzazione.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 21 apr. 2010, in vigore dal 1° mag. 2010 ([RU 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
-[^2-2]: Introdotta dal n. I dell’O del 28 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3351](https://fedlex.data.admin.ch/eli/oc/2018/544)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 21 apr. 2010, in vigore dal 1° mag. 2010 ([RU 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 21 apr. 2010, in vigore dal 1° mag. 2010 ([RU 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
+[^2-3]: Introdotta dal n. I dell’O del 28 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3351](https://fedlex.data.admin.ch/eli/oc/2018/544)).
+[^2-4]: Introdotta dal n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
+[^2-5]: Nuovo testo giusta il n. I dell’O del 21 apr. 2010, in vigore dal 1° mag. 2010 ([RU 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
+[^2-6]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
+[^2-7]: Introdotta dal n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
 
 #### Art. 3
 

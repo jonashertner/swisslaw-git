@@ -4,11 +4,11 @@ title: Verordnung vom 24. Juni 2009 über den Lufttransportdienst des Bundes (V-
 short: V-LTDB
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/420"
 language: de
-version: 2019-01-01
+version: 2023-08-01
 adopted: 2009-06-24
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/420/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2009-420-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/420/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/420/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2009-420-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/420/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/420/20190101/de"
 
 (V-LTDB)
 
-vom 24. Juni 2009 (Stand am 1. Januar 2019)
+vom 24. Juni 2009 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -51,17 +51,19 @@ Folgende Personen können die Dienstleistungen des LTDB beanspruchen:
 - a. die Mitglieder des Bundesrats;
 - b. die Bundeskanzlerin oder der Bundeskanzler;
 - c. die Präsidentin oder der Präsident des Nationalrates und die Präsidentin oder der Präsident des Ständerates;
-- d. die Präsidentin oder der Präsident des Bundesgerichts;
-- e.[^2-1] die vom Bundesrat eingeladenen Staatsgäste sowie die von ihm oder der Bundesversammlung im Einzelfall bezeichneten in- und ausländischen Mandatsträger, Gäste und Delegationen;
-- f.[^2-2] die Staatssekretärinnen und Staatssekretäre.
+- d.[^2-1] die Präsidentin oder der Präsident des Bundesgerichts, die Präsidentin oder der Präsident des Bundesstrafgerichts und die Präsidentin oder der Präsident des Bundesverwaltungsgerichts;
+- e.[^2-2] die vom Bundesrat eingeladenen Staatsgäste sowie die von ihm oder der Bundesversammlung im Einzelfall bezeichneten in- und ausländischen Mandatsträger, Gäste und Delegationen;
+- f.[^2-3] die Staatssekretärinnen und Staatssekretäre;
+- g.[^2-4] die Bundesanwältin oder der Bundesanwalt.
 
 <sup>2</sup>
 
 Weitere Personen können mit schriftlicher Bewilligung die Dienstleistungen des LTDB beanspruchen. Zuständig für die Bewilligung sind:
 
 - a. jedes Departement sowie die Bundeskanzlei für die ihm oder ihr unterstellten oder zugeordneten Mitarbeiterinnen und Mitarbeiter sowie für die von ihm oder ihr im Einzelfall bezeichneten in- und ausländischen Mandatsträger, Gäste oder Delegationen;
-- b.[^2-3] die Bundesversammlung für Mitglieder des National- und des Ständerates sowie für Mitarbeiterinnen und Mitarbeiter der Parlamentsdienste;
-- c. das Bundesgericht für seine Mitglieder.
+- b.[^2-5] die Bundesversammlung für Mitglieder des National- und des Ständerates sowie für Mitarbeiterinnen und Mitarbeiter der Parlamentsdienste;
+- c.[^2-6] das Bundesgericht, das Bundesstrafgericht und das Bundesverwaltungsgericht für ihre Mitglieder;
+- d.[^2-7] die Bundesanwaltschaft für die ihr unterstellten oder zugeordneten Mitarbeiterinnen und Mitarbeiter.
 
 <sup>3</sup> Die zuständige Stelle erteilt die Bewilligung nach Vorliegen des Transportangebots.
 
@@ -71,9 +73,13 @@ Weitere Personen können mit schriftlicher Bewilligung die Dienstleistungen des 
 
 <sup>6</sup> Ist aus dienstlichen oder protokollarischen Gründen eine Begleitung erforderlich, so kann die berechtigte Person auch für ihre Begleitperson Dienstleistungen des LTDB beanspruchen. Die Begleitung von Personen nach Absatz 2 wird in der Bewilligung geregelt.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 21. April 2010, in Kraft seit 1. Mai 2010 ([AS 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
-[^2-2]: Eingefügt durch Ziff. I der V vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3351](https://fedlex.data.admin.ch/eli/oc/2018/544)).
-[^2-3]: Fassung gemäss Ziff. I der V vom 21. April 2010, in Kraft seit 1. Mai 2010 ([AS 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 21. April 2010, in Kraft seit 1. Mai 2010 ([AS 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3351](https://fedlex.data.admin.ch/eli/oc/2018/544)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
+[^2-5]: Fassung gemäss Ziff. I der V vom 21. April 2010, in Kraft seit 1. Mai 2010 ([AS 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
+[^2-6]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
+[^2-7]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 324](https://fedlex.data.admin.ch/eli/oc/2023/324)).
 
 #### Art. 3
 
