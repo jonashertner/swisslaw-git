@@ -1,22 +1,21 @@
 ---
 canton: SO
 number: "413.614"
-title: Verordnung über die Gemeindebeiträge an die Kosten der progymnasialen und gymnasialen Ausbildung während der obligatorischen Schulzeit
+title: Verordnung über die Gemeindebeiträge an die Kosten der gymnasialen Ausbildung während der obligatorischen Schulzeit
 language: de
-version: 2016-01-01
-valid_until: 2023-07-31
-version_adopted: 2014-12-16
+version: 2023-08-01
+version_adopted: 2022-09-05
 adopted: 2006-06-06
 in_force: 2007-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/413.614"
-pdf: "https://bgs.so.ch/api/de/versions/4449/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Gemeindebeiträge an die Kosten der progymnasialen und gymnasialen Ausbildung während der obligatorischen Schulzeit
+# Verordnung über die Gemeindebeiträge an die Kosten der gymnasialen Ausbildung während der obligatorischen Schulzeit
 
-Vom 06.06.2006 (Stand 01.01.2016)
+Vom 06.06.2006 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -39,26 +38,24 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Gemeindebeiträge sind an die Kosten für den gymnasialen Unterricht während der obligatorischen Schulzeit an folgenden Schulen zu leisten:
+<sup>1</sup> Gemeindebeiträge sind an die Kosten für den gymnasialen Unterricht während der obligatorischen Schulzeit für das 11. Schuljahr an den Kantonsschulen Olten und Solothurn zu leisten.
 
-- a) für das 11. Schuljahr an den Kantonsschulen Olten und Solothurn;
+- a) …
 - b) …
 
-<sup>2</sup> Bei der Verrechnung durch innerkantonale Schulträger gilt das Nettoprinzip.
+<sup>2</sup> …
 
 #### § 3
 
 **Nettobeitrag der einzelnen Gemeinden**
 
-<sup>1</sup> Der Nettobeitrag der einzelnen Gemeinde errechnet sich nach der Formel: Massgebende Schülerzahl der Gemeinde multipliziert mit dem Schulgeldansatz multipliziert mit dem gemäss § 47<sup>bis</sup> des Volksschulgesetzes vom 30. November 2014[^3-1] festgelegten Beitragsprozentsatz.
-
-[^3-1]: BGS [413.111](https://bgs.so.ch/data/413.111/de).
+<sup>1</sup> Der Nettobeitrag der einzelnen Gemeinde errechnet sich nach der folgenden Formel: Schülerzahl multipliziert mit dem Schulgeldansatz abzüglich Kantonsbeitrag.
 
 #### § 4
 
 **Massgebende Schülerzahl der Gemeinde**
 
-<sup>1</sup> Stichdaten für die Ermittlung der Schüler und Schülerinnen, welche den Unterricht nach § 2 besuchen, sind der 15. November und der 15. Mai.
+<sup>1</sup> Stichtag für die Ermittlung der Schüler und Schülerinnen, welche den Unterricht nach § 2 besuchen, ist der 15. November.
 
 #### § 5
 
@@ -72,17 +69,17 @@ beschliesst:
 
 **Staatsbeitrag**
 
-<sup>1</sup> Der Kanton trägt den gemäss § 47<sup>bis</sup> des Volksschulgesetzes vom 14. September 1969[^6-1] festgelegten Kostenanteil des Schulgeldes.
+<sup>1</sup> Der Kanton trägt den gemäss dem Gesetz über den Finanz- und Lastenausgleich der Einwohnergemeinden (Finanz- und Lastenausgleichsgesetz, FILAG EG) vom 30. November 2014[^6-1] festgelegten Kostenanteil (Beitragsprozentsatz) des Schulgeldes.
 
-[^6-1]: BGS [413.111](https://bgs.so.ch/data/413.111/de).
+[^6-1]: BGS [131.73](https://bgs.so.ch/data/131.73/de).
 
 #### § 7
 
 **Berechnungsperiode und Verrechnung**
 
-<sup>1</sup> Die Berechnung der Nettobeiträge erfolgt pro Kalenderjahr.
+<sup>1</sup> Die Berechnung der Nettobeiträge erfolgt pro Schuljahr.
 
-<sup>2</sup> Die Abrechnung erfolgt für das laufende Kalenderjahr im vierten Quartal basierend auf dem abgeschlossenen Schuljahr.
+<sup>2</sup> Die Abrechnung erfolgt für das laufende Schuljahr bis Ende Juni.
 
 ## 2. Übergangs- und Schlussbestimmungen
 
