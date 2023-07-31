@@ -4,13 +4,13 @@ number: VI E/22/7
 title: Verordnung über die Wildruhezonen
 short: "Wildruhezonenverordnung, WrZV"
 language: de
-version: 2021-10-01
-valid_until: 2023-07-31
-version_adopted: 2021-04-27
+version: 2023-08-01
+valid_until: 2024-08-31
+version_adopted: 2023-07-06
 adopted: 2016-10-25
 in_force: 2017-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.22.7"
-pdf: "https://gesetze.gl.ch/api/de/versions/2234/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2234/pdf_file"
 
 (Wildruhezonenverordnung, WrZV)
 
-Vom 25.10.2016 (Stand 01.10.2021)
+Vom 25.10.2016 (Stand 01.08.2023)
 
 Der Regierungsrat,
 
@@ -72,7 +72,7 @@ erlässt:
 <table>
 <tr><th>Wildruhezonen</th><th>Zeitraum</th></tr>
 <tr><td>1–9</td><td>21. Dezember bis 31. März</td></tr>
-<tr><td>10–17</td><td>21. Dezember bis 30. April</td></tr>
+<tr><td>10–17, 33</td><td>21. Dezember bis 30. April</td></tr>
 <tr><td>18–27</td><td>21. Dezember bis 30. Juni</td></tr>
 <tr><td>28, 29</td><td>1. April bis 30. Juni</td></tr>
 <tr><td>30–32</td><td>1. September bis 31. Oktober</td></tr>
@@ -101,7 +101,7 @@ erlässt:
 - a. Leinenpflicht für Hunde, ausgenommen Lawinen- und Rettungshunde, Herdenschutzhunde, Treibhunde, Polizeihunde und Schweisshunde während ihres Arbeitseinsatzes;
 - b. Jagdverbot inklusive Pass- und Fallenjagd;
 - c. Verbot des Betretens mit Hängegleitern, Fallschirmen oder ähnlichen Fluggeräten;
-- d. Verbot des Startens, Landens und Überfliegens mit unbemannten Fluggeräten bis 30 Kilogramm;
+- d. Verbot des Startens, Landens und Überfliegens mit unbemannten Fluggeräten bis 30 Kilogramm, vorbehalten sind polizeiliche Einsätze sowie Einsätze zu Rettungszwecken;
 - e. Verbot von Anlässen und Veranstaltungen;
 - f. Verbot des Suchens von Abwurfstangen.
 
