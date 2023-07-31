@@ -4,13 +4,13 @@ number: "122.96.11"
 title: "Ordonnance sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat"
 short: OGDSI
 language: fr
-version: 2022-02-01
-valid_until: 2023-07-31
-version_adopted: 2022-02-18
+version: 2023-08-01
+valid_until: 2023-11-30
+version_adopted: 2023-07-06
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7243/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7795/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7243/pdf_file"
 
 Gouvernance de la digitalisation et des systèmes d'information de l'Etat – O
 
-du 28.06.2021 (version entrée en vigueur le 01.02.2022)
+du 28.06.2021 (version entrée en vigueur le 01.08.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -89,7 +89,7 @@ Arrête:
 <sup>1</sup> Le Conseil d'Etat exerce notamment les attributions suivantes:
 
 - a) il définit les orientations stratégiques de l'Etat concernant la digitalisation et les systèmes d'information et en supervise la mise en œuvre;
-- b) il fixe le cadre politique et réglementaire, notamment en matière de sécurité informatique, dans lequel doivent évoluer la digitalisation et les systèmes d'information de l'Etat;
+- b) il fixe le cadre politique et réglementaire dans lequel doivent évoluer la digitalisation et les systèmes d'information de l'Etat en accordant une attention particulière à la sécurité de l'information et des moyens informatiques;
 - c) il décide, dans le cadre du processus budgétaire annuel, des moyens nécessaires à la digitalisation et au fonctionnement des systèmes d'information de l'Etat;
 - d) il adopte le Plan directeur de la digitalisation et des systèmes d'information (ci-après: le PDI).
 
@@ -275,7 +275,7 @@ Arrête:
 
 #### Art. 21
 
-**Sécurité informatique et protection des données**
+**Sécurité des moyens informatiques et protection des données**
 
 <sup>1</sup> Le SITel est responsable de la sécurité des moyens informatiques de l'Etat. Il utilise pour ce faire les standards et normes reconnus en la matière.
 
@@ -655,7 +655,7 @@ Arrête:
 
 <sup>1</sup> La CIInfra a les attributions spécifiques suivantes:
 
-- a) elle préavise le concept général du SITel se rapportant aux infrastructures de la digitalisation et des systèmes d'information de l'Etat, en veillant à assurer la cohérence et à promouvoir toutes les synergies possibles, tout en portant une attention particulière à la sécurité informatique et aux risques liés à l'obsolescence technologique;
+- a) elle préavise le concept général du SITel se rapportant aux infrastructures de la digitalisation et des systèmes d'information de l'Etat, en veillant à assurer la cohérence et à promouvoir toutes les synergies possibles, tout en portant une attention particulière à la sécurité des moyens informatiques et aux risques liés à l'obsolescence technologique;
 - b) elle préavise les demandes budgétaires spécifiques des infrastructures de la digitalisation et des systèmes d'information;
 - c) elle promeut l'échange de bonnes pratiques liées aux infrastructures de la digitalisation et des systèmes d'information entre le SITel et les unités autonomes.
 

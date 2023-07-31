@@ -4,13 +4,13 @@ number: "122.96.11"
 title: Verordnung über die Governance der Digitalisierung und der Informationssysteme des Staates
 short: GDISV
 language: de
-version: 2022-02-01
-valid_until: 2023-07-31
-version_adopted: 2022-02-18
+version: 2023-08-01
+valid_until: 2023-11-30
+version_adopted: 2023-07-06
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7243/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7795/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7243/pdf_file"
 
 Governance der Digitalisierung und der Informationssysteme des Staates – V
 
-vom 28.06.2021 (Fassung in Kraft getreten am 01.02.2022)
+vom 28.06.2021 (Fassung in Kraft getreten am 01.08.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -89,7 +89,7 @@ beschliesst:
 <sup>1</sup> Der Staatsrat hat insbesondere folgende Aufgaben:
 
 - a) Er legt die strategische Ausrichtung der Digitalisierung und der Informationssysteme fest und beaufsichtigt ihre Umsetzung.
-- b) Er legt den politischen und reglementarischen Rahmen, insbesondere bei der Informatiksicherheit, für die Entwicklung der Digitalisierung und der Informationssysteme des Staates fest.
+- b) Er legt den politischen und reglementarischen Rahmen für die Entwicklung der Digitalisierung und der Informationssysteme des Staates fest und achtet dabei besonders auf die Informationssicherheit und auf die Sicherheit der Informatikmittel.
 - c) Er entscheidet im Rahmen des jährlichen Voranschlagsverfahrens über die für die Digitalisierung und den Betrieb der Informationssysteme des Staates notwendigen Mittel.
 - d) Er erlässt den Richtplan der Digitalisierung und der Informationssysteme (Richtplan).
 
@@ -110,7 +110,7 @@ beschliesst:
 - c) Sie schlichtet zwischen den Leistungsempfänger/innen, dem ITA und den IT-Fachkommissionen.
 - d) Sie teilt die Geschäfte zwischen den verschiedenen IT-Fachkommissionen nach Massgabe ihrer Zuständigkeitsbereiche und Aufgaben auf.
 - e) Sie trägt die Verantwortung für das Projektportfolio, insbesondere was die Projektleitung, die Finanzen und die Einhaltung der vom Staatsrat festgelegten Prioritäten betrifft.
-- f) Sie wirkt bei der Aufstellung des jährlichen Informatikbudgets mit und sorgt für dessen Übereinstimmung mit den Richtplan.
+- f) Sie wirkt bei der Aufstellung des jährlichen Informatikbudgets mit und sorgt für dessen Übereinstimmung mit dem Richtplan.
 - g) Sie fungiert als IT-Fachkommission im Sinne von Artikel 15 Abs. 1 dieser Verordnung für gewisse transversale Projekte und Belange.
 
 #### Art. 6
@@ -229,12 +229,12 @@ beschliesst:
 
 **IT-Fachkommissionen – Allgemeine Aufgaben**
 
-<sup>1</sup> Jede IT-Fachkommission - mit Ausnahme der Kommission der Generalsekretärinnen und Generalsekretäre für Informatikbelange - hat in ihrem Zuständigkeitsbereich die folgenden allgemeinen Aufgaben:
+<sup>1</sup> Jede IT-Fachkommission — mit Ausnahme der Kommission der Generalsekretärinnen und Generalsekretäre für Informatikbelange — hat in ihrem Zuständigkeitsbereich die folgenden allgemeinen Aufgaben:
 
-- a) Sie analysiert die Anträge der Leistungsempfänger/innen zur Digitalisierung und zu den Informationssystemen, wobei sie sicherstellt, dass sie kohärent sind, und beantragt ihre Aufnahme ins Projektportfolio, das sie der DIS unterbreitet.
+- a) Sie analysiert die Anträge der Leistungsempfängerinnen und -empfänger zur Digitalisierung und zu den Informationssystemen, wobei sie sicherstellt, dass sie kohärent sind, und beantragt ihre Aufnahme ins Projektportfolio, das sie der DIS unterbreitet.
 - b) Sie schlägt eine Prioritätenfolge der Projekte nach Massgabe der bewilligten finanziellen Mittel und vordefinierter Kriterien vor.
-- c) Sie wägt die finanziellen Bedürfnisse zwischen den Leistungsempfänger/innen ab und entscheidet bei Uneinigkeit..
-- d) Sie arbeitet bei der Umsetzung von Standardprojekten und Standardleistungen mit den Leistungsempfänger/innen und dem ITA zusammen.
+- c) Sie wägt die finanziellen Bedürfnisse zwischen den Leistungsempfänger/innen ab und entscheidet bei Uneinigkeit.
+- d) Sie arbeitet bei der Umsetzung von Standardprojekten und Standardleistungen mit den Leistungsempfängerinnen und -empfängern und dem ITA zusammen.
 - e) Sie schlägt Projektportfoliovarianten vor, für die es einen strategischen oder politischen Entscheid braucht.
 
 #### Art. 18
@@ -275,7 +275,7 @@ beschliesst:
 
 #### Art. 21
 
-**IT-Sicherheit und Datenschutz**
+**Sicherheit der Informatikmittel und Datenschutz**
 
 <sup>1</sup> Das ITA ist für die Sicherheit der Informatikmittel des Staates verantwortlich. Dazu richtet es sich nach den anerkannten einschlägigen Standards und Normen.
 
@@ -655,7 +655,7 @@ beschliesst:
 
 <sup>1</sup> Die IKInfra hat folgende besondere Aufgaben:
 
-- a) Sie nimmt Stellung zum Gesamtkonzept des ITA zu den Infrastrukturen der Digitalisierung und der Informationssysteme des Staates und sorgt für Kohärenz und Nutzung aller möglichen Synergien und achtet besonders auf die IT-Sicherheit und die mit der technologischen Veralterung verbundenen Risiken.
+- a) Sie nimmt Stellung zum Gesamtkonzept des ITA zu den Infrastrukturen der Digitalisierung und der Informationssysteme des Staates, sorgt für Kohärenz und für die Nutzung aller möglichen Synergien und achtet besonders auf die Sicherheit der Informatikmittel und die mit der technologischen Veralterung verbundenen Risiken.
 - b) Sie nimmt Stellung zu den auf die Digitalisierung und die Informationssysteme bezogenen Budgeteingaben.
 - c) Sie fördert den Austausch von bewährten Praktiken in Zusammenhang mit den Infrastrukturen der Digitalisierung und der Informationssysteme zwischen dem ITA und den autonomen Einheiten.
 
