@@ -4,13 +4,13 @@ number: "922.102"
 title: Standeskommissionsbeschluss über die Jagd
 short: StKB Jagd
 language: de
-version: 2022-07-15
-valid_until: 2023-07-31
-version_adopted: 2022-06-28
+version: 2023-08-01
+valid_until: 2024-07-14
+version_adopted: 2023-07-04
 adopted: 2021-07-06
 in_force: 2021-07-15
 url: "https://ai.clex.ch/app/de/texts_of_law/922.102"
-pdf: "https://ai.clex.ch/api/de/versions/2129/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2232/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2129/pdf_file"
 
 (StKB Jagd)
 
-vom 06.07.2021 (Stand 15.07.2022)
+vom 06.07.2021 (Stand 01.08.2023)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -121,6 +121,8 @@ beschliesst:
 
 <sup>9</sup> Während der dritten Hochwildjagdwoche darf die Hochwildjagd nur ausserhalb des Rotwildlebensraums gemäss grünem Bereich der Karte im Anhang ausgeübt werden. Es dürfen Gamswild, Rehwild, Schwarzwild, Murmeltiere, Füchse, Dachse, Waschbären und Marderhunde erlegt werden.
 
+<sup>10</sup> Bei der Ausübung der Drück- und Treibjagd ist eine Signalweste zu tragen.
+
 ## II Niederwildjagd
 
 #### Art. 11
@@ -147,7 +149,7 @@ beschliesst:
 
 **Besondere Bestimmungen**
 
-<sup>1</sup> Die Abschussberechtigung für die Kontingente auf der Niederwildjagd kann innerhalb der Gruppe an andere Jagdberechtigte abgetreten werden, sofern die Kontingentgeberin oder der Kontingentgeber bei der Jagd anwesend ist. Mit der Kugel erlegte Niederwildrehe sind in der Abschussliste der Niederwildjagd einzuschreiben.
+<sup>1</sup> Die Abschussberechtigung für die Kontingente auf der Niederwildjagd kann an andere Jagdberechtigte abgetreten werden, sofern die Kontingentgeberin oder der Kontingentgeber bei der Jagd anwesend ist. Mit der Kugel erlegte Niederwildrehe sind in der Abschussliste der Niederwildjagd einzuschreiben.
 
 <sup>2</sup> Nach frühzeitigem Erfüllen des Abschusskontingents ist es nicht mehr erlaubt, Rehwild durch Hunde zu jagen, wenn keine andere noch auf Rehabschuss berechtigte Jägerin oder kein anderer noch auf Rehabschuss berechtigter Jäger anwesend ist.
 
