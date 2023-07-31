@@ -4,13 +4,13 @@ number: "423.123"
 title: Verordnung über die Mittelschule
 short: Mittelschulverordnung
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-05-04
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-05-17
 adopted: 2015-06-03
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3214/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3319/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3214/pdf_file"
 
 (Mittelschulverordnung)
 
-Vom 03.06.2015 (Stand 01.08.2022)
+Vom 03.06.2015 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -42,6 +42,7 @@ beschliesst:
 - a) Alte Kantonsschule Aarau,
 - b) Neue Kantonsschule Aarau,
 - c) Kantonsschule Baden,
+- c<sup>bis</sup>) Kantonsschule Stein,
 - d) Kantonsschule Wettingen,
 - e) Kantonsschule Wohlen,
 - f) Kantonsschule Zofingen.
@@ -50,7 +51,7 @@ beschliesst:
 
 - a) das Gymnasium an sämtlichen Kantonsschulen,
 - b) die Handels- und die Informatikmittelschule an der Alten Kantonsschule Aarau und der Kantonsschule Baden,
-- c) die Fachmittelschule mit den Berufsfeldern Pädagogik, Gesundheit/Naturwissenschaften, Soziale Arbeit, Kommunikation und Information, Gestaltung und Kunst sowie mit den Fachmaturitätslehrgängen Pädagogik, Gesundheit/Naturwissenschaften, Soziale Arbeit, Kommunikation und Information sowie Gestaltung und Kunst an der Neuen Kantonsschule Aarau und an der Kantonsschule Wettingen. An der Fachmittelschule Wohlen werden die vorerwähnten Berufsfelder und Fachmaturitätslehrgänge mit Ausnahme der Berufsfelder und der Fachmaturitätslehrgänge Kommunikation und Information sowie Gestaltung und Kunst geführt.
+- c) die Fachmittelschule mit den Berufsfeldern Pädagogik, Gesundheit/Naturwissenschaften, Soziale Arbeit, Kommunikation und Information, Gestaltung und Kunst sowie mit den Fachmaturitätslehrgängen Pädagogik, Gesundheit/Naturwissenschaften, Soziale Arbeit, Kommunikation und Information sowie Gestaltung und Kunst an der Neuen Kantonsschule Aarau und an der Kantonsschule Wettingen. An den Fachmittelschulen Stein, Wohlen und Zofingen werden die vorerwähnten Berufsfelder und Fachmaturitätslehrgänge mit Ausnahme der Berufsfelder und der Fachmaturitätslehrgänge Kommunikation und Information sowie Gestaltung und Kunst geführt.
 
 #### § 2
 
@@ -626,6 +627,8 @@ beschliesst:
 <sup>12</sup> …
 
 <sup>13</sup> Für Schülerinnen und Schüler, die den Lehrgang an der Informatikmittelschule ab Beginn des Schuljahrs 2015/16 und vor dem Schuljahr 2019/20 begonnen haben, gilt die Stundentafel gemäss Anhang 13a.
+
+<sup>14</sup> In den Schuljahren 2023/24 und 2024/25 erfolgt der organisatorische und personelle Aufbau der Kantonsschule Stein. Der Schulbetrieb wird erst ab Schuljahr 2025/26 aufgenommen.
 
 #### § 57
 
