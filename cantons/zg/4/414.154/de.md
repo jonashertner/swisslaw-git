@@ -4,13 +4,12 @@ number: "414.154"
 title: Promotionsordnung für die Wirtschaftsmittelschule Zug
 short: PO WMS
 language: de
-version: 2015-08-01
-valid_until: 2023-07-31
-version_adopted: 2015-04-29
+version: 2023-08-01
+version_adopted: 2023-05-22
 adopted: 2015-04-29
 in_force: 2015-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.154"
-pdf: "https://bgs.zg.ch/api/de/versions/1456/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1456/pdf_file"
 
 (PO WMS)
 
-Vom 29. April 2015 (Stand 1. August 2015)
+Vom 29. April 2015 (Stand 1. August 2023)
 
 Die Schulkommission der kantonalen Mittelschulen des Kantons Zug,
 
@@ -80,9 +79,9 @@ beschliesst:
 
 <sup>1</sup> Promotionsfächer sind:
 
-- a) 4. Klasse: Deutsch, Französisch, Englisch, Mathematik, Finanz- und Rechnungswesen, Wirtschaft und Recht, Geschichte und Politik, Technik und Umwelt, Information/Kommunikation/Administration, Informatik
-- b) 5. Klasse: Deutsch, Französisch, Englisch, Mathematik, Finanz- und Rechnungswesen, Wirtschaft und Recht, Geschichte und Politik, Technik und Umwelt, Information/Kommunikation/Administration, Informatik
-- c) 6. Klasse: Deutsch, Französisch, Englisch, Mathematik, Finanz- und Rechnungswesen, Wirtschaft und Recht, Geschichte und Politik, Technik und Umwelt, Informatik
+- a) 4. Klasse: Deutsch, Französisch, Englisch, Mathematik, Finanz- und Rechnungswesen, Wirtschaft und Recht, Geschichte und Politik, Technik und Umwelt, Applikationen/Daten/Multimedia, Medien - Recht und Prävention, Grundwissen Gestaltung
+- b) 5. Klasse: Deutsch, Französisch, Englisch, Mathematik, Finanz- und Rechnungswesen, Wirtschaft und Recht, Geschichte und Politik, Technik und Umwelt, Applikationen/Daten/Multimedia
+- c) 6. Klasse: Deutsch, Französisch, Englisch, Mathematik, Finanz- und Rechnungswesen, Wirtschaft und Recht, Geschichte und Politik, Technik und Umwelt, Applikationen/Daten/Multimedia
 
 #### § 6
 
@@ -121,7 +120,7 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Diese Promotionsordnung gilt erstmals für die Schülerinnen und Schüler, die im Schuljahr 2015/16 in die 4. Klasse eintreten.
+<sup>1</sup> Diese Promotionsordnung gilt erstmals für die Schülerinnen und Schüler, die im Schuljahr 2023/24 in die 4. Klasse eintreten.
 
 <sup>2</sup> Wechselt eine Schülerin oder ein Schüler aufgrund einer Rückversetzung oder eines Austauschjahrs in eine Klasse, für die bereits diese Promotionsordnung gilt, so werden die neuen Bestimmungen angewendet.
 
