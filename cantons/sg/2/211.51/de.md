@@ -4,13 +4,13 @@ number: "211.51"
 title: Stipendienverordnung
 short: StipV
 language: de
-version: 2021-08-01
-valid_until: 2023-07-31
-version_adopted: 2021-06-01
+version: 2023-08-01
+valid_until: 2025-07-31
+version_adopted: 2023-05-09
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/211.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3173/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3518/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3173/pdf_file"
 
 (StipV)
 
-vom 13.05.2003 (Stand 01.08.2021)
+vom 13.05.2003 (Stand 01.08.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -201,9 +201,9 @@ als Verordnung:[^ingress-2]
 
 **b) Grundbetrag**
 
-<sup>1</sup> Der Grundbetrag beträgt für eine Person:.
+<sup>1</sup> Der Grundbetrag beträgt für eine Person:
 
-- a) im Haushalt der Eltern: Fr. 8‘400.--;
+- a) im Haushalt der Eltern: Fr. 9'000.–;
 - b) im eigenen Haushalt: Fr. 20'000.–;
 - c) im ehelichen Haushalt: Fr. 29‘000.--.
 
@@ -310,7 +310,7 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Vom Reineinkommen der Eltern werden abgezogen:
 
 - a) Fr. 6800.– für jedes unter ihrer elterlichen Sorge oder Obhut stehende Kind bis zum Abschluss der obligatorischen Schulzeit;
-- b) je Fr. 6800.– bei getrennt lebenden Eltern.
+- b) je Fr. 8'000.– bei getrennt lebenden Eltern.
 
 #### Art. 28
 
@@ -490,6 +490,12 @@ als Verordnung:[^ingress-2]
 **Übergangsbestimmung des IV. Nachtrags vom 4. Juni 2019**
 
 <sup>1</sup> Der Grundbetrag für eine Person im eigenen Haushalt nach Art. 19 Abs. 1 Bst. b dieses Erlasses beträgt im Schul- oder Studienjahr 2019/20 Fr. 18‘500.–.
+
+#### Art. 46
+
+**Übergangsbestimmung des VII. Nachtrags vom 9. Mai 2023**
+
+<sup>1</sup> Bei Vollzugsbeginn dieses Nachtrags hängige Gesuche für Ausbildungsperioden nach dem 1. August 2023 werden nach neuem Recht beurteilt.
 
 **Übergangsbestimmung des II. Nachtrags vom 27. Mai 2014**[^footer-1]
 
