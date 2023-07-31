@@ -4,13 +4,13 @@ number: "143.4"
 title: Ergänzende Verordnung über das Arbeitsverhältnis der Mittelschul-Lehrpersonen
 short: EVA-MS
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-06-28
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2024-04-09
 adopted: 2004-06-15
 in_force: 2004-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.4"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3388/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3632/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3388/pdf_file"
 
 (EVA-MS)
 
-vom 15.06.2004 (Stand 01.08.2022)
+vom 15.06.2004 (Stand 01.08.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -207,7 +207,8 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Rektorin oder dem Rektor stehen für die Erteilung besonderer Aufträge an Lehrpersonen zur Verfügung:
 
-- a) je Klasse: 4 Stellenprozente;
+- a) je Schule: 80 Stellenprozente, der Kantonsschule am Burggraben St.Gallen 150 Stellenprozente;
+- a<sup>bis</sup>) je Klasse: 4 Stellenprozente;
 - b) je Schülerin und Schüler der obersten Klassen: 0,9 Stellenprozente.
 
 <sup>2</sup> Der Rektorin oder dem Rektor stehen für die Ausübung von Leitungsfunktionen durch Lehrpersonen zudem zur Verfügung:
