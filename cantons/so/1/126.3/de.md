@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2023-04-01
-valid_until: 2023-07-31
-version_adopted: 2023-03-28
+version: 2023-08-01
+valid_until: 2023-09-30
+version_adopted: 2023-07-04
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5316/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5387/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. April 2023)
+vom 25. Oktober 2004 (Stand 1. August 2023)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -66,14 +66,14 @@ Die Vereinbarung wird nach Treu und Glauben ausgelegt und angewendet.
 
 <sup>1</sup> Der Gesamtarbeitsvertrag (GAV) ist öffentlich-rechtlicher Natur.
 
-<sup>2</sup> Er stützt sich auf § 45<sup>bis</sup> des Gesetzes über das Staatspersonal vom 27. September 1992 (Staatspersonalgesetz StPG[^3-1] und auf § 7<sup>quater</sup> des Lehrerbesoldungsgesetzes vom 8. Dezember 1963 (LBG)[^3-2].
+<sup>2</sup> Er stützt sich auf § 45<sup>bis</sup> des Gesetzes über das Staatspersonal vom 27. September 1992 (Staatspersonalgesetz StPG[^3-1]).[^3-2]
 
 <sup>3</sup> Verfassung und Gesetz gehen dem GAV vor. Können dem GAV und dem Gesetz keine Vorschriften entnommen werden, so gelten die anerkannten Grundsätze des öffentlichen Dienstrechts und, wo auch solche fehlen, sinngemäss die Bestimmungen des Schweizerischen Obligationenrechts (OR)[^3-3].
 
 <sup>4</sup> Bestimmungen, die von Gesetzes wegen gelten, sind im GAV-Text kursiv gesetzt.
 
 [^3-1]: BGS 126.1.
-[^3-2]: BGS 126.515.851.1.
+[^3-2]: § 3 Absatz 2 Fassung vom 24. Oktober 2022.
 [^3-3]: SR 220.
 
 #### § 4
@@ -102,11 +102,11 @@ Die Vereinbarung wird nach Treu und Glauben ausgelegt und angewendet.
 
 - 2\. Geltungsbereich
 
-[^4-1]: Sachüberschrift Fassung vom 7. Juni 2016.
+[^4-1]: Sachüberschrift Fassung vom 24. Oktober 2022.
 
 #### § 5
 
-**Geltungsbereich (§§ 2, 3, und 45<sup>bis</sup> Abs. 2 StPG, § 51<sup>bis</sup> VSG)[^4-1]**
+**§ 5. Geltungsbereich (§§ 2, 3 und 45<sup>bis</sup> Abs. 2 StPG, § 73 VSG)[^4-1]**
 
 <sup>1</sup> Dieser GAV gilt für das gesamte voll- und teilzeitlich beschäftigte Personal der kantonalen Verwaltung, der Gerichte, der kantonalen Schulen, der kantonalen Anstalten und des kantonalen Polizeikorps, für das Personal der im Kanton Solothurn gelegenen und von ihm massgeblich subventionierten oder rechtlich oder wirtschaftlich kontrollierten Spitäler, für das
 
@@ -3605,13 +3605,17 @@ Der Grundlohn für soziales und medizinisches Personal beträgt für Mitarbeiten
 
 Die ersten 10 Erfahrungsanstiege für soziales und medizinisches Personal mit Stellenantritt vor dem 1. Januar 2016 betragen 3%, die nächsten zwei Erfahrungsanstiege 2,5% und die weiteren Erfahrungsanstiege 1,25%. Für Mitarbeitende mit Stellenantritt ab dem 1. Januar 2016 gilt der Erfahrungszuschlag nach § 133 GAV.
 
-**LK**
+### NB AT Anhang 2 AHV-Ersatzrente (§ 203 ff. GAV)
 
-**Anstieg 2,5% Anstieg 1,25%**
+[^hNBATAnhang2AHVE-1]: § 245 Fassung vom 24. Oktober 2016.
 
-LK Erfahrungsstufen Anstieg 3,5% E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 1 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 1 2 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 2 3 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 3 4 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 4 5 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 5 6 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 6 7 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 7 8 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 8 9 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 9 10 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 10 11 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 11 12 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 12 13 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 99.3% 98.3% 97.3% 96.3% 95.3% 94.3% 13 14 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 98.8% 96.7% 95.7% 94.6% 93.6% 92.6% 91.5% 90.5% 89.4% 88.4% 14 15 100% 100% 100% 100% 100% 100% 100% 100% 100% 98.3% 95.2% 93.0% 90.8% 89.7% 88.6% 87.5% 86.4% 85.3% 84.2% 83.1% 82.0% 15 16 100% 100% 100% 100% 100% 100% 100% 98.9% 95.7% 92.5% 89.2% 86.9% 84.6% 83.4% 82.3% 81.1% 80.0% 78.8% 77.7% 76.5% 75.3% 16 17 100% 100% 100% 100% 100% 99.9% 96.5% 93.1% 89.7% 86.3% 82.9% 80.5% 78.0% 76.8% 75.6% 74.4% 73.2% 72.0% 70.7% 69.5% 68.3% 17 18 100% 100% 100% 100% 97.7% 94.1% 90.5% 87.0% 83.4% 79.8% 76.2% 73.7% 71.1% 69.8% 68.6% 67.3% 66.0% 64.7% 63.5% 62.2% 60.9% 18 19 100% 100% 99.3% 95.5% 91.8% 88.0% 84.3% 80.5% 76.7% 73.0% 69.2% 66.6% 63.9% 62.5% 61.2% 59.8% 58.5% 57.2% 55.8% 54.5% 53.1% 19 20 100% 97.4% 93.5% 89.5% 85.6% 81.6% 77.7% 73.8% 69.8% 65.9% 61.9% 59.1% 56.3% 54.9% 53.5% 52.0% 50.6% 49.2% 47.8% 46.4% 45% 20 21 95.7% 91.5% 87.4% 83.3% 79.1% 75.0% 70.8% 66.7% 62.5% 58.4% 54.2% 51.3% 48.3% 46.8% 45.4% 45.0% 45.0% 45.0% 45.0% 45.0% 45% 21 22 89.8% 85.4% 81.0% 76.7% 72.3% 68.0% 63.6% 59.3% 54.9% 50.6% 46.2% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45% 22 23 83.6% 79.0% 74.4% 69.9% 65.3% 60.7% 56.1% 51.6% 47.0% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 23 24 77.1% 72.3% 67.5% 62.7% 57.9% 53.1% 48.3% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 24 25 70.4% 65.3% 60.3% 55.3% 50.2% 45.2% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 25 26 63.4% 58.1% 52.8% 47.5% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 26 27 56.1% 50.6% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 27 28 48.5% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 28 29 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 29 30 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 30 31 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 31
+#### §245
 
-**E16 E17 E18 E19 E20**
+**Berechnung der AHV-Ersatzrente[^hNBATAnhang2AHVE-1]**
+
+### Die AHV-Ersatzrente berechnet sich wie folgt: Jahresbruttolohn inkl. 13 Mo-
+
+natslohn und unkl. Teuerungszulagen ohne Leistungsbonus.
 
 ### Normative Bestimmungen, Besonderer Teil: I. Spitäler (NB BT Spitäler)
 
@@ -4684,11 +4688,11 @@ Der Besondere Teil Volksschule regelt die Abweichungen und Ergänzungen gegenüb
 
 ### B. Entstehung und Dauer des Anstellungsverhältnisses
 
+[^hBEntstehungundDa_2-1]: § 337 Sachüberschrift Fassung vom 24. Oktober 2022.
+
 #### § 337
 
-**Entstehung des Anstellungsverhältnisses**
-
-(§ 52 Volksschulgesetz; VSG; BGS 413.111)
+**Entstehung des Anstellungsverhältnisses[^hBEntstehungundDa_2-1]**
 
 ### Das Anstellungsverhältnis wird mit schriftlichem öffentlich-rechtlichem
 
@@ -4740,10 +4744,11 @@ Vertrag begründet.
 ### D. Auflösung des Anstellungsverhältnisses
 
 [^hDAuflösungdesAns-1]: § 339 Fassung vom 17. Februar 2015.
+[^hDAuflösungdesAns-2]: § 339 Sachüberschrift Fassung vom 24. Oktober 2022.
 
 #### § 339
 
-**Kündigungsfristen und -termine (§ 57 VSG; BGS 413.111)**[^hDAuflösungdesAns-1]
+**Kündigungsfristen und -termine[^hDAuflösungdesAns-2]**[^hDAuflösungdesAns-1]
 
 <sup>1</sup> Die Kündigung ist grundsätzlich nur auf Ende eines Schuljahres möglich. Erfolgt die Kündigung infolge Pensionierung, kann sie auch auf Ende eines Schulhalbjahres erklärt werden.
 
@@ -4765,9 +4770,11 @@ Vertrag begründet.
 
 - a. Allgemeines
 
+[^h1PflichtenderLeh_2-1]: § 340 Sachüberschrift Fassung vom 24. Oktober 2022.
+
 #### § 340
 
-**Grundsatz (§ 60 VSG)**
+**Grundsatz[^h1PflichtenderLeh_2-1]**
 
 <sup>1</sup> Die Lehrperson soll bestrebt sein, den Unterricht mit der erzieherischen Führung der ihr anvertrauten Kinder zu verbinden.
 
@@ -4866,28 +4873,19 @@ Jeder Unterrichtsausfall ist der direkt vorgesetzten Stelle zu melden.
 [^348-1]: § 348 Absatz 2 aufgehoben am 12. Januar 2016.
 [^348-2]: Titel Fassung vom 9. Mai 2011.
 [^348-3]: § 349 Fassung vom 9. Mai 2011.
+[^348-4]: § 349 Sachüberschrift Fassung vom 24. Oktober 2022.
 
 #### § 349
 
-**Weiterbildung (§ 67 Abs. 1 VSG)**[^348-3]
+**Weiterbildung[^348-4]**[^348-3]
 
-<sup>1</sup> Die kantonale Aufsichtsbehörde und die Schulleitungen können die
-
-### Lehrpersonen sowohl während der Schulzeit als auch während der unter-
-
-richtsfreien Zeit zu obligatorischen Weiterbildungskursen und -veranstaltungen verpflichten. Die Schulleitungen holen vorgängig das
-
-[^hLehrpersonensowohl-1]: § 349 Absatz 1 Fassung vom 26. Juni 2012.
-
-### Einverständnis der kantonalen Aufsichtsbehörde ein.
-
-[^hLehrpersonensowohl-1]
+<sup>1</sup> Die kantonale Aufsichtsbehörde und die Schulleitungen können die Lehrpersonen zur Teilnahme an obligatorischen Weiterbildungskursen und Weiterbildungsveranstaltungen verpflichten (§ 81 Abs. 4 VSG).[^349-1]
 
 <sup>2</sup> Die Weiterbildung ist zwischen den Lehrpersonen und der Schulleitung zu planen und zu vereinbaren.
 
 <sup>3</sup> Obligatorische angeordnete Weiterbildung muss der teilnehmenden Lehrperson mindestens neun Monate vor Kursbeginn eröffnet werden.
 
-<sup>4</sup> Die Weiterbildung der Lehrpersonen soll nach Möglichkeit in der unterrichtsfreien Zeit absolviert werden.
+<sup>4</sup> …[^349-2]
 
 - 2\. Rechte der Lehrpersonen
 
@@ -4895,11 +4893,13 @@ richtsfreien Zeit zu obligatorischen Weiterbildungskursen und -veranstaltungen v
 
 - 1\. Arbeitszeit
 
-[^hEinverständnisderk-1]: § 350 Fassung vom 9. Mai 2011.
+[^349-1]: § 349 Absatz 1 Fassung vom 24. Oktober 2022.
+[^349-2]: § 349 Absatz 4 aufgehoben am 24. Oktober 2022.
+[^349-3]: § 350 Fassung vom 9. Mai 2011.
 
 #### § 350
 
-**Gesamtarbeitszeit**[^hEinverständnisderk-1]
+**Gesamtarbeitszeit**[^349-3]
 
 <sup>1</sup> Die jährliche Gesamtarbeitszeit der Lehrpersonen entspricht grundsätzlich jener der Arbeitnehmenden des Kantons. Die Wochenarbeitszeit der Lehrpersonen wird jedoch mit Rücksicht auf die unterschiedliche Belastung während und ausserhalb der Unterrichtswochen nicht explizit festgesetzt. Ein Teil der zeitlichen Mehrbelastung wird in der unterrichtsfreien Arbeitszeit ausgeglichen.
 
@@ -4911,15 +4911,19 @@ richtsfreien Zeit zu obligatorischen Weiterbildungskursen und -veranstaltungen v
 
 <sup>3</sup> Der Tätigkeitsbereich gemäss § 341 Absatz 2 Buchstabe a umfasst mindestens 85 Prozent der Jahresarbeitszeit einer Lehrperson.
 
+[^350-1]: § 351 Sachüberschrift Fassung vom 24. Oktober 2022.
+
 #### § 351
 
-**Schuljahr (§ 8 VSG)**
+**Schuljahr[^350-1]**
 
-<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen.
+<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen bei 52 Kalenderwochen und 39 Unterrichtswochen bei 53 Kalenderwochen (§ 53 Abs. 1 VSG).[^351-1]
 
 <sup>2</sup> Die Weihnachtsferien sind Teil der unterrichtsfreien Zeit und dauern zwei Wochen.
 
 <sup>3</sup> Das Departement für Bildung und Kultur legt den Zeitpunkt der Weihnachtsferien fest.
+
+[^351-1]: § 351 Absatz 1 Fassung vom 24. Oktober 2022.
 
 #### § 352
 
@@ -4933,14 +4937,15 @@ richtsfreien Zeit zu obligatorischen Weiterbildungskursen und -veranstaltungen v
 
 <sup>3</sup> Über die Unterrichtsverpflichtung hinaus sind zwei Lektionen pro Woche für gemeinsame Aktivitäten der Lehrerschaft vorzusehen (Konferenzen, Projektarbeit usw.).
 
-<sup>4</sup> Lehrpersonen mit Klassenleitungsfunktion werden mit einer Lektion pro Klasse und Woche entlastet.[^hVolksschule-1]
+<sup>4</sup> Lehrpersonen mit Klassenleitungsfunktion werden mit einer Lektion pro Klasse und Woche entlastet.[^hVolksschule-2]
 
-[^hVolksschule-1]: § 352 Absatz 4 angefügt am 26. August 2013.
-[^hVolksschule-2]: § 353 aufgehoben am 26. Juni 2012.
+[^hVolksschule-1]: § 351 Sachüberschrift Fassung vom 24. Oktober 2022.
+[^hVolksschule-2]: § 352 Absatz 4 angefügt am 26. August 2013.
+[^hVolksschule-3]: § 353 aufgehoben am 26. Juni 2012.
 
 #### § 353
 
-**…[^hVolksschule-2]**
+**…[^hVolksschule-3]**
 
 #### § 354
 
@@ -5082,27 +5087,19 @@ Die Altersentlastung hat Einfluss weder auf die späteren Ansprüche gegenüber 
 
 Der Lohn besteht aus a) dem Grundlohn und b) dem Erfahrungszuschlag.
 
+[^367-1]: § 368 aufgehoben am 24. Oktober 2022.
+
 #### § 368
 
-**Anrechnung von Schuldienst (§ 18 Lehrerbesoldungsgesetz;**
+**…[^367-1]**
 
-### LBG; BGS 126.515.851.1)
-
-<sup>1</sup> Für den Lohn wird folgender Schuldienst angerechnet:
-
-- a) Schuldienst an andern Schulen, auch ausserkantonalen, in der Regel vom Zeitpunkt an, da eine Lehrperson die solothurnische Lehrberechtigung erworben hat;
-
-- b) Stellvertretungen an einer öffentlichen solothurnischen Schule sowie die Dienstzeit an einer staatlichen oder staatlich anerkannten solothurnischen Anstalt, wenn sie zusammen wenigstens ein Schuljahr ergeben.
-
-<sup>2</sup> Im Einzelfall entscheidet das Departement für Bildung und Kultur.
+[^368-1]: § 369 Sachüberschrift Fassung vom 24. Oktober 2022.
 
 #### § 369
 
-**Berechnung der Dienstjahre (§ 19 LBG)**
+**Berechnung der Dienstjahre[^368-1]**
 
-### Bei der Berechnung der Dienstjahre wird Schuldienst von weniger als ei-
-
-nem halben Jahr nicht berücksichtigt. Schuldienst von einem halben Jahr und mehr gilt als ein ganzes Dienstjahr.
+Bei der Berechnung der Dienstjahre wird Schuldienst von weniger als einem halben Jahr nicht berücksichtigt. Schuldienst von einem halben Jahr und mehr gilt als ein ganzes Dienstjahr.
 
 #### § 370
 
@@ -5136,11 +5133,12 @@ Die Einreihung der Lehrpersonen, Lehrbeauftragten und Stellvertretenden ist in A
 
 Die Entschädigung für Lektionen, die das Pflichtpensum von 29 Lektionen übersteigen, beträgt pro Lektion[^hVolksschule_2-1]/<sup>29</sup> des individuellen Lohnes inklusive Teuerungszulage. Dazu kommt der Anteil des 13. Monatslohnes.
 
-[^hVolksschule_2-1]: § 374 aufgehoben am 26. Juni 2012.
+[^hVolksschule_2-1]: § 368 aufgehoben am 24. Oktober 2022.
+[^hVolksschule_2-2]: § 374 aufgehoben am 26. Juni 2012.
 
 #### § 374
 
-**…[^hVolksschule_2-1]**
+**…[^hVolksschule_2-2]**
 
 #### § 375
 
@@ -5194,9 +5192,11 @@ Regelungen über Lohn und Rechtsstellung einzelner Kategorien von Lehrpersonen s
 
 - c. Leistungen bei Krankheit, Unfall und Militärdienst
 
+[^379-1]: § 380 Sachüberschrift Fassung vom 24. Oktober 2022.
+
 #### § 380
 
-**Abtretung von Versicherungs- und Ersatzansprüchen (§ 16 LBG)**
+**Abtretung von Versicherungs- und Ersatzansprüchen[^379-1]**
 
 ### Im Umfang der krankheits- oder unfallbedingten Fortzahlung des Lohnes
 
@@ -5253,7 +5253,9 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 
 **21**
 
-Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehrerinnen- und Arbeitslehrerinnenpatente) Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte[^384-3] tent Absolvierende der Studienvariante Quereinstieg 18
+Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehrerinnen- und Arbeitslehrerinnenpatente) Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte[^384-3] tent Absolvierende der Studienvarianten «Querein- 18
+
+stieg» oder «BachelorPlus/MasterPlus»
 
 **2**
 
@@ -5269,39 +5271,37 @@ Hochschulstudium ohne Abschluss oder Studie- 15 rende Berufsausbildung oder Matu
 
 1999[^384-9] oder kantonales Primarschulpatent
 
-**17 17**
+**Lehrpersonen**
 
-Einsatz auf der Sch ulst ufe Hochschulstudium ohne Abschluss oder Studie- 12, rende gemäs s Einsatz auf der Sch ulst ufe
+**17**
+
+Einsatz auf der Sch ulst ufe Hochschulstudium ohne Abschluss oder Studie- 12, rende gemäs s Einsatz auf der Sch ulst ufe Berufsausbildung oder Maturität 12; gemäs s Einsatz auf der Sch ulst ufe
 
 **9,**
 
-Berufsausbildung oder Maturität
-
-12; gemäs s Einsatz auf der Sch ulst ufe
-
 <sup>3</sup> Lehrpersonen und Lehrbeauftragte für den Primarschulunterricht werden wie folgt eingereiht:
+
+**Kategorie**
 
 **LK**
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss den Art. 10 und 18\* des Regle- 18 mentes über die Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom 10. Juni 1999[^384-10] Andere kantonale Primarschulpatente oder Son- 18 derpädagogik- bzw. Heilpädagogik-Patente oder Sekundarstufenpatente Arbeitslehrerinnenpatent mit Präsenzstudium als 18 Fachvertiefung von mindestens 100 Stunden Arbeitslehrerinnenpatent
+Voraussetzung Diplom gemäss den Art. 10 und 18\* des Regle- 18 mentes über die Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom 10. Juni 1999[^384-10] Andere kantonale Primarschulpatente oder Son- 18 derpädagogik- bzw. Heilpädagogik-Patente oder Sekundarstufenpatente Arbeitslehrerinnenpatent mit Präsenzstudium als 18 Fachvertiefung von mindestens 100 Stunden Arbeitslehrerinnenpatent
 
-Lehrbeauf- Kantonales Kindergärtnerinnendiplom tragte[^384-11] Hochschuldiplom
+**Lehrbeauf-**
+
+**17**
+
+**tragte2)**
+
+Kantonales Kindergärtnerinnendiplom
 
 **15**
 
-Absolvierende der Studienvariante Quereinstieg 15
+Hochschuldiplom
 
 **15;**
 
-**12**
-
-Hochschulstudium ohne Abschluss
-
-oder Studierende Berufsausbildung oder Maturität
-
-**9**
-
-<sup>4</sup> …[^384-12]
+Absolvierende der Studienvarianten «Querein- 15 stieg» oder «BachelorPlus/MasterPlus» Hochschulstudium ohne Abschluss oder Studierende Berufsausbildung oder Maturität
 
 <sup>5</sup> Lehrpersonen und Lehrbeauftragte für den Kindergartenunterricht werden wie folgt eingereiht (ab 1. August 2012):
 
@@ -5309,7 +5309,7 @@ oder Studierende Berufsausbildung oder Maturität
 
 Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 10 des Reglementes über die 18 Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom
 
-\10. Juni 1999[^384-13] oder Primarschulpatent
+\10. Juni 1999[^384-11] oder Primarschulpatent
 
 Kindergärtnerinnendiplom mit Präsenzstudium 18 als Fachvertiefung von mindestens 100 Stunden
 
@@ -5317,7 +5317,9 @@ Kindergärtnerinnendiplom mit Präsenzstudium 18 als Fachvertiefung von mindeste
 
 Kantonales Kindergärtnerinnendiplom
 
-Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 15 tragte[^384-14] tent Absolvierende der Studienvariante Quereinstieg 15
+Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 15 tragte[^384-12] tent Absolvierende der Studienvarianten «Querein- 15
+
+stieg» oder «BachelorPlus/MasterPlus»
 
 Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
 
@@ -5327,7 +5329,7 @@ Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Matu
 
 **LK**
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-15] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
+Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-13] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
 
 **19**
 
@@ -5337,7 +5339,7 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 
 [^384-1]: EDK Rechtssammlung 4.2.2.4.
 [^384-2]: EDK Rechtssammlung 4.2.2.4.
-[^384-3]: § 384 Absatz 1 Kategorie «Lehrbeauftragte» Fassung vom 31. Mai 2022.
+[^384-3]: § 384 Absatz 1 Kategorie «Lehrbeauftragte» Fassung vom 4. Juli 2023.
 [^384-4]: § 384 Absatz 2 Fassung vom 21. Dezember 2021.
 [^384-5]: EDK Rechtssammlung 4.2.2.2.
 [^384-6]: EDK Rechtssammlung 4.2.2.2.
@@ -5345,16 +5347,20 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 [^384-8]: EDK Rechtssammlung 4.2.2.4.
 [^384-9]: EDK Rechtssammlung 4.2.2.3.
 [^384-10]: EDK Rechtssammlung 4.2.2.3.
-[^384-11]: § 384 Absatz 3 Kategorie «Lehrbeauftragte» Fassung vom 31. Mai 2022.
-[^384-12]: § 384 Absatz 4 aufgehoben am 26. Juni 2012.
-[^384-13]: EDK Rechtssammlung 4.2.2.3.
-[^384-14]: § 384 Absatz 5 Kategorie «Lehrbeauftragte» Fassung vom 31. Mai 2022.
-[^384-15]: EDK Rechtssammlung 4.2.2.5.
-[^384-16]: § 385 Fassung vom 20. Juni 2011.
+[^384-11]: EDK Rechtssammlung 4.2.2.3.
+[^384-12]: § 384 Absatz 5 Kategorie «Lehrbeauftragte» Fassung vom 4. Juli 2023.
+[^384-13]: EDK Rechtssammlung 4.2.2.5.
+[^384-14]: § 385 Fassung vom 20. Juni 2011.
 
 #### § 385
 
-**Einreihung der Stellvertretenden**[^384-16]
+**12**[^384-14]
+
+**Einreihung der Stellvertretenden**
+
+**9**
+
+**4 …3)**
 
 <sup>1</sup> Die Entschädigung für Stellvertretungen entspricht dem Grundlohn in der jeweils massgebenden Lohnklasse. Dazu kommt der 13. Monatslohn und die Teuerungszulage.
 
@@ -5653,13 +5659,13 @@ Jeder Unterrichtsausfall ist der Schulleitung zu melden.
 
 **Schuljahr**
 
-<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen.
+<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen bei 52 Kalenderwochen und 39 Unterrichtswochen bei 53 Kalenderwochen (§ 7 Abs. 2 Mittelschulgesetz).[^412-1]
 
 <sup>2</sup> Die Weihnachtsferien sind Teil der unterrichtsfreien Zeit und dauern zwei Wochen.
 
 <sup>3</sup> Das Departement für Bildung und Kultur legt den Zeitpunkt fest.
 
-§ 412<sup>bis</sup>.[^412-1] Gesamtarbeitsleistung
+§ 412<sup>bis</sup>.[^412-2] Gesamtarbeitsleistung
 
 <sup>1</sup> Die jährliche Gesamtarbeitsleistung der Lehrpersonen entspricht grundsätzlich jener der übrigen Arbeitnehmenden des Kantons. Die Wochenarbeitszeit der Lehrpersonen wird jedoch mit Rücksicht auf die unterschiedliche Belastung während und ausserhalb der Unterrichtswochen nicht explizit festgesetzt. Die zeitliche Mehrbelastung wird in der unterrichtsfreien Arbeitszeit ausgeglichen.
 
@@ -5667,15 +5673,16 @@ Jeder Unterrichtsausfall ist der Schulleitung zu melden.
 
 - b) weitere Arbeit mit Präsenzverpflichtung wie Teilnahme an Sitzungen, Konferenzen und Schulanlässen, Durchführung von Schulanlässen, Weiterbildung im Kollegium usw.;
 
-- c) Arbeit ohne Präsenzverpflichtung wie Unterrichtsvorbereitung, Auswertung, Auswertung des Unterrichts, persönliche Weiterbildung usw.[^412-2]
+- c) Arbeit ohne Präsenzverpflichtung wie Unterrichtsvorbereitung, Auswertung, Auswertung des Unterrichts, persönliche Weiterbildung usw.[^412-3]
 
-[^412-1]: § 412bis eingefügt am 9. Mai 2011.
-[^412-2]: Der Regierungsrat hat am 16. November 2010 die prozentuale Aufteilung der Arbeitszeit auch für den Mittelschulbereich festgelegt. Der Unterricht gemäss § 406bis Absatz 2 Buchstabe a umfasst mindestens 85 % der Jahresarbeitszeit einer Lehrperson (RRB Nr. 2010/2086).
-[^412-3]: § 413 Fassung vom 17. Februar 2015.
+[^412-1]: § 412 Absatz 1 Fassung vom 24. Oktober 2022.
+[^412-2]: § 412bis eingefügt am 9. Mai 2011.
+[^412-3]: Der Regierungsrat hat am 16. November 2010 die prozentuale Aufteilung der Arbeitszeit auch für den Mittelschulbereich festgelegt. Der Unterricht gemäss § 406bis Absatz 2 Buchstabe a umfasst mindestens 85 % der Jahresarbeitszeit einer Lehrperson (RRB Nr. 2010/2086).
+[^412-4]: § 413 Fassung vom 17. Februar 2015.
 
 #### § 413
 
-**Pflichtpensum**[^412-3]
+**Pflichtpensum**[^412-4]
 
 <sup>1</sup> Das wöchentliche Pflichtpensum (Vollpensum) der Lehrpersonen an den Mittelschulen beträgt grundsätzlich 23.5 Lektionen zu 45 Minuten.
 
@@ -5877,17 +5884,11 @@ Die Altersentlastung hat Einfluss weder auf die späteren Ansprüche gegenüber 
 
 Die Einreihung der Lehrpersonen, Lehrbeauftragten und Stellvertretenden ist in den §§ 442 – 444 geregelt.
 
+[^425-1]: § 426 aufgehoben am 24. Oktober 2022.
+
 #### § 426
 
-**Anrechnung von Schuldienst**
-
-<sup>1</sup> Für die Entlöhnung wird folgender Schuldienst angerechnet:
-
-- a) Schuldienst an andern Schulen, auch ausserkantonalen, in der Regel vom Zeitpunkt an, da eine Lehrperson die solothurnische Lehrberechtigung erworben hat;
-
-- b) Stellvertretungen an einer öffentlichen solothurnischen Schule sowie die Dienstzeit an einer staatlichen oder staatlich anerkannten solothurnischen Anstalt, wenn sie zusammen wenigstens ein Schuljahr ergeben.
-
-<sup>2</sup> Im Einzelfall entscheidet das Departement für Bildung und Kultur.
+**…[^425-1]**
 
 #### § 427
 
@@ -6289,13 +6290,13 @@ Jeder Unterrichtsausfall ist der direkt vorgesetzten Stelle zu melden.
 
 **Schuljahr**
 
-<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen.
+<sup>1</sup> Das Schuljahr umfasst 38 Unterrichtswochen bei 52 Kalenderwochen und 39 Unterrichtswochen bei 53 Kalenderwochen (§ 20 Abs. 1 Gesetz über die Berufsbildung).[^463-1]
 
 <sup>2</sup> Die Weihnachtsferien sind Teil der unterrichtsfreien Zeit und dauern zwei Wochen.
 
 <sup>3</sup> Das Departement für Bildung und Kultur legt den Zeitpunkt fest.
 
-§ 463<sup>bis</sup>.[^463-1] Gesamtarbeitszeit
+§ 463<sup>bis</sup>.[^463-2] Gesamtarbeitszeit
 
 <sup>1</sup> Die jährliche Gesamtarbeitszeit der Lehrpersonen entspricht grundsätzlich jener der übrigen Arbeitnehmenden des Kantons. Die Wochenarbeitszeit der Lehrpersonen wird jedoch mit Rücksicht auf die unterschiedliche Belastung während und ausserhalb der Unterrichtswochen nicht explizit festgesetzt. Die zeitliche Mehrbelastung wird in der unterrichtsfreien Arbeitszeit ausgeglichen.
 
@@ -6307,12 +6308,13 @@ Jeder Unterrichtsausfall ist der direkt vorgesetzten Stelle zu melden.
 
 <sup>3</sup> Der Tätigkeitsbereich gemäss § 456<sup>bis</sup> Absatz 2 Buchstabe a umfasst mindestens 85 Prozent der Jahresarbeitszeit einer Lehrperson.
 
-[^463-1]: § 463bis eingefügt am 9. Mai 2011.
-[^463-2]: § 464 Fassung vom 22. April 2008.
+[^463-1]: § 463 Absatz 1 Fassung vom 24. Oktober 2022.
+[^463-2]: § 463bis eingefügt am 9. Mai 2011.
+[^463-3]: § 464 Fassung vom 22. April 2008.
 
 #### § 464
 
-**Pflichtpensum**[^463-2]
+**Pflichtpensum**[^463-3]
 
 <sup>1</sup> Das wöchentliche Pflichtpensum (Vollpensum) der Lehrpersonen an den Berufsschulen beträgt grundsätzlich 26.5, für den Sportunterricht 27.5 Lektionen zu 45 Minuten. Das wöchentliche Pflichtpensum (Vollpensum) der Lehrpersonen an den Höheren Fachschulen beträgt 23.5 Lektionen zu 45 Minuten.[^464-1]
 
@@ -6526,17 +6528,11 @@ Die Altersentlastung hat Einfluss weder auf die späteren Ansprüche gegenüber 
 
 Die Einreihung der Lehrpersonen, Lehrbeauftragten und Stellvertretenden ist in den §§ 498 - 500 geregelt.
 
+[^482-1]: § 483 aufgehoben am 24. Oktober 2022.
+
 #### § 483
 
-**Anrechnung von Schuldienst**
-
-<sup>1</sup> Für die Entlöhnung wird folgender Schuldienst angerechnet:
-
-- a) Schuldienst an andern Schulen, auch ausserkantonalen, in der Regel vom Zeitpunkt an, da eine Lehrperson die solothurnische Lehrberechtigung erworben hat;
-
-- b) Stellvertretungen an einer öffentlichen solothurnischen Schule sowie die Dienstzeit an einer staatlichen oder staatlich anerkannten solothurnischen Anstalt, wenn sie zusammen wenigstens ein Schuljahr ergeben.
-
-<sup>2</sup> Im Einzelfall entscheidet das Departement für Bildung und Kultur.
+**…[^482-1]**
 
 #### § 484
 
@@ -6996,7 +6992,11 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 31\. Januar 2023 am 1. Januar 2023;
 
-- 28\. März 2023 am 1. April 2023.
+- 28\. März 2023 am 1. April 2023;
+
+- 24\. Oktober 2022 am 1. August 2023;
+
+- 4\. Juli 2023 am 1. August 2023.
 
 ## Weitere Fussnoten
 
@@ -7006,3 +7006,5 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 - [2] Fassung vom 20. Juni 2011.
 - [3] Fassung vom 20. Juni 2011.
 - [1] § 347 aufgehoben am 9. Mai 2011.
+- [2] § 384 Absatz 3 Kategorie «Lehrbeauftragte» Fassung vom 4. Juli 2023.
+- [3] § 384 Absatz 4 aufgehoben am 26. Juni 2012.
