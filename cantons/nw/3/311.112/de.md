@@ -4,32 +4,35 @@ number: "311.112"
 title: Vereinbarung über die Entlöhnung der Lehrpersonen der Gemeindeschulen
 short: Entlöhnungsvereinbarung
 language: de
-version: 2018-08-01
-corrected: 2021-11-26
-version_adopted: 2018-02-27
+version: 2023-08-01
+version_adopted: 2023-06-27
 adopted: 2009-05-28
 in_force: 2009-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/311.112"
-pdf: "https://gesetze.nw.ch/api/de/versions/436/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1167/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vereinbarung über die Entlöhnung der Lehrpersonen der Gemeindeschulen (Entlöhnungsvereinbarung)
+# Vereinbarung über die Entlöhnung der Lehrpersonen der Gemeindeschulen
 
-vom 28. Mai 2009[^t-1]
+(Entlöhnungsvereinbarung)
 
-Die Schulgemeinden von Nidwalden, gestützt auf Art. 23 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^t-2], vereinbaren:
+vom 28.05.2009 (Stand 01.08.2023)
 
-[^t-1]: A 2009, 1567
-[^t-2]: NG 311.1
+Die Schulgemeinden von Nidwalden,
+
+gestützt auf Art. 23 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^ingress-1],
+
+vereinbaren:
+
+[^ingress-1]: NG 311.1
 
 #### Art. 1
 
 **Geltungsbereich**
 
-Diese Vereinbarung regelt die Entlöhnung des Lehrpersonals der Gemeindeschulen.
+<sup>1</sup> Diese Vereinbarung regelt die Entlöhnung des Lehrpersonals der Gemeindeschulen.
 
 #### Art. 2
 
@@ -47,19 +50,33 @@ Diese Vereinbarung regelt die Entlöhnung des Lehrpersonals der Gemeindeschulen.
 
 <sup>1</sup> Die Entlöhnung des Lehrpersonals erfolgt gemäss den Bestimmungen der kantonalen Personalgesetzgebung[^3-1] einschliesslich der Vollzugsverordnung betreffend die Lehrpersonen (Lehrpersonalverordnung)[^3-2].
 
-**1**
+<sup>2</sup> Die Einreihung der Lehrpersonen in die Lohnbänder wird wie folgt festgelegt:
 
-Stand: 1. Januar 2016
-
-<sup>2</sup> Die Einreihung der Lehrpersonen in die Lohnbänder wird im Anhang festgelegt.
+- 1\. Lehrperson für den Kindergarten:
+  - a) mit Kindergartendiplom: Lohnband L9
+  - b) mit Lehrperson Kindergarten / Unterstufe: Lohnband L10
+- 2\. Lehrperson Deutsch für fremdsprachige Kinder:
+  - a) mit Diplom in Deutsch als Zweitsprache (DaZ): Lohnband L9
+  - b) mit Lehrdiplom Kindergarten/Unterstufe oder Primarstufe: Lohnband L10
+- 3\. Lehrperson für die Primarschule: Lohnband L10
+- 4\. Lehrperson für die Kleinklasse an der Primarschule: Lohnband L12
+- 5\. Schulische Heilpädagogin und Schulischer Heilpädagoge: Lohnband L12
+- 6\. Fachlehrperson für die Sekundarstufe I: Lohnband L12
+- 7\. Fächergruppen-Lehrperson für die Sekundarstufe I: Lohnband L13
+- 8\. Lehrpersonen für Instrumentalunterricht und Sologesang:
+  - a) Lehrperson I: Lohnband L12
+  - b) Lehrperson II: Lohnband L11
+  - c) Lehrperson III: Lohnband L10
+  - d) Lehrperson IV: Lohnband L9
+  - e) Lehrperson V: Lohnband L6
+  - f) Lehrperson VI: Lohnband L5, L3
 
 [^3-1]: NG 165
 [^3-2]: NG 165.117
-[^3-3]: Fassung gemäss Beschluss der Schulgemeinden beziehungsweise politischen Gemeinden von Nidwalden vom 22. September 2015, vom Regierungsrat Nidwalden genehmigt am 11. November 2015, A 2015, 1834; in Kraft seit 1. Januar 2016
 
 #### Art. 4
 
-**…[^3-3]**
+**…**
 
 #### Art. 5
 
@@ -75,7 +92,7 @@ Stand: 1. Januar 2016
 
 **Aufhebung bisherigen Rechts**
 
-Die Vereinbarung vom 18. Oktober 2000[^6-1] wird aufgehoben.
+<sup>1</sup> Die Vereinbarung vom 18. Oktober 2000[^6-1] wird aufgehoben.
 
 [^6-1]: A 2000, 1679
 
@@ -83,90 +100,31 @@ Die Vereinbarung vom 18. Oktober 2000[^6-1] wird aufgehoben.
 
 **Inkrafttreten**
 
-Diese Vereinbarung tritt nach erfolgter Annahme durch die Mehrheit der Schulgemeinden, vertreten durch die Schulräte, sowie nach erfolgter Verbindlicherklärung durch den Regierungsrat am 1. August 2009 in Kraft. Sie ist in die Gesetzessammlung aufzunehmen.
+<sup>1</sup> Diese Vereinbarung tritt nach erfolgter Annahme durch die Mehrheit der Schulgemeinden, vertreten durch die Schulräte, sowie nach erfolgter Verbindlicherklärung durch den Regierungsrat am 1. August 2009 in Kraft. Sie ist in die Gesetzessammlung aufzunehmen.
 
-Die Schulräte der Schulgemeinden haben der Entlöhnungsvereinbarung wie folgt zugestimmt:
+<sup>2</sup> Die Schulräte der Schulgemeinden haben der Entlöhnungsvereinbarung wie folgt zugestimmt:
 
-Schulrat Stansstad Beschluss vom 08. Juni 2009 Schulrat Ennetbürgen Beschluss vom 09. Juni 2009 Schulrat Wolfenschiessen Beschluss vom 09. Juni 2009 Schulrat Ennetmoos Beschluss vom 17. Juni 2009 Schulrat Buochs Beschluss vom 23. Juni 2009 Schulrat Beckenried Beschluss vom 30. Juni 2009 Schulrat Dallenwil Beschluss vom 30. Juni 2009 Schulrat Hergiswil Beschluss vom 30. Juni 2009 Schulrat Oberdorf Beschluss vom 30. Juni 2009 Schulrat Stans Beschluss vom 30. Juni 2009 Schulrat Emmetten Beschluss vom 19. August 2009
+<table>
+<tr><th>Schulgemeinde</th><th>Beschluss</th></tr>
+<tr><td>Schulrat Stansstad</td><td>Beschluss vom 08. Juni 2009</td></tr>
+<tr><td>Schulrat Ennetbürgen</td><td>Beschluss vom 09. Juni 2009</td></tr>
+<tr><td>Schulrat Wolfenschiessen</td><td>Beschluss vom 09. Juni 2009</td></tr>
+<tr><td>Schulrat Ennetmoos</td><td>Beschluss vom 17. Juni 2009</td></tr>
+<tr><td>Schulrat Buochs</td><td>Beschluss vom 23. Juni 2009</td></tr>
+<tr><td>Schulrat Beckenried</td><td>Beschluss vom 30. Juni 2009</td></tr>
+<tr><td>Schulrat Dallenwil</td><td>Beschluss vom 30. Juni 2009</td></tr>
+<tr><td>Schulrat Hergiswil</td><td>Beschluss vom 30. Juni 2009</td></tr>
+<tr><td>Schulrat Oberdorf</td><td>Beschluss vom 30. Juni 2009</td></tr>
+<tr><td>Schulrat Stans</td><td>Beschluss vom 30. Juni 2009</td></tr>
+<tr><td>Emmetten</td><td>Beschluss vom 19. August 2009</td></tr>
+</table>
 
-Vom Regierungsrat Nidwalden an der Sitzung vom 27. August 2009 mit Beschluss Nr. 559 genehmigt und für alle Schulgemeinden mit Wirkung ab 1. August 2009 verbindlich erklärt.
+<sup>3</sup> Vom Regierungsrat Nidwalden an der Sitzung vom 27. August 2009 mit Beschluss Nr. 559 genehmigt und für alle Schulgemeinden mit Wirkung ab 1. August 2009 verbindlich erklärt.
 
-**3**
+## A1
 
-Stand: 1. Januar 2016
+#### Art. A1-1
 
-[^7-1]: A 2009, 1567
+**…**
 
-### ANHANG
-
-[^7-1]
-
-### Einreihung
-
-### Lehrperson für den Kindergarten
-
-**Lohnband L9 Lohnband L10**
-
-mit Kindergartendiplom mit Lehrperson Kindergarten/Unterstufe
-
-### Lehrperson Deutsch für fremdsprachige Kinder Lohnband L9
-
-**Lohnband L10**
-
-### Fachlehrperson für die Primarschule
-
-### Klassenlehrperson an der 1. bis 4. Klasse der Lohnband L10 Primarschule
-
-### Klassenlehrperson an der 1. bis 4. Kleinklasse Lohnband L12
-
-der Primarschule
-
-### Klassenlehrperson an der 5. und 6. Klasse der Lohnband L10 Primarschule
-
-### Klassenlehrperson an der 5. und 6. Kleinklasse Lohnband L12
-
-der Primarschule
-
-**Lohnband L12**
-
-### Schulische Heilpädagogin und Schulischer Heilpädagoge
-
-**Lohnband L11 Lohnband L12 Lohnband L13**
-
-### Fachlehrperson II für die Sekundarstufe I
-
-### Fachlehrperson I für die Sekundarstufe I
-
-### Fächergruppen-Lehrperson für die Sekundarstufe I ohne Klassenlehrerfunktion
-
-**Lohnband L13**
-
-### Fächergruppen-Lehrperson für die Sekundarstufe I mit Klassenlehrerfunktion
-
-### Lehrpersonen für Instrumentalunterricht und Sologesang
-
-**Lohnband L12 Lohnband L11 Lohnband L10**
-
-### Lehrperson I
-
-### Lehrperson II
-
-### Lehrperson III
-
-**5**
-
-Stand: 1. August 2018
-
-**Lohnband L9 Lohnband L6 Lohnband L5, L3**
-
-### Lehrperson IV
-
-### Lehrperson V
-
-### Lehrperson VI
-
-<sup>1</sup> Fassung gemäss Beschlüssen der Schulgemeinden Emmetten, Oberdorf und Stansstad beziehungsweise der politischen Gemeinden Buochs, Ennetbürgen, Dallenwil, Hergiswil und Stans, vom Regierungsrat Nidwalden am 27. Februar 2018 genehmigt und Schulgemeinden beziehungsweise politischen Gemeinden verbindlich erklärt; in Kraft seit 1. August 2018
-
-**für alle**
-
-6
+A 2009, 1567
