@@ -3,20 +3,19 @@ canton: ZG
 number: "414.191"
 title: Reglement über die Abschlussprüfungen an der Fachmittelschule
 language: de
-version: 2020-08-01
-valid_until: 2023-07-31
-version_adopted: 2020-07-20
+version: 2023-08-01
+version_adopted: 2022-11-07
 adopted: 2008-07-18
 in_force: 2008-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.191"
-pdf: "https://bgs.zg.ch/api/de/versions/2123/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2462/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Abschlussprüfungen an der Fachmittelschule
 
-Vom 18. Juli 2008 (Stand 1. August 2020)
+Vom 18. Juli 2008 (Stand 1. August 2023)
 
 Die Direktion für Bildung und Kultur des Kantons Zug,
 
@@ -79,7 +78,7 @@ beschliesst:
 
 <sup>2</sup> Die Prüfungskonferenz stellt die Ergebnisse fest und prüft diese auf Korrektheit.
 
-<sup>3</sup> Bei einem knappen Verfehlen der Bestehensnormen kann die Prüfungskonferenz entscheiden, ob im Rahmen des pädagogischen Ermessens maximal zwei Fachnoten angehoben werden, bei denen vorgängig leistungsbasiert ein Potential zur Anhebung deklariert wurde, um so der Schülerin bzw. dem Schüler das Bestehen des Abschlusses zu ermöglichen. Der Entscheid zum Bestehen des Abschlusses durch Anhebung von einer oder zwei Fachnoten setzt eine Stimmenmehrheit der Prüfungskonferenz voraus.
+<sup>3</sup> …
 
 #### § 5
 
@@ -109,22 +108,22 @@ beschliesst:
 
 **Massgebende Fächer**
 
-<sup>1</sup> Der Abschluss mit Fachmittelschulausweis umfasst mindestens 11 Noten, nämlich in
+<sup>1</sup> Der Abschluss mit Fachmittelschulausweis umfasst mindestens 11 Noten, nämlich in:
 
-- a) Deutsch/Philosophie
+- a) Deutsch
 - b) zwei Fremdsprachen aus Englisch, Französisch, Italienisch
 - c) Mathematik
-- d) Integrierte Naturwissenschaften
-- e) Volkswirtschaft / Betriebswirtschaft / Recht
-- f) Geschichte / Staatslehre
+- d) Biologie
+- e) Geisteswissenschaften (Geschichte/Geografie)
+- f) Wirtschaft und Gesellschaft (Wirtschaft und Recht/Staat und Gesellschaft)
 - g) Sport
-- h) zwei berufsfeldbezogenen Fächern gemäss gewähltem Berufsfeld
+- h) mindestens zwei berufsfeldbezogenen Fächern gemäss gewähltem Berufsfeld
 - i) einer selbstständigen Arbeit
 
 <sup>2</sup> Die berufsfeldbezogenen Fächer sind:
 
-- a) im Berufsfeld Gesundheit: berufsfeldbezogene Naturwissenschaften und Sozialwissenschaften
-- b) im Berufsfeld Pädagogik und Soziales: Musische Aktivitäten und Sozialwissenschaften
+- a) im Berufsfeld Gesundheit: Gesundheitslehre, Naturwissenschaften (Chemie/Physik) und Sozialwissenschaften (Psychologie/Philosophie)
+- b) im Berufsfeld Pädagogik und Soziale Arbeit: Sozialwissenschaften (Psychologie/Philosophie) und Kontraste (Bildnerisches Gestalten/Musik/Kunstgeschichte)
 
 #### § 8
 
@@ -145,13 +144,15 @@ beschliesst:
 - a) Deutsch
 - b) Französisch oder Italienisch oder Englisch
 - c) Mathematik
-- d) Drei Fächer aus den vier Lernbereichen
+- c1) Biologie
+- d) Zwei Fächer aus den Lernbereichen
   - 1\. Sprachen
   - 2\. Naturwissenschaften
-  - 3\. Sozialwissenschaften
-  - 4\. Musische Aktivitäten und Sport.
+  - 3\. Geistes- und Sozialwissenschaften
+  - 4\. Musische Fächer
+  - 5\. Sport
 
-<sup>2</sup> Mindestens eines und höchstens zwei der Fächer gemäss Bst. d müssen berufsfeldbezogene Fächer sein.
+<sup>2</sup> Mindestens eines der Fächer gemäss Bst. d muss ein berufsfeldbezogenes Fach sein.
 
 <sup>3</sup> Die Schulleitung legt fest, welche der Lernbereiche und Fächer geprüft werden.
 
@@ -208,12 +209,12 @@ beschliesst:
 <sup>1</sup> Prüfungsfreie Fächer:
 
 - a) Die Fachnote dieser Fächer entspricht dem arithmetischen Mittel der Einzelwertungen des letzten Jahres, in welchem das jeweilige Fach unterrichtet wurde, gerundet auf ganze und halbe Noten.
-- b) Im Fach Sozialwissenschaften entspricht die Fachnote dem arithmetischen Mittel der je auf eine Dezimalstelle gerundeten Jahresnoten der beiden Fächer Psychologie und Gesellschaftskunde, gerundet auf ganze und halbe Noten.
+- b) In den integrierten Fächern (Geisteswissenschaften, Sozialwissenschaften, Wirtschaft und Gesellschaft) entspricht die Fachnote dem arithmetischen Mittel der je auf eine Dezimalstelle gerundeten Jahresnoten der beiden beteiligten Fächer, gerundet auf ganze und halbe Noten.
 
 <sup>2</sup> Prüfungsfächer:
 
 - a) Die Erfahrungsnote entspricht dem arithmetischen Mittel der Einzelwertungen des letzten Jahres, in welchem das jeweilige Fach unterrichtet wurde, gerundet auf die Dezimalstelle.
-- b) Im Fach Sozialwissenschaften entspricht die Erfahrungsnote dem arithmetischen Mittel der je auf eine Dezimalstelle gerundeten Jahresnoten der beiden Fächer Psychologie und Gesellschaftskunde, gerundet auf die Dezimalstelle.
+- b) In den integrierten Fächern (Geisteswissenschaften, Sozialwissenschaften, Wirtschaft und Gesellschaft) entspricht die Erfahrungsnote dem arithmetischen Mittel der je auf eine Dezimalstelle gerundeten Jahresnoten der beiden beteiligten Fächer, gerundet auf die Dezimalstelle.
 - c) Die schriftlichen und mündlichen Prüfungen werden mit Zehntelsnoten bewertet.
 - d) Die Prüfungsnote in den schriftlich und mündlich bzw. praktisch geprüften Fächern entspricht dem arithmetischen Mittel der Noten der schriftlichen und mündlichen Prüfung, gerundet auf die Dezimalstelle.
 - e) Die Fachnote entspricht dem arithmetischen Mittel aus der Erfahrungs- und der Prüfungsnote und wird auf ganze oder halbe Noten gerundet.
@@ -254,6 +255,7 @@ beschliesst:
 - a) die Bezeichnung Kanton Zug und den Namen der Schule,
 - b) Name, Vorname, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit) sowie Geburtsdatum der Absolventin bzw. des Absolventen,
 - c) den Vermerk «gesamtschweizerisch anerkannter Fachmittelschulausweis»,
+- c1) die Bezeichnung des Berufsfeldes beziehungsweise der Berufsfelder,
 - d) die Bestätigung und Bewertung der Fächer der Allgemeinbildung,
 - e) die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer,
 - f) das Thema und die Bewertung der selbstständigen Arbeit.
@@ -274,7 +276,7 @@ beschliesst:
 
 <sup>2</sup> Es sind die Fachkenntnisse und die Selbstständigkeit im Denken zu prüfen.
 
-<sup>3</sup> Inhalte und Anforderungen in den einzelnen Prüfungsfächern entsprechen den Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik im Anhang des Reglements über die Anerkennung der Abschlüsse von Fachmittelschulen vom 25. Oktober 2018 und den Lehrplänen der Fachmittelschulrektorenkonferenz der Zentralschweiz vom 8. Mai 2008.
+<sup>3</sup> Inhalte und Anforderungen in den einzelnen Prüfungsfächern entsprechen den Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik im Anhang des Reglements über die Anerkennung der Abschlüsse von Fachmittelschulen vom 25. Oktober 2018 und den Lehrplänen der Fachmittelschule Zug.
 
 <sup>4</sup> Es können auch einzelne Inhalte aus dem 2. und 3. Jahr der Fachmittelschule geprüft werden.
 
@@ -377,6 +379,7 @@ beschliesst:
 - a) die Bezeichnung Kanton Zug und den Namen der Schule,
 - b) Name, Vorname, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit) sowie Geburtsdatum der Absolventin bzw. des Absolventen,
 - c) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»
+- c1) die Bezeichnung des Berufsfeldes beziehungsweise der Berufsfelder,
 - d) die Bestätigung und Bewertung der Fächer der Allgemeinbildung,
 - e) die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer,
 - f) die Bestätigung von Thema und Bewertung der selbstständigen Arbeit,
@@ -404,7 +407,9 @@ beschliesst:
 
 <sup>2</sup> Die Ziele des Praktikums sind in den Rahmenvorgaben zur Fachmaturität Berufsfeld Soziale Arbeit definiert.
 
-<sup>3</sup> Das Praktikum dauert zwölf Monate (inklusive Ferien), wovon mindestens sechs Monate in einem Betrieb mit sozialem Schwerpunkt absolviert werden müssen.
+<sup>3</sup> Das Praktikum dauert 24 Wochen.
+
+<sup>4</sup> Für die Vorbereitung, Begleitung und Auswertung des Praktikums sowie das Verfassen der Fachmaturitätsarbeit stehen zusätzlich acht Wochen zur Verfügung.
 
 #### § 31
 
@@ -420,7 +425,7 @@ beschliesst:
 
 <sup>1</sup> Die Qualifikation der Praktikumsleistungen im sozialen Betrieb erfolgt durch die Praktikumsleitung in Form eines Beurteilungsgesprächs und anhand des Qualifikationsbogens.
 
-<sup>2</sup> Das im nichtsozialen Bereich absolvierte Praktikum muss vom Praktikumsbetrieb schriftlich bestätigt werden.
+<sup>2</sup> …
 
 #### § 33
 
@@ -445,7 +450,7 @@ beschliesst:
 <sup>1</sup> Die Fachmaturität wird erteilt, wenn gleichzeitig
 
 - a) das Praktikum im sozialen Bereich mit dem Prädikat «erfüllt» abgeschlossen wurde,
-- b) im Falle einer zweiten Praktikumsstelle im nichtsozialen Bereich die schriftliche Bestätigung des Praktikumsbetriebs vorliegt,
+- b) …
 - c) die Fachmaturitätsarbeit mindestens mit der Gesamtnote von 4.0 bewertet wird.
 
 #### § 35
@@ -489,6 +494,7 @@ beschliesst:
 - a) die Bezeichnung Kanton Zug und den Namen der Schule;
 - b) Name, Vorname, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit) sowie Geburtsdatum der Absolventin bzw. des Absolventen;
 - c) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
+- c1) die Bezeichnung des Berufsfeldes beziehungsweise der Berufsfelder,
 - d) die Bestätigung und Bewertung der Allgemeinbildung aus dem Fachmittelschulausweis;
 - e) die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer aus dem Fachmittelschulausweis;
 - f) die Bestätigung von Thema und Bewertung der selbstständigen Arbeit;
@@ -516,7 +522,9 @@ beschliesst:
 
 <sup>2</sup> Die Rahmenvorgaben zur Fachmaturität Berufsfeld Gesundheit geben die Ziele des Praktikums vor.
 
-<sup>3</sup> Das Praktikum dauert 26 Wochen (bei einem Anstellungsgrad von 100 %, inklusive Ferien).
+<sup>3</sup> Das Praktikum dauert 24 Wochen.
+
+<sup>4</sup> Für die Vorbereitung, Begleitung und Auswertung des Praktikums sowie das Verfassen der Fachmaturitätsarbeit stehen zusätzlich acht Wochen zur Verfügung.
 
 #### § 41
 
@@ -598,14 +606,23 @@ beschliesst:
 - a) die Bezeichnung Kanton Zug und den Namen der Schule;
 - b) Name, Vorname, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit) sowie Geburtsdatum der Absolventin bzw. des Absolventen;
 - c) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
+- c1) die Bezeichnung des Berufsfeldes beziehungsweise der Berufsfelder;
 - d) die Bestätigung und Bewertung der Allgemeinbildung aus dem Fachmittelschulausweis;
 - e) die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer aus dem Fachmittelschulausweis;
 - f) die Bestätigung von Thema und Bewertung der selbstständigen Arbeit;
 - g) die Bestätigung und Bewertung des Fachmaturitätspraktikums;
-- h) den Titel und die Bewertung der Fachmaturitätsarbeit sowie
+- h) den Titel und die Bewertung der Fachmaturitätsarbeit; sowie
 - i) den Ort und das Datum.
 
 ## 7. Schlussbestimmungen
+
+#### § 48a
+
+**Rechtsmittel**
+
+<sup>1</sup> Der Rechtsschutz gegen Entscheide gestützt auf dieses Reglement richtet sich nach den Bestimmungen der Rechtspflege des Schulgesetzes vom 27. September 1990[^48a-1].
+
+[^48a-1]: BGS [412.11](https://bgs.zg.ch/data/412.11/de)
 
 #### § 49
 
