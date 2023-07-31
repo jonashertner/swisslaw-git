@@ -4,13 +4,13 @@ number: "421.322"
 title: Verordnung über die Ressourcierung der Volksschule
 short: Ressourcenverordnung
 language: de
-version: 2023-03-10
-valid_until: 2023-07-31
-version_adopted: 2023-02-15
+version: 2023-08-01
+valid_until: 2024-05-31
+version_adopted: 2023-06-21
 adopted: 2019-03-20
 in_force: 2020-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.322"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3297/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3297/pdf_file"
 
 (Ressourcenverordnung)
 
-Vom 20.03.2019 (Stand 10.03.2023)
+Vom 20.03.2019 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -140,6 +140,12 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 <sup>2</sup> Die Zuteilung bedarf einer vorgängigen detaillierten Überprüfung der Situation durch das BKS und einer Klärung, ob alle Handlungsmöglichkeiten der Schule ausgeschöpft wurden.
 
 <sup>3</sup> Das BKS teilt den Schulträgern ab dem 24. Februar 2022 bis Ende Schuljahr 2023/2024 für schutzbedürftige Schülerinnen und Schüler aus der Ukraine zusätzliche Ressourcen zu. Absatz 2 kommt dabei nicht zur Anwendung.
+
+#### § 10a
+
+**Mentorat "Begleiteter Berufseinstieg"**
+
+<sup>1</sup> Das BKS teilt auf Gesuch des Schulträgers die für das Mentorat im Rahmen der Pilotierung "Begleiteter Berufseinstieg" erforderlichen, zusätzlichen Ressourcen zu.
 
 #### § 11
 
@@ -268,6 +274,8 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 
 <sup>2</sup> Für die Ressourcierung bis Ende des Schuljahrs 2019/20 gilt das bisherige Recht.
+
+<sup>3</sup> § 10a gilt bis 31. Juli 2025.
 
 Aarau, 20. März 2019
 
