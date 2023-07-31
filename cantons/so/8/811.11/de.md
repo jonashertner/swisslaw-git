@@ -4,13 +4,13 @@ number: "811.11"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2023-07-01
-valid_until: 2023-07-31
-version_adopted: 2023-06-18
+version: 2023-08-01
+valid_until: 2024-06-30
+version_adopted: 2022-01-26
 adopted: 2018-12-19
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.11"
-pdf: "https://bgs.so.ch/api/de/versions/5364/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5364/pdf_file"
 
 (GesG)
 
-Vom 19.12.2018 (Stand 01.07.2023)
+Vom 19.12.2018 (Stand 01.08.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -703,13 +703,13 @@ beschliesst:
 
 <sup>1</sup> Der schulärztliche Dienst unterstützt die Gesundheitsversorgung der Kinder und Jugendlichen während der obligatorischen Schulzeit und ist in besonderen Situationen Ansprechpartner für medizinische Belange.
 
-<sup>2</sup> Die Gemeinden stellen den schulärztlichen Dienst in der Regelschule sicher, indem sie:
+<sup>2</sup> Die Gemeinden stellen den schulärztlichen Dienst in den kommunalen Volksschulangeboten sicher, indem sie:
 
 - a) Schulärzte und Schulärztinnen, die über eine Berufsausübungsbewilligung verfügen, bezeichnen und mit diesen entsprechende Vereinbarungen abschliessen;
 - b) die Kosten der freiwilligen Vorsorgeuntersuchungen tragen;
 - c) die Einzelheiten, insbesondere die Aufgaben des schulärztlichen Dienstes, die Vorsorgeuntersuchungen, die Kosten und den Miteinbezug der Privatschulen, in einem Reglement regeln.
 
-<sup>3</sup> Der Kanton stellt den schulärztlichen Dienst in den Heilpädagogischen Sonderschulen und den kantonalen Spezialangeboten sicher, indem er:
+<sup>3</sup> Der Kanton stellt den schulärztlichen Dienst in den kantonalen Volksschulangeboten sicher, indem er:
 
 - a) Schulärzte und Schulärztinnen, die über eine Berufsausübungsbewilligung verfügen, bezeichnet und mit diesen entsprechende Vereinbarungen abschliesst;
 - b) die Kosten der freiwilligen Vorsorgeuntersuchungen trägt.
