@@ -4,13 +4,12 @@ number: "132.11"
 title: Geschäftsordnung des Kantonsrats
 short: GO KR
 language: de
-version: 2023-03-01
-valid_until: 2023-07-31
-version_adopted: 2022-12-01
+version: 2023-08-01
+version_adopted: 2023-06-30
 adopted: 2005-04-21
 in_force: 2006-06-30
 url: "http://gdb.ow.ch/app/de/texts_of_law/132.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1785/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1811/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1785/pdf_file"
 
 (GO KR)
 
-vom 21.04.2005 (Stand 01.03.2023)
+vom 21.04.2005 (Stand 01.08.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -101,7 +100,7 @@ beschliesst:
 
 **Sitzungseinladung**
 
-<sup>1</sup> Mindestens zehn Tage vor der Sitzung werden Ort und Zeit sowie Verhandlungsgegenstände im Amtsblatt veröffentlicht und die Einladung an die Ratsmitglieder zusammen mit den Verhandlungsunterlagen versandt.
+<sup>1</sup> Mindestens zehn Tage vor der Sitzung werden Ort und Zeit sowie Verhandlungsgegenstände im Amtsblatt veröffentlicht und die Einladung den Ratsmitgliedern zusammen mit den Verhandlungsunterlagen zugestellt.
 
 <sup>2</sup> Unterlagen, die sich für eine Zustellung nicht eignen, werden während zwei Wochen vor der Sitzung zur Einsichtnahme beim Ratssekretariat aufgelegt.
 
@@ -198,7 +197,7 @@ beschliesst:
 - a. die Namen der an- und abwesenden Ratsmitglieder,
 - b. die Bezeichnung der Beratungsgegenstände und -unterlagen,
 - c. die nach einer elektronischen Aufzeichnung verfassten Voten und die Anträge der Sprechenden,
-- d. die Ergebnisse der Abstimmungen und gefassten Entscheide des Rats, mit Angabe der Namen bei Abstimmungen unter Namensaufruf.
+- d. die Ergebnisse der Abstimmungen und gefassten Entscheide des Rats, mit Angabe der Namen und des einzelnen Stimmverhaltens bei elektronischen Abstimmungen und bei Abstimmungen unter Namensaufruf.
 
 #### Art. 19
 
@@ -477,13 +476,17 @@ beschliesst:
 
 **Stimmabgabe**
 
-<sup>1</sup> Die Stimmabgabe erfolgt durch Handaufheben. Der Rat kann geheime schriftliche Abstimmung beschliessen.
+<sup>1</sup> Die Stimmabgabe erfolgt in der Regel elektronisch. Ist das elektronische Abstimmungssystem nicht verfügbar, erfolgt die Stimmabgabe durch Handaufheben.
 
-<sup>2</sup> Ist das Ergebnis offenkundig, so kann auf die Ermittlung der Stimmenzahlen verzichtet werden, wenn nicht ein Ratsmitglied die Zählung oder die Feststellung des Gegenmehrs verlangt. Bei Schlussabstimmungen findet immer eine Zählung statt; dabei werden auch die Enthaltungen bekannt gegeben.
+<sup>1a</sup> Der Rat kann mit einfachem Mehr die Stimmabgabe durch Handaufheben oder geheime schriftliche Abstimmung beschliessen.
+
+<sup>2</sup> Ist das Ergebnis bei der Stimmabgabe durch Handaufheben offenkundig, so kann auf die Ermittlung der Stimmenzahlen verzichtet werden, wenn nicht ein Ratsmitglied die Zählung verlangt.
+
+<sup>2a</sup> Bei der Zählung der Stimmen werden das Mehr, das Gegenmehr und auch die Enthaltungen bekannt gegeben. Bei Schlussabstimmungen findet immer eine Zählung statt.
 
 <sup>3</sup> Über unbestrittene Anträge wird nicht abgestimmt.
 
-<sup>4</sup> Ein Drittel der anwesenden Ratsmitglieder kann verlangen, dass sowohl die Stimmen als auch die Enthaltungen bekannt gegeben werden oder dass eine Abstimmung unter Namensaufruf durchgeführt wird.
+<sup>4</sup> Ein Drittel der anwesenden Ratsmitglieder kann verlangen, dass eine Abstimmung unter Namensaufruf durchgeführt wird.
 
 #### Art. 45
 
@@ -614,6 +617,8 @@ geändert durch
 
 \- Nachtrag zum Gesetz über den Kantonsrat (Kantonsratsgesetz) vom 15. März 2012, in Kraft seit 1. Juli 2012 (OGS 2012, 15 und 27),
 
-\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1),
+
+\- Nachtrag vom 30. Juni 2023, in Kraft seit 1. August 2023 (OGS 2023, 20)
 
 OGS 2005, 28
