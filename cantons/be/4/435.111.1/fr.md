@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-06-22
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-06-15
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2633/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2844/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2633/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.08.2022)
+du 06.04.2006 (état au 01.08.2023)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -62,7 +62,7 @@ arrête:
 - a est âgé de 25 ans au plus;
 - b ne possède pas de diplôme du degré secondaire II;
 - c dispose de compétences scolaires de base suffisantes pour la préparation professionnelle;
-- d a le niveau linguistique A1 à l'oral et à l'écrit selon le Cadre européen commun de référence pour les langues (CECR) et
+- d …
 - e est très motivé à suivre l’enseignement.
 - f …
 
@@ -226,6 +226,8 @@ arrête:
 
 ### 2.3 Ecoles professionnelles
 
+### 2.3.1a Généralités
+
 #### Art. 9
 
 **Tâches de la direction d’école**
@@ -242,7 +244,7 @@ arrête:
 - h est responsable de la planification, de l’engagement et du développement du personnel;
 - i conseille et dirige le corps enseignant du point de vue technique et pédagogique;
 - k conclut les contrats de formation avec les personnes suivant une formation à plein temps;
-- l recrute des entreprises de stage et surveille leur activité de formation;
+- l recrute des entreprises de stage et surveille leur activité de formation, la compétence fixée à l'article 21g étant réservée;
 - m arrête des descriptifs de poste;
 - n est responsable de l’organisation de l’enseignement et de la grille horaire;
 - o est responsable de la vérification des conditions à remplir pour être admis à l’enseignement en école professionnelle et en tant qu’auditeur ou auditrice libre;
@@ -388,7 +390,9 @@ arrête:
 
 <sup>4</sup> Les personnes qui suivent un cours d'appui ne peuvent en règle générale pas suivre de cours facultatifs. La direction d'école statue par voie de décision sur les exceptions.
 
-### 2.3.1 Cours de culture générale étendue (cours CGE)
+### 2.3.1
+
+### 2.3.2 Cours de culture générale étendue (cours CGE)
 
 #### Art. 21a
 
@@ -440,6 +444,29 @@ arrête:
 <sup>2</sup> Par note de branche, il est entendu la moyenne des notes des deux derniers bulletins semestriels dans une branche donnée.
 
 <sup>3</sup> Si la note obtenue pour la deuxième langue nationale n’est pas prise en compte en vertu de l’article 21d, alinéa 4, l’attestation de cours CGE en fait mention.
+
+### 2.3.3 Formation à la pratique professionnelle dans les écoles de commerce (EC) avec maturité professionnelle (MP)
+
+#### Art. 21f
+
+**Conférence spécialisée**
+
+<sup>1</sup> Les directions des écoles de commerce (EC) cantonales proposant la MP constituent la Conférence spécialisée des écoles de commerce.
+
+<sup>2</sup> La Conférence spécialisée des écoles de commerce définit les conditions stratégiques applicables aux stages de longue durée organisés par les EC.
+
+<sup>3</sup> Elle engage la ou le responsable du Secrétariat central pour les stages de longue durée organisés par les EC avec MP (Secrétariat central EC Stages).
+
+#### Art. 21g
+
+**Secrétariat central**
+
+<sup>1</sup> Le Secrétariat central EC Stages
+
+- a veille à ce que le nombre de places de stage soit suffisant pour les EC cantonales avec MP et
+- c conclut des contrats-cadres avec les entreprises de stage (art. 15 de l'ordonnance fédérale du 19 novembre 2003 sur la formation professionnelle [OFPr][^21g-1]), par lesquels les entreprises de stage s'engagent notamment à fournir une formation à la pratique professionnelle conforme aux prescriptions, à garantir la qualité des stages et à verser le cas échéant un salaire aux personnes en formation.
+
+[^21g-1]: RS [412.101](https://db.clex.ch/link/Bund/412.101/fr)
 
 ### 2.4 Ecoles de commerce (EC) sans maturité professionnelle (MP)
 
@@ -551,11 +578,13 @@ arrête:
 
 **Branches comptant pour la promotion**
 
-<sup>1</sup> Les branches comptant pour la promotion sont définies dans le plan de formation fédéral pour la formation initiale en école du Secrétariat d'Etat à la formation, à la recherche et à l'innovation (SEFRI) et dans le plan d’études cantonal. Les écoles peuvent définir une ou deux branches supplémentaires comptant pour la promotion dans leurs plans d’études respectifs.
+<sup>1</sup> Le plan de formation de la Conférence suisse des branches de formation et d'examens commerciales (CSBFC) du 24 juin 2021 relatif à l'ordonnance du Secrétariat d'État à la formation, à la recherche et à l'innovation (SEFRI) du 16 août 2021 sur la formation professionnelle initiale d'employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC)[^29-1] définit les compétences opérationnelles que les personnes en formation doivent acquérir.
 
-<sup>2</sup> Comptent pour la promotion dix branches en première année de formation, neuf branches en deuxième année et huit branches en troisième.
+<sup>2</sup> Comptent pour la promotion les cinq domaines de compétences opérationnelles qui sont définis dans le plan de formation fédéral.
 
-<sup>3</sup> Les notes de bulletin délivrées dans la branche «sport» ainsi que dans les branches facultatives ne comptent pas pour la promotion.
+<sup>3</sup> Les notes de bulletin délivrées dans le domaine «sport» ainsi que dans les domaines facultatifs ne comptent pas pour la promotion.
+
+[^29-1]: [https://www.becc.admin.ch/becc/public/bvz/beruf/show/68800](https://www.becc.admin.ch/becc/public/bvz/beruf/show/68800)
 
 #### Art. 30
 
@@ -578,8 +607,8 @@ arrête:
 <sup>1</sup> L’élève est admis au semestre suivant si les conditions suivantes sont réunies:
 
 - a la moyenne, arrondie à une décimale, de toutes les notes comptant pour la promotion est d’au moins 4,0,
-- b le nombre de notes de branche insuffisantes ne dépasse pas deux, et
-- c l’écart entre les notes de branche insuffisantes et la note 4,0 ne dépasse pas 2,0 au total.
+- b le nombre de notes insuffisantes ne dépasse pas un, et
+- c l’écart entre la note insuffisante et la note 4,0 ne dépasse pas 1,0.
 
 #### Art. 33
 
@@ -739,10 +768,10 @@ arrête:
 
 <sup>1</sup> Est admis sans examen en MP 1 quiconque,
 
-- a dans la partie germanophone du canton, a été admis définitivement dans un gymnase ou une ECG;
+- a a été admis définitivement dans un gymnase ou une ECG;
 - b dans la partie germanophone du canton, à la fin du premier semestre de la troisième année du degré secondaire I, est jugé apte, en ce qui concerne les compétences disciplinaires, méthodologiques et personnelles en allemand, en français, en mathématiques et dans la discipline «Natur-Mensch-Gesellschaft», à suivre l'enseignement de MP, l’évaluation se faisant en appliquant par analogie les dispositions régissant les recommandations pour la fréquentation de la filière gymnasiale;
-- b1 a été admis définitivement à la formation gymnasiale bilingue allemand-français dans un gymnase des régions Bienne-Seeland et Bienne-Jura bernois;
-- c dans la partie francophone du canton, fréquente une «section préparant aux écoles de maturité (section p)».
+- b1 …
+- c dans la partie francophone du canton, fréquente une «section préparant aux écoles de maturité (section p)» à la fin du premier semestre de la troisième année du degré secondaire I.
 
 <sup>2</sup> Dans la partie germanophone du canton, l'autorité compétente pour l'école obligatoire juge l'aptitude du candidat ou de la candidate à suivre l'enseignement de MP 1 et statue par voie de décision sur l'admission.
 
@@ -886,7 +915,7 @@ arrête:
 
 #### Art. 45
 
-**Décision d’admission**
+**Admission**
 
 <sup>1</sup> La direction d’école statue par voie de décision sur l’admission et notifie sa décision en y joignant le relevé des notes.
 
@@ -894,6 +923,12 @@ arrête:
 
 - a dans l’année scolaire qui suit si elle concerne l'admission à une EC avec MP;
 - b dans les deux années qui suivent si elle concerne l'admission à la MP 1.
+
+<sup>3</sup> L’admission en EC avec MP est provisoire pour un semestre.
+
+<sup>4</sup> Est définitivement admis en EC avec MP quiconque remplit les conditions de promotion prévues à l’article 50a à la fin du semestre probatoire.
+
+<sup>5</sup> Quiconque ne remplit pas les conditions de promotion prévues à l’article 50a à la fin du semestre probatoire est exclu de la formation en EC avec MP. Dans des cas motivés, la direction d’école peut prolonger l’admission provisoire d’un semestre.
 
 ### 2.6.2 Admission à l'enseignement de maturité professionnelle pour les professionnels qualifiés (MP 2)
 
@@ -978,22 +1013,36 @@ arrête:
 
 #### Art. 50
 
-**1. MP 1, y compris EC**
+**1. MP 1**
 
 <sup>1</sup> En MP 1, la promotion est régie par l'article 17, alinéas 4 et 5, lettre a de l'ordonnance fédérale du 24 juin 2009 sur la maturité professionnelle fédérale (OMPr)[^50-1].
 
 <sup>2</sup> Les branches comptant pour la promotion sont définies dans le plan d'études cadre pour la maturité professionnelle (PEC MP) du SEFRI, édicté le 18 décembre 2012[^50-2].
 
-<sup>3</sup> Les autres branches comptant pour la promotion dans une EC avec MP sont définies dans le plan d'études cantonal des écoles de commerce.
+<sup>3–4</sup> …
 
-<sup>4</sup> Dans les EC avec MP, les notes de bulletin délivrées dans la branche «sport» ainsi que dans les branches facultatives ne comptent pas pour la promotion.
+[^50-1]: RS [412.103.1](https://db.clex.ch/link/Bund/412.103.1/fr)
+[^50-2]: [https://www.sbfi.admin.ch/sbfi/fr/home/formation/maturite/maturite-professionnelle.html](https://www.sbfi.admin.ch/sbfi/fr/home/formation/maturite/maturite-professionnelle.html)
 
-[^50-1]: RS 412.103.1
-[^50-2]: [https://www.sbfi.admin.ch/sbfi/fr/home/themes/l-espace-suisse-de-formation/maturite/maturite-professionnelle.html](https://www.sbfi.admin.ch/sbfi/fr/home/themes/l-espace-suisse-de-formation/maturite/maturite-professionnelle.html)
+#### Art. 50a
+
+**2. EC avec MP**
+
+<sup>1</sup> La promotion dans les EC avec MP est régie par l'article 17 OMPr. Comptent également pour la promotion la branche «domaine de compétences opérationnelles e» et la branche «connaissances professionnelles» (somme des évaluations obtenues lors d'un semestre dans les domaines de compétences opérationnelles b à d). Les notes de bulletin délivrées dans la branche «sport» ainsi que dans les branches facultatives ne comptent pas pour la promotion.
+
+<sup>2</sup> Quiconque ne remplit pas les conditions de promotion est promu provisoirement. Cela est possible pour la dernière fois à la fin du cinquième semestre de formation.
+
+<sup>3</sup> Quiconque ne remplit pas pour la seconde fois les conditions de promotion n'est pas promu et doit répéter les deux derniers semestres. Une prolongation de l'admission provisoire visée à l'article 45, alinéa 5 n'est pas prise en compte.
+
+<sup>4</sup> Durant la formation, une seule année scolaire peut être répétée.
+
+<sup>5</sup> Quiconque ne remplit pas une nouvelle fois les conditions de promotion est exclu des cours.
+
+<sup>6</sup> Dans des cas motivés, la direction d'école peut autoriser des exceptions aux alinéas 3 à 5.
 
 #### Art. 51
 
-**2. MP 2**
+**3. MP 2**
 
 <sup>1</sup> Les élèves doivent, chaque semestre, assister à au moins 80 pour cent des cours dans chacune des branches. Le fait de ne pas remplir cette condition revient à ne pas remplir les conditions de promotion. La direction d'école statue par voie de décision sur les exceptions.
 
@@ -1172,7 +1221,7 @@ arrête:
 
 <sup>1</sup> La note d’école correspond à la moyenne des notes semestrielles obtenues dans les domaines d’enseignement «société» et «langue et communication» arrondie au point ou au demi-point.
 
-<sup>2</sup> Aucune note semestrielle n’est attribuée durant le semestre au cours duquel le travail d’approfondissement est réalisé.
+<sup>2</sup> Si les cours de culture générale sont répartis sur toute la durée de la formation professionnelle initiale, aucune note semestrielle n’est attribuée durant le semestre au cours duquel le travail d’approfondissement est réalisé.
 
 #### Art. 70b
 
@@ -1244,7 +1293,7 @@ arrête:
 
 <sup>1</sup> Sont soutenus par une subvention correspondant au plus à 80 pour cent des frais totaux jusqu’à concurrence d’un montant maximal de 200 francs par heure de cours de 60 minutes les publics spécifiques suivants:
 
-- a personnes défavorisées en matière de formation telles que personnes accédant difficilement à la formation ou présentant des lacunes sur le plan des compétences fondamentales;
+- a personnes défavorisées en matière de formation telles que personnes accédant difficilement à la formation ou présentant des lacunes sur le plan des compétences de base;
 - b personnes sans première qualification au degré secondaire II et souhaitant en acquérir une;
 - c personnes en cours d’intégration;
 - d personnes désavantagées économiquement.
@@ -1276,7 +1325,7 @@ arrête:
 - g développement durable,
 - h éducation politique et participation,
 - i formation continue pour les activités bénévoles, et
-- k compétences fondamentales (basic skills) prévues par les plans d’études en vigueur pour l’école obligatoire dans les domaines des mathématiques, de l’informatique et des langues, y compris les cours de dialecte pour les francophones.
+- k contenus prévus par les plans d’études en vigueur pour l’école obligatoire dans les domaines des mathématiques, de l’informatique et des langues, y compris les cours de dialecte pour les francophones.
 
 <sup>2</sup> Sont versées une subvention correspondant au plus à 40 pour cent des frais ou des subventions forfaitaires par heure de cours de 60 minutes s'élevant aux montants suivants:
 
@@ -1665,6 +1714,18 @@ arrête:
 <sup>1</sup> La modification de l’article 4e s’applique à partir de l’année scolaire 2022-2023.
 
 <sup>2</sup> Le titre de la sous-section 2.1.3 ainsi que les articles 6 et 6a s’appliquent jusqu’au 31 juillet 2022.
+
+## T8 Dispositions transitoires de la modification du 15.06.2023
+
+#### Art. T8-1
+
+<sup>1</sup> La modification de l'article 2a s'applique pour la première fois à compter de l'année scolaire 2024-2025.
+
+<sup>2</sup> Les modifications des articles 35 et 45 s'appliquent pour la première fois à compter de l'année scolaire 2023-2024.
+
+<sup>3</sup> L'ancien droit s'applique aux personnes qui ont commencé leur formation dans une EC avant le 1<sup>er</sup> août 2023.
+
+<sup>4</sup> La procédure de qualification avec examen final pour la formation d'employée ou d'employé de commerce CFC est répétée selon l'ancien droit pour la dernière fois en 2027 s'agissant des personnes qui suivent une formation dans une EC sans MP et en 2028 s'agissant des personnes qui suivent une formation dans une EC avec MP.
 
 Berne, le 20 octobre 2016
 

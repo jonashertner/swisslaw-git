@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-06-22
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-06-15
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2633/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2844/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2633/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.08.2022)
+vom 06.04.2006 (Stand 01.08.2023)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -64,7 +64,7 @@ beschliesst:
 - a höchstens 25 Jahre alt ist,
 - b über keinen Abschluss der Sekundarstufe II verfügt,
 - c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
-- d über einen Sprachstand A1 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) mündlich und schriftlich verfügt und
+- d …
 - e eine hohe Motivation für den Unterrichtsbesuch aufweist.
 - f …
 
@@ -228,6 +228,8 @@ beschliesst:
 
 ### 2.3 Berufsfachschulen
 
+### 2.3.1a Allgemeines
+
 #### Art. 9
 
 **Aufgaben der Schulleitung**
@@ -240,11 +242,11 @@ beschliesst:
 - d ist zuständig für die Aufbau- und Ablauforganisation,
 - e sorgt für eine geeignete interne und externe Kommunikation,
 - f sorgt für die Schul- und Qualitätsentwicklung nach den kantonalen Vorgaben,
-- g stellt die Mitarbeitenden und die Lehrkräfte an,
+- g stellt die Mitarbeiterinnen und Mitarbeiter sowie die Lehrkräfte an,
 - h ist verantwortlich für die Personalplanung, den Personaleinsatz und die Personalentwicklung,
 - i berät und führt die Lehrkräfte in fachlicher und pädagogischer Hinsicht,
 - k schliesst bei Vollzeitausbildungen die Ausbildungsverträge mit den Auszubildenden ab,
-- l rekrutiert Praktikumsbetriebe und überwacht ihre Ausbildungstätigkeit,
+- l rekrutiert Praktikumsbetriebe und überwacht ihre Ausbildungstätigkeit, vorbehalten bleibt die Zuständigkeit gemäss Artikel 21g,
 - m erlässt Stellenbeschreibungen,
 - n ist verantwortlich für die Unterrichtsorganisation und den Stundenplan,
 - o ist verantwortlich für die Überprüfung der Voraussetzungen für die Zulassung zum Berufsfachschulunterricht und die Zulassung von Hospitantinnen und Hospitanten,
@@ -390,7 +392,9 @@ beschliesst:
 
 <sup>4</sup> Lernende, die einen Stützkurs besuchen, können in der Regel keine Freikurse belegen. Die Schulleitung entscheidet mit Verfügung über Ausnahmen.
 
-### 2.3.1 Kurse für Erweiterte Allgemeinbildung (EA-Kurse)
+### 2.3.1
+
+### 2.3.2 Kurse für Erweiterte Allgemeinbildung (EA-Kurse)
 
 #### Art. 21a
 
@@ -442,6 +446,29 @@ beschliesst:
 <sup>2</sup> Als Fachnote gilt der Durchschnitt der letzten beiden Semesterzeugnisnoten eines Fachs.
 
 <sup>3</sup> Ein Verzicht auf die Note in der zweiten Landessprache nach Artikel 21d Absatz 4 wird auf dem EA-Zertifikat vermerkt.
+
+### 2.3.3 Bildung in beruflicher Praxis an Handelsmittelschulen (HMS) mit Berufsmaturität (BM)
+
+#### Art. 21f
+
+**Fachkonferenz**
+
+<sup>1</sup> Die Schulleitungen der kantonalen HMS mit BM bilden die Fachkonferenz der Wirtschaftsmittelschulen.
+
+<sup>2</sup> Die Fachkonferenz der Wirtschaftsmittelschulen legt die strategischen Rahmenbedingungen für die Langzeitpraktika an HMS fest.
+
+<sup>3</sup> Sie stellt die Leiterin oder den Leiter der Geschäftsstelle Langzeitpraktika an HMS mit BM (Geschäftsstelle WMS-Praktika) an.
+
+#### Art. 21g
+
+**Geschäftsstelle**
+
+<sup>1</sup> Die Geschäftsstelle WMS-Praktika
+
+- a sorgt für ein genügendes Angebot an Praktikumsplätzen für die kantonalen HMS mit BM und
+- c schliesst mit den Praktikumsbetrieben Rahmenverträge ab (Art. 15 der Verordnung des Bundesrates vom 19. November 2003 über die Berufsbildung (Berufsbildungsverordnung, BBV)[^21g-1]), in welchen sich die Praktikumsbetriebe insbesondere zur vorschriftsgemässen Vermittlung von Bildung in beruflicher Praxis, zur Qualitätssicherung und zu allfälligen Lohnzahlungen verpflichten.
+
+[^21g-1]: SR [412.101](https://db.clex.ch/link/Bund/412.101/de)
 
 ### 2.4 Handelsmittelschulen (HMS) ohne Berufsmaturität (BM)
 
@@ -553,11 +580,13 @@ beschliesst:
 
 **Promotionsfächer**
 
-<sup>1</sup> Der eidgenössische Bildungsplan für die schulisch organisierte Grundbildung des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) und der kantonale Lehrplan legen die Promotionsfächer fest. Die Schulen können im Schullehrplan ein oder zwei zusätzliche Promotionsfächer bestimmen.
+<sup>1</sup> Der Bildungsplan der Schweizerischen Konferenz der kaufmännischen Ausbildungs- und Prüfungsbranchen (skkab) vom 24. Juni 2021 zur Verordnung des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) vom 16. August 2021 über die berufliche Grundbildung für Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)[^29-1] beschreibt die von den Lernenden zu erwerbenden Handlungskompetenzen.
 
-<sup>2</sup> Für die Promotion zählen im ersten Ausbildungsjahr zehn, im zweiten neun und im dritten acht Fächer.
+<sup>2</sup> Für die Promotion zählen die fünf Handlungskompetenzbereiche (HKB) gemäss eidgenössischen Bildungsplan.
 
-<sup>3</sup> Im Fach Sport und in den Freifächern werden Zeugnisnoten erteilt, die jedoch für die Promotion nicht zählen.
+<sup>3</sup> Im Bereich Sport und in den fakultativen Bereichen werden Zeugnisnoten erteilt, die jedoch für die Promotion nicht zählen.
+
+[^29-1]: [https://www.becc.admin.ch/becc/public/bvz/beruf/show/68800](https://www.becc.admin.ch/becc/public/bvz/beruf/show/68800)
 
 #### Art. 30
 
@@ -580,8 +609,8 @@ beschliesst:
 <sup>1</sup> Für die Promotion ins nächste Semester müssen folgende Bedingungen erfüllt sein:
 
 - a der auf eine Dezimalstelle gerundete Durchschnitt aller für die Promotion zählenden Noten beträgt mindestens 4,0,
-- b es sind höchstens zwei Fachnoten ungenügend und
-- c die Differenz der ungenügenden Fachnoten zur Note 4,0 übersteigt gesamthaft den Wert von 2,0 nicht.
+- b es ist höchstens eine Note ungenügend, und
+- c die Differenz der ungenügenden Note zur Note 4,0 übersteigt den Wert von 1,0 nicht.
 
 #### Art. 33
 
@@ -741,10 +770,10 @@ beschliesst:
 
 <sup>1</sup> Prüfungsfrei in eine BM 1 aufgenommen wird, wer
 
-- a im deutschsprachigen Kantonsteil definitiv in einen gymnasialen oder einen FMS-Bildungsgang aufgenommen worden ist,
+- a definitiv in einen gymnasialen oder einen FMS-Bildungsgang aufgenommen worden ist,
 - b im deutschsprachigen Kantonsteil am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I bezüglich der fachlichen sowie der methodischen und personalen Kompetenzen in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Gesellschaft im Hinblick auf den Unterricht an einer BMS als geeignet beurteilt wird, wobei sich die Beurteilung sinngemäss nach den Bestimmungen für die Empfehlungen für den Besuch des gymnasialen Bildungsgangs richtet,
-- b1 definitiv in den Bildungsgang Deutsch-Französisch der Gymnasien der Regionen Biel-Seeland und Bienne-Jura bernois aufgenommen worden ist,
-- c im französischsprachigen Kantonsteil eine «section préparant aux écoles de maturité (section p)» besucht.
+- b1 …
+- c im französischsprachigen Kantonsteil am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I eine «section préparant aux écoles de maturité (section p)» besucht.
 
 <sup>2</sup> Im deutschsprachigen Kantonsteil beurteilt die zuständige Behörde der Volksschule die Eignung im Hinblick auf den Unterricht an einer BM 1 und entscheidet mit Verfügung über die Aufnahme.
 
@@ -888,7 +917,7 @@ beschliesst:
 
 #### Art. 45
 
-**Aufnahmeentscheid**
+**Aufnahme**
 
 <sup>1</sup> Die Schulleitung entscheidet mit Verfügung über die Aufnahme und eröffnet den Entscheid mit dem Notenausweis.
 
@@ -896,6 +925,12 @@ beschliesst:
 
 - a in eine HMS mit BM im direkt folgenden Schuljahr und
 - b in eine BM 1 in den folgenden zwei Jahren.
+
+<sup>3</sup> Die Aufnahme in eine HMS mit BM erfolgt provisorisch für ein Semester.
+
+<sup>4</sup> Definitiv in eine HMS mit BM wird aufgenommen, wer am Ende des Probesemesters die Promotionsbedingungen gemäss Artikel 50a erfüllt.
+
+<sup>5</sup> Wer an einer HMS mit BM am Ende des Probesemesters die Promotionsbedingungen nicht erfüllt, wird ausgeschlossen. Die Schulleitung kann das Provisorium in begründeten Fällen um ein Semester verlängern.
 
 ### 2.6.2 Aufnahme in die Berufsmaturitätsschule für gelernte Berufsleute (BM 2)
 
@@ -980,22 +1015,36 @@ beschliesst:
 
 #### Art. 50
 
-**1. BM 1 inkl. HMS**
+**1. BM 1**
 
 <sup>1</sup> Für die Promotion an der BM 1 gelten die Bestimmungen von Artikel 17 Absatz 4 und 5 Buchstabe a der Verordnung des Bundesrates vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^50-1].
 
-<sup>2</sup> Die Promotionsfächer sind im Rahmenlehrplan des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) vom 18. Dezember 2012 für die Berufsmaturität (RLP-BM)[^50-2] festgelegt.
+<sup>2</sup> Die Promotionsfächer sind im Rahmenlehrplan des SBFI vom 18. Dezember 2012 für die Berufsmaturität (RLP-BM)[^50-2] festgelegt.
 
-<sup>3</sup> Die zusätzlichen Promotionsfächer für die HMS mit BM sind im kantonalen Lehrplan HMS festgelegt.
+<sup>3–4</sup> …
 
-<sup>4</sup> Im Fach Sport und in den Freifächern werden an der HMS mit BM Zeugnisnoten erteilt, die jedoch für die Promotion nicht zählen.
+[^50-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
+[^50-2]: [https://www.sbfi.admin.ch/sbfi/de/home/bildung/maturitaet/berufsmaturitaet.html](https://www.sbfi.admin.ch/sbfi/de/home/bildung/maturitaet/berufsmaturitaet.html)
 
-[^50-1]: SR 412.103.1
-[^50-2]: [https://www.sbfi.admin.ch/sbfi/de/home/themen/bildungsraum-schweiz/maturitaet/berufsmaturitaet.html](https://www.sbfi.admin.ch/sbfi/de/home/themen/bildungsraum-schweiz/maturitaet/berufsmaturitaet.html)
+#### Art. 50a
+
+**2. HMS mit BM**
+
+<sup>1</sup> Die Promotion an HMS mit BM richtet sich nach Artikel 17 BMV. Für die Promotion zählen zusätzlich die Fächer «Handlungskompetenzbereich E (HKB-E)» und «Berufskenntnisse» (Summe der in einem Semester erzielten Beurteilungen in den HKB B-D). Im Fach Sport und in den Freifächern werden Zeugnisnoten erteilt, die jedoch für die Promotion nicht zählen.
+
+<sup>2</sup> Wer die Promotionsbedingungen nicht erfüllt, wird provisorisch promoviert. Dies ist letztmals am Ende des fünften Semesters möglich.
+
+<sup>3</sup> Wer zum zweiten Mal die Promotionsbedingungen nicht erfüllt, wird nicht promoviert und muss die letzten zwei Semester repetieren. Eine Verlängerung des Provisoriums gemäss Artikel 45 Absatz 5 wird nicht mitberücksichtigt.
+
+<sup>4</sup> Während der Ausbildungszeit kann nur einmal repetiert werden.
+
+<sup>5</sup> Wer die Promotionsbedingungen ein weiteres Mal nicht erfüllt, wird vom Unterricht ausgeschlossen.
+
+<sup>6</sup> Die Schulleitung kann in begründeten Fällen Ausnahmen von Absatz 3 bis 5 beschliessen.
 
 #### Art. 51
 
-**2. BM 2**
+**3. BM 2**
 
 <sup>1</sup> Die Präsenz im BM-Unterricht muss in jedem Semester je Fach mindestens 80 Prozent betragen. Das Nichterfüllen dieser Bedingung ist gleichbedeutend wie das Nichterfüllen der Promotionsbestimmungen. Die Schulleitung entscheidet mit Verfügung über Ausnahmen.
 
@@ -1174,7 +1223,7 @@ beschliesst:
 
 <sup>1</sup> Die Erfahrungsnote berechnet sich aus dem auf eine ganze oder halbe Zahl gerundeten Durchschnitt aller Semesternoten in den Lernbereichen «Gesellschaft» und «Sprache und Kommunikation».
 
-<sup>2</sup> Im Semester, in dem die Vertiefungsarbeit durchgeführt wird, gibt es keine Semesternoten.
+<sup>2</sup> Wird die Allgemeinbildung über die gesamte Dauer der beruflichen Grundbildung unterrichtet, wird im Semester, in dem die Vertiefungsarbeit durchgeführt wird, keine Semesternote ausgewiesen.
 
 #### Art. 70b
 
@@ -1246,7 +1295,7 @@ beschliesst:
 
 <sup>1</sup> Mit einem Beitrag von höchstens 80 Prozent an die Gesamtkosten, jedoch mit höchstens 200 Franken je Kursstunde à 60 Minuten, werden folgende Zielgruppen unterstützt:
 
-- a Bildungsbenachteiligte, wie Personen mit erschwertem Zugang zur Bildung oder mit Lücken in den Basisqualifikationen,
+- a Bildungsbenachteiligte, wie Personen mit erschwertem Zugang zur Bildung oder mit Lücken in den Grundkompetenzen,
 - b Personen ohne Erstabschluss auf Sekundarstufe II zur Vorbereitung eines solchen,
 - c Personen im Integrationsprozess und
 - d wirtschaftlich benachteiligte Personen.
@@ -1278,7 +1327,7 @@ beschliesst:
 - g Bildung zu Fragen nachhaltiger Entwicklung,
 - h politische Bildung und Partizipation,
 - i Weiterbildung für freiwillige bzw. ehrenamtliche Tätigkeiten und
-- k Grundlagen (basic skills) gemäss geltendem Volksschullehrplan in den Bereichen Mathematik, Informatik und Sprachen, inkl. Mundartkurse für Französischsprachige.
+- k Inhalte gemäss geltendem Volksschullehrplan in den Bereichen Mathematik, Informatik und Sprachen inkl. Mundartkurse für Französischsprachige.
 
 <sup>2</sup> Es werden höchstens 40 Prozent an die Kosten oder folgende Pauschalbeiträge je Kursstunde zu 60 Minuten geleistet:
 
@@ -1667,6 +1716,18 @@ beschliesst:
 <sup>1</sup> Die Änderung von Artikel 4e ist ab dem Schuljahr 2022/2023 anwendbar.
 
 <sup>2</sup> Der Titel des Unterabschnitts 2.1.3 sowie die Artikel 6 und 6a sind bis am 31. Juli 2022 anwendbar.
+
+## T8 Übergangsbestimmung der Änderung vom 15.06.2023
+
+#### Art. T8-1
+
+<sup>1</sup> Die Änderung von Artikel 2a gilt erstmals im Hinblick auf das Schuljahr 2024/2025.
+
+<sup>2</sup> Die Änderungen von Artikel 35 und 45 gelten erstmals im Hinblick auf das Schuljahr 2023/2024.
+
+<sup>3</sup> Für Lernende, die ihre Ausbildung vor dem 1. August 2023 an einer HMS aufgenommen haben, gilt das bisherige Recht.
+
+<sup>4</sup> Die Wiederholung des Qualifikationsverfahrens mit Abschlussprüfung für Kauffrau oder Kaufmann EFZ findet für Lernende an einer HMS ohne BM letztmals 2027 bzw. für Lernende an einer HMS mit BM letztmals 2028 nach bisherigem Recht statt.
 
 Bern, 6. April 2006
 
