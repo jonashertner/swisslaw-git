@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2023-03-01
+version: 2023-08-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230301/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (État le 1<sup>er</sup> mars 2023)
+du 27 mai 2020 (État le 1<sup>er</sup> août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -643,7 +643,7 @@ Au terme des contrôles, l’OSAV procède de la manière suivante:
 
 <sup>5</sup> Les annexes 2 et 3 sont périodiquement actualisées et publiées sur le site Internet de l’OSAV.
 
-[^38-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^38-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 
 #### Art. 39
 
@@ -718,7 +718,7 @@ Les cantons gèrent ou mandatent comme laboratoire officiel un laboratoire qui:
 
 <sup>3</sup> L’accréditation et l’évaluation des laboratoires d’essais sont régies par l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^44-2].
 
-[^44-1]: La norme peut être consultée gratuitement et obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^44-1]: La norme peut être consultée gratuitement et obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 [^44-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 45
@@ -746,8 +746,8 @@ En l’absence de règles ou de protocoles appropriés en vertu de l’al. 2, il
 
 <sup>5</sup> Les méthodes d’analyse employées pour les analyses en laboratoire doivent, dans la mesure du possible, satisfaire aux exigences énoncées à l’annexe 6.
 
-[^46-1]: www.iso.org
-[^46-2]: www.fao.org/fao-who-codexalimentarius &gt; Textes du Codex &gt; Codes d’usage
+[^46-1]: [www.iso.org](http://www.iso.org)
+[^46-2]: [www.fao.org/fao-who-codexalimentarius](https://www.fao.org/fao-who-codexalimentarius) &gt; Textes du Codex &gt; Codes d’usage
 
 ### Chapitre 3 Procédure de prélèvement
 
@@ -904,7 +904,7 @@ L’autorité d’exécution informe le laboratoire de toutes les circonstances 
 
 <sup>3</sup> Il publie sur Internet la liste des laboratoires nationaux de référence[^59-1].
 
-[^59-1]: www.osav.admin.ch &gt; Aliments et nutrition &gt; Bases légales et documents d’application &gt; Documents d’application &gt; Analyse des denrées alimentaires et des objets usuels &gt; Liste des laboratoires de référence pour la Suisse
+[^59-1]: [www.osav.admin.ch](http://www.osav.admin.ch) &gt; Aliments et nutrition &gt; Bases légales et documents d’application &gt; Documents d’application &gt; Analyse des denrées alimentaires et des objets usuels &gt; Liste des laboratoires de référence pour la Suisse
 
 #### Art. 60
 
@@ -1189,7 +1189,7 @@ Elle comprend les matières suivantes:
 
 <sup>5</sup> Les émoluments perçus pour la formation sont calculés selon l’annexe 4, ch. 4.1.[^79-2]
 
-[^79-1]: www.fao.org/ fao-who-codexalimentarius &gt; Textes du Codex &gt; Code d’usages &gt; Recherche: CXC 1-1969 &gt; CAC/RCP1-1969, Principes généraux d’hygiène alimentaire, modifiés en dernier lieu en 2003
+[^79-1]: [www.fao.org/fao-who-codexalimentarius](https://www.fao.org/fao-who-codexalimentarius) &gt; Textes du Codex &gt; Code d’usages &gt; Recherche: CXC 1-1969 &gt; CAC/RCP1-1969, Principes généraux d’hygiène alimentaire, modifiés en dernier lieu en 2003
 [^79-2]: Erratum du 14 juil. 2020, ne concerne que le texte italien ([RO 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
 
 ### Section 3 Examen et diplôme
@@ -1774,7 +1774,18 @@ S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modi
 - e. comboux ou gombos en provenance du Vietnam;
 - f. extrait de vanille en provenance des États-Unis.
 
-[^118c-1]: Introduit par le ch. I de l’O de l’OSAV du 8 fév. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 (RO **202****3** 63).
+[^118c-1]: Introduit par le ch. I de l’O de l’OSAV du 8 fév. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 ([RO 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
+
+#### Art. 118d
+
+**Disposition transitoire de la modification du 7 juillet 2023**[^118d-1]
+
+S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 7 juillet 2023, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 10 septembre 2023 sans certificat officiel ni résultats d’échantillonnages et d’analyses:
+
+- a. amandes d’abricot non transformées provenant de Turquie;
+- b. pistaches et de produits dérivés provenant des États-Unis qui ont été expédiés à partir de la Turquie.
+
+[^118d-1]: Introduit par le ch. I de l’O de l’OSAV du 7 juil. 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
 #### Art. 119
 
@@ -1797,22 +1808,25 @@ Annexe 2[^t-1]
 
 ## Denrées alimentaires d’origine non animale provenant de certains pays, temporairement soumises à des contrôles renforcés en vertu des art. 37 à 43
 
-[^t-1]: Mise à jour par le ch. II de l’O de l’OSAV du 8 fév. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 ([RO 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 7 juil. 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
 - 1\. Ensemble des denrées alimentaires figurant à l’annexe I du règlement d’exécution (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. Les procédures d’échantillonnage et les méthodes d’analyses sont régies par l’annexe III du règlement d’exécution, dans la mesure où l’annexe I du règlement d’exécution y renvoie.
 
-[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2023/174, JO L 25 du 27.1.2013, p. 36.
+[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n° 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 669/2009, (UE) n° 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2023/1110, JO L 147 du 7.6.2023, p. 111.
 
-Annexe 3
+Annexe 3[^t-2]
 
 (art. 37, al. 1, et 38, al. 1, let. b, 2 et 5)
 
 ## Denrées alimentaires d’origine non animale provenant de certains pays, dont l’importation est soumise à des contrôles renforcés avec conditions supplémentaires en vertu des art. 37 à 43, en raison d’un risque de contamination par des mycotoxines, par des résidus de pesticides ou en raison d’un risque de contamination microbienne
 
-- 1\. Ensemble des denrées alimentaires figurant à l’annexe II, tableau 1, du règlement d’exécution (UE) 2019/1793[^annex3-lvlu1-1], à l’exception de de la gomme de guar originaire d’Inde.
-- 2\. Denrées alimentaires composées au sens de l’annexe II, tableau 2, énumérées à l’annexe II, tableau 1, du règlement d’exécution, en raison d’un risque de contamination par les mycotoxines et contenant plus de 20 % de la denrée alimentaire concernée dans le tableau 1.
-- 3\. Les procédures d’échantillonnage et les méthodes d’analyses sont régies par l’annexe III du règlement d’exécution, dans la mesure où l’annexe II du règlement d’exécution y renvoie.
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O de l’OSAV du 7 juil. 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+
+- 1\. Ensemble des denrées alimentaires figurant à l’annexe II, tableau 1, du règlement d’exécution (UE) 2019/1793[^annex3-lvlu1-1], à l’exception de la gomme de guar originaire d’Inde.
+- 2\. Denrées alimentaires au sens de l’annexe II, tableau 2, énumérées à l’annexe II, tableau 1, du règlement d’exécution, en raison d’un risque de contamination par les mycotoxines et contenant plus de 20 % de la denrée alimentaire concernée dans le tableau 1.
+- 3\. Tous les denrées alimentaires figurant à l’annexe II, tableau 3, du règlement d’exécution.
+- 4\. Les procédures d’échantillonnage et les méthodes d’analyses sont régies par l’annexe III du règlement d’exécution, dans la mesure où l’annexe II du règlement d’exécution y renvoie.
 
 [^annex3-lvlu1-1]: Cf. note de bas de page relative à l’annexe 2.
 
@@ -1895,7 +1909,7 @@ Annexe 5
 [^annex5-lvlu1-4]: Règlement (UE) 2017/644 de la Commission du 5 avril 2017 portant fixation des méthodes de prélèvement et d’analyse d’échantillons à utiliser pour le contrôle des teneurs en dioxines, en PCB de type dioxine et en PCB autres que ceux de type dioxine de certaines denrées alimentaires et abrogeant le règlement (UE) n° 589/2014, JO L 92 du 6.4.2017, p. 9
 [^annex5-lvlu1-5]: Règlement (UE) 2015/705 de la Commission du 30 avril 2015 portant fixation des modes de prélèvement d’échantillons et des critères de performance des méthodes d’analyse pour le contrôle officiel des teneurs en acide érucique dans les denrées alimentaires et abrogeant la directive 80/891/CEE de la Commission, JO L 113 du 1.5.2015, p. 29
 [^annex5-lvlu1-6]: Règlement (CE) n° 2074/2005 de la Commission du 5 décembre 2005 établissant les mesures d’application relatives à certains produits régis par le Règlement (CE) n° 853/2004 du Parlement européen et du Conseil et à l’organisation des contrôles officiels prévus par les règlements (CE) n° 854/2004 du Parlement européen et du Conseil et (CE) n° 882/2004 du Parlement européen et du Conseil, portant dérogation au règlement (CE) n° 852/2004 du Parlement européen et du Conseil et modifiant les règlements (CE) n° 853/2004 et (CE) n° 854/2004, JO L 338 du 22.12.2005, p. 27, modifié en dernier lieu par le règlement (UE)2019/1139, JO L 180 du 4.7.2019, p. 12
-[^annex5-lvlu1-7]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
+[^annex5-lvlu1-7]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, [www.publicationsfederales.admin.ch](https://www.publicationsfederales.admin.ch), aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
 
 Annexe 6
 
@@ -1929,7 +1943,7 @@ Annexe 6
 - 7\. Lorsque des critères de performance ont été établis pour les méthodes d’analyse, ces méthodes doivent être validées sur la base de tests de conformité à ces critères.
 - 8\. Les méthodes d’analyse adoptées en vertu du présent règlement doivent être formulées selon la présentation normalisée des méthodes d’analyse préconisée par l’ISO.
 
-[^annex6-lvlu1-1]: La norme peut être consultée gratuitement et obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex6-lvlu1-1]: La norme peut être consultée gratuitement et obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 
 Annexe 7
 

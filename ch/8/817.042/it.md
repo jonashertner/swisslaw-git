@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2023-03-01
+version: 2023-08-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230301/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230301/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° marzo 2023)
+del 27 maggio 2020 (Stato 1° agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -640,7 +640,7 @@ Al termine dei controlli l’USAV:
 
 <sup>5</sup> Gli allegati 2 e 3 sono periodicamente aggiornati e pubblicati sul sito Internet dell’USAV.
 
-[^38-1]: La norma può essere consultata gratuitamente o ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^38-1]: La norma può essere consultata gratuitamente o ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 #### Art. 39
 
@@ -715,7 +715,7 @@ I Cantoni gestiscono o incaricano come ufficiali solo i laboratori che:
 
 <sup>3</sup> L’accreditamento e la valutazione dei laboratori di prova si basano sull’ordinanza del 17 giugno 1996[^44-2] sull’accreditamento e sulla designazione.
 
-[^44-1]: La norma può essere consultata gratuitamente o ottenuta a pagamento presso lʼAssociazione svizzera di normazione (SNV), Bürglistrasse 29, 8400 Winterthur; www.snv.ch.
+[^44-1]: La norma può essere consultata gratuitamente o ottenuta a pagamento presso lʼAssociazione svizzera di normazione (SNV), Bürglistrasse 29, 8400 Winterthur; www.snv.ch
 [^44-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 45
@@ -744,7 +744,7 @@ Nel caso in cui non esistano regole o protocolli idonei ai sensi del capoverso 2
 <sup>5</sup> I metodi di analisi utilizzati per le analisi di laboratorio devono soddisfare, nei limiti del possibile, i requisiti di cui all’allegato 6.
 
 [^46-1]: [www.iso.org](http://www.iso.org)
-[^46-2]: www.fao.org/fao-who-codexalimentarius &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, modificato da ultimo nel 2003 (disponibile solamente in inglese, francese, spagnolo, arabo e cinese).
+[^46-2]: [www.fao.org/fao-who-codexalimentarius](http://www.fao.org/fao-who-codexalimentarius) &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, modificato da ultimo nel 2003 (disponibile solamente in inglese, francese, spagnolo, arabo e cinese).
 
 ### Capitolo 3: Esecuzione della campionatura
 
@@ -901,7 +901,7 @@ L’autorità di esecuzione informa il laboratorio su tutte le circostanze che p
 
 <sup>3</sup> Pubblica su Internet l’elenco dei laboratori nazionali di riferimento[^59-1].
 
-[^59-1]: www.blv.admin.ch/blv/it/home.html &gt; Alimenti e nutrizione &gt; Basi legali ed esecutive &gt; Mezzi ausiliari e basi esecutive &gt; Analisi di derrate alimentari e oggetti d’uso &gt; Elenco dei laboratori di riferimento in Svizzera
+[^59-1]: [www.blv.admin.ch/blv/it/home.html](http://www.blv.admin.ch/blv/it/home.html) &gt; Alimenti e nutrizione &gt; Basi legali ed esecutive &gt; Mezzi ausiliari e basi esecutive &gt; Analisi di derrate alimentari e oggetti d’uso &gt; Elenco dei laboratori di riferimento in Svizzera
 
 #### Art. 60
 
@@ -1183,7 +1183,7 @@ Include le seguenti materie:
 
 <sup>5</sup> Gli emolumenti per la formazione sono disciplinati nell’allegato 4 numero 4.1.[^79-2]
 
-[^79-1]: www.fao.org/fao-who-codexalimentarius &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, modificato da ultimo nel 2003 (disponibile solamente in inglese, francese, spagnolo, arabo e cinese).
+[^79-1]: [www.fao.org/fao-who-codexalimentarius](http://www.fao.org/fao-who-codexalimentarius) &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, modificato da ultimo nel 2003 (disponibile solamente in inglese, francese, spagnolo, arabo e cinese).
 [^79-2]: Correzione del 14 lug. 2020 ([RU 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
 
 ### Sezione 3: Esame e diploma
@@ -1770,6 +1770,17 @@ Le partite con le seguenti derrate alimentari già inviate al momento dell’ent
 
 [^118c-1]: Introdotto dal n. I dell’O dell’USAV dell’8 feb. 2023, in vigore dal 1° mar. 2023 ([RU 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
 
+#### Art. 118d
+
+**Disposizione transitoria della modifica del 7 luglio 2023**[^118d-1]
+
+Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica del 7 luglio 2023 possono essere importate fino al 10 settembre 2023 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
+
+- a. semi di albicocca non trasformati originari della Turchia;
+- b. pistacchi e prodotti derivati originari degli Stati Uniti, spediti dalla Turchia.
+
+[^118d-1]: Introdotto dal n. I dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+
 #### Art. 119
 
 **Entrata in vigore**
@@ -1791,24 +1802,27 @@ Allegato 2[^t-1]
 
 ## Derrate alimentari non di origine animale provenienti da determinati Paesi che sono soggetti temporaneamente ai controlli ufficiali approfonditi secondo gli articoli 37−43
 
-[^t-1]: Aggiornato dal n. II dell’O dell’USAV dell’8 feb. 2023, in vigore dal 1° mar. 2023 ([RU 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
 - 1\. Tutte le derrate alimentari iscritte nell’allegato I del regolamento di esecuzione (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato I.
 
-[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2023/174, GU L 25 del 27.01.2023, pag. 36.
+[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1110, GU L 147 del 7.6.2023, pag. 111.
 
-Allegato 3
+Allegato 3[^t-2]
 
 (art. 37 cpv. 1, 38 cpv. 1 lett. b, 2 e 5)
 
-## Derrate alimentari di origine non animale provenienti da determinati Paesi, per la cui importazione a causa del rischio di contaminazione da micotossine, da residui di pesticidi o di contaminazione microbica valgono i controlli approfonditi con condizioni supplementari di cui agli articoli 37-43
+## Derrate alimentari di origine non animale provenienti da determinati Paesi, per la cui importazione a causa del rischio di contaminazione da micotossine, da residui di pesticidi o di contaminazione microbica valgono i controlli approfonditi con condizioni supplementari di cui agli articoli 37–43
+
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
 - 1\. Tutte le derrate alimentari iscritte nella tabella 1 dell’allegato II del regolamento di esecuzione (UE) 2019/1793[^annex3-lvlu1-1], ad eccezione della gomma di guar proveniente dall’India.
-- 2\. Derrate alimentari composte secondo la tabella 2 dell’allegato II del regolamento di esecuzione, che a causa del rischio di contaminazione da micotossine sono elencate nella tabella 1 dell’allegato II e contengono una quantità superiore al 20 per cento della derrata alimentare interessata indicata nella tabella 1.
-- 3\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato II.
+- 2\. Derrate alimentari nella tabella 2 dell’allegato II del regolamento di esecuzione, che a causa del rischio di contaminazione da micotossine sono elencate nella tabella 1 dell’allegato II e contengono una quantità superiore al 20 per cento della derrata alimentare interessata indicata nella tabella 1.
+- 3\. Tutte le derrate alimentari iscritte nella tabella 3 dell’allegato II del regolamento di esecuzione.
+- 4\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato II.
 
-[^annex3-lvlu1-1]: Cfr. la nota a piè di pagina relativa all’allegato II.
+[^annex3-lvlu1-1]: Cfr. la nota a piè di pagina relativa all’allegato 2.
 
 Allegato 4
 

@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2023-03-01
+version: 2023-08-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230301/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230301/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. März 2023)
+vom 27. Mai 2020 (Stand am 1. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1460,13 +1460,14 @@ Die kantonalen Vollzugsbehörden bearbeiten Personendaten, die:
 
 **Form der Bearbeitung**
 
-<sup>1</sup> Die Personendaten werden in gesicherten Datensammlungen aufbewahrt. Handelt es sich um elektronische Datensammlungen, so werden individuelle Zugriffsrechte erteilt.
+<sup>1</sup> und <sup>2</sup> ...[^97-1]
 
-<sup>2</sup> Die Personendaten werden anonymisiert, sofern die Erfüllung der in der Lebensmittelgesetzgebung festgelegten Aufgaben dadurch nicht behindert wird.
-
-<sup>3</sup> Daten über administrative und strafrechtliche Verfolgungen und Sanktionen werden vertraulich behandelt; vorbehalten sind Fälle, in denen eine gesetzliche Grundlage ihre Bekanntgabe fordert.
+<sup>3</sup> Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen werden vertraulich behandelt; vorbehalten sind Fälle, in denen eine gesetzliche Grundlage ihre Bekanntgabe fordert.[^97-2]
 
 <sup>4</sup> Die Bundesbehörden, die kantonalen Vollzugsbehörden und die Dritten erlassen interne Reglemente über die Form der Datenbearbeitung.
+
+[^97-1]: Aufgehoben durch Anhang 2 Ziff. II 107 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^97-2]: Fassung gemäss Anhang 2 Ziff. II 107 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 2. Abschnitt: Datenaustausch
 
@@ -1480,7 +1481,9 @@ Die kantonalen Vollzugsbehörden bearbeiten Personendaten, die:
 
 <sup>3</sup> Das EDI kann vorsehen, dass die Datenbearbeitung in einem vom BLV vorgegebenen Informationssystem stattfindet und die Datenübermittlung ausschliesslich über vom BLV verwaltete Schnittstellen erfolgt.
 
-<sup>4</sup> Enthält ein Dokument mehrere Personendaten, so werden diejenigen Daten, die für die Empfängerin oder den Empfänger nicht unbedingt erforderlich sind, gelöscht oder unlesbar gemacht.
+<sup>4</sup> Die Behörden und Dritten tauschen nur diejenigen Personendaten aus, die für die Empfängerin oder den Empfänger erforderlich sind. Enthält ein Dokument mehrere Personendaten, so werden diejenigen Daten, die für die Empfängerin oder den Empfänger nicht erforderlich sind, gelöscht oder unlesbar gemacht.[^98-1].
+
+[^98-1]: Fassung gemäss Anhang 2 Ziff. II 107 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 99
 
@@ -1775,6 +1778,17 @@ Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttret
 
 [^118c-1]: Eingefügt durch Ziff. I der V des BLV vom 8. Febr. 2023, in Kraft seit 1. März 2023 ([AS 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
 
+#### Art. 118d
+
+**Übergangsbestimmung zur Änderung vom 7. Juli 2023**[^118d-1]
+
+Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttretens der Änderung vom 7. Juli 2023 bereits versendet wurden, dürfen bis zum 10. September 2023 ohne amtliche Bescheinigung sowie ohne Ergebnisse von Probenahmen und Analysen eingeführt werden:
+
+- a. unverarbeiteten Aprikosenkernen mit Ursprung in der Türkei;
+- b. Pistazien und daraus hergestellten Erzeugnissen mit Ursprung in den Vereinigten Staaten, die aus der Türkei versandt wurden.
+
+[^118d-1]: Eingefügt durch Ziff. I der V des BLV vom 7. Juli. 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+
 #### Art. 119
 
 **Inkrafttreten**
@@ -1796,22 +1810,25 @@ Anhang 2[^t-1]
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 8. Febr. 2023, in Kraft seit 1. März 2023 ([AS 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 7. Juli. 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
 - 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 der Kommission vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2023/174, ABl. L 25 vom 27.1.2023, S. 36.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2023/1110, ABl. L 147 vom 7.6.2023, S. 111.
 
-Anhang 3
+Anhang 3[^t-2]
 
 (Art. 37 Abs. 1, 38 Abs. 1 Bst. b, 2 und 5)
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, deren Einfuhr wegen des Risikos einer Kontamination durch Mykotoxine, Pestizidrückstände oder einer mikrobiellen Kontamination den verstärkten Kontrollen mit zusätzlichen Bedingungen nach den Artikeln 37−43 unterliegt
 
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des BLV vom 7. Juli. 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+
 - 1\. Sämtliche Lebensmittel, die in Anhang II, Tabelle 1 der Durchführungsverordnung (EU) 2019/1793[^annex3-lvlu1-1] aufgeführt sind mit Ausnahme von Guarkernmehl aus Indien.
-- 2\. Zusammengesetzte Lebensmittel nach Anhang II, Tabelle 2 der Durchführungsverordnung, die wegen des Risikos einer Kontamination durch Mykotoxine in Anhang II, Tabelle 1 gelistet sind und mehr als 20 % des betroffenen Lebensmittels in Tabelle 1 enthalten.
-- 3\. Probenahme und Analytik richten sich nach Anhang III der Durchführungsverordnung, falls in Anhang II der Durchführungsverordnung darauf verwiesen wird.
+- 2\. Lebensmittel nach Anhang II, Tabelle 2 der Durchführungsverordnung, die wegen des Risikos einer Kontamination durch Mykotoxine in Anhang II, Tabelle 1 gelistet sind und mehr als 20 Prozent des betroffenen Lebensmittels in Tabelle 1 enthalten.
+- 3\. Sämtliche Lebensmittel, die in Anhang II, Tabelle 3 der Durchführungsverordnung aufgeführt sind.
+- 4\. Probenahme und Analytik richten sich nach Anhang III der Durchführungsverordnung, falls in Anhang II der Durchführungsverordnung darauf verwiesen wird.
 
 [^annex3-lvlu1-1]: Siehe Fussnote zu Anhang 2.
 
