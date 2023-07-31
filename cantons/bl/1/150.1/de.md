@@ -4,13 +4,13 @@ number: "150.1"
 title: Dekret zum Personalgesetz
 short: Personaldekret
 language: de
-version: 2023-01-01
-valid_until: 2023-07-31
+version: 2023-08-01
+valid_until: 2023-12-31
 version_adopted: 2022-12-01
 adopted: 2000-06-08
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.1"
-pdf: "https://bl.clex.ch/api/de/versions/3591/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3717/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bl.clex.ch/api/de/versions/3591/pdf_file"
 
 (Personaldekret)
 
-Vom 08.06.2000 (Stand 01.01.2023)
+Vom 08.06.2000 (Stand 01.08.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
-gestützt auf § 67 Abs. 1 Bst. d der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] sowie auf § 30, § 32 Abs. 1, § 39 Abs. 1, § 57 Abs. 4, § 59 Abs. 4, § 65 des Gesetzes vom 25. September 1997[^ingress-2] über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons (Personalgesetz),
+gestützt auf § 67 Abs. 1 Bst. d der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] sowie auf § 30, § 32 Abs. 1, § 39 Abs. 1, § 57 Abs. 4, § 59 Abs. 4, § 65 des Gesetzes über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons (Personalgesetz) vom 25. September 1997[^ingress-2],
 
 beschliesst:
 
@@ -64,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Die Jahresarbeitszeit eines Vollpensums berechnet sich auf der Basis einer Arbeitszeit von 42 Stunden pro Woche. Die Jahresarbeitszeit ist für Teilzeitarbeitende anteilsmässig zu kürzen.
 
-<sup>2</sup> Die Verordnung bestimmt die Feiertage, die arbeitsfreien Tage und regelt die Entschädigung von angeordneter Überzeit durch Kompensation oder Barvergütung
+<sup>2</sup> Die Verordnung bestimmt die Feiertage, die arbeitsfreien Tage und regelt die Entschädigung von angeordneter Überzeit durch Kompensation oder Barvergütung.
 
 <sup>3</sup> ...
 
@@ -82,26 +82,32 @@ beschliesst:
 
 <sup>1</sup> Die nachstehend bezeichneten Lektionen bilden einen Teil der Gesamtarbeitszeit gemäss § 4 Abs. 1. Die wöchentliche Unterrichtsverpflichtung der Lehrpersonen beträgt unter Vorbehalt anderer gesetzlicher Bestimmungen für:
 
-- a. Kindergarten — 28 Lektionen,
-- b. Primarschule — 28 Lektionen,
-- c. Sekundarstufe I — 27 Lektionen,
-- d. Gymnasium — 22/26 Lektionen,
-- e. Berufsmittelschule Vollzeit und Wirtschaftsmittelschule — 22/26 Lektionen,
-- f. Kaufmännische Vorbereitungsschule, Schulisches Brückenangebot plus modular und Berufsvorbereitende Schule 2 — 22/23/26 Lektionen,
-- g. Berufsfachschule — 22/23/24/26 Lektionen,
-- h. Vorlehre — 24/26 Lektionen,
+- a. Primarstufe:
+  - 1\. Kindergarten — 28 Lektionen,
+  - 2\. Primarschule — 28 Lektionen,
+- b. …
+- c. Sekundarstufe I:
+  - 1\. Sekundarschule — 27 Lektionen,
+- d. Sekundarstufe II:
+  - 1\. Gymnasium und Fachmittelschule — 22/26 Lektionen,
+  - 2\. Berufsfachschule einschliesslich schulische Module Brückenangebote — 22/23/24/26 Lektionen,
+  - 3\. Berufsmaturitätsschule (lehrbegleitend, Teilzeit oder Vollzeit) und Wirtschaftsmittelschule 22/26 Lektionen — 22/26 Lektionen,
+- e. …
+- f. …
+- g. …
+- h. …
 - i. Musikschule — 27 Lektionen,
 - l. Psychomotorik und Logopädie — 27 Lektionen.
 
 <sup>1<sup>bis</sup></sup> …
 
-<sup>1<sup>ter</sup></sup> Die Übernahme der Spezialfunktion als Klassenlehrperson an den Vollzeitschulen bzw. den dualen Berufsfachschulen gemäss Abs. 1 Bst. c–h wird mit einer bzw. mit einer halben Lektion pro Klasse angerechnet.
+<sup>1<sup>ter</sup></sup> …
 
-<sup>2</sup> Die Übernahme weiterer Spezialfunktionen innerhalb des Schulbetriebes durch eine Lehrperson kann mit Lektionen angerechnet werden. Der Regierungsrat regelt die Einzelheiten.
+<sup>2</sup> Die Übernahme der Spezialfunktion Klassenleitung umfasst an den Vollzeitschulen 1 bzw. an den dualen Berufsfachschulen 1/2 Lektion. Sie wird an das Pensum angerechnet.
 
 <sup>3</sup> …
 
-<sup>4</sup> Der Regierungsrat legt Einzelheiten über den Berufsauftrag in der Verordnung fest.
+<sup>4</sup> Der Regierungsrat legt Einzelheiten über den Berufsauftrag sowie über weitere Spezialfunktionen und -aufgaben in der Verordnung fest.
 
 #### § 5a
 
@@ -138,8 +144,8 @@ beschliesst:
 <sup>1</sup> Abweichend von § 6 haben die nachstehend aufgeführten Mitarbeiterinnen und Mitarbeiter folgenden jährlichen Ferienanspruch:
 
 - a. ...
-- b. 6 Wochen
-  - 1\. die Mitglieder des Regierungsrates;
+- b. 6 Wochen:
+  - 1\. die Mitglieder des Regierungsrats;
   - 2\. die Abteilungspräsidentinnen und -präsidenten des Kantonsgerichts sowie die Landschreiberin oder der Landschreiber;
   - 3\. die Chefärztinnen bzw. Chefärzte und Institutsleiterinnen bzw. -leiter.
 
@@ -173,7 +179,7 @@ beschliesst:
 
 **Einreihungsplan**
 
-<sup>1</sup> Der Einreihungsplan bildet als Anhang I einen integrierenden Bestandteil dieses Dekrets.
+<sup>1</sup> Der Einreihungsplan bildet als Anhang 1 einen integralen Bestandteil dieses Dekrets.
 
 <sup>2</sup> Er listet nach Funktionsbereichen, Funktionsketten und Lohnbändern geordnet die einzelnen Richtpositionen auf.
 
@@ -199,7 +205,7 @@ beschliesst:
 
 <sup>2</sup> Jedes Lohnband ist durch einen Minimal- und Maximallohn begrenzt und enthält einen Funktionslohn.
 
-<sup>3</sup> Die Höhe der Minimal-, Maximal- sowie der Funktionslöhne der Lohnbänder ist in Anhang II geregelt, der einen integrierenden Bestandteil dieses Dekrets bildet. Die Beträge sind Jahreslöhne bei vollem Beschäftigungsgrad und schliessen das 13. Monatsgehalt ein.
+<sup>3</sup> Die Höhe der Minimal-, Maximal- sowie der Funktionslöhne der Lohnbänder ist in Anhang 2 geregelt, der einen integralen Bestandteil dieses Dekrets bildet. Die Beträge sind Jahreslöhne bei vollem Beschäftigungsgrad und schliessen das 13. Monatsgehalt ein.
 
 <sup>4</sup> Für Mitarbeiterinnen und Mitarbeiter in Ausbildung, für Praktikantinnen und Praktikanten, für Volontärinnen und Volontäre sowie für Jugendliche bis zum zurückgelegten 18. Altersjahr legt der Regierungsrat die Löhne fest.
 
@@ -217,7 +223,7 @@ beschliesst:
 
 **Einreihung in ein Lohnband**
 
-<sup>1</sup> Die Einreihung in ein Lohnband basiert auf dem Einreihungsplan (Anhang I), der Modellumschreibung und dem Stelleninhalt.
+<sup>1</sup> Die Einreihung in ein Lohnband basiert auf dem Einreihungsplan (Anhang 1), der Modellumschreibung und dem Stelleninhalt.
 
 <sup>2</sup> Die in der Modellumschreibung umschriebenen formellen Anforderungen an die Ausbildung geben an, welches Fähigkeits- und Wissensniveau erforderlich ist.
 
@@ -374,13 +380,13 @@ beschliesst:
 
 <sup>3</sup> Richtet ein anderer Arbeitgeber eine der gleichen Zielsetzung dienende Zulage für dieselben Kinder und denselben Haushalt aus, die geringer ist als die Erziehungszulage des Kantons Basel-Landschaft, wird dieser Betrag vom Anspruch des Mitarbeitenden abgezogen.
 
-<sup>4</sup> Die Erziehungszulage wird entsprechend dem vertraglich vereinbarten Pensum gemäss den Ansätzen in Anhang II ausbezahlt.
+<sup>4</sup> Die Erziehungszulage wird entsprechend dem vertraglich vereinbarten Pensum gemäss den Ansätzen in Anhang 2 ausbezahlt.
 
-<sup>5</sup> Die Erziehungszulage wird einmal pro Haushalt und unabhängig der Anzahl unterstützungsberechtigter Kinder ausbezahlt.
+<sup>5</sup> Die Erziehungszulage wird 1-mal pro Haushalt und unabhängig der Anzahl unterstützungsberechtigter Kinder ausbezahlt.
 
 <sup>6</sup> Eine Mitarbeiterin oder ein Mitarbeiter kann nicht mehr als eine Zulage entsprechend dem Beschäftigungsgrad beziehen.
 
-<sup>7</sup> Arbeiten beide für ein Kind unterstützungspflichtige Elternteile beim Arbeitgeber Kanton Basel-Landschaft, besteht bei beiden Mitarbeitenden ein Anspruch auf eine Erziehungszulage, maximal in der Höhe von zusammen einer Zulage für ein 100-%-Pensum. Details der Aufteilung regelt die Verordnung.
+<sup>7</sup> Arbeiten beide für ein Kind unterstützungspflichtigen Elternteile beim Arbeitgeber Kanton Basel-Landschaft, besteht bei beiden Mitarbeitenden ein Anspruch auf eine Erziehungszulage, maximal in der Höhe von zusammen einer Zulage für ein 100-%-Pensum. Details der Aufteilung regelt die Verordnung.
 
 #### § 29a
 
@@ -394,21 +400,21 @@ beschliesst:
 
 **Zulagen für unregelmässige Arbeitszeit**
 
-<sup>1</sup> Der Regierungsrat legt für angeordnete Arbeit in der Nacht, an Samstagen, Sonntagen und Feiertagen sowie für Pikettdienste für Mitarbeiterinnen und Mitarbeiter in den Lohnklassen 28 bis 11 Zulagen fest.
+<sup>1</sup> Der Regierungsrat legt für angeordnete Arbeit in der Nacht, an Samstagen, Sonntagen und Feiertagen sowie für Pikettdienste für Mitarbeiterinnen und Mitarbeiter in den Lohnklassen 28–11 Zulagen fest.
 
 ### 2.5 Ausnahmen
 
 #### § 31
 
-**Mitglieder des Regierungsrates**
+**Mitglieder des Regierungsrats**
 
-<sup>1</sup> Den Mitgliedern des Regierungsrates werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang II Ziff. 2 ausgerichtet:
+<sup>1</sup> Den Mitgliedern des Regierungsrats werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang 2 Ziff. 2 ausgerichtet:
 
-- a. Präsidentin bzw. Präsident des Regierungsrates — Ansatz A 1,
-- b. Vizepräsidentin bzw. Vizepräsident des Regierungsrates — Ansatz A 2,
-- c. übrige Mitglieder des Regierungsrates — Ansatz A 3.
+- a. Präsidentin bzw. Präsident des Regierungsrats — Ansatz A 1,
+- b. Vizepräsidentin bzw. Vizepräsident des Regierungsrats — Ansatz A 2,
+- c. übrige Mitglieder des Regierungsrats — Ansatz A 3.
 
-<sup>2</sup> Den Mitgliedern des Regierungsrates wird zur Abgeltung der persönlichen Spesen eine nichtindexierte Jahrespauschale von CHF 15'000 ausgerichtet.
+<sup>2</sup> Den Mitgliedern des Regierungsrats wird zur Abgeltung der persönlichen Spesen eine nichtindexierte Jahrespauschale von CHF 15'000.– ausgerichtet.
 
 <sup>3</sup> Zusätzlich zur Jahrespauschale werden die folgenden persönlichen Spesen wie folgt abgegolten:
 
@@ -421,7 +427,7 @@ beschliesst:
 
 **Andere Sonderregelungen**
 
-<sup>1</sup> Der Präsidentin oder dem Präsidenten des Kantonsgerichts werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang II Ziff. 2, Ansatz A 4.1, ausgerichtet. Zur Abgeltung der persönlichen Spesen wird eine nichtindexierte Jahrespauschale von CHF 5'000 ausgerichtet.
+<sup>1</sup> Der Präsidentin oder dem Präsidenten des Kantonsgerichts werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang 2 Ziff. 2, Ansatz A 4.1, ausgerichtet. Zur Abgeltung der persönlichen Spesen wird eine nichtindexierte Jahrespauschale von CHF 5'000.– ausgerichtet.
 
 <sup>1a</sup> Zusätzlich zur Jahrespauschale werden die folgenden persönlichen Spesen wie folgt abgegolten:
 
@@ -430,17 +436,17 @@ beschliesst:
 - c. Bahnreisen im Inland (ausserhalb des Tarifverbunds Nordwestschweiz): effektive Kosten für Fahrten der 1. Klasse, solange die Auslagen für Bahnreisen den doppelten Preis für ein 1-jähriges ½-Tax-Abonnement (Preis am 1. Januar des jeweiligen Jahres) nicht übersteigen; danach werden für den darüber liegenden Betrag nur noch die ½-Tax-Preise erstattet;
 - d. auswärtige Übernachtungen: effektive Kosten.
 
-<sup>1 <sup>bis</sup></sup> Der Vizepräsidentin oder dem Vizepräsidenten des Kantonsgerichts werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang II Ziff. 2, Ansatz A 4.2, ausgerichtet.
+<sup>1 <sup>bis</sup></sup> Der Vizepräsidentin oder dem Vizepräsidenten des Kantonsgerichts werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang 2 Ziff. 2, Ansatz A 4.2, ausgerichtet.
 
-<sup>1 <sup>ter</sup></sup> Den Abteilungspräsidentinnen und -präsidenten des Kantonsgerichts sowie der Landschreiberin oder dem Landschreiber werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang II Ziff. 2, Ansatz A 4.3, ausgerichtet.
+<sup>1 <sup>ter</sup></sup> Den Abteilungspräsidentinnen und -präsidenten des Kantonsgerichts sowie der Landschreiberin oder dem Landschreiber werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang 2 Ziff. 2, Ansatz A 4.3, ausgerichtet.
 
-<sup>2</sup> Den Chefärztinnen und Chefärzten der kantonalen Krankenanstalten werden 13 Monatslöhne gemäss Anhang II Ziff. 2 ausgerichtet:
+<sup>2</sup> Den Chefärztinnen und Chefärzten der kantonalen Krankenanstalten werden 13 Monatslöhne gemäss Anhang 2 Ziff. 2 ausgerichtet:
 
 - a. operierende Chefärztinnen/Chefärzte — Ansätze B 1,
 - b. nichtoperierende Chefärztinnen/Chefärzte — Ansätze B 2,
 - c. Institutsleiterinnen/Institutsleiter — Ansätze B 3.
 
-<sup>2<sup>bis</sup></sup> Den Leitenden Ärztinnen und Leitenden Ärzten der Kantonsspitäler und Kantonalen Psychiatrischen Dienste werden 13 Monatslöhne gemäss Anhang II Ziff. 2 ausgerichtet:
+<sup>2<sup>bis</sup></sup> Den Leitenden Ärztinnen und Leitenden Ärzten der Kantonsspitäler und Kantonalen Psychiatrischen Dienste werden 13 Monatslöhne gemäss Anhang 2 Ziff. 2 ausgerichtet:
 
 - a. operierende Leitende Ärztinnen/Leitende Ärzte — 80% der Ansätze B 1,
 - b. nichtoperierende Leitende Ärztinnen/Leitende Ärzte — 80% der Ansätze B 2,
@@ -451,7 +457,7 @@ beschliesst:
 
 <sup>2<sup>quater</sup></sup> ...
 
-<sup>3</sup> Der Regierungsrat kann die Ansätze gemäss Anhang Ziff. 2 um bis zu 20 % reduzieren.
+<sup>3</sup> Der Regierungsrat kann die Ansätze gemäss Anhang 2 Ziff. 2 um bis zu 20 % reduzieren.
 
 <sup>4</sup> ...
 
@@ -461,26 +467,26 @@ beschliesst:
 
 <sup>1</sup> Den weiteren vom Landrat gewählten Funktionsträgerinnen und -trägern werden folgende Lohnansätze zugewiesen:
 
-- a. Der Vorsteherin bzw. dem Vorsteher der Finanzkontrolle gemäss Anhang II Ziff. 2 — Ansatz D1,
-- b. der Vorsteherin bzw. dem Vorsteher der Datenschutzstelle gemäss Anhang II Ziff. 2 — Ansatz D2,
-- c. der Ombudsperson gemäss Anhang II Ziff. 2 — Ansatz D2,
-- d. der Ersten Staatsanwältin bzw. dem Ersten Staatsanwalt gemäss Anhang II Ziff. 2 — Ansatz D3,
-- e. den Leitenden Staatsanwältinnen I und den Leitenden Staatsanwälten I gemäss Anhang II Ziff. 2 — Ansatz D4,
-- f. der Leitenden Jugendanwältin bzw. dem Leitenden Jugendanwalt gemäss Anhang II Ziff. 2 — Ansatz D4,
-- g. den Leitenden Staatsanwältinnen II und den Leitenden Staatsanwälten II gemäss Anhang II Ziff. 2 — Ansatz D5,
-- h. den erstinstanzlichen Gerichtspräsidien gemäss Anhang II Ziff. 2 — Ansatz D6.
+- a. der Vorsteherin bzw. dem Vorsteher der Finanzkontrolle gemäss Anhang 2 Ziff. 2 — Ansatz D 1,
+- b. der Vorsteherin bzw. dem Vorsteher der Datenschutzstelle gemäss Anhang 2 Ziff. 2 — Ansatz D 2,
+- c. der Ombudsperson gemäss Anhang 2 Ziff. 2 — Ansatz D 2,
+- d. der Ersten Staatsanwältin bzw. dem Ersten Staatsanwalt gemäss Anhang 2 Ziff. 2 — Ansatz D 3,
+- e. den Leitenden Staatsanwältinnen I und den Leitenden Staatsanwälten I gemäss Anhang 2 Ziff. 2 — Ansatz D 4,
+- f. der Leitenden Jugendanwältin bzw. dem Leitenden Jugendanwalt gemäss Anhang 2 Ziff. 2 — Ansatz D 4,
+- g. den Leitenden Staatsanwältinnen II und den Leitenden Staatsanwälten II gemäss Anhang 2 Ziff. 2 — Ansatz D 5,
+- h. den erstinstanzlichen Gerichtspräsidien gemäss Anhang 2 Ziff. 2 — Ansatz D 6.
 
 <sup>1<sup>bis</sup></sup> Den in Abs. 1 genannten Funktionsträgerinnen und -trägern werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt ausgerichtet.
 
-<sup>2</sup> Die erstmalige Lohnfestsetzung erfolgt jeweils nach Konsultation des Personalamtes durch die Behörde, welche den Wahlantrag stellt.
+<sup>2</sup> Die erstmalige Lohnfestsetzung erfolgt jeweils nach Konsultation des Personalamts durch die Behörde, welche den Wahlantrag stellt.
 
-<sup>3</sup> In der ersten Amtsperiode wird der Lohn mindestens gemäss dem Minimum festgelegt. Zusätzlich können Erfahrungsjahre angerechnet werden, die in gleichwertigen Funktionen geleistet wurden.
+<sup>3</sup> In der 1. Amtsperiode wird der Lohn mindestens gemäss dem Minimum festgelegt. Zusätzlich können Erfahrungsjahre angerechnet werden, die in gleichwertigen Funktionen geleistet wurden.
 
 <sup>4</sup> Der Maximallohn wird in 3 degressiven Stufen von 50, 30 und 20 % der Differenz zwischen Minimal- und Maximallohn erreicht.
 
 <sup>5</sup> Der Stufenanstieg wird ausschliesslich auf Beginn einer weiteren Amtsperiode gewährt.
 
-<sup>6</sup> Der Regierungsrat kann die Umwandlung des 13. Teils des Jahresgehaltes in Urlaub entsprechend § 22 bewilligen.
+<sup>6</sup> Der Regierungsrat kann die Umwandlung des 13. Teils des Jahresgehalts in Urlaub entsprechend § 22 bewilligen.
 
 ### 2.6 Inhaberinnen und Inhaber kantonaler Nebenämter
 
@@ -490,19 +496,19 @@ beschliesst:
 
 **Monatliche Vergütungen**
 
-<sup>1</sup> Die pauschale monatliche Vergütung wird gemäss folgenden, in Anhang II Ziff. 2 definierten Ansätzen ausgerichtet:
+<sup>1</sup> Die pauschale monatliche Vergütung wird gemäss folgenden, in Anhang 2 Ziff. 2 definierten Ansätzen ausgerichtet:
 
-- a. Abteilungs-Vizepräsidentinnen und Abteilungs-Vizepräsidenten des Kantonsgerichts — Ansatz C 13.1;
+- a. Abteilungsvizepräsidentinnen und Abteilungsvizepräsidenten des Kantonsgerichts — Ansatz C 13.1;
 - b. Mitglieder des Kantonsgerichts — Ansatz C 13.2.
 
 #### § 33a
 
 **Ausserordentliche jährliche Vergütung**
 
-<sup>1</sup> Vizepräsidentinnen und Vizepräsidenten der erstinstanzlichen Gerichte, die eine Aufwandentschädigung (Entschädigung aus Sitzungsgeldern, Aktenstudium, Zuschlag für Sitzungspräsidium und Zuschlag für Referat) von mehr als CHF 20'000 brutto jährlich beziehen, erhalten zusätzlich eine Pauschalvergütung in Höhe von
+<sup>1</sup> Vizepräsidentinnen und Vizepräsidenten der erstinstanzlichen Gerichte, die eine Aufwandentschädigung (Entschädigung aus Sitzungsgeldern, Aktenstudium, Zuschlag für Sitzungspräsidium und Zuschlag für Referat) von mehr als CHF 20'000.– brutto jährlich beziehen, erhalten zusätzlich eine Pauschalvergütung in Höhe von
 
-- a. 20 % der Bruttoentschädigung ab einer jährlichen Bruttoentschädigung von CHF 20'000;
-- b. 25 % der Bruttoentschädigung ab einer jährlichen Bruttoentschädigung von CHF 40'000.
+- a. 20 % der Bruttoentschädigung ab einer jährlichen Bruttoentschädigung von CHF 20'000.–;
+- b. 25 % der Bruttoentschädigung ab einer jährlichen Bruttoentschädigung von CHF 40'000.–.
 
 <sup>2</sup> Entschädigungen für aussergewöhnliche Inanspruchnahme nach § 38 Abs. 4 dieses Dekrets werden bei der Ermittlung der massgebenden jährlichen Aufwandentschädigung nicht angerechnet.
 
@@ -512,11 +518,11 @@ beschliesst:
 
 **Sitzungsgelder**
 
-<sup>1</sup> Die Mitglieder und die Ersatzmitglieder des Kantonsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld gemäss Anhang II Ziff. 2 Ansatz C 6 pro halben Tag (entsprechend 4 Stunden) und gemäss Ansatz C 3 für jede weitere Stunde.
+<sup>1</sup> Die Mitglieder und die Ersatzmitglieder des Kantonsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld gemäss Anhang 2 Ziff. 2 Ansatz C 6 pro halben Tag (entsprechend 4 Stunden) und gemäss Ansatz C 3 für jede weitere Stunde.
 
-<sup>1<sup>bis</sup></sup> Die Einzelrichterinnen und Einzelrichter gemäss § 3 Abs. 2 des kantonalen Gesetzes vom 20. Mai 1996[^34-1] über die Zwangsmassnahmen im Ausländerrecht erhalten pro Fall eine pauschale Vergütung gemäss Anhang II Ziff. 2 Ansatz C 3.
+<sup>1<sup>bis</sup></sup> Die Einzelrichterinnen und Einzelrichter gemäss § 3 Abs. 2 des kantonalen Gesetzes über die Zwangsmassnahmen im Ausländerrecht vom 20. Mai 1996[^34-1] erhalten pro Fall eine pauschale Vergütung gemäss Anhang 2 Ziff. 2 Ansatz C 3.
 
-<sup>2</sup> Die Mitglieder und die Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts und des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld gemäss Anhang II Ziff. 2 Ansatz C 5.1 pro halben Tag (entsprechend 4 Stunden) und gemäss Ansatz C 2 für jede weitere Stunde.
+<sup>2</sup> Die Mitglieder und die Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts und des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld gemäss Anhang 2 Ziff. 2 Ansatz C 5.1 pro halben Tag (entsprechend 4 Stunden) und gemäss Ansatz C 2 für jede weitere Stunde.
 
 [^34-1]: [SGS 112](https://bl.clex.ch/data/112/de/art3)
 
@@ -524,7 +530,7 @@ beschliesst:
 
 **Aktenstudium**
 
-<sup>1</sup> Für das Aktenstudium wird pro Sitzung folgende Vergütung gemäss Anhang II Ziff. 2 ausgerichtet:
+<sup>1</sup> Für das Aktenstudium wird pro Sitzung folgende Vergütung gemäss Anhang 2 Ziff. 2 ausgerichtet:
 
 - a. Mitglieder und Ersatzmitglieder des Kantonsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, — Ansatz C 7;
 - b. Mitglieder und Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts und des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, — Ansatz C 5.2.
@@ -543,7 +549,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder und die Ersatzmitglieder des Kantonsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, haben pro Referat Anspruch auf einen Zuschlag gemäss Ansatz C 9.
 
-<sup>2</sup> Die Mitglieder und die Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts sowie des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, haben pro Referat Anspruch auf einen Zuschlag von CHF 50–200.
+<sup>2</sup> Die Mitglieder und die Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts sowie des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, haben pro Referat Anspruch auf einen Zuschlag von CHF 50–200.–.
 
 <sup>3</sup> Die Geschäftsleitung des Kantonsgerichts erlässt die Kriterien, nach denen die Präsidentin oder der Präsident des betreffenden Gerichts die Höhe des einzelnen Referatszuschlags festzulegen hat.
 
@@ -557,7 +563,7 @@ beschliesst:
 
 <sup>3</sup> Ebenso kann durch die Präsidentin bzw. den Präsidenten die Vergütung gemäss § 37 für das Referat entsprechend der Beanspruchung erhöht beziehungsweise herabgesetzt werden.
 
-<sup>4</sup> Bei aussergewöhnlicher Inanspruchnahme eines Mitgliedes des Gerichtes kann die Präsidentin beziehungsweise der Präsident die Ausrichtung einer angemessenen zusätzlichen Pauschalvergütung anordnen.
+<sup>4</sup> Bei aussergewöhnlicher Inanspruchnahme eines Mitglieds des Gerichts kann die Präsidentin beziehungsweise der Präsident die Ausrichtung einer angemessenen zusätzlichen Pauschalvergütung anordnen.
 
 #### § 39
 
@@ -623,9 +629,9 @@ beschliesst:
 
 **Lehrpersonen**
 
-<sup>1</sup> Der Regierungsrat regelt die Vergütung der Lehrpersonen für die Ausübung einer speziellen Funktion innerhalb des Schulbetriebs.
+<sup>1</sup> Der Regierungsrat regelt die Anrechnung der Arbeitszeit der Lehrpersonen für die Ausübung einer Spezialfunktion oder einer speziellen Aufgabe innerhalb des Schulbetriebs.
 
-<sup>2</sup> Die Vergütung kann in Form einer Barentschädigung oder Reduktion der Unterrichtsverpflichtung erfolgen.
+<sup>2</sup> Die Anrechnung erfolgt in der Regel als ausgewiesener Teil der Unterrichtsverpflichtung.
 
 ### 2.9 Treueprämie
 
@@ -639,19 +645,19 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Bei der Ermittlung der anrechenbaren Jahre werden alle im Geltungsbereich des Personalgesetzes stehenden Arbeitsverhältnisse berücksichtigt. Ein früherer Arbeitgeber kann entsprechend dem Beschäftigungsgrad und der Anstellungsdauer zu einer anteilsmässigen Beteiligung an der Treueprämie verpflichtet werden.
 
-<sup>3</sup> Der Regierungsrat regelt die Abgabe von Treueprämien an Inhaberinnen und Inhaber eines Nebenamtes sowie die Ausrichtung eines Geschenkes an Mitarbeiterinnen und Mitarbeiter und Inhaberinnen und Inhaber eines Nebenamtes bei Beendigung einer langjährigen Amtstätigkeit bzw. eines langjährigen Arbeitsverhältnisses.
+<sup>3</sup> Der Regierungsrat regelt die Abgabe von Treueprämien an Inhaberinnen und Inhaber eines Nebenamts sowie die Ausrichtung eines Geschenks an Mitarbeiterinnen und Mitarbeiter und Inhaberinnen und Inhaber eines Nebenamts bei Beendigung einer langjährigen Amtstätigkeit bzw. eines langjährigen Arbeitsverhältnisses.
 
 #### § 47
 
 **Umfang**
 
-<sup>1</sup> Die Treueprämie beträgt bei einer Vollzeitbeschäftigung nach
+<sup>1</sup> Die Treueprämie beträgt bei einer Vollzeitbeschäftigung nach:
 
-- a. 10 Dienstjahren — CHF 1'500,
-- b. 15 Dienstjahren — CHF 2'000,
-- c. 20 Dienstjahren — CHF 3'000,
-- d. 25 Dienstjahren — CHF 4'000,
-- e. 30, 35, 40 oder 45 Dienstjahren — CHF 5'000.
+- a. 10 Dienstjahren — CHF 1'500.–,
+- b. 15 Dienstjahren — CHF 2'000.–,
+- c. 20 Dienstjahren — CHF 3'000.–,
+- d. 25 Dienstjahren — CHF 4'000.–,
+- e. 30, 35, 40 oder 45 Dienstjahren — CHF 5'000.–.
 
 <sup>2</sup> Für die Berechnung der Treueprämie ist der durchschnittliche Beschäftigungsgrad während der der Fälligkeit vorausgegangenen 5 Jahre massgebend.
 
@@ -661,9 +667,9 @@ beschliesst:
 
 <sup>1</sup> Im Grundsatz besteht nach Beendigung des Arbeitsverhältnisses kein Anspruch auf eine Treueprämie.
 
-<sup>2</sup> Mitarbeitende erhalten in folgenden Fällen bei Ausscheiden einen pro rata temporis Anteil der Treueprämie:
+<sup>2</sup> Mitarbeitende erhalten in folgenden Fällen bei Ausscheiden einen pro-rata-temporis-Anteil der Treueprämie:
 
-- a. Mitarbeitende, denen aufgrund von § 19 Abs. 3 Bst. b Personalgesetz gekündigt wird,
+- a. Mitarbeitende, denen aufgrund von § 19 Abs. 3 Bst. b Personalgesetz gekündigt wird;
 - b. Mitarbeitende, deren Arbeitsverhältnis in Folge einer Invalidität aufgelöst wird.
 
 ### 2.10 Teuerungsausgleich
@@ -676,7 +682,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat stellt dem Landrat nach Verhandlung mit der Arbeitsgemeinschaft der Personalverbände Antrag über die Höhe des Teuerungsausgleichs. Orientierungsgrösse für die Verhandlungen des Regierungsrats mit den Personalverbänden ist der gemittelte Landesindex der Konsumentenpreise von Oktober des Vorjahres bis September des Jahres, das dem Vollzug des Teuerungsausgleichs vorangeht. Als weitere Beurteilungsgrössen sind die finanzielle Situation des Kantons und die wirtschaftliche Entwicklung im Umfeld miteinzubeziehen.
 
-<sup>3</sup> Mit dem Beschluss über den Teuerungsausgleich ermächtigt der Landrat den Regierungsrat, die Lohntabellen im Anhang II des Personaldekretes entsprechend zu ändern und per 1. Januar des folgenden Jahres in Kraft zu setzen.
+<sup>3</sup> Mit dem Beschluss über den Teuerungsausgleich ermächtigt der Landrat den Regierungsrat, die Lohntabellen im Anhang 2 des Personaldekrets entsprechend zu ändern und per 1. Januar des folgenden Jahres in Kraft zu setzen.
 
 <sup>4</sup> Bei den Vergütungen für die Inhaberinnen und Inhaber kantonaler Nebenämter findet kein Teuerungsausgleich statt. Es erfolgt eine periodische Überprüfung.
 
@@ -686,7 +692,7 @@ beschliesst:
 
 **Berufliche Vorsorge für die Mitarbeiterinnen und Mitarbeiter**
 
-<sup>1</sup> Die Sicherung der Mitarbeiterinnen und Mitarbeiter gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod wird im Dekret vom 16. Mai 2013[^50-1] über die berufliche Vorsorge durch die Basellandschaftliche Pensionskasse (Pensionskassendekret) und im entsprechenden Vorsorgereglement der Basellandschaftlichen Pensionskasse geregelt.
+<sup>1</sup> Die Sicherung der Mitarbeiterinnen und Mitarbeiter gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod wird im Dekret über die berufliche Vorsorge durch die Basellandschaftliche Pensionskasse (Pensionskassendekret) vom 16. Mai 2013[^50-1] und im entsprechenden Vorsorgereglement der Basellandschaftlichen Pensionskasse geregelt.
 
 [^50-1]: [SGS 834.1](https://bl.clex.ch/data/834.1/de)
 
@@ -704,15 +710,15 @@ beschliesst:
 
 #### § 51
 
-**Berufliche Vorsorge für die Mitglieder des Regierungsrates**
+**Berufliche Vorsorge für die Mitglieder des Regierungsrats**
 
-<sup>1</sup> Die Sicherung der Mitglieder des Regierungsrates gegen die wirtschaftlichen Folgen von Nichtwiederwahl, Alter, Invalidität und Tod wird in einem besonderen Dekret geregelt
+<sup>1</sup> Die Sicherung der Mitglieder des Regierungsrats gegen die wirtschaftlichen Folgen von Nichtwiederwahl, Alter, Invalidität und Tod wird in einem besonderen Dekret geregelt
 
 #### § 52
 
 **Abgangsentschädigung für auf Amtsperiode gewählte Mitarbeiterinnen und Mitarbeiter**
 
-<sup>1</sup> Die Personalkommission des Landrates entscheidet endgültig über die Abgangsentschädigung im Einzelfall.
+<sup>1</sup> Die Personalkommission des Landrats entscheidet endgültig über die Abgangsentschädigung im Einzelfall.
 
 #### § 53
 
@@ -750,9 +756,9 @@ beschliesst:
 
 **Verwirkung**
 
-<sup>1</sup> Vermögensrechtliche Ansprüche der Mitarbeiterinnen und Mitarbeiter gegenüber dem Kanton aus dem Arbeitsverhältnis können innert eines Jahres, nachdem die Mitarbeiterin oder der Mitarbeiter von der Möglichkeit eines Anspruchs Kenntnis erhalten hat, spätestens aber vor Ablauf von 5 Jahren seit ihrer Entstehung geltend gemacht werden.
+<sup>1</sup> Vermögensrechtliche Ansprüche der Mitarbeiterinnen und Mitarbeiter gegenüber dem Kanton aus dem Arbeitsverhältnis können innert 1 Jahr, nachdem die Mitarbeiterin oder der Mitarbeiter von der Möglichkeit eines Anspruchs Kenntnis erhalten hat, spätestens aber vor Ablauf von 5 Jahren seit ihrer Entstehung geltend gemacht werden.
 
-<sup>2</sup> Vermögensrechtliche Ansprüche des Kantons gegenüber den Mitarbeiterinnen und Mitarbeitern auf Rückerstattung zu Unrecht bezogener Leistungen sind innert eines Jahres, nachdem die zur Geltendmachung des Anspruches zuständige Amtsstelle oder die Finanzkontrolle davon Kenntnis erhalten hat, spätestens aber vor Ablauf von 5 Jahren seit ihrer Entstehung geltend zu machen.
+<sup>2</sup> Vermögensrechtliche Ansprüche des Kantons gegenüber den Mitarbeiterinnen und Mitarbeitern auf Rückerstattung zu Unrecht bezogener Leistungen sind innert 1 Jahr, nachdem die zur Geltendmachung des Anspruchs zuständige Amtsstelle oder die Finanzkontrolle davon Kenntnis erhalten hat, spätestens aber vor Ablauf von 5 Jahren seit ihrer Entstehung geltend zu machen.
 
 <sup>3</sup> Wird der Rückerstattungsanspruch aus einer strafbaren Handlung hergeleitet, für die das Strafrecht eine längere Verjährung vorschreibt, so gilt dies auch für diesen.
 
@@ -882,11 +888,11 @@ beschliesst:
 
 #### § 71
 
-**Wahrung des Besitzstandes**
+**Wahrung des Besitzstands**
 
 <sup>1</sup> Der Besitzstand bezüglich Lohnklasse und Dienstalterszulage (Erfahrungszulage) wird für alle Mitarbeiterinnen und Mitarbeiter, welche gemäss der neuen Regelung einen tieferen Lohn erhalten, gewahrt.
 
-<sup>2</sup> Vorbehalten bleibt die richtige Einreihung gemäss den Bestimmungen des Dekrets vom 5. Februar 1998[^71-1] zum Personalgesetz.
+<sup>2</sup> Vorbehalten bleibt die richtige Einreihung gemäss den Bestimmungen des Dekrets zum Personalgesetz vom 5. Februar 1998[^71-1] .
 
 <sup>3</sup> Diese Regelung gilt für alle Folgejahre ab Inkraftsetzung, bis der Jahreslohn nach der neuen Regelung mindestens dem Besitzstand entspricht.
 
@@ -896,13 +902,13 @@ beschliesst:
 
 **Aufholerinnen und Aufholer**
 
-<sup>1</sup> Sofern der bisherige Jahreslohn unter demjenigen gemäss neuer Lohntabelle ([[Anhang II) liegt, erfolgt die Anpassung in einem Schritt unmittelbar mit Inkraftsetzung dieses Dekrets.
+<sup>1</sup> Sofern der bisherige Jahreslohn unter demjenigen gemäss neuer Lohntabelle (Anhang 2) liegt, erfolgt die Anpassung in einem Schritt unmittelbar mit Inkraftsetzung dieses Dekrets.
 
 #### § 73
 
 **Änderung des Beschäftigungsgrades im Zusammenhang mit der Besitzstandsgarantie**
 
-<sup>1</sup> Eine Erhöhung des Beschäftigungsgrades bei einer Besitzstandsgarantie des Lohnes führt zu keiner entsprechenden Erhöhung des Besitzstandsbetrages.
+<sup>1</sup> Eine Erhöhung des Beschäftigungsgrades bei einer Besitzstandsgarantie des Lohnes führt zu keiner entsprechenden Erhöhung des Besitzstandsbetrags.
 
 <sup>2</sup> Eine Herabsetzung des Beschäftigungsgrades bei einer Besitzstandsgarantie führt zu einer anteilmässigen Reduzierung des Besitzstandsbetrages. Eine Wiedererhöhung des Beschäftigungsgrades führt zu einer entsprechenden Erhöhung des Besitzstandsbetrages, jedoch höchstens bis zum Betrag, der zum Zeitpunkt der Inkraftsetzung des Dekrets massgebend war.
 
@@ -910,7 +916,7 @@ beschliesst:
 
 **Mitteilung an die Mitarbeiterinnen und Mitarbeiter**
 
-<sup>1</sup> Die Mitteilung über die neue Lohnklasseneinreihung und Erfahrungsstufenzuweisung erfolgt spätestens einen Monat vor Inkrafttreten des Dekrets.
+<sup>1</sup> Die Mitteilung über die neue Lohnklasseneinreihung und Erfahrungsstufenzuweisung erfolgt spätestens 1 Monat vor Inkrafttreten des Dekrets.
 
 #### § 75
 
@@ -952,13 +958,13 @@ beschliesst:
 
 #### § 78
 
-**Aufhebung bisherigen Rechtes**
+**Aufhebung bisherigen Rechts**
 
 <sup>1</sup> Das Dekret vom 5. Februar 1998[^78-1] zum Personalgesetz (Personaldekret) wird unter Vorbehalt von § 78 Abs. 2 aufgehoben.
 
 <sup>2</sup> Für Lehrpersonen bleiben die folgenden Paragraphen des Personaldekrets bis zum Schuljahresbeginn 2001/2002 in Kraft: § 8 Abs. 2 und 4, § 9, § 10, § 11 und § 15.
 
-<sup>3</sup> § 32 Abs. 1–3 des Dekrets vom 3. Dezember 1979[^78-2] zum Schulgesetz werden per Schuljahresbeginn 2001/2002 unter dem Vorbehalt von § 79 Abs 2–4 aufgehoben
+<sup>3</sup> § 32 Abs. 1–3 des Dekrets vom 3. Dezember 1979[^78-2] zum Schulgesetz werden per Schuljahresbeginn 2001/2002 unter dem Vorbehalt von § 79 Abs. 2–4 aufgehoben.
 
 [^78-1]: GS 33.17
 [^78-2]: GS 27.245
