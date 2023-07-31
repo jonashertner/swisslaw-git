@@ -4,13 +4,12 @@ number: "215.126.1"
 title: "Loi portant introduction à la loi fédérale du 16 décembre 1983 sur l'acquisition d'immeubles par des personnes à l'étranger"
 short: Li LFAIE
 language: fr
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-07-04
+version: 2023-08-01
+version_adopted: 2023-07-03
 adopted: 1988-09-25
 in_force: 1988-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.126.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2642/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2854/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2642/pdf_file"
 
 (Li LFAIE)
 
-du 25.09.1988 (état au 01.08.2022)
+du 25.09.1988 (état au 01.08.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -247,7 +246,7 @@ arrête:
 - c Arrondissement administratif de Biel/Bienne
   - 1\. Bienne
 - d Arrondissement administratif de l'Emmental
-  - 1\. Huttwil
+  - 1\. …
   - 2\. Lützelflüh
 - e Arrondissement administratif de Frutigen et du Bas-Simmental
   - 1\. Adelboden
@@ -294,6 +293,8 @@ arrête:
   - 1\. Eriz
   - 2\. Hilterfingen
   - 3\. Horrenbach-Buchen
+- i Arrondissement administratif de la Haute-Argovie
+  - 1\. Huttwil
 
 <sup>3</sup> Les restrictions en vertu de l'article 9 peuvent être consultées sur Internet via le lien [www.be.ch/acquisition-immeuble](http://www.be.ch/acquisition-immeuble).
 

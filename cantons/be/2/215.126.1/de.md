@@ -4,13 +4,12 @@ number: "215.126.1"
 title: Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland
 short: EG BewG
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-07-04
+version: 2023-08-01
+version_adopted: 2023-07-03
 adopted: 1988-09-25
 in_force: 1988-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.126.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2642/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2854/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2642/pdf_file"
 
 (EG BewG)
 
-vom 25.09.1988 (Stand 01.08.2022)
+vom 25.09.1988 (Stand 01.08.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -247,7 +246,7 @@ beschliesst:
 - c Verwaltungskreis Biel/Bienne
   - 1\. Biel
 - d Verwaltungskreis Emmental
-  - 1\. Huttwil
+  - 1\. …
   - 2\. Lützelflüh
 - e Verwaltungskreis Frutigen-Niedersimmental
   - 1\. Adelboden
@@ -294,6 +293,8 @@ beschliesst:
   - 1\. Eriz
   - 2\. Hilterfingen
   - 3\. Horrenbach-Buchen
+- i Verwaltungskreis Oberaargau
+  - 1\. Huttwil
 
 <sup>3</sup> Einschränkungen gemäss Artikel 9 sind auf Internet verfügbar unter: [www.be.ch/grundstueckerwerb](http://www.be.ch/grundstueckerwerb).
 
