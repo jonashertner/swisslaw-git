@@ -4,13 +4,13 @@ number: 439.14-1
 title: "Convention scolaire régionale concernant l'accueil réciproque d'élèves et le versement de contributions"
 short: CSR 2009
 language: fr
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2022-04-12
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-03-30
 adopted: 2007-11-23
 in_force: 2010-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.14-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2606/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2853/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2606/pdf_file"
 
 (CSR 2009)
 
-du 23.11.2007 (état au 01.08.2022)
+du 23.11.2007 (état au 01.08.2023)
 
 Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg, de Lucerne, de Soleure, du Valais et de Zurich, ci-après nommés cantons signataires, concluent la convention suivante:
 
@@ -243,10 +243,10 @@ Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg,
 
 <table>
 <tr><th>Degrés scolaires, types d'écoles et filières de formation</th><th>Contribution cantonale par année scolaire / par semestre CHF[^A11-1]</th></tr>
-<tr><td>Ecole enfantine (y c. Basisstufe)</td><td>10'100 / 5'050</td></tr>
+<tr><td>Ecole enfantine (y c. Basisstufe)</td><td>11'400 / 5'700</td></tr>
 </table>
 
-[^A11-1]: Montants arrondis à 100 francs
+[^A11-1]: Montants par année scolaire arrondis à 100 francs
 
 #### Art. A1-2
 
@@ -256,28 +256,28 @@ Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg,
 
 <table>
 <tr><th>Degrés scolaires, types d'écoles et filières de formation</th><th>Contribution cantonale par année scolaire / par semestre CHF[^A12-1]</th></tr>
-<tr><td>Classes régulières</td><td>13'600 / 6'800</td></tr>
-<tr><td>Classes spéciales (+ supplément de 50% par rapport au tarif de base)[^A12-2]</td><td>20'400 / 10'200</td></tr>
-<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A12-3]</td><td>15'000 / 7'500</td></tr>
+<tr><td>Classes régulières</td><td>14'600 / 7'300</td></tr>
+<tr><td>Classes spéciales (+ supplément de 50% par rapport au tarif de base)[^A12-2]</td><td>21'900 / 10'950</td></tr>
+<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A12-3]</td><td>16'000 / 8'000</td></tr>
 </table>
 
 <sup>2</sup> 7.2.2 Degré secondaire I
 
 <table>
 <tr><th>Degrés scolaires, types d'écoles et filières de formation</th><th>Contribution cantonale par année scolaire / par semestre CHF[^A12-4]</th></tr>
-<tr><td>Classes régulières (classes générales, secondaires et secondaires spéciales)</td><td>18'000 / 9'000</td></tr>
-<tr><td>Classes spéciales (+ supplément de 50% par rapport au tarif de base)[^A12-5]</td><td>27'000 / 13'500</td></tr>
-<tr><td>Année scolaire en langue étrangère (enseignement de 11<sup>e</sup> année)</td><td>18'000 / 9'000</td></tr>
-<tr><td>Formation de rattrapage (lien avec la profession)</td><td>18'000 / 9'000</td></tr>
-<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A12-6]</td><td>19'800 / 9'900</td></tr>
-<tr><td>Enseignement gymnasial à l'école obligatoire</td><td>18'000 / 9'000</td></tr>
+<tr><td>Classes régulières (classes générales, secondaires et secondaires spéciales)</td><td>18'100 / 9'050</td></tr>
+<tr><td>Classes spéciales (+ supplément de 50% par rapport au tarif de base)[^A12-5]</td><td>27'100 / 13'550</td></tr>
+<tr><td>Année scolaire en langue étrangère (enseignement de 11<sup>e</sup> année)</td><td>18'100 / 9'050</td></tr>
+<tr><td>Formation de rattrapage (lien avec la profession)</td><td>18'100 / 9'050</td></tr>
+<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A12-6]</td><td>19'900 / 9'950</td></tr>
+<tr><td>Enseignement gymnasial à l'école obligatoire</td><td>18'100 / 9'050</td></tr>
 </table>
 
-[^A12-1]: Montants arrondis à 100 francs
-[^A12-2]: Supplément de 50% pour les écoles proposant en plus un enseignement spécialisé (p. ex. classes à effectif réduits)
+[^A12-1]: Montants par année scolaire arrondis à 100 francs
+[^A12-2]: Supplément de 50% pour les écoles proposant en plus un enseignement spécialisé (p. ex. classes à effectif réduit)
 [^A12-3]: Le supplément de 10% correspond à 20% (= 1/5) du supplément prévu pour les classes spéciales
-[^A12-4]: Montants arrondis à 100 francs
-[^A12-5]: Supplément de 50% pour les écoles proposant en plus un enseignement spécialisé (p. ex. classes à effectif réduits)
+[^A12-4]: Montants par année scolaire arrondis à 100 francs
+[^A12-5]: Supplément de 50% pour les écoles proposant en plus un enseignement spécialisé (p. ex. classes à effectif réduit)
 [^A12-6]: Le supplément de 10% correspond à 20% (= 1/5) du supplément prévu pour les classes spéciales
 
 #### Art. A1-3
@@ -288,18 +288,18 @@ Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg,
 
 <table>
 <tr><th>Degrés scolaires, types d'écoles et filières de formation</th><th>Contribution cantonale par année scolaire / par semestre CHF[^A13-1]</th></tr>
-<tr><td>Cours préparatoires généraux, année scolaire de préparation professionnelle, formations d'intégration (IBK et IIK)</td><td>18'000 / 9'000</td></tr>
-<tr><td>Ecoles de maturité</td><td>20'400 / 10'200</td></tr>
-<tr><td>Ecoles de maturité pour adultes, temps plein (Tpl)</td><td>20'400 / 10'200</td></tr>
+<tr><td>Cours préparatoires généraux, année scolaire de préparation professionnelle, formations d'intégration (IBK et IIK)</td><td>18'100 / 9'050</td></tr>
+<tr><td>Ecoles de maturité</td><td>20'500 / 10'250</td></tr>
+<tr><td>Ecoles de maturité pour adultes, temps plein (Tpl)</td><td>20'500 / 10'250</td></tr>
 <tr><td>Ecoles de maturité pour adultes, temps partiel (Tpa) par leçon hebdomadaire sur une base annuelle / semestrielle[^A13-2]</td><td>700 / 350</td></tr>
 <tr><td>Ecoles de culture générale et de maturité spécialisée (EMSp); formation jusqu'au certificat de culture générale</td><td>18'000 / 9'000</td></tr>
 <tr><td>Ecoles de culture générale et de maturité spécialisée (EMSp); formation pour le certificat de maturité spécialisée, par leçon hebdomadaire sur une base annuelle / semestrielle[^A13-3]</td><td>600 / 300</td></tr>
 <tr><td>Cours préparatoires aux filières des hautes écoles, par leçon hebdomadaire sur une base annuelle / semestrielle[^A13-4]</td><td>700 / 350</td></tr>
-<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A13-5], écoles de maturité</td><td>22'400 / 11'200</td></tr>
+<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A13-5], écoles de maturité</td><td>22'500 / 11'250</td></tr>
 <tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A13-6], écoles de culture générale et de maturité spécialisée (EMSp)</td><td>19'800 / 9'900</td></tr>
 </table>
 
-[^A13-1]: Montants arrondis à 100 francs
+[^A13-1]: Montants par année scolaire arrondis à 100 francs
 [^A13-2]: Par leçon hebdomadaire sur une base annuelle ou semestrielle ; base : 28 leçons par semaine
 [^A13-3]: Par leçon hebdomadaire sur une base annuelle ou semestrielle ; base : 28 leçons par semaine
 [^A13-4]: Par leçon hebdomadaire sur une base annuelle ou semestrielle ; base : 28 leçons par semaine
@@ -321,7 +321,7 @@ Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg,
 
 [^A14-1]: Contribution RSA selon la position tarifaire 7.3 (cours préparatoires aux filières des hautes écoles)
 
-## A2 Annexe 2
+## A2 Annexe 2: Liste des écoles et des filières de formation ayant droit à des contributions (art. 6 CSR 2009)
 
 #### Art. A2-1
 
@@ -464,6 +464,24 @@ Kasernenstrasse 27
 Elle est également disponible sur Internet à l’adresse suivante:
 
 [https://www.nwedk.ch/node/261](https://www.nwedk.ch/node/261)
+
+#### Art. A2-9
+
+<sup>1</sup> La modification du 30 mars 2023 de l’annexe II à la CSR 2009 est publiée uniquement sous la forme d’un renvoi.
+
+Elle peut être obtenue à l’adresse suivante:
+
+Direction de l’instruction publique et de la culture du canton de Berne
+
+Office des écoles moyennes et de la formation professionnelle
+
+Kasernenstrasse 27
+
+3000 Berne 22
+
+Elle est également disponible sur Internet à l’adresse suivante:
+
+[https://www.nwedk.ch/node/264](https://www.nwedk.ch/node/264)
 
 Aarau, le 23 novembre 2007
 
