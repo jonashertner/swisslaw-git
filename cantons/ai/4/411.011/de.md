@@ -4,13 +4,13 @@ number: "411.011"
 title: Standeskommissionsbeschluss zum Schulgesetz
 short: StKB SchG
 language: de
-version: 2022-08-01
-corrected: 2023-02-27
-version_adopted: 2022-06-28
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-06-20
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/2213/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2213/pdf_file"
 
 (StKB SchG)
 
-vom 16.08.2005 (Stand 01.08.2022)
+vom 16.08.2005 (Stand 01.08.2023)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -48,6 +48,8 @@ beschliesst:
 <sup>2</sup> Für die Turn- und Sportlehrpersonen mit Fachdiplom ETH, Universität oder Fachhochschule gilt die Besoldung der Sekundarstufe l.
 
 <sup>3</sup> Fachlehrpersonen, welche die nötige Qualifikation zum Unterrichten auf der entsprechenden Stufe vorweisen, erhalten das Gehalt der Stufe, in welcher sie unterrichten. Das Volksschulamt stellt die Qualifikation anhand der Ausbildungsabschlüsse und den bisherigen beruflichen Tätigkeiten fest.
+
+<sup>3a</sup> Das Volksschulamt kann Personen, die an einer pädagogischen Hochschule immatrikuliert sind, schon vor Erlangen des Lehrdiploms eine befristete Lehrbewilligung erteilen. Sie erhalten maximal 90% des Lohns für die jeweilige Besoldungskategorie; die Schulgemeinde legt den Prozentsatz in Rücksprache mit dem Volksschulamt fest.
 
 <sup>4</sup> Die Hausaufgabenhilfen sowie die Lehrpersonen für den Unterricht in Deutsch als Zweitsprache werden nach den Ansätzen gemäss der Besoldungstabelle entschädigt. Die Schulgemeinden können weitere Punkte im Arbeitsvertrag regeln.
 
