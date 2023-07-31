@@ -4,7 +4,7 @@ number: "312.01"
 title: "LOI du 19.05.2009 d'introduction du Code de procédure pénale suisse (LVCPP)"
 short: LVCPP
 language: fr
-version: 2023-01-01
+version: 2023-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.01?id=2d30c3c5-8940-44d6-b00e-f0b57ff7f499"
 ---
 
@@ -92,19 +92,19 @@ décrète
 
 <sup>1</sup> La police judiciaire est organisée par une loi spéciale [^5-1] . Ses attributions sont fixées par cette loi, par le Code de procédure pénale suisse [^5-2] et par les instructions générales que le département en charge de la sécurité [^5-3] lui donne après avoir consulté le procureur général.
 
-<sup>2</sup> Sont compétents pour ordonner une surveillance en dehors d'une procédure pénale (recherche de nécessité), au sens de l'article 3 de la loi fédérale du 6 octobre 2000 sur la surveillance de la correspondance par poste et télécommunication (LSCPT) [^5-4] :
+<sup>2</sup> Sont compétents pour ordonner une recherche en cas d'urgence ou une recherche de personnes condamnées, au sens des articles 35 et 36 de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT) :
 
 - a. le commandant de la police cantonale ou son remplaçant ;
 - b. le commandant de la gendarmerie ou son remplaçant ;
 - c. le chef de la police de sûreté, son remplaçant ou les commissaires ;
 - d. le commandant de la police municipale de Lausanne, son remplaçant ou le chef de la section de police judiciaire municipale ;
 - e. les autres officiers de police lorsqu'ils fonctionnent comme officier de service de la police cantonale ou de la police municipale de Lausanne.
+- f. le chef du Service pénitentiaire ou le chef de l'Office d'exécution des peines, ou les suppléants, pour la recherche de personnes condamnées (art. 36 LSCPT).
 
 [^chapterChapitreIII-1]: Modif. 3 du 11.09.2012: Introduction Al. 2; entrée en vigueur au 01.01.2013 · Modif. 7 du 02.05.2023: Modification Al. 2; entrée en vigueur au 01.08.2023; Introduction Al. 2, f; entrée en vigueur au 01.08.2023
 [^5-1]: Loi du 03.12.1940 sur la police judiciaire ([BLV 133.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/133.15?id=0f814f77-2471-4369-b187-7cdc34f2a590))
 [^5-2]: Pas encore en vigueur
 [^5-3]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^5-4]: Loi fédérale du 06.10.2000 sur la surveillance de la correspondance par poste et télécommunication (RS 780.1)
 
 #### Art. 6
 
@@ -177,11 +177,10 @@ décrète
 
 <sup>4</sup> Le Tribunal des mesures de contrainte et son activité sont organisés par un règlement adopté par le Tribunal cantonal. Le Tribunal des mesures de contrainte peut être associé à l'élaboration de ce règlement. Il est consulté avant l'adoption ou la modification de celui-ci.
 
-<sup>5</sup> Le Tribunal des mesures de contrainte est compétent pour autoriser une surveillance en dehors d'une procédure pénale (recherche de nécessité), au sens de l'article 3 de la loi fédérale du 6 octobre 2000 sur la surveillance de la correspondance par poste et télécommunication (LSCPT) [^12-2] .
+<sup>5</sup> Le Tribunal des mesures de contrainte est compétent pour autoriser une surveillance en dehors d'une procédure pénale (recherche en cas d'urgence et recherche de personnes condamnées), au sens des articles 35 à 37 de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondances par poste et télécommunication (LSCPT).
 
-[^sectionSectionII-1]: Modif. 3 du 11.09.2012: Introduction Al. 5; entrée en vigueur au 01.01.2013 · Modif. 7 du 02.05.2023: Introduction Art. 5, Al. 2, f; entrée en vigueur au 01.08.2023; Modification Al. 5; entrée en vigueur au 01.08.2023
+[^sectionSectionII-1]: Modif. 3 du 11.09.2012: Introduction Al. 5; entrée en vigueur au 01.01.2013 · Modif. 7 du 02.05.2023: Modification Al. 5; entrée en vigueur au 01.08.2023
 [^12-1]: Pas encore en vigueur
-[^12-2]: Loi fédérale du 06.10.2000 sur la surveillance de la correspondance par poste et télécommunication (RS 780.1)
 
 ## Chapitre V Autorités judiciaires de seconde instance
 
@@ -195,10 +194,9 @@ décrète
 
 <sup>2</sup> Un juge de la Chambre des recours pénale est compétent pour statuer sur les recours en tant que juge unique dans les cas prévus à l'article 395 CPP.
 
-<sup>3</sup> La Chambre des recours pénale du Tribunal cantonal est compétente pour statuer sur les recours en matière de surveillance en dehors d'une procédure pénale (recherche de nécessité), au sens de l'article 3 de la loi fédérale du 6 octobre 2000 sur la surveillance de la correspondance par poste et télécommunication (LSCPT) [^13-1] .
+<sup>3</sup> La Chambre des recours pénale du Tribunal cantonal est compétente pour statuer sur les recours en matière de surveillance en dehors d'une procédure pénale (recherche en cas d'urgence et recherche de personnes condamnées), au sens des articles 35 à 37 de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunicatoin (LSCPT).
 
-[^chapterChapitreV-1]: Modif. 3 du 11.09.2012: Introduction Al. 3; entrée en vigueur au 01.01.2013 · Modif. 7 du 02.05.2023: Introduction Art. 5, Al. 2, f; entrée en vigueur au 01.08.2023; Modification Al. 3; entrée en vigueur au 01.08.2023
-[^13-1]: Loi fédérale du 06.10.2000 sur la surveillance de la correspondance par poste et télécommunication (RS 780.1)
+[^chapterChapitreV-1]: Modif. 3 du 11.09.2012: Introduction Al. 3; entrée en vigueur au 01.01.2013 · Modif. 7 du 02.05.2023: Modification Al. 3; entrée en vigueur au 01.08.2023
 
 #### Art. 14
 
