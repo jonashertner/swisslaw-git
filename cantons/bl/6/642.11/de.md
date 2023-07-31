@@ -3,20 +3,20 @@ canton: BL
 number: "642.11"
 title: Verordnung für die Sekundarschule
 language: de
-version: 2022-08-01
-valid_until: 2023-07-31
-version_adopted: 2021-12-07
+version: 2023-08-01
+valid_until: 2024-07-31
+version_adopted: 2023-01-17
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/642.11"
-pdf: "https://bl.clex.ch/api/de/versions/3160/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Sekundarschule
 
-Vom 13.05.2003 (Stand 01.08.2022)
+Vom 13.05.2003 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -669,7 +669,7 @@ beschliesst:
 - p. die Kontrolle der Einhaltung von den kantonalen Regelungen;
 - q. den Erlass von Reglementen für die Schulen nach Rücksprache mit dem Schulträger;
 - r. …
-- s. die Festlegung der Leitungszeit der Schulleitungen und deren Überprüfung.
+- s. die Festlegung der Leitungszeit der Schulleitungen und der Arbeitszeit der Schulsekretariate und deren Überprüfung.
 
 <sup>3</sup> Über Ausnahmen in Bezug auf Regelungen in dieser Verordnung entscheidet das Amt für Volksschulen auf Antrag der Schulleitung, bzw. des Schulrats.
 
