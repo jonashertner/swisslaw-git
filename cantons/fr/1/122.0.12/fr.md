@@ -4,13 +4,13 @@ number: "122.0.12"
 title: "Ordonnance fixant les attributions des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 short: OADir
 language: fr
-version: 2023-01-01
-valid_until: 2023-07-31
-version_adopted: 2022-12-20
+version: 2023-08-01
+valid_until: 2024-02-29
+version_adopted: 2023-07-06
 adopted: 2002-03-12
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7689/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7820/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Attributions des Directions et de la Chancellerie – O
 
 (OADir)
 
-du 12.03.2002 (version entrée en vigueur le 01.01.2023)
+du 12.03.2002 (version entrée en vigueur le 01.08.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -88,10 +88,11 @@ Arrête:
 - l) l'application et l'exécution des sanctions pénales;
 - l<sup>bis</sup>) la probation;
 - m) le barreau et le notariat;
-- n) la surveillance des institutions de prévoyance professionnelle et des fondations,
+- n) la surveillance des institutions de prévoyance professionnelle et des fondations;
 - o) l'intégration des migrants et des migrantes et la prévention du racisme;
-- p) la coopération au développement,
-- q) la promotion, le développement et l'encouragement du sport et de l'activité physique ainsi que les mesures favorisant la pratique du sport de haut niveau,
+- p) la coopération au développement;
+- q) la promotion, le développement et l'encouragement du sport et de l'activité physique ainsi que les mesures favorisant la pratique du sport de haut niveau;
+- r) la sécurité de l'information;
 
 #### Art. 4
 
