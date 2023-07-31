@@ -4,13 +4,13 @@ number: "935.901"
 title: "Ordonnance sur l’exercice de la prostitution *"
 short: OEP
 language: fr
-version: 2021-04-01
-valid_until: 2023-07-31
-version_adopted: 2021-02-24
+version: 2023-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-21
 adopted: 2012-12-05
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.901"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2242/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2851/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,21 +19,32 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2242/pdf_file"
 
 (OEP)
 
-du 05.12.2012 (état au 01.04.2021)
+du 05.12.2012 (état au 01.08.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 19 et 25 de la loi du 7 juin 2012 sur l’exercice de la prostitution (LEP)[^ingress-1],
+vu les articles 6, alinéa 2, 19 et 25 de la loi du 7 juin 2012 sur l’exercice de la prostitution (LEP)[^ingress-1],
 
 sur proposition de la Direction de la police et des affaires militaires,
 
 arrête:
 
-[^ingress-1]: RSB 935.90
+[^ingress-1]: RSB [935.90](https://www.belex.sites.be.ch/data/935.90/fr)
 
-## 1 Procédure
+## 1 Dérogation au régime d’autorisation
 
 #### Art. 1
+
+<sup>1</sup> Pour les activités visées à l’article 5, alinéa 1 LEP, aucune autorisation n’est requise si un maximum de deux locaux affectés à l’exercice de la prostitution sont mis à la disposition de tiers et si la prostitution y est exercée par une personne supplémentaire au plus.
+
+<sup>2</sup> Toute personne susceptible de bénéficier de la dérogation prévue à l’alinéa 1
+
+- a est tenue de l’annoncer préalablement à l’autorité compétente pour l’autorisation en fournissant les indications visées à l’article 2, alinéa 1, lettre a et alinéa 2, lettres a et b,
+- b est tenue de respecter les obligations visées à l’article 11, alinéa 1, lettres a à g et k LEP.
+
+## 1a Procédure
+
+#### Art. 1a
 
 **Procédure de demande d’autorisation**
 
@@ -118,11 +129,11 @@ arrête:
 
 <sup>2</sup> Dans les locaux accueillant l’activité soumise à autorisation au sens de l’article 5, alinéa 1, lettre a LEP, la personne titulaire de l’autorisation affiche, de façon bien visible et en plusieurs langues,
 
-- a les offres d’informations ainsi que les adresses et numéros de téléphone des fournisseurs de prestations définis à l’article 58, alinéa 2 de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^6-1] qui proposent les services prévus à l’article 71, alinéa 1, lettre e LASoc;
+- a les offres d’informations ainsi que les adresses et numéros de téléphone des fournisseurs de prestations définis à l’article 75, alinéa 1 de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^6-1] qui proposent les services prévus à l’article 72, alinéa 1, lettre c LPASoc;
 - b les offres d’aide destinées aux victimes de la traite d’êtres humains, ainsi que les adresses et numéros de téléphone des fournisseurs de prestations correspondants;
 - c les numéros de téléphone de la Police cantonale et de l’autorité qui octroie l’autorisation.
 
-[^6-1]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
+[^6-1]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
 
 #### Art. 7
 
@@ -150,13 +161,13 @@ arrête:
 - e la Direction de la santé, des affaires sociales et de l’intégration,
 - f l’autorité du marché du travail de la Direction de l’économie, de l’énergie et de l’environnement,
 - g les communes concernées par l’activité de prostitution,
-- h les fournisseurs de prestations définis à l’article 58, alinéa 2 LASoc,
+- h les fournisseurs de prestations définis à l’article 75, alinéa 1 LPASoc,
 - i l’Intendance des impôts.
 
 <sup>3</sup> La ComEP
 
 - a s’informe régulièrement des derniers développements dans le domaine de la prostitution;
-- b encourage la coordination des activités des autorités compétentes et des fournisseurs de prestations définis à l’article 58, alinéa 2 LASoc;
+- b encourage la coordination des activités des autorités compétentes et des fournisseurs de prestations définis à l’article 75, alinéa 1 LPASoc;
 - c fait des propositions à la Direction de la sécurité en vue de modifications de la législation par le Conseil-exécutif;
 - d contrôle l’efficacité des mesures prises dans le domaine de l’exercice de la prostitution et, en cas de besoin ou sur demande, en fait rapport à la Direction de la sécurité.
 
@@ -186,6 +197,14 @@ arrête:
 
 [^9-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
+## 4a Dispositions pénales
+
+#### Art. 9a
+
+<sup>1</sup> Est punie d’une amende de 2000 francs au plus toute personne qui se soustrait aux obligations fixées à l’article 1, alinéa 2.
+
+<sup>2</sup> Les jugements pénaux prononcés en vertu de la présente ordonnance sont communiqués à l’autorité compétente pour l’autorisation.
+
 ## 5 Dispositions finales
 
 #### Art. 10
@@ -209,6 +228,12 @@ arrête:
 #### Art. T1-1
 
 <sup>1</sup> Les membres de la ComEP nommés par le Conseil-exécutif restent en fonction au moment de l’entrée en vigueur de la présente modification, dans la mesure où les autorités et services visés à l’article 8, alinéa 2 ne soumettent pas d'autre proposition à la Direction de la police et des affaires militaires.
+
+## T2 Disposition transitoire de la modification du 21.06.2023
+
+#### Art. T2-1
+
+<sup>1</sup> Toute personne exerçant une activité selon l’article 1, alinéa 1 et titulaire d’une autorisation selon l’article 7 LEP au moment de l’entrée en vigueur de la présente modification est tenue de procéder à l’annonce visée à l’article 1, alinéa 2, lettre a avant l’échéance de l’autorisation.
 
 Berne, le 5 décembre 2012
 

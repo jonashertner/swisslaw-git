@@ -4,13 +4,13 @@ number: "935.901"
 title: Prostitutionsgewerbeverordnung
 short: PGV
 language: de
-version: 2021-04-01
-valid_until: 2023-07-31
-version_adopted: 2021-02-24
+version: 2023-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-21
 adopted: 2012-12-05
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.901"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2242/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2851/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,25 +19,36 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2242/pdf_file"
 
 (PGV)
 
-vom 05.12.2012 (Stand 01.04.2021)
+vom 05.12.2012 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 19 und 25 des Gesetzes vom 7. Juni 2012 über das Prostitutionsgewerbe (PGG)[^ingress-1],
+gestützt auf Artikel 6 Absatz 2 sowie Artikel 19 und 25 des Gesetzes vom 7. Juni 2012 über das Prostitutionsgewerbe (PGG)[^ingress-1],
 
 auf Antrag der Polizei- und Militärdirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 935.90
+[^ingress-1]: BSG [935.90](https://www.belex.sites.be.ch/data/935.90/de)
 
-## 1 Verfahren
+## 1 Ausnahme von der Bewilligungspflicht
 
 #### Art. 1
 
+<sup>1</sup> Keine Bewilligung für eine Tätigkeit gemäss Artikel 5 Absatz 1 PGG benötigt, wer nicht mehr als zwei für die Ausübung der Prostitution bestimmte Räumlichkeiten zur Verfügung stellt und die Prostitution dabei höchstens durch eine weitere Person ausgeübt wird.
+
+<sup>2</sup> Wer unter die Ausnahme gemäss Absatz 1 fällt,
+
+- a hat dies der Bewilligungsbehörde unter Bekanntgabe der Angaben gemäss Artikel 2 Absatz 1 Buchstabe a sowie Absatz 2 Buchstabe a und b vorgängig zu melden,
+- b hat die Pflichten gemäss Artikel 11 Absatz 1 Buchstabe a bis g und k PGG einzuhalten.
+
+## 1a Verfahren
+
+#### Art. 1a
+
 **Verfahren um Erteilung einer Bewilligung**
 
-<sup>1</sup> Personen, die eine Tätigkeit nach Artikel 5 Absatz 1 PGG ausüben wollen, haben mindestens 60 Tage vor der geplanten Betriebseröffnung um eine Bewilligung zu ersuchen. Sie haben ein von der Bewilligungsbehörde zur Verfügung gestelltes Formular zu verwenden.
+<sup>1</sup> Personen, die eine Tätigkeit gemäss Artikel 5 Absatz 1 PGG ausüben wollen, haben mindestens 60 Tage vor der geplanten Betriebseröffnung um eine Bewilligung zu ersuchen, wobei das von der Bewilligungsbehörde zur Verfügung gestellte Formular zu verwenden ist.
 
 <sup>2</sup> Das Bewilligungsgesuch ist schriftlich bei der zuständigen Stelle der Standortgemeinde einzureichen; diese prüft und leitet es mit ihrer Stellungnahme an die Bewilligungsbehörde weiter.
 
@@ -45,7 +56,7 @@ beschliesst:
 
 **Einzureichende Angaben und Unterlagen**
 
-<sup>1</sup> Das Bewilligungsgesuch hat zur Gesuchstellerin oder zum Gesuchsteller bzw. zur verantwortlichen Person nach Artikel 7 Absatz 3 PGG folgende Angaben und Unterlagen zu enthalten:
+<sup>1</sup> Das Bewilligungsgesuch hat zur Gesuchstellerin oder zum Gesuchsteller bzw. zur verantwortlichen Person gemäss Artikel 7 Absatz 3 PGG folgende Angaben und Unterlagen zu enthalten:
 
 - a Vor- und Nachname, Geschlecht, Geburtsdatum, Heimatort bzw. Staatsangehörigkeit sowie Wohnadresse,
 - b gut leserliche Farbkopie eines amtlichen Identitätsausweises,
@@ -54,7 +65,7 @@ beschliesst:
 - e Strafregisterauszug,
 - f Betreibungsregisterauszug über die letzten fünf Jahre.
 
-<sup>2</sup> Es hat zu den Räumlichkeiten, in denen die bewilligungspflichtige Tätigkeit nach Artikel 5 Absatz 1 Buchstabe a PGG ausgeübt werden soll («Salon»), folgende Angaben und Unterlagen zu enthalten:
+<sup>2</sup> Es hat zu den Räumlichkeiten, in denen die bewilligungspflichtige Tätigkeit gemäss Artikel 5 Absatz 1 Buchstabe a PGG ausgeübt werden soll («Salon»), folgende Angaben und Unterlagen zu enthalten:
 
 - a Name und Adresse des Salons,
 - b falls vorhanden Telefonnummer sowie Adresse des Internetauftritts des Salons,
@@ -64,14 +75,14 @@ beschliesst:
 - f maximale Anzahl der Personen, die im Salon die Prostitution ausüben,
 - g Kopien von weiteren zum Betrieb erforderlichen Bewilligungen (wie Gastgewerbe- und Baubewilligung usw.) oder, falls noch nicht vorhanden, Kopien der entsprechenden Gesuchsanträge.
 
-<sup>3</sup> Bei Gesuchen für Kontaktvermittlungen nach Artikel 5 Absatz 1 Buchstabe b PGG («Escort-Service») sind folgende Angaben und Unterlagen einzureichen:
+<sup>3</sup> Bei Gesuchen für Kontaktvermittlungen gemäss Artikel 5 Absatz 1 Buchstabe b PGG («Escort-Service») sind folgende Angaben und Unterlagen einzureichen:
 
 - a Name und Adresse des Escort-Services,
 - b falls vorhanden Telefonnummer sowie Adresse des Internetauftritts des Escort-Services.
 
 <sup>4</sup> Juristische Personen haben zusätzlich einen Auszug aus dem Handelsregister und dem Register des Betreibungs- und Konkursamts der Sitze der juristischen Person der letzten fünf Jahre einzureichen.
 
-<sup>5</sup> Bei ausländischen Staatsangehörigen, juristischen Personen mit heutigem oder früherem Sitz im Ausland oder wenn die Gesuchstellerin oder der Gesuchsteller bzw. die verantwortliche Person nach Artikel 7 Absatz 3 PGG zuvor im Ausland ihren Wohnsitz hatte, können gleichwertige ausländische Unterlagen verlangt werden.
+<sup>5</sup> Bei ausländischen Staatsangehörigen, juristischen Personen mit heutigem oder früherem Sitz im Ausland oder wenn die Gesuchstellerin oder der Gesuchsteller bzw. die verantwortliche Person gemäss Artikel 7 Absatz 3 PGG zuvor im Ausland ihren Wohnsitz hatte, können gleichwertige ausländische Unterlagen verlangt werden.
 
 <sup>6</sup> Die Unterlagen gemäss Absatz 1 Buchstabe d bis f und Absatz 4 und 5 dürfen nicht älter als drei Monate sein.
 
@@ -108,7 +119,7 @@ beschliesst:
 
 <sup>4</sup> Die Bewilligungsbehörde kann Vorgaben über die Form des Registers machen.
 
-<sup>5</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber hat das Register vor dem Zugriff unberechtigter Personen zu schützen. Bei Kontrollen nach Artikel 12 PGG ist das Register den Behörden unaufgefordert vorzulegen.
+<sup>5</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber hat das Register vor dem Zugriff unberechtigter Personen zu schützen. Bei Kontrollen gemäss Artikel 12 PGG ist das Register den Behörden unaufgefordert vorzulegen.
 
 #### Art. 6
 
@@ -116,13 +127,13 @@ beschliesst:
 
 <sup>1</sup> Änderungen in den persönlichen und betrieblichen Verhältnissen gemäss Artikel 8 PGG bzw. Artikel 2 Absatz 1 bis 3 sind der Bewilligungsbehörde umgehend nach ihrem Bekanntwerden mitzuteilen.
 
-<sup>2</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber hat in den Räumlichkeiten, in denen die bewilligungspflichtige Tätigkeit nach Artikel 5 Absatz 1 Buchstabe a PGG ausgeübt werden soll, gut sichtbar und mehrsprachig anzubringen:
+<sup>2</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber hat in den Räumlichkeiten, in denen die bewilligungspflichtige Tätigkeit gemäss Artikel 5 Absatz 1 Buchstabe a PGG ausgeübt werden soll, gut sichtbar und mehrsprachig anzubringen:
 
-- a Hinweise zu Informationsangeboten sowie Adressen und Telefonnummern der Leistungserbringer gemäss Artikel 58 Absatz 2 des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^6-1], die Aufgaben nach Artikel 71 Absatz 1 Buchstabe e SHG erfüllen,
+- a Hinweise zu Informationsangeboten sowie Adressen und Telefonnummern der Leistungserbringer gemäss Artikel 75 Absatz 1 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^6-1], die Aufgaben gemäss Artikel 72 Absatz 1 Buchstabe c SLG erfüllen,
 - b Hinweise zu Hilfsangeboten für Opfer von Menschenhandel sowie Adressen und Telefonnummern der entsprechenden Leistungserbringer,
 - c die Telefonnummer der Kantonspolizei und der Bewilligungsbehörde.
 
-[^6-1]: BSG [860.1](https://www.belex.sites.be.ch/data/860.1/de)
+[^6-1]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
 
 #### Art. 7
 
@@ -150,13 +161,13 @@ beschliesst:
 - e der Gesundheits-, Sozial- und Integrationsdirektion,
 - f der Arbeitsmarktbehörde der Wirtschafts-, Energie- und Umweltdirektion,
 - g der vom Prostitutionsgewerbe betroffenen Gemeinden,
-- h der Leistungserbringer gemäss Artikel 58 Absatz 2 SHG,
+- h der Leistungserbringer gemäss Artikel 75 Absatz 1 SLG,
 - i der Steuerverwaltung.
 
 <sup>3</sup> Die KOPG
 
 - a informiert sich regelmässig über die Entwicklungen im Prostitutionsgewerbe,
-- b fördert die Koordination der Tätigkeiten der zuständigen Behörden und der Leistungserbringer gemäss Artikel 58 Absatz 2 SHG,
+- b fördert die Koordination der Tätigkeiten der zuständigen Behörden und der Leistungserbringer gemäss Artikel 75 Absatz 1 SLG,
 - c macht der Sicherheitsdirektion zuhanden des Regierungsrats Vorschläge für Änderungen der Gesetzgebung,
 - d prüft die Wirksamkeit der im Bereich des Prostitutionsgewerbes getroffenen Massnahmen und erstattet der Sicherheitsdirektion bei Bedarf oder auf Verlangen Bericht.
 
@@ -176,7 +187,7 @@ beschliesst:
 - b Angaben gemäss Artikel 2 Absatz 2 Buchstabe a bis c bzw. Artikel 2 Absatz 3,
 - c verfügte Dauer, Auflagen und Bedingungen der Bewilligung,
 - d Angaben über bisherige Kontrollen (Datum, allfällig festgestellte Verfehlungen usw.),
-- e Angaben zu weiteren nach dem PGG bewilligungspflichtigen Tätigkeiten der Bewilligungsinhaberin oder des Bewilligungsinhabers.
+- e Angaben zu weiteren gemäss dem PGG bewilligungspflichtigen Tätigkeiten der Bewilligungsinhaberin oder des Bewilligungsinhabers.
 
 <sup>2</sup> Das Amt für Dienstleistungen und Ressourcen der Direktion für Inneres und Justiz sorgt im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^9-1] für den Datenschutz.
 
@@ -185,6 +196,14 @@ beschliesst:
 <sup>4</sup> Die Bewilligungsbehörde vernichtet die Daten einer Bewilligungsinhaberin oder eines Bewilligungsinhabers spätestens zehn Jahre nach Erlöschen der Bewilligung.
 
 [^9-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+
+## 4a Strafbestimmungen
+
+#### Art. 9a
+
+<sup>1</sup> Wer die Pflichten gemäss Artikel 1 Absatz 2 verletzt, wird mit Busse bis 2000 Franken bestraft.
+
+<sup>2</sup> Die gestützt auf die vorliegende Verordnung ausgefällten Strafurteile sind der Bewilligungsbehörde mitzuteilen.
 
 ## 5 Schlussbestimmungen
 
@@ -206,6 +225,12 @@ beschliesst:
 #### Art. T1-1
 
 <sup>1</sup> Die zum Zeitpunkt des Inkrafttretens dieser Änderung vom Regierungsrat gewählten Mitglieder der KOPG wirken weiterhin in der Kommission mit, soweit die zuständigen Behörden und Stellen gemäss Artikel 8 Absatz 2 der Polizei- und Militärdirektion nichts anderes beantragen.
+
+## T2 Übergangsbestimmung der Änderung vom 21.06.2023
+
+#### Art. T2-1
+
+<sup>1</sup> Wer zum Zeitpunkt des Inkrafttretens dieser Änderung eine Tätigkeit gemäss Artikel 1 Absatz 1 ausübt und über eine Bewilligung gemäss Artikel 7 PGG verfügt, hat die Meldung gemäss Artikel 1 Absatz 2 Buchstabe a vor Ablauf der Bewilligung vorzunehmen.
 
 Bern, 5. Dezember 2012
 
