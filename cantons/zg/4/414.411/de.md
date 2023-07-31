@@ -4,13 +4,13 @@ number: "414.411"
 title: Verordnung zum Gesetz über die Pädagogische Hochschule Zug
 short: PHV
 language: de
-version: 2017-01-01
-valid_until: 2023-07-31
-version_adopted: 2016-12-06
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-23
 adopted: 2013-07-09
 in_force: 2013-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.411"
-pdf: "https://bgs.zg.ch/api/de/versions/1584/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1584/pdf_file"
 
 (PHV)
 
-Vom 9. Juli 2013 (Stand 1. Januar 2017)
+Vom 9. Juli 2013 (Stand 1. August 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -47,9 +47,9 @@ beschliesst:
 
 <sup>1</sup> Der Leistungsbereich Ausbildung vermittelt die für den Lehrberuf notwendigen pädagogischen, fachlichen, didaktischen und fachdidaktischen Kompetenzen.
 
-<sup>2</sup> Die Pädagogische Hochschule Zug bietet einen Studiengang für Kindergarten / 1. bis 3. Primarklasse sowie für die 1. bis 6. Primarklasse an.
+<sup>2</sup> Die Pädagogische Hochschule Zug bietet einen Studiengang für Kindergarten / 1. bis 3. Primarklasse, für die 1. bis 6. Primarklasse sowie für die Schulische Heilpädagogik an.
 
-<sup>3</sup> Die Studiengänge weisen stufenspezifische Schwerpunkte auf und umfassen die Bildungsinhalte, welche für die Lehrtätigkeit am Kindergarten und in den Primarklassen erforderlich sind.
+<sup>3</sup> Die Studiengänge weisen stufenspezifische Schwerpunkte auf und umfassen die Bildungsinhalte, welche für die Lehrtätigkeit am Kindergarten und in den Primarklassen, respektive für das Berufsfeld Schulische Heilpädagogik erforderlich sind.
 
 <sup>4</sup> Die Pädagogische Hochschule Zug kann Studienprogramme zur Stufen- und Facherweiterung sowie Kurse für Quereinsteigende zur Vorbereitung auf die Aufnahmeprüfung anbieten.
 
