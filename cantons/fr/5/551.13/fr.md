@@ -3,13 +3,12 @@ canton: FR
 number: "551.13"
 title: "Ordonnance concernant l'avancement et la promotion des agents et agentes de la Police cantonale"
 language: fr
-version: 2022-02-01
-valid_until: 2023-07-31
-version_adopted: 2022-03-11
+version: 2023-08-01
+version_adopted: 2023-07-06
 adopted: 2017-05-02
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7495/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7806/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7495/pdf_file"
 
 Police cantonale, promotion des agents – O
 
-du 02.05.2017 (version entrée en vigueur le 01.02.2022)
+du 02.05.2017 (version entrée en vigueur le 01.08.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -77,15 +76,15 @@ Arrête:
 
 #### Art. 5
 
-**Convoyeur ou convoyeuse**
+**Assistant ou assistante en sécurité publique – Convoyeur ou convoyeuse**
 
-<sup>1</sup> Le convoyeur ou la convoyeuse II ayant exercé cette fonction pendant cinq ans au moins peut accéder à la fonction de convoyeur ou convoyeuse I.
+<sup>1</sup> L'assistant ou l'assistante en sécurité publique – convoyeur ou convoyeuse II ayant exercé cette fonction pendant cinq ans au moins peut accéder à la fonction d'assistant ou assistante en sécurité publique – convoyeur ou convoyeuse I.
 
 #### Art. 6
 
-**Hôte ou hôtesse**
+**Assistant ou assistante en sécurité publique**
 
-<sup>1</sup> L'hôte ou l'hôtesse II ayant exercé cette fonction pendant cinq ans au moins peut accéder à la fonction d'hôte ou hôtesse I.
+<sup>1</sup> L'assistant ou l'assistante en sécurité publique II ayant exercé cette fonction pendant cinq ans au moins peut accéder à la fonction d'assistant ou assistante en sécurité publique I.
 
 #### Art. 7
 
@@ -109,9 +108,9 @@ Arrête:
 
 #### Art. 10
 
-**Sous-chef-fe de la police de la circulation**
+**Sous-chef-fe de la sécurité routière**
 
-<sup>1</sup> Le ou la sous-chef-fe de la police de la circulation II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de sous-chef-fe de la police de la circulation I.
+<sup>1</sup> Le ou la sous-chef-fe de la sécurité routière II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de sous-chef-fe de la sécurité routière I.
 
 #### Art. 11
 
@@ -127,9 +126,9 @@ Arrête:
 
 #### Art. 13
 
-**Chef-fe de la police de la circulation**
+**Chef-fe de la sécurité routière**
 
-<sup>1</sup> Le ou la chef-fe de la circulation III ou II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de chef-fe de la police de la circulation I.
+<sup>1</sup> Le ou la chef-fe de la sécurité routière III ou II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de chef-fe de la sécurité routière I.
 
 #### Art. 14
 
@@ -155,11 +154,17 @@ Arrête:
 
 <sup>2</sup> Le sous-officier ou la sous-officière spécialisé-e II ayant exercé cette fonction pendant huit ans au moins peut accéder à la fonction de sous-officier ou sous-officière spécialisé-e I.
 
+#### Art. 16a
+
+**Sous-chef-fe de commissariat**
+
+<sup>1</sup> Le ou la sous-chef-fe de commissariat II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de sous-chef-fe de commissariat I.
+
 #### Art. 17
 
-**Chef-fe de secteur**
+**Chef-fe de commissariat**
 
-<sup>1</sup> Le ou la chef-fe de secteur III ou II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de chef-fe de secteur I.
+<sup>1</sup> Le ou la chef-fe de commissariat III ou II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de chef-fe de commissariat I.
 
 #### Art. 18
 
@@ -167,7 +172,7 @@ Arrête:
 
 <sup>1</sup> Le ou la chef-fe de corps III ou II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de chef-fe de corps I.
 
-### 2.4 Services généraux, ressources humaines et commandement
+### 2.4 Divisions (Commandement, Logistique & Informatique, RH et Formation)
 
 #### Art. 19
 
@@ -177,9 +182,15 @@ Arrête:
 
 #### Art. 20
 
-**Chef-fe des services généraux**
+**Chef-fe de division**
 
-<sup>1</sup> Le ou la chef-fe des services généraux III ou II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de chef-fe des services généraux I.
+<sup>1</sup> Le ou la chef-fe de division III ou II ayant exercé cette fonction pendant deux ans au moins peut accéder à la fonction de chef-fe de division I.
+
+#### Art. 20a
+
+**Assistant ou assistante en sécurité publique, policier ou policière, inspecteur ou inspectrice**
+
+<sup>1</sup> Les articles 6, 7 et 15 de la présente ordonnance, s'appliquent par analogie aux fonctions d'assistant ou assistante en sécurité publique, policier ou policière et inspecteur ou inspectrice.
 
 ## 3 Promotion
 
@@ -197,9 +208,9 @@ Arrête:
 
 **Compétence**
 
-<sup>1</sup> Les promotions aux fonctions rangées en classe 25 et plus (officiers et officières) de l'échelle des traitements du personnel de l'Etat sont décidées par le Conseil d'Etat.
+<sup>1</sup> Les promotions aux fonctions rangées en classe 25 et plus (officiers et officières) de l'échelle des traitements du personnel de l'Etat sont décidées par la Direction de la sécurité, de la justice et du sport.
 
-<sup>2</sup> Les promotions aux fonctions rangées en dessous de la classe 25 sont décidées par la Direction de la sécurité, de la justice et du sport, sur la proposition du commandant ou de la commandante de la Police cantonale.
+<sup>2</sup> Les promotions aux autres fonctions sont de la compétence de l'Etat-major de la Police cantonale.
 
 ## 4 Dispositions finales
 

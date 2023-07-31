@@ -3,13 +3,12 @@ canton: FR
 number: "551.13"
 title: Verordnung über das Vorrücken und die Beförderung der Beamtinnen und Beamten der Kantonspolizei
 language: de
-version: 2022-02-01
-valid_until: 2023-07-31
-version_adopted: 2022-03-11
+version: 2023-08-01
+version_adopted: 2023-07-06
 adopted: 2017-05-02
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/551.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7495/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7806/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7495/pdf_file"
 
 Kantonspolizei, Beförderung der Beamten – V
 
-vom 02.05.2017 (Fassung in Kraft getreten am 01.02.2022)
+vom 02.05.2017 (Fassung in Kraft getreten am 01.08.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -77,15 +76,15 @@ beschliesst:
 
 #### Art. 5
 
-**Gefangenenbegleiter/in**
+**Polizeiliche Sicherheitsassistentin-Gefangenenbegleiterin und polizeilicher Sicherheitsassistent-Gefangenenbegleiter**
 
-<sup>1</sup> Gefangenenbegleiterinnen und Gefangenenbegleiter II, die ihre Funktion während mindestens 5 Jahren bekleidet haben, können zur Gefangenenbegleiterin I bzw. zum Gefangenenbegleiter I vorrücken.
+<sup>1</sup> Polizeiliche Sicherheitsassistentinnen-Gefangenenbegleiterinnen und Sicherheitsassistenten-Gefangenenbegleiter II, die ihre Funktion während mindestens 5 Jahren bekleidet haben, können zur polizeilichen Sicherheitsassistentin-Gefangenenbegleiterin I bzw. zum polizeilichen Sicherheitsassistenten-Gefangenenbegleiter I vorrücken.
 
 #### Art. 6
 
-**Polizeihostess und Polizeihost**
+**Polizeiliche Sicherheitsassistentin und polizeilicher Sicherheitsassistent**
 
-<sup>1</sup> Polizeihostessen II und Polizeihosts II, die ihre Funktion während mindestens 8 Jahren bekleidet haben, können zur Polizeihostess I bzw. zum Polizeihost I vorrücken.
+<sup>1</sup> Polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten II, die ihre Funktion während mindestens 5 Jahren bekleidet haben, können zur polizeilichen Sicherheitsassistentin I bzw. zum polizeilichen Sicherheitsassistenten I vorrücken.
 
 #### Art. 7
 
@@ -109,9 +108,9 @@ beschliesst:
 
 #### Art. 10
 
-**Stellvertretende Chefin und stellvertretender Chef der Verkehrspolizei**
+**Stellvertretende Chefin Verkehrssicherheit und stellvertretender Chef Verkehrssicherheit**
 
-<sup>1</sup> Stellvertretende Chefinnen und Chefs der Verkehrspolizei II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur stellvertretenden Chefin bzw. zum stellvertretenden Chef der Verkehrspolizei I vorrücken.
+<sup>1</sup> Stellvertretende Chefinnen und Chefs Verkehrssicherheit II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur stellvertretenden Chefin Verkehrssicherheit I bzw. zum stellvertretenden Chef Verkehrssicherheit I vorrücken.
 
 #### Art. 11
 
@@ -127,9 +126,9 @@ beschliesst:
 
 #### Art. 13
 
-**Chef/in der Verkehrspolizei**
+**Chefin Verkehrssicherheit und Chef Verkehrssicherheit**
 
-<sup>1</sup> Chefinnen und Chefs der Verkehrspolizei III und II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur Chefin bzw. zum Chef der Verkehrspolizei I vorrücken.
+<sup>1</sup> Chefinnen und Chefs Verkehrssicherheit III oder II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur Chefin Verkehrssicherheit I bzw. zum Chef Verkehrssicherheit I vorrücken.
 
 #### Art. 14
 
@@ -155,11 +154,17 @@ beschliesst:
 
 <sup>2</sup> Spezialisierte Polizei-Unteroffizierinnen und -Unteroffiziere II, die ihre Funktion während mindestens 8 Jahren bekleidet haben, können zur spezialisierten Polizei-Unteroffizierin I bzw. zum spezialisierten Polizei-Unteroffizier I vorrücken.
 
+#### Art. 16a
+
+**Stellvertretende Kommissariatschefin und stellvertretender Kommissariatschef**
+
+<sup>1</sup> Stellvertretende Kommissariatschefinnen und Kommissariatschefs II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur stellvertretenden Kommissariatschefin I bzw. zum stellvertretenden Kommissariatschef I vorrücken.
+
 #### Art. 17
 
-**Sektorchef/in**
+**Kommissariatschefin und Kommissariatschef**
 
-<sup>1</sup> Sektorchefinnen und Sektorchefs III und II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur Sektorchefin I bzw. zum Sektorchef I vorrücken.
+<sup>1</sup> Kommissariatschefinnen und Kommissariatschefs III und II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur Kommissariatschefin I bzw. zum Kommissariatschef I vorrücken.
 
 #### Art. 18
 
@@ -167,7 +172,7 @@ beschliesst:
 
 <sup>1</sup> Korps-Chefinnen und -Chefs III und II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur Korps-Chefin I bzw. zum Korps-Chef I vorrücken.
 
-### 2.4 Stabsdienste, Personalwesen und Kommando
+### 2.4 Abteilungen (Kommando, Logistik & Informatik, HR und Ausbildung)
 
 #### Art. 19
 
@@ -177,9 +182,15 @@ beschliesst:
 
 #### Art. 20
 
-**Chef/in der Stabsdienste**
+**Abteilungsleiterin und Abteilungsleiter**
 
-<sup>1</sup> Chefinnen und Chefs der Stabsdienste III und II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur Chefin bzw. zum Chef der Stabsdienste I vorrücken.
+<sup>1</sup> Abteilungsleiterinnen und Abteilungsleiter III oder II, die ihre Funktion während mindestens 2 Jahren bekleidet haben, können zur Abteilungsleiterin I bzw. zum Abteilungsleiter I vorrücken.
+
+#### Art. 20a
+
+**Polizeiliche Sicherheitsassistentin und polizeilicher Sicherheitsassistent, Polizistin und Polizist, Inspektorin und Inspektor**
+
+<sup>1</sup> Die Artikel 6, 7 und 15 dieser Verordnung gelten sinngemäss für die Funktionen polizeiliche Sicherheitsassistentin und polizeilicher Sicherheitsassistent, Polizistin und Polizist sowie Inspektorin und Inspektor.
 
 ## 3 Beförderung
 
@@ -197,9 +208,9 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Beförderungen in Funktionen, die in der Klasse 25 und höher der Gehaltsskala des Staatspersonals eingereiht sind (Offizierinnen und Offiziere), werden vom Staatsrat beschlossen.
+<sup>1</sup> Beförderungen in Funktionen, die in der Klasse 25 und höher der Gehaltsskala des Staatspersonals eingereiht sind (Offizierinnen und Offiziere), werden von der Sicherheits-, Justiz- und Sportdirektion beschlossen.
 
-<sup>2</sup> Die Beförderungen in Funktionen, die in tieferen Klassen als 25 eingereiht sind, werden von der Sicherheits-, Justiz- und Sportdirektion auf Antrag der Kommandantin oder des Kommandanten der Kantonspolizei beschlossen.
+<sup>2</sup> Für Beförderungen in andere Funktionen ist der Stab der Kantonspolizei zuständig.
 
 ## 4 Schlussbestimmungen
 
