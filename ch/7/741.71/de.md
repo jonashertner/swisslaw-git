@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. März 2010 über die Abgabe für die Benützung von
 short: NSAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/577"
 language: de
-version: 2022-01-01
+version: 2023-08-01
 adopted: 2010-03-19
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/577/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-577-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/577/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2011-577-20230801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20220101/de"
 
 (Nationalstrassenabgabegesetz, NSAG)
 
-vom 19. März 2010 (Stand am 1. Januar 2022)
+vom 19. März 2010 (Stand am 1. August 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -40,9 +40,9 @@ Dieses Gesetz regelt die Erhebung der Abgabe für die Benützung von Nationalstr
 
 **Geltungsbereich**[^2-1]
 
-Die Abgabe wird für die Benützung von Nationalstrassen erster und zweiter Klasse (abgabepflichtige Nationalstrassen) gemäss Bundesbeschlusses vom 10. Dezember 2012[^2-2] über das Nationalstrassennetz erhoben.
+Die Abgabe wird für die Benützung von Nationalstrassen erster und zweiter Klasse (Nationalstrassen I und II) nach dem Netzbeschluss vom 10. Dezember 2012[^2-2] erhoben.
 
-[^2-1]: Fassung gemäss Anhang Ziff. II 6 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2020 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^2-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 [^2-2]: [BBl 2017 7807](https://fedlex.data.admin.ch/eli/fga/2017/2274)
 
 ## 2. Abschnitt: Abgabepflicht
@@ -51,11 +51,12 @@ Die Abgabe wird für die Benützung von Nationalstrassen erster und zweiter Klas
 
 **Abgabeobjekt**
 
-<sup>1</sup> Die Abgabe muss entrichtet werden für Motorfahrzeuge und Anhänger, die im In‑ oder Ausland immatrikuliert sind und mit denen abgabepflichtige Nationalstrassen benützt werden.
+<sup>1</sup> Die Abgabe muss entrichtet werden für Motorfahrzeuge und Anhänger, die im In- oder Ausland immatrikuliert sind und mit denen Nationalstrassen I und II benützt werden.[^3-1]
 
-<sup>2</sup> Sie ist nicht zu entrichten für Fahrzeuge, die der Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^3-1] unterliegen.
+<sup>2</sup> Sie ist nicht zu entrichten für Fahrzeuge, die der Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^3-2] unterliegen.
 
-[^3-1]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^3-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^3-2]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 #### Art. 4
 
@@ -88,7 +89,11 @@ Von der Abgabe ausgenommen sind:
 
 Abgabepflichtig sind die Fahrzeugführerin oder der Fahrzeugführer und subsidiär die Halterin oder der Halter.
 
-## 3. Abschnitt: Erhebung der Abgabe
+## 3. Abschnitt: Erhebung und Entrichtung der Abgabe
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
 #### Art. 6
 
@@ -96,13 +101,24 @@ Abgabepflichtig sind die Fahrzeugführerin oder der Fahrzeugführer und subsidi�
 
 Die Abgabe beträgt 40 Franken.
 
+#### Art. 6a
+
+**Form der Entrichtung**[^6a-1]
+
+Die Abgabe ist zu entrichten:
+
+- a. mit dem Kauf einer Klebevignette; oder
+- b. mit der Registrierung des Kontrollschildes im Informationssystem des Bundesamts für Zoll und Grenzsicherheit (BAZG) (E-Vignette).
+
+[^6a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+
 #### Art. 7
 
-**Vignette**
+**Klebevignette[^7-1]**
 
-<sup>1</sup> Die Abgabe ist durch den Kauf einer Vignette zu entrichten.
+<sup>1</sup> …[^7-2]
 
-<sup>2</sup> Bevor eine abgabepflichtige Nationalstrasse benützt wird, ist die Vignette direkt am Fahrzeug aufzukleben.
+<sup>2</sup> Die Klebevignette ist direkt am Fahrzeug aufzukleben, bevor erstmals in einer Abgabeperiode eine Nationalstrasse I oder II benützt wird.[^7-3]
 
 <sup>3</sup> Sie darf nur zusammen mit dem Fahrzeug übertragen werden.
 
@@ -113,46 +129,96 @@ Sie gilt als entwertet, wenn sie:
 - a. nach korrekter Befestigung vom Fahrzeug entfernt wird; oder
 - b. vom Trägerpapier entfernt und nicht direkt am Fahrzeug aufgeklebt wird.
 
+<sup>5</sup> Der Bundesrat regelt das Anbringen der Klebevignette.[^7-4]
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^7-2]: Aufgehoben durch Ziff. I des BG vom 18. Dez. 2020, mit Wirkung seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^7-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^7-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+
+#### Art. 7a
+
+**E-Vignette**[^7a-1]
+
+<sup>1</sup> Das Kontrollschild ist zu registrieren, bevor erstmals in einer Abgabeperiode eine Nationalstrasse I oder II benützt wird.
+
+<sup>2</sup> Die Abgabe gilt als für jedes Fahrzeug entrichtet, das mit dem registrierten Kontrollschild rechtmässig verkehren darf.
+
+[^7a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+
+#### Art. 7b
+
+**Abfrage der Berechtigung zur Benützung der Nationalstrassen I und II**[^7b-1]
+
+Die Person, die das Kontrollschild registriert, kann sich bei der Registrierung damit einverstanden erklären, dass im Informationssystem öffentlich abrufbar ist, dass die Abgabe entrichtet worden ist.
+
+[^7b-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+
 #### Art. 8
 
 **Abgabeperiode**
 
 <sup>1</sup> Die Abgabe wird für ein Kalenderjahr erhoben. Sie wird nicht zurückerstattet.
 
-<sup>2</sup> Die Vignette berechtigt zur Benützung von abgabepflichtigen Nationalstrassen vom 1. Dezember des Vorjahres bis zum 31. Januar des Folgejahres.
+<sup>2</sup> Die Klebevignette und die E-Vignette berechtigen zur Benützung der Nationalstrassen I und II vom 1. Dezember des Vorjahres bis zum 31. Januar des Folgejahres.[^8-1]
+
+[^8-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
 #### Art. 9
 
-**Zuständigkeit für die Abgabeerhebung**
+**Herausgabe der Klebevignette**[^9-1]
 
-<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) gibt die Vignette heraus. Es erhebt die Abgabe an der Grenze und im Ausland.[^9-1]
+Das BAZG gibt die Klebevignette heraus.
 
-<sup>2</sup> Die Kantone erheben die Abgabe im Landesinnern.
+[^9-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
-[^9-1]: Fassung gemäss Ziff. I 27 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+#### Art. 9a
+
+**Erhebung der Abgabe**[^9a-1]
+
+<sup>1</sup>
+
+Für die Erhebung der Abgabe mittels Klebevignette sind zuständig:
+
+- a. das BAZG an der Grenze;
+- b. die Kantone im Landesinnern.
+
+<sup>2</sup> Für die Erhebung der Abgabe mittels E-Vignette ist das BAZG zuständig.
+
+[^9a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
 ## 4. Abschnitt: Verwendung des Abgabeertrags
 
 #### Art. 10
 
-<sup>1</sup> Der Reinertrag der Abgabe wird nach den Bestimmungen des Bundesgesetzes vom 22. März 1985[^10-1] über die Verwendung der zweckgebundenen Mineralölsteuer verwendet.
+<sup>1</sup> Der Reinertrag der Abgabe wird nach den Bestimmungen des Bundesgesetzes vom 22. März 1985[^10-1] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel verwendet.[^10-2]
 
 <sup>2</sup> Als Reinertrag gilt der Ertrag nach Abzug der Aufwandsentschädigungen gemäss Artikel 19.
 
 [^10-1]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^10-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
 ## 5. Abschnitt: Kontrollen und Sicherheitsleistung
 
 #### Art. 11
 
-**Kontrollen**
+**Kontrollen**[^11-1]
 
-Zur Durchsetzung der Abgabe führen Kontrollen durch:
+<sup>1</sup>
 
-- a. das BAZG[^11-1] an der Grenze;
+Zur Überprüfung der Abgabeentrichtung führen Kontrollen durch:
+
+- a. das BAZG an der Grenze und im Grenzraum nach Artikel 3 Absatz 5 des Zollgesetzes vom 18. März 2005[^11-2];
 - b. die Kantone im Landesinnern.
 
-[^11-1]: Ausdruck gemäss Ziff. I 27 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+<sup>2</sup> Soweit es für die Überprüfung der Abgabeentrichtung notwendig ist, registriert das BAZG die Kontrollschilder von Fahrzeugen, für die nach Artikel 4 keine Abgabe entrichtet werden muss.
+
+<sup>3</sup> Das BAZG und die Kantone können Anlagen und mobile Geräte für automatisierte und stichprobenartige Kontrollen einsetzen.
+
+<sup>4</sup> Der Bundesrat regelt die Anforderungen an die Anlagen für automatisierte Kontrollen.
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^11-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 12
 
@@ -162,13 +228,125 @@ Bestreitet eine Person, die nicht in der Schweiz Wohnsitz hat, bei einer Kontrol
 
 [^12-1]: Fassung gemäss Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
-## 6. Abschnitt: Rechtsschutz
+## 5*a*. Abschnitt: Datenschutz und Amtshilfe
+
+[^sec5a-1]
+
+[^sec5a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+
+#### Art. 12a
+
+**Betrieb eines Informationssystems**
+
+Das BAZG betreibt für die Erfüllung der folgenden Aufgaben im Zusammenhang mit der E-Vignette ein Informationssystem:
+
+- a. Erhebung der Abgabe;
+- b. Überprüfung der Abgabeentrichtung;
+- c. Verfolgung und Beurteilung von Widerhandlungen.
+
+#### Art. 12b
+
+**Inhalt des Informationssystems**
+
+<sup>1</sup> Das BAZG darf Personendaten bearbeiten, sofern dies für den Vollzug dieses Gesetzes notwendig ist.
+
+<sup>2</sup>
+
+Für die Verfolgung und die Beurteilung von Widerhandlungen darf es die folgenden besonders schützenswerten Personendaten bearbeiten:
+
+- a. Angaben über durchgeführte Kontrollen;
+- b. Angaben im Zusammenhang mit Übertretungen nach Artikel 14.
+
+<sup>3</sup>
+
+Der Bundesrat regelt, soweit dieses Gesetz nichts anderes vorsieht:
+
+- a. die Organisation und den Betrieb des Informationssystems;
+- b. den Katalog der zu erfassenden Daten;
+- c. die Berechtigung zum Bearbeiten der Daten;
+- d. die Beschaffung und die Weitergabe der Daten;
+- e. die Dauer der Aufbewahrung der Daten;
+- f. die Datensicherheit.
+
+#### Art. 12c
+
+**Datenbeschaffung**
+
+Die mit der Erhebung der Abgabe und der Überprüfung der Abgabeentrichtung betrauten Stellen dürfen zur Erfüllung ihrer Aufgaben Fahrzeughalterdaten aus Informationssystemen anderer Behörden des Bundes und der Kantone bearbeiten, sofern dies in anderen Erlassen des Bundes oder in kantonalen Erlassen vorgesehen ist. Sie verwenden die Daten ausschliesslich für die jeweils vorgesehenen Zwecke.
+
+#### Art. 12d
+
+**Schnittstellen**
+
+<sup>1</sup> Das Informationssystem des BAZG kann so mit den anderen Informationssystemen des BAZG zur Erhebung von Strassenverkehrsabgaben und zur Personen- und Kundendatenverwaltung verbunden werden, dass die Benutzerinnen und Benutzer im Rahmen ihrer Zugriffsrechte mit einer einzigen Abfrage prüfen können, ob eine bestimmte Person oder Organisation in einem Informationssystem verzeichnet ist.
+
+<sup>2</sup> Eine Verbindung des Informationssystems des BAZG mit anderen Informationssystemen der Bundesverwaltung, auf die das BAZG Zugriff hat, ist nur zulässig, soweit die Gesetzgebung über die letztgenannten Informationssysteme dies vorsieht.
+
+#### Art. 12e
+
+**Datenbekanntgabe an Behörden und an mit öffentlich-rechtlichen Aufgaben betraute Organisationen**
+
+<sup>1</sup> Das BAZG darf den kantonalen Polizei- und Strafverfolgungsbehörden im Abrufverfahren Daten des Informationssystems zugänglich machen, soweit diese für die Durchführung von Kontrollen sowie für die Verfolgung und die Beurteilung von Widerhandlungen gegen dieses Gesetz erforderlich sind.
+
+<sup>2</sup> Es darf Organisationen, die mit öffentlich-rechtlichen Aufgaben des Bundes betraut sind, im Abrufverfahren Daten des Informationssystems zugänglich machen, soweit diese für die Durchführung von Kontrollen nach diesem Gesetz erforderlich sind.
+
+<sup>3</sup> Die bekanntgegebenen Daten sind ausschliesslich für die jeweils vorgesehenen Zwecke zu verwenden. Sie dürfen ohne die Zustimmung des BAZG nicht weitergegeben werden.
+
+#### Art. 12f
+
+**Archivierung und Vernichtung der Daten**
+
+<sup>1</sup> Die erhobenen Daten werden nur so lange aufbewahrt, wie es zur Erfüllung des Zweckes, für den sie erhoben wurden, notwendig ist.
+
+<sup>2</sup> Die bei einer Kontrolle erhobenen Daten werden unmittelbar vernichtet, wenn die Kontrolle ergibt, dass das Kontrollschild im Informationssystem des BAZG registriert ist.
+
+#### Art. 12g
+
+**Amtshilfe und Anzeigepflicht**
+
+<sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Behörden unterstützen sich gegenseitig in der Erfüllung ihrer Aufgabe; sie erteilen sich die benötigten Auskünfte und gewähren einander auf Verlangen Einsicht in amtliche Akten.
+
+<sup>2</sup> Die Behörden von Bund, Kantonen und Gemeinden erteilen den mit dem Vollzug dieses Gesetzes betrauten Behörden auf Ersuchen alle erforderlichen Auskünfte.
+
+<sup>3</sup> Verwaltungsorgane des Bundes und der Kantone, die in ihrer dienstlichen Tätigkeit eine Widerhandlung wahrnehmen oder von einer solchen Kenntnis erhalten, sind verpflichtet, sie der für die Strafverfolgung zuständigen Behörde anzuzeigen.
+
+<sup>4</sup> Die Gewährung der Amtshilfe in Strafsachen zwischen Bundesbehörden und kantonalen Behörden richtet sich nach Artikel 30 des Bundesgesetzes vom 22. März 1974[^12g-1] über das Verwaltungsstrafrecht.
+
+[^12g-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+## 6. Abschnitt: Verjährung der Abgabeforderung und Rechtsschutz
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+
+#### Art. 12h
+
+**Verjährung der Abgabeforderung**[^12h-1]
+
+<sup>1</sup> Die Abgabeforderung verjährt am Ende des Jahres, das auf das Jahr folgt, in dem die Abgabe fällig geworden ist.
+
+<sup>2</sup> Die Verjährung wird durch jede Einforderungshandlung der zuständigen Behörde unterbrochen. Sie steht still, solange die abgabepflichtige Person in der Schweiz nicht betrieben worden ist.
+
+<sup>3</sup> In jedem Fall verjährt die Abgabeforderung fünf Jahre, nachdem die Abgabe fällig geworden ist.
+
+<sup>4</sup> Ist die Abgabeforderung die Folge einer Übertretung nach Artikel 14, so richtet sich die Verjährung nach Artikel 17.
+
+[^12h-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
 #### Art. 13
 
-<sup>1</sup> Gegen Verfügungen der Zollstellen oder erster kantonaler Instanzen kann bei der Oberzolldirektion Verwaltungsbeschwerde erhoben werden.
+**Rechtsschutz[^13-1]**
+
+<sup>1</sup> Gegen Verfügungen erster kantonaler Instanzen kann innerhalb von dreissig Tagen bei des BAZG Beschwerde erhoben werden.[^13-2]
+
+<sup>1bis</sup> Gegen erstinstanzliche Verfügungen des BAZG kann innerhalb von dreissig Tagen Einsprache erhoben werden.[^13-3]
 
 <sup>2</sup> Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
+
+[^13-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^13-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^13-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
 ## 7. Abschnitt: Strafbestimmungen
 
@@ -176,42 +354,46 @@ Bestreitet eine Person, die nicht in der Schweiz Wohnsitz hat, bei einer Kontrol
 
 **Vergehen und Übertretungen[^14-1]**
 
-<sup>1</sup> Wer entgegen den Artikeln 3–5, 7 und 8 vorsätzlich oder fahrlässig mit einem Fahrzeug eine abgabepflichtige Nationalstrasse benützt oder die Vignette vorschriftswidrig verwendet, wird mit einer Busse von 200 Franken bestraft.
+<sup>1</sup> Wer ohne Entrichtung der Abgabe vorsätzlich oder fahrlässig mit einem Fahrzeug, für das die Abgabe entrichtet werden muss, eine Nationalstrasse I oder II benützt oder die Klebevignette entgegen den Vorschriften nach Artikel 7 verwendet, wird mit einer Busse von 200 Franken bestraft.[^14-2]
 
-<sup>2</sup> ...[^14-2]
+<sup>2</sup> …[^14-3]
 
-<sup>3</sup> Artikel 245 des Strafgesetzbuchs[^14-3] ist anwendbar.
+<sup>3</sup> Artikel 245 des Strafgesetzbuchs[^14-4] ist anwendbar.
 
 [^14-1]: Fassung gemäss Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
-[^14-2]: Aufgehoben durch Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, mit Wirkung seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
-[^14-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^14-3]: Aufgehoben durch Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, mit Wirkung seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
+[^14-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 15
 
-**Strafverfolgung durch das BAZG**[^15-1]
+**Strafverfolgung durch das BAZG[^15-2]**[^15-1]
 
-<sup>1</sup> Das BAZG verfolgt und beurteilt Übertretungen, die es in seinem Zuständigkeitsbereich feststellt (Art. 11 Bst. a). Verstösse gegen Artikel 245 des Strafgesetzbuchs[^15-2] werden von den Kantonen verfolgt und beurteilt.
+<sup>1</sup> Das BAZG verfolgt und beurteilt Übertretungen, die es in ihrem Zuständigkeitsbereich feststellt (Art. 11 Abs. 1 Bst. a).[^15-3] Verstösse gegen Artikel 245 des Strafgesetzbuchs[^15-4] werden von den Kantonen verfolgt und beurteilt.
 
-<sup>2</sup> Für das Verfahren des BAZG gilt das Ordnungsbussengesetz vom 18. März 2016[^15-3].
+<sup>2</sup> Für das Verfahren des BAZG gilt das Ordnungsbussengesetz vom 18. März 2016[^15-5].
 
-<sup>3</sup> Lehnt die Täterin oder der Täter das Ordnungsbussenverfahren ab oder wird die Busse nicht innerhalb von 30 Tagen bezahlt, so verfolgt und beurteilt das BAZG die Übertretung nach dem Bundesgesetz vom 22. März 1974[^15-4] über das Verwaltungsstrafrecht.
+<sup>3</sup> Lehnt die Täterin oder der Täter das Ordnungsbussenverfahren ab oder wird die Busse nicht innerhalb von 30 Tagen bezahlt, so verfolgt und beurteilt das BAZG die Übertretung nach dem Bundesgesetz vom 22. März 1974[^15-6] über das Verwaltungsstrafrecht.
 
 [^15-1]: Fassung gemäss Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, in Kraft seit 1. Jan. 2020, Abs. 1 seit 1. Jan. 2018 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
-[^15-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^15-3]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
-[^15-4]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^15-2]: Ausdruck gemäss Ziff. I 27 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^15-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^15-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-5]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^15-6]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 16
 
 **Strafverfolgung durch die Kantone**
 
-<sup>1</sup> Die Kantone verfolgen Übertretungen, die sie in ihrem Zuständigkeitsbereich feststellen (Art. 11 Bst. b).
+<sup>1</sup> Die Kantone verfolgen Übertretungen, die sie in ihrem Zuständigkeitsbereich feststellen (Art. 11 Abs. 1 Bst. b).[^16-1]
 
-<sup>2</sup> und <sup>3</sup> ...[^16-1]
+<sup>2</sup> und <sup>3</sup> …[^16-2]
 
 <sup>4</sup> Der Bussenertrag fällt den Kantonen zu.
 
-[^16-1]: Aufgehoben durch Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, mit Wirkung seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
+[^16-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^16-2]: Aufgehoben durch Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, mit Wirkung seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
 #### Art. 17
 
@@ -225,21 +407,31 @@ Die Strafverfolgung und die Strafe für Übertretungen verjähren in drei Jahren
 
 **Vollzug**
 
-<sup>1</sup> Der Bundesrat erlässt die Ausführungsbestimmungen. Er regelt insbesondere das Anbringen der Vignette.
+<sup>1</sup> Der Bundesrat erlässt die Ausführungsbestimmungen.[^18-1]
 
 <sup>2</sup> Er kann völkerrechtliche Vereinbarungen abschliessen über die grenzüberschreitende Zusammenarbeit mit ausländischen Behörden zur Durchsetzung der Abgabe.
 
-<sup>3</sup> Das Eidgenössische Finanzdepartement kann die Kontrolle und die Strafverfolgung im Ordnungsbussenverfahren durch Vertrag ganz oder teilweise Dritten übertragen.[^18-1]
+<sup>3</sup> Das Eidgenössische Finanzdepartement kann die Kontrolle durch Vertrag ganz oder teilweise Dritten übertragen.[^18-2]
 
-<sup>4</sup> Das BAZG und die Kantone können die Abgabeerhebung durch Vertrag ganz oder teilweise Dritten übertragen.
+<sup>4</sup> Das BAZG und die Kantone können die Erhebung der Abgabe mittels Klebevignette durch Vertrag ganz oder teilweise Dritten übertragen.[^18-3]
 
-[^18-1]: Fassung gemäss Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
+[^18-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^18-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
+[^18-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
 #### Art. 19
 
 **Aufwandsentschädigung**
 
 Das BAZG, die Kantone und beauftragte Dritte erhalten eine Aufwandsentschädigung. Diese wird vom Eidgenössischen Finanzdepartement festgelegt.
+
+#### Art. 19a
+
+**Abschaffung der Klebevignette**[^19a-1]
+
+Beträgt der Anteil der Klebevignette weniger als 10 Prozent aller verkauften Klebevignetten und E-Vignetten, so wird die Klebevignette abgeschafft.
+
+[^19a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Aug. 2023 ([AS 2023 337](https://fedlex.data.admin.ch/eli/oc/2023/337); [BBl 2019 5889](https://fedlex.data.admin.ch/eli/fga/2019/2136)).
 
 #### Art. 20
 
