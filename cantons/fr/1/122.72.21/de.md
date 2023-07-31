@@ -3,13 +3,13 @@ canton: FR
 number: "122.72.21"
 title: Verordnung über die Einreihung der Funktionen des Staatspersonals
 language: de
-version: 2023-01-01
-valid_until: 2023-07-31
-version_adopted: 2022-11-29
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2023-07-06
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7781/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7805/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7781/pdf_file"
 
 Personnel de l'Etat, classification des fonctions – O
 
-vom 29.11.2022 (Fassung in Kraft getreten am 01.01.2023)
+vom 29.11.2022 (Fassung in Kraft getreten am 01.08.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -427,7 +427,8 @@ beschliesst:
 <tr><td>2 30 290</td><td>Stellvertretende Brigadenchefin/Stellvertretender Brigadenchef</td><td>21</td><td></td></tr>
 <tr><td>2 30 410</td><td>Brigadenchef/in</td><td>23–24</td><td></td></tr>
 <tr><td>2 30 430</td><td>Spezialisierte Polizei-Offizierin/Spezialisierter Polizei-Offizier</td><td>24–26</td><td></td></tr>
-<tr><td>2 30 470</td><td>Chef/in des Kommissariats</td><td>26–28</td><td></td></tr>
+<tr><td>2 30 460</td><td>Stellvertretende Kommissariatschefin/Stellvertretender Kommissariatschef</td><td>24–25</td><td></td></tr>
+<tr><td>2 30 470</td><td>Kommissariatschefin/Kommissariatschef</td><td>26–28</td><td></td></tr>
 <tr><td>2 30 490</td><td>Stellvertretende Korps-Chefin/Stellvertretender Korps-Chef</td><td>29</td><td></td></tr>
 <tr><td>2 30 510</td><td>Korps-Chef/in</td><td>30–32</td><td></td></tr>
 </table>

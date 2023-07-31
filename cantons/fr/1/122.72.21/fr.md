@@ -3,13 +3,13 @@ canton: FR
 number: "122.72.21"
 title: "Ordonnance relative à la classification des fonctions du personnel de l'Etat"
 language: fr
-version: 2023-01-01
-valid_until: 2023-07-31
-version_adopted: 2022-11-29
+version: 2023-08-01
+valid_until: 2023-12-31
+version_adopted: 2023-07-06
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7781/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7805/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7781/pdf_file"
 
 Personnel de l'Etat, classification des fonctions – O
 
-du 29.11.2022 (version entrée en vigueur le 01.01.2023)
+du 29.11.2022 (version entrée en vigueur le 01.08.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -429,6 +429,7 @@ Arrête:
 <tr><td>2 30 290</td><td>Chef/fe de brigade adjoint/e</td><td>21</td><td></td></tr>
 <tr><td>2 30 410</td><td>Chef/fe de brigade</td><td>23–24</td><td></td></tr>
 <tr><td>2 30 430</td><td>Officier/ière spécialisé/e</td><td>24–26</td><td></td></tr>
+<tr><td>2 30 460</td><td>Sous-chef/fe de commissariat</td><td>24–25</td><td></td></tr>
 <tr><td>2 30 470</td><td>Chef/fe de commissariat</td><td>26–28</td><td></td></tr>
 <tr><td>2 30 490</td><td>Chef/fe de corps adjoint/e</td><td>29</td><td></td></tr>
 <tr><td>2 30 510</td><td>Chef/fe de corps</td><td>30–32</td><td></td></tr>
