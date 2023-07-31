@@ -4,13 +4,13 @@ number: "115.1"
 title: Gesetz über die wirkungsorientierte Verwaltungsführung
 short: WoV-G
 language: de
-version: 2022-06-01
-valid_until: 2023-07-31
-version_adopted: 2021-12-08
+version: 2023-08-01
+valid_until: 2024-12-31
+version_adopted: 2022-01-26
 adopted: 2003-09-03
 in_force: 2004-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/115.1"
-pdf: "https://bgs.so.ch/api/de/versions/5209/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5344/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5209/pdf_file"
 
 (WoV-G)
 
-Vom 03.09.2003 (Stand 01.06.2022)
+Vom 03.09.2003 (Stand 01.08.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -666,6 +666,14 @@ beschliesst:
 <sup>2</sup> Eine Ausgabe gilt im Übrigen als neu, wenn dem für die Ausgabenbewilligung zuständigen Organ bezüglich der Höhe, dem Zeitpunkt der Vornahme oder anderer wesentlicher Modalitäten eine verhältnismässig gros-se Handlungsfreiheit zusteht.
 
 <sup>3</sup> Bewilligungen von Ausgaben sind ab einer vom Regierungsrat zu bestimmenden Höhe mit einer Wirtschaftlichkeitsrechnung zu versehen.
+
+#### § 55bis
+
+**Ausgabenbewilligung beim öffentlich-privaten Partnerschaftsmodell**
+
+<sup>1</sup> Bei der Bewilligung eines öffentlich-privaten Partnerschaftsmodells gelten die Investitionen als neue und die Betriebs- und Folgekosten als gebundene Ausgaben.
+
+<sup>2</sup> Die Investitionsausgaben sind zusammengerechnet als einmalige Ausgabe zu beschliessen. Bei zeitlich gestaffelten Ausgaben bestimmt sich die Ausgabenbefugnis nach der Summe der vereinbarten jährlichen Raten.
 
 ### 5.5. Kreditarten
 
