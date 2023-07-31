@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230701/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230701-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230801/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230801-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 1° luglio 2023)
+del 21 dicembre 1937 (Stato 1° agosto 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -6108,11 +6108,11 @@ Possono confrontare e trattare i dati di cui al capoverso 1:
 I dati possono essere utilizzati:
 
 - a. sino alla scadenza dei termini di cancellazione dei profili del DNA di cui agli articoli 16–19 della legge del 20 giugno 2003[^354-8] sui profili del DNA; o
-- b. in caso di condanna per contravvenzione, nei cinque anni successivi al pagamento di una multa o all’esecuzione di una corrispondente pena detentiva sostitutiva.[^354-9]
+- b.[^354-9] in caso di condanna per contravvenzione, per cinque anni a decorrere dalla data della sentenza, sempre che quest’ultima sia passata in giudicato.[^354-10]
 
-<sup>5</sup> Il Consiglio federale disciplina le modalità, segnatamente la durata di conservazione dei dati registrati al di fuori di procedimenti penali, la procedura di cancellazione e la collaborazione con i Cantoni. Disciplina la trasmissione dei dati segnaletici da parte delle autorità federali competenti e dei Cantoni.[^354-10]
+<sup>5</sup> Il Consiglio federale disciplina le modalità, segnatamente la durata di conservazione dei dati registrati al di fuori di procedimenti penali, la procedura di cancellazione e la collaborazione con i Cantoni. Disciplina la trasmissione dei dati segnaletici da parte delle autorità federali competenti e dei Cantoni.[^354-11]
 
-<sup>6</sup> Ai fini delle segnalazioni nel sistema d’informazione Schengen (SIS) la SEM o l’Ufficio federale di polizia (fedpol) può trasferire i dati nella parte nazionale del Sistema d’informazione di Schengen (N-SIS) e nel SIS mediante procedura automatizzata.[^354-11]
+<sup>6</sup> Ai fini delle segnalazioni nel sistema d’informazione Schengen (SIS) la SEM o l’Ufficio federale di polizia (fedpol) può trasferire i dati nella parte nazionale del Sistema d’informazione di Schengen (N-SIS) e nel SIS mediante procedura automatizzata.[^354-12]
 
 [^354-1]: Nuovo testo giusta l’all. 1 n. 3 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
@@ -6122,9 +6122,10 @@ I dati possono essere utilizzati:
 [^354-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^354-7]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^354-8]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-9]: Nuovo testo giusta l’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-9]: Nuovo testo giusta l’all. 1 n. 1 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^354-10]: Nuovo testo giusta l’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Introdotto dall’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-11]: Nuovo testo giusta l’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-12]: Introdotto dall’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. ...
 

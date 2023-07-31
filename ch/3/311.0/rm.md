@@ -4,11 +4,11 @@ title: Cudesch penal svizzer dals 21 da december 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: rm
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230701-rm-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230801/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230801-rm-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 21 da december 1937 (versiun dal 1. da fanadur 2023)
+dals 21 da december 1937 (versiun dal 1. d’avust 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -6132,11 +6132,12 @@ Las suandantas autoritads pon cumparegliar ed elavurar datas tenor l’alinea 1:
 Las datas dastgan vegnir duvradas:
 
 - a. fin a la scadenza dals termins per stizzar ils profils dal DNA tenor ils artitgels 16–19 da la Lescha dals 20 da zercladur 2003[^354-8] davart ils profils dal DNA; u
-- b. en cas d’ina condemnaziun pervia d’in surpassament: fin 5 onns suenter il pajament d’ina multa u suenter l’execuziun d’in chasti da detenziun subsidiar correspundent.[^354-9]
+- b.[^354-9] en cas d’ina condemnaziun pervia d’in surpassament: durant 5 onns a partir da la data da la sentenzia, sche quella ha survegnì forza legala.[^354-10]
+- [tab]
 
-<sup>5</sup> Il Cussegl federal regla ils detagls, en spezial la durada da la conservaziun da las datas ch’èn vegnidas registradas ordaifer ina procedura penala, la procedura per stizzar las datas e la collavuraziun cun ils chantuns. El regla la transmissiun da las datas dal servetsch d’identificaziun tras las autoritads federalas cumpetentas e tras ils chantuns.[^354-10]
+<sup>5</sup> Il Cussegl federal regla ils detagls, en spezial la durada da la conservaziun da las datas ch’èn vegnidas registradas ordaifer ina procedura penala, la procedura per stizzar las datas e la collavuraziun cun ils chantuns. El regla la transmissiun da las datas dal servetsch d’identificaziun tras las autoritads federalas cumpetentas e tras ils chantuns.[^354-11]
 
-<sup>6</sup> Cun l’intent da la publicaziun en il sistem d’infurmaziun da Schengen (SIS) po il SEM u l’Uffizi federal da polizia (fedpol) transferir las datas – cun agid d’ina procedura automatisada – en la part naziunala dal Sistem d’infurmaziun da Schengen (N-SIS) ed en il SIS.[^354-11]
+<sup>6</sup> Cun l’intent da la publicaziun en il sistem d’infurmaziun da Schengen (SIS) po il SEM u l’Uffizi federal da polizia (fedpol) transferir las datas – cun agid d’ina procedura automatisada – en la part naziunala dal Sistem d’infurmaziun da Schengen (N-SIS) ed en il SIS.[^354-12]
 
 [^354-1]: Versiun tenor la cifra 3 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: La designaziun da l’unitad administrativa è vegnida adattada applitgond l’art. 20 al. 2 da l’O dals 7 d’oct. 2015 davart las publicaziuns uffizialas ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
@@ -6146,9 +6147,10 @@ Las datas dastgan vegnir duvradas:
 [^354-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^354-7]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^354-8]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-9]: Versiun tenor la cifra 1 da l’agiunta 2 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 23 da schan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-9]: Versiun tenor la cifra 1 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^354-10]: Versiun tenor la cifra 1 da l’agiunta 2 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 23 da schan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Integrà tras la cifra 1 da l’agiunta 2 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 23 da schan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-11]: Versiun tenor la cifra 1 da l’agiunta 2 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 23 da schan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-12]: Integrà tras la cifra 1 da l’agiunta 2 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 23 da schan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. …
 

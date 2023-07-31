@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230701/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230701-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230801/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230801-de-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Juli 2023)
+vom 21. Dezember 1937 (Stand am 1. August 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2652,7 +2652,7 @@ Der Schuldner, der in der Absicht, seinen Gläubiger zu schädigen, diesem eine 
 
 #### Art. 147
 
-<sup>1</sup> Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, durch unrichtige, unvollständige oder unbefugte Verwendung von Daten oder in vergleichbarer Weise auf einen elektronischen oder vergleichbaren Datenverarbeitungs- oder Datenübermittlungsvorgang einwirkt und dadurch eine Vermögensverschiebung zum Schaden eines andern herbeiführt oder eine Vermögensverschiebung unmittelbar darnach verdeckt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+<sup>1</sup> Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, durch unrichtige, unvollständige oder unbefugte Verwendung von Daten oder in vergleichbarer Weise auf einen elektronischen oder vergleichbaren Datenverarbeitungs- oder Datenübermittlungsvorgang einwirkt und dadurch eine Vermögensverschiebung zum Schaden eines andern herbeiführt oder eine Vermögensverschiebung unmittelbar danach verdeckt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 <sup>2</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.[^147-1]
 
@@ -6133,11 +6133,11 @@ Folgende Behörden können Daten nach Absatz 1 vergleichen und bearbeiten:
 Die Daten dürfen verwendet werden:
 
 - a. bis zum Ablauf der Fristen für die Löschung von DNA-Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003[^354-8]; oder
-- b. bei einer Verurteilung wegen einer Übertretung: bis zu fünf Jahre nach Zahlung einer Busse oder nach dem Vollzug einer entsprechenden Ersatzfreiheitsstrafe.[^354-9]
+- [tab] b.[^354-9] bei einer Verurteilung wegen einer Übertretung: für eine Dauer von fünf Jahren ab dem Datum des Urteils, sofern dieses in Rechtskraft erwachsen ist.[^354-10]
 
-<sup>5</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Aufbewahrungsdauer der Daten, die ausserhalb von Strafverfahren erfasst worden sind, das Löschverfahren und die Zusammenarbeit mit den Kantonen. Er regelt die Übermittlung der erkennungsdienstlichen Daten durch die zuständigen Bundesbehörden und die Kantone.[^354-10]
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Aufbewahrungsdauer der Daten, die ausserhalb von Strafverfahren erfasst worden sind, das Löschverfahren und die Zusammenarbeit mit den Kantonen. Er regelt die Übermittlung der erkennungsdienstlichen Daten durch die zuständigen Bundesbehörden und die Kantone.[^354-11]
 
-<sup>6</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-11]
+<sup>6</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-12]
 
 [^354-1]: Fassung gemäss Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
@@ -6147,9 +6147,10 @@ Die Daten dürfen verwendet werden:
 [^354-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^354-7]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^354-8]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-9]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-9]: Fassung gemäss Anhang 1 Ziff. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^354-10]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Eingefügt durch Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-11]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-12]: Eingefügt durch Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. …
 

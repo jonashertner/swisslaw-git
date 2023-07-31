@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230701/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230701-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230801/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230801-en-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 July 2023)
+of 21 December 1937 (Status as of 1 August 2023)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -3868,7 +3868,7 @@ If the offender maliciously causes serious loss, damage or injury, the penalty i
 
 If the offender carries on a commercial operation to produce or treat animal feed that is harmful to animals, the penalty is a custodial sentence of from one month to three years or a monetary penalty of not less than 30 daily penalty units. In such cases, public notice shall be given of the conviction.[^235-1]
 
-<sup>2.</sup> If the offence is committed through negligence, a fine shall be imposed.[^235-2]
+<sup>2.</sup> If the offence is committed through negligence, a monetary penalty shall be imposed.[^235-2]
 
 <sup>3.</sup> The products shall be forfeited. They may be rendered harmless or destroyed.
 
@@ -6140,11 +6140,11 @@ The following authorities may use and process data in terms of paragraph 1:
 The data may be used:
 
 - a. until the expiry of the deadlines for the deletion of DNA profiles specified in Articles 16–19 des DNA Profiling Act of 20 June 2003[^354-8]; or
-- b. in the case of a conviction for a contravention: for up to five years following payment of a fine or execution of a related alternative custodial sentence.[^354-9]
+- b.[^354-9] in the case of a conviction for a contravention: for up to five years from the date of the judgment, provided the judgment is final.[^354-10]
 
-<sup>5</sup> The Federal Council shall regulate the details, and in particular the retention period for data that is recorded outside criminal proceedings, the deletion procedure and cooperation with the cantons. It shall regulate the transmission of criminal records data by the competent federal authorities and the cantons.[^354-10]
+<sup>5</sup> The Federal Council shall regulate the details, and in particular the retention period for data that is recorded outside criminal proceedings, the deletion procedure and cooperation with the cantons. It shall regulate the transmission of criminal records data by the competent federal authorities and the cantons.[^354-11]
 
-<sup>6</sup> SEM or the Federal Office of Police (fedpol) may transmit the data in an automated procedure to the national section of the Schengen Information System (SIS) for the purpose of issuing alerts.[^354-11]
+<sup>6</sup> SEM or the Federal Office of Police (fedpol) may transmit the data in an automated procedure to the national section of the Schengen Information System (SIS) for the purpose of issuing alerts.[^354-12]
 
 [^354-1]: Amended by Annex 1 No 3 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: The name of this administrative unit was changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
@@ -6154,9 +6154,10 @@ The data may be used:
 [^354-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^354-7]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^354-8]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-9]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-9]: Amended by Annex No 1 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^354-10]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Inserted by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-11]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-12]: Inserted by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. ...
 

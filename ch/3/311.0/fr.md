@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2023-07-01
+version: 2023-08-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230701-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230801-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 1<sup>er</sup> juillet 2023)
+du 21 décembre 1937 (État le 1<sup>er</sup> août 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -6426,11 +6426,11 @@ Les autorités suivantes peuvent comparer et traiter des données saisies en ver
 Elles peuvent être utilisées:
 
 - a. jusqu’à l’expiration du délai fixé pour l’effacement des profils d’ADN par les art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^354-8], ou
-- b. en cas de condamnation pour contravention, pendant les 5 ans suivant le paiement d’une amende ou l’exécution d’une peine privative de liberté de substitution.[^354-9]
+- b.[^354-9] en cas de condamnation pour contravention, pour une durée de 5 ans à partir de la date du jugement, pour autant qu’il soit entré en force.[^354-10]
 
-<sup>5</sup> Le Conseil fédéral fixe les modalités, notamment la durée de conservation des données enregistrées en dehors d’une procédure pénale, la procédure à suivre pour effacer les données et la collaboration avec les cantons. Il règle la transmission des données signalétiques par les autorités fédérales compétentes et les cantons.[^354-10]
+<sup>5</sup> Le Conseil fédéral fixe les modalités, notamment la durée de conservation des données enregistrées en dehors d’une procédure pénale, la procédure à suivre pour effacer les données et la collaboration avec les cantons. Il règle la transmission des données signalétiques par les autorités fédérales compétentes et les cantons.[^354-11]
 
-<sup>6</sup> Le SEM ou l’Office fédéral de la police (fedpol) peut transmettre de manière automatisée les données à la partie nationale du Système d’information Schengen (N-SIS) et au Système d’information Schengen (SIS) aux fins de signalements dans le SIS.[^354-11]
+<sup>6</sup> Le SEM ou l’Office fédéral de la police (fedpol) peut transmettre de manière automatisée les données à la partie nationale du Système d’information Schengen (N-SIS) et au Système d’information Schengen (SIS) aux fins de signalements dans le SIS.[^354-12]
 
 [^354-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: La dénomination de l’unité administrative a été adaptée en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
@@ -6440,9 +6440,10 @@ Elles peuvent être utilisées:
 [^354-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^354-7]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^354-8]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-9]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-9]: Nouvelle teneur selon l’annexe 1 ch. 1 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^354-10]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Introduit par l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-11]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-12]: Introduit par l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. …
 
