@@ -4,13 +4,12 @@ number: "835.11"
 title: Reglement über die familienergänzenden Tagesbetreuungseinrichtungen
 short: FBR
 language: de
-version: 2020-01-01
-valid_until: 2023-07-31
-version_adopted: 2019-12-10
+version: 2023-08-01
+version_adopted: 2023-09-12
 adopted: 2011-09-27
 in_force: 2011-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/835.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6421/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7825/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Familienergänzende Tagesbetreuungseinrichtungen – R
 
 (FBR)
 
-vom 27.09.2011 (Fassung in Kraft getreten am 01.01.2020)
+vom 27.09.2011 (Fassung in Kraft getreten am 01.08.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -59,6 +58,7 @@ beschliesst:
 - e) erfasst und kontrolliert die Zahl der tatsächlich geleisteten Betreuungsstunden nach Artikel 9 Abs. 3 und 4 FBG;
 - f) legt in Zusammenarbeit mit der Finanzverwaltung die Anforderungen für das Rechnungsmodell in den subventionierten Einrichtungen fest;
 - g) überweist den finanziellen Beitrag des Staates und der Arbeitgeber an die Betreuungseinrichtungen (Art. 9 und 10 FBG);
+- g1) fällt die Entscheide über die Finanzierung von Assistenzpersonen (Art. 13a FBG);
 - h) entscheidet über die Beitragsgesuche für die Grundausbildung und Weiterbildung des pädagogischen Fachpersonals (Art. 14 und 15 FBG);
 - i) berät die Gemeinden und die Betreuungseinrichtungen.
 
@@ -204,6 +204,24 @@ beschliesst:
 
 <sup>3</sup> Die Betreuungseinrichtungen sind verpflichtet, die Mehrkosten gegenüber einer ordentlichen Betreuung in der familienergänzenden Betreuungseinrichtung auszuweisen.
 
+#### Art. 11a
+
+**Assistenzpersonen in der ausserschulischen Betreuung (Art. 13a FBG)**
+
+<sup>1</sup> Die Funktion der Assistenzperson in der ausserschulischen Betreuung wird in der Regel von einer Fachperson Betreuung übernommen.
+
+<sup>2</sup> Das Finanzierungsgesuch wird von den ausserschulischen Betreuungseinrichtungen oder den zuständigen Diensten der Gemeinde beim Amt eingereicht.
+
+<sup>3</sup> Im Gesuch sind die Anzahl Betreuungsstunden und das Profil der Assistenzperson sowie die Gehaltsstufe gemäss dem Reglement über das Freiburger Staatspersonal für das Profil Fachperson Betreuung anzugeben. Das Gesuch enthält zudem eine Kopie der Stellungnahme der Abklärungsstelle des Amts für Sonderpädagogik (SoA) und des Entscheids über die Zuweisung von verstärkten sonderpädagogischen Massnahmen in Form einer Assistenzperson (AP).
+
+<sup>4</sup> Die massgebenden Kosten werden aufgrund der geschätzten Anzahl Betreuungsstunden und der Gehaltsstufe gemäss dem Reglement über das Freiburger Staatspersonal für das Profil der Fachperson Betreuung berechnet.
+
+<sup>5</sup> Die Unterstützung wird ab der Übernahme der Betreuung des Kindes durch die Assistenzperson in der ausserschulischen Betreuung und grundsätzlich für die Dauer eines Schuljahres gewährt; wird die Betreuung im Folgejahr weitergeführt, so muss die Unterstützung verlängert werden.
+
+<sup>6</sup> Die genehmigte Unterstützung wird in zwei Teilbeträgen ausbezahlt; eine erste Anzahlung von 80 % zum Zeitpunkt des Entscheids, der Restbetrag gestützt auf eine Schussabrechnung, welche die ausserschulische Betreuungseinrichtung dem Amt am Ende des jeweiligen Schuljahres unterbreitet.
+
+<sup>7</sup> Die ausserschulischen Betreuungseinrichtungen oder die zuständigen Dienste der Gemeinde übermitteln dem Amt die Schlussabrechnung bis spätestens am 31. August des betreffenden Jahres.
+
 #### Art. 12
 
 **Kosten der Aus- und Weiterbildung des pädagogischen Fachpersonals (Art. 14 und 15 FBG)**
@@ -239,6 +257,12 @@ beschliesst:
 <sup>2</sup> Der volle Beitrag wird an Einrichtungen entrichtet, die dauerhaft an 5 Wochentagen und während jährlich 45 Wochen für täglich drei Betreuungseinheiten geöffnet sind. Für Einrichtungen, die weniger Betreuungseinheiten anbieten, wird der Beitrag im Verhältnis zum tatsächlichen Angebot gekürzt.
 
 <sup>3</sup> Die Direktion setzt die Modalitäten fest und erlässt Anwendungsrichtlinien.
+
+#### Art. 16b
+
+**Übergangsbestimmung – Assistenzperson in der ausserschulischen Betreuung (Art. 11a FBR)**
+
+<sup>1</sup> Artikel 11a gilt erstmals für die Abrechnungsperiode 2022‒2023.
 
 #### Art. 16a
 

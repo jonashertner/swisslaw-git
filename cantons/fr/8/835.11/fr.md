@@ -4,13 +4,12 @@ number: "835.11"
 title: "Règlement sur les structures d'accueil extrafamilial de jour"
 short: RStE
 language: fr
-version: 2020-01-01
-valid_until: 2023-07-31
-version_adopted: 2019-12-10
+version: 2023-08-01
+version_adopted: 2023-09-12
 adopted: 2011-09-27
 in_force: 2011-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/835.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6421/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7825/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Structures d'accueil extrafamilial de jour – R
 
 (RStE)
 
-du 27.09.2011 (version entrée en vigueur le 01.01.2020)
+du 27.09.2011 (version entrée en vigueur le 01.08.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -59,6 +58,7 @@ Arrête:
 - e) recense et contrôle le nombre d'heures de garde effectives au sens de l'article 9 al. 3 et 4 LStE;
 - f) définit, en collaboration avec l'Administration des finances, les exigences relatives au plan comptable dans les structures subventionnées;
 - g) verse le soutien financier de l'Etat et des employeurs aux structures d'accueil (art. 9 et 10 LStE);
+- g1) rend les décisions relatives au financement des auxiliaires de vie (art. 13a LStE);
 - h) statue sur les demandes de participation à la formation de base et au perfectionnement du personnel éducatif (art. 14 et 15 LStE);
 - i) conseille les communes et les structures d'accueil.
 
@@ -204,6 +204,24 @@ Arrête:
 
 <sup>3</sup> Il incombe aux structures d'accueil de démontrer la part de coûts supplémentaires à une prise en charge ordinaire en structure d'accueil extrafamilial.
 
+#### Art. 11a
+
+**Auxiliaire de vie en accueil extrascolaire (art. 13 a LStE)**
+
+<sup>1</sup> L'auxiliaire de vie en accueil extrascolaire répond en principe à la fonction d'assistant socio-éducatif.
+
+<sup>2</sup> La demande de financement est déposée auprès du Service par les structures d'accueil extrascolaire ou par les services communaux compétents.
+
+<sup>3</sup> La demande indique les heures de prise en charge et le profil de l'auxiliaire de vie ainsi que le palier du traitement prévu par la réglementation sur le personnel de l'Etat pour le profil d'assistant socio-éducatif. Une copie du préavis de la cellule d'évaluation du Service de l'enseignement spécialisé et des mesures d'aide (SESAM) et de la décision de mesures d'aide renforcées de pédagogie spécialisée sous forme d'octroi d'un ou d'une auxiliaire de vie (MAR) sont jointes à la demande.
+
+<sup>4</sup> Le coût déterminant est calculé sur la base de l'estimation des heures de prise en charge et du traitement prévu par la réglementation sur le personnel de l'Etat pour le profil d'assistant socio-éducatif.
+
+<sup>5</sup> Le soutien est accordé dès la prise en charge de l'enfant par l'auxiliaire de vie en accueil extrascolaire, en principe, pour une année scolaire et doit faire l'objet d'un renouvellement si la prise en charge se poursuit l'année suivante.
+
+<sup>6</sup> Le soutien accordé est versé en deux fois, à savoir un premier acompte de 80 % au moment de la décision et le solde sur la base d'un décompte final que la structure d'accueil extrascolaire présentera au Service à la fin de la période considérée.
+
+<sup>7</sup> Au plus tard le 31 août de chaque année concernée, le décompte final est transmis au Service par les structures d'accueil extrascolaire ou par les services communaux compétents.
+
 #### Art. 12
 
 **Frais de formation de base et de perfectionnement du personnel éducatif (art. 14 et 15 LStE)**
@@ -239,6 +257,12 @@ Arrête:
 <sup>2</sup> Le soutien entier est versé pour les places ouvertes durablement pendant trois unités d'accueil par jour sur cinq jours de la semaine et quarante-cinq semaines par année. Le soutien est réduit au prorata de l'offre effective pour les structures qui proposent moins d'unités d'accueil.
 
 <sup>3</sup> La Direction fixe les modalités et émet des directives d'application.
+
+#### Art. 16b
+
+**Disposition transitoire – Auxiliaire de vie en accueil extrascolaire (art. 11a RStE)**
+
+<sup>1</sup> L'article 11a s'applique pour la première fois à la période de décompte 2022-2023.
 
 #### Art. 16a
 
