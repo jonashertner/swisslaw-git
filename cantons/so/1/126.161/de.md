@@ -3,20 +3,19 @@ canton: SO
 number: "126.161"
 title: Verordnung über die Bearbeitung von Personendaten des Staatspersonals
 language: de
-version: 2014-06-01
-valid_until: 2023-07-31
-version_adopted: 2014-03-04
+version: 2023-08-01
+version_adopted: 2022-09-05
 adopted: 1990-11-20
 in_force: 1991-03-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.161"
-pdf: "https://bgs.so.ch/api/de/versions/4297/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5367/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Bearbeitung von Personendaten des Staatspersonals
 
-Vom 20.11.1990 (Stand 01.06.2014)
+Vom 20.11.1990 (Stand 01.08.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -41,7 +40,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für das voll- und teilzeitlich beschäftigte Personal der kantonalen Verwaltung, der Gerichte, der kantonalen Schulen, der kantonalen Anstalten, des kantonalen Polizeikorps und der Solothurner Spitäler AG.
+<sup>1</sup> Diese Verordnung gilt für das voll- und teilzeitlich beschäftigte Personal der kantonalen Verwaltung, der Gerichte, der kantonalen Schulen, der kantonalen Anstalten, des kantonalen Polizeikorps, der Solothurner Spitäler AG und der Lehrpersonen der Volksschule.
 
 <sup>2</sup> …
 
