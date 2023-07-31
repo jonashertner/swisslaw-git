@@ -4,11 +4,11 @@ number: "414.41"
 title: Gesetz über die Pädagogische Hochschule (PHG)
 short: PHG
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2023-08-01
+version: "2023-08-01"
+nachtrag: "122"
+valid_until: 2024-08-01
 adopted: 1999-10-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_41-1999_10_25-2002_07_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_41-1999_10_25-2002_07_01-122.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 20 - 108
+1.10. 23 - 122
 
 <sup>3</sup> Die Pädagogische Hochschule kann Aufgaben für die pädagogisch-didaktische Ausbildung von Lehrkräften an andern Hochschulen übernehmen.
 
@@ -80,37 +80,39 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 ### 2. Teil: Ausbildung
 
-### A. Zulassung
+### A. Zulassung und Eignung<sup>20</sup>
 
-**Fachliche Voraussetzungen a. Für die Kindergartenstufe**
+**Fachliche Voraussetzungen a. für die Stufen der obligatorischen Schule (Schuljahre 1 bis 11)**
 
-§ 6.<sup>13</sup> <sup>1</sup> Zum Studium für Lehrkräfte der Kindergartenstufe wird zugelassen, wer eine der folgenden Voraussetzungen erfüllt:
+§ 6.<sup>20</sup> <sup>1</sup> Zum Studium für Lehrkräfte der Stufen der obligatorischen Schule wird zugelassen, wer Inhaberin oder Inhaber ist:
 
-- a. eidgenössisch anerkannte gymnasiale Maturität oder Nachweis einer als gleichwertig anerkannten Vorbildung,
+- a. einer eidgenössisch anerkannten gymnasialen Maturität,
 
-- b. anerkannter Abschluss einer Fachmittelschule oder Nachweis einer als gleichwertig anerkannten Vorbildung,
+- b. einer Berufsmaturität mit bestandener Ergänzungsprüfung zu den universitären Hochschulen,
 
-- c. anerkannter Abschluss einer dreijährigen Handelsmittelschule,
+- c. einer Fachmaturität mit bestandener Ergänzungsprüfung zu den universitären Hochschulen,
 
-- d. eidgenössisch anerkannte Berufsmaturität oder Abschluss einer mindestens dreijährigen anerkannten Berufsausbildung mit mehrjähriger Berufserfahrung.
+- d. eines Hochschuldiploms,
 
-<sup>2</sup> Bei Abschlüssen gemäss Abs. 1 lit. c und d ist eine Ergänzungsprüfung abzulegen. Diese dient dem Nachweis der Gleichwertigkeit mit dem Fachmittelschulabschluss. Geprüft werden fachliche Kompetenzen. Festgestellte Mängel müssen vor Studienbeginn behoben werden.
+- e. eines Abschlusses einer dreijährigen anerkannten Schule der Sekundarstufe II und eines Äquivalenznachweises zur Ergänzungsprüfung zu den universitären Hochschulen oder
 
-**b. Für die Primarstufe und die Kindergarten-Unterstufe**
+- f. eines eidgenössischen Fähigkeitszeugnisses mit mehrjähriger Berufserfahrung und eines Äquivalenznachweises zur Ergänzungsprüfung zu den universitären Hochschulen.
 
-§ 7.<sup>13</sup> <sup>1</sup> Zum Studium für Lehrkräfte der Primarstufe oder der Kindergarten-Unterstufe wird zugelassen, wer eine der folgenden Voraussetzungen erfüllt:
+<sup>2</sup> Der Äquivalenznachweis gemäss Abs. 1 lit. e und f wird im Rahmen einer Prüfung erbracht. Geprüft werden fachliche Kompetenzen. Der Kanton kann Kurse zur Vorbereitung auf die Prüfung für den Äquivalenznachweis anbieten.
 
-- a. eidgenössisch anerkannte gymnasiale Maturität oder Nachweis einer als gleichwertig anerkannten Vorbildung,
+<sup>3</sup> Wer zum Studium für Lehrkräfte der Sekundarstufe I an der Pädagogischen Hochschule gemäss Abs. 1 zugelassen ist, ist zum Besuch der entsprechenden fachwissenschaftlichen Ausbildung an der Universität berechtigt.
 
-- b. anerkannte Fachmaturität Pädagogik oder Nachweis einer als gleichwertig anerkannten Vorbildung,
+**b. für die Kindergarten- und die Primarstufe (Schuljahre 1 bis 8)**
 
-- c. anerkannte Fachmaturität für ein anderes Berufsfeld als Pädagogik oder eidgenössisch anerkannte Berufsmaturität, wenn vor Studienbeginn eine Ergänzungsprüfung erfolgreich abgelegt wurde,
+§ 7.<sup>20</sup> <sup>1</sup> Zum Studium für Lehrkräfte der Kindergarten- und der Primarstufe wird zudem zugelassen, wer Inhaberin oder Inhaber ist:
 
-- d. erfolgreicher Abschluss eines Aufnahmeverfahrens, bei dem anerkannte Ausbildungsabschlüsse der Sekundarstufe II angemessen zu berücksichtigen sind.
+- a. einer anerkannten Fachmaturität für das Berufsfeld Pädagogik,
 
-<sup>2</sup> Ergänzungsprüfung und Aufnahmeverfahren gemäss Abs. 1 lit. c und d dienen dem Nachweis der Gleichwertigkeit mit der Fachmaturität Pädagogik. Geprüft werden fachliche Kompetenzen.
+- b. eines Abschlusses einer dreijährigen anerkannten Schule der Sekundarstufe II und eines Äquivalenznachweises zur Fachmaturität für das Berufsfeld Pädagogik oder
 
-<sup>3</sup> Der Kanton kann Kurse zur Vorbereitung auf die Ergänzungsprüfung und das Aufnahmeverfahren anbieten.
+- c. eines eidgenössischen Fähigkeitszeugnisses mit mehrjähriger Berufserfahrung und eines Äquivalenznachweises zur Fachmaturität für das Berufsfeld Pädagogik.
+
+<sup>2</sup> Der Äquivalenznachweis gemäss Abs. 1 lit. b und c wird im Rahmen einer Prüfung erbracht. Geprüft werden fachliche Kompetenzen. Der Kanton kann Kurse zur Vorbereitung auf die Prüfung für den Äquivalenznachweis anbieten.
 
 **c. Für die Sekundarstufe I**
 
@@ -126,33 +128,37 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 <sup>4</sup> Die Zulassung zur Pädagogischen Hochschule berechtigt zum Besuch der entsprechenden fachwissenschaftlichen Ausbildung an der Universität.
 
-**Studiengänge für Quereinsteigende**
+**3**
 
-§ 7 b.<sup>17</sup> Voraussetzungen für die Zulassung zu den Studiengängen für Quereinsteigende sind:
+1.10. 23 - 122 § 7 b.<sup>20</sup> Voraussetzungen für die Zulassung zum Studium für Quereinsteigende sind:
+
+**Studium für Quereinsteigende**
 
 - a. vollendetes 30. Altersjahr,
 
-- b. Bachelorabschluss auf Hochschulstufe oder gleichwertige Ausbildung oder für die Kindergartenstufe Zulassungsausweis gemäss § 6,
+- b. Bachelorabschluss auf Hochschulstufe oder gleichwertige Ausbildung,
 
-- c. Berufserfahrung,
+- c. mehrjährige Berufserfahrung,
 
 - d. erfolgreich abgeschlossenes Aufnahmeverfahren.
 
-**3**
-
-- 1\. 4. 20 - 108 § 7 c.<sup>16</sup> Besteht ein Mangel an Lehrkräften der Volksschule, kann der Regierungsrat vorübergehend abweichende Regelungen für die Zulassung zu den Studiengängen für Quereinsteigende festlegen.
-
-#### § 8
-
 **Lehrkräftemangel**
+
+§ 7 c.<sup>16</sup> Besteht ein Mangel an Lehrkräften der Volksschule, kann der Regierungsrat vorübergehend abweichende Regelungen für die Zulassung zu den Studiengängen für Quereinsteigende festlegen.
 
 **Persönliche Voraussetzungen**
 
-<sup>1</sup> Die Zulassung zum Studium setzt einen guten Leumund und Vertrauenswürdigkeit sowie persönliche und gesundheitliche Eignung zum Lehrberuf voraus.
+§ 8.<sup>20</sup> <sup>1</sup> Der Lehrberuf setzt einen guten Leumund und Vertrauenswürdigkeit sowie persönliche und gesundheitliche Eignung voraus.
 
-<sup>2</sup> Fehlen diese Voraussetzungen, kann die Schulleitung die Zulassung zum Studium mit Auflagen verbinden oder ganz verweigern, Studierende einer besonderen Aufsicht unterstellen oder sie vorübergehend oder definitiv vom Studium ausschliessen.<sup>10</sup>
+<sup>2</sup> Fehlen diese Voraussetzungen,
 
-<sup>3</sup> Strafverfahren gegen Studierende infolge eines Verbrechens oder Vergehens sowie Verurteilungen zu Freiheitsstrafen sind der für das Bildungswesen zuständigen Direktion zu melden.
+- a. kann die Zulassung zum Studium mit Auflagen verbunden oder verweigert werden,
+
+- b. können Studierende einer besonderen Aufsicht unterstellt werden,
+
+- c. können Studierende vorübergehend oder endgültig vom Studium ausgeschlossen werden.
+
+<sup>3</sup> Strafverfahren gegen Studierende infolge eines Verbrechens oder Vergehens, Verurteilungen zu Freiheitsstrafen oder eine negative Beurteilung der Eignung zum Lehrberuf sind der für das Bildungswesen zuständigen Direktion zu melden.
 
 ### B. Allgemeines
 
@@ -166,11 +172,9 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 <sup>3</sup> Das Basisstudium dient insbesondere der Eignungsabklärung sowie dem Aufbau beruflicher Grundlagen und schliesst mit einer Prüfung ab. Das Diplomstudium vermittelt vertiefte Kenntnisse und Fähigkeiten.<sup>17</sup>
 
-<sup>4</sup> In den Studiengängen für Quereinsteigende wird die Ausbildung nach dem Basisstudium in der Regel mit einer Lehrtätigkeit an der Volksschule in Teilzeit verbunden.<sup>17</sup>
+<sup>4</sup> In den Studiengängen für Quereinsteigende wird die Ausbildung nach dem Basisstudium in der Regel mit einer Lehrtätigkeit an der Volksschule in Teilzeit verbunden.<sup>17</sup> § 9 a.<sup>16</sup> <sup>1</sup> Die Ausbildung für Lehrkräfte der Sekundarstufe I gliedert sich in ein Bachelor- und ein Masterstudium. Sie wird in der Regel als integrierter Studiengang geführt.
 
 **Besonderheiten für die Sekundarstufe I**
-
-§ 9 a.<sup>16</sup> <sup>1</sup> Die Ausbildung für Lehrkräfte der Sekundarstufe I gliedert sich in ein Bachelor- und ein Masterstudium. Sie wird in der Regel als integrierter Studiengang geführt.
 
 <sup>2</sup> Ein konsekutiver Masterstudiengang wird angeboten für Inhaberinnen und Inhaber a. eines Bachelorabschlusses für die Primarstufe,
 
@@ -212,7 +216,9 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 <sup>4</sup> Sie kann im Einzelfall einer Person die Zulassung zu einer Unterrichtstätigkeit in einem Teilbereich erteilen, sofern sie die für diese Tätigkeit notwendigen Voraussetzungen erfüllt. Die Zulassung kann befristet und provisorisch erteilt sowie mit Auflagen und Bedingungen verbunden werden.<sup>15</sup>
 
-§ 13.<sup>11</sup>
+**5**
+
+1.10. 23 - 122 § 13.<sup>11</sup>
 
 **Berufseinführung**
 
@@ -220,27 +226,25 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 ### C. Ausbildungsgänge
 
-**Lehrkräfte für die Kindergartenstufe**
+**Lehrkräfte a. für die Kindergarten- und die Unterstufe der Primarstufe (Schuljahre 1 bis 5)**
 
-§ 15.<sup>10</sup> Das Diplomstudium umfasst die Bildungsinhalte, welche für die Lehrtätigkeit an der Kindergartenstufe erforderlich sind. Der Bildungsrat legt die Studienfächer gemäss dem Lehrplan der Volksschule fest.
+§ 15.<sup>20</sup> <sup>1</sup> Das Diplomstudium umfasst die Bildungsinhalte, die für die Lehrtätigkeit an der Kindergarten- und der Unterstufe der Primarstufe erforderlich sind.
 
-**5**
+<sup>2</sup> Der Bildungsrat legt auf der Grundlage des Lehrplans der Volksschule die für eine breite Lehrbefähigung erforderlichen obligatorischen und wählbaren Studienfächer fest.
 
-- 1\. 4. 20 - 108 § 15 a.<sup>12</sup> <sup>1</sup> Das Diplomstudium umfasst die Bildungsinhalte, die für die Lehrtätigkeit an der Kindergartenstufe und an der Unterstufe der Primarstufe erforderlich sind.
+§ 15 a.<sup>21</sup>
 
-**Lehrkräfte für die Kindergarten- und die Unterstufe der Primarstufe**
+**b. für die Primarstufe (Schuljahre 3 bis 8)**
 
-<sup>2</sup> Der Bildungsrat legt die Studienfächer gemäss dem Lehrplan der Volksschule fest.
+§ 16.<sup>20</sup> <sup>1</sup> Das Diplomstudium umfasst die Bildungsinhalte, die für die Lehrtätigkeit an der Primarstufe erforderlich sind.
 
-**Lehrkräfte für die Primarstufe**
+<sup>2</sup> Der Bildungsrat legt auf der Grundlage des Lehrplans der Volksschule die für eine breite Lehrbefähigung erforderlichen obligatorischen und wählbaren Studienfächer fest.
 
-§ 16.[^hCAusbildungsgänge-1] <sup>1</sup> Das Diplomstudium umfasst die Bildungsinhalte, welche für die Lehrtätigkeit an der Primarstufe erforderlich sind. Der Bildungsrat legt die Unterrichtsfächer gemäss dem Lehrplan der Volksschule fest. Er bezeichnet die für eine breite Lehrbefähigung notwendigen obligatorischen und frei wählbaren Fächer.
+#### § 17
 
-<sup>2</sup> . . .<sup>18</sup>
+**c. für die Sekundarstufe I (Schuljahre 9 bis 11)20**
 
-**Lehrkräfte für die Sekundarstufe I**
-
-§ 17. <sup>1</sup> Die fachwissenschaftliche Ausbildung findet in der Regel an der Universität statt.[^hCAusbildungsgänge-1]
+<sup>1</sup> Die fachwissenschaftliche Ausbildung findet in der Regel an der Universität statt.<sup>10</sup>
 
 <sup>2</sup> Das Diplomstudium umfasst die Bildungsinhalte, welche für die Lehrtätigkeit als Stufenlehrkraft an der Sekundarstufe I erforderlich sind. Es berücksichtigt die verschiedenen Anforderungsstufen.
 
@@ -250,18 +254,15 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 § 18.<sup>18</sup>
 
-**Lehrkräfte für Sonderklassen**
+**d. für Sonderklassen20**
 
 § 19. <sup>1</sup> Die Ausbildung der Lehrkräfte für Sonderklassen erfolgt an einer Heilpädagogischen Hochschule.
 
 <sup>2</sup> Der Kanton kann mit anderen Kantonen oder Schulträgern Vereinbarungen über die gemeinsame Führung einer Heilpädagogischen Hochschule abschliessen.
 
-**Lehrkräfte für die Sekundarstufe II**
+**e. für die Sekundarstufe II20**
 
-§ 20.<sup>19</sup> Die Ausbildung der Lehrkräfte der Berufsfachschulen richtet sich nach § 3, diejenige der Lehrpersonen der Maturitätsschulen nach § 2 a des Universitätsgesetzes vom 15. März 1998[^hCAusbildungsgänge-2].
-
-[^hCAusbildungsgänge-1]: Fassung gemäss Fachhochschulgesetz vom 2. April 2007 (OS 62, 189; ABl 2006, 268). In Kraft seit 1. August 2007 (OS 62, 271).
-[^hCAusbildungsgänge-2]: LS 415.11.
+§ 20.<sup>19</sup> Die Ausbildung der Lehrkräfte der Berufsfachschulen richtet sich nach § 3, diejenige der Lehrpersonen der Maturitätsschulen nach § 2 a des Universitätsgesetzes vom 15. März 1998<sup>7</sup>.
 
 ### 3. Teil: Weiterbildung
 
@@ -289,19 +290,49 @@ Die Pädagogische Hochschule kann Vorbereitungskurse für die Wiederaufnahme der
 
 ### 4. Teil: Schluss- und Übergangsbestimmungen
 
-[^h4TeilSchlussun-1]: LS 414.415.
-
 #### § 24
 
 **Übergangsbestimmung**
 
-Der Regierungsrat erlässt für die Einführung des Gesetzes eine Übergangsordnung[^h4TeilSchlussun-1].
+Der Regierungsrat erlässt für die Einführung des Gesetzes eine Übergangsordnung<sup>6</sup>.
 
 #### § 25
 
 **Aufhebung bisherigen Rechts**
 
 Das Lehrerbildungsgesetz vom 24. September 1978 wird aufgehoben.
+
+**7**
+
+1.10. 23 - 122
+
+### Übergangsbestimmung zur Änderung vom 28. November 2022
+
+(OS 78, 260)
+
+Studierende, die den Ausbildungsgang Kindergartenstufe vor Inkrafttreten dieser Änderung begonnen haben, schliessen diesen nach bisherigem Recht ab.
+
+<sup>1</sup> OS 56, 99.
+
+<sup>2</sup> In Kraft seit 1. Juli 2002 (OS 57, 233). § 24 in Kraft seit 12. Juli 2000 (OS 56, 167).
+
+<sup>3</sup> ABl 1998, 1107.
+
+<sup>4</sup> LS 410.4.
+
+<sup>5</sup> LS 414.11.
+
+<sup>6</sup> LS 414.415.
+
+<sup>7</sup> LS 415.11.
+
+<sup>8</sup> Fassung gemäss Bildungsgesetz vom 1. Juli 2002 (OS 58, 3; ABl 2001, 885). In Kraft seit 1. Juli 2003 (OS 58, 153).
+
+<sup>9</sup> Fassung gemäss Volksschulgesetz vom 7. Februar 2005 (OS 61, 194; ABl 2005, 412). In Kraft seit 21. August 2006 (OS 61, 219).
+
+<sup>10</sup> Fassung gemäss Fachhochschulgesetz vom 2. April 2007 (OS 62, 189; ABl 2006, 268). In Kraft seit 1. August 2007 (OS 62, 271).
+
+<sup>11</sup> Aufgehoben durch G über die Administrativmassnahmen bei Lehrpersonen an der Volksschule und an den Mittel- und Berufsfachschulen vom 16. Mai 2011 (OS 66, 586; ABl 2010, 2980). In Kraft seit 1. Januar 2012.
 
 <sup>12</sup> Eingefügt durch G vom 4. November 2013 (OS 69, 288; ABl 2013-03-08). In Kraft seit 1. Januar 2015.
 
@@ -319,15 +350,10 @@ Das Lehrerbildungsgesetz vom 24. September 1978 wird aufgehoben.
 
 <sup>19</sup> Fassung gemäss Universitätsgesetz vom 2. September 2019 (OS 75, 122; ABl 2018-06-15). In Kraft seit 1. April 2020.
 
-## Weitere Fussnoten
+<sup>20</sup> Fassung gemäss G vom 28. November 2022 (OS 78, 260; ABl 2022-03-04). In Kraft seit 1. August 2023.
 
-- [1] OS 56, 99.
-- [2] In Kraft seit 1. Juli 2002 (OS 57, 233). § 24 in Kraft seit 12. Juli 2000 (OS 56,
-- [167] .
-- [3] ABl 1998, 1107.
-- [4] LS 410.4.
-- [5] LS 414.11.
-- [8] Fassung gemäss Bildungsgesetz vom 1. Juli 2002 (OS 58, 3; ABl 2001, 885). In Kraft seit 1. Juli 2003 (OS 58, 153).
-- [9] Fassung gemäss Volksschulgesetz vom 7. Februar 2005 (OS 61, 194; ABl 2005,
-- [412] . In Kraft seit 21. August 2006 (OS 61, 219).
-- [11] Aufgehoben durch G über die Administrativmassnahmen bei Lehrpersonen an der Volksschule und an den Mittel- und Berufsfachschulen vom 16. Mai 2011 (OS 66, 586; ABl 2010, 2980). In Kraft seit 1. Januar 2012. 1. 4. 20 - 108 7
+<sup>21</sup> Aufgehoben durch G vom 28. November 2022 (OS 78, 260; ABl 2022-03-04). In Kraft seit 1. August 2023.
+
+**9**
+
+1.10. 23 - 122
