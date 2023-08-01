@@ -3,11 +3,11 @@ sr: "0.975.214.9"
 title: "Accordo del 1° aprile 2006 tra la Confederazione Svizzera e il Regno dell'Arabia Saudita concernente la promozione e la protezione reciproca degli investimenti"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/493"
 language: it
-version: 2008-08-09
+version: 2023-08-02
 adopted: 2006-04-01
 in_force: 2008-08-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/493/20080809/it/xml/fedlex-data-admin-ch-eli-cc-2008-493-20080809-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/493/20080809/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/493/20230802/it/xml/fedlex-data-admin-ch-eli-cc-2008-493-20230802-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/493/20230802/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,18 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/493/20080809/it"
 
 RU **2008** 3711; FF **2006** 7767
 
-Traduzione*[^t-1]*
+Traduzione
 
 Concluso il 1° aprile 2006
 
-Approvato dall’Assemblea federale il 12 giugno 2007[^t-2]
+Approvato dall’Assemblea federale il 12 giugno 2007[^t-1]
 
 Entrato in vigore mediante scambio di note il 9 agosto 2008
 
-(Stato 9 agosto 2008)
+(Stato 2 agosto 2023)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 2008 3709](https://fedlex.data.admin.ch/eli/oc/2008/492)
+[^t-1]: [RU 2008 3709](https://fedlex.data.admin.ch/eli/oc/2008/492)
 
 Preambolo
 
@@ -189,7 +188,7 @@ Se una Parte contraente ha accordato una garanzia finanziaria qualsiasi contro i
 
 <sup>(1)</sup> Il presente Accordo entra in vigore 30 giorni dopo la data in cui le Parti contraenti si sono notificate reciprocamente, per via diplomatica, l’adempimento delle formalità legali richieste per la sua entrata in vigore.
 
-<sup>(2)</sup> Esso ha effetto per un periodo iniziale di dieci anni. Se non è denunciato per scritto con un preavviso di dodici mesi prima dello scadere di tale periodo, è considerato tacitamente rinnovato di volta in volta per una durata di cinque anni, alle stesse condizioni.
+<sup>(2)</sup> Il presente Accordo rimane in vigore fino all’8 agosto 2025 o fino all’entrata in vigore di un nuovo accordo concernente la promozione e la protezione reciproca degli investimenti fra le Parti contraenti, a seconda dell’evento che si verifica per primo.[^12-1]
 
 <sup>(3)</sup> Per quanto concerne gli investimenti effettuati prima della data di scadenza del presente Accordo, le disposizioni degli articoli 1 a 11 rimangono applicabili per un periodo di 15 anni dalla data di scadenza.
 
@@ -198,3 +197,5 @@ Fatto a Riad, il 1<sup>°</sup> aprile 2006, corrispondente al 3 Rabi’I 1427 H
 <table>
 <tr><td>Per il Consiglio federale svizzero: Joseph Deiss</td><td>Per il Governo del Regno dell’Arabia Saudita: Amr A. Al-Dabbagh</td></tr>
 </table>
+
+[^12-1]: Nuovo testo giusta l’art. 1 del prot. del 2 ago. 2023, in vigore dal 2 ago. 2023 ([RU 2023 448](https://fedlex.data.admin.ch/eli/oc/2023/448)).

@@ -3,11 +3,11 @@ sr: "0.975.214.9"
 title: "Accord du 1<sup>er</sup> avril 2006 entre la Confédération suisse et le Royaume d'Arabie saoudite concernant l'encouragement et la protection réciproque des investissements"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/493"
 language: fr
-version: 2008-08-09
+version: 2023-08-02
 adopted: 2006-04-01
 in_force: 2008-08-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/493/20080809/fr/xml/fedlex-data-admin-ch-eli-cc-2008-493-20080809-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/493/20080809/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/493/20230802/fr/xml/fedlex-data-admin-ch-eli-cc-2008-493-20230802-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/493/20230802/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 12 juin 2007[^t-1]
 
 Entré en vigueur par échange de notes le 9 août 2008
 
-(Etat le 9 août 2008)
+(État le 2 août 2023)
 
 [^t-1]: [RO 2008 3709](https://fedlex.data.admin.ch/eli/oc/2008/492)
 
@@ -34,11 +34,11 @@ Le Gouvernement de la Confédération suisse et le Gouvernement du Royaume d’A
 
 (ci-après dénommés les «Parties Contractantes»),
 
-désireux d’intensifier la coopération économique dans l’intérêt mutuel des deux Etats,
+désireux d’intensifier la coopération économique dans l’intérêt mutuel des deux États,
 
 dans l’intention de créer et de maintenir des conditions favorables aux investissements des investisseurs d’une Partie Contractante sur le territoire de l’autre Partie Contractante, et de stimuler ainsi les nouvelles initiatives,
 
-reconnaissant la nécessité d’encourager et de protéger les investissements en vue de promouvoir la prospérité économique des deux Etats,
+reconnaissant la nécessité d’encourager et de protéger les investissements en vue de promouvoir la prospérité économique des deux États,
 
 sont convenus de ce qui suit:
 
@@ -101,13 +101,13 @@ Le présent Accord est applicable aux investissements effectués sur le territoi
 
 **Traitement**
 
-<sup>(1)</sup> Chaque Partie Contractante accordera aux investissements et aux revenus des investisseurs de l’autre Partie Contractante un traitement juste et équitable. Ce traitement ne sera en aucun cas moins favorable que celui qu’elle accorde aux investissements et aux revenus des investisseurs d’un quelconque Etat tiers.
+<sup>(1)</sup> Chaque Partie Contractante accordera aux investissements et aux revenus des investisseurs de l’autre Partie Contractante un traitement juste et équitable. Ce traitement ne sera en aucun cas moins favorable que celui qu’elle accorde aux investissements et aux revenus des investisseurs d’un quelconque État tiers.
 
 <sup>(2)</sup> Une fois admis conformément à ses lois et règlements, chaque Partie Contractante accordera aux investissements et aux revenus des investisseurs de l’autre Partie Contractante un traitement non moins favorable que celui qu’elle accorde aux investissements et aux revenus de ses propres investisseurs.
 
-<sup>(3)</sup> Chaque Partie Contractante accordera sur son territoire aux investisseurs de l’autre Partie Contractante, en ce qui concerne le management, l’entretien, l’utilisation, la jouissance ou l’aliénation de leurs investissements, ainsi que toute autre activité qui leur est associée, un traitement non moins favorable que celui qu’elle accorde à ses propres investisseurs ou aux investisseurs d’un quelconque Etat tiers, le traitement le plus favorable étant déterminant.
+<sup>(3)</sup> Chaque Partie Contractante accordera sur son territoire aux investisseurs de l’autre Partie Contractante, en ce qui concerne le management, l’entretien, l’utilisation, la jouissance ou l’aliénation de leurs investissements, ainsi que toute autre activité qui leur est associée, un traitement non moins favorable que celui qu’elle accorde à ses propres investisseurs ou aux investisseurs d’un quelconque État tiers, le traitement le plus favorable étant déterminant.
 
-<sup>(4)</sup> Si une Partie Contractante accorde des avantages particuliers aux investisseurs d’un Etat tiers en vertu d’un accord établissant une zone de libre-échange, une union douanière ou un marché commun, ou en vertu d’un accord pour éviter la double imposition, elle ne sera pas tenue d’accorder de tels avantages aux investisseurs de l’autre Partie Contractante.
+<sup>(4)</sup> Si une Partie Contractante accorde des avantages particuliers aux investisseurs d’un État tiers en vertu d’un accord établissant une zone de libre-échange, une union douanière ou un marché commun, ou en vertu d’un accord pour éviter la double imposition, elle ne sera pas tenue d’accorder de tels avantages aux investisseurs de l’autre Partie Contractante.
 
 <sup>(5)</sup> Aucune disposition du présent article n’oblige une Partie Contractante à accorder aux investisseurs de l’autre Partie Contractante ou à leurs investissements les avantages fiscaux qu’elle pourrait accorder à ses propres investisseurs locaux ou à leurs investissements.
 
@@ -158,7 +158,7 @@ Si une Partie Contractante a accordé une garantie financière quelconque contre
 
 <sup>(1)</sup> Les différends relatifs aux investissements entre une Partie Contractante et un investisseur de l’autre Partie Contractante seront, dans la mesure du possible, réglés à l’amiable.
 
-<sup>(2)</sup> Si le différend ne peut être réglé conformément à l’al. (1) du présent article dans les six mois à compter de la date de présentation de la demande de règlement, il sera soumis, à la demande de l’investisseur, à la juridiction compétente de la Partie Contractante sur le territoire de laquelle l’investissement a été effectué ou à l’arbitrage selon la Convention pour le règlement des différends relatifs aux investissements entre Etats et ressortissants d’autres Etats[^10-1], ouverte à la signature à Washington le 18 mars 1965.
+<sup>(2)</sup> Si le différend ne peut être réglé conformément à l’al. (1) du présent article dans les six mois à compter de la date de présentation de la demande de règlement, il sera soumis, à la demande de l’investisseur, à la juridiction compétente de la Partie Contractante sur le territoire de laquelle l’investissement a été effectué ou à l’arbitrage selon la Convention pour le règlement des différends relatifs aux investissements entre États et ressortissants d’autres États[^10-1], ouverte à la signature à Washington le 18 mars 1965.
 
 <sup>(3)</sup> Si le différend a été porté devant la juridiction compétente de la Partie Contractante conformément à l’al. (2) du présent article, l’investisseur ne pourra plus le soumettre à l’arbitrage international visé au même alinéa. Le jugement de ladite juridiction sera obligatoire et exécuté conformément aux procédures applicables en la matière selon la législation nationale de la Partie Contractante concernée.
 
@@ -174,11 +174,11 @@ Si une Partie Contractante a accordé une garantie financière quelconque contre
 
 <sup>(2)</sup> Si un différend entre les Parties Contractantes ne peut être réglé dans un délai de six mois à compter de la date à laquelle il a été soulevé par écrit par l’une des Parties Contractantes, il sera soumis, à la demande de l’une ou l’autre Partie Contractante, à un tribunal arbitral.
 
-<sup>(3)</sup> Ce tribunal arbitral sera constitué pour chaque cas particulier de la manière suivante. Dans les deux mois à compter de la réception de la demande d’arbitrage, chaque Partie Contractante désignera un membre du tribunal. Ces deux membres choisiront dans les deux mois un ressortissant d’un Etat tiers qui, avec l’accord des deux Parties Contractantes, sera nommé président du tribunal. L’accord des Parties Contractantes sera donné dans le délai d’un mois.
+<sup>(3)</sup> Ce tribunal arbitral sera constitué pour chaque cas particulier de la manière suivante. Dans les deux mois à compter de la réception de la demande d’arbitrage, chaque Partie Contractante désignera un membre du tribunal. Ces deux membres choisiront dans les deux mois un ressortissant d’un État tiers qui, avec l’accord des deux Parties Contractantes, sera nommé président du tribunal. L’accord des Parties Contractantes sera donné dans le délai d’un mois.
 
 <sup>(4)</sup> Si les désignations nécessaires n’ont pas été effectuées dans les délais fixés à l’al. (3) du présent article, l’une ou l’autre Partie Contractante pourra, en l’absence de tout autre accord, inviter le Président de la Cour Internationale de Justice à procéder aux désignations nécessaires. Si le Président est ressortissant de l’une des Parties Contractantes ou s’il est empêché de remplir ladite fonction pour une autre raison, le Vice-président sera invité à procéder aux désignations nécessaires. Si le Vice-président est ressortissant de l’une des Parties Contractantes ou s’il est empêché de remplir ladite fonction pour une autre raison, le membre le plus ancien de la Cour Internationale de Justice qui n’est ressortissant d’aucune des Parties Contractantes sera invité à procéder aux désignations nécessaires.
 
-<sup>(5)</sup> A moins que les Parties Contractantes n’en disposent autrement, le tribunal fixera ses propres règles de procédure. Il prendra ses décisions à la majorité des voix. Les décisions du tribunal seront définitives et obligatoires pour les Parties Contractantes.
+<sup>(5)</sup> À moins que les Parties Contractantes n’en disposent autrement, le tribunal fixera ses propres règles de procédure. Il prendra ses décisions à la majorité des voix. Les décisions du tribunal seront définitives et obligatoires pour les Parties Contractantes.
 
 <sup>(6)</sup> Chaque Partie Contractante supportera les frais de son propre membre du tribunal et de sa représentation à la procédure d’arbitrage; les frais du président et les frais restants seront répartis à parts égales entre les Parties Contractantes.
 
@@ -188,7 +188,7 @@ Si une Partie Contractante a accordé une garantie financière quelconque contre
 
 <sup>(1)</sup> Le présent Accord entrera en vigueur 30 jours après la date à laquelle les Parties Contractantes se seront notifié par la voie diplomatique que leurs formalités légales requises pour son entrée en vigueur ont été accomplies.
 
-<sup>(2)</sup> Il restera valable pour une période initiale de dix ans. S’il n’est pas dénoncé par écrit avec un préavis de douze mois avant l’expiration de cette période, il sera considéré comme renouvelé aux mêmes conditions pour des périodes successives de cinq ans.
+<sup>(2)</sup> Le présent Accord restera en vigueur jusqu’au 8 août 2025 ou jusqu’à l’entrée en vigueur d’un nouvel accord pour l’encouragement et la protection réciproque des investissements entre les Parties Contractantes, selon quelle date est la plus proche.[^12-1]
 
 <sup>(3)</sup> En ce qui concerne les investissements effectués avant la date d’expiration du présent Accord, les dispositions des art. 1 à 11 continueront de s’appliquer pendant une période supplémentaire de quinze ans à compter de ladite date d’expiration.
 
@@ -197,3 +197,5 @@ Fait à Riyadh, le 1<sup>er</sup> avril 2006, correspondant au 3 Rabi’I 1427 H
 <table>
 <tr><td>Pour le Gouvernement de la Confédération suisse: Joseph Deiss</td><td>Pour le Gouvernement du Royaume d’Arabie saoudite: Amr A. Al-Dabbagh</td></tr>
 </table>
+
+[^12-1]: Nouvelle teneur selon l’art. 1 du Prot. du 2 août 2023, en vigueur depuis le 2 août 2023 ([RO 2023 448](https://fedlex.data.admin.ch/eli/oc/2023/448)).

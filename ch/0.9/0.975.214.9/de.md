@@ -3,11 +3,11 @@ sr: "0.975.214.9"
 title: Abkommen vom 1. April 2006 zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Saudi-Arabien über die Förderung und den gegenseitigen Schutz von Investitionen
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/493"
 language: de
-version: 2008-08-09
+version: 2023-08-02
 adopted: 2006-04-01
 in_force: 2008-08-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/493/20080809/de/xml/fedlex-data-admin-ch-eli-cc-2008-493-20080809-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/493/20080809/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/493/20230802/de/xml/fedlex-data-admin-ch-eli-cc-2008-493-20230802-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/493/20230802/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,18 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/493/20080809/de"
 
 AS **2008** 3711; BBl **2006** 8455
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen am 1. April 2006
 
-Von der Bundesversammlung genehmigt am 12. Juni 2007[^t-2]
+Von der Bundesversammlung genehmigt am 12. Juni 2007[^t-1]
 
 In Kraft getreten durch Notenaustausch am 9. August 2008
 
-(Stand am 9. August 2008)
+(Stand am 2. August 2023)
 
-[^t-1]: Übersetzung des französischen Originaltextes.
-[^t-2]: [AS 2008 3709](https://fedlex.data.admin.ch/eli/oc/2008/492)
+[^t-1]: [AS 2008 3709](https://fedlex.data.admin.ch/eli/oc/2008/492)
 
 Präambel
 
@@ -189,7 +188,7 @@ Hat eine Vertragspartei in Bezug auf eine Investition eines ihrer Investoren auf
 
 <sup>(1)</sup> Dieses Abkommen tritt 30 Tage, nachdem beide Vertragsparteien sich schriftlich auf diplomatischem Wege mitgeteilt haben, dass ihre rechtlichen Erfordernisse für das Inkrafttreten erfüllt sind, in Kraft.
 
-<sup>(2)</sup> Es bleibt in Kraft für eine Anfangsdauer von zehn Jahren. Wird das Abkommen nicht durch eine schriftliche Mitteilung mit einer Frist von zwölf Monaten vor Ablauf dieses Zeitraums gekündigt, so verlängert es sich unverändert um jeweils fünf Jahre.
+<sup>(2)</sup> Dieses Abkommen gilt bis zum 8. August 2025 oder bis zum Inkrafttreten eines neuen Abkommens über die Förderung und den gegenseitigen Schutz von Investitionen zwischen den Vertragsparteien, je nachdem, welcher Zeitpunkt früher ist.[^12-1]
 
 <sup>(3)</sup> Auf Investitionen, die vor dem Zeitpunkt der Beendigung dieses Abkommens getätigt wurden, werden die in den Artikeln 1–11 enthaltenen Bestimmungen während weiteren 15 Jahren ab dem Zeitpunkt der Beendigung dieses Abkommens angewandt.
 
@@ -198,3 +197,5 @@ Geschehen zu Riad am 1. April 2006, entsprechend dem 3. Rabi’I 1427 H, im Dopp
 <table>
 <tr><td>Für den Schweizerischen Bundesrat: Joseph Deiss</td><td>Für die Regierung des Königreichs Saudi-Arabien: Amr A. Al-Dabbagh</td></tr>
 </table>
+
+[^12-1]: Fassung gemäss Art. 1 des Prot. vom 2. Aug. 2023, in Kraft seit 2. Aug. 2023 ([AS 2023 448](https://fedlex.data.admin.ch/eli/oc/2023/448)).
