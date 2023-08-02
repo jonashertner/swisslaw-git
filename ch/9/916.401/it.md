@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2023-01-01
+version: 2023-08-03
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230803/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230803-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 1° gennaio 2023)
+del 27 giugno 1995 (Stato 3 agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -4361,13 +4361,13 @@ Vi è sospetto di PRRS quando:
 - c. i decessi delle scrofe madri aumentano;
 - d. la capacità d’ingrasso scende di oltre il 20 per cento;
 - e. l’analisi sierologica su un animale è risultata positiva; oppure
-- f.[^184-2] per unʼinseminazione artificiale o un trasferimento embrionale sono stati utilizzati sperma, ovuli o embrioni importati.
+- f.[^184-2] per unʼinseminazione artificiale o un trasferimento embrionale sono stati utilizzati seme, ovuli o embrioni importati.
 
-<sup>2</sup> Non vi è sospetto ai sensi del capoverso 1 lettera f se per unʼinseminazione artificiale o un trasferimento embrionale sono stati utilizzati sperma, ovuli o embrioni congelati importati provenienti da un’azienda che è risultata negativa al test del virus di PRRS non prima di 90 giorni dopo il prelievo.[^184-3]
+<sup>2</sup> Non vi è sospetto ai sensi del capoverso 1 lettera f se per unʼinseminazione artificiale o un trasferimento embrionale sono stati utilizzati seme, ovuli o embrioni congelati importati provenienti da un’azienda che è risultata negativa al test del virus di PRRS non prima di 90 giorni dopo il prelievo.[^184-3]
 
 [^184-1]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^184-2]: Introdotta dal n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^184-3]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^184-2]: Introdotta dal n. I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Correzione del 3 ago. 2023 ([RU 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
+[^184-3]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014,([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). ). Correzione del 3 ago. 2023 ([RU 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
 
 #### Art. 185
 
@@ -4384,7 +4384,7 @@ Ordina inoltre i seguenti provvedimenti:
 - c. l’analisi sierologica di un campione rappresentativo di animali di tutte le unità produttive quando nell’effettivo non è emerso alcun problema;
 - d. la messa in evidenza del virus quando il campione rappresentativo (lett. b e c) si compone di animali morti;
 - e. l’eliminazione del seme dei verri risultati positivi all’analisi sierologica;
-- f.[^185-1] lʼanalisi sierologica e la messa in evidenza del virus in un campione rappresentativo di scrofe madri sottoposte a inseminazione artificiale o a trasferimento embrionale per i quali sono stati utilizzati sperma, ovuli o embrioni importati.
+- f.[^185-1] lʼanalisi sierologica e la messa in evidenza del virus in un campione rappresentativo di scrofe madri sottoposte a inseminazione artificiale o a trasferimento embrionale per i quali sono stati utilizzati seme, ovuli o embrioni importati.
 
 <sup>3</sup> La definizione del campione rappresentativo (cpv. 2 lett. b, c e f) avviene in base ai dati dell’effettivo e dopo aver consultato l’USAV.[^185-2]
 
@@ -4392,7 +4392,7 @@ Ordina inoltre i seguenti provvedimenti:
 
 <sup>4</sup> Il veterinario cantonale revoca il sequestro se l’analisi degli animali secondo il capoverso 2 è risultata negativa.
 
-[^185-1]: Introdotta dal n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^185-1]: Introdotta dal n. I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). ). Correzione del 3 ago. 2023 ([RU 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
 [^185-2]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^185-3]: Introdotto dal n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 

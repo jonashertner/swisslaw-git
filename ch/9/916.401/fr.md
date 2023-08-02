@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2023-01-01
+version: 2023-08-03
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230803/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230803-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/fr"
 
 (OFE)
 
-du 27 juin 1995 (État le 1<sup>er</sup> janvier 2023)
+du 27 juin 1995 (État le 3 août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -3081,11 +3081,13 @@ Si le vétérinaire cantonal a accordé des dérogations au sens de l’al. 2, i
 
 <sup>1</sup> La viande et les produits à base de viande de volaille ne peuvent être transportés hors de la zone de protection.
 
-<sup>2</sup> Les œufs de consommation ne peuvent être introduits dans les zones de protection ni transportés hors de ces zones*.*
+<sup>2</sup> Les œufs de consommation ne peuvent être introduits dans les zones ni transportés hors de ces zones*.*[^122c-1]
 
 <sup>3</sup> Le fumier issu des troupeaux qui se trouvent dans les zones de protection ou de surveillance ne peut être épandu que dans la zone correspondante. Une autorisation du vétérinaire officiel est requise pour l’épandage de fumier dans la zone de protection.
 
 <sup>4</sup> Le vétérinaire cantonal peut autoriser des dérogations aux interdictions des al. 1 et 2.
+
+[^122c-1]: Erratum du 3 août 2023 ([RO 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
 
 #### Art. 122d
 
@@ -3733,10 +3735,11 @@ Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme of
 
 La suspicion est considérée comme infirmée dans l’un ou l’autre des cas suivants:
 
-- a. l’animal suspect a été abattu et aucun agent responsable de l’épizootie n’a été mis en évidence; en outre, l’épreuve tuberculinique chez tous les animaux âgés de plus de six semaines a donné un résultat exclusivement négatif;
-- b. deux épreuves tuberculiniques de tous les animaux âgés de plus de six semaines ont donné un résultat négatif; le deuxième examen ne peut être effectué que 42 jours au plus tôt après le premier.[^162-1]
+- a.[^162-1] l’animal suspect a été abattu et aucun agent responsable de l’épizootie n’a été mis en évidence; et que l’épreuve tuberculinique chez tous les animaux âgés de plus de six semaines a donné un résultat exclusivement négatif;
+- b. deux épreuves tuberculiniques de tous les animaux âgés de plus de six semaines ont donné un résultat négatif; le deuxième examen ne peut être effectué que 42 jours au plus tôt après le premier.[^162-2]
 
-[^162-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^162-1]: Erratum du 3 août 2023 ([RO 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
+[^162-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 163
 

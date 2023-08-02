@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2023-01-01
+version: 2023-08-03
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230803/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230803-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2023)
+vom 27. Juni 1995 (Stand am 3. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -606,7 +606,7 @@ Der Equidenpass muss folgende Angaben enthalten:
 
 - e. die Mikrochipnummer;
 - f. den Verwendungszweck gemäss Artikel 3 der Tierarzneimittelverordnung vom 18. August 2004[^15d-5];
-- g. einen Abschnitt für die Erfüllung der Mitteilungspflicht bei Halterwechsel gemäss Artikel 23 der Tierarzneimittelverordnung vom 18. August 2004 und der Gesundheitsmeldung gemäss Artikel 24 der Verordnung vom 23. No-vember 2005[^15d-6] über das Schlachten und die Fleischkontrolle (VSFK);
+- g. einen Abschnitt für die Erfüllung der Mitteilungspflicht bei Halterwechsel gemäss Artikel 23 der Tierarzneimittelverordnung vom 18. August 2004 und der Gesundheitsmeldung gemäss Artikel 24 der Verordnung vom 23. November 2005[^15d-6] über das Schlachten und die Fleischkontrolle (VSFK);
 - h. das Lesesystem, falls dieses nicht der ISO-Norm 11784 entspricht;
 - i. das Datum und den Ort der Ausstellung des Passes, den Namen, die Adresse und die Unterschrift des Ausstellers des Passes.
 
@@ -1652,7 +1652,7 @@ Samen übertragen dürfen Tierärzte sowie Personen, die über eine der Bewillig
 
 Die Person, die eine Besamungsstation, ein Samenlager, ein Trennlabor oder eine andere Anlage zur Samenverarbeitung führt, muss insbesondere folgende Vorgaben erfüllen:
 
-- a. Sie errichtet das Samenlager, die Besamungsstation, das Trennlabor oder eine andere Anlage zur Samenverarbeitung und allfällige dazugehörige Aufzucht-, Warte- und Quarantänestationen an einem seuchenpolizeilich unbedenklichen Standort und getrennt von anderen Tierhaltungen.
+- a. Sie errichtet das Samenlager, die Besamungsstation, das Trennlabor oder eine andere Anlage zur Samenverarbeitung und allfällige dazugehörige Aufzucht‑, Warte- und Quarantänestationen an einem seuchenpolizeilich unbedenklichen Standort und getrennt von anderen Tierhaltungen.
 - b. Sie ermöglicht durch geeignete bauliche Anlagen eine seuchenpolizeilich gefahrlose Samengewinnung, Samenverarbeitung, Samenlagerung und Haltung der Tiere.
 - c. Sie stellt durch betriebliche Vorkehren sicher, dass keine Krankheitskeime verbreitet werden.
 - d. Sie sorgt dafür, dass in Samenlagern mit grenzüberschreitendem Handel nur Samen aus Besamungsstationen oder Samenlagern gelagert wird, die nach Artikel 51 Absatz 3 Buchstabe a bewilligt oder durch die Europäische Union zugelassen sind.
@@ -1665,7 +1665,7 @@ Die Person, die eine Besamungsstation, ein Samenlager, ein Trennlabor oder eine 
 
 **Aufzeichnungspflicht[^55-1]**
 
-<sup>1</sup> Wer Samen gewinnt, verarbeitet, lagert, abgibt oder überträgt, hat darüber Auf-zeichnungen zu führen.[^55-2]
+<sup>1</sup> Wer Samen gewinnt, verarbeitet, lagert, abgibt oder überträgt, hat darüber Aufzeichnungen zu führen.[^55-2]
 
 <sup>1bis</sup>
 
@@ -2977,7 +2977,7 @@ Besteht ein Verdacht auf Schweinepest bei freilebenden Wildschweinen, so trifft 
 Wird die Schweinepest bei freilebenden Wildschweinen festgestellt:
 
 - a.[^121-1] legt das BLV nach Anhören der Kantonstierärzte Initialsperr-, Kontroll- und Beobachtungsgebiete fest und ordnet die notwendigen Untersuchungen an, um die Ausbreitung der Seuche festzustellen;
-- b.[^121-2] erarbeitet das BLV zusammen mit dem BAFU, dem BLW, dem Kantons-tierarzt, den kantonalen Jagd- und Landwirtschaftsbehörden sowie weiteren Fachleuten Massnahmen zur Ausrottung der Seuche;
+- b.[^121-2] erarbeitet das BLV zusammen mit dem BAFU, dem BLW, dem Kantonstierarzt, den kantonalen Jagd- und Landwirtschaftsbehörden sowie weiteren Fachleuten Massnahmen zur Ausrottung der Seuche;
 - c.[^121-3] bestimmt der Kantonstierarzt die genaue Abgrenzung der Kontroll- und Beobachtungsgebiete und ordnet die notwendigen Biosicherheitsmassnahmen zur Vermeidung von Kontakten zwischen Haus- und Wildschweinen an;
 - d.[^121-4] …
 
@@ -3073,11 +3073,13 @@ Hat der Kantonstierarzt Abweichungen nach Absatz 2 bewilligt, so sorgt er für:
 
 <sup>1</sup> Fleisch und Fleischprodukte von Geflügel dürfen nicht aus der Schutzzone verbracht werden.
 
-<sup>2</sup> Konsumeier dürfen nicht in die Zonen oder aus den Zonen verbracht werden*.*
+<sup>2</sup> Konsumeier dürfen nicht in die Zonen oder aus den Zonen verbracht werden*.*[^122c-1]
 
 <sup>3</sup> Mist aus Beständen, die sich in Schutz- oder Überwachungszonen befinden, darf nur in der entsprechenden Zone ausgebracht werden. Für das Ausbringen von Mist in der Schutzzone braucht es eine Bewilligung des amtlichen Tierarztes.
 
 <sup>4</sup> Der Kantonstierarzt kann Ausnahmen von den Verboten nach Absatz 1 und 2 bewilligen.
+
+[^122c-1]: Die Berichtigungen vom 3. Aug. 2023 betreffen nur die französischen und italienischen Texte ([AS 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
 
 #### Art. 122d
 
@@ -4041,7 +4043,7 @@ Der Kantonstierarzt verhängt bei Feststellung von BVD die einfache Sperre 1. Gr
 
 **Viehmärkte und Viehausstellungen**[^174f-1]
 
-Auf Viehmärkten und Viehausstellungen dürfen nur Tiere aufgeführt werden, die aus einer anerkannt BVD-freien Tierhaltung stammen. Ausgenommen sind Schlachtvieh-märkte, wenn sichergestellt ist, dass alle aufgeführten Tiere anschliessend direkt zur Schlachtung gehen.
+Auf Viehmärkten und Viehausstellungen dürfen nur Tiere aufgeführt werden, die aus einer anerkannt BVD-freien Tierhaltung stammen. Ausgenommen sind Schlachtviehmärkte, wenn sichergestellt ist, dass alle aufgeführten Tiere anschliessend direkt zur Schlachtung gehen.
 
 [^174f-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
