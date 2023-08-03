@@ -4,11 +4,11 @@ title: Verordnung vom 1. März 2006 über die militärische Schifffahrt (VMSch)
 short: VMSch
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/150"
 language: de
-version: 2022-06-01
+version: 2023-08-04
 adopted: 2006-03-01
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2006-150-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20230804/de/xml/fedlex-data-admin-ch-eli-cc-2006-150-20230804-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20230804/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/de"
 
 (VMSch)
 
-vom 1. März 2006 (Stand am 1. Juni 2022)
+vom 1. März 2006 (Stand am 4. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -190,9 +190,10 @@ In Militärschiffen dürfen keine Zivilpersonen mitgeführt werden. Ausgenommen 
 
 <sup>1</sup> Angehörige der Armee sowie Teilnehmer und Teilnehmerinnen von Pontonierkursen, die zum Führen von Militärschiffen vorgesehen sind, werden in militärischen Schulen und Kursen beziehungsweise in Kursen der vordienstlichen militärischen Tätigkeit zum militärischen Schiffsführer oder zur militärischen Schiffsführerin ausgebildet.[^10-1]
 
-<sup>2</sup> Der Fahrunterricht wird von Fachpersonal erteilt. Er kann teilweise kollektiv erfolgen.
+<sup>2</sup> Der Fahrunterricht wird von Fachpersonal erteilt. Er kann teilweise kollektiv erfolgen.[^10-2]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^10-2]: Die Berichtigung vom 4. Aug. 2023 betrifft nur den französischen Text ([AS 2023 444](https://fedlex.data.admin.ch/eli/oc/2023/444)).
 
 #### Art. 11
 
@@ -476,7 +477,7 @@ Die Verordnung vom 29. November 1995[^27-1] über den militärischen Schiffsverk
 
 Diese Verordnung tritt am 1. April 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 17)
 
@@ -484,11 +485,11 @@ Anhang 1*[^t-1]*
 
 <sup>2</sup> Das Signal hat einen gelben Grund, Rand und Symbol sind schwarz.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20230804/de/xml/image/image1.png)
 
 [^t-1]: Ursprünglich: Anhang.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 17*a*)
 

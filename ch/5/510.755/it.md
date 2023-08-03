@@ -4,11 +4,11 @@ title: Ordinanza del 1° marzo 2006 sulla navigazione militare (ONM)
 short: ONM
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/150"
 language: it
-version: 2022-06-01
+version: 2023-08-04
 adopted: 2006-03-01
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2006-150-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20230804/it/xml/fedlex-data-admin-ch-eli-cc-2006-150-20230804-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20230804/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/it"
 
 (ONM)
 
-del 1° marzo 2006 (Stato 1° giugno 2022)
+del 1° marzo 2006 (Stato 4 agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -178,6 +178,7 @@ I civili non possono essere presi a bordo di natanti militari. Sono eccettuati i
 - a.[^9-1] partecipano a un’esercitazione militare, a un’attività di servizio della truppa o a manifestazioni premilitari o a manifestazioni militari fuori del servizio;
 - b.[^9-2] devono essere trasportati come visitatori in occasione di esercitazioni militari, giornate delle porte aperte, consegne di bandiere o stendardi, cerimonie di promozione o a manifestazioni premilitari o a manifestazioni militari fuori del servizio;
 - c. partecipano a visite militari organizzate o devono essere trasportati nel quadro di impieghi della truppa autorizzati secondo l’ordinanza del 21 agosto 2013[^9-3] concernente l’appoggio a favore di attività civili o attività fuori del servizio mediante mezzi militari;
+
 - d. devono essere presi a bordo per altre ragioni di servizio o di ordine militare;
 - e. sono presi a bordo in casi d’emergenza o per prestare soccorso.[^9-4]
 
@@ -194,9 +195,10 @@ I civili non possono essere presi a bordo di natanti militari. Sono eccettuati i
 
 <sup>1</sup> I militari e i partecipanti ai corsi per pontonieri previsti per condurre natanti militari sono istruiti come conduttori di natanti militari in scuole e corsi militari, rispettivamente in corsi nell’ambito delle attività premilitari.[^10-1]
 
-<sup>2</sup> Le lezioni di guida sono impartite da personale specializzato e possono aver luogo, in parte, collettivamente.
+<sup>2</sup> Le lezioni di guida sono impartite da personale specializzato e possono aver luogo, in parte, collettivamente.[^10-2]
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^10-2]: La correzione del 4 ago. 2023 concerne soltanto il testo francese ([RU 2023 444](https://fedlex.data.admin.ch/eli/oc/2023/444)).
 
 #### Art. 11
 
@@ -474,7 +476,7 @@ L’ordinanza del 29 novembre 1995[^27-1] sulla navigazione militare è abrogata
 
 La presente ordinanza entra in vigore il 1° aprile 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 17)
 
@@ -482,11 +484,11 @@ Allegato 1*[^t-1]*
 
 <sup>2</sup> Il segnale presenta un fondo giallo; il margine e il simbolo sono neri.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20230804/it/xml/image/image1.png)
 
 [^t-1]: Originario allegato.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 17*a*)
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> mars 2006 concernant la navigation militair
 short: ONM
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/150"
 language: fr
-version: 2022-06-01
+version: 2023-08-04
 adopted: 2006-03-01
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2006-150-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20230804/fr/xml/fedlex-data-admin-ch-eli-cc-2006-150-20230804-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20230804/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/fr"
 
 (ONM)
 
-du 1<sup>er</sup> mars 2006 (Etat le 1<sup>er</sup> juin 2022)
+du 1<sup>er</sup> mars 2006 (État le 4 août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -189,9 +189,10 @@ Les civils ne sont pas autorisés à prendre place à bord de bateaux militaires
 
 <sup>1</sup> Les militaires et les participants aux cours de pontonniers auxquels on prévoit de confier la conduite de bateaux militaires sont formés en qualité de conducteurs de bateaux militaires dans des écoles et lors de cours militaires ainsi que durant des cours d’instruction prémilitaire.[^10-1]
 
-<sup>2</sup> L’enseignement spécialisé leur est dispensé par le personnel spécialisé. Il peut être donné, en partie, de façon collective.
+<sup>2</sup> Le cours de conduite leur est dispensé par le personnel spécialisé. Il peut être donné, en partie, de façon collective.[^10-2]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^10-2]: Erratum du 4 août 2023 ([RO 2023 444](https://fedlex.data.admin.ch/eli/oc/2023/444)).
 
 #### Art. 11
 
@@ -469,7 +470,7 @@ L’ordonnance du 29 novembre 1995 concernant la navigation militaire[^27-1] est
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2006.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 17)
 
@@ -477,11 +478,11 @@ Annexe 1*[^t-1]*
 
 <sup>2</sup> Le fond du signal est jaune, le bord et le symbole sont noirs.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20230804/fr/xml/image/image1.png)
 
 [^t-1]: Anciennement annexe.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 17*a*)
 
