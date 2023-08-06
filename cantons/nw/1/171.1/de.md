@@ -5,12 +5,12 @@ title: Gesetz über Organisation und Verwaltung der Gemeinden
 short: "Gemeindegesetz, GemG"
 language: de
 version: 2018-01-01
-corrected: 2023-06-06
+corrected: 2023-08-07
 version_adopted: 2017-06-28
 adopted: 1974-04-28
 in_force: 1974-04-28
 url: "https://gesetze.nw.ch/app/de/texts_of_law/171.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1129/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1154/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -154,7 +154,7 @@ beschliesst:
 
 **Name, Wappen**
 
-<sup>1</sup> Die Gemeinden führen Ihre bisherigen Namen.
+<sup>1</sup> Die Gemeinden führen ihre bisherigen Namen.
 
 <sup>2</sup> Die politischen Gemeinden führen ihre bisherigen Wappen, die im Anhang festgehalten sind.
 
