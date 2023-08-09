@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la réglementation de l’activité des intermédiaires d’assurance
 document: Projet mis en consultation
 language: fr

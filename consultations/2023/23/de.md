@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Regulierung der Versicherungsvermittlertätigkeit
 document: Vernehmlassungsvorlage
 language: de

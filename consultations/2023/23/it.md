@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza che disciplina l’attività degli intermediari assicurativi
 document: Progetto posto in consultazione
 language: it
