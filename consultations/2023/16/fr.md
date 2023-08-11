@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance du DEFR sur le stockage obligatoire d’aliments et de fourrages
 document: Projet mis en consultation
 language: fr

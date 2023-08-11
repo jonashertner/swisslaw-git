@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza del DEFR concernente la costituzione di scorte obbligatorie di derrate alimentari e alimenti per animali
 document: Progetto posto in consultazione
 language: it

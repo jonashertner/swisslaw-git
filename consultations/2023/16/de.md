@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung des WBF über die Pflichtlagerhaltung von Nahrungs- und Futtermitteln
 document: Vernehmlassungsvorlage
 language: de
