@@ -4,13 +4,13 @@ number: "413.630"
 title: Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt
 short: Abschlussverordnung FMS
 language: de
-version: 2021-08-16
-valid_until: 2023-08-13
+version: 2023-08-14
+valid_until: 2024-08-11
 version_adopted: 2021-05-25
 adopted: 2005-04-05
 in_force: 2005-08-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.630"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5513/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Abschlussverordnung FMS | Mittelschulen
 
 (Abschlussverordnung FMS)
 
-Vom 5. April 2005 (Stand 16. August 2021)
+Vom 5. April 2005 (Stand 14. August 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -117,23 +117,21 @@ beschliesst:
 
 **Prüfungsfächer**
 
-<sup>1</sup> In allen Fachrichtungen werden sechs Fächer geprüft, aus allen vier Lernbereichen «Sprachen», «Mathematik und Naturwissenschaften», «Sozialwissenschaften» sowie «Musische Aktivitäten und Sport» mindestens ein Fach.
+<sup>1</sup> In allen Fachrichtungen werden sechs Fächer geprüft, aus allen fünf Lernbereichen «Sprachen», «Mathematik, Naturwissenschaften, Informatik», «Geistes- und Sozialwissenschaften», «Musische Fächer» und «Sport» mindestens ein Fach.
 
-<sup>2</sup> Die Prüfung umfasst in allen Fachrichtungen: Deutsch, eine weitere mindestens zwei Jahre belegte Sprache, Mathematik, ein berufsfeldbezogenes Fach und zwei weitere Fächer gemäss der nachstehenden Liste.[^8-1]
-
-[^8-1]: § 8 Abs. 2: Liste der Prüfungsfächer im Anhang.
+<sup>2</sup> Die Prüfung umfasst in allen Fachrichtungen: Deutsch, eine weitere mindestens zwei Jahre belegte Sprache, Mathematik, ein berufsfeldbezogenes Fach und zwei weitere Fächer, wovon eines ein weiteres berufsfeldbezogenes Fach gemäss der Liste der Prüfungsfächer im Anhang sein kann.
 
 #### § 9
 
 **Prüfungsart**
 
-<sup>1</sup> Die Fächer Deutsch, Französisch, Englisch, Italienisch, Spanisch, Türkisch und Pädagogik/Psychologie werden schriftlich und mündlich geprüft.
+<sup>1</sup> Die Fächer Deutsch, Französisch, Englisch, Italienisch, Spanisch und Türkisch werden schriftlich und mündlich geprüft.
 
-<sup>2</sup> Die Fächer Mathematik, Anwendungen der Mathematik, Biologie, Ernährungslehre, Gesundheitsfragen, Naturwissenschaftliches Arbeiten, Recht und Gesellschaft (in der Fachrichtung Soziale Arbeit), Visuelle Kommunikation, Betriebswirtschaftslehre und Physik/Chemie werden schriftlich geprüft.
+<sup>2</sup> Die Fächer Anwendungen der Mathematik, Betriebswirtschaftslehre, Biologie, Ernährungslehre, Gesundheitsfragen, Mathematik, Physik/Chemie, Naturwissenschaftliches Arbeiten, Recht und Gesellschaft (in der Fachrichtung Soziale Arbeit), Pädagogik/Psychologie, Umweltbildung und Visuelle Kommunikation werden schriftlich geprüft.
 
-<sup>3</sup> Die Fächer Humanbiologie, Geographie, Geschichte, Kunstbetrachtung, Recht und Gesellschaft (ausser in der Fachrichtung Soziale Arbeit), Psychologie und Philosophie/Ethik werden mündlich geprüft.
+<sup>3</sup> Die Fächer Geografie, Geschichte, Humanbiologie, Kommunikation, Kunstbetrachtung, Philosophie/Ethik, Politische Bildung, Psychologie sowie Recht und Gesellschaft (ausser in der Fachrichtung Soziale Arbeit) werden mündlich geprüft.
 
-<sup>4</sup> Die Fächer Sport, Musik, Tanz, Körper/Stimme/Bewegung, der individuelle Unterricht in Musik oder Tanz oder Theater, Bildnerisches Gestalten, Grafisches Gestalten, Räumliches Gestalten, Textiles Gestalten, Bildnerisches/Räumliches Gestalten, Film, Medienwissen und Programmieren werden praktisch geprüft.
+<sup>4</sup> Die Fächer Bildnerisches Gestalten, Bildnerisches/Räumliches Gestalten, Film, Fotografie, Grafisches Gestalten, Informatikprojekte, Körper/Stimme/Bewegung, Medienwissen, Musik, Räumliches Gestalten, Sport, Tanz, Textiles Gestalten, Theater Werkstatt, Trainingslehre sowie der individuelle Unterricht in Musik oder Tanz oder Theater werden praktisch geprüft.
 
 <sup>5</sup> Schriftliche Prüfungen werden unter ständiger Aufsicht geschrieben.
 
