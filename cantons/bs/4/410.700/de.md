@@ -4,13 +4,13 @@ number: "410.700"
 title: Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 short: "Schullaufbahnverordnung, SLV"
 language: de
-version: 2022-08-15
-valid_until: 2023-08-13
-version_adopted: 2022-12-13
+version: 2023-08-14
+valid_until: 2024-01-17
+version_adopted: 2023-06-06
 adopted: 2012-09-11
 in_force: 2013-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5761/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5939/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schullaufbahnverordnung | Schulen
 
 (Schullaufbahnverordnung, SLV)
 
-Vom 11. September 2012 (Stand 15. August 2022)
+Vom 11. September 2012 (Stand 14. August 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -601,14 +601,11 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> In der WMS werden die Schülerinnen und Schüler in das nächste Semester befördert, wenn im Zeugnis die folgenden Voraussetzungen erfüllt sind:
 
-- a) in den unterrichteten Berufsmaturitätsfächern:
+- a) in den unterrichteten Berufsmaturitätsfächern, SOG+-Fächern und im Fach IKT:
   - aa) der Durchschnitt aller Zeugnisnoten ergibt mindestens 4,0;
   - ab) die Summe aller Notenabweichungen von 4,0 nach unten übersteigt nicht den Wert 2; und
-  - ac) es sind nicht mehr als zwei Noten unter 4,0.
-- b) in den unterrichteten Fächern, die ganz oder teilweise nur fürs EFZ zählen sowie den SOG+-Fächern:
-  - ba) der Durchschnitt aller Zeugnisnoten ergibt mindestens 4,0;
-  - bb) die Summe aller Notenabweichungen von 4,0 nach unten übersteigt nicht den Wert 1;
-  - bc) es ist nicht mehr als eine Note unter 4,0.
+  - ac) es sind nicht mehr als drei Noten unter 4,0, davon nicht mehr als zwei Noten in den unterrichteten Berufsmaturitätsfächern.
+- b) …
 
 <sup>1<sup>ter</sup></sup> Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung absolvieren (BM 2), müssen zusätzlich bis zu dem von der Schulleitung festgelegten Stichtag pro Unterrichtsfach mindestens 80% der Unterrichtslektionen des Semesters besucht haben.
 
