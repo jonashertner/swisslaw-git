@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2022-11-16
+version: 2023-08-15
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20221116/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20221116-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20221116/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230815/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230815-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230815/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 16. November 2022)
+vom 16. März 2022 (Stand am 15. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -818,8 +818,8 @@ Anhang 13[^t-2]
 
 [^annex13-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)) und vom 15. Nov. 2022, in Kraft seit 16. Nov. 2022 um 18.00 Uhr ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)).
-[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/679](https://fedlex.data.admin.ch/eli/oc/2022/679) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) und vom 14. Aug. 2023, in Kraft seit 15. Aug. 2023 um 18.00 Uhr (AS **202****3** 449).
+[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/449](https://fedlex.data.admin.ch/eli/oc/2023/449) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14
 
