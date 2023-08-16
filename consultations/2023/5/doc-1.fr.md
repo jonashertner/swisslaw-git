@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision du droit d’exécution de la loi fédérale relative à la recherche sur l’être humain
 document: Projet mis en consultation-5
 language: fr

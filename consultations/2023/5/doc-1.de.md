@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision des Ausführungsrechts zum Bundesgesetz über die Forschung am Menschen
 document: Vernehmlassungsvorlage-5
 language: de

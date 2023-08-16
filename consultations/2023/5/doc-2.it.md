@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale delle ordinanze relative alla legge federale concernente la ricerca sull’essere umano
 document: Progetto posto in consultazione-4
 language: it
