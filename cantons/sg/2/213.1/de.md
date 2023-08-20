@@ -5,12 +5,12 @@ title: Volksschulgesetz
 short: VSG
 language: de
 version: 2023-03-01
-valid_until: 2024-08-11
+corrected: 2023-08-21
 version_adopted: 2023-01-24
 adopted: 1983-01-13
 in_force: 1983-04-16
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3534/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3533/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1423,12 +1423,9 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Eine Rekursstelle Volksschule besteht aus fünf nebenamtlich tätigen Mitgliedern. Wenigstens ein Mitglied verfügt über ein juristisches Studium mit Lizentiats- oder Master-Abschluss nach Art. 7 Abs. 1 Bst. a des eidgenössischen Anwaltsgesetzes vom 23. Juni 2000[^110bis-1].
 
-<sup>2<sup>bis</sup></sup> Die Amtsdauer beginnt am 1. September des Jahres, in dem die kantonale Amtsdauer nach dem Gesetz über die Amtsdauer vom 8. Januar 2004[^110bis-2] beginnt, und beträgt vier Jahre.
-
 <sup>3</sup> Die Amtszeit endet spätestens mit Vollendung des 70. Altersjahres.
 
 [^110bis-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de).
-[^110bis-2]: sGS [117.1](https://www.gesetzessammlung.sg.ch/data/117.1/de).
 
 #### Art. 110ter
 
