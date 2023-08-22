@@ -3,20 +3,20 @@ canton: AG
 number: "681.121"
 title: Geschäfts- und Organisationsreglement der Aargauischen Kantonalbank
 language: de
-version: 2020-04-01
-valid_until: 2023-08-22
-version_adopted: 2020-03-23
+version: 2023-08-23
+valid_until: 2025-04-01
+version_adopted: 2023-08-23
 adopted: 2008-04-03
 in_force: 2008-08-27
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/681.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3093/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäfts- und Organisationsreglement der Aargauischen Kantonalbank
 
-Vom 03.04.2008 (Stand 01.04.2020)
+Vom 03.04.2008 (Stand 23.08.2023)
 
 Der Bankrat der Aargauischen Kantonalbank,
 
@@ -140,7 +140,9 @@ erlässt das folgende Geschäfts- und Organisationsreglement:
 
 <sup>2</sup> Der Bankrat bestimmt in separaten Reglementen die Verfahren der Ausschüsse und sorgt für eine angemessene Berichterstattung an seine Mitglieder.
 
-<sup>3</sup> Die Gesamtverantwortung für die an Ausschüsse oder einzelne Mitglieder übertragenen Aufgaben verbleibt mit Ausnahme der Entscheidbefugnisse der Präsidentin oder des Präsidenten des Bankrats bei Dringlichkeit beim Bankrat.
+<sup>2<sup>bis</sup></sup> Der Bankrat kann für dringliche Spezialfälle aus seiner Mitte einen ad hoc Ausschuss mit Entscheidkompetenzen einsetzen.
+
+<sup>3</sup> Die Gesamtverantwortung für die an Ausschüsse oder einzelne Mitglieder übertragenen Aufgaben verbleibt mit Ausnahme der Entscheidbefugnisse der Präsidentin oder des Präsidenten des Bankrats oder eines ad hoc-Ausschusses mit Entscheidkompetenz bei Dringlichkeit beim Bankrat.
 
 #### § 10
 
@@ -201,6 +203,8 @@ erlässt das folgende Geschäfts- und Organisationsreglement:
 <sup>1</sup> Die Mitglieder der Geschäftsleitung sind im Rahmen der vom Bankrat festgelegten Kompetenzordnung und Strategie für die Führung ihres Geschäftsbereichs verantwortlich. Die Sitze sind ihnen fachbereichsspezifisch unterstellt.
 
 <sup>2</sup> Die Geschäftsleitung bestimmt auf Antrag des jeweiligen Mitglieds dessen Stellvertretung.
+
+<sup>3</sup> Der Bankrat kann für dringliche Spezialfälle einen ad hoc Ausschuss der Geschäftsleitung einsetzen.
 
 #### § 15
 
