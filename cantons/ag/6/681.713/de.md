@@ -3,24 +3,23 @@ canton: AG
 number: "681.713"
 title: Reglement über die Vergütung der Geschäftsleitung der Aargauischen Kantonalbank
 language: de
-version: 2018-11-15
-valid_until: 2023-08-22
-version_adopted: 2018-11-15
+version: 2023-08-23
+version_adopted: 2023-08-23
 adopted: 2015-11-19
 in_force: 2016-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/681.713"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2689/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Vergütung der Geschäftsleitung der Aargauischen Kantonalbank
 
-Vom 19.11.2015 (Stand 15.11.2018)
+Vom 19.11.2015 (Stand 23.08.2023)
 
 Der Bankrat der Aargauischen Kantonalbank,
 
-gestützt auf die §§ 11 und 14 des Gesetzes über die Aargauische Kantonalbank (AKBG) vom 27. März 2007[^ingress-1], § 10 des Reglements über die Corporate Governance vom 3. April 2008 und § 2 lit. c und d des Personalreglements vom 3. April 2008[^ingress-2]
+gestützt auf die §§ 11 und 14 des Gesetzes über die Aargauische Kantonalbank (AKBG) vom 27. März 2007[^ingress-1], § 10 des Reglements über die Corporate Governance vom 3. April 2008 (Stand 23. August 2023) und § 2 lit. c und d des Personalreglements vom 3. April 2008[^ingress-2],
 
 erlässt folgendes Reglement:
 
@@ -31,7 +30,9 @@ erlässt folgendes Reglement:
 
 **Grundsätze und Nebenleistungen**
 
-<sup>1</sup> Als Bruttolohn gelten allfällige von der Bank zu bewertende nicht geldmässige Leistungen und das (feste und variable) Salär ohne die Arbeitgeber-Vorsorgebeiträge.
+<sup>1</sup> Als Bruttolohn der Mitglieder der Geschäftsleitung gelten das feste und allfällige variable Salär ohne die Arbeitgeber-Vorsorgebeiträge sowie allfällige von der Bank zu bewertende nicht geldmässige Leistungen. Dieser übersteigt insgesamt nicht das Doppelte des jeweiligen Bruttolohns eines Mitglieds des Regierungsrats.
+
+<sup>1<sup>bis</sup></sup> Grundlage für die Berechnung und Auszahlung eines variablen Salärs bilden die generellen Kriterien gemäss Bonusreglement für die Gesamtbank sowie der Erfüllungsgrad der Ziele der Gesamtbank und Geschäftsleitungsbereiche. Ein Rechtsanspruch auf ein variables Salär besteht nicht.
 
 <sup>2</sup> Die Mitglieder der Geschäftsleitung erhalten keine Abgangs- oder andere Entschädigung, keine Vergütung im Voraus, keine Prämie für Käufe und Verkäufe von anderen Gesellschaften und keinen zusätzlichen Berater- oder Arbeitsvertrag von einer anderen Gesellschaft der Gruppe.
 
@@ -47,9 +48,9 @@ erlässt folgendes Reglement:
 
 <sup>1</sup> Der Bankrat beschliesst auf Antrag seines Personal- und Vergütungsausschusses die nachfolgenden Punkte:
 
-- a) das feste Salär der oder des Vorsitzenden und der übrigen Mitglieder der Geschäftsleitung; er überprüft dieses periodisch;
+- a) das feste Salär der Mitglieder der Geschäftsleitung; er überprüft dieses periodisch;
 - b) den Anteil der Geschäftsleitung an der gemäss Bonusreglement ermittelten jährlichen Bonusgesamtsumme für die Gesamtbank;
-- c) die Festlegung und Beurteilung der individuellen jährlichen quantitativen und qualitativen Ziele der Mitglieder der Geschäftsleitung;
+- c) die Festlegung und Beurteilung der jährlichen quantitativen und qualitativen Ziele der Gesamtbank und Geschäftsleitungsbereiche;
 - d) das allfällige variable Salär der Mitglieder der Geschäftsleitung.
 
 <sup>2</sup> Der Bankrat legt dem Regierungsrat die Gesamtvergütung der Geschäftsleitung sowie die Vergütung der oder des Vorsitzenden der Geschäftsleitung zur Genehmigung vor.
@@ -58,7 +59,7 @@ erlässt folgendes Reglement:
 
 **Die oder der Vorsitzende der Geschäftsleitung**
 
-<sup>1</sup> Der Bruttolohn der oder des Vorsitzenden der Geschäftsleitung besteht aus einem festen Salär sowie allenfalls aus einem variablen Salär und übersteigt insgesamt nicht das Doppelte des Bruttolohns eines Mitglieds des Regierungsrats.
+<sup>1</sup> …
 
 <sup>2</sup> Die oder der Vorsitzende der Geschäftsleitung beantragt dem Personal- und Vergütungsausschuss des Bankrats das feste und das variable Salär der übrigen Mitglieder der Geschäftsleitung.
 
@@ -66,13 +67,13 @@ erlässt folgendes Reglement:
 
 **Die übrigen Mitglieder der Geschäftsleitung**
 
-<sup>1</sup> Das feste Salär der übrigen Mitglieder der Geschäftsleitung beträgt je nach Funktion zwischen der Hälfte und drei Vierteln des maximal zulässigen Bruttolohns des Vorsitzenden der Geschäftsleitung.
+<sup>1</sup> Das feste Salär der übrigen Mitglieder der Geschäftsleitung beträgt höchstens drei Viertel des maximal zulässigen Bruttolohns des Vorsitzenden der Geschäftsleitung.
 
-<sup>2</sup> Den übrigen Mitgliedern der Geschäftsleitung kann ein variables Salär von bis zu einem Drittel des Bruttolohns des Vorsitzenden der Geschäftsleitung ausgerichtet werden. Deren Bruttolohn übersteigt insgesamt nicht das Doppelte des Bruttolohns eines Mitglieds des Regierungsrats.
+<sup>2</sup> Den übrigen Mitgliedern der Geschäftsleitung kann ein variables Salär von bis zur Hälfte des Bruttolohns des Vorsitzenden der Geschäftsleitung ausgerichtet werden.
 
-<sup>3</sup> Die vorgegebenen individuellen quantitativen und qualitativen Ziele können bei der Bemessung der Höhe des variablen Salärs je nach Funktion der übrigen Mitglieder der Geschäftsleitung unterschiedlich gewichtet werden.
+<sup>3</sup> …
 
-<sup>4</sup> Grundlage für die Berechnung und Auszahlung des variablen Salärs bilden die generellen Kriterien gemäss Bonusreglement für die Gesamtbank sowie der Erfüllungsgrad der individuellen Ziele. Ein Rechtsanspruch auf ein variables Salär besteht nicht.
+<sup>4</sup> …
 
 #### § 5
 
@@ -84,7 +85,7 @@ erlässt folgendes Reglement:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Für Mitglieder der Geschäftsleitung, welche sich im Zeitpunkt des Inkrafttretens im gekündigten Arbeitsverhältnis befinden, gelangen die Änderungen vom 19. Juli 2018 nicht mehr zur Anwendung. Deren Bruttolohn übersteigt in keinem Fall das Doppelte des Bruttolohns eines Mitglieds des Regierungsrats.
+<sup>1</sup> …
 
 <sup>2</sup> …
 
