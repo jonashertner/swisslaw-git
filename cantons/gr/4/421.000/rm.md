@@ -5,12 +5,12 @@ title: Lescha davart las scolas popularas dal chantun Grischun
 short: lescha da scola
 language: rm
 version: 2021-03-01
-valid_until: 2024-12-31
+corrected: 2023-08-23
 version_adopted: 2020-10-19
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3336/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3146/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -578,7 +578,7 @@ concluda:
 
 <sup>2</sup> Sche las relaziuns sa midan en moda essenziala, po il departament revocar la retratga.
 
-<sup>3</sup> Il departament communitgescha al secretariat general da la Conferenza da las directuras e dals directurs chantunals da l'educaziun publica (CDEP) la retratga e la reconcessiun da la permissiun d'instruir.
+<sup>3</sup> Il departament communitgescha al secretariat general da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica (CDEP) la retratga e la reconcessiun da la permissiun d'instruir.
 
 #### Art. 59
 

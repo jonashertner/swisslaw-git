@@ -5,12 +5,12 @@ title: Legge per le scuole popolari del Cantone dei Grigioni
 short: Legge scolastica
 language: it
 version: 2021-03-01
-valid_until: 2024-12-31
+corrected: 2023-08-23
 version_adopted: 2020-10-19
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3336/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3146/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -576,7 +576,7 @@ decide:
 
 <sup>2</sup> In caso di sostanziali cambiamenti della situazione, il Dipartimento può annullare la revoca.
 
-<sup>3</sup> Il Dipartimento comunica al Segretariato generale della Conferenza delle direttrici e dei direttori cantonali della pubblica educazione (CDPE) la revoca e la nuova concessione del diritto all'insegnamento.
+<sup>3</sup> Il Dipartimento comunica al Segretariato generale della Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE) la revoca e la nuova concessione del diritto all'insegnamento.
 
 #### Art. 59
 

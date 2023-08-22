@@ -5,12 +5,12 @@ title: Gesetz für die Volksschulen des Kantons Graubünden
 short: Schulgesetz
 language: de
 version: 2021-03-01
-valid_until: 2024-12-31
+corrected: 2023-08-23
 version_adopted: 2020-10-19
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3336/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3146/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -578,7 +578,7 @@ beschliesst:
 
 <sup>2</sup> Bei wesentlicher Änderung der Verhältnisse kann das Departement den Entzug widerrufen.
 
-<sup>3</sup> Das Departement meldet dem Generalsekretariat der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) den Entzug und die Wiedereinräumung der Unterrichtsberechtigung.
+<sup>3</sup> Das Departement meldet dem Generalsekretariat der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) den Entzug und die Wiedereinräumung der Unterrichtsberechtigung.
 
 #### Art. 59
 
