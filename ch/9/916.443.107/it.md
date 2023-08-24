@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordinanza dell’USAV del 6 agosto 2021 che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: it
-version: 2023-07-21
+version: 2023-08-25
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20230721/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20230721-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20230721/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20230825/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20230825-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20230825/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia
 
-del 6 agosto 2021 (Stato 21 luglio 2023)
+del 6 agosto 2021 (Stato 25 agosto 2023)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -64,8 +64,8 @@ L’importazione di animali vivi e prodotti di origine animale di cui all’arti
 
 <sup>2</sup> L’importazione di cinghiali vivi provenienti dall’intero territorio degli Stati membri dell’UE, dell’Islanda e della Norvegia è vietata.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 19 lug. 2023, in vigore dal 21 lug. 2023 ([RU 2023 400](https://fedlex.data.admin.ch/eli/oc/2023/400)).
-[^2-2]: Regolamento di esecuzione (UE) 2023/594 della Commissione, del 16 marzo 2023, che stabilisce misure speciali di controllo delle malattie per la peste suina africana e abroga il regolamento di esecuzione (UE) 2021/605, GU L 79 del 17.3.2023, pag. 65; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1407, GU L 170 del 5.7.2023, pag. 3.
+[^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 23 ago. 2023, in vigore dal 25 ago. 2023 ([RU 2023 467](https://fedlex.data.admin.ch/eli/oc/2023/467)).
+[^2-2]: Regolamento di esecuzione (UE) 2023/594 della Commissione, del 16 marzo 2023, che stabilisce misure speciali di controllo delle malattie per la peste suina africana e abroga il regolamento di esecuzione (UE) 2021/605, GU L 79 del 17.3.2023, pag. 65; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1590, GU L 195 del 3.8.2023, pag. 4.
 [^2-3]: Regolamento delegato (UE) 2020/687 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla prevenzione e al controllo di determinate malattie elencate; modificato dal regolamento delegato (UE) 2021/1140, GU L 247 del 13.7.2021, pag. 50
 
 #### Art. 3
@@ -133,11 +133,11 @@ La presente ordinanza entra in vigore il 10 agosto 2021.
 
 Allegato[^t-1]
 
-(art. 3 e 5)
+(art. 3)
 
 ## Stati membri e zone interessati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 19 lug. 2023, in vigore dal 21 lug. 2023 ([RU 2023 400](https://fedlex.data.admin.ch/eli/oc/2023/400)).
+[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 23 ago. 2023, in vigore dal 25 ago. 2023 ([RU 2023 467](https://fedlex.data.admin.ch/eli/oc/2023/467)).
 
 ### 1 Zone soggette a restrizioni e zone infette disciplinate secondo il regolamento di esecuzione (UE) 2023/594
 
@@ -145,7 +145,7 @@ Gli Stati membri dell’UE e le relative zone soggette a restrizioni e zone infe
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Regolamento di esecuzione (UE) 2023/594</td><td>Regolamento di esecuzione (UE) 2023/594 della Commissione, del 16 marzo 2023, che stabilisce misure speciali di controllo delle malattie per la peste suina africana e abroga il regolamento di esecuzione (UE) 2021/605, GU L 79 del 17.3.2023, pag. 65; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1407, GU L 170 del 5.7.2023, pag. 3</td></tr>
+<tr><td>Regolamento di esecuzione (UE) 2023/594</td><td>Regolamento di esecuzione (UE) 2023/594 della Commissione, del 16 marzo 2023, che stabilisce misure speciali di controllo delle malattie per la peste suina africana e abroga il regolamento di esecuzione (UE) 2021/605, GU L 79 del 17.3.2023, pag. 65; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1590, GU L 195 del 3.8.2023, pag. 4</td></tr>
 </table>
 
 ### 1.1 Zone soggette a restrizioni disciplinate secondo l’allegato I del regolamento di esecuzione (UE) 2023/594
@@ -210,6 +210,8 @@ Nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni III:
 
 Bulgaria
 
+Estonia
+
 Germania
 
 Grecia
@@ -235,13 +237,17 @@ Nell’allegato II del regolamento di esecuzione (UE) 2023/594, determinate zone
 
 Nei seguenti Stati membri dell’UE vi sono zone infette:
 
+Croazia
+
 Italia
 
 ### Stati membri con zone soggette a restrizioni
 
 Nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni:
 
-Italia
+Croazia
+
+Grecia
 
 ### 2 Zone infette e zone soggette a restrizioni secondo il regolamento delegato (UE) 2020/687
 
@@ -253,9 +259,4 @@ Non vi sono Stati membri dell’UE con zone infette secondo il regolamento deleg
 
 ### 2.2 Zone soggette a restrizioni
 
-Gli Stati membri dell’UE con zone soggette a restrizioni secondo il regolamento delegato (UE) 2020/687 ubicate al di fuori delle zone di cui al numero 1 sono stabiliti nella seguente decisione di esecuzione:
-
-<table>
-<tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2023/1422</td><td>Decisione di esecuzione (UE) 2023/1422 della Commissione del 3 luglio 2023 relativa ad alcune misure di emergenza provvisorie contro la peste suina africana in Croazia, versione della GU L 174 del 7.7.2023, pag. 12.</td></tr>
-</table>
+Non vi sono Stati membri dell’UE con zone soggette a restrizioni secondo il regolamento delegato (UE) 2020/687 ubicate al di fuori delle zone di cui al numero 1.
