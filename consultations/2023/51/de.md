@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderungen der Winterreserveverordnung
 document: Vernehmlassungsvorlage
 language: de

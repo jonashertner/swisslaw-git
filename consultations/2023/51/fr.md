@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifications de l’ordonnance sur une réserve d’hiver
 document: Projet mis en consultation
 language: fr
