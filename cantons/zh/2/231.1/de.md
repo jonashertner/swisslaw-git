@@ -5,10 +5,10 @@ title: Kantonale Zivilstandsverordnung (ZVO)
 short: ZVO
 language: de
 version: "2023-07-01"
-nachtrag: "121"
-valid_until: 2023-08-25
+nachtrag: "122"
+valid_until: 2025-01-01
 adopted: 2004-12-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-231_1-2004_12_01-2005_01_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-231_1-2004_12_01-2005_01_01-122.html"
 text: pdf
 ---
 
@@ -60,9 +60,13 @@ beschliesst:
 
 § 2.[^hBGeschäftsbetrieb-1] <sup>1</sup> Die Sitzgemeinde des Zivilstandsamtes sorgt für zweckdienliche Räumlichkeiten zur Ausübung der zivilstandsamtlichen Tätigkeiten.
 
-<sup>2</sup> Die Sitzgemeinde des Zivilstandsamtes stellt für Trauungen und für die Beurkundung von eingetragenen Partnerschaften unentgeltlich mindestens ein Lokal zur Verfügung. Daneben kann sie weitere Lokale festlegen und deren Benützung gegen Entgelt vorsehen.
+<sup>2</sup> Die Sitzgemeinde des Zivilstandsamtes stellt für Trauungen und zeremonielle Umwandlungen von eingetragenen Partnerschaften in Ehen unentgeltlich mindestens ein Lokal zur Verfügung. Daneben kann sie weitere Lokale festlegen und deren Benützung gegen Entgelt vorsehen.
 
-<sup>3</sup> Lokale für Trauungen und für die Beurkundung von eingetragenen Partnerschaften sind a. dem Anlass würdig,
+**1**
+
+1.10. 23 - 122
+
+<sup>3</sup> Lokale für Trauungen und zeremonielle Umwandlungen von eingetragenen Partnerschaften in Ehen sind a. dem Anlass würdig,
 
 - b. für alle Paare zu den gleichen Bedingungen benutzbar,
 
@@ -70,21 +74,16 @@ beschliesst:
 
 - d. für Personen mit Behinderung geeignet.
 
-**1**
-
-- 1\. 7. 23 - 121
-
-<sup>4</sup> Die Sitzgemeinde des Zivilstandsamtes meldet dem Gemeindeamt die Lokale für Trauungen und für die Beurkundung von eingetragenen Partnerschaften vor ihrer Benützung.
+<sup>4</sup> Die Sitzgemeinde des Zivilstandsamtes meldet dem Gemeindeamt die Lokale für Trauungen und zeremonielle Umwandlungen von eingetragenen Partnerschaften in Ehen vor ihrer Benützung.
 
 **Öffnungszeiten**
 
-§ 3.[^hBGeschäftsbetrieb-1] <sup>1</sup> Das Zivilstandsamt legt im Einvernehmen mit dem Gemeindevorstand[^hBGeschäftsbetrieb-2] die Öffnungszeiten des Zivilstandsamtes und die Zeiten fest, während denen Ehepaare getraut und eingetragene Partnerschaften beurkundet werden. Das Zivilstandsamt macht die Zeiten bekannt.
+§ 3.[^hBGeschäftsbetrieb-1] <sup>1</sup> Das Zivilstandsamt legt im Einvernehmen mit dem Gemeindevorstand die Öffnungszeiten des Zivilstandsamtes und die Zeiten fest, während deren Trauungen und zeremonielle Umwandlungen von eingetragenen Partnerschaften in Ehen vorgenommen werden. Das Zivilstandsamt macht die Zeiten bekannt.
 
-<sup>2</sup> An Sonn- und allgemeinen Feiertagen sowie an lokalen Feiertagen der Sitzgemeinde des Zivilstandsamtes werden keine Trauungen oder Beurkundungen von eingetragenen Partnerschaften vorgenommen. Davon ausgenommen sind Nottrauungen nach Art. 62 Abs. 3 der eidgenössischen Zivilstandsverordnung 28. April 2004 (ZStV)[^hBGeschäftsbetrieb-3] und Notbeurkundungen nach Art. 75 a Abs. 3 ZStV.
+<sup>2</sup> An Sonn- und allgemeinen Feiertagen sowie an lokalen Feiertagen der Sitzgemeinde des Zivilstandsamtes werden keine Trauungen oder zeremonielle Umwandlungen von eingetragenen Partnerschaften in Ehen vorgenommen. Davon ausgenommen sind Nottrauungen nach Art. 62 Abs. 3 der eidgenössischen Zivilstandsverordnung vom 28.April 2004 (ZStV)[^hBGeschäftsbetrieb-2].
 
-[^hBGeschäftsbetrieb-1]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
-[^hBGeschäftsbetrieb-2]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
-[^hBGeschäftsbetrieb-3]: SR 211.112.2.
+[^hBGeschäftsbetrieb-1]: Fassung gemäss RRB vom 1. März 2023 (OS 78, 306; ABl 2023-03-10). In Kraft seit 1. Juli 2022.
+[^hBGeschäftsbetrieb-2]: SR 211.112.2.
 
 #### § 4
 
@@ -186,7 +185,7 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 **3**
 
-- 1\. 7. 23 - 121
+1.10. 23 - 122
 
 [^11-1]: Aufgehoben durch RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 [^11-2]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
@@ -196,9 +195,17 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 #### § 13
 
+**Kosten29**
+
 <sup>1</sup> Die Gemeinden tragen sämtliche Kosten ihres Zivilstandsamtes, einschliesslich die Kosten der obligatorisch erklärten Aus- und Weiterbildung.
 
 <sup>2</sup> Der Kanton belastet den Zivilstandskreisen die ihm anfallenden Kosten für die zentrale Datenbank nach Massgabe der Bevölkerungszahl der Zivilstandskreise.
+
+**Gebührenfreiheit**
+
+§ 13 a.[^13-1] Für die Entgegennahme einer Erklärung über die Umwandlung der eingetragenen Partnerschaft in eine Ehe wird keine Gebühr erhoben.
+
+[^13-1]: Eingefügt durch RRB vom 1. März 2023 (OS 78, 306; ABl 2023-03-10). In Kraft seit 1. Juli 2022.
 
 ### F. Amtstätigkeit
 
@@ -284,6 +291,10 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 § 20 a.[^hGRechtsschutz14-1] Beschwerdeentscheide der kantonalen Aufsichtsbehörde (§ 12 a Abs. 2) gemäss Art. 90 Abs. 2 ZStV können mit Beschwerde beim Verwaltungsgericht angefochten werden.
 
+**5**
+
+1.10. 23 - 122
+
 [^hGRechtsschutz14-1]: Eingefügt durch RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 [^hGRechtsschutz14-2]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 
@@ -295,15 +306,15 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 § 21.[^hHSchlussbestimmung-1] Die Direktion lässt die Angaben des Anhangs zu dieser Verordnung nachführen, wenn die zu einem Zivilstandskreis zusammengefassten Gemeinden den Namen oder den Sitz des Zivilstandskreises ändern.
 
-**5**
-
-- 1\. 7. 23 - 121 § 22. Die Zivilstandsverordnung vom 29. November 2000 wird aufgehoben.
-
 [^hHSchlussbestimmung-1]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 
-#### § 23
+#### § 22
 
 **Aufhebung bisherigen Rechts**
+
+Die Zivilstandsverordnung vom 29. November 2000 wird aufgehoben.
+
+#### § 23
 
 **Übergangsbestimmung**
 
@@ -334,11 +345,18 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 <sup>3</sup> Sämtliche Beschwerdeentscheide, die vor Inkrafttreten der Verordnungsänderung gefällt werden, sind unabhängig vom Datum ihrer Eröffnung oder dem Ablauf der Rechtsmittelfrist mit Rekurs bei der Direktion anzufechten.
 
-[^hÜbergangsbestimmung-1]: Fassung gemäss RRB vom 7. Dezember 2010 (OS 65, 1014; ABl 2010, 2965). In Kraft seit 1. Januar 2011.
+### Übergangsbestimmung zur Änderung vom 1. März 2023
+
+(OS 78, 306)
+
+Seit dem 1. Juli 2022 bezahlte Gebühren für die Erklärung über die Umwandlung der eingetragenen Partnerschaft in eine Ehe gemäss Anhang 1 Ziff. 7 der Verordnung vom 27. Oktober 1999 über die Gebühren im Zivilstandswesen[^hÜbergangsbestimmung_2-1] können innert fünf Jahren seit Bezahlung beim erhebenden Zivilstandsamt zurückgefordert werden.
+
+[^hÜbergangsbestimmung_2-1]: SR 172.042.110.
+[^hÜbergangsbestimmung_2-2]: Fassung gemäss RRB vom 7. Dezember 2010 (OS 65, 1014; ABl 2010, 2965). In Kraft seit 1. Januar 2011.
 
 ### Anhang
 
-[^hÜbergangsbestimmung-1]
+[^hÜbergangsbestimmung_2-2]
 
 (§§ 1 und 21)
 
@@ -346,7 +364,7 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 ### Name: Sitz: Beteiligte Gemeinden:
 
-[^hNameSitzBeteilig-1]: Aufgehoben durch RRB vom 19. April 2023 (OS 78, 217; ABl 2023-04-28). In Kraft seit 1. Juli 2023. 1. 7. 23 - 121 7
+[^hNameSitzBeteilig-1]: Aufgehoben durch RRB vom 19. April 2023 (OS 78, 217; ABl 2023-04-28). In Kraft seit 1. Juli 2023.
 
 ### Affoltern
 
@@ -392,11 +410,15 @@ Furttal Regensdorf Boppelsen, Buchs, Dällikon, Dänikon,
 
 [^hHüttikonOtelfingen-1]
 
-[^hHorgenhHüttikonOte-1]: Die Gemeinde Kyburg wurde nach dem Zusammenschluss mit der Gemeinde Illnau-Effretikon auf 1. Januar 2016 aus der Liste entfernt.
+[^hHorgenhHüttikonOte-1]: Die Gemeinde Kyburg wurde nach dem Zusammenschluss mit der Gemeinde Illnau-Effretikon auf 1. Januar 2016 aus der Liste entfernt. 1.10. 23 - 122 7
 
 ### Illnau-Effretikon Illnau-Effretikon Illnau-Effretikon, Lindau und Weisslingen
 
 [^hHorgenhHüttikonOte-1]
+
+**9**
+
+1.10. 23 - 122
 
 ### Name: Sitz: Beteiligte Gemeinden:
 
@@ -450,13 +472,8 @@ und Zell
 
 ### Zürich Zürich Zürich
 
-**9**
-
-- 1\. 7. 23 - 121
-
 ## Weitere Fussnoten
 
-- [2] Obsolet.
 - [7] Eingefügt durch RRB vom 29. November 2006 (OS 61, 485; ABl 2006, 1696). In Kraft seit 1. Januar 2008.
 - [8] Eingefügt durch RRB vom 17. Dezember 2008 (OS 64, 220; ABl 2009, 661). In Kraft seit 1. Januar 2009.
 - [9] Fassung gemäss RRB vom 17. Dezember 2008 (OS 64, 220; ABl 2009, 661). In Kraft seit 1. Januar 2009.
