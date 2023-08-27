@@ -3,20 +3,20 @@ canton: AG
 number: "713.140"
 title: Grossratsbeschluss über den kantonalen Richtplan
 language: de
-version: 2023-06-30
-valid_until: 2023-08-27
-version_adopted: 2023-04-25
+version: 2023-08-28
+valid_until: 2024-02-28
+version_adopted: 2023-06-27
 adopted: 2011-09-20
 in_force: 2011-12-26
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.140"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3312/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3335/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Grossratsbeschluss über den kantonalen Richtplan
 
-Vom 20.09.2011 (Stand 30.06.2023)
+Vom 20.09.2011 (Stand 28.08.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
