@@ -3,20 +3,19 @@ canton: AG
 number: "761.560"
 title: Dekret über den Schutz des Klingnauer Stausees und seiner Umgebung
 language: de
-version: 1989-07-01
-valid_until: 2023-08-27
-version_adopted: 1988-05-17
+version: 2023-08-28
+version_adopted: 2023-06-13
 adopted: 1988-05-17
 in_force: 1989-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/761.560"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/833/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über den Schutz des Klingnauer Stausees und seiner Umgebung
 
-Vom 17.05.1988 (Stand 01.07.1989)
+Vom 17.05.1988 (Stand 28.08.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -64,6 +63,8 @@ beschliesst:
 <sup>1</sup> Soweit in den folgenden Vorschriften nichts anderes bestimmt wird, sind in allen Zonen Bauten und Anlagen, einschliesslich Terrainveränderungen wie Ablagerungen und Auffüllungen, das Aufstellen von Wohnwagen, Zelten, Mobilheimen und dergleichen sowie organisierte Anlässe, die den Gemeingebrauch übersteigen, untersagt.
 
 <sup>2</sup> Bestehende Bauten und Anlagen, die den Vorschriften dieses Dekretes widersprechen, dürfen nur unterhalten und zeitgemäss erneuert werden.
+
+<sup>3</sup> Im Interesse des Zwecks gemäss § 1 können Bauten und Anlagen, wie zum Beispiel für ökologischen Ausgleich, Erholungslenkung und Renaturierung, bewilligt werden.
 
 #### § 5
 
