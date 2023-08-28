@@ -1,0 +1,47 @@
+---
+canton: GE
+number: F 1 50.06
+title: Règlement relatif à l’identification des détenus (RID)
+short: RID
+language: fr
+version: 2023-08-29
+adopted: 1956-01-27
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_f1_50p06.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement relatif à l’identification des détenus (RID)
+**Dernières modifications au 29 août 2023**
+
+du 27 janvier 1956
+
+(Entrée en vigueur : 1<sup>er</sup> février 1956)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève
+
+arrête :
+
+#### Art. 1
+
+Tout détenu doit se soumettre aux mesures nécessaires pour le contrôle de son identité. Le département des institutions et du numérique<sup>(9)</sup> est chargé de l’exécution du présent règlement qui entre en vigueur immédiatement.
+
+#### Art. 2
+
+L’arrêté du 10 juin 1891 portant création d’un service d’identification des détenus par le système anthropométrique est abrogé.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| F 1 50.06 R relatif à l’identification des détenus | 27.01.1956 | 01.02.1956 |
+| Modifications : |  |  |
+| 1. *n.t.* : dénomination du département (1) | 22.12.1993 | 01.01.1994 |
+| 2. *n.t.* : rectification selon 7C/1, B 2 05 (1) | 28.02.2006 | 28.02.2006 |
+| 3. *n.t.* : rectification selon 7C/1, B 2 05 (1) | 18.05.2010 | 18.05.2010 |
+| 4. *n.t.* : rectification selon 7C/1, B 2 05 (1) | 03.09.2012 | 03.09.2012 |
+| 5. *n.t.* : rectification selon 7C/1, B 2 05 (1) | 15.05.2014 | 15.05.2014 |
+| 6. *n.t.* : rectification selon 7C/1, B 2 05 (1) | 04.09.2018 | 04.09.2018 |
+| 7. *n.t.* : rectification selon 7C/1, B 2 05 (1) | 14.05.2019 | 14.05.2019 |
+| 8. *n.t.* : rectification selon 7C/1, B 2 05 (1) | 31.08.2021 | 31.08.2021 |
+| 9. *n.t.* : rectification selon 7C/1, B 2 05 (1) | 29.08.2023 | 29.08.2023 |
