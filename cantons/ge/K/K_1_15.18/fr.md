@@ -1,0 +1,96 @@
+---
+canton: GE
+number: K 1 15.18
+title: Règlement fixant le tarif relatif au remboursement des mammographies de dépistage du cancer du sein (RTRMD)
+short: RTRMD
+language: fr
+version: 2023-08-29
+adopted: 2008-12-15
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_k1_15p18.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement fixant le tarif relatif au remboursement des mammographies de dépistage du cancer du sein (RTRMD)
+**Dernières modifications au 29 août 2023**
+
+du 15 décembre 2008
+
+(Entrée en vigueur : 1<sup>er</sup> janvier 2009)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève,
+
+vu la loi fédérale sur l'assurance-maladie, du 18 mars 1994, et plus particulièrement les articles 26 et 47;
+
+vu l’ordonnance sur l’assurance-maladie, du 27 juin 1995, et plus particulièrement l'article 33;
+
+vu l'article 12e, lettre c, de l'ordonnance sur les prestations dans l'assurance obligatoire des soins en cas de maladie, du 29 septembre 1995;
+
+vu l’ordonnance sur la garantie de la qualité des programmes de dépistage du cancer du sein réalisé par mammographie, du 23 juin 1999;
+
+vu les articles 2, 3, alinéa 2, 17 et 18 de la loi d'application de la loi fédérale sur l'assurance-maladie, du 29 mai 1997;
+
+vu l’article 1, alinéa 3, du règlement d'exécution de la loi d'application de la loi fédérale sur l'assurance-maladie, du 15 décembre 1997;
+
+vu le constat d'échec des négociations entre la Fondation genevoise pour le dépistage du cancer du sein, l’Association des médecins du canton de Genève (AMG) et santésuisse (ci-après : partenaires), s'agissant du tarif applicable dès le 1<sup>er</sup> janvier 2009;
+
+vu les consultations des partenaires;
+
+vu la recommandation du surveillant des prix du 19 novembre 2008 de fixer le montant du remboursement des mammographies de dépistage sur la version TARMED actuellement en vigueur;
+
+vu toutefois l'accord auquel sont parvenues les associations faîtières santésuisse et la Fédération des médecins suisses sur la version future du prix de remboursement de la mammographie de dépistage dans le cadre du tarif TARMED, l'actuelle étant contestée;
+
+vu l’économicité du tarif forfaitaire par mammographie de dépistage proposé dans le présent règlement, lequel est intermédiaire entre les positions des partenaires et en cohérence avec le futur montant tarifaire négocié dans le cadre de TARMED entre les organismes faîtiers;
+
+vu l’accord de l'Association des médecins du canton de Genève à la proposition qui a été soumise aux partenaires;
+
+attendu que le Conseil d'Etat doit fixer un tarif qui satisfasse au principe d'économicité et qui soit équitable pour les partenaires tarifaires,
+
+arrête :
+
+#### Art. 1
+
+**But**
+
+<sup>1</sup> Le présent règlement a pour but de fixer dès le 1<sup>er</sup> janvier 2009 le montant du remboursement des mammographies de dépistage du cancer du sein, dans le cadre du programme cantonal genevois, par les assureurs-maladies, en cas de régime sans convention.
+
+<sup>2</sup> Le département de la santé et des mobilités<sup>(6)</sup> fixe la procédure relative à l’organisation des mammographies de dépistage du cancer du sein dans le cadre du programme cantonal genevois.
+
+#### Art. 2
+
+**Forfait**
+
+Le montant forfaitaire du remboursement pour la réalisation des mammographies de dépistage du cancer du sein est fixé à 197,15 francs.
+
+#### Art. 3
+
+**Négociations**
+
+Si les partenaires entreprennent à nouveau des pourparlers afin de conclure une convention, ils en informent le Conseil d’Etat et le tiennent au courant des résultats des négociations.
+
+#### Art. 4
+
+**Recours**
+
+<sup>1</sup> Le présent règlement peut faire l'objet d'un recours auprès du Tribunal administratif fédéral dans un délai de 30 jours, dès sa publication, conformément à l'article 34 de la loi sur le Tribunal administratif fédéral, du 17 juin 2005.
+
+<sup>2</sup> Le présent règlement est exécutoire nonobstant recours.
+
+#### Art. 5
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2009.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| K 1 15.18 R fixant le tarif relatif au remboursement des mammographies de dépistage du cancer du sein | 15.12.2008 | 01.01.2009 |
+| Modifications : |  |  |
+| 1. *n.t.* : rectification selon 7C/1, B 2 05 (1/2) | 18.05.2010 | 18.05.2010 |
+| 2. *n.t.* : rectification selon 7C/1, B 2 05 (1/2) | 15.05.2014 | 15.05.2014 |
+| 3. *n.t.* : rectification selon 7C/1, B 2 05 (1/2) | 15.11.2018 | 15.11.2018 |
+| 4. *n.t.* : rectification selon 7C/1, B 2 05 (1/2) | 14.05.2019 | 14.05.2019 |
+| 5. *n.t.* : rectification selon 7C/1, B 2 05 (1/2) | 31.08.2021 | 31.08.2021 |
+| 6. *n.t.* : rectification selon 7C/1, B 2 05 (1/2) | 29.08.2023 | 29.08.2023 |
