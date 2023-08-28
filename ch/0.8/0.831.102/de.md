@@ -3,11 +3,11 @@ sr: "0.831.102"
 title: Übereinkommen Nr. 102 vom 28. Juni 1952 über die Mindestnormen der Sozialen Sicherheit (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626"
 language: de
-version: 2019-04-24
+version: 2023-08-29
 adopted: 1952-06-28
 in_force: 1978-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20190424/de/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20190424-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20190424/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20230829/de/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20230829-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20230829/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1978** 1626; BBl **1976** III 1317
 
 Angenommen in Genf am 28. Juni 1952 Von der Bundesversammlung genehmigt am 23. Juni 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 18. Oktober 1977 In Kraft getreten für die Schweiz am 18. Oktober 1978
 
-(Stand am 24. April 2019)
+(Stand am 29. August 2023)
 
 [^t-1]: Art. 1 Abs. 2 des BB vom 23. Juni 1977 ([AS 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491))
 
@@ -38,26 +38,31 @@ Die Konferenz nimmt heute, am 28. Juni 1952, das folgende Übereinkommen an, das
 
 #### Art. 1
 
-<sup>1.</sup> In diesem Übereinkommen
+<sup>1.</sup>
 
-- a) bedeutet der Ausdruck «vorgeschrieben» von oder auf Grund der innerstaatlichen Gesetzgebung bestimmt,
-- b) bedeutet der Ausdruck «Wohnsitz» den gewöhnlichen Wohnsitz im Gebiet des Mitglieds und der Ausdruck «Einwohner» eine Person, die ihren gewöhnlichen Wohnsitz im Gebiet des Mitglieds hat,
-- c) bedeutet der Ausdruck «Ehefrau» eine Ehefrau, für deren Unterhalt der Ehemann sorgt,
-- d) bedeutet der Ausdruck «Witwe» eine Frau, für deren Unterhalt der Ehemann zur Zeit seines Todes gesorgt hat,
-- e) bedeutet der Ausdruck «Kind» ein Kind unter dem Alter, in dem die Schulpflicht endet, oder ein Kind unter fünfzehn Jahren, je nachdem was vorgeschrieben ist,
+In diesem Übereinkommen:
+
+- a) bedeutet der Ausdruck «vorgeschrieben» von oder auf Grund der innerstaatlichen Gesetzgebung bestimmt;
+- b) bedeutet der Ausdruck «Wohnsitz» den gewöhnlichen Wohnsitz im Gebiet des Mitglieds und der Ausdruck «Einwohner» eine Person, die ihren gewöhnlichen Wohnsitz im Gebiet des Mitglieds hat;
+- c) bedeutet der Ausdruck «Ehefrau» eine Ehefrau, für deren Unterhalt der Ehemann sorgt;
+- d) bedeutet der Ausdruck «Witwe» eine Frau, für deren Unterhalt der Ehemann zur Zeit seines Todes gesorgt hat;
+- e) bedeutet der Ausdruck «Kind» ein Kind unter dem Alter, in dem die Schulpflicht endet, oder ein Kind unter fünfzehn Jahren, je nachdem was vorgeschrieben ist;
 - f) bedeutet der Ausdruck «Wartezeit» entweder eine Beitragszeit oder eine Beschäftigungszeit oder eine Wohnsitzzeit oder irgendeine Verbindung dieser Zeiten, je nachdem was vorgeschrieben ist.
 
 <sup>2.</sup> Der Ausdruck «Leistungen» in den Artikeln 10, 34 und 49 bedeutet entweder unmittelbare Betreuung oder mittelbare Leistungen, die in der Rückerstattung der von der betreffenden Person gemachten Aufwendungen bestehen.
 
 #### Art. 2
 
-Jedes Mitglied, für das dieses Übereinkommen gilt, hat
+Jedes Mitglied, für das dieses Übereinkommen gilt, hat:
 
-- a) anzuwenden
+- a)
+
+  anzuwenden:
+
   - i) den Teil I,
   - ii) mindestens drei der Teile II, III, IV, V, VI, VII, VIII, IX und X, darunter mindestens einen der Teile IV, V, VI, IX und X,
   - iii) die entsprechenden Bestimmungen der Teile XI, XII und XIII,
-  - iv) den Teil XIV,
+  - iv) den Teil XIV;
 
 - b) bei seiner Ratifikation anzugeben, für welche der Teile II bis X es die Verpflichtungen aus dem Übereinkommen übernimmt.
 
@@ -65,9 +70,11 @@ Jedes Mitglied, für das dieses Übereinkommen gilt, hat
 
 <sup>1.</sup> Ein Mitglied, dessen Entwicklung auf wirtschaftlichem und medizinischem Gebiet noch ungenügend ist, kann, sofern und solange die zuständige Stelle es für notwendig erachtet, durch eine seiner Ratifikation beigefügte Erklärung die in den folgenden Artikeln vorgesehenen zeitweiligen Ausnahmen für sich in Anspruch nehmen: 9 d); 12, (2); 15 d); 18, (2); 21 c); 27 d); 33 b); 34, (3); 41 d); 48 c); 55 d); und 61 d).
 
-<sup>2.</sup> Jedes Mitglied, das eine Erklärung nach Absatz 1 dieses Artikels abgegeben hat, muss in dem nach Artikel 22 der Verfassung[^3-1] der Internationalen Arbeitsorganisation zu erstattenden Jahresbericht über die Anwendung dieses Übereinkommens zu jeder Ausnahme, die es für sich in Anspruch genommen hat, mitteilen, dass
+<sup>2.</sup>
 
-- a) die Gründe hierfür weiter bestehen oder
+Jedes Mitglied, das eine Erklärung nach Absatz 1 dieses Artikels abgegeben hat, muss in dem nach Artikel 22 der Verfassung[^3-1] der Internationalen Arbeitsorganisation zu erstattenden Jahresbericht über die Anwendung dieses Übereinkommens zu jeder Ausnahme, die es für sich in Anspruch genommen hat, mitteilen, dass:
+
+- a) die Gründe hierfür weiter bestehen; oder
 - b) es von einem bestimmten Zeitpunkt an darauf verzichtet, die Ausnahme weiter in Anspruch zu nehmen.
 
 [^3-1]: [SR 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)
@@ -84,13 +91,13 @@ Ist ein Mitglied für die Anwendung eines der durch seine Ratifikation erfassten
 
 #### Art. 6
 
-Für die Anwendung der Teile II, III, IV, V, VIII (so weit die ärztliche Betreuung in Frage kommt), IX oder X dieses Übereinkommens kann ein Mitglied den durch eine Versicherung gewährten Schutz auch dann in Rechnung stellen, wenn diese Versicherung nach der innerstaatlichen Gesetzgebung für die geschützten Personen zwar keine Pflichtversicherung ist, aber
+Für die Anwendung der Teile II, III, IV, V, VIII (so weit die ärztliche Betreuung in Frage kommt), IX oder X dieses Übereinkommens kann ein Mitglied den durch eine Versicherung gewährten Schutz auch dann in Rechnung stellen, wenn diese Versicherung nach der innerstaatlichen Gesetzgebung für die geschützten Personen zwar keine Pflichtversicherung ist, aber:
 
-- a) behördlich überwacht oder nach vorgeschriebenen Normen gemeinsam von Arbeitgebern und Arbeitnehmern verwaltet wird,
-- b) einen namhaften Teil der Personen umfasst, deren Verdienst denjenigen eines gelernten männlichen Arbeiters nicht übersteigt,
+- a) behördlich überwacht oder nach vorgeschriebenen Normen gemeinsam von Arbeitgebern und Arbeitnehmern verwaltet wird;
+- b) einen namhaften Teil der Personen umfasst, deren Verdienst denjenigen eines gelernten männlichen Arbeiters nicht übersteigt;
 - c) in Verbindung mit anderen Formen des Schutzes den bezüglichen Bestimmungen des Übereinkommens entspricht.
 
-## Teil II Ärztliche Betreuung****
+## Teil II Ärztliche Betreuung
 
 [^partII-1]
 
@@ -106,24 +113,32 @@ Der gedeckte Fall hat jeden Krankheitszustand ohne Rücksicht auf seine Ursache,
 
 #### Art. 9
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, sowie deren Ehefrauen und Kinder oder
-- b) vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, sowie deren Ehefrauen und Kinder oder
-- c) vorgeschriebene Gruppen von Einwohnern, die insgesamt mindestens 50 vom Hundert aller Einwohner bilden, oder,
+- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, sowie deren Ehefrauen und Kinder; oder
+- b) vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, sowie deren Ehefrauen und Kinder; oder
+- c) vorgeschriebene Gruppen von Einwohnern, die insgesamt mindestens 50 vom Hundert aller Einwohner bilden; oder
 - d) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden, sowie die Ehefrauen und Kinder von Arbeitnehmern dieser Gruppen.
 
 #### Art. 10
 
-<sup>1.</sup> Die Leistungen haben mindestens zu umfassen
+<sup>1.</sup>
 
-- a) im Fall eines Krankheitszustandes
+Die Leistungen haben mindestens zu umfassen:
+
+- a)
+
+  im Fall eines Krankheitszustandes:
+
   - i) Betreuung durch praktische Ärzte einschliesslich der Hausbesuche,
   - ii) Betreuung durch Fachärzte in Krankenhäusern in Form von stationärer oder ambulanter Behandlung und Betreuung durch Fachärzte, soweit sie ausserhalb der Krankenhäuser gewährt werden kann,
   - iii) Gewährung der hauptsächlichen Arzneien und Heilmittel auf Grund der Verordnung eines Arztes oder einer anderen zur Behandlung zugelassenen Person,
-  - iv) Krankenhauspflege, wenn erforderlich,
+  - iv) Krankenhauspflege, wenn erforderlich;
 
-- b) im Fall der Schwangerschaft und Niederkunft sowie ihrer Folgen
+- b)
+
+  im Fall der Schwangerschaft und Niederkunft sowie ihrer Folgen:
+
   - i) Betreuung vor, während und nach der Niederkunft durch Ärzte oder durch geprüfte Hebammen,
   - ii) Krankenhauspflege, wenn erforderlich.
 
@@ -143,7 +158,7 @@ Die in Artikel 10 bezeichneten Leistungen sind im gedeckten Fall mindestens den 
 
 <sup>2.</sup> Ist eine Erklärung nach Artikel 3 abgegeben worden, so kann die Dauer der Leistungen auf 13 Wochen in jedem Einzelfall begrenzt werden.
 
-## Teil III Krankengeld****
+## Teil III Krankengeld
 
 [^partIII-1]
 
@@ -159,11 +174,11 @@ Der gedeckte Fall hat die Arbeitsunfähigkeit zu umfassen, die sich aus einem Kr
 
 #### Art. 15
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, oder
-- b) vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, oder
-- c) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen, oder,
+- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden; oder
+- b) vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden; oder
+- c) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen; oder
 - d) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden.
 
 #### Art. 16
@@ -180,12 +195,14 @@ Die in Artikel 16 bezeichnete Leistung ist im gedeckten Fall mindestens den gesc
 
 <sup>1.</sup> Die in Artikel 16 bezeichnete Leistung ist während der ganzen Dauer des Falls zu gewähren, jedoch kann die Dauer der Leistung auf 26 Wochen in jedem Krankheitsfall begrenzt werden, wobei die Leistung für die ersten drei Tage des Verdienstentgangs unterbleiben kann.
 
-<sup>2.</sup> Ist eine Erklärung nach Artikel 3 abgegeben worden, so kann die Dauer der Leistung begrenzt werden
+<sup>2.</sup>
 
-- a) auf eine Zeitspanne, die so zu bemessen ist, dass die Gesamtzahl der Tage, für die das Krankengeld im Lauf eines Jahres gewährt wird, nicht geringer ist als das Zehnfache der Durchschnittszahl der in demselben Jahr geschützten Personen, oder
+Ist eine Erklärung nach Artikel 3 abgegeben worden, so kann die Dauer der Leistung begrenzt werden:
+
+- a) auf eine Zeitspanne, die so zu bemessen ist, dass die Gesamtzahl der Tage, für die das Krankengeld im Lauf eines Jahres gewährt wird, nicht geringer ist als das Zehnfache der Durchschnittszahl der in demselben Jahr geschützten Personen: oder
 - b) auf 13 Wochen in jedem Krankheitsfall, wobei die Leistung für die ersten drei Tage des Verdienstentgangs unterbleiben kann.
 
-## Teil IV Leistungen bei Arbeitslosigkeit****
+## Teil IV Leistungen bei Arbeitslosigkeit
 
 [^partIV-1]
 
@@ -201,10 +218,10 @@ Der gedeckte Fall hat den Verdienstentgang im Sinne der innerstaatlichen Gesetzg
 
 #### Art. 21
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, oder
-- b) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen, oder,
+- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden; oder
+- b) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen; oder
 - c) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden.
 
 #### Art. 22
@@ -219,9 +236,11 @@ Die in Artikel 22 bezeichnete Leistung ist im gedeckten Fall mindestens den gesc
 
 #### Art. 24
 
-<sup>1.</sup> Die in Artikel 22 bezeichnete Leistung ist während der ganzen Dauer des Falls zu gewähren, jedoch kann die Leistungsdauer begrenzt werden,
+<sup>1.</sup>
 
-- a) wenn Gruppen von Arbeitnehmern geschützt sind, auf 13 Wochen innerhalb einer Zeitspanne von 12 Monaten oder,
+Die in Artikel 22 bezeichnete Leistung ist während der ganzen Dauer des Falls zu gewähren, jedoch kann die Leistungsdauer begrenzt werden:
+
+- a) wenn Gruppen von Arbeitnehmern geschützt sind, auf 13 Wochen innerhalb einer Zeitspanne von 12 Monaten; oder
 - b*)* wenn alle Einwohner geschützt sind, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen, auf 26 Wochen innerhalb einer Zeitspanne von 12 Monaten.
 
 <sup>2.</sup> Sieht die innerstaatliche Gesetzgebung eine Abstufung der Leistungsdauer nach der Beitragsdauer oder nach den vorher innerhalb einer vorgeschriebenen Zeitspanne empfangenen Leistungen vor, so gelten die Bedingungen in Absatz 1a) als erfüllt, wenn die durchschnittliche Leistungsdauer mindestens 13 Wochen innerhalb einer Zeitspanne von 12 Monaten beträgt.
@@ -246,30 +265,34 @@ Jedes Mitglied, für das dieser Teil des Übereinkommens gilt, hat den geschütz
 
 #### Art. 27
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, oder
-- b) vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, oder
-- c) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen, oder,
+- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden; oder
+- b) vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden; oder
+- c) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen; oder
 - d) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden.
 
 #### Art. 28
 
-Die Leistung hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird
+Die Leistung hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird:
 
-- a) nach den Bestimmungen des Artikels 65 oder des Artikels 66, wenn Gruppen von Arbeitnehmern oder Gruppen der erwerbstätigen Bevölkerung geschützt sind,
+- a) nach den Bestimmungen des Artikels 65 oder des Artikels 66, wenn Gruppen von Arbeitnehmern oder Gruppen der erwerbstätigen Bevölkerung geschützt sind;
 - b) nach den Bestimmungen des Artikels 67, wenn alle Einwohner geschützt sind, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen.
 
 #### Art. 29
 
-<sup>1.</sup> Die in Artikel 28 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten
+<sup>1.</sup>
 
-- a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit erfüllt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 30 Jahren oder einer Wohnsitzzeit von 20 Jahren bestehen kann,
+Die in Artikel 28 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten:
+
+- a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit erfüllt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 30 Jahren oder einer Wohnsitzzeit von 20 Jahren bestehen kann;
 - b) wenn grundsätzlich alle erwerbstätigen Personen geschützt sind, einer geschützten Person, die eine vorgeschriebene Beitragszeit zurückgelegt hat und für die während ihres Arbeitslebens eine vorgeschriebene jährliche Durchschnittszahl von Beiträgen entrichtet worden ist.
 
-<sup>2.</sup> Hängt die in Absatz 1 bezeichnete Leistung von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten
+<sup>2.</sup>
 
-- a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit von 15 Beitrags‑ oder Beschäftigungsjahren erfüllt hat,
+Hängt die in Absatz 1 bezeichnete Leistung von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten:
+
+- a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit von 15 Beitrags‑ oder Beschäftigungsjahren erfüllt hat;
 - b) wenn grundsätzlich alle erwerbstätigen Personen geschützt sind, einer geschützten Person, die eine vorgeschriebene Beitragszeit zurückgelegt hat und für die während ihres Arbeitslebens die Hälfte einer vorgeschriebenen jährlichen Durchschnittszahl von Beiträgen nach den Bestimmungen von Absatz 1b) dieses Artikels entrichtet worden ist.
 
 <sup>3.</sup> Die Bedingungen in Absatz 1 dieses Artikels sind als erfüllt anzusehen, wenn eine Leistung, die nach den Bestimmungen des Teils XI berechnet ist, jedoch um 10 Einheiten unter dem in der Tabelle zu Teil XI für den Typus des Leistungsempfängers angegebenen Hundertsatz liegt, mindestens jeder geschützten Person gewährleistet wird, die nach vorgeschriebener Regelung 10 Beitrags‑ oder Beschäftigungsjahre oder 5 Wohnsitzjahre zurückgelegt hat.
@@ -292,36 +315,40 @@ Jedes Mitglied, für das dieser Teil des Übereinkommens gilt, hat den geschütz
 
 Die gedeckten Fälle haben, wenn sie auf Arbeitsunfällen oder vorgeschriebenen Berufskrankheiten beruhen, folgendes zu umfassen:
 
-- a) Krankheitszustand,
-- b) Arbeitsunfähigkeit, die sich aus einem Krankheitszustand ergibt und Verdienstentgang im Sinne der innerstaatlichen Gesetzgebung zur Folge hat,
-- c) gänzlicher Verlust der Erwerbsfähigkeit oder teilweiser Verlust der Erwerbsfähigkeit über einen vorgeschriebenen Grad hinaus, wenn dieser gänzliche oder teilweise Verlust voraussichtlich dauernd ist, oder entsprechende Minderung der körperlichen Leistungsfähigkeit,
+- a) Krankheitszustand;
+- b) Arbeitsunfähigkeit, die sich aus einem Krankheitszustand ergibt und Verdienstentgang im Sinne der innerstaatlichen Gesetzgebung zur Folge hat;
+- c) gänzlicher Verlust der Erwerbsfähigkeit oder teilweiser Verlust der Erwerbsfähigkeit über einen vorgeschriebenen Grad hinaus, wenn dieser gänzliche oder teilweise Verlust voraussichtlich dauernd ist, oder entsprechende Minderung der körperlichen Leistungsfähigkeit;
 - d) Verlust der Unterhaltsmittel, den die Witwe oder die Kinder infolge des Todes des Unterhaltspflichtigen erleiden, wobei für die Witwe der Leistungsanspruch davon abhängig gemacht werden kann, dass sie nach der innerstaatlichen Gesetzgebung als unfähig gilt, selbst für ihren Unterhalt zu sorgen.
 
 #### Art. 33
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, und bei Leistungen im Falle des Todes des Unterhaltspflichtigen auch die Ehefrauen und Kinder von Arbeitnehmern dieser Gruppen oder,
+- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, und bei Leistungen im Falle des Todes des Unterhaltspflichtigen auch die Ehefrauen und Kinder von Arbeitnehmern dieser Gruppen oder;
 - b) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden, und bei Leistungen im Fall des Todes des Unterhaltspflichtigen auch die Ehefrauen und Kinder von Arbeitnehmern dieser Gruppen.
 
 #### Art. 34
 
 <sup>1.</sup> Im Fall eines Krankheitszustandes haben die Leistungen in ärztlicher Betreuung nach den Bestimmungen der Absätze 2 und 3 dieses Artikels zu bestehen.
 
-<sup>2.</sup> Die ärztliche Betreuung hat zu umfassen
+<sup>2.</sup>
 
-- a) Betreuung durch praktische Ärzte und durch Fachärzte in Form von stationärer oder ambulanter Behandlung einschliesslich der Hausbesuche,
-- b) Zahnbehandlung,
-- c) Betreuung durch Pflegepersonal zu Hause oder in einem Krankenhaus oder in einer anderen Pflegestätte,
-- d) Unterbringung in einem Krankenhaus, einem Erholungsheim, einer Heilanstalt oder einer anderen Pflegestätte,
-- e) zahnärztliche, pharmazeutische und andere ärztliche oder chirurgische Heil- und Hilfsmittel einschliesslich der Körperersatzstücke und ihrer Instandhaltung sowie Brillen und
+Die ärztliche Betreuung hat zu umfassen:
+
+- a) Betreuung durch praktische Ärzte und durch Fachärzte in Form von stationärer oder ambulanter Behandlung einschliesslich der Hausbesuche;
+- b) Zahnbehandlung;
+- c) Betreuung durch Pflegepersonal zu Hause oder in einem Krankenhaus oder in einer anderen Pflegestätte;
+- d) Unterbringung in einem Krankenhaus, einem Erholungsheim, einer Heilanstalt oder einer anderen Pflegestätte;
+- e) zahnärztliche, pharmazeutische und andere ärztliche oder chirurgische Heil- und Hilfsmittel einschliesslich der Körperersatzstücke und ihrer Instandhaltung sowie Brillen; und
 - f) Betreuung durch Angehörige anderer Berufe, deren Verbundenheit mit dem ärztlichen Beruf gesetzlich anerkannt ist, unter der Überwachung eines Arztes oder Zahnarztes.
 
-<sup>3.</sup> Ist eine Erklärung nach Artikel 3 abgegeben worden, so hat die ärztliche Betreuung mindestens zu umfassen
+<sup>3.</sup>
 
-- a) Betreuung durch praktische Ärzte einschliesslich der Hausbesuche,
-- b) Betreuung durch Fachärzte in Krankenhäusern in Form von stationärer oder ambulanter Behandlung und Betreuung durch Fachärzte, soweit sie ausserhalb der Krankenhäuser gewährt werden kann,
-- c) Gewährung der hauptsächlichen Arzneien und Heilmittel auf Grund der Verordnung eines Arztes oder einer anderen zur Behandlung zugelassenen Person und
+Ist eine Erklärung nach Artikel 3 abgegeben worden, so hat die ärztliche Betreuung mindestens zu umfassen:
+
+- a) Betreuung durch praktische Ärzte einschliesslich der Hausbesuche;
+- b) Betreuung durch Fachärzte in Krankenhäusern in Form von stationärer oder ambulanter Behandlung und Betreuung durch Fachärzte, soweit sie ausserhalb der Krankenhäuser gewährt werden kann;
+- c) Gewährung der hauptsächlichen Arzneien und Heilmittel auf Grund der Verordnung eines Arztes oder einer anderen zur Behandlung zugelassenen Person; und
 - d) Krankenhauspflege, wenn erforderlich.
 
 <sup>4.</sup> Die nach den vorstehenden Absätzen gewährte ärztliche Betreuung hat darauf abzuzielen, die Gesundheit der geschützten Person sowie deren Arbeitsfähigkeit und Fähigkeit zur Besorgung ihrer persönlichen Angelegenheiten zu erhalten, wiederherzustellen oder zu bessern.
@@ -338,9 +365,11 @@ Der Kreis der geschützten Personen hat zu umfassen
 
 <sup>2.</sup> Bei teilweisem und voraussichtlich dauerndem Verlust der Erwerbsfähigkeit oder einer entsprechenden Minderung der körperlichen Leistungsfähigkeit hat die geschuldete Leistung in einer regelmässig wiederkehrenden Zahlung zu bestehen, die in einem angemessenen Verhältnis zu der Leistung steht, die für gänzlichen Verlust der Erwerbsfähigkeit oder eine entsprechende Minderung der körperlichen Leistungsfähigkeit vorgesehen ist.
 
-<sup>3.</sup> Die regelmässig wiederkehrenden Zahlungen können in eine einmalige Abfindung umgewandelt werden, wenn
+<sup>3.</sup>
 
-- a) der Grad der Erwerbsunfähigkeit geringfügig ist oder
+Die regelmässig wiederkehrenden Zahlungen können in eine einmalige Abfindung umgewandelt werden, wenn:
+
+- a) der Grad der Erwerbsunfähigkeit geringfügig ist; oder
 - b) die zuständige Stelle die Gewähr hat, dass die einmalige Abfindung in geeigneter Weise verwendet wird.
 
 #### Art. 37
@@ -363,19 +392,19 @@ Der gedeckte Fall hat in der Pflicht zum Unterhalt von Kindern, wie dies vorgesc
 
 #### Art. 41
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, oder
-- b*)* vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, oder
-- c) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen, oder,
+- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden; oder
+- b*)* vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden; oder
+- c) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen; oder
 - d) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden.
 
 #### Art. 42
 
-Die Leistungen haben zu bestehen in
+Die Leistungen haben zu bestehen in:
 
-- a) einer regelmässig wiederkehrenden Zahlung, die einer geschützten Person, welche die vorgeschriebene Wartezeit erfüllt hat, gewährt wird, oder
-- b) Nahrungsmitteln, Kleidung, Wohnung, Ferienaufenthalt oder Haushaltshilfe für Kinder oder
+- a) einer regelmässig wiederkehrenden Zahlung, die einer geschützten Person, welche die vorgeschriebene Wartezeit erfüllt hat, gewährt wird; oder
+- b) Nahrungsmitteln, Kleidung, Wohnung, Ferienaufenthalt oder Haushaltshilfe für Kinder; oder
 - c) einer Verbindung der Leistungen nach a) und b).
 
 #### Art. 43
@@ -384,16 +413,16 @@ Die in Artikel 42 bezeichneten Leistungen sind mindestens einer geschützten Per
 
 #### Art. 44
 
-Der Gesamtwert der Leistungen, die nach Artikel 42 den geschützten Personen gewährt werden, hat zu betragen
+Der Gesamtwert der Leistungen, die nach Artikel 42 den geschützten Personen gewährt werden, hat zu betragen:
 
-- a) 3 vom Hundert des nach den Bestimmungen des Artikels 66 festgesetzten Lohns eines gewöhnlichen erwachsenen männlichen ungelernten Arbeiters, vervielfacht mit der Gesamtzahl der Kinder aller geschützten Personen, oder
+- a) 3 vom Hundert des nach den Bestimmungen des Artikels 66 festgesetzten Lohns eines gewöhnlichen erwachsenen männlichen ungelernten Arbeiters, vervielfacht mit der Gesamtzahl der Kinder aller geschützten Personen; oder
 - b) 1,5 vom Hundert des genannten Lohns, vervielfacht mit der Gesamtzahl der Kinder aller Einwohner.
 
 #### Art. 45
 
 Bestehen die Leistungen in einer regelmässig wiederkehrenden Zahlung, so sind sie während der ganzen Dauer des Falls zu gewähren.
 
-## Teil VIII Leistungen bei Mutterschaft****
+## Teil VIII Leistungen bei Mutterschaft
 
 [^partVIII-1]
 
@@ -409,19 +438,21 @@ Der gedeckte Fall hat die Schwangerschaft und die Niederkunft sowie ihre Folgen 
 
 #### Art. 48
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) alle Frauen in vorgeschriebenen Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, und für ärztliche Leistungen bei Mutterschaft auch die Ehefrauen der Männer dieser Gruppen oder
-- b) alle Frauen in vorgeschriebenen Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, und für ärztliche Leistungen bei Mutterschaft auch die Ehefrauen der Männer dieser Gruppen oder,
+- a) alle Frauen in vorgeschriebenen Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, und für ärztliche Leistungen bei Mutterschaft auch die Ehefrauen der Männer dieser Gruppen; oder
+- b) alle Frauen in vorgeschriebenen Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, und für ärztliche Leistungen bei Mutterschaft auch die Ehefrauen der Männer dieser Gruppen; oder
 - c) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, alle Frauen in vorgeschriebenen Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden, und für ärztliche Leistungen bei Mutterschaft auch die Ehefrauen der Männer dieser Gruppen.
 
 #### Art. 49
 
 <sup>1.</sup> Bei Schwangerschaft, Niederkunft sowie ihren Folgen haben die ärztlichen Leistungen bei Mutterschaft ärztliche Betreuung nach den Bestimmungen der Absätze 2 und 3 dieses Artikels zu umfassen.
 
-<sup>2.</sup> Die ärztliche Betreuung hat mindestens zu umfassen
+<sup>2.</sup>
 
-- a) Betreuung vor, während und nach der Niederkunft durch einen Arzt oder eine geprüfte Hebamme und
+Die ärztliche Betreuung hat mindestens zu umfassen:
+
+- a) Betreuung vor, während und nach der Niederkunft durch einen Arzt oder eine geprüfte Hebamme; und
 - b) Krankenhauspflege, wenn erforderlich.
 
 <sup>3.</sup> Die in Absatz 2 dieses Artikels bezeichnete ärztliche Betreuung hat darauf abzuzielen, die Gesundheit der geschützten Frau sowie deren Arbeitsfähigkeit und Fähigkeit zur Besorgung ihrer persönlichen Angelegenheiten zu erhalten, wiederherzustellen oder zu bessern.
@@ -452,30 +483,34 @@ Der gedeckte Fall hat einen vorgeschriebenen Grad der Unfähigkeit zur Ausübung
 
 #### Art. 55
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, oder
-- b) vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, oder
-- c) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen, oder,
+- a) vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden; oder
+- b) vorgeschriebene Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden; oder
+- c) alle Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen; oder
 - d) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, vorgeschriebene Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden.
 
 #### Art. 56
 
-Die Leistung hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird
+Die Leistung hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird:
 
-- a) nach den Bestimmungen des Artikels 65 oder des Artikels 66, wenn Gruppen von Arbeitnehmern oder Gruppen der erwerbstätigen Bevölkerung geschützt sind,
+- a) nach den Bestimmungen des Artikels 65 oder des Artikels 66, wenn Gruppen von Arbeitnehmern oder Gruppen der erwerbstätigen Bevölkerung geschützt sind;
 - b) nach den Bestimmungen des Artikels 67, wenn alle Einwohner geschützt sind, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen.
 
 #### Art. 57
 
-<sup>1.</sup> Die in Artikel 56 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten
+<sup>1.</sup>
 
-- a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit erfüllt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 15 Jahren oder einer Wohnsitzzeit von 10 Jahren bestehen kann,
+Die in Artikel 56 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten:
+
+- a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit erfüllt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 15 Jahren oder einer Wohnsitzzeit von 10 Jahren bestehen kann;
 - b) wenn grundsätzlich alle erwerbstätigen Personen geschützt sind, einer geschützten Person, die eine Wartezeit von 3 Beitragsjahren erfüllt hat und für die während ihres Arbeitslebens eine vorgeschriebene jährliche Durchschnittszahl von Beiträgen entrichtet worden ist.
 
-<sup>2.</sup> Hängt die in Absatz 1 bezeichnete Leistung von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten
+<sup>2.</sup>
 
-- a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit von 5 Beitrags‑ oder Beschäftigungsjahren erfüllt hat,
+Hängt die in Absatz 1 bezeichnete Leistung von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten:
+
+- a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit von 5 Beitrags‑ oder Beschäftigungsjahren erfüllt hat;
 - b) wenn grundsätzlich alle erwerbstätigen Personen geschützt sind, einer geschützten Person, die eine Wartezeit von 3 Beitragsjahren erfüllt hat und für die während ihres Arbeitslebens die Hälfte einer vorgeschriebenen jährlichen Durchschnittszahl von Beiträgen nach den Bestimmungen von Absatz 1 b) dieses Artikels entrichtet worden ist.
 
 <sup>3.</sup> Die Bedingungen in Absatz 1 dieses Artikels gelten als erfüllt, wenn eine Leistung, die nach den Bestimmungen des Teils XI berechnet ist, jedoch um 10 Einheiten unter dem in der Tabelle zu Teil XI für den Typus des Leistungsempfängers angegebenen Hundertsatz liegt, mindestens jeder geschützten Person gewährleistet wird, die nach vorgeschriebener Regelung 5 Beitrags‑ oder Beschäftigungsjahre oder 5 Wohnsitzjahre zurückgelegt hat.
@@ -500,30 +535,34 @@ Jedes Mitglied, für das dieser Teil des Übereinkommens gilt, hat den geschütz
 
 #### Art. 61
 
-Der Kreis der geschützten Personen hat zu umfassen
+Der Kreis der geschützten Personen hat zu umfassen:
 
-- a) die Ehefrauen und Kinder von Unterhaltspflichtigen in vorgeschriebenen Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden, oder
-- b) die Ehefrauen und Kinder von Unterhaltspflichtigen in vorgeschriebenen Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden, oder
-- c) alle Witwen und Kinder, die Einwohner sind und den Unterhaltspflichtigen verloren haben und deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen, oder,
+- a) die Ehefrauen und Kinder von Unterhaltspflichtigen in vorgeschriebenen Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer bilden; oder
+- b) die Ehefrauen und Kinder von Unterhaltspflichtigen in vorgeschriebenen Gruppen der erwerbstätigen Bevölkerung, die insgesamt mindestens 20 vom Hundert aller Einwohner bilden; oder
+- c) alle Witwen und Kinder, die Einwohner sind und den Unterhaltspflichtigen verloren haben und deren Mittel während der Dauer des Falls vorgeschriebene und den Bestimmungen des Artikels 67 entsprechende Grenzen nicht übersteigen; oder
 - d) wenn eine Erklärung nach Artikel 3 abgegeben worden ist, die Ehefrauen und Kinder von Unterhaltspflichtigen in vorgeschriebenen Gruppen von Arbeitnehmern, die insgesamt mindestens 50 vom Hundert aller Arbeitnehmer in gewerblichen Betrieben mit mindestens 20 beschäftigten Personen bilden.
 
 #### Art. 62
 
-Die Leistung hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird
+Die Leistung hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird:
 
-- a) nach den Bestimmungen des Artikels 65 oder des Artikels 66, wenn Gruppen von Arbeitnehmern oder Gruppen der erwerbstätigen Bevölkerung geschützt sind,
+- a) nach den Bestimmungen des Artikels 65 oder des Artikels 66, wenn Gruppen von Arbeitnehmern oder Gruppen der erwerbstätigen Bevölkerung geschützt sind;
 - b) nach den Bestimmungen des Artikels 67, wenn alle Einwohner geschützt sind, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen.
 
 #### Art. 63
 
-<sup>1.</sup> Die in Artikel 62 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten
+<sup>1.</sup>
 
-- a) einer geschützten Person, falls der für sie Unterhaltspflichtige nach vorgeschriebener Regelung eine Wartezeit erfüllt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 15 Jahren oder einer Wohnsitzzeit von 10 Jahren bestehen kann,
+Die in Artikel 62 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten:
+
+- a) einer geschützten Person, falls der für sie Unterhaltspflichtige nach vorgeschriebener Regelung eine Wartezeit erfüllt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 15 Jahren oder einer Wohnsitzzeit von 10 Jahren bestehen kann;
 - b) wenn grundsätzlich die Ehefrauen und Kinder aller erwerbstätigen Personen geschützt sind, einer geschützten Person, falls der für sie Unterhaltspflichtige eine Wartezeit von 3 Beitragsjahren erfüllt hat und für ihn während seines Arbeitslebens eine vorgeschriebene jährliche Durchschnittszahl von Beiträgen entrichtet worden ist.
 
-<sup>2.</sup> Hängt die in Absatz 1 bezeichnete Leistung von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten
+<sup>2.</sup>
 
-- a) einer geschützten Person, falls der für sie Unterhaltspflichtige nach vorgeschriebener Regelung eine Wartezeit von 5 Beitrags‑ oder Beschäftigungsjahren erfüllt hat,
+Hängt die in Absatz 1 bezeichnete Leistung von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten:
+
+- a) einer geschützten Person, falls der für sie Unterhaltspflichtige nach vorgeschriebener Regelung eine Wartezeit von 5 Beitrags‑ oder Beschäftigungsjahren erfüllt hat;
 - b) wenn grundsätzlich die Ehefrauen und Kinder aller erwerbstätigen Personen geschützt sind, einer geschützten Person, falls der für sie Unterhaltspflichtige eine Wartezeit von 3 Beitragsjahren erfüllt hat und für ihn während seines Arbeitslebens die Hälfte einer vorgeschriebenen jährlichen Durchschnittszahl von Beiträgen nach den Bestimmungen von Absatz 1b) dieses Artikels entrichtet worden ist.
 
 <sup>3.</sup> Die Bedingungen in Absatz 1 dieses Artikels gelten als erfüllt, wenn eine Leistung, die nach den Bestimmungen des Teils XI berechnet ist, jedoch um 10 Einheiten unter dem in der Tabelle zu Teil XI für den Typus des Leistungsempfängers angegebenen Hundertsatz liegt, mindestens jeder geschützten Person gewährleistet wird und der für sie Unterhaltspflichtige nach vorgeschriebener Regelung 5 Beitrags‑ oder Beschäftigungsjahre oder 5 Wohnsitzjahre zurückgelegt hat.
@@ -550,11 +589,13 @@ Die in den Artikeln 62 und 63 bezeichneten Leistungen sind während der ganzen D
 
 <sup>5.</sup> Für die übrigen Leistungsempfänger hat die Leistung in einem angemessenen Verhältnis zu der des Typus des Leistungsempfängers zu stehen.
 
-<sup>6.</sup> Im Sinne dieses Artikels hat als gelernter männlicher Arbeiter zu gelten
+<sup>6.</sup>
 
-- a) ein Einrichter oder Dreher in der Maschinenbauindustrie mit Ausnahme der Elektromaschinenindustrie oder
-- b) der Typus des gelernten Arbeiters nach den Bestimmungen des nachstehenden Absatzes oder
-- c) eine Person, deren Verdienst nicht niedriger ist als der Verdienst von 75 vom Hundert aller geschützten Personen, wobei dieser Verdienst auf der Grundlage jährlicher oder kürzerer Zeitspannen ermittelt wird, je nachdem was vorgeschrieben ist, oder
+Im Sinne dieses Artikels hat als gelernter männlicher Arbeiter zu gelten:
+
+- a) ein Einrichter oder Dreher in der Maschinenbauindustrie mit Ausnahme der Elektromaschinenindustrie; oder
+- b) der Typus des gelernten Arbeiters nach den Bestimmungen des nachstehenden Absatzes; oder
+- c) eine Person, deren Verdienst nicht niedriger ist als der Verdienst von 75 vom Hundert aller geschützten Personen, wobei dieser Verdienst auf der Grundlage jährlicher oder kürzerer Zeitspannen ermittelt wird, je nachdem was vorgeschrieben ist; oder
 - d) eine Person, deren Verdienst ebenso hoch ist wie 125 vom Hundert des Durchschnittsverdienstes aller geschützten Personen.
 
 <sup>7.</sup> Als Typus des gelernten Arbeiters im Sinne von b) des vorstehenden Absatzes hat eine Person zu gelten, die in der Hauptgruppe mit der grössten Zahl für den betreffenden Fall geschützter erwerbstätiger männlicher Personen oder von Unterhaltspflichtigen der geschützten Personen innerhalb der Abteilung beschäftigt ist, die ihrerseits die grösste Zahl solcher Personen oder Unterhaltspflichtiger umfasst; hierfür wird die Internationale Systematik der wirtschaftlichen Tätigkeiten zugrunde gelegt, die vom Wirtschafts‑ und Sozialrat der Organisation der Vereinten Nationen auf seiner siebenten Tagung am 27. August 1948 angenommen wurde und im Anhang zu diesem Übereinkommen wiedergegeben ist, unter Berücksichtigung aller späteren Änderungen.
@@ -573,9 +614,11 @@ Die in den Artikeln 62 und 63 bezeichneten Leistungen sind während der ganzen D
 
 <sup>3.</sup> Für die übrigen Leistungsempfänger hat die Leistung in einem angemessenen Verhältnis zu der des Typus des Leistungsempfängers zu stehen.
 
-<sup>4.</sup> Im Sinne dieses Artikels hat als gewöhnlicher erwachsener männlicher ungelernter Arbeiter zu gelten
+<sup>4.</sup>
 
-- a) der Typus des ungelernten Arbeiters in der Maschinenbauindustrie mit Ausnahme der Elektromaschinenindustrie oder
+Im Sinne dieses Artikels hat als gewöhnlicher erwachsener männlicher ungelernter Arbeiter zu gelten:
+
+- a) der Typus des ungelernten Arbeiters in der Maschinenbauindustrie mit Ausnahme der Elektromaschinenindustrie; oder
 - b) der Typus des ungelernten Arbeiters nach den Bestimmungen des nachstehenden Absatzes.
 
 <sup>5.</sup> Als Typus des ungelernten Arbeiters im Sinne von b) des vorstehenden Absatzes hat eine Person zu gelten, die in der Hauptgruppe mit der grössten Zahl für den betreffenden Fall geschützter erwerbstätiger männlicher Personen oder von Unterhaltspflichtigen der geschützten Personen innerhalb der Abteilung beschäftigt ist, die ihrerseits die grösste Zahl solcher Personen oder Unterhaltspflichtiger umfasst; hierfür wird die Internationale Systematik der wirtschaftlichen Tätigkeiten zugrunde gelegt, die vom Wirtschafts‑ und Sozialrat der Organisation der Vereinten Nationen auf seiner siebenten Tagung am 27. August 1948 angenommen wurde und im Anhang zu diesem Übereinkommen wiedergegeben ist, unter Berücksichtigung aller späteren Änderungen.
@@ -601,9 +644,9 @@ Bei einer regelmässig wiederkehrenden Zahlung, auf welche dieser Artikel Anwend
 
   Die Bedingungen in c) haben als erfüllt zu gelten, wenn der Gesamtbetrag der nach dem betreffenden Teil gewährten Leistungen um mindestens 30 vom Hundert höher ist als der Gesamtbetrag der Leistungen, der bei Anwendung der Bestimmungen des Artikels 66 und der nachstehenden Bestimmungen erreicht würde:
 
-  - i) Artikel 15 b) für Teil III,
-  - ii) Artikel 27 b) für Teil V,
-  - iii) Artikel 55 b) für Teil IX,
+  - i) Artikel 15 b) für Teil III;
+  - ii) Artikel 27 b) für Teil V;
+  - iii) Artikel 55 b) für Teil IX;
   - iv) Artikel 61 b) für Teil X.
 
 <table>
@@ -629,17 +672,17 @@ Bei einer regelmässig wiederkehrenden Zahlung, auf welche dieser Artikel Anwend
 
 #### Art. 69
 
-Eine Leistung, auf die eine geschützte Person nach einem der Teile II bis X dieses Übereinkommens Anspruch hätte, kann in einem vorgeschriebenen Ausmass ruhen,
+Eine Leistung, auf die eine geschützte Person nach einem der Teile II bis X dieses Übereinkommens Anspruch hätte, kann in einem vorgeschriebenen Ausmass ruhen:
 
-- a) solange die betreffende Person sich ausserhalb des Gebietes des Mitglieds aufhält,
-- b) solange der Unterhalt der betreffenden Person aus öffentlichen Mitteln oder von einer Einrichtung oder einem Dienst der Sozialen Sicherheit bestritten wird, wobei jedoch, falls die Leistung den Wert des Unterhalts übersteigt, der Unterschied den unterhaltsberechtigten Angehörigen des Leistungsempfängers zuzuweisen ist,
-- c) solange die betreffende Person eine andere Geldleistung der Sozialen Sicherheit mit Ausnahme einer Familienleistung bezieht, ferner, solange sie für denselben Fall von dritter Seite entschädigt wird, wobei jedoch der ruhende Leistungsteil die andere Leistung oder die von dritter Seite gewährte Entschädigung nicht übersteigen darf,
-- d) wenn die betreffende Person durch Betrug versucht hat, eine Leistung zu erhalten,
-- e) wenn der Fall von der betreffenden Person durch ein von ihr begangenes Verbrechen oder Vergehen herbeigeführt worden ist,
-- f) wenn der Fall von der betreffenden Person vorsätzlich herbeigeführt worden ist,
-- g) in entsprechenden Fällen, wenn die betreffende Person es unterlässt, von den ihr zur Verfügung gestellten Einrichtungen des ärztlichen Dienstes oder des Dienstes für die berufliche Nach‑ und Umschulung Gebrauch zu machen oder die für die Nachprüfung des Bestehens des Falls oder für das Verhalten der Leistungsempfänger vorgeschriebene Regelung nicht befolgt,
-- h) bei Leistungen im Fall der Arbeitslosigkeit, wenn die betreffende Person es unterlässt, von den ihr zur Verfügung gestellten Einrichtungen der Arbeitsvermittlung Gebrauch zu machen,
-- i) bei Leistungen im Fall der Arbeitslosigkeit, wenn der Verlust der Beschäftigung die unmittelbare Folge einer auf eine Arbeitsstreitigkeit zurückzuführenden Arbeitseinstellung war oder die betreffende Person ihre Beschäftigung freiwillig ohne ausreichende Gründe aufgegeben hat, und
+- a) solange die betreffende Person sich ausserhalb des Gebietes des Mitglieds aufhält;
+- b) solange der Unterhalt der betreffenden Person aus öffentlichen Mitteln oder von einer Einrichtung oder einem Dienst der Sozialen Sicherheit bestritten wird, wobei jedoch, falls die Leistung den Wert des Unterhalts übersteigt, der Unterschied den unterhaltsberechtigten Angehörigen des Leistungsempfängers zuzuweisen ist;
+- c) solange die betreffende Person eine andere Geldleistung der Sozialen Sicherheit mit Ausnahme einer Familienleistung bezieht, ferner, solange sie für denselben Fall von dritter Seite entschädigt wird, wobei jedoch der ruhende Leistungsteil die andere Leistung oder die von dritter Seite gewährte Entschädigung nicht übersteigen darf;
+- d) wenn die betreffende Person durch Betrug versucht hat, eine Leistung zu erhalten;
+- e) wenn der Fall von der betreffenden Person durch ein von ihr begangenes Verbrechen oder Vergehen herbeigeführt worden ist;
+- f) wenn der Fall von der betreffenden Person vorsätzlich herbeigeführt worden ist;
+- g) in entsprechenden Fällen, wenn die betreffende Person es unterlässt, von den ihr zur Verfügung gestellten Einrichtungen des ärztlichen Dienstes oder des Dienstes für die berufliche Nach‑ und Umschulung Gebrauch zu machen oder die für die Nachprüfung des Bestehens des Falls oder für das Verhalten der Leistungsempfänger vorgeschriebene Regelung nicht befolgt;
+- h) bei Leistungen im Fall der Arbeitslosigkeit, wenn die betreffende Person es unterlässt, von den ihr zur Verfügung gestellten Einrichtungen der Arbeitsvermittlung Gebrauch zu machen;
+- i) bei Leistungen im Fall der Arbeitslosigkeit, wenn der Verlust der Beschäftigung die unmittelbare Folge einer auf eine Arbeitsstreitigkeit zurückzuführenden Arbeitseinstellung war oder die betreffende Person ihre Beschäftigung freiwillig ohne ausreichende Gründe aufgegeben hat; und
 - j) bei Leistungen an Hinterbliebene, solange eine Witwe mit einem Mann in eheähnlicher Gemeinschaft lebt.
 
 #### Art. 70
@@ -668,9 +711,9 @@ Eine Leistung, auf die eine geschützte Person nach einem der Teile II bis X die
 
 #### Art. 73
 
-Dieses Übereinkommen findet keine Anwendung auf
+Dieses Übereinkommen findet keine Anwendung auf:
 
-- a) Fälle, die sich vor dem Inkrafttreten des entsprechenden Teils des Übereinkommens für das betreffende Mitglied ereignet haben,
+- a) Fälle, die sich vor dem Inkrafttreten des entsprechenden Teils des Übereinkommens für das betreffende Mitglied ereignet haben;
 - b) Leistungen für Fälle, die sich nach dem Inkrafttreten des entsprechenden Teils des Übereinkommens für das betreffende Mitglied ereignet haben, soweit sich die Ansprüche auf diese Leistungen aus der Zeit vor diesem Inkrafttreten herleiten.
 
 #### Art. 74
@@ -683,11 +726,11 @@ Enthält ein Übereinkommen, das später von der Konferenz angenommen wird und s
 
 #### Art. 76
 
-<sup>1.</sup> Jedes Mitglied, das dieses Übereinkommen ratifiziert, verpflichtet sich, in dem Jahresbericht, den es nach Artikel 22 der Verfassung der Internationalen Arbeitsorganisation über die Anwendung dieses Übereinkommens vorzulegen hat,
+<sup>1.</sup> Diese Nachweise haben in ihrer Darstellung soweit wie möglich den vom Verwaltungsrat des Internationalen Arbeitsamtes zur Erzielung einer grösseren Einheitlichkeit gemachten Vorschlägen zu entsprechen.
 
-Diese Nachweise haben in ihrer Darstellung soweit wie möglich den vom Verwaltungsrat des Internationalen Arbeitsamtes zur Erzielung einer grösseren Einheitlichkeit gemachten Vorschlägen zu entsprechen.
+Jedes Mitglied, das dieses Übereinkommen ratifiziert, verpflichtet sich, in dem Jahresbericht, den es nach Artikel 22 der Verfassung der Internationalen Arbeitsorganisation über die Anwendung dieses Übereinkommens vorzulegen hat:
 
-- a) vollständige Auskünfte über die Gesetzgebung, durch welche die Bestimmungen des Übereinkommens verwirklicht werden, zu erteilen,
+- a) vollständige Auskünfte über die Gesetzgebung, durch welche die Bestimmungen des Übereinkommens verwirklicht werden, zu erteilen;
 - b)
 
   Nachweise darüber zu erbringen, dass es die in den folgenden Bestimmungen bezeichneten statistischen Erfordernisse erfüllt hat:
@@ -722,11 +765,13 @@ Die förmlichen Ratifikationen dieses Übereinkommens sind dem Generaldirektor d
 
 #### Art. 80
 
-<sup>1.</sup> In den dem Generaldirektor des Internationalen Arbeitsamtes nach Artikel 35 Absatz 2 der Verfassung der Internationalen Arbeitsorganisation übermittelten Erklärungen hat das beteiligte Mitglied die Gebiete bekanntzugeben,
+<sup>1.</sup>
 
-- a) für die es die Verpflichtung zur unveränderten Durchführung der Bestimmungen des Übereinkommens oder einzelner Teile des Übereinkommens übernimmt,
-- b) für die es die Verpflichtung zur Durchführung der Bestimmungen des Übereinkommens oder einzelner Teile des Übereinkommens mit Abweichungen übernimmt, unter Angabe der Einzelheiten dieser Abweichungen,
-- c) in denen das Übereinkommen nicht durchgeführt werden kann, und in diesem Fall die Gründe dafür,
+In den dem Generaldirektor des Internationalen Arbeitsamtes nach Artikel 35 Absatz 2 der Verfassung der Internationalen Arbeitsorganisation übermittelten Erklärungen hat das beteiligte Mitglied die Gebiete bekanntzugeben:
+
+- a) für die es die Verpflichtung zur unveränderten Durchführung der Bestimmungen des Übereinkommens oder einzelner Teile des Übereinkommens übernimmt;
+- b) für die es die Verpflichtung zur Durchführung der Bestimmungen des Übereinkommens oder einzelner Teile des Übereinkommens mit Abweichungen übernimmt, unter Angabe der Einzelheiten dieser Abweichungen;
+- c) in denen das Übereinkommen nicht durchgeführt werden kann, und in diesem Fall die Gründe dafür;
 - d) für die es sich die Entscheidung bis zu einer weiteren Prüfung der Lage in Bezug auf die betreffenden Gebiete vorbehält.
 
 <sup>2.</sup> Die Verpflichtungen nach Absatz 1a) und b) dieses Artikels gelten als Bestandteil der Ratifikation und haben die Wirkung einer solchen.
@@ -892,18 +937,20 @@ Abteilung 9. Ungenügend umschriebene Tätigkeiten:
 
 \90. Ungenügend umschriebene Tätigkeiten
 
-Geltungsbereich am 24. April 2019**[^t-2]**
+Geltungsbereich am 29. August 2023[^t-2]
 
 <table>
 <tr><th>[tab] Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th>[tab]</th><th>[tab] Inkrafttreten</th><th>[tab]</th></tr>
 <tr><td>Albanien</td><td>18. Januar</td><td>2006</td><td>18. Januar</td><td>2007</td></tr>
 <tr><td>Barbados</td><td>11. Juli</td><td>1972</td><td>11. Juli</td><td>1973</td></tr>
 <tr><td>Belgien</td><td>26. November</td><td>1959</td><td>26. November</td><td>1960</td></tr>
+<tr><td>Benin</td><td>14. Juni</td><td>2019</td><td>14. Juni</td><td>2020</td></tr>
 <tr><td>Bolivien\*</td><td>31. Januar</td><td>1977</td><td>31. Januar</td><td>1978</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>2. Juni</td><td>1993 N</td><td>2. Juni</td><td>1993</td></tr>
 <tr><td>Brasilien</td><td>15. Juni</td><td>2009</td><td>15. Juni</td><td>2010</td></tr>
 <tr><td>Bulgarien</td><td>14. Juli</td><td>2008</td><td>14. Juli</td><td>2009</td></tr>
 <tr><td>Costa Rica</td><td>16. März</td><td>1972</td><td>16. März</td><td>1973</td></tr>
+<tr><td>Côte d’Ivoire</td><td>26. April</td><td>2023</td><td>26. April</td><td>2024</td></tr>
 <tr><td>Dänemark</td><td>15. August</td><td>1955</td><td>15. August</td><td>1956</td></tr>
 <tr><td>Deutschland</td><td>21. Februar</td><td>1958</td><td>21. Februar</td><td>1959</td></tr>
 <tr><td>Dominikanische Republik</td><td>11. Juli</td><td>2016</td><td>11. Juli</td><td>2017</td></tr>
@@ -911,16 +958,19 @@ Geltungsbereich am 24. April 2019**[^t-2]**
 <tr><td>Frankreich</td><td>14. Juni</td><td>1974</td><td>14. Juni</td><td>1975</td></tr>
 <tr><td>Griechenland</td><td>16. Juni</td><td>1955</td><td>16. Juni</td><td>1956</td></tr>
 <tr><td>Honduras</td><td>1. November</td><td>2012</td><td>1. November</td><td>2013</td></tr>
+<tr><td>Irak</td><td>22. März</td><td>2023</td><td>22. März</td><td>2024</td></tr>
 <tr><td>Irland</td><td>17. Juni</td><td>1968</td><td>17. Juni</td><td>1969</td></tr>
 <tr><td>Island</td><td>20. Februar</td><td>1961</td><td>20. Februar</td><td>1962</td></tr>
 <tr><td>Israel</td><td>16. Dezember</td><td>1955</td><td>16. Dezember</td><td>1956</td></tr>
 <tr><td>Italien</td><td>8. Juni</td><td>1956</td><td>8. Juni</td><td>1957</td></tr>
 <tr><td>Japan</td><td>2. Februar</td><td>1976</td><td>2. Februar</td><td>1977</td></tr>
 <tr><td>Jordanien</td><td>12. Februar</td><td>2014</td><td>12. Februar</td><td>2015</td></tr>
+<tr><td>Komoren</td><td>28. Juli</td><td>2022</td><td>28. Juli</td><td>2023</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>3. April</td><td>1987</td><td>3. April</td><td>1988</td></tr>
 <tr><td>Kroatien</td><td>8. Oktober</td><td>1991 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Libyen</td><td>19. Juni</td><td>1975</td><td>19. Juni</td><td>1976</td></tr>
 <tr><td>Luxemburg</td><td>31. August</td><td>1964</td><td>31. August</td><td>1965</td></tr>
+<tr><td>Marokko</td><td>14. Juni</td><td>2019</td><td>14. Juni</td><td>2020</td></tr>
 <tr><td>Mauretanien</td><td>15. Juli</td><td>1968</td><td>15. Juli</td><td>1969</td></tr>
 <tr><td>Mexiko</td><td>12. Oktober</td><td>1961</td><td>12. Oktober</td><td>1962</td></tr>
 <tr><td>Montenegro</td><td>3. Juni</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
@@ -929,6 +979,7 @@ Geltungsbereich am 24. April 2019**[^t-2]**
 <tr><td>Nordmazedonien</td><td>17. November</td><td>1991 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>30. September</td><td>1954</td><td>30. September</td><td>1955</td></tr>
 <tr><td>Österreich</td><td>4. November</td><td>1969</td><td>4. November</td><td>1970</td></tr>
+<tr><td>Paraguay</td><td>25. Oktober</td><td>2021</td><td>25. Oktober</td><td>2022</td></tr>
 <tr><td>Peru</td><td>23. August</td><td>1961</td><td>23. August</td><td>1962</td></tr>
 <tr><td>Polen</td><td>3. Dezember</td><td>2003</td><td>3. Dezember</td><td>2004</td></tr>
 <tr><td>Portugal</td><td>17. März</td><td>1994</td><td>17. März</td><td>1995</td></tr>
@@ -938,6 +989,7 @@ Geltungsbereich am 24. April 2019**[^t-2]**
 <tr><td>Schweiz\*</td><td>18. Oktober</td><td>1977</td><td>18. Oktober</td><td>1978</td></tr>
 <tr><td>Senegal</td><td>22. Oktober</td><td>1962</td><td>22. Oktober</td><td>1963</td></tr>
 <tr><td>Serbien</td><td>24. November</td><td>2000 N</td><td>20. Dezember</td><td>1955</td></tr>
+<tr><td>Sierra Leone</td><td>29. März</td><td>2022</td><td>29. März</td><td>2023</td></tr>
 <tr><td>Slowakei</td><td>1. Januar</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>29. Mai</td><td>1992 N</td><td>29. Mai</td><td>1992</td></tr>
 <tr><td>Spanien</td><td>29. Juni</td><td>1988</td><td>29. Juni</td><td>1989</td></tr>
@@ -952,10 +1004,10 @@ Geltungsbereich am 24. April 2019**[^t-2]**
 <tr><td>Vereinigtes Königreich</td><td>27. April</td><td>1954</td><td>27. April</td><td>1955</td></tr>
 <tr><td>[tab] Insel Man</td><td>22. September</td><td>1960</td><td>22. September</td><td>1960</td></tr>
 <tr><td>Zypern</td><td>3. September</td><td>1991</td><td>3. September</td><td>1992</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626), [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307), [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480), [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367), [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461), [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613), [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295), [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254), [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

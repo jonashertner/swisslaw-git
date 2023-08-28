@@ -3,11 +3,11 @@ sr: "0.831.102"
 title: Convenzione n. 102 del 28 giugno 1952 concernente le norme minime della sicurezza sociale (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626"
 language: it
-version: 2019-04-24
+version: 2023-08-29
 adopted: 1952-06-28
 in_force: 1978-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20190424/it/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20190424-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20190424/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20230829/it/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20230829-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20230829/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1978** 1626; FF **1976** III 1313
 
 Traduzione
 
-Conchiusa a Ginevra il 28 giugno 1952
+Conchiusa a Ginevra il 28 giugno 1952 Approvata dall’Assemblea federale il 23 giugno 1977[^t-1] Ratificata dalla Svizzera con strumento depositato il 18 ottobre 1977 Entrata in vigore per la Svizzera il 18 ottobre 1978
 
-Approvata dall’Assemblea federale il 23 giugno 1977[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 18 ottobre 1977
-
-Entrata in vigore per la Svizzera il 18 ottobre 1978
-
-(Stato 24 aprile 2019)
+(Stato 29 agosto 2023)
 
 [^t-1]: Art. 1 cpv. 2 del DF del 23 giu. 1977 ([RU 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
 
@@ -103,7 +97,7 @@ Per l’applicazione delle parti II, III, IV, V, VIII (per quanto concerne le cu
 - b) coprono una parte sostanziale delle persone il cui reddito non supera quello dell’operaio qualificato di sesso maschile;
 - c) soddisfano, congiuntamente con altre forme di protezione, se necessario, le pertinenti disposizioni convenzionali.
 
-## Parte II: Cure mediche****
+## Parte II: Cure mediche
 
 [^partII-1]
 
@@ -164,7 +158,7 @@ Le prestazioni di cui all’articolo 10 devono, per l’evento coperto, essere g
 
 <sup>2.</sup> Se è stata fatta una dichiarazione in applicazione dell’articolo 3, la durata delle prestazioni può essere limitata a 13 settimane per caso.
 
-## Parte III: Indennità di malattia****
+## Parte III: Indennità di malattia
 
 [^partIII-1]
 
@@ -208,7 +202,7 @@ Se è stata fatta una dichiarazione in applicazione dell’articolo 3, la durata
 - a) sia a un periodo tale che il numero complessivo di giorni, per i quali è accordata l’indennità di malattia nel corso di un anno, non sia inferiore a 10 volte il numero medio delle persone protette durante lo stesso anno;
 - b) sia a 13 settimane per caso di malattia, con la possibilità di omettere la prestazione per i primi tre giorni di sospensione del guadagno.
 
-## Parte IV: Prestazioni di disoccupazione****
+## Parte IV: Prestazioni di disoccupazione
 
 [^partIV-1]
 
@@ -428,7 +422,7 @@ Il valore totale delle prestazioni concesse conformemente all’articolo 42 alle
 
 Le prestazioni, se consistono in un pagamento periodico, sono concesse per tutta la durata dell’evento.
 
-## Parte VIII: Prestazioni di maternità****
+## Parte VIII: Prestazioni di maternità
 
 [^partVIII-1]
 
@@ -944,7 +938,7 @@ Ramo 9. Attività non descritta adeguatamente:
 
 \90. Attività non descritta adeguatamente
 
-Campo d’applicazione il 24 aprile 2019**[^t-2]**
+Campo d’applicazione il 29 agosto 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -952,6 +946,7 @@ Campo d’applicazione il 24 aprile 2019**[^t-2]**
 <tr><td>Austria</td><td>4 novembre</td><td>1969</td><td>4 novembre</td><td>1970</td></tr>
 <tr><td>Barbados</td><td>11 luglio</td><td>1972</td><td>11 luglio</td><td>1973</td></tr>
 <tr><td>Belgio</td><td>26 novembre</td><td>1959</td><td>26 novembre</td><td>1960</td></tr>
+<tr><td>Benin</td><td>14 giugno</td><td>2019</td><td>14 giugno</td><td>2020</td></tr>
 <tr><td>Bolivia<sup>\*</sup></td><td>31 gennaio</td><td>1977</td><td>31 gennaio</td><td>1978</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>2 giugno</td><td>1993 S</td><td>2 giugno</td><td>1993</td></tr>
 <tr><td>Brasile</td><td>15 giugno</td><td>2009</td><td>15 giugno</td><td>2010</td></tr>
@@ -959,7 +954,9 @@ Campo d’applicazione il 24 aprile 2019**[^t-2]**
 <tr><td>Ceca, Repubblica</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Ciad</td><td>4 giugno</td><td>2015</td><td>4 giugno</td><td>2016</td></tr>
 <tr><td>Cipro</td><td>3 settembre</td><td>1991</td><td>3 settembre</td><td>1992</td></tr>
+<tr><td>Comore</td><td>28 luglio</td><td>2022</td><td>28 luglio</td><td>2023</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>3 aprile</td><td>1987</td><td>3 aprile</td><td>1988</td></tr>
+<tr><td>Costa d’Avorio</td><td>26 aprile</td><td>2023</td><td>26 aprile</td><td>2024</td></tr>
 <tr><td>Costa Rica</td><td>16 marzo</td><td>1972</td><td>16 marzo</td><td>1973</td></tr>
 <tr><td>Croazia</td><td>8 ottobre</td><td>1991 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Danimarca</td><td>15 agosto</td><td>1955</td><td>15 agosto</td><td>1956</td></tr>
@@ -971,6 +968,7 @@ Campo d’applicazione il 24 aprile 2019**[^t-2]**
 <tr><td>Giordania</td><td>12 febbraio</td><td>2014</td><td>12 febbraio</td><td>2015</td></tr>
 <tr><td>Grecia</td><td>16 giugno</td><td>1955</td><td>16 giugno</td><td>1956</td></tr>
 <tr><td>Honduras</td><td>1° novembre</td><td>2012</td><td>1° novembre</td><td>2013</td></tr>
+<tr><td>Iraq</td><td>22 marzo</td><td>2023</td><td>22 marzo</td><td>2024</td></tr>
 <tr><td>Irlanda</td><td>17 giugno</td><td>1968</td><td>17 giugno</td><td>1969</td></tr>
 <tr><td>Islanda</td><td>20 febbraio</td><td>1961</td><td>20 febbraio</td><td>1962</td></tr>
 <tr><td>Israele</td><td>16 dicembre</td><td>1955</td><td>16 dicembre</td><td>1956</td></tr>
@@ -978,12 +976,14 @@ Campo d’applicazione il 24 aprile 2019**[^t-2]**
 <tr><td>Libia</td><td>19 giugno</td><td>1975</td><td>19 giugno</td><td>1976</td></tr>
 <tr><td>Lussemburgo</td><td>31 agosto</td><td>1964</td><td>31 agosto</td><td>1965</td></tr>
 <tr><td>Macedonia del Nord</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Marocco</td><td>14 giugno</td><td>2019</td><td>14 giugno</td><td>2020</td></tr>
 <tr><td>Mauritania</td><td>15 luglio</td><td>1968</td><td>15 luglio</td><td>1969</td></tr>
 <tr><td>Messico</td><td>12 ottobre</td><td>1961</td><td>12 ottobre</td><td>1962</td></tr>
 <tr><td>Montenegro</td><td>3 giugno</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Niger</td><td>9 agosto</td><td>1966</td><td>9 agosto</td><td>1967</td></tr>
 <tr><td>Norvegia</td><td>30 settembre</td><td>1954</td><td>30 settembre</td><td>1955</td></tr>
 <tr><td>Paesi Bassi</td><td>11 ottobre</td><td>1962</td><td>11 ottobre</td><td>1963</td></tr>
+<tr><td>Paraguay</td><td>25 ottobre</td><td>2021</td><td>25 ottobre</td><td>2022</td></tr>
 <tr><td>Perù</td><td>23 agosto</td><td>1961</td><td>23 agosto</td><td>1962</td></tr>
 <tr><td>Polonia</td><td>3 dicembre</td><td>2003</td><td>3 dicembre</td><td>2004</td></tr>
 <tr><td>Portogallo</td><td>17 marzo</td><td>1994</td><td>17 marzo</td><td>1995</td></tr>
@@ -994,6 +994,7 @@ Campo d’applicazione il 24 aprile 2019**[^t-2]**
 <tr><td>Saint Vincent e Grenadine</td><td>25 novembre</td><td>2015</td><td>25 novembre</td><td>2016</td></tr>
 <tr><td>Senegal</td><td>22 ottobre</td><td>1962</td><td>22 ottobre</td><td>1963</td></tr>
 <tr><td>Serbia</td><td>24 novembre</td><td>2000 S</td><td>20 dicembre</td><td>1955</td></tr>
+<tr><td>Sierra Leone</td><td>29 marzo</td><td>2022</td><td>29 marzo</td><td>2023</td></tr>
 <tr><td>Slovacchia</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>29 maggio</td><td>1992 S</td><td>29 maggio</td><td>1992</td></tr>
 <tr><td>Spagna</td><td>29 giugno</td><td>1988</td><td>29 giugno</td><td>1989</td></tr>
@@ -1004,14 +1005,14 @@ Campo d’applicazione il 24 aprile 2019**[^t-2]**
 <tr><td>Ucraina</td><td>6 giugno</td><td>2016</td><td>6 giugno</td><td>2017</td></tr>
 <tr><td>Uruguay</td><td>14 ottobre</td><td>2010</td><td>14 ottobre</td><td>2011</td></tr>
 <tr><td>Venezuela</td><td>5 novembre</td><td>1982</td><td>5 novembre</td><td>1983</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul Sito Internet dell’Organizzazione internazionale del lavoro: www.ilo.org od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione Internazionale del Lavoro: [www.ilo.org](http://www.ilo.org/) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626), [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307), [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480), [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367), [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461), [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613), [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295), [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254)e [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
-## Svizzera****
+## Svizzera
 
 [^declu2-lvlu1-1]
 

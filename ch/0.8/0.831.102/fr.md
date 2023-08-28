@@ -3,11 +3,11 @@ sr: "0.831.102"
 title: "Convention n<sup>o</sup> 102 du 28 juin 1952 concernant la norme minimum de la sécurité sociale (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626"
 language: fr
-version: 2019-04-24
+version: 2023-08-29
 adopted: 1952-06-28
 in_force: 1978-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20190424/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20190424-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20190424/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20230829/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20230829-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20230829/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Adoptée à Genève le 28 juin 1952 Approuvée par l’Assemblée fédérale le 23 juin 1977[^t-1] Instrument de ratification déposé par la Suisse le 18 octobre 1977 Entrée en vigueur pour la Suisse le 18 octobre 1978
 
-(Etat le 24 avril 2019)
+(État le 29 août 2023)
 
 [^t-1]: Art. 1 al. 2 de l’AF du 23 juin 1977 ([RO 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
 
@@ -97,7 +97,7 @@ En vue d’appliquer les Parties II, III, IV, V, VIII (en ce qui concerne les so
 - b) couvrent une partie substantielle des personnes dont le gain ne dépasse pas celui de l’ouvrier masculin qualifié;
 - c) satisfont, conjointement avec les autres formes de protection, s’il y a lieu, aux dispositions de la convention qui leur sont relatives.
 
-## Partie II Soins médicaux****
+## Partie II Soins médicaux
 
 [^partII-1]
 
@@ -158,7 +158,7 @@ Les prestations mentionnées à l’art. 10 doivent, dans l’éventualité couv
 
 <sup>2.</sup> Lorsqu’une déclaration a été faite en application de l’art. 3, la durée des prestations peut être limitée à 13 semaines par cas.
 
-## Partie III Indemnités de maladie****
+## Partie III Indemnités de maladie
 
 [^partIII-1]
 
@@ -202,7 +202,7 @@ Lorsqu’une déclaration a été faite en application de l’art. 3, la durée 
 - a) soit à une période telle que le nombre total de jours pour lesquels l’indemnité de maladie est accordée au cours d’une année ne soit pas inférieur à dix fois le nombre moyen des personnes protégées pendant la même année;
 - b) soit à 13 semaines par cas de maladie, avec la possibilité de ne pas servir la prestation pour les trois premiers jours de suspension du gain.
 
-## Partie IV Prestations de chômage****
+## Partie IV Prestations de chômage
 
 [^partIV-1]
 
@@ -422,7 +422,7 @@ La valeur totale des prestations attribuées conformément à l’art. 42 aux pe
 
 Lorsque les prestations consistent en un paiement périodique, elles doivent être accordées pendant toute la durée de l’éventualité.
 
-## Partie VIII Prestations de maternité****
+## Partie VIII Prestations de maternité
 
 [^partVIII-1]
 
@@ -650,7 +650,7 @@ Pour tout paiement périodique auquel le présent article s’applique:
   - iv) l’al. b) de l’art. 61 pour la Partie X.
 
 <table>
-<tr><td>Partie</td><td>Eventualité</td><td>Bénéficiaire-type</td><td>Pourcentage</td></tr>
+<tr><td>Partie</td><td>Éventualité</td><td>Bénéficiaire-type</td><td>Pourcentage</td></tr>
 <tr><td>III</td><td>Maladie</td><td>Homme ayant une épouse et 2 enfants</td><td>45</td></tr>
 <tr><td>IV</td><td>Chômage</td><td>Homme ayant une épouse et 2 enfants</td><td>45</td></tr>
 <tr><td>V</td><td>Vieillesse</td><td>Homme ayant une épouse d’âge à pension</td><td>40</td></tr>
@@ -663,7 +663,7 @@ Pour tout paiement périodique auquel le présent article s’applique:
 <tr><td>X</td><td>Survivants</td><td>Veuve ayant 2 enfants</td><td>40</td></tr>
 </table>
 
-## Partie XII Egalité de traitement des résidants non nationaux
+## Partie XII Égalité de traitement des résidants non nationaux
 
 #### Art. 68
 
@@ -909,9 +909,9 @@ Branche 4. Construction:
 
 \40. Construction
 
-Branche 5. Electricité, gaz, eau et services sanitaires:
+Branche 5. Électricité, gaz, eau et services sanitaires:
 
-\51. Electricité, gaz et vapeur
+\51. Électricité, gaz et vapeur
 
 \52. Services des eaux et services sanitaires
 
@@ -947,29 +947,33 @@ Branche 9. Activités mal désignées:
 
 \90. Activités mal désignées
 
-Champ d’application le 24 avril 2019**[^t-2]**
+Champ d’application le 29 août 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>18 janvier</td><td>2006</td><td>18 janvier</td><td>2007</td></tr>
 <tr><td>Allemagne</td><td>21 février</td><td>1958</td><td>21 février</td><td>1959</td></tr>
 <tr><td>Autriche</td><td>4 novembre</td><td>1969</td><td>4 novembre</td><td>1970</td></tr>
 <tr><td>Barbade</td><td>11 juillet</td><td>1972</td><td>11 juillet</td><td>1973</td></tr>
 <tr><td>Belgique</td><td>26 novembre</td><td>1959</td><td>26 novembre</td><td>1960</td></tr>
+<tr><td>Bénin</td><td>14 juin</td><td>2019</td><td>14 juin</td><td>2020</td></tr>
 <tr><td>Bolivie\*</td><td>31 janvier</td><td>1977</td><td>31 janvier</td><td>1978</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>2 juin</td><td>1993 S</td><td>2 juin</td><td>1993</td></tr>
 <tr><td>Brésil</td><td>15 juin</td><td>2009</td><td>15 juin</td><td>2010</td></tr>
 <tr><td>Bulgarie</td><td>14 juillet</td><td>2008</td><td>14 juillet</td><td>2009</td></tr>
 <tr><td>Chypre</td><td>3 septembre</td><td>1991</td><td>3 septembre</td><td>1992</td></tr>
+<tr><td>Comores</td><td>28 juillet</td><td>2022</td><td>28 juillet</td><td>2023</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>3 avril</td><td>1987</td><td>3 avril</td><td>1988</td></tr>
 <tr><td>Costa Rica</td><td>16 mars</td><td>1972</td><td>16 mars</td><td>1973</td></tr>
+<tr><td>Côte d’Ivoire</td><td>26 avril</td><td>2023</td><td>26 avril</td><td>2024</td></tr>
 <tr><td>Croatie</td><td>8 octobre</td><td>1991 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Danemark</td><td>15 août</td><td>1955</td><td>15 août</td><td>1956</td></tr>
-<tr><td>Equateur</td><td>25 octobre</td><td>1974</td><td>25 octobre</td><td>1975</td></tr>
+<tr><td>Équateur</td><td>25 octobre</td><td>1974</td><td>25 octobre</td><td>1975</td></tr>
 <tr><td>Espagne</td><td>29 juin</td><td>1988</td><td>29 juin</td><td>1989</td></tr>
 <tr><td>France</td><td>14 juin</td><td>1974</td><td>14 juin</td><td>1975</td></tr>
 <tr><td>Grèce</td><td>16 juin</td><td>1955</td><td>16 juin</td><td>1956</td></tr>
 <tr><td>Honduras</td><td>1<sup>er</sup> novembre</td><td>2012</td><td>1<sup>er</sup> novembre</td><td>2013</td></tr>
+<tr><td>Iraq</td><td>22 mars</td><td>2023</td><td>22 mars</td><td>2024</td></tr>
 <tr><td>Irlande</td><td>17 juin</td><td>1968</td><td>17 juin</td><td>1969</td></tr>
 <tr><td>Islande</td><td>20 février</td><td>1961</td><td>20 février</td><td>1962</td></tr>
 <tr><td>Israël</td><td>16 décembre</td><td>1955</td><td>16 décembre</td><td>1956</td></tr>
@@ -979,24 +983,27 @@ Champ d’application le 24 avril 2019**[^t-2]**
 <tr><td>Libye</td><td>19 juin</td><td>1975</td><td>19 juin</td><td>1976</td></tr>
 <tr><td>Luxembourg</td><td>31 août</td><td>1964</td><td>31 août</td><td>1965</td></tr>
 <tr><td>Macédoine du Nord</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Maroc</td><td>14 juin</td><td>2019</td><td>14 juin</td><td>2020</td></tr>
 <tr><td>Mauritanie</td><td>15 juillet</td><td>1968</td><td>15 juillet</td><td>1969</td></tr>
 <tr><td>Mexique</td><td>12 octobre</td><td>1961</td><td>12 octobre</td><td>1962</td></tr>
 <tr><td>Monténégro</td><td>3 juin</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Niger</td><td>9 août</td><td>1966</td><td>9 août</td><td>1967</td></tr>
 <tr><td>Norvège</td><td>30 septembre</td><td>1954</td><td>30 septembre</td><td>1955</td></tr>
+<tr><td>Paraguay</td><td>25 octobre</td><td>2021</td><td>25 octobre</td><td>2022</td></tr>
 <tr><td>Pays-Bas</td><td>11 octobre</td><td>1962</td><td>11 octobre</td><td>1963</td></tr>
 <tr><td>Pérou</td><td>23 août</td><td>1961</td><td>23 août</td><td>1962</td></tr>
 <tr><td>Pologne</td><td>3 décembre</td><td>2003</td><td>3 décembre</td><td>2004</td></tr>
 <tr><td>Portugal</td><td>17 mars</td><td>1994</td><td>17 mars</td><td>1995</td></tr>
 <tr><td>République dominicaine</td><td>11 juillet</td><td>2016</td><td>11 juillet</td><td>2017</td></tr>
 <tr><td>République tchèque</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td>Royaume-Uni</td><td>27 avril</td><td>1954</td><td>27 avril</td><td>1955</td></tr>
-<tr><td>[tab] Ile de Man</td><td>22 septembre</td><td>1960</td><td>22 septembre</td><td>1960</td></tr>
 <tr><td>Roumanie</td><td>15 octobre</td><td>2009</td><td>15 octobre</td><td>2010</td></tr>
+<tr><td>Royaume-Uni</td><td>27 avril</td><td>1954</td><td>27 avril</td><td>1955</td></tr>
+<tr><td>[tab] Île de Man</td><td>22 septembre</td><td>1960</td><td>22 septembre</td><td>1960</td></tr>
 <tr><td>Russie</td><td>26 février</td><td>2019</td><td>26 février</td><td>2020</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>25 novembre</td><td>2015</td><td>25 novembre</td><td>2016</td></tr>
 <tr><td>Sénégal</td><td>22 octobre</td><td>1962</td><td>22 octobre</td><td>1963</td></tr>
 <tr><td>Serbie</td><td>24 novembre</td><td>2000 S</td><td>20 décembre</td><td>1955</td></tr>
+<tr><td>Sierra Leone</td><td>29 mars</td><td>2022</td><td>29 mars</td><td>2023</td></tr>
 <tr><td>Slovaquie</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>29 mai</td><td>1992 S</td><td>29 mai</td><td>1992</td></tr>
 <tr><td>Suède</td><td>12 août</td><td>1953</td><td>27 avril</td><td>1955</td></tr>
@@ -1007,10 +1014,10 @@ Champ d’application le 24 avril 2019**[^t-2]**
 <tr><td>Ukraine</td><td>6 juin</td><td>2016</td><td>6 juin</td><td>2017</td></tr>
 <tr><td>Uruguay</td><td>14 octobre</td><td>2010</td><td>14 octobre</td><td>2011</td></tr>
 <tr><td>Venezuela</td><td>5 novembre</td><td>1982</td><td>5 novembre</td><td>1983</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: www.ilo.org/ &gt; Normes du travail &gt; NORMLEX &gt; Intruments &gt; Conventions et Recommandations à jour ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626), [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307), [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480), [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367), [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461), [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613), [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295), [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254), [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
