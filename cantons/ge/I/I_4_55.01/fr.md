@@ -1,0 +1,123 @@
+---
+canton: GE
+number: I 4 55.01
+title: Règlement d’application de la loi encourageant l’accession à la propriété du logement par l’épargne-logement (RAPLE)
+short: RAPLE
+language: fr
+version: 2023-08-29
+adopted: 1970-08-05
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_i4_55p01.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement d’application de la loi encourageant l’accession à la propriété du logement par l’épargne-logement (RAPLE)
+**Dernières modifications au 29 août 2023**
+
+du 5 août 1970
+
+(Entrée en vigueur : 1<sup>er</sup> janvier 1970)
+
+Le CONSEIL D’ETAT de la République et canton de Genève,
+
+vu la loi encourageant l’accession à la propriété du logement par l’épargne-logement, du 26 septembre 1969 (ci-après : loi),
+
+arrête :
+
+## Chapitre I Etablissements financiers
+
+#### Art. 1
+
+**Conditions**
+
+<sup>1</sup> Pour être autorisés à ouvrir des livrets d’épargne-logement, au sens de la loi, les établissements financiers doivent adresser une requête au département des finances, des ressources humaines et des affaires extérieures<sup>(6)</sup> (ci-après : département) et justifier qu’ils remplissent les conditions suivantes :
+
+- a) être soumis à la loi fédérale sur les banques et les caisses d’épargne, du 8 novembre 1934;
+- b) être établis à Genève depuis 5 ans au moins (siège ou succursale) ou constituer une filiale, inscrite au registre du commerce de Genève, d’un tel établissement;
+- c) pratiquer directement ou par l’intermédiaire d’un institut affilié le crédit hypothécaire sur le territoire du canton de Genève.
+
+<sup>2</sup> Ces établissements doivent, en outre, s’engager :
+
+- a) à servir sur les dépôts effectués au titre de l’épargne-logement, un intérêt dont le taux soit inférieur de 1% à celui des prêts hypothécaires de 1<sup>er</sup> rang, appliqué, en matière de logements, par la Banque hypothécaire du canton de Genève.<sup>(2)</sup>
+- b) à accorder ou procurer, dans le cadre de la loi, des prêts hypothécaires en premier et second rangs pour un montant global correspondant au minimum au double du total des dépôts reçus par eux au titre de l’épargne-logement;
+- c) à accorder ou procurer, sauf justes motifs de refus, des prêts hypothécaires, aux clauses et conditions usuelles, aux titulaires de livrets ouverts auprès d’eux;
+- d) à soumettre au département pour approbation leurs règlements particuliers relatifs à l’épargne-logement.
+
+## Chapitre II Livrets d’épargne-logement
+
+#### Art. 2
+
+**Dénomination**
+
+Les livrets d’épargne visés au chapitre II de la loi portent la dénomination « livret » ou « compte d’épargne-logement » ou encore « livret » ou « compte de dépôt-logement » à l’exclusion de toute autre. L’intitulé doit en outre indiquer clairement que le livret ou le compte est au bénéfice de l’aide de l’Etat au sens de la loi.
+
+#### Art. 3
+
+**Avis d’ouverture et de situation**
+
+<sup>1</sup> Dès l’ouverture d’un livret, l’établissement communique au département la date de l’ouverture et le numéro du livret, les nom et prénom du titulaire, son domicile et, le cas échéant, son numéro AVS ou, s’il s’agit d’un mineur, le numéro AVS de son répondant légal.
+
+<sup>2</sup> Au 31 décembre de chaque année, l’établissement indique, pour chaque titulaire, le montant du dépôt en capital et intérêts, le montant net des versements effectués pendant l’année, la valeur des intérêts bruts crédités pendant l’exercice. A cet effet, le titulaire autorise expressément l’établissement où il effectue ses dépôts à fournir au département tous renseignements permettant de fixer le principe et la quotité de son droit aux prestations prévues par la loi.
+
+#### Art. 4
+
+**Cumul des livrets**
+
+Chaque membre d’une même famille peut être titulaire d’un livret. Le cumul de ces livrets est possible pour l’acquisition du logement familial, pour autant que chaque participant occupe effectivement le logement commun en conformité de l’article 13, lettre b, de la loi, sauf circonstances particulières dûment admises par le département.
+
+#### Art. 4A<sup>(4)</sup>
+
+**Limite des versements annuels**
+
+Le montant total net des versements annuels ne peut excéder 12 000 francs par livret si le titulaire est majeur et 6 000 francs s’il est mineur.
+
+#### Art. 5
+
+**Retraits**
+
+<sup>1</sup> Sous réserve de l’article 8 de la loi, le titulaire peut procéder à des retraits de fonds sur son livret, selon les conditions fixées par l’établissement dans son règlement.
+
+<sup>2</sup> L’établissement informe sans délai le département lorsque le retrait est total et entraîne, de ce fait, l’annulation du livret. Les droits attachés à ce dernier deviennent caducs 30 jours après l’avis de la banque.
+
+<sup>3</sup> Toutefois, si pendant ce délai, le titulaire transfère l’intégralité des fonds retirés sur un nouveau livret d’épargne-logement, à son nom, les droits du titulaire sont reportés sur le nouveau livret. En outre, et sur demande du titulaire, une dérogation au principe de l’article 4 de la loi peut être autorisée si le montant transféré excède la limite des versements annuels admis.
+
+## Chapitre III Primes
+
+#### Art. 6
+
+**Avis au titulaire**
+
+Le département informe l’établissement, pour le compte du titulaire, de l’ouverture du compte de primes et lui communique la situation de ce compte au 31 décembre de chaque année.
+
+#### Art. 6A<sup>(1)</sup>
+
+**Montant des primes**
+
+<sup>1</sup> L’Etat crédite chaque année le compte de primes ouvert à la caisse de l’Etat d’un montant égal à celui des intérêts du capital épargné.
+
+<sup>2</sup> Ce montant ne peut toutefois pas dépasser 1 200 francs par an si le titulaire est majeur et 600 francs si le titulaire est mineur.<sup>(4)</sup>
+
+#### Art. 7
+
+**Contrôle**
+
+Le département contrôle, en tout temps, le respect des conditions légales et réglementaires, notamment celles qui figurent aux articles 3, 7, 8 et 10 de la loi.
+
+#### Art. 8
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 1970.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| I 4 55.01 R d’application de la loi encourageant l’accession à la propriété du logement par l’épargne-logement | 05.08.1970 | 01.01.1970 |
+| Modifications : |  |  |
+| 1. *n.* : 4A, 6A | 19.07.1972 | 01.01.1972 |
+| 2. *n.t.* : 1/2a | 01.12.1978 | 01.01.1979 |
+| 3. *n.t.* : dénomination du département (1/1) | 22.12.1993 | 01.01.1994 |
+| 4. *n.t.* : 4A, 6A/2 | 10.03.1997 | 20.03.1997 |
+| 5. *n.t.* : rectification selon 7C/1, B 2 05 (1/1 phr. 1) | 04.09.2018 | 04.09.2018 |
+| 6. *n.t.* : rectification selon 7C/1, B 2 05 (1/1 phr. 1) | 29.08.2023 | 29.08.2023 |
