@@ -1,0 +1,132 @@
+---
+canton: GE
+number: A 2 04.03
+title: Règlement sur le fonds de régulation dans le cadre de la réforme de la répartition des tâches entre les communes et le canton (RFRRT)
+short: RFRRT
+language: fr
+version: 2023-08-29
+adopted: 2016-08-24
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_a2_04p03.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement sur le fonds de régulation dans le cadre de la réforme de la répartition des tâches entre les communes et le canton (RFRRT)
+**Dernières modifications au 29 août 2023**
+
+du 24 août 2016
+
+(Entrée en vigueur : 31 août 2016)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève,
+
+vu la loi-cadre sur la répartition des tâches entre les communes et le canton, du 24 septembre 2015 (ci-après : la loi),
+
+arrête :
+
+#### Art. 1
+
+**But**
+
+En application des articles 7 et 8 de la loi, les présentes dispositions visent à assurer, dans l'attente d'une bascule fiscale, la neutralité financière des transferts de tâches entre les communes et le canton en fixant les mécanismes de fonctionnement du fonds de régulation.
+
+#### Art. 2
+
+**Définition**
+
+<sup>1</sup> Le fonds de régulation est constitué de l'ensemble des lignes budgétaires et comptables traduisant, dans les budgets et les comptes des communes et du canton, les engagements financiers entre collectivités publiques résultant d'un transfert de tâches en application de la loi.
+
+<sup>2</sup> Ces lignes budgétaires et comptables ne peuvent concerner que des transferts financiers entre les communes et le canton, à l'exclusion de toute autre entité privée ou publique.
+
+#### Art. 3
+
+**Planification et évaluation des coûts**
+
+<sup>1</sup> Le Conseil d'Etat, en concertation avec les communes, fixe la date effective de chaque transfert et les coûts directs et indirects des tâches à transférer.
+
+<sup>2</sup> La concertation avec les communes s’effectue comme suit :
+
+- a) les modalités d'évaluation des coûts directs et indirects ainsi que leur répartition entre les communes sont déterminées au cas par cas, en tenant compte des spécificités de chaque politique publique, selon les principes fixés dans la loi et les différents trains de lois;
+- b) la concertation s'effectue dans le cadre du comité de pilotage politique réunissant une délégation de l'Association des communes genevoises et une délégation du Conseil d'Etat;
+- c) si le comité de pilotage politique ne parvient pas à s'entendre sur l'évaluation des coûts et leur répartition entre les communes, le Conseil d'Etat consulte la Cour des comptes.
+
+#### Art. 4
+
+**Année et coût de référence**
+
+<sup>1</sup> L'année de référence pour déterminer le coût de la tâche transférée, et partant les montants transférés du canton aux communes ou des communes au canton, est l'année pendant laquelle le transfert de tâche a été voté.
+
+<sup>2</sup> Le coût de référence est en principe celui inscrit au budget voté ou, à défaut, au projet de budget établi par l'exécutif de la collectivité publique qui transfère une tâche.
+
+<sup>3</sup> En concertation avec les communes ou à leur demande, le Conseil d'Etat peut s'écarter de l'alinéa 2 si, en raison d'une variation significative du coût de la tâche, les montants inscrits dans les projets de budget s'avèrent insuffisants ou excessifs.
+
+<sup>4</sup> Les subventions culturelles sont transférées à leur niveau de l'exercice 2015.
+
+<sup>5</sup> Si le coût d'une tâche transférée connaît de fortes variations à l'échelle du canton ou de chaque commune, le Conseil d'Etat, en concertation avec les communes, peut se fonder sur le coût moyen réel de cette tâche pendant une période représentative pour évaluer le coût de la tâche transférée ou la répartition de ce coût entre les communes.
+
+#### Art. 5
+
+**Transfert de locaux**
+
+<sup>1</sup> Lorsqu'une collectivité transfère une tâche comprenant la mise à disposition gratuite de locaux sans transfert de propriété, elle constitue en principe à l'égard de l’utilisateur un bail commercial.
+
+<sup>2</sup> Le montant dû au fonds de régulation couvre entièrement le coût du bail et des coûts annexes (charges et entretien).
+
+<sup>3</sup> Les mises à dispositions gratuites dans le domaine de la culture sont traitées au cas par cas entre le canton et les communes de manière à assurer la continuité des prestations, au plus tard dans le cadre des projets de budget 2018.
+
+<sup>4</sup> Les transferts sont effectifs au 1<sup>er</sup> janvier 2017, sous réserve de cas complexes pouvant être reportés au 1<sup>er</sup> janvier 2018.
+
+#### Art. 6
+
+**Intangibilité des montants**
+
+<sup>1</sup> Les montants dus au titre du fonds de régulation pour chaque tâche transférée demeurent inchangés pendant toute la durée du fonds de régulation, hormis les cas d’application de l’alinéa 2 du présent article.
+
+<sup>2</sup> En application de l'article 8, alinéa 3, de la loi, le Conseil d'Etat, en concertation avec les communes, peut adapter à la hausse ou à la baisse le montant versé au fonds de régulation si le coût de la tâche varie de manière inhabituelle, imprévisible et indépendante des choix des autorités compétentes. Cette disposition s'applique notamment en cas de recapitalisation extraordinaire de la caisse de retraite du personnel concerné par un transfert.
+
+#### Art. 7
+
+**Présentation des budgets et des comptes**
+
+<sup>1</sup> Les montants liés au fonds de régulation sont inscrits dans chaque programme concerné par un transfert. Les montants correspondent au solde des montants perçus ou dus pour chaque programme.
+
+<sup>2</sup> Un tableau récapitulatif des versements entre les communes et le canton au titre de la loi est présenté dans les annexes. Il détaille, commune par commune, le solde net des montants que chaque commune transfère au canton ou en perçoit, en vertu des décisions prises dans le cadre de la loi.
+
+<sup>3</sup> Les augmentations ou diminutions de charges résultant de montants liés au fonds de régulation font l'objet d'une présentation spécifique dans le cadre des budgets et des comptes des communes et du canton, de même que les augmentations de revenus.
+
+#### Art. 8
+
+**Disposition particulière**
+
+<sup>1</sup> Pendant la durée de vie du fonds de régulation, chaque collectivité publique est tenue de maintenir a minima le niveau des subventions nominatives qui lui sont transférées.
+
+<sup>2</sup> Les aides financières versées par le canton à des tiers résultant d'un transfert de tâche au sens de la loi ne sont pas soumises à la loi sur les indemnités et les aides financières, du 15 décembre 2005, conformément à son article 4, lettre l.
+
+#### Art. 9
+
+**Prélèvement et versement des montants du fonds de régulation**
+
+<sup>1</sup> Les montants résultant du fonds de régulation selon l’article 5, alinéa 4, du présent règlement sont prélevés ou versés par le département des finances, des ressources humaines et des affaires extérieures<sup>(2)</sup> dans le cadre du versement des acomptes relatifs aux centimes additionnels aux communes selon l’article 300, alinéa 2, de la loi générale sur les contributions publiques, du 9 novembre 1887.
+
+<sup>2</sup> Le canton ne prélève aucun émolument.
+
+#### Art. 10
+
+**Compétence**
+
+Le Conseil d'Etat confie la gestion du fonds de régulation au département des finances, des ressources humaines et des affaires extérieures<sup>(2)</sup>.
+
+#### Art. 11
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le lendemain de sa publication dans la Feuille d'avis officielle.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| A 2 04.03 R sur le fonds de régulation dans le cadre de la réforme de la répartition des tâches entre les communes et le canton | 24.08.2016 | 31.08.2016 |
+| Modifications : |  |  |
+| 1. *n.t.* : rectification selon 7C/1, B 2 05 (9/1, 10) | 04.09.2018 | 04.09.2018 |
+| 2. *n.t.* : rectification selon 7C/1, B 2 05 (9/1, 10) | 29.08.2023 | 29.08.2023 |
