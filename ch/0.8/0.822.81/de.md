@@ -3,11 +3,11 @@ sr: "0.822.81"
 title: "Seearbeitsübereinkommen, 2006 vom 23. Februar 2006 (mit Regeln und Code sowie Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/530"
 language: de
-version: 2020-12-26
+version: 2023-08-29
 adopted: 2006-02-23
 in_force: 2013-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20201226/de/xml/fedlex-data-admin-ch-eli-cc-2013-530-20201226-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20201226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20230829/de/xml/fedlex-data-admin-ch-eli-cc-2013-530-20230829-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20230829/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. Februar 2011
 
 Für die Schweiz in Kraft getreten am 20. August 2013
 
-(Stand am 26. Dezember 2020)
+(Stand am 29. August 2023)
 
 [^t-1]: [AS 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529)
 
@@ -3058,7 +3058,7 @@ Die ärztlichen Zeugnisse werden vom zuständigen Offizier streng vertraulich ge
 
 Bei Zweifel an der Tauglichkeit des Betreffenden für eine bestimmte Aufgabe/für bestimmte Aufgaben konsultiert der zuständige Offizier den Hausarzt des Betreffenden oder einen anderen qualifizierten Arzt und verzeichnet eine Zusammenfassung dessen Schlussfolgerungen sowie dessen Namen, dessen Telefonnummer und das Datum der Konsultation.
 
-Geltungsbereich am 23. April 2020[^t-13]
+Geltungsbereich am 29. August 2023[^t-13]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -3075,11 +3075,11 @@ Geltungsbereich am 23. April 2020[^t-13]
 <tr><td>Belize</td><td>8. Juli</td><td>2014</td><td>8. Juli</td><td>2015</td></tr>
 <tr><td>Benin</td><td>13. Juni</td><td>2011</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>18. Januar</td><td>2010</td><td>20. August</td><td>2013</td></tr>
+<tr><td>Brasilien</td><td>7. Mai</td><td>2020</td><td>7. Mai</td><td>2021</td></tr>
 <tr><td>Bulgarien</td><td>12. Januar</td><td>2010</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Chile</td><td>22. Februar</td><td>2018</td><td>22. Februar</td><td>2019</td></tr>
 <tr><td>China</td><td>12. November</td><td>2015</td><td>12. November</td><td>2016</td></tr>
 <tr><td>Hongkong</td><td>6. August</td><td>2018</td><td>20. Dezember</td><td>2018</td></tr>
-<tr><td>Cook-Inseln</td><td>18. Dezember</td><td>2019</td><td>18. Dezember</td><td>2020</td></tr>
 <tr><td>Dänemark</td><td>23. Juni</td><td>2011</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Färöer</td><td>9. Juli</td><td>2013</td><td>9. Juli</td><td>2014</td></tr>
 <tr><td>Deutschland</td><td>16. August</td><td>2013</td><td>16. August</td><td>2014</td></tr>
@@ -3096,6 +3096,7 @@ Geltungsbereich am 23. April 2020[^t-13]
 <tr><td>Honduras</td><td>6. Juni</td><td>2016</td><td>6. Juni</td><td>2017</td></tr>
 <tr><td>Indien</td><td>9. Oktober</td><td>2015</td><td>9. Oktober</td><td>2016</td></tr>
 <tr><td>Indonesien</td><td>12. Juni</td><td>2017</td><td>12. Juni</td><td>2018</td></tr>
+<tr><td>Irak</td><td>22. März</td><td>2023</td><td>22. März</td><td>2024</td></tr>
 <tr><td>Iran</td><td>11. Juni</td><td>2014</td><td>11. Juni</td><td>2015</td></tr>
 <tr><td>Irland</td><td>21. Juli</td><td>2014</td><td>21. Juli</td><td>2015</td></tr>
 <tr><td>Island</td><td>4. April</td><td>2019</td><td>4. April</td><td>2020</td></tr>
@@ -3115,6 +3116,7 @@ Geltungsbereich am 23. April 2020[^t-13]
 <tr><td>Liberia</td><td>7. Juni</td><td>2006</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Litauen</td><td>20. August</td><td>2013</td><td>20. August</td><td>2014</td></tr>
 <tr><td>Luxemburg</td><td>20. September</td><td>2011</td><td>20. August</td><td>2013</td></tr>
+<tr><td>Madagaskar</td><td>15. Juni</td><td>2023</td><td>15. Juni</td><td>2024</td></tr>
 <tr><td>Malaysia</td><td>20. August</td><td>2013</td><td>20. August</td><td>2014</td></tr>
 <tr><td>Malediven</td><td>7. Oktober</td><td>2014</td><td>7. Oktober</td><td>2015</td></tr>
 <tr><td>Malta</td><td>22. Januar</td><td>2013</td><td>22. Januar</td><td>2014</td></tr>
@@ -3123,13 +3125,16 @@ Geltungsbereich am 23. April 2020[^t-13]
 <tr><td>Mauritius</td><td>30. Mai</td><td>2014</td><td>30. Mai</td><td>2015</td></tr>
 <tr><td>Mongolei</td><td>1. September</td><td>2015</td><td>1. September</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>3. Februar</td><td>2015</td><td>3. Februar</td><td>2016</td></tr>
+<tr><td>Mosambik</td><td>25. Mai</td><td>2021 B</td><td>25. Mai</td><td>2022</td></tr>
 <tr><td>Myanmar</td><td>25. Mai</td><td>2016</td><td>25. Mai</td><td>2017</td></tr>
 <tr><td>Neuseeland <sup>a</sup></td><td>9. März</td><td>2016</td><td>9. März</td><td>2017</td></tr>
+<tr><td>Cook-Inseln</td><td>18. Dezember</td><td>2019</td><td>18. Dezember</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>20. Dezember</td><td>2013</td><td>20. Dezember</td><td>2014</td></tr>
 <tr><td>Niederlande</td><td>13. Dezember</td><td>2011</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Curaçao</td><td>14. April</td><td>2015</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Nigeria</td><td>18. Juni</td><td>2013</td><td>18. Juni</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td>10. Februar</td><td>2009</td><td>20. August</td><td>2013</td></tr>
+<tr><td>Oman</td><td>29. März</td><td>2022</td><td>29. März</td><td>2023</td></tr>
 <tr><td>Palau</td><td>29. Mai</td><td>2012</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Panama</td><td>6. Februar</td><td>2009</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Philippinen</td><td>20. August</td><td>2012</td><td>20. August</td><td>2013</td></tr>
@@ -3138,11 +3143,13 @@ Geltungsbereich am 23. April 2020[^t-13]
 <tr><td>Rumänien</td><td>24. November</td><td>2015</td><td>24. November</td><td>2016</td></tr>
 <tr><td>Russland</td><td>20. August</td><td>2012</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Samoa</td><td>21. November</td><td>2013</td><td>21. November</td><td>2014</td></tr>
+<tr><td>San Marino</td><td>30. März</td><td>2022</td><td>30. März</td><td>2023</td></tr>
 <tr><td>Schweden</td><td>12. Juni</td><td>2012</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Schweiz</td><td>21. Februar</td><td>2011</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Senegal</td><td>19. September</td><td>2019</td><td>19. September</td><td>2020</td></tr>
 <tr><td>Serbien</td><td>15. März</td><td>2013</td><td>15. März</td><td>2014</td></tr>
 <tr><td>Seychellen</td><td>7. Januar</td><td>2014</td><td>7. Januar</td><td>2015</td></tr>
+<tr><td>Sierra Leone</td><td>29. März</td><td>2022</td><td>29. März</td><td>2023</td></tr>
 <tr><td>Singapur</td><td>15. Juni</td><td>2011</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Slowakei</td><td>17. Mai</td><td>2018</td><td>17. Mai</td><td>2019</td></tr>
 <tr><td>Slowenien</td><td>15. April</td><td>2016</td><td>15. April</td><td>2017</td></tr>
@@ -3152,6 +3159,7 @@ Geltungsbereich am 23. April 2020[^t-13]
 <tr><td>St. Vincent und die Grenadinen</td><td>9. November</td><td>2010</td><td>20. August</td><td>2013</td></tr>
 <tr><td>Südafrika</td><td>20. Juni</td><td>2013</td><td>20. Juni</td><td>2014</td></tr>
 <tr><td>Sudan</td><td>4. Oktober</td><td>2019</td><td>4. Oktober</td><td>2020</td></tr>
+<tr><td>Syrien</td><td>6. April</td><td>2023</td><td>6. April</td><td>2024</td></tr>
 <tr><td>Tansania</td><td>3. April</td><td>2019</td><td>3. April</td><td>2020</td></tr>
 <tr><td>Thailand</td><td>7. Juni</td><td>2016</td><td>7. Juni</td><td>2017</td></tr>
 <tr><td>Togo</td><td>14. März</td><td>2012</td><td>20. August</td><td>2013</td></tr>

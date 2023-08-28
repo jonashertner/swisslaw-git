@@ -3,11 +3,11 @@ sr: "0.822.81"
 title: "Convention du travail maritime, 2006 du 23 février 2006 (avec règles, code et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/530"
 language: fr
-version: 2020-12-26
+version: 2023-08-29
 adopted: 2006-02-23
 in_force: 2013-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20201226/fr/xml/fedlex-data-admin-ch-eli-cc-2013-530-20201226-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20201226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20230829/fr/xml/fedlex-data-admin-ch-eli-cc-2013-530-20230829-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20230829/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 21 février 2011
 
 Entrée en vigueur pour la Suisse le 20 août 2013
 
-(État le 26 décembre 2020)
+(État le 29 août 2023)
 
 [^t-1]: [RO 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529)
 
@@ -3369,7 +3369,7 @@ L’officier compétent conserve les certificats médicaux à titre strictement 
 
 En cas de doute quant à l’aptitude du marin à exercer une fonction ou des fonctions particulières, l’officier compétent consulte le médecin traitant du marin ou tout autre praticien qualifié et consigne un résumé de ses conclusions, ainsi que son nom, son numéro de téléphone et la date de la consultation.
 
-Champ d’application le 23 avril 2020[^t-13]
+Champ d’application le 29 août 2023[^t-13]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -3387,6 +3387,7 @@ Champ d’application le 23 avril 2020[^t-13]
 <tr><td>Belize</td><td>8 juillet</td><td>2014</td><td>8 juillet</td><td>2015</td></tr>
 <tr><td>Bénin</td><td>13 juin</td><td>2011</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>18 janvier</td><td>2010</td><td>20 août</td><td>2013</td></tr>
+<tr><td>Brésil</td><td>7 mai</td><td>2020</td><td>7 mai</td><td>2021</td></tr>
 <tr><td>Bulgarie</td><td>12 janvier</td><td>2010</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Canada</td><td>15 juin</td><td>2010</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Cap-Vert</td><td>6 octobre</td><td>2015</td><td>6 octobre</td><td>2016</td></tr>
@@ -3417,6 +3418,7 @@ Champ d’application le 23 avril 2020[^t-13]
 <tr><td>Inde</td><td>9 octobre</td><td>2015</td><td>9 octobre</td><td>2016</td></tr>
 <tr><td>Indonésie</td><td>12 juin</td><td>2017</td><td>12 juin</td><td>2018</td></tr>
 <tr><td>Iran</td><td>11 juin</td><td>2014</td><td>11 juin</td><td>2015</td></tr>
+<tr><td>Iraq</td><td>22 mars</td><td>2023</td><td>22 mars</td><td>2024</td></tr>
 <tr><td>Irlande</td><td>21 juillet</td><td>2014</td><td>21 juillet</td><td>2015</td></tr>
 <tr><td>Islande</td><td>4 avril</td><td>2019</td><td>4 avril</td><td>2020</td></tr>
 <tr><td>Italie</td><td>19 novembre</td><td>2013</td><td>19 novembre</td><td>2014</td></tr>
@@ -3430,6 +3432,7 @@ Champ d’application le 23 avril 2020[^t-13]
 <tr><td>Libéria</td><td>7 juin</td><td>2006</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Lituanie</td><td>20 août</td><td>2013</td><td>20 août</td><td>2014</td></tr>
 <tr><td>Luxembourg</td><td>20 septembre</td><td>2011</td><td>20 août</td><td>2013</td></tr>
+<tr><td>Madagascar</td><td>15 juin</td><td>2023</td><td>15 juin</td><td>2024</td></tr>
 <tr><td>Malaisie</td><td>20 août</td><td>2013</td><td>20 août</td><td>2014</td></tr>
 <tr><td>Maldives</td><td>7 octobre</td><td>2014</td><td>7 octobre</td><td>2015</td></tr>
 <tr><td>Malte</td><td>22 janvier</td><td>2013</td><td>22 janvier</td><td>2014</td></tr>
@@ -3437,12 +3440,14 @@ Champ d’application le 23 avril 2020[^t-13]
 <tr><td>Maurice</td><td>30 mai</td><td>2014</td><td>30 mai</td><td>2015</td></tr>
 <tr><td>Mongolie</td><td>1<sup>er</sup> septembre</td><td>2015</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
 <tr><td>Monténégro</td><td>3 février</td><td>2015</td><td>3 février</td><td>2016</td></tr>
+<tr><td>Mozambique</td><td>25 mai</td><td>2021 A</td><td>25 mai</td><td>2022</td></tr>
 <tr><td>Myanmar</td><td>25 mai</td><td>2016</td><td>25 mai</td><td>2017</td></tr>
 <tr><td>Nicaragua</td><td>20 décembre</td><td>2013</td><td>20 décembre</td><td>2014</td></tr>
 <tr><td>Nigéria</td><td>18 juin</td><td>2013</td><td>18 juin</td><td>2014</td></tr>
 <tr><td>Norvège</td><td>10 février</td><td>2009</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Nouvelle-Zélande <sup>a</sup></td><td>9 mars</td><td>2016</td><td>9 mars</td><td>2017</td></tr>
 <tr><td>Îles Cook</td><td>18 décembre</td><td>2019</td><td>18 décembre</td><td>2020</td></tr>
+<tr><td>Oman</td><td>29 mars</td><td>2022</td><td>29 mars</td><td>2023</td></tr>
 <tr><td>Palaos</td><td>29 mai</td><td>2012</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Panama</td><td>6 février</td><td>2009</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Pays-Bas</td><td>13 décembre</td><td>2011</td><td>20 août</td><td>2013</td></tr>
@@ -3458,11 +3463,13 @@ Champ d’application le 23 avril 2020[^t-13]
 <tr><td>Île de Man</td><td>7 août</td><td>2013</td><td>7 août</td><td>2014</td></tr>
 <tr><td>Russie</td><td>20 août</td><td>2012</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>21 février</td><td>2012</td><td>20 août</td><td>2013</td></tr>
+<tr><td>Saint-Marin</td><td>30 mars</td><td>2022</td><td>30 mars</td><td>2023</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>9 novembre</td><td>2010</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Samoa</td><td>21 novembre</td><td>2013</td><td>21 novembre</td><td>2014</td></tr>
 <tr><td>Sénégal</td><td>19 septembre</td><td>2019</td><td>19 septembre</td><td>2020</td></tr>
 <tr><td>Serbie</td><td>15 mars</td><td>2013</td><td>15 mars</td><td>2014</td></tr>
 <tr><td>Seychelles</td><td>7 janvier</td><td>2014</td><td>7 janvier</td><td>2015</td></tr>
+<tr><td>Sierra Leone</td><td>29 mars</td><td>2022</td><td>29 mars</td><td>2023</td></tr>
 <tr><td>Singapour</td><td>15 juin</td><td>2011</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Slovaquie</td><td>17 mai</td><td>2018</td><td>17 mai</td><td>2019</td></tr>
 <tr><td>Slovénie</td><td>15 avril</td><td>2016</td><td>15 avril</td><td>2017</td></tr>
@@ -3470,6 +3477,7 @@ Champ d’application le 23 avril 2020[^t-13]
 <tr><td>Sri Lanka</td><td>12 janvier</td><td>2017</td><td>12 janvier</td><td>2018</td></tr>
 <tr><td>Suisse</td><td>21 février</td><td>2011</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Suède</td><td>12 juin</td><td>2012</td><td>20 août</td><td>2013</td></tr>
+<tr><td>Syrie</td><td>6 avril</td><td>2023</td><td>6 avril</td><td>2024</td></tr>
 <tr><td>Tanzanie</td><td>3 avril</td><td>2019</td><td>3 avril</td><td>2020</td></tr>
 <tr><td>Thaïlande</td><td>7 juin</td><td>2016</td><td>7 juin</td><td>2017</td></tr>
 <tr><td>Togo</td><td>14 mars</td><td>2012</td><td>20 août</td><td>2013</td></tr>
@@ -3479,4 +3487,4 @@ Champ d’application le 23 avril 2020[^t-13]
 <tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-13]: [RO 2013 2511](https://fedlex.data.admin.ch/eli/oc/2013/530), [2793](https://fedlex.data.admin.ch/eli/oc/2013/575); [2014 1227](https://fedlex.data.admin.ch/eli/oc/2014/266), [3539](https://fedlex.data.admin.ch/eli/oc/2014/612); [2016 1247](https://fedlex.data.admin.ch/eli/oc/2016/248), [2909](https://fedlex.data.admin.ch/eli/oc/2016/482); [2018 2417](https://fedlex.data.admin.ch/eli/oc/2018/347); [2019 1565](https://fedlex.data.admin.ch/eli/oc/2019/293); [2020 1485](https://fedlex.data.admin.ch/eli/oc/2020/291). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-13]: [RO 2013 2511](https://fedlex.data.admin.ch/eli/oc/2013/530), [2793](https://fedlex.data.admin.ch/eli/oc/2013/575); [2014 1227](https://fedlex.data.admin.ch/eli/oc/2014/266), [3539](https://fedlex.data.admin.ch/eli/oc/2014/612); [2016 1247](https://fedlex.data.admin.ch/eli/oc/2016/248), [2909](https://fedlex.data.admin.ch/eli/oc/2016/482); [2018 2417](https://fedlex.data.admin.ch/eli/oc/2018/347); [2019 1565](https://fedlex.data.admin.ch/eli/oc/2019/293); [2020 1485](https://fedlex.data.admin.ch/eli/oc/2020/291); [2023 477](https://fedlex.data.admin.ch/eli/oc/2023/477). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
