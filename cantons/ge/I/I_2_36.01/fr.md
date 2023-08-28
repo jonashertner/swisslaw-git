@@ -1,0 +1,209 @@
+---
+canton: GE
+number: I 2 36.01
+title: Règlement d’application de la loi instituant le dépôt légal (RIDL)
+short: RIDL
+language: fr
+version: 2023-08-29
+adopted: 1969-02-25
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_i2_36p01.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement d’application de la loi instituant le dépôt légal (RIDL)
+**Dernières modifications au 29 août 2023**
+
+du 25 février 1969
+
+(Entrée en vigueur : 1<sup>er</sup> avril 1969)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève,
+
+vu la loi du 19 mai 1967 instituant le dépôt légal (ci-après : la loi);
+
+vu les articles 37, chiffre 49, et 38 de la loi pénale genevoise;
+
+vu l’accord conclu avec le Conseil administratif de la Ville de Genève, le 25 février 1969;
+
+vu la proposition de la bibliothèque publique et universitaire d’exempter certaines publications du dépôt légal, en date du 6 janvier 1969,
+
+arrête :
+
+#### Art. 1
+
+**Régie du dépôt**
+
+La régie du dépôt légal est exercée par la bibliothèque de Genève.
+
+#### Art. 2
+
+**Exemptions**
+
+<sup>1</sup> Sont exemptés du dépôt légal :
+
+- a) les imprimés énumérés aux lettres a à f de l’article 2 de la loi;
+- b) les autres imprimés non destinés au public;
+- c) les publications pour les institutions internationales.
+
+<sup>2</sup> Les réimpressions pures et simples d’ouvrages sont exemptées du dépôt légal, à condition que la personne qui y est tenue prouve qu’un ouvrage totalement identique, à la qualité et au format du papier près, a déjà fait l’objet d’un dépôt volontaire à la bibliothèque de Genève ou d’un dépôt légal à Genève, soit sous l’empire de l’ancien régime du dépôt légal, soit sous celui de la loi.
+
+#### Art. 3
+
+**Editeurs établis**
+
+<sup>1</sup> Tout éditeur établi dans le canton doit tenir, au jour le jour, un fichier de tous les livres et brochures qu’il édite à ses frais, à compte d’auteur ou autrement.
+
+<sup>2</sup> Les fiches nécessaires doivent comporter des rubriques destinées à recevoir pour chaque ouvrage :
+
+- a) un numéro d’ordre selon la suite naturelle des nombres;
+- b) la date de l’édition, c’est-à-dire le jour où l’ouvrage complet est pour la première fois livré à autrui; pour les œuvres paraissant par livraisons successives, chacune de ces dernières est réputée constituer un ouvrage complet;
+- c) le nom de l’auteur;
+- d) le titre de l’ouvrage;
+- e) les nombres de pages et d’illustrations hors texte, ainsi que le format en centimètres; si l’ouvrage comprend plusieurs volumes, ces indications sont données pour chacun d’eux;
+- f) le chiffre de tirage;
+- g) la date de remise de l’ouvrage à la bibliothèque de Genève, à moins que l’éditeur n’entende se prévaloir des articles 2, lettre f, ou 4 de la loi;
+- h) la date à laquelle il déclare l’ouvrage à la bibliothèque de Genève et le motif de l’absence de dépôt, au cas où l’éditeur s’est prévalu des articles 2, lettre f, ou 4 de la loi.
+
+<sup>3</sup> Ce fichier classé par numéro d’ordre est tenu au siège social de l’éditeur.
+
+#### Art. 4
+
+**Editeurs non établis**
+
+<sup>1</sup> Tout éditeur établi hors du canton est soumis pour ceux de ses ouvrages portant mention d’un lieu d’édition sis dans le canton à l’obligation prévue à l’article 3, alinéa 2.
+
+<sup>2</sup> Le fichier est tenu par le représentant de l’éditeur dans le canton.
+
+#### Art. 5
+
+**Auteurs-éditeurs**
+
+<sup>1</sup> Les auteurs qui s’éditent eux-mêmes sont soumis à toutes les obligations des éditeurs.
+
+<sup>2</sup> Toutefois, les auteurs qui éditent occasionnellement, c’est-à-dire non régulièrement, leurs propres ouvrages, ne sont pas astreints à la tenue d’un fichier; ils doivent cependant déposer leurs œuvres comme un éditeur.
+
+#### Art. 6
+
+**Imprimeurs**
+
+<sup>1</sup> Tout imprimeur établi dans le canton doit tenir, au jour le jour, un fichier de tous les imprimés sortant de ses presses, à l’exception :
+
+- a) de ceux mentionnés à l’article 2; les réimpressions mentionnées à l’article 2, lettre f, de la loi doivent néanmoins être portées au fichier;
+- b) de ceux qu’il imprime pour le compte d’un éditeur visé à l’article 3.
+
+<sup>2</sup> Les fiches nécessaires comportent des rubriques destinées à recevoir pour chaque imprimé :
+
+- a) un numéro d’ordre selon la suite naturelle des nombres;
+- b) la date d’impression, c’est-à-dire le jour où l’imprimé complet est livré à autrui, même si le chiffre du tirage total prévu n’est pas encore atteint;
+- c) le nom de l’auteur;
+- d) le titre de l’imprimé;
+- e) les nombres de pages et d’illustrations hors texte, ainsi que le format en centimètres ou, si l’imprimé affecte une forme autre que celle des livres ou brochures, telle, par exemple, celle d’un dépliant, toutes indications utiles; si l’imprimé comprend plusieurs volumes, ces indications sont données pour chacun d’eux;
+- f) le chiffre de tirage;
+- g) la date de remise de l’imprimé à la bibliothèque de Genève, à moins que l’imprimeur n’entende se prévaloir des articles 2, lettre f, ou 4 de la loi, ou que l’ouvrage ne soit commandé par un auteur-éditeur au sens de l’article 5;
+- h) toutes autres observations idoines.
+
+#### Art. 7
+
+**Périodiques à éditions multiples**
+
+<sup>1</sup> Seule doit être déposée la dernière édition des périodiques qui en comportent plusieurs dont la teneur n’est pas entièrement identique.
+
+<sup>2</sup> Les éditions spéciales doivent cependant toujours être déposées.
+
+#### Art. 8
+
+**Ouvrages de luxe ou à tirages restreints**
+
+<sup>1</sup> La personne qui dépose gratuitement un exemplaire d’un ouvrage de luxe, ou tiré à moins de 250 exemplaires, en l’accompagnant des fiches prévues à l’article 10, est affranchie de toute autre obligation à l’égard de la bibliothèque de Genève, notamment de celle de fournir un autre exemplaire au prix coûtant.
+
+<sup>2</sup> Est réputé ouvrage de luxe celui dont le prix coûtant dépasse 50 francs, soit 200 francs au prix de vente au public. En cas de hausse des frais d’impression prévus par le tarif minimum de la Société suisse des maîtres imprimeurs, le montant de 50 francs, de même que celui de 200 francs est augmenté proportionnellement à la majoration survenue par rapport au tarif en vigueur le 1<sup>er</sup> janvier 1969.
+
+<sup>3</sup> Le prix coûtant s’entend de l’ensemble des frais d’impression et de brochage ou de reliure, selon le cas, d’un exemplaire en supplément du tirage qui serait effectué en cas de non-existence du dépôt légal, cet exemplaire étant confectionné en même temps que le reste de l’édition.
+
+<sup>4</sup> Quand un éditeur, auteur ou imprimeur entend se mettre au bénéfice de l’article 4 de la loi, il doit fournir, en double exemplaire, les fiches prévues à l’article 10, sans les accompagner de l’ouvrage ou en spécifiant que ce dernier n’est remis qu’à l’examen.
+
+#### Art. 9
+
+**Ouvrages exécutés partiellement dans le canton**
+
+<sup>1</sup> Les éditeurs, auteurs et imprimeurs portant comme lieu d’édition une localité sise dans le canton de Genève sur un ouvrage exécuté en tout ou partie dans un autre canton, sont soumis aux obligations prévues aux articles 3 à 7 et 10; toutefois, si ces personnes prouvent que l’ouvrage est soumis au dépôt légal dans un autre canton, le dépôt à Genève n’est obligatoire, même si une partie de l’ouvrage a été exécutée à l’étranger, que pour les imprimés dont le prix coûtant total ne dépasse pas la moitié du montant du prix coûtant calculé selon les dispositions de l’article 8, alinéas 2 et 3.
+
+<sup>2</sup> Tout ouvrage ainsi exempté du dépôt donne néanmoins lieu à la remise des fiches prévues à l’article 10.
+
+<sup>3</sup> Les éditeurs, auteurs et imprimeurs portant comme lieu d’édition une localité sise dans le canton sur un ouvrage exécuté entièrement à l’étranger ou pour partie dans le canton et pour l’autre partie à l’étranger, sont soumis aux obligations prévues aux articles 3 à 7 et 10, quelles que soient les obligations du dépôt légal qui leur sont applicables à l’étranger.
+
+#### Art. 10
+
+**Dépôt**
+
+<sup>1</sup> Le dépôt doit être effectué au plus tard le 15 du mois suivant la date prévue aux articles 3, 4, 5 ou 6. Les auteurs visés à l’article 5, alinéa 1, doivent effectuer le dépôt dans les 30 jours de la mise en circulation de leur ouvrage.
+
+<sup>2</sup> Le dépôt consiste dans la remise à la bibliothèque de Genève même ou dans l’envoi à celle-ci par la poste d’un exemplaire totalement identique aux autres exemplaires produits.
+
+<sup>3</sup> Quand une édition comporte des tirages sur papiers différents, l’ouvrage déposé doit être l’un de ceux tirés sur le papier le plus ordinaire, à moins qu’il n’en existe un sur un papier plus luxueux dont le prix coûtant ne dépasse pas les limites prescrites aux articles 8 ou 9. S’il existe des exemplaires numérotés et non numérotés, l’exemplaire déposé doit appartenir à cette dernière catégorie. Quand l’édition comporte des ouvrages reliés et des ouvrages brochés, l’exemplaire déposé doit appartenir à cette dernière catégorie.
+
+<sup>4</sup> Tout imprimé déposé doit être accompagné d’une fiche en double exemplaire du modèle réglementaire comportant, selon le cas, les indications figurant à l’article 3, alinéa 2, lettres a à g, ou à l’article 6, alinéa 2, lettres a à g, ainsi que le nom du déposant.
+
+<sup>5</sup> Dans le cas d’ouvrages anonymes ou parus sous pseudonymes, le déposant doit indiquer le nom réel de l’auteur si ce dernier n’a pas exigé qu’il le tienne secret.
+
+#### Art. 11
+
+**Récépissé**
+
+<sup>1</sup> La bibliothèque de Genève timbre les fiches qu’elle reçoit et en rend ou retourne un exemplaire par poste au déposant.
+
+<sup>2</sup> Le déposant doit conserver pendant 5 ans les fiches timbrées, classées par ordre numérique.
+
+#### Art. 12
+
+**Contrôle**
+
+<sup>1</sup> Les préposés de la bibliothèque de Genève sont habilités à consulter en tout temps les fichiers prévus aux articles 3 à 6 et à se faire présenter les fiches timbrées.
+
+<sup>2</sup> En cas de différence entre le fichier et la collection des fiches timbrées, ils établissent un rapport à l’intention du département des institutions et du numérique<sup>(12)</sup>.
+
+#### Art. 13
+
+**Mise en demeure; achat**
+
+<sup>1</sup> Dès que la bibliothèque de Genève a connaissance de la parution d’un imprimé qui n’a pas été déposé, en contravention de la loi, ou d’un imprimé susceptible d’être exempté du dépôt, mais pour lequel les fiches prescrites n’ont pas été déposées, elle réclame cet imprimé à l’éditeur, auteur ou imprimeur à qui la loi prescrit le dépôt.
+
+<sup>2</sup> Si dans un délai de 16 jours à compter du rappel l’imprimé n’a pas été déposé, la bibliothèque de Genève peut en faire l’acquisition aux frais du contrevenant.
+
+<sup>3</sup> L'Etat recouvre ces frais conformément à l'article 36 de la loi relative à la perception et aux garanties des impôts des personnes physiques et des personnes morales, du 26 juin 2008.<sup>(4)</sup>
+
+#### Art. 14
+
+**Dispositions pénales**
+
+<sup>1</sup> Les auteurs des infractions à la loi et au règlement, notamment ceux qui ne déposent pas un imprimé dans le délai prévu, sont passibles des peines de police.
+
+<sup>2</sup> Les contraventions sont prononcées par le chef du département des institutions et du numérique<sup>(12)</sup>, sauf recours au Tribunal pénal<sup>(6)</sup>.
+
+<sup>3</sup> Dans les cas graves, le chef du département des institutions et du numérique<sup>(12)</sup> transmet les rapports au Ministère public<sup>(6)</sup> aux fins de poursuite.
+
+#### Art. 15
+
+**Entrée en vigueur**
+
+La loi du 19 mai 1967 instituant le dépôt légal et le présent règlement entrent en vigueur le 1<sup>er</sup> avril 1969.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| I 2 36.01 R d’application de la loi instituant le dépôt légal | 25.02.1969 | 01.04.1969 |
+| Modifications : |  |  |
+| 1. *n.t.* : dénomination du département (12/2) | 20.12.1989 | 30.12.1989 |
+| 2. *n.t.* : dénomination du département (12/2, 14/2) | 22.12.1993 | 01.01.1994 |
+| 3. *n.t.* : rectification selon 7C/1, B 2 05 (12/2, 14/2, 14/3) | 30.05.2006 | 30.05.2006 |
+| 4. *n.t.* : 13/3 | 01.12.2008 | 01.01.2009 |
+| 5. *n.t.* : rectification selon 7C/1, B 2 05 (12/2, 14/2, 14/3) | 18.05.2010 | 18.05.2010 |
+| 6. *n.t.* : rectification selon 7C/1, B 2 05 (14/2, 14/3) | 01.01.2011 | 01.01.2011 |
+| 7. *n.t.* : rectification selon 7C/1, B 2 05 (12/2, 14/2, 14/3) | 03.09.2012 | 03.09.2012 |
+| 8. *n.t.* : rectification selon 7C/1, B 2 05 (12/2, 14/2, 14/3) | 15.05.2014 | 15.05.2014 |
+| 9. *n.t.* : rectification selon 7C/1, B 2 05 (12/2, 14/2, 14/3) | 04.09.2018 | 04.09.2018 |
+| 10. *n.t.* : rectification selon 7C/1, B 2 05 (12/2, 14/2, 14/3) | 14.05.2019 | 14.05.2019 |
+| 11. *n.t.* : rectification selon 7C/1, B 2 05 (12/2, 14/2, 14/3) | 31.08.2021 | 31.08.2021 |
+| 12. *n.t.* : rectification selon 7C/1, B 2 05 (12/2, 14/2, 14/3) | 29.08.2023 | 29.08.2023 |
