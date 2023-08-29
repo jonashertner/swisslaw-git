@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2023-08-15
+version: 2023-08-30
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230815/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230815-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230815/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230830/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230830-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230830/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 15 août 2023)
+du 16 mars 2022 (État le 30 août 2023)
 
 Le Conseil fédéral suisse,
 
@@ -136,7 +136,7 @@ Les interdictions prévues aux art. 4 à 6 ne s’appliquent pas à la vente, à
 - c. à l’exportation temporaire d’articles destinés à être utilisés par des médias d’information;
 - d. à des mises à jour logicielles;
 - e. à une utilisation en tant que dispositifs de communication grand public;
-- f. à assurer la cybersécurité et la sécurité de l’information pour les personnes physiques et morales, les entités et les organismes au Bélarus, à l’exception de son gouvernement et des entreprises que ce dernier contrôle directement ou indirectement, ou
+- f.[^7-1] …
 - g.
 
   à l’usage personnel des personnes physiques se rendant au Bélarus ou des membres de leur famille qui voyagent avec elles, pour autant que les biens concernés leur appartiennent et ne soient pas destinés à la vente et se limitent aux:
@@ -147,17 +147,36 @@ Les interdictions prévues aux art. 4 à 6 ne s’appliquent pas à la vente, à
 
 <sup>2</sup>
 
-Le SECO peut autoriser des dérogations aux interdictions prévues aux art. 4, al. 1 et 2, et 5, al. 1 et 2, pour les activités destinées aux fins civiles ou aux destinataires finaux civils suivants:
+Le SECO peut autoriser des dérogations aux interdictions prévues aux art. 4, al. 1 et 2, et 5, al. 1 et 2, pour les biens, technologies et services destinés aux fins civiles ou aux destinataires finaux civils suivants:[^7-2]
 
 - a. à la coopération entre la Suisse et le Bélarus dans des domaines exclusivement civils;
 - b. à la coopération intergouvernementale dans le domaine des programmes spatiaux;
 - c. à l’exploitation, à l’entretien, au retraitement du combustible et à la sûreté des capacités nucléaires, ainsi qu’à la coopération nucléaire civile, notamment dans le domaine de la recherche et du développement;
 - d. à la sécurité maritime;
-- e. à des réseaux de télécommunications civils, y compris la fourniture de services Internet;
-- f. à l’usage d’entités détenues ou contrôlées exclusivement ou conjointement par une personne morale, une entité ou un organisme établi ou constitué selon le droit suisse ou d’un partenaire, ou
-- g. aux représentations diplomatiques de la Suisse ou de ses partenaires.
+- e.[^7-3] à des réseaux civils de communications électroniques non accessibles au public, pour autant qu’ils n’appartiennent pas à une entité qui est contrôlée ou détenue à plus de 50 % par une entité étatique;
+- f. à l’usage d’entités détenues ou contrôlées exclusivement ou conjointement par une personne morale, une entité ou un organisme établi ou constitué selon le droit suisse ou d’un partenaire;
+- g. aux représentations diplomatiques de la Suisse ou de ses partenaires, ou
+- h.[^7-4] à assurer la cybersécurité et la sécurité de l’information pour les personnes physiques et morales, les entités et les organismes au Bélarus, à l’exception de son gouvernement et des entreprises que ce dernier contrôle directement ou indirectement.
 
-<sup>3</sup> Il refuse l’autorisation des dérogations visées à l’al. 2 s’il y a lieu de penser qu’une activité pourrait bénéficier à un destinataire final militaire, avoir une utilisation finale militaire, être destinée à l’aviation ou à l’industrie spatiale ou bénéficier à une personne, entreprise ou organisation visée à l’annexe 5.
+<sup>3</sup>
+
+Il refuse l’autorisation des dérogations visées à l’al. 2 s’il y a lieu de penser que les biens, technologies ou services sont destinés:
+
+- a. à un destinataire final militaire ou à une personne physique, une entreprise ou une entité visée à l’annexe 5;
+- b. à une utilisation finale militaire, ou
+- c. à l’industrie aéronautique ou spatiale.[^7-5]
+
+<sup>4</sup> L’al. 3, let. a et b, ne s’applique pas aux biens, technologies et services qui sont nécessaires pour prévenir ou atténuer à titre urgent un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement, ou pour réagir à des catastrophes naturelles.[^7-6]
+
+<sup>5</sup> L’al. 3, let. c, ne s’applique pas aux biens, technologies et services qui sont destinés à la coopération intergouvernementale dans le domaine des programmes spatiaux.[^7-7]
+
+[^7-1]: Abrogée par le ch. I de l’O du 30 août 2023, avec effet au 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-4]: Introduite par le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-5]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-6]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-7]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 
 #### Art. 8
 
@@ -180,6 +199,24 @@ Les autorisations prévues à l’art. 7, al. 2, sont suspendues ou révoquées 
 <sup>1</sup> La vente, la livraison, l’exportation et le transit des biens visés à l’annexe 6 servant à la fabrication ou à la transformation de produits du tabac, à destination de personnes ou d’entités au Bélarus ou destinés à un usage au Bélarus sont interdits.
 
 <sup>2</sup> La fourniture, directe ou indirecte, d’une assistance technique, de services de courtage, de moyens financiers ou d’une aide financière, y compris les produits financiers dérivés, ainsi que de produits d’assurance et de réassurance en rapport avec les activités visées à l’al. 1 est interdite.
+
+#### Art. 10a
+
+**Biens destinés à l’industrie aéronautique et spatiale**[^10a-1]
+
+<sup>1</sup> La vente, la livraison, l’exportation et le transit des biens destinés à l’industrie aéronautique et spatiale visés à l’annexe 16 à destination du Bélarus ou aux fins d’une utilisation dans ce pays sont interdits.
+
+<sup>2</sup> La fourniture, directe ou indirecte, de produits d’assurance ou de réassurance en rapport avec les biens visés à l’annexe 16 à toute personne physique ou morale ou entité au Bélarus ou aux fins d’une utilisation dans ce pays est interdite.
+
+<sup>3</sup> La révision, la réparation, l’inspection, le remplacement, la modification d’aéronefs ou de parties d’aéronefs en faveur de toute personne ou entité au Bélarus ou aux fins d’une utilisation dans ce pays sont interdits. Cette interdiction ne s’applique pas à la visite prévol.
+
+<sup>4</sup> La fourniture de services, y compris d’une assistance technique ou de services de courtage en rapport avec les biens visés à l’annexe 16 ou avec la fourniture, la fabrication, l’entretien et l’utilisation de ces biens à toute personne ou entité au Bélarus ou aux fins d’une utilisation dans ce pays, est interdite.
+
+<sup>5</sup> La fourniture d’un financement ou d’une aide financière en rapport avec la vente, la livraison, l’exportation ou le transit des biens visés à l’annexe 16 ou de services connexes à toute personne ou entité au Bélarus ou aux fins d’une utilisation dans ce pays est interdite.
+
+<sup>6</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1, 4 et 5 pour les biens des positions tarifaires 8517 71 00, 8517 79 00 et 9026 si ceux-ci sont nécessaires à des fins médicales, pharmaceutiques ou humanitaires.
+
+[^10a-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 
 #### Art. 11
 
@@ -490,6 +527,29 @@ L’ordonnance du 11 août 2021 instituant des mesures à l’encontre du Bélar
 
 <sup>3</sup> Par dérogation aux interdictions prévues aux art. 4, al. 1 et 2, et 5, al. 1 et 2, le SECO autorise, jusqu’au 15 mai 2022, les demandes d’activités destinées à des fins civiles et à des destinataires finaux civils et fondées sur des contrats conclus avant le 17 mars 2022. Les art. 8 et 9 concernant la procédure s’appliquent par analogie.
 
+<sup>4</sup> Par dérogation aux interdictions prévues à l’art. 5, al. 1 et 2, il autorise les demandes d’activités en lien avec les biens visés à l’art. 5, al. 1, pour autant que ces activités soient nécessaires pour mettre fin, d’ici au 6 février 2024, aux contrats conclus avant le 31 août 2023 qui sont nécessaires à la fourniture de services de télécommunication civile à la population civile bélarussienne.[^31-1]
+
+<sup>5</sup>
+
+Par dérogation aux interdictions prévues à l’art. 5, al. 1 et 2, il autorise, jusqu’au 6 février 2024, les demandes d’activités en lien avec les biens des positions tarifaires 8536 69, 8536 90, 8541 30 et 8541 60, si les conditions suivantes sont remplies:
+
+- a. les biens sont transformés au Bélarus par une coentreprise dans laquelle une entreprise sise en Suisse ou dans un État membre de l’Espace économique européen (EEE) possédait une participation majoritaire avant le 31 août 2023;
+- b. les biens transformés au Bélarus servent à la production, en Suisse, d’autres biens destinés à être utilisés dans le secteur de la santé ou le secteur pharmaceutique, ou dans le domaine de la recherche et du développement.[^31-2]
+
+<sup>6</sup> L’art. 10*a* ne s’applique pas aux opérations régies par un contrat antérieur au 31 août 2023 et exécutées jusqu’au 30 septembre 2023.[^31-3]
+
+<sup>7</sup>
+
+Le SECO peut, aux fins de l’exécution d’un crédit-bail aérien conclu avant le 31 août 2023, autoriser des dérogations aux interdictions visées à l’art. 10*a*, al. 1, 4 et 5:
+
+- a. si cela est nécessaire pour garantir les remboursements du crédit-bail à une personne morale, une entreprise ou une entité établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE qui n’est pas concernée par les mesures de la présente ordonnance, et
+- b. si aucune autre ressource économique n’est mise à la disposition de la partie bélarussienne, à l’exception du transfert de propriété de l’aéronef après le remboursement intégral du crédit-bail.[^31-4]
+
+[^31-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-2]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-3]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-4]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+
 #### Art. 32
 
 **Publication**
@@ -620,7 +680,7 @@ Les ch. 1 à 3 ne s’appliquent pas:
 - Les équipements, logiciels et technologies figurant dans les catégories prévues aux ch. 1 à 3 entrent dans le champ d’application de la présente annexe uniquement s’ils sont couverts par la description générale des «systèmes d’interception et de surveillance des communications téléphoniques, satellitaires et par Internet».
 - Aux fins de la présente annexe, on entend par «surveillance», l’acquisition, l’extraction, le décodage, l’enregistrement, le traitement, l’analyse et l’archivage du contenu d’appels ou de données relatives à un réseau.
 
-Annexe 3
+Annexe 3[^t-1]
 
 (art. 5, al. 1)
 
@@ -628,7 +688,8 @@ Annexe 3
 
 [^annex3-lvlu1-1]
 
-[^annex3-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/475](https://fedlex.data.admin.ch/eli/oc/2023/475) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4
 
@@ -710,7 +771,7 @@ Annexe 4
 <tr><td>8549</td><td>Déchets et débris de piles, de batteries de piles et d’accumulateurs électriques; piles et batteries de piles électriques hors d’usage et accumulateurs électriques hors d’usage; parties électriques de machines ou d’appareils, non dénommées ni comprises ailleurs dans le chap. 85 Produits confidentiels du chap. 85; marchandises du chap. 85 transportées par la poste ou par colis postaux (extra)/code reconstitué pour la diffusion statistique</td></tr>
 </table>
 
-Annexe 5[^t-1]
+Annexe 5[^t-2]
 
 (art. 7, al. 3)
 
@@ -718,8 +779,8 @@ Annexe 5[^t-1]
 
 [^annex5-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
-[^annex5-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-2]: Mise à jour par le ch. I de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^annex5-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 6
 
@@ -812,7 +873,7 @@ Annexe 12
 <tr><td>4011</td><td>Pneumatiques neufs, en caoutchouc</td></tr>
 </table>
 
-Annexe 13[^t-2]
+Annexe 13[^t-3]
 
 (art. 12, al. 1, let. a, et 25, al. 1)
 
@@ -820,7 +881,7 @@ Annexe 13[^t-2]
 
 [^annex13-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) et du 14 août 2023, en vigueur depuis le 15 août 2023 à 18 heures ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)).
+[^t-3]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) et du 14 août 2023, en vigueur depuis le 15 août 2023 à 18 heures ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)).
 [^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/449](https://fedlex.data.admin.ch/eli/oc/2023/449) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 14
@@ -831,9 +892,9 @@ Annexe 14
 
 [^annex14-lvlu1-1]
 
-[^annex14-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex14-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
-Annexe 15[^t-3]
+Annexe 15[^t-4]
 
 (art. 23)
 
@@ -841,5 +902,32 @@ Annexe 15[^t-3]
 
 [^annex15-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. I de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
-[^annex15-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-4]: Mise à jour par le ch. I de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^annex15-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+
+Annexe 16[^t-5]
+
+(art. 10*a*, al. 1 à 3, et 5)
+
+## Biens destinés à l’industrie aéronautique et spatiale
+
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+
+<table>
+<tr><th>Position tarifaire</th><th>Désignation</th></tr>
+<tr><td>88</td><td>Navigation aérienne ou spatiale</td></tr>
+<tr><td>ex 2710 19 94</td><td>Huiles hydrauliques destinées aux véhicules relevant du chapitre 88</td></tr>
+<tr><td>2710 19 99</td><td>Autres huiles lubrifiantes et autres huiles destinées à l’aviation</td></tr>
+<tr><td>4011 30 00</td><td>Pneumatiques neufs, en caoutchouc, des types utilisés pour véhicules aériens</td></tr>
+<tr><td>ex 6813 20 00</td><td>Disques et plaquettes de frein destinés aux véhicules aériens</td></tr>
+<tr><td>6813 81 00</td><td>Garnitures de freins</td></tr>
+<tr><td>841111</td><td>Turboréacteurs, d’une poussée n’excédant pas 25 kN</td></tr>
+<tr><td>841112</td><td>Turboréacteurs, d’une poussée excédant 25 kN</td></tr>
+<tr><td>841121</td><td>Turbopropulseurs, d’une puissance n’excédant pas 1100 kW</td></tr>
+<tr><td>841122</td><td>Turbopropulseurs, d’une puissance excédant 1100 kW</td></tr>
+<tr><td>841191</td><td>Pièces pour turboréacteurs ou turbopropulseurs</td></tr>
+<tr><td>8517 71 00</td><td>Antennes et réflecteurs d’antennes de tous types; parties reconnaissables comme étant utilisées conjointement avec ces articles</td></tr>
+<tr><td>8517 79 00</td><td>Autres parties liées aux antennes</td></tr>
+<tr><td>9024 10 00</td><td>Machines et appareils d’essais de dureté, de traction, de compression, d’élasticité ou d’autres propriétés mécaniques des matériaux: machines et appareils d’essais des métaux</td></tr>
+<tr><td>9026</td><td>Instruments et appareils pour la mesure ou le contrôle du débit, du niveau, de la pression ou d’autres caractéristiques variables des liquides ou des gaz (débitmètres, indicateurs de niveau, manomètres, compteurs de chaleur, par exemple), à l’exclusion des instruments et appareils des n<sup>os</sup> 9014, 9015, 9028 ou 9032</td></tr>
+</table>

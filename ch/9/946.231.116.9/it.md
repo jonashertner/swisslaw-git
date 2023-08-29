@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2023-08-15
+version: 2023-08-30
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230815/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230815-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230815/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230830/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230830-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230830/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 15 agosto 2023)
+del 16 marzo 2022 (Stato 30 agosto 2023)
 
 Il Consiglio federale svizzero,
 
@@ -129,14 +129,14 @@ D’intesa con i servizi competenti del Dipartimento federale degli affari ester
 
 <sup>1</sup>
 
-I divieti di cui agli articoli 4–6 non si applicano alla vendita, alla fornitura, all’esportazione, al transito e al trasporto di beni e tecnologie o alla fornitura dei servizi a essi connessi se i beni e le tecnologie sono destinati:
+I divieti di cui agli articoli 4‒6 non si applicano alla vendita, alla fornitura, all’esportazione, al transito e al trasporto di beni e tecnologie né alla fornitura dei servizi a essi connessi se i beni e le tecnologie sono destinati:[^7-1]
 
 - a. esclusivamente ad attività umanitarie e mediche svolte da un’organizzazione umanitaria imparziale, a emergenze sanitarie, alla prevenzione o mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente, o alla risposta a catastrofi naturali;
 - b. a scopi medici o farmaceutici;
 - c. all’esportazione temporanea di oggetti per un uso da parte dei media;
 - d. ad aggiornamenti di software;
 - e. a essere usati come dispositivi di comunicazione di uso quotidiano;
-- f. a garantire la sicurezza informatica e la sicurezza delle informazioni per le persone fisiche e giuridiche, le organizzazioni e gli organismi della Bielorussia, ad eccezione del suo governo e delle società da esso direttamente o indirettamente controllate; o
+- f.[^7-2] ...
 - g.
 
   a uso personale da parte di persone fisiche che si recano in Bielorussia o dei loro familiari che li accompagnano, a condizione che siano appartenenti a tali persone e non siano destinati alla vendita, e limitatamente agli oggetti seguenti:
@@ -147,17 +147,37 @@ I divieti di cui agli articoli 4–6 non si applicano alla vendita, alla fornitu
 
 <sup>2</sup>
 
-La SECO può autorizzare deroghe ai divieti di cui agli articoli 4 capoversi 1 e 2 lettera e 5 capoversi 1 e 2 per le attività destinate ai seguenti fini civili o destinatari finali civili:
+La SECO può autorizzare deroghe ai divieti di cui agli articoli 4 capoversi 1 e 2 e 5 capoversi 1 e 2 per i beni, le tecnologie e i servizi destinati ai seguenti fini civili o destinatari finali civili:[^7-3]
 
 - a. alla cooperazione tra la Svizzera e la Bielorussia in ambiti puramente civili;
 - b. alla cooperazione intergovernativa nei programmi spaziali;
 - c. alla gestione, alla manutenzione, al ritrattamento del combustibile e alla sicurezza delle capacità nucleari a uso civile, nonché alla cooperazione nucleare per fini civili, in particolare nel campo della ricerca e dello sviluppo;
 - d. alla sicurezza marittima;
-- e. alle reti di telecomunicazione civile, compresa la fornitura di servizi internet;
-- f. all’uso da parte di organizzazioni che siano di proprietà o sotto il controllo, esclusivo o congiunto, di una persona giuridica, un’organizzazione o un organismo costituiti o registrati secondo il diritto svizzero o il diritto di un Paese partner; oppure
-- g. alle rappresentanze diplomatiche della Svizzera o dei suoi Paesi partner.
+- e.[^7-4] alle reti di comunicazione elettronica civile non accessibili al pubblico che non sono di proprietà di un’organizzazione sotto controllo pubblico o di proprietà pubblica per oltre il 50 per cento;
+- f. all’uso da parte di organizzazioni che siano di proprietà o sotto il controllo, esclusivo o congiunto, di una persona giuridica, un’organizzazione o un organismo costituiti o registrati secondo il diritto svizzero o il diritto di un Paese partner;
+- g. alle rappresentanze diplomatiche della Svizzera o dei suoi Paesi partner; oppure
+- h.[^7-5] alla garanzia della cibersicurezza e della sicurezza dell’informazione delle persone fisiche e giuridiche, delle organizzazioni e degli organismi in Bielorussia, fatta eccezione per il suo governo e le imprese direttamente o indirettamente controllate da tale governo.
 
-<sup>3</sup> La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motivo di ritenere che un’attività venga svolta a beneficio di un destinatario finale militare, di un uso finale militare, dell’aviazione o dell’industria spaziale oppure a beneficio di una persona, di un’impresa o di un’organizzazione di cui all’allegato 5.
+<sup>3</sup>
+
+La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motivo di ritenere che i beni, le tecnologie o i servizi siano destinati:
+
+- a. a un destinatario finale militare o a una persona fisica, un’impresa o un’organizzazione di cui all’allegato 5;
+- b. a un uso finale militare; o
+- c. all’aviazione o all’industria spaziale. [^7-6]
+
+<sup>4</sup> Il capoverso 3 lettere a e b non si applica ai beni, alle tecnologie e ai servizi che sono necessari alla prevenzione o mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente, o alla risposta a catastrofi naturali.[^7-7]
+
+<sup>5</sup> Il capoverso 3 lettera c non si applica ai beni, alle tecnologie e ai servizi che sono destinati alla cooperazione intergovernativa nei programmi spaziali.[^7-8]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-2]: Abrogata dal n. I dell’O del 30 ago. 2023, con effetto dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-3]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-4]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-5]: Introdotta dal n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-6]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-7]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-8]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 
 #### Art. 8
 
@@ -180,6 +200,24 @@ Le autorizzazioni di deroghe secondo l’articolo 7 capoverso 2 sono sospese o r
 <sup>1</sup> La vendita, la fornitura, l’esportazione e il transito di beni di cui all’allegato 6 utilizzati per la fabbricazione o la trasformazione di prodotti del tabacco sono vietati se tali beni sono destinati a persone o organizzazioni in Bielorussia o per un uso in Bielorussia.
 
 <sup>2</sup> È vietato fornire, direttamente o indirettamente, assistenza tecnica, servizi di intermediazione, mezzi finanziari o sostegno finanziario, compresi derivati, assicurazioni o riassicurazioni, in relazione con le attività di cui al capoverso 1.
+
+#### Art. 10a
+
+**Beni per l’aviazione e l’industria spaziale**[^10a-1]
+
+<sup>1</sup> È vietato vendere, fornire, esportare o far transitare i beni idonei a essere utilizzati nell’aviazione e nell’industria spaziale di cui all’allegato 16 a destinazione della Bielorussia o per un uso in Bielorussia.
+
+<sup>2</sup> È vietato fornire direttamente o indirettamente assicurazioni e riassicurazioni per i beni di cui all’allegato 16 a persone fisiche o giuridiche o a organizzazioni in Bielorussia o per un uso in Bielorussia.
+
+<sup>3</sup> Sono vietate la revisione, la riparazione, l’ispezione, la sostituzione e la modifica di un aeromobile o di un componente a beneficio di persone od organizzazioni in Bielorussia o per un uso in Bielorussia. Fa eccezione l’ispezione pre-volo.
+
+<sup>4</sup> È vietato fornire servizi, compresi l’assistenza tecnica e i servizi di intermediazione, relativi ai beni di cui all’allegato 16 o alla fornitura, alla fabbricazione, alla manutenzione e all’uso di tali beni a beneficio di persone od organizzazioni in Bielorussia o per un uso in Bielorussia.
+
+<sup>5</sup> È vietato fornire mezzi finanziari o assistenza finanziaria in relazione alla vendita, alla fornitura, all’esportazione o al transito dei beni di cui all’allegato 16 o per i servizi connessi, a beneficio di persone od organizzazioni in Bielorussia o per un uso in Bielorussia.
+
+<sup>6</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1, 4 e 5 per i beni delle voci di tariffa doganale 8517 71 00, 8517 79 00 e 9026, se sono necessari per scopi medici, farmaceutici o umanitari.
+
+[^10a-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 
 #### Art. 11
 
@@ -488,6 +526,29 @@ L’ordinanza dell’11 agosto 2021[^30-1] che istituisce provvedimenti nei conf
 
 <sup>3</sup> In deroga ai divieti di cui agli articoli 4 capoversi 1 e 2 e 5 capoversi 1 e 2, la SECO autorizza le domande presentate entro il 15 maggio 2022 per attività destinate a fini civili e a destinatari finali civili basate su contratti conclusi prima del 17 marzo 2022. Gli articoli 8 e 9 sulla procedura sono applicabili per analogia.
 
+<sup>4</sup> In deroga ai divieti di cui all’articolo 5 capoversi 1 e 2, la SECO autorizza le domande per le attività relative ai beni di cui all’articolo 5 capoverso 1, a condizione che tali attività siano destinate alla liquidazione, entro il 6 febbraio 2024, di contratti conclusi prima del 31 agosto 2023 e necessari per la fornitura di servizi di telecomunicazione per scopi civili alla popolazione civile bielorussa. [^31-1]
+
+<sup>5</sup>
+
+In deroga ai divieti di cui all’articolo 5 capoversi 1 e 2, la SECO autorizza le domande presentate entro il 6 febbraio 2024 per le attività relative ai beni delle voci di tariffa doganale 8536 69, 8536 90, 8541 30 e 8541 60, a condizione che:
+
+- a. i beni siano trasformati in Bielorussia da parte di una joint venture in cui un’impresa con sede in Svizzera o in uno Stato membro dello Spazio economico europeo (SEE) deteneva una partecipazione maggioritaria prima del 31 agosto 2023;
+- b. i beni trasformati in Bielorussia siano utilizzati in Svizzera per la produzione di altri beni destinati all’uso nel settore sanitario o farmaceutico, o nell’ambito della ricerca e sviluppo.[^31-2]
+
+<sup>6</sup> L’articolo 10*a* non si applica agli affari concordati in via contrattuale prima del 31 agosto 2023 e conclusi entro il 30 settembre 2023.[^31-3]
+
+<sup>7</sup>
+
+La SECO può autorizzare deroghe ai divieti di cui all’articolo 10*a* capoversi 1, 4 e 5 per l’adempimento di un contratto di leasing finanziario di aeromobili concluso prima del 31 agosto 2023, a condizione che:
+
+- a. ciò sia necessario per garantire il pagamento dei canoni del leasing a una persona giuridica, un’impresa o un’organizzazione registrata o costituita secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE cui non si applica nessuno dei provvedimenti di cui alla presente ordinanza; e
+- b. nessuna risorsa economica venga messa a disposizione della controparte bielorussa, a eccezione del trasferimento di proprietà dell’aeromobile dopo il rimborso integrale del leasing finanziario.[^31-4]
+
+[^31-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-2]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-3]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-4]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+
 #### Art. 32
 
 **Pubblicazione**
@@ -618,7 +679,7 @@ Sono esclusi dalle disposizioni dei numeri 1–3:
 - Le apparecchiature, le tecnologie e i software delle categorie di cui ai numeri 1–3 rientrano nell’ambito di applicazione del presente allegato nella misura in cui rispondano alla descrizione generale di «sistemi di intercettazione e controllo di Internet e delle comunicazioni telefoniche e satellitari».
 - Ai fini del presente allegato, per «controllo» si intende l’acquisizione, l’estrazione, la decodificazione, la registrazione, il trattamento, l’analisi e l’archiviazione del contenuto di una chiamata o dei dati della rete.
 
-Allegato 3
+Allegato 3[^t-1]
 
 (art. 5 cpv. 1)
 
@@ -626,7 +687,8 @@ Allegato 3
 
 [^annex3-lvlu1-1]
 
-[^annex3-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^annex3-lvlu1-1]: Il contenuto di questo allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/475](https://fedlex.data.admin.ch/eli/oc/2023/475) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4
 
@@ -708,7 +770,7 @@ Allegato 4
 <tr><td>8548</td><td>Cascami ed avanzi di pile, di batterie di pile e di accumulatori elettrici; pile e batterie di pile elettriche fuori uso e accumulatori elettrici fuori uso; parti elettriche di macchine o apparecchi, non nominate né comprese altrove nel capitolo 85 Prodotti a carattere riservato del capitolo 85; merci del capitolo 85 trasportate per posta o pacco postale (extra)/codice ricostituito per la diffusione statistica</td></tr>
 </table>
 
-Allegato 5[^t-1]
+Allegato 5[^t-2]
 
 (art. 7 cpv. 3)
 
@@ -716,7 +778,7 @@ Allegato 5[^t-1]
 
 [^annex5-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle ore 18.00 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^t-2]: Aggiornato dal n. I dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle ore 18.00 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
 [^annex5-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 6
@@ -810,7 +872,7 @@ Allegato 12
 <tr><td>4011</td><td>Pneumatici nuovi, di gomma</td></tr>
 </table>
 
-Allegato 13[^t-2]
+Allegato 13[^t-3]
 
 (art. 12 cpv. 1 lett. a e 25 cpv. 1)
 
@@ -818,7 +880,7 @@ Allegato 13[^t-2]
 
 [^annex13-lvlu1-1]
 
-[^t-2]: Aggiornato dal n. I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) e del 14 ago. 2023, in vigore dal 15 ago. 2023 alle ore 18.00 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)).
+[^t-3]: Aggiornato dal n. I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) e del 14 ago. 2023, in vigore dal 15 ago. 2023 alle ore 18.00 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)).
 [^annex13-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/449](https://fedlex.data.admin.ch/eli/oc/2023/449) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14
@@ -831,7 +893,7 @@ Allegato 14
 
 [^annex14-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
-Allegato 15[^t-3]
+Allegato 15[^t-4]
 
 (art. 23)
 
@@ -839,5 +901,32 @@ Allegato 15[^t-3]
 
 [^annex15-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. I dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle ore 18.00 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^t-4]: Aggiornato dal n. I dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle ore 18.00 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
 [^annex15-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+
+Allegato 16[^t-5]
+
+(art. 10*a* cpv. 1–3 e 5)
+
+## Beni per l’aviazione e l’industria spaziale
+
+[^t-5]: Introdotto dal n. II cpv. 2 dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+
+<table>
+<tr><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
+<tr><td>88</td><td>Veicoli di navigazione aerea o spaziale e loro parti</td></tr>
+<tr><td>ex 2710 19 94</td><td>Oli idraulici per l’uso nei veicoli del capitolo 88</td></tr>
+<tr><td>2710 19 99</td><td>Altri oli lubrificanti e altri oli destinati all’uso nell’aviazione</td></tr>
+<tr><td>4011 30 00</td><td>Pneumatici di gomma, nuovi, dei tipi utilizzati per veicoli aerei</td></tr>
+<tr><td>ex 6813 20 00</td><td>Dischi e pastiglie per freni destinati all’uso in veicoli di navigazione aerea</td></tr>
+<tr><td>6813 81 00</td><td>Guarnizioni per freni</td></tr>
+<tr><td>841111</td><td>Turboreattori di spinta non eccedente 25 kN</td></tr>
+<tr><td>841112</td><td>Turboreattori di spinta eccedente 25 kN</td></tr>
+<tr><td>841121</td><td>Turbopropulsori di potenza non eccedente 1 100 kW</td></tr>
+<tr><td>841122</td><td>Turbopropulsori di potenza eccedente 1 100 kW</td></tr>
+<tr><td>841191</td><td>Parti di turboreattori o di turbopropulsori</td></tr>
+<tr><td>8517 71 00</td><td>Antenne e riflettori di antenne di ogni tipo; parti riconoscibili come destinate a essere utilizzate insieme a tali oggetti</td></tr>
+<tr><td>8517 79 00</td><td>Altre parti relative alle antenne</td></tr>
+<tr><td>9024 10 00</td><td>Macchine e apparecchi per prove di durezza, di trazione, di compressione, di elasticità o di altre proprietà meccaniche dei materiali: macchine e apparecchi per prove su metalli</td></tr>
+<tr><td>9026</td><td>Strumenti e apparecchi di misura o di controllo della portata, del livello, della pressione o di altre caratteristiche variabili dei liquidi o dei gas (per esempio, misuratori di portata, indicatori di livello, manometri, contatori di calore), esclusi gli strumenti e apparecchi delle voci 9014, 9015, 9028 o 9032</td></tr>
+</table>

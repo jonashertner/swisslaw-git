@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2023-08-15
+version: 2023-08-30
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230815/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230815-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230815/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230830/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230830-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230830/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 15. August 2023)
+vom 16. März 2022 (Stand am 30. August 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -129,14 +129,14 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 
 <sup>1</sup>
 
-Die Verbote nach den Artikeln 4‒6 gelten nicht für den Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und den Transport von Gütern und Technologien oder für die Bereitstellung damit verbundener Dienstleistungen, wenn die Güter und Technologien bestimmt sind für:
+Die Verbote nach den Artikeln 4‒6 gelten nicht für den Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und den Transport von Gütern und Technologien sowie für die Bereitstellung von damit verbundenen Dienstleistungen, wenn die Güter und Technologien bestimmt sind für:[^7-1]
 
 - a. ausschliesslich humanitäre und medizinische Aktivitäten, die von einer unparteilichen humanitären Organisation durchgeführt werden, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen;
 - b. medizinische oder pharmazeutische Zwecke;
 - c. die vorübergehende Ausfuhr von Gegenständen zur Verwendung durch Nachrichtenmedien;
 - d. Softwareaktualisierungen;
-- e. die Verwendung als Kommunikationsgeräte des täglichen Gebrauchs;
-- f. die Gewährleistung der Cybersicherheit und der Informationssicherheit für natürliche und juristische Personen, Organisationen und Einrichtungen in Belarus mit Ausnahme von deren Regierung und der Unternehmen, die unmittelbar oder mittelbar von dieser kontrolliert werden; oder
+- e. die Verwendung als Kommunikationsgeräte des täglichen Gebrauchs; oder
+- f.[^7-2] …
 - g.
 
   die persönliche Verwendung folgender Gegenstände durch natürliche Personen, die nach Belarus reisen oder mit ihnen reisende Familienangehörige, sofern sich die Gegenstände im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind:
@@ -147,17 +147,37 @@ Die Verbote nach den Artikeln 4‒6 gelten nicht für den Verkauf, die Lieferung
 
 <sup>2</sup>
 
-Das SECO kann Ausnahmen von den Verboten nach Artikel 4 Absätze 1 und 2 sowie Artikel 5 Absätze 1 und 2 bewilligen für Tätigkeiten, die für folgende zivile Zwecke oder zivile Endempfänger bestimmt sind:
+Das SECO kann Ausnahmen von den Verboten nach Artikel 4 Absätze 1 und 2 sowie Artikel 5 Absätze 1 und 2 bewilligen für Güter, Technologien und Dienstleistungen, die für folgende zivile Zwecke oder zivile Endempfänger bestimmt sind:[^7-3]
 
 - a. die Zusammenarbeit zwischen der Schweiz und Belarus in ausschliesslich zivilen Angelegenheiten;
 - b. die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen;
 - c. den Betrieb, die Instandhaltung und die Wiederaufbereitung von Brennelementen, die Sicherheit ziviler nuklearer Kapazitäten sowie die zivile nukleare Zusammenarbeit, insbesondere im Bereich der Forschung und Entwicklung;
 - d. die maritime Sicherheit;
-- e. zivile Telekommunikationsnetze, einschliesslich der Bereitstellung von Internetdiensten;
-- f. die Verwendung durch Organisationen, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines Partners gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befinden; oder
-- g. diplomatische Vertretungen der Schweiz oder ihrer Partner.
+- e.[^7-4] zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze, sofern diese nicht einer Organisation gehören, die von einer staatlichen Stelle kontrolliert wird oder an der eine staatliche Stelle zu über fünfzig Prozent beteiligt ist;
+- f. die Verwendung durch Organisationen, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines Partners gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befinden;
+- g. diplomatische Vertretungen der Schweiz oder ihrer Partner; oder
+- h.[^7-5] die Gewährleistung von Cybersicherheit und Informationssicherheit für natürliche und juristische Personen, Organisationen und Einrichtungen in Belarus mit Ausnahme der Regierung von Belarus und der Unternehmen, die unmittelbar oder mittelbar von dieser kontrolliert werden.
 
-<sup>3</sup> Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur Annahme besteht, dass eine Tätigkeit zugunsten eines militärischen Endempfängers, einer militärischen Endverwendung, der Luft- oder Raumfahrtindustrie oder zugunsten einer Person, eines Unternehmens oder einer Organisation gemäss Anhang 5 erfolgen soll.
+<sup>3</sup>
+
+Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur Annahme besteht, dass die Güter, Technologien oder Dienstleistungen bestimmt sind für:
+
+- a. einen militärischen Endempfänger oder eine natürliche Person, ein Unternehmen oder eine Organisation gemäss Anhang 5;
+- b. eine militärische Endverwendung; oder
+- c. die Luft- oder Raumfahrtindustrie.[^7-6]
+
+<sup>4</sup> Absatz 3 Buchstaben a und b gilt nicht für Güter, Technologien und Dienstleistungen, die für die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen erforderlich sind.[^7-7]
+
+<sup>5</sup> Absatz 3 Buchstabe c gilt nicht für Güter, Technologien und Dienstleistungen, die für die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen bestimmt sind.[^7-8]
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-2]: Aufgehoben durch Ziff. I der V vom 30. Aug. 2023, mit Wirkung seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-4]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-5]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-6]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-7]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-8]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 
 #### Art. 8
 
@@ -180,6 +200,24 @@ Bewilligungen von Ausnahmen von den Verboten nach Artikel 7 Absatz 2 werden sist
 <sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern zur Herstellung oder Verarbeitung von Tabakerzeugnissen nach Anhang 6 an Personen oder Organisationen in Belarus oder zur Verwendung in Belarus sind verboten.
 
 <sup>2</sup> Die direkte oder indirekte Bereitstellung von technischer Hilfe, Vermittlungsdiensten, Finanzmitteln oder finanzieller Unterstützung, einschliesslich Finanzderivaten, sowie von Versicherungen und Rückversicherungen im Zusammenhang mit den Tätigkeiten nach Absatz 1 ist verboten
+
+#### Art. 10a
+
+**Güter für die Luft- und Raumfahrt**[^10a-1]
+
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern zur Verwendung in der Luft- oder Raumfahrtindustrie gemäss Anhang 16 nach oder zur Verwendung in Belarus sind verboten.
+
+<sup>2</sup> Die unmittelbare oder mittelbare Bereitstellung von Versicherungen und Rückversicherungen in Bezug auf Güter gemäss Anhang 16 für natürliche oder juristische Personen oder Organisationen in Belarus oder zur Verwendung in Belarus ist verboten.
+
+<sup>3</sup> Die Überholung, die Reparatur, die Inspektion, der Ersatz und die Modifizierung von Luftfahrzeugen oder Teilen davon zugunsten von Personen und Organisationen in Belarus oder zur Verwendung in Belarus sind verboten. Ausgenommen ist die Vorflugkontrolle.
+
+<sup>4</sup> Die Erbringung von Dienstleistungen, einschliesslich technischer Hilfe und Vermittlungsdiensten, im Zusammenhang mit Gütern gemäss Anhang 16 oder mit der Bereitstellung, Herstellung, Wartung und Verwendung dieser Güter zugunsten von Personen oder Organisationen in Belarus oder zur Verwendung in Belarus ist verboten.
+
+<sup>5</sup> Die Bereitstellung von Finanzmitteln oder Finanzhilfen im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr oder der Durchfuhr von Gütern gemäss Anhang 16 oder damit verbundene Dienstleistungen zugunsten von Personen oder Organisationen in Belarus oder zur Verwendung in Belarus ist verboten.
+
+<sup>6</sup> Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1, 4 und 5 bewilligen für Güter der Zolltarifnummern 8517 71 00, 8517 79 00 und 9026, falls diese für medizinische, pharmazeutische oder humanitäre Zwecke erforderlich sind.
+
+[^10a-1]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 
 #### Art. 11
 
@@ -488,6 +526,29 @@ Die Verordnung vom 11. August 2021[^30-1] über Massnahmen gegenüber Belarus wi
 
 <sup>3</sup> Das SECO bewilligt in Abweichung von den Verboten nach Artikel 4 Absätze 1 und 2 und Artikel 5 Absätze 1 und 2 bis zum 15. Mai 2022 gestellte Gesuche für Tätigkeiten, die für zivile Zwecke und zivile Endempfänger bestimmt sind und auf Verträgen beruhen, die vor dem 17. März 2022 abgeschlossen wurden. Die Artikel 8 und 9 über das Verfahren gelten sinngemäss.
 
+<sup>4</sup> Es bewilligt in Abweichung von den Verboten nach Artikel 5 Absätze 1 und 2 Gesuche für Tätigkeiten im Zusammenhang mit Gütern nach Artikel 5 Absatz 1, sofern diese Tätigkeiten dazu bestimmt sind, vor dem 31. August 2023 geschlossene Verträge, die für die Erbringung von zivilen Telekommunikationsdiensten für die belarussische Zivilbevölkerung erforderlich sind, bis zum 6. Februar 2024 zu beenden.[^31-1]
+
+<sup>5</sup>
+
+Es bewilligt in Abweichung von den Verboten nach Artikel 5 Absätze 1 und 2 bis zum 6. Februar 2024 gestellte Gesuche für Tätigkeiten im Zusammenhang mit Gütern der Zolltarifnummern 8536 69, 8536 90, 8541 30 und 8541 60, falls die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Güter werden in Belarus durch ein Joint Venture verarbeitet, das sich vor dem 31. August 2023 mehrheitlich im Eigentum eines Unternehmens mit Sitz in der Schweiz oder eines Mitgliedstaats des Europäischen Wirtschaftsraums (EWR) befand.
+- b. Die in Belarus verarbeiteten Güter dienen in der Schweiz der Herstellung von anderen Gütern, die zur Verwendung im Gesundheits- oder im Arzneimittelsektor oder im Bereich Forschung und Entwicklung bestimmt sind.[^31-2]
+
+<sup>6</sup> Artikel 10*a* ist nicht auf Geschäfte anwendbar, die vor dem 31. August 2023 vertraglich vereinbart wurden und bis zum 30. September 2023 erfüllt sind.[^31-3]
+
+<sup>7</sup>
+
+Das SECO kann für die Erfüllung von Finanzierungsleasingverträgen für Luftfahrzeuge, die vor dem 31. August 2023 abgeschlossen wurden, Ausnahmen von den Verboten gemäss Artikel 10*a* Absätze 1, 4 und 5 bewilligen, falls:
+
+- a. dies erforderlich ist für die Zahlung der Leasingraten an nach Schweizer Recht oder dem Recht eines Mitgliedstaates des EWR gegründete oder eingetragene juristische Personen, Unternehmen oder Organisationen, die nicht unter Massnahmen nach dieser Verordnung fallen; und
+- b. dem belarussischen Vertragspartner ausser der Übertragung des Eigentums an dem Luftfahrzeug nach der vollständigen Begleichung der Leasingverbindlichkeiten keine weiteren wirtschaftlichen Ressourcen zur Verfügung gestellt werden.[^31-4]
+
+[^31-1]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-2]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-3]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-4]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+
 #### Art. 32
 
 **Veröffentlichung**
@@ -618,7 +679,7 @@ Ausgenommen von den Ziffern 1–3 sind:
 - Ausrüstung, Software und Technologie, die unter die Kategorien nach den Ziffern 1–3 fällt, ist nur insoweit Gegenstand des vorliegenden Anhangs, als sie von der allgemeinen Beschreibung für «Systeme für das Abhören und die Überwachung des Internets, des Telefonverkehrs und der Satellitenkommunikation» erfasst wird.
 - Für die Zwecke dieses Anhangs bezeichnet «Überwachung» die Erfassung, Extrahierung, Entschlüsselung, Aufzeichnung, Verarbeitung, Analyse und Archivierung von Gesprächsinhalten oder Netzdaten.
 
-Anhang 3
+Anhang 3[^t-1]
 
 (Art. 5 Abs. 1)
 
@@ -626,7 +687,8 @@ Anhang 3
 
 [^annex3-lvlu1-1]
 
-[^annex3-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: https://fedlex.data.admin.ch/eli/oc/2023/475 &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4
 
@@ -708,7 +770,7 @@ Anhang 4
 <tr><td>8549</td><td>Abfälle und Schrott von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren; elektrische Teile von Maschinen, Apparaten oder Geräten, in Kapitel 85 anderweit weder genannt noch inbegriffen Vertrauliche Produkte des Kapitels 85; Waren des Kapitels 85, die als Post- oder Paketpostsendung (extra) versandt werden/zusammengesetzter Kode zur Verbreitung von Statistiken</td></tr>
 </table>
 
-Anhang 5[^t-1]
+Anhang 5[^t-2]
 
 (Art. 7 Abs. 3)
 
@@ -716,7 +778,7 @@ Anhang 5[^t-1]
 
 [^annex5-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
 [^annex5-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 6
@@ -810,7 +872,7 @@ Anhang 12
 <tr><td>4011</td><td>Neue Luftreifen, aus Kautschuk</td></tr>
 </table>
 
-Anhang 13[^t-2]
+Anhang 13[^t-3]
 
 (Art. 12 Abs. 1 Bst. a und 25 Abs. 1)
 
@@ -818,7 +880,7 @@ Anhang 13[^t-2]
 
 [^annex13-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) und vom 14. Aug. 2023, in Kraft seit 15. Aug. 2023 um 18.00 Uhr (AS **202****3** 449).
+[^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) und vom 14. Aug. 2023, in Kraft seit 15. Aug. 2023 um 18.00 Uhr ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)).
 [^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/449](https://fedlex.data.admin.ch/eli/oc/2023/449) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14
@@ -831,7 +893,7 @@ Anhang 14
 
 [^annex14-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 15[^t-3]
+Anhang 15[^t-4]
 
 (Art. 23)
 
@@ -839,5 +901,32 @@ Anhang 15[^t-3]
 
 [^annex15-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
 [^annex15-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+
+Anhang 16[^t-5]
+
+(Art. 10*a* Abs. 1–3 und 5)
+
+## Güter zur Verwendung für die Luft- und Raumfahrt
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+
+<table>
+<tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
+<tr><td>88</td><td>Luftfahrzeuge und Raumfahrzeuge, Teile davon</td></tr>
+<tr><td>ex 2710 19 94</td><td>Hydrauliköle zur Verwendung in Fahrzeugen des Kapitels 88</td></tr>
+<tr><td>2710 19 99</td><td>Andere Schmieröle und andere Öle zur Verwendung in der Luftfahrt</td></tr>
+<tr><td>4011 30 00</td><td>Luftreifen aus Kautschuk, neu, von der für Luftfahrzeuge verwendeten Art</td></tr>
+<tr><td>ex 6813 20 00</td><td>Bremsscheiben und Bremsklötze zur Verwendung in Luftfahrzeugen</td></tr>
+<tr><td>6813 81 00</td><td>Bremsbeläge und Bremsklötze</td></tr>
+<tr><td>841111</td><td>Turbo-Strahltriebwerke mit einer Schubkraft von &lt;= 25 kN</td></tr>
+<tr><td>841112</td><td>Turbo-Strahltriebwerke mit einer Schubkraft von &gt; 25 kN</td></tr>
+<tr><td>841121</td><td>Turbo-Propellertriebwerke mit einer Leistung von &lt;= 1100 kW</td></tr>
+<tr><td>841122</td><td>Turbo-Propellertriebwerke mit einer Leistung von &gt; 1100 kW</td></tr>
+<tr><td>841191</td><td>Teile für Turbo-Strahltriebwerke oder Turbo-Propellertriebwerke</td></tr>
+<tr><td>8517 71 00</td><td>Antennen und Antennenreflektoren aller Art; Teile, die erkennbar mit diesen Waren verwendet werden</td></tr>
+<tr><td>8517 79 00</td><td>Andere Teile im Zusammenhang mit Antennen</td></tr>
+<tr><td>9024 10 00</td><td>Maschinen, Apparate und Geräte zum Prüfen der Härte, Zugfestigkeit, Druckfestigkeit, Elastizität oder anderer mechanischer Eigenschaften von Materialien: Maschinen, Apparate und Geräte zum Prüfen von Metallen</td></tr>
+<tr><td>9026</td><td>Instrumente, Apparate und Geräte zum Messen oder Überwachen von Durchfluss, Füllhöhe, Druck oder anderen veränderlichen Grössen von Flüssigkeiten oder Gasen (z. B. Durchflussmesser, Flüssigkeitsstand- oder Gasstandanzeiger, Manometer, Wärmemengenzähler), ausgenommen Instrumente, Apparate und Geräte der Position 9014, 9015, 9028 oder 9032</td></tr>
+</table>
