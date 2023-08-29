@@ -3,11 +3,11 @@ sr: "0.822.719.1"
 title: Internationales Übereinkommen Nr. 81 vom 11. Juli 1947 über die Arbeitsaufsicht in Gewerbe und Handel
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/737_761_730"
 language: de
-version: 2019-04-16
+version: 2023-08-30
 adopted: 1947-07-11
 in_force: 1950-07-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/737_761_730/20190416/de/xml/fedlex-data-admin-ch-eli-cc-1950-737_761_730-20190416-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/737_761_730/20190416/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/737_761_730/20230830/de/xml/fedlex-data-admin-ch-eli-cc-1950-737_761_730-20230830-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/737_761_730/20230830/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1950** II 737; BBl **1949** I 1
 
 Angenommen in Genf am 11. Juli 1947 Genehmigt von der Bundesversammlung am 16. Juni 1949[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 13. Juli 1949 In Kraft getreten für die Schweiz am 13. Juli 1950[^t-2]
 
-(Stand am 16. April 2019)
+(Stand am 30. August 2023)
 
 [^t-1]: Unter Ausschluss des II. Teils, der mit BB vom 8. März 1971 genehmigt wurde (AS **1950** II 735, **1971** 1135).
 [^t-2]: Unter Ausschluss des II. Teils, der am 1. Juli 1972 in Kraft getreten ist.
@@ -178,7 +178,7 @@ Der Jahresbericht der zentralen Aufsichtsbehörde hat die nachstehend angegebene
 - f. Statistik der Betriebsunfälle,
 - g. Statistik der Berufskrankheiten.
 
-## Teil II Die Arbeitsaufsicht im Handel****
+## Teil II Die Arbeitsaufsicht im Handel
 
 [^partII-1]
 
@@ -317,7 +317,7 @@ Der Verwaltungsrat des Internationalen Arbeitsamtes hat, sooft er es für nötig
 
 Der englische und der französische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 16. April 2019**[^t-3]**
+Geltungsbereich am 30. August 2023[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -340,6 +340,7 @@ Geltungsbereich am 16. April 2019**[^t-3]**
 <tr><td>Benin</td><td>11. Juni</td><td>2001</td><td>11. Juni</td><td>2002</td></tr>
 <tr><td>Bolivien</td><td>15. November</td><td>1973</td><td>15. November</td><td>1974</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>2. Juni</td><td>1993 N</td><td>2. Juni</td><td>1993</td></tr>
+<tr><td>Botsuana</td><td>22. Dezember</td><td>2022</td><td>22. Dezember</td><td>2023</td></tr>
 <tr><td>Brasilien</td><td>11. Oktober</td><td>1989</td><td>11. Oktober</td><td>1990</td></tr>
 <tr><td>Bulgarien</td><td>29. Dezember</td><td>1949</td><td>29. Dezember</td><td>1950</td></tr>
 <tr><td>Burkina Faso</td><td>21. Mai</td><td>1974</td><td>21. Mai</td><td>1975</td></tr>
@@ -390,6 +391,7 @@ Geltungsbereich am 16. April 2019**[^t-3]**
 <tr><td>Jemen</td><td>29. Juli</td><td>1976</td><td>29. Juli</td><td>1977</td></tr>
 <tr><td>Jordanien</td><td>27. März</td><td>1969</td><td>27. März</td><td>1970</td></tr>
 <tr><td>Kamerun <sup>a</sup></td><td>3. September</td><td>1962</td><td>3. September</td><td>1963</td></tr>
+<tr><td>Kanada</td><td>17. Juni</td><td>2019</td><td>17. Juni</td><td>2020</td></tr>
 <tr><td>Kap Verde</td><td>16. Oktober</td><td>1979 N</td><td>16. Oktober</td><td>1979</td></tr>
 <tr><td>Kasachstan</td><td>6. Juli</td><td>2001</td><td>6. Juli</td><td>2002</td></tr>
 <tr><td>Katar</td><td>18. August</td><td>1976</td><td>18. August</td><td>1977</td></tr>
@@ -473,6 +475,7 @@ Geltungsbereich am 16. April 2019**[^t-3]**
 <tr><td>Ukraine</td><td>10. November</td><td>2004</td><td>10. November</td><td>2005</td></tr>
 <tr><td>Ungarn</td><td>4. Januar</td><td>1994</td><td>4. Januar</td><td>1995</td></tr>
 <tr><td>Uruguay</td><td>28. Juni</td><td>1973</td><td>28. Juni</td><td>1974</td></tr>
+<tr><td>Usbekistan</td><td>19. November</td><td>2019</td><td>19. November</td><td>2020</td></tr>
 <tr><td>Venezuela</td><td>21. Juli</td><td>1967</td><td>21. Juli</td><td>1968</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>27. Mai</td><td>1982</td><td>27. Mai</td><td>1983</td></tr>
 <tr><td>Vereinigtes Königreich <sup>a</sup> \*</td><td>28. Juni</td><td>1949</td><td>28. Juni</td><td>1950</td></tr>
@@ -481,7 +484,7 @@ Geltungsbereich am 16. April 2019**[^t-3]**
 <tr><td>Zentralafrikanische Republik</td><td>9. Juni</td><td>1964</td><td>9. Juni</td><td>1965</td></tr>
 <tr><td>Zypern</td><td>23. September</td><td>1960</td><td>16. August</td><td>1960</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org/ilolex/french/convdisp1.htm eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dieser Staat ist an das Übereinkommen gebunden unter Ausschluss des Teils II.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Übereinkommen ist nicht auf die Insel Norfolk anwendbar.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Vom 22. März 1959 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
@@ -489,4 +492,4 @@ Geltungsbereich am 16. April 2019**[^t-3]**
 <tr><td colspan="5"><sup>e</sup> Seit dem 5. April 2000 ist die Konvention ohne Änderung auf Neukaledonien anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1972 785](https://fedlex.data.admin.ch/eli/oc/1972/785_793_717), [1973 1673](https://fedlex.data.admin.ch/eli/oc/1973/1673_1673_1673),[1975 2498](https://fedlex.data.admin.ch/eli/oc/1975/2498_2498_2498), [1982 834](https://fedlex.data.admin.ch/eli/oc/1982/834_834_834), [1983 612](https://fedlex.data.admin.ch/eli/oc/1983/612_612_612), [1985 288](https://fedlex.data.admin.ch/eli/oc/1985/288_288_288), [1987 1418](https://fedlex.data.admin.ch/eli/oc/1987/1418_1418_1418), [1992 723](https://fedlex.data.admin.ch/eli/oc/1992/723_723_723), [2005 1745](https://fedlex.data.admin.ch/eli/oc/2005/278), [2008 637](https://fedlex.data.admin.ch/eli/oc/2008/149), [2013 1243](https://fedlex.data.admin.ch/eli/oc/2013/275), [2019 1295](https://fedlex.data.admin.ch/eli/oc/2019/246). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1972 785](https://fedlex.data.admin.ch/eli/oc/1972/785_793_717); [1973 1673](https://fedlex.data.admin.ch/eli/oc/1973/1673_1673_1673); [1975 2498](https://fedlex.data.admin.ch/eli/oc/1975/2498_2498_2498); [1982 834](https://fedlex.data.admin.ch/eli/oc/1982/834_834_834); [1983 612](https://fedlex.data.admin.ch/eli/oc/1983/612_612_612); [1985 288](https://fedlex.data.admin.ch/eli/oc/1985/288_288_288); [1987 1418](https://fedlex.data.admin.ch/eli/oc/1987/1418_1418_1418); [1992 723](https://fedlex.data.admin.ch/eli/oc/1992/723_723_723); [2005 1745](https://fedlex.data.admin.ch/eli/oc/2005/278); [2008 637](https://fedlex.data.admin.ch/eli/oc/2008/149); [2013 1243](https://fedlex.data.admin.ch/eli/oc/2013/275); [2019 1295](https://fedlex.data.admin.ch/eli/oc/2019/246); [2023 480](https://fedlex.data.admin.ch/eli/oc/2023/480). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
