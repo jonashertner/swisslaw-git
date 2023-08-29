@@ -3,11 +3,11 @@ sr: "0.822.725.1"
 title: "Convenzione n. 151 del 27 giugno 1978 concernente la protezione del diritto d'associazione e le procedure di determinazione delle condizioni d'impiego nella funzione pubblica"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/334_334_334"
 language: it
-version: 2016-03-29
+version: 2023-08-30
 adopted: 1978-06-27
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20160329/it/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20160329-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20160329/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20230830/it/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20230830-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20230830/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20160329/it"
 
 RU **1982** 334; FF **1980** II 433
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa a Ginevra il 27 giugno 1978 Approvata dall’Assemblea federale il 16 dicembre 1980[^t-2] Ratificata con strumenti depositati dalla Svizzera il 3 marzo 1981 Entrata in vigore per la Svizzera il 3 marzo 1982
+Conchiusa a Ginevra il 27 giugno 1978 Approvata dall’Assemblea federale il 16 dicembre 1980[^t-1] Ratificata con strumenti depositati dalla Svizzera il 3 marzo 1981 Entrata in vigore per la Svizzera il 3 marzo 1982
 
-(Stato 29 marzo 2016)
+(Stato 30 agosto 2023)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
+[^t-1]: [RU 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
 *La Conferenza generale dell’Organizzazione internazionale del Lavoro,*
 
@@ -164,7 +163,7 @@ Ove la Conferenza adottasse una nuova convenzione con revisione totale o parzial
 
 Le versioni francese e inglese del presente testo fanno parimente fede.
 
-Campo d’applicazione il 29 marzo 2016**[^t-3]**
+Campo d’applicazione il 30 agosto 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -181,7 +180,7 @@ Campo d’applicazione il 29 marzo 2016**[^t-3]**
 <tr><td>Brasile</td><td>15 giugno</td><td>2010</td><td>15 giugno</td><td>2011</td></tr>
 <tr><td>Ciad</td><td>7 gennaio</td><td>1998</td><td>7 gennaio</td><td>1999</td></tr>
 <tr><td>Cile</td><td>17 luglio</td><td>2000</td><td>17 luglio</td><td>2001</td></tr>
-<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cina<sup>\*</sup></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Hong Kong <sup>a</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Cipro</td><td>6 luglio</td><td>1981</td><td>6 luglio</td><td>1982</td></tr>
 <tr><td>Colombia</td><td>8 dicembre</td><td>2000</td><td>8 dicembre</td><td>2001</td></tr>
@@ -196,12 +195,15 @@ Campo d’applicazione il 29 marzo 2016**[^t-3]**
 <tr><td>Guinea</td><td>8 giugno</td><td>1982</td><td>8 giugno</td><td>1983</td></tr>
 <tr><td>Guyana</td><td>10 gennaio</td><td>1983 S</td><td>10 gennaio</td><td>1983</td></tr>
 <tr><td>Italia</td><td>28 febbraio</td><td>1985</td><td>28 febbraio</td><td>1986</td></tr>
+<tr><td>Lesotho</td><td>15 marzo</td><td>2023</td><td>15 marzo</td><td>2024</td></tr>
 <tr><td>Lettonia</td><td>27 gennaio</td><td>1992</td><td>27 gennaio</td><td>1993</td></tr>
 <tr><td>Lussemburgo</td><td>21 marzo</td><td>2001</td><td>21 marzo</td><td>2002</td></tr>
-<tr><td>Macedonia</td><td>22 luglio</td><td>2013</td><td>22 luglio</td><td>2014</td></tr>
+<tr><td>Macedonia del Nord</td><td>22 luglio</td><td>2013</td><td>22 luglio</td><td>2014</td></tr>
+<tr><td>Madagascar</td><td>11 giugno</td><td>2019</td><td>11 giugno</td><td>2020</td></tr>
 <tr><td>Mali</td><td>12 giugno</td><td>1995</td><td>12 giugno</td><td>1996</td></tr>
 <tr><td>Marocco</td><td>4 giugno</td><td>2013</td><td>4 giugno</td><td>2014</td></tr>
 <tr><td>Moldova</td><td>4 aprile</td><td>2003</td><td>4 aprile</td><td>2004</td></tr>
+<tr><td>Montenegro</td><td>9 aprile</td><td>2019</td><td>9 aprile</td><td>2019</td></tr>
 <tr><td>Norvegia</td><td>19 marzo</td><td>1980</td><td>19 marzo</td><td>1981</td></tr>
 <tr><td>Paesi Bassi</td><td>29 novembre</td><td>1988</td><td>29 novembre</td><td>1989</td></tr>
 <tr><td>Perù</td><td>27 ottobre</td><td>1980</td><td>27 ottobre</td><td>1981</td></tr>
@@ -211,7 +213,7 @@ Campo d’applicazione il 29 marzo 2016**[^t-3]**
 <tr><td>Gibilterra</td><td>11 agosto</td><td>1980</td><td>11 agosto</td><td>1980</td></tr>
 <tr><td>Guernesey</td><td>12 maggio</td><td>1981</td><td>12 maggio</td><td>1981</td></tr>
 <tr><td>Isola di Man</td><td>18 febbraio</td><td>1997</td><td>18 febbraio</td><td>1997</td></tr>
-<tr><td>Sant'Elena</td><td>11 agosto</td><td>1980</td><td>11 agosto</td><td>1980</td></tr>
+<tr><td>Sant’Elena</td><td>11 agosto</td><td>1980</td><td>11 agosto</td><td>1980</td></tr>
 <tr><td>Russia</td><td>19 settembre</td><td>2014</td><td>19 settembre</td><td>2015</td></tr>
 <tr><td>San Marino</td><td>19 aprile</td><td>1988</td><td>19 aprile</td><td>1989</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>4 maggio</td><td>2005</td><td>4 maggio</td><td>2006</td></tr>
@@ -227,7 +229,8 @@ Campo d’applicazione il 29 marzo 2016**[^t-3]**
 <tr><td>Ungheria</td><td>4 gennaio</td><td>1994</td><td>4 gennaio</td><td>1995</td></tr>
 <tr><td>Uruguay</td><td>19 giugno</td><td>1989</td><td>19 giugno</td><td>1990</td></tr>
 <tr><td>Zambia</td><td>19 agosto</td><td>1980</td><td>19 agosto</td><td>1981</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nel RU. I testi in francese e inglese possono essere consultati sul sito dell'Organizzazione Internazionale del Lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure richiesti alla Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 3 feb. 1981 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
 </table>
 
-[^t-3]: [RU 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334), [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620), [1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305), [1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194), [1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423), [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291), [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507), [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292)e [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334); [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620); [1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305); [1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194); [1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423); [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291); [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507); [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292); [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246); [2023 481](https://fedlex.data.admin.ch/eli/oc/2023/481). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).

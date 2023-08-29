@@ -3,11 +3,11 @@ sr: "0.822.725.1"
 title: Übereinkommen Nr. 151 vom 27. Juni 1978 über den Schutz des Vereinigungsrechtes und über Verfahren zur Festsetzung der Beschäftigungsbedingungen im öffentlichen Dienst
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/334_334_334"
 language: de
-version: 2016-03-29
+version: 2023-08-30
 adopted: 1978-06-27
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20160329/de/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20160329-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20160329/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20230830/de/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20230830-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20230830/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20160329/de"
 
 AS **1982** 334; BBl **1980** II 436
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Genf am 27. Juni 1978
 
-Von der Bundesversammlung genehmigt am 16. Dezember 1980[^t-2]
+Von der Bundesversammlung genehmigt am 16. Dezember 1980[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 3. März 1981
 
 In Kraft getreten für die Schweiz am 3. März 1982
 
-(Stand am 29. März 2016)
+(Stand am 30. August 2023)
 
-[^t-1]: Übersetzung des französischen Originaltexts.
-[^t-2]: [AS 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
+[^t-1]: [AS 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
 Die Allgemeine Konferenz der Internationalen Arbeitsorganisation,
 
@@ -170,10 +169,10 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 29. März 2016**[^t-3]**
+Geltungsbereich am 30. August 2023[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolge- erklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>30. Juni</td><td>1999</td><td>30. Juni</td><td>2000</td></tr>
 <tr><td>Antigua und Barbuda</td><td>16. September</td><td>2002</td><td>16. September</td><td>2003</td></tr>
 <tr><td>Argentinien</td><td>21. Januar</td><td>1987</td><td>21. Januar</td><td>1988</td></tr>
@@ -186,7 +185,7 @@ Geltungsbereich am 29. März 2016**[^t-3]**
 <tr><td>Botsuana</td><td>22. Dezember</td><td>1997</td><td>22. Dezember</td><td>1998</td></tr>
 <tr><td>Brasilien</td><td>15. Juni</td><td>2010</td><td>15. Juni</td><td>2011</td></tr>
 <tr><td>Chile</td><td>17. Juli</td><td>2000</td><td>17. Juli</td><td>2001</td></tr>
-<tr><td>China</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>China\*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Hongkong<sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Dänemark</td><td>5. Juni</td><td>1981</td><td>5. Juni</td><td>1982</td></tr>
 <tr><td>El Salvador</td><td>6. September</td><td>2006</td><td>6. September</td><td>2007</td></tr>
@@ -200,13 +199,16 @@ Geltungsbereich am 29. März 2016**[^t-3]**
 <tr><td>Italien</td><td>28. Februar</td><td>1985</td><td>28. Februar</td><td>1986</td></tr>
 <tr><td>Kolumbien</td><td>8. Dezember</td><td>2000</td><td>8. Dezember</td><td>2001</td></tr>
 <tr><td>Kuba</td><td>29. Dezember</td><td>1980</td><td>29. Dezember</td><td>1981</td></tr>
+<tr><td>Lesotho</td><td>15. März</td><td>2023</td><td>15. März</td><td>2024</td></tr>
 <tr><td>Lettland</td><td>27. Januar</td><td>1992</td><td>27. Januar</td><td>1993</td></tr>
 <tr><td>Luxemburg</td><td>21. März</td><td>2001</td><td>21. März</td><td>2002</td></tr>
+<tr><td>Madagaskar</td><td>11. Juni</td><td>2019</td><td>11. Juni</td><td>2020</td></tr>
 <tr><td>Mali</td><td>12. Juni</td><td>1995</td><td>12. Juni</td><td>1996</td></tr>
 <tr><td>Marokko</td><td>4. Juni</td><td>2013</td><td>4. Juni</td><td>2014</td></tr>
-<tr><td>Mazedonien</td><td>22. Juli</td><td>2013</td><td>22. Juli</td><td>2014</td></tr>
 <tr><td>Moldau</td><td>4. April</td><td>2003</td><td>4. April</td><td>2004</td></tr>
+<tr><td>Montenegro</td><td>9. April</td><td>2019</td><td>9. April</td><td>2019</td></tr>
 <tr><td>Niederlande</td><td>29. November</td><td>1988</td><td>29. November</td><td>1989</td></tr>
+<tr><td>Nordmazedonien</td><td>22. Juli</td><td>2013</td><td>22. Juli</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td>19. März</td><td>1980</td><td>19. März</td><td>1981</td></tr>
 <tr><td>Peru</td><td>27. Oktober</td><td>1980</td><td>27. Oktober</td><td>1981</td></tr>
 <tr><td>Polen</td><td>26. Juli</td><td>1982</td><td>26. Juli</td><td>1983</td></tr>
@@ -233,7 +235,8 @@ Geltungsbereich am 29. März 2016**[^t-3]**
 <tr><td>[tab] Insel Man</td><td>18. Februar</td><td>1997</td><td>18. Februar</td><td>1997</td></tr>
 <tr><td>[tab] St. Helena</td><td>11. August</td><td>1980</td><td>11. August</td><td>1980</td></tr>
 <tr><td>Zypern</td><td>6. Juli</td><td>1981</td><td>6. Juli</td><td>1982</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Vom 3. Febr. 1981 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334), [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620),[1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305),[1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194),[1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423), [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291), [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507), [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292)und [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334); [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620); [1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305); [1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194); [1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423); [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291); [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507); [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292); [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246); [2023 841](https://fedlex.data.admin.ch/eli/oc/2023/841). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

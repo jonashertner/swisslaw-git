@@ -3,11 +3,11 @@ sr: "0.822.725.1"
 title: "Convention n<sup>o</sup> 151 du 27 juin 1978 concernant la protection du droit d'organisation et les procédures de détermination des conditions d'emploi dans la fonction publique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/334_334_334"
 language: fr
-version: 2016-03-29
+version: 2023-08-30
 adopted: 1978-06-27
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20160329/fr/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20160329-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20160329/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20230830/fr/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20230830-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20230830/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,25 +20,25 @@ Texte original
 
 Conclue à Genève le 27 juin 1978 Approuvée par l’Assemblée fédérale le 16 décembre 1980[^t-1] Instrument de ratification déposé par la Suisse le 3 mars 1981 Entrée en vigueur pour la Suisse le 3 mars 1982
 
-(Etat le 29 mars 2016)
+(État le 30 août 2023)
 
 [^t-1]: [RO 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 7 juin 1978, en sa soixante-quatrième session;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 7 juin 1978, en sa soixante-quatrième session,
 
-notant les dispositions de la convention sur la liberté syndicale et la protection du droit syndical, 1948[^ingress-1], de la convention sur le droit d’organisation et de négociation collective, 1949[^ingress-2], et de la convention et de la recommandation concernant les représentants des travailleurs, 1971;
+notant les dispositions de la convention sur la liberté syndicale et la protection du droit syndical, 1948[^ingress-1], de la convention sur le droit d’organisation et de négociation collective, 1949[^ingress-2], et de la convention et de la recommandation concernant les représentants des travailleurs, 1971,
 
-rappelant que la convention sur le droit d’organisation et de négociation collective, 1949, ne vise pas certaines catégories d’agents publics et que la convention et la recommandation concernant les représentants des travailleurs, 1971, s’appliquent aux représentants des travailleurs dans l’entreprise;
+rappelant que la convention sur le droit d’organisation et de négociation collective, 1949, ne vise pas certaines catégories d’agents publics et que la convention et la recommandation concernant les représentants des travailleurs, 1971, s’appliquent aux représentants des travailleurs dans l’entreprise,
 
-notant l’expansion considérable des activités de la fonction publique dans beaucoup de pays et le besoin de relations de travail saines entre les autorités publiques et les organisations d’agents publics;
+notant l’expansion considérable des activités de la fonction publique dans beaucoup de pays et le besoin de relations de travail saines entre les autorités publiques et les organisations d’agents publics,
 
-constatant la grande diversité des systèmes politiques, sociaux et économiques des Etats Membres ainsi que celle de leurs pratiques (par exemple en ce qui concerne les fonctions respectives des autorités centrales et locales, celles des autorités fédérales, des Etats fédérés et des provinces, et celles des entreprises qui sont propriété publique et des différents types d’organismes publics autonomes ou semi-autonomes, ou en ce qui concerne la nature des relations d’emploi);
+constatant la grande diversité des systèmes politiques, sociaux et économiques des États Membres ainsi que celle de leurs pratiques (par exemple en ce qui concerne les fonctions respectives des autorités centrales et locales, celles des autorités fédérales, des États fédérés et des provinces, et celles des entreprises qui sont propriété publique et des différents types d’organismes publics autonomes ou semi-autonomes, ou en ce qui concerne la nature des relations d’emploi),
 
-tenant compte des problèmes particuliers que posent la délimitation du champ d’application d’un instrument international et l’adoption de définitions aux fins de cet instrument, en raison des différences existant dans de nombreux pays entre l’emploi dans le secteur public et le secteur privé, ainsi que des difficultés d’interprétation qui ont surgi à propos de l’application aux fonctionnaires publics de dispositions pertinentes de la convention sur le droit d’organisation et de négociation collective, 1949, et des observations par lesquelles les organes de contrôle de l’OIT ont fait remarquer à diverses reprises que certains gouvernements ont appliqué ces dispositions d’une façon qui exclut de larges groupes d’agents publics du champ d’application de cette convention;
+tenant compte des problèmes particuliers que posent la délimitation du champ d’application d’un instrument international et l’adoption de définitions aux fins de cet instrument, en raison des différences existant dans de nombreux pays entre l’emploi dans le secteur public et le secteur privé, ainsi que des difficultés d’interprétation qui ont surgi à propos de l’application aux fonctionnaires publics de dispositions pertinentes de la convention sur le droit d’organisation et de négociation collective, 1949, et des observations par lesquelles les organes de contrôle de l’OIT ont fait remarquer à diverses reprises que certains gouvernements ont appliqué ces dispositions d’une façon qui exclut de larges groupes d’agents publics du champ d’application de cette convention,
 
-après avoir décidé d’adopter diverses propositions relatives à la liberté syndicale et aux procédures de détermination des conditions d’emploi dans la fonction publique, question qui constitue le cinquième point à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives à la liberté syndicale et aux procédures de détermination des conditions d’emploi dans la fonction publique, question qui constitue le cinquième point à l’ordre du jour de la session,
 
 après avoir décidé que ces propositions prendraient la forme d’une convention internationale,
 
@@ -165,10 +165,10 @@ Au cas où la Conférence adopterait une nouvelle convention portant révision t
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-Champ d’application le 29 mars 2016**[^t-2]**
+Champ d’application le 30 août 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>30 juin</td><td>1999</td><td>30 juin</td><td>2000</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>16 septembre</td><td>2002</td><td>16 septembre</td><td>2003</td></tr>
 <tr><td>Argentine</td><td>21 janvier</td><td>1987</td><td>21 janvier</td><td>1988</td></tr>
@@ -181,7 +181,7 @@ Champ d’application le 29 mars 2016**[^t-2]**
 <tr><td>Botswana</td><td>22 décembre</td><td>1997</td><td>22 décembre</td><td>1998</td></tr>
 <tr><td>Brésil</td><td>15 juin</td><td>2010</td><td>15 juin</td><td>2011</td></tr>
 <tr><td>Chili</td><td>17 juillet</td><td>2000</td><td>17 juillet</td><td>2001</td></tr>
-<tr><td>[tab] Chine</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>[tab] Chine\*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Hong Kong <sup>a</sup></td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Chypre</td><td>6 juillet</td><td>1981</td><td>6 juillet</td><td>1982</td></tr>
 <tr><td>Colombie</td><td>8 décembre</td><td>2000</td><td>8 décembre</td><td>2001</td></tr>
@@ -198,12 +198,15 @@ Champ d’application le 29 mars 2016**[^t-2]**
 <tr><td>Guyana</td><td>10 janvier</td><td>1983 S</td><td>10 janvier</td><td>1983</td></tr>
 <tr><td>Hongrie</td><td>4 janvier</td><td>1994</td><td>4 janvier</td><td>1995</td></tr>
 <tr><td>Italie</td><td>28 février</td><td>1985</td><td>28 février</td><td>1986</td></tr>
+<tr><td>Lesotho</td><td>15 mars</td><td>2023</td><td>15 mars</td><td>2024</td></tr>
 <tr><td>Lettonie</td><td>27 janvier</td><td>1992</td><td>27 janvier</td><td>1993</td></tr>
 <tr><td>Luxembourg</td><td>21 mars</td><td>2001</td><td>21 mars</td><td>2002</td></tr>
-<tr><td>Macédoine</td><td>22 juillet</td><td>2013</td><td>22 juillet</td><td>2014</td></tr>
+<tr><td>Macédoine du Nord</td><td>22 juillet</td><td>2013</td><td>22 juillet</td><td>2014</td></tr>
+<tr><td>Madagascar</td><td>11 juin</td><td>2019</td><td>11 juin</td><td>2020</td></tr>
 <tr><td>Mali</td><td>12 juin</td><td>1995</td><td>12 juin</td><td>1996</td></tr>
 <tr><td>Maroc</td><td>4 juin</td><td>2013</td><td>4 juin</td><td>2014</td></tr>
 <tr><td>Moldova</td><td>4 avril</td><td>2003</td><td>4 avril</td><td>2004</td></tr>
+<tr><td>Monténégro</td><td>9 avril</td><td>2019</td><td>9 avril</td><td>2019</td></tr>
 <tr><td>Norvège</td><td>19 mars</td><td>1980</td><td>19 mars</td><td>1981</td></tr>
 <tr><td>Pays-Bas</td><td>29 novembre</td><td>1988</td><td>29 novembre</td><td>1989</td></tr>
 <tr><td>Pérou</td><td>27 octobre</td><td>1980</td><td>27 octobre</td><td>1981</td></tr>
@@ -212,7 +215,7 @@ Champ d’application le 29 mars 2016**[^t-2]**
 <tr><td>[tab] Royaume-Uni</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Gibraltar</td><td>11 août</td><td>1980</td><td>11 août</td><td>1980</td></tr>
 <tr><td>[tab] Guernesey</td><td>12 mai</td><td>1981</td><td>12 mai</td><td>1981</td></tr>
-<tr><td>[tab] Ile de Man</td><td>18 février</td><td>1997</td><td>18 février</td><td>1997</td></tr>
+<tr><td>[tab] Île de Man</td><td>18 février</td><td>1997</td><td>18 février</td><td>1997</td></tr>
 <tr><td>[tab] Sainte-Hélène</td><td>11 août</td><td>1980</td><td>11 août</td><td>1980</td></tr>
 <tr><td>Russie</td><td>19 septembre</td><td>2014</td><td>19 septembre</td><td>2015</td></tr>
 <tr><td>Saint-Marin</td><td>19 avril</td><td>1988</td><td>19 avril</td><td>1989</td></tr>
@@ -228,7 +231,7 @@ Champ d’application le 29 mars 2016**[^t-2]**
 <tr><td>Turquie</td><td>12 juillet</td><td>1993</td><td>12 juillet</td><td>1994</td></tr>
 <tr><td>Uruguay</td><td>19 juin</td><td>1989</td><td>19 juin</td><td>1990</td></tr>
 <tr><td>Zambie</td><td>19 août</td><td>1980</td><td>19 août</td><td>1981</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 3 fév. 1981 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 3 fév. 1981 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-2]: [RO 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334),[1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620),[1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305),[1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194),[1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423)**,** [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291), [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507), [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292), [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334); [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620); [1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305); [1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194); [1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423); [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291); [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507); [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292); [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246); [2023 481](https://fedlex.data.admin.ch/eli/oc/2023/481). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
