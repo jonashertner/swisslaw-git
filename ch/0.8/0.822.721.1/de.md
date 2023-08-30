@@ -3,11 +3,11 @@ sr: "0.822.721.1"
 title: Übereinkommen Nr. 111 vom 25. Juni 1958 über die Diskriminierung in Beschäftigung und Beruf (mit Empfehlung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/810_824_840"
 language: de
-version: 2019-03-27
+version: 2023-08-31
 adopted: 1958-06-25
 in_force: 1962-07-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/810_824_840/20190327/de/xml/fedlex-data-admin-ch-eli-cc-1961-810_824_840-20190327-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/810_824_840/20190327/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/810_824_840/20230831/de/xml/fedlex-data-admin-ch-eli-cc-1961-810_824_840-20230831-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/810_824_840/20230831/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1961** 810; BBl **1960** I 29
 
 Angenommen in Genf am 25. Juni 1958 Von der Bundesversammlung genehmigt am 15. Juni 1961[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 13. Juli 1961 In Kraft getreten für die Schweiz am 13. Juli 1962
 
-(Stand am 27. März 2019)
+(Stand am 31. August 2023)
 
 [^t-1]: [AS 1961 809](https://fedlex.data.admin.ch/eli/oc/1961/809_823_839)
 
@@ -201,7 +201,7 @@ III. Koordinierung der Massnahmen zur Bekämpfung der Diskriminierung auf allen 
 
 \10. Die für die Bekämpfung der Diskriminierung in Beschäftigung und Beruf verantwortlichen Stellen sollen ständig eng mit den Stellen zusammenarbeiten, die für die Bekämpfung der Diskriminierung auf anderen Gebieten zuständig sind, um alle zu diesem Zwecke getroffenen Massnahmen zu koordinieren.
 
-Geltungsbereich am 27. März 2019**[^t-2]**
+Geltungsbereich am 31. August 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -365,9 +365,11 @@ Geltungsbereich am 27. März 2019**[^t-2]**
 <tr><td>Südafrika</td><td>5. März</td><td>1997</td><td>5. März</td><td>1998</td></tr>
 <tr><td>Sudan</td><td>22. Oktober</td><td>1970</td><td>22. Oktober</td><td>1971</td></tr>
 <tr><td>Südsudan</td><td>29. April</td><td>2012</td><td>29. April</td><td>2013</td></tr>
+<tr><td>Suriname</td><td>4. Januar</td><td>2017</td><td>4. Januar</td><td>2018</td></tr>
 <tr><td>Syrien</td><td>10. Mai</td><td>1960</td><td>10. Mai</td><td>1961</td></tr>
 <tr><td>Tadschikistan</td><td>26. November</td><td>1993 N</td><td>26. November</td><td>1993</td></tr>
 <tr><td>Tansania</td><td>26. Februar</td><td>2002</td><td>26. Februar</td><td>2003</td></tr>
+<tr><td>Thailand</td><td>13. Juni</td><td>2017</td><td>13. Juni</td><td>2018</td></tr>
 <tr><td>Timor-Leste</td><td>10. Mai</td><td>2016</td><td>10. Mai</td><td>2017</td></tr>
 <tr><td>Togo</td><td>8. November</td><td>1983</td><td>8. November</td><td>1984</td></tr>
 <tr><td>Trinidad und Tobago</td><td>26. November</td><td>1970</td><td>26. November</td><td>1971</td></tr>
@@ -392,4 +394,4 @@ Geltungsbereich am 27. März 2019**[^t-2]**
 <tr><td colspan="5"><sup>b</sup> Vom 4. Okt. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Juli 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1961 810](https://fedlex.data.admin.ch/eli/oc/1961/810_824_840), [1973 1681](https://fedlex.data.admin.ch/eli/oc/1973/1681_1681_1681), [1975 2503](https://fedlex.data.admin.ch/eli/oc/1975/2503_2503_2503), [1982 842](https://fedlex.data.admin.ch/eli/oc/1982/842_842_842), [1984 578](https://fedlex.data.admin.ch/eli/oc/1984/578_578_578), [1985 606](https://fedlex.data.admin.ch/eli/oc/1985/606_606_606), [1987 1419](https://fedlex.data.admin.ch/eli/oc/1987/1419_1419_1419), [1991 623](https://fedlex.data.admin.ch/eli/oc/1991/623_623_623), [2005 1855](https://fedlex.data.admin.ch/eli/oc/2005/311), [2009 721](https://fedlex.data.admin.ch/eli/oc/2009/122), [2013 969](https://fedlex.data.admin.ch/eli/oc/2013/203), [2019 1199](https://fedlex.data.admin.ch/eli/oc/2019/221). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 1973 1681](https://fedlex.data.admin.ch/eli/oc/1973/1681_1681_1681); [1975 2503](https://fedlex.data.admin.ch/eli/oc/1975/2503_2503_2503); [1982 842](https://fedlex.data.admin.ch/eli/oc/1982/842_842_842); [1984 578](https://fedlex.data.admin.ch/eli/oc/1984/578_578_578); [1985 606](https://fedlex.data.admin.ch/eli/oc/1985/606_606_606); [1987 1419](https://fedlex.data.admin.ch/eli/oc/1987/1419_1419_1419); [1991 623](https://fedlex.data.admin.ch/eli/oc/1991/623_623_623); [2005 1855](https://fedlex.data.admin.ch/eli/oc/2005/311); [2009 721](https://fedlex.data.admin.ch/eli/oc/2009/122); [2013 969](https://fedlex.data.admin.ch/eli/oc/2013/203); [2019 1199](https://fedlex.data.admin.ch/eli/oc/2019/221); [2023 488](https://fedlex.data.admin.ch/eli/oc/2023/488). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

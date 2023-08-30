@@ -3,11 +3,11 @@ sr: "0.822.721.1"
 title: "Convenzione n. 111 del 25 giugno 1958 concernente la discriminazione nell'impiego e nella professione (con raccomandazione)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/810_824_840"
 language: it
-version: 2019-03-27
+version: 2023-08-31
 adopted: 1958-06-25
 in_force: 1962-07-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/810_824_840/20190327/it/xml/fedlex-data-admin-ch-eli-cc-1961-810_824_840-20190327-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/810_824_840/20190327/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/810_824_840/20230831/it/xml/fedlex-data-admin-ch-eli-cc-1961-810_824_840-20230831-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/810_824_840/20230831/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 13 luglio 1961
 
 Entrata in vigore per la Svizzera il 13 luglio 1962
 
-(Stato 27 marzo 2019)
+(Stato 31 agosto 2023)
 
 [^t-1]: [RU 1961 839](https://fedlex.data.admin.ch/eli/oc/1961/809_823_839)
 
@@ -220,7 +220,7 @@ La Conferenza raccomanda ai Membri di applicare le seguenti disposizioni:
 
 \10. Le autorità incaricate della lotta contro la discriminazione nell’impiego e nella professione dovrebbero collaborare strettamente e continuamente con le autorità incaricate della lotta contro la discriminazione in altri settori, nell’intento di coordinare tutte le misure prese a questo scopo.
 
-Campo d’applicazione il 27 marzo 2019**[^t-2]**
+Campo d’applicazione il 31 agosto 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -386,10 +386,12 @@ Campo d’applicazione il 27 marzo 2019**[^t-2]**
 <tr><td>Sudafrica</td><td>5 marzo</td><td>1997</td><td>5 marzo</td><td>1998</td></tr>
 <tr><td>Sudan</td><td>22 ottobre</td><td>1970</td><td>22 ottobre</td><td>1971</td></tr>
 <tr><td>Sudan del Sud</td><td>29 aprile</td><td>2012</td><td>29 aprile</td><td>2013</td></tr>
+<tr><td>Suriname</td><td>4 gennaio</td><td>2017</td><td>4 gennaio</td><td>2018</td></tr>
 <tr><td>Svezia</td><td>20 giugno</td><td>1962</td><td>20 giugno</td><td>1963</td></tr>
 <tr><td>Svizzera</td><td>13 luglio</td><td>1961</td><td>13 luglio</td><td>1962</td></tr>
 <tr><td>Tagikistan</td><td>26 novembre</td><td>1993 S</td><td>26 novembre</td><td>1993</td></tr>
 <tr><td>Tanzania</td><td>26 febbraio</td><td>2002</td><td>26 febbraio</td><td>2003</td></tr>
+<tr><td>Thailandia</td><td>13 giugno</td><td>2017</td><td>13 giugno</td><td>2018</td></tr>
 <tr><td>Timor Est</td><td>10 maggio</td><td>2016</td><td>10 maggio</td><td>2017</td></tr>
 <tr><td>Togo</td><td>8 novembre</td><td>1983</td><td>8 novembre</td><td>1984</td></tr>
 <tr><td>Trinidad e Tobago</td><td>26 novembre</td><td>1970</td><td>26 novembre</td><td>1971</td></tr>
@@ -407,8 +409,9 @@ Campo d’applicazione il 27 marzo 2019**[^t-2]**
 <tr><td>Yemen</td><td>22 agosto</td><td>1969</td><td>22 agosto</td><td>1970</td></tr>
 <tr><td>Zambia</td><td>23 ottobre</td><td>1979</td><td>23 ottobre</td><td>1980</td></tr>
 <tr><td>Zimbabwe</td><td>23 giugno</td><td>1999</td><td>23 giugno</td><td>2000</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nel RU. I testi in francese e in inglese possono essere consultati sul sito dell'Organizzazione Internazionale del Lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure richiesti alla Direzione del Diritto Internazionale Pubblico (DDIP), Sezione Trattati Internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Applicabile senza modifica.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Dal 4 ott. 1999, al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 lug. 1999 la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 1961 840](https://fedlex.data.admin.ch/eli/oc/1961/810_824_840), [1973 1681](https://fedlex.data.admin.ch/eli/oc/1973/1681_1681_1681), [1975 2503](https://fedlex.data.admin.ch/eli/oc/1975/2503_2503_2503), [1982 842](https://fedlex.data.admin.ch/eli/oc/1982/842_842_842), [1984 578](https://fedlex.data.admin.ch/eli/oc/1984/578_578_578), [1985 606](https://fedlex.data.admin.ch/eli/oc/1985/606_606_606), [1987 1419](https://fedlex.data.admin.ch/eli/oc/1987/1419_1419_1419), [1991 623](https://fedlex.data.admin.ch/eli/oc/1991/623_623_623), [2005 1855](https://fedlex.data.admin.ch/eli/oc/2005/311), [2009 721](https://fedlex.data.admin.ch/eli/oc/2009/122), [2013 969](https://fedlex.data.admin.ch/eli/oc/2013/203)e [2019 1199](https://fedlex.data.admin.ch/eli/oc/2019/221). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1973 1681](https://fedlex.data.admin.ch/eli/oc/1973/1681_1681_1681); [1975 2503](https://fedlex.data.admin.ch/eli/oc/1975/2503_2503_2503); [1982 842](https://fedlex.data.admin.ch/eli/oc/1982/842_842_842); [1984 578](https://fedlex.data.admin.ch/eli/oc/1984/578_578_578); [1985 606](https://fedlex.data.admin.ch/eli/oc/1985/606_606_606); [1987 1419](https://fedlex.data.admin.ch/eli/oc/1987/1419_1419_1419); [1991 623](https://fedlex.data.admin.ch/eli/oc/1991/623_623_623); [2005 1855](https://fedlex.data.admin.ch/eli/oc/2005/311); [2009 721](https://fedlex.data.admin.ch/eli/oc/2009/122); [2013 969](https://fedlex.data.admin.ch/eli/oc/2013/203); [2019 1199](https://fedlex.data.admin.ch/eli/oc/2019/221); [2023 488](https://fedlex.data.admin.ch/eli/oc/2023/488). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
