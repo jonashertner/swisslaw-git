@@ -3,22 +3,21 @@ canton: BS
 number: "910.230"
 title: Verordnung zum Stadtbelebungsfonds
 language: de
-version: 2021-01-01
-valid_until: 2023-08-30
-version_adopted: 2020-12-15
+version: 2023-08-31
+version_adopted: 2023-08-22
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/910.230"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5089/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6018/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Stadtbelebungsfonds
 
-Stadtbelebungsfonds: Verordnung | Wirtschaft
+Wirtschaft
 
-Vom 15. Dezember 2020 (Stand 1. Januar 2021)
+Vom 15. Dezember 2020 (Stand 31. August 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -36,7 +35,9 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die Zuständigkeiten und das Verfahren zur Vergabe von Beiträgen aus dem Stadtbelebungsfonds.
 
-<sup>2</sup> Mit Beiträgen aus dem Stadtbelebungsfonds können nur Projekte und Aktionen in der Innenstadt unterstützt werden. Als Innenstadt gemäss § 5c des Standortförderungsgesetzes gilt die Kernzone, wie sie in der Verordnung betreffend die ausnahmsweise Zufahrt in die Innenstadt (Zufahrtsverordnung) vom 13. August 2013 festgelegt ist.
+<sup>2</sup> Mit Beiträgen aus dem Stadtbelebungsfonds können nur Projekte und Aktionen in der Innenstadt unterstützt werden. Als Innenstadt gilt der Perimeter gemäss Entwicklungsrichtplan des Regierungsrates vom 13. Januar 2015[^1-1].
+
+[^1-1]: [https://www.raumplanung-staedtebau-stadtraum.bs.ch/dam/jcr:2c80e742-2d38-464d-9857-9cffbf9bc7fd/Entwicklungsrichtplan\_Innenstadt\_Karte.pdf](https://www.raumplanung-staedtebau-stadtraum.bs.ch/dam/jcr:2c80e742-2d38-464d-9857-9cffbf9bc7fd/Entwicklungsrichtplan_Innenstadt_Karte.pdf)
 
 #### § 2
 
@@ -86,7 +87,9 @@ beschliesst:
 
 **Prüfung und Entscheidung über Beitragsgesuche**
 
-<sup>1</sup> Der Fondsrat prüft die Beitragsgesuche und unterbreitet dem Präsidialdepartement zu Handen des Regierungsrates eine Beschlussempfehlung über die Beitragsgesuche.
+<sup>1</sup> Der Fondsrat prüft die Beitragsgesuche formell. Erfüllt ein Gesuch die formellen Voraussetzungen nicht, wird auf das Gesuch nicht eingetreten.
+
+<sup>1<sup>bis</sup></sup> Der Fondsrat unterbreitet dem Präsidialdepartement zu Handen des Regierungsrates eine Beschlussempfehlung über die Beitragsgesuche.
 
 <sup>2</sup> Der Regierungsrat entscheidet nach Empfehlung des Fondsrates abschliessend über die Beitragsgesuche.
 
@@ -101,6 +104,14 @@ beschliesst:
 <sup>2</sup> Beiträge werden für ein Projekt oder eine Aktion in der Regel maximal für eine Dauer von vier Jahren ausgerichtet.
 
 <sup>3</sup> Beiträge, für die innert zwei Jahren seit der Beitragsvergabe nicht eine erste Zahlung erfolgte, verfallen.
+
+#### § 8
+
+**Übergangsbestimmung[^8-1]**
+
+<sup>1</sup> Auf Beitragsgesuche, welche zum Zeitpunkt des Inkrafttretens dieser Verordnungsänderung noch nicht abschliessend beurteilt worden sind, wird das für sie günstigere Recht angewendet.
+
+[^8-1]: Eingefügt am 22. August 2023, in Kraft seit 31. August 2023 (KB 26.08.2023); § 8 bezieht sich auf die §§ 1 Abs. 2, 6 Abs. 1 und 1<sup>bis</sup>.
 
 *Schlussbestimmung*
 
