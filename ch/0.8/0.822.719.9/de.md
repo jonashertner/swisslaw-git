@@ -3,11 +3,11 @@ sr: "0.822.719.9"
 title: Übereinkommen Nr. 98 vom 1. Juli 1949 über die Anwendung der Grundsätze des Vereinigungsrechtes und des Rechtes zu Kollektivverhandlungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/188"
 language: de
-version: 2019-04-15
+version: 2023-08-31
 adopted: 1949-07-01
 in_force: 2000-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/188/20190415/de/xml/fedlex-data-admin-ch-eli-cc-2001-188-20190415-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/188/20190415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/188/20230831/de/xml/fedlex-data-admin-ch-eli-cc-2001-188-20230831-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/188/20230831/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 17. August 1999
 
 In Kraft getreten für die Schweiz am 17. August 2000
 
-(Stand am 15. April 2019)
+(Stand am 31. August 2023)
 
 [^t-1]: [AS 2001 1359](https://fedlex.data.admin.ch/eli/oc/2001/187)
 
@@ -151,7 +151,7 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 15. April 2019**[^t-2]**
+Geltungsbereich am 31. August 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -243,6 +243,7 @@ Geltungsbereich am 15. April 2019**[^t-2]**
 <tr><td>Komoren</td><td>23. Oktober</td><td>1978</td><td>23. Oktober</td><td>1979</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>26. November</td><td>1999</td><td>26. November</td><td>2000</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>16. Juni</td><td>1969</td><td>16. Juni</td><td>1970</td></tr>
+<tr><td>Korea (Süd-)</td><td>20. April</td><td>2021 B</td><td>20. April</td><td>2022</td></tr>
 <tr><td>Kroatien</td><td>8. Oktober</td><td>1991 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Kuba</td><td>29. April</td><td>1952</td><td>29. April</td><td>1953</td></tr>
 <tr><td>Kuwait</td><td>9. August</td><td>2007</td><td>9. August</td><td>2008</td></tr>
@@ -342,9 +343,10 @@ Geltungsbereich am 15. April 2019**[^t-2]**
 <tr><td>Jersey <sup>a</sup></td><td>30. Juni</td><td>1950</td><td>30. Juni</td><td>1950</td></tr>
 <tr><td>Montserrat <sup>a</sup></td><td>26. November</td><td>1962</td><td>26. November</td><td>1962</td></tr>
 <tr><td>St. Helena <sup>a</sup></td><td>17. Juni</td><td>1966</td><td>17. Juni</td><td>1966</td></tr>
+<tr><td>Vietnam</td><td>5. Juli</td><td>2019</td><td>5. Juli</td><td>2020</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>9. Juni</td><td>1964</td><td>9. Juni</td><td>1965</td></tr>
 <tr><td>Zypern</td><td>24. Mai</td><td>1966</td><td>24. Mai</td><td>1967</td></tr>
 <tr><td colspan="5"><sup>a</sup> Anwendung ohne Abweichungen</td></tr>
 </table>
 
-[^t-2]: [AS 2001 1360](https://fedlex.data.admin.ch/eli/oc/2001/188), [2005 5015](https://fedlex.data.admin.ch/eli/oc/2005/693), [2010 3813](https://fedlex.data.admin.ch/eli/oc/2010/538), [2015 1019](https://fedlex.data.admin.ch/eli/oc/2015/196), [2019 1297](https://fedlex.data.admin.ch/eli/oc/2019/247). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 2001 1360](https://fedlex.data.admin.ch/eli/oc/2001/188); [2005 5015](https://fedlex.data.admin.ch/eli/oc/2005/693); [2010 3813](https://fedlex.data.admin.ch/eli/oc/2010/538); [2015 1019](https://fedlex.data.admin.ch/eli/oc/2015/196); [2019 1297](https://fedlex.data.admin.ch/eli/oc/2019/247); [2023 487](https://fedlex.data.admin.ch/eli/oc/2023/487). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

@@ -3,11 +3,11 @@ sr: "0.822.719.9"
 title: "Convenzione n. 98 del 1° luglio 1949 concernente l'applicazione dei principi del diritto sindacale e di negoziazione collettiva"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/188"
 language: it
-version: 2019-04-15
+version: 2023-08-31
 adopted: 1949-07-01
 in_force: 2000-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/188/20190415/it/xml/fedlex-data-admin-ch-eli-cc-2001-188-20190415-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/188/20190415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/188/20230831/it/xml/fedlex-data-admin-ch-eli-cc-2001-188-20230831-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/188/20230831/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Ginevra il 1° luglio 1949 Approvata dall’Assemblea federale il 18 marzo 1999 [^t-1] Strumenti di ratifica depositati dalla Svizzera il 17 agosto 1999 Entrata in vigore per la Svizzera il 17 agosto 2000
 
-(Stato 15 aprile 2019)
+(Stato 31 agosto 2023)
 
 [^t-1]: [RU 2001 1359](https://fedlex.data.admin.ch/eli/oc/2001/187)
 
@@ -151,7 +151,7 @@ Le versioni francese e inglese del testo della presente Convenzione fanno parime
 
 (Seguono le firme)
 
-Campo d’applicazione il 15 aprile 2019**[^t-2]**
+Campo d’applicazione il 31 agosto 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -194,6 +194,7 @@ Campo d’applicazione il 15 aprile 2019**[^t-2]**
 <tr><td>Comore</td><td>23 ottobre</td><td>1978</td><td>23 ottobre</td><td>1979</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>26 novembre</td><td>1999</td><td>26 novembre</td><td>2000</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>16 giugno</td><td>1969</td><td>16 giugno</td><td>1970</td></tr>
+<tr><td>Corea del Sud</td><td>20 aprile</td><td>2021 A</td><td>20 aprile</td><td>2022</td></tr>
 <tr><td>Costa Rica</td><td>2 giugno</td><td>1960</td><td>2 giugno</td><td>1961</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5 maggio</td><td>1961</td><td>5 maggio</td><td>1962</td></tr>
 <tr><td>Croazia</td><td>8 ottobre</td><td>1991 S</td><td>8 ottobre</td><td>1991</td></tr>
@@ -341,12 +342,14 @@ Campo d’applicazione il 15 aprile 2019**[^t-2]**
 <tr><td>Uzbekistan</td><td>13 luglio</td><td>1992</td><td>13 luglio</td><td>1993</td></tr>
 <tr><td>Vanuatu</td><td>28 agosto</td><td>2006</td><td>28 agosto</td><td>2007</td></tr>
 <tr><td>Venezuela</td><td>19 dicembre</td><td>1968</td><td>19 dicembre</td><td>1969</td></tr>
+<tr><td>Vietnam</td><td>5 luglio</td><td>2019</td><td>5 luglio</td><td>2020</td></tr>
 <tr><td>Yemen</td><td>14 aprile</td><td>1969</td><td>14 aprile</td><td>1970</td></tr>
 <tr><td>Zambia</td><td>2 settembre</td><td>1996</td><td>2 settembre</td><td>1997</td></tr>
 <tr><td>Zimbabwe</td><td>27 agosto</td><td>1998</td><td>27 agosto</td><td>1999</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nel RU. I testi in francese e in inglese possono essere consultati sul sito dell'Organizzazione Internazionale del Lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure richiesti alla Direzione del Diritto Internazionale Pubblico (DDIP), Sezione Trattati Internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Applicazione senza modifiche.</td></tr>
 </table>
 
 - [tab]
 
-[^t-2]: [RU 2001 1360](https://fedlex.data.admin.ch/eli/oc/2001/188), [2005 5015](https://fedlex.data.admin.ch/eli/oc/2005/693), [2010 3813](https://fedlex.data.admin.ch/eli/oc/2010/538), [2015 1019](https://fedlex.data.admin.ch/eli/oc/2015/196)e [2019 1297](https://fedlex.data.admin.ch/eli/oc/2019/247). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2001 1360](https://fedlex.data.admin.ch/eli/oc/2001/188); [2005 5015](https://fedlex.data.admin.ch/eli/oc/2005/693); [2010 3813](https://fedlex.data.admin.ch/eli/oc/2010/538); [2015 1019](https://fedlex.data.admin.ch/eli/oc/2015/196); [2019 1297](https://fedlex.data.admin.ch/eli/oc/2019/247); [2023 487](https://fedlex.data.admin.ch/eli/oc/2023/487). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
