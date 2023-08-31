@@ -4,11 +4,11 @@ title: Verordnung vom 4. September 2013 über den Verkehr mit Tieren und Pflanze
 short: VCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/de"
 
 (VCITES)
 
-vom 4. September 2013 (Stand am 1. Januar 2023)
+vom 4. September 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -910,13 +910,15 @@ Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. 
 
 #### Art. 54
 
-**Rechte der betroffenen Personen**
+**Rechte der betroffenen Personen**[^54-1]
 
-<sup>1</sup> Die Rechte der Personen, über die im Informationssystem Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Löschungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^54-1] über den Datenschutz.
+<sup>1</sup> Die Rechte der Personen, über die im Informationssystem Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^54-2].
 
-<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie sich über ihre Identität ausweisen und ein schriftliches Gesuch beim BLV einreichen.
+<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^54-3] ein Gesuch beim BLV einreichen.
 
-[^54-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-1]: Fassung gemäss Anhang 2 Ziff. II 57 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^54-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 55
 

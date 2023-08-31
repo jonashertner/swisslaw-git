@@ -4,11 +4,11 @@ title: Ordinanza del 4 settembre 2013 sulla circolazione delle specie di fauna e
 short: O-CITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/it"
 
 (O-CITES)
 
-del 4 settembre 2013 (Stato 1° gennaio 2023)
+del 4 settembre 2013 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -910,13 +910,15 @@ L’USAV provvede affinché siano rispettate le disposizioni in materia di prote
 
 #### Art. 54
 
-**Diritti delle persone interessate**
+**Diritti delle persone interessate**[^54-1]
 
-<sup>1</sup> I diritti delle persone i cui dati sono trattati nel sistema d’informazione, in particolare i diritti d’accesso, di rettifica e di cancellazione dei dati, sono retti dalla legge federale del 19 giugno 1992[^54-1] sulla protezione dei dati.
+<sup>1</sup> I diritti delle persone i cui dati sono trattati nel sistema d’informazione, in particolare i diritti d’accesso, di rettifica e di distruzione dei dati, sono retti dalla legge federale del 25 settembre 2020[^54-2] sulla protezione dei dati.
 
-<sup>2</sup> Se le persone interessate vogliono far valere i loro diritti, devono comprovare la loro identità e presentare una domanda scritta all’USAV.
+<sup>2</sup> Se la persona interessata intende far valere i suoi diritti, deve presentare una domanda all’USAV nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^54-3] sulla protezione dei dati.
 
-[^54-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-1]: Nuovo testo giusta l’all. 2 n. II 57 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^54-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 55
 

@@ -4,11 +4,11 @@ title: Ordonnance du 4 septembre 2013 sur la circulation des espèces de faune e
 short: OCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/fr"
 
 (OCITES)
 
-du 4 septembre 2013 (État le 1<sup>er</sup> janvier 2023)
+du 4 septembre 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -886,7 +886,8 @@ Les autorisations de réexportation délivrées par l’OSAV sont établies:
 
 - a. par l’OSAV lui-même, ou
 - b. par une chambre de commerce reliée au système d’information, à laquelle le requérant a attribué la tâche d’établir ces autorisations, à condition que l’OSAV ait autorisé cette attribution.
-- [tab] <sup>5</sup> Les autorisations de réexportation établies par une chambre de commerce ne peuvent être imprimées qu’une seule fois à la chambre de commerce. Son représentant signe l’autorisation de réexportation.
+
+<sup>5</sup> Les autorisations de réexportation établies par une chambre de commerce ne peuvent être imprimées qu’une seule fois à la chambre de commerce. Son représentant signe l’autorisation de réexportation.
 
 #### Art. 52
 
@@ -908,13 +909,15 @@ L’OSAV veille à ce que les dispositions relatives à la protection des donné
 
 #### Art. 54
 
-**Droits des personnes concernées**
+**Droits des personnes concernées**[^54-1]
 
-<sup>1</sup> Les droits des personnes dont les données sont traitées dans le système d’information, notamment les droits d’accès, de rectification et de suppression, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^54-1].
+<sup>1</sup> Les droits des personnes dont les données sont traitées dans le système d’information, notamment les droits d’accès, de rectification et de destruction, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^54-2].
 
-<sup>2</sup> Si la personne concernée veut faire valoir ses droits, elle doit produire une pièce d’identité et adresser une demande écrite à l’OSAV.
+<sup>2</sup> Si la personne concernée veut faire valoir ses droits, elle adresse une demande à l’OSAV dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^54-3].
 
-[^54-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-1]: Nouvelle teneur selon l’annexe 2 ch. II 57 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^54-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 55
 
