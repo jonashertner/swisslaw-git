@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2006 sur les qualifications du personnel des install
 short: OQPN
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/377"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-377-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-377-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230101/fr"
 
 (OQPN)
 
-du 9 juin 2006 (État le 1<sup>er</sup> janvier 2023)
+du 9 juin 2006 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -731,7 +731,7 @@ Le titulaire de l’autorisation a l’obligation d’annoncer à l’IFSN:
 
 <sup>1</sup>
 
-L’IFSN peut traiter des données personnelles relatives au personnel dont l’activité est importante pour la sécurité nucléaire, en particulier des données sensibles et des profils de la personnalité au sens de l’art. 3, let. c et d, de la loi fédérale du 19 juin 1992 sur la protection des données[^39-1], dans la mesure où ces données sont nécessaires à l’accomplissement de ses tâches selon la présente ordonnance, afin d’examiner si:[^39-2]
+L’IFSN peut traiter des données personnelles relatives au personnel dont l’activité est importante pour la sécurité nucléaire, en particulier des données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^39-1], dans la mesure où ces données sont nécessaires à l’accomplissement de ses tâches selon la présente ordonnance, afin d’examiner si:[^39-2]
 
 - a. les exigences auxquelles doit satisfaire le personnel non soumis à l’agrément sont remplies;
 - b. les conditions d’agrément et de requalification du personnel soumis à l’agrément sont remplies;
@@ -756,7 +756,7 @@ Elles traitent les données personnelles ci-après:
 <sup>4</sup> Les données personnelles sont conservées en lieu sûr durant dix ans à compter du jour où l’intéressé quitte son poste, abandonne sa fonction ou termine son mandat. A l’issue de ce délai, elles sont détruites dans la mesure où elles ne sont pas reprises par les Archives fédérales.
 
 [^39-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^39-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-2]: Nouvelle teneur selon l’annexe 2 ch. II 75 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 10 Dispositions pénale et transitoires
 
@@ -776,4 +776,4 @@ Les exigences relatives à la formation préalable et à l’expérience ne s’
 
 **Entrée en vigueur**
 
-### La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2006.
+La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2006.

@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2006 sulle esigenze per il personale degli impiant
 short: OEPIN
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/377"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-377-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-377-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230101/it"
 
 (OEPIN)
 
-del 9 giugno 2006 (Stato 1° gennaio 2023)
+del 9 giugno 2006 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -731,7 +731,7 @@ Il titolare della licenza deve notificare all’IFSN:
 
 <sup>1</sup>
 
-L’IFSN può trattare dati personali del personale importante per la sicurezza nucleare interna, in particolare anche dati personali degni di particolare protezione e profili della personalità secondo l’articolo 3 lettere c e d della legge federale del 19 giugno 1992[^39-1] sulla protezione dei dati, a condizione che ne abbia bisogno per adempiere i suoi compiti secondo la presente ordinanza, allo scopo di verificare se:[^39-2]
+L’IFSN può trattare dati personali del personale importante per la sicurezza nucleare, in particolare anche dati personali degni di particolare protezione secondo l’articolo 5 lettera c della legge federale del 25 settembre 2020[^39-1] sulla protezione dei dati, a condizione che ne abbia bisogno per adempiere i suoi compiti secondo la presente ordinanza, allo scopo di verificare se:[^39-2]
 
 - a. le esigenze poste al personale non soggetto ad autorizzazione sono adempiute;
 - b. le condizioni per l’autorizzazione e la riqualificazione del personale soggetto ad autorizzazione sono adempiute.
@@ -756,7 +756,7 @@ Le autorità di vigilanza trattano i seguenti dati personali:
 <sup>4</sup> I dati personali vengono conservati al sicuro per dieci anni a partire da quando la persona interessata lascia il posto, abbandona la funzione o conclude il mandato. Scaduto tale termine, i dati non ripresi dall’Archivio federale vengono distrutti.
 
 [^39-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^39-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-2]: Nuovo testo giusta l’all. 2 n. II 75 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 10: Disposizioni penali e disposizioni transitorie
 
