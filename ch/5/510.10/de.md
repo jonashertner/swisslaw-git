@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Februar 1995 über die Armee und die Militärverwalt
 short: MG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230401/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230401-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/de"
 
 (Militärgesetz, MG)
 
-vom 3. Februar 1995 (Stand am 1. April 2023)
+vom 3. Februar 1995 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -676,9 +676,10 @@ Sie müssen dem Kommando Operationen[^27-5] unaufgefordert folgende Daten und de
 
 <sup>1</sup> Den Angehörigen der Armee stehen Dienste für die medizinische, seelsorgliche, psychologische und soziale Beratung und Betreuung im Zusammenhang mit dem Militärdienst zur Verfügung.[^31-1]
 
-<sup>2</sup> Der Bund unterhält die entsprechenden Dienste. Diese dürfen Personendaten, mit Einschluss von besonders schützenswerten Personendaten und von Persönlichkeitsprofilen, bearbeiten, soweit und solange es ihre Aufgaben erfordern.
+<sup>2</sup> Der Bund unterhält die entsprechenden Dienste. Diese dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten, soweit und solange es der Vollzug ihrer Aufgaben erfordert.[^31-2]
 
 [^31-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^31-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Kapitel: Allgemeine Pflichten
 
@@ -1788,26 +1789,26 @@ Er kann elektromagnetische Ausstrahlungen von Telekommunikationssystemen erfasse
 
 <sup>1quater</sup> Er kann auch Fluggeräte und Satelliten einsetzen, um Vorgänge und Einrichtungen zu beobachten und die Beobachtungen aufzuzeichnen. Das Beobachten und Festhalten in Bild und Ton von Vorgängen und Einrichtungen, die der geschützten Privatsphäre zuzurechnen sind, ist nicht zulässig. Aufnahmen in Bild und Ton, die der geschützten Privatsphäre zuzurechnen sind, die aber aus technischen Gründen nicht verhindert werden können, sind umgehend zu vernichten.[^99-6]
 
-<sup>2</sup> Er ist befugt, Personendaten, mit Einschluss von besonders schützenswerten Personendaten und von Persönlichkeitsprofilen, zu bearbeiten, gegebenenfalls ohne Wissen der betroffenen Personen, soweit und solange es seine Aufgaben erfordern. Er kann im Einzelfall Personendaten in Abweichung von den datenschutzrechtlichen Bestimmungen ins Ausland weitergeben.
+<sup>2</sup> Er ist befugt, Personendaten, einschliesslich Personendaten, welche die Beurteilung des Grades der Gefährlichkeit einer Person erlauben, zu bearbeiten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht, gegebenenfalls ohne Wissen der betroffenen Personen, soweit und solange es der Vollzug seiner Aufgaben erfordert.[^99-7] Er kann im Einzelfall Personendaten in Abweichung von den datenschutzrechtlichen Bestimmungen ins Ausland weitergeben.
 
-<sup>2bis</sup> Er kann Informationen über Personen in der Schweiz, die bei Gelegenheit seiner Tätigkeit nach Absatz 1 anfallen und die für die Strafverfolgung von Bedeutung sein können, den Strafverfolgungsbehörden des Bundes weiterleiten. Der Bundesrat regelt die Einzelheiten.[^99-7]
+<sup>2bis</sup> Er kann Informationen über Personen in der Schweiz, die bei Gelegenheit seiner Tätigkeit nach Absatz 1 anfallen und die für die Strafverfolgung von Bedeutung sein können, den Strafverfolgungsbehörden des Bundes weiterleiten. Der Bundesrat regelt die Einzelheiten.[^99-8]
 
 <sup>3</sup>
 
 Der Bundesrat regelt:
 
 - a. die Aufgaben des Nachrichtendienstes im Einzelnen, dessen Organisation sowie den Datenschutz;
-- b.[^99-8] die Tätigkeit des Nachrichtendienstes im Friedensförderungs-, Assistenz- und Aktivdienst;
-- c.[^99-9] die Zusammenarbeit des Nachrichtendienstes mit interessierten Stellen von Bund und Kantonen;
-- d. die Ausnahmen von den Vorschriften über die Registrierung von Datensammlungen, wenn diese die Informationsbeschaffung gefährden würde.
+- b.[^99-9] die Tätigkeit des Nachrichtendienstes im Friedensförderungs-, Assistenz- und Aktivdienst;
+- c.[^99-10] die Zusammenarbeit des Nachrichtendienstes mit interessierten Stellen von Bund und Kantonen;
+- d.[^99-11] die Ausnahmen von den Vorschriften über die Registrierung von Datenbearbeitungstätigkeiten, wenn diese die Informationsbeschaffung gefährden würden.
 
-<sup>3bis</sup> Der Bundesrat kann selbstständig völkerrechtliche Verträge über die internationale Zusammenarbeit im Bereich des Nachrichtendienstes der Armee betreffend den Informationsschutz oder die Beteiligung an internationalen militärischen Informationssystemen abschliessen.[^99-10]
+<sup>3bis</sup> Der Bundesrat kann selbstständig völkerrechtliche Verträge über die internationale Zusammenarbeit im Bereich des Nachrichtendienstes der Armee betreffend den Informationsschutz oder die Beteiligung an internationalen militärischen Informationssystemen abschliessen.[^99-12]
 
-<sup>4</sup> Der Bundesrat regelt den Quellenschutz entsprechend den Schutzbedürfnissen der verschiedenen Quellen. Personen, die aufgrund ihrer Informationstätigkeit über das Ausland gefährdet sind, sind in jedem Fall zu schützen.[^99-11]
+<sup>4</sup> Der Bundesrat regelt den Quellenschutz entsprechend den Schutzbedürfnissen der verschiedenen Quellen. Personen, die aufgrund ihrer Informationstätigkeit über das Ausland gefährdet sind, sind in jedem Fall zu schützen.[^99-13]
 
-<sup>5</sup> Der Bundesrat regelt die Unterstellung des Nachrichtendienstes. Die Aufsicht über den Nachrichtendienst richtet sich nach Artikel 78 NDG.[^99-12]
+<sup>5</sup> Der Bundesrat regelt die Unterstellung des Nachrichtendienstes. Die Aufsicht über den Nachrichtendienst richtet sich nach Artikel 78 NDG.[^99-14]
 
-<sup>6</sup> Der Bundesrat legt jährlich die Zusammenarbeit des Nachrichtendienstes mit ausländischen Behörden fest; er genehmigt zwischenstaatliche Verwaltungsvereinbarungen des Nachrichtendienstes und sorgt dafür, dass solche Vereinbarungen erst nach erfolgter Genehmigung vollzogen werden dürfen.[^99-13]
+<sup>6</sup> Der Bundesrat legt jährlich die Zusammenarbeit des Nachrichtendienstes mit ausländischen Behörden fest; er genehmigt zwischenstaatliche Verwaltungsvereinbarungen des Nachrichtendienstes und sorgt dafür, dass solche Vereinbarungen erst nach erfolgter Genehmigung vollzogen werden dürfen.[^99-15]
 
 [^99-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2008 über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes, in Kraft seit 1. Jan. 2010 ([AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [BBl 2008 4015](https://fedlex.data.admin.ch/eli/fga/2008/810)[4035](https://fedlex.data.admin.ch/eli/fga/2008/812)).
 [^99-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
@@ -1815,13 +1816,15 @@ Der Bundesrat regelt:
 [^99-4]: Eingefügt durch Anhang Ziff. 4 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^99-5]: Eingefügt durch Anhang Ziff. 4 des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^99-6]: Eingefügt durch Anhang Ziff. 4 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-7]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)). Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2008 über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes, in Kraft seit 1. Jan. 2010 ([AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [BBl 2008 4015](https://fedlex.data.admin.ch/eli/fga/2008/810)[4035](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-8]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^99-9]: Fassung gemäss Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-10]: Eingefügt durch Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-11]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)). Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2008 über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes, in Kraft seit 1. Jan. 2010 ([AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [BBl 2008 4015](https://fedlex.data.admin.ch/eli/fga/2008/810)[4035](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-12]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)). Fassung gemäss Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-13]: Eingefügt durch Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-7]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-8]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)). Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2008 über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes, in Kraft seit 1. Jan. 2010 ([AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [BBl 2008 4015](https://fedlex.data.admin.ch/eli/fga/2008/810)[4035](https://fedlex.data.admin.ch/eli/fga/2008/812)).
+[^99-9]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^99-10]: Fassung gemäss Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-11]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-12]: Eingefügt durch Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-13]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)). Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2008 über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes, in Kraft seit 1. Jan. 2010 ([AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [BBl 2008 4015](https://fedlex.data.admin.ch/eli/fga/2008/810)[4035](https://fedlex.data.admin.ch/eli/fga/2008/812)).
+[^99-14]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)). Fassung gemäss Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-15]: Eingefügt durch Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 100
 
@@ -1848,10 +1851,10 @@ Die für die militärische Sicherheit zuständigen Stellen haben folgende Aufgab
 
 Die für die militärische Sicherheit zuständigen Stellen sind berechtigt:
 
-- a. Personendaten, mit Einschluss von besonders schützenswerten Personendaten und von Persönlichkeitsprofilen, zu bearbeiten, soweit und solange es ihre Aufgaben erfordern;
-- b. mit Zustimmung der betroffenen Personen Personendaten in Abweichung von den datenschutzrechtlichen Bestimmungen ins Ausland weiterzugeben;
+- a.[^100-2] Personendaten, einschliesslich Personendaten, welche die Beurteilung des Grades der Gefährlichkeit einer Person erlauben, zu bearbeiten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht, soweit und solange es ihre Aufgaben erfordern;
+- b.[^100-3] Personendaten ins Ausland bekannt zu geben, sofern die Voraussetzungen der Artikel 16 und 17 des Datenschutzgesetzes vom 25. September 2020[^100-4] (DSG) erfüllt sind;
 - c. bei der Aufgabenerfüllung angefallene Informationen über Personen in der Schweiz den Strafverfolgungsbehörden des Bundes weiterzugeben, soweit diese Informationen für die Strafverfolgung von Bedeutung sein können;
-- d. bei der Spontanhilfe zugunsten der zivilen Polizeiorgane und des Grenzwachtkorps polizeilichen Zwang und polizeiliche Massnahmen gegenüber Zivilpersonen nach dem Zwangsanwendungsgesetz vom 20. März 2008[^100-2] anzuwenden.
+- d. bei der Spontanhilfe zugunsten der zivilen Polizeiorgane und des Grenzwachtkorps polizeilichen Zwang und polizeiliche Massnahmen gegenüber Zivilpersonen nach dem Zwangsanwendungsgesetz vom 20. März 2008[^100-5] anzuwenden.
 
 <sup>4</sup>
 
@@ -1864,10 +1867,14 @@ Der Bundesrat regelt:
   für den Fall des Assistenz- oder des Aktivdienstes:
 
   - 1\. den Datenschutz und die Befugnis, Personendaten ohne Wissen der betroffenen Personen zu bearbeiten,
-  - 2\. die Ausnahmen von den Vorschriften über die Registrierung der Datensammlungen, wenn diese die Informationsbeschaffung gefährden würden.
+  - 2\.[^100-6] die Ausnahmen von der Pflicht, Verzeichnisse der Bearbeitungstätigkeiten beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten zur Registrierung anzumelden (Art. 12 Abs. 4 DSG), wenn diese Registrierung die Informationsbeschaffung gefährden würde.
 
 [^100-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^100-2]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-2]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-3]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^100-5]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-6]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 4. Kapitel: Berufsformationen
 
@@ -2668,7 +2675,7 @@ Für die Erfüllung wichtiger Aufgaben in den zivilen Bereichen des Sicherheitsv
 
 Die Bearbeitung von Personendaten in Informationssystemen und beim Einsatz von Überwachungsmitteln der Armee und der Militärverwaltung wird im Bundesgesetz vom 3. Oktober 2008[^146-2] über militärische und andere Informationssysteme im VBS geregelt.
 
-[^146-1]: Fassung gemäss Ziff. II 1 des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^146-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2022, in Kraft seit 1. Sept. 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^146-2]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
 #### Art. 146a

@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 février 1995 sur l'armée et l'administration milit
 short: LAAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230401-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/fr"
 
 (Loi sur l’armée, LAAM)[^t-1]
 
-du 3 février 1995 (État le 1<sup>er</sup> avril 2023)
+du 3 février 1995 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
@@ -431,8 +431,8 @@ Peuvent déposer par écrit une demande motivée en vue d’une nouvelle appréc
 [^20-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^20-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 [^20-3]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^20-4]: Correct: Commandement de l'Instruction.
-[^20-5]: Correct: Commandement de l'Instruction.
+[^20-4]: Correct: Commandement de l’instruction.
+[^20-5]: Correct: Commandement de l’instruction.
 [^20-6]: Nouvelle teneur de la 2<sup>e</sup> et 3<sup>e</sup> phrases selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^20-7]: Anciennement 1<sup>bis</sup>. Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
@@ -533,8 +533,8 @@ Pour statuer, il peut:
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^23-2]: Nouvelle expression selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^23-3]: Correct: Commandement de l'Instruction.
-[^23-4]: Correct: Commandement de l'Instruction.
+[^23-3]: Correct: Commandement de l’instruction.
+[^23-4]: Correct: Commandement de l’instruction.
 
 #### Art. 24
 
@@ -608,7 +608,7 @@ Ils communiquent spontanément au commandement des Opérations[^27-5] les donné
 [^27-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^27-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^27-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^27-5]: Correct: Commandement de l'Instruction.
+[^27-5]: Correct: Commandement de l’instruction.
 [^27-6]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ## Titre troisième Droits et devoirs des militaires
@@ -671,7 +671,9 @@ Ils communiquent spontanément au commandement des Opérations[^27-5] les donné
 
 <sup>1</sup> Des services sont à la disposition des militaires pour leur prodiguer conseils et assistance dans les domaines médical, spirituel, psychologique ou social en relation avec le service militaire.
 
-<sup>2</sup> Les différents services sont pris en charge par la Confédération. Ils sont habilités à traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, à condition et aussi longtemps que leurs tâches l’exigent.
+<sup>2</sup> Les différents services sont pris en charge par la Confédération. Ils sont habilités à traiter des données personnelles, y compris des données sensibles, à condition et aussi longtemps que l’exécution de leurs tâches l’exige.[^31-1]
+
+[^31-1]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 40 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Chapitre 2 Devoirs généraux
 
@@ -750,13 +752,11 @@ Le DDPS peut soumettre les officiers généraux, le personnel militaire de la po
 
 <sup>2</sup> La décision concernant la plainte de service peut être déférée à l’instance immédiatement supérieure. La décision de celle-ci peut être déférée à son tour au département fédéral compétent qui statue définitivement.
 
-<sup>3</sup> Les décisions des directions militaires cantonales peuvent être déférées directement au DDPS[^36-1], pour autant que le droit cantonal ne prévoie pas la possibilité de recourir auprès du gouvernement cantonal.
+<sup>3</sup> Les décisions des directions militaires cantonales peuvent être déférées directement au DDPS, pour autant que le droit cantonal ne prévoie pas la possibilité de recourir auprès du gouvernement cantonal.
 
 <sup>4</sup> Les plaintes de service et les recours sont traités selon une procédure simple, rapide et gratuite. Ils n’ont pas d’effet suspensif. L’autorité saisie peut exceptionnellement admettre un effet suspensif pour des raisons particulières.
 
 <sup>5</sup> Le Conseil fédéral règle les détails.
-
-[^36-1]: Nouvelle expression selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 37
 
@@ -770,7 +770,7 @@ Le DDPS peut soumettre les officiers généraux, le personnel militaire de la po
 
 #### Art. 38
 
-**Demande de réexamen dans des cas particuliers[^38-1]**
+**Demande de réexamen dans des cas particuliers**[^38-1]
 
 Les militaires peuvent déposer une demande de réexamen concernant les mises sur pied, ainsi que les décisions relatives aux déplacements de service, à l’accomplissement anticipé du service, au service volontaire et aux dispenses du service d’appui ou du service actif. La plainte de service n’est pas recevable dans ces cas.
 
@@ -1761,7 +1761,7 @@ L’organisation de l’armée selon le principe de milice repose:
 
 [^9798-1]
 
-[^9798-1]: Abrogés par le ch. I de la LF du 4 oct. 2002, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^9798-1]: Abrogé par le ch. I de la LF du 4 oct. 2002, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Chapitre 3 Service de renseignement et Sécurité militaire
 
@@ -1786,26 +1786,26 @@ Le service de renseignement peut enregistrer et analyser dans les buts suivants 
 
 <sup>1quater</sup> Le service de renseignement peut également utiliser des aéronefs et des satellites pour observer des événements et des installations et effectuer des enregistrements. Il a l’interdiction d’observer et d’effectuer des enregistrements visuels et sonores d’événements et d’installations relevant de la sphère privée protégée. Les enregistrements visuels et sonores relevant de la sphère privée protégée qu’il est techniquement impossible d’éviter doivent être immédiatement détruits.[^99-7]
 
-<sup>2</sup> Il est habilité à traiter, le cas échéant à l’insu des personnes concernées, des données personnelles, y compris des données sensibles et des profils de la personnalité, à condition et aussi longtemps que ses tâches l’exigent. Il peut, de cas en cas, communiquer des données personnelles à l’étranger en dérogation aux dispositions de la protection des données.
+<sup>2</sup> Il est habilité à traiter, le cas échéant à l’insu de la personne concernée, des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente, à condition et aussi longtemps que l’exécution de ses tâches l’exige.[^99-8] Il peut, de cas en cas, communiquer des données personnelles à l’étranger en dérogation aux dispositions de la protection des données.
 
-<sup>2bis</sup> Il peut communiquer aux autorités de poursuite pénale de la Confédération les informations sur des personnes en Suisse qu’il a obtenues dans l’exercice des activités mentionnées à l’al. 1, et qui peuvent être importantes pour la poursuite pénale. Le Conseil fédéral règle les modalités.[^99-8]
+<sup>2bis</sup> Il peut communiquer aux autorités de poursuite pénale de la Confédération les informations sur des personnes en Suisse qu’il a obtenues dans l’exercice des activités mentionnées à l’al. 1, et qui peuvent être importantes pour la poursuite pénale. Le Conseil fédéral règle les modalités.[^99-9]
 
 <sup>3</sup>
 
 Le Conseil fédéral règle:
 
 - a. le détail des tâches du service de renseignement, son organisation et la protection des données;
-- b.[^99-9] l’activité du service de renseignement en période de service de promotion de la paix, de service d’appui et de service actif;
-- c.[^99-10] la collaboration du service de renseignement avec les autres services cantonaux et fédéraux;
-- d. les exceptions aux dispositions sur l’enregistrement des fichiers lorsque, à défaut, la recherche des informations serait compromise.
+- b.[^99-10] l’activité du service de renseignement en période de service de promotion de la paix, de service d’appui et de service actif;
+- c.[^99-11] la collaboration du service de renseignement avec les autres services cantonaux et fédéraux;
+- d.[^99-12] les exceptions aux dispositions sur l’enregistrement des activités de traitement des données lorsque, à défaut, la recherche des informations serait compromise.
 
-<sup>3bis</sup> Le Conseil fédéral peut conclure seul des traités internationaux portant sur la collaboration internationale du service de renseignement en matière de protection des informations ou de participation à des systèmes d’information militaires internationaux automatisés.[^99-11]
+<sup>3bis</sup> Le Conseil fédéral peut conclure seul des traités internationaux portant sur la collaboration internationale du service de renseignement en matière de protection des informations ou de participation à des systèmes d’information militaires internationaux automatisés.[^99-13]
 
-<sup>4</sup> Le Conseil fédéral règle la protection des sources en fonction de leurs besoins de protection. Les personnes qui sont en danger en raison de leurs activités de renseignement sur l’étranger doivent être protégées dans tous les cas.[^99-12]
+<sup>4</sup> Le Conseil fédéral règle la protection des sources en fonction de leurs besoins de protection. Les personnes qui sont en danger en raison de leurs activités de renseignement sur l’étranger doivent être protégées dans tous les cas.[^99-14]
 
-<sup>5</sup> Le Conseil fédéral règle la subordination du service de renseignement. La surveillance de ce dernier est régie par l’art. 78 LRens.[^99-13]
+<sup>5</sup> Le Conseil fédéral règle la subordination du service de renseignement. La surveillance de ce dernier est régie par l’art. 78 LRens.[^99-15]
 
-<sup>6</sup> Le Conseil fédéral règle chaque année la collaboration entre le service de renseignement et les autorités étrangères; il approuve les accords administratifs internationaux conclus par le service de renseignement et veille à ce que ces accords ne soient exécutoires qu’après avoir obtenu son approbation.[^99-14]
+<sup>6</sup> Le Conseil fédéral règle chaque année la collaboration entre le service de renseignement et les autorités étrangères; il approuve les accords administratifs internationaux conclus par le service de renseignement et veille à ce que ces accords ne soient exécutoires qu’après avoir obtenu son approbation.[^99-16]
 
 [^99-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 [^99-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2008 sur le renseignement civil, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3609](https://fedlex.data.admin.ch/eli/fga/2008/810)[3629](https://fedlex.data.admin.ch/eli/fga/2008/812)).
@@ -1814,13 +1814,15 @@ Le Conseil fédéral règle:
 [^99-5]: Introduit par l’annexe ch. 4 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^99-6]: Introduit par l’annexe ch. 4 de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^99-7]: Introduit par l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-8]: Introduit par le ch. I de la LF du 4 oct. 2002 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2008 sur le renseignement civil, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3609](https://fedlex.data.admin.ch/eli/fga/2008/810)[3629](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-9]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^99-10]: Nouvelle teneur selon l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-11]: Introduit par l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-12]: Introduit par le ch. I de la LF du 4 oct. 2002 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2008 sur le renseignement civil, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3609](https://fedlex.data.admin.ch/eli/fga/2008/810)[3629](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-13]: Introduit par le ch. I de la LF du 4 oct. 2002 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nouvelle teneur selon l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-14]: Introduit par l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-8]: Nouvelle teneur selon l’annexe 1 ch. II 40 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-9]: Introduit par le ch. I de la LF du 4 oct. 2002 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2008 sur le renseignement civil, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3609](https://fedlex.data.admin.ch/eli/fga/2008/810)[3629](https://fedlex.data.admin.ch/eli/fga/2008/812)).
+[^99-10]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^99-11]: Nouvelle teneur selon l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-12]: Nouvelle teneur selon l’annexe 1 ch. II 40 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-13]: Introduit par l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-14]: Introduit par le ch. I de la LF du 4 oct. 2002 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2008 sur le renseignement civil, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3609](https://fedlex.data.admin.ch/eli/fga/2008/810)[3629](https://fedlex.data.admin.ch/eli/fga/2008/812)).
+[^99-15]: Introduit par le ch. I de la LF du 4 oct. 2002 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nouvelle teneur selon l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-16]: Introduit par l’annexe ch. II 8 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 100
 
@@ -1847,10 +1849,10 @@ Les organes responsables de la sécurité militaire accomplissent les tâches su
 
 Les organes responsables de la sécurité militaire sont autorisés:
 
-- a. à traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, à condition et aussi longtemps que leurs tâches l’exigent;
-- b. à communiquer des données personnelles à l’étranger, en dérogation aux dispositions du droit de la protection des données, si les personnes concernées donnent leur consentement;
+- a.[^100-2] à traiter des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente, à condition et aussi longtemps que leurs tâches l’exigent;
+- b.[^100-3] à communiquer des données personnelles à l’étranger, pour autant que les conditions des art. 16 et 17 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^100-4] soient remplies;
 - c. à communiquer aux autorités de poursuite pénale de la Confédération les informations sur des personnes en Suisse qu’elles ont obtenues dans l’accomplissement de leurs tâches, si ces informations peuvent être importantes pour la poursuite pénale;
-- d. dans le cadre d’une aide spontanée apportée aux organes de police civils ou au Corps des gardes-frontière, à faire usage de la contrainte et des mesures policières prévues par la loi du 20 mars 2008 sur l’usage de la contrainte[^100-2] contre des civils.
+- d. dans le cadre d’une aide spontanée apportée aux organes de police civils ou au Corps des gardes-frontière, à faire usage de la contrainte et des mesures policières prévues par la loi du 20 mars 2008 sur l’usage de la contrainte[^100-5] contre des civils.
 
 <sup>4</sup>
 
@@ -1863,10 +1865,14 @@ Le Conseil fédéral règle:
   en cas de service d’appui ou de service actif:
 
   - 1\. la protection des données et la possibilité de traiter des données personnelles à l’insu des personnes concernées,
-  - 2\. les exceptions aux dispositions sur l’enregistrement des fichiers si cet enregistrement compromet la recherche des informations.
+  - 2\.[^100-6] les exceptions à l’obligation de déclarer les registres des activités de traitement au Préposé fédéral à la protection des données et à la transparence pour enregistrement (art. 12, al. 4, LPD) si cet enregistrement compromet la recherche d’informations.
 
 [^100-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^100-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-2]: Nouvelle teneur selon l’annexe 1 ch. II 40 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-3]: Nouvelle teneur selon l’annexe 1 ch. II 40 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^100-5]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-6]: Nouvelle teneur selon l’annexe 1 ch. II 40 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Chapitre 4 Formations professionnelles de l’armée
 
@@ -2669,7 +2675,7 @@ Les personnes astreintes au service militaire peuvent être dispensées du servi
 
 Le traitement des données personnelles dans les systèmes d’information et lors de l’engagement de moyens de surveillance de l’armée et de l’administration militaire est réglé par la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée et du DDPS[^146-2].
 
-[^146-1]: Nouvelle teneur selon le ch. II 1 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^146-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^146-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
 #### Art. 146a

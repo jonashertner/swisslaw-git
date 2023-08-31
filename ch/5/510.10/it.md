@@ -4,11 +4,11 @@ title: "Legge federale del 3 febbraio 1995 sull'esercito e sull'amministrazione 
 short: LM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230401/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230401-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/it"
 
 (Legge militare, LM)
 
-del 3 febbraio 1995 (Stato 1° aprile 2023)
+del 3 febbraio 1995 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -678,7 +678,9 @@ Esse devono comunicare spontaneamente al Comando Operazioni[^27-5] i seguenti da
 
 <sup>1</sup> I militari hanno a disposizione servizi di consulenza e assistenza medica, spirituale, psicologica e sociale nell’ambito del servizio militare.
 
-<sup>2</sup> La Confederazione provvede ai relativi servizi. Essi sono abilitati a elaborare dati personali, compresi quelli particolarmente degni di protezione e profili della personalità, sempreché e finché i loro compiti lo esigano.
+<sup>2</sup> La Confederazione provvede ai relativi servizi. Essi sono abilitati a elaborare dati personali, compresi quelli degni di particolare protezione, sempreché e finché l’esecuzione dei loro compiti lo esiga.[^31-1]
+
+[^31-1]: Nuovo testo del per. giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 2: Obblighi generali
 
@@ -1106,7 +1108,7 @@ Per militari con determinate funzioni il Consiglio federale può ordinare serviz
 
 [^54a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^54a-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^54a-3]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^54a-3]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Capitolo 4: Istruzione dei sottufficiali, dei sottufficiali superiori e degli ufficiali
 
@@ -1187,7 +1189,7 @@ Vi è bisogno imperativo quando:
 
 [^61-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^61-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^61-3]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^61-3]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Capitolo 7: Attività fuori del servizio
 
@@ -1795,26 +1797,26 @@ Il servizio informazioni può rilevare e valutare le emissioni elettromagnetiche
 
 <sup>1quater</sup> Il servizio informazioni può impiegare anche aeromobili e satelliti per osservare fatti e installazioni e registrare le osservazioni. Non è ammesso osservare e registrare su supporto audiovisivo fatti e installazioni rientranti nella sfera privata protetta. Le registrazioni audio e video rientranti nella sfera privata protetta che per motivi tecnici non è possibile evitare devono essere immediatamente distrutte.[^99-6]
 
-<sup>2</sup> Ha facoltà di trattare dati personali, compresi quelli particolarmente degni di protezione e profili della personalità, se del caso anche all’insaputa della persona interessata, sempreché e finché i suoi compiti lo esigano. In singoli casi può trasmettere dati personali all’estero, in deroga alle disposizioni in materia di protezione dei dati.
+<sup>2</sup> Ha facoltà di trattare dati personali, compresi quelli necessari per valutare il grado di pericolosità di una persona, a prescindere dal fatto che si tratti o meno di dati personali degni di particolare protezione, se del caso anche all’insaputa della persona interessata, sempreché e finché l’esecuzione dei suoi compiti lo esiga.[^99-7] In singoli casi può trasmettere dati personali all’estero, in deroga alle disposizioni in materia di protezione dei dati.
 
-<sup>2bis</sup> Può trasmettere alle autorità federali di perseguimento penale informazioni su persone in Svizzera risultanti dalla propria attività di cui al capoverso 1 e che possono essere rilevanti per il perseguimento penale. Il Consiglio federale disciplina i particolari.[^99-7]
+<sup>2bis</sup> Può trasmettere alle autorità federali di perseguimento penale informazioni su persone in Svizzera risultanti dalla propria attività di cui al capoverso 1 e che possono essere rilevanti per il perseguimento penale. Il Consiglio federale disciplina i particolari.[^99-8]
 
 <sup>3</sup>
 
 Il Consiglio federale disciplina:
 
 - a. i compiti in dettaglio e l’organizzazione del servizio informazioni, nonché la protezione dei dati;
-- b.[^99-8] l’attività del servizio informazioni nel servizio di promovimento della pace, nel servizio d’appoggio e nel servizio attivo;
-- c.[^99-9] la collaborazione del servizio informazioni con i servizi interessati della Confederazione e dei Cantoni;
-- d. le eccezioni alle prescrizioni concernenti la registrazione di collezioni di dati, quando queste pregiudicassero la raccolta d’informazioni.
+- b.[^99-9] l’attività del servizio informazioni nel servizio di promovimento della pace, nel servizio d’appoggio e nel servizio attivo;
+- c.[^99-10] la collaborazione del servizio informazioni con i servizi interessati della Confederazione e dei Cantoni;
+- d.[^99-11] le eccezioni alle prescrizioni concernenti la registrazione di attività di trattamento di dati, quando queste pregiudicassero la raccolta d’informazioni.
 
-<sup>3bis</sup> Il Consiglio federale può concludere autonomamente trattati internazionali concernenti la collaborazione internazionale del servizio informazioni in materia di protezione delle informazioni o di partecipazione a sistemi d’informazione militari internazionali.[^99-10]
+<sup>3bis</sup> Il Consiglio federale può concludere autonomamente trattati internazionali concernenti la collaborazione internazionale del servizio informazioni in materia di protezione delle informazioni o di partecipazione a sistemi d’informazione militari internazionali.[^99-12]
 
-<sup>4</sup> Il Consiglio federale disciplina la protezione delle fonti tenendo conto delle esigenze di protezione delle singole fonti. Vanno in ogni caso protette le persone che sono esposte a pericolo a causa della loro attività informativa sull’estero.[^99-11]
+<sup>4</sup> Il Consiglio federale disciplina la protezione delle fonti tenendo conto delle esigenze di protezione delle singole fonti. Vanno in ogni caso protette le persone che sono esposte a pericolo a causa della loro attività informativa sull’estero.[^99-13]
 
-<sup>5</sup> Il Consiglio federale disciplina la subordinazione del servizio informazioni. La vigilanza sul servizio informazioni è retta dall’articolo 78 LAIn.[^99-12]
+<sup>5</sup> Il Consiglio federale disciplina la subordinazione del servizio informazioni. La vigilanza sul servizio informazioni è retta dall’articolo 78 LAIn.[^99-14]
 
-<sup>6</sup> Il Consiglio federale definisce ogni anno la collaborazione del servizio informazioni con autorità estere; approva accordi amministrativi internazionali del servizio informazioni e provvede affinché tali accordi divengano esecutivi soltanto dopo aver ottenuto l’approvazione.[^99-13]
+<sup>6</sup> Il Consiglio federale definisce ogni anno la collaborazione del servizio informazioni con autorità estere; approva accordi amministrativi internazionali del servizio informazioni e provvede affinché tali accordi divengano esecutivi soltanto dopo aver ottenuto l’approvazione.[^99-15]
 
 [^99-1]: Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
 [^99-2]: Per. introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
@@ -1822,13 +1824,15 @@ Il Consiglio federale disciplina:
 [^99-4]: Introdotto dall’all. n. 4 dellla LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^99-5]: Introdotto dall’all. n. 4 dellla LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^99-6]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-7]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-8]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^99-9]: Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-10]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-11]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-12]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-13]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-7]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-8]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
+[^99-9]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^99-10]: Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-11]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-12]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-13]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
+[^99-14]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-15]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 100
 
@@ -1855,10 +1859,10 @@ Gli organi competenti per la sicurezza militare hanno i compiti seguenti:
 
 Gli organi competenti per la sicurezza militare sono autorizzati a:
 
-- a. trattare dati personali, compresi quelli degni di particolare protezione e profili della personalità, sempreché e finché i loro compiti lo esigano;
-- b. trasmettere, con il consenso delle persone interessate, dati personali all’estero in deroga alle disposizioni in materia di protezione dei dati;
+- a.[^100-2] trattare dati personali, compresi quelli necessari per valutare il grado di pericolosità di una persona, a prescindere dal fatto che si tratti o meno di dati personali degni di particolare protezione, sempreché e finché i loro compiti lo esigano;
+- b.[^100-3] trasmettere dati personali all’estero, sempreché siano soddisfatte le condizioni di cui agli articoli 16 e 17 della legge federale del 25 settembre 2020[^100-4] sulla protezione dei dati (LPD);
 - c. trasmettere alle autorità di perseguimento penale della Confederazione informazioni risultanti dall’adempimento dei compiti e concernenti persone che si trovano in Svizzera, nella misura in cui dette informazioni possono essere determinanti per il perseguimento penale;
-- d. applicare, nel quadro di un aiuto spontaneo a favore degli organi di polizia civili o del Corpo delle guardie di confine, la coercizione di polizia e misure di polizia nei confronti di civili secondo la legge del 20 marzo 2008[^100-2] sulla coercizione.
+- d. applicare, nel quadro di un aiuto spontaneo a favore degli organi di polizia civili o del Corpo delle guardie di confine, la coercizione di polizia e misure di polizia nei confronti di civili secondo la legge del 20 marzo 2008[^100-5] sulla coercizione.
 
 <sup>4</sup>
 
@@ -1871,10 +1875,14 @@ Il Consiglio federale disciplina:
   in caso di servizio d’appoggio o di servizio attivo:
 
   - 1\. la protezione dei dati e la facoltà di trattare dati personali all’insaputa delle persone interessate,
-  - 2\. le eccezioni alle prescrizioni concernenti la registrazione di collezioni di dati, quando tali prescrizioni pregiudicassero l’acquisizione di informazioni.
+  - 2\.[^100-6] le eccezioni all’obbligo di notificare all’Incaricato federale della protezione dei dati e della trasparenza i registri delle attività di trattamento (art. 12 cpv. 4 LPD) quando tale notifica pregiudicasse la raccolta di informazioni.
 
 [^100-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^100-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-2]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-3]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^100-5]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-6]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 4: Formazioni di professionisti
 
@@ -2679,7 +2687,7 @@ Per l’adempimento di compiti importanti nei settori civili della Rete integrat
 
 Il trattamento di dati personali nei sistemi d’informazione e nell’ambito dell’impiego di mezzi di sorveglianza dell’esercito e dell’amministrazione militare è disciplinato nella legge federale del 3 ottobre 2008[^146-2] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS.
 
-[^146-1]: Nuovo testo giusta il n. II 1 della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^146-1]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^146-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
 #### Art. 146a
@@ -2819,7 +2827,7 @@ Appendice
 
 ## Modifica e abrogazione del diritto vigente
 
-### 1. – 6.
+### 1. a 6.
 
 ...[^annexu1-lvlu1-lvl1-1]
 
@@ -2829,7 +2837,7 @@ Appendice
 
 [^annexu1-lvlu1-lvl7-1]
 
-[^annexu1-lvlu1-lvl7-1]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365), [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a a d, **1952** 339 346 art. 2, **1959** 2125 art. 48 cpv. 2 lett. d **, 1961** 241, **1968** 74 n. I, III, **1970** 46, , **1972** 1069 art. 15 n. 3, **1975** 11, **1979** 114 art. 72 lett. e, **1984** 1324, **1990** 1882, **1991** 857 all. n. 10 1412, **1992** 288 all. n. 20 2392 n. I 2 2521 art. 55 n. 3, **1993** 901 all. n. 5 3043 all. n. 2, **1994** 1622 art. 22 cpv. 2]
+[^annexu1-lvlu1-lvl7-1]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a a d; **1952** 339, 346 art. 2; **1959** 2125 art. 48 cpv. 2 lett. d**; 1961** 241**;** **1968** 74 n. I, III**;** **1970** 46; **1972** 1069 art. 15 n; **1975**; **1979** 114 art. 72 lett; **1984** 1; **1990** 1; **1991** 857 all. n. 10, 1412; **1992** 288 all. n. 20, 2392 n. I 2, 2521 art. 55 n. 3; **1993** 901 all. n. 5, 3043 all. n. 2; **1994** 1622 art. 22 cpv. 2]
 
 Abrogata
 
@@ -2871,7 +2879,7 @@ Abrogata
 
 Abrogato
 
-### 13. – 15.
+### 13. a 15.
 
 ...[^annexu1-lvlu1-lvl13-1]
 
