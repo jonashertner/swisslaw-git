@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 1981 über internationale Rechtshilfe in Stra
 short: IRSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: de
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20230901-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/de"
 
 (Rechtshilfegesetz, IRSG)
 
-vom 20. März 1981 (Stand am 1. Juli 2021)
+vom 20. März 1981 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -48,7 +48,7 @@ Dieses Gesetz regelt, soweit andere Gesetze oder internationale Vereinbarungen n
 - c. die stellvertretende Verfolgung und Ahndung strafbarer Handlungen (vierter Teil);
 - d. die Vollstreckung ausländischer Strafentscheide (fünfter Teil).
 
-<sup>2</sup> ...[^1-2]
+<sup>2</sup> …[^1-2]
 
 <sup>3</sup> Dieses Gesetz ist nur auf Strafsachen anwendbar, in denen nach dem Recht des ersuchenden Staates der Richter angerufen werden kann.
 
@@ -126,7 +126,7 @@ Einem Ersuchen wird nicht entsprochen, wenn Gegenstand des Verfahrens eine Tat i
 - b. einem Ersuchen nach allen Teilen dieses Gesetzes, wenn ein qualifizierter Abgabebetrug im Sinne von Artikel 14 Absatz 4 des Bundesgesetzes vom 22. März 1974[^3-2] über das Verwaltungsstrafrecht Gegenstand des Verfahrens ist.[^3-3]
 
 [^3-1]: Fassung gemäss Ziff. I 4 des BG vom 18. Juni 2010 über die Änderung von BG zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^3-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^3-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857). Heute: Art. 14 Abs. 3.
 [^3-3]: Fassung zweiter Satz gemäss Ziff. I 3 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
 #### Art. 4
@@ -235,7 +235,7 @@ Bei der Ausführung von Ersuchen richtet sich der Schutz des Geheimbereichs nach
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
-### 1*a*. Kapitel:**** Personen-, Akten- und Geschäftsverwaltungssystem
+### 1*a*. Kapitel: Personen-, Akten- und Geschäftsverwaltungssystem
 
 [^part1-chap1a-1]
 
@@ -275,7 +275,7 @@ Der Bundesrat legt die Einzelheiten fest, insbesondere:
 [^11a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^11a-3]: Fassung gemäss Ziff. I 4 der V vom 4. Dez. 2009 über die Anpassung gesetzlicher Bestimmungen infolge infolge der Schaffung des Nachrichtendienstes des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
 
-### 1*b*. Kapitel:**** Schutz von Personendaten
+### 1*b*. Kapitel: Schutz von Personendaten
 
 [^part1-chap1b-1]
 
@@ -309,11 +309,11 @@ Die zuständige Behörde kann die Auskunft verweigern, einschränken oder aufsch
 
 <sup>1</sup> Jede Person kann Auskunft darüber verlangen, ob die Schweiz von einem ausländischen Staat ein Ersuchen um Festnahme zum Zweck der Auslieferung erhalten hat. Dieses Recht wird beim Bundesamt geltend gemacht. Wird das Gesuch an eine andere Behörde gerichtet, so leitet diese es unverzüglich an das Bundesamt weiter.
 
-<sup>2</sup> Verlangt eine Person Auskunft darüber, ob das Bundesamt ein Ersuchen um Festnahme zum Zweck der Auslieferung erhalten hat, so teilt dieses ihr mit, dass keine Daten über sie unrechtmässig bearbeitet werden und dass sie vom Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (Beauftragter) verlangen kann, zu prüfen, ob allfällige Daten über sie rechtmässig bearbeitet werden.
+<sup>2</sup> Verlangt eine Person Auskunft darüber, ob das Bundesamt ein Ersuchen um Festnahme zum Zweck der Auslieferung erhalten hat, so teilt dieses ihr mit, dass keine Daten über sie unrechtmässig bearbeitet werden und dass sie vom Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) verlangen kann, zu prüfen, ob allfällige Daten über sie rechtmässig bearbeitet werden.[^11c-1]
 
-<sup>3</sup> Der Beauftragte führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten eine Untersuchung nach Artikel 22 des Schengen-Datenschutzgesetzes vom 28. September 2018[^11c-1] eröffnet hat.
+<sup>3</sup> Der EDÖB führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten eine Untersuchung nach Artikel 49 des Datenschutzgesetzes vom 25. September 2020[^11c-2] eröffnet hat.[^11c-3]
 
-<sup>4</sup> Stellt der Beauftragte Fehler bei der Datenbearbeitung fest, so ordnet er an, dass das Bundesamt diese behebt.
+<sup>4</sup> Stellt der EDÖB Fehler bei der Datenbearbeitung fest, so ordnet er an, dass das Bundesamt diese behebt.[^11c-4]
 
 <sup>5</sup> Die Mitteilungen nach den Absätzen 2 und 3 lauten stets gleich und werden nicht begründet.
 
@@ -321,7 +321,10 @@ Die zuständige Behörde kann die Auskunft verweigern, einschränken oder aufsch
 
 <sup>7</sup> Das Bundesamt ist in Abweichung von Absatz 2 ermächtigt, der betroffenen Person die verlangten Auskünfte zu erteilen, wenn der ersuchende Staat vorgängig zustimmt.
 
-[^11c-1]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^11c-1]: Fassung gemäss Anhang 1 Ziff. II 29 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11c-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11c-3]: Fassung gemäss Anhang 1 Ziff. II 29 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11c-4]: Fassung gemäss Anhang 1 Ziff. II 29 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11d
 
@@ -479,7 +482,7 @@ Die Entschädigung für die in der Schweiz erlittene Auslieferungshaft kann auch
 
 <sup>1</sup> Die Kantone wirken bei der Durchführung des Auslieferungsverfahrens mit. Wenn das Bundesrecht nichts anderes bestimmt, obliegt ihnen die Ausführung von Ersuchen um andere Rechtshilfe, die stellvertretende Strafverfolgung und die Vollstreckung von Strafentscheiden. Sie unterstehen der Aufsicht des Bundes, soweit dieses Gesetz anzuwenden ist.
 
-<sup>2</sup> ...[^16-1]
+<sup>2</sup> …[^16-1]
 
 [^16-1]: Aufgehoben durch Anhang 1 Ziff. II 13 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
@@ -667,7 +670,7 @@ Verfügungen und Entscheide eidgenössischer und kantonaler Behörden müssen mi
 
 <sup>4</sup> Mit der Beschwerde kann auch die unzulässige oder offensichtlich unrichtige Anwendung fremden Rechts gerügt werden.
 
-<sup>5</sup> ...[^25-6]
+<sup>5</sup> …[^25-6]
 
 <sup>6</sup> Die Beschwerdekammer des Bundesstrafgerichts ist nicht an die Begehren der Parteien gebunden.[^25-7]
 
@@ -683,7 +686,7 @@ Verfügungen und Entscheide eidgenössischer und kantonaler Behörden müssen mi
 
 **Verwaltungsbeschwerde**[^26-1]
 
-Verfügungen des Departements nach Artikel 17 Absatz 1 unterliegen der Beschwerde an den Bundesrat. ...[^26-2]
+Verfügungen des Departements nach Artikel 17 Absatz 1 unterliegen der Beschwerde an den Bundesrat. …[^26-2]
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^26-2]: Satz aufgehoben durch Anhang Ziff. 30 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1464,7 +1467,7 @@ Ausser den Angaben und Unterlagen nach Artikel 28 sind in einem Ersuchen aufzuf�
 [^77-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^77-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
-### 2. Abschnitt:**** Behandlung des Ersuchens
+### 2. Abschnitt: Behandlung des Ersuchens
 
 [^part3-chap2-sec2-1]
 
@@ -1588,7 +1591,7 @@ Die vorzeitige Übermittlung setzt voraus, dass sich die ersuchende Behörde vor
 
 [^80dbis-1]: Eingefügt durch Anhang Ziff. II 5 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
-### 2*a*. Abschnitt:**** Gemeinsame Ermittlungsgruppe
+### 2*a*. Abschnitt: Gemeinsame Ermittlungsgruppe
 
 [^part3-chap2-sec2a-1]
 
@@ -1695,7 +1698,7 @@ Der Einsetzungsakt muss folgende Angaben enthalten:
 
 <sup>2</sup> Der Einsetzungsakt kann angepasst werden, wenn die Ermittlungen dies erfordern. Insbesondere können der GEG weitere Mitglieder hinzugefügt werden oder kann die Befristung verlängert werden.
 
-### 3. Abschnitt:**** Beschwerde
+### 3. Abschnitt: Beschwerde
 
 [^part3-chap2-sec3-1]
 
@@ -1744,7 +1747,7 @@ Mit Beschwerde kann gerügt werden:
 - a. die Verletzung von Bundesrecht, einschliesslich Überschreitung oder Missbrauch des Ermessens;
 - b. die unzulässige oder offensichtlich unrichtige Anwendung ausländischen Rechts in den Fällen nach Artikel 65.
 
-<sup>2</sup> ...[^80i-1]
+<sup>2</sup> …[^80i-1]
 
 [^80i-1]: Aufgehoben durch Anhang Ziff. 30 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -1767,7 +1770,7 @@ Die Beschwerdefrist gegen die Schlussverfügung beträgt 30 Tage, gegen eine Zwi
 [^80l-1]: Fassung gemäss Anhang Ziff. 30 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^80l-2]: Fassung gemäss Anhang Ziff. 30 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### 4. Abschnitt:**** Besondere Bestimmungen
+### 4. Abschnitt: Besondere Bestimmungen
 
 [^part3-chap2-sec4-1]
 
@@ -1967,7 +1970,7 @@ Rechtskräftige und vollstreckbare Strafentscheide eines andern Staates können 
 
 <sup>2</sup> Im Ausland verhängte Sanktionen werden vollzogen, soweit sie das Höchstmass der im schweizerischen Recht für eine entsprechende Tat vorgesehenen Strafe nicht übersteigen. Sanktionen, die unter dem schweizerischen Strafrahmen bleiben, dürfen vollzogen werden.
 
-<sup>3</sup> ...[^94-1]
+<sup>3</sup> …[^94-1]
 
 <sup>4</sup> Bussen sowie Kosten aus Verfahren nach Artikel 63 können auch vollstreckt werden, wenn der Verurteilte seinen gewöhnlichen Aufenthalt im Ausland hat, in der Schweiz aber über Vermögenswerte verfügt und wenn der ersuchende Staat Gegenrecht hält.
 
@@ -2123,7 +2126,7 @@ Neben den Kosten für den Vollzug der Sanktion gelten auch jene für das Exequat
 
 <sup>1</sup> Das Bundesgesetz vom 22. Januar 1892[^109-1] betreffend die Auslieferung gegenüber dem Auslande wird aufgehoben.
 
-- [tab] <sup>2</sup><sup>–</sup><sup>3</sup> ...[^109-2]
+- [tab] <sup>2</sup><sup>–</sup><sup>3</sup> …[^109-2]
 
 [^109-1]: [BS **3** 509]
 [^109-2]: Die Änderungen können unter [AS 1982 846](https://fedlex.data.admin.ch/eli/oc/1982/846_846_846)konsultiert werden.

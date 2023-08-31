@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 1981 sull'assistenza internazionale in mater
 short: AIMP
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: it
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20230901-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/it"
 
 (Assistenza in materia penale, AIMP)
 
-del 20 marzo 1981 (Stato 1° luglio 2021)
+del 20 marzo 1981 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -126,7 +126,7 @@ La domanda è irricevibile se il procedimento verte su un reato che sembra volto
 - b. a una domanda d’assistenza secondo tutte le parti della presente legge se il procedimento verte su una truffa qualificata in materia fiscale ai sensi dell’articolo 14 capoverso 4 della legge federale del 22 marzo 1974[^3-2] sul diritto penale amministrativo.[^3-3]
 
 [^3-1]: Nuovo testo giusta il n. I 4 della LF del 18 giu. 2010 che modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)),
-[^3-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^3-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857). Ora: art. 14 cpv. 3.
 [^3-3]: Nuovo testo del per. giusta il n. I 3 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
 #### Art. 4
@@ -232,7 +232,7 @@ Nell’esecuzione della domanda, la protezione della sfera segreta è retta dall
 
 <sup>2</sup> Sanzione è ogni pena o misura.
 
-### Capitolo 1*a*:**** Sistema di gestione delle persone, degli atti e delle pratiche
+### Capitolo 1*a*: Sistema di gestione delle persone, degli atti e delle pratiche
 
 [^part1-chap1a-1]
 
@@ -272,7 +272,7 @@ Il Consiglio federale disciplina i particolari, segnatamente per quanto concerne
 [^11a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^11a-3]: Nuovo testo giusta il n. I 4 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
 
-### Capitolo 1*b*:**** Protezione dei dati personali
+### Capitolo 1*b*: Protezione dei dati personali
 
 [^part1-chap1b-1]
 
@@ -306,11 +306,11 @@ L’autorità competente può rifiutare, limitare o differire l’informazione p
 
 <sup>1</sup> Chiunque può domandare se uno Stato estero ha presentato alla Svizzera una domanda di arresto a scopo di estradizione nei suoi confronti. Questo diritto va esperito davanti all’Ufficio federale. Se la domanda è presentata a un’altra autorità, quest’ultima la trasmette senza indugio all’Ufficio federale.
 
-<sup>2</sup> Qualora una persona domandi all’Ufficio federale se ha ricevuto una domanda di arresto a scopo di estradizione, questo le comunica che nessun dato che la concerne è trattato in modo illecito e che può chiedere all’Incaricato federale della protezione dei dati e della trasparenza (Incaricato) di verificare se gli eventuali dati che la concernono sono trattati in modo lecito.
+<sup>2</sup> Qualora una persona domandi all’Ufficio federale se ha ricevuto una domanda di arresto a scopo di estradizione, questo le comunica che nessun dato che la concerne è trattato in modo illecito e che può chiedere all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) di verificare se gli eventuali dati che la concernono sono trattati in modo lecito.[^11c-1]
 
-<sup>3</sup> L’Incaricato effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali, che ha aperto un’inchiesta conformemente all’articolo 22 della legge del 28 settembre 2018[^11c-1] sulla protezione dei dati in ambito Schengen.
+<sup>3</sup> L’IFPDT effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali, che ha aperto un’inchiesta conformemente all’articolo 49 della legge federale del 25 settembre 2020[^11c-2] sulla protezione dei dati.[^11c-3]
 
-<sup>4</sup> Se riscontra errori nel trattamento dei dati, l’Incaricato ordina all’Ufficio federale di porvi rimedio.
+<sup>4</sup> Se riscontra errori nel trattamento dei dati, l’IFPDT ordina all’Ufficio federale di porvi rimedio.[^11c-4]
 
 <sup>5</sup> Le comunicazioni di cui ai capoversi 2 e 3 hanno sempre lo stesso tenore e non vengono motivate.
 
@@ -318,7 +318,10 @@ L’autorità competente può rifiutare, limitare o differire l’informazione p
 
 <sup>7</sup> Se lo Stato richiedente vi acconsente, l’Ufficio federale è autorizzato, in deroga al capoverso 2, a fornire all’interessato le informazioni richieste.
 
-[^11c-1]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^11c-1]: Nuovo testo giusta l’all. 1 n. II 29 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11c-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11c-3]: Nuovo testo giusta l’all. 1 n. II 29 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11c-4]: Nuovo testo giusta l’all. 1 n. II 29 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11d
 
@@ -553,7 +556,7 @@ L’ordine di procedere alla sorveglianza dev’essere sottoposto per approvazio
 
 [^18a-1]: Introdotto dall’all. n. 4 della LF del 6 ott. 2000 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni ([RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3319). Nuovo testo giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^18a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^18a-3]: [[RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)n. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)all. n. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)all. n. II 14, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all. n. II 12. [RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)all. n. I]. Vedi ora la LF del 18 mar. 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
+[^18a-3]: [[RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)n. I 2; [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)all. n. 3; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)all. n. II 14; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all. n. II 12. [RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)all. n. I]. Vedi ora la LF del 18 mar. 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
 
 #### Art. 18b
 
@@ -1462,7 +1465,7 @@ Oltre alle indicazioni e ai documenti di cui all’articolo 28 devono essere ind
 [^77-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^77-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
-### Sezione 2:**** Disbrigo della domanda
+### Sezione 2: Disbrigo della domanda
 
 [^part3-chap2-sec2-1]
 
@@ -1586,7 +1589,7 @@ La trasmissione anticipata presuppone che l’autorità richiedente si impegni p
 
 [^80dbis-1]: Introdotto dall’all. n. II 5 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
-### Sezione 2*a*:**** Squadra investigativa comune
+### Sezione 2*a*: Squadra investigativa comune
 
 [^part3-chap2-sec2a-1]
 
@@ -1693,7 +1696,7 @@ L’atto di costituzione indica:
 
 <sup>2</sup> Se le indagini lo richiedono, l’atto di costituzione può essere adeguato. È possibile, in particolare, aggiungere membri alla SInC o prorogare la durata del suo impiego.
 
-### Sezione 3:**** Ricorso
+### Sezione 3: Ricorso
 
 [^part3-chap2-sec3-1]
 
@@ -1765,7 +1768,7 @@ Il termine di ricorso contro la decisione finale è di trenta giorni o, se si tr
 [^80l-1]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^80l-2]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Sezione 4:**** Disposizioni speciali
+### Sezione 4: Disposizioni speciali
 
 [^part3-chap2-sec4-1]
 

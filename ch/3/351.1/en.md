@@ -4,11 +4,11 @@ title: "Federal Act of 20 March 1981 on International Mutual Assistance in Crimi
 short: IMAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: en
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210701/en/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20230901-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Mutual Assistance Act, IMAC)
 
-of 20 March 1981 (Status as of 1 July 2021)
+of 20 March 1981 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -128,7 +128,7 @@ A request shall not be granted if the subject of the proceedings is an offence w
 - b. under any part of this Act if aggravated duty or tax fraud as defined in Article 14 paragraph 4 of the Federal Act of 22 March 1974[^3-2] on Administrative Criminal Law is the subject of the proceedings.[^3-3]
 
 [^3-1]: Amended by No I 4 of the FA of 18 June 2010 on the Amendment of the Federal Legislation in Implementation of the Rome Statute of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^3-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^3-2]: SR **313****.****0**. Presently «art. 14 para. 3».
 [^3-3]: Second paragraph amended by No I 3 of the FA of 3 Oct. 2008 on the Implementation of the Revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64)367; [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938))
 
 #### Art. 4
@@ -234,7 +234,7 @@ In the execution of requests, protection of privacy shall be governed by the pro
 
 [^11-1]: Amended by No I of the FA of 4 Oct. 1996, in force since 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
-### Chapter 1*a***** Personal Data, File and Process Management System
+### Chapter 1*a* Personal Data, File and Process Management System
 
 [^part1-chap1a-1]
 
@@ -274,7 +274,7 @@ The Federal Council shall specify the details, and in particular:
 [^11a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^11a-3]: Amended by No I 4 of the O of 4 Dec. 2009 on the Amendment of Legislation due to the Establishment of the Federal Intelligence Service, in force since 1 Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
 
-### Chapter 1*b***** Protection of Personal Data
+### Chapter 1*b* Protection of Personal Data
 
 [^part1-chap1b-1]
 
@@ -308,11 +308,11 @@ The competent authority may refuse to provide the information, limit the informa
 
 <sup>1</sup> Any person may request information on whether Switzerland has received a request from a foreign state to make an arrest for the purpose of extradition. This right may be asserted at the Federal Office. If the request is made to a different authority, that authority shall forward the request immediately to the Federal Office.
 
-<sup>2</sup> If a person requests information on whether the Federal Office has received a request to make an arrest for the purpose of extradition, the Federal Office shall notify the person that no data about them has been unlawfully processed and that the person can request the Federal Data Protection and Information Commissioner (the Commissioner) to enquire as to whether any data on them has been lawfully processed.
+<sup>2</sup> If a person requests information on whether the Federal Office has received a request to make an arrest for the purpose of extradition, the Federal Office shall notify the person that no data about them has been unlawfully processed and that the person can request the Federal Data Protection and Information Commissioner (the FDPIC) to enquire as to whether any data on them has been lawfully processed.[^11c-1]
 
-<sup>3</sup> The Commissioner shall conduct the enquiries; he shall notify the person concerned either that no data about them has been unlawfully processed or that he has opened an investigation under Article 22 of the Schengen Data Protection Act of 28 September 2018[^11c-1] in the case of errors in the processing of personal data.
+<sup>3</sup> The FDPIC shall conduct the enquiries; he shall notify the person concerned either that no data about them has been unlawfully processed or that he has opened an investigation under Article 49 of the Data Protection Act of 25 September 2020[^11c-2] in the case of errors in the processing of personal data.[^11c-3]
 
-<sup>4</sup> If the Commissioner identifies errors in the data processing, he shall order the Federal Office to rectify the same.
+<sup>4</sup> If the FDPIC identifies errors in the data processing, he shall order the Federal Office to rectify the same.[^11c-4]
 
 <sup>5</sup> The notifications under paragraphs 2 and 3 shall always be worded in the same way and shall not mention the grounds.
 
@@ -320,7 +320,10 @@ The competent authority may refuse to provide the information, limit the informa
 
 <sup>7</sup> In derogation from paragraph 2, the Federal Office is entitled to provide the person concerned with the requested information if the requesting state gives its advance consent.
 
-[^11c-1]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^11c-1]: Amended by Annex 1 No II 29 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11c-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11c-3]: Amended by Annex 1 No II 29 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11c-4]: Amended by Annex 1 No II 29 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11d
 
@@ -554,7 +557,7 @@ The surveillance order must be submitted to the following authorities for approv
 
 [^18a-1]: Inserted by Annex No 4 of the FA of 6 Oct. 2000 on the Surveillance of Mail and Telecommunication Services ([AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); BBl **1998** 4241). Amended by Annex 1 No II 13 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^18a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^18a-3]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annex No 18 [3043](https://fedlex.data.admin.ch/eli/oc/2003/417)No I 2, [2004 2149](https://fedlex.data.admin.ch/eli/oc/2004/249)[3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annex No 84 [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 No 3, [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)annex No 3 [5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annex No II 7, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annex 1 No II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)annex II 14, [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)annex No 7, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)annex No II 12. [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)]. See now the FA of 18 March 2016 ([SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
+[^18a-3]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annex No 18, [3043](https://fedlex.data.admin.ch/eli/oc/2003/417)No I 2; [2004 2149](https://fedlex.data.admin.ch/eli/oc/2004/249), [3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annex No 84, [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 No 3; [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)annex No 3, [5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annex No II 7; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annex 1 No II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)annex II 14; [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)annex No 7; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)annex No II 12. [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)]. See now the FA of 18 March 2016 ([SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
 
 #### Art. 18b
 
@@ -1463,7 +1466,7 @@ In addition to the information and documents required by Article 28, the followi
 [^77-1]: Amended by No I of the FA of 4 Oct. 1996, in force since 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^77-2]: The designation of the administrative unit has been adapted according to Art. 16 para. 3 of the Publications O of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
-### Section 2**** Treatment of the Request
+### Section 2 Treatment of the Request
 
 [^part3-chap2-sec2-1]
 
@@ -1587,7 +1590,7 @@ Early transmission is conditional on the requesting authority providing an under
 
 [^80dbis-1]: Inserted by Annex No II 5 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
-### Section 2*a***** Joint Investigation Team
+### Section 2*a* Joint Investigation Team
 
 [^part3-chap2-sec2a-1]
 
@@ -1694,7 +1697,7 @@ The act of appointment must include the following information:
 
 <sup>2</sup> The act of appointment may be amended if the investigations so require. In particular, further members may be added to the JIT or the time limit may be extended.
 
-### Section 3**** Appeal
+### Section 3 Appeal
 
 [^part3-chap2-sec3-1]
 
@@ -1766,7 +1769,7 @@ The deadline for appeal against the final ruling shall be 30 days, or ten days i
 [^80l-1]: Amended by Annex No 30 of the FA of 17 June 2005 on the Federal Administrative Court, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^80l-2]: Amended by Annex No 30 of the FA of 17 June 2005 on the Federal Administrative Court, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Section 4**** Special Provisions
+### Section 4 Special Provisions
 
 [^part3-chap2-sec4-1]
 

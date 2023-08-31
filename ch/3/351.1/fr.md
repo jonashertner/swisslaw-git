@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 1981 sur l'entraide internationale en matière
 short: EIMP
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: fr
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20230901-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/fr"
 
 (Loi sur l’entraide pénale internationale, EIMP)
 
-du 20 mars 1981 (Etat le 1<sup>er</sup> juillet 2021)
+du 20 mars 1981 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -126,7 +126,7 @@ La demande est irrecevable si la procédure vise un acte qui paraît tendre à d
 - b. à une demande d’entraide au sens de toutes les parties de la présente loi si la procédure vise une escroquerie fiscale qualifiée au sens de l’art. 14, al. 4, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^3-2].[^3-3]
 
 [^3-1]: Nouvelle teneur selon le ch. I 4 de la LF du 18 juin 2010 portant modification de lois fédérales en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^3-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^3-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857). Actuellement «art. 14, al. 3».
 [^3-3]: Nouvelle teneur de la phrase selon le ch. I 3 de la LF du 3 oct. 2008 sur la mise en oeuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
 #### Art. 4
@@ -232,7 +232,7 @@ Lors de l’exécution de la demande, la protection du domaine secret est régl�
 
 <sup>2</sup> Par sanction, il faut entendre toute peine ou mesure.
 
-### Chapitre 1*a***** Système de gestion de personnes, de dossiers et d’affaires
+### Chapitre 1*a* Système de gestion de personnes, de dossiers et d’affaires
 
 [^part1-chap1a-1]
 
@@ -272,7 +272,7 @@ Le Conseil fédéral fixe les modalités, notamment en ce qui concerne:
 [^11a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^11a-3]: Nouvelle teneur selon le ch. I 4 de l’O du 4 déc. 2009 concernant l’adaptation de dispositions légales à la suite de la création du Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
 
-### Chapitre 1*b***** Protection des données personnelles
+### Chapitre 1*b* Protection des données personnelles
 
 [^part1-chap1b-1]
 
@@ -306,9 +306,9 @@ L’autorité compétente peut refuser, restreindre ou différer la communicatio
 
 <sup>1</sup> Toute personne peut demander si un État étranger a adressé à la Suisse une demande d’arrestation aux fins d’extradition à son encontre. Ce droit est exercé auprès de l’office fédéral. Si la demande est adressée à une autre autorité, celle-ci transmet sans délai l’affaire à l’office fédéral.
 
-<sup>2</sup> Lorsqu’une personne demande à l’office fédéral s’il a reçu une demande d’arrestation aux fins d’extradition, ce dernier l’informe qu’aucune donnée la concernant n’est traitée illicitement et qu’elle peut demander au Préposé fédéral à la protection des données et à la transparence (préposé) de vérifier si les éventuelles données la concernant sont traitées licitement.
+<sup>2</sup> Lorsqu’une personne demande à l’office fédéral s’il a reçu une demande d’arrestation aux fins d’extradition, ce dernier l’informe qu’aucune donnée la concernant n’est traitée illicitement et qu’elle peut demander au Préposé fédéral à la protection des données et à la transparence (PFPDT) de vérifier si les éventuelles données la concernant sont traitées licitement.[^11c-1]
 
-<sup>3</sup> Le préposé effectue la vérification demandée; il indique à la personne concernée soit qu’aucune donnée la concernant n’est traitée illicitement, soit qu’il a constaté une erreur relative au traitement des données personnelles et qu’il a ouvert une enquête conformément à l’art. 22 de la loi fédérale du 28 septembre 2018 sur la protection des données Schengen[^11c-1].
+<sup>3</sup> Le PFPDT effectue la vérification demandée; il indique à la personne concernée soit qu’aucune donnée la concernant n’est traitée illicitement, soit qu’il a constaté une erreur relative au traitement des données personnelles et qu’il a ouvert une enquête conformément à l’art. 49 de la loi fédérale du 25 septembre 2020 sur la protection des données[^11c-2].[^11c-3]
 
 <sup>4</sup> En cas d’erreur relative au traitement des données, il ordonne à l’office fédéral d’y remédier.
 
@@ -318,7 +318,9 @@ L’autorité compétente peut refuser, restreindre ou différer la communicatio
 
 <sup>7</sup> En dérogation à l’al. 2, l’office fédéral est habilité à fournir à la personne concernée les renseignements demandés avec l’accord préalable de l’État requérant.
 
-[^11c-1]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^11c-1]: Nouvelle teneur selon l’annexe 1 ch. II 29 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11c-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11c-3]: Nouvelle teneur selon l’annexe 1 ch. II 29 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11d
 
@@ -1138,7 +1140,7 @@ Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens 
 
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^59-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
-[^59-3]: Introduit par le ch. 2 de l’annexe à la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^59-3]: Introduit par l’annexe ch. 2 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 #### Art. 60
 
@@ -1460,7 +1462,7 @@ En sus des indications et documents prévus par l’art. 28, il convient d’ajo
 [^77-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^77-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
-### Section 2**** Traitement de la demande
+### Section 2 Traitement de la demande
 
 [^part3-chap2-sec2-1]
 
@@ -1584,7 +1586,7 @@ Avant la transmission anticipée, l’autorité requérante doit s’être préa
 
 [^80dbis-1]: Introduit par l’annexe ch. II 5 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
-### Section 2*a***** Équipe commune d’enquête
+### Section 2*a* Équipe commune d’enquête
 
 [^part3-chap2-sec2a-1]
 
@@ -1691,7 +1693,7 @@ L’acte d’institution fournit des indications sur les éléments suivants:
 
 <sup>2</sup> L’acte d’institution peut être adapté lorsque l’enquête l’exige. Des membres supplémentaires peuvent, en particulier, être adjoints à l’ECE ou sa date d’expiration prolongée.
 
-### Section 3**** Voies de recours
+### Section 3 Voies de recours
 
 [^part3-chap2-sec3-1]
 
@@ -1763,7 +1765,7 @@ Le délai de recours contre la décision de clôture est de 30 jours dès la com
 [^80l-1]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^80l-2]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Section 4**** Dispositions particulières
+### Section 4 Dispositions particulières
 
 [^part3-chap2-sec4-1]
 
