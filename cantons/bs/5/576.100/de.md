@@ -1,217 +1,227 @@
 ---
 canton: BS
 number: "576.100"
-title: Gesetz betreffend Einführung des Bundesgesetzes über den Zivilschutz vom 23. März 1962
+title: Gesetz über den Zivilschutz und den Kulturgüterschutz
 short: "Zivil- und Kulturgüterschutzgesetz, ZKG"
 language: de
-version: 2014-01-26
-valid_until: 2023-08-31
-version_adopted: 2013-12-11
+version: 2023-09-01
+version_adopted: 2022-09-21
 adopted: 2022-09-21
 in_force: 2023-09-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/576.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2841/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6016/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz betreffend Einführung des Bundesgesetzes über den Zivilschutz vom 23. März 1962
+# Gesetz über den Zivilschutz und den Kulturgüterschutz
 
-Einführungsgesetz zum Zivilschutzgesetz | Zivilschutz / Katastrophenhilfe
+Zivilschutz · Katastrophenhilfe
 
-Vom 4. April 1968 (Stand 26. Januar 2014)
+(Zivil- und Kulturgüterschutzgesetz, ZKG)
+
+Vom 21. September 2022 (Stand 1. September 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
-auf den Antrag seiner Kommission und gestützt auf das Bundesgesetz über den Zivilschutz vom 23. März 1962[^ingress-1],
+gestützt auf Art. 96 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG) vom 20. Dezember 2019[^ingress-1] und Art. 21 Abs. 2 des Bundesgesetzes über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen (KGSG) vom 20. Juni 2014[^ingress-2], nach Einsichtnahme in den Ratschlag des Regierungsrates [Nr. 20.1705.01](https://grosserrat.bs.ch/dokumente/100395/000000395580.pdf) vom 19. Oktober 2021 sowie in den Bericht der Justiz-, Sicherheits- und Sportkommission [Nr. 20.1705.02](https://grosserrat.bs.ch/dokumente/100402/000000402602.pdf) vom 13. Juli 2022,
 
-erlässt folgendes Gesetz:
+beschliesst:
 
-[^ingress-1]: Dieses Bundesgesetz ist aufgehoben und ersetzt worden durch das Zivilschutzgesetz vom 17. 6. 1994 (SR [520.1](https://db.clex.ch/link/Bund/520.1/de)).
+[^ingress-1]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de)
+[^ingress-2]: SR [520.3](https://db.clex.ch/link/Bund/520.3/de)
 
-## I. Allgemeine Organisation
+## 1. Gegenstand
 
 #### § 1
 
-**Regierungsrat**
+<sup>1</sup> Dieses Gesetz regelt den Vollzug der Bundesgesetzgebung und ihrer Ausführungserlasse über den Zivilschutz und den Kulturgüterschutz.
 
-<sup>1</sup> Der Regierungsrat überwacht die Massnahmen über den zivilen Schutz der Personen und Güter gegen die Auswirkungen von kriegerischen Ereignissen. Er beaufsichtigt den Vollzug der Bundesvorschriften über den Zivilschutz und regelt die Zusammenarbeit aller Stellen der kantonalen Verwaltung in Zivilschutzangelegenheiten.
+<sup>2</sup> Für den Zivilschutz regelt es namentlich die Organisation, die Aufgaben und die Zuständigkeiten, den Bau und den Betrieb der Schutzbauten, die Verwaltung des Materials sowie die Finanzierung.
 
-<sup>2</sup> Der Regierungsrat ist zuständig für das Aufgebot der Zivilschutzorganisationen bei einem unerwarteten Kriegsereignis und bei Katastrophen (Art. 4 Abs. 3 und 4 des BG).
+<sup>3</sup> Für den Kulturgüterschutz regelt es namentlich die Organisation, die Zuständigkeiten, die Schutzmassnahmen und deren Kostentragung sowie die Meldepflichten.
+
+## 2. Zivilschutz
+
+### 2.1 Organisation und Aufgaben
 
 #### § 2
 
-**Justiz- und Sicherheitsdepartement**
+**Zuständigkeit**
 
-<sup>1</sup> Soweit nichts anderes bestimmt wird, ist das Justiz- und Sicherheitsdepartement zuständig für den Vollzug der eidgenössischen und kantonalen Vorschriften über den Zivilschutz.
+<sup>1</sup> Der Kanton ist für den Zivilschutz zuständig, soweit nicht der Bund zuständig ist.
 
 #### § 3
 
-**Bau- und Verkehrsdepartement**
+**Organisationsstruktur**
 
-<sup>1</sup> Das Bau- und Verkehrsdepartement ist zuständig für die baulichen Massnahmen im Zivilschutz.
+<sup>1</sup> Es besteht eine einzige Zivilschutzorganisation.
 
-<sup>2</sup> Der Vollzug des Bundesgesetzes über die baulichen Massnahmen im Zivilschutz vom 4. Oktober 1963 wird durch ein besonderes Gesetz geregelt.
+<sup>2</sup> Der Regierungsrat bezeichnet die für den Zivilschutz zuständigen kantonalen Stellen.
 
 #### § 4
 
-**Präsidialdepartement**
+**Aufgaben**
 
-<sup>1</sup> Für die Massnahmen zum Schutze kulturell wertvoller Güter vor den Auswirkungen bewaffneter Konflikte ist das Präsidialdepartement zuständig (Art. 87 des BG).
+<sup>1</sup> Der Zivilschutz nimmt die ihm von der Bundesgesetzgebung und diesem Gesetz ausdrücklich zugewiesenen Aufgaben wahr.
 
-<sup>2</sup> Der Regierungsrat kann weitere zuständige Stellen bezeichnen.
+<sup>2</sup> Der Regierungsrat kann dem Zivilschutz weitere Aufgaben des Bevölkerungsschutzes übertragen.
+
+### 2.2 Ausbildung und Einsatz
 
 #### § 5
 
-**Departement für Wirtschaft, Soziales und Umwelt**
+**Aufgebot**
 
-<sup>1</sup> Für die in Zusammenhang mit dem Zivilschutz zu treffenden kriegswirtschaftlichen Massnahmen ist das Departement für Wirtschaft, Soziales und Umwelt zuständig (Art. 91 des BG).
+<sup>1</sup> Der Regierungsrat regelt das Aufgebot zur Ausbildung und zu den Einsätzen.
 
 #### § 6
 
-**…**
+**Ausbildung**
+
+<sup>1</sup> Der Regierungsrat legt die Dauer der in der Zuständigkeit des Kantons liegenden Ausbildungen fest.
+
+<sup>2</sup> Freiwillig Schutzdienstleistende absolvieren die Grundausbildung.
+
+### 2.3 Schutzbauten
 
 #### § 7
 
-**Amt für Zivilschutz**
+**Ersatzbeiträge für nicht erstellte Schutzplätze**
 
-<sup>1</sup> Dem Justiz- und Sicherheitsdepartement wird ein Amt für Zivilschutz angegliedert.
-
-<sup>2</sup> Das Amt für Zivilschutz versieht sowohl die Funktionen der kantonalen Zivilschutzstelle als auch diejenigen der Gemeinde-Zivilschutzstellen (Art. 9 und 10 des BG) und führt die Geschäfte der Ortsleitung.
-
-<sup>3</sup> Der Leiter dieses Amtes ist der Chef des Zivilschutzes; er ist zugleich Ortschef (Art. 25ff. und 29ff. des BG).
-
-## II. Die Schutzorganisationen
+<sup>1</sup> Der Regierungsrat legt die Höhe der Ersatzbeiträge für nicht erstellte Schutzplätze fest.
 
 #### § 8
 
-**Örtliche Schutzorganisation**
+**Baugesuche**
 
-<sup>1</sup> Der ganze Kanton mit den Gemeinden Basel, Riehen und Bettingen bildet eine einzige örtliche Schutzorganisation (Art. 17 des BG).
+<sup>1</sup> Baugesuche sind im Rahmen des Baubewilligungsverfahrens der für den Zivilschutz zuständigen kantonalen Stelle vorzulegen:
+
+- a) zur Prüfung der Schutzraumbaupflicht, sofern sie den Bau von Wohnhäusern, Heimen und Spitälern enthalten;
+- b) zur Überprüfung der Zulässigkeit von Änderungen an bestehenden Schutzräumen, sofern bei einer Sanierung, einem Umbau oder einer Nutzungsänderung von Gebäuden Änderungen an der Struktur eines Schutzraums oder an den technischen Schutzbausystemen vorgesehen sind;
+- c) wenn sie ein Schutzraumprojekt zum Neubau oder zur Erneuerung von Schutzräumen enthalten.
+
+### 2.4 Zivilschutzfremde Nutzungen
 
 #### § 9
 
-**Betriebsschutz**
+**Nutzung von Schutzbauten**
 
-<sup>1</sup> Der Regierungsrat bestimmt diejenigen Betriebe, die einen Betriebsschutz zu bestellen haben (Art. 9 des BG).
-
-<sup>2</sup> Der Regierungsrat kann die Zusammenfassung mehrerer Betriebe zu gemeinsamen Betriebsschutzorganisationen mit einheitlicher Leitung anordnen, wenn es aus praktischen oder taktischen Gründen zweckmässig erscheint.
-
-## III. Schutzdienstpflicht
+<sup>1</sup> Die zivilschutzfremde Nutzung von Schutzbauten ist zulässig.
 
 #### § 10
 
-**Dispensationen**
+**Nutzung von Material**
 
-<sup>1</sup> Während der Dauer ihres Amtes sind die Mitglieder des Regierungsrates von der Schutzdienstpflicht befreit (Art. 34 Abs. 3 des BG).
+<sup>1</sup> Das Material des Zivilschutzes kann den Partnerorganisationen ausgeliehen werden.
 
-<sup>2</sup> Der Regierungsrat kann auf Gesuch hin weitere Inhaber von besonders wichtigen Ämtern von der Schutzdienstpflicht oder von der Pflicht, in der örtlichen Schutzorganisation Dienst zu leisten, befreien.
+<sup>2</sup> Die Partnerorganisation haftet für am entliehenen Material entstandene Schäden oder dessen Verlust.
+
+### 2.5 Finanzierung und vermögensrechtliche Ansprüche
 
 #### § 11
 
-**Einteilungs-, Entlassungs- und Ausschlussverfahren**
+**Kostentragung des Kantons**
 
-<sup>1</sup> Zuständig für die Einteilungen, Entlassungen und Ausschlüsse ist das Amt für Zivilschutz.
-
-<sup>2</sup> Schutzdienstpflichtige, die öffentlichen und privaten Betrieben, Verwaltungen, Anstalten und Spitälern angehören, sind in erster Linie in die Schutzorganisation ihres Betriebes einzuteilen.
+<sup>1</sup> Der Kanton trägt die Kosten für den Zivilschutz, soweit diese nicht der Bund trägt.
 
 #### § 12
 
-**Einsprachen aus gesundheitlichen Gründen**
+**Kostentragung für Einsätze**
 
-<sup>1</sup> Bei Einsprachen aus gesundheitlichen Gründen entscheidet ein vom Regierungsrat zu bezeichnender Vertrauensarzt aufgrund eines Arztzeugnisses.
-
-<sup>2</sup> Entscheide des Vertrauensarztes können an eine vom Regierungsrat zu bestellende ärztliche Untersuchungskommission als letzte Instanz weitergezogen werden.
-
-## IV. Ausbildung
+<sup>1</sup> Die Kosten für Einsätze des Zivilschutzes können der Verursacherin oder dem Verursacher auferlegt werden.
 
 #### § 13
 
-<sup>1</sup> Für die Ausbildung der Angehörigen der Zivilschutzorganisationen ist das Amt für Zivilschutz verantwortlich (Art. 56 und 57 des BG).
+**Verfahren für vermögensrechtliche Ansprüche**
 
-## V. Ausrüstung, Material, Anlagen und Einrichtungen
+<sup>1</sup> Für vermögensrechtliche Ansprüche richten sich die Verfahren über Schadenersatzansprüche und Rückgriffsforderungen betreffend Schäden nach den Vorschriften des Gesetzes über die Haftung des Staates und seines Personals (Haftungsgesetz, HG) vom 17. November 1999. Dabei gelten alle Angehörigen des Zivilschutzes als Personal des Staates.
+
+## 3. Kulturgüterschutz
 
 #### § 14
 
-**Zeughausverwaltung**
+**Zuständigkeiten**
 
-<sup>1</sup> Die Zeughausverwaltung besorgt die Lagerung, Verwaltung einschliesslich Inventarführung, Wartung und Instandstellung:
+<sup>1</sup> Der Kanton ist für den Kulturgüterschutz zuständig, soweit nicht der Bund zuständig ist.
 
-- 1\. der Reserven an persönlicher Ausrüstung,
-- 2\. des Materials der Hauswehren, soweit es nicht an die Hauseigentümer abgegeben wird,
-- 3\. des Materials sowie der Anlagen und Einrichtungen der örtlichen Schutzorganisation,
-- 4\. des Materials für die Ausbildung.
-
-<sup>2</sup> Soweit Material oder einzelne Anlagen und Einrichtungen der örtlichen Schutzorganisation friedensmässig benützt werden, sind Wartung und Reinigung von der nutzenden Stelle nach den Anordnungen der Zeughausverwaltung zu besorgen, welche weiterhin für die Verwaltung zuständig ist.
-
-<sup>3</sup> Die Zeughausverwaltung ist verantwortlich für die Einsatzbereitschaft des von ihr verwalteten Materials sowie der Anlagen und Einrichtungen.
-
-<sup>4</sup> Die Zeughausverwaltung hat in personeller und materieller Hinsicht alle Vorkehrungen zu treffen, dass der Material- und Reparaturdienst des Zivilschutzes auch im Falle einer Mobilmachung der Armee sichergestellt ist.
+<sup>2</sup> Der Regierungsrat bezeichnet die für den Kulturgüterschutz zuständige kantonale Stelle.
 
 #### § 15
 
-**Samaritervereine**
+**Inventarisierung von Kulturgütern**
 
-<sup>1</sup> Das Justiz- und Sicherheitsdepartement kann den Samaritervereinen Sanitätshilfsstellen zuweisen und sie ermächtigen, darin Kurse und Übungen durchzuführen.
+<sup>1</sup> Kulturgüter von nationaler Bedeutung (A-Objekte) und regionaler Bedeutung (B-Objekte), die sich auf dem Kantonsgebiet befinden, werden im Schweizerischen Inventar der Kulturgüter von nationaler und regionaler Bedeutung erfasst.
 
-## VI. Kostentragung und Beiträge
+<sup>2</sup> Der Kanton erstellt und führt ein Inventar für Kulturgüter von lokaler Bedeutung (C-Objekte). Der Regierungsrat regelt das Verfahren zur Erstellung und Nachführung dieses Inventars.
 
 #### § 16
 
-**Persönliche Ausrüstung der Hauswehren**
+**Verzeichnis von inventarisierten Kulturgütern**
 
-<sup>1</sup> Die nach Abzug des Bundesbeitrages verbleibenden Kosten für die persönliche Ausrüstung der Hauswehren werden vom Kanton unter angemessener Beteiligung der Einwohnergemeinden getragen.
+<sup>1</sup> Die Eigentümerinnen und Eigentümer von beweglichen Kulturgütern erstellen ein Verzeichnis der einzelnen Objekte, das der zuständigen kantonalen Stelle zur Verfügung gestellt wird.
 
 #### § 17
 
-**Kantonsbeiträge**
+**Schutzmassnahmen für inventarisierte Kulturgüter**
 
-<sup>1</sup> Der Kanton leistet Beiträge an die vom Bund vorgeschriebenen und mit 55% finanziell unterstützten Massnahmen in der Höhe von weiteren 15% (Art. 69 und 72 des BG); sie werden ausgerichtet an:
+<sup>1</sup> Der Kanton, die weiteren Personen des öffentlichen Rechts sowie Private sind für den Schutz von Kulturgütern verantwortlich, die sich in ihrem Eigentum befinden.
 
-- 1\. die Hauseigentümer für die Beschaffung des gemeinsamen Materials der Hauswehren (Art. 66 des BG) und der für die bewohnten Gebäude vorgeschriebenen Geräte;
-- 2\. die Betriebe für
-  - a) die Beschaffung der persönlichen Ausrüstung der Angehörigen der Betriebsschutzorganisationen,
-  - b) die Ausbildung der Angehörigen der Betriebsschutzorganisationen, soweit sie Sache der Betriebe ist (Art. 58 des BG),
-  - c) das gemeinsame Material der Betriebsschutzorganisationen (Art. 65 des BG).
+<sup>2</sup> Die zuständige kantonale Stelle kann Schutzmassnahmen baulicher und organisatorischer Natur anordnen. Die Eigentümerinnen und Eigentümer sind verpflichtet, entsprechende Massnahmen zu treffen oder zu dulden. Sie tragen unter Vorbehalt von Abs. 3 und der Kostentragung durch den Bund die Kosten der Massnahmen.
 
-<sup>2</sup> Gemeinnützigen Betrieben kann der Regierungsrat einen höheren Beitrag gewähren.
+<sup>3</sup> Der Kanton stellt im Rahmen der Möglichkeiten und auf Antrag der Eigentümerinnen und Eigentümer technische und personelle Mittel des Zivilschutzes für die Planung und Durchführung von Schutzmassnahmen zur Verfügung. Diese Dienstleistungen sind kostenlos, soweit sie im Rahmen eines ordentlichen Aufgebots des Zivilschutzes erfolgen.
+
+<sup>4</sup> Die zuständige kantonale Stelle ist berechtigt, Kulturgüter und die getroffenen Schutzmassnahmen zu kontrollieren.
 
 #### § 18
 
-**Gemeinsame Betriebsschutzorganisationen**
+**Kulturgüterschutzräume**
 
-<sup>1</sup> Die Aufteilung der nach Abzug der Bundes- und der Kantonsbeiträge verbleibenden Kosten für gemeinsame Betriebsschutzorganisationen auf die einzelnen Betriebe erfolgt durch den Regierungsrat.
-
-## VII. Haftung für Schäden
+<sup>1</sup> Für den Bau, den Unterhalt und die Aufhebung von Kulturgüterschutzräumen sind die Bestimmungen des Bundesrechts sowie des kantonalen Rechts betreffend Schutzbauten sinngemäss anwendbar.
 
 #### § 19
 
-<sup>1</sup> Das Justiz- und Sicherheitsdepartement ist zuständig zum Entscheid über Ersatzforderungen für Schäden, die infolge der vom Amt für Zivilschutz durchgeführten Kurse und Übungen oder bei sonstigen dienstlichen Verrichtungen seiner Instruktoren oder der Schutzorganisationen Drittpersonen zugefügt werden (Art. 77ff. des BG).
+**Meldepflichten bei inventarisierten Kulturgütern**
 
-## VIII. Beschwerdeverfahren
+<sup>1</sup> Eigentümerinnen und Eigentümer melden der zuständigen kantonalen Stelle:
+
+- a) offensichtliche Gefahren für Schädigungen und Verlust von Kulturgütern;
+- b) den Verlust von Kulturgütern;
+- c) Schäden an Kulturgütern;
+- d) bei beweglichen Kulturgütern den Standortwechsel aus dem Kanton.
+
+## 4. Gemeinsame Bestimmungen
 
 #### § 20
 
-<sup>1</sup> Soweit das Bundesrecht oder dieses Gesetz nichts anderes bestimmt, können alle Entscheide in Zivilschutzangelegenheiten von den Betroffenen an den Regierungsrat weitergezogen werden.
+**Gebühren**
 
-<sup>2</sup> Gegen Entscheide des Regierungsrates, die nicht in Vollziehung bundesrechtlicher Vorschriften getroffen wurden, kann an das Verwaltungsgericht rekurriert werden; dieses ist bei der Beurteilung des Rekurses frei.
-
-## IX. Verwarnungen und Verzeigungen
+<sup>1</sup> Die für den Zivilschutz und den Kulturgüterschutz zuständigen kantonalen Stellen können für Bewilligungen, Kontrollen und Dienstleistungen Gebühren erheben.
 
 #### § 21
 
-<sup>1</sup> Zur Verwarnung und zur Verzeigung nach Art. 84 und 85 des Bundesgesetzes ist das Amt für Zivilschutz zuständig.
+**Rechtsmittel**
 
-## X. Schlussbestimmungen
+<sup>1</sup> Gegen auf dieses Gesetz, seine Ausführungsbestimmungen und auf die Bundesgesetzgebung über den Zivilschutz und den Kulturgüterschutz gestützte Verfügungen kann nach den Vorschriften des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz, OG) vom 22. April 1976 Rekurs erhoben werden. Davon ausgenommen sind Verfügungen in Bausachen.
+
+<sup>2</sup> Gegen Verfügungen in Bausachen kann nach den Vorschriften des Gesetzes betreffend die Baurekurskommission (BRKG) vom 7. Juni 2000 bei der Baurekurskommission Rekurs erhoben werden.
 
 #### § 22
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat wird ermächtigt, die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen auf dem Verordnungswege zu erlassen.
+<sup>1</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen.
 
-Inkrafttreten
+#### § 23
 
-Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und tritt sofort in Kraft und Wirksamkeit.
+**Übergangsbestimmung**
 
-KB 06.04.1962
+<sup>1</sup> Mit Inkrafttreten dieses Gesetzes und seiner Ausführungsbestimmungen werden alle hängigen Verfahren nach neuem Recht beurteilt.
+
+*Schlussbestimmung*
+
+Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.[^footer-1] Auf den gleichen Zeitpunkt werden das Gesetz betreffend Einführung des Bundesgesetzes über den Zivilschutz vom 23. März 1962 vom 4. April 1968 sowie das Gesetz betreffend den Vollzug des Bundesgesetzes über die baulichen Massnahmen im Zivilschutz vom 4. Oktober 1963 vom 4. April 1968 aufgehoben.
+
+24.09.2022
+
+[^footer-1]: In Kraft getreten am 1. September 2023 (KB: 26.08.2023).
