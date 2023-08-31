@@ -4,13 +4,12 @@ number: "510.1"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2015-03-01
-valid_until: 2023-08-31
-version_adopted: 2014-12-04
+version: 2023-09-01
+version_adopted: 2023-06-30
 adopted: 2010-03-11
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/510.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1624/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1829/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1624/pdf_file"
 
 (PolG)
 
-vom 11.03.2010 (Stand 01.03.2015)
+vom 11.03.2010 (Stand 01.09.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -550,7 +549,7 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei kann zur Erfüllung ihrer Aufgaben Daten bearbeiten und geeignete Datenbearbeitungssysteme aufbauen und betreiben.
 
-<sup>2</sup> Besonders schützenswerte Personendaten und Persönlichkeitsprofile kann sie bearbeiten, soweit es zur Verhinderung und Erkennung von Verbrechen und Vergehen unentbehrlich ist.
+<sup>2</sup> Besonders schützenswerte Personendaten kann sie bearbeiten, soweit es zur Verhinderung und Erkennung von Verbrechen und Vergehen unentbehrlich ist.
 
 <sup>3</sup> Die Kantonspolizei kann zur Erfüllung ihrer Aufgaben auch nicht verifizierte Daten und Verdachtsdaten bearbeiten.
 
@@ -590,9 +589,13 @@ beschliesst:
 
 **Vernichtung von Daten und Löschung von Aufzeichnungen**
 
-<sup>1</sup> Polizeiliche Daten sind von Amtes wegen zu vernichten, wenn feststeht, dass sie nicht mehr benötigt werden.
+<sup>1</sup> Polizeiliche Daten sind grundsätzlich von Amtes wegen zu löschen, wenn feststeht, dass sie nicht mehr benötigt werden.
 
-<sup>2</sup> Aufzeichnungsmaterial gemäss Art. 22 und Art. 23 Abs. 1 dieses Gesetzes wird spätestens nach 100 Tagen vernichtet, vorbehalten bleibt die Weiterverwendung in einem Strafverfahren.
+<sup>2</sup> Polizeiliche Fall-, Journal- und Verwaltungsdaten sind zuvor dem Staatsarchiv anzubieten. Ausgenommen sind insbesondere Daten aus Vorermittlungen und Überwachungen.
+
+<sup>3</sup> Für die Einsichtnahme in die Fall- und Journaldaten gilt sinngemäss Art. 27 Abs. 3 des Gesetzes über die Gerichtsorganisation[^40-1].
+
+[^40-1]: GDB [134.1](http://gdb.ow.ch/data/134.1/de)
 
 ## 4. Private Sicherheitsunternehmen
 
@@ -843,6 +846,8 @@ Geändert durch:
 
 \- Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43),
 
-\- das Gesetz über die Anpassungen aufgrund der Evaluation der Justizreform vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 52 und 2015, 3)
+\- das Gesetz über die Anpassungen aufgrund der Evaluation der Justizreform vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 52 und 2015, 3),
+
+\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
 
 OGS 2010, 14
