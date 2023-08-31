@@ -3,18 +3,18 @@ sr: "814.670.1"
 title: Verordnung des UVEK vom 28. November 2011 über die Höhe der vorgezogenen Entsorgungsgebühr für Batterien
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/876"
 language: de
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2011-11-28
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/876/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2011-876-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/876/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/876/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-876-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/876/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Höhe der vorgezogenen Entsorgungsgebühr für Batterien
 
-vom 28. November 2011 (Stand am 1. Januar 2020)
+vom 28. November 2011 (Stand am 1. September 2023)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -36,13 +36,17 @@ Die vorgezogene Entsorgungsgebühr (Gebühr) nach Anhang 2.15 Ziffer 6.2 der Che
 - b. Fr. 1.90 je Kilogramm für gebührenbelastete Salzwasser-Gerätebatterien und Salzwasser-Industriebatterien;
 - c. Fr. 0.50 je Kilogramm für gebührenbelastete bleihaltige Fahrzeug- und Industriebatterien;
 - d. 2 Franken je Kilogramm für gebührenbelastete Industriebatterien für Hybridsysteme, ausgenommen Lithium-Ionen-Batterien;
-- e. Fr. 3.20 je Kilogramm für die übrigen gebührenbelasteten Gerätebatterien, mindestens aber Fr. 0.03 pro Gerätebatterie;
-- f. Fr. 3.20 je Kilogramm für die übrigen gebührenbelasteten Fahrzeug- und Industriebatterien.[^1-2]
+- e.[^1-2] Fr. 2.50 je Kilogramm für gebührenbelastete Natrium-Nickelchlorid-Gerätebatterien und gebührenbelastete Natrium-Nickelchlorid-Industriebatterien;
+- f.[^1-3] Fr. 3.20 je Kilogramm für die übrigen gebührenbelasteten Gerätebatterien, mindestens aber Fr. 0.03 pro Gerätebatterie;
+- g.[^1-4] Fr. 3.20 je Kilogramm für die übrigen gebührenbelasteten Fahrzeug- und Industriebatterien.[^1-5]
 
 <sup>2</sup> Die vom Bund mit der Erhebung, Verwaltung und Verwendung der Gebühr beauftragte Organisation nach Anhang 2.15 Ziffer 6.7 ChemRRV veröffentlicht die aus den Vorgaben nach Absatz 1 errechnete Höhe der Gebühr für die einzelnen Batterietypen in einem Gebührentarif.
 
 [^1-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^1-2]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3899](https://fedlex.data.admin.ch/eli/oc/2019/703)).
+[^1-2]: Eingefügt durch Ziff. I der V des UVEK vom 2. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 445](https://fedlex.data.admin.ch/eli/oc/2023/445)).
+[^1-3]: Ursprünglich: Bst. e.
+[^1-4]: Ursprünglich: Bst. f.
+[^1-5]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3899](https://fedlex.data.admin.ch/eli/oc/2019/703)).
 
 #### Art. 2
 
@@ -50,7 +54,7 @@ Die vorgezogene Entsorgungsgebühr (Gebühr) nach Anhang 2.15 Ziffer 6.2 der Che
 
 Die Verordnung vom 29. November 1999[^2-1] über die Höhe der vorgezogenen Entsorgungsgebühr für Batterien und Akkumulatoren wird aufgehoben.
 
-[^2-1]: [[AS 1999 3600](https://fedlex.data.admin.ch/eli/oc/1999/517), [2005 3417](https://fedlex.data.admin.ch/eli/oc/2005/497)Ziff. II [5747](https://fedlex.data.admin.ch/eli/oc/2005/792)]
+[^2-1]: [[AS 1999 3600](https://fedlex.data.admin.ch/eli/oc/1999/517); [2005 3417](https://fedlex.data.admin.ch/eli/oc/2005/497)Ziff. II, [5747](https://fedlex.data.admin.ch/eli/oc/2005/792)]
 
 #### Art. 3
 

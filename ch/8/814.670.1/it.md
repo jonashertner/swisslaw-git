@@ -3,18 +3,18 @@ sr: "814.670.1"
 title: "Ordinanza del DATEC del 28 novembre 2011 sull'ammontare della tassa di smaltimento anticipata per pile"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/876"
 language: it
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2011-11-28
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/876/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2011-876-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/876/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/876/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-876-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/876/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC sull’ammontare della tassa di smaltimento anticipata per pile
 
-del 28 novembre 2011 (Stato 1° gennaio 2020)
+del 28 novembre 2011 (Stato 1° settembre 2023)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -36,13 +36,17 @@ La tassa di smaltimento anticipata (tassa) di cui all’allegato 2.15 numero 6.2
 - b. 1,90 franchi al chilogrammo per le pile portatili ad acqua salata e per le pile industriali ad acqua salata gravate dalla tassa;
 - c. 0,50 franchi al chilogrammo per le pile al piombo per autoveicoli e per le pile al piombo industriali gravate dalla tassa;
 - d. 2 franchi al chilogrammo per le pile industriali per sistemi ibridi gravate dalla tassa, eccetto per le pile agli ioni di litio;
-- e. 3,20 franchi al chilogrammo per le altre pile portatili gravate dalla tassa, ma come minimo 0,03 franchi per pila portatile;
-- f. 3,20 franchi al chilogrammo per le altre pile per autoveicoli e per le altre pile industriali gravate dalla tassa.[^1-2]
+- e.[^1-2] 2,50 franchi al chilogrammo per le pile portatili al sodio-cloruro di nichel gravate dalla tassa e per le pile industriali al cloruro di nichel di sodio gravate dalla tassa;
+- f.[^1-3] 3,20 franchi al chilogrammo per le altre pile portatili gravate dalla tassa, ma come minimo 0,03 franchi per pila portatile;
+- g.[^1-4] 3,20 franchi al chilogrammo per le altre pile per autoveicoli e per le altre pile industriali gravate dalla tassa.[^1-5]
 
 <sup>2</sup> L’organizzazione incaricata dalla Confederazione della riscossione, dell’amministrazione e dell’impiego della tassa secondo l’allegato 2.15 numero 6.7 ORRPChim pubblica in un tariffario l’ammontare della tassa calcolato per i singoli tipi di pile in base alle indicazioni di cui al capoverso 1.
 
 [^1-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^1-2]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3899](https://fedlex.data.admin.ch/eli/oc/2019/703)).
+[^1-2]: Introdotta dal n. I dell’O del DATEC del 2 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 445](https://fedlex.data.admin.ch/eli/oc/2023/445)).
+[^1-3]: Originaria lett. e.
+[^1-4]: Originaria lett. f.
+[^1-5]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3899](https://fedlex.data.admin.ch/eli/oc/2019/703)).
 
 #### Art. 2
 
