@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 29. September 2017 über Geldspiele (Geldspielgesetz, B
 short: BGS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/795"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2017-09-29
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/795/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2018-795-20210101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/795/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-795-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20210101/de"
 
 (Geldspielgesetz, BGS)
 
-vom 29. September 2017 (Stand am 1. Januar 2021)
+vom 29. September 2017 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -799,9 +799,19 @@ Die Bewilligung wird erteilt, wenn die Spielbank nachweist, dass die nach dem 3.
 
 <sup>1</sup> Für die Bekämpfung und die Verfolgung von Manipulationen von Sportwettkämpfen arbeitet die interkantonale Behörde mit den Veranstalterinnen von Sportwetten, mit den Organisationen nach Artikel 64 Absatz 2 sowie mit entsprechenden Organisationen mit Sitz im Ausland zusammen.
 
-<sup>2</sup> Bei einem hinreichenden Verdacht auf Manipulation eines Sportwettkampfs kann sie namentlich Daten, einschliesslich besonders schützenswerter Personendaten über Straf- oder Verwaltungsverfahren und Persönlichkeitsprofile der Wettenden, an die Veranstalterinnen und die Organisationen weitergeben. Erweist sich der Verdacht als unbegründet, so sind die Daten umgehend zu löschen.
+<sup>2</sup>
+
+Bei einem hinreichenden Verdacht auf Manipulation eines Sportwettkampfs kann sie namentlich folgende Personendaten, einschliesslich besonders schützenswerter Personendaten über Straf- oder Verwaltungsverfahren, an die Veranstalterinnen und die Organisationen weitergeben:
+
+- a. Personendaten der Wettenden;
+- b. Personendaten, die eine Beurteilung des Wettverhaltens der betroffenen Personen bei Sportwetten erlauben.[^65-1]
+
+<sup>2bis</sup> Erweist sich der Verdacht als unbegründet, so sind die Daten umgehend zu löschen.[^65-2]
 
 <sup>3</sup> Der Bundesrat regelt den Gegenstand und die Modalitäten der Datenweitergabe an diese Organisationen.
+
+[^65-1]: Fassung gemäss Anhang 1 Ziff. II 90 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^65-2]: Eingefügt durch Anhang 1 Ziff. II 90 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
@@ -1222,7 +1232,7 @@ Der Bundesrat regelt die Einzelheiten, namentlich:
 
 **Datenbearbeitung**
 
-<sup>1</sup> Zur Erfüllung ihrer gesetzlichen Aufgaben kann die ESBK Personendaten, einschliesslich besonders schützenswerter Daten über die Gesundheit, Massnahmen der sozialen Hilfe, über administrative oder strafrechtliche Verfolgungen und Sanktionen, sowie Persönlichkeitsprofile, bearbeiten.
+<sup>1</sup> Zur Erfüllung ihrer gesetzlichen Aufgaben kann die ESBK Personendaten, einschliesslich besonders schützenswerter Daten über die Gesundheit, über Massnahmen der sozialen Hilfe, über verwaltungs- oder strafrechtliche Verfolgungen und Sanktionen, sowie Daten, die eine Beurteilung der Tätigkeit von Veranstalterinnen illegaler Geldspielangebote erlauben, bearbeiten.[^101-1]
 
 <sup>2</sup>
 
@@ -1233,6 +1243,8 @@ Der Bundesrat regelt die Einzelheiten der Datenbearbeitung, insbesondere:
 - c. die Zugangsermächtigungen;
 - d. die Aufbewahrungsdauer und die Vernichtung der Daten;
 - e. die Datensicherheit.
+
+[^101-1]: Fassung gemäss Anhang 1 Ziff. II 90 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102
 
@@ -1364,9 +1376,11 @@ Die interkantonale Behörde kann zur Erfüllung ihrer Aufgaben namentlich:
 
 #### Art. 110
 
-**Datenbearbeitung**
+**Datenbearbeitung**[^110-1]
 
-Zur Erfüllung ihrer gesetzlichen Aufgaben kann die interkantonale Behörde Personendaten, einschliesslich besonders schützenswerter Daten über die Gesundheit, über Massnahmen der sozialen Hilfe, über administrative oder strafrechtliche Verfolgungen und Sanktionen, sowie Persönlichkeitsprofile bearbeiten.
+Zur Erfüllung ihrer gesetzlichen Aufgaben kann die interkantonale Behörde Personendaten, einschliesslich besonders schützenswerter Daten über die Gesundheit, über Massnahmen der sozialen Hilfe, über verwaltungs- oder strafrechtliche Verfolgungen und Sanktionen, sowie Daten, die eine Beurteilung der Tätigkeit von Veranstalterinnen illegaler Geldspielangebote erlauben, bearbeiten.
+
+[^110-1]: Fassung gemäss Anhang 1 Ziff. II 90 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111
 

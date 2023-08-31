@@ -4,11 +4,11 @@ title: "Loi fédérale du 29 septembre 2017 sur les jeux d'argent (LJAr)"
 short: LJAr
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/795"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2017-09-29
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/795/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-795-20210101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/795/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-795-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20210101/fr"
 
 (LJAr)[^t-1]
 
-du 29 septembre 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 septembre 2017 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -802,9 +802,19 @@ L’autorisation est délivrée si la maison de jeu apporte la preuve qu’elle 
 
 <sup>1</sup> L’autorité intercantonale collabore avec les exploitants de paris sportifs, les organisations visées à l’art. 64, al. 2, et les organisations concernées ayant leur siège à l’étranger pour la lutte contre les manipulations de compétitions sportives et la poursuite de ces manipulations.
 
-<sup>2</sup> Si elle a des motifs suffisants de soupçonner une manipulation de compétition sportive, elle peut notamment communiquer à ces exploitants et à ces organisations des données personnelles concernant les parieurs, y compris les données sensibles relatives à l’existence de procédures pénales ou administratives et des profils de la personnalité. Si le soupçon s’avère infondé, les données doivent être immédiatement effacées.
+<sup>2</sup>
+
+Si elle a des motifs suffisants de soupçonner une manipulation de compétition sportive, elle peut notamment communiquer les données suivantes, y compris des données sensibles relatives à l’existence de procédures pénales ou administratives, aux exploitants et organisations:
+
+- a. données personnelles concernant des parieurs;
+- b. données personnelles permettant d’évaluer le comportement des personnes concernées en matière de paris sportifs.[^65-1]
+
+<sup>2bis</sup> Si le soupçon s’avère infondé, les données doivent être immédiatement effacées.[^65-2]
 
 <sup>3</sup> Le Conseil fédéral règle l’objet et les modalités de la transmission des données à ces organisations.
+
+[^65-1]: Nouvelle teneur selon l’annexe 1 ch. II 90 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^65-2]: Introduit par l’annexe 1 ch. II 90 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
@@ -1225,7 +1235,7 @@ Le Conseil fédéral fixe les modalités; il définit en particulier:
 
 **Traitement des données**
 
-<sup>1</sup> Pour l’accomplissement de ses tâches légales, la CFMJ peut traiter des données personnelles, y compris les données sensibles relatives à la santé, aux mesures d’aide sociale, aux poursuites ou sanctions pénales et administratives, ainsi que des profils de la personnalité.
+<sup>1</sup> Pour l’accomplissement de ses tâches légales, la CFMJ peut traiter des données personnelles, y compris des données sensibles relatives à la santé, aux mesures d’aide sociale, aux poursuites ou sanctions pénales et administratives, ainsi que des données personnelles permettant d’évaluer l’activité d’exploitants de jeux illégaux.[^101-1]
 
 <sup>2</sup>
 
@@ -1236,6 +1246,8 @@ Le Conseil fédéral fixe les modalités du traitement des données, notamment:
 - c. les autorisations d’accès;
 - d. la durée de conservation et la destruction des données;
 - e. la sécurité des données.
+
+[^101-1]: Nouvelle teneur selon l’annexe 1 ch. II 90 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102
 
@@ -1367,9 +1379,11 @@ Pour accomplir ses tâches, l’autorité intercantonale peut notamment:
 
 #### Art. 110
 
-**Traitement des données**
+**Traitement des données**[^110-1]
 
-Pour l’accomplissement de ses tâches légales, l’autorité intercantonale peut traiter des données personnelles, y compris les données sensibles relatives à la santé, aux mesures d’aide sociale, aux poursuites ou sanctions pénales et administratives, ainsi que des profils de la personnalité.
+Pour l’accomplissement de ses tâches légales, l’autorité intercantonale peut traiter des données personnelles, y compris des données sensibles relatives à la santé, aux mesures d’aide sociale, aux poursuites ou sanctions pénales et administratives, ainsi que des données personnelles permettant d’évaluer l’activité d’exploitants de jeux illégaux.
+
+[^110-1]: Nouvelle teneur selon l’annexe 1 ch. II 13 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111
 

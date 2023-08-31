@@ -4,11 +4,11 @@ title: Legge federale del 29 settembre 2017 sui giochi in denaro (LGD)
 short: LGD
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/795"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2017-09-29
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/795/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-795-20210101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/795/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-795-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20210101/it"
 
 (LGD)
 
-del 29 settembre 2017 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 29 settembre 2017 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -799,9 +799,19 @@ L’autorizzazione è rilasciata se la casa da gioco dimostra di essere titolare
 
 <sup>1</sup> Per lottare contro la manipolazione di competizioni sportive e perseguirla, l’Autorità intercantonale collabora con gli organizzatori di scommesse sportive, le organizzazioni di cui all’articolo 64 capoverso 2 e le corrispondenti organizzazioni con sede all’estero.
 
-<sup>2</sup> Se vi sono fondati motivi di sospettare la manipolazione di una competizione sportiva, l’Autorità intercantonale può segnatamente trasmettere dati agli organizzatori e alle organizzazioni, inclusi dati personali degni di particolare protezione su procedimenti penali o amministrativi e profili della personalità degli scommettitori. Se il sospetto si rivela infondato, i dati sono cancellati senza indugio.
+<sup>2</sup>
+
+Se vi sono fondati motivi di sospettare la manipolazione di una competizione sportiva, l’Autorità intercantonale può segnatamente trasmettere i dati personali seguenti agli organizzatori e alle organizzazioni, inclusi dati personali degni di particolare protezione su procedimenti penali o amministrativi:
+
+- a. dati personali degli scommettitori;
+- b. dati personali che consentono di valutare il comportamento degli interessati nell’ambito di scommesse sportive.[^65-1]
+
+<sup>2bis</sup> Se il sospetto si rivela infondato, i dati sono cancellati senza indugio.[^65-2]
 
 <sup>3</sup> Il Consiglio federale disciplina l’oggetto e le modalità della trasmissione dei dati a dette organizzazioni.
+
+[^65-1]: Nuovo testo giusta l’all. 1 cifra II 90 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^65-2]: Introdotto dall’all. 1 cifra II 90 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
@@ -1164,7 +1174,8 @@ Oltre agli altri compiti che le conferisce la presente legge, la CFCG:
 - c. lotta contro i giochi in denaro illegali;
 - d. collabora con le autorità di vigilanza nazionali ed estere;
 - e. redige e pubblica ogni anno un rapporto d’attività all’attenzione del Consiglio federale; il rapporto comprende anche informazioni sui conti annuali, sui bilanci e sui rapporti delle case da gioco.
-- [tab] <sup>2</sup> Nell’adempimento dei propri compiti, la CFCG tiene debitamente conto dell’esigenza di proteggere i giocatori dal gioco eccessivo.
+
+<sup>2</sup> Nell’adempimento dei propri compiti, la CFCG tiene debitamente conto dell’esigenza di proteggere i giocatori dal gioco eccessivo.
 
 #### Art. 98
 
@@ -1221,7 +1232,7 @@ Il Consiglio federale disciplina i dettagli, in particolare:
 
 **Trattamento dei dati**
 
-<sup>1</sup> Per adempiere i propri compiti legali, la CFCG può trattare dati personali, inclusi dati degni di particolare protezione relativi allo stato di salute, a misure di aiuto sociale, a perseguimenti e a sanzioni amministrative o penali, nonché profili della personalità.
+<sup>1</sup> Per adempiere i propri compiti legali, la CFCG può trattare dati personali, inclusi dati degni di particolare protezione relativi allo stato di salute, a misure di aiuto sociale, a perseguimenti e a sanzioni amministrativi o penali, nonché dati che consentono di valutare le attività degli organizzatori di giochi in denaro illegali.[^101-1]
 
 <sup>2</sup>
 
@@ -1232,6 +1243,8 @@ Il Consiglio federale disciplina i dettagli del trattamento dei dati, in partico
 - c. le autorizzazioni d’accesso;
 - d. la durata di conservazione e la distruzione dei dati;
 - e. la sicurezza dei dati.
+
+[^101-1]: Nuovo testo giusta l’all. 1 cifra II 90 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102
 
@@ -1363,9 +1376,11 @@ Per adempiere i propri compiti, l’Autorità intercantonale può segnatamente:
 
 #### Art. 110
 
-**Trattamento dei dati**
+**Trattamento dei dati**[^110-1]
 
-Per adempiere i propri compiti legali, l’Autorità intercantonale può trattare dati personali, inclusi dati degni di particolare protezione relativi allo stato di salute, a misure di aiuto sociale, a perseguimenti e a sanzioni amministrative o penali, nonché profili della personalità.
+Per adempiere i propri compiti legali, l’Autorità intercantonale può trattare dati personali, inclusi dati degni di particolare protezione relativi allo stato di salute, a misure di aiuto sociale, a perseguimenti e a sanzioni amministrativi o penali, nonché dati che consentono di valutare le attività degli organizzatori di giochi in denaro illegali.
+
+[^110-1]: Nuovo testo giusta l’all. 1 cifra II 90 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111
 
@@ -1803,6 +1818,6 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [CS **10** 250; **2006** 2197 all. n. 132, **2008** 3437 II 54, **2010** 1881 all. 1 n. II 31]
-[^annexu1-lvlu1-2]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)I [15](https://fedlex.data.admin.ch/eli/oc/2006/6)]
+[^annexu1-lvlu1-1]: [CS **10** 250; **2006** 2197 all. n. 132, **2008** 3437 II 54, **2010** 1881 all. 1 cifra II 31]
+[^annexu1-lvlu1-2]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)I [15](https://fedlex.data.admin.ch/eli/oc/2006/6)]
 [^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795).

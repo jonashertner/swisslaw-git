@@ -4,11 +4,11 @@ title: "Lescha federala dals 29 da settember 2017 davart gieus per daners (Lesch
 short: LGD
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/795"
 language: rm
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2017-09-29
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/795/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2018-795-20210101-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/795/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2018-795-20230901-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/795/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha da gieus per daners, LGD)
 
-dals 29 da settember 2017 (versiun dal 1. da schaner 2021)
+dals 29 da settember 2017 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -645,7 +645,7 @@ Sch’il post da revisiun constatescha violaziuns da la lescha u autras irregula
 
 **Elavuraziun da datas**
 
-Per proteger ils giugaders cunter in gieu excessiv sco er per cumbatter la criminalitad e la lavada da daners suspectus dastgan ils casinos ed ils organisaturs da gieus da gronda extensiun elavurar datas da persunas, inclusiv las datas persunalas spezialmain sensiblas.
+Per proteger ils giugaders cunter in gieu excessiv sco er per cumbatter la criminalitad e la lavada da daners suspectus dastgan ils casinos ed ils organisaturs da gieus da gronda extensiun elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas.
 
 ### 2. secziun Manaschi da gieus da casino
 
@@ -801,9 +801,19 @@ La permissiun vegn concedida, sch’il casino cumprova che las permissiuns ch’
 
 <sup>1</sup> Per cumbatter e per persequitar manipulaziuns da concurrenzas da sport collavura l’autoritad interchantunala cun ils organisaturs da scumessas da sport, cun las organisaziuns tenor l’artitgel 64 alinea 2 sco er cun las organisaziuns correspundentas cun sedia a l’exteriur.
 
-<sup>2</sup> En cas d’in suspect suffizient da manipulaziun d’ina concurrenza da sport po ella consegnar als organisaturs ed a las organisaziuns en spezial datas, inclusiv datas persunalas spezialmain sensiblas davart proceduras penalas u administrativas e profils da persunalitad dals scumettents. Sch’i sa mussa ch’il suspect n’è betg motivà, ston las datas vegnir stizzadas immediatamain.
+<sup>2</sup>
+
+En cas d’in suspect suffizient da manipulaziun d’ina concurrenza da sport po ella consegnar als organisaturs ed a las organisaziuns en spezial las suandantas datas persunalas, inclusiv datas persunalas spezialmain sensiblas davart proceduras penalas u administrativas:
+
+- a. datas persunalas dals scumettents;
+- b. datas persunalas che permettan da giuditgar il cumportament da las persunas pertutgadas a chaschun da scumessas da sport.[^65-1]
+
+<sup>2bis</sup> Sch’i sa mussa ch’il suspect n’è betg motivà, ston las datas vegnir stizzadas immediatamain.[^65-2]
 
 <sup>3</sup> Il Cussegl federal regla l’object e las modalitads da la consegna da las datas a questas organisaziuns.
+
+[^65-1]: Versiun tenor la cifra II 90 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^65-2]: Integrà tras la cifra II 90 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
@@ -1224,23 +1234,25 @@ Il Cussegl federal regla ils detagls, en spezial:
 
 **Elavuraziun da datas**
 
-<sup>1</sup> Per ademplir sias incumbensas legalas po la CFBG elavurar datas da persunas, inclusiv las datas da persunas spezialmain sensiblas davart la sanadad, davart mesiras da l’agid social, davart persecuziuns e sancziuns administrativas u penalas sco er profils da persunalitad.
+<sup>1</sup> Per ademplir sias incumbensas legalas po la CFBG elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas davart la sanadad, davart mesiras da l’agid social, davart persecuziuns e sancziuns administrativas u penalas, sco er datas che permettan da giuditgar l’activitad dals organisaturs da purschidas da gieus per daners illegals.[^101-1]
 
 <sup>2</sup>
 
 Il Cussegl federal regla ils detagls da l’elavuraziun da datas, en spezial:
 
-- a. las categorias da persunas, davart las qualas vegnan registradas datas, e per mintgina da questas categorias las categorias da datas da persunas che dastgan vegnir elavuradas;
+- a. las categorias da persunas, davart las qualas vegnan registradas datas, e per mintgina da questas categorias las categorias da datas persunalas che dastgan vegnir elavuradas;
 - b. il catalog da las datas spezialmain sensiblas;
 - c. las autorisaziuns d’access;
 - d. la durada d’archivaziun e la destrucziun da las datas;
 - e. la segirezza da las datas.
 
+[^101-1]: Versiun tenor la cifra II 90 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
 #### Art. 102
 
 **Agid uffizial ed assistenza giudiziala en Svizra**
 
-<sup>1</sup> La CFBG e las autoritads administrativas da la Confederaziun, dals chantuns e da las vischnancas sa sustegnan vicendaivlamain e communitgeschan – sin dumonda – ina a l’autra las infurmaziuns necessarias per ademplir lur incumbensas legalas respectivas, inclusiv las datas spezialmain sensiblas.
+<sup>1</sup> La CFBG e las autoritads administrativas da la Confederaziun, dals chantuns e da las vischnancas sa sustegnan vicendaivlamain e communitgeschan – sin dumonda – ina a l’autra las infurmaziuns necessarias per ademplir lur incumbensas legalas respectivas, inclusiv datas spezialmain sensiblas.
 
 <sup>2</sup> La CFBG e las autoritads da persecuziun penala da la Confederaziun, dals chantuns e da las vischnancas prestan ina a l’autra assistenza giudiziala ed agid uffizial. Sche necessari e pussaivel coordineschan ellas lur investigaziuns.
 
@@ -1254,7 +1266,7 @@ Il Cussegl federal regla ils detagls da l’elavuraziun da datas, en spezial:
 
 **Agid uffizial internaziunal**
 
-<sup>1</sup> La CFBG po supplitgar las autoritads estras cumpetentas da dar infurmaziuns necessarias per ademplir lur incumbensas legalas respectivas, inclusiv las datas spezialmain sensiblas.
+<sup>1</sup> La CFBG po supplitgar las autoritads estras cumpetentas da dar infurmaziuns necessarias per ademplir lur incumbensas legalas respectivas, inclusiv datas spezialmain sensiblas.
 
 <sup>2</sup>
 
@@ -1366,15 +1378,17 @@ Per ademplir sias incumbensas po l’autoritad interchantunala particularmain:
 
 #### Art. 110
 
-**Elavuraziun da datas**
+**Elavuraziun da datas**[^110-1]
 
-Per ademplir sias incumbensas legalas po l’autoritad interchantunala elavurar datas da persunas, inclusiv las datas da persunas spezialmain sensiblas davart la sanadad, davart mesiras da l’agid social, davart persecuziuns e sancziuns administrativas u penalas sco er profils da persunalitad.
+Per ademplir sias incumbensas legalas po l’autoritad interchantunala elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas davart la sanadad, davart mesiras da l’agid social, davart persecuziuns e sancziuns administrativas u penalas, sco er datas che permettan da giuditgar l’activitad dals organisaturs da purschidas da gieus per daners illegals.
+
+[^110-1]: Versiun tenor la cifra II 90 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111
 
 **Agid uffizial en Svizra**
 
-<sup>1</sup> L’autoritad interchantunala e las autoritads administrativas da la Confederaziun, dals chantuns e da las vischnancas sa sustegnan vicendaivlamain e communitgeschan – sin dumonda – ina a l’autra las infurmaziuns necessarias per ademplir lur incumbensas legalas respectivas, inclusiv las datas spezialmain sensiblas.
+<sup>1</sup> L’autoritad interchantunala e las autoritads administrativas da la Confederaziun, dals chantuns e da las vischnancas sa sustegnan vicendaivlamain e communitgeschan – sin dumonda – ina a l’autra las infurmaziuns necessarias per ademplir lur incumbensas legalas respectivas, inclusiv datas spezialmain sensiblas.
 
 <sup>2</sup> L’autoritad interchantunala e las autoritads da persecuziun penala da la Confederaziun, dals chantuns e da las vischnancas prestan ina a l’autra agid uffizial.
 
@@ -1386,11 +1400,11 @@ Per ademplir sias incumbensas legalas po l’autoritad interchantunala elavurar 
 
 **Agid uffizial internaziunal**
 
-<sup>1</sup> L’autoritad interchantunala po supplitgar las autoritads estras cumpetentas da dar infurmaziuns necessarias per ademplir sias incumbensas legalas, inclusiv las datas spezialmain sensiblas.
+<sup>1</sup> L’autoritad interchantunala po supplitgar las autoritads estras cumpetentas da dar infurmaziuns necessarias per ademplir sias incumbensas legalas, inclusiv datas spezialmain sensiblas.
 
 <sup>2</sup>
 
-Ella po transmetter a las autoritads estras cumpetentas per ils gieus per daners infurmaziuns, inclusiv las datas spezialmain sensiblas, sche las suandantas premissas èn ademplidas:
+Ella po transmetter a las autoritads estras cumpetentas per ils gieus per daners infurmaziuns, inclusiv datas spezialmain sensiblas, sche las suandantas premissas èn ademplidas:
 
 - a. l’autoritad estra dovra las infurmaziuns exclusivamain en ina procedura administrativa che stat en connex cun ils gieus per daners;
 - b. ella è liada al secret d’uffizi;
@@ -1722,7 +1736,7 @@ L’aboliziun e la midada d’auters decrets vegnan regladas en l’agiunta.
 
 <sup>3</sup> Ils casinos adattan lur concepts, lur proceduras e lur andaments a questa lescha. Els suttamettan las midadas a la CFBG entaifer maximalmain 1 onn suenter l’entrada en vigur da questa lescha.
 
-[^140-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)cifra I 15]
+[^140-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)cifra I 15]
 
 #### Art. 141
 
@@ -1807,5 +1821,5 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 …[^annexu1-lvlu1-3]
 
 [^annexu1-lvlu1-1]: [BS **10** 255; [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 132, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II 54, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)agiunta 1 cifra II 31]
-[^annexu1-lvlu1-2]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)cifra I 15]
+[^annexu1-lvlu1-2]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)cifra I 15]
 [^annexu1-lvlu1-3]: Las midadas pon vegnir consultadas en la [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795).
