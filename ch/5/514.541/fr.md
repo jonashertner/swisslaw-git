@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (État le 1<sup>er</sup> avril 2023)
+du 2 juillet 2008 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1583,8 +1583,6 @@ Les émoluments jusqu’à concurrence de 1000 francs peuvent être perçus d’
 
 ### (art. 31*c* LArm)
 
-<sup>1</sup>
-
 L’OCA est notamment chargé:
 
 - a. de contrôler l’authenticité des attestations étrangères et de délivrer les attestations officielles (art. 6*b*, al. 2, et art. 9*a*, al. 2, LArm);
@@ -1594,20 +1592,21 @@ L’OCA est notamment chargé:
 - e. de conseiller les autorités d’exécution (art. 31*c*, al. 2, let. a, LArm), l’administration et les citoyens;
 - f. de délivrer des autorisations générales aux compagnies aériennes étrangères (art. 31*c*, al. 2, let. f, LArm);
 - g. de traiter, en qualité d’interlocuteur pour les questions d’ordre technique et opérationnel, les demandes de traçage émises par des autorités suisses ou étrangères (art. 31*c*, al. 2, let. b<sup>bis</sup>, LArm);
-- h.
+- h.[^58-2]
 
-  de gérer les fichiers suivants:
+  de gérer les banques de données suivantes:
 
-  - 1\. les fichiers visés à l’art. 32*a*, al. 1, LArm,
-  - 2\. le fichier DANTRAG (art. 59*a*);
+  - 1\. les banques de données visées à l’art. 32*a*, al. 1, LArm,
+  - 2\. la banque de données DANTRAG (art. 59*a*);
 
 - i. d’attribuer les numéros de marquage aux titulaires d’une patente de commerce d’armes (art. 28*a*);
 - j. de coordonner les activités des autorités cantonales d’exécution et, notamment, de recueillir des informations sur la pratique des autorités cantonales en matière d’autorisation;
 - k. d’édicter des directives et d’élaborer des documents en vue des examens pour la patente de commerce d’armes et pour le permis de port d’armes;
-- l.[^58-2] de mettre à la disposition des autorités cantonales compétentes, sous forme électronique, les formulaires prévus par la loi.
+- l.[^58-3] de mettre à la disposition des autorités cantonales compétentes, sous forme électronique, les formulaires prévus par la loi.
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^58-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^58-2]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^58-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 ## Chapitre 10 Traitement et protection des données
 
@@ -1617,7 +1616,7 @@ L’OCA est notamment chargé:
 
 <sup>1</sup>
 
-Le fichier DARUE contient les données suivantes à propos des titulaires de patentes de commerce d’armes qui pratiquent le commerce d’armes à feu, d’éléments essentiels d’armes à feu et d’accessoires d’armes à feu:
+La banque de données DARUE contient les données suivantes à propos des titulaires de patentes de commerce d’armes qui pratiquent le commerce d’armes à feu, d’éléments essentiels d’armes à feu et d’accessoires d’armes à feu:[^59-2]
 
 - a. leurs nom, prénom, nom de naissance, date de naissance, adresse et nationalité;
 - b. leur numéro de marquage;
@@ -1627,22 +1626,24 @@ Le fichier DARUE contient les données suivantes à propos des titulaires de pat
 <sup>2</sup> Les titulaires de patentes de commerce d’armes qui pratiquent le commerce d’armes à feu, d’éléments essentiels d’armes à feu et d’accessoires d’armes à feu doivent communiquer à l’OCA les données énumérées à l’al. 1, let. a et d.
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^59-2]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59a
 
 **Contenu du DANTRAG**[^59a-1]
 
-Le fichier DANTRAG contient:
+La banque de données DANTRAG contient:[^59a-2]
 
 - a. les données concernant la délivrance et le renouvellement d’autorisations conformément à l’art. 58, let. d;
 - b. les documents que l’OCA, les autorités douanières et les autorités cantonales de police échangent électroniquement;
 - c. les données en relation avec la coordination des activités des autorités cantonales d’exécution.
 
 [^59a-1]: Introduit par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^59a-2]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 60
 
-**Coordonnées et autres données contenues dans les fichiers**[^60-1]
+**Coordonnées et autres données contenues dans les banques de données[^60-2]**[^60-1]
 
 ### (art. 32*b* LArm)
 
@@ -1650,7 +1651,7 @@ Le fichier DANTRAG contient:
 
 Doivent figurer comme coordonnées:
 
-- a.[^60-2] dans le DEWA, le DEWS, le DEBBWA et l’ASWA ainsi que dans les systèmes d’information électroniques relatif à l’acquisition et à la possession d’armes à feu et dans le système d’information harmonisé commun relatif à l’acquisition et à la possession d’armes à feu: le nom, le prénom, le nom de naissance, la date de naissance, l’adresse et la nationalité;
+- a.[^60-3] dans le DEWA, le DEWS, le DEBBWA et l’ASWA ainsi que dans les systèmes d’information électroniques relatif à l’acquisition et à la possession d’armes à feu et dans le système d’information harmonisé commun relatif à l’acquisition et à la possession d’armes à feu: le nom, le prénom, le nom de naissance, la date de naissance, l’adresse et la nationalité;
 - b. dans le DAWA: le nom, le prénom, le nom de naissance, la date de naissance et l’adresse.
 
 <sup>2</sup>
@@ -1661,7 +1662,8 @@ Outre les données requises par l’art. 32*b*, al. 2, LArm, doivent aussi figur
 - b. dans le DAWA: des données sur le fabricant et le calibre, ainsi que la date de la reprise de l’arme à feu par le service compétent de l’administration militaire.
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^60-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^60-2]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^60-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 61
 
@@ -1729,33 +1731,23 @@ En outre, les autorités suivantes peuvent consulter en ligne les données du DE
 
 #### Art. 64
 
-**Communication des données à un État qui n’est lié par aucun des accords d’association à Schengen[^64-1]**
+**Communication des données à un État qui n’est lié par aucun des accords d’association à Schengen**[^64-1]
 
 ### (art. 32*e* LArm)
 
-Il y a protection adéquate de la personne concernée au sens de l’art. 32*e* LArm, quand des garanties suffisantes, résultant notamment de clauses contractuelles et portant sur les données transmises et leur traitement, sont fournies sur les points suivants:
+Il y a protection appropriée de la personne concernée au sens de l’art. 32*e*, al. 3, LArm, lorsque des garanties appropriée respectent les exigences des art. 9 à 12 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^64-2].
 
-- a. les principes de licéité, de bonne foi et d’exactitude sont respectés;
-- b. la finalité de la communication des données est clairement établie;
-- c. les données ne sont traitées que pour la finalité de la communication des données;
-- d. les autorités habilitées à traiter les données transmises sont clairement désignées;
-- e. la transmission des données à un autre État n’assurant pas un niveau de protection adéquat est interdite;
-- f. la conservation et l’effacement des données sont clairement réglées;
-- g. la personne concernée a le droit de faire rectifier des données inexactes;
-- h. la personne concernée est informée du traitement de ses données personnelles et des conditions dans lesquelles il s’inscrit;
-- i. la personne concernée bénéficie d’un droit d’accès à ses données personnelles;
-- j. la sécurité des données est garantie;
-- k. la personne concernée a le droit de saisir en justice une autorité indépendante si elle estime que ses données personnelles ont été traitées de manière illicite.
-
-[^64-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^64-1]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^64-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 65
 
-**Droits des personnes concernées**
+**Droits des personnes concernées**[^65-1]
 
-Les droits des personnes concernées sont régis par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^65-1].
+Les droits des personnes concernées sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^65-2].
 
-[^65-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^65-1]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^65-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 66
 
@@ -1778,17 +1770,17 @@ Les droits des personnes concernées sont régis par les dispositions de la loi 
 
 **Journalisation**[^66a-1]
 
-Le traitement de données dans les fichiers visés à l’art. 32*a*, al. 1, LArm et dans le fichier visé à l’art. 59*a* de la présente ordonnance est journalisé. Les procès-verbaux sont conservés pendant un an.
+Le traitement de données dans les banques de données visées à l’art. 32*a*, al. 1, LArm et dans la banque de données visée à l’art. 59*a* de la présente ordonnance est journalisé. Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.
 
-[^66a-1]: Introduit par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^66a-1]: Introduit par le ch. I de l’O du 21 nov. 2012 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 66b
 
 **Archivage**[^66b-1]
 
-Les données personnelles issues du fichier électronique visé à l’art. 59*a* sont proposées aux Archives fédérales suisses conformément à l’art. 21 de la loi fédérale du 19 juin 1992 sur la protection des données[^66b-2] et à l’art. 6 de la loi fédérale du 26 juin 1998 sur l’archivage[^66b-3].
+Les données personnelles issues de la banque de données visée à l’art. 59*a* sont proposées aux Archives fédérales suisses conformément à l’art. 38 LPD[^66b-2] et à l’art. 6 de la loi fédérale du 26 juin 1998 sur l’archivage[^66b-3].
 
-[^66b-1]: Introduit par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^66b-1]: Introduit par le ch. I de l’O du 21 nov. 2012 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^66b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^66b-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
@@ -1800,23 +1792,24 @@ Les données personnelles issues du fichier électronique visé à l’art. 59*a
 
 La sécurité des données est garantie conformément à:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^66c-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^66c-3].[^66c-4]
+- a.[^66c-2] l’OPDo[^66c-3];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^66c-4].[^66c-5]
 
 <sup>2</sup> L’OCA prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
 
 [^66c-1]: Introduit par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^66c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66c-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-4]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^66c-2]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66c-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^66c-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^66c-5]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 
 **Règlement de traitement**[^66d-1]
 
-Fedpol édicte un règlement relatif au traitement des données dans les fichiers visés à l’art. 32*a*, al. 1, LArm et dans le fichier visé à l’art. 59*a* de la présente ordonnance.
+Fedpol édicte un règlement relatif au traitement des données dans les banques de données visées à l’art. 32*a*, al. 1, LArm et dans la banque de données visée à l’art. 59*a* de la présente ordonnance.
 
-[^66d-1]: Introduit par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^66d-1]: Introduit par le ch. I de l’O du 21 nov. 2012 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 11 Dispositions finales
 
@@ -1852,23 +1845,24 @@ L’autorité compétente du canton de domicile communique à l’OCA, dans le c
 
 - a.[^68-3] le nom, le prénom, le nom de naissance, la date de naissance, l’adresse, la nationalité et le numéro AVS ainsi que, en cas de refus ou de révocation de l’autorisation ou en cas de confiscation de l’arme, les circonstances qui ont justifié cette décision;
 - b. le type, le fabricant, la désignation, le calibre et le numéro de l’arme ainsi que la date de l’acquisition;
-- c. la date de la saisie dans le fichier.[^68-4]
+- c.[^68-4] la date de la saisie dans la banque de données.[^68-5]
 
 <sup>3</sup>
 
 Elle transmet en outre à l’OCA, dans le cadre de la procédure automatisée, les informations visées à l’al. 2, let. a à c, dont elle dispose sur les personnes:
 
 - a. non titulaires d’un permis d’établissement qui ont acquis en Suisse une arme, un élément essentiel d’arme ou un composant d’arme spécialement conçu;
-- b. domiciliées dans un autre État Schengen qui ont acquis en Suisse une arme à feu, un élément essentiel d’arme ou un composant d’arme spécialement conçu.[^68-5]
+- b. domiciliées dans un autre État Schengen qui ont acquis en Suisse une arme à feu, un élément essentiel d’arme ou un composant d’arme spécialement conçu.[^68-6]
 
-<sup>4</sup> La délivrance et la révocation de patentes de commerce d’armes doivent être immédiatement communiquées à l’OCA dans le cadre de la procédure automatisée. Celui-ci informe le Secrétariat d’État à l’économie.[^68-6]
+<sup>4</sup> La délivrance et la révocation de patentes de commerce d’armes doivent être immédiatement communiquées à l’OCA dans le cadre de la procédure automatisée. Celui-ci informe le Secrétariat d’État à l’économie.[^68-7]
 
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^68-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-3]: Nouvelle teneur selon l’annexe ch. II 21 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^68-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^68-4]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^68-5]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^68-6]: Anciennement al. 3.
+[^68-6]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^68-7]: Anciennement al. 3.
 
 #### Art. 69
 
@@ -1880,10 +1874,11 @@ La Base logistique de l’armée communique à l’OCA, dans le cadre de la proc
 
 - a.[^69-2] le nom, le prénom, le nom de naissance, la date de naissance, l’adresse et le numéro AVS de la personne ainsi que, en cas de reprise, de retrait ou de non-remise de l’arme, les circonstances qui ont justifié cette décision;
 - b. le type, le fabricant, la désignation, le calibre et le numéro de l’arme, ainsi que la date de l’aliénation;
-- c. la date de la saisie des données dans le fichier.
+- c.[^69-3] la date de la saisie des données dans la banque de données.
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^69-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^69-3]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 70
 
@@ -1897,7 +1892,7 @@ Dans le cadre de la procédure automatisée, l’OCA communique à la Base logis
 
 - a. le nom, le prénom, le nom de naissance, la date de naissance, l’adresse et le numéro AVS ainsi que, en cas de refus ou de retrait de l’autorisation ou en cas de mise sous séquestre de l’arme, les circonstances qui ont justifié cette décision;
 - b. le type, le fabricant, la désignation, le calibre et le numéro de l’arme ainsi que la date de l’aliénation;
-- c. la date de la saisie dans le fichier.
+- c.[^70-2] la date de la saisie dans la banque de données.
 
 <sup>2</sup>
 
@@ -1905,9 +1900,11 @@ Dans le cadre de la procédure automatisée, il communique à l’autorité comp
 
 - a. le nom, le prénom, le nom de naissance, la date de naissance, l’adresse et le numéro AVS ainsi que, en cas de reprise, de retrait ou de non-remise de l’arme, les circonstances qui ont justifié cette décision;
 - b. le type, le fabricant, la désignation, le calibre et le numéro de l’arme, ainsi que la date de l’aliénation;
-- c. la date de la saisie dans le fichier.
+- c.[^70-3] la date de la saisie dans la banque de données.
 
 [^70-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^70-2]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^70-3]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 71
 
@@ -1960,7 +1957,7 @@ Annexe 1[^t-1]
 
 ## Émoluments
 
-[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 4 juin 2010 ([RO 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)), le ch. II de l’O du 21 nov. 2012 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)), le ch. II al. 1 des O du 3 juin 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)) et du 14 juin 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)) et le ch. II des O du 13 déc. 2019 ([RO 2020 23](https://fedlex.data.admin.ch/eli/oc/2020/8)) et du 24 juin 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 4 juin 2010 ([RO 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)), le ch. II de l’O du 21 nov. 2012 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)), le ch. II al. 1 des O du 3 juin 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)), du 14 juin 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)), le ch. II des O du 13 déc. 2019 ([RO 2020 23](https://fedlex.data.admin.ch/eli/oc/2020/8)) et du 24 juin 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 Les émoluments suivants sont perçus pour le traitement des demandes d’autorisation, de permis et de patente, pour la conservation des armes et des objets dangereux portés de manière abusive mis sous séquestre ainsi que pour les mesures en relation avec la mise sous séquestre, la confiscation définitive et la réalisation d’armes et d’objets dangereux portés de manière abusive:
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 1° aprile 2023)
+del 2 luglio 2008 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1718,33 +1718,23 @@ Inoltre le autorità seguenti possono accedere ai dati della DEBBWA per mezzo di
 
 #### Art. 64
 
-**Comunicazione di dati a uno Stato non vincolato da un accordo di associazione alla normativa di Schengen[^64-1]**
+**Comunicazione di dati a uno Stato non vincolato da un accordo di associazione alla normativa di Schengen**[^64-1]
 
 ### (art. 32*e* LArm)
 
-È data una protezione adeguata della persona interessata ai sensi dell’articolo 32*e* LArm se in relazione ai dati trasmessi e al loro trattamento sono fornite garanzie sufficienti, risultanti segnatamente dalle clausole contrattuali, sui punti seguenti:
+È data un’adeguata protezione dei dati della persona interessata ai sensi dell’articolo 32*e* capoverso 3 LArm, se le garanzie adeguate soddisfano i requisiti degli articoli 9–12 dell’ordinanza del 31 agosto 2022[^64-2] sulla protezione dei dati (OPDa).
 
-- a. i principi della legittimità e della buona fede nel trattamento dei dati, nonché dell’esattezza dei dati sono rispettati;
-- b. lo scopo della comunicazione è chiaramente stabilito;
-- c. i dati sono trattati solo fintanto che necessario allo scopo della comunicazione;
-- d. le autorità autorizzate a trattare i dati sono chiaramente designate;
-- e. la trasmissione dei dati ad altri Stati che non garantiscono un adeguato livel-lo di protezione dei dati è vietata;
-- f. la conservazione e la cancellazione dei dati sono chiaramente disciplinate;
-- g. la persona interessata ha il diritto di rettifica dei dati inesatti;
-- h. la persona interessata è informata sul trattamento dei suoi dati personali e sulle relative condizioni;
-- i. la persona interessata ha il diritto di essere informata sui dati che la riguar-dano;
-- j. la sicurezza dei dati è garantita;
-- k. la persona interessata ha il diritto di fare appello a un’autorità indipendente se ritiene che il trattamento dei suoi dati sia illecito.
-
-[^64-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^64-1]: Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^64-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 65
 
-**Diritti degli interessati**
+**Diritti degli interessati**[^65-1]
 
-I diritti degli interessati sono retti dalle legge federale del 19 giugno 1992[^65-1] sulla protezione dei dati.
+I diritti degli interessati sono retti dalle legge federale del 25 settembre 2020[^65-2] sulla protezione dei dati (LPD).
 
-[^65-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^65-1]: Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^65-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 66
 
@@ -1767,18 +1757,18 @@ I diritti degli interessati sono retti dalle legge federale del 19 giugno 1992[^
 
 **Verbalizzazione**[^66a-1]
 
-Il trattamento dei dati contenuti nelle banche dati di cui all’articolo 32*a* capoverso 1 LArm e all’articolo 59*a* della presente ordinanza è verbalizzato. I verbali sono conservati per un anno.
+Il trattamento dei dati contenuti nelle banche dati di cui all’articolo 32*a* capoverso 1 LArm e all’articolo 59*a* della presente ordinanza è verbalizzato. I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.
 
-[^66a-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^66a-1]: Introdotto dal n. I dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 66b
 
 **Archiviazione**[^66b-1]
 
-L’offerta di dati personali della banca dati di cui all’articolo 59*a* all’Archivio federale è retta dall’articolo 21 della legge federale del 19 giugno 1992[^66b-2] sulla protezione dei dati e dall’articolo 6 della legge del 26 giugno 1998[^66b-3] sull’archiviazione.
+L’offerta di dati personali della banca dati di cui all’articolo 59*a* all’Archivio federale è retta dall’articolo 38 della LPD[^66b-2] e dall’articolo 6 della legge del 26 giugno 1998[^66b-3] sull’archiviazione.
 
-[^66b-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^66b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^66b-1]: Introdotto dal n. I dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^66b-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 66c
@@ -1789,15 +1779,16 @@ L’offerta di dati personali della banca dati di cui all’articolo 59*a* all�
 
 La sicurezza dei dati è retta:
 
-- a. dall’ordinanza del 14 giugno 1993[^66c-2] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^66c-3] sui ciber-rischi.[^66c-4]
+- a.[^66c-2] dall’OPDa[^66c-3];
+- b. dall’ordinanza del 27 maggio 2020[^66c-4] sui ciber-rischi.[^66c-5]
 
 <sup>2</sup> L’Ufficio centrale Armi adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
 
 [^66c-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^66c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66c-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-4]: Nuovo testo giusta l’all. n. 11 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^66c-2]: Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66c-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^66c-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^66c-5]: Nuovo testo giusta l’all. n. 11 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 
@@ -1950,7 +1941,7 @@ Allegato 1[^t-1]
 
 ## Emolumenti
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 4 giu. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)), dal n. II dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)), dai n. II cpv. 1 delle O del 3 giu. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)), del 14 giu. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)), dai n. II delle O del 13 dic. 2019 ([RU 2020 23](https://fedlex.data.admin.ch/eli/oc/2020/8)) e del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 4 giu. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)), dal n. II dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)), dal n. II cpv. 1 delle O del 3 giu. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)), del 14 giu. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)), dal n. II delle O del 13 dic. 2019 ([RU 2020 23](https://fedlex.data.admin.ch/eli/oc/2020/8)) e del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 Per le pratiche relative a domande d’autorizzazione, per la custodia di armi e oggetti pericolosi portati abusivamente che sono stati sequestrati, nonché per le misure relative al sequestro, alla confisca definitiva e alla realizzazione di armi e di oggetti pericolosi portati abusivamente sono riscossi i seguenti emolumenti:
 
@@ -2124,7 +2115,7 @@ II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-…[^annex4-lvlu1-3]
+...[^annex4-lvlu1-3]
 
 [^annex4-lvlu1-1]: [[RU 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549); [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146); [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)n. II, [2671](https://fedlex.data.admin.ch/eli/oc/2002/374); [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 4; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 11]
 [^annex4-lvlu1-2]: [[RU 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54)]

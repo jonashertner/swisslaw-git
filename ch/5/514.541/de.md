@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 1. April 2023)
+vom 2. Juli 2008 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1720,33 +1720,23 @@ Auf die Daten der DEBBWA haben ausserdem folgende Behörden im Abrufverfahren Zu
 
 #### Art. 64
 
-**Bekanntgabe der Daten an einen Staat, der durch keines der Schengen-Assoziierungsabkommen gebunden ist[^64-1]**
+**[Bekanntgabe der Daten an einen Staat, der durch keines der Schengen-Assoziierungsabkommen gebunden ist](https://www.fedlex.admin.ch/eli/cc/2008/767/de)**[^64-1]
 
 ### (Art. 32*e* WG)
 
-Ein angemessener Schutz der betroffenen Person im Sinne von Artikel 32*e* WG liegt vor, wenn hinreichende Garantien sich insbesondere aus entsprechenden Vertragsklauseln ergeben und bezüglich der übermittelten Daten und ihrer Bearbeitung Folgendes gewährleisten:
+Ein geeigneter Datenschutz der betroffenen Person im Sinne von Artikel 32*e* Absatz 3 WG liegt vor, wenn die geeigneten Garantien die Anforderungen der Artikel 9–12 der Datenschutzverordnung vom 31. August 2022[^64-2] (DSV) erfüllen.
 
-- a. Die Grundsätze der Rechtmässigkeit, von Treu und Glauben der Datenbearbeitung sowie der Richtigkeit der Daten werden beachtet.
-- b. Der Zweck der Bekanntgabe ist klar festgelegt.
-- c. Die Daten werden nur so weit bearbeitet, als es für den Zweck der Bekanntgabe erforderlich ist.
-- d. Die zur Bearbeitung ermächtigten Behörden werden klar bezeichnet.
-- e. Die Weitergabe der Daten an andere Staaten, die kein angemessenes Datenschutzniveau gewährleisten, ist verboten.
-- f. Die Aufbewahrung und die Vernichtung der Daten sind klar geregelt.
-- g. Die betroffene Person hat ein Recht auf Berichtigung unrichtiger Daten.
-- h. Die betroffene Person wird über die Bearbeitung ihrer Personendaten sowie deren Rahmenbedingungen informiert.
-- i. Die betroffene Person hat ein Recht auf Auskunft über die sie betreffenden Daten.
-- j. Die Datensicherheit ist gewährleistet.
-- k. Die betroffene Person hat das Recht, eine unabhängige Behörde anzurufen, wenn sie der Auffassung ist, die Bearbeitung ihrer Daten sei unzulässig.
-
-[^64-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^64-1]: Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^64-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 65
 
-**Rechte der Betroffenen**
+**Rechte der Betroffenen**[^65-1]
 
-Die Rechte der Betroffenen richten sich nach dem Bundesgesetz vom 19. Juni 1992[^65-1] über den Datenschutz.
+Die Rechte der Betroffenen richten sich nach dem Datenschutzgesetz vom 25. September 2020[^65-2] (DSG).
 
-[^65-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^65-1]: Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^65-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 66
 
@@ -1769,18 +1759,18 @@ Die Rechte der Betroffenen richten sich nach dem Bundesgesetz vom 19. Juni 1992[
 
 **Protokollierung**[^66a-1]
 
-Die Bearbeitung von Daten in den Datenbanken nach Artikel 32*a* Absatz 1 WG und nach Artikel 59*a* dieser Verordnung wird protokolliert. Die Protokolle werden ein Jahr aufbewahrt.
+Die Bearbeitung von Daten in den Datenbanken nach Artikel 32*a* Absatz 1 WG und nach Artikel 59*a* dieser Verordnung wird protokolliert. Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.
 
-[^66a-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^66a-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 66b
 
 **Archivierung**[^66b-1]
 
-Das Anbieten von Personendaten aus der Datenbank nach Artikel 59*a* an das Bundesarchiv richtet sich nach Artikel 21 des Bundesgesetzes vom 19. Juni 1992[^66b-2] über den Datenschutz und nach Artikel 6 des Archivierungsgesetzes vom 26. Juni 1998[^66b-3].
+Das Anbieten von Personendaten aus der Datenbank nach Artikel 59*a* an das Bundesarchiv richtet sich nach Artikel 38 des DSG[^66b-2] und nach Artikel 6 des Archivierungsgesetzes vom 26. Juni 1998[^66b-3].
 
-[^66b-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^66b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^66b-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66b-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^66b-3]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 66c
@@ -1791,15 +1781,16 @@ Das Anbieten von Personendaten aus der Datenbank nach Artikel 59*a* an das Bunde
 
 Die Gewährleistung der Datensicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^66c-2] zum Bundesgesetz über den Datenschutz;
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^66c-3].[^66c-4]
+- a.[^66c-2] der DSV[^66c-3];
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^66c-4].[^66c-5]
 
 <sup>2</sup> Die Zentralstelle Waffen trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
 
 [^66c-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^66c-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66c-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-4]: Fassung gemäss Anhang Ziff. 11 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^66c-2]: Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66c-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^66c-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^66c-5]: Fassung gemäss Anhang Ziff. 11 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 
