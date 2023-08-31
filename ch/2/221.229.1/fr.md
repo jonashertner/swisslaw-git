@@ -4,20 +4,20 @@ title: "Loi fédérale du 2 avril 1908 sur le contrat d'assurance (Loi sur le co
 short: LCA
 eli: "https://fedlex.data.admin.ch/eli/cc/24/719_735_717"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1908-04-02
 in_force: 1910-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur le contrat d’assurance
 
-(Loi sur le contrat d’assurance, LCA)**[^t-1]**
+(Loi sur le contrat d’assurance, LCA)[^t-1]
 
-du 2 avril 1908 (Etat le 1<sup>er</sup> janvier 2022)
+du 2 avril 1908 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Tit. abrégé et abréviation introduits par le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -31,17 +31,17 @@ décrète:
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 8 de la loi du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 [^ingress-3]: [FF 1904 I 267](https://fedlex.data.admin.ch/eli/fga/1904/1_241_267_)
 
-## Chapitre 1 Dispositions générales****
+## Chapitre 1 Dispositions générales
 
 [^chap1-1]
 
 [^chap1-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Section 1 Conclusion du contrat****
+### Section 1 Conclusion du contrat
 
 [^chap1-sec1-1]
 
-[^chap1-sec1-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); FF **20****1****7** 4767).
+[^chap1-sec1-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Proposition d’assurance
 
@@ -83,7 +83,7 @@ décrète:
 
 <sup>5</sup> Aussi longtemps que des tiers lésés peuvent faire valoir de bonne foi des prétentions à l’encontre de l’entreprise d’assurance malgré une révocation, le preneur d’assurance demeure débiteur de la prime et l’entreprise d’assurance ne peut pas opposer aux tiers lésés la caducité du contrat.
 
-[^2a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 (RO **2****020** 4969; [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^2a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Effets de la révocation
 
@@ -99,7 +99,7 @@ décrète:
 
 [^2b-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Section 2 Obligations d’information****
+### Section 2 Obligations d’information
 
 [^chap1-sec2-1]
 
@@ -125,23 +125,24 @@ L’entreprise d’assurance doit, avant la conclusion du contrat d’assurance,
 - d. la durée et la fin du contrat d’assurance;
 - e. les méthodes, les principes et les bases de calcul régissant la distribution des excédents et la participation aux excédents;
 - f.[^3-4] les valeurs de rachat et de transformation ainsi que les sortes principales de frais liés à une assurance sur la vie susceptible de rachat en cas de rachat;
-- g. le traitement des données personnelles, y compris le but et le genre de banque de données, ainsi que sur les destinataires et la conservation des données;
-- h.[^3-5] le droit de révocation visé à l’art. 2*a* ainsi que la forme et le délai de la révocation;
-- i.[^3-6] le délai de remise de l’avis de sinistre au sens de l’art. 38, al. 1;
-- j.[^3-7] la validité dans le temps de la couverture d’assurance, en particulier lorsque le sinistre se produit pendant la durée du contrat mais que le dommage n’intervient qu’après la fin du contrat.
+- g.[^3-5] le traitement des données personnelles, y compris le but et le genre de banque de données, ainsi que sur les destinataires et la conservation des données;
+- h.[^3-6] le droit de révocation visé à l’art. 2*a* ainsi que la forme et le délai de la révocation;
+- i.[^3-7] le délai de remise de l’avis de sinistre au sens de l’art. 38, al. 1;
+- j.[^3-8] la validité dans le temps de la couverture d’assurance, en particulier lorsque le sinistre se produit pendant la durée du contrat mais que le dommage n’intervient qu’après la fin du contrat.
 
 <sup>2</sup> Ces renseignements sont à fournir au preneur d’assurance de sorte qu’il puisse en avoir connaissance lorsqu’il fait la proposition de contrat d’assurance ou qu’il l’accepte. Dans tous les cas, il doit être à ce moment-là en possession des conditions générales d’assurance et de l’information au sens de l’al. 1, let. g.
 
-<sup>3</sup> Si un employeur conclut une assurance collective de personnes afin de protéger ses employés, il est tenu de renseigner ces derniers, par écrit ou par tout autre moyen permettant d’en établir la preuve par un texte, sur les principaux éléments du contrat, sur ses modifications et sur sa dissolution. L’entreprise d’assurance met à la disposition de l’employeur tous les documents nécessaires à cette fin.[^3-8]
+<sup>3</sup> Si un employeur conclut une assurance collective de personnes afin de protéger ses employés, il est tenu de renseigner ces derniers, par écrit ou par tout autre moyen permettant d’en établir la preuve par un texte, sur les principaux éléments du contrat, sur ses modifications et sur sa dissolution. L’entreprise d’assurance met à la disposition de l’employeur tous les documents nécessaires à cette fin.[^3-9]
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^3-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3-5]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-5]: La mod. selon l’annexe 1 ch. II 20 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023, ne concerne que les textes allemand et italien ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^3-6]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-7]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3-8]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-8]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-9]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Violation de l’obligation d’information
 
@@ -208,7 +209,7 @@ L’entreprise d’assurance doit, avant la conclusion du contrat d’assurance,
 
 [^6-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^6-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^6-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 (RO **20****20** 4969; [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^6-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^6-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### b. Assurance collective
@@ -233,7 +234,7 @@ Malgré la réticence (art. 6), l’entreprise d’assurance ne pourra pas rési
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^8-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### Section 3 Contenu et force obligatoire du contrat****
+### Section 3 Contenu et force obligatoire du contrat
 
 [^chap1-sec3-1]
 
@@ -338,7 +339,7 @@ Lorsqu’une des personnes mentionnées à l’art. 14 de la présente loi a pro
 
 [^1718-1]: Abrogés par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Section 4 Prime****
+### Section 4 Prime
 
 [^chap1-sec4-1]
 
@@ -348,7 +349,7 @@ Lorsqu’une des personnes mentionnées à l’art. 14 de la présente loi a pro
 
 [^chap1-sec4-lvlu1-1]
 
-[^chap1-sec4-lvlu1-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); FF **201****7** 4767).
+[^chap1-sec4-lvlu1-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 19
 
@@ -419,7 +420,7 @@ Lorsqu’une des personnes mentionnées à l’art. 14 de la présente loi a pro
 
 [^2527-1]: Abrogés par le ch. I de la LF du 17 déc. 2004, avec effet au 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### Section 5 Modification du contrat****
+### Section 5 Modification du contrat
 
 [^chap1-sec5-1]
 
@@ -506,7 +507,7 @@ Sauf disposition contraire de la présente loi, l’entreprise d’assurance ré
 
 Si, pendant la durée du contrat, les conditions générales d’assurance des contrats de même genre sont modifiées, le preneur d’assurance peut exiger que le contrat soit continué aux conditions nouvelles. Mais s’il est exigé des prestations plus élevées pour l’assurance aux nouvelles conditions, le preneur doit fournir à l’entreprise d’assurance le juste équivalent.
 
-### Section 6 Fin du contrat****
+### Section 6 Fin du contrat
 
 [^chap1-sec6-1]
 
@@ -556,7 +557,7 @@ Est considéré comme juste motif:
 
 <sup>2</sup> En cas de changement d’assurance, la poursuite de l’assurance par une autre entreprise d’assurance est réservée lorsqu’il s’agit des obligations de prestations visées à l’al. 1, concernant leur durée et leur étendue.
 
-[^35c-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); FF **2****017** 4767).
+[^35c-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Retrait de l’agrément: effets de droit privé
 
@@ -594,7 +595,7 @@ Est considéré comme juste motif:
 [^37-2]: Phrase introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^37-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Section 7 Survenance du sinistre****
+### Section 7 Survenance du sinistre
 
 [^chap1-sec7-1]
 
@@ -736,7 +737,7 @@ Si l’ayant droit ou son représentant, dans le but d’induire l’entreprise 
 [^42-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^42-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### Section 8 Autres dispositions****
+### Section 8 Autres dispositions
 
 [^chap1-sec8-1]
 
@@ -807,7 +808,7 @@ Lorsqu’une sanction a été stipulée pour le cas où le preneur d’assurance
 <sup>2</sup> Les droits et les prestations découlant de l’assurance de biens insaisissables (art. 92 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^46a-2]) ne tombent pas dans la masse en faillite.
 
 [^46a-1]: Introduit par l’annexe ch. 3 de la loi du 23 juin 1978 sur la surveillance des assurances ([RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [FF 1976 II 851](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^46a-2]: RS **28****1****.****1**
+[^46a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 ### Assurance multiple
 
@@ -866,17 +867,17 @@ Les entreprises d’assurances privées soumises à la LSA[^47a-2] ne sont habil
 [^47a-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328).Cet art. est actuellement abrogé. Depuis le 1<sup>er</sup> janv. 2016 voir art. 2 al. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
 [^47a-5]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
-## Chapitre 2 Dispositions spéciales****
+## Chapitre 2 Dispositions spéciales
 
 [^chap2-1]
 
 [^chap2-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Section 1 Assurance de choses****
+### Section 1 Assurance de choses
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); FF **20****17** 4767).
+[^chap2-sec1-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 48 et 49
 
@@ -974,7 +975,7 @@ En cas de saisie ou de séquestre d’une chose assurée, l’entreprise d’ass
 
 [^58-1]: Ex-art. 67
 
-### Section 2 Assurance responsabilité civile****
+### Section 2 Assurance responsabilité civile
 
 [^chap2-sec2-1]
 
@@ -1017,7 +1018,7 @@ En cas de saisie ou de séquestre d’une chose assurée, l’entreprise d’ass
 
 [^6172-1]: Abrogés par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Section 3 Assurance sur la vie****
+### Section 3 Assurance sur la vie
 
 [^chap2-sec3-1]
 
@@ -1268,7 +1269,7 @@ Si l’ayant droit a donné en gage à l’entreprise d’assurance le droit qui
 
 [^95-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Section 4**** Assurance-accidents et assurance-maladie
+### Section 4 Assurance-accidents et assurance-maladie
 
 [^chap2-sec4-1]
 
@@ -1288,7 +1289,7 @@ L’assurance collective contre les accidents ou la maladie donne au bénéficia
 
 <sup>2</sup> Il peut être convenu que des rentes seront payées dans l’intervalle et déduites de l’indemnité.
 
-### Section 5 Coordination****
+### Section 5 Coordination
 
 [^chap2-sec5-1]
 
@@ -1324,7 +1325,7 @@ Dans l’assurance de sommes, les droits que l’ayant droit aurait contre des t
 
 [^96-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-## Chapitre 3 Dispositions impératives****
+## Chapitre 3 Dispositions impératives
 
 [^chap3-1]
 
@@ -1386,7 +1387,7 @@ Par preneurs d’assurance professionnels, on entend:
 <sup>4</sup> L’assurance-voyage n’est pas considérée comme une assurance-transport au sens de l’al. 1.
 
 [^98a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^98a-2]: RS **95****2****.****0**
+[^98a-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^98a-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^98a-4]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
@@ -1396,7 +1397,7 @@ Par preneurs d’assurance professionnels, on entend:
 
 Le Conseil fédéral peut par ordonnance disposer que, dans la mesure où la nature même ou les conditions spéciales de certaines combinaisons d’assurances l’exigent, les restrictions prévues à l’art. 98 de la présente loi, relatives à la liberté des conventions, ne sont pas applicables à ces combinaisons.
 
-## Chapitre 4 Dispositions finales****
+## Chapitre 4 Dispositions finales
 
 [^chap4-1]
 

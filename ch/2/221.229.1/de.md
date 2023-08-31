@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 2. April 1908 über den Versicherungsvertrag (Versicher
 short: VVG
 eli: "https://fedlex.data.admin.ch/eli/cc/24/719_735_717"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1908-04-02
 in_force: 1910-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20220101/de/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20230901/de/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über den Versicherungsvertrag
 
-(Versicherungsvertragsgesetz, VVG)**[^t-1]**
+(Versicherungsvertragsgesetz, VVG)[^t-1]
 
-vom 2. April 1908 (Stand am 1. Januar 2022)
+vom 2. April 1908 (Stand am 1. September 2023)
 
 [^t-1]: Kurztit. und Abkürzung eingefügt durch Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -31,13 +31,13 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Anhang Ziff. 8 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 [^ingress-3]: [BBl 1904 I 241](https://fedlex.data.admin.ch/eli/fga/1904/1_241_267_)
 
-## 1. Kapitel: Allgemeine Bestimmungen****
+## 1. Kapitel: Allgemeine Bestimmungen
 
 [^chap1-1]
 
 [^chap1-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### 1. Abschnitt: Abschluss des Vertrags****
+### 1. Abschnitt: Abschluss des Vertrags
 
 [^chap1-sec1-1]
 
@@ -99,7 +99,7 @@ beschliesst:
 
 [^2b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### 2. Abschnitt: Aufklärungspflichten****
+### 2. Abschnitt: Aufklärungspflichten
 
 [^chap1-sec2-1]
 
@@ -121,23 +121,24 @@ Das Versicherungsunternehmen muss den Versicherungsnehmer vor Abschluss des Vers
 - d. Laufzeit und Beendigung des Versicherungsvertrages;
 - e. die für die Überschussermittlung und die Überschussbeteiligung geltenden Berechnungsgrundlagen und Verteilungsgrundsätze und -methoden;
 - f.[^3-4] die Rückkaufs- und Umwandlungswerte sowie die mit einer rückkaufsfähigen Lebensversicherung im Falle des Rückkaufs verbundenen wesentlichen Kostenarten;
-- g. die Bearbeitung der Personendaten einschliesslich Zweck und Art der Datensammlung sowie Empfänger und Aufbewahrung der Daten;
-- h.[^3-5] das Widerrufsrecht nach Artikel 2*a* sowie über Form und Frist des Widerrufs;
-- i.[^3-6] eine Frist für das Einreichen der Schadenanzeige nach Artikel 38 Absatz 1;
-- j.[^3-7] die zeitliche Geltung des Versicherungsschutzes insbesondere in den Fällen, in denen das befürchtete Ereignis während der Laufzeit des Vertrags, der daraus entstehende Schaden aber erst nach Beendigung des Vertrags eintritt.
+- g.[^3-5] die Bearbeitung der Personendaten einschliesslich Zweck und Art der Datenbank sowie Empfänger und Aufbewahrung der Daten;
+- h.[^3-6] das Widerrufsrecht nach Artikel 2*a* sowie über Form und Frist des Widerrufs;
+- i.[^3-7] eine Frist für das Einreichen der Schadenanzeige nach Artikel 38 Absatz 1;
+- j.[^3-8] die zeitliche Geltung des Versicherungsschutzes insbesondere in den Fällen, in denen das befürchtete Ereignis während der Laufzeit des Vertrags, der daraus entstehende Schaden aber erst nach Beendigung des Vertrags eintritt.
 
 <sup>2</sup> Diese Angaben sind dem Versicherungsnehmer so zu übergeben, dass er sie kennen kann, wenn er den Versicherungsvertrag beantragt oder annimmt. In jedem Fall muss er zu diesem Zeitpunkt im Besitz der Allgemeinen Versicherungsbedingungen und der Information nach Absatz 1 Buchstabe g sein.
 
-<sup>3</sup> Schliesst ein Arbeitgeber zum Schutz seiner Arbeitnehmer eine kollektive Personenversicherung ab, so ist er verpflichtet, die Arbeitnehmer über den wesentlichen Inhalt des Vertrags sowie dessen Änderungen und Auflösung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu informieren. Das Versicherungsunternehmen stellt dem Arbeitgeber die dazu erforderlichen Unterlagen zur Verfügung.[^3-8]
+<sup>3</sup> Schliesst ein Arbeitgeber zum Schutz seiner Arbeitnehmer eine kollektive Personenversicherung ab, so ist er verpflichtet, die Arbeitnehmer über den wesentlichen Inhalt des Vertrags sowie dessen Änderungen und Auflösung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu informieren. Das Versicherungsunternehmen stellt dem Arbeitgeber die dazu erforderlichen Unterlagen zur Verfügung.[^3-9]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^3-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3-5]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-5]: Fassung gemäss Anhang 1 Ziff. II 20 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^3-6]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3-8]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-8]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-9]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Verletzung der Informationspflicht
 
@@ -229,7 +230,7 @@ Trotz der Anzeigepflichtverletzung (Art. 6) kann das Versicherungsunternehmen de
 [^8-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^8-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### 3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags****
+### 3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags
 
 [^chap1-sec3-1]
 
@@ -277,7 +278,7 @@ Trotz der Anzeigepflichtverletzung (Art. 6) kann das Versicherungsunternehmen de
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### b. ...
+### b. …
 
 #### Art. 12
 
@@ -289,7 +290,7 @@ Trotz der Anzeigepflichtverletzung (Art. 6) kann das Versicherungsunternehmen de
 
 #### Art. 13
 
-<sup>1</sup> ...[^13-1]
+<sup>1</sup> …[^13-1]
 
 <sup>2</sup> Für die Kraftloserklärung von Policen kommen die für die Kraftloserklärung von Inhaberpapieren geltenden Bestimmungen des Bundesgesetzes vom 14. Juni 1881[^13-2] über das Obligationenrecht sinngemäss zur Anwendung, mit der Abänderung, dass die Anmeldungsfrist höchstens ein Jahr beträgt.
 
@@ -334,7 +335,7 @@ Hat eine der in Artikel 14 dieses Gesetzes genannten Personen gemäss einem Gebo
 
 [^1718-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### 4. Abschnitt: Prämie****
+### 4. Abschnitt: Prämie
 
 [^chap1-sec4-1]
 
@@ -350,7 +351,7 @@ Hat eine der in Artikel 14 dieses Gesetzes genannten Personen gemäss einem Gebo
 
 <sup>1</sup> Wenn der Vertrag nicht anders bestimmt, ist die Prämie für die erste Versicherungsperiode mit dem Abschlusse der Versicherung fällig. Unter Versicherungsperiode wird der Zeitabschnitt, nach dem die Prämieneinheit berechnet wird, verstanden. Die Versicherungsperiode umfasst im Zweifel den Zeitraum eines Jahres.
 
-<sup>2</sup> ...[^19-1]
+<sup>2</sup> …[^19-1]
 
 <sup>3</sup> Die folgenden Prämien sind im Zweifel jeweilen mit Beginn einer neuen Versicherungsperiode fällig.
 
@@ -416,7 +417,7 @@ Hat eine der in Artikel 14 dieses Gesetzes genannten Personen gemäss einem Gebo
 
 [^2527-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### 5. Abschnitt: Änderung des Vertrags****
+### 5. Abschnitt: Änderung des Vertrags
 
 [^chap1-sec5-1]
 
@@ -503,7 +504,7 @@ Gegenüber dem Versicherungsnehmer hat das Versicherungsunternehmen für das Ver
 
 Werden im Laufe der Versicherung die allgemeinen Versicherungsbedingungen derselben Versicherungsart abgeändert, so kann der Versicherungsnehmer verlangen, dass der Vertrag zu den neuen Bedingungen fortgesetzt werde. Er muss jedoch, wenn für die Versicherung zu den neuen Bedingungen eine höhere Gegenleistung erforderlich ist, das entsprechende Entgelt gewähren.
 
-### 6. Abschnitt: Beendigung des Vertrags****
+### 6. Abschnitt: Beendigung des Vertrags
 
 [^chap1-sec6-1]
 
@@ -524,7 +525,7 @@ Werden im Laufe der Versicherung die allgemeinen Versicherungsbedingungen dersel
 <sup>4</sup> In der Zusatzversicherung zur sozialen Krankenversicherung (Art. 2 Abs. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^35a-2]) stehen das ordentliche Kündigungsrecht und das Kündigungsrecht im Schadenfall (Art. 42 Abs. 1 des vorliegenden Gesetzes) nur dem Versicherungsnehmer zu. In der kollektiven Taggeldversicherung stehen diese Rechte beiden Parteien zu.
 
 [^35a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^35a-2]: SR **832****.****12**
+[^35a-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 ### Ausserordentliche Kündigung
 
@@ -565,7 +566,7 @@ Als wichtiger Grund gilt namentlich:
 
 <sup>1</sup> Der Versicherungsnehmer ist berechtigt, den Vertrag jederzeit zu kündigen, wenn das am Vertrag beteiligte Versicherungsunternehmen nicht über die nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^36-1] (VAG) notwendige Bewilligung zur Versicherungstätigkeit verfügt oder ihm diese entzogen worden ist.[^36-2]
 
-<sup>2</sup> ...[^36-3]
+<sup>2</sup> …[^36-3]
 
 <sup>3</sup> Tritt der Versicherungsnehmer von einem Lebensversicherungsvertrage zurück, so kann er das Deckungskapital zurückfordern.
 
@@ -591,7 +592,7 @@ Als wichtiger Grund gilt namentlich:
 [^37-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^37-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### 7. Abschnitt: Eintritt des befürchteten Ereignisses****
+### 7. Abschnitt: Eintritt des befürchteten Ereignisses
 
 [^chap1-sec7-1]
 
@@ -733,7 +734,7 @@ Hat der Anspruchsberechtigte oder sein Vertreter Tatsachen, welche die Leistungs
 [^42-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^42-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### 8. Abschnitt: Weitere Bestimmungen****
+### 8. Abschnitt: Weitere Bestimmungen
 
 [^chap1-sec8-1]
 
@@ -863,13 +864,13 @@ Dem VAG[^47a-2] unterstehende private Versicherungsunternehmen sind nur berechti
 [^47a-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328). Dieser Art. ist heute aufgehoben. Siehe seit dem 1. Jan. 2016: Art. 2 Abs. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
 [^47a-5]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
-## 2. Kapitel: Besondere Bestimmungen****
+## 2. Kapitel: Besondere Bestimmungen
 
 [^chap2-1]
 
 [^chap2-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### 1. Abschnitt: Sachversicherung****
+### 1. Abschnitt: Sachversicherung
 
 [^chap2-sec1-1]
 
@@ -887,7 +888,7 @@ Dem VAG[^47a-2] unterstehende private Versicherungsunternehmen sind nur berechti
 
 <sup>1</sup> Hat sich im Laufe der Versicherung der Versicherungswert wesentlich vermindert, so kann sowohl das Versicherungsunternehmen wie der Versicherungsnehmer die verhältnismässige Herabsetzung der Versicherungssumme verlangen.
 
-<sup>2</sup> ...[^50-1]
+<sup>2</sup> …[^50-1]
 
 [^50-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
@@ -971,7 +972,7 @@ Ist eine versicherte Sache auf dem Wege der Schuldbetreibung gepfändet oder mit
 
 [^58-1]: Ursprünglich: Art. 67
 
-### 2. Abschnitt: Haftpflichtversicherung****
+### 2. Abschnitt: Haftpflichtversicherung
 
 [^chap2-sec2-1]
 
@@ -1014,7 +1015,7 @@ Ist eine versicherte Sache auf dem Wege der Schuldbetreibung gepfändet oder mit
 
 [^6172-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### 3. Abschnitt: Lebensversicherung****
+### 3. Abschnitt: Lebensversicherung
 
 [^chap2-sec3-1]
 
@@ -1265,7 +1266,7 @@ Hat der Anspruchsberechtigte den Anspruch aus dem Lebensversicherungsvertrag dem
 
 [^95-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### 4. Abschnitt:**** Unfall- und Krankenversicherung
+### 4. Abschnitt: Unfall- und Krankenversicherung
 
 [^chap2-sec4-1]
 
@@ -1285,7 +1286,7 @@ Aus der kollektiven Unfall- oder Krankenversicherung steht demjenigen, zu dessen
 
 <sup>2</sup> Der Vertrag kann bestimmen, dass Zwischenrenten gewährt und von der Entschädigung in Abzug gebracht werden.
 
-### 5. Abschnitt: Koordination****
+### 5. Abschnitt: Koordination
 
 [^chap2-sec5-1]
 
@@ -1321,7 +1322,7 @@ In der Summenversicherung gehen die Ansprüche, die dem Anspruchsberechtigten in
 
 [^96-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-## 3. Kapitel: Zwingende Bestimmungen****
+## 3. Kapitel: Zwingende Bestimmungen
 
 [^chap3-1]
 
@@ -1393,7 +1394,7 @@ Als professionelle Versicherungsnehmer gelten:
 
 Der Bundesrat kann durch Verordnung verfügen, dass die in Artikel 98 dieses Gesetzes festgestellten Beschränkungen der Vertragsfreiheit bei einzelnen Versicherungsarten soweit ausser Kraft treten, als die Eigenart oder die besondern Verhältnisse einer Versicherungsart es erfordern.
 
-## 4. Kapitel: Schlussbestimmungen****
+## 4. Kapitel: Schlussbestimmungen
 
 [^chap4-1]
 
@@ -1447,7 +1448,7 @@ Dieses Gesetz findet keine Anwendung:
 
 #### Art. 103
 
-<sup>1</sup> ...[^103-1]
+<sup>1</sup> …[^103-1]
 
 <sup>2</sup> Indessen werden durch dieses Gesetz die kantonalen Vorschriften über Versicherungsverhältnisse, die bei den von den Kantonen organisierten Versicherungsanstalten entstehen, nicht berührt.
 
