@@ -4,11 +4,11 @@ title: Ordinanza del 10 novembre 2021 sul sistema di ingressi/uscite (OEES)
 short: OEES
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: it
-version: 2022-05-01
+version: 2023-09-01
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20220501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20220501/it"
 
 (OEES)
 
-del 10 novembre 2021 (Stato 1° maggio 2022)
+del 10 novembre 2021 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -288,11 +288,12 @@ La SEM rettifica, integra o cancella, su richiesta, dati di cittadini di Stati t
 
 **Diritto degli interessati ad accedere ai dati che li riguardano**
 
-<sup>1</sup> Il diritto di accesso è retto dalla legge federale del 19 giugno 1992[^18-1] sulla protezione dei dati.
+<sup>1</sup> Il diritto di accesso è retto dalla legge federale del 25 settembre 2020[^18-1] sulla protezione dei dati.[^18-2]
 
 <sup>2</sup> La SEM tratta le richieste di accesso.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-2]: Nuovo testo giusta l’all. 2 n. II 5 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -318,12 +319,13 @@ La SEM rettifica, integra o cancella, su richiesta, dati di cittadini di Stati t
 
 La sicurezza dei dati per le autorità federali è inoltre retta:
 
-- a. dall’ordinanza del 14 giugno 1993[^20-2] relativa alla legge federale sulla protezione dei dati;
-- b. dell’ordinanza del 27 maggio 2020[^20-3] sui ciber-rischi.
+- a.[^20-2] dall’ordinanza del 31 agosto 2022[^20-3] sulla protezione dei dati;
+- b. dell’ordinanza del 27 maggio 2020[^20-4] sui ciber-rischi.
 
 [^20-1]: Cfr. nota a piè di pagina relativa all’art. 1 lett. a.
-[^20-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^20-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^20-2]: Nuovo testo giusta l’all. 2 n. II 5 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^20-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 21
 

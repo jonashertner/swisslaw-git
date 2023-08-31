@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (
 short: EESV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: de
-version: 2022-05-01
+version: 2023-09-01
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20220501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20220501/de"
 
 (EESV)
 
-vom 10. November 2021 (Stand am 1. Mai 2022)
+vom 10. November 2021 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -288,11 +288,12 @@ Das SEM berichtigt, ergänzt oder löscht auf Gesuch hin Daten von Drittstaatsan
 
 **Recht der betroffenen Personen auf Auskunft über die Daten**
 
-<sup>1</sup> Das Auskunftsrecht richtet sich nach dem Bundesgesetz vom 19. Juni 1992[^18-1] über den Datenschutz.
+<sup>1</sup> Das Auskunftsrecht richtet sich nach dem Datenschutzgesetz vom 25. September 2020[^18-1].[^18-2]
 
 <sup>2</sup> Das SEM bearbeitet die Auskunftsgesuche.
 
 [^18-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-2]: Fassung gemäss Anhang 2 Ziff. II 5 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -318,12 +319,13 @@ Das SEM berichtigt, ergänzt oder löscht auf Gesuch hin Daten von Drittstaatsan
 
 Die Datensicherheit für die Bundesbehörden richtet sich zudem nach:
 
-- a. der Verordnung vom 14. Juni 1993[^20-2] zum Bundesgesetz über den Datenschutz;
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^20-3].
+- a.[^20-2] der Datenschutzverordnung vom 31. August 2022[^20-3];
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^20-4].
 
 [^20-1]: Siehe Fussnote zu Art. 1 Bst. a.
-[^20-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^20-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^20-2]: Fassung gemäss Anhang 2 Ziff. II 5 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^20-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 21
 

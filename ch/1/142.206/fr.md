@@ -4,11 +4,11 @@ title: Ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie (
 short: OEES
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: fr
-version: 2022-05-01
+version: 2023-09-01
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2021-734-20220501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20220501/fr"
 
 (OEES)
 
-du 10 novembre 2021 (Etat le 1<sup>er</sup> mai 2022)
+du 10 novembre 2021 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -288,11 +288,12 @@ Le SEM rectifie, complète ou efface, sur demande, les données des ressortissan
 
 **Droit de la personne à accéder aux données qui la concernent**
 
-<sup>1</sup> Le droit d’accès est soumis aux dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^18-1].
+<sup>1</sup> Le droit d’accès est soumis aux dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^18-1].[^18-2]
 
 <sup>2</sup> Le SEM traite les demandes d’accès.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-2]: Nouvelle teneur selon l’annexe 2 ch. II 5 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -318,12 +319,13 @@ Le SEM rectifie, complète ou efface, sur demande, les données des ressortissan
 
 S’agissant des autorités fédérales, la sécurité des données est régie en outre par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^20-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^20-3].
+- a.[^20-2] l’ordonnance du 31 août 2022 sur la protection des données[^20-3];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^20-4].
 
 [^20-1]: Cf. note de bas de page relative à l’art. 1, let. a.
-[^20-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^20-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^20-2]: Nouvelle teneur selon l’annexe 2 ch. II 5 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^20-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 21
 
