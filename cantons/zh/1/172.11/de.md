@@ -4,11 +4,11 @@ number: "172.11"
 title: Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung (VOG RR)
 short: VOG RR
 language: de
-version: "2023-05-01"
-nachtrag: "121"
-valid_until: 2023-09-01
+version: "2023-09-01"
+nachtrag: "122"
+valid_until: 2024-01-01
 adopted: 2007-07-18
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-122.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 23 - 121
+1.10. 23 - 122
 
 <sup>2</sup> Der Legislaturbericht zeigt auf:
 
@@ -137,9 +137,7 @@ beschliesst:
 
 - a. die für den Geschäftsbericht erforderlichen Angaben,
 
-- b. Angaben über das Erreichen der Legislaturziele und die Umsetzung der Massnahmen,
-
-- c. Angaben gemäss §§ 13–15 über das Staatsbeitrags- und Beteiligungscontrolling, das Risikocontrolling und das Vermögenscontrolling,
+- b. Angaben über das Erreichen der Legislaturziele und die Umsetzung der Massnahmen, c.<sup>65</sup> Angaben gemäss §§ 13, 13 a und 15 über das Staatsbeitrags-, das Beteiligungs- und das Vermögenscontrolling,
 
 - d. die zur Einhaltung des Budgets des laufenden Jahres erforderlichen Korrekturmassnahmen.
 
@@ -153,7 +151,7 @@ beschliesst:
 
 **3**
 
-- 1\. 7. 23 - 121
+1.10. 23 - 122
 
 <sup>3</sup> Die Staatskanzlei stellt Antrag. Sie stützt sich hierfür auf die jährliche Berichterstattung der Direktionen und stellt Querbezüge her.
 
@@ -191,15 +189,33 @@ Die Direktionen bereiten die Planungen ihrer Politikbereiche vor.
 
 <sup>5</sup> Der Wert einer Beteiligung gemäss Abs. 2 lit. b ist der Anschaffungswert abzüglich Abschreibungen oder der Verkehrswert, falls dieser tiefer ist.
 
-<sup>6</sup> Bei der Bezeichnung der Vertretungen in den Institutionen ist darauf zu achten, dass keine Interessenkonflikte mit anderen Funktionen der Personen, welche die Vertretungen wahrnehmen, entstehen können. § 14.<sup>53</sup> Die Direktionen melden der Finanzverwaltung die finanziellen Risiken, die sich aus Beteiligungen, staatlichen Leistungsverpflichtungen und Garantien sowie der Erfüllung der staatlichen Aufgaben ergeben. Die Finanzverwaltung stellt die Risiken im Geschäftsbericht dar.
+<sup>6</sup> Bei der Bezeichnung der Vertretungen in den Institutionen ist darauf zu achten, dass keine Interessenkonflikte mit anderen Funktionen der Personen, welche die Vertretungen wahrnehmen, entstehen können. § 14.<sup>65</sup> <sup>1</sup> Das integrale Risikomanagement umfasst folgende Aufgaben:
+
+**c. Integrales Risikomanagement**
+
+- a. Es erfasst und steuert Risiken, die eine ausserordentliche Lage gemäss § 2 des Bevölkerungsschutzgesetzes vom 4. Februar 2008 (BSG)[^12-1] auslösen können, und die weiteren vom Regierungsrat als wesentlich erachteten Risiken.
+
+- b. Es zeigt den Partnerorganisationen gemäss § 3 BSG, den Behörden, Organisationen der Rechtspflege und bedeutenden Beteiligungen des Kantons auf, für welche wesentlichen Risiken die Sicherung ihrer Handlungsfähigkeit erforderlich ist.
+
+<sup>2</sup> Der Regierungsrat legt Grundsätze für die Vorgaben des integralen Risikomanagements fest. Er nimmt jährlich den Risikobericht zur Kenntnis und beschliesst den Plan Risikosteuerung.
+
+<sup>3</sup> Die Direktionen und die Staatskanzlei führen ein internes Risiko- und Kontinuitätsmanagement. Sie beachten dabei die Vorgaben des Regierungsrates und der Kantonspolizei und stellen dieser gestützt darauf die für den Risikobericht und den Plan Risikosteuerung erforderlichen Angaben zu.
+
+<sup>4</sup> Die Kantonspolizei ist unter Beizug der Direktionen und der Staatskanzlei für das integrale Risikomanagement zuständig. Sie erstellt jährlich einen Risikobericht sowie einen Plan Risikosteuerung und lädt die Staatskanzlei ein, bei der Konferenz der Generalsekretärinnen und -sekretäre eine Stellungnahme einzuholen. Sie übermittelt den bereinigten Risikobericht und den Plan Risikosteuerung der Sicherheitsdirektion zur Antragstellung an den Regierungsrat. Sie fasst den Inhalt des Risikoberichts für den Geschäftsbericht des Regierungsrates zusammen.
+
+<sup>5</sup> Die Direktionen und die Staatskanzlei melden der Finanzverwaltung zuhanden des Geschäftsberichts die finanziellen Risiken, die sich aus Beteiligungen, Leistungsverpflichtungen, Garantien und der Erfüllung der staatlichen Aufgaben ergeben. Die Angaben richten sich nach dem jeweils massgebenden Rechnungslegungsstandard.
+
+[^12-1]: LS 520.
 
 #### § 15
-
-**c. Ausweis der finanziellen Risiken**
 
 **d.53 Vermögenscontrolling**
 
 <sup>1</sup> Die Direktionen berichten im Rahmen der jährlichen Berichterstattung über die für die Werterhaltung erforderlichen Massnahmen.
+
+**5**
+
+1.10. 23 - 122
 
 <sup>2</sup> In ihren jährlichen Berichterstattungen stellen dar:
 
@@ -228,10 +244,6 @@ Die Direktionen bereiten die Planungen ihrer Politikbereiche vor.
 <sup>1</sup> Die Controllingdienste erfüllen die in diesem oder in andern Erlassen vorgesehenen Aufgaben. Sie beobachten die Entwicklungen in ihrem Zuständigkeitsbereich, koordinieren die diesbezüglichen staatlichen Tätigkeiten und erstatten Berichte zuhanden des Regierungsrates.
 
 <sup>2</sup> Sie organisieren und leiten hierfür die entsprechenden Verfahren und arbeiten mit den weiteren zuständigen Stellen zusammen. Sie betreiben die erforderlichen Informationssysteme.
-
-**5**
-
-- 1\. 7. 23 - 121
 
 ### B. Aussenbeziehungen
 
@@ -295,13 +307,15 @@ Der Regierungsrat ist zuständig für:
 
 - b. Betreuung von Aussenbeziehungen, die nicht in den Zuständigkeitsbereich einer Direktion fallen,
 
-- c. Unterstützung des Regierungsrates beim Controlling der Aussenbeziehungen, d.<sup>24</sup> Antragstellung an den Regierungsrat für die Berichterstattung gemäss § 34 q Abs. 2 des Kantonsratsgesetzes vom 5. April 1981.
+**7**
+
+1.10. 23 - 122 c. Unterstützung des Regierungsrates beim Controlling der Aussenbeziehungen, d.[^22-1] Antragstellung an den Regierungsrat für die Berichterstattung gemäss § 34 q Abs. 2 des Kantonsratsgesetzes vom 5. April 1981.
 
 <sup>2</sup> Die Staatskanzlei kann die Erfüllung ihrer Aufgaben im Einzelfall dem Koordinationsgremium für Aussenbeziehungen (KAB) gemäss § 74 übertragen.
 
 **Verhandlungsmandate**
 
-§ 23.<sup>25</sup> <sup>1</sup> Die zuständige Direktion holt beim Regierungsrat in den Fällen von § 7 a OG RR[^22-1] ein Verhandlungsmandat ein. In weiteren Fällen der Aufnahme von Vertragsverhandlungen oder der Mitwirkung in interkantonalen Konferenzen und Gremien kann sie ein Mandat einholen.
+§ 23.[^22-2] <sup>1</sup> Die zuständige Direktion holt beim Regierungsrat in den Fällen von § 7 a OG RR[^22-3] ein Verhandlungsmandat ein. In weiteren Fällen der Aufnahme von Vertragsverhandlungen oder der Mitwirkung in interkantonalen Konferenzen und Gremien kann sie ein Mandat einholen.
 
 <sup>2</sup> Das Verhandlungsmandat enthält insbesondere:
 
@@ -313,17 +327,15 @@ Der Regierungsrat ist zuständig für:
 
 - d. Zuständigkeit für Abschluss und Genehmigung von Verträgen.
 
-[^22-1]: LS 172.1.
+[^22-1]: Eingefügt durch RRB vom 12. Dezember 2012 (OS 68, 107; ABl 2012-12-21). In Kraft seit 1. April 2013.
+[^22-2]: Fassung gemäss RRB vom 12. Dezember 2012 (OS 68, 107; ABl 2012-12-21). In Kraft seit 1. April 2013.
+[^22-3]: LS 172.1.
 
 #### § 24
 
 **Stellungnahmen in der Konferenz der Kantonsregierungen**
 
 Stellungnahmen des Regierungsrates, die eines seiner Mitglieder in der Plenarversammlung der Konferenz der Kantonsregierungen abgibt, erfordern einen vorgängigen Beschluss des Regierungsrates.
-
-**7**
-
-- 1\. 7. 23 - 121
 
 ### C. Information und Kommunikation
 
@@ -389,6 +401,10 @@ Der Regierungsrat erlässt Leitlinien über a. die Grundsätze und Ziele seiner 
 
 <sup>1</sup> Die Sitzungen des Regierungsrates finden in der Regel mittwochs statt. Die Staatskanzlei erstellt am Ende der Vorwoche die Traktandenliste.
 
+**9**
+
+1.10. 23 - 122
+
 <sup>2</sup> Der Regierungsrat führt Klausurtagungen durch, an denen er insbesondere komplexe Fragen mit weit reichender Bedeutung als Schwerpunktthema berät.
 
 ### B. Geschäfte
@@ -426,10 +442,6 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 <sup>1</sup> Summarische Geschäfte sind diejenigen, die nicht unter eine andere Geschäftsart fallen.
 
 <sup>2</sup> Der Regierungsrat beschliesst über sie ohne Einzelberatung gesamthaft durch Aufruf der entsprechenden Traktandenliste.
-
-**9**
-
-- 1\. 7. 23 - 121
 
 <sup>3</sup> Verlangt ein Mitglied des Regierungsrates oder die Staatsschreiberin oder der Staatsschreiber zu einem Geschäft eine Diskussion, wird es zurückgestellt und für die nächste Sitzung als Besonderes Geschäft traktandiert.
 
@@ -491,9 +503,19 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 <sup>3</sup> Die zuständige Behörde oder Verwaltungsstelle prüft die Petition und nimmt dazu innert sechs Monaten Stellung. Betrifft die Petition ein hängiges Rechtsmittelverfahren, wird lediglich der Eingang der Petition bestätigt und dabei auf die Hängigkeit dieses Verfahrens hingewiesen.
 
-### C. Elektronischer Geschäftsverkehr<sup>34</sup>
+**11**
 
-§ 36 a.<sup>34</sup> Der Geschäftsverkehr zwischen den Direktionen und der Staatskanzlei untereinander erfolgt elektronisch über die Geschäftsverwaltungssysteme.
+1.10. 23 - 122
+
+[^36-1]: Eingefügt durch RRB vom 23. August 2017 (OS 72, 445; ABl 2017-09-01). In Kraft seit 1. November 2017.
+
+### C. Elektronischer Geschäftsverkehr
+
+[^36-1]
+
+§ 36 a.[^hCElektronischerGe-1] Der Geschäftsverkehr zwischen den Direktionen und der Staatskanzlei untereinander erfolgt elektronisch über die Geschäftsverwaltungssysteme.
+
+[^hCElektronischerGe-1]: Eingefügt durch RRB vom 23. August 2017 (OS 72, 445; ABl 2017-09-01). In Kraft seit 1. November 2017.
 
 ### D.<sup>36</sup> Vorbereitung von Geschäften
 
@@ -513,11 +535,11 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 <sup>2</sup> Bei Geschäften von erheblicher politischer oder finanzieller Tragweite äussert sich der Antrag begründet zur Übereinstimmung mit den Richtlinien der Regierungspolitik. Vorbehalten bleiben zusätzliche Abklärungen der Finanzdirektion gemäss Finanzcontrollingverordnung.
 
-**11**
-
-- 1\. 7. 23 - 121 § 39. <sup>1</sup> Sollen andere Direktionen oder die Staatskanzlei an der Meinungsbildung oder Entscheidfindung beteiligt werden oder wird ein Vernehmlassungsverfahren durchgeführt, lädt die Direktion oder die Staatskanzlei alle andern Direktionen und die Staatskanzlei zum Mitbericht ein.
+#### § 39
 
 **Mitberichte und Besondere Stellungnahmen**
+
+<sup>1</sup> Sollen andere Direktionen oder die Staatskanzlei an der Meinungsbildung oder Entscheidfindung beteiligt werden oder wird ein Vernehmlassungsverfahren durchgeführt, lädt die Direktion oder die Staatskanzlei alle andern Direktionen und die Staatskanzlei zum Mitbericht ein.
 
 <sup>2</sup> Benötigt eine Direktion oder die Staatskanzlei fachliche Informationen aus dem Zuständigkeitsbereich einer anderen Direktion oder der Staatskanzlei, lädt sie diese zur Besonderen Stellungnahme ein.
 
@@ -579,6 +601,10 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 <sup>1</sup> Wird ein der Staatskanzlei eingereichter Antrag vor oder nach der Behandlung durch den Regierungsrat geändert, ist die neue Fassung als geänderter Antrag zu bezeichnen. Die Änderungen sind nachvollziehbar zu kennzeichnen.<sup>35</sup>
 
+**13**
+
+1.10. 23 - 122
+
 <sup>2</sup> Wird der Inhalt oder Aufbau umfassend geändert, wird er als neuer Antrag eingereicht.
 
 ### E.<sup>36</sup> Verhandlung und Beschlussfassung
@@ -602,10 +628,6 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 <sup>1</sup> Das Begehren, einen Minderheitsantrag gemäss § 16 Abs. 4 OG RR[^47-1] im Protokoll vermerken zu lassen, ist unverzüglich nach der Beschlussfassung zu stellen und nachfolgend sobald als möglich zu begründen.
 
 <sup>2</sup> Der Minderheitsantrag wird unter der nächstfolgenden Beschlussnummer in das Protokoll aufgenommen. Er wird nicht veröffentlicht.
-
-**13**
-
-- 1\. 7. 23 - 121
 
 ### F.<sup>36</sup> Protokoll und Ausfertigung
 
@@ -663,28 +685,27 @@ Die Beschlüsse werden in der Regel durch Protokollauszug oder ausnahmsweise dur
 
 - b. Förderung und Koordination der Nutzung von elektronischen Mitteln für den durchgängigen Geschäftsverkehr mit der Öffentlichkeit (E-Government) sowie der digitalen Transformation der Verwaltung (Digitale Verwaltung),
 
-- c. Koordination und Unterstützung der Strategieumsetzung innerhalb der Verwaltung in den Bereichen Digitale Verwaltung und E-Government, d.[^h3AbschnittStaats-1] Koordination der Umsetzung des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007 (IDG)[^h3AbschnittStaats-2] durch die kantonale Verwaltung,
+**15**
+
+1.10. 23 - 122 c. Koordination und Unterstützung der Strategieumsetzung innerhalb der Verwaltung in den Bereichen Digitale Verwaltung und E-Government, d.[^h3AbschnittStaats-1] Koordination der Umsetzung des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007 (IDG)[^h3AbschnittStaats-2] durch die kantonale Verwaltung,
 
 - e. Unterstützung des Regierungsrates bei dessen Repräsentationsaufgaben, insbesondere Organisation von Anlässen,
 
 - f. Postdienst und Weibeldienst,
 
-- g. Beglaubigungen, h.<sup>23</sup> Entgegennahme von Betreibungsurkunden, insbesondere Zahlungsbefehlen, und Erhebung des Rechtsvorschlags,
+- g. Beglaubigungen, h.[^h3AbschnittStaats-3] Entgegennahme von Betreibungsurkunden, insbesondere Zahlungsbefehlen, und Erhebung des Rechtsvorschlags,
 
 - i. weitere Aufgaben gemäss dieser Verordnung.
 
 [^h3AbschnittStaats-1]: Fassung gemäss RRB vom 28. Mai 2008 (OS 63, 332; ABl 2008, 916). In Kraft seit 1. Oktober 2008.
 [^h3AbschnittStaats-2]: LS 170.4.
+[^h3AbschnittStaats-3]: Eingefügt durch RRB vom 24. Oktober 2012 (OS 67, 588; ABl 2012-11-02). In Kraft seit 1. Januar 2013.
 
 #### § 54
 
 **Ausserordentliche Stellvertretung**
 
 Ist die Staatsschreiberin oder der Staatsschreiber und die Stellvertreterin oder der Stellvertreter an der Amtsausübung verhindert, bezeichnet die Regierungspräsidentin oder der Regierungspräsident eine ausserordentliche Stellvertretung.
-
-**15**
-
-- 1\. 7. 23 - 121
 
 ### 4. Abschnitt: Kommissionen und Vertretungen des Regierungsrates
 
@@ -754,7 +775,9 @@ Die Direktionen des Regierungsrates sind:
 
 - b. die Unterstellung der Leitungen der Verwaltungseinheiten gemäss Anhang 2 dieser Verordnung,
 
-- c. die Zuweisung der einzelnen Aufgabenbereiche,
+**17**
+
+1.10. 23 - 122 c. die Zuweisung der einzelnen Aufgabenbereiche,
 
 - d. Vertretungsbefugnisse und Finanzkompetenzen, e.[^60-1] Grundsätze der Information und Kommunikation der Direktionen, einschliesslich die zur Umsetzung des IDG[^60-2] erforderlichen Regelungen.
 
@@ -775,11 +798,11 @@ Die Direktionen des Regierungsrates sind:
 
 <sup>3</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher kann die Generalsekretärin oder den Generalsekretär im Einzelfall mit weiteren Stellvertretungsaufgaben nach aussen beauftragen.
 
-**17**
-
-- 1\. 7. 23 - 121 § 62. <sup>1</sup> Die Direktionen gewährleisten in ihrem Generalsekretariat Ansprechstellen für folgende Themen und Querschnittaufgaben:
+#### § 62
 
 **Zentrale Aufgaben**
+
+<sup>1</sup> Die Direktionen gewährleisten in ihrem Generalsekretariat Ansprechstellen für folgende Themen und Querschnittaufgaben:
 
 - a. Rechtsfragen,
 
@@ -847,6 +870,10 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 <sup>3</sup> Sie stellen in ihren Verwaltungseinheiten die Geschäftskontrolle und die Nachvollziehbarkeit des Verwaltungshandelns sicher.
 
+**19**
+
+1.10. 23 - 122
+
 ### 3. Teil: Koordinationsorgane der Direktionen
 
 #### § 68
@@ -866,10 +893,6 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 <sup>1</sup> Erfordert die Erfüllung einer Aufgabe ein koordiniertes Vorgehen der Direktionen, erarbeitet die GSK vereinheitlichende Massnahmen und setzt diese um. Bei Bedarf entscheidet der Regierungsrat auf Antrag der Staatsschreiberin oder des Staatsschreibers über solche Massnahmen.
 
 <sup>2</sup> Die GSK tauscht Informationen über Geschäfte von wesentlicher politischer oder finanzieller Bedeutung sowie mit direktionsübergreifendem Charakter aus, koordiniert soweit erforderlich die Geschäfts- und Terminplanung und berät Anliegen und Geschäfte, die ihre Mitglieder einbringen.
-
-**19**
-
-- 1\. 7. 23 - 121
 
 <sup>3</sup> Sie kann Themen bearbeiten, die alle Direktionen betreffen, und dem Regierungsrat hierzu Bericht erstatten.
 
@@ -933,7 +956,9 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 - b. Koordination der Umsetzung von interkantonalen und internationalen Verträgen und bei Bedarf Begleitung ihres Vollzugs,
 
-- c. Lagebeurteilung und Früherkennung von wichtigen aussenpolitischen Entwicklungen sowie Feststellung des Handlungsbedarfs zuhanden des Regierungsrates,
+**21**
+
+1.10. 23 - 122 c. Lagebeurteilung und Früherkennung von wichtigen aussenpolitischen Entwicklungen sowie Feststellung des Handlungsbedarfs zuhanden des Regierungsrates,
 
 - d. Bearbeitung von Aufträgen des Regierungsrates und der Staatskanzlei.
 
@@ -959,11 +984,9 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 <sup>3</sup> Die HRK kann zur Vorbereitung ihrer Geschäfte Ausschüsse bilden.
 
-**21**
-
-- 1\. 7. 23 - 121 § 76.<sup>43,</sup> <sup>58</sup> Die HRK unterstützt den Regierungsrat und die Finanzdirektion bei der Erfüllung ihrer Aufgaben im Personalwesen, insbesondere durch:
-
 **b. Aufgaben**
+
+§ 76.<sup>43,</sup> <sup>58</sup> Die HRK unterstützt den Regierungsrat und die Finanzdirektion bei der Erfüllung ihrer Aufgaben im Personalwesen, insbesondere durch:
 
 - a. Erarbeitung der Grundlagen der Personalpolitik und Entwicklung der Personalstrategie,
 
@@ -1002,32 +1025,6 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. September 2007 in Kraft.
-
-<sup>22</sup> Fassung gemäss RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013.
-
-<sup>23</sup> Eingefügt durch RRB vom 24. Oktober 2012 (OS 67, 588; ABl 2012-11-02). In Kraft seit 1. Januar 2013.
-
-<sup>24</sup> Eingefügt durch RRB vom 12. Dezember 2012 (OS 68, 107; ABl 2012-12-21). In Kraft seit 1. April 2013.
-
-<sup>25</sup> Fassung gemäss RRB vom 12. Dezember 2012 (OS 68, 107; ABl 2012-12-21). In Kraft seit 1. April 2013.
-
-<sup>26</sup> Eingefügt durch RRB vom 28. August 2013 (OS 68, 378; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
-
-<sup>27</sup> Fassung gemäss RRB vom 28. August 2013 (OS 68, 378; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
-
-<sup>28</sup> Eingefügt durch RRB vom 23. Oktober 2013 (OS 68, 456; ABl 2013-11-01). In Kraft seit 1. Januar 2014.
-
-<sup>29</sup> Eingefügt durch RRB vom 29. Januar 2014 (OS 69, 117; ABl 2014-02-14). In Kraft seit 1. April 2014.
-
-<sup>30</sup> Fassung gemäss RRB vom 10. September 2014 (OS 69, 400; ABl 2014-09-26). In Kraft seit 1. Januar 2015.
-
-<sup>31</sup> Eingefügt durch RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
-
-<sup>32</sup> Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
-
-<sup>33</sup> Aufgehoben durch RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
-
-<sup>34</sup> Eingefügt durch RRB vom 23. August 2017 (OS 72, 445; ABl 2017-09-01). In Kraft seit 1. November 2017.
 
 <sup>35</sup> Fassung gemäss RRB vom 23. August 2017 (OS 72, 445; ABl 2017-09-01). In Kraft seit 1. November 2017.
 
@@ -1073,6 +1070,10 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 <sup>56</sup> Fassung gemäss RRB vom 2. Dezember 2020 (OS 75, 650; ABl 2020-12-11). In Kraft seit 1. Januar 2021.
 
+**25**
+
+1.10. 23 - 122
+
 <sup>57</sup> Fassung gemäss RRB vom 9. Dezember 2020 (OS 75, 674; ABl 2020-12-18). In Kraft seit 1. Januar 2021.
 
 <sup>58</sup> Eingefügt durch RRB vom 25. August 2021 (OS 76, 351; ABl 2021-09-10). In Kraft seit 1. November 2021.
@@ -1089,9 +1090,7 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 <sup>64</sup> Fassung gemäss RRB vom 1. Februar 2023 (OS 78, 135; ABl 2023-02-10). In Kraft seit 1. Mai 2023.
 
-**25**
-
-- 1\. 7. 23 - 121
+<sup>65</sup> Fassung gemäss RRB vom 7. März 2023 (OS 78, 149; ABl 2023-03-17). In Kraft seit 1. September 2023.
 
 ### Anhang 1: Zuständigkeitsbereiche der Direktionen
 
@@ -1101,10 +1100,11 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 [^hAnhang1Zuständigk-2]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. August 2011.
 [^hAnhang1Zuständigk-3]: Eingefügt durch RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
 [^hAnhang1Zuständigk-4]: Fassung gemäss RRB vom 28. September 2011 (OS 66, 864; ABl 2011, 2945). In Kraft seit 1. Januar 2012.
+[^hAnhang1Zuständigk-5]: Fassung gemäss RRB vom 28. August 2013 (OS 68, 378; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
 
-### A. Direktion der Justiz und des Innern,,,, <sup>27</sup>
+### A. Direktion der Justiz und des Innern,,,,
 
-[^hAnhang1Zuständigk-1][^hAnhang1Zuständigk-2][^hAnhang1Zuständigk-3][^hAnhang1Zuständigk-4]
+[^hAnhang1Zuständigk-1][^hAnhang1Zuständigk-2][^hAnhang1Zuständigk-3][^hAnhang1Zuständigk-4][^hAnhang1Zuständigk-5]
 
 - 1\. Justizvollzug einschliesslich Begnadigungen
 
@@ -1144,6 +1144,10 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständigkeit anderer Direktionen 20. Politische Rechte 21. Enteignungsrecht 22. Rechtsetzungstechnik 23. Übertretungsstrafrecht und Aufsicht über die Statthalterämter
 
+**27**
+
+1.10. 23 - 122
+
 [^hErwachsenenschutzrec-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 [^hErwachsenenschutzrec-2]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. August 2011.
 [^hErwachsenenschutzrec-3]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
@@ -1178,9 +1182,14 @@ recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständi
 
 - 13\. Fonds zur Bekämpfung der Lotteriespielsucht
 
-- 14\. Feuerwehrwesen, Feuerpolizei und Gebäudeversicherung 15.<sup>26</sup> Intervention gegen häusliche Gewalt 16.<sup>59</sup> Forensisches Institut Zürich
+- 14\. Feuerwehrwesen, Feuerpolizei und Gebäudeversicherung 15.[^hBSicherheitsdirekt-1] Intervention gegen häusliche Gewalt 16.<sup>59</sup> Forensisches Institut Zürich
 
-### C. Finanzdirektion<sup>32</sup>
+[^hBSicherheitsdirekt-1]: Eingefügt durch RRB vom 28. August 2013 (OS 68, 378; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
+[^hBSicherheitsdirekt-2]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+
+### C. Finanzdirektion
+
+[^hBSicherheitsdirekt-2]
 
 - 1\. Finanz- und Rechnungswesen sowie Finanzcontrolling
 
@@ -1206,15 +1215,12 @@ recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständi
 
 - 13\. Querschnittdienstleistungen in den Bereichen Personalwesen und Personalentwicklung, Rechnungswesen, Informatik
 
-**27**
+[^hCFinanzdirektion-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
+[^hCFinanzdirektion-2]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 
-- 1\. 7. 23 - 121
+### D. Volkswirtschaftsdirektion,, <sup>56</sup>
 
-[^hCFinanzdirektions-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
-
-### D. Volkswirtschaftsdirektion, <sup>32,</sup> <sup>56</sup>
-
-[^hCFinanzdirektions-1]
+[^hCFinanzdirektion-1][^hCFinanzdirektion-2]
 
 - 1\. Strategische Steuerung Mobilität und Verkehr
 
@@ -1246,11 +1252,15 @@ recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständi
 
 - 14\. Belange des Aussenlärms von Industrie und Gewerbe (Umweltschutzgesetz)
 
-- 15\. Vollzug des Produktesicherheitsgesetzes und der Gefahrgutbeauftragtenverordnung 16.<sup>28</sup> Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
+- 15\. Vollzug des Produktesicherheitsgesetzes und der Gefahrgutbeauftragtenverordnung 16.[^hArbeitszeitbewilligu-1] Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
 
 - 17\. Aufsicht über das Konsumkreditgewerbe sowie die private Arbeitsvermittlung und den Personalverleih
 
-- 18\. Öffentliche Arbeitsvermittlung, Arbeitslosenversicherung (Vollzug AVG und
+**29**
+
+1.10. 23 - 122 18. Öffentliche Arbeitsvermittlung, Arbeitslosenversicherung (Vollzug AVG und
+
+[^hArbeitszeitbewilligu-1]: Eingefügt durch RRB vom 23. Oktober 2013 (OS 68, 456; ABl 2013-11-01). In Kraft seit 1. Januar 2014.
 
 ### AVIG)
 
@@ -1274,7 +1284,11 @@ recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständi
 
 - 27\. Aufsicht im Bereich des Bundesgesetzes über den Erwerb von Grundstücken durch Personen im Ausland 28.<sup>55</sup> Verwaltung der Top Level Domain «.zuerich»
 
-### E. Gesundheitsdirektion<sup>32</sup>
+[^hAnspruchEGAVIG-1]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+
+### E. Gesundheitsdirektion
+
+[^hAnspruchEGAVIG-1]
 
 - 1\. Gesundheitswesen, einschliesslich Bewilligungen und Aufsicht, Epidemiewesen, Gesundheitsförderung, Prävention sowie Krankentransport- und Rettungswesen 2.<sup>60</sup> Gesundheitsversorgung, einschliesslich Spital-, Pflege- und ambulante Versorgung
 
@@ -1294,17 +1308,17 @@ recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständi
 
 stelle
 
-### F. Bildungsdirektion<sup>32</sup>
+[^hTierschutzTierisch-1]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+
+### F. Bildungsdirektion
+
+[^hTierschutzTierisch-1]
 
 - 1\. Bildungswesen, einschliesslich Planung, Controlling und Aufsicht
 
 - 2\. Bildungsplanung, -monitoring und -statistik
 
 - 3\. Unterrichts- und Beitragswesen in den Bereichen Volksschule, Mittelschulen und Berufs- und Weiterbildung
-
-**29**
-
-- 1\. 7. 23 - 121
 
 - 4\. Aufsicht über die Lehrbetriebe
 
@@ -1322,9 +1336,10 @@ stelle
 
 ### G. Baudirektion
 
-1.<sup>56</sup> Strassen 2.<sup>56</sup> Öffentlicher Grund einschliesslich Bewilligungen und Konzessionen 3. Planung, Bau und Unterhalt von Hochbauten und technischen Anlagen, Planung und Steuerung des Bestandes und der Nutzung der Betriebsliegenschaften des Kantons sowie der Spezialfonds 4.<sup>32</sup> Bewirtschaftung der Betriebsliegenschaften und der Liegenschaften im Finanzvermögen 5.[^hGBaudirektion-1] Liegenschaftengeschäfte 6.<sup>56</sup> Formelle und materielle Enteignungsrechte und Landerwerbsgeschäfte 7. Öffentliches Baurecht 8. Begutachtungen (zu baulichen Aspekten im Bereich Staats- und weiterer
+1.<sup>56</sup> Strassen 2.<sup>56</sup> Öffentlicher Grund einschliesslich Bewilligungen und Konzessionen 3. Planung, Bau und Unterhalt von Hochbauten und technischen Anlagen, Planung und Steuerung des Bestandes und der Nutzung der Betriebsliegenschaften des Kantons sowie der Spezialfonds 4.[^hGBaudirektion-1] Bewirtschaftung der Betriebsliegenschaften und der Liegenschaften im Finanzvermögen 5.[^hGBaudirektion-2] Liegenschaftengeschäfte 6.<sup>56</sup> Formelle und materielle Enteignungsrechte und Landerwerbsgeschäfte 7. Öffentliches Baurecht 8. Begutachtungen (zu baulichen Aspekten im Bereich Staats- und weiterer
 
-[^hGBaudirektion-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^hGBaudirektion-1]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+[^hGBaudirektion-2]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 
 ### Beiträge)
 
@@ -1336,7 +1351,7 @@ stelle
 
 - 12\. Vermessungswesen und Kantonsgrenzen
 
-- 13\. Geographisches Informationssystem (GIS) 14.[^hBeiträge-1] Datenlogistik 15.<sup>29</sup> Gebäude- und Wohnungsregister
+- 13\. Geographisches Informationssystem (GIS) 14.[^hBeiträge-1] Datenlogistik 15.[^hBeiträge-2] Gebäude- und Wohnungsregister
 
 - 16\. Energie und Lufthygiene
 
@@ -1352,21 +1367,13 @@ stelle
 
 - 22\. Bodenschutz
 
-- 23\. Landwirtschaft einschliesslich Meliorationswesen
-
-- 24\. Landwirtschaftliche Berufsbildung
-
-- 25\. Forstwesen
-
-- 26\. Fischerei und Jagd
-
-- 27\. Lärmschutz 28.<sup>31</sup> Bergregal 29.<sup>31</sup> Aufsicht über das Zweitwohnungswesen
-
 **31**
 
-- 1\. 7. 23 - 121
+1.10. 23 - 122 23. Landwirtschaft einschliesslich Meliorationswesen 24. Landwirtschaftliche Berufsbildung 25. Forstwesen 26. Fischerei und Jagd 27. Lärmschutz 28.[^hBeiträge-3] Bergregal 29.[^hBeiträge-3] Aufsicht über das Zweitwohnungswesen
 
 [^hBeiträge-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^hBeiträge-2]: Eingefügt durch RRB vom 29. Januar 2014 (OS 69, 117; ABl 2014-02-14). In Kraft seit 1. April 2014.
+[^hBeiträge-3]: Eingefügt durch RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 
 ### Anhang 2: Gliederung der Direktionen
 
@@ -1390,11 +1397,11 @@ stelle
 
 - d. Amt für Militär und Zivilschutz
 
-- e. Sozialamt f.[^h1DirektionderJus-4] Sportamt 2.2 Weitere Verwaltungseinheiten <sup>22</sup>
+- e. Sozialamt f.[^h1DirektionderJus-4] Sportamt
 
-- a. Passbüro b.[^h1DirektionderJus-5] Eichämter
+**33**
 
-- c. Gewerbebewilligungen und Beglaubigungen d.[^h1DirektionderJus-6] Rekursabteilung
+1.10. 23 - 122 2.2 Weitere Verwaltungseinheiten[^h1DirektionderJus-5] a. Passbüro b.[^h1DirektionderJus-6] Eichämter c. Gewerbebewilligungen und Beglaubigungen d.[^h1DirektionderJus-7] Rekursabteilung
 
 - 3\. Finanzdirektion 3.1 Verwaltungseinheiten mit Amtsstruktur<sup>39</sup>
 
@@ -1408,27 +1415,13 @@ stelle
 
 3.2 Weitere Verwaltungseinheiten a.<sup>39</sup> Kantonale Drucksachen- und Materialzentrale
 
-3.3<sup>33</sup>
+3.3[^h1DirektionderJus-8]
 
-- 4\. Volkswirtschaftsdirektion 4.1 Verwaltungseinheiten mit Amtsstruktur[^h1DirektionderJus-5]
+- 4\. Volkswirtschaftsdirektion 4.1 Verwaltungseinheiten mit Amtsstruktur[^h1DirektionderJus-6]
 
 - a. Amt für Wirtschaft und Arbeit b.<sup>56</sup> Amt für Mobilität
 
-4.2 Administrativ angegliederte Einheiten a. Zürcher Verkehrsverbund ZVV
-
-**33**
-
-- 1\. 7. 23 - 121
-
-- 5\. Gesundheitsdirektion[^h1DirektionderJus-5],[^h1DirektionderJus-7] 5.1 Verwaltungseinheiten mit Amtsstruktur<sup>32,</sup> <sup>60</sup>
-
-- a. Amt für Gesundheit
-
-- b. Kantonsapotheke
-
-- c. Kantonale Heilmittelkontrolle d.<sup>30</sup> Kantonales Labor
-
-- e. Veterinäramt
+4.2 Administrativ angegliederte Einheiten a. Zürcher Verkehrsverbund ZVV 5. Gesundheitsdirektion[^h1DirektionderJus-6],[^h1DirektionderJus-9] 5.1 Verwaltungseinheiten mit Amtsstruktur[^h1DirektionderJus-10], <sup>60</sup> a. Amt für Gesundheit b. Kantonsapotheke c. Kantonale Heilmittelkontrolle d.[^h1DirektionderJus-11] Kantonales Labor e. Veterinäramt
 
 5.2 Administrativ angegliederte Einheiten<sup>60</sup> a. Kantonale Ethikkommission
 
@@ -1456,15 +1449,23 @@ stelle
 
 - f. Amt für Landschaft und Natur
 
-7.2 Weitere Verwaltungseinheiten a.<sup>32</sup> Koordination Bau und Umwelt
+7.2 Weitere Verwaltungseinheiten a.[^h1DirektionderJus-10] Koordination Bau und Umwelt
+
+**35**
+
+1.10. 23 - 122
 
 [^h1DirektionderJus-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 [^h1DirektionderJus-2]: Eingefügt durch RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
 [^h1DirektionderJus-3]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
-[^h1DirektionderJus-4]: Eingefügt durch RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013. 1. 7. 23 - 121 23
-[^h1DirektionderJus-5]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
-[^h1DirektionderJus-6]: Eingefügt durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
-[^h1DirektionderJus-7]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011.
+[^h1DirektionderJus-4]: Eingefügt durch RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013.
+[^h1DirektionderJus-5]: Fassung gemäss RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013.
+[^h1DirektionderJus-6]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
+[^h1DirektionderJus-7]: Eingefügt durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^h1DirektionderJus-8]: Aufgehoben durch RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+[^h1DirektionderJus-9]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011. 1.10. 23 - 122 23
+[^h1DirektionderJus-10]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+[^h1DirektionderJus-11]: Fassung gemäss RRB vom 10. September 2014 (OS 69, 400; ABl 2014-09-26). In Kraft seit 1. Januar 2015.
 
 ### Anhang 3: Selbstständige Entscheidkompetenzen der Verwaltungseinheiten
 
@@ -1490,17 +1491,14 @@ Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
 - b. Anordnung von verwaltungsrechtlichen Massnahmen gemäss § 10 Abs. 1 JFTG.
 
-- 2\. Sicherheitsdirektion<sup>22</sup> 2.1 Kantonspolizei, Strassenverkehrs- Gesamter Aufgabenbereich, unter Vorbehalt amt, Migrationsamt, Amt für Militär abweichender Regelungen in anderen und Zivilschutz, Sozialamt, Sportamt Verordnungen 2.2<sup>38</sup> Passbüro, Gewerbebewilligungen, Gesamter Aufgabenbereich, unter Vorbehalt Eichämter abweichender Regelungen in anderen Verordnungen
+- 2\. Sicherheitsdirektion[^h1DirektionderJus_2-1] 2.1 Kantonspolizei, Strassenverkehrs- Gesamter Aufgabenbereich, unter Vorbehalt amt, Migrationsamt, Amt für Militär abweichender Regelungen in anderen und Zivilschutz, Sozialamt, Sportamt Verordnungen 2.2<sup>38</sup> Passbüro, Gewerbebewilligungen, Gesamter Aufgabenbereich, unter Vorbehalt Eichämter abweichender Regelungen in anderen Verordnungen Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
-**35**
-
-- 1\. 7. 23 - 121 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
-
-[^h1DirektionderJus_2-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
+[^h1DirektionderJus_2-1]: Fassung gemäss RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013.
+[^h1DirektionderJus_2-2]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 
 ### 4. Volkswirtschaftsdirektion
 
-[^h1DirektionderJus_2-1]
+[^h1DirektionderJus_2-2]
 
 4.1 Amt für Wirtschaft und Arbeit Gesamter Aufgabenbereich, einschliesslich Anordnungen betreffend die Erwerbstätigkeit kontrollpflichtiger Ausländerinnen und Aus-
 
@@ -1508,11 +1506,11 @@ länder.
 
 4.2 Amt für Mobilität<sup>56</sup> a. Alle Aufgaben der Volkswirtschaftsdirektion beim Vollzug des Strassengesetzes,
 
-- b. Alle Aufgaben der Volkswirtschaftsdirektion im Bereich Flughafen und Luftverkehr, c.<sup>31</sup> Alle Aufgaben gemäss Seilbahngesetz und Personenbeförderungsgesetz.
+- b. Alle Aufgaben der Volkswirtschaftsdirektion im Bereich Flughafen und Luftverkehr, c.[^h4Volkswirtschaftsd-1] Alle Aufgaben gemäss Seilbahngesetz und Personenbeförderungsgesetz.
 
-- 5\. Gesundheitsdirektion[^h4Volkswirtschaftsd-1],[^h4Volkswirtschaftsd-2], <sup>32</sup> 5.1[^h4Volkswirtschaftsd-3] Veterinäramt Gesamter Aufgabenbereich.
+- 5\. Gesundheitsdirektion[^h4Volkswirtschaftsd-2],[^h4Volkswirtschaftsd-3],[^h4Volkswirtschaftsd-4] 5.1[^h4Volkswirtschaftsd-5] Veterinäramt Gesamter Aufgabenbereich.
 
-5.2<sup>30</sup> Kantonales Labor Gesamter Aufgabenbereich.
+5.2[^h4Volkswirtschaftsd-6] Kantonales Labor Gesamter Aufgabenbereich.
 
 5.3 Kantonsapotheke Gesamter Aufgabenbereich.
 
@@ -1522,15 +1520,22 @@ länder.
 
 5.6–5.10<sup>61</sup>
 
-- 6\. Bildungsdirektion[^h4Volkswirtschaftsd-4] 6.1 Hochschulamt Anordnungen im Vollzug des Fachhochschulgesetzes.
+- 6\. Bildungsdirektion[^h4Volkswirtschaftsd-7] 6.1 Hochschulamt Anordnungen im Vollzug des Fachhochschulgesetzes.
 
-6.2 Mittelschul- und Berufsbildungsamt Gesamter Aufgabenbereich der Mittelschulen und der Berufsbildung, soweit das Verordnungsrecht nichts anderes regelt.[^h4Volkswirtschaftsd-5] Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen 6.3 Volksschulamt a. Anordnungen beim Vollzug des Lehrpersonalgesetzes vom 10. Mai 1999, ausgenommen Anordnungen gemäss
+6.2 Mittelschul- und Berufsbildungsamt Gesamter Aufgabenbereich der Mittelschulen und der Berufsbildung, soweit das Verordnungsrecht nichts anderes regelt.[^h4Volkswirtschaftsd-8]
 
-[^h4Volkswirtschaftsd-1]: Fassung gemäss RRB vom 28. Oktober 2009 (OS 64, 636; ABl 2009, 2215). In Kraft seit 1. Januar 2010.
-[^h4Volkswirtschaftsd-2]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011.
-[^h4Volkswirtschaftsd-3]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
-[^h4Volkswirtschaftsd-4]: Fassung gemäss RRB vom 4. November 2009 (OS 64, 651; ABl 2009, 2266). In Kraft seit 1. Januar 2010.
-[^h4Volkswirtschaftsd-5]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+**37**
+
+1.10. 23 - 122 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen 6.3 Volksschulamt a. Anordnungen beim Vollzug des Lehrpersonalgesetzes vom 10. Mai 1999, ausgenommen Anordnungen gemäss
+
+[^h4Volkswirtschaftsd-1]: Eingefügt durch RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+[^h4Volkswirtschaftsd-2]: Fassung gemäss RRB vom 28. Oktober 2009 (OS 64, 636; ABl 2009, 2215). In Kraft seit 1. Januar 2010.
+[^h4Volkswirtschaftsd-3]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011. 1.10. 23 - 122 23
+[^h4Volkswirtschaftsd-4]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+[^h4Volkswirtschaftsd-5]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
+[^h4Volkswirtschaftsd-6]: Fassung gemäss RRB vom 10. September 2014 (OS 69, 400; ABl 2014-09-26). In Kraft seit 1. Januar 2015.
+[^h4Volkswirtschaftsd-7]: Fassung gemäss RRB vom 4. November 2009 (OS 64, 651; ABl 2009, 2266). In Kraft seit 1. Januar 2010.
+[^h4Volkswirtschaftsd-8]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 
 #### §§ 3
 
@@ -1544,24 +1549,20 @@ länder.
 
 - e. Anerkennung von Kursen in heimatlicher Sprache und Kultur gestützt auf § 15 VSG,
 
-- f. Bewilligung von Lehrerstellen an Durchgangszentren für Asylsuchende gestützt auf § 62 Abs. 3 VSG, g.<sup>62</sup> Beitragsberechtigung von Spitalschulen gemäss § 62 a VSG[^3_2-1], § 31 Abs. 4 des Mittelschulgesetzes vom 13. Juni 1999[^3_2-2] und § 36 a Abs. 3 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008[^3_2-3], h.<sup>44</sup> Aufsicht sowie aufsichtsrechtliche Anordnungen und Massnahmen gegenüber den Gemeinden gestützt auf § 73 VSG, i.<sup>47</sup> Anordnungen im Zusammenhang mit dem Schulort, der Kostenpflicht und der Höhe des Schulgeldes gestützt auf § 12 VSG. 6.4<sup>48</sup> Amt für Jugend und Berufsberatung Anordnungen im Aufgabenbereich des Adoptionswesens.
+- f. Bewilligung von Lehrerstellen an Durchgangszentren für Asylsuchende gestützt auf § 62 Abs. 3 VSG, g.<sup>62</sup> Beitragsberechtigung von Spitalschulen gemäss § 62 a VSG[^3_2-1], § 31 Abs. 4 des Mittelschulgesetzes vom 13. Juni 1999[^3_2-2] und § 36 a Abs. 3 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008, h.<sup>44</sup> Aufsicht sowie aufsichtsrechtliche Anordnungen und Massnahmen gegenüber den Gemeinden gestützt auf § 73 VSG, i.<sup>47</sup> Anordnungen im Zusammenhang mit dem Schulort, der Kostenpflicht und der Höhe des Schulgeldes gestützt auf § 12 VSG. 6.4<sup>48</sup> Amt für Jugend und Berufsberatung Anordnungen im Aufgabenbereich des Adoptionswesens.
 
-- 7\. Baudirektion 7.1[^3_2-4], <sup>20</sup> Amt für Landschaft und Natur a. Anordnungen im Bereich Bodenschutz,
+- 7\. Baudirektion 7.1[^3_2-3], <sup>20</sup> Amt für Landschaft und Natur a. Anordnungen im Bereich Bodenschutz,
 
 - b. . . .<sup>51</sup>
 
 - c. . . .<sup>51</sup>
 
-7.2<sup>31</sup> Amt für Abfall, Wasser, Energie Anordnungen im Bereich Luftreinhaltung, und Luft soweit der Kanton zuständig ist.
-
-**37**
-
-- 1\. 7. 23 - 121
+7.2[^3_2-4] Amt für Abfall, Wasser, Energie Anordnungen im Bereich Luftreinhaltung, und Luft soweit der Kanton zuständig ist.
 
 [^3_2-1]: LS 412.100.
 [^3_2-2]: LS 413.21.
-[^3_2-3]: LS 413.31.
-[^3_2-4]: Aufgehoben durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^3_2-3]: Aufgehoben durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^3_2-4]: Eingefügt durch RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 
 ## Weitere Fussnoten
 
