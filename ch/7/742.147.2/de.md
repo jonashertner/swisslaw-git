@@ -4,11 +4,11 @@ title: "Verordnung vom 4. November 2009 über die Videoüberwachung im öffentli
 short: VüV-ÖV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/736"
 language: de
-version: 2010-01-01
+version: 2023-09-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/736/20100101/de/xml/fedlex-data-admin-ch-eli-cc-2009-736-20100101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20100101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/736/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-736-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20100101/de"
 
 (Videoüberwachungsverordnung ÖV, VüV-ÖV)
 
-vom 4. November 2009 (Stand am 1. Januar 2010)
+vom 4. November 2009 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -90,9 +90,10 @@ Aufzeichnungen dürfen nur den folgenden Behörden bekanntgegeben werden:
 
 <sup>1</sup> Die Unternehmen sorgen dafür, dass die Personendaten vor dem Zugriff unbefugter Personen geschützt sind. Sie regeln die Zugangsberechtigung.
 
-<sup>2</sup> Im Übrigen gelten die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^6-1] über den Datenschutz, insbesondere die Artikel 16–25<sup>bis</sup>.
+<sup>2</sup> Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^6-1], insbesondere die Artikel 33–42.[^6-2]
 
 [^6-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: Fassung gemäss Anhang 2 Ziff. II 80 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 7
 

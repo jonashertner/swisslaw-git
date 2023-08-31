@@ -4,11 +4,11 @@ title: "Ordinanza del 4 novembre 2009 sulla videosorveglianza nei trasporti pubb
 short: OVsor-TP
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/736"
 language: it
-version: 2010-01-01
+version: 2023-09-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/736/20100101/it/xml/fedlex-data-admin-ch-eli-cc-2009-736-20100101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20100101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/736/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-736-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20100101/it"
 
 (Ordinanza sulla videosorveglianza TP, OVsor-TP)
 
-del 4 novembre 2009 (Stato 1° gennaio 2010)
+del 4 novembre 2009 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -90,9 +90,10 @@ Le registrazioni possono essere comunicate soltanto alle autorità seguenti:
 
 <sup>1</sup> Le imprese prendono le misure necessarie per impedire l’accesso ai dati personali a terzi non autorizzati. Esse disciplinano il diritto d’accesso ai dati.
 
-<sup>2</sup> Per il resto si applicano le disposizioni della legge federale del 19 giugno 1992[^6-1] sulla protezione dei dati, in particolare gli articoli 16–25<sup>bis</sup>.
+<sup>2</sup> Per il resto si applicano le disposizioni della legge federale del 25 settembre 2020[2[^6-1]](https://www.fedlex.admin.ch/eli/oc/2022/568/it) sulla protezione dei dati, in particolare gli articoli 33–42.[^6-2]
 
 [^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: Nuovo testo giusta l’all. 2 n. II 80 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 7
 

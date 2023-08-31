@@ -4,11 +4,11 @@ title: Ordonnance du 4 novembre 2009 sur la vidéosurveillance dans les transpor
 short: OVid-TP
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/736"
 language: fr
-version: 2010-01-01
+version: 2023-09-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/736/20100101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-736-20100101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20100101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/736/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-736-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20100101/fr"
 
 (OVid-TP)
 
-du 4 novembre 2009 (Etat le 1<sup>er</sup> janvier 2010)
+du 4 novembre 2009 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -90,9 +90,10 @@ Les enregistrements ne peuvent être communiqués qu’aux autorités suivantes:
 
 <sup>1</sup> Les entreprises veillent à ce que les personnes non autorisées ne puissent accéder aux données personnelles. Elles règlent le droit d’accès aux données.
 
-<sup>2</sup> Les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^6-1], notamment les art. 16 à 25<sup>bis</sup>, sont par ailleurs applicables.
+<sup>2</sup> Les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^6-1], notamment les art. 33 à 42, sont par ailleurs applicables.[^6-2]
 
 [^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: Nouvelle teneur selon l’annexe 2 ch. II 80 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 7
 
