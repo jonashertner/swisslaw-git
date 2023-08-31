@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1997 sulle armi, gli accessori di armi e le
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/it"
 
 (Legge sulle armi, LArm)
 
-del 20 giugno 1997 (Stato 1° luglio 2023)
+del 20 giugno 1997 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1283,19 +1283,23 @@ La comunicazione di dati personali alle competenti autorità di Stati Schengen �
 
 **Comunicazione di dati personali a uno Stato non vincolato da un accordo di associazione alla normativa di Schengen**
 
-<sup>1</sup> Dati personali possono essere comunicati a Stati terzi soltanto se questi ultimi garantiscono un adeguato livello di protezione.
+<sup>1</sup> Dati personali possono essere comunicati a Stati terzi soltanto se questi ultimi garantiscono una protezione adeguata dei dati ai sensi dell’articolo 16 capoverso 1 della legge federale del 25 settembre 2020[^32e-1] sulla protezione dei dati (LPD).[^32e-2]
 
 <sup>2</sup>
 
-Qualora non garantisca un adeguato livello di protezione, allo Stato terzo possono, nel caso specifico, essere comunicati dati personali se:
+Qualora non garantisca un adeguato livello di protezione, allo Stato terzo possono essere comunicati dati personali se:
 
-- a. la persona interessata ha, senza ombra di dubbio, dato il suo consenso; trattandosi di dati personali degni di particolare protezione o di profili della personalità, il consenso deve essere esplicito;
-- b. la comunicazione è necessaria per proteggere la vita o l’incolumità fisica della persona interessata; o
-- c. la comunicazione è necessaria per tutelare un interesse pubblico preponderante o per accertare, esercitare o far valere un diritto in giustizia.
+- a. la persona interessata ha dato il suo consenso conformemente all’articolo 6 capoversi 6 e, se del caso, 7 LPD;
+- b. la comunicazione è necessaria per proteggere la vita o l’integrità fisica della persona interessata e non è possibile ottenere il suo consenso entro un termine ragionevole; o
+- c. la comunicazione è necessaria per tutelare un interesse pubblico preponderante o per accertare, esercitare o far valere un diritto in giustizia o dinanzi a un’altra autorità estera competente.[^32e-3]
 
 <sup>3</sup> Oltre che nei casi indicati nel capoverso 2, possono essere comunicati dati personali anche quando, nel caso specifico, garanzie sufficienti assicurano una protezione adeguata della persona interessata.
 
 <sup>4</sup> Il Consiglio federale definisce la portata delle garanzie da prestare e le relative modalità.
+
+[^32e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^32e-2]: Nuovo testo giusta l’all. 1 n. II 44 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32e-3]: Nuovo testo giusta l’all. 1 n. II 44 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32f
 
@@ -1307,9 +1311,10 @@ Qualora non garantisca un adeguato livello di protezione, allo Stato terzo posso
 
 **Diritto d’accesso**
 
-Il diritto d’accesso è retto dalle disposizioni federali o cantonali in materia di protezione dei dati.[^32g-1] Il detentore della collezione di dati fornisce inoltre le informazioni di cui dispone sull’origine dei dati.
+Il diritto d’accesso è retto dalle disposizioni federali o cantonali in materia di protezione dei dati.[^32g-1] ...[^32g-2]
 
 [^32g-1]: Nuovo testo giusta il n. 6 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, in vigore dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)[3417](https://fedlex.data.admin.ch/eli/oc/2010/473); [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^32g-2]: Secondo per. abrogato dall’all. 1 n. II 44 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32h e 32i
 

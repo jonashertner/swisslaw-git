@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 20. Juni 1997 über Waffen, Waffenzubehör und Munition
 short: WG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Waffen, Waffenzubehör und Munition (Waffengesetz, WG)
 
-vom 20. Juni 1997 (Stand am 1. Juli 2023)
+vom 20. Juni 1997 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1277,19 +1277,23 @@ Die Bekanntgabe von Personendaten an die zuständigen Behörden von Schengen-Sta
 
 **Bekanntgabe von Personendaten an einen Staat, der durch keines der Schengen-Assoziierungsabkommen gebunden ist**
 
-<sup>1</sup> An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, sofern diese ein angemessenes Datenschutzniveau gewährleisten.
+<sup>1</sup> Personendaten dürfen Drittstaaten nur bekannt gegeben werden, wenn diese ein angemessenes Datenschutzniveau nach Artikel 16 Absatz 1 des Datenschutzgesetzes vom 25. September 2020[^32e-1] (DSG) gewährleisten.[^32e-2]
 
 <sup>2</sup>
 
-Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten im Einzelfall bekannt gegeben werden, wenn:
+Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten in folgenden Fällen bekannt gegeben werden:
 
-- a. die betroffene Person ohne jeden Zweifel eingewilligt hat; handelt es sich um besonders schützenswerte Personendaten oder Persönlichkeitsprofile, so muss die Einwilligung ausdrücklich sein;
-- b. die Bekanntgabe erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen; oder
-- c. die Bekanntgabe zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht erforderlich ist.
+- a. Die betroffene Person hat nach Artikel 6 Absatz 6 und gegebenenfalls Absatz 7 DSG eingewilligt.
+- b. Die Bekanntgabe ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist deren Einwilligung einzuholen.
+- c. Die Bekanntgabe ist notwendig zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht oder einer anderen zuständigen ausländischen Behörde.[^32e-3]
 
 <sup>3</sup> Neben den in Absatz 2 genannten Fällen können Personendaten auch bekannt gegeben werden, wenn im Einzelfall hinreichende Garantien einen angemessenen Schutz der betroffenen Person gewährleisten.
 
 <sup>4</sup> Der Bundesrat bestimmt den Umfang der zu erbringenden Garantien und die Modalitäten der Garantieerbringung.
+
+[^32e-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^32e-2]: Fassung gemäss Anhang 1 Ziff. II 44 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32e-3]: Fassung gemäss Anhang 1 Ziff. II 44 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32f
 
@@ -1301,9 +1305,10 @@ Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ih
 
 **Auskunftsrecht**
 
-Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone.[^32g-1] Der Inhaber oder die Inhaberin der Datensammlung erteilt auch Auskunft über die verfügbaren Angaben zur Herkunft der Daten.
+Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone.[^32g-1] …[^32g-2]
 
 [^32g-1]: Fassung gemäss Ziff. 6 des BG vom 19. März 2010 über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, in Kraft seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^32g-2]: Zweiter Satz aufgehoben durch Anhang 1 Ziff. II 44 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32h und 32i
 

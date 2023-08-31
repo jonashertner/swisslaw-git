@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 1997 on Weapons, Weapon Accessories and Ammunitio
 short: WA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 20 June 1997 (Status as of 1 July 2023)
+of 20 June 1997 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1277,19 +1277,23 @@ Disclosing personal data to the competent authorities of Schengen states is equi
 
 **Disclosing personal data to a state that is not bound by any of the Schengen association agreements**
 
-<sup>1</sup> Personal data may only be disclosed to third states if they can guarantee an adequate level of data protection.
+<sup>1</sup> Personal data may only be disclosed to third states if they can guarantee an adequate level of data protection in accordance with Article 16 paragraph 1 of the Data Protection Act of 25 September 2020[^32e-1] (FADP).[^32e-2]
 
 <sup>2</sup>
 
-If a third state does not guarantee an adequate level of data protection, personal data may be disclosed in special cases if:
+If a third state does not guarantee an adequate level of data protection, personal data may be disclosed in the following cases:
 
-- a. the person concerned has consented beyond any doubt; if the personal data or personality profiles are particularly sensitive, the person must give their explicit consent;
-- b. disclosure is necessary to protect the life or physical integrity of the person concerned; or
-- c. disclosure is necessary to safeguard overriding public interests or to determine, exercise or assert legal rights in court.
+- a. the person concerned has consented in accordance with Article 6 paragraph 6 and, if applicable, paragraph 7 FADP;
+- b. disclosure is necessary to protect the life or physical integrity of the person concerned and it is not possible to obtain that person’s consent within a reasonable time;
+- c. disclosure is necessary to safeguard overriding public interests or to determine, exercise or assert legal rights before a court or another competent foreign authority.[^32e-3]
 
 <sup>3</sup> Besides the cases mentioned in paragraph 2, personal data may also be disclosed in special cases if sufficient guarantees ensure adequate protection of the person concerned.
 
 <sup>4</sup> The Federal Council determines the scope and the terms of the guarantees to be provided.
+
+[^32e-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^32e-2]: Amended by Annex 1 No II 44 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32e-3]: Amended by Annex 1 No II 44 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32f
 
@@ -1301,9 +1305,10 @@ If a third state does not guarantee an adequate level of data protection, person
 
 **Right to information**
 
-The right to information is based on the federal or cantonal data protection provisions.[^32g-1] The controller of the data file also provides information on available details concerning the source of the data.
+The right to information is based on the federal or cantonal data protection provisions.[^32g-1] …[^32g-2]
 
 [^32g-1]: Amended by No 6 of the FA of 19 March 2010 on the implementation of Framework Decision 2008/977/JI on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, in force since 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^32g-2]: Second sentence repealed by Annex 1 No II 44 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32h and 32i
 

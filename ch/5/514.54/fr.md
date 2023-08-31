@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1997 sur les armes, les accessoires d'armes et
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/fr"
 
 (Loi sur les armes, LArm)
 
-du 20 juin 1997 (État le 1<sup>er</sup> juillet 2023)
+du 20 juin 1997 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1280,19 +1280,23 @@ La communication de données personnelles aux autorités compétentes des États
 
 **Communication de données personnelles à un État qui n’est lié par aucun des accords d’association à Schengen**
 
-<sup>1</sup> Aucune donnée personnelle ne peut être communiquée à un État tiers si celui-ci n’assure pas un niveau adéquat de protection des données.
+<sup>1</sup> Aucune donnée personnelle ne peut être communiquée à un État tiers si celui-ci n’assure pas un niveau de protection des données adéquat au sens de l’art. 16, al. 1, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^32e-1].[^32e-2]
 
 <sup>2</sup>
 
-Des données personnelles peuvent être communiquées, dans des cas particuliers, à un État tiers en dépit de l’absence d’un niveau adéquat de protection des données:
+Des données personnelles peuvent être communiquées à un État tiers en dépit de l’absence d’un niveau de protection adéquat dans les cas suivants:
 
-- a. si la personne concernée a indubitablement donné son consentement; s’il s’agit de données sensibles ou de profils de personnalité, le consentement doit être explicite;
-- b. si la communication est nécessaire pour protéger la vie ou l’intégrité corporelle de la personne concernée, ou
-- c. si la communication est indispensable à la sauvegarde d’un intérêt public prépondérant ou à la constatation, à l’exercice ou à la défense d’un droit en justice.
+- a. la personne concernée a donné son consentement au sens de l’art. 6, al. 6 et, le cas échéant, al. 7, LPD;
+- b. la communication est nécessaire pour protéger la vie ou l’intégrité corporelle de la personne concernée et il n’est pas possible d’obtenir son consentement dans un délai raisonnable;
+- c. la communication est indispensable à la sauvegarde d’un intérêt public prépondérant ou à la constatation, à l’exercice ou à la défense d’un droit devant un tribunal ou une autre autorité étrangère compétente.[^32e-3]
 
 <sup>3</sup> Des données personnelles peuvent être communiquées en dehors des cas visés à l’al. 2 lorsque des garanties suffisantes permettent d’assurer, dans des cas particuliers, une protection adéquate de la personne concernée.
 
 <sup>4</sup> Le Conseil fédéral fixe l’étendue des garanties à fournir et les modalités selon lesquelles elles doivent être fournies.
+
+[^32e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^32e-2]: Nouvelle teneur selon l’annexe 1 ch. II 44 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32e-3]: Nouvelle teneur selon l’annexe 1 ch. II 44 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32f
 
@@ -1304,9 +1308,10 @@ Des données personnelles peuvent être communiquées, dans des cas particuliers
 
 **Droit d’accès**
 
-Le droit d’accès est régi par les dispositions fédérales ou cantonales de protection des données.[^32g-1] En outre, le maître du fichier fournit les informations dont il dispose concernant l’origine des données.
+Le droit d’accès est régi par les dispositions fédérales ou cantonales de protection des données.[^32g-1] …[^32g-2]
 
 [^32g-1]: Nouvelle teneur selon le ch. 6 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^32g-2]: Phrase abrogée par l’annexe 1 ch. II 44 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32h et 32i
 

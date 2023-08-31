@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 1997 davart las armas, ils accessor
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: rm
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 20 da zercladur 1997 (versiun dal 1. da fanadur 2023)
+dals 20 da zercladur 1997 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -377,7 +377,7 @@ Il contract sto cuntegnair las suandantas indicaziuns:
 [^11-1]: Versiun tenor l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^11-2]: Versiun tenor la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^11-3]: Versiun tenor l’agiunta dal COF dals 28 da sett. 2018 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da la directiva (UE) 2017/853 per midar la directiva la UE davart las armas, en vigur dapi ils 15 d’avust 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
-[^11-4]: Integrà tras la cifra I da la LF dals 22 da zer. 2007 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766); [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)). Versiun tenor la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal Conclus da basa 2008/977/JI davart la protecziun da datas da persunas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)[3417](https://fedlex.data.admin.ch/eli/oc/2010/473); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^11-4]: Integrà tras la cifra I da la LF dals 22 da zer. 2007 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766); [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)). Versiun tenor la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal Conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)[3417](https://fedlex.data.admin.ch/eli/oc/2010/473); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 [^11-5]: Oz: art. 10 al. 1 e 2.
 [^11-6]: Versiun tenor la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^11-7]: Versiun tenor la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
@@ -1269,49 +1269,54 @@ Tut las datas da la DEWA, da la DEBBWA e da la DARUE pon vegnir communitgadas a 
 
 #### Art. 32d
 
-**Communicaziun da datas da persunas ad in stadi da Schengen**[^32d-1]
+**Communicaziun da datas persunalas ad in stadi da Schengen**[^32d-1]
 
-La communicaziun da datas da persunas a las autoritads cumpetentas da stadis da Schengen ha il medem status giuridic sco la communicaziun da datas persunalas tranter organs federals.
+La communicaziun da datas persunalas a las autoritads cumpetentas da stadis da Schengen ha il medem status giuridic sco la communicaziun da datas persunalas tranter organs federals.
 
 [^32d-1]: Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (adattaziun da la realisaziun da l’acquist da Schengen), en vigur dapi ils 28 da fan. 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
 #### Art. 32e
 
-**Communicaziun da datas da persunas ad in stadi che n’è betg lià tras cunvegnas d’associaziun a la reglamentaziun da Schengen**
+**Communicaziun da datas persunalas ad in stadi che n’è betg lià tras cunvegnas d’associaziun a la reglamentaziun da Schengen**
 
-<sup>1</sup> A terzs stadis dastgan vegnir communitgadas datas da persunas mo, sche quests stadis garanteschan in nivel da protecziun da datas adequat.
+<sup>1</sup> Datas persunalas dastgan mo vegnir communitgadas a terzs stadis, sch’els garanteschan in nivel da protecziun da datas adequat tenor l’artitgel 16 alinea 1 da la Lescha federala dals 25 da settember 2020[^32e-1] davart la protecziun da datas (LPD).[^32e-2]
 
 <sup>2</sup>
 
-Sch’in terz stadi na garantescha betg in nivel da protecziun da datas adequat, al pon vegnir communitgadas datas da persunas en il cas singul, sche:
+Sch’in terz stadi na garantescha betg in nivel da protecziun da datas adequat, al pon vegnir communitgadas datas persunalas en ils suandants cas:
 
-- a. la persuna pertutgada ha dà ses consentiment senza il minim dubi; sch’i sa tracta da datas da persunas spezialmain sensiblas u da profils da la persunalitad, sto il consentiment esser explicit;
-- b. la communicaziun è necessaria per proteger la vita u l’integritad corporala da la persuna pertutgada; u
-- c. la communicaziun è necessaria per proteger interess publics predominants u per constatar, per exequir u per far valair dretgs davant dretgira.
+- a. la persuna pertutgada ha dà ses consentiment tenor l’artitgel 6 alinea 6 ed eventualmain alinea 7 LPD;
+- b. la communicaziun è necessaria per proteger la vita u l’integritad corporala da la persuna pertutgada ed i n’è betg pussaivel da survegnir ses consentiment entaifer in termin adequat;
+- c. la communicaziun è necessaria per proteger interess publics predominants u per constatar, exequir u far valair dretgs davant dretgira u davant in’autra autoritad estra cumpetenta.[^32e-3]
 
-<sup>3</sup> Ultra dals cas numnads en l’alinea 2 pon datas da persunas er vegnir communitgadas, sche garanzias suffizientas permettan en il cas singul che la persuna pertutgada saja protegida adequatamain.
+<sup>3</sup> Ultra dals cas numnads en l’alinea 2 pon datas persunalas er vegnir communitgadas, sche garanzias suffizientas permettan en il cas singul che la persuna pertutgada saja protegida adequatamain.
 
 <sup>4</sup> Il Cussegl federal fixescha la dimensiun da las garanzias che ston vegnir furnidas e las modalitads per furnir questas garanzias.
+
+[^32e-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^32e-2]: Versiun tenor la cifra II 44 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32e-3]: Versiun tenor la cifra II 44 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32f
 
 [^32f-1]
 
-[^32f-1]: Abolì tras la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal Conclus da basa 2008/977/JI davart la protecziun da datas da persunas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, cun effect dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^32f-1]: Abolì tras la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal Conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, cun effect dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
 #### Art. 32g
 
 **Dretg da dar infurmaziuns**
 
-Il dretg da dar infurmaziuns sa drizza tenor las disposiziuns davart la protecziun da datas da la Confederaziun u dals chantuns.[^32g-1] Il possessur da la collecziun da datas dat er infurmaziuns davart las indicaziuns disponiblas da la derivanza da las datas.
+Il dretg da dar infurmaziuns sa drizza tenor las disposiziuns davart la protecziun da datas da la Confederaziun u dals chantuns.[^32g-1] …[^32g-2]
 
-[^32g-1]: Versiun tenor la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal Conclus da basa 2008/977/JI davart la protecziun da datas da persunas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^32g-1]: Versiun tenor la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^32g-2]: Abolì la segunda frasa tras la cifra II 44 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, cun effect dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 32h e 32i
 
 [^32h32i-1]
 
-[^32h32i-1]: Abolì tras la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal Conclus da basa 2008/977/JI davart la protecziun da datas da persunas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, cun effect dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^32h32i-1]: Abolì tras la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal Conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, cun effect dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
 ### 3. secziun Obligaziuns d’annunzia
 
