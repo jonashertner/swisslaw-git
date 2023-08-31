@@ -3,11 +3,11 @@ sr: "221.213.111"
 title: Verordnung des WBF vom 22. Januar 2008 über die Erhebung des für die Mietzinse massgebenden hypothekarischen Durchschnittszinssatzes (Zinssatzverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/60"
 language: de
-version: 2013-01-01
+version: 2023-09-01
 adopted: 2008-01-22
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/60/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2008-60-20130101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/60/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-60-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20130101/de"
 
 (Zinssatzverordnung)
 
-vom 22. Januar 2008 (Stand am 1. Januar 2013)
+vom 22. Januar 2008 (Stand am 1. September 2023)
 
-Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)*[^ingress-1]*,
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
 gestützt auf Artikel 12*a* Absatz 4 der Verordnung vom 9. Mai 1990[^ingress-2] über die Miete und Pacht von Wohn- und Geschäftsräumen (VMWG),
 
@@ -77,9 +77,10 @@ Der auf den Durchschnittszinssatz gestützte Referenzzinssatz wird zwei Monate n
 
 <sup>1</sup> Alle an der Datenerhebung beteiligten Personen sind zur Verschwiegenheit verpflichtet. Zur Wahrung der Geheimhaltung werden die Daten zusammengefasst.
 
-<sup>2</sup> Die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^5-1] über den Datenschutz sind anwendbar.
+<sup>2</sup> Die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^5-1] sind anwendbar.[^5-2]
 
 [^5-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Fassung gemäss Ziff. I der V des WBF vom 28. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 349](https://fedlex.data.admin.ch/eli/oc/2023/349)).
 
 #### Art. 6
 

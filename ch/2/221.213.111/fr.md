@@ -3,11 +3,11 @@ sr: "221.213.111"
 title: "Ordonnance du DEFR du 22 janvier 2008 sur l'établissement du taux hypothécaire moyen déterminant pour la fixation des loyers (Ordonnance sur le taux hypothécaire)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/60"
 language: fr
-version: 2013-01-01
+version: 2023-09-01
 adopted: 2008-01-22
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/60/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-60-20130101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/60/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-60-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20130101/fr"
 
 (Ordonnance sur le taux hypothécaire)
 
-du 22 janvier 2008 (Etat le 1<sup>er</sup> janvier 2013)
+du 22 janvier 2008 (État le 1<sup>er</sup> septembre 2023)
 
-Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)*[^ingress-1]*,
+Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
 vu l’art. 12*a*, al. 4, de l’ordonnance du 9 mai 1990 sur le bail à loyer et le bail à ferme d’habitations et de locaux commerciaux (OBLF)[^ingress-2],
 
@@ -77,9 +77,10 @@ Le taux d’intérêt de référence fondé sur le taux hypothécaire moyen est 
 
 <sup>1</sup> Les personnes impliquées dans le relevé des données sont tenues de garder le secret. Les données sont agrégées de manière à assurer leur confidentialité.
 
-<sup>2</sup> Les dispositions de la loi du 19 juin 1992 sur la protection des données[^5-1] sont applicables.
+<sup>2</sup> Les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^5-1] sont applicables.[^5-2]
 
 [^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DEFR 28 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 349](https://fedlex.data.admin.ch/eli/oc/2023/349)).
 
 #### Art. 6
 

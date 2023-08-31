@@ -3,11 +3,11 @@ sr: "221.213.111"
 title: Ordinanza del DEFR del 22 gennaio 2008 concernente il rilevamento del tasso ipotecario medio determinante per le pigioni (Ordinanza sul tasso ipotecario)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/60"
 language: it
-version: 2013-01-01
+version: 2023-09-01
 adopted: 2008-01-22
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/60/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2008-60-20130101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/60/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-60-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/60/20130101/it"
 
 (Ordinanza sul tasso ipotecario)
 
-del 22 gennaio 2008 (Stato 1° gennaio 2013)
+del 22 gennaio 2008 (Stato 1° settembre 2023)
 
-Il Dipartimento federale dell'economia, della formazione e della ricerca (DEFR)*[^ingress-1]*,
+Il Dipartimento federale dell'economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
 visto l’articolo 12*a* capoverso 4 dell’ordinanza del 9 maggio 1990[^ingress-2] concernente la locazione e l’affitto di locali d’abitazione o commerciali (OLAL),
 
@@ -77,9 +77,10 @@ Il tasso d’interesse di riferimento calcolato sulla base del tasso ipotecario 
 
 <sup>1</sup> Tutte le persone coinvolte nel rilevamento dei dati sottostanno all’obbligo di segretezza. Al fine di garantire la segretezza, i dati vengono raggruppati.
 
-<sup>2</sup> Le prescrizioni della legge federale del 19 giugno 1992[^5-1] sulla protezione dei dati sono applicabili.
+<sup>2</sup> Le disposizioni della legge federale del 25 settembre 2020[^5-1] sulla protezione dei dati sono applicabili.[^5-2]
 
 [^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Nuovo testo giusta il n. I dell’O del DEFR del 28 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 349](https://fedlex.data.admin.ch/eli/oc/2023/349)).
 
 #### Art. 6
 
