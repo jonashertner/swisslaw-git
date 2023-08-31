@@ -3,11 +3,11 @@ sr: "235.23"
 title: "Ordonnance du 26 avril 2017 sur le système d'information CV-DFAE (Ordonnance CV-DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/289"
 language: fr
-version: 2017-06-01
+version: 2023-09-01
 adopted: 2017-04-26
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/289/20170601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-289-20170601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20170601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/289/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-289-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20170601/fr"
 
 (Ordonnance CV-DFAE)
 
-du 26 avril 2017 (Etat le 1<sup>er</sup> juin 2017)
+du 26 avril 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -125,7 +125,9 @@ L’unité Personnel DFAE édicte un règlement relatif au traitement des donné
 
 <sup>1</sup> Les accès au CV-DFAE et les modifications qui y sont effectuées sont journalisés en permanence.
 
-<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^11-1]
+
+[^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 32 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Dispositions finales
 

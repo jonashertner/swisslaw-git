@@ -3,11 +3,11 @@ sr: "235.23"
 title: "Ordinanza del 26 aprile 2017 concernente il sistema d'informazione CV DFAE (Ordinanza CV DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/289"
 language: it
-version: 2017-06-01
+version: 2023-09-01
 adopted: 2017-04-26
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/289/20170601/it/xml/fedlex-data-admin-ch-eli-cc-2017-289-20170601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20170601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/289/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-289-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20170601/it"
 
 (Ordinanza CV DFAE)
 
-del 26 aprile 2017 (Stato 1° giugno 2017)
+del 26 aprile 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -125,7 +125,9 @@ Il Settore Personale DFAE emana un regolamento sul trattamento dei dati. Il rego
 
 <sup>1</sup> Gli accessi al CV DFAE e il trattamento dei dati sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati per un anno.
+<sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^11-1]
+
+[^11-1]: Nuovo testo giusta l’all. 2 n. II 32 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 

@@ -3,11 +3,11 @@ sr: "235.23"
 title: Verordnung vom 26. April 2017 über das Informationssystem EDA-CV (Verordnung EDA-CV)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/289"
 language: de
-version: 2017-06-01
+version: 2023-09-01
 adopted: 2017-04-26
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/289/20170601/de/xml/fedlex-data-admin-ch-eli-cc-2017-289-20170601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/289/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-289-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/289/20170601/de"
 
 (Verordnung EDA-CV)
 
-vom 26. April 2017 (Stand am 1. Juni 2017)
+vom 26. April 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -77,11 +77,13 @@ Der Bereich Personal EDA trägt die Verantwortung für das EDA-CV.
 
 #### Art. 6
 
-**Vernichtung von Datensätzen**
+**Vernichtung von Daten[^6-1]**
 
 <sup>1</sup> Die im EDA-CV enthaltenen Daten mit dem Status «archiviert» werden spätestens fünf Jahre, nachdem ihnen dieser Status verliehen wurde, vernichtet.
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung des Bundes.
+
+[^6-1]: Fassung gemäss Anhang 2 Ziff. II 32 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 3. Abschnitt: Zugriffsberechtigungen und Betrieb
 
@@ -125,7 +127,9 @@ Der Bereich Personal EDA erlässt ein Bearbeitungsreglement. Dieses enthält die
 
 <sup>1</sup> Die Zugriffe auf das EDA-CV und die Bearbeitungen werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^11-1]
+
+[^11-1]: Fassung gemäss Anhang 2 Ziff. II 32 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
