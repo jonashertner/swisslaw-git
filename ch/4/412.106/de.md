@@ -3,11 +3,11 @@ sr: "412.106"
 title: Bundesgesetz vom 25. September 2020 über die Eidgenössische Hochschule für Berufsbildung (EHB-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/414"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2020-09-25
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-414-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-414-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20220101/de"
 
 (EHB-Gesetz)
 
-vom 25. September 2020 (Stand am 1. Januar 2022)
+vom 25. September 2020 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 63 Absatz 1 und 63*a* Absatz 1 zweiter Satz der Bundes
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)
 
 ## 1. Abschnitt: Anstalt, Ziele und Grundsätze
@@ -47,7 +47,7 @@ beschliesst:
 
 <sup>7</sup> Sie lässt sich gemäss Artikel 28 Absatz 1 Buchstabe a des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011[^1-1] (HFKG) institutionell akkreditieren.
 
-[^1-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^1-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 2
 
@@ -86,7 +86,7 @@ Die EHB bietet folgende Bildungsgänge an:
 
 <sup>5</sup> Der Bundesrat kann der EHB im Berufsbildungsbereich weitere Aufgaben von gesamtschweizerischem Interesse übertragen.
 
-[^4-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^4-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 5
 
@@ -131,8 +131,8 @@ Die EHB verleiht:
 
 <sup>6</sup> Der EHB-Rat regelt die Einzelheiten in einer Verordnung.
 
-[^7-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^7-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^7-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ## 4. Abschnitt: Organisation
 
@@ -164,7 +164,7 @@ Die Organe der EHB sind:
 
 <sup>7</sup> Die Mitglieder des EHB-Rates sind während der Zugehörigkeit zum EHB-Rat und nach deren Beendigung zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet.
 
-[^9-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -188,7 +188,7 @@ Er hat folgende Aufgaben:
 - j. Er erstellt und verabschiedet für jedes Geschäftsjahr einen Geschäftsbericht und unterbreitet den revidierten Geschäftsbericht dem WBF; das WBF stellt dem Bundesrat Antrag auf Genehmigung, gleichzeitig stellt es dem Bundesrat Antrag auf Entlastung und auf die Verwendung eines allfälligen Gewinns; der EHB-Rat veröffentlicht den Geschäftsbericht nach der Genehmigung.
 - k. Er bestimmt die Verwendung der Reserven im Rahmen der Vorgaben des Bundesrates.
 
-[^10-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^10-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 11
 
@@ -263,7 +263,7 @@ Hochschulangehörige sind:
 
 <sup>3</sup> Für Angestellte in Lehr- und Forschungsprojekten sowie für Personen in Projekten, die mit Drittmitteln finanziert werden, kann das Arbeitsverhältnis während längstens neun Jahren wiederholt befristet abgeschlossen und ordentlich gekündigt werden.
 
-[^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 15
 
@@ -279,7 +279,7 @@ Die EHB kann die Arbeitsverhältnisse des folgenden Personals dem OR[^15-1] unte
 
 <sup>2</sup> Der Arbeitsvertrag für die Personalkategorien nach Absatz 1 kann, sofern er nach dem OR abgeschlossen wurde, über die Gesamtdauer von längstens neun Jahren wiederholt befristet abgeschlossen und ordentlich gekündigt werden. Wird diese Gesamtdauer überschritten, so gilt der Arbeitsvertrag als unbefristet.
 
-[^15-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16
 
@@ -289,7 +289,7 @@ Die EHB kann die Arbeitsverhältnisse des folgenden Personals dem OR[^15-1] unte
 
 <sup>2</sup> Die EHB ist Arbeitgeberin nach Artikel 32*b* Absatz 2 BPG. Sie ist dem Vorsorgewerk Bund angeschlossen. Artikel 32*d* Absatz 3 BPG ist anwendbar.
 
-[^16-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^16-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 17
 
@@ -342,7 +342,7 @@ Die EHB erhebt Gebühren für:
 
 <sup>6</sup> Der EHB-Rat legt in der Gebührenverordnung insbesondere die Gebührentarife fest. Er kann Ausnahmen von der Gebührenpflicht vorsehen, soweit diese durch ein überwiegendes öffentliches Interesse gerechtfertigt sind.
 
-[^20-1]: [SR 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^20-1]: [SR 419.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6861)
 
 #### Art. 21
 
@@ -519,29 +519,33 @@ Mit Busse wird bestraft, wer:
 
 **Informationssysteme**
 
-<sup>1</sup> Zur Erfüllung ihrer gesetzlichen Aufgaben betreibt die EHB Informationssysteme mit Personendaten der Studienanwärterinnen und -anwärter, der Studierenden, der Hörerinnen und Hörer sowie der ehemaligen Studierenden. In diesen Informationssystemen können auch besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeitet werden.
+<sup>1</sup> Zur Erfüllung ihrer gesetzlichen Aufgaben betreibt die EHB Informationssysteme mit Personendaten der Studienanwärterinnen und -anwärter, der Studierenden, der Hörerinnen und Hörer sowie der ehemaligen Studierenden. In diesen Informationssystemen können auch besonders schützenswerte Personendaten bearbeitet werden.[^33-1]
 
 <sup>2</sup> Die EHB darf Personendaten von ehemaligen Studierenden über das Studium, den Berufseinstieg und den beruflichen Werdegang mit deren Einwilligung bearbeiten.
 
-<sup>3</sup> Sie kann die in den Informationssystemen enthaltenen Daten zur Erfüllung gesetzlicher Aufgaben bekannt geben oder durch ein Abrufverfahren zugänglich machen. Die Bekanntgabe von besonders schützenswerten Daten und von Persönlichkeitsprofilen oder deren Zugänglichmachung durch ein Abrufverfahren ist nur gegenüber den für die Studienadministration zuständigen Stellen innerhalb der EHB gestattet.
+<sup>3</sup> Sie kann die in den Informationssystemen enthaltenen Daten zur Erfüllung gesetzlicher Aufgaben bekannt geben oder durch ein Abrufverfahren zugänglich machen. Die Bekanntgabe von besonders schützenswerten Daten oder deren Zugänglichmachung durch ein Abrufverfahren ist nur gegenüber den für die Studienadministration zuständigen Stellen innerhalb der EHB gestattet.[^33-2]
 
-<sup>4</sup> Die EHB ist berechtigt, für die Erfüllung ihrer gesetzlichen Aufgaben die AHV-Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^33-1] über die Alters- und Hinterlassenenversicherung systematisch zu verwenden.
+<sup>4</sup> Die EHB ist berechtigt, für die Erfüllung ihrer gesetzlichen Aufgaben die AHV-Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^33-3] über die Alters- und Hinterlassenenversicherung systematisch zu verwenden.
 
 <sup>5</sup> Für die Bearbeitung der Personendaten des Personals der EHB gelten die Bestimmungen des Bundespersonalrechts.
 
-[^33-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-1]: Fassung des zweiten Satzes gemäss Art. 37 hiernach, in Kraft seit 1. Sept. 2023.
+[^33-2]: Fassung des zweiten Satzes gemäss Art. 37 hiernach, in Kraft seit 1. Sept. 2023.
+[^33-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 34
 
 **Forschungsprojekte**
 
-<sup>1</sup> Die EHB kann im Rahmen von Forschungsprojekten Personendaten, einschliesslich besonders schützenswerter Personendaten sowie Persönlichkeitsprofile, bearbeiten, soweit dies für das entsprechende Forschungsprojekt erforderlich ist.
+<sup>1</sup> Die EHB kann im Rahmen von Forschungsprojekten Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten, soweit dies für das entsprechende Forschungsprojekt erforderlich ist.[^34-1]
 
 <sup>2</sup> Sie sorgt dafür, dass die Personendaten, sobald es der Zweck des Bearbeitens erlaubt, so anonymisiert werden, dass Auswertungen keine Rückschlüsse auf die betroffene Person erlauben. Die anonymisierten Personendaten dürfen während der für das Projekt festgelegten Frist aufbewahrt werden. Der EHB-Rat regelt die Einzelheiten im Organisationsreglement.
 
 <sup>3</sup> Ist eine Anonymisierung aufgrund von Sinn und Zweck des Forschungsprojekts nicht möglich, so dürfen personenbezogene Forschungsdaten während höchstens 20 Jahren sicher aufbewahrt werden.
 
 <sup>4</sup> Die EHB gewährleistet, dass die betroffenen Personen über die Beschaffung, den Zweck und die Bearbeitung von Personendaten im Zusammenhang mit einem bestimmten Forschungsprojekt informiert werden.
+
+[^34-1]: Fassung gemäss Art. 37 hiernach, in Kraft seit 1. Sept. 2023.
 
 ## 10. Abschnitt: Schlussbestimmungen
 
@@ -555,7 +559,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen, soweit dieses Gesetz diese 
 
 **Änderung eines anderen Erlasses**
 
-...[^36-1]
+…[^36-1]
 
 [^36-1]: Die Änderung kann unter [AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414)konsultiert werden.
 
@@ -563,19 +567,12 @@ Der Bundesrat erlässt die Ausführungsbestimmungen, soweit dieses Gesetz diese 
 
 **Koordination mit dem Datenschutzgesetz**
 
-Mit Inkrafttreten des Datenschutzgesetzes vom 25. September 2020*[^37-1]* lauten die nachfolgenden Bestimmungen des vorliegenden Gesetzes wie folgt:
+Mit Inkrafttreten des Datenschutzgesetzes vom 25. September 2020[^37-1] lauten die nachfolgenden Bestimmungen des vorliegenden Gesetzes wie folgt:
 
-Art. 33 Abs. 1 zweiter Satz und 3 zweiter Satz
+…[^37-2]
 
-<sup>1</sup> ... In diesen Informationssystemen können auch besonders schützenswerte Personendaten bearbeitet werden.
-
-<sup>3</sup> ... Die Bekanntgabe von besonders schützenswerten Daten oder deren Zugänglichmachung durch ein Abrufverfahren ist nur gegenüber den für die Studienadministration zuständigen Stellen innerhalb der EHB gestattet.
-
-Art. 34 Abs. 1
-
-<sup>1</sup> Die EHB kann im Rahmen von Forschungsprojekten Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten, soweit dies für das entsprechende Forschungsprojekt erforderlich ist.
-
-[^37-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^37-1]: [AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)
+[^37-2]: Die Koordinationsbestimmung kann unter [AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414)konsultiert werden.
 
 #### Art. 38
 

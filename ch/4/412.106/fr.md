@@ -3,20 +3,22 @@ sr: "412.106"
 title: Loi fédérale du 25 septembre 2020 sur la Haute école fédérale en formation professionnelle (Loi sur la HEFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/414"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2020-09-25
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-414-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-414-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la Haute école fédérale en formation professionnelle\*
 
-(Loi sur la HEFP)
+(Loi sur la HEFP)[^t-1]
 
-du 25 septembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 septembre 2020 (État le 1<sup>er</sup> septembre 2023)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -24,7 +26,7 @@ vu les art. 63, al. 1 et 63*a,* al. 1, 2<sup>e</sup> phrase, de la Constitution[
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)
 
 ## Section 1 Établissement, buts et principes
@@ -47,7 +49,7 @@ arrête:
 
 <sup>7</sup> Elle fait l’objet d’une accréditation au sens de l’art. 28, al. 1, let. a, de la loi fédérale du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^1-1].
 
-[^1-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^1-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 2
 
@@ -86,7 +88,7 @@ La HEFP propose:
 
 <sup>5</sup> Le Conseil fédéral peut confier à la HEFP d’autres tâches d’intérêt national relevant du domaine de la formation professionnelle.
 
-[^4-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^4-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 5
 
@@ -131,8 +133,8 @@ La HEFP décerne:
 
 <sup>6</sup> Le Conseil de la HEFP fixe les modalités par voie d’ordonnance.
 
-[^7-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^7-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^7-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ## Section 4 Organisation
 
@@ -164,7 +166,7 @@ Les organes de la HEFP sont:
 
 <sup>7</sup> Les membres du Conseil de la HEFP sont tenus au secret de fonction durant leur mandat et au-delà.
 
-[^9-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -188,7 +190,7 @@ Il accomplit les tâches suivantes:
 - j. il établit et adopte chaque année un rapport de gestion et soumet le rapport de gestion révisé au DEFR; le DEFR propose au Conseil fédéral d’approuver le rapport; il lui propose simultanément de donner décharge au Conseil de la HEFP et lui soumet une proposition concernant l’utilisation d’un éventuel bénéfice; le Conseil de la HEFP publie le rapport de gestion approuvé par le Conseil fédéral;
 - k. il décide de l’utilisation des réserves dans les limites qui lui sont imposées par le Conseil fédéral.
 
-[^10-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^10-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 11
 
@@ -263,7 +265,7 @@ Les personnes relevant de la haute école sont:
 
 <sup>3</sup> Les contrats de travail des employés engagés dans des projets pédagogiques ou de recherche et des personnes participant à des projets financés par des tiers peuvent être conclus pour une durée déterminée et résiliés selon la procédure ordinaire; ils peuvent être renouvelés pendant neuf ans au plus.
 
-[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 15
 
@@ -279,7 +281,7 @@ La HEFP peut soumettre au CO[^15-1] le contrat de travail du personnel suivant:
 
 <sup>2</sup> Le contrat de travail des personnes visées à l’al. 1 peut, s’il est soumis au CO, être conclu et renouvelé pour une durée déterminée et résilié selon la procédure ordinaire pendant une durée totale de neuf ans au plus. Au-delà de cette durée totale, il est réputé de durée indéterminée.
 
-[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16
 
@@ -289,7 +291,7 @@ La HEFP peut soumettre au CO[^15-1] le contrat de travail du personnel suivant:
 
 <sup>2</sup> La HEFP est l’employeur au sens de l’art. 32*b*, al. 2, LPers. Elle est affiliée à la Caisse de prévoyance de la Confédération. L’art. 32*d*, al. 3, LPers s’applique.
 
-[^16-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^16-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 17
 
@@ -342,7 +344,7 @@ La HEFP perçoit des émoluments:
 
 <sup>6</sup> L’ordonnance sur les émoluments fixe notamment le barème des émoluments. Elle peut prévoir des dérogations à l’obligation d’acquitter des émoluments dans la mesure où elles sont justifiées par un intérêt public prépondérant.
 
-[^20-1]: [RS 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^20-1]: [RS 419.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6861)
 
 #### Art. 21
 
@@ -519,29 +521,33 @@ Est puni d’une amende quiconque:
 
 **Systèmes d’information**
 
-<sup>1</sup> La HEFP exploite pour l’accomplissement de ses tâches légales des systèmes d’information contenant les données personnelles des candidats, des étudiants, des auditeurs et des anciens étudiants. Ces systèmes peuvent traiter les données sensibles et les profils de la personnalité.
+<sup>1</sup> La HEFP exploite pour l’accomplissement de ses tâches légales des systèmes d’information contenant les données personnelles des candidats, des étudiants, des auditeurs et des anciens étudiants. Ces systèmes peuvent traiter les données sensibles.[^33-1]
 
 <sup>2</sup> Elle peut traiter les données relatives aux études, au premier emploi et au parcours professionnel des anciens étudiants s’ils y consentent.
 
-<sup>3</sup> Elle peut communiquer ou rendre accessibles en ligne les données contenues dans les systèmes d’information si cela est nécessaire pour l’accomplissement de tâches légales. Les données sensibles et les profils de la personnalité sont communiqués uniquement aux services chargés de la gestion des études au sein de la HEFP, et ceux-ci sont seuls à pouvoir y accéder en ligne.
+<sup>3</sup> Elle peut communiquer ou rendre accessibles en ligne les données contenues dans les systèmes d’information si cela est nécessaire pour l’accomplissement de tâches légales. Les données sensibles sont communiquées uniquement aux services chargés de la gestion des études au sein de la HEFP, et ceux-ci sont seuls à pouvoir y accéder en ligne.[^33-2]
 
-<sup>4</sup> Elle est habilitée à utiliser systématiquement le numéro d’assuré AVS au sens de l’art. 50*c* de la loi du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^33-1] dans l’accomplissement de ses tâches légales.
+<sup>4</sup> Elle est habilitée à utiliser systématiquement le numéro d’assuré AVS au sens de l’art. 50*c* de la loi du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^33-3] dans l’accomplissement de ses tâches légales.
 
 <sup>5</sup> Le droit du personnel de la Confédération s’applique au traitement des données du personnel de la HEFP.
 
-[^33-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-1]: Teneur de la phrase selon l’art. 37 ci-après, en vigueur depuis le 1<sup>er</sup> sept. 2023.
+[^33-2]: Teneur de la phrase selon l’art. 37 ci-après, en vigueur depuis le 1<sup>er</sup> sept. 2023.
+[^33-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 34
 
 **Projets de recherche**
 
-<sup>1</sup> La HEFP traite des données personnelles, y compris des données sensibles et des profils de la personnalité, dans le cadre de projets de recherche, dans la mesure où le projet concerné l’exige.
+<sup>1</sup> La HEFP traite des données personnelles, y compris des données sensibles, dans le cadre de projets de recherche, dans la mesure où le projet concerné l’exige.[^34-1]
 
 <sup>2</sup> Elle veille à ce que les données personnelles soient anonymisées dès que le but du traitement le permet, de telle manière qu’il ne soit pas possible d’identifier les personnes concernées. Les données anonymisées peuvent être conservées jusqu’à échéance du délai fixé pour le projet concerné. Le Conseil de la HEFP fixe les modalités dans le règlement d’organisation.
 
 <sup>3</sup> Lorsque la nature et le but du projet de recherche rendent impossible l’anonymisation des données, les données de recherche liées à des personnes ne peuvent être conservées de manière sûr pendant plus de vingt ans.
 
 <sup>4</sup> La HEFP veille à ce que les personnes concernées soient informées de la collecte et du traitement de leurs données personnelles ainsi que du but poursuivi par le projet de recherche.
+
+[^34-1]: Teneur selon l’art. 37 ci-après, en vigueur depuis le 1<sup>er</sup> sept. 2023.
 
 ## Section 10 Dispositions finales
 
@@ -555,7 +561,7 @@ Le Conseil fédéral édicte les dispositions d’exécution, pour autant que la
 
 **Modification d’un autre acte**
 
-...[^36-1]
+…[^36-1]
 
 [^36-1]: La mod. peut être consultée au [RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414).
 
@@ -563,19 +569,12 @@ Le Conseil fédéral édicte les dispositions d’exécution, pour autant que la
 
 **Coordination avec la loi fédérale sur la protection des données**
 
-À l’entrée en vigueur de la loi fédérale du 25 septembre 2020 sur la protection des données*[^37-1]*, les dispositions ci-après de la présente loi auront la teneur suivante:
+À l’entrée en vigueur de la loi fédérale du 25 septembre 2020 sur la protection des données[^37-1], les dispositions ci-après de la présente loi auront la teneur suivante:
 
-Art. 33, al. 1, 2<sup>e</sup> phrase et 3, 2<sup>e</sup> phrase
+…[^37-2]
 
-<sup>1</sup> ... Ces systèmes peuvent traiter les données sensibles.
-
-<sup>3</sup> ... Les données sensibles sont communiquées uniquement aux services chargés de la gestion des études au sein de la HEFP, et ceux-ci sont seuls à pouvoir y accéder en ligne.
-
-Art. 34, al. 1
-
-<sup>1</sup> La HEFP traite des données personnelles, y compris des données sensibles, dans le cadre de projets de recherche, dans la mesure où le projet concerné l’exige.
-
-[^37-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^37-1]: [RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^37-2]: La disp. de coordination peut être consultée au [RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414).
 
 #### Art. 38
 
@@ -585,6 +584,6 @@ Art. 34, al. 1
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-Dates de l’entrée en vigueur:[^38-1] art. 1 à 13 et 16 à 38 le 1<sup>er</sup> août 2021; art. 14 et 15 le 1<sup>er</sup> janvier 2022.
+Dates de l’entrée en vigueur:[^38-1] art. 1 à 13 et 16 à 38: 1<sup>er</sup> août 2021 art. 14 et 15: 1<sup>er</sup> janvier 2022.
 
 [^38-1]: ACF du 18 juin 2021

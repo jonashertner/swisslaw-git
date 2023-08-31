@@ -3,11 +3,11 @@ sr: "412.106"
 title: Legge federale del 25 settembre 2020 sulla Scuola universitaria federale per la formazione professionale (Legge sulla SUFFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/414"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2020-09-25
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-414-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-414-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20220101/it"
 
 (Legge sulla SUFFP)
 
-del 25 settembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 25 settembre 2020 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -24,7 +24,7 @@ visti gli articoli 63 capoverso 1 e 63*a* capoverso 1 secondo periodo della Cost
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2020 627](https://fedlex.data.admin.ch/eli/fga/2020/67)
 
 ## Sezione 1: Istituto, obiettivi e principi
@@ -47,7 +47,7 @@ decreta:
 
 <sup>7</sup> Essa provvede a ottenere l’accreditamento istituzionale secondo l’articolo 28 capoverso 1 lettera a della legge federale del 30 settembre 2011[^1-1] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU).
 
-[^1-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^1-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 2
 
@@ -86,7 +86,7 @@ La SUFFP offre:
 
 <sup>5</sup> Il Consiglio federale può affidare alla SUFFP altri compiti di interesse nazionale nel settore della formazione professionale.
 
-[^4-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^4-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 5
 
@@ -131,8 +131,8 @@ La SUFFP conferisce:
 
 <sup>6</sup> Il Consiglio della SUFFP disciplina i dettagli in un’ordinanza.
 
-[^7-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^7-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^7-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ## Sezione 4: Organizzazione
 
@@ -164,7 +164,7 @@ Gli organi della SUFFP sono:
 
 <sup>7</sup> I membri del Consiglio della SUFFP sono tenuti al segreto d’ufficio durante il mandato e dopo la cessazione dello stesso.
 
-[^9-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -188,7 +188,7 @@ Ha i compiti seguenti:
 - j. redige e adotta un rapporto di gestione per ogni esercizio e sottopone il rapporto di gestione riveduto al DEFR; quest’ultimo ne propone l’approvazione al Consiglio federale; nel contempo gli presenta la proposta di discarico e una proposta circa l’impiego di un eventuale utile; il Consiglio della SUFFP pubblica il rapporto di gestione approvato;
 - k. decide in merito all’impiego delle riserve nel quadro delle direttive del Consiglio federale.
 
-[^10-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^10-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 11
 
@@ -263,7 +263,7 @@ Sono membri della Scuola:
 
 <sup>3</sup> Per gli impiegati attivi in progetti d’insegnamento e di ricerca e per le persone che collaborano a progetti finanziati da terzi, il rapporto di lavoro a tempo determinato può essere rinnovato più volte per una durata complessiva di nove anni al massimo e disdetto secondo la procedura ordinaria.
 
-[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 15
 
@@ -279,7 +279,7 @@ La SUFFP può sottoporre al CO[^15-1] i rapporti di lavoro del personale seguent
 
 <sup>2</sup> Se è stato concluso secondo il CO, il contratto di lavoro a tempo determinato per le categorie di personale di cui al capoverso 1 può essere rinnovato più volte per una durata complessiva di nove anni al massimo e disdetto secondo la procedura ordinaria. Oltre tale durata il contratto di lavoro è considerato di durata indeterminata
 
-[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16
 
@@ -289,7 +289,7 @@ La SUFFP può sottoporre al CO[^15-1] i rapporti di lavoro del personale seguent
 
 <sup>2</sup> La SUFFP è considerata datore di lavoro secondo l’articolo 32*b* capoverso 2 LPers. È affiliata alla cassa di previdenza della Confederazione. È applicabile l’articolo 32*d* capoverso 3 LPers.
 
-[^16-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^16-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 17
 
@@ -342,7 +342,7 @@ La SUFFP riscuote emolumenti per:
 
 <sup>6</sup> Nell’ordinanza sugli emolumenti il Consiglio della SUFFP stabilisce in particolare il tariffario degli emolumenti. Può prevedere eccezioni all’obbligo di versare gli emolumenti se ciò è giustificato da un interesse pubblico preponderante.
 
-[^20-1]: [RS 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^20-1]: [RS 419.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6861)
 
 #### Art. 21
 
@@ -519,29 +519,33 @@ Nel caso di infrazioni gravi e reiterate può prevedere i seguenti provvedimenti
 
 **Sistemi d’informazione**
 
-<sup>1</sup> Per adempiere i propri compiti legali la SUFFP gestisce dei sistemi d’informazione con i dati personali dei candidati agli studi, degli studenti, degli uditori nonché degli ex studenti. In questi sistemi d’informazione possono essere trattati anche dati personali degni di particolare protezione e profili della personalità.
+<sup>1</sup> Per adempiere i propri compiti legali la SUFFP gestisce dei sistemi d’informazione con i dati personali dei candidati agli studi, degli studenti, degli uditori nonché degli ex studenti. In questi sistemi d’informazione possono essere trattati anche dati personali degni di particolare protezione.[^33-1]
 
 <sup>2</sup> Previo il loro consenso, la SUFFP è autorizzata a trattare i dati personali di ex studenti relativi agli studi, al primo impiego e alla carriera professionale.
 
-<sup>3</sup> Per l’adempimento di compiti legali può comunicare o rendere accessibili mediante procedura di richiamo i dati contenuti nei sistemi d’informazione. I dati degni di particolare protezione e i profili della personalità sono comunicati o resi accessibili mediante procedura di richiamo unicamente ai servizi cui compete la gestione degli studi all’interno della SUFFP.
+<sup>3</sup> Per l’adempimento di compiti legali può comunicare o rendere accessibili mediante procedura di richiamo i dati contenuti nei sistemi d’informazione. I dati degni di particolare protezione sono comunicati o resi accessibili mediante procedura di richiamo unicamente ai servizi cui compete la gestione degli studi all’interno della SUFFP.[^33-2]
 
-<sup>4</sup> Per adempiere i propri compiti legali la SUFFP è autorizzata a utilizzare sistematicamente il numero AVS secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^33-1] sull’assicurazione per la vecchiaia e per i superstiti.
+<sup>4</sup> Per adempiere i propri compiti legali la SUFFP è autorizzata a utilizzare sistematicamente il numero AVS secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^33-3] sull’assicurazione per la vecchiaia e per i superstiti.
 
 <sup>5</sup> Al trattamento dei dati personali del personale della SUFFP si applicano le disposizioni del diritto del personale federale.
 
-[^33-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-1]: Testo del per. giusta l’art. 37 qui avanti, in vigore dal 1° set. 2023.
+[^33-2]: Testo del per. giusta l’art. 37 qui avanti, in vigore dal 1° set. 2023.
+[^33-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 34
 
 **Progetti di ricerca**
 
-<sup>1</sup> Nell’ambito di progetti di ricerca la SUFFP può trattare dati personali, inclusi dati personali degni di particolare protezione e profili della personalità, se necessario per il progetto di ricerca.
+<sup>1</sup> Nell’ambito di progetti di ricerca la SUFFP può trattare dati personali, inclusi dati personali degni di particolare protezione, se necessario per il progetto di ricerca.[^34-1]
 
 <sup>2</sup> La SUFFP provvede affinché i dati personali siano anonimizzati, non appena lo scopo del trattamento lo consente, in modo tale che le analisi effettuate non permettano di risalire alla persona interessata. I dati personali anonimizzati possono essere conservati per il periodo stabilito per il progetto. Il Consiglio della SUFFP disciplina i dettagli nel regolamento di organizzazione.
 
 <sup>3</sup> Se la natura e lo scopo del progetto di ricerca non ne consentono l’anonimizzazione, i dati della ricerca riferiti a persone possono essere conservati in modo sicuro al massimo per 20 anni.
 
 <sup>4</sup> La SUFFP assicura che le persone interessate siano informate della raccolta, dello scopo e del trattamento dei dati personali in relazione con un determinato progetto di ricerca.
+
+[^34-1]: Testo giusta l’art. 37 qui avanti, in vigore dal 1° set. 2023.
 
 ## Sezione 10: Disposizioni finali
 
@@ -563,19 +567,12 @@ Il Consiglio federale emana le disposizioni d’esecuzione per quanto la present
 
 **Coordinamento con la legge federale sulla protezione dei dati**
 
-All’entrata in vigore della legge federale del 25 settembre 2020*[^37-1]* sulla protezione dei dati, le disposizioni qui appresso della presente legge avranno il tenore seguente:
+All’entrata in vigore della legge federale del 25 settembre 2020[^37-1] sulla protezione dei dati, le disposizioni qui appresso della presente legge avranno il tenore seguente:
 
-Art. 33 cpv. 1, secondo periodo e 3, secondo periodo
+...[^37-2]
 
-<sup>1</sup> ... In questi sistemi d’informazione possono essere trattati anche dati personali degni di particolare protezione.
-
-<sup>3</sup> … I dati degni di particolare protezione sono comunicati o resi accessibili mediante procedura di richiamo unicamente ai servizi cui compete la gestione degli studi all’interno della SUFFP.
-
-Art. 34 cpv. 1
-
-<sup>1</sup> Nell’ambito di progetti di ricerca la SUFFP può trattare dati personali, inclusi dati personali degni di particolare protezione, se necessario per il progetto di ricerca.
-
-[^37-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^37-1]: [RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)
+[^37-2]: La disp di coordinamento. può essere consultata alla [RU 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414).
 
 #### Art. 38
 
