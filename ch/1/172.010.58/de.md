@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über die Koordination der digitalen Tr
 short: VDTI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/de"
 
 (Verordnung über die digitale Transformation und die Informatik, VDTI)
 
-vom 25. November 2020 (Stand am 1. Januar 2022)
+vom 25. November 2020 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -369,7 +369,9 @@ Folgende Daten werden im MDG als zentrale Daten geführt:
   - 3\. Verkaufskonditionen,
   - 4\. Einkaufskonditionen.
 
-<sup>2</sup> Im MDG dürfen keine besonders schützenswerten Personendaten oder Persönlichkeitsprofile geführt werden.
+<sup>2</sup> Im MDG dürfen keine besonders schützenswerten Personendaten geführt werden.[^26-1]
+
+[^26-1]: Fassung gemäss Anhang 2 Ziff. II 17 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

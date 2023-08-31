@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sul coordinamento della trasformazione di
 short: OTDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/it"
 
 (Ordinanza sulla trasformazione digitale e l’informatica, OTDI)
 
-del 25 novembre 2020 (Stato 1° gennaio 2022)
+del 25 novembre 2020 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -367,7 +367,9 @@ I dati seguenti sono gestiti in modo centralizzato nel sistema GDB:
   - 3\. condizioni di vendita,
   - 4\. condizioni d’acquisto.
 
-<sup>2</sup> Nel sistema GDB non possono essere gestiti né dati personali degni di particolare protezione né profili della personalità.
+<sup>2</sup> Nel sistema GDB non possono essere gestiti dati personali degni di particolare protezione.[^26-1]
+
+[^26-1]: Nuovo testo giusta l’all. 2 n. II 17 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

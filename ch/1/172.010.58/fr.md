@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 sur la coordination de la transformation 
 short: OTNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20220101/fr"
 
 (Ordonnance sur la transformation numérique et l’informatique, OTNI)
 
-du 25 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 novembre 2020 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -367,7 +367,9 @@ Les données suivantes sont gérées de manière centralisée dans le GDR:
   - 3\. conditions de vente,
   - 4\. conditions d’achat.
 
-<sup>2</sup> Aucune donnée sensible et aucun profil de la personnalité ne peuvent être gérés dans le GDR.
+<sup>2</sup> Aucune donnée sensible ne peut être gérée dans le GDR.[^26-1]
+
+[^26-1]: Nouvelle teneur selon l’annexe 2 ch. II 17 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -505,7 +507,7 @@ Le secteur TNI de la ChF peut attribuer, dans le cadre de l’exécution budgét
 
 <sup>3</sup> Les directives du Conseil fédéral, du Département fédéral des finances et de l’UPIC en matière informatique qui ont été adoptées avant l’entrée en vigueur de la présente ordonnance conservent leur validité, dans la mesure où elles n’entrent pas en contradiction avec la présente ordonnance et n’ont pas été modifiées ou abrogées par l’autorité compétente au sens de la présente ordonnance.
 
-[^36-1]: [[RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844), [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)ch. III 2, [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319)[3445](https://fedlex.data.admin.ch/eli/oc/2016/581), [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)annexe 3 ch. II 1, [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)annexe ch. 1]
+[^36-1]: [[RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)ch. III 2; [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)annexe 3 ch. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)annexe ch. 1]
 
 #### Art. 37
 
@@ -521,6 +523,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988).
