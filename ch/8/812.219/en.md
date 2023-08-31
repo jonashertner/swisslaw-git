@@ -4,11 +4,11 @@ title: Ordinance of 26 May 2022 on In Vitro Diagnostic Medical Devices (IvDO)
 short: IvDO
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: en
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2022-291-20220526-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20220526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2022-291-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (IvDO)
 
-of 4 May 2022 (Status as of 26 May 2022)
+of 4 May 2022 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -1203,7 +1203,9 @@ The amendment of other legislation is regulated in Annex 5.
 
 Certificates issued under the old legislation retain their validity until the expiry date stated therein, but no longer than 26 May 2025.
 
-**Art. 82** Placing on the market of devices that comply with the old legislation
+#### Art. 82
+
+**Placing on the market of devices that comply with the old legislation**
 
 <sup>1</sup>
 
@@ -1223,13 +1225,7 @@ Provided the following devices continue to comply with the old legislation as of
 
 <sup>3</sup> Devices legally placed on the market prior to 26 May 2022 under the old legislation may continue to be made available on the market or put into service until 26 May 2025.
 
-<sup>4</sup> **Art. 83** Requirements for devices manufactured and used in healthcare institutions
-
-The requirements set out in Article 9 for devices manufactured and used in healthcare institutions shall apply from the following dates:
-
-a. the requirements set out in Article 5 paragraph 5 letters b, c and e-i EU-IVDR[^81-1]: from 26 May 2024;
-
-b. the requirements set out in Article 5 paragraph 5 letter d EU-IVDR: 26 May 2028.
+<sup>4</sup>
 
 Devices legally placed on the market prior to 26 May 2022 in accordance with paragraph 1 may continue to be made available on the market or put into service until the following dates:
 
@@ -1237,7 +1233,17 @@ Devices legally placed on the market prior to 26 May 2022 in accordance with par
 - b. devices specified in paragraph 1 letter b point 2: until 26 May 2027;
 - c. devices specified in paragraph 1 letter b points 3 and 4: until 26 May 2028.
 
-[^81-1]: See the footnote to Art. 4 para. 1 let. e
+#### Art. 83
+
+**Requirements for devices manufactured and used in healthcare institutions**
+
+The requirements set out in Article 9 for devices manufactured and used in healthcare institutions shall apply from the following dates:
+
+a. the requirements set out in Article 5 paragraph 5 letters b, c and e-i EU-IVDR[^83-1]: from 26 May 2024;
+
+b. the requirements set out in Article 5 paragraph 5 letter d EU-IVDR: 26 May 2028.
+
+[^83-1]: See the footnote to Art. 4 para. 1 let. e
 
 #### Art. 84
 
@@ -1254,11 +1260,9 @@ Exemptions issued by Swissmedic under Article 9 paragraph 4 and Article 17 parag
 
 The UDI must be affixed in accordance with Article 16 paragraph 2:
 
-a. for class D devices: from 26 May 2023;
-
-b. for class B and C devices: from 26 May 2025;
-
-c. for class A devices: from 26 May 2027;
+- a. for class D devices: from 26 May 2023;
+- b. for class B and C devices: from 26 May 2025;
+- c. for class A devices: from 26 May 2027;
 
 #### Art. 86
 
@@ -1342,7 +1346,7 @@ The terms listed below and used in EU-IVDR[^annex1-lvlu1-1] and this Ordinance a
 
 <table>
 <tr><th>EU</th><th>Switzerland</th></tr>
-<tr><td>*a. English terms*</td><td></td></tr>
+<tr><td>a. English terms</td><td></td></tr>
 <tr><td>Union</td><td>Switzerland</td></tr>
 <tr><td>Member State</td><td>Switzerland</td></tr>
 <tr><td>Third country</td><td>Other state</td></tr>
@@ -1351,10 +1355,10 @@ The terms listed below and used in EU-IVDR[^annex1-lvlu1-1] and this Ordinance a
 <tr><td>Harmonised standard</td><td>Designated standard</td></tr>
 <tr><td>State of the art</td><td>Scientific and technological standards</td></tr>
 <tr><td>EU declaration of conformity</td><td>Declaration of conformity</td></tr>
-<tr><td>Official Journal of the European Union</td><td>Federal Gazette (*Bundesblatt*)</td></tr>
+<tr><td>Official Journal of the European Union</td><td>Federal Gazette (Bundesblatt)</td></tr>
 <tr><td>Established outside / within the Union</td><td>Domiciled in / outside Switzerland</td></tr>
 <tr><td>Authority</td><td>Competent authority under Swiss law</td></tr>
-<tr><td>*a. Deutsche Ausdrücke*</td><td></td></tr>
+<tr><td>a. Deutsche Ausdrücke</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
@@ -1368,7 +1372,7 @@ The terms listed below and used in EU-IVDR[^annex1-lvlu1-1] and this Ordinance a
 <tr><td>Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
 <tr><td>Angehörige der Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
-<tr><td>*b. French terms*</td><td></td></tr>
+<tr><td>b. French terms</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1385,7 +1389,7 @@ The terms listed below and used in EU-IVDR[^annex1-lvlu1-1] and this Ordinance a
 <tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
 <tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
 <tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
-<tr><td>*c. Italian terms*</td><td></td></tr>
+<tr><td>c. Italian terms</td><td></td></tr>
 <tr><td>Unione</td><td>Svizzera</td></tr>
 <tr><td>Stato Membro</td><td>Svizzera</td></tr>
 <tr><td>paese terzo</td><td>altro Stato</td></tr>
@@ -1409,11 +1413,13 @@ The terms listed below and used in EU-IVDR[^annex1-lvlu1-1] and this Ordinance a
 
 [^annex1-lvlu1-1]: See the footnote to Art. 4 para. 1 let. e.
 
-Annex 2
+Annex 2[^t-1]
 
 (Art. 5 para. 2)
 
 ## Applicable law
+
+[^t-1]: Revised by Annex 2 No II 103 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 EU law
 
@@ -1436,7 +1442,7 @@ Where this Ordinance makes reference to provisions of EU-IVDR that in turn make 
 <tr><td>4. Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility, OJ L 96 of 29.3.2001, p. 79</td><td>[tab] Ordinance of 25 November 2015[^annex2-lvlu1-lvl2-2] on Electromagnetic Compatibility</td></tr>
 <tr><td>5. Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on machinery, and amending Directive 95/16/EC, OJ L 157 of 09.06.2006, p. 24</td><td>[tab] Machine Ordinance of 2 April 2008[^annex2-lvlu1-lvl2-3]</td></tr>
 <tr><td>6. Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council, OJ L 316 of 14.11.2021, p. 12</td><td>[tab] Therapeutic Products Act of 15 December 2000 and Federal Act of 6 October 1995[^annex2-lvlu1-lvl2-4] on Technical Barriers to Trade</td></tr>
-<tr><td>7. Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data, OJ L 8 of 12.1.2001, p. 1</td><td>[tab] Federal Act of 19 June 1992[^annex2-lvlu1-lvl2-5] on Data Protection</td></tr>
+<tr><td>7. Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data, OJ L 8 of 12.1.2001, p. 1</td><td>[tab] Data Protection Act of 25 September 2023[^annex2-lvlu1-lvl2-5]</td></tr>
 <tr><td>8. Regulation (EC) No. 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93, OJ L 218 of 13.8.2008, p. 30</td><td>[tab] Federal Act of 6 October 1995 on Technical Barriers to Trade and Product Safety Act of 12 June 2009[^annex2-lvlu1-lvl2-6]</td></tr>
 <tr><td>9. Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1</td><td>[tab] Chemicals Act of 15 December 2000[^annex2-lvlu1-lvl2-7]</td></tr>
 <tr><td>10. Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC, OJ L 39 of 15.2.1980, p. 40</td><td>[tab] Metrology Act of 17 June 2011[^annex2-lvlu1-lvl2-8]</td></tr>
@@ -1485,11 +1491,11 @@ Annex 4
 
 The conformity marking is as follows:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/en/xml/image/image1.png)
 
 Where a designated body has to be involved, its identification number is to be placed beside its conformity marking:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/en/xml/image/image2.png)
 
 Annex 5
 

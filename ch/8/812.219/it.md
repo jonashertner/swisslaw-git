@@ -4,11 +4,11 @@ title: Ordinanza del 4 maggio 2022 relativa ai dispositivi medico-diagnostici in
 short: ODIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: it
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2022-291-20220526-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20220526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-291-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20220526/it"
 
 (ODIV)
 
-del 4 maggio 2022 (Stato 26 maggio 2022)
+del 4 maggio 2022 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero
 
@@ -1342,7 +1342,7 @@ Le espressioni qui appresso dell’UE-IVDR[^annex1-lvlu1-1] hanno nella presente
 
 <table>
 <tr><td>EU</td><td>Schweiz</td></tr>
-<tr><td>*a. Deutsche Ausdrücke*</td><td></td></tr>
+<tr><td>a. Deutsche Ausdrücke</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
@@ -1356,7 +1356,7 @@ Le espressioni qui appresso dell’UE-IVDR[^annex1-lvlu1-1] hanno nella presente
 <tr><td>Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
 <tr><td>Angehörige der Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
-<tr><td>*b. Espressioni in francese*</td><td></td></tr>
+<tr><td>b. Espressioni in francese</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1397,11 +1397,13 @@ Le espressioni qui appresso dell’UE-IVDR[^annex1-lvlu1-1] hanno nella presente
 
 [^annex1-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 5 cpv. 2)
 
 ## Diritto applicabile
+
+[^t-1]: Aggiornato dall’all. 2 n. II 103 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 Diritto UE
 
@@ -1424,7 +1426,7 @@ Se nella presente ordinanza si rimanda a disposizioni dell’UE-IVDR che, a loro
 <tr><td>4. Direttiva 2014/30/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica (rifusione), GU L 96 del 29.3.2014, pag. 79</td><td>Ordinanza del 25 novembre 2015[^annex2-lvlu1-lvl2-2] sulla compatibilità elettromagnetica</td></tr>
 <tr><td>5. Direttiva 2006/42/CE del Parlamento europeo e del Consiglio, del 17 maggio 2006, relativa alle macchine e che modifica la direttiva 95/16/CE (rifusione), GU L 157 del 9.6.2006, pag. 24</td><td>Ordinanza del 2 aprile 2008[^annex2-lvlu1-lvl2-3] sulle macchine</td></tr>
 <tr><td>6. Regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, sulla normazione europea, che modifica le direttive 89/686/CEE e 93/15/CEE del Consiglio nonché le direttive 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE del Parlamento europeo e del Consiglio e che abroga la decisione 87/95/CEE del Consiglio e la decisione n. 1673/2006/CE del Parlamento europeo e del Consiglio, GU L 316 del 14.11.2012, pag. 12</td><td>Legge del 15 dicembre 2000 sugli agenti terapeutici e legge federale del 6 ottobre 1995[^annex2-lvlu1-lvl2-4] sugli ostacoli tecnici al commercio</td></tr>
-<tr><td>7. Regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del 18 dicembre 2000, concernente la tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni e degli organismi comunitari, nonché la libera circolazione di tali dati, GU L 8 del 12.1.2001, pag. 1</td><td>Legge federale del 19 giugno 1992[^annex2-lvlu1-lvl2-5] sulla protezione dei dati</td></tr>
+<tr><td>7. Regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del 18 dicembre 2000, concernente la tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni e degli organismi comunitari, nonché la libera circolazione di tali dati, GU L 8 del 12.1.2001, pag. 1</td><td>Legge federale del 25 settembre 2020[^annex2-lvlu1-lvl2-5] sulla protezione dei dati</td></tr>
 <tr><td>8. Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93, GU L 218 del 13.8.2008, pag. 30</td><td>Legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio e legge federale del 12 giugno 2009[^annex2-lvlu1-lvl2-6] sulla sicurezza dei prodotti</td></tr>
 <tr><td>9. Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1</td><td>Legge del 15 dicembre 2000[^annex2-lvlu1-lvl2-7] sui prodotti chimici</td></tr>
 <tr><td>10. Direttiva 80/181/CEE del Consiglio, del 20 dicembre 1979, per il ravvicinamento delle legislazioni degli Stati Membri relative alle unità di misura che abroga la direttiva 71/354/CEE, GU L 39 del 15.2.1980, pag. 40</td><td>Legge federale del 17 giugno 2011[^annex2-lvlu1-lvl2-8] sulla metrologia</td></tr>
@@ -1475,11 +1477,11 @@ Allegato 4
 
 Il marchio di conformità è indicato nel modo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/it/xml/image/image1.png)
 
 Se occorre fare ricorso a un organismo designato, oltre al marchio di conformità va indicato anche il numero d’identificazione di tale organismo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/it/xml/image/image2.png)
 
 Allegato 5
 

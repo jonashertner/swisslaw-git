@@ -4,11 +4,11 @@ title: Verordnung vom 4. Mai 2022 über In-vitro-Diagnostika (IvDV)
 short: IvDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: de
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2022-291-20220526-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20220526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-291-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20220526/de"
 
 (IvDV)
 
-vom 4. Mai 2022 (Stand am 26. Mai 2022)
+vom 4. Mai 2022 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1342,7 +1342,7 @@ Die nachstehenden Ausdrücke der EU-IVDR[^annex1-lvlu1-1] und der vorliegenden V
 
 <table>
 <tr><th>EU</th><th>Schweiz</th></tr>
-<tr><td>*a. Deutsche Ausdrücke*</td><td></td></tr>
+<tr><td>a. Deutsche Ausdrücke</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
@@ -1356,7 +1356,7 @@ Die nachstehenden Ausdrücke der EU-IVDR[^annex1-lvlu1-1] und der vorliegenden V
 <tr><td>Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
 <tr><td>Angehörige der Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
-<tr><td>*b. Französische Ausdrücke*</td><td></td></tr>
+<tr><td>b. Französische Ausdrücke</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1373,7 +1373,7 @@ Die nachstehenden Ausdrücke der EU-IVDR[^annex1-lvlu1-1] und der vorliegenden V
 <tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
 <tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
 <tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
-<tr><td>*c. Italienische Ausdrücke*</td><td></td></tr>
+<tr><td>c. Italienische Ausdrücke</td><td></td></tr>
 <tr><td>Unione</td><td>Svizzera</td></tr>
 <tr><td>Stato Membro</td><td>Svizzera</td></tr>
 <tr><td>paese terzo</td><td>altro Stato</td></tr>
@@ -1397,11 +1397,13 @@ Die nachstehenden Ausdrücke der EU-IVDR[^annex1-lvlu1-1] und der vorliegenden V
 
 [^annex1-lvlu1-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 5 Abs. 2)
 
 ## Anwendbares Recht
+
+[^t-1]: Bereinigt gemäss Anhang 2 Ziff. II 103 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 EU-Recht
 
@@ -1424,7 +1426,7 @@ Wird in dieser Verordnung auf Bestimmungen der EU-IVDR verwiesen, die ihrerseits
 <tr><td>4. Richtlinie 2014/30/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die elektromagnetische Verträglichkeit, ABl. L 96 vom 29.3.2014, S. 79</td><td>Verordnung vom 25. November 2015[^annex2-lvlu1-lvl2-2] über die elektromagnetische Verträglichkeit</td></tr>
 <tr><td>5. Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG, ABl. L 157 vom 9.6.2006, S. 24</td><td>Maschinenverordnung vom 2. April 2008[^annex2-lvlu1-lvl2-3]</td></tr>
 <tr><td>6. Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates, ABl. L 316 vom 14.11.2012, S. 12</td><td>Heilmittelgesetz vom 15. Dezember 2000 und Bundesgesetz vom 6. Oktober 1995[^annex2-lvlu1-lvl2-4] über die technischen Handelshemmnisse</td></tr>
-<tr><td>7. Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates vom 18. Dezember 2000 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe und Einrichtungen der Gemeinschaft und zum freien Datenverkehr, ABl. L 8 vom 12.1.2001, S. 1</td><td>Bundesgesetz vom 19. Juni 1992[^annex2-lvlu1-lvl2-5] über den Datenschutz</td></tr>
+<tr><td>7. Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates vom 18. Dezember 2000 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe und Einrichtungen der Gemeinschaft und zum freien Datenverkehr, ABl. L 8 vom 12.1.2001, S. 1</td><td>Datenschutzgesetz vom 25. September 2020[^annex2-lvlu1-lvl2-5]</td></tr>
 <tr><td>8. Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, ABl. L 218 vom 13.8.2008, S. 30</td><td>Bundesgesetz vom 6. Oktober 1995 über die technischen Handelshemmnisse und Bundesgesetz vom 12. Juni 2009[^annex2-lvlu1-lvl2-6] über die Produktesicherheit</td></tr>
 <tr><td>9. Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1</td><td>Chemikaliengesetz vom 15. Dezember 2000[^annex2-lvlu1-lvl2-7]</td></tr>
 <tr><td>10. Richtlinie 80/181/EWG des Rates vom 20. Dezember 1979 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Einheiten im Messwesen und zur Aufhebung der Richtlinie 71/354/EWG, ABl. L 39 vom 15.2.1980, S. 40</td><td>Messgesetz vom 17. Juni 2011[^annex2-lvlu1-lvl2-8]</td></tr>
@@ -1475,11 +1477,11 @@ Anhang 4
 
 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/de/xml/image/image1.png)
 
 Sofern eine bezeichnete Stelle beigezogen werden muss, ist neben ihrem Konformitätskennzeichen auch ihre Kennnummer anzugeben.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/de/xml/image/image2.png)
 
 Anhang 5
 

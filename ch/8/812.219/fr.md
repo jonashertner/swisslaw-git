@@ -4,11 +4,11 @@ title: Ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in v
 short: ODiv
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: fr
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2022-291-20220526-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20220526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-291-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20220526/fr"
 
 (ODiv)
 
-du 4 mai 2022 (Etat le 26 mai 2022)
+du 4 mai 2022 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -300,7 +300,7 @@ L’information relative au dispositif peut être rédigée dans moins de trois 
 
 <sup>4</sup> Les obligations et modalités découlant de l’identification et de l’enregistrement des dispositifs sont régies par les art. 24 et 26 et par l’annexe VI RDIV-UE, compte tenu des amendements apportés à ladite annexe par la Commission européenne au moyen de ses actes délégués[^16-3].
 
-<sup>5</sup> ...[^16-4]
+<sup>5</sup> …[^16-4]
 
 [^16-1]: <sup>22</sup> En anglais *Unique Device Identification* *(UDI).*
 [^16-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
@@ -1308,7 +1308,7 @@ Les opérateurs économiques qui ont mis sur le marché des dispositifs avant le
 
 <sup>1</sup> Les obligations de déclaration pour les fabricants sis en Suisse visées à l’art. 6, al. 2 et 4, ODim[^90-1] dans sa version du 26 novembre 2017[^90-2] restent applicables jusqu’à l’entrée en vigueur de l’art. 16, al. 5.
 
-<sup>2</sup> ...[^90-3]
+<sup>2</sup> …[^90-3]
 
 <sup>3</sup>
 
@@ -1340,7 +1340,7 @@ Les expressions suivantes utilisées dans le RDIV-UE[^annex1-lvlu1-1] ont les é
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>*a. Expressions en allemand*</td><td></td></tr>
+<tr><td>a. Expressions en allemand</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
@@ -1354,7 +1354,7 @@ Les expressions suivantes utilisées dans le RDIV-UE[^annex1-lvlu1-1] ont les é
 <tr><td>Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
 <tr><td>Angehörige der Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
-<tr><td>*b. Expressions en français*</td><td></td></tr>
+<tr><td>b. Expressions en français</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1371,7 +1371,7 @@ Les expressions suivantes utilisées dans le RDIV-UE[^annex1-lvlu1-1] ont les é
 <tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
 <tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
 <tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
-<tr><td>*c. Expressions en italien*</td><td></td></tr>
+<tr><td>c. Expressions en italien</td><td></td></tr>
 <tr><td>Unione</td><td>Svizzera</td></tr>
 <tr><td>Stato Membro</td><td>Svizzera</td></tr>
 <tr><td>paese terzo</td><td>altro Stato</td></tr>
@@ -1395,11 +1395,13 @@ Les expressions suivantes utilisées dans le RDIV-UE[^annex1-lvlu1-1] ont les é
 
 [^annex1-lvlu1-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 5, al. 2)
 
 ## Droit applicable
+
+[^t-1]: Mise à jour par l’annexe 2 ch. II 103 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 Droit européen
 
@@ -1422,7 +1424,7 @@ Dans la présente ordonnance, lorsqu’il est fait référence à des dispositio
 <tr><td>4. Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la compatibilité électromagnétique, JO L 96 du 29.3.2014, p.79</td><td>Ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique[^annex2-lvlu1-lvl2-2]</td></tr>
 <tr><td>5. Directive 2006/42/CE du Parlement européen et du Conseil du 17 mai 2006 relative aux machines et modifiant la directive 95/16/CE, JO L 157 du 9.6.2006, p. 24</td><td>Ordonnance du 2 avril 2008 sur la sécurité des machines[^annex2-lvlu1-lvl2-3]</td></tr>
 <tr><td>6. Règlement (UE) n<sup>o</sup> 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne, modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n<sup>o</sup> 1673/2006/CE du Parlement européen et du Conseil, JO L 316 du 14.11.2012, p. 12</td><td>Loi du 15 décembre 2000 sur les produits thérapeutiques et loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^annex2-lvlu1-lvl2-4]</td></tr>
-<tr><td>7. Règlement (CE) n<sup>o</sup> 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données, JO L 8 du 12.1.2001, p. 1</td><td>Loi fédérale du 19 juin 1992 sur la protection des données[^annex2-lvlu1-lvl2-5]</td></tr>
+<tr><td>7. Règlement (CE) n<sup>o</sup> 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données, JO L 8 du 12.1.2001, p. 1</td><td>Loi fédérale du 25 septembre 2020 sur la protection des données[^annex2-lvlu1-lvl2-5]</td></tr>
 <tr><td>8. Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n<sup>o</sup> 339/93 du Conseil, JO L 218 du 13.8.2008, p. 30</td><td>Loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce et loi fédérale du 12 juin 2009 sur la sécurité des produits[^annex2-lvlu1-lvl2-6]</td></tr>
 <tr><td>9. Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1</td><td>Loi du 15 décembre 2000 sur les produits chimiques[^annex2-lvlu1-lvl2-7]</td></tr>
 <tr><td>10. Directive 80/181/CEE du Conseil, du 20 décembre 1979, concernant le rapprochement des législations des États membres relatives aux unités de mesure et abrogeant la directive 71/354/CEE, JO L 39 du 15.2.1980, p. 40</td><td>Loi fédérale du 17 juin 2011 sur la métrologie[^annex2-lvlu1-lvl2-8]</td></tr>
@@ -1473,11 +1475,11 @@ Annexe 4
 
 La représentation graphique du marquage de conformité est la suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/fr/xml/image/image1.png)
 
 En cas de recours à un organisme désigné, le numéro d’identification de l’organisme est ajouté à côté du marquage de conformité.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20220526/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/fr/xml/image/image2.png)
 
 Annexe 5
 
@@ -1487,6 +1489,6 @@ Annexe 5
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex5-lvlu1-1]
+…[^annex5-lvlu1-1]
 
 [^annex5-lvlu1-1]: Les mod. peuvent être consultées au [RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291).
