@@ -4,11 +4,11 @@ title: Ordonnance sur les explosifs du 27 novembre 2000 (OExpl)
 short: OExpl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/fr"
 
 (OExpl)[^t-1]
 
-du 27 novembre 2000 (État le 1<sup>er</sup> janvier 2023)
+du 27 novembre 2000 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
@@ -1801,23 +1801,28 @@ L’OCE peut coopérer avec des services techniques et scientifiques, en particu
 [^117-1]: Nouvelle teneur selon l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^117-2]: Nouvelle expression selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)). Il a été tenu compte de cette mod. dans tout le texte.
 
-## Titre 9*a* Fichier électronique BARBARA
+## Titre 9*a* Banque de données BARBARA
 
-[^tit9a-1]
+[^tit9a-1][^tit9a-2]
 
 [^tit9a-1]: Introduit par l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^tit9a-2]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 117a
 
-**But**
+**But**[^117a-1]
 
-Le fichier électronique BARBARA est exploité aux fins de lutte contre les infractions pénales en relation avec le commerce des matières explosives, des engins pyrotechniques et de poudre de guerre. Il sert en outre au déroulement administratif du commerce de ces objets.
+La banque de données BARBARA est exploitée aux fins de lutte contre les infractions pénales en relation avec le commerce des matières explosives, des engins pyrotechniques et de poudre de guerre. Elle sert en outre au déroulement administratif du commerce de ces objets.
+
+[^117a-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 117b
 
-**Compétence**
+**Compétence**[^117b-1]
 
-L’exploitation du fichier électronique BARBARA relève de la compétence de l’Office fédéral de la police (fedpol).
+L’exploitation de la banque de données BARBARA relève de la compétence de l’Office fédéral de la police (fedpol).
+
+[^117b-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 117c
 
@@ -1879,20 +1884,23 @@ Les autorités suivantes ont accès en ligne aux données enregistrées dans BAR
 
 <sup>2</sup>
 
-Il peut transmettre sur demande des données enregistrées dans le fichier électronique notamment aux autorités suivantes, pour autant qu’elles en aient besoin pour accomplir leurs tâches légales et qu’elles soient autorisées à traiter ces données:
+Il peut transmettre sur demande des données enregistrées dans la banque de données notamment aux autorités suivantes, pour autant qu’elles en aient besoin pour accomplir leurs tâches légales et qu’elles soient autorisées à traiter ces données:[^117f-1]
 
 - a. les autorités cantonales et fédérales de poursuite pénale;
 - b. l’institut de police scientifique de Zurich;
 - c. la SUVA;
-- d.[^117f-1] le SEFRI.
+- d.[^117f-2] le SEFRI.
 
-[^117f-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^117f-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117f-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 #### Art. 117g
 
 **Journalisation**
 
-Tout traitement de données dans BARBARA est journalisé. Les procès-verbaux sont conservés pendant un an.
+Tout traitement de données dans BARBARA est journalisé. Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^117g-1]
+
+[^117g-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 117h
 
@@ -1904,12 +1912,13 @@ Tout traitement de données dans BARBARA est journalisé. Les procès-verbaux so
 
 #### Art. 117i
 
-**Archivage**
+**Archivage**[^117i-1]
 
-Les données du fichier sont proposées aux Archives fédérales suisses conformément à l’art. 21 de la loi fédérale du 19 juin 1992 sur la protection des données[^117i-1] et à l’art. 6 de la loi fédérale du 26 juin 1998 sur l’archivage[^117i-2].
+Les données sont proposées aux Archives fédérales suisses conformément à l’art. 38 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^117i-2] et à l’art. 6 de la loi fédérale du 26 juin 1998 sur l’archivage[^117i-3].
 
-[^117i-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117i-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^117i-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117i-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117i-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 117j
 
@@ -1919,22 +1928,24 @@ Les données du fichier sont proposées aux Archives fédérales suisses conform
 
 La sécurité des données est garantie conformément à:
 
-- a. l’art. 7 de la loi fédérale du 19 juin 1992 sur la protection des données[^117j-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^117j-2].[^117j-3]
+- a.[^117j-1] l’art. 8 LPD[^117j-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^117j-3].[^117j-4]
 
 <sup>2</sup> L’OCE prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
 
-[^117j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117j-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^117j-3]: Nouvelle teneur selon l’annexe ch. 37 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^117j-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117j-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117j-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^117j-4]: Nouvelle teneur selon l’annexe ch. 37 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 117k
 
-**Droit d’accès des personnes concernées**
+**Droit d’accès des personnes concernées**[^117k-1]
 
-Le droit d’accès des personnes concernées aux données, de même que le droit à la rectification et à la suppression des données, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^117k-1].
+Le droit d’accès des personnes concernées aux données, de même que le droit à la rectification et à la destruction des données, sont régis par la LPD[^117k-2].
 
-[^117k-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117k-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117k-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 117l
 
@@ -2219,7 +2230,7 @@ S = Entrepôt ou magasin de matières explosives
 
 h = Hauteur du remblai au moins égale à celle de l’entrepôt ou du magasin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image1.png)
 
 Annexe 6
 
@@ -2227,7 +2238,7 @@ Annexe 6
 
 ## Entrepôt au magasin souterrain de matières explosives dans une roche sèche et solide
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image2.png)
 
 <table>
 <tr><td>Quantité d’explosif en kg et par caverne</td><td colspan="2">L = longueur de l’accès en m</td><td>Recouvrement</td></tr>
@@ -2252,7 +2263,7 @@ Annexe 7
 
 ## Distances minimales entre les entrepôts ou magasins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image3.png)
 
 rK=0,7·L<sup>(1/3)</sup>
 
@@ -2264,7 +2275,7 @@ Annexe 8.1[^t-5]
 
 [^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image4.png)
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
 - Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2282,7 +2293,7 @@ Capot de protection: tôle d’acier 5 mm: perforée Ø 10 mm
 
 Grille de protection: fil d’acier Ø 2 mm: largeur des mailles 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image5.png)
 
 Annexe 9.1
 
@@ -2290,7 +2301,7 @@ Annexe 9.1
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image6.png)
 
 Annexe 9.2
 
@@ -2298,9 +2309,9 @@ Annexe 9.2
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image8.png)
 
 Annexe 10.1[^t-6]
 
@@ -2310,7 +2321,7 @@ Annexe 10.1[^t-6]
 
 [^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image9.png)
 
 A = moyens d’allumage
 
@@ -2333,7 +2344,7 @@ Annexe 10.2[^t-7]
 [^t-7]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 <table>
-<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
+<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
 </table>
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2348,7 +2359,7 @@ Annexe 11.1
 
 ## Récipient à matières explosives
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image12.png)
 
 Légende:
 
@@ -2364,7 +2375,7 @@ Annexe 11.2
 
 ## Récipient mobile
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image13.png)
 
 Légende:
 
@@ -2392,7 +2403,7 @@ Annexe 14[^t-9]
 
 ## Conditions relatives à l’identification et à la traçabilité des matières explosives à usage civil
 
-[^t-9]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nouvelle teneur selon le ch. II al. 1 de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+[^t-9]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 Champ d’application
 
@@ -2417,7 +2428,7 @@ Les dispositions de la présente annexe ne s’appliquent pas:
 - a. une partie lisible à l’œil nu contenant le nom du fabricant et un code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation, trois chiffres identifiant le nom du site de production (attribué par l’OCE), le code produit unique et les informations logistiques conçues par le fabricant;
 - b. un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique selon l’exemple ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image14.png)
 
 <sup>5</sup> Lorsqu’il n’est pas possible d’apposer l’identification unique complète décrite à l’al. 4 sur un article car celui-ci est trop petit, le code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et trois chiffres identifiant le nom du site de production (attribué par l’OCE), ainsi qu’un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique, suffisent.
 
@@ -2491,9 +2502,9 @@ Les entreprises peuvent joindre des copies adhésives détachables de l’étiqu
 
 <sup>3</sup> Les données collectées, y compris le numéro d’identification unique, sont enregistrées et conservées pendant 10 ans à compter de la livraison ou de la dernière date, pour autant qu’elle soit connue, après la fin de la durée de vie de la matière explosive, même si l’entreprise concernée à mis un terme à ses activités.
 
-### 13 Fichier
+### 13 Registre
 
-<sup>1</sup> Les entreprises spécialisées dans le domaine des matières explosives tiennent un fichier contenant l’ensemble des numéros d’identification des matières explosives, de même que toute information pertinente, y compris le type de matière explosive, le nom de l’entreprise détentrice ou du particulier détenteur.
+<sup>1</sup> Les entreprises spécialisées dans le domaine des matières explosives tiennent un registre contenant l’ensemble des numéros d’identification des matières explosives, de même que toute information pertinente, y compris le type de matière explosive, le nom de l’entreprise détentrice ou du particulier détenteur.
 
 <sup>2</sup> Elles répertorient le lieu où est entreposée chaque matière explosive lorsqu’elle est en leur possession ou lorsqu’elles en ont la charge, et ce jusqu’à son déplacement en vue de son transfert de possession ou de charge.
 

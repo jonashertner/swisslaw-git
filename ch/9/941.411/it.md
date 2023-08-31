@@ -4,11 +4,11 @@ title: Ordinanza del 27 novembre 2000 sugli esplosivi (OEspl)
 short: OEspl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/it"
 
 (OEspl)
 
-del 27 novembre 2000 (Stato 1° gennaio 2023)
+del 27 novembre 2000 (Stato 1° settembre 2023) (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1890,7 +1890,9 @@ Su richiesta, l’UCE può trasmettere dati registrati nella banca dati in parti
 
 **Verbalizzazione**
 
-Il trattamento dei dati in BARBARA è verbalizzato. I verbali sono conservati per un anno.
+Il trattamento dei dati in BARBARA è verbalizzato. I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^117g-1]
+
+[^117g-1]: Nuovo testo del per. giusta l’all. 2 n. II 135 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 117h
 
@@ -1902,12 +1904,13 @@ Il trattamento dei dati in BARBARA è verbalizzato. I verbali sono conservati pe
 
 #### Art. 117i
 
-**Archiviazione**
+**Archiviazione**[^117i-1]
 
-L’offerta di dati all’Archivio federale è retta dall’articolo 21 della legge federale del 19 giugno 1992[^117i-1] sulla protezione dei dati e dall’articolo 6 della legge del 26 giugno 1998[^117i-2] sull’archiviazione.
+L’offerta di dati all’Archivio federale è retta dall’articolo 38 della legge federale del 25 settembre 2020[^117i-2] sulla protezione dei dati (LPD) e dall’articolo 6 della legge del 26 giugno 1998[^117i-3] sull’archiviazione.
 
-[^117i-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117i-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^117i-1]: Nuovo testo giusta l’all. 2 n. II 135 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117i-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117i-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 117j
 
@@ -1915,24 +1918,27 @@ L’offerta di dati all’Archivio federale è retta dall’articolo 21 della le
 
 <sup>1</sup>
 
-La sicurezza dei dati è retta:
+La sicurezza dei dati è disciplinata:[^117j-1]
 
-- a. dall’articolo 7 della legge federale del 19 giugno 1992[^117j-1] sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^117j-2] sui ciber-rischi.[^117j-3]
+- a.[^117j-2] dall’articolo 8 LPD[^117j-3];
+- b. dall’ordinanza del 27 maggio 2020[^117j-4] sui ciber-rischi.[^117j-5]
 
 <sup>2</sup> L’UCE adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
 
-[^117j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117j-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^117j-3]: Nuovo testo giusta l’all. n. 37 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^117j-1]: Nuovo testo giusta l’all. 2 n. II 135 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117j-2]: Nuovo testo giusta l’all. 2 n. II 135 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117j-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117j-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^117j-5]: Nuovo testo giusta l’all. n. 37 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 117k
 
-**Diritto all’informazione**
+**Diritto all’informazione**[^117k-1]
 
-Il diritto all’informazione, alla rettifica e alla distruzione dei dati è retto dalle disposizioni della legge federale del 19 giugno 1992[^117k-1] sulla protezione dei dati.
+Il diritto d’accesso, alla rettifica e alla cancellazione dei dati è retto dalle <sup>disposizioni</sup> della LPD[^117k-2].
 
-[^117k-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117k-1]: Nuovo testo giusta l’all. 2 n. II 135 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117k-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 117l
 
@@ -2221,7 +2227,7 @@ S = Deposito o magazzino di esplosivi
 
 h = Altezza del terrapieno, almeno pari all’altezza del deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image1.png)
 
 Allegato 6
 
@@ -2229,7 +2235,7 @@ Allegato 6
 
 ## Deposito o magazzino di esplosivi sotterraneo in roccia asciutta e compatta
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image2.png)
 
 <table>
 <tr><td>Quantità di materie esplosive in kg e per caverna Quantità depositata (M)</td><td colspan="2">L = Lunghezza dell’accesso in m</td><td>Copertura R in m</td></tr>
@@ -2255,7 +2261,7 @@ Allegato 7
 
 ## Distanze minime fra gli edifici adibiti a deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image3.png)
 
 L = Quantità depositata in chilogrammi
 
@@ -2271,7 +2277,7 @@ Allegato 8.1[^t-4]
 
 [^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image4.png)
 
 - Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
 - Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
@@ -2291,7 +2297,7 @@ Lastra di protezione: lamiera d’acciaio 5 mm: perforata Ø 10 mm
 
 Griglia di protezione: filo d’acciaio Ø 2 mm: larghezza di maglia 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image5.png)
 
 Allegato 9.1
 
@@ -2299,7 +2305,7 @@ Allegato 9.1
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image6.png)
 
 Allegato 9.2
 
@@ -2307,9 +2313,9 @@ Allegato 9.2
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image8.png)
 
 Allegato 10.1[^t-5]
 
@@ -2319,7 +2325,7 @@ Allegato 10.1[^t-5]
 
 [^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image9.png)
 
 A = mezzi d’innesco
 
@@ -2357,7 +2363,7 @@ Allegato 11.1
 
 ## Contenitori per esplosivi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image12.png)
 
 Legenda:
 
@@ -2373,7 +2379,7 @@ Allegato 11.2
 
 ## Contenitori per il trasporto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image13.png)
 
 Legenda:
 
@@ -2426,7 +2432,7 @@ Le disposizioni del presente allegato non si applicano:
 - a. una parte leggibile a occhio nudo contenente il nome del fabbricante, un codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione, di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCE), del codice univoco del prodotto e delle informazioni logistiche indicate dal fabbricante;
 - b. un numero d’identificazione a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico secondo l’esempio qui riportato:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/it/xml/image/image14.png)
 
 <sup>5</sup> Qualora le dimensioni troppo ridotte degli articoli non consentano di contrassegnarli con l’identificazione univoca completa ai sensi del capoverso 4, sono sufficienti il codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCE) nonché un identificativo a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico.
 

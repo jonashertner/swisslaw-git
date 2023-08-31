@@ -4,11 +4,11 @@ title: Sprengstoffverordnung vom 27. November 2000 (SprstV)
 short: SprstV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/de"
 
 (SprstV)[^t-1]
 
-vom 27. November 2000 (Stand am 1. Januar 2023)
+vom 27. November 2000 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
@@ -1888,7 +1888,9 @@ Sie kann auf Anfrage in der Datenbank gespeicherte Daten insbesondere an die fol
 
 **Protokollierung**
 
-Die Bearbeitung von Daten in BARBARA wird protokolliert. Die Protokolle werden ein Jahr aufbewahrt.
+Die Bearbeitung von Daten in BARBARA wird protokolliert. Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^117g-1]
+
+[^117g-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 135 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 117h
 
@@ -1900,12 +1902,13 @@ Die Bearbeitung von Daten in BARBARA wird protokolliert. Die Protokolle werden e
 
 #### Art. 117i
 
-**Archivierung**
+**Archivierung**[^117i-1]
 
-Das Anbieten der Daten an das Bundesarchiv richtet sich nach Artikel 21 des Bundesgesetzes vom 19. Juni 1992[^117i-1] über den Datenschutz und nach Artikel 6 des Archivierungsgesetzes vom 26. Juni 1998[^117i-2].
+Das Anbieten der Daten an das Bundesarchiv richtet sich nach Artikel 38 des Datenschutzgesetzes vom 25. September 2020[^117i-2] (DSG) und nach Artikel 6 des Archivierungsgesetzes vom 26. Juni 1998[^117i-3].
 
-[^117i-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117i-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^117i-1]: Fassung gemäss Anhang 2 Ziff. II 135 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117i-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117i-3]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 117j
 
@@ -1915,22 +1918,24 @@ Das Anbieten der Daten an das Bundesarchiv richtet sich nach Artikel 21 des Bund
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. Artikel 7 des Bundesgesetzes vom 19. Juni 1992[^117j-1] über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^117j-2].[^117j-3]
+- a.[^117j-1] Artikel 8 DSG[^117j-2];
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^117j-3].[^117j-4]
 
 <sup>2</sup> Die ZSE trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
 
-[^117j-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117j-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^117j-3]: Fassung gemäss Anhang Ziff. 37 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^117j-1]: Fassung gemäss Anhang 2 Ziff. II 135 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117j-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117j-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^117j-4]: Fassung gemäss Anhang Ziff. 37 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 117k
 
-**Auskunftsrecht**
+**Auskunftsrecht**[^117k-1]
 
-Das Recht auf Auskunft, Berichtigung und Vernichtung von Daten richtet sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^117k-1] über den Datenschutz.
+Das Recht auf Auskunft, Berichtigung und Vernichtung von Daten richtet sich nach den Bestimmungen des DSG[^117k-2].
 
-[^117k-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117k-1]: Fassung gemäss Anhang 2 Ziff. II 135 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^117k-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 117l
 
@@ -2210,7 +2215,7 @@ Legende:
 - S = Sprengmittellager oder -magazin
 - h = Wallhöhe, mindestens Höhe Sprengmittellager oder -magazin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image1.png)
 
 Anhang 6
 
@@ -2218,7 +2223,7 @@ Anhang 6
 
 ## Unterirdisches Sprengmittellager oder -magazin in trockenem und standfestem Fels
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image2.png)
 
 (Tabelle siehe folgende Seite)
 
@@ -2245,7 +2250,7 @@ Anhang 7
 
 ## Mindestabstände zwischen Lager- oder Magazingebäuden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image3.png)
 
 rK = 0,7·L<sup>(1/3)</sup>
 
@@ -2257,7 +2262,7 @@ Anhang 8.1[^t-5]
 
 [^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image4.png)
 
 Decke und Aussenwände, Boden und Armierung
 
@@ -2277,7 +2282,7 @@ Schutzkappe: Stahlblech 5 mm: gelocht X 10 mm
 
 Schutzgitter: Stahldraht X 2 mm: Maschenweite 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image5.png)
 
 Anhang 9.1
 
@@ -2285,7 +2290,7 @@ Anhang 9.1
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image6.png)
 
 Anhang 9.2
 
@@ -2293,9 +2298,9 @@ Anhang 9.2
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image8.png)
 
 Anhang 10.1[^t-6]
 
@@ -2305,7 +2310,7 @@ Anhang 10.1[^t-6]
 
 [^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image9.png)
 
 A = Zündmittel
 
@@ -2347,7 +2352,7 @@ Anhang 11.1
 
 ## Sprengmittelbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image13.png)
 
 Legende:
 
@@ -2363,7 +2368,7 @@ Anhang 11.2
 
 ## Transportbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image14.png)
 
 Legende:
 
@@ -2416,7 +2421,7 @@ Die Bestimmungen dieses Anhangs gelten nicht für:
 - a. einen von blossem Auge lesbaren Teil mit dem Namen des Herstellers und einem alphanumerischen Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland, 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSE zugeteilt), einem eindeutigen Produktecode und logistischen Informationen des Herstellers;
 - b. eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht nach dem folgenden Beispiel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image15.png)
 
 <sup>5</sup> Sind die Artikel zu klein für eine vollständige eindeutige Kennzeichnung nach Absatz 4, so genügen der alphanumerische Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSE zugeteilt) sowie eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht.
 
