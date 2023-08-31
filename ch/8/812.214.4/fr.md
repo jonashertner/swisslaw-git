@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2018 concernant le système d'information sur l
 short: O-SI ABV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: fr
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220701/fr"
 
 (O-SI ABV)
 
-du 31 octobre 2018 (Etat le 1<sup>er</sup> juillet 2022)
+du 31 octobre 2018 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -245,13 +245,15 @@ L’OSAV veille au respect des dispositions sur la protection des données. Il f
 
 #### Art. 13
 
-**Droits des personnes concernées**
+**Droits des personnes concernées**[^13-1]
 
-<sup>1</sup> Les droits des personnes dont les données sont traitées dans le SI ABV, notamment les droits d’accès et de destruction sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^13-1].
+<sup>1</sup> Les droits des personnes dont les données sont traitées dans le SI ABV, notamment les droits d’accès, de rectification et de destruction, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^13-2].
 
-<sup>2</sup> Si une personne veut faire valoir ses droits, elle doit prouver son identité et déposer une demande écrite à l’OSAV.
+<sup>2</sup> Si une personne veut faire valoir ses droits, elle dépose une demande à l’OSAV dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^13-3].
 
-[^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 102 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 14
 
@@ -334,7 +336,7 @@ Le Département fédéral de l’intérieur peut apporter des modifications tech
 
 <sup>2</sup> L’art. 4, al. 2, let. a, ch. 3 et 4, et b, entrent en vigueur le 1<sup>er</sup> octobre 2019.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 2, al. 2, 4, al. 1 et 2, et 19)
 

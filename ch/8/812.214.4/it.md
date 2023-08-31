@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2018 concernente il sistema d'informazione sugl
 short: O-SIAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: it
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220701/it"
 
 (O-SIAMV)
 
-del 31 ottobre 2018 (Stato 1° luglio 2022)
+del 31 ottobre 2018 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -246,13 +246,15 @@ L’USAV provvede affinché siano rispettate le disposizioni in materia di prote
 
 #### Art. 13
 
-**Diritti delle persone interessate**
+**Diritti delle persone interessate**[^13-1]
 
-<sup>1</sup> I diritti delle persone i cui dati sono trattati nel SI AMV, in particolare il diritto d’accesso e di distruzione, sono disciplinati dalla legge federale del 19 giugno 1992[^13-1] sulla protezione dei dati.
+<sup>1</sup> I diritti delle persone i cui dati sono trattati nel SI AMV, in particolare il diritto d’accesso, di rettifica e di distruzione, sono disciplinati dalla legge federale del 25 settembre 2020[^13-2] sulla protezione dei dati.
 
-<sup>2</sup> Se una persona intende far valere determinati diritti, deve comprovare la sua identità e presentare una domanda scritta all’USAV.
+<sup>2</sup> Se una persona intende far valere i suoi diritti, deve presentare una domanda all’USAV nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^13-3] sulla protezione dei dati.
 
-[^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-1]: Nuovo testo giusta l’all. 2 n. II 102 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 14
 
@@ -334,7 +336,7 @@ Il Dipartimento federale dell’interno può apportare modifiche tecniche all’
 
 <sup>2</sup> L’articolo 4 capoverso 2 lettera a numeri 3 e 4 nonché lettera b entra in vigore il 1° ottobre 2019.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 2 cpv. 2, 4 cpv. 1 e 2 e 19)
 
@@ -508,7 +510,7 @@ Allegato*[^t-1]*
 - 9\. Posologia raccomandata
 - 10\. Termine d’attesa
 
-[^annexu1-lvlu1-lvl3-1]: Il codice ATCvet (Anatomical Therapeutic Chemical Classification system for veterinary medicinal products) è disponibile in inglese (versione ufficiale) sul sito Internet del WHO Collaborating Centre for Drug Statistics Methodology al seguente indirizzo: www.whocc.no/ATCvet &gt; ATCvet Index.
+[^annexu1-lvlu1-lvl3-1]: Il codice ATCvet (Anatomical Therapeutic Chemical Classification system for veterinary medicinal products) è disponibile in inglese (versione ufficiale) sul sito Internet del WHO Collaborating Centre for Drug Statistics Methodology al seguente indirizzo: www.whocc.no/ATCvet &gt; ATCvet Index
 
 ### 4 Dati di sistema
 

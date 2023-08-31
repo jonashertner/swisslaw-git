@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über das Informationssystem Antibiotika 
 short: ISABV-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: de
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220701/de"
 
 (ISABV-V)
 
-vom 31. Oktober 2018 (Stand am 1. Juli 2022)
+vom 31. Oktober 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -245,13 +245,15 @@ Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. 
 
 #### Art. 13
 
-**Rechte der betroffenen Personen**
+**Rechte der betroffenen Personen**[^13-1]
 
-<sup>1</sup> Die Rechte der Personen, über die im IS ABV Daten bearbeitet werden, insbesondere das Auskunfts- und das Vernichtungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^13-1] über den Datenschutz.
+<sup>1</sup> Die Rechte der Personen, über die im IS ABV Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^13-2].
 
-<sup>2</sup> Will eine Person Rechte geltend machen, so muss sie sich über ihre Identität ausweisen und ein schriftliches Gesuch beim BLV einreichen.
+<sup>2</sup> Will eine Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^13-3] ein Gesuch beim BLV einreichen.
 
-[^13-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 102 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 14
 
@@ -334,7 +336,7 @@ Das Eidgenössische Departement des Innern kann nach Anhörung der interessierte
 
 <sup>2</sup> Artikel 4 Absatz 2 Buchstabe a Ziffern 3 und 4 sowie Buchstabe b tritt am 1. Oktober 2019 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 2 Abs. 2, 4 Abs. 1 und 2 sowie 19)
 
