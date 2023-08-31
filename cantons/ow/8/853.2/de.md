@@ -4,13 +4,12 @@ number: "853.2"
 title: "Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: kELG
 language: de
-version: 2019-01-01
-valid_until: 2023-08-31
-version_adopted: 2018-12-17
+version: 2023-09-01
+version_adopted: 2023-05-25
 adopted: 2007-10-25
 in_force: 2008-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/853.2"
-pdf: "http://gdb.ow.ch/api/de/versions/1691/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1830/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1691/pdf_file"
 
 (kELG)
 
-vom 25.10.2007 (Stand 01.01.2019)
+vom 25.10.2007 (Stand 01.09.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -71,7 +70,7 @@ beschliesst:
 
 <sup>1</sup> Grundstücke, die von anspruchsberechtigten Personen oder von Personen bewohnt werden, die in die Berechnung der Ergänzungsleistungen einbezogen werden, werden nach dem Netto-Steuerwert angerechnet.
 
-<sup>2</sup> Grundstücke, die nicht von anspruchsberechtigten Personen oder von Personen bewohnt werden, die in die Berechnung der Ergänzungsleistungen einbezogen sind, werden nach dem Steuerwert (100 Prozent) angerechnet.
+<sup>2</sup> Grundstücke, die nicht von anspruchsberechtigten Personen oder von Personen bewohnt werden, die in die Berechnung der Ergänzungsleistungen einbezogen sind, werden nach dem Repartitionswert angerechnet, der für die interkantonale Steuerausscheidung massgebend ist.
 
 #### Art. 5
 
@@ -162,6 +161,8 @@ geändert durch
 
 \- das Gesetz über das Konsolidierungs- und Aufgabenüberprüfungspaket vom 19. Mai 2016 (OGS 2016, 35), Botschaft und Vorlage des Regierungsrats vom 15. Dezember 2015, Kantonsratssitzungen vom 14. April und 19. Mai 2016 (22.15.07), genehmigt vom Eidgenössischen Departement des Innern EDI am 7. September 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 35 und 44),
 
-\- Nachtrag vom 17. Dezember 2018 (OGS 2018, 53), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.14), genehmigt vom Eidgenössischen Departement des Innern EDI am 25. Februar 2019, in Kraft seit 1. Januar 2019 (OGS 2019, 10)
+\- Nachtrag vom 17. Dezember 2018 (OGS 2018, 53), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.14), genehmigt vom Eidgenössischen Departement des Innern EDI am 25. Februar 2019, in Kraft seit 1. Januar 2019 (OGS 2019, 10),
+
+\- Nachtrag vom 25. Mai 2023 (OGS 2023, 11), Botschaft und Vorlage des Regierungsrats vom 6. Dezember 2022, Kantonsratssitzungen vom 16. März und 25. Mai 2023 (22.22.02), genehmigt vom Eidgenössischen Departement des Innern (EDI) am 15. August 2023, in Kraft seit 1. September 2023 (OGS 2023, 27)
 
 OGS 2007, 66
