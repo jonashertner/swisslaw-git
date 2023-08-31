@@ -3,18 +3,18 @@ sr: "361.4"
 title: "Ordonnance du 15 octobre 2008 sur l'index national de police"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20230901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’index national de police
 
-du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2023)
+du 15 octobre 2008 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -43,15 +43,16 @@ La présente ordonnance règle l’exploitation et l’utilisation de l’index 
 Les systèmes d’information suivants sont raccordés à l’index:
 
 - a. le système informatisé de gestion et d’indexation de dossiers et de personnes de l’Office fédéral de la police (IPAS) au sens des art. 12 et 14 LSIP;
-- b. le système informatisé de la Police judiciaire fédérale (JANUS) au sens des art. 10, 11 et 13 LSIP;
+- b.[^2-1] le Système national d’enquête (SNE) au sens des art. 10, 11, 13 et 18 LSIP;
 - c. le système de recherches informatisées de police (RIPOL) au sens de l’art. 15 LSIP;
 - d. la partie nationale du Système d’information de Schengen au sens de l’art. 16 LSIP.
 
-<sup>3</sup> Les catégories de données désignées à l’art. 4, al. 1, let. e et f de l’ordonnance IPAS du 15 octobre 2008[^2-1] ne sont pas raccordées à l’index.
+<sup>3</sup> Les catégories de données désignées à l’art. 4, al. 1, let. e et f de l’ordonnance IPAS du 15 octobre 2008[^2-2] ne sont pas raccordées à l’index.
 
 <sup>4</sup> Les systèmes d’information de police des cantons peuvent également être raccordés à l’index.
 
-[^2-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^2-1]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^2-2]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
 
 #### Art. 3
 
@@ -105,7 +106,8 @@ Les unités administratives suivantes de la Confédération disposent d’un acc
 - k. [^5-5] les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes en vertu de l’art. 21, al. 1, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^5-6];
 - l. le conseiller à la protection des données de fedpol;
 - m. le chef de projet et les administrateurs système du fournisseur de prestations informatiques mandaté par le Département fédéral de justice et police (DFJP) pour la maintenance technique du système;
-- n.[^5-7] le service de fedpol chargé de l’accomplissement des tâches prévues par la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^5-8].
+- n.[^5-7] le service de fedpol chargé de l’accomplissement des tâches prévues par la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^5-8];
+- o.[^5-9] le Secrétariat d’État aux migrations, pour l’accomplissement de ses tâches en vertu des art. 5, al. 1, let. c, 98*c* et 99 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^5-10] et des art. 5*a*, 26, al. 2, et 53, let. b, de la loi du 26 juin 1998 sur l’asile[^5-11].
 
 <sup>2</sup>
 
@@ -124,6 +126,9 @@ L’accès en ligne aux données désignées à l’art. 4 est également accord
 [^5-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^5-7]: Introduite par l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 [^5-8]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^5-9]: Introduite par l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-10]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^5-11]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 6
 
@@ -132,29 +137,31 @@ L’accès en ligne aux données désignées à l’art. 4 est également accord
 La durée de conservation des données découle:
 
 - a. pour les données issues du système-source IPAS, de l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^6-1];
-- b. pour les données issues du système-source JANUS, de l’art. 22 de l’ordonnance JANUS du 15 octobre 2008[^6-2];
-- c. pour les données issues du système-source RIPOL, de l’art. 20 de l’ordonnance RIPOL du 15 octobre 2008[^6-3];
-- d. pour les données issues du système-source N-SIS, des art. 43 à 45 de l’ordonnance N-SIS du 7 mai 2008[^6-4];
+- b.[^6-2] pour les données issues du système-source SNE, de l’art. 22 de l’ordonnance du 15 octobre 2008 sur le Système national d’enquête[^6-3];
+- c. pour les données issues du système-source RIPOL, de l’art. 20 de l’ordonnance RIPOL du 15 octobre 2008[^6-4];
+- d. pour les données issues du système-source N-SIS, des art. 43 à 45 de l’ordonnance N-SIS du 7 mai 2008[^6-5];
 - e. pour les données issues des systèmes d’information de police des cantons participants, du droit cantonal applicable.
 
 [^6-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
-[^6-2]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
-[^6-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^6-4]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^6-2]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^6-3]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
+[^6-4]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^6-5]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
 
 #### Art. 7
 
 **Archivage**
 
-<sup>1</sup> Conformément à l’art. 21 de la loi fédérale du 19 juin 1992 sur la protection des données[^7-1], la remise de données du système d’information aux Archives fédérales selon l’art. 2, al. 2, let. a à c est régie par la loi fédérale du 26 juin 1998 sur l’archivage[^7-2].
+<sup>1</sup> Conformément à l’art. 38 de la loi fédérale du 25 septembre 2020 sur la protection des données[^7-1], la remise de données du système d’information aux Archives fédérales selon l’art. 2, al. 2, let. a à c, est régie par la loi fédérale du 26 juin 1998 sur l’archivage[^7-2].[^7-3]
 
-<sup>2</sup> La remise aux Archives fédérales de données issues du système d’information au sens de l’art 2, al. 2, let. d, est régie par l’art. 47 de l’ordonnance N-SIS du 7 mai 2008[^7-3].
+<sup>2</sup> La remise aux Archives fédérales de données issues du système d’information au sens de l’art 2, al. 2, let. d, est régie par l’art. 47 de l’ordonnance N-SIS du 7 mai 2008[^7-4].
 
 <sup>3</sup> La remise pour archivage de données issues des systèmes d’information de police des cantons participants est régie par le droit cantonal applicable.
 
 [^7-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^7-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
-[^7-3]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^7-3]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^7-4]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
 
 ## Section 3 Protection et sécurité des données
 
@@ -164,19 +171,23 @@ La durée de conservation des données découle:
 
 <sup>1</sup>
 
-Le droit des personnes inscrites dans l’index à obtenir des informations sur des données les concernant, à les faire rectifier ou à les faire supprimer découle:
+Le droit des personnes inscrites dans l’index à obtenir des informations sur des données les concernant, à les faire rectifier ou à les faire détruire découle:[^8-1]
 
-- a. pour les inscriptions issues du système-source JANUS, de l’art. 25 de l’ordonnance JANUS du 15 octobre 2008[^8-1];
-- b. pour les inscriptions issues du système-source IPAS, de l’art. 11 de l’ordonnance IPAS du 15 octobre 2008[^8-2];
-- c. pour les inscriptions issues du système-source RIPOL, de l’art. 17 de l’ordonnance RIPOL du 15 octobre 2008[^8-3];
-- d. pour les inscriptions issues du système-source N-SIS, des art. 49 et 50 de l’ordonnance N-SIS du 7 mai 2008[^8-4];
+- a.[^8-2] pour les inscriptions issues du système-source SNE, de l’art. 25 de l’ordonnance du 15 octobre 2008 sur le Système national d’enquête [^8-3];
+- b. pour les inscriptions issues du système-source IPAS, de l’art. 11 de l’ordonnance IPAS du 15 octobre 2008[^8-4];
+- c.[^8-5] pour les inscriptions issues du système-source RIPOL, de l’art. 13 de l’ordonnance RIPOL du 26 octobre 2016[^8-6];
+- d.[^8-7] pour les inscriptions issues du système-source N-SIS, de l’art. 50 de l’ordonnance N-SIS du 8 mars 2013[^8-8];
 - e. pour les inscriptions issues des systèmes d’information de police des cantons participants, du droit cantonal applicable.
 - [tab] 2 Les personnes dont les données n’ont pas été traitées dans les systèmes-sources sont informées en conséquence par fedpol trois ans après réception de leur demande.
 
-[^8-1]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
-[^8-2]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
-[^8-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^8-4]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^8-3]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
+[^8-4]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^8-5]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-6]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^8-7]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-8]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
 
 #### Art. 9
 
@@ -194,7 +205,7 @@ Les organes participant à l’index répondent du respect des dispositions pert
 
 **Journalisation**
 
-<sup>1</sup> Tout accès à l’index est consigné dans un procès-verbal, qui peut être consulté uniquement par le conseiller à la protection des données de fedpol.
+<sup>1</sup> Tout accès à l’index est consigné dans un procès-verbal de journalisation. Celui-ci peut être consulté uniquement par le conseiller à la protection des données de fedpol.[^11-1]
 
 <sup>2</sup>
 
@@ -203,7 +214,10 @@ Le conseiller à la protection des données peut utiliser le procès-verbal aux 
 - a. avec référence nominale: afin de constater le non-respect de la protection des données;
 - b. de manière statistique et anonyme: afin de développer et d’optimiser le système.
 
-<sup>3</sup> Les procès-verbaux de journalisation sont conservés pendant un an.
+<sup>3</sup> Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^11-2]
+
+[^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12
 
@@ -213,14 +227,15 @@ Le conseiller à la protection des données peut utiliser le procès-verbal aux 
 
 La sécurité des données est garantie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-2].[^12-3]
+- a.[^12-1] l’ordonnance du 31 août 2022 sur la protection des données[^12-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-3].[^12-4]
 
 <sup>2</sup> Les organes rattachés à l’index prennent les mesures nécessaires du point de vue organisationnel et technique, conformément aux dispositions de la législation sur la protection des données, pour empêcher les tiers non autorisés d’accéder aux données.
 
-[^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Nouvelle teneur selon l’annexe ch. 21 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Nouvelle teneur selon l’annexe ch. 21 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -249,7 +264,7 @@ Les cantons assument:
 
 L’ordonnance du 22 novembre 2006 sur l’exploitation pilote de l’index national de police[^15-1] est abrogée.
 
-[^15-1]: [[RO 2006 4875](https://fedlex.data.admin.ch/eli/oc/2006/757), [2008 3215](https://fedlex.data.admin.ch/eli/oc/2008/431)]
+[^15-1]: [[RO 2006 4875](https://fedlex.data.admin.ch/eli/oc/2006/757); [2008 3215](https://fedlex.data.admin.ch/eli/oc/2008/431)]
 
 #### Art. 16
 
@@ -263,7 +278,7 @@ Annexe[^t-1]
 
 ## Droits d’accès à l’index national de police
 
-[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)) et l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) et l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 X = accès
 
@@ -278,15 +293,21 @@ vide = pas d’accès
 <tr><td>Bureau de communication en matière de blanchiment d’argent</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
-### Police judiciaire fédérale
+### fedpol – Systèmes de police et identification (SPI)
 
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
-<tr><td>Centrale d’engagement Commissariat I</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Commissariat Contrôle JANUS & IPAS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Division Coordination</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Service de protection des témoins</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Divisions Enquêtes, Observation et Commandement</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Systèmes de police</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Offices centraux Explosifs et Armes</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Service de surveillance fedpol</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>C SPI</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+</table>
+
+### Police judiciaire fédérale (PJF)
+
+<table>
+<tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
+<tr><td>Collab. et C PJF</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
 ### Ministère public de la Confédération
@@ -304,24 +325,29 @@ vide = pas d’accès
 <tr><td>État-major opérationnel du procureur général (EMO-PG)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
-### Coopération policière internationale
+### Coopération policière internationale (CPI)
 
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
-<tr><td>Division Engagement et recherches</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Division Coopération policière opérationnelle</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Centrale d’engagement et d’alarme / SIRENE CH</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Coopération policière opérationelle</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Affaires internationales</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Gestion et planification</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>C CPI</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
-### Service fédéral de sécurité
+### Service fédéral de sécurité (SFS)
 
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
-<tr><td>Unité Évaluation de la menace</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Division Sécurité des personnes</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Commissariat Sécurité des magistrats et des représentations étrangères</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Commissariat Sécurité des visiteurs étrangers</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Division Sécurité des bâtiments</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Section Protection des biens immobiliers</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>C Div. Engagement, formation et planification</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Protection et surveillance BEWA</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>SIBEL</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>C Div. Sécurité des personnes et des bien immobiliers</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Évaluation de la menace GELA</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Gestion des menaces et sécurité des biens immobiliers</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Protection des personnes et des biens immobiliers</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>C SFS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
 ### Services
@@ -406,4 +432,22 @@ vide = pas d’accès
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
 <tr><td>Chef de projet et administrateurs système</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+</table>
+
+### Prévention de la criminalité et droit
+
+<table>
+<tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
+<tr><td>Conseiller à la protection des données + suppl.</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Point national d’information football</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Prévention de la criminalité</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>MROS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+</table>
+
+### Secrétariat d’État aux migrations
+
+<table>
+<tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
+<tr><td>Conseiller spécialisé sécurité</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Section Identification et consultation des visas</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
