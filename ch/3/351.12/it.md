@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordinanza del 23 settembre 2016 sul sistema elettronico di gestione delle persone, degli atti e delle pratiche dell'Ufficio federale di giustizia (Ordinanza EGPAP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/it"
 
 (Ordinanza EGPAP)
 
-del 23 settembre 2016 (Stato 1° gennaio 2023)
+del 23 settembre 2016 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 57*h* capoverso 3 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 11*a* capoverso 4 della legge federale del 20 marzo 1981[^ingress-2] sull’assistenza internazionale in materia penale (AIMP); vista la legge del 18 dicembre 1998[^ingress-3] sulla medicina della procreazione,[^ingress-4]
+visti l’articolo 57*h*<sup>ter</sup> della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA); visto l’articolo 11*a* capoverso 4 della legge federale del 20 marzo 1981[^ingress-2] sull’assistenza internazionale in materia penale (AIMP); vista la legge del 18 dicembre 1998[^ingress-3] sulla medicina della procreazione,[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^ingress-3]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^ingress-4]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568), [648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -214,17 +214,18 @@ Le unità organizzative del Servizio delle attività informative della Confedera
 
 La sicurezza dei dati è retta:
 
-- a. dall’ordinanza del 14 giugno 1993[^14-1] relativa alla legge federale sulla protezione dei dati;
-- b.[^14-2] dall’ordinanza del 27 maggio 2020[^14-3] sui ciber-rischi;
-- c.[^14-4] ...
+- a.[^14-1] dall’ordinanza del 31 agosto 2022[^14-2] sulla protezione dei dati;
+- b.[^14-3] dall’ordinanza del 27 maggio 2020[^14-4] sui ciber-rischi;
+- c.[^14-5] ...
 
-<sup>2</sup> In deroga all’articolo 12 capoverso 2 dell’ordinanza GEVER del 30 novembre 2012[^14-5] i documenti nel sistema non sono criptati; sono tuttavia protetti da accessi non autorizzati mediante misure tecniche.
+<sup>2</sup> In deroga all’articolo 12 capoverso 2 dell’ordinanza GEVER del 30 novembre 2012[^14-6] i documenti nel sistema non sono criptati; sono tuttavia protetti da accessi non autorizzati mediante misure tecniche.
 
-[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Nuovo testo giusta l’all. n. 16 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Abrogata dall’all. n. 16 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-5]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Nuovo testo giusta l’all. n. 16 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-5]: Abrogata dall’all. n. 16 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-6]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 15
 
@@ -232,7 +233,9 @@ La sicurezza dei dati è retta:
 
 <sup>1</sup> Ogni accesso e trattamento di dati nel sistema deve essere verbalizzato elettronicamente.
 
-<sup>2</sup> I verbali sono conservati per due anni a decorrere dalla data del loro allestimento.
+<sup>2</sup> I verbali sono conservati per due anni separatamente dal sistema in cui sono trattati i dati personali.[^15-1]
+
+[^15-1]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
@@ -246,11 +249,12 @@ La sicurezza dei dati è retta:
 
 **Statistica**
 
-<sup>1</sup> L’utilizzazione dei dati personali rilevati nel sistema per scopi statistici è retto dall’articolo 22 della legge federale del 19 giugno 1992[^17-1] sulla protezione dei dati.
+<sup>1</sup> L’utilizzazione dei dati personali rilevati nel sistema per scopi statistici è retto dall’articolo 39 della legge federale del 25 settembre 2020[^17-1] sulla protezione dei dati.[^17-2]
 
 <sup>2</sup> I dati utilizzati e pubblicati per scopi statistici devono essere trattati in modo da rendere impossibile risalire alle persone in questione.
 
 [^17-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-2]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 7: Disposizioni finali
 

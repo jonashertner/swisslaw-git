@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Verordnung vom 23. September 2016 über das elektronische Personen-, Akten- und Geschäftsverwaltungssystem des Bundesamtes für Justiz (ELPAG-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/de"
 
 (ELPAG-Verordnung)
 
-vom 23. September 2016 (Stand am 1. Januar 2023)
+vom 23. September 2016 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1], auf Artikel 11*a* Absatz 4 des Rechtshilfegesetzes vom 20. März 1981[^ingress-2] (IRSG) und auf das Fortpflanzungsmedizingesetz vom 18. Dezember 1998[^ingress-3],[^ingress-4]
+gestützt auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG), Artikel 11*a* Absatz 4 des Rechtshilfegesetzes vom 20. März 1981[^ingress-2] (IRSG), und auf das Fortpflanzungsmedizingesetz vom 18. Dezember 1998[^ingress-3],[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^ingress-3]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
-[^ingress-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^ingress-4]: Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568), [648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -124,7 +124,7 @@ Das System enthält:
 
 Das BJ kann den Trägerwandel im Bearbeitungsreglement (Art. 7 der GEVER-Verordnung vom 30. Nov. 2012[^6-1]) abweichend von den Bestimmungen der Bundeskanzlei nach Artikel 10 Absatz 1 der GEVER-Verordnung regeln.
 
-[^6-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^6-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808); [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 ## 3. Abschnitt: Zugriffs- und Bearbeitungsrechte von Dienststellen des BJ
 
@@ -214,17 +214,18 @@ Die für den Vollzug des Bundesgesetzes vom 21. März 1997[^11-1] über Massnahm
 
 Die Datensicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
-- b.[^14-2] der Cyberrisikenverordnung vom 27. Mai 2020[^14-3];
-- c.[^14-4] …
+- a.[^14-1] der Datenschutzverordnung vom 31. August 2022[^14-2];
+- b.[^14-3] der Cyberrisikenverordnung vom 27. Mai 2020[^14-4];
+- c.[^14-5] …
 
-<sup>2</sup> Dokumente im System werden abweichend von Artikel 12 Absatz 2 der GEVER-Verordnung vom 30. November 2012[^14-5] nicht verschlüsselt; sie werden jedoch durch technische Vorkehrungen vor unbefugtem Zugriff geschützt.
+<sup>2</sup> Dokumente im System werden abweichend von Artikel 12 Absatz 2 der GEVER-Verordnung vom 30. November 2012[^14-6] nicht verschlüsselt; sie werden jedoch durch technische Vorkehrungen vor unbefugtem Zugriff geschützt.
 
-[^14-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Fassung gemäss Anhang Ziff. 16 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Aufgehoben durch Anhang Ziff. 16 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-5]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Fassung gemäss Anhang Ziff. 16 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-5]: Aufgehoben durch Anhang Ziff. 16 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-6]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 15
 
@@ -232,7 +233,9 @@ Die Datensicherheit richtet sich nach:
 
 <sup>1</sup> Der Zugriff auf und die Bearbeitung von Daten im System sind elektronisch zu protokollieren.
 
-<sup>2</sup> Die Protokolle sind während zwei Jahren ab Erstellung aufzubewahren.
+<sup>2</sup> Die Protokolle werden während zwei Jahren getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^15-1]
+
+[^15-1]: Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
@@ -246,11 +249,12 @@ Die Datensicherheit richtet sich nach:
 
 **Statistik**
 
-<sup>1</sup> Die Verwendung von im System erfassten Personendaten für statistische Zwecke richtet sich nach Artikel 22 des Bundesgesetzes vom 19. Juni 1992[^17-1] über den Datenschutz.
+<sup>1</sup> Die Verwendung von im System erfassten Personendaten für statistische Zwecke richtet sich nach Artikel 39 des Datenschutzgesetzes vom 25. September 2020[^17-1].[^17-2]
 
 <sup>2</sup> Die für statistische Zwecke verwendeten und veröffentlichten Daten müssen so aufbereitet werden, dass jegliche Rückschlüsse auf konkrete Personen unmöglich sind.
 
 [^17-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-2]: Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -260,7 +264,7 @@ Die Datensicherheit richtet sich nach:
 
 Die PAGIRUS-Verordnung vom 16. Dezember 2009[^18-1] wird aufgehoben.
 
-[^18-1]: [[AS 2010 1](https://fedlex.data.admin.ch/eli/oc/2010/1), [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 5, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 3]
+[^18-1]: [[AS 2010 1](https://fedlex.data.admin.ch/eli/oc/2010/1); [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 5; [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 3]
 
 #### Art. 19
 

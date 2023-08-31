@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordonnance du 23 septembre 2016 sur le système électronique de gestion de personnes, de dossiers et d'affaires de l'Office fédéral de la justice (Ordonnance GPDA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/fr"
 
 (Ordonnance GPDA)
 
-du 23 septembre 2016 (État le 1<sup>er</sup> janvier 2023)
+du 23 septembre 2016 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1], vu l’art. 11*a*, al. 4, de la loi du 20 mars 1981 sur l’entraide pénale internationale (EIMP)[^ingress-2], vu la loi fédérale du 18 décembre 1998 sur la procréation médicalement assistée[^ingress-3],[^ingress-4]
+vu l’art. 57*h*<sup>ter</sup> de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1], vu l’art. 11*a*, al. 4, de la loi fédérale du 20 mars 1981 sur l’entraide pénale internationale (EIMP)[^ingress-2], vu la loi fédérale du 18 décembre 1998 sur la procréation médicalement assistée[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^ingress-3]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^ingress-4]: Nouvelle teneur selon l’annexe 2 ch. II 39 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568), [648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 ## Section 1 Dispositions générales
 
@@ -212,19 +212,20 @@ Les unités organisationnelles du Service de renseignement de la Confédération
 
 <sup>1</sup>
 
-La sécurité informatique est régie par les dispositions suivantes:
+La sécurité des données est régie par les dispositions suivantes:
 
-- a. ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
-- b.[^14-2] ordonnance du 27 mai 2020 sur les cyberrisques[^14-3];
-- c.[^14-4] …
+- a.[^14-1] ordonnance du 31 août 2022 sur la protection des données[^14-2];
+- b.[^14-3] ordonnance du 27 mai 2020 sur les cyberrisques[^14-4];
+- c.[^14-5] …
 
-<sup>2</sup> En dérogation à l’art. 12, al. 2, de l’ordonnance GEVER du 30 novembre 2012[^14-5], les documents enregistrés dans le système ne sont pas chiffrés; ils sont cependant techniquement protégés contre les accès non autorisés.
+<sup>2</sup> En dérogation à l’art. 12, al. 2, de l’ordonnance GEVER du 30 novembre 2012[^14-6], les documents enregistrés dans le système ne sont pas chiffrés; ils sont cependant techniquement protégés contre les accès non autorisés.
 
-[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Abrogée par l’annexe ch. 16 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-5]: [RO **2010** 6669, [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Voir actuellement l’O du 3 avr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 39 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-5]: Abrogée par l’annexe ch. 16 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-6]: [RO **2010** 6669, [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Voir actuellement l’O du 3 avr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 15
 
@@ -232,7 +233,9 @@ La sécurité informatique est régie par les dispositions suivantes:
 
 <sup>1</sup> Tout accès à des données ou traitement de données dans le système doit faire l’objet d’une journalisation électronique.
 
-<sup>2</sup> Les journaux sont conservés pendant deux ans à compter de la date de leur établissement.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant deux ans, séparément du système dans lequel les données personnelles sont traitées.[^15-1]
+
+[^15-1]: Nouvelle teneur selon l’annexe 2 ch. II 39 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
@@ -246,11 +249,12 @@ La sécurité informatique est régie par les dispositions suivantes:
 
 **Statistiques**
 
-<sup>1</sup> L’utilisation à des fins de statistique de données personnelles enregistrées dans le système est régie par l’art. 22 de la loi fédérale du 19 juin 1992 sur la protection des données[^17-1].
+<sup>1</sup> L’utilisation à des fins de statistique de données personnelles enregistrées dans le système est régie par l’art. 39 de la loi fédérale du 25 septembre 2020 sur la protection des données[^17-1].[^17-2]
 
 <sup>2</sup> Les données utilisées et publiées à des fins de statistique doivent être présentées sous une forme qui empêche toute identification des personnes concernées.
 
 [^17-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-2]: Nouvelle teneur selon l’annexe 2 ch. II 39 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 7 Dispositions finales
 
