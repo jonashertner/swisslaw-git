@@ -4,13 +4,12 @@ number: "137.1"
 title: Gesetz über den Datenschutz
 short: "Datenschutzgesetz, kDSG"
 language: de
-version: 2008-11-01
-valid_until: 2023-08-31
-version_adopted: 2008-01-25
+version: 2023-09-01
+version_adopted: 2023-06-30
 adopted: 2008-01-25
 in_force: 2008-11-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/137.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1736/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1828/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +18,15 @@ pdf: "http://gdb.ow.ch/api/de/versions/1736/pdf_file"
 
 (Datenschutzgesetz, kDSG)
 
-vom 25.01.2008 (Stand 01.11.2008)
+vom 25.01.2008 (Stand 01.09.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
-in Ausführung des Bundesgesetzes über den Datenschutz (DSG) vom 19. Juni 1992[^ingress-1],
-
-gestützt auf Artikel 60 der Kantonsverfassung vom 19. Mai 1968[^ingress-2],
+gestützt auf Artikel 60 der Kantonsverfassung vom 19. Mai 1968[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SR [235.1](https://db.clex.ch/link/Bund/235.1/de)
-[^ingress-2]: GDB [101.0](http://gdb.ow.ch/data/101.0/de)
+[^ingress-1]: GDB [101.0](http://gdb.ow.ch/data/101.0/de)
 
 ## 1. Geltungsbereich
 
@@ -38,19 +34,19 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt das Bearbeiten von Daten natürlicher und juristischer Personen durch öffentliche Organe.
+<sup>1</sup> Dieses Gesetz regelt das Bearbeiten von Daten natürlicher Personen durch öffentliche Organe.
 
 <sup>2</sup> Es gilt für die kantonalen und kommunalen Behörden und Amtsstellen sowie andere öffentlich-rechtliche Körperschaften und Anstalten und Personen, soweit sie öffentliche Aufgaben erfüllen.
 
 <sup>3</sup> Das Gesetz ist nicht anwendbar auf:
 
 - a. privatrechtlich handelnde öffentliche Organe;
-- b. hängige Verfahren der Zivil-, Verwaltungs- und Strafrechtspflege;
-- c. Geschäfte des Kantonsrats und seiner Kommissionen;
-- d. öffentliche Register des Privatrechtsverkehrs;
+- b.–d. …
 - e. verwaltungsinterne Arbeitsmittel, die dem persönlichen Gebrauch dienen.
 
 <sup>4</sup> Vorbehalten bleiben Datenschutzregelungen in der Sachgesetzgebung, namentlich über die Bearbeitung von Gerichtsakten, Patientendaten und Einwohnerkontrolldaten.
+
+<sup>5</sup> In Verfahren der Zivil-, Straf- und Verwaltungsrechtspflege richten sich die Rechte und Ansprüche der betroffenen Personen nach dem anwendbaren Verfahrensrecht. Auf das erstinstanzliche Verwaltungsverfahren sind die Bestimmungen dieses Gesetzes anwendbar.
 
 ## 2. Allgemeine Datenschutzbestimmungen
 
@@ -58,9 +54,16 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Soweit dieses Gesetz keine abweichenden Vorschriften enthält, gelten sinngemäss die Vorschriften des Bundesgesetzes über den Datenschutz.
+<sup>1</sup> Soweit dieses Gesetz keine abweichenden Vorschriften enthält, gelten sinngemäss die Vorschriften des Bundesgesetzes über den Datenschutz (DSG)[^2-1].
 
 <sup>2</sup> Bearbeiten öffentliche Organe gemeinsam oder mit Dritten Personendaten aus einer Datensammlung, so trägt der Inhaber oder die Inhaberin der Datensammlung die Verantwortung; jedes öffentliche Organ bleibt für seinen Bereich verantwortlich.
+
+<sup>3</sup> Das öffentliche Organ muss den Nachweis erbringen können, dass es die Datenschutzbestimmungen einhält.
+
+<sup>4</sup> Die Straf- und Strafvollzugsorgane gemäss Art. 3 Ziff. 7 der Richtlinie (EU) 2016/680[^2-2] benachrichtigen die Behörde, von der die Personendaten stammen, sowie die Empfängerinnen und Empfänger, denen die Personendaten bekannt gegeben wurden, über getroffene Berichtigungsmassnahmen, soweit dies mit verhältnismässigem Aufwand möglich ist.
+
+[^2-1]: SR [235.1](https://db.clex.ch/link/Bund/235.1/de)
+[^2-2]: Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, Fassung gemäss ABl. L 119 vom 4. Mai 2016, S. 89.
 
 #### Art. 3
 
@@ -70,27 +73,35 @@ beschliesst:
 
 <sup>2</sup> Eine andere Beschaffung von Personendaten ist ausnahmsweise zulässig, soweit dieses Gesetz nicht entgegensteht.
 
-<sup>3</sup> Die Beschaffung von Personendaten und insbesondere der Zweck ihrer Bearbeitung muss für die betroffene Person erkennbar sein.
+<sup>3</sup> …
 
 #### Art. 4
 
-**Vorabkontrolle**
+**Vorabkonsultation**
 
-<sup>1</sup> Birgt die geplante Bearbeitung von Personendaten besondere Risiken für die Rechte und Freiheiten der betroffenen Person in sich, so muss diese vorher durch das öffentliche Organ der beauftragten Person für Datenschutz unterbreitet und von dieser geprüft werden.
+<sup>1</sup> Ergibt eine Datenschutz-Folgenabschätzung der Straf- und Strafvollzugsorgane gemäss Art. 3 Ziff. 7 der Richtlinie (EU) 2016/680, dass die geplante Bearbeitung von Personendaten trotz den vorgesehenen Massnahmen hohe Risiken für die Rechte und Freiheiten der betroffenen Person zur Folge hat, holt das planende Organ vorgängig die Stellungnahme der beauftragten Person für Datenschutz ein.
+
+<sup>2</sup> Die beauftragte Person für Datenschutz teilt dem planenden Organ innerhalb von zwei Monaten ihre Einwände gegen die geplante Bearbeitung mit. Diese Frist kann um einen Monat verlängert werden, wenn es sich um eine komplexe Datenbearbeitung handelt.
+
+<sup>3</sup> Die beauftragte Person für Datenschutz kann die Datenbearbeitungsvorgänge bezeichnen, die ihr vorzulegen sind.
 
 #### Art. 5
 
-**Register der Datensammlungen**
+**Verzeichnis der Datenbearbeitungstätigkeiten**
 
-<sup>1</sup> Die öffentlichen Organe müssen der beauftragten Person für den Datenschutz sämtliche Datensammlungen zur Registrierung im Register der Datensammlungen anmelden.
+<sup>1</sup> Die Straf- und Strafvollzugsorgane gemäss Art. 3 Ziff. 7 der Richtlinie (EU) 2016/680 führen die notwendigen Verzeichnisse ihrer Datenbearbeitungstätigkeiten und stellen diese Verzeichnisse auf Anfrage der beauftragten Person für Datenschutz zur Verfügung.
 
-<sup>2</sup> Nicht in das Register aufgenommen werden Datensammlungen:
+<sup>2–3</sup> …
 
-- a. die nur kurzfristig geführt werden;
-- b. deren Inhalt rechtmässig veröffentlicht ist;
-- c. die reine Hilfsdatensammlungen sind.
+#### Art. 5a
 
-<sup>3</sup> Das Register ist öffentlich und von jedermann einsehbar.
+**Beratende Person für Datenschutz**
+
+<sup>1</sup> Die Straf- und Strafvollzugsorgane gemäss Art. 3 Ziff. 7 der Richtlinie (EU) 2016/680 bezeichnen innerhalb ihrer Organisationseinheit eine für den Datenschutz zuständige Person (beratende Person für Datenschutz). Die Zuständigkeit erfasst nicht die justizielle Tätigkeit der Gerichte und der anderen unabhängigen Straforgane.
+
+<sup>2</sup> Der Regierungsrat und das Obergericht können für mehrere Organisationseinheiten eine gemeinsame Person bezeichnen.
+
+<sup>3</sup> Die beratende Person für Datenschutz nimmt auch die Datenschutz-Folgenabschätzung vor.
 
 #### Art. 6
 
@@ -98,7 +109,9 @@ beschliesst:
 
 <sup>1</sup> Die öffentlichen Organe gemäss Art. 5 der Verordnung über das Staatsarchiv[^6-1] bieten dem Staatsarchiv alle Personendaten an, die sie nicht mehr ständig benötigen.
 
-<sup>2</sup> Sie vernichten die vom Staatsarchiv als nicht archivwürdig bezeichneten Personendaten, ausser wenn diese:
+<sup>1a</sup> Die Straf- und Strafvollzugsorgane gemäss Art. 3 Ziff. 7 der Richtlinie (EU) 2016/680 legen für alle Personendaten Fristen für die Aufbewahrung oder für die Beurteilung fest, ob die Daten zur Aufgabenerfüllung noch benötigt oder dem Staatsarchiv angeboten werden.
+
+<sup>2</sup> Die öffentlichen Organe vernichten die vom Staatsarchiv als nicht archivwürdig bezeichneten Personendaten, ausser wenn diese:
 
 - a. anonymisiert sind und für amtliche oder statistische Zwecke weiter verwendet werden;
 - b. zu Beweis- oder Sicherheitszwecken aufbewahrt werden müssen.
@@ -106,6 +119,8 @@ beschliesst:
 <sup>3</sup> Für die kommunalen öffentlichen Organe gelten Absatz 1 und 2 sinngemäss.
 
 [^6-1]: GDB [131.21](http://gdb.ow.ch/data/131.21/de)
+
+## 2a. Besondere Datenschutzbestimmungen
 
 #### Art. 7
 
@@ -115,27 +130,50 @@ beschliesst:
 
 - a. die Überwachung in geeigneter Weise erkennbar gemacht wird;
 - b. die gespeicherten Personendaten nach spätestens 100 Tagen gelöscht oder innerhalb dieser Frist mit einem Strafantrag bzw. einer Strafanzeige der Polizei übergeben werden und
-- c. die beauftragte Person für den Datenschutz vorgängig über die Einführung einer Überwachung informiert wurde.
+- c. die beauftragte Person für Datenschutz vorgängig über die Einführung einer Überwachung informiert wurde.
 
 <sup>2</sup> Das Anbringen von Überwachungsgeräten wird von jenem öffentlichen Organ angeordnet, dem das Benützungsrecht oder die Hoheit über den zu überwachenden Ort zusteht.
+
+#### Art. 7a
+
+**Elektronische Informations-, Geschäftsverwaltungs- und Datenablagesysteme**
+
+<sup>1</sup> Personendaten und Daten juristischer Personen, einschliesslich besonders schützenswerter Daten, dürfen von öffentlichen Organen in elektronischen Informations-, Geschäftsverwaltungs- und Datenablagesystemen bearbeitet werden, wenn sie dazu dienen:
+
+- a. Geschäfte zu bearbeiten;
+- b. Arbeitsabläufe zu organisieren;
+- c. festzustellen, ob Daten über eine bestimmte Person bearbeitet werden;
+- d. den Zugang zu amtlichen Dokumenten zu erleichtern;
+- e. die gesetzlichen Aufgaben zu erfüllen.
+
+<sup>2</sup> Anderen öffentlichen Organen oder Dritten darf Zugriff auf Personendaten und Daten juristischer Personen, einschliesslich besonders schützenswerter Daten, gewährt werden, wenn die für die Bekanntgabe erforderliche gesetzliche Grundlage vorhanden ist.
 
 ## 3. Organisation und Verfahren
 
 #### Art. 8
 
-**Regierungsrat**
+**Regierungsrat und Obergericht**
 
 <sup>1</sup> Der Regierungsrat ist auf kantonaler Ebene für jene Erlasse, Verfügungen und Entscheide zuständig, die gemäss Bundesgesetzgebung über den Datenschutz auf Bundesebene dem Bundesrat zustehen.
 
 <sup>2</sup> Er erlässt die zum Vollzug erforderlichen Ausführungsbestimmungen. Er kann insbesondere folgende Bereiche im Einzelnen regeln:
 
-- a. Bearbeiten, Beschaffen, Bekanntgabe, besondere Formen der Bearbeitung im Rahmen des Bundesrechts (Art. 2 Abs. 1 dieses Gesetzes);
+- a. Bearbeiten, Beschaffen, Bekanntgabe, Aufbewahrung, besondere Formen der Bearbeitung im Rahmen des Bundesrechts (Art. 2 Abs. 1 dieses Gesetzes);
 - b. Verantwortlichkeit bei gemeinsamer Datenbearbeitung mehrerer öffentlicher Organe (Art. 2 Abs. 2 dieses Gesetzes);
-- c. Mindestanforderung an die Datensicherheit (Art. 7 DSG);
-- d. Register der Datensammlungen (Art. 5 dieses Gesetzes);
-- e. Modalitäten des Auskunftsrechts (Art. 8 DSG);
-- f. Anspruch auf Massnahmen (Art. 25 DSG);
-- g. kostenpflichtige Amtshandlungen.
+- c. Mindestanforderung an die Datensicherheit (Art. 8 DSG);
+- d. …
+- e. Modalitäten des Auskunftsrechts (Art. 25 bis 29 DSG);
+- f. Anspruch auf Massnahmen (Art. 41 DSG);
+- g. kostenpflichtige Amtshandlungen;
+- h. Nachweis des Datenschutzes (Art. 2 Abs. 3 dieses Gesetzes);
+- i. Verzeichnis der Datenbearbeitungstätigkeiten (Art. 5 dieses Gesetzes);
+- j. beratende Person für Datenschutz (Art. 5a dieses Gesetzes);
+- k. Informations-, Geschäftsverwaltungs- und Datenablagesysteme (Art. 7a dieses Gesetzes);
+- l. Inhalt und Umfang der Datenschutz-Folgenabschätzung (Art. 22 DSG).
+
+<sup>3</sup> Das Obergericht erlässt in seinem Aufsichtsbereich die zum Vollzug erforderlichen Reglemente, insbesondere jene für die Straf- und Strafvollzugsorgane gemäss Art. 3 Ziff. 7 der Richtlinie (EU) 2016/680.
+
+<sup>4</sup> Der Regierungsrat und das Obergericht können die Regelungen für die Straf- und Strafvollzugsorgane gemäss Art. 3 Ziff. 7 der Richtlinie (EU) 2016/680 für weitere öffentliche Organe als anwendbar erklären.
 
 #### Art. 9
 
@@ -158,23 +196,24 @@ beschliesst:
 
 **b. Aufgaben**
 
-<sup>1</sup> Die beauftragte Person für Datenschutz ist kantonales und kommunales Kontrollorgan im Sinne des Bundesgesetzes über den Datenschutz.
+<sup>1</sup> …
 
 <sup>2</sup> Die beauftragte Person für Datenschutz:
 
 - a. überwacht die Anwendung der Vorschriften über den Datenschutz;
-- b. berät die öffentlichen Organe und betroffenen Personen in Fragen des Datenschutzes und vermittelt zwischen ihnen;
+- b. berät die öffentlichen Organe und betroffenen Personen in Fragen des Datenschutzes;
+- b1. sensibilisiert die öffentlichen Organe für ihre datenschutzrechtlichen Pflichten und die Öffentlichkeit für die Anliegen des Datenschutzes;
 - c. nimmt Stellung zu Entwürfen von Erlassen und zu Massnahmen, die für den Datenschutz von erheblicher Bedeutung sind;
 - d. legt Rechenschaft über ihre Tätigkeit ab.
 
 <sup>3</sup> Die beauftragte Person für Datenschutz erfüllt diese Aufgaben, indem sie insbesondere:
 
 - a. Kontrollen bei den öffentlichen Organen durchführt;
-- b. geplante Datenbearbeitungen, die besondere Risiken für die Rechte und Freiheiten der betroffenen Personen in sich bergen, vor der Inbetriebnahme überprüft;
-- c. Eingaben behandelt, die den Datenschutz betreffen;
-- d. das Register der Datensammlungen führt;
+- b. Stellung nimmt im Rahmen von Vorabkonsultationen;
+- c. Eingaben und Meldungen behandelt, die den Datenschutz betreffen;
+- d. …
 - e. mit den Kontrollorganen der andern Kantone, des Bundes und des Auslandes zusammen arbeitet;
-- f. zuhanden des Kantonsrats jährlich einen Rechenschaftsbericht erstellt.
+- f. zuhanden des Kantonsrats einen Rechenschaftsbericht erstellt.
 
 <sup>4</sup> Die beauftragte Person für Datenschutz kann wichtige Feststellungen und Massnahmen im Bereich des Datenschutzes veröffentlichen.
 
@@ -192,6 +231,18 @@ beschliesst:
 <sup>2</sup> Sie kann für einzelne Aufgaben Sachverständige beiziehen.
 
 <sup>3</sup> Die öffentlichen Organe sind verpflichtet, die beauftragte Person für Datenschutz bei der Erfüllung ihrer Aufgabe zu unterstützen.
+
+#### Art. 11a
+
+**d. Ausnahmen von der Aufsicht**
+
+<sup>1</sup> Von der Aufsicht der beauftragten Person für Datenschutz sind ausgenommen:
+
+- a. der Kantonsrat;
+- b. der Regierungsrat;
+- c. die Gerichtsbehörden im Rahmen ihrer rechtsprechenden Tätigkeit;
+- d. die Staatsanwaltschaft im Rahmen ihrer Tätigkeit im Strafverfahren;
+- e. die übrigen kantonalen und kommunalen öffentlichen Organe im Rahmen ihrer rechtsprechenden Tätigkeit.
 
 #### Art. 12
 
@@ -211,17 +262,19 @@ beschliesst:
 
 #### Art. 14
 
-**c. Aufsicht und Rechtsmittel**
+**c. Sachverhaltsabklärung, Massnahmen, Verfügung und Rechtsmittel**
 
 <sup>1</sup> Die beauftragte Person für Datenschutz wird von sich aus oder auf Anzeige hin tätig.
 
 <sup>2</sup> Sie klärt den Sachverhalt von Amtes wegen ab.
 
-<sup>3</sup> Ergibt die Abklärung, dass Datenschutzbestimmungen verletzt werden, so beantragt die beauftragte Person für Datenschutz dem öffentlichen Organ oder dessen übergeordneter Behörde Massnahmen.
+<sup>3</sup> Ergibt die Abklärung, dass Datenschutzbestimmungen verletzt werden, so beantragt die beauftragte Person für Datenschutz dem öffentlichen Organ Massnahmen. Die übergeordnete Behörde ist zu orientieren.
 
-<sup>4</sup> Wird dem Antrag nicht vollumfänglich entsprochen, so erlässt das öffentliche Organ oder die Behörde eine anfechtbare Verfügung.
+<sup>4</sup> Wird dem Antrag nicht vollumfänglich entsprochen, so kann die beauftragte Person für Datenschutz bei erheblichen Datenschutzverletzungen eine anfechtbare Verfügung erlassen. Gegenüber dem Obergericht und dem Verwaltungsgericht kann keine Verfügung erlassen werden.
 
-<sup>5</sup> Der beauftragten Person für Datenschutz steht das Beschwerderecht zu.
+<sup>5</sup> Dem öffentlichen Organ und der beauftragten Person für Datenschutz stehen das Beschwerderecht zu. Das für die Beschwerdeeinreichung zuständige öffentliche Organ bestimmt sich sinngemäss nach Art. 10 Abs. 1 und die anzurufenden Beschwerdeinstanzen nach Art. 10 Abs. 3 des Gesetzes über das Öffentlichkeitsprinzip[^14-1].
+
+[^14-1]: GDB [131.3](http://gdb.ow.ch/data/131.3/de)
 
 #### Art. 15
 
@@ -271,5 +324,9 @@ beschliesst:
 **Informationen zum Erlass**
 
 Ursprüngliche Fundstelle: OGS 2008, 14, 29, 59 und 93
+
+Geändert durch:
+
+\- Nachtrag vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
 
 OGS 2008, 14
