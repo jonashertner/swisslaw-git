@@ -3,11 +3,11 @@ sr: "910.18"
 title: "Ordinanza del 22 settembre 1997 sull'agricoltura biologica e la designazione dei prodotti e delle derrate alimentari ottenuti biologicamente (Ordinanza sull'agricoltura biologica)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230101/it"
 
 (Ordinanza sull’agricoltura biologica)[^t-1]
 
-del 22 settembre 1997 (Stato 1° gennaio 2023)
+del 22 settembre 1997 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -1420,10 +1420,11 @@ L’UFAG ispeziona annualmente gli enti di certificazione ammessi in Svizzera se
   - 3\. lo scambio di informazioni con altri enti di certificazione, o con i terzi incaricati da questi ultimi, e con le autorità di esecuzione competenti,
   - 4\. lo svolgimento del controllo iniziale e dei successivi controlli delle imprese soggette al suo controllo,
   - 5\. l’applicazione e il seguito delle misure prese secondo l’articolo 32 capoverso 5 in caso di irregolarità o infrazioni,
-  - 6\. il rispetto delle prescrizioni della legge federale del 19 giugno 1992[^33-2] sulla protezione dei dati.
+  - 6\.[^33-2] rispetto delle disposizioni della legge federale del 25 settembre 2020[^33-3] sulla protezione dei dati.
 
 [^33-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^33-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-2]: Nuovo testo giusta l’all. 2 n. II 126 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^33-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 33a
 

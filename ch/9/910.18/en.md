@@ -3,11 +3,11 @@ sr: "910.18"
 title: Ordinance of 22 September 1997 on Organic Farming and the Labelling of Organically Produced Products and Foodstuffs (Organic Farming Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Organic Farming Ordinance)
 
-of 22 September 1997 (Status as of 1 January 2023)
+of 22 September 1997 (Status as of 1 September 2023)
 
 [^t-1]: Amended by No I of the O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -1427,10 +1427,11 @@ FOAG shall conduct an annual inspection of the certification bodies authorised i
   - 3\. information exchange with other certification bodies or third parties commissioned by them and with the authorities responsible for enforcement,
   - 4\. conduct of initial and follow-up inspections of the operators subject to their inspections,
   - 5\. application and pursuance of measures taken under Article 32 paragraph 6 in case of irregularities or infringements,
-  - 6\. compliance with the provisions of the Federal Act of 19 June 1992[^33-2] on Data Protection.
+  - 6\.[^33-2] compliance with the provisions of the Data Protection Act of 25 September 2020[^33-3].
 
 [^33-1]: Amended by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-2]: Amended by Annex 2 No II 126 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^33-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 33a
 

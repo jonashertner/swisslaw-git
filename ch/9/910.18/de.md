@@ -3,11 +3,11 @@ sr: "910.18"
 title: Verordnung vom 22. September 1997 über die biologische Landwirtschaft und die Kennzeichnung biologisch produzierter Erzeugnisse und Lebensmittel (Bio-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230101/de"
 
 (Bio-Verordnung)[^t-1]
 
-vom 22. September 1997 (Stand am 1. Januar 2023)
+vom 22. September 1997 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -1425,10 +1425,11 @@ Das BLW führt jährlich eine Inspektion der nach den Artikeln 28 und 29 in der 
   - 3\. Informationsaustausch mit anderen Zertifizierungsstellen oder von diesen beauftragten Dritten und mit den mit Vollzugaufgaben beauftragten Behörden,
   - 4\. Durchführung von Erst- und Folgekontrollen der ihrer Kontrolle unterliegenden Unternehmen,
   - 5\. Anwendung und Weiterverfolgung der getroffenen Massnahmen nach Artikel 32 Absatz 5 im Falle von Unregelmässigkeiten oder Verstössen,
-  - 6\. Einhaltung der Vorschriften des Bundesgesetzes vom 19. Juni 1992[^33-2] über den Datenschutz.
+  - 6\.[^33-2] Einhaltung der Vorschriften des Datenschutzgesetzes vom 25. September 2020[^33-3].
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-2]: Fassung gemäss Anhang 2 Ziff. II 126 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^33-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 33a
 

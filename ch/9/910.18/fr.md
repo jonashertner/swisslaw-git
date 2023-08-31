@@ -3,11 +3,11 @@ sr: "910.18"
 title: "Ordonnance du 22 septembre 1997 sur l'agriculture biologique et la désignation des produits et des denrées alimentaires biologiques (Ordonnance sur l'agriculture biologique)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230101/fr"
 
 (Ordonnance sur l’agriculture biologique)[^t-1]
 
-du 22 septembre 1997 (État le 1<sup>er</sup> janvier 2023)
+du 22 septembre 1997 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -1432,10 +1432,11 @@ L’OFAG procède à une inspection annuelle auprès des organismes de certifica
   - 3\. échange d’informations avec d’autres organismes de certification ou des tiers mandatés par ces derniers et avec les autorités chargées des tâches d’exécution,
   - 4\. réalisation des premiers contrôles et des contrôles suivants des entreprises soumises à leur contrôle,
   - 5\. application et suivi des mesures prises en vertu de l’art. 32, al. 5, dans le cas d’irrégularités ou d’infractions,
-  - 6\. respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^33-2].
+  - 6\.[^33-2] respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^33-3].
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^33-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-2]: Nouvelle teneur selon l’annexe 2 ch. II 126 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^33-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 33a
 
