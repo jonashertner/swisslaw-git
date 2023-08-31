@@ -4,11 +4,11 @@ title: "Ordonnance du 25 août 2004 sur le Bureau de communication en matière d
 short: OBCBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230101/fr"
 
 (OBCBA)
 
-du 25 août 2004 (État le 1<sup>er</sup> janvier 2023)
+du 25 août 2004 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -323,7 +323,7 @@ Lorsque le bureau constate qu’un intermédiaire financier n’a pas observé s
 
 Lorsque les conditions énumérées à l’al. 2 sont remplies, le bureau peut échanger des données personnelles et des informations relatives à des soupçons de blanchiment d’argent, d’infractions préalables au blanchiment d’argent, de criminalité organisée ou de financement du terrorisme avec les autorités étrangères ci-après ou leur transmettre de telles données et informations de son propre chef, afin de les aider à accomplir leurs tâches légales:
 
-- a. autorités qui exécutent des tâches de poursuite pénale et de police, pour autant que les conditions de l’art. 13, al. 2, LOC soient remplies;
+- a.[^13-2] autorités qui exécutent des tâches de poursuite pénale et de police, conformément à l’art. 13, al. 2, LOC;
 - b. autorités qui assument des tâches analogues à celles du bureau, pour autant que les conditions mentionnées à l’art. 30 LBA soient remplies.
 
 <sup>2</sup>
@@ -337,6 +337,7 @@ Les données personnelles et les informations visées à l’al. 1 peuvent être
 <sup>3</sup> Les art. 6, 7 et 12 s’appliquent par analogie au traitement des demandes des autorités étrangères.
 
 [^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^13-2]: Nouvelle teneur selon l’annexe 2 ch. II 136 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 4 Système d’information
 
@@ -455,15 +456,16 @@ Le système d’information sert à:
 
 La sécurité des données est régie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^19-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^19-2].[^19-3]
+- a.[^19-1] l’ordonnance du 31 août 2022 sur la protection des données[^19-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^19-3].[^19-4]
 
-<sup>2</sup> L’Office fédéral de la police (fedpol) fixe, dans un règlement sur le traitement des données, les mesures organisationnelles et techniques à prendre pour éviter le traitement non autorisé des données et pour assurer la journalisation automatique du traitement des données.[^19-4]
+<sup>2</sup> L’Office fédéral de la police (fedpol) fixe, dans un règlement sur le traitement des données, les mesures organisationnelles et techniques à prendre pour éviter le traitement non autorisé des données et pour assurer la journalisation automatique du traitement des données.[^19-5]
 
-[^19-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-3]: Nouvelle teneur selon l’annexe ch. 38 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^19-4]: Nouvelle teneur selon le ch. I 20 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^19-1]: Nouvelle teneur selon l’annexe 2 ch. II 136 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-4]: Nouvelle teneur selon l’annexe ch. 38 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-5]: Nouvelle teneur selon le ch. I 20 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
 
@@ -535,23 +537,25 @@ Les données personnelles sont transmises sur requête aux autorités de surveil
 
 **Communication des données**
 
-<sup>1</sup> Lors de toute communication de données du système d’information, les destinataires doivent être informés de la fiabilité et de l’actualité des données communiquées. Ils ne peuvent les utiliser que dans le but en vue duquel elles leur ont été communiquées. Ils doivent être prévenus des restrictions d’utilisation des données et du fait que le bureau se réserve le droit d’exiger des informations sur l’utilisation qui en aura été faite.
+<sup>1</sup> Lors de toute communication de données du système d’information, les destinataires doivent être informés de la fiabilité, de l’actualité et de l’exhaustivité des données communiquées.[^25-1] Ils ne peuvent les utiliser que dans le but en vue duquel elles leur ont été communiquées. Ils doivent être prévenus des restrictions d’utilisation des données et du fait que le bureau se réserve le droit d’exiger des informations sur l’utilisation qui en aura été faite.
 
-<sup>2</sup> Si des informations sont transmises à des autorités nationales ou étrangères, à des organismes de surveillance ou à des organismes d’autorégulation, elles ne peuvent être utilisées que conformément aux restrictions fixées par le bureau et par le propriétaire des données. Le bureau indique systématiquement que les données transmises ne valent qu’à titre de renseignements et que leur transmission à d’autres autorités est subordonnée à son accord écrit.[^25-1]
+<sup>2</sup> Si des informations sont transmises à des autorités nationales ou étrangères, à des organismes de surveillance ou à des organismes d’autorégulation, elles ne peuvent être utilisées que conformément aux restrictions fixées par le bureau et par le propriétaire des données. Le bureau indique systématiquement que les données transmises ne valent qu’à titre de renseignements et que leur transmission à d’autres autorités est subordonnée à son accord écrit.[^25-2]
 
-[^25-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^25-1]: Nouvelle teneur selon l’annexe 2 ch. II 136 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^25-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 26
 
 **Restrictions concernant la communication de données**[^26-1]
 
-<sup>1</sup> Lors de la communication de données du système d’information, les interdictions portant sur l’utilisation doivent être respectées. Si le bureau envisage de communiquer à leur État d’origine ou de provenance des données relatives à un requérant d’asile, un réfugié reconnu ou une personne à protéger résidant en Suisse, les conditions mentionnées à l’art. 2 de l’ordonnance 3 du 11 août 1999 sur l’asile[^26-2] s’appliquent. Le bureau ne peut communiquer à leur État d’origine ou de provenance des données concernant des personnes provisoirement admises que conformément aux conditions énoncées à l’art. 6 de la loi fédérale du 19 juin 1992 sur la protection des données[^26-3] et qu’après avoir consulté le Secrétariat d’État aux migrations.
+<sup>1</sup> Lors de la communication de données du système d’information, les interdictions portant sur l’utilisation doivent être respectées. Si le bureau envisage de communiquer à leur État d’origine ou de provenance des données relatives à un requérant d’asile, un réfugié reconnu ou une personne à protéger résidant en Suisse, les conditions mentionnées à l’art. 2 de l’ordonnance 3 du 11 août 1999 sur l’asile[^26-2] s’appliquent. Le bureau ne peut communiquer à l’État d’origine ou de provenance des données concernant des personnes provisoirement admises que conformément aux conditions énoncées aux art. 16 et 17 de la loi fédérale du 25 septembre 2020 sur la protection des données[^26-3] et qu’après avoir consulté le Secrétariat d’État aux migrations.[^26-4]
 
 <sup>2</sup> Le bureau refuse de communiquer des données du système d’information si des intérêts prépondérants, publics ou privés, s’y opposent.
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^26-2]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
 [^26-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^26-4]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 136 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

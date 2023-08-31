@@ -4,11 +4,11 @@ title: Verordnung vom 25. August 2004 über die Meldestelle für Geldwäscherei 
 short: MGwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230101/de"
 
 (MGwV)
 
-vom 25. August 2004 (Stand am 1. Januar 2023)
+vom 25. August 2004 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -324,7 +324,7 @@ Stellt die Meldestelle fest, dass ein Finanzintermediär seine Sorgfaltspflicht,
 
 Die Meldestelle kann unter den Voraussetzungen von Absatz 2 Personendaten und Informationen bezüglich eines Verdachts auf Geldwäscherei, deren Vortaten, organisierte Kriminalität oder Terrorismusfinanzierung mit folgenden ausländischen Behörden austauschen oder unaufgefordert an folgende ausländische Behörden weitergeben, um sie bei der Erfüllung ihrer gesetzlichen Aufgaben zu unterstützen:
 
-- a. Behörden, die Aufgaben der Strafverfolgung und der Polizei erfüllen, sofern die Bestimmungen von Artikel 13 Absatz 2 ZentG erfüllt sind;
+- a.[^13-2] Behörden, die Aufgaben der Strafverfolgung und der Polizei erfüllen: nach Massgabe von Artikel 13 Absatz 2 ZentG;
 - b. Behörden, die Aufgaben wahrnehmen, welche denjenigen der Meldestelle entsprechen, sofern die Bestimmungen von Artikel 30 GwG erfüllt sind.
 
 <sup>2</sup>
@@ -338,6 +338,7 @@ Die Personendaten und Informationen nach Absatz 1 dürfen nur ausgetauscht oder 
 <sup>3</sup> Die Artikel 6, 7 und 12 gelten sinngemäss für die Bearbeitung von Gesuchen ausländischer Behörden.
 
 [^13-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^13-2]: Fassung gemäss Anhang 2 Ziff. II 136 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Kapitel: Informationssystem
 
@@ -403,7 +404,7 @@ Für die Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten K
 
 - a.[^16-3] Finanztransaktionen in dem für den Verdacht relevanten Zeitraum;
 - b.[^16-4] Personen und Gesellschaften, gegen die der Verdacht besteht, dass sie einen der Straftatbestände nach Artikel 23 Absatz 4 GwG erfüllt haben oder eine entsprechende Straftat vorbereiten oder unterstützen.
-- c.[^16-5] ….
+- c.[^16-5] …
 
 <sup>2</sup> Über Drittpersonen, auf die die Kriterien nach Absatz 1 nicht zutreffen, können im Informationssystem Daten verzeichnet werden, soweit dies den Zwecken nach Artikel 14 dient.
 
@@ -459,15 +460,16 @@ Das Informationssystem dient der:
 
 Für die Datensicherheit gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^19-1] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^19-2].[^19-3]
+- a.[^19-1] die Datenschutzverordnung vom 31. August 2022[^19-2];
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^19-3].[^19-4]
 
-<sup>2</sup> Das Bundesamt für Polizei (fedpol) regelt in einem Datenbearbeitungsreglement die organisatorischen und technischen Massnahmen, die unbefugtes Bearbeiten der Daten verhindern und die automatische Protokollierung der Datenbearbeitung sicherstellen.[^19-4]
+<sup>2</sup> Das Bundesamt für Polizei (fedpol) regelt in einem Datenbearbeitungsreglement die organisatorischen und technischen Massnahmen, die unbefugtes Bearbeiten der Daten verhindern und die automatische Protokollierung der Datenbearbeitung sicherstellen.[^19-5]
 
-[^19-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-3]: Fassung gemäss Anhang Ziff. 38 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^19-4]: Fassung gemäss Ziff. I 20 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^19-1]: Fassung gemäss Anhang 2 Ziff. II 136 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-4]: Fassung gemäss Anhang Ziff. 38 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-5]: Fassung gemäss Ziff. I 20 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
 
@@ -540,23 +542,25 @@ Die Personendaten werden den Aufsichtsbehörden des Bundes und der Kantone sowie
 
 **Weitergabe von Daten**
 
-<sup>1</sup> Bei jeder Weitergabe von Daten sind die Empfängerinnen und Empfänger über die Verlässlichkeit und die Aktualität der Daten aus dem Informationssystem in Kenntnis zu setzen. Die Empfängerinnen und Empfänger dürfen die Daten nur zu dem Zweck verwenden, für den sie ihnen weitergegeben werden. Sie sind auf die Verwendungsbeschränkung und darauf hinzuweisen, dass sich die Meldestelle vorbehält, Auskunft über die vorgenommene Verwendung zu verlangen.
+<sup>1</sup> Bei jeder Weitergabe von Daten sind die Empfängerinnen und Empfänger über die Verlässlichkeit, die Aktualität und Vollständigkeit der Daten aus dem Informationssystem in Kenntnis zu setzen.[^25-1] Die Empfängerinnen und Empfänger dürfen die Daten nur zu dem Zweck verwenden, für den sie ihnen weitergegeben werden. Sie sind auf die Verwendungsbeschränkung und darauf hinzuweisen, dass sich die Meldestelle vorbehält, Auskunft über die vorgenommene Verwendung zu verlangen.
 
-<sup>2</sup> Werden Informationen an zuständige nationale oder ausländische Behörden, an Aufsichtsorganisationen oder an Selbstregulierungsorganisationen weitergegeben, so dürfen diese Informationen nur gemäss den von der Meldestelle und vom Dateninhaber verlangten Beschränkungen verwendet werden. Die Meldestelle weist jeweils darauf hin, dass die weitergegebenen Daten lediglich Informationscharakter haben und dass sie ohne schriftliches Einverständnis der Meldestelle nicht an andere Behörden weitergegeben werden dürfen.[^25-1]
+<sup>2</sup> Werden Informationen an zuständige nationale oder ausländische Behörden, an Aufsichtsorganisationen oder an Selbstregulierungsorganisationen weitergegeben, so dürfen diese Informationen nur gemäss den von der Meldestelle und vom Dateninhaber verlangten Beschränkungen verwendet werden. Die Meldestelle weist jeweils darauf hin, dass die weitergegebenen Daten lediglich Informationscharakter haben und dass sie ohne schriftliches Einverständnis der Meldestelle nicht an andere Behörden weitergegeben werden dürfen.[^25-2]
 
-[^25-1]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^25-1]: Fassung gemäss Anhang 2 Ziff. II 136 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^25-2]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 26
 
 **Einschränkung der Weitergabe von Daten**[^26-1]
 
-<sup>1</sup> Bei Weitergabe von Daten aus dem Informationssystem sind Verwendungsverbote zu beachten. Beabsichtigt die Meldestelle, Daten über sich in der Schweiz befindende Asylsuchende, anerkannte Flüchtlinge und Schutzbedürftige an deren Heimat- oder Herkunftsstaat weiterzugeben, so gelten die Voraussetzungen nach Artikel 2 der Asylverordnung 3 vom 11. August 1999[^26-2]. Die Meldestelle darf Daten von vorläufig aufgenommenen Personen nur nach Massgabe von Artikel 6 des Bundesgesetzes vom 19. Juni 1992[^26-3] über den Datenschutz und erst nach Rücksprache mit dem Staatssekretariat für Migration an deren Heimat- oder Herkunftsstaat weitergeben.
+<sup>1</sup> Bei Weitergabe von Daten aus dem Informationssystem sind Verwendungsverbote zu beachten. Beabsichtigt die Meldestelle, Daten über sich in der Schweiz befindende Asylsuchende, anerkannte Flüchtlinge und Schutzbedürftige an deren Heimat- oder Herkunftsstaat weiterzugeben, so gelten die Voraussetzungen nach Artikel 2 der Asylverordnung 3 vom 11. August 1999[^26-2]. Die Meldestelle darf Daten von vorläufig aufgenommenen Personen nur nach Massgabe der Artikel 16 und 17 des Datenschutzgesetzes vom 25. September 2020[^26-3] und erst nach Rücksprache mit dem Staatssekretariat für Migration an deren Heimat- oder Herkunftsstaat weitergeben.[^26-4]
 
 <sup>2</sup> Die Meldestelle verweigert die Weitergabe von Daten aus dem Informationssystem, wenn überwiegende öffentliche oder private Interessen entgegenstehen.
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^26-2]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
 [^26-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^26-4]: Fassung des dritten Satzes gemäss Anhang 2 Ziff. II 136 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

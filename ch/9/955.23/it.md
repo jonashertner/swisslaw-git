@@ -4,11 +4,11 @@ title: "Ordinanza del 25 agosto 2004 sull'Ufficio di comunicazione in materia di
 short: OURD
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230101/it"
 
 (OURD)
 
-del 25 agosto 2004 (Stato 1° gennaio 2023)
+del 25 agosto 2004 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -322,7 +322,7 @@ Se constata che un intermediario finanziario non ha osservato i suoi obblighi di
 
 Alle condizioni di cui al capoverso 2, l’Ufficio di comunicazione può scambiare con le seguenti autorità straniere dati personali e informazioni relative a sospetti di riciclaggio di denaro, di suoi reati preliminari, di criminalità organizzata o di finanziamento del terrorismo oppure trasmetterli spontaneamente alle seguenti autorità straniere per aiutarle nell’adempimento dei loro compiti legali:
 
-- a. autorità che assolvono compiti di perseguimento penale e di polizia, a condizione che siano adempite le disposizioni di cui all’articolo 13 capoverso 2 LUC;
+- a.[^13-2] autorità che assolvono compiti di perseguimento penale e di polizia conformemente all’articolo 13 capoverso 2 LUC;
 - b. autorità che assumono compiti analoghi a quelli dell’Ufficio di comunicazione, a condizione che siano adempite le disposizioni di cui all’articolo 30 LRD.
 
 <sup>2</sup>
@@ -336,6 +336,7 @@ I dati personali e le informazioni ai sensi del capoverso 1 possono essere scamb
 <sup>3</sup> Gli articoli 6, 7 e 12 si applicano per analogia al trattamento delle domande di autorità straniere.
 
 [^13-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^13-2]: Nuovo testo giusta l’all. 2 n. II 136 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 4: Sistema d’informazione
 
@@ -458,15 +459,16 @@ Il sistema d’informazione serve per:
 
 La sicurezza dei dati è retta:
 
-- a. dall’ordinanza del 14 giugno 1993[^19-1] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^19-2] sui ciber-rischi.[^19-3]
+- a.[^19-1] dall’ordinanza del 31 agosto 2022[^19-2] sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^19-3] sui ciber-rischi.[^19-4]
 
-<sup>2</sup> L’Ufficio federale di polizia (fedpol) stabilisce in un regolamento di trattamento dei dati le misure tecniche e organizzative intese a impedire il trattamento non autorizzato dei dati e a garantire l’aggiornamento automatico del trattamento dei dati.[^19-4]
+<sup>2</sup> L’Ufficio federale di polizia (fedpol) stabilisce in un regolamento di trattamento dei dati le misure tecniche e organizzative intese a impedire il trattamento non autorizzato dei dati e a garantire l’aggiornamento automatico del trattamento dei dati.[^19-5]
 
-[^19-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-3]: Nuovo testo giusta l’all. n. 38 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^19-4]: Nuovo testo giusta il n. I 20 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^19-1]: Nuovo testo giusta l’all. 2 n. II 136 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-4]: Nuovo testo giusta l’all. n. 38 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-5]: Nuovo testo giusta il n. I 20 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
 
@@ -539,23 +541,25 @@ I dati personali sono trasmessi, su richiesta, alle autorità federali e cantona
 
 **Comunicazione di dati**
 
-<sup>1</sup> All’atto di ogni comunicazione di dati, i destinatari devono essere informati sull’affidabilità e sull’attualità dei dati del sistema d’informazione. Essi possono utilizzare i dati soltanto allo scopo per il quale sono stati loro trasmessi. Devono essere messi a conoscenza delle restrizioni d’uso e del fatto che l’Ufficio di comunicazione si riserva il diritto di informarsi sull’impiego di tali dati.
+<sup>1</sup> All’atto di ogni comunicazione di dati, i destinatari devono essere informati sull’affidabilità, sull’attualità e sulla completezza dei dati del sistema d’informazione.[^25-1] Essi possono utilizzare i dati soltanto allo scopo per il quale sono stati loro trasmessi. Devono essere messi a conoscenza delle restrizioni d’uso e del fatto che l’Ufficio di comunicazione si riserva il diritto di informarsi sull’impiego di tali dati.
 
-<sup>2</sup> Se sono trasmesse ad autorità nazionali o straniere, a organismi di vigilanza o a organismi di autodisciplina, le informazioni possono essere utilizzate soltanto in conformità alle restrizioni imposte dall’Ufficio di comunicazione e dal detentore dei dati. L’Ufficio di comunicazione indica ogni volta che i dati trasmessi hanno carattere meramente informativo e che la loro trasmissione ad altre autorità è subordinata al suo consenso scritto.[^25-1]
+<sup>2</sup> Se sono trasmesse ad autorità nazionali o straniere, a organismi di vigilanza o a organismi di autodisciplina, le informazioni possono essere utilizzate soltanto in conformità alle restrizioni imposte dall’Ufficio di comunicazione e dal detentore dei dati. L’Ufficio di comunicazione indica ogni volta che i dati trasmessi hanno carattere meramente informativo e che la loro trasmissione ad altre autorità è subordinata al suo consenso scritto.[^25-2]
 
-[^25-1]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^25-1]: Nuovo testo giusta l’all. 2 n. II 136 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^25-2]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 26
 
 **Restrizioni concernenti la comunicazione di dati**[^26-1]
 
-<sup>1</sup> All’atto della comunicazione di dati provenienti dal sistema d’informazione vanno osservati i divieti di utilizzazione. Se l’Ufficio di comunicazione intende trasmettere al Paese d’origine o di provenienza dati di richiedenti l’asilo, rifugiati riconosciuti e persone bisognose di protezione che si trovano in Svizzera, si applicano le condizioni di cui all’articolo 2 dell’ordinanza 3 dell’11 agosto 1999[^26-2] sull’asilo. L’Ufficio di comunicazione può trasmettere al Paese d’origine o di provenienza dati concernenti persone ammesse provvisoriamente soltanto alle condizioni previste dall’articolo 6 della legge federale del 19 giugno 1992[^26-3] sulla protezione dei dati e previa consultazione della Segreteria di Stato della migrazione.
+<sup>1</sup> All’atto della comunicazione di dati provenienti dal sistema d’informazione vanno osservati i divieti di utilizzazione. Se l’Ufficio di comunicazione intende trasmettere al Paese d’origine o di provenienza dati di richiedenti l’asilo, rifugiati riconosciuti e persone bisognose di protezione che si trovano in Svizzera, si applicano le condizioni di cui all’articolo 2 dell’ordinanza 3 dell’11 agosto 1999[^26-2] sull’asilo. L’Ufficio di comunicazione può trasmettere al Paese d’origine o di provenienza dati concernenti persone ammesse provvisoriamente soltanto alle condizioni previste dagli articoli 16 e 17 della legge federale del 25 settembre 2020[^26-3] sulla protezione dei dati e previa consultazione della Segreteria di Stato della migrazione.[^26-4]
 
 <sup>2</sup> L’Ufficio di comunicazione nega la comunicazione di dati del sistema d’informazione qualora interessi preponderanti pubblici o privati vi si oppongano.
 
 [^26-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^26-2]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
 [^26-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^26-4]: Nuovo testo del per. giusta l’all. 2 n. II 136 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
