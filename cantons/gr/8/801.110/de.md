@@ -4,13 +4,13 @@ number: "801.110"
 title: Raumplanungsverordnung für den Kanton Graubünden
 short: KRVO
 language: de
-version: 2023-07-01
-valid_until: 2023-08-31
-version_adopted: 2023-06-27
+version: 2023-09-01
+valid_until: 2025-09-30
+version_adopted: 2023-08-22
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3329/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3335/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3329/pdf_file"
 
 (KRVO)
 
-Vom 24.05.2005 (Stand 01.07.2023)
+Vom 24.05.2005 (Stand 01.09.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 105 des Raumplanungsgesetzes[^ingress-2] für den Kanton Graubünden
 
@@ -852,6 +852,45 @@ von der Regierung erlassen am 24. Mai 2005
 <sup>3</sup> Bauvorhaben, die lediglich einer kommunalen Baubewilligung bedürfen, gelten als bewilligt, sofern innert Monatsfrist seit Einreichung des Gesuchs kein anders lautender Entscheid ergeht.
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen über das ordentliche Baubewilligungsverfahren.
+
+### 6.2.3. Bewilligungsverfahren für Photovoltaik-Grossanlagen
+
+#### Art. 51a
+
+**Verfahren**
+
+<sup>1</sup> Für die Bewilligung von Photovoltaik-Grossanlagen gemäss Artikel 71a des Energiegesetzes[^51a-1] und Artikel 9c ff. der Energieverordnung[^51a-2] gelten die Bestimmungen über das ordentliche BAB-Verfahren unter Vorbehalt der abweichenden Bestimmungen dieses Abschnitts.
+
+<sup>2</sup> Gesuche für solche Photovoltaik-Grossanlagen sind in sechsfacher Ausfertigung bei der zuständigen Gemeinde einzureichen. Die Fachstelle bestimmt, welche Unterlagen und Nachweise dem Baugesuch beizulegen sind. Die kommunale Baubehörde leitet das Gesuch ebenfalls in sechs Exemplaren an die Fachstelle weiter.
+
+<sup>3</sup> Auf ein Baugespann kann ganz oder teilweise verzichtet werden, wenn mit dem Gesuch eine Visualisierung der Anlage eingereicht wird. Die Unterlagen der Visualisierung bilden Bestandteil der öffentlichen Auflage. Im Publikationstext ist anzugeben, für welche Anlageteile nur eine Visualisierung erfolgt.
+
+[^51a-1]: SR [730.0](https://db.clex.ch/link/Bund/730.0/de)
+[^51a-2]: SR [730.01](https://db.clex.ch/link/Bund/730.01/de)
+
+#### Art. 51b
+
+**Zuständigkeit**
+
+<sup>1</sup> Über Gesuche und allfällige Einsprachen betreffend Photovoltaik-Grossanlagen entscheidet die Regierung mit einem Gesamtentscheid, welcher auch allfällige innerhalb der Bauzone gelegene Anlageteile umfasst. Sie eröffnet den Gesamtentscheid den Parteien.
+
+<sup>2</sup> Erstreckt sich eine Photovoltaik-Grossanlage über das Gebiet mehrerer Gemeinden, so ist die Baubehörde derjenigen Gemeinde für die ihr im BAB-Verfahren obliegenden Aufgaben zuständig, auf deren Gebiet der grösste Teil der Anlage zu liegen kommt. Bei unklaren Verhältnissen bezeichnen die betroffenen Gemeinden einvernehmlich eine zuständige Baubehörde. Bei Uneinigkeit wird sie durch die Fachstelle bestimmt.
+
+<sup>3</sup> Bei Anlagen im Sinn von Absatz 2 erfolgt der begründete Antrag bei der Weiterleitung des Gesuchs an die Fachstelle im Einvernehmen mit den anderen betroffenen Gemeinden.
+
+#### Art. 51c
+
+**Zustimmung der Gemeinden und der Grundeigentümerschaft**
+
+<sup>1</sup> Die Zustimmung der Grundeigentümerinnen und -eigentümer, bestehend aus einem öffentlich beurkundeten Vertrag, sowie der Beschluss über die Zustimmung der Standortgemeinden sind mit dem Baugesuch einzureichen.
+
+#### Art. 51d
+
+**Sicherstellung**
+
+<sup>1</sup> Die kommunale Baubehörde kann in ihrem begründeten Antrag bei der Weiterleitung des Gesuchs an die Fachstelle verlangen, dass in die Bewilligung eine Auflage zur Sicherstellung der Kosten für den Rückbau und die Wiederherstellung aufgenommen wird.
+
+<sup>2</sup> Stellt die kommunale Baubehörde einen solchen Antrag, nimmt die Regierung eine entsprechende Auflage in den Entscheid auf.
 
 ### 6.3. Koordination
 

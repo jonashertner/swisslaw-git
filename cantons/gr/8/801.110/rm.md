@@ -4,13 +4,13 @@ number: "801.110"
 title: Ordinaziun davart la planisaziun dal territori per il chantun Grischun
 short: OPTGR
 language: rm
-version: 2023-07-01
-valid_until: 2023-08-31
-version_adopted: 2023-06-27
+version: 2023-09-01
+valid_until: 2025-09-30
+version_adopted: 2023-08-22
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3329/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3335/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3329/pdf_file"
 
 (OPTGR)
 
-dals 24-05-2005 (versiun dals 01-07-2023)
+dals 24-05-2005 (versiun dals 01-09-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 105 da la lescha davart la planisaziun dal territori[^ingress-2] per il chantun Grischun
 
@@ -852,6 +852,45 @@ relaschada da la regenza ils 24 da matg 2005
 <sup>3</sup> Projects da construcziun che basegnan mo ina permissiun da construcziun communala valan sco approvads, sch'i na vegn betg relaschada ina decisiun divergenta entaifer in mais dapi che la dumonda è vegnida inoltrada.
 
 <sup>4</sup> Dal rest valan las disposiziuns davart la procedura ordinaria per la permissiun da construcziun.
+
+### 6.2.3. Procedura da permissiun per implants fotovoltaics gronds
+
+#### Art. 51a
+
+**Procedura**
+
+<sup>1</sup> Per la permissiun d'implants fotovoltaics gronds tenor l'artitgel 71a da la Lescha d'energia[^51a-1] e tenor ils artitgels 9c ss. da l'Ordinaziun d'energia[^51a-2] valan las disposiziuns davart la procedura EOZ ordinaria, cun resalva da las disposiziuns divergentas da quest chapitel.
+
+<sup>2</sup> Dumondas per tals implants fotovoltaics gronds ston vegnir inoltradas en sis exemplars a la vischnanca cumpetenta. Il post spezialisà determinescha, tge documents e cumprovas che ston vegnir agiuntads a la dumonda da construcziun. L'autoritad communala da construcziun surdat la dumonda, medemamain en sis exemplars, al post spezialisà.
+
+<sup>3</sup> Sche la dumonda vegn inoltrada cun ina visualisaziun da l'implant, poi vegnir desistì per part u dal tuttafatg da profils. Ils documents da la visualisaziun èn ina part integrala da l'exposiziun publica. Il text da publicaziun sto inditgar las parts da l'implant che vegnan preschentadas mo en la visualisaziun.
+
+[^51a-1]: CS [730.0](https://db.clex.ch/link/Bund/730.0/rm)
+[^51a-2]: CS [730.01](https://db.clex.ch/link/Bund/730.01/rm)
+
+#### Art. 51b
+
+**Cumpetenza**
+
+<sup>1</sup> Davart dumondas ed eventualas protestas cunter implants fotovoltaics gronds decida la Regenza en in conclus general che cumpiglia er eventualas parts da l'implant ch'èn situadas entaifer la zona da construcziun. Ella communitgescha il conclus general a las partidas.
+
+<sup>2</sup> Sch'in implant fotovoltaic grond sa chatta sin il territori communal da pliras vischnancas, è cumpetenta per las incumbensas communalas tenor la procedura EOZ l'autoritad da construcziun da quella vischnanca, nua che la gronda part da l'implant è situada. Sche la situaziun n'è betg clera, designeschan las vischnancas pertutgadas en moda consensuala in'autoritad da construcziun cumpetenta. Sch'ellas na vegnan betg perina, vegn tala nominada tras il post spezialisà.
+
+<sup>3</sup> En cas d'implants en il senn da l'alinea 2 vegn la proposta motivada preschentada en enclegientscha cun las autras vischnancas pertutgadas, cura che la dumonda vegn surdada al post spezialisà.
+
+#### Art. 51c
+
+**Consentiment da las vischnancas sco er da las proprietarias e dals proprietaris dals bains immobigliars**
+
+<sup>1</sup> Ensemen cun la dumonda da construcziun ston vegnir inoltrads il consentiment da las proprietarias e dals proprietaris dals bains immobigliars, che consista d'in contract documentà publicamain, sco er il conclus davart il consentiment da las vischnancas da staziunament.
+
+#### Art. 51d
+
+**Garanzia**
+
+<sup>1</sup> En il rom da la surdada da la dumonda al post spezialisà po l'autoritad communala da construcziun pretender en sia proposta motivada, che la permissiun cuntegnia ina cundiziun per garantir ils custs da renatiralisaziun e da restabiliment.
+
+<sup>2</sup> Sche l'autoritad communala da construcziun fa ina tala pretensiun, integrescha la Regenza ina cundiziun correspundenta en il conclus.
 
 ### 6.3. Coordinaziun
 

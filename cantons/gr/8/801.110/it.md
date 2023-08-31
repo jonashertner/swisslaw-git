@@ -4,13 +4,13 @@ number: "801.110"
 title: Ordinanza sulla pianificazione territoriale del Cantone dei Grigioni
 short: OPTC
 language: it
-version: 2023-07-01
-valid_until: 2023-08-31
-version_adopted: 2023-06-27
+version: 2023-09-01
+valid_until: 2025-09-30
+version_adopted: 2023-08-22
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3329/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3335/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3329/pdf_file"
 
 (OPTC)
 
-del 24.05.2005 (stato 01.07.2023)
+del 24.05.2005 (stato 01.09.2023)
 
 emanata dal Governo il 24 maggio 2005
 
@@ -852,6 +852,45 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 105 del
 <sup>3</sup> Progetti di costruzione che necessitano soltanto di una licenza edilizia comunale sono considerati autorizzati, se entro un mese dall'inoltro della domanda non viene presa una decisione divergente.
 
 <sup>4</sup> Per il resto fanno stato le disposizioni sulla procedura per il rilascio della licenza edilizia.
+
+### 6.2.3. Procedura di autorizzazione per grandi impianti fotovoltaici
+
+#### Art. 51a
+
+**Procedura**
+
+<sup>1</sup> Per l'autorizzazione di grandi impianti fotovoltaici conformemente all'articolo 71a della legge sull'energia[^51a-1] e all'articolo 9c segg. dell'ordinanza sull'energia[^51a-2] fanno stato le disposizioni relative alla procedura EFZ ordinaria, fatte salve le disposizioni divergenti della presente sezione.
+
+<sup>2</sup> Le domande per tali grandi impianti fotovoltaici devono essere presentate in sei esemplari al comune competente. Il Servizio stabilisce quali documenti e prove devono essere allegati alla domanda di costruzione. L'autorità edilizia comunale trasmette la domanda, a sua volta in sei esemplari, al Servizio.
+
+<sup>3</sup> Si può rinunciare del tutto o in parte alle modine se unitamente alla domanda viene presentata una visualizzazione dell'impianto. I documenti relativi alla visualizzazione sono parte integrante dell'esposizione pubblica. Nel testo della pubblicazione occorre indicare per quali parti dell'impianto viene presentata solo una visualizzazione.
+
+[^51a-1]: RS [730.0](https://db.clex.ch/link/Bund/730.0/it)
+[^51a-2]: RS [730.01](https://db.clex.ch/link/Bund/730.01/it)
+
+#### Art. 51b
+
+**Competenza**
+
+<sup>1</sup> In relazione a domande e a eventuali opposizioni concernenti grandi impianti fotovoltaici decide il Governo con una decisione unica, la quale comprende anche eventuali parti di impianto situate all'interno della zona edificabile. Esso notifica la decisione unica alle parti.
+
+<sup>2</sup> Se un grande impianto fotovoltaico si estende sul territorio di più comuni, per i compiti che le spettano nella procedura EFZ è competente l'autorità edilizia del comune sul cui territorio viene a trovarsi la parte più grande dell'impianto. In situazioni dubbie, i comuni interessati designano di comune accordo un'autorità edilizia competente. In caso di disaccordo, essa viene designata dal Servizio.
+
+<sup>3</sup> In caso di impianti ai sensi del capoverso 2 la richiesta motivata viene presentata all'atto della trasmissione della domanda al Servizio, d'intesa con gli altri comuni interessati.
+
+#### Art. 51c
+
+**Consenso dei comuni e dei proprietari fondiari**
+
+<sup>1</sup> Il consenso dei proprietari fondiari, consistente in un contratto documentato pubblicamente, nonché la decisione concernente il consenso dei comuni di ubicazione devono essere presentati unitamente alla domanda di costruzione.
+
+#### Art. 51d
+
+**Garanzia**
+
+<sup>1</sup> Nella propria richiesta motivata presentata all'atto della trasmissione della domanda al Servizio l'autorità edilizia comunale è autorizzata a richiedere che nell'autorizzazione venga integrata una condizione relativa alla garanzia dei costi per lo smantellamento e il ripristino.
+
+<sup>2</sup> Se l'autorità edilizia comunale avanza una tale richiesta, il Governo integra nella decisione una condizione corrispondente.
 
 ### 6.3. Coordinamento
 
