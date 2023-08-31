@@ -4,13 +4,13 @@ number: "431.0.1"
 title: Gesetz über die Universität
 short: UniG
 language: de
-version: 2016-01-01
-valid_until: 2023-08-31
-version_adopted: 2015-09-10
+version: 2023-09-01
+valid_until: 2025-07-31
+version_adopted: 2023-06-29
 adopted: 1997-11-19
 in_force: 1998-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7193/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7938/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Universität – G
 
 (UniG)
 
-vom 19.11.1997 (Fassung in Kraft getreten am 01.01.2016)
+vom 19.11.1997 (Fassung in Kraft getreten am 01.09.2023)
 
 Der Grosse Rat des Kantons Freiburg[^ingress-1]
 
@@ -54,7 +54,7 @@ beschliesst:
 - a) Sie vermittelt einen Unterricht, der durch den Erwerb von vertieften Kenntnissen auf einem spezifischen Gebiet, durch eine breitere Allgemeinbildung und die Entwicklung eines methodischen, kritischen und ethischen Denkens auf Berufe und Tätigkeiten vorbereitet, die eine höhere Ausbildung verlangen.
 - b) Sie trägt mit Hilfe der Forschung und einer angemessenen Verbreitung der Resultate dazu bei, die wissenschaftlichen Erkenntnisse zu mehren.
 - c) Sie sorgt für wissenschaftlichen Nachwuchs.
-- d) Sie trägt zur Weiterbildung auf Universitätsstufe bei.
+- d) Sie trägt zur Weiterbildung bei.
 
 <sup>2</sup> Die Universität fördert die Zusammenarbeit und die Interdisziplinarität in Forschung und Lehre sowie das Nachdenken über die Bedingungen und Folgen der wissenschaftlichen Forschung.
 
@@ -122,7 +122,7 @@ beschliesst:
 
 <sup>4</sup> Im Rahmen dieses Globalbudgets arbeitet die Universität einen Budgetvorschlag aus.
 
-<sup>5</sup> Die Universität verfügt im Rahmen der Gesetzgebung über das Staatspersonal und der Zielvereinbarung, in der ihre Verpflichtungen festgelegt sind, frei über das Globalbudget und ihr Budget. Sie kann vom Prinzip der Jährlichkeit und der Spezifikation des Budgets abweichen, soweit dies in dem vom Staatsrat genehmigten Finanzreglement vorgesehen ist.
+<sup>5</sup> Die Universität verfügt im Rahmen der Gesetzgebung über das Staatspersonal und der Zielvereinbarung, in der ihre Verpflichtungen festgelegt sind, frei über das Globalbudget und das Budget. Sie kann vom Prinzip der Jährlichkeit und der Spezifikation des Budgets abweichen, soweit dies in dem vom Staatsrat genehmigten Finanzreglement vorgesehen ist.
 
 <sup>6</sup> Die budgetären Kompetenzen des Grossen Rates bleiben vorbehalten.
 
@@ -160,11 +160,25 @@ beschliesst:
 
 **Verwertung der Kenntnisse – Geistiges Eigentum**
 
-<sup>1</sup> Erfindungen von Universitätsmitarbeitern gehören der Universität. Der Erfinder erhält eine angemessene Entschädigung, wenn die Nutzung der Erfindung gewinnbringend ist.
+<sup>1</sup> Erfindungen von Universitätsmitarbeiterinnen und -mitarbeitern gehören der Universität. Die Erfinderin oder der Erfinder erhält eine angemessene Entschädigung, wenn die Nutzung der Erfindung gewinnbringend ist.
 
-<sup>2</sup> Die Anstellungsbedingungen halten fest, dass alle Rechte der Mitarbeiter an allfälligen Erfindungen an die Universität abgetreten werden.
+<sup>2</sup> Die Anstellungsbedingungen halten fest, dass alle Rechte der Mitarbeiterinnen und Mitarbeiter an allfälligen Erfindungen an die Universität abgetreten werden.
 
-<sup>3</sup> Wenn die Universität innerhalb von 6 Monaten, nachdem der Erfinder das Gesuch eingereicht hat, darauf verzichtet, angemessene Massnahmen zur Verwertung der Forschungsergebnisse zu treffen, kann der Erfinder verlangen, dass ihm das geistige Eigentum oder die Verfügungsgewalt über die Rechte verliehen wird.
+<sup>3</sup> Wenn die Universität innerhalb von 6 Monaten, nachdem die Erfinderin oder der Erfinder das Gesuch eingereicht hat, darauf verzichtet, angemessene Massnahmen zur Verwertung der Forschungsergebnisse zu treffen, kann sie oder er verlangen, dass ihr oder ihm das geistige Eigentum oder die Verfügungsgewalt über die Rechte verliehen wird.
+
+#### Art. 10c bis
+
+**Urheberrechte**
+
+<sup>1</sup> Die Universität ist Inhaberin der Urheberrechte an allen Werken, namentlich an Forschungsergebnissen, Kurs- und Prüfungsunterlagen und an Software, die von ihren Mitarbeiterinnen und Mitarbeitern in Ausübung ihrer Tätigkeit im Dienste der Universität geschaffen werden.
+
+<sup>2</sup> Vorbehalten sind Veröffentlichungen, bei denen das Urheberrecht der Mitarbeiterin oder dem Mitarbeiter zusteht.
+
+<sup>3</sup> Die Universität kann ihre Urheberrechte abtreten, insbesondere an die Mitarbeiterin oder den Mitarbeiter, die oder der Kurs- oder Prüfungsunterlagen erstellt hat.
+
+<sup>4</sup> Besondere Bestimmungen, die von den Forschungsförderungsagenturen vorgesehen sind, bleiben vorbehalten.
+
+<sup>5</sup> Die Universität kann die Einzelheiten festlegen, insbesondere die Zahlung einer angemessenen Entschädigung an die Mitarbeiterin oder den Mitarbeiter.
 
 #### Art. 10d
 
@@ -202,7 +216,7 @@ beschliesst:
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer einen nach diesem Gesetz geschützten Titel trägt, ohne Inhaber des entsprechenden Grades zu sein, wird mit Busse bestraft.
+<sup>1</sup> Wer einen nach diesem Gesetz geschützten Titel trägt, ohne Inhaberin oder Inhaber des entsprechenden Grades zu sein, wird mit Busse bestraft.
 
 <sup>2</sup> Die Verfolgung und die Beurteilung dieser Übertretungen werden durch die Strafprozessordnung geregelt. Im Übrigen gelten die Bestimmungen der Spezialgesetzgebung.
 
@@ -215,8 +229,8 @@ beschliesst:
 <sup>1</sup> Gegen Studierende oder Hörerinnen und Hörer, die gegen die Universitätsordnung verstossen, ergreift das Rektorat unter Berücksichtigung der Schwere des Verstosses folgende Disziplinarmassnahmen:
 
 - a) Verwarnung;
-- b) Busse bis maximal 500 Franken;
-- c) Verweis;
+- b) Verweis;
+- c) Busse bis maximal 500 Franken;
 - d) Suspendierung;
 - e) Ausschluss.
 
@@ -244,21 +258,19 @@ beschliesst:
 
 <sup>1</sup> Die Universitätsgemeinschaft umfasst:
 
-- a) die Professoren[^12-1];
-- b) die Lehrbeauftragten und die Privatdozenten;
-- c) die wissenschaftlichen Mitarbeiter;
-- d) die Studierenden und die Hörer;
+- a) die Professorinnen und Professoren;
+- b) die Lehrbeauftragten und die Privatdozentinnen und Privatdozenten;
+- c) die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter;
+- d) die Studierenden und die Hörerinnen und Hörer;
 - e) das administrative und technische Personal.
-
-[^12-1]: Anmerkung des Autors: Die Personenbezeichnungen in diesem Gesetz gelten ohne Unterschied für Frauen und Männer.
 
 #### Art. 13
 
 **Universitäre Körperschaften – Allgemeines**
 
-<sup>1</sup> Die Professoren, die wissenschaftlichen Mitarbeiter, die Studierenden und die Hörer sowie das administrative und technische Personal gehören von Rechts wegen zu der ihnen entsprechenden Körperschaft.
+<sup>1</sup> Die Professorinnen und Professoren, die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter, die Studierenden und die Hörerinnen und Hörer sowie das administrative und technische Personal gehören von Rechts wegen zu der ihnen entsprechenden Körperschaft.
 
-<sup>2</sup> Die Statuten der Universität regeln die Vertretung der Lehrbeauftragten und der Privatdozenten an den Versammlungen der Professorenschaft.
+<sup>2</sup> Die Statuten der Universität regeln die Vertretung der Lehrbeauftragten und der Privatdozentinnen und Privatdozenten an den Versammlungen der Professorenschaft.
 
 <sup>3</sup> Sie regeln ebenfalls den Status der Personen, die gleichzeitig mehreren Körperschaften angehören.
 
@@ -274,7 +286,7 @@ beschliesst:
 
 **Nebenbeschäftigung**
 
-<sup>1</sup> Vollamtliche Mitarbeiter der Universität dürfen bezahlte oder zeitraubende Nebenbeschäftigungen nur mit einer schriftlichen Bewilligung des Rektorats und unter der Voraussetzung ausüben, dass dadurch ihre Tätigkeit an der Universität nicht beeinträchtigt wird.
+<sup>1</sup> Vollamtliche Mitarbeiterinnen und Mitarbeiter der Universität dürfen bezahlte oder zeitraubende Nebenbeschäftigungen nur mit einer schriftlichen Bewilligung des Rektorats und unter der Voraussetzung ausüben, dass dadurch ihre Tätigkeit an der Universität nicht beeinträchtigt wird.
 
 <sup>2</sup> Bei einer andauernden umfangreichen Nebenbeschäftigung kann das Rektorat eine Herabsetzung des Beschäftigungsgrades an der Universität verlangen.
 
@@ -302,7 +314,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder der Professorenschaft lehren und betreiben Forschung. Sie können verpflichtet werden, auch an einer anderen Hochschule zu unterrichten.
 
-<sup>2</sup> Sie leiten die Arbeiten von Studierenden sowie die Doktorarbeiten, nehmen die in den Reglementen vorgesehenen Prüfungen ab, kümmern sich um die Ausbildung ihrer wissenschaftlichen Mitarbeiter und beteiligen sich an den Weiterbildungsveranstaltungen und Dienstleistungen.
+<sup>2</sup> Sie leiten die Arbeiten von Studierenden und die Doktorarbeiten, nehmen die in den Reglementen vorgesehenen Prüfungen ab, kümmern sich um die Ausbildung ihrer wissenschaftlichen Mitarbeiterinnen und Mitarbeiter und beteiligen sich an den Weiterbildungsveranstaltungen und Dienstleistungen.
 
 <sup>3</sup> Sie übernehmen ebenfalls die administrativen Verantwortungen und die Aufgaben, die für den Betrieb der Universität notwendig sind.
 
@@ -312,9 +324,9 @@ beschliesst:
 
 <sup>1</sup> Das Dienstverhältnis von Mitgliedern der Professorenschaft der Universität endet von Rechts wegen am Ende des akademischen Jahres, in dem sie das in der Gesetzgebung über das Staatspersonal festgelegte Altersjahr erreicht haben.
 
-<sup>2</sup> Die Mitglieder der Professorenschaft und der ständigen wissenschaftlichen Mitarbeitenden können ihren Rücktritt nur auf das Ende eines Semesters mit einer auf dem Dienstweg an die Anstellungsbehörde gerichteten Kündigung einreichen. Die Kündigungsfrist beträgt sechs Monate. Besondere Abmachungen bleiben vorbehalten.
+<sup>2</sup> Die Mitglieder der Professorenschaft und der ständigen wissenschaftlichen Mitarbeiterinnen und Mitarbeiter können ihren Rücktritt nur auf das Ende eines Semesters mit einer auf dem Dienstweg an die Anstellungsbehörde gerichteten Kündigung einreichen. Die Kündigungsfrist beträgt sechs Monate. Besondere Abmachungen bleiben vorbehalten.
 
-### 2.2 Lehrbeauftragte und Privatdozenten
+### 2.2 Lehrbeauftragte und Privatdozentinnen und Privatdozenten
 
 #### Art. 20
 
@@ -324,46 +336,46 @@ beschliesst:
 
 <sup>2</sup> Sie erfüllen die Lehraufträge, die ihnen von den Fakultäten anvertraut werden. Sie können mit der Abnahme von Prüfungen betraut werden.
 
-<sup>3</sup> Auf Antrag der Fakultät kann das Rektorat Lehrbeauftragten, die über die wissenschaftlichen und didaktischen Qualitäten eines Universitätsprofessors verfügen, den Titel eines Titularprofessors verleihen.
+<sup>3</sup> Auf Antrag der Fakultät kann das Rektorat Lehrbeauftragten, die über die wissenschaftlichen und didaktischen Qualitäten einer Universitätsprofessorin oder eines Universitätsprofessors verfügen, den Titel einer Titularprofessorin oder eines Titularprofessors verleihen.
 
 <sup>4</sup> Die Statuten der Universität legen die Kategorien der Lehrbeauftragten fest und bestimmen ihr Dienstverhältnis im Rahmen der Gesetzgebung über das Staatspersonal.
 
 #### Art. 21
 
-**Privatdozenten**
+**Privatdozentinnen und Privatdozenten**
 
 <sup>1</sup> Die Statuten der Universität regeln die Rechte und Pflichten der Personen, denen eine Fakultät aufgrund eines Habilitationsverfahrens das Recht zu lesen verliehen hat.
 
-### 2.3 Wissenschaftliche Mitarbeiter
+### 2.3 Wissenschaftliche Mitarbeiterinnen und Mitarbeiter
 
 #### Art. 22
 
 **Aufgaben und Status**
 
-<sup>1</sup> Die wissenschaftlichen Mitarbeiter unterstützen die Professorenschaft bei der Betreuung der Studierenden und in der Lehre; sie betreiben Forschung.
+<sup>1</sup> Die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter unterstützen die Professorenschaft bei der Betreuung der Studierenden und in der Lehre; sie betreiben Forschung.
 
-<sup>2</sup> Die Statuten der Universität legen die Kategorien der wissenschaftlichen Mitarbeiter fest und bestimmen ihr Dienstverhältnis im Rahmen der Gesetzgebung über das Staatspersonal.
+<sup>2</sup> Die Statuten der Universität legen die Kategorien der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter fest und bestimmen ihr Dienstverhältnis im Rahmen der Gesetzgebung über das Staatspersonal.
 
 #### Art. 23
 
 **Anstellung**
 
-<sup>1</sup> Die wissenschaftlichen Mitarbeiter werden auf Antrag ihres zukünftigen Vorgesetzten und nach Stellungnahme des Dekans vom Rektorat angestellt; sind sie für eine regelmässige Lehrtätigkeit vorgesehen, so muss der Antrag zudem von der Fakultät genehmigt werden.
+<sup>1</sup> Die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter werden auf Antrag ihrer oder ihres zukünftigen Vorgesetzten und nach Stellungnahme der Dekanin oder des Dekans vom Rektorat angestellt; sind sie für eine regelmässige Lehrtätigkeit vorgesehen, so muss der Antrag zudem von der Fakultät genehmigt werden.
 
-### 2.4 Studierende und Hörer
+### 2.4 Studierende und Hörerinnen und Hörer
 
 #### Art. 24
 
 **Zulassung**
 
-<sup>1</sup> Zur Teilnahme am Unterricht der Universität sind die Studierenden und die Hörer zugelassen, die die im Reglement festgelegten Voraussetzungen erfüllen.
+<sup>1</sup> Zur Teilnahme am Unterricht der Universität sind die Studierenden und die Hörerinnen und Hörer zugelassen, welche die im Reglement festgelegten Voraussetzungen erfüllen.
 
-<sup>2</sup> Die Zulassung von Studierenden und Hörern kann ausnahmsweise für bestimmte Lehrgebiete eingeschränkt werden, soweit:
+<sup>2</sup> Die Zulassung von Studierenden und von Hörerinnen und Hörern kann ausnahmsweise für bestimmte Lehrgebiete eingeschränkt werden, soweit:
 
 - a) dies die Aufnahmefähigkeit der Universität erfordert, oder
 - b) ab einer bestimmten Anzahl von Studierenden keine Gewähr mehr besteht, dass ein Studium, das an dieser Universität nicht abgeschlossen werden kann, an einer anderen schweizerischen Universität fortgesetzt werden kann.
 
-<sup>3</sup> Der Staatsrat kann eine solche Massnahme von Jahr zu Jahr treffen und das Vorgehen für die Auswahl unter den Studienanwärtern unter Berücksichtigung der interuniversitären Koordination festlegen; in jedem Fall hört er die Universität an. Bei der Auswahl wird die Eignung der Studienanwärter zum Studium in den betreffenden Fächern berücksichtigt. Die Studienanwärter können zur Entrichtung eines angemessenen Beitrags an die Kosten der Organisation und Durchführung der Selektionsmassnahme verpflichtet werden.
+<sup>3</sup> Der Staatsrat kann eine solche Massnahme von Jahr zu Jahr treffen und das Vorgehen für die Auswahl unter den Studienanwärterinnen und -anwärtern unter Berücksichtigung der interuniversitären Koordination festlegen; in jedem Fall hört er die Universität an. Bei der Auswahl wird die Eignung der Studienanwärterinnen und -anwärter zum Studium in den betreffenden Fächern berücksichtigt. Die Studienanwärterinnen und -anwärter können zur Entrichtung eines angemessenen Beitrags an die Kosten der Organisation und der Durchführung der Selektionsmassnahme verpflichtet werden.
 
 <sup>4</sup> Bei Zulassungsbeschränkungen können für ausländische Studienanwärterinnen und -anwärter besondere Zulassungsbedingungen festgelegt werden, insbesondere was Wohnsitz, Ausländerstatus und Vorbildungsausweis betrifft. Der Staatsrat regelt die Einzelheiten in einer Verordnung.
 
@@ -403,7 +415,7 @@ beschliesst:
 
 **Mitbestimmung**
 
-<sup>1</sup> In den ständigen Kollegialorganen und Kommissionen, die in Anwendung dieses Gesetzes geschaffen werden, haben Vertreter der Körperschaften der wissenschaftlichen Mitarbeiter und der Studierenden das Recht, an den Sitzungen mit beschliessender oder beratender Stimme teilzunehmen.
+<sup>1</sup> In den ständigen Kollegialorganen und Kommissionen, die in Anwendung dieses Gesetzes geschaffen werden, haben Vertreterinnen und Vertreter der Körperschaften der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter und der Studierenden das Recht, an den Sitzungen mit beschliessender oder beratender Stimme teilzunehmen.
 
 <sup>2</sup> Dies gilt auch für Angehörige des administrativen und technischen Personals in Kommissionen, die sie betreffende Fragen behandeln.
 
@@ -418,7 +430,7 @@ beschliesst:
 - a) die Statuten der Universität;
 - b) die Reglemente über die Zulassung zur Universität und die Reglemente über das Personal und die Finanzen;
 - c) die Schaffung oder Aufhebung von Fakultäten; und
-- d) die Wahl des Rektors.
+- d) die Wahl der Rektorin oder des Rektors.
 
 <sup>2</sup> Der Genehmigung der Direktion bedürfen:
 
@@ -443,25 +455,23 @@ beschliesst:
 
 <sup>2</sup> Die vom Staat bezeichneten Mitglieder werden von ausserhalb der Universität und für eine Amtsdauer von fünf Jahren gewählt. Der Grosse Rat wählt drei Mitglieder aus seinen Reihen; die drei übrigen werden vom Staatsrat gewählt. Mindestens eines von ihnen stammt von ausserhalb des Kantons.
 
-<sup>3</sup> Die Universitätsgemeinschaft wird durch drei Professoren, einen wissenschaftlichen Mitarbeiter, einen Studierenden und ein Mitglied des administrativen und technischen Personals vertreten; sie werden nach den in den Statuten der Universität festgelegten Modalitäten gewählt.
+<sup>3</sup> Die Universitätsgemeinschaft wird durch drei Professorinnen oder Professoren, eine wissenschaftliche Mitarbeiterin oder einen wissenschaftlichen Mitarbeiter, eine Studierende oder einen Studierenden und ein Mitglied des administrativen und technischen Personals vertreten; sie werden nach den in den Statuten der Universität festgelegten Modalitäten gewählt.
 
-<sup>4</sup> Der Direktionsvorsteher kann an den Sitzungen teilnehmen; er kann sich vom Vorsteher des für Universitätsfragen zuständigen Amts[^31-1] begleiten oder vertreten lassen.
+<sup>4</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher kann an den Sitzungen teilnehmen; sie oder er kann sich von der Vorsteherin oder vom Vorsteher des für Universitätsfragen zuständigen Amts begleiten oder vertreten lassen.
 
-<sup>5</sup> Der Rektor nimmt an den Sitzungen teil; die Vizerektoren können ebenfalls daran teilnehmen.
+<sup>5</sup> Die Rektorin oder der Rektor nimmt an den Sitzungen teil; die Vizerektorinnen und Vizerektoren können ebenfalls daran teilnehmen.
 
 <sup>6</sup> Die Mitglieder des Senats können nur zweimal wiedergewählt werden.
-
-[^31-1]: Heute: Amt für Universitätsfragen.
 
 #### Art. 32
 
 **Senat – Organisation**
 
-<sup>1</sup> Der Senat konstituiert sich selber. Er bestimmt einen Präsidenten und einen Vizepräsidenten; der Präsident wird unter den vom Staat bezeichneten Mitgliedern und der Vizepräsident unter den Vertretern der Universitätsgemeinschaft gewählt.
+<sup>1</sup> Der Senat konstituiert sich selber. Er bestimmt eine Präsidentin oder einen Präsidenten und eine Vizepräsidentin oder einen Vizepräsidenten; die Präsidentin oder der Präsident wird unter den vom Staat bezeichneten Mitgliedern und die Vizepräsidentin oder der Vizepräsident unter den Vertreterinnen und Vertretern der Universitätsgemeinschaft gewählt.
 
-<sup>2</sup> Der Senat ist beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist. Die Beschlüsse werden mit der Stimmenmehrheit der anwesenden Mitglieder gefasst; bei Stimmengleichheit entscheidet der Präsident.
+<sup>2</sup> Der Senat ist beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist. Die Beschlüsse werden mit der Stimmenmehrheit der anwesenden Mitglieder gefasst; bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident.
 
-<sup>3</sup> Der Senat setzt zur Vorbereitung der Beratungen ein Büro ein. Der Rektor nimmt an den Sitzungen des Büros teil.
+<sup>3</sup> Der Senat setzt zur Vorbereitung der Beratungen ein Büro ein. Die Rektorin oder der Rektor nimmt an den Sitzungen des Büros teil.
 
 #### Art. 33
 
@@ -480,8 +490,8 @@ beschliesst:
   - 1\. Er erlässt die Statuten der Universität und die Reglemente und Vereinbarungen, die die gesamte Universität betreffen.
   - 2\. Er genehmigt die Statuten der Lehr- und Forschungseinheiten und der universitären Körperschaften.
 - d) Wahlkompetenzen und -aufgaben:
-  - 1\. Er wählt den Rektor auf Antrag der Plenarversammlung.
-  - 2\. Er wählt die Vizerektoren auf Antrag des Rektors.
+  - 1\. Er wählt die Rektorin oder den Rektor auf Antrag der Plenarversammlung.
+  - 2\. Er wählt die Vizerektorinnen und Vizerektoren auf Antrag der Rektorin oder des Rektors.
 
 #### Art. 34
 
@@ -489,9 +499,9 @@ beschliesst:
 
 <sup>1</sup> Dem Rektorat gehören der Rektor und zwei bis vier Vizerektoren an. Die Statuten der Universität bestimmen die Anzahl der Vizerektoren.
 
-<sup>2</sup> In der Regel wird der Rektor aus der Professorenschaft gewählt. Er wird für fünf Jahre gewählt und ist wiederwählbar. Er wird von seinen Lehr- und Forschungsaufgaben vollständig oder teilweise befreit.
+<sup>2</sup> In der Regel wird die Rektorin oder der Rektor aus der Professorenschaft gewählt. Sie oder er wird für fünf Jahre gewählt und ist wiederwählbar. Sie oder er wird von ihren oder seinen Lehr- und Forschungsaufgaben vollständig oder teilweise befreit.
 
-<sup>3</sup> In der Regel werden die Vizerektoren aus der Professorenschaft gewählt. Sie werden für fünf Jahre gewählt und können nur einmal wiedergewählt werden. Sie werden teilweise von ihren Lehr- und Forschungsaufgaben befreit.
+<sup>3</sup> In der Regel werden die Vizerektorinnen und Vizerektoren aus der Professorenschaft gewählt. Sie werden für fünf Jahre gewählt und können nur einmal wiedergewählt werden. Sie werden teilweise von ihren Lehr- und Forschungsaufgaben befreit.
 
 #### Art. 35
 
@@ -502,7 +512,7 @@ beschliesst:
 - a) Strategische und qualitätsbezogene Kompetenzen und Aufgaben:
   - 1\. Es ist verantwortlich für die Ausarbeitung der allgemeinen Politik der Universität und ihres Entwicklungskonzepts, insbesondere der Mehrjahresplanung.
   - 2\. Es fördert die Koordination mit den anderen Lehr- und Forschungseinrichtungen.
-  - 3\. bestätigt die Lehrprogramme und entscheidet in Übereinstimmung mit der allgemeinen Politik der Universität und ihrem Entwicklungskonzept über die Schaffung, Aufhebung und Besetzung sämtlicher Stellen der Professorenschaft und der ständigen wissenschaftlichen Mitarbeiter.
+  - 3\. Es bestätigt die Lehrprogramme und entscheidet in Übereinstimmung mit der allgemeinen Politik der Universität und ihrem Entwicklungskonzept über die Schaffung, Aufhebung und Besetzung sämtlicher Stellen der Professorenschaft und der ständigen wissenschaftlichen Mitarbeiterinnen und Mitarbeiter.
   - 4\. Es gewährleistet die Koordination von Lehre und Forschung innerhalb der Universität und erlässt Reglemente über interfakultäre Studien.
   - 5\. Es organisiert die Qualitätskontrolle in Lehre und Forschung und übermittelt dem Senat einen Bericht.
   - 6\. Es arbeitet eine Kommunikations- und Informationsstrategie aus.
@@ -531,21 +541,21 @@ beschliesst:
 
 #### Art. 36
 
-**Rektorat – Rektor**
+**Rektorat – Rektorin oder Rektor**
 
-<sup>1</sup> Der Rektor leitet und präsidiert das Rektorat; er sorgt für die Ausführung der Rektoratsbeschlüsse und erledigt die laufenden Geschäfte.
+<sup>1</sup> Die Rektorin oder der Rektor leitet und präsidiert das Rektorat, sorgt für die Ausführung der Rektoratsbeschlüsse und erledigt die laufenden Geschäfte.
 
-<sup>2</sup> Er sorgt für einen guten Betrieb der Universität und ergreift alle dazu erforderlichen Massnahmen und Initiativen.
+<sup>2</sup> Sie oder er sorgt für einen guten Betrieb der Universität und ergreift alle dazu erforderlichen Massnahmen und Initiativen.
 
-<sup>3</sup> Er vertritt die Universität im Rahmen des Gesetzes und der Statuten; er kann sich vertreten lassen.
+<sup>3</sup> Sie oder er vertritt die Universität im Rahmen des Gesetzes und der Statuten und kann sich vertreten lassen.
 
-<sup>4</sup> Er leitet die zentrale Verwaltung der Universität.
+<sup>4</sup> Sie oder er leitet die zentrale Verwaltung der Universität.
 
 #### Art. 37
 
-**Rektorat – Vizerektoren**
+**Rektorat – Vizerektorinnen und Vizerektoren**
 
-<sup>1</sup> Die Vizerektoren arbeiten mit dem Rektor zusammen für einen guten Betrieb der Universität.
+<sup>1</sup> Die Vizerektorinnen und Vizerektoren arbeiten mit der Rektorin oder dem Rektor zusammen für einen guten Betrieb der Universität.
 
 <sup>2</sup> Sie sind verantwortlich für die Aufgaben, die ihnen vom Rektorat zugeteilt werden.
 
@@ -553,20 +563,20 @@ beschliesst:
 
 **Rektorat – Zentrale Verwaltung**
 
-<sup>1</sup> Die zentrale Verwaltung ist rationell, effizient und transparent organisiert. Sie führt die Aufgaben aus, die ihr vom Rektorat, vom Rektor oder von den von ihm bezeichneten Personen übertragen werden.
+<sup>1</sup> Die zentrale Verwaltung ist rationell, effizient und transparent organisiert. Sie führt die Aufgaben aus, die ihr vom Rektorat, von der Rektorin oder vom Rektor oder von den von ihr oder ihm bezeichneten Personen übertragen werden.
 
 #### Art. 39
 
 **Plenarversammlung**
 
-<sup>1</sup> Die Plenarversammlung wird einberufen, um dem Senat einen Antrag für die Ernennung des Rektors zu stellen.
+<sup>1</sup> Die Plenarversammlung wird einberufen, um dem Senat einen Antrag für die Ernennung der Rektorin oder des Rektors zu stellen.
 
 <sup>2</sup> Sie setzt sich zusammen aus Mitgliedern der Professorenschaft und aus den folgenden Personen, die von ihren jeweiligen Körperschaften nach den Verfahrensregeln der Statuten der Universität gewählt werden:
 
-- a) je Fakultät zwei Vertreter der Körperschaft der wissenschaftlichen Mitarbeiter, zwei Vertreter der Studierenden und ein Vertreter des administrativen und technischen Personals;
-- b) fünf Vertreter des administrativen und technischen Personals, das in den zentralen Organen tätig ist.
+- a) je Fakultät zwei Vertreterinnen oder Vertreter der Körperschaft der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter, zwei Vertreterinnen oder Vertreter der Studierenden und eine Vertreterin oder ein Vertreter des administrativen und technischen Personals;
+- b) fünf Vertreterinnen oder Vertreter des administrativen und technischen Personals, das in den zentralen Organen tätig ist.
 
-<sup>3</sup> Die Plenarversammlung wird vom Präsidenten der Versammlung der Professoren oder, wenn dies nicht möglich ist, vom ältesten Dekan präsidiert. Diese Person trifft die zur Einberufung der Plenarversammlung notwendigen Massnahmen.
+<sup>3</sup> Die Plenarversammlung wird von der Präsidentin oder vom Präsidenten der Versammlung der Professorenschaft oder, wenn dies nicht möglich ist, von der ältesten Dekanin oder vom ältesten Dekan präsidiert. Diese Person trifft die zur Einberufung der Plenarversammlung notwendigen Massnahmen.
 
 #### Art. 40
 
@@ -602,7 +612,7 @@ beschliesst:
 
 **Organisation – Allgemeines**
 
-<sup>1</sup> Jede Fakultät verfügt über einen Fakultätsrat und einen Dekan.
+<sup>1</sup> Jede Fakultät verfügt über einen Fakultätsrat und eine Dekanin oder einen Dekan.
 
 <sup>2</sup> In Belangen, die in den Zuständigkeitsbereich der zentralen Organe fallen, aber besonders eine Fakultät betreffen, wird diese angehört.
 
@@ -612,35 +622,35 @@ beschliesst:
 
 **Organisation – Fakultätsrat**
 
-<sup>1</sup> Der Fakultätsrat besteht aus den Mitgliedern der Professorenschaft oder deren Vertretern und aus Vertretern der Körperschaften der wissenschaftlichen Mitarbeiter und der Studierenden; die Lehrbeauftragten, die Privatdozenten und die Vertreter des administrativen und technischen Personals können eingeladen werden, an den Sitzungen mit beratender Stimme teilzunehmen.
+<sup>1</sup> Der Fakultätsrat besteht aus den Mitgliedern der Professorenschaft oder deren Vertreterinnen und Vertretern und aus den Vertreterinnen und Vertretern der Körperschaften der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter und der Studierenden; die Lehrbeauftragten, die Privatdozentinnen und Privatdozenten und die Vertreterinnen und Vertreter des administrativen und technischen Personals können eingeladen werden, an den Sitzungen mit beratender Stimme teilzunehmen.
 
 <sup>2</sup> Der Fakultätsrat:
 
 - a) erlässt die Statuten und Reglemente der Fakultät;
 - b) gewährleistet die Qualität von Lehre und Forschung nach den Weisungen des Rektorats;
-- c) wählt den Dekan, unter Vorbehalt der Bestätigung durch den Rektor; und
+- c) wählt die Dekanin oder den Dekan, unter Vorbehalt der Bestätigung durch die Rektorin oder den Rektor; und
 - d) übt die anderen Befugnisse aus, die ihm durch die Statuten der Universität und der Fakultät übertragen werden.
 
 #### Art. 46
 
-**Organisation – Dekan**
+**Organisation – Dekanin oder Dekan**
 
-<sup>1</sup> Der Dekan der Fakultät wird aus den Mitgliedern der Professorenschaft der Fakultät gewählt. Er wird für mindestens drei Jahre gewählt und kann wiedergewählt werden. Der Rektor bestätigt die Wahl des Dekans. Dieser wird von seinen Lehr- und Forschungsaufgaben teilweise befreit.
+<sup>1</sup> Die Dekanin oder der Dekan der Fakultät wird aus den Mitgliedern der Professorenschaft der Fakultät gewählt. Sie oder er wird für mindestens drei Jahre gewählt und ist wiederwählbar. Die Rektorin oder der Rektor bestätigt die Wahl der Dekanin oder des Dekans. Diese oder dieser wird von ihren oder seinen Lehr- und Forschungsaufgaben vollständig oder teilweise befreit.
 
-<sup>2</sup> Der Dekan ist das leitende und vollziehende Organ der Fakultät, unter Vorbehalt der Zuständigkeit der zentralen Organe; bei Bedarf wird er durch einen Dekanatsrat und einen Fakultätsverwalter unterstützt.
+<sup>2</sup> Die Dekanin oder der Dekan ist das leitende und vollziehende Organ der Fakultät, unter Vorbehalt der Zuständigkeit der zentralen Organe; bei Bedarf wird sie oder er durch einen Dekanatsrat und eine Fakultätsverwalterin oder einen Fakultätsverwalter unterstützt.
 
-<sup>3</sup> Der Dekan:
+<sup>3</sup> Die Dekanin oder der Dekan:
 
-- a) präsidiert und leitet den Fakultätsrat, sorgt für die Ausführung der Ratsbeschlüsse, trifft die Entscheide, die in seine Zuständigkeit fallen, und erledigt die laufenden Geschäfte;
-- b) vertritt die Fakultät im Rahmen des Gesetzes und der Statuten; er kann sich vertreten lassen;
+- a) präsidiert und leitet den Fakultätsrat, sorgt für die Ausführung der Ratsbeschlüsse, trifft die Entscheide, die in ihre oder seine Zuständigkeit fallen, und erledigt die laufenden Geschäfte;
+- b) vertritt die Fakultät im Rahmen des Gesetzes und der Statuten; sie oder er kann sich vertreten lassen;
 - c) steht für alle Belange der Fakultät mit dem Rektorat in Verbindung, und
-- d) übt die anderen Befugnisse aus, die ihm durch die Statuten und Reglemente übertragen werden.
+- d) übt die anderen Befugnisse aus, die ihr oder ihm durch die Statuten und Reglemente übertragen werden.
 
 #### Art. 46a
 
-**Konferenz der Dekane**
+**Konferenz der Dekaninnen und Dekane**
 
-<sup>1</sup> Der Rektor beruft regelmässig die Konferenz der Dekane ein.
+<sup>1</sup> Die Rektorin oder der Rektor beruft regelmässig die Konferenz der Dekaninnen und Dekane ein.
 
 #### Art. 47
 
@@ -672,11 +682,11 @@ beschliesst:
 
 <sup>1</sup> Die Rekurskommission der Universität ist eine besondere Verwaltungsjustizbehörde mit dem Status einer Gerichtsbehörde.
 
-<sup>2</sup> Die Rekurskommission besteht aus einem Präsidenten, einem Vizepräsidenten, sechs Beisitzern und sechs Ersatzbeisitzern, die vom Grossen Rat auf Antrag des Justizrats gewählt werden.
+<sup>2</sup> Die Rekurskommission besteht aus einer Präsidentin oder einem Präsidenten, einer Vizepräsidentin oder einem Vizepräsidenten, sechs Beisitzerinnen oder Beisitzern und sechs Ersatzbeisitzerinnen oder -beisitzern, die vom Grossen Rat auf Antrag des Justizrats gewählt werden.
 
-<sup>3</sup> Der Präsident und der Vizepräsident werden aus den Berufsrichtern im Sinne des Justizgesetzes ausgewählt; die übrigen Mitglieder der Kommission müssen im Besitz eines Lizentiats oder Masters sein. Berufsrichter müssen entweder im Besitz eines Anwaltspatentes oder eines Lizentiates oder Masters der Rechtswissenschaften sein und genügende praktische Kenntnisse zur Ausübung des Amtes nachweisen.
+<sup>3</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident werden aus dem Kreis der Berufsrichterinnen und Berufsrichter im Sinne des Justizgesetzes gewählt; die übrigen Mitglieder der Kommission müssen im Besitz eines Lizentiats oder Masters sein. Die Berufsrichterinnen und Berufsrichter müssen entweder im Besitz eines Anwaltspatentes oder eines Lizentiates oder Masters der Rechtswissenschaften sein und genügende praktische Kenntnisse zur Ausübung des Amtes nachweisen.
 
-<sup>4</sup> Im Übrigen gelten die Bestimmungen des Justizgesetzes über das Amt des Richters sinngemäss für die Mitglieder der Kommission.
+<sup>4</sup> Im Übrigen gelten die Bestimmungen des Justizgesetzes über das Amt der Richterin oder des Richters sinngemäss für die Mitglieder der Kommission.
 
 #### Art. 47c
 
@@ -690,7 +700,7 @@ beschliesst:
 
 **Arbeitsweise**
 
-<sup>1</sup> Die Kommission tagt unter dem Vorsitz des Präsidenten oder des Vizepräsidenten mit vier von ihm bestimmten Beisitzern.
+<sup>1</sup> Die Kommission tagt unter dem Vorsitz der Präsidentin oder des Präsidenten oder der Vizepräsidentin oder des Vizepräsidenten mit vier von ihr oder ihm bestimmten Beisitzerinnen oder Beisitzern.
 
 <sup>2</sup> Die Rekurskommission ist in der Ausübung ihrer Zuständigkeiten unabhängig und untersteht der Aufsicht durch den Justizrat; die Bestimmungen des Justizgesetzes zur Aufsicht gelten sinngemäss.
 
@@ -706,10 +716,10 @@ beschliesst:
 
 <sup>1</sup> Das Verfahren vor der Kommission richtet sich nach dem Gesetz über die Verwaltungsrechtspflege.
 
-<sup>2</sup> Das Verfahren ist unentgeltlich; dem unterliegenden Beschwerdeführer kann jedoch für das Verfahren vor der Rekurskommission eine Pauschalgebühr von höchstens 500 Franken auferlegt werden, wenn:
+<sup>2</sup> Es ist unentgeltlich; der unterliegenden Beschwerdeführerin oder dem unterliegenden Beschwerdeführer kann jedoch für das Verfahren vor der Rekurskommission eine Pauschalgebühr von höchstens 500 Franken auferlegt werden, wenn:
 
-- a) durch sein Verschulden Mehrkosten entstanden sind;
-- b) er mutwillig, missbräuchlich oder leichtfertig ein Verfahren eingeleitet hat;
+- a) durch ihr oder sein Verschulden Mehrkosten entstanden sind;
+- b) sie oder er mutwillig, missbräuchlich oder leichtfertig ein Verfahren eingeleitet hat;
 - c) der Rekurskommission durch die Beschwerde ein übermässiger Aufwand entstanden ist.
 
 ## 4 Schlussbestimmungen
@@ -734,6 +744,10 @@ beschliesst:
 #### Art. 50
 
 <sup>1</sup> Der neue Senat wird innert sechs Monaten nach dem Inkrafttreten der Änderung vom 27. Juni 2014 dieses Gesetzes eingesetzt.
+
+#### Art. 50a
+
+<sup>1</sup> Die Universität legt die für die Zusammenführung der Lehrpersonenausbildung notwendigen internen Übergangsbestimmungen zur Änderung vom 29. Juni 2023 (ASF 2023\_059) fest.
 
 #### Art. 51
 
