@@ -4,11 +4,11 @@ title: Ordinanza del 4 marzo 2011 sui controlli di sicurezza relativi alle perso
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/it"
 
 (OCSP)
 
-del 4 marzo 2011 (Stato 1° aprile 2023)
+del 4 marzo 2011 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -258,7 +258,7 @@ Il servizio specializzato CSP DDPS sottopone a un controllo di sicurezza ampliat
 - b. hanno regolarmente accesso a segreti concernenti la sicurezza interna o esterna oppure a informazioni che, se svelate, potrebbero compromettere l’adempimento di compiti importanti della Confederazione;
 - c. appartengono al servizio specializzato CSP CaF;
 - d. esercitano la funzione di vicecancelliere della Confederazione;
-- e. esercitano la funzione di incaricato federale della protezione dei dati e della trasparenza.
+- e.[^12-1] ...
 
 <sup>2</sup>
 
@@ -269,12 +269,12 @@ Il servizio specializzato CSP CaF sottopone a un controllo di sicurezza ampliato
   sono nominate dal Consiglio federale, eccettuati:
 
   - 1\. i vicecancellieri della Confederazione,
-  - 2\. l’incaricato federale della protezione dei dati e della trasparenza,
-  - 3\.[^12-1] i membri delle commissioni extraparlamentari; se tuttavia i membri delle commissioni extraparlamentari soddisfano i criteri di cui al capoverso 1 lettere a o b, il controllo di sicurezza ampliato con audizione viene eseguito dal servizio specializzato CSP CaF,
-  - 4\.[^12-2] i presidenti, i giudici e i giudici supplenti dei tribunali militari e dei tribunali militari d’appello,
-  - 5\.[^12-3] il delegato alla trasformazione digitale e alla governance delle TIC;
+  - 2\.[^12-2] ...
+  - 3\.[^12-3] i membri delle commissioni extraparlamentari; se tuttavia i membri delle commissioni extraparlamentari soddisfano i criteri di cui al capoverso 1 lettere a o b, il controllo di sicurezza ampliato con audizione viene eseguito dal servizio specializzato CSP CaF,
+  - 4\.[^12-4] i presidenti, i giudici e i giudici supplenti dei tribunali militari e dei tribunali militari d’appello,
+  - 5\.[^12-5] il delegato alla trasformazione digitale e alla governance delle TIC;
 
-- a<sup>bis</sup>.[^12-4] sono nominate secondo l’articolo 2 capoverso 1<sup>bis</sup> dell’ordinanza del 3 luglio 2001[^12-5] sul personale federale;
+- a<sup>bis</sup>.[^12-6] sono nominate secondo l’articolo 2 capoverso 1<sup>bis</sup> dell’ordinanza del 3 luglio 2001[^12-7] sul personale federale;
 - b. appartengono alla Protezione delle informazioni e delle opere del DDPS;
 - c. appartengono al servizio specializzato CSP DDPS.
 
@@ -284,11 +284,13 @@ Il servizio specializzato CSP CaF sottopone a un controllo di sicurezza ampliato
 
 <sup>5</sup> In occasione dell’avvio di un controllo di sicurezza ampliato con audizione l’autorità richiedente trasmette all’autorità di controllo competente il modulo relativo al controllo di sicurezza e il modulo «Ulteriori dati personali» compilati.
 
-[^12-1]: [RU 2012 397](https://fedlex.data.admin.ch/eli/oc/2012/39)
-[^12-2]: Introdotto dal n. I dell’O del 9 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)).
-[^12-3]: Introdotto dall’all. n. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^12-4]: Introdotta dal n. II dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
-[^12-5]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^12-1]: Abrogata dall’all. 2 n. II 1 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Abrogato dall’all. 2 n. II 1 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RU 2012 397](https://fedlex.data.admin.ch/eli/oc/2012/39)
+[^12-4]: Introdotto dal n. I dell’O del 9 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)).
+[^12-5]: Introdotto dall’all. n. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^12-6]: Introdotta dal n. II dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
+[^12-7]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 13
 
@@ -423,10 +425,11 @@ Se l’autorità di controllo avanza una riserva giustificata in materia di sicu
 
 <sup>1</sup> Se considera la possibilità di non emanare una decisione secondo l’articolo 22 capoverso 1 lettera a, l’autorità di controllo offre alla persona interessata l’opportunità di pronunciarsi per scritto sull’esito degli accertamenti.
 
-<sup>2</sup> La persona interessata può visionare in qualsiasi momento il fascicolo relativo al controllo; sono fatti salvi l’articolo 9 della legge federale del 19 giugno 1992[^21-1] sulla protezione dei dati nonché gli articoli 27 e 28 della legge federale del 20 dicembre 1968[^21-2] sulla procedura amministrativa.
+<sup>2</sup> La persona interessata può visionare in qualsiasi momento il fascicolo relativo al controllo; sono fatti salvi l’articolo 26 della legge federale del 25 settembre 2020[^21-1] sulla protezione dei dati nonché gli articoli 27 e 28 della legge federale del 20 dicembre 1968[^21-2] sulla procedura amministrativa.[^21-3]
 
 [^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^21-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^21-3]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 22
 
@@ -573,7 +576,7 @@ Allegato 1[^t-1]
 
 ## Funzioni dell’Amministrazione federale per le quali è necessario un controllo di sicurezza relativo alle persone
 
-[^t-1]: Aggiornato n. II dell’O del 9 mar. 2012 ([RU 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)), dall’art. 15 n. 1 dell’O del 17 ott. 2012 sulla condotta della guerra elettronica e sull’esplorazione radio ([RU 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)), dal n. I 1 delle O del 15 giu. 2012 (Riorganizzazione dei dipartimenti) ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria) ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)), dal n. 1 degli all. delle O del 3 giu. 2016 ([RU 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)), del 16 ago. 2017 concernente la vigilanza sulle attività informative ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)) e dall’all. n. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^t-1]: Aggiornato n. II dell’O del 9 mar. 2012 ([RU 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)), dall’art. 15 n. 1 dell’O del 17 ott. 2012 sulla condotta della guerra elettronica e sull’esplorazione radio ([RU 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)), dal n. I 1 delle O del 15 giu. 2012 (Riorganizzazione dei dipartimenti) ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria) ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)), dal n. 1 degli all. delle O del 3 giu. 2016 ([RU 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)), del 16 ago. 2017 concernente la vigilanza sulle attività informative ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), dall’all. n. 1 dell’O del 25 nov. 2020 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)) e dall’all. 2 n. II 1 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. Funzioni generali in seno all’Amministrazione federale
 
@@ -621,7 +624,7 @@ Gestori dei rischi dei Dipartimenti e della Cancelleria federale
 
 <table>
 <tr><td>Unità amministrative</td><td>Funzioni</td></tr>
-<tr><td></td><td>Vicecancelliere Incaricato federale della protezione dei dati e della trasparenza Delegato alla trasformazione digitale e alla governance delle TIC Capo Stato maggiore di direzione Capo Servizi interni e supplente Responsabili della sicurezza Informatici Collaboratori che hanno accesso a informazioni e materiale a partire dal livello di classificazione CONFIDENZIALE oppure alle zone protette 2 o alle zone protette di livello superiore di impianti militari Collaboratori del servizio specializzato CSP CaF</td></tr>
+<tr><td></td><td>Vicecancelliere Tutte le funzioni in seno all’Incaricato federale della protezione dei dati e della trasparenza, eccetto il suo direttore Capo Stato maggiore di direzione Capo Servizi interni e supplente Responsabili della sicurezza Informatici Collaboratori che hanno accesso a informazioni e materiale a partire dal livello di classificazione CONFIDENZIALE oppure alle zone protette 2 o alle zone protette di livello superiore di impianti militari Collaboratori del servizio specializzato CSP CaF</td></tr>
 </table>
 
 ### 2.2 Dipartimento federale degli affari esteri
@@ -634,7 +637,7 @@ Gestori dei rischi dei Dipartimenti e della Cancelleria federale
 ### 2.3 Dipartimento federale dell’interno
 
 <table>
-<tr><td>Unità amministrative</td><td>Funzioni</td></tr>
+<tr><th>Unità amministrative</th><th>Funzioni</th></tr>
 <tr><td>SG-DFI</td><td></td></tr>
 <tr><td>Pianificazione e coordinamento degli affari</td><td>Capo del servizio Affari del Consiglio federale e del Parlamento, supplente e collaboratori</td></tr>
 <tr><td>Ufficio federale della sanità pubblica</td><td>Quadri delle Divisioni radioprotezione e prodotti chimici</td></tr>

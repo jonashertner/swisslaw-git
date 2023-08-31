@@ -4,11 +4,11 @@ title: Verordnung vom 4. März 2011 über die Personensicherheitsprüfungen (PSP
 short: PSPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/de"
 
 (PSPV)
 
-vom 4. März 2011 (Stand am 1. April 2023)
+vom 4. März 2011 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -258,7 +258,7 @@ Die erweiterte Personensicherheitsprüfung mit Befragung wird von der Fachstelle
 - b. regelmässig Zugang zu Geheimnissen der inneren oder der äusseren Sicherheit oder zu Informationen haben, deren Aufdeckung die Erfüllung wesentlicher Aufgaben des Bundes gefährden könnte;
 - c. der Fachstelle PSP BK angehören;
 - d. die Funktion der Vizekanzlerin oder des Vizekanzlers innehaben;
-- e. die Funktion der oder des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten innehaben.
+- e.[^12-1] …
 
 <sup>2</sup>
 
@@ -269,12 +269,12 @@ Die erweiterte Personensicherheitsprüfung mit Befragung wird von der Fachstelle
   vom Bundesrat ernannt werden; ausgenommen sind:
 
   - 1\. die Vizekanzlerin und der Vizekanzler,
-  - 2\. die oder der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte,
+  - 2\.[^12-2] …
   - 3\. die Mitglieder der ausserparlamentarischen Kommissionen; treffen auf die Mitglieder ausserparlamentarischer Kommissionen jedoch die Kriterien nach Absatz 1 Buchstabe a oder b zu, so wird die erweiterte Sicherheitsprüfung mit Befragung dennoch von der Fachstelle PSP BK durchgeführt,
-  - 4\.[^12-1] die Präsidentinnen und Präsidenten, Richterinnen und Richter sowie Ersatzrichterinnen und Ersatzrichter der Militär- und Militärappellationsgerichte,
-  - 5\.[^12-2] die oder der Delegierte für digitale Transformation und IKT-Lenkung;
+  - 4\.[^12-3] die Präsidentinnen und Präsidenten, Richterinnen und Richter sowie Ersatzrichterinnen und Ersatzrichter der Militär- und Militärappellationsgerichte,
+  - 5\.[^12-4] die oder der Delegierte für digitale Transformation und IKT-Lenkung;
 
-- a<sup>bis</sup>.[^12-3] gemäss Artikel 2 Absatz 1<sup>bis</sup> Bundespersonalverordnung vom 3. Juli 2001[^12-4] angestellt werden;
+- a<sup>bis</sup>.[^12-5] gemäss Artikel 2 Absatz 1<sup>bis</sup> Bundespersonalverordnung vom 3. Juli 2001[^12-6] angestellt werden;
 - b. der Informations- und Objektsicherheit des VBS angehören;
 - c. der Fachstelle PSP VBS angehören.
 
@@ -284,10 +284,12 @@ Die erweiterte Personensicherheitsprüfung mit Befragung wird von der Fachstelle
 
 <sup>5</sup> Bei der Einleitung einer erweiterten Personensicherheitsprüfung mit Befragung hat die ersuchende Stelle der zuständigen Prüfbehörde das Prüfformular sowie das Formular «Weitere Angaben zur Person» ausgefüllt einzureichen.
 
-[^12-1]: Eingefügt durch Ziff. I der V vom 9. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)).
-[^12-2]: Eingefügt durch Anhang Ziff. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^12-3]: Eingefügt durch Ziff. II der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
-[^12-4]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^12-1]: Aufgehoben durch Anhang 2 Ziff. II 1 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Aufgehoben durch Anhang 2 Ziff. II 1 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: Eingefügt durch Ziff. I der V vom 9. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)).
+[^12-4]: Eingefügt durch Anhang Ziff. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^12-5]: Eingefügt durch Ziff. II der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
+[^12-6]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 13
 
@@ -422,10 +424,11 @@ Hat die Prüfbehörde einen begründeten Sicherheitsvorbehalt und ist die Sache 
 
 <sup>1</sup> Beabsichtigt die Prüfbehörde, die Verfügung nach Artikel 22 Absatz 1 Buchstabe a nicht zu erlassen, so gibt sie der betroffenen Person Gelegenheit, zum Ergebnis der Abklärungen schriftlich Stellung zu nehmen.
 
-<sup>2</sup> Die betroffene Person kann die Prüfungsunterlagen jederzeit einsehen; vorbehalten bleiben Artikel 9 des Bundesgesetzes vom 19. Juni 1992[^21-1] über den Datenschutz sowie die Artikel 27 und 28 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^21-2].
+<sup>2</sup> Die betroffene Person kann die Prüfungsunterlagen jederzeit einsehen; vorbehalten bleiben Artikel 26 des Datenschutzgesetzeses vom 25. September 2020[^21-1] sowie die Artikel 27 und 28 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^21-2].[^21-3]
 
 [^21-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^21-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^21-3]: Fassung gemäss Anhang 2 Ziff. II 1 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 22
 
@@ -572,7 +575,7 @@ Anhang 1[^t-1]
 
 ## Funktionen beim Bund, für deren Ausübung eine Personensicherheitsprüfung durchgeführt werden muss
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 9. März 2012 ([AS 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)), Art. 15 Ziff. 1 der V vom 17. Okt. 2012 über die elektronische Kriegführung und die Funkaufklärung ([AS 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)), Ziff. I 1 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), Ziff. I 1 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen) ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)), Anhang Ziff. 1 der V vom 3. Juni 2016 ([AS 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)), Anhang Ziff. 1 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)) und Anhang Ziff. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 9. März 2012 ([AS 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)), Art. 15 Ziff. 1 der V vom 17. Okt. 2012 über die elektronische Kriegführung und die Funkaufklärung ([AS 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)), Ziff. I 1 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), Ziff. I 1 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen) ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)), Anhang Ziff. 1 der V vom 3. Juni 2016 ([AS 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)), Anhang Ziff. 1 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), Anhang Ziff. 1 der V vom 25. Nov. 2020 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)) und Anhang 2 Ziff. II 1 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. Generelle Funktionen innerhalb der Bundesverwaltung
 
@@ -620,7 +623,7 @@ Risikomanager/innen der Departemente und der Bundeskanzlei
 
 <table>
 <tr><td>Verwaltungseinheiten</td><td>Funktionen</td></tr>
-<tr><td></td><td>Vizekanzler/in Eidgenössische/r Datenschutz- und Öffentlichkeitsbeauftragte/r Delegierte/Delegierter für digitale Transformation und IKT-Lenkung Leiter/in Direktionsstab Leiter/in interne Dienste und Stv. Sicherheitsverantwortliche Informatiker/innen Mitarbeiter/innen mit Zugang zu Informationen und Material ab Klassifizierungsstufe VERTRAULICH oder zu militärischen Anlagen ab Schutzzone 2 Mitarbeiter/innen der Fachstelle PSP BK</td></tr>
+<tr><td></td><td>Vizekanzler/in Sämtliche Funktionen innerhalb des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten, ausgenommen dessen Leiterin oder Leiter Delegierte/Delegierter für digitale Transformation und IKT-Lenkung Leiter/in Direktionsstab Leiter/in interne Dienste und Stv. Sicherheitsverantwortliche Informatiker/innen Mitarbeiter/innen mit Zugang zu Informationen und Material ab Klassifizierungsstufe VERTRAULICH oder zu militärischen Anlagen ab Schutzzone 2 Mitarbeiter/innen der Fachstelle PSP BK</td></tr>
 </table>
 
 ### 2.2 Eidgenössisches Departement für auswärtige Angelegenheiten

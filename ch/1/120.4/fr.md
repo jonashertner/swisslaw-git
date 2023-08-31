@@ -4,11 +4,11 @@ title: Ordonnance du 4 mars 2011 sur les contrôles de sécurité relatifs aux p
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/fr"
 
 (OCSP)
 
-du 4 mars 2011 (État le 1<sup>er</sup> avril 2023)
+du 4 mars 2011 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -259,7 +259,7 @@ Le Service spécialisé CSP DDPS procède à un contrôle de sécurité élargi 
 - b. qui ont régulièrement accès à des secrets relatifs à la sécurité intérieure ou extérieure ou à des informations dont la divulgation pourrait menacer l’accomplissement de tâches importantes de la Confédération;
 - c. qui appartiennent au Service spécialisé CSP ChF;
 - d. qui occupent la fonction de vice-chancelier de la Confédération;
-- e. qui occupent la fonction de préposé fédéral à la protection des données et à la transparence.
+- e.[^12-1] …
 
 <sup>2</sup>
 
@@ -270,12 +270,12 @@ Le Service spécialisé CSP ChF procède à un contrôle de sécurité élargi a
   nommées par le Conseil fédéral, à l’exception:
 
   - 1\. du vice-chancelier de la Confédération,
-  - 2\. du préposé fédéral à la protection des données et à la transparence,
+  - 2\.[^12-2] …
   - 3\. des membres des commissions extraparlementaires; dans la mesure où les critères de l’al. 1, let. a ou b les concernent, ils font l’objet d’un contrôle de sécurité élargi mené par le Service spécialisé CSP ChF,
-  - 4\.[^12-1] des présidents, des juges et des juges suppléants des tribunaux militaires et des tribunaux militaires d’appel,
-  - 5\.[^12-2] du délégué à la transformation numérique et à la gouvernance de l’informatique;
+  - 4\.[^12-3] des présidents, des juges et des juges suppléants des tribunaux militaires et des tribunaux militaires d’appel,
+  - 5\.[^12-4] du délégué à la transformation numérique et à la gouvernance de l’informatique;
 
-- a<sup>bis</sup>.[^12-3] engagées en vertu de l’art. 2, al. 1<sup>bis</sup>, de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^12-4];
+- a<sup>bis</sup>.[^12-5] engagées en vertu de l’art. 2, al. 1<sup>bis</sup>, de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^12-6];
 - b. appartenant à la Direction de la protection des informations et des objets;
 - c. appartenant au Service spécialisé CSP DDPS.
 
@@ -285,10 +285,12 @@ Le Service spécialisé CSP ChF procède à un contrôle de sécurité élargi a
 
 <sup>5</sup> Lors de l’ouverture de la procédure du contrôle de sécurité élargi avec audition, l’autorité requérante doit présenter à l’autorité compétente chargée du contrôle, outre le formulaire de contrôle proprement dit, le formulaire «Données personnelles» dûment complété.
 
-[^12-1]: Introduit par le ch. I du l’O du 9 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)).
-[^12-2]: Introduit par l’annexe ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^12-3]: Introduite par le ch. II de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
-[^12-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^12-1]: Abrogée par l’annexe 2 ch. II 1 de l’O du 31 août 2022 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Abrogée par l’annexe 2 ch. II 1 de l’O du 31 août 2022 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: Introduit par le ch. I du l’O du 9 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)).
+[^12-4]: Introduit par l’annexe ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^12-5]: Introduite par le ch. II de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
+[^12-6]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 13
 
@@ -423,10 +425,11 @@ Si l’autorité chargée du contrôle émet une réserve fondée pour cause de 
 
 <sup>1</sup> Lorsque l’autorité chargée du contrôle envisage de ne pas prononcer la décision visée à l’art. 22, al. 1, let. a, elle accorde à la personne concernée le droit d’être entendue en lui donnant la possibilité de prendre position par écrit sur le résultat des investigations.
 
-<sup>2</sup> La personne concernée peut, en tout temps, consulter les documents produits lors du contrôle, sous réserve de l’art. 9 de la loi fédérale du 19 juin 1992 sur la protection des données[^21-1], et des art. 27 et 28 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^21-2].
+<sup>2</sup> La personne concernée peut, en tout temps, consulter les documents produits lors du contrôle, sous réserve de l’art. 26 de la loi fédérale du 25 septembre 2020 sur la protection des données[^21-1], et des art. 27 et 28 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^21-2].[^21-3]
 
 [^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^21-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^21-3]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 22
 
@@ -517,7 +520,7 @@ La personne concernée peut, en tout temps, demander à l’autorité chargée d
 
 Les documents produits lors du contrôle de sécurité relatif aux personnes ne doivent pas être utilisés à d’autres fins, sous réserve de leur utilisation dans une procédure pénale ouverte par la Confédération à l’encontre de la personne concernée ou à des fins de sauvegarde de la sûreté intérieure ou extérieure de la Suisse.
 
-[^28-1]: Nouvelle teneur selon le l’annexe 4 ch. II 1 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^28-1]: Nouvelle teneur selon l’annexe 4 ch. II 1 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 29
 
@@ -573,7 +576,7 @@ Annexe 1[^t-1]
 
 ## Fonctions de l’administration fédérale nécessitant un contrôle de sécurité relatif aux personnes
 
-[^t-1]: Mise à jour par le ch. II du l’O du 9 mars 2012 ([RO 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)), l’art. 15 ch. 1 de l’O du 17 oct. 2012 sur la guerre électronique et l’exploration radio ([RO 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)), le ch. I 1 de l’O du 15 juin 2012 (Réorganisation des départements; [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), le ch. I 1 de l’O du 4 sept. 2013 (Réorganisation de la sécurité alimentaire et des affaires vétérinaires) ([RO 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)), l’annexe ch. 1 de l’O du 3 juin 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)), l’annexe ch. 1 de l’O du 16 août 2017 sur la surveillance des activités de renseignement ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)) et l’annexe ch. 1 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^t-1]: Mise à jour par le ch. II du l’O du 9 mars 2012 ([RO 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)), l’art. 15 ch. 1 de l’O du 17 oct. 2012 sur la guerre électronique et l’exploration radio ([RO 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)), le ch. I 1 de l’O du 15 juin 2012 (Réorganisation des départements; [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), le ch. I 1 de l’O du 4 sept. 2013 (Réorganisation de la sécurité alimentaire et des affaires vétérinaires) ([RO 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)), l’annexe ch. 1 de l’O du 3 juin 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)), l’annexe ch. 1 de l’O du 16 août 2017 sur la surveillance des activités de renseignement ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), l’annexe ch. 1 de l’O du 25 nov. 2020 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)) et l’annexe 2 ch. II 1 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. Fonctions générales au sein de l’administration fédérale
 
@@ -621,7 +624,7 @@ Gestionnaires des risques des départements et de la Chancellerie fédérale
 
 <table>
 <tr><td>Unité administrative</td><td>Fonctions</td></tr>
-<tr><td></td><td>Vice-chancelier Préposé fédéral à la protection des données et à la transparence Délégué à la transformation numérique et à la gouvernance de l’informatique Responsable de l’État-major de direction Responsable des Services internes et suppl. Responsables de la sécurité Informaticiens Collaborateurs ayant accès à des informations et du matériel à partir de l’échelon de classification CONFIDENTIEL ou à des installations militaires des zones protégées 2 ou plus Collaborateurs du Service spécialisé CSP ChF</td></tr>
+<tr><td></td><td>Vice-chancelier Toutes les fonctions au sein du Préposé fédéral à la protection des données et à la transparence (PFPDT) à l’exception de celles du chef du PFPDT Délégué à la transformation numérique et à la gouvernance de l’informatique Responsable de l’État-major de direction Responsable des Services internes et suppl. Responsables de la sécurité Informaticiens Collaborateurs ayant accès à des informations et du matériel à partir de l’échelon de classification CONFIDENTIEL ou à des installations militaires des zones protégées 2 ou plus Collaborateurs du Service spécialisé CSP ChF</td></tr>
 </table>
 
 ### 2.2 Département fédéral des affaires étrangères
