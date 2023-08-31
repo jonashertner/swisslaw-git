@@ -4,11 +4,11 @@ title: "Lescha federala dals 3 d'october 1951 davart ils narcotics e las substan
 short: LNarc
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: rm
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230901-rm-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha da narcotics, LNarc)[^t-1]
 
-dals 3 d’october 1951 (versiun dal 1. da fanadur 2023)
+dals 3 d’october 1951 (versiun dal 1. da settember 2023)
 
 [^t-1]: Versiun dal titel tenor la cifra I da la LF dals 24 da mars 1995, en vigur dapi il 1. da fan. 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -211,7 +211,7 @@ Per il tractament cun prescripziun da heroin dovri ina permissiun da la Confeder
 
 [^3f-1]
 
-[^3f-1]: Abolì tras la cifra I da la LF dals 19 da mars 2021, cun effect dapi il 1. d’avust 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^3f-1]: Abolì tras la cifra II da la LF dals 19 da mars 2021, cun effect dapi il 1. d’avust 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385), [491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ### 3. secziun Reducziun da donns ed agid per surviver
 
@@ -592,9 +592,10 @@ La communicaziun da datas da persunas a las autoritads cumpetentas da stadis ch�
 
 **Dretg da survegnir infurmaziuns**
 
-Il dretg da survegnir infurmaziuns sa drizza tenor las disposiziuns davart la protecziun da datas da la Confederaziun u dals chantuns.[^18c-1] Il possessur da la collecziun da datas dat er infurmaziuns davart las indicaziuns disponiblas da la derivanza da las datas.
+Il dretg da survegnir infurmaziuns sa drizza tenor las disposiziuns davart la protecziun da datas da la Confederaziun u dals chantuns.[^18c-1] …[^18c-2]
 
-[^18c-1]: Versiun tenor la cifra 7 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas da persunas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^18c-1]: Versiun tenor la cifra 7 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^18c-2]: Abolì la segunda frasa tras la cifra II 73 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, cun effect dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. secziun Elavuraziun da datas
 
@@ -606,7 +607,7 @@ Il dretg da survegnir infurmaziuns sa drizza tenor las disposiziuns davart la pr
 
 **En connex cun il tractament da persunas ch’èn dependentas da narcotics**[^18d-1]
 
-<sup>1</sup> Las autoritads e las instituziuns ch’èn cumpetentas per exequir questa lescha han il dretg d’elavurar datas da persunas, datas da persunas spezialmain sensiblas e profils da la persunalitad, e quai cun l’intent d’examinar las premissas e l’andament dal tractament da persunas ch’èn dependentas da narcotics.
+<sup>1</sup> Las autoritads e las instituziuns ch’èn cumpetentas per exequir questa lescha han il dretg d’elavurar datas da persunas, inclusiv datas persunalas spezialmain sensiblas, e quai cun l’intent d’examinar las premissas e l’andament dal tractament da persunas ch’èn dependentas da narcotics.[^18d-2]
 
 <sup>2</sup> Tras mesiras tecnicas ed organisatoricas garanteschan ellas la protecziun da las datas tenor l’alinea 1.
 
@@ -620,6 +621,7 @@ Il Cussegl federal fixescha ils detagls, en spezial:
 - d. las autorisaziuns d’access.
 
 [^18d-1]: Versiun tenor la cifra I da la LF dals 19 da mars 2021, en vigur dapi il 1. d’avust 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^18d-2]: Versiun tenor la cifra II da la LF dals 19 da mars 2021, en vigur dapi il 1. da sett. 2023 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385), [491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18e
 

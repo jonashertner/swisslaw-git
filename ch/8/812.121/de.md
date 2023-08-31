@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psy
 short: BetmG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230901-de-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/de"
 
 (Betäubungsmittelgesetz, BetmG)[^t-1]
 
-vom 3. Oktober 1951 (Stand am 1. Juli 2023)
+vom 3. Oktober 1951 (Stand am 1. September 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Juli 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -207,7 +207,7 @@ Für die heroingestützte Behandlung braucht es eine Bewilligung des Bundes. Der
 
 [^3f-1]
 
-[^3f-1]: Aufgehoben durch Ziff. I des BG vom 19. März 2021, mit Wirkung seit 1. Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^3f-1]: Aufgehoben durch Ziff. II des BG vom 19. März 2021, mit Wirkung seit 1. Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385), [491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ### 3. Abschnitt: Schadenminderung und Überlebenshilfe
 
@@ -588,9 +588,10 @@ Die Bekanntgabe von Personendaten an die zuständigen Behörden von Staaten, die
 
 **Auskunftsrecht**
 
-Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone.[^18c-1] Der Inhaber der Datensammlung erteilt auch Auskunft über die verfügbaren Angaben zur Herkunft der Daten.
+Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone.[^18c-1] …[^18c-2]
 
 [^18c-1]: Fassung gemäss Ziff. 7 des BG vom 19. März 2010 über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, in Kraft seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^18c-2]: Zweiter Satz aufgehoben durch Anhang 1 Ziff. II 73 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Abschnitt: Datenbearbeitung
 
@@ -602,7 +603,7 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 **In Zusammenhang mit der Behandlung von betäubungsmittelabhängigen Personen**[^18d-1]
 
-<sup>1</sup> Die für den Vollzug dieses Gesetzes zuständigen Behörden und Institutionen sind berechtigt, Personendaten, besonders schützenswerte Personendaten und Persönlichkeitsprofile zur Überprüfung der Voraussetzungen und des Verlaufs der Behandlung von betäubungsmittelabhängigen Personen zu bearbeiten.
+<sup>1</sup> Die für den Vollzug dieses Gesetzes zuständigen Behörden und Institutionen sind berechtigt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zur Überprüfung der Voraussetzungen und des Verlaufs der Behandlung von betäubungsmittelabhängigen Personen zu bearbeiten.[^18d-2]
 
 <sup>2</sup> Sie gewährleisten durch technische und organisatorische Massnahmen den Schutz der Daten nach Absatz 1.
 
@@ -616,6 +617,7 @@ Der Bundesrat legt die Einzelheiten fest, insbesondere:
 - d. die Zugriffsberechtigungen.
 
 [^18d-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^18d-2]: Fassung gemäss Ziff. II des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385), [491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18e
 

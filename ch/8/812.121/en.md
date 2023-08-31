@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 1951 on Narcotics and Psychotropic Substances (
 short: NarcA
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230901-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Narcotics Act, NarcA)[^t-1]
 
-of 3 October 1951 (Status as of 1 July 2023)
+of 3 October 1951 (Status as of 1 September 2023)
 
 [^t-1]: Title amended by No I of the FA of 24 March 1995, in force since 1 July 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -592,9 +592,10 @@ The disclosure of personal data to the relevant authorities of states bound by o
 
 **Right to information**
 
-The right to information is governed by the federal or cantonal data protection provisions.[^18c-1] The proprietor of the data collection shall also provide information on the details available on the origin of the data.
+The right to information is governed by the federal or cantonal data protection provisions.[^18c-1] …[^18c-2]
 
 [^18c-1]: Amended by No 7 of the FA of 19 March 2010 on the implementation of Council Framework Decision 2008/977/JI on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, in force since 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^18c-2]: Second sentence repealed by Annex 1 No II 73 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 2 Data Processing
 
@@ -606,7 +607,7 @@ The right to information is governed by the federal or cantonal data protection 
 
 **In connection with the treatment of persons dependent on narcotics**[^18d-1]
 
-<sup>1</sup> The authorities and institutions responsible for the implementation of this Act are entitled to process personal data, and in particular sensitive personal data and personality profiles in order to review the requirements for and the progress with the treatment of persons dependent on narcotics.
+<sup>1</sup> The authorities and institutions responsible for the implementation of this Act are entitled to process personal data, including sensitive personal data a in order to review the requirements for and the progress with the treatment of persons dependent on narcotics.[^18d-2]
 
 <sup>2</sup> They shall take technical and organisational measures to guarantee the protection of data in accordance with paragraph 1.
 
@@ -620,6 +621,7 @@ The Federal Council shall regulate the details, in particular:
 - d. the rights of access.
 
 [^18d-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^18d-2]: Amended by No II of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385), [491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18e
 

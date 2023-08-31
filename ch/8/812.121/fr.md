@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 octobre 1951 sur les stupéfiants et les substances 
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230901-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/fr"
 
 (Loi sur les stupéfiants, LStup)[^t-1]
 
-du 3 octobre 1951 (État le 1<sup>er</sup> juillet 2023)
+du 3 octobre 1951 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1996([RO 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1249](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -573,11 +573,11 @@ Pour toute livraison de stupéfiants, un bulletin doit être établi et remis au
 [^chap3a-1]: Introduit par l’art. 3 ch. 9 de l’AF du 17 déc. 2004 portant approbation et mise en oeuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. f; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^chap3a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
-## Section 1 Protection des données dans le cadre des accords d’association à Schengen
+### **Section 1** **Protection des données dans le cadre des accords d’association à Schengen**
 
-[^chap4-1]
+[^chap3a-sec1-1]
 
-[^chap4-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^chap3a-sec1-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18a
 
@@ -597,21 +597,22 @@ La communication de données personnelles à des autorités compétentes des Ét
 
 **Droit d’accès**
 
-Le droit d’accès est régi par les dispositions fédérales ou cantonales de protection des données.[^18c-1] En outre, le maître du fichier fournit les informations dont il dispose concernant l’origine des données.
+Le droit d’accès est régi par les dispositions fédérales ou cantonales de protection des données.[^18c-1] …[^18c-2]
 
 [^18c-1]: Nouvelle teneur selon le ch. 7 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^18c-2]: Phrase abrogée par l’annexe 1 ch. II 73 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 2 Traitement des données
 
-[^chap4-sec1-1]
+[^chap3a-sec2-1]
 
-[^chap4-sec1-1]: Introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^chap3a-sec2-1]: Introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18d
 
 **En lien avec le traitement des personnes dépendantes**[^18d-1]
 
-<sup>1</sup> Les autorités et les institutions chargées de veiller à l’exécution de la présente loi sont autorisées à traiter des données personnelles, des données sensibles et des profils de la personnalité afin de vérifier les conditions relatives au traitement des personnes dépendantes et leur suivi.
+<sup>1</sup> Les autorités et les institutions chargées de veiller à l’exécution de la présente loi sont autorisées à traiter des données personnelles, y compris des données sensibles, afin de vérifier les conditions relatives au traitement des personnes dépendantes et leur suivi.[^18d-2]
 
 <sup>2</sup> Elles prennent les mesures techniques et organisationnelles propres à garantir la protection de toutes les données visées à l’al. 1.
 
@@ -625,6 +626,7 @@ Le Conseil fédéral fixe les modalités du traitement de ces données, en parti
 - d. les droits d’accès.
 
 [^18d-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^18d-2]: Nouvelle teneur selon le ch. II de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385), [491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18e
 
@@ -674,9 +676,9 @@ Le Conseil fédéral détermine:
 
 ### Section 1 Actes punissables
 
-[^chap5-sec1-1]
+[^chap4-sec1-1]
 
-[^chap5-sec1-1]: Introduit par le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)).
+[^chap4-sec1-1]: Introduit par le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)).
 
 #### Art. 19
 
@@ -863,9 +865,9 @@ Est puni d’une amende celui qui, intentionnellement ou par négligence:
 
 ### Section 2 Poursuite pénale
 
-[^chap5-sec2-1]
+[^chap4-sec2-1]
 
-[^chap5-sec2-1]: Introduit par le ch. I de la LF du 28 sept. 2012 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Nouvelle teneur selon l’annexe ch. II 3 de la L du 18 mars 2016 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 909](https://fedlex.data.admin.ch/eli/fga/2015/96)).
+[^chap4-sec2-1]: Introduit par le ch. I de la LF du 28 sept. 2012 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Nouvelle teneur selon l’annexe ch. II 3 de la L du 18 mars 2016 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 909](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
 #### Art. 28
 
@@ -897,9 +899,9 @@ Les infractions visées aux art. 20 à 22 qui sont constatées dans le domaine d
 
 ## Chapitre 5 Tâches des cantons et de la Confédération
 
-[^chap6-1]
+[^chap5-1]
 
-[^chap6-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^chap5-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 ### Section 1 Tâches de la Confédération
 

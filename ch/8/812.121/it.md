@@ -4,11 +4,11 @@ title: "Legge federale del 3 ottobre 1951 sugli stupefacenti e sulle sostanze ps
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230901-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/it"
 
 (Legge sugli stupefacenti, LStup)[^t-1]
 
-del 3 ottobre 1951 (Stato 1° luglio 2023)
+del 3 ottobre 1951 (Stato 1° settembre 2023)
 
-[^t-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° lug. 1996 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
+[^t-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° lug. 1996 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -35,7 +35,7 @@ decreta:
 
 [^chap1-1]
 
-[^chap1-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106). Secondo la medesima disposizione, il testo è stato distribuito in capitoli e sezioni, al moltiplicativo <sup>bis</sup> è stata sostituita la lett. a.
+[^chap1-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106). Secondo la medesima disposizione, il testo è stato distribuito in capitoli e sezioni, al moltiplicativo <sup>bis</sup> è stata sostituita la lett. a.
 
 #### Art. 1
 
@@ -49,7 +49,7 @@ La presente legge ha lo scopo di:
 - d. preservare l’ordine pubblico e la sicurezza dai pericoli derivanti dagli stupefacenti e dalle sostanze psicotrope;
 - e. lottare contro gli atti criminali che sono in stretta relazione con gli stupefacenti e le sostanze psicotrope.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 1a
 
@@ -66,7 +66,7 @@ La Confederazione e i Cantoni prevedono misure nei quattro settori seguenti (pri
 
 <sup>2</sup> In tale ambito, la Confederazione e i Cantoni tengono conto delle esigenze della protezione generale della salute e della gioventù.
 
-[^1a-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^1a-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 1b
 
@@ -74,7 +74,7 @@ La Confederazione e i Cantoni prevedono misure nei quattro settori seguenti (pri
 
 Agli stupefacenti utilizzati come agenti terapeutici si applicano le disposizioni della legge del 15 dicembre 2000[^1b-2] sugli agenti terapeutici. Le disposizioni della presente legge sono applicabili in quanto la legge sugli agenti terapeutici non preveda alcuna normativa o preveda una normativa meno estesa.
 
-[^1b-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^1b-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^1b-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
 #### Art. 2
@@ -90,7 +90,7 @@ Ai sensi della presente legge s’intendono per:
 - e. *precursori:* le sostanze che non generano dipendenza ma possono essere trasformate in stupefacenti o in sostanze psicotrope;
 - f. *coadiuvanti chimici:* le sostanze che servono alla fabbricazione di stupefacenti e sostanze psicotrope.
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 2a
 
@@ -98,7 +98,7 @@ Ai sensi della presente legge s’intendono per:
 
 Il Dipartimento federale dell’interno tiene un elenco degli stupefacenti, delle sostanze psicotrope, dei precursori e dei coadiuvanti chimici. A tal proposito si fonda di norma sulle raccomandazioni delle organizzazioni internazionali competenti.
 
-[^2a-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^2a-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 2b
 
@@ -106,7 +106,7 @@ Il Dipartimento federale dell’interno tiene un elenco degli stupefacenti, dell
 
 In quanto la legge non disponga altrimenti, le disposizioni concernenti gli stupefacenti si applicano anche alle sostanze psicotrope.
 
-[^2b-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^2b-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 3
 
@@ -120,23 +120,23 @@ In quanto la legge non disponga altrimenti, le disposizioni concernenti gli stup
 
 <sup>4</sup> Per l’esecuzione del capoverso 1, segnatamente per compiti d’informazione e di consulenza, il Consiglio federale può far capo a organizzazioni private.[^3-5]
 
-[^3-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^3-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^3-3]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
-[^3-4]: Introdotto dal n. I della LF del 18 dic. 1968 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)). Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^3-5]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° lug. 1996 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
+[^3-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^3-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^3-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^3-4]: Introdotto dalla cifra I della LF del 18 dic. 1968 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)). Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^3-5]: Introdotto dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° lug. 1996 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
 #### Art. 3a
 
 [^3a-1]
 
-[^3a-1]: Introdotto dal n. I della LF del 24 mar. 1995 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)). Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^3a-1]: Introdotto dalla cifra I della LF del 24 mar. 1995 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)). Abrogato dalla cifra I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 ## Capitolo 1*a*: Prevenzione, terapia e riduzione dei danni
 
 [^chap1a-1]
 
-[^chap1a-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^chap1a-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 ### Sezione 1: Prevenzione
 
@@ -209,7 +209,7 @@ Per le cure basate sulla prescrizione di eroina è necessaria un’autorizzazion
 
 [^3f-1]
 
-[^3f-1]: Abrogato dal n. I della LF del 19 mar. 2021, con effetto dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^3f-1]: Abrogato dalla cifra II della LF del 19 mar. 2021, con effetto dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385), [491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ### Sezione 3: Riduzione dei danni e aiuto alla sopravvivenza
 
@@ -254,7 +254,7 @@ Nel quadro della legge del 7 ottobre 1983[^3j-1] sulla ricerca, la Confederazion
 - d. prevenzione o riduzione delle turbe legate alla dipendenza;
 - e. efficacia delle misure di reinserimento.
 
-[^3j-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)n. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [RU 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57]. Vedi ora la LF del 14 dic. 2012 sulla promozione della ricerca e dell’innovazione ([RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
+[^3j-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)cifra I n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [RU 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57]. Vedi ora la LF del 14 dic. 2012 sulla promozione della ricerca e dell’innovazione ([RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
 
 #### Art. 3k
 
@@ -280,10 +280,10 @@ La Confederazione elabora, in collaborazione con i Cantoni, raccomandazioni rela
 
 <sup>2</sup> Il Consiglio federale fissa la forma, il contenuto e la durata di queste autotizzazioni[^4-4], come pure le condizioni per la loro concessione, estinzione e revoca.
 
-[^4-1]: Introdotta dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^4-2]: Nuova espr. giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-3]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^4-4]: Nuova espr. giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^4-1]: Introdotta dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^4-2]: Nuova espr. giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^4-4]: Nuova espr. giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 5
 
@@ -295,8 +295,8 @@ La Confederazione elabora, in collaborazione con i Cantoni, raccomandazioni rela
 
 <sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^5-4] esercita, insieme con l’Istituto, il controllo sul transito degli stupefacenti.
 
-[^5-1]: Introdotta dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^5-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^5-1]: Introdotta dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^5-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-3]: Introdotto dall’art. 3 n. 9 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. f).
 [^5-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
@@ -308,8 +308,8 @@ La Confederazione elabora, in collaborazione con i Cantoni, raccomandazioni rela
 
 <sup>2</sup> Esso può delegare detta facoltà al Dipartimento federale dell’interno che la esercita sotto la sua alta vigilanza.
 
-[^6-1]: Introdotta dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^6-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^6-1]: Introdotta dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^6-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 7
 
@@ -321,7 +321,7 @@ La Confederazione elabora, in collaborazione con i Cantoni, raccomandazioni rela
 
 <sup>3</sup> Il Dipartimento federale dell’interno tiene un elenco di tali sostanze e preparati
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 8
 
@@ -355,17 +355,17 @@ Se non vi ostano convenzioni internazionali, l’Ufficio federale della sanità 
 
 <sup>8</sup> L’UFSP[^8-10] può rilasciare autorizzazioni eccezionali in quanto le sostanze di cui ai capoversi 1 e 3 siano utilizzate per misure di lotta contro gli stupefacenti.[^8-11]
 
-[^8-1]: Introdotta dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
-[^8-4]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
-[^8-5]: Abrogato dal n. I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
-[^8-6]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
-[^8-7]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
-[^8-8]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 I 1161](https://fedlex.data.admin.ch/eli/fga/1998/1_1607_1321_1161)). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
-[^8-9]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
-[^8-10]: Nuova espr. giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^8-11]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-1]: Introdotta dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-4]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^8-5]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^8-6]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^8-7]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-8]: Introdotto dalla cifra I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 I 1161](https://fedlex.data.admin.ch/eli/fga/1998/1_1607_1321_1161)). Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-9]: Introdotto dalla cifra I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-10]: Nuova espr. giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-11]: Introdotto dalla cifra I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 8a
 
@@ -384,7 +384,7 @@ L’UFSP, dopo avere consultato i Cantoni e i Comuni interessati, può autorizza
 
 <sup>3</sup> Gli stupefacenti che producono effetti del tipo della canapa dispensati nel quadro di progetti pilota sono esentati dall’imposta sul tabacco secondo l’articolo 4 della legge del 21 marzo 1969[^8a-2] sull’imposizione del tabacco.
 
-[^8a-1]: Introdotto giusta il n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 15 mag. 2021 al 14 mag. 2031 ([RU 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [FF 2019 2187](https://fedlex.data.admin.ch/eli/fga/2019/721)).
+[^8a-1]: Introdotto giusta la cifra I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 15 mag. 2021 al 14 mag. 2031 ([RU 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [FF 2019 2187](https://fedlex.data.admin.ch/eli/fga/2019/721)).
 [^8a-2]: [RS 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
 
 #### Art. 8b
@@ -413,7 +413,7 @@ L’UFSP mette i risultati dell’analisi statistica a disposizione:
 - b. dei medici coinvolti nel trattamento;
 - c. delle strutture di ricerca interessate.
 
-[^8b-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 al 31 lug. 2029 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8b-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 al 31 lug. 2029 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ### Sezione 2: Professioni sanitarie
 
@@ -434,10 +434,10 @@ L’UFSP mette i risultati dell’analisi statistica a disposizione:
 [^9-1]: O del 14 nov. 2018 sull’autorizzazione dei medicamenti ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
 [^9-2]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^9-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^9-4]: Nuovo testo giusta il n. II 1 della LF del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2015 2257](https://fedlex.data.admin.ch/eli/fga/2015/544)).
-[^9-5]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^9-6]: Introdotto dal n. I della LF del 18 dic. 1968 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)). Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^9-7]: Abrogato dal n. II 1 della LF del 20 mar. 2015, con effetto dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2015 2257](https://fedlex.data.admin.ch/eli/fga/2015/544)).
+[^9-4]: Nuovo testo giusta la cifra II n. 1 della LF del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2015 2257](https://fedlex.data.admin.ch/eli/fga/2015/544)).
+[^9-5]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^9-6]: Introdotto dalla cifra I della LF del 18 dic. 1968 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)). Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^9-7]: Abrogato dalla cifra II n. 1 della LF del 20 mar. 2015, con effetto dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2015 2257](https://fedlex.data.admin.ch/eli/fga/2015/544)).
 
 #### Art. 10
 
@@ -458,8 +458,8 @@ L’UFSP mette i risultati dell’analisi statistica a disposizione:
 
 <sup>2</sup> I capoversi 1 e 1<sup>bis</sup> si applicano anche ai dentisti per quanto concerne l’uso e la dispensazione di stupefacenti.[^11-2]
 
-[^11-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^11-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^11-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^11-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 12
 
@@ -470,7 +470,7 @@ L’UFSP mette i risultati dell’analisi statistica a disposizione:
 <sup>3</sup> È riservato l’articolo 54 del Codice penale svizzero[^12-3].
 
 [^12-1]: Definizione: O del 14 nov. 2018 sull’autorizzazione dei medicamenti ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
-[^12-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^12-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^12-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Vedi anche l’art. 321<sup>bis</sup>.
 
 #### Art. 13
@@ -487,14 +487,14 @@ I farmacisti possono dispensare stupefacenti al pubblico soltanto verso presenta
 
 <sup>3</sup> È riservato l’articolo 8.[^14-2]
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^14-2]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^14-2]: Introdotto dalla cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 
 ### Sezione 3*a*: Organizzazioni e autorità
 
 [^chap2-sec3a-1]
 
-[^chap2-sec3a-1]: Introdotto dal n. I della LF del 18 dic. 1968 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^chap2-sec3a-1]: Introdotto dalla cifra I della LF del 18 dic. 1968 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)). Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 14a
 
@@ -510,13 +510,13 @@ I farmacisti possono dispensare stupefacenti al pubblico soltanto verso presenta
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^15-1]: Abrogato dalla cifra I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 15a a 15c
 
 [^15a15c-1]
 
-[^15a15c-1]: Introdotti dal n. I della LF del 20 mar. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106). Abrogati dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^15a15c-1]: Introdotti dalla cifra I della LF del 20 mar. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106). Abrogati dalla cifra I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 ## Capitolo 3: Controllo
 
@@ -526,7 +526,7 @@ I farmacisti possono dispensare stupefacenti al pubblico soltanto verso presenta
 
 Per ogni fornitura di stupefacenti dev’essere allestito un bollettino di consegna da rimettere al destinatario con la merce. La fornitura dev’essere annunciata a Swissmedic mediante una notificazione separata. La presente disposizione non è applicabile agli operatori sanitari[^16-2] che dispensano stupefacenti destinati alla cura di persone e animali o ne forniscono ai medici praticanti nel Cantone che non dispensano essi stessi stupefacenti.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^16-2]: Definizione: O del 14 nov. 2018 sull’autorizzazione dei medicamenti ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
 
 #### Art. 17
@@ -541,10 +541,10 @@ Per ogni fornitura di stupefacenti dev’essere allestito un bollettino di conse
 
 <sup>5</sup> Il Consiglio federale emana disposizioni su la detenzione e designazione degli stupefacenti, la propaganda in merito e le indicazioni figuranti nei prospetti d’imballaggio.[^17-4]
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
-[^17-2]: Nuovo testo giusta l’all. n. II 3 della LF del 15 dic. 2000 sugli agenti terapeutici, in vigore dal 1° gen. 2002 ([RU 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); [FF 1999 III 2959](https://fedlex.data.admin.ch/eli/fga/1999/1_3453_3151_2959)).
-[^17-3]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^17-4]: Introdotto dal n. I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
+[^17-2]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 15 dic. 2000 sugli agenti terapeutici, in vigore dal 1° gen. 2002 ([RU 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); [FF 1999 III 2959](https://fedlex.data.admin.ch/eli/fga/1999/1_3453_3151_2959)).
+[^17-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^17-4]: Introdotto dalla cifra I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13;[FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 
 #### Art. 18
 
@@ -552,7 +552,7 @@ Per ogni fornitura di stupefacenti dev’essere allestito un bollettino di conse
 
 <sup>2</sup> I funzionari della Confederazione e dei Cantoni incaricati della vigilanza sul traffico degli stupefacenti sono tenuti al segreto, senza limite di tempo, conformemente all’articolo 320 del Codice penale svizzero[^18-2].
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 [^18-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Vedi anche l’art. 321<sup>bis</sup>.
 
 ## Capitolo 3*a*: Protezione e trattamento dei dati
@@ -560,13 +560,13 @@ Per ogni fornitura di stupefacenti dev’essere allestito un bollettino di conse
 [^chap3a-1][^chap3a-2]
 
 [^chap3a-1]: Introdotto dall’art. 3 n. 9 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. f).
-[^chap3a-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^chap3a-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
-### Sezione 1: [Protezione dei dati nell’ambito degli Accordi di associazione alla normativa di Schengen](https://www.admin.ch/opc/it/classified-compilation/19981989/index.html)
+### Sezione 1: Protezione dei dati nell’ambito degli Accordi di associazione alla normativa di Schangen
 
 [^chap3a-sec1-1]
 
-[^chap3a-sec1-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^chap3a-sec1-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18a
 
@@ -586,21 +586,22 @@ La comunicazione di dati personali alle autorità competenti di Stati vincolati 
 
 **Diritto d’accesso**
 
-Il diritto d’accesso è retto dalle disposizioni federali o cantonali in materia di protezione dei dati.[^18c-1] Il detentore della collezione di dati fornisce inoltre le informazioni di cui dispone sull’origine dei dati.
+Il diritto d’accesso è retto dalle disposizioni federali o cantonali in materia di protezione dei dati.[^18c-1] ...[^18c-2]
 
 [^18c-1]: Nuovo testo giusta il n. 7 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, in vigore dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^18c-2]: Per. abrogato dall’all. 1 cifra II n. 73 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 2: Trattamento dei dati
 
 [^chap3a-sec2-1]
 
-[^chap3a-sec2-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^chap3a-sec2-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18d
 
 **In relazione alla cura di tossicomani**[^18d-1]
 
-<sup>1</sup> Le autorità e le istituzioni competenti per l’esecuzione della presente legge hanno il diritto di trattare dati personali, dati personali degni di particolare protezione e profili della personalità allo scopo di verificare le condizioni e l’andamento delle cure prestate a tossicomani.
+<sup>1</sup> Le autorità e le istituzioni competenti per l’esecuzione della presente legge hanno il diritto di trattare dati personali, inclusi dati personali degni di particolare protezione, allo scopo di verificare le condizioni e l’andamento delle cure prestate a tossicomani.[^18d-2]
 
 <sup>2</sup> Garantiscono la protezione dei dati di cui al capoverso 1 mediante misure tecniche e organizzative.
 
@@ -613,7 +614,8 @@ Il Consiglio federale definisce i dettagli, in particolare:
 - c. i flussi di dati;
 - d. i diritti d’accesso.
 
-[^18d-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^18d-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^18d-2]: Nuovo testo giusta la cifra II della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385), [491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18e
 
@@ -634,7 +636,7 @@ Il Consiglio federale stabilisce:
 - a. i dati che possono essere trattati;
 - b. i termini di conservazione dei dati.
 
-[^18e-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^18e-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18f
 
@@ -657,7 +659,7 @@ Il Consiglio federale stabilisce:
 
 <sup>4</sup> Può stabilire che non debbano più essere rilevati dati se per la valutazione scientifica di cui all’articolo 8*b* capoverso 2 non sono più necessari nuovi dati.
 
-[^18f-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 al 31 lug. 2029 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^18f-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 al 31 lug. 2029 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ## Capitolo 4: Disposizioni penali
 
@@ -665,7 +667,7 @@ Il Consiglio federale stabilisce:
 
 [^chap4-sec1-1]
 
-[^chap4-sec1-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° ott. 2013 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)).
+[^chap4-sec1-1]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° ott. 2013 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)).
 
 #### Art. 19
 
@@ -701,8 +703,8 @@ Il giudice può attenuare la pena secondo il suo libero apprezzamento:
 
 <sup>4</sup> È altresì punibile in virtù delle disposizioni di cui ai capoversi 1 e 2 chiunque ha commesso l’atto all’estero, si trova in Svizzera e non è estradato, sempreché l’atto sia punibile anche nel luogo in cui è stato commesso. Si applica però la legge di tale luogo se è più favorevole all’autore. L’articolo 6 del Codice penale[^19-3] è applicabile.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^19-2]: Nuovo testo giusta il n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^19-2]: Nuovo testo giusta la cifra I n. 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^19-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 19<sup>bis</sup>
@@ -711,7 +713,7 @@ Il giudice può attenuare la pena secondo il suo libero apprezzamento:
 
 È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, senza indicazione medica, offre, fornisce o rende accessibili in altro modo stupefacenti a una persona di età inferiore ai 18 anni.
 
-[^19bis-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^19bis-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 19a
 
@@ -725,10 +727,10 @@ Il giudice può attenuare la pena secondo il suo libero apprezzamento:
 
 <sup>4.</sup> Se l’autore è tossicomane, il giudice può ordinare il collocamento in una struttura specializzata. Gli articoli 60 e 63 del Codice penale[^19a-3] si applicano per analogia.[^19a-4]
 
-[^19a-1]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^19a-1]: Introdotto dalla cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 [^19a-2]: Nuova espr. giusta l’all. n. 3 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 1999 II 1669](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^19a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19a-4]: Nuovo testo giusta il n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19a-4]: Nuovo testo giusta la cifra I n. 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 19b
 
@@ -738,8 +740,8 @@ Il giudice può attenuare la pena secondo il suo libero apprezzamento:
 
 <sup>2</sup> Per esigua quantità si intendono 10 grammi di uno stupefacente che produce effetti del tipo della canapa.[^19b-2]
 
-[^19b-1]: Introdotto dal n. I della LF del 20 mar. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^19b-2]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° ott. 2013 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)).
+[^19b-1]: Introdotto dalla cifra I della LF del 20 mar. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106). Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^19b-2]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° ott. 2013 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)).
 
 #### Art. 19c
 
@@ -747,7 +749,7 @@ Il giudice può attenuare la pena secondo il suo libero apprezzamento:
 
 Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitamente stupefacenti, è punito con la multa.
 
-[^19c-1]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^19c-1]: Introdotto dalla cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 
 #### Art. 20
 
@@ -765,10 +767,10 @@ Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitam
 
 <sup>2</sup> L’autore è punito con una pena detentiva non inferiore a un anno se, trafficando per mestiere, realizza una grossa cifra d’affari o un guadagno considerevole. ...[^20-4]
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^20-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^20-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 [^20-3]: Definizione: O del 14 nov. 2018 sull’autorizzazione dei medicamenti ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
-[^20-4]: Per. abrogato dal n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^20-4]: Per. abrogato dalla cifra I n. 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 21
 
@@ -783,9 +785,9 @@ Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitam
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^21-3]
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^21-2]: Nuovo testo giusta il n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^21-3]: Nuovo testo giusta il n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^21-2]: Nuovo testo giusta la cifra I n. 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^21-3]: Nuovo testo giusta la cifra I n. 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 22
 
@@ -798,7 +800,7 @@ Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitam
 - c. viola gli obblighi di deposito e di conservazione;
 - d. contravviene a una disposizione di esecuzione del Consiglio federale o del dipartimento competente la cui violazione è dichiarata punibile oppure a una decisione notificatagli sotto comminatoria della pena prevista nel presente articolo.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 23
 
@@ -808,7 +810,7 @@ Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitam
 
 <sup>2</sup> Il funzionario incaricato di combattere il traffico illecito di stupefacenti che, a fini d’inchiesta, accetta un’offerta di stupefacenti non è punibile neppure qualora non riveli la sua identità e la sua funzione.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 [^23-2]: Nuovo testo giusta l’art. 24 n. 2. della LF del 20 giu. 2003 sull’inchiesta mascherata, in vigore dal 1° gen. 2005 ([RU 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [FF 1998 III 3319](https://fedlex.data.admin.ch/eli/fga/1998/3___3319)).
 
 #### Art. 24
@@ -819,16 +821,16 @@ Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitam
 
 <sup>2</sup> Le autorità competenti mettono al sicuro gli stupefacenti loro affidati in esecuzione della presente legge e provvedono a utilizzarli o a distruggerli.[^24-4]
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 [^24-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^24-3]: Nuovo testo del per. giusta l’all. 1 n. II 27 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^24-4]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^24-3]: Nuovo testo del per. giusta l’all. 1 cifra II n. 27 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^24-4]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 25
 
 [^25-1]
 
-[^25-1]: Abrogato dal n. I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^25-1]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 
 #### Art. 26
 
@@ -844,18 +846,18 @@ In mancanza di prescrizioni della presente legge, sono applicabili le disposizio
 
 <sup>2</sup> In caso di importazione, esportazione o transito non autorizzati di stupefacenti secondo l’articolo 19, le disposizioni penali della legge del 18 marzo 2005[^27-5] sulle dogane e dell’ordinanza del 29 marzo 2000[^27-6] relativa alla legge federale concernente l’imposta sul valore aggiunto non sono applicabili.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^27-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^27-3]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^27-4]: Nuovo testo giusta l’all. n. II 4 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^27-4]: Nuovo testo giusta l’all. cifra II n. 4 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^27-5]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^27-6]: [[RU 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 24, [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 9. [RU 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)art. 163]. Vedi ora l’O del 27 nov. 2009 ([RS 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)).
+[^27-6]: [[RU 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 24, [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 9. [RU 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)art. 163]. Vedi ora l’O del 27 nov. 2009 ([RS 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)).
 
 ### Sezione 2: Perseguimento penale
 
 [^chap4-sec2-1]
 
-[^chap4-sec2-1]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Nuovo testo giusta l’all. n. II 3 della LF del 18 mar. 2016 sulle multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
+[^chap4-sec2-1]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Nuovo testo giusta l’all. cifra II n. 3 della LF del 18 mar. 2016 sulle multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
 #### Art. 28
 
@@ -867,7 +869,7 @@ In mancanza di prescrizioni della presente legge, sono applicabili le disposizio
 
 <sup>3</sup> Le sentenze, i decreti penali e le decisioni di abbandono pronunciati nei casi di cui all’articolo 19 capoverso 2 devono essere immediatamente comunicati, nel loro testo integrale, all’Ufficio federale di polizia se l’accusa ha chiesto una pena detentiva senza sospensione condizionale.
 
-[^28-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^28-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^28-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 28a
@@ -876,20 +878,20 @@ In mancanza di prescrizioni della presente legge, sono applicabili le disposizio
 
 Le infrazioni di cui agli articoli 20–22 accertate nell’ambito di esecuzione della Confederazione dalla competente autorità federale sono perseguite e giudicate da quest’ultima. La procedura è retta dalla legge federale del 22 marzo 1974[^28a-2] sul diritto penale amministrativo.
 
-[^28a-1]: Introdotto dal n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^28a-1]: Introdotto dalla cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^28a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 28b a 28l
 
 [^28b28l-1]
 
-[^28b28l-1]: Introdotti dal n. I della LF del 28 set. 2012 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Abrogati dall’all. n. II 3 della LF del 18 mar. 2016 sulle multe disciplinari, con effetto dal 1° gen. 2020 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
+[^28b28l-1]: Introdotti dalla cifra I della LF del 28 set. 2012 ([RU 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7269](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7295](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Abrogati dall’all. cifra II n. 3 della LF del 18 mar. 2016 sulle multe disciplinari, con effetto dal 1° gen. 2020 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
 ## Capitolo 5: Compiti dei Cantoni e della Confederazione
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^chap5-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 ### Sezione 1: Compiti della Confederazione
 
@@ -903,7 +905,7 @@ Le infrazioni di cui agli articoli 20–22 accertate nell’ambito di esecuzione
 
 <sup>4</sup> ...[^29-1]
 
-[^29-1]: Abrogato dal n. I della LF del 19 mar. 2021, con effetto dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^29-1]: Abrogato dalla cifra I della LF del 19 mar. 2021, con effetto dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 29a
 
@@ -915,7 +917,7 @@ Le infrazioni di cui agli articoli 20–22 accertate nell’ambito di esecuzione
 
 <sup>4</sup> Swissmedic presenta rapporto conformemente alle convenzioni internazionali.
 
-[^29a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^29a-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 29b
 
@@ -943,7 +945,7 @@ L’Ufficio federale di polizia adempie i compiti seguenti:
 <sup>4</sup> All’assunzione di prove nell’ambito dell’assistenza giudiziaria internazionale in procedimenti penali riguardanti stupefacenti si applicano le pertinenti disposizioni del Codice di procedura penale del 5 ottobre 2007[^29b-3].
 
 [^29b-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^29b-2]: Nuovo testo giusta l’all. n. II 5 della LF del 17 dic. 2010 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [FF 2009 4493](https://fedlex.data.admin.ch/eli/fga/2009/917)).
+[^29b-2]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 17 dic. 2010 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [FF 2009 4493](https://fedlex.data.admin.ch/eli/fga/2009/917)).
 [^29b-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 29c
@@ -993,25 +995,25 @@ I Cantoni emanano le disposizioni necessarie per l’esecuzione del diritto fede
 
 <sup>3</sup> Nel rilasciare autorizzazioni a organizzazioni, istituzioni e autorità ai sensi dell’articolo 14*a*, il Consiglio federale definisce, caso per caso, le attribuzioni, le condizioni da adempiere per il loro esercizio e le modalità di controllo. Se necessario, nel disciplinare il controllo può emanare disposizioni deroganti alla legge.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 31 a 34
 
 [^3134-1]
 
-[^3134-1]: Abrogati dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^3134-1]: Abrogati dalla cifra I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 35
 
 [^35-1]
 
-[^35-1]: Abrogato dal n. I della LF de1 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
+[^35-1]: Abrogato dalla cifra I della LF de1 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 
 #### Art. 36
 
 [^36-1]
 
-[^36-1]: Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^36-1]: Abrogato dalla cifra I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 36a
 
@@ -1021,13 +1023,11 @@ I Cantoni emanano le disposizioni necessarie per l’esecuzione del diritto fede
 
 <sup>2</sup> Fino a quando l’autorizzazione eccezionale di cui al capoverso 1 rimane valida, non è necessaria alcuna autorizzazione di Swissmedic secondo l’articolo 4.
 
-[^36a-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^36a-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 37
 
-<sup>1</sup> Il Consiglio federale fissa la data dell’entrata in vigore della presente legge.
-
-<sup>2</sup> A contare dalla sua entrata in vigore, sono abrogate la legge federale del 2 ottobre 1924[^37-1] sui prodotti stupefacenti, come pure le disposizioni contrarie delle leggi e ordinanze federali e cantonali.
+<sup>1</sup> Il Consiglio federale fissa la data dell’entrata in vigore della presente legge.<sup>2</sup> A contare dalla sua entrata in vigore, sono abrogate la legge federale del 2 ottobre 1924[^37-1] sui prodotti stupefacenti, come pure le disposizioni contrarie delle leggi e ordinanze federali e cantonali.
 
 Data dell’entrata in vigore: 1° giugno 1952[^37-2]
 
