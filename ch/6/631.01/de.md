@@ -4,11 +4,11 @@ title: Zollverordnung vom 1. November 2006 (ZV)
 short: ZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/de"
 
 (ZV)
 
-vom 1. November 2006 (Stand am 1. Juni 2022)
+vom 1. November 2006 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -972,7 +972,7 @@ Wer über nach Artikel 7 der Verordnung vom 7. Dezember 1998[^55-1] über die Ei
 
 <sup>1</sup> Mit der Zollanmeldung muss zusätzlich eine Übersicht über die einzelnen Lagerorte der zu Beginn der Bewirtschaftungsperiode nach Artikel 7 VEAGOG[^57-1] auf Handelsstufe noch vorhandenen landwirtschaftlichen Erzeugnisse mit genauer Ortsangabe, Warenbezeichnung, Zolltarifnummer und Eigenmasse eingereicht werden.
 
-<sup>2</sup> ...[^57-2]
+<sup>2</sup> …[^57-2]
 
 [^57-1]: [SR 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
 [^57-2]: Aufgehoben durch Ziff. II der V vom 14. Nov. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
@@ -1830,7 +1830,7 @@ Das Verfahren des zugelassenen Empfangs findet Anwendung auf Waren, die im Trans
 
 <sup>4</sup> Lässt die Kontrollzollstelle die Interventionszeit ungenutzt verstreichen, so gelten die Waren als freigegeben.
 
-### 3*a*. Abschnitt:**** Bestimmungen über zugelassene Wirtschaftsbeteiligte
+### 3*a*. Abschnitt: Bestimmungen über zugelassene Wirtschaftsbeteiligte
 
 [^tit2-chap3-sec3a-1]
 
@@ -2134,7 +2134,7 @@ Es nimmt eine erneute Überprüfung insbesondere dann vor, wenn:
 - a. sich die Rechtsgrundlagen massgebend ändern; oder
 - b. ein begründeter Verdacht vorliegt, dass der AEO die Voraussetzungen und Kriterien nicht mehr erfüllt.
 
-<sup>3</sup> ...[^112q-2]
+<sup>3</sup> …[^112q-2]
 
 [^112q-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112q-2]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -2188,7 +2188,7 @@ Das BAZG widerruft den AEO-Status, wenn eine Person nach Artikel 112*d*:
 
 [^112s-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
-### 3*b*. Abschnitt:**** Summarische Ein -und Ausgangsanmeldung zu Sicherheitszwecken
+### 3*b*. Abschnitt: Summarische Ein -und Ausgangsanmeldung zu Sicherheitszwecken
 
 [^tit2-chap3-sec3b-1]
 
@@ -2238,7 +2238,7 @@ Die Zollstelle stellt im Reiseverkehr die Veranlagungsverfügung nur für abgabe
 
 ### 5. Abschnitt: Periodische Sammelanmeldung
 
-### ...
+### …
 
 [^tit2-chap3-sec5-1]
 
@@ -2603,7 +2603,7 @@ Im Linienluftverkehr kann die Anmeldung zum Transitverfahren im Zollgebiet auf G
 
 [^145150-1]: Aufgehoben durch Ziff. I der V vom 27. Juni 2012, mit Wirkung seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
-### 11. Abschnitt : Passagier- und Warenlisten****
+### 11. Abschnitt : Passagier- und Warenlisten
 
 [^tit2-chap3-sec11-1]
 
@@ -2963,7 +2963,7 @@ Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss bei der in der Bewil
 
 <sup>3</sup> Das EFD kann Verfahrenserleichterungen vorsehen.
 
-### 6. Abschnitt: Ausfuhrverfahren****
+### 6. Abschnitt: Ausfuhrverfahren
 
 [^tit2-chap4-sec6-1]
 
@@ -3667,7 +3667,7 @@ Der Nachweis der vollständigen oder teilweisen Vernichtung kann erbracht werden
 
 ### 4. Kapitel: Zollpfandverwertung und Verwertung von Wertpapieren
 
-### ...
+### …
 
 [^tit3-chap4-1]
 
@@ -3787,7 +3787,7 @@ Das BAZG kann im Ausland eigene Verbindungsleute einsetzen und mit folgenden Auf
 - b. dem Austausch dieser Informationen mit den Partnerbehörden im Empfangsstaat sowie weiteren Behörden;
 - c. der Förderung der polizeilichen und justiziellen Zusammenarbeit.
 
-<sup>2</sup> ...[^221f-2]
+<sup>2</sup> …[^221f-2]
 
 [^221f-1]: Eingefügt durch Ziff. I 3 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 [^221f-2]: Aufgehoben durch Ziff. I 11 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
@@ -3875,24 +3875,18 @@ Es kann die Personalien und die Identität der Person mit Gesichtsbild, Augenfar
 Es kann die Daten über die Identität einer Person durch Abnahme biometrischer Daten festhalten oder ergänzen:
 
 - a.[^226-2] in den Fällen von Artikel 103 Absatz 1 Buchstaben a und b ZG durch daktyloskopische Daten; die Bearbeitung der Daten richtet sich nach der Verordnung vom 6. Dezember 2013[^226-3] über die Bearbeitung biometrischer erkennungsdienstlicher Daten;
-- b.
+- b.[^226-4] in den Fällen von Artikel 103 Absatz 1 Buchstabe a ZG durch Gesichtsbilder; die Bearbeitung der Daten richtet sich nach der Datenbearbeitungsverordnung für das BAZG vom 23. August 2017[^226-5].
 
-  in den Fällen von Artikel 103 Absatz 1 Buchstabe a ZG durch:
-
-  - 1\. ein DNA-Profil: die Bearbeitung richtet sich nach dem DNA-Profil-Gesetz vom 20. Juni 2003[^226-4],
-  - 2\.[^226-5] Gesichtsbilder: die Bearbeitung richtet sich nach der Datenbearbeitungsverordnung EZV vom 4. April 2007[^226-6].
-
-<sup>4</sup> Sie muss die erhobenen Daten löschen, sobald die Daten in der entsprechenden Datenbank nach Absatz 3 gespeichert worden sind.[^226-7]
+<sup>4</sup> Sie muss die erhobenen Daten löschen, sobald die Daten in der entsprechenden Datenbank nach Absatz 3 gespeichert worden sind.[^226-6]
 
 <sup>5</sup> Erhebt das BAZG biometrische Daten nach Absatz 3, ohne ermittelnde Behörde zu sein, ist es verpflichtet, die Löschungsanträge für diese Daten zu stellen, sobald dies nach den massgeblichen nichtzollrechtlichen Erlassen erforderlich ist.
 
 [^226-1]: Eingefügt durch Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-2]: Fassung gemäss Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-3]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^226-4]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^226-5]: Fassung gemäss Art. 14 der Datenbearbeitungsverordnung EZV vom 4. April 2007, in Kraft seit 1. Mai 2007 ([AS 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258)).
-[^226-6]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
-[^226-7]: Fassung gemäss Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-4]: Fassung gemäss Anhang 2 Ziff. II 69 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^226-5]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^226-6]: Fassung gemäss Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 227
 
@@ -4285,7 +4279,7 @@ Als persönliche Gebrauchsgegenstände gelten:
 - 22\. Zwei Jagd- oder Sportwaffen bzw. eine Jagd- und eine Sportwaffe mit der dazugehörigen Munition
 - 23\. Andere Gegenstände, die offensichtlich persönlicher Natur sind
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 182 Abs. 2)
 
@@ -4295,7 +4289,7 @@ Anhang 2*[^t-1]*
 
 Als sensible Waren gelten:
 
-- 1\. ...
+- 1\. …
 - 2\. Tiere und Pflanzen, Teile solcher Tiere und Pflanzen sowie Erzeugnisse, die daraus hergestellt sind, nach Artikel 1 der Verordnung vom 4. September 2013[^annex2-lvlu1-1] über den Verkehr mit Tieren und Pflanzen geschützter Arten
 - 3\. Kriegsmaterial nach Artikel 5 des Kriegsmaterialgesetzes vom 13. Dezember 1996[^annex2-lvlu1-2]
 - 4\. Waffen, Waffenzubehör und Munition nach Artikel 4 des Waffengesetzes vom 20. Juni 1997[^annex2-lvlu1-3]
@@ -4395,11 +4389,11 @@ Anhang 4
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex4-lvlu1-1]
+…[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Die Änderungen können unter [AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)konsultiert werden.
 
-Anhang 5*[^t-2]*
+Anhang 5[^t-2]
 
 (Art. 112*h* Abs. 2)
 
@@ -4451,4 +4445,4 @@ Anhang 6[^t-3]
 <tr><td>1104.3089</td><td>Keime von Weizen, Roggen und Mengkorn</td></tr>
 </table>
 
-**Milchgrundstoffe und Getreidegrundstoffe, für die das Bewilligungsverfahren nach Artikel 165***a* **gilt Anhang 6**
+**Milchgrundstoffe und Getreidegrundstoffe, für die das Bewilligungsverfahren nach Artikel 165***a* **gilt** **Anhang 6**

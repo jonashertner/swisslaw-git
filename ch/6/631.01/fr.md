@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)"
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: fr
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/fr"
 
 (OD)
 
-du 1<sup>er</sup> novembre 2006 (Etat le 1<sup>er</sup> juin 2022)
+du 1<sup>er</sup> novembre 2006 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1823,7 +1823,7 @@ La procédure du destinataire agréé est applicable aux marchandises qui sont c
 
 <sup>4</sup> Si le bureau de contrôle laisse expirer le délai d’intervention sans le mettre à profit, les marchandises sont réputées libérées.
 
-### Section 3*a***** Dispositions relatives aux opérateurs économiques agréés
+### Section 3*a* Dispositions relatives aux opérateurs économiques agréés
 
 [^tit2-chap3-sec3a-1]
 
@@ -2178,7 +2178,7 @@ L’OFDF révoque le statut d’AEO lorsqu’une personne visée à l’art. 112
 
 [^112s-1]: Introduit par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
-### Section 3*b***** Déclaration sommaire d’entrée et de sortie à des fins de sécurité
+### Section 3*b* Déclaration sommaire d’entrée et de sortie à des fins de sécurité
 
 [^tit2-chap3-sec3b-1]
 
@@ -2593,7 +2593,7 @@ Dans le trafic aérien de ligne, la déclaration pour le régime du transit sur 
 
 [^145150-1]: Abrogés par le ch. I de l’O du 27 juin 2012, avec effet au 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
-### Section 11 Listes de passagers et de marchandises****
+### Section 11 Listes de passagers et de marchandises
 
 [^tit2-chap3-sec11-1]
 
@@ -2953,7 +2953,7 @@ Le titulaire de l’autorisation doit:
 
 <sup>3</sup> Le DFF peut prévoir des facilités de procédure.
 
-### Section 6 Régime de l’exportation****
+### Section 6 Régime de l’exportation
 
 [^tit2-chap4-sec6-1]
 
@@ -3866,24 +3866,18 @@ Il peut constater l’identité de la personne en se fondant sur la physionomie,
 Il peut consigner ou compléter les données relatives à l’identité d’une personne en recueillant des données biométriques:
 
 - a. dans les cas visés à l’art. 103, al. 1, let. a et b, LD, au moyen des données dactyloscopiques; le traitement des données est régi par l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^226-2];[^226-3]
-- b.
+- b.[^226-4] dans les cas visés à l’art. 103, al. 1, let. a, LD, au moyen d’images du visage: le traitement des données est régi par l’ordonnance du 23 août 2017 sur le traitement des données dans l’OFDF[^226-5].
 
-  dans les cas visés à l’art. 103, al. 1, let. a, LD, au moyen:
-
-  - 1\. d’un profil d’ADN: le traitement des données est régi par la loi du 20 juin 2003 sur les profils d’ADN[^226-4],
-  - 2\.[^226-5] d’images du visage: le traitement des données est régi par l’ordonnance du 4 avril 2007 sur le traitement des données OFDF[^226-6].
-
-<sup>4</sup> Il doit effacer les données recueillies dès que les données ont été sauvegardées dans les banques de données visées à l’al. 3.[^226-7]
+<sup>4</sup> Il doit effacer les données recueillies dès que les données ont été sauvegardées dans les banques de données visées à l’al. 3.[^226-6]
 
 <sup>5</sup> Si l’OFDF recueille des données biométriques visées à l’al. 3 sans être autorité d’enquête, il est tenu de présenter les demandes d’effacement de ces données si cela est nécessaire au sens des actes législatifs autres que douaniers déterminants.
 
 [^226-1]: Introduit par l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-2]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
 [^226-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^226-4]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^226-5]: Nouvelle teneur selon l’art. 14 de l’O du 4 avril 2007 sur le traitement des données AFD, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258)).
-[^226-6]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
-[^226-7]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-4]: Nouvelle teneur selon l’annexe 2 ch. II 69 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^226-5]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^226-6]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 227
 
@@ -4276,7 +4270,7 @@ Sont réputés effets personnels:
 - 22\. deux armes de chasse ou de sport ou une arme de chasse et une arme de sport, avec les munitions y afférentes;
 - 23\. d’autres objets de nature manifestement personnelle.
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 182, al. 2)
 
@@ -4357,7 +4351,7 @@ Sont abrogés:
 - 17\. l’ordonnance du 18 mai 2005 sur la compétence de la Direction générale des douanes dans le domaine de la formation professionnelle supérieure pour le personnel de l’OFDF[^annex3-lvlu1-19];
 - 18\. l’arrêté du Conseil fédéral du 31 mai 1966 concernant l’exonération des droits d’entrée grevant les carburants pour les aéronefs qui exécutent des vols non professionnels à destination de l’étranger[^annex3-lvlu1-20].
 
-[^annex3-lvlu1-1]: [RS **6** 517; [RO 1957 1016](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040), [1960 272](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267), [1961 1200](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226), [1965 923](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917), [1972 160](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160), [1973 650](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651), [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949), [1976 2086](https://fedlex.data.admin.ch/eli/oc/1976/_2086_), [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054), [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818), [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 35, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 15, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 ch. 3, [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70)[328](https://fedlex.data.admin.ch/eli/oc/2002/72)annexe 2 ch. 1]
+[^annex3-lvlu1-1]: [RS **6** 517; [RO 1957 1016](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040); [1960 272](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267); [1961 1200](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226); [1965 923](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917); [1972 160](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160); [1973 650](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651); [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949); [1976 2086](https://fedlex.data.admin.ch/eli/oc/1976/_2086_); [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054); [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818); [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 35; [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 15; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 ch. 3; [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70), [328](https://fedlex.data.admin.ch/eli/oc/2002/72)annexe 2 ch. 1]
 [^annex3-lvlu1-2]: [[RO 1999 1300](https://fedlex.data.admin.ch/eli/oc/1999/176)]
 [^annex3-lvlu1-3]: Non publié dans le RO.
 [^annex3-lvlu1-4]: Non publié dans le RO.
@@ -4367,16 +4361,16 @@ Sont abrogés:
 [^annex3-lvlu1-8]: [[RO 1995 1821](https://fedlex.data.admin.ch/eli/oc/1995/1821_1821_1821)]
 [^annex3-lvlu1-9]: [[RO 2002 328](https://fedlex.data.admin.ch/eli/oc/2002/72)]
 [^annex3-lvlu1-10]: [[RO 1960 961](https://fedlex.data.admin.ch/eli/oc/1960/921_961_953), [2002 1365](https://fedlex.data.admin.ch/eli/oc/2002/205)]
-[^annex3-lvlu1-11]: [RS **6** 640; [RO 1972 889](https://fedlex.data.admin.ch/eli/oc/1972/877_889_809), [1978 1913](https://fedlex.data.admin.ch/eli/oc/1978/1913_1913_1913), [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 16]
-[^annex3-lvlu1-12]: [RS **6** 684; [RO 1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3, 4, [1965 1260](https://fedlex.data.admin.ch/eli/oc/1965/1246_1260_1248)]
-[^annex3-lvlu1-13]: [[RO 1950 647](https://fedlex.data.admin.ch/eli/oc/1950/623_647_635), [1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3, [1961 332](https://fedlex.data.admin.ch/eli/oc/1961/326_332_339), [1990 1645](https://fedlex.data.admin.ch/eli/oc/1990/1645_1645_1645), [1998 1533](https://fedlex.data.admin.ch/eli/oc/1998/1533_1533_1533)]
-[^annex3-lvlu1-14]: [[RO 1972 341](https://fedlex.data.admin.ch/eli/oc/1972/337_341_342), [1981 621](https://fedlex.data.admin.ch/eli/oc/1981/621_621_621), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 36, [2002 1366](https://fedlex.data.admin.ch/eli/oc/2002/206)]
+[^annex3-lvlu1-11]: [RS **6** 640; [RO 1972 889](https://fedlex.data.admin.ch/eli/oc/1972/877_889_809); [1978 1913](https://fedlex.data.admin.ch/eli/oc/1978/1913_1913_1913); [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 16]
+[^annex3-lvlu1-12]: [RS **6** 684; [RO 1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3, 4; [1965 1260](https://fedlex.data.admin.ch/eli/oc/1965/1246_1260_1248)]
+[^annex3-lvlu1-13]: [[RO 1950 647](https://fedlex.data.admin.ch/eli/oc/1950/623_647_635); [1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3; [1961 332](https://fedlex.data.admin.ch/eli/oc/1961/326_332_339); [1990 1645](https://fedlex.data.admin.ch/eli/oc/1990/1645_1645_1645); [1998 1533](https://fedlex.data.admin.ch/eli/oc/1998/1533_1533_1533)]
+[^annex3-lvlu1-14]: [[RO 1972 341](https://fedlex.data.admin.ch/eli/oc/1972/337_341_342); [1981 621](https://fedlex.data.admin.ch/eli/oc/1981/621_621_621); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 36; [2002 1366](https://fedlex.data.admin.ch/eli/oc/2002/206)]
 [^annex3-lvlu1-15]: [[RO 1962 1153](https://fedlex.data.admin.ch/eli/oc/1962/1113_1153_1156)]
 [^annex3-lvlu1-16]: [[RO 1958 615](https://fedlex.data.admin.ch/eli/oc/1958/590_615_616)]
 [^annex3-lvlu1-17]: [[RO 1968 378](https://fedlex.data.admin.ch/eli/oc/1968/354_378_378)]
 [^annex3-lvlu1-18]: [[RO 1990 846](https://fedlex.data.admin.ch/eli/oc/1990/846_846_846)]
 [^annex3-lvlu1-19]: [[RO 2005 2205](https://fedlex.data.admin.ch/eli/oc/2005/368)]
-[^annex3-lvlu1-20]: [[RO 1966 781](https://fedlex.data.admin.ch/eli/oc/1966/753_781_773), **1987** 2367]
+[^annex3-lvlu1-20]: [[RO 1966 781](https://fedlex.data.admin.ch/eli/oc/1966/753_781_773); **1987** 2367]
 
 Annexe 4
 
@@ -4390,7 +4384,7 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 [^annex4-lvlu1-1]: Les mod. peuvent être consultées au [RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250).
 
-Annexe 5*[^t-2]*
+Annexe 5[^t-2]
 
 (art. 112*h*, al. 2)
 
@@ -4417,7 +4411,7 @@ Annexe 5*[^t-2]*
 [^annex5-lvlu1-7]: LR 284.0
 [^annex5-lvlu1-8]: LR 170.550
 
-Annexe 6*[^t-3]*
+Annexe 6[^t-3]
 
 (art. 165*a*, al. 1)
 

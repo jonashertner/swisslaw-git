@@ -4,11 +4,11 @@ title: Ordinanza del 1° novembre 2006 sulle dogane (OD)
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/it"
 
 (OD)
 
-del 1° novembre 2006 (Stato 1° giugno 2022)
+del 1° novembre 2006 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -121,7 +121,7 @@ La franchigia doganale per merci destinate ai beneficiari istituzionali e alle p
 [^6-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^6-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
 [^6-3]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
-[^6-4]: Nuovo testo giusta il n. 7 dell’all. dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^6-4]: Nuovo testo giusta l’all. n. 7 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 7
 
@@ -1543,8 +1543,8 @@ Occorre conservare:
 - c.[^96-1] i documenti giustificativi relativi alle prove dell’origine: durante almeno tre anni;
 - d.[^96-2] i dati e documenti negli altri casi, segnatamente la contabilità delle merci e i documenti di fabbricazione concernenti il traffico di perfezionamento e le merci con agevolazioni doganali in funzione dello scopo d’impiego: durante almeno cinque anni.
 
-[^96-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 23 mag. 2012 sul rilascio di prove dell’origine, in vigore dal 1° lug. 2012 ([RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)).
-[^96-2]: Introdotta dal n. 1 dell’all. all’O del 23 mag. 2012 sul rilascio di prove dell’origine, in vigore dal 1° lug. 2012 ([RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)).
+[^96-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 mag. 2012 sul rilascio di prove dell’origine, in vigore dal 1° lug. 2012 ([RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)).
+[^96-2]: Introdotta dall’all. n. 1 dell’O del 23 mag. 2012 sul rilascio di prove dell’origine, in vigore dal 1° lug. 2012 ([RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)).
 
 #### Art. 97
 
@@ -1817,7 +1817,7 @@ La procedura della ricezione autorizzata si applica a merci che sono portate al 
 
 <sup>4</sup> Se l’ufficio doganale di controllo lascia trascorrere il periodo d’intervento inutilizzato, le merci sono considerate liberate.
 
-### Sezione 3*a*:**** Disposizioni concernenti gli operatori economici autorizzati
+### Sezione 3*a*: Disposizioni concernenti gli operatori economici autorizzati
 
 [^tit2-chap3-sec3a-1]
 
@@ -2175,7 +2175,7 @@ L’UDSC revoca la qualifica di AEO se una persona di cui all’articolo 112*d*:
 
 [^112s-1]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
-### Sezione 3*b*:**** Dichiarazione sommaria di entrata e di uscita ai fini della sicurezza
+### Sezione 3*b*: Dichiarazione sommaria di entrata e di uscita ai fini della sicurezza
 
 [^tit2-chap3-sec3b-1]
 
@@ -2548,7 +2548,7 @@ Il personale attivo in aerodromi doganali deve sostenere il personale dell’UDS
 
 <sup>4</sup> L’aeromobile, l’equipaggio, i passeggeri e le merci rimangono sotto la sorveglianza delle autorità locali sino all’arrivo delle istruzioni.
 
-[^142-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
+[^142-1]: Nuovo testo giusta l’all. n. 2 dell’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
 #### Art. 143
 
@@ -2583,7 +2583,7 @@ Nel traffico aereo di linea, la dichiarazione per il regime di transito nel terr
 
 [^145150-1]: Abrogati dal n. I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
-### Sezione 11: Liste di passeggeri e merci****
+### Sezione 11: Liste di passeggeri e merci
 
 [^tit2-chap3-sec11-1]
 
@@ -2943,7 +2943,7 @@ All’organo di sorveglianza designato nell’autorizzazione il titolare dell’
 
 <sup>3</sup> Il DEFR può prevedere agevolazioni procedurali.
 
-### Sezione 6: Regime d’esportazione****
+### Sezione 6: Regime d’esportazione
 
 [^tit2-chap4-sec6-1]
 
@@ -3850,27 +3850,21 @@ Essa può constatare i dati personali e l’identità della persona sulla base d
 
 <sup>3</sup>
 
-Essa può accertare o completare i dati sull’identità di una persona mediante il rilievo di dati biometrici:
+L’AFD può accertare o completare i dati concernenti l’identità di una persona fotografandola o rilevandone dati biometrici se:[^226-3]
 
-- a.[^226-3] nei casi previsti dall’articolo 103 capoverso 1 lettere a e b LD, mediante dati dattiloscopici; il trattamento dei dati è disciplinato dall’ordinanza del 6 dicembre 2013[^226-4] sul trattamento dei dati segnaletici di natura biometrica;
-- b.
-
-  nei casi previsti dall’articolo 103 capoverso 1 lettera a LD mediante:
-
-  - 1\. un profilo del DNA: il trattamento dei dati è disciplinato dalla legge del 20 giugno 2003[^226-5] sui profili del DNA,
-  - 2\.[^226-6] le immagini del viso: il trattamento è disciplinato dall’ordinanza del 4 aprile 2007[^226-7] sul trattamento dei dati UDSC.
-
+- a.[^226-4] nei casi previsti dall’articolo 103 capoverso 1 lettere a e b LD, mediante dati dattiloscopici; il trattamento dei dati è disciplinato dall’ordinanza del 6 dicembre 2013[^226-5] sul trattamento dei dati segnaletici di natura biometrica;
+- b.[^226-6] nei casi previsti dall’articolo 103 capoverso 1 lettera a LD mediante le immagini del viso; il trattamento dei dati è disciplinato dall’ordinanza del 23 agosto 2017[^226-7] sul trattamento dei dati nell’UDSC.
 - [tab] <sup>4</sup> Essa deve cancellare i dati rilevati non appena sono stati memorizzati nella corrispondente banca dati conformemente al capoverso 3.[^226-8]
 - [tab] <sup>5</sup> Se l’Amministrazione delle dogane rileva dati biometrici conformemente al capoverso 3, senza essere un’autorità preposta all’accertamento, è tenuta a presentare le domande di cancellazione di questi dati, non appena ciò si renda necessario secondo i pertinenti disposti di natura non doganale.
 
-[^226-1]: Nuovo testo giusta il n. 3 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^226-2]: Introdotto dal n. 3 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^226-3]: Nuovo testo giusta il n. 3 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^226-4]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^226-5]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^226-6]: Nuovo testo giusta l’art. 14 dell’O del 4 apr. 2007 sul trattamento dei dati AFD, in vigore dal 1° mag. 2007 ([RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258)).
+[^226-1]: Nuovo testo giusta l’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-2]: Introdotto dall’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-3]: Nuovo testo giusta l’all. 2 n. II 69 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^226-4]: Nuovo testo giusta l’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-5]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^226-6]: Nuovo testo giusta l’all. 2 n. II 69 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^226-7]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
-[^226-8]: Nuovo testo giusta il n. 3 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-8]: Nuovo testo giusta l’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 227
 
@@ -3901,9 +3895,9 @@ Quali mezzi di autodifesa e coattivi possono essere impiegati segnatamente:
 
 <sup>2bis</sup> Le guardie di sicurezza adottano i provvedimenti necessari quando è minacciata la sicurezza dei passeggeri, dell’equipaggio o dell’aeromobile. Possono ricorrere alla coercizione e a misure di polizia conformemente alla legge federale del 20 marzo 2008[^227-2] sulla coercizione e alle sue disposizioni esecutive.[^227-3]
 
-[^227-1]: Introdotta dal n. 2 dell’all. all’O del 12 nov. 2008 concernente i poteri di polizia dell’esercito, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^227-1]: Introdotta dall’all. n. 2 dell’O del 12 nov. 2008 concernente i poteri di polizia dell’esercito, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
 [^227-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
-[^227-3]: Introdotto dal n. 2 dell’all. all’O del 12 nov. 2008 concernente i poteri di polizia dell’esercito, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^227-3]: Introdotto dall’all. n. 2 dell’O del 12 nov. 2008 concernente i poteri di polizia dell’esercito, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
 
 #### Art. 228
 
@@ -4267,13 +4261,13 @@ Per oggetti personali d’uso s’intendono:
 - 22\. 2 armi da caccia o da sport, oppure 1 arma da caccia e 1 arma da sport con le rispettive munizioni
 - 23\. gli altri beni di natura manifestamente personale.
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 182 cpv. 2)
 
 ## Merci sensibili
 
-[^t-1]: Aggiornato dal n. II 1 dell’all. all’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)) e dal n. II dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^t-1]: Aggiornato dall’all. n. II 1 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)) e dal n. II dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 Per merci sensibili s’intendono:
 
@@ -4381,7 +4375,7 @@ Le seguenti ordinanze sono modificate come segue:
 
 [^annex4-lvlu1-1]: Le mod. possono essere consultate alla [RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250).
 
-Allegato 5*[^t-2]*
+Allegato 5[^t-2]
 
 (art. 112*h* cpv. 2)
 
@@ -4408,7 +4402,7 @@ Allegato 5*[^t-2]*
 [^annex5-lvlu1-7]: LR 284.0
 [^annex5-lvlu1-8]: LR 170.550
 
-Allegato 6*[^t-3]*
+Allegato 6[^t-3]
 
 (art. 165*a* cpv. 1)
 
