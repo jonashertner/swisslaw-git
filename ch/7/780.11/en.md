@@ -4,11 +4,11 @@ title: Ordinance of 15 November 2017 on the Surveillance of Post and Telecommuni
 short: SPTO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: en
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20220601/en/xml/fedlex-data-admin-ch-eli-cc-2018-32-20220601-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2018-32-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SPTO)
 
-of 15 November 2017 (Status as of 1 June 2022)
+of 15 November 2017 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -122,9 +122,11 @@ The PTSS shall at the request of the ordering authority carry out automated filt
 
 <sup>1</sup> The PTSS shall record as evidence the telephone calls made in connection with its duties.
 
-<sup>2</sup> Any evaluations of the recording shall be carried out by Data Protection Commissioner or the PTSS Data Protection Commissioner.
+<sup>2</sup> Any evaluations of the recording shall be carried out by the data protection officer or the PTSS Data Protection Commissioner.[^8-1]
 
 <sup>3</sup> The PTTS shall retain the recorded telephone calls for two years and thereafter destroy the recordings.
+
+[^8-1]: Amended by Annex 2 No II 85 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -1251,7 +1253,7 @@ The ordering authority shall itself arrange for reference communications to be m
 
 [^66-1]: The correction of 3 July 2018 relates to the Italian text only ([AS 2018 2551](https://fedlex.data.admin.ch/eli/oc/2018/376)).
 
-### Section 11 Missing Person and Wanted Person Searches and Mobile Phone Localisation of Suspected Terrorists****
+### Section 11 Missing Person and Wanted Person Searches and Mobile Phone Localisation of Suspected Terrorists
 
 [^chap3-sec11-1]
 
@@ -1426,7 +1428,7 @@ Annex
 - 8\. *IP address range:* a number of successive IP addresses;
 - 9\. *Net mask:* in internet protocol Version 4 (IPv4), describes how many bits at the start of the IP address displayed identify the network concerned;
 - 10\. *Prefix length:* in internet protocol Version 6 (IPv6), describes how many bits at the start of the IP address displayed identify the network concerned;
-- 11\. *SIM (Subscriber Identity Module):* smart card or chip permanently built into to the terminal device on which the IMSI and the related key are securely stored; the SIM is used to authenticate the subscribers to a mobile network, and includes the *USIM (Universal Subscriber Identity Module), UICC (Universal Integrated Circuit Card)* and *eSIM (embe**d**ded SIM)*;
+- 11\. *SIM (Subscriber Identity Module):* smart card or chip permanently built into to the terminal device on which the IMSI and the related key are securely stored; the SIM is used to authenticate the subscribers to a mobile network, and includes the *USIM (Universal Subscriber Identity Module), UICC (Universal Integrated Circuit Card)* and *eSIM (embedded SIM)*;
 - 12\. *ICCID (Integrated Circuit Card Identifier):* series-number of a built-in chip (e.g. eSIM) or of a smart card (e.g. SIM card) that uniquely identifies the chip;
 - 13\. *IMSI (International Mobile Subscriber Identity):* number that allows the unique international identification of mobile communication subscribers;
 - 14\. *IMEI (International Mobile Equipment Identity):* number that allows the unique international identification of mobile communication terminals;

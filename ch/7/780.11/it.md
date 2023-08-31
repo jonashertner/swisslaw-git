@@ -4,11 +4,11 @@ title: Ordinanza del 15 novembre 2017 sulla sorveglianza della corrispondenza po
 short: OSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-32-20220601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-32-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/it"
 
 (OSCPT)
 
-del 15 novembre 2017 (Stato 1° giugno 2022)
+del 15 novembre 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -120,9 +120,11 @@ Se tecnicamente possibile e se non comporta un onere sproporzionato, il Servizio
 
 <sup>1</sup> Il Servizio SCPT registra a scopo probatorio le telefonate attinenti all’adempimento dei suoi compiti.
 
-<sup>2</sup> Eventuali valutazioni delle registrazioni sono eseguite dall’incaricato della protezione dei dati del Servizio SCPT.
+<sup>2</sup> Eventuali valutazioni delle registrazioni sono eseguite dal consulente per la protezione dei dati del Servizio SCPT.[^8-1]
 
 <sup>3</sup> Le registrazioni delle telefonate sono conservate dal Servizio SCPT per due anni e in seguito devono essere distrutte.
+
+[^8-1]: Nuovo testo giusta l’all. 2 n. II 85 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -1249,7 +1251,7 @@ L’autorità che dispone la sorveglianza fa eseguire di sua iniziativa comunica
 
 [^66-1]: Correzione del 3 lug. 2018 ([RU 2018 2551](https://fedlex.data.admin.ch/eli/oc/2018/376)).
 
-### Sezione 11: Ricerca d’emergenza, ricerca di condannati e localizzazione di potenziali terroristi tramite telefonia mobile****
+### Sezione 11: Ricerca d’emergenza, ricerca di condannati e localizzazione di potenziali terroristi tramite telefonia mobile
 
 [^chap3-sec11-1]
 

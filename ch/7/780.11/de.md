@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über die Überwachung des Post- und Fer
 short: VÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-32-20220601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-32-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/de"
 
 (VÜPF)
 
-vom 15. November 2017 (Stand am 1. Juni 2022)
+vom 15. November 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -120,9 +120,11 @@ Der Dienst ÜPF führt auf Ersuchen der anordnenden Behörde eine automatisierte
 
 <sup>1</sup> Der Dienst ÜPF zeichnet zu Beweiszwecken die im Zusammenhang mit der Erfüllung seiner Aufgaben geführten Telefonate auf.
 
-<sup>2</sup> Allfällige Auswertungen der Aufzeichnungen werden durch die Datenschutzbeauftragte oder den Datenschutzbeauftragten des Dienstes ÜPF vorgenommen.
+<sup>2</sup> Allfällige Auswertungen der Aufzeichnungen werden durch die Datenschutzberaterin oder den Datenschutzberater des Dienstes ÜPF vorgenommen.[^8-1]
 
 <sup>3</sup> Die aufgezeichneten Telefonate werden zwei Jahre durch den Dienst ÜPF aufbewahrt und sind anschliessend zu vernichten.
+
+[^8-1]: Fassung gemäss Anhang 2 Ziff. II 85 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -1249,7 +1251,7 @@ Die anordnende Behörde lässt in eigener Regie am fraglichen Standort Referenzk
 
 [^66-1]: Die Berichtigung vom 3. Juli 2018 betrifft nur den italienischen Text ([AS 2018 2551](https://fedlex.data.admin.ch/eli/oc/2018/376)).
 
-### 11. Abschnitt: Notsuche, Fahndung und Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder****
+### 11. Abschnitt: Notsuche, Fahndung und Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder
 
 [^chap3-sec11-1]
 
@@ -1345,7 +1347,7 @@ Der Dienst ÜPF stellt elektronische Formulare und Schnittstellen zur Verfügung
 
 Die Verordnung vom 31. Oktober 2001[^72-1] über die Überwachung des Post- und Fernmeldeverkehrs wird aufgehoben.
 
-[^72-1]: [[AS 2001 3111](https://fedlex.data.admin.ch/eli/oc/2001/468), [2004 1431](https://fedlex.data.admin.ch/eli/oc/2004/181)[2021](https://fedlex.data.admin.ch/eli/oc/2004/229)Art. 7 [3383](https://fedlex.data.admin.ch/eli/oc/2004/435), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 77, [2007 4029](https://fedlex.data.admin.ch/eli/oc/2007/536), [2011 5955](https://fedlex.data.admin.ch/eli/oc/2011/824), [2016 4337](https://fedlex.data.admin.ch/eli/oc/2016/719)Ziff. II, [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. II 11]
+[^72-1]: [[AS 2001 3111](https://fedlex.data.admin.ch/eli/oc/2001/468); [2004 1431](https://fedlex.data.admin.ch/eli/oc/2004/181), [2021](https://fedlex.data.admin.ch/eli/oc/2004/229)Art. 7, [3383](https://fedlex.data.admin.ch/eli/oc/2004/435); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 77; [2007 4029](https://fedlex.data.admin.ch/eli/oc/2007/536); [2011 5955](https://fedlex.data.admin.ch/eli/oc/2011/824); [2016 4337](https://fedlex.data.admin.ch/eli/oc/2016/719)Ziff. II; [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. II 11]
 
 #### Art. 73
 

@@ -4,11 +4,11 @@ title: Ordonnance du 15 novembre 2017 sur la surveillance de la correspondance p
 short: OSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: fr
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-32-20220601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-32-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/fr"
 
 (OSCPT)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> juin 2022)
+du 15 novembre 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -120,9 +120,11 @@ Le Service SCPT effectue, à la demande de l’autorité qui a ordonné la surve
 
 <sup>1</sup> Le Service SCPT enregistre, à des fins probatoires, les communications téléphoniques liées à l’accomplissement de ses tâches.
 
-<sup>2</sup> Le cas échéant, les enregistrements sont exploités par le préposé à la protection des données du Service SCPT.
+<sup>2</sup> Le cas échéant, les enregistrements sont exploités par le conseiller à la protection des données du Service SCPT.[^8-1]
 
 <sup>3</sup> Le Service SCPT conserve pendant deux ans les communications téléphoniques enregistrées et les détruit ensuite.
+
+[^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 85 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -1246,7 +1248,7 @@ L’autorité qui ordonne la surveillance fait effectuer, de manière autonome, 
 
 [^66-1]: Erratum du 3 juil. 2018, ne concerne que le texte italien ([RO 2018 2551](https://fedlex.data.admin.ch/eli/oc/2018/376)).
 
-### Section 11 Recherche en cas d’urgence, recherche de personnes condamnées et localisation par téléphonie mobile de terroristes potentiels****
+### Section 11 Recherche en cas d’urgence, recherche de personnes condamnées et localisation par téléphonie mobile de terroristes potentiels
 
 [^chap3-sec11-1]
 
@@ -1342,7 +1344,7 @@ Le Service SCPT met à disposition des formulaires et des interfaces électroniq
 
 L’ordonnance du 31 octobre 2001 sur la surveillance de la correspondance par poste et télécommunication[^72-1] est abrogée.
 
-[^72-1]: [[RO 2001 3111](https://fedlex.data.admin.ch/eli/oc/2001/468), [2004 1431](https://fedlex.data.admin.ch/eli/oc/2004/181)[2021](https://fedlex.data.admin.ch/eli/oc/2004/229)art. 7 [3383](https://fedlex.data.admin.ch/eli/oc/2004/435), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 77, [2007 4029](https://fedlex.data.admin.ch/eli/oc/2007/536), [2011 5955](https://fedlex.data.admin.ch/eli/oc/2011/824), [2016 4337](https://fedlex.data.admin.ch/eli/oc/2016/719)ch. II, [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. II 11]
+[^72-1]: [[RO 2001 3111](https://fedlex.data.admin.ch/eli/oc/2001/468); [2004 1431](https://fedlex.data.admin.ch/eli/oc/2004/181), [2021](https://fedlex.data.admin.ch/eli/oc/2004/229)art. 7, [3383](https://fedlex.data.admin.ch/eli/oc/2004/435); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 77; [2007 4029](https://fedlex.data.admin.ch/eli/oc/2007/536); [2011 5955](https://fedlex.data.admin.ch/eli/oc/2011/824); [2016 4337](https://fedlex.data.admin.ch/eli/oc/2016/719)ch. II; [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. II 11]
 
 #### Art. 73
 
