@@ -4,18 +4,18 @@ title: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
 short: ZGB
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (Stand am 23. Januar 2023)
+vom 10. Dezember 1907 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -844,12 +844,13 @@ Der Bundesrat regelt unter Mitwirkung der Kantone:
 - 2\. die Höhe der Gebühr der Kantone für die Anwendung;
 - 3\. die Zugriffsrechte der Zivilstandsbehörden und der weiteren Stellen, die Zugriff haben;
 - 4\. die betriebliche Zusammenarbeit zwischen Bund und Kantonen;
-- 5\. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen technischen und organisatorischen Massnahmen;
+- 5\.[^45a-2] die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen sowie die Aufsicht über die Einhaltung der Datenschutzvorschriften;
 - 6\. die Archivierung der Daten.
 
 <sup>6</sup> Er kann vorsehen, dass Kosten von Dienstleistungen für Dritte für Zwecke ausserhalb des Zivilstandswesens diesen Dritten in Rechnung gestellt werden.
 
 [^45a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2001 (Elektronische Führung der Personenstandsregister ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)). Fassung gemäss Ziff. I 1 des BG vom 15. Dez. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^45a-2]: Fassung gemäss Anhang 1 Ziff. II 16 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### II. Haftung
 
@@ -10719,7 +10720,7 @@ Für im Grundbuch eingetragene Berechtigte einer Dienstbarkeit gelten die Bestim
 
 <sup>3</sup> Für Erwerb und Eintragung gelten, wo es nicht anders geordnet ist, die Bestimmungen über das Grundeigentum.
 
-### 2. Öffentlichrechtliche Grundlasten
+### 2. Öffentlich-rechtliche Grundlasten
 
 #### Art. 784
 

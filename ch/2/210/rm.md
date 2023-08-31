@@ -4,11 +4,11 @@ title: Cudesch civil svizzer dals 10 da december 1907
 short: CCS
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: rm
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-rm-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 10 da december 1907 (versiun dals 23 da schaner 2023)
+dals 10 da december 1907 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -846,12 +846,13 @@ En cooperaziun cun ils chantuns regla il Cussegl federal:
 - 2\. l’autezza da la taxa dals chantuns per duvrar il sistem;
 - 3\. ils dretgs d’access da las autoritads dal stadi civil e dals ulteriurs posts che han in dretg d’access;
 - 4\. la collavuraziun operaziunala tranter la Confederaziun ed ils chantuns;
-- 5\. las mesiras tecnicas ed organisatoricas ch’èn necessarias per garantir la protecziun e la segirezza da las datas;
+- 5\.[^45a-2] las mesiras organisatoricas e tecnicas ch’èn necessarias per garantir la protecziun e la segirezza da las datas, sco er la surveglianza da l’observanza da las prescripziuns davart la protecziun da datas;
 - 6\. l’archivaziun da las datas.
 
 <sup>6</sup> La Confederaziun po prevair ch’ils custs da prestaziuns per terzas persunas ordaifer ils fatgs dal stadi civil vegnian mess a quint a questas terzas persunas.
 
 [^45a-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 2001 (administraziun electronica dal register dal stadi civil) ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)). Versiun tenor la cifra I 1 da la LF dals 15 da dec. 2017, en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^45a-2]: Versiun tenor la cifra II 16 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### II. Responsabladad
 

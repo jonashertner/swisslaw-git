@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 23 gennaio 2023)
+del 10 dicembre 1907 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -826,12 +826,13 @@ Con la partecipazione dei Cantoni, il Consiglio federale disciplina:
 - 2\. l’ammontare dell’emolumento versato dai Cantoni per l’uso del sistema;
 - 3\. i diritti di accesso delle autorità dello stato civile e degli altri servizi aventi accesso al sistema;
 - 4\. la collaborazione operativa tra la Confederazione e i Cantoni;
-- 5\. le misure tecniche e organizzative necessarie per garantire la protezione e la sicurezza dei dati;
+- 5\.[^45a-2] le misure organizzative e tecniche necessarie per garantire la protezione e la sicurezza dei dati nonché la vigilanza sul rispetto delle disposizioni in materia di protezione dei dati;
 - 6\. l’archiviazione dei dati.
 
 <sup>6</sup> Il Consiglio federale può prescrivere che i costi delle prestazioni fornite a terzi per scopi non inerenti allo stato civile siano loro addebitati.
 
 [^45a-1]: Introdotto dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)). Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^45a-2]: Nuovo testo giusta l’all. 1 n. II 16 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### II. Responsabilità
 
@@ -1006,7 +1007,7 @@ La procedura di liquidazione del patrimonio di una persona giuridica avviene con
 L’iscrizione è obbligatoria se l’associazione:
 
 - 1\. per conseguire il suo fine esercita uno stabilimento d’indole commerciale;
-- 2\. sottostà all’obbligo di revisione.
+- 2\. sottostà all’obbligo di revisione;
 - 3\.[^61-1] raccoglie o distribuisce prevalentemente fondi all’estero, direttamente o indirettamente, per scopi caritatevoli, religiosi, culturali, educativi o sociali.[^61-2]
 
 <sup>2bis</sup> Il Consiglio federale emana le norme esecutive sull’obbligo di iscrizione nel registro di commercio.[^61-3]
@@ -2510,7 +2511,7 @@ Sono applicabili le disposizioni relative all’aiuto all’incasso e agli antic
 
 [^176a-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### b. Diffida ai debitori
+### b. Diffida ai debitori**
 
 [^book2-part1-tit5-lvlK-lvlII-lvl4-lvlb-1]
 
@@ -4198,7 +4199,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>1</sup> Il figlio può proporre azione contro il padre o la madre o contro ambedue per chiedere il mantenimento futuro e quello per l’anno precedente l’azione.
 
-<sup>2</sup> e <sup>3</sup> …[^279-2]
+<sup>2</sup> e <sup>3</sup> ...[^279-2]
 
 [^279-1]: Nuovo testo il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^279-2]: Abrogati dall’all. n. 2 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
@@ -10116,9 +10117,9 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 ### III. Spostamento della servitù
 
-[^book4-part2-tit21-chap1-lvlC-lvlIII-1]
+[^book4-part2-tit21-chap1-lvlC-lvlII-lvlIII-1]
 
-[^book4-part2-tit21-chap1-lvlC-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part2-tit21-chap1-lvlC-lvlII-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 742
 

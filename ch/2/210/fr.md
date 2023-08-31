@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (État le 23 janvier 2023)
+du 10 décembre 1907 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -827,12 +827,13 @@ Le Conseil fédéral règle en collaboration avec les cantons:
 - 2\. le montant de l’émolument des cantons pour l’utilisation du système;
 - 3\. les droits d’accès des autorités de l’état civil et des autres autorités qui disposent d’un droit d’accès;
 - 4\. la collaboration opérationnelle entre la Confédération et les cantons;
-- 5\. les mesures techniques et organisationnelles nécessaires pour assurer la protection et la sécurité des données;
+- 5\.[^45a-2] les mesures organisationnelles et techniques nécessaires pour assurer la protection et la sécurité des données ainsi que la surveillance du respect des dispositions de protection des données;
 - 6\. l’archivage des données.
 
 <sup>6</sup> Il peut prévoir que les coûts engendrés par des prestations en faveur de tiers à des fins qui ne relèvent pas du domaine de l’état civil sont facturés aux bénéficiaires.
 
 [^45a-1]: Introduit par le ch. I de la LF du 5 oct. 2001 (Tenue informatisée des registres de l’état civil) ([RO 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1537](https://fedlex.data.admin.ch/eli/fga/2001/407)). Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^45a-2]: Nouvelle teneur selon l’annexe 1 ch. II 16 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### II. Responsabilité
 
@@ -871,8 +872,7 @@ Il fixe notamment les règles applicables:
 - 1\. aux registres à tenir et aux données à enregistrer;
 - 2\. à l’utilisation du numéro AVS[^48-1] au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^48-2] pour permettre l’échange électronique de données entre les registres officiels de personnes;
 - 3\. à la tenue des registres;
-
-<sup>4.</sup> à la surveillance.[^48-3]
+- 4\. à la surveillance.[^48-3]
 
 <sup>3</sup> Afin d’assurer une exacte exécution des tâches, le Conseil fédéral peut fixer des exigences minimales quant à la formation et à la formation continue des personnes qui travaillent dans le domaine de l’état civil et quant au degré d’occupation des officiers de l’état civil.[^48-4]
 
@@ -1025,8 +1025,8 @@ Est tenue de s’inscrire toute association:
 [^61-1]: Introduit par l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^61-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^61-3]: Introduit par l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^61-4]: Introduit par l’annexe ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^61-5]: Abrogé par l’annexe 1 ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^61-4]: Introduit par l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-5]: Abrogé par l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II*a.* Liste des membres
 

@@ -4,11 +4,11 @@ title: Swiss Civil Code of 10 December 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: en
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-en-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 10 December 1907 (Status as of 23 January 2023)
+of 10 December 1907 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -846,12 +846,13 @@ In cooperation with the cantons, the Federal Council regulates:
 - 2\. the amount to be paid by the cantons for its use;
 - 3\. the rights of access of the civil register authorities and other agencies with access rights;
 - 4\. how the Confederation and cantons cooperate over running the system;
-- 5\. the organisational and technical measures necessary to safeguard data protection and data security;
+- 5\.[^45a-2] the organisational and technical measures necessary to safeguard data protection and data security and the supervision of compliance with the data protection regulations;
 - 6\. data archiving.
 
 <sup>6</sup> It may provide for the costs of services for third parties for purposes unrelated to civil status matters to be charged to these third parties.
 
 [^45a-1]: Inserted by No I of the FA of 5 Oct. 2001 (Electronic civil register) ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)). Inserted by No I 1 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^45a-2]: Amended by Annex 1 No II 16 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### II. Liability
 
