@@ -3,18 +3,18 @@ sr: "632.14"
 title: Ordinanza del 12 ottobre 2011 sulla statistica del commercio esterno
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/669"
 language: it
-version: 2016-01-01
+version: 2023-09-01
 adopted: 2011-10-12
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/669/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2011-669-20160101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/669/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/669/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-669-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/669/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla statistica del commercio esterno
 
-del 12 ottobre 2011 (Stato 1° gennaio 2016)
+del 12 ottobre 2011 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -22,11 +22,11 @@ visto l’articolo 15 capoverso 1 della legge del 9 ottobre 1986[^ingress-1] sul
 
 ordina:
 
-[^ingress-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^ingress-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^ingress-3]: [RS 0.632.14](https://fedlex.data.admin.ch/eli/cc/1970/498_498_499)
-[^ingress-4]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
-[^ingress-5]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^ingress-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^ingress-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^ingress-3]: [RS 0.632.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2233)
+[^ingress-4]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
+[^ingress-5]: [RS 0.431.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1789)
 
 #### Art. 1
 
@@ -43,7 +43,7 @@ La statistica del commercio esterno fornisce informazioni in particolare su:
 
 <sup>2</sup> Essa è parte integrante delle statistiche economiche elaborate dalla Confederazione, in particolare della contabilità nazionale, della bilancia dei pagamenti e delle statistiche destinate all’Unione europea (EUROSTAT).
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3705](https://fedlex.data.admin.ch/eli/oc/2015/617)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3705](https://fedlex.data.admin.ch/eli/oc/2015/617)).
 
 #### Art. 2
 
@@ -77,7 +77,7 @@ La statistica del commercio esterno è elaborata dalla Direzione generale delle 
 
 <sup>3</sup> Il Dipartimento federale delle finanze può richiedere indicazioni supplementari, se necessarie per elaborare la statistica. Queste indicazioni devono essere pubblicate nella tariffa delle dogane.
 
-[^5-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^5-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 6
 
@@ -87,7 +87,7 @@ La statistica del commercio esterno è elaborata dalla Direzione generale delle 
 
 <sup>2</sup> La dichiarazione doganale d’esportazione deve contenere il nome dell’esportatore, il numero d’identificazione dell’impresa e il suo indirizzo con il numero postale di avviamento. È considerato esportatore colui che spedisce o fa spedire all’estero la merce per proprio conto o per conto dell’acquirente domiciliato all’estero.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3705](https://fedlex.data.admin.ch/eli/oc/2015/617)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3705](https://fedlex.data.admin.ch/eli/oc/2015/617)).
 
 #### Art. 7
 
@@ -149,9 +149,11 @@ La dichiarazione doganale d’importazione o d’esportazione deve indicare la v
 
 #### Art. 13
 
-**Controlli**
+**Controlli**[^13-1]
 
 La DGD può chiedere alle persone soggette all’obbligo di dichiarazione di produrre tutti i documenti che permettono di verificare l’esattezza delle informazioni fornite e può consultare i libri, i documenti commerciali e altri documenti nonché le banche dati.
+
+[^13-1]: La mod. giusta l’all. 2 cifra II n. 72 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023, concerne soltanto il testo tedesco ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -183,7 +185,7 @@ La DGD applica i criteri nazionali e internazionali in materia di qualità e val
 
 La DGD riscuote emolumenti per la pubblicazione dei risultati e le prestazioni di servizi statistici. Il loro importo è fissato nell’ordinanza del 25 giugno 2003[^17-1] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
 
-[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 #### Art. 18
 

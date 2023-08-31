@@ -3,18 +3,18 @@ sr: "632.14"
 title: Verordnung vom 12. Oktober 2011 über die Statistik des Aussenhandels
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/669"
 language: de
-version: 2016-01-01
+version: 2023-09-01
 adopted: 2011-10-12
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/669/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2011-669-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/669/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/669/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-669-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/669/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Statistik des Aussenhandels
 
-vom 12. Oktober 2011 (Stand am 1. Januar 2016)
+vom 12. Oktober 2011 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -22,11 +22,11 @@ gestützt auf Artikel 15 Absatz 1 des Zolltarifgesetzes vom 9. Oktober 1986[^ing
 
 verordnet:
 
-[^ingress-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^ingress-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^ingress-3]: [SR 0.632.14](https://fedlex.data.admin.ch/eli/cc/1970/498_498_499)
-[^ingress-4]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
-[^ingress-5]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^ingress-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^ingress-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^ingress-3]: [SR 0.632.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2233)
+[^ingress-4]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
+[^ingress-5]: [SR 0.431.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1789)
 
 #### Art. 1
 
@@ -77,7 +77,7 @@ Die Statistik des Aussenhandels wird von der Oberzolldirektion (OZD) geführt.
 
 <sup>3</sup> Das Eidgenössische Finanzdepartement kann zusätzliche Angaben verlangen, sofern sich dies für die Erstellung der Statistik als nötig erweist. Die zusätzlichen Angaben sind im Zolltarif zu publizieren.
 
-[^5-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^5-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 6
 
@@ -149,9 +149,11 @@ In der Einfuhr- oder Ausfuhrzollanmeldung ist die Rechnungswährung anzugeben.
 
 #### Art. 13
 
-**Kontrolle**
+**Kontrolle**[^13-1]
 
-Die OZD kann von der anmeldepflichtigen Person alle für die Nachprüfung der gemachten Angaben erforderlichen Dokumente verlangen und bei Bedarf Einblick in die Bücher, die Geschäftspapiere und in sonstige Urkunden sowie in Datensammlungen nehmen.
+Die OZD kann von der anmeldepflichtigen Person alle für die Nachprüfung der gemachten Angaben erforderlichen Dokumente verlangen und bei Bedarf Einblick in die Bücher, die Geschäftspapiere und in sonstige Urkunden sowie in Datenbanken nehmen.
+
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 72 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -183,7 +185,7 @@ Die OZD wendet die nationalen und internationalen Qualitätskriterien an und eva
 
 Die OZD erhebt für die Veröffentlichung der Ergebnisse und für die statistischen Dienstleistungen Gebühren. Die Höhe der Gebühren richtet sich nach der Verordnung vom 25. Juni 2003[^17-1] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
 
-[^17-1]: [SR 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^17-1]: [SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 #### Art. 18
 
@@ -197,7 +199,7 @@ Die OZD vollzieht diese Verordnung.
 
 Die Verordnung vom 5. Dezember 1988[^19-1] über die Statistik des Aussenhandels wird aufgehoben.
 
-[^19-1]: [[AS 1988 2047](https://fedlex.data.admin.ch/eli/oc/1988/2047_2047_2047), [2000 611](https://fedlex.data.admin.ch/eli/oc/2000/102), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 19, [2008 1833](https://fedlex.data.admin.ch/eli/oc/2008/271)Anhang Ziff. 1]
+[^19-1]: [[AS 1988 2047](https://fedlex.data.admin.ch/eli/oc/1988/2047_2047_2047); [2000 611](https://fedlex.data.admin.ch/eli/oc/2000/102); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 19; [2008 1833](https://fedlex.data.admin.ch/eli/oc/2008/271)Anhang Ziff. 1]
 
 #### Art. 20
 
