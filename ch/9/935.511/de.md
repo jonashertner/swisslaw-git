@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2018 über Geldspiele (Geldspielverordnung, V
 short: VGS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/796"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2018-796-20210101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-796-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20210101/de"
 
 (Geldspielverordnung, VGS)
 
-vom 7. November 2018 (Stand am 1. Januar 2021)
+vom 7. November 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -656,7 +656,7 @@ Für Tombolas beträgt die Summe aller Einsätze maximal 50 000 Franken.
 
 Die Spielbank oder die Veranstalterin von Lotterien und Sportwetten erstellt ihre Jahresrechnung nach den Fachempfehlungen zur Rechnungslegung[^44-1] der Stiftung für Fachempfehlungen zur Rechnungslegung.
 
-[^44-1]: www.fer.ch, vgl. die V vom 21. November 2012 über die anerkannten Standards zur Rechnungslegung ([SR 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)).
+[^44-1]: www.fer.ch, vgl. die V vom 21. Nov. 2012 über die anerkannten Standards zur Rechnungslegung ([SR 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)).
 
 #### Art. 45
 
@@ -1045,9 +1045,10 @@ Weitergegeben werden können Daten von:
 - c. Sportwettkampfteilnehmerinnen und -teilnehmern und deren Betreuerinnen und Betreuern;
 - d. weiteren natürlichen oder juristischen Personen, die an der Organisation, der Durchführung oder der Überwachung von Sportereignissen beteiligt sind.
 
-<sup>3</sup> Die interkantonale Behörde gibt Organisationen mit Sitz im Ausland nur Daten weiter, wenn die Gesetzgebung des Staates, in dem die Organisation ihren Sitz hat, einen angemessenen Schutz nach Artikel 6 des Bundesgesetzes von 19. Juni 1992[^73-1] über den Datenschutz gewährleistet.
+<sup>3</sup> Die interkantonale Behörde gibt Organisationen mit Sitz im Ausland nur Daten weiter, wenn die Gesetzgebung des Staates, in dem die Organisation ihren Sitz hat, einen angemessenen Schutz nach Artikel 16 Absatz 1 des Datenschutzgesetzes vom 25. September 2020[^73-1] gewährleistet.[^73-2]
 
 [^73-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^73-2]: Fassung gemäss Anhang 2 Ziff. II 134 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 74
 
@@ -1312,7 +1313,7 @@ Die Veranstalterin von Online-Spielen stellt der Spielerin oder dem Spieler auf 
 
 Die Anbieterinnen von Internetzugängen[^92-1] sperren den Zugang zu den von der ESBK und der interkantonalen Behörde gemeldeten Spielangeboten innert höchstens fünf Arbeitstagen.
 
-[^92-1]: Ausdruck gemäss Anhang Ziff. 1 der V vom 18. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^92-1]: Ausdruck gemäss Anhang Ziff. 1 der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 93
 
@@ -1730,7 +1731,7 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt.
 
 Personen, die in Anwendung von Artikel 22 Absatz 1 Buchstaben a und b und Absatz 4 des Spielbankengesetzes vom 18. Dezember 1998[^129-1] (SBG) im Register der Spielbanken über die Spielsperren nach Artikel 22 Absatz 5 SBG eingetragen sind, werden in das Register der gesperrten Personen nach Artikel 82 BGS eingetragen.
 
-[^129-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2]
+[^129-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2]
 
 #### Art. 130
 
@@ -1738,7 +1739,7 @@ Personen, die in Anwendung von Artikel 22 Absatz 1 Buchstaben a und b und Absatz
 
 Geschicklichkeitsspielautomaten, die gestützt auf das SBG[^130-1] von der ESBK rechtskräftig als solche qualifiziert worden sind, gelten als automatisiert durchgeführte Geschicklichkeitsspiele nach dem BGS.
 
-[^130-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2]
+[^130-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2]
 
 #### Art. 131
 
@@ -1763,7 +1764,7 @@ Anhang 1
 ## Ermässigung des Abgabesatzes wegen Verwendung des Ertrags für öffentliche Interessen der Region
 
 <table>
-<tr><th>Verhältnis des investierten Betrags für Projekte im öffentlichen Interesse der Region zum Nettospielertrag</th><th>Reduktion des Abgabesatzes</th></tr>
+<tr><td>Verhältnis des investierten Betrags für Projekte im öffentlichen Interesse der Region zum Nettospielertrag</td><td>Reduktion des Abgabesatzes</td></tr>
 <tr><td>&lt; 1/8</td><td>0 %</td></tr>
 <tr><td>&lt; 2/8</td><td>5 %</td></tr>
 <tr><td>&lt; 3/8</td><td>10 %</td></tr>
@@ -1791,6 +1792,6 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [BS **10** 267; [AS 1948 1173](https://fedlex.data.admin.ch/eli/oc/1948/1173_1161_1135)Art. 1, [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 63, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 105, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 79, [2011 4913](https://fedlex.data.admin.ch/eli/oc/2011/704)Art. 4]
-[^annex2-lvlu1-2]: [[AS 2004 4395](https://fedlex.data.admin.ch/eli/oc/2004/673), [2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)Anhang Ziff. II 9 [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 80, [2009 5037](https://fedlex.data.admin.ch/eli/oc/2009/584), [2010 5545](https://fedlex.data.admin.ch/eli/oc/2010/797), [2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)Anhang Ziff. 4, [2017 27](https://fedlex.data.admin.ch/eli/oc/2017/8)]
+[^annex2-lvlu1-1]: [BS **10** 267; [AS 1948 1173](https://fedlex.data.admin.ch/eli/oc/1948/1173_1161_1135)Art. 1; [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 63; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 105; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 79; [2011 4913](https://fedlex.data.admin.ch/eli/oc/2011/704)Art. 4]
+[^annex2-lvlu1-2]: [[AS 2004 4395](https://fedlex.data.admin.ch/eli/oc/2004/673); [2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)Anhang Ziff. II 9, [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 80; [2009 5037](https://fedlex.data.admin.ch/eli/oc/2009/584); [2010 5545](https://fedlex.data.admin.ch/eli/oc/2010/797); [2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)Anhang Ziff. 4; [2017 27](https://fedlex.data.admin.ch/eli/oc/2017/8)]
 [^annex2-lvlu1-3]: Die Änderungen können unter [AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)konsultiert werden.

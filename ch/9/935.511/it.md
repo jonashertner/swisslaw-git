@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2018 sui giochi in denaro (OGD)
 short: OGD
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/796"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-796-20210101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-796-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20210101/it"
 
 (OGD)
 
-del 7 novembre 2018 (Stato 1° gennaio 2021)
+del 7 novembre 2018 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 29 settembre 2017[^ingress-1] sui giochi in denaro (
 
 ordina:
 
-[^ingress-1]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^ingress-1]: RU **2018** 5155 RS **935.51**
 
 ## Capitolo 1: Definizioni
 
@@ -360,7 +360,9 @@ Il richiedente svolge in particolare in modo autonomo le attività centrali per 
 - c. la cura delle relazioni con i giocatori;
 - d. la sorveglianza dei giocatori nonché l’attuazione del piano di misure sociali e degli obblighi di diligenza per lottare contro il riciclaggio di denaro.
 
-<sup>3</sup> Il richiedente può affidare in parte ai suoi distributori di giochi i compiti di cui al capoverso 2 lettere c e d, sempre che li sorvegli lui stesso.
+<sup>3</sup> Il richiedente può affidare in parte ai suoi distributori di giochi i compiti di cui al capoverso 2 lettere c e d, sempre che li sorvegli lui s
+
+tesso.
 
 <sup>4</sup> Se non svolge lui stesso un compito, il richiedente garantisce che i terzi a cui ha affidato tale compito rispettino gli obblighi legali.
 
@@ -656,7 +658,7 @@ La somma totale massima delle poste per le tombole è fissata a 50 000 franchi.
 
 La casa da gioco o l’organizzatore di lotterie e scommesse sportive allestisce il proprio conto annuo secondo le Raccomandazioni relative alla presentazione dei conti[^44-1] della Fondazione per le raccomandazioni relative alla presentazione dei conti.
 
-[^44-1]: www.fer.ch. Cfr. O del 21 novembre 2012 sulle norme contabili riconosciute ([RS 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)).
+[^44-1]: www.fer.ch. Cfr. O del 21 nov. 2012 sulle norme contabili riconosciute ([RS 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)).
 
 #### Art. 45
 
@@ -1045,9 +1047,10 @@ Possono essere trasmessi dati concernenti:
 - c. i partecipanti alle competizioni sportive e i loro assistenti;
 - d. le altre persone fisiche o giuridiche che partecipano all’organizzazione, allo svolgimento o alla sorveglianza di eventi sportivi.
 
-<sup>3</sup> L’Autorità intercantonale può trasmettere dati alle organizzazioni con sede all’estero soltanto se la legislazione dello Stato di sede dell’organizzazione garantisce una protezione dei dati adeguata ai sensi dell’articolo 6 della legge federale del 19 giugno 1992[^73-1] sulla protezione dei dati.
+<sup>3</sup> L’Autorità intercantonale può trasmettere dati alle organizzazioni con sede all’estero soltanto se la legislazione dello Stato di sede dell’organizzazione garantisce una protezione dei dati adeguata ai sensi dell’articolo 16 capoverso 1 della legge federale del 25 settembre 2020[^73-1] sulla protezione dei dati.[^73-2]
 
 [^73-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^73-2]: Nuovo testo giusta l’all. 2 n. II 134 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 74
 
@@ -1312,7 +1315,7 @@ L’organizzatore di giochi in linea mette a disposizione del giocatore, in modo
 
 I fornitori di servizi d’accesso a Internet[^92-1] bloccano l’accesso alle offerte di gioco comunicate dalla CFCG e dall’Autorità intercantonale al più tardi entro cinque giorni lavorativi.
 
-[^92-1]: Nuova espr. giusta l’all. n. 1 dell’O del 18 novembre 2020, in vigore dal 1° gennaio 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^92-1]: Nuova espr. giusta l’all. n. 1 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 93
 

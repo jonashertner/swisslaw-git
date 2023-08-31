@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2018 sur les jeux d'argent (OJAr)"
 short: OJAr
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/796"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-796-20210101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-796-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20210101/fr"
 
 (OJAr)
 
-du 7 novembre 2018 (État le 1<sup>er</sup> janvier 2021)
+du 7 novembre 2018 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -263,7 +263,7 @@ La CFMJ peut autoriser une maison de jeu à collaborer avec une autre maison de 
 
 La CFMJ peut autoriser une maison de jeu à collaborer avec un exploitant de jeux de casino étranger pour le poker en ligne si la CFMJ peut exercer une surveillance suffisante sur le jeu et que la requérante démontre:
 
-- a. que l’exploitant étranger dispose des autorisations requises pour exploiter le jeu de poker en question dans l’Etat où il a son siège ou dans d’autres Etats;
+- a. que l’exploitant étranger dispose des autorisations requises pour exploiter le jeu de poker en question dans l’État où il a son siège ou dans d’autres États;
 - b. que l’exploitant étranger possède l’honorabilité et la compétence requises;
 - c. que les joueurs domiciliés ou résidant habituellement en Suisse jouent en ligne en utilisant leur compte joueur auprès de la requérante;
 - d. qu’elle a conclu avec l’exploitant étranger un contrat garantissant que le jeu peut être exploité de manière sûre et transparente;
@@ -271,7 +271,7 @@ La CFMJ peut autoriser une maison de jeu à collaborer avec un exploitant de jeu
 
 <sup>2</sup> La procédure de décompte utilisée pour la répartition du produit brut des jeux entre les maisons de jeu doit être approuvée par la CFMJ.
 
-<sup>3</sup> La collaboration ne peut en aucun cas être autorisée lorsque l’exploitant étranger a son siège dans un Etat figurant sur les listes des juridictions à haut risque et non coopératives du Groupe d’action financière (GAFI) ou faisant l’objet de sanctions internationales au sens de la loi du 22 mars 2002 sur les embargos[^18-1].
+<sup>3</sup> La collaboration ne peut en aucun cas être autorisée lorsque l’exploitant étranger a son siège dans un État figurant sur les listes des juridictions à haut risque et non coopératives du Groupe d’action financière (GAFI) ou faisant l’objet de sanctions internationales au sens de la loi du 22 mars 2002 sur les embargos[^18-1].
 
 <sup>4</sup> La requérante assume la même responsabilité vis-à-vis de la CFMJ et de ses joueurs que si elle exploitait le jeu elle-même.
 
@@ -447,7 +447,7 @@ L’autorité intercantonale peut autoriser un exploitant de jeux de grande enve
 
 L’autorité intercantonale peut autoriser un exploitant de loteries ou de paris sportifs à exploiter certains jeux de grande envergure en commun avec un exploitant étranger si elle peut exercer une surveillance suffisante sur le jeu considéré et que le requérant démontre que:
 
-- a. l’exploitant étranger dispose des autorisations requises pour exploiter le jeu dans l’Etat où il a son siège ou dans d’autres Etats;
+- a. l’exploitant étranger dispose des autorisations requises pour exploiter le jeu dans l’État où il a son siège ou dans d’autres États;
 - b. l’exploitant étranger jouit d’une bonne réputation;
 - c. le jeu, de par sa conception, ne présenterait pas le même attrait pour les joueurs si le requérant l’exploitait seul, notamment parce que ce jeu requiert le cumul des mises d’un nombre particulièrement élevé de personnes;
 - d. le jeu a une importance stratégique et économique pour le développement de l’offre de jeux;
@@ -455,7 +455,7 @@ L’autorité intercantonale peut autoriser un exploitant de loteries ou de pari
 - f. il a conclu avec l’exploitant étranger un contrat garantissant que le jeu peut être exploité de manière sûre et transparente;
 - g. l’exploitant étranger empêche les joueurs domiciliés ou résidant habituellement en Suisse d’accéder à l’offre de jeux non autorisée en Suisse qu’il propose.
 
-<sup>2</sup> La collaboration ne peut en aucun cas être autorisée lorsque l’exploitant étranger a son siège dans un Etat figurant sur les listes du GAFI ou faisant l’objet de sanctions internationales au sens de la loi du 22 mars 2002 sur les embargos[^31-1].
+<sup>2</sup> La collaboration ne peut en aucun cas être autorisée lorsque l’exploitant étranger a son siège dans un État figurant sur les listes du GAFI ou faisant l’objet de sanctions internationales au sens de la loi du 22 mars 2002 sur les embargos[^31-1].
 
 <sup>3</sup> Le requérant assume la même responsabilité vis-à-vis de l’autorité intercantonale et de ses joueurs que s’il exploitait le jeu lui-même.
 
@@ -1045,9 +1045,10 @@ Les données peuvent concerner:
 - c. les personnes qui participent aux compétitions sportives et leur personnel d’encadrement;
 - d. toute autre personne physique ou morale associée à l’organisation, à l’exploitation ou à la surveillance d’événements sportifs.
 
-<sup>3</sup> L’autorité intercantonale ne peut communiquer des données à une organisation ayant son siège à l’étranger que si la législation de l’État dans lequel elle a son siège dispose d’un niveau de protection adéquat selon l’art. 6 de la loi du 19 juin 1992 sur la protection des données[^73-1].
+<sup>3</sup> L’autorité intercantonale ne peut communiquer des données à une organisation ayant son siège à l’étranger que si la législation de l’État dans lequel elle a son siège dispose d’un niveau de protection adéquat selon l’art. 16, al. 1, de la loi fédérale du 25 septembre 2020 sur la protection des données[^73-1].[^73-2]
 
 [^73-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^73-2]: Nouvelle teneur selon l’annexe 2 ch. II 134 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 74
 
@@ -1310,7 +1311,7 @@ L’exploitant de jeux en ligne met à la disposition du joueur, de manière bie
 
 Les fournisseurs d’accès à Internet[^92-1] bloquent l’accès aux offres de jeu communiquées par la CFMJ et l’autorité intercantonale dans un délai maximal de cinq jours ouvrables.
 
-[^92-1]: Nouvelle expression selon l’annexe ch. 1 de l’O du 18 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^92-1]: Nouvelle expression selon l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 93
 
@@ -1422,7 +1423,7 @@ Sur demande dûment motivée, la CFMJ donne accès aux autorités sociales et sa
 
 La CFMJ peut conclure des conventions avec les cantons et avec l’autorité intercantonale afin de s’assurer le concours d’experts cantonaux, en particulier d’organes administratifs ou d’organes d’enquête cantonaux.
 
-### Section 2 Emoluments de la CFMJ
+### Section 2 Émoluments de la CFMJ
 
 #### Art. 102
 
@@ -1440,7 +1441,7 @@ Les émoluments sont calculés en fonction du temps investi et des connaissances
 
 #### Art. 104
 
-**Emoluments pour investigations extraordinaires**
+**Émoluments pour investigations extraordinaires**
 
 Lorsque la maison de jeu est elle-même à l’origine de l’investigation, la CFMJ peut percevoir des émoluments pour les procédures de surveillance qui exigent un travail de contrôle important et n’aboutissent pas à une décision.
 
@@ -1481,7 +1482,7 @@ La CFMJ peut percevoir des émoluments majorés de 50 % au plus pour des prestat
 
 #### Art. 108
 
-**Echéance, intérêts et prescription**
+**Échéance, intérêts et prescription**
 
 L’ordonnance générale du 8 septembre 2004 sur les émoluments[^108-1] s’applique par analogie à l’échéance, aux intérêts et à la prescription.
 
@@ -1761,7 +1762,7 @@ Annexe 1
 ## Allègement fiscal résultant de l’investissement des bénéfices dans des projets d’intérêt général
 
 <table>
-<tr><th>Ratio entre le montant investi pour les projets d’intérêt général pour la région et le produit net des jeux</th><th>Allègement fiscal</th></tr>
+<tr><td>Ratio entre le montant investi pour les projets d’intérêt général pour la région et le produit net des jeux</td><td>Allègement fiscal</td></tr>
 <tr><td>&lt; 1/8</td><td>0 %</td></tr>
 <tr><td>&lt; 2/8</td><td>5 %</td></tr>
 <tr><td>&lt; 3/8</td><td>10 %</td></tr>
