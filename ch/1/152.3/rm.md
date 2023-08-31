@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da december 2004 davart il princip da la transpa
 short: LTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: rm
-version: 2014-08-19
+version: 2023-09-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20140819/rm/xml/fedlex-data-admin-ch-eli-cc-2006-355-20140819-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,16 +19,16 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha da transparenza, LTrans)
 
-dals 17 da december 2004 (versiun dals 19 d’avust 2014)
+dals 17 da december 2004 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
-sa basond sin l’artitgel 173 alinea 2 da la constituziun federala[^ingress-1], suenter avair gì invista da la missiva dal cussegl federal dals 12 da favrer 2003[^ingress-2],
+sa basond sin l’artitgel 173 alinea 2 da la Constituziun federala[^ingress-1], suenter avair gì invista da la missiva dal Cussegl federal dals 12 da favrer 2003[^ingress-2],
 
 concluda:
 
-[^ingress-1]: CS **101**
-[^ingress-2]: [BBl 2003 1963](https://fedlex.data.admin.ch/eli/fga/2003/246)(versiun tudestga).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [BBl 2003 1963](https://fedlex.data.admin.ch/eli/fga/2003/246)
 
 ## 1. secziun Disposiziuns generalas
 
@@ -36,7 +36,7 @@ concluda:
 
 **Intent ed object**
 
-Questa lescha ha l’intent da promover la transparenza davart l’incarica, davart l’organisaziun e davart l’activitad da l’administraziun. Per quest intent gida ella ad infurmar la publicitad cun al garantir l’access als documents uffizials.
+Questa lescha ha l’intent da promover la transparenza davart l’incarica, davart l’organisaziun e davart l’activitad da l’administraziun. Per quest intent gida ella ad infurmar la publicitad cun al garantir l’access a documents uffizials.
 
 #### Art. 2
 
@@ -47,7 +47,7 @@ Questa lescha ha l’intent da promover la transparenza davart l’incarica, dav
 Questa lescha vala per:
 
 - a. l’administraziun federala;
-- b. las organisaziuns e las persunas da dretg public e privat externas a l’administraziun federala, uschenavant ch’ellas relaschan actas u prendan disposiziuns d’emprima instanza en il senn da l’artitgel 5 da la Lescha federala dals 20 da december 1968[^2-1] davart la procedura administrativa (PA);
+- b. las organisaziuns e las persunas da dretg public e privat externas a l’administraziun federala, uschenavant ch’ellas decreteschan actas u prendan disposiziuns d’emprima instanza en il senn da l’artitgel 5 da la Lescha federala dals 20 da december 1968[^2-1] davart la procedura administrativa (PA);
 - c. ils Servetschs dal parlament.
 
 <sup>2</sup> Questa lescha na vala betg per la Banca naziunala svizra e per l’Autoritad federala per la surveglianza dals martgads da finanzas.[^2-2]
@@ -61,7 +61,7 @@ Il Cussegl federal po excluder dal champ d’applicaziun da la lescha ulteriuras
 - c. las incumbensas che las èn vegnidas surdadas èn da pitschna impurtanza.
 
 [^2-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^2-2]: Versiun tenor la cifra 1 da l’agiunta tar la Lescha dals 22 da zercl. 2007 davart la surveglianza dals martgads da finanzas, en vigur dapi il 1. da schan. 2009 ([SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)).
+[^2-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007 davart la surveglianza dals martgads da finanzas, en vigur dapi il 1. da schan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 3
 
@@ -73,20 +73,21 @@ Questa lescha na vala betg per:
 
 - a.
 
-  l’access a documents uffizials concernent las proceduras:
+  l’access a documents uffizials concernent:
 
-  - 1\. civila,
-  - 2\. penala,
-  - 3\. da l’agid internaziunal giuridic ed uffizial,
-  - 4\. internaziunalas per reglar dispitas,
-  - 5\. da la giurisdicziun statala ed administrativa u
-  - 6\. da cumpromiss;
+  - 1\. proceduras civilas,
+  - 2\. proceduras penalas,
+  - 3\. proceduras da l’agid internaziunal giuridic ed uffizial,
+  - 4\. proceduras internaziunalas per reglar dispitas,
+  - 5\. proceduras da la giurisdicziun statala ed administrativa u
+  - 6\. proceduras da cumpromiss;
 
 - b. il dretg d’ina partida da consultar las actas d’ina procedura administrativa d’emprima instanza.
 
-<sup>2</sup> L’access als documents uffizials che cuntegnan datas persunalas dal petent sa drizza tenor la Lescha federala dals 19 da zercladur 1992[^3-1] davart la protecziun da datas.
+<sup>2</sup> L’access a documents uffizials che cuntegnan datas persunalas dal petent, sa drizza tenor la Lescha federala dals 25 da settember 2020[^3-1] davart la protecziun da datas (LPD).[^3-2]
 
 [^3-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3-2]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 4
 
@@ -116,10 +117,10 @@ Sco document uffizial chapeschan ins mintga infurmaziun:
 Betg sco documents uffizials vegnan considerads ils documents:
 
 - a. che vegnan utilisads d’ina autoritad per intents commerzials;
-- b. dals quals il tractament n’è betg terminà; u
+- b. che n’èn betg anc terminads; u
 - c. ch’èn destinads ad in diever persunal.
 
-## 2. secziun Dretg d’access als documents uffizials
+## 2. secziun Dretg d’access a documents uffizials
 
 #### Art. 6
 
@@ -137,7 +138,7 @@ Betg sco documents uffizials vegnan considerads ils documents:
 
 <sup>1</sup>
 
-Il dretg d’access als documents uffizials vegn limità, suspendì u refusà, sch’el po:
+Il dretg d’access a documents uffizials vegn limità, suspendì u refusà, sch’el po:
 
 - a. pregiuditgar considerablamain la libra furmaziun da l’opiniun e da la voluntad d’ina autoritad suttamessa a questa lescha, d’in auter organ legislativ u administrativ u d’ina instanza giudiziala;
 - b. disturbar l’execuziun tenor las finamiras da mesiras concretas tras ina autoritad;
@@ -148,41 +149,43 @@ Il dretg d’access als documents uffizials vegn limità, suspendì u refusà, s
 - g. svelar secrets da professiun, da fatschenta u da fabricaziun;
 - h. divulgar infurmaziuns ch’èn vegnidas communitgadas voluntarmain da terzas persunas ad in’autoritad che aveva garantì da las tegnair secret.
 
-<sup>2</sup> Il dretg d’access als documents uffizials vegn limità, suspendì u refusà, sch’el po pregiuditgar la sfera privata da terzas persunas; excepziunalmain po dentant prevalair l’interess public a l’access.
+<sup>2</sup> Il dretg d’access a documents uffizials vegn limità, suspendì u refusà, sch’el po pregiuditgar la sfera privata da terzas persunas; excepziunalmain po dentant prevalair l’interess public a l’access.
 
 #### Art. 8
 
 **Cas spezials**
 
-<sup>1</sup> I n’exista nagin dretg d’access als documents uffizials da la procedura da cunrapport.
+<sup>1</sup> I n’exista nagin dretg d’access a documents uffizials da la procedura da cunrapport.
 
-<sup>2</sup> Ils documents uffizials dastgan vegnir rendids accessibels pir cur che la decisiun politica u administrativa, per la quala els èn la basa, è vegnida prendida.
+<sup>2</sup> Ils documents uffizials dastgan vegnir rendids accessibels pir, cura che la decisiun politica u administrativa, per la quala els èn la basa, è vegnida prendida.
 
 <sup>3</sup> Il Cussegl federal po decider excepziunalmain che documents uffizials da la consultaziun dals uffizis na vegnan betg rendids accessibels er suenter la decisiun.
 
-<sup>4</sup> L’access als documents uffizials concernent posiziuns relativas a tractativas currentas e futuras è en mintga cas exclus.
+<sup>4</sup> L’access a documents uffizials concernent posiziuns relativas a tractativas currentas e futuras è en mintga cas exclus.
 
-<sup>5</sup> L’access als rapports davart l’evaluaziun da la capacitad da prestaziun da l’administraziun federala e davart l’efficacitad da sias mesiras è garantì.
+<sup>5</sup> L’access a rapports davart l’evaluaziun da la capacitad da prestaziun da l’administraziun federala e davart l’efficacitad da sias mesiras è garantì.
 
 #### Art. 9
 
-**Protecziun da datas da persunas**
+**Protecziun da datas persunalas e da datas da persunas giuridicas**[^9-1]
 
-<sup>1</sup> Ils documents uffizials che cuntegnan datas da persunas ston, sche pussaivel, vegnir anonimisads avant che vegnir consultads.
+<sup>1</sup> Documents uffizials che cuntegnan datas persunalas u datas da persunas giuridicas ston, sche pussaivel, vegnir anonimisads avant che vegnir consultads.
 
-<sup>2</sup> Sche las dumondas d’access concernan documents uffizials che na pon betg vegnir anonimisads, vegn applitgà l’artitgel 19 da la Lescha federala davart la protecziun da datas[^9-1]. La procedura d’access sa drizza tenor la lescha qua avant maun.
+<sup>2</sup> Sche las dumondas d’access concernan documents uffizials che na pon betg vegnir anonimisads, ston ellas vegnir giuditgadas tenor l’artitgel 36 LPD[^9-2] en cas da datas persunalas e tenor l’artitgel 57*s* da la Lescha dals 21 da mars 1997[^9-3] davart l’organisaziun da la regenza e da l’administraziun en cas da datas da persunas giuridicas. La procedura d’access sa drizza tenor la lescha qua avant maun.
 
-[^9-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-1]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^9-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
-## 3. secziun Procedura d’access als documents uffizials
+## 3. secziun Procedura d’access a documents uffizials
 
 #### Art. 10
 
 **Dumonda d’access**
 
-<sup>1</sup> La dumonda d’access als documents uffizials sto vegnir drizzada a l’autoritad che ha fatg il document u che l’ha survegnì sco adressata principala da terzas persunas che na suttastattan betg a questa lescha.
+<sup>1</sup> La dumonda d’access a documents uffizials sto vegnir drizzada a l’autoritad che ha fatg il document u che l’ha survegnì sco adressata principala da terzas persunas che na suttastattan betg a questa lescha.
 
-<sup>2</sup> Il Cussegl federal po prevair ina procedura speziala per l’access als documents uffizials da las represchentanzas svizras a l’exteriur e da las missiuns tar organisaziuns internaziunalas.
+<sup>2</sup> Il Cussegl federal po prevair ina procedura speziala per l’access a documents uffizials da las represchentanzas svizras a l’exteriur e da las missiuns tar organisaziuns internaziunalas.
 
 <sup>3</sup> La dumonda sto esser formulada en moda suffizientamain clera.
 
@@ -196,11 +199,13 @@ Il Cussegl federal regla ils detagls da la procedura:
 
 #### Art. 11
 
-**Dretg da consultaziun**
+**Audiziun**[^11-1]
 
-<sup>1</sup> Sche la dumonda d’access concerna documents uffizials che cuntegnan datas da persunas e sche l’autoritad prevesa da conceder l’access, consultescha ella la persuna pertutgada e la dat l’occasiun da prender posiziun entaifer 10 dis.
+<sup>1</sup> Sche l’autoritad tira en consideraziun da conceder l’access a documents uffizials che pudessan violar la sfera privata da terzas persunas, en cas ch’els vegnan rendids accessibels, consultescha ella la terza persuna pertutgada e dat ad ella la chaschun da prender posiziun entaifer 10 dis.
 
-<sup>2</sup> L’autoritad infurmescha la persuna consultada davart sia posiziun pertutgant la dumonda d’access.
+<sup>2</sup> Ella infurmescha la persuna consultada davart sia posiziun pertutgant la dumonda d’access.
+
+[^11-1]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -208,11 +213,14 @@ Il Cussegl federal regla ils detagls da la procedura:
 
 <sup>1</sup> L’autoritad prenda posiziun uschè svelt sco pussaivel, en mintga cas dentant entaifer 20 dis suenter avair retschavì la dumonda.
 
-<sup>2</sup> Il termin po vegnir prolungà excepziunalmain per 20 dis, sche la dumonda concerna documents voluminus, cumplexs u grev da procurar. El vegn prolungà per la durada necessaria, sche la dumonda concerna documents uffizials che cuntegnan datas da persunas.
+<sup>2</sup> Il termin po vegnir prolungà excepziunalmain per 20 dis, sche la dumonda concerna documents voluminus, cumplexs u grevs da procurar. El vegn prolungà per la durada necessaria, sch’ina dumonda concerna documents uffizials che pudessan violar la sfera privata da terzas persunas, en cas ch’els vegnan rendids accessibels.[^12-1]
 
-<sup>3</sup> Sche la dumonda concerna documents uffizials che cuntegnan datas da persunas, suspenda l’autoritad l’access fin che la situaziun giuridica è sclerida.
+<sup>3</sup> Sche la dumonda concerna documents uffizials che pudessan violar la sfera privata da terzas persunas, en cas ch’els vegnan rendids accessibels, suspenda l’autoritad l’access, fin che la situaziun giuridica è sclerida.[^12-2]
 
 <sup>4</sup> L’autoritad infurmescha ils petents, sch’il termin vegn prolungà u sche l’access vegn limità u refusà ed inditgescha summaricamain ils motivs persuenter. L’infurmaziun e la motivaziun, sche l’access vegn limità u refusà, vegnan fatgas en scrit.
+
+[^12-1]: Versiun da la segunda frasa tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^12-2]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -220,38 +228,43 @@ Il Cussegl federal regla ils detagls da la procedura:
 
 <sup>1</sup>
 
-Ina dumonda da mediaziun po far mintga persuna:
+Mintga persuna po far ina dumonda da mediaziun:
 
-- a. da la quala l’access a documents uffizials vegn limità, suspendì u refusà;
-- b. davart la dumonda da la quala l’autoritad n’ha betg prendì posiziun entaifer il termin; u
-- c. ch’è vegnida consultada tenor l’artitgel 11, sche l’autoritad vul conceder l’access cunter sia voluntad.
+- a. sche l’access a documents uffizials vegn limità, suspendì u refusà ad ella;
+- b. sche l’autoritad n’ha betg prendì posiziun davart sia dumonda entaifer il termin; u
+- c. sche l’autoritad vul conceder l’access cunter sia voluntad, suenter ch’ella è vegnida tadlada tenor l’artitgel 11.
 
-<sup>2</sup> La dumonda da mediaziun sto vegnir fatga en scrit a l’incumbensà federal per la protecziun da datas e per la transparenza entaifer 20 dis suenter avair retschavì la posiziun da l’autoritad u suenter la scadenza dal termin che stat a disposiziun a l’autoritad per prender posiziun.
+<sup>2</sup> La dumonda da mediaziun sto vegnir fatga en scrit a l’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT) entaifer 20 dis suenter avair retschavì la posiziun da l’autoritad u suenter la scadenza dal termin che stat a disposiziun a l’autoritad per prender posiziun.[^13-1]
 
 <sup>3</sup> Sch’ina mediaziun reussescha, è la procedura liquidada.
+
+[^13-1]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
 **Recumandaziun**
 
-Sche la mediaziun na reussescha betg, consegna l’incumbensà federal per la protecziun da datas e per la transparenza, entaifer 30 dis suenter avair retschavì la dumonda da mediaziun, ina decleraziun en scrit a las persunas participadas.
+Sche la mediaziun na reussescha betg, consegna il IFPDT[^14-1], entaifer 30 dis suenter avair retschavì la dumonda da mediaziun, ina decleraziun en scrit a las persunas participadas.
+
+[^14-1]: Expressiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Questa midada è vegnida resguardada en l’entir decret.
 
 #### Art. 15
 
 **Disposiziun**
 
-<sup>1</sup> Il petent u la persuna consultada po pretender, entaifer 10 dis suenter avair retschavì la recumandaziun, ch’i vegnia relaschada ina disposiziun tenor l’artitgel 5 da la Lescha federala dals 20 da december 1968[^15-1] davart la procedura administrativa.
+<sup>1</sup> Il petent u la persuna consultada po pretender, entaifer 10 dis suenter avair retschavì la recumandaziun, ch’i vegnia decretada ina disposiziun tenor l’artitgel 5 da la Lescha federala dals 20 da december 1968[^15-1] davart la procedura administrativa.
 
 <sup>2</sup>
 
-Dal rest relascha l’autoritad ina disposiziun, sch’ella – divergentamain da la recumandaziun:
+Dal rest decretescha l’autoritad ina disposiziun, sch’ella vul – cuntrari a la recumandaziun:
 
-- a. vul limitar, suspender u refusar il dretg d’access ad in document uffizial;
-- b. vul conceder l’access ad in document uffizial che cuntegna datas da persunas.
+- a. limitar, suspender u refusar il dretg d’access ad in document uffizial;
+- b.[^15-2] conceder l’access ad in document uffizial che pudess violar la sfera privata da terzas persunas, en cas ch’el vegn rendì accessibel.
 
-<sup>3</sup> La disposiziun sto vegnir relaschada entaifer 20 dis suenter avair retschavì la recumandaziun u la dumonda da decisiun tenor l’alinea 1.
+<sup>3</sup> La disposiziun sto vegnir decretada entaifer 20 dis suenter avair retschavì la recumandaziun u la dumonda da decisiun tenor l’alinea 1.
 
 [^15-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15-2]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -259,9 +272,9 @@ Dal rest relascha l’autoritad ina disposiziun, sch’ella – divergentamain d
 
 <sup>1</sup> La procedura da recurs sa drizza tenor las disposiziuns generalas davart l’organisaziun giudiziala.
 
-<sup>2</sup> Las autoritads da recurs han er access als documents uffizials ch’èn suttamess a l’obligaziun da tegnair secret.
+<sup>2</sup> Las autoritads da recurs han er access a documents uffizials ch’èn suttamess a l’obligaziun da tegnair secret.
 
-[^16-1]: Versiun tenor la cifra 7 da l’agiunta a la L dals 17 da zercl. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352))
+[^16-1]: Versiun tenor la cifra 7 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
@@ -281,39 +294,44 @@ I na vegnan betg incassadas taxas per:
 
 <sup>4</sup> Per consegnar rapports, broschuras u auters stampats e purtaders d’infurmaziuns po en mintga cas vegnir incassada ina taxa.
 
-[^17-1]: Correctura dals 19 d’avust 2014, reguarda mo il text talian ([AS 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)).
+[^17-1]: Correctura dals 19 d’avust 2014 ([AS 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)). Pertutga mo il text talian.
 
-## 4. secziun L’Incumbensà federal per la protecziun da datas e per la transparenza
+## 4. secziun Il IFPDT
 
 #### Art. 18
 
 **Incumbensas e cumpetenzas**
 
-Tenor la lescha qua avant maun ha l’Incumbensà federal per la protecziun da datas e per la transparenza (incumbensà) tenor l’artitgel 26 da la Lescha federala davart la protecziun da datas[^18-1] en spezial las suandantas incumbensas e cumpetenzas:
+Tenor questa lescha ha il IFPDT en spezial las suandantas incumbensas e cumpetenzas:[^18-1]
 
-- a. el maina la procedura da mediaziun (art. 13) e fa la recumandaziun, sch’ina mediaziun na reussescha betg (art. 14);
-- b. infurmescha d’uffizi u sin dumonda da persunas privatas e d’autoritads davart las modalitads da l’access als documents uffizials;
-- c. s’exprima davart ils sbozs dals relaschs e davart las mesiras da la Confederaziun che concernan considerablamain il princip da transparenza.
+- a.[^18-2] el maina la procedura da mediaziun (art. 13) e fa ina recumandaziun, sch’ina mediaziun na reussescha betg (art. 14);
+- b.[^18-3] el infurmescha – d’uffizi u sin dumonda da persunas privatas e d’autoritads – davart las modalitads da l’access a documents uffizials;
+- c.[^18-4] el po s’exprimer davart ils sbozs da decrets e davart las mesiras da la Confederaziun che concernan considerablamain il princip da transparenza.
 
-[^18-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-1]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-2]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-3]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-4]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 19
 
 **Evaluaziun**
 
-<sup>1</sup> L’incumbensà evaluescha l’applicaziun, l’efficacitad ed en spezial ils custs che vegnan chaschunads da l’execuziun da questa lescha e fa regularmain in rapport per mauns dal Cussegl federal.
+<sup>1</sup> Il IFPDT evaluescha l’applicaziun, l’efficacitad ed en spezial ils custs che vegnan chaschunads tras l’execuziun da questa lescha e fa regularmain in rapport per mauns dal Cussegl federal.
 
-<sup>2</sup> In emprim rapport davart ils custs che resultan da l’execuziun da questa lescha sto vegnir suttamess al Cussegl federal entaifer 3 onns suenter l’entrada en vigur da questa lescha.
+<sup>2</sup> In emprim rapport davart ils custs che resultan tras l’execuziun da questa lescha sto vegnir suttamess al Cussegl federal entaifer 3 onns suenter l’entrada en vigur da questa lescha.
 
-<sup>3</sup> Ils rapports da l’incumbensà vegnan publitgads.
+<sup>3</sup> Ils rapports dal IFPDT vegnan publitgads.
 
 #### Art. 20
 
-**Dretgs d’obtegnair infurmaziuns e da consultar ils documents**
+**Dretgs d’obtegnair infurmaziuns e da consultar documents**
 
-<sup>1</sup> En il rom da la procedura da mediaziun ha l’incumbensà er access als documents uffizials ch’èn suttamess a l’obligaziun da tegnair secret.
+<sup>1</sup> En il rom da la procedura da mediaziun ha il IFPDT er access a documents uffizials ch’èn suttamess a l’obligaziun da tegnair secret.
 
-<sup>2</sup> L’incumbensà e ses secretariat èn suttamess al secret d’uffizi en la medema dimensiun sco las autoritads, da las qualas els consulteschan ils documents uffizials u survegnan infurmaziuns.
+<sup>2</sup> Il IFPDT è suttamess al secret d’uffizi en la medema dimensiun sco las autoritads che concedan access a documents uffizials u che dattan infurmaziuns ad el.[^20-1]
+
+[^20-1]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 5. secziun Disposiziuns finalas
 
@@ -321,7 +339,7 @@ Tenor la lescha qua avant maun ha l’Incumbensà federal per la protecziun da d
 
 **Execuziun**
 
-Il Cussegl federal po en spezial relaschar disposiziuns davart:
+Il Cussegl federal po en spezial decretar disposiziuns davart:
 
 - a. la gestiun dals documents uffizials;
 - b. l’infurmaziun davart ils documents uffizials;
@@ -349,7 +367,7 @@ Questa lescha vegn applitgada per ils documents uffizials ch’èn vegnids fatgs
 
 Data da l’entrada en vigur: 1. da fanadur 2006[^24-1]
 
-[^24-1]: COCF dals 24 da matg 2006 (AS **2006** 2326).
+[^24-1]: COCF dals 24 da matg 2006.
 
 Agiunta
 
@@ -361,4 +379,4 @@ Las leschas qua sutvart vegnan midadas sco suonda:
 
 …[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Las midadas pon vegnir consultadas sut [AS 2006 2319](https://fedlex.data.admin.ch/eli/oc/2006/355).
+[^annexu1-lvlu1-1]: Las midadas pon vegnir consultadas en la [AS 2006 2319](https://fedlex.data.admin.ch/eli/oc/2006/355).

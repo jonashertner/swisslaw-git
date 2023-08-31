@@ -4,11 +4,11 @@ title: "Legge federale del 17 dicembre 2004 sul principio di trasparenza dell'am
 short: LTras
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: it
-version: 2014-08-19
+version: 2023-09-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20140819/it/xml/fedlex-data-admin-ch-eli-cc-2006-355-20140819-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/it"
 
 (Legge sulla trasparenza, LTras)
 
-del 17 dicembre 2004 (Stato 19 agosto 2014)
+del 17 dicembre 2004 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -59,7 +59,7 @@ Il Consiglio federale può escludere dal campo d’applicazione altre unità del
 - c. i compiti che sono stati loro affidati sono di poca importanza.
 
 [^2-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^2-2]: Nuovo testo giusta il n. 1 dell'all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^2-2]: Nuovo testo giusta il n. 1 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 3
 
@@ -79,9 +79,10 @@ La presente legge non si applica:
 
 - b. al diritto di una parte di consultare gli atti nell’ambito di una procedura amministrativa di prima istanza.
 
-<sup>2</sup> L’accesso ai documenti ufficiali che contengono dati del richiedente è retto dalla legge federale del 19 giugno 1992[^3-1] sulla protezione dei dati (LPD).
+<sup>2</sup> L’accesso ai documenti ufficiali che contengono dati personali del richiedente è retto dalla legge federale del 25 settembre 2020[^3-1] sulla protezione dei dati (LPD).[^3-2]
 
 [^3-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3-2]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 4
 
@@ -161,13 +162,15 @@ Il diritto di accesso a un documento ufficiale è limitato, differito o negato s
 
 #### Art. 9
 
-**Protezione dei dati personali**
+**Protezione dei dati personali e dei dati concernenti persone giuridiche**[^9-1]
 
-<sup>1</sup> I documenti ufficiali che contengono dati personali devono, se possibile, essere resi anonimi prima di essere consultati.
+<sup>1</sup> I documenti ufficiali che contengono dati personali o dati concernenti persone giuridiche devono, se possibile, essere resi anonimi prima di essere consultati.
 
-<sup>2</sup> Se la domanda di accesso concerne documenti ufficiali che non possono essere resi anonimi, si applica l’articolo 19 LPD[^9-1]. La procedura di accesso è retta dalla presente legge.
+<sup>2</sup> Se la domanda di accesso concerne documenti ufficiali che non possono essere resi anonimi, ai dati personali si applica l’articolo 36 LPD[^9-2] e ai dati concernenti persone giuridiche l’articolo 57*s* della legge del 21 marzo 1997[^9-3] sull’organizzazione del Governo e dell’Amministrazione. La procedura di accesso è retta dalla presente legge.
 
-[^9-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-1]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^9-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ## Sezione 3: Procedura di accesso ai documenti ufficiali
 
@@ -191,11 +194,13 @@ Il Consiglio federale disciplina le modalità della procedura:
 
 #### Art. 11
 
-**Diritto di essere consultati**
+**Diritto di essere consultati**[^11-1]
 
-<sup>1</sup> Se la domanda di accesso concerne documenti ufficiali che contengono dati personali, l’autorità, qualora preveda di accordare l’accesso, consulta la persona interessata e le dà la possibilità di presentare le proprie osservazioni entro dieci giorni.
+<sup>1</sup> Se prevede di accordare l’accesso a documenti ufficiali la cui consultazione potrebbe ledere la sfera privata di terzi, l’autorità consulta il terzo interessato e gli dà la possibilità di presentare le proprie osservazioni entro dieci giorni.
 
-<sup>2</sup> L’autorità informa la persona consultata della sua presa di posizione sulla domanda di accesso.
+<sup>2</sup> Informa la persona consultata della sua presa di posizione sulla domanda di accesso.
+
+[^11-1]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -203,11 +208,14 @@ Il Consiglio federale disciplina le modalità della procedura:
 
 <sup>1</sup> L’autorità si pronuncia il più presto possibile, ma al più tardi venti giorni dopo la ricezione della domanda.
 
-<sup>2</sup> Il termine può essere eccezionalmente prorogato di venti giorni se la domanda concerne documenti voluminosi, complessi o difficili da reperire. È prorogato della durata necessaria se la domanda concerne documenti ufficiali che contengono dati personali.
+<sup>2</sup> Il termine può essere eccezionalmente prorogato di venti giorni se la domanda concerne documenti voluminosi, complessi o difficili da reperire. È prorogato della durata necessaria se la domanda concerne documenti ufficiali la cui consultazione potrebbe ledere la sfera privata di terzi.[^12-1]
 
-<sup>3</sup> Se la domanda concerne documenti ufficiali che contengono dati personali, l’accesso è sospeso fino a quando la situazione giuridica sia chiarita.
+<sup>3</sup> Se la domanda concerne documenti ufficiali la cui consultazione potrebbe ledere la sfera privata di terzi, l’accesso è sospeso fino a quando la situazione giuridica sia chiarita.[^12-2]
 
 <sup>4</sup> L’autorità informa il richiedente quando il termine è prorogato o il diritto di accesso limitato o negato e ne indica sommariamente i motivi. L’informazione e la motivazione relative alla limitazione o al diniego dell’accesso devono avvenire per scritto.
+
+[^12-1]: Nuovo testo del per. giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^12-2]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -221,15 +229,19 @@ Può presentare una domanda scritta di mediazione la persona:
 - b. sulla cui domanda l’autorità non si è pronunciata entro il termine; o
 - c. che è stata consultata secondo l’articolo 11, se l’autorità intende accordare l’accesso contro la sua volontà.
 
-<sup>2</sup> La domanda di mediazione deve essere presentata per scritto all’Incaricato federale della protezione dei dati e della trasparenza entro venti giorni dalla ricezione della presa di posizione dell’autorità o dallo scadere del termine di cui l’autorità dispone per prendere posizione.
+<sup>2</sup> La domanda di mediazione deve essere presentata per scritto all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) entro venti giorni dalla ricezione della presa di posizione dell’autorità o dallo scadere del termine di cui l’autorità dispone per prendere posizione.[^13-1]
 
 <sup>3</sup> Se la mediazione ha successo, la pratica è tolta dal ruolo.
+
+[^13-1]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
 **Raccomandazione**
 
-Se la mediazione non ha successo, l’Incaricato federale della protezione dei dati e della trasparenza emana, entro trenta giorni dalla ricezione della domanda di mediazione, una raccomandazione scritta all’attenzione dei partecipanti alla procedura.
+Se la mediazione non ha successo, l’IFPDT[^14-1] emana, entro trenta giorni dalla ricezione della domanda di mediazione, una raccomandazione scritta all’attenzione dei partecipanti alla procedura.
+
+[^14-1]: Nuova espr. giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 15
 
@@ -242,11 +254,12 @@ Se la mediazione non ha successo, l’Incaricato federale della protezione dei d
 Per il resto l’autorità pronuncia una decisione se, diversamente da quanto raccomandato:
 
 - a. intende limitare, differire o negare il diritto di accesso a un documento ufficiale;
-- b. intende accordare il diritto di accesso a un documento ufficiale che contiene dati personali.
+- b.[^15-2] intende accordare il diritto di accesso a un documento ufficiale la cui consultazione potrebbe ledere la sfera privata di terzi.
 
 <sup>3</sup> La decisione è pronunciata entro venti giorni dalla ricezione della raccomandazione o dalla ricezione della richiesta di decisione ai sensi del capoverso 1.
 
 [^15-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15-2]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -278,37 +291,39 @@ Non vengono riscossi emolumenti per:
 
 [^17-1]: Correzione del 16 giu. 2014 ([RU 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)).
 
-## Sezione 4: Incaricato federale della protezione dei dati e della trasparenza
+## Sezione 4: IFPDT
 
 #### Art. 18
 
 **Compiti e competenze**
 
-Secondo la presente legge, l’Incaricato federale della protezione dei dati e della trasparenza (Incaricato), di cui all’articolo 26 LPD[^18-1], ha in particolare i compiti e le competenze seguenti:
+Secondo la presente legge, l’IFPDT ha in particolare i compiti e le competenze seguenti:[^18-1]
 
 - a. dirige la procedura di mediazione (art. 13) ed emana una raccomandazione se la mediazione non ha successo (art. 14);
 - b. d’ufficio o su richiesta, informa i privati e le autorità sulle modalità di accesso ai documenti ufficiali;
 - c. si pronuncia in merito ai progetti di atti legislativi federali e ai provvedimenti federali che concernono in misura considerevole il principio della trasparenza.
 
-[^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-1]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 19
 
 **Valutazione**
 
-<sup>1</sup> L’Incaricato valuta l’applicazione, gli effetti e, in particolare, i costi provocati dall’esecuzione della presente legge e redige periodicamente un rapporto all’attenzione del Consiglio federale.
+<sup>1</sup> L’IFPDT valuta l’applicazione, gli effetti e, in particolare, i costi provocati dall’esecuzione della presente legge e redige periodicamente un rapporto all’attenzione del Consiglio federale.
 
 <sup>2</sup> Un primo rapporto sui costi provocati dall’esecuzione della presente legge è sottoposto al Consiglio federale entro tre anni dall’entrata in vigore della legge.
 
-<sup>3</sup> I rapporti dell’Incaricato sono pubblicati.
+<sup>3</sup> I rapporti dell’IFPDT sono pubblicati.
 
 #### Art. 20
 
 **Diritto di ottenere informazioni e di consultare i documenti**
 
-<sup>1</sup> Nell’ambito della procedura di mediazione, l’Incaricato ha anche accesso ai documenti ufficiali soggetti al segreto d’ufficio.
+<sup>1</sup> Nell’ambito della procedura di mediazione, l’IFPDT ha anche accesso ai documenti ufficiali soggetti al segreto d’ufficio.
 
-<sup>2</sup> L’Incaricato e il suo segretariato sottostanno al segreto d’ufficio nella stessa misura delle autorità di cui consultano i documenti ufficiali o da cui ottengono informazioni.
+<sup>2</sup> L’IFPDT sottostà al segreto d’ufficio nella stessa misura delle autorità di cui consulta i documenti ufficiali o da cui ottiene informazioni.[^20-1]
+
+[^20-1]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -356,4 +371,4 @@ Le leggi qui appresso sono modificate come segue:
 
 …[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla RU**2006** 2319.
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2006 2319](https://fedlex.data.admin.ch/eli/oc/2006/355).

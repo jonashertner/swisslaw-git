@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 décembre 2004 sur le principe de la transparence d
 short: LTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: fr
-version: 2014-08-19
+version: 2023-09-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20140819/fr/xml/fedlex-data-admin-ch-eli-cc-2006-355-20140819-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/fr"
 
 (Loi sur la transparence, LTrans)
 
-du 17 décembre 2004 (Etat le 19 août 2014)
+du 17 décembre 2004 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -34,7 +34,7 @@ arrête:
 
 **But et objet**
 
-La présente loi vise à promouvoir la transparence quant à la mission, l’organisation et l’activité de l’administration. A cette fin, elle contribue à l’information du public en garantissant l’accès aux documents officiels.
+La présente loi vise à promouvoir la transparence quant à la mission, l’organisation et l’activité de l’administration. À cette fin, elle contribue à l’information du public en garantissant l’accès aux documents officiels.
 
 #### Art. 2
 
@@ -59,7 +59,7 @@ Le Conseil fédéral peut soustraire au champ d’application de la loi d’autr
 - c. si les tâches qui leur ont été confiées sont d’importance mineure.
 
 [^2-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^2-2]: Nouvelle teneur selon le ch. 1 de l’annexe à la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. 1 de la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 3
 
@@ -82,9 +82,10 @@ La présente loi ne s’applique pas:
 
 - b. à la consultation du dossier par une partie dans une procédure administrative de première instance.
 
-<sup>2</sup> L’accès aux documents officiels contenant les données personnelles du demandeur est régi par la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^3-1].
+<sup>2</sup> L’accès aux documents officiels contenant des données personnelles du demandeur est régi par la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^3-1].[^3-2]
 
 [^3-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3-2]: Nouvelle teneur selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 4
 
@@ -164,13 +165,15 @@ Le droit d’accès est limité, différé ou refusé, lorsque l’accès à un 
 
 #### Art. 9
 
-**Protection des données personnelles**
+**Protection des données personnelles et des données concernant des personnes morales**[^9-1]
 
-<sup>1</sup> Les documents officiels contenant des données personnelles doivent être si possible rendus anonymes avant qu’ils soient consultés.
+<sup>1</sup> Les documents officiels contenant des données personnelles ou des données concernant des personnes morales doivent être si possible rendus anonymes avant qu’ils soient consultés.
 
-<sup>2</sup> Lorsque la demande d’accès porte sur des documents officiels qui ne peuvent pas être rendus anonymes, l’art. 19 LPD[^9-1] est applicable. La procédure d’accès est régie par la présente loi.
+<sup>2</sup> Lorsque la demande d’accès porte sur des documents officiels qui ne peuvent pas être rendus anonymes, l’art. 36 LPD[^9-2] est applicable pour les données personnelles et l’art. 57*s* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^9-3] pour les données concernant des personnes morales. La procédure d’accès est régie par la présente loi.
 
-[^9-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^9-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ## Section 3 Procédure d’accès aux documents officiels
 
@@ -194,11 +197,13 @@ Le Conseil fédéral règle les modalités de la procédure:
 
 #### Art. 11
 
-**Droit d’être entendu**
+**Droit d’être entendu**[^11-1]
 
-<sup>1</sup> Lorsqu’un tiers dépose une demande portant sur des documents officiels contenant des données personnelles et que l’autorité envisage d’y donner suite, elle consulte la personne concernée et l’invite à se prononcer dans un délai de dix jours.
+<sup>1</sup> Lorsque l’autorité envisage d’accorder l’accès à un document officiel dont la consultation est susceptible de porter atteinte à la sphère privée de tiers, elle consulte les tiers concernés et les invite à se prononcer dans un délai de dix jours.
 
-<sup>2</sup> L’autorité informe la personne entendue de sa prise de position sur la demande d’accès.
+<sup>2</sup> Elle les informe de sa prise de position sur la demande d’accès.
+
+[^11-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -206,11 +211,14 @@ Le Conseil fédéral règle les modalités de la procédure:
 
 <sup>1</sup> L’autorité prend position aussitôt que possible, mais au plus tard dans un délai de 20 jours à compter de la date de la réception de la demande.
 
-<sup>2</sup> Ce délai peut être exceptionnellement prolongé de 20 jours lorsque la demande d’accès porte sur un grand nombre de documents ou sur des documents complexes ou difficiles à se procurer. Il est prolongé de la durée nécessaire lorsque la demande porte sur des documents officiels contenant des données personnelles.
+<sup>2</sup> Ce délai peut être exceptionnellement prolongé de 20 jours lorsque la demande d’accès porte sur un grand nombre de documents ou sur des documents complexes ou difficiles à se procurer. Il est prolongé de la durée nécessaire lorsque la demande porte sur des documents officiels dont la consultation est susceptible de porter atteinte à la sphère privée de tiers.[^12-1]
 
-<sup>3</sup> Lorsque la demande porte sur des documents officiels contenant des données personnelles, l’autorité diffère l’accès jusqu’à droit connu.
+<sup>3</sup> Lorsque la demande porte sur des documents officiels dont la consultation est susceptible de porter atteinte à la sphère privée de tiers, l’autorité diffère l’accès jusqu’à droit connu.[^12-2]
 
 <sup>4</sup> L’autorité informe le demandeur, en motivant sommairement sa prise de position, lorsque le délai est prolongé ou le droit d’accès limité ou refusé. La limitation ou le refus du droit d’accès et son motif sont communiqués par écrit.
+
+[^12-1]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^12-2]: Nouvelle teneur selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -224,15 +232,19 @@ Toute personne peut déposer une demande en médiation:
 - b. lorsque l’autorité n’a pas pris position sur sa demande dans les délais;
 - c. lorsque l’autorité, après l’avoir entendue selon l’art. 11, entend accorder l’accès aux documents malgré son opposition.
 
-<sup>2</sup> La demande en médiation est déposée par écrit auprès du Préposé fédéral à la protection des données et à la transparence dans un délai de 20 jours à compter de la date de réception de la prise de position de l’autorité ou à l’échéance des délais fixés à l’autorité pour prendre position.
+<sup>2</sup> La demande en médiation est déposée par écrit auprès du Préposé fédéral à la protection des données et à la transparence (PFPDT) dans un délai de 20 jours à compter de la date de réception de la prise de position de l’autorité ou à l’échéance des délais fixés à l’autorité pour prendre position.[^13-1]
 
 <sup>3</sup> Lorsque la médiation aboutit, l’affaire est classée.
+
+[^13-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
 **Recommandation**
 
-Lorsque la médiation n’aboutit pas, le Préposé fédéral à la protection des données et à la transparence établit une recommandation écrite à l’attention des participants à la procédure dans les 30 jours qui suivent la réception de la demande en médiation.
+Lorsque la médiation n’aboutit pas, le PFPDT[^14-1] établit une recommandation écrite à l’attention des participants à la procédure dans les 30 jours qui suivent la réception de la demande en médiation.
+
+[^14-1]: Nouvelle expression selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 15
 
@@ -245,11 +257,12 @@ Lorsque la médiation n’aboutit pas, le Préposé fédéral à la protection d
 Au surplus, l’autorité rend une décision si, en dérogation à la recommandation:
 
 - a. elle entend limiter, différer ou refuser le droit d’accès;
-- b. elle entend accorder le droit d’accès à un document officiel contenant des données personnelles.
+- b.[^15-2] elle entend accorder l’accès à un document officiel dont la consultation est susceptible de porter atteinte à la sphère privée de tiers.
 
 <sup>3</sup> Une décision est rendue dans un délai de 20 jours à compter de la date de réception de la recommandation ou de la requête en décision au sens de l’al. 1.
 
 [^15-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15-2]: Nouvelle teneur selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -259,7 +272,7 @@ Au surplus, l’autorité rend une décision si, en dérogation à la recommanda
 
 <sup>2</sup> Les autorités de recours ont aussi accès aux documents officiels protégés par le secret.
 
-[^16-1]: Nouvelle teneur selon le ch. 7 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^16-1]: Nouvelle teneur selon l’annexe ch. 7 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
@@ -281,37 +294,39 @@ Il n’est pas perçu d’émolument:
 
 [^17-1]: Erratum du 19 août 2014, ne concerne que le texte italien ([RO 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)).
 
-## Section 4 Préposé fédéral à la protection des données et à la transparence
+## Section 4 PFPDT
 
 #### Art. 18
 
 **Tâches et compétences**
 
-En vertu de la présente loi, le Préposé fédéral à la protection des données et à la transparence (préposé) selon l’art. 26 LPD[^18-1] a en particulier les tâches et compétences suivantes:
+En vertu de la présente loi, le PFPDT a en particulier les tâches et compétences suivantes:[^18-1]
 
 - a. conduire la procédure de médiation (art. 13) et formuler une recommandation (art. 14) lorsque la médiation n’aboutit pas;
 - b. informer d’office ou à la demande de particuliers ou d’autorités sur les modalités d’accès à des documents officiels;
 - c. prendre position sur les projets d’actes législatifs fédéraux ou les mesures de la Confédération qui touchent fondamentalement au principe de la transparence.
 
-[^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 19
 
 **Evaluation**
 
-<sup>1</sup> Le préposé évalue l’application, l’efficacité et en particulier les coûts engendrés par la mise en œuvre de la présente loi; il en fait régulièrement rapport au Conseil fédéral.
+<sup>1</sup> Le PFPDT évalue l’application, l’efficacité et en particulier les coûts engendrés par la mise en œuvre de la présente loi; il en fait régulièrement rapport au Conseil fédéral.
 
 <sup>2</sup> Il soumet au Conseil fédéral un premier rapport sur les coûts de mise en œuvre de la présente loi dans un délai de trois ans à compter de l’entrée en vigueur de celle-ci.
 
-<sup>3</sup> Les rapports du préposé sont publiés.
+<sup>3</sup> Les rapports du PFPDT sont publiés.
 
 #### Art. 20
 
 **Droit d’obtenir des renseignements et de consulter les documents**
 
-<sup>1</sup> Le préposé a accès aux documents officiels dans le cadre de la procédure de médiation, même si ceux-ci sont secrets.
+<sup>1</sup> Le PFPDT a accès aux documents officiels dans le cadre de la procédure de médiation, même si ceux-ci sont secrets.
 
-<sup>2</sup> Le préposé et son secrétariat sont soumis au secret de fonction dans la même mesure que les autorités dont ils consultent les documents officiels ou dont ils obtiennent des renseignements.
+<sup>2</sup> Le PFPDT est soumis au secret de fonction dans la même mesure que les autorités dont il consulte les documents officiels ou dont il obtient des renseignements.[^20-1]
+
+[^20-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Section 5 Dispositions finales
 

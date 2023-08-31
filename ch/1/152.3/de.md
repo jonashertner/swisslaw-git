@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der
 short: BGÖ
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: de
-version: 2014-08-19
+version: 2023-09-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20140819/de/xml/fedlex-data-admin-ch-eli-cc-2006-355-20140819-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/de"
 
 (Öffentlichkeitsgesetz, BGÖ)
 
-vom 17. Dezember 2004 (Stand am 19. August 2014)
+vom 17. Dezember 2004 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -82,9 +82,10 @@ Dieses Gesetz gilt nicht für:
 
 - b. die Einsichtnahme einer Partei in die Akten eines erstinstanzlichen Verwaltungsverfahrens.
 
-<sup>2</sup> Der Zugang zu amtlichen Dokumenten, die persönliche Daten der Gesuchstellerin oder des Gesuchstellers enthalten, richtet sich nach dem Bundesgesetz vom 19. Juni 1992[^3-1] über den Datenschutz (Datenschutzgesetz).
+<sup>2</sup> Der Zugang zu amtlichen Dokumenten, die Personendaten der Gesuchstellerin oder des Gesuchstellers enthalten, richtet sich nach dem Datenschutzgesetz vom 25. September 2020[^3-1] (DSG).[^3-2]
 
 [^3-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3-2]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 4
 
@@ -164,13 +165,15 @@ Der Zugang zu amtlichen Dokumenten wird eingeschränkt, aufgeschoben oder verwei
 
 #### Art. 9
 
-**Schutz von Personendaten**
+**Schutz von Personendaten und von Daten juristischer Personen**[^9-1]
 
-<sup>1</sup> Amtliche Dokumente, welche Personendaten enthalten, sind nach Möglichkeit vor der Einsichtnahme zu anonymisieren.
+<sup>1</sup> Amtliche Dokumente, die Personendaten oder Daten juristischer Personen enthalten, sind nach Möglichkeit vor der Einsichtnahme zu anonymisieren.
 
-<sup>2</sup> Zugangsgesuche, die sich auf amtliche Dokumente beziehen, welche nicht anonymisiert werden können, sind nach Artikel 19 des Datenschutzgesetzes[^9-1] zu beurteilen. Das Zugangsverfahren richtet sich nach dem vorliegenden Gesetz.
+<sup>2</sup> Zugangsgesuche, die sich auf amtliche Dokumente beziehen, die nicht anonymisiert werden können, sind für Personendaten nach Artikel 36 DSG[^9-2] und für Daten juristischer Personen nach Artikel 57*s* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^9-3] zu beurteilen. Das Zugangsverfahren richtet sich nach dem vorliegenden Gesetz.
 
-[^9-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-1]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^9-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ## 3. Abschnitt: Verfahren für den Zugang zu amtlichen Dokumenten
 
@@ -194,11 +197,13 @@ Der Bundesrat regelt die Einzelheiten des Verfahrens:
 
 #### Art. 11
 
-**Anhörung**
+**Anhörung**[^11-1]
 
-<sup>1</sup> Betrifft das Gesuch amtliche Dokumente, die Personendaten enthalten, und zieht die Behörde die Gewährung des Zugangs in Betracht, so konsultiert sie die betroffene Person und gibt ihr Gelegenheit zur Stellungnahme innert zehn Tagen.
+<sup>1</sup> Zieht die Behörde in Erwägung, den Zugang zu amtlichen Dokumenten zu gewähren, durch deren Zugänglichmachung die Privatsphäre Dritter beeinträchtigt werden kann, so konsultiert sie den betroffenen Dritten und gibt ihm Gelegenheit zur Stellungnahme innert zehn Tagen.
 
-<sup>2</sup> Die Behörde informiert die angehörte Person über ihre Stellungnahme zum Gesuch.
+<sup>2</sup> Sie informiert die angehörte Person über ihre Stellungnahme zum Gesuch.
+
+[^11-1]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -206,11 +211,14 @@ Der Bundesrat regelt die Einzelheiten des Verfahrens:
 
 <sup>1</sup> Die Behörde nimmt so rasch als möglich Stellung, in jedem Fall aber innert 20 Tagen nach Eingang des Gesuches.
 
-<sup>2</sup> Die Frist kann ausnahmsweise um 20 Tage verlängert werden, wenn das Gesuch umfangreiche, komplexe oder schwer beschaffbare Dokumente betrifft. Sie wird um die erforderliche Dauer verlängert, wenn sich ein Gesuch auf amtliche Dokumente bezieht, welche Personendaten enthalten.
+<sup>2</sup> Die Frist kann ausnahmsweise um 20 Tage verlängert werden, wenn das Gesuch umfangreiche, komplexe oder schwer beschaffbare Dokumente betrifft. Sie wird um die erforderliche Dauer verlängert, wenn sich ein Gesuch auf amtliche Dokumente bezieht, durch deren Zugänglichmachung die Privatsphäre Dritter beeinträchtigt werden kann.[^12-1]
 
-<sup>3</sup> Betrifft das Gesuch amtliche Dokumente, welche Personendaten enthalten, so schiebt die Behörde den Zugang bis zur Klärung der Rechtslage auf.
+<sup>3</sup> Betrifft das Gesuch amtliche Dokumente, durch deren Zugänglichmachung die Privatsphäre Dritter beeinträchtigt werden kann, so schiebt die Behörde den Zugang auf, bis die Rechtslage geklärt ist.[^12-2]
 
 <sup>4</sup> Die Behörde informiert die Gesuchstellerinnen und Gesuchsteller über eine Fristverlängerung oder über eine Beschränkung oder Verweigerung des Zugangs und begründet sie summarisch. Die Information über die Beschränkung oder Verweigerung des Zugangs sowie die Begründung erfolgen schriftlich.
+
+[^12-1]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^12-2]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -224,15 +232,19 @@ Einen Schlichtungsantrag stellen kann eine Person:
 - b. zu deren Gesuch die Behörde nicht fristgerecht Stellung genommen hat; oder
 - c. die nach Artikel 11 angehört worden ist, wenn die Behörde gegen ihren Willen den Zugang gewähren will.
 
-<sup>2</sup> Der Schlichtungsantrag ist der oder dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten innert 20 Tagen nach Empfang der Stellungnahme oder nach Ablauf der der Behörde für die Stellungnahme zur Verfügung stehenden Frist schriftlich zu stellen.
+<sup>2</sup> Der Schlichtungsantrag ist dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) innert 20 Tagen nach Empfang der Stellungnahme oder nach Ablauf der der Behörde für die Stellungnahme zur Verfügung stehenden Frist schriftlich zu stellen.[^13-1]
 
 <sup>3</sup> Kommt eine Schlichtung zustande, so gilt das Verfahren als erledigt.
+
+[^13-1]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
 **Empfehlung**
 
-Kommt keine Schlichtung zustande, so gibt die oder der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte innert 30 Tagen nach Empfang des Schlichtungsantrages den am Schlichtungsverfahren Beteiligten eine schriftliche Empfehlung ab.
+Kommt keine Schlichtung zustande, so gibt der EDÖB[^14-1] innert 30 Tagen nach Empfang des Schlichtungsantrages den am Schlichtungsverfahren Beteiligten eine schriftliche Empfehlung ab.
+
+[^14-1]: Ausdruck gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 15
 
@@ -245,11 +257,12 @@ Kommt keine Schlichtung zustande, so gibt die oder der Eidgenössische Datenschu
 Im Übrigen erlässt die Behörde eine Verfügung, wenn sie in Abweichung von der Empfehlung:
 
 - a. das Recht auf Zugang zu einem amtlichen Dokument einschränken, aufschieben oder verweigern will;
-- b. den Zugang zu einem amtlichen Dokument, das Personendaten enthält, gewähren will.
+- b.[^15-2] den Zugang zu einem amtlichen Dokument gewähren will, durch dessen Zugänglichmachung die Privatsphäre Dritter beeinträchtigt werden kann.
 
 <sup>3</sup> Die Verfügung ist innert 20 Tagen nach Empfang der Empfehlung oder nach Eingang des Gesuches nach Absatz 1 zu erlassen.
 
 [^15-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15-2]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -281,37 +294,42 @@ Keine Gebühren werden erhoben:
 
 [^17-1]: Berichtigung vom 19. Aug. 2014 ([AS 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)). Betrifft nur den italienischen Text.
 
-## 4. Abschnitt: Die oder der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte
+## 4. Abschnitt: Der EDÖB
 
 #### Art. 18
 
 **Aufgaben und Kompetenzen**
 
-Die oder der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (die oder der Beauftragte) nach Artikel 26 des Datenschutzgesetzes[^18-1] hat nach dem vorliegenden Gesetz insbesondere folgende Aufgaben und Kompetenzen:
+Der EDÖB hat nach dem vorliegenden Gesetz insbesondere folgende Aufgaben und Kompetenzen:[^18-1]
 
-- a. Sie oder er leitet das Schlichtungsverfahren (Art. 13) und gibt, für den Fall, dass es zu keiner Schlichtung kommt, eine Empfehlung ab (Art. 14).
-- b. Sie oder er informiert von Amtes wegen oder auf Anfrage Private und Behörden über die Modalitäten des Zugangs zu amtlichen Dokumenten.
-- c. Sie oder er kann sich zu Erlassentwürfen und Massnahmen des Bundes, welche das Öffentlichkeitsprinzip wesentlich betreffen, äussern.
+- a.[^18-2] Er leitet das Schlichtungsverfahren (Art. 13) und gibt, für den Fall, dass es zu keiner Schlichtung kommt, eine Empfehlung ab (Art. 14).
+- b.[^18-3] Er informiert von Amtes wegen oder auf Anfrage Private und Behörden über die Modalitäten des Zugangs zu amtlichen Dokumenten.
+- c.[^18-4] Er kann sich zu Erlassentwürfen und Massnahmen des Bundes, welche das Öffentlichkeitsprinzip wesentlich betreffen, äussern.
 
-[^18-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-1]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-2]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-3]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-4]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 19
 
 **Evaluation**
 
-<sup>1</sup> Die oder der Beauftragte überprüft den Vollzug und die Wirksamkeit dieses Gesetzes sowie insbesondere die durch seine Umsetzung verursachten Kosten und erstattet dem Bundesrat regelmässig Bericht.
+<sup>1</sup> Der EDÖB überprüft den Vollzug und die Wirksamkeit dieses Gesetzes sowie insbesondere die durch seine Umsetzung verursachten Kosten und erstattet dem Bundesrat regelmässig Bericht.
 
 <sup>2</sup> Ein erster Bericht über die Umsetzungskosten ist dem Bundesrat innert drei Jahren nach Inkrafttreten dieses Gesetzes vorzulegen.
 
-<sup>3</sup> Die Berichte der oder des Beauftragten werden veröffentlicht.
+<sup>3</sup> Die Berichte des EDÖB werden veröffentlicht.
 
 #### Art. 20
 
 **Auskunfts- und Einsichtsrechte**
 
-<sup>1</sup> Im Rahmen des Schlichtungsverfahrens hat die oder der Beauftragte auch Zugang zu amtlichen Dokumenten, die der Geheimhaltung unterliegen.
+<sup>1</sup> Im Rahmen des Schlichtungsverfahrens hat der EDÖB auch Zugang zu amtlichen Dokumenten, die der Geheimhaltung unterliegen.
 
-<sup>2</sup> Die oder der Beauftragte und ihr beziehungsweise sein Sekretariat unterstehen dem Amtsgeheimnis im gleichen Ausmass wie die Behörden, in deren amtliche Dokumente sie Einsicht nehmen oder die ihnen Auskunft erteilen.
+<sup>2</sup> Der EDÖB untersteht dem Amtsgeheimnis im gleichen Ausmass wie die Behörden, in deren amtliche Dokumente er Einsicht nimmt oder die ihm Auskunft erteilen.[^20-1]
+
+[^20-1]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
