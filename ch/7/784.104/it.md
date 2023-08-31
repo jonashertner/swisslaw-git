@@ -4,11 +4,11 @@ title: "Ordinanza del 6 ottobre 1997 concernente gli elementi d'indirizzo nel se
 short: ORAT
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1997-10-06
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20210101/it"
 
 (ORAT)
 
-del 6 ottobre 1997 (Stato 1° gennaio 2021)
+del 6 ottobre 1997 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -30,7 +30,7 @@ ordina:
 
 ## Capitolo 1: Disposizioni generali
 
-### Sezione 1:**** Campo d’applicazione nonché termini e abbreviazioni
+### Sezione 1: Campo d’applicazione nonché termini e abbreviazioni
 
 [^chap1-sec1-1]
 
@@ -200,7 +200,7 @@ L’UFCOM può revocare l’attribuzione di elementi d’indirizzo se:
 - b.[^11-1] il titolare degli elementi d’indirizzo viola il diritto applicabile, in particolare le disposizioni della presente ordinanza, le prescrizioni dell’UFCOM o le disposizioni della decisione d’attribuzione;
 - b<sup>bis</sup>.[^11-2] un’altra autorità competente constata che un loro utilizzo comporta un’infrazione al diritto federale;
 - b<sup>ter</sup>.[^11-3] ha motivi di credere che un loro utilizzo da parte del titolare comporti un’infrazione al diritto federale;
-- [tab] b<sup>quater</sup>.[^11-4] il titolare si è fatto attribuire gli elementi di indirizzo per impedirne l’attribuzione ad altri interessati;
+- b<sup>quater</sup>.[^11-4] il titolare si è fatto attribuire gli elementi di indirizzo per impedirne l’attribuzione ad altri interessati;
 - c.[^11-5] il titolare non utilizza più del tutto o se utilizza solo in parte gli elementi d’indirizzo attribuitigli o se non li usa principalmente in Svizzera;
 - d. il titolare non paga le tasse amministrative;
 - d<sup>bis</sup>.[^11-6] il richiedente è in fallimento, in liquidazione o in una procedura concordataria;
@@ -231,7 +231,7 @@ L’UFCOM può revocare l’attribuzione di elementi d’indirizzo se:
 [^12-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 [^12-2]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-## Capitolo 1*a*:**** Delega della gestione e dell’attribuzione di elementi d’indirizzo a terzi
+## Capitolo 1*a*: Delega della gestione e dell’attribuzione di elementi d’indirizzo a terzi
 
 [^chap1a-1]
 
@@ -385,9 +385,10 @@ Il delegato, o in caso di fallimento la massa fallimentare, è tenuto a collabor
 
 <sup>1</sup> I delegati possono trattare i dati personali relativi ai loro clienti nella misura e per tutto il tempo in cui ciò sarà necessario alla gestione degli elementi d’indirizzo delegati, allo svolgimento dei loro compiti e all’adempimento dei loro obblighi che derivano dalla presente ordinanza e dalle sue disposizioni d’esecuzione, come pure all’ottenimento del pagamento dovuto per le loro prestazioni.
 
-<sup>2</sup> Per il rimanente il trattamento delle informazioni da parte dei delegati e la vigilanza esercitata su di essi sono disciplinati dalle disposizioni applicabili agli organi federali della legge federale del 19 giugno 1992[^13l-1] sulla protezione dei dati.
+<sup>2</sup> Per il rimanente il trattamento delle informazioni da parte dei delegati e la vigilanza esercitata su di essi sono disciplinati dalle disposizioni applicabili agli organi federali della legge federale del 25 settembre 2020[^13l-1] sulla protezione dei dati.[^13l-2]
 
 [^13l-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13l-2]: Nuovo testo giusta l’all. 2 n. II 88 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13m
 
@@ -445,7 +446,7 @@ Il delegato, o in caso di fallimento la massa fallimentare, è tenuto a collabor
 
 Abrogato
 
-### Sezione 3:**** Numeri brevi per servizi SMS e MMS
+### Sezione 3: Numeri brevi per servizi SMS e MMS
 
 [^chap1a-sec3-1]
 
@@ -529,7 +530,7 @@ I titolari di un’autorizzazione devono mettere a disposizione del pubblico alm
 
 [^15f-1]: Entrato in vigore il 1° ott. 2005.
 
-## Capitolo 2: Elementi d’indirizzo del piano di numerazione E.164****
+## Capitolo 2: Elementi d’indirizzo del piano di numerazione E.164
 
 [^chap2-1]
 
@@ -576,7 +577,7 @@ L’UFCOM può attribuire indicativi ai fornitori di servizi di telecomunicazion
 [^18-2]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 [^18-3]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-### Sezione 2: Numeri**** attribuiti sotto forma di blocchi di numeri****
+### Sezione 2: Numeri attribuiti sotto forma di blocchi di numeri
 
 [^chap2-sec2-1][^chap2-sec2-2]
 
@@ -717,7 +718,7 @@ Se la Segreteria di Stato dell’economia (SECO) ha il sospetto fondato che, con
 
 L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un periodo di due anni civili consecutivi, i clienti del fornitore di servizi di telecomunicazione hanno utilizzato meno del 5 per cento dei numeri attribuiti.
 
-### Sezione 2*a*: Numeri utilizzati senza attribuzione formale****
+### Sezione 2*a*: Numeri utilizzati senza attribuzione formale
 
 [^chap2-sec2a-1]
 
@@ -735,7 +736,7 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 [^24a-2]: Abrogato dal n. I dell’O del 19 gen. 2005, con effetto dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 [^24a-3]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
-### Sezione 2*b*: Numeri attribuiti individualmente****
+### Sezione 2*b*: Numeri attribuiti individualmente
 
 [^chap2-sec2b-1]
 
@@ -986,7 +987,7 @@ Su domanda, l’UFCOM può attribuire a un fornitore di servizi di telecomunicaz
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
-## Capitolo 3: Elementi d’indirizzo del piano di numerazione X.121**** (DNIC)
+## Capitolo 3: Elementi d’indirizzo del piano di numerazione X.121 (DNIC)
 
 [^chap3-1]
 
@@ -1021,7 +1022,7 @@ La richiesta deve contenere le seguenti indicazioni:
 
 Ogni DNIC o decimo di DNIC attribuito può essere riattribuito immediatamente dall’UFCOM a un altro titolare con l’accordo del titolare attuale.
 
-## Capitolo 4: Altri elementi d’indirizzo****
+## Capitolo 4: Altri elementi d’indirizzo
 
 [^chap4-1]
 
@@ -1355,7 +1356,7 @@ Ogni elemento d’indirizzo attribuito può essere riattribuito immediatamente d
 
 La presente ordinanza entra in vigore il 1° gennaio 1998.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1)
 
@@ -1380,7 +1381,7 @@ DSA (Directory System Agent)
 - – first level DSA: il sistema di elenchi che permette l’accesso all’elenco globale conformemente alla raccomandazione UIT-T X.500<sup>a</sup> e alla norma ISO/IEC 9594<sup>b</sup>;
 - – second level DSA: il sistema di elenchi subordinato gerarchicamente al first level DSA;
 
-ETSI (European Telecommunications Standard Institute): Istituto europeo delle norme di telecomunicazione;
+ETSI (European Telecommunications Standards Institute): Istituto europeo delle norme di telecomunicazione;
 
 fuori servizio: nell’ambito dei numeri attribuiti individualmente, quest’espressione significa che il numero non è attivo nella rete svizzera di telecomunicazione;
 

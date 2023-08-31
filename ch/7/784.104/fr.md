@@ -4,11 +4,11 @@ title: "Ordonnance du 6 octobre 1997 sur les ressources d'adressage dans le doma
 short: ORAT
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1997-10-06
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20210101/fr"
 
 (ORAT)
 
-du 6 octobre 1997 (Etat le 1<sup>er</sup> janvier 2021)
+du 6 octobre 1997 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -30,7 +30,7 @@ arrête:
 
 ## Chapitre 1 Dispositions générales
 
-### Section 1**** Champ d’application, termes et abréviations
+### Section 1 Champ d’application, termes et abréviations
 
 [^chap1-sec1-1]
 
@@ -177,7 +177,7 @@ Si une ressource d’adressage peut être suivie d’éléments subordonnés, pa
 
 <sup>1</sup> L’OFCOM tient à la disposition du public les informations sur les ressources d’adressage qu’il a attribuées, sur leur affectation, sur le nom et l’adresse de leurs titulaires et, pour les titulaires établis à l’étranger, sur leur adresse de correspondance en Suisse. Il peut rendre accessible ces informations par procédure d’appel.[^9-1]
 
-<sup>2</sup> ...[^9-2]
+<sup>2</sup> …[^9-2]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2005, en vigueur depuis le 1<sup>er</sup> fév. 2005 ([RO 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 [^9-2]: Introduit par le ch. I de l’O du 5 avr. 2000 ([RO 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)). Abrogé par le ch. I de l’O du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
@@ -231,7 +231,7 @@ L’OFCOM peut révoquer l’attribution de ressources d’adressage:
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 [^12-2]: Introduit par le ch. I de l’O du 9 mars 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-## Chapitre 1*a***** Délégation de la gestion et de l’attribution de ressources d’adressage à des tiers
+## Chapitre 1*a* Délégation de la gestion et de l’attribution de ressources d’adressage à des tiers
 
 [^chap1a-1]
 
@@ -385,9 +385,10 @@ Le délégataire ou, en cas de faillite, la masse sont tenus de collaborer et de
 
 <sup>1</sup> Les délégataires peuvent traiter les données personnelles concernant leurs clients dans la mesure où et aussi longtemps que cela est nécessaire à la gestion des ressources d’adressage déléguée, à l’accomplissement de leurs tâches et à l’exécution de leurs obligations qui découlent de la présente ordonnance et de ses dispositions d’exécution ainsi qu’à l’obtention du paiement dû pour leurs prestations.
 
-<sup>2</sup> Pour le surplus, le traitement des informations par les délégataires et la surveillance exercée sur eux sont régis par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^13l-1] applicables aux organes fédéraux.
+<sup>2</sup> Pour le surplus, le traitement des informations par les délégataires et la surveillance exercée sur eux sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^13l-1] applicables aux organes fédéraux.[^13l-2]
 
 [^13l-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13l-2]: Nouvelle teneur selon l’annexe 2 ch. II 88 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13m
 
@@ -445,7 +446,7 @@ Le délégataire ou, en cas de faillite, la masse sont tenus de collaborer et de
 
 Abrogé
 
-### Section 3**** Numéros courts pour services SMS et MMS
+### Section 3 Numéros courts pour services SMS et MMS
 
 [^chap1a-sec3-1]
 
@@ -529,7 +530,7 @@ Les titulaires d’une autorisation doivent mettre à la disposition du public a
 
 [^15f-1]: En vigueur depuis le 1<sup>er</sup> oct. 2005.
 
-## Chapitre 2 Ressources d’adressage du plan de numérotation E.164****
+## Chapitre 2 Ressources d’adressage du plan de numérotation E.164
 
 [^chap2-1]
 
@@ -568,7 +569,7 @@ L’OFCOM peut attribuer des indicatifs aux fournisseurs de services de téléco
 
 <sup>1</sup> L’OFCOM détermine les indicatifs qui peuvent ou doivent être utilisés par les fournisseurs de services de télécommunication sans attribution formelle.[^18-1]
 
-<sup>2</sup> ...[^18-2]
+<sup>2</sup> …[^18-2]
 
 <sup>3</sup> L’OFCOM édicte les prescriptions techniques et administratives nécessaires.[^18-3]
 
@@ -576,7 +577,7 @@ L’OFCOM peut attribuer des indicatifs aux fournisseurs de services de téléco
 [^18-2]: Abrogé par le ch. I de l’O du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 [^18-3]: Introduit par le ch. I de l’O du 9 mars 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-### Section 2 Numéros**** attribués sous forme de blocs****
+### Section 2 Numéros attribués sous forme de blocs
 
 [^chap2-sec2-1][^chap2-sec2-2]
 
@@ -653,7 +654,7 @@ Il doit veiller à ce que les attributaires:
 - b.[^23-2] n’attribuent pas des numéros à d’autres fournisseurs sans son accord;
 - c. lui fournissent les informations requises par l’art. 22.
 
-<sup>3</sup> ...[^23-3]
+<sup>3</sup> …[^23-3]
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 [^23-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
@@ -672,7 +673,7 @@ Un fournisseur ne peut renoncer à un bloc de numéros comprenant des numéros p
 
 <sup>2</sup> Lorsque le droit d’utilisation d’un bloc de numéros comprenant des numéros portés s’éteint suite à une révocation ou à une renonciation au sens de l’al. 1, let. b, l’OFCOM peut immédiatement réattribuer le bloc de numéros à un fournisseur de son choix. Il peut le faire sans l’accord de ce dernier. Le bloc est en particulier attribué sur la base du nombre de numéros portés vers les différents fournisseurs.
 
-<sup>3</sup> ...[^23a-2]
+<sup>3</sup> …[^23a-2]
 
 [^23a-1]: Introduit par le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^23a-2]: Abrogé par le ch. I de l’O du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
@@ -717,7 +718,7 @@ Si le Secrétariat d’État à l’économie (SECO) a des raisons de soupçonne
 
 L’OFCOM peut révoquer l’attribution de blocs de numéros si, sur une période de deux années civiles consécutives, moins de 5 pour cent des numéros attribués ont été utilisés par les clients du fournisseur de services de télécommunication.
 
-### Section 2*a* Numéros utilisés sans attribution formelle****
+### Section 2*a* Numéros utilisés sans attribution formelle
 
 [^chap2-sec2a-1]
 
@@ -729,13 +730,13 @@ L’OFCOM peut révoquer l’attribution de blocs de numéros si, sur une pério
 
 <sup>1</sup> L’OFCOM détermine les numéros qui peuvent ou doivent être utilisés sans attribution formelle et il édicte les prescriptions techniques et administratives en la matière.
 
-<sup>2</sup> ...[^24a-3]
+<sup>2</sup> …[^24a-3]
 
 [^24a-1]: Introduit par le ch. I de l’O du 5 avr. 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
 [^24a-2]: Abrogé par le ch. I de l’O du 19 janv. 2005, avec effet au 1<sup>er</sup> fév. 2005 ([RO 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 [^24a-3]: Abrogé par le ch. I de l’O du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
-### Section 2*b* Numéros attribués individuellement****
+### Section 2*b* Numéros attribués individuellement
 
 [^chap2-sec2b-1]
 
@@ -792,9 +793,9 @@ L’OFCOM peut révoquer l’attribution de blocs de numéros si, sur une pério
 
 <sup>1</sup> Les programmes de type PC-dialer ou webdialer ou tout programme similaire ne doivent pas servir à établir des communications avec des numéros 090x dans le but de facturer des biens ou des services.[^24e-2]
 
-<sup>2</sup> ...[^24e-3]
+<sup>2</sup> …[^24e-3]
 
-<sup>2bis</sup> ...[^24e-4]
+<sup>2bis</sup> …[^24e-4]
 
 <sup>3</sup> L’OFCOM détermine les autres conditions d’utilisation des numéros attribués individuellement et édicte les prescriptions techniques et administratives nécessaires.
 
@@ -986,7 +987,7 @@ Sur demande, l’OFCOM peut attribuer à un fournisseur de services de télécom
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
-## Chapitre 3 Ressources d’adressage du plan de numérotation X.121**** (DNIC)
+## Chapitre 3 Ressources d’adressage du plan de numérotation X.121 (DNIC)
 
 [^chap3-1]
 
@@ -1021,7 +1022,7 @@ La demande doit contenir les indications suivantes:
 
 Tout DNIC ou dixième de DNIC attribué peut être immédiatement réattribué par l’OFCOM à un autre titulaire avec l’accord du titulaire actuel.
 
-## Chapitre 4 Autres ressources d’adressage****
+## Chapitre 4 Autres ressources d’adressage
 
 [^chap4-1]
 
@@ -1355,7 +1356,7 @@ Toute ressource d’adressage attribuée peut être immédiatement réattribuée
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1998.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1)
 
@@ -1382,7 +1383,7 @@ DSA (Directory System Agent)
 
 en service: dans le domaine des numéros attribués individuellement, cette expression signifie que le numéro est activé en permanence ou temporairement dans le réseau suisse des télécommunications.
 
-ETSI (European Telecommunications Standard Institute): Institut européen des normes de télécommunication.
+ETSI (European Telecommunications Standards Institute): Institut européen des normes de télécommunication.
 
 GSM-R (Global System for Mobile Communication Railway): système privé de téléphonie mobile basé sur la norme GSM, utilisé par les entreprises ferroviaires.
 
@@ -1392,7 +1393,7 @@ ICD (International Code Designator): désignation du format d’une adresse NSAP
 
 identificateur d’objet (Objektbezeichner, object identifier): valeur numérique permettant d’identifier avec précision un élément d’information utilisé lors d’un processus de communication.
 
-IEC (International Electrotechnical Commission): Commission électrotechnique internationale.
+IEC (International Électrotechnical Commission): Commission électrotechnique internationale.
 
 IIN (Issuer Identifier Number): numéro identificateur d’entités émettrices de cartes internationales de facturation des télécommunications correspondant à la recommandation E.118 de l’UIT-T<sup>a</sup> et à la norme 7812-2 de l’ISO<sup>b</sup>.
 

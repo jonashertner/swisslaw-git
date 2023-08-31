@@ -4,11 +4,11 @@ title: Verordnung vom 6. Oktober 1997 über die Adressierungselemente im Fernmel
 short: AEFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1997-10-06
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20210101/de"
 
 (AEFV)
 
-vom 6. Oktober 1997 (Stand am 1. Januar 2021)
+vom 6. Oktober 1997 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -30,7 +30,7 @@ verordnet:
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
-### 1. Abschnitt:**** Geltungsbereich sowie Begriffe und Abkürzungen
+### 1. Abschnitt: Geltungsbereich sowie Begriffe und Abkürzungen
 
 [^chap1-sec1-1]
 
@@ -102,7 +102,7 @@ Das BAKOM kann zur Überprüfung von Name, Adresse und rechtlicher Existenz der 
 Es kann die Zuteilung eines Adressierungselementes verweigern, wenn:
 
 - a.[^4-5] der Verdacht besteht, dass die Gesuchstellerin oder der Gesuchsteller mit Hilfe des Adressierungselementes eine Verletzung von Bundesrecht begehen wird;
-- [tab] a<sup>bis</sup>[^4-6]. der Verdacht besteht, dass die Gesuchstellerin oder der Gesuchsteller dieses Adressierungselement beantragt, um die Zuteilung an andere Interessierte zu verhindern;
+- a<sup>bis</sup>[^4-6]. der Verdacht besteht, dass die Gesuchstellerin oder der Gesuchsteller dieses Adressierungselement beantragt, um die Zuteilung an andere Interessierte zu verhindern;
 - b. wichtige technische Gründe oder die Einhaltung internationaler Normen es erfordern;
 - c. es nicht hauptsächlich für die Verwendung in der Schweiz vorgesehen ist;
 - d. die Verwaltungsgebühren nicht bezahlt werden;
@@ -177,7 +177,7 @@ Können auf ein Adressierungselement untergeordnete Elemente, zum Beispiel ein N
 
 <sup>1</sup> Das BAKOM macht Informationen über die von ihm zugeteilten Adressierungselemente und deren Nutzungszweck, über den Namen und die Adresse ihrer Inhaberinnen und Inhaber sowie, falls ihr Sitz im Ausland ist, über ihre Korrespondenzadresse in der Schweiz der Öffentlichkeit zugänglich. Es kann diese Informationen durch Abrufverfahren zugänglich machen.[^9-1]
 
-<sup>2</sup> ...[^9-2]
+<sup>2</sup> …[^9-2]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2005, in Kraft seit 1. Febr. 2005 ([AS 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 5. April 2000 ([AS 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)). Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
@@ -200,7 +200,7 @@ Das BAKOM kann die Zuteilung von Adressierungselementen widerrufen, wenn:
 - b.[^11-1] die Inhaberin oder der Inhaber der Adressierungselemente das anwendbare Recht, insbesondere die Bestimmungen dieser Verordnung, die Vorschriften des BAKOM oder die Bestimmungen der Zuteilungsverfügung, missachtet;
 - b<sup>bis</sup>.[^11-2] eine andere Behörde gestützt auf ihre Zuständigkeit eine Verletzung von Bundesrecht feststellt, die mit Hilfe des Adressierungselementes begangen wurde;
 - b<sup>ter</sup>.[^11-3] der Verdacht besteht, dass die Inhaberin oder der Inhaber mit Hilfe des Adressierungselementes eine Verletzung von Bundesrecht begeht;
-- [tab] b<sup>quater</sup>.[^11-4] sich die Inhaberin oder der Inhaber die Adressierungselemente zuteilen liess, um die Zuteilung an andere Interessierte zu verhindern;
+- b<sup>quater</sup>.[^11-4] sich die Inhaberin oder der Inhaber die Adressierungselemente zuteilen liess, um die Zuteilung an andere Interessierte zu verhindern;
 - c.[^11-5] die Inhaberin oder der Inhaber alle oder einen Teil der ihr oder ihm zugeteilten Adressierungselemente nicht mehr oder nicht hauptsächlich in der Schweiz verwendet;
 - d.[^11-6] die Inhaberin oder der Inhaber die fälligen Verwaltungsgebühren nicht bezahlt;
 - d<sup>bis</sup>.[^11-7] sich die Inhaberin oder der Inhaber in Konkurs, in Liquidation oder im Nachlassverfahren befindet;
@@ -232,9 +232,7 @@ Das BAKOM kann die Zuteilung von Adressierungselementen widerrufen, wenn:
 [^12-1]: Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 [^12-2]: Eingefügt durch Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-## Kapitel 1*a*****: Übertragung der Verwaltung von Adressierungselementen an Dritte
-
-[^chap1a-1]
+## Kapitel 1*a*[^chap1a-1]: Übertragung der Verwaltung von Adressierungselementen an Dritte
 
 [^chap1a-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2001, in Kraft seit 1. April 2002 ([AS 2002 273](https://fedlex.data.admin.ch/eli/oc/2002/59)).
 
@@ -386,9 +384,10 @@ Die Beauftragte oder im Konkursfall die Konkursmasse muss mit der neuen Beauftra
 
 <sup>1</sup> Die Beauftragten dürfen die Personendaten ihrer Kundinnen und Kunden bearbeiten, soweit und solange dies notwendig ist für die übertragene Verwaltung der Adressierungselemente, für die Ausübung ihrer Aufgaben und die Erfüllung ihrer Verpflichtungen, die in der vorliegenden Verordnung und deren Ausführungsbestimmungen festgelegt sind, sowie für den Erhalt des für die entsprechenden Leistungen geschuldeten Entgelts.
 
-<sup>2</sup> Im Übrigen richten sich die Informationsbearbeitung durch die Beauftragten und ihre Beaufsichtigung nach den für die Bundesorgane geltenden Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^13l-1] über den Datenschutz.
+<sup>2</sup> Im Übrigen richten sich die Informationsbearbeitung durch die Beauftragten und ihre Beaufsichtigung nach den für die Bundesorgane geltenden Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^13l-1].[^13l-2]
 
 [^13l-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13l-2]: Fassung gemäss Anhang 2 Ziff. II 88 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13m
 
@@ -398,7 +397,7 @@ Die Beauftragte oder im Konkursfall die Konkursmasse muss mit der neuen Beauftra
 
 <sup>2</sup> Es legt die Nummerierungspläne fest und erlässt die von den Beauftragten vorgeschlagenen Vorschriften über die Verwaltung der Adressierungselemente. Es veröffentlicht sie.
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 14–14c
 
@@ -446,7 +445,7 @@ Die Beauftragte oder im Konkursfall die Konkursmasse muss mit der neuen Beauftra
 
 Aufgehoben
 
-### 3. Abschnitt:**** Kurznummern für SMS- und MMS-Dienste
+### 3. Abschnitt: Kurznummern für SMS- und MMS-Dienste
 
 [^chap1a-sec3-1]
 
@@ -464,7 +463,7 @@ Aufgehoben
 
 **Format**
 
-Die Kurznummern für SMS- und MMS-Dienste bestehen aus drei bis fünf Ziffern, wobei die erste Ziffer eine solche von 1 bis 9 sein muss.
+<sup>1</sup> Die Kurznummern für SMS- und MMS-Dienste bestehen aus drei bis fünf Ziffern, wobei die erste Ziffer eine solche von 1 bis 9 sein muss.
 
 <sup>2</sup> Entsprechen sie Kurznummern gemäss Artikel 31*b*, können sie deren Format annehmen und aus mehr als fünf Ziffern bestehen.[^15b-1]
 
@@ -494,7 +493,7 @@ Inhaberinnen einer Bewilligung zur Verwaltung und Zuteilung von Kurznummern für
 
 <sup>2</sup> Sie definieren die Kurznummernbereiche, die ausschliesslich der Bereitstellung von Diensten mit erotischen oder pornografischen Inhalten vorbehalten sind, und stellen sicher, dass diese Dienste nur über Nummern dieser Bereiche angeboten werden.[^15d-2]
 
-<sup>3</sup> ...[^15d-3]
+<sup>3</sup> …[^15d-3]
 
 [^15d-1]: In Kraft seit 1. Okt. 2005.
 [^15d-2]: Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
@@ -530,7 +529,7 @@ Die Inhaberinnen einer Bewilligung müssen mindestens die folgenden Daten im Sin
 
 [^15f-1]: In Kraft seit 1. Okt. 2005.
 
-## 2. Kapitel: Adressierungselemente des Nummerierungsplans E.164****
+## 2. Kapitel: Adressierungselemente des Nummerierungsplans E.164
 
 [^chap2-1]
 
@@ -569,7 +568,7 @@ Das BAKOM kann den Anbieterinnen von Fernmeldediensten Kennzahlen zuteilen für:
 
 <sup>1</sup> Das BAKOM bestimmt die Kennzahlen, welche die Anbieterinnen von Fernmeldediensten ohne formelle Zuteilung verwenden können oder müssen.[^18-1]
 
-<sup>2</sup> ...[^18-2]
+<sup>2</sup> …[^18-2]
 
 <sup>3</sup> Das BAKOM erlässt die notwendigen technischen und administrativen Vorschriften.[^18-3]
 
@@ -577,7 +576,7 @@ Das BAKOM kann den Anbieterinnen von Fernmeldediensten Kennzahlen zuteilen für:
 [^18-2]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 [^18-3]: Eingefügt durch Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-### 2. Abschnitt: Zuteilung von Nummern**** in Blöcken****
+### 2. Abschnitt: Zuteilung von Nummern in Blöcken
 
 [^chap2-sec2-1][^chap2-sec2-2]
 
@@ -590,7 +589,7 @@ Das BAKOM kann den Anbieterinnen von Fernmeldediensten Kennzahlen zuteilen für:
 
 <sup>1</sup> Nummern für Kundinnen und Kunden werden in Blöcken von 10 000 einzelnen aufeinander folgenden Nummern zugeteilt.[^19-1]
 
-<sup>2</sup> ...[^19-2]
+<sup>2</sup> …[^19-2]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 [^19-2]: Aufgehoben durch Ziff. I der V vom 22. Juni 2005, mit Wirkung seit 1. Aug. 2005 ([AS 2005 3385](https://fedlex.data.admin.ch/eli/oc/2005/491)).
@@ -657,7 +656,7 @@ Sie muss dafür sorgen, dass die Empfängerinnen der Nummern:
 - b.[^23-2] Nummern nicht ohne ihre Einwilligung weiteren Anbieterinnen zuteilen;
 - c. ihr die in Artikel 22 verlangten Informationen liefern.
 
-<sup>3</sup> ...[^23-3]
+<sup>3</sup> …[^23-3]
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 [^23-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
@@ -676,7 +675,7 @@ Eine Anbieterin kann auf einen Nummernblock, aus dem Nummern portiert sind, nur 
 
 <sup>2</sup> Erlischt aufgrund eines Widerrufs oder eines Verzichts nach Absatz 1 Buchstabe b die Nutzungsberechtigung an einem Nummernblock, aus dem Nummern portiert sind, so kann das BAKOM diesen sofort wieder einer Anbieterin seiner Wahl zuteilen. Dies kann ohne deren Zustimmung erfolgen. Zuteilungskriterium ist insbesondere die Anzahl der aus diesem Nummernblock zu den einzelnen Anbieterinnen portierten Nummern.
 
-<sup>3</sup> ...[^23a-2]
+<sup>3</sup> …[^23a-2]
 
 [^23a-1]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^23a-2]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
@@ -721,7 +720,7 @@ Hat das Staatssekretariat für Wirtschaft (SECO) den begründeten Verdacht, dass
 
 Das BAKOM kann die Zuteilung von Nummernblöcken widerrufen, wenn über einen Zeitraum von zwei aufeinander folgenden Kalenderjahren weniger als 5 Prozent der zugeteilten Nummern von der Kundschaft der Fernmeldedienstanbieterin verwendet worden sind.
 
-### 2*a*. Abschnitt: Verwendung von Nummern ohne formelle Zuteilung****
+### 2*a*. Abschnitt: Verwendung von Nummern ohne formelle Zuteilung
 
 [^chap2-sec2a-1]
 
@@ -729,17 +728,17 @@ Das BAKOM kann die Zuteilung von Nummernblöcken widerrufen, wenn über einen Ze
 
 #### Art. 24a
 
-**...[^24a-2]**[^24a-1]
+**…[^24a-2]**[^24a-1]
 
 <sup>1</sup> Das BAKOM bestimmt die Nummern, die ohne formelle Zuteilung genutzt werden können oder müssen, und erlässt dazu die technischen und administrativen Vorschriften.
 
-<sup>2</sup> ...[^24a-3]
+<sup>2</sup> …[^24a-3]
 
 [^24a-1]: Eingefügt durch Ziff. I der V vom 5. April 2000, in Kraft seit 1. Mai 2000 ([AS 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
 [^24a-2]: Aufgehoben durch Ziff. I der V vom 19. Jan. 2005, mit Wirkung seit 1. Febr. 2005 ([AS 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 [^24a-3]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
-### 2*b*. Abschnitt: Zuteilung von Einzelnummern****
+### 2*b*. Abschnitt: Zuteilung von Einzelnummern
 
 [^chap2-sec2b-1]
 
@@ -749,7 +748,7 @@ Das BAKOM kann die Zuteilung von Nummernblöcken widerrufen, wenn über einen Ze
 
 **Allgemeine Bestimmungen**[^24b-1]
 
-<sup>1</sup> ...[^24b-2]
+<sup>1</sup> …[^24b-2]
 
 <sup>2</sup> Das BAKOM bestimmt die Nummernbereiche, aus denen Nummern einzeln zugeteilt werden, und legt die Nutzung fest.
 
@@ -768,7 +767,7 @@ Das BAKOM kann die Zuteilung von Nummernblöcken widerrufen, wenn über einen Ze
 
 <sup>1</sup> Das BAKOM teilt juristischen und natürlichen Personen eine oder mehrere Nummern zu, wenn sie diese für den dafür festgelegten Dienst nutzen wollen. Die Zuteilungsgesuche werden in der Reihenfolge ihres Eingangs behandelt.
 
-<sup>2</sup> ...[^24c-2]
+<sup>2</sup> …[^24c-2]
 
 <sup>2bis</sup> Die Inhaberin oder der Inhaber einer zugeteilten Einzelnummer hat sicherzustellen, dass bei Betrieb, Nutzung oder Bekanntgabe der Nummer durch Dritte das anwendbare Recht, insbesondere die Bestimmungen dieser Verordnung, die Vorschriften des BAKOM und die Bestimmungen der Zuteilungsverfügung, eingehalten wird.[^24c-3]
 
@@ -796,9 +795,9 @@ Das BAKOM kann die Zuteilung von Nummernblöcken widerrufen, wenn über einen Ze
 
 <sup>1</sup> Mit Programmen des Typs Web-Dialer oder PC-Dialer oder mit ähnlichen Programmen dürfen keine Verbindungen zu 090x-Nummern hergestellt werden, um Waren und Dienstleistungen in Rechnung zu stellen.[^24e-2]
 
-<sup>2</sup> ...[^24e-3]
+<sup>2</sup> …[^24e-3]
 
-<sup>2bis</sup> ...[^24e-4]
+<sup>2bis</sup> …[^24e-4]
 
 <sup>3</sup> Das BAKOM legt die weiteren Bedingungen für die Nutzung der einzeln zugeteilten Nummern fest und erlässt gegebenenfalls die notwendigen technischen und administrativen Vorschriften.
 
@@ -912,7 +911,7 @@ Das BAKOM kann der Gesuchstellerin eine Kurznummer zuteilen, wenn diese Dienstle
 
 <sup>3</sup> Wird die erforderliche Anzahl Anrufe während zweier aufeinander folgender Kalenderjahre nicht erreicht, so kann die Kurznummer widerrufen werden.[^30-2]
 
-<sup>4</sup> ...[^30-3]
+<sup>4</sup> …[^30-3]
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
 [^30-2]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
@@ -936,7 +935,7 @@ Das BAKOM kann der Gesuchstellerin eine Kurznummer zuteilen, wenn diese Dienstle
 
 <sup>3</sup> Wird die erforderliche Anzahl Anrufe während zweier aufeinander folgender Kalenderjahre nicht erreicht, so kann die Kurznummer widerrufen werden.[^31a-5]
 
-<sup>3bis</sup> ...[^31a-6]
+<sup>3bis</sup> …[^31a-6]
 
 <sup>4</sup> Das BAKOM erlässt die notwendigen administrativen und technischen Vorschriften.
 
@@ -991,7 +990,7 @@ Das BAKOM kann einer Anbieterin von Fernmeldediensten auf Gesuch Kurznummern fü
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
-## 3. Kapitel: Adressierungselemente des Nummerierungsplans X.121**** (DNIC)
+## 3. Kapitel: Adressierungselemente des Nummerierungsplans X.121 (DNIC)
 
 [^chap3-1]
 
@@ -1027,7 +1026,7 @@ Das Gesuch muss die folgenden Angaben enthalten:
 
 Jeder zugeteilte DNIC oder zugeteilte Zehntel-DNIC kann durch das BAKOM unter Zustimmung der gegenwärtigen Inhaberin sofort einer andern Inhaberin zugeteilt werden.
 
-## 4. Kapitel: Weitere Adressierungselemente****
+## 4. Kapitel: Weitere Adressierungselemente
 
 [^chap4-1]
 
@@ -1309,7 +1308,7 @@ Jedes zugeteilte Adressierungselement kann vom BAKOM unter Zustimmung der bisher
 
 <sup>2</sup> Es kann internationale Vereinbarungen technischen und administrativen Inhalts, die in den Anwendungsbereich dieser Verordnung fallen, abschliessen.
 
-<sup>3</sup> ...[^52-1]
+<sup>3</sup> …[^52-1]
 
 [^52-1]: Aufgehoben durch Ziff. I der V vom 9. März 2007, mit Wirkung seit 1. April 2007 ([AS 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
@@ -1362,7 +1361,7 @@ Jedes zugeteilte Adressierungselement kann vom BAKOM unter Zustimmung der bisher
 
 Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1)
 
@@ -1387,11 +1386,11 @@ DSA (Directory System Agent)
 - – First level DSA: Verzeichnis-System, das den Eintritt in das globale Verzeichnis nach ITU-T-Empfehlung X.500<sup>a</sup> und ISO/IEC-Norm 9594<sup>b</sup> ermöglicht.
 - – Second level DSA:Verzeichnis-Systeme, die dem First level DSA hierarchisch untergeordnet sind.
 
-ETSI (European Telecommunications Standard Institute): Europäisches Institut für Telekommunikationsnormen.
+ETSI (European Telecommunications Standards Institute): Europäisches Institut für Telekommunikationsnormen.
 
 GSM-R (Global System for Mobile Communication Railway): Auf der GSM-Norm basierendes privates Mobilfunksystem für Eisenbahnunternehmen.
 
-Herstellercode (code de prestataire, ...): Code, der von den Kontrollverfahren der Telefax-Geräte der Gruppe 3 (keine normalisierten Mittel) verwendet wird und dessen Struktur in der ITU-T-Empfehlung T.35<sup>a</sup> spezifiziert ist.
+Herstellercode (code de prestataire, …): Code, der von den Kontrollverfahren der Telefax-Geräte der Gruppe 3 (keine normalisierten Mittel) verwendet wird und dessen Struktur in der ITU-T-Empfehlung T.35<sup>a</sup> spezifiziert ist.
 
 ICD (International Code Designator): Bezeichnung des Formats einer NSAP-Adresse für multinationale OSI-Netzwerke.
 
@@ -1417,7 +1416,7 @@ NSAP (Network Service Access Point). NSAP-Adresse: Information, die der Identifi
 
 NSPC (National Signalling Point Code): Code für den nationalen Signalisierungspunkt.
 
-Objektbezeichner (identificateur d’objet, ...): Numerischer Wert, der die genaue Identifikation eines Informationselements im Rahmen eines Kommunikationsprozesses erlaubt.
+Objektbezeichner (identificateur d’objet, …): Numerischer Wert, der die genaue Identifikation eines Informationselements im Rahmen eines Kommunikationsprozesses erlaubt.
 
 OSI (Open Systems Interconnection): Gesamtheit von Normen und Modell für die Interkonnektion von offenen Systemen.
 
@@ -1433,7 +1432,7 @@ SMS (Short Message Service): Dienst, der den Nutzerinnen und Nutzern erlaubt, im
 
 T-MNC (Tetra Mobile Network Code): Identifikationscode für ein PMR/PAMR-Funknetz nach der ETS-Norm 300 392-1 des ETSI.
 
-Zwischennetz (réseau intermédiaire, ...): Netz für die Entkopplung von Signalisierungsnetzen SS7 (Signalling System Number 7) nach den ITU-T-Empfehlungen der Reihe Q.700<sup>a</sup>.
+Zwischennetz (réseau intermédiaire, …): Netz für die Entkopplung von Signalisierungsnetzen SS7 (Signalling System Number 7) nach den ITU-T-Empfehlungen der Reihe Q.700<sup>a</sup>.
 
 - <sup>a</sup> Diese Empfehlung kann bei der Internationalen Fernmeldeunion, Place des Nations, 1211 Genève 20, bezogen werden.
 - <sup>b</sup> Diese Norm kann beim Zentralsekretariat der internationalen Normierungsorganisation, 1, rue Varembé, 1211 Genève bezogen werden
