@@ -4,11 +4,11 @@ title: Legge federale del 12 giugno 2009 sulla sicurezza dei prodotti (LSPro)
 short: LSPro
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/347"
 language: it
-version: 2010-07-01
+version: 2023-09-01
 adopted: 2009-06-12
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/347/20100701/it/xml/fedlex-data-admin-ch-eli-cc-2010-347-20100701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/347/20100701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/347/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2010-347-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/347/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/347/20100701/it"
 
 (LSPro)
 
-del 12 giugno 2009 (Stato 1° luglio 2010)
+del 12 giugno 2009 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 95 capoverso 1, 97 capoverso 1, 110 capoverso 1 lettera a e 1
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2008 6513](https://fedlex.data.admin.ch/eli/fga/2008/1234)
 
 ## Sezione 1: Scopo, campo d’applicazione e definizioni
@@ -130,7 +130,7 @@ Gli obblighi previsti nella presente sezione incombono:
 
 <sup>4</sup> Se non è stato stabilito alcun requisito essenziale di sicurezza e di tutela della salute, si deve poter dimostrare che il prodotto è stato fabbricato conformemente allo stato della scienza e della tecnica.
 
-[^5-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^5-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 6
 
@@ -215,7 +215,7 @@ Se necessario per la protezione della sicurezza o della salute degli utenti o di
 
 <sup>6</sup> Si applica la legge federale del 20 dicembre 1968[^10-1] sulla procedura amministrativa.
 
-[^10-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^10-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 11
 
@@ -233,14 +233,14 @@ Gli organi di esecuzione devono mantenere il segreto, per quanto i loro accertam
 
 **Protezione dei dati e assistenza amministrativa**
 
-<sup>1</sup> Gli organi di esecuzione sono autorizzati a trattare dati personali, compresi quelli concernenti procedimenti e sanzioni amministrativi o penali. A tal fine si applicano le disposizioni concernenti la raccolta di dati personali di cui all’articolo 18 della legge federale del 19 giugno 1992[^13-1] sulla protezione dei dati.
+<sup>1</sup> Gli organi di esecuzione sono autorizzati a trattare dati personali, compresi quelli concernenti procedimenti e sanzioni amministrativi o penali.[^13-1]
 
 <sup>2</sup> Gli organi di esecuzione possono conservare tali dati in forma elettronica e, per quanto necessario per un’esecuzione uniforme della presente legge, scambiarseli.
 
 <sup>3</sup> L’assistenza amministrativa è retta dagli articoli 21 e 22 della legge del 6 ottobre 1995[^13-2] sugli ostacoli tecnici al commercio.
 
-[^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^13-1]: Nuovo testo giusta l’all. 1 n. II 88 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 14
 
@@ -272,7 +272,7 @@ Gli organi di esecuzione devono mantenere il segreto, per quanto i loro accertam
 
 <sup>4</sup> Per falsificazioni, false attestazioni, conseguimento fraudolento di false attestazioni, uso di attestazioni false o inesatte, rilascio non autorizzato di dichiarazioni di conformità, applicazione e uso non autorizzato di marchi di conformità ai sensi degli articoli 23–28 della legge del 6 ottobre 1995[^16-1] sugli ostacoli tecnici al commercio si applicano le pene comminate in tali articoli.
 
-[^16-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^16-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 17
 
@@ -290,7 +290,7 @@ Gli organi di esecuzione devono mantenere il segreto, per quanto i loro accertam
 
 <sup>3</sup> Sono applicabili gli articoli 6 e 7 della legge federale del 22 marzo 1974[^17-1] sul diritto penale amministrativo.
 
-[^17-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^17-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 18
 
@@ -298,7 +298,7 @@ Gli organi di esecuzione devono mantenere il segreto, per quanto i loro accertam
 
 I vantaggi pecuniari derivanti da atti illeciti previsti negli articoli 16 e 17 possono essere confiscati giusta gli articoli 69–72 del Codice penale[^18-1].
 
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 19
 
@@ -316,10 +316,10 @@ Il perseguimento penale spetta ai Cantoni.
 
 <sup>2</sup> Le leggi qui appresso sono modificate come segue:
 
-…[^20-2]
+...[^20-2]
 
 [^20-1]: [[RU 1977 2370](https://fedlex.data.admin.ch/eli/oc/1977/2370_2370_2370), [1995 2766](https://fedlex.data.admin.ch/eli/oc/1995/2766_2766_2766), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 97].
-[^20-2]: Le modifiche possono essere consultate alla [RU 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347).
+[^20-2]: Le mod. possono essere consultate alla [RU 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347).
 
 #### Art. 21
 
@@ -339,4 +339,4 @@ Il perseguimento penale spetta ai Cantoni.
 
 Data dell’entrata in vigore:[^22-1] 1° luglio 2010
 
-[^22-1]: DCF del 19 mag. 2010
+[^22-1]: DCF del 19 mag. 2010.

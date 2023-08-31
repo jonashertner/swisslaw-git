@@ -4,11 +4,11 @@ title: Bundesgesetz vom 12. Juni 2009 über die Produktesicherheit (PrSG)
 short: PrSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/347"
 language: de
-version: 2010-07-01
+version: 2023-09-01
 adopted: 2009-06-12
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/347/20100701/de/xml/fedlex-data-admin-ch-eli-cc-2010-347-20100701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/347/20100701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/347/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2010-347-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/347/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/347/20100701/de"
 
 (PrSG)
 
-vom 12. Juni 2009 (Stand am 1. Juli 2010)
+vom 12. Juni 2009 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 Absatz 1, 97 Absatz 1, 110 Absatz 1 Buchstabe a und
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2008 7407](https://fedlex.data.admin.ch/eli/fga/2008/1234)
 
 ## 1. Abschnitt: Zweck, Geltungsbereich und Begriffe
@@ -130,7 +130,7 @@ Die Pflichten nach diesem Abschnitt müssen erfüllt werden:
 
 <sup>4</sup> Sind keine grundlegenden Sicherheits- und Gesundheitsanforderungen festgelegt worden, so muss nachgewiesen werden können, dass das Produkt nach dem Stand des Wissens und der Technik hergestellt worden ist.
 
-[^5-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^5-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 6
 
@@ -215,7 +215,7 @@ Ist es zum Schutz der Sicherheit oder Gesundheit der Verwenderinnen und Verwende
 
 <sup>6</sup> Das Bundesgesetz vom 20. Dezember 1968[^10-1] über das Verwaltungsverfahren ist anwendbar.
 
-[^10-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^10-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 11
 
@@ -233,14 +233,14 @@ Die Vollzugsorgane unterstehen der Schweigepflicht, soweit ihre Wahrnehmungen ni
 
 **Datenschutz und Amtshilfe**
 
-<sup>1</sup> Die Vollzugsorgane sind berechtigt, Personendaten einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen zu bearbeiten. Dabei gelten die Bestimmungen über die Beschaffung von Personendaten nach Artikel 18 des Bundesgesetzes vom 19. Juni 1992[^13-1] über den Datenschutz.
+<sup>1</sup> Die Vollzugsorgane sind berechtigt, Personendaten, einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen, zu bearbeiten.[^13-1]
 
 <sup>2</sup> Die Vollzugsorgane können diese Daten elektronisch aufbewahren und, soweit für den einheitlichen Vollzug dieses Gesetzes erforderlich, untereinander austauschen.
 
 <sup>3</sup> Die Gewährung von Amtshilfe richtet sich nach den Artikeln 21 und 22 des Bundesgesetzes vom 6. Oktober 1995[^13-2] über die technischen Handelshemmnisse.
 
-[^13-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^13-1]: Fassung gemäss Anhang 1 Ziff. II 88 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-2]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 14
 
@@ -272,7 +272,7 @@ Die Vollzugsorgane unterstehen der Schweigepflicht, soweit ihre Wahrnehmungen ni
 
 <sup>4</sup> Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen, den Gebrauch unechter oder unwahrer Bescheinigungen, das unberechtigte Ausstellen von Konformitätserklärungen sowie das unberechtigte Anbringen und Verwenden von Konformitätszeichen im Sinne der Artikel 23–28 des Bundesgesetzes vom 6. Oktober 1995[^16-1] über die technischen Handelshemmnisse gelten die dort genannten Strafandrohungen.
 
-[^16-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^16-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 17
 
@@ -290,7 +290,7 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>3</sup> Die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^17-1] über das Verwaltungsstrafrecht sind anwendbar.
 
-[^17-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^17-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 18
 
@@ -298,7 +298,7 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 
 Vermögensvorteile, die durch strafbare Handlungen nach den Artikeln 16 und 17 unrechtmässig erlangt worden sind, können nach den Artikeln 69–72 des Strafgesetzbuches[^18-1] eingezogen werden.
 
-[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 19
 
@@ -318,7 +318,7 @@ Die Strafverfolgung ist Sache der Kantone.
 
 …[^20-2]
 
-[^20-1]: [[AS 1977 2370](https://fedlex.data.admin.ch/eli/oc/1977/2370_2370_2370), [1995 2766](https://fedlex.data.admin.ch/eli/oc/1995/2766_2766_2766), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 97]
+[^20-1]: [[AS 1977 2370](https://fedlex.data.admin.ch/eli/oc/1977/2370_2370_2370); [1995 2766](https://fedlex.data.admin.ch/eli/oc/1995/2766_2766_2766); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 97]
 [^20-2]: Die Änd. können unter [AS 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)konsultiert werden.
 
 #### Art. 21

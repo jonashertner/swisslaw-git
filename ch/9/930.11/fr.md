@@ -4,22 +4,22 @@ title: Loi fédérale du 12 juin 2009 sur la sécurité des produits (LSPro)
 short: LSPro
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/347"
 language: fr
-version: 2010-07-01
+version: 2023-09-01
 adopted: 2009-06-12
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/347/20100701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-347-20100701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/347/20100701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/347/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-347-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/347/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la sécurité des produits<sup>∗</sup>
+# Loi fédérale sur la sécurité des produits\*
 
 (LSPro)[^t-1]
 
-du 12 juin 2009 (État le 1<sup>er</sup> juillet 2010)
+du 12 juin 2009 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 95, al. 1, 97, al. 1, 110, al. 1, let. a, et 118 de la Constitution[
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2008 6771](https://fedlex.data.admin.ch/eli/fga/2008/1234)
 
 ## Section 1 But, champ d’application et définitions
@@ -132,7 +132,7 @@ Les obligations prévues dans la présente section incombent:
 
 <sup>4</sup> Lorsqu’aucune exigence essentielle en matière de santé et de sécurité n’a été fixée, la preuve doit pouvoir être apportée que le produit a été fabriqué conformément à l’état des connaissances et de la technique.
 
-[^5-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^5-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 6
 
@@ -217,7 +217,7 @@ Si la protection de la santé ou de la sécurité des utilisateurs ou de tiers l
 
 <sup>6</sup> La loi fédérale du 20 décembre 1968 sur la procédure administrative[^10-1] est applicable.
 
-[^10-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^10-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 11
 
@@ -235,14 +235,14 @@ Les organes d’exécution sont tenus au secret dans la mesure où les informati
 
 **Protection des données et assistance administrative**
 
-<sup>1</sup> Les organes d’exécution sont habilités à traiter des données personnelles, y compris les informations concernant les poursuites et les sanctions administratives et pénales. Ils sont soumis aux dispositions relatives à la collecte de données personnelles selon l’art. 18 de la loi fédérale du 19 juin 1992 sur la protection des données[^13-1].
+<sup>1</sup> Les organes d’exécution sont habilités à traiter des données personnelles, y compris les informations concernant les poursuites et les sanctions administratives et pénales.[^13-1]
 
 <sup>2</sup> Les organes d’exécution peuvent conserver ces données sous forme électronique et les échanger lorsqu’une exécution uniforme de la présente loi l’exige.
 
 <sup>3</sup> L’octroi de l’assistance administrative est régi par les art. 21 et 22 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^13-2].
 
-[^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^13-1]: Nouvelle teneur selon l’annexe 1 ch. II 88 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 14
 
@@ -274,7 +274,7 @@ Les organes d’exécution sont tenus au secret dans la mesure où les informati
 
 <sup>4</sup> Le faux, la constatation fausse, l’obtention frauduleuse d’une constatation fausse, l’utilisation d’attestations fausses ou inexactes, l’établissement non autorisé de déclarations de conformité, ainsi que l’apposition et l’utilisation non autorisées de signes de conformité au sens des art. 23 à 28 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^16-1] sont réprimés selon ces mêmes articles.
 
-[^16-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^16-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 17
 
@@ -292,7 +292,7 @@ Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
 
 <sup>3</sup> Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^17-1] sont applicables.
 
-[^17-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^17-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 18
 
@@ -300,7 +300,7 @@ Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
 
 Les avantages patrimoniaux résultant d’actes illicites prévus aux art. 16 et 17 peuvent être confisqués conformément aux art. 69 à 72 du code pénal[^18-1].
 
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 19
 
@@ -318,7 +318,7 @@ La poursuite pénale incombe aux cantons.
 
 <sup>2</sup> Les lois mentionnées ci-après sont modifiées comme suit:
 
-…[^20-2]
+... [^20-2]
 
 [^20-1]: [[RO 1977 2370](https://fedlex.data.admin.ch/eli/oc/1977/2370_2370_2370), [1995 2766](https://fedlex.data.admin.ch/eli/oc/1995/2766_2766_2766), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 97].
 [^20-2]: Les mod. peuvent être consultées au [RO 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347).
@@ -339,6 +339,6 @@ La poursuite pénale incombe aux cantons.
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-Date de l’entrée en vigueur: 1<sup>er</sup> juillet 2010[^22-1]
+Date de l'entrée en vigueur: 1<sup>er</sup> juillet 2010[^22-1]
 
 [^22-1]: ACF du 19 mai 2010
