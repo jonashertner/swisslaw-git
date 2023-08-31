@@ -4,11 +4,11 @@ title: Ordonnance du 4 décembre 2000 sur la procréation médicalement assisté
 short: OPMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: fr
-version: 2022-12-01
+version: 2023-09-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-555-20221201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2000-555-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/fr"
 
 (OPMA)
 
-du 4 décembre 2000 (État le 1<sup>er</sup> décembre 2022)
+du 4 décembre 2000 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -362,12 +362,13 @@ Le couple concerné peut demander une mise à jour des données consignées dans
 
 <sup>1</sup> Les dossiers sur papier sont numérisés et conservés sous forme électronique. Après les opérations de numérisation, le support papier est détruit.
 
-<sup>2</sup> L’office peut confier ces opérations à une entreprise externe, qui s’engage à numériser l’intégralité des données et à garantir leur confidentialité et leur sécurité dans le cadre d’une convention écrite. L’art. 10*a* de la loi fédérale du 19 juin 1992 sur la protection des données[^19a-2] est applicable par analogie.
+<sup>2</sup> L’office peut confier ces opérations à une entreprise externe, qui s’engage à numériser l’intégralité des données et à garantir leur confidentialité et leur sécurité dans le cadre d’une convention écrite. L’art. 9 de la loi fédérale du 25 septembre 2020 sur la protection des données[^19a-2] est applicable par analogie.[^19a-3]
 
 <sup>3</sup> L’office certifie sur demande que les documents numérisés sont conformes aux originaux figurant sur un support papier.
 
 [^19a-1]: Introduit par le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 [^19a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19a-3]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 90 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 20
 

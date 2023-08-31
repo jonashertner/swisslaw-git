@@ -4,11 +4,11 @@ title: Fortpflanzungsmedizinverordnung vom 4. Dezember 2000 (FMedV)
 short: FMedV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: de
-version: 2022-12-01
+version: 2023-09-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2000-555-20221201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2000-555-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/de"
 
 (FMedV)
 
-vom 4. Dezember 2000 (Stand am 1. Dezember 2022)
+vom 4. Dezember 2000 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -368,12 +368,13 @@ Auf Verlangen des behandelten Paares werden die im Spenderdatenregister enthalte
 
 <sup>1</sup> Die in Papierform übermittelten Akten werden digitalisiert und in elektronischer Form aufbewahrt. Nach der Digitalisierung wird die Papierform vernichtet.
 
-<sup>2</sup> Das Amt kann diese Aufgaben einem externen Auftragnehmer übertragen, der sich in einer schriftlichen Vereinbarung verpflichtet, sämtliche Daten elektronisch zu erfassen, vertraulich zu behandeln und deren Sicherheit zu gewährleisten. Artikel 10*a* des Bundesgesetzes vom 19. Juni 1992[^19a-2] über den Datenschutz ist sinngemäss anwendbar.
+<sup>2</sup> Das Amt kann diese Aufgaben einem externen Auftragnehmer übertragen, der sich in einer schriftlichen Vereinbarung verpflichtet, sämtliche Daten elektronisch zu erfassen, vertraulich zu behandeln und deren Sicherheit zu gewährleisten. Artikel 9 des Datenschutzgesetzes vom 25. September 2020[^19a-2] ist sinngemäss anwendbar.[^19a-3]
 
 <sup>3</sup> Das Amt bestätigt auf Anfrage, dass die digitalisierten Dokumente dem Original in Papierform entsprechen.
 
 [^19a-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 [^19a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19a-3]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 90 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 20
 

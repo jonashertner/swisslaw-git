@@ -4,11 +4,11 @@ title: Ordinanza del 4 dicembre 2000 sulla medicina della procreazione (OMP)
 short: OMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: it
-version: 2022-12-01
+version: 2023-09-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2000-555-20221201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2000-555-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/it"
 
 (OMP)
 
-del 4 dicembre 2000 (Stato 1° dicembre 2022)
+del 4 dicembre 2000 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -362,12 +362,13 @@ Su richiesta della coppia interessata, si aggiornano i dati figuranti nel regist
 
 <sup>1</sup> I dossier cartacei trasmessi sono digitalizzati e conservati sotto forma elettronica. Dopo la digitalizzazione, il supporto cartaceo è distrutto.
 
-<sup>2</sup> L’Ufficio può affidare questo compito a un’impresa esterna che, nel quadro di un accordo scritto, s’impegna a digitalizzare tutti i dati e a garantirne la confidenzialità e la sicurezza. Si applica per analogia l’articolo 10*a* della legge federale del 19 giugno 1992[^19a-2] sulla protezione dei dati.
+<sup>2</sup> L’Ufficio può affidare questo compito a un’impresa esterna che, nel quadro di un accordo scritto, s’impegna a digitalizzare tutti i dati e a garantirne la confidenzialità e la sicurezza. L’articolo 9 della legge federale del 25 settembre 2020[^19a-2] sulla protezione dei dati è applicabile per analogia.[^19a-3]
 
 <sup>3</sup> Su richiesta, l’Ufficio conferma che i documenti digitalizzati corrispondono agli originali cartacei.
 
 [^19a-1]: Introdotto dal n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 [^19a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19a-3]: Nuovo testo del per. giusta l’all. 2 n. II 90 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 20
 

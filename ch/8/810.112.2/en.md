@@ -4,11 +4,11 @@ title: Reproductive Medicine Ordinance of 4 December 2000 (RMO)
 short: RMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: en
-version: 2022-12-01
+version: 2023-09-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2000-555-20221201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2000-555-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RMO)
 
-of 4 December 2000 (Status as of 1 December 2022)
+of 4 December 2000 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -333,7 +333,7 @@ The registration form for sperm donor data contains the following data:
 
 <sup>8</sup> Registration with the secure service platform is deemed to be consent to the Federal Office serving documents electronically. Consent may be revoked at any time.
 
-<sup>9</sup> The principles relating to the detection and rectification of defects in forms transmitted on paper (Art. 16*a* para. 2) apply mutatis mutandis.
+<sup>9</sup> The principles relating to the detection and rectification of defects in forms transmitted on paper (Art. 16*a* para. 2) apply *mutatis mutandis*.
 
 [^16b-1]: Inserted by No I of the O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 [^16b-2]: [SR 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
@@ -370,12 +370,13 @@ At the request of the treated couple, the data held in the donor data register s
 
 <sup>1</sup> The files transmitted in paper form shall be digitalised and stored in electronic form. Following digitalisation, the paper copies shall be destroyed.
 
-<sup>2</sup> The Federal Office may delegate these duties to an external agency, which undertakes in terms of a written agreement to record all the data electronically, treat it as confidential and guarantee its security. Article 10*a* of the Federal Act of 19 June 1992[^19a-2] on Data Protection applies mutatis mutandis.
+<sup>2</sup> The Federal Office may delegate these duties to an external agency, which undertakes in terms of a written agreement to record all the data electronically, treat it as confidential and guarantee its security. Article 9 of the Data Protection Act of 25 September 2020[^19a-2] applies *mutatis mutandis*.[^19a-3]
 
 <sup>3</sup> The Federal Office shall confirm on request that the digitalised documents correspond to their originals in paper form
 
 [^19a-1]: Inserted by No I of the O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 [^19a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19a-3]: Second sentence amended by Annex 2 No II 90 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 20
 
@@ -509,4 +510,4 @@ Persons are qualified to use assisted reproductive techniques according to the s
 - a. the gynaecological endocrinology and reproductive medicine specialty under the continuing education and training programme of the Swiss Institute for Medical Education of 23 June 2022[^annex2-lvlu1-1] or an earlier version of this programme; or
 - b. an equivalent foreign continuing education and training qualification.
 
-[^annex2-lvlu1-1]: Available at www.siwf.ch &gt; Facharzttitel und Schwerpunkte &gt; Gynäkologie und Geburtshilfe &gt; Anhänge zum Weiterbildungsprogramm &gt; Annex 4 / Schwerpunkt Reproduktionsmedizin und gynäkologische Endokrinologie.
+[^annex2-lvlu1-1]: .
