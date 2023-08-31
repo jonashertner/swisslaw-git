@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2023-03-18
+version: 2023-09-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230318/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230318-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230901-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 18. März 2023)
+vom 18. März 1994 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1979,7 +1979,9 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 
 **Bearbeiten von Personendaten**[^84-1]
 
-Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes oder des KVAG[^84-2] betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz oder nach dem KVAG übertragenen Aufgaben zu erfüllen, namentlich um:[^84-3]
+<sup>1</sup>
+
+Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes oder des KVAG[^84-2] betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz oder nach dem KVAG übertragenen Aufgaben zu erfüllen, namentlich um:[^84-3]
 
 - a. für die Einhaltung der Versicherungspflicht zu sorgen;
 - b. die Prämien zu berechnen und zu erheben;
@@ -1991,12 +1993,15 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - h.[^84-5] die AHV-Nummer zuzuweisen oder zu verifizieren;
 - i.[^84-6] den Risikoausgleich zu berechnen.
 
+<sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus befugt, Personendaten, die namentlich die Beurteilung der Gesundheit, der Schwere des physischen oder psychischen Leidens, der Bedürfnisse und der wirtschaftlichen Situation der versicherten Person erlauben, zu bearbeiten oder bearbeiten zu lassen.[^84-7]
+
 [^84-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^84-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^84-3]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^84-3]: Fassung gemäss Anhang 1 Ziff. II 82 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^84-4]: Heute: nach Art. 65 und 65*a*.
 [^84-5]: Eingefügt durch Anhang Ziff. 11 des BG vom 23 Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^84-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559)4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^84-7]: Eingefügt durch Anhang 1 Ziff. II 82 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 84a
 
@@ -2070,10 +2075,10 @@ In den übrigen Fällen dürfen Daten in Abweichung von Artikel 33 ATSG an Dritt
 
 **Sicherstellung des Datenschutzes durch die Versicherer**[^84b-1]
 
-Die Versicherer treffen die erforderlichen technischen und organisatorischen Massnahmen zur Sicherstellung des Datenschutzes; sie erstellen insbesondere die gemäss Verordnung vom 14. Juni 1993[^84b-2] zum Bundesgesetz über den Datenschutz notwendigen Bearbeitungsreglemente. Diese werden dem oder der Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten zur Beurteilung vorgelegt und sind öffentlich zugänglich.
+Die Versicherer treffen die erforderlichen technischen und organisatorischen Massnahmen zur Sicherstellung des Datenschutzes; sie erstellen insbesondere die gemäss Datenschutzverordnung vom 31. August 2022[^84b-2] notwendigen Bearbeitungsreglemente. Diese werden dem oder der Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten zur Beurteilung vorgelegt und sind öffentlich zugänglich.
 
 [^84b-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559)4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84b-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84b-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
 
 #### Art. 85
 

@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2023-03-18
+version: 2023-09-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230318/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230318-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230901-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 18 marzo 2023)
+del 18 marzo 1994 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1954,7 +1954,7 @@ In deroga all’articolo 33 LPGA[^82-2], su richiesta, gli assicuratori fornisco
 
 **Controllo della ripercussione degli sconti**[^82a-1]
 
-L’UFSP verifica se i fornitori di prestazioni fanno usufruire i debitori della rimunerazione, nonché gli assicuratori, degli sconti di cui all’articolo 56 capoverso 3 lettera b oppure se impiegano tali sconti per migliorare la qualità dei trattamenti in conformità dell’articolo 56 capoverso 3<sup>bis</sup>. A tale scopo può rilevare presso gli assicuratori e i fornitori di prestazioni, nonché i loro fornitori, tutte le informazioni necessarie e disporre che gli sconti siano ripercossi.
+L’UFSP verifica se i fornitori di prestazioni fanno usufruire i debitori della rimunerazione, nonché gli assicuratori, degli sconti di cui all’articolo 56 capoverso 3 lettera b oppure se impiegano tali sconti per migliorare la qualità dei trattamenti in conformità dell’articolo 56 capoverso 3bis. A tale scopo può rilevare presso gli assicuratori e i fornitori di prestazioni, nonché i loro fornitori, tutte le informazioni necessarie e disporre che gli sconti siano ripercossi.
 
 [^82a-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -1971,7 +1971,9 @@ Per adempiere i loro compiti legali, gli organi incaricati di applicare la prese
 
 **Trattamento di dati personali**[^84-1]
 
-Gli organi incaricati di eseguire, controllare o sorvegliare la presente legge o la LVAMal[^84-2] possono trattare o far trattare dati personali, compresi dati degni di particolare protezione e profili della personalità, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge o dalla LVAMal segnatamente per:[^84-3]
+<sup>1</sup>
+
+Gli organi incaricati di eseguire, controllare o sorvegliare la presente legge o la LVAMal[^84-2] possono trattare o far trattare dati personali, compresi dati personali degni di particolare protezione, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge o dalla LVAMal, segnatamente per:[^84-3]
 
 - a. sorvegliare l’osservanza dell’obbligo di assicurarsi;
 - b. calcolare e riscuotere i premi;
@@ -1983,12 +1985,15 @@ Gli organi incaricati di eseguire, controllare o sorvegliare la presente legge o
 - h.[^84-5] assegnare o verificare il numero AVS;
 - i.[^84-6] calcolare la compensazione dei rischi.
 
+<sup>2</sup> Per adempiere tali compiti, possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la salute, la gravità dell’infermità fisica o psichica, i bisogni e la situazione economica dell’assicurato.[^84-7]
+
 [^84-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^84-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^84-3]: Nuovo testo giusta l’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^84-3]: Nuovo testo giusta l’all. 1 n. II 82 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^84-4]: Ora: art. 65 e 65*a*
 [^84-5]: Introdotta dall’all. n. 11 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^84-6]: Introdotta dal n. I della LF del 21 dic. 2007 (Compensazione dei rischi), in vigore dal 1° gen. 2012 ([RU 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^84-7]: Introdotto dall’all. 1 n. II 82 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 84a
 
@@ -2061,10 +2066,10 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 
 **Garanzia della protezione dei dati da parte degli assicuratori**[^84b-1]
 
-Gli assicuratori prendono i necessari provvedimenti tecnici e organizzativi per garantire la protezione dei dati; elaborano in particolare i necessari regolamenti per il trattamento conformemente all’ordinanza del 14 giugno 1993[^84b-2] relativa alla legge federale sulla protezione dei dati. Tali regolamenti sono sottoposti per valutazione all’Incaricato federale della protezione dei dati e sono resi pubblici.
+Gli assicuratori prendono i necessari provvedimenti tecnici e organizzativi per garantire la protezione dei dati; elaborano in particolare i necessari regolamenti per il trattamento conformemente all’ordinanza del 31 agosto 2022[^84b-2] sulla protezione dei dati. Tali regolamenti sono sottoposti per valutazione all’Incaricato federale della protezione dei dati e sono resi pubblici.
 
 [^84b-1]: Introdotto dal n. I della LF del 21 dic. 2007 (Compensazione dei rischi), in vigore dal 1° gen. 2012 ([RU 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568).Rinvio adattato in applicazione dell’art. 12 cpv. 2 dell’O del 18 giu. 2004 sulle pubblicazioni ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2013.
 
 #### Art. 85
 
@@ -2371,7 +2376,7 @@ Il Consiglio federale è incaricato dell’esecuzione della presente legge. Esso
 
 Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv. 4, 76 cpv. 4, 97 a 104, 107 cpv. 2: 1° giugno 1995
 
-[^107-1]: Art. 1 dell’O del 12 apr. 1995 ([RU 1995 1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)).
+[^107-1]: Art. 1 dell’O del 12 apr. 1995 [[RU 1995 1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)].
 
 ## Disposizioni finali della modifica del 24 marzo 2000
 

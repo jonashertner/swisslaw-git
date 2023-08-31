@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2023-03-18
+version: 2023-09-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230318/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230318-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230901-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 18 mars 2023)
+du 18 mars 1994 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1983,7 +1983,9 @@ Les organes chargés d’appliquer la présente loi, d’en contrôler ou survei
 
 **Traitement de données personnelles**[^84-1]
 
-Les organes chargés d’appliquer la présente loi ou la LSAMal[^84-2], d’en contrôler ou surveiller l’exécution sont habilités à traiter et à faire traiter les données personnelles, y compris les données sensibles et les profils de la personnalité, qui leur sont nécessaires pour accomplir les tâches que la présente loi ou la LSAMal leur assignent, notamment pour:[^84-3]
+<sup>1</sup>
+
+Les organes chargés d’appliquer la présente loi ou la LSAMal[^84-2] ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les tâches que leur assignent la présente loi ou la LSAMal, notamment pour:[^84-3]
 
 - a. veiller au respect de l’obligation de s’assurer;
 - b. calculer et percevoir les primes;
@@ -1995,12 +1997,15 @@ Les organes chargés d’appliquer la présente loi ou la LSAMal[^84-2], d’en 
 - [tab] h.[^84-5] attribuer ou vérifier le numéro AVS;
 - i.[^84-6] calculer la compensation des risques.
 
+<sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la personne assurée.[^84-7]
+
 [^84-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^84-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^84-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^84-3]: Nouvelle teneur selon l’annexe 1 ch. II 82 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^84-4]: Actuellement: art. 65 et 65*a*.
 [^84-5]: Introduite par le l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^84-6]: Introduite par le ch. I de la LF du 21 déc. 2007 (Compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^84-7]: Introduit par l’annexe 1 ch. II 82 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 84a
 
@@ -2074,10 +2079,10 @@ Dans les autres cas, des données peuvent être communiquées à des tiers, en d
 
 **Garantie de la protection des données par les assureurs**[^84b-1]
 
-Les assureurs prennent les mesures techniques et organisationnelles nécessaires pour garantir la protection des données; ils établissent en particulier les règlements de traitement des données nécessaires conformément à l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^84b-2]. Ces règlements sont soumis à l’appréciation du préposé fédéral à la protection des données et à la transparence et sont rendus publics.
+Les assureurs prennent les mesures techniques et organisationnelles nécessaires pour garantir la protection des données; ils établissent en particulier les règlements de traitement des données nécessaires conformément à l’ordonnance du 31 août 2022 sur la protection des données[^84b-2]. Ces règlements sont soumis à l’appréciation du préposé fédéral à la protection des données et à la transparence et sont rendus publics.
 
 [^84b-1]: Introduit par le ch. I de la LF du 21 déc. 2007 (Compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568).Le renvoi a été adapté en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 85
 
