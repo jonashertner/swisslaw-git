@@ -4,11 +4,11 @@ title: "Ordonnance du 28 avril 2004 sur l'état civil (OEC)"
 short: OEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: fr
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/fr"
 
 (OEC)
 
-du 28 avril 2004 (Etat le 1<sup>er</sup> juillet 2022)
+du 28 avril 2004 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1333,11 +1333,11 @@ En l’absence de formule ou lorsque son utilisation n’est pas adéquate, les 
 
 **Actes authentiques électroniques et légalisations électroniques**[^47b-1]
 
-<sup>1</sup> La personne nommée ou élue officier de l’état civil est autorisée à délivrer des documents d'état civil sous forme électronique, y compris des actes authentiques et des documents légalisés.
+<sup>1</sup> La personne nommée ou élue officier de l’état civil est autorisée à délivrer des documents d’état civil sous forme électronique, y compris des actes authentiques et des documents légalisés.
 
 <sup>2</sup> Les autorités cantonales de surveillance et l’OFEC peuvent autoriser leurs collaborateurs à procéder électroniquement à la légalisation selon l’art. 18*a,* al. 2.
 
-<sup>3</sup> L’OFEC peut autoriser ses collaborateurs à délivrer électroniquement des documents d'état civil au sens de l’art. 92*b*, al. 1<sup>bis</sup>*,* y compris des actes authentiques et des documents légalisés.
+<sup>3</sup> L’OFEC peut autoriser ses collaborateurs à délivrer électroniquement des documents d’état civil au sens de l’art. 92*b*, al. 1<sup>bis</sup>*,* y compris des actes authentiques et des documents légalisés.
 
 <sup>4</sup> L’OAAE[^47b-2] est applicable.
 
@@ -1353,7 +1353,7 @@ En l’absence de formule ou lorsque son utilisation n’est pas adéquate, les 
 
 Les documents mentionnés à l’art. 47 ont la même force probante que les supports de données (registres de l’état civil et pièces justificatives) originaux.
 
-### Section 2 Divulgation d’office****
+### Section 2 Divulgation d’office
 
 [^chap6-sec2-1]
 
@@ -1859,7 +1859,7 @@ L’officier de l’état civil communique par écrit son refus d’exécuter la
 
 [^75-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-## Chapitre 7*a***** Conversion du partenariat enregistré en mariage
+## Chapitre 7*a* Conversion du partenariat enregistré en mariage
 
 [^chap7a-1]
 
@@ -1895,7 +1895,7 @@ Si, à la demande commune des partenaires enregistrés, la déclaration de conve
 
 <sup>2</sup> Au surplus, les art. 72 et 75*n* sont applicables par analogie.
 
-## Chapitre 8 Système d’information central de personnes****
+## Chapitre 8 Système d’information central de personnes
 
 [^chap8-1]
 
@@ -2033,11 +2033,17 @@ Les données sont saisies selon le jeu de caractères ISO 8859-15[^80-2].
 
 <sup>1</sup> Les autorités de surveillance et l’OFEC veillent au respect de la protection et de la sécurité des données, dans le cadre de leurs activités de surveillance et d’inspection (art. 84 et 85). Elles pourvoient à ce que les carences en matière de protection et de sécurité des données soient éliminées dans les meilleurs délais.
 
-<sup>2</sup> L’OFEC peut se faire conseiller par le Préposé fédéral à la protection des données et à la transparence et par le Centre national pour la cybersécurité.[^83-1]
+<sup>2</sup> L’OFEC invite le Préposé fédéral à la protection des données et à la transparence (PFPDT) à prendre position avant de prendre toute mesure concernant des questions de protection et de sécurité des données.[^83-1]
 
-[^83-1]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+<sup>3</sup> Il consulte le Centre national pour la cybersécurité.[^83-2]
 
-## Chapitre 10 Surveillance et compétences des autorités fédérales****
+<sup>4</sup> Dans le cadre de sa surveillance, le PFPDT assure la coordination avec l’OFEC et, en cas de besoin, avec les autorités cantonales de protection des données.[^83-3]
+
+[^83-1]: Nouvelle teneur selon l’annexe 2 ch. II 27 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-2]: Introduit par l’annexe 2 ch. II 27 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-3]: Introduit par l’annexe 2 ch. II 27 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## Chapitre 10 Surveillance et compétences des autorités fédérales
 
 [^chap10-1]
 
@@ -2171,7 +2177,7 @@ Les procédures entre les particuliers et les autorités de l’état civil peuv
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions de l’officier de l'état civil peuvent faire l’objet d'un recours devant l'autorité de surveillance.[^90-1]
+<sup>1</sup> Les décisions de l’officier de l’état civil peuvent faire l’objet d’un recours devant l’autorité de surveillance.[^90-1]
 
 <sup>2</sup> Les décisions de l’autorité de surveillance peuvent être attaquées devant les autorités cantonales compétentes; il en va de même des décisions de l’autorité de surveillance rendues sur recours.[^90-2]
 
@@ -2440,7 +2446,7 @@ Les inscriptions dans le registre suisse des officiers publics au sens de l’ar
 
 [^100-1]: Les art. 22 et 43 al. 1 à 3 sont entrés en vigueur le 1<sup>er</sup> juil. 2005 (O du DFJP du 11 avr. 2005; [RO 2005 1823](https://fedlex.data.admin.ch/eli/oc/2005/300)).
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 79)
 

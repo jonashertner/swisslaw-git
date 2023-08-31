@@ -4,11 +4,11 @@ title: "Ordinaziun dals 28 d'avrigl 2004 davart il stadi civil (OSC)"
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: rm
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220701-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OSC)
 
-dals 28 d’avrigl 2004 (versiun dal 1. da fanadur 2022)
+dals 28 d’avrigl 2004 (versiun dal 1. da settember 2023)
 
 Il Cussegl federal svizzer,
 
@@ -233,7 +233,6 @@ Las suandantas datas vegnan administradas en il register dal stadi civil:
 
 - b.[^8-1] numer da la AVS;
 - b<sup>bis</sup>.[^8-2] …
-
 - c.
 
   num:
@@ -2035,9 +2034,15 @@ Las datas vegnan registradas tenor il set da caracters (norma ISO 8859-15[^80-2]
 
 <sup>1</sup> Las autoritads da surveglianza ed il UFSC surveglian che la protecziun e la segirezza da las datas vegnia observada en il rom da lur activitad da surveglianza e d’inspecziun (art. 84 ed 85). Els procuran che las mancanzas en connex cun la protecziun e cun la segirezza da las datas vegnian eliminadas uschè svelt sco pussaivel.
 
-<sup>2</sup> Il UFSC consultescha l’Incumbensà federal per la protecziun da datas e per la transparenza sco er il Center naziunal per la cybersegirezza.[^83-1]
+<sup>2</sup> Avant ch’il UFSC prenda ina decisiun che pertutga dumondas da la protecziun e da la segirezza da datas, envida el l’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT) da prender posiziun.[^83-1]
 
-[^83-1]: Versiun tenor la cifra 9 da l’agiunta da l’O dals 24 da favr. 2021, en vigur dapi il 1. d’avr. 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+<sup>3</sup> Il UFSC consultescha il Center naziunal per la cybersegirezza.[^83-2]
+
+<sup>4</sup> En il rom da sia surveglianza sa coordinescha il IFPDT cun il UFSC ed – en cas da basegn – cun las autoritads chantunalas per la protecziun da datas.[^83-3]
+
+[^83-1]: Versiun tenor la cifra II 27 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-2]: Integrà tras la cifra II 27 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-3]: Integrà tras la cifra II 27 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 10. chapitel Surveglianza e cumpetenzas da las autoritads federalas
 

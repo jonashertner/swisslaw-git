@@ -4,11 +4,11 @@ title: Zivilstandsverordnung vom 28. April 2004 (ZStV)
 short: ZStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: de
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/de"
 
 (ZStV)
 
-vom 28. April 2004 (Stand am 1. Juli 2022)
+vom 28. April 2004 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -206,7 +206,7 @@ Erfasst werden:
 - m. Adoption;
 - n. Verschollenerklärung;
 - o. Geschlechtsänderung;
-- p.[^7-1] ...
+- p.[^7-1] …
 - q.[^7-2] Eintragung einer Partnerschaft;
 - r.[^7-3] Auflösung einer eingetragenen Partnerschaft.
 
@@ -1350,7 +1350,7 @@ Ist kein Formular vorgesehen oder ist dessen Verwendung nicht zweckmässig, so e
 
 Die Dokumente nach Artikel 47 haben die gleiche Beweiskraft wie die Datenträger (Personenstandsregister und Belege), aus denen Personenstandsdaten bekannt gegeben werden.
 
-### 2. Abschnitt: Bekanntgabe von Amtes wegen****
+### 2. Abschnitt: Bekanntgabe von Amtes wegen
 
 [^chap6-sec2-1]
 
@@ -1858,7 +1858,7 @@ Die Zivilstandsbeamtin oder der Zivilstandsbeamte teilt den Entscheid, dass auf 
 
 [^75-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-## 7*a*. Kapitel:**** Umwandlung der eingetragenen Partnerschaft in eine Ehe
+## 7*a*. Kapitel: Umwandlung der eingetragenen Partnerschaft in eine Ehe
 
 [^chap7a-1]
 
@@ -1894,7 +1894,7 @@ Wird die Umwandlungserklärung auf gemeinsamen Antrag der eingetragenen Partneri
 
 <sup>2</sup> Im Übrigen sind die Artikel 72 und 75*n* Absatz 2 sinngemäss anwendbar.
 
-## 8. Kapitel: Zentrales Personen-Informationssystem****
+## 8. Kapitel: Zentrales Personen-Informationssystem
 
 [^chap8-1]
 
@@ -2032,11 +2032,17 @@ Die Daten werden nach dem hinterlegten Standardzeichensatz erfasst (ISO-Norm 885
 
 <sup>1</sup> Die Aufsichtsbehörden und das EAZW überwachen die Einhaltung des Datenschutzes und die Gewährleistung der Datensicherheit im Rahmen ihrer Aufsichts- und Inspektionstätigkeit (Art. 84 und 85). Sie sorgen dafür, dass Mängel beim Datenschutz und bei der Datensicherheit so rasch als möglich behoben werden.
 
-<sup>2</sup> Das EAZW zieht den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten sowie das Nationale Zentrum für Cybersicherheit bei.[^83-1]
+<sup>2</sup> Das EAZW lädt den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) zur Stellungnahme ein, bevor es eine Massnahme trifft, die Fragen des Datenschutzes und der Datensicherheit betrifft.[^83-1]
 
-[^83-1]: Fassung gemäss Anhang Ziff. 9 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+<sup>3</sup> Es zieht das Nationale Zentrum für Cybersicherheit bei.[^83-2]
 
-## 10. Kapitel: Aufsicht und Zuständigkeiten der Bundesbehörden****
+<sup>4</sup> Der EDÖB koordiniert sich im Rahmen seiner Aufsicht mit dem EAZW und bei Bedarf mit den kantonalen Datenschutzbehörden.[^83-3]
+
+[^83-1]: Fassung gemäss Anhang 2 Ziff. II 27 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-2]: Eingefügt durch Anhang 2 Ziff. II 27 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-3]: Eingefügt durch Anhang 2 Ziff. II 27 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## 10. Kapitel: Aufsicht und Zuständigkeiten der Bundesbehörden
 
 [^chap10-1]
 
@@ -2438,7 +2444,7 @@ Die Eintragungen im Schweizerischen Register der Urkundspersonen nach Artikel 6 
 
 [^100-1]: Die Art. 22 und 43 Abs. 1–3 traten am 1. Juli 2005 in Kraft (V des EJPD vom 11. April 2005, [AS 2005 1823](https://fedlex.data.admin.ch/eli/oc/2005/300)).
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 79)
 

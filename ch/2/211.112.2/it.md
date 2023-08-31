@@ -4,11 +4,11 @@ title: Ordinanza del 28 aprile 2004 sullo stato civile (OSC)
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: it
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/it"
 
 (OSC)
 
-del 28 aprile 2004 (Stato 1° luglio 2022)
+del 28 aprile 2004 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1351,7 +1351,7 @@ Se non è previsto alcun modulo o non è opportuno usarlo, la divulgazione è ef
 
 I documenti giusta l’articolo 47 hanno la stessa forza probatoria dei supporti di dati (registro dello stato civile e documenti giustificativi) a partire dai quali sono divulgati dati dello stato civile.
 
-### Sezione 2: Divulgazione d’ufficio****
+### Sezione 2: Divulgazione d’ufficio
 
 [^chap6-sec2-1]
 
@@ -1860,7 +1860,7 @@ L’ufficiale dello stato civile comunica per scritto il rifiuto di eseguire la 
 
 [^75-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-## Capitolo 7*a*:**** Conversione dell’unione domestica registrata in matrimonio
+## Capitolo 7*a*: Conversione dell’unione domestica registrata in matrimonio
 
 [^chap7a-1]
 
@@ -1896,7 +1896,7 @@ Se, su domanda congiunta dei partner registrati, la dichiarazione di conversione
 
 <sup>2</sup> Per il resto, sono applicabili per analogia gli articoli 72 e 75*n*.
 
-## Capitolo 8: Sistema centrale d’informazione sulle persone****
+## Capitolo 8: Sistema centrale d’informazione sulle persone
 
 [^chap8-1]
 
@@ -2034,11 +2034,17 @@ I dati sono registrati con il set di caratteri ISO 8859-15[^80-2].
 
 <sup>1</sup> Il controllo del rispetto delle prescrizioni sulla protezione dei dati e della garanzia della sicurezza dei dati compete alle autorità di vigilanza e all’UFSC nell’ambito della loro attività di vigilanza e ispezione (art. 84 e 85). Essi provvedono affinché le lacune nella protezione e nella sicurezza dei dati siano eliminate il più rapidamente possibile.
 
-<sup>2</sup> L’UFSC consulta l’Incaricato federale della protezione dei dati e della trasparenza così come il Centro nazionale per la cibersicurezza.[^83-1]
+<sup>2</sup> Prima di adottare un provvedimento riguardante le questioni della protezione dei dati e della sicurezza dei dati, l’UFSC invita l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) a presentare un parere.[^83-1]
 
-[^83-1]: Nuovo testo giusta l’all. n. 9 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+<sup>3</sup> Consulta il Centro nazionale per la cibersicurezza.[^83-2]
 
-## Capitolo 10: Vigilanza e competenze delle autorità federali****
+<sup>4</sup> L’IFPDT, nell’ambito della sua vigilanza, si coordina con l’UFSC e se necessario con le autorità cantonali della protezione dei dati.[^83-3]
+
+[^83-1]: Nuovo testo giusta l’all. 2 n. II 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-2]: Introdotto dall’all. 2 n. II 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-3]: Introdotto dall’all. 2 n. II 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## Capitolo 10: Vigilanza e competenze delle autorità federali
 
 [^chap10-1]
 
@@ -2439,7 +2445,7 @@ Le iscrizioni nel Registro svizzero dei pubblici ufficiali secondo l’articolo 
 
 [^100-1]: Gli art. 22 e 43 cpv. 1 a 3 sono entrati in vigore il 1° lug. 2005 (O del DFGP dell’11 apr. 2005 – [RU 2005 1823](https://fedlex.data.admin.ch/eli/oc/2005/300)).
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 79)
 
@@ -2495,7 +2501,7 @@ Diritti d’accesso
 <tr><td>8.</td><td colspan="2">Domicilio</td><td>D</td><td>RE</td><td>R</td><td colspan="4">R</td></tr>
 <tr><td>9.</td><td colspan="2">Luogo di soggiorno</td><td>D</td><td>RE</td><td>R</td><td colspan="4">R</td></tr>
 <tr><td>10.</td><td colspan="2">Stato di vita</td><td>D</td><td>RE</td><td>R</td><td colspan="4">R</td></tr>
-<tr><td>11.</td><td colspan="2">Durevolmente incapace di discernimento</td><td>U</td><td>E</td><td>A</td><td colspan="4">A</td></tr>
+<tr><td>11.</td><td colspan="2">Durevolmente incapace di discernimento</td><td>D</td><td>RE</td><td>R</td><td colspan="4">R</td></tr>
 <tr><td>12.</td><td colspan="2">Genitori</td><td></td><td></td><td></td><td colspan="4"></td></tr>
 <tr><td>12.1</td><td colspan="2">Cognome della madre</td><td>D</td><td>RE</td><td>R</td><td colspan="4">R</td></tr>
 <tr><td>12.2</td><td colspan="2">Nomi della madre</td><td>D</td><td>RE</td><td>R</td><td colspan="4">R</td></tr>
