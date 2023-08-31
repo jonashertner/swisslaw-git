@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230201-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230901-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 1<sup>er</sup> février 2023)
+du 24 octobre 2007 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -2305,21 +2305,10 @@ Le SEM édicte les directives nécessaires à l’exécution de la présente ord
 
 **Communication de données personnelles à un État qui n’est lié à aucun des accords d’association à Schengen**[^89a-1]
 
-Il y a protection adéquate de la personne concernée au sens de l’art. 111*d* LEI lorsque des garanties suffisantes résultant notamment de clauses contractuelles et portant sur les données transmises et leur traitement sont fournies sur les points suivants:
+Il y a protection appropriée de la personne concernée au sens de l’art. 111*d*, al. 3, LEI lorsque des garanties appropriées respectent les exigences des art. 9 à 12 de l’ordonnance du 31 août 2022 sur la protection des données[^89a-2].
 
-- a. les principes de licéité, de bonne foi et d’exactitude sont respectés;
-- b. la finalité de la communication des données est clairement déterminée;
-- c. les données ne sont traitées que dans les limites nécessaires à leur communication;
-- d. les autorités habilitées à traiter les données transmises sont clairement désignées;
-- e. la transmission des données à un autre État n’assurant pas un niveau de protection adéquat est interdite;
-- f. la conservation et la destruction des données sont clairement réglementées;
-- g. la personne concernée a le droit de faire rectifier des données inexactes;
-- h. la personne concernée est informée du traitement de ses données personnelles et des conditions-cadres de ce dernier;
-- i. la personne concernée bénéficie d’un droit d’accès à ses données personnelles;
-- j. la sécurité des données est garantie;
-- k. la personne concernée a le droit de saisir en justice une autorité indépendante si elle estime que ses données personnelles ont été traitées de manière illicite.
-
-[^89a-1]: Introduit par le ch. I 3 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^89a-1]: Introduit par le ch. I 3 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 90
 

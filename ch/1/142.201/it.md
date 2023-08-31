@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230201-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230901-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 1° febbraio 2023)
+del 24 ottobre 2007 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -2305,23 +2305,12 @@ La SEM emana le istruzioni necessarie per l’esecuzione della presente ordinanz
 
 #### Art. 89a
 
-**Comunicazione di dati personali a uno Stato non vincolato da nessuno degli Accordi di associazione alla normativa di Schengen**[^89a-1]
+**Comunicazione di dati personali a uno Stato non vincolato da alcun accordo di associazione alla normativa di Schengen**[^89a-1]
 
-È data una protezione adeguata dello straniero in questione ai sensi dell’articolo 102*c* capoverso 3 LAsi se sono fornite garanzie sufficienti, risultanti segnatamente dalle clausole contrattuali, sui punti seguenti:
+È data una protezione adeguata dei dati dell’interessato ai sensi dell’articolo 111*d* capoverso 3 LStrI se le garanzie adeguate adempiono i requisiti degli articoli 9–12 dell’ordinanza del 31 agosto 2022[^89a-2] sulla protezione dei dati.
 
-- a. i principi della legittimità e della buona fede nel trattamento dei dati nonché dell’esattezza dei dati sono rispettati;
-- b. lo scopo della comunicazione è chiaramente stabilito;
-- c. i dati sono trattati solo fintanto che necessario allo scopo della comunicazione;
-- d. le autorità autorizzate a trattare i dati sono chiaramente designate;
-- e. la trasmissione dei dati ad altri Stati che non garantiscono un adeguato livello di protezione è vietata;
-- f. la conservazione e la cancellazione dei dati sono chiaramente disciplinate;
-- g. lo straniero in questione ha un diritto di rettifica dei dati inesatti;
-- h. lo straniero in questione è informato sul trattamento dei suoi dati personali nonché sulle relative condizioni;
-- i. lo straniero in questione ha il diritto di essere informato sui dati che lo riguardano;
-- j. la sicurezza dei dati è garantita;
-- k. lo straniero in questione ha il diritto di fare appello a un’autorità indipendente se ritiene che il trattamento dei suoi dati sia illecito.
-
-[^89a-1]: Introdotto dal n. I 3 dell’O del 22 ott. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^89a-1]: Introdotto dal n. I 3 dell’O del 22 ott. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta l’all. 2 n. II 4 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 90
 

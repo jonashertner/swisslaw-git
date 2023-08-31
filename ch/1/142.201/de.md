@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230201-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230901-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Februar 2023)
+vom 24. Oktober 2007 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -2286,21 +2286,10 @@ Das SEM erlässt die für den Vollzug dieser Verordnung erforderlichen Weisungen
 
 **Bekanntgabe von Personendaten an einen Staat, der durch keines der Schengen-Assoziierungsabkommen gebunden ist**[^89a-1]
 
-Ein angemessener Schutz der betroffenen Person im Sinne von Artikel 111*d* AIG liegt vor, wenn hinreichende Garantien sich insbesondere aus entsprechenden Vertragsklauseln ergeben und bezüglich der übermittelten Daten und ihrer Bearbeitung Folgendes gewährleisten:
+Ein geeigneter Datenschutz der betroffenen Person im Sinne von Artikel 111*d* Absatz 3 AIG liegt vor, wenn die geeigneten Garantien die Anforderungen der Artikel 9–12 der Datenschutzverordnung vom 31. August 2022[^89a-2] erfüllen.
 
-- a. Die Grundsätze der Rechtmässigkeit, von Treu und Glauben der Datenbearbeitung sowie der Richtigkeit der Daten werden beachtet.
-- b. Der Zweck der Bekanntgabe ist klar festgelegt.
-- c. Die Daten werden nur so weit bearbeitet, als es für den Zweck der Bekanntgabe erforderlich ist.
-- d. Die zur Bearbeitung ermächtigten Behörden werden klar bezeichnet.
-- e. Die Weitergabe der Daten an andere Staaten, welche kein angemessenes Datenschutzniveau gewährleisten, ist verboten.
-- f. Die Aufbewahrung und Vernichtung der Daten sind klar geregelt.
-- g. Die betroffene Person hat ein Recht auf Berichtigung unrichtiger Daten
-- h. Die betroffene Person wird über die Bearbeitung ihrer Personendaten sowie deren Rahmenbedingungen informiert.
-- i. Die betroffene Person hat ein Recht auf Auskunft über die sie betreffenden Daten.
-- j. Die Datensicherheit ist gewährleistet.
-- k. Die betroffene Person hat das Recht, eine unabhängige Behörde anzurufen, wenn sie der Auffassung ist, die Bearbeitung ihrer Daten sei unzulässig.
-
-[^89a-1]: Eingefügt durch Ziff. I 3 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^89a-1]: Eingefügt durch Ziff. I 3 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Anhang 2 Ziff. II 4 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89a-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 90
 
