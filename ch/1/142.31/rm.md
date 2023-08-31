@@ -4,11 +4,11 @@ title: "Lescha d'asil dals 26 da zercladur 1998 (LAsil)"
 short: LAsil
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: rm
-version: 2022-11-22
+version: 2023-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAsil)
 
-dals 26 da zercladur 1998 (versiun dals 22 da november 2022)
+dals 26 da zercladur 1998 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1931,14 +1931,15 @@ La procedura d’approvaziun dals plans simplifitgada vegn applitgada tar:
 
 **Elavuraziun da datas persunalas**[^96-1]
 
-<sup>1</sup> Il SEM, las autoritads da recurs sco er las organisaziuns privatas incaricadas cun incumbensas che sa basan sin questa lescha pon elavurar u laschar elavurar datas persunalas, surtut er datas spezialmain sensiblas u profils da persunalitads tenor l’artitgel 3 literas c e d da la Lescha federala dals 19 da zercladur 1992[^96-2] davart la protecziun da datas (LPD), d’in requirent d’asil u d’ina persuna cun basegn da protecziun e da ses confamigliars, uschenavant ch’els dovran questas datas per ademplir lur incumbensas legalas.
+<sup>1</sup> Il SEM, las autoritads da recurs sco er las organisaziuns privatas incaricadas cun incumbensas che sa basan sin questa lescha, pon elavurar u laschar elavurar datas persunalas da requirents d’asil u da persunas cun basegn da protecziun e da lur confamigliars, inclusiv datas persunalas spezialmain sensiblas tenor l’artitgel 5 litera c da la Lescha federala dals 25 da settember 2020[^96-2] davart la protecziun da datas (LPD), uschenavant ch’els dovran questas datas per ademplir lur incumbensas legalas.[^96-3]
 
-<sup>2</sup> Las datas ch’èn necessarias per cumbatter la lavur illegala dastgan vegnir communitgadas da las autoritads tenor l’alinea 1 sin fundament dals artitgels 11 e 12 da la Lescha federala dals 17 da zercladur 2005[^96-3] davart la lavur illegala.[^96-4]
+<sup>2</sup> Las datas ch’èn necessarias per cumbatter la lavur illegala dastgan vegnir communitgadas da las autoritads tenor l’alinea 1 sin fundament dals artitgels 11 e 12 da la Lescha federala dals 17 da zercladur 2005[^96-4] davart la lavur illegala.[^96-5]
 
 [^96-1]: Versiun tenor l’art. 3 cifra 2 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^96-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^96-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^96-4]: Integrà tras la cifra 2 da l’agiunta da la LF dals 17 da zer. 2005 davart la lavur illegala, en vigur dapi il 1. da schan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^96-3]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-4]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^96-5]: Integrà tras la cifra 2 da l’agiunta da la LF dals 17 da zer. 2005 davart la lavur illegala, en vigur dapi il 1. da schan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 97
 
@@ -1969,7 +1970,7 @@ Per exequir ina spedida en il stadi d’origin u da derivanza po l’autoritad c
 
 **Communitgar datas persunalas a terzs stadis ed ad organisaziuns internaziunalas**
 
-<sup>1</sup> Per exequir questa lescha dastgan il SEM e las autoritads da recurs communitgar datas persunalas a las autoritads da l’exteriur ed a las organisaziuns internaziunalas che han incumbensas correspundentas, sch’il stadi respectiv u l’organisaziun internaziunala garantescha ina protecziun equivalenta da las datas transferidas.
+<sup>1</sup> Per exequir questa lescha dastgan il SEM e las autoritads da recurs communitgar datas persunalas a las autoritads da l’exteriur ed a las organisaziuns internaziunalas che han incumbensas correspundentas, sche las premissas tenor l’artitgel 16 LPD[^98-1] èn ademplidas.[^98-2]
 
 <sup>2</sup>
 
@@ -1983,9 +1984,11 @@ Las suandantas datas persunalas dastgan vegnir communitgadas:
 - f. las datas ch’èn necessarias per garantir l’entrada en il stadi da destinaziun sco er la segirezza da las persunas accumpagnantas;
 - g. indicaziuns davart lieus da dimora ed itineraris;
 - h. indicaziuns davart permissiuns da star en il pajais e davart visums concedids;
-- i. indicaziuns davart ina dumonda d’asil (lieu e data da l’inoltraziun, stadi da la procedura, indicaziuns summaricas davart il cuntegn d’ina decisiun prendida).[^98-1]
+- i. indicaziuns davart ina dumonda d’asil (lieu e data da l’inoltraziun, stadi da la procedura, indicaziuns summaricas davart il cuntegn d’ina decisiun prendida).[^98-3]
 
-[^98-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^98-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^98-2]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^98-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 98a
 
@@ -2030,7 +2033,7 @@ Il SEM dovra questas indicaziuns per:
 - d. controllar, sche datas èn avant maun che mettan en dumonda la dignitad da la persuna pertutgada da survegnir asil;
 - e. faciliteschan l’agid uffizial a las autoritads polizialas.
 
-<sup>6</sup> Las datas persunalas transferidas tenor l’alinea 4 na dastgan betg vegnir communitgadas a l’exteriur senza il consentiment dal possessur da la collecziun da datas. L’artitgel 6 alinea 1 da la LPD[^99-5] vala tenor il senn.
+<sup>6</sup> Las datas persunalas ch’èn vegnidas communitgadas tenor l’alinea 4, dastgan vegnir communitgadas a l’exteriur mo cun il consentiment da la persuna ch’è responsabla per l’elavuraziun da datas. L’artitgel 16 alinea 1 LPD[^99-5] vala tenor il senn.[^99-6]
 
 <sup>7</sup>
 
@@ -2038,14 +2041,15 @@ Las datas vegnan stizzadas:
 
 - a. sche l’asil vegn concedì;
 - b. il pli tard 10 onns suenter che la dumonda d’asil è vegnida refusada cun vigur legala, suenter ch’ella è vegnida retratga u annullada ubain suenter ina decisiun da betg entrar en chaussa;
-- c.[^99-6] tar persunas cun basegn da protecziun il pli tard 10 onns suenter l’aboliziun da la protecziun provisorica.
+- c.[^99-7] tar persunas cun basegn da protecziun il pli tard 10 onns suenter l’aboliziun da la protecziun provisorica.
 
 [^99-1]: Versiun tenor l’art. 3 cifra 2 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^99-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-4]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^99-6]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^99-6]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-7]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 ### 1*a*. secziun Sistem d’infurmaziun per ils centers da la Confederaziun e per ils alloschis sin las plazzas aviaticas
 
@@ -2064,7 +2068,7 @@ Las datas vegnan stizzadas:
 
 MIDES serva:
 
-- a. ad elavurar datas persunalas da requirents d’asil e da persunas cun basegn da protecziun, inclusiv datas persunalas spezialmain sensiblas e profils da la persunalitad tenor l’artitgel 3 literas c e d da la LPD[^99a-1]; e
+- a.[^99a-1] ad elavurar datas persunalas da requirents d’asil e da persunas cun basegn da protecziun, inclusiv datas persunalas spezialmain sensiblas tenor l’artitgel 5 litera c LPD[^99a-2]; e
 - b. a controllar las fatschentas, a realisar la procedura d’asil sco er a planisar ed ad organisar la collocaziun.
 
 <sup>3</sup>
@@ -2072,20 +2076,21 @@ MIDES serva:
 MIDES cuntegna las suandantas datas persunalas:
 
 - a. datas davart l’identitad da las persunas registradas, particularmain il num, il prenum, la schlattaina, la data ed il lieu da naschientscha, la naziunalitad, l’etnia, la religiun, il stadi civil, l’adressa ed ils nums dals geniturs;
-- b.[^99a-2] ils protocols da las interrogaziuns summaricas fatgas en ils centers da la Confederaziun e sin las plazzas aviaticas tenor ils artitgels 22 alinea 1 e 26 alinea 3;
+- b.[^99a-3] ils protocols da las interrogaziuns summaricas fatgas en ils centers da la Confederaziun e sin las plazzas aviaticas tenor ils artitgels 22 alinea 1 e 26 alinea 3;
 - c. datas biometricas;
 - d. indicaziuns davart la collocaziun;
 - e. il stadi da la procedura;
-- f.[^99a-3] la remartga «cas medicinal» en vista a la repartiziun dals requirents d’asil sin ils chantuns.
+- f.[^99a-4] la remartga «cas medicinal» en vista a la repartiziun dals requirents d’asil sin ils chantuns.
 
-<sup>4</sup> Las datas persunalas tenor l’alinea 3 literas a, c, e ed f vegnan surpigliadas en il SIMIC.[^99a-4]
+<sup>4</sup> Las datas persunalas tenor l’alinea 3 literas a, c, e ed f vegnan surpigliadas en il SIMIC.[^99a-5]
 
 <sup>5</sup> Ils requirents d’asil e las persunas cun basegn da protecziun ston vegnir infurmads particularmain davart l’intent da l’elavuraziun da las datas e davart las categorias dals retschaviders da las datas.
 
-[^99a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^99a-2]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^99a-3]: Integrà tras la cifra 1 da l’agiunta da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^99a-4]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^99a-1]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^99a-3]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^99a-4]: Integrà tras la cifra 1 da l’agiunta da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^99a-5]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 #### Art. 99b
 
@@ -2137,13 +2142,14 @@ Il Cussegl federal regla:
 
 <sup>1</sup> Las autoritads da recurs mainan in sistem d’infurmaziun per registrar ils recurs ch’èn vegnids inoltrads ad ellas, per manar ina controlla da las fatschentas e per far statisticas.
 
-<sup>2</sup> Quests sistems d’infurmaziun pon cuntegnair datas persunalas spezialmain sensiblas e profils da la persunalitad, uschenavant che quai è necessari per ademplir l’incumbensa legala.
+<sup>2</sup> Il sistem d’infurmaziun po cuntegnair datas persunalas spezialmain sensiblas, uschenavant che quai è necessari per ademplir l’incumbensa legala.[^100-3]
 
-<sup>2bis</sup> Datas faussas ston vegnir curregidas d’uffizi. Sche las datas faussas pon vegnir attribuidas al fatg ch’ina persuna ha violà l’obligaziun da cooperar, pon ils custs da la correctura vegnir mess a quint a questa persuna.[^100-3]
+<sup>2bis</sup> Datas faussas ston vegnir curregidas d’uffizi. Sche las datas faussas pon vegnir attribuidas al fatg ch’ina persuna ha violà l’obligaziun da cooperar, pon ils custs da la correctura vegnir mess a quint a questa persuna.[^100-4]
 
 [^100-1]: Versiun tenor l’art. 18 cifra 2 da la LF dals 20 da zer. 2003 davart il sistem d’infurmaziun per il sectur da las persunas estras e da l’asil, en vigur dapi ils 29 da matg 2006 ([AS 2006 1931](https://fedlex.data.admin.ch/eli/oc/2006/301); [BBl 2002 4693](https://fedlex.data.admin.ch/eli/fga/2002/773)).
 [^100-2]: Versiun tenor l’agiunta da la LF dals 18 da zer. 2010 (controlla da cunfin automatisada, cussegliaders da documents, sistem d’infurmaziun MIDES), en vigur dapi il 1. da schan. 2011 ([AS 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^100-3]: Integrà tras la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^100-3]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-4]: Integrà tras la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 101
 
@@ -2155,16 +2161,17 @@ Il Cussegl federal regla:
 
 **Sistem d’infurmaziun e da documentaziun**
 
-<sup>1</sup> En collavuraziun cun il Tribunal administrativ federal maina il SEM in sistem d’infurmaziun e da documentaziun automatisà. En quel vegnan arcunads en differentas bancas da datas infurmaziuns e documentaziuns che sa refereschan a la chaussa e che appartegnan al champ d’incumbensas dal SEM e dal Tribunal administrativ federal. Sche quai è necessari, pon er vegnir arcunadas datas persunalas ch’èn cuntegnidas en ils texts, particularmain persunalias sco er datas persunalas spezialmain sensiblas e profils da la persunalitad.[^102-1]
+<sup>1</sup> En collavuraziun cun il Tribunal administrativ federal maina il SEM in sistem d’infurmaziun e da documentaziun automatisà. En quel vegnan arcunads en differentas bancas da datas infurmaziuns e documentaziuns che sa refereschan a la chaussa e che appartegnan al champ d’incumbensas dal SEM e dal Tribunal administrativ federal. Sche quai è necessari, pon er vegnir arcunadas datas persunalas ch’èn cuntegnidas en ils texts, particularmain persunalias, sco er datas persunalas spezialmain sensiblas.[^102-1] [^102-2]
 
-<sup>2</sup> A bancas da datas che cuntegnan datas persunalas spezialmain sensiblas e profils da la persunalitad han access mo ils collavuraturs dal SEM e dal Tribunal administrativ federal.[^102-2]
+<sup>2</sup> A bancas da datas che cuntegnan datas persunalas spezialmain sensiblas, han access mo ils collavuraturs dal SEM e dal Tribunal administrativ federal.[^102-3]
 
 <sup>3</sup> Bancas da datas che cuntegnan oravant tut infurmaziuns che sa refereschan a la chaussa e che derivan da funtaunas publicas pon – sin dumonda – vegnir rendidas accessiblas ad utilisaders externs cun agid d’ina procedura d’invista.
 
 <sup>4</sup> Il SEM regla ils detagls, particularmain l’access al sistem e la protecziun da las datas persunalas ch’èn registradas en tal.
 
-[^102-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^102-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^102-1]: Versiun da la terza frasa tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal administrativ federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^102-3]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102a
 
@@ -2244,15 +2251,15 @@ La communicaziun da datas persunalas a las autoritads cumpetentas da stadis ch�
 
 **Communicaziun da datas persunalas ad in stadi che n’è betg lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin**
 
-<sup>1</sup> Ad terzs stadis dastgan vegnir communitgadas datas persunalas mo, sche quests stadis garanteschan in nivel da protecziun da datas adequat.
+<sup>1</sup> Ad ulteriurs stadis dastgan datas da persunas vegnir communitgadas mo, sch’els garanteschan in nivel da protecziun da datas adequat tenor l’artitgel 16 alinea 1 LPD[^102c-1].[^102c-2]
 
 <sup>2</sup>
 
-Sch’in terz stadi na garantescha betg in nivel da protecziun da datas adequat, al pon vegnir communitgadas datas persunalas en il cas singul, sche:
+Sch’in ulteriur stadi na garantescha betg in nivel da protecziun da datas adequat, al pon vegnir communitgadas datas da persunas en ils suandants cas:
 
-- a. la persuna pertutgada ha dà ses consentiment senza il minim dubi; sch’i sa tracta da datas persunalas spezialmain sensiblas u da profils da la persunalitad, sto il consentiment esser explicit;
-- b. la communicaziun è necessaria per proteger la vita u l’integritad corporala da la persuna pertutgada; u
-- c. la communicaziun è necessaria per proteger interess publics predominants u per constatar, per exequir u per far valair dretgs davant dretgira.
+- a. la persuna pertutgada ha dà ses consentiment tenor l’artitgel 6 alinea 6 ed eventualmain alinea 7 LPD;
+- b. la communicaziun è necessaria per proteger la vita u l’integritad corporala da la persuna pertutgada ed i n’è betg pussaivel da survegnir ses consentiment entaifer in termin adequat;
+- c. la communicaziun è necessaria per proteger interess publics predominants u per constatar, exequir u far valair dretgs davant dretgira u davant in’autra autoritad estra cumpetenta.[^102c-3]
 
 <sup>3</sup> Ultra dals cas numnads en l’alinea 2 pon datas persunalas er vegnir communitgadas, sche garanzias suffizientas permettan en il cas singul che la persuna pertutgada saja protegida adequatamain.
 
@@ -2263,10 +2270,14 @@ Sch’in terz stadi na garantescha betg in nivel da protecziun da datas adequat,
 Las datas che derivan da la banca da datas Eurodac na dastgan vegnir transmessas sut naginas circumstanzas:
 
 - a. ad in stadi che n’è betg lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin;
-- b. ad organisaziuns internaziunalas;
-- c. a posts privats.[^102c-1]
 
-[^102c-1]: Integrà tras la cifra 2 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’O [UE] nr. 603/2013 davart la constituziun d’Eurodac sco er davart la midada da l’O [UE] nr. 1077/2011 pertutgant la constituziun da l’Agentura IT, en vigur dapi ils 20 da fan. 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+- b. ad organisaziuns internaziunalas;
+- c. a posts privats.[^102c-4]
+
+[^102c-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102c-2]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-3]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-4]: Integrà tras la cifra 2 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’O [UE] nr. 603/2013 davart la constituziun d’Eurodac sco er davart la midada da l’O [UE] nr. 1077/2011 pertutgant la constituziun da l’Agentura IT, en vigur dapi ils 20 da fan. 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 102d
 
@@ -2282,11 +2293,12 @@ Las datas che derivan da la banca da datas Eurodac na dastgan vegnir transmessas
 
 #### Art. 102e
 
-**Dretg da dar infurmaziuns**
+**Dretg da survegnir infurmaziuns**
 
-Il dretg da dar infurmaziuns sa drizza tenor las disposiziuns davart la protecziun da datas da la Confederaziun u dals chantuns.[^102e-1] Il possessur da la collecziun da datas dat er infurmaziuns davart las indicaziuns disponiblas da la derivanza da las datas.
+Il dretg da survegnir infurmaziuns sa drizza tenor las disposiziuns davart la protecziun da datas da la Confederaziun u dals chantuns.[^102e-1] …[^102e-2]
 
 [^102e-1]: Versiun tenor la cifra 2 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^102e-2]: Abolì la segunda frasa tras la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, cun effect dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. secziun Videosurveglianza
 

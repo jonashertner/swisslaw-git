@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2022-11-22
+version: 2023-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 22. November 2022)
+vom 26. Juni 1998 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1929,14 +1929,15 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 **Bearbeiten von Personendaten**[^96-1]
 
-<sup>1</sup> Das SEM, die Beschwerdebehörden sowie die mit Aufgaben nach diesem Gesetz beauftragten privaten Organisationen können Personendaten, insbesondere auch besonders schützenswerte Daten oder Persönlichkeitsprofile nach Artikel 3 Buchstaben c und d des Bundesgesetzes vom 19. Juni 1992[^96-2] über den Datenschutz (DSG) einer asylsuchenden oder schutzbedürftigen Person und ihrer Angehörigen bearbeiten oder bearbeiten lassen, soweit sie diese zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+<sup>1</sup> Das SEM, die Beschwerdebehörden sowie die mit Aufgaben nach diesem Gesetz beauftragten privaten Organisationen können Personendaten von asylsuchenden oder schutzbedürftigen Personen und ihren Angehörigen, einschliesslich besonders schützenswerter Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^96-2] (DSG), bearbeiten oder bearbeiten lassen, soweit sie diese zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.[^96-3]
 
-<sup>2</sup> Die zur Bekämpfung der Schwarzarbeit erforderlichen Daten dürfen von den Behörden nach Absatz 1 gemäss den Artikeln 11 und 12 des Bundesgesetzes vom 17. Juni 2005[^96-3] gegen die Schwarzarbeit bekannt gegeben werden.[^96-4]
+<sup>2</sup> Die zur Bekämpfung der Schwarzarbeit erforderlichen Daten dürfen von den Behörden nach Absatz 1 gemäss den Artikeln 11 und 12 des Bundesgesetzes vom 17. Juni 2005[^96-4] gegen die Schwarzarbeit bekannt gegeben werden.[^96-5]
 
 [^96-1]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^96-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^96-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^96-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^96-3]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-4]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^96-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 97
 
@@ -1967,7 +1968,7 @@ Für den Vollzug einer Wegweisung in den Heimat- oder Herkunftsstaat kann die f�
 
 **Bekanntgabe von Personendaten an Drittstaaten und internationale Organisationen**
 
-<sup>1</sup> Das SEM und die Beschwerdebehörden dürfen zum Vollzug dieses Gesetzes den mit entsprechenden Aufgaben betrauten ausländischen Behörden und internationalen Organisationen Personendaten bekannt geben, wenn der betreffende Staat oder die internationale Organisation für einen gleichwertigen Schutz der übermittelten Daten Gewähr bietet.
+<sup>1</sup> Das SEM und die Beschwerdebehörden dürfen zum Vollzug dieses Gesetzes den mit entsprechenden Aufgaben betrauten ausländischen Behörden und internationalen Organisationen Personendaten bekannt geben, sofern die Voraussetzungen nach Artikel 16 DSG[^98-1] erfüllt sind.[^98-2]
 
 <sup>2</sup>
 
@@ -1981,9 +1982,11 @@ Folgende Personendaten dürfen bekannt gegeben werden:
 - f. die für die Sicherstellung der Einreise in den Zielstaat sowie für die Sicherheit der Begleitpersonen erforderlichen Daten;
 - g. Angaben über Aufenthaltsorte und Reisewege;
 - h. Angaben über Anwesenheitsbewilligungen und erteilte Visa;
-- i. Angaben über ein Asylgesuch (Ort und Datum der Einreichung, Stand des Verfahrens, summarische Angaben über den Inhalt eines getroffenen Entscheides).[^98-1]
+- i. Angaben über ein Asylgesuch (Ort und Datum der Einreichung, Stand des Verfahrens, summarische Angaben über den Inhalt eines getroffenen Entscheides).[^98-3]
 
-[^98-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^98-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^98-2]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^98-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 98a
 
@@ -2028,7 +2031,7 @@ Das SEM verwendet diese Angaben, um:
 - d. zu prüfen, ob Daten vorliegen, welche die Asylwürdigkeit der betroffenen Person in Frage stellen;
 - e. die Amtshilfe an polizeiliche Behörden zu erleichtern.
 
-<sup>6</sup> Die nach Absatz 4 übermittelten Personendaten dürfen nicht ohne die Zustimmung des Inhabers der Datensammlung ins Ausland bekannt gegeben werden. Artikel 6 Absatz 1 DSG[^99-5] gilt sinngemäss.
+<sup>6</sup> Personendaten, die nach Absatz 4 bekannt gegeben wurden, dürfen nur mit der Zustimmung des für die Datenbearbeitung Verantwortlichen ins Ausland bekannt gegeben werden. Artikel 16 Absatz 1 DSG[^99-5] gilt sinngemäss.[^99-6]
 
 <sup>7</sup>
 
@@ -2036,14 +2039,15 @@ Die Daten werden gelöscht:
 
 - a. wenn Asyl gewährt wird;
 - b. spätestens zehn Jahre nach rechtskräftiger Ablehnung, Rückzug oder Abschreibung des Asylgesuchs oder nach einem Nichteintretensentscheid;
-- c.[^99-6] bei Schutzbedürftigen spätestens zehn Jahre nach Aufhebung des vorübergehenden Schutzes.
+- c.[^99-7] bei Schutzbedürftigen spätestens zehn Jahre nach Aufhebung des vorübergehenden Schutzes.
 
 [^99-1]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^99-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-4]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^99-6]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^99-6]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-7]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 ### 1*a*. Abschnitt: Informationssystem der Zentren des Bundes und der Unterkünfte an den Flughäfen
 
@@ -2062,7 +2066,7 @@ Die Daten werden gelöscht:
 
 MIDES dient:
 
-- a. der Bearbeitung von Personendaten von Asylsuchenden und Schutzbedürftigen, einschliesslich der besonders schützenswerten Personendaten und der Persönlichkeitsprofile nach Artikel 3 Buchstaben c und d DSG[^99a-1]; und
+- a.[^99a-1] der Bearbeitung von Personendaten von Asylsuchenden und Schutzbedürftigen, einschliesslich besonders schützenswerter Personendaten nach Artikel 5 Buchstabe c DSG[^99a-2]; und
 - b. der Geschäftskontrolle, der Durchführung des Asylverfahrens sowie der Planung und Organisation der Unterbringung.
 
 <sup>3</sup>
@@ -2070,20 +2074,21 @@ MIDES dient:
 MIDES enthält folgende Personendaten:
 
 - a. Daten zur Identität der registrierten Personen, nämlich Name, Vorname, Geschlecht, Geburtsdatum und -ort, Nationalität, Ethnie, Religion, Zivilstand, Adresse und Namen der Eltern;
-- b.[^99a-2] Protokolle der in den Zentren des Bundes und an den Flughäfen durchgeführten summarischen Befragungen nach den Artikeln 22 Absatz 1 und 26 Absatz 3;
+- b.[^99a-3] Protokolle der in den Zentren des Bundes und an den Flughäfen durchgeführten summarischen Befragungen nach den Artikeln 22 Absatz 1 und 26 Absatz 3;
 - c. biometrische Daten;
 - d. Angaben über die Unterbringung;
 - e. den Stand des Verfahrens;
-- f.[^99a-3] den Vermerk «Medizinalfall», um die Asylsuchenden auf die Kantone zu verteilen.
+- f.[^99a-4] den Vermerk «Medizinalfall», um die Asylsuchenden auf die Kantone zu verteilen.
 
-<sup>4</sup> Die Personendaten nach Absatz 3 Buchstaben a, c, e und f werden ins ZEMIS übernommen.[^99a-4]
+<sup>4</sup> Die Personendaten nach Absatz 3 Buchstaben a, c, e und f werden ins ZEMIS übernommen.[^99a-5]
 
 <sup>5</sup> Die Asylsuchenden und die Schutzbedürftigen sind insbesondere über den Zweck der Datenbearbeitung und die Kategorien der Datenempfänger zu informieren.
 
-[^99a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^99a-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^99a-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^99a-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^99a-1]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^99a-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^99a-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^99a-5]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 #### Art. 99b
 
@@ -2135,13 +2140,14 @@ Der Bundesrat regelt:
 
 <sup>1</sup> Die Beschwerdebehörden führen ein Informationssystem zur Registrierung der bei ihnen eingereichten Beschwerden, zur Führung einer Geschäftskontrolle und zum Erstellen von Statistiken.
 
-<sup>2</sup> Diese Informationssysteme können besonders schützenswerte Personendaten und Persönlichkeitsprofile enthalten, soweit dies zur Erfüllung der gesetzlichen Aufgabe notwendig ist.
+<sup>2</sup> Das Informationssystem kann besonders schützenswerte Personendaten enthalten, soweit dies zur Erfüllung der gesetzlichen Aufgabe notwendig ist.[^100-3]
 
-<sup>2bis</sup> Unrichtige Daten sind von Amtes wegen zu berichtigen. Sind die unrichtigen Daten auf eine Verletzung der Mitwirkungspflicht einer Person zurückzuführen, so können dieser die Kosten für die Berichtigung in Rechnung gestellt werden.[^100-3]
+<sup>2bis</sup> Unrichtige Daten sind von Amtes wegen zu berichtigen. Sind die unrichtigen Daten auf eine Verletzung der Mitwirkungspflicht einer Person zurückzuführen, so können dieser die Kosten für die Berichtigung in Rechnung gestellt werden.[^100-4]
 
 [^100-1]: Fassung gemäss Art. 18 Ziff. 2 des BG vom 20. Juni 2003 über das Informationssystem für den Ausländer- und den Asylbereich, in Kraft seit 29. Mai 2006 ([AS 2006 1931](https://fedlex.data.admin.ch/eli/oc/2006/301); [BBl 2002 4693](https://fedlex.data.admin.ch/eli/fga/2002/773)).
 [^100-2]: Fassung gemäss Anhang des BG vom 18. Juni 2010 (Automatisierte Grenzkontrolle, Dokumentenberaterinnen und Dokumentenberater, Informationssystem MIDES), in Kraft seit 1. Jan. 2011 ([AS 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^100-3]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^100-3]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 101
 
@@ -2153,16 +2159,17 @@ Der Bundesrat regelt:
 
 **Informations- und Dokumentationssystem**
 
-<sup>1</sup> Das SEM betreibt in Zusammenarbeit mit dem Bundesverwaltungsgericht ein automatisiertes Informations- und Dokumentationssystem. Darin werden in verschiedenen Datenbanken sachbezogene Informationen und Dokumentationen aus dem Aufgabenbereich des SEM und des Bundesverwaltungsgerichts gespeichert. Sofern es erforderlich ist, können auch in den Texten enthaltene Personendaten, namentlich Personalien, sowie besonders schützenswerte Personendaten und Persönlichkeitsprofile gespeichert werden.[^102-1]
+<sup>1</sup> Das SEM betreibt in Zusammenarbeit mit dem Bundesverwaltungsgericht ein automatisiertes Informations- und Dokumentationssystem. Darin werden in verschiedenen Datenbanken sachbezogene Informationen und Dokumentationen aus dem Aufgabenbereich des SEM und des Bundesverwaltungsgerichts gespeichert. Sofern es erforderlich ist, können auch in den Texten enthaltene Personendaten, namentlich Personalien, sowie besonders schützenswerte Personendaten gespeichert werden.[^102-1] [^102-2]
 
-<sup>2</sup> Auf Datenbanken, die besonders schützenswerte Personendaten und Persönlichkeitsprofile enthalten, haben nur Mitarbeiterinnen und Mitarbeiter des SEM und des Bundesverwaltungsgerichts Zugriff.[^102-2]
+<sup>2</sup> Auf Datenbanken, die besonders schützenswerte Personendaten enthalten, haben nur Mitarbeiterinnen und Mitarbeiter des SEM und des Bundesverwaltungsgerichts Zugriff.[^102-3]
 
 <sup>3</sup> Datenbanken, die vorwiegend sachbezogene, aus öffentlichen Quellen entnommene Informationen enthalten, können auf Gesuch hin mittels Abrufverfahren externen Benutzerinnen und Benutzern zugänglich gemacht werden.
 
 <sup>4</sup> Der Bundesrat regelt die Einzelheiten, namentlich den Zugriff auf das System und den Schutz der darin erfassten Personendaten.
 
-[^102-1]: Fassung gemäss Anhang Ziff. 4 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^102-1]: Fassung des dritten Satzes gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^102-2]: Fassung gemäss Anhang Ziff. 4 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^102-3]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102a
 
@@ -2242,15 +2249,15 @@ Die Bekanntgabe von Personendaten an die zuständigen Behörden von Staaten, die
 
 **Bekanntgabe von Personendaten an einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist**
 
-<sup>1</sup> An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, sofern diese ein angemessenes Datenschutzniveau gewährleisten.
+<sup>1</sup> An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, wenn sie ein angemessenes Datenschutzniveau nach Artikel 16 Absatz 1 DSG[^102c-1] gewährleisten.[^102c-2]
 
 <sup>2</sup>
 
-Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten im Einzelfall bekannt gegeben werden, wenn:
+Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten in folgenden Fällen bekannt gegeben werden:
 
-- a. die betroffene Person ohne jeden Zweifel eingewilligt hat; handelt es sich um besonders schützenswerte Personendaten oder Persönlichkeitsprofile, so muss die Einwilligung ausdrücklich sein;
-- b. die Bekanntgabe erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen; oder
-- c. die Bekanntgabe zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht erforderlich ist.
+- a. Die betroffene Person hat nach Artikel 6 Absatz 6 und gegebenenfalls Absatz 7 DSG eingewilligt.
+- b. Die Bekanntgabe ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist deren Einwilligung einzuholen.
+- c. Die Bekanntgabe ist notwendig zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht oder einer anderen zuständigen ausländischen Behörde.[^102c-3]
 
 <sup>3</sup> Neben den in Absatz 2 genannten Fällen können Personendaten auch bekannt gegeben werden, wenn im Einzelfall hinreichende Garantien einen angemessenen Schutz der betroffenen Person gewährleisten.
 
@@ -2262,9 +2269,12 @@ Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen �
 
 - a. einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist;
 - b. internationale Organisationen;
-- c. private Stellen.[^102c-1]
+- c. private Stellen.[^102c-4]
 
-[^102c-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^102c-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102c-2]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-3]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-4]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 102d
 
@@ -2282,9 +2292,10 @@ Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen �
 
 **Auskunftsrecht**
 
-Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone.[^102e-1] Die Inhaberin oder der Inhaber der Datensammlung erteilt auch Auskunft über die verfügbaren Angaben zur Herkunft der Daten.
+Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone.[^102e-1] …[^102e-2]
 
 [^102e-1]: Fassung gemäss Ziff. 2 des BG vom 19. März über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, in Kraft seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^102e-2]: Zweiter Satz aufgehoben durch Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Abschnitt: Videoüberwachung
 

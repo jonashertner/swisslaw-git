@@ -4,11 +4,11 @@ title: Asylum Act of 26 June 1998 (AsylA)
 short: AsylA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: en
-version: 2022-11-22
+version: 2023-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AsylA)
 
-of 26 June 1998 (Status as of 22 November 2022)
+of 26 June 1998 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1932,14 +1932,15 @@ A simplified planning approval procedure is applied in the case of:
 
 **Processing of personal data**[^96-1]
 
-<sup>1</sup> Provided they require the data for the fulfilment of their legal duties, SEM, the appeal authorities and private organisations entrusted with duties under this Act may process or have processed the personal data of persons seeking asylum or in need of protection and their dependants, and in particular sensitive data or personality profiles as defined in Article 3 letters c and d of the Federal Act of 19 June 1992[^96-2] on Data Protection (FADP).
+<sup>1</sup> Provided they require the data for the fulfilment of their legal duties, SEM, the appeal authorities and private organisations entrusted with duties under this Act may process or have processed the personal data of persons seeking asylum or in need of protection and their dependants, including sensitive data as defined in Article 5 letter c of the Data Protection Act of 25 September2020[^96-2] (FADP).[^96-3]
 
-<sup>2</sup> Data required to combat illegal employment may be disclosed by the authorities under paragraph 1 in accordance with Articles 11 and 12 of the Federal Act of 17 June 2005[^96-3] on Measures to Combat Illegal Employment.[^96-4]
+<sup>2</sup> Data required to combat illegal employment may be disclosed by the authorities under paragraph 1 in accordance with Articles 11 and 12 of the Federal Act of 17 June 2005[^96-4] on Measures to Combat Illegal Employment.[^96-5]
 
 [^96-1]: Amended by Art. 3 No 2 of the FD of 17 Dec. 2004 on the Approval and the Implementation of the Bilateral Agreements between Switzerland and the EU on Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^96-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^96-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^96-4]: Inserted by Annex No 2 of the FA of 17 June 2005 on Measures to Combat Illegal Employment, in force since 1 Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^96-3]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-4]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^96-5]: Inserted by Annex No 2 of the FA of 17 June 2005 on Measures to Combat Illegal Employment, in force since 1 Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 97
 
@@ -1970,7 +1971,7 @@ For the enforcement of removal to the native country or the country of origin, t
 
 **Disclosure of personal data to third countries and international organisations**
 
-<sup>1</sup> In order to the implement this Act, SEM and the appeal authorities may disclose personal data to foreign authorities and international organisations entrusted with corresponding tasks if the state or the international organisation concerned guarantees an equivalent level of protection of the data transmitted.
+<sup>1</sup> In order to the implement this Act, SEM and the appeal authorities may disclose personal data to foreign authorities and international organisations entrusted with corresponding tasks provided the requirements of Article 16 FADP[^98-1] are met.[^98-2]
 
 <sup>2</sup>
 
@@ -1984,9 +1985,11 @@ The following personal data may be disclosed:
 - f. the data required to guarantee the returnee’s entry to the destination country and to ensure the security of the accompanying persons;
 - g. information on the place of stay and travel routes;
 - h. information on permission to stay and visas granted;
-- i. information on an application for asylum (place and date the filing, status of the procedure, summary details of the content of a decision made).[^98-1]
+- i. information on an application for asylum (place and date the filing, status of the procedure, summary details of the content of a decision made).[^98-3]
 
-[^98-1]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^98-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^98-2]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^98-3]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 98a
 
@@ -2031,7 +2034,7 @@ SEM shall use this information to:
 - d. check whether there is data that call into question the eligibility of the person concerned to be granted asylum;
 - e. facilitate administrative assistance between SEM and the police authorities.
 
-<sup>6</sup> The personal data transmitted in accordance with paragraph 4 may not be disclosed abroad without the consent of the owner of the data collection. Article 6 paragraph 1 of the FADP[^99-5] applies mutatis mutandis.
+<sup>6</sup> Personal data disclosed in accordance with paragraph 4 may only be disclosed abroad with the consent of the controller responsible for the data processing. Article 16 paragraph 1 of the FADP[^99-5] applies *mutatis mutandis*.[^99-6]
 
 <sup>7</sup>
 
@@ -2039,14 +2042,15 @@ The data shall be erased:
 
 - a. if asylum is granted;
 - b. at the latest ten years after the legally binding rejection, withdrawal or abandonment of the application for asylum or after a decision to dismiss the application;
-- c.[^99-6] in the case of persons in need of protection, at the latest ten years after the lifting of the temporary protection.
+- c.[^99-7] in the case of persons in need of protection, at the latest ten years after the lifting of the temporary protection.
 
 [^99-1]: Amended by Art. 3 No 2 of the FD of 17 Dec. 2004 on the Approval and the Implementation of the Bilateral Agreements between Switzerland and the EU on Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^99-2]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-3]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-4]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^99-6]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^99-6]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-7]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 ### Section 1*a* Information System for Federal Centres and Airport Accommodation
 
@@ -2065,7 +2069,7 @@ The data shall be erased:
 
 MIDES serves as an aid in:
 
-- a. the processing of personal data relating to asylum seekers and persons in need of protection, including sensitive personal data and personality profiles in accordance with Article 3 letters c and d of the FADP[^99a-1]; and
+- [tab] a.[^99a-1] the processing of personal data relating to asylum seekers and persons in need of protection, including sensitive personal data in accordance with Article 5 letter c of the FADP[^99a-2]; and
 - b. audits, the conduct of asylum procedures and the planning and organisation of accommodation.
 
 <sup>3</sup>
@@ -2073,20 +2077,21 @@ MIDES serves as an aid in:
 MIDES contains the following personal data:
 
 - a. data on the identity of the registered persons, and in particular their surname, name, sex, date and place of birth, nationality, ethnic origin, religion, marital status, address and parents' names;
-- b.[^99a-2] minutes of the summary questioning conducted at federal centres and at the airports in accordance with Articles 22 paragraph 1 and 26 paragraph 3;
+- b.[^99a-3] minutes of the summary questioning conducted at federal centres and at the airports in accordance with Articles 22 paragraph 1 and 26 paragraph 3;
 - c. biometric data;
 - d. details of the accommodation;
 - e. the status of the proceedings;
-- f.[^99a-3] the note «medical case», for the purpose of distributing asylum seekers among the cantons.
+- f.[^99a-4] the note «medical case», for the purpose of distributing asylum seekers among the cantons.
 
-<sup>4</sup> The personal data in accordance with paragraph 3 letters a, c, e and f shall be entered in ZEMIS.[^99a-4]
+<sup>4</sup> The personal data in accordance with paragraph 3 letters a, c, e and f shall be entered in ZEMIS.[^99a-5]
 
 <sup>5</sup> The asylum seekers and persons in need of protection must in particular be informed of the reasons for processing the data and the categories of data recipient.
 
-[^99a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^99a-2]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^99a-3]: Inserted by Annex No 1 of the FA of 14 Dec. 2018 (Procedural Arrangements and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^99a-4]: Amended by Annex No 1 of the FA of 14 Dec. 2018 (Procedural Arrangements and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^99a-1]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^99a-3]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^99a-4]: Inserted by Annex No 1 of the FA of 14 Dec. 2018 (Procedural Arrangements and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^99a-5]: Amended by Annex No 1 of the FA of 14 Dec. 2018 (Procedural Arrangements and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 #### Art. 99b
 
@@ -2138,13 +2143,14 @@ The Federal Council shall regulate:
 
 <sup>1</sup> The appeal authorities shall maintain an information system to record appeals that have been filed, for the conduct of audits and to compile statistics.
 
-<sup>2</sup> These information systems may contain personal data and personality profiles especially worthy of protection if this is necessary for the fulfilment of the statutory task.
+<sup>2</sup> The information system may contain personal data especially worthy of protection if this is necessary for the fulfilment of the statutory task.[^100-3]
 
-<sup>2bis</sup> Incorrect data must by corrected by the authorities. If the incorrect data is attributed to a person’s violation of the duty to cooperate, this person may be billed for the costs for the correction.[^100-3]
+<sup>2bis</sup> Incorrect data must by corrected by the authorities. If the incorrect data is attributed to a person’s violation of the duty to cooperate, this person may be billed for the costs for the correction.[^100-4]
 
 [^100-1]: Amended by Art. 18 No 2 of the FA of 20 June 2003 on the Information System on Asylum and Foreign Nationals, in force since 29 May 2006 ([AS 2006 1931](https://fedlex.data.admin.ch/eli/oc/2006/301); [BBl 2002 4693](https://fedlex.data.admin.ch/eli/fga/2002/773)).
 [^100-2]: Amended by the Annex to the FA of 18 June 2010 (Automated Border Controls, Documentation Advisers, MIDES Information System), in force since 1 Jan. 2011 ([AS 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^100-3]: Inserted by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^100-3]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-4]: Inserted by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 101
 
@@ -2156,16 +2162,17 @@ The Federal Council shall regulate:
 
 **Information and documentation system**
 
-<sup>1</sup> SEM shall manage an automated information and documentation system in cooperation with the Federal Administrative Court. The system shall contain factual information and documentation from the sphere of responsibilities of SEM and the Federal Administrative Court stored in various databases. If required, personal data contained in the texts may also be stored, in particular personal details, as well as particularly sensitive personal data and personality profiles.[^102-1]
+<sup>1</sup> SEM shall manage an automated information and documentation system in cooperation with the Federal Administrative Court. The system shall contain factual information and documentation from the sphere of responsibilities of SEM and the Federal Administrative Court stored in various databases. If required, personal data contained in the texts may also be stored, in particular personal details, as well as sensitive personal data.[^102-1] [^102-2]
 
-<sup>2</sup> Only employees of SEM and the Federal Administrative Court shall have access to databases containing particularly sensitive personal data and personality profiles.[^102-2]
+<sup>2</sup> Only employees of SEM and the Federal Administrative Court shall have access to databases containing sensitive personal data.[^102-3]
 
 <sup>3</sup> Databases containing predominantly factual information drawn from public sources may be made accessible to external users on request by means of a retrieval procedure.
 
 <sup>4</sup> The Federal Council shall regulate the details, and in particular access to the system and the protection of the personal data collected therein.
 
-[^102-1]: Amended by No 4 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^102-1]: Third sentence amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^102-2]: Amended by No 4 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^102-3]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102a
 
@@ -2245,15 +2252,15 @@ The disclosure of personal data to the competent authorities of states that are 
 
 **Disclosure of personal data to a state not bound by any of the Dublin Association Agreements**
 
-<sup>1</sup> Personal data may be disclosed to third countries only if they guarantee an adequate standard of data protection.
+<sup>1</sup> Personal data may be disclosed to third countries only if they guarantee an adequate level of data protection in accordance with Article 16 paragraph 1 FADP[^102c-1].[^102c-2]
 
 <sup>2</sup>
 
-If a third country fails to guarantee an adequate standard of data protection, personal data may disclosed to this country in individual cases if:
+If a third country fails to guarantee an adequate level of data protection, personal data may be disclosed to that country in the following cases:
 
-- a. the person concerned gives their unequivocal consent; if the personal data or personality profiles are particularly sensitive, consent must be given expressly;
-- b. the disclosure is required to protect the life or physical integrity of the person concerned; or
-- c. the disclosure is required to safeguard overriding public interests or to establish, exercise or enforce legal rights in court.
+- a. the person concerned has given their consent in accordance with Article 6 paragraph 6 and if applicable paragraph 7 FADP;
+- b. the disclosure is required to protect the life or physical integrity of the person concerned and it is not possible to obtain the person’s consent within a reasonable time; or
+- c. the disclosure is required to safeguard overriding public interests or to establish, exercise or enforce legal rights in a court or before another competent foreign authority.[^102c-3]
 
 <sup>3</sup> In addition to the cases mentioned in paragraph 2, personal data may also be disclosed if in specific cases adequate guarantees ensure appropriate protection of the person concerned.
 
@@ -2265,9 +2272,12 @@ The data obtained from the Eurodac database may not be transmitted under any cir
 
 - a. a state that is not bound by any of the Dublin association agreements;
 - b. international organisations;
-- c. private entities.[^102c-1]
+- c. private entities.[^102c-4]
 
-[^102c-1]: Inserted by Annex No 2 of the FD of 26 Sept. 2014 (Adoption of R [EU] No 603/2013 on the Establishment of Eurodac and the amendment to R [EU] No 1077/2011 on the Establishment of the IT Agency), in force since 20 July 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^102c-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102c-2]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-3]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-4]: Inserted by Annex No 2 of the FD of 26 Sept. 2014 (Adoption of R [EU] No 603/2013 on the Establishment of Eurodac and the amendment to R [EU] No 1077/2011 on the Establishment of the IT Agency), in force since 20 July 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 102d
 
@@ -2285,9 +2295,10 @@ The data obtained from the Eurodac database may not be transmitted under any cir
 
 **Right to information**
 
-The right to information is governed by the federal and cantonal data protection provisions.[^102e-1] The proprietor of the data collection shall also furnish information on the details available on the origin of the data.
+The right to information is governed by the federal and cantonal data protection provisions.[^102e-1] …[^102e-2]
 
 [^102e-1]: Amended by No 2 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, in force since 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^102e-2]: Second sentence repealed by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 3 Video Surveillance
 

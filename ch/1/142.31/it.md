@@ -4,11 +4,11 @@ title: "Legge del 26 giugno 1998 sull'asilo (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: it
-version: 2022-11-22
+version: 2023-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/it"
 
 (LAsi)
 
-del 26 giugno 1998 (Stato 22 novembre 2022)
+del 26 giugno 1998 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -929,7 +929,7 @@ La decisione d’allontanamento indica:
 
 <sup>3</sup> Gli articoli 68*b*–68*e* LStrI si applicano per analogia.
 
-[^45a-1]: Introdotto dall’all. 1 n. 2 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [202](https://fedlex.data.admin.ch/eli/oc/2021/202)**3** 16; [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^45a-1]: Introdotto dall’all. 1 n. 2 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^45a-2]: Direttiva 2008/115/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2008, recante norme e procedure comuni applicabili negli Stati membri al rimpatrio di cittadini di paesi terzi il cui soggiorno è irregolare, versione della GU L 348 del 24.12.2008, pag. 98.
 [^45a-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
@@ -1931,14 +1931,15 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 **Trattamento di dati personali**[^96-1]
 
-<sup>1</sup> Nella misura in cui lo esige il compimento del mandato legale, la SEM, le autorità di ricorso e le organizzazioni private incaricate di compiti in virtù della presente legge possono trattare o fare trattare dati personali relativi a un richiedente l’asilo o una persona da proteggere e ai loro congiunti, compresi dati degni di particolare protezione o profili della personalità conformemente all’articolo 3 lettere c e d della legge federale del 19 giugno 1992[^96-2] sulla protezione dei dati (LPD).
+<sup>1</sup> Nella misura in cui lo esige il compimento del mandato legale, la SEM, le autorità di ricorso e le organizzazioni private incaricate di compiti in virtù della presente legge possono trattare o fare trattare dati personali relativi a un richiedente l’asilo o una persona bisognosa di protezione e ai loro congiunti, compresi dati personali degni di particolare protezione conformemente all’articolo 5 lettera c della legge federale del 25 settembre 2020[^96-2] sulla protezione dei dati (LPD).[^96-3]
 
-<sup>2</sup> Le autorità di cui al capoverso 1 possono comunicare i dati necessari per la lotta contro il lavoro nero conformemente agli articoli 11 e 12 della legge del 17 giugno 2005[^96-3] contro il lavoro nero.[^96-4]
+<sup>2</sup> Le autorità di cui al capoverso 1 possono comunicare i dati necessari per la lotta contro il lavoro nero conformemente agli articoli 11 e 12 della legge del 17 giugno 2005[^96-4] contro il lavoro nero.[^96-5]
 
 [^96-1]: Nuovo testo giusta l’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^96-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^96-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^96-4]: Introdotto dall’all. n. 2 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^96-3]: Nuovo testo giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-4]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^96-5]: Introdotto dall’all. n. 2 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 97
 
@@ -1969,7 +1970,7 @@ In vista dell’esecuzione di un allontanamento verso lo Stato d’origine o di 
 
 **Comunicazione di dati personali a Stati terzi e a organizzazioni internazionali**
 
-<sup>1</sup> In vista dell’esecuzione della presente legge, la SEM e le autorità di ricorso sono autorizzate a comunicare dati personali alle autorità estere e alle organizzazioni internazionali incaricate di compiti in tale ambito, sempre che lo Stato o l’organizzazione internazionale in questione garantisca una protezione equivalente dei dati trasmessi.
+<sup>1</sup> In vista dell’esecuzione della presente legge, la SEM e le autorità di ricorso sono autorizzate a comunicare dati personali alle autorità estere e alle organizzazioni internazionali incaricate di compiti in tale ambito se sono soddisfatte le condizioni di cui all’articolo 16 LPD[^98-1].[^98-2]
 
 <sup>2</sup>
 
@@ -1983,9 +1984,11 @@ Possono essere comunicati i dati seguenti:
 - f. i dati necessari per garantire l’entrata nel Paese di destinazione e per la sicurezza del personale di scorta;
 - g. indicazioni sui luoghi di soggiorno e gli itinerari;
 - h. indicazioni sulle autorizzazioni di residenza e sui visti accordati;
-- i. indicazioni su una domanda d’asilo (luogo e data del deposito, stadio della procedura, dati sommari sul tenore di una decisione presa).[^98-1]
+- i. indicazioni su una domanda d’asilo (luogo e data del deposito, stadio della procedura, dati sommari sul tenore di una decisione presa).[^98-3]
 
-[^98-1]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^98-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^98-2]: Nuovo testo giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^98-3]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 98a
 
@@ -2030,7 +2033,7 @@ La SEM utilizza queste indicazioni per:
 - d. verificare se esistono dati che indicano che la persona interessata non è degna di ottenere asilo;
 - e. facilitare l’assistenza amministrativa alle autorità di polizia.
 
-<sup>6</sup> I dati personali comunicati secondo il capoverso 4 non possono essere resi noti all’estero senza il consenso del titolare della collezione di dati. È applicabile per analogia l’articolo 6 capoverso 1 della legge federale del 19 giugno 1992[^99-5] sulla protezione dei dati.
+<sup>6</sup> I dati personali trasmessi in virtù del capoverso 4 possono essere comunicati all’estero soltanto con il consenso del titolare del trattamento. È applicabile per analogia l’articolo 16 capoverso 1 LPD[^99-5].[^99-6]
 
 <sup>7</sup>
 
@@ -2038,14 +2041,15 @@ I dati sono distrutti:
 
 - a. se l’asilo è accordato;
 - b. dieci anni al più tardi dopo il rifiuto, il ritiro o lo stralcio passati in giudicato di una domanda d’asilo o dopo una decisione di non entrata nel merito;
-- c.[^99-6] per le persone bisognose di protezione, al più tardi dieci anni dopo la soppressione della protezione provvisoria.
+- c.[^99-7] per le persone bisognose di protezione, al più tardi dieci anni dopo la soppressione della protezione provvisoria.
 
 [^99-1]: Nuovo testo giusta l’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^99-2]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-3]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-4]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^99-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^99-6]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^99-6]: Nuovo testo giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-7]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 ### Sezione 1*a*: Sistema d’informazione per i centri della Confederazione e gli alloggi negli aeroporti
 
@@ -2064,7 +2068,7 @@ I dati sono distrutti:
 
 MIDES serve:
 
-- a. al trattamento dei dati personali relativi ai richiedenti l’asilo e alle persone bisognose di protezione, compresi i dati personali degni di particolare protezione e i profili della personalità secondo l’articolo 3 lettere c e d della legge federale del 19 giugno 1992[^99a-1] sulla protezione dei dati; e
+- a.[^99a-1] al trattamento dei dati personali relativi ai richiedenti l’asilo e alle persone bisognose di protezione, compresi i dati personali degni di particolare protezione secondo l’articolo 5 lettera c LPD[^99a-2]; e
 - b. al controllo delle pratiche, allo svolgimento della procedura d’asilo nonché alla pianificazione e all’organizzazione dell’alloggio.
 
 <sup>3</sup>
@@ -2072,20 +2076,21 @@ MIDES serve:
 MIDES contiene i dati personali seguenti:
 
 - a. dati relativi all’identità della persona registrata, ossia cognome, nome, sesso, data e luogo di nascita, cittadinanza, etnia, religione, stato civile, indirizzo, nomi dei genitori;
-- b.[^99a-2] verbali degli interrogatori sommari effettuati nei centri della Confederazione e negli aeroporti secondo gli articoli 22 capoverso 1 e 26 capoverso 3;
+- b.[^99a-3] verbali degli interrogatori sommari effettuati nei centri della Confederazione e negli aeroporti secondo gli articoli 22 capoverso 1 e 26 capoverso 3;
 - c. dati biometrici;
 - d. indicazioni relative all’alloggio;
 - e. stadio della procedura;
-- f.[^99a-3] l’annotazione «caso medico», in vista della ripartizione dei richiedenti l’asilo tra i Cantoni.
+- f.[^99a-4] l’annotazione «caso medico», in vista della ripartizione dei richiedenti l’asilo tra i Cantoni.
 
-<sup>4</sup> I dati personali di cui al capoverso 3 lettere a, c, e e f sono ripresi nel SIMIC.[^99a-4]
+<sup>4</sup> I dati personali di cui al capoverso 3 lettere a, c, e e f sono ripresi nel SIMIC.[^99a-5]
 
 <sup>5</sup> I richiedenti l’asilo e le persone bisognose di protezione devono essere segnatamente informati in merito alle finalità del trattamento dei dati e alle categorie di destinatari dei dati.
 
-[^99a-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^99a-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^99a-3]: Introdotta dall’all. n. 1 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^99a-4]: Nuovo testo giusta l’all. n. 1 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^99a-1]: Nuovo testo giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^99a-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^99a-4]: Introdotta dall’all. n. 1 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^99a-5]: Nuovo testo giusta l’all. n. 1 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 #### Art. 99b
 
@@ -2137,13 +2142,14 @@ Il Consiglio federale disciplina:
 
 <sup>1</sup> Le autorità di ricorso gestiscono un sistema d’informazione per la registrazione dei ricorsi, il controllo delle pratiche e l’allestimento di statistiche.
 
-<sup>2</sup> Tali sistemi possono contenere dati degni di particolare protezione e profili della personalità nella misura necessaria all’adempimento del compito legale.
+<sup>2</sup> Tale sistema può contenere dati personali degni di particolare protezione nella misura necessaria all’adempimento del compito legale.[^100-3]
 
-<sup>2bis</sup> I dati inesatti sono rettificati d’ufficio. I costi della rettifica possono essere fatturati alla persona che, violando l’obbligo di collaborare, ha provocato la registrazione inesatta dei dati.[^100-3]
+<sup>2bis</sup> I dati inesatti sono rettificati d’ufficio. I costi della rettifica possono essere fatturati alla persona che, violando l’obbligo di collaborare, ha provocato la registrazione inesatta dei dati.[^100-4]
 
 [^100-1]: Nuovo testo giusta l’art. 18 n. 2 della LF del 20 giu. 2003 sul sistema d’informazione per il settore degli stranieri e dell’asilo, in vigore dal 29 mag. 2006 ([RU 2006 1931](https://fedlex.data.admin.ch/eli/oc/2006/301); [FF 2002 4181](https://fedlex.data.admin.ch/eli/fga/2002/773)).
 [^100-2]: Nuovo testo giusta l’all. della LF del 18 giu. 2010 (Controllo di confine automatizzato, consulenti in materia di documenti, sistema d’informazione MIDES), in vigore dal 1° gen. 2011 ([RU 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [FF 2009 7737](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^100-3]: Introdotto dal n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^100-3]: Nuovo testo giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-4]: Introdotto dal n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 101
 
@@ -2155,16 +2161,17 @@ Il Consiglio federale disciplina:
 
 **Sistema di informazione e di documentazione**
 
-<sup>1</sup> La SEM gestisce, in collaborazione con il Tribunale amministrativo federale, un sistema di informazione e di documentazione automatizzato. Tale sistema contiene informazioni e documenti tecnici memorizzati in diverse banche dati e concernenti i compiti della SEM e del Tribunale amministrativo federale. Se necessario, è possibile memorizzare anche dati personali che figurano nei testi, segnatamente le generalità, nonché dati degni di particolare protezione e profili della personalità.[^102-1]
+<sup>1</sup> La SEM gestisce, in collaborazione con il Tribunale amministrativo federale, un sistema di informazione e di documentazione automatizzato. Tale sistema contiene informazioni e documenti tecnici memorizzati in diverse banche dati e concernenti i compiti della SEM e del Tribunale amministrativo federale. Se necessario, è possibile memorizzare anche dati personali che figurano nei testi, segnatamente le generalità, e dati personali degni di particolare protezione.[^102-1] [^102-2]
 
-<sup>2</sup> Soltanto i collaboratori della SEM e del Tribunale amministrativo federale hanno accesso alle banche dati che contengono dati degni di particolare protezione e profili della personalità.[^102-2]
+<sup>2</sup> Soltanto i collaboratori della SEM e del Tribunale amministrativo federale hanno accesso alle banche dati che contengono dati personali degni di particolare protezione.[^102-3]
 
 <sup>3</sup> L’accesso mediante procedura di richiamo alle banche dati che contengono soprattutto informazioni tecniche provenienti da fonti pubbliche può essere accordato dietro richiesta a utenti esterni.
 
 <sup>4</sup> Il Consiglio federale disciplina i dettagli, segnatamente l’accesso al sistema e la protezione dei dati personali che vi sono registrati.
 
-[^102-1]: Nuovo testo giusta l’all. n. 4 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^102-1]: Nuovo testo del terzo per. giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^102-2]: Nuovo testo giusta l’all. n. 4 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^102-3]: Nuovo testo giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102a
 
@@ -2244,15 +2251,15 @@ La comunicazione di dati personali alle autorità competenti di Stati vincolati 
 
 **Comunicazione di dati personali a uno Stato non vincolato da un accordo di associazione a Dublino**
 
-<sup>1</sup> Dati personali possono essere comunicati a Stati terzi soltanto se questi garantiscono un adeguato livello di protezione.
+<sup>1</sup> Dati personali possono essere comunicati a Stati terzi soltanto se questi garantiscono una protezione adeguata dei dati ai sensi dell’articolo 16 capoverso 1 LPD[^102c-1].[^102c-2]
 
 <sup>2</sup>
 
-Qualora non garantisca un adeguato livello di protezione, allo Stato terzo possono, nel caso specifico, essere comunicati dati personali se:
+Qualora non garantisca una protezione adeguata, allo Stato terzo possono essere comunicati dati personali nei seguenti casi:
 
-- a. la persona interessata ha, senza ombra di dubbio, dato il suo consenso; trattandosi di dati personali degni di particolare protezione o di profili della personalità, il consenso deve essere esplicito;
-- b. la comunicazione è necessaria per proteggere la vita o l’incolumità fisica della persona interessata; o
-- c. la comunicazione è necessaria per tutelare un interesse pubblico preponderante o per accertare, esercitare o far valere un diritto in giustizia.
+- a. la persona interessata ha dato il suo consenso conformemente all’articolo 6 capoversi 6 e, se del caso, 7 LPD;
+- b. la comunicazione è necessaria per proteggere la vita o l’integrità fisica della persona interessata e non è possibile ottenere il suo consenso entro un termine ragionevole; o
+- c. la comunicazione è necessaria per tutelare un interesse pubblico preponderante o per accertare, esercitare o far valere un diritto in giustizia o dinanzi a un’altra autorità estera competente.[^102c-3]
 
 <sup>3</sup> Oltre che nei casi indicati nel capoverso 2, possono essere comunicati dati personali anche quando, nel caso specifico, garanzie sufficienti assicurano una protezione adeguata della persona interessata.
 
@@ -2264,9 +2271,12 @@ I dati provenienti dalla banca dati Eurodac non possono in nessun caso essere tr
 
 - a. uno Stato non vincolato da un accordo di associazione alla normativa di Dublino;
 - b. organizzazioni internazionali;
-- c. soggetti di diritto privato.[^102c-1]
+- c. soggetti di diritto privato.[^102c-4]
 
-[^102c-1]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^102c-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102c-2]: Nuovo testo giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-3]: Nuovo testo giusta l’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-4]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 102d
 
@@ -2284,9 +2294,10 @@ I dati provenienti dalla banca dati Eurodac non possono in nessun caso essere tr
 
 **Diritto d’accesso**
 
-Il diritto d’accesso è retto dalle disposizioni federali o cantonali in materia di protezione dei dati.[^102e-1] Il detentore della collezione di dati fornisce inoltre le informazioni di cui dispone sull’origine dei dati.
+Il diritto d’accesso è retto dalle disposizioni federali o cantonali in materia di protezione dei dati.[^102e-1] ...[^102e-2]
 
 [^102e-1]: Nuovo testo giusta il n. 2 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, in vigore dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464), [3417](https://fedlex.data.admin.ch/eli/oc/2010/473); [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^102e-2]: Per. abrogato dall’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 Sezione 3:[^t-1] Videosorveglianza
 
