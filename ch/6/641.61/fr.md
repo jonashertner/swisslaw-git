@@ -4,11 +4,11 @@ title: "Loi du 21 juin 1996 sur l'imposition des huiles minérales (Limpmin)"
 short: Limpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/fr"
 
 (Limpmin)
 
-du 21 juin 1996 (État le 1<sup>er</sup> juillet 2023)
+du 21 juin 1996 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -449,7 +449,12 @@ Lors de la déclaration fiscale de mélanges de carburants obtenus à partir de 
 
 <sup>2</sup> Dans les autres cas, l’autorité fiscale fixe le montant de l’impôt.
 
+<sup>2bis</sup> La fixation du montant de l’impôt peut intervenir sous la forme d’une décision individuelle automatisée selon l’art. 21 de la loi fédérale du 25 septembre 2020 sur la protection des données[^21-1].[^21-2]
+
 <sup>3</sup> La déclaration fiscale lie son auteur et sert de base à la fixation du montant de l’impôt. Le résultat d’un contrôle officiel est réservé.
+
+[^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-2]: Introduit par l’annexe 1 ch. II 52 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
@@ -989,7 +994,7 @@ Annexe 1a[^t-2]
 <tr><td>2910</td><td>– – – destinés à être utilisés comme carburant</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
 </table>
 
-[^annex1a-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe; conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général et ses mod. ne sont pas publiés au RO. Le tarif général est disponible sous www.ezv.admin.ch. Les mod. sont également insérées dans le tarif des douanes, qui peut être consulté sous www.tares.ch.
+[^annex1a-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe; conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général et ses mod. ne sont pas publiés au RO. Le tarif général est disponible sous [www.ezv.admin.ch](https://www.ezv.admin.ch/). Les mod. sont également insérées dans le tarif des douanes, qui peut être consulté sous [www.tares.ch](http://www.tares.ch/).
 [^annex1a-lvlu1-2]: Impôt sur les huiles minérales et surtaxe sur les huiles minérales.
 
 Annexe 2

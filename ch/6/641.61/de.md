@@ -4,11 +4,11 @@ title: Mineralölsteuergesetz vom 21. Juni 1996 (MinöStG)
 short: MinöStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/de"
 
 (MinöStG)
 
-vom 21. Juni 1996 (Stand am 1. Juli 2023)
+vom 21. Juni 1996 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -451,7 +451,12 @@ Steuerpflichtige Personen müssen bei der Steueranmeldung von Treibstoffgemische
 
 <sup>2</sup> In den anderen Fällen setzt die Steuerbehörde den Steuerbetrag fest.
 
+<sup>2bis</sup> Die Festsetzung des Steuerbetrags kann als automatisierte Einzelentscheidung nach Artikel 21 des Datenschutzgesetzes vom 25. September 2020[^21-1] erfolgen.[^21-2]
+
 <sup>3</sup> Die Steueranmeldung ist für die Person, die sie ausgestellt hat, als Grundlage für die Festsetzung des Steuerbetrages verbindlich. Das Ergebnis einer amtlichen Prüfung bleibt vorbehalten.
+
+[^21-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-2]: Eingefügt durch Anhang 1 Ziff. II 52 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
@@ -602,7 +607,7 @@ Die Sicherheitsleistung endet:
 
 <sup>1</sup> Gegen erstinstanzliche Verfügungen der Oberzolldirektion kann innerhalb von 30 Tagen Einsprache erhoben werden. Ausgenommen sind Verfügungen über die Sicherstellung.
 
-<sup>2</sup> Für das Einspracheverfahren gelten sinngemäss die Bestimmungen über das Verwaltungsbeschwerdeverfahren (Art. 51 ff. Verwaltungsverfahrensgesetz vom 20. Dez. 1968[^34-1]).
+<sup>2</sup> Für das Einspracheverfahren gelten sinngemäss die Bestimmungen über das Verwaltungsbeschwerdeverfahren (Art. 51 ff. Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^34-1]).
 
 [^34-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
@@ -838,12 +843,12 @@ Anhang 1[^t-1]
 <tr><td colspan="2"></td><td>[tab] – – Ethylen, Propylen, Butylen und Butadien:</td><td></td></tr>
 <tr><td colspan="2">1410</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
 <tr><td colspan="2">1490</td><td>[tab] – – – andere</td><td>1.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td colspan="2"></td></tr>
-<tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff:</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">je 1000 kg</td></tr>
-<tr><td colspan="2"></td><td>– – – – aus Biomasse oder anderen erneuerbaren Energieträgern</td><td colspan="2">409.90</td></tr>
-<tr><td colspan="2"></td><td>[tab]</td><td colspan="2">je 1000 l bei 15 °C</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – – andere</td><td colspan="2">209.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff:</td><td></td></tr>
+<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2"></td><td>– – – – aus Biomasse oder anderen erneuerbaren Energieträgern</td><td>409.90</td></tr>
+<tr><td colspan="2"></td><td>[tab]</td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – – andere</td><td>209.10</td></tr>
 <tr><td colspan="2">1990</td><td>[tab] – – – andere</td><td>1.10</td></tr>
 <tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
 <tr><td colspan="2"></td><td>– in gasförmigem Zustand:</td><td></td></tr>

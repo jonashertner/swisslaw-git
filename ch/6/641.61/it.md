@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 1996 sull'imposizione degli oli minerali (L
 short: LIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/it"
 
 (LIOm)
 
-del 21 giugno 1996 (Stato 1° luglio 2023)
+del 21 giugno 1996 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -449,7 +449,12 @@ All’atto della dichiarazione delle miscele di biocarburanti e altri carburanti
 
 <sup>2</sup> Negli altri casi l’importo dell’imposta è fissato dall’autorità fiscale.
 
+<sup>2bis</sup> L’importo dell’imposta può essere stabilito sotto forma di decisione individuale automatizzata ai sensi dell’articolo 21 della legge federale del 25 settembre 2020[^21-1] sulla protezione dei dati.[^21-2]
+
 <sup>3</sup> La dichiarazione fiscale è vincolante per l’estensore quale base per determinare l’importo dell’imposta. È fatto salvo l’esito di un controllo ufficiale.
+
+[^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-2]: Introdotto dall’all. 1 n. II 52 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
