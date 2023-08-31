@@ -4,18 +4,22 @@ title: Ordinanza del 22 febbraio 2012 sul trattamento di dati personali e di dat
 short: OTUIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/160"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2012-02-22
 in_force: 2012-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-160-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-160-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sul trattamento di dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica della Confederazione
+# Ordinanza sul trattamento di dati personali e di dati di persone giuridiche derivanti dall’utilizzazione dell’infrastruttura elettronica della Confederazione
 
-del 22 febbraio 2012 (Stato 1° gennaio 2021)
+(OTUIC)[^t-1]
+
+del 22 febbraio 2012 (Stato 1° settembre 2023)
+
+[^t-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 Il Consiglio federale svizzero,
 
@@ -31,9 +35,12 @@ ordina:
 
 Ai sensi della presente ordinanza s’intende per:
 
-- a. *dati amministrati:* dati personali che sono registrati e regolarmente utilizzati, analizzati o volontariamente eliminati nell’ambito dell’utilizzazione dell’infrastruttura elettronica della Confederazione;
-- b. *dati non amministrati:* dati personali che sono registrati, ma non utilizzati, analizzati o volontariamente eliminati, o per lo meno non regolarmente, nell’ambito dell’utilizzazione dell’infrastruttura elettronica della Confederazione;
+- a.[^1-1] *dati amministrati:* dati personali e dati di persone giuridiche che sono registrati e regolarmente utilizzati, analizzati o volontariamente eliminati nell’ambito dell’utilizzazione dell’infrastruttura elettronica della Confederazione;
+- b.[^1-2] *dati non amministrati:* dati personali e dati di persone giuridiche che sono registrati, ma non utilizzati, analizzati o volontariamente eliminati, o per lo meno non regolarmente, nell’ambito dell’utilizzazione dell’infrastruttura elettronica della Confederazione;
 - c. *gestore:* servizio incaricato della gestione tecnica dell’infrastruttura elettronica della Confederazione.
+
+[^1-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-2]: Nuovo testo giusta l’all. 2 n. II 16 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 2: Diritto d’accesso, conservazione e distruzione
 
@@ -135,7 +142,9 @@ Sono responsabili per la conservazione sicura e la distruzione tempestiva:
 
 <sup>2</sup> Se la persona interessata non acconsente all’analisi, quest’ultima necessita dell’autorizzazione della direzione dell’organo federale.
 
-<sup>3</sup> Se l’organo federale che conferisce l’incarico dispone di un consulente per la protezione dei dati, questi riceve una copia dell’incarico.
+<sup>3</sup> Il consulente per la protezione dei dati dell’organo federale responsabile riceve una copia dell’incarico.[^10-1]
+
+[^10-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 
@@ -187,9 +196,11 @@ L’organo federale può effettuare o far effettuare analisi nominali in riferim
 
 #### Art. 14
 
-**Nessun diritto all’analisi da parte degli utenti**
+**Nessun diritto degli utenti all’analisi**[^14-1]
 
-Gli utenti dell’infrastruttura elettronica della Confederazione non hanno alcun diritto all’analisi dei loro dati personali ai sensi della presente ordinanza.
+Gli utenti dell’infrastruttura elettronica della Confederazione non hanno alcun diritto all’analisi dei loro dati ai sensi della presente ordinanza.
+
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 4: Risultato dell’analisi
 

@@ -4,18 +4,22 @@ title: Ordonnance du 22 février 2012 sur le traitement des données personnelle
 short: OTUIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/160"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2012-02-22
 in_force: 2012-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-160-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-160-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur le traitement des données personnelles liées à l’utilisation de l’infrastructure électronique de la Confédération
+# Ordonnance sur le traitement des données personnelles et des données des personnes morales lors de l’utilisation de l’infrastructure électronique de la Confédération
 
-du 22 février 2012 (Etat le 1<sup>er</sup> janvier 2021)
+(OTUIC)[^t-1]
+
+du 22 février 2012 (État le 1<sup>er</sup> septembre 2023)
+
+[^t-1]: Nouvelle teneur selon l’annexe 2 ch. II 16 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 Le Conseil fédéral suisse,
 
@@ -31,9 +35,12 @@ arrête:
 
 Au sens de la présente ordonnance, on entend par:
 
-- a. *données administrées:* les données personnelles qui sont enregistrées lors de l’utilisation de l’infrastructure électronique de la Confédération et qui sont régulièrement utilisées, analysées ou effacées volontairement;
-- b. *données non administrées:* les données personnelles qui sont enregistrées lors de l’utilisation de l’infrastructure électronique de la Confédération mais qui ne sont pas ou qui ne sont pas régulièrement utilisées, analysées ou effacées volontairement;
+- a.[^1-1] *données administrées*: les données personnelles et les données des personnes morales qui sont enregistrées lors de l’utilisation de l’infrastructure électronique de la Confédération et qui sont régulièrement utilisées, analysées ou effacées volontairement;
+- b.[^1-2] *données non administrées*: les données personnelles et les données des personnes morales qui sont enregistrées lors de l’utilisation de l’infrastructure électronique de la Confédération mais qui ne sont pas ou qui ne sont pas régulièrement utilisées, analysées ou effacées volontairement;
 - c. *exploitant du système:* le service chargé de la gestion technique de l’infrastructure électronique de la Confédération.
+
+[^1-1]: Nouvelle teneur selon l’annexe 2 ch. II 16 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-2]: Nouvelle teneur selon l’annexe 2 ch. II 16 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 2 Droit d’accès, conservation et destruction
 
@@ -135,7 +142,9 @@ La responsabilité de la conservation sécurisée des données et de leur destru
 
 <sup>2</sup> Si la personne concernée ne consent pas à l’analyse, le chef de l’organe fédéral doit l’autoriser.
 
-<sup>3</sup> Si l’organe fédéral qui a donné le mandat d’analyse dispose d’un préposé à la protection des données, celui-ci doit recevoir une copie du mandat.
+<sup>3</sup> Une copie du mandat doit être remise au conseiller à la protection des données de l’organe fédéral qui a donné le mandat d’analyse.[^10-1]
+
+[^10-1]: Nouvelle teneur selon l’annexe 2 ch. II 16 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 
@@ -187,9 +196,11 @@ L’organe fédéral peut procéder lui-même ou charger des tiers de procéder 
 
 #### Art. 14
 
-**Droit des utilisateurs à une analyse**
+**Droit des utilisateurs à une analyse**[^14-1]
 
-Les utilisateurs de l’infrastructure électronique de la Confédération n’ont aucun droit à une analyse de leurs données personnelles au sens de la présente ordonnance.
+Les utilisateurs de l’infrastructure électronique de la Confédération n’ont aucun droit à une analyse de leurs données au sens de la présente ordonnance.
+
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 16 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 4 Résultats des analyses
 

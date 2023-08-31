@@ -4,18 +4,22 @@ title: Verordnung vom 22. Februar 2012 über die Bearbeitung von Personendaten u
 short: VBNIB
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/160"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2012-02-22
 in_force: 2012-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-160-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-160-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Bearbeitung von Personendaten, die bei der Nutzung der elektronischen Infrastruktur des Bundes anfallen
+# Verordnung über die Bearbeitung von Personendaten und Daten juristischer Personen bei der Nutzung der elektronischen Infrastruktur des Bundes
 
-vom 22. Februar 2012 (Stand am 1. Januar 2021)
+(VBNIB)[^t-1]
+
+vom 22. Februar 2012 (Stand am 1. September 2023)
+
+[^t-1]: Fassung gemäss Anhang 2 Ziff. II 16 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 Der Schweizerische Bundesrat,
 
@@ -31,9 +35,12 @@ verordnet:
 
 In dieser Verordnung bedeuten:
 
-- a. *bewirtschaftete Daten:* Personendaten, die bei der Nutzung der elektronischen Infrastruktur des Bundes aufgezeichnet und regelmässig genutzt, ausgewertet oder bewusst gelöscht werden;
-- b. *nicht bewirtschaftete Daten:* Personendaten die bei der Nutzung der elektronischen Infrastruktur des Bundes aufgezeichnet, aber nicht oder nicht regelmässig genutzt, ausgewertet oder bewusst gelöscht werden;
+- a.[^1-1] *bewirtschaftete Daten:* Personendaten und Daten juristischer Personen, die bei der Nutzung der elektronischen Infrastruktur des Bundes aufgezeichnet und regelmässig genutzt, ausgewertet oder bewusst gelöscht werden;
+- b.[^1-2] *nicht bewirtschaftete Daten:* Personendaten und Daten juristischer Personen, die bei der Nutzung der elektronischen Infrastruktur des Bundes aufgezeichnet, aber nicht oder nicht regelmässig genutzt, ausgewertet oder bewusst gelöscht werden;
 - c. *Betreiberin:* die mit dem technischen Betrieb der elektronischen Infrastruktur des Bundes beauftragte Stelle.
+
+[^1-1]: Fassung gemäss Anhang 2 Ziff. II 16 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-2]: Fassung gemäss Anhang 2 Ziff. II 16 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 2. Abschnitt: Zugriffsberechtigung, Aufbewahrung und Vernichtung
 
@@ -135,7 +142,9 @@ Verantwortlich für die sichere Aufbewahrung und die rechtzeitige Vernichtung de
 
 <sup>2</sup> Stimmt die betroffene Person einer solchen Auswertung nicht zu, so muss die Leitung des Bundesorgans die Auswertung bewilligen.
 
-<sup>3</sup> Verfügt das auftraggebende Bundesorgan über einen Datenschutzberater oder eine Datenschutzberaterin, so ist dieser Person eine Kopie des Auftrags zuzustellen.
+<sup>3</sup> Dem Datenschutzberater oder der Datenschutzberaterin des auftraggebenden Bundesorgans ist eine Kopie des Auftrags zuzustellen.[^10-1]
+
+[^10-1]: Fassung gemäss Anhang 2 Ziff. II 16 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 
@@ -187,9 +196,11 @@ Das Bundesorgan kann bewirtschaftete Daten namentlich personenbezogen auswerten 
 
 #### Art. 14
 
-**Kein Anspruch der Nutzerinnen und Nutzer auf Auswertung**
+**Kein Anspruch der Nutzerinnen und Nutzer auf Auswertung**[^14-1]
 
-Die Nutzerinnen und Nutzer der elektronischen Infrastruktur des Bundes haben keinen Anspruch auf Auswertung ihrer Personendaten gemäss dieser Verordnung.
+Die Nutzerinnen und Nutzer der elektronischen Infrastruktur des Bundes haben keinen Anspruch auf Auswertung ihrer Daten gemäss dieser Verordnung.
+
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 16 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Abschnitt: Auswertungsergebnis
 
