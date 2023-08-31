@@ -4,13 +4,13 @@ number: "721.11"
 title: Vollzugsverordnung zum kantonalen Umweltschutzgesetz
 short: "Kantonale Umweltschutzverordnung, kUSV"
 language: de
-version: 2020-11-01
-valid_until: 2023-08-31
-version_adopted: 2020-10-13
+version: 2023-09-01
+valid_until: 2026-06-30
+version_adopted: 2023-05-16
 adopted: 2005-07-12
 in_force: 2005-09-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/721.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/932/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1147/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/932/pdf_file"
 
 (Kantonale Umweltschutzverordnung, kUSV)
 
-vom 12.07.2005 (Stand 01.11.2020)
+vom 12.07.2005 (Stand 01.09.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -47,13 +47,13 @@ beschliesst:
 
 #### § 3
 
-**Amt für Umwelt**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt ist die kantonale Umweltschutzfachstelle im Sinne des Bundesrechts.
+<sup>1</sup> Das Amt für Umwelt und Energie ist die kantonale Umweltschutzfachstelle im Sinne des Bundesrechts.
 
 <sup>2</sup> Es kontrolliert die Umweltschutzvorkehren von Kanton, Gemeinden, Privaten und anderen Pflichtigen.
 
-<sup>3</sup> Das Amt für Umwelt ist unter Vorbehalt besonderer Vorschriften zuständig für die Beratung und die fachtechnische Unterstützung der mit dem Vollzug der Umweltschutzgesetzgebung beauftragten Behörden und Privaten sowie die Information der Öffentlichkeit im kantonalen Zuständigkeitsbereich.
+<sup>3</sup> Das Amt für Umwelt und Energie ist unter Vorbehalt besonderer Vorschriften zuständig für die Beratung und die fachtechnische Unterstützung der mit dem Vollzug der Umweltschutzgesetzgebung beauftragten Behörden und Privaten sowie die Information der Öffentlichkeit im kantonalen Zuständigkeitsbereich.
 
 ## 2 Allgemeine Massnahmen
 
@@ -61,7 +61,7 @@ beschliesst:
 
 **Umweltbeobachtung**
 
-<sup>1</sup> Im Rahmen der Umweltbeobachtung bedient sich das Amt für Umwelt der wissenschaftlich anerkannten Methoden und hält die Ergebnisse in Katastern, Inventaren, Kartenwerken oder Berichten fest.
+<sup>1</sup> Im Rahmen der Umweltbeobachtung bedient sich das Amt für Umwelt und Energie der wissenschaftlich anerkannten Methoden und hält die Ergebnisse in Katastern, Inventaren, Kartenwerken oder Berichten fest.
 
 <sup>2</sup> Alle Umweltdaten sind öffentlich, sofern nicht überwiegende Interessen entgegenstehen.
 
@@ -77,9 +77,9 @@ beschliesst:
 
 #### § 6
 
-**Amt für Umwelt**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt nimmt die Aufgaben im Zusammenhang mit dem Katastrophenschutz im Sinne von Art. 10 des Bundesgesetzes über den Umweltschutz (Umweltschutzgesetz, USG)[^6-1] und mit dem Vollzug der Störfallverordnung[^6-2] wahr, soweit sie nicht einer anderen Instanz übertragen sind.
+<sup>1</sup> Das Amt für Umwelt und Energie nimmt die Aufgaben im Zusammenhang mit dem Katastrophenschutz im Sinne von Art. 10 des Bundesgesetzes über den Umweltschutz (Umweltschutzgesetz, USG)[^6-1] und mit dem Vollzug der Störfallverordnung[^6-2] wahr, soweit sie nicht einer anderen Instanz übertragen sind.
 
 <sup>2</sup> Es ist die zuständige Instanz im Sinne von Art. 10 des kantonalen Umweltschutzgesetzes[^6-3] und führt einen Kataster über Gefahrenpotentiale und Risiken.
 
@@ -96,7 +96,7 @@ beschliesst:
 <sup>2</sup> Sie ist insbesondere zuständig für:
 
 - 1\. die unverzügliche Weiterleitung der Meldung von Störfällen an die Alarmstelle des Bundes;
-- 2\. das Aufgebot der kantonalen Wehrdienste nach den Alarmplänen auf Begehren der Orts- oder Betriebsfeuerwehr, des Feuerwehrinspektorates, der Kantonspolizei oder des Amtes für Umwelt;
+- 2\. das Aufgebot der kantonalen Wehrdienste nach den Alarmplänen auf Begehren der Orts- oder Betriebsfeuerwehr, des Feuerwehrinspektorates, der Kantonspolizei oder des Amtes für Umwelt und Energie;
 - 3\. die unverzügliche Benachrichtigung der zuständigen Stellen;
 - 4\. unter Vorbehalt der kantonalen Notstandsgesetzgebung[^7-1] je nach Ereignis die Alarmierung der Bevölkerung und das Erteilen von Verhaltensanweisungen.
 
@@ -106,7 +106,7 @@ beschliesst:
 
 **Feuerwehrinspektorat**
 
-<sup>1</sup> Das Feuerwehrinspektorat sorgt in Zusammenarbeit mit dem Amt für Umwelt für die Ausbildung und die Ausrüstung der Wehrdienste.
+<sup>1</sup> Das Feuerwehrinspektorat sorgt in Zusammenarbeit mit dem Amt für Umwelt und Energie für die Ausbildung und die Ausrüstung der Wehrdienste.
 
 <sup>2</sup> Es ernennt Fachberaterinnen und Fachberater, deren Aufgaben und Entschädigungen von der Justiz- und Sicherheitsdirektion und der Landwirtschafts- und Umweltdirektion festgelegt werden.
 
@@ -126,7 +126,7 @@ beschliesst:
 
 **Begutachtung**
 
-<sup>1</sup> Das Amt für Umwelt begutachtet den Bau und die Umnutzung von Anlagen und Betrieben im Sinne von Art. 13 des kantonalen Umweltschutzgesetzes[^10-1].
+<sup>1</sup> Das Amt für Umwelt und Energie begutachtet den Bau und die Umnutzung von Anlagen und Betrieben im Sinne von Art. 13 des kantonalen Umweltschutzgesetzes[^10-1].
 
 [^10-1]: NG 721.1
 
@@ -136,7 +136,7 @@ beschliesst:
 
 **Planung**
 
-<sup>1</sup> Das Amt für Umwelt:
+<sup>1</sup> Das Amt für Umwelt und Energie:
 
 - 1\. erhebt die Daten über die wichtigsten Abfallströme;
 - 2\. führt ein Verzeichnis der Abfallanlagen;
@@ -151,7 +151,7 @@ beschliesst:
 - 1\. Deponien im Sinne der Technischen Verordnung über Abfälle (TVA)[^12-1];
 - 2\. wesentlichen Abfallanlagen im Sinne von Art. 19 des kantonalen Umweltschutzgesetzes[^12-2].
 
-<sup>2</sup> Das Amt für Umwelt erteilt die Bewilligung für die Errichtung der übrigen Abfallanlagen und die Lagerung von Altwaren im Sinne von Art. 19 und 20 des kantonalen Umweltschutzgesetzes.
+<sup>2</sup> Das Amt für Umwelt und Energie erteilt die Bewilligung für die Errichtung der übrigen Abfallanlagen und die Lagerung von Altwaren im Sinne von Art. 19 und 20 des kantonalen Umweltschutzgesetzes.
 
 [^12-1]: SR 814.600
 [^12-2]: NG 721.1
@@ -178,7 +178,7 @@ beschliesst:
 
 **Elektrische und elektronische Geräte**
 
-<sup>1</sup> Das Amt für Umwelt vollzieht die Bestimmungen der Verordnung über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte (VREG)[^15-1].
+<sup>1</sup> Das Amt für Umwelt und Energie vollzieht die Bestimmungen der Verordnung über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte (VREG)[^15-1].
 
 [^15-1]: SR 814.620
 
@@ -186,7 +186,7 @@ beschliesst:
 
 **Sonderabfälle**
 
-<sup>1</sup> Das Amt für Umwelt vollzieht die Bestimmungen der Verordnung über den Verkehr mit Abfällen (VeVA)[^16-1], soweit der Vollzug nicht einer anderen Instanz übertragen ist.
+<sup>1</sup> Das Amt für Umwelt und Energie vollzieht die Bestimmungen der Verordnung über den Verkehr mit Abfällen (VeVA)[^16-1], soweit der Vollzug nicht einer anderen Instanz übertragen ist.
 
 [^16-1]: SR 814.610
 
@@ -194,7 +194,7 @@ beschliesst:
 
 **Belastete Standorte 1. Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat entscheidet über Kostenbeiträge an die Sanierungskosten. Das Gesuch ist beim Amt für Umwelt einzureichen.
+<sup>1</sup> Der Regierungsrat entscheidet über Kostenbeiträge an die Sanierungskosten. Das Gesuch ist beim Amt für Umwelt und Energie einzureichen.
 
 <sup>2</sup> Die anrechenbaren Sanierungskosten werden nach dem Bundesrecht bestimmt. Der Bundesbeitrag wird vorgängig allfälliger Beitragsberechnungen abgezogen.
 
@@ -211,9 +211,9 @@ beschliesst:
 
 #### § 19
 
-**3. Amt für Umwelt**
+**3. Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt vollzieht die Bestimmungen der Verordnung über die Sanierung von belasteten Standorten (Altlasten-Verordnung; AltlV)[^19-1], soweit der Vollzug nicht einer anderen Instanz übertragen ist.
+<sup>1</sup> Das Amt für Umwelt und Energie vollzieht die Bestimmungen der Verordnung über die Sanierung von belasteten Standorten (Altlasten-Verordnung; AltlV)[^19-1], soweit der Vollzug nicht einer anderen Instanz übertragen ist.
 
 <sup>2</sup> Es ist insbesondere zuständig für:
 
@@ -275,9 +275,9 @@ beschliesst:
 
 #### § 24
 
-**Amt für Umwelt**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt:
+<sup>1</sup> Das Amt für Umwelt und Energie:
 
 - 1\. bewilligt Ausnahmen bei der Erschliessung kleiner Teile von Bauzonen (Art. 30 LSV[^24-1]);
 - 2\. stimmt Baubewilligungen in lärmbelasteten Gebieten zu (Art. 31 Abs. 2 LSV);
@@ -299,9 +299,9 @@ beschliesst:
 
 #### § 26
 
-**Amt für Umwelt**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt bewilligt den Betrieb von starken Lichtquellen im Sinne von Art. 32 des kantonalen Umweltschutzgesetzes[^26-1].
+<sup>1</sup> Das Amt für Umwelt und Energie bewilligt den Betrieb von starken Lichtquellen im Sinne von Art. 32 des kantonalen Umweltschutzgesetzes[^26-1].
 
 [^26-1]: NG 721.1
 
@@ -325,9 +325,9 @@ beschliesst:
 
 #### § 28
 
-**Amt für Umwelt**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt vollzieht die Bestimmungen der Luftreinhalte-Verordnung[^28-1], soweit der Vollzug nicht einer anderen Instanz übertragen ist.
+<sup>1</sup> Das Amt für Umwelt und Energie vollzieht die Bestimmungen der Luftreinhalte-Verordnung[^28-1], soweit der Vollzug nicht einer anderen Instanz übertragen ist.
 
 <sup>2</sup> Es ist insbesondere zuständig für:
 
@@ -378,9 +378,9 @@ beschliesst:
 
 #### § 33
 
-**Amt für Umwelt**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt vollzieht die Aufgaben im Zusammenhang mit dem Bodenschutz gemäss Art. 33 USG[^33-1] und nach kantonalem Recht, soweit der Vollzug nicht einer anderen Instanz übertragen ist.
+<sup>1</sup> Das Amt für Umwelt und Energie vollzieht die Aufgaben im Zusammenhang mit dem Bodenschutz gemäss Art. 33 USG[^33-1] und nach kantonalem Recht, soweit der Vollzug nicht einer anderen Instanz übertragen ist.
 
 <sup>2</sup> Es begutachtet insbesondere Terrainveränderungen ausserhalb der Bauzonen.
 
@@ -390,9 +390,9 @@ beschliesst:
 
 #### § 34
 
-**Amt für Umwelt**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt vollzieht die Aufgaben nach der Verordnung über die Umweltverträglichkeitsprüfung (UVPV)[^34-1], soweit der Vollzug nicht einer anderen Instanz übertragen ist.
+<sup>1</sup> Das Amt für Umwelt und Energie vollzieht die Aufgaben nach der Verordnung über die Umweltverträglichkeitsprüfung (UVPV)[^34-1], soweit der Vollzug nicht einer anderen Instanz übertragen ist.
 
 [^34-1]: SR 814.011
 
@@ -438,9 +438,9 @@ beschliesst:
 
 #### § 40
 
-**Amt für Umwelt**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt vollzieht die Bestimmungen der Verordnung über die Lenkungsabgabe auf flüchtigen organischen Verbindungen (VOCV)[^40-1].
+<sup>1</sup> Das Amt für Umwelt und Energie vollzieht die Bestimmungen der Verordnung über die Lenkungsabgabe auf flüchtigen organischen Verbindungen (VOCV)[^40-1].
 
 [^40-1]: SR 814.018
 
