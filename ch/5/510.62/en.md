@@ -4,11 +4,11 @@ title: "Federal Act of 5 October 2007 on Geoinformation (Geoinformation Act, Geo
 short: GeoIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/388"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-10-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -21,13 +21,13 @@ Federal Act on Geoinformation
 
 (Geoinformation Act, GeoIA)
 
-of 5 October 2007 (Status as on 1 January 2023)
+of 5 October 2007 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation, based on Articles 60 paragraph 1, 63, 64, 75a and 122 paragraph 1 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch dated 6 September 2006[^ingress-2],
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 7817](https://fedlex.data.admin.ch/eli/fga/2006/982)
 
 ## Chapter 1 General Provisions
@@ -164,11 +164,16 @@ Official geodata under federal legislation shall be accessible to the public and
 
 #### Art. 11
 
-**Data security**
+**Data protection**[^11-1]
 
-Articles 1–11, 16–25, 27, 33, 36 and 37 of the Federal Act of 19 June 1992[^11-1] on Data Protection apply to the use of all official geodata under federal legislation subject to any regulations to the contrary found in Article 12 paragraph 2c, Article 14 paragraphs 1, 2 and Article 32 paragraph 2d of this Act.
+<sup>1</sup> The Data Protection Act of 25 September 2020[^11-2] applies to the use of all official geodata under federal legislation, subject to Article 12 paragraph 2 letter c, Article 14 paragraphs 1 and 2 and Article 32 paragraph 2 letter d of this Act and the related implementing provisions.
 
-[^11-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>2</sup> The Federal Council may provide for exceptions to the obligation to keep a record of processing activities if there is only a limited risk of a violation of the fundamental rights of the data subject as a result of the processing activity
+
+<sup>3</sup> It may provide for mandatory access authorisation levels for official geodata under federal legislation.
+
+[^11-1]: Amended by Annex 1 No II 41 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 12
 
@@ -247,7 +252,7 @@ The Federal Council regulates the fees for the access to and use of basic geodat
 
 <sup>5</sup> The Federal Council shall determine the minimum requirements with regard to the organisation, management, data harmonisation, methods and processes for the Cadastre of public-law restrictions.
 
-[^16-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^16-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 17
 
@@ -261,7 +266,7 @@ The content of the Cadastre of public-law restrictions is considered to be publi
 
 Liability for the management of the Cadastre of public-law restrictions is governed by Article 955 of the Civil Code[^18-1].
 
-[^18-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Section 5 Commercial Activities of the Confederation
 
@@ -620,7 +625,7 @@ The repeal and amendment of existing legislation is regulated in the Annex.
 If the Federal Act of 6 October 2006[^45-1] on the Creation and Amendment of Legislation on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE) at the same time or after this Act, Number II/I of (Art. 39 Final Title Civil Code[^45-2]) shall cease to apply.
 
 [^45-1]: [AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787). The NFE bill cames into force on 1 Jan. 2008.
-[^45-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 46
 
@@ -651,7 +656,7 @@ The cantons shall adapt their legislation on geoinformation within three years o
 
 Commencement Date: 1 July 2008[^47-2] Articles 16–18, 34 paragraph 1 letters e and f and 39: 1 October 2009[^47-3]
 
-[^47-1]: [SR 510.622.4](https://fedlex.data.admin.ch/eli/cc/2009/553)
+[^47-1]: [SR 510.622.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7347)
 [^47-2]: FCD of 21 May 2008.
 [^47-3]: Ordinance of 2 Sept. 2009 ([AS 2009 4721](https://fedlex.data.admin.ch/eli/oc/2009/552)).
 

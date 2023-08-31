@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 2007 sulla geoinformazione (Legge sulla geo
 short: LGI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/388"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-10-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/it"
 
 (Legge sulla geoinformazione, LGI)
 
-del 5 ottobre 2007 (Stato 1° gennaio 2023)
+del 5 ottobre 2007 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 60 capoverso 1, 63, 64, 75*a* e 122 capoverso 1 della Costitu
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)
 
 ## Capitolo 1: Disposizioni generali
@@ -162,11 +162,16 @@ I geodati di base di diritto federale sono pubblicamente accessibili e possono e
 
 #### Art. 11
 
-**Protezione dei dati**
+**Protezione dei dati**[^11-1]
 
-Gli articoli 1–11, 16–25, 27, 33, 36 e 37 della legge federale del 19 giugno 1992[^11-1] sulla protezione dei dati sono applicabili a tutti i geodati di base di diritto federale. Sono fatte salve prescrizioni derogatorie giusta gli articoli 12 capoverso 2 lettera c, 14 capoversi 1 e 2, nonché 32 capoverso 2 lettera d della presente legge.
+<sup>1</sup> La legge federale del 25 settembre 2020[^11-2] sulla protezione dei dati si applica a tutti i geodati di base di diritto federale. Sono fatti salvi gli articoli 12 capoverso 2 lettera c, 14 capoversi 1 e 2 e 32 capoverso 2 lettera d della presente legge e le relative disposizioni d’esecuzione.
 
-[^11-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>2</sup> Il Consiglio federale può prevedere eccezioni all’obbligo di tenere un registro dell’attività di trattamento, se tale attività presenta un rischio limitato di ingerenza nei diritti fondamentali della persona interessata.
+
+<sup>3</sup> Può definire livelli di autorizzazione vincolanti per i geodati di base di diritto federale.
+
+[^11-1]: Nuovo testo giusta l’all. 1 n. II 41 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 12
 
@@ -245,7 +250,7 @@ Il Consiglio federale disciplina gli emolumenti per l’accesso ai geodati di ba
 
 <sup>5</sup> Il Consiglio federale stabilisce i requisiti minimi in materia di catasto relativamente all’organizzazione, alla tenuta, all’armonizzazione dei dati, alla qualità dei dati, ai metodi e alla procedura.
 
-[^16-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^16-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 17
 
@@ -259,7 +264,7 @@ Il contenuto del catasto è considerato noto.
 
 La responsabilità per la tenuta del catasto è retta dall’articolo 955 CC[^18-1].
 
-[^18-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Sezione 5: Prestazioni commerciali della Confederazione
 
@@ -618,7 +623,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 Qualora la legge federale del 6 ottobre 2006[^45-1] che emana e modifica atti legislativi per la nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni (NPC) entri in vigore contemporaneamente o successivamente alla presente legge, la cifra II/1 NPC (art. 39 del Tit. fin. del CC[^45-2]) diverrà priva d’oggetto.
 
 [^45-1]: [RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787). Entrata in vigore il 1° gen. 2008.
-[^45-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 46
 
@@ -649,7 +654,7 @@ I Cantoni adeguano la loro legislazione in materia di geoinformazione entro tre 
 
 Data dell'entrata in vigore: 1° luglio 2008[^47-2] Art. 16–18, 34 cpv. 1 lett. e ed f, nonché art. 39: 1° ottobre 2009[^47-3]
 
-[^47-1]: [RS 510.622.4](https://fedlex.data.admin.ch/eli/cc/2009/553).
+[^47-1]: [RS 510.622.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7347).
 [^47-2]: DCF del 21 mag. 2008.
 [^47-3]: O del 2 set. 2009 ([RU 2009 4721](https://fedlex.data.admin.ch/eli/oc/2009/552)).
 

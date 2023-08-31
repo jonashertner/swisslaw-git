@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 2007 über Geoinformation (Geoinformationsge
 short: GeoIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/388"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-10-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/de"
 
 (Geoinformationsgesetz, GeoIG)
 
-vom 5. Oktober 2007 (Stand am 1. Januar 2023)
+vom 5. Oktober 2007 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 60 Absatz 1, 63, 64, 75*a* und 122 Absatz 1 der Bundes
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 7817](https://fedlex.data.admin.ch/eli/fga/2006/982)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -162,11 +162,16 @@ Geobasisdaten des Bundesrechts sind öffentlich zugänglich und können von jede
 
 #### Art. 11
 
-**Datenschutz**
+**Datenschutz**[^11-1]
 
-Die Artikel 1–11, 16–25, 27, 33, 36 und 37 des Bundesgesetzes vom 19. Juni 1992[^11-1] über den Datenschutz finden auf alle Geobasisdaten des Bundesrechts Anwendung. Vorbehalten bleiben abweichende Vorschriften nach den Artikeln 12 Absatz 2 Buchstabe c, 14 Absätze 1 und 2 sowie 32 Absatz 2 Buchstabe d des vorliegenden Gesetzes.
+<sup>1</sup> Das Datenschutzgesetz vom 25. September 2020[^11-2] findet auf alle Geobasisdaten des Bundesrechts Anwendung. Die Artikel 12 Absatz 2 Buchstabe c, 14 Absätze 1 und 2 und 32 Absatz 2 Buchstabe d des vorliegenden Gesetzes und die entsprechenden Ausführungsbestimmungen bleiben vorbehalten.
 
-[^11-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>2</sup> Der Bundesrat kann Ausnahmen zur Pflicht, ein Register der Bearbeitungstätigkeiten zu führen, vorsehen, wenn aufgrund der Bearbeitung lediglich ein beschränktes Risiko für einen Eingriff in die Grundrechte der betroffenen Person besteht.
+
+<sup>3</sup> Er kann zwingende Zugangsberechtigungsstufen für die Geobasisdaten des Bundesrechts vorsehen.
+
+[^11-1]: Fassung gemäss Anhang 1 Ziff. II 41 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 12
 
@@ -245,7 +250,7 @@ Der Bundesrat regelt die Gebühren für den Zugang zu den Geobasisdaten des Bund
 
 <sup>5</sup> Der Bundesrat legt die Mindestanforderungen an den Kataster hinsichtlich Organisation, Führung, Datenharmonisierung, Datenqualität, Methoden und Verfahren fest.
 
-[^16-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^16-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 17
 
@@ -259,7 +264,7 @@ Der Inhalt des Katasters gilt als bekannt.
 
 Die Haftung für die Führung des Katasters richtet sich nach Artikel 955 des ZGB[^18-1].
 
-[^18-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 5. Abschnitt: Gewerbliche Leistungen des Bundes
 
@@ -618,7 +623,7 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 Tritt das Bundesgesetz vom 6. Oktober 2006[^45-1] über die Schaffung und Änderung von Erlassen zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA) gleichzeitig oder nach dem vorliegenden Gesetz in Kraft, so wird Ziffer II/1 der NFA-Vorlage (Art. 39 SchlT ZGB[^45-2]) gegenstandslos.
 
 [^45-1]: [AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787). Die NFA-Vorlage trat am 1. Jan. 2008 in Kraft.
-[^45-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 46
 
@@ -649,7 +654,7 @@ Die Kantone passen ihre Gesetzgebung über die Geoinformation innert drei Jahren
 
 Datum des Inkrafttretens: 1. Juli 2008[^47-2] Artikel 16–18, 34 Absatz 1 Buchstaben e und f sowie 39: 1. Oktober 2009[^47-3]
 
-[^47-1]: [SR 510.622.4](https://fedlex.data.admin.ch/eli/cc/2009/553)
+[^47-1]: [SR 510.622.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7347)
 [^47-2]: BRB vom 21. Mai 2008
 [^47-3]: V vom 2. Sept. 2009 ([AS 2009 4721](https://fedlex.data.admin.ch/eli/oc/2009/552)).
 

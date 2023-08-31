@@ -4,22 +4,22 @@ title: "Loi fédérale du 5 octobre 2007 sur la géoinformation (Loi sur la géo
 short: LGéo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/388"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-10-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la géoinformation
+# Loi fédérale sur la géoinformation\*
 
-(Loi sur la géoinformation, LGéo)<sup>[^t-1]</sup>
+(Loi sur la géoinformation, LGéo)[^t-1]
 
-du 5 octobre 2007 (Etat le 1<sup>er</sup> janvier 2023)
+du 5 octobre 2007 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 60, al. 1, 63, 64, 75*a* et 122, al. 1, de la Constitution[^ingress-
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 7407](https://fedlex.data.admin.ch/eli/fga/2006/982)
 
 ## Chapitre 1 Dispositions générales
@@ -164,11 +164,16 @@ Les géodonnées de base relevant du droit fédéral sont accessibles à la popu
 
 #### Art. 11
 
-**Protection des données**
+**Protection des données**[^11-1]
 
-Les art. 1 à 11, 16 à 25, 27, 33, 36 et 37 de la loi fédérale du 19 juin 1992 sur la protection des données[^11-1] s’appliquent à toutes les géodonnées de base relevant du droit fédéral. Les art. 12, al. 2, let. c, 14, al. 1 et 2, et 32, al. 2, let. d, de la présente loi sont réservés.
+<sup>1</sup> La loi fédérale du 25 septembre 2020 sur la protection des données[^11-2] s’applique à toutes les géodonnées de base relevant du droit fédéral. Les art. 12, al. 2, let. c, 14, al. 1 et 2, et 32, al. 2, let. d, de la présente loi et les dispositions d’exécution correspondantes sont réservés.
 
-[^11-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>2</sup> Le Conseil fédéral peut prévoir des exceptions à l’obligation de tenir un registre des activités de traitement lorsque les traitements présentent un risque limité d’atteinte aux droits fondamentaux de la personne concernée.
+
+<sup>3</sup> Il peut définir des niveaux d’autorisation d’accès contraignants pour les géodonnées de base relevant du droit fédéral.
+
+[^11-1]: Nouvelle teneur selon l’annexe 1 ch. II 41 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 12
 
@@ -192,7 +197,7 @@ Le Conseil fédéral édicte des dispositions détaillées concernant:
 - d. l’indication des sources et les mises en garde;
 - e. les exceptions au régime de l’autorisation.
 
-[^12-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^12-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 13
 
@@ -233,7 +238,7 @@ Le Conseil fédéral réglemente les émoluments s’appliquant à l’accès au
 - a. en cas d’utilisation à des fins privées: au plus les coûts marginaux et une contribution appropriée aux coûts d’infrastructure;
 - b. en cas d’utilisation à des fins commerciales: les coûts marginaux et une contribution appropriée, en rapport avec l’utilisation prévue, aux coûts d’infrastructure ainsi qu’aux coûts d’investissement et de mise à jour.
 
-[^15-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^15-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Section 4 Cadastre des restrictions de droit public à la propriété foncière
 
@@ -251,7 +256,7 @@ Le Conseil fédéral réglemente les émoluments s’appliquant à l’accès au
 
 <sup>5</sup> Le Conseil fédéral fixe les exigences minimales applicables au cadastre en matière d’organisation, de gestion, d’harmonisation et de qualité des données, de méthodes et de procédures.
 
-[^16-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^16-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 17
 
@@ -265,7 +270,7 @@ Le contenu du cadastre est réputé connu.
 
 La responsabilité de la gestion du cadastre est régie par l’art. 955 CC[^18-1].
 
-[^18-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Section 5 Prestations commerciales de la Confédération
 
@@ -624,7 +629,7 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 Quel que soit l’ordre dans lequel la présente loi et la loi fédérale du 6 octobre 2006 concernant l’adoption et la modification d’actes dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT)[^45-1], entrent en vigueur, le ch. II/1, de la RPT (tit. fin., art. 39, CC[^45-2]) devient sans objet.
 
 [^45-1]: [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787). La RPT entre en vigueur le 1<sup>er</sup> janv. 2008.
-[^45-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 46
 
@@ -655,7 +660,7 @@ Les cantons adaptent leur législation sur la géoinformation à la présente lo
 
 Date de l’entrée en vigueur: 1<sup>er</sup> juillet 2008[^47-2] Art. 16 à 18, 34, al. 1, let. e et f, et 39: 1<sup>er</sup> octobre 2009[^47-3]
 
-[^47-1]: [RS 510.622.4](https://fedlex.data.admin.ch/eli/cc/2009/553)
+[^47-1]: [RS 510.622.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7347)
 [^47-2]: ACF du 21 mai 2008
 [^47-3]: O du 2 sept. 2009 ([RO 2009 4721](https://fedlex.data.admin.ch/eli/oc/2009/552))
 
@@ -675,6 +680,6 @@ Le code civil[^annexu1-lvlu1-2] est modifié comme suit:
 
 …[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [RS **5** 675; [RO 1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 131]
-[^annexu1-lvlu1-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^annexu1-lvlu1-1]: [[RS 5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7227)675; [RO 1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 131]
+[^annexu1-lvlu1-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^annexu1-lvlu1-3]: La mod. peut être consultée au [RO 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388).
