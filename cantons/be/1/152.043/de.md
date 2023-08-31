@@ -4,13 +4,13 @@ number: "152.043"
 title: Einführungsverordnung zur EU-Datenschutzrichtlinie 2016/680 über den Schutz personenbezogener Daten
 short: "Einführungsverordnung zur EU-Datenschutzrichtlinie, EV EDS"
 language: de
-version: 2018-09-01
-valid_until: 2023-08-31
-version_adopted: 2018-07-04
+version: 2023-09-01
+valid_until: 2026-08-31
+version_adopted: 2023-08-23
 adopted: 2018-07-04
 in_force: 2018-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.043"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1493/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2857/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1493/pdf_file"
 
 (Einführungsverordnung zur EU-Datenschutzrichtlinie, EV EDS)
 
-vom 04.07.2018 (Stand 01.09.2018)
+vom 04.07.2018 (Stand 01.09.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -151,7 +151,7 @@ beschliesst:
 
 **Inkrafttreten und Befristung**
 
-<sup>1</sup> Diese Verordnung tritt am 1. September 2018 in Kraft und gilt bis zum 31. August 2023.
+<sup>1</sup> Diese Verordnung tritt am 1. September 2018 in Kraft und gilt bis zum 31. August 2026.
 
 Bern, 4. Juli 2018
 

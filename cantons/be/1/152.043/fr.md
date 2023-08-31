@@ -4,13 +4,13 @@ number: "152.043"
 title: Ordonnance portant introduction de la directive (UE) 2016/680 relative à la protection des données à caractère personnel
 short: OiDPD
 language: fr
-version: 2018-09-01
-valid_until: 2023-08-31
-version_adopted: 2018-07-04
+version: 2023-09-01
+valid_until: 2026-08-31
+version_adopted: 2023-08-23
 adopted: 2018-07-04
 in_force: 2018-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.043"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1493/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2857/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1493/pdf_file"
 
 (OiDPD)
 
-du 04.07.2018 (état au 01.09.2018)
+du 04.07.2018 (état au 01.09.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -151,7 +151,7 @@ arrête:
 
 **Entrée en vigueur et durée de validité**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2018. Sa validité est limitée au 31 août 2023.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2018. Sa validité est limitée au 31 août 2026.
 
 Berne, le 4 juillet 2018
 
