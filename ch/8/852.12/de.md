@@ -3,27 +3,28 @@ sr: "852.12"
 title: Verordnung vom 18. Juni 2021 über die konsularischen Informationssysteme des Eidgenössischen Departements für auswärtige Angelegenheiten
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/396"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2021-06-18
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-396-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-396-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die konsularischen Informationssysteme des Eidgenössischen Departements für auswärtige Angelegenheiten
 
-vom 18. Juni 2021 (Stand am 1. Januar 2022)
+vom 18. Juni 2021 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 6 des Bundesgesetzes vom 24. März 2000[^ingress-1] über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten und auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],
+gestützt auf Artikel 6 des Bundesgesetzes vom 24. März 2000[^ingress-1] über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten und auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Fassung gemäss Anhang 2 Ziff. II 124 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -56,7 +57,7 @@ Das EDAssist+ dient zur:
 - g. Verwaltung der Fallakten;
 - h. Erstellung von Statistiken.
 
-[^3-1]: [SR 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^3-1]: [SR 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
 
 #### Art. 4
 
@@ -254,7 +255,9 @@ Die KD erlässt für beide Informationssysteme ein Bearbeitungsreglement. Dieses
 
 <sup>1</sup> Die Zugriffe auf die Informationssysteme und die Bearbeitungen werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^25-1]
+
+[^25-1]: Fassung gemäss Anhang 2 Ziff. II 124 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 
@@ -413,8 +416,8 @@ Anhang 3
 - 7\. Geschlecht
 - 8\. Anrede
 - 9\. Nationalitäten
-- 10\. Angaben zu Mitreisenden: Anrede, Name, Vorname, Geburtsdatum, Nationalitäten, Wohnort, Land, E‑Mail, Telefonnummern
-- 11\. Notfalladresse: Anrede, Name, Vorname, Wohnort, Land, E‑Mail, Telefonnummern
+- 10\. Angaben zu Mitreisenden: Anrede, Name, Vorname, Geburtsdatum, Nationalitäten, Wohnort, Land, E-Mail, Telefonnummern
+- 11\. Notfalladresse: Anrede, Name, Vorname, Wohnort, Land, E-Mail, Telefonnummern
 - 12\. Angaben zu Reiseroute/-ort: Längen-/Breitengrad, Stadt, Adresse, Ländercode, Regionalcode
 - 13\. Zusatzinformation zum Reiseort
 - 14\. Angaben zur Dauer der Reisen / der Aufenthalte

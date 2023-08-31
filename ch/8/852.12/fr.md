@@ -3,27 +3,28 @@ sr: "852.12"
 title: Ordonnance du 18 juin 2021 sur les systèmes d’information consulaires du Département fédéral des affaires étrangères
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/396"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2021-06-18
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-396-20220101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-396-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les systèmes d’information consulaires du Département fédéral des affaires étrangères
 
-du 18 juin 2021 (État le 1<sup>er</sup> janvier 2022)
+du 18 juin 2021 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 6 de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^ingress-1], vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],
+vu l’art. 6 de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^ingress-1], vu l’art. 57*h*<sup>ter</sup> de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Nouvelle teneur selon l’annexe 2 ch. II 124 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 1 Dispositions générales
 
@@ -56,7 +57,7 @@ Le DFAE utilise le système EDAssist+ pour:
 - g. gérer les dossiers;
 - h. établir des statistiques.
 
-[^3-1]: [RS 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^3-1]: [RS 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
 
 #### Art. 4
 
@@ -75,7 +76,7 @@ Le système EDAssist+ se compose de quatre modules:
 
 Le module hotline contient des données sur les personnes suivantes:
 
-- a. les personnes visées à l’art. 4, al. 1 et 2, de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères qui sont portées disparues;
+- a. les personnes visées à l’art.4, al.1 et 2, de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères qui sont portées disparues;
 - b. les personnes ayant déposé un avis de recherche.
 
 #### Art. 6
@@ -254,7 +255,9 @@ La DC édicte pour les deux systèmes d’information un règlement relatif au t
 
 <sup>1</sup> Les accès aux systèmes d’information et les modifications qui y sont effectuées sont journalisés en permanence.
 
-<sup>2</sup> Les fichiers journaux sont conservés pendant un an.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^25-1]
+
+[^25-1]: Nouvelle teneur selon l’annexe 2 ch. II 124 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 6 Dispositions finales
 

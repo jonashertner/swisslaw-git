@@ -3,27 +3,28 @@ sr: "852.12"
 title: Ordinanza del 18 giugno 2021 sui sistemi d’informazione consolare del Dipartimento federale degli affari esteri
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/396"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2021-06-18
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-396-20220101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-396-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sui sistemi d’informazione consolare del Dipartimento federale degli affari esteri
 
-del 18 giugno 2021 (Stato 1° gennaio 2022)
+del 18 giugno 2021 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 6 della legge federale del 24 marzo 2000[^ingress-1] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri; visto l’articolo 57*h* capoverso 3 della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,
+visti l’articolo 6 della legge federale del 24 marzo 2000[^ingress-1] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri; visto l’articolo 57*h*<sup>ter</sup> della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Nuovo testo giusta l’all. 2 cifra II n. 124 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -56,7 +57,7 @@ EDAssist+ serve per:
 - g. gestire gli atti relativi ai casi;
 - h. elaborare statistiche.
 
-[^3-1]: [RS 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^3-1]: [RS 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
 
 #### Art. 4
 
@@ -254,7 +255,9 @@ La DC emana un regolamento per ciascuno dei due sistemi d’informazione. Il reg
 
 <sup>1</sup> Gli accessi ai sistemi d’informazione e il trattamento dei dati sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati per un anno.
+<sup>2</sup> I verbali sono conservati per per un anno, separatamente dal sistema in cui sono trattati i dati personali.[^25-1]
+
+[^25-1]: Nuovo testo giusta l’all. 2 cifra II n. 124 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 6: Disposizioni finali
 
@@ -282,7 +285,7 @@ Allegato 1[^t-1]
 
 ## Dati personali trattati in EDAssist+
 
-[^t-1]: Aggiornato dall’all. n. II 43 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-1]: Aggiornato dall’all. cifra II n. 43 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1. Hotline
 
@@ -392,7 +395,7 @@ Allegato 2[^t-2]
 
 ## Elenco dati interfacce
 
-[^t-2]: Aggiornato dall’all. n. II 43 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-2]: Aggiornato dall’all. cifra II n. 43 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 <table>
 <tr><th>Sistema d’informazione</th><th>Dati personali</th></tr>
@@ -415,8 +418,8 @@ Allegato 3
 - 7\. Sesso
 - 8\. Appellativo
 - 9\. Nazionalità
-- 10\. Dati sui compagni di viaggio: appellativo, cognomi, nomi, data di nascita, nazionalità, luogo di domicilio, Paese, e‑mail, numeri di telefono
-- 11\. Indirizzo di emergenza: appellativo, cognomi, nomi, luogo di domicilio, Paese, e‑mail, numeri di telefono
+- 10\. Dati sui compagni di viaggio: appellativo, cognomi, nomi, data di nascita, nazionalità, luogo di domicilio, Paese, e-mail, numeri di telefono
+- 11\. Indirizzo di emergenza: appellativo, cognomi, nomi, luogo di domicilio, Paese, e-mail, numeri di telefono
 - 12\. Dettagli relativi all’itinerario/destinazione: longitudine/latitudine, città, indirizzo, codice Paese, codice regionale
 - 13\. Informazioni aggiuntive sulla destinazione
 - 14\. Informazioni sulla durata del viaggio/del soggiorno
