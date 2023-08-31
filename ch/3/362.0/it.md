@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordinanza dell' 8 marzo 2013 sulla parte nazionale del Sistema d'informazione di Schengen (N-SIS) e sull'ufficio SIRENE (Ordinanza N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: it
-version: 2022-11-22
+version: 2023-09-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20221122/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20221122-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20221122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20221122/it"
 
 (Ordinanza N-SIS)
 
-dell’8 marzo 2013 (Stato 22 novembre 2022)
+dell’8 marzo 2013 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -93,6 +93,7 @@ Nella presente ordinanza s’intende per:
 - j.[^2-4] *immagine del viso**:* le immagini digitali del volto caratterizzate da sufficiente risoluzione e qualità dell’immagine per essere utilizzate in un raffronto biometrico automatizzato;
 - k.[^2-5] *fotografia:* un’immagine digitale;
 - l.[^2-6] *Stato Schengen**:* uno Stato vincolato da uno degli accordi di associazione a Schengen[^2-7];
+
 - [tab] m.[^2-8] *reati di terrorismo**:* i reati elencati nell’allegato 1*a*;
 - n.[^2-9] *altri reati gravi**:* i reati elencati nell’allegato 1*b*.
 
@@ -453,11 +454,12 @@ Per adempiere i propri compiti, l’ufficio SIRENE può, nell’ambito dei suoi 
 - d. sistema di gestione delle pratiche e degli atti dell’ufficio SIRENE;
 - e. VOSTRA;
 - f. sistema informatizzato di gestione e indice informatizzato delle persone e dei fascicoli dell’Ufficio federale di polizia (IPAS);
-- g. sistema d’informazione della Polizia giudiziaria federale (JANUS);
+- g.[^9a-2] sistema nazionale di indagine;
 - h. sistema nazionale d’informazione visti (ORBIS); e
 - i. banca dati Automated Search Facility di Interpol (ASF).
 
 [^9a-1]: Introdotto dal n. I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^9a-2]: Nuovo testo giusta l’all. 3 n. 4 dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## Capitolo 5: N-SIS
 
@@ -1491,7 +1493,7 @@ Sono allestite statistiche separate:
 
 **Esercizio del diritto di informazione, di rettifica o di cancellazione**
 
-<sup>1</sup> Una persona che intende esercitare il proprio diritto di informazione, di rettifica o di cancellazione deve comprovare la propria identità e presentare una richiesta scritta a fedpol.
+<sup>1</sup> Una persona che intende esercitare il proprio diritto d’accesso presenta una richiesta a fedpol nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^50-1] sulla protezione dei dati (OPDa). La pretesa di altri diritti della persona interessata è retta dall’articolo 41 della legge federale del 25 settembre 2020[^50-2] sulla protezione dei dati (LPD).[^50-3]
 
 <sup>2</sup> Fedpol decide in merito alla richiesta dopo aver consultato l’autorità segnalante. Decide in merito a una richiesta che riguarda una segnalazione in entrata dopo aver permesso allo Stato Schengen autore della segnalazione di esprimere un parere.
 
@@ -1501,11 +1503,18 @@ Sono allestite statistiche separate:
 
 <sup>5</sup> Se una persona presenta una richiesta di rettifica o di cancellazione, dev’essere informata sulle misure adottate al più tardi tre mesi dopo la ricezione della sua richiesta.
 
+<sup>6</sup> È fatto salvo l’articolo 8*a* LSIP per la restrizione del diritto d’accesso in caso di segnalazioni per l’arresto a scopo di estradizione.[^50-4]
+
+[^50-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^50-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^50-3]: Nuovo testo giusta l’all. 2 n. II 46 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^50-4]: Introdotto dall’all. 2 n. II 46 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 51
 
 **Diritto di informazione in caso di segnalazione ai fini del rimpatrio o della non ammissione e del divieto di soggiorno[^51-1]**
 
-<sup>1</sup> I cittadini di Stati terzi oggetto di una segnalazione ai fini del rimpatrio o della non ammissione e del divieto di soggiorno ricevono d’ufficio le informazioni di cui all’articolo 14 della legge federale del 19 giugno 1992[^51-2] sulla protezione dei dati (LPD).[^51-3]
+<sup>1</sup> I cittadini di Stati terzi oggetto di una segnalazione ai fini della non ammissione e del divieto di soggiorno ricevono d’ufficio le informazioni di cui all’articolo 25 LPD[^51-2].[^51-3]
 
 <sup>2</sup> **Art. 51***a*[^51-4] Relazione al Comitato europeo per la protezione dei dati
 
@@ -1515,15 +1524,16 @@ Fedpol presenta al Comitato europeo per la protezione dei dati una relazione ann
 
 - a. i dati personali non sono stati raccolti presso il cittadino interessato dello Stato terzo e informarlo si rivela impossibile o richiede sforzi sproporzionati;
 - b. il cittadino interessato dello Stato terzo è già informato; o
-- c. è prevista una limitazione del diritto di informazione ai sensi dell’articolo 9 LPD.
+- c.[^51-8] è prevista una limitazione del diritto di informazione ai sensi dell’articolo 26 LPD.
 
 [^51-1]: Nuovo testo giusta il n. I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^51-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^51-3]: Nuovo testo giusta il n. I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^51-3]: Nuovo testo giusta l’all. 2 n. II 46 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^51-4]: Introdotto dal n. I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^51-5]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 2
 [^51-6]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 2
 [^51-7]: Cfr. nota a piè di pagina relativa all’art. 43 cpv. 1
+[^51-8]: Nuovo testo giusta l’all. 2 n. II 46 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 52
 
@@ -1543,16 +1553,17 @@ La responsabilità per danni correlati alla gestione del SIS è retta dagli arti
 
 La sicurezza dei dati è retta da:
 
-- a. l’ordinanza del 14 giugno 1993[^53-1] relativa alla legge federale sulla protezione dei dati;
-- b.[^53-2] l’ordinanza del 27 maggio 2020[^53-3] sui ciber-rischi;
-- c.[^53-4] ...
+- a.[^53-1] l’OPDa[^53-2];
+- b.[^53-3] l’ordinanza del 27 maggio 2020[^53-4] sui ciber-rischi;
+- c.[^53-5] ...
 
 <sup>2</sup> Fedpol statuisce nel regolamento sul trattamento dei dati di cui all’articolo 3 capoverso 2 le misure organizzative e tecniche da adottare per evitare il trattamento non autorizzato dei dati e disciplina la verbalizzazione automatica del trattamento e della consultazione dei dati.
 
-[^53-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^53-2]: Nuovo testo giusta l’all. n. 12 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^53-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^53-4]: Abrogata dall’all. n. 22 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^53-1]: Nuovo testo giusta l’all. 2 n. II 46 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^53-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^53-3]: Nuovo testo giusta l’all. n. 12 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^53-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^53-5]: Abrogata dall’all. n. 22 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 53a
 

@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordonnance du 8 mars 2013 sur la partie nationale du Système d'information Schengen (N-SIS) et sur le bureau SIRENE (Ordonnance N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: fr
-version: 2022-11-22
+version: 2023-09-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20221122-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20221122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20221122/fr"
 
 (Ordonnance N-SIS)
 
-du 8 mars 2013 (État le 22 novembre 2022)
+du 8 mars 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -359,9 +359,9 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 - a.[^7b-4] les détails techniques des profils des utilisateurs du portail de recherche européen (ESP; art. 8, par. 2, des règlements [UE] 2019/817 et [UE] 2019/818);
 - b. les règles permettant de créer des liens entre les données de différents systèmes d’information (art. 28, par. 7, des règlements (UE) 2019/817 et (UE) 2019/818);
 - c. les modalités de la procédure de coopération entre les États Schengen concernés, l’unité centrale ETIAS, Europol et l’eu-LISA en cas d’incident de sécurité (art. 43, par. 5, des règlements (UE) 2019/817 et (UE) 2019/818);
-- d.[^7b-5] la procédure technique permettant à l'ESP d'interroger les systèmes d’information Schengen/Dublin et de leurs composants, les données d'Europol et les bases de données d'Interpol ainsi que de déterminer le format des réponses de l’ESP (art. 9, par. 7, des règlements [UE] 2019/817 et [UE] 2019/818);
+- d.[^7b-5] la procédure technique permettant à l’ESP d’interroger les systèmes d’information Schengen/Dublin et de leurs composants, les données d’Europol et les bases de données d’Interpol ainsi que de déterminer le format des réponses de l’ESP (art. 9, par. 7, des règlements [UE] 2019/817 et [UE] 2019/818);
 - e.[^7b-6] les exigences relatives aux performances et les modalités pratiques pour le suivi des performances du Service partagé d’établissement de correspondances biométriques (art. 13 par. 5 des règlements [UE] 2019/817 et [UE] 2019/818);
-- f.[^7b-7] les spécifications de la solution technique permettant de gérer les demandes d'accès des utilisateurs et de faciliter la collecte des informations aux fins de l’établissement de rapports et des statistiques (art. 74, par. 10, du règlement [UE] 2019/818 et art. 78 par. 10 du règlement [UE] 2019/817).
+- f.[^7b-7] les spécifications de la solution technique permettant de gérer les demandes d’accès des utilisateurs et de faciliter la collecte des informations aux fins de l’établissement de rapports et des statistiques (art. 74, par. 10, du règlement [UE] 2019/818 et art. 78 par. 10 du règlement [UE] 2019/817).
 
 <sup>2</sup> Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne, pour autant que ces actes constituent des traités internationaux de portée mineure au sens de l’art. 7*a* LOGA et qu’ils soient édictés sur la base de l’art. 39. par. 5, des règlements (UE) 2019/817 et (UE) 2019/818, et qu’ils fixent le fonctionnement du répertoire central des rapports et statistiques (CRRS), notamment des garanties spécifiques pour le traitement des données à caractère personnel, ainsi que des règles de sécurité applicables au répertoire.[^7b-8]
 
@@ -449,11 +449,12 @@ Afin d’accomplir ses tâches, le bureau SIRENE est habilité à vérifier par 
 - d. le système de gestion des affaires et des dossiers du bureau SIRENE;
 - e. le VOSTRA;
 - f. le système informatisé de gestion et d’indexation de dossiers et de personnes de l’Office fédéral de la police (IPAS);
-- g. le système informatisé de la Police judiciaire fédérale (JANUS);
+- g.[^9a-2] le Système national d’enquête;
 - h. le système national d’information sur les visas (ORBIS);
 - i. la banque de données Automated Search Facility d’Interpol (ASF).
 
 [^9a-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^9a-2]: Nouvelle teneur selon l’annexe 3 ch. 4 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## Chapitre 5 N-SIS
 
@@ -698,7 +699,7 @@ Le bureau SIRENE agit sans délai dans les cas suivants:
 
 <sup>1</sup> Les autorités saisissent les signalements de personnes dans le RIPOL ou dans le SYMIC et transmettent au bureau SIRENE toutes les informations supplémentaires pertinentes.[^16-1]
 
-<sup>2</sup> ...[^16-2]
+<sup>2</sup> …[^16-2]
 
 <sup>3</sup> Dans les cas urgents, les autorités visées à l’al. 1 s’adressent directement au bureau SIRENE.
 
@@ -1487,9 +1488,9 @@ Il convient de tenir des statistiques distinctes:
 
 #### Art. 50
 
-**Exercice du droit à l’information, à la rectification ou à l’effacement de données**
+**Exercice du droit d’accès aux données, du droit à la rectification ou à l’effacement de données[^50-1]**
 
-<sup>1</sup> Si une personne veut faire valoir son droit à l’information, à la rectification ou à l’effacement de données, elle doit justifier de son identité et présenter une demande écrite à fedpol.
+<sup>1</sup> Si une personne veut faire valoir son droit d’accès aux données, elle doit présenter une demande à fedpol dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^50-2]. L’exercice d’autres droits par la personne concernée est régi par l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^50-3].[^50-4]
 
 <sup>2</sup> Fedpol traite la demande après avoir consulté l’autorité signalante. Pour les demandes liées à des signalements entrants, il prend sa décision après avoir permis à l’État Schengen qui a émis le signalement de se prononcer.
 
@@ -1499,11 +1500,19 @@ Il convient de tenir des statistiques distinctes:
 
 <sup>5</sup> Si une personne dépose une demande de rectification ou d’effacement de données, elle doit être informée des mesures mises en œuvre au plus tard trois mois après le dépôt de la demande.
 
+<sup>6</sup> L’art. 8*a* LSIP sur la restriction du droit d’accès aux signalements en vue d’une arrestation aux fins d’extradition est réservé.[^50-5]
+
+[^50-1]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^50-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^50-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^50-4]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^50-5]: Introduit par l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 51
 
 **Droit d’être informé en cas de signalement aux fins de retour ou de non-admission et d’interdiction de séjour[^51-1]**
 
-<sup>1</sup> Les ressortissants d’États tiers qui font l’objet d’un signalement aux fins de retour ou de non-admission et d’interdiction de séjour reçoivent d’office les informations mentionnées à l’art. 14 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^51-2].[^51-3]
+<sup>1</sup> Les ressortissants d’États tiers qui font l’objet d’un signalement aux fins de non-admission ou d’interdiction de séjour reçoivent d’office les informations mentionnées à l’art. 25 LPD[^51-2].[^51-3]
 
 <sup>2</sup>
 
@@ -1511,11 +1520,12 @@ La communication des informations selon l’al. 1 n’est pas nécessaire dans l
 
 - a. les données personnelles n’ont pas été collectées auprès du ressortissant de l’État tiers concerné et l’information de la personne concernée se révèle impossible ou implique des efforts disproportionnés;
 - b. le ressortissant de l’État tiers concerné dispose déjà des informations;
-- c. une restriction du droit à l’information conformément à l’art. 9 LPD est prévue.
+- c.[^51-4] une restriction du droit à l’information conformément à l’art. 26 LPD est prévue.
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^51-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^51-3]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^51-3]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^51-4]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 51a
 
@@ -1546,16 +1556,17 @@ La responsabilité en cas de dommages liés à l’exploitation du SIS se fonde 
 
 La sécurité des données se fonde sur:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^53-1];
-- b.[^53-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^53-3];
-- c.[^53-4] ...
+- a.[^53-1] l’OPDo[^53-2];
+- b.[^53-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^53-4];
+- c.[^53-5] …
 
 <sup>2</sup> Fedpol fixe les mesures organisationnelles et techniques prévues pour prévenir un traitement indu des données dans le règlement de traitement visé à l’art. 3, al. 2, et règle la journalisation automatique du traitement et de la consultation des données.
 
-[^53-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^53-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^53-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^53-4]: Abrogée par l’annexe ch. 22 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^53-1]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^53-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^53-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^53-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^53-5]: Abrogée par l’annexe ch. 22 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 53a
 
@@ -1613,7 +1624,7 @@ Le DFJP peut adapter les annexes en accord avec les départements concernés.
 
 L’ordonnance du 7 mai 2008 sur la partie nationale du Système d’information Schengen (N-SIS) et sur le bureau SIRENE[^57-1] est abrogée.
 
-[^57-1]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18]
+[^57-1]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18]
 
 #### Art. 58
 

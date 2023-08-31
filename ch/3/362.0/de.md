@@ -3,11 +3,11 @@ sr: "362.0"
 title: Verordnung vom 8. März 2013 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: de
-version: 2022-11-22
+version: 2023-09-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20221122-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20221122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20221122/de"
 
 (N-SIS-Verordnung)
 
-vom 8. März 2013 (Stand am 22. November 2022)
+vom 8. März 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -442,11 +442,12 @@ Das SIRENE-Büro kann zur Erfüllung seiner Aufgaben im Rahmen seiner Zugriffsre
 - d. im Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros;
 - e. im VOSTRA;
 - f. im informatisierten Personennachweis-, Aktennachweis- und Verwaltungssystem des Bundesamts für Polizei (IPAS);
-- g. im Informationssystem der Bundeskriminalpolizei (JANUS);
+- g.[^9a-2] im nationalen Ermittlungssystem;
 - h. im nationalen Visumsystem (ORBIS); und
 - i. in der Datenbank Automated Search Facility von Interpol (ASF).
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^9a-2]: Fassung gemäss Anhang 3 Ziff. 4 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## 5. Kapitel: N-SIS
 
@@ -1483,7 +1484,7 @@ Separate Statistiken sind zu erstellen:
 
 **Geltendmachung des Auskunfts-, Berichtigungs- oder Löschungsrechts**
 
-<sup>1</sup> Will eine Person ihr Auskunfts-, Berichtigungs- oder Löschungsrecht geltend machen, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch bei fedpol einzureichen.
+<sup>1</sup> Will eine Person ihr Auskunftsrecht geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^50-1] (DSV) ein Gesuch bei fedpol einreichen. Die Geltendmachung weiterer Ansprüche durch die betroffene Person richtet sich nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020[^50-2] (DSG).[^50-3]
 
 <sup>2</sup> Fedpol entscheidet über das Gesuch nach Rücksprache mit der ausschreibenden Behörde. Über ein Gesuch im Zusammenhang mit eingehenden Ausschreibungen entscheidet fedpol, nachdem es dem ausschreibenden Schengen-Staat Gelegenheit zur Stellungnahme gegeben hat.
 
@@ -1493,11 +1494,18 @@ Separate Statistiken sind zu erstellen:
 
 <sup>5</sup> Stellt eine Person ein Gesuch um Berichtigung oder Löschung, so ist sie spätestens drei Monate nach Eingang ihres Gesuchs über die getroffenen Massnahmen zu informieren.
 
+<sup>6</sup> Artikel 8*a* BPI bleibt vorbehalten für die Einschränkung des Auskunftsrechts betreffend die Ausschreibung zur Festnahme zum Zweck der Auslieferung.[^50-4]
+
+[^50-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^50-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^50-3]: Fassung gemäss Anhang 2 Ziff. II 46 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^50-4]: Eingefügt durch Anhang 2 Ziff. II 46 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 51
 
 **Recht auf Information bei der Ausschreibung zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung[^51-1]**
 
-<sup>1</sup> Drittstaatsangehörige, die Gegenstand einer Ausschreibung zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung sind, erhalten von Amtes wegen die in Artikel 14 des Bundesgesetzes vom 19. Juni 1992[^51-2] über den Datenschutz (DSG) genannten Informationen.[^51-3]
+<sup>1</sup> Drittstaatsangehörige, die Gegenstand einer Ausschreibung zur Einreise- und Aufenthaltsverweigerung sind, erhalten von Amtes wegen die in Artikel 25 DSG[^51-2] genannten Informationen.[^51-3]
 
 <sup>2</sup>
 
@@ -1505,11 +1513,12 @@ Die Auskunftserteilung nach Absatz 1 kann unterbleiben, wenn:
 
 - a. die Personendaten nicht bei dem oder der betroffenen Drittstaatsangehörigen erhoben wurden und die Information der betroffenen Person unmöglich ist oder unverhältnismässigen Aufwand erfordert;
 - b. der oder die betroffene Drittstaatsangehörige bereits über die Informationen verfügt; oder
-- c. eine Einschränkung des Rechts auf Information nach Artikel 9 DSG vorgesehen ist.
+- c.[^51-4] eine Einschränkung des Rechts auf Information nach Artikel 26 DSG vorgesehen ist.
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^51-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^51-3]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^51-3]: Fassung gemäss Anhang 2 Ziff. II 46 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^51-4]: Fassung gemäss Anhang 2 Ziff. II 46 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 51a
 
@@ -1540,16 +1549,17 @@ Die Haftung für Schäden im Zusammenhang mit dem Betrieb des SIS richtet sich n
 
 Die Datensicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^53-1] zum Bundesgesetz über den Datenschutz;
-- b.[^53-2] der Cyberrisikenverordnung vom 27. Mai 2020[^53-3];
-- c.[^53-4] …
+- a.[^53-1] der DSV[^53-2];
+- b.[^53-3] der Cyberrisikenverordnung vom 27. Mai 2020[^53-4];
+- c.[^53-5] …
 
 <sup>2</sup> Fedpol legt im Bearbeitungsreglement nach Artikel 3 Absatz 2 die organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten der Daten fest und regelt die automatische Protokollierung der Datenbearbeitung und der Dateneinsicht.
 
-[^53-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^53-2]: Fassung gemäss Anhang Ziff. 12 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^53-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^53-4]: Aufgehoben durch Anhang Ziff. 22 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^53-1]: Fassung gemäss Anhang 2 Ziff. II 46 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^53-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^53-3]: Fassung gemäss Anhang Ziff. 12 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^53-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^53-5]: Aufgehoben durch Anhang Ziff. 22 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 53a
 
@@ -1653,7 +1663,7 @@ Anhang 1b[^t-3]
 
 (Art. 2 Bst. n)
 
-## [Straftaten nach schweizerischem Recht, die denjenigen des Rahmenbeschlusses 2002/584/JI](https://www.admin.ch/opc/de/classified-compilation/20092598/index.html) [entsprechen oder gleichwertig sind](https://www.admin.ch/opc/de/classified-compilation/20092598/index.html)
+## Straftaten nach schweizerischem Recht, die denjenigen des Rahmenbeschlusses 2002/584/JI entsprechen oder gleichwertig sind
 
 [^annex1b-lvlu1-1]
 
