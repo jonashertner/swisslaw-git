@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul sistema d'informazione per il sett
 short: LSISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230123-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230901-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230123/it"
 
 (LSISA)
 
-del 20 giugno 2003 (Stato 23 gennaio 2023)
+del 20 giugno 2003 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -154,7 +154,7 @@ Il sistema d’informazione contiene:[^4-1]
 - e.[^4-7] registrazioni sonore per perizie linguistiche nel settore dell’asilo;
 - f.[^4-8] l’annotazione «caso medico», in vista della ripartizione dei richiedenti l’asilo tra i Cantoni.[^4-9]
 
-<sup>2</sup> Nel sistema d’informazione possono essere trattati dati personali degni di particolare protezione e profili della personalità giusta l’articolo 3 lettere c e d della legge federale del 19 giugno 1992[^4-10] sulla protezione dei dati (LPD), nella misura in cui ciò sia indispensabile all’adempimento dei compiti di cui all’articolo 3.
+<sup>2</sup> Nel sistema d’informazione possono essere trattati dati personali degni di particolare protezione giusta l’articolo 5 lettera c della legge federale del 25 settembre 2020[^4-10] sulla protezione dei dati (LPD), nella misura in cui ciò sia indispensabile all’adempimento dei compiti di cui all’articolo 3 della presente legge.[^4-11]
 
 [^4-1]: Nuovo testo giusta l’art. 2 n. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dall’11 ott. 2011 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^4-2]: Nuovo testo giusta l’art. 2 n. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dall’11 ott. 2011 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
@@ -166,6 +166,7 @@ Il sistema d’informazione contiene:[^4-1]
 [^4-8]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-9]: Nuovo testo giusta il n. I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^4-10]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-11]: Nuovo testo giusta l’all. 1 n. II 6 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
 
@@ -182,11 +183,11 @@ Il sistema d’informazione contiene:[^4-1]
 
 **Diritto d’accesso e diritto di rettifica**[^6-1]
 
-<sup>1</sup> Le richieste d’accesso ai dati personali (art. 8 LPD[^6-2]) e di rettifica (art. 5 cpv. 2 LPD) vanno indirizzate alla SEM.
+<sup>1</sup> Le richieste d’accesso ai dati personali (art. 25 LPD[^6-2]) e di rettifica (art. 41 cpv. 2 lett. a LPD) vanno indirizzate alla SEM.
 
-<sup>2</sup> I ricorsi sono retti dall’articolo 25 LPD; vanno interposti alla SEM.
+<sup>2</sup> I ricorsi sono retti dall’articolo 41 LPD; vanno indirizzati alla SEM.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
+[^6-1]: Nuovo testo giusta l’all. 1 n. II 6 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Sezione 2: Trattamento dei dati
@@ -197,7 +198,7 @@ Il sistema d’informazione contiene:[^4-1]
 
 <sup>1</sup> La SEM, in collaborazione con i servizi federali di cui all’articolo 9 capoverso 1 lettere e ed f, nonché capoverso 2 lettera e, come pure con i Cantoni, tratta i dati personali nel sistema d’informazione.[^7-1]
 
-<sup>2</sup> Si accerta dell’esattezza dei dati personali da esso trattati (art. 5 LPD[^7-2]).[^7-3]
+<sup>2</sup> Si accerta dell’esattezza dei dati personali da essa trattati (art. 6 cpv. 5 LPD[^7-2]).[^7-3]
 
 <sup>3</sup> Secondo l’accordo del 6 novembre 1963[^7-4] tra la Svizzera e il Principato del Liechtenstein sul trattamento dei cittadini di un terzo Stato nel Principato del Liechtenstein per quanto concerne la polizia degli stranieri e sulla collaborazione nell’ambito di quest’ultima, le autorità del Principato del Liechtenstein competenti in materia di stranieri sono considerate come autorità cantonali.
 
@@ -205,7 +206,7 @@ Il sistema d’informazione contiene:[^4-1]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^7-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-3]: Nuovo testo giusta il n. I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
+[^7-3]: Nuovo testo giusta l’all. 1 n. II 6 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^7-4]: [RS 0.142.115.143](https://fedlex.data.admin.ch/eli/cc/1964/5_5_5)
 
 #### Art. 7a
@@ -333,10 +334,7 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 - i.[^9-28] uffici dello stato civile e relative autorità di vigilanza: per l’identificazione delle persone in relazione con eventi di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica nonché per evitare l’elusione del diritto in materia di stranieri giusta gli articoli 97*a* capoverso 1 del Codice civile e 6 capoverso 2 della legge del 18 giugno 2004 sull’unione domestica registrata;
 - j.[^9-29] Servizio di protezione dei testimoni della Confederazione conformemente alla legge federale del 23 dicembre 2011 sulla protezione extraprocessuale dei testimoni, per adempiere i suoi compiti;
 - k.[^9-30] autorità competenti in materia di visti, per verificare se un richiedente il visto è o è stato oggetto di una procedura d’asilo;
-- l.[^9-31] Servizio delle attività informative della Confederazione, esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a LAIn, nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi dell’articolo 14 lettera d LCit, nonché della LStrI e della LAsi;
-- m.[^9-32] servizio incaricato dell’allestimento dei documenti di viaggio;
-- n.[^9-33] autorità o servizi designati dai Cantoni, per la ricezione delle domande di rilascio di documenti di viaggio;
-- o.[^9-34] autorità o servizi designati dai Cantoni, per la registrazione dell’immagine del viso e delle impronte digitali in relazione al rilascio di documenti di viaggio.
+- l.[^9-31] Servizio delle attività informative della Confederazione, esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a LAIn, nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi dell’articolo 14 lettera d LCit, nonché della LStrI e della LAsi.
 
 [^9-1]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-2]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
@@ -369,9 +367,6 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 [^9-29]: Introdotta dall’all. n. 2 della LF del 23 dic. 2011 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
 [^9-30]: Introdotta dall’all. n. 2 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^9-31]: Introdotta dall’all. n. II 2 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^9-32]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-33]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-34]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 #### Art. 10
 
@@ -456,24 +451,22 @@ Nel caso specifico, la SEM può, su richiesta scritta e motivata, comunicare ad 
 
 **Comunicazione all’estero**[^15-1]
 
-La comunicazione di dati all’estero è retta dall’articolo 6 LPD[^15-2], dagli articoli 105–107, 111*a*–111*d*, 111*i* LStrI[^15-3] nonché dagli articoli 97, 98, 102*a*<sup>bis</sup> [^15-4], 102*b* e 102*c*[^15-5] LAsi[^15-6].
+La comunicazione di dati personali all’estero è retta dagli articoli 16 e 17 LPD[^15-2], 105–107, 111*a*–111*d* e 111*i* LStrI[^15-3] nonché 97, 98, 102*a*<sup>bis</sup>, 102*b* e 102*c* LAsi[^15-4].
 
-[^15-1]: Nuovo testo giusta l’all. n. 2 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c).
+[^15-1]: Nuovo testo giusta l’all. 1 n. II 6 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^15-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758); vedi anche art. 127 LStrI.
-[^15-4]: Vedi [RS 362](https://fedlex.data.admin.ch/eli/cc/2008/112)art. 3 n. 2 e cifra V della mod. del 16 dic. 2005 della LAsi ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727)).
-[^15-5]: Vedi [RS 362](https://fedlex.data.admin.ch/eli/cc/2008/112)art. 3 n. 2.
-[^15-6]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^15-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758); cfr. anche art. 127 LStrI
+[^15-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 ## Sezione 5: Disposizioni esecutive
 
 #### Art. 16
 
-**Obbligo di vigilanza dell’organo di controllo cantonale**
+**Obbligo di vigilanza delle autorità cantonali della protezione dei dati**[^16-1]
 
-L’organo di controllo cantonale (art. 37 cpv. 2 LPD[^16-1]) sorveglia che sia rispettata la protezione dei dati nella sua sfera di competenza.
+Le autorità cantonali della protezione dei dati vigilano sul rispetto della protezione dei dati nella loro sfera di competenza.
 
-[^16-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-1]: Nuovo testo giusta l’all. 1 n. II 6 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 

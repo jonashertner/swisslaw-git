@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausl
 short: BGIAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230123-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230901-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230123/de"
 
 (BGIAA)
 
-vom 20. Juni 2003 (Stand am 23. Januar 2023)
+vom 20. Juni 2003 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -154,7 +154,7 @@ Das Informationssystem enthält:
 - e.[^4-4] Audioaufzeichnungen für Sprachgutachten im Asylbereich;
 - f.[^4-5] den Vermerk «Medizinalfall», um die Asylsuchenden auf die Kantone zu verteilen.[^4-6]
 
-<sup>2</sup> Im Informationssystem können besonders schützenswerte Personendaten und Persönlichkeitsprofile nach Artikel 3 Buchstaben c und d des Bundesgesetzes vom 19. Juni 1992[^4-7] über den Datenschutz (DSG) bearbeitet werden, soweit dies zur Erfüllung der Aufgaben nach Artikel 3 unerlässlich ist.
+<sup>2</sup> Im Informationssystem können besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^4-7] (DSG) bearbeitet werden, sofern dies zur Erfüllung der Aufgaben nach Artikel 3 dieses Gesetzes unerlässlich ist.[^4-8]
 
 [^4-1]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis) ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-2]: Aufgehoben durch Art. 2 Ziff. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), mit Wirkung seit 20. Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
@@ -163,6 +163,7 @@ Das Informationssystem enthält:
 [^4-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-6]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^4-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-8]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
 
@@ -180,11 +181,11 @@ Das Informationssystem enthält:
 
 **Auskunfts- und Berichtigungsrecht**[^6-1]
 
-<sup>1</sup> Begehren um Auskunft über Personendaten (Art. 8 DSG[^6-2]) und um Berichtigung (Art. 5 Abs. 2 DSG) sind an das SEM zu richten.
+<sup>1</sup> Begehren um Auskunft über Personendaten (Art. 25 DSG[^6-2]) und um Berichtigung (Art. 41 Abs. 2 Bst. a DSG) sind an das SEM zu richten.
 
-<sup>2</sup> Beschwerden richten sich nach Artikel 25 DSG; sie sind beim SEM einzureichen.
+<sup>2</sup> Beschwerden richten sich nach Artikel 41 DSG; sie sind beim SEM einzureichen.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
+[^6-1]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^6-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## 2. Abschnitt: Bearbeitung von Daten
@@ -195,7 +196,7 @@ Das Informationssystem enthält:
 
 <sup>1</sup> Das SEM bearbeitet in Zusammenarbeit mit den in Artikel 9 Absätze 1 Buchstaben e und f sowie 2 Buchstabe e aufgeführten Stellen und unter Mitwirkung der Kantone Personendaten im Informationssystem.[^7-1]
 
-<sup>2</sup> Es vergewissert sich, ob die von ihm bearbeiteten Personendaten richtig sind (Art. 5 DSG[^7-2]).[^7-3]
+<sup>2</sup> Es vergewissert sich, ob die von ihm bearbeiteten Personendaten richtig sind (Art. 6 Abs. 5 DSG[^7-2]).[^7-3]
 
 <sup>3</sup> Nach der Vereinbarung vom 6. November 1963[^7-4] zwischen der Schweiz und dem Fürstentum Liechtenstein über die Handhabung der Fremdenpolizei für Drittausländer im Fürstentum Liechtenstein und über die fremdenpolizeiliche Zusammenarbeit werden die zuständigen Behörden des Fürstentums Liechtenstein im Bereich der Fremdenpolizei wie kantonale Behörden behandelt.
 
@@ -203,7 +204,7 @@ Das Informationssystem enthält:
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^7-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-3]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
+[^7-3]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^7-4]: [SR 0.142.115.143](https://fedlex.data.admin.ch/eli/cc/1964/5_5_5)
 
 #### Art. 7a
@@ -448,24 +449,22 @@ Das SEM kann auf schriftliches und begründetes Gesuch hin im Einzelfall weitere
 
 **Bekanntgabe ins Ausland**[^15-1]
 
-Die Bekanntgabe von Daten ins Ausland richtet sich nach Artikel 6 DSG[^15-2], den Artikeln 105–107, 111*a*–111*d* und 111*i* AIG[^15-3] sowie den Artikeln 97, 98, 102*a*<sup>bis</sup> [^15-4], 102*b* und 102*c*[^15-5] AsylG[^15-6].
+Die Bekanntgabe von Personendaten ins Ausland richtet sich nach den Artikeln 16 und 17 DSG[^15-2], den Artikeln 105–107, 111*a*–111*d* und 111*i* AIG[^15-3] sowie den Artikeln 97, 98, 102*a*<sup>bis</sup>, 102*b* und 102*c* AsylG[^15-4].
 
-[^15-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^15-1]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^15-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^15-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758); siehe auch Art. 127 AIG
-[^15-4]: Siehe [SR 362](https://fedlex.data.admin.ch/eli/cc/2008/112)Art. 3 Ziff. 2 und Ziff. V der Änd. vom 16. Dez. 2005 des AsylG ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727))
-[^15-5]: Siehe [SR 362](https://fedlex.data.admin.ch/eli/cc/2008/112)Art. 3 Ziff. 2
-[^15-6]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^15-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 ## 5. Abschnitt: Vollzugsbestimmungen
 
 #### Art. 16
 
-**Aufsichtspflicht des kantonalen Kontrollorgans**
+**Aufsichtspflicht der kantonalen Datenschutzbehörden**[^16-1]
 
-Das kantonale Kontrollorgan (Art. 37 Abs. 2 DSG[^16-1]) überwacht in seinem Zuständigkeitsbereich die Einhaltung des Datenschutzes.
+Die kantonalen Datenschutzbehörden überwachen in ihrem Zuständigkeitsbereich die Einhaltung des Datenschutzes.
 
-[^16-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-1]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 

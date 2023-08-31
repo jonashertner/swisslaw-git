@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 sur le système d'information commun aux 
 short: LDEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230123-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230901-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230123/fr"
 
 (LDEA)
 
-du 20 juin 2003 (État le 23 janvier 2023)
+du 20 juin 2003 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -153,7 +153,7 @@ Le système d’information contient:
 - e.[^4-4] les enregistrements sonores aux fins d’expertises linguistiques relevant du domaine de l’asile;
 - f.[^4-5] la mention «cas médical» en vue de la répartition des requérants d’asile entre les cantons.[^4-6]
 
-<sup>2</sup> Les données sensibles et les profils de la personnalité au sens de l’art. 3, let. c et d, de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^4-7] peuvent être traités dans le système d’information pour autant que l’accomplissement des tâches mentionnées à l’art. 3 en dépende.
+<sup>2</sup> Les données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^4-7] peuvent être traitées dans le système d’information, pour autant que l’accomplissement des tâches mentionnées à l’art. 3 de la présente loi en dépende.[^4-8]
 
 [^4-1]: Introduite par l’art. 2 ch. 2 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant l’ntroduction des données biométriques dans les titres de séjour pour étrangers ([RO 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-2]: Abrogée par l’art. 2 ch. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de note entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, avec effet au 20 janv. 2014 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
@@ -162,6 +162,7 @@ Le système d’information contient:
 [^4-5]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^4-7]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-8]: Nouvelle teneur selon l’annexe 1 ch. II 6 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
 
@@ -179,11 +180,11 @@ Le système d’information contient:
 
 **Droit d’accès et de rectification**[^6-1]
 
-<sup>1</sup> Les demandes visant à obtenir un droit d’accès à des données personnelles (art. 8 LPD[^6-2]) et celles visant à rectifier des données inexactes (art. 5, al. 2, LPD) doivent être adressées au SEM.
+<sup>1</sup> Les demandes visant à obtenir un droit d’accès à des données personnelles (art. 25 LPD[^6-2]) et celles visant à rectifier des données inexactes (art. 41, al. 2, let. a, LPD) doivent être adressées au SEM.
 
-<sup>2</sup> Les recours sont régis par l’art. 25 LPD et doivent être adressés au SEM.
+<sup>2</sup> Les recours sont régis par l’art. 41 LPD et doivent être adressés au SEM.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
+[^6-1]: Nouvelle teneur selon l’annexe 1 ch. II 6 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Section 2 Traitement des données
@@ -194,7 +195,7 @@ Le système d’information contient:
 
 <sup>1</sup> Le SEM, en coopération avec les autorités fédérales énumérées à l’art. 9, al. 1, let. e et f, et 2, let. e, et avec le concours des cantons, traite, dans le système d’information, des données personnelles.[^7-1]
 
-<sup>2</sup> Il s’assure de l’exactitude des données personnelles qu’il traite (art. 5 LPD[^7-2]).[^7-3]
+<sup>2</sup> Il s’assure de l’exactitude des données personnelles qu’il traite (art. 6, al. 5, LPD[^7-2]).[^7-3]
 
 <sup>3</sup> Conformément à l’Accord du 6 novembre 1963 entre la Suisse et la Principauté du Liechtenstein sur la réglementation applicable en matière de police des étrangers aux ressortissants d’États tiers dans la Principauté du Liechtenstein ainsi que sur la collaboration dans le domaine de la police des étrangers[^7-4], les autorités compétentes de la Principauté du Liechtenstein sont assimilées, dans le domaine de la police des étrangers, à des autorités cantonales.
 
@@ -202,7 +203,7 @@ Le système d’information contient:
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^7-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
+[^7-3]: Nouvelle teneur selon l’annexe 1 ch. II 6 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^7-4]: [RS 0.142.115.143](https://fedlex.data.admin.ch/eli/cc/1964/5_5_5)
 
 #### Art. 7a
@@ -447,24 +448,22 @@ Le SEM peut, au cas par cas et sur demande écrite dûment motivée, communiquer
 
 **Communication à des destinataires à l’étranger**[^15-1]
 
-La communication de données à des destinataires à l’étranger est régie par les art. 6 LPD[^15-2], les art. 105 à 107, 111*a* à 111*d* et 111*i* LEI[^15-3] et par les art. 97, 98, 102*a*<sup>bis</sup> [^15-4], 102*b* et 102*c*[^15-5] LAsi[^15-6].
+La communication de données personnelles à l’étranger est régie par les art. 16 et 17 LPD[^15-2], 105 à 107, 111*a* à 111*d* et 111*i* LEI[^15-3] et 97, 98, 102*a*<sup>bis</sup>, 102*b* et 102*c* LAsi[^15-4].
 
-[^15-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des accords d’association à Schengen et à Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. c; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^15-1]: Nouvelle teneur selon l’annexe 1 ch. II 6 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^15-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758); voir l’art. 127 LEI.
-[^15-4]: Voir [RS 362](https://fedlex.data.admin.ch/eli/cc/2008/112), art. 3, ch. 2, et ch. V de la mod. du 16 déc. 2005 de la LAsi ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727)).
-[^15-5]: Voir [RS 362](https://fedlex.data.admin.ch/eli/cc/2008/112), art. 3, ch. 2.
-[^15-6]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^15-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758); cf. également art. 127 LEI
+[^15-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 ## Section 5 Dispositions d’exécution
 
 #### Art. 16
 
-**Devoir de surveillance de l’organe cantonal de contrôle**
+**Devoir de surveillance de l’organe cantonal de contrôle**[^16-1]
 
-Dans le cadre de son domaine de compétences, l’organe cantonal de contrôle (art. 37, al. 2, LPD[^16-1]) veille au respect de la protection des données.
+Dans le cadre de leur domaine de compétences, les autorités cantonales de protection des données veillent au respect de la protection des données.
 
-[^16-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-1]: Nouvelle teneur selon l’annexe 1 ch. II 6 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
