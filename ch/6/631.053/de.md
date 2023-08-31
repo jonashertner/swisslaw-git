@@ -3,18 +3,18 @@ sr: "631.053"
 title: "Verordnung vom 4. April 2007 über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch das Bundesamt für Zoll und Grenzsicherheit"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/257"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-257-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-257-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch das Bundesamt für Zoll und Grenzsicherheit****
+# Verordnung über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch das Bundesamt für Zoll und Grenzsicherheit
 
-vom 4. April 2007 (Stand am 1. Januar 2022)[^t-1]
+vom 4. April 2007 (Stand am 1. September 2023)[^t-1]
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -150,12 +150,12 @@ Das BAZG darf im Einzelfall Aufzeichnungen herausgeben:
 
 **Rechte der betroffenen Personen**
 
-<sup>1</sup> Die Rechte der von Aufzeichnungen betroffenen Personen, insbesondere das Auskunfts- und Vernichtungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^10-1] über den Datenschutz und seinen Ausführungsbestimmungen.[^10-2]
+<sup>1</sup> Die Rechte der von Aufzeichnungen betroffenen Personen, insbesondere das Auskunfts- und Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^10-1] und seinen Ausführungsbestimmungen.[^10-2]
 
 <sup>2</sup> Entsprechende Gesuche sind an das BAZG zu richten.
 
 [^10-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-2]: Fassung gemäss Art. 16 der Datenbearbeitungsverordnung für die EZV vom 23. Aug. 2017, in Kraft seit 1. Okt. 2017 ([AS 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)).
+[^10-2]: Fassung gemäss Anhang 2 Ziff. II 70 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 

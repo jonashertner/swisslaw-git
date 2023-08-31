@@ -3,18 +3,18 @@ sr: "631.053"
 title: "Ordinanza del 4 aprile 2007 sull’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza da parte dell’Ufficio federale della dogana e della sicurezza dei confini"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/257"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-257-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-257-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza da parte dell’Ufficio federale della dogana e della sicurezza dei confini
 
-del 4 aprile 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 4 aprile 2007 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -150,12 +150,12 @@ La decisione relativa alla messa a disposizione delle registrazioni alle autorit
 
 **Diritti delle persone interessate**
 
-<sup>1</sup> I diritti delle persone interessate dalle registrazioni, segnatamente il diritto d’accesso e di distruzione, sono retti dalla legge federale del 19 giugno 1992[^10-1] sulla protezione dei dati e sulle relative disposizioni d’esecuzione.[^10-2]
+<sup>1</sup> I diritti delle persone interessate dalle registrazioni, segnatamente il diritto d’accesso e di distruzione, sono retti dalla legge federale del 25 settembre 2020[^10-1] sulla protezione dei dati e sulle relative disposizioni d’esecuzione.[^10-2]
 
 <sup>2</sup> Le corrispondenti domande vanno presentate alla Direzione generale delle dogane.
 
 [^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-2]: Nuovo testo giusta l’art. 16 dell’O del 23 ago. 2017 sul trattamento dei dati nell’AFD, in vigore dal 1° ott. 2017 ([RU 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)).
+[^10-2]: Nuovo testo giusta l’all. 2 n. II 70 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 

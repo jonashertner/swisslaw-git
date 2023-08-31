@@ -3,18 +3,18 @@ sr: "631.053"
 title: "Ordonnance du 4 avril 2007 régissant l’utilisation d’appareils de prises de vue, de relevé et d’autres appareils de surveillance par l’Office fédéral de la douane et de la sécurité des frontières"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/257"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-257-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-257-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance régissant l’utilisation d’appareils de prises de vue, de relevé et d’autres appareils de surveillance par l’Office fédéral de la douane et de la sécurité des frontières****
+# Ordonnance régissant l’utilisation d’appareils de prises de vue, de relevé et d’autres appareils de surveillance par l’Office fédéral de la douane et de la sécurité des frontières
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> janvier 2022)[^t-1]
+du 4 avril 2007 (État le 1<sup>er</sup> septembre 2023)[^t-1]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -92,7 +92,7 @@ Le chef d’un arrondissement des douanes, le chef du Corps des gardes-frontièr
 - a. de l’utilisation des appareils;
 - b. du genre d’appareils à utiliser.
 
-[^6-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
 
 #### Art. 7
 
@@ -148,11 +148,12 @@ Se prononcent sur la remise de relevés aux autorités fédérales ou cantonales
 
 **Droits des personnes concernées**
 
-<sup>1</sup> Les droits des personnes concernées par les relevés, en particulier le droit d’accès aux données et le droit à leur destruction, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^10-1] et ses dispositions d’exécution.
+<sup>1</sup> Les droits des personnes concernées par les relevés, en particulier le droit d’accès aux données et le droit à leur destruction, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^10-1] et ses dispositions d’exécution.[^10-2]
 
 <sup>2</sup> Les demandes doivent être présentées à la Direction générale des douanes.
 
 [^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-2]: Nouvelle teneur selon l’annexe 2 ch. II 70 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 
