@@ -4,13 +4,13 @@ number: "170.140"
 title: Urden da gestiun dal cussegl grond
 short: UGCG
 language: rm
-version: 2023-04-01
-valid_until: 2023-08-31
-version_adopted: 2022-06-14
+version: 2023-09-01
+valid_until: 2023-09-30
+version_adopted: 2022-04-21
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3311/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3311/pdf_file"
 
 (UGCG)
 
-dals 08-12-2005 (versiun dals 01-04-2023)
+dals 08-12-2005 (versiun dals 01-09-2023)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -453,7 +453,8 @@ concluda:
 - a) servetsch da saltera u da salter per servir il cussegl grond e ses organs;
 - b) servetsch da translaziuns;
 - c) servetsch d'infurmaziun;
-- d) funcziunament e mantegniment dals indrizs dad EED.
+- d) funcziunament e mantegniment dals indrizs dad EED;
+- e) interpretaziun simultana da las debattas dal Cussegl grond.
 
 #### Art. 34
 
@@ -712,6 +713,14 @@ concluda:
 **Debatta organisada**
 
 <sup>1</sup> Sin proposta da la conferenza da las presidentas e dals presidents po il cussegl grond restrenscher la debatta ed ils votums per tractar ina fatschenta.
+
+#### Art. 58a
+
+**Interpretaziun simultana**
+
+<sup>1</sup> Ils votums tudestgs, rumantschs e talians vegnan per regla interpretads simultanamain en tudestg ed en talian.
+
+<sup>2</sup> Eventuals sbagls u ina interrupziun parziala u totala da l'interpretaziun simultana n'han naginas consequenzas giuridicas per las chaussas che ston vegnir concludidas.
 
 ### 3.3. Votaziuns
 

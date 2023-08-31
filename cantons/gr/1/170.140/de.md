@@ -4,13 +4,13 @@ number: "170.140"
 title: Geschäftsordnung des Grossen Rates
 short: GGO
 language: de
-version: 2023-04-01
-valid_until: 2023-08-31
-version_adopted: 2022-06-14
+version: 2023-09-01
+valid_until: 2023-09-30
+version_adopted: 2022-04-21
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3311/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3311/pdf_file"
 
 (GGO)
 
-Vom 08.12.2005 (Stand 01.04.2023)
+Vom 08.12.2005 (Stand 01.09.2023)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -451,7 +451,8 @@ beschliesst:
 - a) Weibeldienst zur Bedienung des Grossen Rates und seiner Organe;
 - b) Übersetzungsdienst;
 - c) Informationsdienst;
-- d) Betrieb und Wartung der EDV-Einrichtungen.
+- d) Betrieb und Wartung der EDV-Einrichtungen;
+- e) Simultanverdolmetschung der Grossratsdebatten.
 
 #### Art. 34
 
@@ -710,6 +711,14 @@ beschliesst:
 **Organisierte Debatte**
 
 <sup>1</sup> Für die Behandlung eines Geschäftes kann der Rat auf Antrag der Präsidentenkonferenz die Debatte und die Wortmeldungen einschränken.
+
+#### Art. 58a
+
+**Simultanverdolmetschung**
+
+<sup>1</sup> Die Voten in deutscher, rätoromanischer und italienischer Sprache werden in der Regel simultan in die deutsche und italienische Sprache gedolmetscht.
+
+<sup>2</sup> Allfällige Fehler oder ein teilweiser oder gänzlicher Ausfall der Simultanverdolmetschung haben keine rechtlichen Auswirkungen auf die zu beschliessenden Gegenstände.
 
 ### 3.3. Abstimmungen
 

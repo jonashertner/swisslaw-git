@@ -4,13 +4,13 @@ number: "170.140"
 title: Regolamento organico del Gran Consiglio
 short: ROGC
 language: it
-version: 2023-04-01
-valid_until: 2023-08-31
-version_adopted: 2022-06-14
+version: 2023-09-01
+valid_until: 2023-09-30
+version_adopted: 2022-04-21
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3311/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3312/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3311/pdf_file"
 
 (ROGC)
 
-del 08.12.2005 (stato 01.04.2023)
+del 08.12.2005 (stato 01.09.2023)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -451,7 +451,8 @@ decide:
 - a) il servizio di usciere a disposizione del Gran Consiglio e dei suoi organi;
 - b) il servizio traduzioni;
 - c) il servizio d'informazione;
-- d) l'esercizio e la manutenzione degli strumenti informatici.
+- d) l'esercizio e la manutenzione degli strumenti informatici;
+- e) l'interpretazione simultanea dei dibattiti in Gran Consiglio.
 
 #### Art. 34
 
@@ -710,6 +711,14 @@ decide:
 **Dibattito organizzato**
 
 <sup>1</sup> Per la trattazione di un affare il Gran Consiglio può, su richiesta della Conferenza dei presidenti, limitare il dibattito e le richieste di parola.
+
+#### Art. 58a
+
+**Interpretazione simultanea**
+
+<sup>1</sup> Di norma gli interventi in lingua tedesca, romancia e italiana vengono interpretati in simultanea in lingua tedesca e italiana.
+
+<sup>2</sup> Eventuali errori o un'interruzione parziale o totale dell'interpretazione simultanea non comportano effetti giuridici per gli oggetti sui cui deliberare.
 
 ### 3.3. Votazioni
 
