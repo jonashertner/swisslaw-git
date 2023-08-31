@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 2003 über die Schweizerische Nationalbank (
 short: NBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/221"
 language: de
-version: 2021-08-01
+version: 2023-09-01
 adopted: 2003-10-03
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2004-221-20210801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-221-20230901-de-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/de"
 
 (Nationalbankgesetz, NBG)
 
-vom 3. Oktober 2003 (Stand am 1. August 2021)
+vom 3. Oktober 2003 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -40,7 +40,11 @@ beschliesst:
 
 Sie trägt die Firma:
 
-- «Schweizerische Nationalbank» «Banque nationale suisse» «Banca nazionale svizzera» «Banca naziunala svizra» «Swiss National Bank».
+- [tab] «Schweizerische Nationalbank»
+- [tab] «Banque nationale suisse»
+- [tab] «Banca nazionale svizzera»
+- [tab] «Banca naziunala svizra»
+- [tab] «Swiss National Bank».
 
 #### Art. 2
 
@@ -169,7 +173,11 @@ Die Nationalbank ist befugt, ausser den mit ihren gesetzlichen Aufgaben verbunde
 
 <sup>2</sup> Sie arbeitet bei der Erhebung statistischer Daten mit den zuständigen Stellen des Bundes, insbesondere mit dem Bundesamt für Statistik und der Eidgenössischen Finanzmarktaufsicht, den zuständigen Behörden anderer Länder und mit internationalen Organisationen zusammen.[^14-1]
 
+<sup>3</sup> Die Eidgenössische Steuerverwaltung liefert der Nationalbank zur Erfüllung ihrer statistischen Aufgaben die Grundlagen und Ergebnisse ihrer Statistiktätigkeit im Bereich der Mehrwertsteuer und, falls erforderlich, Mehrwertsteuerdaten aus ihren Datenbeständen und Erhebungen. Die Nationalbank darf diese Daten ungeachtet der Artikel 16 Absätze 4 und 4<sup>bis</sup>, 50*a* und 50*b* des vorliegenden Gesetzes sowie von Artikel 39 des Datenschutzgesetzes vom 25. September 2020[^14-2] (DSG) nicht weitergeben.[^14-3]
+
 [^14-1]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^14-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-3]: Eingefügt durch Anhang 1 Ziff. II 94 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -198,11 +206,15 @@ Die Nationalbank ist befugt, ausser den mit ihren gesetzlichen Aufgaben verbunde
 
 <sup>4</sup> Die Nationalbank ist befugt, die erhobenen Daten mit den zuständigen schweizerischen Finanzmarktaufsichtsbehörden auszutauschen.
 
-<sup>5</sup> Im Übrigen gelten die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^16-1] über den Datenschutz.
+<sup>4bis</sup> Die Nationalbank ist befugt, die erhobenen Daten für statistische Zwecke in nicht aggregierter Form dem Bundesamt für Statistik bekannt zu geben. Dieses darf die von der Nationalbank empfangenen Daten ungeachtet von Artikel 39 DSG[^16-1] ohne deren Zustimmung nicht weitergeben.[^16-2]
+
+<sup>5</sup> Im Übrigen gelten für die Daten natürlicher Personen die Bestimmungen des DSG.[^16-3]
 
 [^16-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-2]: Eingefügt durch Anhang 1 Ziff. II 94 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^16-3]: Fassung gemäss Anhang 1 Ziff. II 94 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### 1*a*. Abschnitt:**** Stabilität des Finanzsystems
+### 1*a*. Abschnitt: Stabilität des Finanzsystems
 
 [^chap3-sec1a-1]
 
@@ -256,7 +268,7 @@ Sie orientiert den betroffenen Finanzmarktteilnehmer über:
 
 [^18-1]: Fassung gemäss Anhang Ziff. 8 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
-### 3. Abschnitt:**** Überwachung systemisch bedeutsamer Finanzmarktinfrastrukturen
+### 3. Abschnitt: Überwachung systemisch bedeutsamer Finanzmarktinfrastrukturen
 
 [^chap3-sec3-1]
 
@@ -637,11 +649,11 @@ Im Besonderen hat es folgende Aufgaben:
 
 <sup>2</sup> Die Revisionsstelle hat das Recht, jederzeit in den Geschäftsbetrieb der Nationalbank Einsicht zu nehmen. Die Bank hat ihr alle üblichen Unterlagen bereit zu halten sowie alle Aufschlüsse zu erteilen, welche zur Erfüllung der Prüfungspflicht notwendig sind.
 
-### 6. Abschnitt: Geheimhaltungspflicht, Bearbeitung von Personendaten sowie Informationsaustausch und Verantwortlichkeit****
+### 6. Abschnitt: Geheimhaltungspflicht, Bearbeitung von Personendaten und von Daten juristischer Personen sowie Informationsaustausch und Verantwortlichkeit
 
 [^chap5-sec6-1]
 
-[^chap5-sec6-1]: Fassung gemäss Art. 28 Ziff. 3 des Covid-19-Solidarbürgschaftsgesetzes vom 18. Dez. 2020, in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^chap5-sec6-1]: Fassung gemäss Art. 29 des Covid-19-Solidarbürgschaftsgesetzes vom 18. Dez. 2020, in Kraft vom 1. Sept. 2023 bis zum 31. Dez. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 49
 
@@ -655,15 +667,15 @@ Im Besonderen hat es folgende Aufgaben:
 
 <sup>4</sup> Nicht strafbar ist, wer das Geheimnis mit schriftlicher Einwilligung seiner vorgesetzten Stelle offenbart hat.
 
-[^49-1]: Fassung gemäss Anhang Ziff. 8 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^49-1]: Fassung gemäss Anhang Ziff. 8 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). ).
 
 #### Art. 49a
 
-**Bearbeitung von Personendaten**[^49a-1]
+**Bearbeitung von Personendaten und von Daten juristischer Personen**[^49a-1]
 
-Zur Erfüllung ihrer gesetzlichen Aufgaben kann die Nationalbank Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten.
+Zur Erfüllung ihrer gesetzlichen Aufgaben kann die Nationalbank Personendaten, einschliesslich besonders schützenswerter Personendaten, und Daten juristischer Personen bearbeiten.
 
-[^49a-1]: Eingefügt durch Art. 28 Ziff. 3 des Covid-19-Solidarbürgschaftsgesetzes vom 18. Dez. 2020, in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^49a-1]: Eingefügt durch Art. 28 Ziff. 3 des Covid-19-Solidarbürgschaftsgesetzes vom 18. Dez. 2020 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Fassung gemäss Art. 29 des Covid-19-Solidarbürgschaftsgesetzes vom 18. Dez. 2020, in Kraft vom 1. Sept. 2023 bis zum 31. Dez. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 50
 
@@ -768,7 +780,7 @@ Die Aufhebung und die Änderung bisherigen Rechts finden sich im Anhang.
 
 #### Art. 58
 
-**...[^58-1]**
+**…[^58-1]**
 
 <sup>1</sup> Schuldbuchforderungen, die zum Zeitpunkt der Aufhebung des Eidgenössischen Schuldbuches in diesem eingetragen sind, werden von der Schweizerischen Nationalbank in Schuldverschreibungen der entsprechenden Emission umgewandelt und für den letzten eingetragenen Gläubiger kostenlos verwahrt.
 
@@ -807,10 +819,10 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-5]
+…[^annexu1-lvlu1-5]
 
 [^annexu1-lvlu1-1]: [BS **6** 10]
-[^annexu1-lvlu1-2]: [[AS 1954 599](https://fedlex.data.admin.ch/eli/oc/1954/599_613_499), [1979 983](https://fedlex.data.admin.ch/eli/oc/1979/983_983_983), [1993 399](https://fedlex.data.admin.ch/eli/oc/1993/399_399_399), [1997 2252](https://fedlex.data.admin.ch/eli/oc/1997/2252_2252_2252), [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 7, [2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186)Anhang Ziff. 4]
+[^annexu1-lvlu1-2]: [[AS 1954 599](https://fedlex.data.admin.ch/eli/oc/1954/599_613_499); [1979 983](https://fedlex.data.admin.ch/eli/oc/1979/983_983_983); [1993 399](https://fedlex.data.admin.ch/eli/oc/1993/399_399_399); [1997 2252](https://fedlex.data.admin.ch/eli/oc/1997/2252_2252_2252); [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 7; [2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186)Anhang Ziff. 4]
 [^annexu1-lvlu1-3]: [BS **6** 100]
 [^annexu1-lvlu1-4]: [[BBl 1997 I 821](https://fedlex.data.admin.ch/eli/fga/1997/1_821__)]
 [^annexu1-lvlu1-5]: Die Änderungen können unter [AS 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)konsultiert werden.

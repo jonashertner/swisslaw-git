@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 octobre 2003 sur la Banque nationale suisse (Loi sur
 short: LBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/221"
 language: fr
-version: 2021-08-01
+version: 2023-09-01
 adopted: 2003-10-03
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-221-20210801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-221-20230901-fr-xml-18.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/fr"
 
 (Loi sur la Banque nationale, LBN)
 
-du 3 octobre 2003 (Etat le 1<sup>er</sup> août 2021)
+du 3 octobre 2003 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -36,17 +36,15 @@ arrête:
 
 <sup>1</sup> La banque centrale de la Confédération suisse est une société anonyme régie par une loi spéciale.
 
-<sup>2</sup> Elle opère sous les noms suivants:
+<sup>2</sup>
 
-«Schweizerische Nationalbank»
+Elle opère sous les noms suivants:
 
-«Banque nationale suisse»
-
-«Banca nazionale svizzera»
-
-«Banca naziunala svizra»
-
-«Swiss National Bank»
+- [tab] «Schweizerische Nationalbank»
+- [tab] «Banque nationale suisse»
+- [tab] «Banca nazionale svizzera»
+- [tab] «Banca naziunala svizra»
+- [tab] «Swiss National Bank».
 
 #### Art. 2
 
@@ -175,7 +173,11 @@ Outre les opérations relevant de ses tâches légales, la Banque nationale est 
 
 <sup>2</sup> Dans la collecte des données statistiques, elle collabore avec les services compétents de la Confédération, en particulier l’Office fédéral de la statistique et l’Autorité fédérale de surveillance des marchés financiers, avec les autorités compétentes d’autres pays et avec des organisations internationales.[^14-1]
 
-[^14-1]: Nouvelle teneur selon l’annexe ch. 13 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+<sup>3</sup> L’administration fédérale des contributions fournit à la Banque nationale, pour que celle-ci accomplisse ses tâches statistiques, les bases et les résultats de ses travaux statistiques dans le domaine de la TVA et, au besoin, des données concernant la TVA provenant de ses dossiers et relevés. La Banque nationale ne peut pas transmettre ces données, nonobstant les art. 16, al. 4 et 4<sup>bis</sup>, 50*a* et 50*b* de la présente loi et l’art. 39 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^14-2].[^14-3]
+
+[^14-1]: Nouvelle teneur selon l’annexe ch. 13 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736), [5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^14-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-3]: Introduit par l’annexe 1 ch. II 94 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -204,11 +206,15 @@ Outre les opérations relevant de ses tâches légales, la Banque nationale est 
 
 <sup>4</sup> Elle est autorisée à échanger les données collectées avec les autorités suisses chargées de la surveillance des marchés financiers.
 
-<sup>5</sup> Au demeurant la loi fédérale du 19 juin 1992 sur la protection des données[^16-1] est applicable.
+<sup>4bis</sup> La Banque nationale est autorisée, à des fins statistiques, à communiquer les données collectées sous une forme non agrégée à l’office fédéral de la statistique. Ce dernier n’est pas autorisé à transmettre ces données sans le consentement de la Banque nationale, nonobstant l’art. 39 LPD[^16-1].[^16-2]
+
+<sup>5</sup> Au surplus, les données concernant les personnes physiques sont régies par la LPD.[^16-3]
 
 [^16-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-2]: Introduit par l’annexe 1 ch. II 94 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^16-3]: Nouvelle teneur selon l’annexe 1 ch. II 94 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### Section 1*a***** Stabilité du système financier
+### Section 1*a* Stabilité du système financier
 
 [^chap3-sec1a-1]
 
@@ -262,7 +268,7 @@ Elle informe le participant aux marchés financiers concerné:
 
 [^18-1]: Nouvelle teneur selon l’annexe ch. 8 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
-### Section 3**** Surveillance des infrastructures des marchés financiers d’importance systémique
+### Section 3 Surveillance des infrastructures des marchés financiers d’importance systémique
 
 [^chap3-sec3-1]
 
@@ -448,7 +454,7 @@ Les comptes annuels de la Banque nationale, composés du compte de résultat, du
 
 <sup>3</sup> La part revenant aux cantons est répartie en fonction de leur population résidante. Le Conseil fédéral règle les modalités après avoir entendu les cantons.[^31-1]
 
-[^31-1]: Nouvelle teneur selon le ch. II 33 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5818; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^31-1]: Nouvelle teneur selon le ch. II 33 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787), 5818; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 32
 
@@ -644,11 +650,11 @@ La direction générale a notamment les tâches suivantes:
 
 <sup>2</sup> L’organe de révision peut se renseigner en tout temps sur la gestion de la Banque nationale. Celle-ci tient tous les documents usuels à sa disposition et lui donne toutes les informations dont il a besoin pour remplir son obligation de vérification.
 
-### Section 6 Obligation de garder le secret, traitement de données personnelles, échange d’informations et responsabilité****
+### Section 6 Obligation de garder le secret, traitement de données personnelles et de données concernant des personnes morales, échange d’informations et responsabilité
 
 [^chap5-sec6-1]
 
-[^chap5-sec6-1]: Nouvelle teneur selon l’art. 28 ch. 3 de la L du 18 déc. 2020 sur les cautionnements solidaires liés au COVID-19, en vigueur du 19 déc. 2020 au 31 déc. 2032 ([RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^chap5-sec6-1]: Nouvelle teneur selon l’art. 29 de la L du 18 déc. 2020 sur les cautionnements solidaires liés au COVID-19, en vigueur du 1<sup>er</sup> sept. 2023 au 31 déc. 2032 ([RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182), [8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 49
 
@@ -666,11 +672,11 @@ La direction générale a notamment les tâches suivantes:
 
 #### Art. 49a
 
-**Traitement de données personnelles**[^49a-1]
+**Traitements de données personnelles et de données concernant des personnes morales**[^49a-1]
 
-Pour accomplir ses tâches légales, la Banque nationale peut traiter des données personnelles, y compris des données sensibles.
+La Banque nationale peut traiter des données personnelles, y compris des données sensibles, ainsi que des données concernant des personnes morales pour l’accomplissement de ses tâches légales.
 
-[^49a-1]: Introduit par l’art. 28 ch. 3 de la L du 18 déc. 2020 sur les cautionnements solidaires liés au COVID-19, en vigueur du 19 déc. 2020 au 31 déc. 2032 ([RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^49a-1]: Introduit par l’art. 28 ch. 3 de la L du 18 déc. 2020 sur les cautionnements solidaires liés au COVID-19 ([RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182), [8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Nouvelle teneur selon l’art. 29 de la L du 18 déc. 2020 sur les cautionnements solidaires liés au COVID-19, en vigueur du 1<sup>er</sup> sept. 2023 au 31 déc. 2032 ([RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182), [8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 50
 
@@ -819,7 +825,7 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 ...[^annexu1-lvlu1-5]
 
 [^annexu1-lvlu1-1]: [RS **6** 10]
-[^annexu1-lvlu1-2]: [[RO 1954 613](https://fedlex.data.admin.ch/eli/oc/1954/599_613_499), [1979 983](https://fedlex.data.admin.ch/eli/oc/1979/983_983_983)[1376](https://fedlex.data.admin.ch/eli/oc/1979/1376_1376_1376), [1993 399](https://fedlex.data.admin.ch/eli/oc/1993/399_399_399), [1997 2252](https://fedlex.data.admin.ch/eli/oc/1997/2252_2252_2252), [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 7, [2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186)annexe ch. 4]
+[^annexu1-lvlu1-2]: [RO **1954** 61; [1979 983](https://fedlex.data.admin.ch/eli/oc/1979/983_983_983), [1376](https://fedlex.data.admin.ch/eli/oc/1979/1376_1376_1376); [1993 399](https://fedlex.data.admin.ch/eli/oc/1993/399_399_399); [1997 2252](https://fedlex.data.admin.ch/eli/oc/1997/2252_2252_2252); [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 7; [2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186)annexe ch. 4]
 [^annexu1-lvlu1-3]: [RS **6** 102]
 [^annexu1-lvlu1-4]: [[FF 1997 I 792](https://fedlex.data.admin.ch/eli/fga/1997/1__792_)]
 [^annexu1-lvlu1-5]: Les mod. peuvent être consultées au [RO 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221).

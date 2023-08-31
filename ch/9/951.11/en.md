@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 2003 on the Swiss National Bank (National Bank 
 short: NBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/221"
 language: en
-version: 2021-08-01
+version: 2023-09-01
 adopted: 2003-10-03
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2004-221-20210801-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2004-221-20230901-en-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (National Bank Act, NBA)
 
-of 3 October 2003 (Status as of 1 August 2021)
+of 3 October 2003 (Status as of 1 September 2023) [4]
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -175,7 +175,11 @@ In addition to transactions related to its statutory tasks, the National Bank ma
 
 <sup>2</sup> In collecting statistical data, it shall cooperate with the competent federal offices, in particular with the Swiss Federal Statistical Office and the Swiss Financial Market Supervisory Authority (FINMA), the competent authorities of foreign countries and with international organisations.[^14-1]
 
+<sup>3</sup> In order for the Bank to fulfil its statistical tasks, the Federal Tax Administration shall provide the National Bank with the principles and results of its statistical activities in the area of value added tax and, if necessary, with value added tax data from its databases and surveys. Notwithstanding Articles 16 paragraphs 4 and 4<sup>bis</sup>, 50*a* and 50*b* of this Act and Article 39 of the Data Protection Act of 25 September 2020[^14-2] (FADP), the National Bank may not disclose these data.[^14-3]
+
 [^14-1]: Amended by Annex No 13 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^14-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-3]: Inserted by Annex 1 No II 94 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -204,11 +208,15 @@ In addition to transactions related to its statutory tasks, the National Bank ma
 
 <sup>4</sup> The National Bank may exchange the data collected with the competent supervisory authorities of the Swiss financial market.
 
-<sup>5</sup> In other respects, the Federal Act of 19 June 1992[^16-1] on Data Protection applies.
+<sup>4bis</sup> The National Bank may disclose the data collected to the Federal Statistical Office in a non-aggregated form for statistical purposes. Notwithstanding Article 39 FADP[^16-1], the Federal Statistical Office shall disclose data received from the National Bank without the Bank’s consent.[^16-2]
+
+<sup>5</sup> In other respects, the provisions of the FADP apply to data relating to natural persons.[^16-3]
 
 [^16-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-2]: Inserted by Annex 1 No II 94 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^16-3]: Amended by Annex 1 No II 94 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### Section 1*a***** Stability of the Financial System
+### Section 1*a* Stability of the Financial System
 
 [^chap3-sec1a-1]
 
@@ -262,7 +270,7 @@ It shall inform the affected financial market participants about:
 
 [^18-1]: Amended by Annex No 8 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
-### Section 3**** Oversight of Systemically Important Financial Market Infrastructures
+### Section 3 Oversight of Systemically Important Financial Market Infrastructures
 
 [^chap3-sec3-1]
 
@@ -643,11 +651,11 @@ In particular, it shall perform the following tasks:
 
 <sup>2</sup> The Audit Board shall be entitled to inspect at any time all aspects of the National Bank’s business. The Bank shall hold all the usual documents at its disposal and provide any information necessary for fulfilling the auditing obligation.
 
-### Section 6 Secrecy, Processing of Personal Data, Exchange of Information and Liability****
+### Section 6 Secrecy, Processing of Personal Data and Data Relating to Legal Entities, Exchange of Information and Liability
 
 [^chap5-sec6-1]
 
-[^chap5-sec6-1]: Amended by Art. 28 No 3 of the COVID-19 Credit Guarantees Act of 18 Dec. 2020, in force from 19 Dec. 2020 to 31 Dec. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^chap5-sec6-1]: Amended by Art. 29 of the COVID-19 Credit Guarantees Act of 18 Dec. 2020, in force from 1 Sept. 2023 to 31 Dec. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 49
 
@@ -665,11 +673,11 @@ In particular, it shall perform the following tasks:
 
 #### Art. 49a
 
-**Processing of personal data**[^49a-1]
+**Processing of personal data and data relating to legal entities**[^49a-1]
 
-In order to fulfil its statutory tasks, the National Bank may process personal data, including sensitive personal data.
+In order to fulfil its statutory tasks, the National Bank may process personal data, including sensitive personal data and data relating to legal entities.
 
-[^49a-1]: Inserted by Art. 28 No 3 of the COVID-19 Credit Guarantees Act of 18 Dec. 2020, in force from 19 Dec. 2020 to 31 Dec. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^49a-1]: Inserted by Art. 28 No 3 of the COVID-19 Credit Guarantees Act of 18 Dec. 2020 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Amended by Art. 29 of the COVID-19 Credit Guarantees Act of 18 Dec. 2020, in force from 1 Sept. 2023 to 31 Dec. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 50
 

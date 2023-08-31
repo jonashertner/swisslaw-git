@@ -4,11 +4,11 @@ title: "Legge federale del 3 ottobre 2003 sulla Banca nazionale svizzera (Legge 
 short: LBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/221"
 language: it
-version: 2021-08-01
+version: 2023-09-01
 adopted: 2003-10-03
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2004-221-20210801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-221-20230901-it-xml-18.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/it"
 
 (Legge sulla Banca nazionale, LBN)
 
-del 3 ottobre 2003 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
+del 3 ottobre 2003 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -40,7 +40,11 @@ decreta:
 
 Essa ha la seguente ragione sociale:
 
-- «Schweizerische Nationalbank» «Banque nationale suisse» «Banca nazionale svizzera» «Banca naziunala svizra» «Swiss National Bank».
+- [tab] «Schweizerische Nationalbank»
+- [tab] «Banque nationale suisse»
+- [tab] «Banca nazionale svizzera»
+- [tab] «Banca naziunala svizra»
+- [tab] «Swiss National Bank».
 
 #### Art. 2
 
@@ -167,9 +171,13 @@ Oltre alle operazioni legate alla sua attività legale, la Banca nazionale è au
 
 <sup>1</sup> Per svolgere le sue attività legali e osservare l’evoluzione sui mercati finanziari la Banca nazionale raccoglie i dati statistici necessari.
 
-<sup>2</sup> Nella raccolta dei dati statistici la Banca nazionale collabora con i servizi competenti della Confederazione, in particolare con l’Ufficio federale di statistica e l’Autorità federale di vigilanza sui mercati finanziari, con le autorità competenti di altri Paesi e con le organizzazioni internazionali. [^14-1]
+<sup>2</sup> Nella raccolta dei dati statistici la Banca nazionale collabora con i servizi competenti della Confederazione, in particolare con l’Ufficio federale di statistica e l’Autorità federale di vigilanza sui mercati finanziari, con le autorità competenti di altri Paesi e con le organizzazioni internazionali.[^14-1]
+
+<sup>3</sup> L’Amministrazione federale delle contribuzioni fornisce alla Banca nazionale, per l’adempimento dei suoi compiti statistici, le basi e i risultati della sua attività statistica nell’ambito dell’imposta sul valore aggiunto e, se necessario, i dati sull’imposta sul valore aggiunto provenienti dalle sue raccolte di dati e rilevazioni. A prescindere dagli articoli 16 capoversi 4 e 4<sup>bis</sup>, 50*a* e 50*b* della presente legge e dall’articolo 39 della legge federale del 25 settembre 2020[^14-2] sulla protezione dei dati (LPD), la Banca nazionale non è autorizzata a trasmettere a terzi tali dati.[^14-3]
 
 [^14-1]: Nuovo testo giusta l’all. n. 13 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^14-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-3]: Introdotto dall’all. 1 n. II 94 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -198,11 +206,15 @@ Oltre alle operazioni legate alla sua attività legale, la Banca nazionale è au
 
 <sup>4</sup> È autorizzata a scambiare i dati raccolti con le competenti autorità svizzere di vigilanza sui mercati finanziari.
 
-<sup>5</sup> Per il rimanente si applicano le disposizioni della legge federale del 19 giugno 1992[^16-1] sulla protezione dei dati.
+<sup>4bis</sup> La Banca nazionale è autorizzata a comunicare all’Ufficio federale di statistica, a fini statistici e in forma non aggregata, i dati raccolti. A prescindere dall’articolo 39 LPD[^16-1], senza il consenso della Banca nazionale l’Ufficio federale di statistica non è autorizzato a trasmettere a terzi i dati ricevuti.[^16-2]
+
+<sup>5</sup> Per il rimanente, ai dati concernenti le persone fisiche si applicano le disposizioni della LPD.[^16-3]
 
 [^16-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-2]: Introdotto dall’all. 1 n. II 94 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^16-3]: Nuovo testo giusta l’all. 1 n. II 94 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### Sezione 1*a*:**** Stabilità del sistema finanziario
+### Sezione 1*a*: Stabilità del sistema finanziario
 
 [^chap3-sec1a-1]
 
@@ -256,7 +268,7 @@ Informa il pertinente partecipante al mercato finanziario:
 
 [^18-1]: Nuovo testo giusta l’all. n. 8 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
-### Sezione 3:**** Sorveglianza di infrastrutture del mercato finanziario di rilevanza sistemica
+### Sezione 3: Sorveglianza di infrastrutture del mercato finanziario di rilevanza sistemica
 
 [^chap3-sec3-1]
 
@@ -638,11 +650,11 @@ La Direzione generale ha in particolare i seguenti compiti:
 
 <sup>2</sup> L’organo di revisione ha il diritto di prendere conoscenza in ogni momento dell’attività della Banca nazionale. La Banca deve tenere a sua disposizione tutti i documenti usuali e fornirgli le informazioni necessarie all’esercizio del suo obbligo di verifica.
 
-### Sezione 6: Obbligo di tutelare il segreto, trattamento di dati personali, scambio di informazioni e responsabilità****
+### Sezione 6: Obbligo di tutelare il segreto, trattamento di dati personali e di dati concernenti persone giuridiche nonché scambio di informazioni e responsabilità
 
 [^chap5-sec6-1]
 
-[^chap5-sec6-1]: Nuovo testo giusta l’art. 28 n. 3 della L del 18 dic. 2020 sulle fideiussioni solidali COVID-19, in vigore dal 19 dic. 2020 al 31 dic. 2032 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182)[7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^chap5-sec6-1]: Nuovo testo giusta l’art. 29 della L del 18 dic. 2020 sulle fideiussioni solidali COVID-19, in vigore dal 1° set. 2023 al 31 dic. 2032 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182), [7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 49
 
@@ -660,11 +672,11 @@ La Direzione generale ha in particolare i seguenti compiti:
 
 #### Art. 49a
 
-**Trattamento di dati personali**[^49a-1]
+**Trattamento di dati personali e di dati concernenti persone giuridiche**[^49a-1]
 
-Per adempiere i propri compiti legali, la Banca nazionale può trattare dati personali, compresi i dati personali degni di particolare protezione.
+Per adempiere i propri compiti legali, la Banca nazionale può trattare dati personali, compresi quelli degni di particolare protezione, e dati concernenti persone giuridiche.
 
-[^49a-1]: Introdotto dall’art. 28 n. 3 della L del 18 dic. 2020 sulle fideiussioni solidali COVID-19, in vigore dal 19 dic. 2020 al 31 dic. 2032 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182)[7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^49a-1]: Introdotto dall’art. 28 n. 3 della L del 18 dic. 2020 sulle fideiussioni solidali COVID-19 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182)[7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Nuovo testo giusta l’art. 29 della L del 18 dic. 2020 sulle fideiussioni solidali COVID-19, in vigore dal 1° set. 2023 al 31 dic. 2032 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182), [7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 50
 
@@ -811,7 +823,7 @@ Gli atti legislativi qui appresso sono modificati come segue:
 ...[^annexu1-lvlu1-5]
 
 [^annexu1-lvlu1-1]: [CS **6** 10]
-[^annexu1-lvlu1-2]: [[RU 1954 599](https://fedlex.data.admin.ch/eli/oc/1954/689_703_599), [1979 983](https://fedlex.data.admin.ch/eli/oc/1979/983_983_983)[1376](https://fedlex.data.admin.ch/eli/oc/1979/1376_1376_1376), [1993 399](https://fedlex.data.admin.ch/eli/oc/1993/399_399_399), [1997 2252](https://fedlex.data.admin.ch/eli/oc/1997/2252_2252_2252), [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 7, [2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186)all. n. 4]
+[^annexu1-lvlu1-2]: [[RU 1954 599](https://fedlex.data.admin.ch/eli/oc/1954/689_703_599); [1979 983](https://fedlex.data.admin.ch/eli/oc/1979/983_983_983), [1376](https://fedlex.data.admin.ch/eli/oc/1979/1376_1376_1376); [1993 399](https://fedlex.data.admin.ch/eli/oc/1993/399_399_399); [1997 2252](https://fedlex.data.admin.ch/eli/oc/1997/2252_2252_2252); [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 7; [2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186)all. n. 4]
 [^annexu1-lvlu1-3]: [CS **6** 102]
 [^annexu1-lvlu1-4]: [[FF 1997 I 755](https://fedlex.data.admin.ch/eli/fga/1997/1___755)].
 [^annexu1-lvlu1-5]: Le mod. possono essere consultate alla [RU 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221).
