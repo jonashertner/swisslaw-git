@@ -4,11 +4,11 @@ title: "Verordnung vom 23. August 2017 über die Bearbeitung von Personendaten i
 short: DBZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/de"
 
 (Datenbearbeitungsverordnung für das BAZG, DBZV)[^t-1]
 
-vom 23. August 2017 (Stand am 1. August 2023)
+vom 23. August 2017 (Stand am 1. September 2023)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 2 Absatz 2, 110 Absatz 3 und 112 Absatz 5 des Zollgesetzes vom 18. März 2005[^ingress-1] (ZG), Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2], Artikel 27 Absatz 2 des Bundespersonalgesetzes vom 24. März 2000[^ingress-3], und auf Artikel 19 des Edelmetallkontrollgesetzes vom 20. Juni 1933[^ingress-4], in Ausführung des Übereinkommens vom 20. Mai 1987[^ingress-5] über ein gemeinsames Versandverfahren,
+gestützt auf die Artikel 2 Absatz 2, 110 Absatz 3 und 112 Absatz 5 des Zollgesetzes vom 18. März 2005[^ingress-1] (ZG), Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2] (RVOG), Artikel 27 Absatz 2 des Bundespersonalgesetzes vom 24. März 2000[^ingress-3] und auf Artikel 19 des Edelmetallkontrollgesetzes vom 20. Juni 1933[^ingress-4], in Ausführung des Übereinkommens vom 20. Mai 1987[^ingress-5] über ein gemeinsames Versandverfahren,[^ingress-6]
 
 verordnet:
 
@@ -32,6 +32,7 @@ verordnet:
 [^ingress-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-4]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 [^ingress-5]: [SR 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^ingress-6]: Fassung gemäss Anhang 2 Ziff. II 71 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -114,11 +115,12 @@ Wo in den Anhängen von Personalien die Rede ist, ist darunter soweit notwendig 
 
 #### Art. 8
 
-**Rechte der betroffenen Personen**
+**Rechte der betroffenen Personen**[^8-1]
 
-Die Rechte der betroffenen Personen, insbesondere das Auskunfts-, Berichtigungs- und Vernichtungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^8-1] über den Datenschutz und seinen Ausführungsbestimmungen.
+Die Rechte der betroffenen Personen, insbesondere das Auskunfts-, Berichtigungs- und Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^8-2] und seinen Ausführungsbestimmungen.
 
-[^8-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-1]: Fassung gemäss Anhang 2 Ziff. II 71 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 9
 
@@ -148,7 +150,7 @@ Nicht mehr benötigte Daten sowie Daten, deren Aufbewahrungsfrist abgelaufen ist
 
 **Datensicherheit**
 
-<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 der Verordnung vom 14. Juni 1993[^12-1] zum Bundesgesetz über den Datenschutz sowie die Cyberrisikenverordnung vom 27. Mai 2020[^12-2].[^12-3]
+<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^12-1] sowie die Cyberrisikenverordnung vom 27. Mai 2020[^12-2].[^12-3]
 
 <sup>2</sup> Daten, Programme und dazugehörige Dokumentationen sind gegen unbefugtes Bearbeiten sowie gegen Zerstörung und Entwendung zu schützen. Sie müssen wiederhergestellt werden können.
 
@@ -158,7 +160,7 @@ Nicht mehr benötigte Daten sowie Daten, deren Aufbewahrungsfrist abgelaufen ist
 
 [^12-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^12-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Fassung gemäss Anhang Ziff. 17 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^12-3]: Fassung gemäss Anhang 2 Ziff. II 71 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -763,8 +765,7 @@ Das Informationssystem kann folgende Daten enthalten:
 
 - 2\.1 Personalien der Personen, die ein Gesuch um Zollbefreiungen stellen;
 - 2\.2 Datum des Antrags;
-- 2\.3 Angaben über das Erfüllen der Bedingungen für die Zollbefreiung nach den Artikeln 19, 20 und 21 der Zollverordnung vom 1. November 2006[^annex20-lvlu1-lvl2-1];
-- 2\.4 Dossiernummer.
+- 2\.3 Angaben über das Erfüllen der Bedingungen für die Zollbefreiung nach den Artikeln 19, 20 und 21 der Zollverordnung vom 1. November 2006[^annex20-lvlu1-lvl2-1];2.4 Dossiernummer.
 
 [^annex20-lvlu1-lvl2-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 
@@ -1196,7 +1197,6 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.3 Marke, Typ, Chassis-Nummer und Kontrollschild der Fahrzeuge, die für den Grenz- oder Durchgangsverkehr verwendet werden;
 - 2\.4 Datum der Ausstellung und Gültigkeitsdauer der Bewilligungen;
 - 2\.5 Name der kontrollierenden Zollstelle.
-- [tab]
 
 Anhang 38
 
@@ -2021,7 +2021,6 @@ Das Informationssystem kann folgende Daten enthalten:
 
 - 2\.1 Personalien der natürlichen Personen, die Gegenstand von Personenkontrollen im Rahmen des Vollzugs der nichtzollrechtlichen Erlasse des Bundes und der Verbrechensbekämpfung sind;
 - 2\.2 Hinweismeldungen über Personen, Fahrzeuge und Vorgänge im Zusammenhang mit Delikten, bei denen kein genügender Tatverdacht zur Einleitung einer Strafuntersuchung besteht.
-- [tab]
 
 Anhang 72a[^t-5]
 
@@ -2084,23 +2083,23 @@ Die Daten werden spätestens ein Jahr nach Ablauf der Gültigkeit der E-Vignette
 
 Anhang 73[^t-6]
 
-## Hilfsdatensammlungen
+## Hilfsdatenbank
 
-[^t-6]: Bereinigt gemäss Anhang Ziff. 2 der Nationalstrassenabgabeverordnung vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-6]: Bereinigt gemäss Anhang Ziff. 2 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) und Anhang 2 Ziff. II 71 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. Zweck
 
-Die Organisationseinheiten des BAZG dürfen für die Planung und die Kontrolle ihrer Aufgaben sowie für die Berichterstattung über ihre Aufgaben die dafür notwendigen Hilfsdatensammlungen führen.
+Die Organisationseinheiten des BAZG dürfen für die Planung und die Kontrolle ihrer Aufgaben sowie für die Berichterstattung über ihre Aufgaben die dafür notwendigen Hilfsdatenbank führen.
 
 ### 2. Inhalt
 
-Die Hilfsdatensammlungen dürfen ausschliesslich die Daten enthalten, die in den für die betroffene Aufgabe vorgesehenen Informationssystemen nach den Anhängen 1– 72*a* enthalten sind.
+Die Hilfsdatenbanken dürfen ausschliesslich die Daten enthalten, die in den für die betroffene Aufgabe vorgesehenen Informationssystemen nach den Anhängen 1– 72*a* enthalten sind.
 
 ### 3. Berechtigungen und Bekanntgabe
 
 - 3\.1 Die Berechtigungen richten sich nach Artikel 5 Absatz 3 und allfälligen Regelungen in den betreffenden Anhängen.
-- 3\.2 Die Bekanntgabe von Daten aus den Hilfsdatensammlungen an Behörden und Personen ausserhalb des BAZG ist nicht zulässig.
+- 3\.2 Die Bekanntgabe von Daten aus den Hilfsdatenbank an Behörden und Personen ausserhalb des BAZG ist nicht zulässig.
 
 ### 4. Datenaufbewahrung
 
-Die in den Hilfsdatensammlungen enthaltenen Daten dürfen nicht länger aufbewahrt werden, als dies in den Anhängen 1–72*a* für die jeweiligen Daten vorgesehen ist.
+Die in den Hilfsdatenbanken enthaltenen Daten dürfen nicht länger aufbewahrt werden, als dies in den Anhängen 1–72*a* für die jeweiligen Daten vorgesehen ist.

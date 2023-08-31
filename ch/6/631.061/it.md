@@ -4,11 +4,11 @@ title: "Ordinanza del 23 agosto 2017 sul trattamento dei dati personali nell’U
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/it"
 
 (Ordinanza sul trattamento dei dati nell’UDSC, OTDD)[^t-1]
 
-del 23 agosto 2017 (Stato 1° agosto 2023)
+del 23 agosto 2017 (Stato 1° settembre 2023)
 
 [^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 2 capoverso 2, 110 capoverso 3 e 112 capoverso 5 della legge del 18 marzo 2005[^ingress-1] sulle dogane (LD); visto l’articolo 57*h* capoverso 3 della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 27 capoverso 2 della legge del 24 marzo 2000[^ingress-3] sul personale federale; visto l’articolo 19 della legge del 20 giugno 1933[^ingress-4] sul controllo dei metalli preziosi; in esecuzione della Convenzione del 20 maggio 1987[^ingress-5] relativa ad un regime comune di transito,
+visti gli articoli 2 capoverso 2, 110 capoverso 3 e 112 capoverso 5 della legge del 18 marzo 2005[^ingress-1] sulle dogane (LD); visto l’articolo 57*h*<sup>ter</sup> della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione (LOGA); visto l’articolo 27 capoverso 2 della legge del 24 marzo 2000[^ingress-3] sul personale federale; visto l’articolo 19 della legge del 20 giugno 1933[^ingress-4] sul controllo dei metalli preziosi; in esecuzione della Convenzione del 20 maggio 1987[^ingress-5] relativa ad un regime comune di transito,[^ingress-6]
 
 ordina:
 
@@ -32,6 +32,7 @@ ordina:
 [^ingress-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-4]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 [^ingress-5]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^ingress-6]: Nuovo testo giusta l’all. 2 n. II 71 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -114,11 +115,12 @@ Laddove negli allegati si parla di dati personali, si devono intendere, per quan
 
 #### Art. 8
 
-**Diritti delle persone interessate**
+**Diritti delle persone interessate**[^8-1]
 
-I diritti delle persone interessate, in particolare i diritti d’accesso, di rettifica e di distruzione, si fondano sulla legge federale del 19 giugno 1992[^8-1] sulla protezione dei dati e sulle sue disposizioni d’esecuzione.
+I diritti delle persone interessate, in particolare i diritti d’accesso, di rettifica e di distruzione, si fondano sulla legge federale del 25 settembre 2020[^8-2] sulla protezione dei dati e sulle sue disposizioni d’esecuzione.
 
-[^8-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-1]: Nuovo testo giusta l’all. 2 n. II 71 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 9
 
@@ -148,7 +150,7 @@ I dati non più necessari nonché i dati il cui termine di conservazione è scad
 
 **Sicurezza dei dati**
 
-<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^12-1] relativa alla legge federale sulla protezione dei dati nonché l’ordinanza del 27 maggio 2020[^12-2] sui ciber-rischi.[^12-3]
+<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^12-1] sulla protezione dei dati nonché l’ordinanza del 27 maggio 2020 sui ciber-rischi[^12-2].[^12-3]
 
 <sup>2</sup> I dati, i programmi e la rispettiva documentazione devono essere protetti contro qualsiasi trattamento non autorizzato nonché contro la distruzione e il furto. Essi devono poter essere ripristinati.
 
@@ -158,7 +160,7 @@ I dati non più necessari nonché i dati il cui termine di conservazione è scad
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Nuovo testo giusta l’all. n. 17 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^12-3]: Nuovo testo giusta l’all. 2 n. II 71 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -188,7 +190,7 @@ I dati non più necessari nonché i dati il cui termine di conservazione è scad
 
 L’ordinanza del 4 aprile 2007[^15-1] sul trattamento dei dati nell’AFD è abrogata.
 
-[^15-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1,[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4]
+[^15-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1, [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1;[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4]
 
 #### Art. 16
 
@@ -221,7 +223,7 @@ I dati desunti dai seguenti sistemi d’informazione ai sensi dell’ordinanza d
 - o. autorizzazione per varcare il confine fuori dei posti autorizzati oppure fuori degli orari d’apertura degli uffici doganali (allegato C 7);
 - p. protezione delle specie (allegato C 10).
 
-[^17-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1,[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4]
+[^17-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1, [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1;[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4]
 
 #### Art. 18
 
@@ -2083,23 +2085,23 @@ I dati sono cancellati al più tardi un anno dopo la scadenza della validità de
 
 Allegato 73[^t-6]
 
-## Collezioni ausiliarie di dati
+## Banche dati ausiliarie
 
-[^t-6]: Aggiornato dall’all. n. 2 dell’O del 16 giu. 2023 sul contrassegno stradale, in vigore dal 1° ago. 2023 ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-6]: Aggiornato dall’all. n. 2 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) e dall’all. 2 n. II 71 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. Scopo
 
-Le unità organizzative dell’UDSC possono gestire le collezioni ausiliarie di dati necessarie per pianificare e controllare i propri compiti nonché stendere rapporti su tali compiti.
+Le unità organizzative dell’UDSC possono gestire le banche dati ausiliarie necessarie per pianificare e controllare i propri compiti nonché stendere rapporti su tali compiti.
 
 ### 2. Contenuto
 
-Le collezioni ausiliarie di dati possono contenere esclusivamente i dati che si trovano nei sistemi d’informazione previsti per il compito in questione ai sensi degli allegati 1–72*a*.
+Le banche dati ausiliarie possono contenere esclusivamente i dati che si trovano nei sistemi d’informazione previsti per il compito in questione ai sensi degli allegati 1–72*a*.
 
 ### 3. Autorizzazioni e comunicazione
 
 - 3\.1 Le autorizzazioni sono disciplinate dall’articolo 5 capoverso 3 e da eventuali disposizioni negli allegati di pertinenza.
-- 3\.2 La comunicazione di dati desunti dalle collezioni ausiliarie di dati ad autorità e persone esterne all’UDSC non è ammessa.
+- 3\.2 La comunicazione di dati desunti dalle banche dati ausiliarie ad autorità e persone esterne all’UDSC non è ammessa.
 
 ### 4. Conservazione dei dati
 
-I dati contenuti nelle collezioni ausiliarie di dati non possono essere conservati più a lungo di quanto previsto per i rispettivi dati negli allegati 1–72*a*.
+I dati contenuti nelle banche dati ausiliarie non possono essere conservati più a lungo di quanto previsto per i rispettivi dati negli allegati 1–72*a*.

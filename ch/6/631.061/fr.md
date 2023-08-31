@@ -4,11 +4,11 @@ title: "Ordonnance du 23 août 2017 sur le traitement des données personnelles 
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230801/fr"
 
 (Ordonnance sur le traitement des données dans l’OFDF, OTD-OFDF)[^t-1]
 
-du 23 août 2017 (État le 1<sup>er</sup> août 2023)
+du 23 août 2017 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 Le Conseil fédéral suisse,
 
-vu les art. 2, al. 2, 110, al. 3, et 112, al. 5, de la loi du 18 mars 2005 sur les douanes (LD)[^ingress-1], vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2], vu l’art. 27, al. 2, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-3], vu l’art. 19 de la loi du 20 juin 1933 sur le contrôle des métaux précieux[^ingress-4], en exécution de la Convention du 20 mai 1987 relative à un régime de transit commun[^ingress-5],
+vu les art. 2, al. 2, 110, al. 3, et 112, al. 5, de la loi du 18 mars 2005 sur les douanes (LD)[^ingress-1], vu l’art. 57*h*<sup>ter</sup> de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-2], vu l’art. 27, al. 2, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-3], vu l’art. 19 de la loi du 20 juin 1933 sur le contrôle des métaux précieux[^ingress-4], en exécution de la Convention du 20 mai 1987 relative à un régime de transit commun[^ingress-5],[^ingress-6]
 
 arrête:
 
@@ -32,6 +32,7 @@ arrête:
 [^ingress-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-4]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 [^ingress-5]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^ingress-6]: Nouvelle teneur selon l’annexe 2 ch. II 71 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 1 Dispositions générales
 
@@ -114,11 +115,12 @@ Dans les annexes, sont réputés identité en tant que de besoin:
 
 #### Art. 8
 
-**Droits des personnes concernées**
+**Droits des personnes concernées**[^8-1]
 
-Les droits des personnes concernées, en particulier le droit d’accès aux données, à leur rectification et à leur destruction, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^8-1] et ses dispositions d’exécution.
+Les droits des personnes concernées, en particulier le droit d’accès aux données, à leur rectification et à leur destruction, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^8-2] et ses dispositions d’exécution.
 
-[^8-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 71 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 9
 
@@ -148,7 +150,7 @@ Les données dont on n’a plus besoin et les données dont le délai de conserv
 
 **Sécurité des données**
 
-<sup>1</sup> La garantie de la sécurité des données est régie par les art. 20 et 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1] et par l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-2].[^12-3]
+<sup>1</sup> La garantie de la sécurité des données est régie par les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^12-1] et par l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-2].[^12-3]
 
 <sup>2</sup> Les données, les programmes et les documentations qui y sont rattachés doivent être protégés contre tout traitement non autorisé, la destruction et le vol. Ils doivent pouvoir être restaurés.
 
@@ -158,7 +160,7 @@ Les données dont on n’a plus besoin et les données dont le délai de conserv
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Nouvelle teneur selon l’annexe ch. 17 de l’O du 25 nov. 2020 sur la coordination de la transformation numérique et la gouvernance de l’informatique dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^12-3]: Nouvelle teneur selon l’annexe 2 ch. II 71 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -194,7 +196,7 @@ L’ordonnance du 4 avril 2007 sur le traitement des données dans l’AFD[^15-1
 
 **Modification d’un autre acte**
 
-...[^16-1]
+…[^16-1]
 
 [^16-1]: Les mod. peuvent être consultées au [RO 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535).
 
