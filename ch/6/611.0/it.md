@@ -4,11 +4,11 @@ title: Legge federale del 7 ottobre 2005 sulle finanze della Confederazione (LFC
 short: LFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
 language: it
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2005-10-07
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/it"
 
 (LFC)
 
-del 7 ottobre 2005 (Stato 1° febbraio 2023)
+del 7 ottobre 2005 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1067,7 +1067,7 @@ La CRPF può sciogliere la relazione di conto in particolare se:
 
 <sup>1</sup>
 
-La CRPF tratta in forma cartacea e in un sistema d’informazione i dati dei suoi clienti, compresi i dati personali degni di particolare protezione e i profili della personalità, di cui ha bisogno per adempiere i propri compiti, in particolare per:
+La CRPF tratta in forma cartacea e in un sistema d’informazione i dati dei suoi clienti, compresi i dati personali degni di particolare protezione, di cui necessita per adempiere i propri compiti, in particolare per:[^60c-2]
 
 - a. gestire i conti;
 - b. eseguire il traffico dei pagamenti; e
@@ -1075,9 +1075,9 @@ La CRPF tratta in forma cartacea e in un sistema d’informazione i dati dei suo
 
 <sup>2</sup> Gli impiegati della CRPF e i terzi incaricati della gestione tecnica, dell’esecuzione del traffico dei pagamenti e della rilevazione dei dati hanno accesso al sistema d’informazione, per quanto sia necessario per l’adempimento dei loro compiti.
 
-<sup>3</sup> Per l’adempimento dei propri compiti, gli impiegati della CRPF possono trasmettere dati personali, compresi dati personali degni di particolare protezione e profili della personalità, ai propri superiori diretti, anche se questi ultimi non sono impiegati della CRPF.
+<sup>3</sup> Per l’adempimento dei loro compiti, gli impiegati della CRPF possono trasmettere dati personali, compresi dati personali degni di particolare protezione, ai loro superiori diretti, anche se questi ultimi non sono impiegati della CRPF.[^60c-3]
 
-<sup>4</sup> Al fine di verificare il diritto a un conto e di adempiere gli obblighi secondo la legge del 10 ottobre 1997[^60c-2] sul riciclaggio di denaro, la CRPF scambia regolarmente dati personali con l’Ufficio federale del personale, con altri datori di lavoro dei clienti e con PUBLICA. Lo scambio di dati è reciproco.
+<sup>4</sup> Al fine di verificare il diritto a un conto e di adempiere gli obblighi secondo la legge del 10 ottobre 1997[^60c-4] sul riciclaggio di denaro, la CRPF scambia regolarmente dati personali con l’Ufficio federale del personale, con altri datori di lavoro dei clienti e con PUBLICA. Lo scambio di dati è reciproco.
 
 <sup>5</sup> La CRPF è responsabile della protezione dei dati e della sicurezza del sistema d’informazione.
 
@@ -1089,7 +1089,9 @@ Il Consiglio federale:
 - b. stabilisce i termini di conservazione e disciplina la distruzione dei dati allo scadere del termine.
 
 [^60c-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-[^60c-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^60c-2]: Nuovo testo giusta l’all. 1 n. II 46 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^60c-3]: Nuovo testo giusta l’all. 1 n. II 46 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^60c-4]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 #### Art. 61
 
@@ -1140,7 +1142,7 @@ Il Consiglio federale presenta all’Assemblea federale, al più tardi sei anni 
 
 La legge del 6 ottobre 1989[^64-1] sulle finanze della Confederazione è abrogata.
 
-[^64-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327); [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [5191](https://fedlex.data.admin.ch/eli/oc/2003/764); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 ,[1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3, [2143](https://fedlex.data.admin.ch/eli/oc/2004/246)]
+[^64-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327); [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [5191](https://fedlex.data.admin.ch/eli/oc/2003/764); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6, [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3, [2143](https://fedlex.data.admin.ch/eli/oc/2004/246)]
 
 #### Art. 65
 

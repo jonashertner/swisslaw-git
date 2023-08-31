@@ -4,11 +4,11 @@ title: "Loi du 7 octobre 2005 sur les finances de la Confédération (Loi sur le
 short: LFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
 language: fr
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2005-10-07
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/fr"
 
 (Loi sur les finances, LFC)
 
-du 7 octobre 2005 (État le 1<sup>er</sup> février 2023)
+du 7 octobre 2005 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -840,11 +840,11 @@ Une unité administrative bénéficiant d’une autorisation peut fournir des pr
 
 ## Chapitre 5 Établissement des comptes
 
-## Section 1 Comptes annuels de la Confédération
+### Section 1 Comptes annuels de la Confédération
 
-[^chap6-1]
+[^chap5-sec1-1]
 
-[^chap6-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^chap5-sec1-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 47
 
@@ -1067,7 +1067,7 @@ La CEPF peut résilier la relation de compte en particulier:
 
 <sup>1</sup>
 
-La CEPF traite, sur papier et dans un système d’information, les données concernant ses clients, y compris les données personnelles sensibles et les profils de la personnalité, dont elle a besoin pour s’acquitter de ses tâches, notamment pour:
+La CEPF traite, sur papier et dans un système d’information, les données concernant ses clients, y compris les données sensibles, dont elle a besoin pour s’acquitter de ses tâches, notamment pour:[^60c-2]
 
 - a. gérer les comptes;
 - b. effectuer des opérations de paiement;
@@ -1075,9 +1075,9 @@ La CEPF traite, sur papier et dans un système d’information, les données con
 
 <sup>2</sup> Les employés de la CEPF et les tiers chargés de l’exploitation technique, de l’exécution des opérations de paiement et de la saisie des données ont accès au système d’information pour autant que l’exécution de leurs tâches l’exige.
 
-<sup>3</sup> Les employés de la CEPF peuvent, pour l’exécution de leurs tâches, transmettre des données personnelles, y compris des données personnelles sensibles et des profils de la personnalité, à leurs supérieurs directs, même si ces derniers ne sont pas des employés de la CEPF.
+<sup>3</sup> Les employés de la CEPF peuvent, pour l’exécution de leurs tâches, transmettre des données personnelles, y compris des données sensibles, à leurs supérieurs directs, même si ces derniers ne sont pas des employés de la CEPF.[^60c-3]
 
-<sup>4</sup> La CEPF échange régulièrement avec l’Office fédéral du personnel, d’autres employeurs des clients et PUBLICA des données personnelles afin, d’une part, de déterminer si la personne concernée a le droit de détenir un compte et, d’autre part, de remplir les obligations qui lui incombent en vertu de la loi du 10 octobre 1997 sur le blanchiment d’argent[^60c-2]. L’échange de données est réciproque.
+<sup>4</sup> La CEPF échange régulièrement avec l’Office fédéral du personnel, d’autres employeurs des clients et PUBLICA des données personnelles afin, d’une part, de déterminer si la personne concernée a le droit de détenir un compte et, d’autre part, de remplir les obligations qui lui incombent en vertu de la loi du 10 octobre 1997 sur le blanchiment d’argent[^60c-4]. L’échange de données est réciproque.
 
 <sup>5</sup> La CEPF est responsable de la protection des données et de la sécurité du système d’information.
 
@@ -1089,7 +1089,9 @@ Le Conseil fédéral:
 - b. fixe le délai de conservation des données et règle leur destruction à l’expiration de ce délai.
 
 [^60c-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-[^60c-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^60c-2]: Nouvelle teneur selon l’annexe 1 ch. II 46 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^60c-3]: Nouvelle teneur selon l’annexe 1 ch. II 46 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^60c-4]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 #### Art. 61
 

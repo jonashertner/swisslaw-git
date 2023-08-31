@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 7. Oktober 2005 über den eidgenössischen Finanzhausha
 short: FHG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
 language: de
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2005-10-07
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/de"
 
 (Finanzhaushaltgesetz, FHG)
 
-vom 7. Oktober 2005 (Stand am 1. Februar 2023)
+vom 7. Oktober 2005 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1063,7 +1063,7 @@ Die SKB kann die Kontobeziehung insbesondere auflösen, wenn:
 
 <sup>1</sup>
 
-Die SKB bearbeitet in Papierform und in einem Informationssystem die Daten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, ihrer Kundinnen und Kunden, die sie zur Erfüllung ihrer Aufgabe benötigt, namentlich um:
+Die SKB bearbeitet in Papierform und in einem Informationssystem die Daten, einschliesslich besonders schützenswerter Personendaten, ihrer Kundinnen und Kunden, die sie zur Erfüllung ihrer Aufgabe benötigt, namentlich um:[^60c-2]
 
 - a. die Konten zu führen;
 - b. den Zahlungsverkehr abzuwickeln; und
@@ -1071,9 +1071,9 @@ Die SKB bearbeitet in Papierform und in einem Informationssystem die Daten, eins
 
 <sup>2</sup> Die Angestellten der SKB und die mit dem technischen Betrieb, der Abwicklung des Zahlungsverkehrs und der Datenerfassung beauftragten Dritten erhalten Zugriff auf das Informationssystem, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.
 
-<sup>3</sup> Die Angestellten der SKB können für die Erfüllung ihrer Aufgaben Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, an ihre direkten Vorgesetzten weitergeben, auch wenn diese nicht Angestellte der SKB sind.
+<sup>3</sup> Die Angestellten der SKB können für die Erfüllung ihrer Aufgaben Personendaten, einschliesslich besonders schützenswerter Personendaten, an ihre direkten Vorgesetzten weitergeben, auch wenn diese nicht Angestellte der SKB sind.[^60c-3]
 
-<sup>4</sup> Die SKB tauscht regelmässig Personendaten zur Abklärung der Kontoberechtigung und zur Erfüllung der Pflichten nach dem Geldwäschereigesetz vom 10. Oktober 1997[^60c-2] mit dem Eidgenössischen Personalamt, weiteren Arbeitgebern der Kundinnen und Kunden sowie mit PUBLICA aus. Der Datenaustausch findet gegenseitig statt.
+<sup>4</sup> Die SKB tauscht regelmässig Personendaten zur Abklärung der Kontoberechtigung und zur Erfüllung der Pflichten nach dem Geldwäschereigesetz vom 10. Oktober 1997[^60c-4] mit dem Eidgenössischen Personalamt, weiteren Arbeitgebern der Kundinnen und Kunden sowie mit PUBLICA aus. Der Datenaustausch findet gegenseitig statt.
 
 <sup>5</sup> Die SKB ist verantwortlich für den Schutz der Daten und die Sicherheit des Informationssystems.
 
@@ -1085,7 +1085,9 @@ Der Bundesrat legt fest:
 - b. die Aufbewahrungsfrist und die Vernichtung der Daten nach Ablauf dieser Frist.
 
 [^60c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-[^60c-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^60c-2]: Fassung gemäss Anhang 1 Ziff. II 46 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^60c-3]: Fassung gemäss Anhang 1 Ziff. II 46 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^60c-4]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 #### Art. 61
 
@@ -1141,8 +1143,6 @@ Das Finanzhaushaltgesetz vom 6. Oktober 1989[^64-1] wird aufgehoben.
 #### Art. 65
 
 **Änderung bisherigen Rechts**
-
-Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 …[^65-1]
 
