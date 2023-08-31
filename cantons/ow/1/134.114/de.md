@@ -4,13 +4,12 @@ number: "134.114"
 title: Geschäftsreglement für das Obergericht
 short: GRO
 language: de
-version: 2021-05-01
-valid_until: 2023-08-31
-version_adopted: 2021-04-20
+version: 2023-09-01
+version_adopted: 2023-05-30
 adopted: 2016-03-30
 in_force: 2016-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/134.114"
-pdf: "http://gdb.ow.ch/api/de/versions/1515/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1815/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1515/pdf_file"
 
 (GRO)
 
-vom 30.03.2016 (Stand 01.05.2021)
+vom 30.03.2016 (Stand 01.09.2023)
 
 Die Gerichtspräsidien,
 
@@ -49,13 +48,13 @@ beschliessen:
 
 <sup>1</sup> Der Aufgabenbereich des Gerichtspräsidiums II umfasst:
 
-- a. das Sozialversicherungsrecht;
-- b. das Steuerrecht;
-- c. die Aufgaben der Beschwerdeinstanz in Strafsachen (einschliesslich Aufsichtsbeschwerden);
-- d. das Familienrecht;
-- e. das Kindes- und Erwachsenenschutzrecht;
-- f. weitere Aufgaben nach Absprache mit dem Gerichtspräsidium I;
-- g. die Stellvertretung des Gerichtspräsidiums I, insbesondere bei Ausstand, Ferienabwesenheit, Krankheit und dergleichen.
+- a. das Zivilrecht;
+- b. das Kindes- und Erwachsenenschutzrecht;
+- c. das Steuerrecht;
+- d. die Aufgaben der Beschwerdeinstanz in Strafsachen (einschliesslich Aufsichtsbeschwerden);
+- e. weitere Aufgaben nach Absprache mit dem Gerichtspräsidium I;
+- f. die Stellvertretung des Gerichtspräsidiums I, insbesondere bei Ausstand, Ferienabwesenheit, Krankheit und dergleichen;
+- g. …
 
 ## 2. Gerichtsschreiberinnen und Gerichtsschreiber
 
@@ -160,6 +159,8 @@ Geändert durch:
 
 \- Nachtrag vom 3. Mai 2018, Genehmigung durch die Rechtspflegekommission vom 8. Mai 2018, in Kraft seit 8. Mai 2018 (OGS 2018, 13),
 
-\- Nachtrag vom 20. April 2021, Genehmigung durch die Rechtspflegekommission vom 26. April 2021, in Kraft seit 1. Mai 2021 (OGS 2021, 18)
+\- Nachtrag vom 20. April 2021, Genehmigung durch die Rechtspflegekommission vom 26. April 2021, in Kraft seit 1. Mai 2021 (OGS 2021, 18),
+
+\- Nachtrag vom 30. Mai 2023, Genehmigung durch die Rechtspflegekommission vom 20. Juni 2023, in Kraft seit 1. September 2023 (OGS 2023, 17a)
 
 OGS 2016, 33
