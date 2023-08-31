@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/fr"
 
 (OApEl)
 
-du 14 mars 2008 (État le 1<sup>er</sup> avril 2023)
+du 14 mars 2008 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -477,24 +477,28 @@ Lorsqu’un consommateur final, un producteur ou un exploitant de stockage conse
 
 Les gestionnaires de réseau sont habilités à traiter les données enregistrées au moyen de systèmes de mesure, de commande et de réglage sans le consentement des personnes concernées, aux fins suivantes:
 
-- a. profils de la personnalité et données personnelles sous une forme pseudonymisée, y compris valeurs de courbe de charge de 15 minutes et plus: pour la mesure, la commande et le réglage, pour l’utilisation de systèmes tarifaires ainsi que pour une exploitation sûre, performante et efficace du réseau, pour l’établissement du bilan du réseau et pour la planification du réseau;
-- b. profils de la personnalité et données personnelles sous une forme non pseudonymisée, y compris valeurs de courbe de charge de 15 minutes et plus: pour le décompte de l’électricité livrée, de la rémunération versée pour l’utilisation du réseau et de la rétribution pour l’utilisation de systèmes de commande et de réglage.
+- a. données personnelles, ainsi que données des personnes morales, sous une forme pseudonymisée, y compris valeurs de courbe de charge de 15 minutes et plus: pour la mesure, la commande et le réglage, pour l’utilisation de systèmes tarifaires ainsi que pour une exploitation sûre, performante et efficace du réseau, pour l’établissement du bilan du réseau et pour la planification du réseau;
+- b. données personnelles, ainsi que données des personnes morales, sous une forme non pseudonymisée, y compris valeurs de courbe de charge de 15 minutes et plus: pour le décompte de l’électricité livrée, de la rémunération versée pour l’utilisation du réseau et de la rétribution pour l’utilisation de systèmes de commande et de réglage.[^8d-2]
 
 <sup>2</sup>
 
 Ils sont habilités à transmettre les données enregistrées au moyen de systèmes de mesure sans le consentement des personnes concernées, aux personnes suivantes:
 
-- a. profils de la personnalité et données personnelles sous une forme pseudonymisée ou agrégée appropriée: aux acteurs visés à l’art. 8, al. 3;
+- a.[^8d-3] données personnelles, ainsi que données des personnes morales, sous une forme pseudonymisée ou agrégée appropriée: aux acteurs visés à l’art. 8, al. 3;
 - b. informations relatives au décodage des pseudonymes: aux fournisseurs d’énergie des consommateurs finaux concernés.
 
-<sup>3</sup> Les données personnelles et les profils de la personnalité sont détruits au bout de douze mois s’ils ne sont pas déterminants pour le décompte ou anonymisés.
+<sup>3</sup> Les données personnelles et les données des personnes morales sont détruites au bout de douze mois si elles ne sont pas déterminantes pour le décompte ou anonymisées.[^8d-4]
 
 <sup>4</sup> Le gestionnaire de réseau relève les données relatives aux systèmes de mesure intelligents une fois par jour au plus, sauf si l’exploitation du réseau nécessite une consultation plus fréquente.
 
-<sup>5</sup> Il garantit la sécurité des données des systèmes de mesure, de commande et de réglage. À cet égard, il tient notamment compte des art. 8 à 10 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^8d-2] ainsi que des normes et recommandations internationales édictées par les organisations spécialisées reconnues.
+<sup>5</sup> Il garantit la sécurité des données des systèmes de mesure, de commande et de réglage. À cet égard, il tient notamment compte des art. 1 à 5 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^8d-5] ainsi que des normes et recommandations internationales édictées par les organisations spécialisées reconnues. Il applique les art. 1 à 5 OPDo par analogie lorsqu’il traite les données des personnes morales.[^8d-6]
 
 [^8d-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^8d-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8d-2]: Nouvelle teneur selon l’annexe 2 ch. II 77 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-3]: Nouvelle teneur selon l’annexe 2 ch. II 77 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-4]: Nouvelle teneur selon l’annexe 2 ch. II 77 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-5]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8d-6]: Nouvelle teneur de la 2<sup>ème</sup> phrase et 3<sup>ème</sup> phrase introduite par l’annexe 2 ch. II 77 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -544,7 +548,9 @@ Les gestionnaires de réseau publient les informations visées à l’art. 12, a
 
 <sup>2</sup> Les amortissements comptables annuels calculés résultent des coûts d’acquisition ou de fabrication des installations existantes avec un amortissement linéaire sur une période d’utilisation donnée, jusqu’à la valeur zéro. Seuls sont considérés comme coûts d’acquisition ou de fabrication les coûts de construction des installations concernées.
 
-<sup>3</sup> Le calcul des intérêts annuels des valeurs patrimoniales nécessaires à l’exploitation des réseaux obéit aux règles qui suivent.
+<sup>3</sup>
+
+Le calcul des intérêts annuels des valeurs patrimoniales nécessaires à l’exploitation des réseaux obéit aux règles qui suivent:
 
 - a.
 

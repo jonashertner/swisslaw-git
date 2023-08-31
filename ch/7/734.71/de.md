@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. April 2023)
+vom 14. März 2008 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -476,24 +476,28 @@ Stimmt ein Endverbraucher, ein Erzeuger oder ein Speicherbetreiber zu, dass bei 
 
 Netzbetreiber dürfen die Daten aus dem Einsatz von Mess-, Steuer- und Regelsystemen ohne Einwilligung der betroffenen Person zu folgenden Zwecken bearbeiten:
 
-- a. Persönlichkeitsprofile und Personendaten in pseudonymisierter Form, einschliesslich Lastgangwerte von fünfzehn Minuten und mehr: für die Messung, Steuerung und Regelung, für den Einsatz von Tarifsystemen sowie für den sicheren, leistungsfähigen und effizienten Netzbetrieb, die Netzbilanzierung und die Netzplanung;
-- b. Persönlichkeitsprofile und Personendaten in nicht pseudonymisierter Form einschliesslich Lastgangwerte von fünfzehn Minuten und mehr: für die Abrechnung der Energielieferung, des Netznutzungsentgelts und der Vergütung für den Einsatz von Steuer- und Regelsystemen.
+- a. Personendaten sowie Daten juristischer Personen in pseudonymisierter Form, einschliesslich Lastgangwerten von fünfzehn Minuten und mehr: für die Messung, Steuerung und Regelung, für den Einsatz von Tarifsystemen sowie für den sicheren, leistungsfähigen und effizienten Netzbetrieb, die Netzbilanzierung und die Netzplanung;
+- b. Personendaten sowie Daten juristischer Personen in nicht pseudonymisierter Form, einschliesslich Lastgangwerten von fünfzehn Minuten und mehr: für die Abrechnung der Energielieferung, des Netznutzungsentgelts und der Vergütung für den Einsatz von Steuer- und Regelsystemen.[^8d-2]
 
 <sup>2</sup>
 
 Sie dürfen die Daten aus dem Einsatz von Messsystemen ohne Einwilligung der betroffenen Person folgenden Personen weitergeben:
 
-- a. Persönlichkeitsprofile und Personendaten in pseudonymisierter oder geeignet aggregierter Form: den Beteiligten nach Artikel 8 Absatz 3;
+- a.[^8d-3] Personendaten sowie Daten juristischer Personen in pseudonymisierter oder geeignet aggregierter Form: den Beteiligten nach Artikel 8 Absatz 3;
 - b. die Informationen zur Entschlüsselung der Pseudonyme: den Energielieferanten des betreffenden Endverbrauchers.
 
-<sup>3</sup> Die Personendaten und Persönlichkeitsprofile werden nach zwölf Monaten vernichtet, sofern sie nicht abrechnungsrelevant oder anonymisiert sind.
+<sup>3</sup> Die Personendaten sowie Daten juristischer Personen werden nach zwölf Monaten vernichtet, sofern sie nicht abrechnungsrelevant oder anonymisiert sind.[^8d-4]
 
 <sup>4</sup> Der Netzbetreiber ruft die Daten von intelligenten Messsystemen maximal einmal täglich ab, sofern der Netzbetrieb nicht eine häufigere Abrufung erfordert.
 
-<sup>5</sup> Er gewährleistet die Datensicherheit von Mess-, Steuer- und Regelsystemen. Er beachtet dabei insbesondere die Artikel 8–10 der Verordnung vom 14. Juni 1993[^8d-2] zum Bundesgesetz über den Datenschutz sowie allfällige internationale Normen und Empfehlungen anerkannter Fachorganisationen.
+<sup>5</sup> Er gewährleistet die Datensicherheit von Mess-, Steuer- und Regelsystemen. Er beachtet dabei insbesondere die Artikel 1–5 der Datenschutzverordnung vom 31. August 2022[^8d-5] (DSV) sowie allfällige internationale Normen und Empfehlungen anerkannter Fachorganisationen. Bei der Bearbeitung von Daten juristischer Personen kommen die Artikel 1–5 DSV sinngemäss zur Anwendung.[^8d-6]
 
 [^8d-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^8d-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8d-2]: Fassung gemäss Anhang 2 Ziff. II 77 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-3]: Fassung gemäss Anhang 2 Ziff. II 77 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-4]: Fassung gemäss Anhang 2 Ziff. II 77 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-5]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8d-6]: Fassung des zweiten Satzes und dritter Satz eingefügt gemäss Anhang 2 Ziff. II 77 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 

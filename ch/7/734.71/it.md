@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° aprile 2023)
+del 14 marzo 2008 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -477,24 +477,28 @@ Quando dà il consenso affinché venga impiegato un sistema di controllo e di re
 
 Senza il consenso delle persone interessate, i gestori di rete possono trattare i dati provenienti dall’impiego di sistemi di misurazione, di controllo e di regolazione intelligenti per i seguenti scopi:
 
-- a. profili della personalità e dati personali in forma pseudonimizzata, compresi i profili di carico con periodi di misurazione di 15 minuti e oltre: per la misurazione, il controllo e la regolazione, per l’impiego di sistemi tariffari, nonché per un esercizio sicuro, performante ed efficiente della rete, nonché per il suo bilanciamento e la sua pianificazione;
-- b. profili della personalità e dati personali in forma non pseudonimizzata, compresi i profili di carico con periodi di misurazione di 15 minuti e oltre: per la fatturazione della fornitura di energia, dei corrispettivi per l’utilizzazione della rete e della rimunerazione per l’impiego di sistemi di controllo e di regolazione.
+- a. dati personali e dati di persone giuridiche in forma pseudonimizzata, compresi i profili di carico con periodi di misurazione di 15 minuti e oltre: per la misurazione, il controllo e la regolazione, per l’impiego di sistemi tariffari, nonché per un esercizio sicuro, performante ed efficiente della rete, nonché per il suo bilanciamento e la sua pianificazione;
+- b. dati personali e dati di persone giuridiche in forma non pseudonimizzata, compresi i profili di carico con periodi di misurazione di 15 minuti e oltre: per la fatturazione della fornitura di energia, dei corrispettivi per l’utilizzazione della rete e della rimunerazione per l’impiego di sistemi di controllo e di regolazione.[^8d-2]
 
 <sup>2</sup>
 
 Senza il consenso delle persone interessate, i gestori di rete possono trasmettere i dati provenienti dall’impiego di sistemi di misurazione alle seguenti persone:
 
-- a. profili della personalità e dati personali in forma pseudonimizzata o adeguatamente aggregata: ai partecipanti di cui all’articolo 8 capoverso 3;
+- a.[^8d-3] dati personali e dati di persone giuridiche in forma pseudonimizzata o adeguatamente aggregata: ai partecipanti di cui all’articolo 8 capoverso 3;
 - b. informazioni per la decodificazione degli pseudonimi: ai fornitori di energia dei consumatori finali interessati.
 
-<sup>3</sup> I dati personali e i profili della personalità vengono distrutti dopo 12 mesi sempre che non siano rilevanti ai fini della fatturazione o anonimizzati.
+<sup>3</sup> I dati personali e i dati di persone giuridiche vengono distrutti dopo 12 mesi sempre che non siano rilevanti ai fini della fatturazione o anonimizzati.[^8d-4]
 
 <sup>4</sup> Il gestore di rete consulta i dati provenienti dai sistemi di misurazione intelligenti al massimo una volta al giorno, sempre che l’esercizio della rete non richieda una lettura più frequente.
 
-<sup>5</sup> Garantisce la sicurezza dei dati provenienti dai sistemi di misurazione, di controllo e di regolazione. A tale fine tiene conto in particolare degli articoli 8–10 dell’ordinanza del 14 giugno 1993[^8d-2] relativa alla legge federale sulla protezione dei dati, nonché di eventuali norme e raccomandazioni internazionali emanate da organizzazioni specializzate riconosciute.
+<sup>5</sup> Garantisce la sicurezza dei dati provenienti dai sistemi di misurazione, di controllo e di regolazione. A tale fine tiene conto in particolare degli articoli 1–5 dell’ordinanza del 31 agosto 2022[^8d-5] sulla protezione dei dati (OPDa), nonché di eventuali norme e raccomandazioni internazionali emanate da organizzazioni specializzate riconosciute. Applica gli articoli 1–5 OPDa per analogia quando tratta i dati delle persone giuridiche.[^8d-6]
 
 [^8d-1]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^8d-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8d-2]: Nuovo testo giusta l’all. 2 n. II 77 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-3]: Nuovo testo giusta l’all. 2 n. II 77 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-4]: Nuovo testo giusta l’all. 2 n. II 77 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8d-5]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8d-6]: Nuovo testo del secondo per. e terzo per. introdotto dall’all. 2 n. II 77 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
