@@ -4,11 +4,11 @@ title: Loi fédérale du 30 septembre 2016 sur les professions de la santé (LPS
 short: LPSan
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-16-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-16-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/fr"
 
 (LPSan)[^t-1]
 
-du 30 septembre 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 30 septembre 2016 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -368,14 +368,15 @@ Les personnes suivantes doivent être enregistrées:
 - b. les titulaires d’une autorisation de pratiquer au sens de l’art. 11;
 - c. les personnes qui se sont annoncées en vertu de l’art. 15.
 
-<sup>2</sup> Le registre contient les données nécessaires pour atteindre les buts visés à l’art. 23, al. 2. En font aussi partie les données sensibles au sens de l’art. 3, let. c, de la loi fédérale du 19 juin 1992 sur la protection des données[^24-1].
+<sup>2</sup> Le registre contient les données nécessaires pour atteindre les buts visés à l’art. 23, al. 2. En font aussi partie les données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^24-1].[^24-2]
 
-<sup>3</sup> Dans le registre, le numéro AVS est utilisé systématiquement en vue de l’identification univoque des personnes qui y figurent, ainsi que pour la mise à jour des données personnelles.[^24-2]
+<sup>3</sup> Dans le registre, le numéro AVS est utilisé systématiquement en vue de l’identification univoque des personnes qui y figurent, ainsi que pour la mise à jour des données personnelles.[^24-3]
 
 <sup>4</sup> Le Conseil fédéral édicte des dispositions plus détaillées sur les données personnelles contenues dans le registre et sur les modalités de leur traitement.
 
 [^24-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24-2]: Nouvelle teneur selon l’annexe ch. 24 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^24-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 72 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^24-3]: Nouvelle teneur selon l’annexe ch. 24 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 25
 
@@ -471,8 +472,8 @@ La modification d’autres actes est réglée en annexe.
 
 <sup>6</sup> ...[^34-3]
 
-[^34-1]: [RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 1
-[^34-2]: [RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 2
+[^34-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 1]
+[^34-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 2]
 [^34-3]: Entre en vigueur ultérieurement ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16)).
 
 #### Art. 35

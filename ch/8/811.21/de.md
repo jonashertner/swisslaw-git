@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2016 über die Gesundheitsberufe (Gesundh
 short: GesBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-16-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-16-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/de"
 
 (Gesundheitsberufegesetz, GesBG)
 
-vom 30. September 2016 (Stand am 1. Januar 2022)
+vom 30. September 2016 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -366,14 +366,15 @@ Registriert werden müssen:
 - b. die Inhaberinnen und Inhaber einer Berufsausübungsbewilligung nach Artikel 11;
 - c. die Personen, die sich nach Artikel 15 gemeldet haben.
 
-<sup>2</sup> Das Register enthält die Daten, die zur Erreichung des Zwecks nach Artikel 23 Absatz 2 benötigt werden. Dazu gehören auch besonders schützenswerte Personendaten im Sinne von Artikel 3 Buchstabe c des Bundesgesetzes vom 19. Juni 1992[^24-1] über den Datenschutz.
+<sup>2</sup> Das Register enthält die Daten, die zur Erreichung des Zwecks nach Artikel 23 Absatz 2 benötigt werden. Dazu gehören auch besonders schützenswerte Personendaten im Sinne von Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^24-1].[^24-2]
 
-<sup>3</sup> Im Register wird die AHV-Nummer zur eindeutigen Identifizierung der im Register aufgeführten Personen sowie zur Aktualisierung der Personendaten systematisch verwendet.[^24-2]
+<sup>3</sup> Im Register wird die AHV-Nummer zur eindeutigen Identifizierung der im Register aufgeführten Personen sowie zur Aktualisierung der Personendaten systematisch verwendet.[^24-3]
 
 <sup>4</sup> Der Bundesrat erlässt nähere Bestimmungen über die im Register enthaltenen Personendaten sowie über deren Bearbeitungsmodalitäten.
 
 [^24-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24-2]: Fassung gemäss Anhang Ziff. 24 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^24-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 72 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^24-3]: Fassung gemäss Anhang Ziff. 24 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 25
 
@@ -467,7 +468,7 @@ Die Änderung anderer Erlasse ist im Anhang geregelt.
 
 <sup>5</sup> Hochschulen, die nach dem Universitätsförderungsgesetz vom 8. Oktober 1999[^34-1] oder nach dem Fachhochschulgesetz vom 6. Oktober 1995[^34-2] als beitragsberechtigt anerkannt waren, können ihre Studiengänge bis zum 31. Dezember 2022 akkreditieren lassen, auch wenn sie die Voraussetzungen nach Artikel 7 Buchstabe a nicht erfüllen.
 
-<sup>6</sup> ...[^34-3]
+<sup>6</sup> …[^34-3]
 
 [^34-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10; [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
 [^34-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11; [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
@@ -503,6 +504,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16)konsultiert werden.

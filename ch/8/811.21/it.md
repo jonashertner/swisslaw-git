@@ -4,11 +4,11 @@ title: Legge federale del 30 settembre 2016 sulle professioni sanitarie (LPSan)
 short: LPSan
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-16-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-16-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/it"
 
 (LPSan)
 
-del 30 settembre 2016 (Stato 1° gennaio 2022)
+del 30 settembre 2016 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -366,14 +366,15 @@ Devono essere registrati:
 - b. i titolari di un’autorizzazione all’esercizio della professione secondo l’articolo 11;
 - c. le persone che si sono annunciate conformemente all’articolo 15.
 
-<sup>2</sup> Il registro contiene i dati necessari al raggiungimento dello scopo di cui all’articolo 23 capoverso 2. Vi rientrano anche dati personali degni di particolare protezione ai sensi dell’articolo 3 lettera c della legge federale del 19 giugno 1992[^24-1] sulla protezione dei dati.
+<sup>2</sup> Il registro contiene i dati necessari al raggiungimento dello scopo di cui all’articolo 23 capoverso 2. Vi rientrano anche dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^24-1] sulla protezione dei dati.[^24-2]
 
-<sup>3</sup> Nel registro si utilizza sistematicamente il numero AVS al fine di identificare in modo univoco le persone registrate e aggiornare i dati personali.[^24-2]
+<sup>3</sup> Nel registro si utilizza sistematicamente il numero AVS al fine di identificare in modo univoco le persone registrate e aggiornare i dati personali.[^24-3]
 
 <sup>4</sup> Il Consiglio federale emana disposizioni più dettagliate sui dati personali contenuti nel registro e sulle relative modalità di trattamento.
 
 [^24-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24-2]: Nuovo testo giusta l’all. n. 24 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^24-2]: Nuovo testo del per. giusta l’all. 1 n. II 72 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^24-3]: Nuovo testo giusta l’all. n. 24 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 25
 
