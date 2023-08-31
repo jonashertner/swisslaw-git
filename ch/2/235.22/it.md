@@ -3,11 +3,11 @@ sr: "235.22"
 title: "Ordinanza del 17 agosto 2016 concernente il sistema d'informazione E-VERA (Ordinanza E-VERA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/it"
 
 (Ordinanza E-VERA)
 
-del 17 agosto 2016 (Stato 1° gennaio 2022)
+del 17 agosto 2016 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -138,11 +138,11 @@ I dati di cui all’allegato 1 vengono trasmessi automaticamente e in forma cifr
 
 #### Art. 9
 
-**Distruzione dei set di dati**
+**Distruzione di dati[^9-1]**
 
 <sup>1</sup>
 
-Il set di dati relativo a una persona viene distrutto dopo cinque anni dalla registrazione di una delle informazioni elencate di seguito, o al più tardi al compimento del 115° anno di età:
+I dati relativi a una persona vengono distrutti dopo cinque anni dalla registrazione di una delle informazioni elencate di seguito, o al più tardi al compimento del 115° anno di età:[^9-2]
 
 - a. partito;
 - b. deceduto;
@@ -151,6 +151,9 @@ Il set di dati relativo a una persona viene distrutto dopo cinque anni dalla reg
 - e. scomparso.
 
 <sup>2</sup> Sono fatte salve le disposizioni della legislazione federale in materia di archiviazione.
+
+[^9-1]: Nuovo testo giusta l’all. 2 n. II 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Nuovo testo giusta l’all. 2 n. II 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 3: Diritti di accesso e gestione
 
@@ -196,16 +199,17 @@ E-VERA dispone di un’interfaccia elettronica con il sistema d’informazione E
 
 La sicurezza informatica è retta:
 
-- a. dall’ordinanza del 14 giugno 1993[^14-1] relativa alla legge federale sulla protezione dei dati;
-- b.[^14-2] dall’ordinanza del 27 maggio 2020[^14-3] sui ciber-rischi;
-- c.[^14-4] ...
+- a.[^14-1] dall’ordinanza del 31 agosto 2022[^14-2] sulla protezione dei dati;
+- b.[^14-3] dall’ordinanza del 27 maggio 2020[^14-4] sui ciber-rischi;
+- c.[^14-5] ...
 
 <sup>2</sup> La DC emana un regolamento per il trattamento dei dati. Il regolamento contiene le misure organizzative e tecniche volte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
 
-[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Nuovo testo giusta l’all. n. 12 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Abrogata dall’all. n. 12 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Nuovo testo giusta l’all. n. 12 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-5]: Abrogata dall’all. n. 12 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
@@ -213,7 +217,9 @@ La sicurezza informatica è retta:
 
 <sup>1</sup> Gli accessi a E-VERA e il trattamento dei dati in E-VERA sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati per un anno.
+<sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^15-1]
+
+[^15-1]: Nuovo testo giusta l’all. 2 n. II 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 

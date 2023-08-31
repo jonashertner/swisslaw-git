@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2016 sur le système d’information E-VERA
 short: O E-VERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/fr"
 
 (O E-VERA)
 
-du 17 août 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 17 août 2016 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -137,11 +137,11 @@ Les données mentionnées à l’annexe 1 sont transmises automatiquement et sou
 
 #### Art. 9
 
-**Destruction de fichiers de données**
+**Destruction des données[^9-1]**
 
 <sup>1</sup>
 
-Le fichier des données relatives à une personne est détruit cinq ans après la saisie de l’une des indications énumérées ci-après, mais au plus tard après que la personne concernée a atteint l’âge de 115 ans:
+Les données relatives à une personne sont détruites cinq ans après la saisie de l’une des indications énumérées ci-après, mais au plus tard après que la personne concernée a atteint l’âge de 115 ans:[^9-2]
 
 - a. départ annoncé;
 - b. personne décédée;
@@ -150,6 +150,9 @@ Le fichier des données relatives à une personne est détruit cinq ans après l
 - e. personne disparue.
 
 <sup>2</sup> Sont réservées les dispositions de la législation fédérale relative à l’archivage.
+
+[^9-1]: Nouvelle teneur selon l’annexe 2 ch. II 31 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Nouvelle teneur selon l’annexe 2 ch. II 31 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 3 Droits d’accès et exploitation
 
@@ -195,16 +198,17 @@ E-VERA présente une interface électronique avec le système d’information ED
 
 La sécurité informatique est régie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
-- b.[^14-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-3];
-- c.[^14-4] …
+- a.[^14-1] l’ordonnance du 31 août 2022 sur la protection des données[^14-2];
+- b.[^14-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-4];
+- c.[^14-5] …
 
 <sup>2</sup> La DC édicte un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
-[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Abrogée par l’annexe ch. 12 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 31 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-5]: Abrogée par l’annexe ch. 12 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
@@ -212,7 +216,9 @@ La sécurité informatique est régie par:
 
 <sup>1</sup> Les accès à E-VERA et les modifications qui y sont effectuées sont journalisés en permanence.
 
-<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^15-1]
+
+[^15-1]: Nouvelle teneur selon l’annexe 2 ch. II 31 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Dispositions finales
 

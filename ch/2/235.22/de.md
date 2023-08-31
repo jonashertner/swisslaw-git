@@ -4,11 +4,11 @@ title: "Verordnung vom 17. August 2016 über das Informationssystem E-VERA (Vero
 short: VEVERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20220101/de"
 
 (Verordnung E-VERA, VEVERA)
 
-vom 17. August 2016 (Stand am 1. Januar 2022)
+vom 17. August 2016 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -139,11 +139,11 @@ Den folgenden Stellen werden die Daten nach Anhang 1 automatisch und verschlüss
 
 #### Art. 9
 
-**Vernichtung von Datensätzen**
+**Vernichtung von Daten[^9-1]**
 
 <sup>1</sup>
 
-Fünf Jahre nach der Erfassung einer der folgenden Angaben, spätestens aber nach Vollendung des 115. Altersjahrs, wird der Datensatz der betreffenden Person vernichtet:
+Fünf Jahre nach der Erfassung einer der folgenden Angaben, spätestens aber nach Vollendung des 115. Altersjahrs, werden die Daten der betreffenden Person vernichtet:[^9-2]
 
 - a. abgemeldet;
 - b. gestorben;
@@ -152,6 +152,9 @@ Fünf Jahre nach der Erfassung einer der folgenden Angaben, spätestens aber nac
 - e. verschollen.
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung des Bundes.
+
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 3. Abschnitt: Zugriffsberechtigungen und Betrieb
 
@@ -197,16 +200,17 @@ Das E-VERA weist eine elektronische Schnittstelle zum Informationssystem EDAssis
 
 Die Informatiksicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
-- b.[^14-2] der Cyberrisikenverordnung vom 27. Mai 2020[^14-3];
-- c.[^14-4] …
+- a.[^14-1] der Datenschutzverordnung vom 31. August 2022[^14-2];
+- b.[^14-3] der Cyberrisikenverordnung vom 27. Mai 2020[^14-4];
+- c.[^14-5] …
 
 <sup>2</sup> Die KD erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung.
 
-[^14-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Fassung gemäss Anhang Ziff. 12 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Aufgehoben durch Anhang Ziff. 12 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Fassung gemäss Anhang Ziff. 12 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-5]: Aufgehoben durch Anhang Ziff. 12 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
@@ -214,7 +218,9 @@ Die Informatiksicherheit richtet sich nach:
 
 <sup>1</sup> Die Zugriffe auf das E-VERA und die Bearbeitungen im E-VERA werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^15-1]
+
+[^15-1]: Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
