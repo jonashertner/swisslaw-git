@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Ordinanza del 26 novembre 2008 concernente gli esami federali per le professioni mediche (Ordinanza sugli esami LPMed)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230801-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/it"
 
 (Ordinanza sugli esami LPMed)
 
-del 26 novembre 2008 (Stato 1° agosto 2023)
+del 26 novembre 2008 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ visti gli articoli 12 capoverso 3, 13, 13a e 60 della legge del 23 giugno 2006[^
 
 ordina:
 
-[^ingress-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^ingress-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 
 ## Capitolo 1: Disposizioni generali
@@ -70,14 +70,14 @@ Il contenuto dell’esame federale si fonda sugli obiettivi formativi generali e
 <sup>2</sup> Il Dipartimento federale dell’interno (DFI) stabilisce, dopo aver consultato la Commissione delle professioni mediche (MEBEKO), sezione «Formazione», i principi e i dettagli delle diverse forme di esame.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
-[^3-2]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Humanmedizin (solo in ted. e franc.)
-[^3-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie (solo in ted. e franc.)
+[^3-2]: [www.ufsp.admi n .ch](http://www.ufsp.admin.ch) &gt; Professioni &gt; Professioni mediche &gt; Esami federali per le professioni mediche universitarie&gt; Esame federale in medicina umana
+[^3-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie (solo in ted. e franc.)
 [^3-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-5]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin
+[^3-5]: [www.bag . admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin (solo in ted. e franc.)
 [^3-6]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-7]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik
+[^3-7]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik (solo in ted. e franc.)
 [^3-8]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
-[^3-9]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin
+[^3-9]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin (solo in ted. e franc.)
 
 #### Art. 4
 
@@ -89,7 +89,7 @@ Il contenuto dell’esame federale si fonda sugli obiettivi formativi generali e
 
 [^4a4b-1]
 
-[^4a4b-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^4a4b-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 5
 
@@ -238,7 +238,7 @@ Possono essere autorizzati quali esaminatori:
 <sup>3</sup> ...[^12-2]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
-[^12-2]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^12-2]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 12a
 
@@ -352,9 +352,9 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>3</sup> In caso d’insuccesso, l’esame federale può essere ripetuto due volte.
 
-<sup>4</sup> e <sup>5</sup> ...[^18-1]
+<sup>4 e <sup>5</sup></sup> ...[^18-1]
 
-[^18-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^18-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 19
 
@@ -364,7 +364,7 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>2</sup> ...[^19-1]
 
-[^19-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^19-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 20
 
@@ -376,7 +376,7 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>3</sup> ...[^20-1]
 
-[^20-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^20-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 21
 
@@ -454,9 +454,11 @@ La banca dati contiene inoltre:
 
 <sup>1</sup> I candidati hanno il diritto di essere informati sui dati che li concernono.
 
-<sup>2</sup> A tale scopo devono presentare una domanda scritta alla MEBEKO, sezione «Formazione», attestando la loro identità.
+<sup>2</sup> A tale scopo devono presentare una domanda per scritto alla MEBEKO, sezione «Formazione». La domanda può essere presentata per via elettronica.[^26-1]
 
 <sup>3</sup> Le informazioni sono fornite entro 30 giorni, per scritto e gratuitamente.
+
+[^26-1]: Nuovo testo giusta l’all. 2 n. II 97 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 4: Tasse, indennità e costi
 
@@ -473,7 +475,7 @@ La banca dati contiene inoltre:
 <tr><td>b. esame federale di odontoiatria:</td><td>1000 franchi</td></tr>
 <tr><td>c. esame federale di chiropratica:</td><td>1300 franchi</td></tr>
 <tr><td>d. esame federale di farmacia:</td><td>1300 franchi</td></tr>
-<tr><td>e.[^27-1] esame federale di medicina veterinaria:</td><td>1300 franchi. [^27-2]</td></tr>
+<tr><td>e.[^27-1] esame federale di medicina veterinaria:</td><td>1300 franchi.[^27-2]</td></tr>
 </table>
 
 <sup>3</sup> Se il candidato deve superare o ripetere unicamente parti dell’esame federale, le tasse vengono calcolate proporzionalmente.
@@ -482,13 +484,13 @@ La banca dati contiene inoltre:
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
 [^27-2]: Nuovo testo giusa il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
-[^27-3]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^27-3]: [RS 811.112.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9261)
 
 #### Art. 28
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. I dell’O del 17 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nuovo testo giusta il n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^28-1]: Abrogato dal n. I dell’O del 17 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nuovo testo giusta il n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 29
 
@@ -598,8 +600,8 @@ Per le persone che sostengono l’esame federale in conformità al catalogo sviz
 <sup>3</sup> I capoversi 1 e 2 si applicano allo svolgimento dell’esame federale di medicina veterinaria fino al 2025. Dopo tale data, la MEBEKO, sezione «Formazione», decide, su proposta della commissione d’esame di medicina veterinaria, se imputare interamente o in parte le prove parziali superate secondo il diritto anteriore all’esame federale secondo il nuovo diritto.
 
 [^36a-1]: Introdotto dal n. I dell’O del 17 nov. 2010 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
-[^36a-2]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
-[^36a-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
+[^36a-2]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin (solo in ted. e franc.)
+[^36a-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin (solo in ted. e franc.)
 
 #### Art. 37
 

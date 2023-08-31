@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Verordnung vom 26. November 2008 über die eidgenössischen Prüfungen der universitären Medizinalberufe (Prüfungsverordnung MedBG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230801-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/de"
 
 (Prüfungsverordnung MedBG)
 
-vom 26. November 2008 (Stand am 1. August 2023)
+vom 26. November 2008 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 12 Absatz 3, 13, 13*a* und 60 des Medizinalberufegeset
 
 verordnet:
 
-[^ingress-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^ingress-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -70,14 +70,14 @@ Grundlage für den Inhalt der eidgenössischen Prüfung sind die allgemeinen und
 <sup>2</sup> Das Eidgenössische Departement des Innern (EDI) legt nach Anhörung der Medizinalberufekommission (MEBEKO), Ressort Ausbildung, die Grundsätze und Einzelheiten der verschiedenen Prüfungsformen fest.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
-[^3-2]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Humanmedizin
-[^3-3]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie
+[^3-2]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Humanmedizin
+[^3-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie
 [^3-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-5]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin
+[^3-5]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin
 [^3-6]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-7]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik
+[^3-7]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik
 [^3-8]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
-[^3-9]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
+[^3-9]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
 
 #### Art. 4
 
@@ -352,7 +352,7 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erstellt zuhanden der Standor
 
 <sup>3</sup> Eine nicht bestandene eidgenössische Prüfung kann zweimal wiederholt werden.
 
-<sup>4</sup> und <sup>5</sup> …[^18-1]
+<sup>4 und <sup>5</sup></sup> …[^18-1]
 
 [^18-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -454,9 +454,11 @@ Die Datenbank enthält zusätzlich:
 
 <sup>1</sup> Die Kandidatinnen und Kandidaten haben das Recht auf Auskunft über sie betreffende Daten.
 
-<sup>2</sup> Dazu müssen sie ihr Begehren schriftlich bei der MEBEKO, Ressort Ausbildung, einreichen und sich über ihre Identität ausweisen.
+<sup>2</sup> Dazu müssen sie ihr Begehren schriftlich bei der MEBEKO, Ressort Ausbildung, einreichen. Das Begehren kann auf elektronischem Weg eingereicht werden.[^26-1]
 
 <sup>3</sup> Die Auskunft erfolgt schriftlich innert 30 Tagen und ist kostenlos.
+
+[^26-1]: Fassung gemäss Anhang 2 Ziff. II 97 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Kapitel: Gebühren, Entschädigungen und Kosten
 
@@ -482,7 +484,7 @@ Die Datenbank enthält zusätzlich:
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
 [^27-2]: Fassung gemäss Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
-[^27-3]: [SR 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^27-3]: [SR 811.112.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9261)
 
 #### Art. 28
 
@@ -597,9 +599,9 @@ Für Personen, welche die eidgenössische Prüfung im Einklang mit dem Lernzielk
 
 <sup>3</sup> Die Absätze 1 und 2 gelangen letztmals für die Durchführung der eidgenössischen Prüfung in Veterinärmedizin im Jahr 2025 zur Anwendung. Danach entscheidet die MEBEKO, Ressort Ausbildung, auf Vorschlag der Prüfungskommission Veterinärmedizin, ob nach bisherigem Recht bestandene Teilprüfungen ganz oder teilweise an die eidgenössische Prüfung nach neuem Recht angerechnet werden.
 
-[^36a-1]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010 ([AS 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281))
-[^36a-2]: www.bag.admin.ch &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
-[^36a-3]: www.bag.admin.ch &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
+[^36a-1]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010 ([AS 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
+[^36a-2]: www.bag.admin.ch &gt; Berufe &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
+[^36a-3]: www.bag.admin.ch &gt; Berufe i&gt; Medizinalberufe &gt; &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin.
 
 #### Art. 37
 

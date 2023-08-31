@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Ordonnance du 26 novembre 2008 concernant les examens fédéraux des professions médicales universitaires (Ordonnance concernant les examens LPMéd)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230801-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230801/fr"
 
 (Ordonnance concernant les examens LPMéd)
 
-du 26 novembre 2008 (État le 1<sup>er</sup> août 2023)
+du 26 novembre 2008 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu les art. 12, al. 3, 13, 13*a* et 60 de la loi du 23 juin 2006 sur les profess
 
 arrête:
 
-[^ingress-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^ingress-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 
 ## Chapitre 1 Dispositions générales
@@ -70,14 +70,14 @@ Les objectifs de formation généraux et spécifiques à chaque profession fixé
 <sup>2</sup> Le Département fédéral de l’intérieur (DFI) définit, après avoir consulté la section «formation universitaire» de la Commission des professions médicales (MEBEKO), les principes et les modalités des différentes formes d’examen.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
-[^3-2]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine humaine
-[^3-3]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en pharmacie
+[^3-2]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine humaine
+[^3-3]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en pharmacie
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-5]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine dentaire
+[^3-5]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine dentaire
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
-[^3-7]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Thèmes &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en chiropratique
+[^3-7]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en chiropratique
 [^3-8]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
-[^3-9]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
+[^3-9]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
 
 #### Art. 4
 
@@ -103,7 +103,7 @@ Les objectifs de formation généraux et spécifiques à chaque profession fixé
 
 <sup>4</sup> Dans le cadre d’une épreuve, les prestations fournies lors des épreuves partielles peuvent se compenser entre elles.[^5-1]
 
-<sup>5</sup> ...[^5-2]
+<sup>5</sup> …[^5-2]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 [^5-2]: Abrogé par le ch. I de l’O du 5 avr. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
@@ -156,7 +156,7 @@ Les commissions d’examen exécutent les tâches suivantes:
 - d.[^7-2] proposer à la section «formation universitaire» de la MEBEKO des mesures d’adaptation au sens de l’art. 12*a*, al. 2;
 - e. proposer à la section «formation universitaire» de la MEBEKO des directives relatives à l’organisation de l’examen fédéral;
 - f. soumettre à la section «formation universitaire» de la MEBEKO le nom d’examinateurs pour nomination.
-- g.[^7-3] ...
+- g.[^7-3] …
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
@@ -174,7 +174,7 @@ Les présidents des commissions d’examen accomplissent les tâches suivantes:
 - b. présenter à la section «formation universitaire» de la MEBEKO, en temps opportun, les propositions des commissions d’examen, conformément à la présente ordonnance;
 - c. contrôler la préparation des examens fédéraux, en collaboration avec le secrétariat de la section «formation universitaire» de la MEBEKO;
 - d. instruire les responsables de site sur les tâches que ceux-ci devront accomplir;
-- [tab] e. et f.[^8-1] ...
+- [tab] e. et f.[^8-1] …
 - g. notifier les résultats des examens fédéraux.
 
 <sup>2</sup> Le président de la commission d’examen désigne son suppléant.
@@ -352,7 +352,7 @@ Le secrétariat de la section «formation universitaire» de la MEBEKO établit,
 
 <sup>3</sup> En cas d’échec, l’examen fédéral peut être répété deux fois.
 
-<sup>4</sup> et <sup>5</sup> ...[^18-1]
+<sup>4 et <sup>5</sup></sup> …[^18-1]
 
 [^18-1]: Introduits par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -362,7 +362,7 @@ Le secrétariat de la section «formation universitaire» de la MEBEKO établit,
 
 <sup>1</sup> Le candidat qui a échoué trois fois à l’examen fédéral n’est plus autorisé à s’inscrire à un nouvel examen fédéral de la même profession médicale universitaire.
 
-<sup>2</sup> ...[^19-1]
+<sup>2</sup> …[^19-1]
 
 [^19-1]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -374,7 +374,7 @@ Le secrétariat de la section «formation universitaire» de la MEBEKO établit,
 
 <sup>2</sup> Les noms des candidats ayant réussi l’examen fédéral sont publiés sur Internet et d’une autre manière appropriée.
 
-<sup>3</sup> ...[^20-1]
+<sup>3</sup> …[^20-1]
 
 [^20-1]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -452,9 +452,11 @@ La banque de données contient en outre:
 
 <sup>1</sup> Les candidats ont le droit d’être renseignés sur les données les concernant.
 
-<sup>2</sup> Ils doivent en faire la demande écrite à la section «formation universitaire» de la MEBEKO, en justifiant de leur identité.
+<sup>2</sup> Ils doivent en faire la demande par écrit à la section «formation universitaire» de la MEBEKO. La demande peut être effectuée par voie électronique.[^26-1]
 
 <sup>3</sup> Les renseignements sont fournis dans les 30 jours, par écrit et gratuitement.
+
+[^26-1]: Nouvelle teneur selon l’annexe 2 ch. II 97 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 4 Taxes, indemnités et frais
 
@@ -480,7 +482,7 @@ La banque de données contient en outre:
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
-[^27-3]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^27-3]: [RS 811.112.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9261)
 
 #### Art. 28
 
@@ -596,8 +598,8 @@ Les règles suivantes s’appliquent aux personnes qui passent l’examen fédé
 <sup>3</sup> Les al. 1 et 2 s’appliquent pour la dernière fois à l’organisation de l’examen fédéral de médecine vétérinaire de 2025. La section «formation universitaire» de la MEBEKO décide ensuite, sur proposition de la commission d’examen de médecine vétérinaire, si tout ou partie des épreuves partielles réussies qui ont été passées selon l’ancien droit sont imputées à l’examen fédéral organisé selon le nouveau droit.
 
 [^36a-1]: Introduit par le ch. I de l’O du 17 nov. 2010 ([RO 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 281](https://fedlex.data.admin.ch/eli/oc/2023/281)).
-[^36a-2]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
-[^36a-3]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions de la santé &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
+[^36a-2]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
+[^36a-3]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Professions &gt; Professions médicales &gt; Examens fédéraux des professions médicales universitaires &gt; Examen fédéral en médecine vétérinaire
 
 #### Art. 37
 
@@ -652,10 +654,10 @@ Les textes de loi suivants sont abrogés:
 [^annex1-lvlu1-2]: [[RO 1976 51](https://fedlex.data.admin.ch/eli/oc/1976/51_51_51)]
 [^annex1-lvlu1-3]: [[RO 1986 817](https://fedlex.data.admin.ch/eli/oc/1986/817_817_817), [2005 5255](https://fedlex.data.admin.ch/eli/oc/2005/728)]
 [^annex1-lvlu1-4]: [[RO 1970 975](https://fedlex.data.admin.ch/eli/oc/1970/975_975_975)]
-[^annex1-lvlu1-5]: [RS **4** 347; [RO 1952 834](https://fedlex.data.admin.ch/eli/oc/1952/813_834_829), [1960 981](https://fedlex.data.admin.ch/eli/oc/1960/941_981_975), [1979 1184](https://fedlex.data.admin.ch/eli/oc/1979/1184_1184_1184)]
-[^annex1-lvlu1-6]: [RS **4** 355]
+[^annex1-lvlu1-5]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)347; [RO 1952 834](https://fedlex.data.admin.ch/eli/oc/1952/813_834_829), [1960 981](https://fedlex.data.admin.ch/eli/oc/1960/941_981_975), [1979 1184](https://fedlex.data.admin.ch/eli/oc/1979/1184_1184_1184)]
+[^annex1-lvlu1-6]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)355]
 [^annex1-lvlu1-7]: [[RO 1975 2331](https://fedlex.data.admin.ch/eli/oc/1975/2331_2331_2331), [1980 911](https://fedlex.data.admin.ch/eli/oc/1980/911_911_911)]
-[^annex1-lvlu1-8]: [RS **4** 356]
+[^annex1-lvlu1-8]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)356]
 [^annex1-lvlu1-9]: [[RO 1979 1298](https://fedlex.data.admin.ch/eli/oc/1979/1298_1298_1298)]
 [^annex1-lvlu1-10]: [[RO 1983 1313](https://fedlex.data.admin.ch/eli/oc/1983/1313_1313_1313)]
 [^annex1-lvlu1-11]: [[RO 1984 1302](https://fedlex.data.admin.ch/eli/oc/1984/1302_1302_1302)]
@@ -689,6 +691,6 @@ Annexe 2
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2008 6007](https://fedlex.data.admin.ch/eli/oc/2008/832).
