@@ -4,11 +4,11 @@ title: "Ordinanza del 29 ottobre 2008 sull'organizzazione della Cancelleria fede
 short: OrgCaF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: it
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2008-719-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-719-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/it"
 
 (OrgCaF)
 
-del 29 ottobre 2008 (Stato 1° luglio 2022)
+del 29 ottobre 2008 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -163,14 +163,15 @@ Su proposta della Cancelleria federale, la Conferenza dei segretari generali sta
 
 - a. in ciascun dipartimento e nella Cancelleria federale;
 - b. nella Delegazione delle finanze e nella Delegazione delle Commissioni della gestione delle Camere federali;
-- c. presso l’Incaricato federale della protezione dei dati e della trasparenza;
-- d. nel Controllo federale delle finanze.[^5a-2]
+- c.[^5a-2] presso l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT);
+- d. nel Controllo federale delle finanze.[^5a-3]
 
-<sup>4</sup> La Cancelleria federale accorda i diritti d’accesso alle persone che ne necessitano per svolgere i loro compiti e secondo l’estensione necessaria.[^5a-3]
+<sup>4</sup> La Cancelleria federale accorda i diritti d’accesso alle persone che ne necessitano per svolgere i loro compiti e secondo l’estensione necessaria.[^5a-4]
 
 [^5a-1]: Introdotto dal n. I dell’O del 17 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2311](https://fedlex.data.admin.ch/eli/oc/2016/378)).
-[^5a-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^5a-2]: Nuovo testo giusta l’all. 2 n. II 22 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^5a-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^5a-4]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
 
 #### Art. 6
 
@@ -239,9 +240,11 @@ Nell’ambito delle legalizzazioni la Cancelleria federale è competente per le 
 
 #### Art. 10
 
-<sup>1</sup> L’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) è aggregato amministrativamente alla Cancelleria federale.
+<sup>1</sup> L’IFPDT è aggregato amministrativamente alla Cancelleria federale.[^10-1]
 
 <sup>2</sup> La sua organizzazione e i suoi compiti sono retti dalla legislazione sulla protezione dei dati.
+
+[^10-1]: Nuovo testo giusta l’all. 2 n. II 22 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 4: Disposizioni finali
 

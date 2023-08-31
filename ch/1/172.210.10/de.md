@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 29. Oktober 2008 für die Bundeskanzlei (OV-B
 short: OV-BK
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: de
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2008-719-20220701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-719-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/de"
 
 (OV-BK)
 
-vom 29. Oktober 2008 (Stand am 1. Juli 2022)
+vom 29. Oktober 2008 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -163,14 +163,15 @@ Die Generalsekretärenkonferenz entscheidet auf Antrag der Bundeskanzlei darübe
 
 - a. in jedem Departement und in der Bundeskanzlei;
 - b. in der Finanz- und in der Geschäftsprüfungsdelegation der eidgenössischen Räte;
-- c. beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten;
-- d. in der Eidgenössischen Finanzkontrolle.[^5a-2]
+- c.[^5a-2] beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB);
+- d. in der Eidgenössischen Finanzkontrolle.[^5a-3]
 
-<sup>4</sup> Die Bundeskanzlei erteilt die Zugriffsrechte denjenigen Personen, die diese für die Erfüllung ihrer Aufgaben benötigen, und in dem Umfang, in dem sie diese Rechte benötigen.[^5a-3]
+<sup>4</sup> Die Bundeskanzlei erteilt die Zugriffsrechte denjenigen Personen, die diese für die Erfüllung ihrer Aufgaben benötigen, und in dem Umfang, in dem sie diese Rechte benötigen.[^5a-4]
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 17. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2311](https://fedlex.data.admin.ch/eli/oc/2016/378)).
-[^5a-2]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^5a-2]: Fassung gemäss Anhang 2 Ziff. II 22 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^5a-3]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^5a-4]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
 
 #### Art. 6
 
@@ -239,9 +240,11 @@ Die Bundeskanzlei ist im Bereich der Legalisation zuständig für:
 
 #### Art. 10
 
-<sup>1</sup> Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) ist der Bundeskanzlei administrativ zugeordnet.
+<sup>1</sup> Der EDÖB ist der Bundeskanzlei administrativ zugeordnet.[^10-1]
 
 <sup>2</sup> Organisation und Aufgaben des EDÖB richten sich nach der Datenschutzgesetzgebung.
+
+[^10-1]: Fassung gemäss Anhang 2 Ziff. II 22 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Abschnitt: Schlussbestimmungen
 

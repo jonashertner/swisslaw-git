@@ -4,11 +4,11 @@ title: "Ordonnance du 29 octobre 2008 sur l'organisation de la Chancellerie féd
 short: Org ChF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: fr
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-719-20220701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-719-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/fr"
 
 (Org ChF)
 
-du 29 octobre 2008 (Etat le 1<sup>er</sup> juillet 2022)
+du 29 octobre 2008 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -163,14 +163,15 @@ La Conférence des secrétaires généraux décide, sur proposition de la Chance
 
 - a. dans chaque département et à la Chancellerie fédérale;
 - b. au sein de la Délégation des finances et de la Délégation de gestion des Chambres fédérales;
-- c. au sein des services du Préposé fédéral à la protection des données et à la transparence;
-- d. au sein du Contrôle fédéral des finances.[^5a-2]
+- c.[^5a-2] au sein du Préposé fédéral à la protection des données et à la transparence (PFPDT);
+- d. au sein du Contrôle fédéral des finances.[^5a-3]
 
-<sup>4</sup> La Chancellerie fédérale accorde les droits d’accès aux personnes concernées, dans la mesure où elles en ont besoin pour accomplir leurs tâches.[^5a-3]
+<sup>4</sup> La Chancellerie fédérale accorde les droits d’accès aux personnes concernées, dans la mesure où elles en ont besoin pour accomplir leurs tâches.[^5a-4]
 
 [^5a-1]: Introduit par le ch. I de l’O du 17 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2311](https://fedlex.data.admin.ch/eli/oc/2016/378)).
-[^5a-2]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^5a-2]: Nouvelle teneur selon l’annexe 2 ch. II 22 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^5a-3]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^5a-4]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
 
 #### Art. 6
 
@@ -239,9 +240,11 @@ Sont du ressort de la Chancellerie fédérale:
 
 #### Art. 10
 
-<sup>1</sup> Le Préposé à la protection des données et à la transparence (PFPDT) est rattaché administrativement à la Chancellerie fédérale.
+<sup>1</sup> Le PFPDT est rattaché administrativement à la Chancellerie fédérale.[^10-1]
 
 <sup>2</sup> L’organisation et les tâches du PFPDT sont régies par la législation sur la protection des données.
+
+[^10-1]: Nouvelle teneur selon l’annexe 2 ch. II 22 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 4 Dispositions finales
 
