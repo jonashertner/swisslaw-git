@@ -4,11 +4,11 @@ title: "Lescha federala dals 24 da mars 1995 davart las collecziuns dal dretg fe
 short: LPubl
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: rm
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2004-745-20230901-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart las publicaziuns uffizialas, LPubl)
 
-dals 18 da zercladur 2004 (versiun dal 1. da fanadur 2022)
+dals 18 da zercladur 2004 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -30,7 +30,7 @@ concluda:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)
 
-## 1. secziun Disposiziuns generalas****
+## 1. secziun Disposiziuns generalas
 
 [^sec1-1]
 
@@ -92,7 +92,7 @@ Uschenavant ch’els èn liants per la Svizra, vegnan publitgads en la CULF:
 
 <sup>3</sup> Il Cussegl federal fixescha las premissas, sut las qualas contracts e conclus che valan maximalmain 6 mais sco er contracts e conclus d’ina impurtanza restrenschida na vegnan betg publitgads en la CULF.[^3-2]
 
-[^3-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 (AS **2****015** 3977; [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^3-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^3-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 4
@@ -178,7 +178,7 @@ La Chanzlia chantunala curregia en la CULF sbagls che midan il senn e formulaziu
 - a. en decrets da la Confederaziun, cun excepziun dals decrets da l’Assamblea federala: en atgna responsabladad;
 - b. en contracts internaziunals ed en conclus dal dretg internaziunal: en enclegientscha cun ils partenaris da contract.[^10-1]
 
-<sup>2</sup> Per rectifitgar decrets da l’Assamblea federala valan ils artitgels 57 alinea 1<sup>b</sup><sup>is</sup> e 58 da la Lescha dal parlament dals 13 da december 2002[^10-2].[^10-3]
+<sup>2</sup> Per rectifitgar decrets da l’Assamblea federala valan ils artitgels 57 alinea 1<sup>bis</sup> e 58 da la Lescha dal parlament dals 13 da december 2002[^10-2].[^10-3]
 
 <sup>3</sup> Sbagls en decrets da l’Assamblea federala ch’èn resultads tras la publicaziun, vegnan curregids da la Chanzlia federala en la CULF en enclegientscha cun la Cumissiun da redacziun da l’Assamblea federala.[^10-4]
 
@@ -226,7 +226,7 @@ En il Fegl uffizial federal vegnan publitgads:
 - d. ils conclus federals davart midadas da la Constituziun sco er davart l’approvaziun da contracts internaziunals tenor l’artitgel 140 alinea 1 litera b Cst.;
 - e. las leschas federalas ed ils conclus federals che suttastattan al referendum facultativ;
 - f. ils conclus federals simpels che na vegnan betg publitgads en la CULF tenor l’artitgel 2 litera h;
-- [tab] f<sup>bis</sup>.[^13-3] directivas dal Cussegl federal;
+- f<sup>bis</sup>.[^13-3] directivas dal Cussegl federal;
 - g. ulteriurs texts che ston vegnir publitgads tenor la legislaziun federala.
 
 <sup>2</sup>
@@ -246,7 +246,7 @@ En il Fegl uffizial federal pon ultra da quai vegnir publitgads:
 [^13-3]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^13-4]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
-## 4*a*. secziun**** Ulteriurs texts publitgads sin la plattafurma da publicaziun
+## 4*a*. secziun Ulteriurs texts publitgads sin la plattafurma da publicaziun
 
 [^sec4a-1]
 
@@ -295,7 +295,7 @@ Il Cussegl federal po decider che texts publitgads tras renviament tenor l’art
 [^14-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^14-3]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)e [172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)
 [^14-4]: Integrà tras la cifra III da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^14-5]: SR **441****.****1**
+[^14-5]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
 [^14-6]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^14-7]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
@@ -345,7 +345,7 @@ Il Cussegl federal fixescha las mesiras necessarias per garantir l’autenticita
 
 **Protecziun da datas**[^16b-1]
 
-<sup>1</sup> Las publicaziuns tenor questa lescha pon cuntegnair datas persunalas; en spezial pon ellas er cuntegnair datas persunalas spezialmain sensiblas tenor l’artitgel 3 litera c da la Lescha federala dals 19 da zercladur 1992[^16b-2] davart la protecziun da datas, uschenavant che quai è necessari per ina publicaziun previsa en ina lescha federala.
+<sup>1</sup> Las publicaziuns tenor questa lescha pon cuntegnair datas persunalas; en spezial pon ellas er cuntegnair datas persunalas spezialmain sensiblas tenor l’artitgel 5 litera c da la Lescha federala dals 25 da settember 2020[^16b-2] davart la protecziun da datas, uschenavant che quai è necessari per ina publicaziun previsa en ina lescha federala.[^16b-3]
 
 <sup>2</sup> Texts che cuntegnan datas persunalas spezialmain sensiblas na dastgan betg restar pli ditg accessibels publicamain online e betg cuntegnair dapli infurmaziuns che quai ch’i dovra tenor lur intent.
 
@@ -353,6 +353,7 @@ Il Cussegl federal fixescha las mesiras necessarias per garantir l’autenticita
 
 [^16b-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^16b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16b-3]: Versiun tenor la cifra II 11 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
@@ -429,4 +430,4 @@ Las leschas federalas qua sutvart vegnan midadas sco suonda:
 
 Data da l’entrada en vigur: 1. da schaner 2005[^22-1]
 
-[^22-1]: COCF dals 17 da nov. 2004.
+[^22-1]: COCF dals 17 da nov. 2004

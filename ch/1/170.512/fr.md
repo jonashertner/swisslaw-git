@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 juin 2004 sur les recueils du droit fédéral et la
 short: LPubl
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: fr
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-745-20230901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/fr"
 
 (Loi sur les publications officielles, LPubl)
 
-du 18 juin 2004 (Etat le 1<sup>er</sup> juillet 2022)
+du 18 juin 2004 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2003 7047](https://fedlex.data.admin.ch/eli/fga/2003/1274)
 
-## Section 1 Dispositions générales****
+## Section 1 Dispositions générales
 
 [^sec1-1]
 
@@ -245,7 +245,7 @@ Peuvent en outre être publiés dans la Feuille fédérale:
 [^13-3]: Introduite par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^13-4]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
-## Section 4*a***** Autres textes publiés sur la plate-forme
+## Section 4*a* Autres textes publiés sur la plate-forme
 
 [^sec4a-1]
 
@@ -344,7 +344,7 @@ Le Conseil fédéral arrête les mesures garantissant l’authenticité, l’int
 
 **Protection des données**[^16b-1]
 
-<sup>1</sup> Les publications au sens de la présente loi peuvent contenir des données personnelles; elles peuvent contenir en particulier des données sensibles au sens de l’art. 3, let. c, de la loi fédérale du 19 juin 1992 sur la protection des données[^16b-2], lorsque cela est nécessaire en vertu d’une obligation de publication prévue par une loi fédérale.
+<sup>1</sup> Les publications au sens de la présente loi peuvent contenir des données personnelles; elles peuvent contenir en particulier des données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^16b-2], lorsque cela est nécessaire en vertu d’une obligation de publication prévue par une loi fédérale.[^16b-3]
 
 <sup>2</sup> Les textes contenant des données sensibles ne doivent pas rester accessibles en ligne au public plus longtemps ni contenir davantage d’informations que cela n’est nécessaire au regard de leur finalité.
 
@@ -352,6 +352,7 @@ Le Conseil fédéral arrête les mesures garantissant l’authenticité, l’int
 
 [^16b-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^16b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16b-3]: Nouvelle teneur selon l’annexe 1 ch. II 11 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 

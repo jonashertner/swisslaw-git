@@ -4,11 +4,11 @@ title: "Federal Act of 18 June 2004 on the Compilations of Federal Legislation a
 short: PublA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: en
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2004-745-20230901-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Publications Act, PublA)
 
-of 18 June 2004 (Status as of 1 July 2022)
+of 18 June 2004 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -30,7 +30,7 @@ decrees:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)
 
-## Section 1 General Provisions****
+## Section 1 General Provisions
 
 [^sec1-1]
 
@@ -246,7 +246,7 @@ In addition, the following may be published in the Federal Gazette:
 [^13-3]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^13-4]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
-## Section 4*a***** Other Texts published on the Publications Platform
+## Section 4*a* Other Texts published on the Publications Platform
 
 [^sec4a-1]
 
@@ -345,7 +345,7 @@ The Federal Council shall determine the measures required to guarantee the authe
 
 **Data protection**[^16b-1]
 
-<sup>1</sup> Publications under this Act may contain personal data; in particular, they may also contain sensitive personal data in terms of Article 3 letter c of the Federal Act of 19 June 1992[^16b-2] on Data Protection, where this is required for a publication provided for in a federal act.
+<sup>1</sup> Publications under this Act may contain personal data; in particular, they may also contain sensitive personal data in terms of Article 5 letter c of the Data Protection Act of 25 September 2020[^16b-2] where this is required for a publication provided for in a federal act.[^16b-3]
 
 <sup>2</sup> Texts that contain sensitive personal data may not be made publicly available online for longer or contain more information than their purpose requires.
 
@@ -353,6 +353,7 @@ The Federal Council shall determine the measures required to guarantee the authe
 
 [^16b-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^16b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16b-3]: Amended by Annex 1 No II 11 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 

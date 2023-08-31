@@ -4,20 +4,20 @@ title: "Legge federale del 18 giugno 2004 sulle raccolte del diritto federale e 
 short: LPubb
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: it
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-745-20230901-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulle raccolte del diritto federale e sul Foglio federale
 
-(Legge sulle pubblicazioni ufficiali, LPubb)**[^t-1]**
+(Legge sulle pubblicazioni ufficiali, LPubb)[^t-1]
 
-del 18 giugno 2004 (Stato 1° luglio 2022)
+del 18 giugno 2004 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
@@ -30,7 +30,7 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)
 
-## Sezione 1: Disposizioni generali****
+## Sezione 1: Disposizioni generali
 
 [^sec1-1]
 
@@ -246,7 +246,7 @@ Nel Foglio federale possono inoltre essere pubblicati:
 [^13-3]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^13-4]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
-## Sezione 4*a*:**** Ulteriori testi pubblicati sulla piattaforma di pubblicazione
+## Sezione 4*a*: Ulteriori testi pubblicati sulla piattaforma di pubblicazione
 
 [^sec4a-1]
 
@@ -294,7 +294,7 @@ Il Consiglio federale può decidere che i testi pubblicati mediante rimando di c
 [^14-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^14-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2022 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^14-3]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)e [172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)
-[^14-4]: Introdotto dal n. III della LF del 26 set. 2014, in vigore dal 1° apr. 2016 (RU **2015**3977, **2016** 925; [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^14-4]: Introdotto dal n. III della LF del 26 set. 2014, in vigore dal 1° apr. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
 [^14-5]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
 [^14-6]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^14-7]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
@@ -319,7 +319,7 @@ Il Consiglio federale può decidere che i testi pubblicati mediante rimando di c
 
 <sup>3</sup> La versione determinante dei trattati e delle risoluzioni internazionali è stabilita dalle rispettive disposizioni.
 
-[^15-1]: Abrogato dall’all. n. II 1 della L del 5 ott. 2007 sulle lingue ([RU 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)). Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^15-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 16
 
@@ -345,7 +345,7 @@ Il Consiglio federale stabilisce le misure necessarie volte a garantire l’aute
 
 **Protezione dei dati**[^16b-1]
 
-<sup>1</sup> Le pubblicazioni secondo la presente legge possono contenere dati personali; possono in particolare contenere anche dati personali degni di particolare protezione secondo l’articolo 3 lettera c della legge federale del 19 giugno 1992[^16b-2] sulla protezione dei dati, sempre che questo sia necessario per una pubblicazione prevista in una legge federale.
+<sup>1</sup> Le pubblicazioni secondo la presente legge possono contenere dati personali; possono in particolare contenere anche dati personali degni di particolare protezione secondo l’articolo 5 lettera c della legge federale del 25 settembre 2020[^16b-2] sulla protezione dei dati, sempre che questo sia necessario per una pubblicazione prevista in una legge federale.[^16b-3]
 
 <sup>2</sup> I testi contenenti dati personali degni di particolare protezione non devono rimanere pubblicamente accessibili in linea o contenere più informazioni di quanto sia giustificato dal loro scopo.
 
@@ -353,6 +353,7 @@ Il Consiglio federale stabilisce le misure necessarie volte a garantire l’aute
 
 [^16b-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^16b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16b-3]: Nuovo testo giusta l’all. 1 n. II 11 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 

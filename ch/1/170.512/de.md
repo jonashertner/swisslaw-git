@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Juni 2004 über die Sammlungen des Bundesrechts und
 short: PublG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: de
-version: 2022-07-01
+version: 2023-09-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-745-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/de"
 
 (Publikationsgesetz, PublG)
 
-vom 18. Juni 2004 (Stand am 1. Juli 2022)
+vom 18. Juni 2004 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -28,7 +28,7 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)
 
-## 1. Abschnitt: Allgemeine Bestimmungen****
+## 1. Abschnitt: Allgemeine Bestimmungen
 
 [^sec1-1]
 
@@ -244,7 +244,7 @@ Im Bundesblatt können ferner veröffentlicht werden:
 [^13-3]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^13-4]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
-## 4*a*. Abschnitt:**** Weitere auf der Publikationsplattform veröffentlichte Texte
+## 4*a*. Abschnitt: Weitere auf der Publikationsplattform veröffentlichte Texte
 
 [^sec4a-1]
 
@@ -343,7 +343,7 @@ Der Bundesrat legt die notwendigen Massnahmen fest, um die Authentizität, die I
 
 **Datenschutz**[^16b-1]
 
-<sup>1</sup> Veröffentlichungen nach diesem Gesetz können Personendaten enthalten; insbesondere können sie auch besonders schützenswerte Personendaten nach Artikel 3 Buchstabe c des Bundesgesetzes vom 19. Juni 1992[^16b-2] über den Datenschutz enthalten, sofern dies für eine in einem Bundesgesetz vorgesehene Veröffentlichung notwendig ist.
+<sup>1</sup> Veröffentlichungen nach diesem Gesetz können Personendaten enthalten; insbesondere können sie auch besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^16b-2] enthalten, sofern dies für eine in einem Bundesgesetz vorgesehene Veröffentlichung notwendig ist.[^16b-3]
 
 <sup>2</sup> Texte, die besonders schützenswerte Personendaten enthalten, dürfen online nicht länger öffentlich zugänglich sein und nicht mehr Informationen enthalten, als es ihr Zweck erfordert.
 
@@ -351,6 +351,7 @@ Der Bundesrat legt die notwendigen Massnahmen fest, um die Authentizität, die I
 
 [^16b-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^16b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16b-3]: Fassung gemäss Anhang 1 Ziff. II 11 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
