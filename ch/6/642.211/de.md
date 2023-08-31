@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Dezember 1966 über die Verrechnungssteuer (Verrechnu
 short: VStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230101/de"
 
 (Verrechnungssteuerverordnung, VStV)[^t-1]
 
-vom 19. Dezember 1966 (Stand am 1. Januar 2023)
+vom 19. Dezember 1966 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -106,9 +106,11 @@ Verlangt der Empfänger der steuerbaren Leistung eine besondere Bescheinigung (A
 
 <sup>1</sup> Die ESTV kann Auskünfte schriftlich oder mündlich einholen und den Steuerpflichtigen zur Einvernahme laden.
 
-<sup>2</sup> Wo es angezeigt erscheint, sind die Auskünfte in Gegenwart des Einvernommenen zu protokollieren; das Protokoll ist von diesem und vom einvernehmenden Beamten und vom allenfalls beigezogenen Protokollführer zu unterzeichnen.
+<sup>2</sup> Wo es angezeigt erscheint, sind die Auskünfte in Gegenwart der einvernommenen Person zu protokollieren; das Protokoll ist von dieser und der einvernehmenden Person sowie allenfalls von der beigezogenen protokollführenden Person zu unterzeichnen.[^6-1]
 
 <sup>3</sup> Vor jeder Einvernahme nach Absatz 2 ist der Einzuvernehmende zur Wahrheit zu ermahnen und auf die Folgen unrichtiger Auskünfte (Art. 62 Abs. 1 Bst. *d* VStG) hinzuweisen.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Buchprüfung
 
@@ -144,14 +146,15 @@ Verlangt der Empfänger der steuerbaren Leistung eine besondere Bescheinigung (A
 
 #### Art. 10
 
-<sup>1</sup> Die nach Artikel 47 VStG verfügte Sicherstellung ist gemäss der Verordnung vom 21. Juni 1957[^10-1] über Sicherstellungen zugunsten der Eidgenossenschaft durch Realkaution, Bürgschaften, Garantien oder Kautionsversicherung zu leisten.
+<sup>1</sup> Die nach Artikel 47 VStG verfügte Sicherstellung ist gemäss Artikel 49 der Finanzhaushaltverordnung vom 5. April 2006[^10-1] zu leisten.[^10-2]
 
 <sup>2</sup> Eine geleistete Sicherheit ist freizugeben, sobald die sichergestellten Steuern, Zinsen und Kosten bezahlt sind oder der Grund der Sicherstellung dahingefallen ist.
 
-<sup>3</sup> …[^10-2]
+<sup>3</sup> …[^10-3]
 
-[^10-1]: [[AS 1957 509](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527), [1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373)Art. 19 Abs. 1 Bst. b. [AS 1986 154](https://fedlex.data.admin.ch/eli/oc/1986/154_154_154)Art. 51 Ziff. 3]. Heute: gemäss Art. 49 der Finanzhaushaltverordnung vom 5. April 2006 ([SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
-[^10-2]: Aufgehoben durch Anhang 3 Ziff. 14 der V vom 3. Febr. 1993 über Organisation und Verfahren eidgenössischer Rekurs- und Schiedskommissionen, mit Wirkung seit 1. Jan. 1994 ([AS 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
+[^10-1]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^10-2]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^10-3]: Aufgehoben durch Anhang 3 Ziff. 14 der V vom 3. Febr. 1993 über Organisation und Verfahren eidgenössischer Rekurs- und Schiedskommissionen, mit Wirkung seit 1. Jan. 1994 ([AS 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
 
 ### 3. Löschung im Handelsregister
 
@@ -164,19 +167,23 @@ Verlangt der Empfänger der steuerbaren Leistung eine besondere Bescheinigung (A
 [^11-1]: [SR 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
 [^11-2]: Fassung gemäss Ziff. I 2 der V vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 
-### V. Rückerstattung der nicht geschuldeten Steuer
+### V. Rückvergütung der nicht geschuldeten Steuer
 
 #### Art. 12
 
-<sup>1</sup> Bezahlte Steuern und Zinsen, die nicht durch Entscheid der ESTV festgesetzt worden sind, werden zurückerstattet, sobald feststeht, dass sie nicht geschuldet waren.
+[^12-1]
 
-<sup>2</sup> Ist eine nicht geschuldete Steuer schon überwälzt worden, (Art. 14 Abs. 1 VStG), so wird die Rückerstattung nur gewährt, wenn feststeht, dass der von der Überwälzung Betroffene die Rückerstattung nicht im ordentlichen Rückerstattungsverfahren erlangt hat und dass er in den Genuss der Rückerstattung gemäss Absatz 1 gebracht wird.
+<sup>1</sup> Bezahlte Steuern und Zinsen, die nicht durch Entscheid der ESTV festgesetzt worden sind, werden zurückvergütet, sobald feststeht, dass sie nicht geschuldet waren.
 
-<sup>3</sup> Die Rückerstattung ist insoweit ausgeschlossen, als nach dem Sachverhalt, den der Rückfordernde geltend macht, eine andere, wenn auch inzwischen verjährte Bundessteuer geschuldet war.
+<sup>2</sup> Ist eine nicht geschuldete Steuer schon überwälzt worden (Art. 14 Abs. 1 VStG), so wird die Rückvergütung nur gewährt, wenn feststeht, dass die von der Überwälzung betroffene Person die Rückerstattung nicht im ordentlichen Rückerstattungsverfahren (Art. 21–33 VStG) erlangt hat und dass sie in den Genuss der Rückvergütung gemäss Absatz 1 gebracht wird.
 
-<sup>4</sup> Der Rückerstattungsanspruch verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem die Zahlung geleistet worden ist.
+<sup>3</sup> Die Rückvergütung ist insoweit ausgeschlossen, als nach dem Sachverhalt, den die rückfordernde Person geltend macht, eine andere, wenn auch inzwischen verjährte Bundessteuer geschuldet war.
 
-<sup>5</sup> Die Vorschriften des VStG und dieser Verordnung über die Steuererhebung finden sinngemässe Anwendung; kommt der Gesuchsteller seinen Auskunftspflichten nicht nach, und kann der Anspruch ohne die von der ESTV verlangten Auskünfte nicht abgeklärt werden, so wird das Gesuch abgewiesen.
+<sup>4</sup> Der Rückvergütungsanspruch verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem die Zahlung geleistet worden ist.
+
+<sup>5</sup> Die Vorschriften des VStG und dieser Verordnung über die Steuererhebung finden sinngemässe Anwendung; kommt die gesuchstellende Person ihren Auskunftspflichten nicht nach und kann der Anspruch ohne die von der ESTV verlangten Auskünfte nicht abgeklärt werden, so wird das Gesuch abgewiesen.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### VI. Verrechnung
 
@@ -335,7 +342,7 @@ Jede inländische Aktiengesellschaft oder Gesellschaft mit beschränkter Haftung
 
 #### Art. 22
 
-<sup>1</sup> Wird eine Aktiengesellschaft oder Gesellschaft mit beschränkter Haf- tung aufgelöst (Art. 736 und 820 des Obligationenrechts[^22-1]), so hat sie das unverzüglich der ESTV mitzuteilen.
+<sup>1</sup> Wird eine Aktiengesellschaft oder Gesellschaft mit beschränkter Haftung aufgelöst (Art. 736 und 821 des Obligationenrechts[^22-1]), so hat sie das unverzüglich der ESTV mitzuteilen.[^22-2]
 
 <sup>2</sup> Die aufgelöste Gesellschaft hat der ESTV eine unterzeichnete Abschrift der von den Liquidatoren aufgestellten Bilanz einzureichen und nach ihrer Anordnung regelmässig über den Stand der Liquidation und über die Verwendung der Aktiven Auskunft zu erteilen; nach Beendigung der Liquidation ist der ESTV eine unterzeichnete Abschrift der Liquidationsrechnung mit einer Aufstellung über die Verteilung des Liquidationsüberschusses einzureichen.
 
@@ -346,6 +353,7 @@ Jede inländische Aktiengesellschaft oder Gesellschaft mit beschränkter Haftung
 <sup>5</sup> Will eine Gesellschaft ihren Sitz ins Ausland verlegen, so hat sie dieses Vorhaben unverzüglich der ESTV mitzuteilen, ihr eine auf den Tag der Sitzverlegung erstellte Bilanz und Gewinn- und Verlustrechnung einzureichen und gleichzeitig die auf dem Überschuss des Vermögens über das einbezahlte Grund- oder Stammkapital geschuldete Steuer zu entrichten. Das gilt auch, wenn eine Gesellschaft mit statutarischem Sitz im Ausland den Ort ihrer tatsächlichen Leitung ins Ausland verlegen will.
 
 [^22-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-2]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Genossenschaften
 
@@ -367,7 +375,9 @@ Jede inländische Aktiengesellschaft oder Gesellschaft mit beschränkter Haftung
 
 #### Art. 24
 
-<sup>1</sup> Der Gesellschaft oder Genossenschaft kann auf Gesuch hin gestattet werden, ihre Steuerpflicht durch Meldung der steuerbaren Leistung zu erfüllen (Art. 20 VStG),
+<sup>1</sup>
+
+Der Gesellschaft oder Genossenschaft kann auf Gesuch hin gestattet werden, ihre Steuerpflicht durch Meldung der steuerbaren Leistung zu erfüllen (Art. 20 VStG):
 
 - a. wenn die anlässlich einer amtlichen Kontrolle oder Buchprüfung geltend gemachte Steuer eine Leistung betrifft, die in einem Vorjahre fällig geworden ist;
 - b. bei der Ausgabe oder Nennwerterhöhung von Aktien, Gesellschafts- oder Genossenschaftsanteilen zulasten der Reserven der Gesellschaft oder Genossenschaft (Gratisaktien u. dgl.);
@@ -466,13 +476,15 @@ Das Gesuch ist der ESTV schriftlich einzureichen; im Gesuch sind anzugeben:
 
 [^28-1]
 
-<sup>1</sup> Steuerbarer Ertrag von Anteilen an einer kollektiven Kapitalanlage ist jede auf dem Anteil beruhende geldwerte Leistung an den Anteilsinhaber, die nicht über einen ausschliesslich der Ausschüttung von Kapitalgewinnen, von Erträgen aus direktem Grundbesitz oder der Rückzahlung der Kapitaleinzahlungen dienenden Coupon ausgerichtet wird (Art. 5 Abs. 1 Bst. b VStG).
+<sup>1</sup> Steuerbarer Ertrag von Anteilen an einer kollektiven Kapitalanlage ist jede auf dem Anteil beruhende geldwerte Leistung an die Anteilsinhaberin oder den Anteilsinhaber, die nicht über einen ausschliesslich der Ausschüttung von Kapitalgewinnen, von Erträgen aus direktem Grundbesitz oder der Rückzahlung der Kapitaleinzahlungen dienenden Coupon ausgerichtet wird (Art. 5 Abs. 1 Bst. b VStG).[^28-2]
 
 <sup>2</sup> Bei der Rückzahlung von Anteilen wird die Steuer nur erhoben, wenn die Rückzahlung infolge Auflösung oder Liquidation der kollektiven Kapitalanlage erfolgt.
 
-<sup>3</sup> Sind Anteilscheine ohne Coupons ausgegeben worden, wird die Leistung gegen Rückgabe des Anteilscheins erbracht oder bestehen keine Anteilscheine, so bleiben die ausgerichteten Kapitalgewinne, Kapitalauszahlungen und Erträge aus direktem Grundbesitz von der Steuer ausgenommen, wenn sie in der Abrechnung für den Anteilsinhaber gesondert ausgewiesen werden.
+<sup>3</sup> Sind Anteilscheine ohne Coupons ausgegeben worden oder wird die Leistung gegen Rückgabe des Anteilscheins erbracht, so bleiben die ausgerichteten Kapitalgewinne, Kapitalauszahlungen und Erträge aus direktem Grundbesitz von der Steuer ausgenommen, wenn sie in der Abrechnung für die Anteilsinhaberin oder den Anteilsinhaber gesondert ausgewiesen werden.[^28-3]
 
 [^28-1]: Fassung gemäss Ziff. I 2 der V vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^28-2]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^28-3]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Verlegung von Verlusten und Kosten
 
@@ -681,14 +693,15 @@ Das Institut hat in der Erklärung schriftlich zu bestätigen, dass:[^36-7]
 
 #### Art. 41
 
-<sup>1</sup> Die Steuer ist auf dem Betrag der einzelnen Geldgewinne aus der Teilnahme an Geldspielen von über 1 Million Franken zu berechnen. Sie ist aufgrund der Abrechnung auf amtlichem Formular innert 30 Tagen nach der Resultatermittlung unaufgefordert der ESTV zu entrichten.[^41-1]
+<sup>1</sup> Die Steuer ist auf dem Betrag der einzelnen nach Artikel 6 VStG steuerbaren Geldgewinne aus der Teilnahme an Geldspielen zu berechnen.[^41-1] Sie ist aufgrund der Abrechnung auf amtlichem Formular innert 30 Tagen nach der Resultatermittlung unaufgefordert der ESTV zu entrichten.[^41-2]
 
 <sup>2</sup> Der Veranstalter hat der ESTV Mitteilung zu machen, wenn er vor dem Verkauf der Lose oder bevor der Verkauf aller Lose abgeschlossen ist, zu einer Ziehung schreiten will. Die ESTV setzt hierauf die Zahlungstermine fest.
 
-<sup>3</sup> …[^41-2]
+<sup>3</sup> …[^41-3]
 
-[^41-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
-[^41-2]: Aufgehoben durch Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^41-2]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41-3]: Aufgehoben durch Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### b. Naturalgewinne
 
@@ -902,13 +915,17 @@ Gleich den juristischen Personen haben Anspruch auf Rückerstattung der Verrechn
 
 [^56-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
-### 2. Steuervertreter und Steuernachfolger
+### 2. Steuervertretung und Steuernachfolge
 
 #### Art. 57
 
-<sup>1</sup> Wer für die mit der Verrechnungssteuer belasteten Einkünfte oder für das Vermögen, woraus diese Einkünfte fliessen, einen andern in der Steuerpflicht vertritt (Ehemann, Inhaber der elterlichen Gewalt u.dgl.) oder in die Steuerpflicht eines andern eingetreten ist, hat an Stelle des Vertretenen oder Rechtsvorgängers Anspruch auf Rückerstattung der Verrechnungssteuer.
+[^57-1]
 
-<sup>2</sup> Die Rückerstattung richtet sich nach den für den Vertretenen oder Rechtsvorgänger massgebenden Bestimmungen.
+<sup>1</sup> Wer für die mit der Verrechnungssteuer belasteten Einkünfte oder für das Vermögen, woraus diese Einkünfte fliessen, als Inhaberin oder Inhaber der elterlichen Sorge ein Kind in der Steuerpflicht vertritt oder in die Steuerpflicht einer anderen Person eingetreten ist, hat anstelle dieser Person Anspruch auf Rückerstattung der Verrechnungssteuer.
+
+<sup>2</sup> Die Rückerstattung richtet sich nach den für die vertretene Person, die Rechtsvorgängerin oder den Rechtsvorgänger massgebenden Bestimmungen.
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 3. Erbfälle
 
@@ -916,13 +933,14 @@ Gleich den juristischen Personen haben Anspruch auf Rückerstattung der Verrechn
 
 #### Art. 58
 
-<sup>1</sup> Ist eine mit der Verrechnungssteuer belastete Leistung bei Lebzeiten des Erblassers fällig geworden, so steht der Anspruch auf Rückerstattung dieser Steuer an seiner Stelle den Erben zu, ohne Rücksicht auf ihren Wohnsitz oder Aufenthalt.
+<sup>1</sup> Ist eine mit der Verrechnungssteuer belastete Leistung zu Lebzeiten des Erblassers fällig geworden, so steht der Anspruch auf Rückerstattung dieser Steuer an seiner Stelle den Erben zu, ohne Rücksicht auf ihren Wohnsitz oder Aufenthalt.[^58-1]
 
-<sup>2</sup> Wird ein der Verrechnungssteuer unterliegender Ertrag eines Erbschaftsgegenstandes nach dem Tode des Erblassers und vor der Teilung der Erbschaft fällig, so steht jedem Erben, soweit er persönlich die Voraussetzungen erfüllt, nach Massgabe seines Anteils[^58-1]an der Erbschaft ein Anspruch auf Rückerstattung dieser Steuer zu.
+<sup>2</sup> Wird ein der Verrechnungssteuer unterliegender Ertrag eines Erbschaftsgegenstandes nach dem Tode des Erblassers und vor der Teilung der Erbschaft fällig, so steht jedem Erben, soweit er persönlich die Voraussetzungen erfüllt, nach Massgabe seines Anteils[^58-2]an der Erbschaft ein Anspruch auf Rückerstattung dieser Steuer zu.
 
 <sup>3</sup> Ist nach der kantonalen Steuergesetzgebung eine Erbengemeinschaft als solche verpflichtet, auf den der Verrechnungssteuer unterliegenden Einkünften oder auf dem Vermögen, woraus solche Einkünfte fliessen, Einkommens- oder Vermögenssteuern zu entrichten, so findet Absatz 2 sinngemässe Anwendung.
 
-[^58-1]: Ausdruck gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
+[^58-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^58-2]: Ausdruck gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
 
 ### b. Verfahren
 

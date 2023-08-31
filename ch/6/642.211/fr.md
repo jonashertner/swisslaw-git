@@ -4,11 +4,11 @@ title: "Ordonnance du 19 décembre 1966 sur l'impôt anticipé (OIA)"
 short: OIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230101/fr"
 
 (OIA)[^t-1]
 
-du 19 décembre 1966 (État le 1<sup>er</sup> janvier 2023)
+du 19 décembre 1966 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -106,9 +106,11 @@ Si le bénéficiaire de la prestation imposable demande une attestation spécial
 
 <sup>1</sup> L’AFC peut demander des renseignements écrits ou oraux et convoquer le contribuable pour l’entendre.
 
-<sup>2</sup> Lorsque cela paraît indiqué, les renseignements sont consignés dans un procès-verbal établi en présence de la personne entendue; le procès-verbal doit être signé par celle-ci et par le fonctionnaire enquêteur et, le cas échéant, par le teneur du procès-verbal.
+<sup>2</sup> Lorsque cela paraît indiqué, les renseignements sont consignés dans un procès-verbal établi en présence de la personne entendue; le procès-verbal doit être signé par celle-ci et par la personne chargée de l’audition et, le cas échéant, par la personne chargée de tenir le procès-verbal.[^6-1]
 
 <sup>3</sup> Avant chaque audition selon l’al. 2, la personne à entendre doit être invitée à dire la vérité et rendue attentive aux conséquences des renseignements inexacts (art. 62, al. 1, let. d, LIA).
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Examen des livres
 
@@ -148,14 +150,15 @@ l’AFC peut demander des sûretés, le recouvrement de l’impôt paraissant me
 
 #### Art. 10
 
-<sup>1</sup> Les sûretés demandées selon l’art. 47 LIA doivent être constituées par des gages, des cautionnements, des garanties ou des assurances de cautionnement, conformément à l’ordonnance du 21 juin 1957 sur la constitution de sûretés en faveur de la Confédération[^10-1].
+<sup>1</sup> Les sûretés demandées selon l’art. 47 LIA doivent être fournies conformément à l’art. 49 de l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^10-1].[^10-2]
 
 <sup>2</sup> Les sûretés fournies sont libérées dès que les impôts, intérêts et frais qu’elles garantissent ont été payés ou que le motif de la garantie a disparu.
 
-<sup>3</sup> …[^10-2]
+<sup>3</sup> …[^10-3]
 
-[^10-1]: [[RO 1957 509](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527), [1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373)art. 19 al. 1 let. b. [RO 1986 154](https://fedlex.data.admin.ch/eli/oc/1986/154_154_154)art. 51 ch. 3]. Voir actuellement l’O du 5 avril 2006 sur les finances de la Confédération ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
-[^10-2]: Abrogé par l’annexe 3 ch. 14 de l’O du 3 fév. 1993 concernant l’organisation et la procédure des commissions fédérales de recours et d’arbitrage, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
+[^10-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^10-3]: Abrogé par l’annexe 3 ch. 14 de l’O du 3 fév. 1993 concernant l’organisation et la procédure des commissions fédérales de recours et d’arbitrage, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
 
 ### 3. Radiation dans le registre du commerce
 
@@ -174,13 +177,15 @@ l’AFC peut demander des sûretés, le recouvrement de l’impôt paraissant me
 
 <sup>1</sup> Les impôts et intérêts payés, qui n’ont pas été fixés par une décision de l’AFC, sont restitués s’il est établi qu’ils n’étaient pas dus.
 
-<sup>2</sup> Si un impôt non dû a déjà été transféré (art. 14, al. 1, LIA), la restitution est accordée seulement s’il est établi que la personne à qui l’impôt a été transféré n’en a pas obtenu le remboursement dans la procédure ordinaire de remboursement et qu’elle sera mise au bénéfice de la restitution selon l’al. 1.
+<sup>2</sup> Si un impôt non dû a déjà été transféré (art. 14, al. 1, LIA), la restitution est accordée seulement s’il est établi que la personne à qui l’impôt a été transféré n’en a pas obtenu le remboursement dans la procédure ordinaire de remboursement (art. 21 à 33 LIA) et qu’elle sera mise au bénéfice de la restitution selon l’al. 1.[^12-1]
 
 <sup>3</sup> Si le requérant invoque des faits démontrant qu’un autre impôt fédéral était dû, même s’il est prescrit entre-temps, la restitution n’est accordée que pour le montant dépassant cet impôt.
 
 <sup>4</sup> Le droit à la restitution se prescrit par cinq ans dès la fin de l’année civile au cours de laquelle le paiement a été effectué.
 
 <sup>5</sup> Les dispositions de la LIA et de l’ordonnance sur la perception de l’impôt sont applicables par analogie; si le requérant ne satisfait pas à ses obligations de donner des renseignements et que le droit à la restitution ne puisse être déterminé sans les renseignements requis par l’AFC, la demande est rejetée.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### VI. Compensation
 
@@ -345,7 +350,7 @@ Toute société anonyme ou société à responsabilité limitée suisse (art. 9,
 
 #### Art. 22
 
-<sup>1</sup> Si une société anonyme ou une société à responsabilité limitée est dissoute (art. 736 et 820 du code des obligations[^22-1]), elle doit en informer sans délai l’AFC.
+<sup>1</sup> Si une société anonyme ou une société à responsabilité limitée est dissoute (art. 736 et 821 du code des obligations[^22-1]), elle doit en informer sans délai l’AFC.[^22-2]
 
 <sup>2</sup> La société dissoute doit adresser à l’AFC une copie signée du bilan dressé par les liquidateurs et l’informer régulièrement, suivant ses instructions, de l’état de la liquidation et en particulier de l’utilisation de l’actif; la liquidation terminée, une copie signée du compte de liquidation, avec un relevé concernant la répartition de l’excédent de liquidation, doivent être adressés à l’AFC.
 
@@ -356,6 +361,7 @@ Toute société anonyme ou société à responsabilité limitée suisse (art. 9,
 <sup>5</sup> Si une société veut transférer son siège à l’étranger, elle doit en informer sans délai l’AFC, lui adresser un bilan et un compte de pertes et profits établis au jour du transfert de siège et en même temps payer l’impôt dû sur la fortune excédant le montant du capital social versé. Cette disposition est également applicable si une société, dont le siège statutaire se trouve à l’étranger, veut transférer à l’étranger sa direction effective.
 
 [^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Sociétés coopératives
 
@@ -482,15 +488,12 @@ La demande doit être adressée par écrit à l’AFC; elle doit indiquer:
 
 <sup>2</sup> En cas de rachat de parts, l’impôt n’est perçu que si le rachat est effectué en raison de la dissolution ou de la liquidation du placement collectif.
 
-<sup>3</sup> Si des parts sont émises sans coupons, si la prestation est effectuée contre remise de la part ou s’il n’existe pas de parts, les bénéfices en capital, les versements en capital et les rendements des immeubles détenus en propriété directe distribués sont exonérés de l’impôt, s’ils sont indiqués séparément dans le relevé destiné au porteur de la part.
+<sup>3</sup> Si des parts sont émises sans coupons ou si la prestation est effectuée contre remise de la part, les bénéfices en capital, les versements en capital et les rendements des immeubles détenus en propriété directe distribués sont exonérés de l’impôt, s’ils sont indiqués séparément dans le relevé destiné au porteur de la part.[^28-2]
 
 [^28-1]: Nouvelle teneur selon le ch. I 2 de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Répartition des pertes et des frais
-
-#### Art. 29
-
-Les pertes subies dans un placement collectif de capitaux et les frais en rapport avec la réalisation des bénéfices en capital (frais d’obtention du bénéfice, commission de distribution, etc.) doivent être comptabilisés au débit des bénéfices en capital réalisés et du capital.
 
 ### 3. Direction du fonds et banque dépositaire
 
@@ -498,13 +501,17 @@ Les pertes subies dans un placement collectif de capitaux et les frais en rappor
 
 [^tit1-chap2-lvlC-lvlI-lvl3-1]: Nouvelle teneur selon le ch. I 2 de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 
-#### Art. 30
+#### Art. 29
 
-<sup>1</sup> …[^30-1]
+Les pertes subies dans un placement collectif de capitaux et les frais en rapport avec la réalisation des bénéfices en capital (frais d’obtention du bénéfice, commission de distribution, etc.) doivent être comptabilisés au débit des bénéfices en capital réalisés et du capital.
+
+**Art. 30**
+
+<sup>1</sup> …[^29-1]
 
 <sup>2</sup> Toute disposition traitant de «direction du fonds» ou de «banque dépositaire» s’applique par analogie aux personnes qui exercent ces fonctions.
 
-[^30-1]: Abrogé par le ch. I 2 de l’O du 15 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^29-1]: Abrogé par le ch. I 2 de l’O du 15 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 
 ### II. Déclaration comme contribuable
 
@@ -692,14 +699,15 @@ L’institut doit confirmer par écrit dans la déclaration:[^36-7]
 
 #### Art. 41
 
-<sup>1</sup> L’impôt est calculé sur le montant des gains en argent unitaires provenant de jeux d’argent qui dépassent un million de francs; il doit être payé spontanément à l’AFC dans les trente jours après l’obtention du résultat, sur la base d’un relevé sur formule officielle.[^41-1]
+<sup>1</sup> L’impôt est calculé sur le montant des gains en argent unitaires provenant de jeux d’argent qui sont imposables en vertu de l’art. 6 LIA;[^41-1] il doit être payé spontanément à l’AFC dans les trente jours après l’obtention du résultat, sur la base d’un relevé sur formule officielle.[^41-2]
 
 <sup>2</sup> S’il désire procéder à un tirage avant le début ou la fin de la vente des billets, l’organisateur doit en informer l’AFC. Celle-ci fixe alors les délais pour le paiement de l’impôt.
 
-<sup>3</sup> …[^41-2]
+<sup>3</sup> …[^41-3]
 
-[^41-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
-[^41-2]: Abrogé par l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^41-2]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41-3]: Abrogé par l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### b. Gains en nature
 
@@ -917,9 +925,11 @@ Ont droit au remboursement de l’impôt anticipé, comme les personnes morales:
 
 #### Art. 57
 
-<sup>1</sup> Celui qui représente un tiers (p. ex. le mari, le détenteur de la puissance paternelle, etc.) ou se substitue à un tiers dans l’obligation fiscale portant sur les revenus grevés de l’impôt anticipé ou la fortune d’où ils proviennent, a droit au remboursement de l’impôt anticipé, à la place du tiers.
+<sup>1</sup> Celui qui, en tant que détenteur de l’autorité parentale, représente un enfant ou se substitue à une autre personne dans l’obligation fiscale portant sur les revenus grevés de l’impôt anticipé ou la fortune d’où ils proviennent, a droit au remboursement de l’impôt anticipé, à la place de cette personne.[^57-1]
 
 <sup>2</sup> Le remboursement est accordé conformément aux règles applicables au représenté ou à l’auteur du droit.
+
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 3. Héritiers
 
@@ -927,11 +937,13 @@ Ont droit au remboursement de l’impôt anticipé, comme les personnes morales:
 
 #### Art. 58
 
-<sup>1</sup> Si une prestation grevée de l’impôt anticipé est échue avant le jour de l’ouverture d’une succession, les héritiers ont droit au remboursement de cet impôt, à la place du défunt, quel que soit leur domicile ou leur lieu de séjour.
+<sup>1</sup> Si une prestation grevée de l’impôt anticipé est échue avant le décès de son bénéficiaire, les héritiers ont droit au remboursement de cet impôt, à la place du défunt, quel que soit leur domicile ou leur lieu de séjour.[^58-1]
 
 <sup>2</sup> Si le rendement soumis à l’impôt anticipé d’un élément de la succession est échu après le décès et avant le partage, chaque héritier a droit au remboursement de l’impôt anticipé au prorata de sa part successorale, dans la mesure où il remplit personnellement les conditions requises.
 
 <sup>3</sup> Si, en vertu de la législation cantonale, une communauté héréditaire doit payer comme telle des impôts sur le revenu ou la fortune pour des revenus grevés de l’impôt anticipé ou pour la fortune d’où ils proviennent, l’al. 2 est applicable par analogie.
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### b. Procédure
 

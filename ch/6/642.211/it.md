@@ -4,11 +4,11 @@ title: "Ordinanza del 19 dicembre 1966 sull'imposta preventiva (OIPrev)"
 short: OIPrev
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230101/it"
 
 (OIPrev)[^t-1]
 
-del 19 dicembre 1966 (Stato 1° gennaio 2023)
+del 19 dicembre 1966 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -106,9 +106,11 @@ Quando il beneficiario della prestazione imponibile chiede un’attestazione spe
 
 <sup>1</sup> L’AFC può chiedere informazioni scritte od orali e convocare il contribuente per un’audizione.
 
-<sup>2</sup> Quando sembri opportuno, le informazioni date sono messe a verbale in presenza della persona escussa; il processo verbale deve essere firmato da essa e dal funzionario inquirente e, in caso, da colui che l’ha tenuto.
+<sup>2</sup> Quando sembri opportuno, le informazioni date sono messe a verbale in presenza della persona escussa; il processo verbale deve essere firmato da essa e dalla persona inquirente e, in caso, da colui che l’ha tenuto.[^6-1]
 
 <sup>3</sup> Prima di ogni audizione secondo il capoverso 2, la persona da escutere deve essere invitata a dire la verità ed avvertita delle conseguenze che implica il fatto di fornire informazioni inesatte (art. 62 cpv. 1 lett. *d* LIP).
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Verifica dei libri di commercio
 
@@ -148,14 +150,15 @@ l’AFC può esigere delle garanzie, l’esazione dell’imposta apparendo in pe
 
 #### Art. 10
 
-<sup>1</sup> Le garanzie chieste ai termini dell’articolo 47 LIP devono essere costituite da garanzie reali, da fideiussioni, da assicurazioni di fideiussione o altre, in conformità dell’ordinanza del 21 giugno 1957[^10-1] concernente la costituzione di garanzie a favore della Confederazione.
+<sup>1</sup> Le garanzie chieste ai termini dell’articolo 47 LIP devono essere costituite conformemente all’articolo 49 dell’ordinanza del 5 aprile 2006[^10-1] sulle finanze della Confederazione.[^10-2]
 
 <sup>2</sup> Le garanzie fornite sono svincolate non appena siano stati pagati le imposte, gli interessi e le spese che esse cautelavano o non si dia più il motivo della garanzia.
 
-<sup>3</sup> …[^10-2]
+<sup>3</sup> …[^10-3]
 
-[^10-1]: [[RU 1957 527](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527), [1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373)art. 19 cpv. 1 lett. b. [RU 1986 154](https://fedlex.data.admin.ch/eli/oc/1986/154_154_154)art. 51 n. 3]. Ora: in conformità dell’O del 5 apr. 2006 sulle finanze della Confederazione ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
-[^10-2]: Abrogato dall’all. 3 n. 14 dell’O del 3 feb. 1993 concernente l’organizzazione e la procedura delle commissioni federali di ricorso e di arbitrato, con effetto dal 1° gen. 1994 ([RU 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
+[^10-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^10-2]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^10-3]: Abrogato dall’all. 3 n. 14 dell’O del 3 feb. 1993 concernente l’organizzazione e la procedura delle commissioni federali di ricorso e di arbitrato, con effetto dal 1° gen. 1994 ([RU 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
 
 ### 3. Radiazione dal registro di commercio
 
@@ -172,17 +175,19 @@ l’AFC può esigere delle garanzie, l’esazione dell’imposta apparendo in pe
 
 #### Art. 12
 
+[^12-1]
+
 <sup>1</sup> Le imposte e gli interessi pagati, che non sono stati determinati con una decisione dell’AFC, sono restituiti non appena è accertato che non erano dovuti.
 
-<sup>2</sup> Se un’imposta non dovuta è già stata trasferita (art. 14 cpv. 1 LIP), la restituzione è concessa soltanto se è accertato che la persona cui l’imposta è stata trasferita non ne ha ottenuto il rimborso con la procedura ordinaria di rimborso e che tale persona verrà messa al benefico della restituzione secondo il capoverso 1.
+<sup>2</sup> Se un’imposta non dovuta è già stata trasferita (art. 14 cpv. 1 LIP), la restituzione è concessa soltanto se è accertato che la persona cui l’imposta è stata trasferita non ne ha ottenuto il rimborso con la procedura ordinaria di rimborso (art. 21–33 LIP) e che tale persona beneficerà della restituzione secondo il capoverso 1.
 
 <sup>3</sup> Se l’istante si avvale di fatti da cui risulta che un’altra imposta federale era dovuta, anche se nel frattempo prescritta, la restituzione è concessa soltanto per l’ammontare eccedente detta imposta.
 
 <sup>4</sup> Il diritto alla restituzione si prescrive in cinque anni dalla fine dell’anno civile nel quale il pagamento è stato fatto.
 
-<sup>5</sup> Le disposizioni della LIP e della presente ordinanza[^12-1] quanto alla riscossione dell’imposta si applicano per analogia; se l’istante non soddisfa agli obblighi di fornire informazioni e se il diritto alla restituzione non può essere accertato senza le informazioni chieste dall’AFC, l’istanza è respinta.
+<sup>5</sup> Le disposizioni della LIP e della presente ordinanza12 quanto alla riscossione dell’imposta si applicano per analogia; se l’istante non soddisfa agli obblighi di fornire informazioni e se il diritto alla restituzione non può essere accertato senza le informazioni chieste dall’AFC, l’istanza è respinta.senza le informazioni chieste dall’AFC, l’istanza è respinta.
 
-[^12-1]: Nuova espr. giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^12-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### VI. Compensazione
 
@@ -345,7 +350,7 @@ Ogni società anonima o società a garanzia limitata svizzera (art. 9 cpv. 1 LIP
 
 #### Art. 22
 
-<sup>1</sup> Se una società anonima o a garanzia limitata viene sciolta (art. 736 e 820 Codice delle obbligazioni[^22-1]), essa deve informarne senza indugio l’AFC.
+<sup>1</sup> Se una società anonima o a garanzia limitata viene sciolta (art. 736 e 821 Codice delle obbligazioni[^22-1]), essa deve informarne senza indugio l’AFC.[^22-2]
 
 <sup>2</sup> La società disciolta è tenuta ad inviare all’AFC una copia firmata del bilancio compilato dai liquidatori e ad informarla regolarmente, secondo le istruzioni da essa impartite, quanto allo stato della liquidazione e, segnatamente, quanto all’impiego dell’attivo; terminata la liquidazione, una copia firmata del conto di liquidazione, corredata di una distinta concernente la ripartizione dell’eccedenza che ne risulta, deve essere inviata all’AFC.
 
@@ -356,6 +361,7 @@ Ogni società anonima o società a garanzia limitata svizzera (art. 9 cpv. 1 LIP
 <sup>5</sup> Se vuol trasferire la sede all’estero, la società deve informarne senza indugio l’AFC, inviarle il bilancio e il conto dei profitti e delle perdite compilati al giorno del trasferimento della sede e, in pari tempo, pagare l’imposta dovuta sulla sostanza eccedente il capitale sociale versato. Tale disposizione si applica parimente alla società che, avendo la sede statutaria all’estero, vi vuole trasferire anche la direzione effettiva.
 
 [^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-2]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Società cooperative
 
@@ -484,9 +490,10 @@ L’istanza deve essere presentata per iscritto all’AFC; essa deve menzionare:
 
 <sup>2</sup> In caso di ripresa delle quote l’imposta è riscossa soltanto se la ripresa è dovuta a scioglimento o liquidazione dell’investimento collettivo di capitale.
 
-<sup>3</sup> Se sono state emesse quote senza cedole, se la prestazione è corrisposta dietro consegna della quota o se non si danno quote, i profitti in capitale, i versamenti di capitale e i proventi derivanti dal possesso fondiario diretto sono esentati dall’imposta, qualora figurino separatamente nel conteggio destinato al portatore delle quote.
+<sup>3</sup> Se sono state emesse quote senza cedole o se la prestazione è corrisposta dietro consegna della quota, i profitti in capitale, i versamenti di capitale e i proventi derivanti dal possesso fondiario diretto sono esentati dall’imposta qualora figurino separatamente nel conteggio destinato al portatore delle quote.[^28-2]
 
 [^28-1]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^28-2]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Ripartizione delle perdite e delle spese
 
@@ -695,14 +702,15 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 #### Art. 41
 
-<sup>1</sup> L’imposta è calcolata sull’ammontare delle singole vincite in denaro risultanti dalla partecipazione a giochi in denaro di oltre un milione di franchi. Essa deve essere pagata spontaneamente all’AFC entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.[^41-1]
+<sup>1</sup> L’imposta è calcolata sull’ammontare delle singole vincite in denaro imponibili secondo l’articolo 6 LIP risultanti dalla partecipazione a giochi in denaro.[^41-1] Essa deve essere pagata spontaneamente all’AFC entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.[^41-2]
 
 <sup>2</sup> Se desidera procedere all’estrazione prima che si sia iniziata o terminata la vendita dei biglietti, l’organizzatore deve informarne l’AFC. Essa stabilisce, allora, i termini per il pagamento dell’imposta.
 
-<sup>3</sup> …[^41-2]
+<sup>3</sup> …[^41-3]
 
-[^41-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
-[^41-2]: Abrogato dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, con effetto dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^41-2]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41-3]: Abrogato dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, con effetto dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### b. Vincite in natura
 
@@ -920,9 +928,13 @@ Alla stessa stregua delle persone giuridiche hanno diritto al rimborso dell’im
 
 #### Art. 57
 
-<sup>1</sup> Chiunque rappresenta un terzo (per es. il marito, il detentore della patria potestà ecc.) o lo sostituisce nell’obbligazione fiscale quanto ai redditi colpiti dall’imposta preventiva o alla sostanza da cui derivano, ha diritto al rimborso dell’imposta in luogo e vece del terzo.
+[^57-1]
+
+<sup>1</sup> Chiunque, in qualità di detentore dell’autorità parentale, rappresenta un figlio nell’obbligazione fiscale quanto ai redditi colpiti dall’imposta preventiva o alla sostanza da cui derivano o sostituisce un’altra persona nell’obbligazione fiscale, ha diritto al rimborso dell’imposta in luogo di tale persona.
 
 <sup>2</sup> Il rimborso è concesso conformemente alle norme che si applicano al rappresentato o all’autore del diritto.
+
+[^57-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 3. Eredi
 
