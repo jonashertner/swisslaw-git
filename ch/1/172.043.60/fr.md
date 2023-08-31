@@ -4,11 +4,11 @@ title: "Ordonnance du 4 mai 2016 sur les émoluments pour les décisions et les 
 short: OEmol-fedpol
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/270"
 language: fr
-version: 2022-10-01
+version: 2023-09-01
 adopted: 2016-05-04
 in_force: 2016-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/270/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2016-270-20221001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/270/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-270-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20221001/fr"
 
 (Ordonnance sur les émoluments de fedpol, OEmol-fedpol)
 
-du 4 mai 2016 (État le 1<sup>er</sup> octobre 2022)
+du 4 mai 2016 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -38,32 +38,33 @@ L’Office fédéral de la police (fedpol) perçoit des émoluments pour les dé
 - a. les décisions fondées sur les art. 13*e* et 24*c* de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^1-1];
 - b. les décisions relatives à la suspension provisoire d’une interdiction d’entrée ou d’une expulsion fondées sur les art. 67, al. 5, et 68, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^1-2];
 - c. les prestations fondées sur l’art. 2, let. b, de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération et les centres communs de coopération policière et douanière avec d’autres États[^1-3];
-- d. les décisions et les prestations fondées sur l’art. 2, al. 1, de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^1-4];
-- e.[^1-5] les attestations de sécurité requises par des ressortissants suisses à des fins de contrôle de sécurité exigés par des autorités étrangères pour faciliter l’entrée sur leur territoire;
-- f.[^1-6] la mise à la disposition des autorités cantonales de dispositifs techniques spéciaux et de programmes informatiques spéciaux de surveillance de la correspondance par télécommunication en vertu de l’art. 10, al. 9, de l’ordonnance du 17 novembre 1999 sur l’organisation du Département fédéral de justice et police[^1-7], pour autant qu’il en résulte des frais extraordinaires pour fedpol.
+- d.[^1-4] les décisions et les prestations fondées sur l’art. 19, al. 1, de l’ordonnance du 31 août 2022 sur la protection des données[^1-5];
+- e.[^1-6] les attestations de sécurité requises par des ressortissants suisses à des fins de contrôle de sécurité exigés par des autorités étrangères pour faciliter l’entrée sur leur territoire;
+- f.[^1-7] la mise à la disposition des autorités cantonales de dispositifs techniques spéciaux et de programmes informatiques spéciaux de surveillance de la correspondance par télécommunication en vertu de l’art. 10, al. 9, de l’ordonnance du 17 novembre 1999 sur l’organisation du Département fédéral de justice et police[^1-8], pour autant qu’il en résulte des frais extraordinaires pour fedpol.
 
 <sup>2</sup>
 
 La présente ordonnance ne s’applique pas aux décisions et aux prestations que fedpol rend ou fournit sur la base des actes suivants:
 
-- a. loi du 17 décembre 2004 sur la transparence[^1-8];
-- b. loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^1-9];
-- c. ordonnance du 20 septembre 2002 sur les documents d’identité[^1-10];
-- d. ordonnance du 2 juillet 2008 sur les armes[^1-11];
-- e. ordonnance du 27 novembre 2000 sur les explosifs[^1-12].
+- a. loi du 17 décembre 2004 sur la transparence[^1-9];
+- b. loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^1-10];
+- c. ordonnance du 20 septembre 2002 sur les documents d’identité[^1-11];
+- d. ordonnance du 2 juillet 2008 sur les armes[^1-12];
+- e. ordonnance du 27 novembre 2000 sur les explosifs[^1-13].
 
 [^1-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^1-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^1-3]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^1-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^1-5]: Introduite par le ch. I de l’O du 11 janv. 2017, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2017 245](https://fedlex.data.admin.ch/eli/oc/2017/60)).
-[^1-6]: Introduite par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
-[^1-7]: [RS 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
-[^1-8]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^1-9]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^1-10]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
-[^1-11]: [RS 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
-[^1-12]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+[^1-4]: Nouvelle teneur selon l’annexe 2 ch. II 20 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-5]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^1-6]: Introduite par le ch. I de l’O du 11 janv. 2017, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2017 245](https://fedlex.data.admin.ch/eli/oc/2017/60)).
+[^1-7]: Introduite par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
+[^1-8]: [RS 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
+[^1-9]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^1-10]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^1-11]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+[^1-12]: [RS 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
+[^1-13]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
 
 #### Art. 2
 
