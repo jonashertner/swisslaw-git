@@ -3,18 +3,18 @@ sr: "150.1"
 title: Bundesgesetz vom 20. März 2009 über die Kommission zur Verhütung von Folter
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/663"
 language: de
-version: 2010-01-01
+version: 2023-09-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/663/20100101/de/xml/fedlex-data-admin-ch-eli-cc-2009-663-20100101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/663/20100101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/663/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-663-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/663/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Kommission zur Verhütung von Folter
 
-vom 20. März 2009 (Stand am 1. Januar 2010)
+vom 20. März 2009 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -128,11 +128,12 @@ Die Kommission hat Zugang zu denjenigen Informationen, die sie zur Erfüllung ih
 
 **Datenschutz**
 
-<sup>1</sup> Die Kommission darf besonders schützenswerte und andere Personendaten nach dem Bundesgesetz vom 19. Juni 1992[^10-1] über den Datenschutz bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist und diese Daten die Situation von Personen betreffen, denen die Freiheit entzogen ist.
+<sup>1</sup> Die Kommission darf besonders schützenswerte und andere Personendaten nach dem Datenschutzgesetz vom 25. September 2020[^10-1] bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist und diese Daten die Situation von Personen betreffen, denen die Freiheit entzogen ist.[^10-2]
 
 <sup>2</sup> Personendaten dürfen nur bekannt gegeben werden, wenn die betroffene Person ausdrücklich eingewilligt hat.
 
 [^10-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-2]: Fassung gemäss Anhang 1 Ziff. II 8 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
@@ -162,4 +163,4 @@ Die erste Präsidentin oder der erste Präsident der Kommission wird vom Bundesr
 
 Datum des Inkrafttretens: 1. Januar 2010[^13-1]
 
-[^13-1]: BRB vom 21. Okt. 2009 ([AS 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662)5444. [BBl 2007 265](https://fedlex.data.admin.ch/eli/fga/2007/45))
+[^13-1]: BRB vom 21. Okt. 2009 ([AS 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662))

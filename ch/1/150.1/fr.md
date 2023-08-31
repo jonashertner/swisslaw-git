@@ -3,18 +3,18 @@ sr: "150.1"
 title: Loi fédérale du 20 mars 2009 sur la Commission de prévention de la torture
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/663"
 language: fr
-version: 2010-01-01
+version: 2023-09-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/663/20100101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-663-20100101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/663/20100101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/663/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-663-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/663/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la Commission de prévention de la torture
 
-du 20 mars 2009 (Etat le 1<sup>er</sup> janvier 2010)
+du 20 mars 2009 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -128,11 +128,12 @@ La commission a accès aux renseignements dont elle a besoin pour accomplir ses 
 
 **Protection des données**
 
-<sup>1</sup> La commission est autorisée à traiter des données sensibles et d’autres données personnelles conformément à la loi fédérale du 19 juin 1992 sur la protection des données[^10-1] à condition que l’accomplissement de ses tâches l’exige et que ces données portent sur la situation de personnes privées de liberté ou s’y rapportent.
+<sup>1</sup> La commission est autorisée à traiter des données sensibles et d’autres données personnelles conformément à la loi fédérale du 25 septembre 2020 sur la protection des données[^10-1] à condition que l’accomplissement de ses tâches l’exige et que ces données portent sur la situation de personnes privées de liberté ou s’y rapportent.[^10-2]
 
 <sup>2</sup> Aucune donnée personnelle ne peut être communiquée sans que la personne concernée y ait consenti expressément.
 
 [^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-2]: Nouvelle teneur selon l’annexe 1 ch. II 8 de la LF du 25 sept. 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
@@ -162,4 +163,4 @@ Le Conseil fédéral désigne le premier président de la commission.
 
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2010[^13-1]
 
-[^13-1]: ACF du 21 oct. 2009 ([RO 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662)5444; [FF 2007 261](https://fedlex.data.admin.ch/eli/fga/2007/45))
+[^13-1]: ACF du 21 oct. 2009 ([RO 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662))
