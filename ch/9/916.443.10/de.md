@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. Januar 2022)
+vom 18. November 2015 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -474,7 +474,7 @@ Sendungen folgender Tiere und Tierprodukte müssen vom Importeur spätestens zeh
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
-### 6. Abschnitt: Vorführung zur grenztierärztlichen Kontrolle, Zollanmeldung, Zollgewahrsam, Zolllager und Zollfreilager****
+### 6. Abschnitt: Vorführung zur grenztierärztlichen Kontrolle, Zollanmeldung, Zollgewahrsam, Zolllager und Zollfreilager
 
 [^chap2-sec6-1]
 
@@ -1621,7 +1621,7 @@ TRACES kann zum elektronischen Abgleich von Daten zu Einfuhrsendungen mit dem Sy
 
 <sup>2</sup> Es kann Weisungen technischer Art zu TRACES erlassen.
 
-### 4. Abschnitt:**** Informationssystem EDAV
+### 4. Abschnitt: Informationssystem EDAV
 
 [^chap7-sec4-1]
 
@@ -1666,17 +1666,21 @@ Das Informationssystem EDAV enthält folgende Daten im Zusammenhang mit der Einf
 
 **Datenschutz**
 
-Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. Für die dafür notwendigen organisatorischen und technischen Massnahmen erlässt es ein Betriebsreglement.
+Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. Für die dafür notwendigen organisatorischen und technischen Massnahmen erlässt es ein Bearbeitungsreglement.[^102d-1]
+
+[^102d-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 130 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 102e
 
-**Rechte der betroffenen Personen**
+**Rechte der betroffenen Personen**[^102e-1]
 
-<sup>1</sup> Die Rechte der Personen, über die im Informationssystem EDAV Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Löschungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^102e-1] über den Datenschutz.
+<sup>1</sup> Die Rechte der Personen, über die im Informationssystem EDAV Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^102e-2].
 
-<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie sich über ihre Identität ausweisen und ein schriftliches Gesuch beim BLV einreichen.
+<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^102e-3] ein Gesuch beim BLV einreichen.
 
-[^102e-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102e-1]: Fassung gemäss Anhang 2 Ziff. II 130 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^102e-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102e-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 102f
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° gennaio 2022)
+del 18 novembre 2015 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -474,7 +474,7 @@ Le seguenti partite di animali e prodotti animali devono essere notificate al ve
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
-### Sezione 6: Presentazione al controllo veterinario di confine, dichiarazione doganale, custodia doganale, deposito doganale e deposito franco doganale****
+### Sezione 6: Presentazione al controllo veterinario di confine, dichiarazione doganale, custodia doganale, deposito doganale e deposito franco doganale
 
 [^chap2-sec6-1]
 
@@ -600,7 +600,7 @@ L’azienda di destinazione deve notificare al veterinario cantonale entro 24 or
 
 <sup>4</sup> La carne bovina può essere trasformata in preparati e prodotti a base di carne soltanto se tali prodotti sono forniti direttamente ai consumatori da parte di aziende di vendita al dettaglio. Essi devono recare la dichiarazione di cui al capoverso 1.
 
-<sup>5</sup> Le parti e le sezioni di carne bovina non utilizzate secondo i capoversi 3 e 4 devono essere eliminate come materiale della categoria 3 conformemente all’OESA[^30-2].
+<sup>5</sup> Le parti e le sezioni di carne bovina non utilizzate secondo i capoversi 3 e 4 devono essere eliminate come materiale della categoria 3 conformemente all’OSOAn[^30-2].
 
 [^30-1]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 [^30-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
@@ -872,7 +872,7 @@ I modelli di cui al capoverso 2 possono essere messi a disposizione soltanto se:
 I seguenti sottoprodotti di origine animale possono essere esportati soltanto con un’autorizzazione dell’USAV:
 
 - a.[^52-1] i sottoprodotti delle categorie 1 e 2 ai sensi degli articoli 5 e 6 OSOAn[^52-2], eccettuati i campioni destinati alla ricerca e i campioni diagnostici nonché i campioni commerciali e gli articoli da esposizioni ai sensi degli articoli 11 e 12 del regolamento (UE) n. 142/2011[^52-3];
-- b. i sottoprodotti di origine animale della categoria 3 ai sensi dell’articolo 7 OESA, eccettuati i prodotti di cui all’articolo 39 capoverso 3 OESA.
+- b. i sottoprodotti di origine animale della categoria 3 ai sensi dell’articolo 7 OSOAn, eccettuati i prodotti di cui all’articolo 39 capoverso 3 OSOAn.
 
 <sup>2</sup>
 
@@ -880,7 +880,7 @@ L’USAV rilascia l’autorizzazione se:
 
 - a. all’esportazione non si oppongono motivi di polizia sanitaria;
 - b. l’azienda esportatrice garantisce il rispetto delle condizioni d’importazione del Paese di destinazione;
-- c. l’azienda esportatrice prova che, in caso di restrizioni alle importazioni da parte del Paese di destinazione, può eliminare i sottoprodotti di origine animale in Svizzera conformemente all’articolo 39 capoverso 2 OESA; e
+- c. l’azienda esportatrice prova che, in caso di restrizioni alle importazioni da parte del Paese di destinazione, può eliminare i sottoprodotti di origine animale in Svizzera conformemente all’articolo 39 capoverso 2 OSOAn; e
 - d. il Paese di destinazione ha approvato l’importazione dei sottoprodotti di origine animale delle categorie 1 e 2.
 
 <sup>3</sup> Prima di rilasciare l’autorizzazione, l’USAV sottopone la domanda di esportazione al veterinario cantonale competente per lo stabilimento di eliminazione che provvederebbe all’eliminazione secondo il capoverso 2 lettera c.
@@ -1234,7 +1234,7 @@ Il servizio veterinario di confine confisca:
 
 <sup>3</sup> Gli animali confiscati per motivi contemplati dalla legislazione sulle epizoozie vengono soppressi.
 
-<sup>4</sup> I prodotti animali confiscati e gli animali morti vengono eliminati dall’USAV conformemente all’OESA[^72-4].
+<sup>4</sup> I prodotti animali confiscati e gli animali morti vengono eliminati dall’USAV conformemente all’OSOAn[^72-4].
 
 [^72-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^72-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
@@ -1350,7 +1350,7 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 **Eliminazione delle derrate alimentari provenienti dalla ristorazione di bordo**
 
-<sup>1</sup> Le derrate alimentari di origine animale destinate alla ristorazione di bordo di aeromobili operanti nel traffico internazionale e che non proseguono la loro rotta all’interno dello stesso aeromobile devono essere eliminate dalle aziende di catering conformemente all’articolo 22 OESA[^80-1].
+<sup>1</sup> Le derrate alimentari di origine animale destinate alla ristorazione di bordo di aeromobili operanti nel traffico internazionale e che non proseguono la loro rotta all’interno dello stesso aeromobile devono essere eliminate dalle aziende di catering conformemente all’articolo 22 OSOAn[^80-1].
 
 <sup>2</sup> Le modalità di eliminazione impiegate dalle aziende di catering devono essere autorizzate dal Cantone.
 
@@ -1362,9 +1362,9 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 **Misure applicabili al traffico turistico e alle lettere e ai pacchi destinati a privati**
 
-<sup>1</sup> Se constatano partite non conformi alle condizioni sull’importazione e il transito di prodotti animali nel traffico turistico di cui all’articolo 13, gli uffici doganali incaricano la persona soggetta all’obbligo di dichiarazione di provvedere all’eliminazione delle partite in questione. Se la persona soggetta all’obbligo di dichiarazione è contraria all’eliminazione, l’ufficio doganale informa l’autorità cantonale competente oppure il servizio veterinario di confine presso un posto d’ispezione frontaliero autorizzato. Questi ultimi confiscano le partite e ne dispongono l’eliminazione conformemente all’OESA[^81-1].
+<sup>1</sup> Se constatano partite non conformi alle condizioni sull’importazione e il transito di prodotti animali nel traffico turistico di cui all’articolo 13, gli uffici doganali incaricano la persona soggetta all’obbligo di dichiarazione di provvedere all’eliminazione delle partite in questione. Se la persona soggetta all’obbligo di dichiarazione è contraria all’eliminazione, l’ufficio doganale informa l’autorità cantonale competente oppure il servizio veterinario di confine presso un posto d’ispezione frontaliero autorizzato. Questi ultimi confiscano le partite e ne dispongono l’eliminazione conformemente all’OSOAn[^81-1].
 
-<sup>2</sup> Se le lettere e i pacchi contenenti prodotti animali destinati a privati non sono conformi alle condizioni d’importazione di cui all’articolo 14, l’impresa di spedizione li trasmette al servizio veterinario di confine. Quest’ultimo confisca la partita e la elimina conformemente all’OESA.[^81-2]
+<sup>2</sup> Se le lettere e i pacchi contenenti prodotti animali destinati a privati non sono conformi alle condizioni d’importazione di cui all’articolo 14, l’impresa di spedizione li trasmette al servizio veterinario di confine. Quest’ultimo confisca la partita e la elimina conformemente all’OSOAn.[^81-2]
 
 [^81-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 [^81-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
@@ -1622,7 +1622,7 @@ Per il confronto elettronico dei dati relativi alle partite importate TRACES pu�
 
 <sup>2</sup> L’USAV può emanare direttive tecniche inerenti a TRACES.
 
-### Sezione 4:**** Sistema informatico OITE
+### Sezione 4: Sistema informatico OITE
 
 [^chap7-sec4-1]
 
@@ -1667,17 +1667,21 @@ Il sistema informatico OITE contiene i seguenti dati in relazione all’importaz
 
 **Protezione dei dati**
 
-L’USAV provvede affinché le disposizioni in materia di protezione dei dati vengano rispettate. L’USAV emana un regolamento d’esercizio per le necessarie misure organizzative e tecniche.
+L’USAV provvede affinché le disposizioni in materia di protezione dei dati vengano rispettate. L’USAV emana un regolamento sul trattamento per le necessarie misure organizzative e tecniche.[^102d-1]
+
+[^102d-1]: Nuovo testo del per. giusta l’all. 2 n. II 130 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 102e
 
-**Diritti delle persone interessate**
+**Diritti delle persone interessate**[^102e-1]
 
-<sup>1</sup> I diritti delle persone i cui dati sono trattati nel sistema informatico OITE, in particolare i diritti d’accesso, rettifica e cancellazione, sono disciplinati dalla legge federale del 19 giugno 1992[^102e-1] sulla protezione dei dati.
+<sup>1</sup> I diritti delle persone i cui dati sono trattati nel sistema d’informazione EDAV, in particolare i diritti d’accesso, di rettifica e di distruzione dei dati, sono retti dalla legge federale del 25 settembre 2020[^102e-2] sulla protezione dei dati.
 
-<sup>2</sup> Per far valere i suoi diritti una persona interessata deve fornire prova della sua identità e presentare una domanda scritta all’USAV.
+<sup>2</sup> Se una persona interessata intende far valere i suoi diritti, deve presentare una domanda all’USAV nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^102e-3] sulla protezione dei dati.
 
-[^102e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102e-1]: Nuovo testo giusta l’all. 2 n. II 130 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^102e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102e-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 102f
 

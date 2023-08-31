@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 réglant les échanges d'importation, de 
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/fr"
 
 (OITE-PT)
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 novembre 2015 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -43,7 +43,8 @@ La présente ordonnance est applicable:
 
 - a. à l’importation et au transit d’animaux et de produits animaux en provenance des pays tiers et à l’exportation d’animaux et de produits animaux vers ces pays;
 - b.[^1-1] à l’importation et au transit d’animaux, excepté les animaux de l’aquaculture, de semences, d’ovules et d’embryons animaux en provenance d’Islande, et à l’exportation vers l’Islande de ces animaux et produits animaux.
-- [tab] <sup>2</sup> Elle s’applique à l’importation, au transit et à l’exportation d’animaux de compagnie, pour autant que l’ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie[^1-2] ne soit pas applicable.
+
+<sup>2</sup> Elle s’applique à l’importation, au transit et à l’exportation d’animaux de compagnie, pour autant que l’ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie[^1-2] ne soit pas applicable.
 
 <sup>3</sup> Elle ne s’applique pas au transit des denrées alimentaires d’origine animale qui sont destinées au ravitaillement à bord d’un avion en trafic international et qui sont gardées à bord du même avion pour un autre vol.
 
@@ -469,7 +470,7 @@ Pour les lots d’animaux et de produits animaux ci-après, la notification pré
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
-### Section 6 Présentation des lots au contrôle vétérinaire de frontière, déclaration en douane, garde de la douane, entrepôts douaniers et dépôts francs sous douane****
+### Section 6 Présentation des lots au contrôle vétérinaire de frontière, déclaration en douane, garde de la douane, entrepôts douaniers et dépôts francs sous douane
 
 [^chap2-sec6-1]
 
@@ -595,7 +596,7 @@ L’établissement de destination doit annoncer au vétérinaire cantonal, dans 
 
 <sup>4</sup> Ladite viande de bœuf ne peut être transformée en préparations de viande ou produits à base de viande que si ces préparations ou produits sont cédés directement au consommateur par des entreprises de vente au détail. Une déclaration conforme à l’al. 1 doit leur être apposée.
 
-<sup>5</sup> Les parties et chutes de ladite viande de bœuf qui ne sont pas employées conformément aux al. 3 et 4 du présent article doivent être éliminées comme matières de catégorie 3 au sens de l’OESPA[^30-2].
+<sup>5</sup> Les parties et chutes de ladite viande de bœuf qui ne sont pas employées conformément aux al. 3 et 4 du présent article doivent être éliminées comme matières de catégorie 3 au sens de l’OSPA[^30-2].
 
 [^30-1]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 [^30-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
@@ -869,7 +870,7 @@ Les modèles visés à l’al. 2 ne peuvent être validés qu’aux conditions s
 Les sous-produits animaux ci-après ne peuvent être exportés qu’avec une autorisation de l’OSAV:
 
 - a.[^52-1] sous-produits animaux des catégories 1 et 2 visés aux art. 5 et 6 OSPA[^52-2], à l’exception des échantillons destinés à des fins de recherche et de diagnostic, des échantillons commerciaux et des pièces d’exposition au sens des art. 11 et 12 du règlement (UE) n<sup>o</sup> 142/2011[^52-3];
-- b. sous-produits animaux de catégorie 3 visés à l’art. 7 OESPA, à l’exception des produits visés à l’art. 39, al. 3, OESPA.
+- b. sous-produits animaux de catégorie 3 visés à l’art. 7 OSPA, à l’exception des produits visés à l’art. 39, al. 3, OSPA.
 
 <sup>2</sup>
 
@@ -877,13 +878,13 @@ L’OSAV délivre l’autorisation aux conditions suivantes:
 
 - a. aucun motif de police des épizooties ne s’oppose à l’exportation;
 - b. l’établissement d’exportation garantit le respect des conditions d’importation posées par le pays de destination;
-- c. l’établissement d’exportation prouve qu’il pourrait éliminer les sous-produits animaux en Suisse conformément à l’art. 39, al. 2, OESPA, au cas où le pays de destination limiterait l’importation;
+- c. l’établissement d’exportation prouve qu’il pourrait éliminer les sous-produits animaux en Suisse conformément à l’art. 39, al. 2, OSPA, au cas où le pays de destination limiterait l’importation;
 - d. le pays de destination a autorisé l’importation des sous-produits animaux des catégories 1 et 2.
 
 <sup>3</sup> Avant de délivrer l’autorisation, l’OSAV soumet la demande d’autorisation d’exportation au vétérinaire cantonal compétent pour l’entreprise d’élimination qui procéderait à l’élimination dans le cas visé à l’al. 2, let. c.
 
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^52-2]: RS **916.404.22**
+[^52-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 [^52-3]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2019/1177, JO L 185 du 11.7.2019, p. 26
 
 #### Art. 52a
@@ -1240,7 +1241,7 @@ Le Service vétérinaire de frontière confisque:
 
 <sup>3</sup> Les animaux confisqués pour des raisons de police des épizooties sont euthanasiés.
 
-<sup>4</sup> L’OSAV élimine les produits animaux confisqués et les animaux péris conformément à l’OESPA[^72-4].
+<sup>4</sup> L’OSAV élimine les produits animaux confisqués et les animaux péris conformément à l’OSPA[^72-4].
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^72-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
@@ -1355,7 +1356,7 @@ Si la vérification des données indique que la libération n’a pas été effe
 
 **Élimination de denrées alimentaires utilisées à des fins de ravitaillement à bord des avions**
 
-<sup>1</sup> Les denrées alimentaires d’origine animale qui étaient destinées au ravitaillement à bord d’un avion en trafic international et qui ne sont pas gardées dans le même avion pour un autre vol doivent être éliminées par les entreprises de restauration conformément à l’art. 22 OESPA[^80-1].
+<sup>1</sup> Les denrées alimentaires d’origine animale qui étaient destinées au ravitaillement à bord d’un avion en trafic international et qui ne sont pas gardées dans le même avion pour un autre vol doivent être éliminées par les entreprises de restauration conformément à l’art. 22 OSPA[^80-1].
 
 <sup>2</sup> Les filières d’élimination choisies par les entreprises de restauration doivent être autorisées par le canton concerné.
 
@@ -1367,9 +1368,9 @@ Si la vérification des données indique que la libération n’a pas été effe
 
 **Mesures applicables au trafic voyageurs et à l’envoi de lots par lettre ou colis à des particuliers[^81-1]**
 
-<sup>1</sup> Si le bureau de douane constate qu’un lot de produits animaux transporté dans le trafic voyageurs ne remplit pas les conditions d’importation ou de transit de l’art. 13, il fait détruire le lot par la personne assujettie à l’obligation de déclarer. Si celle-ci s’oppose à la destruction du lot, le bureau de douane informe l’autorité cantonale compétente ou, dans un poste d’inspection frontalier, le Service vétérinaire de frontière. Ceux-ci confisquent le lot et organisent son élimination conformément à l’OESPA[^81-2].
+<sup>1</sup> Si le bureau de douane constate qu’un lot de produits animaux transporté dans le trafic voyageurs ne remplit pas les conditions d’importation ou de transit de l’art. 13, il fait détruire le lot par la personne assujettie à l’obligation de déclarer. Si celle-ci s’oppose à la destruction du lot, le bureau de douane informe l’autorité cantonale compétente ou, dans un poste d’inspection frontalier, le Service vétérinaire de frontière. Ceux-ci confisquent le lot et organisent son élimination conformément à l’OSPA[^81-2].
 
-<sup>2</sup> Si les lots de produits animaux acheminés par lettre ou colis à des particuliers ne remplissent pas les conditions d’importation visées à l’art. 14, le transitaire les transmet au Service vétérinaire de frontière. Celui-ci confisque le lot et organise son élimination conformément à l’OESPA.[^81-3]
+<sup>2</sup> Si les lots de produits animaux acheminés par lettre ou colis à des particuliers ne remplissent pas les conditions d’importation visées à l’art. 14, le transitaire les transmet au Service vétérinaire de frontière. Celui-ci confisque le lot et organise son élimination conformément à l’OSPA.[^81-3]
 
 [^81-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^81-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
@@ -1673,17 +1674,21 @@ Le système d’information OITE contient les données suivantes concernant l’
 
 **Protection des données**
 
-L’OSAV veille à ce que les dispositions sur la protection des données soient respectées. Il édicte un règlement d’exploitation fixant les mesures organisationnelles et techniques nécessaires à cet effet.
+L’OSAV veille à ce que les dispositions sur la protection des données soient respectées. Il édicte un règlement de traitement fixant les mesures organisationnelles et techniques nécessaires à cet effet.[^102d-1]
+
+[^102d-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 130 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 102e
 
-**Droits des personnes concernées**
+**Droits des personnes concernées**[^102e-1]
 
-<sup>1</sup> Les droits des personnes dont les données sont traitées dans le système d’information OITE, notamment les droits d’accès, de rectification et d’effacement, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^102e-1].
+<sup>1</sup> Les droits des personnes dont les données sont traitées dans le système d’information OITE, notamment les droits d’accès, de rectification et de destruction, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^102e-2].
 
-<sup>2</sup> Pour faire valoir ses droits, la personne concernée doit justifier de son identité et adresser une demande écrite à l’OSAV.
+<sup>2</sup> Pour faire valoir ses droits, la personne concernée adresse une demande à l’OSAV dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^102e-3].
 
-[^102e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102e-1]: Nouvelle teneur selon l’annexe 2 ch. II 130 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^102e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102e-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 102f
 
