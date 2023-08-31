@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über das Verarbeitungssystem für die �
 short: VVS-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-36-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-36-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/de"
 
 (VVS-ÜPF)
 
-vom 15. November 2017 (Stand am 1. Juni 2022)
+vom 15. November 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -152,9 +152,10 @@ Der Dienst ÜPF erstellt auf Antrag mittels Antragsformulars persönliche Benutz
 
 <sup>3</sup> Er überprüft periodisch, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen.
 
-<sup>4</sup> Die Zugriffsberechtigungen auf das Verarbeitungssystem sind im Anhang geregelt. Der Dienst ÜPF präzisiert sie im Bearbeitungsreglement (Art. 21 der Verordnung vom 14. Juni 1993[^7-1] zum Bundesgesetz über den Datenschutz).
+<sup>4</sup> Die Zugriffsberechtigungen auf das Verarbeitungssystem sind im Anhang geregelt. Der Dienst ÜPF präzisiert sie im Bearbeitungsreglement (Art. 6 der Datenschutzverordnung vom 31. August 2022[^7-1]).[^7-2]
 
 [^7-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^7-2]: Fassung gemäss Anhang 2 Ziff. II 86 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 8
 
@@ -162,7 +163,7 @@ Der Dienst ÜPF erstellt auf Antrag mittels Antragsformulars persönliche Benutz
 
 <sup>1</sup> Mit der Überwachungsanordnung wird dem Dienst ÜPF mitgeteilt, welche Mitarbeiterinnen und Mitarbeiter der in Artikel 9 Absätze 1–3 BÜPF erwähnten Behörden Zugriff auf die Daten welcher Überwachungen benötigen. Nach der Authentifizierung erhalten diese Zugriff mittels Abrufverfahren auf die in der Anordnung vorgesehenen Überwachungsdaten.
 
-<sup>2</sup> Ein Gesuch auf Zugriff auf die Überwachungsdaten können die nach Artikel 279 der Strafprozessordnung[^8-1], beziehungsweise Artikel 70*j* Militärstrafprozess vom 23. März 1979[^8-2], nach Artikel 33 des Bundesgesetzes vom 25. September 2015[^8-3] über den Nachrichtendienst (NDG), nach den Artikeln 35 und 36 BÜPF und nach dem Bundesgesetz vom 19. Juni 1992[^8-4] über den Datenschutz betroffenen Personen sowie ihre Rechtsbeistände bei der nach Artikel 10 Absatz 1–3 BÜPF zuständigen Behörde einreichen. Sie erhalten über die zuständige Behörde nach deren jeweils anwendbaren Bestimmungen Zugriff auf die Daten, die sie für die Wahrnehmung des ihnen zustehenden Akteneinsichtsrechts beziehungsweise Rechts auf Auskunft über die Daten benötigen.
+<sup>2</sup> Ein Gesuch auf Zugriff auf die Überwachungsdaten können die nach Artikel 279 der Strafprozessordnung[^8-1] beziehungsweise nach Artikel 70*j* des Militärstrafprozesses vom 23. März 1979[^8-2], nach Artikel 33 des Nachrichtendienstgesetzes vom 25. September 2015[^8-3] , nach den Artikeln 35 und 36 BÜPF und nach dem Datenschutzgesetz vom 25. September 2020[^8-4] betroffenen Personen sowie ihre Rechtsbeistände bei der nach Artikel 10 Absätze 1–3 BÜPF zuständigen Behörde einreichen.[^8-5] Sie erhalten über die zuständige Behörde nach deren jeweils anwendbaren Bestimmungen Zugriff auf die Daten, die sie für die Wahrnehmung des ihnen zustehenden Akteneinsichtsrechts beziehungsweise Rechts auf Auskunft über die Daten benötigen.
 
 <sup>3</sup> Der Dienst ÜPF berechtigt einzelne Mitarbeiterinnen und Mitarbeiter der Behörden nach Artikel 7 Absatz 2, Zugriffe innerhalb ihrer Behörde und an nach Absatz 2 berechtigte Personen zu vergeben, soweit diese zur Erfüllung der jeweiligen Aufgaben oder zur Wahrnehmung von Rechten von Dritten notwendig sind.
 
@@ -172,6 +173,7 @@ Der Dienst ÜPF erstellt auf Antrag mittels Antragsformulars persönliche Benutz
 [^8-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^8-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^8-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-5]: Fassung gemäss Anhang 2 Ziff. II 86 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 

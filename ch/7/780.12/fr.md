@@ -4,11 +4,11 @@ title: Ordonnance du 15 novembre 2017 sur le système de traitement pour la surv
 short: OST-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: fr
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-36-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-36-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/fr"
 
 (OST-SCPT)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> juin 2022)
+du 15 novembre 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -152,9 +152,10 @@ Le Service SCPT crée, sur demande transmise au moyen du formulaire à cet effet
 
 <sup>3</sup> Le Service SCPT vérifie périodiquement que les conditions d’octroi des droits d’accès sont toujours remplies.
 
-<sup>4</sup> Les droits d’accès au système de traitement sont réglés dans l’annexe. Le Service SCPT les précise dans un règlement de traitement (art. 21 de l’ordonnance du 14 juin 1993 sur la protection des données[^7-1]).
+<sup>4</sup> Les droits d’accès au système de traitement sont réglés dans l’annexe. Le Service SCPT les précise dans un règlement de traitement (art. 6 de l’ordonnance du 31 août 2022 sur la protection des données[^7-1]).[^7-2]
 
 [^7-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^7-2]: Nouvelle teneur selon l’annexe 2 ch. II 86 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 8
 
@@ -162,7 +163,7 @@ Le Service SCPT crée, sur demande transmise au moyen du formulaire à cet effet
 
 <sup>1</sup> L’ordre de surveillance indique au Service SCPT quels collaborateurs des autorités mentionnées à l’art. 9, al. 1 à 3, LSCPT ont accès aux données de quelles surveillances. Après l’authentification, une procédure d’appel leur permet d’accéder aux données issues des surveillances prévues dans l’ordre.
 
-<sup>2</sup> Les personnes concernées par l’art. 279 du code de procédure pénale[^8-1], ou l’art. 70*j* de la procédure militaire du 23 mars 1979[^8-2], par l’art. 33 de la loi fédérale du 25 septembre 2015 sur le renseignement[^8-3], par les art. 35 et 36 LSCPT et par la loi fédérale du 19 juin 1992 sur la protection des données[^8-4], ainsi que leurs conseils juridiques peuvent déposer auprès de l’autorité compétente en vertu de l’art. 10, al. 1 à 3, LSCPT une demande d’accès aux données issues des surveillances. Elles obtiennent via les autorités compétentes et en vertu des dispositions qui s’appliquent à ces autorités un accès aux données dont elles ont besoin pour exercer leur droit de consulter le dossier et leur droit d’accès aux données.
+<sup>2</sup> Les personnes concernées par l’art. 279 du code de procédure pénale[^8-1], ou l’art. 70*j* de la procédure pénale militaire du 23 mars 1979[^8-2], par l’art. 33 de la loi fédérale du 25 septembre 2015 sur le renseignement[^8-3], par les art. 35 et 36 LSCPT et par la loi fédérale du 25 septembre 2020 sur la protection des données[^8-4], ainsi que leurs conseils juridiques peuvent déposer auprès de l’autorité compétente en vertu de l’art. 10, al. 1 à 3, LSCPT une demande d’accès aux données issues des surveillances.[^8-5] Elles obtiennent via les autorités compétentes et en vertu des dispositions qui s’appliquent à ces autorités un accès aux données dont elles ont besoin pour exercer leur droit de consulter le dossier et leur droit d’accès aux données.
 
 <sup>3</sup> Le Service SCPT autorise certains collaborateurs des autorités mentionnées à l’art. 7, al. 2, à octroyer des accès au sein de leur autorité ainsi qu’à des personnes autorisées selon l’al. 2, pour autant que ces accès soient nécessaires à l’exécution des tâches ou pour permettre à des tiers d’exercer leurs droits.
 
@@ -172,6 +173,7 @@ Le Service SCPT crée, sur demande transmise au moyen du formulaire à cet effet
 [^8-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^8-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^8-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-5]: Nouvelle teneur selon l’annexe 2 ch. II 86 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 

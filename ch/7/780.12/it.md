@@ -4,11 +4,11 @@ title: Ordinanza del 15 novembre 2017 sul sistema di trattamento per la sorvegli
 short: OST-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-36-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-36-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/it"
 
 (OST-SCPT)
 
-del 15 novembre 2017 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
+del 15 novembre 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -152,9 +152,10 @@ Su richiesta mediante l’apposito modulo, il Servizio SCPT crea conti utente pe
 
 <sup>3</sup> Il Servizio SCPT verifica periodicamente se sussistono sempre le condizioni per i diritti di accesso.
 
-<sup>4</sup> I diritti di accesso al sistema di trattamento sono disciplinati nell’allegato. Il Servizio SCPT precisa tali diritti in un regolamento per il trattamento dei dati (art. 21 dell’ordinanza del 14 giugno 1993[^7-1] relativa alla legge federale sulla protezione dei dati).
+<sup>4</sup> I diritti di accesso al sistema di trattamento sono disciplinati nell’allegato. Il Servizio SCPT precisa tali diritti in un regolamento per il trattamento dei dati (art. 6 dell’ordinanza del 31 agosto 2022[^7-1] sulla protezione dei dati).[^7-2]
 
 [^7-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^7-2]: Nuovo testo giusta l’all. 2 n. II 86 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 8
 
@@ -162,7 +163,7 @@ Su richiesta mediante l’apposito modulo, il Servizio SCPT crea conti utente pe
 
 <sup>1</sup> L’ordine di sorveglianza indica al Servizio SCPT quali collaboratori delle autorità di cui all’articolo 9 capoversi 1–3 LSCPT hanno accesso ai dati di quali sorveglianze. Dopo l’autenticazione, i collaboratori ottengono l’accesso, mediante procedura di richiamo, ai dati delle sorveglianze previsti nell’ordine.
 
-<sup>2</sup> Le persone interessate secondo l’articolo 279 del Codice di procedura penale[^8-1] o l’articolo 70*j* della procedura penale militare del 23 marzo 1979[^8-2], l’articolo 33 della legge federale del 25 settembre 2015[^8-3] sulle attività informative (LAIn) e gli articoli 35 e 36 LSCPT e secondo la legge federale del 19 giugno 1992[^8-4] sulla protezione dei dati, nonché i relativi rappresentanti legali possono trasmettere una domanda di accesso ai dati delle sorveglianze all’autorità competente secondo l’articolo 10 capoversi 1–3 LSCPT. Per il tramite delle autorità competenti e in virtù delle disposizioni applicabili a tali autorità, dette persone ottengono accesso ai dati di cui hanno bisogno per esercitare il loro diritto di consultare gli atti o di accedere ai dati.
+<sup>2</sup> Le persone interessate secondo l’articolo 279 del Codice di procedura penale[^8-1] o l’articolo 70*j* della procedura penale militare del 23 marzo 1979[^8-2]<sup>,</sup> l’articolo 33 della legge federale del 25 settembre 2015[^8-3] sulle attività informative, gli articoli 35 e 36 LSCPT e la legge federale del 25 settembre 2020[^8-4] sulla protezione dei dati, nonché i relativi rappresentanti legali possono trasmettere una domanda di accesso ai dati delle sorveglianze all’autorità competente secondo l’articolo 10 capoversi 1–3 LSCPT.[^8-5] Per il tramite delle autorità competenti e in virtù delle disposizioni applicabili a tali autorità, dette persone ottengono accesso ai dati di cui hanno bisogno per esercitare il loro diritto di consultare gli atti o di accedere ai dati.
 
 <sup>3</sup> Il Servizio SCPT autorizza singoli collaboratori delle autorità secondo l’articolo 7 capoverso 2 ad assegnare accessi all’interno della propria autorità ea persone autorizzate secondo il capoverso 2, per quanto ciò sia necessario all’adempimento dei loro compiti o all’esercizio dei diritti di terzi.
 
@@ -172,6 +173,7 @@ Su richiesta mediante l’apposito modulo, il Servizio SCPT crea conti utente pe
 [^8-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^8-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^8-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-5]: Nuovo testo giusta l’all. 2 n. II 86 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
