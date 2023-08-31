@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 décembre 2015 sur l'échange international automat
 short: LEAR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-259-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-259-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/fr"
 
 (LEAR)
 
-du 18 décembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 décembre 2015 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 173, al. 2, de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2015 4975](https://fedlex.data.admin.ch/eli/fga/2015/1281)
 
 ## Section 1 Dispositions générales
@@ -43,7 +43,7 @@ La présente loi règle la mise en œuvre de l’échange automatique de renseig
 
 <sup>2</sup> Les dispositions dérogatoires de la convention applicable en l’espèce sont réservées.
 
-[^1-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759); [FF 2015 5063](https://fedlex.data.admin.ch/eli/fga/2015/1283)
+[^1-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499); [FF 2015 5063](https://fedlex.data.admin.ch/eli/fga/2015/1283)
 
 #### Art. 2
 
@@ -75,8 +75,8 @@ Dans la présente loi, on entend par:
 <sup>2</sup> Le Conseil fédéral peut, pour une durée déterminée, définir la notion de «juridiction partenaire» utilisée dans les conventions applicables de manière plus large que ces dernières.
 
 [^2-1]: Nouvelle expression selon l’annexe ch. 21 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-3]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-3]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 [^2-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 [^2-5]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 [^2-6]: Nouvelle expression selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
@@ -132,15 +132,15 @@ Si la convention applicable ne prévoit pas d’échéance, les organismes de pl
 
 <sup>11</sup> Le Conseil fédéral peut désigner d’autres entités en tant qu’institutions financières non déclarantes lorsqu’elles présentent un faible risque d’être utilisées dans un but de fraude fiscale et qu’elles affichent des caractéristiques substantiellement similaires à celles des institutions financières non déclarantes au sens de la convention applicable. Il fixe les critères selon lesquels d’autres entités sont réputées institutions financières non déclarantes.
 
-[^3-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^3-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^3-3]: [RS 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
+[^3-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^3-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
+[^3-3]: [RS 0.191.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/519)
 [^3-4]: Voir art. 41.
-[^3-5]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^3-6]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^3-7]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-8]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^3-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-5]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-6]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^3-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-8]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^3-9]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-10]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 4
@@ -165,11 +165,11 @@ Sont notamment réputés comptes exclus qui constituent un autre compte qui pré
 <sup>3</sup> Le Conseil fédéral peut désigner d’autres comptes en tant que comptes exclus lorsqu’ils présentent un faible risque d’être utilisés dans un but de fraude fiscale et qu’ils affichent des caractéristiques substantiellement similaires à celles des comptes exclus au sens de la convention applicable. Il fixe les critères selon lesquels d’autres comptes sont réputés compte exclus.
 
 [^4-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^4-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^4-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^4-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^4-5]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 5
 
@@ -197,9 +197,10 @@ Les institutions financières qui n’ont aucune résidence fiscale dans un Éta
 
 **Accords sur la protection des données**
 
-Si la convention applicable prévoit que l’autorité qui transmet les renseignements peut définir des dispositions en matière de protection des données devant être respectées par l’autorité qui reçoit les renseignements, le Conseil fédéral peut conclure des accords en la matière. Ces dispositions doivent offrir au moins le même niveau de protection que la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^6-1] et la présente loi.
+Si la convention applicable prévoit que l’autorité qui transmet les renseignements peut définir des dispositions en matière de protection des données devant être respectées par l’autorité qui reçoit les renseignements, le Conseil fédéral peut conclure des accords en la matière. Ces dispositions doivent offrir au moins le même niveau de protection que la loi fédérale du 25 septembre 2020 sur la protection des données[^6-1] et la présente loi.[^6-2]
 
-[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^6-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 55 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Section 2 Norme commune de déclaration
 
@@ -218,7 +219,7 @@ Sont réputées de portée limitée les modifications suivantes:
 - a. celles qui ne créent pas de nouvelles obligations ni n’abrogent des droits existants pour les personnes devant faire l’objet d’une déclaration et les institutions financières suisses déclarantes;
 - b. celles qui s’adressent en premier lieu aux autorités, règlent des questions administratives ou techniques ou n’entraînent pas de dépenses importantes.
 
-[^7-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759); [FF 2015 5063](https://fedlex.data.admin.ch/eli/fga/2015/1283)
+[^7-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499); [FF 2015 5063](https://fedlex.data.admin.ch/eli/fga/2015/1283)
 
 #### Art. 8
 
@@ -309,10 +310,10 @@ Une institution financière suisse déclarante ne peut ouvrir un nouveau compte 
 <sup>10</sup> ...[^11-7]
 
 [^11-1]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^11-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 [^11-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-5]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^11-5]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^11-6]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 [^11-7]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
@@ -322,7 +323,7 @@ Une institution financière suisse déclarante ne peut ouvrir un nouveau compte 
 
 <sup>1</sup> Un compte affichant un solde négatif ou une valeur négative est réputé égal à zéro.
 
-<sup>2</sup> à <sup>4</sup>...[^12-1]
+<sup>2 à <sup>4</sup></sup> ...[^12-1]
 
 [^12-1]: Abrogés par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
@@ -367,7 +368,7 @@ Les institutions financières suisses déclarantes donnent aux personnes devant 
 
 <sup>4</sup> Les institutions financières suisses déclarantes adressent, sur demande, une copie de la déclaration aux titulaires des comptes faisant l’objet de la déclaration.
 
-[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Section 5 Obligations et autorisation de déclarer
 
@@ -403,7 +404,7 @@ Les institutions financières suisses déclarantes donnent aux personnes devant 
 
 Si un trust est réputé institution financière déclarante dans un autre État selon le droit de cet État, tout administrateur fiduciaire (*trustee*) résidant en Suisse est habilité à faire, pour ce trust, la déclaration à l’autorité compétente de cet État.
 
-## Section 5*a***** Obligation de conserver incombant aux institutions financières suisses déclarantes
+## Section 5*a* Obligation de conserver incombant aux institutions financières suisses déclarantes
 
 [^sec5a-1]
 
@@ -413,8 +414,8 @@ Si un trust est réputé institution financière déclarante dans un autre État
 
 Les institutions financières suisses déclarantes doivent conserver les documents qu’elles ont établis et les pièces justificatives qu’elles se sont procurées pour remplir les obligations visées dans l’annexe à l’accord EAR[^17a-1] et dans la présente loi selon les prescriptions de l’art. 958*f* CO[^17a-2].
 
-[^17a-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
-[^17a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17a-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^17a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Section 6 Droits et obligations des personnes devant faire l’objet d’une déclaration
 
@@ -434,8 +435,8 @@ En cas de changements de circonstances, une personne qui a délivré une autocer
 
 <sup>3</sup> Lorsque des renseignements transmis à l’autorité compétente de l’État partenaire sont rectifiés suite à un arrêt entré en force, l’institution financière suisse déclarante transmet ces renseignements rectifiés à l’AFC. Celle-ci transmet les renseignements rectifiés à l’autorité concernée.
 
-[^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^19-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^19-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^19-3]: Nouvelle teneur de la phrase selon le ch. I 7 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ## Section 7 Renseignements transmis automatiquement de l’étranger
@@ -582,7 +583,7 @@ Sur demande, l’AFC rend une décision en constatation sur:
 Si la présente loi n’en dispose pas autrement, la PA[^29-2] est applicable.
 
 [^29-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); **FF 2020** 4579).
-[^29-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 30
 
@@ -636,7 +637,7 @@ Est puni d’une amende de 50 000 francs au plus, quiconque ne donne pas suite i
 
 Lorsque l’amende entrant en ligne de compte ne dépasse pas 50 000 francs et que les mesures d’instruction contre les personnes visées à l’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)[^34-1] seraient hors de proportion avec la peine encourue, il est loisible de renoncer à poursuivre ces personnes et de condamner l’entreprise à leur place au paiement de l’amende (art. 7 DPA).
 
-[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 35
 
@@ -666,7 +667,7 @@ L’auteur qui dénonce spontanément la violation de ses obligations n’encour
 
 <sup>2</sup> L’AFC est l’autorité de poursuite et de jugement.
 
-[^37-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^37-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 38
 
@@ -685,7 +686,7 @@ L’Assemblée fédérale approuve par voie d’arrêté fédéral simple:
 - a. l’inscription d’un État sur la liste prévue à la section 7, par. 1, let. f, de l’accord EAR[^39-1];
 - b. les traités internationaux de son ressort conclus avec des États devant être ajoutés sur la liste et concernant l’accès au marché pour les prestataires de services financiers et la régularisation de la situation fiscale de contribuables.
 
-[^39-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759); [FF 2015 5063](https://fedlex.data.admin.ch/eli/fga/2015/1283)
+[^39-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499); [FF 2015 5063](https://fedlex.data.admin.ch/eli/fga/2015/1283)
 
 #### Art. 40
 
@@ -699,12 +700,12 @@ L’Assemblée fédérale approuve par voie d’arrêté fédéral simple:
 
 **Coordination avec la modification du 25 septembre 2015 du CC (Fondations de prévoyance en faveur du personnel)**
 
-À l’entrée en vigueur de la modification du 25 septembre 2015*[^41-1]* du CC*[^41-2]* (Fondations de prévoyance en faveur du personnel), l’art. 3, al. 5, let. a, de la présente loi aura la teneur suivante:
+À l’entrée en vigueur de la modification du 25 septembre 2015[^41-1] du CC[^41-2] (Fondations de prévoyance en faveur du personnel), l’art. 3, al. 5, let. a, de la présente loi aura la teneur suivante:
 
-...*[^41-3]*
+...[^41-3]
 
 [^41-1]: [RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163)
-[^41-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^41-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^41-3]: Inséré ci-devant.
 
 #### Art. 42

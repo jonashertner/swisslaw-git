@@ -4,11 +4,11 @@ title: Federal Act of 18 December 2015 on the International Automatic Exchange o
 short: AEOIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: en
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2016-259-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2016-259-20230901-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AEOIA)
 
-of 18 December 2015 (Status as of 1 January 2022)
+of 18 December 2015 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 173 paragraph 2 of the Federal Constitution[^ingress-1], having
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2015 5437](https://fedlex.data.admin.ch/eli/fga/2015/1281)
 
 ## Section 1 General Provisions
@@ -45,7 +45,7 @@ This Act governs the implementation of the automatic exchange of information in 
 
 <sup>2</sup> The deviating provisions of individual applicable agreements are reserved.
 
-[^1-1]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^1-1]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 2
 
@@ -73,11 +73,12 @@ In this Act:
 - j. *new account* means a financial account maintained by a reporting Swiss financial institution that was opened on or after the day that the automatic exchange of information with a partner jurisdiction came into force;
 - k. *lower value account* means a preexisting individual account with an aggregate balance or value that does not exceed USD[^2-4] 1,000,000 as of 31 December of the year prior to the implementation of the automatic exchange of information with a partner jurisdiction;
 - l. *high value account* means a preexisting individual account with an aggregate balance or value that exceeds USD 1,000,000 as of 31 December of the year prior to the implementation of the automatic exchange of information with a partner jurisdiction or 31 December of any subsequent year.
-- [tab] <sup>2</sup> The Federal Council may, for a limited duration, define the term «participating jurisdiction» used in applicable agreements in a broader sense than the agreements do.
+
+<sup>2</sup> The Federal Council may, for a limited duration, define the term «participating jurisdiction» used in applicable agreements in a broader sense than the agreements do.
 
 [^2-1]: Term in accordance with Annex No 21 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). This change has been made in the provisions specified in the AS.
-[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-3]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-3]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 [^2-4]: Denomination in accordance with No I of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)). This amendment has been made in the provisions specified in the AS.
 
 #### Art. 3
@@ -131,15 +132,15 @@ If the applicable agreement does not provide for a deadline, collective investme
 
 <sup>11</sup> The Federal Council may designate further entities as non-reporting financial institutions if they present a low risk of being used to evade tax and have substantially similar characteristics to any of the non-reporting financial institutions according to the applicable agreement. It shall set the conditions according to which other entities are treated as non-reporting financial institutions.
 
-[^3-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^3-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^3-3]: [SR 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
+[^3-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^3-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
+[^3-3]: [SR 0.191.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/519)
 [^3-4]: See Art. 41.
-[^3-5]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^3-6]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^3-7]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-8]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^3-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-5]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-6]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^3-7]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-8]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^3-9]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-10]: Repealed by No I of the FA of 19 June 2020, with effect from 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 4
@@ -163,10 +164,10 @@ The following accounts in particular are treated as an excluded account that pre
 
 <sup>3</sup> The Federal Council may designate further accounts as excluded accounts if they present a low risk of being used to evade tax and have substantially similar characteristics to any of the the excluded accounts according to the applicable agreement. It sets the conditions according to which other accounts are treated as excluded accounts.
 
-[^4-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^4-1]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^4-2]: Amended by No I of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^4-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^4-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 5
 
@@ -192,9 +193,10 @@ Financial institutions that are not resident for tax purposes in any jurisdictio
 
 **Agreements on data protection**
 
-If the applicable agreement allows the sending authority to set out data protection provisions that are to be respected by the receiving authority, the Federal Council may enter into agreements on data protection. The data protection provisions to be respected must provide at least the same level of protection as the Federal Act of 19 June 1992[^6-1] on Data Protection (FADP) and this Act.
+If the applicable agreement allows the sending authority to set out data protection provisions that are to be respected by the receiving authority, the Federal Council may enter into agreements on data protection. The data protection provisions to be respected must provide at least the same level of protection as the Data Protection Act of 25 September 2020[^6-1] (FADP) and this Act.[^6-2]
 
-[^6-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^6-2]: Second sentence amended by Annex 1 No II 55 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Section 2 Common Reporting Standard
 
@@ -213,7 +215,7 @@ The following in particular are deemed to be amendments of limited scope:
 - a. those which do not create new obligations or remove existing rights for reportable persons or reporting Swiss financial institutions;
 - b. those which primarily concern the authorities, govern administrative-technical issues or do not cause significant financial costs.
 
-[^7-1]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^7-1]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 8
 
@@ -304,9 +306,9 @@ A reporting Swiss financial institution may only open a new account without obta
 <sup>10</sup> ...[^11-6]
 
 [^11-1]: Repealed by No I of the FA of 19 June 2020, with effect from 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^11-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^11-3]: Amended by No I of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-4]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^11-4]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^11-5]: Amended by No I of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 [^11-6]: Repealed by No I of the FA of 19 June 2020, with effect from 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
@@ -361,7 +363,7 @@ Reporting Swiss financial institutions shall provide reportable persons, either 
 
 <sup>4</sup> The reporting Swiss financial institution shall, on request, provide a copy of the report to account holders who are reportable persons.
 
-[^14-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Section 5 Reporting Duties and Reporting Authorisation
 
@@ -395,7 +397,7 @@ Reporting Swiss financial institutions shall provide reportable persons, either 
 
 If a trust is deemed to be a reporting financial institution in another jurisdiction under that jurisdiction's law, each trustee resident in Switzerland is entitled to make reports to the competent authority of that jurisdiction on behalf of the trust.
 
-## Section 5*a***** Retention Obligation for Reporting Swiss Financial Institutions
+## Section 5*a* Retention Obligation for Reporting Swiss Financial Institutions
 
 [^sec5a-1]
 
@@ -405,8 +407,8 @@ If a trust is deemed to be a reporting financial institution in another jurisdic
 
 Reporting Swiss financial institutions must retain the records issued and vouchers obtained in order to fulfil their obligations under the Annex to the MCAA[^17a-1] and this Act in accordance with the requirements of Article 958*f* CO[^17a-2].
 
-[^17a-1]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
-[^17a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17a-1]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^17a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Section 6 Rights and Obligations of Reportable Persons
 
@@ -426,8 +428,8 @@ In the event of a change in circumstances, any person who has submitted a self-c
 
 <sup>3</sup> If information transmitted to a partner jurisdiction’s competent authority is corrected by virtue of a final judgment, the reporting Swiss financial institution shall transmit the corrected information to the FTA, which shall forward the corrected information to the relevant authority.
 
-[^19-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^19-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^19-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^19-3]: Second sentence amended by No I 7 of the FA of 18 June 2021 on Electronic Procedures in the Field of Taxation, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ## Section 7 Information Transmitted Automatically from Abroad
@@ -563,7 +565,7 @@ On request, the FTA shall issue a declaratory ruling on:
 
 <sup>2</sup> The FTA shall ensure the authenticity and integrity of the data in electronic procedures.
 
-- [tab] <sup>3</sup> For the electronic filing of submissions whose signature is required by law, it may accept a different electronic confirmation of the information by the person submitting it from a qualified electronic signature.
+<sup>3</sup> For the electronic filing of submissions whose signature is required by law, it may accept a different electronic confirmation of the information by the person submitting it from a qualified electronic signature.
 
 [^28a-1]: Inserted by No I 7 of the FA of 18 June 2021 on Electronic Procedures in the Field of Taxation, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
@@ -574,7 +576,7 @@ On request, the FTA shall issue a declaratory ruling on:
 Unless otherwise specified in this Act, the APA[^29-2] applies.
 
 [^29-1]: Amended by No I 7 of the FA of 18 June 2021 on Electronic Procedures in the Field of Taxation, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-[^29-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 30
 
@@ -628,7 +630,7 @@ A fine not exceeding CHF 50,000 shall be imposed on any person who, in the cours
 
 If a fine not exceeding CHF 50,000 is appropriate and if investigative measures against the offenders under Article 6 of the Federal Act of 22 March 1974[^34-1] on Administrative Criminal Law (ACLA) would require investigations that are disproportionate relative to the applicable penalty, it is possible to refrain from prosecuting the offenders and instead order the business to pay the fine (Art. 7 of the ACLA).
 
-[^34-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^34-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 35
 
@@ -658,7 +660,7 @@ An offender who voluntarily discloses a duty violation shall not be penalised if
 
 <sup>2</sup> The FTA is the prosecuting and adjudicating authority.
 
-[^37-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^37-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 38
 
@@ -677,7 +679,7 @@ The Federal Assembly shall approve with a simple federal decree:
 - a. the inclusion of a jurisdiction on the list described in Section 7 paragraph 1 letter 1 of the MCAA[^39-1];
 - b. international treaties within its remit entered into with jurisdictions that are to be included on the list regarding market access for financial service providers and the regularisation of taxpayers' tax situations.
 
-[^39-1]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^39-1]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 40
 
@@ -691,12 +693,12 @@ The Federal Assembly shall approve with a simple federal decree:
 
 **Coordination with the amendment of 25 September 2015 to the CC (Employee benefits schemes)**
 
-With the entry into force of the amendment of 25 September 2015*[^41-1]*to the CC*[^41-2]* (Employee benefits schemes), Article 3 paragraph 5 letter a of this Act shall read as follows:
+With the entry into force of the amendment of 25 September 2015[^41-1]to the CC[^41-2] (Employee benefits schemes), Article 3 paragraph 5 letter a of this Act shall read as follows:
 
 …[^41-3]
 
 [^41-1]: [AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163)
-[^41-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^41-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^41-3]: Inserted above.
 
 #### Art. 42

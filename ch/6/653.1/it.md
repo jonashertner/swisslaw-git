@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 2015 sullo scambio automatico internaziona
 short: LSAI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-259-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-259-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/it"
 
 (LSAI)
 
-del 18 dicembre 2015 (Stato 1° gennaio 2022)
+del 18 dicembre 2015 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 173 capoverso 2 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2015 4467](https://fedlex.data.admin.ch/eli/fga/2015/1281)
 
 ## Sezione 1: Disposizioni generali
@@ -43,7 +43,7 @@ La presente legge disciplina l’attuazione dello scambio automatico di informaz
 
 <sup>2</sup> Sono fatte salve le disposizioni derogatorie dell’accordo applicabile nel singolo caso.
 
-[^1-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^1-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 2
 
@@ -75,10 +75,10 @@ Nella presente legge s’intende per:
 <sup>2</sup> Il Consiglio federale può estendere per una durata determinata la definizione di «Giurisdizione partecipante» utilizzata negli accordi applicabili.
 
 [^2-1]: Nuovo testo giusta l’all. n. 21 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-3]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^2-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^2-5]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-3]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^2-4]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^2-5]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 [^2-6]: Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 3
@@ -132,16 +132,16 @@ Laddove l’accordo applicabile non prevede un termine, i veicoli di investiment
 
 <sup>11</sup> Il Consiglio federale può designare quali istituti finanziari non tenuti alla comunicazione anche altri enti purché gli stessi presentino un rischio ridotto di essere utilizzati a fini di sottrazione d’imposta e abbiano caratteristiche sostanzialmente simili agli istituti finanziari non tenuti alla comunicazione secondo l’accordo applicabile. Il Consiglio federale stabilisce i criteri secondo cui altri enti sono considerati istituti finanziari non tenuti alla comunicazione.
 
-[^3-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^3-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^3-3]: [RS 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
+[^3-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^3-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
+[^3-3]: [RS 0.191.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/519)
 [^3-4]: Vedi art. 41 qui appresso.
-[^3-5]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^3-6]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^3-7]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-8]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^3-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^3-10]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^3-5]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-6]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^3-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-8]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^3-9]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^3-10]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 4
 
@@ -164,13 +164,13 @@ Per conti esclusi che sono altri conti che presentano un rischio ridotto di esse
 
 <sup>3</sup> Il Consiglio federale può designare quali conti esclusi anche altri conti purché presentino un rischio ridotto di essere utilizzati a fini di sottrazione d’imposta e abbiano caratteristiche sostanzialmente simili ai conti esclusi secondo l’accordo applicabile. Il Consiglio federale stabilisce i criteri secondo cui altri conti sono considerati conti esclusi.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^4-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^4-5]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-6]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-7]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^4-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^4-3]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^4-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^4-5]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^4-6]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^4-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 5
 
@@ -192,15 +192,16 @@ Gli istituti finanziari che non sono residenti fiscali in uno Stato o un territo
 
 <sup>5</sup> Il Consiglio federale stabilisce i criteri secondo cui un istituto finanziario è considerato residente ai sensi del capoverso 1. Designa inoltre quali istituti finanziari esentati da imposta sono considerati residenti ai sensi del capoverso 1.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 6
 
 **Accordi sulla protezione dei dati**
 
-Se l’accordo applicabile prevede che l’autorità che trasmette le informazioni può specificare le disposizioni in materia di protezione dei dati che devono essere rispettate dall’autorità che riceve le informazioni, il Consiglio federale può concludere accordi sulla protezione dei dati. Tali disposizioni garantiscono almeno il livello di protezione della legge federale del 19 giugno 1992[^6-1] sulla protezione dei dati (LPD) e della presente legge.
+Se l’accordo applicabile prevede che l’autorità che trasmette le informazioni può specificare le disposizioni in materia di protezione dei dati che devono essere rispettate dall’autorità che riceve le informazioni, il Consiglio federale può concludere accordi sulla protezione dei dati. Tali disposizioni garantiscono almeno il livello di protezione della legge federale del 25 settembre 2020[^6-1] sulla protezione dei dati e della presente legge.[^6-2]
 
-[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^6-2]: Nuovo testo del per. giusta l’all. 1 cifra II n. 55 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Sezione 2: Standard comune di comunicazione di informazioni
 
@@ -219,7 +220,7 @@ Sono considerate di portata limitata segnatamente le modifiche che:
 - a. non istituiscono nuovi obblighi né sopprimono diritti esistenti per le persone oggetto di comunicazione e per gli istituti finanziari svizzeri tenuti alla comunicazione;
 - b. sono soprattutto dirette alle autorità, disciplinano questioni tecnico-amministrative o non implicano importanti dispendi finanziari.
 
-[^7-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^7-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 8
 
@@ -262,7 +263,7 @@ Il Consiglio federale stabilisce i criteri secondo cui occorre:
 
 <sup>3</sup> In caso di decesso di una persona oggetto di comunicazione, l’istituto finanziario svizzero tenuto alla comunicazione tratta il relativo conto come prima del decesso fino a quando non gli sono resi noti la successione con personalità giuridica propria o gli eredi autorizzati.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 11
 
@@ -309,13 +310,13 @@ Un istituto finanziario svizzero tenuto alla comunicazione può aprire un nuovo 
 
 <sup>10</sup> ...[^11-7]
 
-[^11-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^11-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-5]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^11-6]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-7]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-1]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^11-3]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-4]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-5]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^11-6]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-7]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 12
 
@@ -323,9 +324,9 @@ Un istituto finanziario svizzero tenuto alla comunicazione può aprire un nuovo 
 
 <sup>1</sup> Un conto con un saldo o un valore negativo è considerato un conto con un saldo o un valore uguale a zero.
 
-<sup>2</sup> a <sup>4</sup> ...[^12-1]
+<sup>2 a <sup>4</sup></sup> ...[^12-1]
 
-[^12-1]: Abrogati dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^12-1]: Abrogati dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 ## Sezione 3: Obbligo di iscrizione degli istituti finanziari svizzeri tenuti alla comunicazione
 
@@ -346,7 +347,7 @@ Nell’iscrizione, l’istituto finanziario svizzero tenuto alla comunicazione i
 
 <sup>4</sup> Il trustee deve iscrivere un trust secondo l’articolo 3 capoverso 9. Il Consiglio federale disciplina i dettagli dell’iscrizione.[^13-1]
 
-[^13-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^13-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 ## Sezione 4: Obbligo di informazione degli istituti finanziari svizzeri tenuti alla comunicazione
 
@@ -368,7 +369,7 @@ Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle infor
 
 <sup>4</sup> Su richiesta, gli istituti finanziari svizzeri tenuti alla comunicazione trasmettono una copia delle comunicazioni ai titolari dei conti oggetto delle medesime.
 
-[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Sezione 5: Obblighi di comunicazione e autorizzazione a comunicare
 
@@ -386,7 +387,7 @@ Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle infor
 
 <sup>5</sup> Le informazioni trasmesse all’AFC secondo il capoverso 1 possono essere utilizzate ai fini dell’applicazione e dell’esecuzione del diritto fiscale svizzero soltanto se avrebbero potuto essere ottenute secondo il diritto svizzero.
 
-[^15-1]: Nuovo testo del per. giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^15-1]: Nuovo testo del per. giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 16
 
@@ -404,18 +405,18 @@ Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle infor
 
 Se in un altro Stato un trust è considerato un istituto finanziario tenuto alla comunicazione secondo il diritto di tale Stato, ogni trustee residente in Svizzera è autorizzato a effettuare la comunicazione per il trust all’autorità competente di tale Stato.
 
-## Sezione 5*a*:**** Obbligo di conservazione applicabile agli istituti finanziari svizzeri tenuti alla comunicazione
+## Sezione 5*a*: Obbligo di conservazione applicabile agli istituti finanziari svizzeri tenuti alla comunicazione
 
 [^sec5a-1]
 
-[^sec5a-1]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^sec5a-1]: Introdotta dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
-**Art. 17**a
+#### Art. 17a
 
-Gli istituti finanziari svizzeri tenuti alla comunicazione devono conservare, conformemente alle prescrizioni dell’articolo 958*f* CO[^sec5a-2], i documenti che hanno elaborato e i giustificativi che hanno ottenuto per adempiere gli obblighi previsti dall’allegato all’Accordo SAI[^sec5a-3] e dalla presente legge.
+Gli istituti finanziari svizzeri tenuti alla comunicazione devono conservare, conformemente alle prescrizioni dell’articolo 958*f* CO[^17a-1], i documenti che hanno elaborato e i giustificativi che hanno ottenuto per adempiere gli obblighi previsti dall’allegato all’Accordo SAI[^17a-2] e dalla presente legge.
 
-[^sec5a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^sec5a-3]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^17a-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^17a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 ## Sezione 6: Diritti e obblighi delle persone oggetto di comunicazione
 
@@ -435,9 +436,9 @@ In caso di un cambiamento delle circostanze, chi ha rilasciato un’autocertific
 
 <sup>3</sup> Se le informazioni trasmesse all’autorità competente di uno Stato partner sono rettificate in seguito a una decisione passata in giudicato, l’istituto finanziario svizzero tenuto alla comunicazione trasmette le informazioni rettificate all’AFC. Quest’ultima le inoltra all’autorità competente interessata.
 
-[^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^19-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^19-3]: Nuovo testo del per. giusta il n. I 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^19-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^19-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^19-3]: Nuovo testo del per. giusta la cifra I 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ## Sezione 7: Informazioni trasmesse automaticamente dall’estero
 
@@ -447,7 +448,7 @@ In caso di un cambiamento delle circostanze, chi ha rilasciato un’autocertific
 
 Gli istituti finanziari tenuti alla comunicazione e le autorità competenti degli Stati partner utilizzano il numero AVS[^20-1] per la trasmissione delle informazioni concernenti persone fisiche, necessarie ai fini dello scambio automatico di informazioni.
 
-[^20-1]: Nuova espressione giusta l’all. n. 21 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^20-1]: Nuova espr. giusta l’all. n. 21 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 21
 
@@ -576,7 +577,7 @@ Su richiesta, l’AFC pronuncia una decisione di accertamento:
 
 <sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte della persona che li trasmette.
 
-[^28a-1]: Introdotto dal n. I 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^28a-1]: Introdotto dalla cifra I n. 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 29
 
@@ -584,8 +585,8 @@ Su richiesta, l’AFC pronuncia una decisione di accertamento:
 
 Ove la presente legge non disponga altrimenti, si applica la PA[^29-2].
 
-[^29-1]: Nuovo testo giusta il n. I 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-[^29-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-1]: Nuovo testo giusta la cifra I n. 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^29-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 30
 
@@ -612,7 +613,7 @@ L’autorità competente svizzera può agire soltanto con il consenso del Consig
 
 <sup>2</sup> Finché lo Stato partner non soddisfa i requisiti dell’OCSE in materia di confidenzialità e sicurezza dei dati, l’autorità competente svizzera può sospendere di propria iniziativa lo scambio automatico di informazioni con questo Stato.[^31-1]
 
-[^31-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^31-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 ## Sezione 10: Disposizioni penali
 
@@ -639,7 +640,7 @@ L’autorità competente svizzera può agire soltanto con il consenso del Consig
 
 Se la multa applicabile non supera i 50 000 franchi e se la determinazione delle persone punibili secondo l’articolo 6 della legge federale del 22 marzo 1974[^34-1] sul diritto penale amministrativo (DPA) esige provvedimenti d’inchiesta sproporzionati all’entità della pena, si può prescindere da un procedimento contro dette persone e, in loro vece, condannare al pagamento della multa l’azienda (art. 7 DPA).
 
-[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 35
 
@@ -669,7 +670,7 @@ L’autore che denuncia spontaneamente una violazione degli obblighi è esente d
 
 <sup>2</sup> L’autorità di perseguimento e di giudizio è l’AFC.
 
-[^37-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^37-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 38
 
@@ -688,7 +689,7 @@ L’Assemblea federale approva mediante decreto federale semplice:
 - a. l’inclusione di uno Stato nell’elenco secondo la sezione 7 paragrafo 1 lettera f dell’Accordo SAI[^39-1];
 - b. i trattati internazionali di sua competenza concernenti l’accesso al mercato di fornitori di servizi finanziari e la regolarizzazione fiscale di contribuenti conclusi con Stati di cui è prevista l’inclusione in detto elenco.
 
-[^39-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^39-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 40
 
@@ -707,7 +708,7 @@ L’Assemblea federale approva mediante decreto federale semplice:
 …[^41-3]
 
 [^41-1]: [RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163)
-[^41-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^41-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^41-3]: Testo inserito qui avanti.
 
 #### Art. 42

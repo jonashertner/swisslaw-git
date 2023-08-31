@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Dezember 2015 über den internationalen automatische
 short: AIAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-259-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-259-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/de"
 
 (AIAG)
 
-vom 18. Dezember 2015 (Stand am 1. Januar 2022)
+vom 18. Dezember 2015 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 173 Absatz 2 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2015 5437](https://fedlex.data.admin.ch/eli/fga/2015/1281)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -43,7 +43,7 @@ Dieses Gesetz regelt die Umsetzung des automatischen Informationsaustauschs in S
 
 <sup>2</sup> Vorbehalten sind die abweichenden Bestimmungen des im Einzelfall anwendbaren Abkommens.
 
-[^1-1]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^1-1]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 2
 
@@ -71,11 +71,12 @@ In diesem Gesetz bedeuten:
 - j. *Neukonto:* ein von einem meldenden schweizerischen Finanzinstitut geführtes Finanzkonto, das am Tag der Anwendbarkeit des automatischen Informationsaustauschs mit einem Partnerstaat oder später eröffnet wird;
 - k. *Konto von geringerem Wert:* ein bestehendes Konto einer natürlichen Person, das am 31. Dezember vor Beginn der Anwendbarkeit des automatischen Informationsaustauschs mit einem Partnerstaat einen Gesamtsaldo oder Gesamtwert von höchstens einer Million US-Dollar[^2-4] aufweist;
 - l. *Konto von hohem Wert:* ein bestehendes Konto einer natürlichen Person, das am 31. Dezember vor Beginn der Anwendbarkeit des automatischen Informationsaustauschs mit einem Partnerstaat oder am 31. Dezember eines Folgejahres einen Gesamtsaldo oder Gesamtwert von mehr als einer Million US-Dollar aufweist.
-- [tab] <sup>2</sup> Der Bundesrat kann den in den anwendbaren Abkommen verwendeten Begriff «teilnehmender Staat» für eine befristete Dauer breiter definieren als die Abkommen.
+
+<sup>2</sup> Der Bundesrat kann den in den anwendbaren Abkommen verwendeten Begriff «teilnehmender Staat» für eine befristete Dauer breiter definieren als die Abkommen.
 
 [^2-1]: Ausdruck gemäss Anhang Ziff. 21 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-3]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-3]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 [^2-4]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 3
@@ -125,19 +126,19 @@ Sieht das anwendbare Abkommen keine Frist vor, so erfüllen Organismen für geme
 
 <sup>9</sup> Sieht das anwendbare Abkommen es vor, so gilt ein Trust als nicht meldendes Finanzinstitut, soweit der Treuhänder oder die Treuhänderin des Trusts (Trustee) ein meldendes Finanzinstitut ist und sämtliche nach dem anwendbaren Abkommen zu meldenden Informationen zu sämtlichen meldepflichtigen Konten des Trusts meldet.
 
-<sup>10</sup> ...[^3-10]
+<sup>10</sup> …[^3-10]
 
 <sup>11</sup> Der Bundesrat kann weitere Rechtsträger als nicht meldende Finanzinstitute bezeichnen, wenn bei diesen ein geringes Risiko besteht, dass sie zur Steuerhinterziehung missbraucht werden, und die im Wesentlichen ähnliche Eigenschaften aufweisen wie die nicht meldenden Finanzinstitute nach dem anwendbaren Abkommen. Er legt die Kriterien fest, nach denen weitere Rechtsträger als nicht meldende Finanzinstitute gelten.
 
-[^3-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^3-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^3-3]: [SR 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
+[^3-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^3-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
+[^3-3]: [SR 0.191.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/519)
 [^3-4]: Siehe Art. 41.
-[^3-5]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^3-6]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^3-7]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-8]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^3-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-5]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-6]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^3-7]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-8]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^3-9]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-10]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 4
@@ -161,10 +162,10 @@ Als ausgenommenes Konto, bei dem ein geringes Risiko besteht, dass es zur Steuer
 
 <sup>3</sup> Der Bundesrat kann weitere Konten als ausgenommene Konten bezeichnen, wenn bei diesen ein geringes Risiko besteht, dass sie zur Steuerhinterziehung missbraucht werden, und die im Wesentlichen ähnliche Eigenschaften aufweisen wie die ausgenommenen Konten nach dem anwendbaren Abkommen. Er legt die Kriterien fest, nach denen weitere Konten als ausgenommene Konten gelten.
 
-[^4-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^4-1]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^4-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^4-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^4-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^4-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 5
 
@@ -190,9 +191,10 @@ Finanzinstitute, die in keinem Staat oder Hoheitsgebiet steuerlich ansässig sin
 
 **Vereinbarungen über den Datenschutz**
 
-Sieht das anwendbare Abkommen vor, dass die informierende Behörde Datenschutzbestimmungen bezeichnen kann, die von der empfangenden Behörde einzuhalten sind, so kann der Bundesrat Vereinbarungen über den Datenschutz abschliessen. Die einzuhaltenden Datenschutzbestimmungen müssen mindestens dem Schutzniveau des Bundesgesetzes vom 19. Juni 1992[^6-1] über den Datenschutz (DSG) und dieses Gesetzes entsprechen.
+Sieht das anwendbare Abkommen vor, dass die informierende Behörde Datenschutzbestimmungen bezeichnen kann, die von der empfangenden Behörde einzuhalten sind, so kann der Bundesrat Vereinbarungen über den Datenschutz abschliessen. Die einzuhaltenden Datenschutzbestimmungen müssen mindestens dem Schutzniveau des Datenschutzgesetzes vom 25. September 2020[^6-1] (DSG) und dieses Gesetzes entsprechen.[^6-2]
 
-[^6-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^6-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 55 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 2. Abschnitt: Gemeinsamer Meldestandard
 
@@ -211,7 +213,7 @@ Als Änderungen von beschränkter Tragweite gelten namentlich solche, die:
 - a. für meldepflichtige Personen und meldende schweizerische Finanzinstitute keine neuen Pflichten begründen oder keine bestehenden Rechte aufheben;
 - b. sich in erster Linie an die Behörden richten, administrativ-technische Fragen regeln oder keine bedeutenden finanziellen Aufwendungen verursachen.
 
-[^7-1]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^7-1]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 8
 
@@ -273,7 +275,7 @@ Bestehende Konten natürlicher Personen müssen ab Beginn der Anwendbarkeit des 
 
 <sup>4</sup> Das meldende schweizerische Finanzinstitut kann die Fristen nach den Absätzen 2 und 3 ab Inkrafttreten dieses Gesetzes anwenden.
 
-<sup>5</sup> ...[^11-1]
+<sup>5</sup> …[^11-1]
 
 <sup>6</sup>
 
@@ -299,12 +301,12 @@ Ein meldendes schweizerisches Finanzinstitut kann ein Neukonto nur dann ohne Vor
 
 <sup>9</sup> Liegen einem meldenden schweizerischen Finanzinstitut 90 Tage nach Eröffnung eines Neukontos die nach dem anwendbaren Abkommen und diesem Gesetz zur Plausibilisierung der Selbstauskunft notwendigen Informationen oder in einem Ausnahmefall nach Absatz 8 Buchstabe b die Selbstauskunft nicht vor, so muss es das Konto schliessen oder für alle Zu- und Abgänge so lange sperren, bis ihm alle Informationen vorliegen. Es steht ihm ein ausserordentliches Kündigungsrecht zu. Vorbehalten sind Fälle nach Artikel 9 des Geldwäschereigesetzes vom 10. Oktober 1997[^11-4] (GwG).[^11-5]
 
-<sup>10</sup> ...[^11-6]
+<sup>10</sup> …[^11-6]
 
 [^11-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^11-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^11-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-4]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^11-4]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^11-5]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 [^11-6]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
@@ -314,7 +316,7 @@ Ein meldendes schweizerisches Finanzinstitut kann ein Neukonto nur dann ohne Vor
 
 <sup>1</sup> Ein Konto mit einem negativen Saldo oder Wert gilt als ein Konto mit einem Saldo oder Wert von null.
 
-<sup>2–4</sup> ...[^12-1]
+<sup>2–4</sup> …[^12-1]
 
 [^12-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
@@ -359,7 +361,7 @@ Die meldenden schweizerischen Finanzinstitute informieren die meldepflichtigen P
 
 <sup>4</sup> Das meldende schweizerische Finanzinstitut stellt dem Inhaber oder der Inhaberin des Kontos, das Gegenstand der Meldung ist, auf Ersuchen eine Kopie der Meldung zu.
 
-[^14-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## 5. Abschnitt: Meldepflichten und Meldeermächtigung
 
@@ -393,7 +395,7 @@ Die meldenden schweizerischen Finanzinstitute informieren die meldepflichtigen P
 
 Gilt ein Trust in einem anderen Staat nach dessen Recht als meldendes Finanzinstitut, so ist jeder oder jede in der Schweiz ansässige Trustee ermächtigt, für den Trust die Meldung an die zuständige Behörde dieses Staates vorzunehmen.
 
-## 5*a*. Abschnitt:**** Aufbewahrungspflicht der meldenden schweizerischen Finanzinstitute
+## 5*a*. Abschnitt: Aufbewahrungspflicht der meldenden schweizerischen Finanzinstitute
 
 [^sec5a-1]
 
@@ -403,8 +405,8 @@ Gilt ein Trust in einem anderen Staat nach dessen Recht als meldendes Finanzinst
 
 Die meldenden schweizerischen Finanzinstitute müssen die zur Erfüllung der Pflichten nach der Beilage zur AIA-Vereinbarung[^17a-1] und nach diesem Gesetz erstellten Unterlagen und eingeholten Belege gemäss den Vorgaben von Artikel 958*f* OR[^17a-2] aufbewahren.
 
-[^17a-1]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
-[^17a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17a-1]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^17a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 6. Abschnitt: Rechte und Pflichten der meldepflichtigen Personen
 
@@ -424,8 +426,8 @@ Wer eine Selbstauskunft nach dem anwendbaren Abkommen und diesem Gesetz erteilt 
 
 <sup>3</sup> Werden die der zuständigen Behörde eines Partnerstaates übermittelten Informationen infolge eines rechtskräftigen Entscheids berichtigt, so übermittelt das meldende schweizerische Finanzinstitut die berichtigten Informationen der ESTV. Diese leitet die berichtigten Informationen der betroffenen Behörde weiter.
 
-[^19-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^19-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^19-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^19-3]: Fassung des zweiten Satzes gemäss Ziff. I 7 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ## 7. Abschnitt: Vom Ausland automatisch übermittelte Informationen
@@ -572,7 +574,7 @@ Auf Antrag erlässt die ESTV eine Feststellungsverfügung über:
 Soweit dieses Gesetz nichts anderes bestimmt, ist das VwVG[^29-2] anwendbar.
 
 [^29-1]: Fassung gemäss Ziff. I 7 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-[^29-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 30
 
@@ -626,7 +628,7 @@ Mit Busse bis zu 50 000 Franken wird bestraft, wer im Rahmen einer Überprüfung
 
 Fällt eine Busse von höchstens 50 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 des Bundesgesetzes vom 22. März 1974[^34-1] über das Verwaltungsstrafrecht (VStrR) strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die angedrohte Strafe unverhältnismässig wären, so kann von einer Verfolgung dieser Personen abgesehen und an ihrer Stelle der Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilt werden.
 
-[^34-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^34-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 35
 
@@ -656,7 +658,7 @@ Zeigt der Täter oder die Täterin eine Pflichtverletzung aus eigenem Antrieb an
 
 <sup>2</sup> Verfolgende und urteilende Behörde ist die ESTV.
 
-[^37-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^37-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 38
 
@@ -675,13 +677,13 @@ Die Bundesversammlung genehmigt mit einfachem Bundesbeschluss:
 - a. die Aufnahme eines Staates in die Liste nach Abschnitt 7 Absatz 1 Buchstabe f der AIA-Vereinbarung[^39-1];
 - b. in ihre Zuständigkeit fallende völkerrechtliche Verträge mit Staaten, die in diese Liste aufgenommen werden sollen, über den Marktzugang für Finanzdienstleister und über die Regularisierung der Steuersituation von Steuerpflichtigen.
 
-[^39-1]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^39-1]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 40
 
 **Änderung eines anderen Erlasses**
 
-...[^40-1]
+…[^40-1]
 
 [^40-1]: Die Änderung kann unter [AS 2016 1297](https://fedlex.data.admin.ch/eli/oc/2016/259)konsultiert werden.
 
@@ -689,12 +691,12 @@ Die Bundesversammlung genehmigt mit einfachem Bundesbeschluss:
 
 **Koordination mit der Änderung vom 25. September 2015 des ZGB (Personalfürsorgestiftungen)**
 
-Mit Inkrafttreten der Änderung vom 25. September 2015*[^41-1]* des ZGB*[^41-2]* (Personalfürsorgestiftungen) lautet Art. 3 Abs. 5 Bst. a des vorliegenden Gesetzes wie folgt:
+Mit Inkrafttreten der Änderung vom 25. September 2015[^41-1] des ZGB[^41-2] (Personalfürsorgestiftungen) lautet Art. 3 Abs. 5 Bst. a des vorliegenden Gesetzes wie folgt:
 
-...[^41-3]
+…[^41-3]
 
 [^41-1]: [AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163)
-[^41-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^41-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^41-3]: Eingefügt hiervor.
 
 #### Art. 42
