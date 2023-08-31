@@ -4,11 +4,11 @@ title: Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialve
 short: ATSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/de"
 
 (ATSV)
 
-vom 11. September 2002 (Stand am 23. Januar 2023)
+vom 11. September 2002 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -443,19 +443,20 @@ Die Kommission gibt sich eine Geschäftsordnung. Diese regelt namentlich folgend
 
 <sup>1</sup> Der Versicherer kann die Gewährung der Akteneinsicht von einem schriftlichen Gesuch abhängig machen.
 
-<sup>2</sup> Die Akteneinsicht wird grundsätzlich am Sitz des Versicherers oder seiner Durchführungsorgane gewährt. Auf Wunsch der gesuchstellenden Person kann der Versicherer Kopien der Akten zustellen. Vorbehalten bleiben Artikel 47 Absatz 2 ATSG und Artikel 8 Absatz 5 des Bundesgesetzes vom 19. Juni 1992[^8b-3] über den Datenschutz.
+<sup>2</sup> Die Akteneinsicht wird grundsätzlich am Sitz des Versicherers oder seiner Durchführungsorgane gewährt. Auf Wunsch der gesuchstellenden Person kann der Versicherer Kopien der Akten zustellen. Vorbehalten bleiben Artikel 47 Absatz 2 ATSG und Artikel 16 Absatz 2 der Datenschutzverordnung vom 31. August 2022[^8b-3] (DSV).[^8b-4]
 
 <sup>3</sup>
 
 Der Versicherer hat die Akten oder Kopien davon zur Einsichtnahme zuzustellen:
 
 - a. Behörden;
-- b. den anderen Versicherern sowie den Personen, die nach Artikel 2 des Anwaltsgesetzes vom 23. Juni 2000[^8b-4] Parteien vor Gerichtsbehörden vertreten können.
+- b. den anderen Versicherern sowie den Personen, die nach Artikel 2 des Anwaltsgesetzes vom 23. Juni 2000[^8b-5] Parteien vor Gerichtsbehörden vertreten können.
 
 [^8b-1]: Ursprünglich Art. 8.
 [^8b-2]: Fassung gemäss Ziff. II der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^8b-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^8b-4]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^8b-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8b-4]: Fassung des dritten Satzes gemäss Anhang 2 Ziff. II 116 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8b-5]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
 
 #### Art. 8c
 
@@ -473,11 +474,12 @@ Der Versicherer hat die Akten oder Kopien davon zur Einsichtnahme zuzustellen:
 
 <sup>1</sup> Die Akteneinsicht ist grundsätzlich unentgeltlich.
 
-<sup>2</sup> Eine Gebühr nach der Verordnung vom 10. September 1969[^9-2] über Kosten und Entschädigungen im Verwaltungsverfahren kann verlangt werden, wenn die Gewährung der Akteneinsicht mit einem besonders grossen Arbeitsaufwand verbunden ist. Vorbehalten bleibt Artikel 2 der Verordnung vom 14. Juni 1993[^9-3] zum Bundesgesetz über den Datenschutz.
+<sup>2</sup> Eine Gebühr nach der Verordnung vom 10. September 1969[^9-2] über Kosten und Entschädigungen im Verwaltungsverfahren kann verlangt werden, wenn die Gewährung der Akteneinsicht mit einem besonders grossen Arbeitsaufwand verbunden ist. Vorbehalten bleibt Artikel 19 DSV[^9-3].[^9-4]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2019, in Kraft seit 1. Okt. 2019 ([AS 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
 [^9-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 [^9-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-4]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 116 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9a
 

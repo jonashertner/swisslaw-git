@@ -4,11 +4,11 @@ title: Ordonnance du 11 septembre 2002 sur la partie générale du droit des ass
 short: OPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/fr"
 
 (OPGA)
 
-du 11 septembre 2002 (État le 23 janvier 2023)
+du 11 septembre 2002 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -443,19 +443,20 @@ La commission établit un règlement d’organisation. Celui-ci règle notamment
 
 <sup>1</sup> L’assureur peut subordonner la consultation du dossier à une demande écrite.
 
-<sup>2</sup> La consultation du dossier a lieu en principe au siège de l’assureur ou de ses organes d’exécution. Sur demande du requérant, l’assureur peut lui fournir les copies des pièces du dossier. Sont réservés les art. 47, al. 2, LPGA et 8, al. 5, de la loi fédérale du 19 juin 1992 sur la protection des données[^8b-3].
+<sup>2</sup> La consultation du dossier a lieu en principe au siège de l’assureur ou de ses organes d’exécution. Sur demande du requérant, l’assureur peut lui fournir les copies des pièces du dossier. Sont réservés les art. 47, al. 2, LPGA et 16, al. 2, de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^8b-3].[^8b-4]
 
 <sup>3</sup>
 
 L’assureur doit remettre pour consultation les pièces du dossier ou des copies de celles-ci:
 
 - a. aux autorités;
-- b. aux autres assureurs, ainsi qu’aux personnes habilitées à représenter les parties devant les tribunaux au sens de l’art. 2 de la loi du 23 juin 2000 sur la libre circulation des avocats[^8b-4].
+- b. aux autres assureurs, ainsi qu’aux personnes habilitées à représenter les parties devant les tribunaux au sens de l’art. 2 de la loi du 23 juin 2000 sur la libre circulation des avocats[^8b-5].
 
 [^8b-1]: Anciennement art. 8.
 [^8b-2]: Nouvelle teneur selon le ch. II du R du 19 sept. 2014 sur l’assurance-invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^8b-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^8b-4]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^8b-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8b-4]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 116 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8b-5]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
 
 #### Art. 8c
 
@@ -473,11 +474,12 @@ L’assureur doit remettre pour consultation les pièces du dossier ou des copie
 
 <sup>1</sup> La consultation du dossier est en principe gratuite.
 
-<sup>2</sup> Un émolument calculé conformément à l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^9-2] peut être perçu si la consultation du dossier occasionne un volume de travail particulièrement important. Est réservé l’art. 2 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^9-3].
+<sup>2</sup> Un émolument calculé conformément à l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^9-2] peut être perçu si la consultation du dossier occasionne un volume de travail particulièrement important. Est réservé l’art. 19 de l’OPDo[^9-3].[^9-4]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
 [^9-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 [^9-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-4]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 116 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9a
 

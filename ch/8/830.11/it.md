@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 settembre 2002 sulla parte generale del diritto delle
 short: OPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/it"
 
 (OPGA)
 
-dell’11 settembre 2002 (Stato 23 gennaio 2023)
+dell’11 settembre 2002 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -443,19 +443,20 @@ La Commissione si dota di un regolamento. Tale regolamento disciplina segnatamen
 
 <sup>1</sup> L’assicuratore può subordinare a una domanda scritta la concessione della consultazione degli atti.
 
-<sup>2</sup> Di massima gli atti sono consultati presso la sede dell’assicuratore o dei suoi organi esecutivi. Su domanda del richiedente, l’assicuratore può trasmettergli una copia degli atti. Sono salvi l’articolo 47 capoverso 2 LPGA e l’articolo 8 capoverso 5 della legge federale del 19 giugno 1992[^8b-3] sulla protezione dei dati.
+<sup>2</sup> Di massima gli atti sono consultati presso la sede dell’assicuratore o dei suoi organi esecutivi. Su domanda del richiedente, l’assicuratore può trasmettergli una copia degli atti. Sono fatti salvi gli articoli 47 capoverso 2 LPDA e 16 capoverso 2 dell’ordinanza del 31 agosto 2022[^8b-3] sulla protezione dei dati (OPDa).[^8b-4]
 
 <sup>3</sup>
 
 L’assicuratore deve trasmettere per consultazione gli atti o copia di essi:
 
 - a. alle autorità;
-- b. agli altri assicuratori e alle persone abilitate a esercitare la rappresentanza in giudizio a norma dell’articolo 2 della legge del 23 giugno 2000[^8b-4] sugli avvocati.
+- b. agli altri assicuratori e alle persone abilitate a esercitare la rappresentanza in giudizio a norma dell’articolo 2 della legge del 23 giugno 2000[^8b-5] sugli avvocati.
 
 [^8b-1]: Originario art. 8.
 [^8b-2]: Nuovo testo giusta il n. II dell’O del 19 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^8b-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^8b-4]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^8b-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8b-4]: Nuovo testo del per. giusta l’all. 2 n. II 116 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8b-5]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
 
 #### Art. 8c
 
@@ -473,11 +474,12 @@ L’assicuratore deve trasmettere per consultazione gli atti o copia di essi:
 
 <sup>1</sup> Di massima la consultazione degli atti è gratuita.
 
-<sup>2</sup> Un emolumento calcolato a norma dell’ordinanza del 10 settembre 1969[^9-2] sulle tasse e spese nella procedura amministrativa può essere percepito se la consultazione causa un lavoro particolarmente oneroso. È salvo l’articolo 2 dell’ordinanza del 14 giugno 1993[^9-3] sulla protezione dei dati.
+<sup>2</sup> Un emolumento calcolato a norma dell’ordinanza del 10 settembre 1969[^9-2] sulle tasse e spese nella procedura amministrativa può essere percepito se la consultazione causa un lavoro particolarmente oneroso. È fatto salvo l’articolo 19 OPDa[^9-3].[^9-4]
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2019, in vigore dal 1° ott. 2019 ([RU 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
 [^9-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 [^9-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-4]: Nuovo testo del per. giusta l’all. 2 n. II 116 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9a
 
