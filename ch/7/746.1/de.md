@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 4. Oktober 1963 über Rohrleitungsanlagen zur Beförder
 short: RLG
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/99_95_95"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1963-10-04
 in_force: 1964-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/de"
 
 (Rohrleitungsgesetz, RLG[^t-1])
 
-vom 4. Oktober 1963 (Stand am 1. Juli 2023)
+vom 4. Oktober 1963 (Stand am 1. September 2023)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I 11 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
@@ -520,7 +520,9 @@ Art und Umfang des Schadenersatzes, die Zusprechung einer Genugtuungssumme, die 
 
 <sup>1</sup> Die Unternehmung hat bei einer zum Geschäftsbetrieb in der Schweiz zugelassenen Versicherungsunternehmung eine Versicherung zur Deckung der versicherbaren Risiken seiner Haftpflicht gemäss den Artikeln 33 und 34 abzuschliessen.
 
-<sup>2</sup> Die Versicherung muss die Ersatzrechte der Geschädigten für jedes Schadenereignis decken bis zum Betrage von mindestens
+<sup>2</sup>
+
+Die Versicherung muss die Ersatzrechte der Geschädigten für jedes Schadenereignis decken bis zum Betrage von mindestens:
 
 - a. 10 Millionen Franken bei Rohrleitungsanlagen für flüssige Brenn- oder Treibstoffe;
 - b. 5 Millionen Franken bei Rohrleitungsanlagen für gasförmige Brenn- oder Treibstoffe.
@@ -710,9 +712,10 @@ Die besonderen Bestimmungen des Bundesgesetzes vom 22. März 1974[^45a-2] über 
 
 <sup>1</sup> Die mit dem Vollzug betrauten Stellen bearbeiten die für die Anwendung dieses Gesetzes erforderlichen Personendaten einschliesslich der Daten über administrative und strafrechtliche Verfolgung und Sanktionen nach den Artikeln 44 ff.
 
-<sup>2</sup> Sie können die Daten elektronisch aufbewahren und, soweit dies für den einheitlichen Vollzug dieses Gesetzes erforderlich ist, untereinander austauschen.
+<sup>2</sup> Sie können die Daten untereinander austauschen, soweit dies für den einheitlichen Vollzug dieses Gesetzes erforderlich ist.[^47a-2]
 
 [^47a-1]: Eingefügt durch Ziff. I 11 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+[^47a-2]: Fassung gemäss Anhang 1 Ziff. II 64 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## VI. Übergangs- und Schlussbestimmungen
 

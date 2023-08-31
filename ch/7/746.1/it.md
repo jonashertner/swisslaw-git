@@ -4,11 +4,11 @@ title: "Legge federale del 4 ottobre 1963 sugli impianti di trasporto in condott
 short: LITC
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/99_95_95"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1963-10-04
 in_force: 1964-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,13 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/it"
 
 (Legge sugli impianti di trasporto in condotta, LITC[^t-1])
 
-del 4 ottobre 1963 (Stato 1° luglio 2023)
+del 4 ottobre 1963 (Stato 1° settembre 2023)
 
 [^t-1]: Abbreviazione introdotta dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 81 e 91 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 28 settembre 1962[^ingress-3],
+visti gli articoli 81 e 91 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2]
+
+visto il messaggio del Consiglio federale del 28 settembre 1962[^ingress-3],
 
 decreta:
 
@@ -104,8 +106,8 @@ L’approvazione dei piani va rifiutata oppure, se basta una misura meno radical
 <sup>2</sup> L’approvazione dei piani non può essere né rifiutata né concessa con condizioni restrittive o oneri per ragioni diverse da quelle di cui al capoverso 1.[^3-3]
 
 [^3-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
-[^3-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
-[^3-3]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^3-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
+[^3-3]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### b. Impresa estera
 
@@ -115,7 +117,7 @@ L’approvazione dei piani va rifiutata oppure, se basta una misura meno radical
 
 Un’impresa estera deve avere un’amministrazione e una direzione dell’esercizio residenti in Svizzera, nonché un’organizzazione aziendale che garantisca il rispetto del diritto svizzero.
 
-[^4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 #### Art. 5 a 9
 
@@ -131,13 +133,13 @@ Un’impresa estera deve avere un’amministrazione e una direzione dell’eserc
 
 All’impresa che domanda un’approvazione dei piani spetta il diritto di espropriazione.
 
-[^10-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^10-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 4. Diritto all’incrocio delle vie di comunicazione
 
 [^lvlI-lvl4-1]
 
-[^lvlI-lvl4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^lvlI-lvl4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 #### Art. 11
 
@@ -145,7 +147,7 @@ All’impresa che domanda un’approvazione dei piani spetta il diritto di espro
 
 <sup>2</sup> Le controversie circa l’adempimento delle condizioni stabilite nel capoverso 1 e l’ammontare dell’indennità sono decise secondo la LEspr.
 
-[^11-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^11-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 #### Art. 12
 
@@ -157,7 +159,7 @@ All’impresa che domanda un’approvazione dei piani spetta il diritto di espro
 
 [^lvlI-lvl5-1]
 
-[^lvlI-lvl5-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^lvlI-lvl5-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 #### Art. 13
 
@@ -167,9 +169,9 @@ All’impresa che domanda un’approvazione dei piani spetta il diritto di espro
 
 <sup>3</sup> Sulle pretese di diritto civile derivanti dal contratto decidono i tribunali civili.[^13-3]
 
-[^13-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
-[^13-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
-[^13-3]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^13-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^13-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
+[^13-3]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 #### Art. 14 e 15
 
@@ -189,7 +191,7 @@ All’impresa che domanda un’approvazione dei piani spetta il diritto di espro
 
 <sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (Dipartimento) può estendere questa vigilanza alla costruzione, alla manutenzione e all’esercizio di altri impianti di trasporto in condotta, in quanto appartengano alla Confederazione o a un istituto federale.[^16-1]
 
-[^16-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^16-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 2. Competenza
 
@@ -201,7 +203,7 @@ All’impresa che domanda un’approvazione dei piani spetta il diritto di espro
 
 <sup>2</sup> Il Dipartimento istituisce una commissione per le questioni concernenti la sicurezza degli impianti di trasporto in condotta.
 
-[^17-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^17-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 3. Contenuto
 
@@ -211,7 +213,7 @@ All’impresa che domanda un’approvazione dei piani spetta il diritto di espro
 
 L’Ufficio federale ordina le misure necessarie per la protezione delle persone, dei beni e dei diritti importanti. A questo scopo, può ordinare che l’equipaggiamento dell’impianto sia conforme allo sviluppo tecnico.
 
-[^18-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^18-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 4. Controllo
 
@@ -227,7 +229,7 @@ L’Ufficio federale ordina le misure necessarie per la protezione delle persone
 
 Le imprese di trasporto in condotta devono presentare ogni anno all’Ufficio federale[^20-1] il rapporto di gestione, con il conto annuale e il bilancio, e fornire alla stessa le indicazioni statistiche necessarie.
 
-[^20-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^20-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
 
 ### 2. Costruzione
 
@@ -241,7 +243,7 @@ Le imprese di trasporto in condotta devono presentare ogni anno all’Ufficio fe
 
 La domanda di approvazione dei piani va presentata, con la documentazione necessaria, all’Ufficio federale. Questo esamina se la documentazione è completa e, se del caso, chiede di completarla.
 
-[^21-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^21-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### b. Picchettamento
 
@@ -253,7 +255,7 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 <sup>2</sup> Le obiezioni contro il picchettamento devono essere presentate subito, al più tardi però entro il termine di deposito dei piani, presso l’Ufficio federale.
 
-[^21a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^21a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### c. Consultazione, pubblicazione e deposito dei piani
 
@@ -267,7 +269,7 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 <sup>3</sup> ...[^21b-2]
 
-[^21b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^21b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 [^21b-2]: Abrogato dall’all. n. 15 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### d. ...
@@ -290,7 +292,7 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 <sup>3</sup> I Comuni salvaguardano i loro interessi mediante opposizione.
 
-[^22a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^22a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 [^22a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^22a-3]: Nuovo testo giusta l’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^22a-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
@@ -304,7 +306,7 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 La procedura di eliminazione delle divergenze nell’Amministrazione federale è disciplinata dall’articolo 62*b* della legge del 21 marzo 1997[^22b-2] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^22b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^22b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 [^22b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ### 2. Approvazione dei piani; durata di validità, ricorso
@@ -319,8 +321,8 @@ La procedura di eliminazione delle divergenze nell’Amministrazione federale è
 
 <sup>3</sup> ...[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
-[^23-2]: Abrogato dall’all. n. 78 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); FF **2001** [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^23-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
+[^23-2]: Abrogato dall’all. n. 78 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); FF **2001** [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 3. Procedura semplificata
 
@@ -342,13 +344,13 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>4</sup> Per il rimanente si applicano le disposizioni sulla procedura ordinaria. In caso di dubbio è eseguita la procedura ordinaria.
 
-[^24-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^24-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 4. Inizio della costruzione
 
 [^lvlII-lvl2-lvl4-1]
 
-[^lvlII-lvl2-lvl4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^lvlII-lvl2-lvl4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 #### Art. 25
 
@@ -370,7 +372,7 @@ La costruzione non può essere incominciata prima dell’approvazione definitiva
 
 <sup>3</sup> Il presidente della Commissione di stima può, sulla base di una decisione esecutiva di approvazione dei piani, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un significativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
 
-[^26-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^26-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 [^26-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 [^26-3]: Nuovo testo giusta l’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^26-4]: Abrogato dall’all. n. 15 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
@@ -379,7 +381,7 @@ La costruzione non può essere incominciata prima dell’approvazione definitiva
 
 [^lvlII-lvl2-lvl6-1]
 
-[^lvlII-lvl2-lvl6-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^lvlII-lvl2-lvl6-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 #### Art. 27
 
@@ -389,7 +391,7 @@ La costruzione non può essere incominciata prima dell’approvazione definitiva
 
 <sup>3</sup> Durante la costruzione, dev’essere assicurata l’utilizzazione economica della proprietà fondiaria.
 
-[^27-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^27-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
 
 ### 7. Progetti di costruzione di terzi
 
@@ -402,13 +404,13 @@ La costruzione e la modifica di edifici e impianti di terzi può essere autorizz
 - a. incrocia impianti di trasporto in condotta;
 - b. potrebbe compromettere la sicurezza d’esercizio dell’impianto di trasporto in condotta.
 
-[^28-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^28-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472). 3124; FF **1998** 2029).
 
 ### 8. Spese
 
 [^lvlII-lvl2-lvl8-1]
 
-[^lvlII-lvl2-lvl8-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^lvlII-lvl2-lvl8-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472). 3124; FF **1998** 2029).
 
 #### Art. 29
 
@@ -437,7 +439,7 @@ L’autorizzazione d’esercizio è rilasciata se:
 - b. l’impresa dispone del personale necessario per un esercizio sicuro dell’impianto e per la riparazione immediata dei danni;
 - c. è stata conclusa l’assicurazione di responsabilità civile prescritta.
 
-[^30-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^30-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 2. Efficacia operativa e sicurezza dell’esercizio
 
@@ -447,7 +449,7 @@ L’autorizzazione d’esercizio è rilasciata se:
 
 Gli impianti di trasporto in condotta vanno mantenuti in uno stato di efficacia operativa e di conformità alle esigenze di sicurezza.
 
-[^31-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^31-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 3. Guasti
 
@@ -469,7 +471,7 @@ Gli impianti di trasporto in condotta vanno mantenuti in uno stato di efficacia 
 
 <sup>3</sup> Prima di prendere la sua decisione, l’Ufficio federale consulta i Cantoni interessati e l’impresa.
 
-[^32a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^32a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 5. Smantellamento dell’impianto
 
@@ -479,7 +481,7 @@ Gli impianti di trasporto in condotta vanno mantenuti in uno stato di efficacia 
 
 Qualora un impianto cessi l’esercizio, l’impresa deve smantellarlo a sue spese e ristabilire lo stato anteriore, nella misura in cui lo esiga l’interesse pubblico.
 
-[^32b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^32b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 6. Proprietà
 
@@ -489,7 +491,7 @@ Qualora un impianto cessi l’esercizio, l’impresa deve smantellarlo a sue spe
 
 Salvo disposizione contraria, l’impianto di trasporto in condotta è di proprietà dell’impresa cui è stata concessa l’autorizzazione d’esercizio.
 
-[^32c-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^32c-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ## III. Responsabilità civile e assicurazione
 
@@ -536,7 +538,7 @@ L’assicurazione deve coprire, per ogni sinistro, i diritti dei danneggiati fin
 
 <sup>5</sup> La Confederazione e i Cantoni non sono tenuti ad assicurarsi per gli impianti che esercitano.
 
-[^35-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^35-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
 
 ### b. Sospensione e cessazione dell’assicurazione
 
@@ -713,9 +715,10 @@ Le disposizioni speciali della legge federale del 22 marzo 1974[^45a-2] sul diri
 
 <sup>1</sup> Le autorità incaricate dell’esecuzione trattano i dati personali necessari all’applicazione della presente legge, compresi i dati relativi ai procedimenti amministrativi e penali e alle sanzioni secondo gli articoli 44 e seguenti.
 
-<sup>2</sup> Possono conservare tali dati in forma elettronica e, se necessario per l’esecuzione unitaria della presente legge, scambiarseli.
+<sup>2</sup> Possono scambiarsi tali dati se necessario per l’esecuzione unitaria della presente legge.[^47a-2]
 
-[^47a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^47a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
+[^47a-2]: Nuovo testo giusta l’all. 1 n. II 64 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## VI. Disposizioni transitorie e finali
 
@@ -765,7 +768,7 @@ Le disposizioni speciali della legge federale del 22 marzo 1974[^45a-2] sul diri
 
 <sup>5</sup> Se, per ragioni di cui il concessionario non è tenuto a rispondere, deve essere sospeso o limitato l’esercizio di un impianto di trasporto in condotta per cui una concessione è stata accordata prima dell’entrata in vigore della presente legge, la Confederazione versa al concessionario un’adeguata indennità per il danno che ne risulta.
 
-[^51-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^51-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 
 ### 3. Esecuzione
 
@@ -786,7 +789,7 @@ Esso emana le necessarie prescrizioni d’applicazione, che indicano segnatament
 
 Data dell’entrata in vigore: 1° marzo 1964[^52-4]
 
-[^52-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^52-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472), 3124; FF **1998** 2029).
 [^52-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 [^52-3]: <sup>75</sup> Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 [^52-4]: DCF del 25 feb. 1964.

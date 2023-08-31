@@ -4,11 +4,11 @@ title: "Loi fédérale du 4 octobre 1963 sur les installations de transport par 
 short: LITC
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/99_95_95"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1963-10-04
 in_force: 1964-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/fr"
 
 (Loi sur les installations de transport par conduites, LITC[^t-1])
 
-du 4 octobre 1963 (État le 1<sup>er</sup> juillet 2023)
+du 4 octobre 1963 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Abréviation introduite par le ch. I 11 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2221).
 
@@ -713,9 +713,10 @@ Les dispositions spéciales de la loi fédérale du 22 mars 1974 sur le droit p�
 
 <sup>1</sup> Les autorités chargées de l’exécution de la présente loi traitent les données personnelles nécessaires à son application, y compris les données relatives aux poursuites pénales et administratives et aux sanctions visées aux art. 44 ss.
 
-<sup>2</sup> Elles peuvent conserver ces données dans un fichier électronique et procéder aux échanges de données nécessaires à l’application uniforme de la présente loi.
+<sup>2</sup> Elles peuvent procéder aux échanges de données nécessaires à l’application uniforme de la présente loi.[^47a-2]
 
 [^47a-1]: Introduit par le ch. I 11 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2221).
+[^47a-2]: Nouvelle teneur selon l’annexe 1 ch. II 64 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## VI. Dispositions transitoires et finales
 
