@@ -4,11 +4,11 @@ title: "Ordonnance du 20 octobre 2021 sur la restitution, la reprise et l’éli
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/633"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2021-10-20
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-633-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-633-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20220101/fr"
 
 (OREA)
 
-du 20 octobre 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 octobre 2021 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -77,7 +77,7 @@ Dans la présente ordonnance, on entend par:
 
 <sup>1</sup> Les fabricants doivent s’assurer que leurs appareils sont marqués de manière visible, lisible et durable avec le symbole suivant, qui indique que les appareils font l’objet d’une collecte séparée:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20230901/fr/xml/image/image1.png)
 
 <sup>2</sup> Les fabricants d’appareils visés à l’art. 2, al. 2, ne sont pas soumis à l’obligation prévue à l’al. 1.
 
@@ -111,11 +111,12 @@ Les personnes soumises à l’obligation de reprendre doivent signaler qu’elle
 
 #### Art. 8
 
-**Protection des données**
+**Protection des données**[^8-1]
 
-Les personnes soumises à l’obligation de reprendre, les exploitants de postes de collecte publics et les entreprises d’élimination doivent respecter les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^8-1] ou les prescriptions cantonales correspondantes pour ce qui est des supports de données qui leur ont été remis et qui contiennent des données personnelles.
+Les personnes soumises à l’obligation de reprendre, les exploitants de postes de collecte publics et les entreprises d’élimination doivent respecter les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^8-2] ou les prescriptions cantonales correspondantes pour ce qui est des supports de données qui leur ont été remis et qui contiennent des données personnelles.
 
-[^8-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 105 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 9
 
@@ -221,7 +222,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RO 1998 827](https://fedlex.data.admin.ch/eli/oc/1998/827_827_827); [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)ch. II 10; [2004 3529](https://fedlex.data.admin.ch/eli/oc/2004/475); [2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)annexe 3 ch. II 7]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633).

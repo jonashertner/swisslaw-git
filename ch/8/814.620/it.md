@@ -4,11 +4,11 @@ title: "Ordinanza del 20 ottobre 2021 concernente la restituzione, la ripresa e 
 short: ORSAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/633"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2021-10-20
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-633-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-633-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20220101/it"
 
 (ORSAE)
 
-del 20 ottobre 2021 (Stato 1° gennaio 2022)
+del 20 ottobre 2021 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,7 @@ Nella presente ordinanza s’intende per:
 
 <sup>1</sup> I fabbricanti devono garantire che sugli apparecchi venga apposto, in modo visibile, leggibile e duraturo, quale indicazione relativa allo smaltimento attraverso la raccolta differenziata, il simbolo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20230901/it/xml/image/image1.png)
 
 <sup>2</sup> Sono esclusi dall’obbligo di cui al capoverso 1 i fabbricanti di apparecchi secondo l’articolo 2 capoverso 2.
 
@@ -111,11 +111,12 @@ Chi è soggetto all’obbligo di ripresa deve indicare che gli apparecchi e i co
 
 #### Art. 8
 
-**Protezione dei dati**
+**Protezione dei dati**[^8-1]
 
-Chi è soggetto all’obbligo di ripresa, i gestori di centri pubblici di raccolta nonché le imprese di smaltimento devono, per i dispositivi di archiviazione a loro consegnati nei quali sono salvati dati personali, rispettare le disposizioni della legge federale del 19 giugno 1992[^8-1] sulla protezione dei dati o le rispettive disposizioni cantonali.
+Chi è soggetto all’obbligo di ripresa, i gestori di centri pubblici di raccolta nonché le imprese di smaltimento devono, per i dispositivi di archiviazione a loro consegnati nei quali sono salvati dati personali, rispettare le disposizioni della legge federale del 25 settembre 2020[^8-2] sulla protezione dei dati o le rispettive disposizioni cantonali.
 
-[^8-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-1]: Nuovo testo giusta l’all. 2 n. II 105 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 9
 
@@ -223,6 +224,6 @@ L’ordinanza del 14 gennaio 1998[^annexu1-lvlu1-lvlI-1] concernente la restituz
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-....[^annexu1-lvlu1-lvlII-1]
+...[^annexu1-lvlu1-lvlII-1]
 
 [^annexu1-lvlu1-lvlII-1]: Le mod. possono essere consultate alla [RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633).

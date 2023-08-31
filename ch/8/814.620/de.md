@@ -4,11 +4,11 @@ title: "Verordnung vom 20. Oktober 2021 über die Rückgabe, die Rücknahme und 
 short: VREG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/633"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2021-10-20
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-633-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-633-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/633/20220101/de"
 
 (VREG)
 
-vom 20. Oktober 2021 (Stand am 1. Januar 2022)
+vom 20. Oktober 2021 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -77,7 +77,7 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Herstellerinnen und Hersteller müssen sicherstellen, dass auf den Geräten als Hinweis zum Entsorgungsweg über eine getrennte Sammlung das folgende Symbol sichtbar, erkennbar und dauerhaft angebracht ist:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/633/20230901/de/xml/image/image1.png)
 
 <sup>2</sup> Ausgenommen von der Pflicht nach Absatz 1 sind die Herstellerinnen und Hersteller von Geräten gemäss Artikel 2 Absatz 2.
 
@@ -111,11 +111,12 @@ Rücknahmepflichtige müssen auf die kostenlose Rücknahme von Geräten und Best
 
 #### Art. 8
 
-**Datenschutz**
+**Datenschutz**[^8-1]
 
-Die Rücknahmepflichtigen, die Betreiber von öffentlichen Sammelstellen sowie die Entsorgungsunternehmen müssen bei Datenträgern, die ihnen übergeben wurden und auf denen Personendaten gespeichert sind, die Vorgaben des Bundesgesetzes vom 19. Juni 1992[^8-1] über den Datenschutz oder die entsprechenden kantonalen Vorschriften einhalten.
+Die Rücknahmepflichtigen, die Betreiber von öffentlichen Sammelstellen sowie die Entsorgungsunternehmen müssen bei Datenträgern, die ihnen übergeben wurden und auf denen Personendaten gespeichert sind, die Vorgaben des Datenschutzgesetzes vom 25. September 2020[^8-2] oder die entsprechenden kantonalen Vorschriften einhalten.
 
-[^8-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-1]: Fassung gemäss Anhang 2 Ziff. II 105 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 9
 
