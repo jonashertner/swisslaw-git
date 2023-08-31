@@ -4,11 +4,11 @@ title: "Verordnung vom 6. September 2006 über Massnahmen zur Bekämpfung der Sc
 short: VOSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/72"
 language: de
-version: 2008-01-01
+version: 2023-09-01
 adopted: 2006-09-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/72/20080101/de/xml/fedlex-data-admin-ch-eli-cc-2007-72-20080101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20080101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/72/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-72-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20080101/de"
 
 (Verordnung gegen die Schwarzarbeit, VOSA)
 
-vom 6. September 2006(Stand am 1. Januar 2008)
+vom 6. September 2006 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 37*a* und 83 Absatz 1 zweiter Satz des Bundesgesetzes 
 
 verordnet:
 
-[^ingress-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^ingress-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^ingress-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [SR 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+[^ingress-3]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 
 #### Art. 1
 
@@ -61,8 +61,8 @@ verordnet:
 
 <sup>5</sup> Die Kantone stellen den mit der Kontrolle betrauten Personen ein Dokument aus, das es ihnen erlaubt, sich über ihre Funktion auszuweisen.
 
-[^2-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-2]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^2-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-2]: [SR 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
 
 #### Art. 3
 
@@ -90,7 +90,7 @@ Unterlagen nach Absatz 1 sind insbesondere:
 - b. Unterlagen, die Art und Beginn des Vertragsverhältnisses zwischen den beteiligten Personen belegen;
 - c. die individuellen Lohnabrechnungen nach Artikel 323*b* OR[^4-1] sowie Belege über die Auszahlung der Löhne.
 
-[^4-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 5
 
@@ -100,7 +100,7 @@ Unterlagen nach Absatz 1 sind insbesondere:
 
 Die kantonalen Steuerbehörden sind nach Artikel 12 Absatz 1 BGSA meldepflichtig, wenn das nicht deklarierte jährliche Einkommen aus unselbständiger Erwerbstätigkeit den Grenzbetrag nach Artikel 34*d* Absatz 1 der Verordnung vom 31. Oktober 1947[^5-1] über die Alters- und Hinterlassenenversicherung übersteigt.
 
-[^5-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 6
 
@@ -147,23 +147,38 @@ Der Bund belastet seinen Kostenanteil den nachstehenden Institutionen wie folgt:
 - c. der Schweizerischen Unfallversicherungsanstalt: einen Achtel der vom Bund zu tragenden Kosten;
 - d. der Ersatzkasse nach Artikel 72 des Bundesgesetzes vom 20. März 1981[^8-3] über die Unfallversicherung: einen Achtel der vom Bund zu tragenden Kosten.
 
-[^8-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^8-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^8-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^8-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^8-3]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 9
 
-**Datenschutz**
+**Schutz von Personendaten[^9-1]**
 
 ### (Art. 17 BGSA)
 
-<sup>1</sup> Das kantonale Kontrollorgan nach Artikel 17 Absatz 1 BGSA und die kantonalen Behörden nach Artikel 17 Absatz 2 BGSA sind befugt, die dort aufgeführten Daten einzusehen und einzugeben, zu verändern oder zu vernichten.
+<sup>1</sup> Das kantonale Kontrollorgan nach Artikel 17 Absatz 1 BGSA und die kantonalen Behörden nach Artikel 17 Absatz 2 BGSA sind befugt, die dort aufgeführten Personendaten einzusehen und einzugeben, zu verändern oder zu vernichten.[^9-2]
 
 <sup>2</sup> Sie sind für die Sicherheit der von ihnen bearbeiteten Personendaten verantwortlich. Sie treffen in ihrem Bereich die angemessenen technischen und organisatorischen Massnahmen zum Schutz der Personendaten gegen unbefugtes Bearbeiten.
 
 <sup>3</sup> Die Personendaten müssen fünf Jahre nach ihrer Erhebung oder, sofern zu diesem Zeitpunkt noch eine Sanktion gegen den betreffenden Arbeitgeber wirksam ist, mit Ablauf der Sanktion vernichtet werden. Vorbehalten bleiben längere Aufbewahrungsfristen anderer Gesetzgebungen.
 
 <sup>4</sup> Dritte, an die Kontrolltätigkeiten delegiert worden sind, unterstehen denselben datenschutzrechtlichen Bestimmungen wie die kantonalen Kontrollorgane und die kantonalen Behörden.
+
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 112 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Fassung gemäss Anhang 2 Ziff. II 112 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 9a
+
+**Schutz von Daten juristischer Personen**[^9a-1]
+
+### (Art. 17*a* BGSA)
+
+<sup>1</sup> Das kantonale Kontrollorgan und die kantonalen Behörden sind befugt, die in Artikel 17*a* Absätze 1 und 2 BGSA aufgeführten Daten juristischer Personen einzusehen und einzugeben, zu verändern oder zu vernichten.
+
+<sup>2</sup> Artikel 9 Absätze 2–4 gilt sinngemäss für die Daten juristischer Personen.
+
+[^9a-1]: Eingefügt durch Anhang 2 Ziff. II 112 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 

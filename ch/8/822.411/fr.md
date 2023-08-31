@@ -4,20 +4,22 @@ title: "Ordonnance du 6 septembre 2006 concernant des mesures en matière de lut
 short: OTN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/72"
 language: fr
-version: 2008-01-01
+version: 2023-09-01
 adopted: 2006-09-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/72/20080101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-72-20080101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20080101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/72/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-72-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant des mesures en matière de lutte contre le travail au noir\*
 
-(Ordonnance sur le travail au noir, OTN)
+(Ordonnance sur le travail au noir, OTN)[^t-1]
 
-du 6 septembre 2006 (Etat le 1<sup>er</sup> janvier 2008)
+du 6 septembre 2006 (État le 1<sup>er</sup> septembre 2023)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +27,9 @@ vu les art. 37*a* et 83, al. 1, 2<sup>e</sup> phrase, de la loi fédérale du 14
 
 arrête:
 
-[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^ingress-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+[^ingress-3]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 
 #### Art. 1
 
@@ -61,8 +63,8 @@ arrête:
 
 <sup>5</sup> Les cantons remettent aux personnes chargées des contrôles une attestation justifiant de leur qualité officielle.
 
-[^2-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-2]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^2-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-2]: [RS 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
 
 #### Art. 3
 
@@ -90,7 +92,7 @@ Les documents visés à l’al. 1 comprennent en particulier:
 - b. les documents qui indiquent le type de contrat liant les personnes concernées et la date à laquelle ce contrat prend effet;
 - c. les décomptes individuels de salaire visés à l’art. 323*b* CO[^4-1] et les justificatifs de versement de salaire.
 
-[^4-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 5
 
@@ -100,7 +102,7 @@ Les documents visés à l’al. 1 comprennent en particulier:
 
 Conformément à l’art. 12, al. 1, LTN, les autorités fiscales des cantons avisent les caisses cantonales de compensation lorsqu’elles constatent que le revenu annuel d’une activité lucrative salariée qui n’a fait l’objet d’aucune déclaration est supérieur au montant fixé à l’art. 34*d*, al. 1, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^5-1].
 
-[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 6
 
@@ -108,13 +110,13 @@ Conformément à l’art. 12, al. 1, LTN, les autorités fiscales des cantons av
 
 ### (art. 13, al. 3, LTN)
 
-<sup>1</sup> Le Secrétariat d’Etat à l’économie (SECO) met en ligne une liste des sanctions qui ont été prononcées par les autorités cantonales et qui excluent des employeurs des marchés publics ou prévoient une diminution des aides financières qui leur sont accordées.
+<sup>1</sup> Le Secrétariat d’État à l’économie (SECO) met en ligne une liste des sanctions qui ont été prononcées par les autorités cantonales et qui excluent des employeurs des marchés publics ou prévoient une diminution des aides financières qui leur sont accordées.
 
 <sup>2</sup> Les décisions sont radiées de la liste au terme de la période pour laquelle les sanctions ont été prononcées.
 
 #### Art. 7
 
-**Emoluments**
+**Émoluments**
 
 ### (art. 16, al. 1, LTN)
 
@@ -147,23 +149,38 @@ La Confédération fait supporter sa part des frais aux institutions mentionnée
 - c. à la Caisse nationale d’assurance en cas d’accidents: un huitième des frais à la charge de la Confédération;
 - d. à la caisse supplétive instituée en vertu de l’art. 72 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^8-3]: un huitième des frais à la charge de la Confédération.
 
-[^8-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^8-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^8-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^8-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^8-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 9
 
-**Protection des données**
+**Protection des données personnelles[^9-1]**
 
 ### (art. 17 LTN)
 
-<sup>1</sup> Les organes de contrôle cantonaux visés à l’art. 17, al. 1, LTN et les autorités cantonales visées à l’art. 17, al. 2, LTN sont habilités à consulter, saisir, modifier et détruire les données mentionnées dans ces dispositions.
+<sup>1</sup> Les organes de contrôle cantonaux visés à l’art. 17, al. 1, LTN et les autorités cantonales visées à l’art. 17, al. 2, LTN sont habilités à consulter, saisir, modifier et détruire les données personnelles mentionnées dans ces dispositions.[^9-2]
 
 <sup>2</sup> Ils sont responsables de la sécurité des données personnelles qu’ils traitent. Ils prennent chacun dans leur domaine les mesures techniques et organisationnelles nécessaires pour protéger les données personnelles contre tout traitement non autorisé.
 
 <sup>3</sup> Les données personnelles doivent être détruites au plus tard 5 ans après leur collecte ou, lorsqu’une sanction a encore effet contre l’employeur concerné à l’échéance de ces 5 ans, au moment où l’exécution de la sanction est terminée. Les durées de conservation plus longues prévues par d’autres législations sont réservées.
 
 <sup>4</sup> Les tiers auxquels des activités de contrôle ont été déléguées sont soumis aux mêmes dispositions en matière de protection des données que les organes de contrôle cantonaux et les autorités cantonales.
+
+[^9-1]: Nouvelle teneur selon l’annexe 2 ch. II 112 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Nouvelle teneur selon l’annexe 2 ch. II 112 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 9a
+
+**Protection des données des personnes morales**[^9a-1]
+
+### (art. 17*a* LTN)
+
+<sup>1</sup> Les organes de contrôle cantonaux et les autorités cantonales sont habilités à consulter, saisir, modifier et détruire les données concernant des personnes morales mentionnées visées à l’art. 17*a*, al. 1 et 2, LTN.
+
+<sup>2</sup> L’art. 9, al. 2 à 4, s’applique par analogie aux données des personnes morales.
+
+[^9a-1]: Introduit par l’annexe 2 ch. II 112 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 

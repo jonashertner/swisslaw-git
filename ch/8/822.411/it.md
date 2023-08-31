@@ -4,11 +4,11 @@ title: "Ordinanza del 6 settembre 2006 concernente i provvedimenti in materia di
 short: OLN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/72"
 language: it
-version: 2008-01-01
+version: 2023-09-01
 adopted: 2006-09-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/72/20080101/it/xml/fedlex-data-admin-ch-eli-cc-2007-72-20080101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20080101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/72/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-72-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20080101/it"
 
 (Ordinanza contro il lavoro nero, OLN)
 
-del 6 settembre 2006 (Stato 1° gennaio 2008)
+del 6 settembre 2006 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 37*a* e 83 capoverso 1 secondo periodo della legge federale d
 
 ordina:
 
-[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^ingress-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+[^ingress-3]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 
 #### Art. 1
 
@@ -61,8 +61,8 @@ ordina:
 
 <sup>5</sup> I Cantoni rilasciano alle persone incaricate dei controlli un documento che attesti la loro funzione.
 
-[^2-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-2]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^2-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-2]: [RS 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
 
 #### Art. 3
 
@@ -90,7 +90,7 @@ I documenti di cui al capoverso 1 comprendono in particolare:
 - b. i documenti che indicano il tipo di rapporti contrattuali tra le persone coinvolte e la data d’inizio di tali rapporti;
 - c. i rendiconti individuali ai sensi dell’articolo 323*b* CO[^4-1] e i giustificativi di versamento del salario.
 
-[^4-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 5
 
@@ -100,7 +100,7 @@ I documenti di cui al capoverso 1 comprendono in particolare:
 
 Conformemente all’articolo 12 capoverso 1 LLN, le autorità fiscali cantonali avvisano le casse cantonali di compensazione se accertano che non è stato dichiarato un reddito annuale proveniente da un’attività lucrativa dipendente superiore all’importo di cui all’articolo 34*d* capoverso 1 dell’ordinanza del 31 ottobre 1947[^5-1] sull’assicurazione per la vecchiaia e per i superstiti.
 
-[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 6
 
@@ -147,23 +147,40 @@ La Confederazione addebita alle istituzioni enumerate qui di seguito la parte de
 - c. all’Istituto nazionale svizzero di assicurazione contro gli infortuni un ottavo delle spese a carico della Confederazione;
 - d. alla cassa suppletiva ai sensi dell’articolo 72 della legge federale del 20 marzo 1981[^8-3] sull’assicurazione contro gli infortuni un ottavo delle spese a carico della Confederazione.
 
-[^8-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^8-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^8-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^8-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^8-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 9
 
-**Protezione dei dati**
+**Protezione dei dati personali**
 
 ### (art. 17 LLN)
 
-<sup>1</sup> L’organo cantonale di controllo di cui all’articolo 17 capoverso 1 LLN e le autorità cantonali di cui all’articolo 17 capoverso 2 LLN sono autorizzati a consultare, registrare, modificare e distruggere i dati menzionati in tali disposizioni.
+[^9-1]
+
+<sup>1</sup> L’organo cantonale di controllo di cui all’articolo 17 capoverso 1 LLN e le autorità cantonali di cui all’articolo 17 capoverso 2 LLN sono autorizzati a consultare, registrare, modificare e distruggere i dati personali menzionati in tali disposizioni.[^9-2]
 
 <sup>2</sup> Essi sono responsabili della sicurezza dei dati personali che hanno elaborato. Nei rispettivi campi, adottano le misure tecniche e organizzative appropriate per proteggere i dati personali da qualsiasi trattamento non autorizzato.
 
 <sup>3</sup> I dati personali devono essere distrutti cinque anni dopo essere stati raccolti oppure allo scadere della sanzione se al termine dei cinque anni è ancora valida una sanzione nei confronti del datore di lavoro interessato. Sono fatti salvi termini di conservazione dei dati più lunghi previsti da altre legislazioni.
 
 <sup>4</sup> I terzi a cui sono state delegate attività di controllo sottostanno alle stesse disposizioni in materia di protezione dei dati applicabili agli organi cantonali di controllo e alle autorità cantonali.
+
+[^9-1]: Nuovo testo giusta l’all. 2 n. II 112 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Nuovo testo giusta l’all. 2 n. II 112 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 9a
+
+**Protezione dei dati di persone giuridiche**[^9a-1]
+
+### (art. 17*a* LLN)
+
+<sup>1</sup> L’organo cantonale di controllo e le autorità cantonali di cui all’articolo 17*a* capoversi 1 e 2 LLN sono autorizzati a consultare, registrare, modificare e distruggere i dati di persone giuridiche menzionati in tali disposizioni.
+
+<sup>2</sup> L’articolo 9 capoversi 2–4 si applica per analogia ai dati delle persone giuridiche.
+
+[^9a-1]: Introdotto dall’all. 2 n. II 112 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -183,6 +200,6 @@ Allegato
 
 ## Modifica del diritto vigente
 
-..[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)
