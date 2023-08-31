@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. September 2012 über die internationale Amtshilfe i
 short: StAhiG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-31-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-31-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/de"
 
 (Steueramtshilfegesetz, StAhiG)
 
-vom 28. September 2012 (Stand am 1. Januar 2022)
+vom 28. September 2012 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -28,7 +28,7 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)
 
-## 1. Kapitel: Allgemeine Bestimmungen****
+## 1. Kapitel: Allgemeine Bestimmungen
 
 [^chap1-1]
 
@@ -81,7 +81,7 @@ In diesem Gesetz gelten als:
 
 **Grundsätze**
 
-<sup>1</sup> ...[^4-1]
+<sup>1</sup> …[^4-1]
 
 <sup>2</sup> Das Amtshilfeverfahren wird zügig durchgeführt.
 
@@ -116,18 +116,19 @@ In diesem Gesetz gelten als:
 
 **Vereinbarungen über den Datenschutz**[^5a-1]
 
-Sieht das anwendbare Abkommen vor, dass die informierende Behörde Datenschutzbestimmungen bezeichnen kann, die von der empfangenden Behörde einzuhalten sind, so kann der Bundesrat Vereinbarungen über den Datenschutz abschliessen. Die einzuhaltenden Datenschutzbestimmungen müssen mindestens dem Schutzniveau des Bundesgesetzes vom 19. Juni 1992[^5a-2] über den Datenschutz entsprechen.
+Sieht das anwendbare Abkommen vor, dass die informierende Behörde Datenschutzbestimmungen bezeichnen kann, die von der empfangenden Behörde einzuhalten sind, so kann der Bundesrat Vereinbarungen über den Datenschutz abschliessen. Die einzuhaltenden Datenschutzbestimmungen müssen mindestens dem Schutzniveau des Datenschutzgesetzes vom 25. September 2020[^5a-2] entsprechen.[^5a-3]
 
 [^5a-1]: Eingefügt durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^5a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5a-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 54 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-## 2. Kapitel: Informationsaustausch auf Ersuchen****
+## 2. Kapitel: Informationsaustausch auf Ersuchen
 
 [^chap2-1]
 
 [^chap2-1]: Eingefügt durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-### 1. Abschnitt: Ausländische Amtshilfeersuchen****
+### 1. Abschnitt: Ausländische Amtshilfeersuchen
 
 [^chap2-sec1-1]
 
@@ -168,7 +169,7 @@ Auf das Ersuchen wird nicht eingetreten, wenn:
 - b. Informationen verlangt werden, die von den Amtshilfebestimmungen des anwendbaren Abkommens nicht erfasst sind; oder
 - c. es den Grundsatz von Treu und Glauben verletzt, insbesondere wenn es auf Informationen beruht, die durch nach schweizerischem Recht strafbare Handlungen erlangt worden sind.
 
-### 2. Abschnitt: Informationsbeschaffung****
+### 2. Abschnitt: Informationsbeschaffung
 
 [^chap2-sec2-1]
 
@@ -204,7 +205,7 @@ Auf das Ersuchen wird nicht eingetreten, wenn:
 
 <sup>4</sup> Die ESTV führt Verwaltungsmassnahmen wie Buchprüfungen oder Augenscheine durch, soweit dies für die Beantwortung des Ersuchens erforderlich ist. Sie informiert die für die Veranlagung der betroffenen Person zuständige kantonale Steuerverwaltung über die Massnahmen und gibt ihr Gelegenheit, an deren Durchführung teilzunehmen.
 
-<sup>5</sup> ...[^9-1]
+<sup>5</sup> …[^9-1]
 
 [^9-1]: Aufgehoben durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, mit Wirkung seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
@@ -218,7 +219,7 @@ Auf das Ersuchen wird nicht eingetreten, wenn:
 
 <sup>3</sup> Die Informationsinhaberin oder der Informationsinhaber muss alle relevanten Informationen herausgeben, die sich in eigenem Besitz oder unter eigener Kontrolle befinden.
 
-<sup>4</sup> ...[^10-1]
+<sup>4</sup> …[^10-1]
 
 [^10-1]: Aufgehoben durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, mit Wirkung seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
@@ -346,7 +347,7 @@ Sie informiert zudem die vom Gruppenersuchen betroffenen Personen ohne Namensnen
 [^15-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^15-2]: Fassung gemäss Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [BBl 2013 8369](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
-### 3. Abschnitt: Verfahren****
+### 3. Abschnitt: Verfahren
 
 [^chap2-sec3-1]
 
@@ -447,13 +448,13 @@ Amtshilfe kann betreffend verstorbene Personen geleistet werden. Deren Rechtsnac
 
 <sup>3</sup> Die ESTV informiert die Informationsinhaberinnen, Informationsinhaber und Behörden, denen das Ersuchen zur Kenntnis gebracht wurde, über den Informationsaufschub. Diese Personen und Behörden dürfen die beschwerdeberechtigten Personen bis zu deren nachträglicher Information nicht über das Ersuchen informieren.
 
-<sup>4</sup> und <sup>5</sup> ...[^21a-3]
+<sup>4</sup> und <sup>5</sup> …[^21a-3]
 
 [^21a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [BBl 2013 8369](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^21a-2]: Eingefügt durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^21a-3]: Aufgehoben durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, mit Wirkung seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-### 4. Abschnitt: Schweizerische Amtshilfeersuchen****
+### 4. Abschnitt: Schweizerische Amtshilfeersuchen
 
 [^chap2-sec4-1]
 
@@ -477,10 +478,10 @@ Amtshilfe kann betreffend verstorbene Personen geleistet werden. Deren Rechtsnac
 
 <sup>7</sup> Absatz 6 gilt nicht in Bezug auf Staaten, von denen die Schweiz Informationen ohne vorgängiges Ersuchen erhalten kann.[^22-2]
 
-[^22-1]: Eingefügt durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die ge-genseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 (AS 2016 5059; BBl 2015 5585).
+[^22-1]: Eingefügt durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^22-2]: Eingefügt durch Art. 40 des BG vom 18. Dez. 2015 über den internationalen automatischen Informationsaustausch in Steuersachen ([AS 2016 1297](https://fedlex.data.admin.ch/eli/oc/2016/259); [BBl 2015 5437](https://fedlex.data.admin.ch/eli/fga/2015/1281)). Fassung gemäss Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-## 3. Kapitel:**** Spontaner Informationsaustausch
+## 3. Kapitel: Spontaner Informationsaustausch
 
 [^chap3-1]
 
@@ -532,7 +533,7 @@ Für die Verfahren gelten die Artikel 16, 17, 19 und 20 sinngemäss.
 
 <sup>2</sup> Sie leitet die von einem anderen Staat spontan übermittelten Informationen weiteren schweizerischen Behörden, für die die Informationen von Interesse sind, weiter, sofern dies nach dem anwendbaren Abkommen zulässig und nach schweizerischem Recht vorgesehen ist. Sie holt gegebenenfalls die Zustimmung der zuständigen Behörde des informierenden Staates ein.
 
-## 4. Kapitel:**** Datenbearbeitung, Schweigepflicht und Statistik
+## 4. Kapitel: Datenbearbeitung, Schweigepflicht und Statistik
 
 [^chap4-1]
 
@@ -599,7 +600,7 @@ Keine Geheimhaltungspflicht besteht:
 
 <sup>2</sup> Es besteht kein Recht auf Zugang zu weiter gehenden als den nach Absatz 1 veröffentlichten Informationen.
 
-## 4*a*. Kapitel:**** Transparenz von Rechtseinheiten mit Hauptsitz im Ausland und tatsächlicher Verwaltung in der Schweiz
+## 4*a*. Kapitel: Transparenz von Rechtseinheiten mit Hauptsitz im Ausland und tatsächlicher Verwaltung in der Schweiz
 
 [^chap4a-1]
 
@@ -609,7 +610,7 @@ Keine Geheimhaltungspflicht besteht:
 
 Hat eine Rechtseinheit mit Hauptsitz im Ausland ihre tatsächliche Verwaltung in der Schweiz, so muss sie am Ort der tatsächlichen Verwaltung ein Verzeichnis ihrer Inhaberinnen und Inhaber führen. Das Verzeichnis muss den Vor- und den Nachnamen oder die Firma sowie die Adresse dieser Personen enthalten.
 
-## 5. Kapitel:**** Strafbestimmungen
+## 5. Kapitel: Strafbestimmungen
 
 [^chap5-1]
 
@@ -637,7 +638,7 @@ Mit Busse bis zu 10 000 Franken wird bestraft, wer vorsätzlich oder fahrlässig
 
 [^22l-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-## 6. Kapitel: Schlussbestimmungen****
+## 6. Kapitel: Schlussbestimmungen
 
 [^chap6-1]
 
@@ -687,6 +688,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...*[^annexu1-lvlu1-1]*
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31)konsultiert werden.

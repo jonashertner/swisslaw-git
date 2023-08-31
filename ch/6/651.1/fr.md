@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur l'assistance administrative inte
 short: LAAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-31-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-31-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/fr"
 
 (Loi sur l’assistance administrative fiscale, LAAF)
 
-du 28 septembre 2012 (Etat le 1<sup>er</sup> janvier 2022)
+du 28 septembre 2012 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)
 
-## Chapitre 1 Dispositions générales****
+## Chapitre 1 Dispositions générales
 
 [^chap1-1]
 
@@ -117,18 +117,19 @@ Dans la présente loi, on entend par:
 
 **Accords sur la protection des données**[^5a-1]
 
-Si la convention applicable prévoit que l’autorité qui transmet les renseignements peut spécifier des dispositions en matière de protection des données devant être respectées par l’autorité qui reçoit les renseignements, le Conseil fédéral peut conclure des accords en la matière. Ces dispositions doivent offrir au moins le même niveau de protection que la loi fédérale du 19 juin 1992 sur la protection des données[^5a-2].
+Si la convention applicable prévoit que l’autorité qui transmet les renseignements peut spécifier des dispositions en matière de protection des données devant être respectées par l’autorité qui reçoit les renseignements, le Conseil fédéral peut conclure des accords en la matière. Ces dispositions doivent offrir au moins le même niveau de protection que la loi fédérale du 25 septembre 2020 sur la protection des données[^5a-2].[^5a-3]
 
 [^5a-1]: Introduit par l’annexe de l’AF du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^5a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5a-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 54 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-## Chapitre 2 Échange de renseignements sur demande****
+## Chapitre 2 Échange de renseignements sur demande
 
 [^chap2-1]
 
 [^chap2-1]: Introduit par l’annexe de l’AF du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-### Section 1 Demandes d’assistance administrative de l’étranger****
+### Section 1 Demandes d’assistance administrative de l’étranger
 
 [^chap2-sec1-1]
 
@@ -169,7 +170,7 @@ Il n’est pas entré en matière lorsque la demande présente l’une des carac
 - b. elle porte sur des renseignements qui ne sont pas prévus par les dispositions régissant l’assistance administrative de la convention applicable;
 - c. elle viole le principe de la bonne foi, notamment lorsqu’elle se fonde sur des renseignements obtenus par des actes punissables au regard du droit suisse.
 
-### Section 2 Obtention de renseignements****
+### Section 2 Obtention de renseignements
 
 [^chap2-sec2-1]
 
@@ -347,7 +348,7 @@ Elle informe en outre par publication anonyme dans la Feuille fédérale les per
 [^15-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^15-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7501](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
-### Section 3 Procédure****
+### Section 3 Procédure
 
 [^chap2-sec3-1]
 
@@ -454,7 +455,7 @@ L’assistance administrative peut être exécutée concernant des personnes dé
 [^21a-2]: Introduit par l’annexe de l’AF du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^21a-3]: Abrogés par l’annexe de l’AF du 18 déc. 2015, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-### Section 4 Demandes suisses d’assistance administrative****
+### Section 4 Demandes suisses d’assistance administrative
 
 [^chap2-sec4-1]
 
@@ -481,7 +482,7 @@ L’assistance administrative peut être exécutée concernant des personnes dé
 [^22-1]: Introduit par l’annexe de l’AF du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^22-2]: Introduit par l’art. 40 de la LF du 18 déc. 2015 sur l’échange international automatique de renseignements en matière fiscale ([RO 2016 1297](https://fedlex.data.admin.ch/eli/oc/2016/259); [FF 2015 4975](https://fedlex.data.admin.ch/eli/fga/2015/1281)). Nouvelle teneur selon l’annexe de l’AF du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-## Chapitre 3**** Échange spontané de renseignements
+## Chapitre 3 Échange spontané de renseignements
 
 [^chap3-1]
 
@@ -533,7 +534,7 @@ Les art. 16, 17, 19 et 20 s’appliquent par analogie aux procédures.
 
 <sup>2</sup> Lorsque la convention applicable l’y autorise et que le droit suisse le prévoit, l’AFC transmet les renseignements transmis spontanément par un État étranger à d’autres autorités suisses pour lesquelles ces renseignements présentent un intérêt. Le cas échéant, elle demande le consentement de l’autorité compétente de l’État qui lui a transmis les renseignements.
 
-## Chapitre 4**** Traitement des données, obligation de garder le secret et statistiques
+## Chapitre 4 Traitement des données, obligation de garder le secret et statistiques
 
 [^chap4-1]
 
@@ -600,7 +601,7 @@ L’obligation de garder le secret ne s’applique pas:
 
 <sup>2</sup> Nul ne peut se prévaloir d’un droit d’accès à des informations plus détaillées que celles publiées en vertu de l’al. 1.
 
-## Chapitre 4*a***** Transparence des entités juridiques dont le siège principal se trouve à l’étranger et l’administration effective en Suisse
+## Chapitre 4*a* Transparence des entités juridiques dont le siège principal se trouve à l’étranger et l’administration effective en Suisse
 
 [^chap4a-1]
 
@@ -610,7 +611,7 @@ L’obligation de garder le secret ne s’applique pas:
 
 Si une entité juridique dont le siège principal se trouve à l’étranger a son administration effective en Suisse, elle doit tenir une liste de ses détenteurs au lieu de son administration effective. Cette liste doit contenir soit le prénom et le nom soit la raison sociale, ainsi que l’adresse de ces personnes.
 
-## Chapitre 5**** Dispositions pénales
+## Chapitre 5 Dispositions pénales
 
 [^chap5-1]
 
@@ -638,7 +639,7 @@ Est puni d’une amende de 10 000 francs au plus quiconque enfreint intentionnel
 
 [^22l-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-## Chapitre 6 Dispositions finales****
+## Chapitre 6 Dispositions finales
 
 [^chap6-1]
 

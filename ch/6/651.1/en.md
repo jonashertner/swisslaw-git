@@ -4,11 +4,11 @@ title: "Federal Act of 28 September 2012 on International Administrative Assista
 short: TAAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: en
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2013-31-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-31-20230901-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Tax Administrative Assistance Act, TAAA)
 
-of 28 September 2012 (Status as of 1 January 2022)
+of 28 September 2012 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -30,7 +30,7 @@ decrees:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)
 
-## Chapter 1 General Provisions****
+## Chapter 1 General Provisions
 
 [^chap1-1]
 
@@ -118,18 +118,19 @@ For the purposes of this Act:
 
 **Agreements on the data protection**[^5a-1]
 
-If the applicable convention provides that the informing authority may stipulate data protection provisions that must be observed by the recipient authority, the Federal Council may enter into agreements on data protection. The data protection provisions that must be observed must provide at least the same level of protection as the Federal Act of 19 June 1992[^5a-2] on Data Protection.
+If the applicable convention provides that the informing authority may stipulate data protection provisions that must be observed by the recipient authority, the Federal Council may enter into agreements on data protection. The data protection provisions that must be observed must provide at least the same level of protection as the Data Protection Act of 25 September 2020[^5a-2].[^5a-3]
 
 [^5a-1]: Inserted by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, in force since 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^5a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5a-3]: Second sentence amended by Annex 1 No II 54 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-## Chapter 2 Exchange of Information on Request****
+## Chapter 2 Exchange of Information on Request
 
 [^chap2-1]
 
 [^chap2-1]: Inserted by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, in force since 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-### Section 1 Administrative Assistance Requests by Foreign States****
+### Section 1 Administrative Assistance Requests by Foreign States
 
 [^chap2-sec1-1]
 
@@ -170,7 +171,7 @@ The request will not be considered if:
 - b. it requests information not covered by the administrative assistance provisions of the applicable agreement; or
 - c. it violates the principle of good faith, particularly if it is based on information obtained through a criminal offence under Swiss law.
 
-### Section 2 Procurement of Information****
+### Section 2 Procurement of Information
 
 [^chap2-sec2-1]
 
@@ -348,7 +349,7 @@ It shall further notify persons concerned by the group request anonymously via a
 [^15-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^15-2]: Amended by No I of the Federal Act of 21 March 2014, in force since 1 Aug. 2014 ([AS 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [BBl 2013 8369](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
-### Section 3 Transmission of Information****
+### Section 3 Transmission of Information
 
 [^chap2-sec3-1]
 
@@ -455,7 +456,7 @@ Administrative assistance may be provided in connection with deceased persons. T
 [^21a-2]: Inserted by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, in force since 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^21a-3]: Repealed by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, with effect from 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-### Section 4 Swiss Requests for Administrative Assistance****
+### Section 4 Swiss Requests for Administrative Assistance
 
 [^chap2-sec4-1]
 
@@ -482,7 +483,7 @@ Administrative assistance may be provided in connection with deceased persons. T
 [^22-1]: Inserted by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, in force since 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^22-2]: Inserted by Art. 40 of the Federal Act of 18 Dec. 2015 on the Automatic International Exchange of Information on Tax Matters ([AS 2016 1297](https://fedlex.data.admin.ch/eli/oc/2016/259); [BBl 2015 5437](https://fedlex.data.admin.ch/eli/fga/2015/1281)). Amended by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, in force since 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-## Chapter 3**** Spontaneous Exchange of Information
+## Chapter 3 Spontaneous Exchange of Information
 
 [^chap3-1]
 
@@ -534,7 +535,7 @@ Articles 16, 17, 19 and 20 apply by analogy to the procedure.
 
 <sup>2</sup> It shall forward the information spontaneously transmitted by another state to other Swiss authorities to which the information is of interest provided this is permitted under the applicable convention and provided for by Swiss law. If required, it shall obtain the consent of the competent authority in the requested state.
 
-## Chapter 4**** Data Processing, Duty of Confidentiality and Statistics
+## Chapter 4 Data Processing, Duty of Confidentiality and Statistics
 
 [^chap4-1]
 
@@ -564,7 +565,8 @@ The information system assists the FTA in fulfilling its duties under the applic
 - d. to process requests for mutual administrative and legal assistance;
 - e. to combat the commission of tax offences;
 - f. to compile statistics.
-- [tab] <sup>3bis</sup> The FTA may grant the Swiss tax authorities to which they forward information spontaneously transmitted from abroad online access to the data in the information system that these authorities require to fulfil their statutory duties.[^22g-1]
+
+<sup>3bis</sup> The FTA may grant the Swiss tax authorities to which they forward information spontaneously transmitted from abroad online access to the data in the information system that these authorities require to fulfil their statutory duties.[^22g-1]
 
 <sup>4</sup>
 
@@ -600,7 +602,7 @@ No duty of confidentiality applies:
 
 <sup>2</sup> There is no right of access to information beyond that published in accordance with paragraph 1.
 
-## Chapter 4*a***** Transparency of Legal Entities based abroad with De Facto Management in Switzerland
+## Chapter 4*a* Transparency of Legal Entities based abroad with De Facto Management in Switzerland
 
 [^chap4a-1]
 
@@ -610,7 +612,7 @@ No duty of confidentiality applies:
 
 If a legal entity that is based abroad is in fact managed in Switzerland, it must keep a register of its proprietors at its actual place of management. The register must record the first name and surname or company name and the address of these persons.
 
-## Chapter 5**** Criminal Provisions
+## Chapter 5 Criminal Provisions
 
 [^chap5-1]
 
@@ -638,7 +640,7 @@ Any person who wilfully or negligently violates the ban on providing information
 
 [^22l-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-## Chapter 6 Final Provisions****
+## Chapter 6 Final Provisions
 
 [^chap6-1]
 
@@ -688,6 +690,6 @@ Annex
 
 The enactments below are amended as follows:
 
-…*[^annexu1-lvlu1-1]*
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31).

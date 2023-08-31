@@ -4,11 +4,11 @@ title: "Legge federale del 28 settembre 2012 sull'assistenza amministrativa inte
 short: LAAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-31-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-31-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/it"
 
 (Legge sull’assistenza amministrativa fiscale, LAAF)
 
-del 28 settembre 2012 (Stato 1° gennaio 2022)
+del 28 settembre 2012 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,7 +28,7 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)
 
-## Capitolo 1: Disposizioni generali****
+## Capitolo 1: Disposizioni generali
 
 [^chap1-1]
 
@@ -116,18 +116,19 @@ Nella presente legge s’intende per:
 
 **Accordi sulla protezione dei dati**[^5a-1]
 
-Se la convenzione applicabile prevede che l’autorità che trasmette le informazioni può specificare le disposizioni in materia di protezione dei dati che devono essere rispettate dall’autorità che riceve le informazioni, il Consiglio federale può concludere accordi sulla protezione dei dati. Tali disposizioni garantiscono almeno il livello di protezione della legge federale del 19 giugno 1992[^5a-2] sulla protezione dei dati.
+Se la convenzione applicabile prevede che l’autorità che trasmette le informazioni può specificare le disposizioni in materia di protezione dei dati che devono essere rispettate dall’autorità che riceve le informazioni, il Consiglio federale può concludere accordi sulla protezione dei dati. Tali disposizioni garantiscono almeno il livello di protezione della legge federale del 25 settembre 2020[^5a-2] sulla protezione dei dati.[^5a-3]
 
 [^5a-1]: Introdotto dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^5a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5a-3]: Nuovo testo del per. giusta l’all. 1 n. II 54 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-## Capitolo 2: Scambio di informazioni su domanda****
+## Capitolo 2: Scambio di informazioni su domanda
 
 [^chap2-1]
 
 [^chap2-1]: Introdotto dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-### Sezione 1: Domande di assistenza amministrativa estere****
+### Sezione 1: Domande di assistenza amministrativa estere
 
 [^chap2-sec1-1]
 
@@ -168,7 +169,7 @@ Non si entra nel merito della domanda se:
 - b. sono richieste informazioni che non sono contemplate dalle disposizioni sull’assistenza amministrativa della convenzione applicabile; oppure
 - c. viola il principio della buona fede, in particolare se si fonda su informazioni ottenute mediante reati secondo il diritto svizzero.
 
-### Sezione 2: Ottenimento di informazioni****
+### Sezione 2: Ottenimento di informazioni
 
 [^chap2-sec2-1]
 
@@ -346,7 +347,7 @@ Mediante pubblicazione in forma anonima nel Foglio federale, informa inoltre le 
 [^15-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^15-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
-### Sezione 3: Procedura****
+### Sezione 3: Procedura
 
 [^chap2-sec3-1]
 
@@ -453,7 +454,7 @@ L’assistenza amministrativa può essere eseguita in relazione a persone defunt
 [^21a-2]: Introdotta dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^21a-3]: Abrogati dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, con effetto dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-### Sezione 4: Domande di assistenza amministrativa svizzere****
+### Sezione 4: Domande di assistenza amministrativa svizzere
 
 [^chap2-sec4-1]
 
@@ -480,7 +481,7 @@ L’assistenza amministrativa può essere eseguita in relazione a persone defunt
 [^22-1]: Introdotto dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^22-2]: Introdotto dall’art. 40 della LF del 18 dic. 2015 sullo scambio automatico internazionale di informazioni a fini fiscali ([RU 2016 1297](https://fedlex.data.admin.ch/eli/oc/2016/259); [FF 2015 4467](https://fedlex.data.admin.ch/eli/fga/2015/1281)). Nuovo testo giusta l’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
-## Capitolo 3:**** Scambio spontaneo di informazioni
+## Capitolo 3: Scambio spontaneo di informazioni
 
 [^chap3-1]
 
@@ -532,7 +533,7 @@ Alle procedure si applicano per analogia gli articoli 16, 17, 19 e 20.
 
 <sup>2</sup> Se la convenzione applicabile lo consente e il diritto svizzero lo prevede, l’AFC inoltra le informazioni che le sono state trasmesse spontaneamente da un altro Stato ad altre autorità svizzere per le quali tali informazioni sono interessanti. Se del caso, l’AFC chiede il consenso dell’autorità competente dello Stato che ha trasmesso le informazioni.
 
-## Capitolo 4:**** Trattamento dei dati, obbligo del segreto e statistiche
+## Capitolo 4: Trattamento dei dati, obbligo del segreto e statistiche
 
 [^chap4-1]
 
@@ -599,7 +600,7 @@ L’obbligo del segreto non si applica:
 
 <sup>2</sup> Non sussiste alcun diritto di accesso a informazioni più ampie rispetto a quelle pubblicate secondo il capoverso 1.
 
-## Capitolo 4*a*:**** Trasparenza degli enti giuridici con sede principale all’estero e amministrazione effettiva in Svizzera
+## Capitolo 4*a*: Trasparenza degli enti giuridici con sede principale all’estero e amministrazione effettiva in Svizzera
 
 [^chap4a-1]
 
@@ -609,7 +610,7 @@ L’obbligo del segreto non si applica:
 
 Un ente giuridico con sede principale all’estero che ha la sua amministrazione effettiva in Svizzera deve tenere, nel luogo dell’amministrazione effettiva, un elenco dei suoi titolari. L’elenco deve menzionare il nome e il cognome o la ditta nonché l’indirizzo di tali persone.
 
-## Capitolo 5:**** Disposizioni penali
+## Capitolo 5: Disposizioni penali
 
 [^chap5-1]
 
@@ -637,7 +638,7 @@ La persona interessata o il detentore delle informazioni è punito con una multa
 
 [^22l-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-## Capitolo 6: Disposizioni finali****
+## Capitolo 6: Disposizioni finali
 
 [^chap6-1]
 
@@ -675,7 +676,7 @@ Le disposizioni di esecuzione fondate sul decreto federale del 22 giugno 1951[^2
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore[^25-1]: 1° febbraio 2013
+Data dell’entrata in vigore:[^25-1] 1° febbraio 2013
 
 [^25-1]: DCF del 16 gen. 2013.
 
