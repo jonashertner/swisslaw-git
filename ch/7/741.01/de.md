@@ -4,11 +4,11 @@ title: Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 short: SVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230701/de"
 
 (SVG)[^t-1]
 
-vom 19. Dezember 1958 (Stand am 1. Juli 2023)
+vom 19. Dezember 1958 (Stand am 1. September 2023)
 
 [^t-1]: Tit. gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -1721,7 +1721,7 @@ Der Bundesrat kann im Falle von Absatz 2 Buchstabe a:
 
 <sup>2</sup> Das Nationale Versicherungsbüro und der Nationale Garantiefonds stehen unter der Aufsicht des ASTRA[^76b-2].
 
-<sup>3</sup> Personen, die Aufgaben des Nationalen Versicherungsbüros und des Nationalen Garantiefonds wahrnehmen oder deren Ausführung beaufsichtigen, sind Dritten gegenüber zur Verschwiegenheit verpflichtet. Sie sind zur Erfüllung der ihnen übertragenen Aufgaben befugt, die dafür benötigten Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen.
+<sup>3</sup> Personen, die Aufgaben des Nationalen Versicherungsbüros und des Nationalen Garantiefonds wahrnehmen oder deren Ausführung beaufsichtigen, sind Dritten gegenüber zur Verschwiegenheit verpflichtet. Sie sind zur Erfüllung der ihnen übertragenen Aufgaben befugt, die dafür benötigten Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder bearbeiten zu lassen.[^76b-3]
 
 <sup>4</sup>
 
@@ -1739,6 +1739,7 @@ Der Bundesrat erlässt Bestimmungen über die Aufgaben und Befugnisse des Nation
 
 [^76b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [BBl 2002 4397](https://fedlex.data.admin.ch/eli/fga/2002/692)).
 [^76b-2]: Ausdruck gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Die Anpassung wurde im ganzen Text vorgenommen.
+[^76b-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 60 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Nichtversicherte Fahrzeuge
 

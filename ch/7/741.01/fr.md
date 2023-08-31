@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 short: LCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230701/fr"
 
 (LCR)
 
-du 19 décembre 1958 (État le 1<sup>er</sup> juillet 2023)
+du 19 décembre 1958 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1735,7 +1735,7 @@ Le Conseil fédéral peut, dans les cas prévus à l’al. 2, let. a:
 
 <sup>2</sup> Le Bureau national d’assurance et le Fonds national de garantie sont soumis à la surveillance de l’OFROU[^76b-2].
 
-<sup>3</sup> Les personnes chargées d’effectuer des tâches incombant au Bureau national d’assurance ou au Fonds national de garantie ou d’en surveiller l’exécution sont tenues au secret à l’égard des tiers. Elles sont habilitées à traiter et à faire traiter les données personnelles, y compris les données sensibles et les profils de la personnalité, qui leur sont nécessaires pour accomplir ces tâches.
+<sup>3</sup> Les personnes chargées d’effectuer des tâches incombant au Bureau national d’assurance ou au Fonds national de garantie ou d’en surveiller l’exécution sont tenues au secret à l’égard des tiers Elles sont habilitées à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir ces tâches.[^76b-3]
 
 <sup>4</sup>
 
@@ -1753,6 +1753,7 @@ Le Conseil fédéral édicte des dispositions sur les tâches et les compétence
 
 [^76b-1]: Introduit par le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [FF 2002 4093](https://fedlex.data.admin.ch/eli/fga/2002/692)).
 [^76b-2]: Nouvelle expression selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^76b-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 60 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Véhicules non assurés
 

@@ -4,11 +4,11 @@ title: Lescha davart il traffic sin via dals 19 da december 1958 (LTV)
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: rm
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230701-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230901-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LTV)[^t-1]
 
-dals 19 da december 1958 (versiun dal 1. da fanadur 2023)
+dals 19 da december 1958 (versiun dal 1. da settember 2023)
 
 [^t-1]: Titel tenor la cifra I da la LF dals 6 d’oct. 1989, en vigur dapi il 1. da favr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -1725,7 +1725,7 @@ En cas da l’alinea 2 litera a po il Cussegl federal:
 
 <sup>2</sup> Il Biro naziunal d’assicuranza ed il Fond naziunal da garanzia èn suttamess a la surveglianza dal UVIAS[^76b-2].
 
-<sup>3</sup> Las persunas che adempleschan las incumbensas dal Biro naziunal d’assicuranza e dal Fond naziunal da garanzia u che surveglian lur execuziun, èn suttamessas a l’obligaziun da discreziun envers terzas persunas. Ellas èn autorisadas d’elavurar u da laschar elavurar las datas da persunas, inclusiv las datas spezialmain sensiblas ed ils profils da la persunalitad, ch’ellas dovran per ademplir las incumbensas confidadas ad ellas.
+<sup>3</sup> Las persunas che adempleschan las incumbensas dal Biro naziunal d’assicuranza e dal Fond naziunal da garanzia u che surveglian lur execuziun, èn suttamessas a l’obligaziun da discreziun envers terzas persunas. Ellas èn autorisadas d’elavurar u da laschar elavurar las datas persunalas, inclusiv datas persunalas spezialmain sensiblas, ch’ellas dovran per ademplir las incumbensas confidadas ad ellas.[^76b-3]
 
 <sup>4</sup>
 
@@ -1743,6 +1743,7 @@ Il Cussegl federal decretescha disposiziuns davart las incumbensas e las cumpete
 
 [^76b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 2002, en vigur dapi il 1. da favr. 2003 ([AS 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [BBl 2002 4397](https://fedlex.data.admin.ch/eli/fga/2002/692)).
 [^76b-2]: Expressiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Questa adattaziun è vegnida fatga en tut il text.
+[^76b-3]: Versiun da la segunda frasa tenor la cifra II 60 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Vehichels betg assicurads
 
