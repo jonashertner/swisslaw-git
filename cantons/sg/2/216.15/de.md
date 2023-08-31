@@ -3,20 +3,19 @@ canton: SG
 number: "216.15"
 title: Statut der Pädagogischen Hochschule St.Gallen
 language: de
-version: 2021-09-01
-valid_until: 2023-08-31
-version_adopted: 2020-09-02
+version: 2023-09-01
+version_adopted: 2023-09-15
 adopted: 2007-08-16
 in_force: 2007-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/216.15"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3069/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Statut der Pädagogischen Hochschule St.Gallen
 
-vom 16.08.2007 (Stand 01.09.2021)
+vom 16.08.2007 (Stand 01.09.2023)
 
 Der Rat der Pädagogischen Hochschule des Kantons St.Gallen
 
@@ -45,7 +44,7 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> …
 
-<sup>2</sup> Die Bezeichnung der Hochschule in deutscher Sprache lautet: «Pädagogische Hochschule St.Gallen» (PHSG).
+<sup>2</sup> Die Bezeichnung der Hochschule lautet in deutscher Sprache: «Pädagogische Hochschule St.Gallen» (PHSG) und in englischer Sprache «St.Gallen University of Teacher Education».
 
 #### Art. 3
 
@@ -58,17 +57,17 @@ als Statut:[^ingress-2]
   - 1\. Rektorat;
   - 2\. Rektorin oder Rektor;
   - 3\. Prorektorinnen und Prorektoren;
-  - 4\. Studienbereichsleitungen;
+  - 4\. …
   - 5\. Konvent;
   - 6\. Rekurskommission;
   - 7\. Disziplinarkommission;
-- c) Verwaltungsdirektion;
-- d) Dozentenschaft;
-- e) Mittelbau;
+- c) Verwaltungsdirektorin oder Verwaltungsdirektor;
+- d) …
+- e) …
 - f) Studentenschaft;
 - g) Finanzkontrolle.
 
-<sup>2</sup> Die Amtsdauer der Akademischen Organe beträgt vier Jahre. Sie beginnt am 1. September. Abweichende Regelungen sind vorbehalten.
+<sup>2</sup> Die Amtsdauer der Akademischen Organe beträgt vier Jahre. Sie beginnt am 1. August. Abweichende Regelungen sind vorbehalten.
 
 <sup>3</sup> Das Verfahren in den Organen der Hochschule richtet sich nach dem Gesetz über die Verwaltungsrechtspflege vom 16. Mai 1965[^3-1], soweit dieser Erlass keine abweichenden Bestimmungen enthält.
 
@@ -89,23 +88,17 @@ als Statut:[^ingress-2]
 
 #### Art. 5
 
-**Studienbereiche**
-
-<sup>1</sup> Die Hochschule führt organisatorisch mehrere Studienbereiche, die dem Prorektorat Ausbildung unterstellt sind.
-
-<sup>2</sup> Zweck der Studienbereiche ist es, einen die Zielstufen übergreifenden fachlichen Austausch unter den Dozierenden zu fördern sowie die wissenschaftlichen Fachdisziplinen zu vertreten und weiterzuentwickeln.
-
-<sup>3</sup> Die Einrichtung und Benennung der Studienbereiche werden vom Rektorat vorgenommen und dem Hochschulrat zur Kenntnis gebracht.
+**…**
 
 #### Art. 6
 
-**Institute**
+**Institute, Zentren und Fachstellen**
 
-<sup>1</sup> Der Hochschule können Institute ohne eigene Rechtspersönlichkeit angegliedert sein.
+<sup>1</sup> Der Hochschule können Institute, Zentren und Fachstellen ohne eigene Rechtspersönlichkeit angegliedert sein.
 
-<sup>2</sup> Die Institute sind dem Prorektorat Forschung und Entwicklung oder dem Prorektorat Weiterbildung und Dienstleistungen unterstellt.
+<sup>2</sup> …
 
-<sup>3</sup> Eine vom Hochschulrat erlassene Satzung regelt Zweck, Aufgaben und Organisation der Institute.
+<sup>3</sup> Eine vom Hochschulrat erlassene Satzung regelt Zweck, Aufgaben und Organisation der Institute, Zentren und Fachstellen.
 
 #### Art. 7
 
@@ -127,13 +120,11 @@ als Statut:[^ingress-2]
 
 **Grundsatz**
 
-<sup>1</sup> Die Aufgaben der Hochschule sind im Gesetz sowie im allgemeinen und besonderen Leistungsauftrag bestimmt.[^9-1]
-
-[^9-1]: Art. [1](https://www.gesetzessammlung.sg.ch/data/216.0/de/art1.) ff. und [7](https://www.gesetzessammlung.sg.ch/data/216.0/de/art7.) f. GPHSG, sGS [216.0](https://www.gesetzessammlung.sg.ch/data/216.0/de). Der allgemeine Leistungsauftrag, soweit er sich nicht aus dem Gesetz ergibt, wird vom Kantonsrat erteilt. Der besondere Leistungsauftrag wird von der Regierung erteilt und vom Kantonsrat zur Kenntnis genommen.
+<sup>1</sup> Die Aufgaben der Hochschule sind im Gesetz sowie im Leistungsauftrag bestimmt.
 
 #### Art. 10
 
-**Lehre**
+**Ausbildung**
 
 <sup>1</sup> Die Hochschule bietet Studiengänge gemäss Studienordnung an.
 
@@ -160,15 +151,15 @@ als Statut:[^ingress-2]
 
 **Forschung und Entwicklung**
 
-<sup>1</sup> Die Hochschule betreibt anwendungsorientierte Forschung, Entwicklung und Evaluation.
+<sup>1</sup> Die Hochschule betreibt anwendungsorientierte Forschung und Entwicklung.
 
-<sup>2</sup> Die Leitung des zuständigen Prorektorats erstellt ein Forschungsprogramm, in dem die Forschungsschwerpunkte festgehalten werden.
+<sup>2</sup> Die Leiterin oder der Leiter des zuständigen Prorektorats erstellt ein Forschungsprogramm, in dem die Forschungsschwerpunkte festgehalten werden.
 
 #### Art. 13
 
 **Dienstleistungen**
 
-<sup>1</sup> Die Hochschule bietet in Lehre, Weiterbildung, Forschung, Entwicklung und Evaluation Dienstleistungen für Dritte an. Diese sind grundsätzlich kostendeckend zu erbringen.
+<sup>1</sup> Die Hochschule bietet Dienstleistungen für Dritte an. Diese sind grundsätzlich kostendeckend zu erbringen.
 
 #### Art. 14
 
@@ -178,15 +169,18 @@ als Statut:[^ingress-2]
 
 #### Art. 15
 
-**Qualitätskontrolle und Evaluation, Qualitätsmanagement**
+**Qualitätsmanagement**
 
-<sup>1</sup> Das Qualitätsmanagement umfasst die Qualitätsentwicklung und -sicherung mittels Selbstevaluation und externer Fremdevaluation, in die alle Mitarbeitenden einbezogen sind. Die Erfüllung der Aufgaben wird im Rahmen der Qualitätssicherung periodisch evaluiert. Die Ergebnisse dienen als Basis für das jährliche Mitarbeitergespräch und für Massnahmen zur Sicherung und Optimierung der Qualität.
+<sup>1</sup> Die Hochschule verfügt über:
 
-<sup>2</sup> Innerhalb der Verwaltungsdirektion wird das Qualitätsmanagement grundsätzlich mit den zur Verfügung stehenden Prozessen und Instrumenten der Staatsverwaltung umgesetzt.
+- a) eine Qualitätssicherungsstrategie;
+- b) ein Qualitätssicherungssystem, das der Implementierung der Qualitätssicherungsstrategie dient und eine systematische Qualitätssicherung und -entwicklung gewährleistet.
 
-<sup>3</sup> Bei Meinungsverschiedenheiten entscheidet die Rektorin oder der Rektor nach Rücksprache mit den Betroffenen und der vorgesetzten Person.
+<sup>2</sup> …
 
-<sup>4</sup> Der Hochschulrat kann periodisch die Leistungen überprüfen.
+<sup>3</sup> …
+
+<sup>4</sup> Der Hochschulrat erlässt die Qualitätssicherungsstrategie.
 
 ## III. Angehörige der Hochschule
 
@@ -199,15 +193,22 @@ als Statut:[^ingress-2]
 <sup>1</sup> Angehörige der Hochschule sind:
 
 - a) Mitglieder des Hochschulrates;
-- b) Mitglieder des Rektorats;
-- c) Dozierende;
-- d) wissenschaftliche Mitarbeitende und Assistierende;
+- b) …
+- b<sup>bis</sup>) Mitarbeitende der Hochschule;
+- c) …
+- d) …
 - e) immatrikulierte Studierende;
 - f) weitere Teilnehmende an Lehr- und Weiterbildungsveranstaltungen;
-- g) Mitarbeitende der Hochschulverwaltung;
-- h) Sekretariatsmitarbeitende;
-- i) weiteres Personal;
+- g) …
+- h) …
+- i) …
 - j) Praktikumslehrpersonen.
+
+<sup>2</sup> Die Mitarbeitenden der Hochschule setzen sich zusammen aus:
+
+- a) dem akademischen Personal, bestehend aus den Professorinnen und Professoren, Dozierenden, Lehrbeauftragten, Mitarbeitenden Third Space, Specialists sowie wissenschaftlichen Mitarbeitenden;
+- b) dem Personal der Hochschulverwaltung und Administration;
+- c) den wissenschaftlichen Assistierenden, Praxislehrpersonen sowie studentischen Mitarbeitenden.
 
 ### B. Rechte und Pflichten
 
@@ -229,17 +230,17 @@ als Statut:[^ingress-2]
 
 #### Art. 19
 
-**Diversität und Chancengleichheit**
+**Diversität sowie Chancengleichheit und -gerechtigkeit**
 
-<sup>1</sup> Die Hochschule anerkennt und wertschätzt die Diversität ihrer Angehörigen und fördert deren Chancengleichheit.
+<sup>1</sup> Die Hochschule anerkennt und wertschätzt die Diversität ihrer Angehörigen, fördert die Chancengleichheit und setzt sich für ein diskriminierungsfreies Umfeld ein.
 
-<sup>2</sup> Sie setzt sich insbesondere für die Gleichstellung von Mann und Frau ein und strebt eine ausgewogene Vertretung beider Geschlechter in allen Funktionen und Gremien an.
+<sup>2</sup> Sie setzt sich insbesondere für eine diversitätsgerechte Vertretung ihrer Angehörigen in allen Funktionen und Gremien ein.
 
 #### Art. 20
 
 **Mitwirkungsrecht**
 
-<sup>1</sup> Angehörige nach Art. 16 Bst. c bis e haben ein Recht auf Mitwirkung bei der Organisation der Hochschule und bei der Gestaltung des Lehrbetriebs.
+<sup>1</sup> Angehörige nach Art. 16 Abs. 1 Bst. b<sup>bis</sup> sowie Bst. e dieses Erlasses haben ein Recht auf Mitwirkung bei der Organisation der Hochschule. Angehörige nach Art. 16 Abs. 2 Bst. a und c sowie nach Art. 16 Abs. 1 Bst. e dieses Erlasses haben ein Recht auf Mitwirkung bei der Gestaltung des Lehrbetriebs.
 
 #### Art. 21
 
@@ -247,13 +248,13 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Angehörige der Hochschule haben das Recht, über die Tätigkeit der Hochschule und ihrer Organe informiert zu werden.
 
-<sup>2</sup> Der Rektor entscheidet über die Art der Kenntnisgabe und die zu verwendenden Kommunikationsmittel.
+<sup>2</sup> Die Rektorin oder der Rektor entscheidet über die Art der Kenntnisgabe und die zu verwendenden Kommunikationsmittel.
 
 #### Art. 22
 
 **Vereinigungsrecht**
 
-<sup>1</sup> Vereinigungen von Hochschulangehörigen, die mit Namen oder Zweck auf die Hochschule Bezug nehmen, bedürfen der Zustimmung des Rektors.
+<sup>1</sup> Vereinigungen von Hochschulangehörigen, die mit Namen oder Zweck auf die Hochschule Bezug nehmen, bedürfen der Zustimmung der Rektorin oder des Rektors.
 
 <sup>2</sup> Statuten und Vorstand werden dem Rektorat bekannt gegeben.
 
@@ -287,9 +288,11 @@ als Statut:[^ingress-2]
 
 #### Art. 25
 
-**Titel der Dozierenden**
+**Titel einer Professorin oder eines Professors**
 
-<sup>1</sup> Hauptamtliche Dozierende erhalten den Titel «Professorin» bzw. «Professor» mit der Wahl.
+<sup>1</sup> …
+
+<sup>1<sup>bis</sup></sup> Der Hochschulrat regelt die Anforderungen für die Führung des Titels einer Professorin oder eines Professors. Er verleiht den Titel auf Antrag der Rektorin oder des Rektors.
 
 <sup>2</sup> Titel können durch den Hochschulrat aberkannt werden, wenn die Inhaberin oder der Inhaber des Titels Interessen oder Ansehen der Hochschule in schwerwiegender Weise gefährdet.
 
@@ -306,7 +309,7 @@ als Statut:[^ingress-2]
 <sup>1</sup> Teilnehmende an Lehrveranstaltungen sind:
 
 - a) immatrikulierte Studierende;
-- b) Gasthörerinnen und Gasthörer;
+- b) Gasthörerinnen und Gasthörer sowie Absolvierende von Ausgleichsmassnahmen;
 - c) Teilnehmende an Weiterbildungsveranstaltungen;
 - d) Besucherinnen und Besucher öffentlicher Lehrveranstaltungen.
 
@@ -331,7 +334,8 @@ als Statut:[^ingress-2]
 - a) den Austritt aus der Hochschule schriftlich erklären;
 - b) die Hochschule nach den Prüfungsreglementen verlassen müssen;
 - c) disziplinarisch vom Studienbetrieb ausgeschlossen werden;
-- d) dem Studium nicht mehr nachgehen.
+- d) dem Studium nicht mehr nachgehen;
+- e) den finanziellen Verpflichtungen nicht nachkommen.
 
 <sup>2</sup> Das Rektorat erlässt Vollzugsbestimmungen. Die Rektorin oder der Rektor entscheidet im Einzelfall.
 
@@ -345,13 +349,13 @@ als Statut:[^ingress-2]
 
 #### Art. 30
 
-**Prüfungen**
+**Leistungsüberprüfungen**
 
-<sup>1</sup> Prüfungen an der Hochschule kann absolvieren, wer immatrikuliert ist.
+<sup>1</sup> Leistungsüberprüfungen an der Hochschule kann absolvieren, wer immatrikuliert ist.
 
-<sup>2</sup> Ergebnisse der Aufnahme- und Zwischenprüfung werden von den die Prüfung durchführenden Dozierenden festgesetzt, von der Prüfungskonferenz erwahrt und vom zuständigen Prorektorat eröffnet.
+<sup>2</sup> Ergebnisse der Aufnahmeprüfungen sowie der Leistungsüberprüfungen werden von den für die Prüfung verantwortlichen Personen festgesetzt und von ihnen oder dem zuständigen Prorektorat eröffnet.
 
-<sup>3</sup> Disziplinarische Entscheide an schriftlichen Prüfungen trifft das zuständige Prorektorat, an mündlichen Prüfungen die durchführenden Dozierenden.
+<sup>3</sup> Disziplinarische Entscheide an schriftlichen Prüfungen trifft das zuständige Prorektorat, an mündlichen Prüfungen die für die Prüfung verantwortlichen Personen.
 
 <sup>4</sup> Die Studienordnung regelt die Einzelheiten.
 
@@ -359,15 +363,27 @@ als Statut:[^ingress-2]
 
 **…**
 
-### 3. Gasthörerinnen und Gasthörer
+### 3. Gasthörerinnen und Gasthörer sowie Absolvierende von Ausgleichsmassnahmen
 
 #### Art. 32
 
-**Grundsatz**
+**Gasthörerinnen und Gasthörer**
 
 <sup>1</sup> Das zuständige Prorektorat kann nicht immatrikulierte Personen zu einzelnen nicht-öffentlichen Lehrveranstaltungen als Gasthörerinnen und Gasthörer zulassen.
 
-<sup>2</sup> Gasthörerinnen und Gasthörer können keine Prüfungen ablegen.
+<sup>2</sup> …
+
+#### Art. 32a
+
+**Absolvierende von Ausgleichsmassnahmen**
+
+<sup>1</sup> Als Absolvierende oder Absolvierender von Ausgleichsmassnahmen gilt, wer für die Anerkennung eines Diploms oder zur Festlegung der Gleichwertigkeit eines Diploms bestimmte Studienleistungen zu erbringen hat.
+
+#### Art. 32b
+
+**Leistungsüberprüfungen**
+
+<sup>1</sup> Soweit Gasthörerinnen und Gasthörer oder Absolvierende von Ausgleichsmassnahmen an Leistungsüberprüfungen teilnehmen, wird Art. 30 dieses Erlasses sachgemäss angewendet.
 
 ### 4. Teilnehmende an Weiterbildungsveranstaltungen
 
@@ -423,20 +439,25 @@ als Statut:[^ingress-2]
 
 #### Art. 39
 
-**Zusammensetzung und Einberufung des Rektorats**
+**Zusammensetzung, Leitung, Einberufung und Entscheidungsfindung des Rektorats[^39-1]**
 
 <sup>1</sup> Dem Rektorat gehören an:
 
 - a) Rektorin oder Rektor;
 - b) Prorektorinnen und Prorektoren;
 - c) Verwaltungsdirektorin oder Verwaltungsdirektor;
-- d) zwei vom Konvent gewählte Vertreterinnen oder Vertreter.
+- d) eine Vertreterin oder ein Vertreter aus der Gruppe der Professorinnen und Professoren sowie der Dozierenden mit Schwerpunkt;
+- e) eine Vertreterin oder ein Vertreter aus der Gruppe der Dozierenden Stufe 2, Lehrbeauftragten, Mitarbeitenden Third Space, Specialists, wissenschaftlichen Mitarbeitenden sowie wissenschaftlichen Assistierenden;
+- f) eine Vertreterin oder ein Vertreter aus der Gruppe der Mitarbeitenden der Hochschulverwaltung und Administration;
+- g) eine Vertreterin oder ein Vertreter der immatrikulierten Studierenden.
 
-<sup>2</sup> Das Rektorat wird von der Rektorin oder vom Rektor geleitet. Die Rektorin oder der Rektor bestimmt die eigene Stellvertretung aus dem Kreis des Rektorats.
+<sup>2</sup> Das Rektorat wird von der Rektorin oder vom Rektor geleitet. Die Rektorin oder der Rektor bestimmt die eigene Stellvertretung aus dem Kreis der Prorektorinnen und Prorektoren.
 
-<sup>3</sup> Das Rektorat wird von der Rektorin oder vom Rektor oder auf Verlangen von wenigstens drei Mitgliedern des Rektorats einberufen. Die Rektorin oder der Rektor kann weitere Angehörige der Hochschule zu den Rektoratssitzungen beiziehen.
+<sup>3</sup> Das Rektorat wird von der Rektorin oder vom Rektor oder auf Verlangen von wenigstens vier Mitgliedern des Rektorats einberufen. Die Rektorin oder der Rektor kann weitere Angehörige der Hochschule beratend zu den Rektoratssitzungen beiziehen.
 
 <sup>4</sup> Das Rektorat strebt Einvernehmen bei der Entscheidfindung an. Wird dies nicht erreicht, entscheidet die Rektorin oder der Rektor.
+
+[^39-1]: Fassung von Art. 39 gemäss VIII. Nachtrag vom 15. September 2023, nGS 2023-089, in Vollzug ab 1. Februar 2024.
 
 #### Art. 40
 
@@ -444,19 +465,24 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Dem Rektorat obliegen insbesondere:
 
-- a) Umsetzung des allgemeinen und besonderen Leistungsauftrags;
+- a) Umsetzung des Leistungsauftrags;
 - b) strategische Planung für die Hochschule;
-- c) Koordination von Lehr- und Weiterbildungsveranstaltungen, Forschungs- und Entwicklungsprojekten sowie Dienstleistungen;
-- d) Koordination der individuellen Leistungsaufträge der Dozierenden und weiterer Angehöriger der Hochschule;
-- e) Koordination und Sicherstellung der internen und externen Kommunikation;
-- f) Koordination der Vertretung der Hochschule bei externen Veranstaltungen und Kongressen;
+- b<sup>bis</sup>) Verabschiedung der Leistungsvereinbarungen mit den Instituten, Zentren und Studiengängen;
+- b<sup>ter</sup>) Verabschiedung der Personalstrategie;
+- b<sup>quater</sup>) Wahl von Bereichs-, Fach-, Themen- und Fachstellenleitungen der Institute und Zentren;
+- b<sup>quinquies</sup>) Wahl der Mitarbeitenden mit Führungsfunktion in den Prorektoraten;
+- b<sup>sexies</sup>) Entscheid über die Einführung von neuen CAS- und DAS-Weiterbildungsstudiengängen;
+- c) Koordination von Lehrveranstaltungen, Forschungs- und Entwicklungsprojekten sowie Dienstleistungen;
+- d) …
+- e) …
+- f) …
 - g) Vorbereitung von Vorschriften über Studien- und Prüfungsbetrieb zuhanden des Hochschulrates und Erlass von weiteren den Studien- und Prüfungsbetrieb betreffenden allgemeinverbindlichen Vorschriften;
 - h) Erlass von Benützungsvorschriften für Räume, Anlagen und Einrichtungen sowie des Geländes der Hochschule;
 - i) Wahl von Angehörigen der Hochschule in Kommissionen ausserhalb der Hochschule;
-- j) Genehmigung von Gesuchen von Dozierenden für unbezahlten Urlaub bis zu einem Semester;
+- j) …
 - k) Erarbeitung und periodische Überprüfung der Umsetzung des Leitbilds der Hochschule;
 - l) Sicherstellung des Qualitätsmanagements;
-- m) Stellungnahme zum besonderen Leistungsauftrag und zu Budgetanträgen.
+- m) Stellungnahme zum Leistungsauftrag und zu Budgetanträgen.
 
 <sup>2</sup> Die Rektorin oder der Rektor kann dem Rektorat weitere Aufgaben übertragen.
 
@@ -486,14 +512,16 @@ als Statut:[^ingress-2]
 - h) Leitung der Strategieentwicklung der Hochschule und Erarbeitung der Entwicklungspläne zuhanden des Hochschulrates;
 - i) Vertretung der Hochschule nach aussen;
 - j) Förderung der Zusammenarbeit mit anderen Hochschulen im In- und Ausland;
-- k) Entscheid über Art und Umfang der individuellen Leistungsvereinbarung mit Dozierenden;
-- l) Delegation von Aufgaben im Zusammenhang mit Verpflichtungen in allen Leistungsaufträgen;
-- m) Urlaubsbewilligung von Dozierenden von bis zu zwei Monaten;
+- k) Genehmigung der individuellen Leistungsvereinbarungen mit Mitarbeitenden;
+- k<sup>bis</sup>) personelle Führung, Beurteilung und Förderung der Prorektorinnen und Prorektoren, der Verwaltungsdirektorin oder des Verwaltungsdirektors sowie der weiteren direkt unterstellten Mitarbeitenden;
+- k<sup>ter</sup>) Genehmigung von Gesuchen für unbezahlten Urlaub bis zu einem Semester und bezahlten Urlaub bis zu zwei Monaten;
+- l) …
+- m) …
 - n) Entscheid über die Gleichwertigkeit schweizerischer oder ausländischer Ausweise bei der Immatrikulation.
 
 <sup>3</sup> Die Rektorin oder der Rektor erfüllt im Übrigen alle Aufgaben, die nicht in den Verantwortungsbereich eines anderen Organs fallen.
 
-<sup>4</sup> Die Rektorin oder der Rektor kann einzelne ihr oder ihm zugewiesene Aufgaben und Befugnisse an Mitglieder des Rektorats delegieren und Dozierende zur Erfüllung von Aufgaben beiziehen.
+<sup>4</sup> Die Rektorin oder der Rektor kann einzelne ihr oder ihm zugewiesene Aufgaben und Befugnisse an Mitglieder des Rektorats delegieren und weitere Mitarbeitende zur Erfüllung von Aufgaben beiziehen.
 
 #### Art. 43
 
@@ -515,17 +543,19 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Die Prorektorin oder der Prorektor leitet den ihr oder ihm zugewiesenen Verantwortungsbereich. Ihr oder ihm obliegt insbesondere:
 
-- a) Weiterentwicklung der Studiengänge in Zusammenarbeit mit den Studienbereichsleitungen, den Dozierenden und Studierenden;
+- a) strategische Weiterentwicklung des Prorektorats Ausbildung;
+- a<sup>bis</sup>) Wahrnehmung von leistungsbereichsübergreifenden Schwerpunktthemen und Aufgaben;
 - b) Stärkung des Praxisbezugs durch aktive Förderung der Verbindung zwischen der fachlichen, der fachdidaktischen und der berufspraktischen Ausbildung;
-- c) Leitung der Prüfungskonferenzen;
-- d) Pensenplanung und Vorbereitung von Neuanstellungen in Absprache mit den Studienbereichsleitungen und den anderen Prorektoraten;
+- c) …
+- d) Pensenplanung und Vorbereitung von Neuanstellungen in Absprache mit den Studiengangsleitungen und den anderen Prorektoraten;
 - e) projektbezogene Zusammenarbeit mit den anderen Prorektoraten;
 - f) Erstellung des Jahresbudgets, der Jahresrechnung und des Jahresberichts im Verantwortungsbereich;
-- g) Verantwortung für die jährliche persönliche Zielvereinbarung der unterstellten Mitarbeitenden;
+- f<sup>bis</sup>) personelle Führung, Beurteilung und Förderung der direkt unterstellten Mitarbeitenden;
+- g) …
 - h) Sicherstellung des Qualitätsmanagements im Verantwortungsbereich;
 - i) Sicherstellung der Studienberatung für die Studiengänge im Verantwortungsbereich;
 - j) Kooperation mit den Vertretungen der Studierenden;
-- k) Organisation von kulturellen und gesellschaftlichen Aktivitäten und Repräsentation der Institution vor Ort.
+- k) Organisation von kulturellen und gesellschaftlichen Aktivitäten und Repräsentation der Institution.
 
 <sup>2</sup> Die Prorektorin oder der Prorektor kann einzelne ihm oder ihr zugewiesene Aufgaben und Befugnisse an Stabsmitarbeitende delegieren.
 
@@ -543,17 +573,20 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Die Prorektorin oder der Prorektor leitet den ihr oder ihm zugewiesenen Verantwortungsbereich. Ihr oder ihm obliegt insbesondere:
 
-- a) Ausarbeitung und Umsetzung der Strategie im Bereich Forschung und Entwicklung gemäss Leitbild und Entwicklungsplan;
-- b) Leitung der Konferenz der Leiterinnen und Leiter der dem Prorektorat unterstellten Institute;
+- a) strategische Weiterentwicklung des Prorektorats Forschung und Entwicklung;
+- a<sup>bis</sup>) Wahrnehmung von leistungsbereichsübergreifenden Schwerpunktthemen und Aufgaben;
+- b) …
 - c) …
 - d) …
 - e) …
-- f) projektbezogene Zusammenarbeit mit den anderen Prorektoraten und mit den Studienbereichsleitungen;
+- e<sup>bis</sup>) Pensenplanung und Vorbereitung von Neuanstellungen in Absprache mit den anderen Prorektoraten;
+- f) projektbezogene Zusammenarbeit mit den anderen Prorektoraten und mit den Studiengangsleitungen;
 - g) Erstellung des Jahresbudgets, der Jahresrechnung und des Jahresberichts im Verantwortungsbereich;
-- h) Verantwortung für die jährliche persönliche Zielvereinbarung der unterstellten Mitarbeitenden;
-- i) Rekrutierung, Förderung und Weiterqualifikation der wissenschaftlichen Mitarbeitenden und Assistierenden;
+- g<sup>bis</sup>) personelle Führung, Beurteilung und Förderung der direkt unterstellten Mitarbeitenden;
+- h) …
+- i) …
 - j) Sicherstellung des Qualitätsmanagements im Verantwortungsbereich;
-- k) Vertretung des Prorektorats gegen aussen;
+- k) …
 - l) Mitarbeit in Forschungsorganisationen und in Organisationen des Wissenstransfers.
 
 <sup>2</sup> Die Prorektorin oder der Prorektor kann einzelne ihr oder ihm zugewiesene Aufgaben und Befugnisse an Stabsmitarbeitende delegieren.
@@ -564,16 +597,19 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Die Prorektorin oder der Prorektor leitet den ihr oder ihm zugewiesenen Verantwortungsbereich. Ihr oder ihm obliegt insbesondere:
 
-- a) Ausarbeitung und Umsetzung der Strategie im Bereich Weiterbildung und Dienstleistungen gemäss Leitbild und Entwicklungsplan;
-- b) Leitung der Konferenz der Leiterinnen und Leiter der dem Prorektorat unterstellten Institute;
+- a) strategische Weiterentwicklung des Prorektorats Weiterbildung und Dienstleistungen;
+- a<sup>bis</sup>) Wahrnehmung von leistungsbereichsübergreifenden Schwerpunktthemen und Aufgaben;
+- b) …
 - c) Vorbereitung neuer Weiterbildungsangebote zuhanden des Rektorats;
-- d) Weiterentwicklung der akademischen Personalentwicklung;
-- e) Leitung der Regionalen Didaktischen Zentren (RDZ);
-- f) projektbezogene Zusammenarbeit mit den anderen Prorektoraten und mit den Studienbereichsleitungen;
+- d) …
+- e) …
+- f) projektbezogene Zusammenarbeit mit den anderen Prorektoraten und mit den Studiengangsleitungen;
 - g) Erstellung des Jahresbudgets, der Jahresrechnung und des Jahresberichts im Verantwortungsbereich;
-- h) Verantwortung für die jährliche persönliche Zielvereinbarung der unterstellten Mitarbeitenden;
+- g<sup>bis</sup>) personelle Führung, Beurteilung und Förderung der direkt unterstellten Mitarbeitenden;
+- g<sup>ter</sup>) Pensenplanung und Vorbereitung von Neuanstellungen in Absprache mit den anderen Prorektoraten;
+- h) …
 - i) Sicherstellung des Qualitätsmanagements im Verantwortungsbereich;
-- j) Vertretung des Prorektorats gegen aussen;
+- j) …
 - k) Mitarbeit in Organisationen der Weiterbildung und des Wissenstransfers.
 
 <sup>2</sup> Die Prorektorin oder der Prorektor kann einzelne ihr oder ihm zugewiesene Aufgaben und Befugnisse an Stabsmitarbeitende delegieren.
@@ -582,29 +618,11 @@ als Statut:[^ingress-2]
 
 #### Art. 48
 
-**Wahl**
-
-<sup>1</sup> Die Studienbereichsleiterinnen oder Studienbereichsleiter werden durch das Rektorat für eine Amtsdauer von vier Jahren gewählt. Die Dozierenden des Studienbereichs können Vorschläge einreichen. Die Wiederwahl ist möglich.
+**…**
 
 #### Art. 49
 
-**Aufgaben**
-
-<sup>1</sup> Die Studienbereichsleiterinnen oder Studienbereichsleiter leiten die in einem Studienbereich zusammengefassten Fachbereiche.
-
-<sup>2</sup> Der Studienbereichsleitung obliegt insbesondere:
-
-- a) Organisation und Leitung der Studienbereichskonferenz;
-- b) wissenschaftliche und didaktische Weiterentwicklung der Fachbereiche;
-- c) Entwicklung von Angeboten und Projekten in den Leistungsbereichen Lehre, Weiterbildung, Forschung, Entwicklung und Dienstleistungen in Kooperation mit den Prorektorinnen oder Prorektoren;
-- d) Sicherstellung des Qualitätsmanagements im Studienbereich;
-- e) Mitwirkung bei der Personalauswahl und -entwicklung;
-- f) Kooperation mit den Prorektoraten;
-- g) Kooperation mit den Verantwortlichen der Berufspraktischen Ausbildung;
-- h) …
-- i) Organisation von Foren, Tagungen und Kongressen.
-
-<sup>3</sup> Die Studienbereiche organisieren sich selbst.
+**…**
 
 ### 5. Konvent
 
@@ -615,23 +633,27 @@ als Statut:[^ingress-2]
 <sup>1</sup> Dem Konvent gehören an:
 
 - a) Rektorin oder Rektor;
-- b) hauptamtliche Dozierende;
-- c) nebenamtliche Dozierende mit unbefristetem Lehrauftrag;
-- d) zwei Vertreterinnen oder Vertreter der nebenamtlichen Dozierenden mit befristetem Lehrauftrag;
-- e) zwei Vertreterinnen oder Vertreter des Mittelbaus;
-- f) zwei Vertreterinnen oder Vertreter der Praktikumslehrpersonen;
+- a<sup>bis</sup>) akademische Mitarbeitende;
+- a<sup>ter</sup>) Mitarbeitende der Hochschulverwaltung und Administration;
+- b) …
+- c) …
+- d) …
+- e) wissenschaftliche Assistierende und Praxislehrpersonen;
+- f) vier Vertreterinnen oder Vertreter der Praktikumslehrpersonen;
 - g) vier Vertreterinnen oder Vertreter der immatrikulierten Studierenden.
 
-<sup>2</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor nimmt mit beratender Stimme am Konvent teil.
+<sup>1<sup>bis</sup></sup> Das Rektorat regelt die Wahl der Vertretungen nach Abs. 1 Bst. f dieser Bestimmung.
 
-<sup>3</sup> Alle nebenamtlichen Dozierenden mit befristetem Lehrauftrag sind mit beratender Stimme zur Teilnahme am Konvent berechtigt.
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 <sup>4</sup> Die Rektorin oder der Rektor, bei Verhinderung ein von ihr oder ihm bezeichnetes Mitglied des Rektorats mit Ausnahme der Konventsvertretung, führt den Vorsitz.
 
 <sup>5</sup> Der Konvent wird einberufen:
 
 - a) von der Rektorin oder vom Rektor;
-- b) auf Antrag von wenigstens 20 Konventsmitgliedern.
+- b) auf Antrag von wenigstens 60 Konventsmitgliedern.
 
 #### Art. 51
 
@@ -642,10 +664,12 @@ als Statut:[^ingress-2]
 - a) Stellungnahme zu Erlassentwürfen;
 - b) Bestellung von Kommissionen;
 - c) Möglichkeit der Beteiligung der Konventsvertretung an der Vorbereitung der Wahl der Rektorin oder des Rektors sowie der Prorektorinnen oder Prorektoren;
-- c<sup>bis</sup>) Möglichkeit zur Unterbreitung von Vorschlägen zur Wahl der Vertretung der Dozierenden in der Rekurs- und der Disziplinarkommission;
+- c<sup>bis</sup>) Möglichkeit zur Unterbreitung von Vorschlägen zur Wahl der Vertretung in der Rekurskommission nach Art. 53 Abs. 1 Bst. b dieses Erlasses und in der Disziplinarkommission nach Art. 66 Abs. 2 Bst. b und c dieses Erlasses;
 - d) Mitsprache bei der Erarbeitung des Leitbilds und der Umsetzungsmassnahmen;
-- e) Stellungnahme zu Studienordnung und Studienplänen;
-- f) Wahl einer Vertretung des Konvents im Rektorat auf die Amtsdauer von zwei Jahren mit der Möglichkeit der Wiederwahl.
+- e) Stellungnahme zu Studienplänen;
+- f) …
+
+<sup>1<sup>bis</sup></sup> Die jeweilige Personalgruppe im Konvent wählt ihre jeweilige Vertreterin oder ihren jeweiligen Vertreter nach Art. 39 Abs. 1 Bst. d bis f dieses Erlasses auf die Amtsdauer von zwei Jahren mit der Möglichkeit der Wiederwahl. Der Konvent regelt das Verfahren.
 
 <sup>2</sup> Der Konvent hat die Möglichkeit, in allen schulischen Belangen Anträge an das Rektorat und/oder den Hochschulrat zu stellen.
 
@@ -664,15 +688,15 @@ als Statut:[^ingress-2]
 <sup>1</sup> Der Rekurskommission gehören an:
 
 - a) Präsidentin oder Präsident;
-- b) drei hauptamtliche Dozierende;
+- b) drei Angehörige der Professorinnen, Professoren oder Dozierenden;
 - c) eine Angehörige oder ein Angehöriger der Studentenschaft.
 
-<sup>2</sup> Die Rekurskommission wird durch den Hochschulrat gewählt. Für jedes Mitglied wird wenigstens je ein Ersatzmitglied bestimmt. Sie entscheidet stets in ordentlicher Besetzung. Sie entscheidet in erster Instanz Rekurse gegen Verfügungen, die sich auf Studien- und Prüfungsvorschriften stützen[^53-1]. Das Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege vom 16. Mai 1965[^53-2].
+<sup>2</sup> Die Rekurskommission wird durch den Hochschulrat gewählt. Für jedes Mitglied wird wenigstens je ein Ersatzmitglied bestimmt. Die Rekurskommission entscheidet stets in ordentlicher Besetzung. Sie entscheidet in erster Instanz über Rekurse gegen Verfügungen, die sich auf Studien- und Prüfungsvorschriften stützen[^53-1]. Das Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege vom 16. Mai 1965[^53-2].
 
 [^53-1]: Art. [27](https://www.gesetzessammlung.sg.ch/data/216.0/de/art27.) GPHSG, sGS [216.0](https://www.gesetzessammlung.sg.ch/data/216.0/de).
-[^53-2]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de)
+[^53-2]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
 
-### C. Verwaltungsdirektion
+### C. Verwaltungsdirektorin oder Verwaltungsdirektor
 
 #### Art. 54
 
@@ -688,31 +712,25 @@ als Statut:[^ingress-2]
 
 <sup>2</sup> Ihr oder ihm obliegt insbesondere:
 
-- a) Führung der Bereiche Finanzen und Controlling, Personalwesen, Marketing und Kommunikation, Corporate Services, Informatik sowie Logistik und Infrastruktur;
+- a) Führung der Verwaltungsressorts;
 - b) Erarbeitung der Finanzpläne zuhanden des Hochschulrates;
-- c) Vorbereitung des besonderen Leistungsauftrages zuhanden des Hochschulrates;
-- d) Vorbereitung von Voranschlag, Rechnung und Geschäftsbericht zuhanden des Hochschulrates;
-- e) Verantwortung für die jährliche persönliche Zielvereinbarung der unterstellten Mitarbeitenden;
-- f) Sicherstellung des Controllings der Hochschule;
-- g) Koordination des Auftretens der Hochschule in der Öffentlichkeit;
+- c) Vorbereitung des Leistungsauftrages zuhanden des Hochschulrates;
+- d) Vorbereitung von Voranschlag, Jahresrechnung und Geschäftsbericht zuhanden des Hochschulrates;
+- d<sup>bis</sup>) personelle Führung, Beurteilung und Förderung der direkt unterstellten Mitarbeitenden;
+- e) …
+- f) Sicherstellung des Finanzcontrollings der Hochschule;
+- g) …
 - h) Erarbeitung von konzeptionellen Fragen zuhanden der Rektorin oder des Rektors sowie der übergeordneten Hochschulbehörden;
-- i) Gewährleistung eines reibungslosen Lehr-, Forschungs- und Weiterbildungsbetriebs;
-- j) Wahl des übrigen Personals im Einvernehmen mit den zuständigen Mitgliedern des Rektorats.
+- i) Gewährleistung von Verwaltungsdienstleistungen zugunsten des Hochschulbetriebs;
+- i<sup>bis</sup>) Verantwortung für die Begründung, Änderung und Beendigung des Anstellungsverhältnisses der Mitarbeitenden der Verwaltung und Administration;
+- j) …
+- j<sup>bis</sup>) Sicherstellung des Qualitätsmanagements im Verantwortungsbereich.
 
 ### D. Dozentenschaft
 
 #### Art. 56
 
-**Angehörige**
-
-<sup>1</sup> Der Dozentenschaft gehören an:
-
-- a) hauptamtliche Dozierende;
-- b) nebenamtliche Dozierende mit unbefristetem oder befristetem Lehrauftrag.
-
-<sup>2</sup> Die Mitglieder der Dozentenschaft gehören einem Studienbereich an. Über die Zugehörigkeit zu mehreren Studienbereichen sowie in Zweifelsfällen entscheidet das Rektorat.
-
-<sup>3</sup> Neben ihrer Tätigkeit in Lehre und Forschung erfüllen die Mitglieder der Dozentenschaft weitere Aufgaben zugunsten der Hochschule. Sie wirken in der Selbstverwaltung mit.
+**…**
 
 #### Art. 56a
 
@@ -720,28 +738,17 @@ als Statut:[^ingress-2]
 
 #### Art. 57
 
-**Mitwirkung**
-
-<sup>1</sup> Hauptamtliche Dozierende und nebenamtliche Dozierende mit unbefristetem Lehrauftrag gehören dem Konvent an.
-
-<sup>2</sup> Nebenamtliche Dozierende mit befristetem Lehrauftrag sind mit zwei Mitgliedern im Konvent vertreten. Sie unterbreiten dem Rektorat einen Wahlvorschlag.
+**…**
 
 ### E. Mittelbau
 
 #### Art. 58
 
-**Angehörige**
-
-<sup>1</sup> Dem Mittelbau gehören an:
-
-- a) wissenschaftliche Mitarbeitende und Assistierende der Hochschule, die nicht immatrikuliert sind;
-- b) weitere Mitarbeitende in Leistungsbereichen der Hochschule.
+**…**
 
 #### Art. 59
 
-**Mitwirkung**
-
-<sup>1</sup> Der Mittelbau ist mit zwei Mitgliedern im Konvent vertreten. Er unterbreitet dem Rektorat einen Wahlvorschlag.
+**…**
 
 ### F. Organisation der Studierenden
 
@@ -802,8 +809,8 @@ als Statut:[^ingress-2]
 <sup>2</sup> Der Disziplinarkommission gehören an:
 
 - a) eine Präsidentin oder ein Präsident, die oder der weder zur Hochschule in einem Dienstverhältnis steht, noch immatrikuliert ist;
-- b) zwei hauptamtliche Dozierende;
-- c) eine Angehörige oder ein Angehöriger der nebenamtlichen Dozierenden oder der wissenschaftlichen Mitarbeitenden;
+- b) zwei Angehörige der Professorinnen, Professoren oder Dozierenden;
+- c) eine Angehörige oder ein Angehöriger der Lehrbeauftragten, Mitarbeitenden Third Space, Specialists oder wissenschaftlichen Mitarbeitenden;
 - d) eine Angehörige oder ein Angehöriger der Studentenschaft.
 
 <sup>3</sup> Die Disziplinarkommission wird durch den Hochschulrat gewählt. Für jedes Mitglied wird wenigstens je ein Ersatzmitglied bestimmt. Sie entscheidet stets in ordentlicher Besetzung.
@@ -818,7 +825,8 @@ als Statut:[^ingress-2]
 
 - a) Behinderung von Personen an der Erfüllung ihrer Aufgaben an der Hochschule;
 - b) Stören von Veranstaltungen an der Hochschule;
-- c) Unehrlichkeit an Prüfungen.
+- c) Unredlichkeit bei Leistungsüberprüfungen;
+- d) Verstösse gegen die Regeln guter wissenschaftlicher Praxis.
 
 #### Art. 68
 
@@ -879,6 +887,12 @@ als Statut:[^ingress-2]
 <sup>1</sup> Das Statut der Pädagogischen Hochschule Rorschach vom 17. Dezember 2003[^73-1] wird aufgehoben.
 
 [^73-1]: nGS 39–56 (sGS 216.15).
+
+#### Art. 73bis
+
+**Übergangsbestimmung des VIII. Nachtrags vom 15. September 2023**
+
+<sup>1</sup> Wer am 31. August 2023 zur Führung eines altrechtlich verliehenen Titels als Professorin oder Professor nach Art. 25 Abs. 1 dieses Erlasses in der Fassung vor Vollzugsbeginn dieses Nachtrags berechtigt war, kann diesen während der Dauer der Anstellung weiterführen. Art. 25 Abs. 2 dieses Erlasses bleibt vorbehalten.
 
 #### Art. 74
 
