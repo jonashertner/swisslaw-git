@@ -4,11 +4,11 @@ title: Ordinanza del 3 dicembre 1973 concernente le tasse di bollo (OTB)
 short: OTB
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/33_33_33"
 language: it
-version: 2020-01-01
+version: 2023-09-01
 adopted: 1973-12-03
 in_force: 1974-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/33_33_33/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1974-33_33_33-20200101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/33_33_33/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1974-33_33_33-20230901-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/20200101/it"
 
 (OTB)
 
-del 3 dicembre 1973 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 3 dicembre 1973 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 22 lettera a nonché 54 della legge federale del 27 giugno 1973[^ingress-1] sulle tasse di bollo (legge);[^ingress-2]
+visti gli articoli 22 lettera a e 54 della legge federale del 27 giugno 1973[^ingress-1] sulle tasse di bollo (LTB),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 9 mar. 1998, in vigore dal 1° apr. 1998 ([RU 1998 961](https://fedlex.data.admin.ch/eli/oc/1998/961_961_961)).
+[^ingress-2]: Nuovo testo giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ## 1 Disposizioni generali
 
@@ -34,11 +34,12 @@ ordina:
 
 **Amministrazione federale delle contribuzioni**
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni emana le istruzioni generali e prende le decisioni particolari necessarie per la riscossione delle tasse di bollo; essa determina la forma e il contenuto dei moduli di dichiarazione come contribuente nonché dei rendiconti, delle dichiarazioni d’imposta, dei registri e dei questionari.
+<sup>1</sup> L’Amministrazione federale delle contribuzioni (AFC) emana le istruzioni generali e prende le decisioni particolari necessarie per la riscossione delle tasse di bollo; essa determina la forma e il contenuto dei moduli di dichiarazione come contribuente nonché dei rendiconti, delle dichiarazioni d’imposta, dei registri e dei questionari.[^1-1]
 
-<sup>2</sup> È autorizzata a ricorrere davanti al Tribunale federale.[^1-1]
+<sup>2</sup> È autorizzata a ricorrere davanti al Tribunale federale.[^1-2]
 
-[^1-1]: Introdotto dal n. II 44 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^1-1]: Nuovo testo giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^1-2]: Introdotto dal n. II 44 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 2
 
@@ -48,36 +49,41 @@ ordina:
 
 <sup>2</sup> Se il contribuente tiene e conserva la sua contabilità con mezzi elettronici o con mezzi simili, tutte le operazioni e le cifre essenziali dal punto di vista fiscale devono essere garantite dal giustificativo originale fino al conto annuale e al rendiconto d’imposta.
 
-<sup>3</sup> La contabilità deve essere conservata con cura e ordine e al riparo da effetti dannosi. L’Amministrazione federale delle contribuzioni deve poterla consultare e controllare entro un termine adeguato.
+<sup>3</sup> La contabilità deve essere conservata con cura e ordine e al riparo da effetti dannosi. L’AFC[^2-3] deve poterla consultare e controllare entro un termine adeguato.
 
-<sup>4</sup> Il contribuente deve mettere gratuitamente a disposizione dell’Amministrazione federale delle contribuzioni il personale, gli apparecchi e gli strumenti ausiliari necessari al controllo della contabilità. Su domanda dell’Amministrazione federale delle contribuzioni, il contribuente deve mettere a disposizione i documenti commerciali, totalmente o in parte, stampati su carta.
+<sup>4</sup> Il contribuente deve mettere gratuitamente a disposizione dell’AFC il personale, gli apparecchi e gli strumenti ausiliari necessari al controllo della contabilità. Su domanda dell’AFC, il contribuente deve mettere a disposizione i documenti commerciali, totalmente o in parte, stampati su carta.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 24 mag. 2006, in vigore dal 1° lug. 2006 ([RU 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
 [^2-2]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^2-3]: Nuova espressione giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)). Di detta mod. è tenuto conto in tutto il testo.
 
 #### Art. 3
 
-**Informazioni; perizie di esperti; audizione**
+**Informazioni; perizie di esperti; audizione**[^3-1]
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni può chiedere informazioni scritte od orali, designare esperti e convocare il contribuente per un’audizione.
+<sup>1</sup> L’AFC può chiedere informazioni scritte od orali, designare esperti e convocare il contribuente per un’audizione.
 
-<sup>2</sup> Se appare opportuno, le informazioni sono da verbalizzare in presenza della persona ascoltata; il processo verbale dev’essere firmato da quest’ultima e dal funzionario inquirente e, se del caso, dal verbalizzatore.
+<sup>2</sup> Se appare opportuno, le informazioni sono da verbalizzare in presenza della persona ascoltata; il processo verbale deve essere firmato da quest’ultima e dalla persona inquirente e, se del caso, dal verbalizzatore.
 
-<sup>3</sup> Prima di ogni audizione ai sensi del capoverso 2, la persona da ascoltare dev’essere invitata a dire la verità e resa attenta sulle conseguenze di informazioni inesatte (art. 46 cpv. 1 lett. *c* L).
+<sup>3</sup> Prima di ogni audizione, la persona da ascoltare deve essere esortata a dire la verità e resa attenta sulle conseguenze che implica il fatto di fornire informazioni inesatte (art. 46 cpv. 1 lett. c LTB).
+
+[^3-1]: Nuovo testo giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 #### Art. 4
 
 **Verifica contabile**
 
-<sup>1</sup> Il contribuente può, e su domanda deve, assistere alla verifica contabile (art. 37 cpv. 2 L) e fornire le spiegazioni necessarie.
+<sup>1</sup> Il contribuente può, e su domanda deve, assistere alla verifica contabile (art. 37 cpv. 2 LTB[^4-1]) e fornire le spiegazioni necessarie.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni non è tenuta a preannunciare la verifica contabile.
+<sup>2</sup> L’AFC non è tenuta a preannunciare la verifica contabile.
+
+[^4-1]: Nuova espressione giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 5
 
 **Esecuzione forzata**
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni è competente a promuovere esecuzioni per riscuotere i crediti della Confederazione relativi a tasse di bollo, interessi, spese e multe, a insinuare detti crediti in un fallimento, a chiedere il rigetto dell’opposizione e a prendere tutti gli altri provvedimenti necessari per garantire e riscuotere il credito.
+<sup>1</sup> L’AFC è competente a promuovere esecuzioni per riscuotere i crediti della Confederazione relativi a tasse di bollo, interessi, spese e multe, a insinuare detti crediti in un fallimento, a chiedere il rigetto dell’opposizione e a prendere tutti gli altri provvedimenti necessari per garantire e riscuotere il credito.
 
 <sup>2</sup> È riservata la competenza dell’Amministrazione federale delle finanze a custodire gli attestati di carenza di beni e a far valere il credito constatato in un attestato di carenza di beni.
 
@@ -85,43 +91,47 @@ ordina:
 
 **Prestazione di garanzie**
 
-<sup>1</sup> Le garanzie richieste secondo l’articolo 43 della legge devono essere prestate mediante garanzie reali, fideiussioni, garanzie personali o assicurazioni di fideiussioni, conformemente all’ordinanza del 21 giugno 1957[^6-1] concernente la costituzione di garanzie a favore della Confederazione.
+<sup>1</sup> Le garanzie richieste secondo l’articolo 43 LTB devono essere prestate conformemente all’articolo 49 dell’ordinanza del 5 aprile 2006[^6-1] sulle finanze della Confederazione.[^6-2]
 
 <sup>2</sup> Una garanzia prestata dev’essere liberata non appena le tasse, gli interessi e le spese che essa garantisce sono stati pagati, oppure se il motivo della garanzia cessa di esistere.
 
-<sup>3</sup> …[^6-2]
+<sup>3</sup> …[^6-3]
 
-[^6-1]: [[RU 1957 527](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527), [1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373). [RU 1986 154](https://fedlex.data.admin.ch/eli/oc/1986/154_154_154)art. 51 n. 3]. Ora: conformemente all’art. 49 dell’O del 5 apr. 2006 sulle finanze della Confederazione ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
-[^6-2]: Abrogato dal n. 13 dell’all. n. 3 dell’O del 3 feb. 1993 concernente l’organizzazione e la procedura delle comissioni federali di ricorso e di arbitrato, con effetto dal 1° mar. 1993 ([RU 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
+[^6-1]: RS **611****.****01**
+[^6-2]: Nuovo testo giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^6-3]: Abrogato dall’all. 3 n. 13 dell’O del 3 feb. 1993 concernente l’organizzazione e la procedura delle comissioni federali di ricorso e di arbitrato, con effetto dal 1° mar. 1993 ([RU 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
 
 #### Art. 7
 
 **Cancellazione nel registro di commercio**
 
-<sup>1</sup> Una società anonima, società in accomandita per azioni, società a garanzia limitata o società cooperativa, può essere cancellata nel registro di commercio soltanto se l’Amministrazione federale delle contribuzioni ha comunicato all’Ufficio cantonale del registro di commercio che le tasse di bollo dovute sono state pagate.
+<sup>1</sup> Una società anonima, società in accomandita per azioni, società a garanzia limitata o società cooperativa, può essere cancellata nel registro di commercio soltanto se l’AFCha comunicato all’Ufficio cantonale del registro di commercio che le tasse di bollo dovute sono state pagate.
 
-<sup>2</sup> Il capoverso 1 è applicabile alla cancellazione di un altro ente giuridico di cui all’articolo 2 lettera a dell’ordinanza del 17 ottobre 2007[^7-1] sul registro di commercio, se l’Amministrazione federale delle contribuzioni ha comunicato all’Ufficio cantonale del registro di commercio che l’ente giuridico è diventato contribuente in virtù della legge.[^7-2]
+<sup>2</sup> Il capoverso 1 è applicabile alla cancellazione di un altro ente giuridico di cui all’articolo 2 lettera a dell’ordinanza del 17 ottobre 2007[^7-1] sul registro di commercio, se l’AFC ha comunicato all’Ufficio cantonale del registro di commercio che l’ente giuridico è diventato contribuente in virtù della LTB[^7-2].[^7-3]
 
 [^7-1]: [RS 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
-[^7-2]: Nuovo testo giusta il n. I 1 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^7-2]: Nuova espressione giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^7-3]: Nuovo testo giusta il n. I 1 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 
 #### Art. 8
 
-**Rimborso di tasse non dovute**
+**Rimborso di tasse non dovute**[^8-1]
 
-<sup>1</sup> Le tasse e gli interessi pagati, che non sono stati fissati con decisione dell’Amministrazione federale delle contribuzioni, sono rimborsati non appena stabilito che non erano dovuti.
+<sup>1</sup> Le tasse e gli interessi pagati che non sono stati fissati con decisione dell’AFC sono restituiti non appena stabilito che non erano dovuti.
 
-<sup>2</sup> Se una tassa non dovuta è stata trasferita, il rimborso è accordato soltanto se si stabilisce che la persona alla quale la tassa è stata trasferita sarà la beneficiaria del rimborso.
+<sup>2</sup> Se una tassa non dovuta è stata trasferita, la restituzione è accordata soltanto se si stabilisce che la persona alla quale la tassa è stata trasferita sarà la beneficiaria della restituzione.
 
-<sup>3</sup> Se il richiedente adduce fatti dai quali risulta che era dovuta un’altra imposta federale, anche se questa nel frattempo si è prescritta, il rimborso è accordato soltanto per l’importo eccedente tale imposta.
+<sup>3</sup> Se il richiedente adduce fatti dai quali risulta che era dovuta un’altra imposta federale, anche se questa nel frattempo si è prescritta, la restituzione è accordata soltanto per l’importo eccedente tale imposta.
 
-<sup>4</sup> Il diritto al rimborso si prescrive cinque anni dopo la fine dell’anno civile nel quale è stato fatto il pagamento.
+<sup>4</sup> Il diritto alla restituzione si prescrive cinque anni dopo la fine dell’anno civile nel quale è stato fatto il pagamento.
 
-<sup>5</sup> Le disposizioni della legge e dell’ordinanza relative alla riscossione delle tasse sono applicabili per analogia; se il richiedente non soddisfa ai suoi obblighi di fornire informazioni, e se il diritto al rimborso non può essere determinato mancando le informazioni chieste dall’Amministrazione federale delle contribuzioni, la richiesta è allora respinta.
+<sup>5</sup> Le disposizioni della LTB e della presente ordinanza relative alla riscossione delle tasse sono applicabili per analogia; se il richiedente non soddisfa i suoi obblighi di fornire informazioni, e se il diritto alla restituzione non può essere determinato mancando le informazioni chieste dall’AFC, la richiesta è allora respinta.
+
+[^8-1]: Nuovo testo giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ## 2 Tassa di bollo d’emissione
 
-### 21 Tassa sulle azioni, sui buoni di partecipazione e sulle quote sociali di società a garanzia limitata****
+### 21 Tassa sulle azioni, sui buoni di partecipazione e sulle quote sociali di società a garanzia limitata
 
 [^lvl2-lvl21-1]
 
@@ -131,13 +141,13 @@ ordina:
 
 **Creazioni di diritti di partecipazione e aumento del loro valore nominale**
 
-<sup>1</sup> Se la creazione o l’aumento del valore nominale, a titolo oneroso o gratuito, di azioni, buoni di partecipazione o quote sociali di una società anonima, di una società in accomandita per azioni o di una società a garanzia limitata svizzera è oggetto di notifica all’Ufficio cantonale del registro di commercio, la società è tenuta a pagare spontaneamente la tassa all’Amministrazione federale delle contribuzioni, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla scadenza del trimestre nel corso del quale sono stati emessi i diritti di partecipazione.[^9-1]
+<sup>1</sup> Se la creazione o l’aumento del valore nominale, a titolo oneroso o gratuito, di azioni, buoni di partecipazione o quote sociali di una società anonima, di una società in accomandita per azioni o di una società a garanzia limitata svizzera è oggetto di notifica all’Ufficio cantonale del registro di commercio, la società è tenuta a pagare spontaneamente la tassa all’AFC, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla scadenza del trimestre nel corso del quale sono stati emessi i diritti di partecipazione.[^9-1]
 
 <sup>2</sup> Al rendiconto vanno allegati l’atto pubblico della creazione o dell’aumento del capitale, una copia firmata dello statuto o del processo verbale dell’assemblea generale relativo alla modificazione dello statuto, la deliberazione del consiglio d’amministrazione relativa all’aumento autorizzato del capitale, il programma d’emissione e, nei casi di conferimenti in natura, il contratto di conferimento, il bilancio di apertura e un’attestazione su modulo ufficiale del valore venale dei conferimenti nonché l’attestazione di verifica del revisore.[^9-2]
 
 <sup>3</sup> …[^9-3]
 
-<sup>4</sup> Ogni società anonima, società in accomandita per azioni o società a garanzia limitata svizzera deve inoltrare spontaneamente all’Amministrazione federale delle contribuzioni, nel termine di 30 giorni dall’approvazione del conto annuale, la relazione sulla gestione o una copia firmata del conto annuale (bilancio e conto dei profitti e delle perdite), se la somma di bilancio ammonta a oltre cinque milioni di franchi. Negli altri casi i documenti vanno presentati su richiesta dell’Amministrazione federale delle contribuzioni.[^9-4]
+<sup>4</sup> Ogni società anonima, società in accomandita per azioni o società a garanzia limitata svizzera deve inoltrare spontaneamente all’AFC, nel termine di 30 giorni dall’approvazione del conto annuale, la relazione sulla gestione o una copia firmata del conto annuale (bilancio e conto dei profitti e delle perdite), se la somma di bilancio ammonta a oltre cinque milioni di franchi. Negli altri casi i documenti vanno presentati su richiesta dell’AFC.[^9-4]
 
 <sup>5</sup> …[^9-5]
 
@@ -153,10 +163,10 @@ ordina:
 
 <sup>1</sup>
 
-Ogni società anonima, società in accomandita per azioni o società a garanzia limitata svizzera deve pagare spontaneamente la tassa all’Amministrazione federale delle contribuzioni, sulla base del rendiconto, nel termine di 30 giorni se:
+Ogni società anonima, società in accomandita per azioni o società a garanzia limitata svizzera deve pagare spontaneamente la tassa all’AFC, sulla base del rendiconto, nel termine di 30 giorni se:
 
-- a. riceve versamenti suppletivi ai sensi dell’articolo 5 capoverso 2 lettera a della legge dai suoi azionisti o soci;
-- b. la maggioranza dei suoi diritti di partecipazione è stata trasferita alle condizioni poste dall’articolo 5 capoverso 2 lettera b della legge.[^10-1]
+- a. riceve versamenti suppletivi ai sensi dell’articolo 5 capoverso 2 lettera a LTB dai suoi azionisti o soci;
+- b. la maggioranza dei suoi diritti di partecipazione è stata trasferita alle condizioni poste dall’articolo 5 capoverso 2 lettera b LTB.[^10-1]
 
 <sup>1bis</sup>
 
@@ -176,16 +186,16 @@ Il termine di 30 giorni decorre dalla scadenza del trimestre:
 
 [^11-1]
 
-<sup>1</sup> Ogni società anonima, società in accomandita per azioni o società a garanzia limitata svizzera, che delibera la creazione di buoni di godimento, è tenuta a inoltrare spontaneamente all’Amministrazione federale delle contribuzioni, nel termine di 30 giorni, una copia firmata delle deliberazioni.
+<sup>1</sup> Ogni società anonima, società in accomandita per azioni o società a garanzia limitata svizzera, che delibera la creazione di buoni di godimento, è tenuta a inoltrare spontaneamente all’AFC, nel termine di 30 giorni, una copia firmata delle deliberazioni.
 
-<sup>2</sup> La tassa sui buoni di godimento dev’essere pagata spontaneamente all’Amministrazione federale delle contribuzioni, sulla base di un rendiconto su modulo ufficiale, entro 30 giorni dalla scadenza di ogni trimestre per i buoni di godimento emessi in questo periodo.[^11-2]
+<sup>2</sup> La tassa sui buoni di godimento dev’essere pagata spontaneamente all’AFC, sulla base di un rendiconto su modulo ufficiale, entro 30 giorni dalla scadenza di ogni trimestre per i buoni di godimento emessi in questo periodo.[^11-2]
 
 <sup>3</sup> Al rendiconto vanno allegate le deliberazioni relative all’emissione di buoni di godimento e il programma di emissione.
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 1992, in vigore dal 1° apr. 1993 ([RU 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
 [^11-2]: Nuovo testo giusta l’all. 1 n. II 4 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### 23 Tassa sulle quote sociali e sui buoni di godimento di società cooperative nonché sui buoni di partecipazione di banche cooperative****
+### 23 Tassa sulle quote sociali e sui buoni di godimento di società cooperative nonché sui buoni di partecipazione di banche cooperative
 
 [^lvl2-lvl23-1]
 
@@ -193,15 +203,15 @@ Il termine di 30 giorni decorre dalla scadenza del trimestre:
 
 #### Art. 12
 
-<sup>1</sup> Ogni società cooperativa svizzera, il cui statuto preveda prestazioni pecuniarie da parte dei soci o la costituzione di un capitale mediante quote sociali o la creazione di buoni di godimento, è tenuta a notificarsi spontaneamente e senza indugio all’Amministrazione federale delle contribuzioni non appena si è iscritta nel registro di commercio o non appena ha adottato tali disposizioni nello statuto; alla notificazione devesi allegare una copia firmata dello statuto vigente.
+<sup>1</sup> Ogni società cooperativa svizzera, il cui statuto preveda prestazioni pecuniarie da parte dei soci o la costituzione di un capitale mediante quote sociali o la creazione di buoni di godimento, è tenuta a notificarsi spontaneamente e senza indugio all’AFC i non appena si è iscritta nel registro di commercio o non appena ha adottato tali disposizioni nello statuto; alla notificazione devesi allegare una copia firmata dello statuto vigente.
 
-<sup>1bis</sup> La società cooperativa è tenuta a pagare spontaneamente la tassa all’Amministrazione federale delle contribuzioni, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla chiusura dell’esercizio.[^12-1]
+<sup>1bis</sup> La società cooperativa è tenuta a pagare spontaneamente la tassa all’AFC sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla chiusura dell’esercizio.[^12-1]
 
-<sup>2</sup> La società cooperativa deve inoltrare spontaneamente all’Amministrazione federale delle contribuzioni, nel termine di 30 giorni dall’approvazione del conto annuale, la relazione sulla gestione o una copia firmata del conto annuale (bilancio e conto dei profitti e delle perdite), se la somma di bilancio ammonta a oltre cinque milioni di franchi. Negli altri casi i documenti vanno presentati su richiesta dell’Amministrazione federale delle contribuzioni.[^12-2]
+<sup>2</sup> La società cooperativa deve inoltrare spontaneamente all’AFC, nel termine di 30 giorni dall’approvazione del conto annuale, la relazione sulla gestione o una copia firmata del conto annuale (bilancio e conto dei profitti e delle perdite), se la somma di bilancio ammonta a oltre cinque milioni di franchi. Negli altri casi i documenti vanno presentati su richiesta dell’AFC.[^12-2]
 
-<sup>2bis</sup> Le banche cooperative i cui statuti prevedono la raccolta di capitale di partecipazione sono tenute a pagare spontaneamente la tassa sui buoni di godimento all’Amministrazione federale delle contribuzioni, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla scadenza del trimestre in cui la costituzione o l’aumento del capitale di partecipazione sono stati iscritti nel registro di commercio. Per il resto si applicano i capoversi 1 e 2.[^12-3]
+<sup>2bis</sup> Le banche cooperative i cui statuti prevedono la raccolta di capitale di partecipazione sono tenute a pagare spontaneamente la tassa sui buoni di godimento all’AFC, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla scadenza del trimestre in cui la costituzione o l’aumento del capitale di partecipazione sono stati iscritti nel registro di commercio. Per il resto si applicano i capoversi 1 e 2.[^12-3]
 
-<sup>3</sup> e <sup>4</sup> …[^12-4]
+<sup>3 e <sup>4</sup></sup> …[^12-4]
 
 [^12-1]: Introdotto dall’all. 1 n. II 4 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^12-2]: Nuovo testo giusta il n. I 1 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
@@ -216,7 +226,7 @@ Il termine di 30 giorni decorre dalla scadenza del trimestre:
 
 [^1315-1]: Abrogati dal n. I dell’O del 28 ott. 1992, con effetto dal 1° apr. 1993 ([RU 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
 
-### 25 Esenzione dalla tassa; averi all’interno di un gruppo; dilazione e condono del credito fiscale****
+### 25 Esenzione dalla tassa; averi all’interno di un gruppo; dilazione e condono del credito fiscale
 
 [^lvl2-lvl25-1]
 
@@ -226,11 +236,12 @@ Il termine di 30 giorni decorre dalla scadenza del trimestre:
 
 **Esenzione dalla tassa**
 
-<sup>1</sup> La richiesta di esenzione dalla tassa secondo l’articolo 6 capoverso 1 lettere a, c, d, f, g, j e l della legge dev’essere inoltrata all’Amministrazione federale delle contribuzioni. La richiesta dev’essere motivata e contenere i mezzi di prova; i documenti invocati come mezzi di prova vanno allegati alla richiesta.[^16-1]
+<sup>1</sup> La richiesta di esenzione dalla tassa secondo l’articolo 6 capoverso 1 lettera a, c, d, g, j oppure l LTB deve essere inoltrata all’AFC.[^16-1] La richiesta dev’essere motivata e contenere i mezzi di prova; i documenti invocati come mezzi di prova vanno allegati alla richiesta.[^16-2]
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni può esigere dal richiedente le informazioni e i giustificativi necessari concernenti tutti i fatti che possono essere importanti ai fini dell’esenzione; se il richiedente non adempie a questo obbligo, la richiesta è respinta.
+<sup>2</sup> L’AFC delle contribuzioni può esigere dal richiedente le informazioni e i giustificativi necessari concernenti tutti i fatti che possono essere importanti ai fini dell’esenzione; se il richiedente non adempie a questo obbligo, la richiesta è respinta.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 15 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 791](https://fedlex.data.admin.ch/eli/oc/2012/119)).
+[^16-1]: Nuovo testo giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 15 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 791](https://fedlex.data.admin.ch/eli/oc/2012/119)).
 
 #### Art. 16a
 
@@ -242,11 +253,11 @@ Il termine di 30 giorni decorre dalla scadenza del trimestre:
 
 **Dilazione e condono del credito fiscale**
 
-<sup>1</sup> La richiesta di dilazione o di condono di tasse d’emissione dovute in occasione di un risanamento aperto o tacito (art. 12 L) dev’essere inoltrata all’Amministrazione federale delle contribuzioni. Nella richiesta si devono indicare le cause delle perdite e i provvedimenti presi e previsti per porvi rimedio; i documenti relativi al risanamento, come le circolari, i rapporti di gestione, i processi verbali dell’assemblea generale, nonché le relazioni sulla gestione o i conti annuali degli ultimi anni e una distinta delle registrazioni contabili concernenti il risanamento, devono essere allegati alla richiesta. Le perdite subìte dagli azionisti o dai soci, nonché i loro crediti convertiti in diritti di partecipazione sono da dichiarare per mezzo di un modulo ufficiale speciale.
+<sup>1</sup> La richiesta di dilazione o di condono di tasse d’emissione dovute in occasione di un risanamento aperto o tacito (art. 12 L) dev’essere inoltrata all’AFC. Nella richiesta si devono indicare le cause delle perdite e i provvedimenti presi e previsti per porvi rimedio; i documenti relativi al risanamento, come le circolari, i rapporti di gestione, i processi verbali dell’assemblea generale, nonché le relazioni sulla gestione o i conti annuali degli ultimi anni e una distinta delle registrazioni contabili concernenti il risanamento, devono essere allegati alla richiesta. Le perdite subìte dagli azionisti o dai soci, nonché i loro crediti convertiti in diritti di partecipazione sono da dichiarare per mezzo di un modulo ufficiale speciale.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni può esigere dal richiedente le informazioni e i giustificativi necessari concernenti tutti i fatti che possono essere importanti ai fini della dilazione o del condono; se il richiedente non adempie a questo obbligo, la richiesta è respinta.
+<sup>2</sup> L’AFC può esigere dal richiedente le informazioni e i giustificativi necessari concernenti tutti i fatti che possono essere importanti ai fini della dilazione o del condono; se il richiedente non adempie a questo obbligo, la richiesta è respinta.
 
-<sup>3</sup> I ricorsi contro le decisioni su reclamo dell’Amministrazione federale delle contribuzioni concernenti la dilazione o il condono di tasse sono retti dalle disposizioni generali concernenti l’organizzazione giudiziaria.[^17-1]
+<sup>3</sup> I ricorsi contro le decisioni su reclamo dell’AFC concernenti la dilazione o il condono di tasse sono retti dalle disposizioni generali concernenti l’organizzazione giudiziaria.[^17-1]
 
 [^17-1]: Nuovo testo giusta il n. II 44 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -264,32 +275,32 @@ Il termine di 30 giorni decorre dalla scadenza del trimestre:
 
 <sup>1</sup> L’obbligo fiscale del negoziatore di titoli comincia con l’inizio dell’attività commerciale.
 
-<sup>2</sup> Le società e gli istituti di previdenza professionale e di previdenza vincolata, nonché i poteri pubblici di cui all’articolo 13 capoverso 3 lettere d e f della legge sono soggetti alla tassa sei mesi dopo la fine dell’esercizio contabile durante il quale le condizioni ivi menzionate si sono verificate. I titoli la cui amministrazione fiduciaria è dimostrata, non sono considerati attivi nel senso di tale disposizione purché siano esposti separatamente nel bilancio da inoltrare all’Amministrazione federale delle contribuzioni.[^18-2]
+<sup>2</sup> Le società e gli istituti di previdenza professionale e di previdenza vincolata, nonché i poteri pubblici di cui all’articolo 13 capoverso 3 lettere d e f LTB sono soggetti alla tassa sei mesi dopo la fine dell’esercizio contabile durante il quale le condizioni ivi menzionate si sono verificate. I titoli la cui amministrazione fiduciaria è dimostrata, non sono considerati attivi nel senso di tale disposizione purché siano esposti separatamente nel bilancio da inoltrare all’AFC.[^18-2]
 
-[^18-1]: Introdotto dal n. I dell’O del 28 ott. 1992, in vigore dal 1° apr. 1993 ([RU 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 1992, in vigore dal 1° apr. 1993 ([RU 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
 [^18-2]: Nuovo testo giusta il n. I dell’O del 24 mag. 2006, in vigore dal 1° lug. 2006 ([RU 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
 
 #### Art. 19
 
 **Dichiarazione come contribuente**
 
-<sup>1</sup> Il negoziatore di titoli è tenuto a dichiararsi spontaneamente all’Amministrazione federale delle contribuzioni prima dell’inizio dell’obbligo fiscale (art. 18).
+<sup>1</sup> Il negoziatore di titoli è tenuto a dichiararsi spontaneamente all’AFC prima dell’inizio dell’obbligo fiscale (art. 18).
 
 <sup>2</sup> Nella dichiarazione si devono indicare: il nome (la ditta sociale) e la sede dell’azienda nonché di tutte le succursali in Svizzera che soddisfano le condizioni dell’obbligo fiscale o, se trattasi di persona giuridica o di società commerciale senza personalità giuridica con sede statutaria all’estero, la ditta sociale e il luogo della sede principale nonché l’indirizzo della succursale in Svizzera; il periodo dell’esercizio contabile; la data d’inizio dell’obbligo fiscale. Alla dichiarazione si devono allegare i documenti necessari al controllo dell’obbligo fiscale (statuto, bilanci, deliberazioni concernenti aumenti di capitale, ecc.).
 
-<sup>3</sup> Le modificazioni che subentrano dopo l’inizio dell’obbligo fiscale, concernenti i fatti da dichiarare o i documenti da inoltrare conformemente al capoverso 2, in particolare l’apertura di nuove succursali, devono essere dichiarate spontaneamente all’Amministrazione federale delle contribuzioni.
+<sup>3</sup> Le modificazioni che subentrano dopo l’inizio dell’obbligo fiscale, concernenti i fatti da dichiarare o i documenti da inoltrare conformemente al capoverso 2, in particolare l’apertura di nuove succursali, devono essere dichiarate spontaneamente all’AFC.
 
 #### Art. 20
 
 **Registrazione dei negoziatori di titoli**
 
-L’Amministrazione federale delle contribuzioni registra i negoziatori di titoli e comunica a ciascuno di loro il numero di negoziatore attribuitogli.
+L’AFC registra i negoziatori di titoli e comunica a ciascuno di loro il numero di negoziatore attribuitogli.
 
 #### Art. 21
 
 **Registro delle negoziazioni**
 
-<sup>1</sup> Il negoziatore di titoli deve tenere un registro delle negoziazioni per la sede principale della sua azienda e per ogni succursale soggetta alla tassa. L’Amministrazione federale delle contribuzioni lo può dispensare dal tenere un registro speciale, se egli organizza la sua contabilità in modo tale da poter constatare e provare facilmente e con certezza i fatti determinanti ai fini della fissazione della tassa.
+<sup>1</sup> Il negoziatore di titoli deve tenere un registro delle negoziazioni per la sede principale della sua azienda e per ogni succursale soggetta alla tassa. L’AFC lo può dispensare dal tenere un registro speciale, se egli organizza la sua contabilità in modo tale da poter constatare e provare facilmente e con certezza i fatti determinanti ai fini della fissazione della tassa.
 
 <sup>2</sup>
 
@@ -314,17 +325,17 @@ Il registro deve contenere, nell’ordine, le seguenti rubriche:
 
   - b. negoziazioni non soggette alla tassa.
 
-<sup>3</sup> Tutti i negozi devono essere iscritti nel registro entro tre giorni dalla loro conclusione o dalla ricezione del rendiconto, sempreché non siano esenti dalla tassa in virtù dell’articolo 14 capoverso 1 lettere a, b o d–g della legge. Se lo domanda, l’Amministrazione federale delle contribuzioni deve poter avere accesso, per il loro controllo, ai dati delle operazioni che non devono essere iscritte nel registro.[^21-3]
+<sup>3</sup> Tutti i negozi devono essere iscritti nel registro entro tre giorni dalla loro conclusione o dalla ricezione del rendiconto, sempreché non siano esenti dalla tassa in virtù dell’articolo 14 capoverso 1 lettere a, b o d–g LTB. Se lo domanda, l’AFC deve poter avere accesso, per il loro controllo, ai dati delle operazioni che non devono essere iscritte nel registro.[^21-3]
 
 <sup>4</sup> A meno che non si tratti di una semplice operazione di compra o di vendita, tutti i negozi (per esempio trasformazione, sottopartecipazione, riporto, cambio) sono da iscrivere nella rubrica «Natura del negozio» secondo la loro natura. Nella rubrica «Nome, domicilio Stato di domicilio e numero di negoziatore di titoli del venditore e del compratore» occorre indicare lo Stato di domicilio (almeno l’indicazione Svizzera/Liechtenstein o estero); il domicilio deve essere indicato soltanto se non è dovuta alcuna tassa.[^21-4]
 
-<sup>5</sup> Onde evitare complicazioni sproporzionate, l’Amministrazione federale delle contribuzioni può permettere un modo d’iscrizione differente da quello del capoverso 2. Alla richiesta del contribuente si deve allegare un modello.
+<sup>5</sup> Onde evitare complicazioni sproporzionate, l’AFC può permettere un modo d’iscrizione differente da quello del capoverso 2. Alla richiesta del contribuente si deve allegare un modello.
 
 <sup>6</sup> Il controvalore delle negoziazioni soggette alla tassa dev’essere addizionato pagina per pagina o giorno per giorno e alla fine di ogni trimestre.[^21-5]
 
 <sup>7</sup> Le pagine del registro devono essere numerate progressivamente, cucite o rilegate, e conservate per cinque anni a contare dalla fine dell’anno civile durante il quale è stata fatta l’ultima iscrizione. È possibile conservarle sotto forma elettronica se sono soddisfatte le condizioni di cui all’articolo 2.[^21-6]
 
-<sup>8</sup> I negoziatori di titoli secondo l’articolo 13 capoverso 3 lettera b numero 2 e lettere d e f della legge non sono obbligati ad iscrivere nel registro delle negoziazioni le operazioni concluse con le banche svizzere ai sensi della legge federale sulle banche e le casse di risparmio né le operazioni effettuate con negoziatori di titoli svizzeri giusta l’articolo 13 capoverso 3 lettera b numero 1 della legge, a condizione che non abbiano provato la loro qualità di negoziatore di titoli al momento della conclusione di queste operazioni.[^21-7]
+<sup>8</sup> I negoziatori di titoli secondo l’articolo 13 capoverso 3 lettera b numero 2 e lettere d e f LTB non sono obbligati ad iscrivere nel registro delle negoziazioni le operazioni concluse con le banche svizzere ai sensi della legge federale sulle banche e le casse di risparmio né le operazioni effettuate con negoziatori di titoli svizzeri giusta l’articolo 13 capoverso 3 lettera b numero 1 LTB, a condizione che non abbiano provato la loro qualità di negoziatore di titoli al momento della conclusione di queste operazioni.[^21-7]
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 1992, in vigore dal 1° apr. 1993 ([RU 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
 [^21-2]: Nuovo testo giusta il n. I dell’O del 24 mag. 2006, in vigore dal 1° lug. 2006 ([RU 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
@@ -357,39 +368,39 @@ Come controvalore (art. 16 cpv. 1 L) si può iscrivere nel registro:
 
 <sup>1</sup> Le banche nel senso della legge federale dell’8 novembre 1934[^23-2] sulle banche e le casse di risparmio, la Banca nazionale svizzera, le controparti centrali ai sensi della legge del 19 giugno 2015[^23-3] sull’infrastruttura finanziaria e le centrali di emissione di obbligazioni fondiarie sono considerate, senza speciale prova, negoziatori di titoli registrati.[^23-4]
 
-<sup>2</sup> Tutti gli altri negoziatori di titoli devono provare ai loro contraenti, tramite dichiarazione su modulo ufficiale (carta), di essere negoziatori di titoli registrati. Essi devono numerare le carte rilasciate, iscriverle in una speciale distinta (con il nome e l’indirizzo del destinatario, la data del rilascio, il numero progressivo) e tenerle a disposizione dell’Amministrazione federale delle contribuzioni.
+<sup>2</sup> Tutti gli altri negoziatori di titoli devono provare ai loro contraenti, tramite dichiarazione su modulo ufficiale (carta), di essere negoziatori di titoli registrati. Essi devono numerare le carte rilasciate, iscriverle in una speciale distinta (con il nome e l’indirizzo del destinatario, la data del rilascio, il numero progressivo) e tenerle a disposizione dell’AFC.
 
-<sup>3</sup> I negoziatori di titoli secondo l’articolo 13 capoverso 3 lettera b numero 2 e lettere d ed f della legge possono rinunciare a provare la loro qualità di negoziatore di titoli nelle relazioni d’affari con le banche svizzere nonché con negoziatori di titoli svizzeri giusta l’articolo 13 capoverso 3 lettera b numero 1 della legge (art. 21 cpv. 8).[^23-5]
+<sup>3</sup> I negoziatori di titoli secondo l’articolo 13 capoverso 3 lettera b numero 2 e lettere d ed f LTB possono rinunciare a provare la loro qualità di negoziatore di titoli nelle relazioni d’affari con le banche svizzere nonché con negoziatori di titoli svizzeri giusta l’articolo 13 capoverso 3 lettera b numero 1 LTB (art. 21 cpv. 8).[^23-5]
 
-<sup>4</sup> Il contribuente deve tenere a disposizione dell’Amministrazione federale delle contribuzioni le carte a lui rilasciate, ordinate in base al numero di negoziatore di titoli.
+<sup>4</sup> Il contribuente deve tenere a disposizione dell’AFC le carte a lui rilasciate, ordinate in base al numero di negoziatore di titoli.
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 1993, in vigore dal 1° apr. 1993 (RU **1992** 228).
 [^23-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^23-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^23-4]: Nuovo testo giusta il n. 7 dell’all. 1 all’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^23-4]: Nuovo testo giusta l’all. 1 n. 7 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^23-5]: Nuovo testo giusta il n. I dell’O del 24 mag. 2006, in vigore dal 1° lug. 2006 ([RU 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
 
 #### Art. 24
 
 **Rendiconto della tassa**
 
-<sup>1</sup> Il contribuente è tenuto a pagare spontaneamente la tassa all’Amministrazione federale delle contribuzioni, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla scadenza di ogni trimestre dell’esercizio contabile, per i negozi la cui stipulazione o il cui adempimento ha avuto luogo nel corso di detto periodo (art. 15 cpv. 1 e 2 L).
+<sup>1</sup> Il contribuente è tenuto a pagare spontaneamente la tassa all’AFC, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla scadenza di ogni trimestre dell’esercizio contabile, per i negozi la cui stipulazione o il cui adempimento ha avuto luogo nel corso di detto periodo (art. 15 cpv. 1 e 2 L).
 
-<sup>2</sup> Onde evitare complicazioni sproporzionate, l’Amministrazione federale delle contribuzioni può permettere o istituire una procedura di riscossione differente da quella del capoverso 1.
+<sup>2</sup> Onde evitare complicazioni sproporzionate, l’AFC può permettere o istituire una procedura di riscossione differente da quella del capoverso 1.
 
 #### Art. 25
 
 **Fine dell’obbligo fiscale**
 
-<sup>1</sup> Chi vuole abbandonare l’attività commerciale o ritiene di non più essere negoziatore di titoli nel senso della legge deve darne immediata comunicazione all’Amministrazione federale delle contribuzioni.
+<sup>1</sup> Chi vuole abbandonare l’attività commerciale o ritiene di non più essere negoziatore di titoli nel senso della legge deve darne immediata comunicazione all’AFC.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni decide, d’ufficio o sulla base della comunicazione, se e in qual momento cessa l’obbligo fiscale, e fissa la data a partire dalla quale la radiazione dal registro del negoziatore di titoli prende effetto.
+<sup>2</sup> L’AFC decide, d’ufficio o sulla base della comunicazione, se e in qual momento cessa l’obbligo fiscale, e fissa la data a partire dalla quale la radiazione dal registro del negoziatore di titoli prende effetto.
 
-<sup>3</sup> Se una società, un istituto di previdenza professionale o di previdenza vincolata o i poteri pubblici dimostrano che probabilmente soddisferanno di nuovo alle condizioni dell’articolo 13 capoverso 3 lettere d ed f della legge, essi possono, su propria richiesta, restare volontariamente iscritti nel registro come negoziatori di titoli, al massimo però per la durata di due anni.[^25-1]
+<sup>3</sup> Se una società, un istituto di previdenza professionale o di previdenza vincolata o i poteri pubblici dimostrano che probabilmente soddisferanno di nuovo alle condizioni dell’articolo 13 capoverso 3 lettere d ed f LTB, essi possono, su propria richiesta, restare volontariamente iscritti nel registro come negoziatori di titoli, al massimo però per la durata di due anni.[^25-1]
 
-<sup>4</sup> L’interessato deve, per la data della radiazione della sua registrazione quale negoziatore di titoli e mediante modulo ufficiale, revocare tutte le dichiarazioni da lui rilasciate, comunicare la revoca all’Amministrazione federale delle contribuzioni e spedirle la distinta di cui all’articolo 23 capoverso 2.[^25-2]
+<sup>4</sup> L’interessato deve, per la data della radiazione della sua registrazione quale negoziatore di titoli e mediante modulo ufficiale, revocare tutte le dichiarazioni da lui rilasciate, comunicare la revoca all’AFC e spedirle la distinta di cui all’articolo 23 capoverso 2.[^25-2]
 
-<sup>5</sup> Il rendiconto definitivo è da indicare e le tasse sono da pagare all’Amministrazione federale delle contribuzioni entro 30 giorni dalla radiazione della registrazione quale negoziatore di titoli.
+<sup>5</sup> Il rendiconto definitivo è da indicare e le tasse sono da pagare all’AFC entro 30 giorni dalla radiazione della registrazione quale negoziatore di titoli.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 24 mag. 2006, in vigore dal 1° lug. 2006 ([RU 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
 [^25-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 1992, in vigore dal 1° apr. 1993 ([RU 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
@@ -398,26 +409,27 @@ Come controvalore (art. 16 cpv. 1 L) si può iscrivere nel registro:
 
 **Stock commerciale del negoziatore professionale**[^25a-1]
 
-<sup>1</sup> Le banche e le società finanziarie di carattere bancario nel senso della legge federale dell’8 novembre 1934[^25a-2] sulle banche e le casse di risparmio, la Banca nazionale svizzera e le controparti centrali ai sensi della legge del 19 giugno 2015[^25a-3] sull’infrastruttura finanziaria sono negoziatori professionali ai sensi dell’articolo 14 capoverso 3 della legge.[^25a-4]
+<sup>1</sup> Le banche e le società finanziarie di carattere bancario nel senso della legge federale dell’8 novembre 1934[^25a-2] sulle banche e le casse di risparmio, la Banca nazionale svizzera e le controparti centrali ai sensi della legge del 19 giugno 2015[^25a-3] sull’infrastruttura finanziaria sono negoziatori professionali ai sensi dell’articolo 14 capoverso 3 LTB.[^25a-4]
 
-<sup>2</sup> I negoziatori di titoli secondo l’articolo 13 capoverso 3 lettera b numero 1 della legge possono esigere l’esonerazione dello stock commerciale solamente se hanno fornito la prova all’Amministrazione federale delle contribuzioni che esercitano professionalmente il commercio con titoli imponibili.
+<sup>2</sup> I negoziatori di titoli secondo l’articolo 13 capoverso 3 lettera b numero 1 LTB possono esigere l’esonerazione dello stock commerciale solamente se hanno fornito la prova all’AFC che esercitano professionalmente il commercio con titoli imponibili.
 
-<sup>3</sup> Lo stock commerciale nel senso dell’articolo 14 capoverso 3 della legge è la totalità dei titoli liberati che il negoziatore di titoli professionale ha acquistato per conto proprio con l’intenzione di rivenderli. I titoli acquistati dalla Banca nazionale svizzera per la realizzazione della sua politica monetaria sono considerati parte dello stock commerciale della Banca nazionale svizzera.
+<sup>3</sup> Lo stock commerciale nel senso dell’articolo 14 capoverso 3 LTB è la totalità dei titoli liberati che il negoziatore di titoli professionale ha acquistato per conto proprio con l’intenzione di rivenderli. I titoli acquistati dalla Banca nazionale svizzera per la realizzazione della sua politica monetaria sono considerati parte dello stock commerciale della Banca nazionale svizzera.
 
 <sup>4</sup>
 
 Non appartengono allo stock commerciale i documenti imponibili che:
 
-- a. il negoziatore di titoli, sulla base dell’articolo 665 del Codice delle obbligazioni[^25a-5], ha fatto iscrivere a bilancio al loro prezzo d’acquisto;
+- a.[^25a-5] il negoziatore di titoli ha fatto iscrivere a bilancio al loro prezzo d’acquisto;
 - b.[^25a-6] costituiscono partecipazioni durevoli ai sensi delle disposizioni di esecuzione della FINMA fondate sull’articolo 42 dell’ordinanza del 30 aprile 2014[^25a-7] sulle banche;
 - c.
 
   non sono negoziabili in qualsiasi momento e liberamente perché, per esempio:
 
-  - 1\. servono di garanzia o di pegno, in particolare per i crediti lombard;
-  - 2\. sono detenuti dal negoziatore di titoli per conto di terzi;
+  - 1\. servono di garanzia o di pegno, in particolare per i crediti lombard,
+  - 2\. sono detenuti dal negoziatore di titoli per conto di terzi,
   - 3\. incorporano un credito commerciale;
-  - d. sono assunti a fermo dal negoziatore di titoli all’atto di un’emissione.
+
+- d. sono assunti a fermo dal negoziatore di titoli all’atto di un’emissione.
 
 <sup>5</sup>
 
@@ -429,9 +441,9 @@ Il negoziatore di titoli professionali deve la metà della tassa per se stesso s
 [^25a-1]: Introdotto dal n. I dell’O del 28 ott. 1992, in vigore dal 1° apr. 1993 ([RU 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
 [^25a-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^25a-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^25a-4]: Nuovo testo giusta il n. 7 dell’all. 1 all’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^25a-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^25a-6]: Nuovo testo giusta il n. 2 dell’all. 2 all’O del 30 apr. 2014 sulle banche, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^25a-4]: Nuovo testo giusta l’all. 1 n. 7 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^25a-5]: Nuovo testo giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
+[^25a-6]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 30 apr. 2014 sulle banche, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
 [^25a-7]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
 ## 4 Tassa sui premi di assicurazione
@@ -440,19 +452,19 @@ Il negoziatore di titoli professionali deve la metà della tassa per se stesso s
 
 **Dichiarazione come contribuente**
 
-<sup>1</sup> Gli assicuratori sottoposti a vigilanza della Confederazione nonché gli assicuratori svizzeri con statuto di diritto pubblico devono dichiararsi spontaneamente all’Amministrazione federale delle contribuzioni prima di assumere delle assicurazioni. Gli assicuratori che assumono soltanto assicurazioni i cui premi non soggiacciono alla tassa (art. 22 L) non sono obbligati a dichiararsi.
+<sup>1</sup> Gli assicuratori sottoposti a vigilanza della Confederazione nonché gli assicuratori svizzeri con statuto di diritto pubblico devono dichiararsi spontaneamente all’AFC prima di assumere delle assicurazioni. Gli assicuratori che assumono soltanto assicurazioni i cui premi non soggiacciono alla tassa (art. 22 L) non sono obbligati a dichiararsi.
 
 <sup>2</sup> Nella dichiarazione si devono indicare: il nome (la ditta sociale) e la sede dell’azienda nonché di tutte le succursali in Svizzera che soddisfano le condizioni dell’obbligo fiscale (art. 21 e segg. L), il periodo dell’esercizio contabile, la data d’inizio dell’attività commerciale e i rami d’assicurazione di cui l’azienda si occupa.
 
-<sup>3</sup> Le modificazioni che subentrano dopo l’inizio dell’obbligo fiscale, e concernenti i fatti da dichiarare conformemente al capoverso 2, devono essere comunicate spontaneamente all’Amministrazione federale delle contribuzioni.
+<sup>3</sup> Le modificazioni che subentrano dopo l’inizio dell’obbligo fiscale, e concernenti i fatti da dichiarare conformemente al capoverso 2, devono essere comunicate spontaneamente all’AFC.
 
-<sup>4</sup> Il contraente d’assicurazione svizzero che conclude dei contratti, i cui premi soggiacciono alla tassa, con un assicuratore straniero non sottoposto a vigilanza della Confederazione, deve dichiararsi spontaneamente all’Amministrazione federale delle contribuzioni dopo la conclusione del contratto. La dichiarazione deve indicare il nome e l’indirizzo del contraente d’assicurazione, il ramo d’assicurazione, l’assicuratore straniero e la data di scadenza del premio.
+<sup>4</sup> Il contraente d’assicurazione svizzero che conclude dei contratti, i cui premi soggiacciono alla tassa, con un assicuratore straniero non sottoposto a vigilanza della Confederazione, deve dichiararsi spontaneamente all’AFC dopo la conclusione del contratto. La dichiarazione deve indicare il nome e l’indirizzo del contraente d’assicurazione, il ramo d’assicurazione, l’assicuratore straniero e la data di scadenza del premio.
 
 #### Art. 26a
 
 **Assicurazione sulla vita riscattabile**[^26a-1]
 
-<sup>1</sup> Sono considerate assicurazioni sulla vita riscattabili ai sensi dell’articolo 22 lettera a della legge, le assicurazioni per le quali è certa la realizzazione dell’evento assicurato. Tra queste rientrano segnatamente l’assicurazione mista, l’assicurazione vita intera e l’assicurazione di rendita con garanzia di restituzione del premio.
+<sup>1</sup> Sono considerate assicurazioni sulla vita riscattabili ai sensi dell’articolo 22 lettera a LTB, le assicurazioni per le quali è certa la realizzazione dell’evento assicurato. Tra queste rientrano segnatamente l’assicurazione mista, l’assicurazione vita intera e l’assicurazione di rendita con garanzia di restituzione del premio.
 
 <sup>2</sup> Se un’assicurazione riscattabile e una non riscattabile sono abbinate in un contratto, soggiace alla tassa unicamente il premio dichiarato separatamente per l’assicurazione riscattabile.
 
@@ -464,7 +476,7 @@ Il negoziatore di titoli professionali deve la metà della tassa per se stesso s
 
 <sup>1</sup>
 
-Sono considerate assicurazioni sulla vita riscattabili con pagamento periodico dei premi secondo l’articolo 22 lettera a della legge le assicurazioni che durante la durata complessiva del contratto sono finanziate con premi annui essenzialmente dello stesso importo. Tra queste rientrano anche:
+Sono considerate assicurazioni sulla vita riscattabili con pagamento periodico dei premi secondo l’articolo 22 lettera a LTB le assicurazioni che durante la durata complessiva del contratto sono finanziate con premi annui essenzialmente dello stesso importo. Tra queste rientrano anche:
 
 - a. le assicurazioni i cui premi crescono regolarmente;
 - b. le assicurazioni con premi indicizzati;
@@ -489,21 +501,23 @@ In particolare non vi è pagamento periodico dei premi secondo l’articolo 22 l
 
 **Assicurazione casco veicoli**
 
-<sup>1</sup> È considerata assicurazione casco veicoli nel senso degli articoli 22 lettera *k* e 24 capoverso 1 della legge, ogni assicurazione contro il rischio di qualsiasi danno o il rischio di furto del veicolo.
+<sup>1</sup> È considerata assicurazione casco veicoli nel senso dell’articolo 22 lettera k LTB ogni assicurazione contro il rischio di qualsiasi danno o il rischio di furto del veicolo.[^27-1]
 
-<sup>2</sup> Il premio dell’assicurazione casco di aeromobili non è soggetto alla tassa, conformemente all’articolo 22 lettera *k* della legge, se il peso dell’aeromobile è superiore a 5700 chilogrammi.
+<sup>2</sup> Il premio dell’assicurazione casco di aeromobili non è soggetto alla tassa, conformemente all’articolo 22 lettera k LTB, se il peso dell’aeromobile è superiore a 5700 chilogrammi.
+
+[^27-1]: Nuovo testo giusta l’all. dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 #### Art. 28
 
 **Rendiconto della tassa**
 
-<sup>1</sup> L’assicuratore è tenuto a pagare spontaneamente la tassa all’Amministrazione federale delle contribuzioni, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla scadenza di ogni trimestre dell’esercizio contabile, per i premi incassati durante detto periodo (art. 23 L); nel rendiconto deve figurare separatamente l’ammontare dei premi per i differenti rami di assicurazione. La ripartizione a seconda dei rami di assicurazione si estende pure alle assicurazioni combinate, nella misura in cui gli elementi che compongono il premio siano oggetto di differenti aliquote di tassa. Se, sulla base di disposizioni legali di un Cantone o della Confederazione, nel conteggio dei premi sono inclusi crediti non destinati al pagamento di un premio d’assicurazione, questi devono essere designati in modo chiaro e riportati separatamente; in caso contrario, la tassa è dovuta sull’importo totale.[^28-1]
+<sup>1</sup> L’assicuratore è tenuto a pagare spontaneamente la tassa all’AFC, sulla base di un rendiconto su modulo ufficiale, nel termine di 30 giorni dalla scadenza di ogni trimestre dell’esercizio contabile, per i premi incassati durante detto periodo (art. 23 L); nel rendiconto deve figurare separatamente l’ammontare dei premi per i differenti rami di assicurazione. La ripartizione a seconda dei rami di assicurazione si estende pure alle assicurazioni combinate, nella misura in cui gli elementi che compongono il premio siano oggetto di differenti aliquote di tassa. Se, sulla base di disposizioni legali di un Cantone o della Confederazione, nel conteggio dei premi sono inclusi crediti non destinati al pagamento di un premio d’assicurazione, questi devono essere designati in modo chiaro e riportati separatamente; in caso contrario, la tassa è dovuta sull’importo totale.[^28-1]
 
 <sup>2</sup> Se un’assicurazione è assunta in comune da più assicuratori (coassicurazione), ognuno di essi deve pagare la tassa, conformemente al capoverso 1, per la parte di premio che lo concerne. Tuttavia, se tutti i partecipanti al contratto di coassicurazione sono assicuratori sottoposti alla vigilanza della Confederazione o assicuratori svizzeri di diritto pubblico, l’assicuratore responsabile dalla coassicurazione deve versare la totalità della tassa.[^28-2]
 
-<sup>3</sup> Il contraente d’assicurazione svizzero soggetto alla tassa (art. 25 per. 2 L) è tenuto a pagarla spontaneamente all’Amministrazione federale delle contribuzioni, nel termine di 30 giorni dalla scadenza di ogni trimestre e sulla base di un modulo ufficiale, per i premi versati durante detto periodo.
+<sup>3</sup> Il contraente d’assicurazione svizzero soggetto alla tassa (art. 25 per. 2 L) è tenuto a pagarla spontaneamente all’AFC, nel termine di 30 giorni dalla scadenza di ogni trimestre e sulla base di un modulo ufficiale, per i premi versati durante detto periodo.
 
-<sup>4</sup> Onde evitare complicazioni sproporzionate, l’Amministrazione federale delle contribuzioni può permettere o istituire una procedura d’incasso della tassa differente dai capoversi 1 e 3.
+<sup>4</sup> Onde evitare complicazioni sproporzionate, l’AFC può permettere o istituire una procedura d’incasso della tassa differente dai capoversi 1 e 3.
 
 [^28-1]: Nuovo testo giusta il n. I 1 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 [^28-2]: Nuovo testo giusta il n. I dell’O del 24 mag. 2006, in vigore dal 1° lug. 2006 ([RU 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
@@ -551,11 +565,10 @@ al 1° gennaio 1975:
 
 La presente ordinanza entra in vigore:
 
-il 1° luglio 1974, per gli articoli 1 a 25 e 29 a 31;
+- [tab] il 1° luglio 1974, per gli articoli 1 a 25 e 29 a 31;
+- [tab] il 1° gennaio 1975, per gli articoli 26 a 28.
 
-il 1° gennaio 1975, per gli articoli 26 a 28.
-
-## Disposizioni finali della modifica del 28 ottobre 1992****
+## Disposizioni finali della modifica del 28 ottobre 1992
 
 [^u1-1]
 
@@ -563,13 +576,13 @@ il 1° gennaio 1975, per gli articoli 26 a 28.
 
 <sup>1</sup> Le dichiarazioni concernenti la qualità di negoziatore di titoli emesse prima dell’entrata in vigore della presente modifica non sono più valide a contare dal 1° aprile 1993.
 
-<sup>2</sup> Oltre alle banche e alle centrali di emissione di obbligazioni fondiarie di cui all’articolo 23 capoverso 1, il negoziatore di titoli può considerare negoziatori di titoli solamente i contraenti che gli provano di essere contribuenti secondo la modifica del 4 ottobre 1991[^u1-2] della legge sulle tasse di bollo.
+<sup>2</sup> Oltre alle banche e alle centrali di emissione di obbligazioni fondiarie di cui all’articolo 23 capoverso 1, il negoziatore di titoli può considerare negoziatori di titoli solamente i contraenti che gli provano di essere contribuenti secondo la modifica del 4 ottobre 1991[^u1-2] della LTB.
 
-<sup>3</sup> Per le società di cui all’articolo 13 capoverso 3 lettera d della legge, l’obbligo di versare la tassa di negoziazione comincia il 1° aprile 1993 se l’ultimo bilancio, allestito non oltre il 30 settembre 1992, espone documenti imponibili per oltre 10 milioni di franchi.
+<sup>3</sup> Per le società di cui all’articolo 13 capoverso 3 lettera d LTB, l’obbligo di versare la tassa di negoziazione comincia il 1° aprile 1993 se l’ultimo bilancio, allestito non oltre il 30 settembre 1992, espone documenti imponibili per oltre 10 milioni di franchi.
 
 [^u1-2]: [RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222)
 
-## Disposizione transitoria della modifica del 18 giugno 2010****
+## Disposizione transitoria della modifica del 18 giugno 2010
 
 [^u2-1]
 
