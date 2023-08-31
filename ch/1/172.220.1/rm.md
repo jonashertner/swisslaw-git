@@ -4,11 +4,11 @@ title: Lescha dals 24 da mars 2000 davart il persunal da la Confederaziun (LPers
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: rm
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230123-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230901-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPers)
 
-dals 24 da mars 2000 (versiun dals 23 da schaner 2023)
+dals 24 da mars 2000 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -542,7 +542,7 @@ Sin palpiri ed en in u plirs sistems d’infurmaziun elavura il patrun las datas
 
 <sup>2</sup>
 
-El po elavurar las suandantas datas da ses persunal ch’èn necessarias per ademplir sias incumbensas tenor l’alinea 1, inclusiv datas persunalas spezialmain sensiblas e profils da persunalitad:
+El po elavurar las suandantas datas da ses persunal ch’èn necessarias per ademplir sias incumbensas tenor l’alinea 1, inclusiv datas persunalas spezialmain sensiblas:[^27-2]
 
 - a. indicaziuns davart la persuna;
 - b. indicaziuns davart la situaziun da la sanadad areguard la capacitad da lavurar;
@@ -567,6 +567,7 @@ El decretescha disposiziuns executivas davart:
 <sup>6</sup> El po prevair che datas betg spezialmain sensiblas pon vegnir communitgadas tras ina procedura d’invista. El decretescha las disposiziuns executivas necessarias.
 
 [^27-1]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 16 da zer. 2017 davart il fond da cumpensaziun, en vigur dapi il 1. da schan. 2018 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^27-2]: Versiun tenor la cifra II 14 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27a–27c
 
@@ -589,7 +590,7 @@ La Cussegliaziun sociala dal persunal da l’administraziun federala (CSPers) el
 
 <sup>2</sup>
 
-Per ademplir sias incumbensas po la CSPers elavurar las suandantas datas persunalas spezialmain sensiblas sco er ils suandants profils da la persunalitad da la clientella:
+Per ademplir sias incumbensas po la CSPers elavurar las suandantas datas persunalas da la clientella, inclusiv datas persunalas spezialmain sensiblas:[^27d-3]
 
 - a. la situaziun privata;
 - b. la situaziun da la sanadad;
@@ -600,7 +601,7 @@ Per ademplir sias incumbensas po la CSPers elavurar las suandantas datas persuna
 
 <sup>4</sup>
 
-La CSPers po render accessiblas las datas persunalas ed ils profils da la persunalitad tenor l’alinea 2 a las suandantas persunas ed als suandants uffizis, uschenavant che talas e tals dovran questas infurmaziuns per ademplir lur incumbensas:
+La CSPers po render accessiblas las datas persunalas tenor l’alinea 2 a las suandantas persunas ed als suandants uffizis, uschenavant che talas e tals dovran questas infurmaziuns per ademplir lur incumbensas:[^27d-4]
 
 - a. als superiurs directs;
 - b. als servetschs da persunal;
@@ -622,6 +623,8 @@ Il Cussegl federal decretescha disposiziuns executivas davart:
 
 [^27d-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2012, en vigur dapi il 1. da fan. 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^27d-2]: [SR 172.222.023](https://fedlex.data.admin.ch/eli/cc/2003/58)
+[^27d-3]: Versiun tenor la cifra II 14 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27d-4]: Versiun tenor la cifra II 14 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27e
 

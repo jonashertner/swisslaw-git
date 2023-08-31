@@ -4,11 +4,11 @@ title: Bundespersonalgesetz vom 24. März 2000 (BPG)
 short: BPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/de"
 
 (BPG)
 
-vom 24. März 2000 (Stand am 23. Januar 2023)
+vom 24. März 2000 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -540,7 +540,7 @@ Der Arbeitgeber bearbeitet in Papierform und in einem oder mehreren Informations
 
 <sup>2</sup>
 
-Er kann folgende für die Erfüllung seiner Aufgaben nach Absatz 1 notwendigen Daten seines Personals, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bearbeiten:
+Er kann folgende für die Erfüllung seiner Aufgaben nach Absatz 1 notwendigen Daten seines Personals, einschliesslich besonders schützenswerter Personendaten, bearbeiten:[^27-2]
 
 - a. Angaben zur Person;
 - b. Angaben zur gesundheitlichen Situation in Bezug auf die Arbeitsfähigkeit;
@@ -565,6 +565,7 @@ Er erlässt Ausführungsbestimmungen über:
 <sup>6</sup> Er kann die Bekanntgabe von nicht besonders schützenswerten Daten im Abrufverfahren vorsehen. Er erlässt dazu Ausführungsbestimmungen.
 
 [^27-1]: Fassung gemäss Anhang Ziff. II 2 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^27-2]: Fassung gemäss Anhang 1 Ziff. II 14 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27a–27c
 
@@ -587,7 +588,7 @@ Die Personal- und Sozialberatung der Bundesverwaltung (PSB) bearbeitet in Papier
 
 <sup>2</sup>
 
-Die PSB kann die folgenden für die Erfüllung ihrer Aufgaben notwendigen besonders schützenswerten Personendaten und Persönlichkeitsprofile der Klientinnen und Klienten bearbeiten:
+Die PSB kann die folgenden zur Erfüllung ihrer Aufgaben notwendigen Personendaten der Klientinnen und Klienten, einschliesslich besonders schützenswerter Personendaten, bearbeiten:[^27d-3]
 
 - a. private Situation;
 - b. gesundheitliche Situation;
@@ -598,7 +599,7 @@ Die PSB kann die folgenden für die Erfüllung ihrer Aufgaben notwendigen besond
 
 <sup>4</sup>
 
-Die PSB kann den folgenden Personen und Stellen die in Absatz 2 genannten Personendaten und Persönlichkeitsprofile zugänglich machen, sofern sie diese für die Erfüllung ihrer Aufgaben benötigen:
+Die PSB kann den folgenden Personen und Stellen die in Absatz 2 genannten Personendaten zugänglich machen, sofern sie diese zur Erfüllung ihrer Aufgaben benötigen:[^27d-4]
 
 - a. den direkten Vorgesetzen;
 - b. den Personaldiensten;
@@ -620,6 +621,8 @@ Der Bundesrat erlässt Ausführungsbestimmungen über:
 
 [^27d-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^27d-2]: [SR 172.222.023](https://fedlex.data.admin.ch/eli/cc/2003/58)
+[^27d-3]: Fassung gemäss Anhang 1 Ziff. II 14 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27d-4]: Fassung gemäss Anhang 1 Ziff. II 14 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27e
 

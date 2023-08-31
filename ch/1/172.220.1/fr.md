@@ -4,11 +4,11 @@ title: Loi du 24 mars 2000 sur le personnel de la Confédération (LPers)
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/fr"
 
 (LPers)
 
-du 24 mars 2000 (État le 23 janvier 2023)
+du 24 mars 2000 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -541,7 +541,7 @@ L’employeur traite, sous forme papier et dans un ou plusieurs systèmes d’in
 
 <sup>2</sup>
 
-Il peut traiter les données ci-après relatives au personnel qui sont nécessaires à l’exécution des tâches mentionnées à l’al. 1, y compris les données sensibles et les profils de la personnalité:
+Il peut traiter les données ci-après relatives au personnel qui sont nécessaires à l’exécution des tâches mentionnées à l’al. 1, y compris les données sensibles:[^27-2]
 
 - a. données relatives à la personne;
 - b. données relatives à l’état de santé en rapport avec la capacité de travail;
@@ -566,6 +566,7 @@ Il édicte des dispositions d’exécution concernant:
 <sup>6</sup> Il peut prévoir la communication de données non sensibles à des tiers par consultation en ligne. Il édicte les dispositions d’exécution.
 
 [^27-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^27-2]: Nouvelle teneur selon l’annexe 1 ch. II 14 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27a à 27c
 
@@ -588,7 +589,7 @@ La Consultation sociale du personnel de l’administration fédérale (CSPers) t
 
 <sup>2</sup>
 
-La CSPers peut traiter les données sensibles ou les profils de la personnalité ci‑après qui concernent ses clients et sont nécessaires à l’exécution de ses tâches:
+La CSPers peut traiter les données personnelles et les données sensibles ci-après qui concernent ses clients et sont nécessaires à l’exécution de ses tâches:[^27d-3]
 
 - a. situation personnelle;
 - b. état de santé;
@@ -599,7 +600,7 @@ La CSPers peut traiter les données sensibles ou les profils de la personnalité
 
 <sup>4</sup>
 
-La CSPers peut rendre accessibles aux personnes et aux services ci-après les données sensibles et les profils de la personnalité mentionnés à l’al. 2 pour autant que l’exécution de leurs tâches l’exige:
+La CSPers peut rendre accessibles aux personnes et aux services ci-après les données mentionnées à l’al. 2, pour autant que l’exécution de leurs tâches l’exige:[^27d-4]
 
 - a. supérieurs directs;
 - b. services du personnel;
@@ -621,6 +622,8 @@ Le Conseil fédéral édicte des dispositions d’exécution concernant:
 
 [^27d-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^27d-2]: [RS 172.222.023](https://fedlex.data.admin.ch/eli/cc/2003/58)
+[^27d-3]: Nouvelle teneur selon l’annexe 1 ch. II 14 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27d-4]: Nouvelle teneur selon l’annexe 1 ch. II 14 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27e
 
