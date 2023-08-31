@@ -4,11 +4,11 @@ title: Verordnung vom 26. Januar 2011 über die Unternehmens-Identifikationsnumm
 short: UIDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-81-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-81-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/de"
 
 (UIDV)
 
-vom 26. Januar 2011 (Stand am 1. Januar 2022)
+vom 26. Januar 2011 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Bundesgesetz vom 18. Juni 2010[^ingress-1] über die Unternehm
 
 verordnet:
 
-[^ingress-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^ingress-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ## 1. Abschnitt: UID-Einheiten, UID-Stellen und Meldung von UID-Daten
 
@@ -41,8 +41,8 @@ verordnet:
 
 <sup>3</sup> Nicht als UID-Einheiten nach Artikel 3 Absatz 1 Buchstabe c Ziffer 6 UIDG gelten die natürlichen Personen, die Tiere halten und nicht unter die Artikel 7, 18*a* und 21 der Tierseuchenverordnung vom 27. Juni 1995[^1-2] fallen.[^1-3]
 
-[^1-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^1-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^1-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^1-3]: Fassung gemäss Anhang Ziff. 1 der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 #### Art. 2
@@ -62,9 +62,9 @@ Zur Registrierung melden sich die UID-Stellen beim Bundesamt für Statistik (BFS
 Für die Meldung von UID-Einheiten und deren UID-Daten an das BFS sind die Register der UID-Stellen nach den Artikeln 5 Absatz 1 und 9 Absatz 1 UIDG in folgender Reihenfolge massgebend:
 
 - a. Handelsregister: kantonale Handelsregister, Zentralregister des Eidgenössischen Amtes für das Handelsregister;
-- b.[^3-1] Branchenregister: kantonale Landwirtschaftsregister, Datensammlungen von kantonalen Veterinärämtern, Datensammlungen von Kantonschemikern oder kantonalen Labors, Register des Bundesamtes für Landwirtschaft, Medizinalberuferegister (MedReg), Gesundheitsberuferegister (GesReg), Nationales Register der Gesundheitsberufe (NAREG), kantonale Anwaltsregister, kantonale Notariatsregister;
+- b.[^3-1] Branchenregister: kantonale Landwirtschaftsregister, Datenbanken von kantonalen Veterinärämtern, Datenbanken von Kantonschemikern oder kantonalen Labors, Register des Bundesamtes für Landwirtschaft, Medizinalberuferegister (MedReg), Gesundheitsberuferegister (GesReg), Nationales Register der Gesundheitsberufe (NAREG), kantonale Anwaltsregister, kantonale Notariatsregister;
 - c. Register der AHV-Ausgleichskassen, kantonale Steuerregister, Mehrwertsteuerregister;
-- d.[^3-2] übrige Register: Betriebs- und Unternehmensregister des BFS, Datensammlungen des Bundesamts für Zoll und Grenzsicherheit[^3-3] über im Import und Export registrierte Unternehmen, Zentrales Migrationsinformationssystem (ZEMIS), Register der Schweizerischen Unfallversicherungsanstalt (Suva) und der Versicherer nach Artikel 68 des Bundesgesetzes vom 20. März 1981[^3-4] über die Unfallversicherung, Unternehmensregister des Fürstentums Liechtenstein.
+- d.[^3-2] übrige Register: Betriebs- und Unternehmensregister des BFS, Datenbanken des Bundesamts für Zoll- und Grenzsicherheit über im Import und Export registrierte Unternehmen, Zentrales Migrationsinformationssystem (ZEMIS), Register der Schweizerischen Unfallversicherungsanstalt (Suva) und der Versicherer nach Artikel 68 des Bundesgesetzes vom 20. März 1981[^3-3] über die Unfallversicherung, Unternehmensregister des Fürstentums Liechtenstein.
 
 <sup>2</sup> Weitere UID-Stellen können UID-Einheiten melden. Ihre Meldung wird berücksichtigt, soweit nicht bereits eine Meldung aus dem Register einer UID-Stelle nach Absatz 1 vorliegt.
 
@@ -72,10 +72,9 @@ Für die Meldung von UID-Einheiten und deren UID-Daten an das BFS sind die Regis
 
 <sup>4</sup> Eine UID-Einheit kann sich nicht selber beim BFS anmelden.
 
-[^3-1]: Fassung gemäss Art. 21 der Registerverordnung GesBG vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 111](https://fedlex.data.admin.ch/eli/oc/2020/20)).
-[^3-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 15. Dez. 2014 ([AS 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
-[^3-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^3-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^3-1]: Fassung gemäss Anhang 2 Ziff. II 53 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: Fassung gemäss Anhang 2 Ziff. II 53 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-3]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 4
 
@@ -155,11 +154,13 @@ Die UID-Ergänzung für das Mehrwertsteuerregister lautet:
 
 <sup>3</sup> Die UID-Ergänzung wird der UID nachgestellt.
 
-<sup>4</sup> Die Führung der UID-Ergänzung in den Datensammlungen der UID-Stellen ist freiwillig.
+<sup>4</sup> Die Führung der UID-Ergänzung in den Datenbanken der UID-Stellen ist freiwillig.[^8-1]
 
 <sup>5</sup> Unter Vorbehalt spezialgesetzlicher Vorschriften ist die Verwendung der UID-Ergänzung durch die UID-Einheiten freiwillig.
 
-## 2*a*. Abschnitt:**** Einheitliche internationale Identifikationsnummer
+[^8-1]: Fassung gemäss Anhang 2 Ziff. II 53 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## 2*a*. Abschnitt: Einheitliche internationale Identifikationsnummer
 
 [^sec2a-1]
 
@@ -379,13 +380,14 @@ Das BFS erfasst, ändert oder löscht Daten von Administrativeinheiten nur auf G
 
 <sup>2</sup> Bei der Sammelabfrage sind die technischen Vorgaben des BFS einzuhalten.
 
-<sup>3</sup> Sammelabfragen von UID durch Private sind nur möglich, wenn diese die UID-Einheiten bereits in ihren Datensammlungen führen.
+<sup>3</sup> Sammelabfragen von UID durch Private sind nur möglich, wenn diese die UID-Einheiten bereits in ihren Datenbanken führen.[^20-1]
 
 <sup>4</sup> Bei Sammelabfragen von UID durch Private werden nur UID bekannt gegeben, die öffentlich zugänglich sind.
 
-<sup>5</sup> Von Privaten wird für Sammelabfragen eine Gebühr erhoben. Diese richtet sich nach Artikel 1 Buchstabe h der Verordnung vom 25. Juni 2003[^20-1] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
+<sup>5</sup> Von Privaten wird für Sammelabfragen eine Gebühr erhoben. Diese richtet sich nach Artikel 1 Buchstabe h der Verordnung vom 25. Juni 2003[^20-2] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
 
-[^20-1]: [SR 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^20-1]: Fassung gemäss Anhang 2 Ziff. II 53 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-2]: [SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 #### Art. 21
 
@@ -476,6 +478,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)konsultiert werden.

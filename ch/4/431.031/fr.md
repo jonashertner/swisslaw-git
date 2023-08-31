@@ -4,11 +4,11 @@ title: "Ordonnance du 26 janvier 2011 sur le numéro d'identification des entrep
 short: OIDE
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-81-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2011-81-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/fr"
 
 (OIDE)
 
-du 26 janvier 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 26 janvier 2011 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi fédérale du 18 juin 2010 sur le numéro d’identification des entre
 
 arrête:
 
-[^ingress-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^ingress-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ## Section 1 Entités IDE, services IDE et communication des données IDE
 
@@ -41,8 +41,8 @@ arrête:
 
 <sup>3</sup> Les personnes physiques qui détiennent des animaux et qui ne sont pas visées par les art. 7, 18*a* et 21 de l’ordonnance du 27 juin 1995 sur les épizooties[^1-2] ne sont pas des entités IDE au sens de l’art. 3, al. 1, let. c, ch. 6, LIDE.[^1-3]
 
-[^1-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^1-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^1-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^1-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 #### Art. 2
@@ -62,9 +62,9 @@ Les services IDE s’annoncent à l’Office fédéral de la statistique (OFS) p
 Les services IDE au sens des art. 5, al. 1, et 9, al. 1, LIDE sont prioritaires, dans l’ordre suivant, pour annoncer à l’OFS des entités IDE et les données IDE de ces dernières:
 
 - a. registre du commerce: registres cantonaux du commerce, registre central de l’Office fédéral du registre du commerce;
-- b.[^3-1] registres de branches économiques: registres cantonaux de l’agriculture, fichiers de données des services vétérinaires cantonaux, fichiers de données des chimistes cantonaux ou laboratoires cantonaux, registre de l’Office fédéral de l’agriculture, registre des professions médicales (MedReg), registre des professions de la santé (GesReg), registre national des professions de la santé (NAREG), registres cantonaux des avocats, registres cantonaux des notaires;
+- b.[^3-1] registres de branches économiques: registres cantonaux de l’agriculture, banques de données des services vétérinaires cantonaux, banques de données des chimistes cantonaux ou laboratoires cantonaux, registre de l’Office fédéral de l’agriculture, registre des professions médicales (MedReg), registre des professions de la santé (GesReg), registre national des professions de la santé (NAREG), registres cantonaux des avocats, registres cantonaux des notaires;
 - c. registres des caisses de compensation AVS, registres fiscaux cantonaux, registre des assujettis à la TVA;
-- d.[^3-2] autres registres: Registre des entreprises et des établissements de l’OFS, fichiers de données de l’Office fédéral de la douane et de la sécurité des frontières[^3-3] concernant les entreprises enregistrées sous l’appellation importatrices ou exportatrices, système d’information central sur la migration (SYMIC), registres de la caisse nationale d’assurance (Suva) et des assureurs au sens de l’art. 68 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^3-4], registre des entreprises de la Principauté du Liechtenstein.
+- d.[^3-2] autres registres: Registre des entreprises et des établissements de l’OFS, banques de données de l’Office fédéral de la douane et la sécurité des frontières concernant les entreprises enregistrées sous l’appellation importatrices ou exportatrices, système d’information central sur la migration (SYMIC), registres de la caisse nationale d’assurance (Suva) et des assureurs au sens de l’art. 68 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^3-3], registre des entreprises de la Principauté du Liechtenstein.
 
 <sup>2</sup> Les autres services IDE peuvent annoncer des entités IDE. Leur annonce est prise en compte pour autant qu’aucune annonce n’ait déjà été faite par un service IDE selon l’al. 1.
 
@@ -72,10 +72,9 @@ Les services IDE au sens des art. 5, al. 1, et 9, al. 1, LIDE sont prioritaires,
 
 <sup>4</sup> Une entité IDE ne peut pas s’annoncer elle-même à l’OFS.
 
-[^3-1]: Nouvelle teneur selon l’art. 21 de l’O du 13 déc. 2019 concernant le registre LPSan, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 111](https://fedlex.data.admin.ch/eli/oc/2020/20)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 15 déc. 2014 ([RO 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
-[^3-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^3-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^3-1]: Nouvelle teneur selon l’annexe 2 ch. II 53 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: Nouvelle teneur selon l’annexe 2 ch. II 53 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 4
 
@@ -155,11 +154,13 @@ L’ajout IDE pour le registre des assujettis à la TVA est:
 
 <sup>3</sup> L’ajout IDE est postposé à l’IDE.
 
-<sup>4</sup> La gestion de l’ajout IDE dans les fichiers de données des services IDE est facultative.
+<sup>4</sup> La gestion de l’ajout IDE dans les banques de données des services IDE est facultative.[^8-1]
 
 <sup>5</sup> L’utilisation de l’ajout IDE par les entités IDE est facultative, sous réserve de dispositions légales spécifiques.
 
-## Section 2*a***** Numéro d’identification international unique
+[^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 53 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## Section 2*a* Numéro d’identification international unique
 
 [^sec2a-1]
 
@@ -379,13 +380,14 @@ L’OFS saisit, modifie ou radie les données d’entités administratives à la
 
 <sup>2</sup> Pour une requête par lots, les prescriptions techniques de l’OFS doivent être observées.
 
-<sup>3</sup> Les particuliers ne peuvent demander la communication de l’IDE dans le cadre de requêtes par lots, que s’ils gèrent déjà les entités IDE correspondantes dans leurs fichiers de données.
+<sup>3</sup> Les particuliers ne peuvent demander la communication de l’IDE dans le cadre de requêtes par lots, que s’ils gèrent déjà les entités IDE correspondantes dans leurs banques de données.[^20-1]
 
 <sup>4</sup> Seuls les IDE accessibles au public peuvent être communiqués à des particuliers dans le cadre de requêtes par lots.
 
-<sup>5</sup> Un émolument est perçu auprès des particuliers qui font une requête par lots. Il est fixé conformément à l’art. 1, let. h, de l’ordonnance du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération[^20-1].
+<sup>5</sup> Un émolument est perçu auprès des particuliers qui font une requête par lots. Il est fixé conformément à l’art. 1, let. h, de l’ordonnance du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération[^20-2].
 
-[^20-1]: [RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^20-1]: Nouvelle teneur selon l’annexe 2 ch. II 53 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-2]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 #### Art. 21
 

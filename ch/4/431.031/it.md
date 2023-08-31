@@ -4,11 +4,11 @@ title: "Ordinanza del 26 gennaio 2011 sul numero d'identificazione delle imprese
 short: OIDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-81-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-81-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/it"
 
 (OIDI)
 
-del 26 gennaio 2011 (Stato 1° gennaio 2022)
+del 26 gennaio 2011 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 18 giugno 2010[^ingress-1] sul numero d’identifica
 
 ordina:
 
-[^ingress-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^ingress-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ## Sezione 1: Unità IDI, servizi IDI e notifica dei dati IDI
 
@@ -41,8 +41,8 @@ ordina:
 
 <sup>3</sup> Non sono unità IDI ai sensi dell’articolo 3 capoverso 1 lettera c numero 6 LIDI le persone fisiche che detengono animali e che non rientrano nel campo d’applicazione degli articoli 7, 18*a* e 21 dell’ordinanza del 27 giugno 1995[^1-2] sulle epizoozie.[^1-3]
 
-[^1-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^1-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^1-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^1-3]: Nuovo testo giusta l’all. n. 1 dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 #### Art. 2
@@ -62,9 +62,9 @@ Per l’iscrizione nel registro, i servizi IDI si annunciano all’Ufficio feder
 Per la notifica all’UST delle unità IDI e dei dati IDI sono determinanti i registri dei servizi IDI ai sensi degli articoli 5 capoverso 1 e 9 capoverso 1 LIDI, nell’ordine di priorità seguente:
 
 - a. registro di commercio: registri cantonali di commercio, registro centrale dell’Ufficio federale del registro di commercio;
-- b.[^3-1] registri settoriali: registri cantonali dell’agricoltura, raccolte di dati degli uffici cantonali di veterinaria, raccolte di dati dei chimici o dei laboratori cantonali, registro dell’Ufficio federale dell’agricoltura, registro delle professioni mediche (MedReg), registro delle professioni sanitarie (GesReg), registro nazionale delle professioni sanitarie (NAREG), registri cantonali degli avvocati, albi cantonali dei notai;
+- b.[^3-1] registri settoriali: registri cantonali dell’agricoltura, banche dati degli uffici cantonali di veterinaria, banche dati dei chimici o dei laboratori cantonali, registro dell’Ufficio federale dell’agricoltura, registro delle professioni mediche (MedReg), registro delle professioni sanitarie (GesReg), registro nazionale delle professioni sanitarie (NAREG), registri cantonali degli avvocati, albi cantonali dei notai;
 - c. registri delle casse di compensazione AVS, registri fiscali cantonali, registro IVA;
-- d.[^3-2] altri registri: registro delle imprese e degli stabilimenti dell’UST, raccolte di dati dell’ Ufficio federale della dogana e della sicurezza dei confini[^3-3] concernenti le imprese attive in ambito di esportazione o importazione, sistema d’informazione centrale sulla migrazione (SIMIC), registri dell’Istituto nazionale svizzero di assicurazione contro gli infortuni (Suva) e degli assicuratori di cui all’articolo 68 della legge federale del 20 marzo 1981[^3-4] sull’assicurazione contro gli infortuni, il registro delle imprese del Principato del Liechtenstein.
+- d.[^3-2] altri registri: registro delle imprese e degli stabilimenti dell’UST, banche dati dell’’Ufficio federale della dogana e della sicurezza dei confini relative alle imprese attive in ambito di esportazione o importazione, sistema d’informazione centrale sulla migrazione (SIMIC), registri dell’Istituto nazionale svizzero di assicurazione contro gli infortuni (Suva) e degli assicuratori di cui all’articolo 68 della legge federale del 20 marzo 1981[^3-3] sull’assicurazione contro gli infortuni, registro delle imprese del Principato del Liechtenstein.
 
 <sup>2</sup> Gli altri servizi IDI hanno la facoltà di notificare unità IDI. La loro notifica è presa in considerazione unicamente se non sussiste alcuna notifica precedente da parte di un servizio IDI di cui al capoverso 1.
 
@@ -72,10 +72,9 @@ Per la notifica all’UST delle unità IDI e dei dati IDI sono determinanti i re
 
 <sup>4</sup> Le unità IDI non possono annunciarsi direttamente all’UST.
 
-[^3-1]: Nuovo testo giusta l’art. 21 dell’O del 13 dic. 2019 sul registro LPSam, in vigore dal 1° feb. 2020 ([RU 2020 111](https://fedlex.data.admin.ch/eli/oc/2020/20)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
-[^3-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^3-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^3-1]: Nuovo testo giusta l’all. 2 cifra II n. 53 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: Nuovo testo giusta l’all. 2 cifra II n. 53 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 4
 
@@ -91,7 +90,7 @@ Per la notifica all’UST delle unità IDI e dei dati IDI sono determinanti i re
 
 <sup>4</sup> Esso può trattare dati relativi a mutazioni nei registri di cui all’articolo 3 capoverso 1, se ciò è necessario per identificare in modo inequivocabile le unità IDI. I dati del registro IVA sono accessibili mediante una procedura di richiamo. I dati che non sono menzionati all’articolo 9 non sono iscritti nel registro IDI.[^4-1]
 
-[^4-1]: Introdotto dal n. II 1 dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
+[^4-1]: Introdotto dalla cifra II n. 1 dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 
 ## Sezione 2: IDI e complemento IDI
 
@@ -117,7 +116,7 @@ L’IDI è composto da:
 
 <sup>2</sup> L’UST o un servizio IDI da lui designato comunica all’unità IDI l’IDI che le è stato attribuito, la sua rilevanza e i diritti e gli obblighi che ne derivano.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6651](https://fedlex.data.admin.ch/eli/oc/2017/738)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6651](https://fedlex.data.admin.ch/eli/oc/2017/738)).
 
 #### Art. 7
 
@@ -155,15 +154,17 @@ Il complemento IDI per il registro IVA è:
 
 <sup>3</sup> Il complemento IDI è posposto all’IDI.
 
-<sup>4</sup> L’iscrizione del complemento IDI nelle raccolte di dati dei servizi IDI è facoltativa.
+<sup>4</sup> L’iscrizione del complemento IDI nelle banche dati dei servizi IDI è facoltativa.[^8-1]
 
 <sup>5</sup> Fatte salve eventuali prescrizioni contenute in leggi speciali, l’utilizzazione del complemento IDI da parte delle unità IDI è facoltativa.
 
-## Sezione 2*a*:**** Numero d’identificazione internazionale unico
+[^8-1]: Nuovo testo giusta l’all. 2 cifra II n. 53 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## Sezione 2*a*: Numero d’identificazione internazionale unico
 
 [^sec2a-1]
 
-[^sec2a-1]: Introdotta dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6651](https://fedlex.data.admin.ch/eli/oc/2017/738)).
+[^sec2a-1]: Introdotta dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6651](https://fedlex.data.admin.ch/eli/oc/2017/738)).
 
 #### Art. 8a
 
@@ -254,7 +255,7 @@ Nel registro IDI sono iscritte le seguenti caratteristiche del sistema:
 - i. autorizzazione del servizio IDI a notificare nuove unità amministrative e mutazioni di unità amministrative;
 - j. se del caso, indicazione del fatto che il registro del servizio IDI è pubblico.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
 
 #### Art. 10
 
@@ -367,7 +368,7 @@ L’UST iscrive, modifica o cancella dati delle unità amministrative unicamente
 
 <sup>2</sup> Il servizio IDI del Principato del Liechtenstein può accedere esclusivamente ai dati delle unità IDI del proprio territorio.[^19-1]
 
-[^19-1]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
+[^19-1]: Introdotto dalla cifra I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
 
 #### Art. 20
 
@@ -379,13 +380,14 @@ L’UST iscrive, modifica o cancella dati delle unità amministrative unicamente
 
 <sup>2</sup> Le interrogazioni collettive devono rispettare le disposizioni tecniche dell’UST.
 
-<sup>3</sup> Le interrogazioni collettive di IDI da parte di privati sono ammesse unicamente se questi ultimi gestiscono già le unità IDI nelle proprie raccolte di dati.
+<sup>3</sup> Le interrogazioni collettive di IDI da parte di privati sono ammesse unicamente se questi ultimi gestiscono già le unità IDI nelle proprie banche dati.[^20-1]
 
 <sup>4</sup> In caso di interrogazioni collettive di IDI da parte di privati sono comunicati unicamente gli IDI accessibili pubblicamente.
 
-<sup>5</sup> Per le interrogazioni collettive da parte di privati sono riscossi emolumenti. Questi ultimi sono stabiliti conformemente all’articolo 1 lettera h dell’ordinanza del 25 giugno 2003[^20-1] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
+<sup>5</sup> Per le interrogazioni collettive da parte di privati sono riscossi emolumenti. Questi ultimi sono stabiliti conformemente all’articolo 1 lettera h dell’ordinanza del 25 giugno 2003[^20-2] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
 
-[^20-1]: [RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^20-1]: Nuovo testo giusta l’all. 2 cifra II n. 53 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-2]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 #### Art. 21
 
