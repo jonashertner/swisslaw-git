@@ -4,11 +4,10 @@ number: "172.16"
 title: Rechtsetzungsverordnung (RSV)
 short: RSV
 language: de
-version: "2022-11-01"
-nachtrag: "118"
-valid_until: 2023-09-01
+version: "2023-09-01"
+nachtrag: "122"
 adopted: 2000-11-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_16-2000_11_29-2001_01_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_16-2000_11_29-2001_01_01-122.html"
 text: pdf
 ---
 
@@ -25,13 +24,13 @@ Der Regierungsrat beschliesst:
 
 ### I. Allgemeine Bestimmungen
 
-#### § 1
-
 **Gegenstand und Zweck**
 
-<sup>1</sup> Diese Verordnung regelt den Gesetzgebungsdienst sowie das Vorverfahren der kantonalen Rechtsetzung.
+§ 1.[^hIAllgemeineBestim-1] <sup>1</sup> Diese Verordnung regelt den Gesetzgebungsdienst, die Redaktionskommission und das Vorverfahren der kantonalen Rechtsetzung.
 
-<sup>2</sup> Der Gesetzgebungsdienst fördert die Qualität und die Einheitlichkeit der kantonalen Rechtsetzung.
+<sup>2</sup> Der Gesetzgebungsdienst und die Redaktionskommission fördern die Qualität und die Einheitlichkeit der kantonalen Rechtsetzung.
+
+[^hIAllgemeineBestim-1]: Fassung gemäss RRB vom 31. Mai 2023 (OS 78, 305; ABl 2023-06-09). In Kraft seit 1. September 2023.
 
 #### § 2
 
@@ -65,7 +64,7 @@ Der Regierungsrat erlässt Richtlinien für die Rechtsetzung.
 
 **1**
 
-1.10. 22 - 118 § 7.[^hIIGesetzgebungsdie-1] <sup>1</sup> Der Gesetzgebungsdienst berät die federführenden Verwaltungsstellen bei der Erarbeitung von neuen oder zu ändernden Erlassen. Er führt eine Liste der im Kantonsrat hängigen Verfassungs- und Gesetzesänderungen.
+1.10. 23 - 122 § 7.[^hIIGesetzgebungsdie-1] <sup>1</sup> Der Gesetzgebungsdienst berät die federführenden Verwaltungsstellen bei der Erarbeitung von neuen oder zu ändernden Erlassen. Er führt eine Liste der im Kantonsrat hängigen Verfassungs- und Gesetzesänderungen.
 
 **Aufgaben**
 
@@ -130,17 +129,21 @@ Der Regierungsrat erlässt Richtlinien für die Rechtsetzung.
 
 Der Regierungsrat verabschiedet das Konzept und beauftragt die federführende Verwaltungsstelle mit der Ausarbeitung eines Erlassentwurfs.
 
-#### § 12
-
 **Vernehmlassung 1. Zweck**
 
-<sup>1</sup> Mit der Vernehmlassung wird betroffenen Behörden, Verbänden, Körperschaften und anderen Organisationen Gelegenheit gegeben, sich zu einem Erlassentwurf zu äussern.
+§ 12.[^11-1] <sup>1</sup> Mit der Vernehmlassung wird betroffenen Behörden, Verbänden, Körperschaften und anderen Organisationen Gelegenheit gegeben, sich zu einem Erlassentwurf zu äussern.
 
 <sup>2</sup> Eine Vernehmlassung wird insbesondere dann durchgeführt, wenn a. es sich um eine Rechtsänderung von besonderer Tragweite handelt,
 
-- b. Körperschaften, Behörden, Verbände oder andere Organisationen in ihren Interessen wesentlich betroffen sind oder
+- b. die Gemeindeautonomie betroffen ist,
 
-- c. der Erlass in erheblichem Masse ausserhalb der kantonalen Verwaltung vollzogen wird.
+- c. Körperschaften, Behörden, Verbände oder andere Organisationen in ihren Interessen wesentlich betroffen sind oder
+
+- d. der Erlass in erheblichem Masse ausserhalb der kantonalen Verwaltung vollzogen wird.
+
+<sup>3</sup> Ist die Gemeindeautonomie betroffen, wird allen Gemeinden Gelegenheit gegeben, sich zu äussern.
+
+[^11-1]: Fassung gemäss RRB vom 31. Mai 2023 (OS 78, 305; ABl 2023-06-09). In Kraft seit 1. September 2023.
 
 #### § 13
 
@@ -166,17 +169,13 @@ Die Vernehmlassungsfrist beträgt grundsätzlich drei Monate. Bei Dringlichkeit 
 
 <sup>2</sup> Bei Rechtsänderungen von besonderer Tragweite werden in der Regel die Gemeinden, die im Kantonsrat vertretenen Parteien und die für das Sachgebiet zuständigen kantonalen Organisationen angehört.
 
-#### § 16
+**3**
+
+1.10. 23 - 122 § 16. <sup>1</sup> Die zuständige Verwaltungsstelle stellt das Vernehmlassungsergebnis zusammen.
 
 **5. Zusammenstellung des Ergebnisses und Zugänglichkeit**
 
-<sup>1</sup> Die zuständige Verwaltungsstelle stellt das Vernehmlassungsergebnis zusammen.
-
 <sup>2</sup> Das Vernehmlassungsergebnis wird in der Weisung und in den Erwägungen des Regierungsrates zusammenfassend dargestellt.
-
-**3**
-
-1.10. 22 - 118
 
 <sup>3</sup> Die Vernehmlassungsunterlagen und die Stellungnahmen unterliegen nicht dem Amtsgeheimnis und können bei der zuständigen Direktion eingesehen werden.
 
