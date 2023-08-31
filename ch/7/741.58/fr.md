@@ -4,11 +4,11 @@ title: "Ordonnance du 30 novembre 2018 sur le système d'information relatif à 
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/fr"
 
 (OSIAC)
 
-du 30 novembre 2018 (État le 1<sup>er</sup> août 2023)
+du 30 novembre 2018 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 89*g*, al. 2, 89*h* et 106, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1], vu les art. 7, al. 2, 16, al. 2, et 36, al. 1, de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^ingress-2],
+vu les art. 89*g*, al. 2, 89*h* et 106, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1], vu les art. 8, al. 3, et 33, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-3]: Nouvelle teneur selon l’annexe 2 ch. II 79 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 1 Dispositions générales
 
@@ -265,11 +266,11 @@ L’OFROU publie chaque année:
 
 <sup>4</sup> L’OFROU peut également mettre à la disposition du public des données anonymisées ou des données techniques.
 
-<sup>5</sup> La communication de données à des fins de statistique ou de recherche est régie par la LPD, l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^18-1], la LSF[^18-2] et l’ordonnance du 30 juin 1993 sur les relevés statistiques[^18-3].
+<sup>5</sup> La communication de données à des fins de statistique ou de recherche est régie par la LPD, l’ordonnance du 31 août 2022 sur la protection des données[^18-1], la LSF et l’ordonnance du 30 juin 1993 sur les relevés statistiques[^18-2].[^18-3]
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^18-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^18-3]: Nouvelle teneur selon l’annexe 2 ch. II 79 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 

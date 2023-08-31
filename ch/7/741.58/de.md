@@ -4,11 +4,11 @@ title: Verordnung vom 30. November 2018 über das Informationssystem Verkehrszul
 short: IVZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/de"
 
 (IVZV)
 
-vom 30. November 2018 (Stand am 1. August 2023)
+vom 30. November 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 89*g* Absatz 2, 89*h* und 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG) sowie die Artikel 7 Absatz 2, 16 Absatz 2 und 36 Absatz 1 des Bundesgesetzes vom 19. Juni 1992[^ingress-2] über den Datenschutz (DSG),
+gestützt auf die Artikel 89*g* Absatz 2, 89*h* und 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG) sowie die Artikel 8 Absatz 3 und 33 des Datenschutzgesetzes vom 25. September 2020[^ingress-2] (DSG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-3]: Fassung gemäss Anhang 2 Ziff. II 79 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -265,11 +266,11 @@ Das ASTRA veröffentlicht jährlich:
 
 <sup>4</sup> Das ASTRA kann anonymisierte Daten oder Sachdaten auch der Öffentlichkeit zugänglich machen.
 
-<sup>5</sup> Die Bekanntgabe von Daten zu Statistik- oder Forschungszwecken richtet sich nach dem DSG und der Verordnung vom 14. Juni 1993[^18-1] zum Bundesgesetz über den Datenschutz sowie nach dem BStatG[^18-2] und der Statistikerhebungsverordnung vom 30. Juni 1993[^18-3].
+<sup>5</sup> Die Bekanntgabe von Daten zu Statistik- oder Forschungszwecken richtet sich nach dem DSG und der Datenschutzverordnung vom 31. August 2022[^18-1] sowie nach dem BStatG und der Statistikerhebungsverordnung vom 30. Juni 1993[^18-2].[^18-3]
 
 [^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-3]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^18-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^18-3]: Fassung gemäss Anhang 2 Ziff. II 79 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 

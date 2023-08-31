@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2018 concernente il sistema d'informazione sul
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230801/it"
 
 (OSIAC)
 
-del 30 novembre 2018 (Stato 1° agosto 2023)
+del 30 novembre 2018 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 89*g* capoverso 2, 89*h* e 106 capoverso 1 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr); visti gli articoli 7 capoverso 2, 16 capoverso 2 e 36 capoverso 1 della legge federale del 19 giugno 1992[^ingress-2] sulla protezione dei dati (LPD),
+visti gli articoli 89*g* capoverso 2, 89*h* e 106 capoverso 1 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr); visti gli articoli 8 capoverso 3 e 33 della legge federale del 25 settembre 2020[^ingress-2] sulla protezione dei dati (LPD),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-3]: Nuovo testo giusta l’all. 2 n. II 79 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -262,11 +263,11 @@ L’USTRA pubblica annualmente:
 
 <sup>4</sup> L’USTRA può rendere accessibili anche al pubblico informazioni anonimizzate o dati tecnici.
 
-<sup>5</sup> La comunicazione di dati a fini statistici o di ricerca è retta dalla LPD e dall’ordinanza del 14 giugno 1993[^18-1] relativa alla legge federale sulla protezione dei dati, nonché dalla LStat[^18-2] e dall’ordinanza del 30 giugno 1993[^18-3] sulle rilevazioni statistiche.
+<sup>5</sup> La comunicazione dei dati a fini statistici o di ricerca è retta dalla LPD e dall’ordinanza del 31 agosto 2022[^18-1] sulla protezione dei dati, nonché dalla LStat e dall’ordinanza del 30 giugno 1993[^18-2] sulle rilevazioni statistiche.[^18-3]
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^18-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^18-3]: Nuovo testo giusta l’all. 2 n. II 79 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -642,8 +643,8 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex4-lvlu1-5]
 
-[^annex4-lvlu1-1]: [[RU 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364), [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489), [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471), [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782), [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264), [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25), [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247), [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553)]
-[^annex4-lvlu1-2]: [[RU 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474), [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490), [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353)[5073](https://fedlex.data.admin.ch/eli/oc/2004/783), [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26)[5043](https://fedlex.data.admin.ch/eli/oc/2007/705), [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248)]
-[^annex4-lvlu1-3]: [[RU 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472), [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I 18, [2010 1657](https://fedlex.data.admin.ch/eli/oc/2010/249)]
-[^annex4-lvlu1-4]: [[RU 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267), [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556)]
+[^annex4-lvlu1-1]: [[RU 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364); [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489); [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471); [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782); [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264); [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25); [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247); [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553)]
+[^annex4-lvlu1-2]: [[RU 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474); [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490); [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353), [5073](https://fedlex.data.admin.ch/eli/oc/2004/783); [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26), [5043](https://fedlex.data.admin.ch/eli/oc/2007/705); [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248)]
+[^annex4-lvlu1-3]: [[RU 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472); [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I 18; [2010 1657](https://fedlex.data.admin.ch/eli/oc/2010/249)]
+[^annex4-lvlu1-4]: [[RU 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267); [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556)]
 [^annex4-lvlu1-5]: Le mod. possono essere consultate alla [RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783).
