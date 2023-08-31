@@ -4,11 +4,11 @@ title: "Legge del 23 marzo 2007 sull'approvvigionamento elettrico (LAEl)"
 short: LAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/it"
 
 (LAEl)
 
-del 23 marzo 2007 (Stato 1° gennaio 2023)
+del 23 marzo 2007 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -133,12 +133,12 @@ Nella presente legge s’intende per:[^4-1]
 
 <sup>7</sup> Al raggruppamento per il consumo proprio si applicano gli articoli 17 e 18 della legge federale del 30 settembre 2016[^6-5] sull’energia.[^6-6]
 
-[^6-1]: Nuovo testo giusta il n. II 9 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-1]: Nuovo testo giusta l’all. n. II 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-2]: Nuovo testo giusta il n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^6-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 [^6-4]: Introdotto dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^6-5]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^6-6]: Introdotto dal n. II 9 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-6]: Introdotto dall’all. n. II 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 7
 
@@ -353,9 +353,9 @@ I tariffari:
 
 <sup>5</sup> Le prestazioni concordate nel contesto di concessioni idrauliche vigenti (contratti di concessione), in particolare le forniture di energia rimangono impregiudicate dalle disposizioni sul corrispettivo per l’utilizzazione della rete.
 
-[^14-1]: Nuovo testo giusta il n. II 9 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^14-1]: Nuovo testo giusta l’all. n. II 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^14-2]: Abrogata dal n. I della LF del 12 dic. 2014, con effetto dal 1° giu. 2015 ([RU 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/926)[3405](https://fedlex.data.admin.ch/eli/fga/2014/928)).
-[^14-3]: Nuovo testo giusta il n. II 9 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^14-3]: Nuovo testo giusta l’all. n. II 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^14-4]: Introdotto dal n. I della LF del 12 dic. 2014, in vigore dal 1° giu. 2015 ([RU 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/926)[3405](https://fedlex.data.admin.ch/eli/fga/2014/928)).
 
 #### Art. 15
@@ -452,7 +452,7 @@ Le entrate risultanti dalle procedure di attribuzione orientate al mercato vanno
 
 [^chap3-sec2a-1]
 
-[^chap3-sec2a-1]: Introdotta dal n. II 9 dell’all. alla LF del 30 set. 2016 sull’energia ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nuovo testo giusta il n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^chap3-sec2a-1]: Introdotta dall’all. n. II 9 della LF del 30 set. 2016 sull’energia ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nuovo testo giusta il n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 17a
 
@@ -490,11 +490,12 @@ Il Consiglio federale può emanare prescrizioni sull’impiego di sistemi di con
 
 **Protezione dei dati**
 
-<sup>1</sup> Al trattamento di dati in relazione con sistemi di misurazione, di controllo o di regolazione intelligenti si applica la legge federale del 19 giugno 1992[^17c-1] sulla protezione dei dati.
+<sup>1</sup> Al trattamento di dati personali in relazione con sistemi di misurazione, di controllo o di regolazione intelligenti si applica la legge federale del 25 settembre 2020[^17c-1] sulla protezione dei dati (LPD). La LPD si applica per analogia al trattamento di dati concernenti persone giuridiche.[^17c-2]
 
 <sup>2</sup> Il Consiglio federale emana le disposizioni esecutive in materia di trattamento di dati. Può prevedere disposizioni particolari, segnatamente in relazione con le misurazioni del profilo di carico.
 
 [^17c-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17c-2]: Nuovo testo giusta l’all. 1 n. II 59 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 3: Rete di trasporto svizzera
 
@@ -576,7 +577,7 @@ In particolare, la società di rete:
 
 <sup>4</sup> Il Consiglio federale indica le persone soggette al controllo e disciplina la procedura di controllo.
 
-[^20a-1]: Introdotto dal n. II 9 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^20a-1]: Introdotto dall’all. n. II 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^20a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 ## Capitolo 4: Commissione dell’energia elettrica
@@ -679,9 +680,11 @@ Fatto salvo l’articolo 7*a* capoverso 2 della legge del 21 marzo 1997[^24-1]su
 
 **Protezione dei dati**
 
-<sup>1</sup> L’UFE e la ElCom trattano dati personali, compresi quelli degni di particolare protezione relativi a procedimenti e sanzioni penali (art. 29), nei limiti degli obiettivi della presente legge.
+<sup>1</sup> L’UFE e la ElCom trattano dati personali e dati concernenti persone giuridiche, compresi i dati degni di particolare protezione relativi a procedimenti e sanzioni penali (art. 29), nei limiti degli obiettivi della presente legge.[^27-1]
 
 <sup>2</sup> Essi possono conservare questi dati su supporto elettronico.
+
+[^27-1]: Nuovo testo giusta l’all. 1 n. II 59 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 28
 

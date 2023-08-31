@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgu
 short: StromVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/de"
 
 (Stromversorgungsgesetz, StromVG)
 
-vom 23. März 2007 (Stand am 1. Januar 2023)
+vom 23. März 2007 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -488,11 +488,12 @@ Der Bundesrat kann Vorgaben zum Einsatz von intelligenten Steuer- und Regelsyste
 
 **Datenschutz**
 
-<sup>1</sup> Auf die Datenbearbeitung im Zusammenhang mit intelligenten Mess-, Steuer- oder Regelsystemen findet das Bundesgesetz vom 19. Juni 1992[^17c-1] über den Datenschutz Anwendung.
+<sup>1</sup> Auf die Bearbeitung von Personendaten im Zusammenhang mit intelligenten Mess-, Steuer- oder Regelsystemen findet das Datenschutzgesetz vom 25. September 2020[^17c-1] (DSG) Anwendung. Das DSG findet sinngemäss Anwendung auf die Bearbeitung von Daten juristischer Personen.[^17c-2]
 
 <sup>2</sup> Der Bundesrat erlässt die Ausführungsbestimmungen über die Bearbeitung der Daten. Er kann besondere Bestimmungen vorsehen, namentlich im Zusammenhang mit Lastgangmessungen.
 
 [^17c-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17c-2]: Fassung gemäss Anhang 1 Ziff. II 59 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Abschnitt: Schweizerisches Übertragungsnetz
 
@@ -677,9 +678,11 @@ Der Bundesrat kann unter Vorbehalt von Artikel 7*a* Absatz 2 des Regierungs- und
 
 **Datenschutz**
 
-<sup>1</sup> Das BFE und die ElCom bearbeiten im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten einschliesslich besonders schützenswerter Daten über strafrechtliche Verfolgungen und Sanktionen (Art. 29).
+<sup>1</sup> Das BFE und die ElCom bearbeiten im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Daten über strafrechtliche Verfolgungen und Sanktionen (Art. 29).[^27-1]
 
 <sup>2</sup> Sie können diese Daten elektronisch aufbewahren.
+
+[^27-1]: Fassung gemäss Anhang 1 Ziff. II 59 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 28
 

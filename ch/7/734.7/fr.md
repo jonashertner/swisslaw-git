@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/fr"
 
 (LApEl)
 
-du 23 mars 2007 (État le 1<sup>er</sup> janvier 2023)
+du 23 mars 2007 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -488,11 +488,12 @@ Le Conseil fédéral peut édicter des prescriptions concernant l’utilisation 
 
 **Protection des données**
 
-<sup>1</sup> La loi fédérale du 19 juin 1992 sur la protection des données[^17c-1] s’applique au traitement des données en lien avec des systèmes de mesure, de commande ou de réglage intelligents.
+<sup>1</sup> La loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^17c-1] s’applique au traitement de données personnelles en lien avec des systèmes de mesure, de commande ou de réglage intelligents. La LPD s’applique par analogie aux traitements de données concernant des personnes morales.[^17c-2]
 
 <sup>2</sup> Le Conseil fédéral édicte les dispositions d’exécution concernant le traitement des données. Il peut prévoir des dispositions particulières, notamment en relation avec les mesures de la courbe de charge.
 
 [^17c-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17c-2]: Nouvelle teneur selon l’annexe 1 ch. II 59 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 3 Réseau de transport suisse
 
@@ -678,9 +679,11 @@ Sous réserve de l’art. 7*a*, al. 2, de la loi du 21 mars 1997 sur l’organis
 
 **Protection des données**
 
-<sup>1</sup> Dans les limites des objectifs de la présente loi, l’OFEN et de l’ElCom traitent des données personnelles, y compris les données sensibles concernant des poursuites ou des sanctions pénales (art. 29).
+<sup>1</sup> Dans les limites des objectifs de la présente loi, l’OFEN et l’ElCom traitent des données personnelles et des données concernant des personnes morales, y compris les données sensibles concernant des poursuites ou des sanctions pénales (art. 29).[^27-1]
 
 <sup>2</sup> Ils peuvent conserver ces données sous forme électronique.
+
+[^27-1]: Nouvelle teneur selon l’annexe 1 ch. II 59 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 28
 
