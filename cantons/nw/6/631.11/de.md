@@ -4,13 +4,13 @@ number: "631.11"
 title: Vollzugsverordnung zum Gewässergesetz
 short: "Gewässerverordnung, GewV"
 language: de
-version: 2022-07-01
-corrected: 2023-03-27
-version_adopted: 2022-06-21
+version: 2023-09-01
+valid_until: 2024-10-31
+version_adopted: 2023-05-16
 adopted: 2020-10-13
 in_force: 2020-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/631.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1055/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1141/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1055/pdf_file"
 
 (Gewässerverordnung, GewV)
 
-vom 13.10.2020 (Stand 01.07.2022)
+vom 13.10.2020 (Stand 01.09.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -55,7 +55,7 @@ beschliesst:
 
 <sup>2</sup> Der Gewässerkataster ist öffentlich.
 
-<sup>3</sup> Das Amt für Naturgefahren ist für die Erstellung und Nachführung zuständig.
+<sup>3</sup> Das Amt für Wald und Naturgefahren ist für die Erstellung und Nachführung zuständig.
 
 <sup>4</sup> Werden Gewässerräume, Abflusswege, Abflusskorridore oder Hochwasserentlastungsgebiete im Rahmen eines Wasserbauprojektes festgelegt, haben die Gesuchstellerinnen oder Gesuchsteller die digitalen Geoinformationen dem Amt abzugeben.
 
@@ -81,7 +81,7 @@ beschliesst:
 
 <sup>3</sup> Das Wasserrechtsverzeichnis ist öffentlich.
 
-<sup>4</sup> Das Amt für Umwelt ist für die Erstellung und Nachführung zuständig.
+<sup>4</sup> Das Amt für Umwelt und Energie ist für die Erstellung und Nachführung zuständig.
 
 [^3-1]: NG 631.1
 
@@ -103,9 +103,9 @@ beschliesst:
 
 #### § 5
 
-**2. Amt für Naturgefahren**
+**2. Amt für Wald und Naturgefahren**
 
-<sup>1</sup> Das Amt für Naturgefahren ist für alle kantonalen Aufgaben im Wasserbau zuständig, sofern diese nicht einer anderen Instanz übertragen sind.
+<sup>1</sup> Das Amt für Wald und Naturgefahren ist für alle kantonalen Aufgaben im Wasserbau zuständig, sofern diese nicht einer anderen Instanz übertragen sind.
 
 <sup>2</sup> Es erteilt die Zustimmung zu Ersatzmassnahmen und Abgeltungen gemäss Art. 16 GewG[^5-1].
 
@@ -123,9 +123,9 @@ beschliesst:
 
 **Zusammenarbeit**
 
-<sup>1</sup> Das Amt für Umwelt berät bei wichtigen Anliegen zu Oberflächengewässern das Amt für Naturgefahren.
+<sup>1</sup> Das Amt für Umwelt und Energie berät bei wichtigen Anliegen zu Oberflächengewässern das Amt für Wald und Naturgefahren.
 
-<sup>2</sup> Das Amt für Naturgefahren holt bei Wasserbauprojekten eine Stellungnahme des Amtes für Umwelt ein; das Amt für Umwelt kann Anträge stellen.
+<sup>2</sup> Das Amt für Wald und Naturgefahren holt bei Wasserbauprojekten eine Stellungnahme des Amtes für Umwelt und Energie; dieses kann Anträge stellen.
 
 #### § 8
 
@@ -269,9 +269,9 @@ beschliesst:
 
 #### § 19
 
-**4. Amt für Umwelt**
+**4. Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt ist unter Vorbehalt von § 20 die Gewässerschutzfachstelle im Sinne des Bundesrechts sowie die Ansprechstelle des Bundes.
+<sup>1</sup> Das Amt für Umwelt und Energie ist unter Vorbehalt von § 20 die Gewässerschutzfachstelle im Sinne des Bundesrechts sowie die Ansprechstelle des Bundes.
 
 <sup>2</sup> Es vollzieht alle dem Kanton nach der Gewässerschutzgesetzgebung zufallenden Aufgaben, soweit sie nicht einer anderen Instanz übertragen sind.
 
@@ -316,15 +316,15 @@ beschliesst:
 
 #### § 23
 
-**2. Amt für Umwelt**
+**2. Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt ist unter Vorbehalt von § 24 das für die Belange der Gewässernutzung zuständige Amt.
+<sup>1</sup> Das Amt für Umwelt und Energie ist unter Vorbehalt von § 24 das für die Belange der Gewässernutzung zuständige Amt.
 
 #### § 24
 
-**3. Amt für Wald und Energie**
+**3. Amt für Wald und Naturgefahren**
 
-<sup>1</sup> Das Amt für Wald und Energie ist zuständig für die Belange der Wasserkraftnutzung.
+<sup>1</sup> Das Amt für Wald und Naturgefahren ist zuständig für die Belange der Wasserkraftnutzung.
 
 #### § 25
 
@@ -467,9 +467,9 @@ beschliesst:
 
 #### § 37
 
-**3. Amt für Umwelt**
+**3. Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt ist das für die Belange der Wasserversorgung zuständige Amt.
+<sup>1</sup> Das Amt für Umwelt und Energie ist das für die Belange der Wasserversorgung zuständige Amt.
 
 <sup>2</sup> Es ist für alle kantonalen Aufgaben der Wasserversorgung zuständig, sofern diese nicht einer anderen Instanz übertragen sind.
 
