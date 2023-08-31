@@ -3,20 +3,23 @@ sr: "360.2"
 title: Verordnung vom 15. Oktober 2008 über das Nationale Ermittlungssystem (NES-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-697-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-697-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über das Informationssystem der Bundeskriminalpolizei
+# Verordnung über das Nationale Ermittlungssystem
 
-(JANUS-Verordnung)
+(NES[^t-2]-Verordnung)[^t-1]
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2023)
+vom 15. Oktober 2008 (Stand am 1. September 2023)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^t-2]: Ausdruck gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 Der Schweizerische Bundesrat,
 
@@ -37,7 +40,7 @@ verordnet:
 
 <sup>1</sup>
 
-Diese Verordnung regelt für das Informationssystem JANUS der Bundeskriminalpolizei nach Artikel 10, 11, 13 und 18 BPI:
+Diese Verordnung regelt für das Nationale Ermittlungssystem (NES) nach den Artikeln 10, 11, 12, 13 und 18 BPI:[^1-1]
 
 - a. die verantwortliche Behörde;
 - b. die Struktur und den Inhalt;
@@ -47,19 +50,20 @@ Diese Verordnung regelt für das Informationssystem JANUS der Bundeskriminalpoli
 
 <sup>2</sup>
 
-Das JANUS setzt sich aus folgenden Subsystemen zusammen:
+Das NES setzt sich aus folgenden Subsystemen zusammen:
 
 - a. System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes nach Artikel 10 BPI;
 - b. System Bundesdelikte nach Artikel 11 BPI;
 - c. System zur Unterstützung der Ermittlungen der Kantone im Bereich ihrer Strafverfolgungskompetenzen nach Artikel 13 BPI;
 - d. Geschäfts- und Aktenverwaltungssystem des Bundesamts für Polizei (fedpol) nach Artikel 18 BPI.
-- e.[^1-1] System internationale und interkantonale Polizeikooperation nach Artikel 12 BPI.
+- e.[^1-2] System internationale und interkantonale Polizeikooperation nach Artikel 12 BPI.
 
-[^1-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 1. Febr. 2015 ([AS 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^1-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 1. Febr. 2015 ([AS 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
 
 #### Art. 2
 
-**Zweck des JANUS und seiner Subsysteme**
+**Zweck des NES und seiner Subsysteme**
 
 <sup>1</sup> Das System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes dient deren Durchführung im sachlichen Zuständigkeitsbereich des Bundes.
 
@@ -67,118 +71,109 @@ Das JANUS setzt sich aus folgenden Subsystemen zusammen:
 
 Das System Bundesdelikte unterstützt:
 
-- a. die gesetzlichen Informations-, Koordinations- und Analyseaufgaben der Bundeskriminalpolizei;
-- b. die Durchführung von Vorermittlungen im sachlichen Zuständigkeitsbereich des Bundes;
-- c. die Zusammenarbeit der Bundeskriminalpolizei mit der Grenzwacht und den Zollorganen, den kantonalen Strafverfolgungsbehörden und den kriminalpolizeilichen Diensten der Kantone, soweit sie im Rahmen ihrer Zuständigkeit an der Bekämpfung der interkantonalen und internationalen Kriminalität beteiligt sind;
-- d. die Zusammenarbeit der Bundeskriminalpolizei mit Behörden ausländischer Staaten beim Kampf gegen die internationale Kriminalität.
+- a.[^2-1] die gesetzlichen Informations-, Koordinations- und Analyseaufgaben der Bundeskriminalpolizei (BKP);
+- b.[^2-2] die Durchführung von kriminalpolizeilichen Ermittlungen im Vorfeld eines Strafverfahrens im sachlichen Zuständigkeitsbereich des Bundes;
+- c.[^2-3] die Zusammenarbeit der BKP mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) und den kantonalen Strafverfolgungsbehörden, soweit sie im Rahmen ihrer Zuständigkeit an der Bekämpfung der interkantonalen und internationalen Kriminalität beteiligt sind;
+- d. die Zusammenarbeit der BKP[^2-4] mit Behörden ausländischer Staaten beim Kampf gegen die internationale Kriminalität.
 
-<sup>3</sup> Das System zur Unterstützung der Ermittlungen der Kantone im Bereich ihrer Strafverfolgungskompetenzen unterstützt die kantonalen Strafverfolgungsbehörden und die kriminalpolizeilichen Dienste der Kantone bei Vorermittlungen und gerichtspolizeilichen Ermittlungen, die die Bundesstrafgerichtsbarkeit nicht beschlagen und ausserhalb des Anwendungsbereiches der Strafprozessordnung[^2-1], des ZentG und des Bundesgesetzes vom 21. März 1997[^2-2] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) und des NDG liegen.[^2-3]
+<sup>3</sup> Das System zur Unterstützung der Ermittlungen der Kantone im Bereich ihrer Strafverfolgungskompetenzen unterstützt die kantonalen Strafverfolgungsbehörden bei kriminal- und gerichtspolizeilichen Ermittlungen, die ausserhalb der Bundesstrafgerichtsbarkeit und ausserhalb des Anwendungsbereiches des ZentG, des Bundesgesetzes vom 21. März 1997[^2-5] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) und des NDG liegen.[^2-6]
 
 <sup>4</sup> Das Geschäfts- und Aktenverwaltungssystem von fedpol unterstützt die Verwaltung der Dokumente und Dossiers, die von fedpol bearbeitet werden.
 
-[^2-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^2-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^2-3]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^2-4]: Ausdruck gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^2-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^2-6]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 3
 
-**Anwendungsbereiche**
+**Anwendungsbereiche**[^3-1]
 
 <sup>1</sup>
 
-Im JANUS werden Daten bearbeitet, die im Rahmen der Aufgaben der Bundeskriminalpolizei (BKP) in ihrer Funktion als Zentralstelle nach Artikel 2*a* ZentG erforderlich sind: [^3-1]
+Im NES werden Daten bearbeitet, die im Rahmen der Aufgaben der BKP in ihrer Funktion als Zentralstelle nach Artikel 2*a* ZentG erforderlich sind:
 
-- a. zur Verhinderung und Bekämpfung des illegalen Drogenhandels nach Artikel 29 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^3-2] sowie der Artikel 9 und 10 des ZentG;
-- b.[^3-3] zur Erkennung und Bekämpfung des organisierten Verbrechens nach den Artikeln 7 und 8 ZentG sowie Artikel 24 Absatz 1 der Strafprozessordnung (StPO)[^3-4];
-- c. zur Bekämpfung der Falschmünzerei nach dem Internationalen Abkommen vom 20. April 1929[^3-5] zur Bekämpfung der Falschmünzerei;
-- d. zur Bekämpfung des Menschenhandels nach dem Internationalen Übereinkommen vom 18. Mai 1904[^3-6] zur Gewährleistung eines wirksamen Schutzes gegen das unter dem Namen «Mädchenhandel» bekannte verbrecherische Treiben, dem Internationalen Übereinkommen vom 4. Mai 1910[^3-7] zur Bekämpfung des Mädchenhandels, dem Internationalen Übereinkommen vom 30. September 1921[^3-8] zur Unterdrückung des Frauen- und Kinderhandels und dem Internationalen Abkommen vom 11. Oktober 1933[^3-9] über die Unterdrückung des Handels mit volljährigen Frauen;
-- e. zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen nach dem Internationalen Übereinkommen vom 4. Mai 1910[^3-10] zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen und dem Internationalen Übereinkommen vom 12. September 1923[^3-11] zur Bekämpfung der Verbreitung und des Vertriebes von unzüchtigen Veröffentlichungen;
-- f.[^3-12] zur Bekämpfung der Wirtschaftskriminalität nach Artikel 24 Absatz 2 StPO sowie den Artikeln 7 und 8 ZentG;
-- g.[^3-13] zur Bekämpfung der Geldwäscherei nach Artikel 24 Absatz 1 StPO sowie den Artikeln 7 und 8 ZentG;
-- h.[^3-14] zur Bekämpfung der Korruptionsdelikte nach Artikel 24 Absatz 1 StPO sowie den Artikeln 7 und 8 ZentG;
-- i.[^3-15] zur Erkennung und Bekämpfung von Verbrechen und schweren Vergehen nach Artikel 3*a* ZentG.
+- a. zur Erkennung und Bekämpfung des organisierten Verbrechens und terroristischer Straftaten nach Artikel 24 Absatz 1 der Strafprozessordnung (StPO)[^3-2] und den Artikeln 7 Absatz 1 und 8 ZentG;
+- b. zur Erkennung und Bekämpfung von Wirtschaftsstraftaten nach den Artikeln 24 Absatz 1 StPO und 7 Absatz 2 und 8 ZentG;
+- c. zur Verhinderung und Bekämpfung des unerlaubten Betäubungsmittelverkehrs nach Artikel 29 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^3-3] und der Artikel 9 und 10 ZentG;
+- d. zur Verhinderung und Bekämpfung des Menschenhandels, der Verbreitung von Pornographie und der Falschmünzerei gestützt auf Staatsverträge oder andere Bundesgesetze nach Artikel 6 ZentG;
+- e. zur Bekämpfung der Cyberkriminalität nach Artikel 1 Absatz 2 Buchstabe a ZentG;
+- f. zur Erkennung und Bekämpfung von Verbrechen und schweren Vergehen unter Einsatz der verdeckten Fahndung nach Artikel 3*a* ZentG.
 
-<sup>2</sup> Im JANUS werden auch Daten bearbeitet, die zur Erfüllung der Aufgaben der Bundeskriminalpolizei zur Bekämpfung sowie zur Verfolgung der übrigen unter die allgemeine Bundesgerichtsbarkeit gemäss Artikel 23 StPO fallenden Delikte notwendig sind, soweit diese in die Zuständigkeit des Bundes fallen und vor Hängigkeit der Strafverfahren bearbeitet werden. Diese Daten werden von den Daten gemäss den Absätzen 1 und 5 getrennt bearbeitet.[^3-16]
+<sup>2</sup> Im NES werden auch Daten bearbeitet, die zur Erfüllung der Aufgaben der BKP zur Bekämpfung sowie zur Verfolgung der übrigen unter die allgemeine Bundesgerichtsbarkeit nach Artikel 23 StPO fallenden Delikte notwendig sind, soweit diese in die Zuständigkeit des Bundes fallen und vor Eröffnung der Strafverfahren bearbeitet werden. Diese Daten werden von den Daten nach den Absätzen 1 und 4 logisch getrennt bearbeitet.
 
-<sup>3</sup> Im JANUS werden auch Daten bearbeitet, die vom Europäischen Polizeiamt (Europol) übermittelt werden. Die Bearbeitung dieser Daten richtet sich nach dem Abkommen vom 24. September 2004[^3-17] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt.
+<sup>3</sup> Im NES werden zudem Daten bearbeitet, die von Europol, bei der Zusammenarbeit mit anderen Schengen-Staaten oder mit Interpol übermittelt werden.
 
-<sup>4</sup> Im JANUS werden Daten bearbeitet, die im Rahmen der Zusammenarbeit mit anderen Schengen-Staaten übermittelt wurden. Die Erfassung und Bearbeitung dieser Daten richtet sich nach der N-SIS-Verordnung vom 7. Mai 2008[^3-18].
+<sup>4</sup> Die kantonalen Strafverfolgungsbehörden können im NES Daten zur Bekämpfung der strafbaren Handlungen bearbeiten, die in ihre Zuständigkeit fallen. Die Bearbeitung dieser Daten erfolgt logisch getrennt von der Bearbeitung der Daten nach den Absätzen 1 und 2 und richtet sich nach den kantonalen Vorschriften.
 
-<sup>5</sup> Die kantonalen Strafverfolgungsbehörden und die kriminalpolizeilichen Dienste der Kantone können in den Unterkategorien «Journal» und «Personen und Vorgänge» des JANUS Daten zur Bekämpfung der strafbaren Handlungen bearbeiten, für welche keine Bundesstrafgerichtsbarkeit gegeben ist und die nicht in den Anwendungsbereich der Strafprozessordnung[^3-19], des ZentG, des BWIS[^3-20] und des NDG fallen. Diese Daten werden von den Daten gemäss den Absätzen 1–4 getrennt bearbeitet. Die Bearbeitung dieser Daten richtet sich nach den kantonalen Vorschriften.[^3-21]
-
-[^3-1]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^3-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^3-3]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^3-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^3-5]: [SR 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
-[^3-6]: [SR 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
-[^3-7]: [SR 0.311.32](https://fedlex.data.admin.ch/eli/cc/42/180_200_195)
-[^3-8]: [SR 0.311.33](https://fedlex.data.admin.ch/eli/cc/42/187_207_202)
-[^3-9]: [SR 0.311.34](https://fedlex.data.admin.ch/eli/cc/50/575_595_645)
-[^3-10]: [SR 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
-[^3-11]: [SR 0.311.42](https://fedlex.data.admin.ch/eli/cc/42/200_220_214)
-[^3-12]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^3-13]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^3-14]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^3-15]: Eingefügt durch Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^3-16]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^3-17]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^3-18]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-[^3-19]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^3-20]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^3-21]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^3-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^3-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 4
 
-**Verantwortliche Behörde**
+**Verantwortliche Behörde**[^4-1]
 
-<sup>1</sup> Fedpol trägt die Verantwortung für das JANUS. Es erlässt ein Bearbeitungsreglement und bestellt einen Kontrolldienst.
+<sup>1</sup> Fedpol trägt die Systemverantwortung für das NES und trifft die technischen und organisatorischen Massnahmen nach der Datenschutzverordnung vom 31. August 2022[^4-2].
 
-<sup>2</sup> Der Kontrolldienst ist verantwortlich für die Einhaltung der Verordnung, ihrer Anhänge und des Bearbeitungsreglementes durch die Benutzerinnen und Benutzer sowie für die Datenpflege im Rahmen von Erfassung, Bearbeitung und Löschung der Daten.
+<sup>2</sup> Fedpol erlässt ein Bearbeitungsreglement und bestellt die Aufsicht (Aufsicht fedpol). Die Aufsicht fedpol ist verantwortlich für die Einhaltung dieser Verordnung, ihres Anhangs und des Bearbeitungsreglements durch die Benutzerinnen und Benutzer sowie für die Datenpflege bei der Erfassung, Bearbeitung und Löschung der Daten; davon ausgenommen sind die Systeme nach den Artikeln 10 und 13 BPI.
 
-<sup>3</sup> Der vom Departement beauftragte Informatik-Leistungserbringer ist verantwortlich für den Betrieb des JANUS.
+<sup>3</sup> Der vom Eidgenössischen Justiz- und Polizeidepartement (EJPD) beauftragte Informatik-Leistungserbringer ist verantwortlich für den Betrieb des NES.
 
-## 2. Abschnitt: Struktur und Inhalt des JANUS
+<sup>4</sup> Die Verantwortung für die Datenbearbeitung im System nach Artikel 13 BPI richtet sich nach kantonalem Recht.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^4-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+
+## 2. Abschnitt: Struktur und Inhalt des NES
 
 #### Art. 5
 
-**Struktur des JANUS**
+**Struktur des NES**
 
-Das JANUS setzt sich aus folgenden Unterkategorien zusammen:
+Das NES setzt sich aus folgenden Unterkategorien zusammen:
 
-- a. «Personen und Vorgänge» (PV); darin werden Informationen über Personen, Organisationen sowie juristische Personen und die sie betreffenden Vorgänge registriert, die aus Vorermittlungen, gerichtspolizeilichen Ermittlungsverfahren oder allgemein zugänglichen Quellen gewonnen wurden;
-- b. «Journal» (JO); darin werden Informationen aus Vorermittlungen, aus gerichtspolizeilichen Ermittlungsverfahren oder aus allgemein zugänglichen Quellen fallbezogen registriert (insbesondere Überwachungen des Fernmeldeverkehrs, Observationsjournale, Ermittlungsjournale);
+- a*.*[^5-1] «Informationsfall»; darin werden Informationen über Personen, Organisationen sowie juristische Personen und die sie betreffenden Daten registriert, die aus kriminal- und gerichtspolizeilichen Ermittlungen oder allgemein zugänglichen Quellen gewonnen wurden;
+- b.[^5-2] «Ermittlungsfall»; darin werden Informationen aus kriminal- und gerichtspolizeilichen Ermittlungen oder aus allgemein zugänglichen Quellen fallbezogen registriert, insbesondere Überwachungen des Fernmeldeverkehrs, Audio- und Video-Überwachungen, Observationsjournale, Ermittlungsjournale;
 - c. «Polizeirapportsystem» (PR); darin werden zur Aufgabenerfüllung notwendige Berichte und Anzeigen verfasst und verwaltet;
 - d. «Geschäfts- und Aktenverwaltung» (GA); darin werden Informationen registriert, die für die Geschäftskontrolle notwendig sind;
 - e. «Allgemeine Erkenntnisse» (ER); darin werden weitere nützliche und zur Aufgabenerfüllung notwendige Informationen registriert wie Angaben aus Telefonverzeichnissen, Zeitungsausschnitte, Beschriebe der Kompetenzen von Ämtern oder Angaben aus allgemein zugänglichen Quellen;
 - f. «Lagebericht» (LA); darin werden Berichte über die nationale undinternationale Lage registriert;
 - g. «Analysen» (AN); darin werden die Ergebnisse von Analyseaufträgen registriert;
 - h. «Blüte» (BL); darin werden sämtliche Falschgeldtypen und Fälschungstechniken registriert.
-- i. als Text, Bild oder Ton gespeicherte Daten, die bei der Bundeskriminalpolizei im Rahmen von gerichtspolizeilichen Ermittlungsverfahren bei hängigen Strafverfahren anfallen;
-- j. als Text, Bild oder Ton gespeicherte Daten, die bei der Bundeskriminalpolizei im Rahmen von Vorermittlungen anfallen.
+- i.[^5-3] als Text, Bild oder Ton gespeicherte Daten, die bei gerichtspolizeilichen Ermittlungsverfahren bei hängigen Strafverfahren anfallen;
+- j.[^5-4] als Text, Bild oder Ton gespeicherte Daten, die bei kriminalpolizeilichen Ermittlungen im Vorfeld eines Strafverfahrens anfallen.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-4]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 6
 
-**Struktur der Unterkategorien «Personen und Vorgänge» und «Journal»**
+**Struktur der Unterkategorien «Informationsfall» und «Ermittlungsfall»**[^6-1]
 
 <sup>1</sup>
 
-Die Unterkategorie «Personen und Vorgänge» (PV) umfasst:
+Die Unterkategorie «Informationsfall» umfasst:
 
-- a. Stämme, mit Angaben über Personen, Organisationen oder juristische Personen;
-- b. Vorgänge, d.h. Daten über Sachverhalte, die nach kriminologischen Deliktskategorien unterschieden werden;
-- c. Subfelder, mit denen unter anderem im Text eines Vorgangs Vergleichselemente, insbesondere in Zusammenhang mit Drittpersonen, markiert und Abfragen nach diesen Vergleichselementen durchgeführt werden können. Die vollständige Liste der Subfelder ist in Anhang 1 aufgeführt.
+- a. Stammdaten, mit Angaben über natürliche oder juristische Personen oder Organisationen;
+- b. Daten über Sachverhalte, die nach kriminologischen Deliktskategorien unterschieden werden.
 
 <sup>2</sup>
 
-Die Unterkategorie «Journal» (JO) umfasst:
+Die Unterkategorie «Ermittlungsfall» umfasst:
 
-- a. Kopf: Daten über die Journale, welche jeweils fallbezogen geführt werden;
-- b. Details: Daten über jeden einzelnen Vorfall.
+- a. Stammdaten, mit Angaben über natürliche oder juristische Personen oder Organisationen;
+- b. Sachverhalte, welche fallbezogen geführt werden.
 
-<sup>3</sup> Der Stamm und die dazugehörigen Vorgänge oder der Datenkopf und die dazugehörigen Details bilden zusammen einen Datenblock.
+<sup>3</sup> Die Stammdaten (Abs. 1 Bst. a und Abs. 2 Bst. a) bilden zusammen mit den Daten über Sachverhalte (Abs. 1 Bst. b und Abs. 2 Bst. b) einen Datenblock.
 
-<sup>4</sup> In den Unterkategorien «Personen und Vorgänge» und «Journal» werden die Daten, welche im Rahmen einer Vorermittlung, eines gerichtspolizeilichen Ermittlungsverfahrens nach Eröffnung durch die Untersuchungsbehörde oder aus allgemein zugänglichen Quellen erhoben worden sind, in drei entsprechend gekennzeichnete Kategorien unterteilt.
+<sup>4</sup> In den Unterkategorien «Informationsfall» und «Ermittlungsfall» werden die Daten, die bei kriminal- und gerichtspolizeilichen Ermittlungen anfallen oder aus allgemein zugänglichen Quellen stammen, in drei entsprechend gekennzeichnete Kategorien unterteilt.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 7
 
@@ -190,81 +185,72 @@ Die Unterkategorie «Journal» (JO) umfasst:
 
 Es erlaubt den Zugriff auf:
 
-- a. spezifische, in Text- oder Bildform gespeicherte Unterlagen, die sich auf Geschäfte der Bundeskriminalpolizei beziehen;
-- b. Daten über die Übermittlung und Bearbeitung von Unterlagen und Dossiers wie auch über allfällige Recherchen die in den der Bundeskriminalpolizei zugänglichen Informationssystemen gemacht wurden;
+- a.[^7-1] spezifische, in Text- oder Bildform gespeicherte Unterlagen, die sich auf Geschäfte von fedpol beziehen;
+- b.[^7-2] Daten über die Übermittlung und Bearbeitung von Unterlagen und Dossiers wie auch über allfällige Recherchen die in den von fedpol zugänglichen Informationssystemen gemacht wurden;
 - c. den Standort der Akten und Angaben über die Aktenausleihe.
 
-<sup>3</sup> Die in dieser Unterkategorie bearbeiteten Daten können nach Personen, Objekten oder Ereignissen klassifiziert werden. Sie können in anderen JANUS-Subsystemen oder Unterkategorien bearbeitet werden, wenn die spezifischen Bestimmungen zu diesen Subsystemen oder Unterkategorien es erlauben.
+<sup>3</sup> Die in dieser Unterkategorie bearbeiteten Daten können nach Personen, Objekten oder Ereignissen klassifiziert werden. Sie können in anderen NES-Subsystemen oder Unterkategorien bearbeitet werden, wenn die spezifischen Bestimmungen zu diesen Subsystemen oder Unterkategorien es erlauben.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 8
 
-**Bearbeitete Daten**
+**Bearbeitete Daten**[^8-1]
 
-<sup>1</sup> Zur Bekämpfung des illegalen Drogenhandels werden im JANUS nur Daten über Personen bearbeitet, die verdächtigt werden, einen derartigen Handel auszuüben, darin verwickelt oder daran beteiligt zu sein oder daraus Nutzen zu ziehen. Daten über Personen, die Drogen nur konsumieren, werden nicht registriert.
+<sup>1</sup> Zur Bekämpfung des illegalen Drogenhandels werden im NES nur Daten über Personen bearbeitet, die verdächtigt werden, einen derartigen Handel auszuüben, darin verwickelt oder daran beteiligt zu sein oder daraus Nutzen zu ziehen. Daten über Personen, die Drogen nur konsumieren, werden nicht registriert.
 
 <sup>2</sup>
 
-Zur Bekämpfung des organisierten Verbrechens werden Daten bearbeitet über:
+Zur Bekämpfung der organisierten Kriminalität werden im NES Daten bearbeitet über:
 
-- a.[^8-1] Organisationen, gegen die hinreichende Verdachtsgründe vorliegen, dass es sich um kriminelle Vereinigungen nach Artikel 260<sup>ter</sup> des Strafgesetzbuchs[^8-2] handelt;
-- b. Personen, gegen die hinreichende Verdachtsgründe vorliegen, dass sie Straftaten vorbereiten, begehen oder unterstützen, bei denen die Mitwirkung einer Organisation nach Buchstabe a vermutet wird;
-- c. Personen, gegen die hinreichende Verdachtsgründe vorliegen, dass sie an einer Organisation nach Buchstabe a beteiligt sind oder diese unterstützen.
+- a. Gruppierungen und Organisationen, gegen die hinreichende Verdachtsgründe vorliegen, dass es sich dabei um kriminelle Organisationen handelt;
+- b. Personen, die verdächtigt werden, sich an einer kriminellen Organisation zu beteiligen, diese zu unterstützen oder für diese Straftaten vorzubereiten, zu erleichtern, zu unterstützen, sich daran zu beteiligen oder sie zu begehen.
 
-<sup>3</sup> Zur Erfüllung der Aufgaben nach Artikel 3 Buchstabe c–h werden im JANUS Daten über Personen bearbeitet, die verdächtigt werden, entsprechende deliktische Aktivitäten auszuüben, darin verwickelt oder daran beteiligt zu sein oder daraus Nutzen zu ziehen.
+<sup>3</sup> Zur Erfüllung der weiteren Aufgaben nach Artikel 3 Absatz 1 Buchstabe b–f werden im NES Daten über Personen bearbeitet, die verdächtigt werden, entsprechende strafbare Handlungen begangen zu haben, daran beteiligt zu sein, oder daraus Nutzen zu ziehen.
 
-<sup>4</sup> Zur Bekämpfung der strafbaren Handlungen, die in die Zuständigkeit der kantonalen Behörden fallen, werden im JANUS Daten über Personen bearbeitet, die verdächtigt werden, entsprechende deliktische Aktivitäten auszuüben, darin verwickelt oder daran beteiligt zu sein oder daraus Nutzen zu ziehen.
+<sup>4</sup> Zur Bekämpfung der strafbaren Handlungen, die in die Zuständigkeit der kantonalen Behörden fallen, werden im NES Daten über Personen bearbeitet, die verdächtigt werden, entsprechende strafbare Handlungen auszuüben, darin verwickelt oder daran beteiligt zu sein oder daraus Nutzen zu ziehen.
 
-<sup>5</sup> Daten von Drittpersonen, über welche keine Stämme angelegt worden sind, dürfen im JANUS nur bearbeitet werden, soweit sich dies zur Erreichung der in Artikel 2 genannten Zwecke als nötig erweist.
+<sup>5</sup> Im NES dürfen nur die im Datenkatalog (Anhang 1) aufgeführten Daten bearbeitet werden.
 
-<sup>6</sup> Daten aus allgemein zugänglichen Quellen dürfen in den Unterkategorien «Personen und Vorgänge» und «Journal» bearbeitet werden, sofern sie mit einem nach den Absätzen 1–4 bereits eröffneten Stamm, beziehungsweise Fall, in einem Zusammenhang stehen.
-
-<sup>7</sup> Im JANUS dürfen nur die im Datenkatalog (Anhang 1) aufgeführten Daten bearbeitet werden.
-
-<sup>8</sup> Im JANUS dürfen vorübergehend Daten über die Koordination internationaler oder interkantonaler Ermittlungen im Sinne von Artikel 2*a* Buchstabe b ZentG bearbeitet werden. Diese Daten werden in einer gesonderten Datenkategorie bearbeitet. Der Kontrolldienst überprüft sie spätestens drei Jahre nach deren Erfassung und löscht sie, wenn sie nicht nach Massgabe der Absätze 1–7 bearbeitet werden können.[^8-3]
-
-[^8-1]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^8-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^8-3]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^8-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 9
 
-**Herkunft der Daten**
+**Herkunft der Daten**[^9-1]
 
-Die im JANUS registrierten Daten stammen:
+Die im NES registrierten Daten stammen:
 
-- a. von polizeilichen Ermittlungen des Bundes und der Kantone vor der Eröffnung eines gerichtspolizeilichen Ermittlungsverfahrens;
-- b. von gerichtspolizeilichen Ermittlungen kantonaler Strafverfolgungs- und Polizeibehörden;
-- c. von gerichtspolizeilichen Ermittlungsverfahren von Strafverfolgungs- und Polizeibehörden des Bundes;
-- d.[^9-1] von den Sicherheitsorganen des Bundes nach dem BWIS[^9-2] und dem NDG;
-- e. von Meldungen, die nach den Artikeln 2 Buchstaben b–d, 4, 8 Absatz 1 und 10 ZentG erstattet wurden;
+- a. von kriminalpolizeilichen Ermittlungen des Bundes und der Kantone im Vorfeld eines Strafverfahrens;
+- b. von gerichtspolizeilichen Ermittlungen kantonaler Strafverfolgungsbehörden;
+- c. von gerichtspolizeilichen Ermittlungen des Bundes;
+- d. von den Sicherheitsorganen des Bundes nach dem BWIS[^9-2] und dem NDG;
+- e. von Meldungen, die nach den Artikeln 4, 8 Absatz 1 und 10 ZentG erstattet wurden;
 - f. von Nachprüfungen, die im Rahmen von Rechtshilfeverfahren zur Beweismittelaufnahme vorgenommen wurden;
-- g. von allgemein zugänglichen Quellen.
+- g. von allgemein zugänglichen Quellen;
+- h. von Informationen, die bei der Wahrnehmung von Aufgaben nach Artikel 2*a* ZentG beschafft wurden.
 
-[^9-1]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 [^9-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 #### Art. 10
 
-**Intranet JANUS und elektronische Post**
+**Kollaborationsplattform**[^10-1]
 
-<sup>1</sup>
-
-Das Intranet JANUS ist ein chiffriert betriebenes Kommunikationssystem. Es wird unabhängig von anderen Systemen betrieben. Es besteht aus:
-
-- a. Intranetdiensten;
-- b. einer elektronischen Post.
+<sup>1</sup> Fedpol betreibt gestützt auf Artikel 12 BPI eine Kollaborationsplattform für den Informationsaustausch mit kantonalen und anderen Bundesbehörden.
 
 <sup>2</sup>
 
-Fedpol stellt das Intranet JANUS nachfolgendem Benützerkreis zur Verfügung:
+Die Kollaborationsplattform steht dem folgenden Benutzerkreis zur Verfügung:
 
 - a. den mit gerichtspolizeilichen Aufgaben betrauten Diensten des Bundes und der Kantone;
-- b. den Benutzerinnen und Benutzern des JANUS;
-- c. Grenzwacht und Zollorganen und den kantonalen Strafverfolgungsbehörden, die im Rahmen ihrer Zuständigkeit an der Bekämpfung der interkantonalen und internationalen Kriminalität beteiligt sind.
+- b. den weiteren Benutzerinnen und Benutzern des NES;
+- c. dem BAZG und den kantonalen Strafverfolgungsbehörden, die bei ihrer Zuständigkeit an der Bekämpfung der interkantonalen und internationalen Kriminalität beteiligt sind;
+- d. den Benutzerinnen und Benutzern des automatisierten Polizeifahndungssystems (RIPOL) nach Artikel 15 BPI.
 
-<sup>3</sup> Die im Intranet JANUS vorhandenen Administrativdaten und die elektronische Post dürfen auch Personen zugänglich gemacht werden, die durch logistische oder organisatorische Dienstleistungen zur Funktionstüchtigkeit des JANUS sowie zur Verwaltung und Ausbildung seiner Benützer beitragen.
+<sup>3</sup> Die in der Kollaborationsplattform vorhandenen Administrativdaten dürfen auch Personen zugänglich gemacht werden, die durch logistische oder organisatorische Dienstleistungen zur Funktionstüchtigkeit des NES sowie zur Verwaltung und Ausbildung seiner Benutzerinnen und Benutzern beitragen.
 
-<sup>4</sup> Die elektronische Post kann mit Ausnahme des Geschäftsinhalts des Intranet JANUS von der Bundeskriminalpolizei und anderen mit der Strafverfolgung betrauten Behörden benutzt werden, um einander Daten in sicherer Weise zu übermitteln.
+[^10-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## 3. Abschnitt: Zugriffsberechtigungen
 
@@ -274,124 +260,129 @@ Fedpol stellt das Intranet JANUS nachfolgendem Benützerkreis zur Verfügung:
 
 <sup>1</sup>
 
-Folgende Stellen haben, soweit es zur Erfüllung ihrer gesetzlichen Aufträge notwendig ist, durch ein Abrufverfahren Zugriff (Online-Zugriff) auf das JANUS:
+Folgende Stellen haben, soweit es zur Erfüllung ihrer gesetzlichen Aufträge notwendig ist, durch ein Abrufverfahren Zugriff (Online-Zugriff) auf das NES:
 
-- a.[^11-1] die Bundeskriminalpolizei, die Abteilung Einsatzzentrale und die Abteilung Operative Polizeikooperation bei der Hauptabteilung Internationale Polizeikooperation sowie die Sektion Polizeisysteme der Hauptabteilung Dienste;
+- a.[^11-1] die BKP, die bei fedpol für die nationale- und internationale Polizeikooperation zuständige Stelle und die Stelle, die für den operativen Betrieb und den technischen Unterhalt der Polizeisysteme zuständig ist;
 - b. die Bundesanwaltschaft;
-- c.[^11-2] die kriminalpolizeilichen Dienste der Kantone, die im Rahmen ihrer Zuständigkeit mit der Bundeskriminalpolizei und der Abteilung Analyse von fedpol[^11-3] sowie der Abteilung Analyse des Nachrichtendienstes des Bundes (NDB) zusammenarbeiten (Art. 10 Abs. 4 Bst. c und 11 Abs. 5 Bst. c BPI);
-- d.[^11-4] die Abteilung Analyse von fedpol sowie der NDB zur Erstellung von Analysen im Rahmen seiner Tätigkeit nach dem NDG;
-- e.[^11-5] der NDB zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 2 und 68 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^11-6] (AIG);
-- f. der Rechtsdienst von fedpol für den Erlass von Verfügungen von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 2 und 68 AIG;
-- g. der Kontrolldienst;
-- h.[^11-7] die Datenschutzberaterin oder der Datenschutzberater von fedpol und des NDB;
+- c.[^11-2] die kantonalen Dienste mit kriminalpolizeilichen Aufgaben, die mit der BKP und der beim Nachrichtendienst des Bundes (NDB) für die Analyse zuständigen Stelle zusammenarbeiten (Art. 10 Abs. 4 Bst. c und 11 Abs. 5 Bst. c BPI);
+- d.[^11-3] die bei fedpol und dem NDB zur Erstellung von Analysen zuständige Stelle;
+- e.[^11-4] der NDB zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 2 und 68 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^11-5] (AIG);
+- f.[^11-6] die Stelle von fedpol, die für den Erlass von Verfügungen von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 2 und 68 AIG zuständig ist;
+- g.[^11-7] die Aufsicht fedpol;
+- h.[^11-8] die Datenschutzberaterin oder der Datenschutzberater von fedpol, des NDB und der kantonalen Strafverfolgungsbehörden sowie die bei der Bundesanwaltschaft für die Kontrolle der Daten im System nach Artikel 10 BPI zuständige Stelle;
 - i. die Projektleiterin oder der Projektleiter und die Systemadministratoren;
-- j. der Direktionsbereich Internationale Rechtshilfe des Bundesamtes für Justiz ausschliesslich im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^11-8];
-- k.[^11-9] die für die Strafverfolgung, die Risikoanalyse sowie die Personenkontrolle an der Grenze und im Inland eingesetzten Mitarbeiterinnen und Mitarbeiter des Bundesamts für Zoll und Grenzsicherheit.
-- l.[^11-10] die Stelle von fedpol, die für die Erfüllung der Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^11-11] zuständig ist, zur Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen, zur Überprüfung dieser Bewilligungen und zur Bearbeitung von Verdachtsmeldungen.[^11-12]
+- j.[^11-9] die Stelle, die beim Bundesamt für Justiz zuständig ist für die Durchführung von Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^11-10];
+- k.[^11-11] die für die Strafverfolgung, die Risikoanalyse sowie die Personenkontrolle an der Grenze und im Inland eingesetzten Mitarbeiterinnen und Mitarbeiter des BAZG;
+- l.[^11-12] die Stelle von fedpol, die für die Erfüllung der Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^11-13] zuständig ist, zur Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen, zur Überprüfung dieser Bewilligungen und zur Bearbeitung von Verdachtsmeldungen.[^11-14]
 
-<sup>2</sup> Den Stellen bei fedpol, die keine Strafverfolgungsaufgaben wahrnehmen, aber für die Triage und Verwaltung der Dossiers zuständig sind, kann zur Erfüllung ihrer gesetzlichen Aufgaben ein auf ihre Bedürfnisse beschränkter Online-Zugriff auf JANUS gewährt werden.
+<sup>2</sup> Den Stellen bei fedpol, die keine Strafverfolgungsaufgaben wahrnehmen, aber für die Triage und Verwaltung der Dossiers zuständig sind, kann zur Erfüllung ihrer gesetzlichen Aufgaben ein auf ihre Bedürfnisse beschränkter Online-Zugriff auf NES gewährt werden.
 
-<sup>3</sup> Die Bundesanwaltschaft hat einen Online-Zugriff auf diejenigen Daten nach Artikel 10 BPI, die von ihr geführte hängige Strafverfahren betreffen. Die entsprechenden Daten sind im JANUS gekennzeichnet, elektronisch nach den jeweiligen Strafverfahren gegliedert und von den übrigen Daten logisch abgetrennt.
+<sup>3</sup> Die Bundesanwaltschaft hat einen Online-Zugriff auf diejenigen Daten nach Artikel 10 BPI, die von ihr geführte hängige Strafverfahren betreffen. Die entsprechenden Daten sind im NES gekennzeichnet, elektronisch nach den jeweiligen Strafverfahren gegliedert und von den übrigen Daten logisch abgetrennt.
 
-<sup>4</sup> Auf Antrag hin kann für konkrete Verfahren auch Strafuntersuchungsbehörden der Kantone der Online-Zugriff auf das Unterkategorie «Journal» gewährt werden. Fedpol regelt die Einzelheiten im Bearbeitungsreglement.
+<sup>4</sup> …[^11-15]
 
 <sup>5</sup> Gestützt auf einen Entscheid der Bundesanwaltschaft kann der Online-Zugriff auf Daten aus bestimmten Verfahren eingeschränkt werden. Die davon betroffenen Daten werden gekennzeichnet.
 
-<sup>6</sup> Die Zugriffsberechtigungen auf die verschiedenen JANUS-Daten sind pro Benützerkategorie im Anhang 2 geregelt.
+<sup>6</sup> Die Zugriffsberechtigungen auf die verschiedenen NES-Daten sind pro Benützerkategorie im Anhang 2 geregelt.
 
-[^11-1]: Fassung gemäss Anhang 4 Ziff. II 14 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-2]: Fassung gemäss Anhang 4 Ziff. II 14 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-3]: Ausdruck gemäss Anhang 2 Ziff. 5 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)). Diese Änd. wurde in den in der AS erwähnten Bestimmungen berücksichtigt.
-[^11-4]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^11-5]: Fassung gemäss Anhang 4 Ziff. II 14 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^11-7]: Fassung gemäss Anhang 4 Ziff. II 14 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-8]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^11-9]: Eingefügt durch Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^11-10]: Eingefügt durch Anhang 2 Ziff. 5 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), [454](https://fedlex.data.admin.ch/eli/oc/2022/454)).
-[^11-11]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^11-12]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-4]: Fassung gemäss Anhang 4 Ziff. II 14 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^11-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^11-6]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-7]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-8]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-9]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-10]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^11-11]: Eingefügt durch Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-12]: Eingefügt durch Anhang 2 Ziff. 5 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), [454](https://fedlex.data.admin.ch/eli/oc/2022/454)).
+[^11-13]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^11-14]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^11-15]: Aufgehoben durch Ziff. I der V vom 16. Aug. 2023, mit Wirkung seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 12
 
-**Zugriff auf die Unterkategorien «Personen und Vorgänge» und «Journal»**
+**Zugriff auf die Unterkategorie «Ermittlungsfall»**[^12-1]
 
-<sup>1</sup> In besonders gelagerten Fällen können die Stellen, welche die Daten in die Unterkategorie «Personen und Vorgänge» eingegeben haben, den Zugriff auf diese Daten einschränken, indem sie den Kreis der Personen bestimmen, die zur Bearbeitung berechtigt sind.
+<sup>1</sup> Im Rahmen eines Ermittlungsverfahrens haben nur die Strafverfolgungsbehörden, die in dieses Verfahren involviert sind, Online-Zugriff auf die Unterkategorie «Ermittlungsfall».
 
-<sup>2</sup> Im Rahmen eines kantonalen Ermittlungsverfahrens haben nur die kantonalen kriminalpolizeilichen Dienste und Strafverfolgungsbehörden, die dieses Verfahren selbst führen, Online-Zugriff auf die Unterkategorie «Journal». Die im Bearbeitungsreglement bezeichneten Spezialistinnen und Spezialisten der Bundeskriminalpolizei können ebenfalls auf diese Daten zugreifen. In besonders gelagerten Fällen können ihnen die für das Ermittlungsverfahren zuständigen kantonalen Behörden den Online-Zugriff absprechen.
+<sup>2</sup> Die verfahrensführende Behörde kann das Online-Zugriffsrecht einer weiteren Stelle einräumen, falls diese durch das Ermittlungsverfahren betroffen ist.
 
-<sup>3</sup> Ist ein weiterer Kanton durch das Ermittlungsverfahren betroffen, können die Bundeskriminalpolizei oder die zuständige kantonale Dienststelle der entsprechenden Behörde jenes Kantons das Online-Zugriffsrecht ebenfalls einräumen. Sie nehmen vorher mit den für das Ermittlungsverfahren zuständigen kantonalen Behörden Kontakt auf.
+[^12-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## 4. Abschnitt: Datenbearbeitung
 
 #### Art. 13
 
-**Dateneingabe**
+**Dateneingabe**[^13-1]
 
-<sup>1</sup> Die Bundeskriminalpolizei und die beteiligten kriminalpolizeilichen Dienste der Kantone geben die von ihnen erhobenen Daten selbst ins JANUS ein. Sie bestimmen dabei die Kategorien der Vorgänge und qualifizieren die erfassten Vorgänge als gesichert oder ungesichert anhand ihrer Herkunft, der Art der Beschaffung, ihres Inhalts und bereits vorhandener Daten.
+<sup>1</sup> Die beteiligten Stellen geben die von ihnen erhobenen Daten selbst in das NES ein. Sie bestimmen dabei die Kategorien der Daten und qualifizieren diese als gesichert oder ungesichert anhand ihrer Herkunft, der Art der Beschaffung, ihres Inhalts und bereits vorhandener Daten.
 
-<sup>2</sup> Ausser den Daten nach Artikel 3 Absatz 5 werden bis zu ihrer Überprüfung durch den Kontrolldienst die Daten in der Unterkategorie «Personen und Vorgänge» provisorisch erfasst.[^13-1]
+<sup>2</sup> Erst mit der Überprüfung durch die Aufsicht fedpol erhalten die Daten im Informationsfall mit Ausnahme der Daten nach den Artikeln 2 Absätze 1 und 3 die Kennzeichnung «visiert».
 
-[^13-1]: Fassung gemäss Anhang 4 Ziff. II 14 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 14
 
-**Aktualität und Integrität der Daten**
+**Aktualität und Integrität der Daten**[^14-1]
 
-<sup>1</sup> Die beteiligten kriminalpolizeilichen Dienste der Kantone erfassen im JANUS umgehend und systematisch die Informationen, zu deren Meldung sie gemäss den Artikeln 8 und 10 des ZentG verpflichtet sind.
+<sup>1</sup> Die beteiligten kantonalen Dienste mit kriminalpolizeilichen Aufgaben erfassen im NES umgehend und systematisch die Informationen, zu deren Meldung sie nach den Artikeln 8 und 10 ZentG verpflichtet sind. Die Informationen sind fortlaufend zu aktualisieren.
 
-<sup>2</sup> Die Dienste der Bundeskriminalpolizei erfassen im JANUS umgehend und systematisch die Informationen, die unter die Anwendungsbereiche nach Artikel 3 fallen.
+<sup>2</sup> Die Benutzerinnen und Benutzer der Kantone und des Bundes erfassen im NES umgehend und systematisch die Informationen, die unter die Anwendungsbereiche nach Artikel 3 fallen. Die Informationen sind fortlaufend zu aktualisieren; in die Aktualisierung einzubeziehen sind auch Daten aus anderen Informationssystemen, auf die die vorerwähnten Stellen einen Online-Zugriff haben.
 
-<sup>3</sup> Für die Erfassung verantwortlich ist der erste Benützer des JANUS, der Kenntnis entsprechender Informationen erlangt.
+<sup>3</sup> Verantwortlich für die formell korrekte und materiell vollständige Erfassung ist die erste Benutzerin oder der erste Benutzer des NES, die oder der Kenntnis entsprechender Informationen erlangt. Sie oder er berücksichtigt insbesondere die Herkunft und den Inhalt der Informationen.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 15
 
-**Datenkontrolle**
+**Datenkontrolle**[^15-1]
 
-<sup>1</sup> Der Kontrolldienst sorgt dafür, dass die im JANUS erfassten Daten, ausser den Daten im Subsystem nach Artikel 2 Absatz 3, den Bestimmungen dieser Verordnung entsprechen und dass sie technisch sowie polizeilich auswertbar sind.
+<sup>1</sup> Die Aufsicht fedpol sorgt dafür, dass die im NES erfassten Daten, ausser den Daten in den Subsystemen nach Artikel 2 Absätze 1 und 3, den Bestimmungen dieser Verordnung entsprechen und dass sie technisch sowie polizeilich auswertbar sind.
 
-<sup>2</sup> Er bestätigt die endgültige Aufnahme der provisorisch erfassten Daten im System, nachdem er deren Richtigkeit, deren Zuordnung zur richtigen Deliktskategorie und deren korrekte Qualifizierung bezüglich Zuverlässigkeit und Stand der Ermittlung überprüft hat. Er berücksichtigt dabei insbesondere die Herkunft und den Inhalt der Informationen sowie alle übrigen, im System vorhandenen Daten.
+<sup>2</sup> Sie visiert die Daten im System, nachdem sie geprüft hat, ob die Daten plausibel und verhältnismässig sind, technisch korrekt erfasst, der richtigen Deliktskategorie zugeordnet und korrekt qualifiziert sind und ob sie technisch und polizeilich auswertbar sind. Sie berücksichtigt dabei insbesondere die Herkunft und den Inhalt der Informationen sowie alle übrigen, im System vorhandenen Daten.
 
-<sup>3</sup> Mangelhafte Einträge werden vom Kontrolldienst korrigiert oder gelöscht. Wesentliche Korrekturen und Löschungen teilt er der erfassenden Stelle vorgängig mit.
+<sup>3</sup> Mangelhafte Einträge werden von der Aufsicht fedpol zur Berichtigung an die erfassende Stelle zurückgewiesen. Werden die mangelhaften Einträge nicht innerhalb von 60 Tagen von der erfassenden Stelle berichtigt, so werden sie von der Aufsicht fedpol gelöscht.
 
-<sup>4</sup> Der Kontrolldienst darf Einsicht in die kantonalen Dossiers verlangen, um die Einträge auf ihre Vereinbarkeit mit der vorliegenden Verordnung sowie mit den Unterlagen hin zu überprüfen.
+<sup>4</sup> Fedpol regelt die Einzelheiten der Datenkontrolle im Bearbeitungsreglement.
 
-<sup>5</sup> Fedpol regelt die Einzelheiten der Datenkontrolle im Bearbeitungsreglement.
+[^15-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 16
 
-**Periodische Gesamtüberprüfung der Daten in der Unterkategorie «Personen und Vorgänge»**
+**Periodische Gesamtüberprüfung der Daten in der Unterkategorie «Informationsfall»**[^16-1]
 
-<sup>1</sup> Der Kontrolldienst nimmt spätestens alle vier Jahre nach der Erfassung des ersten Eintrags eine Gesamtüberprüfung jedes Datenblocks der Unterkategorie «Personen und Vorgänge» vor.
+<sup>1</sup> Die Aufsicht fedpol nimmt alle 5 Jahre nach der Erfassung des ersten Eintrags eine Gesamtüberprüfung jedes Datenblocks der Unterkategorie «Informationsfall» vor.
 
 <sup>2</sup>
 
-Er prüft insbesondere:
+Sie nimmt insbesondere folgende Aufgaben wahr:
 
-- a. ob die erfassten Daten jedes einzelnen Vorganges den Bestimmungen dieser Verordnung entsprechen. Er überprüft in Übereinstimmung mit Artikel 8, ob der Vorgang hinsichtlich Zuverlässigkeit und Alter noch Verdachtselemente gegen die betroffene Person liefern kann. Ist dies nicht der Fall, werden die Daten korrigiert oder gelöscht;
-- b. ob die Eintragungen in ihrer Gesamtheit pro Datenblock noch verhältnismässig und die Einträge insgesamt geeignet sind, eine Verdachtsgrundlage für weitere Abklärungen zu bilden. Sind diese Bedingungen nicht erfüllt, wird der gesamte Datenblock gelöscht.
+- a. Sie prüft, ob die erfassten Daten jedes einzelnen Dokuments den Bestimmungen dieser Verordnung entsprechen; sie überprüft in Übereinstimmung mit Artikel 8, ob die Datenbearbeitung im Dokument verhältnismässig ist, insbesondere ob die Verdachtselemente weiterhin erheblich sind; ist dies nicht der Fall, so werden die Daten gelöscht.
+- b. Sie prüft, ob die Eintragungen in ihrer Gesamtheit pro Datenblock weiterhin verhältnismässig und die Einträge insgesamt geeignet sind, eine Verdachtsgrundlage für weitere Abklärungen zu bilden; sind diese Bedingungen nicht erfüllt, so wird der gesamte Datenblock gelöscht.
 
-<sup>3</sup> Angaben über Drittpersonen, die seit über drei Jahren registriert sind, ohne dass für sie ein eigener Datenblock existiert, werden anlässlich der Gesamtüberprüfung anonymisiert, ausser wenn sie für ein konkretes Strafverfahren benötigt werden. Wenn solche Angaben zu Delikten im Bereich des organisierten Verbrechens in Bezug stehen, erfolgt die Anonymisierung, sofern die Daten seit über fünf Jahren registriert sind.
+[^16-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 17
 
 **Schnittstellen**
 
-<sup>1</sup> Um eine doppelte Erfassung zu vermeiden, können die Benützerinnen und Benützer in den Kantonen und beim Bund die in ihren Systemen enthaltenen Daten in das JANUS kopieren.
+<sup>1</sup> Um eine doppelte Erfassung zu vermeiden, können die Benützerinnen und Benützer in den Kantonen und beim Bund die in ihren Systemen enthaltenen Daten in das NES kopieren.
 
 <sup>2</sup> Fedpol regelt im Bearbeitungsreglement das Vorgehen im Einzelnen.
 
 #### Art. 18
 
-**Weitergabe von Daten an auskunftspflichtige Behörden**
+**Weitergabe von Daten an andere Behörden[^18-1]**
 
 <sup>1</sup>
 
-Die Bundeskriminalpolizei kann, soweit dies zur Erlangung der von ihr benötigten Auskünfte und zur Begründung ihrer Amtshilfeersuchen nötig ist, im JANUS gespeicherte Personendaten an die folgenden, nach Artikel 4 ZentG zur Zusammenarbeit verpflichteten Behörden weitergeben:
+Die BKP kann, soweit dies zur Erlangung der von ihr benötigten Auskünfte und zur Begründung ihrer Amtshilfeersuchen nötig ist, im NES gespeicherte Personendaten an die folgenden, nach Artikel 4 ZentG zur Zusammenarbeit verpflichteten Behörden weitergeben:
 
-- a. den Strafverfolgungsbehörden; insbesondere den Staatsanwaltschaften, Untersuchungsrichtern, Rechtshilfebehörden und den Organen der gerichtlichen Polizei des Bundes und der Kantone;
-- b.[^18-1] den Polizeistellen; insbesondere den Organen der Sicherheits- und Verwaltungspolizei des Bundes und der Kantone sowie den mit dem Vollzug des BWIS[^18-2] betrauten Behörden des Bundes;
-- c. den Grenzwacht- und Zollorganen;
+- a.[^18-2] den Strafverfolgungsbehörden, Rechtshilfebehörden und weiteren Behörden des Bundes, die gerichtspolizeiliche Aufgaben wahrnehmen;
+- b.[^18-3] den Polizeistellen; insbesondere den Organen der Sicherheits- und Verwaltungspolizei des Bundes und der Kantone sowie den mit dem Vollzug des BWIS[^18-4] betrauten Behörden des Bundes;
+- c.[^18-5] dem BAZG;
 - d. den Behörden des Bundes und der Kantone, die ausländerrechtliche Aufgaben wahrnehmen, für die Einreise und den Aufenthalt von Ausländern und Ausländerinnen, für die Gewährung von Asyl oder für die Anordnung der vorläufigen Aufnahme zuständig sind;
 - e. den Einwohnerkontrollen und den für die Führung des Handels‑, Zivilstands‑, Steuer‑, Strassenverkehrs- und Zivilluftfahrtsregisters sowie des Grundbuches zuständigen Behörden;
 - f. Behörden, die für den diplomatischen und konsularischen Verkehr zuständig sind;
@@ -399,17 +390,21 @@ Die Bundeskriminalpolizei kann, soweit dies zur Erlangung der von ihr benötigte
 
 <sup>2</sup>
 
-Darüber hinaus kann die Bundeskriminalpolizei im JANUS gespeicherte Personendaten folgenden Behörden auf Anfrage bekannt geben, soweit die Daten zur Erfüllung der gesetzlichen Aufgabe der anfragenden Behörde erforderlich sind:
+Darüber hinaus kann die BKP im NES gespeicherte Personendaten folgenden Behörden auf Anfrage bekannt geben, soweit die Daten zur Erfüllung der gesetzlichen Aufgabe der anfragenden Behörde erforderlich sind:
 
 - a. den Behörden nach Absatz 1 Buchstabe a für deren Strafverfahren, gerichtspolizeiliche Ermittlungs- und Rechtshilfeverfahren;
 - b. den Behörden nach Absatz 1 Buchstaben b und c für deren gerichtspolizeiliche Ermittlungsverfahren sowie für die Aufgabenerfüllung nach dem BWIS;
 - c. den Behörden nach Absatz 1 Buchstabe d für die Wahrnehmung ausländerrechtlicher Aufgaben sowie zur Verhinderung oder Verfolgung von Missbräuchen der Einreise- und Aufenthaltsbestimmungen und der Asylgesetzgebung.
 
-<sup>3</sup> Die Voraussetzungen der Auskunftserteilung von Behörden nach Absatz 2 ergeben sich sinngemäss aus Artikel 4 Absätze 2–4 der Verordnung vom 30. November 2001[^18-3] über die Wahrnehmung der kriminalpolizeilichen Aufgaben im Bundesamt für Polizei.
+<sup>3</sup> Die Voraussetzungen der Auskunftserteilung von Behörden nach Absatz 2 ergeben sich sinngemäss aus Artikel 4 Absätze 2–5 der Verordnung vom 30. November 2001[^18-6] über die Wahrnehmung der kriminalpolizeilichen Aufgaben im Bundesamt für Polizei.[^18-7]
 
-[^18-1]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^18-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^18-3]: [SR 360.1](https://fedlex.data.admin.ch/eli/cc/2002/29)
+[^18-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^18-3]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^18-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^18-5]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^18-6]: [SR 360.1](https://fedlex.data.admin.ch/eli/cc/2002/29)
+[^18-7]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 19
 
@@ -417,17 +412,17 @@ Darüber hinaus kann die Bundeskriminalpolizei im JANUS gespeicherte Personendat
 
 <sup>1</sup>
 
-Die Bundeskriminalpolizei kann, soweit dies zur Erlangung der von ihr benötigten Auskünfte und zur Begründung ihrer Amtshilfeersuchen nötig ist, im JANUS gespeicherte Personendaten folgenden weiteren Empfängern bekannt geben:
+Die BKP kann, soweit dies zur Erlangung der von ihr benötigten Auskünfte und zur Begründung ihrer Amtshilfeersuchen nötig ist, im NES gespeicherte Personendaten folgenden weiteren Empfängern bekannt geben:
 
-- a. den Behörden anderer Länder, welche Strafverfolgungs- und Polizeifunktionen wahrnehmen, sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
-- b. den Internationalen Gerichten sowie den Internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen (namentlich EUROPOL und INTERPOL), sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
+- a.[^19-1] den Behörden anderer Länder, welche Strafverfolgungs- und Polizeifunktionen wahrnehmen: nach Massgabe von Artikel 13 Absatz 2 ZentG;
+- b.[^19-2] den internationalen Gerichten sowie den internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen (namentlich Europol und Interpol), sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
 - c. den Finanzbehörden des Bundes und der Kantone;
 - d. der Eidgenössischen Finanzverwaltung;
-- e. der Eidgenössischen Finanzmarktaufsicht[^19-1];
-- f. der Eidgenössischen Finanzmarktaufsicht[^19-2];
+- e. der Eidgenössischen Finanzmarktaufsicht[^19-3];
+- f.[^19-4] …
 - g. der Eidgenössischen Spielbankenkommission;
 - h. dem Staatssekretariat für Wirtschaft;
-- i.[^19-3] Bundesbehörden, die mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS[^19-4] betraut sind;
+- i.[^19-5] Bundesbehörden, die mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS[^19-6] betraut sind;
 - j. dem Bundesamt für Zivilluftfahrt;
 - k. den Behörden, welche zuständig sind für den Erwerb von Grundstücken durch Personen im Ausland;
 - l. nichtstaatlichen Organisationen, namentlich solchen, die sich für die Bekämpfung der kommerziellen sexuellen Ausbeutung einsetzen, soweit es um die Verhinderung und Aufdeckung spezieller Kriminalitätsformen geht;
@@ -435,111 +430,127 @@ Die Bundeskriminalpolizei kann, soweit dies zur Erlangung der von ihr benötigte
 
 <sup>2</sup>
 
-Darüber hinaus kann die Bundeskriminalpolizei im JANUS gespeicherte Personendaten folgenden Behörden auf Anfrage bekannt geben, soweit die Daten zur Erfüllung der gesetzlichen Aufgabe der anfragenden Behörde erforderlich sind:
+Darüber hinaus kann die BKP im NES gespeicherte Personendaten folgenden Behörden auf Anfrage bekannt geben, soweit die Daten zur Erfüllung der gesetzlichen Aufgabe der anfragenden Behörde erforderlich sind:
 
-- a. den Behörden anderer Länder, welche Strafverfolgungsfunktionen wahrnehmen, für deren gerichtspolizeiliche Ermittlungen, sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
-- b. den Internationalen Gerichten sowie den Internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen (namentlich EUROPOL und INTERPOL), für die Bearbeitung konkreter Fälle, sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
+- a.[^19-7] den Behörden anderer Länder, die Strafverfolgungsfunktionen wahrnehmen, für deren gerichtspolizeiliche Ermittlungen: nach Massgabe von Artikel 13 Absatz 2 ZentG;
+- b.[^19-8] den internationalen Gerichten sowie den internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen (namentlich Europol und Interpol), für die Bearbeitung konkreter Fälle: nach Massgabe von Artikel 13 Absatz 2 ZentG;
 - c. den Finanzbehörden des Bundes und der Kantone für deren gerichtspolizeiliche Ermittlungen im Fiskalbereich;
 - d. der Eidgenössischen Finanzverwaltung für deren verwaltungsstrafrechtliche Verfahren;
-- e.[^19-5] der Eidgenössischen Finanzmarktaufsicht zur Unterstützung von deren Aufsichtstätigkeit im Rahmen der Finanzmarktgesetze gemäss Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^19-6], soweit es sich um gesicherte Informationen handelt, die für ein Verfahren benötigt werden oder ein solches in Gang setzen können;
-- f.[^19-7] …
+- e.[^19-9] der Eidgenössischen Finanzmarktaufsicht zur Unterstützung von deren Aufsichtstätigkeit im Rahmen der Finanzmarktgesetze gemäss Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^19-10], soweit es sich um gesicherte Informationen handelt, die für ein Verfahren benötigt werden oder ein solches in Gang setzen können;
+- f.[^19-11] …
 - g. der Eidgenössischen Spielbankenkommission zur Unterstützung derer Aufsichtstätigkeit im Rahmen der Glücksspielgesetzgebung;
-- h.[^19-8] den mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt.
+- h.[^19-12] den mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt;
+- i.[^19-13] den mit Zuverlässigkeitsüberprüfungen im Sinne von Artikel 108*b* ff. des Luftfahrtgesetzes vom 21. Dezember 1948[^19-14] betrauten kantonalen Polizeistellen für deren Abklärungen, soweit es sich um Daten aus dem System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes handelt.
 
 <sup>3</sup> Zur Erfüllung ihrer Kontrollfunktionen werden den Aufsichtsbehörden des Bundes und der Kantone sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten auf Verlangen alle Personendaten bekannt gegeben.
 
-[^19-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen. Vormals: Eidgenössische Bankenkommission.
-[^19-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen. Vormals: Kontrollstelle Kontrollstelle für die Bekämpfung der Geldwäscherei.
-[^19-3]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^19-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^19-5]: Fassung gemäss Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^19-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^19-7]: Aufgehoben durch Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^19-8]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^19-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen. Vormals: Eidgenössische Bankenkommission.
+[^19-4]: Aufgehoben durch Ziff. I der V vom 16. Aug. 2023, mit Wirkung seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-5]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^19-6]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^19-7]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-8]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-9]: Fassung gemäss Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^19-10]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^19-11]: Aufgehoben durch Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^19-12]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^19-13]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-14]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 20
 
 **Weitere Bestimmungen zur Datenweitergabe**
 
-<sup>1</sup> Bei der Weitergabe von Daten aus dem JANUS sind Verwertungsverbote zu beachten. Die Bundeskriminalpolizei darf Daten über Asylsuchende, anerkannte Flüchtlinge und vorläufig Aufgenommene erst nach Rücksprache mit dem zuständigen Bundesamt an ausländische Staaten weitergeben.
+<sup>1</sup> Bei der Weitergabe von Daten aus dem NES sind Verwertungsverbote zu beachten. Die BKP darf Daten über Asylsuchende, anerkannte Flüchtlinge und vorläufig Aufgenommene erst nach Rücksprache mit dem zuständigen Bundesamt an ausländische Staaten weitergeben.
 
-<sup>2</sup> Die Bundeskriminalpolizei verweigert eine Weitergabe von Daten aus dem JANUS, wenn überwiegende öffentliche oder private Interessen entgegenstehen. Nicht zur Weitergabe geeignete Daten müssen sowohl von den Benützern der Bundeskriminalpolizei als auch in den Kantonen im System entsprechend gekennzeichnet werden.
+<sup>2</sup> Die BKP verweigert eine Weitergabe von Daten aus dem NES, wenn überwiegende öffentliche oder private Interessen entgegenstehen. Nicht zur Weitergabe geeignete Daten müssen sowohl von den Benützern der BKP als auch in den Kantonen im System entsprechend gekennzeichnet werden.
 
-<sup>3</sup> Die beteiligten kriminalpolizeilichen Dienste der Kantone können an die anderen Strafverfolgungs- und Polizeibehörden ihres Kantons zur Unterstützung deren gerichtspolizeilichen Ermittlungsverfahren Daten aus dem JANUS weitergeben. Die Bundeskriminalpolizei muss über diese Datenweitergabe informiert werden.
+<sup>3</sup> Die beteiligten kriminalpolizeilichen Dienste der Kantone können an die anderen Strafverfolgungs- und Polizeibehörden ihres Kantons zur Unterstützung deren gerichtspolizeilichen Ermittlungsverfahren Daten aus dem NES weitergeben. Die BKP muss über diese Datenweitergabe informiert werden.
 
-<sup>4</sup> Bei jeder Weitergabe sind die Empfängerinnen und Empfänger über die Bewertung und die Aktualität der Daten aus dem JANUS in Kenntnis zu setzen. Sie dürfen die Daten nur zu dem Zweck verwenden, für den sie ihnen weitergegeben werden. Sie sind auf die Verwendungsbeschränkung und darauf hinzuweisen, dass sich die Bundeskriminalpolizei vorbehält, Auskunft über die vorgenommene Verwendung zu verlangen.
+<sup>4</sup> Bei jeder Weitergabe sind die Empfängerinnen und Empfänger über die Bewertung und die Aktualität der Daten aus dem NES in Kenntnis zu setzen. Sie dürfen die Daten nur zu dem Zweck verwenden, für den sie ihnen weitergegeben werden. Sie sind auf die Verwendungsbeschränkung und darauf hinzuweisen, dass sich die BKP vorbehält, Auskunft über die vorgenommene Verwendung zu verlangen.
 
-<sup>5</sup> Die Weitergabe sowie Empfänger, Gegenstand und Grund des Auskunftsersuchens sind im JANUS zu registrieren.
+<sup>5</sup> Die Weitergabe sowie Empfänger, Gegenstand und Grund des Auskunftsersuchens sind im NES zu registrieren.
 
 #### Art. 21
 
 **Bearbeitung von Daten in externen Analysesystemen**
 
-<sup>1</sup>
+<sup>1</sup> Daten aus dem NES dürfen in ein externes Analysesystem überführt und dort von Spezialistinnen und Spezialisten der BKP und der kantonalen Dienste mit kriminalpolizeilichen Aufgaben zur Durchführung eines nach Inhalt und Dauer festgelegten Analyseauftrages bearbeitet werden.[^21-1]
 
-Daten aus dem JANUS dürfen in ein spezielles externes Analysesystem überführt und dort zur Durchführung eines Analyseauftrages bearbeitet werden, der inhaltlich und zeitlich:
-
-- a. von der Leitung der Bundeskriminalpolizei festzulegen ist; ein solcher Auftrag darf nur von dafür eigens ermächtigten Spezialisten der Bundeskriminalpolizei ausgeführt werden. Für Datenüberführungen, die den blossen Zweck der Visualisierung sprengen, ist die Zustimmung der Datenschutzberaterin oder des Datenschutzberaters des Amtes einzuholen;
-- b. von der zuständigen gerichtspolizeilichen Behörde festzulegen ist; ein solcher Auftrag darf nur von dafür eigens ermächtigten kriminalpolizeilichen Spezialisten der Kantone, nach Information der für den Datenschutz zuständigen kantonalen Behörde ausgeführt werden.
-
-<sup>2</sup> Die in ein externes Analysesystem überführten Daten sind unmittelbar nach Erledigung des Auftrages zu vernichten.
+<sup>2</sup> Der Auftrag ist inhaltlich und zeitlich von der Leitung der Abteilung Kriminalanalyse festzulegen.[^21-2]
 
 <sup>3</sup> Fedpol regelt die Einzelheiten im Bearbeitungsreglement.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 22
 
 **Aufbewahrungsdauer**
 
-<sup>1</sup> Die Aufbewahrungsdauer für jeden im JANUS registrierten personenbezogenen Datenblock endet acht Jahre nach der Erfassung des ersten zu diesem Datenblock gehörenden Vorganges oder Details.
+<sup>1</sup> Die Aufbewahrungsdauer für jeden im NES registrierten Datenblock endet zehn Jahre nach der Erfassung des letzten Eintrags.[^22-1]
 
-<sup>2</sup> Jede Erfassung eines neuen Vorgangs oder Details in den Unterkategorien «Personen und Vorgänge» oder «Journal» (Art. 6) setzt eine neue Frist von vier Jahren. Läuft diese neue Frist erst nach Ablauf der Gesamtaufbewahrungsdauer ab, wird letztere entsprechend verlängert.
+<sup>2</sup> …[^22-2]
 
 <sup>3</sup> Die Löschung nach den Artikeln 15 und 16 bleibt vorbehalten.
 
-<sup>4</sup> Die in den Unterkategorien gespeicherten Daten, die einen Bezug aufweisen zur Zusammenarbeit mit Europol, werden entsprechend Artikel 9 Ziffer 8 des Abkommen vom 24. September 2004[^22-1] zwischen der Schweiz und dem Europäischen Polizeiamt gelöscht.
+<sup>4</sup> Die in den Unterkategorien gespeicherten Daten, die einen Bezug aufweisen zur Zusammenarbeit mit Europol, werden entsprechend Artikel 9 Ziffer 8 des Abkommen vom 24. September 2004[^22-3] zwischen der Schweiz und dem Europäischen Polizeiamt gelöscht.
 
-<sup>5</sup> Die in den Unterkategorien gespeicherten Daten, die als Zusatzinformation im Rahmen der Zusammenarbeit mit anderen Schengen-Staaten übermittelt wurden, werden gemäss Artikel 45 der N-SIS Verordnung vom 7. Mai 2008[^22-2] gelöscht.
+<sup>5</sup> Die in den Unterkategorien gespeicherten Daten, die als Zusatzinformation im Rahmen der Zusammenarbeit mit anderen Schengen-Staaten übermittelt wurden, werden gemäss Artikel 45 der N-SIS Verordnung vom 7. Mai 2008[^22-4] gelöscht.
 
 <sup>6</sup> Daten der Unterkategorien «Geschäfts- und Aktenverwaltung» und «Polizeirapportsystem», die nicht mit anderen Subsystemen oder Unterkategorien verknüpft sind, werden drei Jahre nach deren Erfassung gelöscht.
 
 <sup>7</sup> Daten der Unterkategorien nach Artikel 5 Bst. i und j, die nicht mit anderen Subsystemen oder Unterkategorien verknüpft sind, werden zehn Jahre nach deren Erfassung gelöscht.
 
-[^22-1]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^22-2]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+<sup>8</sup> Vorbehalten zu diesen Löschfristen bleiben die Daten zu unverjährbaren Straftaten. Sie werden nach 80 Jahren gelöscht.[^22-5]
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^22-2]: Aufgehoben durch Ziff. I der V vom 16. Aug. 2023, mit Wirkung seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^22-3]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
+[^22-4]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^22-5]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 23
 
-**Mitteilung der Löschung von Daten**
+**Mitteilung der Löschung von Daten**[^23-1]
 
-Werden Daten im JANUS gelöscht, ausgenommen bei Daten über Drittpersonen (Art. 16 Abs. 3), so sind die erfassenden Stellen vom Kontrolldienst vorgängig darüber zu informieren.
+Die Aufsicht fedpol kann die erfassende Stelle vorgängig über eine Löschung von Daten im NES informieren.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 24
 
 **Archivierung**
 
-<sup>1</sup> Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet sich gemäss Artikel 21 des Bundesgesetzes vom 19. Juni 1992[^24-1] über den Datenschutz nach dem Archivierungsgesetz vom 26. Juni 1998[^24-2].
+<sup>1</sup> Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet sich nach Artikel 38 des Datenschutzgesetzes vom 25. September 2020[^24-1] (DSG) und nach dem Archivierungsgesetz vom 26. Juni 1998[^24-2].[^24-3]
 
-<sup>2</sup> Die Bundeskriminalpolizei bietet spätestens bei der Löschung eines ganzen Datenblocks die dazugehörigen Daten und Unterlagen dem Bundesarchiv an.
-
-<sup>3</sup> Sie bietet dem Bundesarchiv auch die Daten und Unterlagen an, die nicht zu einem persönlichen Dossier gehören. Dieses Angebot erfolgt spätestens, nachdem der letzte dazugehörige Vorgang oder das letzte dazugehörige Detail im JANUS gelöscht worden ist.
+<sup>2</sup> und <sup>3</sup> …[^24-4]
 
 [^24-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^24-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^24-3]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^24-4]: Aufgehoben durch Ziff. I der V vom 16. Aug. 2023, mit Wirkung seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## 5. Abschnitt: Datenschutz und Datensicherheit
 
 #### Art. 25
 
-**Auskunftsrecht von betroffenen Personen**
+**Auskunftsrecht von betroffenen Personen**[^25-1]
 
-Gesuche um Auskunft betreffend JANUS richten sich:
+<sup>1</sup>
 
-- a. nach Artikel 8 BPI bei erfassten Daten nach Artikel 3 Absatz 1;
-- b. nach Artikel 8 BPI bei erfassten Daten nach Artikel 3 Absatz 3. Die nach Artikel 7 Absatz 5 des Abkommens vom 24. September 2004[^25-1] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt verlangte Konsultation der übermittelnden Partei wird im Rahmen der Prüfung nach Artikel 8 Absatz 1 Buchstabe a BPI durchgeführt;
-- c. nach Artikel 7 Absatz 4 BPI bei erfassten Daten nach Artikel 3 Absatz 2;
-- d. nach kantonalem Recht bei erfassten Daten nach Artikel 3 Absatz 5.
+Gesuche um Auskunft betreffend NES richten sich:
 
-[^25-1]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
+- a. nach Artikel 8 BPI bei Daten nach Artikel 3 Absätze 1 und 2 Buchstabe a;
+- b. nach Artikel 8 BPI bei Daten, die bei der Zusammenarbeit mit Europol bearbeitet werden; die nach Artikel 7 Absatz 5 des Abkommens vom 24. September 2004[^25-2] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt verlangte Konsultation der übermittelnden Partei wird im Rahmen der Prüfung nach Artikel 8 Absatz 1 Buchstabe a BPI durchgeführt;
+- c. nach kantonalem Recht bei Daten nach Artikel 3 Absatz 3.
+
+<sup>2</sup> Bei Daten nach Artikel 3 Absatz 1, die nach Eröffnung der Strafverfahren bearbeitet werden, richtet sich das Auskunftsrecht nach Artikel 7 Absatz 4 BPI.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^25-2]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 
 #### Art. 26
 
@@ -547,20 +558,24 @@ Gesuche um Auskunft betreffend JANUS richten sich:
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^26-2] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^26-3].
+- a.[^26-2] die Datenschutzverordnung vom 31. August 2022[^26-3] (DSV);
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^26-4].
 
 [^26-1]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^26-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^26-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^26-2]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^26-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 27
 
 **Protokollierung**
 
-<sup>1</sup> Jede Bearbeitung von Daten im JANUS ist in einem Protokoll festzuhalten. Die Protokolle werden ein Jahr lang aufbewahrt.
+<sup>1</sup> Jede Bearbeitung von Daten im NES ist in einem Protokoll festzuhalten. Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^27-1]
 
-<sup>2</sup> Das Eidgenössische Justiz- und Polizeidepartement (Departement) erlässt Weisungen über die Auswertung der Protokollierungsdaten.
+<sup>2</sup> Das EJPD[^27-2] erlässt Weisungen über die Auswertung der Protokollierungsdaten.
+
+[^27-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^27-2]: Ausdruck gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 28
 
@@ -668,7 +683,9 @@ Auf den Auswertungsplattformen gespeicherte Personendaten können auf Anfrage od
 
 <sup>1</sup> Die Benutzung der Auswertungsplattformen ist zu protokollieren.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^29i-1]
+
+[^29i-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29j
 
@@ -700,11 +717,12 @@ Die Verfahrensleitung oder die Aufsichts- oder die Vollzugsbehörde erteilt auf 
 
 **Auskunftsrecht**
 
-<sup>1</sup> Fedpol erteilt auf Ersuchen Auskunft über Daten, die auf den Auswertungsplattformen für das System Bundesdelikte gemäss Artikel 11 BPI aufbereitet werden. Die Einschränkungen richten sich nach Artikel 9 des Bundesgesetzes vom 19. Juni 1992[^29l-1] über den Datenschutz (DSG).
+<sup>1</sup> Fedpol erteilt auf Ersuchen Auskunft über Daten, die auf den Auswertungsplattformen für das System Bundesdelikte gemäss Artikel 11 BPI aufbereitet werden. Die Einschränkungen richten sich nach Artikel 26 DSG[^29l-1].[^29l-2]
 
 <sup>2</sup> Ein Recht auf Einsicht vor Ort in die Daten der Auswertungsplattformen wird aus Gründen der Informationssicherheit nicht gewährt.
 
 [^29l-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^29l-2]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29m
 
@@ -722,14 +740,15 @@ Die auf den Auswertungsplattformen nach Artikel 10 BPI bearbeiteten Daten werden
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^29n-1] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^29n-2].[^29n-3]
+- a.[^29n-1] die DSV[^29n-2];
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^29n-3].[^29n-4]
 
 <sup>2</sup> Fedpol trifft die weiteren erforderlichen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
-[^29n-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^29n-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^29n-3]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^29n-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29n-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^29n-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^29n-4]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 5*b*. Abschnitt: Datenindex Terrorismus
 
@@ -785,7 +804,9 @@ Zugriff nehmen können zudem:
 
 <sup>1</sup> Die Benutzung des Datenindex Terrorismus ist zu protokollieren.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^29t-1]
+
+[^29t-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29u
 
@@ -797,12 +818,13 @@ Die im Datenindex Terrorismus abgelegten Daten werden bei jeder Aktualisierung �
 
 **Auskunftsrecht**
 
-<sup>1</sup> Fedpol erteilt auf Ersuchen Auskunft über Daten, die im Datenindex Terrorismus abgeglichen werden. Die Einschränkungen richten sich nach Artikel 9 DSG[^29v-1].
+<sup>1</sup> Fedpol erteilt auf Ersuchen Auskunft über Daten, die im Datenindex Terrorismus abgeglichen werden. Die Einschränkungen richten sich nach Artikel 26 DSG[^29v-1].[^29v-2]
 
-<sup>2</sup> Ein Recht auf Einsicht vor Ort in den Datenindex Terrorismus wird nicht gewährt.[^29v-2]
+<sup>2</sup> Ein Recht auf Einsicht vor Ort in den Datenindex Terrorismus wird nicht gewährt.[^29v-3]
 
 [^29v-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^29v-2]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^29v-2]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29v-3]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29w
 
@@ -812,14 +834,15 @@ Die im Datenindex Terrorismus abgelegten Daten werden bei jeder Aktualisierung �
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^29w-1] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^29w-2].[^29w-3]
+- a.[^29w-1] die DSV[^29w-2];
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^29w-3].[^29w-4]
 
 <sup>2</sup> Fedpol trifft die weiteren erforderlichen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
-[^29w-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^29w-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^29w-3]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^29w-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29w-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^29w-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^29w-4]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 
@@ -837,174 +860,1060 @@ Die JANUS-Verordnung vom 30. November 2001[^30-1] wird aufgehoben.
 
 Diese Verordnung tritt am 5. Dezember 2008 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1[^t-3]
 
-[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern, erhältlich.
+(Art. 8 Abs. 5)
 
-Anhang 2[^t-2]
+## 1. Ermittlungssystem
+
+[^t-3]: Fassung gemäss Ziff. II der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+
+### 1.1 Fall
+
+Fallnummer KCH
+
+Falltyp
+
+Benutzerdefinierte Zugriffskontrolle
+
+Unterverzeichnis
+
+Titel
+
+Klassifizierung
+
+Zusammenfassung
+
+Eröffnet
+
+Aktion
+
+Status
+
+Verfahrensstatus
+
+Führung
+
+Frist
+
+Tags
+
+Besitzer
+
+Organisationseinheit (Besitzer)
+
+Zugehörige Entitäten
+
+Zugehörige Fälle
+
+Id extern
+
+### 1.2 Dokumente
+
+### 1.2.1 Informationsdokument
+
+Titel
+
+Aktion
+
+Dokument Datum/Zeit
+
+Tatdatum
+
+Deliktskategorien
+
+Kantonales Verfahren
+
+Quelle
+
+Sachverhalt
+
+Fedpol Fallnummer
+
+Geschäfts- Meldungsnummer
+
+Verfahrensnummer
+
+Referenznummer
+
+Führung
+
+4×4
+
+Europol Handling Code
+
+Tätergruppe
+
+Geografische Zuordnung
+
+### 1.2.2 Ermittlungsjournal
+
+Name
+
+Beginn Datum/Zeit
+
+Ende Datum/Zeit
+
+Ausgangslage
+
+Status
+
+Dienststelle/Koordination
+
+Auftraggeber
+
+Fedpol Fallnummer
+
+Geschäfts- Meldungsnummer
+
+Verfahrensnummer
+
+Auftragsnummer
+
+Referenznummer
+
+### 1.2.3 Ermittlungsjournaleintrag
+
+Titel
+
+Beginn Datum/Zeit
+
+Ende Datum/Zeit
+
+Schlagworte
+
+Zusammenfassung
+
+Sachverhalt
+
+Massnahmen
+
+Zugehörige Entitäten
+
+Sachbearbeiter
+
+Wichtig
+
+Status
+
+4×4
+
+### 1.2.4 Observationsjournal
+
+Titel
+
+Beginn Datum/Zeit
+
+Ende Datum/Zeit
+
+Ausgangslage
+
+Dienststelle/Koordination
+
+Auftraggeber
+
+fedpol Fallnummer
+
+Verfahrensnummer
+
+Geschäfts- Meldungsnummer
+
+Auftragsnummer
+
+Referenznummer
+
+### 1.2.5 Observationsjournaleintrag
+
+Titel
+
+Beginn Datum/Zeit
+
+Ende Datum/Zeit
+
+Schlagworte
+
+Zusammenfassung
+
+Sachverhalt
+
+Massnahmen
+
+Zugehörige Entitäten
+
+### 1.2.6 Überwachungsmassnahme
+
+Titel
+
+ÜM-Art
+
+Beginn Datum/Zeit
+
+Ende Datum/Zeit
+
+Verlängerung (Tage)
+
+Status
+
+Ziel Entitäten
+
+Anordnende Behörde
+
+Bewilligende Behörde
+
+Dienststelle/Koordination
+
+Auftraggeber
+
+fedpol Fallnummer
+
+Verfahrensnummer
+
+Geschäfts-Meldungsnummer
+
+Auftragsnummer
+
+Referenznummer
+
+Bemerkungen
+
+### 1.2.7 Überwachungsmassnahmen Eintrag
+
+Datum/Zeit
+
+Dauer
+
+Wochentag
+
+Quelle
+
+Typ
+
+Adressierungselement
+
+Benutzer
+
+Abonnent
+
+IMEI
+
+IMSI
+
+Richtung
+
+B Adressierungselement
+
+B Benutzer
+
+B Abonnent
+
+Wichtig
+
+Produkt-Id
+
+Start – End Adresse
+
+Schlagwörter
+
+Zusammenfassung
+
+Verschriftung Übersetzung
+
+SMS-Text
+
+Sprachen
+
+### 1.2.8 Pendenzen
+
+Titel
+
+Details
+
+Priorität
+
+Frist Datum/Zeit
+
+Dokument zur Vervollständigung erforderlich
+
+Erlaubte Dokumente zur Vervollständigung
+
+Beauftragte/r
+
+Personal-Kategorie
+
+Typ
+
+Referenziert von Dokumenttyp
+
+Falltyp
+
+Priorität
+
+Kanton
+
+Land
+
+Revier/Bezirk
+
+### 1.3 Entitäten
+
+### 1.3.1 Person
+
+Vorname
+
+Zweiter Vorname
+
+Nachname
+
+Suffix
+
+Spitzname
+
+Geburtsname
+
+Alter/Geburtsdatum
+
+Geburtsort
+
+Heimatort
+
+Sterbedatum
+
+Geschlecht
+
+Nationalität
+
+Zivilstand
+
+Beruf
+
+Kommentar
+
+Rohdaten (Erweiterte Personalien)
+
+### 1.3.2 Organisation
+
+Bezeichnung
+
+Suffix Organisation
+
+Organisationstyp
+
+Gründungsdatum
+
+Handelsregisternummer
+
+Kommentar
+
+Anhänge
+
+### 1.3.3 Ereignis
+
+Bezeichnung
+
+Typ
+
+Start
+
+Ende
+
+Kommentar
+
+Anhänge
+
+### 1.3.4 ID-Nummer
+
+ID-Typ
+
+ID-Nummer
+
+Land
+
+Kanton
+
+Vorname
+
+Nachname
+
+Geschlecht
+
+Geburtsdatum
+
+Gefälschte ID
+
+Aussteller
+
+Ausstellungsdatum
+
+Ablaufdatum
+
+Nationalität
+
+Kommentar
+
+Anhänge
+
+### 1.3.5 ID-Ort
+
+Adresse
+
+\2. Adresszeile
+
+Ortstyp
+
+Ortsname
+
+Standort Richtung
+
+Cell ID
+
+Kommentar
+
+Anhänge
+
+### 1.3.6 Telefonnummer
+
+Nummer
+
+Typ
+
+Kommentar
+
+Anhänge
+
+### 1.3.7 E-Mail-Adresse
+
+E-Mail-Adresse
+
+Kommentar
+
+Anhänge
+
+### 1.3.8 Online-Account
+
+Online Service
+
+Online Alias
+
+Bezeichnung anzeigen
+
+Account Unique ID
+
+Account URL
+
+Kommentar
+
+Anhänge
+
+### 1.3.9 IP-Adresse
+
+IP-Adresse
+
+Kommentar
+
+Anhänge
+
+### 1.3.10 Webseite/URL
+
+Webseite/URL
+
+Verweis-ID
+
+Ressourcentyp
+
+Kommentar
+
+Anhänge
+
+### 1.3.11 Andere Entität
+
+Kategorie
+
+Bezeichnung/Überschrift
+
+Kategorie
+
+Beschreibung/Text
+
+Unique Identifier
+
+URL/Domäne/IP
+
+Kommentar
+
+Anhänge
+
+### 1.3.12 Betäubungsmittel
+
+Kategorie
+
+Status
+
+Droge
+
+Menge
+
+Einheit/Gerät
+
+Geldwert
+
+Reinheitsgrad in %
+
+Kommentar
+
+Anhänge
+
+### 1.3.13 Computer / Elektronik
+
+Kategorie
+
+Marke
+
+Modell
+
+Gesamtzählung
+
+Seriennummer
+
+Alter
+
+Grösse
+
+Geldwert
+
+Kommentar
+
+Anhänge
+
+### 1.3.14 Finanzen
+
+Kategorie
+
+Status
+
+Kontonummer
+
+Bankleitzahl
+
+Institution
+
+Geldwert
+
+Vorname auf Karte
+
+Nachname auf Karte
+
+Kommentar
+
+Anhänge
+
+### 1.3.15 Forensik
+
+Kategorie
+
+Beschreibung
+
+Ort
+
+Kommentar
+
+Anhänge
+
+### 1.3.16 Forensik
+
+Kategorie
+
+Status
+
+Lizenz-/Registrierungsnummer
+
+Land
+
+Lizenz-/Registrierungsjahr
+
+Marke
+
+Modell
+
+Stil
+
+Stammnummer
+
+Chassis-Kasko-/Zulassungsnummer
+
+Geldwert
+
+Kommentar
+
+Anhänge
+
+### 1.3.17 Waffe
+
+Kategorie
+
+Status
+
+Ort
+
+Waffe
+
+Marke
+
+Modell
+
+Seriennummer
+
+Kaliber
+
+Alter
+
+Geldwert
+
+Währung
+
+Kommentar
+
+Anhänge
+
+### 1.3.18 Anderer Gegenstand
+
+Kategorie
+
+Status
+
+Ort
+
+Gesamtzählung
+
+Seriennummer/Marke/Plakette
+
+Grösse/Masse
+
+Alter
+
+Geldwert pro Artikel
+
+Kommentar
+
+Anhänge
+
+## 2. Geschäfts- und Aktenverwaltungssystem - Ereignisprotokoll
+
+### 2.1 Fall
+
+Nummer
+
+Art
+
+Kategorie
+
+Beschreibung des Falls
+
+Erstellungsdatum
+
+Anmerkungen
+
+Benutzername
+
+### 2.2 Meldung
+
+Nummer
+
+Typ und Art der Meldung
+
+Verknüpfung
+
+Datum
+
+Zeit
+
+Erfasser
+
+Datum
+
+Eingangs-/Ausgangsort
+
+Absender/Empfänger
+
+Beschreibung Meldung
+
+Fristen
+
+Benutzername
+
+Erstellungsdatum
+
+### 2.3 Zuweisung Meldung
+
+Bearbeitung betraute Empfänger
+
+Bearbeitungsfristen
+
+Vermerke zu ausgeführten Arbeiten
+
+### 2.4 Unterlagen
+
+Nummer
+
+Titel und Art von Unterlagen
+
+Standort
+
+Datum der Ausleihe
+
+## 3. Polizeirapportierung
+
+### 3.1 Ersteller
+
+Name
+
+Vorname
+
+Abteilung
+
+Datum
+
+Fall.-Nr.
+
+OPGKPBKP-Nr.
+
+BA-Verf.-Nr.
+
+### 3.2 Rapporttitel
+
+Rapporttitel
+
+Untertitel
+
+Freitext
+
+### 3.3 Ort
+
+Land/PLZ/Ort/Kanton
+
+Strasse/Haus-Nr.
+
+Ort Zusatz
+
+Koordinaten X
+
+Örtlichkeit 1 3
+
+Freitext
+
+### 3.4 Datum / Zeit
+
+Datum von
+
+Datum bis
+
+Freitext
+
+### 3.5 Personalien / Erweiterte Personalien
+
+Rolle
+
+Gesichert
+
+Name
+
+Geburtsname
+
+Vorname
+
+Weitere Vornamen
+
+Geschlecht
+
+Adresse
+
+Kommunikationsmittel
+
+Alias
+
+Ausweis
+
+Angaben Familienmitglieder
+
+### 3.6 Ausweis
+
+Ausweis-Kategorie
+
+Ausweis-Nummer
+
+Ausgestellt am
+
+Ausstell-Land
+
+Ausstell-Behörde
+
+### 3.7 Fahrzeug
+
+Fahrzeug-Art
+
+Marke/Typ
+
+Schild-Nr.
+
+Fahrgestellnummer
+
+Stamm-Nummer
+
+Typenschein
+
+Farbe
+
+Angaben Halter
+
+## 4. Blüte
+
+### 4.1 Fälschungsverwaltung
+
+Geldtyp
+
+Währung
+
+Einheit
+
+Servicenummer
+
+EUR-Plattennummer
+
+Indikativ
+
+Drucktyp
+
+Druckqualität
+
+Fälschungsmenge
+
+Druckerei ausgehoben
+
+Gutachten
+
+Bemerkungen
+
+### 4.2 Tatverwaltung
+
+Akten-Nr
+
+Eingang
+
+Tatdatum
+
+Adresse
+
+Ort
+
+Kanton
+
+Land
+
+Fälschungsmenge
+
+Quelle
+
+In Umfeld gebracht
+
+### 4.3 Täterverwaltung
+
+Nachname
+
+Vorname
+
+Mädchenname
+
+Geburtsdatum
+
+Geburtsjahr
+
+Nationalität
+
+## 5. Kollaborationsplattform
+
+### 5.1 Einstellungen
+
+Nachname
+
+Vorname
+
+Webadresse
+
+Beschreibung
+
+Erstellt
+
+Titel
+
+Geändert
+
+Ausgecheckt
+
+### 5.2 Websiteinhalte
+
+Bibliotheken
+
+Listen
+
+Links
+
+Kontakte
+
+Kalender
+
+Aufgaben
+
+Diskussionsrunde
+
+Problemverfolgung
+
+## 6. Datenindex Terrorismus
+
+Nachname
+
+Vorname
+
+Geburtsdatum
+
+Nationalität
+
+## 7. Auswertungsplattformen
+
+Name
+
+Metadaten
+
+Anhang 2[^t-4]
 
 (Art. 11 Abs. 6)
 
-## 1. Zugriffsmatrix JANUS
+## 1. Zugriffsmatrix NES
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 17. Dez. 2014 ([AS 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Bereinigt gemäss Ziff. I der V vom 21. Nov. 2018 ([AS 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)) und Anhang 2 Ziff. 5 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), [454](https://fedlex.data.admin.ch/eli/oc/2022/454)).
+[^t-4]: Fassung gemäss Ziff. II der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ### 1.1 System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes (Art. 10 und 18 BPI)
 
 <table>
-<tr><th>Stelle</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th colspan="2">Intranet</th><th></th><th>Blüte</th></tr>
-<tr><th></th><th>Personalien und Vorgänge</th><th>Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th>Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Mail</th><th colspan="2">Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
-<tr><td colspan="14">fedpol – Bundeskriminalpolizei (BKP)</td></tr>
-<tr><td>C BKP + FachreferentIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Ermittlungsoffiziere</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Abteilungschefs</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>AssistentIn EOf + AssistentIn AC</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>KommissariatsleiterIn + Stv.</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>ErmittlerIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>MA Koordination</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>SB, KoordinatorIn., EL, ObservantIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>C + MA Falschgeld</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>D</td></tr>
-<tr><td>C + MA Kriminaltechnik</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>AnalystIn BKP</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Superuser BKP</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>C + MA Kontrolldienst KJI</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>ProjektauftraggeberIn</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>KOBIK</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>C + MA Zeugenschutzstelle</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td colspan="14">fedpol – Internationale Polizeikooperation (IPK)</td></tr>
-<tr><td>C IPK</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Operative Polizeikooperation (User)</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Operative Polizeikooperation (Superuser)</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Einsatzzentrale (User)</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Einsatzzentrale (Superuser)</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Strategie (AC, FBL, MA)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Führungsunterstützung FUR</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><th>Stelle</th><th colspan="2">Ermittlungssystem</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Kollaborationsplattform</th><th>Blüte</th></tr>
+<tr><th></th><th>Informationsfall</th><th colspan="2">Ermittlungsfall</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Geschäftskontrolle</th><th>Aktenverwaltung Tagesjournale</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
+<tr><td colspan="10">fedpol – Bundeskriminalpolizei (BKP)</td></tr>
+<tr><td>MitarbeiterIn, C und Stv. C BKP</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>MitarbeiterIn Falschgeld</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>D</td></tr>
+<tr><td colspan="10">fedpol – Internationale Polizeikooperation (IPK)</td></tr>
+<tr><td>C und Stv. C IPK</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Einsatz- und Alarmzentrale / SIRENE CH</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Operative Polizeikooperation</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Internationale Angelegenheiten</td><td>A\*</td><td colspan="2">A\*</td><td></td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td></td></tr>
+<tr><td>Steuerung und Planung</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><td>AG (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
-<tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><th>Stelle</th><th colspan="3">PV</th><th></th><th>JO</th><th colspan="2"></th><th colspan="2"></th><th>AN</th><th>PR</th><th colspan="2">ER</th><th colspan="2">GA</th><th colspan="3">Intranet</th><th></th><th colspan="2">Blüte</th></tr>
-<tr><th></th><th colspan="2">Personalien und Vorgänge</th><th colspan="2">Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th colspan="2">Detail Journal</th><th colspan="2">Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th colspan="2">Ereignisprotokolle Tagesjournale</th><th colspan="2">Geschäftskontrolle Aktenverwaltung</th><th colspan="2">Mail</th><th colspan="2">Polizeiliche Informationen</th><th colspan="2">Falschgeldtypen und -techniken</th></tr>
-<tr><td colspan="22">fedpol – Dienste (DST)</td></tr>
-<tr><td>Polizeisysteme (EDV-AnalytikerIn)</td><td colspan="2">D</td><td colspan="2">G</td><td>D</td><td colspan="2">D</td><td colspan="2">G</td><td>G</td><td>D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td></tr>
-<tr><td>Sektion Hooliganismus</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>A\*</td><td colspan="2">A\*</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>[tab] Zentralstelle Waffen</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Zentralstelle Explosivstoffe</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>KILA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA AFIS/DNA Services</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA AFIS I - III</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + Stv. C DNA-Laboraufsicht</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + Stv. C HA DST</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Sekretariat HA DST</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA N-SIS und iA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + Stv. C Nationale Polizeisysteme</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA Polizeisysteme I</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA RIPOL Personenfahndung</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">G</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA RIPOL Sachfahndung</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + Stv. C A Ausweise und besondere Aufgaben</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="22">fedpol – Bundessicherheitsdient (BSD)</td></tr>
-<tr><td>AC, RedaktorIn</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA GELA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MASPEVE, SIBUK, SIBEL</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA SIBUK</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="22">fedpol – Stab</td></tr>
-<tr><td>DatenschutzberaterIn + Stv</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2">G</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Rechtsdienst</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA MROS</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td colspan="23">NDB</td></tr>
-<tr><td>Auswertung / Analyse</td><td>G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
-<tr><td>Ausländerdienst</td><td>G</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
-<tr><td>Beschaffung</td><td>G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
-<tr><td>Datenerfassung / Triage</td><td>–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A\*</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA NDB</td><td>–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
-<tr><td>DatenschutzberaterIn NDB</td><td>G</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">–</td><td colspan="2">–</td></tr>
-<tr><td>Bereich Sicherheit</td><td>P</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
+<tr><th>Stelle</th><th colspan="2">Ermittlungssystem</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Kollaborationsplattform</th><th>Blüte</th></tr>
+<tr><th></th><th>Informationsfall</th><th colspan="2">Ermittlungsfall</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
+<tr><td colspan="10">fedpol – Polizeisysteme und Identifikation (PSI)</td></tr>
+<tr><td>Polizeisysteme (ProjektleiterIn, tech. Verantwortliche)</td><td>D</td><td colspan="2">D</td><td>A\*</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
+<tr><td>ProjektauftraggeberIn</td><td>D</td><td colspan="2">D</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Aufsicht fedpol</td><td>D</td><td colspan="2">D</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Ausbildung Polizeisysteme</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td></tr>
+<tr><td>Zentralstellen Explosivstoffe und Waffen</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Ausweise und e-ID</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Technologie und Entwicklung Ausweise</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Biometrische Identifikation</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>C PSI und s+ Stv. C DB PSI</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>Betrieb und Support N-SIS Office</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Polizeisysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Fahndungen RIPOL</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>G</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">fedpol – Bundessicherheitsdienst (BSD)</td></tr>
+<tr><td>GELA</td><td>D</td><td colspan="2">D</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>SIBEL</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>C + C suppl. SFS</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">Kriminalprävention und Recht</td></tr>
+<tr><td>DatenschutzberaterIn + Stv</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
+<tr><td>Kriminalprävention</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Nationale Fussballinformationsstelle</td><td>G</td><td colspan="2">G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>MROS</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">NDB</td></tr>
+<tr><td>NDB</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Auswertung / Analyse</td><td>G</td><td colspan="2">–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Ausländerdienst</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Informationsbeschaffung</td><td>G</td><td colspan="2">–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Datenerfassung / Triage</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>DatenschutzberaterIn NDB</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Bereich Sicherheit</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><th>Stelle</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Intranet</th><th></th><th>Blüte</th></tr>
-<tr><th></th><th>Personalien und Vorgänge</th><th>Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th>Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Mail</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
-<tr><td colspan="13">ISC – EJPD</td></tr>
-<tr><td>SystementwicklerIn</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>A</td><td>D</td><td>D</td></tr>
-<tr><td colspan="13">Kantonale Polizeikorps der Schweiz</td></tr>
-<tr><td>JANUS-SuperuserIn</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>MA Polizeikorps</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>AnalystIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>AssistentIn Polizeikorps</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Log. + Admin. Unterstützung</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Kantonaler Webredaktor/-iIn</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
-<tr><td colspan="13">Andere Behörden</td></tr>
-<tr><td>UR + Stawa Bund</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>UR + Stawa Kantone</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="13">Bundesamt für Zoll und Grenzsicherheit</td></tr>
-<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="13">DB Strafverfolgung</td></tr>
-<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="13">DB Risikoanalyse</td></tr>
-<tr><td>C Direktionsbereich</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="13">DB Operationen</td></tr>
-<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="13">Bundesanwaltschaft</td></tr>
-<tr><td>Abteilung Staatsschutz und Spezialtatbestände / organisierte Kriminalität</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td>Abteilung Wirtschaftskriminalität I + II</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td>Kompetenzzentrum Wirtschaft und Finanzen</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td>Kompetenzzentrum Rechtshilfe</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td>Kompetenzzentrum Terrorismus und Völkerstrafrecht</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td>die Zweigstellen Lausanne, Lugano und Zürich</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
+<tr><th>Stelle</th><th colspan="4">Ermittlungssystem</th><th></th><th colspan="2">AN</th><th colspan="2">PR</th><th colspan="2">ER</th><th colspan="2">GA</th><th colspan="2">Kollaborationsplattform</th><th colspan="2">Blüte</th></tr>
+<tr><th></th><th colspan="2">Informationsfall</th><th colspan="3">Ermittlungsfall</th><th colspan="2">Analyse (mit Analyse-Tool)</th><th colspan="2">Polizeirapportierung</th><th colspan="2">Ereignisprotokolle Tagesjournale</th><th colspan="2">Geschäftskontrolle Aktenverwaltung</th><th colspan="2">Polizeiliche Informationen</th><th colspan="2">Falschgeldtypen und -techniken</th></tr>
+<tr><td colspan="18">ISC – EJPD</td></tr>
+<tr><td colspan="2">SystementwicklerIn</td><td colspan="2">D</td><td colspan="3">D</td><td colspan="2">G</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td><td>D</td></tr>
+<tr><td colspan="18">Kantonale Polizeikorps der Schweiz</td></tr>
+<tr><td colspan="2">MA Polizeikorps</td><td colspan="2">A\*</td><td colspan="3">A\*</td><td colspan="2">A\*</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">ErmittlerIn</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">Fachspezialist Ausweise</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">AnalystIn</td><td colspan="2">A\*</td><td colspan="3">A\*</td><td colspan="2">A\*</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Log. + Admin. Unterstützung</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Kantonaler Webredaktor/-iIn</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="18">Andere Behörden</td></tr>
+<tr><td colspan="2">Stawa Kantone</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">Fremdenpolizei der Stadt Bern (FREPO Bern)</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="18">Bundesamt für Zoll und Grenzsicherheit (BAZG)</td></tr>
+<tr><td colspan="2">Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Fachspezialist Ausweise</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">MitarbeiterIn</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="18">BAZG DB Strafverfolgung</td></tr>
+<tr><td colspan="2">Mitarbeitende Vorermittlung und Zollfahndung</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="18">BAZG DB Risikoanalyse</td></tr>
+<tr><td colspan="2">C Direktionsbereich</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Abteilung Risikoanalyse (C und Mitarbeitende)</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Abteilung Information und Lage (C und Mitarbeitende)</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="18">BAZG DB Operationen</td></tr>
+<tr><td colspan="2">Einsatzzentralen (C und Mitarbeitende)</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="2">Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td colspan="2">G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td colspan="18">Bundesanwaltschaft</td></tr>
+<tr><td colspan="2">Abteilung Staatsschutz und Spezialtatbestände / organisierte Kriminalität</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td>–</td></tr>
+<tr><td colspan="2">Abteilung Wirtschaftskriminalität I + II</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td>–</td></tr>
+<tr><td colspan="2">Kompetenzzentrum Wirtschaft und Finanzen</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td>–</td></tr>
+<tr><td colspan="2">Kompetenzzentrum Rechtshilfe</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td>–</td></tr>
+<tr><td colspan="2">Kompetenzzentrum Terrorismus und Völkerstrafrecht</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td>–</td></tr>
+<tr><td colspan="2">die Zweigstellen Lausanne, Lugano und Zürich</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td colspan="2">G\*\*</td><td>–</td></tr>
+<tr><td colspan="2">Für die Datenkontrolle zuständige Stelle</td><td colspan="2">D</td><td colspan="3">D</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
-<tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
-<tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
-<tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
-<tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
-</table>
-
-\* = nur Daten gleiche Organisationseinheit
-
-\*\* = nur Daten für welche die jeweilige Verfahrensleitung die Verantwortung inne hat
-
-<table>
-<tr><td>Stelle</td><td>PROT</td><td>ADMIN</td><td>KONTR</td><td>BAR</td></tr>
-<tr><td></td><td>Protokollierung</td><td>Benutzer- Verwaltung</td><td>Datenkontrolle</td><td>Abgabe an Bundesarchiv</td></tr>
+<tr><th>Stelle</th><th>PROT</th><th>ADMIN</th><th>KONTR</th><th>BAR</th></tr>
+<tr><th></th><th>Protokollierung</th><th>Benutzer- Verwaltung</th><th>Datenkontrolle</th><th>Abgabe an Bundesarchiv</th></tr>
 <tr><td colspan="5">fedpol</td></tr>
-<tr><td>JANUS ProjektleiterIn + -administratorIn</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
-<tr><td>C + Stv Kontrolldienst KJI</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
-<tr><td>MA Kontrolldienst KJI</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
+<tr><td>ProjektleiterIn + -administratorIn</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
+<tr><td>Benutzerverwaltung</td><td>–</td><td>D</td><td>–</td><td>–</td></tr>
+<tr><td>C und Stv Aufsicht fedpol</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
+<tr><td>MA Aufsicht fedpol</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
 <tr><td>DatenschutzberaterIn + Stv</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>ArchivarIn fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
 <tr><td colspan="5">ISC-EJPD</td></tr>
@@ -1012,166 +1921,136 @@ Anhang 2[^t-2]
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
+
+\*\* = nur Daten für welche die jeweilige Verfahrensleitung die Verantwortung inne hat
 
 ### 1.2 System Bundesdelikte (Art. 11 und 18 BPI)
 
 <table>
-<tr><th>Stelle</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th colspan="2">Intranet</th><th></th><th>Blüte</th></tr>
-<tr><th></th><th>Personalien und Vorgänge</th><th>Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th>Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Mail</th><th colspan="2">Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
-<tr><td colspan="14">fedpol – Bundeskriminalpolizei (BKP)</td></tr>
-<tr><td>C BKP + FachreferentIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Ermittlungsoffiziere</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Abteilungschefs</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>AssistentIn EOf + AssistentIn AC</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>KommissariatsleiterIn + Stv.</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>ErmittlerIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>MA Koordination</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>SB, KoordinatorIn., EL, ObservantIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>C + MA Falschgeld</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>D</td></tr>
-<tr><td>C + MA Kriminaltechnik</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>AnalystIn BKP</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Superuser BKP</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>C + MA Kontrolldienst KJI</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>ProjektauftraggeberIn</td><td>D</td><td>–</td><td>D</td><td>D</td><td>–</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>KOBIK</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>C+MA Zeugenschutzstelle</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td colspan="14">fedpol – Internationale Polizeikooperation (IPK)</td></tr>
-<tr><td>C IPK</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Operative Polizeikooperation (User)</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Operative Polizeikooperation (Superuser)</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Einsatzzentrale (User)</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Einsatzzentrale (Superuser)</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Strategie (AC, FBL, MA)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Führungsunterstützung FUR</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><th>Stelle</th><th colspan="2">Ermittlungssystem</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Kollaborationsplattform</th><th>Blüte</th></tr>
+<tr><th></th><th>Informationsfall</th><th colspan="2">Ermittlungsfall</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
+<tr><td colspan="10">fedpol – Bundeskriminalpolizei (BKP)</td></tr>
+<tr><td>MitarbeiterIn, C und Stv. C BKP</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>MitarbeiterIn Falschgeld</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>D</td></tr>
+<tr><td colspan="10">fedpol – Internationale Polizeikooperation (IPK)</td></tr>
+<tr><td>C und Stv. C IPK</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Einsatz- und Alarmzentrale / SIRENE CH</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Operative Polizeikooperation</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Internationale Angelegenheiten</td><td>A\*</td><td colspan="2">A\*</td><td></td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Steuerung und Planung</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><th>Stelle</th><th colspan="2">PV</th><th colspan="2"></th><th>JO</th><th colspan="2"></th><th colspan="2"></th><th colspan="2">AN</th><th colspan="2">PR</th><th>ER</th><th colspan="2">GA</th><th colspan="2">Intranet</th><th colspan="2"></th><th colspan="2">Blüte</th></tr>
-<tr><th></th><th colspan="2">Personalien und Vorgänge</th><th colspan="2">Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th colspan="2">Detail Journal</th><th colspan="2">Auswertung JO (intern)</th><th colspan="2">Analyse (mit Analyse-Tool)</th><th colspan="2">Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th colspan="2">Geschäftskontrolle Aktenverwaltung</th><th colspan="2">Mail</th><th colspan="2">Polizeiliche Informationen</th><th colspan="2">Falschgeldtypen und -techniken</th></tr>
-<tr><td colspan="23">fedpol – Dienste (DST)</td></tr>
-<tr><td>Polizeisysteme (EDV-AnalytikerIn)</td><td colspan="2">D</td><td colspan="2">G</td><td>D</td><td colspan="2">D</td><td colspan="2">G</td><td colspan="2">G</td><td colspan="2">D</td><td>D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td></tr>
-<tr><td>Sektion Hooliganismus</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td colspan="2">G</td><td colspan="2">G</td><td colspan="2">–</td><td colspan="2">A\*</td><td>A\*</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>[tab] Zentralstelle Waffen</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Zentralstelle Explosivstoffe</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>KILA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA AFIS/DNA Services</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA AFIS I – III</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + Stv. C DNA-Laboraufsicht</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + Stv. C HA DST</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Sekretariat HA DST</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA N-SIS und iA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + Stv. C Nationale Polizeisysteme</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA Polizeisysteme I</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA RIPOL Personenfahndung</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">G</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + MA RIPOL Sachfahndung</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>C + Stv. C A Ausweise und besondere Aufgaben</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="23">fedpol – Bundessicherheitsdient (BSD)</td></tr>
-<tr><td>AC, RedaktorIn</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA GELA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA SPEVE, SIBUK, SIBEL</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA SIBUK</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="23">fedpol – Stab</td></tr>
-<tr><td>DatenschutzberaterIn + Stv</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td colspan="2">G</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Rechtsdienst</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>C + MA MROS</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td colspan="22">NDB</td></tr>
-<tr><td colspan="2">Auswertung / Analyse</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">Ausländerdienst</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">Beschaffung</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">Datenerfassung / Triage</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">C + MA NDB</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">DatenschutzberaterIn NDB</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="2">Bereich Sicherheit</td><td colspan="2">P</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
+<tr><th>Stelle</th><th colspan="2">Ermittlungssystem</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Kollaborationsplattform</th><th>Blüte</th></tr>
+<tr><th></th><th>Informationsfall</th><th colspan="2">Ermittlungsfall</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
+<tr><td colspan="10">fedpol – Polizeisysteme und Identifikation (PSI)</td></tr>
+<tr><td>Polizeisysteme (ProjektleiterIn, tech. Verantwortliche)</td><td>D</td><td colspan="2">D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
+<tr><td>ProjektauftraggeberIn</td><td>D</td><td colspan="2">D</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Aufsicht fedpol</td><td>D</td><td colspan="2">D</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Ausbildung Polizeisysteme</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td></tr>
+<tr><td>Zentralstellen Explosivstoffe und Waffen</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td></tr>
+<tr><td>Ausweis und e-ID</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Technologie und Entwicklung Ausweise</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Biometrische Identifikation</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>C und Stv. C DB PSI</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Betrieb und Support N-SIS Office</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
+<tr><td>Polizeisysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Fahndungen RIPOL</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>G</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">fedpol – Bundessicherheitsdienst (BSD)</td></tr>
+<tr><td>GELA</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>SIBEL</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>C und Stv. C DB BSD</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">fedpol – Kriminalprävention und Recht</td></tr>
+<tr><td>DatenschutzberaterIn + Stv</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>–</td></tr>
+<tr><td>Kriminalprävention</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Nationale Fussballinformationsstelle</td><td>G</td><td colspan="2">G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>MROS</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">NDB</td></tr>
+<tr><td>NDB</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Auswertung / Analyse</td><td>G</td><td colspan="2">–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Ausländerdienst</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Informationsbeschaffung</td><td>G</td><td colspan="2">–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Datenerfassung / Triage</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>DatenschutzberaterIn NDB</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Bereich Sicherheit</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><th>Stelle</th><th colspan="2">PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Intranet</th><th></th><th>Blüte</th></tr>
-<tr><th></th><th>Personalien und Vorgänge</th><th colspan="2">Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th>Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Mail</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
-<tr><td colspan="14">ISC – EJPD</td></tr>
-<tr><td>SystementwicklerIn</td><td>D</td><td colspan="2">G</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>A</td><td>D</td><td>D</td></tr>
-<tr><td colspan="14">Kantonale Polizeikorps der Schweiz</td></tr>
-<tr><td>JANUS-SuperuserIn</td><td>D\*</td><td colspan="2">G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>MA Polizeikorps</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>AnalystIn</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>AssistentIn Polizeikorps</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Log. + Admin. Unterstützung</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Kantonaler Webredaktor/-iIn</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
-<tr><td colspan="14">Andere Behörden</td></tr>
-<tr><td>UR + Stawa Bund</td><td>P</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>UR + Stawa Kantone</td><td>P</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="14">Bundesamt für Zoll und Grenzsicherheit</td></tr>
-<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">DB Strafverfolgung</td></tr>
-<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">DB Risikoanalyse</td></tr>
-<tr><td>C Direktionsbereich</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">DB Operationen</td></tr>
-<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">Kantonale Behörden</td></tr>
-<tr><td>Fremdenpolizei der Stadt Bern (FREPO Bern)</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><th>Stelle</th><th colspan="2">Ermittlungssystem</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Kollaborationsplattform</th><th>Blüte</th></tr>
+<tr><th></th><th>Informationsfall</th><th colspan="2">Ermittlungsfall</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
+<tr><td colspan="10">ISC – EJPD</td></tr>
+<tr><td>SystementwicklerIn</td><td>D</td><td colspan="2">D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
+<tr><td colspan="10">Kantonale Polizeikorps der Schweiz</td></tr>
+<tr><td>MA Polizeikorps</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>ErmittlerIn</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Fachspezialist Ausweise</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>AnalystIn</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Log. + Admin. Unterstützung</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Kantonaler Webredaktor/-iIn</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">Andere Behörden</td></tr>
+<tr><td>Bundesanwaltschaft</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Stawa Kantone</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Fremdenpolizei der Stadt Bern (FREPO Bern)</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>–</td></tr>
+<tr><td colspan="10">Bundesamt für Zoll und Grenzsicherheit (BAZG)</td></tr>
+<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Fachspezialist Ausweise</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>MitarbeiterIn</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">BAZG DB Strafverfolgung</td></tr>
+<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">BAZG DB Risikoanalyse</td></tr>
+<tr><td>C Direktionsbereich</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="10">BAZG DB Operationen</td></tr>
+<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
-<tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
-<tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
-<tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
-<tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
-</table>
-
-\* = nur Daten gleiche Organisationseinheit
-
-<table>
-<tr><td>Stelle</td><td>PROT</td><td>ADMIN</td><td>KONTR</td><td>BAR</td></tr>
-<tr><td></td><td>Protokollierung</td><td>Benutzer- Verwaltung</td><td>Datenkontrolle</td><td>Abgabe an Bundesarchiv</td></tr>
+<tr><th>Stelle</th><th>PROT</th><th>ADMIN</th><th>KONTR</th><th>BAR</th></tr>
+<tr><th></th><th>Protokollierung</th><th>Benutzer- Verwaltung</th><th>Datenkontrolle</th><th>Abgabe an Bundesarchiv</th></tr>
 <tr><td colspan="5">fedpol</td></tr>
-<tr><td>JANUS ProjektleiterIn + -administratorIn</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
-<tr><td>C + Stv Kontrolldienst KJI</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
-<tr><td>MA Kontrolldienst KJI</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
+<tr><td>ProjektleiterIn + -administratorIn</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
+<tr><td>C + Stv Aufsicht fedpol</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
+<tr><td>MA Aufsicht fedpol</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
 <tr><td>DatenschutzberaterIn + Stv</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>Archivar fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
 <tr><td colspan="5">ISC-EJPD</td></tr>
@@ -1179,13 +2058,13 @@ Anhang 2[^t-2]
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
@@ -1193,153 +2072,132 @@ Anhang 2[^t-2]
 ### 1.3 System zur Unterstützung der Ermittlungen der Kantone im Bereich ihrer Strafverfolgungskompetenzen (Art. 13 BPI)
 
 <table>
-<tr><th>Stelle</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>Intranet</th><th></th></tr>
-<tr><th></th><th>Personalien und Vorgänge</th><th>Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th>Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Mail</th><th>Polizeiliche Informationen</th></tr>
-<tr><td colspan="9">fedpol – Bundeskriminalpolizei (BKP)</td></tr>
-<tr><td>C BKP + FachreferentIn</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Ermittlungsoffiziere</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Abteilungschefs</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>AssistentIn EOf + AC</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>KommissariatsleiterIn + Stv.</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>ErmittlerIn</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>MA Koordination</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>SB, KoordinatorIn., EL, ObservantIn</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>C + MA Falschgeld</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>C + MA Kriminaltechnik</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>AnalystIn BKP</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
-<tr><td>Superuser BKP</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
-<tr><td>C + MA Kontrolldienst KJI</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A</td><td>A</td></tr>
-<tr><td>ProjektauftraggeberIn</td><td>D</td><td>–</td><td>D</td><td>D</td><td>–</td><td>G</td><td>A</td><td>G</td></tr>
-<tr><td>KOBIK</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>C+MA Zeugenschutzstelle</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td colspan="9">fedpol – Internationale Polizeikooperation (IPK)</td></tr>
-<tr><td>C IPK</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Operative Polizeikooperation (User)</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Operative Polizeikooperation (Superuser)</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
-<tr><td>Einsatzzentrale (User)</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Einsatzzentrale (Superuser)</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
-<tr><td>Strategie (AC, FBL, MA)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Führungsunterstützung FUR</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><th>Stelle</th><th colspan="2">Ermittlungssystem</th><th></th><th>AN</th><th>Kollaborationsplattform</th></tr>
+<tr><th></th><th>Informationsfall</th><th colspan="2">Ermittlungsfall</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeiliche Informationen</th></tr>
+<tr><td colspan="6">fedpol – Bundeskriminalpolizei (BKP)</td></tr>
+<tr><td>MitarbeiterIn, C und Stv. C BKP</td><td>G</td><td colspan="2">G</td><td>G</td><td>A</td></tr>
+<tr><td colspan="6">fedpol – Internationale Polizeikooperation (IPK)</td></tr>
+<tr><td>C und Stv. C IPK</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Einsatz- und Alarmzentrale / SIRENE CH</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td></tr>
+<tr><td>Operative Polizeikooperation</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td></tr>
+<tr><td>Internationale Angelegenheiten</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td></tr>
+<tr><td>Steuerung und Planung</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><th>Stelle</th><th colspan="2">PV</th><th></th><th colspan="2">JO</th><th></th><th colspan="3"></th><th>AN</th><th colspan="2">Intranet</th><th></th></tr>
-<tr><th></th><th colspan="2">Personalien und Vorgänge</th><th>Auswertung PV (intern)</th><th colspan="2">Detail Telefonkontrolle</th><th>Detail Journal</th><th colspan="3">Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th colspan="2">Mail</th><th>Polizeiliche Informationen</th></tr>
-<tr><td colspan="14">fedpol – Dienste (DST)</td></tr>
-<tr><td>Polizeisysteme (EDV-AnalytikerIn)</td><td colspan="2">D</td><td>G</td><td colspan="2">D</td><td>D</td><td colspan="3">G</td><td>G</td><td colspan="2">D</td><td>D</td></tr>
-<tr><td>Sektion Hooliganismus</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>G</td><td colspan="3">G</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Zentralstelle Waffen</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Zentralstelle Explosivstoffe</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>KILA</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>C + MA AFIS/DNA Services</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + MA AFIS I – III</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + Stv. C DNA-Laboraufsicht</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + Stv. C HA DST</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>Sekretariat HA DST</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + MA N-SIS und iA</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + Stv. C Nationale Polizeisysteme</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + MA Polizeisysteme I</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + MA RIPOL Personenfahndung</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + MA RIPOL Sachfahndung</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>C + Stv. C A Ausweise und besondere Aufgaben</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td colspan="14">fedpol – Bundessicherheitsdienst (BSD)</td></tr>
-<tr><td>AC, RedaktorIn</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>C + MA GELA</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>C + MASPEVE, SIBUK, SIBEL</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>C + MA SIBUK</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td colspan="14">fedpol – Stab</td></tr>
-<tr><td>DatenschutzberaterIn + Stv</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td>G</td><td colspan="3">G</td><td>G</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Rechtsdienst</td><td colspan="2">P</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>C + MA MROS</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td colspan="15">NDB</td></tr>
-<tr><td colspan="2">Auswertung / Analyse</td><td>P</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="3">–</td><td>A</td><td colspan="2">G</td></tr>
-<tr><td colspan="2">Ausländerdienst</td><td>P</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="3">–</td><td>A</td><td colspan="2">G</td></tr>
-<tr><td colspan="2">Beschaffung</td><td>P</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="3">–</td><td>A</td><td colspan="2">G</td></tr>
-<tr><td colspan="2">Datenerfassung / Triage</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="3">–</td><td>A</td><td colspan="2">G</td></tr>
-<tr><td colspan="2">C + MA NDB</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="3">–</td><td>A</td><td colspan="2">G</td></tr>
-<tr><td colspan="2">DatenschutzberaterIn NDB</td><td>P</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="3">–</td><td>A</td><td colspan="2">G</td></tr>
-<tr><td colspan="2">Bereich Sicherheit</td><td>P</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td colspan="3">–</td><td>A</td><td colspan="2">G</td></tr>
+<tr><th>Stelle</th><th colspan="2">Ermittlungssystem</th><th></th><th>AN</th><th>Kollaborationsplattform</th></tr>
+<tr><th></th><th>Informationsfall</th><th colspan="2">Ermittlungsfall</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeiliche Informationen</th></tr>
+<tr><td colspan="6">fedpol – Polizeisysteme und Identifkation (PSI)</td></tr>
+<tr><td>Polizeisysteme (ProjektleiterIn, tech. Verantwortliche)</td><td>D</td><td colspan="2">D</td><td>G</td><td>D</td></tr>
+<tr><td>Aufsicht fedpol</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td></tr>
+<tr><td>Ausbildung Polizeisysteme</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td></tr>
+<tr><td>Zentralstellen Explosivstoffe und Waffen</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Ausweis und e-ID</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Biometrische Identifikation</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>C und Stv. C PSI</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Betrieb und Support N-SIS Office</td><td>–</td><td colspan="2">–</td><td>–</td><td>D</td></tr>
+<tr><td>Polizeisysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Fahndung RIPOL</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td colspan="6">fedpol – Bundessicherheitsdienst (BSD)</td></tr>
+<tr><td>GELA</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>SIBEL</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>C und Stv. C BSD</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td colspan="6">fedpol – Kriminalprävention und Recht</td></tr>
+<tr><td>DatenschutzberaterIn + Stv</td><td>G</td><td colspan="2">G</td><td>G</td><td>A</td></tr>
+<tr><td>Kriminalprävention</td><td>P</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Nationale Fussballinformationsstelle</td><td>G</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>MROS</td><td>G</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td colspan="6">NDB</td></tr>
+<tr><td>NDB</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Auswertung / Analyse</td><td>P</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Ausländerdienst</td><td>P</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Beschaffung</td><td>P</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Datenerfassung / Triage</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>DatenschutzberaterIn NDB</td><td>P</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
+<tr><td>Bereich Sicherheit</td><td>P</td><td colspan="2">–</td><td>–</td><td>A</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><th>Stelle</th><th>PV</th><th></th><th>JO</th><th></th><th colspan="2"></th><th>AN</th><th colspan="2">Intranet</th><th></th></tr>
-<tr><th></th><th>Personalien und Vorgänge</th><th>Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th colspan="2">Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th colspan="2">Mail</th><th>Polizeiliche Informationen</th></tr>
-<tr><td colspan="11">ISC – EJPD</td></tr>
-<tr><td>SystementwicklerIn</td><td>D</td><td>G</td><td>D</td><td colspan="2">D</td><td>G</td><td>D</td><td colspan="2">A</td><td>D</td></tr>
-<tr><td colspan="11">Kantonale Polizeikorps der Schweiz</td></tr>
-<tr><td>JANUS-SuperuserIn</td><td>D\*</td><td>G</td><td>D\*</td><td colspan="2">D\*</td><td>G</td><td>G</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>MA Polizeikorps</td><td>A\*</td><td>G</td><td>A\*</td><td colspan="2">A\*</td><td>G</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>AnalystIn</td><td>A\*</td><td>G</td><td>A\*</td><td colspan="2">A\*</td><td>G</td><td>G</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>AssistentIn Polizeikorps</td><td>A\*</td><td>G</td><td>A\*</td><td colspan="2">A\*</td><td>G</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Log. + Admin. Unterstützung</td><td>P</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>Kantonale/r Webredaktor/-In</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>D\*</td></tr>
-<tr><td colspan="11">Andere Behörden</td></tr>
-<tr><td>UR + Stawa Bund</td><td>P</td><td>–</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>UR + Stawa Kantone</td><td>P</td><td>–</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td colspan="11">**Bundesamt für Zoll und Grenzsicherheit**</td></tr>
-<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
-<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
-<tr><td colspan="11">DB Strafverfolgung</td></tr>
-<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td>G</td><td>–</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
-<tr><td colspan="11">**DB Risikoanalyse**</td></tr>
-<tr><td>C Direktionsbereich</td><td>G</td><td>G</td><td>–</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
-<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td>A</td><td>G</td></tr>
-<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td>A</td><td>G</td></tr>
-<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td>A</td><td>G</td></tr>
-<tr><td colspan="11">DB Operationen</td></tr>
-<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
-<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
+<tr><th>Stelle</th><th colspan="2">Ermittlungssystem</th><th></th><th>AN</th><th colspan="2">Kollaborationsplattform</th></tr>
+<tr><th></th><th>Informationsfall</th><th colspan="2">Ermittlungsfall</th><th>Analyse (mit Analyse-Tool)</th><th colspan="2">Polizeiliche Informationen</th></tr>
+<tr><td colspan="7">ISC – EJPD</td></tr>
+<tr><td>SystementwicklerIn</td><td>D</td><td colspan="2">D</td><td>D</td><td colspan="2">D</td></tr>
+<tr><td colspan="7">Kantonale Polizeikorps der Schweiz</td></tr>
+<tr><td>MA Polizeikorps</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td colspan="2">A</td></tr>
+<tr><td>AnalystIn</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td colspan="2">A</td></tr>
+<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td>Log. + Admin. Unterstützung</td><td>P</td><td colspan="2">–</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td>Kantonale/r Webredaktor/-In</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td colspan="7">Andere Behörden</td></tr>
+<tr><td>Bundesanwaltschaft</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td>Stawa Kantone</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td>Fremdenpolizei der Stadt Bern (FREPO Bern)</td><td>G</td><td colspan="2">G</td><td>G</td><td colspan="2">A</td></tr>
+<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td colspan="7">Bundesamt für Zoll und Grenzsicherheit (BAZG)</td></tr>
+<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td>MitarbeiterIn</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td colspan="7">BAZG DB Strafverfolgung</td></tr>
+<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td colspan="2">G</td><td>–</td><td colspan="2">A</td></tr>
+<tr><td colspan="6">BAZG DB Risikoanalyse</td></tr>
+<tr><td>C Direktionsbereich</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td></tr>
+<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>G</td><td>A</td></tr>
+<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>G</td><td>A</td></tr>
+<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>G</td><td>A</td></tr>
+<tr><td colspan="6">BAZG DB Operationen</td></tr>
+<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td></tr>
+<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
 
+\*\* = nur Daten für welche die jeweilige Verfahrensleitung die Verantwortung inne hat
+
 <table>
-<tr><td>Stelle</td><td>PROT</td><td>ADMIN</td><td>KONTR</td><td>BAR</td></tr>
-<tr><td></td><td>Protokollierung</td><td>Benutzer- Verwaltung</td><td>Datenkontrolle</td><td>Abgabe an Bundesarchiv</td></tr>
+<tr><th>Stelle</th><th>PROT</th><th>ADMIN</th><th>KONTR</th><th>BAR</th></tr>
+<tr><th></th><th>Protokollierung</th><th>Benutzer- Verwaltung</th><th>Datenkontrolle</th><th>Abgabe an Bundesarchiv</th></tr>
 <tr><td colspan="5">Kantonale Polizeikorps der Schweiz</td></tr>
 <tr><td>Kant. DatenschutzberaterIn + Stv</td><td>G\*</td><td>–</td><td>G\*</td><td>–</td></tr>
 <tr><td>Archivar Kant. Polizeikorps</td><td>–</td><td>–</td><td>–</td><td>D\*</td></tr>
+<tr><td>Organ Einhaltung kantonaler Bestimmung</td><td>–</td><td>–</td><td>D\*</td><td>–</td></tr>
 <tr><td colspan="5">fedpol</td></tr>
-<tr><td>JANUS ProjektleiterIn + -administratorIn</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
-<tr><td>C + Stv Kontrolldienst KJI</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
-<tr><td>MA Kontrolldienst KJI</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
+<tr><td>ProjektleiterIn + -administratorIn</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
+<tr><td>C + Stv Aufsicht fedpol</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
+<tr><td>MA Aufsicht fedpol</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
 <tr><td>DatenschutzberaterIn + Stv</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>Archivar fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
 <tr><td colspan="5">ISC-EJPD</td></tr>
@@ -1347,13 +2205,13 @@ Anhang 2[^t-2]
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
@@ -1363,21 +2221,21 @@ Anhang 2[^t-2]
 <table>
 <tr><th>Stelle</th><th>PROT</th><th>ADMIN</th><th>Grobauswertungsplattform</th></tr>
 <tr><td colspan="4">fedpol</td></tr>
-<tr><td>EFI (Kommissariat II + III)</td><td></td><td>D</td><td>D</td></tr>
+<tr><td>EFI (Kommissariat II + III)</td><td>–</td><td>D</td><td>D</td></tr>
 <tr><td colspan="4">ISC-EJPD</td></tr>
-<tr><td>Stellen mit technischen Aufgaben des ISC-EJPD</td><td>D</td><td></td><td>D</td></tr>
+<tr><td>Stellen mit technischen Aufgaben des ISC-EJPD</td><td>D</td><td>–</td><td>D</td></tr>
 <tr><td colspan="4">Bundesanwaltschaft</td></tr>
 <tr><td>Verfahrensleitung</td><td>D</td><td>D</td><td>D</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
@@ -1387,24 +2245,23 @@ Anhang 2[^t-2]
 ### 2.1 System Bundesdelikte (Art. 11 BPI)
 
 <table>
-<tr><td>Stelle</td><td>PROT</td><td>ADMIN</td><td>KONTR</td><td>BAR</td></tr>
-<tr><td></td><td>Protokollierung</td><td>Benutzer- Verwaltung</td><td>Datenkontrolle</td><td>Abgabe an Bundesarchiv</td></tr>
-<tr><td>Fedpol</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>EFI (Kommissariat II + III)</td><td></td><td>D</td><td></td><td>D</td></tr>
+<tr><th>Stelle</th><th>PROT</th><th>ADMIN</th><th>KONTR</th><th>BAR</th></tr>
+<tr><th></th><th>Protokollierung</th><th>Benutzer- Verwaltung</th><th>Datenkontrolle</th><th>Abgabe an Bundesarchiv</th></tr>
+<tr><td colspan="5">fedpol</td></tr>
+<tr><td>EFI (Kommissariat II + III)</td><td>–</td><td>D</td><td>–</td><td>D</td></tr>
 <tr><td>DatenschutzberaterIn + Stv</td><td>D</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>Archivar fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
-<tr><td>ISC-EJPD</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="5">ISC-EJPD</td></tr>
 <tr><td>SystementwicklerIn</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
@@ -1415,26 +2272,19 @@ Anhang 2[^t-2]
 
 <table>
 <tr><th>Stelle</th><th>PROT</th><th>ADMIN</th><th>Feinauswertungsplattform</th></tr>
-<tr><td>fedpol</td><td></td><td></td><td></td></tr>
-<tr><td>Ermittlungsoffiziere</td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMLA (Kommissariat I + II)</td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMZH (Kommissariat I – III)</td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMLU (Kommissariat I + II)</td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMBE (Kommissariat I – IV)</td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMSTS (Kommissariat I – IV)</td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMTR (Kommissariat I – III)</td><td></td><td></td><td>A</td></tr>
-<tr><td>EFI (Kommissariat I – III)</td><td></td><td></td><td>D</td></tr>
-<tr><td>SPEZE (Kommissariat I – III)</td><td></td><td></td><td>A</td></tr>
-<tr><td>OBS (Kommissariat I – IV)</td><td></td><td></td><td>A</td></tr>
-<tr><td>Analyse (Kommissariat I – IV)</td><td></td><td></td><td>A</td></tr>
-<tr><td>KOR (Kommissariat I – VI)</td><td></td><td></td><td>A</td></tr>
-<tr><td>KDOA (Kommissariat I – II)</td><td></td><td></td><td>A</td></tr>
-<tr><td>Sektion Polizeisysteme II</td><td></td><td></td><td>D</td></tr>
-<tr><td>ISC-EJPD</td><td></td><td></td><td></td></tr>
-<tr><td>Stellen mit technischen Aufgaben des ISC-EJPD</td><td>D</td><td></td><td>D</td></tr>
-<tr><td>Bundesamt für Justiz</td><td></td><td></td><td></td></tr>
+<tr><td colspan="4">fedpol</td></tr>
+<tr><td>Staatsschutz, Kriminelle Organisationen</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Wirtschaftskriminalität</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Rechtshilfe, Terrorismus, Völkerstrafrecht</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>IT-Forensik, Communication</td><td>–</td><td>–</td><td>D</td></tr>
+<tr><td>Operative Spezialeinsätze</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Kriminalanalyse</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Operationen</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td colspan="4">ISC-EJPD</td></tr>
+<tr><td>Stellen mit technischen Aufgaben des ISC-EJPD</td><td>D</td><td>–</td><td>D</td></tr>
+<tr><td colspan="4">Bundesamt für Justiz</td></tr>
 <tr><td>Internationale Rechtshilfe (Auslieferung + Rechtshilfe)</td><td>D</td><td>D</td><td>D</td></tr>
-<tr><td>Bundesanwaltschaft</td><td></td><td></td><td></td></tr>
+<tr><td colspan="4">Bundesanwaltschaft</td></tr>
 <tr><td>Abteilung Staatsschutz und Spezialtatbestände / organisierte Kriminalität</td><td>D</td><td>D</td><td>D</td></tr>
 <tr><td>Abteilung Wirtschaftskriminalität I + II</td><td>D</td><td>D</td><td>D</td></tr>
 <tr><td>Kompetenzzentrum Wirtschaft und Finanzen</td><td>D</td><td>D</td><td>D</td></tr>
@@ -1444,13 +2294,12 @@ Anhang 2[^t-2]
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
@@ -1460,35 +2309,28 @@ Anhang 2[^t-2]
 <table>
 <tr><th>Stelle</th><th>PROT</th><th>ADMIN</th><th>KONTR</th><th>BAR</th><th>AB</th></tr>
 <tr><th></th><th>Protokollierung</th><th>Benutzer- Verwaltung</th><th>Datenkontrolle</th><th>Abgabe an Bundesarchiv</th><th>Abfrage</th></tr>
-<tr><td>Fedpol</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>EFI (IT2, IKT3)</td><td>–</td><td>D</td><td></td><td>D</td><td>A</td></tr>
-<tr><td>Sektion Polizeisysteme II</td><td>–</td><td>D</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td colspan="6">fedpol</td></tr>
+<tr><td>IT-Forensik, Communication</td><td>–</td><td>D</td><td></td><td>D</td><td>A</td></tr>
 <tr><td>DatenschutzberaterIn + Stv</td><td>D</td><td>G</td><td>G</td><td>–</td><td>A</td></tr>
 <tr><td>Archivar fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td><td>A</td></tr>
-<tr><td>Ermittlungsoffiziere</td><td>–</td><td>D</td><td>D</td><td>D</td><td>A</td></tr>
-<tr><td>ERMLA (Kommissariat I + II)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMZH (Kommissariat I – III)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMLU (Kommissariat I + II)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMBE (Kommissariat I – IV)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMSTS (Kommissariat I – IV)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>ERMTR (Kommissariat I – III)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>SPEZE (Kommissariat I – III)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>OBS (Kommissariat I – IV)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>Analyse (Kommissariat I – IV)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>KOR (Kommissariat I – VI)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>KDOA (Kommissariat I – II)</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>ISC-EJPD</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Staatsschutz, Kriminelle Organisationen</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Wirtschaftskriminalität</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Rechtshilfe, Terrorismus, Völkerstrafrecht</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Operative Spezialeinsätze</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Kriminalanalyse</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td>Operationen</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td></tr>
+<tr><td colspan="6">ISC-EJPD</td></tr>
 <tr><td>SystementwicklerIn</td><td>D</td><td>D</td><td>D</td><td>D</td><td></td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
@@ -1498,37 +2340,36 @@ Anhang 2[^t-2]
 ### 4.1 System internationale und interkantonale Polizeikooperation (Art. 12 BPI)
 
 <table>
-<tr><th>Stelle</th><th>Datensammlung Terrorismus</th></tr>
-<tr><td>fedpol</td><td></td></tr>
-<tr><td>ERMSTS (Kommissariat I – IV)</td><td>D</td></tr>
-<tr><td>ERMTR (Kommissariat I – III)</td><td>D</td></tr>
-<tr><td>Sektion Polizeisysteme II</td><td>D</td></tr>
+<tr><th>Stelle</th><th>Datenindex Terrorismus</th></tr>
+<tr><td colspan="2">fedpol</td></tr>
+<tr><td>Staatschutz, Kriminelle Organisationen</td><td>D</td></tr>
+<tr><td>Rechtshilfe, Terrorismus, Völkerstrafrecht</td><td>D</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
 <tr><td>D (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td>Löschen</td></tr>
 <tr><td>D\* (Delete)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td>Löschen\*</td></tr>
-<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
+<tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Entitäten</td></tr>
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><td>Stelle</td><td>PROT</td><td>ADMIN</td><td>KONTR</td><td>BAR</td></tr>
-<tr><td></td><td>Protokollierung</td><td>Benutzer- Verwaltung</td><td>Datenkontrolle</td><td>Abgabe an Bundesarchiv</td></tr>
-<tr><td>Fedpol</td><td></td><td></td><td></td><td></td></tr>
+<tr><th>Stelle</th><th>PROT</th><th>ADMIN</th><th>KONTR</th><th>BAR</th></tr>
+<tr><th></th><th>Protokollierung</th><th>Benutzer- Verwaltung</th><th>Datenkontrolle</th><th>Abgabe an Bundesarchiv</th></tr>
+<tr><td colspan="5">fedpol</td></tr>
 <tr><td>DatenschutzberaterIn + Stv</td><td>D</td><td>D</td><td>D</td><td>–</td></tr>
 <tr><td>Archivar fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
-<tr><td>ISC-EJPD</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="5">ISC-EJPD</td></tr>
 <tr><td>SystementwicklerIn</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
 </table>
 
 <table>
-<tr><td>Legende:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>*Legende:*</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>G (Get)</td><td>=</td><td>Abfrage</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>Abfragen</td><td>Erfassen</td><td>Mutieren\*</td><td></td></tr>
@@ -1537,4 +2378,4 @@ Anhang 2[^t-2]
 <tr><td>P (Polizeiindex)</td><td>=</td><td colspan="4">Abfrage via Polizeiindex, Zugriff eingeschränkt auf Personalien PV</td></tr>
 </table>
 
-\* = nur Daten gleiche Organisationseinheit
+\* = nur Daten gleiche Organisationseinheiten
