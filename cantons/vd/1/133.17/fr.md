@@ -4,7 +4,7 @@ number: "133.17"
 title: LOI du 01.12.1980 sur les dossiers de police judiciaire (LDPJu)
 short: LDPJu
 language: fr
-version: 2011-01-01
+version: 2023-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/133.17?id=d0c8d8b2-e486-4e7c-a579-108991ea9394"
 ---
 
@@ -28,11 +28,11 @@ décrète
 
 **Définition [^chapterChapitreI-1]**
 
-<sup>1</sup> Sont considérées comme dossiers de police judiciaire toutes les informations personnelles conservées par la police et relatives à un crime, un délit ou une contravention relevant du droit pénal fédéral, exception faite des condamnations portées au registre des contraventions de circulation.
+<sup>1</sup> Sont considérées comme dossiers de police judiciaire toutes les informations personnelles conservées par la police et relatives à un crime, un délit ou une contravention relevant du droit pénal fédéral, cantonal ou communal.
 
-<sup>2</sup> Les dossiers comprennent les documents littéraux ou photographiques (dossiers proprement dits) et les fichiers, quel que soit leur support matériel.
+<sup>2</sup> Les dossiers comprennent les documents littéraux ou d'imagerie (dossiers proprement dits) et les fichiers, quel que soit leur support matériel.
 
-[^chapterChapitreI-1]: Modif. 4 du 02.05.2023: Modification Al. 1-2; entrée en vigueur au 01.09.2023; Introduction Art. 8a, Al. 1bis; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 3, a-b; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 6; entrée en vigueur au 01.09.2023; Introduction Art. 8g; entrée en vigueur au 01.09.2023
+[^chapterChapitreI-1]: Modif. 4 du 02.05.2023: Modification Al. 1-2; entrée en vigueur au 01.09.2023
 
 #### Art. 2
 
@@ -40,11 +40,11 @@ décrète
 
 <sup>1</sup> Seules les informations utiles à la prévention, la recherche et la répression des infractions peuvent être enregistrées.
 
-<sup>2</sup> Il est notamment interdit de réunir et de conserver des informations sur les convictions politiques, morales ou religieuses des individus, à moins que celles-ci ne soient en relation étroite avec un crime ou un délit.
+<sup>2</sup> Il est notamment interdit de réunir et de conserver des informations sur les convictions politiques, morales, religieuses ou concernant l'orientation sexuelle des individus, à moins que celles-ci ne soient en relation étroite avec un crime ou un délit.
 
 <sup>3</sup> Les données non pertinentes ou inadéquates doivent être radiées.
 
-[^1-1]: Modif. 4 du 02.05.2023: Modification Al. 2; entrée en vigueur au 01.09.2023; Introduction Art. 8a, Al. 1bis; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 3, a-b; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 6; entrée en vigueur au 01.09.2023; Introduction Art. 8g; entrée en vigueur au 01.09.2023
+[^1-1]: Modif. 4 du 02.05.2023: Modification Al. 2; entrée en vigueur au 01.09.2023
 
 #### Art. 3
 
@@ -94,56 +94,63 @@ décrète
 
 **Modalités [^7-1]**
 
-<sup>1</sup> Le droit d'accès est strictement limité aux besoins du service ou de la procédure de renseignements ou de rectification. Les dossiers sont consultés sur place, sous réserve des exceptions consenties par le commandement de la police cantonale.
+<sup>1</sup> Le droit d'accès est strictement limité aux besoins du service ou de la procédure de renseignements, de rectification ou de suppression. Les dossiers sont consultés sur place, sous réserve des exceptions consenties par le commandement de la police cantonale.
 
 <sup>2</sup> Aucun document tiré directement d'un dossier ni aucune fiche ne peuvent être emportés.
 
 <sup>3</sup> Les photocopies sont interdites, sauf autorisation expresse du commandement de la police cantonale.
 
-[^7-1]: Modif. 1 du 22.05.1989: Modification Al. 1; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Modification Al. 1; entrée en vigueur au 01.09.2023; Introduction Art. 8a, Al. 1bis; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 3, a-b; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 6; entrée en vigueur au 01.09.2023; Introduction Art. 8g; entrée en vigueur au 01.09.2023
+[^7-1]: Modif. 1 du 22.05.1989: Modification Al. 1; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Modification Al. 1; entrée en vigueur au 01.09.2023
 
 #### Art. 8a
 
-**Droit aux renseignements [^8-1]**
+**Droit aux renseignements ou à la constatation d'un traitement illicite de donnés [^8-1]**
 
 <sup>1</sup> Toute personne peut demander des renseignements sur les données personnelles la concernant qui sont contenues dans les dossiers de police judiciaire.
+
+<sup>1bis</sup> Toute personne peut demander la constatation du caractère illicite d'un traitement de données la concernant.
 
 <sup>2</sup> Le droit d'obtenir des renseignements peut être limité, suspendu ou refusé si un intérêt public prépondérant l'exige. Il en va de même si la communication des renseignements est contraire à des intérêts prépondérants ou légitimes de tiers ou de la personne concernée elle-même.
 
 <sup>3</sup> Les dispositions du Code de procédure pénale [^8a-1] sur l'enquête sont réservées.
 
-[^8-1]: Modif. 1 du 22.05.1989: Introduction Art. 8a; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Modification tArt; entrée en vigueur au 01.09.2023; Introduction Al. 1bis; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 3, a-b; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 6; entrée en vigueur au 01.09.2023; Introduction Art. 8g; entrée en vigueur au 01.09.2023
+[^8-1]: Modif. 1 du 22.05.1989: Introduction Art. 8a; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Modification tArt; entrée en vigueur au 01.09.2023; Introduction Al. 1bis; entrée en vigueur au 01.09.2023
 [^8a-1]: Loi du 19.05.2009 d'introduction du Code de procédure pénale suisse ([BLV 312.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.01?id=2d30c3c5-8940-44d6-b00e-f0b57ff7f499))
 
 #### Art. 8b
 
 **Autorités compétentes [^8a-2]**
 
-<sup>1</sup> Hors procédure pénale, la demande de renseignements est traitée par un juge cantonal (ci-après: le juge) désigné à cet effet au début de chaque législature par le Tribunal cantonal.
+<sup>1</sup> Hors procédure pénale, les demandes de renseignements sur les données personnelles et de constatation du caractère illicite d'un traitement de données sont traitées par un juge cantonal (ci-après: le juge) désigné à cet effet au début de chaque législature par le Tribunal cantonal.
 
-[^8a-2]: Modif. 1 du 22.05.1989: Introduction Art. 8b; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Introduction Art. 8a, Al. 1bis; entrée en vigueur au 01.09.2023; Modification Al. 1; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 3, a-b; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 6; entrée en vigueur au 01.09.2023; Introduction Art. 8g; entrée en vigueur au 01.09.2023
+[^8a-2]: Modif. 1 du 22.05.1989: Introduction Art. 8b; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Modification Al. 1; entrée en vigueur au 01.09.2023
 
 #### Art. 8c
 
 **Procédure [^8b-1]**
 
-<sup>1</sup> La demande de renseignements est adressée au juge.
+<sup>1</sup> La demande de renseignements sur les données personnelles ou de constatation du caractère illicite d'un traitement de données est adressée au juge.
 
 <sup>2</sup> Le requérant doit justifier de son identité par la production d'une pièce de légitimation officielle.
 
-<sup>3</sup> A l'appui de sa demande, le requérant doit rendre vraisemblable que des renseignements personnels à son sujet sont susceptibles de porter atteinte à sa liberté personnelle. A défaut, le juge pourra écarter préjudiciellement la demande.
+<sup>3</sup> Lorsque les demandes d'une personne concernée sont manifestement infondées ou excessives, notamment en raison de leur caractère répétitif, le juge peut :
+
+- a. soit exiger le paiement de frais raisonnables qui tiennent compte des coûts administratifs supportés pour fournir les informations, procéder à la communication ou prendre les mesures demandées;
+- b. soit refuser de donner suite à la demande. Il incombe au juge de démontrer le caractère manifestement infondé ou excessif de la demande.
 
 <sup>4</sup> Si les données personnelles ont été communiquées à la police par des autorités de poursuite ou des organes de police d'autres cantons ou par la Confédération, le juge peut transmettre la requête pour décision à ces autorités ou organes.
 
-<sup>5</sup> Le juge communique par écrit sa décision à la personne qui a demandé des renseignements et à la police. En cas d'acceptation, il lui fait transmettre par écrit les renseignements personnels qui la concernent. En cas de refus, il en indique brièvement les motifs. Sa décision est définitive.
+<sup>5</sup> Le juge communique par écrit sa décision à la personne qui a demandé des renseignements et à la police. En cas de refus, il en indique brièvement les motifs.
 
-[^8b-1]: Modif. 1 du 22.05.1989: Introduction Art. 8c; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Introduction Art. 8a, Al. 1bis; entrée en vigueur au 01.09.2023; Modification Al. 1,3; entrée en vigueur au 01.09.2023; Introduction Al. 3, a-b; entrée en vigueur au 01.09.2023; Modification Al. 5; entrée en vigueur au 01.09.2023; Introduction Al. 6; entrée en vigueur au 01.09.2023; Introduction Art. 8g; entrée en vigueur au 01.09.2023
+<sup>6</sup> La décision du juge peut faire l'objet d'un recours au Tribunal cantonal.
+
+[^8b-1]: Modif. 1 du 22.05.1989: Introduction Art. 8c; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Modification Al. 1,3; entrée en vigueur au 01.09.2023; Introduction Al. 3, a-b; entrée en vigueur au 01.09.2023; Modification Al. 5; entrée en vigueur au 01.09.2023; Introduction Al. 6; entrée en vigueur au 01.09.2023
 
 #### Art. 8d
 
-**Droit de rectification [^8c-1]**
+**Droit de rectification ou de suppression [^8c-1]**
 
-<sup>1</sup> Celui qui apprend qu'une information inexacte le concernant figure dans un dossier de police judiciaire peut en demander la rectification.
+<sup>1</sup> Celui qui apprend qu'une information inexacte le concernant figure dans un dossier de police judiciaire peut en demander la rectification ou la suppression.
 
 <sup>2</sup> L'autorité compétente et la procédure sont celles prévues aux articles 8b et 8c.
 
@@ -153,9 +160,9 @@ décrète
 
 <sup>5</sup> Lorsque ni l'exactitude d'une donnée ni son inexactitude ne peuvent être établies, il en sera fait mention au dossier.
 
-<sup>6</sup> Le juge renseigne le requérant sur les mesures qu'il a ordonnées. Sa décision est définitive.
+<sup>6</sup> Le juge renseigne le requérant sur les mesures qu'il a ordonnées.
 
-[^8c-1]: Modif. 1 du 22.05.1989: Introduction Art. 8d; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Introduction Art. 8a, Al. 1bis; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 3, a-b; entrée en vigueur au 01.09.2023; Introduction Art. 8c, Al. 6; entrée en vigueur au 01.09.2023; Modification tArt; entrée en vigueur au 01.09.2023; Modification Al. 1,6; entrée en vigueur au 01.09.2023; Introduction Art. 8g; entrée en vigueur au 01.09.2023
+[^8c-1]: Modif. 1 du 22.05.1989: Introduction Art. 8d; entrée en vigueur au 25.07.1989 · Modif. 4 du 02.05.2023: Modification tArt; entrée en vigueur au 01.09.2023; Modification Al. 1,6; entrée en vigueur au 01.09.2023
 
 #### Art. 8e
 
@@ -174,6 +181,14 @@ décrète
 <sup>1</sup> Les articles 8b à 8e s'appliquent par analogie à la radiation des données non pertinentes ou inadéquates (art. 2).
 
 [^8e-1]: Modif. 1 du 22.05.1989: Introduction Art. 8f; entrée en vigueur au 25.07.1989
+
+#### Art. 8g
+
+**Droit supplétif [^8f-1]**
+
+<sup>1</sup> La loi sur la protection des données et la loi sur la protection des données personnelles dans le cadre de l'application de l'acquis de Schengen dans le domaine pénal s'appliquent à titre supplétif.
+
+[^8f-1]: Modif. 4 du 02.05.2023: Introduction Art. 8g; entrée en vigueur au 01.09.2023
 
 ## Chapitre III Communication de renseignements
 
