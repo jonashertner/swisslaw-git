@@ -4,7 +4,7 @@ number: "172.65"
 title: LOI du 11.09.2007 sur la protection des données personnelles (LPrD)
 short: LPrD
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.65?id=cf9df545-13f7-4106-a95b-9b3ab8fa8b01"
 ---
 
@@ -61,10 +61,9 @@ décrète
 
 - a. aux délibérations du Grand Conseil et des conseils généraux et communaux ;
 - b. aux procédures civiles, pénales ou administratives ;
-- c. aux données personnelles traitées en application de la loi fédérale sur le renseignement et de l'article 2, alinéa 1 de la loi sur les dossiers de police judiciaire[^3-1].
+- c. aux données personnelles traitées en application de la loi fédérale sur le renseignement.
 
 [^2-1]: Modif. 4 du 05.06.2018: Introduction Al. 2cbis, 3c; entrée en vigueur au 01.10.2018 · Modif. 5 du 24.05.2022: Introduction Al. 2, f-g; entrée en vigueur au 01.01.2023 · Modif. 6 du 02.05.2023: Modification Al. 3, c; entrée en vigueur au 01.09.2023
-[^3-1]: Loi du 01.12.1980 sur les dossiers de police judiciaire ([BLV 133.17](https://prestations.vd.ch/pub/blv-publication/actes/consolide/133.17?id=d0c8d8b2-e486-4e7c-a579-108991ea9394))
 
 #### Art. 4
 
