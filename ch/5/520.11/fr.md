@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/fr"
 
 (OPCi)
 
-du 11 novembre 2020 (État le 1<sup>er</sup> avril 2023)
+du 11 novembre 2020 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -485,10 +485,11 @@ Les contrôles effectués par la protection civile dans le Système d’informat
 
 <sup>2</sup> Les contrôles relèvent des services cantonaux compétents.
 
-<sup>3</sup> Le maître des données contenues dans le SIPA est le commandement de l’Instruction (art. 2*a* et annexe 1 OSIAr). L’OFPP est le responsable des données pour le domaine de la protection civile.
+<sup>3</sup> Le responsable des données contenues dans le SIPA est le commandement de l’Instruction (art. 2*a* et annexe 1 OSIAr). L’OFPP est le responsable des données pour le domaine de la protection civile.[^37-3]
 
 [^37-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^37-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^37-3]: Nouvelle teneur selon l’annexe 2 ch. II 66 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2020 über den Zivilschutz (Zivilschutzveror
 short: ZSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/de"
 
 (Zivilschutzverordnung, ZSV)
 
-vom 11. November 2020 (Stand am 1. April 2023)
+vom 11. November 2020 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -489,10 +489,11 @@ Die Kontrollführung durch den Zivilschutz im Personalinformationssystem der Arm
 
 <sup>2</sup> Die Kontrollführung ist Sache der zuständigen Stellen der Kantone.
 
-<sup>3</sup> Inhaber der im PISA enthaltenen Daten ist das Kommando Ausbildung (Art. 2*a* und Anhang 1 MIV). Das BABS ist Datenherr der im PISA enthaltenen Daten für den Bereich Zivilschutz.
+<sup>3</sup> Das Kommando Ausbildung ist für die im PISA enthaltenen Daten verantwortlich (Art. 2*a* und Anhang 1 MIV). Für den Bereich Zivilschutz ist das BABS für die im PISA enthaltenen Daten verantwortlich.[^37-3]
 
 [^37-1]: Fassung gemäss Anhang Ziff. 8 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^37-2]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^37-3]: Fassung gemäss Anhang 2 Ziff. II 66 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
 

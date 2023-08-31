@@ -4,11 +4,11 @@ title: Ordinanza sulla protezione civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/it"
 
 (OPCi)
 
-dell’11 novembre 2020 (Stato 1° aprile 2023)
+dell’11 novembre 2020 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -491,10 +491,11 @@ La tenuta dei controlli da parte della protezione civile nel Sistema di gestione
 
 <sup>2</sup> La tenuta dei controlli è di competenza degli organi cantonali responsabili della protezione civile.
 
-<sup>3</sup> Detentore dei dati contenuti nel PISA è il Comando Istruzione (art. 2*a* e allegato 1 OSIM). L’UFPP ha il dominio sui dati contenuti nel PISA per il settore protezione civile.
+<sup>3</sup> Titolare dei dati contenuti nel PISA è il comando Istruzione (art. 2*a* e allegato 1 OSIM). L’UFPP è titolare dei dati contenuti nel PISA per il settore protezione civile.[^37-3]
 
 [^37-1]: Nuovo testo giusta l’all. n. 8 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^37-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^37-3]: Nuovo testo giusta l’all. 2 n. II 66 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
 
