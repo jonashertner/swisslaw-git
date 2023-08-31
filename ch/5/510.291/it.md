@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2009 sul Servizio informazioni dell'esercito (O
 short: O-SIEs
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/851"
 language: it
-version: 2020-07-01
+version: 2023-09-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/851/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2009-851-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/851/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-851-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20200701/it"
 
 (O-SIEs)
 
-del 4 dicembre 2009 (Stato 1° luglio 2020)
+del 4 dicembre 2009 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -130,38 +130,45 @@ La ricerca e l’acquisizione di informazioni rilevanti per l’esercito avviene
 
 #### Art. 8
 
-**Trattamento di dati personali degni di particolare protezione e di profili della personalità**
+**Trattamento di dati personali[^8-1]**
 
-Il SIEs può trattare i dati personali necessari in vista di un impiego dell’esercito, compresi i dati personali degni di particolare protezione e i profili della personalità:
+Il SIEs può trattare i dati personali necessari in vista di un impiego dell’esercito, compresi i dati personali che permettono di valutare il grado di pericolosità di una persona, indipendentemente dal fatto che si tratti di dati personali degni di particolare protezione o no:[^8-2]
 
 - a. per proteggere i militari, i propri collaboratori, la propria infrastruttura e le proprie fonti da attività che minacciano la sicurezza o dalle attività dei servizi segreti;
 - b. per verificare gli accessi alle informazioni necessari per lo svolgimento dei compiti;
 - c. in occasione di avvenimenti all’estero rilevanti per la Svizzera dal punto di vista della politica di sicurezza.
 
+[^8-1]: Nuovo testo giusta l’all. 2 n. II 59 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: Nuovo testo giusta l’all. 2 n. II 59 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 9
 
-**Deroga alla pubblicazione delle collezioni di dati**
+**Deroga all’obbligo di notificare le attività di trattamento all’IFPDT**[^9-1]
 
-<sup>1</sup> Le collezioni di dati allestite nel quadro della ricerca di informazioni giusta l’articolo 99 capoverso 2 LM non sono elencate nel registro delle collezioni di dati ai sensi dell’articolo 11*a* della legge federale del 19 giugno 1992[^9-1] sulla protezione dei dati qualora ciò dovesse pregiudicare la ricerca di informazioni.
+<sup>1</sup> Le attività di trattamento di dati eseguite nel quadro della ricerca di informazioni giusta l’articolo 99 capoverso 2 LM non devono essere notificate all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT), qualora ciò dovesse pregiudicare la ricerca di informazioni.
 
-<sup>2</sup> Il SIEs informa in maniera generale l’Incaricato federale della protezione dei dati e della trasparenza su tali collezioni di dati.
+<sup>2</sup> Il SIEs informa in maniera generale l’IFPDT su tali attività di trattamento dati.
 
-[^9-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-1]: Nuovo testo giusta l’all. 2 n. II 59 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
 **Comunicazione di dati personali**
 
-1 Il SIEs può comunicare i dati personali da esso raccolti secondo l’articolo 99 capoverso 2 LM a servizi civili della Confederazione e dei Cantoni nonché, se del caso, ad autorità e organi di comando multinazionali, sempre che:
+<sup>1</sup>
+
+Il SIEs può comunicare i dati personali da esso raccolti secondo l’articolo 99 capoverso 2 LM a servizi civili della Confederazione e dei Cantoni nonché, se del caso, ad autorità e organi di comando multinazionali, sempre che:
 
 - a. sia necessario per l’adempimento dei suoi compiti legali; oppure
 - b. il trattamento dei corrispondenti dati personali rientri nella sfera di competenza legale dell’organo ricevente.
 
-<sup>2</sup> Con i dati personali non è consentito allestire collezioni di dati indipendenti.
+<sup>2</sup> Con i dati personali non è consentito allestire banche dati indipendenti.[^10-1]
 
 <sup>3</sup> I dati personali devono essere distrutti dopo la fine dell’impiego in servizio d’appoggio.
 
-## Sezione 5*a*:**** Sistema informatico Servizio informazioni militare
+[^10-1]: Nuovo testo giusta l’all. 2 n. II 59 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## Sezione 5*a*: Sistema informatico Servizio informazioni militare
 
 [^sec5a-1]
 
@@ -212,7 +219,7 @@ Il SIEs raccoglie i dati per il Sist infm SIM:
 
 I dati del Sist infm SIM sono conservati sino alla loro revoca, ma al massimo per una durata di 45 anni a decorrere dalla loro acquisizione.
 
-## Sezione 5*b*:**** Imagery analyst system
+## Sezione 5*b*: Imagery analyst system
 
 [^sec5b-1]
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2009 concernant le Service de renseignement de
 short: OSRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/851"
 language: fr
-version: 2020-07-01
+version: 2023-09-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/851/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-851-20200701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/851/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-851-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20200701/fr"
 
 (OSRA)
 
-du 4 décembre 2009 (Etat le 1<sup>er</sup> juillet 2020)
+du 4 décembre 2009 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -95,7 +95,7 @@ Le SRA peut mettre ses produits à la disposition des services fédéraux et can
 <sup>6</sup> En cas de service actif, le Conseil fédéral règle les compétences du SRA.
 
 [^5-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^5-2]: Nouvelle teneur selon le ch. II 10 de l’annexe 4 à l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^5-2]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 [^5-3]: Abrogé par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4619](https://fedlex.data.admin.ch/eli/oc/2018/727)).
 
 #### Art. 6
@@ -130,23 +130,26 @@ L’acquisition et l’obtention d’informations importantes pour l’armée s'
 
 #### Art. 8
 
-**Traitement des données sensibles et des profils de la personnalité**
+**Traitements de données personnelles[^8-1]**
 
-Le SRA peut traiter les données personnelles nécessaires pour un engagement de l’armée, y compris les données sensibles et les profils de la personnalité pour:
+Le SRA peut traiter les données personnelles nécessaires pour un engagement de l’armée, y compris les données personnelles qui permettent d’évaluer la menace qu’une personne représente, que ces données soient sensibles ou non, pour:[^8-2]
 
 - a. protéger les militaires, les collaborateurs, les infrastructures et les sources de l’armée contre des activités constituant une menace pour la sécurité ou contre des activités de services secrets;
 - b. vérifier les accès aux renseignements nécessaires pour l’accomplissement de tâches;
 - c. reconnaître, parmi les événements survenus à l’étranger, ceux qui sont importants pour la politique de sécurité de la Suisse.
 
+[^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 59 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: Nouvelle teneur selon l’annexe 2 ch. II 59 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 9
 
-**Exception à la publication des fichiers**
+**Exception à l’obligation de déclarer les activités de traitement au PFPDT**[^9-1]
 
-<sup>1</sup> Les fichiers constitués dans le cadre d’une acquisition de renseignements conformément à l’art. 99, al. 2, LAAM, ne sont pas inscrits dans le registre des fichiers visé à l’art. 11*a* de la loi fédérale du 19 juin 1992 sur la protection des données[^9-1], si l’acquisition de renseignements est mise en péril de ce fait.
+<sup>1</sup> Les activités de traitement effectuées dans le cadre d’une acquisition de renseignements conformément à l’art. 99, al. 2, LAAM ne doivent pas être déclarées au Préposé fédéral à la protection des données et à la transparence (PFPDT) si l’acquisition de renseignements est mise en péril de ce fait.
 
-<sup>2</sup> Le SRA donne au Préposé fédéral à la protection des données et à la transparence des informations générales à propos de ces fichiers.
+<sup>2</sup> Le SRA donne au PFPDT des informations générales à propos de ces activités de traitement des données.
 
-[^9-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-1]: Nouvelle teneur selon l’annexe 2 ch. II 59 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -159,11 +162,13 @@ Le SRA peut communiquer des données personnelles, acquises conformément à l�
 - a. la communication en est requise pour l’exécution d’un mandat légal, ou si
 - b. le traitement de ces données personnelles relève de la sphère de compétence légale du service destinataire.
 
-<sup>2</sup> Aucun fichier indépendant ne sera constitué avec les données personnelles.
+<sup>2</sup> Aucune banque de données indépendante ne sera constituée avec les données personnelles.[^10-1]
 
 <sup>3</sup> Les données personnelles devront être détruites à la fin de l’engagement en service d’appui.
 
-## Section 5*a***** Système informatique du Renseignement militaire
+[^10-1]: Nouvelle teneur selon l’annexe 2 ch. II 59 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## Section 5*a* Système informatique du Renseignement militaire
 
 [^sec5a-1]
 
@@ -214,7 +219,7 @@ Le SRA collecte les données destinées à l’Infm RM:
 
 Les données de l’Infm RM sont conservées jusqu’à leur retrait, mais 45 ans au plus après leur collecte.
 
-## Section 5*b***** Imagery-Analyst-System
+## Section 5*b* Imagery-Analyst-System
 
 [^sec5b-1]
 
@@ -320,13 +325,13 @@ Lors de la pesée des intérêts effectuée au cas par cas conformément à l’
 
 <sup>2</sup> L’autorité de surveillance indépendante des activités de renseignement assure le contrôle du SRA en vertu de l’art. 99, al. 5, LAAM.[^12-1]
 
-[^12-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 16 août 2017 sur la surveillance des activités de renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 16 août 2017 sur la surveillance des activités de renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 
 #### Art. 13 à 15
 
 [^1315-1]
 
-[^1315-1]: Abrogés par le ch. 4 de l’annexe à l’O du 16 août 2017 sur la surveillance des activités de renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+[^1315-1]: Abrogés par l’annexe ch. 4 de l’O du 16 août 2017 sur la surveillance des activités de renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 
 ## Section 8 Archivage
 
@@ -338,7 +343,7 @@ Lors de la pesée des intérêts effectuée au cas par cas conformément à l’
 
 <sup>3</sup> Il détruit les données que les Archives fédérales jugent sans valeur archivistique. Les autres dispositions légales en matière de destruction de données sont réservées.
 
-[^16-1]: Abrogé par le ch. 4 de l’annexe à l’O du 16 août 2017 sur la surveillance des activités de renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+[^16-1]: Abrogé par l’annexe ch. 4 de l’O du 16 août 2017 sur la surveillance des activités de renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 
 ## Section 9 Dispositions finales
 

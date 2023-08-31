@@ -4,11 +4,11 @@ title: Verordnung vom 4. Dezember 2009 über den Nachrichtendienst der Armee (V-
 short: V-NDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/851"
 language: de
-version: 2020-07-01
+version: 2023-09-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/851/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2009-851-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/851/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-851-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/851/20200701/de"
 
 (V-NDA)
 
-vom 4. Dezember 2009 (Stand am 1. Juli 2020)
+vom 4. Dezember 2009 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -84,7 +84,7 @@ Der NDA kann seine Produkte interessierten Stellen von Bund und Kantonen zur Ver
 
 <sup>1</sup> Der NDA arbeitet insbesondere in den gemeinsamen thematischen Bereichen nach dem Nachrichtendienstgesetz vom 25. September 2015[^5-1] und nach Artikel 99 Absatz 1 MG eng mit dem Nachrichtendienst des Bundes (NDB) zusammen.[^5-2] NDA und NDB pflegen einen regelmässigen Informationsaustausch und unterstützen sich gegenseitig bei der Erfüllung ihrer Aufgaben.
 
-<sup>2</sup> ...[^5-3]
+<sup>2</sup> …[^5-3]
 
 <sup>3</sup> Die Beschaffung, Auswertung und Verbreitung von für die Armee bedeutsamen Informationen liegt im Verantwortungsbereich des NDA.
 
@@ -130,23 +130,26 @@ Die Beschaffung und Gewinnung von armeerelevanten Informationen erfolgt:
 
 #### Art. 8
 
-**Bearbeitung von besonders schützenswerten Personendaten und Persönlichkeitsprofilen**
+**Bearbeitung von Personendaten[^8-1]**
 
-Der NDA kann die für einen Armeeeinsatz notwendigen Personendaten mit Einschluss von besonders schützenswerten Personendaten und Persönlichkeitsprofilen bearbeiten:
+Der NDA kann die für einen Armeeeinsatz notwendigen Personendaten bearbeiten, einschliesslich Personendaten, welche die Beurteilung des Gefährlichkeitsgrades einer Person erlauben, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht:[^8-2]
 
 - a. zum Schutz von Angehörigen der Armee, ihrer Mitarbeiterinnen und Mitarbeiter sowie ihrer Infrastruktur und Quellen vor sicherheitsgefährdenden oder geheimdienstlichen Tätigkeiten;
 - b. für die Überprüfung der für die Aufgabenerfüllung notwendigen Nachrichtenzugänge;
 - c. bei Vorgängen im Ausland, die von sicherheitspolitischer Bedeutung für die Schweiz sind.
 
+[^8-1]: Fassung gemäss Anhang 2 Ziff. II 59 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: Fassung gemäss Anhang 2 Ziff. II 59 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 9
 
-**Ausnahme von der Publizierung der Datensammlungen**
+**Ausnahme von der Pflicht zur Meldung der Bearbeitungstätigkeiten an den EDÖB**[^9-1]
 
-<sup>1</sup> Datensammlungen, die im Rahmen der Informationsbeschaffung nach Artikel 99 Absatz 2 MG angelegt wurden, werden nicht im Register der Datensammlungen nach Artikel 11*a* des Bundesgesetzes vom 19. Juni 1992[^9-1] über den Datenschutz aufgeführt, wenn dies die Informationsbeschaffung gefährden würde.
+<sup>1</sup> Datenbearbeitungstätigkeiten, die im Rahmen der Informationsbeschaffung nach Artikel 99 Absatz 2 MG durchgeführt werden, müssen dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) nicht gemeldet werden, wenn dies die Informationsbeschaffung gefährden würde.
 
-<sup>2</sup> Der NDA informiert den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten in einer allgemeinen Form über diese Datensammlungen.
+<sup>2</sup> Der NDA informiert den EDÖB in einer allgemeinen Form über diese Datenbearbeitungstätigkeiten.
 
-[^9-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 59 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -159,11 +162,13 @@ Der NDA darf Personendaten, die er nach Artikel 99 Absatz 2 MG beschafft hat, an
 - a. dies zur Erfüllung seiner gesetzlichen Aufgaben notwendig ist; oder
 - b. die Bearbeitung der entsprechenden Personendaten in den gesetzlichen Zuständigkeitsbereich der empfangenden Stelle fällt.
 
-<sup>2</sup> Mit den Personendaten dürfen keine selbstständigen Datensammlungen erstellt werden.
+<sup>2</sup> Mit den Personendaten dürfen keine selbstständigen Datenbanken erstellt werden.[^10-1]
 
 <sup>3</sup> Personendaten sind nach Ende des Assistenzdiensteinsatzes zu vernichten.
 
-## 5*a*. Abschnitt:**** Informatiksystem Militärischer Nachrichtendienst
+[^10-1]: Fassung gemäss Anhang 2 Ziff. II 59 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## 5*a*. Abschnitt: Informatiksystem Militärischer Nachrichtendienst
 
 [^sec5a-1]
 
@@ -214,7 +219,7 @@ Der NDA beschafft die Daten für das Ik MND:
 
 Die Daten des Ik MND werden bis auf Widerruf, längstens aber während 45 Jahren nach ihrer Beschaffung aufbewahrt.
 
-## 5b. Abschnitt:**** Imagery-Analyst-System
+## 5b. Abschnitt: Imagery-Analyst-System
 
 [^sec5b-1]
 
@@ -334,7 +339,7 @@ Bei der Einzelfallabwägung nach Absatz 1 sind folgende Grundsätze zu berücksi
 
 <sup>1</sup> Der NDA bietet nicht mehr benötigte oder zur Vernichtung bestimmte Daten dem Bundesarchiv zur Archivierung an.
 
-<sup>2</sup> ...[^16-1]
+<sup>2</sup> …[^16-1]
 
 <sup>3</sup> Er vernichtet die vom Bundesarchiv als nicht archivwürdig bezeichneten Daten. Vorbehalten bleiben weitere gesetzliche Bestimmungen über die Datenvernichtung.
 
