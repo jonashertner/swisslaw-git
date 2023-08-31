@@ -4,11 +4,11 @@ title: Loi fédérale du 3 octobre 2008 sur les systèmes d’information de l�
 short: LSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230401-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230401/fr"
 
 (LSIA)[^t-2][^t-1]
 
-du 3 octobre 2008 (État le 1<sup>er</sup> avril 2023)
+du 3 octobre 2008 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -49,15 +49,15 @@ La présente loi règle le traitement de données personnelles concernant des pe
 
 <sup>2</sup> Elle ne s’applique pas au traitement des données par les services de renseignement.[^1-5]
 
-<sup>3</sup> Dans la mesure où la présente loi ne contient pas de dispositions spécifiques, la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^1-6] est applicable.[^1-7]
+<sup>3</sup> Dans la mesure où la présente loi ne contient pas de dispositions spécifiques, la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^1-6] est applicable.[^1-7]
 
-[^1-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-5]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-6]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^1-7]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-7]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 2
 
@@ -103,6 +103,24 @@ Les organes responsables en vertu de la présente loi peuvent traiter, à des fi
 <sup>4</sup> Les données enregistrées lors de la reconnaissance biométrique sont détruites un an après leur enregistrement.
 
 [^2a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+
+#### Art. 2b
+
+**Profilage**[^2b-1]
+
+Les organes responsables désignés par la présente loi peuvent effectuer un profilage, y compris un profilage à risque élevé, pour analyser, évaluer, apprécier ou prédire les aspects personnels ci-après relatifs à une personne physique aux fins désignées ci-après:
+
+- a. aptitude et capacité à accomplir du service militaire et du service de protection civile, y compris les conditions déterminantes correspondantes: traitement des données comme indiqué à l’art. 13, let. b à d;
+- b. aptitude à exercer des fonctions, à effectuer des activités et à réaliser des travaux, y compris les conditions déterminantes correspondantes: traitement des données comme indiqué aux art. 13, let. b à d, et 143*b*, let. d et e;
+- c. profil de prestations et performances, notamment dans les domaines de la santé, de l’aptitude physique, de l’intelligence, de la personnalité, du psychisme, du comportement social et de l’attitude au volant: traitement des données comme indiqué aux art 13, let. b à d, et 143*b*, let. d et e;
+- d. connaissances, compétences, capacités et prestations fournies: traitement des données comme indiqué aux art. 13, let. b à d, 127, let. d et e, 143*b*, let. d. et e, et 143*h*;
+- e. comportement d’apprentissage et progression: traitement des données comme indiqué à l’art. 127, let. a à c;
+- f. potentiel de cadre et possibilités de développement: traitement des données comme indiqué à l’art. 13, let. b à d et m;
+- g. intérêt personnel porté au service militaire et au service de protection civile, à l’embauche, à la formation (instruction) et au perfectionnement: traitement des données comme indiqué aux art. 13, let. b à d et m, 127, let. b, et 143*b*, let. a, d et e;
+- h. risque pour la sécurité, ainsi que potentiel d’abus et de dangerosité en ce qui concerne l’arme personnelle: traitement des données comme indiqué aux art. 13, let. l, et 145;
+- i. aspects personnels supplémentaires permettant de parvenir à d’autres fins de traitement des données, si la personne concernée y consent.
+
+[^2b-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 3
 
@@ -180,13 +198,15 @@ Il est interdit de traiter les données sur:
 
 - a. les opinions ou les activités religieuses, à l’exception de la confession;
 - b. les opinions ou les activités philosophiques, politiques ou syndicales;
-- c. l’appartenance à une race.
+- c.[^10-1] l’origine raciale ou ethnique.
+
+[^10-1]: Nouvelle teneur selon l’annexe 1 ch. II 42 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
 [^11-1]
 
-[^11-1]: Abrogé par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^11-1]: Abrogé par l’annexe ch. 1 de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ## Chapitre 2 Systèmes d’information sur le personnel
 

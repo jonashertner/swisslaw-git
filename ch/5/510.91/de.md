@@ -4,11 +4,11 @@ title: Bundesgesetz vom 3. Oktober 2008 über militärische und andere Informati
 short: MIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230401-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230401/de"
 
 (MIG)[^t-1]
 
-vom 3. Oktober 2008 (Stand am 1. April 2023)
+vom 3. Oktober 2008 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -48,15 +48,15 @@ Dieses Gesetz regelt die Bearbeitung von Personendaten natürlicher und juristis
 
 <sup>2</sup> Es gilt nicht für die Datenbearbeitung durch die Nachrichtendienste.[^1-5]
 
-<sup>3</sup> Soweit dieses Gesetz keine besonderen Bestimmungen enthält, ist das Bundesgesetz vom 19. Juni 1992[^1-6] über den Datenschutz (DSG) anwendbar.[^1-7]
+<sup>3</sup> Soweit dieses Gesetz keine besonderen Bestimmungen enthält, ist das Datenschutzgesetz vom 25. September 2020[^1-6] (DSG) anwendbar.[^1-7]
 
-[^1-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2022, in Kraft seit 1. Sept. 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-5]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^1-7]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-7]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2022, in Kraft seit 1. Sept. 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 2
 
@@ -102,6 +102,24 @@ Die verantwortlichen Organe nach diesem Gesetz können zur Kontrolle des Zugangs
 <sup>4</sup> Die aufgrund der biometrischen Erkennung erfassten Daten werden ein Jahr nach der Erfassung vernichtet.
 
 [^2a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+
+#### Art. 2b
+
+**Profiling**[^2b-1]
+
+Die verantwortlichen Organe nach diesem Gesetz dürfen ein Profiling, einschliesslich eines Profilings mit hohem Risiko, durchführen, um die nachfolgenden persönlichen Aspekte einer natürlichen Person zu den nachstehenden Bearbeitungszwecken zu analysieren, zu bewerten, zu beurteilen oder vorherzusagen:
+
+- a. Tauglichkeit und Fähigkeit für die Leistung von Militär- und Schutzdienst, einschliesslich tauglichkeits- und fähigkeitsrelevanter Voraussetzungen: zu den Bearbeitungszwecken nach Artikel 13 Buchstaben b–d;
+- b. Eignung zur Ausübung bestimmter Funktionen, Tätigkeiten und Arbeiten, einschliesslich eignungsrelevanter Voraussetzungen: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstaben b–d und 143*b* Buchstaben d und e;
+- c. Leistungsprofil und Leistungsfähigkeit, insbesondere in den Bereichen Gesundheit, Körper, Intelligenz, Persönlichkeit, Psyche, Sozialverhalten und Verkehrsverhalten: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstaben b–d und 143*b* Buchstaben d und e;
+- d. Kenntnisse, Kompetenzen, Fähigkeiten und erbrachte Leistungen: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstaben b–d, 127 Buchstaben d und e, 143*b* Buchstaben d und e und 143*h*;
+- e. Lernverhalten und -fortschritt: zu den Bearbeitungszwecken nach Artikel 127 Buchstaben a–c;
+- f. Kaderpotenzial und Entwicklungsmöglichkeiten: zu den Bearbeitungszwecken nach Artikel 13 Buchstaben b–d und m;
+- g. persönliche Interessen hinsichtlich des Militär- und Schutzdienstes, der Anstellung, der Ausbildung sowie der Weiterentwicklung: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstaben b–d und m, 127 Buchstabe b und 143*b* Buchstaben a, d und e;
+- h. Sicherheitsrisiko sowie Gefährdungs- und Missbrauchspotenzial bezüglich der persönlichen Waffe: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstabe l und 145;
+- i. weitere persönliche Aspekte zu weiteren Bearbeitungszwecken, sofern die betreffende Person dazu einwilligt.
+
+[^2b-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Sept. 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 3
 
@@ -178,13 +196,15 @@ Nicht bearbeitet werden dürfen Daten über:
 
 - a. die religiösen Ansichten oder Tätigkeiten, ausgenommen die Religionszugehörigkeit;
 - b. die weltanschaulichen, politischen und gewerkschaftlichen Ansichten oder Tätigkeiten;
-- c. die Rassenzugehörigkeit.
+- c.[^10-1] die Zugehörigkeit zu einer Rasse oder Ethnie.
+
+[^10-1]: Fassung gemäss Anhang 1 Ziff. II 42 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
 [^11-1]
 
-[^11-1]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^11-1]: Aufgehoben durch Anhang Ziff. 1 des BG vom 17. Juni 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ## 2. Kapitel: Personalinformationssysteme
 

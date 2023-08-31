@@ -4,11 +4,11 @@ title: Legge federale del 3 ottobre 2008 sui sistemi d’informazione militari e
 short: LSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230401-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230901-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230401/it"
 
 (LSIM)[^t-1]
 
-del 3 ottobre 2008 (Stato 1° aprile 2023)
+del 3 ottobre 2008 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -39,7 +39,7 @@ decreta:
 
 <sup>1</sup>
 
-La presente legge disciplina il trattamento di dati personali di persone fisiche e giuridiche (dati), compresi dati personali degni di particolare protezione, nei sistemi d’informazione e nell’ambito dell’impiego di mezzi di sorveglianza dell’esercito e del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) da parte di:[^1-1]
+La presente legge disciplina il trattamento di dati personali di persone fisiche e giuridiche (dati), compresi i dati personali degni di particolare protezione, nei sistemi d’informazione e nell’ambito dell’impiego di mezzi di sorveglianza dell’esercito e del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) da parte di:[^1-1]
 
 - a. autorità della Confederazione e dei Cantoni;
 - b.[^1-2] comandanti e organi di comando dell’esercito (comandi militari) nonché comandanti della protezione civile;
@@ -48,15 +48,15 @@ La presente legge disciplina il trattamento di dati personali di persone fisiche
 
 <sup>2</sup> La presente legge non si applica al trattamento dei dati da parte dei servizi informazioni.[^1-5]
 
-<sup>3</sup> Per quanto la presente legge non contenga norme speciali, è applicabile la legge federale del 19 giugno 1992[^1-6] sulla protezione dei dati (LPD).[^1-7]
+<sup>3</sup> Per quanto la presente legge non contenga norme speciali, è applicabile la legge federale del 25 settembre 2020[^1-6] sulla protezione dei dati (LPD).[^1-7]
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-1]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-5]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-6]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^1-7]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-7]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 2
 
@@ -102,6 +102,24 @@ Gli organi responsabili secondo la presente legge possono trattare, a fini di co
 <sup>4</sup> I dati rilevati in occasione dell’identificazione biometrica sono distrutti un anno dopo il rilevamento.
 
 [^2a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+
+#### Art. 2b
+
+**Profilazione**[^2b-1]
+
+Gli organi responsabili secondo la presente legge possono eseguire una profilazione, compresa una profilazione a rischio elevato, per analizzare, valutare, qualificare o prevedere i seguenti aspetti personali di una persona fisica concernenti gli scopi del trattamento elencati di seguito:
+
+- a. idoneità e capacità a prestare servizio militare e servizio di protezione civile, compresi i presupposti rilevanti per l’idoneità e la capacità, per gli scopi del trattamento secondo l’articolo 13 lettere b–d;
+- b. idoneità a esercitare determinate funzioni, attività e lavori, compresi i presupposti rilevanti per l’idoneità, per gli scopi del trattamento secondo gli articoli 13 lettere b–d e 143*b* lettere d ed e;
+- c. profilo attitudinale e capacità attitudinale, in particolare negli ambiti salute, fisico, intelligenza, personalità, psiche, comportamento sociale e comportamento nel traffico, per gli scopi del trattamento secondo gli articoli 13 lettere b–d e 143*b* lettere d ed e;
+- d. conoscenze, competenze, capacità e prestazioni fornite, per gli scopi di trattamento secondo gli articoli 13 lettere b–d, 127 lettere d ed e, 143*b* lettere d ed e nonché 143*h*;
+- e. comportamento e progressi nell’apprendimento, per gli scopi del trattamento secondo l’articolo 127 lettere a–c;
+- f. potenziale per funzioni di quadro e possibilità di sviluppo, per gli scopi del trattamento secondo l’articolo 13 lettere b–d e m;
+- g. interessi personali concernenti il servizio militare e il servizio di protezione civile, l’impiego, la formazione o l’istruzione e l’ulteriore sviluppo, per gli scopi del trattamento secondo gli articoli 13 lettere b–d e m, 127 lettera b e 143*b* lettere a, d ed e;
+- h. rischio per la sicurezza nonché potenziale di pericolo o di abuso per quanto riguarda l’arma personale, per gli scopi del trattamento secondo gli articoli 13 lettera l e 145;
+- i. altri aspetti personali per ulteriori scopi del trattamento, nella misura in cui la persona interessata lo autorizzi.
+
+[^2b-1]: Introdotto dall’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 3
 
@@ -178,13 +196,15 @@ Non possono essere trattati dati concernenti:
 
 - a. le opinioni o attività religiose, ad eccezione dell’appartenenza religiosa;
 - b. le opinioni o attività filosofiche, politiche e sindacali;
-- c. l’appartenenza a una razza.
+- c.[^10-1] l’appartenenza a una razza o a un’etnia.
+
+[^10-1]: Nuovo testo giusta l’all. 1 n. II 42 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
 [^11-1]
 
-[^11-1]: Abrogato dal n. I della LF del 17 giu. 2022, con effetto dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^11-1]: Abrogato dall’all. n. 1 della del LF 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ## Capitolo 2: Sistemi d’informazione per la gestione del personale
 
