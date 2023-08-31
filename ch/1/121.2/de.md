@@ -4,11 +4,11 @@ title: Verordnung vom 16. August 2017 über die Informations- und Speichersystem
 short: VIS-NDB
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: de
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2017-496-20210401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-496-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/de"
 
 (VIS-NDB)
 
-vom 16. August 2017 (Stand am 1. April 2021)
+vom 16. August 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -221,18 +221,19 @@ Der NDB regelt die Verantwortung und die Zuständigkeiten für seine Information
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. Artikel 20 der Verordnung vom 14. Juni 1993[^13-1] zum Bundesgesetz über den Datenschutz;
-- b.[^13-2] die Cyberrisikenverordnung vom 27. Mai 2020[^13-3];
-- c. die Informationsschutzverordnung vom 4. Juli 2007[^13-4];
-- d.[^13-5] …
+- a.[^13-1] die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^13-2];
+- b.[^13-3] die Cyberrisikenverordnung vom 27. Mai 2020[^13-4];
+- c. die Informationsschutzverordnung vom 4. Juli 2007[^13-5];
+- d.[^13-6] …
 
 <sup>2</sup> Der NDB regelt in den Bearbeitungsreglementen die organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten der Daten.
 
-[^13-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: Fassung gemäss Anhang Ziff. 2 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^13-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^13-4]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^13-5]: Aufgehoben durch Anhang Ziff. 2 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-3]: Fassung gemäss Anhang Ziff. 2 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^13-5]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-6]: Aufgehoben durch Anhang Ziff. 2 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 
@@ -273,9 +274,11 @@ IASA NDB besteht aus:
 
 <sup>2</sup> Die Objekte und Quellendokumente sowie deren Relationen untereinander können bildlich dargestellt und die Darstellungen gespeichert werden.
 
-<sup>3</sup> IASA NDB kann besonders schützenswerte Personendaten und Persönlichkeitsprofile enthalten.
+<sup>3</sup> IASA NDB kann Personendaten, einschliesslich Personendaten, welche die Beurteilung des Gefährlichkeitsgrades einer Person erlauben, enthalten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht.[^17-1]
 
 <sup>4</sup> Der Katalog der Personendaten ist in Anhang 1 aufgeführt.
+
+[^17-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 18
 
@@ -366,9 +369,11 @@ IASA-GEX NDB enthält Daten:
 
 <sup>2</sup> Die Objekte und Quellendokumente sowie deren Relationen untereinander können bildlich dargestellt und die Darstellungen gespeichert werden.
 
-<sup>3</sup> IASA-GEX NDB kann besonders schützenswerte Personendaten und Persönlichkeitsprofile enthalten.
+<sup>3</sup> IASA-GEX NDB kann Personendaten, einschliesslich Personendaten, welche die Beurteilung des Gefährlichkeitsgrades einer Person erlauben, enthalten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht.[^23-1]
 
 <sup>4</sup> Der Katalog der Personendaten ist in Anhang 1 aufgeführt.
+
+[^23-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 24
 
@@ -470,11 +475,11 @@ Der INDEX NDB besteht aus:
 
 <sup>2</sup> Ist es aus Gründen des Quellenschutzes nach Artikel 35 NDG erforderlich, so werden die in IASA NDB oder IASA-GEX NDB bearbeiteten Daten von natürlichen und juristischen Personen ausnahmsweise nicht im IASA INDEX angezeigt.
 
-<sup>3</sup> Der INDEX NDB kann besonders schützenswerte Personendaten und Persönlichkeitsprofile enthalten.
-
-<sup>4</sup> In IASA-GEX NDB bearbeitete Daten zu Drittpersonen werden im IASA INDEX nicht angezeigt.
+<sup>3</sup> Der INDEX NDB kann Personendaten, einschliesslich Personendaten, welche die Beurteilung des Gefährlichkeitsgrades einer Person erlauben, enthalten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht.[^30-1]
 
 <sup>5</sup> Der Katalog der Personendaten ist in Anhang 1 aufgeführt.
+
+[^30-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
@@ -832,9 +837,11 @@ Die Aufbewahrungsdauer für die Daten im Restdatenspeicher beträgt höchstens f
 
 <sup>1</sup> Die Speichersysteme enthalten Daten über natürliche und juristische Personen, Gegenstände und Ereignisse.
 
-<sup>2</sup> Sie können besonders schützenswerte Personendaten und Persönlichkeitsprofile enthalten.
+<sup>2</sup> Sie können Personendaten, einschliesslich Personendaten, welche die Beurteilung des Gefährlichkeitsgrades einer Person erlauben, enthalten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht.[^67-1]
 
 <sup>3</sup> Der Katalog der Personendaten ist in Anhang 1 aufgeführt.
+
+[^67-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 68
 

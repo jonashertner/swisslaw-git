@@ -4,11 +4,11 @@ title: "Ordonnance du 16 août 2017 sur les systèmes d'information et les syst�
 short: OSIS-SRC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: fr
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-496-20210401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-496-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/fr"
 
 (OSIS-SRC)
 
-du 16 août 2017 (État le 1<sup>er</sup> avril 2021)
+du 16 août 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -221,18 +221,19 @@ Le SRC règle la responsabilité et les compétences en lien avec ses systèmes 
 
 Pour assurer la sécurité des données s’appliquent:
 
-- a. l’art. 20 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^13-1];
-- b.[^13-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^13-3];
-- c. l’ordonnance du 4 juillet 2007 concernant la protection des informations[^13-4];
-- d.[^13-5] ...
+- a.[^13-1] les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^13-2];
+- b.[^13-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^13-4];
+- c. l’ordonnance du 4 juillet 2007 concernant la protection des informations[^13-5];
+- d.[^13-6] ...
 
 <sup>2</sup> Le SRC règle dans les règlements de traitement les mesures techniques et organisationnelles propres à empêcher le traitement de données par des personnes non autorisées.
 
-[^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^13-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^13-4]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^13-5]: Abrogée par l’annexe ch. 2 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^13-5]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-6]: Abrogée par l’annexe ch. 2 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 
@@ -273,9 +274,11 @@ IASA SRC comprend:
 
 <sup>2</sup> Les objets et les documents sources ainsi que les relations qu’ils ont entre eux peuvent être représentés visuellement, et ces représentations peuvent être enregistrées.
 
-<sup>3</sup> IASA SRC peut contenir des données sensibles et des profils de la personnalité.
+<sup>3</sup> IASA SRC peut contenir des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente.[^17-1]
 
 <sup>4</sup> Le catalogue des données personnelles figure à l’annexe 1.
+
+[^17-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 18
 
@@ -366,9 +369,11 @@ IASA-EXTR SRC contient des données relatives:
 
 <sup>2</sup> Les objets et les documents sources ainsi que les relations qu’ils ont entre eux peuvent être représentés visuellement, et ces représentations peuvent être enregistrées.
 
-<sup>3</sup> IASA-EXTR SRC peut contenir des données sensibles et des profils de la personnalité.
+<sup>3</sup> IASA-EXTR SRC peut contenir des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente.[^23-1]
 
 <sup>4</sup> Le catalogue des données personnelles figure à l’annexe 1.
+
+[^23-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 24
 
@@ -470,11 +475,13 @@ INDEX SRC comprend:
 
 <sup>2</sup> Si des motifs en lien avec la protection des sources prévue à l’art. 35 LRens l’exigent, les données traitées dans les systèmes IASA SRC ou IASA-EXTR SRC concernant des personnes physiques et morales ne sont excep-tionnellement pas transférées dans le système IASA INDEX.
 
-<sup>3</sup> L’INDEX SRC peut contenir des données sensibles et des profils de la personnalité.
+<sup>3</sup> L’INDEX SRC peut contenir des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente.[^30-1]
 
 <sup>4</sup> Les données concernant des tiers traitées dans IASA-EXTR SRC ne s’affichent pas dans IASA INDEX.
 
 <sup>5</sup> Le catalogue des données personnelles figure à l’annexe 1.
+
+[^30-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
@@ -554,13 +561,15 @@ GEVER SRC comprend:
 
 **Contrôle de qualité**
 
-<sup>1</sup> Les collaborateurs du SRC en charge des dossiers versés dans GEVER vérifient chaque année, tenant compte de la situation actuelle, si les fichiers de données des dossiers sont encore nécessaires au traitement et au contrôle des affaires ainsi qu’à l’efficacité des processus de travail du SRC.
+<sup>1</sup> Les collaborateurs du SRC en charge des dossiers versés dans GEVER vérifient chaque année, tenant compte de la situation actuelle, si les données des dossiers sont encore nécessaires au traitement et au contrôle des affaires ainsi qu’à l’efficacité des processus de travail du SRC.[^38-1]
 
 <sup>2</sup> Ils effacent les données devenues inutiles.
 
 <sup>3</sup> Ils rectifient, marquent ou effacent les données qui s’avèrent inexactes.
 
 <sup>4</sup> Le service interne de contrôle de qualité du SRC procède à un contrôle annuel par sondage au sens de l’art. 11, al. 2.
+
+[^38-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 39
 
@@ -624,7 +633,7 @@ En cas d’événement impliquant une menace accrue pour la sécurité, le SRC p
 
 **Contrôle de qualité**
 
-<sup>1</sup> Les collaborateurs du SRC en charge du classement et du traitement des données dans le système PES vérifient chaque année, en tenant compte de la situation actuelle, si les fichiers de données du système PES sont encore nécessaires à l’accomplissement des tâches visées à l’art. 6 LRens. Les données visées à l’al. 4 sont exclues de ce contrôle.
+<sup>1</sup> Les collaborateurs du SRC en charge du classement et du traitement des données dans le système PES vérifient chaque année, en tenant compte de la situation actuelle, si les données du système PES sont encore nécessaires à l’accomplissement des tâches visées à l’art. 6 LRens. Les données visées à l’al. 4 sont exclues de ce contrôle.[^44-1]
 
 <sup>2</sup> Les collaborateurs concernés effacent les données devenues inutiles.
 
@@ -633,6 +642,8 @@ En cas d’événement impliquant une menace accrue pour la sécurité, le SRC p
 <sup>4</sup> Les collaborateurs de l’Office fédéral de la police en charge du classement des données dans le système PES contrôlent chaque année les données versées par l’Office fédéral de la police. Ils vérifient que les données sont encore nécessaires au pilotage et à la mise en œuvre de mesures policières de sûreté ou aux actions de défense de la police.
 
 <sup>5</sup> Le service interne de contrôle de qualité du SRC procède à un contrôle annuel par sondage au sens de l’art. 11, al. 2.
+
+[^44-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 45
 
@@ -764,13 +775,15 @@ Le système SICO comprend un système de stockage de données permettant de diri
 
 **Contrôle de qualité**
 
-<sup>1</sup> Les collaborateurs du SRC en charge du classement des données dans le système SICO vérifient chaque année, en tenant compte de la situation actuelle, si les fichiers de données du système SICO servant à diriger les moyens de l’exploration, à assurer le contrôle de gestion et à établir des rapports sont encore nécessaires.
+<sup>1</sup> Les collaborateurs du SRC en charge du classement des données dans le système SICO vérifient chaque année, en tenant compte de la situation actuelle, si les données du système SICO servant à diriger les moyens de l’exploration, à assurer le contrôle de gestion et à établir des rapports sont encore nécessaires.[^59-1]
 
 <sup>2</sup> Ils effacent les données relatives aux mandats d’exploration terminés devenues inutiles.
 
 <sup>3</sup> Ils rectifient, marquent ou effacent les données qui s’avèrent inexactes.
 
 <sup>4</sup> Le service interne de contrôle de qualité du SRC procède à un contrôle annuel par sondage au sens de l’art. 11, al. 2.
+
+[^59-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 60
 
@@ -832,9 +845,11 @@ La durée de conservation des données dans le système de stockage des données
 
 <sup>1</sup> Les systèmes de stockage contiennent des données relatives à des personnes physiques et morales, à des objets et à des événements.
 
-<sup>2</sup> Ils peuvent contenir des données personnelles sensibles et des profils de la personnalité.
+<sup>2</sup> Ils peuvent contenir des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente.[^67-1]
 
 <sup>3</sup> Le catalogue des données personnelles figure à l’annexe 1.
+
+[^67-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 68
 

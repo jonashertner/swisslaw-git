@@ -4,11 +4,11 @@ title: "Ordinanza del 16 agosto 2017 sui sistemi d'informazione e di memorizzazi
 short: OSIME-SIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: it
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2017-496-20210401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-496-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/it"
 
 (OSIME-SIC)
 
-del 16 agosto 2017 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 16 agosto 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -221,18 +221,19 @@ Il SIC disciplina la responsabilità e le competenze per i suoi sistemi d’info
 
 Per garantire la sicurezza dei dati si applicano:
 
-- a. l’articolo 20 dell’ordinanza del 14 giugno 1993[^13-1] relativa alla legge federale sulla protezione dei dati;
-- b.[^13-2] l’ordinanza del 27 maggio 2020[^13-3] sui ciber-rischi;
-- c. l’ordinanza del 4 luglio 2007[^13-4] sulla protezione delle informazioni;
-- d.[^13-5] ...
+- a.[^13-1] dagli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^13-2] sulla protezione dei dati;
+- b.[^13-3] l’ordinanza del 27 maggio 2020[^13-4] sui ciber-rischi;
+- c. l’ordinanza del 4 luglio 2007[^13-5] sulla protezione delle informazioni;
+- d.[^13-6] ...
 
 <sup>2</sup> Il SIC disciplina nei regolamenti per il trattamento dei dati le misure organizzative e tecniche intese a evitare il trattamento non autorizzato dei dati.
 
-[^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: Nuovo testo giusta l’all. n. 2 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^13-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^13-4]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^13-5]: Abrogata dall’all. n. 2 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-3]: Nuovo testo giusta l’all. n. 2 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^13-5]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-6]: Abrogata dall’all. n. 2 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 
@@ -273,9 +274,11 @@ IASA SIC si compone di:
 
 <sup>2</sup> Gli oggetti e i metadocumenti, nonché le reciproche relazioni, possono essere visualizzati graficamente e le visualizzazioni possono essere memorizzate.
 
-<sup>3</sup> IASA SIC può contenere dati personali degni di particolare protezione e profili della personalità.
+<sup>3</sup> IASA SIC può contenere dati personali, degni di particolare protezione o no, compresi dati personali che permettono di valutare il grado di pericolosità di una persona.[^17-1]
 
 <sup>4</sup> Il catalogo dei dati personali figura nell’allegato 1.
+
+[^17-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 18
 
@@ -365,9 +368,11 @@ IASA-GEX SIC contiene dati:
 
 <sup>2</sup> Gli oggetti e i metadocumenti, nonché le reciproche relazioni, possono essere visualizzati graficamente e le visualizzazioni possono essere memorizzate.
 
-<sup>3</sup> IASA-GEX SIC può contenere dati personali degni di particolare protezione e profili della personalità.
+<sup>3</sup> IASA-GEX SIC può contenere dati personali, degni di particolare protezione o no, compresi dati personali che permettono di valutare il grado di pericolosità di una persona.[^23-1]
 
 <sup>4</sup> Il catalogo dei dati personali figura nell’allegato 1.
+
+[^23-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 24
 
@@ -469,11 +474,13 @@ INDEX SIC si compone di:
 
 <sup>2</sup> Se è necessario per motivi di protezione delle fonti secondo l’articolo 35 LAIn, a titolo eccezionale i dati di persone fisiche o giuridiche trattati in IASA SIC o IASA‑GEX SIC non compaiono in IASA INDEX.
 
-<sup>3</sup> INDEX SIC può contenere dati personali degni di particolare protezione e profili della personalità.
+<sup>3</sup> INDEX SIC può contenere dati personali, degni di particolare protezione o no, compresi dati personali che permettono di valutare il grado di pericolosità di una persona.[^30-1]
 
 <sup>4</sup> I dati concernenti terzi trattati in IASA-GEX SIC non compaiono in IASA INDEX.
 
 <sup>5</sup> Il catalogo dei dati personali figura nell’allegato 1.
+
+[^30-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
@@ -553,13 +560,15 @@ GEVER SIC si compone di:
 
 **Controllo della qualità**
 
-<sup>1</sup> I collaboratori del SIC competenti per i dossier in GEVER verificano annualmente, tenendo conto della situazione attuale, se le raccolte di dati dei dossier sono ancora necessarie per il trattamento e il controllo degli affari nonché per garantire processi di lavoro efficienti in seno al SIC.
+<sup>1</sup> I collaboratori del SIC competenti per i dossier in GEVER verificano annualmente, tenendo conto della situazione attuale, se i dati dei dossier sono ancora necessari per il trattamento e il controllo degli affari nonché per garantire processi di lavoro efficienti in seno al SIC.[^38-1]
 
 <sup>2</sup> Cancellano i dati non più necessari.
 
 <sup>3</sup> Rettificano, contrassegnano o cancellano i dati riconosciuti inesatti.
 
 <sup>4</sup> L’organo di controllo della qualità del SIC esegue annualmente un controllo a campione secondo l’articolo 11 capoverso 2.
+
+[^38-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 39
 
@@ -623,7 +632,7 @@ Il SIC può concedere a servizi privati nonché ad autorità di sicurezza e di p
 
 **Controllo della qualità**
 
-<sup>1</sup> I collaboratori del SIC competenti per l’archiviazione e il trattamento dei dati in PES verificano annualmente, tenendo conto della situazione attuale, se le raccolte di dati in PES sono ancora necessarie per l’adempimento dei compiti secondo l’articolo 6 LAIn. Sono esclusi da tale verifica i dati archiviati secondo il capoverso 4.
+<sup>1</sup> I collaboratori del SIC competenti per l’archiviazione e il trattamento dei dati in PES verificano annualmente, tenendo conto della situazione attuale, se i dati dei dossier in PES sono ancora necessari per l’adempimento dei compiti secondo l’articolo 6 LAIn. Sono esclusi da tale verifica i dati archiviati secondo il capoverso 4.[^44-1]
 
 <sup>2</sup> I collaboratori competenti cancellano i dati non più necessari.
 
@@ -632,6 +641,8 @@ Il SIC può concedere a servizi privati nonché ad autorità di sicurezza e di p
 <sup>4</sup> I collaboratori dell’Ufficio federale di polizia competenti per l’archiviazione dei dati in PES verificano annualmente i dati archiviati dall’Ufficio federale di polizia. Verificano se i dati per la gestione e l’applicazione di misure di polizia di sicurezza o per sventare pericoli con mezzi di polizia sono ancora necessari.
 
 <sup>5</sup> L’organo di controllo della qualità del SIC esegue annualmente un controllo a campione secondo l’articolo 11 capoverso 2.
+
+[^44-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 45
 
@@ -763,13 +774,15 @@ ISCO si compone di un archivio di dati che consente di dirigere l’esplorazione
 
 **Controllo della qualità**
 
-<sup>1</sup> I collaboratori del SIC competenti per l’archiviazione dei dati in ISCO verificano annualmente, tenendo conto della situazione attuale, se le raccolte di dati di ISCO sono ancora necessarie per dirigere i mezzi d’esplorazione, procedere a verifiche e redigere rapporti.
+<sup>1</sup> I collaboratori del SIC competenti per l’archiviazione dei dati in ISCO verificano annualmente, tenendo conto della situazione attuale, se i dati dei dossier in ISCO sono ancora necessari per dirigere i mezzi d’esplorazione, procedere a verifiche e redigere rapporti.[^59-1]
 
 <sup>2</sup> Cancellano i dati non più necessari concernenti mandati di esplorazione conclusi.
 
 <sup>3</sup> Rettificano, contrassegnano o cancellano i dati riconosciuti inesatti.
 
 <sup>4</sup> L’organo di controllo della qualità del SIC esegue annualmente un controllo a campione secondo l’articolo 11 capoverso 2.
+
+[^59-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 60
 
@@ -831,9 +844,11 @@ La durata di conservazione dei dati nella Memoria dei dati residui è di cinque 
 
 <sup>1</sup> I sistemi di memorizzazione contengono dati concernenti persone fisiche e giuridiche, oggetti ed eventi.
 
-<sup>2</sup> Possono contenere dati personali degni di particolare protezione e profili della personalità.
+<sup>2</sup> Possono contenere dati personali, degni di particolare protezione o no, compresi dati personali che permettono di valutare il grado di pericolosità di una persona.[^67-1]
 
 <sup>3</sup> Il catalogo dei dati personali figura nell’allegato 1.
+
+[^67-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 68
 
