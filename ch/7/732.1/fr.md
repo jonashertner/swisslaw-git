@@ -4,11 +4,11 @@ title: "Loi du 21 mars 2003 sur l'énergie nucléaire (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/fr"
 
 (LENu)
 
-du 21 mars 2003 (État le 1<sup>er</sup> juillet 2023)
+du 21 mars 2003 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -413,11 +413,13 @@ L’autorisation d’exploiter indique:
 
 <sup>1</sup> Les personnes exerçant des fonctions essentielles pour la sécurité nucléaire et pour la sûreté de l’installation nucléaire doivent se soumettre périodiquement à un contrôle de fiabilité.
 
-<sup>2</sup> Ce contrôle peut donner lieu au traitement de données sensibles sur la santé et le psychisme de ces personnes ainsi que de données sur leur mode de vie importantes pour la sécurité; un fichier à ce sujet peut être constitué.
+<sup>2</sup> Ce contrôle peut donner lieu au traitement de données sur la santé et l’aptitude psychique de ces personnes ainsi que de données sur leur mode de vie importantes pour la sécurité.[^24-1]
 
 <sup>3</sup> Ces données personnelles peuvent être communiquées au propriétaire de l’installation nucléaire et à l’autorité de surveillance.
 
 <sup>4</sup> Le Conseil fédéral désigne les personnes qui doivent se soumettre au contrôle de fiabilité et en précise le déroulement. Il désigne le service chargé d’y procéder, de traiter les données et d’en constituer une banque.
+
+[^24-1]: Nouvelle teneur selon l’annexe 1 ch. II 57 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 25
 

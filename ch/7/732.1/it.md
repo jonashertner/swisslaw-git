@@ -4,11 +4,11 @@ title: "Legge federale del 21 marzo 2003 sull'energia nucleare (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/it"
 
 (LENu)
 
-del 21 marzo 2003 (Stato 1° luglio 2023)
+del 21 marzo 2003 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -412,11 +412,13 @@ A questo scopo deve segnatamente:
 
 <sup>1</sup> Le persone impiegate in funzioni essenziali per la sicurezza nucleare interna ed esterna devono sottoporsi a un controllo periodico di affidabilità.
 
-<sup>2</sup> Nell’ambito di questo controllo possono essere elaborati dati personali particolarmente degni di protezione sulla salute e l’idoneità psichica, nonché dati rilevanti per la sicurezza sulla condotta di vita delle persone interessate; in merito può essere compilata una raccolta di dati.
+<sup>2</sup> Nell’ambito di questo controllo possono essere elaborati dati sulla salute e l’idoneità psichica, nonché dati rilevanti per la sicurezza sulla condotta di vita delle persone interessate.[^24-1]
 
 <sup>3</sup> I dati possono essere comunicati al proprietario dell’impianto e all’autorità di vigilanza.
 
 <sup>4</sup> Il Consiglio federale stabilisce chi è sottoposto al controllo e disciplina la procedura di esame. Designa il servizio competente per eseguire la procedura di esame, elaborare i dati, nonché costituire la raccolta di dati.
+
+[^24-1]: Nuovo testo giusta l’all. 1 n. II 57 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 25
 
@@ -1545,7 +1547,7 @@ II
 
 Le seguenti leggi federali sono modificate come segue:
 
-…[^annexu1-lvlu1-3]
+...[^annexu1-lvlu1-3]
 
 [^annexu1-lvlu1-1]: [[RU 1960 571](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571), [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 9, [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)art. 48 n. 1, [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954), [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)art. 17 n. 3, [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)all. n. 4. [RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. I 1].
 [^annexu1-lvlu1-2]: [[RU 1979 816](https://fedlex.data.admin.ch/eli/oc/1979/816_816_816), [2001 283](https://fedlex.data.admin.ch/eli/oc/2001/57)]

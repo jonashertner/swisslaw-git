@@ -4,11 +4,11 @@ title: Kernenergiegesetz vom 21. März 2003 (KEG)
 short: KEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/de"
 
 (KEG)
 
-vom 21. März 2003 (Stand am 1. Juli 2023)
+vom 21. März 2003 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -412,11 +412,13 @@ Dazu muss er insbesondere:
 
 <sup>1</sup> Personen, die in Funktionen eingesetzt werden, welche für die nukleare Sicherheit und die Sicherung der Kernanlage wesentlich sind, müssen sich einer periodischen Zuverlässigkeitskontrolle unterziehen.
 
-<sup>2</sup> Im Rahmen dieser Prüfung können besonders schützenswerte Personendaten über die Gesundheit und die psychische Eignung sowie sicherheitsrelevante Daten über die Lebensführung der betroffenen Person bearbeitet werden; es kann darüber eine Datensammlung angelegt werden.
+<sup>2</sup> Im Rahmen dieser Prüfung können Daten über die Gesundheit und die psychische Eignung sowie sicherheitsrelevante Daten über die Lebensführung der betroffenen Person bearbeitet werden.[^24-1]
 
 <sup>3</sup> Die Daten dürfen dem Eigentümer der Kernanlage und der Aufsichtsbehörde bekannt gegeben werden.
 
 <sup>4</sup> Der Bundesrat legt fest, wer dieser Kontrolle untersteht und regelt das Prüfverfahren. Er bezeichnet die Stelle, die das Prüfverfahren durchführt und die Daten bearbeitet und die Datensammlung anlegt.
+
+[^24-1]: Fassung gemäss Anhang 1 Ziff. II 57 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 25
 

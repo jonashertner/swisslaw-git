@@ -4,11 +4,11 @@ title: Nuclear Energy Act of 21 March 2003 (NEA)
 short: NEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEA)
 
-of 21 March 2003 (Status as of 1 July 2023)
+of 21 March 2003 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -414,11 +414,13 @@ In this connection it shall:
 
 <sup>1</sup> Persons appointed to positions that are essential for nuclear safety and security shall regularly undergo reliability assessments.
 
-<sup>2</sup> These assessments may involve the processing of particularly sensitive personal data concerning the health and mental ability of the subject concerned, together with data regarding his or her lifestyle and habits that may be of relevance to security, and all information may be stored in a database.
+<sup>2</sup> These assessments may involve the processing of data concerning the health and mental ability of the subject concerned, together with data regarding his or her lifestyle and habits that may be of relevance to security.[^24-1]
 
 <sup>3</sup> Data may be passed on to the ownerof the installation and to the relevant supervisory authority.
 
 <sup>4</sup> The Federal Council shall determine which persons shall be subject to reliability assessments and a trustworthiness check and shall also regulate the assessment procedure. It shall specify the authority that is to carry out reliability assessments, process the related data and maintain the associated database.
+
+[^24-1]: Amended by Annex 1 No II 57 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 25
 
