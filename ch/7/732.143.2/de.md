@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2006 über die Betriebswachen von Kernanlagen (VBW
 short: VBWK
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/378"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/de"
 
 (VBWK)
 
-vom 9. Juni 2006 (Stand am 1. Januar 2023)
+vom 9. Juni 2006 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -298,7 +298,7 @@ Der Betriebswächter oder die Betriebswächterin muss über folgende Qualifikati
 
 #### Art. 18
 
-<sup>1</sup> Das ENSI kann Personendaten, insbesondere auch besonders schützenswerte Daten oder Persönlichkeitsprofile nach Artikel 3 Buchstaben c und d des Bundesgesetzes vom 19. Juni 1992[^18-1] über den Datenschutz, von Angehörigen der Betriebswachen bearbeiten, soweit es diese zur Erfüllung seiner Aufgaben nach dieser Verordnung benötigt, um zu prüfen, ob die Anforderungen an die Angehörigen der Betriebswachen erfüllt sind.[^18-2]
+<sup>1</sup> Das ENSI kann Personendaten, insbesondere auch besonders schützenswerte Daten nach Artikel 5 Buchstaben c des Datenschutzgesetzes vom 25. September 2020[^18-1], von Angehörigen der Betriebswachen bearbeiten, soweit es diese zur Erfüllung seiner Aufgaben nach dieser Verordnung benötigt, um zu prüfen, ob die Anforderungen an die Angehörigen der Betriebswachen erfüllt sind.[^18-2]
 
 <sup>2</sup>
 
@@ -317,7 +317,7 @@ Es bearbeitet folgende Personendaten:
 <sup>4</sup> Die Personendaten werden nach dem Zeitpunkt, zu dem die betroffene Person die Stelle verlässt, die Funktion aufgibt oder den Auftrag abschliesst, noch zehn Jahre sicher aufbewahrt. Nach Ablauf dieser Frist werden sie vernichtet, soweit sie nicht vom Bundesarchiv übernommen werden.
 
 [^18-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^18-2]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^18-2]: Fassung gemäss Anhang 2 Ziff. II 76 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 7. Abschnitt: Zusammenarbeit mit den Kantonen
 

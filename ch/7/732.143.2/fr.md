@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2006 sur les équipes de surveillance des installati
 short: OESN
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/378"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/fr"
 
 (OESN)
 
-du 9 juin 2006 (État le 1<sup>er</sup> janvier 2023)
+du 9 juin 2006 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -298,7 +298,7 @@ Le surveillant doit disposer des qualifications suivantes:
 
 #### Art. 18
 
-<sup>1</sup> L’IFSN peut traiter des données personnelles relatives aux membres des équipes de surveillance, en particulier des données sensibles et des profils de la personnalité au sens de l’art. 3, let. c et d, de la loi fédérale du 19 juin 1992 sur la protection des données[^18-1], dans la mesure où ces données sont nécessaires à l’accomplissement de ses tâches selon la présente ordonnance, afin d’examiner si les exigences auxquelles doivent satisfaire les membres des équipes de surveillance sont remplies.[^18-2]
+<sup>1</sup> L’IFSN peut traiter des données personnelles relatives aux membres des équipes de surveillance, en particulier des données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^18-1], dans la mesure où ces données sont nécessaires à l’accomplissement de ses tâches selon la présente ordonnance, afin d’examiner si les exigences auxquelles doivent satisfaire les membres des équipes de surveillance sont remplies.[^18-2]
 
 <sup>2</sup>
 
@@ -317,7 +317,7 @@ Il traite les données personnelles ci-après:
 <sup>4</sup> Les données personnelles sont conservées en lieu sûr durant dix ans à compter du jour où l’intéressé quitte son poste, abandonne sa fonction ou termine son mandat. À l’issue de ce délai, elles sont détruites dans la mesure où elles ne sont pas reprises par les archives fédérales.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^18-2]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^18-2]: Nouvelle teneur selon l’annexe 2 ch. II 76 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 7 Collaboration avec les cantons
 

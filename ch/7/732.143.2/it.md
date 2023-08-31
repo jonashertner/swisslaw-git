@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2006 concernente i corpi di guardia degli impianti
 short: OCGIN
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/378"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/it"
 
 (OCGIN)
 
-del 9 giugno 2006 (Stato 1° gennaio 2023)
+del 9 giugno 2006 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -162,7 +162,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>2</sup> L’IFSN, sentiti la polizia e il titolare della licenza di costruzione o d’esercizio per l’impianto nucleare (titolare della licenza), delimita la zona rilevante per la sicurezza esterna.[^9-1]
 
-[^9-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 (RU **2008**5747).
+[^9-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Sezione 3: Equipaggiamento e armamento dei corpi di guardia
 
@@ -176,7 +176,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>3</sup> L’acquisizione di nuovi tipi di arma deve essere preventivamente annunciata all’IFSN.[^10-1]
 
-[^10-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 (RU **2008**5747).
+[^10-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 11
 
@@ -188,7 +188,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>3</sup> L’acquisizione di nuove tipologie di mezzi da servizio d’ordine deve essere preventivamente annunciata all’IFSN.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 (RU **2008**5747).
+[^11-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 12
 
@@ -298,7 +298,7 @@ Le guardie devono possedere le seguenti qualifiche:
 
 #### Art. 18
 
-<sup>1</sup> L’IFSN può trattare dati personali dei membri dei corpi di guardia, tra cui segnatamente anche dati degni di particolare protezione o profili della personalità ai sensi dell’articolo 3 lettere c e d della legge federale del 19 giugno 1992[^18-1] sulla protezione dei dati, nella misura in cui tali dati risultino necessari, nell’adempimento dei compiti assegnati dalla presente ordinanza, per verificare se i membri dei corpi di guardia adempiono i requisiti richiesti.[^18-2]
+<sup>1</sup> L’IFSN può trattare dati personali dei congiunti dei membri dei corpi di guardia, in particolare anche dati degni di particolare protezione ai sensi dell’articolo 5 lettere c della legge federale del 25 settembre 2020[^18-1] sulla protezione dei dati, nella misura in cui tali dati risultino necessari all’adempimento dei compiti assegnati dalla presente ordinanza, per verificare se i congiunti dei membri dei corpi di guardia adempiono i requisiti richiesti.[^18-2]
 
 <sup>2</sup>
 
@@ -317,7 +317,7 @@ L’IFSN tratta i seguenti dati personali:
 <sup>4</sup> Dopo che un membro dei corpi di guardia abbandona il posto o la funzione, oppure porta a termine il mandato, i dati personali sono conservati per 10 anni in modo sicuro. Allo scadere di questo termine i dati vengono distrutti nella misura in cui non vengono custoditi nell’Archivio federale.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^18-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^18-2]: Nuovo testo giusta l’all. 2 n. II 76 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 7: Collaborazione con i Cantoni
 
