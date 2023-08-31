@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. April 2023)
+vom 29. April 2015 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1404,7 +1404,7 @@ Sie vernichten folgende Dokumente und Daten nach der Auswertung, spätestens jed
 
 #### Art. 90
 
-**Struktur des Informationssystems und Inhalt der Datensammlungen**
+**Struktur und Inhalt des Informationssystems[^90-1]**
 
 <sup>1</sup>
 
@@ -1413,14 +1413,15 @@ Das Informationssystem besteht aus:
 - a. dem System «Meldungen»;
 - b. dem Modul «Kontaktmanagement».
 
-<sup>2</sup> Das Modul Kontaktmanagement ist als selbstständiges Modul in das Informations- und Einsatzsystem des Koordinierten Sanitätsdienstes nach Artikel 35 der Verordnung vom 16. Dezember 2009[^90-1] über militärische und andere Informationssysteme im VBS integriert.[^90-2]
+<sup>2</sup> Das Modul Kontaktmanagement ist als selbstständiges Modul in das Informations- und Einsatzsystem des Koordinierten Sanitätsdienstes nach Artikel 35 der Verordnung vom 16. Dezember 2009[^90-2] über militärische und andere Informationssysteme im VBS integriert.[^90-3]
 
 <sup>3</sup> Das System «Meldungen» enthält die Daten zu den meldepflichtigen Beobachtungen.
 
 <sup>4</sup> Das Modul «Kontaktmanagement» enthält die Daten von Personen, die krank, krankheitsverdächtig, angesteckt oder ansteckungsverdächtig sind oder die Krankheitserreger ausscheiden; es enthält zudem die Daten von Personen, mit denen die betroffene Person Kontakt hatte.
 
-[^90-1]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
-[^90-2]: Fassung gemäss Anhang Ziff. 9 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^90-1]: Fassung gemäss Anhang 2 Ziff. II 108 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^90-2]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^90-3]: Fassung gemäss Anhang Ziff. 9 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 91
 
@@ -1511,17 +1512,20 @@ Folgende Personen haben, soweit es zur Erfüllung ihrer Aufgaben nach dem EpG no
 
 #### Art. 96
 
-**Datensicherheit**
+**Datensicherheit**[^96-1]
 
-Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 der Verordnung vom 14. Juni 1993[^96-1] zum Bundesgesetz über den Datenschutz.
+Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^96-2].
 
-[^96-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^96-1]: Fassung gemäss Anhang 2 Ziff. II 108 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^96-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 97
 
 **Protokollierung**
 
-Die Zugriffe auf das Informationssystem werden laufend protokolliert. Die Protokollierungen werden ein Jahr lang aufbewahrt.
+Die Zugriffe auf das Informationssystem werden laufend protokolliert. Die Protokollierungen werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^97-1]
+
+[^97-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 108 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 98
 

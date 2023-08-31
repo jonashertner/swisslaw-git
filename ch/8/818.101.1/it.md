@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° aprile 2023)
+del 29 aprile 2015 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1403,7 +1403,7 @@ Distruggono i seguenti documenti e dati dopo la valutazione, ma al più tardi do
 
 #### Art. 90
 
-**Struttura del sistema d’informazione e contenuto delle raccolte di dati**
+**Struttura e contenuto del sistema d’informazione[^90-1]**
 
 <sup>1</sup>
 
@@ -1412,14 +1412,15 @@ Il sistema d’informazione si compone:
 - a. del sistema «dichiarazioni»;
 - b. del modulo «gestione dei contatti».
 
-<sup>2</sup> Il modulo «gestione dei contatti» è integrato come modulo a sé stante nel Sistema d’informazione e d’impiego del Servizio sanitario coordinato di cui all’articolo 35 dell’ordinanza del 16 dicembre 2009[^90-1] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS.[^90-2]
+<sup>2</sup> Il modulo «gestione dei contatti» è integrato come modulo a sé stante nel Sistema d’informazione e d’impiego del Servizio sanitario coordinato di cui all’articolo 35 dell’ordinanza del 16 dicembre 2009[^90-2] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS.[^90-3]
 
 <sup>3</sup> Il sistema «dichiarazioni» contiene i dati sulle osservazioni soggette all’obbligo di dichiarazione.
 
 <sup>4</sup> Il modulo «gestione dei contatti» contiene i dati di persone che sono malate, sospette malate, contagiate o sospette contagiate o che espellono agenti patogeni; contiene inoltre i dati delle persone con cui sono venute a contatto.
 
-[^90-1]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
-[^90-2]: Nuovo testo giusta l’all. n. 9 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^90-1]: Nuovo testo giusta l’all. 2 n. II 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^90-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^90-3]: Nuovo testo giusta l’all. n. 9 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 91
 
@@ -1510,17 +1511,20 @@ Se necessario all’adempimento dei loro compiti prescritti dalla LEp, le seguen
 
 #### Art. 96
 
-**Sicurezza dei dati**
+**Sicurezza dei dati**[^96-1]
 
-Per garantire la sicurezza dei dati si applicano gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^96-1] relativa alla legge federale sulla protezione dei dati.
+Per garantire la sicurezza dei dati si applicano gli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^96-2] sulla protezione dei dati.
 
-[^96-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^96-1]: Nuovo testo giusta l’all. 2 n. II 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^96-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 97
 
 **Verbalizzazione**
 
-Gli accessi al sistema d’informazione sono costantemente verbalizzati. Le verbalizzazioni sono conservate per un anno.
+Gli accessi al sistema d’informazione sono costantemente verbalizzati. Le verbalizzazioni sono conservate per un anno. Le verbalizzazioni sono conservate per un anno separatamente dal sistema in cui sono trattati i dati personali.[^97-1]
+
+[^97-1]: Nuovo testo del per. giusta l’all. 2 n. II 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 98
 

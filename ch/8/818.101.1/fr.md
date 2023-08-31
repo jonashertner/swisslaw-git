@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (État le 1<sup>er</sup> avril 2023)
+du 29 avril 2015 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1410,7 +1410,7 @@ Ils détruisent les documents et données suivants après leur évaluation, mais
 
 #### Art. 90
 
-**Structure du système d’information et contenu des bases de données**
+**Structure et contenu du système d’information[^90-1]**
 
 <sup>1</sup>
 
@@ -1419,14 +1419,15 @@ Le système d’information se compose:
 - a. du système «déclarations»;
 - b. du module «gestion des contacts».
 
-<sup>2</sup> Le module «gestion des contacts» est un module autonome intégré dans le système d’information et de conduite du Service sanitaire coordonné visé à l’art. 35 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée et du DDPS[^90-1].[^90-2]
+<sup>2</sup> Le module «gestion des contacts» est un module autonome intégré dans le système d’information et de conduite du Service sanitaire coordonné visé à l’art. 35 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée et du DDPS[^90-2].[^90-3]
 
 <sup>3</sup> Le système «déclarations» contient les données relatives aux observations soumises à déclaration.
 
 <sup>4</sup> Le module «gestion des contacts» contient les données relatives aux personnes malades, présumées malades, infectées, présumées infectées ou qui excrètent des agents pathogènes ainsi que celles de personnes ayant été en contact avec elles.
 
-[^90-1]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
-[^90-2]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^90-1]: Nouvelle teneur selon l’annexe 2 ch. II 108 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^90-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^90-3]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 91
 
@@ -1515,17 +1516,20 @@ Les personnes suivantes ont accès au module «gestion des contacts» lorsque ce
 
 #### Art. 96
 
-**Sécurité des données**
+**Sécurité des données**[^96-1]
 
-La sauvegarde de la sécurité des données est régie par les art. 20 et 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^96-1].
+La garantie de la sécurité des données est régie par les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^96-2].
 
-[^96-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^96-1]: Nouvelle teneur selon l’annexe 2 ch. II 108 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^96-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 97
 
 **Journalisation**
 
-Les accès au système d’information sont consignés en permanence dans des procès-verbaux. Les procès-verbaux sont conservés durant une année.
+Les accès au système d’information sont consignés en permanence dans des procès-verbaux. Les procès-verbaux de journalisation sont conservés durant un an, séparément du système dans lequel les données personnelles sont traitées.[^97-1]
+
+[^97-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 108 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 98
 
