@@ -4,11 +4,11 @@ title: Verordnung vom 27. April 2022 über Informationssysteme des BLV für die 
 short: ISLK-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/de"
 
 (ISLK-V)
 
-vom 27. April 2022 (Stand am 1. Januar 2023)
+vom 27. April 2022 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -412,10 +412,11 @@ Das BLV betreibt zur Auswertung und Analyse der Daten aus seinem Zuständigkeits
 
 Die Rechte der Personen, über die im ASAN, im ARES oder im Fleko Daten bearbeitet werden, insbesondere das Recht auf Auskunft über ihre Daten oder auf Berichtigung oder Vernichtung von Daten sowie über die Beschaffung von Daten, richten sich nach:
 
-- a. dem Bundesgesetz vom 19. Juni 1992[^25-1] über den Datenschutz, wenn sie ihre Rechte gegenüber dem BLV geltend machen;
+- a.[^25-1] dem Datenschutzgesetz vom 25. September 2020[^25-2], wenn sie ihre Rechte gegenüber dem BLV geltend machen;
 - b. dem jeweiligen kantonalen Datenschutzrecht, wenn sie ihre Rechte gegenüber einer kantonalen Vollzugsbehörde geltend machen.
 
-[^25-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-1]: Fassung gemäss Anhang 2 Ziff. II 129 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^25-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 26
 

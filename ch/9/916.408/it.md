@@ -4,11 +4,11 @@ title: Ordinanza del 27 aprile 2022 concernente i sistemi d’informazione dell�
 short: O-SIFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/it"
 
 (O-SIFA)
 
-del 27 aprile 2022 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 27 aprile 2022 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -412,10 +412,11 @@ L’USAV gestisce il sistema di valutazione e di analisi della sicurezza aliment
 
 I diritti delle persone i cui dati sono trattati in ASAN, in ARES o in Fleko, in particolare i diritti in materia di comunicazione dei loro dati, di rettifica e distruzione di dati nonché di acquisizione degli stessi, sono retti:
 
-- a. dalla legge del 19 giugno 1992[^25-1] sulla protezione dei dati se fanno valere i loro diritti nei confronti dell’USAV;
+- a.[^25-1] dalla legge federale del 25 settembre 2020[^25-2] sulla protezione dei dati se fanno valere i propri diritti nei confronti dell’USAV;
 - b. dalla rispettiva legge cantonale sulla protezione dei dati se fanno valere i loro diritti nei confronti di un’autorità cantonale di esecuzione.
 
-[^25-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-1]: Nuovo testo giusta l’all. 2 n. II 129 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^25-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 26
 

@@ -4,11 +4,11 @@ title: Ordonnance du 27 avril 2022 concernant les systèmes d’information de l
 short: O-SICAL
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/fr"
 
 (O-SICAL)
 
-du 27 avril 2022 (État le 1<sup>er</sup> janvier 2023)
+du 27 avril 2022 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -412,10 +412,11 @@ Pour évaluer et analyser les données de son domaine de compétence, l’OSAV e
 
 Les droits des personnes dont les données sont traitées dans ASAN, ARES ou Fleko, notamment le droit d’être informées sur leurs données, le droit de rectification, de destruction ou d’acquisition des données sont régis par:
 
-- a. la loi fédérale du 19 juin 1992 sur la protection des données[^25-1] si les personnes font valoir leurs droits auprès de l’OSAV;
+- a.[^25-1] la loi fédérale du 25 septembre 2020 sur la protection des données[^25-2] si les personnes font valoir leurs droits auprès de l’OSAV;
 - b. le droit sur la protection des données du canton concerné si les personnes font valoir leurs droits auprès d’une autorité d’exécution cantonale.
 
-[^25-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-1]: Nouvelle teneur selon l’annexe 2 ch. II 129 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^25-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 26
 
