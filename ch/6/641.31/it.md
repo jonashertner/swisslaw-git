@@ -4,18 +4,18 @@ title: "Legge federale del 21 marzo 1969 sull'imposizione del tabacco (Legge sul
 short: LImT
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’imposizione del tabacco (Legge sull’imposizione del tabacco, LImT)
 
-del 21 marzo 1969 (Stato 1° gennaio 2022)[^t-1]
+del 21 marzo 1969 (Stato 1° settembre 2023)[^t-1]
 
 [^t-1]: Introdotto dall’all. n. 8. della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -353,10 +353,14 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 <sup>3</sup> L’imposta sui tabacchi manufatti importati è stabilita dagli uffici doganali in base alle dichiarazioni doganali loro presentate. La forma della dichiarazione è retta dall’articolo 28 LD[^18-3].[^18-4]
 
+<sup>4</sup> L’importo dell’imposta può essere stabilito sotto forma di decisione individuale automatizzata ai sensi dell’articolo 21 della legge federale del 25 settembre 2020[^18-5] sulla protezione dei dati.[^18-6]
+
 [^18-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^18-2]: Introdotto dal n. I 5 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 [^18-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^18-4]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^18-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-6]: Introdotto dall’all. 1 n. II 50 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Esigibilità
 
@@ -933,9 +937,9 @@ Allegato II[^t-3]
 
 (art. 11 cpv. 1)
 
-## Tariffa d’imposta per il tabacco trinciato fine e il tabacco per pipe ad acqua
+## Tariffa d’imposta per i sigari e i cigarillos
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 della LF del 19 dic. 2008 ([[RU 2009 5561](http://www.admin.ch/ch/i/as/2009/5561.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/676); [[FF 2008 423](http://www.admin.ch/ch/i/ff/2008/423.pdf)](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dal n. II della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)). Vedi anche le disp. trans. di detta mod. qui avanti (precedenti tariffe cfr. [RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 1 della LF del 19 dic. 2008 ([[RU 2009 5561](http://www.admin.ch/ch/i/as/2009/5561.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/676); [[FF 2008 423](http://www.admin.ch/ch/i/ff/2008/423.pdf)](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dal n. I dell’O del 14 nov. 2012 (Tariffa d’imposta per i tabacchi manufatti e i prodotti di sostituzione), in vigore dal 1° dic. 2012 ([RU 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Vedi anche le disp. trans. di detta mod. qui avanti (precedenti tariffe cfr. [RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)).
 
 L’imposta ammonta a 0,56 centesimi il pezzo e all’1 per cento del prezzo al minuto.
 
@@ -948,7 +952,7 @@ Allegato III[^t-4]
 
 (art. 11 cpv. 1)
 
-## Tariffa d’imposta per il tabacco trinciato fine
+## Tariffa d’imposta per il tabacco trinciato fine e il tabacco per pipe ad acqua
 
 [^t-4]: Nuovo testo giusta il n. II cpv. 1 della LF del 19 dic. 2008 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dal n. I dell’O del 14 nov. 2012 (Tariffa d’imposta per i tabacchi manufatti e i prodotti di sostituzione) ([RU 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)) e dal n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)). Vedi anche le disp. trans. delal mod. del 14 nov. 2011 qui avanti (precedenti tariffe cfr. [RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)).
 

@@ -4,22 +4,22 @@ title: "Loi fédérale du 21 mars 1969 sur l'imposition du tabac (LTab)"
 short: LTab
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’imposition du tabac
 
-(LTab)**[^t-1]**
+(LTab)[^t-1]
 
-du 21 mars 1969 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 mars 1969 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: Introduit par le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^t-1]: Introduit par l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -31,7 +31,7 @@ arrête:
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4971](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
 [^ingress-3]: [FF 1968 II 345](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)
 
-## Section 1 Dispositions générales****
+## Section 1 Dispositions générales
 
 [^sec1-1]
 
@@ -67,7 +67,7 @@ En ce qui concerne les redevances grevant les tabacs manufacturés (impôt sur l
 
 Sauf dispositions spéciales de la présente loi et des ordonnances fondées sur cette dernière, les dispositions régissant les droits de douane et les taxes spéciales à la perception desquelles l’exécution des prescriptions douanières peut donner lieu sont applicables, par analogie, à l’impôt sur le tabac.
 
-## Section 2 Objet de l’impôt et assujettissement****
+## Section 2 Objet de l’impôt et assujettissement
 
 [^sec2-1]
 
@@ -95,7 +95,7 @@ Sont soumis à l’impôt:
 [^4-2]: Introduite par le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> mars 1996 ([RO 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 [^4-3]: Abrogé par le ch. I de la LF du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^4-4]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-5]: Nouvelle teneur selon le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^4-5]: Nouvelle teneur selon l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### II. Exonération d’impôt
 
@@ -108,9 +108,9 @@ Sont exonérés de l’impôt:
 - c. les tabacs manufacturés non destinés à la consommation;
 - d.[^5-4] les tabacs manufacturés et préparations destinées à atténuer l’asthme, si elles sont enregistrées comme médicaments.
 
-[^5-1]: Nouvelle teneur selon le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^5-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^5-3]: Abrogée par le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^5-3]: Abrogée par l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^5-4]: Introduite par le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> mars 1996 ([RO 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ### III. Assujettissement
@@ -126,7 +126,7 @@ Sont assujettis à l’impôt:
 - a. pour les tabacs fabriqués en Suisse: les fabricants du produit prêt à la consommation;
 - b.[^6-1] pour les tabacs manufacturés importés: le débiteur de la dette douanière.
 
-[^6-1]: Nouvelle teneur selon le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### IV. Succession fiscale
 
@@ -157,7 +157,7 @@ Sont responsables solidairement avec l’assujetti ou le successeur fiscal:
 
 <sup>2</sup> La responsabilité des personnes désignées à l’al. 1 s’éteint si elles établissent qu’elles ont fait tout ce qu’on pouvait attendre d’elles pour déterminer et exécuter la créance fiscale.
 
-## Section 3 Début de l’assujettissement et calcul de l’impôt****
+## Section 3 Début de l’assujettissement et calcul de l’impôt
 
 [^sec3-1]
 
@@ -229,7 +229,7 @@ En vue du cofinancement des contributions de la Confédération à l’assurance
 
 [^12-1]: Abrogé par le ch. I de la LF du 24 mars 1995, avec effet au 1<sup>er</sup> mars 1996 ([RO 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
-## Section 4 Perception et remboursement de l’impôt****
+## Section 4 Perception et remboursement de l’impôt
 
 [^sec4-1]
 
@@ -360,10 +360,14 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 <sup>3</sup> L’impôt grevant les tabacs manufacturés importés est fixé par les bureaux de douane sur la base des déclarations en douane qui doivent leur être présentées. La forme de la déclaration en douane est régie par l’art. 28 LD[^18-3].[^18-4]
 
+<sup>4</sup> La fixation du montant de l’impôt peut intervenir sous la forme d’une décision individuelle automatisée selon l’art. 21 de la loi fédérale du 25 septembre 2020 sur la protection des données[^18-5].[^18-6]
+
 [^18-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^18-2]: Introduit par le ch. I 5 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 [^18-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^18-4]: Nouvelle teneur selon le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^18-4]: Nouvelle teneur selon l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^18-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-6]: Introduit par l’annexe 1 ch. II 50 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Exigibilité
 
@@ -378,7 +382,7 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 <sup>2</sup> L’impôt grevant les importations dans le trafic postal et le trafic touristique, pour lesquelles l’importateur ne présente pas de déclaration écrite (art. 18, al. 3), ainsi que l’impôt pour lequel il n’existe pas de sûreté au sens de l’art. 21, est payé d’après les dispositions régissant les droits de douane.[^19-2]
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^19-2]: Nouvelle teneur selon le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^19-2]: Nouvelle teneur selon l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### II<sup>bis</sup>. Intérêts
 
@@ -480,7 +484,7 @@ Il est fait remise à l’assujetti de l’impôt grevant les tabacs manufactur�
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^25-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## Section 5 Entrepôts fiscaux agréés****
+## Section 5 Entrepôts fiscaux agréés
 
 [^sec5-1]
 
@@ -573,7 +577,7 @@ Les sûretés cessent de déployer leurs effets dans les cas suivants:
 
 [^26e-1]: Introduit par le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
-## Section 6 Tabac indigène****
+## Section 6 Tabac indigène
 
 [^sec6-1]
 
@@ -624,7 +628,7 @@ Le Conseil fédéral peut:
 
 Le Conseil fédéral peut faire appel à la collaboration des cantons et d’organismes économiques. Toute personne appelée à collaborer est soumise, en ce qui concerne le secret professionnel, aux dispositions applicables aux fonctionnaires fédéraux.
 
-## Section 7 Restitution d’un montant remboursé ou remis à tort****
+## Section 7 Restitution d’un montant remboursé ou remis à tort
 
 [^sec7-1]
 
@@ -642,7 +646,7 @@ Le Conseil fédéral peut faire appel à la collaboration des cantons et d’org
 
 [^30-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
-## Section 8 Voies de droit****
+## Section 8 Voies de droit
 
 [^sec8-1]
 
@@ -681,9 +685,9 @@ Le Conseil fédéral peut faire appel à la collaboration des cantons et d’org
 
 [^33-1]
 
-[^33-1]: Abrogé par le ch. 53 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^33-1]: Abrogé par l’annexe ch. 53 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Section 9 Dispositions pénales****
+## Section 9 Dispositions pénales
 
 [^sec9-1]
 
@@ -760,7 +764,7 @@ Est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement o
 
 Celui qui acquiert, reçoit en don ou en gage, prend sous sa garde, dissimule, écoule ou aide à écouler des tabacs manufacturés alors qu’il sait ou doit présumer que l’impôt a été soustrait, encourra la peine applicable à l’auteur de l’infraction.
 
-[^37-1]: Nouvelle teneur selon le ch. 9 de l’annexe au DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^37-1]: Nouvelle teneur selon l’annexe ch. 9 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### 5. Tentative
 
@@ -814,7 +818,7 @@ Si le montant prévisible de l’amende ne dépasse pas 100 000 francs et que l�
 
 [^41-1]
 
-[^41-1]: Abrogé par le ch. 9 de l’annexe au DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^41-1]: Abrogé par l’annexe ch. 9 du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### 7. Concours d’infractions
 
@@ -868,7 +872,7 @@ Le montant de l’amende est dévolu à la caisse fédérale.
 
 [^44bis-1]: Introduit par le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> mars 1996 ([RO 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
-## Section 10 Dispositions finales****
+## Section 10 Dispositions finales
 
 [^sec10-1]
 
@@ -903,7 +907,7 @@ Sont abrogés au moment de l’entrée en vigueur de la présente loi:
 
 [^47-1]
 
-[^47-1]: Abrogé par le ch. 8 de l’annexe à la L du 18 mars 2005 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^47-1]: Abrogé par l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### IV. Entrée en vigueur et exécution
 
@@ -915,7 +919,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1970[^48-1]
 
 [^48-1]: ACF du 7 août 1969
 
-## Dispositions transitoires relatives à la modification du 14 novembre 2012****
+## Dispositions transitoires relatives à la modification du 14 novembre 2012
 
 [^u1-1]
 
@@ -928,7 +932,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1970[^48-1]
 - a. pour les quantités n’excédant pas celles qui sont vendues en Suisse et celles qui ont été importées pendant la période de comparaison 2011/2012, réduites de 5 %: conformément au tarif d’impôt en vigueur jusqu’au 31 mars 2013;
 - b. pour les quantités excédentaires: conformément au nouveau tarif d’impôt.
 
-Annexe I*[^t-2]*
+Annexe I[^t-2]
 
 (art. 11, al. 1)
 
@@ -943,7 +947,7 @@ Remarques
 - 1\. L’augmentation de 80 % que peut décider le Conseil fédéral en vertu de l’art. 11, al. 2, let. a, s’applique à la part d’impôt par pièce et au taux minimal, mais non à la part d’impôt fixée en fonction du prix de vente au détail.
 - 2\. Le taux d’imposition global par 1000 pièces, résultant de l’élément spécifique relatif au nombre de pièces et de l’élément proportionnel relatif au prix de vente au détail, doit être arrondi aux cinq centimes supérieurs. Les fractions de centime ne comptent pas.
 
-Annexe II*[^t-3]*
+Annexe II[^t-3]
 
 (art. 11, al. 1)
 
@@ -958,7 +962,7 @@ Remarques
 - 1\. L’augmentation de 300 % que peut décider le Conseil fédéral en vertu de l’art. 11, al. 2, let. b, s’applique à la part d’impôt par pièce, mais non à la part d’impôt fixée en fonction du prix de vente au détail.
 - 2\. Le taux d’imposition global par 1000 pièces, résultant de l’élément spécifique relatif au nombre de pièces et de l’élément proportionnel relatif au prix de vente au détail, doit être arrondi aux cinq centimes supérieurs. Les fractions de centime ne comptent pas.
 
-Annexe III*[^t-4]*
+Annexe III[^t-4]
 
 (art. 11, al. 1)
 
@@ -972,8 +976,9 @@ Remarques
 
 - 1\. L’augmentation de 80 % que peut décider le Conseil fédéral en vertu de l’art. 11, al. 2, let. c, s’applique à la part d’impôt par kilogramme et au taux minimal, mais non à la part d’impôt fixée en fonction du prix de vente au détail.
 - 2\. Le taux d’imposition global par kilogramme, résultant de l’élément spécifique relatif au poids en kilogrammes et de l’élément proportionnel relatif au prix de vente au détail, doit être arrondi aux cinq centimes supérieurs. Les fractions de centime ne comptent pas.
+- [tab]
 
-Annexe IV*[^t-5]*
+Annexe IV[^t-5]
 
 (art. 11, al. 1)
 
@@ -989,6 +994,6 @@ L’impôt se monte:
 
 à 6 % du prix de vente au détail.
 
-Annexe V*[^t-6]*
+Annexe V[^t-6]
 
 [^t-6]: Abrogée par le ch. II al. 2 de la LF du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).

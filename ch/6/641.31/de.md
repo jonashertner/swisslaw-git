@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 21. März 1969 über die Tabakbesteuerung (Tabaksteuerg
 short: TStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Tabakbesteuerung
 
-(Tabaksteuergesetz, TStG)**[^t-1]**
+(Tabaksteuergesetz, TStG)[^t-1]
 
-vom 21. März 1969 (Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
+vom 21. März 1969 (Stand am 1. September 2023)
 
 [^t-1]: Eingefügt durch Anhang Ziff. 8 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -31,7 +31,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [BBl 2016 5153](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
 [^ingress-3]: [BBl 1968 II 345](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)
 
-## 1. Abschnitt: Allgemeine Bestimmungen****
+## 1. Abschnitt: Allgemeine Bestimmungen
 
 [^sec1-1]
 
@@ -43,13 +43,13 @@ beschliesst:
 
 [^1-1]
 
-<sup>1</sup> Der Bund erhebt eine Steuer auf Tabakfabrikaten ...[^1-2] sowie auf Erzeugnissen, die wie Tabak verwendet werden (Ersatzprodukte).
+<sup>1</sup> Der Bund erhebt eine Steuer auf Tabakfabrikaten …[^1-2] sowie auf Erzeugnissen, die wie Tabak verwendet werden (Ersatzprodukte).
 
 <sup>2</sup> Die in diesem Gesetz verwendeten Begriffe Tabakfabrikate und Ersatzprodukte werden in der Tabaksteuerverordnung vom 15. Dezember 1969[^1-3] näher festgelegt.
 
 [^1-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. März 1996 ([AS 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [BBl 1995 I 89](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 [^1-2]: Ausdruck gestrichen durch Ziff. I des BG vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Die Anpassung wurde im ganzen Erlass berücksichtigt.
-[^1-3]: [AS **1****969** 1274; **1974** 1021 Art. 4 Abs. 1; **1987** 2474; **1993** 331 Ziff. I 5; **1996** 590; **1997** 376; **2003** 2465; **2007** 1469 Anhang 4 Ziff. 25; **2008** 3159 Ziff. II. [AS 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 43]. Siehe heute: die Tabaksteuerverordnung vom 14. Okt. 2009 ([SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^1-3]: [[AS 1969 1274](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289); [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)Art. 4 Abs. 1; **1987** 2474; [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)Ziff. I 5; [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590); [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376); [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 25; [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419)Ziff. II. [AS 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 43]. Siehe heute: die Tabaksteuerverordnung vom 14. Okt. 2009 ([SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
 
 ### II. Behörden
 
@@ -67,7 +67,7 @@ Das Bundesamt für Zoll und Grenzsicherheit (BAZG) erlässt hinsichtlich der Abg
 
 Soweit dieses Gesetz und die gestützt darauf erlassenen Verordnungen nicht eigene Bestimmungen enthalten, finden auf die Tabaksteuer die für die Zölle geltenden Vorschriften entsprechend Anwendung, einschliesslich jener über den Bezug besonderer Gebühren bei der Handhabung der Zollgesetzgebung.
 
-## 2. Abschnitt: Gegenstand der Steuer und Steuerpflicht****
+## 2. Abschnitt: Gegenstand der Steuer und Steuerpflicht
 
 [^sec2-1]
 
@@ -82,10 +82,10 @@ Soweit dieses Gesetz und die gestützt darauf erlassenen Verordnungen nicht eige
 Der Steuer unterliegen:
 
 - a. die im Inland gewerbsmässig hergestellten, verbrauchsfertigen Tabakfabrikate sowie die eingeführten Tabakfabrikate;
-- b. ...[^4-1]
+- b. …[^4-1]
 - c.[^4-2] Ersatzprodukte.
 
-<sup>2</sup> ...[^4-3]
+<sup>2</sup> …[^4-3]
 
 <sup>3</sup> Als verbrauchsfertig gelten Tabakfabrikate, die bis zum Verbrauch keinem weiteren gewerbsmässigen Produktionsvorgang unterliegen.
 
@@ -104,7 +104,7 @@ Der Steuer unterliegen:
 Von der Steuer sind befreit:
 
 - a.[^5-1] zollfreie Waren nach Artikel 8 ZG[^5-2];
-- b. ...[^5-3]
+- b. …[^5-3]
 - c. Tabakfabrikate, die nicht für den Verbrauch bestimmt sind;
 - d.[^5-4] Tabakfabrikate zur Linderung von Asthmabeschwerden, wenn sie als Heilmittel registriert sind.
 
@@ -153,7 +153,7 @@ Mit dem Steuerpflichtigen oder Steuernachfolger haften solidarisch:
 
 <sup>2</sup> Die Haftung der in Absatz 1 bezeichneten Personen entfällt, soweit sie nachweisen, dass sie alles ihnen Zumutbare zur Feststellung und Erfüllung der Steuerforderung getan haben.
 
-## 3. Abschnitt: Entstehung und Berechnung der Steuer****
+## 3. Abschnitt: Entstehung und Berechnung der Steuer
 
 [^sec3-1]
 
@@ -225,7 +225,7 @@ Der Bundesrat kann zur Mitfinanzierung der Beiträge des Bundes an die Alters-, 
 
 [^12-1]: Aufgehoben durch Ziff. I des BG vom 24. März 1995, mit Wirkung seit 1. März 1996 ([AS 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [BBl 1995 I 89](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
-## 4. Abschnitt: Steuererhebung und Steuerrückerstattung****
+## 4. Abschnitt: Steuererhebung und Steuerrückerstattung
 
 [^sec4-1]
 
@@ -268,7 +268,7 @@ Durch einen bei der Oberzolldirektion zu hinterlegenden Revers haben sich zu ver
 
 - a. der Hersteller von Tabakfabrikaten:
 - das von ihm eingeführte oder im Inland erworbene Rohmaterial sowie die von ihm hergestellten oder aus der inländischen Produktion erworbenen, nicht verbrauchsfertigen Tabakfabrikate im eigenen Betrieb weiterzuverarbeiten oder nur an im Register eingetragene Firmen abzugeben;
-- b. der Importeur und Händler von Rohmaterial zur gewerbsmässigen Herstellung von Tabakfabrikaten ...[^14-1] :
+- b. der Importeur und Händler von Rohmaterial zur gewerbsmässigen Herstellung von Tabakfabrikaten …[^14-1] :
 - das Rohmaterial nur an im Register eingetragene Firmen abzugeben;
 - c. der Hersteller von Tabakfabrikaten, der Importeur von Tabakfabrikaten zum Weiterverkauf sowie der Importeur und Händler von Rohmaterial:
 - die durch dieses Gesetz und die Tabaksteuerverordnung vom 15. Dezember 1969[^14-2] aufgestellten Handelsvorschriften zu befolgen.
@@ -313,7 +313,7 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 - b. Feinschnitt-Tabak: höchstens 250 g Inhalt;
 - c. anderer Schnitttabak als Feinschnitt: höchstens 1000 g Inhalt.
 
-<sup>3</sup> ...[^16-3]
+<sup>3</sup> …[^16-3]
 
 <sup>4</sup> Um die Durchführung dieses Gesetzes zu sichern, können in der Tabaksteuerverordnung vom 15. Dezember 1969[^16-4] den Herstellern und Wiederverkäufern von Tabakfabrikaten weitere Verhaltenspflichten auferlegt werden.
 
@@ -354,10 +354,14 @@ Für die hiernach genannten verbrauchsfertigen Tabakfabrikate sind nur folgende 
 
 <sup>3</sup> Die Steuer auf den eingeführten Tabakfabrikaten wird von den Zollstellen auf Grund der ihnen einzureichenden Zollanmeldungen festgesetzt. Die Form der Zollanmeldung richtet sich nach Artikel 28 ZG[^18-3].[^18-4]
 
+<sup>4</sup> Die Festsetzung des Steuerbetrags kann als automatisierte Einzelentscheidung nach Artikel 21 des Datenschutzgesetzes vom 25. September 2020[^18-5] erfolgen.[^18-6]
+
 [^18-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^18-2]: Eingefügt durch Ziff. I 5 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 [^18-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^18-4]: Fassung gemäss Anhang Ziff. 8 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^18-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-6]: Eingefügt durch Anhang 1 Ziff. II 50 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Fälligkeit
 
@@ -471,7 +475,7 @@ Die Steuer auf im Inland hergestellten und auf eingeführten Tabakfabrikaten wir
 [^25-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^25-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## 5. Abschnitt: Zugelassene Steuerlager****
+## 5. Abschnitt: Zugelassene Steuerlager
 
 [^sec5-1]
 
@@ -564,7 +568,7 @@ Die Sicherheitsleistung endet, wenn:
 
 [^26e-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
-## 6. Abschnitt: Inlandtabak****
+## 6. Abschnitt: Inlandtabak
 
 [^sec6-1]
 
@@ -615,7 +619,7 @@ Der Bundesrat kann:
 
 Für die Durchführung der in diesem Abschnitt vorgesehenen Massnahmen kann der Bundesrat die Kantone und Organisationen der Wirtschaft zur Mitwirkung heranziehen. Die zur Mitwirkung herangezogenen Stellen und Personen unterstehen in Bezug auf ihre Schweigepflicht den für die Bundesbeamten geltenden Vorschriften.
 
-## 7. Abschnitt: Nachforderung von zu Unrecht zurückerstatteten oder erlassenen Beträgen****
+## 7. Abschnitt: Nachforderung von zu Unrecht zurückerstatteten oder erlassenen Beträgen
 
 [^sec7-1]
 
@@ -633,7 +637,7 @@ Für die Durchführung der in diesem Abschnitt vorgesehenen Massnahmen kann der 
 
 [^30-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
-## 8. Abschnitt: Rechtsmittel****
+## 8. Abschnitt: Rechtsmittel
 
 [^sec8-1]
 
@@ -674,7 +678,7 @@ Für die Durchführung der in diesem Abschnitt vorgesehenen Massnahmen kann der 
 
 [^33-1]: Aufgehoben durch Anhang Ziff. 53 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## 9. Abschnitt: Strafbestimmungen****
+## 9. Abschnitt: Strafbestimmungen
 
 [^sec9-1]
 
@@ -682,7 +686,7 @@ Für die Durchführung der in diesem Abschnitt vorgesehenen Massnahmen kann der 
 
 ### I. Widerhandlungen
 
-### 1. ...
+### 1. …
 
 #### Art. 34
 
@@ -736,7 +740,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer die gesetzmässige Durchführ
 
 <sup>4</sup> Bei einer Widerhandlung im Sinne von Absatz 1 Buchstabe e bleibt die Strafverfolgung nach Artikel 285 des Strafgesetzbuches[^36-4] vorbehalten.
 
-[^36-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); BBl **200****8** 533).
+[^36-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^36-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^36-3]: Eingefügt durch Ziff. I 5 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 [^36-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -803,7 +807,7 @@ Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermi
 
 [^41-1]
 
-[^41-1]: Aufgehoben durch Ziff. 9 des Anhangs zum VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); BBl **197****1** I 993).
+[^41-1]: Aufgehoben durch Ziff. 9 des Anhangs zum VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### 7. Zusammentreffen mehrerer strafbarer Handlungen
 
@@ -857,7 +861,7 @@ Der Bussenertrag fällt in die Bundeskasse.
 
 [^44bis-1]: Eingefügt durch Ziff. I der V vom 24. März 1995, in Kraft seit 1. März 1996 ([AS 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [BBl 1995 I 89](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
-## 10. Abschnitt: Schlussbestimmungen****
+## 10. Abschnitt: Schlussbestimmungen
 
 [^sec10-1]
 
@@ -886,7 +890,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind aufgehoben:
 [^46-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^46-2]: [AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277)
 
-### III. ...
+### III. …
 
 #### Art. 47
 
@@ -904,7 +908,7 @@ Datum des Inkrafttretens: 1. Januar 1970[^48-1]
 
 [^48-1]: BRB vom 7. Aug. 1969
 
-## Übergangsbestimmungen zur Änderung vom 14. November 2012****
+## Übergangsbestimmungen zur Änderung vom 14. November 2012
 
 [^u1-1]
 
@@ -917,7 +921,7 @@ Datum des Inkrafttretens: 1. Januar 1970[^48-1]
 - a. für Mengen, die die Verkäufe im Inland und die Einfuhren der Vergleichsperiode 2011/12, reduziert um 5 Prozent, nicht übersteigen: nach dem bis zum 31. März 2013 geltenden Steuertarif;
 - b. für Mehrmengen: nach dem neuen Steuertarif.
 
-Anhang I*[^t-2]*
+Anhang I[^t-2]
 
 (Art. 11 Abs. 1)
 
@@ -932,7 +936,7 @@ Anmerkungen
 - 1\. Die dem Bundesrat nach Artikel 11 Absatz 2 Buchstabe a zustehende Befugnis, die Steuersätze um 80 Prozent zu erhöhen, bezieht sich auf die nach der Stückzahl bemessene Steuer sowie auf die Mindeststeuer je Stück, nicht aber auf den nach dem Kleinhandelspreis bemessenen Steueranteil.
 - 2\. Der Gesamtsteuersatz je 1000 Stück, der sich aus dem nach der Stückzahl und dem nach dem Kleinhandelspreis bemessenen Steueranteil ergibt, ist auf die nächsten 5 Rappen aufzurunden. Bruchteile von Rappen zählen nicht.
 
-Anhang II*[^t-3]*
+Anhang II[^t-3]
 
 (Art. 11 Abs. 1)
 
@@ -947,7 +951,7 @@ Anmerkungen
 - 1\. Die dem Bundesrat nach Artikel 11 Absatz 2 Buchstabe b zustehende Befugnis, die Steuersätze um 300 Prozent zu erhöhen, bezieht sich auf die nach der Stückzahl bemessene Steuer, nicht aber auf den nach dem Kleinhandelspreis bemessenen Steueranteil.
 - 2\. Der Gesamtsteuersatz je 1000 Stück, der sich aus dem nach der Stückzahl und dem nach dem Kleinhandelspreis bemessenen Steueranteil ergibt, ist auf die nächsten 5 Rappen aufzurunden. Bruchteile von Rappen zählen nicht.
 
-Anhang III*[^t-4]*
+Anhang III[^t-4]
 
 (Art. 11 Abs. 1)
 
@@ -962,7 +966,7 @@ Anmerkungen
 - 1\. Die dem Bundesrat nach Artikel 11 Absatz 2 Buchstabe c zustehende Befugnis, die Steuersätze um 80 Prozent zu erhöhen, bezieht sich auf die nach Kilogramm bemessene Steuer sowie auf die Mindeststeuer je Kilogramm, nicht aber auf den nach dem Kleinhandelspreis bemessenen Steueranteil.
 - 2\. Der Gesamtsteuersatz je Kilogramm, der sich aus dem nach Kilogramm und dem nach dem Kleinhandelspreis bemessenen Steueranteil ergibt, ist auf die nächsten 5 Rappen aufzurunden. Bruchteile von Rappen zählen nicht.
 
-Anhang IV*[^t-5]*
+Anhang IV[^t-5]
 
 (Art. 11 Abs. 1)
 
@@ -979,6 +983,6 @@ Die Steuer beträgt:
 - [tab]
 - [tab]
 
-Anhang V*[^t-6]*
+Anhang V[^t-6]
 
 [^t-6]: Aufgehoben durch Ziff. II Abs. 2 des BG vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
