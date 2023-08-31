@@ -3,11 +3,11 @@ sr: "431.012.1"
 title: "Ordinanza del 30 giugno 1993 sull'esecuzione di rilevazioni statistiche federali (Ordinanza sulle rilevazioni statistiche)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/it"
 
 (Ordinanza sulle rilevazioni statistiche)[^t-1]
 
-del 30 giugno 1993 (Stato 23 gennaio 2023)
+del 30 giugno 1993 (Stato 1° settembre 2023)
 
 [^t-1]: Introdotto dal n. I dell’O del 16 gen. 2008, in vigore dal 10 feb. 2008 ([RU 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -101,15 +101,17 @@ Con l’accordo degli organi di rilevazione e conformemente alle loro direttive,
 
 <sup>2</sup>
 
-Diritti e doveri di questi istituti e organizzazioni sono disciplinati in contratti speciali. Riguardo all’utilizzazione di dati con riferimento alle persone, gli organi di rilevazione impegnano gli istituti e le organizzazioni segnatamente a:
+Diritti e doveri di questi istituti e organizzazioni sono disciplinati in contratti speciali. Riguardo all’utilizzazione di dati personali e di dati di persone giuridiche, gli organi di rilevazione impegnano gli istituti e le organizzazioni segnatamente a:[^5-1]
 
 - a. utilizzare i dati loro comunicati o da essi rilevati nel quadro del loro incarico unicamente per l’esecuzione dell’incarico stesso;
 - b. non abbinare la rilevazione eseguita per conto dell’organo di rilevazione ad altre rilevazioni;
 - c. al termine dell’incarico, restituire agli organi di rilevazione tutti i dati e cancellare i dati memorizzati elettronicamente.
 
-<sup>3</sup> Gli organi di rilevazione si accertano che le organizzazioni e gli istituti di sondaggio privati abbiano preso le necessarie misure tecniche e organizzative per l’elaborazione di questi dati conformemente all’ordinanza del 14 giugno 1993[^5-1] sulla protezione dei dati riguardo al trattamento dei dati affidato a terzi.
+<sup>3</sup> Gli organi di rilevazione si accertano che le organizzazioni e gli istituti di sondaggio privati abbiano preso le necessarie misure tecniche e organizzative per l’elaborazione di questi dati conformemente all’ordinanza del 31 agosto 2022[^5-2] sulla protezione dei dati (OPDa). Le disposizioni dell’OPDa si applicano per analogia ai dati delle persone giuridiche.[^5-3]
 
-[^5-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-1]: Nuovo testo giusta l’all. 2 n. II 52 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^5-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-3]: Nuovo testo giusta l’all. 2 n. II 52 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
 
@@ -400,9 +402,11 @@ Qualora la legge preveda la trasmissione di dati a servizi di ricerca e statisti
 
 **Distruzione dei dati collegati**
 
-<sup>1</sup> Se contengono dati degni di particolare protezione o profili della personalità, al termine dei lavori di elaborazione statistica i dati collegati devono essere distrutti.
+<sup>1</sup> Se contengono dati degni di particolare protezione o dal collegamento risultano le caratteristiche essenziali di una persona fisica o giuridica, al termine dei lavori di elaborazione statistica i dati collegati devono essere distrutti.[^13m-1]
 
 <sup>2</sup> Gli altri dati collegati possono essere riutilizzati per lavori statistici.
+
+[^13m-1]: Nuovo testo giusta l’all. 2 n. II 52 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13n
 
@@ -436,7 +440,7 @@ Allegato[^t-2]
 
 ## Elenco delle rilevazioni statistiche
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009 ([RU 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Aggiornato dal n. II dell’O del 18 ago. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), dai n. I delle O del 14 apr. 2010 ([RU 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), del 24 ago. 2011 ([RU 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), del 12 ott. 2011 ([RU 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), dal n. II dell’O del 23 mag. 2012 ([RU 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), dai n. I delle O del 29 ago. 2012 ([RU 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), dal n. II dell’O del 18 dic. 2013 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), dai n. I delle O del 29 ott. 2014 ([RU 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), del 28 ott. 2015 ([RU 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), del 16 nov. 2016 ([RU 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), dall’all. 2 n. II 1 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), dall’all. 2 n. 1 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), dal n. I delle O del 7 nov. 2018 ([RU 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), del 13 dic. 2019 ([RU 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), dall’all. n. II 13 dell’O del 17 nov. 2021 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) e dall’all. 10 n. II 17 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009 ([RU 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Aggiornato dal n. II dell’O del 18 ago. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), dai n. I delle O del 14 apr. 2010 ([RU 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), del 24 ago. 2011 ([RU 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), del 12 ott. 2011 ([RU 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), dal n. II dell’O del 23 mag. 2012 ([RU 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), dai n. I delle O del 29 ago. 2012 ([RU 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), dal n. II dell’O del 18 dic. 2013 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), dai n. I delle O del 29 ott. 2014 ([RU 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), del 28 ott. 2015 ([RU 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), del 16 nov. 2016 ([RU 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), dall’all. 2 n. II 1 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), dall’all. 2 n. 1 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), dal n. I delle O del 7 nov. 2018 ([RU 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), del 13 dic. 2019 ([RU 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), dall’all. n. II 13 dell’O del 17 nov. 2021 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)), dall’all. 10 n. II 17 dell’O del 19 ott. 2022 sul casellario giudiziale ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)) e dall’all. 2 n. II 52 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. *Abrogata*
 
@@ -1335,7 +1339,7 @@ Allegato[^t-2]
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Allievi, studenti, classi, contratti di apprendistato (solo professioni disciplinate dalla legge federale del 13 dicembre 2002 sulla formazione professionale, LFPr; RS *412.10*), caratteristiche scolastiche e socio demografiche; numero AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione di dati amministrativi dei Cantoni e degli istituti di formazione; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS, borse e prestiti di studio)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione di dati amministrativi dei Cantoni e degli istituti di formazione; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, banca dati svizzera degli studenti delle scuole universitarie SIUS, borse e prestiti di studio)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Cantoni, istituti di formazione, associazioni</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -1349,7 +1353,7 @@ Allegato[^t-2]
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Diplomi del grado secondario II (maturità liceali e professionali, maturità specializzate, diplomi di formazione professionale di base, diplomi di una scuola media di commercio o di una scuola specializzata), diplomi di formazione professionale superiore (diplomi di scuole professionali superiori, esami di professione, esami professionali superiori, diplomi simili senza riconoscimento federale), caratteristiche sociodemografiche dei diplomati e dei candidati nonché indicazioni sui contributi federali per corsi di preparazione agli esami federali; numero AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione di dati amministrativi dei Cantoni e degli istituti di formazione, nonché della Confederazione; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione di dati amministrativi dei Cantoni e degli istituti di formazione, nonché della Confederazione; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, banca dati svizzera degli studenti delle scuole universitarie SIUS)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Cantoni, istituti di formazione, associazioni, Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) per la Commissione svizzera di maturità (CSM), per la Commissione federale di maturità professionale (CFMP), per gli esami federali (esami di professione ed esami professionali superiori) nonché per il sistema d’informazione per i contributi alle persone che hanno seguito i corsi di preparazione e per i relativi fornitori</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -1363,7 +1367,7 @@ Allegato[^t-2]
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Personale insegnante, compresa la direzione degli istituti e il personale specializzato in pedagogia speciale (caratteristiche demografiche, statuto, formazione) e le loro prestazioni d’insegnamento (senza le scuole universitarie); numero AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi dei Cantoni e degli istituti di formazione: collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (personale insegnante, studenti delle scuole universitarie in Svizzera SIUS e personale delle scuole universitarie in Svizzera)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi dei Cantoni e degli istituti di formazione: collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (personale insegnante, banca dati svizzera degli studenti delle scuole universitarie SIUS e banca dati svizzera del personale delle scuole universitarie)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Cantoni, istituti di formazione</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -1377,7 +1381,7 @@ Allegato[^t-2]
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Corso di studio, indirizzo ed esami (ca. 20 variabili) di tutte le persone immatricolate nelle scuole universitarie svizzere nonché esami a conclusione di studi universitari sostenuti davanti a un’istanza extrauniversitaria; numero AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi delle scuole universitarie e delle istanze di esame; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi delle scuole universitarie e delle istanze di esame; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, banca dati svizzera degli studenti delle scuole universitarie SIUS)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Scuole universitarie svizzere, organismi d’esame universitari ed extrauniversitari, Ufficio federale della sanità pubblica (UFSP)</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -1391,7 +1395,7 @@ Allegato[^t-2]
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Studio, ricerca di un lavoro al termine degli studi, svolgimento dell’attività lavorativa sotto il profilo particolare della situazione professionale un anno e cinque anni dopo il conseguimento del diploma, perfezionamento e iter professionale; numero AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, panel, collegamento con i dati degli studenti delle scuole universitarie in Svizzera SIUS</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, panel, collegamento con i dati della banca dati svizzera degli studenti delle scuole universitarie SIUS</td></tr>
 <tr><td>Fonte dei dati:</td><td>Diplomati delle scuole universitarie svizzere</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
 <tr><td>Data della rilevazione:</td><td>Prima inchiesta: nell’anno successivo al conseguimento del diploma. Seconda inchiesta: cinque anni dopo il conseguimento del diploma</td></tr>
@@ -1405,7 +1409,7 @@ Allegato[^t-2]
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Studi attuali, monte ore, attività professionale, situazione finanziaria, situazione abitativa, mobilità, salute, dati sociodemografici; numero AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di studenti, collegamento con i dati degli studenti delle scuole universitarie in Svizzera SIUS</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di studenti, collegamento con i dati della banca dati svizzera degli studenti delle scuole universitarie SIUS</td></tr>
 <tr><td>Fonte dei dati:</td><td>Studenti delle scuole universitarie</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -1428,12 +1432,12 @@ Allegato[^t-2]
 <tr><td>Disposizioni speciali:</td><td>I Cantoni provvedono all’esecuzione della rilevazione nel loro territorio.</td></tr>
 </table>
 
-### 76. Personale delle scuole universitarie in Svizzera
+### 76. Banca dati svizzera del personale delle scuole universitarie
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Personale delle scuole universitarie (caratteristiche demografiche, statuto, formazione) e loro prestazioni (insegnamento, ricerca, ecc.); numero AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi delle scuole universitarie; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP) e rilevazioni nel campo della formazione (personale degli istituti scolastici, studenti delle scuole universitarie in Svizzera SIUS e personale delle scuole universitarie in Svizzera)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi delle scuole universitarie; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP) e rilevazioni nel campo della formazione (personale degli istituti scolastici, banca dati svizzera degli studenti delle scuole universitarie SIUS e banca dati svizzera del personale delle scuole universitarie)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Scuole universitarie svizzere</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -2791,7 +2795,7 @@ Allegato[^t-2]
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Fusione dei dati personali pseudonimizzati nel campo della formazione con i dati sulle persone e sulle economie domestiche provenienti dal censimento della popolazione basato sui registri nonché dal registro delle assicurazioni sociali, per rilevare i percorsi all’interno del sistema di formazione e tra quest’ultimo e il mercato del lavoro</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Elaborazione secondaria; collegamento di dati provenienti dalle seguenti fonti: persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS, borse di studio e prestiti, personale degli istituti scolastici, personale delle scuole universitarie in Svizzera, statistica della popolazione e delle economie domestiche (STATPOP), statistica del movimento naturale della popolazione,rilevazione strutturale, registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO]), statistica strutturale delle imprese (STATENT)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Elaborazione secondaria; collegamento di dati provenienti dalle seguenti fonti: persone in formazione, titoli di studio, banca dati svizzera degli studenti delle scuole universitarie SIUS, borse di studio e prestiti, personale degli istituti scolastici, banca dati svizzera del personale delle scuole universitarie, statistica della popolazione e delle economie domestiche (STATPOP), statistica del movimento naturale della popolazione,rilevazione strutturale, registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO]), statistica strutturale delle imprese (STATENT)</td></tr>
 <tr><td>Fonte dei dati:</td><td>UCC, SECO</td></tr>
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -2822,7 +2826,7 @@ Allegato[^t-2]
 <tr><td>Organo di rilevazione:</td><td>Servizio nazionale di registrazione dei tumori</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Dati sull’incidenza e sulla prevalenza delle malattie tumorali</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale delle malattie tumorali tramite i registri cantonali dei tumori e il registro dei tumori pediatrici</td></tr>
-<tr><td>Fonte dei dati:</td><td>Persone e istituzioni soggette all’obbligo di notifica secondo l’articolo 3 della legge federale del 18 marzo 2016[^annexu1-lvlu1-lvl189-1] sulla registrazione delle malattie tumorali</td></tr>
+<tr><td>Fonte dei dati:</td><td>Persone e istituzioni soggette all’obbligo di notifica secondo l’articolo 3 della legge federale del 18 marzo 2016[^annexu1-lvlu1-lvl188-1] sulla registrazione delle malattie tumorali</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>Dal 2020</td></tr>
 <tr><td>Periodicità:</td><td>Permanente</td></tr>
@@ -2830,7 +2834,7 @@ Allegato[^t-2]
 <tr><td>Disposizioni speciali:</td><td>È effettuato un confronto con i dati della statistica delle cause di morte (art. 22 cpv. 2 e 3 della LF sulla registrazione delle malattie tumorali) I dati rilevati prima del 2020 possono essere analizzati per rapporti statistici.</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl189-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^annexu1-lvlu1-lvl188-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
 
 ### 188. Statistica della consulenza e del trattamento delle dipendenze in Svizzera (act-info)
 
@@ -3007,7 +3011,7 @@ Allegato[^t-2]
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Formazione, soddisfazione per la formazione, finanziamento della formazione, ricerca di un impiego al termine della formazione, iter professionale considerando in particolare la situazione a uno e a cinque anni dal termine della formazione / dal conseguimento del diploma, formazione continua e andamento della carriera professionale nel corso degli anni, dati sociodemografici, numero AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, panel, collegamento con i dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle aziende e degli stabilimenti (RIS) e varie rilevazioni nell’ambito della formazione (persone in formazione, diplomate, file SIUS degli studenti delle scuole universitarie in Svizzera, borse e prestiti), registro delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, panel, collegamento con i dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle aziende e degli stabilimenti (RIS) e varie rilevazioni nell’ambito della formazione (persone in formazione, diplomate, banca dati svizzera degli studenti delle scuole universitarie SIUS, borse e prestiti), registro delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone candidate agli esami federali e delle scuole specializzate superiori (SSS) e persone diplomate</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
 <tr><td>Data della rilevazione:</td><td>Prima rilevazione: un anno dopo il termine della formazione Seconda rilevazione: cinque anni dopo il termine della formazione</td></tr>
@@ -3323,7 +3327,7 @@ Entrata in vigore
 - 73\. Rilevazione tra le persone diplomate delle scuole universitarie
 - 74\. Indagine sulla situazione socio-economica degli studenti
 - 75\. Borse e prestiti di studio
-- 76\. Personale delle scuole universitarie in Svizzera
+- 76\. Banca dati svizzera del personale delle scuole universitarie
 - 77\. Statistica delle finanze delle scuole universitarie
 - 78\. Rilevazione sulla ricerca e lo sviluppo nell’Amministrazione federale
 - 79\. Rilevazione sulla ricerca e lo sviluppo nelle imprese private

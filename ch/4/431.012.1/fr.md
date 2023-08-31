@@ -3,11 +3,11 @@ sr: "431.012.1"
 title: "Ordonnance du 30 juin 1993 concernant l'exécution des relevés statistiques fédéraux (Ordonnance sur les relevés statistiques)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/fr"
 
 (Ordonnance sur les relevés statistiques)[^t-1]
 
-du 30 juin 1993 (État le 23 janvier 2023)
+du 30 juin 1993 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Introduit par le ch. I de l’O du 16 janv. 2008, en vigueur depuis le 10 fév. 2008 ([RO 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -99,15 +99,17 @@ Les services cantonaux ou communaux intéressés peuvent élargir la portée des
 
 <sup>2</sup>
 
-Les organes responsables règlent les droits et les obligations de ces organismes et de ces instituts dans des contrats particuliers. Pour ce qui est des données se référant à des personnes, ils les obligent notamment:
+Les organes responsables règlent les droits et les obligations de ces organismes et de ces instituts dans des contrats particuliers. Pour ce qui est des données personnelles et des données des personnes morales, ils les obligent notamment:[^5-1]
 
 - a. à n’utiliser les données qui leur sont communiquées ou qu’ils collectent dans le cadre de leur mandat que pour exécuter celui-ci;
 - b. à ne pas lier à d’autres relevés le relevé qu’ils exécutent pour le compte de l’organe responsable;
 - c. à rendre toutes les données à l’organe responsable, une fois le mandat exécuté, et à effacer celles qui sont enregistrées sur des supports électroniques.
 
-<sup>3</sup> Les organes responsables vérifient que les organismes et les instituts de sondage privés ont pris toutes les mesures d’organisation nécessaires, pour traiter les données conformément à l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^5-1].
+<sup>3</sup> Les organes responsables vérifient que les organismes et les instituts de sondage privés ont pris toutes les mesures techniques et organisationnelles nécessaires pour traiter les données conformément à l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^5-2]. L’OPDo s’applique par analogie pour les personnes morales.[^5-3]
 
-[^5-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-1]: Nouvelle teneur selon l’annexe 2 ch. II 52 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^5-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-3]: Nouvelle teneur selon l’annexe 2 ch. II 52 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
 
@@ -398,9 +400,11 @@ Lorsque la loi prévoit que les données peuvent être communiquées à des fins
 
 **Destruction des données appariées**
 
-<sup>1</sup> Les données appariées sont détruites après la fin de leur exploitation statistique si elles contiennent des données sensibles ou des profils de la personnalité.
+<sup>1</sup> Les données appariées sont détruites après la fin de leur exploitation statistique si elles contiennent des données sensibles ou si elles permettent d’établir les caractéristiques essentielles d’une personne physique ou morale.[^13m-1]
 
 <sup>2</sup> Les autres données appariées peuvent être réutilisées pour des travaux statistiques ultérieurs.
+
+[^13m-1]: Nouvelle teneur selon l’annexe 2 ch. II 52 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13n
 
@@ -434,7 +438,7 @@ Annexe[^t-2]
 
 ## Liste des statistiques
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009 ([RO 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Mise à jour par le ch. II de l’O du 18 août 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), le ch. I des O du 14 avr. 2010, ([RO 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), du 24 août 2011 ([RO 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), du 12 oct. 2011 ([RO 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), le ch. I de l’O du 29 août 2012 ([RO 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), le ch. II de l’O du 18 déc. 2013 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), le ch. I des O du 29 oct. 2014 ([RO 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), du 28 oct. 2015 ([RO 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), du 16 nov. 2016 ([RO 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), l’annexe 2 ch. II 1 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), l’annexe 2 ch. 1 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), le ch. I des O du 7 nov. 2018 ([RO 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), du 13 déc. 2019 ([RO 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), du 27 oct. 2021 ([RO 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), l’annexe ch. II 13 de l’O du 17 nov. 2021 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) et l’annexe 10 ch. II 17 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009 ([RO 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Mise à jour par le ch. II de l’O du 18 août 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), le ch. I des O du 14 avr. 2010, ([RO 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), du 24 août 2011 ([RO 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), du 12 oct. 2011 ([RO 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), le ch. I de l’O du 29 août 2012 ([RO 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), le ch. II de l’O du 18 déc. 2013 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), le ch. I des O du 29 oct. 2014 ([RO 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), du 28 oct. 2015 ([RO 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), du 16 nov. 2016 ([RO 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), l’annexe 2 ch. II 1 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), l’annexe 2 ch. 1 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), le ch. I des O du 7 nov. 2018 ([RO 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), du 13 déc. 2019 ([RO 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), du 27 oct. 2021 ([RO 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), l’annexe ch. II 13 de l’O du 17 nov. 2021 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)), l’annexe 10 ch. II 17 de l’O du 19 oct. 2022 sur le casier judiciaire ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)) et l’annexe 2 ch. II 52 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. *Abrogée*
 
@@ -1332,7 +1336,7 @@ Annexe[^t-2]
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>élèves, étudiants, classes, contrats d’apprentissage (seulement pour les professions réglementées par la LF du 13 décembre 2002 sur la formation professionnelle, LFPr; RS *412.10*), caractères socio-démographiques, caractéristiques de la formation scolaire; numéro AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des établissements de formation; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des établissements de formation; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, banque de données suisse des étudiants du SIUS, bourses et prêts)</td></tr>
 <tr><td>Milieux interrogés:</td><td>cantons, établissements de formation, associations</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -1346,7 +1350,7 @@ Annexe[^t-2]
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>examens finals du degré secondaire II (maturités gymnasiales, maturités professionnelles, maturités spécialisées, examens finals dans le domaine de la formation professionnelle initiale, examens finals des écoles supérieures de commerce et des écoles de culture générale) et examens finals dans le domaine de la formation professionnelle supérieure (examens finals des écoles supérieures, examens professionnels et examens professionnels supérieurs ainsi que les examens finals similaires sans reconnaissance fédérale), caractères socio-démographiques des candidats et des diplômés, indications sur les subsides fédéraux accordés pour les cours de préparation aux examens fédéraux; numéro AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons, des établissements de formation et de la Confédération; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons, des établissements de formation et de la Confédération; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, banque de données suisse des étudiants du SIUS)</td></tr>
 <tr><td>Milieux interrogés:</td><td>cantons, établissements de formation, associations, Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) pour la Commission suisse de maturité (CSM) et la Commission fédérale de maturité professionnelle (CFMP) ainsi que pour les examens fédéraux (examens professionnels et examens professionnels supérieurs) et pour le système d’information sur les subventions versées aux personnes ayant suivi des cours préparatoires ainsi que sur les prestataires de ces derniers</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -1360,7 +1364,7 @@ Annexe[^t-2]
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>personnel enseignant, y compris les membres de la direction des établissements et le personnel de la pédagogie spécialisée (caractéristiques démographiques, statut, formation) et prestations d’enseignement (sans les hautes écoles); numéro AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des établissements de formation; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnel des écoles, fichier suisse des étudiants du SIUS et fichier suisse du personnel des hautes écoles)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des établissements de formation; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnel des écoles, banque de données suisse des étudiants du SIUS et banque de données suisse du personnel des hautes écoles)</td></tr>
 <tr><td>Milieux interrogés:</td><td>cantons, établissements de formation</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -1369,12 +1373,12 @@ Annexe[^t-2]
 <tr><td>Dispositions particulières:</td><td>Les cantons sont responsables de la réalisation de l’enquête sur leur territoire.</td></tr>
 </table>
 
-### 72. Fichier suisse des étudiants du SIUS (Système d’information universitaire suisse)
+### 72. Banque de données suisse des étudiants du SIUS (Système d’information universitaire suisse)
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>études et examens (environ 20 variables) des personnes immatriculées dans une haute école suisse ou passant un examen sanctionnant les études universitaires devant un organe extra-universitaire; numéro AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des instances chargées des examens; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des instances chargées des examens; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, banque de données suisse des étudiants du SIUS)</td></tr>
 <tr><td>Milieux interrogés:</td><td>hautes écoles suisses, organes d’examen universitaires et extra-universitaires, Office fédéral de la santé publique (OFSP)</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -1389,7 +1393,7 @@ Annexe[^t-2]
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>études, recherche d’un emploi à la fin des études, parcours professionnel en considérant en particulier la situation un an et cinq ans après la fin des études, formation continue et évolution de la carrière professionnelle au cours des années; numéro AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, panel, appariement avec des données du fichier suisse des étudiants du SIUS</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, panel, appariement avec des données du banque de données suisse des étudiants du SIUS</td></tr>
 <tr><td>Milieux interrogés:</td><td>diplômés des hautes écoles suisses</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
 <tr><td>Date de l’enquête:</td><td>première enquête: dans l’année suivant la fin des études; deuxième enquête: cinq ans après la fin des études</td></tr>
@@ -1403,7 +1407,7 @@ Annexe[^t-2]
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>études actuelles, budget-temps, activités rémunérées, situation financière, logement, mobilité, santé, caractères socio-démographiques; numéro AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’étudiants, appariement avec des données du fichier suisse des étudiants du SIUS</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’étudiants, appariement avec des données du banque de données suisse des étudiants du SIUS</td></tr>
 <tr><td>Milieux interrogés:</td><td>étudiants des hautes écoles</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -1426,12 +1430,12 @@ Annexe[^t-2]
 <tr><td>Dispositions particulières:</td><td>Les cantons sont responsables de la réalisation de l’enquête sur leur territoire.</td></tr>
 </table>
 
-### 76. Fichier suisse du personnel des hautes écoles suisses
+### 76. Banque de données suisse du personnel des hautes écoles suisses
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>personnes employées dans les hautes écoles suisses (caractéristiques démographiques, statut, formation) et prestations qu’elles fournissent (enseignement, recherche, etc.); numéro AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des hautes écoles; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP) et divers relevés dans le domaine de la formation (personnel des écoles, fichier suisse des étudiants du SIUS et fichier suisse du personnel des hautes écoles)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des hautes écoles; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP) et divers relevés dans le domaine de la formation (personnel des écoles, banque de données suisse des étudiants du SIUS et banque de données suisse du personnel des hautes écoles)</td></tr>
 <tr><td>Milieux interrogés:</td><td>hautes écoles suisses</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -2789,7 +2793,7 @@ Annexe[^t-2]
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>combinaison de données personnelles pseudonymisées dans le domaine de la formation, avec des données sur les personnes et les ménages provenant du recensement de la population fondé sur les registres ainsi que sur les registres des assurances sociales afin de mesurer les parcours dans le système éducatif et les transitions entre le système de formation et le marché du travail</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>analyse secondaire; appariement de données provenant des sources suivantes: personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts, personnel des écoles, fichier suisse du personnel des hautes écoles, Statistique de la population et des ménages (STATPOP), statistique du mouvement naturel de la population, enquête structurelle, registres des assurances sociales (Centrale de compensation [CdC] et Secrétariat d’État à l’économie [SECO]), statistique structurelle des entreprises (STATENT)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>analyse secondaire; appariement de données provenant des sources suivantes: personnes en cours de formation, diplômes, banque de données suisse des étudiants du SIUS, bourses et prêts, personnel des écoles, banque de données suisse du personnel des hautes écoles, Statistique de la population et des ménages (STATPOP), statistique du mouvement naturel de la population, enquête structurelle, registres des assurances sociales (Centrale de compensation [CdC] et Secrétariat d’État à l’économie [SECO]), statistique structurelle des entreprises (STATENT)</td></tr>
 <tr><td>Milieux interrogés:</td><td>CdC, SECO</td></tr>
 <tr><td>Renseignement:</td><td>–</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -3005,7 +3009,7 @@ Annexe[^t-2]
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>formation, satisfaction avec la formation, financement de la formation, recherche d’un emploi à la fin de la formation, parcours professionnel en considérant en particulier la situation un an et cinq ans après la fin de la formation / l’obtention du diplôme, formation continue et évolution de la carrière professionnelle au cours des années, données socio-démographiques, numéro AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, panel, appariement avec les données des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts), registre des assurances sociales (Centrale de compensation [CdC])</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, panel, appariement avec les données des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, banque de données suisse des étudiants du SIUS, bourses et prêts), registre des assurances sociales (Centrale de compensation [CdC])</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes candidates et personnes diplômées des examens fédéraux et des écoles supérieures (ES)</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
 <tr><td>Date de l’enquête:</td><td>première enquête: une année après la fin de la formation deuxième enquête: cinq ans après la fin de la formation</td></tr>
@@ -3317,11 +3321,11 @@ Entrée en vigueur Art. 15
 - 69\. Personnes en cours de formation
 - 70\. Examens finals
 - 71\. Personnel des établissements de formation
-- 72\. Fichier suisse des étudiants du SIUS (Système d’information universitaire suisse)
+- 72\. Banque de données suisse des étudiants du SIUS (Système d’information universitaire suisse)
 - 73\. Enquête auprès des personnes diplômées des hautes écoles
 - 74\. Enquête sur la situation sociale et économique des étudiants
 - 75\. Bourses et prêts d’études
-- 76\. Fichier suisse du personnel des hautes écoles suisses
+- 76\. Banque de données suisse du personnel des hautes écoles suisses
 - 77\. Statistique des finances des hautes écoles
 - 78\. Relevé sur la recherche et le développement dans l’administration fédérale
 - 79\. Relevé sur la recherche et le développement dans les entreprises privées

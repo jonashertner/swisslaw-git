@@ -3,11 +3,11 @@ sr: "431.012.1"
 title: Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes (Statistikerhebungsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/de"
 
 (Statistikerhebungsverordnung)[^t-1]
 
-vom 30. Juni 1993 (Stand am 23. Januar 2023)
+vom 30. Juni 1993 (Stand am 1. September 2023)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 16. Jan. 2008, in Kraft seit 10. Febr. 2008 ([AS 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -99,15 +99,17 @@ Interessierte Amtsstellen von Kantonen und Gemeinden können mit dem Einverstän
 
 <sup>2</sup>
 
-Rechte und Pflichten dieser Institute und Organisationen werden in besonderen Verträgen geregelt. Bezüglich der Verwendung von personenbezogenen Daten verpflichten die Erhebungsorgane die Institute und Organisationen insbesondere:
+Rechte und Pflichten dieser Institute und Organisationen werden in besonderen Verträgen geregelt. Bezüglich der Verwendung von Personendaten sowie von Daten juristischer Personen verpflichten die Erhebungsorgane die Institute und Organisationen insbesondere:[^5-1]
 
 - a. die Daten, die ihnen mitgeteilt oder die von ihnen im Rahmen ihres Auftrages erhoben werden, einzig zur Ausführung des Auftrages zu verwenden;
 - b. die für das Erhebungsorgan durchgeführte Erhebung nicht mit anderen Erhebungen zu verbinden;
 - c. den Erhebungsorganen nach Beendigung des Auftrages alle Daten zurückzugeben und elektronisch gespeicherte Daten zu löschen.
 
-<sup>3</sup> Die Erhebungsorgane vergewissern sich, dass die privaten Befragungsinstitute und Organisationen die erforderlichen technischen und organisatorischen Massnahmen zur Bearbeitung dieser Daten gemäss der Datenschutzverordnung vom 14. Juni 1993[^5-1] über die Datenbearbeitung im Auftrag getroffen haben.
+<sup>3</sup> Die Erhebungsorgane vergewissern sich, dass die privaten Befragungsinstitute und Organisationen die erforderlichen technischen und organisatorischen Massnahmen zur Bearbeitung dieser Daten gemäss der Datenschutzverordnung vom 31. August 2022[^5-2] (DSV) getroffen haben. Für Daten juristischer Personen gelten die Bestimmungen der DSV sinngemäss.[^5-3]
 
-[^5-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-1]: Fassung gemäss Anhang 2 Ziff. II 52 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^5-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-3]: Fassung gemäss Anhang 2 Ziff. II 52 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
 
@@ -398,9 +400,11 @@ Soweit das Gesetz für nicht personenbezogene Zwecke wie Forschung, Planung und 
 
 **Vernichtung verknüpfter Daten**
 
-<sup>1</sup> Verknüpfte Daten sind nach Abschluss der statistischen Auswertungsarbeiten zu vernichten, wenn sie besonders schützenswerte Daten oder Persönlichkeitsprofile enthalten.
+<sup>1</sup> Verknüpfte Daten sind nach Abschluss der statistischen Auswertungsarbeiten zu vernichten, wenn sie besonders schützenswerte Daten enthalten oder wenn sich aus der Verknüpfung die wesentlichen Merkmale einer natürlichen oder juristischen Person ergeben.[^13m-1]
 
 <sup>2</sup> Die übrigen verknüpften Daten dürfen für statistische Arbeiten weiterverwendet werden.
+
+[^13m-1]: Fassung gemäss Anhang 2 Ziff. II 52 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13n
 
@@ -434,7 +438,7 @@ Anhang[^t-2]
 
 ## Liste der statistischen Erhebungen
 
-[^t-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009 ([AS 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Bereinigt gemäss Ziff. I der V vom 14. April 2010 ([AS 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), Ziff. II der V vom 18. Aug. 2010 ([AS 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), Ziff. I der V vom 24. Aug. 2011 ([AS 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), vom 12. Okt. 2011 ([AS 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), Ziff. II der V vom 23. Mai 2012 ([AS 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), Ziff. I der V vom 29. Aug. 2012 ([AS 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), Ziff. II der V vom 18. Dez. 2013 ([AS 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), vom 28. Okt. 2015 ([AS 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), vom 16. Nov. 2016 ([AS 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), Anhang 2 Ziff. II 1 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), Anhang 2 Ziff. 1 der Krebsregistrierungsverordnung vom 11. April 2018 ([AS 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), Ziff. I der V vom 7. Nov. 2018 ([AS 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), vom 27. Okt. 2021 ([AS 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), Anhang Ziff. II 13 der V vom 17. Nov. 2021 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) und Anhang 10 Ziff. II 17 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^t-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009 ([AS 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Bereinigt gemäss Ziff. I der V vom 14. April 2010 ([AS 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), Ziff. II der V vom 18. Aug. 2010 ([AS 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), Ziff. I der V vom 24. Aug. 2011 ([AS 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), vom 12. Okt. 2011 ([AS 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), Ziff. II der V vom 23. Mai 2012 ([AS 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), Ziff. I der V vom 29. Aug. 2012 ([AS 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), Ziff. II der V vom 18. Dez. 2013 ([AS 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), vom 28. Okt. 2015 ([AS 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), vom 16. Nov. 2016 ([AS 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), Anhang 2 Ziff. II 1 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), Anhang 2 Ziff. 1 der Krebsregistrierungsverordnung vom 11. April 2018 ([AS 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), Ziff. I der V vom 7. Nov. 2018 ([AS 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), vom 27. Okt. 2021 ([AS 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), Anhang Ziff. II 13 der V vom 17. Nov. 2021 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)), Anhang 10 Ziff. II 17 der Strafregisterverordnung vom 19. Okt. 2022 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)) und Anhang 2 Ziff. II 52 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. *Aufgehoben*
 
@@ -1335,7 +1339,7 @@ Anhang[^t-2]
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Schüler/innen, Studierende, Klassen, Lehrverträge (nur Berufe nach dem Berufsbildungsgesetz vom 13. Dez. 2002, SR *412.10*), schulische, soziodemografische Merkmale; AHV-Nummer</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS, Stipendien und Darlehen)</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Datenbank der Studierenden SHIS, Stipendien und Darlehen)</td></tr>
 <tr><td>Befragte:</td><td>Kantone, Bildungsinstitutionen, Verbände</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -1349,7 +1353,7 @@ Anhang[^t-2]
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Abschlüsse auf der Sekundarstufe II (gymnasiale Maturitäten, Berufsmaturitäten, Fachmaturitäten, Abschlüsse der beruflichen Grundbildung, Abschlüsse an Handels- und Fachmittelschulen) sowie Abschlüsse der höheren Berufsbildung (Abschlüsse an höheren Fachschulen, höhere Fach- und Berufsprüfungen, vergleichbare Abschlüsse ohne eidgenössische Anerkennung), soziodemografische Merkmale der Kandidierenden und Diplomierten sowie Angaben zu den Bundesbeiträgen an Kurse zur Vorbereitung auf die eidgenössischen Prüfungen; AHV-Nummer</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen sowie des Bundes; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS)</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen sowie des Bundes; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Datenbank der Studierenden SHIS)</td></tr>
 <tr><td>Befragte:</td><td>Kantone, Bildungsinstitutionen, Verbände, Staatssekretariat für Bildung, Forschung und Innovation (SBFI) für die Schweizerische Maturitätskommission (SMK), für die Eidgenössische Berufsmaturitätskommission (EBMK), für die eidgenössischen Prüfungen (Berufs- und höhere Fachprüfungen) und für das Informationssystem für Beiträge an Absolventinnen und Absolventen sowie für Anbieter von vorbereitenden Kursen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -1363,7 +1367,7 @@ Anhang[^t-2]
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Lehrkräfte, einschliesslich Schulleitung und sonderpädagogisches Personal (demografische Merkmale, Status, Ausbildung), und ihre Unterrichtsleistung (ohne Hochschulen); AHV-Nummer</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen: Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Schulpersonal, Schweizerische Studierendendatei SHIS und schweizerische Hochschulpersonaldatei)</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen: Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Schulpersonal, Schweizerische Datenbank der Studierenden SHIS und Schweizerische Datenbank des Hochschulpersonals)</td></tr>
 <tr><td>Befragte:</td><td>Kantone, Bildungsinstitutionen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -1372,18 +1376,18 @@ Anhang[^t-2]
 <tr><td>Besondere Bestimmungen:</td><td>Die Kantone sorgen für die Durchführung der Erhebung in ihrem Gebiet.</td></tr>
 </table>
 
-### 72. Schweizerische Studierendendatei SHIS (Schweizerisches Hochschulinformationssystem)
+### 72. Schweizerische Datenbank der Studierenden SHIS (Schweizerisches Hochschulinformationssystem)
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Studienverlauf und ‑richtung sowie Prüfungen (ca. 20 Variablen) aller an schweizerischen Hochschulen immatrikulierten Personen und Prüfungen im Anschluss an Hochschulstudien vor einer extrauniversitären Instanz; AHV-Nummer</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Hochschulen sowie der Prüfungsinstanzen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS)</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Hochschulen sowie der Prüfungsinstanzen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Datenbank der Studierenden SHIS)</td></tr>
 <tr><td>Befragte:</td><td>Schweizerische Hochschulen, universitäre und extrauniversitäre Prüfungsorgane, Bundesamt für Gesundheit (BAG)</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
 <tr><td>Periodizität:</td><td>Semesterweise für die Studierenden, jährlich für die Prüfungen</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Rektorenkonferenz der schweizerischen Hochschulen (swissuniversities), Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK), Staatssekretariat für Bildung, Forschung und Innovation (SBFI)</td></tr>
-<tr><td>Besondere Bestimmungen:</td><td>Mit Zustimmung der Betroffenen können gewisse Informationen zu bestimmten administrativen Zwecken verwendet werden. Gestützt auf Artikel 10 Absatz 3<sup>ter</sup> BStatG können die Kantone und die Hochschulen der schweizerischen Studierendendatei für jede immatrikulierte Person und das betreffende Semester folgende Informationen entnehmen: Matrikelnummer; AHV-Nummer; Hochschule; Studiensemester; Studienkategorie, Studienstufe und Studiengang; Datum und Stufe der letzten bestandenen Prüfung sowie Studiengang, in dem sie abgelegt wurde; Angabe, ob es sich um den ersten oder den zweiten Bildungsweg handelt; Gesamtzahl in der Schweiz im gewählten Studiengang absolvierter Semester; Wohnort zum Zeitpunkt des Erwerbs des Studienberechtigungsausweises; Art, Ausstellungsort und Jahr des Erwerbs des Studienberechtigungsausweises; Geburtsjahr, Staatsangehörigkeit und Geschlecht der studierenden Person, Vollzeitäquivalente der Studierenden. Die Resultate werden pro Hochschule veröffentlicht. Die Daten dürfen länger als 30 Jahre in pseudonymisierter Form aufbewahrt werden.</td></tr>
+<tr><td>Besondere Bestimmungen:</td><td>Mit Zustimmung der Betroffenen können gewisse Informationen zu bestimmten administrativen Zwecken verwendet werden. Gestützt auf Artikel 10 Absatz 3<sup>ter</sup> BStatG können die Kantone und die Hochschulen der Schweizerischen Datenbank der Studierenden SHIS für jede immatrikulierte Person und das betreffende Semester folgende Informationen entnehmen: Matrikelnummer; AHV-Nummer; Hochschule; Studiensemester; Studienkategorie, Studienstufe und Studiengang; Datum und Stufe der letzten bestandenen Prüfung sowie Studiengang, in dem sie abgelegt wurde; Angabe, ob es sich um den ersten oder den zweiten Bildungsweg handelt; Gesamtzahl in der Schweiz im gewählten Studiengang absolvierter Semester; Wohnort zum Zeitpunkt des Erwerbs des Studienberechtigungsausweises; Art, Ausstellungsort und Jahr des Erwerbs des Studienberechtigungsausweises; Geburtsjahr, Staatsangehörigkeit und Geschlecht der studierenden Person, Vollzeitäquivalente der Studierenden. Die Resultate werden pro Hochschule veröffentlicht. Die Daten dürfen länger als 30 Jahre in pseudonymisierter Form aufbewahrt werden.</td></tr>
 </table>
 
 ### 73. Erhebung bei den Hochschulabsolventinnen und Hochschulabsolventen
@@ -1391,7 +1395,7 @@ Anhang[^t-2]
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Studium, Erwerbssuche nach Studienabschluss, weiterer Erwerbsverlauf unter besonderer Berücksichtigung der Erwerbssituation ein Jahr und fünf Jahre nach Abschluss, Weiterbildung und berufsbiografischer Werdegang; AHV-Nummer</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Panel, Verknüpfung mit Daten der Schweizerischen Studierendendatei SHIS</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Panel, Verknüpfung mit Daten der Schweizerischen Datenbank der Studierenden SHIS</td></tr>
 <tr><td>Befragte:</td><td>Absolventinnen und Absolventen der schweizerischen Hochschulen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>Erstbefragung: im Jahr nach dem Studienabschluss Zweitbefragung: fünf Jahre nach dem Studienabschluss</td></tr>
@@ -1405,7 +1409,7 @@ Anhang[^t-2]
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Studium, Zeitbudget,, Erwerbstätigkeit, finanzielle Situation, Wohnsituation, Mobilität, Gesundheit, soziodemografische Merkmale; AHV-Nummer</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von Studierenden, Verknüpfung mit Daten der Schweizerischen Studierendendatei SHIS</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von Studierenden, Verknüpfung mit Daten der Schweizerischen Datenbank der Studierenden SHIS</td></tr>
 <tr><td>Befragte:</td><td>Studierende der Hochschulen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -1428,12 +1432,12 @@ Anhang[^t-2]
 <tr><td>Besondere Bestimmungen:</td><td>Die Kantone sorgen für die Durchführung der Erhebung in ihrem Gebiet.</td></tr>
 </table>
 
-### 76. Schweizerische Hochschulpersonaldatei
+### 76. Schweizerische Datenbank des Hochschulpersonals
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Hochschulpersonal (demografische Merkmale, Status, Ausbildung) und seine Leistungen (Lehre, Forschung usw.); AHV-Nummer</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Hochschulen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP) und Erhebungen im Bildungsbereich (Schulpersonal, Schweizerische Studierendendatei SHIS und Schweizerische Hochschulpersonaldatei)</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Hochschulen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP) und Erhebungen im Bildungsbereich (Schulpersonal, Schweizerische Datenbank der Studierenden SHIS und Schweizerische Datenbank des Hochschulpersonals)</td></tr>
 <tr><td>Befragte:</td><td>Schweizerische Hochschulen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -2791,7 +2795,7 @@ Anhang[^t-2]
 <table>
 <tr><td>Erhebungsorgan</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Zusammenführen der pseudonymisierten Personendaten im Bildungsbereich mit Personen- und Haushaltsdaten aus der registerbasierten Volkszählung sowie aus dem Sozialversicherungsregister, um die Verläufe innerhalb des Bildungssystems und zwischen Bildungssystem und Arbeitsmarkt zu messen</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Sekundärauswertung; Verknüpfung von Daten aus folgenden Quellen: Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS, Stipendien und Darlehen, Schulpersonal, Schweizerische Hochschulpersonaldatei, Statistik der Bevölkerung und der Haushalte (STATPOP), Statistik der natürlichen Bevölkerungsbewegung, Strukturerhebung, Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS] und Staatssekretariat für Wirtschaft [SECO]), Statistik der Unternehmensstruktur (STATENT)</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Sekundärauswertung; Verknüpfung von Daten aus folgenden Quellen: Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Datenbank der Studierenden SHIS, Stipendien und Darlehen, Schulpersonal, Schweizerische Datenbank des Hochschulpersonals, Statistik der Bevölkerung und der Haushalte (STATPOP), Statistik der natürlichen Bevölkerungsbewegung, Strukturerhebung, Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS] und Staatssekretariat für Wirtschaft [SECO]), Statistik der Unternehmensstruktur (STATENT)</td></tr>
 <tr><td>Befragte:</td><td>ZAS, SECO</td></tr>
 <tr><td>Auskunftspflicht:</td><td>–</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -3007,7 +3011,7 @@ Anhang[^t-2]
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Ausbildung, Ausbildungszufriedenheit, Finanzierung der Ausbildung, Erwerbssuche nach der Ausbildung, weiterer Erwerbsverlauf unter besonderer Berücksichtigung der Erwerbssituation ein Jahr und fünf Jahre nach Abschluss der Ausbildung / Prüfung, Weiterbildung und berufsbiografischer Werdegang, soziodemographische Angaben; AHV-Nummer</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Panel, Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR), Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS, Stipendien und Darlehen), Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS])</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Panel, Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR), Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Datenbank der Studierenden SHIS, Stipendien und Darlehen), Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS])</td></tr>
 <tr><td>Befragte:</td><td>Kandidaten/Kandidatinnen und Absolventen/Absolventinnen der eidgenössischen Prüfungen und der höheren Fachschulen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>Erstbefragung: ein Jahr nach Ausbildungsabschluss Zweitbefragung: fünf Jahre nach Ausbildungsabschluss</td></tr>
@@ -3319,11 +3323,11 @@ Inkrafttreten Art. 15
 - 69\. Personen in Ausbildung
 - 70\. Bildungsabschlüsse
 - 71\. Schulpersonal
-- 72\. Schweizerische Studierendendatei SHIS (Schweizerisches Hochschulinformationssystem)
+- 72\. Schweizerische Datenbank der Studierenden SHIS (Schweizerisches Hochschulinformationssystem)
 - 73\. Erhebung bei den Hochschulabsolventinnen und Hochschulabsolventen
 - 74\. Soziale und wirtschaftliche Lage der Studierenden
 - 75\. Stipendien und Darlehen
-- 76\. Schweizerische Hochschulpersonaldatei
+- 76\. Schweizerische Datenbank des Hochschulpersonals
 - 77\. Statistik der Hochschulfinanzen
 - 78\. Forschung und Entwicklung in der Bundesverwaltung
 - 79\. Forschung und Entwicklung in den Privatunternehmen
