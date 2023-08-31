@@ -3,18 +3,18 @@ sr: "531.80"
 title: Ordonnance du 12 août 2015 sur le bureau de notification pour les médicaments vitaux à usage humain
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/544"
 language: fr
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2015-08-12
 in_force: 2015-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-544-20210401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-544-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le bureau de notification pour les médicaments vitaux à usage humain
 
-du 12 août 2015 (Etat le 1<sup>er</sup> avril 2021)
+du 12 août 2015 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -165,12 +165,13 @@ Les données enregistrées dans le système de traitement sont conservées penda
 
 Sont en outre applicables:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^8-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^8-2].[^8-3]
+- a.[^8-1] l’ordonnance du 31 août 2022 sur la protection des données[^8-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^8-3].[^8-4]
 
-[^8-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^8-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^8-3]: Nouvelle teneur selon l’annexe ch. 29 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 67 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^8-4]: Nouvelle teneur selon l’annexe ch. 29 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 9
 
@@ -198,7 +199,7 @@ Le Département fédéral de l’économie, de la formation et de la recherche p
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2015.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 3, al. 1)
 

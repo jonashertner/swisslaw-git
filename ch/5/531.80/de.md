@@ -3,18 +3,18 @@ sr: "531.80"
 title: Verordnung vom 12. August 2015 über die Meldestelle für lebenswichtige Humanarzneimittel
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/544"
 language: de
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2015-08-12
 in_force: 2015-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2015-544-20210401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-544-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Meldestelle für lebenswichtige Humanarzneimittel
 
-vom 12. August 2015 (Stand am 1. April 2021)
+vom 12. August 2015 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -167,12 +167,13 @@ Die im Datenbearbeitungssystem erfassten Daten werden ab dem Zeitpunkt der Erfas
 
 Im Übrigen gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^8-1] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^8-2].[^8-3]
+- a.[^8-1] die Datenschutzverordnung vom 31. August 2022[^8-2];
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^8-3].[^8-4]
 
-[^8-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^8-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^8-3]: Fassung gemäss Anhang Ziff. 29 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^8-1]: Fassung gemäss Anhang 2 Ziff. II 67 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^8-4]: Fassung gemäss Anhang Ziff. 29 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 9
 
@@ -200,7 +201,7 @@ Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung kann den 
 
 Diese Verordnung tritt am 1. Oktober 2015 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 3 Abs. 1)
 

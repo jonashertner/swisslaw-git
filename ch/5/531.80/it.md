@@ -3,18 +3,18 @@ sr: "531.80"
 title: "Ordinanza del 12 agosto 2015 sul centro di notifica per i medicamenti a uso umano d'importanza vitale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/544"
 language: it
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2015-08-12
 in_force: 2015-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2015-544-20210401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-544-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul centro di notifica per i medicamenti a uso umano d’importanza vitale
 
-del 12 agosto 2015 (Stato 1° aprile 2021)
+del 12 agosto 2015 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -167,12 +167,13 @@ I dati registrati nel sistema di trattamento vengono conservati per almeno dieci
 
 Per il resto si applicano:
 
-- a. l’ordinanza del 14 giugno 1993[^8-1] relativa alla legge sulla protezione dei dati;
-- b. l’ordinanza del 27 maggio 2020[^8-2] sui ciber-rischi.[^8-3]
+- a.[^8-1] l’ordinanza del 31 agosto 2022[^8-2] sulla protezione dei dati;
+- b. l’ordinanza del 27 maggio 2020[^8-3] sui ciber-rischi.[^8-4]
 
-[^8-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^8-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^8-3]: Nuovo testo giusta l’all. n. 29 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^8-1]: Nuovo testo giusta l’all. 2 n. II 67 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^8-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^8-4]: Nuovo testo giusta l’all. n. 29 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 9
 
@@ -200,7 +201,7 @@ Il Dipartimento federale dell’economia, della formazione e della ricerca può 
 
 La presente ordinanza entra in vigore il 1° ottobre 2015.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 3 cpv. 1)
 
