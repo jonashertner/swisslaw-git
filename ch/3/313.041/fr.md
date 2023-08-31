@@ -4,20 +4,20 @@ title: Ordonnance du 20 septembre 2013 relative au système d’information en m
 short: OSIP-OFDF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-639-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-639-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance relative au système d’information en matière pénale de l’Office fédéral de la douane et de la sécurité des frontières
 
-(OSIP-OFDF)**[^t-1]**
+(OSIP-OFDF)[^t-1]
 
-du 20 septembre 2013 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 septembre 2013 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -55,11 +55,12 @@ La présente ordonnance régit pour le système d’information en matière pén
 
 #### Art. 3
 
-**Règlement de traitement**
+**Règlement de traitement**[^3-1]
 
-L’OFDF établit un règlement de traitement au sens de l’art. 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^3-1].
+L’OFDF établit un règlement de traitement au sens de l’art. 6 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^3-2].
 
-[^3-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^3-1]: Nouvelle teneur selon l’annexe 2 ch. II 37 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 ## Section 2 But et contenu du système d’information
 
@@ -196,14 +197,16 @@ Les collaborateurs de l’OFIT chargés des travaux de maintenance peuvent trait
 
 **Droits des personnes concernées**
 
-<sup>1</sup> Les droits des personnes concernées, notamment leur droit à la consultation, à la rectification et à la suppression de données sont régis, pour les procédures pénales qui ne sont pas pendantes, par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^14-1] et par la DPA.
+<sup>1</sup> Les droits des personnes concernées, notamment leur droit à la consultation, à la rectification et à la destruction de données sont régis, pour les procédures pénales qui ne sont pas pendantes, par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^14-1] et par la DPA.[^14-2]
 
-<sup>2</sup> Pour les procédures pénales pendantes, ces droits sont régis par l’art. 36 DPA sur la consultation des pièces.
+<sup>2</sup> Pour les procédures pénales pendantes, ces droits sont régis par les art. 18*d* et 36 DPA.[^14-3]
 
-<sup>3</sup> Pour les demandes d’assistance administrative, ces droits sont régis par les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^14-2], pour les demandes d’entraide judiciaire par celles de la loi du 20 mars 1981 sur l’entraide pénale internationale.
+<sup>3</sup> Pour les demandes d’assistance administrative, ces droits sont régis par les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^14-4], pour les demandes d’entraide judiciaire par celles de la loi du 20 mars 1981 sur l’entraide pénale internationale.
 
 [^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^14-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^14-2]: Nouvelle teneur selon l’annexe 2 ch. II 37 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-3]: Nouvelle teneur selon l’annexe 2 ch. II 37 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 15
 
@@ -247,7 +250,7 @@ Les données peuvent être conservées:
 
 **Sécurité des données**
 
-<sup>1</sup> La garantie de la sécurité des données est régie par les art. 20 et 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^18-1] et par les dispositions de l’ordonnance du 27 mai 2020 sur les cyberrisques[^18-2].[^18-3]
+<sup>1</sup> La garantie de la sécurité des données est régie par les art. 1 à 4 et 6 de l’OPDo[^18-1] et par les dispositions de l’ordonnance du 27 mai 2020 sur les cyberrisques[^18-2].[^18-3]
 
 <sup>2</sup> Les données, programmes et documentations correspondantes doivent être protégés contre tout traitement non autorisé et contre la destruction et la soustraction. Ils doivent pouvoir être reconstitués.
 
@@ -259,7 +262,7 @@ Les données peuvent être conservées:
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18-3]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^18-3]: Nouvelle teneur selon l’annexe 2 ch. II 37 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 6 Dispositions finales
 

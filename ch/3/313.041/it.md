@@ -4,20 +4,20 @@ title: Ordinanza del 20 settembre 2013 sul sistema d’informazione in materia p
 short: OSIP-UDSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-639-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-639-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul sistema d’informazione in materia penale dell’Ufficio federale della dogana e della sicurezza dei confini
 
-(OSIP-UDSC)**[^t-1]**
+(OSIP-UDSC)[^t-1]
 
-del 20 settembre 2013 (Stato 1° gennaio 2022)
+del 20 settembre 2013 (Stato 1° settembre 2023)
 
 [^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -55,11 +55,12 @@ La presente ordinanza disciplina per il sistema d’informazione in materia pena
 
 #### Art. 3
 
-**Regolamento per il trattamento**
+**Regolamento per il trattamento**[^3-1]
 
-L’UDSC emana un regolamento per il trattamento ai sensi dell’articolo 21 dell’ordinanza del 14 giugno 1993[^3-1] relativa alla legge federale sulla protezione dei dati.
+L’UDSC emana un regolamento per il trattamento ai sensi dell’articolo 6 dell’ordinanza del 31 agosto 2022[^3-2] sulla protezione dei dati (OPDa).
 
-[^3-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^3-1]: Nuovo testo giusta l’all. 2 n. II 37 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 ## Sezione 2: Scopo e contenuto del sistema d’informazione
 
@@ -129,7 +130,7 @@ Il sistema d’informazione contiene indicazioni su:
 
 Lo scambio automatico di dati con i sistemi d’informazione Finanze e contabilità di cui all’allegato A 2 dell’ordinanza del 4 aprile 2007[^8-1] sul trattamento dei dati nell’AFD è ammesso.
 
-[^8-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1,[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4. [2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 15]. Vedi ora l’O del 23 ago. 2017 sul trattamento dei dati nell’UDSC ([RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
+[^8-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1, [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1;[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4; [2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 15]. Vedi ora l’O del 23 ago. 2017 sul trattamento dei dati nell’UDSC ([RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
 
 #### Art. 9
 
@@ -196,14 +197,16 @@ Le persone dell’UFIT incaricate dei lavori di manutenzione possono trattare i 
 
 **Diritti delle persone interessate**
 
-<sup>1</sup> In caso di procedimenti penali conclusi, i diritti delle persone interessate, in particolare i diritti d’informazione, di rettifica e di distruzione dei dati, sono retti dalle disposizioni della legge del 19 giugno 1992[^14-1] sulla protezione dei dati e della DPA.
+<sup>1</sup> In caso di procedimenti penali non pendenti, i diritti delle persone interessate, in particolare i diritti d’informazione, di rettifica e di distruzione dei dati, sono retti dalle disposizioni della legge del 25 settembre 2020[^14-1] sulla protezione dei dati e del DPA.[^14-2]
 
-<sup>2</sup> In caso di procedimenti penali pendenti, tali diritti sono retti dall’articolo 36 DPA concernente il diritto di esame degli atti.
+<sup>2</sup> In caso di procedimenti penali pendenti, tali diritti sono retti dagli articoli 18*d* e 36 DPA.[^14-3]
 
-<sup>3</sup> In caso di domande di assistenza amministrativa, tali diritti sono retti dalle disposizioni della legge federale del 20 dicembre 1968[^14-2] sulla procedura amministrativa, mentre in caso di domande di assistenza giudiziaria dalle disposizioni dell’assistenza in materia penale del 20 marzo 1981.
+<sup>3</sup> In caso di domande di assistenza amministrativa, tali diritti sono retti dalle disposizioni della legge federale del 20 dicembre 1968[^14-4] sulla procedura amministrativa, mentre in caso di domande di assistenza giudiziaria dalle disposizioni dell’assistenza in materia penale del 20 marzo 1981.
 
 [^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^14-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^14-2]: Nuovo testo giusta l’all. 2 n. II 37 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-3]: Nuovo testo giusta l’all. 2 n. II 37 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 15
 
@@ -247,7 +250,7 @@ I dati sono conservati:
 
 **Sicurezza dei dati**
 
-<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^18-1] relativa alla legge federale sulla protezione dei dati e le disposizioni dell’ordinanza del 27 maggio 2020[^18-2] sui ciber-rischi.[^18-3]
+<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 1–4 e 6 OPDa[^18-1] e le disposizioni dell’ordinanza del 27 maggio 2020[^18-2] sui ciber-rischi.[^18-3]
 
 <sup>2</sup> I dati, i programmi e la relativa documentazione devono essere protetti dal trattamento non autorizzato nonché dalla distruzione e dal furto. Essi devono poter essere ripristinati.
 
@@ -259,7 +262,7 @@ I dati sono conservati:
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18-3]: Nuovo testo giusta l’all. n. 10 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^18-3]: Nuovo testo giusta l’all. 2 n. II 37 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 6: Disposizioni finali
 

@@ -4,20 +4,20 @@ title: Verordnung vom 20. September 2013 über das Informationssystem für Straf
 short: IStrV-BAZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-639-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-639-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Informationssystem für Strafsachen des Bundesamts für Zoll und Grenzsicherheit
 
-(IStrV-BAZG)**[^t-1]**
+(IStrV-BAZG)[^t-1]
 
-vom 20. September 2013 (Stand am 1. Januar 2022)
+vom 20. September 2013 (Stand am 1. September 2023)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -55,11 +55,12 @@ Diese Verordnung regelt das Informationssystem für Strafsachen des Bundesamts f
 
 #### Art. 3
 
-**Bearbeitungsreglement**
+**Bearbeitungsreglement**[^3-1]
 
-Das BAZG erstellt ein Bearbeitungsreglement nach Artikel 21 der Verordnung vom 14. Juni 1993[^3-1] zum Bundesgesetz über den Datenschutz (VDSG).
+Das BAZG erstellt ein Bearbeitungsreglement nach Artikel 6 der Datenschutzverordnung vom 31. August 2022[^3-2] (DSV).
 
-[^3-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^3-1]: Fassung gemäss Anhang 2 Ziff. II 37 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 ## 2. Abschnitt: Zweck und Inhalt des Informationssystems
 
@@ -196,14 +197,16 @@ Die mit Wartungsaufgaben betrauten Personen des BIT dürfen Daten im Information
 
 **Rechte der betroffenen Personen**
 
-<sup>1</sup> Die Rechte der betroffenen Personen, insbesondere das Recht auf Auskunft, auf Berichtigung und auf Vernichtung der Daten, richten sich bei nicht hängigen Strafverfahren nach dem Bundesgesetz vom 19. Juni 1992[^14-1] über den Datenschutz und nach dem VStrR.
+<sup>1</sup> Die Rechte der betroffenen Personen, insbesondere das Recht auf Auskunft, auf Berichtigung und auf Vernichtung der Daten, richten sich bei nicht hängigen Strafverfahren nach dem Datenschutzgesetz vom 25. September 2020[^14-1] und nach dem VStrR.[^14-2]
 
-<sup>2</sup> Bei hängigen Strafverfahren richten sich diese Rechte nach Artikel 36 VStrR betreffend das Akteneinsichtsrecht.
+<sup>2</sup> Bei hängigen Strafverfahren richten sich diese Rechte nach den Artikeln 18*d* und 36 VStrR.[^14-3]
 
-<sup>3</sup> Bei Amtshilfeersuchen richten sich diese Rechte nach den Bestimmungen des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^14-2], bei Rechtshilfeersuchen nach denjenigen des Rechtshilfegesetzes vom 20. März 1981.
+<sup>3</sup> Bei Amtshilfeersuchen richten sich diese Rechte nach den Bestimmungen des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^14-4], bei Rechtshilfeersuchen nach denjenigen des Rechtshilfegesetzes vom 20. März 1981.
 
 [^14-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^14-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^14-2]: Fassung gemäss Anhang 2 Ziff. II 37 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-3]: Fassung gemäss Anhang 2 Ziff. II 37 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-4]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 15
 
@@ -247,7 +250,7 @@ Die Daten werden für die folgenden Dauern aufbewahrt:
 
 **Datensicherheit**
 
-<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 VDSG[^18-1] und die Bestimmungen der Cyberrisikenverordnung vom 27. Mai 2020[^18-2].[^18-3]
+<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 DSV[^18-1] und die Bestimmungen der Cyberrisikenverordnung vom 27. Mai 2020[^18-2].[^18-3]
 
 <sup>2</sup> Die Daten, Programme und dazugehörige Dokumentationen sind gegen unbefugtes Bearbeiten sowie gegen Zerstörung und Entwendung zu schützen. Sie müssen wieder hergestellt werden können.
 
@@ -259,7 +262,7 @@ Die Daten werden für die folgenden Dauern aufbewahrt:
 
 [^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18-3]: Fassung gemäss Anhang Ziff. 10 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^18-3]: Fassung gemäss Anhang 2 Ziff. II 37 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 
