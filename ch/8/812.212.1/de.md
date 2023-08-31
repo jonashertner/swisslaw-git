@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelb
 short: AMBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230123-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230901-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/de"
 
 (Arzneimittel-Bewilligungsverordnung, AMBV)
 
-vom 14. November 2018 (Stand am 23. Januar 2023)
+vom 14. November 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -985,7 +985,9 @@ Sie informieren sich gegenseitig über:
 Die für den Vollzug zuständigen Organe sind befugt, die Personendaten zu bearbeiten, die sie benötigen, um alle ihnen nach dieser Verordnung übertragenen Aufgaben zu erfüllen. Dazu gehören auch:
 
 - a. Daten über die Gesundheit, die im Zusammenhang mit der behördlichen Marktüberwachung bei Blut und Blutprodukten (Art. 39, 58 und 59 HMG) erhoben werden;
-- b. Daten über administrative und strafrechtliche Verfolgungen und Sanktionen, die für die Beurteilung von Bewilligungsgesuchen, namentlich für die Beurteilung, ob eine fachtechnisch verantwortliche Person für diese Aufgabe geeignet ist, wesentlich sind.
+- b.[^66-1] Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen, die für die Beurteilung von Bewilligungsgesuchen, namentlich für die Beurteilung, ob eine fachtechnisch verantwortliche Person für diese Aufgabe geeignet ist, wesentlich sind.
+
+[^66-1]: Fassung gemäss Anhang 2 Ziff. II 98 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 67
 
@@ -1003,7 +1005,9 @@ Die für den Vollzug zuständigen Organe sind befugt, die Personendaten zu bearb
 
 <sup>1</sup> Online-Zugriff auf die Informationssysteme erhalten die Mitarbeiterinnen und Mitarbeiter der Swissmedic, soweit dies zur Erfüllung ihrer jeweiligen Aufgabe notwendig ist.
 
-<sup>2</sup> Die Zugriffe auf die Informationssysteme können protokolliert werden. Die Protokolldaten werden während maximal zwei Jahren aufbewahrt.
+<sup>2</sup> Die Zugriffe auf die Informationssysteme werden protokolliert. Die Protokolldaten werden längstens zwei Jahre getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^68-1]
+
+[^68-1]: Fassung gemäss Anhang 2 Ziff. II 98 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 69
 
@@ -1073,10 +1077,10 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]: Fassung gemäss ABl. L 262 vom 14.10.2003, S. 22.
 [^annex1-lvlu1-2]: Fassung gemäss ABl. L 228 vom 17.8.1991, S. 70.
-[^annex1-lvlu1-3]: Der Text des Leitfadens kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch oder abgerufen werden unter: https://ec.europa.eu/health/documents/eudralex/vol-4\_en
-[^annex1-lvlu1-4]: [SR 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Der Text dieser Grundsätze und Leitlinien kann beim PIC/S-Secrétariat, case postale 5695, CH-1211 Genève 11, bezogen oder unter www.picscheme.org abgerufen werden.
+[^annex1-lvlu1-3]: Der Text des Leitfadens kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch oder abgerufen werden unter: [https://ec.europa.eu/health/documents/eudralex/vol-4\_en](https://ec.europa.eu/health/documents/eudralex/vol-4_en)
+[^annex1-lvlu1-4]: [SR 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Der Text dieser Grundsätze und Leitlinien kann beim PIC/S-Secrétariat, case postale 5695, CH-1211 Genève 11, bezogen oder unter: www.picscheme.org abgerufen werden.
 [^annex1-lvlu1-5]: Fassung gemäss ABl. L 92 vom 7.4.1990, S. 42.
-[^annex1-lvlu1-6]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg (www.coe.int) bezogen oder unter /www.edqm.eu/en/blood-transfusion-guide abgerufen werden.
+[^annex1-lvlu1-6]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg (www.coe.int) bezogen oder unter: [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide) abgerufen werden.
 
 Anhang 2[^t-2]
 
@@ -1200,7 +1204,7 @@ Anhang 5
 
 Empfehlung R (95) 15 des Europarats vom 12. Oktober 1995[^annex5-lvlu1-lvl1-1] für die Herstellung, Verwendung und Qualitätssicherung von Blutkomponenten einschliesslich Anhänge.
 
-[^annex5-lvlu1-lvl1-1]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg (www.coe.int) bezogen oder unter www.edqm.eu/en/blood-transfusion-guide abgerufen werden.
+[^annex5-lvlu1-lvl1-1]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg (www.coe.int) bezogen oder unter: [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide) abgerufen werden.
 
 ### 2 Anforderungen an das Testverfahren
 

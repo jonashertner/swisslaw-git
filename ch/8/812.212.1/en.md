@@ -4,11 +4,11 @@ title: "Ordinance of 14 November 2018 on Licensing in the Medicinal Products Sec
 short: MPLO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: en
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230123-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230901-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Medicinal Products Licensing Ordinance, MPLO)
 
-of 14 November 2018 (Status as of 23 January 2023)
+of 14 November 2018 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -985,7 +985,9 @@ They notify each other about:
 The organs responsible for enforcement are authorised to process the personal data that they require for performing all the tasks assigned to them by this Ordinance. These data include:
 
 - a. health data recorded in connection with the official market surveillance of blood and blood products (Art. 39, 58 and 59 TPA);
-- b. data on administrative and criminal proceedings and sanctions that are relevant to the assessment of licence applications, specifically in assessing whether a responsible person is appropriate for this task.
+- b.[^66-1] data on administrative and criminal proceedings or sanctions that are relevant to the assessment of licence applications, specifically in assessing whether a responsible person is appropriate for this task.
+
+[^66-1]: Amended by Annex 2 No II 98 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 67
 
@@ -1003,7 +1005,9 @@ The organs responsible for enforcement are authorised to process the personal da
 
 <sup>1</sup> Employees of Swissmedic have online access to the information systems to the extent necessary for them to perform their tasks.
 
-<sup>2</sup> Access to the information systems may be logged. Such logs are kept for no longer than two years.
+<sup>2</sup> Access to the information systems shall be logged. Such logs shall be kept for no longer than two years and separate from the system in which the personal data is processed.[^68-1]
+
+[^68-1]: Amended by Annex 2 No II 98 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 69
 
@@ -1076,7 +1080,7 @@ Annex 1[^t-1]
 [^annex1-lvlu1-3]: The text of the guidelines can be obtained from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch or downloaded from: https://ec.europa.eu/health/documents/eudralex/vol-4\_en.
 [^annex1-lvlu1-4]: [SR 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756)The text of these principles and guidelines can be obtained from the PIC/S-Secretariat, case postale 5695, CH-1211 Geneva 11, or downloaded from www.picscheme.org.
 [^annex1-lvlu1-5]: OJ L 92 of 7.4.1990, p. 42.
-[^annex1-lvlu1-6]: The text of this recommendation can be obtained from the Council of Europe, F-67075 Strasbourg (www.coe.int) or downloaded from www.edqm.eu/en/blood-transfusion-guide.
+[^annex1-lvlu1-6]: The text of this recommendation can be obtained from the Council of Europe, F-67075 Strasbourg (www.coe.int) or downloaded from [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide)
 
 Annex 2[^t-2]
 
@@ -1199,7 +1203,7 @@ Annex 5
 
 Recommendation R (95) of the Council of Europe of 12 October 1995[^annex5-lvlu1-lvl1-1] (incl. Appendices) on the Preparation, Use and Quality Assurance of Blood Components.
 
-[^annex5-lvlu1-lvl1-1]: The text of this recommendation can be obtained from the Council of Europe, F-67075 Strasbourg (www.coe.int) or downloaded from www.edqm.eu/en/blood-transfusion-guide.
+[^annex5-lvlu1-lvl1-1]: The text of this recommendation can be obtained from the Council of Europe, F-67075 Strasbourg (www.coe.int) or downloaded from ww.edqm.eu/en/blood-guide
 
 ### 2 Test procedure requirements
 

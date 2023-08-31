@@ -4,18 +4,18 @@ title: "Ordinanza del 14 novembre 2018 sulle autorizzazioni nel settore dei medi
 short: OAMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230123-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230901-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle autorizzazioni nel settore dei medicamenti (Ordinanza sull’autorizzazione dei medicamenti, OAMed)
 
-del 14 novembre 2018 (Stato 23 gennaio 2023)
+del 14 novembre 2018 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -983,7 +983,9 @@ Si informano reciprocamente in merito:
 Gli organi competenti per l’esecuzione sono autorizzati a trattare i dati personali di cui necessitano per adempiere tutti i compiti loro attribuiti dalla presente ordinanza, ivi compresi:
 
 - a. i dati concernenti lo stato di salute rilevati in relazione con la sorveglianza del mercato da parte delle autorità, nel caso di sangue ed emoderivati (art. 39, 58 e 59 LATer);
-- b. i dati relativi a procedimenti e sanzioni amministrativi e penali essenziali per esaminare domande di autorizzazione, segnatamente per valutare se un responsabile tecnico è adatto a questo compito specifico.
+- b.[^66-1] i dati concernenti perseguimenti e sanzioni amministrativi e penali essenziali per esaminare domande di autorizzazione, segnatamente per valutare se un responsabile tecnico è adatto a questo compito specifico.
+
+[^66-1]: Nuovo testo giusta l’all. 2 n. II 98 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 67
 
@@ -1001,7 +1003,9 @@ Gli organi competenti per l’esecuzione sono autorizzati a trattare i dati pers
 
 <sup>1</sup> I collaboratori di Swissmedic ottengono l’accesso online ai sistemi d’informazione per quanto necessario all’adempimento del loro rispettivo compito.
 
-<sup>2</sup> Gli accessi ai sistemi d’informazione possono essere verbalizzati. I dati verbalizzati sono conservati al massimo per due anni.
+<sup>2</sup> Gli accessi ai sistemi d’informazione sono verbalizzati. I dati verbalizzati sono conservati per al massimo due anni separatamente dal sistema in cui sono trattati i dati personali.[^68-1]
+
+[^68-1]: Nuovo testo giusta l’all. 2 n. II 98 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 69
 
@@ -1074,7 +1078,7 @@ Allegato 1[^t-1]
 [^annex1-lvlu1-3]: Il testo di questa guida può essere ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch o consultato all’indirizzo https://ec.europa.eu/health/documents/eudralex/vol-4\_en.
 [^annex1-lvlu1-4]: [RS 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Il testo di questi principi e di queste linee direttrici può essere richiesto al Segretariato PIC/S, casella postale 5695, CH-1211 Ginevra 11 o consultato all’indirizzo Internet: www.picscheme.org.
 [^annex1-lvlu1-5]: Versione della GU L 92 del 7.4.1990, pag. 42.
-[^annex1-lvlu1-6]: La raccomandazione può essere richiesta al Consiglio d’Europa, F-67075 Strasburgo (www.coe.int) o consultata all’indirizzo www.edqm.eu/en/blood-transfusion-guide.
+[^annex1-lvlu1-6]: La raccomandazione può essere richiesta al Consiglio d’Europa, F-67075 Strasburgo (www.coe.int) o consultata all’indirizzo www.edqm.eu/en/blood-guide.
 
 Allegato 2[^t-2]
 
@@ -1197,7 +1201,7 @@ Allegato 5
 
 Raccomandazione R (95) 15 del Consiglio d’Europa del 12 ottobre 1995[^annex5-lvlu1-lvl1-1] su preparazione, uso e garanzia di qualità degli emocomponenti, incluse le appendici.
 
-[^annex5-lvlu1-lvl1-1]: La raccomandazione può essere richiesta al Consiglio d’Europa, F-67075 Strasburgo (www.coe.int) o consultata all’indirizzo www.edqm.eu/en/blood-transfusion-guide.
+[^annex5-lvlu1-lvl1-1]: La raccomandazione può essere richiesta al Consiglio d’Europa, F-67075 Strasburgo (www.coe.int) o consultata all’indirizzo [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide)
 
 ### 2 Requisiti del procedimento relativo ai test
 
@@ -1293,4 +1297,4 @@ Le seguenti ordinanze sono modificate come segue:
 ...[^annex8-lvlu1-2]
 
 [^annex8-lvlu1-1]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40, [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2, [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2, [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)n. II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 n. II 3]
-[^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786).
+[^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)..

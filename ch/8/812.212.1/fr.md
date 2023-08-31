@@ -4,11 +4,11 @@ title: Ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des 
 short: OAMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230123-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230901-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/fr"
 
 (OAMéd)
 
-du 14 novembre 2018 (État le 23 janvier 2023)
+du 14 novembre 2018 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -999,7 +999,9 @@ Les organes compétents en matière d’exécution sont habilités à traiter le
 
 <sup>1</sup> Les collaborateurs de Swissmedic bénéficient de l’accès en ligne aux systèmes d’information dans la mesure où l’accomplissement de leurs tâches le requiert.
 
-<sup>2</sup> Les accès aux systèmes d’information peuvent être journalisés. Les procès-verbaux de journalisation sont conservés durant deux ans au plus.
+<sup>2</sup> Les accès aux systèmes d’information sont journalisés. Les procès-verbaux de journalisation sont conservés durant deux ans au plus, séparément du système dans lequel les données personnelles sont traitées.[^68-1]
+
+[^68-1]: Nouvelle teneur selon l’annexe 2 ch. II 98 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 69
 
@@ -1072,7 +1074,7 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-3]: Le guide peut être obtenu contre paiement auprès de l’Association suisse de normalisa-tion (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch), ou téléchargé à l’adresse: https://ec.europa.eu/health/documents/eudralex/vol-4
 [^annex1-lvlu1-4]: [RS 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Les principes et lignes directrices peuvent être obtenus auprès du Secrétariat PIC/S, case postale 5695, CH-1211 Genève 11, ou téléchargés à l’adresse: [www.picscheme.org](https://picscheme.org/).
 [^annex1-lvlu1-5]: Version selon JO L 92 du 7.4.1990, p. 42.
-[^annex1-lvlu1-6]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg ([www.coe.int](https://www.coe.int)) ou téléchargée sur [www.edqm.eu/en/blood-transfusion-guide](https://www.edqm.eu/en/blood-transfusion-guide).
+[^annex1-lvlu1-6]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg ([www.coe.int](https://www.coe.int)) ou téléchargée sur [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide).
 
 Annexe 2[^t-2]
 
@@ -1195,7 +1197,7 @@ Annexe 5
 
 Recommandation R (95) 15 du Conseil de l’Europe du 12 octobre 1995 pour la fabrication, l’utilisation et l’assurance de la qualité des composants sanguins[^annex5-lvlu1-lvl1-1], annexes comprises.
 
-[^annex5-lvlu1-lvl1-1]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg ([www.coe.int](https://www.coe.int)) ou téléchargée sur [www.edqm.eu/en/blood-transfusion-guide](https://www.edqm.eu/en/blood-transfusion-guide).
+[^annex5-lvlu1-lvl1-1]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg ([www.coe.int](https://www.coe.int)) ou téléchargée sur [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide).
 
 ### 2 Exigences relatives à la procédure de test
 
