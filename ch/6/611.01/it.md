@@ -4,11 +4,11 @@ title: Ordinanza del 5 aprile 2006 sulle finanze della Confederazione (OFC)
 short: OFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-228-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-228-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20220101/it"
 
 (OFC)
 
-del 5 aprile 2006 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 5 aprile 2006 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -45,13 +45,15 @@ Sempre che la legge e l’ordinanza non dispongano altrimenti, le disposizioni d
 - c. alle commissioni di arbitrato e di ricorso;
 - d. al Ministero pubblico della Confederazione;
 - e. all’autorità di vigilanza sul Ministero pubblico della Confederazione;
-- f. al Consiglio federale.[^1-1]
+- f. al Consiglio federale;
+- g.[^1-1] all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT).[^1-2]
 
-<sup>2</sup> È fatta salva la posizione speciale dell’Assemblea federale, dei tribunali della Confederazione, del Controllo federale delle finanze (Controllo delle finanze), del Ministero pubblico della Confederazione e dell’autorità di vigilanza sul Ministero pubblico della Confederazione di cui all’articolo 142 capoversi 2 e 3 della legge del 13 dicembre 2002[^1-2] sul Parlamento (LParl).[^1-3]
+<sup>2</sup> È fatta salva la posizione speciale dell’Assemblea federale, dei tribunali della Confederazione, del Controllo federale delle finanze (Controllo delle finanze), del Ministero pubblico della Confederazione, dell’autorità di vigilanza sul Ministero pubblico della Confederazione e dell’IFPDT di cui all’articolo 142 capoversi 2 e 3 della legge del 13 dicembre 2002[^1-3] sul Parlamento (LParl).[^1-4]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^1-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^1-3]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^1-1]: Introdotta dall’all. 2 n. II 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^1-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^1-4]: Nuovo testo giusta l’all. 2 n. II 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2
 
@@ -431,14 +433,14 @@ Le anticipazioni sono autorizzate soltanto se la spesa o l’uscita per investim
 
 <sup>1</sup> I riporti di credito sono decisi dal Consiglio federale di regola congiuntamente con i messaggi concernenti la prima e la seconda aggiunta.
 
-<sup>2</sup> Il Consiglio federale riprende immutate le proposte dell’Assemblea federale, dei tribunali della Confederazione, del Controllo delle finanze, del Ministero pubblico della Confederazione e dell’autorità di vigilanza sul Ministero pubblico della Confederazione concernenti il riporto dei crediti stanziati con i loro preventivi.[^26-2]
+<sup>2</sup> Il Consiglio federale riprende immutate le proposte dell’Assemblea federale, dei tribunali della Confederazione, del Controllo delle finanze, del Ministero pubblico della Confederazione, dell’autorità di vigilanza sul Ministero pubblico della Confederazione e dell’IFPDT concernenti il riporto dei crediti stanziati con i loro preventivi.[^26-2]
 
 <sup>3</sup> Se un eventuale fabbisogno supplementare supera il residuo di credito inutilizzato dell’anno precedente, il credito aggiuntivo deve essere domandato per l’intero importo.
 
 <sup>4</sup> Un residuo di credito riportato può essere utilizzato anche nell’anno successivo solo per il progetto corrispondente.
 
 [^26-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^26-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^26-2]: Nuovo testo giusta l’all. 2 n. II 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -471,7 +473,7 @@ Nella domanda deve essere esaustivamente motivato il fabbisogno di credito e dev
 [^27-3]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
 [^27-4]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-### Sezione 4:**** Spese e investimenti dell’Amministrazione
+### Sezione 4: Spese e investimenti dell’Amministrazione
 
 [^chap2-sec4-1]
 
@@ -804,7 +806,7 @@ L’Amministrazione delle finanze può ammettere un computo delle prestazioni co
 [^41-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^41-2]: Introdotto dal n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-### Sezione 5:**** Trattamento di dati personali
+### Sezione 5: Trattamento di dati personali
 
 [^chap3-sec5-1]
 
@@ -1360,7 +1362,7 @@ Essa emana istruzioni segnatamente:
 
 L’ordinanza dell’11 giugno 1990[^76-1] sulle finanze della Confederazione è abrogata.
 
-[^76-1]: [[RU 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 4, [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 42 [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043), [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)all. n. 5, [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 n. 1, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 2, [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115), [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)art. 15]
+[^76-1]: [[RU 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 4; [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 42, [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043); [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)all. n. 5; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 n. 1; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 2; [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115); [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)art. 15]
 
 #### Art. 77
 
@@ -1384,7 +1386,7 @@ La CRPF estingue le relazioni di conto dei titolari non domiciliati in Svizzera 
 
 La presente ordinanza entra in vigore il 1° maggio 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 33)
 
@@ -1405,7 +1407,7 @@ Allegato 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Altro capitale proprio Eccedenza/disavanzo di bilancio</td><td>38</td><td>Spese straordinarie</td><td>48</td><td>Ricavi straordinari</td><td>59</td><td>Riporto a bilancio</td><td>69</td><td>Riporto a bilancio</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 53 cpv. 2)
 
@@ -1421,6 +1423,6 @@ Allegato 2*[^t-2]*
 <tr><td></td><td></td><td>23.2</td><td>I ricavi dell’imposta sul valore aggiunto e della tassa sul traffico pesante commisurata alle prestazioni (TTPCP) sono contabilizzati con un differimento di un trimestre.</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 [^t-3]: Introdotto dal n. II cpv. 2 dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogato dal n. II cpv. 2 dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).

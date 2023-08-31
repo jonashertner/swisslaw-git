@@ -4,11 +4,11 @@ title: Ordonnance du 5 avril 2006 sur les finances de la Confédération (OFC)
 short: OFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-228-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-228-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20220101/fr"
 
 (OFC)
 
-du 5 avril 2006 (Etat le 1<sup>er</sup> janvier 2022)
+du 5 avril 2006 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -45,13 +45,15 @@ arrête:
 - c. aux commissions d’arbitrage et de recours;
 - d. au Ministère public de la Confédération;
 - e. à l’Autorité de surveillance du Ministère public de la Confédération;
-- f. au Conseil fédéral.[^1-1]
+- f. au Conseil fédéral;
+- g.[^1-1] au Préposé fédéral à la protection des données et à la transparence (PFPDT).[^1-2]
 
-<sup>2</sup> Le statut spécial de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle fédéral des finances (Contrôle des finances), du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération, au sens de l’art. 142, al. 2 et 3, de la loi du 13 décembre 2002 sur le Parlement (LParl)[^1-2], est réservé.[^1-3]
+<sup>2</sup> Le statut spécial de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle fédéral des finances (Contrôle des finances), du Ministère public de la Confédération, de l’Autorité de surveillance du Ministère public de la Confédération et du PFPDT, au sens de l’art. 142, al. 2 et 3, de la loi du 13 décembre 2002 sur le Parlement (LParl)[^1-3], est réservé.[^1-4]
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^1-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^1-1]: Introduite par l’annexe 2 ch. II 68 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^1-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^1-4]: Nouvelle teneur selon l’annexe 2 ch. II 68 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2
 
@@ -61,8 +63,8 @@ arrête:
 
 Des comptes spéciaux sont tenus pour:
 
-- a.[^2-1] ...
-- b.[^2-2] ...
+- a.[^2-1] …
+- b.[^2-2] …
 - c.[^2-3] le fonds d’infrastructure ferroviaire;
 - d.[^2-4] le fonds pour les routes nationales et pour le trafic d’agglomération.
 
@@ -434,14 +436,14 @@ Un crédit provisoire n’est ouvert que si la décision concernant des charges 
 
 <sup>1</sup> Les reports de crédits sont en règle générale décidés par le Conseil fédéral lors de l’adoption des messages sur les deux suppléments budgétaires.
 
-<sup>2</sup> Le Conseil fédéral reprend telles quelles les demandes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle des finances, du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération portant sur le report de crédits approuvés avec leurs budgets.[^26-2]
+<sup>2</sup> Le Conseil fédéral reprend telles quelles les demandes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle des finances, du Ministère public de la Confédération, de l’Autorité de surveillance du Ministère public de la Confédération et du PFPDT portant sur le report de crédits approuvés avec leurs budgets.[^26-2]
 
 <sup>3</sup> Si la rallonge nécessaire est supérieure à l’éventuel solde non utilisé de l’exercice précédent, il y a lieu de solliciter un crédit supplémentaire pour la totalité du montant.
 
 <sup>4</sup> Le solde non utilisé reporté peut être affecté l’année suivante uniquement au projet auquel il était destiné.
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^26-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^26-2]: Nouvelle teneur selon l’annexe 2 ch. II 68 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -474,7 +476,7 @@ Le crédit est dûment justifié dans la demande, laquelle expose en outre les p
 [^27-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
 [^27-4]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-### Section 4**** Charges et investissements de l’administration
+### Section 4 Charges et investissements de l’administration
 
 [^chap2-sec4-1]
 
@@ -809,7 +811,7 @@ L’Administration des finances peut autoriser une imputation des prestations av
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^41-2]: Introduit par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-### Section 5**** Traitement des données personnelles
+### Section 5 Traitement des données personnelles
 
 [^chap3-sec5-1]
 
@@ -1341,7 +1343,7 @@ Elle édicte des directives, notamment:
 - e. sur le système de contrôle interne (art. 36, al. 2);
 - f.[^75-3] sur la signature (art. 37);
 - g. sur les paiements entre les unités administratives (art. 41);
-- h.[^75-4] ...
+- h.[^75-4] …
 - i. sur les exigences formelles en matière de fourniture et d’administration des sûretés (art. 49);
 - j. sur la prise en charge des risques et le règlement des sinistres (art. 50, al. 3);
 - k.[^75-5] sur la conclusion de contrats de *leasing* (art. 52, al. 2);
@@ -1367,13 +1369,13 @@ Elle édicte des directives, notamment:
 
 L’ordonnance du 11 juin 1990 sur les finances de la Confédération[^76-1] est abrogée.
 
-[^76-1]: [[RO 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)annexe ch. 4, [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch. I 42 [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043), [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)annexe ch. 5, [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 ch. 1, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 ch. 2, [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115), [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)art. 15]
+[^76-1]: [[RO 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)annexe ch. 4; [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch. I 42, [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043); [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)annexe ch. 5; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 ch. 1; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 ch. 2; [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115); [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)art. 15]
 
 #### Art. 77
 
 **Modification du droit en vigueur**
 
-...[^77-1]
+…[^77-1]
 
 [^77-1]: La mod. peut être consultée au [RO 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228).
 
@@ -1391,7 +1393,7 @@ La CEPF résilie les relations de compte des détenteurs non domiciliés en Suis
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2006.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 33)
 
@@ -1412,7 +1414,7 @@ Annexe 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Autre capital propre Excédent/découvert du bilan</td><td>38</td><td>Charges extraordinaires</td><td>48</td><td>Revenus extraordinaires</td><td>59</td><td>Report au bilan</td><td>69</td><td>Report au bilan</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 53, al. 2)
 
@@ -1428,6 +1430,6 @@ Annexe 2*[^t-2]*
 <tr><td></td><td></td><td>23.2</td><td>Les revenus de la taxe sur la valeur ajoutée et de la redevance sur le trafic des poids lourds liée aux prestations sont comptabilisés avec un décalage d’un trimestre.</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 [^t-3]: Introduite par le ch. II al. 2 de l’O du 5 déc. 2008 ([RO 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogée par le ch. II al. 2 de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).

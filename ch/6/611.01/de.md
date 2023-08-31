@@ -4,11 +4,11 @@ title: Finanzhaushaltverordnung vom 5. April 2006 (FHV)
 short: FHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-228-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-228-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20220101/de"
 
 (FHV)
 
-vom 5. April 2006 (Stand am 1. Januar 2022)
+vom 5. April 2006 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -45,13 +45,15 @@ Soweit Gesetz und Verordnung nichts anderes bestimmen, sind die Bestimmungen die
 - c. die Schieds- und Rekurskommissionen;
 - d. die Bundesanwaltschaft;
 - e. die Aufsichtsbehörde über die Bundesanwaltschaft;
-- f. den Bundesrat.[^1-1]
+- f. den Bundesrat;
+- g.[^1-1] den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB).[^1-2]
 
-<sup>2</sup> Die Sonderstellung der Bundesversammlung, der eidgenössischen Gerichte, der Eidgenössischen Finanzkontrolle (Finanzkontrolle), der Bundesanwaltschaft und der Aufsichtsbehörde über die Bundesanwaltschaft nach Artikel 142 Absätze 2 und 3 des Parlamentsgesetzes vom 13. Dezember 2002[^1-2] (ParlG) bleibt vorbehalten.[^1-3]
+<sup>2</sup> Die Sonderstellung der Bundesversammlung, der eidgenössischen Gerichte, der Eidgenössischen Finanzkontrolle (Finanzkontrolle), der Bundesanwaltschaft, der Aufsichtsbehörde über die Bundesanwaltschaft und des EDÖB nach Artikel 142 Absätze 2 und 3 des Parlamentsgesetzes vom 13. Dezember 2002[^1-3] (ParlG) bleibt vorbehalten.[^1-4]
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^1-2]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^1-3]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^1-1]: Eingefügt durch Anhang 2 Ziff. II 68 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^1-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^1-4]: Fassung gemäss Anhang 2 Ziff. II 68 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2
 
@@ -431,14 +433,14 @@ Vorschüsse werden nur bewilligt, wenn mit dem Aufwand oder mit der Investitions
 
 <sup>1</sup> Kreditübertragungen werden vom Bundesrat in der Regel zusammen mit den Botschaften zu den Nachträgen I und II beschlossen.
 
-<sup>2</sup> Der Bundesrat übernimmt Anträge der Bundesversammlung, der eidgenössischen Gerichte, der Finanzkontrolle, der Bundesanwaltschaft und der Aufsichtsbehörde über die Bundesanwaltschaft auf Übertragung der mit ihren Voranschlägen bewilligen Kredite unverändert.[^26-2]
+<sup>2</sup> Der Bundesrat übernimmt Anträge der Bundesversammlung, der eidgenössischen Gerichte, der Finanzkontrolle, der Bundesanwaltschaft, der Aufsichtsbehörde über die Bundesanwaltschaft und des EDÖB auf Übertragung der mit ihren Voranschlägen bewilligen Kredite unverändert.[^26-2]
 
 <sup>3</sup> Übersteigt ein allfälliger Mehrbedarf den im Vorjahr nicht beanspruchten Kreditrest, so ist ein Nachtragskredit für den ganzen Betrag zu beantragen.
 
 <sup>4</sup> Ein übertragener Kreditrest darf auch im Folgejahr nur für das betreffende Vorhaben verwendet werden.
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^26-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^26-2]: Fassung gemäss Anhang 2 Ziff. II 68 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -471,7 +473,7 @@ Im Begehren sind der Kreditbedarf eingehend zu begründen und die wichtigsten Be
 [^27-3]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
 [^27-4]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-### 4. Abschnitt:**** Aufwände und Investitionen der Verwaltung
+### 4. Abschnitt: Aufwände und Investitionen der Verwaltung
 
 [^chap2-sec4-1]
 
@@ -805,7 +807,7 @@ Die Finanzverwaltung kann eine zwischen Verwaltungseinheiten vereinbarte kreditw
 [^41-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^41-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-### 5. Abschnitt:**** Bearbeitung von Personendaten
+### 5. Abschnitt: Bearbeitung von Personendaten
 
 [^chap3-sec5-1]
 
@@ -1383,7 +1385,7 @@ Die SKB löst Kontobeziehungen von Kontoinhaberinnen und Kontoinhabern, die kein
 
 Diese Verordnung tritt am 1. Mai 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 33)
 
@@ -1404,7 +1406,7 @@ Anhang 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Übriges Eigenkapital Bilanzüberschuss/ -fehlbetrag</td><td>38</td><td>Ausserordentlicher Aufwand</td><td>48</td><td>Ausserordentlicher Ertrag</td><td>59</td><td>Übertrag an Bilanz</td><td>69</td><td>Übertrag an Bilanz</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 53 Abs. 2)
 
@@ -1420,6 +1422,6 @@ Anhang 2*[^t-2]*
 <tr><td></td><td></td><td>23.2</td><td>Die Erträge aus der Mehrwertsteuer und der Schwerverkehrsabgabe (LSVA) werden mit einer Verzögerung von einem Quartal verbucht.</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 [^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Aufgehoben durch Ziff. II Abs. 2 der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
