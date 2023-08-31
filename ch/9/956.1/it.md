@@ -4,20 +4,20 @@ title: "Legge federale del 22 giugno 2007 concernente l'Autorità federale di vi
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente l’Autorità federale di vigilanza sui mercati finanziari
 
-(Legge sulla vigilanza dei mercati finanziari, LFINMA**[^t-1]**)
+(Legge sulla vigilanza dei mercati finanziari, LFINMA[^t-1])
 
-del 22 giugno 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 22 giugno 2007 (Stato 1° settembre 2023)
 
 [^t-1]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -30,7 +30,7 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)
 
-## Titolo primo: Disposizioni generali****
+## Titolo primo: Disposizioni generali
 
 [^tit1-1]
 
@@ -99,13 +99,13 @@ Conformemente alle leggi sui mercati finanziari, la vigilanza sui mercati finanz
 
 [^4-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-## Titolo secondo: Autorità federale di vigilanza sui mercati finanziari****
+## Titolo secondo: Autorità federale di vigilanza sui mercati finanziari
 
 [^tit2-1]
 
 [^tit2-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Capitolo 1: Disposizioni generali****
+### Capitolo 1: Disposizioni generali
 
 [^tit2-chap1-1]
 
@@ -262,9 +262,10 @@ Il consiglio d’amministrazione disciplina mediante ordinanza:
 
 <sup>1</sup>
 
-La FINMA tratta in forma cartacea o in uno o più sistemi d’informazione i dati del suo personale necessari per l’adempimento dei compiti previsti dalla presente legge, in particolare per:
+La FINMA tratta in forma cartacea o in uno o più sistemi d’informazione i dati del suo personale, nonché dei candidati a un impiego, necessari per l’adempimento dei compiti previsti dalla presente legge. Può affidare il trattamento di tali dati a un responsabile del trattamento. I dati personali trattati concernono in particolare:[^13a-2]
 
-- a. la costituzione, l’esecuzione e la cessazione dei rapporti di lavoro;
+- a.[^13a-3] le procedure di assunzione;
+- a<sup>bis</sup>.[^13a-4] la costituzione, l’esecuzione e la cessazione dei rapporti di lavoro;
 - b. la gestione del personale e dei salari;
 - c. lo sviluppo del personale;
 - d. la valutazione delle prestazioni;
@@ -272,7 +273,7 @@ La FINMA tratta in forma cartacea o in uno o più sistemi d’informazione i dat
 
 <sup>2</sup>
 
-Può trattare, in quanto necessari all’adempimento dei compiti di cui al capoverso 1, i seguenti dati del suo personale, inclusi i dati personali degni di particolare protezione e i profili della personalità:
+Può trattare, in quanto necessari all’adempimento dei compiti di cui al capoverso 1, i seguenti dati del suo personale, inclusi i dati personali degni di particolare protezione:[^13a-5]
 
 - a. dati relativi alla persona;
 - b. dati sullo stato di salute con riferimento alla capacità al lavoro;
@@ -291,6 +292,10 @@ Emana disposizioni di esecuzione concernenti:
 - e. la protezione e la sicurezza dei dati.
 
 [^13a-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13a-2]: Nuovo testo giusta l’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-3]: Nuovo testo giusta l’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-4]: Introdotta dall’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-5]: Nuovo testo giusta l’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -439,11 +444,35 @@ Essa non informa su singoli procedimenti eccetto che ve ne sia speciale necessit
 
 #### Art. 23
 
-**Trattamento dei dati ed elenco pubblico**
+**Trattamento di dati**[^23-1]
 
-<sup>1</sup> Nell’ambito della vigilanza ai sensi della presente legge e delle leggi sui mercati finanziari, la FINMA tratta dati personali, compresi dati personali degni di particolare protezione e profili della personalità. Essa disciplina i dettagli.
+<sup>1</sup> Nell’ambito della vigilanza ai sensi della presente legge e delle leggi sui mercati finanziari, la FINMA può trattare o far trattare dati personali, compresi quelli degni di particolare protezione.
 
-<sup>2</sup> La FINMA tiene un elenco degli assoggettati alla vigilanza. L’elenco è accessibile in forma elettronica al pubblico.
+<sup>2</sup>
+
+Può farlo in particolare per:
+
+- a. controllare gli assoggettati alla vigilanza;
+- b. esercitare la vigilanza;
+- c. condurre un procedimento;
+- d. valutare le garanzie per un’attività irreprensibile;
+- e. valutare il comportamento di una persona che esercita un’attività per un assoggettato alla vigilanza o sul mercato finanziario; o
+- f. l’assistenza amministrativa e giudiziaria nazionale e internazionale.
+
+<sup>3</sup> Per il trattamento di dati allo scopo di cui al capoverso 2 lettera e, la FINMA è autorizzata a effettuare profilazioni, incluse quelle a rischio elevato, ai sensi della legge federale del 25 settembre 2020[^23-2] sulla protezione dei dati.
+
+<sup>4</sup> La FINMA disciplina i dettagli.
+
+[^23-1]: Nuovo testo giusta l’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^23-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 23a
+
+**Elenco pubblico**[^23a-1]
+
+La FINMA tiene un elenco degli assoggettati alla vigilanza. L’elenco è accessibile in forma elettronica al pubblico.
+
+[^23a-1]: Introdotto dall’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 3: Strumenti di vigilanza
 
@@ -703,7 +732,7 @@ Il Tribunale amministrativo federale statuisce a richiesta di una delle autorit�
 
 [^41a-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Sezione 4: Collaborazione con servizi esteri****
+### Sezione 4: Collaborazione con servizi esteri
 
 [^tit2-chap3-sec4-1]
 
@@ -834,7 +863,7 @@ Sono considerate stabili organizzazioni:
 [^43-5]: Introdotto dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^43-6]: Nuovo testo giusta l’all. n. 8 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
-## Titolo terzo:**** Vigilanza su gestori patrimoniali e trustee****
+## Titolo terzo: Vigilanza su gestori patrimoniali e trustee
 
 [^tit3-1][^tit3-2]
 
@@ -1001,7 +1030,7 @@ Se la verifica è effettuata da una società di audit secondo il capoverso 1, gl
 
 <sup>2</sup> Gli assoggettati alla vigilanza e le società di audit che effettuano verifiche presso di loro devono inoltre notificare senza indugio all’organismo di vigilanza tutti gli eventi di grande importanza ai fini della vigilanza.
 
-## Titolo quarto: Disposizioni penali****
+## Titolo quarto: Disposizioni penali
 
 [^tit4-1]
 
@@ -1119,7 +1148,7 @@ Si può prescindere dalla determinazione delle persone punibili e condannare in 
 
 Il perseguimento delle contravvenzioni alla presente legge e alle leggi sui mercati finanziari si prescrive in sette anni.
 
-## Titolo quinto: Procedura e tutela giurisdizionale****
+## Titolo quinto: Procedura e tutela giurisdizionale
 
 [^tit5-1]
 
@@ -1141,13 +1170,13 @@ La procedura è disciplinata dalle disposizioni della legge federale del 20 dice
 
 <sup>2</sup> La FINMA è legittimata a interporre ricorso al Tribunale federale.
 
-## Titolo sesto: Disposizioni finali****
+## Titolo sesto: Disposizioni finali
 
 [^tit6-1]
 
 [^tit6-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Capitolo 1: Esecuzione****
+### Capitolo 1: Esecuzione
 
 [^tit6-chap1-1]
 
@@ -1169,7 +1198,7 @@ La procedura è disciplinata dalle disposizioni della legge federale del 20 dice
 
 La FINMA è competente per l’esecuzione della presente legge e delle leggi sui mercati finanziari.
 
-### Capitolo 2: Modifica di altri atti normativi****
+### Capitolo 2: Modifica di altri atti normativi
 
 [^tit6-chap2-1]
 
@@ -1179,7 +1208,7 @@ La FINMA è competente per l’esecuzione della presente legge e delle leggi sui
 
 La modifica del diritto vigente è disciplinata nell’allegato.
 
-### Capitolo 3: Disposizioni transitorie****
+### Capitolo 3: Disposizioni transitorie
 
 [^tit6-chap3-1]
 
@@ -1218,7 +1247,7 @@ La FINMA è considerata il datore di lavoro competente per i beneficiari di rend
 
 <sup>2</sup> La FINMA è parimenti considerata il datore di lavoro competente se l’inizio dell’incapacità lavorativa che provoca successivamente l’invalidità precede l’entrata in vigore della presente legge e se la rendita inizia a decorrere soltanto dopo la sua entrata in vigore.
 
-### Capitolo 4: Referendum ed entrata in vigore****
+### Capitolo 4: Referendum ed entrata in vigore
 
 [^tit6-chap4-1]
 

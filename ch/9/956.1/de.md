@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2007 über die Eidgenössische Finanzmarktaufs
 short: FINMAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20220101/de"
 
 (Finanzmarktaufsichtsgesetz, FINMAG)
 
-vom 22. Juni 2007 (Stand am 1. Januar 2022)
+vom 22. Juni 2007 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -28,7 +28,7 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)
 
-## 1. Titel: Allgemeine Bestimmungen****
+## 1. Titel: Allgemeine Bestimmungen
 
 [^tit1-1]
 
@@ -97,13 +97,13 @@ Die Finanzmarktaufsicht bezweckt nach Massgabe der Finanzmarktgesetze den Schutz
 
 [^4-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-## 2. Titel: Finanzmarktaufsichtsbehörde****
+## 2. Titel: Finanzmarktaufsichtsbehörde
 
 [^tit2-1]
 
 [^tit2-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### 1. Kapitel: Allgemeine Bestimmungen****
+### 1. Kapitel: Allgemeine Bestimmungen
 
 [^tit2-chap1-1]
 
@@ -260,9 +260,10 @@ Der Verwaltungsrat regelt in einer Verordnung:
 
 <sup>1</sup>
 
-Die FINMA bearbeitet in Papierform oder in einem oder mehreren Informationssystemen Daten ihres Personals zur Erfüllung der Aufgaben nach diesem Gesetz, insbesondere für:
+Die FINMA bearbeitet in Papierform oder in einem oder mehreren Informationssystemen Daten ihres Personals sowie von Stellenbewerberinnen und Stellenbewerbern zur Erfüllung der Aufgaben nach diesem Gesetz. Sie kann die Bearbeitung einem Auftragsbearbeiter übertragen. Die bearbeiteten Personendaten betreffen insbesondere:[^13a-2]
 
-- a. die Begründung, Durchführung und Beendigung eines Arbeitsverhältnisses;
+- a.[^13a-3] den Bewerbungsprozess;
+- a<sup>bis</sup>.[^13a-4] die Begründung, Durchführung und Beendigung eines Arbeitsverhältnisses;
 - b. die Personal- und Lohnbewirtschaftung;
 - c. die Personalentwicklung;
 - d. die Leistungsbeurteilung;
@@ -270,7 +271,7 @@ Die FINMA bearbeitet in Papierform oder in einem oder mehreren Informationssyste
 
 <sup>2</sup>
 
-Sie kann folgende für die Erfüllung ihrer Aufgaben nach Absatz 1 notwendigen Daten ihres Personals, einschliesslich besonders schützenswerte Personendaten und Persönlichkeitsprofile, bearbeiten:
+Sie kann folgende für die Erfüllung ihrer Aufgaben nach Absatz 1 notwendigen Daten ihres Personals, einschliesslich besonders schützenswerte Personendaten, bearbeiten:[^13a-5]
 
 - a. Angaben zur Person;
 - b. Angaben zur gesundheitlichen Situation in Bezug auf die Arbeitsfähigkeit;
@@ -289,6 +290,10 @@ Sie erlässt Ausführungsbestimmungen über:
 - e. den Schutz und die Sicherheit der Daten.
 
 [^13a-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13a-2]: Fassung gemäss Anhang 1 Ziff. II 96 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-3]: Fassung gemäss Anhang 1 Ziff. II 96 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-4]: Eingefügt durch Anhang 1 Ziff. II 96 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-5]: Fassung gemäss Anhang 1 Ziff. II 96 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -437,11 +442,35 @@ Sie informiert nicht über einzelne Verfahren, es sei denn, es bestehe dafür ei
 
 #### Art. 23
 
-**Datenbearbeitung undöffentliches Verzeichnis**
+**Datenbearbeitung**[^23-1]
 
-<sup>1</sup> Die FINMA bearbeitet im Rahmen der Aufsicht nach diesem Gesetz und den Finanzmarktgesetzen Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofilen. Sie regelt die Einzelheiten.
+<sup>1</sup> Die FINMA kann im Rahmen der Aufsicht nach diesem Gesetz und den Finanzmarktgesetzen Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten oder bearbeiten lassen.
 
-<sup>2</sup> Sie führt ein Verzeichnis der Beaufsichtigten. Dieses Verzeichnis ist in elektronischer Form öffentlich zugänglich.
+<sup>2</sup>
+
+Sie darf dies insbesondere zum Zweck:
+
+- a. der Prüfung der Beaufsichtigten;
+- b. der Aufsicht;
+- c. der Führung eines Verfahrens;
+- d. der Beurteilung der Gewähr für einwandfreie Geschäftstätigkeit;
+- e. der Beurteilung des Verhaltens einer Person bei einer Tätigkeit für eine Beaufsichtigte oder einen Beaufsichtigten oder auf dem Finanzmarkt; oder
+- f. der nationalen und internationalen Amts- und Rechtshilfe.
+
+<sup>3</sup> Für die Datenbearbeitung zum Zweck nach Absatz 2 Buchstabe e ist sie zum Profiling, einschliesslich zum Profiling mit hohem Risiko, nach dem Datenschutzgesetz vom 25. September 2020[^23-2] befugt.
+
+<sup>4</sup> Sie regelt die Einzelheiten.
+
+[^23-1]: Fassung gemäss Anhang 1 Ziff. II 96 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^23-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 23a
+
+**Öffentliches Verzeichnis**[^23a-1]
+
+Die FINMA führt ein Verzeichnis der Beaufsichtigten. Dieses ist in elektronischer Form öffentlich zugänglich.
+
+[^23a-1]: Eingefügt durch Anhang 1 Ziff. II 96 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Kapitel: Aufsichtsinstrumente
 
@@ -701,7 +730,7 @@ Die FINMA kann die Bekanntgabe von nicht öffentlich zugänglichen Informationen
 
 [^41a-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### 4. Abschnitt: Zusammenarbeit mit ausländischen Stellen****
+### 4. Abschnitt: Zusammenarbeit mit ausländischen Stellen
 
 [^tit2-chap3-sec4-1]
 
@@ -832,7 +861,7 @@ Als Niederlassungen gelten:
 [^43-5]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^43-6]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
-## 3. Titel:**** Aufsicht über Vermögensverwalter und Trustees****
+## 3. Titel: Aufsicht über Vermögensverwalter und Trustees
 
 [^tit3-1][^tit3-2]
 
@@ -999,7 +1028,7 @@ Bei Prüfungen durch eine Prüfgesellschaft nach Absatz 1 müssen leitende Prüf
 
 <sup>2</sup> Die Beaufsichtigten und die Prüfgesellschaften, die bei ihnen Prüfungen durchführen, müssen der Aufsichtsorganisation zudem unverzüglich Vorkommnisse melden, die für die Aufsicht von wesentlicher Bedeutung sind.
 
-## 4. Titel: Strafbestimmungen****
+## 4. Titel: Strafbestimmungen
 
 [^tit4-1]
 
@@ -1117,7 +1146,7 @@ Von der Ermittlung der strafbaren Personen kann Umgang genommen und an ihrer Ste
 
 Die Verfolgung von Übertretungen dieses Gesetzes und der Finanzmarktgesetze verjährt nach sieben Jahren.
 
-## 5. Titel: Verfahren und Rechtsschutz****
+## 5. Titel: Verfahren und Rechtsschutz
 
 [^tit5-1]
 
@@ -1139,13 +1168,13 @@ Das Verfahren richtet sich nach den Bestimmungen des Bundesgesetzes vom 20. Deze
 
 <sup>2</sup> Die FINMA ist zur Beschwerde an das Bundesgericht berechtigt.
 
-## 6. Titel: Schlussbestimmungen****
+## 6. Titel: Schlussbestimmungen
 
 [^tit6-1]
 
 [^tit6-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### 1. Kapitel: Vollzug****
+### 1. Kapitel: Vollzug
 
 [^tit6-chap1-1]
 
@@ -1167,7 +1196,7 @@ Das Verfahren richtet sich nach den Bestimmungen des Bundesgesetzes vom 20. Deze
 
 Die FINMA ist zuständig für den Vollzug dieses Gesetzes und der Finanzmarktgesetze.
 
-### 2. Kapitel: Änderung anderer Erlasse****
+### 2. Kapitel: Änderung anderer Erlasse
 
 [^tit6-chap2-1]
 
@@ -1177,7 +1206,7 @@ Die FINMA ist zuständig für den Vollzug dieses Gesetzes und der Finanzmarktges
 
 Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
-### 3. Kapitel: Übergangsbestimmungen****
+### 3. Kapitel: Übergangsbestimmungen
 
 [^tit6-chap3-1]
 
@@ -1216,7 +1245,7 @@ Die FINMA gilt als zuständige Arbeitgeberin für die Rentenbezügerinnen und �
 
 <sup>2</sup> Liegt der Beginn der Arbeitsunfähigkeit, deren Ursache zu einem späteren Zeitpunkt zur Invalidität führt, vor dem Inkrafttreten dieses Gesetzes und beginnt die Rente erst nach seinem Inkrafttreten zu laufen, so gilt die FINMA ebenfalls als zuständige Arbeitgeberin.
 
-### 4. Kapitel: Referendum und Inkrafttreten****
+### 4. Kapitel: Referendum und Inkrafttreten
 
 [^tit6-chap4-1]
 

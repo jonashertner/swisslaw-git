@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 2007 on the Swiss Financial Market Supervisory Au
 short: FINMASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: en
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Supervision Act, FINMASA)
 
-of 22 June 2007 (Status as of 1 January 2022)
+of 22 June 2007 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -30,7 +30,7 @@ decrees:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)
 
-## Title 1 General Provisions****
+## Title 1 General Provisions
 
 [^tit1-1]
 
@@ -99,13 +99,13 @@ In accordance with the financial market acts, financial market supervision has t
 
 [^4-1]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-## Title 2 Financial Market Supervisory Authority****
+## Title 2 Financial Market Supervisory Authority
 
 [^tit2-1]
 
 [^tit2-1]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Chapter 1 General Provisions****
+### Chapter 1 General Provisions
 
 [^tit2-chap1-1]
 
@@ -253,13 +253,14 @@ The Board of Directors regulates in an ordinance:
 
 <sup>5</sup> The Board of Directors shall submit the ordinance to the Federal Council for approval.
 
-**Art. 13**a*[^13-3]* Data processing
+**Art. 13**a[^13-3] Data processing
 
 <sup>1</sup>
 
-FINMA shall process, in hard copy or in one or more information systems, the data on its employees necessary for performing the tasks in accordance with this Act, particularly for:
+FINMA shall process, in hard copy or in one or more information systems, the data on its employees and on job applicants necessary for performing the tasks in accordance with this Act. It may delegate the processing to a processor. The data processed relate in particular to:[^13-4]
 
-- a. creating, executing and terminating an employment relationship;
+- a.[^13-5] the application process;
+- a<sup>bis</sup>.[^13-6] creating, executing and terminating an employment relationship;
 - b. personnel and wage management;
 - c. personnel development;
 - d. performance appraisal;
@@ -267,7 +268,7 @@ FINMA shall process, in hard copy or in one or more information systems, the dat
 
 <sup>2</sup>
 
-It may process the following data pertaining to its employees necessary for performing the tasks set out in paragraph 1, including sensitive personal data and personality profiles:
+It may process the following data pertaining to its employees necessary for performing the tasks set out in paragraph 1, including sensitive personal data:[^13-7]
 
 - a. personal details;
 - b. state of health details with regard to working ability;
@@ -288,6 +289,10 @@ It shall issue implementing regulations with regard to:
 [^13-1]: Amended by Annex No 4 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^13-3]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-4]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-5]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-6]: Inserted by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-7]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -436,11 +441,35 @@ It does not provide information on individual proceedings, unless there is a par
 
 #### Art. 23
 
-**Data processing and public directory**
+**Data processing**[^23-1]
 
-<sup>1</sup> As part of its supervisory activity under this Act and the financial market acts, FINMA processes personal data, including particularly sensitive personal data and personality profiles. It regulates the details.
+<sup>1</sup> As part of its supervisory activity under this Act and the financial market acts, FINMA may process personal data or have personal data processed, including sensitive personal data.
 
-<sup>2</sup> It maintains a directory of the supervised persons and entities. This directory is accessible to the public in electronic form.
+<sup>2</sup>
+
+It may do this in particular for the purpose of:
+
+- a. auditing supervised persons and entities;
+- b. supervision;
+- c. conducting proceedings;
+- d. assessing the guarantee of proper business conduct;
+- e. assessing the conduct of a person acting for a supervised person or entity or in the financial market; or
+- f. national and international administrative assistance and mutual legal assistance.
+
+<sup>3</sup> In the case of data processing for the purpose specified in paragraph 2 letter e, it is authorised to carry out profiling, including high-risk profiling as defined in the Data Protection Act of 25 September 2020[^23-2].
+
+<sup>4</sup> It shall regulate the details.
+
+[^23-1]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^23-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 23a
+
+**Public directory**[^23a-1]
+
+Die FINMA shall maintain a directory of the supervised persons and entities. This directory is accessible to the public in electronic form.
+
+[^23a-1]: Inserted by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Chapter 3 Supervisory Instruments
 
@@ -579,7 +608,7 @@ Where there are indications of violations of supervisory provisions and if FINMA
 
 <sup>2</sup> The prohibition from practising a profession may be imposed for a period of up to five years.
 
-**Art. 33**a*[^33-1]* Prohibition from performing an activity
+**Art. 33**a[^33-1] Prohibition from performing an activity
 
 <sup>1</sup>
 
@@ -688,7 +717,7 @@ FINMA may refuse to disclose information that is not publicly accessible or to h
 
 At the request of any of the authorities concerned, the Federal Administrative Court rules on disputes relating to the cooperation between FINMA on the one hand and prosecution authorities or other domestic authorities on the other.
 
-**Art. 41**a*[^41-1]* Communication of judgments
+**Art. 41**a[^41-1] Communication of judgments
 
 <sup>1</sup> The cantonal civil courts and the Federal Supreme Court shall provide FINMA free of charge with a full copy of their judgment in relation to disputes between a supervised person or entity and creditors, investors or insured parties.
 
@@ -696,7 +725,7 @@ At the request of any of the authorities concerned, the Federal Administrative C
 
 [^41-1]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Section 4 Cooperation with Foreign Bodies****
+### Section 4 Cooperation with Foreign Bodies
 
 [^tit2-chap3-sec4-1]
 
@@ -827,7 +856,7 @@ Establishments are defined as:
 [^43-5]: Inserted by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^43-6]: Amended by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
-## Title 3**** Supervision of Portfolio Managers and Trustees****
+## Title 3 Supervision of Portfolio Managers and Trustees
 
 [^tit3-1][^tit3-2]
 
@@ -994,7 +1023,7 @@ For audits conducted by an audit company in accordance with paragraph 1, a lead 
 
 <sup>2</sup> The supervised persons and entities and the audit companies that conduct audits of them must also immediately report to FINMA any incident that is of substantial importance to the supervision.
 
-## Title 4 Criminal Provisions****
+## Title 4 Criminal Provisions
 
 [^tit4-1]
 
@@ -1114,7 +1143,7 @@ The ascertainment of the criminally liable persons may be dispensed with and ins
 
 The prosecution of offences under this Act and under the financial market acts become time barred after seven years.
 
-## Title 5 Procedure and Right of Appeal****
+## Title 5 Procedure and Right of Appeal
 
 [^tit5-1]
 
@@ -1136,13 +1165,13 @@ The procedure is governed by the provisions of the Federal Act of 20 December 19
 
 <sup>2</sup> FINMA is entitled to appeal to the Federal Supreme Court.
 
-## Title 6 Final Provisions****
+## Title 6 Final Provisions
 
 [^tit6-1]
 
 [^tit6-1]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Chapter 1 Implementation****
+### Chapter 1 Implementation
 
 [^tit6-chap1-1]
 
@@ -1164,7 +1193,7 @@ The procedure is governed by the provisions of the Federal Act of 20 December 19
 
 FINMA is responsible for the implementation of this Act and of the financial market acts.
 
-### Chapter 2 Amendment of Other Legislative Instruments****
+### Chapter 2 Amendment of Other Legislative Instruments
 
 [^tit6-chap2-1]
 
@@ -1174,7 +1203,7 @@ FINMA is responsible for the implementation of this Act and of the financial mar
 
 The amendment of current legislation is regulated in the Annex.
 
-### Chapter 3 Transitional Provisions****
+### Chapter 3 Transitional Provisions
 
 [^tit6-chap3-1]
 
@@ -1213,7 +1242,7 @@ FINMA is the responsible employer for persons in receipt of a pension:
 
 <sup>2</sup> Where any incapacity to work, the cause of which subsequently leads to invalidity, begins before the commencement of this Act and the related pension begins to be drawn after its commencement, FINMA is also the responsible employer.
 
-### Chapter 4 Referendum and Commencement****
+### Chapter 4 Referendum and Commencement
 
 [^tit6-chap4-1]
 
