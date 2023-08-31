@@ -4,11 +4,11 @@ title: Telecommunications Act of 30 April 1997 (TCA)
 short: TCA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: en
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210701/en/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (TCA)
 
-of 30 April 1997 (Status as of 1 July 2021)
+of 30 April 1997 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -345,25 +345,26 @@ They may transmit information by different methods if this is required in order 
 
 #### Art. 13a
 
-**Processing of data**[^13a-1]
+**Data processing**[^13a-1]
 
-<sup>1</sup> ComCom and OFCOM may process personal data, including data concerning administrative or criminal prosecutions and penalties and personality profiles, provided that this is indispensable for the fulfilment of the tasks imposed on them by the telecommunications legislation. They may use an information system for this purpose.
+<sup>1</sup> The Commission and the Federal Office may process personal data, including data concerning administrative or criminal prosecutions and sanctions, provided that this is indispensable for the fulfilment of their tasks under the telecommunications legislation.[^13a-2] They may use an information system for this purpose.
 
 <sup>2</sup> They shall take the technical and organisational measures necessary for data protection and security during processing, and in particular during transmission.
 
 <sup>3</sup> The Federal Council may issue complementary provisions, namely concerning the organisation and operation of the information system, the categories of the data to be processed, access and processing authorisations, the term of conservation as well as the archiving and destruction of data.
 
 [^13a-1]: Inserted by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13a-2]: Amended by Annex 1 No II 68 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13b
 
 **Administrative assistance**[^13b-1]
 
-<sup>1</sup> ComCom and OFCOM shall provide to other Swiss authorities data which these authorities need in order to fulfil their legal duties. This data also includes sensitive data and personality profiles obtained in administrative or administrative criminal procedures. The data shall be made accessible individually, in lists or on electronic media.
+<sup>1</sup> ComCom and OFCOM shall provide to other Swiss authorities data which these authorities need in order to fulfil their legal duties. This data also includes sensitive data obtained in administrative or administrative criminal proceedings.[^13b-2] The data shall be made accessible individually, in lists or on electronic media.
 
 <sup>2</sup>
 
-Subject to international agreements to the contrary, ComCom and OFCOM may only transfer data to foreign surveillance authorities in the telecommunications sector, including sensitive personal data and personality profiles obtained in administrative or administrative criminal procedures, if these authorities:
+Subject to international agreements to the contrary, the Commission and the Federal Office may only transfer data to foreign surveillance authorities in the telecommunications sector, including sensitive personal data obtained in administrative or administrative criminal proceedings, if these authorities:[^13b-3]
 
 - a. use such data exclusively to conduct surveillance of telecommunications service providers or for purposes of market surveillance;
 - b. are bound by official or professional secrecy; and
@@ -371,11 +372,14 @@ Subject to international agreements to the contrary, ComCom and OFCOM may only t
 
 <sup>3</sup> ComCom and OFCOM shall not forward data to foreign prosecuting authorities if legal assistance is excluded in criminal matters. ComCom or OFCOM shall decide in agreement with the Federal Office of Justice.
 
-<sup>4</sup> Swiss authorities shall forward to ComCom and OFCOM without charge such data as may be important for the enforcement of telecommunications legislation, including sensitive personal data and personality profiles. The data shall be made accessible individually, in lists or on electronic media.
+<sup>4</sup> Swiss authorities shall forward to the Commission and the Federal Office without charge such data as may be important for the enforcement of telecommunications legislation, including sensitive personal data.[^13b-4] The data shall be made accessible individually, in lists or on electronic media.
 
 [^13b-1]: Inserted by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13b-2]: Second sentence amended by Annex 1 No II 68 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-3]: Amended by Annex 1 No II 68 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-4]: Amended by Annex 1 No II 68 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### Section 2 Universal Service Licence****
+### Section 2 Universal Service Licence
 
 [^chap2-sec2-1]
 
@@ -491,7 +495,7 @@ Unless there is some overriding public or private interest not to do so, OFCOM s
 
 [^19b-1]: Inserted by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
-### Section 3 Obligations deriving from the Provision of Specific Services****
+### Section 3 Obligations deriving from the Provision of Specific Services
 
 [^chap2-sec3-1]
 
@@ -1178,7 +1182,7 @@ The Federal Council shall regulate the detailed arrangements for the collection 
 
 The authority responsible for collecting the fees may require the person responsible for paying them to provide appropriate guarantees.
 
-## Chapter 7 Telecommunications Confidentiality and Data Protection and Protection of Children and Minors****
+## Chapter 7 Telecommunications Confidentiality and Data Protection and Protection of Children and Minors
 
 [^chap7-1]
 

@@ -4,11 +4,11 @@ title: Legge del 30 aprile 1997 sulle telecomunicazioni (LTC)
 short: LTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: it
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/it"
 
 (LTC)
 
-del 30 aprile 1997 (Stato 1° luglio 2021)
+del 30 aprile 1997 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -99,9 +99,7 @@ Nella presente legge s’intende per:[^3-1]
 
 **Rapporto di valutazione**[^3a-1]
 
-[^3a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-
-### <sup>1</sup>
+<sup>1</sup>
 
 Ogni tre anni il Consiglio federale riferisce all’Assemblea federale in merito:
 
@@ -110,7 +108,10 @@ Ogni tre anni il Consiglio federale riferisce all’Assemblea federale in merito
 - c. alla qualità e ai prezzi dei servizi di telecomunicazione offerti;
 - d. all’evoluzione della concorrenza in materia di reti;
 - e. ai costi e alla garanzia dell’accesso ai collegamenti d’utente, a prescindere dalla tecnologia su cui si basano.
-- [tab] <sup>2</sup> Se del caso, il Consiglio federale presenta all’Assemblea federale proposte tese a promuovere una concorrenza efficace.
+
+<sup>2</sup> Se del caso, il Consiglio federale presenta all’Assemblea federale proposte tese a promuovere una concorrenza efficace.
+
+[^3a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 4
 
@@ -345,23 +346,24 @@ Possono trasmettere informazioni in modo differenziato se necessario per:
 
 **Elaborazione dei dati**[^13a-1]
 
-<sup>1</sup> La ComCom e l’UFCOM possono elaborare dati personali, inclusi i dati su perseguimenti e sanzioni di natura amministrativa o penale e i profili della personalità, ove sia indispensabile per adempiere i compiti conferiti loro dalla legislazione sulle telecomunicazioni. A tal fine, possono avvalersi di un sistema d’informazioni.
+<sup>1</sup> La Commissione e l’Ufficio federale possono elaborare dati personali, inclusi i dati su perseguimenti e sanzioni di natura amministrativa e penale, ove sia indispensabile per adempiere i compiti conferiti loro dalla legislazione sulle telecomunicazioni.[^13a-2] A tal fine, possono avvalersi di un sistema d’informazioni.
 
 <sup>2</sup> La ComCom e l’UFCOM prendono i provvedimenti tecnici e organizzativi necessari per garantire la protezione e la sicurezza dei dati al momento dell’elaborazione, in particolare al momento della loro trasmissione.
 
 <sup>3</sup> Il Consiglio federale può emanare disposizioni completive, in particolare sull’organizzazione e la gestione del sistema d’informazioni, sulle categorie di dati da elaborare, sull’autorizzazione d’accesso e di elaborazione, sulla durata di conservazione, nonché sull’archiviazione e la distruzione dei dati.
 
 [^13a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13a-2]: Nuovo testo giusta l’all. 1 n. II 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13b
 
 **Assistenza amministrativa**[^13b-1]
 
-<sup>1</sup> La ComCom e l’UFCOM trasmettono ad altre autorità svizzere i dati di cui queste necessitano per l’adempimento dei loro compiti legali. Fanno parte di tali dati anche i dati personali degni di particolare protezione e profili della personalità ottenuti nell’ambito di procedimenti amministrativi o penali amministrativi. I dati sono resi accessibili singolarmente, mediante liste o su supporti elettronici.
+<sup>1</sup> La ComCom e l’UFCOM trasmettono ad altre autorità svizzere i dati di cui queste necessitano per l’adempimento dei loro compiti legali. Fanno parte di tali dati anche i dati personali degni di particolare protezione raccolti nell’ambito di procedimenti amministrativi o penali amministrativi.[^13b-2] I dati sono resi accessibili singolarmente, mediante liste o su supporti elettronici.
 
 <sup>2</sup>
 
-Salvo diversa disposizione di accordi internazionali, la ComCom e l’UFCOM possono trasmettere dati ad autorità di vigilanza estere incaricate di compiti nel settore delle telecomunicazioni, inclusi i dati personali degni di particolare protezione e profili della personalità ottenuti nell’ambito di procedimenti amministrativi o penali amministrativi, solo se queste autorità:
+Salvo diversa disposizione di accordi internazionali, la Commissione e l’Ufficio federale possono trasmettere dati ad autorità di vigilanza estere incaricate di compiti nel settore delle telecomunicazioni, inclusi i dati personali degni di particolare protezione raccolti nell’ambito di procedimenti amministrativi o penali amministrativi, soltanto se queste autorità:[^13b-3]
 
 - a. utilizzano tali dati unicamente per esercitare la vigilanza sui fornitori di servizi di telecomunicazione e osservare il mercato;
 - b. sono vincolate al segreto d’ufficio o al segreto professionale; e
@@ -369,11 +371,14 @@ Salvo diversa disposizione di accordi internazionali, la ComCom e l’UFCOM poss
 
 <sup>3</sup> La ComCom e l’UFCOM non sono autorizzati a trasmettere dati ad autorità penali estere se l’assistenza giudiziaria in materia penale è esclusa. La ComCom o l’UFCOM decide d’intesa con l’Ufficio federale di giustizia.
 
-<sup>4</sup> Le autorità svizzere trasmettono gratuitamente alla ComCom e all’UFCOM i dati che potrebbero essere importanti per l’esecuzione della legislazione sulle telecomunicazioni, inclusi i dati personali degni di particolare protezione e i profili della personalità. I dati sono resi accessibili singolarmente, mediante liste o su supporti elettronici.
+<sup>4</sup> Le autorità svizzere trasmettono gratuitamente alla Commissione e all’Ufficio federale i dati che potrebbero essere importanti per l’esecuzione della legislazione sulle telecomunicazioni, inclusi i dati personali degni di particolare protezione.[^13b-4] I dati sono resi accessibili singolarmente, mediante liste o su supporti elettronici.
 
 [^13b-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13b-2]: Nuovo testo del secondo per. giusta l’all. 1 n. II 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-3]: Nuovo testo giusta l’all. 1 n. II 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-4]: Nuovo testo giusta l’all. 1 n. II 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### Sezione 2: Concessione per il servizio universale****
+### Sezione 2: Concessione per il servizio universale
 
 [^chap2-sec2-1]
 
@@ -490,7 +495,7 @@ Per quanto non vi si oppongano interessi pubblici o privati preponderanti, l’U
 
 [^19b-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
-### Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici****
+### Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici
 
 [^chap2-sec3-1]
 
@@ -684,7 +689,7 @@ Il trasferimento presuppone il consenso dell’autorità concedente. Il consenso
 
 <sup>5</sup> L’utilizzazione comune di elementi delle reti di radiocomunicazione da parte dei titolari di concessioni rilasciate dalla ComCom deve essere previamente notificata alla ComCom. L’utilizzazione comune delle frequenze necessita del consenso di cui al capoverso 2.
 
-[^24d-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo esto giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^24d-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 24e
 
@@ -1182,7 +1187,7 @@ Il Consiglio federale disciplina la riscossione delle tasse; fissa le modalità 
 
 L’autorità competente per la riscossione delle tasse può esigere un’adeguata garanzia dalla persona assoggettata.
 
-## Capitolo 7: Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti****
+## Capitolo 7: Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti
 
 [^chap7-1]
 

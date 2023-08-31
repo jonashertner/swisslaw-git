@@ -4,11 +4,11 @@ title: Loi du 30 avril 1997 sur les télécommunications (LTC)
 short: LTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: fr
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/fr"
 
 (LTC)
 
-du 30 avril 1997 (Etat le 1<sup>er</sup> juillet 2021)
+du 30 avril 1997 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -78,7 +78,7 @@ Au sens de la présente loi, on entend par:
 - e<sup>bis</sup>.[^3-5] *lignes louées:* la fourniture de capacités de transmission transparentes par des liaisons de point à point;
 - e<sup>ter</sup>.[^3-6] *canalisations de câbles:* les conduites souterraines dans lesquelles sont tirées les lignes destinées à la transmission d’informations au moyen de techniques de télécommunication, y compris les chambres d’accès;
 - f.[^3-7] *ressource d’adressage:* la suite de chiffres, de lettres ou de signes ou toute autre information permettant d’identifier une personne, un processus informatique, une machine, un appareil ou une installation de télécommunication qui intervient dans une opération de télécommunication;
-- g.[^3-8] *données d**’annuaire:* les indications qui identifient ou caractérisent un client au regard d’une ressource d’adressage individuelle lui ayant été attribuée et qui sont destinées à la publication d’un annuaire ou qui sont nécessaires à la fourniture d’un service de télécommunication;
+- g.[^3-8] *données d’annuaire:* les indications qui identifient ou caractérisent un client au regard d’une ressource d’adressage individuelle lui ayant été attribuée et qui sont destinées à la publication d’un annuaire ou qui sont nécessaires à la fourniture d’un service de télécommunication;
 - h.[^3-9] *programme de radio et de télévision:* une série d’émissions au sens de l’art. 2 LRTV[^3-10].
 
 [^3-1]: Introduite par le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
@@ -341,29 +341,30 @@ Ils peuvent transmettre des informations différemment si cela est nécessaire p
 
 <sup>3</sup> Il ne peut donner d’informations sur les poursuites administratives ou pénales en cours, les publier ou les rendre accessibles en ligne, que si un intérêt public ou privé prépondérant le justifie.
 
-[^13-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 (RO **20****07** 921; [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 13a
 
 **Traitement des données**[^13a-1]
 
-<sup>1</sup> La ComCom et l’OFCOM peuvent traiter les données personnelles, y compris les données sur les poursuites et sanctions administratives ou pénales, ainsi que les profils de la personnalité, si ces données sont nécessaires à l’exécution des tâches qui leur incombent en vertu de la législation sur les télécommunications. Pour ce faire, ils peuvent exploiter un système d’information.
+<sup>1</sup> La commission et l’office peuvent traiter les données personnelles, y compris les données sur les poursuites et sanctions administratives ou pénales, si ces données sont nécessaires à l’exécution des tâches qui leur incombent en vertu de la législation sur les télécommunications.[^13a-2] Pour ce faire, ils peuvent exploiter un système d’information.
 
 <sup>2</sup> Ils prennent les mesures techniques et organisationnelles qui s’imposent pour assurer la protection et la sécurité des données lors de leur traitement, en particulier lors de leur transmission.
 
 <sup>3</sup> Le Conseil fédéral peut édicter des dispositions d’exécution portant notamment sur l’organisation et l’exploitation du système d’information, les catégories de données à traiter, l’accès aux données ainsi que les autorisations de traitement, la durée de conservation, l’archivage et la destruction des données.
 
 [^13a-1]: Introduit par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13a-2]: Nouvelle teneur selon l’annexe 1 ch. II 68 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13b
 
 **Assistance administrative**[^13b-1]
 
-<sup>1</sup> La ComCom et l’OFCOM transmettent aux autres autorités suisses les données dont elles ont besoin pour accomplir les tâches qui leur incombent de par la loi. Les données sensibles et les profils de la personnalité acquis au cours de procédures administratives ou de procédures pénales administratives font partie des données transmises. Les données sont communiquées séparément, sous forme de listes ou sur des supports de données électroniques.
+<sup>1</sup> La ComCom et l’OFCOM transmettent aux autres autorités suisses les données dont elles ont besoin pour accomplir les tâches qui leur incombent de par la loi. Les données sensibles acquises au cours de procédures administratives ou de procédures pénales administratives font partie des données transmises.[^13b-2] Les données sont communiquées séparément, sous forme de listes ou sur des supports de données électroniques.
 
 <sup>2</sup>
 
-Sous réserve d’accords internationaux comportant des dispositions contraires, la ComCom et l’OFCOM ne peuvent transmettre des données à des autorités étrangères chargées de tâches de surveillance dans le domaine des télécommunications, y compris des données sensibles et des profils de la personnalité acquis au cours de procédures administratives ou de procédures pénales administratives, que si ces autorités:
+Sous réserve d’accords internationaux comportant des dispositions contraires, la commission et l’office ne peuvent transmettre des données à des autorités étrangères chargées de tâches de surveillance dans le domaine des télécommunications, y compris des données sensibles acquises au cours de procédures administratives ou de procédures pénales administratives, que si ces autorités:[^13b-3]
 
 - a. utilisent ces données uniquement pour surveiller des fournisseurs de services de télécommunication ou le marché;
 - b. sont liées par le secret de fonction ou le secret professionnel;
@@ -371,11 +372,14 @@ Sous réserve d’accords internationaux comportant des dispositions contraires,
 
 <sup>3</sup> La ComCom ou l’OFCOM ne peut pas transmettre de données à des autorités pénales étrangères lorsque l’entraide internationale en matière pénale est exclue. La ComCom ou l’OFCOM décide en accord avec l’Office fédéral de la justice.
 
-<sup>4</sup> Les autorités suisses transmettent gratuitement à la ComCom et à l’OFCOM les données qui peuvent être utiles à l’application de la législation sur les télécommunications, y compris des données sensibles et des profils de la personnalité. Les données sont communiquées séparément, sous forme de listes ou sur des supports de données électroniques.
+<sup>4</sup> Les autorités suisses transmettent gratuitement à la commission et à l’office les données qui peuvent être utiles à l’application de la législation sur les télécommunications, y compris des données sensibles.[^13b-4] Les données sont communiquées séparément, sous forme de listes ou sur des supports de données électroniques.
 
 [^13b-1]: Introduit par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13b-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 68 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-3]: Nouvelle teneur selon l’annexe 1 ch. II 68 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-4]: Nouvelle teneur selon l’annexe 1 ch. II 68 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### Section 2 Concession de service universel****
+### Section 2 Concession de service universel
 
 [^chap2-sec2-1]
 
@@ -492,7 +496,7 @@ L’OFCOM publie le nom et l’adresse du concessionnaire en indiquant l’objet
 
 [^19b-1]: Introduit par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
-### Section 3 Obligations découlant de la fourniture de services spécifiques****
+### Section 3 Obligations découlant de la fourniture de services spécifiques
 
 [^chap2-sec3-1]
 
@@ -546,7 +550,7 @@ Les fournisseurs du service téléphonique public collectent et tiennent à jour
 
 [^21a-1]: Introduit par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^21a-2]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^21a-3]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); FF **2****017** 6185).
+[^21a-3]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^21a-4]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 21b
@@ -963,9 +967,9 @@ Le Conseil fédéral définit les conditions dans lesquelles les autorités suiv
 <sup>2</sup> Pour déterminer l’origine des perturbations des télécommunications et de la radiodiffusion, l’OFCOM a accès à toutes les installations de télécommunication.[^34-5]
 
 [^34-1]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^34-2]: Introduit par le ch. I de la L du 24 mars 2006 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nouvelle teneur selon le ch. 2 de l'annexe à la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^34-2]: Introduit par le ch. I de la L du 24 mars 2006 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^34-3]: Introduit par le ch. I de la L du 24 mars 2006 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^34-4]: Introduit par l’annexe ch. II 13 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); FF **20****14** 2029).
+[^34-4]: Introduit par l’annexe ch. II 13 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^34-5]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 34a
@@ -1060,7 +1064,7 @@ Les lignes existant au moment de l’entrée en vigueur de la modification du 22
 
 <sup>2</sup> Le propriétaire qui endommage sur son propre fonds la ligne ou la canalisation de câbles d’un fournisseur de services de télécommunication est responsable du dommage si celui-ci a été causé intentionnellement ou par suite d’une négligence grave.
 
-[^37-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); FF **20****03** 7245).
+[^37-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 37a
 
@@ -1179,7 +1183,7 @@ Le Conseil fédéral règle la perception des redevances; il fixe les modalités
 
 L’autorité qui perçoit les redevances peut exiger de l’assujetti qu’il fournisse des sûretés appropriées.
 
-## Chapitre 7 Secret des télécommunications, protection des données et protection des enfants et des jeunes****
+## Chapitre 7 Secret des télécommunications, protection des données et protection des enfants et des jeunes
 
 [^chap7-1]
 
@@ -1503,7 +1507,7 @@ Les données collectées ou communiquées à des fins statistiques ne peuvent ê
 
 [^63-1]
 
-[^63-1]: Abrogé par l’annexe ch. 86 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 (RO **200****6** 2197 1069; [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^63-1]: Abrogé par l’annexe ch. 86 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 64
 

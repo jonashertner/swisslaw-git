@@ -4,11 +4,11 @@ title: Fernmeldegesetz vom 30. April 1997 (FMG)
 short: FMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: de
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/de"
 
 (FMG)
 
-vom 30. April 1997 (Stand am 1. Juli 2021)
+vom 30. April 1997 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -71,7 +71,7 @@ In diesem Gesetz bedeuten:
 - c<sup>bis</sup>.[^3-1] *öffentlicher Telefondienst:* Fernmeldedienst zur Sprachübertragung in Echtzeit mittels eines oder mehrerer Adressierungselemente, die in einem nationalen oder internationalen Nummerierungsplan dafür vorgesehen sind;
 - c<sup>ter</sup>.[^3-2] *Mehrwertdienst:* Dienstleistung, die über einen Fernmeldedienst erbracht und den Kundinnen und Kunden von ihrer Anbieterin von Fernmeldediensten zusätzlich zu Fernmeldediensten in Rechnung gestellt wird;
 - d. *Fernmeldeanlagen:* Geräte, Leitungen oder Einrichtungen, die zur fernmeldetechnischen Übertragung von Informationen bestimmt sind oder benutzt werden;
-- d<sup>bis</sup>. und d<sup>ter</sup>.[^3-3] *...*
+- d<sup>bis</sup>. und d<sup>ter</sup>.[^3-3] …
 - e.[^3-4] *Interkonnektion:* Herstellung des Zugangs durch die Verbindung der Anlagen und Dienste zweier Anbieterinnen von Fernmeldediensten, damit ein fernmeldetechnisches und logisches Zusammenwirken der verbundenen Teile und Dienste sowie der Zugang zu Diensten Dritter ermöglicht wird;
 - e<sup>bis</sup>.[^3-5] *Mietleitungen:* Bereitstellung von transparenten Übertragungskapazitäten über Punkt-zu-Punkt-Verbindungen;
 - e<sup>ter</sup>.[^3-6] *Kabelkanalisationen:* unterirdische Rohre, in welche die Leitungen zur fernmeldetechnischen Übertragung von Informationen eingezogen sind, einschliesslich der Zugangsschächte;
@@ -177,7 +177,7 @@ Die Anbieterinnen von Fernmeldediensten müssen den Zugang zu Telefonie und Inte
 Marktbeherrschende Anbieterinnen von Fernmeldediensten müssen anderen Anbieterinnen auf transparente und nicht diskriminierende Weise zu kostenorientierten Preisen in folgenden Formen Zugang zu ihren Einrichtungen und Diensten gewähren:[^11-2]
 
 - a.[^11-3] den vollständig entbündelten Zugang zum Teilnehmeranschluss zur Nutzung des gesamten Frequenzspektrums der Doppelader-Metallleitung;
-- b. und c.[^11-4] ...
+- b. und c.[^11-4] …
 - d. die Interkonnektion;
 - e. Mietleitungen;
 - f. den Zugang zu den Kabelkanalisationen, sofern diese über eine ausreichende Kapazität verfügen.
@@ -345,23 +345,24 @@ Sie dürfen Informationen unterschiedlich übertragen, wenn dies erforderlich is
 
 **Datenbearbeitung**[^13a-1]
 
-<sup>1</sup> Die ComCom und das BAKOM können Personendaten, einschliesslich Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen sowie Persönlichkeitsprofile, bearbeiten, sofern dies für die Erfüllung der ihnen durch die Fernmeldegesetzgebung auferlegten Aufgaben unerlässlich ist. Sie können hierzu ein Informationssystem benutzen.
+<sup>1</sup> Die Kommission und das Bundesamt können Personendaten, einschliesslich Daten über verwaltungs- oder strafrechtliche Verfolgungen und Sanktionen, bearbeiten, sofern dies zur Erfüllung der ihnen durch die Fernmeldegesetzgebung auferlegten Aufgaben unerlässlich ist.[^13a-2] Sie können hierzu ein Informationssystem benutzen.
 
 <sup>2</sup> Sie treffen die für den Schutz und die Sicherheit der Daten bei der Bearbeitung, insbesondere bei der Übermittlung, nötigen technischen und organisatorischen Massnahmen.
 
 <sup>3</sup> Der Bundesrat kann ergänzende Bestimmungen erlassen, namentlich über die Organisation und den Betrieb des Informationssystems, über die Kategorien der zu bearbeitenden Daten, über die Zugriffs- und Bearbeitungsberechtigung, über die Aufbewahrungsdauer sowie über die Archivierung und Vernichtung der Daten.
 
 [^13a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13a-2]: Fassung gemäss Anhang 1 Ziff. II 68 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13b
 
 **Amtshilfe**[^13b-1]
 
-<sup>1</sup> Die ComCom und das BAKOM übermitteln anderen schweizerischen Behörden diejenigen Daten, die diese Behörden zur Erfüllung ihrer gesetzlichen Aufgaben benötigen. Zu diesen Daten gehören auch die in Verwaltungs- oder Verwaltungsstrafverfahren beschafften besonders schützenswerten Personendaten und Persönlichkeitsprofile. Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern zugänglich gemacht.
+<sup>1</sup> Die ComCom und das BAKOM übermitteln anderen schweizerischen Behörden diejenigen Daten, die diese Behörden zur Erfüllung ihrer gesetzlichen Aufgaben benötigen. Zu diesen Daten gehören auch die in Verwaltungs- oder Verwaltungsstrafverfahren beschafften besonders schützenswerten Personendaten.[^13b-2] Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern zugänglich gemacht.
 
 <sup>2</sup>
 
-Unter Vorbehalt anders lautender internationaler Vereinbarungen dürfen die ComCom und das BAKOM ausländischen Aufsichtsbehörden im Fernmeldebereich Daten, einschliesslich in Verwaltungs- oder Verwaltungsstrafverfahren beschaffter besonders schützenswerter Personendaten und Persönlichkeitsprofile, nur übermitteln, sofern diese Behörden:
+Unter Vorbehalt anders lautender internationaler Vereinbarungen dürfen die Kommission und das Bundesamt ausländischen Aufsichtsbehörden im Fernmeldebereich Daten, einschliesslich in Verwaltungs- oder Verwaltungsstrafverfahren beschaffter besonders schützenswerter Personendaten, nur übermitteln, sofern diese Behörden:[^13b-3]
 
 - a. solche Daten ausschliesslich zur Ausübung der Aufsicht über Anbieterinnen von Fernmeldediensten und zur Marktbeobachtung verwenden;
 - b. an das Amts- oder Berufsgeheimnis gebunden sind; und
@@ -369,11 +370,14 @@ Unter Vorbehalt anders lautender internationaler Vereinbarungen dürfen die ComC
 
 <sup>3</sup> Die ComCom und das BAKOM dürfen keine Daten an ausländische Strafbehörden weiterleiten, wenn die Rechtshilfe in Strafsachen ausgeschlossen ist. Die ComCom oder das BAKOM entscheidet im Einvernehmen mit dem Bundesamt für Justiz.
 
-<sup>4</sup> Schweizerische Behörden geben der ComCom und dem BAKOM kostenlos diejenigen Daten weiter, die für die Durchsetzung der Fernmeldegesetzgebung von Bedeutung sein können, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile. Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern zugänglich gemacht.
+<sup>4</sup> Schweizerische Behörden geben der Kommission und dem Bundesamt kostenlos diejenigen Daten weiter, die für die Durchsetzung der Fernmeldegesetzgebung von Bedeutung sein können, einschliesslich besonders schützenswerter Personendaten.[^13b-4] Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern zugänglich gemacht.
 
 [^13b-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13b-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 68 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-3]: Fassung gemäss Anhang 1 Ziff. II 68 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-4]: Fassung gemäss Anhang 1 Ziff. II 68 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### 2. Abschnitt: Grundversorgungskonzession****
+### 2. Abschnitt: Grundversorgungskonzession
 
 [^chap2-sec2-1]
 
@@ -422,7 +426,7 @@ Die Konzessionärin der Grundversorgung erbringt in ihrem Konzessionsgebiet auf 
 - b. den Zugang zu Notrufdiensten;
 - c. eine ausreichende Versorgung mit öffentlichen Sprechstellen;
 - d.[^16-4] den Zugang zu den schweizerischen Verzeichnissen der Teilnehmerinnen und Teilnehmer am öffentlichen Telefondienst; der Bundesrat kann vorsehen, dass eine Grundversorgungskonzessionärin ein Verzeichnis aller Kundinnen und Kunden von Diensten der Grundversorgung führt (Universalverzeichnis);
-- e.[^16-5] ....[^16-6]
+- e.[^16-5] ….[^16-6]
 
 <sup>1bis</sup>
 
@@ -489,7 +493,7 @@ Soweit keine überwiegenden öffentlichen oder privaten Interessen entgegenstehe
 
 [^19b-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
-### 3. Abschnitt: Aus der Erbringung bestimmter Dienste abgeleitete Pflichten****
+### 3. Abschnitt: Aus der Erbringung bestimmter Dienste abgeleitete Pflichten
 
 [^chap2-sec3-1]
 
@@ -1178,7 +1182,7 @@ Der Bundesrat regelt die Abgabenerhebung; er legt die Einzelheiten der Finanzier
 
 Die für die Erhebung von Abgaben zuständige Behörde kann von Abgabepflichtigen eine angemessene Sicherheit verlangen.
 
-## 7. Kapitel: Fernmeldegeheimnis, Datenschutz sowie Kinder- und Jugendschutz****
+## 7. Kapitel: Fernmeldegeheimnis, Datenschutz sowie Kinder- und Jugendschutz
 
 [^chap7-1]
 
@@ -1345,7 +1349,7 @@ Wer mit einer Fernmeldeanlage nichtöffentliche Informationen empfängt, die nic
 
 Mit Busse bis zu 100 000 Franken wird bestraft, wer:[^52-1]
 
-- a.[^52-2] ...
+- a.[^52-2] …
 - b.[^52-3]
 
   das Frequenzspektrum benutzt:
@@ -1568,7 +1572,7 @@ Das Fernmeldegesetz vom 21. Juni 1991[^65-1] wird aufgehoben.
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-<sup>3</sup> ...[^70-1]
+<sup>3</sup> …[^70-1]
 
 Datum des Inkrafttretens:[^70-2] Art. 56, 57, 64, 67, 68 am 20. Oktober 1997 alle übrigen Bestimmungen am 1. Januar 1998
 
@@ -1579,6 +1583,6 @@ Anhang
 
 ## Änderung bisherigen Rechts
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)konsultiert werden.
