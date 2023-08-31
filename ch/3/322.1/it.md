@@ -4,11 +4,11 @@ title: Procedura penale militare del 23 marzo 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230801/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230801-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230901-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/it"
 
 (PPM)
 
-del 23 marzo 1979 (Stato 1° agosto 2023)
+del 23 marzo 1979 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visto l’articolo 20 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 7 marzo 1977[^ingress-3],
+visto l’articolo 20 della Costituzione federale[^ingress-1];[^ingress-2]visto il messaggio del Consiglio federale del 7 marzo 1977[^ingress-3],
 
 decreta:
 
@@ -364,6 +364,49 @@ Le autorità penali ordinarie non possono, se non in caso d’urgenza, procedere
 **Gratuità**
 
 L’assistenza è gratuita. È riservato il rimborso di spese speciali.
+
+### Capitolo 6: Protezione di dati personali
+
+[^tit1-chap6-1]
+
+[^tit1-chap6-1]: Introdotto dall’all. 1 n. II 28 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 25a
+
+**Raccolta di dati personali**
+
+<sup>1</sup> I dati personali sono raccolti presso l’interessato oppure in modo per questi ravvisabile, sempre che il procedimento non ne risulti compromesso o sia reso sproporzionatamente oneroso.
+
+<sup>2</sup> Se sono raccolti dati personali a sua insaputa, l’interessato deve esserne immediatamente informato. Si può rinunciare all’informazione o differirla se lo esigono interessi pubblici o privati preponderanti.
+
+#### Art. 25b
+
+**Trattamento di dati personali**
+
+Quando trattano dati personali, le autorità penali militari provvedono a distinguere nella misura del possibile:
+
+- a. le diverse categorie di persone interessate;
+- b. i dati personali fondati su fatti da quelli fondati su valutazioni personali.
+
+#### Art. 25c
+
+**Comunicazione e utilizzazione in procedimenti pendenti**
+
+Se è presumibile che possano fornire chiarimenti essenziali, l’autorità penale militare può comunicare i dati personali relativi a un procedimento penale militare pendente affinché siano utilizzati in un altro procedimento pendente.
+
+#### Art. 25d
+
+**Diritti d’informazione in pendenza del procedimento**
+
+Fintanto che il procedimento è pendente, le parti e gli altri partecipanti al procedimento hanno diritto di essere informati sui dati personali trattati che li concernono, conformemente al diritto loro spettante di esaminare gli atti.
+
+#### Art. 25e
+
+**Esattezza dei dati personali**
+
+<sup>1</sup> L’autorità penale militare rettifica senza indugio i dati personali inesatti.
+
+<sup>2</sup> Avvisa senza indugio dell’avvenuta rettifica l’autorità che le ha trasmesso o messo a disposizione i dati personali o alla quale li ha comunicati.
 
 ## Titolo secondo: Procedura
 

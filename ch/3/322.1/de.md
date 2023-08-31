@@ -4,11 +4,11 @@ title: Militärstrafprozess vom 23. März 1979 (MStP)
 short: MStP
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230801/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230801-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/de"
 
 (MStP)
 
-vom 23. März 1979 (Stand am 1. August 2023)
+vom 23. März 1979 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -365,6 +365,49 @@ Zivile Strafbehörden dürfen vorsorgliche Amtshandlungen gegenüber Personen, d
 **Unentgeltlichkeit**
 
 Die Rechtshilfe wird unentgeltlich geleistet. Vorbehalten bleibt die Vergütung von besondern Auslagen.
+
+### Sechstes Kapitel: Schutz von Personendaten
+
+[^tit1-chap6-1]
+
+[^tit1-chap6-1]: Eingefügt durch Anhang 1 Ziff. II 28 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 25a
+
+**Beschaffung von Personendaten**
+
+<sup>1</sup> Personendaten sind bei der betroffenen Person oder für diese erkennbar zu beschaffen, wenn dadurch das Verfahren nicht gefährdet oder unverhältnismässig aufwendig wird.
+
+<sup>2</sup> Erfolgte die Beschaffung von Personendaten ohne Wissen der betroffenen Person, so ist diese umgehend darüber zu informieren. Die Information kann zum Schutz überwiegender öffentlicher oder privater Interessen unterlassen oder aufgeschoben werden.
+
+#### Art. 25b
+
+**Bearbeitung von Personendaten**
+
+Bei der Bearbeitung von Personendaten sorgt die militärische Strafbehörde dafür, dass sie so weit wie möglich unterscheidet:
+
+- a. zwischen den verschiedenen Kategorien betroffener Personen;
+- b. zwischen auf Tatsachen und auf persönlichen Einschätzungen beruhenden Personendaten.
+
+#### Art. 25c
+
+**Bekanntgabe und Verwendung von Personendaten bei hängigem Verfahren**
+
+Die militärische Strafbehörde darf aus einem hängigen militärischen Strafverfahren Personendaten zwecks Verwendung in einem anderen hängigen Verfahren bekannt geben, wenn anzunehmen ist, dass die Personendaten wesentliche Aufschlüsse geben können.
+
+#### Art. 25d
+
+**Auskunftsrecht bei hängigem Verfahren**
+
+Solange ein Verfahren hängig ist, haben die Parteien und die anderen Verfahrensbeteiligten nach Massgabe des ihnen zustehenden Akteneinsichtsrechts das Recht auf Auskunft über die sie betreffenden Personendaten.
+
+#### Art. 25e
+
+**Richtigkeit der Personendaten**
+
+<sup>1</sup> Die militärische Strafbehörde berichtigt unrichtige Personendaten unverzüglich.
+
+<sup>2</sup> Sie benachrichtigt die Behörde, die ihr die Personendaten übermittelt oder bereitgestellt oder der sie diese bekannt gegeben hat, unverzüglich über die Berichtigung.
 
 ## Zweiter Titel: Verfahren
 
@@ -1031,6 +1074,8 @@ Die Genehmigung äussert sich ausdrücklich darüber:
 
 - a. welche Vorkehren zum Schutz von Berufsgeheimnissen getroffen werden müssen;
 - b. ob in nicht öffentliche Räumlichkeiten eingedrungen werden darf, um besondere Informatikprogramme zur Überwachung des Fernmeldeverkehrs in das betreffende Datenverarbeitungssystem einzuschleusen.[^70e-3]
+
+<sup>5</sup> Der Präsident des Militärkassationsgerichts erteilt die Genehmigung für höchstens drei Monate. Die Genehmigung kann ein- oder mehrmals um jeweils höchstens drei Monate verlängert werden. Ist eine Verlängerung notwendig, so stellt der Untersuchungsrichter vor Ablauf der bewilligten Dauer einen begründeten Verlängerungsantrag.
 
 [^70e-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
 [^70e-2]: Fassung gemäss Anhang Ziff. II 2 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
@@ -2788,11 +2833,11 @@ finanzieller Art nicht möglich ist, in die Schweiz zu kommen, kann die Aufhebun
 
 ### Siebenter Abschnitt: …
 
-[^tit2-chap2-sec7-1]
-
-[^tit2-chap2-sec7-1]: Aufgehoben durch Ziff. III des BG vom 3. Okt. 2003, mit Wirkung seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-
 #### Art. 160–162
+
+[^160162-1]
+
+[^160162-1]: Aufgehoben durch Ziff. III des BG vom 3. Okt. 2003, mit Wirkung seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 
 ### Achter Abschnitt: Zivilrechtliche Ansprüche
 

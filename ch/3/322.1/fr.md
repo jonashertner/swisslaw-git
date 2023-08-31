@@ -4,11 +4,11 @@ title: Procédure pénale militaire du 23 mars 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230801-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230801/fr"
 
 (PPM)
 
-du 23 mars 1979 (État le 1<sup>er</sup> août 2023)
+du 23 mars 1979 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -365,6 +365,49 @@ Les autorités pénales ordinaires ne peuvent, sauf urgence, procéder à des ac
 **Gratuité**
 
 L’entraide judiciaire est gratuite. Le remboursement de frais particuliers est réservé.
+
+### Chapitre 6 Protection des données personnelles
+
+[^tit1-chap6-1]
+
+[^tit1-chap6-1]: Introduit par l’annexe 1 ch. II 28 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 25a
+
+**Collecte de données personnelles**
+
+<sup>1</sup> Des données personnelles peuvent être collectées auprès de la personne concernée ou de façon reconnaissable pour elle, à moins que la procédure n’en soit mise en péril ou qu’il n’en résulte un volume de travail disproportionné.
+
+<sup>2</sup> Si des données personnelles sont collectées à l’insu de la personne concernée, celle-ci doit en être informée sans délai. L’autorité pénale militaire peut renoncer à cette information ou l’ajourner si un intérêt public ou privé prépondérant l’exige.
+
+#### Art. 25b
+
+**Traitement de données personnelles**
+
+Lorsque l’autorité pénale militaire traite des données personnelles, elle veille à distinguer dans la mesure du possible:
+
+- a. les différentes catégories de personnes concernées;
+- b. les données personnelles fondées sur des faits de celles fondées sur des appréciations personnelles.
+
+#### Art. 25c
+
+**Communication et utilisation de données personnelles dans le cadre d’une procédure pendante**
+
+L’autorité pénale militaire peut communiquer des données personnelles relevant d’une procédure pénale militaire pendante pour permettre leur utilisation dans le cadre d’une autre procédure pendante, lorsqu’il y a lieu de présumer que ces données personnelles contribueront dans une notable mesure à l’élucidation des faits.
+
+#### Art. 25d
+
+**Droit aux renseignements dans le cadre d’une procédure pendante**
+
+Tant que la procédure est pendante, les parties et les autres participants à la procédure peuvent, dans les limites de leur droit de consulter le dossier, obtenir les données personnelles qui les concernent.
+
+#### Art. 25e
+
+**Exactitude des données personnelles**
+
+<sup>1</sup> L’autorité pénale militaire rectifie sans retard les données personnelles inexactes.
+
+<sup>2</sup> Elle informe immédiatement de la rectification de ces données l’autorité qui les lui a transmises ou qui les a mises à sa disposition ou à laquelle elles ont été communiquées.
 
 ## Titre 2 Procédure
 
@@ -1641,7 +1684,7 @@ Sont entendues en qualité de tiers appelés à fournir des renseignements et no
 
 **Principes**[^84ater-1]
 
-<sup>1</sup> L’aide aux victimes d’infractions est régie par la loi du 23 mars 2007 sur l’aide aux victimes (LAVI)[^84ater-2], dans la mesure où les dispositions de procédure particulières prévues par la présente loi ne sont pas applicables.
+<sup>1</sup> L’aide aux victimes d’infractions est régie par la loi du 23 mars 2007 sur l’aide aux victimes ((LAVI)[^84ater-2], dans la mesure où les dispositions de procédure particulières prévues par la présente loi ne sont pas applicables.
 
 <sup>2</sup> Lorsque les proches de la victime se portent partie civile contre les prévenus, ils jouissent des mêmes droits que la victime.
 
