@@ -4,11 +4,11 @@ title: Ordinanza del 22 novembre 2017 sulla protezione dei dati personali del pe
 short: OPDPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/it"
 
 (OPDPers)
 
-del 22 novembre 2017 (Stato 1° aprile 2023)
+del 22 novembre 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -61,9 +61,11 @@ La presente ordinanza disciplina il trattamento dei dati personali dei candidati
 
 #### Art. 2
 
-**Informazione degli impiegati**
+**Informazione degli impiegati**[^2-1]
 
-Gli impiegati sono informati prima dell’introduzione o della modifica di un sistema d’informazione o di una raccolta di dati.
+Gli impiegati sono informati prima dell’introduzione o della modifica di un sistema d’informazione o di una banca dati.
+
+[^2-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -156,9 +158,11 @@ La comunicazione di dati tra unità amministrative è possibile se è stata appu
 
 **Contenuto**
 
-<sup>1</sup> Il dossier di candidatura può contenere dati personali degni di particolare protezione e profili della personalità, in particolare nel curriculum vitae.
+<sup>1</sup> Il dossier di candidatura può contenere dati personali degni di particolare protezione, in particolare nel curriculum vitae.[^9-1]
 
 <sup>2</sup> Esso può contenere, in particolare, i dati elencati nell’allegato 1.
+
+[^9-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -231,9 +235,11 @@ In caso di candidatura elettronica il candidato stesso può esercitare nel siste
 
 <sup>1</sup> Gli accessi e le modifiche al sistema di reclutamento elettronico sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno separatamente dal sistema in cui sono trattati i dati personali.[^16-1]
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+[^16-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 17
 
@@ -348,9 +354,11 @@ I servizi del personale consentono agli impiegati che ne fanno richiesta di acce
 
 <sup>1</sup> Gli accessi e le modifiche al sistema d’informazione dossier personale elettronico sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno separatamente dal sistema in cui sono trattati i dati personali.[^28-1]
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+[^28-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29
 
@@ -430,18 +438,19 @@ Il SIGDP è costituito dai seguenti elementi:
 I dati contenuti nel SIGDP, compresi i dati personali degni di particolare protezione, possono essere trasmessi ad altri sistemi d’informazione a condizione che:
 
 - a. l’altro sistema d’informazione sia dotato di una base legale per la comunicazione dei dati e di una base legale formale per la comunicazione di dati personali degni di particolare protezione;
-- b. l’altro sistema d’informazione sia stato notificato all’Incaricato federale della protezione dei dati e della trasparenza, ad eccezione delle collezioni di dati di cui all’articolo 18 dell’ordinanza del 14 giugno 1993[^34-1] relativa alla legge federale sulla protezione dei dati;
+- b.[^34-1] il sistema d’informazione sia stato notificato all’Incaricato federale della protezione dei dati e della trasparenza secondo l’articolo 12 capoverso 4 della legge federale del 25 settembre 2020[^34-2] sulla protezione dei dati (LPD);
 - c. l’altro il sistema d’informazione sia dotato di un regolamento per il trattamento dei dati;
 - d. non sussistano elevati requisiti di sicurezza per i dati degli impiegati.
 
-<sup>2</sup> I dati, purché disponibili, vengono comunicati tramite l’archivio centralizzato delle identità conformemente all’articolo 13 dell’ordinanza del 19 ottobre 2016[^34-2] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione (OIAM).
+<sup>2</sup> I dati, purché disponibili, vengono comunicati tramite l’archivio centralizzato delle identità conformemente all’articolo 13 dell’ordinanza del 19 ottobre 2016[^34-3] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione (OIAM).
 
 <sup>3</sup> La comunicazione dei dati può avvenire attraverso un elenco di destinatari.
 
 <sup>4</sup> Le unità amministrative possono riprendere dal SIGDP i dati non degni di particolare protezione dei loro impiegati ai fini dell’amministrazione del personale nel loro ambito.
 
-[^34-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-2]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^34-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^34-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
 
 #### Art. 35
 
@@ -463,9 +472,11 @@ Quando un impiegato cambia unità all’interno dell’Amministrazione federale,
 
 <sup>1</sup> Gli accessi e le modifiche al SIGDP sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno separatamente dal sistema in cui sono trattati i dati personali.[^37-1]
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+[^37-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
 
@@ -551,12 +562,13 @@ Il sistema d’informazione per il controllo della gestione del personale è cos
 I dati contenuti nel sistema d’informazione per il controllo della gestione del personale, compresi i dati personali degni di particolare protezione, possono essere trasmessi ad altri sistemi d’informazione a condizione che:
 
 - a. l’altro sistema d’informazione sia dotato di una base legale per la comunicazione dei dati e di una base legale formale per la comunicazione di dati personali degni di particolare protezione;
-- b. l’altro sistema d’informazione sia stato notificato all’Incaricato federale della protezione dei dati e della trasparenza, a eccezione delle collezioni di dati di cui all’articolo 18 dell’ordinanza del 14 giugno 1993[^42a-2] relativa alla legge federale sulla protezione dei dati;
+- b.[^42a-2] l’altro sistema d’informazione sia stato notificato all’Incaricato federale della protezione dei dati e della trasparenza ai sensi dell’articolo 12 capoverso 4 LPD[^42a-3];
 - c. l’altro il sistema d’informazione sia dotato di un regolamento per il trattamento dei dati; e
 - d. non sussistano elevati requisiti di sicurezza per i dati degli impiegati.
 
 [^42a-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
-[^42a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^42a-2]: Nuovo testo giusta il n. II dell’O del 19 ott. 2022, in vigore dal 1° set. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42a-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 43
 
@@ -572,9 +584,11 @@ I dati contenuti nel sistema d’informazione per il controllo della gestione de
 
 <sup>1</sup> Gli accessi al sistema d’informazione per il controllo della gestione del personale sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno separatamente dal sistema in cui sono trattati i dati personali.[^44-1]
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+[^44-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 45
 
@@ -638,9 +652,11 @@ Gli organi competenti raccolgono i dati per la piattaforma LMS Confederazione pr
 
 <sup>1</sup> Gli accessi alla piattaforma LMS Confederazione sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno separatamente dal sistema in cui sono trattati i dati personali.[^51-1]
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+[^51-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 52
 
@@ -705,9 +721,11 @@ La CSPers assegna nel singolo caso alle persone e ai servizi di cui all’artico
 
 <sup>1</sup> Gli accessi e le modifiche al sistema d’informazione della CSPers sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati per un anno.
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno separatamente dal sistema in cui sono trattati i dati personali.[^57-1]
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+[^57-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 58
 
@@ -837,9 +855,8 @@ Allegato 2[^t-2]
 - 4\.1 AVS / AI / IPG / AD
 - 4\.2 INSAI / assicurazione contro gli infortuni
 - 4\.3 Assegni familiari
-
 - 4\.4 Publica
-- 4\.5 Assicurazione militare
+- 4\.5 As sicurazione militare
 
 ### 5 Salute
 
@@ -1154,7 +1171,6 @@ Allegato 4[^t-4]
 - A Intera Amministrazione federale
 - B Proprio settore contabile
 - C Controllo della gestione dei costi del personale nel proprio settore contabile
-
 - D Dati propri
 - E Dati di collaboratori subordinati
 

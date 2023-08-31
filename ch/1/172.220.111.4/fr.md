@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 concernant la protection des données pers
 short: OPDC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/fr"
 
 (OPDC)
 
-du 22 novembre 2017 (État le 1<sup>er</sup> avril 2023)
+du 22 novembre 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -61,9 +61,11 @@ La présente ordonnance règle le traitement des données personnelles des candi
 
 #### Art. 2
 
-**Information des employés**
+**Information des employés**[^2-1]
 
-Les employés sont informés avant la mise en service ou la modification d’un système d’information ou d’un fichier.
+Les employés sont informés avant la mise en service ou la modification d’un système d’information ou d’une banque de données.
+
+[^2-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -156,9 +158,11 @@ La communication de données entre unités administratives est possible si la fo
 
 **Contenu**
 
-<sup>1</sup> Le dossier de candidature peut contenir des données personnelles sensibles et des profils de la personnalité, en particulier dans le curriculum vitae.
+<sup>1</sup> Le dossier de candidature peut contenir des données personnelles sensibles, en particulier dans le curriculum vitae.[^9-1]
 
 <sup>2</sup> Il peut contenir notamment les données énumérées à l’annexe 1.
+
+[^9-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -231,9 +235,11 @@ En cas de candidature électronique, le candidat peut exercer lui-même dans le 
 
 <sup>1</sup> Les accès au système d’information E-Recrutement et les modifications qui y sont apportées font en permanence l’objet d’un procès-verbal.
 
-<sup>2</sup> Les procès-verbaux sont conservés pendant un an par l’OFPER.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an par l’OFPER, séparément du système dans lequel les données personnelles sont traitées.[^16-1]
 
 <sup>3</sup> Ils peuvent être analysés par le service compétent de l’OFPER afin de vérifier le respect des prescriptions en matière de protection des données.
+
+[^16-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 17
 
@@ -352,9 +358,11 @@ Les services du personnel confèrent aux employés qui demandent à consulter le
 
 <sup>1</sup> Les accès au système d’information E-Dossier personnel et les modifications qui y sont apportées font en permanence l’objet d’un procès-verbal.
 
-<sup>2</sup> Les procès-verbaux sont conservés pendant un an par l’OFPER.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an par l’OFPER, séparément du système dans lequel les données personnelles sont traitées.[^28-1]
 
 <sup>3</sup> Ils peuvent être analysés par le service compétent de l’OFPER afin de vérifier le respect des prescriptions en matière de protection des données.
+
+[^28-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29
 
@@ -434,18 +442,19 @@ L’IGDP comprend les modules suivants:
 Les données, y compris les données sensibles, contenues dans l’IGDP peuvent être communiquées à d’autres systèmes d’information:
 
 - a. si pour l’autre système d’information il existe une base légale pour la communication des données et une base légale formelle pour la communication de données sensibles;
-- b. si le système d’information a été annoncé au Préposé fédéral à la protection des données, à l’exception des fichiers visés à l’art. 18 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^34-1];
+- b.[^34-1] si le système d’information a été annoncé au Préposé fédéral à la protection des données et à la transparence conformément à l’art. 12, al. 4, de la loi fédérale du 25 septembre 2020 sur la protection des données[^34-2];
 - c. si un règlement de traitement a été établi pour ce système d’information;
 - d. s’il n’existe pas d’exigence de sécurité accrue pour les données des employés.
 
-<sup>2</sup> La communication des données a lieu par le biais de la base centralisée des identités visée à l’art. 13 de l’ordonnance du 19 octobre 2016 sur les systèmes de gestion des données d’identification et les services d’annuaires de la Confédération (OIAM)[^34-2], pour autant que les données soient disponibles.
+<sup>2</sup> La communication des données a lieu par le biais de la base centralisée des identités visée à l’art. 13 de l’ordonnance du 19 octobre 2016 sur les systèmes de gestion des données d’identification et les services d’annuaires de la Confédération (OIAM)[^34-3], pour autant que les données soient disponibles.
 
 <sup>3</sup> La communication des données peut se faire via un distributeur.
 
 <sup>4</sup> Les unités administratives peuvent reprendre de l’IGDP les données non sensibles de leurs employés pour l’administration du personnel dans leur domaine.
 
-[^34-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-2]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^34-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^34-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
 
 #### Art. 35
 
@@ -467,9 +476,11 @@ Lorsqu’un employé change d’unité administrative à l’intérieur de l’a
 
 <sup>1</sup> Les accès à l’IGDP et les modifications qui y sont apportées font en permanence l’objet d’un procès-verbal.
 
-<sup>2</sup> Les procès-verbaux sont conservés pendant un an par l’OFPER.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an par l’OFPER, séparément du système dans lequel les données personnelles sont traitées.[^37-1]
 
 <sup>3</sup> Ils peuvent être analysés par le service compétent de l’OFPER afin de vérifier le respect des prescriptions en matière de protection des données.
+
+[^37-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
 
@@ -515,7 +526,7 @@ Les données relatives à la gestion du temps dans le système d’information p
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^40-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
 [^40-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^40-4]: Abrogée par l’annexe ch. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^40-4]: Abrogée par l’annexe ch. 3 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^40-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^40-6]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
 
@@ -555,12 +566,13 @@ Le système d’information pour le contrôle de gestion du personnel comprend l
 Les données, y compris les données sensibles, contenues dans le système d’information pour le contrôle de gestion du personnel peuvent être communiquées à d’autres systèmes d’information:
 
 - a. si pour l’autre système d’information il existe une base légale pour la communication des données et une base légale formelle pour la communication des données sensibles;
-- b. si le système d’information a été déclaré au Préposé fédéral à la protection des données et à la transparence, à l’exception des fichiers visés à l’art. 18 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^42a-2];
+- b.[^42a-2] si le système d’information a été déclaré au Préposé fédéral à la protection des données et à la transparence conformément à l’art. 12, al. 4, LPD[^42a-3];
 - c. si un règlement de traitement a été établi pour ce système d’information, et
 - d. s’il n’existe pas d’exigence de sécurité accrue pour les données des employés.
 
 [^42a-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
-[^42a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^42a-2]: Nouvelle teneur selon le ch. II de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42a-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 43
 
@@ -576,9 +588,11 @@ Les données, y compris les données sensibles, contenues dans le système d’i
 
 <sup>1</sup> Les accès au système d’information pour le contrôle de gestion du personnel font en permanence l’objet d’un procès-verbal.
 
-<sup>2</sup> Les procès-verbaux sont conservés pendant un an par l’OFPER.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an par l’OFPER, séparément du système dans lequel les données personnelles sont traitées.[^44-1]
 
 <sup>3</sup> Ils peuvent être analysés par le service compétent de l’OFPER afin de vérifier le respect des prescriptions en matière de protection des données.
+
+[^44-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 45
 
@@ -642,9 +656,11 @@ Les services responsables collectent les données pour le LMS de la Confédérat
 
 <sup>1</sup> Les accès au LMS de la Confédération et les modifications qui y sont apportées font en permanence l’objet d’un procès-verbal.
 
-<sup>2</sup> Les procès-verbaux sont conservés pendant un an par l’OFPER.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an par l’OFPER, séparément du système dans lequel les données personnelles sont traitées.[^51-1]
 
 <sup>3</sup> Ils peuvent être analysés par le service compétent de l’OFPER afin de vérifier le respect des prescriptions en matière de protection des données.
+
+[^51-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 52
 
@@ -709,9 +725,11 @@ La CSPers octroie dans chaque cas d’espèce, aux personnes et aux services au 
 
 <sup>1</sup> Les accès au système d’information de la CSPers et les modifications qui y sont apportées font en permanence l’objet d’un procès-verbal.
 
-<sup>2</sup> Les procès-verbaux sont conservés pendant un an.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an par l’OFPER, séparément du système dans lequel les données personnelles sont traitées.[^57-1]
 
 <sup>3</sup> Ils peuvent être analysés par le service compétent de l’OFPER afin de vérifier le respect des prescriptions en matière de protection des données.
+
+[^57-1]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 58
 

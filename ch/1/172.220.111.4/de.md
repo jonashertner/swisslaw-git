@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über den Schutz von Personendaten des B
 short: BPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/de"
 
 (BPDV)
 
-vom 22. November 2017 (Stand am 1. April 2023)
+vom 22. November 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -61,9 +61,11 @@ Diese Verordnung regelt die Bearbeitung der Personendaten von Bewerberinnen und 
 
 #### Art. 2
 
-**Information der Angestellten**
+**Information der Angestellten**[^2-1]
 
-Vor der Einführung oder der Änderung eines Informationssystems oder einer Datensammlung werden die Angestellten informiert.
+Vor der Einführung oder Änderung eines Informationssystems oder einer Datenbank werden die Angestellten informiert.
+
+[^2-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -156,9 +158,11 @@ Datenweitergaben zwischen Verwaltungseinheiten sind möglich, wenn zugunsten ein
 
 **Inhalt**
 
-<sup>1</sup> Das Bewerbungsdossier kann besonders schützenswerte Personendaten und Persönlichkeitsprofile enthalten, insbesondere im Lebenslauf.
+<sup>1</sup> Das Bewerbungsdossier kann besonders schützenswerte Personendaten enthalten, insbesondere im Lebenslauf.[^9-1]
 
 <sup>2</sup> Es kann insbesondere die in Anhang 1 aufgeführten Daten enthalten.
+
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -231,9 +235,11 @@ Bei einer elektronischen Bewerbung kann die Bewerberin oder der Bewerber das Aus
 
 <sup>1</sup> Die Zugriffe und die Änderungen im Informationssystem E-Rekrutierung werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden während eines Jahres vom EPA aufbewahrt.
+<sup>2</sup> Die Protokolle werden vom EPA während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^16-1]
 
 <sup>3</sup> Sie können zwecks Überprüfung, ob die Datenschutzvorschriften eingehalten werden, von der für die Überwachung dieser Vorschriften zuständigen Stelle des EPA ausgewertet werden.
+
+[^16-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 17
 
@@ -352,9 +358,11 @@ Die Personaldienste gewähren den Angestellten, die Einsicht in ihr Personaldoss
 
 <sup>1</sup> Die Zugriffe und Änderungen im Informationssystem E-Personaldossier werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden während eines Jahres vom EPA aufbewahrt.
+<sup>2</sup> Die Protokolle werden vom EPA während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^28-1]
 
 <sup>3</sup> Sie können zwecks Überprüfung, ob die Datenschutzvorschriften eingehalten werden, von der für die Überwachung dieser Vorschriften zuständigen Stelle des EPA ausgewertet werden.
+
+[^28-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29
 
@@ -434,18 +442,19 @@ Das IPDM besteht aus folgenden Komponenten:
 Daten, einschliesslich besonders schützenswerter Personendaten, aus dem IPDM können anderen Informationssystemen bekanntgegeben werden, sofern:
 
 - a. für das andere Informationssystem eine gesetzliche Grundlage für die Bekanntgabe der Daten und eine formell-gesetzliche Grundlage für die Bekanntgabe der besonders schützenswerten Personendaten besteht;
-- b. das Informationssystem beim Eidgenössischen Datenschutzbeauftragten angemeldet ist, mit Ausnahme der Datensammlungen nach Artikel 18 der Verordnung vom 14. Juni 1993[^34-1] zum Bundesgesetz über den Datenschutz;
+- b.[^34-1] das Informationssystem dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten nach Artikel 12 Absatz 4 des Datenschutzgesetzes vom 25. September 2020[^34-2] gemeldet wurde;
 - c. für das Informationssystem ein Bearbeitungsreglement besteht;
 - d. keine erhöhten Sicherheitsanforderungen an die Daten der Angestellten vorliegen.
 
-<sup>2</sup> Die Datenbekanntgabe erfolgt über den zentralen Identitätsspeicher nach Artikel 13 der Verordnung vom 19. Oktober 2016[^34-2] über Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes (IAMV), soweit die Daten verfügbar sind.
+<sup>2</sup> Die Datenbekanntgabe erfolgt über den zentralen Identitätsspeicher nach Artikel 13 der Verordnung vom 19. Oktober 2016[^34-3] über Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes (IAMV), soweit die Daten verfügbar sind.
 
 <sup>3</sup> Die Datenbekanntgabe kann über einen Verteiler erfolgen.
 
 <sup>4</sup> Die Verwaltungseinheiten können für die Personaladministration in ihrem Bereich nicht besonders schützenswerte Daten ihrer Angestellten aus dem IPDM übernehmen.
 
-[^34-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-2]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^34-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^34-3]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
 
 #### Art. 35
 
@@ -467,9 +476,11 @@ Wechseln Angestellte innerhalb der Bundesverwaltung zu einer anderen Verwaltungs
 
 <sup>1</sup> Die Zugriffe und die Änderungen im IPDM werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden vom EPA während eines Jahres aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, vom EPA aufbewahrt.[^37-1]
 
 <sup>3</sup> Sie können zwecks Überprüfung, ob die Datenschutzvorschriften eingehalten werden, von der für die Überwachung dieser Vorschriften zuständigen Stelle des EPA ausgewertet werden.
+
+[^37-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
 
@@ -555,12 +566,13 @@ Das Informationssystem Personalcontrolling besteht aus folgenden Komponenten:
 Daten, einschliesslich besonders schützenswerter Personendaten, aus dem Informationssystem Personalcontrolling können anderen Informationssystemen bekanntgegeben werden, sofern:
 
 - a. für das andere Informationssystem eine gesetzliche Grundlage für die Bekanntgabe der Daten und eine formell-gesetzliche Grundlage für die Bekanntgabe der besonders schützenswerten Personendaten besteht;
-- b. das Informationssystem beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten angemeldet ist, mit Ausnahme der Datensammlungen nach Artikel 18 der Verordnung vom 14. Juni 1993[^42a-2] zum Bundesgesetz über den Datenschutz;
+- b.[^42a-2] das Informationssystem dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten nach Artikel 12 Absatz 4 DSG[^42a-3] gemeldet wurde;
 - c. für das Informationssystem ein Bearbeitungsreglement besteht; und
 - d. keine erhöhten Sicherheitsanforderungen an die Daten der Angestellten vorliegen.
 
 [^42a-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
-[^42a-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^42a-2]: Fassung gemäss Ziff. II der V vom 19. Okt. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42a-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 43
 
@@ -576,9 +588,11 @@ Daten, einschliesslich besonders schützenswerter Personendaten, aus dem Informa
 
 <sup>1</sup> Die Zugriffe im Informationssystem Personalcontrolling werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden vom EPA während eines Jahres aufbewahrt.
+<sup>2</sup> Die Protokolle werden vom EPA während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^44-1]
 
 <sup>3</sup> Sie können zwecks Überprüfung, ob die Datenschutzvorschriften eingehalten werden, von der für die Überwachung dieser Vorschriften zuständigen Stelle des EPA ausgewertet werden.
+
+[^44-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 45
 
@@ -642,9 +656,11 @@ Die zuständigen Stellen beschaffen die Daten für das LMS Bund:
 
 <sup>1</sup> Die Zugriffe und die Änderungen im LMS Bund werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden vom EPA während eines Jahres aufbewahrt.
+<sup>2</sup> Die Protokolle werden vom EPA während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^51-1]
 
 <sup>3</sup> Sie können zwecks Überprüfung, ob die Datenschutzvorschriften eingehalten werden, von der für die Überwachung dieser Vorschriften zuständigen Stelle des EPA ausgewertet werden.
+
+[^51-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 52
 
@@ -709,9 +725,11 @@ Die PSB erteilt im Einzelfall den Personen und den Stellen nach Artikel 27*d* Ab
 
 <sup>1</sup> Die Zugriffe und die Änderungen im Informationssystem der PSB werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden während eines Jahres aufbewahrt.
+<sup>2</sup> Die Protokolle werden vom EPA während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^57-1]
 
 <sup>3</sup> Sie können zwecks Überprüfung, ob die Datenschutzvorschriften eingehalten werden, von der für die Überwachung dieser Vorschriften zuständigen Stelle des EPA ausgewertet werden.
+
+[^57-1]: Fassung gemäss Anhang 2 Ziff. II 25 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 58
 
