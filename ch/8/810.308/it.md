@@ -4,11 +4,11 @@ title: "Ordinanza sull'organizzazione del 20 settembre 2013 relativa alla legge 
 short: Org-LRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: it
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2013-644-20220526-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-644-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/it"
 
 (Ordinanza sull’organizzazione relativa alla LRUm, Org-LRUm)
 
-del 20 settembre 2013 (Stato 26 maggio 2022) (Stato 26 maggio 2022)
+del 20 settembre 2013 (Stato 1° settembre 2023) (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -211,36 +211,43 @@ Prima di comunicare dati personali ai servizi competenti di cui all’articolo 5
 
 Gli obblighi secondo il capoverso 1 vengono meno se:
 
-- a. la persona interessata è già stata sufficientemente informata;
-- b. la comunicazione dei dati si evince dalle circostanze del singolo caso;
+- a.[^11-1] la persona interessata dispone già delle informazioni in questione;
+- b.[^11-2] ...
 - c. esiste un pericolo imminente che diritti o importanti interessi di terzi siano pregiudicati oppure che l’adempimento di compiti legali sia vanificato; o
 - d. la persona interessata è irreperibile.
 
 <sup>3</sup> Se i dati devono essere pubblicati in applicazione dell’articolo 59 capoverso 3 LRUm, tutte le indicazioni che, combinate, permettono di ristabilire senza un onere eccessivo l’identità della persona interessata devono essere rese irriconoscibili o cancellate. Si tratta in particolare del nome, dell’indirizzo, della data di nascita e dei numeri d’identificazione univoci.
 
+[^11-1]: Nuovo testo giusta l’all. 2 n. II 96 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: Abrogata dall’all. 2 n. II 96 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 12
 
-**Scambio di dati con autorità e istituzioni estere**
+**Scambio di dati con autorità e istituzioni estere**[^12-1]
 
 <sup>1</sup>
 
-Sono autorizzati allo scambio di dati confidenziali con autorità e istituzioni estere, nonché con organizzazioni internazionali:
+Sono autorizzati allo scambio di dati confidenziali con autorità e istituzioni estere nonché con organizzazioni internazionali:
 
 - a. la commissione d’etica competente;
 - b. l’autorità cantonale di vigilanza;
 - c. l’Istituto svizzero per gli agenti terapeutici; e
 - d. l’UFSP.
 
-<sup>2</sup> Se contengono dati personali, i dati confidenziali possono essere trasmessi ad autorità e istituzioni estere, nonché a organizzazioni internazionali, soltanto se ciò non pregiudica gravemente la personalità della persona interessata, segnatamente a causa dell’assenza di una legislazione che garantisca una protezione adeguata.
+<sup>2</sup> I dati personali possono essere comunicati all’estero se il Consiglio federale ha constatato che la legislazione dello Stato o dell’organo internazionale interessato garantisce una protezione adeguata secondo l’articolo 16 capoverso 1 della legge federale del 25 settembre 2020[^12-2] sulla protezione dei dati (LPD). In assenza di una valutazione del Consiglio federale, i dati personali possono essere comunicati all’estero se sussistono garanzie sufficienti, in particolare contrattuali, che garantiscono una protezione adeguata all’estero.
 
 <sup>3</sup>
 
-In assenza di una legislazione che garantisca una protezione adeguata, i dati personali possono essere trasmessi all’estero soltanto se:
+In deroga all’articolo 16 capoversi 1 e 2 LPD, i dati personali possono essere comunicati all’’estero nei seguenti casi:
 
-- a. la comunicazione è necessaria per proteggere la vita o l’integrità fisica della persona interessata;
+- a. la comunicazione è necessaria per proteggere la vita o l’integrità fisica della persona interessata o di un terzo e non è possibile ottenere il consenso della persona interessata entro un termine adeguato;
 - b. la comunicazione è indispensabile per sventare un pericolo incombente per la salute pubblica;
-- c. garanzie sufficienti, in particolare mediante un trattato, assicurano una protezione adeguata all’estero; oppure
-- d. la persona interessata vi ha acconsentito nel caso specifico.
+- c. la persona interessata ha espressamente acconsentito alla comunicazione.
+
+<sup>4</sup> Se i dati personali sono comunicati all’estero, l’autorità di esecuzione comunica alla persona interessata a quale Stato od organo internazionale e se del caso le garanzie secondo l’articolo 16 capoverso 2 della LPD o l’applicazione di un’eccezione secondo l’articolo 17 LPD.
+
+[^12-1]: Nuovo testo giusta l’all. 2 n. II 96 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Capitolo 4: Entrata in vigore
 

@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 20. September 2013 zum Humanforschungsgesetz
 short: OV-HFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: de
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2013-644-20220526-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-644-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/de"
 
 (Organisationsverordnung HFG, OV-HFG)
 
-vom 20. September 2013 (Stand am 26. Mai 2022)
+vom 20. September 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -211,36 +211,43 @@ Bevor die Vollzugsbehörde Personendaten an die zuständigen Stellen nach Artike
 
 Die Pflichten gemäss Absatz 1 entfallen, wenn:
 
-- a. die betroffene Person bereits hinlänglich informiert wurde;
-- b. die Datenbekanntgabe aus den Umständen des Einzelfalles ersichtlich ist;
+- a.[^11-1] die betroffene Person bereits über die entsprechenden Informationen verfügt;
+- b.[^11-2] ...
 - c. die unmittelbare Gefahr besteht, dass Rechtsansprüche oder wichtige Interessen Dritter beeinträchtigt oder die Erfüllung gesetzlicher Aufgaben vereitelt werden; oder
 - d. die betroffene Person unauffindbar ist.
 
 <sup>3</sup> Sollen Daten in Anwendung von Artikel 59 Absatz 3 HFG veröffentlicht werden, so müssen alle Angaben, die in ihrer Kombination die Wiederherstellung des Bezugs zur betroffenen Person ohne unverhältnismässigen Aufwand erlauben, unkenntlich gemacht oder gelöscht werden. Hierzu gehören insbesondere der Name, die Adresse, das Geburtsdatum und eindeutig kennzeichnende Identifikationsnummern.
 
+[^11-1]: Fassung gemäss Anhang 2 Ziff. II 96 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: Aufgehoben durch Anhang 2 Ziff. II 96 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 12
 
-**Austausch von Daten mit ausländischen Behörden und Institutionen**
+**Austausch von Daten mit ausländischen Behörden und Institutionen**[^12-1]
 
 <sup>1</sup>
 
-Zum Austausch vertraulicher Daten mit ausländischen Behörden und Institutionen sowie internationalen Organisationen sind befugt:
+Zum Austausch vertraulicher Daten mit ausländischen Behörden und Institutionen sowie internationalen Organen sind befugt:
 
 - a. die zuständige Ethikkommission;
 - b. die kantonale Aufsichtsbehörde;
 - c. das Schweizerische Heilmittelinstitut; und
 - d. das BAG.
 
-<sup>2</sup> Enthalten die vertraulichen Daten Personendaten, so dürfen diese nur dann an ausländische Behörden und Institutionen sowie an internationale Organisationen weitergegeben werden, wenn dadurch die Persönlichkeit der betroffenen Person nicht schwerwiegend gefährdet wird, namentlich weil eine Gesetzgebung fehlt, die einen angemessenen Schutz gewährleistet.
+<sup>2</sup> Personendaten dürfen ins Ausland bekanntgegeben werden, wenn der Bundesrat festgestellt hat, dass die Gesetzgebung des betreffenden Staates oder das internationale Organ einen angemessenen Schutz nach Artikel 16 Absatz 1 des Datenschutzgesetzes vom 25. September 2020[^12-2] (DSG) gewährleistet. Liegt keine Beurteilung des Bundesrates vor, so dürfen Personendaten ins Ausland bekanntgegeben werden, wenn hinreichende Garantien, insbesondere durch Vertrag, einen geeigneten Schutz im Ausland gewährleisten.
 
 <sup>3</sup>
 
-Fehlt eine Gesetzgebung, die einen angemessenen Schutz gewährleistet, so können die Personendaten nur ins Ausland weitergegeben werden, wenn:
+Abweichend von Artikel 16 Absätze 1 und 2 DSG dürfen in den folgenden Fällen Personendaten ins Ausland bekanntgegeben werden:
 
-- a. die Bekanntgabe erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen;
-- b. die Bekanntgabe zur Abwendung einer unmittelbar drohenden Gefahr für die öffentliche Gesundheit unerlässlich ist;
-- c. hinreichende Garantien, insbesondere durch Vertrag einen angemessenen Schutz im Ausland gewährleisten; oder
-- d. die betroffene Person im Einzelfall eingewilligt hat.
+- a. Die Bekanntgabe ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person oder eines Dritten zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist die Einwilligung der betroffenen Person einzuholen.
+- b. Die Bekanntgabe ist zur Abwendung einer unmittelbar drohenden Gefahr für die öffentliche Gesundheit unerlässlich.
+- c. Die betroffene Person hat ausdrücklich in die Bekanntgabe eingewilligt.
+
+<sup>4</sup> Werden die Personendaten ins Ausland bekanntgegeben, so teilt die Vollzugsbehörde der betroffenen Person den Staat oder das internationale Organ und gegebenenfalls die Garantien nach Artikel 16 Absatz 2 DSG oder die Anwendung einer Ausnahme nach Artikel 17 DSG mit.
+
+[^12-1]: Fassung gemäss Anhang 2 Ziff. II 96 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## 4. Kapitel: Inkrafttreten
 

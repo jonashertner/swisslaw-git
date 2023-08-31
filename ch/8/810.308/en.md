@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Organisational Aspects of the Human Re
 short: OrgO-HRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: en
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2013-644-20220526-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-644-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (HRA Organisation Ordinance, OrgO-HRA)
 
-of 20 September 2013 (Status as of 26 May 2022)
+of 20 September 2013 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -203,7 +203,7 @@ In particular, the coordination office has the following duties:
 
 <sup>1</sup>
 
-Before the enforcement body discloses personal data to the authorities responsible in accordance with Article 59 paragraphs 1 and 2 HRA, it shall solicit comments from the data subject, providing information at the same time on:
+Before the enforcement authority discloses personal data to the authorities responsible in accordance with Article 59 paragraphs 1 and 2 HRA, it shall solicit comments from the data subject, providing information at the same time on:
 
 - a. the purpose of the disclosure of data;
 - b. the nature of the data to be disclosed; and
@@ -213,39 +213,46 @@ Before the enforcement body discloses personal data to the authorities responsib
 
 The obligations specified in paragraph 1 do not apply if:
 
-- a. the data subject has already been adequately informed;
-- b. the disclosure of data is evident from the circumstances of the particular case;
+- a.[^11-1] the data subject already has the relevant information;
+- b.[^11-2] ...
 - c. there is an immediate risk of legal claims or important third-party interests being prejudiced, or the fulfilment of legal duties being prevented; or
 - d. the data subject cannot be traced.
 
-<sup>3</sup> If data is to be published under Article 59 paragraph 3 HRA, all items which, when combined, would enable the data subject to be identified without disproportionate effort, must be masked or deleted. These include in particular the name, address, date of birth and unique identification numbers.
+<sup>3</sup> If data are to be published under Article 59 paragraph 3 HRA, all items which, when combined, would enable the data subject to be identified without disproportionate effort, must be masked or deleted. These include in particular the name, address, date of birth and unique identification numbers.
+
+[^11-1]: Amended by Annex 2 No II 96 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: Repealed by Annex 2 No II 96 of the Data Protection Ordinance of 31 Aug. 2022, with effect from 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12
 
-**Exchange of data with foreign authorities and institutions**
+**Exchange of data with foreign authorities and institutions**[^12-1]
 
 <sup>1</sup>
 
-The following are empowered to exchange confidential data with foreign authorities and institutions or international organisations:
+The following are authorised to exchange confidential data with foreign authorities and institutions or international bodies:
 
 - a. the responsible ethics committee;
 - b. the cantonal supervisory authority;
-- c. the Swiss Agency for Therapeutic Products (Agency); and
+- c. the Swiss Agency for Therapeutic Products; and
 - d. the FOPH.
 
-<sup>2</sup> If the confidential data includes personal data, this may only be transmitted to foreign authorities and institutions or to international organisations if the privacy of the data subject is not seriously endangered thereby, in particular due to the absence of legislation that guarantees adequate protection.
+<sup>2</sup> Personal data may be disclosed abroad provided the Federal Council has established that the legislation in the State concerned or the international body guarantees an adequate level of protection in accordance with Article 16 paragraph 1 of the Data Protection Act of 25 September 2020[^12-2] (FADP). If no assessment from the Federal Council is available, personal data may be disclosed abroad if there are sufficient guarantees, in particular contractual guarantees, to ensure an adequate level of protection in the State concerned.
 
 <sup>3</sup>
 
-In the absence of legislation that guarantees adequate protection, personal data may only be transmitted abroad if:
+In derogation from Article 16 paragraphs 1 and 2 FADP personal data may be disclosed abroad in the following cases:
 
-- a. disclosure is required in order to protect the life or the physical integrity of the data subject;
-- b. disclosure is essential in order to avert an imminent danger to public health;
-- c. sufficient safeguards, in particular contractual clauses, ensure an adequate level of protection abroad; or
-- d. the data subject has consented in the particular case.
+- a. Disclosure is required in order to protect the life or the physical integrity of the data subject or a third party and it is not possible to obtain the consent of the data subject within a reasonable time.
+- b. Disclosure is essential in order to avert an imminent danger to public health.
+- c. The data subject has expressly consented to disclosure.
 
-## Chapter 4 Entry into Force
+<sup>4</sup> If personal data are disclosed abroad, the enforcement authority shall notify the data subject of the State or the international body to which they have been disclosed and if applicable of the guarantees in accordance with Article 16 paragraph 2 FADP or of the application of an exception under Article 17 FADP.
+
+[^12-1]: Amended by Annex 2 No II 96 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## Chapter 4 Commencement
 
 #### Art. 13
 
-This Ordinance shall enter into force on 1 January 2014.
+This Ordinance shall come into force on 1 January 2014.
