@@ -3,22 +3,22 @@ sr: "150.21"
 title: Ordonnance du 2 novembre 2016 concernant la loi fédérale relative à la convention internationale pour la protection de toutes les personnes contre les disparitions forcées
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/733"
 language: fr
-version: 2017-01-01
+version: 2023-09-01
 adopted: 2016-11-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/733/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-733-20170101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/733/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/733/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-733-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/733/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance concernant la loi fédérale relative à la convention internationale pour la protection de toutes les personnes contre les disparitions forcées
+# Ordonnance concernant la loi fédérale relative à la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées
 
-du 2 novembre 2016 (Etat le 1<sup>er</sup> janvier 2017)
+du 2 novembre 2016 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 4, al. 3, et 9, al. 3, de la loi fédérale du 18 décembre 2015 relative à la convention internationale pour la protection de toutes les personnes contre les disparitions forcées (loi),[^ingress-1]
+vu les art. 4, al. 3, et 9, al. 3, de la loi fédérale du 18 décembre 2015 relative à la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées (loi),[^ingress-1]
 
 arrête:
 
@@ -80,7 +80,7 @@ La demande d’information doit contenir les renseignements suivants:
 
 **Consentement de la personne recherchée**
 
-<sup>1</sup> Le consentement de la personne recherchée, requis conformément à l’art. 7, al. 2, de la loi, doit être délivré par écrit ou sous toute autre forme permettant d’en établir la preuve.
+Le consentement de la personne recherchée, requis conformément à l’art. 7, al. 2, de la loi, doit être délivré par écrit ou sous toute autre forme permettant d’en établir la preuve.
 
 ## Section 2 Traitement des données par le service fédéral de coordination
 
@@ -124,10 +124,11 @@ Les collaborateurs de l’Office fédéral de la police chargés de gérer le se
 
 <sup>1</sup> Les données contenues dans le système de gestion des affaires et des dossiers sont détruites 20 ans après la première saisie.
 
-<sup>2</sup> L’archivage des données est régi par l’art. 21 de la loi fédérale du 19 juin 1992 sur la protection des données[^10-1] et par les dispositions de la loi fédérale du 26 juin 1998 sur l’archivage[^10-2].
+<sup>2</sup> L’archivage des données est régi par l’art. 38 de la loi fédérale du 25 septembre 2020 sur la protection des données[^10-1] et par les dispositions de la loi fédérale du 26 juin 1998 sur l’archivage[^10-2].[^10-3]
 
 [^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-3]: Nouvelle teneur selon l’annexe 2 ch. II 11 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 3 Disposition finale
 

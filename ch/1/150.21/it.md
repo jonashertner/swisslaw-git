@@ -3,18 +3,18 @@ sr: "150.21"
 title: Ordinanza del 2 novembre 2016 concernente la legge federale relativa alla Convenzione internazionale per la protezione di tutte le persone dalla sparizione forzata
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/733"
 language: it
-version: 2017-01-01
+version: 2023-09-01
 adopted: 2016-11-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/733/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2016-733-20170101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/733/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/733/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-733-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/733/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la legge federale relativa alla Convenzione internazionale per la protezione di tutte le persone dalla sparizione forzata
 
-del 2 novembre 2016 (Stato 1° gennaio 2017)
+del 2 novembre 2016 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -124,10 +124,11 @@ I collaboratori di fedpol responsabili della conduzione del servizio di coordina
 
 <sup>1</sup> I dati inseriti nel sistema di gestione delle pratiche e degli atti sono distrutti 20 anni dopo la prima registrazione.
 
-<sup>2</sup> L’archiviazione dei dati si basa sull’articolo 21 della legge federale del 19 giugno 1992[^10-1] sulla protezione dei dati e sulle disposizioni della legge federale del 26 giugno 1998[^10-2] sull’archiviazione.
+<sup>2</sup> L’archiviazione dei dati si basa sull’articolo 38 della legge federale del 25 settembre 2020[^10-1] sulla protezione dei dati e sulle disposizioni della legge federale del 26 giugno 1998[^10-2] sull’archiviazione. [^10-3]
 
 [^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-3]: Nuovo testo giusta l’all. 2 n. II 11 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 3: Disposizione finale
 

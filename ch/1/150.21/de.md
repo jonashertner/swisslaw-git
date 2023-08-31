@@ -3,18 +3,18 @@ sr: "150.21"
 title: Verordnung vom 2. November 2016 zum Bundesgesetz zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/733"
 language: de
-version: 2017-01-01
+version: 2023-09-01
 adopted: 2016-11-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/733/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2016-733-20170101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/733/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/733/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-733-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/733/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung zum Bundesgesetz zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen
 
-vom 2. November 2016 (Stand am 1. Januar 2017)
+vom 2. November 2016 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -124,10 +124,11 @@ Die innerhalb von fedpol für die Führung der Koordinationsstelle des Bundes ve
 
 <sup>1</sup> Die Daten im Geschäfts- und Aktenverwaltungssystem werden 20 Jahre nach der ersten Erfassung vernichtet.
 
-<sup>2</sup> Die Archivierung der Daten richtet sich nach Artikel 21 des Bundesgesetzes vom 19. Juni 1992[^10-1] über den Datenschutz und nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998[^10-2].
+<sup>2</sup> Die Archivierung der Daten richtet sich nach Artikel 38 des Datenschutzgesetzes vom 25. September 2020[^10-1] und nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998[^10-2].[^10-3]
 
 [^10-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-3]: Fassung gemäss Anhang 2 Ziff. II 11 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 3. Abschnitt: Schlussbestimmung
 
