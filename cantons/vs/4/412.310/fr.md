@@ -1,30 +1,32 @@
 ---
 canton: VS
 number: "412.310"
-title: Ordonnance concernant l’organisation et les directions des écoles cantonales du secondaire du deuxième degré professionnel
+title: "Ordonnance concernant l'organisation et les directions des écoles cantonales du secondaire du deuxième degré professionnel"
 short: OODESP
 language: fr
-version: 2012-09-01
-corrected: 2017-06-30
-version_adopted: 2013-01-10
+version: 2023-09-01
+version_adopted: 2024-07-03
 adopted: 2013-01-10
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/412.310"
-pdf: "https://lex.vs.ch/api/fr/versions/528/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3338/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant l'organisation et les directions des écoles cantonales du secondaire du deuxième degré professionnel
 
-du 10 janvier 2013
+(OODESP)
+
+du 10.01.2013 (état 01.09.2023)
 
 Le Conseil d'Etat du canton du Valais
 
 vu l’article 57 alinéa 2 de la Constitution cantonale;
 
-vu la loi sur le personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011; vu la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011;
+vu la loi sur le personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011;
+
+vu la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011;
 
 vu la loi concernant la deuxième étape de la mise en œuvre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération, le canton et les communes du 15 septembre 2011;
 
@@ -32,13 +34,13 @@ sur la proposition du Département de l’éducation, de la culture et du sport,
 
 ordonne:
 
-### Section 1: Généralités
+## 1 Généralités
 
 #### Art. 1
 
-**Champ d’application**
+**Champ d'application**
 
-La présente ordonnance règle l’organisation et les directions des écoles cantonales du secondaire du deuxième degré professionnel (ci-après: les écoles).
+<sup>1</sup> La présente ordonnance règle l’organisation et les directions des écoles cantonales du secondaire du deuxième degré professionnel (ci-après: les écoles).
 
 #### Art. 2
 
@@ -54,29 +56,20 @@ La présente ordonnance règle l’organisation et les directions des écoles ca
 
 **Structure**
 
-Chaque école comprend:
+<sup>1</sup> Chaque école comprend:
 
 - a) le collège de direction formé des organes de direction suivants:
-
-- 1\. le directeur,
-
-- 2\. les chefs de section,
-
-- 3\. le responsable administratif selon la taille et la structure de l’établissement;
-
+  - 1\. le directeur,
+  - 2\. les chefs de section.
+  - 3\. …
 - b) le corps enseignant:
-
-- 1\. les responsables/coordinateurs de filières, de professions, de secteurs ou de domaines,
-
-- 2\. les titulaires,
-
-- 3\. les maîtres professionnels;
-
+  - 1\. les responsables/coordinateurs de filières, de professions, de secteurs ou de domaines,
+  - 2\. les titulaires,
+  - 3\. les maîtres professionnels;
 - c) les collaborateurs administratifs et techniques;
-
 - d) les apprentis et les élèves.
 
-### Section 2: Les organes de direction
+## 2 Les organes de direction
 
 #### Art. 4
 
@@ -99,18 +92,12 @@ Chaque école comprend:
 <sup>2</sup> Les missions du directeur sont fixées dans un cahier des charges et portent notamment sur les responsabilités suivantes:
 
 - a) direction pédagogique;
-
 - b) ressources humaines/conduite du personnel;
-
-- c) gestion du temps de travail des enseignants selon le principe de l’annualisation;
-
+- c) gestion du temps de travail des enseignants selon le principe de l'annualisation;
 - d) gestion administrative, organisationnelle et financière;
-
 - e) gestion de la qualité;
-
 - f) collaboration avec les partenaires;
-
-- g) représentation de l’école et, sur mandats, représentation du Service ou du Département.
+- g) représentation de l'école et, sur mandats, représentation du Service ou du Département.
 
 #### Art. 6
 
@@ -126,7 +113,7 @@ Chaque école comprend:
 
 <sup>1</sup> Le chef de section est engagé par le Conseil d’Etat, sur proposition du Département et préavis du directeur.
 
-<sup>2</sup> Il consacre 80 pour cent de son temps à la section, le solde de 20 pour cent étant consacré à l’enseignement.
+<sup>2</sup> Il exerce, en principe, son activité de chef de section à plein temps.
 
 <sup>3</sup> Il est tenu de suivre une formation spécifique à sa fonction et reconnue par le Département.
 
@@ -134,23 +121,16 @@ Chaque école comprend:
 
 **Missions et compétences du chef de section**
 
-Le chef de section est le collaborateur direct du directeur et gère sa section conformément à un cahier des charges qui comprend notamment:
+<sup>1</sup> Le chef de section est le collaborateur direct du directeur et gère sa section conformément à un cahier des charges qui comprend notamment:
 
 - a) la gestion organisationnelle et administrative de la section;
-
-- b) la gestion pédagogique et l’organisation du travail du personnel;
-
+- b) la gestion pédagogique et l'organisation du travail du personnel;
 - c) la gestion des apprentis et des élèves;
-
 - d) les tâches de direction verticales et transversales qui lui sont confiées par le directeur.
 
 #### Art. 9
 
-**Le responsable administratif**
-
-<sup>1</sup> La création et le statut du responsable administratif sont régis par la loi sur le personnel de l’Etat du Valais et les dispositions y afférentes. Ses tâches sont définies dans un cahier des charges.
-
-<sup>2</sup> Le directeur est compétent pour lui attribuer des tâches qui ne sont pas explicitement mentionnées dans le cahier des charges mais qui sont en lien avec le fonctionnement de l’école.
+**…**
 
 #### Art. 10
 
@@ -162,7 +142,7 @@ Le chef de section est le collaborateur direct du directeur et gère sa section 
 
 <sup>3</sup> Le directeur peut convoquer d'autres responsables de l’école ou des intervenants externes pour des points particuliers liés au fonctionnement de l’école.
 
-### Section 3: Le corps enseignant
+## 3 Le corps enseignant
 
 #### Art. 11
 
@@ -191,9 +171,7 @@ Le chef de section est le collaborateur direct du directeur et gère sa section 
 <sup>1</sup> Le corps enseignant est convoqué au minimum deux fois par année par le directeur dans le but:
 
 - a) de traiter des questions d'éducation, de pédagogie et d'administration;
-
 - b) de permettre au directeur de renseigner son corps enseignant sur la marche générale de l'école et sur les événements qui se préparent;
-
 - c) de permettre au corps enseignant de faire des propositions au directeur.
 
 <sup>2</sup> Selon les besoins, le corps enseignant d’une section peut également être convoqué par le chef de section. Les questions soulevées sont transmises au directeur par le chef de section.
@@ -210,7 +188,7 @@ Le chef de section est le collaborateur direct du directeur et gère sa section 
 
 <sup>4</sup> Chaque enseignant est tenu d’assister aux séances des conseils de classe convoqué par le titulaire ou le chef de section.
 
-### Section 4: Les collaborateurs administratifs et techniques
+## 4 Les collaborateurs administratifs et techniques
 
 #### Art. 15
 
@@ -220,7 +198,7 @@ Le chef de section est le collaborateur direct du directeur et gère sa section 
 
 <sup>2</sup> Le directeur est compétent pour leur attribuer des tâches qui ne sont pas explicitement mentionnées dans le cahier des charges mais qui sont en lien avec le fonctionnement de l’école.
 
-### Section 5: Les apprentis et les élèves
+## 5 Les apprentis et les élèves
 
 #### Art. 16
 
@@ -228,10 +206,8 @@ Le chef de section est le collaborateur direct du directeur et gère sa section 
 
 <sup>1</sup> Les écoles sont fréquentées par:
 
-- a) des apprentis au bénéfice d’un contrat d’apprentissage;
-
+- a) des apprentis au bénéfice d'un contrat d'apprentissage;
 - b) des élèves inscrits dans des filières de maturité professionnelle;
-
 - c) des élèves suivant des formations spécifiques organisées par le Département.
 
 <sup>2</sup> D’autres personnes peuvent fréquenter les écoles avec un statut d’auditeurs, sur autorisation du Service.
@@ -240,20 +216,18 @@ Le chef de section est le collaborateur direct du directeur et gère sa section 
 
 <sup>4</sup> Les apprentis, les élèves et les auditeurs sont régis par les divers règlements du Conseil d’Etat et les règlements internes propres à chaque école.
 
-### Section 6: Dispositions finales
+## 6 Dispositions finales
 
 #### Art. 17
 
 **Abrogation**
 
-La présente ordonnance abroge l'ordonnance concernant le statut et le traitement du personnel de l'enseignement professionnel du 21 août 1991.
+<sup>1</sup> La présente ordonnance abroge l'ordonnance concernant le statut et le traitement du personnel de l'enseignement professionnel du 21 août 1991.
 
 #### Art. 18
 
 **Entrée en vigueur**
 
-La présente ordonnance sera publiée dans le Bulletin officiel et entre en vigueur avec effet rétroactif au 1er septembre 2012.
+<sup>1</sup> La présente ordonnance sera publiée dans le Bulletin officiel et entre en vigueur avec effet rétroactif au 1<sup>er</sup> septembre 2012.
 
-Ainsi adopté en séance du Conseil d'Etat à Sion, le 10 janvier 2013.
-
-La présidente du Conseil d'Etat: Esther Waeber-Kalbermatten Le chancelier d'Etat: Philipp Spörri
+RCV BO/Abl. 3/2013
