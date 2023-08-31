@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Verordnung vom 15. Oktober 2008 über das informatisierte Personennachweis, Aktennachweis- und Verwaltungssystem im Bundesamt für Polizei (IPAS-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/de"
 
 (IPAS-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 23. Januar 2023)
+vom 15. Oktober 2008 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -109,7 +109,7 @@ Das IPAS enthält die folgenden Daten und Unterlagen:
 
 **Geschäfts- und Aktenverwaltungssystem von fedpol**
 
-<sup>1</sup> Das Geschäfts- und Aktenverwaltungssystem von fedpol dient dazu, die Verwaltung der Unterlagen und Dossiers zu erleichtern, die sich auf Geschäfte beziehen, die natürliche und juristische Personen oder Objekte betreffen; ausgenommen sind Unterlagen und fallbezogene Einträge zu Geschäften, die die BKP im Informationssystem JANUS bearbeitet.
+<sup>1</sup> Das Geschäfts- und Aktenverwaltungssystem von fedpol dient dazu, die Verwaltung der Unterlagen und Dossiers zu erleichtern, die sich auf Geschäfte beziehen, die natürliche und juristische Personen oder Objekte betreffen; ausgenommen sind Unterlagen und fallbezogene Einträge zu Geschäften, die im Nationalen Ermittlungssystem bearbeitet werden.[^5-1]
 
 <sup>2</sup> Das Geschäfts- und Aktenverwaltungssystem von fedpol kann alle Mitteilungen umfassen, insbesondere solche, die per Telefon, E-Mails, Briefe und Fax an fedpol gerichtet sind oder von ihm ausgehen. Es umfasst insbesondere die im Rahmen der Zusammenarbeit mit dem Europäischen Polizeiamt (Europol) ergangenen Mitteilungen.
 
@@ -122,6 +122,8 @@ Es erlaubt den Zugriff auf:
 - c. den Standort der Akten und Angaben über die Aktenausleihe.
 
 <sup>4</sup> Die im Geschäfts- und Aktenverwaltungssystem von fedpol bearbeiteten Daten können nach Personen, Objekten oder Ereignissen klassifiziert und mit anderen Unterkategorien oder Informationssystemen von fedpol verknüpft werden. Für Daten, die mit anderen Unterkategorien oder einem anderen Informationssystem verknüpft sind, gelten die Bearbeitungsbestimmungen und Zugriffsbeschränkungen der jeweiligen Systeme.
+
+[^5-1]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## 3. Abschnitt: Zugriffsberechtigungen und Datenbearbeitung
 
@@ -212,18 +214,19 @@ Fedpol kann im Rahmen der Amtshilfe aus dem IPAS stammende Daten folgenden Behö
 
 **Protokollierung der Löschmutationen**[^9a-1]
 
-Die Löschmutationen werden ab dem Zeitpunkt der Löschung der Daten während eines Jahres aufbewahrt. Sie sind ausschliesslich dem oder der Datenschutzbeauftragten des Amtes zugänglich und dürfen nur zur Überwachung der Datenschutzvorschriften verwendet werden.
+Die Löschmutationen werden ab dem Zeitpunkt der Löschung der Daten während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt. Sie sind ausschliesslich der Datenschutzberaterin oder dem Datenschutzberater des Amtes zugänglich und dürfen nur zur Überwachung der Datenschutzvorschriften verwendet werden.
 
-[^9a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Fassung gemäss Anhang 2 Ziff. II 43 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
-**Archivierung**
+**Archivierung**[^10-1]
 
-Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet sich gemäss Artikel 21 des Bundesgesetzes vom 19. Juni 1992[^10-1] über den Datenschutz (DSG) und nach dem Archivierungsgesetz vom 26. Juni 1998[^10-2].
+Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet sich nach Artikel 38 des Datenschutzgesetzes vom 25. September 2020[^10-2] (DSG) und nach dem Archivierungsgesetz vom 26. Juni 1998[^10-3].
 
-[^10-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-1]: Fassung gemäss Anhang 2 Ziff. II 43 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-3]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## 4. Abschnitt: Datenschutz und Datensicherheit
 
@@ -244,18 +247,21 @@ Das Recht auf Auskunft, Berichtigung oder Löschung von Daten richtet sich nach 
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^12-2] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^12-3].
+- a.[^12-2] die Datenschutzverordnung vom 31. August 2022[^12-3];
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^12-4].
 
 [^12-1]: Fassung gemäss Anhang Ziff. 19 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-2]: Fassung gemäss Anhang 2 Ziff. II 43 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 13
 
 **Protokollierung**
 
-Jede Bearbeitung von Daten im IPAS ist in einem Protokoll festzuhalten. Die Protokollierungen sind während eines Jahres aufzubewahren.
+Jede Bearbeitung von Daten im IPAS ist in einem Protokoll festzuhalten. Die Protokollierungen werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^13-1]
+
+[^13-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 43 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 

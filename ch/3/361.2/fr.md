@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordonnance du 15 octobre 2008 sur le système informatisé de gestion et d'indexation de dossiers et de personnes de l'Office fédéral de la police (Ordonnance IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/fr"
 
 (Ordonnance IPAS)
 
-du 15 octobre 2008 (État le 23 janvier 2023)
+du 15 octobre 2008 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -109,7 +109,7 @@ Le système IPAS contient les données et documents suivants:
 
 **Système de gestion des affaires et des dossiers de fedpol**
 
-<sup>1</sup> Le système de gestion des affaires et des dossiers de fedpol permet de faciliter la gestion des documents et des dossiers qui se rapportent à des affaires impliquant des personnes physiques, des personnes morales ou des objets, à l’exception des documents et des entrées relatifs aux affaires traitées par la PJF dans le système informatisé JANUS.
+<sup>1</sup> Le système de gestion des affaires et des dossiers de fedpol permet de faciliter la gestion des documents et des dossiers qui se rapportent à des affaires impliquant des personnes physiques, des personnes morales ou des objets, à l’exception des documents et des entrées relatifs aux affaires traitées dans le Système national d’enquête.[^5-1]
 
 <sup>2</sup> Il peut comporter toutes les communications, notamment les appels téléphoniques, les courriers électroniques et les lettres adressés à fedpol ou émanant de lui. Il contient en particulier les communications échangées dans le cadre de la coopération avec l’Office européen de police (Europol).
 
@@ -122,6 +122,8 @@ Il donne accès:
 - c. à l’emplacement des dossiers et aux indications relatives au prêt.
 
 <sup>4</sup> Les données traitées dans le système de gestion des affaires et des dossiers de fedpol peuvent être indexées par personne, par objet ou par événement et reliées au système principal ou à d’autres systèmes d’information de fedpol. Lorsque des données sont reliées à d’autres sous-catégories ou à un autre système d’information, elles sont soumises aux règles de traitement et aux restrictions d’accès applicables à ces derniers.
+
+[^5-1]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## Section 3 Droits d’accès et traitement de données
 
@@ -153,7 +155,7 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 
 <sup>2</sup> Sont réservées les dispositions légales régissant le traitement des données signalétiques, les données Interpol, Europol, N-SIS et les données relatives à la recherche de personnes disparues et de documents d’identité perdus.[^7-11]
 
-[^7-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848).
+[^7-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^7-2]: Nouvelle teneur selon l’annexe ch. II 5 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^7-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
@@ -212,18 +214,19 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 
 **Journalisation des effacements**[^9a-1]
 
-Les procès-verbaux de journalisation des effacements sont conservés durant un an à compter de l’effacement des données. Ils ne peuvent être consultés que par le conseiller à la protection des données de l’office et ne peuvent être utilisés que pour la surveillance du respect des dispositions relatives à la protection des données.
+Les procès-verbaux de journalisation des effacements sont conservés durant un an à compter de l’effacement des données, séparément du système dans lequel les données personnelles sont traitées. Ils ne peuvent être consultés que par le conseiller à la protection des données de l’office et ne peuvent être utilisés que pour la surveillance du respect des dispositions relatives à la protection des données.
 
-[^9a-1]: Introduit par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9a-1]: Introduit par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nouvelle teneur selon l’annexe 2 ch. II 43 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
-**Archivage**
+**Archivage**[^10-1]
 
-Conformément à l’art. 21 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^10-1], la remise de données du système d’information aux Archives fédérales est régie par la loi fédérale du 26 juin 1998 sur l’archivage[^10-2].
+Conformément à l’art. 38 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^10-2], la remise de données du système d’information aux Archives fédérales est régie par la loi fédérale du 26 juin 1998 sur l’archivage[^10-3].
 
-[^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-1]: Nouvelle teneur selon l’annexe 2 ch. II 43 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Section 4 Protection et sécurité des données
 
@@ -244,18 +247,21 @@ Le droit à la consultation, à la rectification et à la suppression des donné
 
 La sécurité des données est garantie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-3].
+- a.[^12-2] l’ordonnance du 31 août 2022 sur la protection des données[^12-3];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-4].
 
 [^12-1]: Nouvelle teneur selon l’annexe ch. 19 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-2]: Nouvelle teneur selon l’annexe 2 ch. II 43 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 13
 
 **Journalisation**
 
-Tout traitement de données figurant dans IPAS est consigné dans un procès-verbal. Les procès-verbaux de journalisation sont conservés durant un an.
+Tout traitement de données figurant dans IPAS est consigné dans un procès-verbal. Les procès-verbaux de journalisation sont conservés durant un an, séparément du système dans lequel les données personnelles sont traitées.[^13-1]
+
+[^13-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 43 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Dispositions finales
 
@@ -486,7 +492,7 @@ Légende
 <tr><td>AFIS-ADN</td><td>Catégorie «AFIS-ADN»</td></tr>
 <tr><td>INTERPOL</td><td>Catégorie «Interpol»</td></tr>
 <tr><td>EUROPOL</td><td>Catégorie «Europol»</td></tr>
-<tr><td>NSIS</td><td>Catégorie «N-SIS »</td></tr>
+<tr><td>NSIS</td><td>Catégorie «N-SIS»</td></tr>
 <tr><td>RECHERCHE DISPARUS</td><td>Catégorie «Recherche de personnes disparues»</td></tr>
 <tr><td>DOC. D’IDENTITE</td><td>Catégorie «Documents d’identité»</td></tr>
 <tr><td>D-B</td><td>Données de base</td></tr>

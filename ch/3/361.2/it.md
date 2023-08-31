@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordinanza del 15 ottobre 2008 sul sistema informatizzato di gestione e indice informatizzato delle persone e dei fascicoli dell'Ufficio federale di polizia (Ordinanza IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/it"
 
 (Ordinanza IPAS)
 
-del 15 ottobre 2008 (Stato 23 gennaio 2023)
+del 15 ottobre 2008 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -109,7 +109,7 @@ L’IPAS contiene i seguenti dati e documenti:
 
 **Sistema di gestione delle pratiche e degli atti di fedpol**
 
-<sup>1</sup> Il sistema di gestione delle pratiche e degli atti di fedpol serve a facilitare la gestione dei documenti e dei fascicoli relativi a pratiche concernenti persone fisiche, persone giuridiche o oggetti, eccetto i documenti e le iscrizioni relativi ai casi trattati dalla PGF nel sistema d’informazione JANUS.
+<sup>1</sup> Il sistema di gestione delle pratiche e degli atti di fedpol serve a facilitare la gestione dei documenti e dei fascicoli relativi a pratiche concernenti persone fisiche, persone giuridiche od oggetti, eccetto i documenti e le iscrizioni relativi ai casi trattati nel sistema nazionale di indagine.[^5-1]
 
 <sup>2</sup> Esso può contenere tutte le comunicazioni, segnatamente le comunicazioni telefoniche, i messaggi di posta elettronica, le lettere e le comunicazioni via telefax indirizzati a fedpol o provenienti da quest’ultimo. Contiene in particolare le comunicazioni scambiate nel quadro della cooperazione con l’Ufficio europeo di polizia (Europol).
 
@@ -122,6 +122,8 @@ Esso dà accesso:
 - c. all’ubicazione dei fascicoli e alle indicazioni relative al prestito.
 
 <sup>4</sup> I dati trattati nel sistema di gestione delle pratiche e degli atti di fedpol possono essere indicizzati per persona, oggetto o evento e connessi alle altre sottocategorie o ad altri sistemi d’informazione di fedpol. I dati che sono connessi ad altre sottocategorie o a un altro sistema d’informazione sottostanno alle regole di trattamento e alle restrizioni d’accesso applicabili a questi ultimi.
+
+[^5-1]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## Sezione 3: Diritti d’accesso e trattamento dei dati
 
@@ -212,18 +214,19 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 
 **Verbalizzazione delle cancellazioni**[^9a-1]
 
-I verbali delle cancellazioni sono conservati per un anno a partire dal momento della cancellazione dei dati. I verbali sono accessibili esclusivamente all’incaricato per la protezione dei dati dell’Ufficio e possono essere utilizzati unicamente per sorvegliare il rispetto delle disposizioni in materia di protezione dei dati.
+I verbali delle cancellazioni sono conservati per un anno, a partire dal momento della cancellazione dei dati, separatamente dal sistema in cui sono trattati i dati personali. I verbali sono accessibili esclusivamente al consulente per la protezione dei dati dell’Ufficio e possono essere utilizzati unicamente per sorvegliare il rispetto delle disposizioni in materia di protezione dei dati.
 
-[^9a-1]: Introdotto dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9a-1]: Introdotto dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta l’all. 2 n. II 43 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
-**Archiviazione**
+**Archiviazione**[^10-1]
 
-In virtù dell’articolo 21 della legge federale del 19 giugno 1992[^10-1] sulla protezione dei dati (LPD), la consegna all’Archivio federale di dati contenuti nel sistema d’informazione è retta dalla legge federale del 26 giugno 1998[^10-2] sull’archiviazione.
+La consegna all’Archivio federale di dati contenuti nel sistema d’informazione è retta dall’articolo 38 della legge federale del 25 settembre 2020[^10-2] sulla protezione dei dati (LPD) e dalla legge federale del 26 giugno 1998[^10-3] sull’archiviazione.
 
-[^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-1]: Nuovo testo giusta l’all. 2 n. II 43 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Sezione 4: Protezione dei dati e sicurezza dei dati
 
@@ -244,18 +247,21 @@ Il diritto d’accesso, il diritto alla rettifica e alla cancellazione dei dati 
 
 La sicurezza dei dati è garantita:
 
-- a. dall’ordinanza del 14 giugno 1993[^12-2] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^12-3] sui ciber-rischi.
+- a.[^12-2] dall’ordinanza del 31 agosto 2022[^12-3] sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^12-4] sui ciber-rischi.
 
 [^12-1]: Nuovo testo giusta l’all. n. 19 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-2]: Nuovo testo giusta l’all. 2 n. II 43 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 13
 
 **Verbalizzazione**
 
-Ogni trattamento di dati nell’IPAS è verbalizzato. I verbali devono essere conservati per un anno.
+Ogni trattamento di dati nell’IPAS è verbalizzato. I verbali devono essere conservati per un anno. I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^13-1]
+
+[^13-1]: Nuovo testo del per. giusta l’all. 2 n. II 43 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 
