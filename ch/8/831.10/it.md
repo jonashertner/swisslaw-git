@@ -4,11 +4,11 @@ title: "Legge federale del 20 dicembre 1946 sull'assicurazione per la vecchiaia 
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230101/it/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230101-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230901/it/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230901-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230101/it"
 
 (LAVS)[^t-1]
 
-del 20 dicembre 1946 (Stato 1° gennaio 2023)
+del 20 dicembre 1946 (Stato 1° settembre 2023)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -1266,14 +1266,16 @@ L’assicurazione per la vecchiaia e per i superstiti è applicata, sotto la vig
 
 Il Consiglio federale può prescrivere agli organi esecutivi l’utilizzo di sistemi d’informazione sviluppati, previa consultazione degli organi interessati, per l’adempimento dei compiti previsti dall’allegato II dell’Accordo del 21 giugno 1999[^49a-2] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e da altre convenzioni internazionali in materia di sicurezza sociale.
 
-[^49a-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. n. 1 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^49a-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. 2 n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^49a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 
 #### Art. 49b
 
 **Trattamento di dati personali**[^49b-1]
 
-Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati degni di particolare protezione e profili della personalità, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge o da convenzioni internazionali, segnatamente per:
+<sup>1</sup>
+
+Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati degni di particolare protezione, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge o da convenzioni internazionali, segnatamente per:[^49b-2]
 
 - a. calcolare e riscuotere i contributi assicurativi;
 - b. stabilire il diritto alle prestazioni, nonché calcolarle, versarle e coordinarle con quelle di altre assicurazioni sociali;
@@ -1281,10 +1283,13 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 - d. far valere una pretesa di regresso nei confronti di terzi responsabili;
 - e. sorvegliare l’esecuzione della presente legge;
 - f. allestire statistiche;
-- g.[^49b-2] assegnare o verificare il numero AVS.
+- g.[^49b-3] assegnare o verificare il numero AVS.
 
-[^49b-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. n. 1 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^49b-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+<sup>2</sup> Per adempiere tali compiti possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la salute, la gravità dell’infermità fisica o psichica, i bisogni e la situazione economica dell’assicurato.
+
+[^49b-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. 2 n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^49b-2]: Nuovo testo giusta il n. IV della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° set. 2023 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^49b-3]: Nuovo testo giusta il n. IV della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° set. 2023 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 50
 

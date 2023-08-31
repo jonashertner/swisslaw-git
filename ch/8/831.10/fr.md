@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et surviv
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230101-fr-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230101/fr"
 
 (LAVS)[^t-1]
 
-du 20 décembre 1946 (État le 1<sup>er</sup> janvier 2023)
+du 20 décembre 1946 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977 (9<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -1251,14 +1251,16 @@ L’AVS est appliquée, sous la surveillance de la Confédération (art. 76 LPGA
 
 Le Conseil fédéral peut obliger les organes d’exécution à utiliser des systèmes d’information développés, après consultation des organes concernés, en vue de l’exécution des tâches définies à l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^49a-2] (accord sur la libre circulation des personnes) et d’autres conventions internationales en matière de sécurité sociale.
 
-[^49a-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^49a-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon l’annexe 2 ch. 5 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^49a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 
 #### Art. 49b
 
 **Traitement de données personnelles**[^49b-1]
 
-Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter et à faire traiter les données personnelles, y compris les données sensibles et les profils de la personnalité, qui leur sont nécessaires pour accomplir les tâches qui leur sont assignées par la présente loi ou en vertu d’accords internationaux, notamment pour:
+<sup>1</sup>
+
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les tâches qui leur sont assignées par la présente loi ou en vertu d’accords internationaux, notamment pour:[^49b-2]
 
 - a. calculer et percevoir les cotisations;
 - b. établir le droit aux prestations, les calculer, les allouer et les coordonner avec celles d’autres assurances sociales;
@@ -1266,10 +1268,14 @@ Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surv
 - d. faire valoir une prétention récursoire contre le tiers responsable;
 - e. surveiller l’exécution de la présente loi;
 - f. établir des statistiques;
-- g.[^49b-2] attribuer ou vérifier le numéro AVS.
+- g.[^49b-3] attribuer ou vérifier le numéro AVS.
 
-[^49b-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^49b-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+<sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la personne concernée.[^49b-4]
+
+[^49b-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon l’annexe 2 ch. 5 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^49b-2]: Nouvelle teneur selon le ch. IV de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^49b-3]: Nouvelle teneur selon le ch. IV de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^49b-4]: Introduit par l’annexe 2 ch. 5 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 50
 

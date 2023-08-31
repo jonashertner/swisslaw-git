@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenve
 short: AHVG
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230101/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230101-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230901/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230101/de"
 
 (AHVG)[^t-1]
 
-vom 20. Dezember 1946 (Stand am 1. Januar 2023)
+vom 20. Dezember 1946 (Stand am 1. September 2023)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -527,7 +527,7 @@ Anspruch auf eine Altersrente haben:
 <sup>2</sup> Der Anspruch auf die Altersrente entsteht am ersten Tag des Monats, welcher der Vollendung des gemäss Absatz 1 massgebenden Altersjahres folgt. Er erlischt mit dem Tod.
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^21-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510))
+[^21-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 22
 
@@ -1261,14 +1261,16 @@ Die Durchführung der Alters- und Hinterlassenenversicherung erfolgt unter der A
 
 Der Bundesrat kann die Durchführungsstellen verpflichten, Informationssysteme zu verwenden, die für die Erfüllung der Aufgaben nach Anhang II des Abkommens vom 21. Juni 1999[^49a-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie anderer internationaler Abkommen über die soziale Sicherheit und nach Anhörung der betroffenen Stellen entwickelt wurden.
 
-[^49a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang Ziff. 1 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^49a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang 2 Ziff. 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^49a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 
 #### Art. 49b
 
 **Bearbeiten von Personendaten**[^49b-1]
 
-Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz oder im Rahmen von zwischenstaatlichen Vereinbarungen übertragenen Aufgaben zu erfüllen, namentlich um:
+<sup>1</sup>
+
+Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz oder im Rahmen von zwischenstaatlichen Vereinbarungen übertragenen Aufgaben zu erfüllen, namentlich um:[^49b-2]
 
 - a. die Versicherungsbeiträge zu berechnen und zu erheben;
 - b. Leistungsansprüche zu beurteilen sowie Leistungen zu berechnen, zu gewähren und mit Leistungen anderer Sozialversicherungen zu koordinieren;
@@ -1276,10 +1278,13 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - d. ein Rückgriffsrecht gegenüber einem haftpflichtigen Dritten geltend zu machen;
 - e. die Aufsicht über die Durchführung dieses Gesetzes auszuüben;
 - f. Statistiken zu führen;
-- g.[^49b-2] die AHV-Nummer zuzuweisen oder zu verifizieren.
+- g.[^49b-3] die AHV-Nummer zuzuweisen oder zu verifizieren.
 
-[^49b-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang Ziff. 1 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^49b-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+<sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus befugt, Personendaten, die namentlich die Beurteilung der Gesundheit, der Schwere des physischen oder psychischen Leidens, der Bedürfnisse und der wirtschaftlichen Situation der versicherten Person erlauben, zu bearbeiten oder bearbeiten zu lassen.
+
+[^49b-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang 2 Ziff. 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^49b-2]: Fassung gemäss Ziff. IV des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Sept. 2023 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)
+[^49b-3]: Fassung gemäss Ziff. IV des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Sept. 2023 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 50
 

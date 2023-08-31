@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da december 1946 davart l'assicuranza per vegls 
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: rm
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230101-rm-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAVS)[^t-1]
 
-dals 20 da december 1946 (versiun dal 1. da schaner 2023)
+dals 20 da december 1946 (versiun dal 1. da settember 2023)
 
 [^t-1]: Agiuntà l’abreviaziun tenor la cifra I da la LF dals 24 da zer. 1977 (9. revisiun da la AVS), en vigur dapi il 1. da schan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -920,7 +920,7 @@ Sch’ina renta da vegliadetgna sto vegnir fixada da nov, perquai ch’il conjug
 <sup>5</sup> Il Cussegl federal po decretar prescripziuns cumplementaras, arrundar si u giu l’index da las rentas e reglar la procedura per l’adattaziun da las rentas.
 
 [^33ter-1]: Integrà tras la cifra I da la LF dals 24 da zer. 1977 (9. revisiun da la AVS), en vigur dapi il 1. da schan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^33ter-2]: La designaziun da l’unitad administrativa è vegnida adattada applitgond l’art. 20 al. 2 da l’O dals 7 d’oct. 2015 davart las publicaziuns uffizialas ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^33ter-2]: La designaziun da l’unitad administrativa è vegnida adattada applitgond l’art. 16 al. 3 da l’O dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^33ter-3]: Versiun tenor la cifra I da la LF dals 13 da dec. 1991 ([AS 1992 1286](https://fedlex.data.admin.ch/eli/oc/1992/1286_1286_1286); [BBl 1991 I 217](https://fedlex.data.admin.ch/eli/fga/1991/1_217_193_181)).
 
 ### II. Las rentas cumplainas
@@ -1263,26 +1263,30 @@ L’assicuranza per vegls e survivents vegn exequida sut la surveglianza da la C
 
 Suenter avair tadlà ils posts pertutgads po il Cussegl federal obligar ils posts executivs d’utilisar sistems d’infurmaziun ch’èn vegnids sviluppads per ademplir las incumbensas tenor l’agiunta II da la Cunvegna dals 21 da zercladur 1999[^49a-2] tranter la Confederaziun svizra e la Communitad europeica cun ses stadis commembers davart la libra circulaziun da persunas (Cunvegna davart la libra circulaziun) sco er autras cunvegnas internaziunalas davart la segirezza sociala.
 
-[^49a-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 21 da zer. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^49a-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Versiun tenor la cifra 5 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^49a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 
 #### Art. 49b
 
 **Elavuraziun da datas persunalas**[^49b-1]
 
-Ils organs ch’èn incumbensads da realisar, da controllar u da survegliar la realisaziun da questa lescha èn autorisads d’elavurar u da laschar elavurar las datas persunalas, inclusiv las datas spezialmain sensiblas ed ils profils da la persunalitad, ch’els dovran per ademplir las incumbensas confidadas ad els tenor questa lescha u en il rom da cunvegnas internaziunalas, numnadamain per:
+<sup>1</sup>
+
+Ils organs ch’èn incumbensads da realisar, da controllar u da survegliar la realisaziun da questa lescha èn autorisads d’elavurar u da laschar elavurar las datas persunalas, inclusiv datas spezialmain sensiblas, ch’els dovran per ademplir las incumbensas confidadas ad els tenor questa lescha u en il rom da cunvegnas internaziunalas, numnadamain per:[^49b-2]
 
 - a. calcular ed incassar las contribuziuns d’assicuranza;
 - b. giuditgar dretgs da prestaziuns sco er calcular, garantir e coordinar cun prestaziuns d’autras assicuranzas socialas;
 - c. giuditgar dretgs da contribuziuns sco er calcular e garantir contribuziuns e survegliar l’utilisaziun da talas;
 - d. far valair il dretg da prender regress sin ina terza persuna responsabla;
 - e. exequir la surveglianza davart la realisaziun da questa lescha;
-
 - f. far statisticas;
-- g.[^49b-2] attribuir u verifitgar il numer da la AVS.
+- g.[^49b-3] attribuir u verifitgar il numer da la AVS.
 
-[^49b-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 21 da zer. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^49b-2]: Versiun tenor la cifra I da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+<sup>2</sup> Per ademplir questas incumbensas èn els ultra da quai autorisads d’elavurar u da laschar elavurar datas persunalas, che permettan en spezial da giuditgar la sanadad, la grevezza da la suffrientscha fisica u psichica, ils basegns e la situaziun economica da la persuna assicurada.
+
+[^49b-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Versiun tenor la cifra 5 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^49b-2]: Versiun tenor la cifra IV da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da sett. 2023 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^49b-3]: Versiun tenor la cifra IV da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da sett. 2023 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 50
 
