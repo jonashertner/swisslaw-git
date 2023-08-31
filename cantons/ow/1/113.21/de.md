@@ -4,13 +4,12 @@ number: "113.21"
 title: Vollziehungsverordnung zum Bundesgesetz über die Ausländerinnen und Ausländer sowie zum Asylgesetz
 short: Verordnung zum Ausländerrecht
 language: de
-version: 2018-01-01
-valid_until: 2023-08-31
-version_adopted: 2017-05-31
+version: 2023-09-01
+version_adopted: 2023-06-30
 adopted: 2007-11-30
 in_force: 2008-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/113.21"
-pdf: "http://gdb.ow.ch/api/de/versions/1595/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1825/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1595/pdf_file"
 
 (Verordnung zum Ausländerrecht)
 
-vom 30.11.2007 (Stand 01.01.2018)
+vom 30.11.2007 (Stand 01.09.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -365,7 +364,7 @@ beschliesst:
 
 **Datenbearbeitung**
 
-<sup>1</sup> Die kantonalen und kommunalen Behörden können Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile von Ausländerinnen und Ausländern sowie von an Verfahren nach diesem Gesetz beteiligten Dritten, bearbeiten oder bearbeiten lassen, soweit sie diese Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+<sup>1</sup> Die kantonalen und kommunalen Behörden können Personendaten, einschliesslich besonders schützenswerter Daten von Ausländerinnen und Ausländern sowie von an Verfahren nach diesem Gesetz beteiligten Dritten, bearbeiten oder bearbeiten lassen, soweit sie diese Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
 
 ## 5. Übergangs- und Schlussbestimmungen
 
@@ -433,6 +432,8 @@ geändert durch
 
 \- Nachtrag vom 22. Oktober 2015, Botschaft und Antrag des Regierungsrats vom 11. August 2015, Kantonsratssitzung vom 22. Oktober 2015 (23.15.05), in Kraft seit 1. Januar 2016 (OGS 2015, 54),
 
-\- Nachtrag zum Bürgerrechtsgesetz vom 31. Mai 2017 (OGS 2017, 32), Botschaft und Vorlage des Regierungsrats vom 10. Januar 2017, Kantonsratssitzungen vom 24. März und 31. Mai 2017 (22.17.01), Berichtigung (Referendumsfrist) vom 14. Juni 2017 (OGS 2017, 37), in Kraft seit 1. Januar 2018
+\- Nachtrag zum Bürgerrechtsgesetz vom 31. Mai 2017 (OGS 2017, 32), Botschaft und Vorlage des Regierungsrats vom 10. Januar 2017, Kantonsratssitzungen vom 24. März und 31. Mai 2017 (22.17.01), Berichtigung (Referendumsfrist) vom 14. Juni 2017 (OGS 2017, 37), in Kraft seit 1. Januar 2018,
+
+\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
 
 OGS 2007, 81
