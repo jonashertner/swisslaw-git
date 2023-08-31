@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. März 2014 über Bauprodukte (Bauproduktegesetz, Ba
 short: BauPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/495"
 language: de
-version: 2014-10-01
+version: 2023-09-01
 adopted: 2014-03-21
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/495/20141001/de/xml/fedlex-data-admin-ch-eli-cc-2014-495-20141001-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/495/20141001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/495/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-495-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/495/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/495/20141001/de"
 
 (Bauproduktegesetz, BauPG)
 
-vom 21. März 2014 (Stand am 1. Oktober 2014)
+vom 21. März 2014 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95, 97 und 101 der Bundesverfassung[^ingress-1], nach 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2013 7467](https://fedlex.data.admin.ch/eli/fga/2013/1474)
 
 ## 1. Abschnitt: Zweck, Geltungsbereich und Begriffe
@@ -55,7 +55,7 @@ Die Bestimmungen des Bundesgesetzes vom 12. Juni 2009[^1-1] über die Produktesi
 - b. Bestandteile von Bauprodukten betroffen sind, deren Verwendung nicht spezifisch in Bauprodukten beabsichtigt ist; oder
 - c. der Bundesrat es vorsieht, um die Übereinstimmung mit Anpassungen des Rechts der EU zu gewährleisten.
 
-[^1-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-1]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 2
 
@@ -147,7 +147,7 @@ Massstab für die Beurteilung der Sicherheit sind:
 
 <sup>3</sup> Mit Bezug auf Absatz 2 Buchstabe b kann die Herstellerin zum Nachweis, dass die Sicherheitsanforderung erfüllt ist, eine Herstellererklärung erstellen. Dabei kann sie sich gegebenenfalls auf eine nach Artikel 12 Absatz 2 bezeichnete technische Norm stützen.
 
-[^4-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^4-1]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 5
 
@@ -184,7 +184,7 @@ Der Bundesrat kann für die anwendbaren Verfahren Vereinfachungen vorsehen:
 - b. zugunsten von Kleinstunternehmen;
 - c. für nicht in Serie gefertigte Bauprodukte.
 
-[^6-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^6-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 7
 
@@ -310,7 +310,7 @@ Der Bundesrat bestimmt:
 - c. wie die bezeichneten Stellen ihre Aufgaben zu erfüllen haben; und
 - d. wie die bezeichneten Stellen sich untereinander und mit den zuständigen europäischen Gremien koordinieren.
 
-[^15-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^15-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 16
 
@@ -348,7 +348,7 @@ Es gewährleistet durch seine Organisation und Arbeitsweise, dass:
 
 <sup>7</sup> Der Bundesrat bestimmt die Anforderungen an TBS und regelt das Verfahren der Benennung solcher Stellen.
 
-[^17-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^17-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 18
 
@@ -507,7 +507,7 @@ Das BBL bezeichnet im Einvernehmen mit dem SECO und nach Anhörung der Eidgenös
 
 <sup>4</sup> Wurde das Bauprodukt, das Gegenstand einer Massnahme ist, von einer bezeichneten oder gemäss des Abkommens vom 21. Juni 1999[^25-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die gegenseitige Anerkennung von Konformitätsbewertungen anerkannten Stelle bewertet, so unterrichtet das Marktüberwachungsorgan diese Stelle.
 
-[^25-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^25-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 ## 7. Abschnitt: Strafbestimmungen
 
@@ -523,7 +523,7 @@ Das BBL bezeichnet im Einvernehmen mit dem SECO und nach Anhörung der Eidgenös
 
 <sup>4</sup> Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen, den Gebrauch unechter oder unwahrer Bescheinigungen, das unberechtigte Ausstellen von Leistungserklärungen sowie das unberechtigte Anbringen und Verwenden von Konformitätszeichen im Sinne der Artikel 23–28 des Bundesgesetzes vom 6. Oktober 1995[^26-1] über die technischen Handelshemmisse gelten die dort genannten Strafandrohungen.
 
-[^26-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^26-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 27
 
@@ -541,7 +541,7 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>3</sup> Die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^27-1] über das Verwaltungsstrafrecht sind anwendbar.
 
-[^27-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^27-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 28
 
@@ -597,7 +597,7 @@ Das BBL führt zum Zweck der Marktüberwachung eine zentrale Vollzugsdatenbank. 
 - d. die administrativen und strafrechtlichen Verfolgungen und Sanktionen nach den Artikeln 20–23 sowie nach den Artikeln 26 und 27;
 - e. den internationalen Informationsaustausch und die Gewährung von Amtshilfe.
 
-<sup>2</sup> Die Marktüberwachungsorgane sind berechtigt, Personendaten einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen zu bearbeiten. Sie geben die entsprechenden Daten in die zentrale Vollzugsdatenbank zur Marktüberwachung ein. Dabei gelten die Bestimmungen über die Beschaffung von Personendaten nach Artikel 18 des Bundesgesetzes vom 19. Juni 1992[^32-1] über den Datenschutz.
+<sup>2</sup> Die Marktüberwachungsorgane sind berechtigt, Personendaten, einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen, zu bearbeiten. Sie geben die entsprechenden Daten in die zentrale Vollzugsdatenbank zur Marktüberwachung ein.[^32-1]
 
 <sup>3</sup> Das BBL koordiniert die Datenbearbeitung durch die Marktüberwachungsorgane und kontrolliert, ob die Daten vorschriftsgemäss bearbeitet werden. Es kann fehlerhafte Eingaben selbstständig berichtigen oder das betreffende Marktüberwachungsorgan zur Berichtigung auffordern.
 
@@ -605,8 +605,8 @@ Das BBL führt zum Zweck der Marktüberwachung eine zentrale Vollzugsdatenbank. 
 
 <sup>5</sup> Die Gewährung von Amtshilfe richtet sich nach den Artikeln 21 und 22 des Bundesgesetzes vom 6. Oktober 1995[^32-2] über die technischen Handelshemmnisse.
 
-[^32-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^32-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^32-1]: Fassung gemäss Anhang 1 Ziff. II 89 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32-2]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 33
 
@@ -655,7 +655,7 @@ Er kann das BBL auch beauftragen, nach Anhörung des SECO und der Eidgenössisch
 
 Das Bauproduktegesetz vom 8. Oktober 1999[^36-1] wird aufgehoben.
 
-[^36-1]: [[AS 2000 3104](https://fedlex.data.admin.ch/eli/oc/2000/565); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 52; [2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)Art. 20 Abs. 2 Ziff. 3 [2617](https://fedlex.data.admin.ch/eli/oc/2010/349)Anhang Ziff. 4]
+[^36-1]: [[AS 2000 3104](https://fedlex.data.admin.ch/eli/oc/2000/565); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 52; [2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)Art. 20 Abs. 2 Ziff. 3, [2617](https://fedlex.data.admin.ch/eli/oc/2010/349)Anhang Ziff. 4]
 
 #### Art. 37
 

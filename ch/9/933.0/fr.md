@@ -4,22 +4,22 @@ title: Loi fédérale du 21 mars 2014 sur les produits de construction (LPCo)
 short: LPCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/495"
 language: fr
-version: 2014-10-01
+version: 2023-09-01
 adopted: 2014-03-21
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/495/20141001/fr/xml/fedlex-data-admin-ch-eli-cc-2014-495-20141001-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/495/20141001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/495/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-495-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/495/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les produits de construction<sup>∗</sup>
+# Loi fédérale sur les produits de construction\*
 
 (LPCo)[^t-1]
 
-du 21 mars 2014 (État le 1<sup>er</sup> octobre 2014)
+du 21 mars 2014 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 95, 97 et 101 de la Constitution[^ingress-1], vu le message du Conse
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2013 6677](https://fedlex.data.admin.ch/eli/fga/2013/1474)
 
 ## Section 1 But, champ d’application et définitions
@@ -57,7 +57,7 @@ Les dispositions de la loi fédérale du 12 juin 2009 sur la sécurité des prod
 - b. les éléments de produits de construction ne sont pas spécifiquement destinés à être utilisés dans des produits de construction; ou
 - c. le Conseil fédéral prévoit leur application pour garantir la concordance avec les modifications apportées au droit de l’UE.
 
-[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 2
 
@@ -149,7 +149,7 @@ Les critères d’évaluation de la sécurité sont:
 
 <sup>3</sup> Pour certifier que l’exigence de sécurité visée à l’al. 2, let. b, est remplie, le fabricant peut établir une déclaration du fabricant. Le cas échéant, il peut se fonder sur une norme technique désignée en vertu de l’art. 12, al. 2.
 
-[^4-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^4-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 5
 
@@ -186,7 +186,7 @@ Le Conseil fédéral peut simplifier les procédures:
 - b. en faveur des microentreprises;
 - c. pour les produits de construction qui ne sont pas fabriqués en série.
 
-[^6-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^6-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 7
 
@@ -312,7 +312,7 @@ Le Conseil fédéral règle:
 - c. les modalités d’exécution des tâches incombant aux organismes désignés;
 - d. la coordination des organismes désignés et leur coordination avec les organismes européens compétents.
 
-[^15-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^15-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 16
 
@@ -342,7 +342,7 @@ L’organisation et les méthodes de travail de l’OFCL garantissent:
 
 <sup>3</sup> L’OFCL peut désigner par voie de décision d’autres OET établis en Suisse.
 
-4 Un organisme ne peut être désigné comme OET que s’il est accrédité. Il doit être membre de l’OOET.
+<sup>4</sup> Un organisme ne peut être désigné comme OET que s’il est accrédité. Il doit être membre de l’OOET.
 
 <sup>5</sup> Le SECO notifie les OET désignés selon les al. 2 et 3 sur la base de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^17-1].
 
@@ -350,7 +350,7 @@ L’organisation et les méthodes de travail de l’OFCL garantissent:
 
 <sup>7</sup> Le Conseil fédéral fixe les exigences auxquelles les OET doivent satisfaire et règle la procédure de désignation de ces organismes.
 
-[^17-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^17-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 18
 
@@ -509,7 +509,7 @@ En accord avec le SECO et après consultation de la Commission fédérale des pr
 
 <sup>4</sup> Lorsqu’un produit de construction qui fait l’objet d’une mesure a été évalué par un organisme désigné ou reconnu conformément à l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^25-1], l’organe de surveillance en informe cet organisme.
 
-[^25-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^25-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 ## Section 7 Dispositions pénales
 
@@ -525,7 +525,7 @@ En accord avec le SECO et après consultation de la Commission fédérale des pr
 
 <sup>4</sup> Le faux, la constatation fausse, l’obtention frauduleuse d’une constatation fausse, l’utilisation d’attestations fausses ou inexactes, l’établissement non autorisé de déclarations des performances de même que l’apposition et l’utilisation non autorisées de signes de conformité au sens des art. 23 à 28 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^26-1] sont réprimés selon ces mêmes articles.
 
-[^26-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^26-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 27
 
@@ -543,7 +543,7 @@ Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
 
 <sup>3</sup> Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^27-1] sont applicables.
 
-[^27-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^27-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 28
 
@@ -599,7 +599,7 @@ L’OFCL gère une banque de données centrale relative à l’exécution de la 
 - d. les poursuites et sanctions administratives et pénales visées aux art. 20 à 23, 26 et 27;
 - e. l’échange international de données et l’octroi de l’assistance administrative.
 
-<sup>2</sup> Les organes de surveillance sont habilités à traiter des données personnelles, y compris les données relatives aux poursuites et sanctions administratives ou pénales. Ils saisissent ces données dans la banque de données centrale relative à l’exécution de la surveillance du marché. Ils sont soumis aux dispositions relatives à la collecte de données personnelles au sens de l’art. 18 de la loi fédérale du 19 juin 1992 sur la protection des données[^32-1].
+<sup>2</sup> Les organes de surveillance sont habilités à traiter des données personnelles, y compris les données relatives aux poursuites et sanctions administratives ou pénales. Ils saisissent ces données dans la banque de données centrale relative à l’exécution de la surveillance du marché.[^32-1]
 
 <sup>3</sup> L’OFCL coordonne le traitement des données effectué par les organes de surveillance et vérifie qu’il est conforme aux prescriptions. Il peut rectifier les données erronées ou les faire rectifier par l’organe de surveillance concerné.
 
@@ -607,8 +607,8 @@ L’OFCL gère une banque de données centrale relative à l’exécution de la 
 
 <sup>5</sup> L’octroi de l’assistance administrative est régi par les art. 21 et 22 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^32-2].
 
-[^32-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^32-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^32-1]: Nouvelle teneur selon l’annexe 1 ch. II 89 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 33
 
@@ -657,7 +657,7 @@ Il peut également charger l’OFCL de désigner, après consultation du SECO et
 
 La loi fédérale du 8 octobre 1999 sur les produits de construction[^36-1] est abrogée.
 
-[^36-1]: [[RO 2000 3104](https://fedlex.data.admin.ch/eli/oc/2000/565); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 52; [2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)art. 20 al. 2 ch. 3 [2617](https://fedlex.data.admin.ch/eli/oc/2010/349)annexe ch. 4]
+[^36-1]: [[RO 2000 3104](https://fedlex.data.admin.ch/eli/oc/2000/565), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 52, [2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)art. 20 al. 2 ch. 3 [2617](https://fedlex.data.admin.ch/eli/oc/2010/349)annexe ch. 4]
 
 #### Art. 37
 

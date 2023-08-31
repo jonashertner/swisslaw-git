@@ -4,11 +4,11 @@ title: "Legge federale del 21 marzo 2014 concernente i prodotti da costruzione (
 short: LProdC
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/495"
 language: it
-version: 2014-10-01
+version: 2023-09-01
 adopted: 2014-03-21
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/495/20141001/it/xml/fedlex-data-admin-ch-eli-cc-2014-495-20141001-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/495/20141001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/495/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-495-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/495/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/495/20141001/it"
 
 (Legge sui prodotti da costruzione, LProdC)
 
-del 21 marzo 2014 (Stato 1° ottobre 2014)
+del 21 marzo 2014 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 95, 97 e 101 della Costituzione federale[^ingress-1]; visto i
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2013 6395](https://fedlex.data.admin.ch/eli/fga/2013/1474)
 
 ## Sezione 1: Scopo, campo d’applicazione e definizioni
@@ -55,7 +55,7 @@ Le disposizioni della legge federale del 12 giugno 2009[^1-1] sulla sicurezza de
 - b. entrano in considerazione elementi di prodotti da costruzione che non si intende utilizzare specificamente in prodotti da costruzione; oppure
 - c. il Consiglio federale prevede la loro applicazione per consentire l’armonizzazione con adeguamenti del diritto dell’UE.
 
-[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 2
 
@@ -112,7 +112,7 @@ Fatta salva l’ordinaria manutenzione, le opere di costruzione devono soddisfar
 
 - a. resistenza meccanica e stabilità;
 - b. sicurezza in caso d’incendio;
-- c. igiene, salute e protezione dell’ambiente;
+- c. igiene, salute e protezione dell'ambiente;
 - d. sicurezza nell’uso e accessibilità;
 - e. protezione contro il rumore;
 - f. risparmio energetico e ritenzione del calore;
@@ -147,7 +147,7 @@ I criteri per valutare la sicurezza sono:
 
 <sup>3</sup> In riferimento al capoverso 2 lettera b, per certificare che il requisito di sicurezza è soddisfatto, un fabbricante può redigere una dichiarazione del fabbricante. Se del caso, può fondarsi su una norma tecnica designata in virtù dell’articolo 12 capoverso 2.
 
-[^4-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^4-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 5
 
@@ -184,7 +184,7 @@ Il Consiglio federale può semplificare le procedure applicabili:
 - b. a favore delle microimprese;
 - c. per i prodotti da costruzione che non sono fabbricati in serie.
 
-[^6-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^6-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 7
 
@@ -219,7 +219,7 @@ Il Consiglio federale può definire:
 
 **Presunzione di conformità e inversione dell’onere della prova**
 
-Se un prodotto da costruzione è conforme alla presente legge e alle sue disposizioni d’esecuzione per quanto riguarda i rischi che comporta, si presume che rispetti l’obbligo generale di sicurezza secondo l’articolo 4.
+Se un prodotto da costruzione è conforme alla presente legge e alle sue disposizioni d’esecuzione per quanto riguarda i rischi che comporta, si presume che rispetti l'obbligo generale di sicurezza secondo l’articolo 4.
 
 ## Sezione 3: Prescrizioni per gli operatori economici
 
@@ -310,7 +310,7 @@ Il Consiglio federale definisce:
 - c. le modalità d’esecuzione dei compiti che incombono agli organismi designati; e
 - d. il coordinamento degli organismi designati e il loro coordinamento con i competenti organismi europei.
 
-[^15-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^15-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 16
 
@@ -348,7 +348,7 @@ L’UFCL è organizzato e gestito in modo da:
 
 <sup>7</sup> Il Consiglio federale definisce i requisiti che gli organismi di valutazione tecnica devono soddisfare e disciplina la procedura di nomina di tali organismi.
 
-[^17-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^17-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 18
 
@@ -507,7 +507,7 @@ D’intesa con la SECO e previa consultazione della Commissione federale dei pro
 
 <sup>4</sup> Se un prodotto da costruzione oggetto di una misura è stato valutato da un organismo designato e riconosciuto secondo l’Accordo del 21 giugno 1999[^25-1] tra la Confederazione Svizzera e la Comunità europea sul reciproco riconoscimento in materia di valutazione della conformità, l’organo di vigilanza del mercato informa tale organismo.
 
-[^25-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^25-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 ## Sezione 7: Disposizioni penali
 
@@ -523,7 +523,7 @@ D’intesa con la SECO e previa consultazione della Commissione federale dei pro
 
 <sup>4</sup> Per falsificazioni, false attestazioni, conseguimento fraudolento di false attestazioni, uso di attestazioni false o inesatte, rilascio non autorizzato di dichiarazioni di prestazione, applicazione e uso non autorizzato di marchi di conformità ai sensi degli articoli 23–28 della legge federale del 6 ottobre 1995[^26-1] sugli ostacoli tecnici al commercio sono applicabili le pene ivi menzionate.
 
-[^26-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^26-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 27
 
@@ -541,7 +541,7 @@ D’intesa con la SECO e previa consultazione della Commissione federale dei pro
 
 <sup>3</sup> Gli articoli 6 e 7 della legge federale del 22 marzo 1974[^27-1] sul diritto penale amministrativo sono applicabili.
 
-[^27-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^27-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 28
 
@@ -561,7 +561,7 @@ Il perseguimento penale incombe ai Cantoni.
 
 <sup>3</sup> L’UFCL è l’organo centrale di vigilanza del mercato.
 
-<sup>4</sup> Il Consiglio federale può conferire compiti di vigilanza del mercato ai Cantoni e a organizzazioni qualificate. L’UFCL coordina e sorveglia l’esecuzione di tali compiti.
+<sup>4</sup> Il Consiglio federale può conferire compiti di vigilanza del mercato ai Cantoni e a organizzazioni qualificate. L’UFCL coordina e sorveglia l'esecuzione di tali compiti.
 
 <sup>5</sup> L’UFCL coordina l’esecuzione della vigilanza del mercato con altri organismi attivi nel campo della sicurezza dei prodotti. Questo compito comprende anche la loro partecipazione a sistemi d’informazione e di esecuzione internazionali secondo i relativi atti legislativi federali.
 
@@ -597,7 +597,7 @@ L’UFCL tiene ai fini della vigilanza del mercato una banca dati centrale d’e
 - d. i perseguimenti e le sanzioni di natura amministrativa e penale secondo gli articoli 20–23, 26 e 27;
 - e. lo scambio d’informazioni a livello internazionale e la concessione dell’assistenza amministrativa.
 
-<sup>2</sup> Gli organi di vigilanza del mercato sono autorizzati a trattare dati personali, compresi quelli concernenti perseguimenti e sanzioni di natura amministrativa e penale. Forniscono i relativi dati alla banca dati centrale d’esecuzione della vigilanza del mercato. Al riguardo si applicano le disposizioni concernenti la raccolta di dati personali di cui all’articolo 18 della legge federale del 19 giugno 1992[^32-1] sulla protezione dei dati.
+<sup>2</sup> Gli organi di vigilanza del mercato sono autorizzati a trattare dati personali, compresi quelli concernenti perseguimenti e sanzioni di natura amministrativa e penale. Forniscono i relativi dati alla banca dati centrale d’esecuzione della vigilanza del mercato.[^32-1]
 
 <sup>3</sup> L’UFCL coordina il trattamento dei dati da parte degli organi di vigilanza del mercato e controlla se i dati sono trattati conformemente alle prescrizioni. Può rettificare da sé dati sbagliati oppure chiedere all’organo di vigilanza interessato di provvedere alla rettificazione.
 
@@ -605,8 +605,8 @@ L’UFCL tiene ai fini della vigilanza del mercato una banca dati centrale d’e
 
 <sup>5</sup> L’assistenza amministrativa è retta dagli articoli 21 e 22 legge federale del 6 ottobre 1995[^32-2] sugli ostacoli tecnici al commercio (LOTC).
 
-[^32-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^32-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^32-1]: Nuovo testo giusta l’all. 1 n. II 89 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 33
 
@@ -655,7 +655,7 @@ Previa consultazione della SECO e della Commissione federale dei prodotti da cos
 
 La legge federale dell’8 ottobre 1999[^36-1] concernente i prodotti da costruzione è abrogata.
 
-[^36-1]: [[RU 2000 3104](https://fedlex.data.admin.ch/eli/oc/2000/565), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 52, [2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)art. 20 cpv. 2 n. 3 [2617](https://fedlex.data.admin.ch/eli/oc/2010/349)all. n. 4]
+[^36-1]: [[RU 2000 3104](https://fedlex.data.admin.ch/eli/oc/2000/565); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 52; [2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)art. 20 cpv. 2 n. 3, [2617](https://fedlex.data.admin.ch/eli/oc/2010/349)all. n. 4]
 
 #### Art. 37
 
@@ -679,4 +679,4 @@ La legge federale dell’8 ottobre 1999[^36-1] concernente i prodotti da costruz
 
 Data dell’entrata in vigore: 1° ottobre 2014[^38-1]
 
-[^38-1]: DF del 28 ago. 2014.
+[^38-1]: DCF del 28 ago. 2014.
