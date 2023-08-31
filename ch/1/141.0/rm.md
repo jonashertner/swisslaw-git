@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 2014 davart l'acquist e la perdita 
 short: LDB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/404"
 language: rm
-version: 2019-07-09
+version: 2023-09-01
 adopted: 2014-06-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20190709/rm/xml/fedlex-data-admin-ch-eli-cc-2016-404-20190709-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20190709/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2016-404-20230901-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il dretg da burgais, LDB)
 
-dals 20 da zercladur 2014 (versiun dals 9 da fanadur 2019)
+dals 20 da zercladur 2014 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -533,11 +533,12 @@ Cun il consentiment da l’autoritad dal chantun d’origin po il SEM retrair il
 
 #### Art. 44
 
-**Elavuraziun da datas**
+**Elavuraziun da datas**[^44-1]
 
-Per ademplir sias incumbensas tenor questa lescha po il SEM elavurar datas persunalas, inclusiv ils profils da persunalitad e las datas spezialmain sensiblas davart las opiniuns religiusas, davart las activitads politicas, davart la sanadad, davart mesiras da l’agid social e davart persecuziuns e sancziuns administrativas u penalas. Per quest intent maina el in sistem d’infurmaziun electronic sin basa da la Lescha federala dals 20 da zercladur 2003[^44-1] davart il sistem d’infurmaziun per il sectur da las persunas estras e da l’asil.
+Per ademplir sias incumbensas tenor questa lescha po il SEM elavurar datas persunalas, inclusiv las datas che permettan da giuditgar las premissas da qualificaziun dal petent sco er las datas spezialmain sensiblas davart las opiniuns religiusas, davart las activitads politicas, davart la sanadad, davart mesiras da l’agid social e davart persecuziuns e sancziuns administrativas u penalas. Per quest intent maina el in sistem d’infurmaziun electronic sin basa da la Lescha federala dals 20 da zercladur 2003[^44-2] davart il sistem d’infurmaziun per il sectur da las persunas estras e da l’asil.
 
-[^44-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^44-1]: Versiun tenor la cifra II 3 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^44-2]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 
 #### Art. 45
 
@@ -648,5 +649,5 @@ Las leschas federalas qua sutvart vegnan midadas sco suonda:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1952 1087](https://fedlex.data.admin.ch/eli/oc/1952/1087_1115_1119), [1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)cifra II 2, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II 2, [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420), [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034), [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra IV 1, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)agiunta cifra II 1, [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723)[5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 2, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II 2 [5911](https://fedlex.data.admin.ch/eli/oc/2008/816), [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56)[725](https://fedlex.data.admin.ch/eli/oc/2011/114)agiunta cifra 1, [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)cifra II 1]
+[^annexu1-lvlu1-1]: [[AS 1952 1087](https://fedlex.data.admin.ch/eli/oc/1952/1087_1115_1119); [1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)cifra II 2; [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II 2; [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420); [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034); [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra IV 1; [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)agiunta cifra II 1; [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723), [5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 2; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II 2, [5911](https://fedlex.data.admin.ch/eli/oc/2008/816); [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56), [725](https://fedlex.data.admin.ch/eli/oc/2011/114)agiunta cifra 1; [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)cifra II 1]
 [^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404).

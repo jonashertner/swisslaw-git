@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2014 sulla cittadinanza svizzera (Legge sul
 short: LCit
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/404"
 language: it
-version: 2019-07-09
+version: 2023-09-01
 adopted: 2014-06-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20190709/it/xml/fedlex-data-admin-ch-eli-cc-2016-404-20190709-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20190709/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-404-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20190709/it"
 
 (Legge sulla cittadinanza, LCit)
 
-del 20 giugno 2014 (Stato 9 luglio 2019)
+del 20 giugno 2014 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -315,8 +315,7 @@ Il figlio di genitori stranieri può, su domanda, ottenere la naturalizzazione a
 
 - a. almeno uno dei nonni è nato in Svizzera o si può rendere verosimile che ha acquisito un diritto di dimora in Svizzera;
 - b. almeno uno dei genitori ha acquisito un permesso di domicilio, ha soggiornato in Svizzera per almeno dieci anni e ha frequentato la scuola dell’obbligo in Svizzera per almeno cinque anni;
-  - c. è nato in Svizzera;
-
+- c. è nato in Svizzera;
 - d. è titolare di un permesso di domicilio e ha frequentato la scuola dell’obbligo in Svizzera per almeno cinque anni.
 
 <sup>2</sup> La domanda deve essere presentata prima del compimento del venticinquesimo anno d’età.
@@ -530,11 +529,12 @@ La SEM può, con il consenso dell’autorità del Cantone d’origine, revocare 
 
 #### Art. 44
 
-**Trattamento dei dati**
+**Trattamento dei dati**[^44-1]
 
-Per adempiere i suoi compiti conformemente alla presente legge, la SEM può trattare dati personali, compresi profili della personalità e dati degni di particolare protezione relativi alle opinioni religiose, alle attività politiche, alla salute, a misure di assistenza sociale e a perseguimenti e sanzioni amministrativi e penali. A tale scopo gestisce un sistema d’informazione elettronico in virtù della legge federale del 20 giugno 2003[^44-1] sul sistema d’informazione per il settore degli stranieri e dell’asilo.
+Per adempiere i suoi compiti conformemente alla presente legge, la SEM può trattare dati personali, compresi i dati che permettono di stabilire se sono adempiute le condizioni d’idoneità del richiedente, e dati personali degni di particolare protezione relativi alle opinioni religiose, alle attività politiche, alla salute, a misure di assistenza sociale e a perseguimenti e sanzioni amministrativi e penali. A tale scopo gestisce un sistema d’informazione elettronico in virtù della legge federale del 20 giugno 2003[^44-2] sul sistema d’informazione per il settore degli stranieri e dell’asilo.
 
-[^44-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^44-1]: Nuovo testo giusta l’all. 1 n. II 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^44-2]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 
 #### Art. 45
 
@@ -645,5 +645,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [RU **1952** 1115, [1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/3038_3092_2873)n. II 2, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 2, [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420), [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034), [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 1, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II 1, [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723)[5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 2, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 2 [5911](https://fedlex.data.admin.ch/eli/oc/2008/816), [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56)[725](https://fedlex.data.admin.ch/eli/oc/2011/114)all. n. 1, [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)n. II 1]
+[^annexu1-lvlu1-1]: [RU **1952** 1115; [1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/3038_3092_2873)n. II 2; [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 2; [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420); [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034); [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 1; [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II 1; [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723), [5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 2; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 2, [5911](https://fedlex.data.admin.ch/eli/oc/2008/816); [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56), [725](https://fedlex.data.admin.ch/eli/oc/2011/114)all. n. 1; [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)n. II 1]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404).

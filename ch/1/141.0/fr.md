@@ -4,11 +4,11 @@ title: Loi du 20 juin 2014 sur la nationalité suisse (LN)
 short: LN
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/404"
 language: fr
-version: 2019-07-09
+version: 2023-09-01
 adopted: 2014-06-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20190709/fr/xml/fedlex-data-admin-ch-eli-cc-2016-404-20190709-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20190709/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-404-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20190709/fr"
 
 (LN)
 
-du 20 juin 2014 (Etat le 9 juillet 2019)
+du 20 juin 2014 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -178,7 +178,7 @@ Une intégration réussie se manifeste en particulier par:
 
 <sup>1</sup> Le canton désigne l’autorité à laquelle la demande de naturalisation doit être adressée.
 
-<sup>2</sup> Lorsque le canton et, si le droit cantonal le prévoit, la commune peuvent rendre un préavis favorable quant à l’octroi du droit de cité, ils transmettent la demande de naturalisation au terme de l’examen cantonal au Secrétariat d’Etat aux migrations (SEM).
+<sup>2</sup> Lorsque le canton et, si le droit cantonal le prévoit, la commune peuvent rendre un préavis favorable quant à l’octroi du droit de cité, ils transmettent la demande de naturalisation au terme de l’examen cantonal au Secrétariat d’État aux migrations (SEM).
 
 <sup>3</sup> Si les conditions formelles et matérielles sont remplies, le SEM accorde l’autorisation fédérale de naturalisation et la transmet à l’autorité cantonale, qui rend la décision de naturalisation.
 
@@ -307,7 +307,7 @@ Une personne de nationalité étrangère peut également déposer une demande de
 
 #### Art. 24a
 
-**Etrangers de la troisième génération**[^24a-1]
+**Étrangers de la troisième génération**[^24a-1]
 
 <sup>1</sup>
 
@@ -424,7 +424,7 @@ Est pris en compte lors du calcul de la durée du séjour en Suisse tout séjour
 
 #### Art. 35
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> Les autorités fédérales, cantonales et communales peuvent percevoir des émoluments pour les procédures de naturalisation, de réintégration ou d’annulation de la naturalisation ou de la réintégration.
 
@@ -497,7 +497,7 @@ Les enfants mineurs sont compris dans la libération aux conditions suivantes:
 
 #### Art. 40
 
-**Emoluments**
+**Émoluments**
 
 Les cantons peuvent percevoir un émolument couvrant les frais d’examen d’une demande de libération.
 
@@ -529,11 +529,12 @@ Le SEM peut, avec l’assentiment de l’autorité du canton d’origine, retire
 
 #### Art. 44
 
-**Traitement des données**
+**Traitement des données**[^44-1]
 
-Pour accomplir les tâches qui lui incombent de par la présente loi, le SEM peut traiter des données personnelles, y compris des profils de la personnalité et des données sensibles sur les opinions religieuses, les activités politiques, la santé, les mesures d’aide sociale et les poursuites ou sanctions pénales et administratives. Pour ce faire, il exploite un système d’information électronique conformément à la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^44-1].
+Pour accomplir les tâches qui lui incombent de par la présente loi, le SEM peut traiter des données personnelles, y compris des données personnelles permettant d’évaluer les conditions d’aptitude du requérant ainsi que des données sensibles sur les opinions religieuses, les activités politiques, la santé, les mesures d’aide sociale et les poursuites ou sanctions pénales et administratives. Pour ce faire, il exploite un système d’information électronique conformément à la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^44-2].
 
-[^44-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^44-1]: Nouvelle teneur selon l’annexe 1 ch. II 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^44-2]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 
 #### Art. 45
 
@@ -644,5 +645,5 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 1952 1115](https://fedlex.data.admin.ch/eli/oc/1952/1087_1115_1119), [1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)ch. II 2, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 2, [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420), [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034), [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 1, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 1, [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723)[5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 2, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 2 [5911](https://fedlex.data.admin.ch/eli/oc/2008/816), [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56)[725](https://fedlex.data.admin.ch/eli/oc/2011/114)annexe ch. 1, [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)ch. II 1]
+[^annexu1-lvlu1-1]: [[RO 1952 1115](https://fedlex.data.admin.ch/eli/oc/1952/1087_1115_1119); [1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)ch. II 2; [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 2; [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420); [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034); [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 1; [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 1; [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723), [5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 2; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 2, [5911](https://fedlex.data.admin.ch/eli/oc/2008/816); [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56), [725](https://fedlex.data.admin.ch/eli/oc/2011/114)annexe ch. 1, [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)ch. II 1]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404).

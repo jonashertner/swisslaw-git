@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 2014 on Swiss Citizenship (Swiss Citizenship Act,
 short: SCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/404"
 language: en
-version: 2019-07-09
+version: 2023-09-01
 adopted: 2014-06-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20190709/en/xml/fedlex-data-admin-ch-eli-cc-2016-404-20190709-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20190709/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2016-404-20230901-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Swiss Citizenship Act, SCA)
 
-of 20 June 2014 (Status as of 9 July 2019)
+of 20 June 2014 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -533,11 +533,12 @@ The SEM may, with consent of the authority in the canton of origin, revoke the S
 
 #### Art. 44
 
-**Data processing**
+**Data processing**[^44-1]
 
-In order to fulfil its duties under this Act, the SEM may process personal data, including personality profiles and particularly sensitive data on religious beliefs, political activities, health, social assistance measures and administrative or criminal proceedings and penalties. It shall maintain an electronic information system for this purpose in accordance with the Federal Act of 20 June 2003[^44-1] on the Information System for Foreign Nationals and Asylum Matters.
+In order to fulfil its duties under this Act, the SEM may process personal data, including data that permits an assessment of whether the applicant meets the personal requirements, and particularly sensitive data on religious beliefs, political activities, health, social assistance measures and administrative or criminal proceedings and penalties. It shall maintain an electronic information system for this purpose in accordance with the Federal Act of 20 June 2003[^44-2] on the Information System for Foreign Nationals and Asylum Matters.
 
-[^44-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^44-1]: Amended by Annex 1 No II 3 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^44-2]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 
 #### Art. 45
 
@@ -648,5 +649,5 @@ The following federal acts are amended as follows:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1952 1087](https://fedlex.data.admin.ch/eli/oc/1952/1087_1115_1119), [1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)No II 2, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)No II 2, [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420), [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034), [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No IV 1, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Annex No II 1, [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723)[5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 2, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 2 [5911](https://fedlex.data.admin.ch/eli/oc/2008/816), [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56)[725](https://fedlex.data.admin.ch/eli/oc/2011/114)Annex No 1, [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)No II 1]
+[^annexu1-lvlu1-1]: [[AS 1952 1087](https://fedlex.data.admin.ch/eli/oc/1952/1087_1115_1119); [1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)No II 2; [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)No II 2; [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420); [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034); [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No IV 1; [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Annex No II 1; [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723), [5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 2; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 2, [5911](https://fedlex.data.admin.ch/eli/oc/2008/816); [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56), [725](https://fedlex.data.admin.ch/eli/oc/2011/114)Annex No 1; [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)No II 1]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404).

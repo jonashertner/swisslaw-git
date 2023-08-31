@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2014 über das Schweizer Bürgerrecht (Bürger
 short: BüG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/404"
 language: de
-version: 2019-07-09
+version: 2023-09-01
 adopted: 2014-06-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20190709/de/xml/fedlex-data-admin-ch-eli-cc-2016-404-20190709-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20190709/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/404/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-404-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/404/20190709/de"
 
 (Bürgerrechtsgesetz, BüG)
 
-vom 20. Juni 2014 (Stand am 9. Juli 2019)
+vom 20. Juni 2014 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -531,11 +531,12 @@ Das SEM kann mit Zustimmung der Behörde des Heimatkantons einer Doppelbürgerin
 
 #### Art. 44
 
-**Datenbearbeitung**
+**Datenbearbeitung**[^44-1]
 
-Das SEM kann zur Erfüllung seiner Aufgaben nach diesem Gesetz Personendaten bearbeiten, einschliesslich der Persönlichkeitsprofile und der besonders schützenswerten Daten über die religiösen Ansichten, die politischen Tätigkeiten, die Gesundheit, über Massnahmen der sozialen Hilfe und über administrative oder strafrechtliche Verfolgungen und Sanktionen. Dazu betreibt es ein elektronisches Informationssystem gestützt auf das Bundesgesetz vom 20. Juni 2003[^44-1] über das Informationssystem für den Ausländer- und den Asylbereich.
+Das SEM kann zur Erfüllung seiner Aufgaben nach diesem Gesetz Personendaten bearbeiten, einschliesslich der Daten, welche die Beurteilung der Eignungsvoraussetzungen der Bewerberin oder des Bewerbers erlauben, und der besonders schützenswerten Daten über die religiösen Ansichten, die politischen Tätigkeiten, die Gesundheit, über Massnahmen der sozialen Hilfe und über verwaltungs- oder strafrechtliche Verfolgungen und Sanktionen. Dazu betreibt es ein elektronisches Informationssystem gestützt auf das Bundesgesetz vom 20. Juni 2003[^44-2] über das Informationssystem für den Ausländer- und den Asylbereich.
 
-[^44-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^44-1]: Fassung gemäss Anhang 1 Ziff. II 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^44-2]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 
 #### Art. 45
 
@@ -646,5 +647,5 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1952 1087](https://fedlex.data.admin.ch/eli/oc/1952/1087_1115_1119), [1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)Ziff. II 2, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 2, [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420), [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034), [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 1, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 1, [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723)[5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 2, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 2 [5911](https://fedlex.data.admin.ch/eli/oc/2008/816), [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56)[725](https://fedlex.data.admin.ch/eli/oc/2011/114)Anhang Ziff. 1, [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)Ziff. II 1]
+[^annexu1-lvlu1-1]: [[AS 1952 1087](https://fedlex.data.admin.ch/eli/oc/1952/1087_1115_1119); [1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)Ziff. II 2; [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 2; [1985 420](https://fedlex.data.admin.ch/eli/oc/1985/420_420_420); [1991 1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034); [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 1; [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 1; [2005 5233](https://fedlex.data.admin.ch/eli/oc/2005/723), [5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 2; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 2, [5911](https://fedlex.data.admin.ch/eli/oc/2008/816); [2011 347](https://fedlex.data.admin.ch/eli/oc/2011/56), [725](https://fedlex.data.admin.ch/eli/oc/2011/114)Anhang Ziff. 1; [2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)Ziff. II 1]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404)konsultiert werden.
