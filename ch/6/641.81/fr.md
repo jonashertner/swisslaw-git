@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 décembre 1997 concernant une redevance sur le traf
 short: LRPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-24-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2000-24-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20220101/fr"
 
 (Loi relative à une redevance sur le trafic des poids lourds, LRPL)
 
-du 19 décembre 1997 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 décembre 1997 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -155,6 +155,11 @@ Pour l’introduction de la redevance et l’adaptation des tarifs, le Conseil f
 <sup>2</sup> Le Conseil fédéral peut prescrire le montage d’appareils ou le recours à d’autres instruments permettant une saisie infaillible du kilométrage. Dans la mesure du possible, les appareils installés doivent être compatibles avec les équipements prescrits par l’UE.
 
 <sup>3</sup> En l’absence d’indications fiables ou de pièces comptables, les assujettis peuvent être taxés d’office.
+
+<sup>4</sup> La taxation d’office peut intervenir sous la forme d’une décision individuelle automatisée selon l’art. 21 de la loi fédérale du 25 septembre 2020 sur la protection des données[^11-1].[^11-2]
+
+[^11-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11-2]: Introduit par l’annexe 1 ch. II 53 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 

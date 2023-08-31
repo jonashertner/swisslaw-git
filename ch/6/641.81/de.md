@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Dezember 1997 über eine leistungsabhängige Schwer
 short: SVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20220101/de"
 
 (Schwerverkehrsabgabegesetz, SVAG)
 
-vom 19. Dezember 1997 (Stand am 1. Januar 2022)
+vom 19. Dezember 1997 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ nach Einsicht in die Botschaft des Bundesrates vom 11. September 1996[^ingress-3
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1971 905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905), [1994 1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)[1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101), [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)]. Den genannten Bestimmungen entsprechen heute die Art. 74, 84, 85 und 196 Ziff. 3 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3; [AS 1971 905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905); [1994 1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096), [1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)]. Den genannten Bestimmungen entsprechen heute die Art. 74, 84, 85 und 196 Ziff. 3 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^ingress-2]: Fassung gemäss Art. 6 Ziff. 1 des Verkehrsverlagerungsgesetzes vom 8. Okt. 1999, in Kraft seit 1. Jan. 2001 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^ingress-3]: [BBl 1996 V 521](https://fedlex.data.admin.ch/eli/fga/1996/5_521_505_407)
 
@@ -157,6 +157,11 @@ Bei der Einführung der Abgabe und den Erhöhungen des Tarifs berücksichtigt de
 <sup>2</sup> Der Bundesrat kann den Einbau spezieller Geräte oder andere Hilfsmittel zur fälschungssicheren Erfassung der Fahrleistung vorschreiben. Die einzubauenden Geräte sollen nach Möglichkeit mit in der EU vorgeschriebenen Geräten interoperabel sein.
 
 <sup>3</sup> Fehlen taugliche Angaben oder Unterlagen, so kann die Abgabe nach Ermessen veranlagt werden.
+
+<sup>4</sup> Die Festsetzung der Abgabe kann als automatisierte Einzelentscheidung nach Artikel 21 des Datenschutzgesetzes vom 25. September 2020[^11-1] erfolgen.[^11-2]
+
+[^11-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11-2]: Eingefügt durch Anhang 1 Ziff. II 53 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -331,8 +336,8 @@ Widerhandlungen werden nach dem Bundesgesetz vom 22. März 1974[^22-2] über das
 
 <sup>2</sup> Die Schwerverkehrsabgabe-Verordnung vom 26. Oktober 1994[^24-2] wird mit dem Inkrafttreten des Gesetzes aufgehoben.
 
-[^24-1]: [[AS 1994 1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099), [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)]. Siehe heute Art. 196 Ziff. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^24-2]: [[AS 1994 2509](https://fedlex.data.admin.ch/eli/oc/1994/2509_2509_2509), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 12, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 19, [1999 1750](https://fedlex.data.admin.ch/eli/oc/1999/277)[3585](https://fedlex.data.admin.ch/eli/oc/1999/510)]
+[^24-1]: [[AS 1994 1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)]. Siehe heute Art. 196 Ziff. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^24-2]: [[AS 1994 2509](https://fedlex.data.admin.ch/eli/oc/1994/2509_2509_2509); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 12; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 19; [1999 1750](https://fedlex.data.admin.ch/eli/oc/1999/277), [3585](https://fedlex.data.admin.ch/eli/oc/1999/510)]
 
 #### Art. 25
 
