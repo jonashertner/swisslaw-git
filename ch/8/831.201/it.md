@@ -4,11 +4,11 @@ title: "Ordinanza del 17 gennaio 1961 sull'assicurazione per l'invalidità (OAI)
 short: OAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: it
-version: 2023-02-07
+version: 2023-09-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230207/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230207-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230207/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230207/it"
 
 (OAI)[^t-1]
 
-del 17 gennaio 1961 (Stato 7 febbraio 2023)
+del 17 gennaio 1961 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo tit. giusta il n. II 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Giusta detta disp., i titoli marginali sono accentrati.
 
@@ -2515,7 +2515,7 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>4</sup> L’ufficio AI determina per quali fatture è necessario un esame più approfondito.
 
-[^79quater-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^79quater-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). La mod. giusta l’all. 2 n. II 118 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023, concerne soltanto il testo francese ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^79quater-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^79quater-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
