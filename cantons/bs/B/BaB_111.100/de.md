@@ -3,13 +3,13 @@ canton: BS
 number: BaB 111.100
 title: Gemeindeordnung der Bürgergemeinde der Stadt Basel
 language: de
-version: 2019-12-01
-valid_until: 2023-08-31
-version_adopted: 2019-06-18
+version: 2023-09-01
+valid_until: 2025-12-31
+version_adopted: 2023-03-21
 adopted: 1985-10-22
 in_force: 1984-10-17
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20111.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4860/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5981/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4860/pdf_file"
 
 Gemeindeordnung | Basel: Bürgergemeinde[^t-1]
 
-Vom 22. Oktober 1985 (Stand 1. Dezember 2019)
+Vom 22. Oktober 1985 (Stand 1. September 2023)
 
 Der Weitere Bürgerrat der Stadt Basel erlässt
 
@@ -347,7 +347,7 @@ folgende Gemeindeordnung:
 
 - 1\. Kommission Bürgerspital 7 Mitglieder;
 - 2\. …
-- 3\. Kommission Waisenhaus 5 Mitglieder.
+- 3\. Kommission Waisenhaus 7 Mitglieder.
 
 #### § 12f
 
