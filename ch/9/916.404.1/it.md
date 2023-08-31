@@ -4,11 +4,11 @@ title: Ordinanza del 3 novembre 2021 concernente Identitas AG e la banca dati su
 short: OIBDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/it"
 
 (OIBDTA)
 
-del 3 novembre 2021 (Stato 1° gennaio 2023)
+del 3 novembre 2021 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -119,7 +119,9 @@ Svolge inoltre i seguenti compiti:
 
 <sup>3</sup> Se cessa di svolgere un compito, Identitas AG consegna alla Confederazione il software corrispondente e la rispettiva documentazione.
 
-<sup>4</sup> La Confederazione è proprietaria delle raccolte di dati generate dallo svolgimento dei compiti di cui all’articolo 3.
+<sup>4</sup> La Confederazione è responsabile delle raccolte di dati generate dallo svolgimento dei compiti di cui all’articolo 3.[^4-1]
+
+[^4-1]: Nuovo testo giusta l’all. 2 n. II 128 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 

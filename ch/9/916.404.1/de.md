@@ -4,11 +4,11 @@ title: Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkeh
 short: IdTVD-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/de"
 
 (IdTVD-V)
 
-vom 3. November 2021 (Stand am 1. Januar 2023)
+vom 3. November 2021 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -111,7 +111,7 @@ Sie erbringt zudem die folgenden Aufgaben:
 
 #### Art. 4
 
-**Hardware, Software, Datensammlungen**
+**Hardware, Software, Datenbestände[^4-1]**
 
 <sup>1</sup> Die Identitas AG ist Eigentümerin der Infrastruktur, inklusive Hardware und Software, zur Erbringung ihrer Aufgaben nach Artikel 3. Vorbehalten bleibt Absatz 2.
 
@@ -119,7 +119,10 @@ Sie erbringt zudem die folgenden Aufgaben:
 
 <sup>3</sup> Führt die Identitas AG eine Aufgabe nicht mehr aus, so muss sie die entsprechende Software sowie die dazugehörige Dokumentation dem Bund übertragen.
 
-<sup>4</sup> Der Bund ist Eigentümer der Datensammlungen, die durch die Ausübung der Aufgaben nach Artikel 3 entstehen.
+<sup>4</sup> Der Bund ist Verantwortlicher der Datenbestände, die durch die Ausübung der Aufgaben nach Artikel 3 entstehen.[^4-2]
+
+[^4-1]: Fassung gemäss Anhang 2 Ziff. II 128 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^4-2]: Fassung gemäss Anhang 2 Ziff. II 128 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 

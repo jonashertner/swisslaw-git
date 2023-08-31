@@ -4,11 +4,11 @@ title: Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de
 short: OId-BDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/fr"
 
 (OId-BDTA)
 
-du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2023)
+du 3 novembre 2021 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
-## 1 Dispositions générales
+## Chapitre 1 Dispositions générales
 
 #### Art. 1
 
@@ -109,7 +109,7 @@ En outre, elle accomplit les tâches suivantes:
 
 #### Art. 4
 
-**Matériel informatique, logiciel, fichiers**
+**Matériel informatique, logiciel, ensembles de données[^4-1]**
 
 <sup>1</sup> Identitas SA est propriétaire de l’infrastructure nécessaire à l’accomplissement de ses tâches selon l’art. 3, y compris le matériel informatique et le logiciel. L’al. 2 demeure réservé.
 
@@ -117,7 +117,10 @@ En outre, elle accomplit les tâches suivantes:
 
 <sup>3</sup> Si Identitas SA n’accomplit plus une tâche, elle devra transmettre à la Confédération le logiciel correspondant et la documentation qui s’y rapporte.
 
-<sup>4</sup> La Confédération est propriétaire des fichiers qui sont établis lors de l’accomplissement des tâches visées à l’art. 3.
+<sup>4</sup> La Confédération est responsable des ensembles de données qui sont établis lors de l’accomplissement des tâches visées à l’art. 3.[^4-2]
+
+[^4-1]: Nouvelle teneur selon l’annexe 2 ch. II 128 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^4-2]: Nouvelle teneur selon l’annexe 2 ch. II 128 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
