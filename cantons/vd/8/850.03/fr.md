@@ -4,7 +4,7 @@ number: "850.03"
 title: "LOI du 09.11.2010 sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises (LHPS)"
 short: LHPS
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03?id=db1ccfb7-873f-4a81-8cd5-fbabe8fe816c"
 ---
 
@@ -179,7 +179,14 @@ décrète
 
 <sup>1</sup> Les autorités chargées du traitement des demandes et de l'attribution des prestations énumérées à l'article 2 échangent, par l'intermédiaire de la base centralisée des données, les données mentionnées à l'article 11. A cette fin, elles communiquent ces données à la base centralisée et peuvent accéder à ces données par le biais d'une procédure d'appel. Les autorités d'application de la loi sur la protection des mineurs [^12-1] ne communiquent pas de données.
 
-<sup>2</sup> Les autorités d'application de la loi sur l'action sociale vaudoise, de l'assistance judiciaire, de prestations complémentaires cantonales pour familles et prestations cantonales de la rente-pont et de l'aide individuelle à l'hébergement des personnes handicapées ou en grandes difficultés sociales ont également accès aux données nécessaires pour l'accomplissement de leurs tâches.
+<sup>2</sup> Les autorités mentionnées ci-après, ont accès aux données de l'article 11 qui sont nécessaires à l'accomplissement de leurs tâches :
+
+- a. l'autorité d'application de l'action sociale vaudoise ;
+- b. l'autorité d'application de l'assistance judiciaire ;
+- c. l'autorité d'octroi des prestations complémentaires cantonales pour familles et prestations cantonales de la rente-pont ;
+- d. l'autorité d'octroi de l'aide individuelle à l'hébergement des personnes handicapées ou en grandes difficultés sociales ;
+- e. l'entité de curateurs et tuteurs professionnels ;
+- f. les agences d'assurances sociales.
 
 <sup>2bis</sup> Le Conseil d'Etat peut autoriser les autorités cantonales ou communales chargées d'appliquer des règlementations renvoyant à la présente loi pour définir un revenu déterminant à traiter les données nécessaires à l'accomplissement de leurs tâches. Il fait figurer les autorités concernées dans une liste annexée au règlement d'application[^12-2] de la présente loi.
 
