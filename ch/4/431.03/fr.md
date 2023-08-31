@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 juin 2010 sur le numéro d'identification des entre
 short: LIDE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-705-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-705-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/fr"
 
 (LIDE)
 
-du 18 juin 2010 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 juin 2010 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -73,14 +73,15 @@ On entend par:
   - 8\. les institutions chargées de l’exécution de tâches de droit public,
   - 9\. les associations et les fondations qui, sans être assujetties à la TVA ni être inscrites au registre du commerce, versent des cotisations AVS;
 
-- d. *services IDE:* les unités administratives fédérales, cantonales et communales, les établissements de droit public et les institutions privées chargées de tâches de droit public qui gèrent des fichiers de données concernant des entités IDE du fait de leur activité économique;
+- d.[^3-1] *services IDE:* les unités administratives fédérales, cantonales et communales, les établissements de droit public et les institutions privées chargées de tâches de droit public qui gèrent des banques de données concernant des entités IDE du fait de leur activité économique;
 - e. *numéro administratif:* le numéro servant à l’identification des entités administratives qui ne sont pas des entités IDE mais qui doivent être identifiées par certains services IDE pour l’exécution de leurs tâches;
 - f. *registre IDE:* le registre central répertoriant les entités IDE et les entités administratives;
-- g.[^3-1] *LEI:* le numéro non signifiant unique selon les recommandations du *Global Legal Entity Identifier System* (GLEIS) qui identifie une entité IDE et les entités gérées par elle, comme des fonds ou des filiales, de manière univoque au niveau international.
+- g.[^3-2] *LEI:* le numéro non signifiant unique selon les recommandations du *Global Legal Entity Identifier System* (GLEIS) qui identifie une entité IDE et les entités gérées par elle, comme des fonds ou des filiales, de manière univoque au niveau international.
 
 <sup>2</sup> Le Conseil fédéral décrit plus précisément les entités IDE et les services IDE.
 
-[^3-1]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 15 oct. 2017 ([RO 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [FF 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
+[^3-1]: Nouvelle teneur selon l’annexe 1 ch. II 36 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^3-2]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 15 oct. 2017 ([RO 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [FF 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
 
 ## Section 2 IDE, registre IDE et numéro administratif
 
@@ -103,12 +104,14 @@ On entend par:
 Les services IDE ont les obligations suivantes:
 
 - a. reconnaître l’IDE comme identificateur;
-- b. gérer l’IDE dans leurs fichiers de données;
+- b.[^5-1] utiliser l’IDE dans leurs banques de données;
 - c. utiliser l’IDE dans leurs relations avec les autres services IDE et avec les entités IDE.
 
 <sup>2</sup> Le Conseil fédéral désigne les services IDE qui doivent uniquement reconnaître l’IDE comme identificateur.
 
 <sup>3</sup> Les entités IDE peuvent utiliser leur IDE dans leurs relations avec les autres entités IDE ou les services IDE sous réserve de réglementations légales spécifiques.
+
+[^5-1]: Nouvelle teneur selon l’annexe 1 ch. II 36 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 6
 
@@ -200,7 +203,7 @@ Les services IDE communiquent à l’OFS:
 
 <sup>3</sup> Le Conseil fédéral règle les modalités de l’attribution et de l’utilisation des numéros administratifs et spécifie les caractères nécessaires à l’identification des entités administratives.
 
-## Section 2*a***** LEI
+## Section 2*a* LEI
 
 [^sec2a-1]
 

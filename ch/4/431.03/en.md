@@ -4,11 +4,11 @@ title: Federal Act of 18 June 2010 on the Unique Business Identification Number 
 short: BINA
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
 language: en
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2010-705-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2010-705-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (BINA)
 
-of 18 June 2010 (Status as of 1 January 2022)
+of 18 June 2010 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of articles 59 para. 4, 61 para. 4, 65 para. 2, 77 para. 2, 80 paras 1 and 2, 95 para. 1, 104 para. 1, 112 para. 1, 113 para. 1, 114 para. 1, 116 paras 2 and 3, 117 para. 1, 118 para. 2 let. a and b, 122 para. 1 and 130 para. 1 of the Federal Constitution[^ingress-1], having considered the Dispatch of the Federal Council of 28 October 2009[^ingress-2],
+on the basis of Articles 59 paragraph 4, 61 paragraph 4, 65 paragraph 2, 77 paragraph 2, 80 paragraphs 1 and 2, 95 paragraph 1, 104 paragraph 1, 112 paragraph 1, 113 paragraph 1, 114 paragraph 1, 116 paras 2 and 3, 117 paragraph 1, 118 paragraph 2 letters a and b, 122 paragraph 1 and 130 paragraph 1 of the Federal Constitution[^ingress-1], and having considered the Dispatch of the Federal Council of 28 October 2009[^ingress-2],
 
 decrees:
 
@@ -36,7 +36,7 @@ decrees:
 
 **Purpose**
 
-With a Unique Business Identification Number (UID), enterprises can be clearly identified so that information can be exchanged simply and safely within administrative and statistical processes.
+With a Unique Business Identification Number (UID), businesses can be clearly identified so that information can be exchanged simply and safely within administrative and statistical processes.
 
 #### Art. 2
 
@@ -75,14 +75,15 @@ In this Act:
   - 8\. all institutions that are charged with the execution of public law duties;
   - 9\. associations and foundations that are neither subject to VAT nor registered in the commercial register but pay OASI contributions;
 
-- d. *UID services:* Administrative entities of the Confederation, cantons and communes, institutions of public law and private institutions charged with public law duties that keep data collections on UID entities due to their economy activity;
-- e. *Administrative number:* Number to identify administrative entities that are not considered UID entities but need to be identified, however, by certain UID services for the fulfilment of duties;
+- d.[^3-1] *UID services:* Administrative entities of the Confederation, cantons and communes, institutions of public law and private institutions charged with public law duties that keep databases on UID entities due to their economic activity;
+- e. *administrative number:* Number to identify administrative entities that are not considered UID entities but need to be identified, however, by certain UID services for the fulfilment of duties;
 - f. *UID register:* central register of all UID entities and administrative entities;
-- g.[^3-1] *LEI:* a uniform, non-speaking number pursuant to the requirements of the «Global Legal Entity Identifier System» (GLEIS) that clearly identifies on an international level a UID entity and legal entities that manage these such as funds or subsidiaries.
+- g.[^3-2] *LEI:* a uniform, non-speaking number pursuant to the requirements of the «Global Legal Entity Identifier System» (GLEIS) that clearly identifies on an international level a UID entity and legal entities that manage these such as funds or subsidiaries.
 
-<sup>2</sup> The Federal Council describes the UID entities and the UID services in further detail.
+<sup>2</sup> The Federal Council shall describe the UID entities and the UID services in further detail.
 
-[^3-1]: Inserted by No I of the FA of 16 June 2017, in force since 15 Oct. 2017 ([AS 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [BBl 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
+[^3-1]: Amended by Annex 1 No II 36 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^3-2]: Inserted by No I of the FA of 16 June 2017, in force since 15 Oct. 2017 ([AS 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [BBl 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
 
 ## Section 2 UID, UID Register and Administrative Number
 
@@ -90,11 +91,11 @@ In this Act:
 
 **Allocation of the UID**
 
-<sup>1</sup> The Federal Statistical Office (FSO) allocates every UID entity a unique UID free of charge.
+<sup>1</sup> The Federal Statistical Office (FSO) shall allocate every UID entity a unique UID free of charge.
 
 <sup>2</sup> Each UID is only allocated once.
 
-<sup>3</sup> The UID is allocated when the responsible UID service has communicated to the FSO the attributes pursuant to Article 9 para. 1 let. a.
+<sup>3</sup> The UID is allocated when the responsible UID service has communicated to the FSO the attributes pursuant to Article 9 paragraph 1 letter a.
 
 #### Art. 5
 
@@ -105,12 +106,14 @@ In this Act:
 The UID services have the following obligations:
 
 - a. to recognise the UID as an identifier;
-- b. record the UID in their data collections;
+- b.[^5-1] to use the UID in their databases;
 - c. to use the UID in their exchanges with each other and with the UID entities.
 
 <sup>2</sup> The Federal Council designates the UID services that only need to recognise the UID as an identifier.
 
 <sup>3</sup> The UID entities may use their UID in exchanges with each other and with a UID service subject to specific legal regulations.
+
+[^5-1]: Amended by Annex 1 No II 36 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 6
 
@@ -163,9 +166,9 @@ The UID has no legal effect pursuant to the Federal Act of 19 December 2003[^7-1
 
 <sup>1</sup>
 
-The FSO obtains the UID data from the UID entities:
+The FSO shall obtain the UID data from the UID entities:
 
-- a. for the first time from the Business and Enterprise Register pursuant to Article 10 para. 3 of the Federal Statistics Act of 9 October 1992[^8-1];
+- a. for the first time from the Business and Enterprise Register pursuant to Article 10 paragraph 3 of the Federal Statistics Act of 9 October 1992[^8-1];
 - b. on a continuing basis from the information from the UID services.
 
 <sup>2</sup> It updates the UID data from the UID entities on a continuing basis and makes updates available to the UID services in a suitable form.
@@ -186,7 +189,7 @@ The UID services shall disclose to the FSO:
 - b. all changes and rectifications to UID data;
 - c. the termination of a UID entity’s economic activity.
 
-<sup>2</sup> UID services pursuant to Article 5 para. 2 may communicate this information voluntarily.
+<sup>2</sup> UID services pursuant to Article 5 paragraph 2 may communicate this information voluntarily.
 
 <sup>3</sup> The data are taken from the commercial register in unchanged form.
 
@@ -202,7 +205,7 @@ The UID services shall disclose to the FSO:
 
 <sup>3</sup> The Federal Council regulates the allocation and use of the administrative numbers and designates the attributes required to identify the administrative entities.
 
-## Section 2*a***** LEI
+## Section 2*a* LEI
 
 [^sec2a-1]
 
@@ -297,9 +300,9 @@ The amendment to the previous legislation is regulated in the annex.
 
 **Transitional provisions concerning deadlines**
 
-<sup>1</sup> The UID services are bound to use the UID within five years of the enactment of this law pursuant to Article 5 para. 1 or 2 and to report the UID data to the FSO pursuant to Article 9 para. 1.
+<sup>1</sup> The UID services are bound to use the UID within five years of the enactment of this law pursuant to Article 5 paragraph 1 or 2 and to report the UID data to the FSO pursuant to Article 9 paragraph 1.
 
-<sup>2</sup> The Federal Council designates the UID services that already need to fulfil their duties pursuant to para. 1 within three years of the enactment of this law.
+<sup>2</sup> The Federal Council designates the UID services that already need to fulfil their duties pursuant to paragraph 1 within three years of the enactment of this law.
 
 <sup>3</sup> Five years following the enactment of this law at the latest, the UID shall replace all other identification numbers previously used for UID entities in communication between UID services and UID entities. In exceptional cases, the Federal Council may extend the deadlines.
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Juni 2010 über die Unternehmens-Identifikationsnumm
 short: UIDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-705-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2010-705-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/de"
 
 (UIDG)
 
-vom 18. Juni 2010 (Stand am 1. Januar 2022)
+vom 18. Juni 2010 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -73,14 +73,15 @@ In diesem Gesetz gelten als:
   - 8\. alle Einrichtungen, die mit öffentlich-rechtlichen Aufgaben betraut sind,
   - 9\. Vereine und Stiftungen ohne Mehrwertsteuerpflicht und Handelsregistereintrag, die AHV-Beiträge abrechnen;
 
-- d. *UID-Stellen:* Verwaltungseinheiten von Bund, Kantonen und Gemeinden, öffentlich-rechtliche Anstalten sowie mit öffentlich-rechtlichen Aufgaben betraute private Einrichtungen, die Datensammlungen über UID-Einheiten aufgrund von deren wirtschaftlicher Tätigkeit führen;
+- d.[^3-1] *UID-Stellen:* Verwaltungseinheiten von Bund, Kantonen und Gemeinden, öffentlich-rechtliche Anstalten sowie mit öffentlich-rechtlichen Aufgaben betraute private Einrichtungen, die aufgrund von deren wirtschaftlicher Tätigkeit Datenbanken über UID-Einheiten führen;
 - e. *Administrativnummer:* Nummer zur Identifikation von Administrativeinheiten, die nicht als UID-Einheiten gelten, durch bestimmte UID-Stellen jedoch zur Aufgabenerfüllung identifiziert werden müssen;
 - f. *UID-Register:* zentrales Register aller UID-Einheiten und Administrativeinheiten.
-- g.[^3-1] *LEI:* einheitliche, nichtsprechende Nummer gemäss den Vorgaben des «Global Legal Entity Identifier System» (GLEIS), die eine UID-Einheit sowie Einheiten, die diese verwaltet, wie Fonds oder Tochtergesellschaften, auf internationaler Ebene eindeutig identifiziert.
+- g.[^3-2] *LEI:* einheitliche, nichtsprechende Nummer gemäss den Vorgaben des «Global Legal Entity Identifier System» (GLEIS), die eine UID-Einheit sowie Einheiten, die diese verwaltet, wie Fonds oder Tochtergesellschaften, auf internationaler Ebene eindeutig identifiziert.
 
 <sup>2</sup> Der Bundesrat umschreibt die UID-Einheiten und die UID-Stellen näher.
 
-[^3-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 15. Okt. 2017 ([AS 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [BBl 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
+[^3-1]: Fassung gemäss Anhang 1 Ziff. II 36 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^3-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 15. Okt. 2017 ([AS 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [BBl 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
 
 ## 2. Abschnitt: UID, UID-Register und Administrativnummer
 
@@ -103,12 +104,14 @@ In diesem Gesetz gelten als:
 Die UID-Stellen müssen die UID:
 
 - a. als Identifikator anerkennen;
-- b. in ihren Datensammlungen führen;
+- b.[^5-1] in ihren Datenbanken verwenden;
 - c. im Verkehr untereinander und mit den UID-Einheiten verwenden.
 
 <sup>2</sup> Der Bundesrat bestimmt die UID-Stellen, welche die UID nur als Identifikator anerkennen müssen.
 
 <sup>3</sup> Die UID-Einheiten können ihre UID im Verkehr untereinander und mit einer UID-Stelle verwenden; vorbehalten sind spezialgesetzliche Regelungen.
+
+[^5-1]: Fassung gemäss Anhang 1 Ziff. II 36 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 6
 
@@ -200,7 +203,7 @@ Die UID-Stellen melden dem BFS:
 
 <sup>3</sup> Der Bundesrat regelt die Zuweisung und Benützung der Administrativnummern und bezeichnet die zur Identifizierung der Administrativeinheiten erforderlichen Merkmale.
 
-## 2*a*. Abschnitt:**** LEI
+## 2*a*. Abschnitt: LEI
 
 [^sec2a-1]
 
@@ -341,6 +344,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705)konsultiert werden.

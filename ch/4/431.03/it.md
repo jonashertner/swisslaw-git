@@ -4,11 +4,11 @@ title: "Legge federale del 18 giugno 2010 sul numero d'identificazione delle imp
 short: LIDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-705-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2010-705-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/it"
 
 (LIDI)
 
-del 18 giugno 2010 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 18 giugno 2010 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -73,14 +73,15 @@ Ai sensi della presente legge s’intende per:
   - 8\. tutte le istituzioni che svolgono compiti di diritto pubblico,
   - 9\. le associazioni e le fondazioni non soggette all’IVA e non iscritte nel registro di commercio che versano contributi AVS;
 
-- d. *servizi IDI:* unità amministrative di Confederazione, Cantoni e Comuni, enti di diritto pubblico nonché istituzioni private con compiti di diritto pubblico, che gestiscono raccolte di dati sulle unità IDI in considerazione della loro attività economica;
+- d.[^3-1] *servizi IDI:* unità amministrative di Confederazione, Cantoni e Comuni, enti di diritto pubblico nonché istituzioni private con compiti di diritto pubblico, che gestiscono banche dati sulle unità IDI in considerazione della loro attività economica;
 - e. *numero amministrativo:* numero per l’identificazione di unità amministrative che non sono considerate unità IDI ma che devono essere identificate da determinati servizi IDI in adempimento dei loro compiti;
 - f. *registro IDI:* registro centrale in cui sono iscritte tutte le unità IDI e le unità amministrative;
-- g.[^3-1] *LEI:* numero unico non significante secondo le raccomandazioni del «Global Legal Entity Identifier System» (GLEIS) che identifica un’unità IDI e le unità da essa gestite, ad esempio fondi e filiali, in modo univoco a livello internazionale.
+- g.[^3-2] *LEI:* numero unico non significante secondo le raccomandazioni del «Global Legal Entity Identifier System» (GLEIS) che identifica un’unità IDI e le unità da essa gestite, ad esempio fondi e filiali, in modo univoco a livello internazionale.
 
 <sup>2</sup> Il Consiglio federale precisa ulteriormente le unità IDI e i servizi IDI.
 
-[^3-1]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 15 ott. 2017 ([RU 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [FF 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
+[^3-1]: Nuovo testo giusta l’all. 1 n. II 36 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^3-2]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 15 ott. 2017 ([RU 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [FF 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
 
 ## Sezione 2: IDI, registro IDI e numero amministrativo
 
@@ -103,12 +104,14 @@ Ai sensi della presente legge s’intende per:
 I servizi IDI sono tenuti a:
 
 - a. riconoscere l’IDI quale identificatore;
-- b. gestirlo nelle loro raccolte di dati;
+- b.[^5-1] utilizzarlo nelle loro banche dati;
 - c. utilizzarlo nello scambio di dati tra di loro e con le unità IDI.
 
 <sup>2</sup> Il Consiglio federale determina i servizi IDI tenuti a riconoscere l’IDI unicamente quale identificatore.
 
 <sup>3</sup> Le unità IDI possono utilizzare il proprio IDI negli scambi tra di loro o con un servizio IDI; rimangono salve disposizioni giuridiche speciali.
+
+[^5-1]: Nuovo testo giusta l’all. 1 n. II 36 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 6
 
@@ -200,7 +203,7 @@ I servizi IDI notificano all’UST:
 
 <sup>3</sup> Il Consiglio federale disciplina le modalità di attribuzione e utilizzo dei numeri amministrativi nonché le caratteristiche necessarie per l’identificazione delle unità amministrative.
 
-## Sezione 2*a*:**** LEI
+## Sezione 2*a*: LEI
 
 [^sec2a-1]
 
@@ -338,6 +341,8 @@ Allegato
 (art. 16)
 
 ## Modifica del diritto vigente
+
+Le leggi qui appresso sono modificate come segue:
 
 …[^annexu1-lvlu1-1]
 
