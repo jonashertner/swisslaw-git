@@ -4,11 +4,11 @@ title: "Ordinanza del 24 maggio 2006 sul principio di trasparenza dell'amministr
 short: OTras
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/it"
 
 (Ordinanza sulla trasparenza, OTras)
 
-del 24 maggio 2006 (Stato 1° gennaio 2023)
+del 24 maggio 2006 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -196,11 +196,15 @@ Nel trattare le domande inoltrate dai professionisti dei media, l’autorità ti
 
 ### (art. 13 LTras)
 
-<sup>1</sup> L’Incaricato federale della protezione dei dati e della trasparenza (Incaricato) esamina se l’autorità ha agito in modo lecito e opportuno nel trattare la domanda.
+<sup>1</sup> L’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) esamina se l’autorità ha agito in modo lecito e opportuno nel trattare la domanda.[^12-1]
 
-<sup>2</sup> L’Incaricato ascolta i partecipanti alla procedura di mediazione e tenta di giungere a un compromesso. Se necessario, sottopone delle proposte. La procedura può essere scritta o orale.
+<sup>2</sup> Ascolta i partecipanti alla procedura di mediazione e tenta di giungere a un compromesso. Se necessario, sottopone delle proposte. [^12-2]La procedura può essere scritta o orale.
 
-<sup>3</sup> L’Incaricato constata il risultato della procedura di mediazione e lo comunica per scritto ai partecipanti.
+<sup>3</sup> L’IFPDT constata il risultato della procedura di mediazione e lo comunica per scritto ai partecipanti.[^12-3]
+
+[^12-1]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Nuovo testo del primo e secondo per. giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12a
 
@@ -210,14 +214,16 @@ Nel trattare le domande inoltrate dai professionisti dei media, l’autorità ti
 
 <sup>1</sup>
 
-Una domanda di mediazione richiede un trattamento particolarmente dispendioso da parte dellʼIncaricato in particolare se:
+Una domanda di mediazione richiede un trattamento particolarmente dispendioso da parte dellʼIFPDT in particolare se:[^12a-2]
 
 - a. riguarda documenti particolarmente numerosi o complessi;
 - b. solleva questioni giuridiche, tecniche o politiche particolarmente ardue.
 
-<sup>2</sup> Se una domanda di mediazione richiede un trattamento particolarmente dispendioso da parte dellʼIncaricato, questi può concedere una proroga ragionevole per portare a termine la mediazione o per emanare la raccomandazione.
+<sup>2</sup> Se una domanda di mediazione richiede un trattamento particolarmente dispendioso da parte dellʼIFPDT, questi può concedere una proroga ragionevole per portare a termine la mediazione o per emanare la raccomandazione.[^12a-3]
 
 [^12a-1]: Introdotto dal n. I dell’O del 20 apr. 2011, in vigore dal 1° lug. 2011 ([RU 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12a-2]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12a-3]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12b
 
@@ -227,7 +233,7 @@ Una domanda di mediazione richiede un trattamento particolarmente dispendioso da
 
 <sup>1</sup>
 
-Non appena è stata presentata una domanda di mediazione, lʼIncaricato ne informa lʼautorità e le impartisce un termine per:
+Non appena è stata presentata una domanda di mediazione, lʼIFPDT ne informa lʼautorità e le impartisce un termine per:[^12b-2]
 
 - a. completare, se necessario, la motivazione della sua presa di posizione;
 - b. trasmettergli i documenti necessari;
@@ -243,9 +249,11 @@ Le parti sono tenute a:
 
 <sup>3</sup> Se il richiedente non partecipa alla mediazione, la domanda è considerata ritirata e la pratica è stralciata dal ruolo.
 
-<sup>4</sup> Se le parti rifiutano di partecipare alla ricerca di un accordo o se ritardano la procedura di mediazione in modo abusivo, lʼIncaricato può constatare lʼinsuccesso della mediazione.
+<sup>4</sup> Se le parti rifiutano di partecipare alla ricerca di un accordo o se ritardano la procedura di mediazione in modo abusivo, lʼIFPDT può constatare lʼinsuccesso della mediazione.[^12b-3]
 
 [^12b-1]: Introdotto dal n. I dell’O del 20 apr. 2011, in vigore dal 1° lug. 2011 ([RU 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12b-2]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-3]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -253,23 +261,27 @@ Le parti sono tenute a:
 
 ### (art. 14 LTras)
 
-<sup>1</sup> Nella raccomandazione l’Incaricato menziona in particolare il diritto dei partecipanti alla procedura di mediazione di chiedere all’autorità responsabile l’emanazione di una decisione secondo l’articolo 15 LTras e li informa del termine a loro disposizione.
+<sup>1</sup> Nella raccomandazione l’IFPDT menziona in particolare il diritto dei partecipanti alla procedura di mediazione di chiedere all’autorità responsabile l’emanazione di una decisione secondo l’articolo 15 LTras e li informa del termine a loro disposizione.[^13-1]
 
 <sup>2</sup> La raccomandazione non deve contenere alcun tipo di informazione che potrebbe ledere uno degli interessi tutelati nell’articolo 7 capoverso 1 LTras.
 
-<sup>3</sup> L’Incaricato pubblica le raccomandazioni e prende gli opportuni provvedimenti per garantire la protezione dei dati personali dei partecipanti alla procedura di mediazione.
+<sup>3</sup> L’IFPDT pubblica le raccomandazioni e prende gli opportuni provvedimenti per garantire la protezione dei dati delle persone fisiche e giuridiche che partecipano alla procedura di mediazione.[^13-2]
 
-<sup>4</sup> Se la protezione di dati personali non è possibile, l’Incaricato rinuncia a pubblicare la raccomandazione.
+<sup>4</sup> Se la protezione di dati di cui al capoverso 3 non è possibile, l’IFPDT rinuncia a pubblicare la raccomandazione.[^13-3]
+
+[^13-1]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-3]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13a
 
-**Informazione dellʼIncaricato da parte dellʼautorità**[^13a-1]
+**Informazione dell’IFPDT da parte dell’autorità**[^13a-1]
 
-### (art. 15 e 16 LTras)
+### (art. 15 e 16 LTrans)
 
-Le unità amministrative dellʼAmministrazione federale centrale trasmettono inoltre allʼIncaricato una copia della propria decisione ed eventuali decisioni delle autorità di ricorso.
+Le unità amministrative dellʼAmministrazione federale centrale trasmettono allʼIFPDT una copia della propria decisione ed eventuali decisioni delle autorità di ricorso.
 
-[^13a-1]: Introdotto dal n. I dell’O del 20 apr. 2011, in vigore dal 1° lug. 2011 ([RU 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^13a-1]: Introdotto dal n. I dell’O del 20 apr. 2011 ([RU 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)). Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Emolumenti
 
@@ -357,11 +369,13 @@ La Cancelleria federale e i Dipartimenti designano almeno un consulente per la t
 
 #### Art. 21
 
-Ogni autorità comunica annualmente all’Incaricato:
+Ogni autorità comunica annualmente all’IFPDT:[^21-1]
 
 - a. il numero di domande di accesso inoltrate durante l’anno;
 - b. il numero di domande accettate, respinte o parzialmente respinte;
 - c. l’importo totale degli emolumenti riscossi ai sensi della legge sulla trasparenza.
+
+[^21-1]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 9: Disposizioni finali
 

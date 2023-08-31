@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Mai 2006 über das Öffentlichkeitsprinzip der Verwal
 short: VBGÖ
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/de"
 
 (Öffentlichkeitsverordnung, VBGÖ)
 
-vom 24. Mai 2006 (Stand am 1. Januar 2023)
+vom 24. Mai 2006 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -195,11 +195,15 @@ Die Behörde nimmt bei der Bearbeitung von Gesuchen, die von Medienschaffenden g
 
 ### (Art. 13 BGÖ)
 
-<sup>1</sup> Die oder der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (die oder der Beauftragte) klärt ab, ob die Behörde das Zugangsgesuch rechtmässig und angemessen bearbeitet hat.
+<sup>1</sup> Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) klärt ab, ob die Behörde das Zugangsgesuch rechtmässig und angemessen bearbeitet hat.[^12-1]
 
-<sup>2</sup> Sie oder er hört die am Schlichtungsverfahren Beteiligten an und strebt zwischen ihnen eine Einigung an. Falls notwendig unterbreitet sie oder er Vorschläge. Das Verfahren kann mündlich oder schriftlich durchgeführt werden.
+<sup>2</sup> Er hört die am Schlichtungsverfahren Beteiligten an und strebt zwischen ihnen eine Einigung an. Falls notwendig unterbreitet er Vorschläge[^12-2]. Das Verfahren kann mündlich oder schriftlich durchgeführt werden.
 
-<sup>3</sup> Die oder der Beauftragte stellt das Ergebnis des Schlichtungsverfahrens fest und teilt es den Beteiligten schriftlich mit.
+<sup>3</sup> Der EDÖB stellt das Ergebnis des Schlichtungsverfahrens fest und teilt es den Beteiligten schriftlich mit.[^12-3]
+
+[^12-1]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Fassung des ersten und zweiten Satzes gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12a
 
@@ -209,14 +213,16 @@ Die Behörde nimmt bei der Bearbeitung von Gesuchen, die von Medienschaffenden g
 
 <sup>1</sup>
 
-Ein Schlichtungsantrag erfordert namentlich eine besonders aufwendige Bearbeitung durch die Beauftragte oder den Beauftragten, wenn er:
+Ein Schlichtungsantrag erfordert namentlich eine besonders aufwendige Bearbeitung durch den EDÖB, wenn er:[^12a-2]
 
 - a. besonders viele oder besonders komplexe Dokumente betrifft;
 - b. besonders schwierige juristische, technische oder politische Fragen aufwirft.
 
-<sup>2</sup> Erfordert ein Schlichtungsantrag eine besonders aufwendige Bearbeitung durch die Beauftragte oder den Beauftragten, so kann diese oder dieser die Frist für das Schlichtungsverfahren oder den Erlass einer Empfehlung angemessen verlängern.
+<sup>2</sup> Erfordert ein Schlichtungsantrag eine besonders aufwendige Bearbeitung durch den EDÖB, so kann dieser die Frist für das Schlichtungsverfahren oder den Erlass einer Empfehlung angemessen verlängern.[^12a-3]
 
 [^12a-1]: Eingefügt durch Ziff. I der V vom 20. April 2011, in Kraft seit 1. Juli 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12a-2]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12a-3]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12b
 
@@ -226,11 +232,11 @@ Ein Schlichtungsantrag erfordert namentlich eine besonders aufwendige Bearbeitun
 
 <sup>1</sup>
 
-Sobald ein Schlichtungsantrag eingereicht ist, informiert die oder der Beauftragte die Behörde und räumt ihr eine Frist ein, um:
+Sobald ein Schlichtungsantrag eingereicht ist, informiert der EDÖB die Behörde und räumt ihr eine Frist ein, um:[^12b-2]
 
 - a. die Begründung ihrer Stellungnahme wenn nötig zu ergänzen;
-- b. ihr oder ihm die erforderlichen Dokumente zuzustellen;
-- c. ihr oder ihm die Person zu nennen, die sie im Schlichtungsverfahren vertritt.
+- b.[^12b-3] ihm die erforderlichen Dokumente zuzustellen;
+- c.[^12b-4] ihm die Person zu nennen, die sie im Schlichtungsverfahren vertritt.
 
 <sup>2</sup>
 
@@ -242,9 +248,13 @@ Die Parteien sind verpflichtet:
 
 <sup>3</sup> Nimmt die Gesuchstellerin oder der Gesuchsteller nicht an der Schlichtungsverhandlung teil, so gilt der Schlichtungsantrag als zurückgezogen und erledigt.
 
-<sup>4</sup> Weigern sich die Parteien, an der Suche nach einer Schlichtung mitzuwirken oder verzögern sie das Schlichtungsverfahren missbräuchlich, so kann die oder der Beauftragte feststellen, dass die Schlichtung nicht zustande gekommen ist.
+<sup>4</sup> Weigern sich die Parteien, an der Suche nach einer Schlichtung mitzuwirken oder verzögern sie das Schlichtungsverfahren missbräuchlich, so kann der EDÖB feststellen, dass die Schlichtung nicht zustande gekommen ist.[^12b-5]
 
 [^12b-1]: Eingefügt durch Ziff. I der V vom 20. April 2011, in Kraft seit 1. Juli 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12b-2]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-3]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-4]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-5]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -252,23 +262,27 @@ Die Parteien sind verpflichtet:
 
 ### (Art. 14 BGÖ)
 
-<sup>1</sup> In der Empfehlung weist die oder der Beauftragte insbesondere darauf hin, dass die am Schlichtungsverfahren Beteiligten von der zuständigen Behörde eine Verfügung nach Artikel 15 BGÖ verlangen können, und teilt ihnen mit, welche Frist sie dafür einhalten müssen.
+<sup>1</sup> In der Empfehlung weist der EDÖB insbesondere darauf hin, dass die am Schlichtungsverfahren Beteiligten von der zuständigen Behörde eine Verfügung nach Artikel 15 BGÖ verlangen können, und teilt ihnen mit, welche Frist sie dafür einhalten müssen.[^13-1]
 
 <sup>2</sup> Die Empfehlung darf keine Informationen enthalten, die eines der geschützten Interessen nach Artikel 7 Absatz 1 BGÖ beeinträchtigen könnten.
 
-<sup>3</sup> Die oder der Beauftragte veröffentlicht die Empfehlungen und trifft dabei geeignete Massnahmen, um den Schutz der Personendaten der am Schlichtungsverfahren Beteiligten sicherzustellen.
+<sup>3</sup> Der EDÖB veröffentlicht die Empfehlungen und trifft dabei geeignete Massnahmen, um den Schutz der Daten der am Schlichtungsverfahren beteiligten natürlichen und juristischen Personen sicherzustellen.[^13-2]
 
-<sup>4</sup> Ist der Schutz von Personendaten nicht möglich, so verzichtet die oder der Beauftragte auf die Veröffentlichung der Empfehlung.
+<sup>4</sup> Ist der Schutz der Daten nach Absatz 3 nicht möglich, so verzichtet der EDÖB auf die Veröffentlichung der Empfehlung.[^13-3]
+
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-3]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13a
 
-**Information der oder des Beauftragten durch die Behörde**[^13a-1]
+**Information des EDÖB durch die Behörde**[^13a-1]
 
 ### (Art. 15 und 16 BGÖ)
 
-Die Verwaltungseinheiten der zentralen Bundesverwaltung stellen der oder dem Beauftragten eine Kopie ihrer Verfügung und allfällige Entscheide der Beschwerdeinstanzen zu.
+Die Verwaltungseinheiten der zentralen Bundesverwaltung stellen dem EDÖB eine Kopie ihrer Verfügung und allfällige Entscheide der Beschwerdeinstanzen zu.
 
-[^13a-1]: Eingefügt durch Ziff. I der V vom 20. April 2011, in Kraft seit 1. Juli 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^13a-1]: Eingefügt durch Ziff. I der V vom 20. April 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)). Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Gebühren
 
@@ -356,11 +370,13 @@ Die Bundeskanzlei und die Departemente bezeichnen mindestens eine Beraterin oder
 
 #### Art. 21
 
-Jede Behörde teilt der oder dem Beauftragten jährlich mit:
+Jede Behörde teilt dem EDÖB jährlich mit:[^21-1]
 
 - a. die Anzahl der im Berichtsjahr eingereichten Gesuche;
 - b. die Anzahl der angenommenen Gesuche und der ganz oder teilweise abgelehnten Gesuche;
 - c. den Gesamtbetrag der für den Zugang zu amtlichen Dokumenten nach dem Öffentlichkeitsgesetz einverlangten Gebühren.
+
+[^21-1]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 9. Abschnitt: Schlussbestimmungen
 

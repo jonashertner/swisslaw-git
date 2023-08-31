@@ -4,11 +4,11 @@ title: "Ordonnance du 24 mai 2006 sur le principe de la transparence dans l'admi
 short: OTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/fr"
 
 (Ordonnance sur la transparence, OTrans)
 
-du 24 mai 2006 (État le 1<sup>er</sup> janvier 2023)
+du 24 mai 2006 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -196,11 +196,13 @@ L’autorité prend position sur les demandes d’accès présentées par les m�
 
 ### (art. 13 LTrans)
 
-<sup>1</sup> Le Préposé fédéral à la protection des données et à la transparence (préposé) examine si la façon dont la demande d’accès a été traitée est conforme à la loi et appropriée.
+<sup>1</sup> Le Préposé fédéral à la protection des données et à la transparence (PFPDT) examine si la façon dont la demande d’accès a été traitée est conforme à la loi et appropriée.[^12-1]
 
 <sup>2</sup> Il entend les parties et s’efforce de les amener à un accord. Il leur soumet, si nécessaire, des propositions. La procédure peut se dérouler oralement ou par écrit.
 
 <sup>3</sup> Il constate le résultat de la médiation et le communique par écrit aux parties.
+
+[^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12a
 
@@ -210,14 +212,16 @@ L’autorité prend position sur les demandes d’accès présentées par les m�
 
 <sup>1</sup>
 
-Une demande en médiation nécessite un surcroît important de travail pour le préposé, notamment:
+Une demande en médiation nécessite un surcroît important de travail pour le PFPDT, notamment:[^12a-2]
 
 - a. lorsqu’elle porte sur des documents particulièrement nombreux ou complexes;
 - b. lorsqu’elle pose des questions juridiques, techniques ou politiques particulièrement ardues.
 
-<sup>2</sup> Lorsqu’une demande en médiation nécessite un surcroît important de travail pour le préposé, celui-ci peut prolonger d’une durée raisonnable le délai pour mener à terme la médiation ou établir la recommandation.
+<sup>2</sup> Lorsqu’une demande en médiation nécessite un surcroît important de travail pour le PFPDT, celui-ci peut prolonger d’une durée raisonnable le délai pour mener à terme la médiation ou établir la recommandation.[^12a-3]
 
 [^12a-1]: Introduit par le ch. I de l’O du 20 avril 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12a-2]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12a-3]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12b
 
@@ -227,7 +231,7 @@ Une demande en médiation nécessite un surcroît important de travail pour le p
 
 <sup>1</sup>
 
-Dès qu’il est saisi de la demande en médiation, le préposé en informe l’autorité et lui impartit un délai:
+Dès qu’il est saisi de la demande en médiation, le PFPDT en informe l’autorité et lui impartit un délai:[^12b-2]
 
 - a. pour compléter si nécessaire la motivation de sa prise de position;
 - b. pour lui transmettre les documents requis;
@@ -243,9 +247,11 @@ Les parties sont tenues:
 
 <sup>3</sup> Si le demandeur ne prend pas part à la médiation, la requête est considérée comme retirée et l’affaire est classée.
 
-<sup>4</sup> Lorsque les parties refusent de prêter le concours nécessaire à l’aboutissement d’un accord ou qu’elles retardent abusivement la médiation, le préposé peut constater qu’elle n’a pas abouti.
+<sup>4</sup> Lorsque les parties refusent de prêter le concours nécessaire à l’aboutissement d’un accord ou qu’elles retardent abusivement la médiation, le PFPDT peut constater qu’elle n’a pas abouti.[^12b-3]
 
 [^12b-1]: Introduit par le ch. I de l’O du 20 avril 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12b-2]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-3]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -253,23 +259,27 @@ Les parties sont tenues:
 
 ### (art. 14 LTrans)
 
-<sup>1</sup> Dans sa recommandation, le préposé rend les parties à la procédure de médiation notamment attentives au droit de demander que l’autorité rende une décision selon l’art. 15 LTrans et au délai dans lequel cette demande doit être présentée.
+<sup>1</sup> Dans sa recommandation, le PFPDT rend les parties à la procédure de médiation notamment attentives au droit de demander que l’autorité rende une décision selon l’art. 15 LTrans et au délai dans lequel cette demande doit être présentée.[^13-1]
 
 <sup>2</sup> Il veille à ce que sa recommandation ne contienne aucune information susceptible de porter atteinte à l’un des intérêts énumérés à l’art. 7, al. 1, LTrans.
 
-<sup>3</sup> Il publie ses recommandations; ce faisant, il prend les mesures appropriées pour garantir la protection des données personnelles des parties à la procédure de médiation.
+<sup>3</sup> Il publie ses recommandations; ce faisant, il prend les mesures appropriées pour garantir la protection des données des personnes physiques et morales parties à la procédure de médiation.[^13-2]
 
-<sup>4</sup> Lorsque la protection visée à l’al. 3 ne peut pas être garantie, le préposé renonce à publier sa recommandation.
+<sup>4</sup> Lorsque la protection visée à l’al. 3 ne peut pas être garantie, le PFPDT renonce à publier sa recommandation.[^13-3]
+
+[^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-3]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13a
 
-**Information du préposé par l’autorité**[^13a-1]
+**Information du PFPDT par l’autorité**[^13a-1]
 
 ### (art. 15 et 16 LTrans)
 
-Les unités de l’administration fédérale centrale communiquent au préposé leur décision et, le cas échéant, celles des autorités de recours.
+Les unités de l’administration fédérale centrale communiquent au PFPDT leur décision et, le cas échéant, celles des autorités de recours.
 
-[^13a-1]: Introduit par le ch. I de l’O du 20 avril 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^13a-1]: Introduit par le ch. I de l’O du 20 avril 2011 ([RO 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)). Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Émoluments
 
@@ -357,11 +367,13 @@ La Chancellerie fédérale et chaque département désignent au minimum un conse
 
 #### Art. 21
 
-Chaque année, les autorités communiquent au préposé les informations suivantes:
+Chaque année, les autorités communiquent au PFPDT les informations suivantes:[^21-1]
 
 - a. le nombre de demandes d’accès déposées pendant l’année;
 - b. le nombre de demandes acceptées, rejetées ou partiellement rejetées;
 - c. le montant des émoluments perçus en vertu de la loi sur la transparence.
+
+[^21-1]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 9 Dispositions finales
 

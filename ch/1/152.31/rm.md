@@ -4,11 +4,11 @@ title: "Ordinaziun dals 24 da matg 2006 davart il princip da la transparenza da 
 short: OTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: rm
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da transparenza, OTrans)
 
-dals 24 da matg 2006 (versiun dal 1. da schaner 2023)
+dals 24 da matg 2006 (versiun dal 1. da settember 2023)
 
 Il Cussegl federal svizzer,
 
@@ -39,7 +39,7 @@ ordinescha:
 
 <sup>2</sup>
 
-In document è considerà sco terminà, cur che:
+In document è considerà sco terminà, cura che:
 
 - a. el è vegnì suttascrit da l’autoritad che l’ha fatg; u
 - b. el è vegnì surdà definitivamain a l’adressat tras la persuna che l’ha fatg, particularmain per prender enconuschientscha u posiziun ubain sco basa da decisiun.
@@ -197,11 +197,15 @@ Cun tractar las dumondas che vegnan fatgas dals collavuraturs dals meds da massa
 
 ### (art. 13 LTrans)
 
-<sup>1</sup> L’incumbensà federal per la protecziun da datas e per la transparenza (l’incumbensà) sclerescha, sche l’autoritad ha agì legalmain ed adequatamain cun tractar la dumonda d’access.
+<sup>1</sup> L’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT) sclerescha, sche l’autoritad ha agì legalmain ed adequatamain cun tractar la dumonda d’access.[^12-1]
 
-<sup>2</sup> L’incumbensà taidla las persunas participadas a la procedura da mediaziun ed emprova da cuntanscher in cumpromiss. Sche necessari suttametta el propostas. La procedura po vegnir fatga a bucca u en scrit.
+<sup>2</sup> El taidla las persunas participadas a la procedura da mediaziun ed emprova da cuntanscher in cumpromiss tranter els. Sche necessari suttametta el propostas.[^12-2] La procedura po vegnir fatga a bucca u en scrit.
 
-<sup>3</sup> L’incumbensà constatescha il resultat da la procedura da mediaziun ed al communitgescha en scrit a las persunas participadas.
+<sup>3</sup> Il IFPDT constatescha il resultat da la procedura da mediaziun e communitgescha tal en scrit a las persunas participadas.[^12-3]
+
+[^12-1]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Versiun da l’emprima e segunda frasa tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12a
 
@@ -211,14 +215,16 @@ Cun tractar las dumondas che vegnan fatgas dals collavuraturs dals meds da massa
 
 <sup>1</sup>
 
-Ina dumonda da mediaziun, che chaschuna spezialmain blera lavur cun la tractar tras l’incumbensà, cunzunt sch’ella:
+Ina dumonda da mediaziun chaschuna spezialmain blera lavur per il IFPDT, cunzunt sch’ella:[^12a-2]
 
 - a. reguarda documents spezialmain numerus u spezialmain cumplexs;
 - b. tschenta dumondas giuridicas, tecnicas u politicas spezialmain difficilas.
 
-<sup>2</sup> Sch’ina dumonda da mediaziun che chaschuna spezialmain blera lavur cun la tractar tras l’incumbensà, po quel prolungar adequatamain il termin per terminar la procedura da mediaziun u per decretar ina recumandaziun.
+<sup>2</sup> Sch’ina dumonda da mediaziun chaschuna spezialmain blera lavur per il IFPDT, po quel prolungar adequatamain il termin per terminar la procedura da mediaziun u per decretar ina recumandaziun.[^12a-3]
 
 [^12a-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12a-2]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12a-3]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12b
 
@@ -228,11 +234,11 @@ Ina dumonda da mediaziun, che chaschuna spezialmain blera lavur cun la tractar t
 
 <sup>1</sup>
 
-Uschespert ch’ina dumonda da mediaziun è vegnida inoltrada, infurmescha l’incumbensà l’autoritad e la dat in termin per:
+Uschespert ch’ina dumonda da mediaziun è vegnida inoltrada, infurmescha il IFPDT l’autoritad e la conceda in termin per:[^12b-2]
 
 - a. cumplettar, sche necessari, la motivaziun da sia posiziun;
-- b. al trametter ils documents necessaris;
-- c. al communitgar il num da la persuna che la represchenta en la procedura da mediaziun.
+- b.[^12b-3] al trametter ils documents necessaris;
+- c.[^12b-4] al communitgar il num da la persuna che la represchenta en la procedura da mediaziun.
 
 <sup>2</sup>
 
@@ -244,9 +250,13 @@ Las partidas èn obligadas:
 
 <sup>3</sup> Sch’il petent na sa participescha betg a la mediaziun, vegn la dumonda da mediaziun considerada sco retratga e liquidada.
 
-<sup>4</sup> Sche las partidas refuseschan da gidar a tschertgar ina cunvegna u sch’ellas retardeschan abusivamain la procedura da mediaziun, po l’incumbensà constatar che la mediaziun n’ha betg gì success.
+<sup>4</sup> Sche las partidas refusan da gidar a tschertgar ina cunvegna u sch’ellas retardeschan abusivamain la procedura da mediaziun, po il IFPDT constatar che la mediaziun n’è betg reussida.[^12b-5]
 
 [^12b-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12b-2]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-3]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-4]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-5]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -254,23 +264,27 @@ Las partidas èn obligadas:
 
 ### (art. 14 LTrans)
 
-<sup>1</sup> En la recumandaziun menziunescha l’incumbensà particularmain il dretg da las persunas participadas a la procedura da mediaziun da pretender che l’autoritad cumpetenta decreteschia ina disposiziun tenor l’artitgel 15 LTrans e las communitgescha tge termin che las stat a disposiziun.
+<sup>1</sup> En la recumandaziun menziunescha il IFPDT particularmain il dretg da las persunas participadas a la procedura da mediaziun da pretender che l’autoritad cumpetenta decreteschia ina disposiziun tenor l’artitgel 15 LTrans, e communitgescha ad ellas tge termin ch’ellas ston observar per quest intent.[^13-1]
 
 <sup>2</sup> La recumandaziun na dastga betg cuntegnair infurmaziuns che pudessan donnegiar in dals interess protegids tenor l’artitgel 7 alinea 1 LTrans.
 
-<sup>3</sup> L’incumbensà publitgescha las recumandaziuns e prenda las mesiras adequatas per garantir la protecziun da las datas da persunas da las persunas participadas a la procedura da mediaziun.
+<sup>3</sup> Il IFPDT publitgescha las recumandaziuns e prenda las mesiras adequatas per garantir la protecziun da las datas da las persunas natiralas e giuridicas ch’èn participadas a la procedura da mediaziun.[^13-2]
 
-<sup>4</sup> Sche la protecziun da las datas da persunas n’è betg pussaivla, renunzia l’incumbensà da publitgar la recumandaziun.
+<sup>4</sup> Sche la protecziun da las datas tenor l’alinea 3 n’è betg pussaivla, desista il IFPDT da publitgar la recumandaziun.[^13-3]
+
+[^13-1]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-3]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13a
 
-**Infurmaziun da l’incumbensà tras l’autoritad**[^13a-1]
+**Infurmaziun dal IFPDT tras l’autoritad**[^13a-1]
 
 ### (art. 15 e 16 LTrans)
 
-Las unitads administrativas da l’Administraziun federala centrala transmettan a l’incumbensà ina copia da lur disposiziun ed eventualas decisiuns da las instanzas da recurs.
+Las unitads administrativas da l’administraziun federala centrala transmettan al IFPDT ina copia da lur disposiziun ed eventualas decisiuns da las instanzas da recurs.
 
-[^13a-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^13a-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)). Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. secziun Taxas
 
@@ -358,11 +372,13 @@ La Chanzlia federala ed ils Departaments designeschan almain in Cussegliader per
 
 #### Art. 21
 
-Mintga autoritad communitgescha annualmain a l’incumbensà:
+Mintga autoritad communitgescha annualmain al IFPDT:[^21-1]
 
 - a. il dumber da las dumondas d’access inoltradas durant l’onn;
 - b. il dumber da las dumondas d’access acceptadas e refusadas dal tuttafatg u parzialmain;
 - c. l’import total da las taxas che vegnan incassadas tenor la Lescha da transparenza.
+
+[^21-1]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 9. secziun Disposiziuns finalas
 

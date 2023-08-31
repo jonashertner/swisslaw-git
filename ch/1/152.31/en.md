@@ -4,11 +4,11 @@ title: "Ordinance of 24 May 2006 on Freedom of Information in the Administration
 short: FoIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Freedom of Information Ordinance, FoIO)
 
-of 24 May 2006 (Status as of 1 January 2023)
+of 24 May 2006 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -198,11 +198,15 @@ When processing applications filed by journalists, the authority shall, as far a
 
 ### (Art. 13 FoIA)
 
-<sup>1</sup> The Federal Data Protection and Information Commissioner (the Commissioner) shall examine whether the application for access was processed lawfully and appropriately.
+<sup>1</sup> The Federal Data Protection and Information Commissioner (the FDPIC) shall examine whether the application for access was processed lawfully and appropriately.[^12-1]
 
-<sup>2</sup> The Commissioner shall hear the parties to mediation proceedings and strive to reach an agreement. Where necessary, he shall submit proposals. The proceedings may be conducted in writing or verbally.
+<sup>2</sup> It shall hear the parties to mediation proceedings and strive to reach an agreement. Where necessary, it shall submit proposals.[^12-2] The proceedings may be conducted in writing or verbally.
 
-<sup>3</sup> The Commissioner shall ascertain the result of mediation proceedings and inform the parties of same in writing.
+<sup>3</sup> The FDPIC shall ascertain the result of mediation proceedings and inform the parties of the same in writing.[^12-3]
+
+[^12-1]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: First and second sentences amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12a
 
@@ -212,14 +216,16 @@ When processing applications filed by journalists, the authority shall, as far a
 
 <sup>1</sup>
 
-A request for mediation requires particularly extensive processing by the Commissioner if it:
+A request for mediation requires particularly extensive processing by the FDPIC if it:[^12a-2]
 
 - a. involves a large number of or especially complex documents;
 - b. raises especially difficult legal, technical or political issues.
 
-<sup>2</sup> If a request for mediation requires particularly extensive processing by the Commissioner, he may extend the deadline for the mediation proceedings or for the issue of a recommendation by an appropriate period.
+<sup>2</sup> If a request for mediation requires particularly extensive processing by the FDPIC, it may extend the deadline for the mediation proceedings or for the issue of a recommendation by an appropriate period.[^12a-3]
 
 [^12a-1]: Inserted by No I of the O of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12a-2]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12a-3]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12b
 
@@ -229,11 +235,11 @@ A request for mediation requires particularly extensive processing by the Commis
 
 <sup>1</sup>
 
-As soon as a request for mediation is submitted, the Commissioner shall inform the authority and allow it a period within which to:
+As soon as a request for mediation is submitted, the FDPIC shall inform the authority and allow it a period within which to:[^12b-2]
 
 - a. supplement the justification given for its decision if necessary;
-- b. provide the Commissioner with the required documents;
-- c. provide the Commissioner with the name of its representative in the mediation proceedings.
+- b.[^12b-3] provide the FDPIC with the required documents;
+- c.[^12b-4] provide the FDPIC with the name of its representative in the mediation proceedings.
 
 <sup>2</sup>
 
@@ -245,9 +251,13 @@ The parties are obliged:
 
 <sup>3</sup> If the applicant fails to participate in the mediation hearing, the request for mediation is deemed to have been withdrawn and to be settled.
 
-<sup>4</sup> If the parties refuse to cooperate in seeking a settlement or if they improperly delay the mediation proceedings, the Commissioner may rule that the mediation has failed.
+<sup>4</sup> If the parties refuse to cooperate in seeking a settlement or if they improperly delay the mediation proceedings, the FDPIC may rule that the mediation has failed.[^12b-5]
 
 [^12b-1]: Inserted by No I of the O of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12b-2]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-3]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-4]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-5]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -255,23 +265,27 @@ The parties are obliged:
 
 ### (Art. 14 FoIA)
 
-<sup>1</sup> In his recommendation, the Commissioner shall in particular point out that the parties to the mediation proceedings may request a decision from the authority pursuant to Article 15 FoIA, and shall inform them of the deadline for such a request.
+<sup>1</sup> In its recommendation, the FDPIC shall in particular point out that the parties to the mediation proceedings may request a decision from the authority pursuant to Article 15 FoIA, and shall inform them of the deadline for such a request.[^13-1]
 
 <sup>2</sup> The recommendation must not contain any information likely to prejudice protected interests under Article 7(1) FoIA.
 
-<sup>3</sup> The Commissioner shall publish his recommendations and shall take the appropriate measures in order to ensure the protection of the personal data of parties to mediation proceedings.
+<sup>3</sup> The FDPIC shall publish its recommendations and shall take the appropriate measures in order to ensure the protection of the data of natural persons and legal entities who are parties to mediation proceedings.[^13-2]
 
-<sup>4</sup> Should the protection of personal data not be possible, the Commissioner shall refrain from publishing his recommendation.
+<sup>4</sup> Should the protection of the data mentioned in paragraph 3 not be possible, the FDPIC shall refrain from publishing its recommendation.[^13-3]
+
+[^13-1]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-3]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13a
 
-**Information provided to the Commissioner by the authority**[^13a-1]
+**Information provided to the FDPIC by the authority**[^13a-1]
 
 ### (Art. 15 and 16 FoIA)
 
-The administrative units of the Central Federal Administration shall provide the Commissioner with a copy of their ruling and any decisions made by the appeal instances.
+The administrative units of the Central Federal Administration shall provide the FDPIC with a copy of their ruling and any decisions made by the appeal instances.
 
-[^13a-1]: Inserted by No I of the O of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^13a-1]: Inserted by No I of the O of 20 April 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)). Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Fees
 
@@ -359,11 +373,13 @@ The Federal Office and the departments shall designate at least one advisor for 
 
 #### Art. 21
 
-Each authority shall inform the Commissioner, on an annual basis, of:
+Each authority shall inform the FDPIC, on an annual basis, of:[^21-1]
 
 - a. the number of applications for access filed during the reporting year;
 - b. the number of such applications granted, refused or partly refused;
 - c. the total amount of fees charged for access to public documents sought under the Freedom of Information Act.
+
+[^21-1]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 9 Final Provisions
 
