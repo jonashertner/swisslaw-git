@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2023-02-07
+version: 2023-09-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230207/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230207-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 7. Februar 2023)
+vom 31. August 1983 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -3011,9 +3011,11 @@ Als Vorschussleistungen gelten:
 
 Bei der Anmeldung und der Geltendmachung von Ansprüchen werden die betroffenen Personen orientiert über:
 
-- a.[^126-2] den Zweck der Informationssysteme;
-- b. die bearbeiteten Daten und über deren regelmässige Empfänger;
-- c. ihre Rechte.
+- a. die Identität und die Kontaktdaten des Verantwortlichen;
+- b. den Zweck der Informationssysteme;
+- c. die bearbeiteten Daten;
+- d. gegebenenfalls die Empfänger oder die Kategorien von Empfängern, denen die Personendaten bekanntgegeben werden;
+- e. ihre Rechte.[^126-2]
 
 <sup>2</sup>
 
@@ -3030,7 +3032,7 @@ Die betroffene Person kann von den Stellen, welche die Daten bearbeiten, verlang
 <sup>5</sup> Beteiligen sich mehrere Durchführungsstellen an einem gemeinsamen Informationssystem, so ist eine zu bezeichnen, die insgesamt die Verantwortung trägt.[^126-4]
 
 [^126-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^126-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
+[^126-2]: Fassung gemäss Anhang 2 Ziff. II 122 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^126-3]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 [^126-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 

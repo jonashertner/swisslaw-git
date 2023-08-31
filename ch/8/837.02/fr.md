@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2023-02-07
+version: 2023-09-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230207/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230207-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (État le 7 février 2023)
+du 31 août 1983 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -3033,9 +3033,11 @@ Sont réputées avances:
 
 Au moment où les personnes concernées s’annoncent ou font valoir leurs droits, elles seront renseignées sur:
 
-- a.[^126-2] le but des systèmes d’information;
-- b. les données traitées et leurs destinataires réguliers;
-- c. leurs droits.
+- a. l’identité et les coordonnées du responsable du traitement;
+- b. la finalité des systèmes d’information;
+- c. les données traitées;
+- d. le cas échéant, les destinataires ou les catégories de destinataires auxquelles des données sont transmises;
+- e. leurs droits.[^126-2]
 
 <sup>2</sup>
 
@@ -3052,7 +3054,7 @@ La personne concernée peut exiger des services qui traitent les données qu’i
 <sup>5</sup> Lorsque plusieurs organes d’exécution participent à un système d’information commun, l’un d’eux est désigné comme responsable de l’ensemble.[^126-4]
 
 [^126-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^126-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
+[^126-2]: Nouvelle teneur selon l’annexe 2 ch. II 122 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^126-3]: Abrogé par le ch. I de l’O du 22 nov. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 [^126-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2023-02-07
+version: 2023-09-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230207/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230207-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 7 febbraio 2023)
+del 31 agosto 1983 (Stato 1° settembre 2023)
 
 [^t-1]: Nuova abbreviazione giusta il n. I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -2074,7 +2074,7 @@ Un assicurato è considerato difficilmente collocabile se, tenuto conto della si
 
 [^90a-1]: Introdotto dal n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^90a-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^90a-3]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4,[1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 e all. n. 1, **1998** 1822 art. 2, **1999** 2374 n. I 2, **2003** 187 all. n. II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. I 1]. Vedi ora la LF del 13 dic. 2002, in vigore dal 1° gen. 2004 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^90a-3]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 e all. n. 1; **1998** 1822 art. 2; **1999** 2374 n. I 2; **2003** 187 all. n. II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. I 1]. Vedi ora la LF del 13 dic. 2002, in vigore dal 1° gen. 2004 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
 [^90a-4]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^90a-5]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^90a-6]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
@@ -3028,9 +3028,11 @@ Sono considerati anticipi:
 
 Le persone interessate, quando s’annunciano o fanno valere i loro diritti, devono essere informate su:
 
-- a.[^126-2] lo scopo dei sistemi d’informazione;
-- b. i dati trattati e i destinatari regolari;
-- c. i loro diritti.
+- a. l’identità e i dati di contatto del titolare;
+- b. lo scopo dei sistemi d’informazione;
+- c. i dati trattati;
+- d. se del caso, i destinatari o le categorie di destinatari i cui dati personali sono comunicati;
+- e. i loro diritti.[^126-2]
 
 <sup>2</sup>
 
@@ -3047,7 +3049,7 @@ La persona interessata può esigere dai servizi d’elaborazione dei dati che:
 <sup>5</sup> Se diversi organi esecutivi partecipano a un sistema d’informazione comune, uno di essi è designato quale responsabile dell’intero sistema.[^126-4]
 
 [^126-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^126-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
+[^126-2]: Nuovo testo giusta l’all. 2 n. II 122 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^126-3]: Abrogato dal n. I dell’O del 22 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 [^126-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 
@@ -3193,7 +3195,7 @@ Allegato[^t-2]
 
 ## Aumento del numero di indennità giornaliere nei Cantoni colpiti da una disoccupazione elevata
 
-[^t-2]: Introdotto dal n. I dell’O del 6 nov. 1996 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)). Aggiornato dai n. I delle O del 18 ago. 2010 ([RU 2010 3563](https://fedlex.data.admin.ch/eli/oc/2010/514)), del 17 set. 2010 ([RU 2010 4129](https://fedlex.data.admin.ch/eli/oc/2010/601)), del 20 ott. 2010 ([RU 2010 4799](https://fedlex.data.admin.ch/eli/oc/2010/682)), del 17 nov. 2010 ([RU 2010 5245](https://fedlex.data.admin.ch/eli/oc/2010/751)) e del 10 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6165](https://fedlex.data.admin.ch/eli/oc/2010/881)).
+[^t-2]: Introdotto dal n. I dell’O del 6 nov. 1996 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)). Aggiornato dal n. I delle O del 18 ago. 2010 ([RU 2010 3563](https://fedlex.data.admin.ch/eli/oc/2010/514)), del 17 set. 2010 ([RU 2010 4129](https://fedlex.data.admin.ch/eli/oc/2010/601)), del 20 ott. 2010 ([RU 2010 4799](https://fedlex.data.admin.ch/eli/oc/2010/682)), del 17 nov. 2010 ([RU 2010 5245](https://fedlex.data.admin.ch/eli/oc/2010/751)) e del 10 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6165](https://fedlex.data.admin.ch/eli/oc/2010/881)).
 
 <table>
 <tr><td>Regione</td><td>Classe d’età</td><td>Aumento</td><td>Durata di validità</td></tr>
