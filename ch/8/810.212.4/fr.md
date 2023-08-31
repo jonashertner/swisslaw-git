@@ -3,11 +3,11 @@ sr: "810.212.4"
 title: "Ordonnance du 16 mars 2007 sur l'attribution d'organes destinés à une transplantation (Ordonnance sur l'attribution d'organes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/281"
 language: fr
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-281-20210401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-281-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/fr"
 
 (Ordonnance sur l’attribution d’organes)
 
-du 16 mars 2007 (Etat le 1<sup>er</sup> avril 2021)
+du 16 mars 2007 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -457,7 +457,7 @@ Il documente chaque décision en rendant compte:
 
 <sup>2</sup> Si une transplantation n’a pas pu être effectuée ou qu’elle a échoué, le centre de transplantation en indique les raisons au service national des attributions.
 
-## Chapitre 3*a***** Swiss Organ Allocation System
+## Chapitre 3*a* Swiss Organ Allocation System
 
 [^chap3a-1]
 
@@ -513,7 +513,7 @@ SOAS contient les données:
 
 **Tâches de l’OFSP**
 
-<sup>1</sup> En sa qualité de maître du fichier, l’OFSP est responsable de SOAS. Il veille à la sécurité de SOAS et à ce que les données personnelles soient traitées en toute légalité.
+<sup>1</sup> L’OFSP est responsable de SOAS.[^34c-1] Il veille à la sécurité de SOAS et à ce que les données personnelles soient traitées en toute légalité.
 
 <sup>2</sup>
 
@@ -525,6 +525,8 @@ Ses tâches sont les suivantes:
 - d. il assiste le service national des attributions en cas de problèmes d’application;
 - e. il élabore des statistiques sur le don, l’attribution et la transplantation d’organes;
 - f. il vérifie périodiquement que les décisions d’attribution respectent les dispositions légales.
+
+[^34c-1]: Nouvelle teneur selon l’annexe 2 ch. II 94 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 34d
 
@@ -633,14 +635,15 @@ Le service national des attributions est habilité, dans le cadre d’une offre 
 
 La sécurité des données est régie par:
 
-- a. les art. 20 et 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^34i-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^34i-2].[^34i-3]
+- a.[^34i-1] les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^34i-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^34i-3].[^34i-4]
 
 <sup>2</sup> Les accès à SOAS sont documentés.
 
-[^34i-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34i-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34i-3]: Nouvelle teneur selon l’annexe ch. 30 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34i-1]: Nouvelle teneur selon l’annexe 2 ch. II 94 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34i-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34i-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34i-4]: Nouvelle teneur selon l’annexe ch. 30 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 34j
 

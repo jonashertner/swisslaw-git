@@ -3,11 +3,11 @@ sr: "810.212.4"
 title: Verordnung vom 16. März 2007 über die Zuteilung von Organen zur Transplantation (Organzuteilungsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/281"
 language: de
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2007-281-20210401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-281-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/de"
 
 (Organzuteilungsverordnung)
 
-vom 16. März 2007 (Stand am 1. April 2021) (Stand am 1. April 2021)
+vom 16. März 2007 (Stand am 1. September 2023) (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -128,7 +128,7 @@ Die Transplantationszentren müssen die Nationale Zuteilungsstelle unverzüglich
 - a. sich Daten nach Absatz 3 ändern;
 - b. bei einer aufgenommenen Patientin oder einem aufgenommenen Patienten vorübergehende Kontraindikationen für eine Transplantation bestehen oder nicht mehr bestehen.
 
-<sup>5</sup> ...[^7-1]
+<sup>5</sup> …[^7-1]
 
 [^7-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 15. Nov. 2017 ([AS 2017 5663](https://fedlex.data.admin.ch/eli/oc/2017/610)).
 
@@ -457,7 +457,7 @@ Sie führt über jeden Entscheid Akten. Diese müssen enthalten:
 
 <sup>2</sup> Konnte die Transplantation nicht durchgeführt werden oder ist sie erfolglos geblieben, so muss das Transplantationszentrum der Nationalen Zuteilungsstelle die Gründe dafür mitteilen.
 
-## 3*a*. Kapitel:**** Swiss Organ Allocation System
+## 3*a*. Kapitel: Swiss Organ Allocation System
 
 [^chap3a-1]
 
@@ -511,7 +511,7 @@ Das SOAS enthält die Daten:
 
 **Aufgaben des BAG**
 
-<sup>1</sup> Das BAG trägt als Inhaber der Datenbank die Verantwortung für das SOAS. Es ist für die Sicherheit des SOAS und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
+<sup>1</sup> Das BAG trägt die Verantwortung für das SOAS.[^34c-1] Es ist für die Sicherheit des SOAS und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
 
 <sup>2</sup>
 
@@ -523,6 +523,8 @@ Es hat folgende Aufgaben:
 - d. Es unterstützt die Nationale Zuteilungsstelle bei der Lösung von Anwendungsproblemen.
 - e. Es erstellt Statistiken zur Spende, Zuteilung und Transplantation von Organen.
 - f. Es überprüft periodisch, ob die Zuteilungsentscheide den gesetzlichen Vorschriften entsprechen.
+
+[^34c-1]: Fassung gemäss Anhang 2 Ziff. II 94 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 34d
 
@@ -631,14 +633,15 @@ Die Nationale Zuteilungsstelle kann im Rahmen eines Organangebots an das Ausland
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. die Artikel 20 und 21 der Verordnung vom 14. Juni 1993[^34i-1] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^34i-2].[^34i-3]
+- a.[^34i-1] die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^34i-2];
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^34i-3].[^34i-4]
 
 <sup>2</sup> Die Zugriffe auf das SOAS werden protokolliert.
 
-[^34i-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34i-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34i-3]: Fassung gemäss Anhang Ziff. 30 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34i-1]: Fassung gemäss Anhang 2 Ziff. II 94 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34i-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34i-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34i-4]: Fassung gemäss Anhang Ziff. 30 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 34j
 

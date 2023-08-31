@@ -3,11 +3,11 @@ sr: "810.212.4"
 title: "Ordinanza del 16 marzo 2007 concernente l'attribuzione di organi per il trapianto (Ordinanza sull'attribuzione di organi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/281"
 language: it
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2007-281-20210401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-281-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/it"
 
 (Ordinanza sull’attribuzione di organi)
 
-del 16 marzo 2007 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 16 marzo 2007 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -457,7 +457,7 @@ Il servizio nazionale di attribuzione per ogni decisione allestisce una pratica,
 
 <sup>2</sup> Se un trapianto non ha potuto essere effettuato o non ha avuto successo, il centro di trapianto ne comunica le ragioni al servizio nazionale di attribuzione.
 
-## Capitolo 3*a*:**** Swiss Organ Allocation System
+## Capitolo 3*a*: Swiss Organ Allocation System
 
 [^chap3a-1]
 
@@ -511,7 +511,7 @@ SOAS contiene i dati:
 
 **Compiti dell’UFSP**
 
-<sup>1</sup> In qualità di detentore della banca dati, l’UFSP è responsabile di SOAS. Risponde della sicurezza di SOAS e della legittimità del trattamento dei dati personali.
+<sup>1</sup> L’UFSP è titolare di SOAS.[^34c-1] Risponde della sicurezza di SOAS e della legittimità del trattamento dei dati personali.
 
 <sup>2</sup>
 
@@ -523,6 +523,8 @@ Ha i seguenti compiti:
 - d. fornisce supporto al servizio nazionale di attribuzione nella risoluzione di problemi di applicazione;
 - e. allestisce statistiche riguardanti la donazione, l’attribuzione e il trapianto di organi;
 - f. verifica periodicamente se le decisioni di attribuzione sono conformi alle prescrizioni legali.
+
+[^34c-1]: Nuovo testo giusta l’all. 2 n. II 94 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 34d
 
@@ -629,16 +631,18 @@ Il servizio nazionale di attribuzione può, in caso di offerta di organi all’e
 
 <sup>1</sup>
 
-Per garantire la sicurezza dei dati si applicano:
+La sicurezza dei dati è disciplinata:[^34i-1]
 
-- a. gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^34i-1] relativa alla legge federale sulla protezione dei dati;
-- b. l’ordinanza del 27 maggio 2020[^34i-2] sui ciber-rischi.[^34i-3]
+- a.[^34i-2] dagli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^34i-3] sulla protezione dei dati;
+- b. l’ordinanza del 27 maggio 2020[^34i-4] sui ciber-rischi.[^34i-5]
 
 <sup>2</sup> Gli accessi a SOAS sono verbalizzati.
 
-[^34i-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34i-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34i-3]: Nuovo testo giusta l’all. n. 30 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34i-1]: Nuovo testo giusta l’all. 2 n. II 94 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34i-2]: Nuovo testo giusta l’all. 2 n. II 94 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34i-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34i-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34i-5]: Nuovo testo giusta l’all. n. 30 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 34j
 
