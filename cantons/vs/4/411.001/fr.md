@@ -4,13 +4,12 @@ number: "411.001"
 title: "Ordonnance concernant la loi sur l'enseignement primaire"
 short: OLEP
 language: fr
-version: 2021-08-01
-valid_until: 2023-08-31
-version_adopted: 2021-07-05
+version: 2023-09-01
+version_adopted: 2024-07-03
 adopted: 2015-02-11
 in_force: 2015-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/411.001"
-pdf: "https://lex.vs.ch/api/fr/versions/2931/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3337/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2931/pdf_file"
 
 (OLEP)
 
-du 11.02.2015 (état 01.08.2021)
+du 11.02.2015 (état 01.09.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -175,9 +174,15 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Le titulaire garde l'entière responsabilité de l'ensemble des élèves de sa classe, également lors d'interventions pour le soutien et l'appui pédagogique, les stages en responsabilité pour les étudiants (HEP) ou d'autres formes d'aide, selon les cadres pédagogiques et organisationnels définis par le Département.
 
-<sup>4</sup> Pour l'ensemble des tâches émargeant du cahier des charges ordinaire de tout enseignant, le titulaire désigné est défrayé d'un montant annuel de 1'440 francs correspondant à une demi-période d'enseignement (Fr. 5'910.65 / 32 x 0.5 x 130% =Fr. 120.05 par mois / Fr. 120.05 X 12 = Fr. 1'440.60 par année).
+<sup>4</sup> Le titulaire désigné reçoit une indemnité correspondant au montant annuel d’une période d'enseignement calculée sur 12 mois et sur un taux de 130 pour cent (moyenne des parts d'expérience).
 
-<sup>5</sup> Le remplaçant du titulaire peut recevoir ledit défraiement dès la 20e semaine, soit 1/38e pour chaque semaine supplémentaire.
+<sup>5</sup> Si le titulaire est absent pendant une durée inférieure à 5 semaines effectives et consécutives, il n’est pas procédé à une réduction de son indemnité prévue à l’alinéa 4 du présent article. En cas d’absence totale du titulaire supérieure ou égale à 5 semaines effectives et consécutives, une réduction de son indemnité est effectuée au prorata de la durée de son absence. Si l’absence du titulaire est partielle durant cette même période, une réduction de l’indemnité versée au titulaire peut être effectuée au prorata de la durée de son absence selon la validation effectuée par la Direction d’école.
+
+<sup>6</sup> Le remplaçant du titulaire peut bénéficier de ladite indemnité lorsqu’il a effectué 5 semaines effectives et consécutives ou plus d’activité d’enseignement complètes selon le plan de scolarité et qu’il a effectivement assumé la tâche de titulariat. La Direction d’école doit valider que le remplaçant a effectué cette tâche et préciser la durée de celle-ci. L’indemnité versée au remplaçant est calculée selon la validation effectuée par la Direction d’école. Les remplacements de titulariat inférieurs à 5 semaines effectives et consécutives ne donnent pas droit à l’indemnité. L’indemnité partielle servie au remplaçant et celle octroyée au titulaire ne peuvent pas dépasser une indemnité annuelle complète.
+
+<sup>7</sup> Les directions d’école doivent mensuellement valider, respectivement fournir les renseignements qui leur incombent en vertu du présent article, et ce dans les mêmes délais que ceux qui prévalent pour la validation des décomptes de remplacement.
+
+<sup>8</sup> L’indemnité est versée après la fin de l’année scolaire.
 
 #### Art. 15
 

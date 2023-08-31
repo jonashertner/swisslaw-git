@@ -4,13 +4,12 @@ number: "411.001"
 title: Verordnung betreffend das Gesetz über die Primarschule
 short: VGPS
 language: de
-version: 2021-08-01
-valid_until: 2023-08-31
-version_adopted: 2021-07-05
+version: 2023-09-01
+version_adopted: 2024-07-03
 adopted: 2015-02-11
 in_force: 2015-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/411.001"
-pdf: "https://lex.vs.ch/api/de/versions/2931/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3337/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2931/pdf_file"
 
 (VGPS)
 
-vom 11.02.2015 (Stand 01.08.2021)
+vom 11.02.2015 (Stand 01.09.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -175,9 +174,15 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Die Klassenlehrperson trägt die volle Verantwortung für die Gesamtheit der Schüler ihrer Klasse auch bei Interventionen wie Stützunterricht, pädagogische Schülerhilfe, Praktika von Studierenden (PH) oder andere Hilfsformen, gemäss dem vom Departement definierten pädagogischen und organisatorischen Rahmen.
 
-<sup>4</sup> Für sämtliche Aufgaben, die das ordentliche Pflichtenheft einer Lehrperson übersteigen, erhält die Klassenlehrperson jährlich einen Betrag von 1'440 Franken, der einer halben Unterrichtslektion entspricht (Fr. 5'910.65 / 32 x 0.5 x 130% = Fr. 120.05 pro Monat / Fr. 120.05 X 12 = Fr. 1'440.60 pro Jahr).
+<sup>4</sup> Die Klassenlehrperson erhält eine Entschädigung, die dem jährlichen Betrag einer Unterrichtslektion entspricht, der auf Basis von 12 Monaten mit einem Satz von 130 Prozent berechnet wird (Durchschnitt der Erfahrungsanteile).
 
-<sup>5</sup> Der Stellvertreter der Klassenlehrperson kann die erwähnte Vergütung ab der 20. Woche erhalten, d. h. 1/38 für jede zusätzliche Woche.
+<sup>5</sup> Wenn die Klassenlehrperson während weniger als 5 aufeinanderfolgenden effektiven Wochen abwesend ist, wird die in Absatz 4 dieses Artikels vorgesehene Entschädigung nicht gekürzt. Wenn die Klassenlehrperson während 5 aufeinanderfolgenden effektiven Wochen oder länger vollständig abwesend ist, wird die Entschädigung im Verhältnis zur Dauer ihrer Abwesenheit gekürzt. Wenn die Klassenlehrperson während dieser Zeit nur teilweise abwesend ist, kann die Entschädigung für die Klassenlehrperson trotzdem im Verhältnis zur Dauer ihrer Abwesenheit gekürzt werden, je nach Entscheid der Schuldirektion.
+
+<sup>6</sup> Der Stellvertreter der Klassenlehrperson hat Anspruch auf die erwähnte Entschädigung, wenn er während 5 aufeinanderfolgenden effektiven Wochen oder länger gemäss Schul- und Ferienplan unterrichtet und die Aufgabe der Klassenlehrperson tatsächlich übernommen hat. Die Schuldirektion muss validieren, dass der Stellvertreter diese Aufgabe wahrgenommen hat, und die Dauer davon angeben. Die Entschädigung für den Stellvertreter wird nach der von der Schuldirektion vorgenommenen Validierung berechnet. Für Stellvertretungen von Klassenlehrpersonen während weniger als 5 aufeinanderfolgenden effektiven Wochen wird keine Entschädigung gezahlt. Die Teilentschädigung für den Stellvertreter und diejenige für die Klassenlehrperson dürfen zusammen eine volle Jahresentschädigung nicht übersteigen.
+
+<sup>7</sup> Die Schuldirektionen müssen monatlich die Validierungen, beziehungsweise die Auskünfte, erteilen, zu denen sie gemäss diesem Artikel verpflichtet sind, und dies innerhalb der gleichen Frist wie die Validierung der Abrechnungen für Stellvertretungen.
+
+<sup>8</sup> Die Entschädigung wird nach Ende des Schuljahres überwiesen.
 
 #### Art. 15
 
