@@ -4,11 +4,11 @@ title: Legge federale del 22 marzo 1974 sul diritto penale amministrativo (DPA)
 short: DPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1974-03-22
 in_force: 1975-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/it"
 
 (DPA)
 
-del 22 marzo 1974 (Stato 1° luglio 2023)
+del 22 marzo 1974 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -240,6 +240,49 @@ chiunque contribuisce ad assicurare all’autore o a un compartecipe i profitti 
 #### Art. 18
 
 Gli organismi con compiti di diritto pubblico e i loro organi o mandatari, in quanto debbano applicare la legislazione amministrativa della Confederazione, sono equiparati, negli articoli 14 a 17, all’ente pubblico e alla sua amministrazione.
+
+### Capo terzo: Protezione di dati personali
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Introdotto dall’all. 1 n. II 27 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### A. Raccolta di dati personali
+
+#### Art. 18a
+
+<sup>1</sup> I dati personali sono raccolti presso l’interessato oppure in modo per questi ravvisabile, sempreché il procedimento non ne risulti compromesso o sia reso sproporzionatamente oneroso.
+
+<sup>2</sup> Se sono raccolti dati personali a sua insaputa, l’interessato deve esserne immediatamente informato. Si può rinunciare all’informazione o differirla se lo esigono interessi pubblici o privati preponderanti.
+
+### B. Trattamento di dati personali
+
+#### Art. 18b
+
+Quando tratta dati personali, l’autorità amministrativa della Confederazione provvede a distinguere nella misura del possibile:
+
+- a. le diverse categorie di persone interessate;
+- b. i dati personali fondati su fatti da quelli fondati su valutazioni personali.
+
+### C. Comunicazione e utilizzazione in procedimenti pendenti
+
+#### Art. 18c
+
+Se è presumibile che possano fornire chiarimenti essenziali, l’autorità amministrativa della Confederazione può comunicare i dati personali relativi a un procedimento penale amministrativo pendente affinché siano utilizzati in un altro procedimento pendente.
+
+### D. Diritti d’informazione in pendenza del procedimento
+
+#### Art. 18d
+
+Fintanto che il procedimento è pendente, le parti e gli altri partecipanti al procedimento hanno diritto di essere informati sui dati personali trattati che li concernono, conformemente al diritto loro spettante di esaminare gli atti.
+
+### E. Esattezza dei dati personali
+
+#### Art. 18e
+
+<sup>1</sup> L’autorità amministrativa della Confederazione rettifica senza indugio i dati personali inesatti.
+
+<sup>2</sup> Avvisa senza indugio dell’avvenuta rettifica l’autorità che le ha trasmesso o messo a disposizione i dati personali o alla quale li ha comunicati.
 
 ## Titolo terzo: Procedura penale amministrativa
 

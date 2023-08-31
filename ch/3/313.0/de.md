@@ -4,11 +4,11 @@ title: Bundesgesetz vom 22. März 1974 über das Verwaltungsstrafrecht (VStrR)
 short: VStrR
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1974-03-22
 in_force: 1975-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/de"
 
 (VStrR)
 
-vom 22. März 1974 (Stand am 1. Juli 2023)
+vom 22. März 1974 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -240,6 +240,49 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 #### Art. 18
 
 Soweit mit öffentlich-rechtlichen Aufgaben betraute Organisationen und ihre Organe oder Beauftragten die Verwaltungsgesetzgebung des Bundes anzuwenden haben, stehen sie in den Artikeln 14–17 dem Gemeinwesen und seiner Verwaltung gleich.
+
+### Dritter Abschnitt: Schutz von Personendaten
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Eingefügt durch Anhang 1 Ziff. II 27 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### A. Beschaffung von Personendaten
+
+#### Art. 18a
+
+<sup>1</sup> Personendaten sind bei der betroffenen Person oder für diese erkennbar zu beschaffen, wenn dadurch das Verfahren nicht gefährdet oder unverhältnismässig aufwendig wird.
+
+<sup>2</sup> Erfolgte die Beschaffung von Personendaten ohne Wissen der betroffenen Person, so ist diese umgehend darüber zu informieren. Die Information kann zum Schutz überwiegender öffentlicher oder privater Interessen unterlassen oder aufgeschoben werden.
+
+### B. Bearbeitung von Personendaten
+
+#### Art. 18b
+
+Bei der Bearbeitung von Personendaten sorgt die Verwaltungsbehörde des Bundes dafür, dass sie so weit wie möglich unterscheidet:
+
+- a. zwischen den verschiedenen Kategorien betroffener Personen;
+- b. zwischen auf Tatsachen und auf persönlichen Einschätzungen beruhenden Personendaten.
+
+### C. Bekanntgabe und Verwendung von Personendaten bei hängigem Verfahren
+
+#### Art. 18c
+
+Die Verwaltungsbehörde des Bundes darf Personendaten aus einem hängigen Verwaltungsstrafverfahren zur Verwendung in einem anderen hängigen Verfahren bekannt geben, wenn anzunehmen ist, dass die Personendaten wesentliche Aufschlüsse geben können.
+
+### D. Auskunftsrecht bei hängigem Verfahren
+
+#### Art. 18d
+
+Solange ein Verfahren hängig ist, haben die Parteien und die anderen Verfahrensbeteiligten nach Massgabe des ihnen zustehenden Akteneinsichtsrechts das Recht auf Auskunft über die sie betreffenden Personendaten.
+
+### E. Richtigkeit der Personendaten
+
+#### Art. 18e
+
+<sup>1</sup> Die Verwaltungsbehörde des Bundes berichtigt unrichtige Personendaten unverzüglich.
+
+<sup>2</sup> Sie benachrichtigt die Behörde, die ihr die Personendaten übermittelt oder bereitgestellt oder der sie diese bekannt gegeben hat, unverzüglich über die Berichtigung.
 
 ## Dritter Titel: Verwaltungsstrafverfahren
 

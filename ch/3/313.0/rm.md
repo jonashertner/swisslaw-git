@@ -4,11 +4,11 @@ title: Lescha federala dals 22 da mars 1974 davart il dretg penal administrativ 
 short: DPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857"
 language: rm
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1974-03-22
 in_force: 1975-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (DPA)
 
-dals 22 da mars 1974 (versiun dal 1. da fanadur 2023)
+dals 22 da mars 1974 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -242,6 +242,49 @@ vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 #### Art. 18
 
 Uschenavant che organisaziuns incaricadas cun incumbensas da dretg public e lur organs u mandataris ston applitgar la legislaziun administrativa federala, han els, en ils artitgels 14–17, la medema posiziun sco la communitad e sia administraziun.
+
+### Terz chapitel: Protecziun da datas persunalas
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Integrà tras la cifra II 27 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### A. Procuraziun da datas persunalas
+
+#### Art. 18a
+
+<sup>1</sup> Las datas persunalas ston vegnir procuradas tar la persuna pertutgada u en ina moda ch’è visibla per ella, sche quai na periclitescha betg la procedura u na chaschuna betg in volumen da lavur sproporziunà.
+
+<sup>2</sup> Sche las datas persunalas èn vegnidas procuradas senza che la persuna pertutgada saveva quai, sto ella vegnir infurmada immediatamain en chaussa. Per proteger interess publics u privats predominants po l’infurmaziun vegnir tralaschada u suspendida.
+
+### B. Elavuraziun da datas persunalas
+
+#### Art. 18b
+
+Cura che l’autoritad administrativa da la Confederaziun elavura datas persunalas, guarda ella da distinguer uschè bain sco pussaivel:
+
+- a. tranter las differentas categorias da persunas pertutgadas;
+- b. tranter datas persunalas che sa basan sin fatgs e datas persunalas che sa basan sin valitaziuns persunalas.
+
+### C. Communicaziun ed utilisaziun da datas persunalas en cas da proceduras pendentas
+
+#### Art. 18c
+
+L’autoritad administrativa da la Confederaziun dastga communitgar datas persunalas d’ina procedura penala administrativa pendenta per utilisar quellas en in’autra procedura pendenta, sch’igl è da supponer che las datas persunalas possian furnir infurmaziuns essenzialas.
+
+### D. Dretg da survegnir infurmaziuns en cas da proceduras pendentas
+
+#### Art. 18d
+
+Uschè ditg ch’ina procedura è pendenta, han las partidas e las autras persunas participadas a la procedura il dretg da vegnir infurmadas davart las datas persunalas che las concernan, quai a norma da lur dretg da prender invista da las actas.
+
+### E. Correctadad da las datas persunalas
+
+#### Art. 18e
+
+<sup>1</sup> L’autoritad administrativa da la Confederaziun rectifitgescha immediatamain datas persunalas incorrectas.
+
+<sup>2</sup> Davart questa rectificaziun infurmescha ella immediatamain l’autoritad, la quala ha transmess u mess a disposiziun las datas persunalas u a la quala ella ha communitgà questas datas.
 
 ## Terz titel: Procedura penala administrativa
 

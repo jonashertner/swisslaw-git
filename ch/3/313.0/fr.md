@@ -4,11 +4,11 @@ title: Loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)
 short: DPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1974-03-22
 in_force: 1975-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/fr"
 
 (DPA)
 
-du 22 mars 1974 (État le 1<sup>er</sup> juillet 2023)
+du 22 mars 1974 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -247,6 +247,49 @@ est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 #### Art. 18
 
 Dans la mesure où des organisations chargées de tâches de droit public et leurs organes ou mandataires doivent appliquer la législation administrative fédérale, elles sont assimilées, dans les art. 14 à 17, aux pouvoirs publics et à leurs administrations.
+
+### Chapitre troisième: Protection des données personnelles
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Introduit par l’annexe 1 ch. II 27 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### A. Collecte de données personnelles
+
+#### Art. 18a
+
+<sup>1</sup> Des données personnelles peuvent être collectées auprès de la personne concernée ou de façon reconnaissable pour elle, à moins que la procédure n’en soit mise en péril ou qu’il n’en résulte un volume de travail disproportionné.
+
+<sup>2</sup> Si des données personnelles sont collectées à l’insu de la personne concernée, celle-ci doit en être informée sans délai. L’autorité peut renoncer à cette information ou l’ajourner si un intérêt public ou privé prépondérant l’exige.
+
+### B. Traitement de données personnelles
+
+#### Art. 18b
+
+Lorsque l’autorité administrative fédérale traite des données personnelles, elle veille à distinguer dans la mesure du possible:
+
+- a. les différentes catégories de personnes concernées;
+- b. les données personnelles fondées sur des faits de celles fondées sur des appréciations personnelles.
+
+### C. Communication et utilisation de données personnelles dans le cadre d’une procédure pendante
+
+#### Art. 18c
+
+L’autorité administrative fédérale peut communiquer des données personnelles relevant d’une procédure pénale administrative pendante pour permettre leur utilisation dans le cadre d’une autre procédure pendante, lorsqu’il y a lieu de présumer que ces données personnelles contribueront dans une notable mesure à l’élucidation des faits.
+
+### D. Droit aux renseignements dans le cadre d’une procédure pendante
+
+#### Art. 18d
+
+Tant que la procédure est pendante, les parties et les autres participants à la procédure peuvent, dans les limites de leur droit de consulter le dossier, obtenir les données personnelles qui les concernent.
+
+### E. Exactitude des données personnelles
+
+#### Art. 18e
+
+<sup>1</sup> L’autorité administrative fédérale rectifie sans retard les données personnelles inexactes.
+
+<sup>2</sup> Elle informe immédiatement de la rectification de ces données l’autorité qui les lui a transmises ou qui les a mises à sa disposition ou à laquelle elles ont été communiquées.
 
 ## Titre troisième: Procédure pénale administrative
 
