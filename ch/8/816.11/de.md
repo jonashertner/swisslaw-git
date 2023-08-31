@@ -4,11 +4,11 @@ title: Verordnung vom 22. März 2017 über das elektronische Patientendossier (E
 short: EPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-204-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-204-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/de"
 
 (EPDV)
 
-vom 22. März 2017 (Stand am 1. Januar 2022)
+vom 22. März 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -131,7 +131,7 @@ Die Stammgemeinschaft stellt der ZAS folgende Daten für die Vergabe der Patient
 
 **Objektidentifikator und Verwaltung**
 
-<sup>1</sup> Gemeinschaften müssen beim Dienst zur Abfrage der Objektindentifikatoren (OID) nach Artikel 42 für sich sowie für die ihnen angehörenden Gesundheitseinrichtungen einen OID beantragen.
+<sup>1</sup> Gemeinschaften müssen beim Dienst zur Abfrage der Objektidentifikatoren (OID) nach Artikel 42 für sich sowie für die ihnen angehörenden Gesundheitseinrichtungen einen OID beantragen.
 
 <sup>2</sup>
 
@@ -194,7 +194,7 @@ Das EDI legt die Anforderungen an das Zugangsportal für Gesundheitsfachpersonen
 Gemeinschaften müssen ein risikogerechtes Datenschutz- und Datensicherheitsmanagementsystem betreiben. Dieses muss insbesondere folgende Elemente umfassen:
 
 - a. ein System zur Erkennung von und zum Umgang mit Sicherheitsvorfällen;
-- b. ein Inventar der Informatikmittel und Datensammlungen;
+- b.[^12-1] ein Inventar der Informatikmittel und ein Verzeichnis der Bearbeitungstätigkeiten;
 - c. die Datenschutz- und Datensicherheitsanforderungen an die angeschlossenen Gesundheitseinrichtungen und Dritte.
 
 <sup>2</sup> Die Gemeinschaften bezeichnen eine Datenschutz- und Datensicherheitsverantwortliche oder einen Datenschutz- und Datensicherheitsverantwortlichen.
@@ -204,6 +204,8 @@ Gemeinschaften müssen ein risikogerechtes Datenschutz- und Datensicherheitsmana
 <sup>4</sup> Das EDI legt die technischen und organisatorischen Anforderungen in Bezug auf Datenschutz und Datensicherheit fest.
 
 <sup>5</sup> Die Datenspeicher müssen sich in der Schweiz befinden und dem Schweizer Recht unterstehen.
+
+[^12-1]: Fassung gemäss Anhang 2 Ziff. II 106 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 

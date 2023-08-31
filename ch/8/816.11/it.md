@@ -4,11 +4,11 @@ title: Ordinanza del 22 marzo 2017 sulla cartella informatizzata del paziente (O
 short: OCIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-204-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-204-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/it"
 
 (OCIP)
 
-del 22 marzo 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 22 marzo 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -194,7 +194,7 @@ Il DFI stabilisce i requisiti che deve soddisfare il portale d’accesso per i p
 Le comunità devono dotarsi di un sistema di gestione della protezione e della sicurezza dei dati adeguato ai rischi. Tale sistema deve in particolare comprendere i seguenti elementi:
 
 - a. un sistema di monitoraggio e gestione degli incidenti relativi alla sicurezza;
-- b. un registro dei mezzi informatici e delle raccolte di dati;
+- b.[^12-1] un registro dei mezzi informatici e delle attività di trattamento;
 - c. i requisiti in materia di protezione e sicurezza dei dati che le strutture sanitarie affiliate e i terzi devono soddisfare.
 
 <sup>2</sup> Le comunità designano un responsabile della protezione e della sicurezza dei dati.
@@ -204,6 +204,8 @@ Le comunità devono dotarsi di un sistema di gestione della protezione e della s
 <sup>4</sup> Il DFI stabilisce i requisiti tecnici e organizzativi in materia di protezione e sicurezza dei dati.
 
 <sup>5</sup> I supporti di memoria dei dati devono trovarsi in Svizzera e sottostare al diritto svizzero.
+
+[^12-1]: Nuovo testo giusta l’all. 2 n. II 106 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 

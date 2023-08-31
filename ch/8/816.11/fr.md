@@ -4,11 +4,11 @@ title: Ordonnance du 22 mars 2017 sur le dossier électronique du patient (ODEP)
 short: ODEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-204-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-204-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/fr"
 
 (ODEP)
 
-du 22 mars 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 22 mars 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -194,7 +194,7 @@ Le DFI fixe les exigences applicables au portail d’accès destiné aux profess
 Les communautés doivent se doter d’un système de gestion de la protection et de la sécurité des données adapté aux risques. Ce système doit comprendre les éléments suivants en particulier:
 
 - a. un système de détection et de gestion des incidents de sécurité;
-- b. un inventaire des moyens informatiques et des recueils de données;
+- b.[^12-1] un inventaire des moyens informatiques et un registre des activités de traitement;
 - c. les exigences relatives à la protection et à la sécurité des données imposées aux institutions de santé et aux tiers affiliés à la communauté.
 
 <sup>2</sup> Les communautés désignent un responsable de la protection et de la sécurité des données.
@@ -204,6 +204,8 @@ Les communautés doivent se doter d’un système de gestion de la protection et
 <sup>4</sup> Le DFI fixe les exigences techniques et organisationnelles applicables à la protection et à la sécurité des données.
 
 <sup>5</sup> Les supports de données doivent se trouver en Suisse et être régis par le droit suisse.
+
+[^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 106 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -560,7 +562,7 @@ Les communautés et les communautés de référence saisissent les données suiv
 
   - 1\. leur désignation et leur adresse,
   - 2\. leur OID,
-  - 3\.[^41-1] ...
+  - 3\.[^41-1] …
 
 - b.
 
