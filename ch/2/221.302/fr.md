@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur l'agrément et la surveillance d
 short: LSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: fr
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-533-20200101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-533-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20200101/fr"
 
 (Loi sur la surveillance de la révision, LSR)
 
-du 16 décembre 2005 (Etat le 1<sup>er</sup> janvier 2020)
+du 16 décembre 2005 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -126,7 +126,7 @@ Une entreprise de révision est agréée en qualité d’expert-réviseur ou de 
 
 [^6-1]: [RO 2008 757](https://fedlex.data.admin.ch/eli/oc/2008/187)
 
-## Section 3 Dispositions spéciales régissant l’agrément des entreprises qui fournissent des prestations en matière de révision à des sociétés d’intérêt public****
+## Section 3 Dispositions spéciales régissant l’agrément des entreprises qui fournissent des prestations en matière de révision à des sociétés d’intérêt public
 
 [^sec3-1]
 
@@ -338,6 +338,16 @@ Les personnes et les entreprises ci-après fournissent à l’autorité de surve
 <sup>2</sup> Les personnes et les entreprises visées à l’al. 1, let. a et b, communiquent, immédiatement et par écrit, à l’autorité de surveillance tout événement important pour l’agrément ou pour la surveillance.
 
 [^15a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 15b
+
+**Traitement de données personnelles et de données concernant des personnes morales**[^15b-1]
+
+Pour accomplir leurs tâches légales, l’autorité de surveillance peut traiter des données personnelles et des données concernant des personnes morales, y compris des données sensibles au sens de la loi fédérale du 25 septembre 2020 sur la protection des données[^15b-2] et des données sensibles concernant des personnes morales au sens de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^15b-3].
+
+[^15b-1]: Introduit par l’annexe 1 ch. II 21 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 16
 

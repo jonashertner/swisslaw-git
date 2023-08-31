@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Zulassung und Beaufsichtigu
 short: RAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: de
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2007-533-20200101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-533-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20200101/de"
 
 (Revisionsaufsichtsgesetz, RAG)
 
-vom 16. Dezember 2005 (Stand am 1. Januar 2020)
+vom 16. Dezember 2005 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -56,7 +56,7 @@ In diesem Gesetz gelten als:
 - b. *Revisionsunternehmen:* im Handelsregister eingetragene Einzelunternehmen, Personengesellschaften oder juristische Personen, die Revisionsdienstleistungen erbringen;
 - c.[^2-3]
 
-  *Gesellschaften des öffentli**chen Interesses:*
+  *Gesellschaften des öffentlichen Interesses:*
 
   - 1\. Publikumsgesellschaften im Sinne von Artikel 727 Absatz 1 Ziffer 1 des Obligationenrechts (OR)[^2-4],
   - 2\. Beaufsichtigte im Sinn von Artikel 3 FINMAG, die eine nach Artikel 9*a* des vorliegenden Gesetzes zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 FINMAG beauftragen müssen.
@@ -124,7 +124,7 @@ Ein Revisionsunternehmen wird als Revisionsexperte oder als Revisor zugelassen, 
 
 <sup>2</sup> Finanzkontrollen der öffentlichen Hand werden als Revisionsunternehmen zugelassen, wenn sie die Anforderungen nach Absatz 1 erfüllen. Die Zulassung als staatlich beaufsichtigte Revisionsunternehmen ist nicht möglich.
 
-## 3. Abschnitt: Besondere Bestimmungen über die Zulassung zur Erbringung von Revisionsdienstleistungen für Gesellschaften des öffentlichen Interesses****
+## 3. Abschnitt: Besondere Bestimmungen über die Zulassung zur Erbringung von Revisionsdienstleistungen für Gesellschaften des öffentlichen Interesses
 
 [^sec3-1]
 
@@ -218,7 +218,7 @@ Eine Person wird zur Leitung von Prüfungen nach Artikel 2 Buchstabe a Ziffer 2 
 <sup>5</sup> …[^9a-6]
 
 [^9a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^9a-2]: SR **9****56.1**
+[^9a-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^9a-3]: Aufgehoben durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^9a-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^9a-5]: Eingefügt durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -281,7 +281,7 @@ Sie gewährleisten bei den einzelnen Revisionsdienstleistungen insbesondere:
 
 <sup>2</sup> Staatlich beaufsichtigte Revisionsunternehmen müssen der Aufsichtsbehörde jederzeit Zutritt zu ihren Geschäftsräumen gewähren.
 
-[^13-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); BBl **201****3** 6857).
+[^13-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^13-2]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 14
@@ -336,6 +336,16 @@ Folgende Personen und Unternehmen müssen der Aufsichtsbehörde alle Auskünfte 
 <sup>2</sup> Die Personen und Unternehmen nach Absatz 1 Buchstaben a und b müssen der Aufsichtsbehörde überdies unverzüglich schriftlich Vorkommnisse melden, die für die Zulassung oder die Aufsicht relevant sind.
 
 [^15a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 15b
+
+**Bearbeitung von Personendaten und von Daten juristischer Personen**[^15b-1]
+
+Zur Erfüllung ihrer gesetzlichen Aufgabe kann die Aufsichtsbehörde Personendaten sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Personendaten im Sinne des Datenschutzgesetzes vom 25. September 2020[^15b-2] und besonders schützenswerter Daten juristischer Personen im Sinne des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^15b-3], bearbeiten.
+
+[^15b-1]: Eingefügt durch Anhang 1 Ziff. II 21 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15b-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 16
 
@@ -463,7 +473,7 @@ Die Strafverfolgungsbehörden melden der Aufsichtsbehörde sämtliche Verfahren,
 
 - a. die Artikel 146, 152, 153, 161, 166, 251, 253–255 und 321 des Strafgesetzbuches[^24-1];
 - b. Artikel 47 des Bankengesetzes vom 8. November 1934[^24-2];
-- [tab] c.[^24-3] Artikel 69 des Finanzinstitutsgesetzes vom 15. Juni 2018[^24-4];
+- c.[^24-3] Artikel 69 des Finanzinstitutsgesetzes vom 15. Juni 2018[^24-4];
 - d.[^24-5] Artikel 147 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^24-6].
 
 [^24-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -823,7 +833,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:[^40-1
 
 <sup>3</sup> Strafverfolgung und Beurteilung sind Sache der Kantone.
 
-[^40-1]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 (AS **2****006** 3459; BBl **1999** 1979).
+[^40-1]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^40-2]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^40-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^40-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)

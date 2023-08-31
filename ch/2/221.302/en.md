@@ -4,11 +4,11 @@ title: "Federal Act of 16 December 2005 on the Licensing and Oversight of Audito
 short: AOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: en
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2007-533-20200101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-533-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20200101/en"
 
 (Auditor Oversight Act, AOA)
 
-of 16 December 2005 (status as at 1 January 2020)
+of 16 December 2005 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -330,6 +330,16 @@ The following persons and companies must provide the Oversight Authority with al
 <sup>2</sup> Furthermore, persons and companies in accordance with paragraph 1 letters a and b must notify the Oversight Authority immediately in writing of incidents relevant to the licence or the oversight.
 
 [^15a-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 15b
+
+**Processing of personal data and data relating to legal entities**[^15b-1]
+
+In order to fulfil its statutory duty, the Oversight Authority may process personal data and data relating to legal entities, including sensitive personal data as defined in the Data Protection Act of 25 September 2020[^15b-2] and sensitive data relating to legal entities as defined in the Government and Administration Organisation Act of 21 March 1997[^15b-3].
+
+[^15b-1]: Inserted by Annex 1 No II 21 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15b-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 16
 

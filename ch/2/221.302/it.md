@@ -4,11 +4,11 @@ title: "Legge federale del 16 dicembre 2005 sull'abilitazione e la sorveglianza 
 short: LSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: it
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2007-533-20200101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-533-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20200101/it"
 
 (Legge sui revisori, LSR)
 
-del 16 dicembre 2005 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 16 dicembre 2005 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -125,7 +125,7 @@ Un’impresa di revisione è abilitata a esercitare la funzione di perito reviso
 
 <sup>2</sup> I servizi pubblici di controllo delle finanze sono abilitati a fungere da impresa di revisione se adempiono i requisiti di cui al capoverso 1. Non vengono però abilitati quale impresa di revisione sotto sorveglianza statale.
 
-## Sezione 3: Disposizioni particolari sull’abilitazione a fornire servizi di revisione per società di interesse pubblico****
+## Sezione 3: Disposizioni particolari sull’abilitazione a fornire servizi di revisione per società di interesse pubblico
 
 [^sec3-1]
 
@@ -316,7 +316,7 @@ L’autorità di sorveglianza decide, su domanda, in merito all’abilitazione d
 
 <sup>3</sup> Le persone fisiche e imprese di revisione registrate devono comunicare all’autorità di sorveglianza qualsiasi cambiamento dei fatti iscritti a registro.
 
-[^15-1]: Introdotta dal n. I della LF del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); FF **201****3** 5901).
+[^15-1]: Introdotta dal n. I della LF del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^15-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^15-3]: Introdotto dal n. I della LF del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
@@ -337,6 +337,16 @@ Le persone e le imprese seguenti devono fornire all’autorità di sorveglianza 
 <sup>2</sup> Le persone e le imprese di cui al capoverso 1 lettere a e b devono notificare senza indugio all’autorità di sorveglianza, in forma scritta, i fatti importanti concernenti l’abilitazione o la sorveglianza.
 
 [^15a-1]: Introdotto dal n. I della LF del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 15b
+
+**Trattamento di dati personali e di dati concernenti persone giuridiche**[^15b-1]
+
+Per l’adempimento dei suoi compiti legali, l’autorità di sorveglianza può trattare dati personali e dati concernenti persone giuridiche, compresi dati personali degni di particolare protezione ai sensi della legge federale del 25 settembre 2020[^15b-2] sulla protezione dei dati e dati concernenti persone giuridiche degni di particolare protezione ai sensi della legge del 21 marzo 1997[^15b-3] sull’organizzazione del Governo e dell’Amministrazione.
+
+[^15b-1]: Introdotto dall’all. 1 n. II 21 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 16
 
@@ -735,7 +745,7 @@ L’autorità di sorveglianza è responsabile soltanto se:
 <sup>2bis</sup> La responsabilità delle società di audit incaricate conformemente all’articolo 24 capoverso 1 lettera a LFINMA[^36a-3] sono rette dalle disposizioni del diritto della società anonima (art. 752–760 CO[^36a-4]).[^36a-5]
 
 [^36a-1]: Introdotto dall’all. n. 3 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^36a-2]: RS **170.3****2**
+[^36a-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 [^36a-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^36a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^36a-5]: Introdotto dal n. I della LF del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
@@ -881,7 +891,7 @@ Le imprese di revisione che forniscono servizi di revisione per le società di c
 - a. disporre dell’abilitazione a esercitare la funzione di impresa di revisione sotto sorveglianza statale, se per esse l’obbligo d’abilitazione non viene a cadere;
 - b. annunciarsi presso l’autorità di sorveglianza o garantire che gli investitori sono esplicitamente resi attenti al fatto che esse non sottostanno alla sorveglianza statale, se per esse l’obbligo d’abilitazione viene a cadere.
 
-[^43b-1]: Introdotto dal n. I della LF del 30 set. 2016 (Campo d’applicazione extraterritoriale della sorveglianza dei revisori), in vigore dal 1° ott. 2017 ([RU 2017 4859](https://fedlex.data.admin.ch/eli/oc/2017/527); FF **201****5** 4717).
+[^43b-1]: Introdotto dal n. I della LF del 30 set. 2016 (Campo d’applicazione extraterritoriale della sorveglianza dei revisori), in vigore dal 1° ott. 2017 ([RU 2017 4859](https://fedlex.data.admin.ch/eli/oc/2017/527); [FF 2015 4717](https://fedlex.data.admin.ch/eli/fga/2015/1316)).
 
 #### Art. 44
 
