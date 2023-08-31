@@ -4,13 +4,13 @@ number: 600a
 title: Verordnung zum Gesetz über die Steuerung der Finanzen und Leistungen
 short: FLV
 language: de
-version: 2022-11-01
-valid_until: 2023-08-31
-version_adopted: 2022-09-27
+version: 2023-09-01
+valid_until: 2024-12-31
+version_adopted: 2023-08-29
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/600a"
-pdf: "https://srl.lu.ch/api/de/versions/3967/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4127/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3967/pdf_file"
 
 (FLV)
 
-vom 17.12.2010 (Stand 01.11.2022)
+vom 17.12.2010 (Stand 01.09.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -41,7 +41,7 @@ beschliesst:
 
 <sup>2</sup> Auf die Universität, die Pädagogische Hochschule Luzern, die Lustat Statistik Luzern und die Landwirtschaftliche Kreditkasse des Kantons Luzern kommt die Verordnung sinngemäss zur Anwendung.
 
-<sup>3</sup> Für das Luzerner Kantonsspital, die Luzerner Psychiatrie und den Verkehrsverbund Luzern gilt Teil 4 der Verordnung, soweit dies für die Erstellung der konsolidierten Rechnung erforderlich ist.
+<sup>3</sup> Für die Luzerner Kantonsspital Gruppe, die Luzerner Psychiatrie AG und den Verkehrsverbund Luzern gilt Teil 4 der Verordnung, soweit dies für die Erstellung der konsolidierten Rechnung erforderlich ist.
 
 #### § 2
 
