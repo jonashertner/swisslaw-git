@@ -4,11 +4,11 @@ title: Verordnung vom 4. November 2009 über die Personenbeförderung (VPB)
 short: VPB
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/739"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2009-739-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-739-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20210101/de"
 
 (VPB)
 
-vom 4. November 2009 (Stand am 1. Januar 2021)
+vom 4. November 2009 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -832,11 +832,14 @@ Im grenzüberschreitenden Linienbusverkehr mit eidgenössischer Bewilligung muss
 
 ### (Art. 20*a* PBG)
 
-<sup>1</sup> Verlangt eine Person Auskunft über ihre Daten in einem Informationssystem über Reisende ohne gültigen Fahrausweis oder die Berichtigung dieser Daten, so muss sie beim Betreiber des Informationssystems ein schriftliches Gesuch einreichen. Sie muss sich im Gesuch über ihre Identität ausweisen.
+<sup>1</sup> Verlangt eine Person Auskunft über ihre Daten in einem Informationssystem über Reisende ohne gültigen Fahrausweis, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^58b-2] ein Gesuch beim Betreiber des Informationssystems einreichen. Die Geltendmachung des Berichtigungsrechts durch die betroffene Person richtet sich nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020[^58b-3].[^58b-4]
 
 <sup>2</sup> Der Betreiber des Informationssystems muss mindestens monatlich prüfen, welche Daten nach Artikel 20*a* Absatz 4 Buchstabe b PBG zu löschen sind.
 
 [^58b-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)).
+[^58b-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^58b-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^58b-4]: Fassung gemäss Anhang 2 Ziff. II 83 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59
 
@@ -1332,7 +1335,7 @@ Folgende Verordnungen werden aufgehoben:
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 12 Abs. 2 und 48 Abs. 2)
 

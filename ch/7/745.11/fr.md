@@ -4,11 +4,11 @@ title: Ordonnance du 4 novembre 2009 sur le transport de voyageurs (OTV)
 short: OTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/739"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-739-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-739-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20210101/fr"
 
 (OTV)
 
-du 4 novembre 2009 (Etat le 1<sup>er</sup> janvier 2021)
+du 4 novembre 2009 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral Suisse,
 
@@ -250,7 +250,7 @@ La concession peut être octroyée ou renouvelée pour une plus courte durée, n
 
 <sup>3</sup> Elle peut être octroyée pour une plus longue durée, mais pour 25 ans au plus, si l’amortissement des moyens d’exploitation l’exige.
 
-<sup>4</sup> ...[^15-2]
+<sup>4</sup> …[^15-2]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
 [^15-2]: Abrogé par le ch. III de l’O du 2 sept. 2015, avec effet au 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
@@ -534,9 +534,9 @@ Les entreprises de transport suisses et les entreprises de transport étrangère
 L’autorisation peut être octroyée uniquement:
 
 - a. si les entreprises garantissent le respect des dispositions légales;
-- b.[^44-1] ...
+- b.[^44-1] …
 - c.[^44-2] si le service de transport n’affecte pas sérieusement, sur les tronçons directs concernés, le fonctionnement d’une offre de transport comparable relevant d’un ou plusieurs mandats de service public;
-- d.[^44-3] ...
+- d.[^44-3] …
 - e. si les courses sont effectuées au moyen de véhicules à la disposition directe de l’entreprise de transport;
 - f. si les entreprises suisses et étrangères coopèrent; les dispositions contraires des accords internationaux sont réservées.
 - g. si les entreprises participantes disposent d’une assurance minimale conforme à l’art. 3 de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules[^44-4], valable dans tous les États concernés;
@@ -836,11 +836,14 @@ En trafic transfrontalier par bus de ligne soumis à autorisation fédérale, l�
 
 ### (art. 20*a* LTV)
 
-<sup>1</sup> Si une personne demande des informations sur les données la concernant dans un système d’information sur les voyageurs sans titre de transport valable ou la rectification de ces données, elle doit en faire la demande écrite au gestionnaire du système d’information. Dans sa demande, elle doit attester son identité.
+<sup>1</sup> Si une personne demande des informations sur les données la concernant dans un système d’information sur les voyageurs sans titre de transport valable, elle doit présenter une demande au gestionnaire du système d’information dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^58b-2]. L’exercice du droit à la rectification par la personne concernée est régi par l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données[^58b-3].[^58b-4]
 
 <sup>2</sup> Le gestionnaire du système d’information vérifie au moins mensuellement quelles données doivent être effacées conformément à l’art. 20*a*, al. 4, let. b, LTV.
 
 [^58b-1]: Introduit par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)).
+[^58b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^58b-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^58b-4]: Nouvelle teneur selon l’annexe 2 ch. II 83 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59
 
@@ -1008,7 +1011,7 @@ Sont exclus comme bagages à main:
 
 <sup>3</sup> Les tarifs fixent les conditions d’admission des chiens et des petits animaux apprivoisés. Ils indiquent si et pour quels animaux le transport est payant.
 
-[^63-1]: Nouvelle teneur selon le ch. II 7 de l’annexe à l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^63-1]: Nouvelle teneur selon l’annexe ch. II 7 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^63-2]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
 
 ### Section 2 Transport de bagages
@@ -1027,7 +1030,7 @@ Sont exclus comme bagages:
 
 <sup>2</sup> S’il est supposé qu’un bagage contient des objets exclus du transport, l’entreprise a le droit de vérifier le contenu dudit bagage.
 
-[^64-1]: Nouvelle teneur selon le ch. II 7 de l’annexe à l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^64-1]: Nouvelle teneur selon l’annexe ch. II 7 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^64-2]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
 
 #### Art. 65
@@ -1311,14 +1314,14 @@ Les ordonnances suivantes sont abrogées:
 - 1\. ordonnance du 25 novembre 1998 sur les concessions pour le transport des voyageurs[^82-1];
 - 2\. ordonnance du 5 novembre 1986 sur le transport public[^82-2].
 
-[^82-1]: [[RO 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106), [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)annexe ch. II 5, [2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)annexe ch. II 5, [2008 3547](https://fedlex.data.admin.ch/eli/oc/2008/456)]
-[^82-2]: **[**[RO 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324)]
+[^82-1]: [[RO 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106); [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)annexe ch. II 5; [2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)annexe ch. II 5; [2008 3547](https://fedlex.data.admin.ch/eli/oc/2008/456)]
+[^82-2]: **[**[RO 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324)]
 
 #### Art. 83
 
 **Modification du droit en vigueur**
 
-...*[^83-1]*
+…[^83-1]
 
 [^83-1]: La mod. peut être consultée au [RO 2009 6027](https://fedlex.data.admin.ch/eli/oc/2009/739).
 
@@ -1336,7 +1339,7 @@ Les ordonnances suivantes sont abrogées:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2010.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 12, al. 2, et 48, al. 2)
 

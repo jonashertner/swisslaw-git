@@ -4,11 +4,11 @@ title: Ordinanza del 4 novembre 2009 sul trasporto di viaggiatori (OTV)
 short: OTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/739"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2009-739-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-739-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20210101/it"
 
 (OTV)
 
-del 4 novembre 2009 (Stato 1° gennaio 2021)
+del 4 novembre 2009 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -829,11 +829,14 @@ Nel servizio di linea internazionale con autobus soggetto ad autorizzazione fede
 
 ### (art. 20*a* LTV)
 
-<sup>1</sup> Per chiedere l’accesso ai propri dati contenuti in un sistema d’informazione sui viaggiatori senza titolo di trasporto valido o la rettifica dei dati stessi, occorre presentare una domanda scritta al gestore del sistema d’informazione. Nella domanda è necessario identificarsi.
+<sup>1</sup> Se una persona chiede l’accesso ai propri dati contenuti in un sistema d’informazione sui viaggiatori senza titolo di trasporto valido, deve presentare una domanda al gestore del sistema d’informazione nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^58b-2] sulla protezione dei dati. La pretesa del diritto alla rettifica è retta dall’articolo 41 della legge federale del 25 settembre 2020[^58b-3] sulla protezione dei dati.[^58b-4]
 
 <sup>2</sup> Il gestore del sistema d’informazione deve verificare almeno una volta al mese se vi sono dati da cancellare secondo l’articolo 20*a* capoverso 4 lettera b LTV.
 
 [^58b-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)).
+[^58b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^58b-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^58b-4]: Nuovo testo giusta l’all. 2 n. II 83 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59
 
@@ -1308,7 +1311,7 @@ Sono abrogate le seguenti ordinanze:
 - 2\. ordinanza del 5 novembre 1986[^82-2] sul trasporto pubblico.
 
 [^82-1]: [[RU 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106), [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)all. n. II 5, [2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)all. n. II 5, [2008 3547](https://fedlex.data.admin.ch/eli/oc/2008/456)]
-[^82-2]: [[RU 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848)[2714](https://fedlex.data.admin.ch/eli/oc/1994/2714_2714_2714), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324)]
+[^82-2]: [[RU 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [2714](https://fedlex.data.admin.ch/eli/oc/1994/2714_2714_2714); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324)]
 
 #### Art. 83
 
@@ -1332,7 +1335,7 @@ Sono abrogate le seguenti ordinanze:
 
 La presente ordinanza entra in vigore il 1° gennaio 2010.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 12 cpv. 2 e 48 cpv. 2)
 
