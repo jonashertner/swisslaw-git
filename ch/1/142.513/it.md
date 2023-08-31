@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordinanza del 12 aprile 2006 concernente il sistema d'informazione centrale sulla migrazione (Ordinanza SIMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: it
-version: 2023-06-15
+version: 2023-09-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20230615/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20230615-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230615/it"
 
 (Ordinanza SIMIC)
 
-del 12 aprile 2006 (Stato 15 giugno 2023)
+del 12 aprile 2006 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -432,7 +432,7 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
 - o.[^10-26] le rappresentanze svizzere all’estero e le missioni: per la verifica dell’esistenza di una procedura d’asilo concernente un richiedente;
 - p.[^10-27] la Segreteria di Stato, la Direzione politica e la Direzione consolare del DFAE: per la verifica dell’esistenza di una procedura d’asilo concernente un richiedente;
 - q.[^10-28] le autorità cantonali di esecuzione delle pene: per la gestione dei casi e per l’esecuzione di sentenze e oneri ai sensi del CP[^10-29];
-- r.[^10-30] il Ministero pubblico della Confederazione: per la ricerca di indirizzi nell’ambito dell’esecuzione di sentenze.
+- r.[^10-30] il Ministero pubblico della Confederazione: per la ricerca di indirizzi nell’ambito dell’esecuzione di sentenze
 
 [^10-1]: Nuovo testo giusta l’all. n. 9 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
@@ -535,14 +535,9 @@ La SEM può comunicare dati personali resi anonimi:
 - b. alle università svizzere e ai loro istituti, per scopi scientifici;
 - c. a organizzazioni private, per scopi pianificatori e scientifici.
 
-<sup>2</sup>
+<sup>2</sup> ...[^14-1]
 
-A tali servizi possono essere eccezionalmente comunicati anche dati personali non resi anonimi se la SEM impone limitazioni per la protezione della personalità e stabilisce in particolare:
-
-- a. il modo di utilizzare i dati personali;
-- b. chi può consultare i dati personali;
-- c. il modo di proteggere i dati personali;
-- d. l’obbligo o meno di restituire i dati personali o di distruggerli dopo l’uso.
+[^14-1]: Abrogato dall’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
 
@@ -582,15 +577,16 @@ A tali servizi possono essere eccezionalmente comunicati anche dati personali no
 
 La sicurezza dei dati è retta:
 
-- a. dall’ordinanza del 14 giugno 1993[^17-1] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^17-2] sui ciber-rischi.[^17-3]
+- a.[^17-1] dall’ordinanza del 31 agosto 2022[^17-2] sulla protezione dei dati (OPDa);
+- b. dall’ordinanza del 27 maggio 2020[^17-3] sui ciber-rischi.[^17-4]
 
-<sup>2</sup> La SEM, le autorità di cui agli articoli 9 e 10, l’Ufficio federale di statistica, l’Organizzazione svizzera d’aiuto ai rifugiati, i terzi incaricati della tenuta dei conti di garanzia secondo la LAsi[^17-4], la Cassa di compensazione svizzera e le casse di compensazione cantonali adottano, ciascuno nel proprio ambito specifico, le misure d’organizzazione e d’ordine tecnico atte a salvaguardare la sicurezza dei dati personali.
+<sup>2</sup> La SEM, le autorità di cui agli articoli 9 e 10, l’Ufficio federale di statistica, l’Organizzazione svizzera d’aiuto ai rifugiati, i terzi incaricati della tenuta dei conti di garanzia secondo la LAsi[^17-5], la Cassa di compensazione svizzera e le casse di compensazione cantonali adottano, ciascuno nel proprio ambito specifico, le misure d’organizzazione e d’ordine tecnico atte a salvaguardare la sicurezza dei dati personali.
 
-[^17-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^17-3]: Nuovo testo giusta l’all. n. 5 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^17-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-1]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^17-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^17-4]: Nuovo testo giusta l’all. n. 5 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^17-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 18
 
@@ -630,16 +626,18 @@ La SEM distrugge i dati personali non degni di archiviazione contenuti nel SIMIC
 
 ### (art. 6 LSISA)
 
-<sup>1</sup> I diritti degli interessati, segnatamente il diritto d’accesso, il diritto di essere informati in merito alla raccolta dei dati personali e il diritto alla rettifica e alla distruzione dei dati, sono retti dalle disposizioni della legge federale del 19 giugno 1992[^19-1] sulla protezione dei dati (LPD) e della legge federale del 20 dicembre 1968[^19-2] sulla procedura amministrativa, nonché dagli articoli 111*e*–111*g* LStrI[^19-3].[^19-4]
+<sup>1</sup> I diritti degli interessati, segnatamente il diritto d’accesso, il diritto di essere informati in merito alla raccolta dei dati personali e il diritto alla rettifica e alla distruzione dei dati, sono retti dalle disposizioni della legge federale del 25 settembre 2020[^19-1] sulla protezione dei dati (LPD) e della legge federale del 20 dicembre 1968[^19-2] sulla procedura amministrativa, nonché dagli articoli 111*e*–111*g* LStrI[^19-3].[^19-4]
 
-<sup>2</sup> L’interessato che intende far valere i propri diritti deve comprovare la propria identità e presentare alla SEM una domanda scritta.
+<sup>2</sup> L’interessato che intende far valere i propri diritti deve presentare alla SEM una domanda nella forma prevista dall’articolo 16 OPDa[^19-5].[^19-6]
 
 <sup>3</sup> I dati inesatti sono rettificati d’ufficio.
 
 [^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^19-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^19-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^19-4]: Nuovo testo giusta il n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^19-4]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-5]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-6]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 7: Statistiche e controlli
 

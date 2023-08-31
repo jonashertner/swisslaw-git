@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordonnance du 12 avril 2006 sur le système d'information central sur la migration (Ordonnance SYMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: fr
-version: 2023-06-15
+version: 2023-09-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20230615/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20230615-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230615/fr"
 
 (Ordonnance SYMIC)
 
-du 12 avril 2006 (État le 15 juin 2023)
+du 12 avril 2006 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -515,24 +515,25 @@ Le DFJP règle la procédure relative à l’octroi des droits d’accès au SYM
 
 <sup>1</sup>
 
-Le SEM peut, dans un cas particulier ou périodiquement, communiquer, sous forme de fichiers électroniques ou de listes, les données personnelles traitées dans le SYMIC aux autorités ou aux organisations ci-après pour qu’elles puissent accomplir leurs tâches légales:
+Le SEM peut, dans un cas particulier ou périodiquement, communiquer, sous forme de banques de données ou de listes, les données personnelles traitées dans le SYMIC aux autorités ou aux organisations ci-après pour qu’elles puissent accomplir leurs tâches légales:[^13-1]
 
 - a. les autorités visées aux art. 9 et 10;
 - b. les tiers mandatés visés à l’art. 11 LDEA;
-- c. l’Organisation suisse d’aide aux réfugiés, pour qu’elle puisse coordonner les tâches confiées en vertu de la LAsi[^13-1] aux œuvres d’entraide autorisées;
+- c. l’Organisation suisse d’aide aux réfugiés, pour qu’elle puisse coordonner les tâches confiées en vertu de la LAsi[^13-2] aux œuvres d’entraide autorisées;
 - d. la Caisse suisse de compensation et les caisses cantonales de compensation, pour qu’elles puissent accomplir leurs tâches en matière de financement et d’éventuel remboursement des cotisations AVS minimales pour les requérants d’asile n’exerçant pas d’activité lucrative.
 
 <sup>2</sup> Ne sont communiquées aux autorités et services visés à l’al. 1, let. c et d que les données personnelles mentionnées à l’annexe 2.
 
-<sup>3</sup> Les livraisons de données effectuées en application de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^13-2] et de l’ordonnance du 21 novembre 2007 sur l’harmonisation de registres[^13-3] se font via sedex ou au moyen de supports électroniques de données.[^13-4]
+<sup>3</sup> Les livraisons de données effectuées en application de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^13-3] et de l’ordonnance du 21 novembre 2007 sur l’harmonisation de registres[^13-4] se font via sedex ou au moyen de supports électroniques de données.[^13-5]
 
-<sup>4</sup> Les données visées à l’art. 5, al. 2, let. a, sont communiquées de manière continue sous forme de fichiers électroniques au registre IDE de l’OFS.[^13-5]
+<sup>4</sup> Les données visées à l’art. 5, al. 2, let. a, sont communiquées de manière continue sous forme de banques de données au registre IDE de l’OFS.[^13-6]
 
-[^13-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^13-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^13-3]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^13-4]: Introduit par l’annexe ch. 1 de l’O du 21 nov. 2007 sur l’harmonisation des registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^13-5]: Introduit par l’annexe ch. 1 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-4]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^13-5]: Introduit par l’annexe ch. 1 de l’O du 21 nov. 2007 sur l’harmonisation des registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^13-6]: Introduit par l’annexe ch. 1 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)). Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -546,14 +547,9 @@ Le SEM peut communiquer des données rendues anonymes:
 - b. aux hautes écoles suisses et à leurs instituts, à des fins scientifiques;
 - c. à des organisations privées, à des fins scientifiques et de planification.
 
-<sup>2</sup>
+<sup>2</sup> …[^14-1]
 
-Exceptionnellement, des données personnelles peuvent être communiquées à ces services. Dans de tels cas, afin de garantir la protection de la personnalité, le SEM émet des restrictions et détermine en particulier:
-
-- a. la manière d’utiliser les données;
-- b. le choix des personnes habilitées à les consulter;
-- c. la manière de protéger les données;
-- d. l’obligation de les restituer ou de les détruire après usage.
+[^14-1]: Abrogé par l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
 
@@ -593,15 +589,16 @@ Exceptionnellement, des données personnelles peuvent être communiquées à ces
 
 La sécurité des données est régie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^17-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^17-2].[^17-3]
+- a.[^17-1] l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^17-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^17-3].[^17-4]
 
-<sup>2</sup> Le SEM, les autorités visées aux art. 9 et 10, l’Office fédéral de la statistique, l’Organisation suisse d’aide aux réfugiés, les tiers mandatés pour la gestion des comptes de sûreté en vertu de la LAsi[^17-4], la Caisse suisse de compensation et les caisses cantonales de compensation prennent, chacun dans leur secteur, les mesures organisationnelles et techniques propres à assurer la sécurité des données.
+<sup>2</sup> Le SEM, les autorités visées aux art. 9 et 10, l’Office fédéral de la statistique, l’Organisation suisse d’aide aux réfugiés, les tiers mandatés pour la gestion des comptes de sûreté en vertu de la LAsi[^17-5], la Caisse suisse de compensation et les caisses cantonales de compensation prennent, chacun dans leur secteur, les mesures organisationnelles et techniques propres à assurer la sécurité des données.
 
-[^17-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^17-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^17-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-1]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^17-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^17-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^17-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 18
 
@@ -637,16 +634,18 @@ La sécurité des données est régie par:
 
 ### (art. 6 LDEA)
 
-<sup>1</sup> Les droits des personnes concernées, notamment le droit d’accès, le droit d’être informé sur la collecte de données personnelles et le droit de rectifier et de supprimer les données, sont régis par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^19-1], et de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^19-2] et par les art. 111e à 111g LEI[^19-3].[^19-4]
+<sup>1</sup> Les droits des personnes concernées, notamment le droit d’accès, le droit d’être informé sur la collecte de données personnelles et le droit de rectifier et de détruire les données, sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^19-1], et de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^19-2] et par les art. 111*e* à 111*g* LEI[^19-3].[^19-4]
 
-<sup>2</sup> Si une personne concernée veut faire valoir des droits, elle doit justifier de son identité et présenter une demande écrite au SEM.
+<sup>2</sup> Si une personne concernée veut faire valoir des droits, elle doit présenter une demande au SEM dans la forme prévue à l’art. 16 OPDo[^19-5].[^19-6]
 
 <sup>3</sup> Les données inexactes doivent être corrigées d’office.
 
 [^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^19-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^19-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^19-4]: Nouvelle teneur selon le ch. I 1 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^19-4]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-5]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-6]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 7 Statistiques et contrôles
 

@@ -3,11 +3,11 @@ sr: "142.513"
 title: Verordnung vom 12. April 2006 über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: de
-version: 2023-06-15
+version: 2023-09-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20230615/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20230615-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20230615/de"
 
 (ZEMIS-Verordnung)
 
-vom 12. April 2006 (Stand am 15. Juni 2023)
+vom 12. April 2006 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -549,14 +549,9 @@ Das SEM kann anonymisierte Personendaten bekannt geben:
 - b. schweizerischen Hochschulen und deren Instituten für wissenschaftliche Zwecke;
 - c. privaten Organisationen für planerische und wissenschaftliche Zwecke.
 
-<sup>2</sup>
+<sup>2</sup> …[^14-1]
 
-Ausnahmsweise können diesen Stellen auch nicht anonymisierte Personendaten bekannt gegeben werden, wenn das SEM Auflagen zum Schutz der Persönlichkeit macht und namentlich festlegt:
-
-- a. wie die Personendaten verwendet werden dürfen;
-- b. wer Einsicht in die Personendaten nehmen darf;
-- c. wie die Personendaten zu sichern sind;
-- d. ob die Personendaten nach Gebrauch zurückzugeben oder zu vernichten sind.
+[^14-1]: Aufgehoben durch Anhang 2 Ziff. II 8 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
 
@@ -596,15 +591,16 @@ Ausnahmsweise können diesen Stellen auch nicht anonymisierte Personendaten beka
 
 Die Datensicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^17-1] zum Bundesgesetz über den Datenschutz;
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^17-2].[^17-3]
+- a.[^17-1] der Datenschutzverordnung vom 31. August 2022[^17-2] (DSV);
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^17-3].[^17-4]
 
-<sup>2</sup> Das SEM, die Behörden nach den Artikeln 9 und 10, das Bundesamt für Statistik, die Schweizerische Flüchtlingshilfe, die mit der Führung der Sicherheitskonti nach dem AsylG[^17-4] beauftragten Dritten, die Schweizerische Ausgleichskasse und die kantonalen Ausgleichskassen treffen in ihrem Bereich die angemessenen organisatorischen und technischen Massnahmen zur Sicherung der Personendaten.
+<sup>2</sup> Das SEM, die Behörden nach den Artikeln 9 und 10, das Bundesamt für Statistik, die Schweizerische Flüchtlingshilfe, die mit der Führung der Sicherheitskonti nach dem AsylG[^17-5] beauftragten Dritten, die Schweizerische Ausgleichskasse und die kantonalen Ausgleichskassen treffen in ihrem Bereich die angemessenen organisatorischen und technischen Massnahmen zur Sicherung der Personendaten.
 
-[^17-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^17-3]: Fassung gemäss Anhang Ziff. 5 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^17-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-1]: Fassung gemäss Anhang 2 Ziff. II 8 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^17-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^17-4]: Fassung gemäss Anhang Ziff. 5 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^17-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 18
 
@@ -644,16 +640,18 @@ Das SEM vernichtet die nicht archivwürdigen Personendaten in ZEMIS nach folgend
 
 ### (Art. 6 BGIAA)
 
-<sup>1</sup> Die Rechte der Betroffenen, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht sowie das Recht auf Information über die Beschaffung besonders schützenswerter Personendaten, richten sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^19-1] über den Datenschutz (DSG) und des Bundesgesetzes vom 20. Dezember 1968[^19-2] über das Verwaltungsverfahren sowie nach den Artikeln 111*e–*111*g* AIG[^19-3].[^19-4]
+<sup>1</sup> Die Rechte der Betroffenen, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht sowie das Recht auf Information über die Beschaffung von Personendaten, richten sich nach den Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^19-1] (DSG) und des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^19-2] sowie nach den Artikeln 111*e–*111*g* AIG[^19-3].[^19-4]
 
-<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch beim SEM einzureichen.
+<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 DSV[^19-5] ein Gesuch beim SEM einreichen.[^19-6]
 
 <sup>3</sup> Unrichtige Daten sind von Amtes wegen zu berichtigen.
 
 [^19-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^19-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^19-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^19-4]: Fassung gemäss Ziff. I 1 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^19-4]: Fassung gemäss Anhang 2 Ziff. II 8 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-5]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-6]: Fassung gemäss Anhang 2 Ziff. II 8 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 7. Abschnitt: Statistiken und Kontrollen
 
