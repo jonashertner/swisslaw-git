@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2002 sui documenti d'identità dei cittadini 
 short: ODI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: it
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230901-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230201/it"
 
 (Ordinanza sui documenti d’identità, ODI)
 
-del 20 settembre 2002 (Stato 1° febbraio 2023)
+del 20 settembre 2002 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 1 capoverso 3, 3, 4 capoverso 3, 5 capoverso 2, 9 e 15 della 
 
 ordina:
 
-[^ingress-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^ingress-1]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -125,8 +125,6 @@ Il Dipartimento può stipulare accordi internazionali concernenti la lettura del
 
 **Conclusione di trattati internazionali concernenti le norme sulle caratteristiche di sicurezza e sui dati biometrici dei passaporti e dei documenti di viaggio**[^5b-1]
 
-<sup>1</sup>
-
 Fedpol è competente per la conclusione di trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea, sempre che questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* della legge del 21 marzo 1997[^5b-2] sull’organizzazione del Governo e dell’Amministrazione (LOGA) e sempre che gli atti di esecuzione siano emanati sulla base dell’articolo 2 del regolamento (CE) n. 2252/2004[^5b-3] e disciplinino, per quanto concerne i passaporti e i documenti di viaggio:
 
 - a. ulteriori caratteristiche e requisiti di sicurezza;
@@ -134,7 +132,7 @@ Fedpol è competente per la conclusione di trattati internazionali in vista del 
 - c. i requisiti qualitativi e le norme comuni relativi all’immagine del viso e alle impronte digitali.
 
 [^5b-1]: Introdotto dal n. II dell’O del 1° lug. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
-[^5b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^5b-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^5b-3]: Cfr. nota a piè di pagina relativa all’art. 5*a*
 
 ## Capitolo 2: Richiesta, rilascio, perdita e restituzione
@@ -438,7 +436,7 @@ L’Ufficio federale può chiedere ai servizi di cui all’articolo 6*a* capover
 <sup>3</sup> I servizi di cui all’articolo 6*a* capoverso 1 LDI forniscono periodicamente le prove dell’osservanza e dell’attualità del sistema di gestione della qualità e del piano relativo alla sicurezza.
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2010 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^16-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^16-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 #### Art. 17
 
@@ -545,7 +543,7 @@ Chi richiede un documento d’identità sostitutivo deve presentare la denuncia 
 
 #### Art. 27
 
-**Consegna[^27-2]**[^27-1]
+**Consegna**[^27-1]
 
 <sup>1</sup> Il servizio preposto all’allestimento consegna il documento d’identità direttamente all’indirizzo di consegna indicato dalla persona richiedente.
 
@@ -556,7 +554,6 @@ Chi richiede un documento d’identità sostitutivo deve presentare la denuncia 
 <sup>4</sup> Prima di inviarlo al titolare, il servizio preposto all’allestimento dei documenti verifica il buon funzionamento del passaporto.
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^27-2]: Introdotto dal n. I dell’O del 17 mar. 2006, in vigore dal 4 set. 2006 ([RU 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
 
 #### Art. 27a
 
@@ -640,7 +637,7 @@ Per impedire abusi e il rilascio multiplo non autorizzato, i dati delle persone 
 <sup>3</sup> La consultazione dei dati in ISA per la verifica dell’identità di vittime di incidenti, di catastrofi naturali, di atti violenti oppure di persone scomparse, può avvenire unicamente in base al cognome e al nome.[^30-2]
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^30-2]: Introdotto dal n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 
 #### Art. 31
 
@@ -734,7 +731,9 @@ La trasmissione dei dati è effettuata interamente in forma cifrata.
 
 <sup>1</sup> Ogni elaborazione dei dati è verbalizzata.
 
-<sup>2</sup> I verbali sono conservati per un anno e in forma adeguata alle esigenze della revisione.
+<sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^40-1]
+
+[^40-1]: Nuovo testo giusta l’all. 2 n. II 9 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 41
 
@@ -752,23 +751,27 @@ La trasmissione dei dati è effettuata interamente in forma cifrata.
 
 **Diritto d’informazione e diritto di rettifica**
 
-<sup>1</sup> Chiunque può domandare per scritto all’Ufficio federale se sono elaborati dati a suo riguardo.
+<sup>1</sup> Chiunque può domandare all’Ufficio federale nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^42-1] sulla protezione dei dati se sono elaborati dati a suo riguardo.[^42-2]
 
 <sup>2</sup> L’informazione è data per scritto ed è gratuita. Comprende tutti i dati memorizzati nel sistema d’informazione sul richiedente.
 
-<sup>3</sup> Per rifiutare, limitare o differire l’informazione è applicabile l’articolo 9 della legge del 19 giugno 1992[^42-1] sulla protezione dei dati.
+<sup>3</sup> Al rifiuto, alla limitazione o al differimento dell’informazione è applicabile l’articolo 26 della legge federale del 25 settembre 2020[^42-3] sulla protezione dei dati (LPD).[^42-4]
 
 <sup>4</sup> Chiunque può esigere che i dati inesatti sul suo conto siano rettificati.
 
-[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^42-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^42-2]: Nuovo testo giusta l’all. 2 n. II 9 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^42-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^42-4]: Nuovo testo giusta l’all. 2 n. II 9 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 43
 
-**Altri diritti delle persone interessate**
+**Altri diritti delle persone interessate**[^43-1]
 
-Gli altri diritti delle persone interessate sono retti dall’articolo 25 della legge del 19 giugno 1992[^43-1] sulla protezione dei dati.
+Gli altri diritti delle persone interessate sono retti dall’articolo 41 LPD[^43-2].
 
-[^43-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^43-1]: Nuovo testo giusta l’all. 2 n. II 9 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^43-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ### Sezione 5: Ripartizione dei costi tra Confederazione e Cantoni
 
@@ -787,7 +790,7 @@ Gli altri diritti delle persone interessate sono retti dall’articolo 25 della 
 <sup>5</sup> I Cantoni acquistano esclusivamente gli apparecchi designati dalla Confederazione presso i fornitori designati dalla stessa. I Cantoni assumono i costi per l’acquisto, la manutenzione e la sostituzione dell’infrastruttura necessaria per rilasciare e controllare i documenti d’identità.
 
 [^44-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^44-2]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)n. II 1, [7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giugno 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^44-2]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)n. II 1, [7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giugno 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
 
 ## Capitolo 4: Emolumenti
 
@@ -942,7 +945,7 @@ I passaporti diplomatici e di servizio possono essere rilasciati:
 <sup>2</sup> Per il rilascio e il controllo dei documenti d’identità esso gestisce una propria autorità di rilascio.[^56-2]
 
 [^56-1]: Nuovo testo giusta il n. I dell’O del 17 mar. 2006, in vigore dal 4 set. 2006 ([RU 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
-[^56-2]: Introdotto dal n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^56-2]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 
 #### Art. 57
 
@@ -960,7 +963,7 @@ Le decisioni e gli ordini di servizio del DFAE relativi al rilascio e alla conse
 
 <sup>2</sup> Esso emana le istruzioni relative ai documenti d’identità necessarie all’esecuzione della presente ordinanza.
 
-<sup>3</sup> e <sup>4</sup> ... [^58-2]
+<sup>3 e <sup>4</sup></sup> ... [^58-2]
 
 [^58-1]: Nuovo testo giusta il n. I dell’O del 17 mar. 2006, in vigore dal 4 set. 2006 ([RU 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
 [^58-2]: Abrogati dal n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
@@ -987,11 +990,9 @@ Le seguenti ordinanze sono abrogate:
 
 **Modifica del diritto vigente**
 
-### ...
+...[^60-1]
 
-[^60-subdiv-1]
-
-[^60-subdiv-1]: Le mod. possono essere consultate alla [RU 2002 3151](https://fedlex.data.admin.ch/eli/oc/2002/468).
+[^60-1]: Le mod. possono essere consultate alla [RU 2002 3151](https://fedlex.data.admin.ch/eli/oc/2002/468).
 
 #### Art. 61
 
@@ -1096,19 +1097,17 @@ A = consultazione; E = registrazione e consultazione
 
 **Abbreviazioni:**
 
-<table>
-<tr><td>Fedpol DEI:</td><td>Ufficio federale di polizia, settore Documenti d’identità (servizio competente della Confederazione, art. 12 cpv. 1 lett. a LDI)</td></tr>
-<tr><td>Fedpol Pol:</td><td>Ufficio federale di polizia come servizio di polizia competente della Confederazione (art. 12 cpv. 2 lett. d e f nonché cpv. 3 LDI)</td></tr>
-<tr><td>DFAE A. est. rilascio:</td><td>Autorità di rilascio esterne del DFAE per i documenti d’identità, i passaporti provvisori e i passaporti biometrici (art. 12 cpv. 1 lett. b LDI) = rappresentanze estere</td></tr>
-<tr><td>DFAE A. int. rilascio:</td><td>Autorità di rilascio interne del DFAE per passaporti diplomatici biometrici, passaporti di servizio biometrici e passaporti provvisori (art. 12 cpv. 1 lett. b LDI)</td></tr>
-<tr><td>DFAE A. int. rilascio sost.:</td><td>Autorità di rilascio interna del DFAE per documenti di viaggio sostitutivi</td></tr>
-<tr><td>Cgcf:</td><td>Corpo delle guardie di confine (art. 12 cpv. 2 lett. c LDI)</td></tr>
-<tr><td>Cant. A. rilascio:</td><td>Autorità cantonale di rilascio (art. 12 cpv. 1 lett. b LDI)</td></tr>
-<tr><td>Cant. UPP:</td><td>Autorità cantonale di rilascio per passaporti provvisori (art. 12 cpv. 1 lett. b LDI)</td></tr>
-<tr><td>Uff. pol. CID chiarimenti:</td><td>Uffici di polizia designati dai Cantoni per la verifica dell’identità (art. 12 cpv. 2 lett. d LDI)</td></tr>
-<tr><td>Uff. pol. perdita:</td><td>Uffici di polizia designati dai Cantoni per la registrazione delle comunicazioni concernenti la perdita (art. 12 cpv. 2 lett. e LDI)</td></tr>
-<tr><td>S. allestimento:</td><td>Servizio preposto all’allestimento dei documenti d’identità ordinari (art. 12 cpv. 1 lett. c LDI)</td></tr>
-</table>
+- Fedpol DEI: Ufficio federale di polizia, settore Documenti d’identità (servizio competente della Confederazione, art. 12 cpv. 1 lett. a LDI)
+- Fedpol Pol: Ufficio federale di polizia come servizio di polizia competente della Confederazione (art. 12 cpv. 2 lett. d e f nonché cpv. 3 LDI)
+- DFAE A. est. rilascio: Autorità di rilascio esterne del DFAE per i documenti d’identità, i passaporti provvisori e i passaporti biometrici (art. 12 cpv. 1 lett. b LDI) = rappresentanze estere
+- DFAE A. int. rilascio: Autorità di rilascio interne del DFAE per passaporti diplomatici biometrici, passaporti di servizio biometrici e passaporti provvisori (art. 12 cpv. 1 lett. b LDI)
+- DFAE A. int. rilascio sost.: Autorità di rilascio interna del DFAE per documenti di viaggio sostitutivi
+- Cgcf: Corpo delle guardie di confine (art. 12 cpv. 2 lett. c LDI)
+- Cant. A. rilascio: Autorità cantonale di rilascio (art. 12 cpv. 1 lett. b LDI)
+- Cant. UPP: Autorità cantonale di rilascio per passaporti provvisori (art. 12 cpv. 1 lett. b LDI)
+- Uff. pol. CID chiarimenti: Uffici di polizia designati dai Cantoni per la verifica dell’identità (art. 12 cpv. 2 lett. d LDI)
+- Uff. pol. perdita: Uffici di polizia designati dai Cantoni per la registrazione delle comunicazioni concernenti la perdita (art. 12 cpv. 2 lett. e LDI)
+- S. allestimento: Servizio preposto all’allestimento dei documenti d’identità ordinari (art. 12 cpv. 1 lett. c LDI)
 
 Allegato 2[^t-2]
 
@@ -1122,7 +1121,7 @@ Allegato 2[^t-2]
 <tr><td></td><td>CID Fr.</td><td>Passaporto Fr.</td><td>Passaporto + CID assieme Fr.</td><td>Passaporto provvisorio Fr.</td><td></td></tr>
 <tr><td>Bambini\*</td><td>30.–</td><td>60.–</td><td>68.–</td><td>100.–</td><td></td></tr>
 <tr><td>Adulti\*</td><td>65.–</td><td>140.–</td><td>148.–</td><td>100.–</td><td></td></tr>
-<tr><td colspan="6"><sup>\*</sup> Passaporto: bambini = persone che non hanno ancora compiuto 18 anni; adulti = persone che hanno compiuto 18 anni.</td></tr>
+<tr><td colspan="6">\* Passaporto: bambini = persone che non hanno ancora compiuto 18 anni; adulti = persone che hanno compiuto 18 anni..</td></tr>
 </table>
 
 ## Emolumenti per altre prestazioni (art. 46)
@@ -1131,14 +1130,18 @@ Allegato 2[^t-2]
 <tr><td></td><td>Fr.</td></tr>
 <tr><td>Supplementi obbligatori (giusta il capoverso 1):</td><td></td></tr>
 <tr><td>a. registrazioni successive presso un’autorità di rilascio;</td><td>20.–</td></tr>
-<tr><td>b. rilascio di un passaporto provvisorio: – al di fuori degli orari d’ufficio ordinari, – il sabato, la domenica e nei giorni festivi legali;</td><td>25.– 50.–</td></tr>
+<tr><td>b. rilascio di un passaporto provvisorio:</td><td></td></tr>
+<tr><td>– al di fuori degli orari d’ufficio ordinari,</td><td>25.–</td></tr>
+<tr><td>– il sabato, la domenica e nei giorni festivi legali;</td><td>50.–</td></tr>
 <tr><td>c. rilascio di un passaporto provvisorio in un aeroporto.</td><td>50.–</td></tr>
 <tr><td>Supplementi facoltativi (giusta il capoverso 2):</td><td></td></tr>
-<tr><td>a. per particolari verifiche in relazione al rilascio di un documento d’identità ordinario o di un passaporto provvisorio: – tempo di lavoro/tariffa oraria;</td><td>80.–</td></tr>
+<tr><td>a. per particolari verifiche in relazione al rilascio di un documento d’identità ordinario o di un passaporto provvisorio:</td><td></td></tr>
+<tr><td>– tempo di lavoro/tariffa oraria;</td><td>80.–</td></tr>
 <tr><td>b. ritiro di un documento;</td><td>40.–</td></tr>
 <tr><td>c. restituzione di un documento;</td><td>40.–</td></tr>
 <tr><td>d. richiesta di documenti e trasmissione di documenti:</td><td></td></tr>
-<tr><td>– emolumento di base, – spese giusta l’articolo 49.</td><td>20.– secondo i costi effettivi</td></tr>
+<tr><td>– emolumento di base,</td><td>20.–</td></tr>
+<tr><td>– spese giusta l’articolo 49.</td><td>secondo i costi effettivi</td></tr>
 </table>
 
 Allegato 3[^t-3]

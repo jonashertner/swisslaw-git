@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2002 sur les documents d'identité des ressor
 short: OLDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: fr
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230901-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230201/fr"
 
 (Ordonnance sur les documents d’identité, OLDI)
 
-du 20 septembre 2002 (État le 1<sup>er</sup> février 2023)
+du 20 septembre 2002 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 1, al. 3, 3, 4, al. 3, 5, al. 2, 9 et 15 de la loi du 22 juin 2001 s
 
 arrête:
 
-[^ingress-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^ingress-1]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ## Chapitre 1 Dispositions générales
 
@@ -132,7 +132,7 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 - c. les exigences en matière de qualité et de normes techniques communes en ce qui concerne la photo faciale et les empreintes digitales.
 
 [^5b-1]: Introduit par le ch. II de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
-[^5b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^5b-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^5b-3]: Cf. note de bas de page relative à l’art. 5*a.*
 
 ## Chapitre 2 Demande, établissement, perte et restitution
@@ -431,7 +431,7 @@ L’office peut demander aux centres visés à l’art. 6*a*, al. 1, LDI et, le 
 <sup>3</sup> Les centres visés à l’art. 6*a*, al. 1, LDI apportent régulièrement la preuve qu’ils respectent et tiennent à jour le système de gestion de la qualité et le programme de mesures de sécurité.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^16-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^16-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 #### Art. 17
 
@@ -727,7 +727,9 @@ Les données sont transmises exclusivement sous forme codée.
 
 <sup>1</sup> Tout traitement de données est journalisé.
 
-<sup>2</sup> Les procès-verbaux sont conservés pendant une année et sous une forme répondant aux exigences de la révision.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^40-1]
+
+[^40-1]: Nouvelle teneur selon l’annexe 2 ch. II 9 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 41
 
@@ -745,23 +747,27 @@ Les données sont transmises exclusivement sous forme codée.
 
 **Droit à l’information et à la rectification des données**
 
-<sup>1</sup> Toute personne peut demander par écrit à l’office si des données la concernant sont traitées.
+<sup>1</sup> Toute personne peut demander à l’office, dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^42-1], si des données la concernant sont traitées.[^42-2]
 
 <sup>2</sup> Les renseignements sont fournis par écrit et gratuitement. Ils comprennent toutes les données sur le requérant qui sont enregistrées dans le système d’information.
 
-<sup>3</sup> L’art. 9 de la loi fédérale du 19 juin 1992 sur la protection des données[^42-1] s’applique au refus, à la restriction et au report de la communication des renseignements.
+<sup>3</sup> L’art. 26 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^42-3] s’applique au refus, à la restriction et au report de la communication des renseignements.[^42-4]
 
 <sup>4</sup> Toute personne peut demander la rectification des données inexactes la concernant.
 
-[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^42-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^42-2]: Nouvelle teneur selon l’annexe 2 ch. II 9 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^42-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^42-4]: Nouvelle teneur selon l’annexe 2 ch. II 9 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 43
 
-**Autres droits des intéressés**
+**Autres droits des intéressés**[^43-1]
 
-L’art. 25 de la loi fédérale du 19 juin 1992 sur la protection des données[^43-1] s’applique aux autres droits des intéressés.
+L’art. 41 LPD[^43-2] s’applique aux autres droits des intéressés.
 
-[^43-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^43-1]: Nouvelle teneur selon l’annexe 2 ch. II 9 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^43-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ### Section 5 Répartition des coûts entre la Confédération et les cantons
 
@@ -780,7 +786,7 @@ L’art. 25 de la loi fédérale du 19 juin 1992 sur la protection des données[
 <sup>5</sup> Les cantons acquièrent exclusivement les appareils définis par la Confédération auprès des fournisseurs désignés par celle-ci. Les cantons prennent en charge les coûts d’acquisition, de maintenance et de remplacement de l’infrastructure nécessaire à l’établissement et au contrôle des documents d’identité.
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^44-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^44-2]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ## Chapitre 4 Émoluments
 
@@ -959,7 +965,7 @@ Les décisions et les prescriptions de service du DFAE relatives à l’établis
 
 <sup>2</sup> Il édicte les directives relatives aux documents d’identité nécessaires à l’exécution de la présente ordonnance.
 
-<sup>3</sup> et <sup>4</sup> …[^58-2]
+<sup>3 et <sup>4</sup></sup> …[^58-2]
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
 [^58-2]: Abrogés par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).

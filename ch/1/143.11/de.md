@@ -4,11 +4,11 @@ title: "Verordnung vom 20. September 2002 über die Ausweise für Schweizer Staa
 short: VAwG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: de
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230901-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230201/de"
 
 (Ausweisverordnung, VAwG)
 
-vom 20. September 2002 (Stand am 1. Februar 2023)
+vom 20. September 2002 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 1 Absatz 3, 3, 4 Absatz 3, 5 Absatz 2, 9 und 15 des Au
 
 verordnet:
 
-[^ingress-1]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^ingress-1]: [SR 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -132,7 +132,7 @@ Fedpol ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur �
 - c. Qualitätsanforderungen und gemeinsame technische Normen für Gesichtsbild und Fingerabdrücke.
 
 [^5b-1]: Eingefügt durch Ziff. II der V vom 1. Juli 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
-[^5b-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^5b-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^5b-3]: Siehe Fussnote zu Art. 5*a*
 
 ## 2. Kapitel: Antrag, Ausstellung, Verlust und Rückgabe
@@ -431,7 +431,7 @@ Von den Stellen gemäss Artikel 6*a* Absatz 1 AwG sowie gegebenenfalls den Mitgl
 <sup>3</sup> Die Stellen gemäss Artikel 6*a* Absatz 1 AwG weisen periodisch die Einhaltung und Aktualität des Qualitätsmanagementsystems und des Sicherheitskonzeptes nach.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2009, in Kraft seit 1. März 2010 ([AS 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^16-2]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^16-2]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 #### Art. 17
 
@@ -726,7 +726,9 @@ Die Datenübertragung hat lückenlos in chiffrierter Form zu erfolgen.
 
 <sup>1</sup> Jede Datenbearbeitung ist zu protokollieren.
 
-<sup>2</sup> Die Protokolle sind während eines Jahres revisionsgerecht aufzubewahren.
+<sup>2</sup> Die Protokolle sind während eines Jahres getrennt vom System, in welchem die Personendaten bearbeitet werden, aufzubewahren.[^40-1]
+
+[^40-1]: Fassung gemäss Anhang 2 Ziff. II 9 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 41
 
@@ -744,23 +746,27 @@ Die Datenübertragung hat lückenlos in chiffrierter Form zu erfolgen.
 
 **Auskunfts- und Berichtigungsrecht**
 
-<sup>1</sup> Jede Person kann beim Bundesamt schriftlich Auskunft verlangen, ob Daten über sie bearbeitet werden.
+<sup>1</sup> Jede Person kann beim Bundesamt in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^42-1] Auskunft verlangen, ob Daten über sie bearbeitet werden.[^42-2]
 
 <sup>2</sup> Die Auskunft erfolgt schriftlich und ist kostenlos. Sie enthält sämtliche im Informationssystem gespeicherten Daten über die ersuchende Person.
 
-<sup>3</sup> Für die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft gilt Artikel 9 des Datenschutzgesetzes vom 19. Juni 1992[^42-1].
+<sup>3</sup> Für die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft gilt Artikel 26 des Datenschutzgesetzes vom 25. September 2020[^42-3] (DSG).[^42-4]
 
 <sup>4</sup> Jede Person kann verlangen, dass unrichtige Daten über sie berichtigt werden.
 
-[^42-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^42-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^42-2]: Fassung gemäss Anhang 2 Ziff. II 9 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^42-3]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^42-4]: Fassung gemäss Anhang 2 Ziff. II 9 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 43
 
-**Weitere Ansprüche der Betroffenen**
+**Weitere Ansprüche der Betroffenen**[^43-1]
 
-Weitere Ansprüche der Betroffenen richten sich nach Artikel 25 des Datenschutzgesetzes vom 19. Juni 1992[^43-1].
+Weitere Ansprüche der Betroffenen richten sich nach Artikel 41 DSG[^43-2].
 
-[^43-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^43-1]: Fassung gemäss Anhang 2 Ziff. II 9 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^43-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ### 5. Abschnitt: Aufteilung der Kosten zwischen Bund und Kantonen
 
@@ -779,7 +785,7 @@ Weitere Ansprüche der Betroffenen richten sich nach Artikel 25 des Datenschutzg
 <sup>5</sup> Die Kantone beziehen ausschliesslich die vom Bund bestimmten Geräte bei dem vom Bund bestimmten Lieferanten. Sie übernehmen die Kosten für die Anschaffung, den Unterhalt und den Ersatz der für die Ausstellung und Kontrolle von Ausweisen notwendigen Infrastruktur.
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2009, in Kraft seit 1. März 2010 ([AS 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^44-2]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^44-2]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ## 4. Kapitel: Gebühren
 
@@ -959,7 +965,7 @@ Entscheide und dienstliche Anordnungen des EDA bezüglich der Ausstellung und Ab
 
 <sup>2</sup> Es erlässt die zur Durchführung dieser Verordnung erforderlichen Weisungen über Ausweise.
 
-<sup>3</sup> und <sup>4</sup> …[^58-2]
+<sup>3 und <sup>4</sup></sup> …[^58-2]
 
 [^58-1]: Fassung gemäss Ziff. I der V vom 17. März 2006, in Kraft seit 4. Sept. 2006 ([AS 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
 [^58-2]: Aufgehoben durch Ziff. I der V vom 21. Okt. 2009, mit Wirkung seit 1. März 2010 ([AS 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
@@ -985,8 +991,6 @@ Folgende Verordnungen werden aufgehoben:
 #### Art. 60
 
 **Änderung bisherigen Rechts**
-
-Die nachstehenden Verordnungen werden wie folgt geändert:
 
 …[^60-1]
 
