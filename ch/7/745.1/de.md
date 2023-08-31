@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 2009 über die Personenbeförderung (Personen
 short: PBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230101/de"
 
 (Personenbeförderungsgesetz, PBG)
 
-vom 20. März 2009[^t-1] (Stand am 1. Januar 2023)
+vom 20. März 2009[^t-1] (Stand am 1. September 2023)
 
 [^t-1]: Anhang 1 des BG vom 20. März 2009 über die Bahnreform 2 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679))
 
@@ -1173,15 +1173,14 @@ Es kann nach einer Verhältnismässigkeitsprüfung der Öffentlichkeit besonders
 
 #### Art. 54
 
-**Datenbearbeitung durch Unternehmen**
+**Datenbearbeitung durch Konzessionsinhaberinnen**[^54-1]
 
-<sup>1</sup> Die Unternehmen unterstehen für ihre konzessionierten und bewilligten Tätigkeiten den Artikeln 16–25<sup>bis</sup> des Bundesgesetzes vom 19. Juni 1992[^54-1] über den Datenschutz (DSG). Handeln sie dabei privatrechtlich, so unterstehen sie stattdessen den Artikeln 12–15 DSG.
+<sup>1</sup> Die Unternehmen unterstehen für ihre konzessionierten und bewilligten Tätigkeiten den Artikeln 33–42 des Datenschutzgesetzes vom 25. September 2020[^54-2] (DSG). Handeln sie dabei privatrechtlich, so unterstehen sie stattdessen den Artikeln 30–32 DSG.
 
-<sup>2</sup> Sie können besonders schützenswerte Personendaten sowie Persönlichkeitsprofile bearbeiten, soweit dies für die Personenbeförderung und den Betrieb oder für die Sicherheit der Reisenden, des Betriebes oder der Infrastruktur erforderlich ist. Dies gilt auch für Dritte, die Aufgaben eines Unternehmens mit einer Konzession oder Bewilligung nach den Artikeln 6–8 wahrnehmen. Das Unternehmen bleibt für die Einhaltung der Datenschutzvorschriften verantwortlich.
+<sup>2</sup> Sie können besonders schützenswerte Personendaten bearbeiten, soweit dies für die Personenbeförderung und den Betrieb oder für die Sicherheit der Reisenden, des Betriebes oder der Infrastruktur erforderlich ist. Dies gilt auch für Dritte, die Aufgaben eines Unternehmens mit einer Konzession oder Bewilligung nach den Artikeln 6–8 wahrnehmen. Das Unternehmen bleibt für die Einhaltung der Datenschutzvorschriften verantwortlich.
 
-<sup>3</sup> Die Aufsicht richtet sich nach Artikel 27 DSG.
-
-[^54-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-1]: Fassung gemäss Anhang 1 Ziff. II 62 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^54-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 55
 

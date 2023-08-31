@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 2009 sul trasporto di viaggiatori (Legge sul
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230101/it"
 
 (Legge sul trasporto di viaggiatori, LTV)
 
-del 20 marzo 2009[^t-1] (Stato 1° gennaio 2023)
+del 20 marzo 2009[^t-1] (Stato 1° settembre 2023)
 
 [^t-1]: All. 1 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
 
@@ -87,7 +87,7 @@ Inoltre s’intendono per:
 
 La Confederazione detiene l’esclusiva sul trasporto regolare e professionale di viaggiatori, in quanto questo diritto non sia limitato da altri atti normativi o da trattati internazionali.
 
-[^4-1]: Correzione della CdR dell’AF del 25 feb. 2020, concerne solamente il testo francese, pubblicata il 3 mar. 2020. ([RU 2020 627](https://fedlex.data.admin.ch/eli/oc/2020/120)).
+[^4-1]: Correzione della Commissione di redazione dell’AF del 25 feb. 2020, pubblicata il 3 mar. 2020, concerne soltanto il testo francese. ([RU 2020 627](https://fedlex.data.admin.ch/eli/oc/2020/120)).
 
 #### Art. 5
 
@@ -1191,15 +1191,14 @@ Dopo aver valutato la proporzionalità del provvedimento, l’UFT può pubblicar
 
 #### Art. 54
 
-**Trattamento di dati da parte delle imprese**
+**Trattamento di dati da parte del titolare della concessione**[^54-1]
 
-<sup>1</sup> Per le loro attività che rientrano nella concessione o nell’autorizzazione, le imprese sottostanno agli articoli 16–25<sup>bis</sup> della legge federale del 19 giugno 1992[^54-1] sulla protezione dei dati (LPD). Se agiscono secondo il diritto privato, sottostanno invece agli articoli 12–15 LPD.
+<sup>1</sup> Per le loro attività che rientrano nella concessione o nell’autorizzazione, le imprese sottostanno agli articoli 33–42 della legge federale del 25 settembre 2020[^54-2] sulla protezione dei dati (LPD). Se agiscono secondo il diritto privato, sottostanno invece agli articoli 30–32 LPD.
 
-<sup>2</sup> Le imprese possono trattare dati personali degni di particolare protezione e profili della personalità se è necessario per il trasporto dei viaggiatori e per l’esercizio o per la sicurezza dei viaggiatori, dell’esercizio o dell’infrastruttura. Questo vale anche per terzi che svolgono compiti di un’impresa titolare di una concessione o di un’autorizzazione secondo gli articoli 6–8. L’impresa rimane responsabile del rispetto delle disposizioni della legislazione sulla protezione dei dati.
+<sup>2</sup> Le imprese possono trattare dati personali degni di particolare protezione se è necessario per il trasporto dei viaggiatori e per l’esercizio o per la sicurezza dei viaggiatori, dell’esercizio o dell’infrastruttura. Ciò vale anche per terzi che assumono i compiti di un’impresa titolare di una concessione o autorizzazione secondo gli articoli 6–8. L’impresa rimane responsabile del rispetto delle disposizioni della legislazione sulla protezione dei dati.
 
-<sup>3</sup> La vigilanza è retta dall’articolo 27 LPD.
-
-[^54-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-1]: Nuovo testo giusta l’all. 1 n. II 62 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^54-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 55
 

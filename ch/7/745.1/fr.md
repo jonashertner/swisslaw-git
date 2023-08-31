@@ -4,11 +4,11 @@ title: Loi du 20 mars 2009 sur le transport de voyageurs (LTV)
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230101/fr"
 
 (LTV)[^t-1]
 
-du 20 mars 2009[^t-2] (État le 1<sup>er</sup> janvier 2023)
+du 20 mars 2009[^t-2] (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Annexe 1 de la loi du 20 mars 2009 sur la réforme des chemins de fer 2 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
@@ -1170,15 +1170,14 @@ Après avoir procédé à un examen fondé sur le principe de la proportionnalit
 
 #### Art. 54
 
-**Traitement des données par les concessionnaires**
+**Traitement des données par les concessionnaires**[^54-1]
 
-<sup>1</sup> Pour leurs activités relevant de la concession et de l’autorisation, les entreprises sont soumises aux art. 16 à 25<sup>bis</sup> de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^54-1]. Si elles agissent selon le droit privé, elles sont assujetties aux art. 12 à 15 LPD.
+<sup>1</sup> Pour leurs activités relevant de la concession et de l’autorisation, les entreprises sont soumises aux art. 33 à 42 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^54-2]. Si elles agissent selon le droit privé, elles sont assujetties aux art. 30 à 32 LPD.
 
-<sup>2</sup> Les entreprises peuvent traiter des données sensibles et des profils de la personnalité si cela est nécessaire au transport des voyageurs ou à l’exploitation ou encore à la sécurité des voyageurs, de l’exploitation ou de l’infrastructure. Il en va de même des tiers qui assurent des tâches incombant à l’entreprise titulaire d’une concession ou d’une autorisation au sens des art. 6 à 8. L’entreprise répond du respect de la législation sur la protection des données.
+<sup>2</sup> Elles peuvent traiter des données sensibles si cela est nécessaire au transport des voyageurs ou à l’exploitation ou encore à la sécurité des voyageurs, de l’exploitation ou de l’infrastructure. Il en va de même des tiers qui assurent des tâches incombant à l’entreprise titulaire d’une concession ou d’une autorisation au sens des art. 6 à 8. L’entreprise répond du respect de la législation sur la protection des données.
 
-<sup>3</sup> La surveillance est régie par l’art. 27 LPD.
-
-[^54-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^54-1]: Nouvelle teneur selon l’annexe 1 ch. II 62 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^54-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 55
 
