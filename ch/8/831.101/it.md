@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 1947 sull'assicurazione per la vecchiaia e per 
 short: OAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230101/it/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230901/it/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230101/it"
 
 (OAVS)[^t-1]
 
-del 31 ottobre 1947 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 31 ottobre 1947 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo tit. giusta il n. I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i tit. marg. sono stati accentrati.
 
@@ -1016,7 +1016,7 @@ I contributi devono essere versati in ogni caso:
 
 <sup>1</sup> Alle persone che potevano ritenere in buona fede di non dovere i contributi loro reclamati può essere condonato tutto il debito o parte di esso, quando il pagamento dei contributi costituisca per esse un onere troppo grave avuto riguardo alle loro condizioni economiche.
 
-<sup>2</sup> Il condono è accordato dalla cassa di compensazione a domanda scritta della persona tenuta a pagare i contributi arretrati. La domanda dev’essere motivata e presentata alla cassa di compensazione entro 20 giorni dalla notificazione dell’ordine di pagamento. È riservato il capoverso 3.
+<sup>2</sup> Il condono è accordato dalla cassa di compensazione a domanda scritta della persona tenuta a pagare i contributi arretrati. La domanda dev’essere motivata e presentata alla cassa di compensazione entro 30 giorni dalla notificazione dell’ordine di pagamento. È riservato il capoverso 3.
 
 <sup>3</sup> Se le condizioni indicate nel capoverso 1 sono adempite in modo evidente, la cassa di compensazione può accordare il condono anche di moto proprio.
 
@@ -3066,9 +3066,10 @@ Nel sistema d’informazione nell’ambito dell’assoggettamento assicurativo s
 
 **Controllo dei conti e dei pagamenti**[^144-1]
 
-La cassa di compensazione comunica a ogni persona tenuta a pagare i contributi e a regolare i conti con essa il relativo numero d’identificazione delle imprese o numero amministrativo, oppure le attribuisce un numero di conteggio. La cassa di compensazione tiene un registro di queste persone.
+La cassa di compensazione comunica a ogni persona tenuta a pagare i contributi e a regolare i conti con essa il relativo numero d’identificazione delle imprese o numero amministrativo, oppure le attribuisce un numero di conteggio. La cassa di compensazione tiene un registro di queste persone.[^144-2]
 
 [^144-1]: Nuovo testo giusta l’all. n. 8 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^144-2]: La mod. giusta l’all. 2 n. II 117 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023, concerne soltanto il testo francese ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### II. ...
 

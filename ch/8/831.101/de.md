@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversi
 short: AHVV
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230101/de/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230901/de/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230101/de"
 
 (AHVV)[^t-1]
 
-vom 31. Oktober 1947 (Stand am 1. Januar 2023)
+vom 31. Oktober 1947 (Stand am 1. September 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -3059,9 +3059,10 @@ Das Informationssystem im Bereich der Versicherungsunterstellung enthält Daten,
 
 **Abrechnungs- und Zahlungskontrolle**[^144-1]
 
-Die Ausgleichskasse teilt jedem mit ihr abrechnenden Beitragspflichtigen die Unternehmens-Identifikationsnummer oder die Administrativnummer mit oder teilt ihm eine Abrechnungsnummer zu. Sie führt ein Register dieser Beitragspflichtigen.
+Die Ausgleichskasse teilt jedem mit ihr abrechnenden Beitragspflichtigen die Unternehmens-Identifikationsnummer oder die Administrativnummer mit oder teilt ihm eine Abrechnungsnummer zu. Sie führt ein Register dieser Beitragspflichtigen.[^144-2]
 
 [^144-1]: Fassung gemäss Anhang Ziff. 8 der V vom 26. Jan. 2011 über die Unternehmens-Identifikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^144-2]: Die Änd. gemäss Anhang 2 Ziff. II 116 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 betrifft nur den französischen Text ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### II. …
 

@@ -4,11 +4,11 @@ title: "Règlement du 31 octobre 1947 sur l'assurance-vieillesse et survivants (
 short: RAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230101/fr"
 
 (RAVS)[^t-1]
 
-du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2023)
+du 31 octobre 1947 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -105,7 +105,7 @@ Est considérée comme relativement courte au sens de l’art. 1*a*, al. 2, let.
 
 <sup>1</sup> Les personnes affiliées à des institutions officielles étrangères d’assurance-vieillesse et survivants pour lesquelles l’assujettissement à l’assurance constituerait un cumul de charges trop lourdes seront exemptées de l’assurance obligatoire par la caisse de compensation compétente, sur présentation d’une requête.
 
-<sup>2</sup> ...[^3-1]
+<sup>2</sup> …[^3-1]
 
 [^3-1]: Abrogé par le ch. I de l’ACF du 30 déc. 1953, avec effet au 1<sup>er</sup> janv. 1954 ([RO 1954 226](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
 
@@ -258,13 +258,13 @@ Ne sont pas comprises dans le revenu provenant d’une activité lucrative:[^6-1
 
 - a.[^6-2] la solde militaire, les indemnités de fonction dans la protection civile, les sommes d’argent de poche aux personnes astreintes au service civil, la solde allouée pour le service du feu selon l’art. 24, let. f<sup>bis</sup>, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^6-3], de même que les indemnités analogues dans les cours pour moniteurs de jeunes tireurs;
 - b.[^6-4] les prestations d’assurance en cas d’accident, de maladie ou d’invalidité, à l’exception des indemnités journalières selon l’art. 25 de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^6-5] et l’art. 29 de la loi fédérale du 19 juin 1992 sur l’assurance militaire[^6-6];
-- c.[^6-7] ...
-- d.[^6-8] ...
-- e.[^6-9] ...
+- c.[^6-7] …
+- d.[^6-8] …
+- e.[^6-9] …
 - f.[^6-10] les allocations familiales qui sont accordées, conformément aux usages locaux ou professionnels, au titre d’allocation pour enfants et d’allocation de formation professionnelle, d’allocation de ménage ou d’allocation de mariage ou de naissance;
 - g.[^6-11] les prestations destinées à permettre la formation ou le perfectionnement professionnels; si celles-ci sont octroyées par l’employeur, elles ne sont exceptées du revenu provenant d’une activité lucrative que pour autant que la formation ou le perfectionnement soient étroitement liés à l’activité professionnelle du bénéficiaire;
 - h.[^6-12] les prestations réglementaires d’institutions de prévoyance professionnelle, si le bénéficiaire a un droit propre envers l’institution[^6-13] au moment où l’événement assuré se produit ou lorsque l’institution est dissoute;
-- [tab] i. et k.[^6-14]...[^6-15]
+- [tab] i. et k.[^6-14]…[^6-15]
 
 [^6-1]: Nouvelle teneur selon le ch. II de l’O du 27 oct. 1987, en vigueur depuis le 1<sup>er</sup> janv. 1988 ([RO 1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
@@ -411,7 +411,7 @@ Sont considérés comme des impératifs d’exploitation, la fermeture, la fusio
 
 <sup>2</sup> Ne font pas partie des frais généraux les indemnités accordées régulièrement pour le déplacement du domicile au lieu de travail habituel et pour les repas courants pris au domicile ou au lieu de travail habituel; ces indemnités font en principe partie du salaire déterminant.
 
-<sup>3</sup> ...[^9-4]
+<sup>3</sup> …[^9-4]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
 [^9-2]: L’erratum du 5 sept. 2017 ne concerne que le texte italien ([RO 2017 4813](https://fedlex.data.admin.ch/eli/oc/2017/513)).
@@ -478,7 +478,7 @@ Les cotisations des membres de la famille qui travaillent avec l’exploitant ag
 
 **Pourboires**[^15-1]
 
-<sup>1</sup> et <sup>2</sup> ...[^15-2]
+<sup>1</sup> et <sup>2</sup> …[^15-2]
 
 <sup>3</sup> Les pourboires versés aux salariés des entreprises de transport ne sont comptés dans le salaire déterminant que dans la mesure où ils sont soumis aux primes dues à l’assurance-accidents obligatoire.
 
@@ -534,7 +534,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 <sup>1</sup> Les cotisations perçues sur le revenu provenant d’une activité indépendante obtenu dans une entreprise doivent être payées par le propriétaire, en cas de fermage ou d’usufruit par le fermier ou l’usufruitier. Dans le doute, elles doivent être payées par la personne qui est imposable pour le revenu considéré, ou en l’absence d’obligation fiscale, par celle qui assume la responsabilité de l’exploitation.
 
-<sup>2</sup> ...[^20-1]
+<sup>2</sup> …[^20-1]
 
 <sup>3</sup> Les membres des sociétés en nom collectif, des sociétés en commandite et d’autres collectivités de personnes ayant un but lucratif et ne possédant pas la personnalité juridique sont tenus de payer les cotisations sur leur part du revenu de la collectivité.[^20-2]
 
@@ -694,7 +694,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 <sup>4</sup> Si une personne mariée doit payer des cotisations comme personne sans activité lucrative, ses cotisations sont déterminées sur la base de la moitié de la fortune et du revenu sous forme de rente du couple. Il en va de même pour toute l’année de la conclusion du mariage. Pour toute l’année durant laquelle le divorce a été prononcé, les cotisations sont déterminées selon l’al. 1. Celui-ci s’applique également à la période postérieure au décès du conjoint.[^28-5]
 
-<sup>4bis</sup> ...[^28-6]
+<sup>4bis</sup> …[^28-6]
 
 <sup>5</sup> Les conjoints sans activité lucrative, dont les cotisations ne sont pas considérées comme payées (art. 3, al. 3, LAVS), doivent s’annoncer auprès de la caisse de compensation du canton de leur domicile.[^28-7]
 
@@ -782,7 +782,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 <sup>2</sup> Les assurés sans activité lucrative qui demandent l’imputation doivent apporter à la caisse de compensation à laquelle ils sont affiliés comme personnes sans activité lucrative la preuve que des cotisations ont été versées sur le produit d’une activité lucrative.
 
-<sup>3</sup> ...[^30-3]
+<sup>3</sup> …[^30-3]
 
 [^30-1]: Abrogé par le ch. I de l’ACF du 20 avr. 1951 ([RO 1951 396](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)). Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^30-2]: Erratum du 16 juin 2020, ne concerne que le texte italien ([RO 2020 2185](https://fedlex.data.admin.ch/eli/oc/2020/435)).
@@ -800,7 +800,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 <sup>1</sup> Celui qui demande la réduction de ses cotisations présentera par écrit à la caisse de compensation à laquelle il est affilié une requête accompagnée des documents utiles et rendra vraisemblable que le paiement de la cotisation entière constituerait pour lui une charge trop lourde.[^31-2]
 
-<sup>2</sup> La caisse de compensation prend la décision après avoir procédé aux enquêtes nécessaires.[^31-3] ...[^31-4]
+<sup>2</sup> La caisse de compensation prend la décision après avoir procédé aux enquêtes nécessaires.[^31-3] …[^31-4]
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’ACF du 20 avr. 1951, en vigueur depuis le 1<sup>er</sup> janv. 1951 ([RO 1951 396](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
 [^31-2]: Nouvelle teneur selon le ch. I de l’ACF du 20 avr. 1951, en vigueur depuis le 1<sup>er</sup> janv. 1951 ([RO 1951 396](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
@@ -817,7 +817,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 <sup>3</sup> La décision de remise est également adressée au canton de domicile; celui-ci peut former opposition conformément à l’art. 52 LPGA ou utiliser les moyens de recours prévus par les art. 56 et 62 LPGA.[^32-1]
 
-<sup>4</sup> ...[^32-2]
+<sup>4</sup> …[^32-2]
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^32-2]: Abrogé par le ch. I de l’ACF du 10 mai 1957, avec effet au 1<sup>er</sup> janv. 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
@@ -1054,7 +1054,7 @@ Doivent payer des intérêts moratoires:
 - e. les personnes exerçant une activité lucrative indépendante, les personnes sans activité lucrative et les salariés dont l’employeur n’est pas tenu de payer des cotisations, sur les cotisations personnelles à payer sur la base du décompte qu’ils n’ont pas versées dans les 30 jours à compter de la facturation, dès la facturation par la caisse de compensation;
 - f. les personnes exerçant une activité lucrative indépendante, les personnes sans activité lucrative et les salariés dont l’employeur n’est pas tenu de payer des cotisations, sur les cotisations à payer sur la base du décompte, lorsque les acomptes versés étaient inférieurs d’au moins 25 % aux cotisations effectivement dues et que les cotisations n’ont pas été versées jusqu’au 1<sup>er</sup> janvier après la fin de l’année civile qui suit l’année de cotisation, dès le 1<sup>er</sup> janvier après la fin de l’année civile qui suit l’année de cotisation.
 
-<sup>1bis</sup> ...[^41bis-5]
+<sup>1bis</sup> …[^41bis-5]
 
 <sup>1ter</sup> Aucun intérêt moratoire ne sera dû pour la période du 21 mars 2020 au 30 juin 2020.[^41bis-6]
 
@@ -1101,7 +1101,7 @@ Doivent payer des intérêts moratoires:
 
 #### Art. 43
 
-**...[^43-1]**
+**…[^43-1]**
 
 En cas de décès d’une personne tenue au paiement des cotisations, ses héritiers répondent solidairement des cotisations dues par elle de son vivant. Les art. 566, 589 et 593 du code civil suisse[^43-2] sont réservés.
 
@@ -1288,7 +1288,7 @@ Le revenu provenant d’une activité lucrative inscrit au compte individuel en 
 
 **Calcul du revenu annuel moyen**[^51-1]
 
-<sup>1</sup> ...[^51-2]
+<sup>1</sup> …[^51-2]
 
 <sup>2</sup> Pour le calcul du revenu annuel moyen, on prend également en considération les années de cotisations ajoutées conformément à l’art. 52*d*, ainsi que les périodes de cotisations et les revenus correspondants pris en compte en vertu de l’art. 52*b*.[^51-3]
 
@@ -1389,6 +1389,7 @@ Le montant de la rente adaptée à l’indice des rentes selon l’art. 33<sup>t
 <tr><td>56,82</td><td colspan="2">59,10</td><td>59,09</td><td>26</td></tr>
 <tr><td>59,10</td><td colspan="2">61,37</td><td>61,36</td><td>27</td></tr>
 <tr><td>61,37</td><td colspan="2">63,64</td><td>63,64</td><td>28</td></tr>
+<tr><td>63,64</td><td colspan="2">65,91</td><td>65,91</td><td>29</td></tr>
 <tr><td>65,91</td><td colspan="2">68,19</td><td>68,18</td><td>30</td></tr>
 <tr><td>68,19</td><td colspan="2">70,46</td><td>70,45</td><td>31</td></tr>
 <tr><td>70,46</td><td colspan="2">72,73</td><td>72,73</td><td>32</td></tr>
@@ -1410,7 +1411,7 @@ Le montant de la rente adaptée à l’indice des rentes selon l’art. 33<sup>t
 
 <sup>2</sup> Une rente complète est attribuée lorsque le rapport entre les années entières de cotisations de l’assuré et celles de sa classe d’âge est d’au moins 97,73 %.
 
-<sup>3</sup> et <sup>4</sup> ...[^52-3]
+<sup>3</sup> et <sup>4</sup> …[^52-3]
 
 [^52-1]: Abrogé par le ch. I de l’ACF du 10 mai 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)). Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^52-2]: Introduit par le ch. I de l’O du 16 sept. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)).
@@ -1473,7 +1474,7 @@ Les bonifications pour tâches éducatives sont également attribuées pour les 
 
 <sup>2</sup> La bonification pour tâches éducatives correspondant à l’année de la dissolution du mariage ou à l’année du décès de l’un des parents est octroyée au parent auquel l’autorité parentale a été attribuée ou au parent survivant.
 
-<sup>2bis</sup> ... [^52f-2]
+<sup>2bis</sup> … [^52f-2]
 
 <sup>3</sup> Si l’enfant décède durant l’année civile de sa naissance, il y a lieu d’octroyer des bonifications pour tâches éducatives durant une année. Ces bonifications seront réparties entre les conjoints, également lorsqu’elles tombent dans l’année civile du mariage. L’al. 5 est réservé.
 
@@ -1591,7 +1592,7 @@ Lorsque la personne décédée a accompli l’âge indiqué ci-dessous, l’augm
 
 **Réduction des rentes pour enfants et des rentes d’orphelins**[^54bis-1]
 
-<sup>1</sup> ...[^54bis-2]
+<sup>1</sup> …[^54bis-2]
 
 <sup>2</sup> Elles ne sont pas réduites lorsque, ajoutées à la rente du père ou de la mère, elles ne dépassent pas la somme de 150 % du montant minimum de la rente de vieillesse auquel s’ajoutent les montants minimums de trois rentes pour enfants ou d’orphelins. Ce montant est augmenté, à partir du quatrième enfant, et pour chacun des suivants, du montant maximum de la rente mensuelle de vieillesse (art. 34, al. 3, LAVS).
 
@@ -1634,10 +1635,10 @@ La réduction des rentes extraordinaires pour enfants et des rentes extraordinai
 
 Sont exclues de l’ajournement prévu à l’art. 39 LAVS:
 
-- a.[^55bis-2] ...
+- a.[^55bis-2] …
 - b.[^55bis-3] les rentes de vieillesse succédant à une rente d’invalidité;
 - c. les rentes de vieillesse assorties d’une allocation pour impotent;
-- [tab] d. à f.[^55bis-4] ...
+- [tab] d. à f.[^55bis-4] …
 - g. les rentes de vieillesse des assurés facultatifs qui, jusqu’à la limite d’âge prévue à l’art. 21, al. 1 et 2, LAVS, ont bénéficié d’une allocation de secours conformément à l’art. 92 LAVS ou à l’art. 76 LAI[^55bis-5].
 
 [^55bis-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
@@ -1688,7 +1689,7 @@ Lorsque des rentes de survivants succèdent à une rente de vieillesse ajournée
 
 <sup>4</sup> Le décès de l’ayant droit à la rente de vieillesse entraîne la révocation de l’ajournement.[^55quater-4]
 
-<sup>5</sup> ...[^55quater-5]
+<sup>5</sup> …[^55quater-5]
 
 [^55quater-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 [^55quater-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
@@ -1872,7 +1873,7 @@ La décision de rente doit être notifiée aux parties, en particulier:[^68-3]
 - a. à l’ayant droit personnellement ou à son représentant légal;
 - b.[^68-4] à la personne ou à l’autorité qui a fait valoir le droit à la rente, ou à qui la rente est versée;
 - c.[^68-5] à l’assureur-accidents concerné, si son obligation d’allouer des prestations est touchée;
-- d.[^68-6] ....
+- d.[^68-6] ….
 
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 [^68-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
@@ -1895,7 +1896,7 @@ La décision de rente doit être notifiée aux parties, en particulier:[^68-3]
 
 <sup>1</sup> La formule de demande doit contenir toutes les indications nécessaires pour la détermination du droit à une allocation pour impotent.
 
-<sup>2</sup> ...[^69bis-2]
+<sup>2</sup> …[^69bis-2]
 
 <sup>3</sup> La caisse de compensation doit noter la date de réception de la demande et transmettre cette dernière à l’office de l’assurance-invalidité (dénommé ci-après «office AI») compétent.[^69bis-3]
 
@@ -1959,7 +1960,7 @@ Les caisses de compensation communiquent de façon appropriée, à la CdC, les d
 
 **Mode de paiement**[^71-1]
 
-<sup>1</sup> ...[^71-2]
+<sup>1</sup> …[^71-2]
 
 <sup>2</sup> Si un ayant droit à la rente doit simultanément, en tant que personne soumise à l’obligation de payer des cotisations, régler les comptes avec la caisse de compensation, les rentes et les allocations pour impotents peuvent être compensées par les cotisations dues.
 
@@ -2006,7 +2007,7 @@ La preuve du paiement des rentes ou des allocations pour impotents est fournie p
 
 **Mesures de précaution**
 
-<sup>1</sup> ...[^74-1]
+<sup>1</sup> …[^74-1]
 
 <sup>2</sup> Les caisses de compensation prennent les mesures nécessaires pour établir si les ayants droit sont en vie. Ces contrôles se font au fur et à mesure au moyen des dossiers à disposition, des communications parvenant aux caisses ainsi qu’au vu des avis périodiques de décès remis par la CdC. Au besoin, les caisses de compensation se procurent un certificat de vie.[^74-2]
 
@@ -2060,7 +2061,7 @@ Celui qui n’a pas touché la rente à laquelle il avait droit, ou qui a reçu 
 
 <sup>1</sup> La caisse de compensation déclarera irrécouvrables les rentes à restituer, lorsque les poursuites sont restées sans effet ou lorsqu’il est manifeste qu’elles demeureraient infructueuses, et que la dette ne peut être amortie par compensation. Si le débiteur revient à meilleure fortune, le paiement des montants déclarés irrécouvrables sera exigé.
 
-<sup>2</sup> ...[^79bis-2]
+<sup>2</sup> …[^79bis-2]
 
 [^79bis-1]: Introduit par le ch. I de l’ACF du 20 avr. 1951, en vigueur depuis le 1<sup>er</sup> janv. 1951 ([RO 1951 396](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
 [^79bis-2]: Abrogé par le ch. I 1 de l’O du 11 oct. 1972, avec effet au 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
@@ -2073,7 +2074,7 @@ Les art. 77 et 79<sup>bis</sup> sont applicables par analogie aux allocations po
 
 [^79ter-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### VII. ...
+### VII. …
 
 #### Art. 79<sup>quater</sup>
 
@@ -2083,7 +2084,7 @@ Les art. 77 et 79<sup>bis</sup> sont applicables par analogie aux allocations po
 
 ## Chapitre IV L’organisation
 
-### A. ...
+### A. …
 
 #### Art. 80
 
@@ -2197,7 +2198,7 @@ Lorsqu’une caisse de compensation paritaire est créée, les associations de s
 
 <sup>1</sup> Les papiers-valeurs doivent, en règle générale, être déposés auprès de la Banque nationale suisse, à Berne. Ils peuvent l’être également auprès de banques suisses soumises à la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^93-1].
 
-<sup>2</sup> ...[^93-2]
+<sup>2</sup> …[^93-2]
 
 [^93-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^93-2]: Abrogé par le ch. I de l’ACF du 10 mai 1957, avec effet au 1<sup>er</sup> janv. 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
@@ -2291,7 +2292,7 @@ Le règlement de la caisse doit être remis[^100-2] à l’OFAS qui est compéte
 
 Le règlement des caisses de compensation paritaire doit contenir, outre les dispositions énumérées à l’art. 57, al. 2, LAVS, ainsi qu’à l’al. 1 du présent article, des dispositions concernant:
 
-- a. la participation aux frais d’administration, ainsi qu’à l’obligation de compléter le montant des sûretés conformément à l’art. 97; ...[^101-1]
+- a. la participation aux frais d’administration, ainsi qu’à l’obligation de compléter le montant des sûretés conformément à l’art. 97; …[^101-1]
 - b. le choix du président et du vice-président du comité de direction de la caisse et la durée de leurs charges;
 - c. la répartition d’un actif et la couverture d’un déficit éventuels résultant des frais d’administration, en cas de liquidation.
 
@@ -3034,7 +3035,7 @@ Le système d’information dans le domaine de l’assujettissement à l’assur
 
 <sup>2</sup> Lorsque d’autres tâches sont confiées à la caisse de compensation, conformément à l’art. 63, al. 4, LAVS, les cotisations qui en découlent ainsi que les prestations qui doivent être servies peuvent, avec le consentement de l’OFAS, être comprises dans le relevé de compte à la condition que le règlement des comptes n’en soit pas rendu plus difficile.
 
-<sup>3</sup> ...[^142-2]
+<sup>3</sup> …[^142-2]
 
 [^142-1]: Nouvelle teneur selon le ch. I de l’ACF du 19 nov. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
 [^142-2]: Abrogé par le ch. I de l’O du 17 juin 1985, avec effet au 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
@@ -3060,11 +3061,12 @@ Le système d’information dans le domaine de l’assujettissement à l’assur
 
 **Contrôle des relevés de compte et des paiements**[^144-1]
 
-La caisse de compensation communique le numéro d’identification des entreprises ou le numéro administratif à chaque personne tenue de payer des cotisations et de régler son compte avec elle ou lui attribue un numéro de relevé de compte. Elle tient un fichier de ces personnes.
+La caisse de compensation communique le numéro d’identification des entreprises ou le numéro administratif à chaque personne tenue de payer des cotisations et de régler son compte avec elle ou lui attribue un numéro de relevé de compte. Elle tient un registre de ces personnes.[^144-2]
 
 [^144-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^144-2]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 117 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
-### II. ...
+### II. …
 
 #### Art. 145 et 146
 
@@ -3393,7 +3395,7 @@ Lorsque l’indépendance n’est pas garantie, les bureaux de révision ou les 
 
 <sup>2</sup> L’OFAS est compétent pour ordonner des contrôles en application de l’art. 68, al. 2, dernière phrase, LAVS.
 
-### M. ...
+### M. …
 
 #### Art. 172 et 173
 
@@ -3412,7 +3414,7 @@ Lorsque l’indépendance n’est pas garantie, les bureaux de révision ou les 
 La CdC doit, en sus des tâches mentionnées à l’art. 71 LAVS et aux art. 133<sup>bis</sup>, 134<sup>ter</sup> à 134<sup>quinquies</sup>, 149, 154 et 171 du présent règlement:[^174-1]
 
 - a.[^174-2] …
-- b.[^174-3] ...
+- b.[^174-3] …
 - c.[^174-4] rassembler les comptes individuels d’un assuré lorsque survient l’événement assuré;
 - d.[^174-5] extraire des annonces faites[^174-6] conformément à l’art. 140, al. 2, ainsi que du registre des prestations en cours les renseignements que lui demande l’OFAS;
 - e.[^174-7] recevoir les avis de décès envoyés par les offices de l’état civil et les remettre aux caisses de compensation s’ils concernent des bénéficiaires de prestations dont les noms figurent au registre central;
@@ -3422,7 +3424,7 @@ La CdC doit, en sus des tâches mentionnées à l’art. 71 LAVS et aux art. 133
 
 <sup>1bis</sup> La CdC compare les données de l’assurance-chômage fournies par le SECO d’ici au 31 mars de l’année qui suit la période de décompte avec celles fournies par les caisses de compensation. Elle communique mensuellement le résultat de la comparaison au SECO au cours de l’année qui suit la période de décompte, la première fois d’ici au 15 avril et la dernière fois d’ici au 15 novembre.[^174-12]
 
-<sup>2</sup> ...[^174-13]
+<sup>2</sup> …[^174-13]
 
 <sup>3</sup> La CdC établit chaque année, à l’intention de l’OFAS, un rapport détaillé sur l’exécution des tâches qui lui incombent en vertu de l’al. 1.
 
@@ -3458,11 +3460,11 @@ La CdC dépend du DFF. Celui-ci règle son organisation interne.
 
 <sup>2</sup> L’OFAS peut, en général et dans des cas particuliers, donner aux services chargés d’appliquer la législation sur l’assurance des instructions garantissant l’uniformité de cette application.[^176-2]
 
-<sup>3</sup> ...[^176-3]
+<sup>3</sup> …[^176-3]
 
 <sup>4</sup> L’OFAS règle la collaboration entre les caisses de compensation et la CdC et veille à l’utilisation rationnelle des installations techniques. Les prescriptions qui touchent à l’organisation et à l’activité de la CdC sont arrêtées avec l’accord de l’Administration fédérale des finances.[^176-4]
 
-<sup>5</sup> ...[^176-5]
+<sup>5</sup> …[^176-5]
 
 [^176-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^176-2]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
@@ -3486,7 +3488,7 @@ La CdC dépend du DFF. Celui-ci règle son organisation interne.
 
 **Rapport de gestion des caisses de compensation**[^178-1]
 
-Les caisses de compensation doivent adresser chaque année à l’OFAS, et conformément aux instructions de celui-ci, un rapport de gestion. ...[^178-2]
+Les caisses de compensation doivent adresser chaque année à l’OFAS, et conformément aux instructions de celui-ci, un rapport de gestion. …[^178-2]
 
 [^178-1]: Nouvelle teneur selon le ch. I de l’ACF du 20 avr. 1951, en vigueur depuis le 1<sup>er</sup> janv. 1951 ([RO 1951 396](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
 [^178-2]: Dernière phrase abrogée par le ch. I de l’ACF du 15 janv. 1971, avec effet au 1<sup>er</sup> janv. 1971 ([RO 1971 29](https://fedlex.data.admin.ch/eli/oc/1971/29_29_29)).
@@ -3511,7 +3513,7 @@ Les caisses de compensation doivent remédier dans un délai convenable aux insu
 
 <sup>4</sup> La gestion par commissaire est supprimée dès que la garantie existe que les tâches incombant à la caisse de compensation seront exécutées conformément aux prescriptions. Le commissaire doit remettre un rapport final au DFI.
 
-## Chapitre V ...
+## Chapitre V …
 
 #### Art. 181 à 199
 
@@ -3644,7 +3646,7 @@ L’OFAS statue par une décision sur les litiges concernant la communication de
 
 <sup>1</sup> L’OFAS désigne et édite les formules officielles. Il peut prescrire l’emploi d’autres formules uniformes.
 
-<sup>2</sup> ...[^210-2]
+<sup>2</sup> …[^210-2]
 
 [^210-1]: Nouvelle teneur selon le ch. I de l’ACF du 19 nov. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
 [^210-2]: Abrogé par le ch. I de l’O du 11 août 1976, avec effet au 1<sup>er</sup> janv. 1977 ([RO 1976 1720](https://fedlex.data.admin.ch/eli/oc/1976/1720_1720_1720)).
@@ -3902,7 +3904,7 @@ Si le montant des demandes d’aides financières dépasse le montant des ressou
 
 [^u3-1]: [RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)
 
-a. ...[^u3-2]
+a. …[^u3-2]
 
 b. Transfert des rentes en cours
 
