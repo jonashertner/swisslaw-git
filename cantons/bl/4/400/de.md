@@ -4,13 +4,13 @@ number: "400"
 title: Raumplanungs- und Baugesetz
 short: RBG
 language: de
-version: 2023-06-01
-valid_until: 2023-08-31
-version_adopted: 2021-12-15
+version: 2023-09-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-30
 adopted: 1998-01-08
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400"
-pdf: "https://bl.clex.ch/api/de/versions/3699/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3703/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3699/pdf_file"
 
 (RBG)
 
-Vom 08.01.1998 (Stand 01.06.2023)
+Vom 08.01.1998 (Stand 01.09.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -800,11 +800,14 @@ beschliesst:[^ingress-2]
 
 <sup>4</sup> Planungszonen dürfen für die Dauer von 5 Jahren erlassen werden.
 
-<sup>5</sup> Planungszonen sind im Grundbuch anzumerken.[^53-1]
+<sup>5</sup> Planungszonen sind:
 
-<sup>6</sup> Sie sind bei Rechtskraft der zu sichernden Planung mit öffentlicher Anzeige aufzuheben und beim Grundbuchamt zur Löschung zu beantragen.
+- a. im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB) einzutragen;
+- b. mit Rechtskraft der zu sichernden Planung oder nach Ablauf von 5 Jahren aufzuheben und aus dem ÖREB-Kataster wieder zu löschen.
 
-[^53-1]: Vom Bund genehmigt am 22. Juni 1998.
+<sup>6</sup> Für Planungszonen gilt der ÖREB-Kataster als amtliches Publikationsorgan.[^53-1]
+
+[^53-1]: Art. 2 Abs. 3 ÖREBKV ([SR 510.622.4](https://db.clex.ch/link/Bund/510.622.4/de)).
 
 #### § 54
 
@@ -1392,7 +1395,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Bei der Erstellung baulicher Anlagen sind die anerkannten Regeln der Baukunde zu beachten.
 
-<sup>2</sup> Insbesondere sind bei Bau- und Abbrucharbeiten die dem Stand der Technik entsprechenden Massnahmen zur Verhütung von Unfällen und zur Bekämpfung von Lärm, Staub und anderen Störungen zu treffen sowie umweltschonende und abfallvermindernde Verfahren anzuwenden.
+<sup>2</sup> Insbesondere sind bei Bau- und Rückbauarbeiten die dem Stand der Technik entsprechenden Massnahmen zur Verhütung von Unfällen und zur Verminderung oder Vermeidung von Immissionen wie Lärm, Staub, Abgasen und Gerüchen zu treffen sowie umweltschonende und abfallvermindernde Verfahren anzuwenden.
 
 #### § 103
 
@@ -1644,7 +1647,7 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Die Rechtsmittelinstanz nimmt eine Überprüfung hinsichtlich Rechtsverletzungen einschliesslich der Überschreitung, Unterschreitung oder des Missbrauchs des Ermessens vor sowie hinsichtlich unrichtiger oder unvollständiger Feststellung des Sachverhalts und Unangemessenheit.
 
-### 6.2 Baubewilligung
+### 6.2 Bau- und Rückbaubewilligung
 
 #### § 120
 
@@ -1660,14 +1663,17 @@ beschliesst:[^ingress-2]
 - f. die Errichtung von Campingplätzen und das Aufstellen von Wohnwagen;
 - g. Aussenantennenanlagen.
 
-<sup>2</sup> Eine Bewilligung ist erforderlich für den Abbruch von Bauten und Bauteilen von Liegenschaften in Kernzonen.
+<sup>2</sup> Eine Bewilligung ist erforderlich für:
 
-<sup>3</sup> Der Regierungsrat legt in der Verordnung fest, welche baulichen Massnahmen nach Art, Umfang und Befristung der Aufstellungsdauer von der Baubewilligungspflicht befreit sind.
+- a. den Rückbau von Bauten und Bauteilen von Liegenschaften, wenn diese nicht im Rahmen einer Baubewilligung für einen Neu- oder Umbau erteilt wird;
+- b. Unterhaltsarbeiten an Anlagen gemäss Abs. 4 Bst. a, wenn dabei voraussichtlich mehr als 200 m³ Rückbaumaterial anfallen oder das Rückbaumaterial schadstoffbelastet ist.
 
-<sup>4</sup> Keine Baubewilligung ist erforderlich
+<sup>3</sup> Der Regierungsrat legt in der Verordnung fest, in welchen Fällen eine Rückbaubewilligung nicht erforderlich ist und welche baulichen Massnahmen nach Art, Umfang und Befristung der Aufstellungsdauer von der Baubewilligungspflicht befreit sind.
 
-- a. für öffentliche Leitungen und Tiefbauten, insbesondere Kanalisationen, Wasserleitungen, Energieleitungen, Strassen, Brücken und Wassernutzungsbauten. Vorbehalten bleiben die Aufgrabungs-, beziehungsweise Anschlussbewilligungen der Werkeigentümerin oder des Werkeigentümers sowie die Durchführung gesetzlich vorgeschriebener Auflageverfahren;
-- b. für Lärmschutzanlagen im Zusammenhang mit dem öffentlichen Strassenbau.
+<sup>4</sup> Keine Bewilligung ist erforderlich für:
+
+- a. öffentliche Leitungen und Tiefbauten, insbesondere Kanalisationen, Wasserleitungen, Energieleitungen, Strassen, Brücken und Wassernutzungsbauten; vorbehalten bleiben die Aufgrabungs-, beziehungsweise Anschlussbewilligungen der Werkeigentümerin oder des Werkeigentümers, die Durchführung gesetzlich vorgeschriebener Auflageverfahren sowie § 120 Abs. 2 Bst. b;
+- b. Lärmschutzanlagen im Zusammenhang mit dem öffentlichen Strassenbau.
 
 #### § 121
 
@@ -1699,7 +1705,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Mit der Erteilung der Baubewilligung, der amtlichen Prüfung von Bauten, Einrichtungen oder Betrieben und mit der Kontrolle der Bauarbeiten übernimmt die Behörde keine Verantwortung für den Baugrund sowie für die Einwirkungen gravitativer Naturgefahren oder für die Schäden, die aus der Anlage oder ihrem Betrieb entstehen. Dagegen trägt das Gemeinwesen die Verantwortung für die von ihm getroffenen Anordnungen nach Massgabe des Gesetzes über die Haftung des Kantons und der Gemeinden (Haftungsgesetz).
 
-### 6.3 Baubewilligungsverfahren
+### 6.3 Bau- und Rückbaubewilligungsverfahren
 
 #### § 124
 
@@ -1710,7 +1716,7 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Der Regierungsrat bestimmt in der Verordnung:
 
 - a. von wem das Gesuch und die Unterlagen zu unterschreiben sind;
-- b. welche Unterlagen dem Baugesuch beizulegen sind;
+- b. welche Unterlagen dem Bau- oder Rückbaugesuch beizulegen sind;
 - c. für welche baulichen Massnahmen Bauprofile aufzustellen sind.
 
 <sup>3</sup> Die Baubewilligungsbehörde weist unvollständige Gesuche zur Ergänzung oder Verbesserung zurück. Sie kann bei geringfügigen Mängeln die Ergänzung oder Verbesserung innert angemessener Frist verlangen; auf Gesuche, die nicht fristgemäss ergänzt oder verbessert werden, tritt sie nicht ein.
@@ -1730,6 +1736,8 @@ beschliesst:[^ingress-2]
 **Publikation und öffentliche Auflage**
 
 <sup>1</sup> Gesuche werden im Amtsblatt mit Angabe der Auflagefrist sowie einem Verweis auf die während der Dauer der Auflage im Internet verfügbare Bezugsquelle der Baugesuchsunterlagen veröffentlicht. Gleichzeitig wird das Gesuch in der betreffenden Gemeinde während 10 Tagen öffentlich aufgelegt.
+
+<sup>1<sup>bis</sup></sup> Ausser für Rückbauten in Kernzonen und von geschützten Kulturdenkmälern unterliegen Rückbaugesuche nicht der Publikations- und Auflagepflicht .
 
 <sup>2</sup> Gesuche, denen ein Umweltverträglichkeitsbericht beiliegt, werden während 30 Tagen aufgelegt.
 
@@ -1788,9 +1796,9 @@ beschliesst:[^ingress-2]
 
 #### § 130
 
-**Beginn der Bauarbeiten**
+**Beginn der Bau- oder Rückbauarbeiten**
 
-<sup>1</sup> Mit den Abbruch- oder Bauarbeiten darf erst begonnen werden, wenn die rechtskräftige Baubewilligung oder eine Teilbaubewilligung vorliegt.
+<sup>1</sup> Mit den Bau- oder Rückbauarbeiten darf erst begonnen werden, wenn die rechtskräftige Bewilligung oder eine Teilbewilligung vorliegt.
 
 <sup>2</sup> Ist ein Baugesuch eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile auf schriftlichen Antrag schon vor Erteilung der Baubewilligung gestattet werden, wenn nach dem Stand der Prüfung des Baugesuchs gegen die Teilausführung keine Bedenken bestehen (Teilbaubewilligung).
 
@@ -1813,7 +1821,7 @@ beschliesst:[^ingress-2]
 
 **Erlöschen**
 
-<sup>1</sup> Die Baubewilligung erlischt, wenn mit den Bauarbeiten nicht innerhalb 2 Jahre seit Eintritt der Rechtskraft begonnen wurde.
+<sup>1</sup> Eine Bau- oder Rückbaubewilligung erlischt, wenn mit dem Rückbau oder den Bauarbeiten nicht innerhalb von 2 Jahren seit Eintritt der Rechtskraft der Bewilligung begonnen wurde.
 
 <sup>2</sup> Die Frist kann auf schriftliches Gesuch hin aus wichtigen Gründen von der Baubewilligungsbehörde um 1 Jahr verlängert werden.
 
@@ -1827,7 +1835,7 @@ beschliesst:[^ingress-2]
 
 **Beschwerderecht**
 
-<sup>1</sup> Gegen die Abweisung eines Baugesuches, gegen die an eine Baubewilligung geknüpften Nebenbestimmungen, gegen Entscheide über Einsprachen oder gegen andere Verfügungen der Baubewilligungsbehörde können die Betroffenen und die Gemeinden innert 10 Tagen bei der Baurekurskommission schriftlich und begründet Beschwerde erheben.
+<sup>1</sup> Gegen die Abweisung eines Bau- oder Rückbaugesuchs, gegen die an eine Bau- oder Rückbaubewilligung geknüpften Nebenbestimmungen, gegen Entscheide über Einsprachen oder gegen andere Verfügungen der Baubewilligungsbehörde können die Betroffenen und die Gemeinden innert 10 Tagen bei der Baurekurskommission schriftlich und begründet Beschwerde erheben.
 
 <sup>2</sup> ...
 
@@ -1861,7 +1869,7 @@ beschliesst:[^ingress-2]
 
 **Gebühren**
 
-<sup>1</sup> Für die Bewilligung von Bauten und Anlagen sowie für Zweckänderungen wird eine Gebühr erhoben. Der Regierungsrat erlässt eine Gebührenordnung.
+<sup>1</sup> Für die Bewilligung von Bauten und Anlagen sowie für Zweckänderungen und Rückbauten wird eine Gebühr erhoben. Der Regierungsrat erlässt eine Gebührenordnung.
 
 <sup>2</sup> Die Gebühr richtet sich nach Art und Umfang des Bauobjektes und den Prüfungskosten. Sie wird auch für Vorabklärungen erhoben. In besonders aufwendigen Verfahren oder bei Verfahren, welche eine Umweltverträglichkeitsprüfung erfordern, kann die Gebühr angemessen erhöht werden.
 
@@ -1885,7 +1893,7 @@ beschliesst:[^ingress-2]
 
 **Einstellung der Bauarbeiten und Benützungsverbot**
 
-<sup>1</sup> Wird mit den Bauarbeiten unberechtigterweise begonnen oder werden Bauten nicht den genehmigten Plänen entsprechend oder entgegen gesetzlichen Vorschriften gebaut oder genutzt, verfügt die Baubewilligungsbehörde die Baueinstellung oder nötigenfalls ein Benutzungsverbot unter Androhung der Ungehorsamsstrafe gemäss Schweizerischem Strafgesetzbuch.
+<sup>1</sup> Wird mit den Bau- oder Rückbauarbeiten unberechtigterweise begonnen oder werden Bauten nicht den genehmigten Plänen entsprechend oder entgegen gesetzlichen Vorschriften gebaut oder genutzt, verfügt die Baubewilligungsbehörde die Baueinstellung oder nötigenfalls ein Benutzungsverbot unter Androhung der Ungehorsamsstrafe gemäss Schweizerischem Strafgesetzbuch.
 
 <sup>2</sup> Baueinstellungen und Benutzungsverbote sind sofort vollstreckbar.
 
@@ -1932,6 +1940,12 @@ beschliesst:[^ingress-2]
 <sup>3</sup> Der Regierungsrat legt die notwendigen Anpassungen in der Verordnung vom 27. Oktober 1998[^139a-1] zum Raumplanungs- und Baugesetz fest. Für diejenigen Gemeinden, die ihre Zonenvorschriften noch nicht an die IVHB angepasst haben, gilt weiterhin das bisherige Recht.
 
 [^139a-1]: [SGS 400.11](https://bl.clex.ch/data/400.11/de)
+
+#### § 139b
+
+**Übergangsbestimmung zur Änderung vom 30. März 2023 betreffend Erfassung der Planungszonen im ÖREB-Kataster**
+
+<sup>1</sup> Bestehende Planungszonen, die im Grundbuch eingetragen sind, werden im ÖREB-Kataster erfasst.
 
 ### 7.2 Änderung bisherigen Rechts
 
