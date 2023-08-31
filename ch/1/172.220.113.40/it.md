@@ -3,11 +3,11 @@ sr: "172.220.113.40"
 title: Ordinanza del Consiglio dei PF del 18 settembre 2003 sul corpo professorale dei politecnici federali (Ordinanza sul corpo professorale dei PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/747"
 language: it
-version: 2022-08-01
+version: 2023-09-01
 adopted: 2003-09-18
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2003-747-20220801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2003-747-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/it"
 
 (Ordinanza sul corpo professorale dei PF)
 
-del 18 settembre 2003 (Stato 1° agosto 2022)
+del 18 settembre 2003 (Stato 1° settembre 2023)
 
 Approvata dal Consiglio federale il 26 novembre 2003
 
@@ -182,7 +182,7 @@ Alla proposta si allega:
 Il contratto di lavoro contiene in particolare:
 
 - a. la descrizione del campo d’insegnamento e di ricerca;
-- a. l’importo dello stipendio iniziale.
+- b. l’importo dello stipendio iniziale.
 
 <sup>3</sup> Il contratto di lavoro stabilisce un’eventuale partecipazione del datore di lavoro al riscatto di anni di assicurazione presso la Cassa pensioni della Confederazione (PUBLICA).[^8-1]
 
@@ -465,7 +465,7 @@ Il PF rimborsa le spese di procedura e ripetibili ai professori che, a causa del
 
 <sup>2</sup> Fino alla pronuncia della decisione passata in giudicato, il PF si limita a garantire la copertura dei costi.
 
-## Sezione 5: Vacanze, congedi e assenze****
+## Sezione 5: Vacanze, congedi e assenze
 
 [^sec5-1]
 
@@ -664,9 +664,12 @@ I professori devono dichiarare:
 
 #### Art. 33
 
-Per la protezione dei dati personali e dei dati relativi alla salute sono applicabili gli articoli 59–61 OPers PF[^33-1].
+[^33-1]
 
-[^33-1]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+Alla protezione dei dati personali e dei dati relativi alla salute si applica l’ordinanza dell’8 dicembre 2022[^33-2] sulla protezione dei dati personali nel settore dei PF.
+
+[^33-1]: Nuovo testo giusta l’art. 49 n. 2 dell’O dell’8 dic. 2022 sulla protezione dei dati personali nel settore dei PF, approvata dal CF il 22 feb. 2023, in vigore dal 1° set. 2023 ([RU 2023 124](https://fedlex.data.admin.ch/eli/oc/2023/124)).
+[^33-2]: [RS 172.220.113.42](https://fedlex.data.admin.ch/eli/cc/2023/124)
 
 ## Sezione 9: Disposizioni procedurali
 

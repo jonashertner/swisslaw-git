@@ -3,11 +3,11 @@ sr: "172.220.113.40"
 title: Verordnung des ETH-Rates vom 18. September 2003 über die Professorinnen und Professoren der Eidgenössischen Technischen Hochschulen (Professorenverordnung ETH)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/747"
 language: de
-version: 2022-08-01
+version: 2023-09-01
 adopted: 2003-09-18
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2003-747-20220801-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2003-747-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/de"
 
 (Professorenverordnung ETH)
 
-vom 18. September 2003 (Stand am 1. August 2022)
+vom 18. September 2003 (Stand am 1. September 2023)
 
 vom Bundesrat genehmigt am 26. November 2003
 
@@ -399,7 +399,7 @@ Die Präsidentin oder der Präsident der ETH kann den Lohn im Einzelfall erhöhe
 
 Für die Anpassung der Lohnskala und des Lohns nach Artikel 14*a* an die Teuerung oder an allgemeine Lohnmassnahmen gilt Artikel 28 PVO-ETH[^18-2] sinngemäss.
 
-[^18-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^18-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 [^18-2]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 19
@@ -465,7 +465,7 @@ Die ETH vergütet Professorinnen und Professoren, die infolge der Ausübung ihre
 
 <sup>2</sup> Bis ein rechtskräftiger Entscheid vorliegt, leistet sie nur Kostengutsprachen.
 
-## 5. Abschnitt: Ferien, Urlaub und Absenzen****
+## 5. Abschnitt: Ferien, Urlaub und Absenzen
 
 [^sec5-1]
 
@@ -664,9 +664,12 @@ Sie haben offen zu legen:
 
 #### Art. 33
 
-Für den Schutz von Personen- und Gesundheitsdaten sind die Artikel 59–61 PVO-ETH[^33-1] anwendbar.
+[^33-1]
 
-[^33-1]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+Für den Schutz von Personen- und Gesundheitsdaten gilt die Personendatenschutzverordnung ETH-Bereich vom 8. Dezember 2022[^33-2].
+
+[^33-1]: Fassung gemäss Art. 49 Ziff. 2 der Personendatenschutzverordnung ETH-Bereich vom 8. Dez. 2022, vom BR genehmigt am 22. Febr. 2023 und in Kraft seit 1. Sept. 2023 ([AS 2023 124](https://fedlex.data.admin.ch/eli/oc/2023/124)).
+[^33-2]: [SR 172.220.113.42](https://fedlex.data.admin.ch/eli/cc/2023/124)
 
 ## 9. Abschnitt: Verfahrensbestimmungen
 

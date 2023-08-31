@@ -3,11 +3,11 @@ sr: "172.220.113.40"
 title: Ordonnance du Conseil des EPF du 18 septembre 2003 sur le corps professoral des écoles polytechniques fédérales (Ordonnance sur le corps professoral des EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/747"
 language: fr
-version: 2022-08-01
+version: 2023-09-01
 adopted: 2003-09-18
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2003-747-20220801-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2003-747-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/fr"
 
 (Ordonnance sur le corps professoral des EPF)
 
-du 18 septembre 2003 (Etat le 1<sup>er</sup> août 2022)
+du 18 septembre 2003 (État le 1<sup>er</sup> septembre 2023)
 
 Approuvée par le Conseil fédéral le 26 novembre 2003
 
@@ -37,12 +37,13 @@ arrête:
 
 **Objet et champ d’application**
 
-<sup>1</sup> c. professeurs assistants.
+<sup>1</sup>
 
 La présente ordonnance règle les conditions d’emploi des membres ci-dessous du corps enseignant des EPF (professeurs):
 
 - a. professeurs ordinaires;
 - b. professeurs associés;
+- c. professeurs assistants.
 
 <sup>2</sup> L’engagement de professeurs soumis au droit privé est réglé par le code des obligations[^1-1].
 
@@ -160,13 +161,13 @@ Ils doivent obtenir l’autorisation préalable du président de l’EPF:
 
 <sup>1</sup> Le Conseil des EPF nomme les professeurs sur proposition du président de l’EPF.
 
-<sup>2</sup> La proposition est accompagnée:
+<sup>2</sup>
 
-a. d’un rapport sur le candidat;
+La proposition est accompagnée:
 
-b. d’un rapport sur la procédure de sélection;
-
-c. du projet de contrat de travail établi lors des négociations préalables.
+- a. d’un rapport sur le candidat;
+- b. d’un rapport sur la procédure de sélection;
+- c. du projet de contrat de travail établi lors des négociations préalables.
 
 <sup>3</sup> Le président de l’EPF constitue en général une commission chargée d’élaborer la proposition. Une proposition peut exceptionnellement être soumise au Conseil des EPF par voie d’appel.
 
@@ -176,11 +177,12 @@ c. du projet de contrat de travail établi lors des négociations préalables.
 
 <sup>1</sup> Une fois le professeur nommé, le Conseil des EPF conclut avec lui un contrat de travail écrit.
 
-<sup>2</sup> Le contrat de travail contient notamment:
+<sup>2</sup>
 
-a. la description du domaine d’enseignement et de recherche;
+Le contrat de travail contient notamment:
 
-b. le montant du salaire initial;
+- a. la description du domaine d’enseignement et de recherche;
+- b. le montant du salaire initial.
 
 <sup>3</sup> Il règle une éventuelle participation de l’employeur au rachat d’années d’assurance à la caisse fédérale de pension (PUBLICA).[^8-1]
 
@@ -463,7 +465,7 @@ Les EPF remboursent les frais de procédure et les frais judiciaires aux profess
 
 <sup>2</sup> Seule une garantie de prise en charge des frais est accordée jusqu’à ce que la décision soit entrée en force.
 
-## Section 5 Vacances, congés et absences****
+## Section 5 Vacances, congés et absences
 
 [^sec5-1]
 
@@ -664,9 +666,12 @@ Ils doivent communiquer:
 
 #### Art. 33
 
-Les art. 59 à 61 Opers-EPF[^33-1] sont applicables à la protection des données relatives aux personnes et à leur santé.
+[^33-1]
 
-[^33-1]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+L’ordonnance du 8 décembre 2022 sur la protection des données personnelles dans le domaine des EPF[^33-2] est applicable à la protection des données relatives aux personnes et à leur santé.
+
+[^33-1]: Nouvelle teneur selon l’art. 49 ch. 2 de l’O du 8 déc. 2022 sur la protection des données personnelles dans le domaine des EPF, approuvée par le CF le 22 fév. 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 124](https://fedlex.data.admin.ch/eli/oc/2023/124)).
+[^33-2]: [RS 172.220.113.42](https://fedlex.data.admin.ch/eli/cc/2023/124)
 
 ## Section 9 Dispositions de procédure
 
