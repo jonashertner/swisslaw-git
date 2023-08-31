@@ -4,11 +4,11 @@ title: "Ordonnance du 29 novembre 2013 relative à la loi fédérale sur l'encou
 short: O-LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/fr"
 
 (Ordonnance sur l’encouragement de la recherche et de l’innovation, O-LERI)
 
-du 29 novembre 2013 (État le 1<sup>er</sup> janvier 2023)
+du 29 novembre 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -637,7 +637,7 @@ Si les organes d’encouragement prennent un décision au sens de l’al. 1, les
 - d. si l’établissement de recherche du domaine des hautes écoles ne prend pas de mesures pour la mise en valeur des droits de propriété intellectuelle dans le délai convenu suivant l’annonce faite par les chercheurs, ceux-ci peuvent exiger la rétrocession de ces droits;
 - e. si, dans l’exercice d’une activité cofinancée par la Confédération et par des tiers dans un établissement de recherche du domaine des hautes écoles, les chercheurs obtiennent des résultats productifs de droits de propriété intellectuelle, l’établissement de recherche du domaine des hautes écoles participe aux revenus générés par la mise en valeur des droits au moins dans la proportion où la Confédération a participé au coût total du projet de recherche concerné; l’art. 41 demeure réservé.
 
-<sup>2</sup> Si un établissement de recherche du domaine des hautes écoles ou un établissement de recherche sans but lucratif situé en dehors du domaine des hautes écoles ne remplit pas les obligations liées à l’octroi de la contribution fédérale pour l’exploitation des résultats de recherches, les organes d’encouragement peuvent réduire les contributions octroyées ou exiger le remboursement des contributions déjà versées.
+<sup>3</sup> Si un établissement de recherche du domaine des hautes écoles ou un établissement de recherche sans but lucratif situé en dehors du domaine des hautes écoles ne remplit pas les obligations liées à l’octroi de la contribution fédérale pour l’exploitation des résultats de recherches, les organes d’encouragement peuvent réduire les contributions octroyées ou exiger le remboursement des contributions déjà versées.
 
 [^40-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -688,9 +688,10 @@ Les institutions qui emploient des chercheurs ont uniquement accès aux données
 - b. la gestion des subsides;
 - c. l’évaluation de l’utilisation des fonds de tiers.
 
-<sup>3</sup> Les données sensibles et les profils de la personnalité au sens de l’art. 3, let. c et d, de la loi fédérale du 19 juin 1992 sur la protection des données[^41a-1] ne sont pas rendus accessibles en ligne.
+<sup>3</sup> Les données sensibles au sens de l’art. 5, let. c de la loi fédérale du 25 septembre 2020 la protection des données[^41a-1] ne sont pas rendues accessibles en ligne.[^41a-2]
 
 [^41a-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-2]: Nouvelle teneur selon l’annexe 2 ch. II 50 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 6 Coopération internationale
 
@@ -748,6 +749,8 @@ Les contributions permettent, dans le cadre d’une institution ou d’une organ
 #### Art. 46
 
 **Conditions et calculs des contributions**
+
+<sup>1</sup>
 
 Les contributions peuvent être octroyées aux institutions et aux organisations aux conditions suivantes:
 

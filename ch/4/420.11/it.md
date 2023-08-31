@@ -4,11 +4,11 @@ title: "Ordinanza del 29 novembre 2013 relativa alla legge federale sulla promoz
 short: O-LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/it"
 
 (Ordinanza sulla promozione della ricerca e dell’innovazione, O-LPRI)
 
-del 29 novembre 2013 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 29 novembre 2013 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -684,9 +684,10 @@ L’istituzione che impiega i ricercatori ha accesso esclusivamente ai dati rigu
 - b. la gestione dei sussidi;
 - c. la valutazione dell’impiego di mezzi terzi.
 
-<sup>3</sup> La procedura di richiamo non rende accessibili dati personali degni di particolare protezione o profili della personalità ai sensi dell’articolo 3 lettere c e d della legge federale del 19 giugno 1992[^41a-1] sulla protezione dei dati.
+<sup>3</sup> La procedura di richiamo non rende accessibili dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^41a-1] sulla protezione dei dati.[^41a-2]
 
 [^41a-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-2]: Nuovo testo giusta l’all. 2 n. II 50 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 6: Cooperazione internazionale
 

@@ -4,11 +4,11 @@ title: "Ordinance of 29 November 2013 the Federal Act on the Promotion of Resear
 short: RIPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Research and Innovation Promotion Ordinance, RIPO)
 
-of 29 November 2013 (Status as of 1 January 2023)
+of 29 November 2013 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -45,20 +45,20 @@ ordains:
 
 **Principles**[^1-1]
 
-<sup>1</sup> Special programmes and topic-specific funding programmes must serve Swiss national interests.
+<sup>1</sup> Special programmes and topic-specific funding and support programmes must serve Swiss national interests.
 
 <sup>2</sup>
 
-The implementation of special programmes and topic-specific programmes can be carried out:
+The implementation of special programmes and topic-specific funding and support programmes may be carried out:
 
 - a.
 
-  through the funding schemes of the following funding agencies (funding agencies):
+  through the funding instruments of the following funding bodies:
 
   - 1\. the research funding institutions under Article 4 letter a RIPA,
   - 2\. the Swiss Innovation Agency (Innosuisse);
 
-- b. through special measures; these must be taken in order to meet the funding responsibilities of the funding agencies.
+- b. through special measures; these must be taken in order to meet the funding responsibilities of the funding bodies.
 
 <sup>3</sup> Special programme and topic-specific funding programmes are temporary.
 
@@ -169,7 +169,7 @@ During the selection process, it will be considered whether:
 
 <sup>4</sup> It shall produce a final report for the attention of the Federal Council in which it presents the extent to which the goals of the NRP were achieved.
 
-<sup>5</sup> After consultation with the SNSF, SERI shall decide whether a completed NRP or NRP instrument shall be subject to an effectiveness check. After consultation with the SNSF, it shall decide on the modalities of this check and award the relevant mandates.
+<sup>5</sup> After consultation with the SNSF, SERI shall decide whether a completed NRP or the NRP instrument itself needs to be checked for effectiveness. After consultation with the SNSF, it shall decide on the modalities of this check and award the relevant mandates.
 
 #### Art. 9
 
@@ -297,7 +297,7 @@ SERI is responsible for the assessment of research and higher education policy. 
 
 <sup>2</sup> It shall produce a final report for each completed NCCR. This shall include the closing financial statement and a report on the scientific and structural outcomes. This report shall include a final evaluation with regard to the main aims of the NCCR. This shall be based on the corresponding final reports compiled by the NCCR management and the evaluation of the international review panel.
 
-<sup>3</sup> After consultation with the SNSF, SERI shall decide whether it shall require that a completed NCCR or a completed NCCR series or NCCR instrument shall be subject to a thorough evaluation of effectiveness with regard to the attainment of goals. Following consultation with the SNSF, it shall decide on the modalities of the subsequent examination, and confer the associated jobs.
+<sup>3</sup> After consultation with the SNSF, SERI shall decide whether it shall require that a completed NCCR or a completed NCCR series or the NCCR instrument itself needs to be thoroughly checked for effectiveness in terms of achieving established objectives. Following consultation with the SNSF, it shall decide on the modalities of the subsequent examination, and confer the associated jobs.
 
 [^17-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
@@ -425,7 +425,7 @@ The following further conditions apply for the granting of funding to centres of
 
 **Quality assurance and utilisation of the results of federal government research**
 
-<sup>1</sup> The interdepartmental coordination committee for research shall take account of the funding agency’s principles of quality assurance when adopting its directives.
+<sup>1</sup> The interdepartmental coordination committee for research shall take account of the funding bodies’ principles of quality assurance when adopting its directives.
 
 <sup>2</sup> The federal departments shall rule on the rights to the results of research and the use thereof in the contracts or decrees on federal government research.
 
@@ -589,7 +589,7 @@ Innosuisse shall calculate funding for overheads on the basis of project contrib
 
 <sup>2</sup> It shall indicate the amount of funding to be paid when approving projects.
 
-<sup>3</sup> Funding for overheads shall be included in the funding contributions paid for direct research costs..
+<sup>3</sup> Funding for overheads shall be included in the funding contributions paid for direct research costs.
 
 [^chap4-sec3-1]: Amended by No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 [^37-1]: In force since 1 Jan. 2017.
@@ -624,11 +624,11 @@ Innosuisse shall specify the terms of payment of funding for overheads in its co
 
 **Measures for the promotion of the utilisation of research findings**
 
-<sup>1</sup> The funding agencies shall decide in individual cases whether they wish to make the granting of federal funding contingent on requirements regarding the use of research findings under Article 27 paragraphs 1 and 2 RIPA.
+<sup>1</sup> The funding bodies shall decide in individual cases whether they wish to make the granting of federal funding contingent on requirements regarding the use of research findings under Article 27 paragraphs 1 and 2 RIPA.
 
 <sup>2</sup>
 
-Should the funding agencies decide to follow paragraph 1, the following rules shall apply:
+Should the funding bodies decide to follow paragraph 1, the following rules shall apply:
 
 - a. Researchers who, in the course of their federally-funded duties, make discoveries that are relevant to intellectual property law must inform the employer higher education research centre.
 - b. Researchers and their employer higher education research centre shall take measures to protect the intellectual property rights on findings and not to compromise them through premature publication or in any other way
@@ -636,7 +636,7 @@ Should the funding agencies decide to follow paragraph 1, the following rules sh
 - d. After receiving information from the researchers, should the employer higher education research centre take no measures for the application of intellectual property rights to research findings within the agreed timeframe, the researchers may request the reassignment of the intellectual property rights.
 - e. Should research results relevant to intellectual property rights be obtained by a higher education research centre in the exercise of its duties, whether they are federally-funded or funded by a third party, the higher education research centre shall contribute at least the same proportion as that covered by federal funding to the overall costs of the research project concerned out of the income from the utilisation of the intellectual property rights. Article 41 is reserved.
 
-<sup>3</sup> Should an employer higher education research centre or non-commercial research centre outside the higher education sector not comply with the measures for the promotion of the utilisation of research findings on which its funding is contingent, the funding agency can cut short the promised contributions or demand the repayment of contributions already made.
+<sup>3</sup> Should an employer higher education research centre or non-commercial research centre outside the higher education sector not comply with the measures for the promotion of the utilisation of research findings on which its funding is contingent, the funding bodies may reduce the promised contributions or demand the repayment of contributions already made.
 
 [^40-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -687,9 +687,10 @@ Employer institutions shall only have access to data concerning research project
 - b. managing funding contributions;
 - c. evaluating the use of third-party funds.
 
-<sup>3</sup> No sensitive personal data or personality profiles within the meaning of Article 3 let. c or d of the Federal Act of 19 June 1992[^41a-1] on Data Protection shall be accessible through the call procedure.
+<sup>3</sup> No sensitive personal data within the meaning of Article 5 letter c of the Data Protection Act of 25 September 2020[^41a-1] shall be accessible through the call procedure.[^41a-2]
 
 [^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-2]: Amended by Annex 2 No II 50 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapter 6 International Cooperation
 
@@ -837,7 +838,7 @@ SERI shall consult other departments or research bodies that may be affected by,
 
 <sup>4</sup> The bilateral agreements with the partner countries regulate the establishment of joint working groups and their tasks. In particular, the working groups make decisions on the approval or rejection of project proposals submitted in the context of the programme.
 
-<sup>5</sup> The EAER shall regulate the details of of representation on the national steering committee and its functioning in an ordinance.
+<sup>5</sup> The EAER shall regulate the details of representation on the national steering committee and its functioning in an ordinance.
 
 [^52-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
@@ -945,7 +946,7 @@ In their multi-year programmes, the research bodies provide information on their
 - c. how they will coordinate their activities internally and with the other research bodies;
 - d. which personal and financial impacts can be expected.
 
-<sup>2</sup> SERI shall give the research bodies a deadline within which they must submit their multi-year programme.
+<sup>2</sup> SERI shall give the funding bodies a deadline within which they must submit their multi-year programme.
 
 #### Art. 59
 
@@ -967,7 +968,7 @@ In their multi-year programmes, the research bodies provide information on their
 
 #### Art. 60
 
-<sup>1</sup> When submitting grant applications, the research bodies shall provide information on the project’s contribution to sustainable development.
+<sup>1</sup> As part of the application process, the funding bodies shall request information on the project’s contribution to sustainable development.
 
 <sup>2</sup> In their reports under Article 52 RIPA, the research funding institutions and the Federal Administration, as well as Innosuisse in its activity reports under Article 7 paragraph 1 letter o SIAA, shall explain how they have taken account of the sustainable development of society, the economy and the environment when carrying out their promotion activities in pursuit of federal objectives.[^60-1]
 

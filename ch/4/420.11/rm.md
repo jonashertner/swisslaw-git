@@ -4,11 +4,11 @@ title: "Ordinaziun dals 29 da november 2013 tar la Lescha federala davart la pro
 short: O-LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: rm
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da perscrutaziun e d’innovaziun, O-LPPI)
 
-dals 29 da november 2013 (versiun dal 1. da schaner 2023)
+dals 29 da november 2013 (versiun dal 1. da settember 2023)
 
 Il Cussegl federal svizzer,
 
@@ -687,9 +687,10 @@ L’instituziun emploianta ha unicamain access a datas davart projects da perscr
 - b. administrar las contribuziuns;
 - c. evaluar l’utilisaziun da meds da terzs.
 
-<sup>3</sup> Sur la procedura d’invista n’èn accessiblas naginas datas persunalas spezialmain sensiblas e nagins profils da persunalitad en il senn da l’artitgel 3 litera c respectivamain d da la Lescha federala dals 19 da zercladur 1992[^41a-1] davart la protecziun da datas.
+<sup>3</sup> Sur la procedura d’invista n’èn accessiblas naginas datas persunalas spezialmain sensiblas en il senn da l’artitgel 5 litera c da la Lescha federala dals 25 da settember 2020[^41a-1] davart la protecziun da datas.[^41a-2]
 
 [^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-2]: Versiun tenor la cifra II 50 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 6. chapitel Collavuraziun internaziunala
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 29. November 2013 zum Bundesgesetz über die Förderung d
 short: V-FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/de"
 
 (Forschungs- und Innovationsförderungsverordnung, V-FIFG)
 
-vom 29. November 2013 (Stand am 1. Januar 2023)
+vom 29. November 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -685,9 +685,10 @@ Die arbeitgebende Institution hat Zugriff ausschliesslich auf Daten über Forsch
 - b. die Beitragsverwaltung;
 - c. die Evaluation der Verwendung von Drittmitteln.
 
-<sup>3</sup> Über das Abrufverfahren sind keine besonders schützenswerten Personendaten oder Persönlichkeitsprofile im Sinne von Artikel 3 Buchstabe c beziehungsweise d des Bundesgesetzes vom 19. Juni 1992[^41a-1] über den Datenschutz zugänglich.
+<sup>3</sup> Über das Abrufverfahren sind keine besonders schützenswerten Personendaten im Sinne von Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^41a-1] zugänglich.[^41a-2]
 
 [^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-2]: Fassung gemäss Anhang 2 Ziff. II 50 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 6. Kapitel: Internationale Zusammenarbeit
 
