@@ -3,18 +3,18 @@ sr: "360.1"
 title: Verordnung vom 30. November 2001 über die Wahrnehmung kriminalpolizeilicher Aufgaben im Bundesamt für Polizei
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2001-11-30
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2002-29-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Wahrnehmung kriminalpolizeilicher Aufgaben im Bundesamt für Polizei
 
-vom 30. November 2001 (Stand am 1. Juni 2022)
+vom 30. November 2001 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -188,52 +188,56 @@ Die Bundeskriminalpolizei kann, soweit dies zur Erlangung der von ihr benötigte
 
 - a. den anderen Stellen von fedpol;
 - b. den Behörden, die für den Telefon-, Telegraphen- und Postverkehr zuständig sind, zur Anordnung und zum Vollzug der amtlichen Überwachung;
-- c. den Behörden anderer Länder, welche Strafverfolgungs- und Polizeifunktionen wahrnehmen, sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
-- d. den Internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen (namentlich EUROPOL und INTERPOL), sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
+- c.[^6-1] den Behörden anderer Länder, welche Strafverfolgungs- und Polizeifunktionen wahrnehmen: nach Massgabe von Artikel 13 Absatz 2 ZentG;
+- d.[^6-2] den Internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen (namentlich EUROPOL und INTERPOL): nach Massgabe von Artikel 13 Absatz 2 ZentG;
 - e. den Finanzbehörden des Bundes und der Kantone;
 - f. der Eidgenössischen Finanzverwaltung;
-- g. der Eidgenössischen Finanzmarktaufsicht[^6-1];
+- g. der Eidgenössischen Finanzmarktaufsicht[^6-3];
 - h. der Eidgenössischen Spielbankenkommission;
-- i. der Eidgenössischen Finanzmarktaufsicht[^6-2];
+- i. der Eidgenössischen Finanzmarktaufsicht[^6-4];
 - j. dem Staatssekretariat für Wirtschaft;
-- k. Bundesbehörden, die mit Personensicherheitsüberprüfungen und mit Schutzmassnahmen im Sinne von Artikel 2 Absatz 4 Buchstaben c und d BWIS[^6-3] betraut sind;
+- k. Bundesbehörden, die mit Personensicherheitsüberprüfungen und mit Schutzmassnahmen im Sinne von Artikel 2 Absatz 4 Buchstaben c und d BWIS[^6-5] betraut sind;
 - l. dem Bundesamt für Zivilluftfahrt;
 - m. den Behörden, welche zuständig sind für den Erwerb von Grundstücken durch Personen im Ausland;
 - n. nichtstaatlichen Organisationen, namentlich solchen, die sich für die Bekämpfung der kommerziellen sexuellen Ausbeutung einsetzen, soweit es um die Verhinderung und Aufdeckung spezieller Kriminalitätsformen geht;
 - o. Aufsichtsbehörden des Bundes und der Kantone.
 
-<sup>2</sup> f.[^6-4] der Eidgenössischen Finanzmarktaufsicht zur Unterstützung von deren Aufsichtstätigkeit im Rahmen der Finanzmarktgesetze gemäss Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^6-5], soweit es sich um gesicherte Informationen handelt, die für ein Verfahren benötigt werden oder ein solches in Gang setzen können;
+<sup>2</sup>
 
 Darüber hinaus kann die Bundeskriminalpolizei Personendaten folgenden Behörden unaufgefordert weitergeben, damit diese ihre gesetzlichen Aufgaben wahrnehmen können:[^6-6]
 
 - a. den anderen Stellen von fedpol;
-- b. den Behörden anderer Länder, welche Strafverfolgungsfunktionen wahrnehmen, für deren gerichtspolizeilichen Ermittlungen, sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
-- c. den internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen, namentlich EUROPOL und INTERPOL, für die Bearbeitung konkreter Fälle, sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
+- b.[^6-7] den Behörden anderer Länder, welche Strafverfolgungsfunktionen wahrnehmen, für deren gerichtspolizeilichen Ermittlungen: nach Massgabe von Artikel 13 Absatz 2 ZentG;
+- c.[^6-8] den internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen, namentlich EUROPOL und INTERPOL, für die Bearbeitung konkreter Fälle: nach Massgabe von Artikel 13 Absatz 2 ZentG;
 - d. den Finanzbehörden des Bundes und der Kantone für deren gerichtspolizeilichen Ermittlungen im Fiskalbereich;
 - e. der Eidgenössischen Finanzverwaltung für deren verwaltungsstrafrechtlichen Verfahren;
-
+- f.[^6-9] der Eidgenössischen Finanzmarktaufsicht zur Unterstützung von deren Aufsichtstätigkeit im Rahmen der Finanzmarktgesetze gemäss Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^6-10], soweit es sich um gesicherte Informationen handelt, die für ein Verfahren benötigt werden oder ein solches in Gang setzen können;
 - g. der Eidgenössischen Spielbankenkommission zur Unterstützung ihrer Aufsichtstätigkeit im Rahmen der Glücksspielgesetzgebung;
-- h.[^6-7] …
-- i.[^6-8] den mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS[^6-9] betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt;
-- j.[^6-10] der zuständigen kantonalen Polizeistelle für Zuverlässigkeitsprüfungen nach den Artikeln 108*b*–108*e* des Luftfahrtgesetzes vom 21. Dezember 1948[^6-11] zur Abklärung des Sicherheitsrisikos, soweit es sich um gesicherte Informationen handelt.
+- h.[^6-11] …
+- i.[^6-12] den mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS[^6-13] betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt;
+- j.[^6-14] der zuständigen kantonalen Polizeistelle für Zuverlässigkeitsprüfungen nach den Artikeln 108*b*–108*e* des Luftfahrtgesetzes vom 21. Dezember 1948[^6-15] zur Abklärung des Sicherheitsrisikos, soweit es sich um gesicherte Informationen handelt.
 
-<sup>3</sup> Zur Erfüllung ihrer Kontrollfunktionen werden den Aufsichtsbehörden des Bundes und der Kantone sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^6-12] auf Verlangen alle Personendaten bekannt gegeben.
+<sup>3</sup> Zur Erfüllung ihrer Kontrollfunktionen werden den Aufsichtsbehörden des Bundes und der Kantone sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^6-16] auf Verlangen alle Personendaten bekannt gegeben.
 
-<sup>4</sup> Sämtliche von der Bundeskriminalpolizei nicht mehr ständig benötigten Unterlagen werden gemäss Bundesgesetz vom 26. Juni 1998[^6-13] über die Archivierung dem Bundesarchiv zur Übernahme angeboten.
+<sup>4</sup> Sämtliche von der Bundeskriminalpolizei nicht mehr ständig benötigten Unterlagen werden gemäss Bundesgesetz vom 26. Juni 1998[^6-17] über die Archivierung dem Bundesarchiv zur Übernahme angeboten.
 
-[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^6-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^6-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-4]: Fassung gemäss Anhang 1 Ziff. 4 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^6-1]: Fassung gemäss Anhang 2 Ziff. II 40 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-2]: Fassung gemäss Anhang 2 Ziff. II 40 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^6-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^6-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^6-6]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-7]: Aufgehoben durch Anhang 1 Ziff. 4 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-8]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-9]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-10]: Eingefügt durch Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-11]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^6-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-[^6-13]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-7]: Fassung gemäss Anhang 2 Ziff. II 40 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-8]: Fassung gemäss Anhang 2 Ziff. II 40 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-9]: Fassung gemäss Anhang 1 Ziff. 4 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-10]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^6-11]: Aufgehoben durch Anhang 1 Ziff. 4 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-12]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-13]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-14]: Eingefügt durch Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-15]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^6-16]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^6-17]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 7
 

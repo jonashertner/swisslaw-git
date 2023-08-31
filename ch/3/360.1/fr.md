@@ -3,18 +3,18 @@ sr: "360.1"
 title: "Ordonnance du 30 novembre 2001 concernant l'exécution de tâches de police judiciaire au sein de l'Office fédéral de la police"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
 language: fr
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2001-11-30
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-29-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’exécution de tâches de police judiciaire au sein de l’Office fédéral de la police
 
-du 30 novembre 2001 (Etat le 1<sup>er</sup> juin 2022)
+du 30 novembre 2001 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -31,7 +31,7 @@ arrête:
 
 **Police judiciaire fédérale au sein de l’Office fédéral de la police**
 
-La Police judiciaire fédérale au sein de l’Office fédéral de la police (fedpol) exécute des tâches: [^1-1]
+La Police judiciaire fédérale au sein de l’Office fédéral de la police (fedpol) exécute des tâches:[^1-1]
 
 - a. en tant que police judiciaire de la Confédération;
 - b. en tant qu’office central de lutte contre le crime organisé selon l’art. 7 LOC;
@@ -188,15 +188,15 @@ Si cela lui est nécessaire pour obtenir les renseignements dont elle a besoin e
 
 - a. les autres services de fedpol;
 - b. les autorités compétentes en matière de correspondance téléphonique, télégraphique et postale, pour ordonner et exécuter des mesures de surveillance;
-- c. les autorités d’autres États exerçant des fonctions de poursuite pénale et de police, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
-- d. les organisations internationales exerçant des fonctions de poursuite pénale et de police (notamment EUROPOL et INTERPOL), dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
+- c.[^6-1] les autorités d’autres États exerçant des fonctions de poursuite pénale et de police, conformément à l’art. 13, al. 2, LOC;
+- d.[^6-2] les organisations internationales exerçant des fonctions de poursuite pénale et de police (notamment EUROPOL et INTERPOL), conformément à l’art. 13, al. 2, LOC;
 - e. les autorités financières de la Confédération et des cantons;
 - f. l’Administration fédérale des finances;
-- g. l’Autorité fédérale de surveillance des marchés financiers[^6-1];
+- g. l’Autorité fédérale de surveillance des marchés financiers[^6-3];
 - h. la Commission fédérale des maisons de jeu;
-- i. l’Autorité fédérale de surveillance des marchés financiers[^6-2];
+- i. l’Autorité fédérale de surveillance des marchés financiers[^6-4];
 - j. le Secrétariat d’État à l’économie;
-- k. les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 4, let. c et d, LMSI[^6-3];
+- k. les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 4, let. c et d, LMSI[^6-5];
 - l. l’Office fédéral de l’aviation civile;
 - m. les autorités compétentes en matière d’acquisition de terrains par des personnes résidant à l’étranger;
 - n. les organisations non étatiques qui oeuvrent notamment en faveur de la lutte contre l’exploitation sexuelle à des fins commerciales, dans la mesure où il s’agit de prévenir et d’identifier des formes spécifiques de criminalité;
@@ -204,35 +204,39 @@ Si cela lui est nécessaire pour obtenir les renseignements dont elle a besoin e
 
 <sup>2</sup>
 
-La Police judiciaire fédérale peut en outre communiquer spontanément des données personnelles aux autorités ci-après afin qu’elles puissent accomplir leurs tâches légales:[^6-4]
+La Police judiciaire fédérale peut en outre communiquer spontanément des données personnelles aux autorités ci-après afin qu’elles puissent accomplir leurs tâches légales:[^6-6]
 
 - a. les autres services de fedpol;
-- b. les autorités d’autres États exerçant des fonctions de poursuite pénale, pour leurs enquêtes de police judiciaire, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
-- c. les organisations internationales exerçant des fonctions de poursuite pénale et de police (notamment EUROPOL et INTERPOL), pour le traitement d’affaires déterminées, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
+- b.[^6-7] les autorités d’autres États exerçant des fonctions de poursuite pénale, pour leurs enquêtes de police judiciaire, conformément à l’art. 13, al. 2, LOC;
+- c.[^6-8] les organisations internationales exerçant des fonctions de poursuite pénale et de police (notamment EUROPOL et INTERPOL), pour le traitement d’affaires déterminées, conformément à l’art. 13, al. 2, LOC;
 - d. les autorités financières de la Confédération et des cantons, pour leurs enquêtes de police judiciaire dans le domaine fiscal;
 - e. l’Administration fédérale des finances, dans le cadre des procédures pénales administratives qu’elle mène;
-- f.[^6-5] l’Autorité fédérale de surveillance des marchés financiers, pour l’assister dans son activité de surveillance dans le cadre des lois sur les marchés financiers conformément à l’art. 1, al. 1, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^6-6], s’il s’agit d’informations fiables qui sont nécessaires à une procédure ou susceptibles d’entraîner l’ouverture d’une procédure;
+- f.[^6-9] l’Autorité fédérale de surveillance des marchés financiers, pour l’assister dans son activité de surveillance dans le cadre des lois sur les marchés financiers conformément à l’art. 1, al. 1, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^6-10], s’il s’agit d’informations fiables qui sont nécessaires à une procédure ou susceptibles d’entraîner l’ouverture d’une procédure;
 - g. la Commission fédérale des maisons de jeu, pour l’assister dans son activité de surveillance découlant de la législation sur les maisons de jeu;
-- h.[^6-7] …
-- i.[^6-8] les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 2, let. a et b, LMSI[^6-9] pour leurs investigations, s’il s’agit d’informations fiables;
-- j.[^6-10] le service de police cantonal compétent, dans le cadre de la vérification des an-técédents visée aux art. 108b à 108e de la loi fédérale du 21 décembre 1948 sur l’aviation (LA), pour déterminer le risque pour la sécurité, s’il s’agit d’informations fiables.
+- h.[^6-11] …
+- i.[^6-12] les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 2, let. a et b, LMSI[^6-13] pour leurs investigations, s’il s’agit d’informations fiables;
+- j.[^6-14] le service de police cantonal compétent, dans le cadre de la vérification des an-técédents visée aux art. 108b à 108e de la loi fédérale du 21 décembre 1948 sur l’aviation (LA), pour déterminer le risque pour la sécurité, s’il s’agit d’informations fiables.
 
-<sup>3</sup> Toutes les données personnelles sont communiquées sur requête aux autorités de surveillance de la Confédération et des cantons, ainsi qu’au Préposé fédéral à la protection des données et à la transparence[^6-11], pour l’exercice de leurs fonctions de contrôle.
+<sup>3</sup> Toutes les données personnelles sont communiquées sur requête aux autorités de surveillance de la Confédération et des cantons, ainsi qu’au Préposé fédéral à la protection des données et à la transparence[^6-15], pour l’exercice de leurs fonctions de contrôle.
 
-<sup>4</sup> Tous les dossiers dont la Police judiciaire fédérale n’a plus besoin en permanence sont proposés aux Archives fédérales en vue d’archivage, conformément à la loi fédérale du 26 juin 1998 sur l’archivage[^6-12].
+<sup>4</sup> Tous les dossiers dont la Police judiciaire fédérale n’a plus besoin en permanence sont proposés aux Archives fédérales en vue d’archivage, conformément à la loi fédérale du 26 juin 1998 sur l’archivage[^6-16].
 
-[^6-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^6-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^6-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-4]: Nouvelle teneur selon le ch. I 8 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-5]: Nouvelle teneur selon l’annexe 1 ch. 4 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^6-7]: Abrogée par l’annexe 1 ch. 4 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-8]: Nouvelle teneur selon le ch. I 8 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-9]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-10]: Introduite par le ch. I 8 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-11]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^6-12]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-1]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-2]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-6]: Nouvelle teneur selon le ch. I 8 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-7]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-8]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-9]: Nouvelle teneur selon l’annexe 1 ch. 4 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-10]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^6-11]: Abrogée par l’annexe 1 ch. 4 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-12]: Nouvelle teneur selon le ch. I 8 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-13]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-14]: Introduite par le ch. I 8 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-15]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^6-16]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 7
 
@@ -265,7 +269,7 @@ Ils sont chargés en particulier des tâches suivantes:
 
 <sup>3</sup> Pour remplir leurs tâches, ils coopèrent avec les autorités étrangères, dans le cadre de l’art. 13, al. 2, LOC et de l’art. 6, al. 2, let. a et b, de la présente ordonnance. La coopération avec les autorités nationales est régie par les art. 4 à 7.
 
-<sup>3bis</sup> ...[^8-2]
+<sup>3bis</sup> …[^8-2]
 
 <sup>4</sup> Le Département fédéral de justice et police est habilité à conclure avec les États étrangers des accords portant sur le stationnement d’agents de liaison de fedpol.[^8-3]
 

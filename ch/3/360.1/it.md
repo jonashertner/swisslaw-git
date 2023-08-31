@@ -3,18 +3,18 @@ sr: "360.1"
 title: "Ordinanza del 30 novembre 2001 sull'adempimento di compiti di polizia giudiziaria in seno all'Ufficio federale di polizia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2001-11-30
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2002-29-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’adempimento di compiti di polizia giudiziaria in seno all’Ufficio federale di polizia
 
-del 30 novembre 2001 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
+del 30 novembre 2001 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -189,15 +189,15 @@ Per ottenere le informazioni di cui necessita e per motivare le sue domande d’
 
 - a. altri servizi del fedpol;
 - b. autorità competenti in materia di corrispondenza postale, telefonica e telegrafica, per ordinare ed eseguire misure di sorveglianza ufficiale;
-- c. autorità di altri Paesi che svolgono funzioni di perseguimento penale e di polizia nella misura in cui siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
-- d. organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente EUROPOL e INTERPOL) sempreché siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
+- c.[^6-1] autorità di altri Paesi che svolgono funzioni di perseguimento penale e di polizia, conformemente all’articolo 13 capoverso 2 LUC;
+- d.[^6-2] organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente EUROPOL e INTERPOL), conformemente all’articolo 13 capoverso 2 LUC;
 - e. autorità federali e cantonali competenti in materia di finanze;
 - f. Amministrazione federale delle finanze;
-- g. Autorità federale di vigilanza sui mercati finanziari[^6-1];
+- g. Autorità federale di vigilanza sui mercati finanziari[^6-3];
 - h. Commissione federale delle case da gioco;
-- i. Autorità federale di vigilanza sui mercati finanziari[^6-2];
-- j. Segreteria di Stato dell’economia[^6-3];
-- k. autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 4 lettere c nonché d LMSI[^6-4];
+- i. Autorità federale di vigilanza sui mercati finanziari[^6-4];
+- j. Segreteria di Stato dell’economia[^6-5];
+- k. autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 4 lettere c nonché d LMSI[^6-6];
 - l. Ufficio federale dell’aviazione civile;
 - m. autorità competenti in materia di acquisto di fondi da parte di persone all’estero;
 - n. organizzazioni non governative, segnatamente quelle che operano in favore della lotta contro lo sfruttamento sessuale a fini commerciali, sempreché si tratti di impedire e d’individuare forme particolari di criminalità;
@@ -205,38 +205,42 @@ Per ottenere le informazioni di cui necessita e per motivare le sue domande d’
 
 <sup>2</sup>
 
-La Polizia giudiziaria federale può inoltre comunicare spontaneamente i dati personali alle seguenti autorità, affinché possano adempiere i loro compiti legali:[^6-5]
+La Polizia giudiziaria federale può inoltre comunicare spontaneamente i dati personali alle seguenti autorità, affinché possano adempiere i loro compiti legali:[^6-7]
 
 - a. altri servizi del fedpol;
-- b. autorità di altri Paesi, che svolgono funzioni di perseguimento penale, per le loro investigazioni di polizia giudiziaria sempreché siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
-- c. organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente EUROPOL e INTERPOL) sempreché siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
+- b.[^6-8] autorità di altri Paesi, che svolgono funzioni di perseguimento penale, per le loro investigazioni di polizia giudiziaria, conformemente all’articolo 13 capoverso 2 LUC;
+- c.[^6-9] organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente EUROPOL e INTERPOL), conformemente all’articolo 13 capoverso 2 LUC;
 - d. autorità federali e cantonali competenti in materia di finanze, per le loro investigazioni di polizia giudiziaria in ambito fiscale;
 - e. Amministrazione federale delle finanze, per i suoi procedimenti penali amministrativi;
-- f.[^6-6] Autorità federale di vigilanza sui mercati finanziari, a sostegno della sua attività di vigilanza svolta nell’ambito delle leggi sui mercati finanziari giusta l’articolo 1 capoverso 1 della legge federale del 22 giugno 2007[^6-7] sulla vigilanza dei mercati finanziari, sempreché si tratti di informazioni attendibili, necessarie in sede di procedimento o atte ad avviare un procedimento;
+- f.[^6-10] Autorità federale di vigilanza sui mercati finanziari, a sostegno della sua attività di vigilanza svolta nell’ambito delle leggi sui mercati finanziari giusta l’articolo 1 capoverso 1 della legge federale del 22 giugno 2007[^6-11] sulla vigilanza dei mercati finanziari, sempreché si tratti di informazioni attendibili, necessarie in sede di procedimento o atte ad avviare un procedimento;
 - g. Commissione federale delle case da gioco, a sostegno dell’attività di vigilanza svolta nell’ambito della legislazione sulle case da gioco;
-- h.[^6-8] ...
-- i.[^6-9] autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 2 lettere a e b LMSI[^6-10], per i loro accertamenti, sempreché si tratti di informazioni attendibili;
-- j.[^6-11] servizio di polizia cantonale competente in materia di controllo dei precedenti personali ai sensi degli articoli 108*b*–108*e* della legge federale del 21 dicembre 1948[^6-12] sulla navigazione aerea, al fine di accertare un eventuale rischio per la sicurezza, sempreché si tratti di informazioni attendibili.k. autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 4 lettere c nonché d LMSI[^6-13];
+- h.[^6-12] ...
+- i.[^6-13] autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 2 lettere a e b LMSI[^6-14], per i loro accertamenti, sempreché si tratti di informazioni attendibili;
+- j.[^6-15] servizio di polizia cantonale competente in materia di controllo dei precedenti personali ai sensi degli articoli 108*b*–108*e* della legge federale del 21 dicembre 1948[^6-16] sulla navigazione aerea, al fine di accertare un eventuale rischio per la sicurezza, sempreché si tratti di informazioni attendibili.k. autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 4 lettere c nonché d LMSI[^6-17].
 
-<sup>3</sup> Tutti i dati personali sono comunicati, su richiesta, alle autorità di vigilanza della Confederazione e dei Cantoni nonché all’Incaricato federale della protezione dei dati e della trasparenza[^6-14] per l’adempimento delle loro funzioni di controllo.
+<sup>3</sup> Tutti i dati personali sono comunicati, su richiesta, alle autorità di vigilanza della Confederazione e dei Cantoni nonché all’Incaricato federale della protezione dei dati e della trasparenza[^6-18] per l’adempimento delle loro funzioni di controllo.
 
-<sup>4</sup> La Polizia giudiziaria federale deve offrire all’Archivio federale, per l’archiviazione, tutti i documenti di cui non ha più bisogno in modo permanente ai sensi della legge federale del 26 giugno 1998[^6-15] sull’archiviazione.
+<sup>4</sup> La Polizia giudiziaria federale deve offrire all’Archivio federale, per l’archiviazione, tutti i documenti di cui non ha più bisogno in modo permanente ai sensi della legge federale del 26 giugno 1998[^6-19] sull’archiviazione.
 
-[^6-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Commissione federale delle banche.
-[^6-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Servizio di controllo in materia di riciclaggio di denaro.
-[^6-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^6-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-5]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-6]: Nuovo testo giusta l’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-7]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^6-8]: Abrogata dall’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-9]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-10]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-11]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-12]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^6-13]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-14]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^6-15]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-1]: Nuovo testo giusta l’all. 2 n. II 40 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-2]: Nuovo testo giusta l’all. 2 n. II 40 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Commissione federale delle banche.
+[^6-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Servizio di controllo in materia di riciclaggio di denaro.
+[^6-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^6-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-7]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-8]: Nuovo testo giusta l’all. 2 n. II 40 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-9]: Nuovo testo giusta l’all. 2 n. II 40 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-10]: Nuovo testo giusta l’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-11]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^6-12]: Abrogata dall’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-13]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-14]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-15]: Introdotta dal n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-16]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^6-17]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-18]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^6-19]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 7
 
