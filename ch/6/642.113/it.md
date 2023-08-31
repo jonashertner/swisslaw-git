@@ -4,20 +4,20 @@ title: "Ordinanza del 16 novembre 1994 concernente l'apertura d'inventario della
 short: Oinv
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997"
 language: it
-version: 1995-01-01
+version: 2023-09-01
 adopted: 1994-11-16
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997/19950101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2997_2997_2997-19950101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2997_2997_2997/19950101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1994-2997_2997_2997-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2997_2997_2997/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’apertura dell’inventario della successione ai fini dell’imposta federale diretta
 
-(Oinv)**[^t-1]**
+(Oinv)[^t-1]
 
-del 16 novembre 1994 (Stato 1° gennaio 1995)
+del 16 novembre 1994 (Stato 1° settembre 2023)
 
 [^t-1]: [RU 1995 1770](https://fedlex.data.admin.ch/eli/oc/1995/1770_1770_1770)
 
@@ -58,12 +58,13 @@ L’inventario serve ad accertare i beni appartenenti alla successione.
 
 Possono essere equiparati a un inventario per fini fiscali:
 
-- a. il conto di chiusura allestito dal tutore al decesso del pupillo (art. 451 CC[^3-1]);
+- a.[^3-1] il conto finale allestito dal tutore al decesso di un minorenne sotto tutela o dal curatore al decesso di una persona sotto curatela (art. 327*c* cpv. 2 e 425 del Codice civile [CC][^3-2]);
 - b. l’inventario confezionato a titolo di provvedimento assicurativo (art. 553 CC) e quello compilato nell’ambito del beneficio d’inventario (art. 580 segg. CC).
 
 <sup>2</sup> Eventualmente, l’autorità incaricata dell’inventario completa queste compilazioni.
 
-[^3-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
+[^3-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 4
 
@@ -93,11 +94,11 @@ Tutti gli ufficiali pubblici che collaborano all’allestimento dell’inventari
 
 <sup>1</sup> L’ufficio di stato civile dell’ultimo domicilio o dell’ultima dimora fiscale del defunto avvisa del decesso, entro un termine di otto giorni, l’autorità incaricata dell’inventario.
 
-<sup>2</sup> Se una persona muore fuori del suo ultimo domicilio o dimora fiscale, l’ufficio di stato civile che stila l’atto di morte l’annuncia entro otto giorni all’ufficio di stato civile dell’ultimo domicilio o dell’ultima dimora fiscale, nel senso dell’articolo 120 capoverso 1 numero 2 dell’ordinanza del 1° giugno 1953[^7-1] sullo stato civile.
+<sup>2</sup> ...[^7-1]
 
 <sup>3</sup> L’autorità incaricata dell’inventario allega all’incartamento dell’inventario l’avviso previsto nel capoverso 1 con la menzione del giorno del suo ricevimento.
 
-[^7-1]: [RS 211.112.1](https://fedlex.data.admin.ch/eli/cc/1953/797_815_645)
+[^7-1]: Abrogato dal n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
 
 #### Art. 8
 
@@ -117,7 +118,7 @@ Se vengono apposti sigilli prima dell’apertura dell’inventario secondo le di
 
 **Obbligo degli eredi e dei terzi**
 
-<sup>1</sup> Uno almeno degli eredi che hanno l’esercizio dei diritti civili e i rappresentanti legali degli eredi minorenni o sotto tutela assistono all’apertura dell’inventario.
+<sup>1</sup> Uno almeno degli eredi che hanno l’esercizio dei diritti civili e i rappresentanti legali degli eredi che hanno un esercizio limitato dei diritti civili o che non hanno alcun esercizio di tali diritti assistono all’apertura dell’inventario.[^10-1]
 
 <sup>2</sup>
 
@@ -128,6 +129,8 @@ L’autorità incaricata dell’inventario attira l’attenzione delle persone c
 - c. l’obbligo che incombe a terzi di fornir loro informazioni (art. 158 LIFD).
 
 <sup>3</sup> Le persone che assistono all’apertura dell’inventario firmano il verbale dell’inventario e confermano che l’autorità incaricata dell’inventario ha adempiuto i suoi obblighi giusta il capoverso 2. Se una di queste persone rifiuta di firmare, ne è fatta menzione, con indicazione dei motivi, nel verbale dell’inventario.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
 
 #### Art. 11
 

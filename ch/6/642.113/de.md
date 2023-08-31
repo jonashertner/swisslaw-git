@@ -4,11 +4,11 @@ title: Verordnung vom 16. November 1994 über die Errichtung des Nachlassinventa
 short: InvV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997"
 language: de
-version: 1995-01-01
+version: 2023-09-01
 adopted: 1994-11-16
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997/19950101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2997_2997_2997-19950101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2997_2997_2997/19950101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1994-2997_2997_2997-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2997_2997_2997/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2997_2997_2997/19950101/de"
 
 (InvV)
 
-vom 16. November 1994 (Stand am 1. Januar 1995)
+vom 16. November 1994 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -56,12 +56,13 @@ Das Inventar dient der Feststellung der zum Nachlass gehörenden Vermögensgegen
 
 Für steuerliche Zwecke können dem Inventar gleichgestellt werden:
 
-- a. die Schlussrechnung, die der Vormund nach dem Tod einer bevormundeten Person erstellt (Art. 451 ZGB[^3-1]);
+- a.[^3-1] die Schlussrechnung, die der Vormund nach dem Tod eines bevormundeten Kindes oder die Beiständin oder der Beistand nach dem Tod einer verbeiständeten Person erstellt (Art. 327*c* Abs. 2 und 425 des Zivilgesetzbuches, ZGB[^3-2]);
 - b. das Sicherungsinventar oder das öffentliche Inventar, das nach dem Tod des Erblassers aufgenommen wurde (Art. 553 und 580 ff. ZGB).
 
 <sup>2</sup> Die Inventarbehörde ergänzt nötigenfalls diese Zusammenstellungen.
 
-[^3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
+[^3-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 4
 
@@ -91,11 +92,11 @@ Alle Amtspersonen, die bei der Inventaraufnahme und bei der Siegelung mitwirken,
 
 <sup>1</sup> Das Zivilstandsamt des letzten steuerrechtlichen Wohnsitzes oder Aufenthaltes meldet der Inventarbehörde jeden Todesfall innerhalb von acht Tagen.
 
-<sup>2</sup> Stirbt eine Person ausserhalb ihres letzten steuerrechtlichen Wohnsitzes oder Aufenthaltes, so meldet dies das Zivilstandsamt, das den Tod dieser Person verurkundet, nach Artikel 120 Absatz 1 Ziffer 2 der Zivilstandsverordnung vom 1. Juni 1953[^7-1] innerhalb von acht Tagen dem Zivilstandsamt des letzten steuerrechtlichen Wohnsitzes oder Aufenthaltes.
+<sup>2</sup> …[^7-1]
 
 <sup>3</sup> Die Inventarbehörde legt die Meldung nach Absatz 1 mit einem Vermerk über den Tag des Eingangs den Inventarisationsakten bei.
 
-[^7-1]: [SR 211.112.1](https://fedlex.data.admin.ch/eli/cc/1953/797_815_645)
+[^7-1]: Aufgehoben durch Ziff. I der V vom 9. Juni 2023, mit Wirkung seit 1. Sept. 2023 ([AS 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
 
 #### Art. 8
 
@@ -115,7 +116,7 @@ Findet vor der Inventaraufnahme eine Siegelung nach den Bestimmungen des vierten
 
 **Pflichten der Erbinnen, Erben und Dritter**
 
-<sup>1</sup> Mindestens eine oder einer der handlungsfähigen Erbinnen und Erben und die gesetzlichen Vertreterinnen und Vertreter der minderjährigen oder bevormundeten Erbinnen und Erben müssen der Inventaraufnahme beiwohnen.
+<sup>1</sup> Mindestens eine oder einer der handlungsfähigen Erbinnen und Erben sowie die gesetzlichen Vertreterinnen und Vertreter der eingeschränkt oder nicht handlungsfähigen Erbinnen und Erben müssen der Inventaraufnahme beiwohnen.[^10-1]
 
 <sup>2</sup>
 
@@ -126,6 +127,8 @@ Die Inventarbehörde macht die bei der Inventaraufnahme anwesenden Personen aufm
 - c. die Auskunftspflicht, die Dritte ihnen gegenüber haben (Art. 158 DBG).
 
 <sup>3</sup> Die bei der Inventaraufnahme anwesenden Personen unterschreiben das Inventarprotokoll und bestätigen, dass die Inventarbehörde ihre Pflicht nach Absatz 2 erfüllt hat. Verweigert eine dieser Personen ihre Unterschrift, so ist dies unter Angabe der Gründe im Inventarprotokoll festzuhalten.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
 
 #### Art. 11
 
@@ -179,7 +182,7 @@ Sobald die Inventarbehörde das Inventar aufgenommen hat:
 Das Inventar enthält:
 
 - a. die Personalien der verstorbenen Person, einschliesslich Geburtsdatum, Sterbe‑, Wohn- und Heimatort;
-- b. die Personalien des Ehegatten und der unter elterlicher Gewalt stehenden Kinder (Art. 155 Abs. 1 DBG);
+- b.[^16-1] die Personalien des Ehegatten und der unter elterlicher Sorge stehenden Kinder (Art. 155 Abs. 1 DBG);
 - c. das Datum der Eheschliessung;
 - d. den Güterstand;
 - e. das Datum des Todestages;
@@ -189,6 +192,8 @@ Das Inventar enthält:
 - i. die Bestätigung nach Artikel 10 Absatz 3;
 - k. Angaben über sonstige Erbinnen und Erben, sowie Angaben über Vermächtnisnehmerinnen und Vermächtnisnehmer, über die vom Erblasser ausgerichteten Vorempfänge und Schenkungen sowie über vorgefundene letztwillige Verfügungen und Erbverträge;
 - l. das Vermögensverzeichnis einschliesslich der Schulden und gegebenenfalls der güterrechtlichen Ansprüche und Verpflichtungen der verstorbenen Person.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
 
 #### Art. 17
 

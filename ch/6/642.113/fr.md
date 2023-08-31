@@ -4,11 +4,11 @@ title: "Ordonnance du 16 novembre 1994 sur l'établissement de l'inventaire de l
 short: Oinv
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997"
 language: fr
-version: 1995-01-01
+version: 2023-09-01
 adopted: 1994-11-16
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997/19950101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2997_2997_2997-19950101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2997_2997_2997/19950101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2997_2997_2997/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2997_2997_2997-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2997_2997_2997/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2997_2997_2997/19950101/fr"
 
 (Oinv)
 
-du 16 novembre 1994 (Etat le 1<sup>er</sup> janvier 1995)
+du 16 novembre 1994 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -56,12 +56,13 @@ L’inventaire sert à déterminer les biens faisant partie de la succession.
 
 Peuvent être assimilés à un inventaire à des fins fiscales:
 
-- a. le compte final établi par le tuteur d’un pupille à son décès (art. 451 CC[^3-1]);
+- a.[^3-1] le compte final établi par le tuteur au décès d’un enfant sous tutelle ou par le curateur au décès d’une personne sous curatelle (art. 327*c*, al. 2, et 425 du code civil, CC[^3-2]);
 - b. l’inventaire dressé à titre de mesure conservatoire après le décès du défunt (art. 553 CC) et l’inventaire auquel on a procédé dans le cadre du bénéfice d’inventaire (art. 580 et s. CC).
 
 <sup>2</sup> Le cas échéant, l’autorité chargée de dresser l’inventaire complète ces décomptes.
 
-[^3-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
+[^3-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 4
 
@@ -91,11 +92,11 @@ Tout officier public qui collabore à l’établissement de l’inventaire et à
 
 <sup>1</sup> L’officier de l’état civil du dernier domicile ou du dernier lieu de séjour fiscal du défunt annonce le décès de ce dernier dans un délai de huit jours à l’autorité chargée de dresser l’inventaire.
 
-<sup>2</sup> Si une personne meurt hors du lieu de son dernier domicile ou de son dernier lieu de séjour fiscal, l’officier de l’état civil qui a dressé l’acte de décès annonce le décès dans les huit jours à l’officier de l’état civil du dernier domicile ou du dernier lieu de séjour fiscal du défunt, conformément à l’art. 120, al. 1, ch. 2, de l’ordonnance du 1<sup>er</sup> juin 1953[^7-1] sur l’état civil.
+<sup>2</sup> ...[^7-1]
 
 <sup>3</sup> L’autorité chargée de dresser l’inventaire joint l’annonce prévue à l’al. 1 au dossier de l’inventaire. Elle y porte la mention du jour de sa réception.
 
-[^7-1]: [RS 211.112.1](https://fedlex.data.admin.ch/eli/cc/1953/797_815_645)
+[^7-1]: Abrogé par le ch. I de l’O du 9 juin 2023, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
 
 #### Art. 8
 
@@ -115,7 +116,7 @@ Lorsque des scellés ont été apposés avant la prise d’inventaire, conformé
 
 **Obligations des héritiers et des tiers**
 
-<sup>1</sup> Au moins un des héritiers capables d’exercer les droits civils, ainsi que les représentants légaux des héritiers mineurs ou sous tutelle assistent à la prise d’inventaire.
+<sup>1</sup> Au moins un des héritiers capables d’exercer les droits civils ainsi que les représentants légaux des héritiers en incapacité d’exercer les droits civils ou dont la capacité d’exercer les droits civils est restreinte assistent à la prise d’inventaire.[^10-1]
 
 <sup>2</sup>
 
@@ -126,6 +127,8 @@ L’autorité chargée de dresser l’inventaire attire l’attention des person
 - c. l’obligation des tiers à leur fournir des renseignements (art. 158 LIFD).
 
 <sup>3</sup> Les personnes qui assistent à la prise d’inventaire signent le procès-verbal de l’inventaire et attestent que l’autorité chargée de dresser l’inventaire a rempli les obligations mentionnées à l’al. 2. Si l’une de ces personnes refuse de signer, il en est fait mention, avec les motifs, dans le procès-verbal de l’inventaire.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 304](https://fedlex.data.admin.ch/eli/oc/2023/304)).
 
 #### Art. 11
 
@@ -139,7 +142,7 @@ L’autorité chargée de dresser l’inventaire attire l’attention des person
 
 #### Art. 12
 
-**Etat des biens; recherches complémentaires**
+**État des biens; recherches complémentaires**
 
 <sup>1</sup> L’autorité chargée de dresser l’inventaire dresse un état des biens dont l’existence est constatée. Si elle ne peut clore cet état immédiatement, elle procède sans délai aux recensements et recherches nécessaires. En cas de besoin, elle procède à l’apposition immédiate de scellés (art. 156, al. 2, LIFD).
 
