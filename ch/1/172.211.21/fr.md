@@ -3,11 +3,11 @@ sr: "172.211.21"
 title: "Ordonnance du 18 novembre 2015 sur le système d'information relatif au service VIP (Ordonnance SIVIP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/797"
 language: fr
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-797-20210401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-797-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20210401/fr"
 
 (Ordonnance SIVIP)
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> avril 2021)
+du 18 novembre 2015 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -154,14 +154,15 @@ Les entités suivantes peuvent consulter toutes les données dans le SIVIP (droi
 
 La sécurité des données et la sécurité informatique sont régies par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^11-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-2].[^11-3]
+- a.[^11-1] l’ordonnance du 31 août 2022 sur la protection des données[^11-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-3].[^11-4]
 
 <sup>2</sup> Le Protocole du DFAE édicte un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
-[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 23 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-4]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Section 4 Conservation, archivage et destruction des données
 
