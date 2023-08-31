@@ -4,13 +4,13 @@ number: "831.11"
 title: Vollzugsverordnung zum kantonalen Waldgesetz
 short: "Kantonale Waldverordnung, kWaV"
 language: de
-version: 2022-07-01
-valid_until: 2023-08-31
-version_adopted: 2022-06-21
+version: 2023-09-01
+valid_until: 2025-03-31
+version_adopted: 2023-05-16
 adopted: 1999-05-25
 in_force: 1999-06-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/831.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1053/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1150/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1053/pdf_file"
 
 (Kantonale Waldverordnung, kWaV)
 
-vom 25.05.1999 (Stand 01.07.2022)
+vom 25.05.1999 (Stand 01.09.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -90,9 +90,9 @@ beschliesst:
 
 #### § 4
 
-**2. durch das Oberforstamt**
+**2. durch das Amt für Wald und Naturgefahren**
 
-<sup>1</sup> Das Oberforstamt kann aus wichtigen Gründen im Einzelfall sowie für bewilligte Veranstaltungen Ausnahmebewilligungen erteilen.
+<sup>1</sup> Das Amt für Wald und Naturgefahren kann aus wichtigen Gründen im Einzelfall sowie für bewilligte Veranstaltungen Ausnahmebewilligungen erteilen.
 
 #### § 5
 
@@ -102,7 +102,7 @@ beschliesst:
 
 <sup>2</sup> Von der Ausweispflicht ausgenommen sind Personen gemäss § 2 Abs. 2 Ziffer 3–5.
 
-<sup>3</sup> Die Ausweise werden von der jeweiligen Strasseneigentümerschaft oder dem Oberforstamt abgegeben.
+<sup>3</sup> Die Ausweise werden von der jeweiligen Strasseneigentümerschaft oder dem Amt für Wald und Naturgefahren abgegeben.
 
 <sup>4</sup> Der Ausweis enthält folgende Angaben:
 
@@ -120,7 +120,7 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligung ist zeitlich zu befristen und mit der Auflage zu verbinden, nach Ablauf der Bewilligung den ursprünglichen Zustand des Waldes wiederherzustellen.
 
-<sup>3</sup> Das Oberforstamt kann mit der Bewilligung die Hinterlegung einer Kaution zur Deckung der Kosten für die Wiederherstellung des ursprünglichen Zustandes verfügen.
+<sup>3</sup> Das Amt für Wald und Naturgefahren kann mit der Bewilligung die Hinterlegung einer Kaution zur Deckung der Kosten für die Wiederherstellung des ursprünglichen Zustandes verfügen.
 
 #### § 7
 
@@ -164,7 +164,7 @@ beschliesst:
 
 **Fachkommission Naturgefahren 1. Zusammensetzung**
 
-<sup>1</sup> Die Fachkommission Naturgefahren setzt sich zusammen aus je einer Vertretung des Amtes für Wald und Energie, des Amtes für Naturgefahren, des Amtes für Raumentwicklung und der Nidwaldner Sachversicherung.
+<sup>1</sup> Die Fachkommission Naturgefahren setzt sich zusammen aus je einer Vertretung des Amtes für Wald und Naturgefahren, des Amtes für Raumentwicklung und der Nidwaldner Sachversicherung.
 
 <sup>2</sup> Der Regierungsrat wählt die Mitglieder der kantonalen Ämter. Die Nidwaldner Sachversicherung bezeichnet ihre Vertretung.
 
@@ -220,11 +220,11 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Oberforstamt erarbeitet unter Beizug der betroffenen kantonalen Fachstellen einen Planentwurf. Es kann weitere interessierte Kreise zur Mitarbeit einladen.
+<sup>1</sup> Das Amt für Wald und Naturgefahren erarbeitet unter Beizug der betroffenen kantonalen Fachstellen einen Planentwurf. Es kann weitere interessierte Kreise zur Mitarbeit einladen.
 
-<sup>2</sup> Der Planentwurf ist in den Gemeinden und beim Oberforstamt während 60 Tagen öffentlich aufzulegen. Die Auflage ist vorgängig unter Hinweis auf Abs. 3 im Amtsblatt zu veröffentlichen.
+<sup>2</sup> Der Planentwurf ist in den Gemeinden und beim Amt für Wald und Naturgefahren während 60 Tagen öffentlich aufzulegen. Die Auflage ist vorgängig unter Hinweis auf Abs. 3 im Amtsblatt zu veröffentlichen.
 
-<sup>3</sup> Während der Auflagefrist können alle, insbesondere die Waldeigentümerinnen und Waldeigentümer sowie die Gemeinden beim Oberforstamt Stellung nehmen und Vorschläge einreichen.
+<sup>3</sup> Während der Auflagefrist können alle, insbesondere die Waldeigentümerinnen und Waldeigentümer sowie die Gemeinden beim Amt für Wald und Naturgefahren Stellung nehmen und Vorschläge einreichen.
 
 <sup>4</sup> Die zuständige Direktion unterbreitet den bereinigten Entwurf dem Regierungsrat zur Beschlussfassung.
 
@@ -290,7 +290,7 @@ beschliesst:
 
 **Bewilligung für Holzschläge**
 
-<sup>1</sup> Die Gesuche für die Bewilligung von Holzschlägen sind beim Oberforstamt unter Angabe der zu schlagenden Menge und des betroffenen Waldgebietes einzureichen.
+<sup>1</sup> Die Gesuche für die Bewilligung von Holzschlägen sind beim Amt für Wald und Naturgefahren unter Angabe der zu schlagenden Menge und des betroffenen Waldgebietes einzureichen.
 
 <sup>2</sup> Die Revierförsterin oder der Revierförster zeichnet im betroffenen Waldgebiet die zu schlagenden Bäume bis zur gewünschten Holzmenge an, sofern der Eingriff den Zielen des Waldentwicklungsplanes entspricht.
 
