@@ -3,18 +3,18 @@ sr: "431.011"
 title: "Ordinanza del 30 giugno 1993 sull'organizzazione della statistica federale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: it
-version: 2021-04-01
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20210401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’organizzazione della statistica federale
 
-del 30 giugno 1993 (Stato 1° aprile 2021)
+del 30 giugno 1993 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,7 @@ Per lavori statistici s’intendono:
 
 <sup>3</sup> Non sono ritenuti lavori statistici quelli che servono esclusivamente alla gestione interna delle unità amministrative e delle altre corporazioni, istituti e privati e i cui risultati non forniscono informazioni rappresentative a livello federale.
 
-[^3-1]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)n. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)all. n. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)all. n. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 1. [RU 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Vedi ora la L del 21 mar. 1997 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^3-1]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170), [931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2; [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)n. II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)all. n. 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 2, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1, [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)all. n. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 1. [RU 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Vedi ora la L del 21 mar. 1997 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
 
 #### Art. 4
 
@@ -147,27 +147,29 @@ La Commissione della statistica federale (Commissione) presta consulenza al Cons
 
 **Coordinamento**
 
-<sup>1</sup> I produttori di statistiche della Confederazione devono consultare l’Ufficio federale prima di introdurre, modificare sostanzialmente e sopprimere lavori statistici ai sensi dell’articolo 3 capoverso 2 lettere a–c. L’Ufficio federale dev’essere anche consultato prima di creare, modificare sostanzialmente e sopprimere collezioni di dati amministrativi e registri della Confederazione idonei agli scopi della statistica federale.
+<sup>1</sup> I produttori di statistiche della Confederazione devono consultare l’Ufficio federale prima di introdurre, modificare sostanzialmente e sopprimere lavori statistici ai sensi dell’articolo 3 capoverso 2 lettere a–c. L’Ufficio federale dev’essere anche consultato prima di creare, modificare sostanzialmente e sopprimere insiemi di dati amministrativi e registri della Confederazione idonei agli scopi della statistica federale.[^9-1]
 
 <sup>2</sup> L’Ufficio federale presta consulenza ai produttori di statistiche della Confederazione e agli uffici regionali di statistica nelle questioni statistiche. Offre loro possibilità di formazione e di perfezionamento specifici.
 
 <sup>3</sup> L’Ufficio federale può, dopo aver sentito gli ambienti interessati e d’intesa con la Commissione, emanare raccomandazioni e direttive sui lavori di statistica secondo l’articolo 3 capoverso 2 lettere a–c, allo scopo di coordinare e armonizzare la statistica federale.
 
-<sup>4</sup> L’Ufficio federale allestisce un inventario dei lavori statistici secondo l’articolo 3 capoverso 2 lettere a–c, delle collezioni di dati amministrativi e dei registri della Confederazione idonei agli scopi della statistica federale, nonché delle reti di osservazione e di misura. L’inventario viene aggiornato annualmente.
+<sup>4</sup> L’Ufficio federale allestisce un inventario dei lavori statistici secondo l’articolo 3 capoverso 2 lettere a–c, degli insiemi di dati amministrativi e dei registri della Confederazione idonei agli scopi della statistica federale, nonché delle reti di osservazione e di misura. L’inventario viene aggiornato annualmente.[^9-2]
 
-<sup>5</sup> L’Ufficio federale coordina le relazioni della Confederazione con le organizzazioni internazionali nel settore della statistica. Inoltre, assicura lo scambio di dati tra la statistica federale e le organizzazioni internazionali competenti, a meno che ciò non sia garantito da altri produttori di statistiche della Confederazione. Lo scambio di dati via rete è effettuato in collaborazione con l’Ufficio federale dell’informatica e della telecomunicazione[^9-1].
+<sup>5</sup> L’Ufficio federale coordina le relazioni della Confederazione con le organizzazioni internazionali nel settore della statistica. Inoltre, assicura lo scambio di dati tra la statistica federale e le organizzazioni internazionali competenti, a meno che ciò non sia garantito da altri produttori di statistiche della Confederazione. Lo scambio di dati via rete è effettuato in collaborazione con l’Ufficio federale dell’informatica e della telecomunicazione[^9-3].
 
-[^9-1]: Nuova denominazione giusta il DCF del 19 dic. 1997 (non pubblicato).
+[^9-1]: Nuovo testo del per. giusta l’all. 2 n. II 51 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Nuovo testo giusta l’all. 2 n. II 51 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-3]: Nuova denominazione giusta il DCF del 19 dic. 1997 (non pubblicato).
 
 #### Art. 10
 
 **Protezione e sicurezza dei dati**[^10-1]
 
-<sup>1</sup> La protezione dei dati è assicurata dalle disposizioni della legge e dell’ordinanza del 30 giugno 1993[^10-2] sulle rilevazioni statistiche, nonché da quelle della legge del 19 giugno 1992[^10-3] sulla protezione dei dati e dell’ordinanza del 14 giugno 1993[^10-4] relativa alla legge federale sulla protezione dei dati.
+<sup>1</sup> La protezione dei dati personali è assicurata dalle disposizioni della legge e dell’ordinanza del 30 giugno 1993[^10-2] sull’esecuzione di rilevazioni statistiche federali, nonché da quelle della legge federale del 25 settembre 2020[^10-3] sulla protezione dei dati e dell’ordinanza del 31 agosto 2022[^10-4] sulla protezione dei dati (OPDa).
 
-<sup>2</sup> La sicurezza dei dati è garantita dalle disposizioni della legge e da quelle dell’ordinanza del 27 maggio 2020[^10-5] sui ciber-rischi, nonché da quelle dell’ordinanza del 14 giugno 1993 relativa alla legge federale sulla protezione dei dati.
+<sup>2</sup> La sicurezza dei dati personali dei dati delle persone giuridiche è garantita dalle disposizioni della legge nonché da quelle dell’ordinanza del 27 maggio 2020[^10-5] sui ciber-rischi e dell’OPDa. Le disposizioni dell’OPDa si applicano per analogia ai dati delle persone giuridiche.
 
-[^10-1]: Nuovo testo giusta l’all. n. 10 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^10-1]: Nuovo testo giusta l’all. 2 n. II 51 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^10-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^10-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
@@ -200,7 +202,7 @@ L’Ufficio federale gestisce:
 
 La presente ordinanza entra in vigore il 1° agosto 1993.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 2 cpv. 1)
 

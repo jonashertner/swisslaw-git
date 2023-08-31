@@ -3,18 +3,18 @@ sr: "431.011"
 title: "Ordonnance du 30 juin 1993 concernant l'organisation de la statistique fédérale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: fr
-version: 2021-04-01
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20210401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’organisation de la statistique fédérale
 
-du 30 juin 1993 (Etat le 1<sup>er</sup> avril 2021)
+du 30 juin 1993 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -153,21 +153,22 @@ La Commission de la statistique fédérale (commission) conseille le Conseil fé
 
 <sup>3</sup> Dans le but de coordonner et d’harmoniser la statistique fédérale, l’office peut émettre, après consultation des milieux concernés, et avec l’accord de la commission, des recommandations et des directives d’ordre technique et méthodologique concernant les travaux statistiques au sens de l’art. 3, al. 2, let. a à c.
 
-<sup>4</sup> L’office dresse un inventaire des travaux statistiques au sens de l’art. 3, al. 2, let. a à c, des ensembles de données administratives et des registres de la Confédération utilisables pour la statistique fédérale, ainsi que des réseaux d’observations et de mesures; il le met à jour annuellement.
+<sup>4</sup> L’office dresse un inventaire des travaux statistiques au sens de l’art. 3, al. 2, let. a à c, des ensembles de données administratives et des registres de la Confédération utilisables pour la statistique fédérale, ainsi que des réseaux d’observations et de mesures. Il le met à jour annuellement.[^9-1]
 
-<sup>5</sup> L’office coordonne les relations entre la Confédération et les organisations internationales en matière de statistique. Il assure en outre l’échange de données entre la statistique fédérale et les organisations internationales concernées, à moins que d’autres producteurs de statistiques de la Confédération ne s’en chargent. L’échange de données par réseau est effectué en collaboration avec l’Office fédéral de l’informatique et de la télécommunication[^9-1].
+<sup>5</sup> L’office coordonne les relations entre la Confédération et les organisations internationales en matière de statistique. Il assure en outre l’échange de données entre la statistique fédérale et les organisations internationales concernées, à moins que d’autres producteurs de statistiques de la Confédération ne s’en chargent. L’échange de données par réseau est effectué en collaboration avec l’Office fédéral de l’informatique et de la télécommunication[^9-2].
 
-[^9-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié).
+[^9-1]: Nouvelle teneur selon l’annexe 2 ch. II 51 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié).
 
 #### Art. 10
 
 **Protection et sécurité des données**[^10-1]
 
-<sup>1</sup> La protection des données est assurée par les dispositions spécifiques de la loi et de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^10-2], ainsi que par celles de la loi fédérale du 19 juin 1992 sur la protection des données[^10-3] et de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^10-4].
+<sup>1</sup> La protection des données est assurée par les dispositions spécifiques de la loi et de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^10-2], ainsi que par celles de la loi fédérale du 25 septembre 2020 sur la protection des données[^10-3] et de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^10-4].
 
-<sup>2</sup> La sécurité des données est assurée par les dispositions spécifiques de la loi, ainsi que par celles de l’ordonnance du 27 mai 2020 sur les cyberrisques[^10-5] et de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données.
+<sup>2</sup> La sécurité des données personnelles et des données des personnes morales est assurée par les dispositions spécifiques de la loi, ainsi que par celles de l’ordonnance du 27 mai 2020 sur les cyberrisques[^10-5] et de l’OPDo. L’OPDo s’applique par analogie pour les personnes morales.
 
-[^10-1]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^10-1]: Nouvelle teneur selon l’annexe 2 ch. II 51 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^10-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^10-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
@@ -200,7 +201,7 @@ L’office gère:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 1993.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 2, al. 1)
 

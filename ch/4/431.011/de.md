@@ -3,18 +3,18 @@ sr: "431.011"
 title: Verordnung vom 30. Juni 1993 über die Organisation der Bundesstatistik
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: de
-version: 2021-04-01
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20210401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Organisation der Bundesstatistik
 
-vom 30. Juni 1993 (Stand am 1. April 2021)
+vom 30. Juni 1993 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -77,7 +77,7 @@ Als statistische Arbeiten gelten:
 
 <sup>3</sup> Arbeiten, die ausschliesslich der internen administrativen Tätigkeit der Verwaltungseinheiten und der übrigen Körperschaften, Anstalten und Privaten dienen und deren Resultate keine auf Bundesebene repräsentative Informationen liefern, gelten nicht als statistische Arbeiten.
 
-[^3-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 Ziff. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)Ziff. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Anhang Ziff. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 2 4362 Art. 1 5050 Anhang Ziff. 1, **1996** 1486 1498 Anhang Ziff. 1, 546Anhang Ziff. 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. Siehe heute das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^3-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170), [931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 Ziff. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)Ziff. II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1; [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Anhang Ziff. 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 2, 4362 Art. 1, 5050 Anhang Ziff. 1; **1996** 1486, 1498 Anhang Ziff. 1; 546Anhang Ziff. 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. Siehe heute das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
 
 #### Art. 4
 
@@ -141,33 +141,35 @@ Die Kommission für die Bundesstatistik (Kommission) berät den Bundesrat und di
 
 <sup>2</sup> Die Entschädigungen richten sich nach der Verordnung vom 1. Oktober 1973[^8-1] über die Entschädigung für Kommissionsmitglieder, Experten und Beauftragte.
 
-[^8-1]: [[AS 1973 1559](https://fedlex.data.admin.ch/eli/oc/1973/1559_1559_1559), [1989 50](https://fedlex.data.admin.ch/eli/oc/1989/50_50_50), [1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)Art. 72 Ziff. 2. [AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 21 Bst. b]. Siehe heute die Verordnung über die Taggelder und Vergütungen der Mitglieder ausserparlamentarischer Kommissionen ([SR 172.311](https://fedlex.data.admin.ch/eli/cc/1997/167_167_167)).
+[^8-1]: [[AS 1973 1559](https://fedlex.data.admin.ch/eli/oc/1973/1559_1559_1559); [1989 50](https://fedlex.data.admin.ch/eli/oc/1989/50_50_50); [1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)Art. 72 Ziff. 2. [AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 21 Bst. b]. Siehe heute die Verordnung über die Taggelder und Vergütungen der Mitglieder ausserparlamentarischer Kommissionen ([SR 172.311](https://fedlex.data.admin.ch/eli/cc/1997/167_167_167)).
 
 #### Art. 9
 
 **Koordination**
 
-<sup>1</sup> Die Statistikproduzenten des Bundes haben das Bundesamt vor der Einführung, vor grundlegenden Änderungen und vor der Aufhebung von statistischen Arbeiten nach Artikel 3 Absatz 2 Buchstaben a–c zu konsultieren. Das Bundesamt muss ebenfalls vor der Schaffung, vor grundlegenden Änderungen und vor der Aufhebung von administrativen Datensammlungen und Registern des Bundes, welche für die Zwecke der Bundesstatistik geeignet sind, konsultiert werden.
+<sup>1</sup> Die Statistikproduzenten des Bundes haben das Bundesamt vor der Einführung, vor grundlegenden Änderungen und vor der Aufhebung von statistischen Arbeiten nach Artikel 3 Absatz 2 Buchstaben a–c zu konsultieren. Das Bundesamt muss ebenfalls vor der Schaffung, vor grundlegenden Änderungen und vor der Aufhebung von Beständen von administrativen Daten und Registern des Bundes, welche für die Zwecke der Bundesstatistik geeignet sind, konsultiert werden.[^9-1]
 
 <sup>2</sup> Das Bundesamt berät die Statistikproduzenten des Bundes sowie die regionalen statistischen Ämter in statistischen Angelegenheiten. Es bietet ihnen eine entsprechende statistische Aus- und Weiterbildung an.
 
 <sup>3</sup> Das Bundesamt kann zwecks Koordination und Harmonisierung der Bundesstatistik, nach Anhörung der betroffenen Kreise und im Einvernehmen mit der Statistikkommission, Empfehlungen sowie technische und methodologische Richtlinien über die statistischen Arbeiten nach Artikel 3 Absatz 2 Buchstaben a–c erlassen.
 
-<sup>4</sup> Das Bundesamt erstellt ein Inventar der statistischen Arbeiten nach Artikel 3 Absatz 2 Buchstaben a–c, der administrativen Datensammlungen und Register des Bundes, welche für die Zwecke der Bundesstatistik geeignet sind, sowie der Beobachtungs- und Messnetze. Das Inventar wird jährlich nachgeführt.
+<sup>4</sup> Das Bundesamt erstellt ein Inventar der statistischen Arbeiten nach Artikel 3 Absatz 2 Buchstaben a–c, der Bestände von administrativen Daten und der Register des Bundes, welche für die Zwecke der Bundesstatistik geeignet sind, sowie der Beobachtungs- und Messnetze. Das Inventar wird jährlich nachgeführt.[^9-2]
 
-<sup>5</sup> Das Bundesamt koordiniert die Beziehungen des Bundes zu internationalen Organisationen im Bereich der Statistik. Es stellt zudem den Datenaustausch der Bundesstatistik mit den zuständigen internationalen Organisationen sicher, sofern er nicht durch andere Statistikproduzenten des Bundes gewährleistet wird. Der Datenaustausch über Netzwerke geschieht in Zusammenarbeit mit dem Bundesamt für Informatik und Telekommunikation[^9-1].
+<sup>5</sup> Das Bundesamt koordiniert die Beziehungen des Bundes zu internationalen Organisationen im Bereich der Statistik. Es stellt zudem den Datenaustausch der Bundesstatistik mit den zuständigen internationalen Organisationen sicher, sofern er nicht durch andere Statistikproduzenten des Bundes gewährleistet wird. Der Datenaustausch über Netzwerke geschieht in Zusammenarbeit mit dem Bundesamt für Informatik und Telekommunikation[^9-3].
 
-[^9-1]: Bezeichnung gemäss nicht veröffentlichtem BRB vom 19. Dez. 1997.
+[^9-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 51 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Fassung gemäss Anhang 2 Ziff. II 51 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-3]: Bezeichnung gemäss nicht veröffentlichtem BRB vom 19. Dez. 1997.
 
 #### Art. 10
 
 **Datenschutz und Datensicherheit**[^10-1]
 
-<sup>1</sup> Für die Gewährleistung des Datenschutzes gelten neben den Bestimmungen des Gesetzes und der Verordnung vom 30. Juni 1993[^10-2] über die Durchführung von statistischen Erhebungen des Bundes auch die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^10-3] über den Datenschutz und der Verordnung vom 14. Juni 1993[^10-4] zum Bundesgesetz über den Datenschutz.
+<sup>1</sup> Für die Gewährleistung des Datenschutzes von Personendaten gelten neben den Bestimmungen des Gesetzes und der Verordnung vom 30. Juni 1993[^10-2] über die Durchführung von statistischen Erhebungen des Bundes auch die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^10-3] und der Datenschutzverordnung vom 31. August 2022[^10-4] (DSV).
 
-<sup>2</sup> Für die Gewährleistung der Datensicherheit gelten neben den Bestimmungen des Gesetzes auch diejenigen der Cyberrisikenverordnung vom 27. Mai 2020[^10-5] und der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz.
+<sup>2</sup> Für die Gewährleistung der Datensicherheit von Personendaten sowie von Daten juristischer Personen gelten neben den Bestimmungen des Gesetzes auch diejenigen der Cyberrisikenverordnung vom 27. Mai 2020[^10-5] und der DSV. Für Daten juristischer Personen gilt die DSV sinngemäss.
 
-[^10-1]: Fassung gemäss Anhang Ziff. 10 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^10-1]: Fassung gemäss Anhang 2 Ziff. II 51 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^10-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^10-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-4]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
@@ -200,7 +202,7 @@ Das Bundesamt führt:
 
 Diese Verordnung tritt am 1. August 1993 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 2 Abs. 1)
 
