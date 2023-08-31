@@ -3,20 +3,19 @@ canton: SG
 number: "751.12"
 title: Verordnung über Nutzungsentschädigungen und Gebühren für Bewilligungen nach dem Gesetz über die Gewässernutzung
 language: de
-version: 2018-02-01
-valid_until: 2023-08-31
-version_adopted: 2018-01-16
+version: 2023-09-01
+version_adopted: 2023-06-20
 adopted: 1996-07-02
 in_force: 1996-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/751.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2383/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3530/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Nutzungsentschädigungen und Gebühren für Bewilligungen nach dem Gesetz über die Gewässernutzung
 
-vom 02.07.1996 (Stand 01.02.2018)
+vom 02.07.1996 (Stand 01.09.2023)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -60,6 +59,12 @@ als Verordnung:[^ingress-2]
 - e) den Auswirkungen der Nutzung auf die Umwelt;
 - f) dem Ausmass der Beeinträchtigung des Gemeingebrauchs.
 
+<sup>3</sup> Die Berechnung des Zuschlags richtet sich nach Anhang 1 zu diesem Erlass für:
+
+- a) Häfen, die wenigstens auf drei Seiten abgegrenzt sind und über mehr als neun Bootsplätze verfügen;
+- b) Anlagen für Einzelboote;
+- c) Badeanlagen und übrige Objekte.
+
 #### Art. 4
 
 **Bewilligungsgebühr**
@@ -73,6 +78,26 @@ als Verordnung:[^ingress-2]
 **Anpassung an die Teuerung**
 
 <sup>1</sup> Nach dieser Verordnung errechnete Nutzungsentschädigungen werden der Teuerung angepasst (Basis: Landesindex der Konsumentenpreise, Jahresdurchschnitt 1996).
+
+#### Art. 4ter
+
+**Bewilligungsdauer a) Grundsatz**
+
+<sup>1</sup> Die allgemeine Dauer für Bewilligungen nach [Art. 9](https://www.gesetzessammlung.sg.ch/data/751.1/de/art9) Abs. 1 des Gesetzes über die Gewässernutzung vom 5. Dezember 1960[^4ter-1] beträgt höchstens 50 Jahre.
+
+<sup>2</sup> Bei neuen Hafenanlagen und der Konzessionserneuerung von bestehenden Hafenanlagen beträgt die Mindestdauer 20 Jahre und die Regeldauer 30 Jahre. Bei Neuinvestitionen von mehr als 5 Mio. Franken beträgt die Höchstdauer 50 Jahre.
+
+<sup>3</sup> Bei den übrigen Anlagen beträgt die Mindestdauer 1 Jahr und die Höchstdauer 30 Jahre. Die Regeldauer beträgt 20 Jahre.
+
+[^4ter-1]: sGS [751.1](https://www.gesetzessammlung.sg.ch/data/751.1/de).
+
+#### Art. 4quater
+
+**b) Ausnahmen**
+
+<sup>1</sup> Wenn in Seeuferplanungen mittelfristig eine Entfernung oder Änderung der Anlage vorgesehen ist oder wenn eine Entfernung oder grundsätzliche Änderung der Anlage innerhalb einer kürzeren Frist vorgesehen ist, ist eine Abweichung von der Mindestdauer möglich.
+
+<sup>2</sup> Wenn die Neuinvestitionen innerhalb der Regelfrist nicht abgeschrieben werden können, ist eine Abweichung von der Höchstdauer möglich.
 
 ## II. Inanspruchnahme von Strand- oder Seeboden
 
@@ -170,5 +195,13 @@ als Verordnung:[^ingress-2]
 **Vollzugsbeginn**
 
 <sup>1</sup> Diese Verordnung wird ab 1. August 1996 angewendet.
+
+#### Art. 15
+
+**Übergangsbestimmung des IV. Nachtrags vom 20. Juni 2023**
+
+<sup>1</sup> Bei Vollzugsbeginn dieses Nachtrags hängige Bewilligungsverfahren werden nach neuem Recht beurteilt.
+
+<sup>2</sup> Auf Bewilligungen, die bei Vollzugsbeginn dieses Nachtrags rechtskräftig sind, wird das bisherige Recht angewendet.
 
 nGS 34–14
