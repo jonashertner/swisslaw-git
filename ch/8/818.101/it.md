@@ -4,11 +4,11 @@ title: "Legge federale del 28 settembre 2012 sulla lotta contro le malattie tras
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/it"
 
 (Legge sulle epidemie, LEp)
 
-del 28 settembre 2012 (Stato 1° gennaio 2023)
+del 28 settembre 2012 (Stato 1° settembre 2023)
 
 *L’Assemblea federale della Confederazione Svizzera,*
 
@@ -780,9 +780,10 @@ Il sistema d’informazione serve a:
 
 <sup>8</sup> Il Consiglio federale stabilisce le condizioni per la conservazione e la cancellazione dei dati e disciplina i diritti d’accesso.
 
-<sup>9</sup> Il diritto di ottenere informazioni relative ai dati che figurano nel sistema d’informazione e il diritto di farli rettificare sono retti dagli articoli 5 e 8 della legge federale del 19 giugno 1992[^60-1] sulla protezione dei dati. Le domande di accesso ai dati personali e di rettifica devono essere indirizzate all’UFSP.
+<sup>9</sup> Il diritto di ottenere informazioni relative ai dati che figurano nel sistema d’informazione e il diritto di farli rettificare sono retti dagli articoli 25 e 41 della legge federale del 25 settembre 2020[^60-1] sulla protezione dei dati (LPD).[^60-2] Le domande di accesso ai dati personali e di rettifica devono essere indirizzate all’UFSP.
 
 [^60-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^60-2]: Nuovo testo giusta l’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 60a
 
@@ -829,7 +830,12 @@ L’Ufficio federale di statistica mette ogni anno a disposizione dell’UFSP, p
 
 **Comunicazione di dati personali ad autorità estere**
 
-<sup>1</sup> Ai fini dell’esecuzione della presente legge, l’UFSP e le autorità cantonali competenti possono comunicare alle autorità estere incaricate di compiti corrispondenti, nonché a organizzazioni sopranazionali e internazionali, dati personali, inclusi dati concernenti la salute, se lo Stato interessato, e in particolare la sua legislazione, o l’organizzazione sopranazionale o internazionale garantiscono un’adeguata protezione della personalità della persona interessata.
+<sup>1</sup>
+
+Ai fini dell’esecuzione della presente legge, l’UFSP e le autorità cantonali competenti possono comunicare alle autorità estere incaricate di compiti corrispondenti, nonché a organizzazioni sopranazionali e internazionali, dati personali, inclusi dati concernenti la salute, se:
+
+- a. la legislazione dello Stato in questione oppure l’organizzazione sopranazionale o internazionale garantisce una protezione adeguata dei dati conformemente all’articolo 16 capoverso 1 LPD[^62-1]; o
+- b. i dati personali sono comunicati con le garanzie specifiche di cui all’articolo 16 capoverso 2 lettera c LPD.[^62-2]
 
 <sup>2</sup>
 
@@ -844,12 +850,18 @@ Possono essere comunicati in particolare i dati seguenti:
 
 <sup>3</sup>
 
-In assenza di una legislazione che assicuri un’adeguata protezione, i dati possono essere comunicati soltanto se:
+In deroga al capoverso 1, i dati personali possono essere comunicati all’estero se:[^62-3]
 
-- a. garanzie sufficienti, in particolare contrattuali, assicurano un’adeguata protezione all’estero;
+- a.[^62-4] *...*
 - b. la persona interessata ha dato il suo consenso nel caso specifico;
 - c. nel caso specifico, la comunicazione è indispensabile per tutelare la salute pubblica; o
-- d. nel caso specifico, la comunicazione è indispensabile per proteggere la vita o l’incolumità fisica della persona interessata.
+- d.[^62-5] nel caso specifico, la comunicazione è indispensabile per proteggere la vita o l’integrità fisica della persona interessata e non è possibile ottenere il suo consenso entro un termine ragionevole.
+
+[^62-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62-2]: Nuovo testo giusta l’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-3]: Nuovo testo giusta l’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-4]: Abrogata dall’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-5]: Nuovo testo giusta l’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62a
 

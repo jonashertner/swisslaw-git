@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur la lutte contre les maladies tra
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/fr"
 
 (Loi sur les épidémies, LEp)
 
-du 28 septembre 2012 (État le 1<sup>er</sup> janvier 2023)
+du 28 septembre 2012 (État le 1<sup>er</sup> septembre 2023)
 
 *L’Assemblée fédérale de la Confédération suisse,*
 
@@ -160,7 +160,7 @@ L’OFSP peut ordonner aux cantons de prendre certaines mesures en prévision d�
 
 #### Art. 10
 
-**Echange d’informations**
+**Échange d’informations**
 
 <sup>1</sup> L’OFSP veille à ce que les cantons obtiennent les informations dont ils ont besoin pour prévenir et combattre les maladies transmissibles.
 
@@ -216,7 +216,7 @@ Doivent faire l’objet d’une déclaration les observations relatives aux mala
 
 **Observations transmises à des fins de surveillance épidémiologique ou de recherche**
 
-<sup>1</sup> A des fins de surveillance épidémiologique ou de recherche, l’OFSP peut convenir avec des médecins, des laboratoires, des hôpitaux ou d’autres institutions sanitaires publiques ou privées qu’ils transmettront au service désigné par l’OFSP des observations non soumises à déclaration obligatoire.
+<sup>1</sup> À des fins de surveillance épidémiologique ou de recherche, l’OFSP peut convenir avec des médecins, des laboratoires, des hôpitaux ou d’autres institutions sanitaires publiques ou privées qu’ils transmettront au service désigné par l’OFSP des observations non soumises à déclaration obligatoire.
 
 <sup>2</sup> Les observations sont transmises après avoir été rendues anonymes.
 
@@ -777,9 +777,10 @@ Le système d’information sert les tâches suivantes:
 
 <sup>8</sup> Le Conseil fédéral fixe les conditions requises pour la conservation et l’effacement des données, et il définit les droits d’accès.
 
-<sup>9</sup> Le droit d’obtenir des renseignements sur les données figurant dans le système d’information et le droit de faire rectifier les données sont régis par les art. 5 et 8 de la loi fédérale du 19 juin 1992 sur la protection des données[^60-1]. Les demandes visant à obtenir un droit d’accès à des données personnelles et celles visant à faire rectifier des données inexactes doivent être adressées à l’OFSP.
+<sup>9</sup> Le droit d’obtenir des renseignements sur les données figurant dans le système d’information et le droit de faire rectifier les données sont régies par les art. 25 et 41 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^60-1].[^60-2] Les demandes visant à obtenir un droit d’accès à des données personnelles et celles visant à faire rectifier des données inexactes doivent être adressées à l’OFSP.
 
 [^60-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^60-2]: Nouvelle teneur selon l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 60a
 
@@ -826,7 +827,12 @@ L’Office fédéral de la statistique met chaque année à la disposition de l�
 
 **Communication de données personnelles à des autorités étrangères**
 
-<sup>1</sup> Si cette mesure leur est nécessaire pour exécuter la présente loi, l’OFSP et les autorités cantonales compétentes peuvent communiquer des données personnelles, y compris des données concernant la santé, à des autorités étrangères ou à des organisations supranationales ou internationales qui accomplissent des tâches similaires, pour autant que l’Etat concerné, et notamment sa législation, ou ces organisations assurent aux personnes concernées un niveau adéquat de protection de la personnalité.
+<sup>1</sup>
+
+Si cette mesure leur est nécessaire pour exécuter la présente loi, l’OFSP et les autorités cantonales compétentes peuvent communiquer des données personnelles, y compris des données concernant la santé, à des autorités étrangères ou à des organisations supranationales ou internationales qui accomplissent des tâches similaires si l’une des conditions suivantes est remplie:
+
+- a. la législation de l’État concerné ou ces organisations assurent un niveau de protection adéquat des données au sens de l’art. 16, al. 1, LPD[^62-1];
+- b. les données personnelles sont communiquées au moyen de garanties spécifiques au sens de l’art. 16, al. 2, let. c, LPD.[^62-2]
 
 <sup>2</sup>
 
@@ -841,12 +847,18 @@ Ils peuvent communiquer en particulier les données suivantes:
 
 <sup>3</sup>
 
-En l’absence de législation assurant un niveau de protection adéquat, il n’est possible de communiquer des données personnelles à l’étranger que si l’une au moins des conditions suivantes est remplie:
+En dérogation à l’al. 1, il est possible de communiquer des données personnelles à l’étranger si l’une des conditions suivantes est remplie:[^62-3]
 
-- a. des garanties suffisantes, notamment contractuelles, permettent d’assurer un niveau de protection adéquat à l’étranger;
+- a.[^62-4] …
 - b. la personne concernée a donné en l’espèce son consentement;
 - c. la communication est indispensable en l’espèce à la protection de la santé publique;
-- d. la communication est nécessaire en l’espèce pour protéger la vie ou l’intégrité corporelle de la personne concernée.
+- d.[^62-5] la communication est nécessaire en l’espèce pour protéger la vie ou l’intégrité corporelle de la personne concernée et il n’est pas possible d’obtenir son consentement dans un délai raisonnable.
+
+[^62-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62-2]: Nouvelle teneur selon l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-3]: Nouvelle teneur selon l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-4]: Abrogée par l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-5]: Nouvelle teneur selon l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62a
 
@@ -1013,7 +1025,7 @@ Les cantons exécutent la présente loi dans la mesure où son exécution n’in
 
 <sup>3</sup>
 
-A cet effet, elle peut adopter les dispositions suivantes:
+À cet effet, elle peut adopter les dispositions suivantes:
 
 - a. imposer aux cantons de prendre des mesures qui permettent une exécution uniforme de la loi;
 - b. en cas de risques pour la santé publique, enjoindre aux cantons de mettre en œuvre certaines mesures d’exécution;
@@ -1062,7 +1074,7 @@ Le Conseil fédéral peut conclure des accords internationaux concernant:
 
 #### Art. 81
 
-**Evaluation**
+**Évaluation**
 
 Le Conseil fédéral examine périodiquement l’efficacité, l’adéquation et l’économicité des mesures prises en vertu de la présente loi.
 
@@ -1072,7 +1084,7 @@ Le Conseil fédéral examine périodiquement l’efficacité, l’adéquation et
 
 **Délits**
 
-<sup>1</sup> A moins qu’il n’ait commis une infraction plus grave selon le code pénal[^82-1], est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement,
+<sup>1</sup> À moins qu’il n’ait commis une infraction plus grave selon le code pénal[^82-1], est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement,
 
 - a. omet de prendre les mesures de confinement nécessaires lors de l’utilisation d’agents pathogènes dangereux en milieu confiné (art. 26);
 - b. dissémine à des fins de recherche ou met sur le marché sans autorisation des agents pathogènes (art. 27);

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. September 2012 über die Bekämpfung übertragbarer
 short: EpG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/de"
 
 (Epidemiengesetz, EpG)
 
-vom 28. September 2012 (Stand am 1. Januar 2023)
+vom 28. September 2012 (Stand am 1. September 2023)
 
 *Die Bundesversammlung der Schweizerischen Eidgenossenschaft,*
 
@@ -778,9 +778,10 @@ Das Informationssystem dient:
 
 <sup>8</sup> Der Bundesrat legt die Voraussetzungen für die Aufbewahrung und Löschung der Daten fest und regelt die Zugriffsrechte.
 
-<sup>9</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu erhalten, und das Recht, die Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 des Bundesgesetzes vom 19. Juni 1992[^60-1] über den Datenschutz. Begehren um Auskunft über Personendaten und um Berichtigung sind an das BAG zur richten.
+<sup>9</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu erhalten, und das Recht, die Daten berichtigen zu lassen, richten sich nach den Artikeln 25 und 41 des Datenschutzgesetzes vom 25. September 2020[^60-1] (DSG).[^60-2] Begehren um Auskunft über Personendaten und um Berichtigung sind an das BAG zur richten.
 
 [^60-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^60-2]: Fassung gemäss Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 60a
 
@@ -827,7 +828,12 @@ Das Bundesamt für Statistik stellt dem BAG jährlich für statistische Zwecke d
 
 **Bekanntgabe von Personendaten an ausländische Behörden**
 
-<sup>1</sup> Das BAG und die zuständigen kantonalen Behörden dürfen zum Vollzug dieses Gesetzes den mit entsprechenden Aufgaben betrauten ausländischen Behörden sowie supranationalen und internationalen Organisationen Personendaten, einschliesslich Daten über die Gesundheit, bekannt geben, wenn der betreffende Staat und insbesondere seine Gesetzgebung oder die supranationale oder internationale Organisation einen angemessenen Schutz der Persönlichkeit der betroffenen Person gewährleistet.
+<sup>1</sup>
+
+Das BAG und die zuständigen kantonalen Behörden dürfen zum Vollzug dieses Gesetzes den mit entsprechenden Aufgaben betrauten ausländischen Behörden sowie supranationalen und internationalen Organisationen Personendaten, einschliesslich Daten über die Gesundheit, bekannt geben, wenn:
+
+- a. die Gesetzgebung des betreffenden Staates oder die supranationale oder internationale Organisation einen angemessenen Datenschutz nach Artikel 16 Absatz 1 DSG[^62-1] gewährleistet; oder
+- b. die Personendaten mit spezifischen Garantien nach Artikel 16 Absatz 2 Buchstabe c DSG bekannt gegeben werden.[^62-2]
 
 <sup>2</sup>
 
@@ -842,12 +848,18 @@ Insbesondere dürfen folgende Daten bekannt gegeben werden:
 
 <sup>3</sup>
 
-Fehlt eine Gesetzgebung, die einen angemessenen Schutz gewährleistet, so können die Daten nur bekannt gegeben werden, wenn:
+In Abweichung von Absatz 1 können die Personendaten nur ins Ausland bekannt gegeben werden, wenn:[^62-3]
 
-- a. hinreichende Garantien, insbesondere durch Vertrag, einen angemessenen Schutz im Ausland gewährleisten;
+- a.[^62-4] ...
 - b. die betroffene Person im Einzelfall eingewilligt hat;
 - c. die Bekanntgabe im Einzelfall für die Wahrung der öffentlichen Gesundheit unerlässlich ist; oder
-- d. die Bekanntgabe im Einzelfall erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen.
+- d.[^62-5] die Bekanntgabe im Einzelfall erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen, und es nicht möglich ist, innerhalb einer angemessenen Frist die Einwilligung der betroffenen Person einzuholen.
+
+[^62-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62-2]: Fassung gemäss Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-3]: Fassung gemäss Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-4]: Aufgehoben durch Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-5]: Fassung gemäss Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62a
 

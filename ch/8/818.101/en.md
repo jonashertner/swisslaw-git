@@ -4,11 +4,11 @@ title: "Federal Act of 28 September 2012 on Controlling Communicable Human Disea
 short: EpidA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Epidemics Act, EpidA)
 
-of 28 September 2012 (Status as of 1 January 2023)
+of 28 September 2012 (Status as of 1 September 2023)
 
 *The Federal Assembly of the Swiss Confederation,*
 
@@ -779,9 +779,10 @@ The information system shall be used to:
 
 <sup>8</sup> The Federal Council shall stipulate the requirements for safeguarding and deleting data and regulate the access rights.
 
-<sup>9</sup> The right to receive information on the data in the information system and the right to have the data corrected are governed by Articles 5 and 8 of the Federal Act of 19 June 1992[^60-1] on Data Protection. Requests for information on personal data and for corrections to be made to the data must be sent to the FOPH.
+<sup>9</sup> The right to receive information on the data in the information system and the right to have the data corrected are governed by Articles 25 and 41 of the Data Protection Act of 25 September 2020[^60-1].[^60-2] Requests for information on personal data and for corrections to be made to the data must be sent to the FOPH.
 
 [^60-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^60-2]: Amended by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 60a
 
@@ -828,7 +829,12 @@ The Swiss Federal Statistical Office shall, for statistical purposes, provide th
 
 **Disclosure of personal data to foreign authorities**
 
-<sup>1</sup> In order to implement this Act, the FOPH and the competent cantonal authorities may provide foreign authorities that have corresponding tasks and supranational and international organisations with personal data, including data on health, provided the state concerned and in particular its legislation or the supranational or international organisation guarantees an appropriate level of privacy protection for the person concerned.
+<sup>1</sup>
+
+In order to implement this Act, the FOPH and the competent cantonal authorities may provide foreign authorities that have corresponding tasks and supranational and international organisations with personal data, including data on health, provided the state concerned and in particular its legislation or the supranational or international organisation guarantees an appropriate level of privacy protection for the person concerned:
+
+- a. the legislation of the state concerned or the supranational or international organisation guarantees an appropriate level of data protection in accordance with Article 16 paragraph 1 FADP[^62-1]; or
+- b. the personal data are disclosed with specific guarantees in accordance with Article 16 paragraph 2 letter c FADP.[^62-2]
 
 <sup>2</sup>
 
@@ -843,12 +849,18 @@ In particular the following data may be disclosed:
 
 <sup>3</sup>
 
-In the absence of legislation that guarantees appropriate protection, the data may only be disclosed if:
+In derogation from paragraph 1, personal data may only be disclosed abroad if:[^62-3]
 
-- a. adequate guarantees of an appropriate level of protection abroad are provided, for example in a contract;
+- a.[^62-4] ...
 - b. the person concerned has consented in the given case;
 - c. disclosure in the given case is essential in order to safeguard public health; or
-- d. disclosure in the given case is required to protect the life or physical integrity of the person concerned.
+- d.[^62-5] disclosure in the given case is required to protect the life or physical integrity of the person concerned and it is not possible to obtain consent from the person concerned within a reasonable time.
+
+[^62-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62-2]: Amended by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-3]: Amended by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-4]: Repealed by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-5]: Amended by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62a
 
