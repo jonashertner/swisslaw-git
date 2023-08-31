@@ -4,13 +4,13 @@ number: "351"
 title: Verordnung über die Luzerner Polizei
 short: PolV
 language: de
-version: 2023-07-01
-valid_until: 2023-08-31
+version: 2023-09-01
+valid_until: 2024-12-31
 version_adopted: 2023-04-25
 adopted: 2004-04-06
 in_force: 2004-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/351"
-pdf: "https://srl.lu.ch/api/de/versions/4072/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4125/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4072/pdf_file"
 
 (PolV)
 
-vom 06.04.2004 (Stand 01.07.2023)
+vom 06.04.2004 (Stand 01.09.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -288,9 +288,9 @@ beschliesst:
   - 5\. Ruswil: Ruswil, Buttisholz, Grosswangen
   - 6\. Wolhusen: Wolhusen, Werthenstein
 - h. Polizeiregion Entlebuch mit folgenden Postenkreisen und zugeteilten Gemeinden:
-  - 1\. Schüpfheim: Schüpfheim
-  - 2\. Entlebuch: Entlebuch, Doppleschwand, Hasle, Romoos
-  - 3\. Escholzmatt: Escholzmatt-Marbach
+  - 1\. Schüpfheim: Schüpfheim, Entlebuch, Escholzmatt-Marbach, Doppleschwand, Hasle, Romoos
+  - 2\. …
+  - 3\. …
   - 4\. Sörenberg: Flühli
 
 ## 4 Dienstgrade
