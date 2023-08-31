@@ -4,22 +4,23 @@ title: "Loi fédérale du 28 juin 1967 sur le Contrôle fédéral des finances (
 short: LCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1967-06-28
 in_force: 1968-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur le Contrôle fédéral des finances
+# Loi fédérale sur le Contrôle fédéral des finances\*
 
-(Loi sur le Contrôle des finances, LCF)**[^t-1]**
+(Loi sur le Contrôle des finances, LCF)[^t-2][^t-1]
 
-du 28 juin 1967 (Etat le 1<sup>er</sup> janvier 2021)
+du 28 juin 1967 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-2]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,11 +28,11 @@ vu l’art. 173, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le messag
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6897](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
 [^ingress-3]: [FF 1966 II 724](https://fedlex.data.admin.ch/eli/fga/1966/2_708_724_565)
 
-## I. Position et organisation du Contrôle fédéral des finances****
+## I. Position et organisation du Contrôle fédéral des finances
 
 [^lvlI-1]
 
@@ -131,7 +132,7 @@ Le Contrôle fédéral des finances a notamment pour tâche:
 [^6-1]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020 (réorganisation dans le domaine de l’informatique), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6077](https://fedlex.data.admin.ch/eli/oc/2020/1007)).
 [^6-3]: Introduite par le ch. I 1 de la LF du 22 juin 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [FF 2007 597](https://fedlex.data.admin.ch/eli/fga/2007/88)).
-[^6-4]: [RS 613.2](https://fedlex.data.admin.ch/eli/cc/2005/225)
+[^6-4]: [RS 613.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7785)
 [^6-5]: Introduite par l’art. 111 ch. 2 de la loi du 12 juin 2009 sur la TVA ([RO 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [FF 2008 6277](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Abrogée par l’annexe ch. 4 de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 #### Art. 7
@@ -189,7 +190,7 @@ Sont soumis à la surveillance financière du Contrôle fédéral des finances, 
 <sup>3</sup> Les unités administratives de la Confédération accordent au Contrôle fédéral des finances un droit d’accès par procédure d’appel aux données y inclus des données personnelles nécessaires à l’exercice de la surveillance financière. Cet accès peut au besoin être étendu aux données sensibles. Le Contrôle fédéral des finances ne peut enregistrer les données personnelles dont il a ainsi eu connaissance que jusqu’à l’achèvement de la procédure de révision. Les accès aux différents systèmes et leurs finalités doivent être consignés dans un journal.[^10-2]
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
-[^10-2]: Introduit par le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
+[^10-2]: Introduit par le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). La mod. selon l’annexe 1 ch. II 47 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023, ne concerne que les textes allemand et italien ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
@@ -275,7 +276,7 @@ Les services de révision interne soumettent chaque année un rapport à la dire
 
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 1999, en vigueur depuis le 1<sup>er</sup> sept. 1999 ([RO 1999 1806](https://fedlex.data.admin.ch/eli/oc/1999/291); FF **1998** 4101).
 [^14-2]: Nouvelle teneur de la phrase introduite par le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6897](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
-[^14-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^14-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^14-4]: Introduit par le ch. I 3 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janvier 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^14-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6897](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
 [^14-6]: Introduit par le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6897](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
@@ -368,5 +369,5 @@ Toutes prescriptions assurant l’exécution de la présente loi feront l’obje
 
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1968[^22-2]
 
-[^22-1]: [RS **6** 21]
+[^22-1]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)21]
 [^22-2]: ACF du 23 oct. 1967

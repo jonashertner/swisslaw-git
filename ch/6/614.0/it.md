@@ -4,20 +4,20 @@ title: "Legge federale del 28 giugno 1967 sul controllo federale delle finanze (
 short: LCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1967-06-28
 in_force: 1968-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sul controllo federale delle finanze
 
-(Legge sul Controllo delle finanze, LCF)**[^t-1]**
+(Legge sul Controllo delle finanze, LCF)[^t-1]
 
-del 28 giugno 1967 (Stato 1° gennaio 2021)
+del 28 giugno 1967 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994, in vigore dal 1° mar. 1995 ([RU 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 645](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). Per la stessa disp. i titoli marginali sono trasformati in titoli centrali.
 
@@ -27,7 +27,7 @@ visto l’articolo 173 capoverso 2 della Costituzione federale[^ingress-1];[^ing
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6385](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
 [^ingress-3]: [FF 1966 II 565](https://fedlex.data.admin.ch/eli/fga/1966/2_708_724_565)
 
@@ -50,7 +50,7 @@ Il Controllo federale delle finanze è l’organo superiore di vigilanza finanzi
 
 <sup>3</sup> Dal profilo amministrativo il Controllo federale delle finanze è subordinato al Dipartimento federale delle finanze.[^1-6]
 
-[^1-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^1-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^1-2]: Nuovo testo giusta il n. I della LF del 19 mar. 1999, in vigore dal 1° set. 1999 ([RU 1999 1806](https://fedlex.data.admin.ch/eli/oc/1999/291); FF **1998** 3691).
 [^1-3]: Nuovo testo del per. giusta il n. I della LF del 7 ott. 1994, in vigore dal 1° mar. 1995 ([RU 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 645](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 [^1-4]: Per. introdotto dal n. I della LF del 19 mar. 1999 ([RU 1999 1806](https://fedlex.data.admin.ch/eli/oc/1999/291); FF **1998** 3691). Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6385](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
@@ -128,7 +128,7 @@ Il Controllo federale delle finanze ha segnatamente i compiti seguenti:
 [^6-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994, in vigore dal 1° mar. 1995 ([RU 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 645](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020 (Riorganizzazione nel settore dell’informatica), in vigore dal 1° gen. 2021 ([RU 2020 6077](https://fedlex.data.admin.ch/eli/oc/2020/1007)).
 [^6-3]: Introdotta dal n. I 1 della LF del 22 giu. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [FF 2007 607](https://fedlex.data.admin.ch/eli/fga/2007/88)).
-[^6-4]: [RS 613.2](https://fedlex.data.admin.ch/eli/cc/2005/225)
+[^6-4]: [RS 613.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7785)
 [^6-5]: Introdotta dall’art. 111 n. 2 della LF del 12 giu. 2009 sull’IVA ([RU 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [FF 2008 6033](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Abrogata dall’all. n. 4 della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 7
@@ -184,10 +184,10 @@ Fatti salvi gli ordinamenti particolari di cui all’articolo 19 e i disciplinam
 
 <sup>2</sup> Gli enti sottoposti alla vigilanza del Controllo federale delle finanze devono inoltre assisterlo nell’esecuzione dei suoi compiti.
 
-<sup>3</sup> Le unità amministrative della Confederazione accordano al Controllo federale delle finanze il diritto di richiamare dalle relative raccolte i dati, compresi i dati personali, necessari per lo svolgimento della vigilanza finanziaria. All’occorrenza il diritto d’accesso comprende pure dati personali degni di particolare protezione. Il Controllo federale delle finanze può memorizzare i dati personali richiamati solo fino al termine della procedura di revisione. Le richieste d’accesso alle diverse raccolte di dati come pure i relativi scopi devono essere iscritti in un registro.[^10-2]
+<sup>3</sup> Le unità amministrative della Confederazione accordano al Controllo federale delle finanze il diritto di accedere mediante procedura di richiamo ai dati necessari per lo svolgimento della vigilanza finanziaria. All’occorrenza il diritto d’accesso comprende pure dati personali degni di particolare protezione. Il Controllo federale delle finanze può memorizzare i dati personali richiamati solo fino al termine della procedura di revisione. Le richieste d’accesso ai diversi sistemi come pure i relativi scopi devono essere iscritti in un registro.[^10-2]
 
 [^10-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994, in vigore dal 1° mar. 1995 ([RU 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 645](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
-[^10-2]: Introdotto dal n. I della LF del 7 ott. 1994, in vigore dal 1° mar. 1995 ([RU 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 645](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
+[^10-2]: Introdotto dal n. I della LF del 7 ott. 1994 ([RU 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 645](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). Nuovo testo giusta l’all. 1 n. II 47 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
@@ -273,7 +273,7 @@ I servizi di revisione interna presentano ogni anno alla direzione del Dipartime
 
 [^14-1]: Nuovo testo giusta il n. I della LF del 19 mar. 1999, in vigore dal 1° set. 1999 ([RU 1999 1806](https://fedlex.data.admin.ch/eli/oc/1999/291); FF **1998** 3691).
 [^14-2]: Nuovo testo del per. giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6385](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
-[^14-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^14-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^14-4]: Introdotto dal n. I 3 della LF del 17 dic. 2010 sulla partecipazione dell’Assemblea federale alla determinazione dell’orientamento strategico delle unità rese autonome, in vigore dal 1° gen. 2012 ([RU 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 2933](https://fedlex.data.admin.ch/eli/fga/2010/600)[2969](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^14-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6385](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
 [^14-6]: Introdotto dal n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [FF 2016 6385](https://fedlex.data.admin.ch/eli/fga/2016/1534)).

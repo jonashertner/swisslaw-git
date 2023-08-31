@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 28. Juni 1967 über die Eidgenössische Finanzkontrolle
 short: FKG
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1967-06-28
 in_force: 1968-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Eidgenössische Finanzkontrolle
 
-(Finanzkontrollgesetz, FKG)**[^t-1]**
+(Finanzkontrollgesetz, FKG)[^t-1]
 
-Vom 28. Juni 1967 (Stand am 1. Januar 2021)
+Vom 28. Juni 1967 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994, in Kraft seit 1. März 1995 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2]
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [BBl 2016 7117](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
 [^ingress-3]: [BBl 1966 II 708](https://fedlex.data.admin.ch/eli/fga/1966/2_708_724_565)
 
@@ -124,12 +124,12 @@ Die Eidgenössische Finanzkontrolle hat insbesondere folgende Aufgaben:
 - h.[^6-2] Sie prüft, ob EDV-Anwendungen in Bereichen des Finanzgebarens die erforderliche Sicherheit und Funktionalität aufweisen, insbesondere ob die von der Bundeskanzlei (BK) oder vom Bereich digitale Transformation und IKT-Lenkung der BK (Bereich DTI der BK) erlassenen Weisungen eingehalten werden.
 - i. Sie nimmt Kontrollmandate bei internationalen Organisationen wahr.
 - j.[^6-3] Sie prüft die Berechnungen des Ressourcen- und Lastenausgleichs nach dem Bundesgesetz vom 3. Oktober 2003[^6-4] über den Finanz- und Lastenausgleich und die für diese Berechnungen von den Kantonen und den beteiligten Bundesstellen gelieferten Daten.
-- k.[^6-5] ...
+- k.[^6-5] …
 
 [^6-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994, in Kraft seit 1. März 1995 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020 (Reorganisation im Informatikbereich), in Kraft seit 1. Jan. 2021 ([AS 2020 6077](https://fedlex.data.admin.ch/eli/oc/2020/1007)).
 [^6-3]: Eingefügt durch Ziff. I 1 des BG vom 22. Juni 2007 über den Übergang zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [BBl 2007 645](https://fedlex.data.admin.ch/eli/fga/2007/88)).
-[^6-4]: [SR 613.2](https://fedlex.data.admin.ch/eli/cc/2005/225)
+[^6-4]: [SR 613.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7785)
 [^6-5]: Eingefügt durch Art. 111 Ziff. 2 des Mehrwertsteuergesetzes vom 12. Juni 2009 ([AS 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [BBl 2008 6885](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Aufgehoben durch Anhang Ziff. 4 des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 7
@@ -154,7 +154,7 @@ Unter Vorbehalt der Sonderregelungen nach Artikel 19 sowie der spezialgesetzlich
 - d. Körperschaften, Anstalten und Organisationen jeglicher Rechtsform, denen durch den Bund die Erfüllung öffentlicher Aufgaben übertragen wurde;
 - e. Unternehmungen, an deren Stamm-, Grund- oder Aktienkapital der Bund mit mehr als 50 Prozent beteiligt ist.[^8-1]
 
-<sup>1bis</sup> ...[^8-2]
+<sup>1bis</sup> …[^8-2]
 
 <sup>2</sup> Die eidgenössischen Gerichte, die Eidgenössische Finanzmarktaufsicht, die Eidgenössische Revisionsaufsichtsbehörde, die Aufsichtsbehörde über die Bundesanwaltschaft und die Bundesanwaltschaft unterstehen der Finanzaufsicht durch die Eidgenössische Finanzkontrolle, soweit sie der Ausübung der Oberaufsicht durch die Bundesversammlung dient.[^8-3]
 
@@ -184,10 +184,10 @@ Unter Vorbehalt der Sonderregelungen nach Artikel 19 sowie der spezialgesetzlich
 
 <sup>2</sup> Wer der Aufsicht der Eidgenössischen Finanzkontrolle unterstellt ist, hat ihr überdies jede Unterstützung bei der Durchführung ihrer Aufgabe zu gewähren.
 
-<sup>3</sup> Die Verwaltungseinheiten des Bundes räumen der Eidgenössischen Finanzkontrolle das Recht ein, die für die Wahrnehmung der Finanzaufsicht erforderlichen Daten einschliesslich Personendaten aus den entsprechenden Datensammlungen abzurufen. Bei Bedarf erstreckt sich das Zugriffsrecht auch auf besonders schützenswerte Personendaten. Die Eidgenössische Finanzkontrolle darf die ihr derart zur Kenntnis gebrachten Personendaten nur bis zum Abschluss des Revisionsverfahrens speichern. Die Zugriffe auf die verschiedenen Datensammlungen und die damit verfolgten Zwecke müssen protokolliert werden.[^10-2]
+<sup>3</sup> Die Verwaltungseinheiten des Bundes räumen der Eidgenössischen Finanzkontrolle das Recht ein, im Abrufverfahren auf die für die Wahrnehmung der Finanzaufsicht erforderlichen Daten zuzugreifen. Bei Bedarf erstreckt sich das Zugriffsrecht auch auf besonders schützenswerte Personendaten. Die Eidgenössische Finanzkontrolle darf die ihr derart zur Kenntnis gebrachten Personendaten nur bis zum Abschluss des Revisionsverfahrens speichern. Die Zugriffe auf die verschiedenen Systeme und die damit verfolgten Zwecke müssen protokolliert werden.[^10-2]
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994, in Kraft seit 1. März 1995 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
-[^10-2]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994, in Kraft seit 1. März 1995 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
+[^10-2]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). Fassung gemäss Anhang 1 Ziff. II 47 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
@@ -227,7 +227,7 @@ Die Stellen für interne Revision legen der Departements- oder Amtsleitung und d
 
 <sup>5</sup> Die geprüfte Verwaltungseinheit kann den Entscheid der Eidgenössischen Finanzkontrolle beim Bundesrat anfechten.[^12-4]
 
-<sup>6</sup> ...[^12-5]
+<sup>6</sup> …[^12-5]
 
 [^12-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994, in Kraft seit 1. März 1995 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 [^12-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [BBl 2016 7117](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
@@ -239,7 +239,7 @@ Die Stellen für interne Revision legen der Departements- oder Amtsleitung und d
 
 **Zusammenarbeit mit andern Kontrollstellen**[^13-1]
 
-<sup>1</sup> Die Eidgenössische Finanzkontrolle tauscht ...[^13-2] mit der Parlamentarischen Verwaltungskontrollstelle die Revisions- beziehungsweise Prüfungsprogramme aus und koordiniert ihre Tätigkeit mit dieser Stelle im direkten Verkehr.
+<sup>1</sup> Die Eidgenössische Finanzkontrolle tauscht …[^13-2] mit der Parlamentarischen Verwaltungskontrollstelle die Revisions- beziehungsweise Prüfungsprogramme aus und koordiniert ihre Tätigkeit mit dieser Stelle im direkten Verkehr.
 
 <sup>2</sup> Stellt sie Mängel in der Organisation, Verwaltungsführung oder Aufgabenerfüllung fest, so teilt sie dies den betroffenen Querschnittsämtern und -organen mit. Sie bringt ihre Feststellungen je nach Problembereich insbesondere der Eidgenössischen Finanzverwaltung, dem Eidgenössischen Personalamt, dem Bundesamt für Informatik und Telekommunikation, dem Nationalen Zentrum für Cybersicherheit, dem Bundesamt für Bauten und Logistik, der BK, dem Bereich DTI der BK oder dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten zur Kenntnis.[^13-3]
 
@@ -259,7 +259,7 @@ Die Stellen für interne Revision legen der Departements- oder Amtsleitung und d
 
 <sup>1</sup> Die Eidgenössische Finanzkontrolle verfasst über jede von ihr abgeschlossene Prüfung einen Bericht. Diesen und sämtliche dazugehörenden Akten einschliesslich der Stellungnahme der geprüften Stelle sowie einer Zusammenfassung stellt sie der Finanzdelegation der eidgenössischen Räte zu. Gleichzeitig mit der Berichterstattung an die Finanzdelegation bringt sie den Geschäftsprüfungskommissionen beziehungsweise der Geschäftsprüfungsdelegation die von ihr festgestellten wesentlichen Mängel in der Geschäftsführung zur Kenntnis und informiert darüber den zuständigen Departementsvorsteher oder die zuständige Departementsvorsteherin.[^14-2] Über länger dauernde Revisionen verfasst sie Zwischenberichte.
 
-<sup>1bis</sup> Die Eidgenössiche Finanzkontrolle stellt den Prüfbericht und die Zusammenfassung betreffend die verselbstständigten Einheiten nach Artikel 8 Absatz 5 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^14-3], für welche strategische Ziele festgelegt worden sind, auch dem Bundesrat zu.[^14-4]
+<sup>1bis</sup> Die Eidgenössische Finanzkontrolle stellt den Prüfbericht und die Zusammenfassung betreffend die verselbstständigten Einheiten nach Artikel 8 Absatz 5 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^14-3], für welche strategische Ziele festgelegt worden sind, auch dem Bundesrat zu.[^14-4]
 
 <sup>2</sup> Nachdem die Finanzdelegation einen Prüfbericht der Eidgenössischen Finanzkontrolle behandelt hat, kann diese ihren Bericht zusammen mit der Stellungnahme der geprüften Stelle veröffentlichen.[^14-5]
 
@@ -273,7 +273,7 @@ Die Stellen für interne Revision legen der Departements- oder Amtsleitung und d
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 19. März 1999, in Kraft seit 1. Sept. 1999 ([AS 1999 1806](https://fedlex.data.admin.ch/eli/oc/1999/291); BBl **1998** 4703).
 [^14-2]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [BBl 2016 7117](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
-[^14-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^14-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^14-4]: Eingefügt durch Ziff. I 3 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^14-5]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [BBl 2016 7117](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
 [^14-6]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4883](https://fedlex.data.admin.ch/eli/oc/2017/533); [BBl 2016 7117](https://fedlex.data.admin.ch/eli/fga/2016/1534)).
@@ -317,7 +317,7 @@ Die Stellen für interne Revision legen der Departements- oder Amtsleitung und d
 
 <sup>2</sup> Stellt die Eidgenössische Finanzkontrolle im Sinne von Artikel 16 Absatz 2 Mängel fest, so gibt sie davon zugleich der Kantonsregierung und der in der Sache zuständigen Dienststelle des Bundes Kenntnis und stellt die erforderlichen Anträge.
 
-## V. ...
+## V. …
 
 #### Art. 18
 
