@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur la géoinformation (OGéo)
 short: OGéo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230101/fr"
 
 (OGéo)
 
-du 21 mai 2008 (État le 1<sup>er</sup> janvier 2023)
+du 21 mai 2008 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -72,6 +72,14 @@ Dans la présente ordonnance, on entend par:
 <sup>1</sup> L’Office fédéral de topographie spécifie les normes applicables aux géodonnées de base et aux géométadonnées, en collaboration avec les autres services spécialisés compétents de la Confédération. Il tient compte à cet effet de l’état de la technique et de la normalisation internationale.
 
 <sup>2</sup> Les géodonnées de base et les géométadonnées ne peuvent être soumises exclusivement à d’autres exigences de qualité que si une ordonnance du Conseil fédéral le prévoit.
+
+#### Art. 3a
+
+**Registre des activités de traitement**[^3a-1]
+
+Lorsque les jeux de géodonnées de base, visés à l’annexe 1, constituent des données personnelles au sens de la législation sur la protection des données, l’obligation de tenir un registre des activités de traitement ne s’applique pas au traitement de ces données.
+
+[^3a-1]: Introduit par l’annexe 2 ch. II 62 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 2 Systèmes et cadres de référence géodésiques
 
@@ -762,7 +770,7 @@ Annexe 1[^t-1]
 
 ## Catalogue des géodonnées de base relevant du droit fédéral
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 mars 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Mise à jour par le ch. II de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422), [4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), l’art. 30 ch. 2 de l’O du 23 oct. 2013 sur les systèmes d’information dans le domaine de l’agriculture ([RO 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), l’annexe ch. II 2 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), le ch. III de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), l’annexe 6 ch. 1 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. II 1 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), l’annexe 2 ch. II 2 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. II de l’O du 15 nov. 2017 ([RO 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), l’annexe 8 ch. 2 de l’O du 31 oct. 2018 sur la santé des végétaux ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), le ch. I des O du 3 avril 2019 ([RO 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)) et du 16 oct. 2019 ([RO 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), le ch. III de l’O du 17 oct. 2018 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611); [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), le ch. I de l’O du 25 nov. 2020 ([RO 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), l’annexe 2 ch. 1 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), le ch. I de l’O du 22 juin 2022, ([RO 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), le ch. II de l’O du 31 août 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), l’annexe 9 ch. 1 de l’O du 2 nov. 2022 sur les améliorations structurelles ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)) et le ch. II de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 mars 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Mise à jour par le ch. II de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422), [4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), l’art. 30 ch. 2 de l’O du 23 oct. 2013 sur les systèmes d’information dans le domaine de l’agriculture ([RO 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), l’annexe ch. II 2 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), le ch. III de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), l’annexe 6 ch. 1 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. II 1 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), l’annexe 2 ch. II 2 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. II de l’O du 15 nov. 2017 ([RO 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), l’annexe 8 ch. 2 de l’O du 31 oct. 2018 sur la santé des végétaux ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), le ch. I des O du 3 avril 2019 ([RO 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)) et du 16 oct. 2019 ([RO 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), le ch. III de l’O du 17 oct. 2018 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611); [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), le ch. I de l’O du 25 nov. 2020 ([RO 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), l’annexe 2 ch. 1 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), le ch. I de l’O du 22 juin 2022, ([RO 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), le ch. II de l’O du 31 août 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), l’annexe 9 ch. 1 de l’O du 2 nov. 2022 sur les améliorations structurelles ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)) et ch. II de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
 
 <table>
 <tr><th>Désignation</th><th>Base légale</th><th>Service compétent (RS *510.62*, art. 8, al. 1) [Service spécialisé de la Confédération]</th><th>Géodonnées de référence</th><th>Cadastre RDPPF</th><th>Niveau d'autorisation d'accès</th><th>Service de télé-chargement</th><th>Identificateur</th></tr>

@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla geoinformazione (OGI)
 short: OGI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230101/it"
 
 (OGI)
 
-del 21 maggio 2008 (Stato 1° gennaio 2023)
+del 21 maggio 2008 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -76,6 +76,14 @@ Ai sensi della presente ordinanza si intende per:
 <sup>1</sup> L’Ufficio federale di topografia stabilisce, in collaborazione con gli ulteriori servizi specializzati competenti della Confederazione, le norme vincolanti per i geodati di base e i geometadati. A tal proposito, considera lo stato della tecnica e le normative a livello internazionale.
 
 <sup>2</sup> Altri requisiti in materia di qualità possono essere stabiliti esclusivamente per i geodati di base e i geometadati unicamente se lo prevede un’ordinanza del Consiglio federale.
+
+#### Art. 3a
+
+**Elenco delle attività di trattamento**[^3a-1]
+
+Se le raccolte di geodati di base secondo l’Allegato 1 costituiscono dati personali ai sensi della legislazione sulla protezione dei dati, il trattamento di tali dati non è assoggettato all’obbligo di tenere un elenco delle attività di trattamento.
+
+[^3a-1]: Introdotto dall’all. 2 n. II 62 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 2: Sistemi di riferimento geodetici e quadri di riferimento geodetici
 
@@ -764,7 +772,7 @@ Allegato 1[^t-1]
 
 ## Catalogo dei geodati di base del diritto federale
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dal n. I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), dal n. I dell’O del 22 giu. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), dal n. II dell’O del 31 ago. 2022, ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), dall’all. 9 n. 1 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)) e dal n. II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dal n. I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), dal n. I dell’O del 22 giu. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), dal n. II dell’O del 31 ago. 2022, ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)) e dall’all. 9 n. 1 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)) e dal n. II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
 
 <table>
 <tr><th>Denominazione</th><th>Base giuridica</th><th>Servizio competente (RS *510.62* art. 8 cpv. 1) [servizio specializzato della Confederazione]</th><th>Geodati di riferimento</th><th>Catasto delle restrizioni di diritto pubblico della proprietà</th><th>Livello di autorizzazione all'accesso</th><th>Servizio di telecaricamento</th><th>Identificatore</th></tr>

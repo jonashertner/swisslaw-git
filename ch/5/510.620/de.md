@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über Geoinformation (Geoinformationsverordn
 short: GeoIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230101/de"
 
 (Geoinformationsverordnung, GeoIV)
 
-vom 21. Mai 2008 (Stand am 1. Januar 2023)
+vom 21. Mai 2008 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -75,6 +75,14 @@ In dieser Verordnung bedeuten:
 <sup>1</sup> Das Bundesamt für Landestopografie bezeichnet unter Mitwirkung der übrigen zuständigen Fachstellen des Bundes die für Geobasisdaten und Geometadaten verbindlichen Normen. Es berücksichtigt dabei den Stand der Technik und die Normierung auf internationaler Ebene.
 
 <sup>2</sup> Andere Qualitätsanforderungen dürfen nur dann ausschliesslich an Geobasisdaten und Geometadaten gestellt werden, wenn eine Verordnung des Bundesrates dies vorsieht.
+
+#### Art. 3a
+
+**Verzeichnis der Bearbeitungstätigkeiten**[^3a-1]
+
+Soweit Geobasisdatensätze nach Anhang 1 Personendaten im Sinne der Datenschutzgesetzgebung darstellen, entfällt für die Bearbeitung dieser Daten die Pflicht, ein Verzeichnis der Bearbeitungstätigkeiten zu führen.
+
+[^3a-1]: Eingefügt durch Anhang 2 Ziff. II 62 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 2. Abschnitt: Geodätische Bezugssysteme und Bezugsrahmen
 
@@ -767,7 +775,7 @@ Anhang 1[^t-1]
 
 ## Katalog der Geobasisdaten des Bundesrechts
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 28. März 2012 ([AS 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Bereinigt gemäss Ziff. II 2 der V vom 27. Juni 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), Art. 30 Ziff. 2 der V vom 23. Okt. 2013 über Informationssysteme im Bereich der Landwirtschaft ([AS 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), Anhang Ziff. II 2 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konfikten, bei Katastrophen und in Notlagen ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), Ziff. III der V vom 28. Okt. 2015 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), Anhang 6 Ziff. 1 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Anhang Ziffer II 1 der V vom 17. Aug. 2016 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), Anhang 2 Ziff. II 3 der V vom 9. Juni über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), Anhang 8 Ziff. 2 der Pflanzengesundheitsverordnung vom 31. Okt. 2018 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), Ziff. I der V vom 3. April 2019 ([AS 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), Ziff. III der V vom 17. Okt. 2018 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), Anhang 2 Ziff. 1 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), Ziff. I der V vom 22. Juni 2022 ([AS 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), Ziff. II der V vom 31. Aug. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), Anhang 9 Ziff. 1 der Strukturverbesserungsverordnung vom 2. Nov. 2022 ([AS 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)) und Ziff. II der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 28. März 2012 ([AS 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Bereinigt gemäss Ziff. II 2 der V vom 27. Juni 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), Art. 30 Ziff. 2 der V vom 23. Okt. 2013 über Informationssysteme im Bereich der Landwirtschaft ([AS 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), Anhang Ziff. II 2 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konfikten, bei Katastrophen und in Notlagen ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), Ziff. III der V vom 28. Okt. 2015 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), Anhang 6 Ziff. 1 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Anhang Ziffer II 1 der V vom 17. Aug. 2016 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), Anhang 2 Ziff. II 3 der V vom 9. Juni über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), Anhang 8 Ziff. 2 der Pflanzengesundheitsverordnung vom 31. Okt. 2018 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), Ziff. I der V vom 3. April 2019 ([AS 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), Ziff. III der V vom 17. Okt. 2018 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), Anhang 2 Ziff. 1 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), Ziff. I der V vom 22. Juni 2022 ([AS 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), Ziff. II der V vom 31. Aug. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), Anhang 9 Ziff. 1 der Strukturverbesserungsverordnung vom 2. Nov. 2022 ([AS 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)) und Anhang 2 Ziff. II 62 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 <table>
 <tr><th>Bezeichnung</th><th colspan="2">Rechtsgrundlage</th><th colspan="2">Zuständige Stelle (SR *510.62* Art. 8 Abs. 1) [Fachstelle des Bundes]</th><th colspan="2">Georeferenzdaten</th><th>ÖREB Kataster</th><th colspan="2">Zugangsberechtigungsstufe</th><th>Download-Dienst</th><th>Identifikator</th></tr>
@@ -871,7 +879,7 @@ Anhang 1[^t-1]
 <tr><td>Sendernetzpläne Radio und Fernsehen</td><td colspan="2">SR *784.10*, Art. 13, 24 f.</td><td colspan="2">BAKOM</td><td colspan="2"></td><td></td><td colspan="2">A</td><td></td><td>109</td></tr>
 <tr><td>Standorte Funkanlagen (Betriebsdaten)</td><td colspan="2">SR *784.10* Art. 13*a* SR *784.102.1* Art. 13, 17</td><td colspan="2">BAKOM</td><td colspan="2"></td><td></td><td colspan="2">B</td><td></td><td>110</td></tr>
 <tr><td>Antennenkataster der Anlagen der öffentlichen Mobilfunknetze</td><td colspan="2">SR *784.10* Art. 24 f.</td><td colspan="2">BAKOM</td><td colspan="2"></td><td></td><td colspan="2">A</td><td></td><td>111</td></tr>
-<tr><td>Gesamtschweizerische Datensammlung zur Störfallverordnung</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td colspan="2">BAFU</td><td colspan="2"></td><td></td><td colspan="2">B</td><td></td><td>112</td></tr>
+<tr><td>Gesamtschweizerische Daten zur Störfallverordnung</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td colspan="2">BAFU</td><td colspan="2"></td><td></td><td colspan="2">B</td><td></td><td>112</td></tr>
 <tr><td>Risikokataster (Erhebungen der Kantone)</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 13, 16, 17</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td></td><td colspan="2">B</td><td></td><td>113</td></tr>
 <tr><td>Abfallanlagen</td><td colspan="2">SR *814.01* Art. 31 SR *814.600* Art. 4, 6</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>114</td></tr>
 <tr><td>Kataster der belasteten Standorte</td><td colspan="2">SR *814.01* Art. 32*c* SR *814.680* Art. 5</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td>X</td><td colspan="2">A</td><td>X</td><td>116</td></tr>
@@ -953,12 +961,12 @@ Anhang 1[^t-1]
 <tr><td colspan="2">Hindernisbegrenzungsflächen-Kataster für Militärflugplätze</td><td colspan="2">SR *510.10* Art. 126</td><td>VBS</td><td colspan="2"></td><td colspan="2"></td><td>A</td><td></td><td>201</td></tr>
 <tr><td colspan="2">Wohnungsinventar und Zweitwohnungsanteil</td><td colspan="2">SR *702.1* Art. 2 Abs. 4</td><td>ARE</td><td colspan="2"></td><td colspan="2"></td><td>A</td><td>X</td><td>202</td></tr>
 <tr><td colspan="2">Richtfunkverbindungen</td><td colspan="2">SR *784.10* Art. 24*f*, Art 25 Abs. 1</td><td>BAKOM</td><td colspan="2"></td><td colspan="2"></td><td>A</td><td></td><td>203</td></tr>
-<tr><td colspan="2">Datensammlung zur Störfallverordnung im Bereich Nationalstrassen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>ASTRA [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>204</td></tr>
-<tr><td colspan="2">Datensammlung zur Störfallverordnung im Bereich Eisenbahnanlagen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>BAV [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>205</td></tr>
-<tr><td colspan="2">Datensammlung zur Störfallverordnung im Bereich Rohrleitungsanlagen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>BFE [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>206</td></tr>
-<tr><td colspan="2">Datensammlung zur Störfallverordnung im Bereich militärische Anlagen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>VBS [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>207</td></tr>
-<tr><td colspan="2">Datensammlung zur Störfallverordnung im Bereich geschützte militärische Anlagen im Sinne des Bundesgesetzes über den Schutz militärischer Anlagen</td><td colspan="2">SR *510.518* Art. 1 SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>VBS [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>C</td><td></td><td>208</td></tr>
-<tr><td colspan="2">Datensammlung zur Störfallverordnung im Bereich ziviler Flugplätze</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>BAZL [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>209</td></tr>
+<tr><td colspan="2">Daten zur Störfallverordnung im Bereich Nationalstrassen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>ASTRA [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>204</td></tr>
+<tr><td colspan="2">Daten zur Störfallverordnung im Bereich Eisenbahnanlagen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>BAV [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>205</td></tr>
+<tr><td colspan="2">Daten zur Störfallverordnung im Bereich Rohrleitungsanlagen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>BFE [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>206</td></tr>
+<tr><td colspan="2">Daten zur Störfallverordnung im Bereich militärische Anlagen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>VBS [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>207</td></tr>
+<tr><td colspan="2">Daten zur Störfallverordnung im Bereich geschützte militärische Anlagen im Sinne des Bundesgesetzes über den Schutz militärischer Anlagen</td><td colspan="2">SR *510.518* Art. 1 SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>VBS [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>C</td><td></td><td>208</td></tr>
+<tr><td colspan="2">Daten zur Störfallverordnung im Bereich ziviler Flugplätze</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 16, 17</td><td>BAZL [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>B</td><td></td><td>209</td></tr>
 <tr><td colspan="2">Lage und angrenzende Bereiche gemäss Störfallverordnung (Erhebungen der Kantone)</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 13</td><td>Kantone [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>A</td><td></td><td>210</td></tr>
 <tr><td colspan="2">Lage und angrenzende Bereiche gemäss Störfallverordnung im Bereich Nationalstrassen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 20</td><td>ASTRA [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>A</td><td></td><td>211</td></tr>
 <tr><td colspan="2">Lage und angrenzende Bereiche gemäss Störfallverordnung im Bereich Eisenbahnanlagen</td><td colspan="2">SR *814.01* Art. 10 SR *814.012* Art. 20</td><td>BAV [BAFU]</td><td colspan="2"></td><td colspan="2"></td><td>A</td><td></td><td>212</td></tr>
