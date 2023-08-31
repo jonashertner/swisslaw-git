@@ -4,11 +4,11 @@ title: "Ordonnance 3 du 11 août 1999 sur l'asile relative au traitement de donn
 short: OA 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: fr
-version: 2023-06-15
+version: 2023-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230615/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230615-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/fr"
 
 (Ordonnance 3 sur l’asile, OA 3)
 
-du 11 août 1999 (État le 15 juin 2023)
+du 11 août 1999 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -78,13 +78,13 @@ Le Secrétariat d’État aux migrations (SEM)[^1a-3] exploite les systèmes d�
 
 <sup>1</sup> La banque de données Kompass rassemble des documents contenant des informations sur les pays de provenance des requérants d’asile.[^1b-3]
 
-<sup>2</sup> Elle ne comprend ni donnée sensible ni profil de la personnalité. Si un document ne provenant pas d’une source publique contient des noms de personnes, il est rendu anonyme avant d’être saisi dans la banque de données.
+<sup>2</sup> Elle ne comprend pas de donnée sensible.[^1b-4] Si un document ne provenant pas d’une source publique contient des noms de personnes, il est rendu anonyme avant d’être saisi dans la banque de données.
 
 <sup>3</sup> Tous les collaborateurs du SEM et du Tribunal administratif fédéral ont accès aux données.
 
 <sup>4</sup>
 
-Le SEM peut rendre accessibles, par une procédure d’appel, les informations contenues dans Kompass:[^1b-4]
+Le SEM peut rendre accessibles, par une procédure d’appel, les informations contenues dans Kompass:[^1b-5]
 
 - a. aux autorités cantonales de police des étrangers;
 - b. aux représentants de l’administration fédérale qui ont besoin d’informations sur les pays de provenance des requérants d’asile pour accomplir leur travail;
@@ -93,7 +93,8 @@ Le SEM peut rendre accessibles, par une procédure d’appel, les informations c
 [^1b-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^1b-2]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1b-3]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1b-4]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1b-4]: Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1b-5]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 
 #### Art. 1c
 
@@ -326,21 +327,10 @@ Afin d’établir l’identité de requérants d’asile et de personnes à prot
 
 ### (art. 102*c*, al. 3 et 4, LAsi)
 
-Il y a protection adéquate de la personne concernée au sens de l’art. 102*c*, al. 3, LAsi lorsque des garanties suffisantes résultant notamment de clauses contractuelles et portant sur les données transmises et leur traitement sont fournies sur les points suivants:
+Il y a protection appropriée de la personne concernée au sens de l’art. 102*c*, al. 3, LAsi lorsque des garanties appropriées respectent les exigences des art. 9 à 12 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^6a-2].
 
-- a. les principes de licéité, de bonne foi et d’exactitude sont respectés;
-- b. la finalité de la communication des données est clairement déterminée;
-- c. les données ne sont traitées que dans les limites nécessaires à leur communication;
-- d. les autorités habilitées à traiter les données transmises sont clairement désignées;
-- e. la transmission des données à un autre État n’assurant pas un niveau de protection adéquat est interdite;
-- f. la conservation et la destruction des données sont clairement réglementées;
-- g. la personne concernée a le droit de faire rectifier des données inexactes;
-- h. la personne concernée est informée du traitement de ses données personnelles et des conditions-cadres de ce dernier;
-- i. la personne concernée bénéficie d’un droit d’accès à ses données personnelles;
-- j. la sécurité des données est garantie;
-- k. la personne concernée a le droit de saisir en justice une autorité indépendante si elle estime que ses données personnelles ont été traitées de manière illicite.
-
-[^6a-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^6a-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 6b
 
@@ -453,15 +443,16 @@ La responsabilité en cas de dommages liés à l’exploitation d’Eurodac est 
 
 La sécurité des données est régie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-2];
-- b.[^12-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-4];
-- c.[^12-5] …
+- a.[^12-2] l’OPDo[^12-3];
+- b.[^12-4] l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-5];
+- c.[^12-6] …
 
 [^12-1]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 20 juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^12-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-5]: Abrogée par l’annexe ch. 3 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-2]: Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-6]: Abrogée par l’annexe ch. 3 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 

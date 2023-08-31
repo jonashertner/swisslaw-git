@@ -4,11 +4,11 @@ title: "Ordinanza 3 dell' 11 agosto 1999 sull'asilo relativa al trattamento di d
 short: OAsi 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: it
-version: 2023-06-15
+version: 2023-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230615/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230615-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/it"
 
 (Ordinanza 3 sull’asilo, OAsi 3)
 
-dell’11 agosto 1999 (Stato 15 giugno 2023)
+dell’11 agosto 1999 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -79,13 +79,13 @@ La Segreteria di Stato della migrazione (SEM)[^1a-3] gestisce, per l’adempimen
 
 <sup>1</sup> Nella banca dati Kompass sono raccolti documenti contenenti informazioni sui Paesi d’origine dei richiedenti l’asilo.[^1b-3]
 
-<sup>2</sup> Non vi figurano né dati personali particolarmente degni di protezione né profili della personalità. Se un documento proveniente da una fonte non pubblica contiene nomi di persone, il documento è anonimizzato prima di essere registrato nel sistema.
+<sup>2</sup> Non vi figurano dati personali particolarmente degni di protezione.[^1b-4] Se un documento proveniente da una fonte non pubblica contiene nomi di persone, il documento è anonimizzato prima di essere registrato nel sistema.
 
 <sup>3</sup> Hanno accesso ai dati i collaboratori della SEM e del Tribunale amministrativo federale.
 
 <sup>4</sup>
 
-La SEM può rendere accessibili le informazioni registrate in Kompass alle seguenti autorità mediante procedura di richiamo:[^1b-4]
+La SEM può rendere accessibili le informazioni registrate in Kompass alle seguenti autorità mediante procedura di richiamo:[^1b-5]
 
 - a. alle autorità cantonali degli stranieri;
 - b. ai rappresentanti delle autorità dell’amministrazione federale che per adempiere i loro compiti abbisognano di informazioni relative ai Paesi d’origine dei richiedenti l’asilo;
@@ -94,7 +94,8 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 [^1b-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^1b-2]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1b-3]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1b-4]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1b-4]: Nuovo testo giusta l’all. 2 n. II 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1b-5]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 
 #### Art. 1c
 
@@ -116,7 +117,7 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 
 **Banca dati Finasi**[^1e-1]
 
-<sup>1</sup> Nella banca dati Finasi sono registrati i dati necessari per il versamento delle somme forfettarie giusta gli articoli 20, 22–24*a*, 26-29 e 31 dell’ordinanza 2 dell’11 agosto 1999[^1e-2] sull’asilo (OAsi 2) e l’articolo 15 dell’ordinanza del 15 agosto 2018[^1e-3] sull’integrazione degli stranieri (OIntS) nonché per le analisi statistiche concernenti tali somme.
+<sup>1</sup> Nella banca dati Finasi sono registrati i dati necessari per il versamento delle somme forfettarie giusta gli articoli 20, 22-24*a*, 26-29 e 31 dell’ordinanza 2 dell’11 agosto 1999[^1e-2] sull’asilo (OAsi 2) e l’articolo 15 dell’ordinanza del 15 agosto 2018[^1e-3] sull’integrazione degli stranieri (OIntS) nonché per le analisi statistiche concernenti tali somme.
 
 <sup>2</sup> La banca dati Finasi contiene i seguenti dati personali di richiedenti l’asilo, persone ammesse provvisoriamente, rifugiati e apolidi: cognome, nome, data di nascita, sesso, cittadinanza e attività lucrativa, data dell’ultima entrata in Svizzera, data dell’ultima domanda d’asilo, data del passaggio in giudicato delle decisioni nella procedura d’asilo, data e motivo della partenza, data dell’ultimo indirizzo nel Cantone e attività lucrativa, numero personale e numero AVS[^1e-4], codice Finasi, Cantone, numero di avviamento postale e numero UST del Comune di domicilio.
 
@@ -323,26 +324,14 @@ Per accertare l’identità di richiedenti l’asilo e persone bisognose di prot
 
 #### Art. 6a
 
-**Comunicazione di dati personali a uno Stato non vincolato da nessuno degli Accordi di associazione alla normativa di Dublino**[^6a-1]
+**Comunicazione di dati personali a uno Stato non vincolato da alcun accordo di associazione alla normativa di Schengen**[^6a-1]
 
 ### (art. 102*c* cpv. 3 e 4 LAsi)
 
-k. la persona interessata ha il diritto di fare appello a un’autorità indipendente se ritiene che il trattamento dei suoi dati sia illecito.
+È data una protezione adeguata dei dati della persona interessata ai sensi dell’articolo 102*c* capoverso 3 LAsi se le garanzie adeguate adempiono i requisiti degli articoli 9–12 dell’ordinanza del 31 agosto 2022[^6a-2] sulla protezione dei dati (OPDa).
 
-È data una protezione adeguata della persona interessata ai sensi dell’articolo 102*c* capoverso 3 LAsi se sono fornite garanzie sufficienti, risultanti segnatamente dalle clausole contrattuali, sui punti seguenti:
-
-- a. i principi della legittimità e della buona fede nel trattamento dei dati nonché dell’esattezza dei dati sono rispettati;
-- b. lo scopo della comunicazione è chiaramente stabilito;
-- c. i dati sono trattati solo fintanto che necessario allo scopo della comunicazione;
-- d. le autorità autorizzate a trattare i dati sono chiaramente designate;
-- e. la trasmissione dei dati ad altri Stati che non garantiscono un adeguato livello di protezione dei dati è vietata;
-- f. la conservazione e la cancellazione dei dati sono chiaramente disciplinate;
-- g. la persona interessata ha un diritto di rettifica dei dati inesatti;
-- h. la persona interessata è informata sul trattamento dei suoi dati personali nonché sulle relative condizioni;
-- i. la persona interessata ha il diritto di essere informata sui dati che la riguardano;
-- j. la sicurezza dei dati è garantita;
-
-[^6a-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^6a-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta l’all. 2 n. II 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 6b
 
@@ -455,15 +444,16 @@ La responsabilità in caso di danni in relazione con la gestione di Eurodac è r
 
 La sicurezza dei dati è retta:
 
-- a. dall’ordinanza del 14 giugno 1993[^12-2] relativa alla legge federale sulla protezione dei dati;
-- b.[^12-3] dall’ordinanza del 27 maggio 2020[^12-4] sui ciber-rischi;
-- c.[^12-5] *...*
+- a.[^12-2] dall’OPDa[^12-3];
+- b.[^12-4] dall’ordinanza del 27 maggio 2020[^12-5] sui ciber-rischi;
+- c.[^12-6] *...*
 
 [^12-1]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: Nuovo testo giusta l’all. n. 3 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^12-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-5]: Abrogata dall’all. n. 3 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-2]: Nuovo testo giusta l’all. 2 n. II 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: Nuovo testo giusta l’all. n. 3 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-6]: Abrogata dall’all. n. 3 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -551,7 +541,6 @@ Unità organizzative:
 - – VIII: Settore Acquisizione e gestione dei dati
 - – IX: Settore Analisi linguistiche
 - Sicurezza: Collaboratori esterni settore Sicurezza
-- [tab]
 
 ### Catalogo dei dati MIDES
 

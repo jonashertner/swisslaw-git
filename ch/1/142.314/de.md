@@ -4,11 +4,11 @@ title: "Asylverordnung 3 vom 11. August 1999 über die Bearbeitung von Personend
 short: AsylV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: de
-version: 2023-06-15
+version: 2023-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230615/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230615-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/de"
 
 (Asylverordnung 3, AsylV 3)
 
-vom 11. August 1999 (Stand am 15. Juni 2023)
+vom 11. August 1999 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -79,13 +79,13 @@ Das Staatssekretariat für Migration (SEM)[^1a-3] betreibt zur Erfüllung seiner
 
 <sup>1</sup> In der Datenbank Kompass werden Dokumente mit Informationen über die Herkunftsländer der Asylsuchenden erfasst.[^1b-3]
 
-<sup>2</sup> Es werden keine besonders schützenswerten Personendaten und Persönlichkeitsprofile gespeichert. Enthält ein nicht aus öffentlicher Quelle stammendes Dokument Personennamen, so werden diese vor dem Einlesen in das System anonymisiert.
+<sup>2</sup> Es werden keine besonders schützenswerten Personendaten gespeichert.[^1b-4] Enthält ein nicht aus öffentlicher Quelle stammendes Dokument Personennamen, so werden diese vor dem Einlesen in das System anonymisiert.
 
 <sup>3</sup> Zugriff auf die Daten haben alle Mitarbeiterinnen und Mitarbeiter des SEM und des Bundesverwaltungsgerichts.
 
 <sup>4</sup>
 
-Das SEM kann die in Kompass gespeicherten Informationen folgenden Behörden mittels Abrufverfahren zugänglich machen:[^1b-4]
+Das SEM kann die in Kompass gespeicherten Informationen folgenden Behörden mittels Abrufverfahren zugänglich machen:[^1b-5]
 
 - a. den kantonalen Ausländerbehörden;
 - b. Behördenvertreterinnen und Behördenvertretern der Bundesverwaltung, welche für die Erfüllung ihrer Arbeit auf Informationen über Herkunftsstaaten von Asylsuchenden angewiesen sind;
@@ -94,7 +94,8 @@ Das SEM kann die in Kompass gespeicherten Informationen folgenden Behörden mitt
 [^1b-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^1b-2]: Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 15. April 2017 ([AS 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1b-3]: Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 15. April 2017 ([AS 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1b-4]: Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 15. April 2017 ([AS 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1b-4]: Fassung gemäss Anhang 2 Ziff. II 6 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1b-5]: Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 15. April 2017 ([AS 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 
 #### Art. 1c
 
@@ -326,21 +327,10 @@ Zur Feststellung der Identität von Asylsuchenden und Schutzbedürftigen können
 
 ### (Art. 102*c* Abs. 3 und 4 AsylG)
 
-Ein angemessener Schutz der betroffenen Person im Sinne von Artikel 102*c* Absatz 3 AsylG liegt vor, wenn hinreichende Garantien sich insbesondere aus entsprechenden Vertragsklauseln ergeben und bezüglich der übermittelten Daten und ihrer Bearbeitung Folgendes gewährleisten:
+Ein geeigneter Datenschutz der betroffenen Person im Sinne von Artikel 102*c* Absatz 3 AsylG liegt vor, wenn die geeigneten Garantien die Anforderungen der Artikel 9–12 der Datenschutzverordnung vom 31. August 2022[^6a-2] (DSV) erfüllen.
 
-- a. Die Grundsätze der Rechtmässigkeit, von Treu und Glauben der Datenbearbeitung sowie der Richtigkeit der Daten werden beachtet.
-- b. Der Zweck der Bekanntgabe ist klar festgelegt.
-- c. Die Daten werden nur so weit bearbeitet, als es für den Zweck der Bekanntgabe erforderlich ist.
-- d. Die zur Bearbeitung ermächtigten Behörden werden klar bezeichnet.
-- e. Die Weitergabe der Daten an andere Staaten, die kein angemessenes Datenschutzniveau gewährleisten, ist verboten.
-- f. Die Aufbewahrung und die Vernichtung der Daten sind klar geregelt.
-- g. Die betroffene Person hat ein Recht auf Berichtigung unrichtiger Daten.
-- h. Die betroffene Person wird über die Bearbeitung ihrer Personendaten sowie deren Rahmenbedingungen informiert.
-- i. Die betroffene Person hat ein Recht auf Auskunft über die sie betreffenden Daten.
-- j. Die Datensicherheit ist gewährleistet.
-- k. Die betroffene Person hat das Recht, eine unabhängige Behörde anzurufen, wenn sie der Auffassung ist, die Bearbeitung ihrer Daten sei unzulässig.
-
-[^6a-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^6a-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Anhang 2 Ziff. II 6 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6a-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 6b
 
@@ -453,15 +443,16 @@ Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet si
 
 Die Datensicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^12-2] zum Bundesgesetz über den Datenschutz;
-- b.[^12-3] der Cyberrisikenverordnung vom 27. Mai 2020[^12-4];
-- c.[^12-5] …
+- a.[^12-2] der DSV[^12-3];
+- b.[^12-4] der Cyberrisikenverordnung vom 27. Mai 2020[^12-5];
+- c.[^12-6] …
 
 [^12-1]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 20. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: Fassung gemäss Anhang Ziff. 3 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^12-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-5]: Aufgehoben durch Anhang Ziff. 3 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-2]: Fassung gemäss Anhang 2 Ziff. II 6 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: Fassung gemäss Anhang Ziff. 3 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-5]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-6]: Aufgehoben durch Anhang Ziff. 3 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
