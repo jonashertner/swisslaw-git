@@ -4,20 +4,20 @@ title: "Legge federale del 24 giugno 1902 concernente gli impianti elettrici a c
 short: LIE
 eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1902-06-24
 in_force: 1903-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20210101/it/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20230901/it/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente gli impianti elettrici a corrente forte e a corrente debole
 
-(Legge sugli impianti elettrici, LIE)**[^t-1]**
+(Legge sugli impianti elettrici, LIE)[^t-1]
 
-del 24 giugno 1902 (Stato 1° gennaio 2021)
+del 24 giugno 1902 (Stato 1° settembre 2023)
 
 [^t-1]: Introdotto dall’all. n. 11 della LF del 30 apr. 1997 sull’azienda delle telecomunicazioni, in vigore dal 1° gen. 1998 ([RU 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1201](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 
@@ -210,7 +210,7 @@ Il Consiglio federale può prevedere che:
 [^15d-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^15d-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
-## III*a* *.***** Procedura del piano settoriale
+## III*a* *.* Procedura del piano settoriale
 
 [^lvlIIIa-1]
 
@@ -271,7 +271,7 @@ In casi di secondaria importanza, il Consiglio federale può delegare al DATEC l
 
 [^15k-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
-## III*b*.**** Procedura di approvazione dei piani
+## III*b*. Procedura di approvazione dei piani
 
 [^lvlIIIb-1]
 
@@ -446,7 +446,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 [^17a-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-## III*c*. Zone riservate e allineamenti****
+## III*c*. Zone riservate e allineamenti
 
 [^lvlIIIc-1]
 
@@ -582,9 +582,10 @@ Le imprese d’impianti a corrente forte devono fornire all’Ispettorato i dati
 
 <sup>1</sup> Le autorità incaricate dell’esecuzione trattano i dati personali necessari all’applicazione della presente legge, compresi i dati relativi ai procedimenti amministrativi e penali e alle sanzioni secondo gli articoli 55 e seguenti.
 
-<sup>2</sup> Possono conservare tali dati in forma elettronica e, se necessario per l’esecuzione unitaria della presente legge, scambiarseli.
+<sup>2</sup> Possono scambiarsi tali dati, se necessario per l’esecuzione unitaria della presente legge.[^25a-2]
 
 [^25a-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^25a-2]: Nuovo testo giusta l’all. 1 n. II 58 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 26
 
@@ -602,7 +603,7 @@ Il controllo di cui al capitolo IV non si estende agl’impianti domestici. Per�
 
 [^26a-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-## V. Disposizioni concernenti la responsabilità****
+## V. Disposizioni concernenti la responsabilità
 
 [^lvlV-1]
 
@@ -778,7 +779,7 @@ Il diritto di espropriazione può essere fatto valere, nel singolo caso, per la 
 
 <sup>1</sup>
 
-È punito con la multa sino a 100 000 franchi, sempre che il Codice penale*[^55-2]* non commini una pena più severa, chiunque intenzionalmente:
+È punito con la multa sino a 100 000 franchi, sempre che il Codice penale[^55-2] non commini una pena più severa, chiunque intenzionalmente:
 
 - a.[^55-3] in qualità di gestore dell’impianto costruisce o modifica, o fa costruire o modificare, un impianto elettrico senza aver prima ottenuto la necessaria approvazione dei piani ai sensi dell’articolo 16;
 - b. attiva o fa attivare arbitrariamente impianti elettrici la cui tensione, per ordine della competente istanza di controllo, è stata disinserita a causa di difetti pericolosi;

@@ -4,22 +4,22 @@ title: "Loi fédérale du 24 juin 1902 concernant les installations électriques
 short: LIE
 eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1902-06-24
 in_force: 1903-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20210101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale concernant les installations électriques à faible et à fort courant
 
-(Loi sur les installations électriques, LIE)**[^t-1]**
+(Loi sur les installations électriques, LIE)[^t-1]
 
-du 24 juin 1902 (Etat le 1<sup>er</sup> janvier 2021)
+du 24 juin 1902 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: Parenthèse introduite par le ch. 11 de l’app. à la L du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
+[^t-1]: Parenthèse introduite par l’app. ch. 11 de la L du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 
 L’Assemblée fédérale de la Confédération suisse
 
@@ -65,9 +65,9 @@ Il règle:[^3-2]
 
 <sup>4</sup> …[^3-5]
 
-[^3-1]: Nouvelle teneur selon le ch. 4 de l’app. à la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
-[^3-2]: Nouvelle teneur selon le ch. 4 de l’app. à la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
-[^3-3]: Introduite par le ch. 4 de l’app. à la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
+[^3-1]: Nouvelle teneur selon l’app. ch. 4 de la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
+[^3-2]: Nouvelle teneur selon l’app. ch. 4 de la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
+[^3-3]: Introduite par l’app. ch. 4 de la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
 [^3-4]: [[RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 18. [RO 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)art. 65]. Voir actuellement la L du 30 avr. 1997 ([RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)).
 [^3-5]: Abrogé par le ch. II 30 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -209,7 +209,7 @@ Le Conseil fédéral peut prévoir:
 [^15d-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^15d-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
-## III*a* *.***** Procédure de plan sectoriel
+## III*a* *.* Procédure de plan sectoriel
 
 [^lvlIIIa-1]
 
@@ -261,7 +261,7 @@ Le Conseil fédéral peut prévoir:
 
 Dans les cas de moindre importance, le Conseil fédéral peut confier au DETEC la fixation des zones de planification (art. 15*h*, al. 2) et des corridors de planification (art. 15*i*, al. 3).
 
-## III*b*. Procédure d’approbation des plans****
+## III*b*. Procédure d’approbation des plans
 
 [^lvlIIIb-1]
 
@@ -436,7 +436,7 @@ La procédure simplifiée d’approbation des plans s’applique:
 
 [^17a-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-## III*c*. Zones réservées et alignements****
+## III*c*. Zones réservées et alignements
 
 [^lvlIIIc-1]
 
@@ -533,7 +533,7 @@ Le contrôle de l’exécution des prescriptions mentionnées à l’art. 3 est 
 - 1\. pour les chemins de fer électriques et le croisement des voies ferrées par des lignes électriques à fort courant ou l’établissement de ces dernières le long des chemins de fer, ainsi que pour le croisement des chemins de fer électriques par des lignes à courant faible, à l’Office fédéral des transports;
 - 2\. pour les autres installations à faible et à fort courant, y compris les machines électriques, à une inspection[^21-2] spéciale désignée par le Conseil fédéral.
 
-[^21-1]: Nouvelle teneur selon le ch. 11 de l’app. à la L du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
+[^21-1]: Nouvelle teneur selon l’app. ch. 11 de la L du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 [^21-2]: Nouvelle expression selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 22
@@ -570,9 +570,10 @@ Les entreprises d’installations à fort courant devront fournir à l’inspect
 
 <sup>1</sup> Les autorités chargées de l’exécution traitent les données personnelles nécessaires à l’application de la présente loi, y compris les données relatives aux poursuites pénales et administratives et aux sanctions visées aux art. 55 ss.
 
-<sup>2</sup> Elles peuvent conserver ces données dans un fichier électronique et procéder aux échanges de données nécessaires à l’exécution uniforme de la présente loi.
+<sup>2</sup> Elles peuvent procéder aux échanges de données nécessaires à l’exécution uniforme de la présente loi.[^25a-2]
 
 [^25a-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^25a-2]: Nouvelle teneur selon l’annexe 1 ch. II 58 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 26
 
@@ -590,7 +591,7 @@ Le contrôle prévu au chapitre IV ne s’étend pas aux installations intérieu
 
 [^26a-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-## V. Dispositions concernant la responsabilité****
+## V. Dispositions concernant la responsabilité
 
 [^lvlV-1]
 

@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 24. Juni 1902 betreffend die elektrischen Schwach- und 
 short: EleG
 eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1902-06-24
 in_force: 1903-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20210101/de/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20210101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20230901/de/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die elektrischen Schwach- und Starkstromanlagen
 
-(Elektrizitätsgesetz, EleG)**[^t-1]**
+(Elektrizitätsgesetz, EleG)[^t-1]
 
-vom 24. Juni 1902 (Stand am 1. Januar 2021)
+vom 24. Juni 1902 (Stand am 1. September 2023)
 
 [^t-1]: Eingefügt durch Anhang Ziff. 11 des Telekommunikationsunternehmungsgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 
@@ -63,7 +63,7 @@ Er regelt:[^3-2]
 
 <sup>3</sup> Der Bundesrat hat bei Aufstellung und Ausführung dieser Vorschriften auf Wahrung des Fabrikgeheimnisses Bedacht zu nehmen.
 
-<sup>4</sup> ...[^3-5]
+<sup>4</sup> …[^3-5]
 
 [^3-1]: Fassung gemäss Anhang Ziff. 4 zum Fernmeldegesetz vom 21. Juni 1991, in Kraft seit 1. Mai 1992 ([AS 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [BBl 1988 I 1311](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
 [^3-2]: Fassung gemäss Anhang Ziff. 4 zum Fernmeldegesetz vom 21. Juni 1991, in Kraft seit 1. Mai 1992 ([AS 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [BBl 1988 I 1311](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
@@ -209,7 +209,7 @@ Der Bundesrat kann vorsehen, dass:
 [^15d-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^15d-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
-## III*a*.**** Sachplanverfahren
+## III*a*. Sachplanverfahren
 
 [^lvlIIIa-1]
 
@@ -261,7 +261,7 @@ Der Bundesrat kann vorsehen, dass:
 
 Der Bundesrat kann das Festlegen von Planungsgebieten nach Artikel 15*h* Absatz 2 und Planungskorridoren nach Artikel 15*i* Absatz 3 in Fällen von untergeordneter Bedeutung an das UVEK übertragen.
 
-## III*b*. Plangenehmigungsverfahren****
+## III*b*. Plangenehmigungsverfahren
 
 [^lvlIIIb-1]
 
@@ -346,7 +346,7 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 
 <sup>2</sup> Das Gesuch ist in den amtlichen Publikationsorganen der betroffenen Kantone und Gemeinden zu publizieren und während 30 Tagen öffentlich aufzulegen.
 
-<sup>3</sup> ...[^16d-2]
+<sup>3</sup> …[^16d-2]
 
 [^16d-1]: Eingefügt durch Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^16d-2]: Aufgehoben durch Anhang Ziff. 12 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
@@ -436,7 +436,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 [^17a-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-## III*c*. Projektierungszonen und Baulinien****
+## III*c*. Projektierungszonen und Baulinien
 
 [^lvlIIIc-1]
 
@@ -570,9 +570,10 @@ Die Starkstromanlagen haben dem Inspektorat das statistische Material technische
 
 <sup>1</sup> Die mit dem Vollzug betrauten Stellen bearbeiten die für die Anwendung dieses Gesetzes erforderlichen Personendaten einschliesslich der Daten über administrative und strafrechtliche Verfolgung und Sanktionen nach den Artikeln 55 ff.
 
-<sup>2</sup> Sie können die Daten elektronisch aufbewahren und, soweit dies für den einheitlichen Vollzug dieses Gesetzes erforderlich ist, untereinander austauschen.
+<sup>2</sup> Sie können die Daten untereinander austauschen, soweit dies für den einheitlichen Vollzug dieses Gesetzes erforderlich ist.[^25a-2]
 
 [^25a-1]: Eingefügt durch Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+[^25a-2]: Fassung gemäss Anhang 1 Ziff. II 58 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 26
 
@@ -590,7 +591,7 @@ Die in Abschnitt IV vorgesehene Kontrolle erstreckt sich nicht auf die Hausinsta
 
 [^26a-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-## V. Haftpflichtbestimmungen****
+## V. Haftpflichtbestimmungen
 
 [^lvlV-1]
 
@@ -633,7 +634,7 @@ Wenn elektrische Anlagen sich gegenseitig schädigen, so ist der Schaden, sofern
 
 <sup>2</sup> Diese leitet über die Ursache und die Folgen der ihr bekannt gewordenen erheblichen Unfälle unverzüglich eine amtliche Untersuchung ein; in wichtigeren Fällen kann sie Sachverständige beiziehen. Sie gibt der kantonalen Regierung zu Handen des UVEK vom Vorfall Kenntnis.[^32-2]
 
-[^32-1]: [AS **3** 241, **21** 386. BS **8** 3 Art. 95 Abs. 1]. Obschon das bestehende Bundesrecht keine der genannten Vorschrift entsprechende Bestimmung enthält, finden die Vorschriften dieses Art. 32 noch weiter Anwendung.
+[^32-1]: [AS **3** 241; **21** 386. BS **8** 3 Art. 95 Abs. 1]. Obschon das bestehende Bundesrecht keine der genannten Vorschrift entsprechende Bestimmung enthält, finden die Vorschriften dieses Art. 32 noch weiter Anwendung.
 [^32-2]: Fassung gemäss Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
 #### Art. 33
@@ -687,7 +688,7 @@ Reglemente, Publikationen oder spezielle Vereinbarungen, durch welche die Haftpf
 
 Die Haftpflichtbestimmungen des Abschnitts V finden keine Anwendung auf elektrische Hausinstallationen.
 
-## VI. Enteignung****
+## VI. Enteignung
 
 [^lvlVI-1]
 
@@ -723,7 +724,7 @@ Das Enteignungsrecht kann für die Erstellung und Änderung von Einrichtungen zu
 
 <sup>1</sup> Nach Abschluss des Plangenehmigungsverfahrens wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission (Schätzungskommission) nach den Bestimmungen des EntG[^45-2] durchgeführt.[^45-3]
 
-<sup>2</sup> ...[^45-4]
+<sup>2</sup> …[^45-4]
 
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
