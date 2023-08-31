@@ -4,11 +4,11 @@ title: Bundesgesetz vom 13. Juni 2008 über die polizeilichen Informationssystem
 short: BPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2008-698-20230401-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-698-20230901-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230401/de"
 
 (BPI)
 
-vom 13. Juni 2008 (Stand am 1. April 2023)
+vom 13. Juni 2008 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -54,7 +54,9 @@ Dieses Gesetz gilt für die Bearbeitung von Daten durch Behörden des Bundes und
 
 <sup>1</sup> Die polizeilichen Informationssysteme werden zur Erfüllung der Aufgaben der mit Strafverfolgungsfunktionen, mit Polizeifunktionen und mit der Wahrung der inneren Sicherheit betrauten Behörden eingesetzt.
 
-<sup>2</sup> Im Rahmen dieses Gesetzes dürfen die Polizeibehörden des Bundes besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeiten und den Polizei- und Strafverfolgungsbehörden der Kantone sowie anderen schweizerischen oder ausländischen Behörden bekannt geben. Personendaten dürfen bearbeitet werden, soweit und solange es zur Erfüllung der gesetzlichen Aufgaben notwendig ist.
+<sup>2</sup> Im Rahmen dieses Gesetzes dürfen die Polizeibehörden des Bundes Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten und den kantonalen Polizei- und Strafverfolgungsbehörden sowie anderen schweizerischen oder ausländischen Behörden bekanntgeben.[^3-1] Personendaten dürfen bearbeitet werden, soweit und solange es zur Erfüllung der gesetzlichen Aufgaben notwendig ist.
+
+[^3-1]: Fassung gemäss Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 4
 
@@ -66,16 +68,14 @@ Dieses Gesetz gilt für die Bearbeitung von Daten durch Behörden des Bundes und
 
 #### Art. 5
 
-**Datenbearbeitung zur internen Kontrolle und im Zusammenhang mit Wartungsarbeiten**
+**Datenbearbeitung zur internen Kontrolle[^5-1]**
 
 <sup>1</sup> Soweit es zur Erfüllung ihrer Kontrollaufgaben erforderlich ist, dürfen die verwaltungsinternen Kontrolldienste und die verwaltungsinternen Dienste oder Personen, denen die Überprüfung der Einhaltung der Datenschutzvorschriften obliegt, Daten in allen in diesem Gesetz genannten polizeilichen Informationssystemen bearbeiten.
 
-<sup>2</sup>
+<sup>2</sup> …[^5-2]
 
-Die mit Wartungs- und Programmieraufgaben betrauten Personen dürfen Daten in den in diesem Gesetz genannten polizeilichen Informationssystemen nur bearbeiten, soweit:
-
-- a. dies zur Erfüllung ihrer Wartungs- und Programmierungsarbeiten unbedingt erforderlich ist; und
-- b. die Datensicherheit gewährleistet ist.
+[^5-1]: Fassung gemäss Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5-2]: Aufgehoben durch Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5a
 
@@ -116,22 +116,23 @@ Für die Löschung der Daten nach Ablauf der festgelegten Aufbewahrungsdauer wir
 
 **Auskunftsrecht**
 
-<sup>1</sup> Das Auskunftsrecht richtet sich nach den Artikeln 8 und 9 des Bundesgesetzes vom 19. Juni 1992[^7-1] über den Datenschutz (DSG).
+<sup>1</sup> Das Auskunftsrecht richtet sich nach den Artikeln 25 und 26 des Datenschutzgesetzes vom 25. September 2020[^7-1] (DSG).[^7-2]
 
-<sup>2</sup> Fedpol erteilt die Auskünfte nach Rücksprache mit der Behörde, welche die Daten eingetragen hat oder hat eintragen lassen; die Artikel 8 und 8*a* bleiben vorbehalten.[^7-2]
+<sup>2</sup> Fedpol erteilt die Auskünfte nach Rücksprache mit der Behörde, welche die Daten eingetragen hat oder hat eintragen lassen; die Artikel 8 und 8*a* bleiben vorbehalten.[^7-3]
 
-<sup>3</sup> Das Staatssekretariat für Migration (SEM)[^7-3] erteilt die Auskünfte über Daten betreffend die in seinen Zuständigkeitsbereich fallenden Einreiseverbote nach Artikel 67 Absätze 1 und 2 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^7-4] (AIG)[^7-5], die im Informationssystem nach Artikel 16 bearbeitet werden.[^7-6]
+<sup>3</sup> Das Staatssekretariat für Migration (SEM)[^7-4] erteilt die Auskünfte über Daten betreffend die in seinen Zuständigkeitsbereich fallenden Einreiseverbote nach Artikel 67 Absätze 1 und 2 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^7-5] (AIG)[^7-6], die im Informationssystem nach Artikel 16 bearbeitet werden.[^7-7]
 
-<sup>4</sup> Die Bundesanwaltschaft erteilt Auskünfte über Daten, die im Informationssystem nach Artikel 10 bearbeitet werden. Die Einschränkungen richten sich nach Artikel 108 der Strafprozessordnung vom 5. Oktober 2007[^7-7] (StPO).[^7-8]
+<sup>4</sup> Die Bundesanwaltschaft erteilt Auskünfte über Daten, die im Informationssystem nach Artikel 10 bearbeitet werden. Die Einschränkungen richten sich nach Artikel 108 der Strafprozessordnung vom 5. Oktober 2007[^7-8] (StPO).[^7-9]
 
 [^7-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-2]: Fassung gemäss Ziff. II 8 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^7-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^7-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^7-5]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^7-6]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^7-7]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^7-8]: Siehe Anhang 2 Ziff. I 2.
+[^7-2]: Fassung gemäss Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^7-3]: Fassung gemäss Ziff. II 8 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^7-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^7-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^7-6]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^7-7]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^7-8]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^7-9]: Siehe Anhang 2 Ziff. I 2.
 
 #### Art. 8
 
@@ -144,37 +145,41 @@ Verlangt eine Person Auskunft darüber, ob die Bundeskriminalpolizei (BKP) Daten
 - a. wenn und soweit betreffend der über sie bearbeiteten Daten überwiegende, in den Akten zu begründende Interessen der Strafverfolgung an einer Geheimhaltung bestehen; oder
 - b. wenn über die gesuchstellende Person keine Daten bearbeitet werden.
 
-<sup>2</sup> Fedpol teilt der gesuchstellenden Person den Aufschub der Auskunft mit und weist sie darauf hin, dass sie das Recht hat, vom Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (Beauftragter) zu verlangen, dass er prüfe, ob allfällige Daten über sie rechtmässig bearbeitet werden und ob überwiegende Geheimhaltungsinteressen den Aufschub rechtfertigen.
+<sup>2</sup> Fedpol teilt der gesuchstellenden Person den Aufschub der Auskunft mit und weist sie darauf hin, dass sie das Recht hat, vom Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) zu verlangen, dass er prüfe, ob allfällige Daten über sie rechtmässig bearbeitet werden und ob überwiegende Geheimhaltungsinteressen den Aufschub rechtfertigen.[^8-2]
 
-<sup>3</sup> Der Beauftragte führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten oder betreffend den Aufschub der Auskunft eine Untersuchung nach Artikel 22 des Schengen-Datenschutzgesetzes vom 28. September 2018[^8-2] (SDSG) eröffnet hat.
+<sup>3</sup> Der EDÖB führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten oder betreffend den Aufschub der Auskunft eine Untersuchung nach Artikel 49 des DSG[^8-3] eröffnet hat.[^8-4]
 
-<sup>4</sup> Stellt der Beauftragte Fehler bei der Datenbearbeitung oder betreffend den Aufschub der Auskunft fest, so ordnet er an, dass fedpol diese behebt.
+<sup>4</sup> Stellt der EDÖB[^8-5] Fehler bei der Datenbearbeitung oder betreffend den Aufschub der Auskunft fest, so ordnet er an, dass fedpol diese behebt.
 
 <sup>5</sup> Die Mitteilungen nach den Absätzen 2 und 3 lauten stets gleich und werden nicht begründet. Die Mitteilung nach Absatz 3 kann nicht angefochten werden.
 
 <sup>6</sup> Sobald das Geheimhaltungsinteresse dahingefallen ist, spätestens aber nach Ablauf der Aufbewahrungsdauer, erteilt fedpol der gesuchstellenden Person Auskunft, sofern dies nicht mit übermässigem Aufwand verbunden ist. Personen, über die keine Daten bearbeitet wurden, informiert fedpol drei Jahre nach Eingang ihres Gesuchs über diese Tatsache.
 
-<sup>7</sup> Legt eine Person glaubhaft dar, dass ihr bei einem Aufschub der Auskunft ein erheblicher, nicht wieder gut zu machender Schaden erwächst, so kann der Beauftragte anordnen, dass fedpol ausnahmsweise sofort Auskunft erteilt, wenn und soweit damit keine Gefährdung der inneren oder der äusseren Sicherheit verbunden ist.
+<sup>7</sup> Legt eine Person glaubhaft dar, dass ihr bei einem Aufschub der Auskunft ein erheblicher, nicht wieder gut zu machender Schaden erwächst, so kann der EDÖB anordnen, dass fedpol ausnahmsweise sofort Auskunft erteilt, wenn und soweit damit keine Gefährdung der inneren oder der äusseren Sicherheit verbunden ist.
 
 [^8-1]: Fassung gemäss Ziff. II 8 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^8-2]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^8-2]: Fassung gemäss Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-4]: Fassung gemäss Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8-5]: Ausdruck gemäss Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 8a
 
 **Einschränkung des Auskunftsrechts bei Ausschreibungen zur Festnahme zum Zweck der Auslieferung**[^8a-1]
 
-<sup>1</sup> Verlangt eine Person bei fedpol Auskunft darüber, ob sie in einem polizeilichen Informationssystem zur Festnahme zum Zweck der Auslieferung ausgeschrieben ist, so teilt fedpol der betroffenen Person mit, dass keine Daten über sie unrechtmässig bearbeitet werden und dass sie vom Beauftragten verlangen kann, zu prüfen, ob allfällige Daten über sie rechtmässig bearbeitet werden.
+<sup>1</sup> Verlangt eine Person bei fedpol Auskunft darüber, ob sie in einem polizeilichen Informationssystem zur Festnahme zum Zweck der Auslieferung ausgeschrieben ist, so teilt fedpol der betroffenen Person mit, dass keine Daten über sie unrechtmässig bearbeitet werden und dass sie vom EDÖB verlangen kann, zu prüfen, ob allfällige Daten über sie rechtmässig bearbeitet werden.
 
-<sup>2</sup> Der Beauftragte führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten eine Untersuchung nach Artikel 22 SDSG[^8a-2] eröffnet hat.
+<sup>2</sup> Der EDÖB führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten eine Untersuchung nach Artikel 49 DSG[^8a-2] eröffnet hat.[^8a-3]
 
-<sup>3</sup> Stellt der Beauftragte Fehler bei der Datenbearbeitung fest, so ordnet er an, dass fedpol diese behebt.
+<sup>3</sup> Stellt der EDÖB Fehler bei der Datenbearbeitung fest, so ordnet er an, dass fedpol diese behebt.
 
 <sup>4</sup> Die Mitteilungen nach den Absätzen 1 und 2 lauten stets gleich und werden nicht begründet.
 
 <sup>5</sup> Die Mitteilung nach Absatz 2 kann nicht angefochten werden.
 
 [^8a-1]: Eingefügt durch Ziff. II 8 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^8a-2]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^8a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8a-3]: Fassung gemäss Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8b
 
@@ -589,7 +594,7 @@ Der Bundesrat regelt, gestützt auf die Schengen-Assoziierungsabkommen:
 [^16-10]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2018/1240, ABl. L 236 vom 19.9.2018, S. 1.
 [^16-11]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 77 vom 12.7.2019, S. 25.
 [^16-12]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^16-13]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^16-13]: [[AS 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112). [AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)Anhang 1 Ziff. I 2]. Dieses Gesetz wurde durch das Datenschutzgesetz vom 25. Sept. 2020 ([SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)) auf den 1. Sept. 2023 aufgehoben.
 [^16-14]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 [^16-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
@@ -709,9 +714,9 @@ Es kann die Informationen spontan oder auf Anfrage an folgende inländische Beh�
 
 **Geschäfts- und Aktenverwaltungssysteme von fedpol**[^18-1]
 
-<sup>1</sup> Fedpol betreibt interne elektronische Geschäfts- und Aktenverwaltungssysteme.
+<sup>1</sup> Fedpol betreibt das interne elektronische Geschäfts- und Aktenverwaltungssystem, das besonders schützenswerte Personendaten enthalten darf.[^18-2]
 
-<sup>2</sup> Es können alle ein- und ausgehenden Meldungen erfasst werden, insbesondere Telefonmitschnitte und ‑mitschriften, E-Mails, Briefe und Faxmitteilungen. Die Systeme können besonders schützenswerte Personendaten und Persönlichkeitsprofile enthalten.
+<sup>2</sup> Es können alle ein- und ausgehenden Meldungen erfasst werden, insbesondere Telefonmitschnitte und ‑mitschriften, E-Mails, Briefe und Faxmitteilungen. Die Systeme können besonders schützenswerte Personendaten enthalten.[^18-3]
 
 <sup>3</sup> Die Daten dürfen nach Personen, Objekten und Ereignissen erschliessbar gemacht und mit anderen polizeilichen Informationssystemen oder anderen Informationssystemen von fedpol verknüpft werden. Mit einem anderen Informationssystem verknüpfte Daten unterliegen denselben Datenbearbeitungsregeln und Zugriffsbeschränkungen, die für das Hauptinformationssystem gelten.
 
@@ -722,17 +727,19 @@ Es kann die Informationen spontan oder auf Anfrage an folgende inländische Beh�
 Die Systeme enthalten ausserdem, getrennt von den anderen Daten:
 
 - a. Daten aus Geschäften der für Ausweisschriften und für die Suche nach vermissten Personen zuständigen Stellen;
-- b. Informationen, die für die Anordnung von Massnahmen zur Verhinderung terroristischer Aktivitäten nach dem 5. Abschnitt BWIS[^18-2] notwendig sind;
-- c. die Verfügungen von fedpol nach den Artikeln 67 Absatz 4 und 68 AIG[^18-3].
+- b. Informationen, die für die Anordnung von Massnahmen zur Verhinderung terroristischer Aktivitäten nach dem 5. Abschnitt BWIS[^18-4] notwendig sind;
+- c. die Verfügungen von fedpol nach den Artikeln 67 Absatz 4 und 68 AIG[^18-5].
 
 <sup>6</sup> Die Daten nach Absatz 5 Buchstaben b und c werden höchstens 15 Jahre aufbewahrt.
 
-<sup>7</sup> Der Zugriff auf die Systeme mittels automatisiertem Abrufverfahren ist den Mitarbeitenden von fedpol sowie dem BJ zur Erfüllung seiner Aufgaben nach dem Rechtshilfegesetz vom 20. März 1981[^18-4] vorbehalten. Zugriff auf die Systeme zur Bearbeitung der Daten nach Absatz 5 Buchstaben b und c haben die Mitarbeitenden von fedpol, die für die Bearbeitung der entsprechenden Verfügungen zuständig sind.
+<sup>7</sup> Der Zugriff auf die Systeme mittels automatisiertem Abrufverfahren ist den Mitarbeitenden von fedpol sowie dem BJ zur Erfüllung seiner Aufgaben nach dem Rechtshilfegesetz vom 20. März 1981[^18-6] vorbehalten. Zugriff auf die Systeme zur Bearbeitung der Daten nach Absatz 5 Buchstaben b und c haben die Mitarbeitenden von fedpol, die für die Bearbeitung der entsprechenden Verfügungen zuständig sind.
 
 [^18-1]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^18-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^18-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^18-4]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^18-2]: Fassung gemäss Anhang 1 Ziff. II 30 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Sept. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^18-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^18-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^18-6]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 
 ## 4. Abschnitt: Schlussbestimmungen
 

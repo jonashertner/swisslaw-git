@@ -4,11 +4,11 @@ title: "Legge federale del 13 giugno 2008 sui sistemi d'informazione di polizia 
 short: LSIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2008-698-20230401-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-698-20230901-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230401/it"
 
 (LSIP)
 
-del 13 giugno 2008 (Stato 1° aprile 2023)
+del 13 giugno 2008 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -54,7 +54,9 @@ La presente legge si applica al trattamento dei dati da parte delle autorità fe
 
 <sup>1</sup> I sistemi d’informazione di polizia sono usati per permettere alle autorità aventi funzioni di perseguimento penale, di polizia e di tutela della sicurezza interna, di adempiere i loro compiti.
 
-<sup>2</sup> Nell’ambito della presente legge, le autorità di polizia della Confederazione sono autorizzate a trattare dati degni di particolare protezione e profili della personalità e a comunicarli alle autorità di polizia e di perseguimento penale dei Cantoni nonché ad altre autorità svizzere e straniere. I dati personali possono essere trattati nella misura in cui e fintantoché l’adempimento dei compiti legali lo richiede.
+<sup>2</sup> Nell’ambito della presente legge, le autorità di polizia della Confederazione sono autorizzate a trattare dati personali, compresi dati personali degni di particolare protezione, e a comunicarli alle autorità di polizia e di perseguimento penale dei Cantoni e ad altre autorità svizzere o straniere.[^3-1] I dati personali possono essere trattati nella misura in cui e fintantoché l’adempimento dei compiti legali lo richiede.
+
+[^3-1]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 4
 
@@ -66,16 +68,14 @@ La presente legge si applica al trattamento dei dati da parte delle autorità fe
 
 #### Art. 5
 
-**Trattamento di dati per il controllo interno e la manutenzione informatica**
+**Trattamento di dati per il controllo interno[^5-1]**
 
 <sup>1</sup> I servizi di controllo interni all’Amministrazione e gli organi o le persone interni all’Amministrazione incaricati di verificare l’osservanza delle disposizioni sulla protezione dei dati possono trattare dati personali in tutti i sistemi d’informazione di polizia contemplati dalla presente legge, se necessario per adempiere i loro compiti di controllo.
 
-<sup>2</sup>
+<sup>2</sup> ...[^5-2]
 
-Le persone incaricate della manutenzione informatica e della programmazione possono trattare dati nei sistemi d’informazione di polizia contemplati dalla presente legge unicamente per quanto:
-
-- a. sia assolutamente necessario allo svolgimento dei lavori di manutenzione e di programmazione; e
-- b. sia garantita la sicurezza dei dati.
+[^5-1]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5-2]: Abrogato dall’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5a
 
@@ -116,22 +116,23 @@ La cancellazione dei dati allo scadere della durata di conservazione è effettua
 
 **Diritto d’accesso**
 
-<sup>1</sup> Il diritto d’accesso è retto dagli articoli 8 e 9 della legge federale del 19 giugno 1992[^7-1] sulla protezione dei dati (LPD).
+<sup>1</sup> Il diritto d’accesso è retto dagli articoli 25 e 26 della legge federale del 25 settembre 2020[^7-1] sulla protezione dei dati (LPD).[^7-2]
 
-<sup>2</sup> Fedpol fornisce le informazioni richieste dopo aver consultato l’autorità che ha iscritto o fatto iscrivere i dati nel sistema d’informazione; sono fatti salvi gli articoli 8 e 8*a*.[^7-2]
+<sup>2</sup> Fedpol fornisce le informazioni richieste dopo aver consultato l’autorità che ha iscritto o fatto iscrivere i dati nel sistema d’informazione; sono fatti salvi gli articoli 8 e 8*a*.[^7-3]
 
-<sup>3</sup> La Segreteria di Stato della migrazione (SEM)[^7-3] fornisce le informazioni concernenti i dati trattati nel sistema d’informazione di cui all’articolo 16 relativi ai divieti d’entrata di sua competenza in virtù dell’articolo 67 capoversi 1 e 2 della legge federale del 16 dicembre 2005[^7-4] sugli stranieri e la loro integrazione (LStrI)[^7-5].[^7-6]
+<sup>3</sup> La Segreteria di Stato della migrazione (SEM)[^7-4] fornisce le informazioni concernenti i dati trattati nel sistema d’informazione di cui all’articolo 16 relativi ai divieti d’entrata di sua competenza in virtù dell’articolo 67 capoversi 1 e 2 della legge federale del 16 dicembre 2005[^7-5] sugli stranieri e la loro integrazione (LStrI)[^7-6].[^7-7]
 
-- [tab] <sup>4</sup> Il Ministero pubblico della Confederazione fornisce le informazioni concernenti i dati trattati nel sistema d’informazione di cui all’articolo 10. Le restrizioni sono rette dall’articolo 108 del Codice di procedura penale del 5 ottobre 2007[^7-7] (CPP).[^7-8]
+- [tab] <sup>4</sup> Il Ministero pubblico della Confederazione fornisce le informazioni concernenti i dati trattati nel sistema d’informazione di cui all’articolo 10. Le restrizioni sono rette dall’articolo 108 del Codice di procedura penale del 5 ottobre 2007[^7-8] (CPP).[^7-9]
 
 [^7-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-2]: Nuovo testo giusta il n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^7-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
-[^7-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^7-5]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^7-6]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^7-7]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^7-8]: Vedi l’all. 2 n. I 2, qui appresso.
+[^7-2]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^7-3]: Nuovo testo giusta il n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^7-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^7-6]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-7]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^7-8]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^7-9]: Vedi l’all. 2 n. I 2, qui appresso.
 
 #### Art. 8
 
@@ -144,37 +145,41 @@ Qualora una persona domandi alla Polizia giudiziaria federale (PGF) se stia trat
 - a. se e nella misura in cui interessi preponderanti inerenti al procedimento penale, debitamente motivati negli atti, esigono il mantenimento del segreto riguardo ai dati concernenti il richiedente; o
 - b. se non sono trattati dati concernenti il richiedente.
 
-<sup>2</sup> Fedpol comunica al richiedente il differimento dell’informazione rendendolo attento al fatto che può chiedere all’Incaricato federale della protezione dei dati e della trasparenza (Incaricato) di verificare se dati che lo concernono sono trattati in modo lecito e se interessi preponderanti al mantenimento del segreto giustificano il differimento.
+<sup>2</sup> Fedpol comunica al richiedente il differimento dell’informazione rendendolo attento al fatto che può chiedere all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) di verificare se dati che lo concernono sono trattati in modo lecito e se interessi preponderanti al mantenimento del segreto giustificano il differimento.[^8-2]
 
-<sup>3</sup> L’Incaricato effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali o relativi al differimento dell’informazione, che ha aperto un’inchiesta conformemente all’articolo 22 della legge del 28 settembre 2018[^8-2] sulla protezione dei dati in ambito Schengen (LPDS).
+<sup>3</sup> L’IFPDT effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali o relativi al differimento dell’informazione, che ha aperto un’inchiesta conformemente all’articolo 49 LPD[^8-3].[^8-4]
 
-<sup>4</sup> Se riscontra errori nel trattamento dei dati o relativi al differimento dell’informazione, l’Incaricato ordina a fedpol di porvi rimedio.
+<sup>4</sup> Se riscontra errori nel trattamento dei dati o relativi al differimento dell’informazione, l’IFPDT[^8-5] ordina a fedpol di porvi rimedio.
 
 <sup>5</sup> Le comunicazioni di cui ai capoversi 2 e 3 hanno sempre lo stesso tenore e non vengono motivate. La comunicazione di cui al capoverso 3 non è impugnabile.
 
 <sup>6</sup> Fedpol fornisce le informazioni al richiedente appena viene meno l’interesse al mantenimento del segreto, ma al più tardi allo scadere della durata di conservazione dei dati, purché ciò non comporti un onere di lavoro eccessivo. Le persone di cui non sono stati trattati dati ne sono informate da fedpol tre anni dopo il ricevimento della loro domanda.
 
-<sup>7</sup> Qualora l’interessato renda verosimile che il differimento dell’informazione gli arrecherebbe un danno rilevante e irreparabile, l’Incaricato può ordinare che, a titolo eccezionale, fedpol fornisca immediatamente le informazioni richieste, se e nella misura in cui ciò non pregiudichi la sicurezza interna o esterna.
+<sup>7</sup> Qualora l’interessato renda verosimile che il differimento dell’informazione gli arrecherebbe un danno rilevante e irreparabile, l’IFPDT può ordinare che, a titolo eccezionale, fedpol fornisca immediatamente le informazioni richieste, se e nella misura in cui ciò non pregiudichi la sicurezza interna o esterna.
 
 [^8-1]: Nuovo testo dal n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^8-2]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^8-2]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-4]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8-5]: Nuova espr. giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 8a
 
 **Restrizione del diritto d’accesso in caso di segnalazioni per l’arresto a scopo di estradizione**[^8a-1]
 
-<sup>1</sup> Qualora una persona domandi a fedpol se è segnalata in un sistema d’informazione di polizia per l’arresto a scopo di estradizione, fedpol le comunica che nessun dato che la concerne è trattato in modo illecito e che può chiedere all’Incaricato di verificare se gli eventuali dati che la concernono sono trattati in modo lecito.
+<sup>1</sup> Qualora una persona domandi a fedpol se è segnalata in un sistema d’informazione di polizia per l’arresto a scopo di estradizione, fedpol le comunica che nessun dato che la concerne è trattato in modo illecito e che può chiedere all’IFPDT di verificare se gli eventuali dati che la concernono sono trattati in modo lecito.
 
-<sup>2</sup> L’Incaricato effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali, che ha aperto un’inchiesta conformemente all’articolo 22 LPDS[^8a-2].
+<sup>2</sup> L’IFPDT effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali, che ha aperto un’inchiesta conformemente all’articolo 49 LPD[^8a-2].[^8a-3]
 
-<sup>3</sup> Se riscontra errori nel trattamento dei dati, l’Incaricato ordina a fedpol di porvi rimedio.
+<sup>3</sup> Se riscontra errori nel trattamento dei dati, l’IFPDT ordina a fedpol di porvi rimedio.
 
 <sup>4</sup> Le comunicazioni di cui ai capoversi 1 e 2 hanno sempre lo stesso tenore e non vengono motivate.
 
 <sup>5</sup> La comunicazione di cui al capoverso 2 non è impugnabile.
 
 [^8a-1]: Introdotto dal n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^8a-2]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^8a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8a-3]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8b
 
@@ -358,7 +363,7 @@ Hanno accesso a questi dati mediante procedura di richiamo:
 
 <sup>1</sup> Fedpol gestisce il sistema d’informazione per l’identificazione di persone nell’ambito di procedimenti penali e di ricerche di persone scomparse. Il sistema contiene dati relativi alle persone oggetto di una segnalazione (identità, motivo della segnalazione, informazioni concernenti il reato) e i dati relativi alle tracce rilevate sul luogo di un reato.
 
-<sup>2</sup> I profili del DNA e gli altri dati segnaletici (impronte digitali e palmari, tracce rilevate sui luoghi dei reati, fotografie e connotati) sono trattati in sistemi separati, disciplinati rispettivamente dalla legge del 20 giugno 2003[^14-1] sui profili del DNA e dall’articolo 354 del Codice penale (CP)[^14-2].[^14-3]I profili del DNA e i dati segnaletici sono collegati agli altri dati di cui al capoverso 1 mediante un numero di controllo. Soltanto fedpol è autorizzato a effettuare il collegamento fra il numero di controllo e gli altri dati.
+<sup>2</sup> I profili del DNA e gli altri dati segnaletici (impronte digitali e palmari, tracce rilevate sui luoghi dei reati, fotografie e connotati) sono trattati in sistemi separati, disciplinati rispettivamente dalla legge del 20 giugno 2003[^14-1] sui profili del DNA e dall’articolo 354 del Codice penale (CP)[^14-2].[^14-3] I profili del DNA e i dati segnaletici sono collegati agli altri dati di cui al capoverso 1 mediante un numero di controllo. Soltanto fedpol è autorizzato a effettuare il collegamento fra il numero di controllo e gli altri dati.
 
 <sup>3</sup>
 
@@ -589,7 +594,7 @@ Basandosi sugli Accordi di associazione alla normativa di Schengen, il Consiglio
 [^16-10]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2018/1240, GU L 236 del 19.9.2018, pag. 1.
 [^16-11]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 77 del 12.7.2019, pag. 25.
 [^16-12]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^16-13]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^16-13]: [[RU 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112). [RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)all. 1 n. I 2]. Questa legge è stata abrogata dalla LF del 25 sett. 2020 sulla protezione dei dati ([RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)) con effetto dal 1° sett. 2023.
 [^16-14]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 [^16-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
@@ -709,9 +714,9 @@ Fedpol può comunicare, spontaneamente o su richiesta, le informazioni alle segu
 
 **Sistemi di gestione delle pratiche e degli atti di fedpol**[^18-1]
 
-<sup>1</sup> Fedpol gestisce sistemi informatizzati per la gestione interna delle pratiche e degli atti.
+<sup>1</sup> Fedpol gestisce il sistema informatizzato per la gestione interna delle pratiche e degli atti, che può contenere dati personali degni di particolare protezione.[^18-2]
 
-<sup>2</sup> Possono esservi registrate tutte le comunicazioni indirizzate a fedpol o provenienti da quest’ultimo, in particolare trascrizioni o registrazioni di telefonate, messaggi di posta elettronica, lettere, messaggi fax. I sistemi possono contenere dati personali degni di particolare protezione e profili della personalità.
+<sup>2</sup> Possono esservi registrate tutte le comunicazioni indirizzate a fedpol o provenienti da quest’ultimo, in particolare trascrizioni o registrazioni di telefonate, messaggi di posta elettronica, lettere, messaggi fax. I sistemi possono contenere dati personali degni di particolare protezione.[^18-3]
 
 <sup>3</sup> I dati possono essere catalogati per persona, per oggetto o per evento e collegati ad altri sistemi d’informazione di polizia o ad altri sistemi d’informazione di fedpol. I dati collegati a un altro sistema d’informazione sottostanno alle medesime disposizioni di trattamento dei dati e alle medesime restrizioni circa l’accesso al sistema d’informazione principale.
 
@@ -722,17 +727,19 @@ Fedpol può comunicare, spontaneamente o su richiesta, le informazioni alle segu
 I sistemi contengono inoltre, separatamente dagli altri dati:
 
 - a. i dati concernenti pratiche dei servizi competenti in materia di documenti d’identità e di ricerca di persone scomparse;
-- b. le informazioni necessarie per ordinare misure atte a prevenire attività terroristiche ai sensi della sezione 5 LMSI[^18-2];
-- c. le decisioni di fedpol ai sensi degli articoli 67 capoverso 4 e 68 LStrI[^18-3].
+- b. le informazioni necessarie per ordinare misure atte a prevenire attività terroristiche ai sensi della sezione 5 LMSI[^18-4];
+- c. le decisioni di fedpol ai sensi degli articoli 67 capoverso 4 e 68 LStrI[^18-5].
 
 <sup>6</sup> I dati di cui al capoverso 5 lettere b e c sono conservati per una durata massima di 15 anni.
 
-<sup>7</sup> L’accesso a questi sistemi mediante procedura di richiamo informatizzata è riservato al personale di fedpol e all’UFG, per l’adempimento dei compiti conferitigli dalla legge federale del 20 marzo 1981[^18-4] sull’assistenza internazionale in materia penale. Hanno accesso ai sistemi allo scopo di trattare i dati di cui al capoverso 5 lettere b e c i collaboratori di fedpol responsabili del trattamento delle rispettive decisioni.
+<sup>7</sup> L’accesso a questi sistemi mediante procedura di richiamo informatizzata è riservato al personale di fedpol e all’UFG, per l’adempimento dei compiti conferitigli dalla legge federale del 20 marzo 1981[^18-6] sull’assistenza internazionale in materia penale. Hanno accesso ai sistemi allo scopo di trattare i dati di cui al capoverso 5 lettere b e c i collaboratori di fedpol responsabili del trattamento delle rispettive decisioni.
 
 [^18-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^18-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^18-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^18-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^18-2]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-3]: Nuovo testo giusta l’all. n. 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° set. 2023 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^18-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^18-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^18-6]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 
 ## Sezione 4: Disposizioni finali
 
