@@ -4,11 +4,11 @@ title: Ordinanza del 12 agosto 2015 sul sistema di trattamento dei dati concerne
 short: ODPSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/530"
 language: it
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2015-08-12
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2015-530-20210401-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-530-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20210401/it"
 
 (ODPSP)
 
-del 12 agosto 2015 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 12 agosto 2015 (Stato 1° settembre 2023)
 
 Il Consiglio federale Svizzero,
 
-visto l’articolo 57*h* capoverso 3 della legge federale del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 38 della legge federale del 27 settembre 2013[^ingress-2] sulle prestazioni di sicurezza private fornite all’estero (LPSP),
+visto l’articolo 57*h*<sup>ter</sup> della legge federale del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA); visto l’articolo 38 della legge federale del 27 settembre 2013[^ingress-2] sulle prestazioni di sicurezza private fornite all’estero (LPSP),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
+[^ingress-3]: Nuovo testo giusta l’all. 2 n. II 133 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -114,14 +115,15 @@ Nel sistema di trattamento dei dati possono essere immessi tutti i documenti rel
 
 La sicurezza dei dati e la sicurezza informatica sono rette:
 
-- a. dall’ordinanza del 14 giugno 1993[^9-1] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^9-2] sui ciber-rischi.[^9-3]
+- a.[^9-1] dall’ordinanza del 31 agosto 2022[^9-2] sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^9-3] sui ciber-rischi.[^9-4]
 
 <sup>2</sup> La DP emana un regolamento sul trattamento dei dati. Il regolamento disciplina le misure organizzative e tecniche volte ad assicurare la sicurezza dei dati e il controllo del trattamento dei dati.
 
-[^9-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^9-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^9-3]: Nuovo testo giusta l’all. n. 36 dell’O del 24 febbraio 2021, in vigore dal 1° aprile 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^9-1]: Nuovo testo giusta l’all. 2 n. II 133 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^9-4]: Nuovo testo giusta l’all. n. 36 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 10
 
@@ -129,7 +131,9 @@ La sicurezza dei dati e la sicurezza informatica sono rette:
 
 <sup>1</sup> Gli accessi al sistema di trattamento dei dati e le modifiche sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati per un anno.
+<sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^10-1]
+
+[^10-1]: Nuovo testo giusta l’all. 2 n. II 133 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 4: Conservazione, archiviazione e cancellazione dei dati
 

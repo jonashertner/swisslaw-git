@@ -4,11 +4,11 @@ title: Verordnung vom 12. August 2015 über das Datenbearbeitungssystem private 
 short: VDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/530"
 language: de
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2015-08-12
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2015-530-20210401-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-530-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20210401/de"
 
 (VDPS)
 
-vom 12. August 2015 (Stand am 1. April 2021)
+vom 12. August 2015 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] und auf Artikel 38 des Bundesgesetzes vom 27. September 2013[^ingress-2] über die im Ausland erbrachten privaten Sicherheitsdienstleistungen (BPS),
+gestützt auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG) und auf Artikel 38 des Bundesgesetzes vom 27. September 2013[^ingress-2] über die im Ausland erbrachten privaten Sicherheitsdienstleistungen (BPS),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [SR 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
+[^ingress-3]: Fassung gemäss Anhang 2 Ziff. II 133 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -114,14 +115,15 @@ Im DPS können alle Dokumente zu elektronisch gespeicherten Geschäften erfasst 
 
 Die Daten- und die Informatiksicherheit richten sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^9-1] zum Bundesgesetz über den Datenschutz;
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^9-2].[^9-3]
+- a.[^9-1] der Datenschutzverordnung vom 31. August 2022[^9-2];
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^9-3].[^9-4]
 
 <sup>2</sup> Die PD erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
-[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^9-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^9-3]: Fassung gemäss Anhang Ziff. 36 der V vom 24. Februar 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 133 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^9-4]: Fassung gemäss Anhang Ziff. 36 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 10
 
@@ -129,7 +131,9 @@ Die Daten- und die Informatiksicherheit richten sich nach:
 
 <sup>1</sup> Die Zugriffe auf das DPS und die Änderungen werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^10-1]
+
+[^10-1]: Fassung gemäss Anhang 2 Ziff. II 133 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Abschnitt: Aufbewahrung, Archivierung und Vernichtung der Daten
 
