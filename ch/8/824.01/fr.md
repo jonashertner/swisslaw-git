@@ -4,11 +4,11 @@ title: Ordonnance du 11 septembre 1996 sur le service civil (OSCi)
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/fr"
 
 (OSCi[^t-1])
 
-du 11 septembre 1996 (État le 1<sup>er</sup> janvier 2023)
+du 11 septembre 1996 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: [RO 1996 2974](https://fedlex.data.admin.ch/eli/oc/1996/2974_2974_2974)
 
@@ -2652,15 +2652,17 @@ Quiconque fait valoir un dommage au sens des dispositions de la LSC sur la respo
 
 #### Art. 110
 
-**Fichier du CIVI destiné à l’évaluation des journées d’introduction, des cours de formation et des périodes d’affectation**[^110-1]
+**Banque de données du CIVI destinée à l’évaluation des journées d’introduction, des cours de formation et des périodes d’affectation**[^110-1]
 
 ### (art. 32, 36, al. 3, et 45, let. c, LSC)
 
-<sup>1</sup> Le CIVI un fichier destiné à l’évaluation des journées d’introduction, des cours de formation et des périodes d’affectation.
+[^110-2]
+
+<sup>1</sup> Le CIVI une banque de données destinée à l’évaluation des journées d’introduction, des cours de formation et des périodes d’affectation.[^110-3]
 
 <sup>2</sup>
 
-Ce fichier contient des données, collectées au moyen d’un questionnaire élaboré pour ces journées, cours ou périodes, relatives aux personnes et institutions suivantes:
+Cette banque de données contient des données, collectées au moyen d’un questionnaire élaboré pour ces journées, cours ou périodes, relatives aux personnes et institutions suivantes:[^110-4]
 
 - a. les personnes demandant à être admises au service civil et les personnes astreintes au service civil;
 - b. les établissements d’affectation reconnus;
@@ -2686,6 +2688,9 @@ Les questionnaires remplis par les personnes astreintes au service civil après 
 <sup>5</sup> Les questionnaires remplis par les enseignants après les cours de formation contiennent leurs noms et prénoms.
 
 [^110-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^110-2]: Nouvelle teneur selon l’annexe 2 ch. II 114 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-3]: Nouvelle teneur selon l’annexe 2 ch. II 114 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-4]: Nouvelle teneur selon l’annexe 2 ch. II 114 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 110a
 
@@ -2912,7 +2917,7 @@ Annexe 1[^t-2]
 
 ## Effectif maximal des personnes en service par établissement d’affectation
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 3 juin 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Mise à jour selon le ch. II de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 3 juin 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Mise à jour par le ch. II de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 ### 1. Règle générale
 
@@ -2978,7 +2983,7 @@ Annexe 2[^t-3]
 
 ## Jours chômés (art. 53, al. 3) et jours d’absence pour cause de maladie ou d’accident (art. 54, al. 2) pris en compte
 
-[^t-3]: Anciennement app.2. Nouvelle teneur selon le ch. III al. 1 de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Mise à jour selon le ch. II des O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^t-3]: Anciennement app.2. Nouvelle teneur selon le ch. III al. 1 de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Mise à jour par le ch. II des O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 <table>
 <tr><td>1.</td><td>Total des jours de service à accomplir (durée totale ou solde):</td><td>Jours chômés pris en compte (art. 53, al. 3):</td></tr>

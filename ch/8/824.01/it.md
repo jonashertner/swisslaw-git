@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 settembre 1996 sul servizio civile (OSCi)"
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/it"
 
 (OSCi)
 
-dell’11 settembre 1996 (Stato 1° gennaio 2023)
+dell’11 settembre 1996 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -2615,15 +2615,17 @@ Chiunque intenda far valere un danno fondato sulle disposizioni della LSC concer
 
 #### Art. 110
 
-**Collezione di dati del CIVI per la valutazione di giornate d’introduzione, corsi di formazione e impieghi**[^110-1]
+**Banca dati del CIVI per la valutazione di giornate d’introduzione, corsi di formazione e impieghi**[^110-1]
 
 ### (art. 32, 36 cpv. 3 e 45 lett. c LSC)
 
-<sup>1</sup> Il CIVI gestisce una collezione di dati per la valutazione di giornate d’introduzione, corsi di formazione e impieghi.
+[^110-2]
+
+<sup>1</sup> Il CIVI gestisce una banca dati per la valutazione di giornate d’introduzione, corsi di formazione e impieghi.[^110-3]
 
 <sup>2</sup>
 
-La collezione di dati contiene i dati rilevati tramite questionari in occasione di tali giornate, corsi o impieghi da:
+La banca dati contiene i dati rilevati tramite questionari in occasione di tali giornate, corsi o impieghi da:[^110-4]
 
 - a. persone richiedenti l’ammissione al servizio civile o soggette al servizio civile;
 - b. istituti d’impiego riconosciuti;
@@ -2649,6 +2651,9 @@ I questionari compilati dalle persone soggette al servizio civile dopo gli impie
 <sup>5</sup> I questionari compilati dai responsabili dei corsi dopo i corsi di formazione contengono i loro nominativi.
 
 [^110-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^110-2]: Nuovo testo giusta l’all. 2 n. II 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-3]: Nuovo testo giusta l’all. 2 n. II 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-4]: Nuovo testo giusta l’all. 2 n. II 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 110a
 

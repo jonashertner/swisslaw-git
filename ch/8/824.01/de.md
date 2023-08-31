@@ -4,11 +4,11 @@ title: "Verordnung vom 11. September 1996 über den zivilen Ersatzdienst (Zivild
 short: ZDV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/de"
 
 (Zivildienstverordnung, ZDV)
 
-vom 11. September 1996 (Stand am 1. Januar 2023)
+vom 11. September 1996 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -2620,15 +2620,17 @@ Wer gestützt auf die Haftungsbestimmungen des ZDG einen Schaden geltend macht, 
 
 #### Art. 110
 
-**Datensammlung des ZIVI zur Evaluation von Einführungstagen, Ausbildungskursen und Einsätzen**[^110-1]
+**Datenbank des ZIVI zur Evaluation von Einführungstagen, Ausbildungskursen und Einsätzen**[^110-1]
 
 ### (Art. 32, 36 Abs. 3 und 45 Bst. c ZDG)
 
-<sup>1</sup> Das ZIVI führt eine Datensammlung zur Evaluation von Einführungstagen, Ausbildungskursen und Einsätzen.
+[^110-2]
+
+<sup>1</sup> Das ZIVI führt eine Datenbank zur Evaluation von Einführungstagen, Ausbildungskursen und Einsätzen.[^110-3]
 
 <sup>2</sup>
 
-Die Datensammlung enthält die Daten, die mit Fragebogen anlässlich dieser Tage, Kurse oder Einsätze erhoben werden von:
+Die Datenbank enthält die Daten, die mit Fragebogen anlässlich dieser Tage, Kurse oder Einsätze erhoben werden von:[^110-4]
 
 - a. gesuchstellenden und zivildienstpflichtigen Personen;
 - b. anerkannten Einsatzbetrieben;
@@ -2654,6 +2656,9 @@ Die Fragebogen, die durch zivildienstpflichtige Personen nach Einsätzen ausgef�
 <sup>5</sup> Die Fragebogen, die durch Kursleiterinnen und Kursleiter nach Ausbildungskursen ausgefüllt werden, enthalten deren Namen.
 
 [^110-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^110-2]: Fassung gemäss Anhang 2 Ziff. II 114 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-3]: Fassung gemäss Anhang 2 Ziff. II 114 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-4]: Fassung gemäss Anhang 2 Ziff. II 114 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 110a
 
