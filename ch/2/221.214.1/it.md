@@ -4,11 +4,11 @@ title: Legge federale del 23 marzo 2001 sul credito al consumo (LCC)
 short: LCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/593"
 language: it
-version: 2019-04-01
+version: 2023-09-01
 adopted: 2001-03-23
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20190401/it/xml/fedlex-data-admin-ch-eli-cc-2002-593-20190401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/593/20190401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2002-593-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/593/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/593/20190401/it"
 
 (LCC)
 
-del 23 marzo 2001 (Stato 1° aprile 2019) (Stato 1° aprile 2019)
+del 23 marzo 2001 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 97 e 122 della Costituzione federale[^ingress-1]; visto il me
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: FF **1999** 2697
 
 ## Sezione 1: Definizioni
@@ -45,8 +45,8 @@ Sono considerati contratti di credito al consumo anche:
 
 <sup>3</sup> Il credito al consumo è stipulato tra il consumatore e un creditore ai sensi dell’articolo 2.[^1-2]
 
-[^1-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-2]: Introdotto dal n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1-2]: Introdotto dall’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 2
 
@@ -57,7 +57,7 @@ Per creditore si intende ogni persona fisica o giuridica che:
 - a. concede professionalmente crediti al consumo (creditore professionale); o
 - b. concede non professionalmente crediti al consumo per il tramite di un intermediario di crediti partecipativi.
 
-[^2-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 3
 
@@ -73,7 +73,7 @@ Per consumatore si intende ogni persona fisica che stipula un contratto di credi
 
 <sup>2</sup> Per intermediario di crediti partecipativi si intende ogni persona fisica o giuridica che, professionalmente, organizza per singoli consumatori la concessione di un credito al consumo cui possono partecipare in modo coordinato più creditori non professionali.[^4-1]
 
-[^4-1]: Introdotto dal n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-1]: Introdotto dall’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
 
@@ -107,7 +107,7 @@ La presente legge non si applica:
 
 <sup>2</sup> Il Consiglio federale può adeguare alle mutate circostanze l’importo di cui al capoverso 1 lettera e.
 
-[^7-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 2855](https://fedlex.data.admin.ch/eli/fga/2014/678)[2875](https://fedlex.data.admin.ch/eli/fga/2014/680)).
 
 #### Art. 8
@@ -119,8 +119,8 @@ La presente legge non si applica:
 <sup>2</sup> I conti connessi a carte di credito o a carte-cliente con opzione di credito e i crediti sotto forma di anticipo su conto corrente sottostanno solo agli articoli 12–16, 17 capoversi 1 e 2, 18 capoversi 1 e 3, 19–24, 25 capoversi 1 e 3[^8-3], 27 e 30–40.
 
 [^8-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 2855](https://fedlex.data.admin.ch/eli/fga/2014/678)[2875](https://fedlex.data.admin.ch/eli/fga/2014/680)).
-[^8-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^8-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^8-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^8-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ## Sezione 3: Forma e contenuto del contratto
 
@@ -246,10 +246,10 @@ I contratti di credito al consumo conclusi con creditori ai sensi dell’articol
 <sup>3</sup> Qualora il credito sia stato versato prima della revoca del contratto, si applica l’articolo 15 capoversi 2 e 3. In caso di acquisto a rate, di fornitura di un servizio a credito o di contratto di leasing si applica l’articolo 40*f* del Codice delle obbligazioni[^16-5].[^16-6] In caso di uso abusivo della cosa durante il termine di revoca, il consumatore deve un’indennità adeguata calcolata in base alla perdita di valore della cosa.[^16-7]
 
 [^16-1]: Nuovo testo giusta il n. II della LF del 19 giu. 2015 (Revisione del diritto di revoca), in vigore dal 1° gen. 2016 ([RU 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/139)[2677](https://fedlex.data.admin.ch/eli/fga/2014/549)).
-[^16-2]: Introdotto dal n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^16-2]: Introdotto dall’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^16-3]: Nuovo testo del per. giusta il n. II della LF del 19 giu. 2015 (Revisione del diritto di revoca), in vigore dal 1° gen. 2016 ([RU 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/139)[2677](https://fedlex.data.admin.ch/eli/fga/2014/549)).
-[^16-4]: Introdotto dal n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); FF **201****5** 7293).
-[^16-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16-4]: Introdotto dall’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^16-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^16-6]: Nuovo testo del per. giusta il n. II della LF del 19 giu. 2015 (Revisione del diritto di revoca), in vigore dal 1° gen. 2016 ([RU 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/139)[2677](https://fedlex.data.admin.ch/eli/fga/2014/549)).
 [^16-7]: Per. introdotto dal n. II della LF del 19 giu. 2015 (Revisione del diritto di revoca), in vigore dal 1° gen. 2016 ([RU 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/139)[2677](https://fedlex.data.admin.ch/eli/fga/2014/549)).
 
@@ -331,15 +331,17 @@ Gli statuti della Centrale d’informazione devono essere approvati dal dipartim
 - d. la collaborazione con terzi coinvolti;
 - e. la sicurezza dei dati.
 
-<sup>3</sup> La Centrale d’informazione è un organo federale ai sensi dell’articolo 3 lettera h della legge federale del 19 giugno 1992[^23-3] sulla protezione dei dati. Il Consiglio federale emana le disposizioni d’esecuzione.
+<sup>3</sup> La Centrale d’informazione è un organo federale ai sensi dell’articolo 5 lettera i della legge federale del 25 settembre 2020[^23-3] sulla protezione dei dati. Il Consiglio federale emana le disposizioni d’esecuzione.[^23-4]
 
-<sup>4</sup> Fatte salve le competenze previste dalla legge del 19 giugno 1992 sulla protezione dei dati, la Centrale d’informazione è sottoposta alla vigilanza del dipartimento.
+<sup>4</sup> Fatte salve le competenze previste dalla legge federale sulla protezione dei dati, la Centrale d’informazione è sottoposta alla vigilanza del dipartimento.[^23-5]
 
 <sup>5</sup> Il Consiglio federale può impartire ai creditori professionali un termine entro il quale istituire la Centrale d’informazione. La istituisce da sé qualora i creditori professionali non l’abbiano istituita o l’abbiano sciolta.
 
-[^23-1]: Nuova espr. giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^23-1]: Nuova espr. giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^23-2]: Attualmente il Dipartimento federale di giustizia e polizia.
-[^23-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^23-4]: Nuovo testo giusta l’all. 1 n. II 19 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^23-5]: Nuovo testo giusta l’all. 1 n. II 19 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 24
 
@@ -349,7 +351,7 @@ Gli statuti della Centrale d’informazione devono essere approvati dal dipartim
 
 <sup>2</sup> Con il consenso del debitore, hanno accesso ai dati nel singolo caso anche le istituzioni di risanamento dei debiti designate e sostenute dai Cantoni.
 
-[^24-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); FF **2****015** 7293).
+[^24-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 25
 
@@ -366,8 +368,8 @@ Il creditore professionale o l’intermediario di crediti partecipativi deve not
 
 <sup>3</sup> La Centrale d’informazione definisce negli statuti o in un regolamento fondato sugli stessi i dettagli concernenti contenuto, forma e momento della notifica.
 
-[^25-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^25-2]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^25-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^25-2]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 26
 
@@ -383,7 +385,7 @@ In caso di contratto di leasing, il creditore professionale o l’intermediario 
 
 <sup>2</sup> Deve inoltre notificare alla Centrale d’informazione i versamenti scaduti, se ammontano almeno a tre rate del leasing.
 
-[^26-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^26-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 27
 
@@ -399,7 +401,7 @@ In caso di contratto di leasing, il creditore professionale o l’intermediario 
 
 Prima della conclusione del contratto, il creditore professionale o l’intermediario di crediti partecipativi esamina la capacità creditizia del consumatore.
 
-[^27a-1]: Introdotto dal n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^27a-1]: Introdotto dall’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 28
 
@@ -421,9 +423,9 @@ La parte pignorabile del reddito è determinata in base alle direttive sul calco
 
 <sup>5</sup> In caso di contratti di credito al consumo oggetto di una mediazione coordinata, per l’esame della capacità creditizia si tiene conto di tutti i crediti oggetto dell’intermediazione.[^28-3]
 
-[^28-1]: Abrogato dal n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^28-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^28-3]: Introdotto dal n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^28-1]: Abrogato dall’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^28-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^28-3]: Introdotto dall’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 29
 
@@ -433,7 +435,7 @@ La parte pignorabile del reddito è determinata in base alle direttive sul calco
 
 <sup>2</sup> La capacità creditizia è data quando l’assuntore del leasing può pagare le rate senza gravare la parte impignorabile del reddito ai sensi dell’articolo 28 capoversi 2 e 3 o quando valori patrimoniali che gli appartengono garantiscono il pagamento delle rate.
 
-[^29-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^29-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 30
 
@@ -453,9 +455,9 @@ La parte pignorabile del reddito è determinata in base alle direttive sul calco
 
 <sup>3</sup> In caso di dubbi sull’esattezza delle indicazioni fornite dal consumatore, il creditore professionale o l’intermediario di crediti partecipativi le verifica sulla base di pertinenti documenti ufficiali o privati.[^31-3] Non può limitare la verifica ai documenti indicati nel capoverso 1.[^31-4]
 
-[^31-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^31-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^31-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 2855](https://fedlex.data.admin.ch/eli/fga/2014/678)[2875](https://fedlex.data.admin.ch/eli/fga/2014/680)).
-[^31-3]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^31-3]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^31-4]: Nuovo testo giusta il n. I della LF del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 2855](https://fedlex.data.admin.ch/eli/fga/2014/678)[2875](https://fedlex.data.admin.ch/eli/fga/2014/680)).
 
 #### Art. 32
@@ -466,7 +468,7 @@ La parte pignorabile del reddito è determinata in base alle direttive sul calco
 
 <sup>2</sup> Il creditore professionale che viola l’articolo 25, 26 o 27 capoverso 1 o, in modo lieve, l’articolo 27*a*, 28, 29, 30 o 31 perde unicamente gli interessi e le spese.
 
-[^32-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^32-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 32a
 
@@ -476,7 +478,7 @@ La parte pignorabile del reddito è determinata in base alle direttive sul calco
 
 <sup>2</sup> Il creditore perde unicamente gli interessi e le spese.
 
-[^32a-1]: Introdotto dal n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^32a-1]: Introdotto dall’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ## Sezione 6: Calcolo del tasso annuo effettivo
 
@@ -515,7 +517,7 @@ Le spese per le assicurazioni e garanzie sono considerate nella misura in cui:
 - a. sono imposte obbligatoriamente dal creditore professionale o dall’intermediario di crediti partecipativi per la concessione del credito; e
 - b. assicurano al creditore professionale o all’intermediario di crediti partecipativi il rimborso, in caso di morte, invalidità, infermità o disoccupazione del consumatore, di una somma pari o inferiore all’importo totale del credito, compresi gli interessi e le altre spese.[^34-1]
 
-[^34-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^34-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ## Sezione 7: Mediazione di crediti
 
@@ -534,7 +536,7 @@ Le spese per le assicurazioni e garanzie sono considerate nella misura in cui:
 La pubblicità per crediti al consumo è retta dalla legge federale del 19 dicembre 1986[^36-2] contro la concorrenza sleale.
 
 [^36-1]: Introdotto dal n. I della LF del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 2855](https://fedlex.data.admin.ch/eli/fga/2014/678)[2875](https://fedlex.data.admin.ch/eli/fga/2014/680)).
-[^36-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^36-2]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 36a
 
@@ -585,8 +587,8 @@ Nessuna autorizzazione secondo il capoverso 2 è necessaria qualora il creditore
 - a. sia soggetto alla legge federale dell’8 novembre 1934[^39-2] sulle banche e le casse di risparmio;
 - b. conceda o faccia mediazione di crediti al consumo per il finanziamento dell’acquisto dei suoi beni o della fornitura dei suoi servizi.
 
-[^39-1]: Nuovo testo giusta il n. II 2 dell’all. alla LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^39-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^39-1]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° apr. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 40
 
@@ -632,7 +634,7 @@ Allegato 1
 
 ## Formula per il calcolo del tasso annuo effettivo
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20190401/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20230901/it/xml/image/image1.png)
 
 Le lettere e i simboli utilizzati nella formula hanno il significato seguente:
 

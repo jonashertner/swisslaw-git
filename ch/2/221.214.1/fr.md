@@ -4,20 +4,22 @@ title: Loi fédérale du 23 mars 2001 sur le crédit à la consommation (LCC)
 short: LCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/593"
 language: fr
-version: 2019-04-01
+version: 2023-09-01
 adopted: 2001-03-23
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-2002-593-20190401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/593/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-593-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/593/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur le crédit à la consommation
+# Loi fédérale sur le crédit à la consommation\*
 
-(LCC)
+(LCC)[^t-1]
 
-du 23 mars 2001 (Etat le 1<sup>er</sup> avril 2019)
+du 23 mars 2001 (État le 1<sup>er</sup> septembre 2023)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +27,7 @@ vu les art. 97 et 122 de la Constitution[^ingress-1], vu le message du Conseil f
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: FF **1999** 2879
 
 ## Section 1 Définitions
@@ -45,8 +47,8 @@ Sont aussi considérés comme des contrats de crédit à la consommation:
 
 <sup>3</sup> Le contrat de crédit à la consommation est conclu entre le consommateur et un prêteur au sens de l’art. 2.[^1-2]
 
-[^1-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-2]: Introduit par le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1-2]: Introduit par l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 2
 
@@ -57,7 +59,7 @@ Par prêteur, on entend toute personne physique ou morale qui:
 - a. consent des crédits à la consommation par métier (prêteur agissant par métier), ou
 - b. consent des crédits à la consommation, sans agir par métier, par l’intermédiaire d’un courtier en crédit participatif.
 
-[^2-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 3
 
@@ -73,7 +75,7 @@ Par consommateur, on entend toute personne physique qui conclut un contrat de cr
 
 <sup>2</sup> Par courtier en crédit participatif, on entend toute personne physique ou morale qui, par métier, organise pour un consommateur un octroi coordonné de crédits à la consommation auquel plusieurs prêteurs n’agissant pas par métier peuvent participer.[^4-1]
 
-[^4-1]: Introduit par le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-1]: Introduit par l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
 
@@ -107,7 +109,7 @@ La présente loi ne s’applique pas:
 
 <sup>2</sup> Le Conseil fédéral peut adapter aux circonstances nouvelles les montants prévus à l’al. 1, let. e.
 
-[^7-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 3141](https://fedlex.data.admin.ch/eli/fga/2014/678)[3163](https://fedlex.data.admin.ch/eli/fga/2014/680)).
 
 #### Art. 8
@@ -119,8 +121,8 @@ La présente loi ne s’applique pas:
 <sup>2</sup> Les comptes liés à une carte de crédit ou à une carte de client avec une option de crédit ainsi que les crédits consentis sous la forme d’une avance sur compte courant ne sont soumis qu’aux art. 12 à 16, 17, al. 1 et 2, 18, al. 1 et 3, 19 à 24, 25, al. 1 et 3[^8-3], 27, 30 à 40.
 
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 3141](https://fedlex.data.admin.ch/eli/fga/2014/678)[3163](https://fedlex.data.admin.ch/eli/fga/2014/680)).
-[^8-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^8-3]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^8-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^8-3]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ## Section 3 Forme et contenu du contrat
 
@@ -246,10 +248,10 @@ Les contrats conclus avec des prêteurs visés à l’art. 2, let. b, peuvent ê
 <sup>3</sup> Si le prêt a été versé avant la fin du délai de révocation, l’art. 15, al. 2 et 3, est applicable. L’art. 40*f* du code des obligations[^16-5] s’applique aux ventes à tempérament, aux contrats de crédit portant sur le financement de services et aux contrats de leasing. En cas d’usage abusif de la chose durant le délai de révocation, le consommateur doit une indemnité adéquate calculée en fonction de la valeur perdue de la chose.[^16-6]
 
 [^16-1]: Nouvelle teneur selon le ch. II de la LF du 19 juin 2015 (Révision du droit de révocation), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [FF 2014 893](https://fedlex.data.admin.ch/eli/fga/2014/139)[2883](https://fedlex.data.admin.ch/eli/fga/2014/549)).
-[^16-2]: Introduit par le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^16-2]: Introduit par l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^16-3]: Nouvelle teneur de la phrase selon le ch. II de la LF du 19 juin 2015 (Révision du droit de révocation), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [FF 2014 893](https://fedlex.data.admin.ch/eli/fga/2014/139)[2883](https://fedlex.data.admin.ch/eli/fga/2014/549)).
-[^16-4]: Introduit par le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^16-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16-4]: Introduit par l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^16-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^16-6]: Phrase introduite par le ch. II de la LF du 19 juin 2015 (Révision du droit de révocation), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [FF 2014 893](https://fedlex.data.admin.ch/eli/fga/2014/139)[2883](https://fedlex.data.admin.ch/eli/fga/2014/549)).
 
 ## Section 4 Droits et obligations des parties
@@ -280,7 +282,7 @@ Les contrats conclus avec des prêteurs visés à l’art. 2, let. b, peuvent ê
 
 Le consommateur a le droit inaliénable d’opposer à tout cessionnaire[^19-1] les exceptions découlant du contrat de crédit à la consommation qui lui appartiennent.
 
-[^19-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33, al. 1, LREC – [RS 171.11](https://fedlex.data.admin.ch/eli/cc/1962/773_811_831)).
+[^19-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33, al. 1, LREC – [RS 171.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4994)).
 
 #### Art. 20
 
@@ -332,15 +334,17 @@ Les statuts du centre de renseignements sont soumis à l’approbation du dépar
 - d. la collaboration avec des tiers concernés;
 - e. la sécurité des données.
 
-<sup>3</sup> Le centre de renseignements est un organe fédéral au sens de l’art. 3, let. h, de la loi fédérale du 19 juin 1992 sur la protection des données[^23-3]. Le Conseil fédéral édicte les dispositions d’exécution.
+<sup>3</sup> Le centre de renseignements est un organe fédéral au sens de l’art. 5, let. i, de la loi fédérale du 25 septembre 2020 sur la protection des données[^23-3]. Le Conseil fédéral édicte les dispositions d’exécution.[^23-4]
 
-<sup>4</sup> Sous réserve des compétences prévues par la loi fédérale du 19 juin 1992 sur la protection des données, le centre de renseignements est soumis à la surveillance du département compétent.
+<sup>4</sup> Sous réserve des compétences prévues par la loi fédérale sur la protection des données, le centre de renseignements est soumis à la surveillance du département compétent.[^23-5]
 
 <sup>5</sup> Le Conseil fédéral peut fixer un délai aux prêteur agissant par métier pour créer le centre de renseignements. Si cet organe n’est pas créé ou s’il est dissous ultérieurement, le Conseil fédéral l’institue.
 
-[^23-1]: Nouvelle expression selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établisse-ments financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Il a été tenu compte de cette mod. uniquement dans les disp. mentionnées au RO.
+[^23-1]: Nouvelle expression selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Il a été tenu compte de cette mod. uniquement dans les disp. mentionnées au RO.
 [^23-2]: Département fédéral de justice et police
-[^23-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^23-4]: Nouvelle teneur selon l’annexe 1 ch. II 19 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^23-5]: Nouvelle teneur selon l’annexe 1 ch. II 19 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 24
 
@@ -350,7 +354,7 @@ Les statuts du centre de renseignements sont soumis à l’approbation du dépar
 
 <sup>2</sup> Toutefois, les institutions d’assainissement des dettes désignées et soutenues par les cantons ont également accès aux données réunies par le centre de renseignements après avoir recueilli dans chaque cas l’assentiment du débiteur.
 
-[^24-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^24-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 25
 
@@ -367,8 +371,8 @@ Le prêteur agissant par métier ou le courtier en crédit participatif doit ann
 
 <sup>3</sup> Le centre de renseignements règle dans ses statuts ou dans un règlement prévu par ceux-ci les modalités concernant le contenu, la forme et le moment de l’annonce obligatoire.
 
-[^25-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^25-2]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^25-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^25-2]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 26
 
@@ -384,7 +388,7 @@ En cas de leasing, le prêteur agissant par métier ou le courtier en crédit pa
 
 <sup>2</sup> Il doit également annoncer les cas dans lesquels un montant en suspens atteint trois redevances mensuelles.
 
-[^26-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établisse-ments financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^26-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 27
 
@@ -400,7 +404,7 @@ En cas de leasing, le prêteur agissant par métier ou le courtier en crédit pa
 
 Le prêteur agissant par métier ou le courtier en crédit participatif doit examiner la capacité de contracter un crédit du consommateur avant la conclusion du contrat.
 
-[^27a-1]: Introduit par le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^27a-1]: Introduit par l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 28
 
@@ -422,9 +426,9 @@ La part saisissable du revenu est déterminée selon les directives concernant l
 
 <sup>5</sup> En cas de courtage coordonné, l’examen de la capacité du consommateur concerné de contracter un crédit à la consommation prend en compte tous les crédits faisant l’objet du courtage.[^28-3]
 
-[^28-1]: Abrogé par le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^28-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^28-3]: Introduit par le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements finan-ciers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^28-1]: Abrogé par l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^28-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^28-3]: Introduit par l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 29
 
@@ -434,7 +438,7 @@ La part saisissable du revenu est déterminée selon les directives concernant l
 
 <sup>2</sup> La capacité de contracter est admise lorsque le preneur peut payer les redevances sans grever la part insaisissable de son revenu au sens de l’art. 28, al. 2 et 3, ou lorsque des valeurs patrimoniales appartenant au preneur assurent le paiement des redevances.
 
-[^29-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établisse-ments financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^29-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 30
 
@@ -454,9 +458,9 @@ La part saisissable du revenu est déterminée selon les directives concernant l
 
 <sup>3</sup> Si le prêteur agissant par métier ou le courtier en crédit participatif doute de l’exactitude des informations fournies par le consommateur, il en vérifie la véracité au moyen de documents officiels ou privés.[^31-3] Il ne se contentera pas pour ce faire des documents prévus à l’al. 1.[^31-4]
 
-[^31-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établisse-ments financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^31-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^31-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 3141](https://fedlex.data.admin.ch/eli/fga/2014/678)[3163](https://fedlex.data.admin.ch/eli/fga/2014/680)).
-[^31-3]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établisse-ments financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^31-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^31-4]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 3141](https://fedlex.data.admin.ch/eli/fga/2014/678)[3163](https://fedlex.data.admin.ch/eli/fga/2014/680)).
 
 #### Art. 32
@@ -467,7 +471,7 @@ La part saisissable du revenu est déterminée selon les directives concernant l
 
 <sup>2</sup> Si le prêteur agissant par métier contrevient aux art. 25, 26 ou 27, al. 1, ou contrevient de manière peu grave aux art. 27*a*, 28, 29, 30 ou 31, il ne perd que les intérêts et les frais.
 
-[^32-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établisse-ments financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^32-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 32a
 
@@ -477,7 +481,7 @@ La part saisissable du revenu est déterminée selon les directives concernant l
 
 <sup>2</sup> Le consommateur ne doit ni les intérêts ni les frais.
 
-[^32a-1]: Introduit par le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^32a-1]: Introduit par l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ## Section 6 Taux annuel effectif global
 
@@ -516,7 +520,7 @@ Les frais d’assurance ou de sûretés sont pris en compte:
 - a. s’ils sont obligatoirement exigés par le prêteur agissant par métier ou par le courtier en crédit participatif pour l’octroi du crédit, et
 - b. s’ils ont pour objet d’assurer au prêteur agissant par métier ou au courtier en crédit participatif, en cas de décès, d’invalidité, de maladie ou de chômage du consommateur, le remboursement d’une somme égale ou inférieure au montant total du crédit, y compris les intérêts et autres frais.[^34-1]
 
-[^34-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établisse-ments financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^34-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ## Section 7 Courtage en crédit
 
@@ -535,7 +539,7 @@ Les frais d’assurance ou de sûretés sont pris en compte:
 La publicité relative à des crédits à la consommation est régie par la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^36-2].
 
 [^36-1]: Introduit par le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [FF 2014 3141](https://fedlex.data.admin.ch/eli/fga/2014/678)[3163](https://fedlex.data.admin.ch/eli/fga/2014/680)).
-[^36-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^36-2]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 36a
 
@@ -571,7 +575,7 @@ Il ne peut être dérogé aux dispositions de la présente loi au détriment du 
 
 La Confédération règle les contrats de crédit[^38-1] à la consommation de manière exhaustive.
 
-[^38-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33, al. 1, LREC; [RS 171.11](https://fedlex.data.admin.ch/eli/cc/1962/773_811_831)).
+[^38-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33, al. 1, LREC; [RS 171.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4994)).
 
 #### Art. 39
 
@@ -588,8 +592,8 @@ Une autorisation au sens de l’al. 2 n’est pas nécessaire lorsque le prêteu
 - a. est soumis à la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^39-2];
 - b. octroie des crédits à la consommation pour financer l’acquisition de marchandises ou de services qu’il fournit lui-même ou fait le courtage de tels crédits.
 
-[^39-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 15 juin 2018 sur les établisse-ments financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^39-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^39-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 40
 
@@ -637,7 +641,7 @@ Annexe 1
 
 ## Formule mathématique pour le calcul du taux annuel effectif global
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20190401/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20230901/fr/xml/image/image1.png)
 
 Les lettres et symboles employés dans la formule ont la signification suivante:
 

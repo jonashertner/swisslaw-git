@@ -4,11 +4,11 @@ title: Bundesgesetz vom 23. März 2001 über den Konsumkredit (KKG)
 short: KKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/593"
 language: de
-version: 2019-04-01
+version: 2023-09-01
 adopted: 2001-03-23
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20190401/de/xml/fedlex-data-admin-ch-eli-cc-2002-593-20190401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/593/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2002-593-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/593/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/593/20190401/de"
 
 (KKG)
 
-vom 23. März 2001 (Stand am 1. April 2019)
+vom 23. März 2001 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 97 und 122 der Bundesverfassung[^ingress-1], nach Eins
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: BBl **1999** 3155
 
 ## 1. Abschnitt: Begriffe
@@ -119,8 +119,8 @@ Dieses Gesetz gilt nicht für:
 <sup>2</sup> Konti für Kredit- und Kundenkarten mit Kreditoption sowie Überziehungskredite auf laufendem Konto unterstehen nur den Artikeln 12–16, 17 Absätze 1 und 2, 18 Absätze 1 und 3, 19–24, 25 Absätze 1 und 3[^8-3], 27, 30–40.
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [BBl 2014 3259](https://fedlex.data.admin.ch/eli/fga/2014/678)[3279](https://fedlex.data.admin.ch/eli/fga/2014/680)).
-[^8-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^8-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^8-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^8-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ## 3. Abschnitt: Form und Inhalt des Vertrags
 
@@ -249,7 +249,7 @@ Konsumkreditverträge mit einer Kreditgeberin nach Artikel 2 Buchstabe b können
 [^16-2]: Eingefügt durch Anhang Ziff. II 2 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. April 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^16-3]: Fassung des zweiten Satzes gemäss Ziff. II des BG vom 19. Juni 2015 (Revision des Widerrufsrechts), in Kraft seit 1. Jan. 2016 ([AS 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [BBl 2014 921](https://fedlex.data.admin.ch/eli/fga/2014/139)[2993](https://fedlex.data.admin.ch/eli/fga/2014/549)).
 [^16-4]: Eingefügt durch Anhang Ziff. II 2 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. April 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^16-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^16-6]: Dritter Satz eingefügt durch Ziff. II des BG vom 19. Juni 2015 (Revision des Widerrufsrechts), in Kraft seit 1. Jan. 2016 ([AS 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [BBl 2014 921](https://fedlex.data.admin.ch/eli/fga/2014/139)[2993](https://fedlex.data.admin.ch/eli/fga/2014/549)).
 
 ## 4. Abschnitt: Rechte und Pflichten der Parteien
@@ -330,15 +330,17 @@ Die Statuten der Informationsstelle müssen vom zuständigen Departement[^23-2] 
 - d. die Zusammenarbeit mit beteiligten Dritten;
 - e. die Datensicherheit.
 
-<sup>3</sup> Die Informationsstelle gilt als Bundesorgan im Sinne von Artikel 3 Buchstabe h des Bundesgesetzes vom 19. Juni 1992[^23-3] über den Datenschutz. Der Bundesrat erlässt die Vollzugsbestimmungen.
+<sup>3</sup> Die Informationsstelle gilt als Bundesorgan im Sinne von Artikel 5 Buchstabe i des Datenschutzgesetzes vom 25. September 2020[^23-3]. Der Bundesrat erlässt die Vollzugsbestimmungen.[^23-4]
 
-<sup>4</sup> Vorbehältlich der Zuständigkeit gemäss Bundesgesetz vom 19. Juni 1992 über den Datenschutz untersteht die Informationsstelle der Aufsicht des Departements.
+<sup>4</sup> Vorbehältlich der Zuständigkeit gemäss dem Datenschutzgesetz untersteht die Informationsstelle der Aufsicht des Departements.[^23-5]
 
 <sup>5</sup> Der Bundesrat kann den gewerbsmässig tätigen Kreditgeberinnen eine Frist setzen, binnen der die gemeinsame Einrichtung errichtet sein muss. Kommt die Gründung der gemeinsamen Einrichtung nicht zu Stande oder wird diese später aufgelöst, so richtet der Bundesrat die Informationsstelle ein.
 
 [^23-1]: Ausdruck gemäss Anhang Ziff. II 2 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. April 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^23-2]: Zurzeit Eidgenössisches Justiz- und Polizeidepartement
-[^23-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-3]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^23-4]: Fassung gemäss Anhang 1 Ziff. II 19 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^23-5]: Fassung gemäss Anhang 1 Ziff. II 19 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 24
 
@@ -421,7 +423,7 @@ Der pfändbare Teil des Einkommens wird nach den Richtlinien über die Berechnun
 <sup>5</sup> Für koordiniert vermittelte Konsumkreditverträge wird die Kreditfähigkeit der Konsumentin oder des Konsumenten unter Einbezug aller vermittelten Kredite geprüft.[^28-3]
 
 [^28-1]: Aufgehoben durch Anhang Ziff. II 2 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. April 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^28-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^28-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^28-3]: Eingefügt durch Anhang Ziff. II 2 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. April 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 29
@@ -533,7 +535,7 @@ Die Kosten für Versicherungen und Sicherheiten sind so weit zu berücksichtigen
 Die Werbung für Konsumkredite richtet sich nach dem Bundesgesetz vom 19. Dezember 1986[^36-2] gegen den unlauteren Wettbewerb.
 
 [^36-1]: Eingefügt durch Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4111](https://fedlex.data.admin.ch/eli/oc/2015/690); [BBl 2014 3259](https://fedlex.data.admin.ch/eli/fga/2014/678)[3279](https://fedlex.data.admin.ch/eli/fga/2014/680)).
-[^36-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^36-2]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 36a
 
@@ -585,7 +587,7 @@ Keine Bewilligung nach Absatz 2 ist erforderlich, wenn die gewerbsmässig tätig
 - b. Konsumkredite zur Finanzierung des Erwerbs ihrer Waren oder der Beanspruchung ihrer Dienstleistungen gewährt oder vermittelt.
 
 [^39-1]: Fassung gemäss Anhang Ziff. II 2 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. April 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^39-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^39-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 40
 
@@ -631,7 +633,7 @@ Anhang 1
 
 ## Formel zur Berechnung des effektiven Jahreszinses
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20190401/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/593/20230901/de/xml/image/image1.png)
 
 Die in der Formel verwendeten Buchstaben und Symbole haben folgende Bedeutung:
 
