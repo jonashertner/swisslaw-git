@@ -4,11 +4,11 @@ title: Ordinanza del 17 ottobre 2007 sul registro di commercio (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230101/it"
 
 (ORC)
 
-del 17 ottobre 2007 (Stato 1° gennaio 2023)
+del 17 ottobre 2007 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -275,11 +275,12 @@ Gli atti scritti elettronici possono essere fatti pervenire agli uffici del regi
 - a. garantiscono la riservatezza (criptaggio) dei dati; e
 - b.[^12c-2] rilasciano una ricevuta munita di sigillo elettronico regolamentato e di una marca temporale elettronica ai sensi dell’articolo 2 lettere d e i FiEle[^12c-3]*.*
 
-<sup>2</sup> L’UFRC può disciplinare lo svolgimento e l’automazione della comunicazione elettronica, segnatamente in riferimento a moduli, formato e struttura dei dati, processi operativi e procedure di trasmissione alternative.
+<sup>2</sup> L’UFRC può disciplinare lo svolgimento e l’automazione della comunicazione elettronica, segnatamente in riferimento a moduli, formato delle banche dati, struttura dei dati, processi operativi e procedure di trasmissione alternative.[^12c-4]
 
 [^12c-1]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
 [^12c-2]: Nuovo testo giusta l’all. n. II 4 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^12c-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^12c-4]: Nuovo testo giusta l’all. 2 n. II 29 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12d
 
@@ -913,7 +914,7 @@ Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali,
 
 [^45-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-3]: NT
+[^45-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-4]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^45-5]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 [^45-6]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
@@ -1287,7 +1288,7 @@ Con la notificazione per l’iscrizione di un margine di variazione del capitale
 L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 - a. l’indicazione del margine di variazione del capitale secondo la descrizione dettagliata nello statuto;
-- b. la data della deliberazione dell’assemblea generale sulla modifica dello statuto.
+- b. la data della deliberazione dell’assemblea generale sulla modifica dello statuto;
 - c. se del caso, l’ufficio di revisione.
 
 #### Art. 59b

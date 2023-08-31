@@ -4,11 +4,11 @@ title: Ordonnance du 17 octobre 2007 sur le registre du commerce (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230101/fr"
 
 (ORC)
 
-du 17 octobre 2007 (État le 1<sup>er</sup> janvier 2023)
+du 17 octobre 2007 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -275,11 +275,12 @@ Les requêtes électroniques peuvent être adressées aux offices du registre du
 - a. assurent la confidentialité (chiffrement), et
 - b.[^12c-2] délivrent une quittance munie d’un cachet électronique réglementé et d’un horodatage électronique au sens de l’art. 2, let. d et i, SCSE[^12c-3]*.*
 
-<sup>2</sup> L’OFRC peut édicter des dispositions relatives au déroulement et à l’automatisation de la communication électronique, notamment en ce qui concerne les formulaires, les formats de fichiers, les structures de données, les processus et les procédures alternatives de transmission.
+<sup>2</sup> L’OFRC peut édicter des dispositions relatives au déroulement et à l’automatisation de la communication électronique, notamment en ce qui concerne les formulaires, les formats de banques de données, les structures de données, les processus et les procédures alternatives de transmission.[^12c-4]
 
 [^12c-1]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
 [^12c-2]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^12c-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^12c-4]: Nouvelle teneur selon l’annexe 2 ch. II 29 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12d
 

@@ -4,11 +4,11 @@ title: Handelsregisterverordnung vom 17. Oktober 2007 (HRegV)
 short: HRegV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230101/de"
 
 (HRegV)
 
-vom 17. Oktober 2007 (Stand am 1. Januar 2023)
+vom 17. Oktober 2007 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -275,11 +275,12 @@ Elektronische Eingaben an die Handelsregisterämter können neben den Zustellpla
 - a. die Vertraulichkeit (Verschlüsselung) gewährleisten; und
 - b.[^12c-2] eine mit einem geregelten elektronischen Siegel und einem elektronischen Zeitstempel nach Artikel 2 Buchstaben d und i ZertES[^12c-3] versehene Quittung über die Eingabe ausstellen.
 
-<sup>2</sup> Das EHRA kann die Abwicklung und Automatisierung des elektronischen Geschäftsverkehrs regeln, namentlich in Bezug auf Formulare, Datenformate, Datenstrukturen, Geschäftsprozesse und alternative Übermittlungsverfahren.
+<sup>2</sup> Das EHRA kann die Abwicklung und Automatisierung des elektronischen Geschäftsverkehrs regeln, namentlich in Bezug auf Formulare, Datenformate, Datenstrukturen, Geschäftsprozesse und alternative Übermittlungsverfahren.[^12c-4]
 
 [^12c-1]: [SR 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
 [^12c-2]: Fassung gemäss Anhang Ziff. II 4 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^12c-3]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^12c-4]: Die Änd. gemäss Anhang 2 Ziff. II 29 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 betrifft nur den französischen und den italienischen Text ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12d
 
@@ -523,7 +524,7 @@ Die folgenden Dokumente müssen von einer Urkundsperson beglaubigt werden:
 
 **Bestehen von Rechtseinheiten**
 
-<sup>1</sup> Nimmt eine einzutragende Tatsache auf eine im schweizerischen Handelsregister eingetragene Rechtseinheit Bezug, so muss deren Bestehen nicht belegt werden. Das mit der Eintragung dieser Tatsache betraute Handelsregisteramt überprüft das Bestehen der Rechtseinheit durch Einsichtnahme in die kantonale Handelsregisterdatenbank.[^24-1]
+<sup>1</sup> Nimmt eine einzutragende Tatsache auf eine im schweizerischen Handelsregister eingetragene Rechtseinheit Bezug, so muss deren Bestehen nicht belegt werden. Das mit der Eintragung dieser Tatsache betraute Handelsregisteramt überprüft das Beste-hen der Rechtseinheit durch Einsichtnahme in die kantonale Handelsregisterdatenbank.[^24-1]
 
 <sup>2</sup> Das Bestehen einer Rechtseinheit, die nicht im schweizerischen Handelsregister eingetragen ist, muss durch einen aktuellen beglaubigten Auszug aus dem ausländischen Handelsregister oder durch eine gleichwertige Urkunde belegt werden.
 
