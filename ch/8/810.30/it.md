@@ -4,11 +4,11 @@ title: "Legge federale del 30 settembre 2011 concernente la ricerca sull'essere 
 short: LRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230901-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/it"
 
 (Legge sulla ricerca umana, LRUm)
 
-del 30 settembre 2011 (Stato 1° luglio 2023) (Stato 1° luglio 2023)
+del 30 settembre 2011 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 118*b* capoverso 1 della Costituzione federale[^ingress-1]; v
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2009 6979](https://fedlex.data.admin.ch/eli/fga/2009/1423)
 
 ## Capitolo 1: Disposizioni generali
@@ -52,7 +52,7 @@ Si prefigge inoltre di:
 
 <sup>1</sup>
 
-La presente legge si applica alla ricerca sulle malattie dellcessere umano, nonché sulla struttura e sulla funzione del corpo umano, condotta:
+La presente legge si applica alla ricerca sulle malattie dell’essere umano, nonché sulla struttura e sulla funzione del corpo umano, condotta:
 
 - a. con persone;
 - b. su persone decedute;
@@ -65,11 +65,10 @@ La presente legge si applica alla ricerca sulle malattie dellcessere umano, nonc
 La presente legge non è applicabile alla ricerca condotta:
 
 - a. su embrioni *in vitro* secondo la legge del 19 dicembre 2003[^2-1] sulle cellule staminali;
-- [tab]
 - b. su materiale biologico anonimizzato;
 - c. con dati sanitari anonimizzati e raccolti in forma anonima.
 
-[^2-1]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^2-1]: [RS 810.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9253)
 
 #### Art. 2a
 
@@ -84,7 +83,7 @@ Il Consiglio federale, sentita la Commissione federale per gli esami genetici su
 - e. esecuzione di esami genetici e operazioni relative ai dati genetici nell’ambito di rapporti di lavoro e assicurativi e nei casi di responsabilità civile.
 
 [^2a-1]: Introdotto dall’all. n. II 3 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^2a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^2a-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 3
 
@@ -275,10 +274,10 @@ A titolo eccezionale, la persona interessata può essere informata in modo parzi
 
 <sup>3</sup> Per il rimanente si applicano le disposizioni del Codice delle obbligazioni[^19-3] sugli atti illeciti; per quanto riguarda l’esercizio di una funzione ufficiale, si applica la legge del 14 marzo 1958[^19-4] sulla responsabilità o il diritto cantonale sulla responsabilità.
 
-[^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^19-2]: Nuovo testo giusta l’all. n. 17 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^19-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^19-4]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^19-4]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 20
 
@@ -509,7 +508,7 @@ Il Consiglio federale disciplina i requisiti per una anonimizzazione e una codif
 
 <sup>4</sup> La ricerca su una persona deceduta da oltre 70 anni può essere condotta senza il consenso di cui al capoverso 2. Non può essere condotta se gli stretti congiunti vi si oppongono.
 
-[^36-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^36-1]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 #### Art. 37
 
@@ -566,9 +565,10 @@ Il materiale biologico o i dati sanitari personali prelevati, raccolti o riutili
 
 <sup>1</sup> Il materiale biologico o i dati genetici possono essere esportati all’estero a scopo di ricerca se la persona interessata vi ha acconsentito dopo essere stata sufficientemente informata. Al consenso si applicano per analogia gli articoli 16, 22–24 e 32.
 
-<sup>2</sup> I dati sanitari personali non genetici possono essere comunicati all’estero a scopo di ricerca se sono adempiute le condizioni di cui all’articolo 6 della legge federale del 19 giugno 1992[^42-1] sulla protezione dei dati.
+<sup>2</sup> I dati sanitari personali non genetici possono essere comunicati all’estero a scopo di ricerca soltanto se sono adempiute le condizioni di cui agli articoli 16 e 17 della legge federale del 25 settembre 2020[^42-1] sulla protezione dei dati.[^42-2]
 
-[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^42-2]: Nuovo testo giusta l’all. 1 n. II 70 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 43
 
@@ -857,7 +857,7 @@ Sempre che non si tratti di un reato più grave secondo il Codice penale[^62-1],
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
-[^62-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^62-2]: Nuovo testo giusta l’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-3]: Introdotta dall’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-4]: Nuovo testo giusta il n. I 27 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -887,7 +887,7 @@ Sempre che non si tratti di un reato più grave secondo il Codice penale[^62-1],
 
 <sup>3</sup> Le autorità competenti comunicano all’UFSP tutte le sentenze pronunciate sulla base degli articoli 62 capoverso 1 lettere b–c<sup>bis</sup> o 63 capoverso 1 lettera c a seguito di un reato di cui è stato oggetto il corpo umano o sue parti.[^64-2]
 
-[^64-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^64-2]: Introdotto dall’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## Capitolo 12: Disposizioni finali

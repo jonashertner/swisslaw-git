@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2011 relative à la recherche sur l'être
 short: LRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230901-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/fr"
 
 (Loi relative à la recherche sur l’être humain, LRH)
 
-du 30 septembre 2011 (État le 1<sup>er</sup> juillet 2023)
+du 30 septembre 2011 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 118*b*, al. 1, de la Constitution[^ingress-1], vu le message du Cons
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)
 
 ## Chapitre 1 Dispositions générales
@@ -68,7 +68,7 @@ Elle ne s’applique pas à la recherche pratiquée:
 - b. sur du matériel biologique anonymisé;
 - c. sur des données liées à la santé qui ont été collectées anonymement ou anonymisées.
 
-[^2-1]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^2-1]: [RS 810.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9253)
 
 #### Art. 2a
 
@@ -83,7 +83,7 @@ Le Conseil fédéral peut, après avoir entendu la Commission fédérale pour l�
 - e. la réalisation d’analyses génétiques et l’utilisation des données génétiques dans le cadre de rapports de travail ou de rapports d’assurance et dans les cas de responsabilité civile.
 
 [^2a-1]: Introduit par l’annexe ch. II 3 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^2a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^2a-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 3
 
@@ -274,10 +274,10 @@ Exceptionnellement, la personne concernée peut être informée de manière part
 
 <sup>3</sup> Au surplus, les dispositions du code des obligations[^19-3] relatives aux actes illicites sont applicables; l’exercice d’une fonction officielle est régi par la loi du 14 mars 1958 sur la responsabilité[^19-4] ou par les dispositions du droit cantonal relatives à la responsabilité des collectivités publiques.
 
-[^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^19-2]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^19-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^19-4]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^19-4]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 20
 
@@ -508,7 +508,7 @@ Le Conseil fédéral précise les exigences auxquelles doivent répondre l’ano
 
 <sup>4</sup> La recherche sur le corps d’une personne décédée plus de 70 ans auparavant peut être pratiquée sans le consentement visé à l’al. 2. Cependant, elle ne peut pas être pratiquée si des proches manifestent leur désaccord.
 
-[^36-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^36-1]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 #### Art. 37
 
@@ -565,9 +565,10 @@ Le matériel biologique prélevé ou réutilisé et les données personnelles li
 
 <sup>1</sup> Le matériel biologique et les données génétiques ne peuvent être exportés à des fins de recherche qu’avec le consentement éclairé de la personne concernée. Les art. 16, 22 à 24 et 32 s’appliquent par analogie au consentement.
 
-<sup>2</sup> Les données personnelles non génétiques liées à la santé ne peuvent être communiquées à l’étranger à des fins de recherche que si les conditions visées à l’art. 6 de la loi fédérale du 19 juin 1992 sur la protection des données[^42-1] sont remplies.
+<sup>2</sup> Les données personnelles non génétiques liées à la santé ne peuvent être communiquées à l’étranger à des fins de recherche que si les conditions visées aux art. 16 et 17 de la loi fédérale du 25 septembre 2020 sur la protection des données[^42-1] sont remplies.[^42-2]
 
-[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^42-2]: Nouvelle teneur selon l’annexe 1 ch. II 70 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 43
 
@@ -857,7 +858,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 <sup>3</sup> Si l’auteur de l’infraction agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.
 
-[^62-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^62-2]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-3]: Introduite par l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-4]: Nouvelle teneur selon le ch. I 27 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -887,7 +888,7 @@ Est puni d’une amende quiconque, intentionnellement ou par négligence:
 
 <sup>3</sup> Les autorités compétentes signalent à l’OFSP tout jugement rendu en vertu des art. 62, al. 1, let. b à c<sup>bis</sup>, ou 63, al. 1, let. c, en raison d’un acte punissable dont le corps humain ou les parties du corps humain ont fait l’objet.[^64-2]
 
-[^64-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^64-2]: Introduit par l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## Chapitre 12 Dispositions finales

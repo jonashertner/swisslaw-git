@@ -4,11 +4,11 @@ title: "Federal Act of 30 September 2011 on Research involving Human Beings (Hum
 short: HRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230901-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Human Research Act, HRA)
 
-of 30 September 2011 (Status as of 1 July 2023)
+of 30 September 2011 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ on the basis of Article 118*b* paragraph 1 of the Federal Constitution[^ingress-
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)
 
 ## Chapter 1 General Provisions
@@ -70,7 +70,7 @@ It does not apply to research which involves:
 - b. anonymised biological material;
 - c. anonymously collected or anonymised health-related data.
 
-[^2-1]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^2-1]: [SR 810.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9253)
 
 #### Art. 2a
 
@@ -79,13 +79,13 @@ It does not apply to research which involves:
 After consulting the Federal Commission for Human Genetic Testing, the Federal Council may in accordance with Article 54 of the Federal Act of 15 June 2018[^2a-2] on Human Genetic Testing (HGTA) declare that the HGTA applies to research involving human beings in the following fields:
 
 - a. genetic counselling;
-- b. avoiding excess information and handling such information;
+- b. avoiding surplus information and handling such information;
 - c. genetic testing on persons lacking capacity of judgement;
 - d. prenatal testing;
-- e. conducting genetic testing and handling genetic data in connection with employment and insurance matters and in personal liability cases.
+- e. conducting genetic testing and handling genetic data in connection with employment and insurance matters and in personal civil liability cases.
 
 [^2a-1]: Inserted by Annex No II 3 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^2a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^2a-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 3
 
@@ -123,9 +123,9 @@ The interests, health and welfare of the individual human being shall prevail ov
 
 Research involving human beings may only be carried out if it addresses a topic of scientific relevance concerning:
 
-- a. the understanding of human diseases;
-- b. the structure and function of the human body; or
-- c. public health.
+- the understanding of human diseases;
+- the structure and function of the human body; or
+- public health.
 
 #### Art. 6
 
@@ -202,8 +202,8 @@ Research involving human beings may only be carried out if:
 
 In research projects with an expected direct benefit, the use of a placebo or non‑treatment is only permissible if no additional risk of serious or irreversible harm is to be expected for the persons concerned and:
 
-- a. no standard treatment is available; or
-- b. the use of a placebo is required for compelling, scientifically sound methodological reasons, in order to establish the efficacy or safety of a treatment method.
+- no standard treatment is available; or
+- the use of a placebo is required for compelling, scientifically sound methodological reasons, in order to establish the efficacy or safety of a treatment method.
 
 #### Art. 14
 
@@ -276,9 +276,9 @@ In exceptional cases, the persons concerned may be given incomplete information 
 
 <sup>3</sup> The provisions of the Code of Obligations on tort are otherwise applicable; in the exercise of official duties, the Government Liability Act of 14 March 1958[^19-3], or cantonal government liability law, is applicable.
 
-[^19-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^19-2]: Amended by Annex No 17 of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^19-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-3]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 20
 
@@ -509,7 +509,7 @@ The Federal Council shall specify the requirements for correct and secure anonym
 
 <sup>4</sup> In the case of deceased persons whose death occurred more than 70 years previously, research may be carried out without consent being given as specified in paragraph 2. If such research is opposed by the next of kin, it may not be carried out.
 
-[^36-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^36-1]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 #### Art. 37
 
@@ -566,9 +566,10 @@ Biological material or health-related personal data which has been sampled or co
 
 <sup>1</sup> Biological material or genetic data may be exported for research purposes if informed consent has been given by the person concerned. For consent, Articles 16 and 22–24 and 32 apply *mutatis mutandis*.
 
-<sup>2</sup> Non-genetic health-related personal data may be disclosed abroad for research purposes if the requirements specified in Article 6 of the Federal Act of 19 June 1992[^42-1] on Data Protection are met.
+<sup>2</sup> Non-genetic health-related personal data may be disclosed abroad for research purposes if the requirements specified in Articles 16 and 17 of the Data Protection Act of 25 September 2020[^42-1] are met.[^42-2]
 
-[^42-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^42-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^42-2]: Amended by Annex 1 No II 70 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 43
 
@@ -738,15 +739,15 @@ Ethics committees must be composed in such a way that they have the professional
 
 **Registration**
 
-<sup>1</sup> Authorised clinical trials must be recorded in a public registry. The Federal Council shall define the clinical trials in more detail and may specify exemptions from mandatory registration; in doing so, it shall be guided by recognised international regulations.[^56-1]
+<sup>1</sup> Authorised clinical trials must be recorded in a public register. The Federal Council shall define the clinical trials in more detail and may specify exemptions from mandatory registration; in doing so, it shall be guided by recognised international regulations.[^56-1]
 
-<sup>2</sup> It shall designate the registry, provide information on access thereto and specify the content of registration, as well as notification requirements and the notification procedure. In doing so, it shall have regard to recognised international regulations and if possible take existing registries into consideration.
+<sup>2</sup> It shall designate the register, provide information on access thereto and specify the content of registration, as well as notification requirements and the notification procedure. In doing so, it shall have regard to recognised international regulations and if possible take existing registers into consideration.
 
 <sup>3</sup>
 
 It may:
 
-- a. entrust public- or private-law organisations with the establishment and management of the registry;
+- a. entrust public- or private-law organisations with the establishment and management of the register;
 - b.[^56-2] specify that the results of registered research projects must be published on a recognised platform.
 
 [^56-1]: Second sentence amended by Annex of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
@@ -857,7 +858,7 @@ Unless a more serious offence has been committed under the Criminal Code[^62-1],
 
 <sup>3</sup> If the act is committed through negligence, the penalty shall be a monetary penalty not exceeding 180 daily penalty units.
 
-[^62-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^62-2]: Amended by Annex No 2 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-3]: Inserted by Annex No 2 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-4]: Amended by Annex No I 27 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -887,7 +888,7 @@ Any person who wilfully or negligently:
 
 <sup>3</sup> The competent authorities shall inform the FOPH of all judgments passed in accordance with Article 62 paragraph 1 letters b–c<sup>bis</sup> or Article 63 paragraph 1 letter c on account of an offence involving the human body or parts thereof.[^64-2]
 
-[^64-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^64-2]: Inserted by Annex No 2 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## Chapter 12 Final Provisions
@@ -902,7 +903,7 @@ Any person who wilfully or negligently:
 
 In doing so, it shall consider the different extents to which individual research areas and methods involve risks to dignity and privacy, in particular when specifying:
 
-- a. the scientific requirements (Art. 10);
+- the scientific requirements (Art. 10);
 - b. any exemptions from liability (Art. 19) and liability coverage requirements (Art. 20);
 - c. the requirements for insurance and other forms of coverage (Art. 20);
 - d. the procedural requirements (Art. 49).

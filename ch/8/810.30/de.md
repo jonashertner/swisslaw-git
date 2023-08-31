@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2011 über die Forschung am Menschen (Hum
 short: HFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230901-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/de"
 
 (Humanforschungsgesetz, HFG)
 
-vom 30. September 2011 (Stand am 1. Juli 2023)
+vom 30. September 2011 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 118*b* Absatz 1 der Bundesverfassung[^ingress-1], nach Ein
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -68,7 +68,7 @@ Es ist nicht anwendbar auf Forschung:
 - b. mit anonymisiertem biologischem Material;
 - c. mit anonym erhobenen und anonymisierten gesundheitsbezogenen Daten.
 
-[^2-1]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^2-1]: [SR 810.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9253)
 
 #### Art. 2a
 
@@ -83,7 +83,7 @@ Der Bundesrat kann nach Anhörung der Eidgenössischen Kommission für genetisch
 - e. Durchführung von genetischen Untersuchungen und Umgang mit genetischen Daten bei Arbeits- und Versicherungsverhältnissen sowie in Haftpflichtfällen.
 
 [^2a-1]: Eingefügt durch Anhang Ziff. II 3 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^2a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^2a-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 3
 
@@ -274,9 +274,9 @@ Ausnahmsweise darf die betroffene Person über einzelne Punkte eines Forschungsp
 
 <sup>3</sup> Im Übrigen gelten die Bestimmungen des Obligationenrechts über die unerlaubten Handlungen; bei der Ausübung einer amtlichen Tätigkeit gilt das Verantwortlichkeitsgesetz vom 14. März 1958[^19-3] beziehungsweise das kantonale Staatshaftungsrecht.
 
-[^19-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^19-2]: Fassung gemäss Anhang Ziff. 17 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^19-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-3]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 20
 
@@ -507,7 +507,7 @@ Der Bundesrat regelt die Anforderungen an die korrekte und sichere Anonymisierun
 
 <sup>4</sup> Forschung an verstorbenen Personen, deren Tod vor mehr als 70 Jahren eintrat, darf ohne Einwilligung nach Absatz 2 durchgeführt werden. Wenden sich die nächsten Angehörigen gegen diese Forschung, so darf sie nicht durchgeführt werden.
 
-[^36-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^36-1]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 #### Art. 37
 
@@ -564,9 +564,10 @@ Biologisches Material oder gesundheitsbezogene Personendaten, die zu Forschungsz
 
 <sup>1</sup> Biologisches Material oder genetische Daten dürfen zu Forschungszwecken ins Ausland ausgeführt werden, wenn die betroffene Person nach hinreichender Aufklärung eingewilligt hat. Für die Einwilligung gelten die Artikel 16 und 22–24 sowie 32 sinngemäss.
 
-<sup>2</sup> Nichtgenetische gesundheitsbezogene Personendaten dürfen zu Forschungszwecken ins Ausland bekanntgegeben werden, wenn die Anforderungen von Artikel 6 des Bundesgesetzes vom 19. Juni 1992[^42-1] über den Datenschutz erfüllt sind.
+<sup>2</sup> Nichtgenetische gesundheitsbezogene Personendaten dürfen zu Forschungszwecken ins Ausland bekannt gegeben werden, wenn die Anforderungen der Artikel 16 und 17 des Datenschutzgesetzes vom 25. September 2020[^42-1] erfüllt sind.[^42-2]
 
-[^42-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^42-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^42-2]: Fassung gemäss Anhang 1 Ziff. II 70 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 43
 
@@ -855,7 +856,7 @@ Sofern keine schwerere strafbare Handlung nach dem Strafgesetzbuch[^62-1] vorlie
 
 <sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.
 
-[^62-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^62-2]: Fassung gemäss Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-3]: Eingefügt durch Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-4]: Fassung gemäss Ziff. I 27 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -885,7 +886,7 @@ Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig:
 
 <sup>3</sup> Die zuständigen Behörden teilen dem BAG sämtliche Urteile mit, die nach Artikel 62 Absatz 1 Buchstaben b–c<sup>bis</sup> oder 63 Absatz 1 Buchstabe c aufgrund einer strafbaren Handlung mit dem menschlichen Körper oder dessen Teilen ergangen sind.[^64-2]
 
-[^64-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^64-2]: Eingefügt durch Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## 12. Kapitel: Schlussbestimmungen
