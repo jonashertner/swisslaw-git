@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2011 sur l'encouragement du sport et de l'acti
 short: LESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/fr"
 
 (Loi sur l’encouragement du sport, LESp)[^t-1]
 
-du 17 juin 2011 (État le 1<sup>er</sup> juillet 2023)
+du 17 juin 2011 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -287,12 +287,14 @@ Sont habilités à réaliser des contrôles antidopage:
 
 <sup>3</sup>
 
-Les organes visés à l’al. 2 sont habilités à traiter les données qu’ils recueillent dans le cadre de leurs activités de contrôle, y compris les données sensibles et les profils de la personnalité, et à les transmettre à l’autorité compétente dans les buts suivants:
+Les organes visés à l’al. 2 sont habilités à traiter les données qu’ils recueillent dans le cadre de leurs activités de contrôle, y compris les données sensibles, et à les transmettre à l’autorité compétente dans les buts suivants:[^21-1]
 
 - a. évaluer les contrôles;
 - b. sanctionner les athlètes qui se dopent.
 
 <sup>4</sup> Les organes visés à l’al. 2, let. b et c, communiquent les résultats de leurs contrôles à l’autorité compétente en matière de lutte contre le dopage (art. 19).
+
+[^21-1]: Nouvelle teneur selon l’annexe 1 ch. II 33 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
@@ -346,7 +348,7 @@ Les autorités judiciaires et les autorités de poursuite pénale compétentes i
 
 <sup>1</sup>
 
-L’autorité compétente en matière de lutte contre le dopage (art. 19) est habilitée à échanger des données personnelles, y compris des données sensibles et des profils de la personnalité, avec des organes de lutte contre le dopage étrangers ou internationaux reconnus lorsque l’échange est nécessaire aux actes suivants:
+L’autorité compétente en matière de lutte contre le dopage (art. 19) est habilitée à échanger des données personnelles, y compris des données sensibles, avec des organes de lutte contre le dopage étrangers ou internationaux reconnus, lorsque l’échange est nécessaire aux actes suivants:[^25-1]
 
 - a. élaborer des requêtes médicales et délivrer des autorisations médicales à l’intention d’un athlète;
 - b. planifier, coordonner et réaliser des contrôles antidopage sur un athlète;
@@ -361,7 +363,11 @@ Dans les cas visés à l’al. 1, let. b, seules les données suivantes peuvent 
 - a. l’identité;
 - b. les indications nécessaires, notamment médicales et géographiques, pour réaliser les contrôles antidopage conformément aux normes internationales.
 
-<sup>4</sup> L’autorité compétente en matière de lutte contre le dopage (art. 19) veille à ce que les données qu’elle communique ne soient pas transmises à des tiers non autorisés. Elle refuse de transmettre les données lorsque des droits de la personnalité sont menacés, en particulier lorsque le destinataire n’assure pas un niveau de protection des données adéquat.
+<sup>4</sup> L’autorité compétente en matière de lutte contre le dopage (art. 19) veille à ce que les données qu’elle communique ne soient pas transmises à des tiers non autorisés. Les art. 16 et 17 de la loi fédérale du 25 septembre 2020 sur la protection des données[^25-2] s’appliquent pour le surplus.[^25-3]
+
+[^25-1]: Nouvelle teneur selon l’annexe 1 ch. II 33 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^25-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-3]: Nouvelle teneur selon l’annexe 1 ch. II 33 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 3 Mesures contre la manipulation des compétitions
 

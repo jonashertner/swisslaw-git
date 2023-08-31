@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2011 sulla promozione dello sport e dell'at
 short: LPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230901-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/it"
 
 (Legge sulla promozione dello sport, LPSpo)
 
-del 17 giugno 2011 (Stato 1° luglio 2023)
+del 17 giugno 2011 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -285,12 +285,14 @@ Possono eseguire controlli antidoping:
 
 <sup>3</sup>
 
-Gli organi di controllo antidoping di cui al capoverso 2 sono autorizzati a trattare i dati personali rilevati in relazione alla propria attività di controllo, compresi i dati personali degni di particolare protezione e i profili della personalità, e a trasmetterli all’organo competente per:
+Gli organi di controllo antidoping di cui al capoverso 2 sono autorizzati a trattare i dati personali rilevati in relazione alla propria attività di controllo, compresi i dati personali degni di particolare protezione, e a trasmetterli all’organo competente per:[^21-1]
 
 - a. valutare i controlli;
 - b. pronunciare una sanzione contro gli sportivi che praticano il doping.
 
 <sup>4</sup> Gli organi di controllo antidoping di cui al capoverso 2 lettere b e c comunicano i risultati dei loro controlli all’organo competente per le misure antidoping di cui all’articolo 19.
+
+[^21-1]: Nuovo testo giusta l’all. 1 n. II 33 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
@@ -344,7 +346,7 @@ Le competenti autorità di perseguimento penale e giudiziarie informano l’orga
 
 <sup>1</sup>
 
-L’organo competente per le misure antidoping di cui all’articolo 19 è autorizzato, ai fini della lotta contro il doping, a scambiare dati personali, compresi dati personali degni di particolare protezione e profili della personalità, con organi antidoping esteri o internazionali riconosciuti, se tale scambio di dati è necessario per:
+L’organo competente per le misure antidoping di cui all’articolo 19 è autorizzato, ai fini della lotta contro il doping, a scambiare dati personali, compresi dati personali degni di particolare protezione, con organi antidoping esteri o internazionali riconosciuti, se tale scambio di dati è necessario per:[^25-1]
 
 - a. trattare richieste mediche e rilasciare autorizzazioni mediche per uno sportivo;
 - b. pianificare, coordinare ed eseguire controlli antidoping su uno sportivo;
@@ -359,7 +361,11 @@ Nei casi di cui al capoverso 1 lettera b possono essere comunicati soltanto i da
 - a. le generalità;
 - b. le indicazioni mediche e geografiche necessarie affinché i controlli antidoping possano svolgersi conformemente alle norme internazionali.
 
-<sup>4</sup> L’organo competente per le misure antidoping di cui all’articolo 19 provvede affinché i dati da esso trasmessi non vengano inoltrati a terzi non autorizzati. Rifiuta di comunicare i dati se teme una violazione dei diritti della personalità, in particolare se l’organo ricevente non può garantire una protezione adeguata di tali dati.
+<sup>4</sup> L’organo competente per le misure antidoping di cui all’articolo 19 provvede affinché i dati personali da esso trasmessi non vengano inoltrati a terzi non autorizzati. Per il rimanente si applicano gli articoli 16 e 17 della legge federale del 25 settembre 2020[^25-2] sulla protezione dei dati.[^25-3]
+
+[^25-1]: Nuovo testo giusta l’all. 1 n. II 33 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^25-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-3]: Nuovo testo giusta l’all. 1 n. II 33 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 3: Misure contro la manipolazione di competizioni
 

@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2011 davart la promoziun dal sport 
 short: LPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: rm
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230901-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha per promover il sport, LPSpo)
 
-dals 17 da zercladur 2011 (versiun dal 1. da fanadur 2023)
+dals 17 da zercladur 2011 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -287,12 +287,14 @@ Controllas da doping pon far:
 
 <sup>3</sup>
 
-Las autoritads da controlla da doping tenor l’alinea 2 han il dretg d’elavurar las datas persunalas ch’ellas registreschan en connex cun lur activitad da controlla, inclusiv las datas persunalas spezialmain sensiblas ed ils profils da persunalitad, e da las transmetter al post cumpetent per:
+Las autoritads da controlla da doping tenor l’alinea 2 han il dretg d’elavurar las datas persunalas ch’ellas registreschan en connex cun lur activitad da controlla, inclusiv las datas persunalas spezialmain sensiblas, e da las transmetter al post cumpetent per:[^21-1]
 
 - a. evaluar las controllas;
 - b. sancziunar ils sportists che fan doping.
 
 <sup>4</sup> Las autoritads da controlla da doping tenor l’alinea 2 literas b e c communitgeschan ils resultats da lur controllas al post cumpetent per mesiras cunter doping tenor l’artitgel 19.
+
+[^21-1]: Versiun tenor la cifra II 33 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
@@ -346,7 +348,7 @@ Las autoritads da persecuziun penala e las autoritads giudizialas cumpetentas in
 
 <sup>1</sup>
 
-Cun l’intent da cumbatter cunter doping ha il post cumpetent per mesiras cunter doping tenor l’artitgel 19 il dretg da barattar las datas persunalas, inclusiv las datas persunalas spezialmain sensiblas ed ils profils da persunalitad, cun posts da cumbat cunter doping esters u internaziunals renconuschids, sch’in tal barat da datas è necessari:
+Cun l’intent da cumbatter cunter doping ha il post cumpetent per mesiras cunter doping tenor l’artitgel 19 il dretg da barattar las datas persunalas, inclusiv las datas persunalas spezialmain sensiblas, cun posts da cumbat cunter doping esters u internaziunals renconuschids, sch’in tal barat da datas è necessari:[^25-1]
 
 - a. per elavurar dumondas medicinalas e per emetter permissiuns medicinalas a favur d’in sportist;
 - b. per planisar, per coordinar e per realisar controllas da doping tar in sportist;
@@ -361,7 +363,11 @@ En ils cas tenor l’alinea 1 litera b dastgan vegnir communitgadas mo las suand
 - a. persunalias;
 - b. las infurmaziuns necessarias medicinalas e geograficas per pudair realisar las controllas da doping tenor standards internaziunals.
 
-<sup>4</sup> Il post cumpetent per mesiras cunter doping tenor l’artitgel 19 sto procurar che las datas ch’el ha communitgà na vegnian betg dadas vinavant a terzs betg autorisads. El refusa da communitgar las datas, sch’i smanatscha ina violaziun dals dretgs persunals, particularmain sch’il post che survegn las datas na po betg garantir ina protecziun adequata da quellas.
+<sup>4</sup> Il post cumpetent per mesiras cunter doping tenor l’artitgel 19 sto procurar che las datas persunalas ch’el ha communitgà na vegnian betg dadas vinavant a terzs betg autorisads. Dal rest èn applitgabels ils artitgels 16 e 17 da la Lescha federala dals 25 da settember 2020[^25-2] davart la protecziun da datas.[^25-3]
+
+[^25-1]: Versiun tenor la cifra II 33 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^25-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-3]: Versiun tenor la cifra II 33 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. secziun Mesiras cunter la manipulaziun da concurrenzas
 

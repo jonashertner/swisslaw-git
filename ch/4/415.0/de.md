@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2011 über die Förderung von Sport und Bewegu
 short: SpoFöG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/de"
 
 (Sportförderungsgesetz, SpoFöG)
 
-vom 17. Juni 2011 (Stand am 1. Juli 2023)
+vom 17. Juni 2011 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -285,12 +285,14 @@ Dopingkontrollen können durchführen:
 
 <sup>3</sup>
 
-Die Dopingkontrollstellen nach Absatz 2 sind berechtigt, die im Zusammenhang mit ihrer Kontrolltätigkeit erhobenen Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, zu bearbeiten und an die zuständige Stelle weiterzuleiten für:
+Die Dopingkontrollstellen nach Absatz 2 sind berechtigt, die im Zusammenhang mit ihrer Kontrolltätigkeit erhobenen Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten und an die zuständige Stelle weiterzuleiten für:[^21-1]
 
 - a. die Auswertung der Kontrollen;
 - b. die Sanktionierung der dopenden Sportlerinnen und Sportler.
 
 <sup>4</sup> Die Dopingkontrollstellen nach Absatz 2 Buchstaben b und c teilen die Ergebnisse ihrer Kontrollen der nach Artikel 19 für Massnahmen gegen Doping zuständigen Stelle mit.
+
+[^21-1]: Fassung gemäss Anhang 1 Ziff. II 33 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
@@ -344,7 +346,7 @@ Die zuständigen Strafverfolgungs- und Gerichtsbehörden informieren die nach Ar
 
 <sup>1</sup>
 
-Die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle ist berechtigt, Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, zum Zweck der Dopingbekämpfung mit anerkannten ausländischen oder internationalen Dopingbekämpfungsstellen auszutauschen, wenn ein solcher Datenaustausch notwendig ist:
+Die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle ist berechtigt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zum Zweck der Dopingbekämpfung mit anerkannten ausländischen oder internationalen Dopingbekämpfungsstellen auszutauschen, wenn ein solcher Datenaustausch notwendig ist:[^25-1]
 
 - a. zur Bearbeitung von medizinischen Anträgen und zur Ausstellung von medizinischen Bewilligungen für eine Sportlerin oder einen Sportler;
 - b. zur Planung, zur Koordination und zur Durchführung von Dopingkontrollen bei einer Sportlerin oder einem Sportler;
@@ -359,7 +361,11 @@ In den Fällen nach Absatz 1 Buchstabe b dürfen nur die folgenden Daten weiterg
 - a. Personalien;
 - b. die notwendigen sachlichen und örtlichen Hinweise, damit Dopingkontrollen nach internationalen Standards durchgeführt werden können.
 
-<sup>4</sup> Die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle hat dafür zu sorgen, dass die von ihr übermittelten Daten nicht an unberechtigte Dritte weitergegeben werden. Sie verweigert die Datenweitergabe, wenn eine Verletzung von Persönlichkeitsrechten droht, insbesondere wenn die Stelle, die die Daten erhält, keinen angemessenen Schutz der Daten gewährleisten kann.
+<sup>4</sup> Die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle hat dafür zu sorgen, dass die von ihr übermittelten Personendaten nicht an unberechtigte Dritte weitergegeben werden. Im Übrigen sind die Artikel 16 und 17 des Datenschutzgesetzes vom 25. September 2020[^25-2] anwendbar.[^25-3]
+
+[^25-1]: Fassung gemäss Anhang 1 Ziff. II 33 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^25-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-3]: Fassung gemäss Anhang 1 Ziff. II 33 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Abschnitt: Massnahmen gegen Wettkampfmanipulation
 

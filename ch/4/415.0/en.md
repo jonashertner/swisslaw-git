@@ -4,11 +4,11 @@ title: "Federal Act of 17 June 2011 on the Prommotion of Sport and Exercise (Spo
 short: SpoPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230901-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Sport Promotion Act, SpoPA)
 
-of 17 June 2011 (Status as of 1 July 2023)
+of 17 June 2011 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation, based on Article 68 of the Federal Constitution[^ingress-1], having considered the Federal Council Dispatch of 11 November 2009[^ingress-2],
 
@@ -285,12 +285,14 @@ Doping controls may be carried out by:
 
 <sup>3</sup>
 
-The doping control agencies listed in paragraph 2 are entitled to process the personal data collected in connection with their control activities, including sensitive personal data and personality profiles, and to pass it on to the relevant agency for the purposes of:
+The doping control agencies listed in paragraph 2 are entitled to process the personal data collected in connection with their control activities, including sensitive personal data, and to pass it on to the relevant agency for the purposes of:[^21-1]
 
 - a. evaluating controls;
 - b. sanctioning athletes found to have engaged in doping.
 
 <sup>4</sup> The doping control agencies listed in paragraph 2 letters b and c share the results of their controls with the national anti-doping agency established under Article 19.
+
+[^21-1]: Amended by Annex 1 No II 33 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
@@ -344,7 +346,7 @@ The responsible prosecution and judicial authorities shall inform the anti-dopin
 
 <sup>1</sup>
 
-The anti-doping agency established under Article 19 is entitled to exchange with recognised foreign or international anti-doping agencies for the purpose of combating doping personal data, including sensitive personal data and personality profiles, if such an exchange of data is necessary:
+The anti-doping agency established under Article 19 is entitled to exchange with recognised foreign or international anti-doping agencies for the purpose of combating doping personal data, including sensitive personal data, if such an exchange of data is necessary:[^25-1]
 
 - a. to process medical applications and issue medical exemptions for athletes;
 - b. to plan, coordinate and conduct doping controls on athletes;
@@ -359,7 +361,11 @@ In the cases under paragraph 1 letter b, only the following data may be transmit
 - a. personal details;
 - b. practical details and the athlete’s whereabouts, so that doping controls can be carried out in accordance with international standards.
 
-<sup>4</sup> The anti-doping agency established under Article 19 must ensure that the data it transmits is not passed on to unauthorised third parties. It may refuse to transmit data if it suspects that rights to personal privacy may be violated, in particular if the agency receiving the data cannot afford appropriate data protection.
+<sup>4</sup> The anti-doping agency established under Article 19 must ensure that the personal data that it transmits is not passed on to unauthorised third parties. Furthermore, Articles 16 and 17 of the Data Protection Act of 25 September 2023[^25-2] apply.[^25-3]
+
+[^25-1]: Amended by Annex 1 No II 33 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^25-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-3]: Amended by Annex 1 No II 33 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 3 Measures to combat Competition Rigging
 
