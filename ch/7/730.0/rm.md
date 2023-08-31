@@ -4,11 +4,11 @@ title: "Lescha dals 30 da settember 2016 d'energia (LEn)"
 short: LEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: rm
-version: 2023-03-15
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230315/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230315-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEn)
 
-dals 30 da settember 2016 (versiun dals 15 da mars 2023)
+dals 30 da settember 2016 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1029,7 +1029,7 @@ Sco custs imputabels valan:
 
 <sup>1</sup>
 
-Las infurmaziuns e las datas persunalas che vegnan duvradas per las retschertgas e per il monitoring tenor l’artitgel 55 sco er per evaluaziuns statisticas ston vegnir furnidas sin dumonda al UFE tras:
+Las infurmaziuns sco er las datas persunalas e las datas da persunas giuridicas che vegnan duvradas per las retschertgas e per il monitoring tenor l’artitgel 55 sco er per evaluaziuns statisticas ston vegnir furnidas sin dumonda al UFE tras:[^56-1]
 
 - a. l’Uffizi federal d’ambient (UFAM);
 - b. l’Uffizi federal da traffic;
@@ -1037,14 +1037,15 @@ Las infurmaziuns e las datas persunalas che vegnan duvradas per las retschertgas
 - d. l’Uffizi federal da svilup dal territori;
 - e. l’Uffizi federal d’aviatica civila;
 - f. la ElCom;
-- g. la societad naziunala da raits d’electricitad (art. 18 LPrEl[^56-1]);
+- g. la societad naziunala da raits d’electricitad (art. 18 LPrEl[^56-2]);
 - h. l’organ executiv;
 - i. las interpresas dal provediment d’energia;
 - j. ils chantuns e las vischnancas.
 
 <sup>2</sup> Il Cussegl federal fixescha las infurmaziuns e las datas necessarias.
 
-[^56-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^56-1]: Versiun tenor la cifra II 56 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^56-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 #### Art. 57
 
@@ -1056,21 +1057,25 @@ Las infurmaziuns e las datas persunalas che vegnan duvradas per las retschertgas
 
 #### Art. 58
 
-**Elavuraziun da datas persunalas**
+**Elavuraziuns da datas persunalas e da datas da persunas giuridicas[^58-1]**
 
-<sup>1</sup> En il rom da l’intent da questa lescha pon las autoritads federalas cumpetentas e l’organ executiv tenor l’artitgel 64 elavurar datas persunalas, inclusiv datas ch’èn spezialmain degnas da vegnir protegidas davart sancziuns e las proceduras correspundentas.
+<sup>1</sup> En il rom da l’intent da questa lescha pon las autoritads federalas cumpetentas e l’organ executiv tenor l’artitgel 64 elavurar datas persunalas e datas da persunas giuridicas, inclusiv datas spezialmain sensiblas davart sancziuns e davart las proceduras correspundentas.[^58-2]
 
 <sup>2</sup> Els pon tegnair en salv questas datas en furma electronica.
 
-<sup>3</sup> Il Cussegl federal fixescha las datas persunalas che dastgan vegnir elavuradas e quant ditg che quellas dastgan vegnir tegnidas en salv.
+<sup>3</sup> Il Cussegl federal fixescha las datas persunalas e las datas da persunas giuridicas che dastgan vegnir elavuradas e quant ditg che quellas dastgan vegnir tegnidas en salv.[^58-3]
+
+[^58-1]: Versiun tenor la cifra II 56 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-2]: Versiun tenor la cifra II 56 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-3]: Versiun tenor la cifra II 56 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 59
 
-**Communicaziun da datas persunalas**
+**Communicaziun da datas persunalas e da datas da persunas giuridicas[^59-1]**
 
 <sup>1</sup>
 
-Per motivs da la transparenza e da l’infurmaziun dals consuments finals po il Cussegl federal obligar las interpresas da l’economia d’energia da publitgar datas persunalas anonimisadas u da dar vinavant quellas a las autoritads federalas cumpetentas. Ellas pon vegnir obligadas en spezial da publitgar u da dar vinavant las suandantas indicaziuns:
+Per motivs da la transparenza e da l’infurmaziun dals consuments finals po il Cussegl federal obligar las interpresas da l’economia d’energia da publitgar datas persunalas e datas da persunas giuridicas en furma anonimisada u da dar vinavant quellas a las autoritads federalas cumpetentas. Ellas pon vegnir obligadas en spezial da publitgar u da dar vinavant las suandantas indicaziuns:[^59-2]
 
 - a. il consum d’electricitad ed il consum da chalur da tut la clientella u da singulas gruppas da clients;
 - b. las purschidas en il sectur da las energias regenerablas e da l’utilisaziun spargnusa ed effizienta da l’energia;
@@ -1078,10 +1083,14 @@ Per motivs da la transparenza e da l’infurmaziun dals consuments finals po il 
 
 <sup>2</sup>
 
-Las autoritads federalas cumpetentas pon publitgar questas datas persunalas anonimisadas en furma adattada, sche:
+Las autoritads federalas cumpetentas pon publitgar en furma adattada las datas anonimisadas tenor l’alinea 1, sche:[^59-3]
 
 - a. quai correspunda ad in interess public; e
 - b. las datas na cuntegnan ni secrets da fatschenta ni secrets da fabricaziun.
+
+[^59-1]: Versiun tenor la cifra II 56 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-2]: Versiun tenor la cifra II 56 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-3]: Versiun tenor la cifra II 56 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 12. chapitel Execuziun, cumpetenzas e procedura
 
@@ -1270,10 +1279,10 @@ Cun ina multa fin a 100 000 francs vegn chastià, tgi che fa intenziunadamain il
 
 <sup>1</sup>
 
-Fin che l’installaziun d’implants fotovoltaics gronds tenor l’alinea 2 permetta da producir en Svizra tut en tut 2 TWh per onn, valan las suandantas cundiziuns per tals implants sco er per lur conducts d’attatg:[^71a-2]
+Fin che l’installaziun d’implants fotovoltaics gronds tenor l’alinea 2 permetta da producir en Svizra tut en tut 2 TWh per onn, valan las suandantas cundiziuns per tals implants sco er per lur conducts d’attatg:
 
 - a. lur basegn è cumprovà;
-- b. els èn d’in interess naziunal ed èn liads al lieu; en cas d’implants en objects tenor l’artitgel 5 LPNP[^71a-3] resta en vigur l’obligaziun da schanegiar uschè bain sco pussaivel l’object, e quai cun prender mesiras da restabiliment u da cumpensaziun, sch’i vegn divergià dal princip d’in mantegniment intact;
+- b. els èn d’in interess naziunal ed èn liads al lieu; en cas d’implants en objects tenor l’artitgel 5 LPNP[^71a-2] resta en vigur l’obligaziun da schanegiar uschè bain sco pussaivel l’object, e quai cun prender mesiras da restabiliment u da cumpensaziun, sch’i vegn divergià dal princip d’in mantegniment intact;
 - c. els n’èn betg suttamess a l’obligaziun da planisaziun;
 - d. l’interess d’als realisar ha da princip la precedenza envers auters interess naziunals, regiunals e locals;
 - e.
@@ -1282,7 +1291,7 @@ Fin che l’installaziun d’implants fotovoltaics gronds tenor l’alinea 2 per
 
   - 1\. palids e cuntradas da palì tenor l’artitgel 78 alinea 5 da la Constituziun federala,
   - 2\. biotops d’impurtanza naziunala tenor l’artitgel 18*a* LPNP, e
-  - 3\. en reservats d’utschels da l’aua e d’utschels migrants tenor l’artitgel 11 da la Lescha da chatscha dals 20 da zercladur 1986[^71a-4].
+  - 3\. en reservats d’utschels da l’aua e d’utschels migrants tenor l’artitgel 11 da la Lescha da chatscha dals 20 da zercladur 1986[^71a-3].
 
 <sup>2</sup>
 
@@ -1300,9 +1309,8 @@ Ils implants fotovoltaics gronds ston ademplir las suandantas premissas:
 <sup>6</sup> Quest artitgel resta applitgabel per dumondas che vegnan exponidas publicamain fin ils 31 da december 2025 sco er per eventualas proceduras da recurs.
 
 [^71a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 14 da mars 2023, publitgada ils 15 da mars 2023, concerna mo il text talian ([AS 2023 129](https://fedlex.data.admin.ch/eli/oc/2023/129)).
-[^71a-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-4]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 71b
 

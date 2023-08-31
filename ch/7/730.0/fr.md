@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2023-03-15
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230315/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230315-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230901-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (État le 15 mars 2023)
+du 30 septembre 2016 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -678,7 +678,7 @@ Le supplément permet de financer:
 
 [^35-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^35-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^35-3]: Introduite par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-3]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 [^35-4]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^35-5]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
@@ -1028,7 +1028,7 @@ Sont réputés coûts imputables:
 
 <sup>1</sup>
 
-Les informations et données personnelles nécessaires aux analyses et au suivi visés à l’art. 55 ainsi qu’aux fins d’évaluation statistique sont fournies à l’OFEN, à sa demande, par les services suivants:
+Les informations, les données personnelles et les données concernant des personnes morales nécessaires aux analyses et au suivi visés à l’art. 55 ainsi qu’aux fins d’évaluation statistique sont fournies à l’OFEN, à sa demande, par les services suivants:[^56-1]
 
 - a. l’Office fédéral de l’environnement (OFEV);
 - b. l’Office fédéral des transports;
@@ -1036,14 +1036,15 @@ Les informations et données personnelles nécessaires aux analyses et au suivi 
 - d. l’Office fédéral du développement territorial;
 - e. l’Office fédéral de l’aviation civile;
 - f. l’ElCom;
-- g. la société nationale du réseau de transport (art. 18 LApEl[^56-1]);
+- g. la société nationale du réseau de transport (art. 18 LApEl[^56-2]);
 - h. l’organe d’exécution;
 - i. les entreprises d’approvisionnement en énergie;
 - j. les cantons et les communes.
 
 <sup>2</sup> Le Conseil fédéral détermine les informations et données nécessaires.
 
-[^56-1]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^56-1]: Nouvelle teneur selon l’annexe 1 ch. II 56 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^56-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 #### Art. 57
 
@@ -1055,21 +1056,25 @@ Les informations et données personnelles nécessaires aux analyses et au suivi 
 
 #### Art. 58
 
-**Traitement des données personnelles**
+**Traitement des données personnelles et des données concernant des personnes morales[^58-1]**
 
-<sup>1</sup> Dans les limites des objectifs visés par la présente loi, les autorités fédérales concernées et l’organe d’exécution visé à l’art. 64 peuvent traiter des données personnelles, y compris des données sensibles concernant des sanctions et les procédures correspondantes.
+<sup>1</sup> Dans les limites des objectifs visés par la présente loi, les autorités fédérales compétentes et l’organe d’exécution visé à l’art. 64 peuvent traiter des données personnelles et des données concernant des personnes morales, y compris les données sensibles concernant des sanctions et les procédures correspondantes.[^58-2]
 
 <sup>2</sup> Ils peuvent conserver ces données sur support électronique.
 
-<sup>3</sup> Le Conseil fédéral définit les données personnelles dont le traitement est autorisé et en fixe la durée de conservation.
+<sup>3</sup> Le Conseil fédéral définit les données personnelles ainsi que les données concernant des personnes morales dont le traitement est autorisé et en fixe la durée de conservation.[^58-3]
+
+[^58-1]: Nouvelle teneur selon l’annexe 1 ch. II 56 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-2]: Nouvelle teneur selon l’annexe 1 ch. II 56 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-3]: Nouvelle teneur selon l’annexe 1 ch. II 56 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 59
 
-**Communication des données personnelles**
+**Communication de données personnelles et de données concernant les personnes morales[^59-1]**
 
 <sup>1</sup>
 
-Aux fins de transparence et d’information des consommateurs finaux, le Conseil fédéral peut obliger les entreprises de la branche énergétique à publier des données personnelles anonymisées ou à les communiquer aux autorités fédérales compétentes. Cette obligation peut notamment porter sur les données suivantes:
+Aux fins de transparence et d’information des consommateurs finaux, le Conseil fédéral peut obliger les entreprises de la branche énergétique à publier des données personnelles et des données concernant des personnes morales sous une forme anonymisée ou à les communiquer aux autorités fédérales compétentes. Cette obligation peut notamment porter sur les données suivantes:[^59-2]
 
 - a. la consommation électrique et la consommation de chaleur de la totalité des clients ou de certains groupes de clients;
 - b. les offres dans le domaine des énergies renouvelables et de l’utilisation économe et efficace de l’énergie;
@@ -1077,10 +1082,14 @@ Aux fins de transparence et d’information des consommateurs finaux, le Conseil
 
 <sup>2</sup>
 
-Les autorités fédérales compétentes peuvent publier ces données personnelles anonymisées sous une forme adéquate si les conditions suivantes sont réunies:
+Les autorités fédérales compétentes peuvent publier les données anonymisées visées à l’al. 1 sous une forme adéquate si les conditions suivantes sont réunies:[^59-3]
 
 - a. la publication répond à un intérêt public;
 - b. les données ne contiennent ni secrets d’affaires ni secrets de fabrication.
+
+[^59-1]: Nouvelle teneur selon l’annexe 1 ch. II 56 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-2]: Nouvelle teneur selon l’annexe 1 ch. II 56 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-3]: Nouvelle teneur selon l’annexe 1 ch. II 56 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Chapitre 12 Exécution, compétences et procédure
 
@@ -1271,10 +1280,10 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
 <sup>1</sup>
 
-Jusqu’à ce que la construction en Suisse de grandes installations photovoltaïques au sens de l’al. 2 permette une production annuelle totale de 2 TWh, les conditions suivantes s’appliquent à ces installations ainsi qu’à leurs lignes de raccordement:[^71a-2]
+Jusqu’à ce que la construction en Suisse de grandes installations photovoltaïques au sens de l’al. 2 permette une production annuelle totale de 2 TWh, les conditions suivantes s’appliquent à ces installations ainsi qu’à leurs lignes de raccordement:
 
 - a. leur nécessité est démontrée;
-- b. elles sont considérées comme des constructions relevant d’un intérêt national et dont l’implantation est imposée par leur destination; pour les installations situées dans les objets visés à l’art. 5 LPN[^71a-3], l’obligation de ménager l’objet le plus possible, y compris au moyen de mesures de reconstitution ou de remplacement, demeure s’il est dérogé au principe de conservation intacte;
+- b. elles sont considérées comme des constructions relevant d’un intérêt national et dont l’implantation est imposée par leur destination; pour les installations situées dans les objets visés à l’art. 5 LPN[^71a-2], l’obligation de ménager l’objet le plus possible, y compris au moyen de mesures de reconstitution ou de remplacement, demeure s’il est dérogé au principe de conservation intacte;
 - c. elles ne sont pas soumises à l’obligation d’aménager le territoire;
 - d. l’intérêt de les réaliser prime en principe d’autres intérêts nationaux, régionaux et locaux;
 - e.
@@ -1283,7 +1292,7 @@ Jusqu’à ce que la construction en Suisse de grandes installations photovolta�
 
   - 1\. les marais et les sites marécageux visés à l’art. 78, al. 5, de la Constitution,
   - 2\. les biotopes d’importance nationale visés à l’art. 18*a*, LPN, et
-  - 3\. les réserves de sauvagine et d’oiseaux migrateurs visées à l’art. 11 de la loi du 20 juin 1986 sur la chasse[^71a-4].
+  - 3\. les réserves de sauvagine et d’oiseaux migrateurs visées à l’art. 11 de la loi du 20 juin 1986 sur la chasse[^71a-3].
 
 <sup>2</sup>
 
@@ -1301,9 +1310,8 @@ Les grandes installations photovoltaïques sont celles qui remplissent les exige
 <sup>6</sup> Le présente article reste applicable aux demandes mises à l’enquête publique avant le 31 décembre 2025 ainsi qu’aux éventuelles procédures de recours.
 
 [^71a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: L’erratum de la CdR de l’Ass. féd. du 14 mars 2023, publié le 15 mars 2023, ne concerne que le texte italien ([RO 2023 129](https://fedlex.data.admin.ch/eli/oc/2023/129)).
-[^71a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-4]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 71b
 

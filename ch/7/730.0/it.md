@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2023-03-15
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230315/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230315-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230901-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 15 marzo 2023)
+del 30 settembre 2016 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1028,7 +1028,7 @@ Sono considerati costi computabili:
 
 <sup>1</sup>
 
-Le informazioni e i dati personali necessari per la verifica e il monitoraggio di cui all’articolo 55 nonché per valutazioni statistiche sono forniti all’UFE, su richiesta, da:
+Le informazioni, i dati personali e i dati concernenti persone giuridiche necessari per la verifica e il monitoraggio di cui all’articolo 55 nonché per valutazioni statistiche sono forniti all’UFE, su richiesta, da:[^56-1]
 
 - a. l’Ufficio federale dell’ambiente (UFAM);
 - b. l’Ufficio federale dei trasporti;
@@ -1036,14 +1036,15 @@ Le informazioni e i dati personali necessari per la verifica e il monitoraggio d
 - d. l’Ufficio federale dello sviluppo territoriale;
 - e. l’Ufficio federale dell’aviazione civile;
 - f. la ElCom;
-- g. la società nazionale di rete (art. 18 LAEl[^56-1]);
+- g. la società nazionale di rete (art. 18 LAEl[^56-2]);
 - h. l’organo d’esecuzione;
 - i. le imprese di approvvigionamento energetico;
 - j. i Cantoni e i Comuni.
 
 <sup>2</sup> Il Consiglio federale stabilisce le informazioni e i dati necessari.
 
-[^56-1]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^56-1]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^56-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 #### Art. 57
 
@@ -1055,21 +1056,25 @@ Le informazioni e i dati personali necessari per la verifica e il monitoraggio d
 
 #### Art. 58
 
-**Trattamento di dati personali**
+**Trattamento di dati personali e di dati concernenti persone giuridiche[^58-1]**
 
-<sup>1</sup> Le autorità federali competenti e l’organo d’esecuzione di cui all’articolo 64 possono, nell’ambito degli scopi della presente legge, trattare dati personali, compresi dati personali degni di particolare protezione concernenti sanzioni e le corrispondenti procedure.
+<sup>1</sup> Le autorità federali competenti e l’organo d’esecuzione di cui all’articolo 64 possono, nell’ambito degli scopi della presente legge, trattare dati personali e dati concernenti persone giuridiche, compresi dati personali degni di particolare protezione concernenti sanzioni e le corrispondenti procedure.[^58-2]
 
 <sup>2</sup> Possono conservare questi dati in forma elettronica.
 
-<sup>3</sup> Il Consiglio federale stabilisce i dati personali che possono essere trattati e per quanto tempo devono essere conservati.
+<sup>3</sup> Il Consiglio federale stabilisce i dati personali e i dati concernenti persone giuridiche che possono essere trattati e per quanto tempo devono essere conservati.[^58-3]
+
+[^58-1]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-2]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-3]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 59
 
-**Divulgazione di dati personali**
+**Divulgazione di dati personali e di dati concernenti persone giuridiche[^59-1]**
 
 <sup>1</sup>
 
-Ai fini della trasparenza e dell’informazione dei consumatori finali, il Consiglio federale può obbligare le imprese del settore energetico a pubblicare dati personali anonimizzati o a trasmetterli alle autorità federali competenti. L’obbligo di pubblicazione e trasmissione può riguardare in particolare le seguenti informazioni:
+Ai fini della trasparenza e dell’informazione dei consumatori finali, il Consiglio federale può obbligare le imprese del settore energetico a pubblicare in forma anonimizzata dati personali e dati concernenti persone giuridiche o a trasmetterli alle autorità federali competenti. L’obbligo di pubblicazione e trasmissione può riguardare in particolare le seguenti informazioni:[^59-2]
 
 - a. consumo di energia elettrica e consumo di calore di tutti i clienti o di singoli gruppi di clienti;
 - b. offerte in materia di energie rinnovabili e dell’impiego parsimonioso ed efficiente dell’energia;
@@ -1077,10 +1082,14 @@ Ai fini della trasparenza e dell’informazione dei consumatori finali, il Consi
 
 <sup>2</sup>
 
-Le autorità federali competenti possono pubblicare in forma adeguata tali dati personali anonimizzati se:
+Le autorità federali competenti possono pubblicare in forma adeguata i dati anonimizzati di cui al capoverso 1 se:[^59-3]
 
 - a. questo corrisponde a un interesse pubblico; e
 - b. i dati non contengono segreti d’affari né di fabbricazione.
+
+[^59-1]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-2]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-3]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Capitolo 12: Esecuzione, competenze e procedura
 
@@ -1430,7 +1439,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore:[^77-1] 1° gennaio 2018
+Data dell’entrata in vigore: 1° gennaio 2018[^77-1]
 
 [^77-1]: DCF del 1° nov. 2017.
 

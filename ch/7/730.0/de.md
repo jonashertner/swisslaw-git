@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2023-03-15
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230315/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230315-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230901-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 15. März 2023)
+vom 30. September 2016 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -272,7 +272,7 @@ Der Bundesrat kann Bestimmungen erlassen, insbesondere:
 
 [^18-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
-## 4. Kapitel:Vergütung der Einspeisung von Elektrizität aus erneuerbaren Energien (Einspeisevergütungssystem)
+## 4. Kapitel: Vergütung der Einspeisung von Elektrizität aus erneuerbaren Energien (Einspeisevergütungssystem)
 
 #### Art. 19
 
@@ -724,7 +724,7 @@ Beim Einsatz der Mittel für die einzelnen Verwendungen sind die folgenden Höch
 
 <sup>6</sup> Über die Einlagen und Entnahmen sowie den Stand des Fondsvermögens ist jährlich ein Bericht zu erstellen.
 
-[^37-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^37-1]: SR **611.0**
 
 #### Art. 38
 
@@ -1027,7 +1027,7 @@ Als anrechenbare Kosten gelten:
 
 <sup>1</sup>
 
-Die für die Untersuchungen und das Monitoring nach Artikel 55 sowie für statistische Auswertungen benötigten Informationen und Personendaten sind dem BFE auf Anfrage hin zu liefern durch:
+Die für die Untersuchungen und das Monitoring nach Artikel 55 sowie für statistische Auswertungen benötigten Informationen und Personendaten sowie Daten juristischer Personen sind dem BFE auf Anfrage hin zu liefern durch:[^56-1]
 
 - a. das Bundesamt für Umwelt (BAFU);
 - b. das Bundesamt für Verkehr;
@@ -1035,14 +1035,15 @@ Die für die Untersuchungen und das Monitoring nach Artikel 55 sowie für statis
 - d. das Bundesamt für Raumentwicklung;
 - e. das Bundesamt für Zivilluftfahrt;
 - f. die ElCom;
-- g. die nationale Netzgesellschaft (Art. 18 StromVG[^56-1]);
+- g. die nationale Netzgesellschaft (Art. 18 StromVG[^56-2]);
 - h. die Vollzugsstelle;
 - i. die Unternehmen der Energieversorgung;
 - j. die Kantone und Gemeinden.
 
 <sup>2</sup> Der Bundesrat legt die notwendigen Informationen und Daten fest.
 
-[^56-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^56-1]: Fassung gemäss Anhang 1 Ziff. II 56 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^56-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 #### Art. 57
 
@@ -1054,21 +1055,25 @@ Die für die Untersuchungen und das Monitoring nach Artikel 55 sowie für statis
 
 #### Art. 58
 
-**Bearbeitung von Personendaten**
+**Bearbeitungen von Personendaten und von Daten juristischer Personen[^58-1]**
 
-<sup>1</sup> Die zuständigen Bundesbehörden und die Vollzugsstelle nach Artikel 64 können im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten, einschliesslich besonders schützenswerter Daten über Sanktionen und die entsprechenden Verfahren, bearbeiten.
+<sup>1</sup> Die zuständigen Bundesbehörden und die Vollzugsstelle nach Artikel 64 können im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten und Daten juristischer Personen, einschliesslich besonders schützenswerter Daten über Sanktionen und die entsprechenden Verfahren, bearbeiten.[^58-2]
 
 <sup>2</sup> Sie können diese Daten elektronisch aufbewahren.
 
-<sup>3</sup> Der Bundesrat legt fest, welche Personendaten bearbeitet werden dürfen und wie lange sie aufzubewahren sind.
+<sup>3</sup> Der Bundesrat legt fest, welche Personendaten und Daten juristischer Personen bearbeitet werden dürfen und wie lange sie aufzubewahren sind.[^58-3]
+
+[^58-1]: Fassung gemäss Anhang 1 Ziff. II 56 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-2]: Fassung gemäss Anhang 1 Ziff. II 56 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-3]: Fassung gemäss Anhang 1 Ziff. II 56 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 59
 
-**Bekanntgabe von Personendaten**
+**Bekanntgabe von Personendaten und von Daten juristischer Personen[^59-1]**
 
 <sup>1</sup>
 
-Der Bundesrat kann aus Gründen der Transparenz und der Information der Endverbraucherinnen und -verbraucher die Unternehmen der Energiewirtschaft verpflichten, anonymisierte Personendaten zu veröffentlichen oder den zuständigen Bundesbehörden weiterzugeben. Sie können insbesondere dazu verpflichtet werden, folgende Angaben zu veröffentlichen oder weiterzugeben:
+Der Bundesrat kann aus Gründen der Transparenz und der Information der Endverbraucherinnen und -verbraucher die Unternehmen der Energiewirtschaft verpflichten, Personendaten und Daten juristischer Personen in anonymisierter Form zu veröffentlichen oder den zuständigen Bundesbehörden weiterzugeben. Sie können insbesondere dazu verpflichtet werden, folgende Angaben zu veröffentlichen oder weiterzugeben:[^59-2]
 
 - a. Stromverbrauch und Wärmekonsum der Gesamtheit der Kundinnen und Kunden oder einzelner Kundengruppen;
 - b. Angebote im Bereich der erneuerbaren Energien und der sparsamen und effizienten Energienutzung;
@@ -1076,10 +1081,14 @@ Der Bundesrat kann aus Gründen der Transparenz und der Information der Endverbr
 
 <sup>2</sup>
 
-Die zuständigen Bundesbehörden können diese anonymisierten Personendaten in geeigneter Form veröffentlichen, wenn:
+Die zuständigen Bundesbehörden können die anonymisierten Daten nach Absatz 1 in geeigneter Form veröffentlichen, wenn:[^59-3]
 
 - a. dies einem öffentlichen Interesse entspricht; und
 - b. die Daten weder Geschäfts- noch Fabrikationsgeheimnisse enthalten.
+
+[^59-1]: Fassung gemäss Anhang 1 Ziff. II 56 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-2]: Fassung gemäss Anhang 1 Ziff. II 56 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-3]: Fassung gemäss Anhang 1 Ziff. II 56 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 12. Kapitel: Vollzug, Zuständigkeiten und Verfahren
 
@@ -1268,10 +1277,10 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>1</sup>
 
-Bis die Erstellung von Photovoltaik-Grossanlagen nach Absatz 2 schweizweit eine jährliche Gesamtproduktion von maximal 2 TWh erlaubt, gilt für solche Anlagen, sowie für ihre Anschlussleitungen, dass:[^71a-2]
+Bis die Erstellung von Photovoltaik-Grossanlagen nach Absatz 2 schweizweit eine jährliche Gesamtproduktion von maximal 2 TWh erlaubt, gilt für solche Anlagen, sowie für ihre Anschlussleitungen, dass:
 
 - a. ihr Bedarf ausgewiesen ist;
-- b. sie von nationalem Interesse und standortgebunden sind; bei Anlagen in Objekten nach Artikel 5 NHG[^71a-3] bleibt bei einer Abweichung von der ungeschmälerten Erhaltung die Pflicht zur grösstmöglichen Schonung unter Einbezug von Wiederherstellungs- oder Ersatzmassnahmen bestehen;
+- b. sie von nationalem Interesse und standortgebunden sind; bei Anlagen in Objekten nach Artikel 5 NHG[^71a-2] bleibt bei einer Abweichung von der ungeschmälerten Erhaltung die Pflicht zur grösstmöglichen Schonung unter Einbezug von Wiederherstellungs- oder Ersatzmassnahmen bestehen;
 - c. für sie keine Planungspflicht besteht;
 - d. das Interesse an ihrer Realisierung anderen nationalen, regionalen und lokalen Interessen grundsätzlich vorgeht;
 - e.
@@ -1280,7 +1289,7 @@ Bis die Erstellung von Photovoltaik-Grossanlagen nach Absatz 2 schweizweit eine 
 
   - 1\. Mooren und Moorlandschaften nach Artikel 78 Absatz 5 der Bundesverfassung,
   - 2\. Biotopen von nationaler Bedeutung nach Artikel 18*a* NHG, und
-  - 3\. Wasser- und Zugvogelreservaten nach Artikel 11 des Jagdgesetzes vom 20. Juni 1986[^71a-4].
+  - 3\. Wasser- und Zugvogelreservaten nach Artikel 11 des Jagdgesetzes vom 20. Juni 1986[^71a-3].
 
 <sup>2</sup>
 
@@ -1298,9 +1307,8 @@ Die Photovoltaik-Grossanlagen müssen folgende Voraussetzungen erfüllen:
 <sup>6</sup> Dieser Artikel bleibt auf Gesuche, die bis am 31. Dezember 2025 öffentlich aufgelegt werden, sowie bei allfälligen Beschwerdeverfahren anwendbar.
 
 [^71a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: Die Berichtigung der RedK der BVers vom 14. März 2023, publiziert am 15. März 2023 betrifft nur den italienischen Text ([AS 2023 129](https://fedlex.data.admin.ch/eli/oc/2023/129)).
-[^71a-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-4]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 71b
 
@@ -1355,7 +1363,7 @@ Für Betreiber, denen die Vergütung vor dem Inkrafttreten dieses Gesetzes zuges
 
 **Übergangsbestimmungen zu anderen Netzzuschlags-Verwendungen**
 
-<sup>1</sup> und <sup>2</sup> …[^73-1]
+<sup>1 und 2</sup> …[^73-1]
 
 <sup>3</sup> Wer zwischen dem 1. August 2013 und dem Inkrafttreten dieses Gesetzes einen verbindlichen Grundsatzbescheid betreffend Gewährung einer Bürgschaft zur Risikoabsicherung von Geothermie-Anlagen in der Höhe von 50 Prozent der Investitionskosten erhalten hat, kann beim BFE bis sechs Monate nach Inkrafttreten dieses Gesetzes eine Neubeurteilung des Grundsatzbescheids nach neuem Recht beantragen. Es besteht kein Rechtsanspruch auf Erhöhung der Garantie.
 
