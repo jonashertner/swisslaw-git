@@ -4,11 +4,11 @@ title: Loi du 17 décembre 2010 sur la poste (LPO)
 short: LPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/585"
 language: fr
-version: 2012-10-01
+version: 2023-09-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20121001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-585-20121001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20121001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-585-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20121001/fr"
 
 (LPO)
 
-du 17 décembre 2010 (Etat le 1<sup>er</sup> octobre 2012)
+du 17 décembre 2010 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -402,17 +402,21 @@ Si elle constate une infraction, elle peut:
 
 **Assistance administrative**
 
-<sup>1</sup> La PostCom et les autres autorités chargées de l’exécution de la présente loi transmettent aux autres autorités de la Confédération et des cantons les données dont elles ont besoin pour accomplir les tâches qui leur incombent de par la loi. Cela concerne aussi les données sensibles et les profils de la personnalité acquis au cours de procédures administratives ou de procédures pénales administratives.
+<sup>1</sup> La PostCom et les autres autorités chargées de l’exécution de la présente loi transmettent aux autres autorités de la Confédération et des cantons les données dont celles-ci ont besoin pour accomplir les tâches qui leur incombent de par la loi, y compris les données sensibles acquises au cours de procédures administratives ou de procédures pénales administratives.[^26-1]
 
 <sup>2</sup>
 
-Sous réserve d’accords internationaux comportant des dispositions contraires, la PostCom ne peut transmettre de données à des autorités étrangères chargées de la surveillance dans le domaine postal, y compris des données sensibles et des profils de la personnalité acquis au cours de procédures administratives ou de procédures pénales administratives, qu’aux conditions suivantes:
+Sous réserve d’accords internationaux comportant des dispositions contraires, la PostCom ne peut transmettre des données à des autorités étrangères chargées de la surveillance dans le domaine postal, y compris des données sensibles acquises au cours de procédures administratives ou de procédures pénales administratives, qu’aux conditions suivantes:[^26-2]
 
 - a. les autorités concernées n’utilisent les données transmises qu’à des fins de surveillance des prestataires de services postaux ou d’observation du marché;
 - b. les autorités concernées sont liées par le secret de fonction ou le secret professionnel;
 - c. la PostCom a consenti préalablement à ce que les données soient transmises à d’autres autorités ou organes chargés de tâches de surveillance d’intérêt public, sauf s’il existe une autorisation générale prévue par un traité international.
 
-<sup>3</sup> Les services fédéraux et cantonaux sont tenus de participer aux investigations de la PostCom et de mettre à sa disposition les documents requis. Les données sensibles et les profils de la personnalité acquis au cours de procédures administratives ou de procédures pénales administratives en font partie.
+<sup>3</sup> Les services fédéraux et cantonaux sont tenus de participer aux investigations de la PostCom et de mettre à sa disposition les documents requis. Les données sensibles acquises au cours de procédures administratives ou de procédures pénales administratives en font partie.[^26-3]
+
+[^26-1]: Nouvelle teneur selon l’annexe 1 ch. II 67 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-2]: Nouvelle teneur selon l’annexe 1 ch. II 67 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 67 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27
 
@@ -422,9 +426,11 @@ La PostCom est tenue au secret professionnel et au secret d’affaires.
 
 #### Art. 28
 
-**Traitement des données personnelles**
+**Traitement de données personnelles**[^28-1]
 
-En vue de l’accomplissement de leurs tâches légales, la PostCom et l’organe de conciliation peuvent traiter des profils de la personnalité et des données personnelles, y compris des données sensibles concernant des poursuites ou des sanctions pénales.
+En vue de l’accomplissement de leurs tâches légales, la PostCom et l’organe de conciliation peuvent traiter des données personnelles, y compris des données sensibles concernant des poursuites ou des sanctions pénales.
+
+[^28-1]: Nouvelle teneur selon l’annexe 1 ch. II 67 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 5 Organe de conciliation
 

@@ -4,11 +4,11 @@ title: Lescha da posta dals 17 da december 2010 (LPO)
 short: LPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/585"
 language: rm
-version: 2012-10-01
+version: 2023-09-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20121001/rm/xml/fedlex-data-admin-ch-eli-cc-2012-585-20121001-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20121001/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2012-585-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPO)
 
-dals 17 da december 2010 (versiun dal 1. d’october 2012)
+dals 17 da december 2010 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,8 +27,8 @@ sa basond sin l’artitgel 92 da la Constituziun federala[^ingress-1], suenter a
 
 concluda:
 
-[^ingress-1]: CS **101**
-[^ingress-2]: Fegl uffizial federal **2009** 5181
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)
 
 ## 1. chapitel Disposiziuns generalas
 
@@ -141,7 +141,7 @@ Tras ina cunvegna reglan las purschidras da servetschs postals l’access senza 
 
 <sup>6</sup> L’admissibladad da transmetter datas d’adressas tenor la Lescha dals 23 da zercladur 2006 davart l’armonisaziun dals registers[^7-1] resta resalvada.
 
-[^7-1]: CS **431.02**
+[^7-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 
 #### Art. 8
 
@@ -185,7 +185,7 @@ Las purschidras da servetschs postals pon limitar u excluder en lur cundiziuns d
 
 <sup>3</sup> Resalvadas restan las disposiziuns davart la pussanza da disponer dal general tenor l’artitgel 91 da la Lescha militara dals 3 da favrer 1995[^12-1].
 
-[^12-1]: CS **510.10**
+[^12-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 ### 2. part Provediment da basa
 
@@ -268,8 +268,8 @@ Per conceder questa reducziun da pretsch paja la Confederaziun annualmain las su
 
 <sup>8</sup> Il Cussegl federal po fixar pretschs maximals per il provediment da basa u per parts da quel. Quests pretschs maximals valan en moda unitara e sa drizzan tenor ils svilups dal martgà. Il Cussegl federal po surdar a la PostCom da decretar sco er d’exequir las prescripziuns tecnicas ed administrativas.
 
-[^16-1]: CS **942.20**
-[^16-2]: Al. en vigur dapi il 1. da schaner 2012
+[^16-1]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^16-2]: Al. en vigur dapi il 1. da schan. 2012.
 
 #### Art. 17
 
@@ -318,7 +318,7 @@ Exceptadas dal servetsch reservà èn:
 
 **Organisaziun**
 
-<sup>1</sup> Il Cussegl federal elegia la Cumissiun da la posta (PostCom) che sa cumpona da 5 fin 7 commembers e designescha il president sco er il vicepresident da quella. Ils commembers ston esser experts independents; els na dastgan ni appartegnair ad organs da persunas giuridicas ch’èn activas en il sectur dal martgà da posta, ni avair in contract da servetsch cun talas persunas giuridicas.
+<sup>1</sup> Il Cussegl federal elegia la PostCom, che sa cumpona da tschintg fin set commembers, e designescha il president ed il vicepresident. Ils commembers ston esser experts independents; els na dastgan ni appartegnair ad organs da persunas giuridicas ch’èn activas en il sectur dal martgà da posta, ni avair in contract da servetsch cun talas persunas giuridicas.
 
 <sup>2</sup> La PostCom è independenta e n’è betg suttamessa en sias decisiuns a directivas dal Cussegl federal u d’autoritads administrativas.
 
@@ -398,23 +398,27 @@ Sch’ella constatescha ina violaziun dal dretg, po ella:
 
 <sup>3</sup> Per calcular la sancziun resguarda la PostCom en spezial la grevezza da la cuntravenziun e las relaziuns finanzialas da la purschidra.
 
-[^25-1]: CS **172.021**
+[^25-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 26
 
 **Agid uffizial**
 
-<sup>1</sup> La PostCom sco er ulteriuras autoritads ch’èn incumbensadas cun l’execuziun da questa lescha transmettan ad autras autoritads da la Confederaziun e dals chantuns las datas che quellas dovran per ademplir lur incumbensas legalas. Da quai fan er part las datas persunalas spezialmain sensiblas sco er ils profils da persunalitad ch’èn vegnids procurads en proceduras administrativas u en proceduras penalas administrativas.
+<sup>1</sup> La PostCom sco er ulteriuras autoritads ch’èn incumbensadas cun l’execuziun da questa lescha transmettan ad autras autoritads da la Confederaziun e dals chantuns las datas che quellas dovran per ademplir lur incumbensas legalas; latiers tutgan er las datas persunalas spezialmain sensiblas ch’èn vegnidas procuradas en proceduras administrativas u en proceduras penalas administrativas.[^26-1]
 
 <sup>2</sup>
 
-Cun resalva da cunvegnas internaziunalas divergentas dastga la PostCom mo transmetter ad autoritads estras da surveglianza en ils fatgs da posta datas, inclusiv datas persunalas spezialmain sensiblas e profils da persunalitad ch’èn vegnids procurads en proceduras administrativas u en proceduras penalas administrativas, sche questas autoritads:
+Cun resalva da cunvegnas internaziunalas divergentas dastga la PostCom mo transmetter ad autoritads estras da surveglianza en ils fatgs da posta datas, inclusiv datas persunalas spezialmain sensiblas ch’èn vegnidas procuradas en proceduras administrativas u en proceduras penalas administrativas, sche questas autoritads:[^26-2]
 
 - a. dovran questas datas exclusivamain per exequir la surveglianza da las purschidras da servetschs postals e per observar il martgà;
 - b. èn liadas al secret d’uffizi u al secret professiunal;
 - c. transfereschan las datas mo cun il consentiment precedent da la PostCom ad autoritads ed ad organs che han incumbensas da surveglianza d’interess public, nun ch’in contract internaziunal cuntegnia in’autorisaziun generala.
 
-<sup>3</sup> Ils uffizis da la Confederaziun e dals chantuns èn obligads da cooperar tar ils scleriments da la PostCom e da la metter a disposiziun ils documents necessaris. Da quai fan part er las datas persunalas spezialmain sensiblas ed ils profils da persunalitad ch’èn vegnids procurads en proceduras administrativas u en proceduras penalas administrativas.
+<sup>3</sup> Ils uffizis da la Confederaziun e dals chantuns èn obligads da cooperar tar ils scleriments da la PostCom e da la metter a disposiziun ils documents necessaris. Latiers tutgan er las datas persunalas spezialmain sensiblas ch’èn vegnidas procuradas en proceduras administrativas u en proceduras penalas administrativas.[^26-3]
+
+[^26-1]: Versiun tenor la cifra II 67 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-2]: Versiun tenor la cifra II 67 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-3]: Versiun da la segunda frasa tenor la cifra II 67 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27
 
@@ -424,9 +428,11 @@ La PostCom na dastga betg tradir secrets d’affar e secrets professiunals.
 
 #### Art. 28
 
-**Elavuraziun da datas persunalas**
+**Elavuraziun da datas persunalas**[^28-1]
 
-Per ademplir lur incumbensas legalas dastgan la PostCom sco er il post da mediaziun elavurar profils da persunalitad e datas persunalas, inclusiv datas spezialmain sensiblas, davart persecuziuns penalas e davart sancziuns.
+Per ademplir lur incumbensas legalas dastgan la PostCom sco er il post da mediaziun elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas concernent persecuziuns e sancziuns penalas.
+
+[^28-1]: Versiun tenor la cifra II 67 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 5. part Post da mediaziun
 
@@ -467,7 +473,7 @@ Cun ina multa fin a 100 000 francs vegn chastià, tgi che intenziunadamain:
 
 <sup>4</sup> Ils surpassaments vegnan persequitads e giuditgads da la PostCom tenor las disposiziuns da la Lescha federala dals 22 da mars 1974 davart il dretg penal administrativ[^31-1].
 
-[^31-1]: CS **313.0**
+[^31-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 ## 3. chapitel Provediment da basa cun servetschs da pajament
 
@@ -530,7 +536,7 @@ El po delegar la cumpetenza da concluder cunvegnas da cuntegn tecnic ed administ
 
 <sup>2</sup> Las prescripziuns da questa lescha èn applitgablas per concessiuns dal dretg vegl, uschenavant ch’ellas na stattan betg en cuntradicziun cun quellas.
 
-[^37-1]: [CULF **1997** 2452, **2003** 4297]
+[^37-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
 
 #### Art. 38
 
@@ -578,5 +584,5 @@ Las leschas federalas qua sutvart vegnan midadas sco suonda:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [CULF **1997** 2452, **2000** 2355 agiunta cifra 23, **2003** 4297, **2006** 2197 agiunta cifra 85, **2007** 5645]
-[^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la CULF **2012** 4993
+[^annexu1-lvlu1-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 85; [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776)]
+[^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585).

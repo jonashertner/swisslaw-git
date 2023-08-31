@@ -4,11 +4,11 @@ title: Legge del 17 dicembre 2010 sulle poste (LPO)
 short: LPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/585"
 language: it
-version: 2012-10-01
+version: 2023-09-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20121001/it/xml/fedlex-data-admin-ch-eli-cc-2012-585-20121001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20121001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-585-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20121001/it"
 
 (LPO)
 
-del 17 dicembre 2010 (Stato 1° ottobre 2012)
+del 17 dicembre 2010 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -403,17 +403,21 @@ Se accerta una violazione del diritto, essa può:
 
 **Assistenza amministrativa**
 
-<sup>1</sup> La PostCom e le altre autorità incaricate dell’esecuzione della presente legge trasmettono alle altre autorità federali e cantonali i dati di cui queste necessitano per adempiere i loro compiti legali. Sono inclusi anche i dati personali degni di particolare protezione e i profili della personalità ottenuti nell’ambito di procedimenti amministrativi o di procedimenti penali amministrativi.
+<sup>1</sup> La PostCom e le altre autorità incaricate dell’esecuzione della presente legge trasmettono alle altre autorità federali e cantonali i dati di cui queste necessitano per adempiere i loro compiti legali, inclusi i dati personali degni di particolare protezione raccolti nell’ambito di procedimenti amministrativi o di procedimenti penali amministrativi.[^26-1]
 
 <sup>2</sup>
 
-Salvo diversa disposizione di accordi internazionali, la PostCom può trasmettere dati alle autorità di vigilanza estere incaricate di compiti nel settore postale, inclusi i dati personali degni di particolare protezione e i profili della personalità ottenuti nell’ambito di procedimenti amministrativi o di procedimenti penali amministrativi, a condizione che queste autorità:
+Salvo diversa disposizione di accordi internazionali, la PostCom può trasmettere dati alle autorità di vigilanza estere incaricate di compiti nel settore postale, inclusi i dati personali degni di particolare protezione raccolti nell’ambito di procedimenti amministrativi o di procedimenti penali amministrativi, a condizione che queste autorità:[^26-2]
 
 - a. utilizzino i dati esclusivamente per esercitare la vigilanza sui fornitori di servizi postali e osservare il mercato;
 - b. siano vincolate al segreto d’ufficio o al segreto professionale;
 - c. trasmettano i dati ad autorità e organi incaricati di compiti di vigilanza nell’interesse pubblico, solo previa approvazione della PostCom, salvo che vi sia un’autorizzazione generale prevista da un trattato internazionale.
 
-<sup>3</sup> I servizi della Confederazione e dei Cantoni sono tenuti a collaborare agli accertamenti della PostCom e a mettere a disposizione la necessaria documentazione. Sono inclusi anche i dati personali degni di particolare protezione e i profili della personalità ottenuti nell’ambito di procedimenti amministrativi o di procedimenti penali amministrativi.
+<sup>3</sup> I servizi della Confederazione e dei Cantoni sono tenuti a collaborare agli accertamenti della PostCom e a mettere a disposizione la necessaria documentazione. Sono inclusi anche i dati personali degni di particolare protezione raccolti nell’ambito di procedimenti amministrativi o di procedimenti penali amministrativi.[^26-3]
+
+[^26-1]: Nuovo testo giusta l’all. 1 n. II 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-2]: Nuovo testo giusta l’all. 1 n. II 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-3]: Nuovo testo del per. giusta l’all. 1 n. II 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27
 
@@ -423,9 +427,11 @@ La PostCom non può rivelare segreti d’affari e segreti professionali.
 
 #### Art. 28
 
-**Trattamento di dati personali**
+**Trattamento di dati personali**[^28-1]
 
-Per adempiere i loro compiti legali, la PostCom e l’organo di conciliazione possono trattare profili della personalità e dati personali, inclusi i dati degni di particolare protezione, concernenti procedimenti e sanzioni penali.
+Per adempiere i loro compiti legali, la PostCom e l’organo di conciliazione possono trattare dati personali, inclusi i dati personali degni di particolare protezione concernenti procedimenti e sanzioni penali.
+
+[^28-1]: Nuovo testo giusta l’all. 1 n. II 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 5: Organo di conciliazione
 
@@ -557,11 +563,9 @@ Il coordinamento è disciplinato nell’allegato cifra II numero 5.
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore: 1° ottobre 2012[^41-1]
+Data dell’entrata in vigore: 1° ottobre 2012[^41-1] L’articolo 16 capoverso 7 entra retroattivamente in vigore il 1° gennaio 2012.
 
-L’articolo 16 capoverso 7 entra retroattivamente in vigore il 1° gennaio 2012.
-
-[^41-1]: DCF 29 ago. 2012
+[^41-1]: DCF 29 ago. 2012.
 
 Allegato
 
@@ -577,7 +581,7 @@ II
 
 Le leggi federali qui appresso sono modificate come segue:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776)]
-[^annexu1-lvlu1-2]: Le modifiche possono essere consultate alla [RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585).
+[^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585).

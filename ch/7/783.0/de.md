@@ -4,11 +4,11 @@ title: Postgesetz vom 17. Dezember 2010 (PG)
 short: PG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/585"
 language: de
-version: 2012-10-01
+version: 2023-09-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20121001/de/xml/fedlex-data-admin-ch-eli-cc-2012-585-20121001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20121001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-585-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20121001/de"
 
 (PG)
 
-vom 17. Dezember 2010 (Stand am 1. Januar 2012)
+vom 17. Dezember 2010 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -402,17 +402,21 @@ Stellt sie eine Rechtsverletzung fest, so kann sie:
 
 **Amtshilfe**
 
-<sup>1</sup> Die PostCom sowie weitere mit dem Vollzug dieses Gesetzes betraute Behörden übermitteln anderen Behörden des Bundes und der Kantone diejenigen Daten, die diese zur Erfüllung ihrer gesetzlichen Aufgaben benötigen. Dazu gehören auch die in Verwaltungs- oder Verwaltungsstrafverfahren beschafften besonders schützenswerten Personendaten sowie Persönlichkeitsprofile.
+<sup>1</sup> Die PostCom sowie weitere mit dem Vollzug dieses Gesetzes betraute Behörden übermitteln anderen Behörden des Bundes und der Kantone diejenigen Daten, die diese zur Erfüllung ihrer gesetzlichen Aufgaben benötigen; dazu gehören auch die in Verwaltungs- oder Verwaltungsstrafverfahren beschafften besonders schützenswerten Personendaten.[^26-1]
 
 <sup>2</sup>
 
-Unter Vorbehalt anders lautender internationaler Vereinbarungen darf die PostCom ausländischen Aufsichtsbehörden im Postbereich Daten, einschliesslich in Verwaltungs- oder Verwaltungsstrafverfahren beschaffter besonders schützenswerter Personendaten und Persönlichkeitsprofile, nur übermitteln, sofern diese Behörden:
+Unter Vorbehalt anders lautender internationaler Vereinbarungen darf die PostCom ausländischen Aufsichtsbehörden im Postbereich Daten, einschliesslich in Verwaltungs- oder Verwaltungsstrafverfahren beschaffter besonders schützenswerter Personendaten, nur übermitteln, sofern diese Behörden:[^26-2]
 
 - a. die Daten ausschliesslich zur Ausübung der Aufsicht über Anbieterinnen von Postdiensten und zur Marktbeobachtung verwenden;
 - b. an das Amts- oder Berufsgeheimnis gebunden sind;
 - c. die Daten nur mit vorgängiger Zustimmung der PostCom an Behörden und Organe weiterleiten, die mit im öffentlichen Interesse liegenden Aufsichtsaufgaben betraut sind, es sei denn es liege eine generelle Ermächtigung in einem Staatsvertrag vor.
 
-<sup>3</sup> Amtsstellen des Bundes und der Kantone sind verpflichtet, an Abklärungen der PostCom mitzuwirken und die notwendigen Unterlagen zur Verfügung zu stellen. Dazu gehören auch die in Verwaltungs- oder Verwaltungsstrafverfahren beschafften besonders schützenswerten Personendaten und Persönlichkeitsprofile.
+<sup>3</sup> Amtsstellen des Bundes und der Kantone sind verpflichtet, an Abklärungen der PostCom mitzuwirken und die notwendigen Unterlagen zur Verfügung zu stellen. Dazu gehören auch die in Verwaltungs- oder Verwaltungsstrafverfahren beschafften besonders schützenswerten Personendaten.[^26-3]
+
+[^26-1]: Fassung gemäss Anhang 1 Ziff. II 67 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-2]: Fassung gemäss Anhang 1 Ziff. II 67 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 67 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27
 
@@ -422,9 +426,11 @@ Die PostCom darf keine Geschäfts- und Berufsgeheimnisse preisgeben.
 
 #### Art. 28
 
-**Bearbeitung von Personendaten**
+**Bearbeitung von Personendaten**[^28-1]
 
-Die PostCom sowie die Schlichtungsstelle dürfen zur Erfüllung ihrer gesetzlichen Aufgaben Persönlichkeitsprofile und Personendaten, einschliesslich besonders schützenswerter Personendaten, über strafrechtliche Verfolgungen und Sanktionen bearbeiten.
+Die PostCom sowie die Schlichtungsstelle dürfen zur Erfüllung ihrer gesetzlichen Aufgaben Personendaten, einschliesslich besonders schützenswerter Personendaten betreffend strafrechtliche Verfolgungen und Sanktionen, bearbeiten.
+
+[^28-1]: Fassung gemäss Anhang 1 Ziff. II 67 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 5. Abschnitt: Schlichtungsstelle
 
@@ -528,7 +534,7 @@ Für Vereinbarungen technischen und administrativen Inhalts kann er die Befugnis
 
 <sup>2</sup> Die Vorschriften dieses Gesetzes sind auf altrechtliche Konzessionen anwendbar, soweit sie ihnen nicht widersprechen.
 
-[^37-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
+[^37-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
 
 #### Art. 38
 
@@ -576,5 +582,5 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776)]
+[^annexu1-lvlu1-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85; [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776)]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)konsultiert werden.
