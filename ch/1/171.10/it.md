@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 1° gennaio 2023)
+del 13 dicembre 2002 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -661,23 +661,26 @@ La Commissione giudiziaria è competente per la preparazione dell’elezione e d
 
 - a. dei giudici dei tribunali della Confederazione;
 - b. dei membri dell’autorità di vigilanza sul Ministero pubblico della Confederazione;
-- c. del procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione.[^40a-2]
+- c. del procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione;
+- d.[^40a-2] del capo dell’Incaricato federale della protezione dei dati e della trasparenza (Incaricato).[^40a-3]
 
-<sup>2</sup> Mette a pubblico concorso i posti di giudice vacanti e i posti di procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione. Nel bando di concorso è indicato il grado di occupazione, per quanto la legge consenta l’esercizio a tempo parziale della funzione.[^40a-3]
+<sup>2</sup> Mette a pubblico concorso i posti di giudice vacanti e i posti di procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione, come pure quello di Incaricato.[^40a-4] Nel bando di concorso è indicato il grado di occupazione, per quanto la legge consenta l’esercizio a tempo parziale della funzione.[^40a-5]
 
 <sup>3</sup> La Commissione giudiziaria sottopone all’Assemblea federale plenaria le proprie proposte di elezione e di destituzione.
 
-<sup>4</sup> Stabilisce in dettaglio il rapporto di lavoro dei giudici, del procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione.[^40a-4]
+<sup>4</sup> Stabilisce in dettaglio il rapporto di lavoro dei giudici, del procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione.[^40a-6]
 
 <sup>5</sup> In seno alla Commissione, ogni gruppo ha diritto ad almeno un seggio.
 
-<sup>6</sup> Le Commissioni della gestione e la Delegazione delle finanze comunicano alla Commissione giudiziaria i loro accertamenti che mettono seriamente in dubbio l’idoneità professionale o personale dei giudici, del procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione.[^40a-5]
+<sup>6</sup> Le Commissioni della gestione e la Delegazione delle finanze comunicano alla Commissione giudiziaria i loro accertamenti che mettono seriamente in dubbio l’idoneità professionale o personale dei giudici, del procuratore generale della Confederazione, dei sostituti procuratori generali della Confederazione e dell’Incaricato.[^40a-7]
 
 [^40a-1]: Introdotto dal n. II della LF del 13 dic. 2002, in vigore dal 1° ago. 2003 ([RU 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1073](https://fedlex.data.admin.ch/eli/fga/2002/147)).
-[^40a-2]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-2]: Introdotta dall’all. 1 n. II 12 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-3]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-4]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-4]: Nuovo testo giusta l’all. 1 n. II 12 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-5]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-6]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-7]: Nuovo testo giusta l’all. 1 n. II 12 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
 
@@ -851,7 +854,7 @@ Le commissioni informano l’opinione pubblica sui risultati delle loro delibera
 
 **Delegazione delle Commissioni della gestione**
 
-<sup>1</sup> Le Commissioni della gestione nominano al proprio interno tre membri ciascuna quali membri della Delegazione della gestione (DelCG). La Delegazione si costituisce da sé.
+<sup>1</sup> Le Commissioni della gestione nominano al proprio interno tre membri ciascuna quali membri della Delegazione della gestione (DelCdG). La Delegazione si costituisce da sé.
 
 <sup>2</sup> La Delegazione sorveglia l’attività nel settore della protezione dello Stato e dei servizi delle attività informative ed esamina l’azione dello Stato nei settori che devono rimanere segreti poiché la loro conoscenza da parte di persone non autorizzate può causare un grave danno agli interessi nazionali.[^53-1]
 
@@ -2130,16 +2133,17 @@ Il Consiglio federale sottopone all’Assemblea federale:
 - b. i disegni di aggiunte ordinarie al preventivo e crediti aggiuntivi, due mesi prima della sessione in cui devono essere trattati;
 - c. il consuntivo della Confederazione, ogni anno due mesi prima della sessione in cui deve essere trattato.
 
-<sup>2</sup> Riprende nel suo disegno di preventivo e nel consuntivo della Confederazione, senza modificarli, i progetti di preventivo e i consuntivi dell’Assemblea federale, dei tribunali della Confederazione, del Controllo federale delle finanze, del Ministero pubblico della Confederazione e dell’autorità di vigilanza sul Ministero pubblico della Confederazione.[^142-2]
+<sup>2</sup> Riprende nel suo disegno di preventivo e nel consuntivo della Confederazione, senza modificarli, i progetti di preventivo e i consuntivi dell’Assemblea federale, dei tribunali della Confederazione, del Controllo federale delle finanze, del Ministero pubblico della Confederazione, dell’autorità di vigilanza sul Ministero pubblico della Confederazione e dell’Incaricato federale della protezione dei dati e della trasparenza (IFPDT).[^142-2]
 
-<sup>3</sup> Il Tribunale federale difende i progetti di preventivo e il consuntivo dei tribunali della Confederazione dinnanzi all’Assemblea federale. Per l’Assemblea federale questo compito è assunto dalla Delegazione amministrativa, per il Controllo federale delle finanze dalla Delegazione delle finanze, per l’autorità di vigilanza sul Ministero pubblico della Confederazione e per il Ministero pubblico della Confederazione dall’autorità di vigilanza sul Ministero pubblico della Confederazione.[^142-3]
+<sup>3</sup> Il Tribunale federale difende i progetti di preventivo e il consuntivo dei tribunali della Confederazione dinnanzi all’Assemblea federale. Per l’Assemblea federale questo compito è assunto dalla Delegazione amministrativa, per il Controllo federale delle finanze dalla Delegazione delle finanze, per l’autorità di vigilanza sul Ministero pubblico della Confederazione e per il Ministero pubblico della Confederazione dall’autorità di vigilanza sul Ministero pubblico della Confederazione. L’IFPDT difende il suo progetto di preventivo e il suo consuntivo dinnanzi all’Assemblea federale.[^142-3] [^142-4]
 
-<sup>4</sup> Il Consiglio federale fa allestire entro il 30 giugno e il 30 settembre di ogni anno un calcolo approssimativo del risultato prevedibile dell’esercizio. Ne riferisce alle commissioni delle finanze.[^142-4]
+<sup>4</sup> Il Consiglio federale fa allestire entro il 30 giugno e il 30 settembre di ogni anno un calcolo approssimativo del risultato prevedibile dell’esercizio. Ne riferisce alle commissioni delle finanze.[^142-5]
 
 [^142-1]: Nuovo testo giusta l’art. 65 n. 1 della LF del 7 ott. 2005 sulle finanze della Confederazione, in vigore dal 1° mag. 2006 ([RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-3]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-4]: Introdotto dall’art. 65 n. 1 della LF del 7 ott. 2005 sulle finanze della Confederazione, in vigore dal 1° mag. 2006 ([RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+[^142-2]: Nuovo testo giusta l’all. 1 n. II 12 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-3]: Terzo per. introdotto dall’all. 1 n. II 12 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-4]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-5]: Introdotto dall’art. 65 n. 1 della LF del 7 ott. 2005 sulle finanze della Confederazione, in vigore dal 1° mag. 2006 ([RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
 
 #### Art. 143
 

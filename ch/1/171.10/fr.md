@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 1<sup>er</sup> janvier 2023)
+du 13 décembre 2002 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -655,24 +655,27 @@ La Commission judiciaire est compétente pour préparer l’élection et la rév
 
 - a. les juges des tribunaux fédéraux;
 - b. les membres de l’autorité de surveillance du Ministère public de la Confédération;
-- c. le procureur général de la Confédération et les procureurs généraux suppléants de la Confédération.[^40a-2]
+- c. le procureur général de la Confédération et les procureurs généraux suppléants de la Confédération;
+- d.[^40a-2] le chef du Préposé fédéral à la protection des données et à la transparence (préposé).[^40a-3]
 
-<sup>2</sup> La Commission judiciaire met au concours public les postes vacants de juges, de procureur général de la Confédération et de procureurs généraux suppléants de la Confédération. Dans la mesure où la loi permet l’exercice à temps partiel de la fonction, la mise au concours indique le taux d’activité.[^40a-3]
+<sup>2</sup> La Commission judiciaire met au concours public les postes vacants de juges, de procureur général de la Confédération, de procureurs généraux suppléants de la Confédération et de préposé.[^40a-4] Dans la mesure où la loi permet l’exercice à temps partiel de la fonction, la mise au concours indique le taux d’activité.[^40a-5]
 
-<sup>3</sup> La commission judiciaire soumet à l’Assemblée fédérale (Chambres réunies) ses propositions pour l’élection et la révocation des personnes visées à l’al. 1.[^40a-4]
+<sup>3</sup> La commission judiciaire soumet à l’Assemblée fédérale (Chambres réunies) ses propositions pour l’élection et la révocation des personnes visées à l’al. 1.[^40a-6]
 
-<sup>4</sup> Elle fixe le détail des rapports de travail des juges, du procureur général de la Confédération et des procureurs généraux suppléants.[^40a-5]
+<sup>4</sup> Elle fixe le détail des rapports de travail des juges, du procureur général de la Confédération et des procureurs généraux suppléants.[^40a-7]
 
 <sup>5</sup> Chaque groupe a droit au moins à un siège au sein de la commission.
 
-<sup>6</sup> Si les Commissions de gestion ou la Délégation des finances font des constatations qui mettent sérieusement en cause l’aptitude professionnelle ou personnelle du procureur général de la Confédération, d’un procureur général suppléant ou d’un juge, elles les communiquent à la Commission judiciaire.[^40a-6]
+<sup>6</sup> Si les Commissions de gestion ou la Délégation des finances font des constatations qui mettent sérieusement en cause l’aptitude professionnelle ou personnelle du procureur général de la Confédération, d’un procureur général suppléant, d’un juge ou du préposé, elles les communiquent à la Commission judiciaire.[^40a-8]
 
 [^40a-1]: Introduit par le ch. II de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> août 2003 ([RO 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1128](https://fedlex.data.admin.ch/eli/fga/2002/147)).
-[^40a-2]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-2]: Introduite par l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-4]: [RO 2010 6385](https://fedlex.data.admin.ch/eli/oc/2010/894)
+[^40a-4]: Nouvelle teneur selon l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-5]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-6]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-6]: [RO 2010 6385](https://fedlex.data.admin.ch/eli/oc/2010/894)
+[^40a-7]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-8]: Nouvelle teneur selon l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
 
@@ -2114,16 +2117,17 @@ Le Conseil fédéral soumet à l’Assemblée fédérale:
 - b. les projets de suppléments ordinaires et de crédits supplémentaires, au plus tard deux mois avant le début de la session au cours de laquelle ils doivent être traités;
 - c. le compte d’État, chaque année au plus tard deux mois avant le début de la session au cours de laquelle il doit être traité.
 
-<sup>2</sup> Il reprend tels quels dans son projet de budget et dans le compte d’État les projets de budget et les comptes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle fédéral des finances, du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération.[^142-2]
+<sup>2</sup> Il reprend tels quels dans son projet de budget et dans le compte d’État les projets de budget et les comptes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle fédéral des finances, du Ministère public de la Confédération, de l’Autorité de surveillance du Ministère public de la Confédération et du Préposé fédéral à la protection des données et à la transparence (PFPDT).[^142-2]
 
-<sup>3</sup> Le Tribunal fédéral défend les projets de budget et les comptes des tribunaux fédéraux devant l’Assemblée fédérale. Le projet de budget et le compte de l’Assemblée fédérale sont défendus par la Délégation administrative de l’Assemblée fédérale, ceux du Contrôle fédéral des finances par la Délégation des finances, et ceux du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération, par l’autorité de surveillance du Ministère public de la Confédération.[^142-3]
+<sup>3</sup> Le Tribunal fédéral défend les projets de budget et les comptes des tribunaux fédéraux devant l’Assemblée fédérale. Le projet de budget et le compte de l’Assemblée fédérale sont défendus par la Délégation administrative de l’Assemblée fédérale, ceux du Contrôle fédéral des finances par la Délégation des finances, et ceux du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération, par l’autorité de surveillance du Ministère public de la Confédération. Le PFPDT défend son projet de budget et ses comptes devant l’Assemblée fédérale.[^142-3] [^142-4]
 
-<sup>4</sup> Le Conseil fédéral fait établir chaque année au 30 juin et au 30 septembre un calcul approximatif du résultat prévisible de l’exercice. Il en informe les Commissions des finances.[^142-4]
+<sup>4</sup> Le Conseil fédéral fait établir chaque année au 30 juin et au 30 septembre un calcul approximatif du résultat prévisible de l’exercice. Il en informe les Commissions des finances.[^142-5]
 
 [^142-1]: Nouvelle teneur selon l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-4]: Introduit par l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+[^142-2]: Nouvelle teneur selon l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-3]: Phrase introduite par l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-4]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-5]: Introduit par l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
 
 #### Art. 143
 

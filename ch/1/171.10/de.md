@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 1. Januar 2023)
+vom 13. Dezember 2002 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -656,23 +656,26 @@ Die Gerichtskommission ist zuständig für die Vorbereitung der Wahl und Amtsent
 
 - a. von Richterinnen und Richtern der eidgenössischen Gerichte;
 - b. von Mitgliedern der Aufsichtsbehörde über die Bundesanwaltschaft;
-- c. der Bundesanwältin oder des Bundesanwalts und der Stellvertretenden Bundesanwältinnen oder Bundesanwälte.[^40a-2]
+- c. der Bundesanwältin oder des Bundesanwalts und der Stellvertretenden Bundesanwältinnen oder Bundesanwälte;
+- d.[^40a-2] der Leiterin oder des Leiters des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (Beauftragte oder Beauftragter).[^40a-3]
 
-<sup>2</sup> Sie schreibt offene Richterstellen und die Stellen der Bundesanwältin oder des Bundesanwalts sowie der Stellvertretenden Bundesanwältinnen und Bundesanwälte öffentlich aus. Soweit das Gesetz Teilpensen zulässt, ist in der Ausschreibung der Beschäftigungsgrad anzugeben.[^40a-3]
+<sup>2</sup> Sie schreibt offene Richterstellen, die Stellen der Bundesanwältin oder des Bundesanwalts, der Stellvertretenden Bundesanwältinnen und Bundesanwälte und der oder des Beauftragten öffentlich aus.[^40a-4] Soweit das Gesetz Teilpensen zulässt, ist in der Ausschreibung der Beschäftigungsgrad anzugeben.[^40a-5]
 
 <sup>3</sup> Die Gerichtskommission unterbreitet ihre Wahlvorschläge und Anträge auf Amtsenthebung der Vereinigten Bundesversammlung.
 
-<sup>4</sup> Sie legt die Einzelheiten des Arbeitsverhältnisses der Richterinnen und Richter sowie der Bundesanwältin oder des Bundesanwalts und der Stellvertretenden Bundesanwältinnen und Bundesanwälte fest.[^40a-4]
+<sup>4</sup> Sie legt die Einzelheiten des Arbeitsverhältnisses der Richterinnen und Richter sowie der Bundesanwältin oder des Bundesanwalts und der Stellvertretenden Bundesanwältinnen und Bundesanwälte fest.[^40a-6]
 
 <sup>5</sup> Jede Fraktion hat Anspruch auf mindestens einen Sitz in der Kommission.
 
-<sup>6</sup> Die Geschäftsprüfungskommissionen und die Finanzdelegation bringen Feststellungen, welche die fachliche oder persönliche Eignung von Richterinnen und Richtern, der Bundesanwältin, des Bundesanwalts oder der Stellvertretenden Bundesanwältinnen und Bundesanwälte ernsthaft in Frage stellen, der Gerichtskommission zur Kenntnis.[^40a-5]
+<sup>6</sup> Die Geschäftsprüfungskommissionen und die Finanzdelegation bringen Feststellungen, welche die fachliche oder persönliche Eignung von Richterinnen und Richtern, der Bundesanwältin, des Bundesanwalts, der Stellvertretenden Bundesanwältinnen und Bundesanwälte oder der oder des Beauftragten ernsthaft in Frage stellen, der Gerichtskommission zur Kenntnis.[^40a-7]
 
 [^40a-1]: Eingefügt durch Ziff. II des BG vom 13. Dez. 2002, in Kraft seit 1. Aug. 2003 ([AS 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1181](https://fedlex.data.admin.ch/eli/fga/2002/147)).
-[^40a-2]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-2]: Eingefügt durch Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-3]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-4]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-4]: Fassung gemäss Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-5]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-6]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-7]: Fassung gemäss Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
 
@@ -2106,16 +2109,17 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 - b. die Entwürfe für die ordentlichen Nachträge und Zusatzkredite: zwei Monate vor Beginn der Session, in der sie behandelt werden sollen;
 - c. die Staatsrechnung: jährlich zwei Monate vor Beginn der Session, in der sie behandelt werden soll.
 
-<sup>2</sup> Er nimmt die Entwürfe für den Voranschlag sowie die Rechnungen der Bundesversammlung, der eidgenössischen Gerichte, der Eidgenössischen Finanzkontrolle, der Bundesanwaltschaft und der Aufsichtsbehörde über die Bundesanwaltschaft unverändert in seinen Entwurf für den Voranschlag und in die Rechnung des Bundes auf.[^142-2]
+<sup>2</sup> Er nimmt die Entwürfe für den Voranschlag sowie die Rechnungen der Bundesversammlung, der eidgenössischen Gerichte, der Eidgenössischen Finanzkontrolle, der Bundesanwaltschaft, der Aufsichtsbehörde über die Bundesanwaltschaft und des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) unverändert in seinen Entwurf für den Voranschlag und in die Rechnung des Bundes auf.[^142-2]
 
-<sup>3</sup> Das Bundesgericht vertritt die Entwürfe für die Voranschläge und die Rechnungen der eidgenössischen Gerichte vor der Bundesversammlung. Für die Bundesversammlung übernimmt diese Aufgabe die Verwaltungsdelegation der Bundesversammlung, für die Eidgenössische Finanzkontrolle die Finanzdelegation, für die Aufsichtsbehörde über die Bundesanwaltschaft und die Bundesanwaltschaft die Aufsichtsbehörde über die Bundesanwaltschaft.[^142-3]
+<sup>3</sup> Das Bundesgericht vertritt die Entwürfe für die Voranschläge und die Rechnungen der eidgenössischen Gerichte vor der Bundesversammlung. Für die Bundesversammlung übernimmt diese Aufgabe die Verwaltungsdelegation der Bundesversammlung, für die Eidgenössische Finanzkontrolle die Finanzdelegation, für die Aufsichtsbehörde über die Bundesanwaltschaft und die Bundesanwaltschaft die Aufsichtsbehörde über die Bundesanwaltschaft. Der EDÖB vertritt den Entwurf für seinen Voranschlag und seine Rechnung vor der Bundesversammlung.[^142-3] [^142-4]
 
-<sup>4</sup> Der Bundesrat lässt jeweils per 30. Juni und 30. September Hochrechnungen über das voraussichtliche Jahresergebnis erstellen. Er setzt die Finanzkommissionen davon in Kenntnis.[^142-4]
+<sup>4</sup> Der Bundesrat lässt jeweils per 30. Juni und 30. September Hochrechnungen über das voraussichtliche Jahresergebnis erstellen. Er setzt die Finanzkommissionen davon in Kenntnis.[^142-5]
 
 [^142-1]: Fassung gemäss Art. 65 Ziff. 1 des Finanzhaushaltsgesetzes vom 7. Okt. 2005, in Kraft seit 1. Mai 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-3]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-4]: Eingefügt durch Art. 65 Ziff. 1 des Finanzhaushaltsgesetzes vom 7. Okt. 2005, in Kraft seit 1. Mai 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+[^142-2]: Fassung gemäss Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-3]: Dritter Satz eingefügt gemäss Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-4]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-5]: Eingefügt durch Art. 65 Ziff. 1 des Finanzhaushaltsgesetzes vom 7. Okt. 2005, in Kraft seit 1. Mai 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
 
 #### Art. 143
 

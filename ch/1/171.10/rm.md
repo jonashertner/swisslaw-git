@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dal 1. da schaner 2023)
+dals 13 da december 2002 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -656,27 +656,30 @@ La Conferenza da coordinaziun ha las suandantas incumbensas:
 
 <sup>1</sup>
 
-La Cumissiun giudiziala è cumpetenta per preparar l’elecziun e la decretada d’uffizi:
+La Cumissiun giudiziala è cumpetenta per preparar l’elecziun e la destituziun da l’uffizi:
 
 - a. da derschaders dals tribunals da la Confederaziun;
 - b. da commembers da l’Autoritad da surveglianza da la Procura publica federala;
-- c. dal procuratur public federal e dals suppleants dal procuratur public federal.[^40a-2]
+- c. dal procuratur public federal e dals suppleants dal procuratur public federal;
+- d.[^40a-2] dal manader da l’Incumbensà federal per la protecziun da datas e per la transparenza (incumbensà).[^40a-3]
 
-<sup>2</sup> Ella publitgescha plazzas libras da derschaders e plazzas dal procuratur public federal e dals suppleants dal procuratur public federal. Sche la lescha permetta pensums parzials, sto il grad d’occupaziun vegnir inditgà en la publicaziun.[^40a-3]
+<sup>2</sup> Ella publitgescha plazzas libras da derschaders, las plazzas dal procuratur public federal, dals suppleants dal procuratur public federal e da l’incumbensà.[^40a-4] Sche la lescha permetta pensums parzials, sto il grad d’occupaziun vegnir inditgà en la publicaziun.[^40a-5]
 
-<sup>3</sup> La Cumissiun giudiziala suttametta a l’Assamblea federala plenara sias propostas electoralas e sias propostas da decretada d’uffizi.
+<sup>3</sup> La Cumissiun giudiziala suttametta a l’Assamblea federala plenara sias propostas electoralas e sias propostas da destituziun da l’uffizi.
 
-<sup>4</sup> Ella fixescha ils detagls da la relaziun da lavur dals derschaders sco er dal procuratur public federal e dals suppleants dal procuratur public federal.[^40a-4]
+<sup>4</sup> Ella fixescha ils detagls da la relaziun da lavur dals derschaders sco er dal procuratur public federal e dals suppleants dal procuratur public federal.[^40a-6]
 
 <sup>5</sup> Mintga fracziun ha il dretg d’almain in sez en la cumissiun.
 
-<sup>6</sup> Las Cumissiuns da gestiun e la Delegaziun da finanzas communitgeschan a la Cumissiun giudiziala constataziuns che mettan seriusamain en dumonda la qualificaziun professiunala u persunala da derschaders, dal procuratur public federal u dals suppleants dal procuratur public federal.[^40a-5]
+<sup>6</sup> Las Cumissiuns da gestiun e la Delegaziun da finanzas communitgeschan a la Cumissiun giudiziala constataziuns che mettan seriusamain en dumonda la qualificaziun professiunala u persunala da derschaders, dal procuratur public federal, dals suppleants dal procuratur public federal u da l’incumbensà.[^40a-7]
 
 [^40a-1]: Integrà tras la cifra II da la LF dals 13 da dec. 2002, en vigur dapi il 1. d’avust 2003 ([AS 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1181](https://fedlex.data.admin.ch/eli/fga/2002/147)).
-[^40a-2]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-2]: Integrà tras la cifra II 12 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-3]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-4]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-4]: Versiun tenor la cifra II 12 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-5]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-6]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-7]: Versiun tenor la cifra II 12 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
 
@@ -2110,16 +2113,17 @@ Il Cussegl federal suttametta a l’Assamblea federala:
 - b. ils sbozs per ils supplements ordinaris e per ils credits supplementars: 2 mais avant il cumenzament da la sessiun, en la quala els duain vegnir tractads;
 - c. il quint dal stadi: mintga onn 2 mais avant il cumenzament da la sessiun, en la quala el duai vegnir tractà.
 
-<sup>2</sup> El integrescha ils sbozs per il preventiv sco er ils quints da l’Assamblea federala, dals tribunals da la Confederaziun, da la Controlla federala da finanzas, da la Procura publica federala e da l’Autoritad da surveglianza da la Procura publica federala senza midadas en ses sboz per il preventiv ed en il quint da la Confederaziun.[^142-2]
+<sup>2</sup> El integrescha ils sbozs per il preventiv sco er ils quints da l’Assamblea federala, dals tribunals da la Confederaziun, da la Controlla federala da finanzas, da la Procura publica federala, da l’Autoritad da surveglianza da la Procura publica federala e da l’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT) senza midadas en ses sboz per il preventiv ed en il quint da la Confederaziun.[^142-2]
 
-<sup>3</sup> Il Tribunal federal represchenta ils sbozs per ils preventivs ed ils quints dals tribunals da la Confederaziun davant l’Assamblea federala. Per l’Assamblea federala surpiglia questa incumbensa la Delegaziun administrativa da l’Assamblea federala, per la Controlla federala da finanzas la Delegaziun da finanzas, per l’Autoritad da surveglianza da la Procura publica federala e per la Procura publica federala l’Autoritad da surveglianza da la Procura publica federala.[^142-3]
+<sup>3</sup> Il Tribunal federal represchenta ils sbozs per ils preventivs ed ils quints dals tribunals da la Confederaziun davant l’Assamblea federala. Per l’Assamblea federala surpiglia questa incumbensa la Delegaziun administrativa da l’Assamblea federala, per la Controlla federala da finanzas la Delegaziun da finanzas, per l’Autoritad da surveglianza da la Procura publica federala e per la Procura publica federala l’Autoritad da surveglianza da la Procura publica federala. Il IFPDT represchenta ses sboz per il preventiv e ses quint davant l’Assamblea federala.[^142-3] [^142-4]
 
-<sup>4</sup> Il Cussegl federal lascha far calculaziuns approximativas davart il resultat annual previsibel, e quai mintgamai per ils 30 da zercladur e per ils 30 da settember. El orientescha las Cumissiuns da finanzas en chaussa.[^142-4]
+<sup>4</sup> Il Cussegl federal lascha far calculaziuns approximativas davart il resultat annual previsibel, e quai mintgamai per ils 30 da zercladur e per ils 30 da settember. El orientescha las Cumissiuns da finanzas en chaussa.[^142-5]
 
 [^142-1]: Versiun tenor l’art. 65 cifra 1 da la Lescha da finanzas dals 7 d’oct. 2005, en vigur dapi il 1. da matg 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-3]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-4]: Integrà tras l’art. 65 cifra 1 da la Lescha da finanzas dals 7 d’oct. 2005, en vigur dapi il 1. da matg 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+[^142-2]: Versiun tenor la cifra II 12 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-3]: Integrà la terza frasa tenor la cifra II 12 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-4]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-5]: Integrà tras l’art. 65 cifra 1 da la Lescha da finanzas dals 7 d’oct. 2005, en vigur dapi il 1. da matg 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
 
 #### Art. 143
 
@@ -2678,4 +2682,4 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 [^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 3]
 [^annexu1-lvlu1-2]: [BS **1** 461]
 [^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 cifra 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
-[^annexu1-lvlu1-4]: Las midadas pon vegnir consultadas en la [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)..
+[^annexu1-lvlu1-4]: Las midadas pon vegnir consultadas en la [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).

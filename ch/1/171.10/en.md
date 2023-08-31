@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 1 January 2023)
+of 13 December 2002 (Status as of 4 December 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -62,10 +62,19 @@ One quarter of the members of a council or of the Federal Council may request th
 - c. elections;
 - d. declarations by the Federal Council or identical drafts submitted in both chambers for declarations by the National Council and des Council of States.[^2-1]
 
-<sup>4</sup> An ordinary or an extraordinary session is normally held in both chambers in the same calendar week.[^2-2]
+<sup>3bis</sup>
+
+The extraordinary session shall be held immediately if:
+
+- a. the Federal Council has issued or amended an ordinance based on Article 184 paragraph 3 or 185 paragraph 3 of the Federal Constitution or on a statutory authorisation to deal with a crisis in accordance with Annex 2;
+- b. the draft for an ordinance or for a simple federal decree under Article 173 paragraph 1 letter c of the Federal Constitution or for an urgent federal act under Article 165 of the Federal Constitution is pending;
+- c. the postponement or early termination of the session has been decided in accordance with Article 33*a*.[^2-2]
+
+<sup>4</sup> An ordinary or an extraordinary session is normally held in both chambers in the same calendar week.[^2-3]
 
 [^2-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^2-2]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-2]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^2-3]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 3
 
@@ -340,11 +349,10 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 <sup>3</sup> As soon as the measures authorised by Presiding Colleges of the Councils have been carried out, authorisation for prosecution must be obtained from the competent committees of both chambers in accordance with Article 17, unless proceedings have already been dropped.[^18-2]
 
-<sup>4</sup> Any arrest made without this authorisation is unlawful.[^18-3]
+<sup>4</sup> Any arrest made without this authorisation is unlawful.[<sup>23</sup>](https://www.fedlex.admin.ch/eli/cc/2003/510/en)
 
 [^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^18-2]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^18-3]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 19
 
@@ -352,9 +360,9 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 <sup>1</sup> The Presiding Colleges of the Councils shall reach their decisions by joint deliberation in camera. The granting of authorisation in terms of Article 18 requires the agreement at least five members.
 
-<sup>2</sup> Authorisation to suspend postal and telecommunications secrecy may only be granted if the relevant authority has ordered surveillance to be carried out in accordance with Article 7 of the Federal Act of 6 October 2000[^19-1] on the Surveillance of Post and Telecommunications.
+<sup>2</sup> Authorisation to suspend postal and telecommunications secrecy may only be granted if the relevant authority has approved the order for surveillance to be carried out.[^19-1]
 
-[^19-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^19-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 20
 
@@ -404,9 +412,11 @@ In the event of any dispute as to whether authorisation in terms of Articles 17�
 
 <sup>2</sup> It may enact further legislative provisions in the form of a federal act or, provided it is entitled to do so by the Federal Constitution or the law, in the form of an ordinance of the Federal Assembly.
 
-<sup>3</sup> Prior to the enactment of legislative provisions by the Federal Council, the relevant committees of the Federal Assembly shall be consulted if they so request, provided the urgency of the provisions so permits.
+<sup>3</sup> Prior to the enactment of legislative provisions by the Federal Council, the relevant committees of the Federal Assembly shall be consulted if they so request, provided the urgency of the provisions so permits. Draft ordinances in accordance with Article 151 paragraph 2<sup>bis</sup> shall in any case be submitted to the relevant committees for consultation.[^22-1]
 
 <sup>4</sup> Provisions shall be regarded as being legislative if they impose obligations or confer rights or responsibilities in general and abstract terms and with directly binding effect.
+
+[^22-1]: Second sentence inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 23
 
@@ -553,6 +563,10 @@ The organs of the Federal Assembly are:
 
 <sup>2</sup> It may by simple federal decree decide by way of exception to meet at a different location.
 
+<sup>3</sup> If it is not possible to convene in Bern, the Conference for Coordination may decide that the Federal Assembly shall meet at a different location.[^32-1]
+
+[^32-1]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
 #### Art. 33
 
 **Convening meetings**
@@ -562,6 +576,16 @@ The organs of the Federal Assembly are:
 <sup>2</sup> The United Federal Assembly is convened by the Conference for Coordination.
 
 <sup>3</sup> The President of the National Council or, in the event of his or her incapacity, the President of the Council of States is obliged to convene the councils if the security of the federal authorities is endangered or the Federal Council is unable to act.
+
+#### Art. 33a
+
+**Postponement or early termination of a session**[^33a-1]
+
+<sup>1</sup> The decision of one Council to postpone or prematurely end the session requires the consent of the other Council.
+
+<sup>2</sup> If it is not possible to convene in person, the Conference for Coordination may decide to postpone or terminate the session early.
+
+[^33a-1]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### Chapter 2 The National Council and Council of States
 
@@ -597,20 +621,21 @@ Each council shall issue regulations with the implementing provisions relating t
 
 The Conference for Coordination has the following duties:
 
-- a.[^37-1] it decides on the calendar week in which the ordinary and extraordinary sessions are held;
-- b. it deals with business between the two councils and between the councils and the Federal Council;
-- c. it may issue directives on the allocation of personnel and financial resources to the organs of the Federal Assembly;
-- d. it elects the General Secretary of the Federal Assembly. The election must be confirmed by the United Federal Assembly;
-- e. it approves the formation of new parliamentary groups in accordance with the criteria stated in Article 61.
+- a.[^37-1] It decides on the calendar week in which the ordinary and extraordinary sessions are held.
+- b. It deals with business between the two councils and between the councils and the Federal Council.
+- c.[^37-2] …
+- d. It elects the General Secretary of the Federal Assembly. The election must be confirmed by the United Federal Assembly.
+- e. It approves the formation of new parliamentary groups in accordance with the criteria stated in Article 61.
 
 <sup>3</sup> The Federal Council may participate in its meetings in an advisory capacity.
 
 <sup>4</sup> The decisions of the Conference for Coordination require the agreement of the Offices of the National Council and of the Council of States. Elections in accordance with paragraph 2 letter d shall take place by an absolute majority of the voting members.
 
-<sup>5</sup> ...[^37-2]
+<sup>5</sup> ...[^37-3]
 
 [^37-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^37-2]: Repealed by No I of the FA of 15 June 2018, with effect from 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-2]: Repealed by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), with effect from 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^37-3]: Repealed by No I of the FA of 15 June 2018, with effect from 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 38
 
@@ -618,9 +643,11 @@ The Conference for Coordination has the following duties:
 
 <sup>1</sup> The Administration Delegation comprises three members from each of the Offices of the Councils as appointed by the Conference for Coordination. The Administration Delegation shall appoint one of its members as its delegate. It constitutes itself.
 
-<sup>2</sup> The Administration Delegation is responsible for the overall management of the administration of Parliament.
+<sup>2</sup> The Administration Delegation is responsible for the overall management of the administration of Parliament. Within the scope of its responsibilities for the draft budget of the Federal Assembly, it shall ensure in particular that the Federal Assembly and its bodies have the necessary resources and infrastructure at their disposal. It may issue directives on the allocation of human and financial resources.[^38-1]
 
 <sup>3</sup> The Administration Delegation shall take decisions by a simple majority of its voting members.
+
+[^38-1]: Amended by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### Chapter 3 United Federal Assembly
 
@@ -654,27 +681,30 @@ The Conference for Coordination has the following duties:
 
 <sup>1</sup>
 
-The Judiciary Committee is responsible for the preparation for the appointment and removal from office of judges of the federal courts:
+The Judiciary Committee is responsible for the preparation for the appointment and removal from office of:
 
-- a. of judges of the federal courts;
-- b. of members of the Supervisory Authority for the Office of the Attorney General of Switzerland;
-- c. of the Attorney General of Switzerland and the Deputies of the Attorney General of Switzerland.[^40a-2]
+- a. judges of the federal courts;
+- b. members of the Supervisory Authority for the Office of the Attorney General of Switzerland;
+- c. the Attorney General of Switzerland and the deputies of the Attorney General of Switzerland;
+- d.[^40a-2] the Federal Data Protection and Information Commissioner (the Commissioner).[^40a-3]
 
-<sup>2</sup> It issues public invitations for applications for vacant positions as federal judges, the Attorney General of Switzerland, or the Deputies of the Attorney General of Switzerland. If the law permits part-time positions, the level of occupation is stated in the invitation to apply.[^40a-3]
+<sup>2</sup> It issues public invitations for applications for vacant positions as federal judges, the Attorney General of Switzerland, the deputies of the Attorney General of Switzerland and the Commissioner.[^40a-4] If the law permits part-time positions, the level of occupation is stated in the invitation to apply.[^40a-5]
 
 <sup>3</sup> The Judiciary Committee submits its election nominations and proposals for removal from office to the United Federal Assembly.
 
-<sup>4</sup> It determines the details of the employment contracts of the judges, the Attorney General of Switzerland, or the Deputies of the Attorney General of Switzerland.[^40a-4]
+<sup>4</sup> It determines the details of the employment contracts of the judges, the Attorney General of Switzerland, or the deputies of the Attorney General of Switzerland.[^40a-6]
 
 <sup>5</sup> Each parliamentary group has the right to at least one seat on the Committee.
 
-<sup>6</sup> The Control Committees and the Finance Delegation shall notify the Judiciary Committee of findings that raise serious questions as to the professional or personal suitability of judges, the Attorney General of Switzerland, or the Deputies of the Attorney General of Switzerland.[^40a-5]
+<sup>6</sup> The Control Committees and the Finance Delegation shall notify the Judiciary Committee of findings that raise serious questions as to the professional or personal suitability of judges, the Attorney General of Switzerland, the deputies of the Attorney General of Switzerland, and the Commissioner.[^40a-7]
 
 [^40a-1]: Inserted by No II of the FA of 13 Dec 2003, in force since 1 Aug. 2003 ([AS 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1181](https://fedlex.data.admin.ch/eli/fga/2002/147)).
-[^40a-2]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-2]: Inserted by Annex 1 No II 12 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-3]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-4]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-4]: Amended by Annex 1 No II 12 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-5]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-6]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-7]: Amended by Annex 1 No II 12 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
 
@@ -747,6 +777,40 @@ In order to fulfil their duties, the committees may:
 - d. conduct inspections.
 
 <sup>2</sup> The committees may appoint sub-committees from their members. These shall report and submit proposals to the committee. Joint sub-committees may be appointed by two or more committees.
+
+#### Art. 45a
+
+**Meetings**[^45a-1]
+
+<sup>1</sup> The meetings of the committees are generally held in accordance with an annual meeting schedule.
+
+<sup>2</sup> The president may cancel meetings or schedule additional meetings. Decisions of the committee to the contrary remain reserved.
+
+<sup>3</sup> Between ordinary meetings, the committee shall be convened on an unscheduled meeting day if the majority of committee members have agreed to a corresponding request by circular resolution, in which an item of business is specified, the handling of which is urgent.
+
+[^45a-1]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
+#### Art. 45b
+
+**Virtual meetings**[^45b-1]
+
+<sup>1</sup>
+
+The committees may hold their meetings virtually if:
+
+- a. an in-person meeting is not possible; or
+- b. urgent decisions or decisions on how to proceed are to be taken.
+
+<sup>2</sup> A meeting may only be held virtually if the president and the majority of the committee members have given their consent by circular resolution.
+
+<sup>3</sup>
+
+The following persons may be connected virtually to a committee meeting taking place in person:
+
+- a. committee members for whom representation is not legally possible;
+- b. participants in hearings in accordance with Article 45 paragraph 1 letters b and c.
+
+[^45b-1]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 46
 
@@ -1596,11 +1660,14 @@ A parliamentary initiative shall in particular be judged appropriate if:
 
 <sup>3</sup> It shall submit the report and bill that it submits to its Council to the Federal Council at the same time in order that the Federal Council may state its opinion thereon within an appropriate period; excepted from the foregoing are provisions on the organisation or the procedures of the Federal Assembly that are not laid down by statute and which do not directly affect Federal Council.[^112-3]
 
+<sup>3bis</sup> In the case of a draft bill under Article 165 or Article 173 paragraph 1 letter c of the Federal Constitution, the deadline for the Federal Council's opinion may be set in such a way that it can be dealt with in the next ordinary or extraordinary session.[^112-4]
+
 <sup>4</sup> If the Federal Council requests any alteration, the committee shall discuss the opinion of the Federal Council before consideration of the bill in the first chamber.
 
 [^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 [^112-2]: Amended by Art. 12 No 1 of the Consultation Procedure Act of 18 March 2005, in force since 1 Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 [^112-3]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^112-4]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 113
 
@@ -1738,6 +1805,10 @@ A procedural request made by a council member or a parliamentary group shall be 
 
 <sup>1</sup> The Federal Council shall normally propose the acceptance or rejection of a motion by the start of the next ordinary session following its submission. It shall submit its proposal in relation to a committee motion that is submitted less than a month before the start of the next ordinary session by the start of the session following the next session.
 
+<sup>1bis</sup> If identical motions have been submitted by committees of both Councils no later than one week before the next ordinary or extraordinary session, the Federal Council shall submit its proposal by the time the motion is discussed in that session.[^121-2]
+
+<sup>1ter</sup> Committee motions that request the Federal Council to enact or amend an ordinance based on Article 184 paragraph 3 or Article 185 paragraph 3 of the Federal Constitution or on a statutory authorisation to deal with a crisis in accordance with Annex 2 shall be placed on the agenda of the next or current ordinary or extraordinary session. The Federal Council shall submit its proposal in writing or orally.[^121-3]
+
 <sup>2</sup> If one chamber rejects a motion, the motion is regarded as having been dealt with. If the chamber to which the motion has been submitted approves the same, the motion goes to the other chamber.
 
 <sup>3</sup>
@@ -1753,9 +1824,9 @@ If the second chamber makes an amendment, the first chamber may in the second co
 
 - a. agree to the amendment;
 - b. stand by its decision to accept the motion in its original form; or
-- c. irrevocably reject the motion.[^121-2]
+- c. irrevocably reject the motion.[^121-4]
 
-<sup>4bis</sup> If the first chamber in the second consideration stands by its decision to accept the motion in its original form, the second chamber may agree to this decision or irrevocably reject the motion.[^121-3]
+<sup>4bis</sup> If the first chamber in the second consideration stands by its decision to accept the motion in its original form, the second chamber may agree to this decision or irrevocably reject the motion.[^121-5]
 
 <sup>5</sup>
 
@@ -1765,14 +1836,25 @@ A motion accepted by the first chamber without the agreement of the second chamb
 - b. it is a committee motion and an identical committee motion is accepted in the other chamber.
 
 [^121-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^121-2]: Amended by No I of the FA of 18 June 2021 (Resolution of Differences in the case of Motions), in force since 1 Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
-[^121-3]: Inserted by No I of the FA of 18 June 2021 (Resolution of Differences in the case of Motions), in force since 1 Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-2]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^121-3]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^121-4]: Amended by No I of the FA of 18 June 2021 (Resolution of Differences in the case of Motions), in force since 1 Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-5]: Inserted by No I of the FA of 18 June 2021 (Resolution of Differences in the case of Motions), in force since 1 Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 
 **Procedure for approved motions**[^122-1]
 
-<sup>1</sup> If a motion is still pending after two years, the Federal Council shall report to the Federal Assembly each year on what it has done in relation thereto and on how it intends to fulfil the mandate. This report shall be submitted to the committees responsible.
+<sup>1</sup> If a motion is still pending after two years, the Federal Council shall report to the Federal Assembly each year on what it has done in relation thereto and on how it intends to fulfil the mandate.[^122-2]
+
+<sup>1bis</sup>
+
+The Federal Council shall report immediately if:
+
+- a. a committee motion requesting the amendment of a Federal Council ordinance that has been in force for less than one year or of a draft Federal Council ordinance is still pending after six months; or
+- b. a committee motion requesting the enactment or amendment of an ordinance based on Article 184 paragraph 3 or Article 185 paragraph 3 of the Federal Constitution or on a statutory authorisation to manage a crisis in accordance with Annex 2 is still pending after the deadline for reporting provided for in the motion text has expired.[^122-3]
+
+<sup>1ter</sup> The Federal Council's report shall be forwarded to the relevant committees.[^122-4]
 
 <sup>2</sup> A committee or the Federal Council shall request that a motion be closed if its mandate has been fulfilled. The request shall be addressed to both chambers unless the motion relates to issues of the organisation or procedure of a specific chamber.
 
@@ -1790,6 +1872,9 @@ A request for a motion to be closed may also be made if the mandate has not been
 <sup>6</sup> If the Federal Council fails to comply with the period fixed, a decision on extending the period allowed or on closing the motion shall be taken in the next ordinary session in both chambers at the request of the committees responsible.
 
 [^122-1]: Amended by No I of the FA of 5 Oct. 2007 (Binding effect of the motion), in force since 26 May 2008 ([AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198)[2149](https://fedlex.data.admin.ch/eli/fga/2007/329)). See also the transitional provision for this amendment at the end of this text.
+[^122-2]: Amended by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^122-3]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^122-4]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### Section 3 Postulates
 
@@ -2108,16 +2193,17 @@ The Federal Council shall submit to the Federal Assembly:
 - b. the drafts for the ordinary updates and additional credits, two months prior to the start of the session in which they are to be considered;
 - c. the state accounts, every year two months prior to the start of the session in which they are to be considered.
 
-<sup>2</sup> It shall accept the drafts for the budget as well as the accounts of the Federal Assembly, the federal courts, the Federal Audit Office, the Office of the Attorney General of Switzerland and the Supervisory Authority for the Office of the Attorney General of Switzerland without modification and incorporate them into its draft budget and the state accounts.[^142-2]
+<sup>2</sup> It shall accept the drafts for the budget as well as the accounts of the Federal Assembly, the federal courts, the Federal Audit Office, the Office of the Attorney General of Switzerland, the Supervisory Authority for the Office of the Attorney General of Switzerland and the Federal Data Protection and Information Commissioner (FDPIC) without modification and incorporate them into its draft budget and the state accounts.[^142-2]
 
-<sup>3</sup> The Federal Supreme Court is responsible for presenting the draft budget and the draft accounts of the federal courts to the Federal Assembly. The Administration Delegation of the Federal Assembly is responsible for presenting the draft budget and accounts of the Federal Assembly, the Finance Delegation for presenting the draft budget and accounts of the Federal Audit Office, and the Supervisory Authority for the Office of the Attorney General of Switzerland for itself and for the Office of the Attorney General of Switzerland.[^142-3]
+<sup>3</sup> The Federal Supreme Court is responsible for presenting the draft budget and the draft accounts of the federal courts to the Federal Assembly. The Administration Delegation of the Federal Assembly is responsible for presenting the draft budget and accounts of the Federal Assembly, the Finance Delegation for presenting the draft budget and accounts of the Federal Audit Office, and the Supervisory Authority for the Office of the Attorney General of Switzerland for itself and for the Office of the Attorney General of Switzerland. The FDPIC shall present the draft of its budget and its accounts to the Federal Assembly.[^142-3] [^142-4]
 
-<sup>4</sup> The Federal Council shall arrange for projections on the expected annual return to be issued as per 30 June and 30 September. It shall notify the Finance Committees thereof.[^142-4]
+<sup>4</sup> The Federal Council shall arrange for projections on the expected annual return to be issued as per 30 June and 30 September. It shall notify the Finance Committees thereof.[^142-5]
 
 [^142-1]: Amended by Art. 65 No 1 of the Financial Budget Act of 7 Oct. 2005, in force since 1 May 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-3]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-4]: Inserted by Art. 65 No 1 of the Financial Budget Act of 7 Oct. 2005, in force since 1 May 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+[^142-2]: Amended by Annex 1 No II 12 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-3]: Third sentence inserted by Annex 1 No II 12 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-4]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-5]: Inserted by Art. 65 No 1 of the Financial Budget Act of 7 Oct. 2005, in force since 1 May 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
 
 #### Art. 143
 
@@ -2252,7 +2338,11 @@ They have no right to information:
 
 <sup>2</sup> If an ordinance requires to be amended or enacted following the adoption of an enactment of the Federal Assembly, the committee shall decide in the vote on the bill in its entirety whether it wishes to be consulted.
 
+<sup>2bis</sup> The Federal Council shall consult the relevant committees on the draft ordinances and amendments to ordinances that it issues on the basis of Article 185 paragraph 3 of the Federal Constitution or on the basis of a statutory authorisation to deal with a crisis in accordance with Annex 2. If the draft contains information classified as ‘confidential’ or ‘secret’, it shall inform the Finance Delegation and the Control Delegation instead.[^151-1]
+
 <sup>3</sup> The Federal Council shall inform the Federal Assembly of the ordinances that it is preparing.
+
+[^151-1]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 152
 
@@ -2563,7 +2653,9 @@ The following provisions on procedural relations between the Federal Assembly an
 
 **Repeal and amendment of current legislation**
 
-The repeal and the amendment of the current legislation are regulated in the Annex.
+The repeal and the amendment of the current legislation are regulated in the Annex[^172-1].
+
+[^172-1]: Today: Annex 1.
 
 #### Art. 173
 
@@ -2587,23 +2679,31 @@ The previous law also applies to business that is pending in either chamber on t
 
 Articles 163–171 apply to parliamentary investigation committees that are appointed after the date on which this Act comes into force.
 
-### Transitional provision relating to Art. 40a (Judiciary Committee)
+### 5. Transitional provision relating to Art. 40a (Judiciary Committee)
 
-...[^173-subdivu5-1]
+[^173-subdivu5-1]
 
 [^173-subdivu5-1]: Inserted by Art. 5 No 1 of the FA of 18 March 2005 on the Establishment of the Federal Administrative Court, in force from 1 Oct. 2005 until 31 Dec. 2006 ([AS 2005 4603](https://fedlex.data.admin.ch/eli/oc/2005/599); [BBl 2004 4787](https://fedlex.data.admin.ch/eli/fga/2004/845)).
 
-### Transitional provision relating to Art. 86 para. 4, 97 para. 2 and 101 para. 2 and 3 (Popular Initiatives)
+<sup>1</sup> The Judiciary Committee is responsible for the initial appointment of judges to the divisions of the Federal Administrative Court.
 
-The amendments to Articles 86 paragraph 4, 97 paragraph 2 and 101 paragraphs 2 and 3 apply to popular initiatives in respect of which the Federal Council has yet to submit a draft federal decree on the popular initiative to the Federal Assembly as of the commencement of the amendment to this Act of 3 October 2008.[^173-subdivu6-1]
+<sup>2</sup> In making the appointments, appropriate account shall be taken of the specialist knowledge of the judges and the official languages shall be taken.
+
+### 6. Transitional provision relating to Art. 86 para. 4, 97 para. 2 and 101 para. 2 and 3 (Popular Initiatives)
+
+[^173-subdivu6-1]
 
 [^173-subdivu6-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Transitional provision relating to Art. 105 para. 1<sup>bi</sup> in accordance with the Amendment of 25 September 2009 (Extension of the period for dealing with a Popular Initiative)
+The amendments to Articles 86 paragraph 4, 97 paragraph 2 and 101 paragraphs 2 and 3 apply to popular initiatives in respect of which the Federal Council has yet to submit a draft federal decree on the popular initiative to the Federal Assembly as of the commencement of the amendment to this Act of 3 October 2008.
 
-The new law applies to federal popular initiatives that are pending when the Amendment to this Act of 25 September 2009 comes into force.[^173-subdivu7-1]
+### 7. Transitional provision relating to Art. 105 para. 1<sup>bi</sup> in accordance with the Amendment of 25 September 2009 (Extension of the period for dealing with a Popular Initiative)
+
+[^173-subdivu7-1]
 
 [^173-subdivu7-1]: Inserted by No II of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+
+The new law applies to federal popular initiatives that are pending when the Amendment to this Act of 25 September 2009 comes into force.
 
 #### Art. 174
 
@@ -2613,13 +2713,14 @@ The new law applies to federal popular initiatives that are pending when the Ame
 
 <sup>2</sup> The Conference for Coordination shall determine the date on which this Act comes into force.
 
-<sup>3</sup> Articles 14, 15 and 61 shall come into force at the start of the first session following the first general election to the National Council to take place after the date on which this Act comes into force.[^174-1] On the same date, Article 18 of the Federal Act of 17 December 1976[^174-2] on Political Rights (Annex Sec. II 1) shall be repealed.
+<sup>3</sup> Articles 14, 15 and 61 shall come into force at the start of the first session following the first general election to the National Council to take place after the date on which this Act comes into force.[^174-1] On the same date, Article 18 of the Federal Act of 17 December 1976[^174-2] on Political Rights (Annex[^174-3] No II 1) shall be repealed.
 
-Commencement Date: 1 Dec. 2003[^174-3]
+Commencement Date: 1 Dec. 2003[^174-4]
 
 [^174-1]: First day of the winter session 2007 (3 Dec. 2007).
 [^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^174-3]: Ordained by the Coordination Conference of the FA of 16 Sept. 2002 (AS **2003** 3593).
+[^174-3]: Today: Annex 1.
+[^174-4]: Ordained by the Coordination Conference of the FA of 16 Sept. 2002 (AS **2003** 3593).
 
 ## Transitional Provision relating to the Amendment of 5 October 2007
 
@@ -2645,11 +2746,13 @@ The previous law applies when dealing with applications to lift immunity and sim
 
 The previous law applies to parliamentary initiatives and cantonal initiatives that have already been assigned to a committee for preliminary examination when this amendment comes into force.
 
-Annex
+Annex 1[^t-1]
 
 (Art. 172)
 
 ## Repeal and Amendment of Current Legislation
+
+[^t-1]: Originally: Annex.
 
 I
 
@@ -2663,9 +2766,27 @@ II
 
 The following enactments are amended as follows:
 
-...[^annexu1-lvlu1-4]
-
 [^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 para. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226),[2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 3]
 [^annexu1-lvlu1-2]: [BS **1** 461]
 [^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 No 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
-[^annexu1-lvlu1-4]: The amendments may be consulted under [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).
+
+Annex 2[^t-2]
+
+(Art. 2 para. 3<sup>bis</sup>, 121 para. 1<sup>ter</sup>, 122 para. 1<sup>bis</sup> and 151 para. 2<sup>bis</sup>)
+
+The following provisions contain legal authorisations to deal with a crisis:
+
+- 1\. Article 55 of the Asylum Act of 26 June 1998[^t-3],
+- 2\. Article 62 of the Debt Enforcement and Bankruptcy Act of 11 April 1889[^t-4],
+- 3\. Articles 31–34 of the National Economic Supply Act of 17 June 2016[^t-5],
+- 4\. Articles 6 and 7 of the Customs Tariff Act of 9 October 1986[^t-6],
+- 5\. Article 48 of the Telecommunications Act of 30 April 1997[^t-7],
+- 6\. Articles 6 and 7 of the Epidemics Act of 28 September 2012[^t-8].
+
+[^t-2]: Inserted by No II of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^t-5]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
