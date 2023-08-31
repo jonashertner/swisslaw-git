@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. Juli 2023)
+vom 16. Dezember 2005 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2452,11 +2452,11 @@ Der Bundesrat kann mit ausländischen Staaten oder internationalen Organisatione
 
 #### Art. 101
 
-**Datenbearbeitung**[^101-1]
+**Bearbeitung von Personendaten**[^101-1]
 
-Das SEM, die zuständigen Ausländerbehörden der Kantone und, in seinem Zuständigkeitsbereich, das Bundesverwaltungsgericht können Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile von Ausländerinnen und Ausländern sowie von an Verfahren nach diesem Gesetz beteiligten Dritten bearbeiten oder bearbeiten lassen, soweit sie diese Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+Das SEM, die zuständigen Ausländerbehörden der Kantone und, in seinem Zuständigkeitsbereich, das Bundesverwaltungsgericht können Personendaten, einschliesslich besonders schützenswerter Personendaten, von Ausländerinnen und Ausländern sowie von an Verfahren nach diesem Gesetz beteiligten Dritten bearbeiten oder bearbeiten lassen, soweit sie diese Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
 
-[^101-1]: Fassung gemäss Ziff. I 1 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^101-1]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102
 
@@ -2608,16 +2608,15 @@ Folgende Behörden können zur Verhütung, Aufdeckung oder Ermittlung terroristi
 - c. die Bundesanwaltschaft;
 - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
 
-<sup>5</sup> Soweit der NDB die aufgrund einer Anfrage nach Absatz 4 übermittelten Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018[^103c-4] Anwendung.[^103c-5]
+<sup>5</sup> …[^103c-4]
 
-<sup>6</sup> Zentrale Zugangsstelle im Sinn von Artikel 29 Absatz 3 der Verordnung (EU) 2017/2226 ist die Einsatzzentrale des fedpol.[^103c-6]
+<sup>6</sup> Zentrale Zugangsstelle im Sinn von Artikel 29 Absatz 3 der Verordnung (EU) 2017/2226 ist die Einsatzzentrale des fedpol.[^103c-5]
 
 [^103c-1]: Eingefügt durch Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: Siehe Fussnote zu Art. 103*b* Abs. 1.
 [^103c-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-4]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
-[^103c-5]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-6]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-4]: Aufgehoben durch Ziff. III des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), mit Wirkung seit 1. Sept. 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-5]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
@@ -2707,7 +2706,7 @@ Die Meldepflicht gilt für folgende Datenkategorien:
 - f. Anzahl der mit dem betreffenden Flug beförderten Personen;
 - g. Datum und Zeit des geplanten Abfluges und der geplanten Ankunft.
 
-<sup>4</sup> Die Luftverkehrsunternehmen informieren die betroffenen Personen nach Artikel 18*a* des Bundesgesetzes vom 19. Juni 1992[^104-5] über den Datenschutz.
+<sup>4</sup> Die Luftverkehrsunternehmen informieren die betroffenen Personen nach Artikel 19 des Datenschutzgesetzes vom 25. September 2020[^104-5] (DSG).[^104-6]
 
 <sup>5</sup> Anordnungen oder Aufhebungen der Meldepflicht erfolgen als Allgemeinverfügung und werden im Bundesblatt publiziert. Beschwerden gegen solche Verfügungen haben keine aufschiebende Wirkung.
 
@@ -2723,6 +2722,7 @@ Die Luftverkehrsunternehmen dürfen die Daten nach Absatz 3 ausschliesslich zu B
 [^104-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^104-6]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 104a
 
@@ -2803,7 +2803,7 @@ Die Passagierlisten müssen die folgenden Daten enthalten:
 
 **Bekanntgabe von Personendaten ans Ausland**
 
-<sup>1</sup> Das SEM und die zuständigen Behörden der Kantone können zur Erfüllung ihrer Aufgaben, insbesondere zur Bekämpfung strafbarer Handlungen nach diesem Gesetz, Personendaten von Ausländerinnen und Ausländern den mit entsprechenden Aufgaben betrauten ausländischen Behörden und internationalen Organisationen bekannt geben, wenn diese für einen Datenschutz Gewähr bieten, der dem schweizerischen gleichwertig ist.
+<sup>1</sup> Das SEM und die zuständigen Behörden der Kantone können zur Erfüllung ihrer Aufgaben, insbesondere zur Bekämpfung strafbarer Handlungen nach diesem Gesetz, Personendaten von Ausländerinnen und Ausländern den mit entsprechenden Aufgaben betrauten ausländischen Behörden und internationalen Organisationen bekannt geben, sofern die Voraussetzungen nach Artikel 16 DSG[^105-1] erfüllt sind.[^105-2]
 
 <sup>2</sup>
 
@@ -2817,6 +2817,9 @@ Folgende Personendaten können bekannt gegeben werden:
 - f. die für die Sicherstellung der Einreise in den Zielstaat sowie für die Sicherheit der Begleitpersonen erforderlichen Daten;
 - g. Angaben über Aufenthaltsorte und Reisewege;
 - h. Angaben über die Regelung des Aufenthalts und erteilte Visa.
+
+[^105-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^105-2]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 106
 
@@ -2903,9 +2906,9 @@ Folgende Behörden können im Sinn des Beschlusses 2008/633/JI[^109a-8] zur Verh
 - c. die Bundesanwaltschaft;
 - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
 
-<sup>4</sup> Soweit der NDB die aufgrund einer Anfrage nach Absatz 3 übermittelten Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018[^109a-10] Anwendung.[^109a-11]
+<sup>4</sup> …[^109a-10]
 
-<sup>5</sup> Zentrale Zugangsstelle im Sinn von Artikel 3 Absatz 3 des Beschlusses 2008/633/JI ist die Einsatzzentrale des fedpol.[^109a-12]
+<sup>5</sup> Zentrale Zugangsstelle im Sinn von Artikel 3 Absatz 3 des Beschlusses 2008/633/JI ist die Einsatzzentrale des fedpol.[^109a-11]
 
 [^109a-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 11. Okt. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109a-2]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) 2017/2226, ABl. L 327 vom 9.12.2017, S. 20.
@@ -2916,9 +2919,8 @@ Folgende Behörden können im Sinn des Beschlusses 2008/633/JI[^109a-8] zur Verh
 [^109a-7]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^109a-8]: Beschluss 2008/633/JI des Rates vom 23. Juni 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und von Europol zum Visa-Informationssystem (VIS) für Datenabfragen zum Zwecke der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten, Fassung gemäss ABl. L 218 vom 13.8.2008, S. 129.
 [^109a-9]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-10]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
-[^109a-11]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-12]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-10]: Aufgehoben durch Ziff. III des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), mit Wirkung seit 1. Sept. 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-11]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 
@@ -3214,7 +3216,9 @@ In dieser Eigenschaft kann es mit Hilfe automatisierter Verfahren namentlich Dat
 
 <sup>3</sup> Die schweizerischen Auslandvertretungen können mit ihren Partnern aus den Staaten, die durch eines der Schengen-Assoziierungsabkommen gebunden sind, die für die konsularische Zusammenarbeit vor Ort notwendigen Daten austauschen, namentlich Informationen über die Verwendung gefälschter oder verfälschter Dokumente und über Schleppernetze sowie Daten der in Absatz 2 erwähnten Kategorien.
 
-<sup>4</sup> Der Bundesrat kann die in Absatz 2 erwähnten Kategorien von Personendaten an die neuesten Entwicklungen des Schengen-Besitzstands anpassen. Er konsultiert dazu den Eidgenössischen Datenschutzbeauftragten.
+<sup>4</sup> Der Bundesrat kann die in Absatz 2 erwähnten Kategorien von Personendaten an die neuesten Entwicklungen des Schengen-Besitzstands anpassen. Er konsultiert dazu den Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)[^111b-1].
+
+[^111b-1]: Ausdruck gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111c
 
@@ -3232,15 +3236,15 @@ In dieser Eigenschaft kann es mit Hilfe automatisierter Verfahren namentlich Dat
 
 **Datenbekanntgabe an Drittstaaten**
 
-<sup>1</sup> An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, sofern diese ein angemessenes Datenschutzniveau gewährleisten.
+<sup>1</sup> An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, wenn sie ein angemessenes Datenschutzniveau nach Artikel 16 Absatz 1 DSG[^111d-1] gewährleisten.[^111d-2]
 
 <sup>2</sup>
 
-Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten im Einzelfall bekannt gegeben werden, wenn:
+Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten in folgenden Fällen bekannt gegeben werden:
 
-- a. die betroffene Person ohne jeden Zweifel eingewilligt hat; handelt es sich um besonders schützenswerte Personendaten oder Persönlichkeitsprofile, so muss die Einwilligung ausdrücklich sein;
-- b. die Bekanntgabe erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen; oder
-- c. die Bekanntgabe zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht erforderlich ist.
+- a. Die betroffene Person hat nach Artikel 6 Absatz 6 und gegebenenfalls Absatz 7 DSG eingewilligt.
+- b. Die Bekanntgabe ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist deren Einwilligung einzuholen.
+- c. Die Bekanntgabe ist notwendig zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht oder einer anderen zuständigen ausländischen Behörde.[^111d-3]
 
 <sup>3</sup> Neben den in Absatz 2 genannten Fällen können Personendaten auch bekannt gegeben werden, wenn im Einzelfall hinreichende Garantien einen angemessenen Schutz der betroffenen Person gewährleisten.
 
@@ -3252,9 +3256,12 @@ Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen �
 
 - a. einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist;
 - b. internationale Organisationen;
-- c. private Stellen.[^111d-1]
+- c. private Stellen.[^111d-4]
 
-[^111d-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^111d-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^111d-2]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^111d-3]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^111d-4]: Eingefügt durch Anhang Ziff. 1 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 111e
 
@@ -3266,15 +3273,16 @@ Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen �
 
 **Auskunftsrecht**
 
-Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone.[^111f-1] Der Inhaber der Datensammlung erteilt auch Auskunft über die verfügbaren Angaben zur Herkunft der Daten.
+Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone.[^111f-1] …[^111f-2]
 
 [^111f-1]: Fassung gemäss Ziff. 1 des BG vom 19. März über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, in Kraft seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^111f-2]: Zweiter Satz aufgehoben durch Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111g
 
 **Aufsicht über die Datenbearbeitung im Rahmen der Zusammenarbeit von Schengen**[^111g-1]
 
-<sup>1</sup> Die kantonalen Datenschutzbehörden und der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) arbeiten im Rahmen ihrer jeweiligen Zuständigkeiten zusammen.
+<sup>1</sup> Die kantonalen Datenschutzbehörden und der EDÖB arbeiten im Rahmen ihrer jeweiligen Zuständigkeiten zusammen.
 
 <sup>2</sup> Der EDÖB übt die Aufsicht über die Bearbeitung von Personendaten im Rahmen der Zusammenarbeit von Schengen aus. Er koordiniert die Aufsichtstätigkeit mit den kantonalen Datenschutzbehörden.
 

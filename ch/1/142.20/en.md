@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230701-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 July 2023)
+of 16 December 2005 (Status as of 1 September 2023)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1788,6 +1788,7 @@ The detention order is revoked if:
 
 - a. the person concerned is unable to leave Switzerland independently and in the proper manner, even though they have fulfilled the obligations to cooperate specified by the authorities;
 - b. they leave Switzerland as ordered;
+
 - c. detention pending deportation is ordered;
 - d. a request for release from detention is granted.
 
@@ -2450,11 +2451,11 @@ The Federal Council may conclude agreements with foreign states or international
 
 #### Art. 101
 
-**Data processing**[^101-1]
+**Processing of personal data**[^101-1]
 
-SEM, the cantonal immigration authorities and, where it has jurisdiction, the Federal Administrative Court may process or instruct someone else to process personal data, including particularly sensitive data and personality profiles of foreign nationals as well third parties involved in procedures in accordance with this Act, insofar as they need this data to fulfil their statutory duties.
+SEM, the cantonal immigration authorities and, where it has jurisdiction, the Federal Administrative Court may process or instruct someone else to process personal data, including sensitive personal data, of foreign nationals as well third parties involved in procedures in accordance with this Act, insofar as they need this data to fulfil their statutory duties.
 
-[^101-1]: Amended by No I 1 of the Ordinance of the Federal Assembly of 20 Dec. 2006 on the Adaptation of Legislation to the Provisions of the Federal Supreme Court Act and the Federal Administrative Court Act, in force since 1 Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^101-1]: Amended by Annex 1 No II 4 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102
 
@@ -2606,16 +2607,15 @@ The following authorities may request EES data from the central access point und
 - c. the Office of the Attorney General of Switzerland;
 - d. the cantonal police and prosecution authorities and the police authorities of the cities of Zurich, Winterthur, Lausanne, Chiasso and Lugano.
 
-<sup>5</sup> If the FIS processes data transmitted on the basis of a request in accordance with paragraph 4, the Schengen Data Protection Act of 28 september 2018[^103c-4] applies.[^103c-5]
+<sup>5</sup> …[^103c-4]
 
-<sup>6</sup> The central access point under Article 29 paragraph 3 of Regulation (EU) 2017/2226 is the fedpol Operations Centre.[^103c-6]
+<sup>6</sup> The central access point under Article 29 paragraph 3 of Regulation (EU) 2017/2226 is the fedpol Operations Centre.[^103c-5]
 
 [^103c-1]: Inserted by the Annex to the FD of 21 June 2019 (Adoption of the Legislation for Establishing and Using an Entry and Exit System [EES], Regulations [EU] 2017/2226 and 2017/2225), in force since 1 May 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: See footnote to Art. 103*b* para. 1.
 [^103c-3]: Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-4]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
-[^103c-5]: Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-6]: Inserted by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-4]: Repealed by No III of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), with effect from 1 Sept. 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-5]: Inserted by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
@@ -2705,7 +2705,7 @@ The duty to provide data applies to the following data categories:
 - f. number of persons carried on the flight concerned;
 - g. planned date and time of departure and arrival.
 
-<sup>4</sup> The air carriers shall inform the persons concerned in accordance with Article 18*a* of the Federal Act of 19 June 1992[^104-5] on Data Protection.
+<sup>4</sup> The air carriers shall inform the persons concerned in accordance with Article 19 of the Data Protection Act of 25 September 2020[^104-5] (FADP).[^104-6]
 
 <sup>5</sup> Orders imposing or lifting the duty to provide data are made as general rulings and are published in the Federal Gazette. Appeals against such rulings do not have suspensive effect.
 
@@ -2721,6 +2721,7 @@ Air carriers may retain the data in accordance with paragraph 3 solely for evide
 [^104-3]: Inserted by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-4]: Inserted by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^104-6]: Amended by Annex 1 No II 4 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 104a
 
@@ -2801,7 +2802,7 @@ The passenger lists must contain the following data:
 
 **Disclosure of personal data abroad**
 
-<sup>1</sup> In order to fulfil their duties, and in particular to combat criminal offence in terms of this Act, SEM and the competent authorities of the cantons may disclose personal data of foreign nationals to foreign authorities and international organisations entrusted with corresponding duties provided such authorities and organisation guarantee a level of data protection equivalent to that in Switzerland.
+<sup>1</sup> In order to fulfil their duties, and in particular to combat criminal offence in terms of this Act, SEM and the competent authorities of the cantons may disclose personal data of foreign nationals to foreign authorities and international organisations entrusted with corresponding duties provided the requirements of Article 16 FADP[^105-1] are met.[^105-2]
 
 <sup>2</sup>
 
@@ -2815,6 +2816,9 @@ The following personal data may be disclosed:
 - f. the data required for ensuring entry to the destination country as well as for the security of the accompanying persons;
 - g. information on the places of stay and routes travelled;
 - h. information on the regulation of the period of stay and the visas granted.
+
+[^105-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^105-2]: Amended by Annex 1 No II 4 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 106
 
@@ -2901,9 +2905,9 @@ The following authorities may request specific C-VIS data from the central acces
 - c. the Office of the Attorney General of Switzerland;
 - d. the cantonal police and prosecution authorities and the police authorities of the cities of Zurich, Winterthur, Lausanne, Chiasso and Lugano.
 
-<sup>4</sup> If the FIS processes data transmitted on the basis of a request in accordance with paragraph 3, the Schengen Data Protection Act. pf 28 September 2028[^109a-10] applies.[^109a-11]
+<sup>4</sup> …[^109a-10]
 
-<sup>5</sup> The central access point in accordance with Article 3 paragraph 3 of Decision 2008/633/JI is the fedpol operations centre.[^109a-12]
+<sup>5</sup> The central access point in accordance with Article 3 paragraph 3 of Decision 2008/633/JI is the fedpol operations centre.[^109a-11]
 
 [^109a-1]: Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 11 Oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109a-2]: Regulation (EC) No 767/2008 of the European Parliament and of the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation), OJ. L 218 of 13.8.2008, p. 60; last amended by Regulation (EU) 2017/2226, OJ L 327 of 9.12.2017, p. 20.
@@ -2914,9 +2918,8 @@ The following authorities may request specific C-VIS data from the central acces
 [^109a-7]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Arrangements and Information Systems), in force since 1 April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^109a-8]: Council Decision 2008/633/JI of 23 June 2008 concerning access for consultation of the Visa Information System (VIS) by designated authorities of Member States and by Europol for the purposes of the prevention, detection and investigation of terrorist offences and of other serious criminal offences, OJ. L 218 of 13.8.2008, p. 129.
 [^109a-9]: Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-10]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
-[^109a-11]: Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-12]: Inserted by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-10]: Repealed by No III of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), with effect from 1 Sept. 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-11]: Inserted by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 
@@ -3211,7 +3214,9 @@ In this capacity, it may use automated procedures to disclose and retrieve in pa
 
 <sup>3</sup> The Swiss foreign representations may exchange data required at their location for consular cooperation with their partners from states that are bound by a Schengen Association Agreement, and in particular information about the use of forged or falsified documents and about human smuggling networks as well as data of the categories mentioned in paragraph 2.
 
-<sup>4</sup> The Federal Council may adapt the categories of personal data mentioned in paragraph 2 to the latest developments of the Schengen Acquis. For this purpose, it shall consult the Federal Data Protection Commissioner.
+<sup>4</sup> The Federal Council may adapt the categories of personal data mentioned in paragraph 2 to the latest developments of the Schengen Acquis. For this purpose, it shall consult the Federal Data Protection and Information Commissioner (FDPIC)[^111b-1].
+
+[^111b-1]: Term in accordance with Annex 1 No II 4 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111c
 
@@ -3229,15 +3234,15 @@ In this capacity, it may use automated procedures to disclose and retrieve in pa
 
 **Disclosure of data to third countries**
 
-<sup>1</sup> Personal data may only be disclosed to third countries if they guarantee an adequate standard of data protection.
+<sup>1</sup> Personal data may only be disclosed to third countries if they guarantee an adequate level of data protection in accordance with Article 16 paragraph 1 FADP[^111d-1].[^111d-2]
 
 <sup>2</sup>
 
-If a third country fails to guarantee an adequate standard of data protection, personal data may disclosed to this country in individual cases if:
+If a third country fails to guarantee an adequate level of data protection, personal data may be disclosed to this country in the following cases:
 
-- a. the person concerned gives their unequivocal consent; if the personal data or personality profiles are particularly sensitive, consent must be given expressly;
-- b. the disclosure is required to protect the life or physical integrity of the person concerned; or
-- c. the disclosure is required to safeguard overriding public interests or to establish, exercise or enforce legal rights in court.
+- a. the person concerned has given their consent in accordance with Article 6 paragraph 6 and if applicable paragraph 7 FADP;
+- b. disclosure is required to protect the life or physical integrity of the person concerned and it is not possible to obtain consent within a reasonable time; or
+- c. disclosure is required to safeguard overriding public interests or to establish, exercise or enforce legal rights in a court or before another competent foreign authority.[^111d-3]
 
 <sup>3</sup> In addition to the cases mentioned in paragraph 2, personal data may also be disclosed if in specific cases adequate guarantees ensure appropriate protection of the person concerned.
 
@@ -3249,9 +3254,12 @@ The data obtained from the Eurodac database may not be transmitted under any cir
 
 - a. a state that is not bound by any of the Dublin association agreements;
 - b. international organisations;
-- c. private entities.[^111d-1]
+- c. private entities.[^111d-4]
 
-[^111d-1]: Inserted by Annex No 2 of the FD of 26 Sept. 2014 (Adoption of R [EU] No 603/2013 on the Establishment of Eurodac and the amendment to R [EU] No 1077/2011 on the Establishment of the IT Agency), in force since 20 July 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^111d-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^111d-2]: Amended by Annex 1 No II 4 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^111d-3]: Amended by Annex 1 No II 4 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^111d-4]: Inserted by Annex No 2 of the FD of 26 Sept. 2014 (Adoption of R [EU] No 603/2013 on the Establishment of Eurodac and the amendment to R [EU] No 1077/2011 on the Establishment of the IT Agency), in force since 20 July 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 111e
 
@@ -3263,15 +3271,16 @@ The data obtained from the Eurodac database may not be transmitted under any cir
 
 **Right to information**
 
-The right to information is governed by the federal or cantonal data protection provisions[^111f-1]. The proprietor of the data collection shall also furnish information on the details available on the origin of the data.
+The right to information is governed by the federal or cantonal data protection provisions[^111f-1]. …[^111f-2]
 
 [^111f-1]: Amended by No 1 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, in force since 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^111f-2]: Second sentence repealed by Annex 1 No II 4 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111g
 
 **Supervision of data processing related to Schengen cooperation**[^111g-1]
 
-<sup>1</sup> The cantonal data protection authorities and the Federal Data Protection and Information Commissioner (FDPIC) shall work together within the scope of their respective responsibilities.
+<sup>1</sup> The cantonal data protection authorities and the FDPIC shall work together within the scope of their respective responsibilities.
 
 <sup>2</sup> The FDPIC shall supervise the processing of personal data related to Schengen cooperation. It shall coordinate its supervisory activities with the cantonal data protection authorities.
 
@@ -3681,7 +3690,7 @@ The repeal and the amendment of current legislation are regulated in the Annex.
 
 <sup>4</sup> Subject to the paragraphs 5–7, the new legislation applies to persons who were temporarily admitted at the time of the commencement of the Amendment of 16 December 2005 to the AsylA as well as of this Act. If temporary admission was ordered on the basis of Article 44 paragraph 3 of the AsylA, it continues to apply.
 
-<sup>5</sup> For persons who were admitted at the time of the commencement of the Amendment of 16 December 2005, the Confederation shall pay the cantons flat-rate payments in accordance with Articles 88 paragraphs 1 and 2 and 89 of the AsylA for the duration of temporary admission, but for a maximum of seven years from the date of entry. In addition the Confederation shall pay the cantons to a one-time contribution for persons who were temporarily admitted at the time of the commencement of the Amendment of 16 December 2005 to the AsylA with the intention in particular of facilitating professional integration. The Federal Council shall determine the amount.
+<sup>5</sup> For persons who were admitted at the time of the commencement of the Amendment of 16 December 2005, the Confederation shall pay the cantons flat-rate payments in accordance with Articles 88 paragraphs 1 and 2 and 89 of the AsylA for the duration of temporary admission, but for a maximum of seven years from the date of entry. In addition, the Confederation shall pay the cantons to a one-time contribution for persons who were temporarily admitted at the time of the commencement of the Amendment of 16 December 2005 to the AsylA with the intention in particular of facilitating professional integration. The Federal Council shall determine the amount.
 
 <sup>6</sup> The current legislation applies to procedures in accordance with Article 20 paragraph 1 letter b of the Federal Act of 26 March 1931 on the Residence and Settlement of Foreign Nationals (ANAG) in its version of 19 December 2003[^126a-4] that are pending at the time of the commencement of the Amendment of 16 December 2005 to the AsylA.
 

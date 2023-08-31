@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230701/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> juillet 2023)
+du 16 décembre 2005 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -2459,11 +2459,11 @@ Le Conseil fédéral peut conclure avec des États étrangers ou des organisatio
 
 #### Art. 101
 
-**Traitement des données**[^101-1]
+**Traitement de données personnelles**[^101-1]
 
-Dans la mesure où l’accomplissement de leur mandat légal l’exige, le SEM, les autorités cantonales chargées des questions relatives aux étrangers et, dans la limite de ses compétences, le Tribunal administratif fédéral peuvent traiter ou faire traiter les données personnelles relatives aux étrangers et aux tiers participant à une procédure prévue par la présente loi, y compris les données sensibles et les profils de la personnalité.
+Dans la mesure où l’accomplissement de leur mandat légal l’exige, le SEM, les autorités cantonales chargées des questions relatives aux étrangers et, dans la limite de ses compétences, le Tribunal administratif fédéral peuvent traiter ou faire traiter des données personnelles relatives aux étrangers et aux tiers participant à une procédure prévue par la présente loi, y compris des données sensibles.
 
-[^101-1]: Nouvelle teneur selon le ch. I 1 de l’O de l’Ass. féd. du 20 déc. 2006 concernant l’adaptation d’actes législatifs aux disp. de la LF sur le TF et de la LF sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7351](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^101-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 102
 
@@ -2615,16 +2615,15 @@ Les autorités suivantes peuvent demander des données de l’EES au point d’a
 - c. le Ministère public de la Confédération;
 - d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, Winterthour, Lausanne, Chiasso et Lugano.
 
-<sup>5</sup> Dans la mesure où le SRC traite des données qui lui sont transmises suite à une demande déposée conformément à l’al. 4, la loi du 28 septembre 2018 sur la protection des données Schengen[^103c-4] est applicable.[^103c-5]
+<sup>5</sup> …[^103c-4]
 
-<sup>6</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 29, par. 3, du règlement (UE) 2017/2226.[^103c-6]
+<sup>6</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 29, par. 3, du règlement (UE) 2017/2226.[^103c-5]
 
 [^103c-1]: Introduit par l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: Cf. note de bas de page relative à l’art. 103*b*, al. 1.
 [^103c-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-4]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
-[^103c-5]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-6]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-4]: Abrogé par le ch. III de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-5]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
@@ -2714,7 +2713,7 @@ L’obligation de communiquer s’applique aux catégories de données suivantes
 - f. le nombre de passagers à bord du vol en question;
 - g. la date et les heures de départ et d’arrivée prévues.
 
-<sup>4</sup> Les entreprises de transport aérien informent les passagers concernés conformément à l’art. 18*a* de la loi fédérale du 19 juin 1992 sur la protection des données[^104-5].
+<sup>4</sup> Les entreprises de transport aérien informent les passagers concernés conformément à l’art. 19 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^104-5].[^104-6]
 
 <sup>5</sup> Les décisions ordonnant ou levant l’obligation de communiquer prennent la forme d’une décision de portée générale et sont publiées dans la Feuille fédérale. Le recours contre une décision de portée générale n’a pas d’effet suspensif.
 
@@ -2730,6 +2729,7 @@ Les entreprises de transport aérien ne peuvent conserver les données prévues 
 [^104-3]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-4]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^104-6]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 104a
 
@@ -2809,7 +2809,7 @@ Les listes de passagers doivent mentionner les éléments suivants:
 
 **Communication de données personnelles à l’étranger**
 
-<sup>1</sup> Afin d’accomplir leurs tâches et notamment de lutter contre les actes punissables en vertu de la présente loi, le SEM et les autorités cantonales compétentes peuvent communiquer des données personnelles concernant des étrangers aux autorités étrangères et aux organisations internationales chargées de tâches similaires, à condition que l’État ou l’organisation en question garantisse une protection des données équivalente à celle de la Suisse.
+<sup>1</sup> Afin d’accomplir leurs tâches, notamment de lutter contre les actes punissables en vertu de la présente loi, le SEM et les autorités cantonales compétentes peuvent communiquer des données personnelles concernant des étrangers aux autorités étrangères et aux organisations internationales chargées de tâches similaires, pour autant que les conditions de l’art. 16 LPD[^105-1] soient respectées.[^105-2]
 
 <sup>2</sup>
 
@@ -2823,6 +2823,9 @@ Les données personnelles suivantes peuvent être communiquées:
 - f. les données nécessaires pour assurer l’entrée dans l’État de destination et la sécurité des agents d’escorte;
 - g. des indications sur les lieux de séjour et sur les itinéraires empruntés;
 - h des indications sur les autorisations et les visas accordés.
+
+[^105-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^105-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 106
 
@@ -2909,9 +2912,9 @@ Les autorités suivantes peuvent, en vertu de la décision 2008/633/JAI[^109a-8]
 - c. le Ministère public de la Confédération;
 - d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, de Winterthour, de Lausanne, de Chiasso et de Lugano.
 
-<sup>4</sup> Dans la mesure où le SRC traite des données qui lui sont transmises suite à une demande déposée conformément à l’al. 3, la loi du 28 septembre 2018 sur la protection des données Schengen[^109a-10] est applicable.[^109a-11]
+<sup>4</sup> …[^109a-10]
 
-<sup>5</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 3, par. 3, de la décision 2008/633/JAI.[^109a-12]
+<sup>5</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 3, par. 3, de la décision 2008/633/JAI.[^109a-11]
 
 [^109a-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 11 oct. 2011 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109a-2]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (R VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2017/2226, JO L 327 du 9.12.2017, p. 20.
@@ -2922,9 +2925,8 @@ Les autorités suivantes peuvent, en vertu de la décision 2008/633/JAI[^109a-8]
 [^109a-7]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^109a-8]: Décision 2008/633/JAI du Conseil du 23 juin 2008 concernant l’accès en consultation au système d’information sur les visas (VIS) par les autorités désignées des États membres et par l’Office européen de police (Europol) aux fins de la prévention et de la détection des infractions terroristes et des autres infractions pénales graves, ainsi qu’aux fins des enquêtes en la matière; version du JO L 218 du 13.8.2008, p. 129.
 [^109a-9]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-10]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
-[^109a-11]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-12]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-10]: Abrogé par le ch. III de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-11]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 
@@ -3220,7 +3222,9 @@ Dans la mesure où l’accomplissement de leurs tâches l’exige, le SEM peut a
 
 <sup>3</sup> Les représentations suisses à l’étranger peuvent échanger avec leurs homologues des États liés par un des accords d’association à Schengen les données nécessaires à l’accomplissement des tâches relevant de la coopération consulaire au niveau local, notamment des informations sur l’utilisation de documents faux ou falsifiés et les filières d’immigration clandestine, ainsi que les catégories de données mentionnées à l’al. 2.
 
-<sup>4</sup> Le Conseil fédéral peut adapter les catégories de données personnelles mentionnées à l’al. 2 en fonction du développement de l’acquis de Schengen. Il consulte le Préposé fédéral à la protection des données.
+<sup>4</sup> Le Conseil fédéral peut adapter les catégories de données personnelles mentionnées à l’al. 2 en fonction du développement de l’acquis de Schengen. Il consulte le Préposé fédéral à la protection des données et à la transparence[^111b-1] (PFPDT).
+
+[^111b-1]: Nouvelle expression selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111c
 
@@ -3238,15 +3242,15 @@ Dans la mesure où l’accomplissement de leurs tâches l’exige, le SEM peut a
 
 **Communication de données personnelles à des États tiers**
 
-<sup>1</sup> Aucune donnée personnelle ne peut être communiquée à un État tiers si celui-ci n’assure pas un niveau adéquat de protection des données.
+<sup>1</sup> Aucune donnée personnelle ne peut être communiquée à un État tiers si celui-ci n’assure pas un niveau de protection des données adéquat au sens de l’art. 16, al. 1, LPD[^111d-1].[^111d-2]
 
 <sup>2</sup>
 
-Des données personnelles peuvent être communiquées à un État tiers en dépit de l’absence d’un niveau adéquat de protection des données dans les cas suivants:
+Des données personnelles peuvent être communiquées à un État tiers en dépit de l’absence d’un niveau de protection adéquat dans les cas suivants:
 
-- a. la personne concernée a indubitablement donné son consentement; s’il s’agit de données sensibles ou de profils de personnalité, le consentement doit être explicite;
-- b. la communication est nécessaire pour protéger la vie ou l’intégrité corporelle de la personne concernée;
-- c. la communication est indispensable à la sauvegarde d’un intérêt public prépondérant ou à la constatation, à l’exercice ou à la défense d’un droit en justice.
+- a. la personne concernée a donné son consentement au sens de l’art. 6, al. 6 et, le cas échéant, al. 7, LPD;
+- b. la communication est nécessaire pour protéger la vie ou l’intégrité corporelle de la personne concernée et il n’est pas possible d’obtenir le consentement de la personne concernée dans un délai raisonnable;
+- c. la communication est indispensable à la sauvegarde d’un intérêt public prépondérant ou à la constatation, à l’exercice ou à la défense d’un droit devant un tribunal ou une autre autorité étrangère compétente.[^111d-3]
 
 <sup>3</sup> Des données personnelles peuvent être communiquées en dehors des cas visés à l’al. 2 lorsque des garanties suffisantes permettent d’assurer, dans des cas particuliers, une protection adéquate de la personne concernée.
 
@@ -3258,9 +3262,12 @@ Les données issues de la banque de données Eurodac ne peuvent en aucun cas êt
 
 - a. à un État qui n’est pas lié par un des accords d’association à Dublin;
 - b. à des organisations internationales;
-- c. à des entités privées.[^111d-1]
+- c. à des entités privées.[^111d-4]
 
-[^111d-1]: Introduit par l’annexe ch. 1 de l’AF du 26 sept. 2014 (Reprise du R [EU] n<sup>o</sup> 603/2013 relatif à la création d’Eurodac et modifiant le R [UE] n<sup>o</sup> 1077/2011 portant création de l’Agence IT), en vigueur depuis le 20 juil. 2015 ([RO 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^111d-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^111d-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^111d-3]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^111d-4]: Introduit par l’annexe ch. 1 de l’AF du 26 sept. 2014 (Reprise du R [EU] n<sup>o</sup> 603/2013 relatif à la création d’Eurodac et modifiant le R [UE] n<sup>o</sup> 1077/2011 portant création de l’Agence IT), en vigueur depuis le 20 juil. 2015 ([RO 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 111e
 
@@ -3272,9 +3279,10 @@ Les données issues de la banque de données Eurodac ne peuvent en aucun cas êt
 
 **Droit d’accès**
 
-Le droit d’accès est régi par les dispositions fédérales ou cantonales de protection des données.[^111f-1] En outre, le maître du fichier fournit les informations dont il dispose concernant l’origine des données.
+Le droit d’accès est régi par les dispositions fédérales ou cantonales de protection des données.[^111f-1] …[^111f-2]
 
 [^111f-1]: Nouvelle teneur selon le ch. 1 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^111f-2]: Phrase abrogée par l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 111g
 
