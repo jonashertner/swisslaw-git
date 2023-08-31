@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sulla protezione degli animali (LPAn)
 short: LPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-414-20230901-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/it"
 
 (LPAn)
 
-del 16 dicembre 2005 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 16 dicembre 2005 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 80 capoversi 1 e 2 nonché 120 capoverso 2 della Costituzione
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2003 580](https://fedlex.data.admin.ch/eli/fga/2003/118)
 
 ## Capitolo 1: In generale
@@ -44,11 +44,11 @@ Scopo della presente legge è di tutelare la dignità e il benessere degli anima
 
 <sup>2</sup> Sono fatte salve le leggi federali del 20 giugno 1986[^2-1] sulla caccia, del 1° luglio 1966[^2-2] sulla protezione della natura e del paesaggio, del 21 giugno 1991[^2-3] sulla pesca, del 13 dicembre 2002[^2-4] sulla formazione professionale e del 1° luglio 1966[^2-5] sulle epizoozie.
 
-[^2-1]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^2-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^2-3]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^2-4]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^2-5]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^2-1]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^2-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^2-3]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^2-4]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^2-5]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 3
 
@@ -77,7 +77,7 @@ Nella presente legge s’intende per:
   - 5\. ottenere o riprodurre organismi estranei alla specie,
   - 6\. fornire un supporto all’insegnamento, alla formazione e alla formazione continua[^3-1].
 
-[^3-1]: Nuova espr. giusta il n. 20 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-1]: Nuova espr. giusta il n. 20 dell’all. della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -100,11 +100,11 @@ Chi si occupa di animali deve:
 
 <sup>1</sup> La Confederazione può promuovere la formazione e la formazione continua delle persone che si occupano degli animali.
 
-<sup>1bis</sup> Il Consiglio federale può prevedere che determinati corsi di e di formazione continua siano subordinati al riconoscimento da parte della Confederazione o dei Cantoni.[^5-1]
+<sup>1bis</sup> Il Consiglio federale può prevedere che determinati corsi di formazione e di formazione continua siano subordinati al riconoscimento da parte della Confederazione o dei Cantoni.[^5-1]
 
 <sup>2</sup> La Confederazione provvede a informare il pubblico in materia di protezione degli animali.
 
-[^5-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^5-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 ## Capitolo 2: Trattamento degli animali
 
@@ -120,7 +120,7 @@ Chi si occupa di animali deve:
 
 <sup>3</sup> Il Consiglio federale può stabilire i requisiti in materia di formazione e di formazione continua dei detentori di animali e delle persone che addestrano o curano animali.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 7
 
@@ -134,10 +134,10 @@ Chi si occupa di animali deve:
 
 <sup>4</sup> Il Consiglio federale può assoggettare all’obbligo di annuncio o di autorizzazione oppure vietare l’immissione in commercio e l’utilizzo di mezzi ausiliari e apparecchi destinati all’addestramento e al controllo degli animali che provochino loro dolore.[^7-4]
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^7-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^7-3]: Per. introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^7-4]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^7-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^7-3]: Per. introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^7-4]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 8
 
@@ -161,7 +161,7 @@ Il Consiglio federale può determinare in quali settori al di fuori dell’agric
 
 <sup>2</sup> Il Consiglio federale emana prescrizioni sull’allevamento e la produzione di animali e determina i criteri per valutare la liceità degli obiettivi di allevamento e dei metodi di riproduzione; a tal proposito tiene conto della dignità dell’animale. Esso può vietare l’allevamento, la produzione, la detenzione, l’importazione, il transito e l’esportazione, nonché l’immissione in commercio di animali con determinate caratteristiche, in particolare anormalità fisiche e comportamentali.[^10-1]
 
-[^10-1]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^10-1]: Nuovo testo del per. giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 11
 
@@ -175,7 +175,7 @@ Il Consiglio federale può determinare in quali settori al di fuori dell’agric
 
 <sup>4</sup> Il Consiglio federale può inoltre prevedere deroghe all’obbligo di autorizzazione o agevolazioni nella procedura di autorizzazione, segnatamente quando è accertato che i metodi di produzione o d’allevamento non provocano negli animali dolori, sofferenze, lesioni o turbe comportamentali e quando è comunque tenuta in debita considerazione la dignità dell’animale.
 
-[^11-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -187,11 +187,11 @@ Il Consiglio federale può determinare in quali settori al di fuori dell’agric
 
 <sup>3</sup> Il Consiglio federale disciplina le modalità dell’annuncio.
 
-### Sezione 3: Circolazione di animali e prodotti animali****
+### Sezione 3: Circolazione di animali e prodotti animali
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^chap2-sec3-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 13
 
@@ -201,7 +201,7 @@ Il Consiglio federale può determinare in quali settori al di fuori dell’agric
 
 <sup>2</sup> Il Consiglio federale può assoggettare le manifestazioni interregionali con animali all’obbligo di annuncio o di autorizzazione.
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 14
 
@@ -211,9 +211,9 @@ Il Consiglio federale può determinare in quali settori al di fuori dell’agric
 
 <sup>2</sup> L’importazione, il transito, l’esportazione e il commercio di pelli di cane e di gatto nonché di loro derivati sono vietati.[^14-3]
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^14-2]: Nuovo testo giusta il n. 2 dell’all 1 alla LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^14-3]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^14-2]: Nuovo testo giusta l’all 1 n. 2 della LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^14-3]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 ### Sezione 4: Trasporti di animali
 
@@ -225,7 +225,7 @@ Il Consiglio federale può determinare in quali settori al di fuori dell’agric
 
 <sup>2</sup> Sentite le organizzazioni del settore, il Consiglio federale disciplina i requisiti in materia di formazione e di formazione continua del personale a cui è affidato il trasporto professionale di animali.
 
-[^15-1]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^15-1]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 15a
 
@@ -237,7 +237,7 @@ Il Consiglio federale può determinare in quali settori al di fuori dell’agric
 
 <sup>3</sup> Il transito di bovini, ovini, caprini, suini, cavalli da macello e pollame da macello in Svizzera è limitato al traffico ferroviario o aereo.
 
-[^15a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^15a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 ### Sezione 5: Interventi su animali
 
@@ -306,14 +306,14 @@ A conclusione di un esperimento sugli animali, dell’Ufficio federale della sic
 
 <sup>3</sup> Il Consiglio federale disciplina i particolari, segnatamente il grado di precisione dei dati che le persone responsabili di un esperimento sono tenute a fornire. Tiene conto di interessi pubblici o privati preponderanti degni di protezione.
 
-[^20a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742), [2013 3707](https://fedlex.data.admin.ch/eli/oc/2013/696); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^20a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742), [2013 3707](https://fedlex.data.admin.ch/eli/oc/2013/696); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^20a-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
 
-### Sezione 6*a*:**** Sistema d’informazione nell’ambito della sperimentazione animale
+### Sezione 6*a*: Sistema d’informazione nell’ambito della sperimentazione animale
 
 [^chap2-sec6a-1]
 
-[^chap2-sec6a-1]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^chap2-sec6a-1]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 20b
 
@@ -333,7 +333,7 @@ Il sistema d’informazione comprende i seguenti dati personali:
 - f. dati necessari per la pubblicazione della statistica degli esperimenti sugli animali;
 - g. dati necessari per la gestione degli utenti e del sistema.
 
-[^20b-1]: Nuovo testo giusta il n. 20 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^20b-1]: Nuovo testo giusta l’all. n. 20 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 20c
 
@@ -341,7 +341,7 @@ Il sistema d’informazione comprende i seguenti dati personali:
 
 <sup>1</sup>
 
-Nell’ambito dei loro compiti legali, possono trattare dati personali, in particolare dati personali degni di particolare protezione e profili della personalità, nonché accedere a tali dati mediante procedura di richiamo:
+Nell’ambito dei loro compiti legali, possono trattare dati personali, inclusi dati personali degni di particolare protezione, nonché accedere a tali dati mediante procedura di richiamo:[^20c-1]
 
 - a. i collaboratori dell’USAV che svolgono compiti di alta vigilanza;
 - b. i collaboratori delle autorità cantonali preposte al rilascio delle autorizzazioni, nel loro ambito di competenza;
@@ -349,6 +349,8 @@ Nell’ambito dei loro compiti legali, possono trattare dati personali, in parti
 - d. i collaboratori degli istituti, dei laboratori, dei centri di custodia, allevamento e commercio di animali da laboratorio, nel loro ambito di competenza.
 
 <sup>2</sup> Nell’ambito dei loro compiti legali, i collaboratori delle autorità cantonali preposte al rilascio delle autorizzazioni e i membri delle commissioni cantonali per gli esperimenti sugli animali possono consultare mediante procedura di richiamo i dati relativi a domande e decisioni di autorizzazione di altri Cantoni.
+
+[^20c-1]: Nuovo testo giusta l’all. 1 cifra II n. 39 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20d
 
@@ -409,8 +411,8 @@ L’autorità competente può vietare, a tempo determinato o indeterminato, la d
 
 <sup>4</sup> Il Consiglio federale può concludere trattati internazionali relativi allo scambio reciproco di informazioni sui divieti pronunciati. Può inoltre rendere applicabili in Svizzera divieti emanati all’estero.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^23-2]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^23-2]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 24
 
@@ -424,8 +426,8 @@ L’autorità competente può vietare, a tempo determinato o indeterminato, la d
 
 <sup>4</sup> Nei casi poco gravi, le autorità competenti per l’esecuzione possono rinunciare a sporgere denuncia.[^24-2]
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^24-2]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^24-2]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 25
 
@@ -435,7 +437,7 @@ L’autorità competente può vietare, a tempo determinato o indeterminato, la d
 
 <sup>2</sup> Le autorità cantonali notificano immediatamente le loro decisioni all’USAV.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 ## Capitolo 5: Disposizioni penali
 
@@ -455,8 +457,8 @@ L’autorità competente può vietare, a tempo determinato o indeterminato, la d
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^26-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^26-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 27
 
@@ -466,7 +468,7 @@ L’autorità competente può vietare, a tempo determinato o indeterminato, la d
 
 <sup>2</sup> È punito con la multa fino a 20 000 franchi chiunque, intenzionalmente, viola le condizioni, le restrizioni o i divieti in materia di circolazione di animali e di prodotti animali di cui all’articolo 14. Il tentativo, la complicità e l’istigazione sono punibili. Se l’autore ha agito per negligenza, la pena è della multa.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^27-2]: Vedi art. 45*a* qui appresso.
 
 #### Art. 28
@@ -491,11 +493,11 @@ L’autorità competente può vietare, a tempo determinato o indeterminato, la d
 
 <sup>3</sup> È punito con la multa chiunque, intenzionalmente o per negligenza, contravviene a una prescrizione d’esecuzione la cui inosservanza è stata dichiarata punibile oppure a una decisione notificatagli sotto comminatoria della pena prevista nel presente articolo.[^28-5]
 
-[^28-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^28-2]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^28-3]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^28-4]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^28-5]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^28-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^28-2]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^28-3]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^28-4]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^28-5]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 29
 
@@ -509,7 +511,7 @@ L’azione penale per le contravvenzioni si prescrive in cinque anni; la pena pe
 
 L’articolo 6 della legge federale del 22 marzo 1974[^30-1] sul diritto penale amministrativo è applicabile.
 
-[^30-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^30-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 31
 
@@ -523,17 +525,17 @@ L’articolo 6 della legge federale del 22 marzo 1974[^30-1] sul diritto penale 
 
 <sup>4</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 1, 2 o 3 e un’infrazione alla legge federale del 16 marzo 2012[^31-6] sulla circolazione delle specie di fauna e di flora protette, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^31-7] sulle derrate alimentari, alla legge del 1° luglio 1966[^31-8] sulle epizoozie, alla legge del 20 giugno 1986[^31-9] sulla caccia o alla legge federale del 21 giugno 1991[^31-10] sulla pesca, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; la pena può essere adeguatamente aumentata.[^31-11]
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Vedi art. 45*a* qui appresso.
-[^31-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^31-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^31-4]: Nuovo testo giusta il n. I 11 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^31-5]: Nuovo testo giusta il n. I 11 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^31-6]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^31-11]: Nuovo testo giusta il n. II 2 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Vedi art. 45*a* qui appresso.
+[^31-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^31-3]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^31-4]: Nuovo testo giusta la cifra I n. 11 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-5]: Nuovo testo giusta la cifra I n. 11 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-6]: [RS 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^31-7]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^31-8]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^31-9]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^31-10]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^31-11]: Nuovo testo giusta l’all. la cifra II n. 2 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Capitolo 6: Disposizioni finali
 
@@ -555,10 +557,10 @@ L’articolo 6 della legge federale del 22 marzo 1974[^30-1] sul diritto penale 
 
 <sup>5</sup> L’esecuzione della procedura di autorizzazione secondo l’articolo 7 capoverso 2 e la sorveglianza dell’importazione, del transito e dell’esportazione di animali e di prodotti animali presso i posti d’ispezione frontalieri riconosciuti sono di competenza della Confederazione.[^32-4]
 
-[^32-1]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^32-2]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^32-3]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^32-4]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Vedi art. 45*a* qui appresso.
+[^32-1]: Nuovo testo del per. giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^32-2]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^32-3]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^32-4]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Vedi art. 45*a* qui appresso.
 
 #### Art. 32a
 
@@ -566,7 +568,7 @@ L’articolo 6 della legge federale del 22 marzo 1974[^30-1] sul diritto penale 
 
 Il Consiglio federale può concludere trattati internazionali sulla formazione, lo svolgimento di controlli e lo scambio di informazioni nell’ambito della protezione degli animali.
 
-[^32a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^32a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 32b
 
@@ -578,7 +580,7 @@ Il Consiglio federale può concludere trattati internazionali sulla formazione, 
 
 <sup>3</sup> Il termine di opposizione è di 10 giorni.
 
-[^32b-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^32b-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 33
 
@@ -602,7 +604,7 @@ Ogni Cantone istituisce un servizio specializzato sotto la responsabilità del v
 
 <sup>2</sup> La Commissione federale per gli esperimenti sugli animali collabora con la Commissione federale d’etica per la biotecnologia nel settore non umano.
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 35a
 
@@ -614,7 +616,7 @@ Ogni Cantone istituisce un servizio specializzato sotto la responsabilità del v
 
 <sup>3</sup> Il Consiglio federale può delegare ai Cantoni la competenza di organizzare tali esami.
 
-[^35a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^35a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 36
 
@@ -622,7 +624,7 @@ Ogni Cantone istituisce un servizio specializzato sotto la responsabilità del v
 
 L’USAV pubblica annualmente una statistica su tutti gli esperimenti sugli animali eseguiti in Svizzera.[^36-1] Informa il pubblico in merito alle questioni concernenti gli esperimenti sugli animali e alle modificazioni genetiche sugli animali.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 #### Art. 37
 
@@ -652,7 +654,7 @@ Le autorità incaricate dell’esecuzione della presente legge hanno accesso ai 
 
 L’alta vigilanza della Confederazione sull’esecuzione della presente legge da parte dei Cantoni è esercitata dal Dipartimento federale dell’interno[^40-1].
 
-[^40-1]: Nuova espr. giusta il n. I 14 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^40-1]: Nuova espr. giusta la cifra I n. 14 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 41
 
@@ -700,7 +702,7 @@ A partire dal 1° gennaio 2009 la castrazione chirurgica di porcellini è vietat
 
 Fino all’entrata in vigore della legge del 17 giugno 2005[^45-1] sul Tribunale amministrativo federale, la protezione giuridica è disciplinata come segue, a complemento delle disposizioni generali della procedura federale: la Commissione di ricorso DFE giudica i ricorsi contro le decisioni dell’USAV.
 
-[^45-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). La L è entrata in vigore il 1° gen. 2007.
+[^45-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). La L è entrata in vigore il 1° gen. 2007.
 
 #### Art. 45a
 
@@ -710,7 +712,7 @@ Indipendentemente dal fatto che entri prima in vigore la legge federale del 16 m
 
 ...[^45a-3]
 
-[^45a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^45a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^45a-2]: [FF 2012 3081](https://fedlex.data.admin.ch/eli/fga/2012/458)
 [^45a-3]: Le mod. possono essere consultate alla [RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742).
 

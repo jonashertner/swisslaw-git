@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart la protecziun dals animal
 short: LPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: rm
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2008-414-20230901-rm-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPAn)
 
-dals 16 da december 2005 (versiun dal 1. da schaner 2022)
+dals 16 da december 2005 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 80 alineas 1 e 2 sco er 120 alinea 2 da la Constituz
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2003 657](https://fedlex.data.admin.ch/eli/fga/2003/118)
 
 ## 1. chapitel Disposiziuns generalas
@@ -46,11 +46,11 @@ L’intent da questa lescha è quel da proteger la dignitad ed il bainesser da l
 
 <sup>2</sup> Resalvadas restan la Lescha da chatscha dals 20 da zercladur 1986[^2-1], la Lescha federala dal 1. da fanadur 1966[^2-2] davart la protecziun da la natira e da la patria, la Lescha federala dals 21 da zercladur 1991[^2-3] davart la pestga, la Lescha federala dals 13 da december 2002[^2-4] davart la furmaziun professiunala sco er la Lescha federala dal 1. da fanadur 1966[^2-5] davart epidemias d’animals.
 
-[^2-1]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^2-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^2-3]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^2-4]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^2-5]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^2-1]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^2-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^2-3]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^2-4]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^2-5]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 3
 
@@ -176,7 +176,7 @@ Il Cussegl federal po determinar en tge secturs ordaifer l’agricultura che l�
 
 <sup>4</sup> Il Cussegl federal po prevair excepziuns da l’obligaziun da dumandar ina permissiun ubain simplificaziuns en la procedura da permissiun particularmain, sch’igl è cler, ch’i na resultan betg dolurs, suffrientschas, donns u disturbis dal cumportament tar ils animals, pervia da las metodas da producziun u da tratga, e sch’i vegn tegnì quint da la dignitad da l’animal en in’autra moda.
 
-[^11-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -342,7 +342,7 @@ Il sistem d’infurmaziun cuntegna las suandantas datas da persuna:
 
 <sup>1</sup>
 
-En il rom da lur incumbensas legalas dastgan las suandantas persunas elavurar datas da persuna, datas da persuna ch’èn spezialmain degnas da vegnir protegidas sco er profils da la persunalitad, ed avair access a questas datas:
+En il rom da lur incumbensas legalas dastgan las suandantas persunas elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas, ed avair access a questas datas en la procedura d’invista:[^20c-1]
 
 - a. las collavuraturas ed ils collavuraturs da l’Uffizi federal veterinar (UFV) che adempleschan incumbensas che stattan en connex cun la surveglianza suprema;
 - b. las collavuraturas ed ils collavuraturs da las autoritads chantunalas da permissiun, en lur champ da cumpetenza;
@@ -350,6 +350,8 @@ En il rom da lur incumbensas legalas dastgan las suandantas persunas elavurar da
 - d. las collavuraturas ed ils collavuraturs dals instituts, dals labors sco er da las tegnidas, da las tratgas e dals negozis d’animals d’experiment, en lur champ da cumpetenza.
 
 <sup>2</sup> Las collavuraturas ed ils collavuraturs da las autoritads chantunalas da permissiun ed ils commembers da las cumissiuns chantunalas per experiments cun animals dastgan – en ina procedura d’invista – prender cogniziun da datas d’auters chantuns davart dumondas e decisiuns da permissiun, sche quai è necessari per ademplir lur incumbensas legalas.
+
+[^20c-1]: Versiun tenor la cifra II 39 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20d
 
@@ -510,7 +512,7 @@ La persecuziun penala surannescha en 5 onns, il chasti en 4 onns.
 
 L’artitgel 6 da la Lescha federala dals 22 da mars 1974[^30-1] davart il dretg penal administrativ è applitgabel.
 
-[^30-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^30-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 31
 
@@ -525,15 +527,15 @@ L’artitgel 6 da la Lescha federala dals 22 da mars 1974[^30-1] davart il dretg
 <sup>4</sup> Sch’ina cuntravenziun represchenta a medem temp ina cuntravenziun tenor ils alineas 1, 2 u 3, ch’è drizzada cunter la Lescha federala dals 16 da mars 2012[^31-6] davart il traffic cun spezias d’animals e da plantas protegidas, cunter la Lescha da duana dals 18 da mars 2005, cunter la Lescha dals 12 da zercladur 2009 davart la taglia sin la plivalur, cunter la Lescha da victualias dals 20 da zercladur 2014[^31-7], cunter la Lescha dal 1. da fanadur 1966[^31-8] davart epidemias d’animals, cunter la Lescha da chatscha dals 20 da zercladur 1986[^31-9] u cunter la Lescha federala dals 21 da zercladur 1991[^31-10] davart la pestga, e che sto vegnir persequitada da la medema autoritad federala, vegn applitgà il chasti smanatschà per la cuntravenziun la pli greva; quest chasti po vegnir augmentà adequatamain.[^31-11]
 
 [^31-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. d’oct. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Guardar er art. 45*a* qua sutvart.
-[^31-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^31-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^31-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^31-3]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^31-4]: Versiun tenor la cifra I 11 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^31-5]: Versiun tenor la cifra I 11 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^31-6]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-9]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-10]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^31-6]: [SR 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^31-7]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^31-8]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^31-9]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^31-10]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 [^31-11]: Versiun tenor la cifra II 2 da l’agiunta da la Lescha da victualias dals 20 da zer. 2014, en vigur dapi il 1. da matg 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## 6. chapitel Disposiziuns finalas
@@ -701,7 +703,7 @@ A partir dal 1. da schaner 2009 èsi scumandà da chastrar chirurgicamain pursch
 
 Fin a l’entrada en vigur da la Lescha dals 17 da zercladur 2005[^45-1] davart il Tribunal administrativ federal vegn reglada la protecziun giuridica cumplementarmain a las disposiziuns generalas davart l’Organisaziun giudiziala sco suonda: La Cumissiun da recurs dal Departament federal d’economia giuditgescha ils recurs cunter disposiziuns da l’UFV.
 
-[^45-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). Questa lescha è entrada en vigur il 1. da schan. 2007.
+[^45-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). Questa lescha è entrada en vigur il 1. da schan. 2007.
 
 #### Art. 45a
 

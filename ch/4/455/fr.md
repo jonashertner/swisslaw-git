@@ -4,11 +4,11 @@ title: Loi fédérale du 16 décembre 2005 sur la protection des animaux (LPA)
 short: LPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-414-20230901-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/fr"
 
 (LPA)
 
-du 16 décembre 2005 (Etat le 1<sup>er</sup> janvier 2022)
+du 16 décembre 2005 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 80, al. 1 et 2, et 120, al. 2, de la Constitution[^ingress-1], vu le
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2003 595](https://fedlex.data.admin.ch/eli/fga/2003/118)
 
 ## Chapitre 1 Généralités
@@ -44,11 +44,11 @@ La présente loi vise à protéger la dignité et le bien-être de l’animal.
 
 <sup>2</sup> Sont réservées la loi du 20 juin 1986 sur la chasse[^2-1], la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^2-2], la loi fédérale du 21 juin 1991 sur la pêche[^2-3], la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^2-4] ainsi que la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^2-5].
 
-[^2-1]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^2-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^2-3]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^2-4]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^2-5]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^2-1]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^2-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^2-3]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^2-4]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^2-5]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 3
 
@@ -174,7 +174,7 @@ Le Conseil fédéral peut déterminer dans quels secteurs, mis à part l’agric
 
 <sup>4</sup> Le Conseil fédéral peut prévoir des dérogations au régime de l’autorisation ou une simplification de la procédure d’autorisation, notamment lorsqu’il est établi que les animaux ne subissent pas de douleurs, de maux, de dommages ou de troubles du comportement qui découleraient de la production ou de l’élevage et que la dignité de l’animal est prise en compte.
 
-[^11-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -186,7 +186,7 @@ Le Conseil fédéral peut déterminer dans quels secteurs, mis à part l’agric
 
 <sup>3</sup> Le Conseil fédéral règle les modalités.
 
-### Section 3 Circulation d’animaux et de produits d’origine animale****
+### Section 3 Circulation d’animaux et de produits d’origine animale
 
 [^chap2-sec3-1]
 
@@ -211,7 +211,7 @@ Le Conseil fédéral peut déterminer dans quels secteurs, mis à part l’agric
 <sup>2</sup> L’importation, le transit, l’exportation et le commerce de peaux de chat ou de chien et de produits fabriqués à partir de telles peaux sont interdits.[^14-3]
 
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^14-2]: Nouvelle teneur selon le ch. 2 de l’annexe 1 à la LF du 16 mars 2012 sur les espèces protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6439](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^14-2]: Nouvelle teneur selon l’annexe 1 ch. 2 de la LF du 16 mars 2012 sur les espèces protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6439](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
 [^14-3]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 
 ### Section 4 Transports d’animaux
@@ -308,7 +308,7 @@ Les expériences qui peuvent causer aux animaux des douleurs, des maux ou des do
 [^20a-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742), [2013 3707](https://fedlex.data.admin.ch/eli/oc/2013/696); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^20a-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
-### Section 6*a***** Système d’information dans le domaine de l’expérimentation animale
+### Section 6*a* Système d’information dans le domaine de l’expérimentation animale
 
 [^chap2-sec6a-1]
 
@@ -332,7 +332,7 @@ Le système d’information contient les données personnelles suivantes:
 - f. données nécessaires à la publication de la statistique annuelle de l’expérimentation animale;
 - g. données nécessaires à la gestion des utilisateurs et du système.
 
-[^20b-1]: Nouvelle teneur selon le ch. 20 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^20b-1]: Nouvelle teneur selon l’annexe ch. 20 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
 
 #### Art. 20c
 
@@ -340,7 +340,7 @@ Le système d’information contient les données personnelles suivantes:
 
 <sup>1</sup>
 
-Les personnes suivantes peuvent traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, et accéder à ces données en ligne, pour autant que cela soit nécessaire à l’accomplissement de leurs tâches légales:
+Les personnes suivantes peuvent traiter des données personnelles, y compris des données sensibles, et accéder à ces données en ligne, pour autant que cela soit nécessaire à l’accomplissement de leurs tâches légales:[^20c-1]
 
 - a. les collaborateurs de l’OSAV qui assument des tâches dans le cadre de la haute surveillance;
 - b. les collaborateurs des autorités cantonales chargées d’établir les autorisations, dans leur domaine de compétence;
@@ -348,6 +348,8 @@ Les personnes suivantes peuvent traiter des données personnelles, y compris des
 - d. les collaborateurs des instituts, des laboratoires et des établissements qui détiennent des animaux destinés à l’expérimentation, les élèvent ou en font le commerce, dans leur domaine de compétence.
 
 <sup>2</sup> Les collaborateurs des autorités cantonales chargées d’établir les autorisations et les membres des commissions cantonales peuvent consulter en ligne les données concernant les demandes d’autorisation déposées dans les autres cantons et les décisions prises en la matière, pour autant que cela soit nécessaire à l’accomplissement de leurs tâches légales.
+
+[^20c-1]: Nouvelle teneur selon l’annexe 1 ch. II 39 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20d
 
@@ -508,7 +510,7 @@ Pour les contraventions, l’action pénale se prescrit par cinq ans, la peine p
 
 L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^30-1] est applicable.
 
-[^30-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^30-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 31
 
@@ -523,16 +525,16 @@ L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administrati
 <sup>4</sup> Si un acte constitue à la fois une infraction visée aux al. 1 à 3 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^31-6], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^31-7], à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^31-8], à la loi du 20 juin 1986 sur la chasse[^31-9] ou à la loi fédérale du 21 juin 1991 sur la pêche[^31-10] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^31-11]
 
 [^31-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Voir aussi l’art. 45*a*.
-[^31-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^31-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^31-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^31-3]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^31-4]: Nouvelle teneur selon le ch. I 11 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^31-5]: Nouvelle teneur selon le ch. I 11 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^31-6]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^31-11]: Nouvelle teneur selon le ch. I 2 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1er mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^31-6]: [RS 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^31-7]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^31-8]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^31-9]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^31-10]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^31-11]: Nouvelle teneur selon l’annexe ch. I 2 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1er mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -552,13 +554,12 @@ L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administrati
 
 <sup>4</sup> Le Conseil fédéral réglemente la formation et la formation continue des personnes qui exercent des fonctions dans le cadre de l’exécution de la présente loi.[^32-3]
 
-<sup>5</sup> L’exécution de la procédure d’autorisation visée à l’art. 7, al. 2, la surveillance de l’importation, du transit et de l’exportation d’animaux et de produits d’origine animale aux postes d’inspection frontaliers agréés et la surveillance de la circulation des animaux et des plantes d’espèces protégées en vertu de la convention du 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d’extinction[^32-4] incombent à la Confédération.[^32-5]
+<sup>5</sup> L’exécution de la procédure d’autorisation visée à l’art. 7, al. 2, et la surveillance de l’importation, du transit et de l’exportation d’animaux et de produits d’origine animale aux postes d’inspection frontaliers agréés sont du ressort de la Confédération.[^32-4]
 
 [^32-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^32-2]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^32-3]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^32-4]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^32-5]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Voir aussi l’art. 45*a*.
+[^32-4]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Voir aussi l’art. 45*a*.
 
 #### Art. 32a
 
@@ -700,7 +701,7 @@ La castration chirurgicale des porcelets sans anesthésie est interdite à compt
 
 Les dispositions générales de la procédure fédérale sont applicables. Par ailleurs, jusqu’à l’entrée en vigueur de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^45-1], les voies de droit sont réglées comme suit: la commission de recours du Département fédéral de l’économie statue sur les recours contre les décisions de l’OSAV.
 
-[^45-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). Cette loi est entrée en vigueur le 1<sup>er</sup> janv. 2007.
+[^45-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). Cette loi est entrée en vigueur le 1<sup>er</sup> janv. 2007.
 
 #### Art. 45a
 

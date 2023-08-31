@@ -4,11 +4,11 @@ title: Animal Welfare Act of 16 December 2005 (AniWA)
 short: AniWA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: en
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2008-414-20230901-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AniWA)
 
-of 16 December 2005 (Status as of 1 January 2022)
+of 16 December 2005 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Articles 80, paragraphs 1 and 2, and 120, paragraph 2 of the Federal Co
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2003 657](https://fedlex.data.admin.ch/eli/fga/2003/118)
 
 ## Chapter 1 General Provisions
@@ -46,11 +46,11 @@ The purpose of this Act is to protect the dignity and welfare of animals.
 
 <sup>2</sup> The following are reserved: the Hunting Act of 20 June 1986[^2-1], the Federal Act of 1 July 1966[^2-2] on the Protection of Nature and Cultural Heritage, the Federal Act of 21 June 1991[^2-3] on Fishing, the Vocational and Professional Training and Education Act of 13 December 2002[^2-4] and the Epizootic Diseases Act of 1 July 1966[^2-5].
 
-[^2-1]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^2-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^2-3]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^2-4]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^2-5]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^2-1]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^2-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^2-3]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^2-4]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^2-5]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 3
 
@@ -176,7 +176,7 @@ The Federal Council may define the areas other than agriculture in which the use
 
 <sup>4</sup> It may allow exemptions from the authorisation requirement or simplifications in the authorisation procedure, particularly if it is certain that the animals will not experience pain, suffering or harm, or develop behavioural disorders as a result of the production and breeding methods and that their dignity will otherwise be taken into account.
 
-[^11-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -188,7 +188,7 @@ The Federal Council may define the areas other than agriculture in which the use
 
 <sup>3</sup> The Federal Council regulates the details of the report.
 
-### Section 3 Trade in Animals and Animal Products****
+### Section 3 Trade in Animals and Animal Products
 
 [^chap2-sec3-1]
 
@@ -298,10 +298,10 @@ Animal experiments which inflict pain, suffering or harm on animals, induce anxi
 
 After an animal experiment has been concluded, the Federal Food Safety and Veterinary Office (FSVO)[^20a-2] shall publish the following information:
 
-- [tab] a. The title and field of the animal experiment;
-- [tab] b. The purpose of the experiment;
-- [tab] c. The number of animals used per species;
-- [tab] d. The degree of severity of the constraint imposed on the animals.
+- a. The title and field of the animal experiment;
+- b. The purpose of the experiment;
+- c. The number of animals used per species;
+- d. The degree of severity of the constraint imposed on the animals.
 
 <sup>2</sup> The Federal Council may provide for further information to be published as long as there are no legitimate overriding private or public interests.
 
@@ -310,13 +310,11 @@ After an animal experiment has been concluded, the Federal Food Safety and Veter
 [^20a-1]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742), [2013 3707](https://fedlex.data.admin.ch/eli/oc/2013/696); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^20a-2]: The name of the administrative unit was modified by applying Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) with effect from 1 Jan. 2014. The modification was implemented throughout the text.
 
-### Section 6*a*****
+### Section 6*a* Animal Experiment Information System
 
 [^chap2-sec6a-1]
 
 [^chap2-sec6a-1]: Inserted by No I of the FA of 15 June 2012, in force since 1 Jan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-
-### Animal Experiment Information System
 
 #### Art. 20b
 
@@ -344,14 +342,16 @@ The information system contains the following personal data:
 
 <sup>1</sup>
 
-The following individuals may, in the course of their statutory duties, process personal data, in particular personal data that requires particular protection, and personality profiles and access them using the call procedure:
+The following individuals may, in the course of their statutory duties, process personal data, including sensitive personal data, and access them online:[^20c-1]
 
-- a. Employees of the FSVO who perform tasks relating to oversight;
-- b. Employees of the cantonal authorisation authorities within their areas of responsibility;
-- c. The members of the cantonal committees on animal experiments within their areas of responsibility;
-- d. Employees of the institutes, laboratories and experimental animal housing, breeding and trading facilities within their areas of responsibility.
+- a. employees of the FSVO who perform tasks relating to oversight;
+- b. employees of the cantonal authorisation authorities within their areas of responsibility;
+- c. members of the cantonal committees on animal experiments within their areas of responsibility;
+- d. employees of the institutes, laboratories and experimental animal housing, breeding and trading facilities within their areas of responsibility.
 
 <sup>2</sup> Employees of the cantonal authorisation authorities and members of the cantonal committees on animal experiments may, in the course of their statutory duties, inspect data relating to authorisation requests and decisions from other cantons using the call procedure.
+
+[^20c-1]: Amended by Annex 1 No II 39 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20d
 
@@ -438,7 +438,7 @@ The competent authorities may ban from housing, breeding, trading in or working 
 
 <sup>2</sup> The cantonal authorities must immediately inform the FSVO of their decisions.
 
-[^25-1]: Inserted by No I of the FA of 15 June 2012, in force since 1 Jan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^25-1]: Amended by No I of the FA of 15 June 2012, in force since 1 Jan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)
 
 ## Chapter 5 Criminal Provisions
 
@@ -512,7 +512,7 @@ The statute of limitations is five years for the prosecution of contraventions a
 
 Article 6 of the Federal Act of 22 March 1974[^30-1] on Administrative Criminal Law applies.
 
-[^30-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^30-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 31
 
@@ -527,15 +527,15 @@ Article 6 of the Federal Act of 22 March 1974[^30-1] on Administrative Criminal 
 <sup>4</sup> If any contravention as defined in paragraph 1, 2 or 3 simultaneously constitutes a contravention to be prosecuted by the same federal authority under the Federal Act of 16 March 2012[^31-6] on Trade in Protected Animal and Plant Species, the Customs Act of 18 March 2005, the Value Added Tax Act of 12 June 2009, the Foodstuffs Act of 20 June 2014[^31-7], the Epizootic Diseases Act of 1 July 1966[^31-8], the Hunting Act of 20 June 1986[^31-9] or the Federal Act of 21 June 1991[^31-10] on Fishing, then the penalty for the most serious contravention applies; it may be increased commensurately.[^31-11]
 
 [^31-1]: Amended by No I of the FA of 15 June 2012, in force since 1 Oct. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)). See also Article 45*a* below.
-[^31-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^31-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^31-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^31-3]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^31-4]: Amended by No I 11 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^31-5]: Amended by No I 11 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^31-6]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-9]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-10]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^31-6]: [SR 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^31-7]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^31-8]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^31-9]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^31-10]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 [^31-11]: Amended by Annex No II 2 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Chapter 6 Final Provisions
@@ -681,9 +681,7 @@ The cantons are authorised to levy fees for:
 
 <sup>2</sup> The cantons shall notify the Federal Department of Home Affairs of the implementing regulations.
 
-### Section 2
-
-### Repeal of Existing Law and Transitional Provisions
+### Section 2 Repeal of Existing Law and Transitional Provisions
 
 #### Art. 43
 
@@ -691,7 +689,7 @@ The cantons are authorised to levy fees for:
 
 The Animal Welfare Act of 9 March 1978[^43-1] is repealed.
 
-[^43-1]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562), [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 1, [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618)[4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 45]
+[^43-1]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562); [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 1; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 45]
 
 #### Art. 44
 
@@ -705,7 +703,7 @@ The surgical castration of piglets without anaesthetic is forbidden as from 1 Ja
 
 Until the commencement of the Administrative Court Act of 17 June 2005[^45-1], rights of appeal are regulated, in addition to the general provisions on the administration of federal justice, as follows: the Appeals Commission of the Federal Department of Economic Affairs shall assess appeals against decisions of the Federal Food Safety and Veterinary Office.
 
-[^45-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)This Act entered into force on 1 Jan. 2007.
+[^45-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). This Act entered into force on 1 Jan. 2007.
 
 #### Art. 45a
 
@@ -713,7 +711,7 @@ Until the commencement of the Administrative Court Act of 17 June 2005[^45-1], r
 
 Irrespective of whether the Federal Act of 16 March 2012[^45a-2] on the Trade in Protected Animal and Plant Species (FA-CITES) or the amendment of 15 June 2012 to the AniPA comes into force first, Articles 27 paragraph 1, 31 and 32 paragraph 5 AniPA shall be amended as follows on the commencement of the Act that comes into force later or if both come into force at the same time:
 
-...*[^45a-3]*
+...[^45a-3]
 
 [^45a-1]: Inserted by No I of the FA of 15 June 2012, in force since 1 Jan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^45a-2]: [BBl 2012 3465](https://fedlex.data.admin.ch/eli/fga/2012/458)

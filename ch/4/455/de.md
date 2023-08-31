@@ -4,11 +4,11 @@ title: Tierschutzgesetz vom 16. Dezember 2005 (TSchG)
 short: TSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-414-20230901-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/de"
 
 (TSchG)
 
-vom 16. Dezember 2005 (Stand am 1. Januar 2022)
+vom 16. Dezember 2005 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 80 Absätze 1 und 2 sowie 120 Absatz 2 der Bundesverfa
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2003 657](https://fedlex.data.admin.ch/eli/fga/2003/118)
 
 ## 1. Kapitel: Allgemeines
@@ -44,11 +44,11 @@ Zweck dieses Gesetzes ist es, die Würde und das Wohlergehen des Tieres zu schü
 
 <sup>2</sup> Vorbehalten bleiben das Jagdgesetz vom 20. Juni 1986[^2-1], das Bundesgesetz vom 1. Juli 1966[^2-2] über den Natur- und Heimatschutz, das Bundesgesetz vom 21. Juni 1991[^2-3] über die Fischerei, das Berufsbildungsgesetz vom 13. Dezember 2002[^2-4] sowie das Tierseuchengesetz vom 1. Juli 1966[^2-5].
 
-[^2-1]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^2-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^2-3]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^2-4]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^2-5]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^2-1]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^2-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^2-3]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^2-4]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^2-5]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 3
 
@@ -174,7 +174,7 @@ Der Bundesrat kann bestimmen, in welchen Bereichen ausserhalb der Landwirtschaft
 
 <sup>4</sup> Er kann Ausnahmen von der Bewilligungspflicht oder Vereinfachungen im Bewilligungsverfahren vorsehen, namentlich wenn feststeht, dass bei den Tieren durch die Erzeugungs- und Zuchtmethoden keine Schmerzen, Leiden, Schäden oder Verhaltensstörungen auftreten und auch sonst der Würde des Tieres Rechnung getragen wird.
 
-[^11-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -186,7 +186,7 @@ Der Bundesrat kann bestimmen, in welchen Bereichen ausserhalb der Landwirtschaft
 
 <sup>3</sup> Der Bundesrat regelt die Einzelheiten der Meldung.
 
-### 3. Abschnitt: Verkehr mit Tieren und Tierprodukten****
+### 3. Abschnitt: Verkehr mit Tieren und Tierprodukten
 
 [^chap2-sec3-1]
 
@@ -296,10 +296,10 @@ Tierversuche, die dem Tier Schmerzen, Leiden oder Schäden zufügen, es in Angst
 
 Nach Beendigung eines Tierversuchs veröffentlicht das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^20a-2] folgende Angaben:
 
-- [tab] a. den Titel und das Fachgebiet des Tierversuchs;
-- [tab] b. den Versuchszweck;
-- [tab] c. die Anzahl der eingesetzten Tiere pro Tierart;
-- [tab] d. den Schweregrad der Belastung der Tiere.
+- a. den Titel und das Fachgebiet des Tierversuchs;
+- b. den Versuchszweck;
+- c. die Anzahl der eingesetzten Tiere pro Tierart;
+- d. den Schweregrad der Belastung der Tiere.
 
 <sup>2</sup> Der Bundesrat kann vorsehen, dass weitere Angaben veröffentlicht werden, sofern keine überwiegenden schutzwürdigen privaten oder öffentlichen Interessen entgegenstehen.
 
@@ -308,7 +308,7 @@ Nach Beendigung eines Tierversuchs veröffentlicht das Bundesamt für Lebensmitt
 [^20a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742), [2013 3707](https://fedlex.data.admin.ch/eli/oc/2013/696); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^20a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
-### 6*a*. Abschnitt:**** Informationssystem im Bereich der Tierversuche
+### 6*a*. Abschnitt: Informationssystem im Bereich der Tierversuche
 
 [^chap2-sec6a-1]
 
@@ -340,7 +340,7 @@ Das Informationssystem enthält die folgenden Personendaten:
 
 <sup>1</sup>
 
-Die folgenden Personen dürfen im Rahmen ihrer gesetzlichen Aufgaben Personendaten, insbesondere besonders schützenswerte Personendaten sowie Persönlichkeitsprofile, bearbeiten und im Abrufverfahren auf diese Daten zugreifen:
+Die folgenden Personen dürfen im Rahmen ihrer gesetzlichen Aufgaben Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten und im Abrufverfahren auf diese Daten zugreifen:[^20c-1]
 
 - a. die Mitarbeiterinnen und Mitarbeiter des BLV, die Aufgaben im Zusammenhang mit der Oberaufsicht wahrnehmen;
 - b. die Mitarbeiterinnen und Mitarbeiter der kantonalen Bewilligungsbehörden in ihrem Zuständigkeitsbereich;
@@ -348,6 +348,8 @@ Die folgenden Personen dürfen im Rahmen ihrer gesetzlichen Aufgaben Personendat
 - d. die Mitarbeiterinnen und Mitarbeiter der Institute, Laboratorien sowie Versuchstierhaltungen, -zuchten und -handlungen in ihrem Zuständigkeitsbereich.
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter der kantonalen Bewilligungsbehörden und die Mitglieder der kantonalen Kommissionen für Tierversuche dürfen im Rahmen ihrer gesetzlichen Aufgaben im Abrufverfahren Daten zu Bewilligungsgesuchen und ‑entscheiden aus anderen Kantonen einsehen.
+
+[^20c-1]: Fassung gemäss Anhang 1 Ziff. II 39 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20d
 
@@ -461,7 +463,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 
 **Widerhandlungen im Verkehr mit Tieren und Tierprodukten**[^27-1]
 
-<sup>1</sup> ...[^27-2]
+<sup>1</sup> …[^27-2]
 
 <sup>2</sup> Mit Busse bis zu 20 000 Franken wird bestraft, wer im Verkehr mit Tieren und Tierprodukten Bedingungen, Einschränkungen oder Verbote nach Artikel 14 vorsätzlich missachtet. Versuch, Gehilfenschaft und Anstiftung sind strafbar. Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Busse.
 
@@ -508,7 +510,7 @@ Die Strafverfolgung von Übertretungen verjährt in fünf Jahren, die Strafe ein
 
 Artikel 6 des Bundesgesetzes vom 22. März 1974[^30-1] über das Verwaltungsstrafrecht ist anwendbar.
 
-[^30-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^30-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 31
 
@@ -523,15 +525,15 @@ Artikel 6 des Bundesgesetzes vom 22. März 1974[^30-1] über das Verwaltungsstra
 <sup>4</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 1, 2 oder 3 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Bundesgesetz vom 16. März 2012[^31-6] über den Verkehr mit Tieren und Pflanzen geschützter Arten, das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^31-7], das Tierseuchengesetz vom 1. Juli 1966[^31-8], das Jagdgesetz vom 20. Juni 1986[^31-9] oder das Bundesgesetz vom 21. Juni 1991[^31-10] über die Fischerei dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^31-11]
 
 [^31-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Okt. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Siehe auch Art. 45*a* hiernach.
-[^31-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^31-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^31-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^31-3]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^31-4]: Fassung gemäss Ziff. I 11 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^31-5]: Fassung gemäss Ziff. I 11 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^31-6]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-9]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-10]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^31-6]: [SR 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^31-7]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^31-8]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^31-9]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^31-10]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 [^31-11]: Fassung gemäss Anhang Ziff. II 2 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## 6. Kapitel: Schlussbestimmungen
@@ -685,7 +687,7 @@ Die Kantone sind ermächtigt, Gebühren zu erheben für:
 
 Das Tierschutzgesetz vom 9. März 1978[^43-1] wird aufgehoben.
 
-[^43-1]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562), [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 Ziff. 1, [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618)[4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 45]
+[^43-1]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562); [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 Ziff. 1; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 45]
 
 #### Art. 44
 
@@ -699,7 +701,7 @@ Die chirurgische Kastration von Ferkeln ohne Schmerzausschaltung ist ab 1. Janua
 
 Bis zum Inkrafttreten des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^45-1] wird der Rechtsschutz in Ergänzung zu den allgemeinen Bestimmungen über die Bundesrechtspflege wie folgt geregelt: Die Rekurskommission EVD beurteilt Beschwerden gegen Verfügungen des BLV.
 
-[^45-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). Dieses Gesetz ist am 1. Jan. 2007 in Kraft getreten.
+[^45-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). Dieses Gesetz ist am 1. Jan. 2007 in Kraft getreten.
 
 #### Art. 45a
 
@@ -707,7 +709,7 @@ Bis zum Inkrafttreten des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^45-1] w
 
 Unabhängig davon, ob das Bundesgesetz vom 16. März 2012[^45a-2] über den Verkehr mit Tieren und Pflanzen geschützter Arten (BGCITES) oder die Änderung vom 15. Juni 2012 des TSchG zuerst in Kraft tritt, werden die Artikel 27 Absatz 1, 31 sowie 32 Absatz 5 TSchG mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten wie folgt geändert:
 
-...*[^45a-3]*
+…[^45a-3]
 
 [^45a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^45a-2]: [BBl 2012 3465](https://fedlex.data.admin.ch/eli/fga/2012/458)
