@@ -4,20 +4,20 @@ title: "Ordonnance du Conseil des EPF du 15 mars 2001 sur le personnel du domain
 short: OPers-EPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/279"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2001-03-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-279-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2001-279-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du Conseil des EPF sur le personnel du domaine des écoles polytechniques fédérales
 
-(Ordonnance sur le personnel du domaine des EPF, OPers-EPF)**[^t-1]**
+(Ordonnance sur le personnel du domaine des EPF, OPers-EPF)[^t-1]
 
-du 15 mars 2001 (Etat le 1<sup>er</sup> janvier 2022)
+du 15 mars 2001 (État le 1<sup>er</sup> septembre 2023)
 
 adoptée par le Conseil fédéral le 25 avril 2001
 
@@ -705,7 +705,7 @@ Les institutions adaptent les allocations suivantes lorsque le renchérissement 
 
 Le Conseil des EPF peut, en présence de conditions particulières régnant sur le marché de l’emploi, décider du versement à certaines fonctions d’une allocation temporaire équivalant à 10 % au plus du montant maximum de l’échelon fonctionnel correspondant.
 
-[^31-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 29 juin 2005, adoptée par le CF le 23 sept. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 (RO **2****005** 4795).
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 29 juin 2005, adoptée par le CF le 23 sept. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
 
 #### Art. 32
 
@@ -1169,7 +1169,7 @@ Le calcul de l’indemnité à verser doit notamment prendre en compte:
 <sup>7</sup> L’indemnité versée aux autres membres des directions des EPF ou des établissements de recherche en cas de résiliation des rapports de travail sans qu’il y ait faute de leur part ou de résiliation d’un commun accord est régie par l’art. 7, al. 4, de l’ordonnance du 19 novembre 2003 sur le domaine des EPF[^49-2].
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 6 mars 2013, approuvée par le CF le 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
-[^49-2]: RS **4****14.110.3**
+[^49-2]: [RS 414.110.3](https://fedlex.data.admin.ch/eli/cc/2004/16)
 
 ### Section 4 Vacances et congés
 
@@ -1248,7 +1248,7 @@ Les jours fériés usuels au lieu de service sont des jours chômés.
 [^52-5]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-6]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-7]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^52-8]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 (RO **200****9** 809).
+[^52-8]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-9]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-10]: Abrogé par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
 
@@ -1361,7 +1361,7 @@ Sont réputés être des motifs de partialité, notamment:
 
 <sup>7</sup> Si le collaborateur a effectué des heures de travail qui n’ont pas été ordonnées et qui n’étaient pas connues de l’autorité compétente au sens de l’art. 2, celles-ci ne peuvent être reconnues comme heures d’appoint et heures supplémentaires que si le collaborateur les fait valoir dans un délai de six mois et qu’une preuve attestant les heures en question est fournie.[^55-8]
 
-[^55-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 (RO **2****020** 3653).
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-4]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
@@ -1442,7 +1442,7 @@ L’annonce ou la demande d’autorisation doit être soumise à l’échelon hi
 
 <sup>3</sup> Dans le cadre d’un interrogatoire ou d’une procédure judiciaire les collaborateurs ne doivent s’exprimer en tant que partie, témoin ou expert, à propos d’observations qu’ils auraient faites dans l’exercice de leur mandat ou de leurs fonctions et qui se rapportent à leurs activités professionnelles, que lorsqu’ils y ont été autorisés par le service compétent.
 
-## Chapitre 5*a* Manquement aux obligations professionnelles****
+## Chapitre 5*a* Manquement aux obligations professionnelles
 
 [^chap5a-1]
 
@@ -1496,81 +1496,13 @@ Lorsque le manquement aux obligations professionnelles constitue en même temps 
 
 ## Chapitre 6 Dispositions finales
 
-### Section 1 Protection des données relatives aux personnes et à leur santé
+### Section 1 …
 
-(art. 27 et 28, al. 3 et 4, LPers)
+#### Art. 59 à 61
 
-#### Art. 59
+[^5961-1]
 
-**Compétences**
-
-<sup>1</sup> Les deux EPF et les instituts de recherche veillent au respect des dispositions prévues par la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^59-1] et l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données (OLPD)[^59-2].
-
-<sup>2</sup>
-
-Ils déterminent pour leur domaine les services compétents pour le traitement:
-
-- a. des dossiers généraux du personnel;
-- b. des profils de la personnalité (art. 3, let. d, LPD);
-- c. des données concernant des mesures sociales;
-- d. des données concernant des mesures relatives aux poursuites;
-- e. des données concernant des mesures pénales;
-- f. des données relatives à des mesures administratives.
-
-<sup>3</sup> Avant l’introduction ou la modification d’un système ou d’un fichier, les employés ou les associations du personnel qui les représentent sont consultés.
-
-<sup>4</sup> Les deux EPF et les instituts de recherche sont tenus de déclarer tous leurs fichiers, avant qu’ils soient rendus publics, au Préposé fédéral à la protection des données et à la transparence[^59-3] pour enregistrement (art. 11 LPD, art. 3 OLPD).
-
-[^59-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^59-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^59-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-
-#### Art. 60
-
-**Principes de traitement**
-
-<sup>1</sup> Conformément à l’art. 59, al. 2, let. c à f, seules les données indispensables au bon fonctionnement de l’établissement peuvent être traitées.
-
-<sup>2</sup> Des profils de la personnalité ne peuvent être traités que si le développement du personnel l’exige et si les personnes concernées y ont consenti par écrit.
-
-<sup>3</sup> Outre les données définies à l’art. 59, al. 2, let. b à f, des données personnelles sensibles peuvent être traitées exceptionnellement si le développement du personnel l’exige et si les personnes concernées y ont consenti par écrit.
-
-<sup>4</sup> Les données sont accessibles uniquement au service compétent selon l’art. 59, al. 2. Les fichiers manuels doivent être conservés sous clé.
-
-<sup>5</sup>
-
-Les délais suivants sont applicables pour la conservation des données:
-
-- a. pour les dossiers généraux du personnel: dix ans après la fin des rapports de travail;
-- b. pour les dossiers du personnel auxiliaire: deux ans après la fin des rapports de travail;
-- c. pour les données portant sur des mesures sociales, administratives ou pénales, ainsi que des mesures relatives aux poursuites: cinq ans après la mise en œuvre des mesures;
-- d. pour les profils de la personnalité: cinq ans après le relevé des données, à moins que la personne concernée ait consenti par écrit à une durée de conservation plus longue.
-
-<sup>6</sup> Après expiration du délai de conservation, les art. 21 et 22 LPD[^60-1] doivent être appliqués. Dans certains cas particuliers, le Conseil des EPF peut, à la demande du service compétent, proroger les délais prévus à l’al. 5.
-
-<sup>7</sup>
-
-Les deux EPF et les instituts de recherche règlent les cas particuliers pour leur personnel. Ils fixent les mesures de sécurité applicables aux fichiers électroniques. À l’exception des données personnelles sensibles selon l’art. 3, let. c, LPD, et des profils de la personnalité selon l’art. 3, let. d, LPD, l’accès aux données par procédure d’appel peut être envisagé pour:
-
-- a. la Centrale de compensation de l’assurance-vieillesse et survivants: données nécessaires à la mise à jour des comptes individuels du personnel;
-- b.[^60-2] …
-- c. la Caisse de pensions: données nécessaires à la mise à jour des comptes individuels du personnel;
-- d. la Poste Suisse: données nécessaires au versement des salaires du personnel.
-
-[^60-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^60-2]: Abrogée par le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-
-#### Art. 61
-
-**Données relatives à la santé**
-
-<sup>1</sup> Le dossier médical renferme le questionnaire d’engagement, les rapports et certificats médicaux, ainsi que les appréciations du service médical qui sont nécessaires à l’appréciation de l’aptitude de l’employé lors de l’engagement, puis dans la suite des rapports de travail. Le dossier médical est conservé auprès du service médical conformément à l’art. 47.
-
-<sup>2</sup> Le dossier médical est constitué manuellement. Certaines données, telles que le nom de l’employé et le diagnostic, peuvent être traitées de manière automatisée à des fins de facturation ou d’établissement des statistiques.
-
-<sup>3</sup> Le système automatisé de traitement des données médicales doit rester un système fermé; il ne doit être relié à aucun autre système électronique de traitement des données.
-
-<sup>4</sup> Seule l’appréciation du service médical est communiquée au service du personnel. Le contenu du dossier médical n’est communiqué au service du personnel ou à des tiers que si l’employé a donné préalablement son consentement. Si l’employé ne donne pas son consentement, l’autorisation de communiquer des données relatives à sa santé relève du Conseil des EPF.
+[^5961-1]: Abrogés par l’art. 49 ch. 1 de l’O du 8 déc. 2022 sur la protection des données personnelles dans le domaine des EPF, approuvée par le CF le 22 fév. 2023, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 124](https://fedlex.data.admin.ch/eli/oc/2023/124)).
 
 ### Section 2 Recours
 
@@ -1617,7 +1549,7 @@ Sont abrogés:
 [^64-1]: [[RO 1987 812](https://fedlex.data.admin.ch/eli/oc/1987/812_812_812)]
 [^64-2]: [[RO 1991 806](https://fedlex.data.admin.ch/eli/oc/1991/806_806_806)]
 [^64-3]: Non publié au RO.
-[^64-4]: [RO **19****94** 2262]
+[^64-4]: [[RO 1994 2262](https://fedlex.data.admin.ch/eli/oc/1994/2262_2262_2262)]
 [^64-5]: Introduit par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
 [^64-6]: [[RO 2002 4153](https://fedlex.data.admin.ch/eli/oc/2002/669), [2005 11](https://fedlex.data.admin.ch/eli/oc/2005/4)[4795](https://fedlex.data.admin.ch/eli/oc/2005/646), [2007 463](https://fedlex.data.admin.ch/eli/oc/2007/94)art. 6 ch. 3]
 
@@ -1651,19 +1583,17 @@ Les collaborateurs qui auront 59 ans révolus avant le 1<sup>er</sup> janvier 20
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2002.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 25, al. 1)
 
-## Grille des fonctions EPF
+## ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/fr/xml/image/image1.png)Grille des fonctions EPF
 
 [^t-2]: Nouvelle teneur selon le ch. II de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/fr/xml/image/image2.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/fr/xml/image/image2.png)
-
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 26, al. 1, 28, al. 1, et 30, al. 3)
 
@@ -1786,7 +1716,7 @@ Annexe 2*[^t-3]*
 <tr><td>15</td><td>57 050</td><td>61 756</td><td>66 883</td><td>72 467</td><td>78 554</td><td>85 349</td><td>93 116</td><td>102 195</td><td>113 027</td><td>126 534</td><td>143 995</td><td>167 251</td><td>199 028</td><td>243 511</td><td></td></tr>
 </table>
 
-Annexe 3*[^t-4]* (art. 24, al. 3)
+Annexe 3[^t-4] (art. 24, al. 3)
 
 ## Salaires forfaitaires dans le domaine des EPF
 
@@ -1804,11 +1734,11 @@ Les salaires minimaux correspondent aux montants annuels bruts suivants:
 
 [^annex4-lvlu1-1]: La catégorie «Autres collaborateurs» comprend: les collaborateurs diplômés qui ne souhaitent pas faire de doctorat; les collaborateurs ayant obtenu leur doctorat qui ne remplissent pas les conditions de la catégorie «postdoctorants» en raison de la durée d’engagement et des créneaux temporels; les collaborateurs techniques et le personnel auxiliaire.
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 [^t-5]: Introduite par le ch. I de l’O du Conseil des EPF du 29 juin 2005, adoptée par le CF le 23 sept. 2005 ([RO 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Abrogée par le ch. II al. 2 de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 
-Annexe 5*[^t-6]*
+Annexe 5[^t-6]
 
 (art. 42*a*)
 

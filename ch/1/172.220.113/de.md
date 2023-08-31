@@ -4,20 +4,20 @@ title: "Verordnung des ETH-Rates vom 15. März 2001 über das Personal im Bereic
 short: PVO-ETH
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/279"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2001-03-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-279-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2001-279-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des ETH-Rates über das Personal im Bereich der Eidgenössischen Technischen Hochschulen
 
-(Personalverordnung ETH-Bereich, PVO-ETH)**[^t-1]**
+(Personalverordnung ETH-Bereich, PVO-ETH)[^t-1]
 
-vom 15. März 2001 (Stand am 1. Januar 2022)
+vom 15. März 2001 (Stand am 1. September 2023)
 
 vom Bundesrat genehmigt am 25. April 2001
 
@@ -999,7 +999,7 @@ Von der ergänzenden Leistung werden folgende Familienzulagen abgezogen:
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen des VR-ETH 1[^42-4].
 
-[^42-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 (AS **200****8** 2293).
+[^42-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
 [^42-2]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
 [^42-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^42-4]: [SR 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
@@ -1439,7 +1439,7 @@ Die Mitteilung oder das Bewilligungsgesuch ist rechtzeitig vor Beginn der Tätig
 
 <sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter dürfen sich bei Einvernahmen und in Gerichtsverfahren als Partei, Zeuge oder Sachverständiger über Wahrnehmungen, die sie aufgrund ihrer Aufgabe oder in Ausübung ihrer Funktion gemacht haben und die sich auf ihre dienstlichen Aufgaben beziehen, nur äussern, wenn sie von der zuständigen Stelle dazu ermächtigt worden sind.
 
-## 5*a*. Kapitel: Verletzung arbeitsrechtlicher Pflichten****
+## 5*a*. Kapitel: Verletzung arbeitsrechtlicher Pflichten
 
 [^chap5a-1]
 
@@ -1492,81 +1492,13 @@ Kommt bei einer Verletzung der arbeitsrechtlichen Pflichten zugleich der Tatbest
 
 ## 6. Kapitel: Schlussbestimmungen
 
-### 1. Abschnitt: Schutz von Personen- und Gesundheitsdaten
+### 1. Abschnitt: …
 
-### (Art. 27, 28 Abs. 3 und 4 BPG)
+#### Art. 59–61
 
-#### Art. 59
+[^5961-1]
 
-**Zuständigkeiten**
-
-<sup>1</sup> Die beiden ETH und die Forschungsanstalten sorgen für die Einhaltung der Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^59-1] über den Datenschutz (DSG) und der Verordnung vom 14. Juni 1993[^59-2] zum Bundesgesetz über den Datenschutz (VDSG).
-
-<sup>2</sup>
-
-Die beiden ETH und die Forschungsanstalten bestimmen für ihren Bereich die zuständigen Stellen für die Bearbeitung:
-
-- a. der allgemeinen Personaldossiers;
-- b. von Persönlichkeitsprofilen (Art. 3 Bst. d DSG);
-- c. der Daten über Sozialmassnahmen;
-- d. der Daten über betreibungsrechtliche Massnahmen;
-- e. der Daten über strafrechtliche Massnahmen;
-- f. der Daten über administrative Massnahmen.
-
-<sup>3</sup> Die Angestellten oder die Personalverbände, die sie vertreten, werden vorgängig zur Einführung oder zu einer Änderung eines Systems oder einer Datensammlung angehört.
-
-<sup>4</sup> Die beiden ETH und die Forschungsanstalten melden sämtliche Datensammlungen vor deren Eröffnung selbständig beim Datenschutz- und Öffentlichkeitsbeauftragten[^59-3] zur Registrierung an (Art. 11 DSG, Art. 3 VDSG).
-
-[^59-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^59-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^59-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-
-#### Art. 60
-
-**Bearbeitungsgrundsätze**
-
-<sup>1</sup> Daten nach Artikel 59 Absatz 2 Buchstaben c–f dürfen nur bearbeitet werden, soweit dafür eine betriebliche Notwendigkeit besteht.
-
-<sup>2</sup> Persönlichkeitsprofile dürfen nur bearbeitet werden, wenn sie für die Personalentwicklung notwendig sind und die betroffenen Personen schriftlich zugestimmt haben.
-
-<sup>3</sup> Über die Daten nach Artikel 59 Absatz 2 Buchstaben b bis f hinaus dürfen besonders schützenswerte Personendaten nur in Ausnahmefällen bearbeitet werden, wenn sie für die Personalentwicklung notwendig sind und die betroffenen Personen schriftlich zugestimmt haben.
-
-<sup>4</sup> Die Daten sind nur der zuständigen Stelle nach Artikel 59 Absatz 2 zugänglich. Datensammlungen in Papierform sind unter Verschluss zu halten.
-
-<sup>5</sup>
-
-Für die Aufbewahrung der Daten gelten folgende Fristen:
-
-- a. für die allgemeinen Personaldossiers: zehn Jahre nach Beendigung des Arbeitsverhältnisses;
-- b. für die Dossiers von Aushilfspersonal: zwei Jahre nach Beendigung des Arbeitsverhältnisses;
-- c. für Daten über Sozialmassnahmen, administrative, betreibungs- und strafrechtliche Massnahmen: fünf Jahre nach Umsetzung der Massnahme;
-- d. für Persönlichkeitsprofile: fünf Jahre nach Erhebung der Daten wenn die betroffene Person nicht einer längeren Aufbewahrung schriftlich zugestimmt hat.
-
-<sup>6</sup> Nach Ablauf der Aufbewahrungsfrist ist nach den Artikeln 21 und 22 DSG[^60-1] zu verfahren. In begründeten Einzelfällen kann der ETH-Rat auf Antrag der zuständigen Stelle die Fristen nach Absatz 5 verlängern.
-
-<sup>7</sup>
-
-Die beiden ETH und die Forschungsanstalten regeln für ihr Personal die Einzelheiten. Sie legen die Sicherheitsmassnahmen für die elektronischen Datensammlungen fest. Dabei kann mit Ausnahme von besonders schützenswerten Personendaten im Sinne von Artikel 3 Buchstabe c DSG und von Persönlichkeitsprofilen nach Artikel 3 Buchstabe d DSG der Datenzugriff im Abrufverfahren vorgesehen werden für:
-
-- a. die Zentrale Ausgleichsstelle der Alters- und Hinterlassenenversicherung zwecks Aktualisierung der individuellen Konten;
-- b.[^60-2] …
-- c. die Pensionskasse des Bundes zwecks Aktualisierung der individuellen Konten des Personals;
-- d. die Post zwecks Überweisung der Löhne des Personals.
-
-[^60-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^60-2]: Aufgehoben durch Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und mit Wirkung seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-
-#### Art. 61
-
-**Gesundheitsdaten**
-
-<sup>1</sup> Die medizinischen Akten enthalten den Anstellungsfragebogen, die Arztberichte und -zeugnisse sowie die Beurteilungen des ärztlichen Dienstes, die für die Eignungsbeurteilung der Angestellten bei der Anstellung und während dem Arbeitsverhältnis notwendig sind. Die medizinischen Akten werden beim ärztlichen Dienst nach Artikel 47 aufbewahrt.
-
-<sup>2</sup> Die medizinischen Akten werden in Papierform gesammelt. Gewisse Daten, wie beispielsweise der Name der angestellten Person und die Diagnose, können zwecks Fakturierung oder im Hinblick auf die Erhebung statistischer Daten in automatisierter Form bearbeitet werden.
-
-<sup>3</sup> Das automatisierte Bearbeitungssystem medizinischer Daten muss ein geschlossenes System sein; es darf an kein anderes elektronisches Datenverarbeitungssystem angeschlossen sein.
-
-<sup>4</sup> Dem Personaldienst wird nur die Beurteilung des ärztlichen Dienstes weitergegeben. Der Inhalt der medizinischen Akten wird dem Personaldienst oder Dritten nur dann weitergegeben, wenn die Betroffenen ihre Einwilligung erteilt haben. Der ETH-Rat kann die Ermächtigung zur Weitergabe von Gesundheitsdaten erteilen, wenn keine Zustimmung der betroffenen Person vorliegt.
+[^5961-1]: Aufgehoben durch Art. 49 Ziff. 1 der Personendatenschutzverordnung ETH-Bereich vom 8. Dez. 2022, vom BR genehmigt am 22. Febr. 2023 und mit Wirkung seit 1. Sept. 2023 ([AS 2023 124](https://fedlex.data.admin.ch/eli/oc/2023/124)).
 
 ### 2. Abschnitt: Beschwerden
 
@@ -1649,7 +1581,7 @@ Mitarbeiterinnen und Mitarbeiter, die vor dem 1. Januar 2022 das 59. Altersjahr 
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 25 Abs. 1)
 
@@ -1657,11 +1589,11 @@ Anhang 1*[^t-2]*
 
 [^t-2]: Fassung gemäss Ziff. II der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/de/xml/image/image2.png)
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 26 Abs. 1, 28 Abs. 1, 30 Abs. 3)
 
@@ -1784,7 +1716,7 @@ Anhang 2*[^t-3]*
 <tr><td>15</td><td>57 050</td><td>61 756</td><td>66 883</td><td>72 467</td><td>78 554</td><td>85 349</td><td>93 116</td><td>102 195</td><td>113 027</td><td>126 534</td><td>143 995</td><td>167 251</td><td>199 028</td><td>243 511</td><td></td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 24 Abs. 3)
 
@@ -1804,11 +1736,11 @@ Es gelten folgende Jahresbruttolöhne als Minimallöhne:
 
 [^annex3-lvlu1-1]: Die Kategorie «Weitere Mitarbeiterinnen und Mitarbeiter» umfasst: diplomierte Mitarbeiterinnen und Mitarbeiter, die keine Promotion anstreben; promovierte Mitarbeiterinnen und Mitarbeiter, die die Bedingungen der Kategorie «Postdocs» bezüglich Anstellungsdauer und Zeitfenster nicht erfüllen; technische Mitarbeiterinnen und Mitarbeiter sowie Hilfskräfte.
 
-Anhang 4*[^t-5]*
+Anhang 4[^t-5]
 
 [^t-5]: Eingefügt durch Ziff. I der V des ETH-Rates vom 29. Juni 2005, vom BR genehmigt am 23. Sept. 2005 ([AS 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Aufgehoben durch Ziff. II Abs. 2 der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und mit Wirkung seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 
-Anhang 5*[^t-6]*
+Anhang 5[^t-6]
 
 (Art. 42*a*)
 

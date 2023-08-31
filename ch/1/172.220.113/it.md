@@ -4,20 +4,20 @@ title: "Ordinanza del Consiglio dei PF del 15 marzo 2001 sul personale del setto
 short: OPers PF
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/279"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2001-03-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-279-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2001-279-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del Consiglio dei PF sul personale del settore dei politecnici federali
 
-(Ordinanza sul personale del settore dei PF, OPers PF)**[^t-1]**
+(Ordinanza sul personale del settore dei PF, OPers PF)[^t-1]
 
-del 15 marzo (Stato 1° gennaio 2022)
+del 15 marzo (Stato 1° settembre 2023)
 
 Approvata dal Consiglio federale il 25 aprile 2001
 
@@ -50,12 +50,12 @@ La presente ordinanza non si applica:
 - a<sup>bis</sup>.[^1-4] ai rapporti di lavoro dei professori ordinari, straordinari e assistenti dei due PF, salvo che l’ordinanza del 18 settembre 2003[^1-5] sul corpo professorale non rimandi espressamente alla presente ordinanza;
 - b. agli apprendisti che sottostanno alla legge federale del 19 aprile 1978[^1-6] sulla formazione professionale.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 (RU **200****4** 3301).
+[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
 [^1-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° nov. 2021.
 [^1-3]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
 [^1-4]: Introdotta dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
 [^1-5]: [RS 172.220.113.40](https://fedlex.data.admin.ch/eli/cc/2003/747)
-[^1-6]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 ed all. n. 1, **1998** 1822 art. 2, **1999** 2374 n. I 2, **2003** 187 all. n. II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. I 1]. Attualmente la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^1-6]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 ed all. n. 1; **1998** 1822 art. 2; **1999** 2374 n. I 2; **2003** 187 all. n. II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. I 1]. Attualmente la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
 
 #### Art. 2
 
@@ -1439,7 +1439,7 @@ La comunicazione o la domanda di autorizzazione deve essere presentata al superi
 
 <sup>3</sup> Se chiamati a rispondere in qualità di parti, testimoni o periti in interrogatori o procedimenti giudiziari su constatazioni fatte nell’esercizio del loro mandato o nell’adempimento della propria funzione e che si riferiscono a compiti lavorativi, i collaboratori possono esprimersi solo se ne hanno ricevuto l’autorizzazione del servizio competente.
 
-## Capitolo 5*a*: Violazione degli obblighi professionali****
+## Capitolo 5*a*: Violazione degli obblighi professionali
 
 [^chap5a-1]
 
@@ -1479,7 +1479,7 @@ Se non sussiste alcun motivo di disdetta ai sensi dell’articolo 10 capoversi 3
 
 [^58a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
 [^58a-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^58a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 (RU **2****009** 809).
+[^58a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 
 #### Art. 58b
 
@@ -1493,81 +1493,13 @@ Se una violazione degli obblighi professionali adempie in pari tempo la fattispe
 
 ## Capitolo 6: Disposizioni finali
 
-### Sezione 1: Protezione di dati personali e relativi alla salute
+### Sezione 1: ...
 
-(art. 27 nonché 28 cpv. 3 e 4 LPers)
+#### Art. 59 a 61
 
-#### Art. 59
+[^5961-1]
 
-**Competenze**
-
-<sup>1</sup> I due PF e gli istituti di ricerca provvedono affinché siano osservate le disposizioni della legge federale del 19 giugno 1992[^59-1] sulla protezione dei dati (LPD) e dell’ordinanza del 14 giugno 1993[^59-2] relativa alla legge federale sulla protezione dei dati (OLPD).
-
-<sup>2</sup>
-
-I due PF e gli istituti di ricerca designano per il proprio settore i servizi competenti per il trattamento:
-
-- a. dei fascicoli generali relativi al personale;
-- b. dei profili della personalità (art. 3 lett. d LPD);
-- c. dei dati relativi a misure sociali;
-- d. dei dati relativi a procedimenti esecutivi;
-- e. dei dati relativi a procedimenti penali;
-- f. dei dati relativi a procedimenti amministrativi.
-
-<sup>3</sup> Prima dell’introduzione o della modifica di un sistema o di una collezione di dati, sono consultati gli impiegati o le associazioni del personale che li rappresentano.
-
-<sup>4</sup> I due PF e gli istituti di ricerca notificano autonomamente per registrazione all’Incaricato federale della protezione dei dati e della trasparenza[^59-3] tutte le collezioni di dati prima che queste ultime siano rese operative (art. 11 LPD, art. 3 OLPD).
-
-[^59-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^59-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^59-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-
-#### Art. 60
-
-**Principi in materia di trattamento**
-
-<sup>1</sup> I dati di cui all’articolo 59 capoverso 2 lettere c-f possono essere trattati solo nella misura in cui ve ne sia una necessità.
-
-<sup>2</sup> I profili della personalità possono essere trattati solo se sono necessari ai fini dello sviluppo del personale e se le persone interessate vi hanno acconsentito per scritto.
-
-<sup>3</sup> Oltre ai dati di cui all’articolo 59 capoverso 2 lettere b-f, i dati personali degni di particolare protezione possono essere trattati solo in casi eccezionali se sono necessari ai fini dello sviluppo del personale e se le persone interessate vi hanno acconsentito per scritto.
-
-<sup>4</sup> I dati sono accessibili solo al servizio competente di cui all’articolo 59 capoverso 2. Le collezioni di dati manuali devono essere tenute sotto chiave.
-
-<sup>5</sup>
-
-Per la conservazione dei dati valgono i seguenti termini:
-
-- a. per i fascicoli generali relativi al personale: dieci anni dopo la fine del rapporto di lavoro;
-- b. per i fascicoli relativi al personale ausiliario: due anni dopo la fine del rapporto di lavoro;
-- c. per i dati relativi a misure sociali e provvedimenti amministrativi, esecutivi e penali: cinque anni dopo l’applicazione della misura o del provvedimento;
-- d. per profili della personalità: cinque anni dopo il rilevamento dei dati se la persona interessata non ha acconsentito per scritto a una durata di conservazione più lunga.
-
-<sup>6</sup> Decorso il termine di conservazione si procede conformemente agli articoli 21 e 22 LPD[^60-1]. In singoli casi motivati il Consiglio dei PF può prolungare, dietro richiesta del servizio competente, i termini di cui al capoverso 3.
-
-<sup>7</sup>
-
-I due PF e gli istituti di ricerca disciplinano le questioni di dettaglio relative al proprio personale. Stabiliscono le misure di sicurezza per le collezioni di dati elettroniche. Ad eccezione dei dati personali degni di particolare protezione di cui all’articolo 3 lettera c LPD e dei profili della personalità di cui all’articolo 3 lettera d LPD, è possibile prevedere l’accesso ai dati nella procedura di richiamo per:
-
-- a. la Centrale di compensazione dell’assicurazione per la vecchiaia e per i superstiti: dati necessari all’aggiornamento dei conti individuali;
-- b.[^60-2] ...
-- c. la Cassa pensioni della Confederazione: dati necessari all’aggiornamento dei conti individuali del personale;
-- d. La Posta: dati necessari al versamento degli stipendi del personale.
-
-[^60-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^60-2]: Abrogata dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, con effetto dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-
-#### Art. 61
-
-**Dati relativi alla salute**
-
-<sup>1</sup> I documenti medici contengono il questionario di assunzione, i rapporti e i certificati medici, nonché le valutazioni del servizio medico necessarie per valutare le attitudini dell’impiegato al momento dell’assunzione e durante il rapporto di lavoro. I documenti medici sono conservati presso il servizio medico conformemente all’articolo 47.
-
-<sup>2</sup> I documenti medici sono costituiti su carta. Taluni dati, quali il nome dell’impiegato e la diagnosi, possono essere trattati in modo automatizzato ai fini della fatturazione o in vista del rilevamento di dati statistici.
-
-<sup>3</sup> Il sistema automatizzato di trattamento dei dati medici deve essere un sistema chiuso; non può essere allacciato a nessun altro sistema elettronico di trattamento dei dati.
-
-<sup>4</sup> Al servizio del personale è comunicata unicamente la valutazione del servizio medico. Il contenuto dei documenti medici è comunicato al servizio del personale o a terzi soltanto se l’impiegato interessato vi ha previamente acconsentito. Se l’impiegato non dà il suo consenso, il Consiglio dei PF può dare l’autorizzazione a comunicare dati relativi alla salute.
+[^5961-1]: Abrogati dall’art. 49 n. 1 dell’O dell’8 dic. 2022 sulla protezione dei dati personali nel settore dei PF, approvata dal CF il 22 feb. 2023, con effetto dal 1° set. 2023 ([RU 2023 124](https://fedlex.data.admin.ch/eli/oc/2023/124)).
 
 ### Sezione 2: Ricorsi
 
@@ -1616,13 +1548,13 @@ Sono abrogati:
 [^64-3]: Non pubblicato nella RU (vedi [FF 2008 5254](https://fedlex.data.admin.ch/eli/fga/2008/1055)).
 [^64-4]: [[RU 1994 2262](https://fedlex.data.admin.ch/eli/oc/1994/2262_2262_2262)]
 [^64-5]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
-[^64-6]: [[RU 2002 4153](https://fedlex.data.admin.ch/eli/oc/2002/669), [2005 11](https://fedlex.data.admin.ch/eli/oc/2005/4)[4795](https://fedlex.data.admin.ch/eli/oc/2005/646), [2007 463](https://fedlex.data.admin.ch/eli/oc/2007/94)art. 6 n. 3]
+[^64-6]: [[RU 2002 4153](https://fedlex.data.admin.ch/eli/oc/2002/669); [2005 11](https://fedlex.data.admin.ch/eli/oc/2005/4), [4795](https://fedlex.data.admin.ch/eli/oc/2005/646); [2007 463](https://fedlex.data.admin.ch/eli/oc/2007/94)art. 6 n. 3]
 
 #### Art. 65
 
 **Modifica del diritto vigente**
 
-### ...**
+### ...
 
 [^65-subdiv-1]
 
@@ -1650,7 +1582,7 @@ I collaboratori che hanno compiuto il 59° anno d’età prima del 1° gennaio 2
 
 La presente ordinanza entra in vigore il 1° gennaio 2002.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 25 cpv. 1)
 
@@ -1658,11 +1590,11 @@ Allegato 1*[^t-2]*
 
 [^t-2]: Nuovo testo giusta il n. II dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/it/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20230901/it/xml/image/image2.png)
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 26 cpv. 1, 28 cpv. 1, 30 cpv. 3)
 
@@ -1785,7 +1717,7 @@ Linea di valutazione «b.»
 <tr><td>15</td><td>57’050</td><td>61’756</td><td>66’883</td><td>72’467</td><td>78’554</td><td>85’349</td><td>93’116</td><td>102’195</td><td>113’027</td><td>126’534</td><td>143’995</td><td>167’251</td><td>199’028</td><td>243’511</td><td></td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 24 cpv. 3)
 
@@ -1805,11 +1737,11 @@ Sono considerati stipendi minimi i seguenti importi annui lordi:
 
 [^annex3-lvlu1-1]: La categoria «Altri collaboratori» comprende: collaboratori laureati che non intendono conseguire il dottorato; collaboratori in possesso di un dottorato che non adempiono i requisiti della categoria «Postdottorandi» per quanto concerne la durata dell’impiego e il periodo di permanenza, nonché i collaboratori tecnici e il personale ausiliario
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 [^t-5]: Introdotto dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Abrogato dal n. II cpv. 2 dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, con effetto dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 
-Allegato 5*[^t-6]*
+Allegato 5[^t-6]
 
 (art. 42*a*)
 
