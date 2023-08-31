@@ -4,11 +4,11 @@ title: Verordnung vom 5. November 2014 über Internet-Domains (VID)
 short: VID
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/701"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2014-701-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-701-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20210101/de"
 
 (VID)
 
-vom 5. November 2014 (Stand am 1. Januar 2021)
+vom 5. November 2014 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -148,7 +148,7 @@ Die Funktion der Registerbetreiberin beinhaltet folgende Aufgaben:
 - h. unverzügliche Meldung von Störungen des Betriebs des DNS, seiner Infrastruktur oder seiner Registrierungsdienstleistungen an die betroffenen Registrare;
 - i. Bekämpfung der Cyberkriminalität nach den Bestimmungen dieser Verordnung;
 - j.[^10-3] Bereitstellung einer spezifischen und leicht zugänglichen Website, auf der alle nützlichen Informationen über die Tätigkeit der Registerbetreiberin online abrufbar sind;
-- k.[^10-4] ...
+- k.[^10-4] …
 
 <sup>2</sup> Die Registerbetreiberin prüft die Aktivitäten der Registrare sowie der Halterinnen und Halter nicht generell und kontinuierlich. Sie ist nicht verpflichtet, Tatsachen und Umstände aktiv daraufhin zu untersuchen, ob mittels Domain-Namen rechtswidrige Handlungen begangen werden; Artikel 51 Buchstabe b bleibt vorbehalten.
 
@@ -360,7 +360,7 @@ Die Registerbetreiberin muss einen Registrarvertrag abschliessen, wenn die Gesuc
 - c. Sie oder er beherrscht die Hard- und Software sowie die technischen Abläufe für Registrierungen und andere administrative Vorgänge bei der Registerbetreiberin.
 - d. Sie oder er hat ein Verfahren zur Überprüfung der Identifizierungsangaben eingerichtet, die von Personen eingereicht werden, die einen Domain-Namen beantragen.
 - e. Sie oder er verfügt über die notwendigen personellen und technischen Ressourcen, um die Ablage und Aktualisierung der administrativen und technischen Daten zu gewährleisten, die von Personen, die einen Domain-Namen beantragen, oder von Halterinnen und Haltern von Domain-Namen eingereicht werden.
-- f. Sie oder er verfügt im Bereich Informatik über die notwendige Hard- und Software zur Gewährleistung der Sicherheit der Personendaten, die von Personen eingereicht werden, die einen Domain-Namen beantragen, und bewahrt diese Daten unter Einhaltung der Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^17-1] über den Datenschutz auf.
+- f.[^17-1] Sie oder er verfügt im Bereich Informatik über die notwendige Hard- und Software zur Gewährleistung der Sicherheit der Personendaten, die von Personen eingereicht werden, die einen Domain-Namen beantragen, und bewahrt diese Daten unter Einhaltung der Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^17-2] auf.
 - g. Sie oder er hat Sicherheiten geleistet, die bei zweifelhafter Solvenz oder Zahlungsausfall verwertet werden können; sie dürfen das voraussichtliche Risiko der Registerbetreiberin nicht übersteigen und sind zum Zinssatz eines Sparkontos zu verzinsen.
 
 <sup>3</sup> Das Gesuch um Abschluss eines Registrarvertrags ist der Registerbetreiberin einzureichen. Es beinhaltet alle Dokumente, Angaben und Informationen, die notwendig sind, um zu beurteilen, ob die Gesuchstellerin oder der Gesuchsteller die Voraussetzungen erfüllt.
@@ -375,7 +375,8 @@ Die Registerbetreiberin muss einen Registrarvertrag abschliessen, wenn die Gesuc
 
 <sup>8</sup> Betreffend die Aufsicht des BAKOM über die Registrare sind die Artikel 40 Absätze 1, 3 und 4 sowie Artikel 41 sinngemäss anwendbar.
 
-[^17-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-1]: Fassung gemäss Anhang 2 Ziff. II 89 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 18
 
@@ -443,7 +444,7 @@ Die Registrare müssen:
 
 <sup>2</sup> Sie melden den zuständigen Stellen des Bundes sicherheitsrelevante Zwischenfälle in ihren Systemen, ihrer Verwaltungsinfrastruktur oder dem DNS. Sie können Personendaten im Zusammenhang mit Zwischenfällen bearbeiten und den zuständigen Stellen weiterleiten, nötigenfalls auch ohne Wissen der betroffenen Personen.
 
-<sup>3</sup> ...[^23-1]
+<sup>3</sup> …[^23-1]
 
 <sup>4</sup> Die Registrare übermitteln dem angerufenen Streitbeilegungsdienst auf Verlangen alle bei ihnen vorhandenen Personendaten, die für die Beilegung einer Streitigkeit nötig sind.
 
@@ -1101,7 +1102,7 @@ Dabei halten sie die folgenden Grundsätze ein:
 
 <sup>2</sup> Es kann internationale Vereinbarungen technischen oder administrativen Inhalts abschliessen, die in den Anwendungsbereich dieser Verordnung fallen.
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 61–64
 
@@ -1115,7 +1116,7 @@ Dabei halten sie die folgenden Grundsätze ein:
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 3)
 

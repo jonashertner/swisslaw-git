@@ -4,11 +4,11 @@ title: Ordinanza del 5 novembre 2014 sui domini Internet (ODIn)
 short: ODIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/701"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2014-701-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-701-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20210101/it"
 
 (ODIn)
 
-del 5 novembre 2014 (Stato 1° gennaio 2021)
+del 5 novembre 2014 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -360,7 +360,7 @@ Il gestore del registro ha l’obbligo di concludere un contratto di centro di r
 - c. padroneggia gli strumenti, i software e le regole tecniche che permettono di effettuare le registrazioni e le altre operazioni amministrative presso il gestore del registro;
 - d. ha messo in atto una procedura di verifica dei dati d’identificazione forniti dai richiedenti dei nomi di dominio;
 - e. dispone delle risorse umane e tecniche necessarie a garantire la gestione e l’aggiornamento dei dati amministrativi e tecnici forniti dai richiedenti o dai titolari dei nomi di dominio;
-- f. dispone degli strumenti e dei software informatici necessari a garantire la sicurezza dei dati personali forniti dai richiedenti dei nomi di dominio e li conserva nel rispetto delle disposizioni della legge federale del 19 giugno 1992[^17-1] sulla protezione dei dati;
+- f.[^17-1] dispone degli strumenti e dei software informatici necessari a garantire la sicurezza dei dati personali forniti dai richiedenti dei nomi di dominio e li conserva nel rispetto delle disposizioni della legge federale del 25 settembre 2020[^17-2] sulla protezione dei dati;
 - g. ha fornito garanzie esigibili in caso di solvibilità dubbia o di mancato pagamento; l’importo di queste garanzie, rimunerate al tasso d’interesse applicato ai conti di risparmio, non può eccedere quello necessario alla copertura del rischio presumibile del gestore del registro.
 
 <sup>3</sup> La domanda di concludere un contratto di centro di registrazione è presentata presso il gestore del registro. Essa contiene tutti i documenti, le indicazioni e le informazioni che consentono di valutare se il richiedente soddisfa le condizioni stabilite.
@@ -375,7 +375,8 @@ Il gestore del registro ha l’obbligo di concludere un contratto di centro di r
 
 <sup>8</sup> L’articolo 40 capoversi 1, 3 e 4 e l’articolo 41 si applicano per analogia alla vigilanza esercitata dall’UFCOM sui centri di registrazione.
 
-[^17-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-1]: Nuovo testo giusta l’all. 2 n. II 89 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 18
 
@@ -1114,7 +1115,7 @@ Rispettano i principi seguenti:
 
 La presente ordinanza entra in vigore il 1° gennaio 2015.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 3)
 

@@ -4,11 +4,11 @@ title: Ordonnance du 5 novembre 2014 sur les domaines Internet (ODI)
 short: ODI
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/701"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-701-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-701-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20210101/fr"
 
 (ODI)
 
-du 5 novembre 2014 (Etat le 1<sup>er</sup> janvier 2021)
+du 5 novembre 2014 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -360,7 +360,7 @@ Le registre a l’obligation de conclure un contrat de registraire lorsque le de
 - c. il maîtrise les matériels et logiciels ainsi que les règles techniques permettant d’effectuer les enregistrements et autres opérations administratives auprès du registre;
 - d. il a mis en place une procédure de vérification des données d’identification fournies par les requérants de noms de domaine;
 - e. il dispose des ressources humaines et techniques nécessaires pour assurer la tenue ainsi que la mise à jour des données administratives et techniques fournies par les requérants ou titulaires de noms de domaine;
-- f. il dispose des matériels et logiciels informatiques nécessaires pour assurer la sécurité des données personnelles fournies par les requérants de noms de domaine et conserve ces dernières dans le respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^17-1];
+- f.[^17-1] il dispose des matériels et logiciels informatiques nécessaires pour assurer la sécurité des données personnelles fournies par les requérants de noms de domaine et conserve ces dernières dans le respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^17-2];
 - g. il s’est acquitté des sûretés exigibles en cas de solvabilité douteuse ou de non-paiement; le montant de ces sûretés, rémunérées au taux d’intérêt appliqué aux comptes d’épargne, ne peut excéder la couverture du risque vraisemblable auquel s’expose le registre.
 
 <sup>3</sup> La demande de conclure un contrat de registraire est adressée au registre. Elle comporte l’ensemble des documents, indications et informations permettant d’apprécier le respect par le demandeur des conditions fixées.
@@ -375,7 +375,8 @@ Le registre a l’obligation de conclure un contrat de registraire lorsque le de
 
 <sup>8</sup> Les art. 40, al. 1, 3 et 4, et art. 41 s’appliquent par analogie à la surveillance exercée par l’OFCOM sur les registraires.
 
-[^17-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-1]: Nouvelle teneur selon l’annexe 2 ch. II 89 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 18
 
@@ -1115,7 +1116,7 @@ Elles respectent les principes suivants:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2015.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 3)
 
@@ -1128,7 +1129,7 @@ Au sens de la présente ordonnance, on entend par:
 - a. *DNS (système des noms de domaine [Domain Name System]):* système mettant en œuvre une organisation collective et une gestion structurée de manière hiérarchique des noms de domaine et de leur résolution en une adresse IP (et vice-versa);
 - b. *domaine ou domaine Internet:* sous-ensemble de la structure hiérarchique du DNS faisant l’objet d’une gestion commune des noms de domaine qui lui sont subordonnés;
 - c. *nom de domaine:* paramètre de communication unique, composé d’une suite de caractères alphanumériques, idéographiques ou autres qui permet d’identifier un domaine;
-- d. *ACE-String (ASCII [American Standard Code for Information Interchange] Compatible E**n**coding-String):* chaîne de caractères composée des caractères a à z (sans accents ni voyelles infléchies) et numériques 0 à 9 ainsi que de traits d’union qui est établie au moyen de processus techniques. Un nom de domaine est enregistré sous la forme de l’ACE-String dans le DNS;
+- d. *ACE-String (ASCII [American Standard Code for Information Interchange] Compatible Encoding-String):* chaîne de caractères composée des caractères a à z (sans accents ni voyelles infléchies) et numériques 0 à 9 ainsi que de traits d’union qui est établie au moyen de processus techniques. Un nom de domaine est enregistré sous la forme de l’ACE-String dans le DNS;
 - e. *adresse de protocole Internet ou adresse IP (IP ou Internet Protocol* *Address**):* paramètre de communication numérique, défini dans le protocole IP, qui identifie un élément du réseau Internet;
 - f. *ICANN (Internet Corporation for Assigned Names and Numbers):* société de droit californien à but non lucratif qui a en particulier pour tâche d’allouer l’espace des adresses IP, de gérer les domaines de premier niveau du DNS et d’assurer le fonctionnement de ses serveurs racines;
 - g. *ISO (International Organisation for Standardization):* organisation internationale de normalisation;

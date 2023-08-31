@@ -4,11 +4,11 @@ title: Ordinance of 5 November 2014 on Internet Domains (OID)
 short: OID
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/701"
 language: en
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2014-701-20210101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2014-701-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OID)
 
-of 5 November 2014 (Status as of 1 January 2021)
+of 5 November 2014 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -333,7 +333,7 @@ The registry may on its own initiative or must on request from a service in term
 
 <sup>3</sup> At the request of a Swiss authority intervening within its sphere of competence, the registry shall request the holder of a domain name without a valid Swiss correspondence address to indicate such an address and to disclose its identity within 30 days. The registry shall revoke the domain name if the holder does not comply within the time limit; it shall notify the requesting Swiss authority of the revocation.[^16-3]
 
-<sup><sup>4</sup></sup> <sup>Otherwise, Article 13</sup>*<sup>b</sup>* <sup>TCA applies by analogy to the administrative assistance gua</sup><sup>r</sup><sup>anteed by the registry.</sup>
+<sup><sup>4</sup></sup> <sup>Otherwise, Article 13</sup>*<sup>b</sup>* <sup>TCA applies by analogy to the administrative assistance guaranteed by the registry.</sup>
 
 [^16-1]: Amended by No I of the O of 15 Sept. 2017, in force since 1 Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
 [^16-2]: Amended by No I of the O of 15 Sept. 2017, in force since 1 Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
@@ -361,12 +361,12 @@ The registry must conclude a registrar contract when the applicant meets the fol
 - c. it masters the hardware and software as well as the technical rules making it possible to carry out registrations and other administrative operations with the registry;
 - d. it has put in place a procedure for verifying the identification data provided by applicants for domain names;
 - e. it has the human and technical resources necessary to ensure the maintenance and updating of the administrative and technical data provided by applicants for or holders of domain names;
-- f. it has the information technology hardware and software necessary to ensure the security of the personal data provided by applicants for domain names and archives the latter in conformity with the provisions of the Federal Act of 19 June 1992[^17-1] on Data Protection;
+- f.[^17-1] it has the information technology hardware and software necessary to ensure the security of the personal data provided by applicants for domain names and archives the latter in conformity with the provisions of the Data Protection Act of 25 September 2020[^17-2];
 - g. it has provided the required guarantees in the event of doubtful solvency or of non-payment; the amount of these guarantees, attracting a rate of interest that applies to savings accounts, shall not exceed the anticipated risk to the registry.
 
 <sup>3</sup> The application to conclude a registrar contract is addressed to the registry. It includes all the documents, data and information that make it possible to assess compliance by the applicant with the prescribed conditions.
 
-<sup><sup>4</sup></sup> <sup>Any change in the facts on which the registrar contract is based must be commun</sup><sup>i</sup><sup>cated to the regi</sup><sup>s</sup><sup>try.</sup>
+<sup><sup>4</sup></sup> <sup>Any change in the facts on which the registrar contract is based must be communicated to the registry.</sup>
 
 <sup>5</sup> The registrar contract may not derogate from the rules prescribed by this Ordinance and its implementing provisions. In addition, the registry shall comply with the principles of non-discrimination and transparency in its contractual relations with registrars.
 
@@ -376,7 +376,8 @@ The registry must conclude a registrar contract when the applicant meets the fol
 
 <sup>8</sup> Article 40 paragraphs 1, 3 and 4, and Article 41 apply by analogy to the surveillance of registrars exercised by OFCOM.
 
-[^17-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-1]: Amended by Annex 2 No II 89 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 18
 
@@ -480,7 +481,7 @@ OFCOM shall determine the information, elements and documents which may be requi
 - c. if the applicant is a legal entity or a partnership with its headquarters abroad: an attested up-to-date extract from the foreign commercial register or, when the extract does not contain sufficient information or if there is no corresponding institution in the commercial register, an official document attesting that the entity exists legally in accordance with the provisions of the applicable foreign law;
 - d. the business identification number (BIN) within the meaning of the Federal Act of 18 June 2010[^24-1] on the Business Identification Number.
 
-<sup><sup>4</sup></sup> <sup>If necessary, it shall regulate the modalities for submitting registration applications. It may demand the use of set forms for registr</sup><sup>a</sup><sup>tions and amendments.</sup>
+<sup><sup>4</sup></sup> <sup>If necessary, it shall regulate the modalities for submitting registration applications. It may demand the use of set forms for registrations and amendments.</sup>
 
 [^24-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
@@ -1115,7 +1116,7 @@ They shall comply with the following principles:
 
 This Ordinance comes into force on 1 January 2015.
 
-Annex*[^t-1]*
+Annex[^t-1]
 
 (Art. 3)
 
@@ -1128,7 +1129,7 @@ In this Ordinance:
 - a. *DNS (Domain Name System)* means a system implementing a collective organisation and a structured management in a hierarchical manner of domain names and their resolution into an IP address (and vice versa);
 - b. *Domain or internet domain* means a sub-set of the hierarchical structure of the DNS which is the subject of joint management of the domain names which are subordinate to it;
 - c. *Domain name* means a unique communication parameter, composed of a series of alphanumeric, ideographic or other characters which make it possible to identify a domain;
-- d. *ACE-String (ASCII [American Standard Codes for Information Interchan**g**es] Compatible Encoding-String)* means a character string made up of the characters A to Z (without accents or inflected vowels) and numerical characters 0 to 9 as well as hyphens which is established by means of technical processes. A domain name is registered in the form of the ACE-String in the DNS;
+- d. *ACE-String (ASCII [American Standard Codes for Information Interchanges] Compatible Encoding-String)* means a character string made up of the characters A to Z (without accents or inflected vowels) and numerical characters 0 to 9 as well as hyphens which is established by means of technical processes. A domain name is registered in the form of the ACE-String in the DNS;
 - e. *Internet Protocol address or IP address* means a numerical communication parameter, defined in the IP protocol, which identifies an element of the internet network;
 - f. *ICANN (Internet Corporation for Assigned Names and Numbers)* is a non-profit corporation under Californian law which has in particular the task of assigning the IP address space, managing the top-level domains of the DNS and ensuring the operation of its root servers;
 - g. *ISO* is the International Organisation for Standardisation;
