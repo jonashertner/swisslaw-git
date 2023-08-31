@@ -4,11 +4,11 @@ title: Loi fédérale du 18 juin 2010 sur les organes de sécurité des entrepri
 short: LOST
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/565"
 language: fr
-version: 2018-01-01
+version: 2023-09-01
 adopted: 2010-06-18
 in_force: 2011-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-565-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2011-565-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20180101/fr"
 
 (LOST)
 
-du 18 juin 2010 (Etat le 1<sup>er</sup> janvier 2018)
+du 18 juin 2010 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -86,7 +86,7 @@ Les organes de sécurité assument les tâches suivantes:
 <sup>3</sup> Les entreprises de transport qui gèrent une police des transports peuvent assumer des tâches de police aérienne sur mandat de l’Office fédéral de la police. Dans ce cas, l’affectation du personnel est régie par les prescriptions du droit aérien. La responsabilité est régie par les art. 1 à 18 de la loi du 14 mars 1958 sur la responsabilité[^3-1].[^3-2]
 
 [^3-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^3-2]: Introduit par le ch. 3 de l’annexe à la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3-2]: Introduit par l’annexe ch. 3 de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 #### Art. 4
 
@@ -140,10 +140,11 @@ Les organes de sécurité peuvent traiter les données suivantes pour accomplir 
 
 <sup>2</sup> Si les tâches des services de sécurité sont confiées à une organisation privée conformément à l’art. 5, al. 3, les systèmes de traitement des données doivent être séparés sur les plans physique et logique des autres systèmes de traitement des données de l’organisation.
 
-<sup>3</sup> Les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^6-2], notamment les art. 16 à 25<sup>bis</sup> et 27, sont applicables au surplus.
+<sup>3</sup> Les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^6-2], notamment les art. 33 à 42 et 49 à 53, sont applicables au surplus.[^6-3]
 
 [^6-1]: Rectifiée par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-3]: Nouvelle teneur selon l’annexe 1 ch. II 63 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 7
 
@@ -163,7 +164,7 @@ Les organes de sécurité peuvent traiter les données suivantes pour accomplir 
 
 <sup>6</sup> Le Conseil fédéral règle les modalités de la collaboration.
 
-[^7-1]: Introduit par le ch. 5 de l’annexe à la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^7-1]: Introduit par l’annexe ch. 5 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 8
 

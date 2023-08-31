@@ -4,11 +4,11 @@ title: Legge federale del 18 giugno 2010 sugli organi di sicurezza delle imprese
 short: LFSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/565"
 language: it
-version: 2018-01-01
+version: 2023-09-01
 adopted: 2010-06-18
 in_force: 2011-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2011-565-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-565-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20180101/it"
 
 (LFSI)
 
-del 18 giugno 2010 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 18 giugno 2010 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -88,7 +88,7 @@ Gli organi di sicurezza:
 <sup>3</sup> Le imprese di trasporto che dispongono di una polizia dei trasporti possono assumere compiti di polizia aerea su mandato dell’Ufficio federale di polizia. In tal caso l’impiego del personale è disciplinato dalle prescrizioni in materia di diritto aeronautico. La responsabilità è disciplinata dagli articoli 1–18 della legge del 14 marzo 1958[^3-1] sulla responsabilità.[^3-2]
 
 [^3-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^3-2]: Introdotto dal n. 3 dell’all. alla LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3-2]: Introdotto dall’all. n. 3 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 #### Art. 4
 
@@ -142,9 +142,10 @@ Per adempiere i loro compiti gli organi di sicurezza possono trattare i seguenti
 
 <sup>2</sup> Se i compiti del servizio di sicurezza sono affidati a un’organizzazione privata in virtù dell’articolo 5 capoverso 3, i sistemi di trattamento dei dati devono essere separati fisicamente e logicamente dagli altri sistemi di trattamento dei dati di tale organizzazione.
 
-<sup>3</sup> Per il rimanente si applicano le disposizioni della legge federale del 19 giugno 1992[^6-1] sulla protezione dei dati, in particolare gli articoli 16–25<sup>bis</sup> e 27.
+<sup>3</sup> Per il rimanente si applicano le disposizioni della legge federale del 25 settembre 2020[^6-1] sulla protezione dei dati, in particolare gli articoli 33–42 e 49–53.[^6-2]
 
 [^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: Nuovo testo giusta l’all. 1 n. II 63 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 7
 
@@ -164,7 +165,7 @@ Per adempiere i loro compiti gli organi di sicurezza possono trattare i seguenti
 
 <sup>6</sup> Il Consiglio federale disciplina i dettagli della collaborazione.
 
-[^7-1]: Introdotto dal n. 5 dell’all. alla LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^7-1]: Introdotto dall’all. n. 5 della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 8
 

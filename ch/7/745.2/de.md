@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Juni 2010 über die Sicherheitsorgane der Transportu
 short: BGST
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/565"
 language: de
-version: 2018-01-01
+version: 2023-09-01
 adopted: 2010-06-18
 in_force: 2011-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2011-565-20180101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-565-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20180101/de"
 
 (BGST)
 
-vom 18. Juni 2010 (Stand am 1. Januar 2018)
+vom 18. Juni 2010 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -140,9 +140,10 @@ Die Sicherheitsorgane können zur Erfüllung ihrer Aufgaben folgende Daten bearb
 
 <sup>2</sup> Werden Aufgaben des Sicherheitsdienstes einer privaten Organisation nach Artikel 5 Absatz 3 übertragen, so sind die Datenbearbeitungssysteme physisch und logisch von den übrigen Datenbearbeitungssystemen der Organisation zu trennen.
 
-<sup>3</sup> Im Übrigen gelten die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^6-1] über den Datenschutz, insbesondere die Artikel 16–25<sup>bis</sup> und 27.
+<sup>3</sup> Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^6-1], insbesondere die Artikel 33−42 und 49−53.[^6-2]
 
 [^6-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: Fassung gemäss Anhang 1 Ziff. II 63 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 7
 
@@ -194,7 +195,7 @@ Nach dem Strafgesetzbuch[^10-1] strafbare Handlungen werden von Amtes wegen verf
 
 <sup>2</sup> …[^11-2]
 
-[^11-1]: [BS **7** 27; [AS 1958 335](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)Art. 96 Abs. 1 Ziff. 8 und Abs. 3, **1986** 1974 Art. 53 Ziff. 5, **2010** 1881 Anhang 1 Ziff. II 23]
+[^11-1]: [BS **7** 27; [AS 1958 335](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)Art. 96 Abs. 1 Ziff. 8 und Abs. 3; **1986** 1974 Art. 53 Ziff. 5; **2010** 1881 Anhang 1 Ziff. II 23]
 [^11-2]: Die Änderungen können unter [AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565)konsultiert werden.
 
 #### Art. 12

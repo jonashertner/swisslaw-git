@@ -4,11 +4,11 @@ title: Federal Act of 18 June 2010 on the Security Units of Public Transport Com
 short: PTSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/565"
 language: en
-version: 2018-01-01
+version: 2023-09-01
 adopted: 2010-06-18
 in_force: 2011-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20180101/en/xml/fedlex-data-admin-ch-eli-cc-2011-565-20180101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20180101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2011-565-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PTSA)
 
-of 18 June 2010 (Status as of 1 January 2018)
+of 18 June 2010 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -142,9 +142,10 @@ Security units may process the following data for the purposes of carrying out t
 
 <sup>2</sup> Where security service tasks have been delegated to a private organisation pursuant to Article 5 paragraph 3 above, the data processing systems must be physically and logically separated from that organisation’s other data processing systems.
 
-<sup>3</sup> The provisions of the Data Protection Act of 19 June 1992[^6-1], in particular Articles 16–25<sup>bis</sup> and 27, apply.
+<sup>3</sup> The provisions of the Data Protection Act of 19 25 September 2020[^6-1], in particular Articles 33−42 and 49−53 apply.[^6-2]
 
 [^6-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: Amended by Annex 1 No II 63 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 7
 
@@ -184,7 +185,7 @@ The regulatory authority for security units shall be the Federal Office of Trans
 
 ***Ex officio* prosecution**
 
-Offences contrary to the Swiss Criminal Code[^10-1] committed against security personnel acting in the course of their duties shall be prosecuted *ex off**i**cio*.
+Offences contrary to the Swiss Criminal Code[^10-1] committed against security personnel acting in the course of their duties shall be prosecuted *ex officio*.
 
 [^10-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
@@ -196,7 +197,7 @@ Offences contrary to the Swiss Criminal Code[^10-1] committed against security p
 
 <sup>2</sup> ...[^11-2]
 
-[^11-1]: [BS **7** 27; [AS 1958 335](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 para. 1 No 8 and para. 3, **1986** 1974 art. 53 No 5; **2010** 1881 annexe 1 No II 23]
+[^11-1]: [BS **7** 27; [AS 1958 335](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)Art. 96 para. 1 No 8 and para. 3, **1986** 1974 Art. 53 No 5; **2010** 1881 Annex 1 No II 23]
 [^11-2]: The amendments may be consulted under [AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565).
 
 #### Art. 12
@@ -209,4 +210,4 @@ Offences contrary to the Swiss Criminal Code[^10-1] committed against security p
 
 Commencement date: 1 October 2011[^12-1]
 
-[^12-1]: FCD of 17 Aug. 2011..
+[^12-1]: FCD of 17 Aug. 2011.
