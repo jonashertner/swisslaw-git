@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° agosto 2023)
+del 27 maggio 2020 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1455,13 +1455,14 @@ Le autorità cantonali di esecuzione trattano i dati personali:
 
 **Forma del trattamento**
 
-<sup>1</sup> I dati personali sono conservati in collezioni di dati sicure. Se si tratta di collezioni di dati elettroniche, sono rilasciati diritti di accesso individuali.
+<sup>1</sup> e <sup>2</sup> *...*[^97-1]
 
-<sup>2</sup> I dati personali sono resi anonimi, se questo non ostacola lo svolgimento dei compiti stabiliti dalla legislazione sulle derrate alimentari.
-
-<sup>3</sup> I dati relativi a procedimenti e sanzioni amministrativi o penali sono trattati in modo confidenziale, fatti salvi i casi in cui una base legale ne richieda la comunicazione.
+<sup>3</sup> I dati concernenti perseguimenti e sanzioni amministrativi o penali sono trattati in modo confidenziale, fatti salvi i casi in cui una base legale ne richieda la comunicazione.[^97-2]
 
 <sup>4</sup> Le autorità federali, le autorità cantonali di esecuzione e i terzi emanano regolamenti interni sulla forma del trattamento dei dati.
+
+[^97-1]: Abrogati dall’all. 2 n. II 107 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^97-2]: Nuovo testo giusta l’all. 2 n. II 107 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Sezione 2: Scambio di dati
 
@@ -1475,7 +1476,9 @@ Le autorità cantonali di esecuzione trattano i dati personali:
 
 <sup>3</sup> Il DFI può prevedere che i dati siano trattati in un sistema d’informazione predisposto dall’USAV e che siano trasmessi esclusivamente attraverso interfacce amministrate dall’USAV.
 
-<sup>4</sup> Se un documento contiene più dati personali, i dati non necessariamente indispensabili per il destinatario sono cancellati o resi illeggibili.
+<sup>4</sup> Le autorità e i terzi scambiano soltanto i dati personali che sono necessari per il destinatario. Se un documento contiene più dati personali, i dati non necessari per il destinatario sono cancellati o resi illeggibili.[^98-1]
+
+[^98-1]: Nuovo testo giusta l’all. 2 n. II 107 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 99
 

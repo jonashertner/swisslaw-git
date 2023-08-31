@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. August 2023)
+vom 27. Mai 2020 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1481,7 +1481,7 @@ Die kantonalen Vollzugsbehörden bearbeiten Personendaten, die:
 
 <sup>3</sup> Das EDI kann vorsehen, dass die Datenbearbeitung in einem vom BLV vorgegebenen Informationssystem stattfindet und die Datenübermittlung ausschliesslich über vom BLV verwaltete Schnittstellen erfolgt.
 
-<sup>4</sup> Die Behörden und Dritten tauschen nur diejenigen Personendaten aus, die für die Empfängerin oder den Empfänger erforderlich sind. Enthält ein Dokument mehrere Personendaten, so werden diejenigen Daten, die für die Empfängerin oder den Empfänger nicht erforderlich sind, gelöscht oder unlesbar gemacht.[^98-1].
+<sup>4</sup> Die Behörden und Dritten tauschen nur diejenigen Personendaten aus, die für die Empfängerin oder den Empfänger erforderlich sind. Enthält ein Dokument mehrere Personendaten, so werden diejenigen Daten, die für die Empfängerin oder den Empfänger nicht erforderlich sind, gelöscht oder unlesbar gemacht.[^98-1]
 
 [^98-1]: Fassung gemäss Anhang 2 Ziff. II 107 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1823,7 +1823,7 @@ Anhang 3[^t-2]
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, deren Einfuhr wegen des Risikos einer Kontamination durch Mykotoxine, Pestizidrückstände oder einer mikrobiellen Kontamination den verstärkten Kontrollen mit zusätzlichen Bedingungen nach den Artikeln 37−43 unterliegt
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des BLV vom 7. Juli. 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+[^t-2]: Fassung gemäss Ziff. II Abs.1 der V des BLV vom 7. Juli. 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
 - 1\. Sämtliche Lebensmittel, die in Anhang II, Tabelle 1 der Durchführungsverordnung (EU) 2019/1793[^annex3-lvlu1-1] aufgeführt sind mit Ausnahme von Guarkernmehl aus Indien.
 - 2\. Lebensmittel nach Anhang II, Tabelle 2 der Durchführungsverordnung, die wegen des Risikos einer Kontamination durch Mykotoxine in Anhang II, Tabelle 1 gelistet sind und mehr als 20 Prozent des betroffenen Lebensmittels in Tabelle 1 enthalten.

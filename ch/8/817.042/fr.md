@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230801/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (État le 1<sup>er</sup> août 2023)
+du 27 mai 2020 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1461,13 +1461,13 @@ Les autorités cantonales d’exécution traitent les données personnelles:
 
 **Forme du traitement**
 
-<sup>1</sup> Les données personnelles sont contenues dans des fichiers sécurisés. Lorsqu’il s’agit de fichiers informatisés, des droits d’accès individuels sont octroyés.
-
-<sup>2</sup> Les données personnelles sont anonymisées, dans la mesure où cette action n’empêche pas l’accomplissement des tâches fixées par la législation sur les denrées alimentaires.
+<sup>1</sup> et <sup>2</sup> …[^97-1]
 
 <sup>3</sup> Les données relatives aux poursuites et aux sanctions administratives ou pénales sont traitées de manière confidentielle, sous réserve des cas où une base légale exige leur communication.
 
 <sup>4</sup> Les autorités fédérales, les autorités cantonales d’exécution et les tiers édictent des règlements internes sur la forme du traitement des données.
+
+[^97-1]: Abrogés par l’annexe 2 ch. II 107 de l’O du 31 août 2022 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Section 2 Échange de données
 
@@ -1481,7 +1481,9 @@ Les autorités cantonales d’exécution traitent les données personnelles:
 
 <sup>3</sup> Le DFI peut prévoir que le traitement des données soit réalisé dans un système d’information prescrit par l’OSAV et que la transmission des données soit effectuée uniquement via les interfaces gérées par l’OSAV.
 
-<sup>4</sup> Lorsqu’un document contient plusieurs données personnelles, celles qui ne sont pas indispensables au destinataire sont supprimées ou rendues illisibles.
+<sup>4</sup> Les autorités et les tiers n’échangent que les données personnelles qui sont nécessaires au destinataire. Lorsqu’un document contient plusieurs données personnelles, celles qui ne sont pas nécessaires au destinataire sont supprimées ou rendues illisibles.[^98-1]
+
+[^98-1]: Nouvelle teneur selon l’annexe 2 ch. II 107 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 99
 
