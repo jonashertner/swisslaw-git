@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 settembre 1999 relativa alla legge federale sull'archi
 short: OLAr
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230101/it"
 
 (Ordinanza sull’archiviazione, OLAr)
 
-dell’8 settembre 1999 (Stato 1° gennaio 2023)
+dell’8 settembre 1999 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -190,7 +190,9 @@ Il diritto di consultare gli archivi comprende in particolare:
 
 <sup>2</sup> Mezzi di ricerca sono gli inventari, gli elenchi, gli indici, gli schedari tradizionali e gli schedari numerici, nonché altri mezzi ausiliari che rendono possibile l’accesso agli archivi enumerandoli o descrivendoli.
 
-<sup>3</sup> I mezzi di ricerca contenenti come tali dati personali degni di particolare protezione o profili della personalità possono essere pubblicati soltanto dopo la scadenza del termine di protezione. Prima della scadenza del termine di protezione una pubblicazione è ammessa soltanto alle condizioni previste dagli articoli 11 e 13 della legge.
+<sup>3</sup> I mezzi di ricerca contenenti come tali dati personali degni di particolare protezione possono essere pubblicati soltanto dopo la scadenza del termine di protezione.[^12-1] Prima della scadenza del termine di protezione una pubblicazione è ammessa soltanto alle condizioni previste dagli articoli 11 e 13 della legge.
+
+[^12-1]: Nuovo testo giusta l’all. 2 n. II 12 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Sezione 2: Termini di protezione
 
@@ -217,7 +219,7 @@ L’autorità competente può autorizzare a consultare fascicoli o pratiche per 
 
 ### (art. 11 e 12 LAr)
 
-<sup>1</sup> Per gli archivi classificati in base a nomi di persona e contenenti dati personali degni di particolare protezione o profili della personalità si applica il termine di protezione prorogato a 50 anni di cui all’articolo 11 della legge, che nel caso particolare può essere raccorciato conformemente agli articoli 11 e 13 della legge o prorogato conformemente all’articolo 12 capoverso 2 della legge.
+<sup>1</sup> Per gli archivi classificati in base a nomi di persona e contenenti dati personali degni di particolare protezione si applica il termine di protezione prorogato a 50 anni di cui all’articolo 11 della legge, che nel caso particolare può essere raccorciato conformemente agli articoli 11 e 13 della legge o prorogato conformemente all’articolo 12 capoverso 2 della legge.[^14-1]
 
 <sup>2</sup> Se un interesse pubblico o privato preponderante degno di protezione si oppone alla consultazione da parte di terzi, il termine di protezione ordinario di cui all’articolo 9 della legge può essere prorogato per determinate categorie di archivi o nel caso particolare. Per le categorie, il termine di protezione prorogato è, di principio, complessivamente di 50 anni.
 
@@ -232,6 +234,8 @@ Un interesse pubblico preponderante degno di protezione si oppone alla consultaz
 <sup>4</sup> Un interesse privato preponderante degno di protezione contrario alla consultazione può essere dato in particolare se quest’ultima comporta una comunicazione precoce di segreti professionali o di fabbricazione.
 
 <sup>5</sup> I fondi con termini di protezione particolari giusta l’articolo 12 capoverso 1 della legge sono elencati nell’Allegato 3. L’elenco può essere modificato o completato dal Dipartimento federale dell’interno. L’elenco più attuale viene conservato presso l’Archivio federale ed è accessibile al pubblico. L’Allegato attualizzato è pubblicato annualmente nella Raccolta ufficiale.
+
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 12 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Sezione 3: Richieste indirizzate alle autorità
 
@@ -394,10 +398,10 @@ Gli archivi non possono essere alienati, salvo se essi sono disponibili in due o
 
 <sup>1</sup> Il regolamento del 15 luglio 1966[^26-1] per l’Archivio federale è abrogato.
 
-<sup>2</sup> L’articolo 15 dell’ordinanza del 14 giugno 1993[^26-2] relativa alla legge federale sulla protezione dei dati è abrogato.
+<sup>2</sup> ...[^26-2]
 
 [^26-1]: [[RU 1966 934](https://fedlex.data.admin.ch/eli/oc/1966/916_942_934), [1973 1591](https://fedlex.data.admin.ch/eli/oc/1973/1591_1591_1591)]
-[^26-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^26-2]: Abrogato dall’all. 2 n. II 12 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -419,7 +423,7 @@ Allegato 1[^t-1]
 
 ## Elenco degli organi federali
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 31 ott. 2003 ([RU 2003 4525](https://fedlex.data.admin.ch/eli/oc/2003/670)). Aggiornato dal n. IV 2 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633), **2008** 3453), dal n. 1 dell’all. all’O del 17 dic. 2014 concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti ([RU 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26)) e dal n. II 1 dell’all. 2 all’O del 15 set. 2017 sull’alcol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 31 ott. 2003 ([RU 2003 4525](https://fedlex.data.admin.ch/eli/oc/2003/670)). Aggiornato dal n. IV 2 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633), **2008** 3453), dall’all. n.1 dell’O del 17 dic. 2014 concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti ([RU 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26)) e dal n. II 1 dell’all. 2 dell’O del 15 set. 2017 sull’alcol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 
 (art. 1 cpv. 1 lett. b–d LAr)
 
@@ -521,7 +525,7 @@ Allegato 3[^t-3]
 
 ## Elenco degli archivi con termine di protezione prorogato
 
-[^t-3]: Nuovo testo giusta il n. I dell’O del DFI del 21 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 710](https://fedlex.data.admin.ch/eli/oc/2022/710)).
+[^t-3]: Nuovo testo giusta il n. I dell’O del DFI del 21 nov. 2022 ([RU 2022 710](https://fedlex.data.admin.ch/eli/oc/2022/710)). Aggiornato dall’all. 3 n. 1 dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 (art. 12 cpv. 1 LAr)
 
@@ -615,7 +619,7 @@ Allegato 3[^t-3]
 <tr><td>E4264-03</td><td>Bundesamt für Polizeiwesen: Polizeifahndungssystem RIPOL – Système de recherche informatisée de la police (1980–1999)</td><td>50 anni; vale solo per i documenti nella posizione 1 (dossier quotidiani delle persone)</td></tr>
 <tr><td>E4268-01</td><td>Bundesamt für Polizei: Informatisiertes Personennachweis-, Aktennachweis- und Verwaltungssystem (IPAS) (2000–)</td><td>50 anni; vale solo per i documenti nella posizione 2 (raccolta di dati)</td></tr>
 <tr><td>E4268-02</td><td>Bundesamt für Polizei: Informatisiertes Staatsschutz-Informations‑System (ISIS) (1994–)</td><td>50 anni</td></tr>
-<tr><td>E4268-03</td><td>Bundesamt für Polizei: Informationssystem der Bundeskriminalpolizei JANUS (2000–)</td><td>50 anni; vale solo per i documenti nella posizione 2 (Daten)</td></tr>
+<tr><td>E4268-03</td><td>Bundesamt für Polizei: Nationales Ermittlungssystem (NES) (2000–)</td><td>50 anni; vale solo per i documenti nella posizione 2 (dati)</td></tr>
 <tr><td>E4268-05</td><td>Bundesamt für Polizei: Dienst für Analyse und Prävention (2000–)</td><td>50 anni</td></tr>
 <tr><td>E4268-06</td><td>Bundesamt für Polizei: Ablage Registratur (2000–)</td><td>80 anni; vale solo per il versamento 2014/25 50 anni; vale solo per i documenti del gruppo principale 1 (categorie di fatti)</td></tr>
 <tr><td>E4268-07</td><td>Bundesamt für Polizei: Meldestelle für Geldwäscherei, Datenverarbeitungssystem zur Bekämpfung der Geldwäscherei (GEWA)</td><td>50 anni; vale solo per i documenti nella posizione 2 (Daten)</td></tr>

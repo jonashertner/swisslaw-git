@@ -3,11 +3,11 @@ sr: "152.11"
 title: Ordinance of 8 September 1999 to the Federal Act on Archiving (Archiving Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Archiving Ordinance)
 
-of 8 September 1999 (Status as of 1 January 2023)
+of 8 September 1999 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -191,7 +191,9 @@ The right to consult the archive records shall comprise in particular:
 
 <sup>2</sup> Finding aids shall be catalogues, lists, indices, conventional files, digital files and other aids allowing access to the archive records by enumerating or describing them.
 
-<sup>3</sup> Finding aids which, as such, contain sensitive personal data or personality profiles shall only be published after expiry of the retention period. Before such expiry, publication shall only be permitted in accordance with Articles 11 and 13 of the Act.
+<sup>3</sup> Finding aids which, as such, contain sensitive personal data shall only be published after expiry of the retention period.[^12-1] Before such expiry, publication shall only be permitted in accordance with Articles 11 and 13 of the Act.
+
+[^12-1]: Amended by Annex 2 No II 12 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Section 2 Retention Periods
 
@@ -218,7 +220,7 @@ The competent authority may release documents still covered by the retention per
 
 ### (Arts. 11 and 12 ArchA)
 
-<sup>1</sup> Archive records that are classified according to the names of people and which contain sensitive personal data or personality profiles shall be covered by the 50‑year extended retention period in accordance with Article 11 of the Act. In an individual case, this may be reduced in accordance with Articles 11 and 13 of the Act or extended in accordance with Article 12 paragraph 2 of the Act.
+<sup>1</sup> Archive records that are classified according to the names of people and which contain sensitive personal data shall be covered by the 50‑year extended retention period in accordance with Article 11 of the Act. In an individual case, this may be reduced in accordance with Articles 11 and 13 of the Act or extended in accordance with Article 12 paragraph 2 of the Act.[^14-1]
 
 <sup>2</sup> If there is an overriding and legitimate public or private interest in preventing the consultation by third parties, the due retention period as per Art. 9 of the Act may be extended for certain categories of archive records or in an individual case. The extended retention period for categories of archive records shall as a rule total 50 years.
 
@@ -233,6 +235,8 @@ An overriding and legitimate public interest in preventing consultation shall ex
 <sup>4</sup> An overriding and legitimate private interest in preventing consultation may exist in particular if consultation of the records would lead to a premature disclosure of professional or manufacturing secrets.
 
 <sup>5</sup> Record groups with special retention periods in accordance with Article 12 paragraph 1 of the Act are listed in Annex 3. The Federal Department of Home Affairs may amend or supplement this list. The most recent list in each case shall be held at the Federal Archives and shall be publicly accessible. The updated appendix shall be published in the Official Record each year.
+
+[^14-1]: Amended by Annex 2 No II 12 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Section 3 Applications to the Authority
 
@@ -397,10 +401,10 @@ The ownership of archive records may not be transferred unless the archives are 
 
 <sup>1</sup> The Federal Archives Regulations of 15 July 1966[^26-1] shall be repealed.
 
-<sup>2</sup> Article 15 of the Ordinance of 14 June 1993[^26-2] to the Federal Act on Data Protection shall be repealed.
+<sup>2</sup> …[^26-2]
 
 [^26-1]: [[AS 1966 942](https://fedlex.data.admin.ch/eli/oc/1966/942_968_960), [1973 1591](https://fedlex.data.admin.ch/eli/oc/1973/1591_1591_1591)]
-[^26-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^26-2]: Repealed by Annex 2 No II 12 of the Data Protection Ordinance of 31 Aug. 2022, with effect from 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

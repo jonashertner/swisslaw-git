@@ -4,11 +4,11 @@ title: "Ordonnance du 8 septembre 1999 relative à la loi fédérale sur l'archi
 short: OLAr
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230101/fr"
 
 (Ordonnance sur l’archivage, OLAr)
 
-du 8 septembre 1999 (État le 1<sup>er</sup> janvier 2023)
+du 8 septembre 1999 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -190,7 +190,9 @@ Le droit de consulter les archives comprend en particulier:
 
 <sup>2</sup> Les instruments de recherche sont des inventaires, des listes, des index, des fichiers conventionnels, des fichiers numériques et d’autres moyens qui permettent l’accès aux archives en les énumérant ou en les décrivant.
 
-<sup>3</sup> Les instruments de recherche qui, en tant que tels, contiennent des données personnelles sensibles ou des profils de la personnalité ne peuvent être publiés qu’après l’expiration du délai de protection. Avant l’expiration du délai de protection, une publication n’est possible qu’aux conditions figurant aux art. 11 et 13 de la loi.
+<sup>3</sup> Les instruments de recherche qui, en tant que tels, contiennent des données personnelles sensibles ne peuvent être publiés qu’après l’expiration du délai de protection.[^12-1] Avant l’expiration du délai de protection, une publication n’est possible qu’aux conditions figurant aux art. 11 et 13 de la loi.
+
+[^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 12 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Section 2 Délais de protection
 
@@ -217,7 +219,7 @@ L’autorité compétente peut autoriser la consultation de dossiers ou d’affa
 
 ### (art. 11 et 12 LAr)
 
-<sup>1</sup> Les archives classées selon des noms de personnes et contenant des données personnelles sensibles ou des profils de la personnalité sont soumises au délai de protection prolongé, fixé à 50 ans d’après l’art. 11 de la loi. Ce délai peut être raccourci dans un cas particulier en vertu des art. 11 et 13 de la loi, ou prolongé conformément à l’art. 12, al. 2, de la loi.
+<sup>1</sup> Les archives classées selon des noms de personnes et contenant des données personnelles sensibles sont soumises au délai de protection prolongé, fixé à 50 ans d’après l’art. 11 de la loi. Ce délai peut être raccourci dans un cas particulier en vertu des art. 11 et 13 de la loi, ou prolongé conformément à l’art. 12, al. 2, de la loi.[^14-1]
 
 <sup>2</sup> Si un intérêt public ou privé prépondérant, digne de protection, s’oppose à la consultation par des tiers, le délai de protection ordinaire visé à l’art. 9 de la loi peut être prolongé pour certaines catégories d’archives ou dans un cas particulier. Le délai de protection prolongé est, pour les catégories d’archives, en règle générale de 50 ans au total.
 
@@ -232,6 +234,8 @@ Un intérêt public prépondérant, digne de protection, s’oppose à la consul
 <sup>4</sup> Un intérêt privé prépondérant, digne de protection, peut s’opposer à la consultation, en particulier lorsque celle-ci conduit à révéler prématurément des secrets professionnels ou des secrets de fabrication.
 
 <sup>5</sup> Les fonds soumis à des délais de protection particuliers en application de l’art. 12, al. 1, de la loi sont mentionnés à l’annexe 3. Le département peut modifier ou compléter cette liste. La dernière version de la liste est conservée aux Archives fédérales et peut être librement consultée. L’annexe mise à jour est publiée chaque année dans le Recueil officiel.
+
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 12 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Section 3 Requête adressée aux autorités
 
@@ -394,10 +398,10 @@ Les archives ne peuvent pas être aliénées à moins qu’elles ne soient dispo
 
 <sup>1</sup> Le Règlement du 15 juillet 1966 pour les archives fédérales[^26-1] est abrogé.
 
-<sup>2</sup> L’art. 15 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^26-2] est abrogé.
+<sup>2</sup> …[^26-2]
 
 [^26-1]: [[RO 1966 942](https://fedlex.data.admin.ch/eli/oc/1966/916_942_934), [1973 1591](https://fedlex.data.admin.ch/eli/oc/1973/1591_1591_1591)]
-[^26-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^26-2]: Abrogé par l’annexe 2 ch. II 12 de l’O du 31 août 2022 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -513,7 +517,7 @@ Annexe 3[^t-3]
 
 ## Liste des archives soumises à un délai de protection prolongé
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 710](https://fedlex.data.admin.ch/eli/oc/2022/710)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 nov. 2022 ([RO 2022 710](https://fedlex.data.admin.ch/eli/oc/2022/710)). Mise à jour par l’annexe 3 ch. 1 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 (art. 12, al. 1, LAr)
 
@@ -522,7 +526,7 @@ Annexe 3[^t-3]
 
 <table>
 <tr><th>Cote du fonds</th><th>Désignation officielle du fonds</th><th>Remarques</th></tr>
-<tr><td>E1010D</td><td>Bundeskanzlei: Zentrale Ablage (2010– )</td><td>100 ans; ne vaut que pour les références 173.1 et 173.2</td></tr>
+<tr><td>E1010D</td><td>Bundeskanzlei: Zentrale Ablage (2010–)</td><td>100 ans; ne vaut que pour les documents sous la référence 173.1 et 173.2</td></tr>
 <tr><td>E1030.2</td><td>Bundeskanzlei: Handakten Karl Huber, Bundeskanzler (1968–1981)</td><td>50 ans</td></tr>
 <tr><td>E1030.3</td><td>Bundeskanzlei: Handakten Walter Buser, Bundeskanzler (1981–1991)</td><td>50 ans</td></tr>
 <tr><td>E1030.4</td><td>Bundeskanzlei: Handakten François Couchepin, Bundeskanzler (1991–1999)</td><td>50 ans</td></tr>
@@ -607,7 +611,7 @@ Annexe 3[^t-3]
 <tr><td>E4264-03</td><td>Bundesamt für Polizeiwesen: Polizeifahndungssystem RIPOL – Système de recherche informatisée de la police (1980-1999)</td><td>50 ans; ne vaut que pour les documents classés sous la réference 1 (dossiers quotidiens des personnes)</td></tr>
 <tr><td>E4268-01</td><td>Bundesamt für Polizei: Informatisiertes Personennachweis-, Aktennachweis- und Verwaltungssystem (IPAS) (2000– )</td><td>50 ans; ne vaut que pour les documents sous la référence 2 (Datensammlung)</td></tr>
 <tr><td>E4268-02</td><td>Bundesamt für Polizei: Informatisiertes Staatsschutz-Informations‑ System (ISIS) (1994– )</td><td>50 ans</td></tr>
-<tr><td>E4268-03</td><td>Bundesamt für Polizei: Informationssystem der Bundeskriminalpolizei JANUS (2000– )</td><td>50 ans; ne vaut que pour les documents sous la référence 2 (Daten)</td></tr>
+<tr><td>E4268-03</td><td>Bundesamt für Polizei: Nationales Ermittlungssystem (NES) (2000–)</td><td>50 ans; ne vaut que pour les documents sous la référence 2 (Daten)</td></tr>
 <tr><td>E4268-05</td><td>Bundesamt für Polizei: Dienst für Analyse und Prävention (2000– )</td><td>50 ans</td></tr>
 <tr><td>E4268-06</td><td>Bundesamt für Polizei: Ablage Registratur (2000– )</td><td>80 ans; ne vaut que pour le versement 2014/25 50 ans; ne vaut que pour les documents du groupe principal 1 (catégories de faits)</td></tr>
 <tr><td>E4268-07</td><td>Bundesamt für Polizei: Meldestelle für Geldwäscherei, Datenverarbeitungssystem zur Bekämpfung der Geldwäscherei (GEWA)</td><td>50 ans, pour les documents classés sous la référence 2 (Daten)</td></tr>

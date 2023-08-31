@@ -4,11 +4,11 @@ title: "Verordnung vom 8. September 1999 zum Bundesgesetz über die Archivierung
 short: VBGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230101/de"
 
 (Archivierungsverordnung, VBGA)
 
-vom 8. September 1999 (Stand am 1. Januar 2023)
+vom 8. September 1999 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -190,7 +190,9 @@ Das Recht auf Einsichtnahme in das Archivgut umfasst insbesondere:
 
 <sup>2</sup> Findmittel sind Verzeichnisse, Listen, Indices, Karteien, Dateien und andere Hilfsmittel, die den Zugang zum Archivgut ermöglichen, indem sie es aufzählen oder beschreiben.
 
-<sup>3</sup> Findmittel, die als solche besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthalten, dürfen erst nach Ablauf der Schutzfrist publiziert werden. Vor Ablauf der Schutzfrist ist eine Publikation nur nach Massgabe der Artikel 11 und 13 des Gesetzes zulässig.
+<sup>3</sup> Findmittel, die als solche besonders schützenswerte Personendaten enthalten, dürfen erst nach Ablauf der Schutzfrist publiziert werden.[^12-1] Vor Ablauf der Schutzfrist ist eine Publikation nur nach Massgabe der Artikel 11 und 13 des Gesetzes zulässig.
+
+[^12-1]: Fassung gemäss Anhang 2 Ziff. II 12 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 2. Abschnitt: Schutzfristen
 
@@ -217,7 +219,7 @@ Die zuständige Behörde kann Unterlagen freigeben, obschon diese noch in die Sc
 
 ### (Art. 11 und 12 BGA)
 
-<sup>1</sup> Für nach Personennamen erschlossenes Archivgut, das besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthält, gilt die 50-jährige verlängerte Schutzfrist nach Artikel 11 des Gesetzes, die im Einzelfall nach den Artikeln 11 und 13 des Gesetzes verkürzt oder nach Artikel 12 Absatz 2 des Gesetzes verlängert werden kann.
+<sup>1</sup> Für nach Personennamen erschlossenes Archivgut, das besonders schützenswerte Personendaten enthält, gilt die 50-jährige verlängerte Schutzfrist nach Artikel 11 des Gesetzes, die im Einzelfall nach den Artikeln 11 und 13 des Gesetzes verkürzt oder nach Artikel 12 Absatz 2 des Gesetzes verlängert werden kann.[^14-1]
 
 <sup>2</sup> Liegt ein überwiegendes schutzwürdiges öffentliches oder privates Interesse gegen die Einsichtnahme durch Dritte vor, so kann die ordentliche Schutzfrist nach Artikel 9 des Gesetzes für bestimmte Kategorien von Archivgut oder im Einzelfall verlängert werden. Die verlängerte Schutzfrist beträgt bei Kategorien von Archivgut in der Regel insgesamt 50 Jahre.
 
@@ -232,6 +234,8 @@ Ein überwiegendes schutzwürdiges öffentliches Interesse gegen die Einsichtnah
 <sup>4</sup> Ein überwiegendes schutzwürdiges privates Interesse gegen die Einsichtnahme kann insbesondere vorliegen, wenn die Akteneinsicht zu einer vorzeitigen Offenbarung von Berufs- oder Fabrikationsgeheimnissen führt.
 
 <sup>5</sup> Die Bestände mit besonderen Schutzfristen nach Artikel 12 Absatz 1 des Gesetzes sind in Anhang 3 aufgeführt. Die Liste kann vom Eidgenössischen Departement des Innern geändert oder ergänzt werden. Die jeweils aktuellste Liste wird beim Bundesarchiv aufbewahrt und ist öffentlich zugänglich. Der nachgeführte Anhang wird jährlich in der Amtlichen Sammlung veröffentlicht.
+
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 12 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 3. Abschnitt: Eingaben an die Behörde
 
@@ -396,10 +400,10 @@ Archivgut darf nicht veräussert werden, ausser wenn das Archivgut in zwei oder 
 
 <sup>1</sup> Das Reglement vom 15. Juli 1966[^26-1] für das Bundesarchiv wird aufgehoben.
 
-<sup>2</sup> Artikel 15 der Verordnung vom 14. Juni 1993[^26-2] zum Bundesgesetz über den Datenschutz wird aufgehoben.
+<sup>2</sup> …[^26-2]
 
 [^26-1]: [[AS 1966 916](https://fedlex.data.admin.ch/eli/oc/1966/916_942_934); [1973 1591](https://fedlex.data.admin.ch/eli/oc/1973/1591_1591_1591)]
-[^26-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^26-2]: Aufgehoben durch Anhang 2 Ziff. II 12 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -522,7 +526,7 @@ Anhang 3[^t-3]
 
 ## Liste von Archivgut mit verlängerter Schutzfrist
 
-[^t-3]: Fassung gemäss Ziff. I der V des EDI vom 21. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 710](https://fedlex.data.admin.ch/eli/oc/2022/710)).
+[^t-3]: Fassung gemäss Ziff. I der V des EDI vom 21. Nov. 2022 ([AS 2022 710](https://fedlex.data.admin.ch/eli/oc/2022/710)). Bereinigt gemäss Anhang 3 Ziff. 1 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 (Art. 12 Abs. 1 BGA)
 
@@ -616,7 +620,7 @@ Anhang 3[^t-3]
 <tr><td>E4264-03</td><td>Bundesamt für Polizeiwesen: Polizeifahndungssystem RIPOL – Système de recherche informatisée de la police (1980–1999)</td><td>50 Jahre, gilt nur für Planposition 1 (Tagesdossiers Personen)</td></tr>
 <tr><td>E4268-01</td><td>Bundesamt für Polizei: Informatisiertes Personennachweis-, Aktennachweis- und Verwaltungssystem (IPAS) (2000–)</td><td>50 Jahre, gilt nur für Unterlagen unter der Planposition 2 (Datensammlung)</td></tr>
 <tr><td>E4268-02</td><td>Bundesamt für Polizei: Informatisiertes Staatsschutz-Informations-System (ISIS) (1994–)</td><td>50 Jahre</td></tr>
-<tr><td>E4268-03</td><td>Bundesamt für Polizei: Informationssystem der Bundeskriminalpolizei JANUS (2000–)</td><td>50 Jahre, gilt nur für Unterlagen unter der Planposition 2 (Daten)</td></tr>
+<tr><td>E4268-03</td><td>Bundesamt für Polizei: Nationales Ermittlungssystem (NES) (2000–)</td><td>50 Jahre, gilt nur für Unterlagen unter der Planposition 2 (Daten)</td></tr>
 <tr><td>E4268-05</td><td>Bundesamt für Polizei: Dienst für Analyse und Prävention (2000–)</td><td>50 Jahre</td></tr>
 <tr><td>E4268-06</td><td>Bundesamt für Polizei: Ablage Registratur (2000–)</td><td>80 Jahre, gilt nur für Ablieferung 2014/25 50 Jahre; gilt nur für Unterlagen der Hauptgruppe 1 (Vorgangskategorien)</td></tr>
 <tr><td>E4268-07</td><td>Bundesamt für Polizei: Meldestelle für Geldwäscherei, Datenverarbeitungssystem zur Bekämpfung der Geldwäscherei (GEWA)</td><td>50 Jahre, gilt nur für Unterlagen der Planposition 2 (Daten)</td></tr>
