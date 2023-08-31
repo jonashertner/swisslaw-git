@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2009 sur les systèmes d'information de l'arm
 short: OSIAr
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230401/fr"
 
 (OSIAr)[^t-1]
 
-du 16 décembre 2009 (État le 1<sup>er</sup> avril 2023)
+du 16 décembre 2009 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -68,13 +68,13 @@ Les dispositions de la LSIA s’appliquent par analogie aussi:
 
 #### Art. 2a
 
-**Organes responsables de la protection des données pour les systèmes d’information du Groupement Défense**[^2a-1]
+**Organes responsables des systèmes d’information du Groupement Défense**[^2a-1]
 
 ### (art. 186, al. 1, let. a, LSIA)
 
-L’unité administrative figurant à l’annexe 1 est l’organe fédéral responsable de la protection des données pour les systèmes d’information exploités par le Groupement Défense conformément aux dispositions de la LSIA ou de la présente ordonnance.
+Les unités administratives mentionnées dans l’annexe 1 sont les organes fédéraux responsables d’assurer la protection des données en rapport avec les systèmes d’information exploités par le Groupement Défense conformément à la LSIA ou à la présente ordonnance.
 
-[^2a-1]: Introduit par le ch. I de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2a-1]: Introduit par le ch. I de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nouvelle teneur selon l’annexe 2 ch. II 63 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2a<sup>bis</sup>
 
@@ -119,19 +119,60 @@ Avant de transmettre le traitement des données à un sous-traitant qui n’est 
 
 Plusieurs systèmes d’information peuvent être regroupés du point de vue technique, et exploités avec une plateforme, une infrastructure, une application ou une base de données unique, dans la mesure où:
 
-- a. et b.[^2b-3] …
+- a.[^2b-3] …
+- b.[^2b-4] …
 - c. les dispositions en vigueur pour chaque système d’information concernant la protection des données, notamment celles de la LSIA et de la présente ordonnance, sont respectées sans élargissement ni de l’ampleur et du but du traitement des données ni des droits d’accès;
 - d. le règlement de traitement édicté pour chacun des systèmes d’information concernés atteste que les exigences visées à la let. c sont satisfaites et expose comment elles le sont.
 
 [^2b-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^2b-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^2b-3]: Abrogées par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2b-3]: Abrogée par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2b-4]: Abrogée par le ch. II de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2c
 
-[^2c-1]
+**Journalisation**[^2c-1]
 
-[^2c-1]: Entre en vigueur le 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+### (art. 186, al. 1, let. e, LSIA)
+
+<sup>1</sup>
+
+Lors du traitement automatisé des données dans un système d’information visé par la LSIA ou la présente ordonnance, l’unité administrative de la Confédération responsable de la protection des données et le sous-traitant engagé par elle journalisent:
+
+- a.
+
+  les types de traitement suivants:
+
+  - 1\. l’enregistrement,
+  - 2\. la modification,
+  - 3\. la lecture, si les données ne sont pas généralement accessibles au public,
+  - 4\. la communication, si les données ne sont pas généralement accessibles au public,
+  - 5\. l’effacement,
+  - 6\. la destruction;
+
+- b. les données concernées par le traitement, mais pas leur contenu;
+- c. l’identité de la personne qui a effectué le traitement;
+- d. l’identité du destinataire des données communiquées;
+- e. le moment du traitement.
+
+<sup>2</sup>
+
+Les données nécessaires à la journalisation des identités visées à l’al. 1, let. c et d, sont collectées:
+
+- a. auprès de la personne concernée ou des personnes de référence désignées par elle;
+- b. auprès des services supérieurs ou des supérieurs hiérarchiques de la personne concernée;
+- c. à partir des systèmes d’information réglés dans la LSIA ou dans la présente ordonnance ou à partir d’autres systèmes d’information exploités par le DDPS ou les unités administratives qui lui sont subordonnées;
+- d. auprès des services et des personnes pour lesquels le traitement à journaliser est effectué ou à partir des systèmes d’information exploités par eux.
+
+<sup>3</sup> S’il n’est pas possible de constater et de journaliser l’identité d’une personne visée à l’al. 1, let. c ou d, il convient de garantir par des mesures techniques et organisationnelles que cette personne ne puisse pas traiter les données.
+
+<sup>4</sup> Les procès-verbaux de journalisation peuvent être rendus accessibles uniquement aux organes et aux personnes chargés de vérifier l’application des dispositions relatives à la protection des données ou de préserver ou de restaurer la confidentialité, l’intégrité, la disponibilité et la traçabilité des données. Ils ne peuvent être utilisés qu’à cette fin.
+
+<sup>5</sup> Ils sont conservés séparément du système d’information.
+
+<sup>6</sup> Ils sont conservés durant un an.
+
+[^2c-1]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2d
 
@@ -141,10 +182,10 @@ Plusieurs systèmes d’information peuvent être regroupés du point de vue tec
 
 <sup>1</sup>
 
-Dans les systèmes d’information et les recueils auxiliaires de données exploités en vertu de la LSIA ou de la présente ordonnance, l’unité administrative responsable peut traiter les données suivantes des utilisateurs du système d’information ou du recueil auxiliaire à des fins de contrôle et d’autorisation ou de refus de l’accès au système d’information ou au recueil auxiliaire:
+Dans les systèmes d’information et les banques de données auxiliaires exploités en vertu de la LSIA ou de la présente ordonnance, l’unité administrative responsable peut traiter les données suivantes des utilisateurs du système d’information ou de la banque de données auxiliaire à des fins de contrôle et d’autorisation ou de refus de l’accès au système ou à la banque:[^2d-2]
 
 - a. leur identité technique, les données et autorisations d’accès;
-- b. leurs modèles biométriques et les données biométriques enregistrées lors de la reconnaissance biométrique, si des données sensibles ou des informations classifiées SECRET ou CONFIDENTIEL sont traitées dans le système d’information ou dans le recueil auxiliaire.
+- b.[^2d-3] leurs modèles biométriques et les données biométriques enregistrées lors de la reconnaissance biométrique si des données sensibles ou des informations classifiées SECRET ou CONFIDENTIEL sont traitées dans le système d’information ou dans la banque de données auxiliaire.
 
 <sup>2</sup>
 
@@ -154,6 +195,8 @@ Si la LSIA ou la présente ordonnance ne prévoit pas d’autre durée pour la c
 - b. toutes les autres données, au plus tard un an après que l’autorisation d’accès de l’utilisateur a été annulée.
 
 [^2d-1]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2d-2]: Nouvelle teneur selon le ch. II de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2d-3]: Nouvelle teneur selon le ch. II de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Chapitre 2 Systèmes d’information sur le personnel
 
@@ -264,10 +307,10 @@ L’Office fédéral de la justice annonce immédiatement au Groupement Défense
 <sup>9</sup> Les institutions chargées de faire exécuter des peines ou des mesures privatives de liberté annoncent immédiatement au Groupement Défense la mise en détention et la libération des conscrits ou des personnes astreintes au service militaire.
 
 [^5-1]: Nouvelle expression selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Il a été tenu compte de cette mod. dans tout le texte.
-[^5-2]: Nouvelle teneur le ch. 1 de l’annexe à l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
+[^5-2]: Nouvelle teneur l’annexe ch. 1 de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
 [^5-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^5-4]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^5-5]: Nouvelle teneur le ch. 1 de l’annexe à l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
+[^5-5]: Nouvelle teneur l’annexe ch. 1 de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
 [^5-6]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^5-7]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^5-8]: Nouvelle teneur selon le ch. I 5 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
@@ -519,7 +562,7 @@ Les données du SIPONT sont conservées pendant dix ans après leur saisie.
 
 [^chap2-sec8-1]
 
-[^chap2-sec8-1]: Introduite par le ch. I de l’annexe 4 à l’O du 26 oct. 2011 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786)). Nouvelle teneur selon le ch. I de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^chap2-sec8-1]: Introduite par l’annexe 4 ch. I de l’O du 26 oct. 2011 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786)). Nouvelle teneur selon le ch. I de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 #### Art. 34a
 
@@ -639,7 +682,7 @@ Les données du SIGC sont accessibles aux ayants droit suivants:[^38-6]
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^38-3]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^38-4]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^38-5]: Nouvelle teneur selon le ch. II 4 de l’annexe 8 à l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^38-5]: Nouvelle teneur selon l’annexe 8 ch. II 4 de l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 [^38-6]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^38-7]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
@@ -1179,7 +1222,7 @@ Les données figurent dans le système pendant dix ans à compter de la date de 
 
 [^70l70p-1]
 
-[^70l70p-1]: Introduits par le ch. 1 de l’annexe à l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogés par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^70l70p-1]: Introduits par l’annexe ch. 1 de l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogés par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Section 5 MIL PLATTFORM
 
@@ -1615,7 +1658,15 @@ La modification du droit en vigueur est réglée à l’annexe 36.
 
 [^77a-1]
 
-[^77a-1]: Introduit par le ch. 1 de l’annexe à l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)). Abrogé par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^77a-1]: Introduit par l’annexe ch. 1 de l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)). Abrogé par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 77b
+
+**Disposition transitoire relative à la modification du 3 mars 2023**[^77b-1]
+
+Jusqu’au 31 août 2026, la journalisation au sens de l’art. 2*c* n’est effectuée que si elle est possible techniquement. Ensuite, elle n’a lieu qu’une fois que les systèmes d’information ont atteint la fin de leur cycle de vie.
+
+[^77b-1]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 78
 
@@ -1631,7 +1682,7 @@ Annexe 1[^t-2]
 
 ## Organes responsables de la protection des données pour les systèmes d’information du Groupement Défense
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Mise à jour par l’annexe 2 ch. II 63 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 <table>
 <tr><th colspan="2">Système d’information</th><th></th><th>Dispositions LSIA/OSIAr</th><th>Organe responsable de la protection des données</th></tr>
@@ -2813,7 +2864,7 @@ Annexe 13a[^t-15]
 
 ## Données du HYDRA
 
-[^t-15]: Introduit par le ch. II de l’annexe 4 à l’O du 26 oct. 2011 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786)). Nouvelle teneur selon le ch. II al. 1 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-15]: Introduit par l’annexe 4 ch. II de l’O du 26 oct. 2011 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786)). Nouvelle teneur selon le ch. II al. 1 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3681,7 +3732,7 @@ Annexe 33b[^t-42]
 
 Annexe 33c[^t-43]
 
-[^t-43]: Introduite par le ch. 1 de l’annexe à l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-43]: Introduite par l’annexe ch. 1 de l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 Annexe 33d[^t-44]
 

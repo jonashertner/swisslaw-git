@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 2009 sui sistemi d'informazione militari e su 
 short: OSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230401/it"
 
 (OSIM)[^t-1]
 
-del 16 dicembre 2009 (Stato 1° aprile 2023)
+del 16 dicembre 2009 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -68,13 +68,13 @@ Le disposizioni della LSIM sono applicabili per analogia anche:
 
 #### Art. 2a
 
-**Organi responsabili dei sistemi d’informazione dell’Aggruppamento Difesa**[^2a-1]
+**Organi titolari dei sistemi d’informazione dell’Aggruppamento Difesa**[^2a-1]
 
 ### (art. 186 cpv. 1 lett. a LSIM)
 
-Per i sistemi d’informazione gestiti, conformemente alle disposizioni della LSIM o della presente ordinanza, dall’Aggruppamento Difesa, l’organo federale responsabile della protezione dei dati è di volta in volta l’unità amministrativa indicata nell’allegato 1.
+Per i sistemi d’informazione gestiti, conformemente alle disposizioni della LSIM o della presente ordinanza, dall’Aggruppamento Difesa, l’organo federale titolare della protezione dei dati è di volta in volta l’unità amministrativa indicata nell’allegato 1.
 
-[^2a-1]: Introdotto dal n. I dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2a-1]: Introdotto dal n. I dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta l’all. 2 n. II 63 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2a<sup>bis</sup>
 
@@ -125,13 +125,52 @@ Più sistemi d’informazione possono essere tecnicamente raggruppati e gestiti 
 
 [^2b-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^2b-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^2b-3]: Abrogate dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2b-3]: Abrogate dal n. II dell’O del 3 mar. 2023, con effetto dal 1° set. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2c
 
-[^2c-1]
+**Verbalizzazione**[^2c-1]
 
-[^2c-1]: Entra in vigore il 1° set. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+### (art. 186 cpv. 1 lett. e LSIM)
+
+<sup>1</sup>
+
+In caso di trattamento automatizzato di dati in un sistema d’informazione secondo la LSIM o la presente ordinanza, l’unità amministrativa della Confederazione responsabile della protezione dei dati e i responsabili del trattamento da questa impiegati verbalizzano:
+
+- a.
+
+  i seguenti tipi di trattamento:
+
+  - 1\. la registrazione,
+  - 2\. la modificazione,
+  - 3\. la lettura, qualora i dati non siano accessibili in modo generalizzato al pubblico,
+  - 4\. la comunicazione, qualora i dati non siano accessibili in modo generalizzato al pubblico,
+  - 5\. la cancellazione,
+  - 6\. la distruzione;
+
+- b. i dati interessati dal trattamento, ma non il loro contenuto;
+- c. l’identità della persona che ha effettuato il trattamento;
+- d. l’identità del destinatario di dati comunicati;
+- e. il momento del trattamento.
+
+<sup>2</sup>
+
+I dati necessari per la verbalizzazione delle identità secondo il capoverso 1 lettere c e d sono raccolti:
+
+- a. presso la persona interessata o le persone di referenza indicate da quest’ultima;
+- b. presso gli organi superiori e i superiori della persona interessata;
+- c. dai sistemi d’informazione disciplinati nella LSIM o nella presente ordinanza o da altri sistemi d’informazione gestiti dal DDPS o da unità amministrative ad esso subordinate;
+- d. presso gli organi e le persone per conto delle quali è svolta l’operazione di trattamento da verbalizzare o dai sistemi d’informazione gestiti da questi ultimi.
+
+<sup>3</sup> Se non è possibile accertare e verbalizzare l’identità di una persona secondo il capoverso 1 lettere c o d, adottando provvedimenti tecnici e organizzativi occorre garantire che questa persona non possa trattare i dati.
+
+<sup>4</sup> I verbali possono essere resi accessibili esclusivamente agli organi incaricati e alle persone incaricate di verificare l’applicazione delle prescrizioni in materia di protezione dei dati o di salvaguardare o ripristinare la confidenzialità, l’integrità, la disponibilità e la tracciabilità dei dati. Possono essere utilizzati soltanto a tale fine.
+
+<sup>5</sup> Sono conservati separatamente dal relativo sistema d’informazione.
+
+<sup>6</sup> Sono conservati per un anno.
+
+[^2c-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° set. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2d
 
@@ -141,10 +180,10 @@ Più sistemi d’informazione possono essere tecnicamente raggruppati e gestiti 
 
 <sup>1</sup>
 
-Nei sistemi d’informazione e nelle collezioni ausiliarie di dati gestiti secondo la LSIM o la presente ordinanza, l’unità amministrativa di volta in volta competente può trattare i seguenti dati degli utenti del sistema d’informazione o della collezione ausiliaria di dati per controllare, concedere o rifiutare l’accesso al sistema d’informazione o alla collezione ausiliaria di dati:
+Nei sistemi d’informazione e nelle banche dati ausiliarie gestiti secondo la LSIM o secondo la presente ordinanza, l’unità amministrativa di volta in volta competente può trattare i seguenti dati degli utenti del sistema d’informazione o della banca dati ausiliaria per controllare, concedere e rifiutare l’accesso al sistema d’informazione o alla banca dati ausiliaria:[^2d-2]
 
 - a. le loro identità tecniche, dati e autorizzazioni d’accesso;
-- b. i loro template biometrici e i dati biometrici rilevati in occasione dell’identificazione biometrica, se nel sistema d’informazione o nella collezione ausiliaria di dati sono trattati dati degni di particolare protezione o informazioni classificate SEGRETO o CONFIDENZIALE.
+- b.[^2d-3] i loro template biometrici e i dati biometrici rilevati in occasione dell’identificazione biometrica, se nel sistema d’informazione o nella banca dati ausiliaria sono trattati dati degni di particolare protezione o informazioni classificate SEGRETO o CONFIDENZIALE.
 
 <sup>2</sup>
 
@@ -154,6 +193,8 @@ Questi dati di un utente devono essere distrutti come segue se la LSIM o la pres
 - b. tutti gli altri dati: al più tardi un anno dopo il decadere dell’autorizzazione d’accesso dell’utente.
 
 [^2d-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2d-2]: Nuovo testo giusta il n. II dell’O del 3 mar. 2023, in vigore dal 1° set. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2d-3]: Nuovo testo giusta il n. II dell’O del 3 mar. 2023, in vigore dal 1° set. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Capitolo 2: Sistemi d’informazione per la gestione del personale
 
@@ -1325,23 +1366,26 @@ I dati contenuti nel sistema d’informazione Master Data Management (MDM) sono 
 
 [^72gsepties-1]: Introdotti dal n. I dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Abrogati dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Sezione 5: Collezioni ausiliarie di dati
+### Sezione 5: Banche dati ausiliarie
 
-[^chap6-sec5-1]
+[^chap6-sec5-1][^chap6-sec5-2]
 
-[^chap6-sec5-1]: Introdotta dal n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^chap6-sec5-1]: Introdotta dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^chap6-sec5-2]: Nuovo testo giusta l’all. 2 n. II 63 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h
 
-**Scopo e organo responsabile**
+**Scopo e organo responsabile**[^72h-1]
 
-Per la gestione di indirizzi, corsi di formazione e risorse le unità amministrative dell’Aggruppamento Difesa e i comandi militari possono trattare, in collezioni ausiliarie di dati necessarie al riguardo, dati che non sono degni di particolare protezione, sempre che il trattamento avvenga per scopi interni. Queste collezioni ausiliarie di dati servono all’organizzazione dei processi lavorativi nonché alla pianificazione e alla gestione di scuole, corsi e manifestazioni e non necessitano di basi specifiche.
+Per la gestione di indirizzi, corsi di formazione e risorse le unità amministrative dell’Aggruppamento Difesa e i comandi militari possono trattare, nelle banche dati ausiliarie necessarie al riguardo, dati personali che non sono degni di particolare protezione, sempre che il trattamento avvenga per scopi interni. Queste banche dati servono all’organizzazione dei processi lavorativi nonché alla pianificazione e alla gestione di scuole, corsi e manifestazioni e non necessitano di basi specifiche.
+
+[^72h-1]: Nuovo testo giusta l’all. 2 n. II 63 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h<sup>bis</sup>
 
 **Dati**
 
-Nelle collezioni ausiliarie di dati possono essere trattati esclusivamente i dati necessari all’adempimento del rispettivo compito secondo l’allegato 35*d*.
+Nelle banche dati ausiliarie possono essere trattati esclusivamente i dati necessari all’adempimento del rispettivo compito secondo l’allegato 35*d*.
 
 #### Art. 72h<sup>ter</sup>
 
@@ -1355,15 +1399,19 @@ Le unità amministrative dell’Aggruppamento Difesa e i comandi militari raccol
 
 #### Art. 72h<sup>quater</sup>
 
-**Comunicazione dei dati**
+**Comunicazione dei dati**[^72hquater-1]
 
-I dati delle collezioni ausiliarie di dati possono essere resi accessibili, mediante procedura di richiamo, alle persone competenti dell’Aggruppamento Difesa e ai comandi militari autorizzati.
+I dati delle banche dati ausiliarie possono essere resi accessibili, mediante procedura di richiamo, alle persone competenti dell’Aggruppamento Difesa e ai comandi militari autorizzati.
+
+[^72hquater-1]: Nuovo testo giusta l’all. 2 n. II 63 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h<sup>quinquies</sup>
 
-**Conservazione dei dati**
+**Conservazione dei dati**[^72hquinquies-1]
 
-I dati in collezioni ausiliarie di dati possono essere conservati per due anni al massimo a decorrere dalla conclusione della scuola, del corso o della manifestazione o dalla risoluzione del rapporto con il fornitore e del rapporto di lavoro.
+I dati in banche dati ausiliarie possono essere conservati per due anni al massimo a decorrere dalla conclusione della scuola, del corso o della manifestazione o dalla risoluzione del rapporto con il fornitore e del rapporto di lavoro.
+
+[^72hquinquies-1]: Nuovo testo giusta l’all. 2 n. II 63 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Sezione 6: ...
 
@@ -1587,6 +1635,14 @@ La modifica del diritto vigente è disciplinata nell’allegato 36.
 
 [^77a-1]: Introdotto dall’all. n. 1 dell’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)). Abrogato dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
+#### Art. 77b
+
+**Disposizione transitoria della modifica del 3 marzo 2023**[^77b-1]
+
+Fino al 31 agosto 2026 la verbalizzazione secondo l’articolo 2*c* deve essere effettuata solo se tecnicamente possibile. In seguito, per sistemi d’informazione esistenti deve essere svolta solo quando termina il loro ciclo di vita.
+
+[^77b-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° set. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
 #### Art. 78
 
 **Entrata in vigore**
@@ -1599,12 +1655,12 @@ Allegato 1[^t-2]
 
 (art. 2*a*)
 
-## Organi responsabili della protezione dei dati per i sistemi d’informazione dell’Aggruppamento Difesa
+## Organo titolare della protezione dei dati presso i sistemi d’informazione dell’Aggruppamento Difesa
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. III cpv. 2 dell’O 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. III cpv. 2 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 <table>
-<tr><th colspan="2">Sistema d’informazione</th><th></th><th>Disposizioni LSIM/OSIM</th><th>Organo responsabile della protezione dei dati</th></tr>
+<tr><th colspan="2">Sistema d’informazione</th><th></th><th>Disposizioni LSIM/OSIM</th><th>Organo titolare della protezione dei dati</th></tr>
 <tr><td>PISA</td><td colspan="2">Sistema di gestione del personale dell’esercito e della protezione civile</td><td>Art. 12–17 LSIM, art. 3–5 OSIM, allegato 1*a* OSIM</td><td>Comando Istruzione (Cdo Istr)</td></tr>
 <tr><td>GDS</td><td colspan="2">Sistema d’informazione Gestione dei servizi</td><td>Art. 17*a*–17*f* LSIM, art. 5*a* OSIM, allegato 1*b* OSIM</td><td>Stato maggiore dell’esercito (SM Es)</td></tr>
 <tr><td>MEDISA</td><td colspan="2">Sistema d’informazione medica dell’esercito</td><td>Art. 24–29 LSIM, art. 6–7 OSIM, allegato 2 OSIM</td><td>Base logistica dell’esercito (BLEs)</td></tr>

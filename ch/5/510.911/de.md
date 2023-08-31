@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2009 über militärische und andere Informati
 short: MIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230401/de"
 
 (MIV)[^t-1]
 
-vom 16. Dezember 2009 (Stand am 1. April 2023)
+vom 16. Dezember 2009 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -72,9 +72,9 @@ Die Bestimmungen des MIG gelten sinngemäss auch für:
 
 ### (Art. 186 Abs. 1 Bst. a MIG)
 
-Bei den Informationssystemen, die gemäss den Bestimmungen des MIG oder dieser Verordnung von der Gruppe Verteidigung betrieben werden, ist die im Anhang 1 jeweils aufgeführte Verwaltungseinheit das für den Datenschutz verantwortliche Bundesorgan.
+Bei den Informationssystemen, die gemäss den Bestimmungen des MIG oder dieser Verordnung von der Gruppe Verteidigung betrieben werden, ist die in Anhang 1 jeweils aufgeführte Verwaltungseinheit das für den Datenschutz verantwortliche Bundesorgan.
 
-[^2a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Fassung gemäss Anhang 2 Ziff. II 63 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2a<sup>bis</sup>
 
@@ -129,9 +129,48 @@ Mehrere Informationssysteme können technisch zusammengeführt und über dieselb
 
 #### Art. 2c
 
-[^2c-1]
+**Protokollierung**[^2c-1]
 
-[^2c-1]: Tritt am 1. Sept. 2023 in Kraft ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+### (Art. 186 Abs. 1 Bst. e MIG)
+
+<sup>1</sup>
+
+Die für den Datenschutz verantwortliche Verwaltungseinheit des Bundes und die von ihr eingesetzten Auftragsbearbeiterinnen und Auftragsbearbeiter protokollieren bei der automatisierten Bearbeitung von Daten in einem Informationssystem nach dem MIG oder dieser Verordnung:
+
+- a.
+
+  die folgenden Arten der Bearbeitung:
+
+  - 1\. das Speichern,
+  - 2\. das Verändern,
+  - 3\. das Lesen, sofern die Daten nicht allgemein öffentlich zugänglich sind,
+  - 4\. das Bekanntgeben, sofern die Daten nicht allgemein öffentlich zugänglich sind,
+  - 5\. das Löschen,
+  - 6\. das Vernichten;
+
+- b. die von der Bearbeitung betroffenen Daten, jedoch nicht deren Inhalt;
+- c. die Identität der bearbeitenden Person;
+- d. die Identität der Empfängerin oder des Empfängers bekanntgegebener Daten;
+- e. den Zeitpunkt der Bearbeitung.
+
+<sup>2</sup>
+
+Die für die Protokollierung der Identitäten nach Absatz 1 Buchstaben c und d erforderlichen Daten werden beschafft:
+
+- a. bei der betreffenden Person oder bei den von ihr bezeichneten Referenzpersonen;
+- b. bei den vorgesetzten Stellen und Personen der betreffenden Person;
+- c. aus den im MIG oder in dieser Verordnung geregelten Informationssystemen oder aus weiteren Informationssystemen, die vom VBS oder von den ihm untergeordneten Verwaltungseinheiten betrieben werden;
+- d. bei den Stellen und Personen, für welche die zu protokollierende Bearbeitung erfolgt, oder aus den von diesen betriebenen Informationssystemen.
+
+<sup>3</sup> Lässt sich die Identität einer Person nach Absatz 1 Buchstabe c oder d nicht feststellen und protokollieren, so ist mit technischen und organisatorischen Massnahmen sicherzustellen, dass diese Person die Daten nicht bearbeiten kann.
+
+<sup>4</sup> Die Protokolle dürfen ausschliesslich den Organen und Personen zugänglich gemacht werden, denen die Überprüfung der Anwendung der Datenschutzvorschriften oder die Wahrung oder Wiederherstellung der Vertraulichkeit, Integrität, Verfügbarkeit und Nachvollziehbarkeit der Daten obliegen. Sie dürfen nur zu diesem Zweck verwendet werden.
+
+<sup>5</sup> Sie werden getrennt vom jeweiligen Informationssystem aufbewahrt.
+
+<sup>6</sup> Sie werden während einem Jahr aufbewahrt.
+
+[^2c-1]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2d
 
@@ -141,10 +180,10 @@ Mehrere Informationssysteme können technisch zusammengeführt und über dieselb
 
 <sup>1</sup>
 
-In den nach dem MIG oder dieser Verordnung betriebenen Informationssystemen und Hilfsdatensammlungen kann die jeweils zuständige Verwaltungseinheit zwecks Kontrolle, Gewährung oder Verweigerung des Zugangs zum Informationssystem oder zur Hilfsdatensammlung die folgenden Daten der Benutzerinnen und Benutzer des Informationssystems oder der Hilfsdatensammlung bearbeiten:
+In den nach dem MIG oder dieser Verordnung betriebenen Informationssystemen und Hilfsdatenbanken kann die jeweils zuständige Verwaltungseinheit zwecks Kontrolle, Gewährung oder Verweigerung des Zugangs zum Informationssystem oder zur Hilfsdatenbank die folgenden Daten der Benutzerinnen und Benutzer des Informationssystems oder der Hilfsdatenbank bearbeiten:[^2d-2]
 
 - a. ihre technischen Identitäten, Zugangsdaten und -berechtigungen;
-- b. ihre biometrischen Templates und bei der biometrischen Erkennung erfassten biometrischen Daten, sofern im Informationssystem oder in der Hilfsdatensammlung besonders schützenswerte Daten oder als GEHEIM oder VERTRAULICH klassifizierte Informationen bearbeitet werden.
+- b.[^2d-3] ihre biometrischen Templates und bei der biometrischen Erkennung erfassten biometrischen Daten, sofern im Informationssystem oder in der Hilfsdatenbank besonders schützenswerte Daten oder als GEHEIM oder VERTRAULICH klassifizierte Informationen bearbeitet werden.
 
 <sup>2</sup>
 
@@ -154,6 +193,8 @@ Diese Daten einer Benutzerin oder eines Benutzers sind wie folgt zu vernichten, 
 - b. alle übrigen Daten: spätestens ein Jahr nach Wegfall der Zugangsberechtigung der Benutzerin oder des Benutzers.
 
 [^2d-1]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2d-2]: Fassung gemäss Ziff. II der V vom 3. März 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2d-3]: Fassung gemäss Ziff. II der V vom 3. März 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## 2. Kapitel: Personalinformationssysteme
 
@@ -1347,23 +1388,28 @@ Die im Informationssystem Master Data Management (MDM) enthaltenen Daten sind in
 
 [^72g-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### 5. Abschnitt: Hilfsdatensammlungen
+### 5. Abschnitt: Hilfsdatenbanken
 
-[^chap6-sec5-1]
+[^chap6-sec5-1][^chap6-sec5-2]
 
 [^chap6-sec5-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013, in Kraft seit 1. Aug. 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^chap6-sec5-2]: Fassung gemäss Anhang 2 Ziff. II 63 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h
 
-**Zweck und verantwortliches Organ**
+**Zweck und verantwortliches Organ**[^72h-1]
 
-Die Verwaltungseinheiten der Gruppe Verteidigung und die militärischen Kommandos dürfen zur Bewirtschaftung von Adressen, Lehrgängen und Ressourcen in dafür notwendigen Hilfsdatensammlungen nicht besonders schützenswerte Daten bearbeiten, sofern die Bearbeitung internen Zwecken dient. Diese Hilfsdatensammlungen dienen der Organisation der Arbeitsabläufe sowie der Planung und Führung von Schulen, Kursen und Anlässen und bedürfen keiner eigenständigen Grundlage.
+Die Verwaltungseinheiten der Gruppe Verteidigung und die militärischen Kommandos dürfen zur Bewirtschaftung von Adressen, Lehrgängen und Ressourcen in dafür notwendigen Hilfsdatenbanken nicht besonders schützenswerte Personendaten bearbeiten, sofern die Bearbeitung internen Zwecken dient. Diese Hilfsdatenbanken dienen der Organisation der Arbeitsabläufe sowie der Planung und Führung von Schulen, Kursen und Anlässen und bedürfen keiner eigenständigen Grundlage.
+
+[^72h-1]: Fassung gemäss Anhang 2 Ziff. II 63 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h<sup>bis</sup>
 
-**Daten**
+**Daten**[^72hbis-1]
 
-In den Hilfsdatensammlungen dürfen ausschliesslich die für die jeweilige Aufgabenerfüllung notwendigen Daten nach Anhang 35*d* bearbeitet werden.
+In den Hilfsdatenbanken dürfen ausschliesslich die für die jeweilige Aufgabenerfüllung notwendigen Daten nach Anhang 35*d* bearbeitet werden.
+
+[^72hbis-1]: Fassung gemäss Anhang 2 Ziff. II 63 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h<sup>ter</sup>
 
@@ -1379,15 +1425,19 @@ Die Verwaltungseinheiten der Gruppe Verteidigung[^72hter-1] und die militärisch
 
 #### Art. 72h<sup>quater</sup>
 
-**Datenbekanntgabe**
+**Datenbekanntgabe**[^72hquater-1]
 
-Die Daten von Hilfsdatensammlungen können den zuständigen Personen der Gruppe Verteidigung und den berechtigten militärischen Kommandos durch Abrufverfahren zugänglich gemacht werden.
+Die Daten von Hilfsdatenbanken können den zuständigen Personen der Gruppe Verteidigung und den berechtigten militärischen Kommandos durch Abrufverfahren zugänglich gemacht werden.
+
+[^72hquater-1]: Fassung gemäss Anhang 2 Ziff. II 63 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h<sup>quinquies</sup>
 
-**Datenaufbewahrung**
+**Datenaufbewahrung**[^72hquinquies-1]
 
-Die Daten in Hilfsdatensammlungen dürfen nach Abschluss der Schule, des Kurses oder des Anlasses und nach Auflösung des Lieferanten- und Arbeitsverhältnisses längstens während zwei Jahren aufbewahrt werden.
+Die Daten in Hilfsdatenbanken dürfen nach Abschluss der Schule, des Kurses oder des Anlasses und nach Auflösung des Lieferanten- und Arbeitsverhältnisses längstens während zwei Jahren aufbewahrt werden.
+
+[^72hquinquies-1]: Fassung gemäss Anhang 2 Ziff. II 63 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 6. Abschnitt: ...
 
@@ -1621,6 +1671,14 @@ Die Änderung bisherigen Rechts wird im Anhang 36 geregelt.
 [^77a-1]
 
 [^77a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Dez. 2014 ([AS 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 77b
+
+**Übergangsbestimmung zur Änderung vom 3. März 2023**[^77b-1]
+
+Bis zum 31. August 2026 muss die Protokollierung nach Artikel 2*c* nur erfolgen, wenn dies technisch möglich ist. Danach muss sie bei bestehenden Informationssystemen erst erfolgen, wenn deren Lebenszyklus endet.
+
+[^77b-1]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 78
 
@@ -4165,9 +4223,9 @@ Anhang 35d[^t-57]
 
 (Art. 72*h*<sup>bis</sup>)
 
-## Daten der Hilfsdatensammlungen
+## Daten der Hilfsdatenbanken
 
-[^t-57]: Eingefügt durch Ziff. II Abs. 3 der V vom 26. Juni 2013, in Kraft seit 1. Aug. 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-57]: Eingefügt durch Ziff. II Abs. 3 der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Bereinigt gemäss Anhang 2 Ziff. II 63 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 - 1\. Name
 - 2\. Vorname
