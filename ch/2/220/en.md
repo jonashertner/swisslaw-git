@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2023-02-09
+version: 2023-09-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-en-xml-29.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 9 February 2023)
+of 30 March 1911 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -4399,10 +4399,11 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 [^328b-1]
 
-The employer may handle data concerning the employee only to the extent that such data concern the employee’s suitability for his job or are necessary for the performance of the employment contract. In all other respects, the provisions of the Federal Act of 19 June 1992[^328b-2] on Data Protection apply.
+The employer may handle data concerning the employee only to the extent that such data concern the employee’s suitability for his job or are necessary for the performance of the employment contract. In all other respects, the provisions of the Data Protection Act of 25 September 2020[^328b-2] apply.[^328b-3]
 
 [^328b-1]: Inserted by Annex No 2 to the FA of 19 June 1992 on Data Protection, in force since 1 July 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^328b-3]: Second sentence amended by Annex 1 No II 18 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### VIII. Days off work, holidays, and leave
 
@@ -6480,9 +6481,10 @@ The contract must be done in writing and contain the following information:
 
 <sup>1</sup> Before the contract is signed and throughout its duration, the mandatee must inform the mandator of any particular difficulties pertaining to the latter’s personal circumstances that might arise in the performance of the obligations thereunder.
 
-<sup>2</sup> When processing the mandator’s personal data, the mandatee is bound by a duty of discretion; the provisions of the Federal Act of 19 June 1992[^406g-1] on Data Protection apply.
+<sup>2</sup> When processing the mandator’s personal data, the mandatee is bound by a duty of discretion; the provisions of the Data Protection Act of 25 September 2020[^406g-1] apply.[^406g-2]
 
 [^406g-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^406g-2]: Amended by Annex 1 No II 18 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### G. Reduction
 
@@ -8518,19 +8520,19 @@ On completion of the liquidation, the liquidators apply to have the partnership�
 
 ### B. Special cases
 
+### C. Interruption
+
 #### Art. 592
 
 <sup>1</sup> The five-year prescriptive period may not be invoked against a creditor seeking satisfaction solely from undivided partnership assets.
 
 <sup>2</sup> Where a partner takes over the partnership’s business with all its assets and liabilities, he may not invoke the five-year prescriptive period against its creditors. By contrast, for partners who have left the partnership, the five-year prescriptive period is replaced by the three-year prescriptive period in accordance with the principles governing assumption of debt; the same applies in the event that a third party takes over the partnership’s business with all its assets and liabilities.[^592-1]
 
-[^592-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-
-### C. Interruption
-
-#### Art. 593
+**Art. 593**
 
 An interruption of the prescriptive period as against an ongoing partnership or another partner does not interrupt the prescriptive period as against a departing partner.
+
+[^592-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Title Twenty-Five: The Limited Partnership
 
@@ -9211,7 +9213,7 @@ The resolution of the general meeting must be done as a public deed and contain 
 - 9\. any restrictions on or cancellation of the subscription right and the consequences if this right is not exercised or is withdrawn;
 - 10\. the conditions to be met when exercising contractual subscription rights.
 
-<sup>3</sup> An application to register the capital increase must be filed with the commercial register office within six months of the resolution of the general meeting, otherwise the resolution becomes invalid.
+<sup>3</sup> An application to register the capital increase must be filed with the commercial register office within six months of the resolution of the general meeting, otherwise the resolution becomes invalid
 
 [^650-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -9306,6 +9308,7 @@ Unless the law provides otherwise, capital contributions must be made in accorda
 The equity capital used to meet the amount of the increase is shown:
 
 - 1\. in the annual accounts as approved by the general meeting and audited by a licensed auditor; or
+
 - 2\. in an interim account audited by a licensed auditor, provided the balance sheet date at the time of the resolution of the general meeting is more than six months in the past.[^652d-2]
 
 <sup>3</sup> The articles of association must indicate that the capital increase was made by converting freely disposable equity capital.[^652d-3]
@@ -9430,7 +9433,7 @@ The articles of association must stipulate:
 - 4\.[^653b-3] any restriction or cancellation of the subscription right of existing shareholders, provided they are not allocated the option rights;
 - 5\. preferential rights attached to specific classes of shares;
 - 6\. the restrictions on the transferability of newly registered shares;
-- 7\.[^653b-4] the procedure for exercising the conversion or option rights and for waiving these rights
+- 7\.[^653b-4] the procedure for exercising the conversion or option rights and for waiving these rights.
 
 <sup>2</sup>
 
@@ -10187,6 +10190,7 @@ Losses must be offset in the following order against:
 
 - 1\. the profit carried forward;
 - 2\. the voluntary retained earnings;
+
 - 3\. the statutory retained earnings;
 - 4\. the statutory capital reserve.
 
@@ -10913,7 +10917,7 @@ Where the general meeting rejects the motion, shareholders may within three mont
 
 <sup>4</sup> The shareholder must give notice to the company within three months of any change to the first name or surname or to the address of the beneficial owner.
 
-<sup>5</sup> The obligation to give notice does not apply if the bearer shares are organised as intermediated securities and deposited with a custodian in Switzerland or entered in the main register. The company shall designate the custodian.
+<sup>5</sup> The obligation to give notice does not apply if the shares are organised as intermediated securities and deposited with a custodian in Switzerland or entered in the main register. The company shall designate the custodian.
 
 [^697j-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
@@ -12531,7 +12535,7 @@ Founder members, members of the board of directors and all persons involved in e
 
 [^755-1]
 
-<sup>1</sup> All persons engaged in auditing the annual and consolidated accounts, the company’s foundation, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
+All persons engaged in auditing the annual and consolidated accounts, the company’s foundation, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
 
 <sup>2</sup> If the audit is conducted by a public audit office or by one of its employees, the relevant public authority is liable. Legal action against persons involved in the audit is governed by public law.[^755-2]
 

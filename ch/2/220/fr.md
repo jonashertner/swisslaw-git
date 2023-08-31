@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2023-02-09
+version: 2023-09-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-fr-xml-30.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-fr-xml-39.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 9 février 2023)
+du 30 mars 1911 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -929,14 +929,13 @@ Si le contraire ne résulte de l’affaire, le choix appartient au débiteur lor
 
 #### Art. 77
 
-<sup>1</sup>
+<sup>1</sup> L’expression «demi-mois» équivaut à un délai de quinze jours; si le délai est d’un ou plusieurs mois et d’un demi-mois, les quinze jours sont comptés en dernier lieu.
 
 Lorsqu’une obligation doit être exécutée ou quelque autre acte juridique accompli à l’expiration d’un certain délai depuis la conclusion du contrat, l’échéance est réglée comme suit:
 
 - 1\. si le délai est fixé par jours, la dette est échue le dernier jour du délai, celui de la conclusion du contrat n’étant pas compté; s’il est de huit ou de quinze jours, il signifie non pas une ou deux semaines, mais huit ou quinze jours pleins;
 - 2\. si le délai est fixé par semaines, la dette est échue le jour qui, dans la dernière semaine, correspond par son nom au jour de la conclusion du contrat;
 - 3\. si le délai est fixé par mois ou par un laps de temps comprenant plusieurs mois (année, semestre, trimestre), la dette est échue le jour qui, dans le dernier mois, correspond par son quantième au jour de la conclusion du contrat; s’il n’y a pas, dans le dernier mois, de jour correspondant l’obligation s’exécute le dernier jour dudit mois.
-- L’expression «demi-mois» équivaut à un délai de quinze jours; si le délai est d’un ou plusieurs mois et d’un demi-mois, les quinze jours sont comptés en dernier lieu.
 
 <sup>2</sup> Ces règles sont également applicables si le délai court à partir d’une époque autre que celle de la conclusion du contrat.
 
@@ -4407,18 +4406,19 @@ Le travailleur exécute en personne le travail dont il s’est chargé, à moins
 
 [^328b-1]
 
-L’employeur ne peut traiter des données concernant le travailleur que dans la mesure où ces données portent sur les aptitudes du travailleur à remplir son emploi ou sont nécessaires à l’exécution du contrat de travail. En outre, les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^328b-2] sont applicables.
+L’employeur ne peut traiter des données concernant le travailleur que dans la mesure où ces données portent sur les aptitudes du travailleur à remplir son emploi ou sont nécessaires à l’exécution du contrat de travail. En outre, les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^328b-2] sont applicables.[^328b-3]
 
 [^328b-1]: Introduit par l’annexe ch. 2 de la LF du 19 juin 1992 sur la protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^328b-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 18 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### VIII. Congés et vacances
 
 ### 1. Congés hebdomadaire et usuels
 
-[^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]
 
-[^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]: Nouvelle teneur selon le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]: Nouvelle teneur selon le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 329
 
@@ -6486,9 +6486,10 @@ Le contrat n’est valable que s’il est établi en la forme écrite et contien
 
 <sup>1</sup> Avant la signature du contrat et pendant son exécution, le mandataire informe le mandant des difficultés particulières pouvant survenir dans l’accomplissement du mandat au regard de sa personne.
 
-<sup>2</sup> Lors du traitement de données personnelles concernant le mandant, le mandataire est tenu à un devoir de discrétion; les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^406g-1] sont réservées.
+<sup>2</sup> Lors du traitement de données personnelles concernant le mandant, le mandataire est tenu à un devoir de discrétion; les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^406g-1] sont réservées.[^406g-2]
 
 [^406g-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^406g-2]: Nouvelle teneur selon l’annexe 1 ch. II 18 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### G. Rémunération et frais excessifs
 
@@ -9539,8 +9540,6 @@ Ce droit de souscription prioritaire peut être limité ou supprimé:
 
 [^653g-1]: Introduit par le ch. I de la LF du 4 oct. 1991 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### d. …
-
 #### Art. 653h
 
 [^653h-1]
@@ -10235,9 +10234,9 @@ Les pertes doivent être compensées avec, dans l’ordre suivant:
 
 ### III. Intérêts intercalaires
 
-[^part3-tit26-chap2-lvlE-lvlIII-1]
+[^part3-tit26-chap2-lvlD-lvlIII-1]
 
-[^part3-tit26-chap2-lvlE-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlD-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 676
 
@@ -10247,9 +10246,9 @@ Les pertes doivent être compensées avec, dans l’ordre suivant:
 
 ### IV. Tantièmes
 
-[^part3-tit26-chap2-lvlE-lvlIV-1]
+[^part3-tit26-chap2-lvlD-lvlIV-1]
 
-[^part3-tit26-chap2-lvlE-lvlIV-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlD-lvlIV-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 677
 
@@ -10295,9 +10294,9 @@ Des parts de bénéfice ne peuvent être attribuées aux membres du conseil d’
 
 ### III. Tantièmes en cas de faillite
 
-[^part3-tit26-chap2-lvlF-lvlIII-1]
+[^part3-tit26-chap2-lvlE-lvlIII-1]
 
-[^part3-tit26-chap2-lvlF-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlE-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 679
 
@@ -10527,9 +10526,9 @@ La société peut, après avoir entendu la personne concernée, biffer les inscr
 
 ### 5. Actions nominatives non entièrement libérées
 
-[^part3-tit26-chap2-lvlJ-lvlII-lvl5-1]
+[^part3-tit26-chap2-lvlH-lvlII-lvl5-1]
 
-[^part3-tit26-chap2-lvlJ-lvlII-lvl5-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlH-lvlII-lvl5-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 687
 
@@ -10678,9 +10677,9 @@ Le conseil d’administration s’assure que les actionnaires ont notamment la p
 
 ### 4. S’il y a plusieurs ayants droit
 
-[^part3-tit26-chap2-lvlK-lvlI-lvl4-1]
+[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]
 
-[^part3-tit26-chap2-lvlK-lvlI-lvl4-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 690
 
@@ -10950,9 +10949,9 @@ Si l’assemblée générale ne donne pas suite à la proposition, des actionnai
 
 ### III. Non-respect des obligations d’annoncer
 
-[^part3-tit26-chap2-lvlL-lvlIII-1]
+[^part3-tit26-chap2-lvlK-lvlIII-1]
 
-[^part3-tit26-chap2-lvlL-lvlIII-1]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^part3-tit26-chap2-lvlK-lvlIII-1]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
@@ -16805,15 +16804,7 @@ La lettre de change peut être, jusqu’à l’échéance, présentée à l’ac
 
 #### Art. 1023
 
-<sup>1</sup> Une lettre de change peut être tirée:
-
-à vue;
-
-à un certain délai de vue;
-
-à un certain délai de date;
-
-à jour fixe.
+<sup>1</sup> Une lettre de change peut être tirée: à vue; à un certain délai de vue; à un certain délai de date; à jour fixe.
 
 <sup>2</sup> Les lettres de change, soit à d’autres échéances, soit à échéances successives, sont nulles.
 
@@ -16917,13 +16908,7 @@ La lettre de change peut être, jusqu’à l’échéance, présentée à l’ac
 
 [^1033-1]
 
-Le porteur peut exercer ses recours contre les endosseurs, le tireur et les autres obligés:
-
-à l’échéance:
-
-si le paiement n’a pas eu lieu;
-
-même avant l’échéance:
+Le porteur peut exercer ses recours contre les endosseurs, le tireur et les autres obligés: à l’échéance: si le paiement n’a pas eu lieu; même avant l’échéance:
 
 - 1\. s’il y a eu refus, total ou partiel, d’acceptation;
 - 2\. dans les cas de faillite du tiré, accepteur ou non, de cessation de ses paiements, même non constatée par un jugement, ou de saisie de ses biens demeurée infructueuse;
@@ -19183,6 +19168,8 @@ Si des sociétés anonymes, sociétés en commandite par actions et sociétés c
 
 <sup>2</sup> Lorsqu’une telle décision a été appliquée pour l’établissement d’un bilan, il en est fait mention dans ce dernier.
 
+### II. …
+
 #### Art. 6
 
 [^u16-6-1]
@@ -19389,7 +19376,7 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
 [^u18-1]: Introduites par le ch. II de la LF du 1<sup>er</sup> avr. 1949, en vigueur depuis le 1<sup>er</sup> janv. 1950 (RO **1949** I 820; [FF 1947 III 905](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
 
-- [tab] 1. et 2.[^u18-2]
+- 1\. et 2. …[^u18-2]
 - 3\. Les décisions de la communauté votées sous le régime de l’ancien droit demeurent valables sous celui du nouveau droit.
 - Les décisions votées après l’entrée en vigueur de la présente loi sont soumises aux prescriptions du nouveau droit.
 - Toutefois, lorsqu’un débiteur aura déjà bénéficié, en vertu de décisions de la communauté prises sous le régime de l’ancien droit, de facilités égales ou correspondantes à celles que prévoit l’art. 1170, il en sera tenu équitablement compte lors de l’application de cette disposition.

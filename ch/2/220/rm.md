@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2023-02-09
+version: 2023-09-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-rm-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-rm-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dals 9 da favrer 2023)
+dals 30 da mars 1911 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -4397,10 +4397,11 @@ Il lavurant sto prestar persunalmain la lavur ch’el ha surpiglià tras il cont
 
 [^328b-1]
 
-Il patrun dastga mo elavurar datas davart il lavurant, sche questas datas concernan sia qualificaziun per la relaziun da lavur u èn necessarias per realisar il contract da lavur. Dal rest valan las disposiziuns da la Lescha federala dals 19 da zercladur 1992[^328b-2] davart la protecziun da datas.
+Il patrun dastga mo elavurar datas davart il lavurant, sche questas datas concernan sia qualificaziun per la relaziun da lavur u èn necessarias per realisar il contract da lavur. Dal rest valan las disposiziuns da la Lescha federala dals 25 da settember 2020[^328b-2] davart la protecziun da datas.[^328b-3]
 
 [^328b-1]: Integrà tras la cifra 2 da l’agiunta da la LF dals 19 da zer. 1992 davart la protecziun da datas, en vigur dapi il 1. da fan. 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^328b-3]: Versiun da la segunda frasa tenor la cifra II 18 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### VIII. Temp liber, vacanzas e congedi
 
@@ -6480,9 +6481,10 @@ Il contract è mo valaivel, sch’el vegn fixà en scrit e sch’el cuntegna las
 
 <sup>1</sup> Avant che suttascriver il contract e durant la durada dal contract infurmescha il mandatari il mandant davart difficultads spezialas che pon – en vista a las relaziuns persunalas dal mandant – resultar tras l’adempliment dal mandat.
 
-<sup>2</sup> Tar l’elavuraziun da las datas persunalas dal mandant è il mandatari suttamess a l’obligaziun da la secretezza; las disposiziuns da la Lescha federala dals 19 da zercladur 1992[^406g-1] davart la protecziun da datas restan resalvadas.
+<sup>2</sup> Tar l’elavuraziun da las datas persunalas dal mandant è il mandatari suttamess a l’obligaziun da la secretezza; las disposiziuns da la Lescha federala dals 25 da settember 2020[^406g-1] davart la protecziun da datas restan resalvadas.[^406g-2]
 
 [^406g-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^406g-2]: Versiun tenor la cifra II 18 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### G. Reducziun
 
@@ -10225,9 +10227,9 @@ Las perditas ston vegnir cumpensadas en la suandanta successiun cun:
 
 ### III. Tschains da construcziun
 
-[^part3-tit26-chap2-lvlD-lvlIII-1]
+[^part3-tit26-chap2-lvlC-lvlIII-1]
 
-[^part3-tit26-chap2-lvlD-lvlIII-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlC-lvlIII-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 676
 
@@ -10237,9 +10239,9 @@ Las perditas ston vegnir cumpensadas en la suandanta successiun cun:
 
 ### IV. Tantiemas
 
-[^part3-tit26-chap2-lvlD-lvlIV-1]
+[^part3-tit26-chap2-lvlC-lvlIV-1]
 
-[^part3-tit26-chap2-lvlD-lvlIV-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlC-lvlIV-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 677
 
@@ -10285,9 +10287,9 @@ Als commembers dal cussegl d’administraziun dastgan vegnir attribuidas quotas 
 
 ### III. Tantiemas en cas da concurs
 
-[^part3-tit26-chap2-lvlE-lvlIII-1]
+[^part3-tit26-chap2-lvlD-lvlIII-1]
 
-[^part3-tit26-chap2-lvlE-lvlIII-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlD-lvlIII-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 679
 
@@ -10517,9 +10519,9 @@ Suenter avair tadlà il pertutgà po la societad stritgar inscripziuns en il reg
 
 ### 5. Aczias al num betg pajadas entiramain
 
-[^part3-tit26-chap2-lvlH-lvlII-lvl5-1]
+[^part3-tit26-chap2-lvlG-lvlII-lvl5-1]
 
-[^part3-tit26-chap2-lvlH-lvlII-lvl5-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^part3-tit26-chap2-lvlG-lvlII-lvl5-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
 #### Art. 687
 
@@ -10668,9 +10670,9 @@ Il cussegl d’administraziun procura ch’ils acziunaris hajan en spezial la pu
 
 ### 4. Plirs proprietaris, giudida
 
-[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]
+[^part3-tit26-chap2-lvlH-lvlI-lvl4-1]
 
-[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^part3-tit26-chap2-lvlH-lvlI-lvl4-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
 #### Art. 690
 
@@ -10941,9 +10943,9 @@ Sche la radunanza generala refusa la proposta, pon ils acziunaris pretender enta
 
 ### III. Inobservanza da las obligaziuns d’annunzia
 
-[^part3-tit26-chap2-lvlK-lvlIII-1]
+[^part3-tit26-chap2-lvlJ-lvlIII-1]
 
-[^part3-tit26-chap2-lvlK-lvlIII-1]: Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da matg 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^part3-tit26-chap2-lvlJ-lvlIII-1]: Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da matg 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
@@ -15936,7 +15938,7 @@ L’organ directiv u administrativ suprem procura ch’il rapport:
 
 #### Art. 964d
 
-<sup>1</sup> Interpresas ch’èn obligadas tras lescha da far ina revisiun ordinaria e ch’èn – sezzas u tras ina interpresa controllada dad ellas – activas en il sectur da l’explotaziun da minerals, da petroli u da gas natiral ubain dal tagl da laina en guauds primars, ston rediger mintga onn in rapport davart ils pajaments a posts statals.[^964d-1]
+<sup>1</sup> Interpresas ch’èn obligadas tras lescha da far ina revisiun ordinaria e ch’èn – sezzas u tras ina interpresa controllada dad ellas – activas en il sectur da l’explotaziun da minerals, da petroli u da gas natiral ubain dal tagl da laina en guauds primars, ston rediger mintga onn in rapport davart ils pajaments a posts statals.
 
 <sup>2</sup> Sche l’interpresa sto far in quint annual consolidà, sto ella rediger in rapport consolidà davart ils pajaments a posts statals (rapport davart ils pajaments dal concern); quel remplazza la rapportaziun da las singulas societads.
 
@@ -15945,8 +15947,6 @@ L’organ directiv u administrativ suprem procura ch’il rapport:
 <sup>4</sup> L’explotaziun cumpiglia tut las activitads da l’interpresa en ils secturs da l’exploraziun, da la prospecziun, da la scuverta, da l’explotaziun e da l’extracziun da minerals, da petroli e da gas natiral sco er dal tagl da laina en guauds primars.
 
 <sup>5</sup> Sco posts statals valan autoritads naziunalas, regiunalas u communalas d’in terz pajais sco er partiziuns u interpresas controlladas da questas autoritads.
-
-[^964d-1]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 21 da nov. 2022, publitgada ils 9 da favr. 2023, concerna mo il text franzos ([AS 2023 62](https://fedlex.data.admin.ch/eli/oc/2023/62)).
 
 ### B. Tips da prestaziuns
 

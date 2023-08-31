@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2023-02-09
+version: 2023-09-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-de-xml-30.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-de-xml-39.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 9. Februar 2023)
+vom 30. März 1911 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -807,7 +807,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 #### Art. 64
 
-Die Rückerstattung kann insoweit nicht gefordert werden, als der Empfänger nachweisbar zur Zeit der Rückforderung nicht mehr bereichert ist, es sei denn, dass er sich der Bereicherung entäusserte und hiebei nicht in gutem Glauben war oder doch mit der Rückerstattung rechnen musste.
+Die Rückerstattung kann insoweit nicht gefordert werden, als der Empfänger nachweisbar zur Zeit der Rückforderung nicht mehr bereichert ist, es sei denn, dass er sich der Bereicherung entäusserte und hierbei nicht in gutem Glauben war oder doch mit der Rückerstattung rechnen musste.
 
 ### II. Ansprüche aus Verwendungen
 
@@ -4395,10 +4395,11 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [^328b-1]
 
-Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie dessen Eignung für das Arbeitsverhältnis betreffen oder zur Durchführung des Arbeitsvertrages erforderlich sind. Im Übrigen gelten die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^328b-2] über den Datenschutz.
+Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie dessen Eignung für das Arbeitsverhältnis betreffen oder zur Durchführung des Arbeitsvertrages erforderlich sind. Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^328b-2].[^328b-3]
 
 [^328b-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 1992 über den Datenschutz, in Kraft seit 1. Juli 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^328b-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 18 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### VIII. Freizeit, Ferien und Urlaub
 
@@ -4456,7 +4457,7 @@ Die Ferien dürfen vom Arbeitgeber auch nicht gekürzt werden, wenn:
 [^329b-1]: Fassung gemäss Art. 117 des Arbeitslosenversicherungsgesetzes, in Kraft seit 1. Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Fassung gemäss Art. 13 des JFG vom 6. Okt. 1989, in Kraft seit 1. Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
 [^329b-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^329b-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^329b-5]: Fassung gemäss Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-6]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1983, in Kraft seit 1. Juli 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
@@ -5421,7 +5422,9 @@ Aus wichtigen Gründen im Sinne von Artikel 337 kann das Lehrverhältnis namentl
 
 #### Art. 347a
 
-<sup>1</sup> Das Arbeitsverhältnis ist durch schriftlichen Vertrag zu regeln, der namentlich Bestimmungen enthalten soll über
+<sup>1</sup>
+
+Das Arbeitsverhältnis ist durch schriftlichen Vertrag zu regeln, der namentlich Bestimmungen enthalten soll über:
 
 - a. die Dauer und Beendigung des Arbeitsverhältnisses,
 - b. die Vollmachten des Handelsreisenden,
@@ -6476,9 +6479,10 @@ Der Vertrag bedarf zu seiner Gültigkeit der schriftlichen Form und hat folgende
 
 <sup>1</sup> Der Beauftragte informiert den Auftraggeber vor der Vertragsunterzeichnung und während der Vertragsdauer über besondere Schwierigkeiten, die im Hinblick auf die persönlichen Verhältnisse des Auftraggebers bei der Auftragserfüllung auftreten können.
 
-<sup>2</sup> Bei der Bearbeitung der Personendaten des Auftraggebers ist der Beauftragte zur Geheimhaltung verpflichtet; die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^406g-1] über den Datenschutz bleiben vorbehalten.
+<sup>2</sup> Bei der Bearbeitung der Personendaten des Auftraggebers ist der Beauftragte zur Geheimhaltung verpflichtet; die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^406g-1] bleiben vorbehalten.[^406g-2]
 
 [^406g-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^406g-2]: Fassung gemäss Anhang 1 Ziff. II 18 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### G. Herabsetzung
 
@@ -8839,7 +8843,7 @@ Im Konkurse des Kommanditärs haben weder die Gesellschaftsgläubiger noch die G
 
 <sup>1</sup> Die Aktien dürfen nur zum Nennwert oder zu einem diesen übersteigenden Betrage ausgegeben werden. Vorbehalten bleibt die Ausgabe neuer Aktien, die an Stelle ausgefallener Aktien treten.
 
-<sup>2–3</sup> …[^624-1]
+<sup>2</sup> e <sup>3</sup> …[^624-1]
 
 [^624-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -10059,6 +10063,8 @@ Die Anteile am Gewinn und am Liquidationsergebnis sind, sofern die Statuten nich
 [^663a663b-1]
 
 [^663a663b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+
+### B. ...
 
 #### Art. 663b<sup>bis</sup>
 
@@ -14678,7 +14684,7 @@ Die Genossenschaft wird aufgelöst:
 
 <sup>3</sup> Die Verteilung erfolgt in diesem Falle, wenn die Statuten nicht etwas anderes bestimmen, unter die zur Zeit der Auflösung vorhandenen Genossenschafter oder ihre Rechtsnachfolger nach Köpfen. Der gesetzliche Abfindungsanspruch der ausgeschiedenen Genossenschafter oder ihrer Erben bleibt vorbehalten.
 
-<sup>4</sup> Enthalten die Statuten keine Vorschrift über die Verteilung unter die Genossenschafter, so muss der Liquidationsüberschuss zu genossenschaftlichen Zwecken oder zur Forderung gemeinnütziger Bestrebungen verwendet werden.
+<sup>4</sup> Enthalten die Statuten keine Vorschrift über die Verteilung unter die Genossenschafter, so muss der Liquidationsüberschuss zu genossenschaftlichen Zwecken oder zur Förderung gemeinnütziger Bestrebungen verwendet werden.
 
 <sup>5</sup> Der Entscheid hierüber steht, wenn die Statuten es nicht anders ordnen, der Generalversammlung zu.
 
@@ -15933,7 +15939,7 @@ Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
 
 #### Art. 964d
 
-<sup>1</sup> Unternehmen, die von Gesetzes wegen zu einer ordentlichen Revision verpflichtet und selber oder durch ein von ihnen kontrolliertes Unternehmen im Bereich der Gewinnung von Mineralien, Erdöl oder Erdgas oder des Einschlags von Holz in Primärwäldern tätig sind, müssen jährlich einen Bericht über die Zahlungen an staatliche Stellen verfassen.[^964d-1]
+<sup>1</sup> Unternehmen, die von Gesetzes wegen zu einer ordentlichen Revision verpflichtet und selber oder durch ein von ihnen kontrolliertes Unternehmen im Bereich der Gewinnung von Mineralien, Erdöl oder Erdgas oder des Einschlags von Holz in Primärwäldern tätig sind, müssen jährlich einen Bericht über die Zahlungen an staatliche Stellen verfassen.
 
 <sup>2</sup> Hat das Unternehmen eine konsolidierte Jahresrechnung zu erstellen, so muss es einen konsolidierten Bericht über Zahlungen an staatliche Stellen verfassen (Konzernzahlungsbericht); dieser ersetzt die Berichterstattung der einzelnen Gesellschaften.
 
@@ -15942,8 +15948,6 @@ Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
 <sup>4</sup> Die Gewinnung umfasst alle Unternehmenstätigkeiten auf den Gebieten der Exploration, Prospektion, Entdeckung, Erschliessung und Förderung von Mineralien, Erdöl- und Erdgasvorkommen und des Einschlags von Holz in Primärwäldern.
 
 <sup>5</sup> Als staatliche Stellen gelten nationale, regionale oder kommunale Behörden eines Drittlandes sowie von diesen Behörden kontrollierte Abteilungen oder Unternehmen.
-
-[^964d-1]: Die Berichtigung der RedK der BVers vom 21. Nov. 2022, veröffentlicht am 9. Febr. 2023 betrifft nur den französischen Text ([AS 2023 62](https://fedlex.data.admin.ch/eli/oc/2023/62)).
 
 ### B. Arten von Leistungen
 
@@ -16609,7 +16613,9 @@ Wenn ein Wechsel, der bei der Begebung unvollständig war, den getroffenen Verei
 
 <sup>1</sup> Das Indossament überträgt alle Rechte aus dem Wechsel.
 
-<sup>2</sup> Ist es ein Blankoindossament, so kann der Inhaber
+<sup>2</sup>
+
+Ist es ein Blankoindossament, so kann der Inhaber:
 
 - 1\. das Indossament mit seinem Namen oder mit dem Namen eines anderen ausfüllen;
 - 2\. den Wechsel durch ein Blankoindossament oder an eine bestimmte Person weiter indossieren;
@@ -18092,7 +18098,7 @@ Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^
 
 [^part5-tit33-chap7-lvlA-lvlI-1]
 
-[^part5-tit33-chap7-lvlA-lvlI-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^part5-tit33-chap7-lvlA-lvlI-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 1153
 
@@ -18495,7 +18501,7 @@ Der Bundesrat ist beauftragt, auf Grundlage der Bestimmungen des Bundesgesetzes 
 
 [^u2-1]
 
-[^u2-1]: Eingefügt durch Ziff. II des BG vom 23. März 1962, in Kraft seit 1. Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)).
+[^u2-1]: [AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)
 
 ### A. Konkursprivileg
 
@@ -18533,7 +18539,7 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
 [^u3-1]
 
-[^u3-1]: Eingefügt durch Ziff. III des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^u3-1]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
 ### A. Allgemeine Regel
 
@@ -19162,7 +19168,7 @@ Die vor dem Inkrafttreten dieses Gesetzes als Namenpapiere ausgestellten Sparkas
 
 #### Art. 10
 
-Aktien, die vor dem Inkrafttreten des Gesetzes ausgegeben worden sind, können
+Aktien, die vor dem Inkrafttreten des Gesetzes ausgegeben worden sind, können:
 
 - 1\. einen Nennwert unter 100 Franken beibehalten;
 - 2\. innerhalb dreier Jahre seit dem Inkrafttreten des Gesetzes bei einer Herabsetzung des Grundkapitals auf einen Nennwert unter 100 Franken gebracht werden.
@@ -19328,15 +19334,13 @@ Der Bundesrat bestimmt das Inkrafttreten.
 
 [^u18-1]: Eingefügt durch Ziff. II des BG vom 1. April 1949, in Kraft seit 1. Jan. 1950 (AS **1949** I 791; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
 
-- 1\.[^u18-2] …
-- 2\.[^u18-3] …
+- 1\. und 2.[^u18-2] …
 - 3\. Die unter dem bisherigen Recht gefassten Gemeinschaftsbeschlüsse behalten ihre Gültigkeit unter dem neuen Recht.
 - Für Beschlüsse, die nach Inkrafttreten dieses Gesetzes gefasst werden, sind die Vorschriften des neuen Rechts massgebend.
 - Sind indessen einem Schuldner schon unter dem bisherigen Recht durch Gläubigergemeinschaftsbeschlüsse Erleichterungen gewährt worden, die den in Artikel 1170 vorgesehenen gleich oder entsprechend sind, so müssen sie bei der Anwendung dieser Vorschrift angemessen berücksichtigt werden.
 - Im Übrigen sind die Schluss- und Übergangsbestimmungen des Bundesgesetzes vom 18. Dezember 1936 über die Revision der Titel XXIV–XXXIII des Obligationenrechts anwendbar.
-- 4\. Mit dem Inkrafttreten dieses Gesetzes werden die widersprechenden Bestimmungen, insbesondere die Verordnung des Bundesrates vom 20. Februar 1918[^u18-4] betreffend die Gläubigergemeinschaft bei Anleihensobligationen, aufgehoben.
+- 4\. Mit dem Inkrafttreten dieses Gesetzes werden die widersprechenden Bestimmungen, insbesondere die Verordnung des Bundesrates vom 20. Februar 1918[^u18-3] betreffend die Gläubigergemeinschaft bei Anleihensobligationen, aufgehoben.
 - 5\. Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
 [^u18-2]: Die Änderungen können unter AS **1949** I 791 konsultiert werden.
-[^u18-3]: Die Änderungen können unter AS **1949** I 791 konsultiert werden.
-[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-3]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
