@@ -3,13 +3,12 @@ canton: TG
 number: "414.21"
 title: Reglement über die Studiengänge Primarstufe Schuljahre 1 bis 5 und Primarstufe Schuljahre 3 bis 8 der Pädagogischen Hochschule Thurgau
 language: de
-version: 2021-09-01
-valid_until: 2023-08-31
-version_adopted: 2020-08-31
+version: 2023-09-01
+version_adopted: 2023-05-08
 adopted: 2009-11-10
 in_force: 2009-11-14
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.21"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2380/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2694/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2380/pdf_file"
 
 Reglement PS Schuljahre 1 bis 5 und PS Schuljahre 3 bis 8 der PHTG
 
-vom 10.11.2009 (Stand 01.09.2021)
+vom 10.11.2009 (Stand 01.09.2023)
 
 Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 5 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
 
@@ -30,11 +29,11 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Ziele, Umfang und Struktur der Ausbildung**
 
-<sup>1</sup> Die Studiengänge Primarstufe der Pädagogischen Hochschule Thurgau (PHTG) führen zur Lehrbefähigung für die Primarstufe (Schuljahre 1 bis 5 oder Schuljahre 3 bis 8) gemäss Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen[^1-1].
+<sup>1</sup> Die Studiengänge Primarstufe der Pädagogischen Hochschule Thurgau (PHTG) führen zur Lehrbefähigung für die Primarstufe (Schuljahre 1 bis 5 oder Schuljahre 3 bis 8) gemäss dem Reglement der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen[^1-1].
 
 <sup>2</sup> Es können zusätzlich Lehrbefähigungen für weitere Fächer und Schuljahre der Primarstufe erworben werden.
 
-<sup>3</sup> Ziele, Umfang, Struktur und Profilbildung der im Modulsystem konzipierten Studiengänge werden in den Studienplänen geregelt.
+<sup>3</sup> Ziele, Umfang, Struktur und Profilbildung der im Modulsystem konzipierten Studiengänge und Studiengangvarianten werden in den Studienplänen geregelt.
 
 [^1-1]: [https://edudoc.ch/record/202452/files/Regl\_Lehrdiplome\_d.pdf](https://edudoc.ch/record/202452/files/Regl_Lehrdiplome_d.pdf)
 
@@ -44,7 +43,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Für das Zulassungs- und Aufnahmeverfahren wird eine Aufnahmekommission eingesetzt.
 
-<sup>2</sup> Sie setzt sich zusammen aus dem Prorektor oder der Prorektorin Lehre und den Leitern oder Leiterinnen Aufnahmeverfahren aller Studiengänge.
+<sup>2</sup> Sie setzt sich zusammen aus dem Prorektor oder der Prorektorin Ausbildung und den Leitern oder Leiterinnen Aufnahmeverfahren aller Studiengänge.
 
 #### § 2
 
@@ -72,7 +71,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Anmeldung**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre legt die Anmeldetermine fest und publiziert sie.
+<sup>1</sup> Der Prorektor oder die Prorektorin Ausbildung legt die Anmeldetermine fest und publiziert sie.
 
 <sup>2</sup> Der Anmeldung sind sämtliche für die Aufnahme oder die Zulassung zum Aufnahmeverfahren erforderlichen Unterlagen beizulegen, so namentlich Nachweise über Ausbildungsabschlüsse, andere Qualifikationen, die Berufserfahrung und den Allgemeinbildungsstand. Es können zusätzliche Unterlagen verlangt werden.
 
@@ -88,14 +87,14 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 - 1\. Diplom einer dreijährigen Diplom-, Fach- oder Handelsmittelschule
 - 2\. Berufsmaturität
-- 3\. Abschluss einer mindestens dreijährigen anerkannten Berufsausbildung und mehrjährige Berufserfahrung. In diesem Fall muss eine Eintrittsprüfung ins Aufnahmeverfahren abgelegt werden
+- 3\. Abschluss einer mindestens dreijährigen anerkannten Berufsausbildung (Eidgenössisches Fähigkeitszeugnis) und mehrjährige Berufserfahrung. In diesem Fall muss eine Eintrittsprüfung ins Aufnahmeverfahren abgelegt werden
 
 <sup>2</sup> Das Aufnahmeverfahren umfasst
 
 - 1\. eine Standortbestimmung zur Abklärung der fachlichen und persönlichen Voraussetzungen und
 - 2\. eine Aufnahmeprüfung, in der die Kandidaten und Kandidatinnen den Äquivalenznachweis zur Fachmaturität für das Berufsfeld Pädagogik zu erbringen haben.
 
-<sup>3</sup> Der Prorektor oder die Prorektorin Lehre ist zuständig für die Organisation und Durchführung des Aufnahmeverfahrens.
+<sup>3</sup> Der Prorektor oder die Prorektorin Ausbildung ist zuständig für die Organisation und Durchführung des Aufnahmeverfahrens.
 
 <sup>4</sup> Bei Personen, die den Äquivalenznachweis zur Fachmaturität für das Berufsfeld Pädagogik bereits erbracht haben, kann die sofortige Aufnahme vorgenommen werden.
 
@@ -103,11 +102,13 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Aufnahmeprüfung**
 
-<sup>1</sup> Die Aufnahmeprüfung gemäss § 4 Abs. 2 Ziff. 2 wird gemäss den Richtlinien der EDK für die Umsetzung der Fachmaturität im Berufsfeld Pädagogik durchgeführt.
+<sup>1</sup> Die Aufnahmeprüfung nach § 4 Abs. 2 Ziff. 2 wird gemäss den Richtlinien der EDK über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik[^5-1] durchgeführt.
 
 <sup>2</sup> Die Aufnahmeprüfung kann in den Fächern, in denen sie nicht bestanden wurde, einmal wiederholt werden.
 
 <sup>3</sup> Zwischen Beginn der Aufnahmeprüfung und Wiederholung darf nicht mehr als ein Jahr liegen.
+
+[^5-1]: [https://edudoc.ch/record/133065/files/ARegl-FMS-2018\_d.pdf](https://edudoc.ch/record/133065/files/ARegl-FMS-2018_d.pdf)
 
 #### § 6
 
@@ -134,24 +135,20 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Zulassung sur dossier**
 
-<sup>1</sup> Für die Zulassung sur dossier sind die folgenden Voraussetzungen zu erfüllen:
-
-- 1\. Mindestalter 30 Jahre
-- 2\. Berufsmaturität oder gleichwertige Vorbildung
-- 3\. nachgewiesene Berufstätigkeit im Umfang von 300 Stellenprozenten nach Abschluss der Ausbildung; dieser Umfang kann auf Berufstätigkeiten im Zeitraum von maximal sieben Jahren verteilt sein
+<sup>1</sup> Für die Zulassung sur dossier gelten die Voraussetzungen gemäss Art. 2 Abs. 2 des Reglements der EDK über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen.
 
 <sup>2</sup> Das Zulassungsverfahren sur dossier umfasst
 
 - 1\. eine Standortbestimmung und
 - 2\. eine Prüfung, in der die Kandidaten und Kandidatinnen den Nachweis ihrer Studierfähigkeit zu erbringen haben.
 
-<sup>3</sup> Der Prorektor oder die Prorektorin Lehre ist zuständig für die Organisation und Durchführung des Zulassungsverfahrens sur dossier. Die Hochschulleitung erlässt ergänzende Richtlinien.
+<sup>3</sup> Der Prorektor oder die Prorektorin Ausbildung ist zuständig für die Organisation und Durchführung des Zulassungsverfahrens sur dossier. Die Hochschulleitung erlässt ergänzende Richtlinien.
 
 #### § 6b
 
 **Zulassung zum nachträglichen Erwerb einer zusätzlichen Lehrbefähigung**
 
-<sup>1</sup> Zum Erwerb einer Lehrbefähigung für zusätzliche Fächer wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die entsprechenden Schuljahre der Primarstufe verfügt.
+<sup>1</sup> Zum Erwerb einer Lehrbefähigung für zusätzliche Fächer wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe verfügt.
 
 <sup>2</sup> Zum Erwerb einer Lehrbefähigung für weitere Schuljahre der Primarstufe wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe verfügt.
 
@@ -290,9 +287,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Leistungsnachweise werden vom zuständigen Dozenten oder der zuständigen Dozentin durchgeführt.
 
-<sup>3</sup> Der Prorektor oder die Prorektorin Lehre kann den Zusammenzug von Leistungsnachweisen mehrerer Module für die Qualifikation anordnen. Er oder sie regelt die Verrechnung der Qualifikationen der Leistungsnachweise zu einer zusammenfassenden Qualifikation.
+<sup>3</sup> Der Prorektor oder die Prorektorin Ausbildung kann den Zusammenzug von Leistungsnachweisen mehrerer Module für die Qualifikation anordnen. Er oder sie regelt die Verrechnung der Qualifikationen der Leistungsnachweise zu einer zusammenfassenden Qualifikation.
 
-<sup>4</sup> Der Prorektor oder die Prorektorin Lehre kann bei nachgewiesener genügender Leistungsfähigkeit von Leistungsnachweisen befreien. Er oder sie setzt die Qualifikation aufgrund der nachgewiesenen Leistungsfähigkeit fest.
+<sup>4</sup> …
 
 <sup>5</sup> Wer unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat den Leistungsnachweis nicht erfüllt.
 
@@ -311,7 +308,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 - 7\. Portfolio
 - 8\. Präsenzleistungen
 
-<sup>2</sup> Sie können aus mehreren Teilen mit verschiedenen Formen bestehen.
+<sup>2</sup> …
 
 #### § 21
 
@@ -319,7 +316,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Der zuständige Dozent oder die zuständige Dozentin beurteilt die Leistung entweder anhand der Bewertungsskala des European Credit Transfer and Accumulation System (ECTS) oder mit den Prädikaten «erfüllt» und «nicht erfüllt».
 
-<sup>2</sup> Der Prorektor oder die Prorektorin Lehre bestimmt, wann die Skala und wann die Beurteilung durch Prädikate zur Anwendung gelangt.
+<sup>2</sup> Der Prorektor oder die Prorektorin Ausbildung bestimmt, wann die Skala und wann die Beurteilung durch Prädikate zur Anwendung gelangt.
 
 <sup>3</sup> Die Skala sieht folgende Noten vor:
 
@@ -347,7 +344,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>3<sup>ter</sup></sup> Ein wiederholter Leistungsnachweis wird maximal mit dem Prädikat «erfüllt» beziehungsweise mit der Note «E» beurteilt.
 
-<sup>4</sup> Der Prorektor oder die Prorektorin Lehre kann auf Antrag der für den Leistungsnachweis verantwortlichen Dozenten oder Dozentinnen Ausnahmen erlauben und gleichzeitig Auflagen oder andere Massnahmen anordnen.
+<sup>4</sup> Der Prorektor oder die Prorektorin Ausbildung kann in begründeten Fällen auf Antrag des Leiters oder der Leiterin des Studiengangs Ausnahmen erlauben und gleichzeitig Auflagen oder andere Massnahmen anordnen.
 
 <sup>5</sup> Die Hochschulleitung erlässt ergänzende Richtlinien.
 
@@ -361,13 +358,13 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Leistungsnachweise als Voraussetzung für das weitere Studium**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre kann bestimmen, welche Leistungsnachweise erfüllt sein müssen, damit eine weiterführende Lehrveranstaltung besucht oder die Diplomprüfung absolviert werden kann.
+<sup>1</sup> Der Prorektor oder die Prorektorin Ausbildung kann bestimmen, welche Leistungsnachweise erfüllt sein müssen, damit eine weiterführende Lehrveranstaltung besucht oder die Diplomprüfung absolviert werden kann.
 
 #### § 25
 
-**Anerkennung von Ausbildungsteilen**
+**Anrechnung bereits erbrachter Leistungen**
 
-<sup>1</sup> Bereits vor dem Studium erbrachte formale, nicht-formale oder informelle Studien- und Bildungsleistungen können gemäss den Vorgaben von Art. 12 des Reglements der EDK über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen angerechnet werden.
+<sup>1</sup> Bereits vor dem Studium erbrachte formale Studien- und Bildungsleistungen sowie validierte Unterrichtspraxis können gemäss den Vorgaben von Art. 12 Abs. 1 des Reglements der EDK über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen angerechnet werden.
 
 <sup>2</sup> Die Hochschulleitung regelt das Anrechnungsverfahren durch Richtlinien.
 
@@ -426,7 +423,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Anmeldung**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre legt die Anmeldefristen für die Diplomprüfungen fest.
+<sup>1</sup> Der Prorektor oder die Prorektorin Ausbildung legt die Anmeldefristen für die Diplomprüfungen fest.
 
 #### § 33
 
@@ -456,7 +453,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Durchführung**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre ist für die Durchführung der Prüfungen verantwortlich und ernennt die Prüfenden sowie die Experten und Expertinnen.
+<sup>1</sup> Der Prorektor oder die Prorektorin Ausbildung ist für die Durchführung der Prüfungen verantwortlich und ernennt die Prüfenden sowie die Experten und Expertinnen.
 
 <sup>2</sup> Die Prüfenden werden in der Durchführung der Prüfung und in der Bewertung von den Experten oder Expertinnen beraten.
 
@@ -466,7 +463,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Die Diplomprüfung wird anhand der ECTS-Bewertungsskala bewertet.
 
-<sup>2</sup> Im Studiengang Primarstufe Schuljahre 3 bis 8 werden Kolloquium und Portfolio anhand der ECTS-Bewertungsskala zu gleichen Teilen in die Bewertung einbezogen. Der Prorektor oder die Prorektorin Lehre regelt die Verrechnung der Einzelqualifikationen zu einer Gesamtqualifikation.
+<sup>2</sup> Im Studiengang Primarstufe Schuljahre 3 bis 8 werden Kolloquium und Portfolio anhand der ECTS-Bewertungsskala zu gleichen Teilen in die Bewertung einbezogen. Der Prorektor oder die Prorektorin Ausbildung regelt die Verrechnung der Einzelqualifikationen zu einer Gesamtqualifikation.
 
 #### § 37
 
@@ -512,8 +509,8 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Studenten oder Studentinnen des Studiengangs Vorschulstufe, die vor Inkrafttreten dieses Reglements das Studium begonnen haben, beenden es nach bisherigem Recht (Reglement über die Studiengänge Vorschulstufe und Primarstufe der Pädagogischen Hochschule Thurgau vom 10. November 2009; Stand 28. Juni 2014). Davon ausgenommen ist das 3. Kapitel dieses Reglements (§ 19 bis § 25), das für alle Studenten und Studentinnen ab Inkrafttreten der Änderungen anwendbar ist.
+<sup>1</sup> Studenten oder Studentinnen des Studiengangs Vorschulstufe, die vor dem 1. September 2021 das Studium begonnen haben, beenden es nach dem Reglement über die Studiengänge Vorschulstufe und Primarstufe der Pädagogischen Hochschule Thurgau vom 10. November 2009 in der Fassung vom 24. Februar 2014. Davon ausgenommen ist das 3. Kapitel dieses Reglements (§ 19 bis § 25), das für alle Studenten und Studentinnen ab Inkrafttreten der Änderungen anwendbar ist.
 
-<sup>2</sup> Die Diplomprüfung des Studiengangs Vorschulstufe wird letztmals im Jahr 2026 nach bisherigem Recht durchgeführt.
+<sup>2</sup> Die Diplomprüfung des Studiengangs Vorschulstufe wird letztmals im Jahr 2026 gemäss Abs. 1 durchgeführt.
 
 ABl. 46/2009
