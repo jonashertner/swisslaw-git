@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2006 sulle professioni mediche universitari
 short: LPMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-537-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-537-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20220101/it"
 
 (Legge sulle professioni mediche, LPMed)
 
-del 23 giugno 2006 (Stato 1° gennaio 2022)
+del 23 giugno 2006 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -844,19 +844,20 @@ La Commissione delle professioni mediche ha le seguenti attribuzioni e competenz
 
 <sup>2</sup> Il registro ha lo scopo d’informare e tutelare i pazienti, di garantire la qualità, di fornire dati statistici, di allestire la demografia medica e d’informare i servizi esteri. È inoltre inteso a semplificare le procedure necessarie per il rilascio dell’autorizzazione all’esercizio della professione, nonché a permettere ai Cantoni lo scambio di informazioni relative all’esistenza di misure disciplinari.[^51-2]
 
-<sup>3</sup> Il registro contiene i dati necessari a raggiungere lo scopo di cui al capoverso 2. Vi rientrano anche dati personali degni di particolare protezione ai sensi dell’articolo 3 lettera c della legge federale del 19 giugno 1992[^51-3] sulla protezione dei dati.
+<sup>3</sup> Il registro contiene i dati necessari a raggiungere lo scopo di cui al capoverso 2. Vi rientrano anche dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^51-3] sulla protezione dei dati.[^51-4]
 
-<sup>4</sup> Il registro deve inoltre contenere in particolare le informazioni di cui i Cantoni e gli organi federali abbisognano per l’esecuzione della legge federale del 18 marzo 1994[^51-4] sull’assicurazione malattie.
+<sup>4</sup> Il registro deve inoltre contenere in particolare le informazioni di cui i Cantoni e gli organi federali abbisognano per l’esecuzione della legge federale del 18 marzo 1994[^51-5] sull’assicurazione malattie.
 
-<sup>4bis</sup> ...[^51-5]
+<sup>4bis</sup> ...[^51-6]
 
 <sup>5</sup> Il Consiglio federale emana disposizioni dettagliate sui dati personali contenuti nel registro e sulle relative modalità di trattamento.
 
 [^51-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^51-2]: Nuovo testo del per. giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^51-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^51-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^51-5]: Introdotto dal n. I della L del 20 mar. 2015 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Abrogato dall’all. n. 23 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^51-4]: Nuovo testo giusta l’all. 1 n. II 71 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^51-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^51-6]: Introdotto dal n. I della L del 20 mar. 2015 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Abrogato dall’all. n. 23 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 52
 

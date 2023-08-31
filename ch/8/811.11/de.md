@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2006 über die universitären Medizinalberufe 
 short: MedBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-537-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-537-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20220101/de"
 
 (Medizinalberufegesetz, MedBG)
 
-vom 23. Juni 2006 (Stand am 1. Januar 2022)
+vom 23. Juni 2006 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -47,7 +47,7 @@ Zu diesem Zweck umschreibt es:
 - b. die Voraussetzungen für das Erlangen eines eidgenössischen Diploms und eines eidgenössischen Weiterbildungstitels in den universitären Medizinalberufen;
 - c. die periodische Akkreditierung der Studien- und Weiterbildungsgänge;
 - d. die Voraussetzungen für die Anerkennung ausländischer Diplome und Weiterbildungstitel;
-- e.[^1-1] die Regeln zur ...[^1-2] Ausübung der universitären Medizinalberufe in eigener fachlicher Verantwortung;
+- e.[^1-1] die Regeln zur …[^1-2] Ausübung der universitären Medizinalberufe in eigener fachlicher Verantwortung;
 - f. die Anforderungen an das Register der Inhaberinnen und Inhaber von Diplomen und Weiterbildungstiteln (Register).
 
 [^1-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
@@ -382,7 +382,7 @@ Die für den akkreditierten Weiterbildungsgang verantwortliche Organisation erte
 
 <sup>3</sup> Für die Anerkennung der ausländischen Weiterbildungstitel zuständig ist die Medizinalberufekommission.
 
-<sup>4</sup> ...[^21-2]
+<sup>4</sup> …[^21-2]
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^21-2]: Aufgehoben durch Ziff. I des BG vom 20. März 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
@@ -549,7 +549,7 @@ Die für die Weiterbildung verantwortlichen Organisationen müssen der Akkrediti
 
 #### Art. 32
 
-**...[^32-1]**
+**…[^32-1]**
 
 <sup>1</sup> Die Kosten für die Akkreditierung der Studiengänge werden nach Artikel 35 HFKG[^32-2] finanziert.[^32-3]
 
@@ -584,7 +584,7 @@ Wer einen universitären Medizinalberuf ausübt, muss:
 
 <sup>2</sup>
 
-Wer einen universitären Medizinalberuf ...[^33a-2] unter fachlicher Aufsicht ausüben möchte und weder ein eidgenössisches noch ein nach diesem Gesetz anerkanntes ausländisches Diplom besitzt, muss:
+Wer einen universitären Medizinalberuf …[^33a-2] unter fachlicher Aufsicht ausüben möchte und weder ein eidgenössisches noch ein nach diesem Gesetz anerkanntes ausländisches Diplom besitzt, muss:
 
 - a. ein Diplom haben, das im Ausstellungsstaat zur Ausübung des universitären Medizinalberufs im Sinne dieses Gesetzes unter fachlicher Aufsicht berechtigt;
 - b. bei der Medizinalberufekommission ein Gesuch um Eintragung ins Register stellen.
@@ -607,7 +607,7 @@ Der Arbeitgeber ist zuständig für die Prüfung, ob eine universitäre Medizina
 
 <sup>1</sup> Für die Ausübung eines universitären Medizinalberufes in eigener fachlicher Verantwortung bedarf es einer Bewilligung des Kantons, auf dessen Gebiet der Medizinalberuf ausgeübt wird.
 
-<sup>2</sup> ...[^34-2]
+<sup>2</sup> …[^34-2]
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^34-2]: Aufgehoben durch Anhang Ziff. 4 des Gesundheitsberufegesetzes vom 30. Sept. 2016, mit Wirkung seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
@@ -620,7 +620,7 @@ Der Arbeitgeber ist zuständig für die Prüfung, ob eine universitäre Medizina
 
 <sup>2</sup> Inhaberinnen und Inhaber einer kantonalen Bewilligung dürfen ihren Medizinalberuf während längstens 90 Tagen pro Kalenderjahr in einem anderen Kanton in eigener fachlicher Verantwortung ausüben, ohne eine Bewilligung dieses Kantons einzuholen.[^35-6] Einschränkungen und Auflagen ihrer Bewilligung gelten auch für diese Tätigkeit. Diese Personen müssen sich bei der zuständigen kantonalen Stelle melden. Diese trägt die Meldung ins Register ein.[^35-7]
 
-<sup>3</sup> ...[^35-8]
+<sup>3</sup> …[^35-8]
 
 [^35-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^35-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
@@ -844,19 +844,20 @@ Die Medizinalberufekommission hat folgende Aufgaben und Kompetenzen:
 
 <sup>2</sup> Das Register dient der Information und dem Schutz von Patientinnen und Patienten, der Qualitätssicherung, statistischen Zwecken, der Erstellung der medizinischen Demografie und der Information ausländischer Stellen. Es bezweckt im Übrigen, die für die Erteilung der Berufsausübungsbewilligung notwendigen Abläufe zu vereinfachen sowie den Kantonen den Austausch von Informationen über das Vorhandensein von Disziplinarmassnahmen zu ermöglichen.[^51-2]
 
-<sup>3</sup> Das Register enthält die Daten, die zur Erreichung des Zwecks nach Absatz 2 benötigt werden. Dazu gehören auch besonders schützenswerte Personendaten im Sinne von Artikel 3 Buchstabe c des Bundesgesetzes vom 19. Juni 1992[^51-3] über den Datenschutz.
+<sup>3</sup> Das Register enthält die Daten, die zur Erreichung des Zwecks nach Absatz 2 benötigt werden. Dazu gehören auch besonders schützenswerte Personendaten im Sinne von Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^51-3].[^51-4]
 
-<sup>4</sup> Das Register muss insbesondere die Informationen enthalten, welche Kantone und Bundesorgane für den Vollzug des Bundesgesetzes vom 18. März 1994[^51-4] über die Krankenversicherung benötigen.
+<sup>4</sup> Das Register muss insbesondere die Informationen enthalten, welche Kantone und Bundesorgane für den Vollzug des Bundesgesetzes vom 18. März 1994[^51-5] über die Krankenversicherung benötigen.
 
-<sup>4bis</sup> ...[^51-5]
+<sup>4bis</sup> …[^51-6]
 
 <sup>5</sup> Der Bundesrat erlässt nähere Bestimmungen über die im Register enthaltenen Personendaten sowie über deren Bearbeitungsmodalitäten.
 
 [^51-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^51-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^51-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^51-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^51-5]: Eingefügt durch Ziff. I des BG vom 20. März 2015 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Aufgehoben durch Anhang Ziff. 23 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^51-4]: Fassung gemäss Anhang 1 Ziff. II 71 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^51-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^51-6]: Eingefügt durch Ziff. I des BG vom 20. März 2015 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Aufgehoben durch Anhang Ziff. 23 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 52
 
@@ -975,7 +976,7 @@ Der Bundesrat erlässt die Ausführungsvorschriften.
 
 Das Bundesgesetz vom 19. Dezember 1877[^61-1] betreffend die Freizügigkeit des Medizinalpersonals in der Schweizerischen Eidgenossenschaft wird aufgehoben.
 
-[^61-1]: [BS **4** 291; [AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. III 1, [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 88]
+[^61-1]: [BS **4** 291; [AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. III 1; [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 88]
 
 ### 3. Abschnitt: Übergangsbestimmungen
 
@@ -1062,7 +1063,7 @@ Das Bundesgesetz vom 19. Dezember 1877[^61-1] betreffend die Freizügigkeit des 
 
 <sup>2</sup> Personen, die vor Inkrafttreten dieser Änderung ihren Beruf im öffentlichen Dienst von Kantonen und Gemeinden in eigener fachlicher Verantwortung ausübten und zu dieser Berufsausübung nach kantonalem Recht keine Bewilligung brauchten, müssen spätestens fünf Jahre nach dessen Inkrafttreten über eine Bewilligung nach diesem Gesetz verfügen.
 
-<sup>3</sup> ...[^67b-2]
+<sup>3</sup> …[^67b-2]
 
 [^67b-1]: Eingefügt durch Anhang Ziff. 4 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^67b-2]: Noch nicht in Kraft.
