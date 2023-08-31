@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 mars 2012 sur la circulation des espèces de faune 
 short: LCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: fr
-version: 2022-03-01
+version: 2023-09-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-600-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/fr"
 
 (Loi sur les espèces protégées, LCITES)
 
-du 16 mars 2012 (Etat le 1<sup>er</sup> mars 2022)
+du 16 mars 2012 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -347,7 +347,10 @@ L’OSAV et les autres organes de contrôle se transmettent les données nécess
 
 <sup>1</sup> L’OSAV n’est autorisé à communiquer les données traitées en application de la présente loi, notamment les données sensibles relatives aux sanctions administratives et pénales, à des autorités étrangères et à des organisations supranationales et internationales que dans la mesure où cette communication est nécessaire à l’exécution de la CITES.
 
-<sup>2</sup> Les données peuvent être communiquées en ligne si la législation étrangère assure un niveau de protection adéquat de la personnalité des personnes concernées. Le Conseil fédéral désigne les pays et les organisations supranationales et internationales qui présentent cette garantie.
+<sup>2</sup> Les données peuvent être communiquées en ligne si la législation étrangère assure un niveau de protection adéquat au sens de l’art. 16 de la loi fédérale du 25 septembre 2020 sur la protection des données[^23-1].[^23-2] Le Conseil fédéral désigne les pays et les organisations supranationales et internationales qui présentent cette garantie.
+
+[^23-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-2]: Nouvelle teneur selon l’annexe 1 ch. II 38 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Section 6 Voies de droit
 
@@ -424,7 +427,7 @@ La peine est une peine privative de liberté de cinq ans au plus ou une peine p�
 [^27-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^27-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 [^27-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^27-11]: Nouvelle teneur selon le ch. I 1 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^27-11]: Nouvelle teneur selon l’annexe ch. I 1 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Section 8 Dispositions finales
 
@@ -468,7 +471,7 @@ Annexe 2
 
 (art. 29)
 
-## Coordination avec la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)****
+## Coordination avec la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)
 
 [^annex2-lvlu1-1]
 

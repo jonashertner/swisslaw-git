@@ -4,11 +4,11 @@ title: Bundesgesetz vom 16. März 2012 über den Verkehr mit Tieren und Pflanzen
 short: BGCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: de
-version: 2022-03-01
+version: 2023-09-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-600-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/de"
 
 (BGCITES)
 
-vom 16. März 2012 (Stand am 1. März 2022)
+vom 16. März 2012 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -349,7 +349,10 @@ Das BLV und die weiteren Kontrollorgane geben einander die Daten weiter, die fü
 
 <sup>1</sup> Das BLV darf Daten, die gestützt auf dieses Gesetz bearbeitet werden, namentlich besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen, den Behörden anderer Staaten sowie supranationalen und internationalen Organisationen nur bekannt geben, soweit dies für den Vollzug des CITES notwendig ist.
 
-<sup>2</sup> Die Daten dürfen im Abrufverfahren bekannt gegeben werden, wenn die entsprechende ausländische Gesetzgebung einen angemessenen Schutz der Persönlichkeit der betroffenen Personen gewährleistet. Der Bundesrat bestimmt die Staaten sowie die supranationalen und internationalen Organisationen, die diesen Schutz gewähren.
+<sup>2</sup> Die Daten dürfen im Abrufverfahren bekannt gegeben werden, wenn die entsprechende ausländische Gesetzgebung einen angemessenen Datenschutz nach Artikel 16 des Datenschutzgesetzes vom 25. September 2020[^23-1] gewährleistet.[^23-2] Der Bundesrat bestimmt die Staaten sowie die supranationalen und internationalen Organisationen, die diesen Schutz gewähren.
+
+[^23-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-2]: Fassung gemäss Anhang 1 Ziff. II 38 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 6. Abschnitt: Rechtsmittel
 
@@ -470,7 +473,7 @@ Anhang 2
 
 (Art. 29)
 
-## Koordination mit dem Tierseuchengesetz vom 1. Juli 1966**** (TSG)
+## Koordination mit dem Tierseuchengesetz vom 1. Juli 1966 (TSG)
 
 [^annex2-lvlu1-1]
 

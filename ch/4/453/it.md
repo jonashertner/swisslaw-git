@@ -4,11 +4,11 @@ title: Legge federale del 16 marzo 2012 sulla circolazione delle specie di fauna
 short: LF-CITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: it
-version: 2022-03-01
+version: 2023-09-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-600-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/it"
 
 (LF-CITES)
 
-del 16 marzo 2012 (Stato 1° marzo 2022) (Stato 1° marzo 2022)
+del 16 marzo 2012 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -347,14 +347,10 @@ L’USAV e gli altri organi di controllo si trasmettono i dati necessari all’a
 
 <sup>1</sup> L’USAV può comunicare i dati trattati in virtù della presente legge, in particolare i dati personali degni di particolare protezione concernenti le sanzioni amministrative e penali, alle autorità di altri Stati nonché alle organizzazioni sovranazionali e internazionali, per quanto siano necessari all’esecuzione della CITES.
 
-<sup>2</sup> I dati possono essere comunicati mediante procedura di richiamo se la legislazione estera corrispondente garantisce un’adeguata tutela della personalità delle persone interessate. Il Consiglio federale designa gli Stati nonché le organizzazioni sovranazionali e internazionali che garantiscono tale tutela.
+<sup>2</sup> I dati possono essere comunicati mediante procedura di richiamo se la legislazione estera corrispondente garantisce una protezione adeguata dei dati conformemente all’articolo 16 della legge federale del 25 settembre 2020[^23-1] sulla protezione dei dati.[^23-2] Il Consiglio federale designa gli Stati nonché le organizzazioni sovranazionali e internazionali che garantiscono tale tutela.
 
-<sup>3</sup> Il termine di opposizione è di 30 giorni.[^23-1]
-
-<sup>4</sup> La procedura di opposizione è gratuita, salvo se si tratta di un’opposizione temeraria.[^23-2]
-
-[^23-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
-[^23-2]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^23-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-2]: Nuovo testo giusta l’all. 1 n. II 38 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Sezione 6: Rimedi giuridici
 
@@ -431,7 +427,7 @@ La pena è una pena detentiva sino a cinque anni o una pena pecuniaria se l’in
 [^27-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^27-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 [^27-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^27-11]: Nuovo testo giusta il n. II 1 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^27-11]: Nuovo testo giusta l. n. II 1 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Sezione 8: Disposizioni finali
 
@@ -475,7 +471,7 @@ Allegato 2
 
 (art. 29)
 
-## Coordinamento con la legge del 1° luglio 1966**** sulle epizoozie (LFE)
+## Coordinamento con la legge del 1° luglio 1966 sulle epizoozie (LFE)
 
 [^annex2-lvlu1-1]
 
