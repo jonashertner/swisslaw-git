@@ -3,11 +3,11 @@ sr: "832.312.15"
 title: "Ordonnance du 27 septembre 1999 sur les conditions de sécurité régissant l'utilisation des grues (Ordonnance sur les grues)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/27"
 language: fr
-version: 2010-07-01
+version: 2023-09-01
 adopted: 1999-09-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/27/20100701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-27-20100701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20100701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/27/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2000-27-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20100701/fr"
 
 (Ordonnance sur les grues)
 
-du 27 septembre 1999 (Etat le 1<sup>er</sup> juillet 2010)
+du 27 septembre 1999 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -34,7 +34,7 @@ arrête:
 
 <sup>1</sup> La présente ordonnance fixe les mesures qui doivent être prises pour assurer la sécurité des travailleurs lors de l’utilisation des grues.[^1-1]
 
-<sup>2</sup> A défaut de réglementation spéciale dans la présente ordonnance, l’ordonnance du 19 décembre 1983 sur la prévention des accidents (OPA)[^1-2] s’applique.
+<sup>2</sup> À défaut de réglementation spéciale dans la présente ordonnance, l’ordonnance du 19 décembre 1983 sur la prévention des accidents (OPA)[^1-2] s’applique.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^1-2]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
@@ -55,9 +55,9 @@ Sont considérés comme grues au sens de la présente ordonnance les appareils d
 
 Les grues sont classées dans les catégories suivantes:
 
-- a. les camions-grue comme les grues automobiles, les grues mobiles, les grues sur chenilles, les grues sur remorque, les élévateurs télescopiques et les grues sur rails équipés d’un treuil, de même que les grues de chargement des camions dont le moment de charge dépasse 400 000 Nm ou dont la longueur de flèche est supérieure à 22 m;
+- a.[^2-2] les camions-grue comme les grues automobiles, les grues mobiles, les grues sur chenilles, les grues sur remorque, les grues de chargement des camions dont le moment de charge dépasse 400 000 Nm ou dont la longueur de flèche est supérieure à 22 m, les élévateurs télescopiques et les grues sur rails équipés d’un treuil;
 - b. les grues à tour pivotantes comme les grues à tour fixe, les grues à base tournante et les grues à volée variable;
-- c. les autres grues comme les grues à portique, les ponts roulants, les grues à flèche, les grues pivotantes, les élévateurs télescopiques et les grues sur rails non équipés de treuils, de même que les grues de chargement des camions dont le moment de charge est de 400 000 Nm au plus et dont la longueur de la flèche est inférieure ou égale à 22 m.
+- c.[^2-3] les autres grues comme les grues à portique, les ponts roulants, les grues à flèche, les grues pivotantes, les grues de chargement des camions dont le moment de charge est de 400 000 Nm au plus et dont la longueur de flèche est de 22 m au plus, les élévateurs télescopiques et les grues sur rails non équipés de treuils.
 
 <sup>3</sup>
 
@@ -67,6 +67,8 @@ Ne sont pas considérés comme grues:
 - b. les machines de chantier conçues pour les travaux de terrassement et équipées d’un crochet de suspension.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
 
 #### Art. 3
 
@@ -97,7 +99,7 @@ Doivent en outre être portés dans le livret de grue, dans l’ordre chronologi
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^3-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 [^3-3]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^3-4]: Nouvelle teneur selon le ch. II 11 de l’annexe 4 à l’O du 19 mai 2010 sur la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^3-4]: Nouvelle teneur selon l’annexe 4 ch. II 11 de l’O du 19 mai 2010 sur la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 [^3-5]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
@@ -125,11 +127,11 @@ Doivent en outre être portés dans le livret de grue, dans l’ordre chronologi
 
 <sup>1</sup>
 
-Les travaux de levage au moyen de grues ne peuvent être exécutés que par des personnes qui:
+Les travaux de levage au moyen des grues ne peuvent être exécutés que par des personnes qui:
 
 - a. sont en mesure, compte tenu de leur état physique et psychique, de garantir la conduite d’une grue en toute sécurité;
 - b. peuvent se faire comprendre sur le lieu de travail;
-- c. sont instruites sur la manière d’utiliser une grue.
+- c.[^5-1] sont formées sur la manière d’utiliser une grue.
 
 <sup>2</sup>
 
@@ -137,12 +139,13 @@ Les travaux de levage au moyen de camions-grue ou de grues à tour pivotantes ne
 
 - a. permis de grutier;
 - b. permis d’élève grutier pour la période de sélection, si l’élève est accompagné d’une personne possédant un permis de grutier depuis trois ans au moins ou d’un supérieur ayant l’expérience professionnelle requise pour cette tâche;
-- c. permis d’élève grutier pour la période de travaux pratiques, si l’élève est sous la surveillance d’une personne possédant un permis de grutier depuis trois ans au moins ou d’un supérieur ayant l’expérience professionnelle requise pour cette tâche.[^5-1]
+- c. permis d’élève grutier pour la période de travaux pratiques, si l’élève est sous la surveillance d’une personne possédant un permis de grutier depuis trois ans au moins ou d’un supérieur ayant l’expérience professionnelle requise pour cette tâche.[^5-2]
 
-<sup>3</sup> Aucun permis n’est nécessaire pour les travaux de levage exécutés dans le cadre des cours de base et des examens.[^5-2]
+<sup>3</sup> Aucun permis n’est nécessaire pour les travaux de levage exécutés dans le cadre des cours de base et des examens.[^5-3]
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
-[^5-2]: Introduit par le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^5-3]: Introduit par le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 #### Art. 6
 
@@ -152,7 +155,9 @@ Les travaux de levage au moyen de camions-grue ou de grues à tour pivotantes ne
 
 <sup>2</sup> Les systèmes de préhension des charges et les moyens de suspension doivent être adaptés à chaque transport et être en parfait état de service.
 
-<sup>3</sup> Les personnes qui élinguent des charges doivent être instruites sur la manière de procéder.
+<sup>3</sup> Les personnes qui élinguent des charges doivent être formées sur la manière de procéder.[^6-1]
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
 
 #### Art. 7
 
@@ -301,7 +306,7 @@ Ils doivent présenter à la CNA une demande, rédigée dans l’une des langues
 La CNA reconnaît comme expert en grues les personnes qui:[^16-1]
 
 - a. sont titulaires d’un brevet fédéral d’agent de maintenance ou d’un certificat équivalent;
-- b.[^16-2] peuvent justifier d’une expérience professionnelle de cinq ans au moins dans le domaine du montage, du démontage et de la maintenance de camions-grue ou de grues à tour pivotantes; et
+- b.[^16-2] peuvent justifier d’une expérience professionnelle de cinq ans au moins dans le domaine du montage, du démontage et de la maintenance de camions-grue ou de grues à tour pivotantes, et
 - c. ont une expérience en électrotechnique et en technique de commande usuelle dans la fabrication de grues.
 
 <sup>2</sup> Les experts en grues sont tenus de suivre une formation continue appropriée dans les domaines qui sont indispensables à l’exercice de leurs tâches, en particulier dans le domaine de la maintenance et dans celui de la technique relative aux grues.
@@ -397,7 +402,7 @@ L’ordonnance du 22 juin 1951 concernant les mesures destinées à prévenir de
 
 **Modification du droit en vigueur**
 
-...*[^23-1]*
+…[^23-1]
 
 [^23-1]: La mod. peut être consultée au [RO 2000 166](https://fedlex.data.admin.ch/eli/oc/2000/27).
 

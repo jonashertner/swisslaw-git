@@ -3,11 +3,11 @@ sr: "832.312.15"
 title: "Ordinanza del 27 settembre 1999 concernente la sicurezza nell'uso delle gru (Ordinanza sulle gru)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/27"
 language: it
-version: 2010-07-01
+version: 2023-09-01
 adopted: 1999-09-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/27/20100701/it/xml/fedlex-data-admin-ch-eli-cc-2000-27-20100701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20100701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/27/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2000-27-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20100701/it"
 
 (Ordinanza sulle gru)
 
-del 27 settembre 1999 (Stato 1° luglio 2010)
+del 27 settembre 1999 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -55,9 +55,9 @@ Sono considerate gru ai sensi della presente ordinanza apparecchi di sollevament
 
 Le gru sono suddivise nelle seguenti categorie:
 
-- a. autogru, gru mobili, gru cingolate, gru rimorchio, gru su binari e sollevatori telescopici muniti di argano, nonché gru di carico montate su camion con un momento di carico di almeno 400 000 Nm o una lunghezza di braccio superiore ai 22 m;
+- a.[^2-2] gru montate su veicoli come autogru, gru mobili, gru cingolate, gru rimorchio, gru di carico montate su camion con un momento di carico di almeno 400 000 Nm o una lunghezza di braccio superiore ai 22 m, gru su binari munite di argano, nonché sollevatori telescopici muniti di argano;
 - b. gru a torre quali gru a rotazione in alto, gru a rotazione in basso e automontanti;
-- c. altre gru quali gru a portale, gru a ponte, gru a braccio, gru a rotazione totale, gru su binari e sollevatori telescopici privi di argano, nonché gru di carico montate su camion con un momento di carico di al massimo 400 000 Nm e una lunghezza di braccio inferiore ai 22 m.
+- c.[^2-3] altre gru quali gru a portale, gru a ponte, gru a braccio, gru a rotazione totale, gru di carico montate su camion con un momento di carico di al massimo 400 000 Nm e una lunghezza di braccio inferiore ai 22 m, gru su binari prive di argano, nonché sollevatori telescopici privi di argano.
 
 <sup>3</sup>
 
@@ -67,6 +67,8 @@ Non sono considerati gru:
 - b. le macchine edili provviste di un gancio di sospensione e concepite ed equipaggiate per effettuare movimenti di terra.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 5 set. 2007, in vigore dal 1° ott. 2007 ([RU 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
+[^2-3]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
 
 #### Art. 3
 
@@ -97,7 +99,7 @@ Nel libretto della gru devono essere riportati in ordine cronologico e con data,
 [^3-1]: Nuovo testo giusta il n. I dell’O del 5 set. 2007, in vigore dal 1° ott. 2007 ([RU 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^3-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 [^3-3]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^3-4]: Nuovo testo giusta il n. II 11 dell’all. 4 all’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^3-4]: Nuovo testo giusta l’all. 4 n. II 11 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 [^3-5]: Nuovo testo giusta il n. I dell’O del 5 set. 2007, in vigore dal 1° ott. 2007 ([RU 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^3-6]: Nuovo testo giusta il n. I dell’O del 5 set. 2007, in vigore dal 1° ott. 2007 ([RU 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
@@ -129,7 +131,7 @@ I lavori di sollevamento mediante gru possono essere eseguiti soltanto da person
 
 - a. le cui condizioni psicofisiche garantiscono un uso sicuro della gru;
 - b. che sono in grado di farsi capire sul posto di lavoro;
-- c. che sono state istruite sull’uso della gru che manovrano.
+- c.[^5-1] che sono state formate sull’uso della gru che manovrano.
 
 <sup>2</sup>
 
@@ -137,12 +139,13 @@ I lavori di sollevamento mediante autogru e gru a torre possono essere eseguiti 
 
 - a. patente di gruista;
 - b. patente di allievo gruista per il periodo di selezione, se l’allievo è accompagnato da una persona titolare da almeno tre anni di una patente di gruista, o da un superiore con la necessaria esperienza professionale;
-- c. patente di allievo gruista per il periodo di esercitazione, se l’allievo è sorvegliato da una persona titolare da almeno tre anni di una patente di gruista, o da un superiore con la necessaria esperienza professionale.[^5-1]
+- c. patente di allievo gruista per il periodo di esercitazione, se l’allievo è sorvegliato da una persona titolare da almeno tre anni di una patente di gruista, o da un superiore con la necessaria esperienza professionale.[^5-2]
 
-<sup>3</sup> Non è necessaria alcuna patente per i lavori di sollevamento eseguiti durante corsi di base ed esami.[^5-2]
+<sup>3</sup> Non è necessaria alcuna patente per i lavori di sollevamento eseguiti durante corsi di base ed esami.[^5-3]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 5 set. 2007, in vigore dal 1° ott. 2007 ([RU 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
-[^5-2]: Introdotto dal n. I dell’O del 5 set. 2007, in vigore dal 1° ott. 2007 ([RU 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del 5 set. 2007, in vigore dal 1° ott. 2007 ([RU 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^5-3]: Introdotto dal n. I dell’O del 5 set. 2007, in vigore dal 1° ott. 2007 ([RU 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 #### Art. 6
 
@@ -152,7 +155,9 @@ I lavori di sollevamento mediante autogru e gru a torre possono essere eseguiti 
 
 <sup>2</sup> I dispositivi di sollevamento e gli accessori di imbracatura devono essere adatti al tipo di trasporto e in perfetto stato di funzionamento.
 
-<sup>3</sup> Le persone incaricate di agganciare i carichi devono essere istruite su tale lavoro.
+<sup>3</sup> Le persone incaricate di agganciare i carichi devono essere formate su tale lavoro.[^6-1]
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° set. 2023 ([RU 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
 
 #### Art. 7
 
@@ -388,13 +393,9 @@ L’ordinanza del 22 giugno 1951[^22-1] concernente le misure da prendere per pr
 
 **Modifica del diritto vigente**
 
-L’ordinanza del 13 settembre 1963[^23-1] concernente la prevenzione degli infortuni nell’esecuzione di scavi, pozzi e lavori del genere è modificata come segue:
+... [^23-1]
 
-Art. 3 cpv. 1
-
-Abrogato
-
-[^23-1]: [[RU 1963 787](https://fedlex.data.admin.ch/eli/oc/1963/763_759_787), [2000 166](https://fedlex.data.admin.ch/eli/oc/2000/27)art. 23, [2002 3923](https://fedlex.data.admin.ch/eli/oc/2002/610). [RU 2005 4289](https://fedlex.data.admin.ch/eli/oc/2005/560)art. 85 lett. b]
+[^23-1]: La mod. può essere consultata alla [RU 2000 166](https://fedlex.data.admin.ch/eli/oc/2000/27).
 
 #### Art. 24
 

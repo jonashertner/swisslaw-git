@@ -3,11 +3,11 @@ sr: "832.312.15"
 title: Verordnung vom 27. September 1999 über die sichere Verwendung von Kranen (Kranverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/27"
 language: de
-version: 2010-07-01
+version: 2023-09-01
 adopted: 1999-09-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/27/20100701/de/xml/fedlex-data-admin-ch-eli-cc-2000-27-20100701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20100701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/27/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2000-27-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20100701/de"
 
 (Kranverordnung)
 
-vom 27. September 1999 (Stand am 1. Juli 2010)
+vom 27. September 1999 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -36,7 +36,7 @@ verordnet:
 
 <sup>2</sup> Wo diese Verordnung nichts Besonderes bestimmt, gilt die Verordnung vom 19. Dezember 1983[^1-2] über die Unfallverhütung (VUV).
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^1-2]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
 
 #### Art. 2
@@ -55,9 +55,9 @@ Als Krane im Sinne dieser Verordnung gelten Hebegeräte, welche die folgenden Me
 
 Die Krane werden in folgende Kategorien eingeteilt:
 
-- a. Fahrzeugkrane wie Autokrane, Mobilkrane, Raupenkrane, Anhängerkrane, mit Seilwinde ausgerüstete Schienenkrane und Teleskopstapler sowie Lastwagenladekrane mit einem Lastmoment von mehr als 400 000 Nm oder einer Auslegerlänge von mehr als 22 m;
+- a.[^2-2] Fahrzeugkrane wie Autokrane, Mobilkrane, Raupenkrane, Anhängerkrane, Lastwagenladekrane mit einem Lastmoment von mehr als 400 000 Nm oder einer Auslegerlänge von mehr als 22 m, mit Seilwinde ausgerüstete Schienenkrane sowie mit Seilwinde ausgerüstete Teleskopstapler;
 - b. Turmdrehkrane wie Obendreher-, Untendreher- und Wippkrane;
-- c. übrige Krane wie Portalkrane, Brückenkrane, Auslegerkrane, Drehkrane, ohne Seilwinde ausgerüstete Schienenkrane und Teleskopstapler sowie Lastwagenladekrane mit einem Lastmoment von höchstens 400 000 Nm und einer Auslegerlänge von höchstens 22 m.
+- c.[^2-3] übrige Krane wie Portalkrane, Brückenkrane, Auslegerkrane, Drehkrane, Lastwagenladekrane mit einem Lastmoment von höchstens 400 000 Nm und einer Auslegerlänge von höchstens 22 m, ohne Seilwinde ausgerüstete Schienenkrane sowie ohne Seilwinde ausgerüstete Teleskopstapler.
 
 <sup>3</sup>
 
@@ -66,7 +66,9 @@ Nicht als Krane gelten:
 - a. Geräte zum Heben von Personen;
 - b. Baumaschinen, deren Ausrüstungen für Erdbewegungsarbeiten konzipiert sind und die mit einem Lasthaken ausgerüstet sind.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
 
 #### Art. 3
 
@@ -94,12 +96,12 @@ Im Kranbuch sind zudem, in chronologischer Reihenfolge und mit Datum, Name und U
 - d. aussergewöhnliche Ereignisse, welche die Sicherheit des Kranes betreffen;
 - e. der Kraneigentümer.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^3-2]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 [^3-3]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
 [^3-4]: Fassung gemäss Anhang 4 Ziff. II 11 der V vom 19. Mai 2010 über die Produktesicherheit, in Kraft seit 1. Juli 2010 ([AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
-[^3-5]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
-[^3-6]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^3-5]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^3-6]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 ## 2. Kapitel: Verwendung von Kranen
 
@@ -129,7 +131,7 @@ Hebearbeiten mit Kranen dürfen nur von Personen durchgeführt werden, die:
 
 - a. auf Grund ihrer körperlichen und geistigen Verfassung eine sichere Bedienung des Kranes gewährleisten;
 - b. sich am Arbeitsplatz verständigen können;
-- c. zur Bedienung des benützten Kranes angeleitet sind.
+- c.[^5-1] für die Bedienung des benützten Kranes ausgebildet sind.
 
 <sup>2</sup>
 
@@ -137,12 +139,13 @@ Hebearbeiten mit Fahrzeug- und Turmdrehkranen dürfen nur von Personen durchgef�
 
 - a. Kranführerausweis;
 - b. Lernfahrausweis für die Auswahlzeit, wenn der oder die Lernende von einer Person, die seit mindestens drei Jahren einen Kranführerausweis besitzt, oder einem Vorgesetzten mit für diese Aufgabe geeigneter Berufserfahrung begleitet wird;
-- c. Lernfahrausweis für die Übungszeit, wenn der oder die Lernende von einer Person, die seit mindestens drei Jahren einen Kranführerausweis besitzt, oder einem Vorgesetzten mit für diese Aufgabe geeigneter Berufserfahrung beaufsichtigt wird.[^5-1]
+- c. Lernfahrausweis für die Übungszeit, wenn der oder die Lernende von einer Person, die seit mindestens drei Jahren einen Kranführerausweis besitzt, oder einem Vorgesetzten mit für diese Aufgabe geeigneter Berufserfahrung beaufsichtigt wird.[^5-2]
 
-<sup>3</sup> Kein Ausweis ist erforderlich bei Hebearbeiten, die im Rahmen von Grundkursen und Prüfungen durchgeführt werden.[^5-2]
+<sup>3</sup> Kein Ausweis ist erforderlich bei Hebearbeiten, die im Rahmen von Grundkursen und Prüfungen durchgeführt werden.[^5-3]
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
-[^5-2]: Eingefügt durch Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^5-3]: Eingefügt durch Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 #### Art. 6
 
@@ -152,7 +155,9 @@ Hebearbeiten mit Fahrzeug- und Turmdrehkranen dürfen nur von Personen durchgef�
 
 <sup>2</sup> Lastaufnahmeeinrichtungen und Anschlagmittel müssen für den jeweiligen Transport geeignet und in betriebssicherem Zustand sein.
 
-<sup>3</sup> Personen, die Lasten anschlagen, sind zu dieser Arbeit anzuleiten.
+<sup>3</sup> Personen, die Lasten anschlagen, sind für diese Arbeit auszubilden.[^6-1]
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 343](https://fedlex.data.admin.ch/eli/oc/2023/343)).
 
 #### Art. 7
 
@@ -190,7 +195,7 @@ Den Lernfahrausweis erhält, wer:
 
 <sup>4</sup> Der Lernfahrausweis für die Übungszeit kann zudem bei Krankheit, Unfall, Schwangerschaft, Militär-, Zivil- oder Zivilschutzdienst auf schriftliches und begründetes Gesuch hin entsprechend verlängert werden.
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^9-2]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
 
 #### Art. 10
@@ -203,7 +208,7 @@ Der Kranführerausweis der Kategorie A oder B wird an Personen erteilt, die:
 - b. auf Grund der körperlichen und geistigen Verfassung eine sichere Bedienung des Kranes gewährleisten können;
 - c.[^10-1] die Ausbildung zur Kranführerin oder zum Kranführer nach Artikel 12 oder eine gleichwertige Ausbildung mit Erfolg abgeschlossen haben.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 #### Art. 11
 
@@ -228,7 +233,7 @@ Die Ausweise werden von der SUVA entzogen, wenn:
 
 <sup>2</sup> Wer einen Kranführerausweis einer Kategorie besitzt, kann ohne neuerlichen Grundkurs zur Prüfung der anderen Kategorie antreten.
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 #### Art. 13
 
@@ -247,7 +252,7 @@ Die Grundkurse und Prüfungen haben folgende Inhalte:
 
 <sup>2</sup> Die Prüfung kann zweimal wiederholt werden.
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 #### Art. 14
 
@@ -270,7 +275,7 @@ Sie müssen der SUVA ein schriftliches, in einer schweizerischen Amtssprache abg
 
 <sup>4</sup> Die SUVA führt eine öffentliche Liste der anerkannten Grundkurse und Prüfungen.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 ## 4. Kapitel: Kontrolle
 
@@ -335,7 +340,7 @@ Die SUVA kann einer Kranexpertin oder einem Kranexperten die Anerkennung entzieh
 
 Die Koordinationskommission nach Artikel 85 Absatz 2 UVG erlässt Richtlinien nach Artikel 52*a* VUV[^18a-2] zur Umsetzung dieser Verordnung.
 
-[^18a-1]: Eingefügt durch Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^18a-1]: Eingefügt durch Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 [^18a-2]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
 
 ## 5. Kapitel: Rechtsschutz
@@ -358,7 +363,7 @@ Verfügungen der SUVA nach den Artikeln 11, 14 und 16 unterliegen der Beschwerde
 
 <sup>2</sup> Wer vor dem 1. Juli 2000 einen von einer Kantons- oder Gemeindebehörde anerkannten Kranführerausweis oder einen gleichwertigen Ausweis erlangt hat, kann bei der SUVA einen Kranführerausweis der Kategorie A oder B beantragen. Artikel 10 Buchstabe b bleibt vorbehalten.[^20-1]
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 #### Art. 21
 
@@ -374,7 +379,7 @@ Verfügungen der SUVA nach den Artikeln 11, 14 und 16 unterliegen der Beschwerde
 
 Für Raupenkrane, Anhängerkrane, mit Seilwinde ausgerüstete Schienenkrane und Teleskopstapler sowie Lastwagenladekrane mit einem Lastmoment von mehr als 400 000 Nm oder einer Auslegerlänge von mehr als 22 m gelten die Anforderungen nach Artikel 5 Absatz 2 sowie 15 Absatz 3 ab dem 1. Januar 2010.
 
-[^21a-1]: Eingefügt durch Ziff. I der V vom 5. Sept. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^21a-1]: Eingefügt durch Ziff. I der V vom 5. Sept. 2007, in Kraft seit 1. Okt. 2007 ([AS 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
 
 #### Art. 22
 
@@ -382,7 +387,7 @@ Für Raupenkrane, Anhängerkrane, mit Seilwinde ausgerüstete Schienenkrane und 
 
 Die Verordnung vom 22. Juni 1951[^22-1] über die Verhütung von Unfällen bei der Verwendung von Kranen und Hebezeugen wird aufgehoben.
 
-[^22-1]: [[AS 1951 625](https://fedlex.data.admin.ch/eli/oc/1951/625_623_641)[1156](https://fedlex.data.admin.ch/eli/oc/1951/1156_1160_1188)]
+[^22-1]: [[AS 1951 625](https://fedlex.data.admin.ch/eli/oc/1951/625_623_641), [1156](https://fedlex.data.admin.ch/eli/oc/1951/1156_1160_1188)]
 
 #### Art. 23
 
