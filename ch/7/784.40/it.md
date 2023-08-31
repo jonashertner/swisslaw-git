@@ -4,11 +4,11 @@ title: Legge federale del 24 marzo 2006 sulla radiotelevisione (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/it"
 
 (LRTV)
 
-del 24 marzo 2006 (Stato 1° gennaio 2022)
+del 24 marzo 2006 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -86,7 +86,7 @@ Chi intende emettere un programma svizzero deve:
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### Sezione 1*a*:**** Indipendenza dallo Stato
+### Sezione 1*a*: Indipendenza dallo Stato
 
 [^tit2-chap1-sec1a-1]
 
@@ -1031,7 +1031,7 @@ I Cantoni possono vietare l’installazione di antenne esterne in determinate re
 
 <sup>2</sup> L’installazione di un’antenna esterna per la ricezione di programmi supplementari dev’essere eccezionalmente autorizzata se tale ricezione presenta un interesse che prevale sulla necessità di tutelare i siti e il paesaggio.
 
-### Capitolo 2:**** Canone radiotelevisivo
+### Capitolo 2: Canone radiotelevisivo
 
 [^tit4-chap2-1]
 
@@ -1160,7 +1160,7 @@ L’organo di riscossione può emanare decisioni:
 
 **Trattamento dei dati da parte dell’organo di riscossione**
 
-<sup>1</sup> Per accertare l’esenzione dal canone conformemente all’articolo 69*b* capoverso 1 lettera a, l’organo di riscossione può trattare dati che permettono di trarre conclusioni sullo stato di salute di una persona e sulle misure d’aiuto sociale di cui questa beneficia. Il trattamento dei dati e la relativa sorveglianza sono retti dalle disposizioni della legge federale del 19 giugno 1992[^69f-1] sulla protezione dei dati, per quanto applicabili agli organi federali.
+<sup>1</sup> Per accertare l’esenzione dal canone conformemente all’articolo 69*b* capoverso 1 lettera a, l’organo di riscossione può trattare dati che permettono di trarre conclusioni sullo stato di salute di una persona e sulle misure d’aiuto sociale di cui questa beneficia. Il trattamento dei dati è retto dalle disposizioni della legge federale del 25 settembre 2020[^69f-1] sulla protezione dei dati (LPD), per quanto applicabili agli organi federali.[^69f-2]
 
 <sup>2</sup> L’organo di riscossione prende i provvedimenti tecnici e organizzativi necessari per proteggere i dati da un trattamento non autorizzato. Può trattare i dati ottenuti nell’ambito delle attività disciplinate dalla presente legge unicamente ai fini della riscossione e dell’incasso del canone e può comunicarli a terzi unicamente per tali fini.
 
@@ -1169,6 +1169,7 @@ L’organo di riscossione può emanare decisioni:
 <sup>4</sup> L’organo di riscossione trasmette tempestivamente e gratuitamente, in forma elettronica, i dati necessari per la riscossione e l’incasso a un eventuale subentrante. Dopo la trasmissione elimina i dati non più necessari.
 
 [^69f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69f-2]: Nuovo testo del per. giusta l’all. 1 n. II 69 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
 
@@ -1270,7 +1271,7 @@ L’organo di riscossione può utilizzare sistematicamente il numero AVS[^69g-2]
 
 [^70d-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
-### Capitolo 3: Tasse d’uso per la ricezione via etere****
+### Capitolo 3: Tasse d’uso per la ricezione via etere
 
 [^tit4-chap3-1]
 
@@ -1317,7 +1318,7 @@ Essi danno alle emittenti interessate:
 
 [^73-1]: [RS 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
 
-### Capitolo 2: Misure a tutela della pluralità delle opinioni e dell’offerta****
+### Capitolo 2: Misure a tutela della pluralità delle opinioni e dell’offerta
 
 [^tit5-chap2-1]
 
@@ -1508,9 +1509,10 @@ L’Autorità di ricorso non è vincolata ad alcuna istruzione dell’Assemblea 
 
 <sup>1</sup> Le autorità di vigilanza possono trattare dati degni di particolare protezione se è necessario per adempiere i compiti imposti dalla presente legge.
 
-<sup>2</sup> Il trattamento dei dati da parte delle autorità di vigilanza e la vigilanza sul medesimo sono disciplinati dalle disposizioni applicabili agli organi della Confederazione in virtù della legge federale del 19 giugno 1992[^88-1] sulla protezione dei dati.
+<sup>2</sup> Il trattamento dei dati è retto dalle disposizioni della LPD[^88-1], per quanto applicabili agli organi federali.[^88-2]
 
 [^88-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^88-2]: Nuovo testo giusta l’all. 1 n. II 69 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 2: Provvedimenti in caso di violazione del diritto
 
@@ -1949,7 +1951,7 @@ I titolari di una concessione per l’utilizzo di linee sottostanno a:
 
 <sup>3</sup> Gli obblighi che incombono al titolare di una concessione per l’utilizzo di linee secondo il capoverso 2 terminano non appena la diffusione di tali programmi su linea (secondo gli art. 59 e 60) nella sua zona di copertura è stata dichiarata definitivamente valida, ma al più tardi dopo cinque anni.
 
-[^110-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^110-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^110-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 111
@@ -1958,7 +1960,7 @@ I titolari di una concessione per l’utilizzo di linee sottostanno a:
 
 Le concessioni per la ridiffusione senza filo di programmi radiotelevisivi secondo l’articolo 43 LRTV 1991[^111-1] (concessioni di ridiffusione) rimangono valide sino a quando il loro titolare riceve una concessione di radiocomunicazione e di servizi di telecomunicazione secondo gli articoli 4 segg. o gli articoli 22 segg. LTC[^111-2], ma al massimo per due anni dall’entrata in vigore della presente legge.
 
-[^111-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^111-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^111-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 112
@@ -1975,7 +1977,7 @@ La SSR deve attuare la propria struttura organizzativa (art. 31–33) al momento
 
 <sup>2</sup> Se una fattispecie in materia di sorveglianza è intervenuta prima dell’entrata in vigore della presente legge e un procedimento è pendente, è applicabile la LRTV 1991. Se una fattispecie perdura dopo l’entrata in vigore della presente legge e un procedimento è pendente, le infrazioni commesse prima dell’entrata in vigore della presente legge sono giudicate secondo la LRTV 1991. Rimane salva l’applicazione dell’articolo 2 capoverso 2 del Codice penale[^113-2].
 
-[^113-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^113-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^113-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 114
@@ -2006,5 +2008,5 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3,[2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^annexu1-lvlu1-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150).

@@ -4,11 +4,11 @@ title: Lescha federala dals 24 da mars 2006 davart radio e televisiun (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: rm
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LRTV)
 
-dals 24 da mars 2006 (versiun dal 1. da schaner 2022)
+dals 24 da mars 2006 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -88,7 +88,7 @@ Tgi che vul emetter in program svizzer, sto:
 
 [^3-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### 1*a*. secziun**** Independenza dal stadi
+### 1*a*. secziun Independenza dal stadi
 
 [^tit2-chap1-sec1a-1]
 
@@ -1037,7 +1037,7 @@ Ils chantuns pon scumandar en tscherts territoris d’installar antennas exteriu
 
 <sup>2</sup> L’installaziun d’ina antenna exteriura che permetta da recepir ulteriurs programs sto vegnir permessa excepziunalmain, sche l’interess da recepir ils programs predominescha l’interess da la protecziun dal lieu e da la cuntrada.
 
-### 2. chapitel**** Taxa da radio e televisiun
+### 2. chapitel Taxa da radio e televisiun
 
 [^tit4-chap2-1]
 
@@ -1166,7 +1166,7 @@ L’organ d’incassament po decretar disposiziuns:
 
 **Elavuraziun da datas tras l’organ d’incassament**
 
-<sup>1</sup> Per sclerir la dispensaziun da l’obligaziun da pajar la taxa tenor l’artitgel 69*b* alinea 1 litera a po l’organ d’incassament elavurar datas che permettan da trair conclusiuns davart la sanadad d’ina persuna sco er davart mesiras da l’agid social che concernan questa persuna. L’elavuraziun da datas e la surveglianza respectiva sa drizzan tenor las disposiziuns da la Lescha federala dals 19 da zercladur 1992[^69f-1] davart la protecziun da datas che valan per ils organs federals.
+<sup>1</sup> Per sclerir la dispensaziun da l’obligaziun da pajar la taxa tenor l’artitgel 69*b* alinea 1 litera a po l’organ d’incassament elavurar datas che permettan da trair conclusiuns davart la sanadad d’ina persuna sco er davart mesiras da l’agid social che concernan questa persuna. L’elavuraziun da datas sa drizza tenor las disposiziuns da la Lescha federala dals 25 da settember 2020[^69f-1] davart la protecziun da datas (LPD) che valan per ils organs federals.[^69f-2]
 
 <sup>2</sup> L’organ d’incassament prenda las mesiras organisatoricas e tecnicas, per che las datas sajan segiradas cunter elavuraziuns nunautorisadas. Las datas ch’el obtegna en connex cun sia activitad tenor questa lescha dastga el elavurar mo per incassar la taxa, ed el dastga surdar questas datas a terzas persunas mo per quests intents.
 
@@ -1175,6 +1175,7 @@ L’organ d’incassament po decretar disposiziuns:
 <sup>4</sup> L’organ d’incassament sto surdar ad in eventual successur a temp, gratuitamain ed en furma electronica las datas ch’èn necessarias per incassar la taxa. Suenter la surdada sto el destruir las datas che na vegnan betg pli duvradas.
 
 [^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69f-2]: Versiun da la segunda frasa tenor la cifra II 69 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
 
@@ -1276,7 +1277,7 @@ L’organ d’incassament po duvrar sistematicamain il numer da la AVS[^69g-2] t
 
 [^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
-### 3. chapitel Taxas d’utilisaziun per la recepziun terrestra senza fil****
+### 3. chapitel Taxas d’utilisaziun per la recepziun terrestra senza fil
 
 [^tit4-chap3-1]
 
@@ -1323,7 +1324,7 @@ Els dattan als emetturs da programs interessads:
 
 [^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
 
-### 2. chapitel Mesiras cunter la periclitaziun da la diversitad da las opiniuns e da las purschidas****
+### 2. chapitel Mesiras cunter la periclitaziun da la diversitad da las opiniuns e da las purschidas
 
 [^tit5-chap2-1]
 
@@ -1359,7 +1360,7 @@ El po pretender da l’emettur da programs u da l’interpresa pertutgada ch’e
 - b. prendia mesiras cunter in schurnalissem da concern, sco decretar ina charta per garantir la libertad redacziunala;
 - c. adatteschia, sche las mesiras èn evidentamain nunsuffizientas, las structuras da l’interpresa pertutgant sia gestiun e sia organisaziun.
 
-### 3. chapitel Scolaziun e furmaziun supplementara dal persunal da program****
+### 3. chapitel Scolaziun e furmaziun supplementara dal persunal da program
 
 [^tit5-chap3-1]
 
@@ -1512,9 +1513,10 @@ L’autoritad da recurs è independenta e n’è betg liada a directivas da l’
 
 <sup>1</sup> Las autoritads da surveglianza pon elavurar datas ch’èn spezialmain degnas da vegnir protegidas, sche quai è necessari per ademplir las incumbensas surdadas da questa lescha.
 
-<sup>2</sup> L’elavuraziun da datas tras las autoritads da surveglianza e la surveglianza respectiva sa drizzan tenor las disposiziuns da la Lescha federala dals 19 da zercladur 1992[^88-1] davart la protecziun da datas, che valan per ils organs federals.
+<sup>2</sup> L’elavuraziun da datas sa drizza tenor las disposiziuns da la LPD[^88-1] che valan per ils organs federals.[^88-2]
 
 [^88-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^88-2]: Versiun tenor la cifra II 69 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. secziun Mesiras en cas da violaziun dal dretg
 
@@ -1580,7 +1582,7 @@ Cun in import fin 10 000 francs po vegnir engrevgià, tgi che n’ademplescha be
 
 [^90-1]: Abolì tras la cifra I da la LF dals 26 da sett. 2014, cun effect dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### 2. chapitel Surveglianza tras l’autoritad da recurs****
+### 2. chapitel Surveglianza tras l’autoritad da recurs
 
 [^tit7-chap2-1]
 
@@ -1651,7 +1653,7 @@ Il post da mediaziun examinescha la fatschenta ed intermediescha tranter las par
 
 <sup>5</sup> Il post da mediaziun metta a quint ils custs che derivan da la liquidaziun a l’emettur da programs suenter avair tractà la reclamaziun. Sin dumonda dal post da mediaziun u da l’emettur po l’autoritad da recurs – en il cas d’ina reclamaziun da levsenn – adossar ils custs da procedura a quella persuna che ha inoltrà la reclamaziun.
 
-### 2. secziun Procedura da recurs tar l’autoritad da recurs****
+### 2. secziun Procedura da recurs tar l’autoritad da recurs
 
 [^tit7-chap2-sec2-1]
 
@@ -1825,7 +1827,7 @@ L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
 
 **Coordinaziun cun la midada dals 24 da mars 2006[^106-1] da la Lescha da telecommunicaziun dals 30 d’avrigl 1997 e cun la midada dals 24 da mars 2006 da la Lescha davart il Tribunal federal dals 17 da zercladur 2005**
 
-<sup>1.</sup> Independentamain dal fatg, sche la lescha qua avant maun (LRTV) u sche la midada dals 24 da mars 2006 da la Lescha da telecommunicaziun dals 30 d’avrigl 1997*[^106-subdivu1-1]* entra en vigur sco emprim, sa cloma – cun l’entrada en vigur da la lescha che entra pli tard en vigur sco er sche omaduas leschas entran en vigur a medem temp – l’artitgel 56 alinea 4 LRTV*[^106-subdivu1-2]* sco suonda: ...
+<sup>1.</sup> Independentamain dal fatg, sche la lescha qua avant maun (LRTV) u sche la midada dals 24 da mars 2006 da la Lescha da telecommunicaziun dals 30 d’avrigl 1997[^106-subdivu1-1] entra en vigur sco emprim, sa cloma – cun l’entrada en vigur da la lescha che entra pli tard en vigur sco er sche omaduas leschas entran en vigur a medem temp – l’artitgel 56 alinea 4 LRTV[^106-subdivu1-2] sco suonda: ...
 
 [^106-1]: [AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)
 [^106-subdivu1-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
@@ -1835,7 +1837,7 @@ L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
 
 ...
 
-<sup>2.</sup> e 3.*[^106-subdivu2-1]*
+<sup>2.</sup> e 3.[^106-subdivu2-1]
 
 ...
 

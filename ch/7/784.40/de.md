@@ -4,11 +4,11 @@ title: Bundesgesetz vom 24. März 2006 über Radio und Fernsehen (RTVG)
 short: RTVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/de"
 
 (RTVG)
 
-vom 24. März 2006 (Stand am 1. Januar 2022)
+vom 24. März 2006 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -86,7 +86,7 @@ Wer ein schweizerisches Programm veranstalten will, muss:
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### 1*a*. Abschnitt:**** Unabhängigkeit vom Staat
+### 1*a*. Abschnitt: Unabhängigkeit vom Staat
 
 [^tit2-chap1-sec1a-1]
 
@@ -199,7 +199,7 @@ Unzulässig ist Werbung für:
 
 - a. Tabakwaren;
 - b.[^10-1] alkoholische Getränke, die dem Alkoholgesetz vom 21. Juni 1932[^10-2] unterstehen; der Bundesrat erlässt zum Schutz der Gesundheit und der Jugend weitere Einschränkungen;
-- c.[^10-3] ...
+- c.[^10-3] …
 - d. politische Parteien, für Personen, die politische Ämter innehaben oder dafür kandidieren sowie für Themen, welche Gegenstand von Volksabstimmungen sind;
 - e. religiöse Bekenntnisse und die sie vertretenden Institutionen und Personen.
 
@@ -279,7 +279,7 @@ Bei der Regelung der Abweichungen von den Grundsätzen nach den Absätzen 1 und 
 
 <sup>1</sup> In den Radioprogrammen der SRG ist Werbung verboten. Der Bundesrat kann Ausnahmen für die Eigenwerbung vorsehen.
 
-<sup>2</sup> ...[^14-1]
+<sup>2</sup> …[^14-1]
 
 <sup>3</sup> Der Bundesrat kann die Werbung und das Sponsoring in den Radio- und Fernsehprogrammen der SRG und im übrigen publizistischen Angebot, das zur Erfüllung ihres Programmauftrags notwendig ist und aus den Abgaben für Radio und Fernsehen[^14-2] finanziert wird (Art. 25 Abs. 3 Bst. b), ganz oder teilweise einschränken.
 
@@ -621,7 +621,7 @@ Die Konzession legt mindestens fest:
 - b. die geforderten programmlichen Leistungen und die dafür notwendigen betrieblichen und organisatorischen Anforderungen;
 - c. weitere Anforderungen und Auflagen, welche der Konzessionär zu erfüllen hat.
 
-<sup>5</sup> ...[^38-1]
+<sup>5</sup> …[^38-1]
 
 [^38-1]: Aufgehoben durch Ziff. I des BG vom 26. Sept. 2014, mit Wirkung seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -713,7 +713,7 @@ Eine Konzession kann erteilt werden, wenn der Bewerber:
 - d. Gewähr bietet, dass er die arbeitsrechtlichen Vorschriften und die Arbeitsbedingungen der Branche, das anwendbare Recht und namentlich die mit der Konzession verbundenen Pflichten und Auflagen einhält;
 - e. die redaktionelle Tätigkeit von den wirtschaftlichen Aktivitäten trennt;
 - f. eine natürliche Person mit Wohnsitz in der Schweiz oder eine juristische Person mit Sitz in der Schweiz ist;
-- g.[^44-1] ...
+- g.[^44-1] …
 
 <sup>2</sup> Soweit keine internationalen Verpflichtungen entgegenstehen, kann einer ausländisch beherrschten juristischen Person, einer inländischen juristischen Person mit Ausländerbeteiligung oder einer natürlichen Person ohne Schweizer Bürgerrecht die Konzession verweigert werden, falls der entsprechende ausländische Staat nicht in ähnlichem Umfang Gegenrecht gewährt.
 
@@ -829,7 +829,7 @@ Das BAKOM kann die fernmeldetechnische Übertragung eines Programms einschränke
 
 <sup>2</sup> Gegen die Verfügung des BAKOM können sich sowohl der Veranstalter des betreffenden Programms als auch die Fernmeldedienstanbieterin beschweren, welche das Programm verbreitet oder der Verbreitung zuführt.
 
-<sup>3</sup> ...[^52-1]
+<sup>3</sup> …[^52-1]
 
 [^52-1]: Aufgehoben durch Ziff. I des BG vom 26. Sept. 2014, mit Wirkung seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -1035,7 +1035,7 @@ Die Kantone können in bestimmten Gebieten das Errichten von Aussenantennen verb
 
 <sup>2</sup> Das Errichten einer Aussenantenne, mit der weitere Programme empfangen werden können, muss ausnahmsweise bewilligt werden, wenn das Interesse am Empfang der Programme das Interesse am Orts- und Landschaftsschutz überwiegt.
 
-### 2. Kapitel:**** Abgabe für Radio und Fernsehen
+### 2. Kapitel: Abgabe für Radio und Fernsehen
 
 [^tit4-chap2-1]
 
@@ -1164,7 +1164,7 @@ Die Erhebungsstelle kann Verfügungen erlassen:
 
 **Datenbearbeitung durch die Erhebungsstelle**
 
-<sup>1</sup> Die Erhebungsstelle kann für die Abklärung der Abgabenbefreiung nach Artikel 69*b* Absatz 1 Buchstabe a Daten bearbeiten, die Rückschlüsse auf die Gesundheit sowie auf Massnahmen der sozialen Hilfe einer Person zulassen. Die Datenbearbeitung und die Aufsicht darüber richten sich nach den für Bundesorgane geltenden Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^69f-1] über den Datenschutz.
+<sup>1</sup> Die Erhebungsstelle kann für die Abklärung der Abgabenbefreiung nach Artikel 69*b* Absatz 1 Buchstabe a Daten bearbeiten, die Rückschlüsse auf die Gesundheit sowie auf Massnahmen der sozialen Hilfe einer Person zulassen. Die Datenbearbeitung richtet sich nach den für Bundesorgane geltenden Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^69f-1] (DSG).[^69f-2]
 
 <sup>2</sup> Sie trifft die organisatorischen und technischen Massnahmen, damit die Daten gegen unbefugte Bearbeitung gesichert sind. Sie darf Daten, an welche sie im Zusammenhang mit ihrer Tätigkeit nach diesem Gesetz gelangt, nur für die Erhebung und das Inkasso der Abgabe bearbeiten und darf diese Daten nur zu diesen Zwecken an Dritte weitergeben.
 
@@ -1173,6 +1173,7 @@ Die Erhebungsstelle kann Verfügungen erlassen:
 <sup>4</sup> Die Erhebungsstelle muss die für Erhebung und Inkasso notwendigen Daten einer allfälligen Nachfolgerin rechtzeitig und unentgeltlich in elektronischer Form übergeben. Nach erfolgter Übergabe hat sie die nicht mehr benötigten Daten zu vernichten.
 
 [^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69f-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 69 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
 
@@ -1274,7 +1275,7 @@ Die Erhebungsstelle kann die AHV-Nummer[^69g-2] nach Artikel 50*c* des Bundesges
 
 [^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
-### 3. Kapitel: Benützungsgebühren für drahtlos-terrestrischen Empfang****
+### 3. Kapitel: Benützungsgebühren für drahtlos-terrestrischen Empfang
 
 [^tit4-chap3-1]
 
@@ -1282,7 +1283,7 @@ Die Erhebungsstelle kann die AHV-Nummer[^69g-2] nach Artikel 50*c* des Bundesges
 
 #### Art. 71
 
-**...[^71-1]**
+**…[^71-1]**
 
 Die Kantone können Gebühren für den Empfang von Radio- und Fernsehprogrammen vorsehen, welche gestützt auf einen öffentlichen Versorgungsauftrag drahtlos-terrestrisch verbreitet werden.
 
@@ -1321,7 +1322,7 @@ Sie geben den interessierten Programmveranstaltern:
 
 [^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
 
-### 2. Kapitel: Massnahmen gegen die Gefährdung der Meinungs- und Angebotsvielfalt****
+### 2. Kapitel: Massnahmen gegen die Gefährdung der Meinungs- und Angebotsvielfalt
 
 [^tit5-chap2-1]
 
@@ -1357,7 +1358,7 @@ Es kann vom Programmveranstalter oder von der betroffenen Unternehmung verlangen
 - b. Massnahmen gegen Konzernjournalismus ergreift, wie den Erlass eines Redaktionsstatuts zur Absicherung der redaktionellen Freiheit;
 - c. bei offensichtlichem Ungenügen solcher Massnahmen die unternehmerischen und organisatorischen Strukturen des Unternehmens anpasst.
 
-### 3. Kapitel: Aus- und Weiterbildung von Programmschaffenden****
+### 3. Kapitel: Aus- und Weiterbildung von Programmschaffenden
 
 [^tit5-chap3-1]
 
@@ -1510,9 +1511,10 @@ Die Beschwerdeinstanz ist unabhängig und an keine Weisungen von Bundesversammlu
 
 <sup>1</sup> Die Aufsichtsbehörden können besonders schützenswerte Daten bearbeiten, wenn dies für die Erfüllung der durch dieses Gesetz auferlegten Aufgaben notwendig ist.
 
-<sup>2</sup> Die Datenbearbeitung der Aufsichtsbehörden und die Aufsicht darüber richten sich nach den für Bundesorgane geltenden Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^88-1] über den Datenschutz.
+<sup>2</sup> Die Datenbearbeitung richtet sich nach den für Bundesorgane geltenden Bestimmungen des DSG[^88-1].[^88-2]
 
 [^88-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^88-2]: Fassung gemäss Anhang 1 Ziff. II 69 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Abschnitt: Massnahmen bei Rechtsverletzungen
 
@@ -1553,7 +1555,7 @@ Die Aufsichtsbehörde kann mit einem Betrag von bis zu 10 Prozent des in den let
 - e. die Pflicht zur Gewährung des Kurzberichterstattungsrechts bei öffentlichen Ereignissen (Art. 72) nicht einhält;
 - f. den freien Zugang zu Ereignissen von erheblicher gesellschaftlicher Bedeutung (Art. 73) nicht gewährt;
 - g. gegen Massnahmen im Sinn von Artikel 75 (Medienkonzentration) verstösst;
-- h.[^90-1] ...
+- h.[^90-1] …
 
 <sup>2</sup>
 
@@ -1578,7 +1580,7 @@ Mit einem Betrag bis zu 10 000 Franken kann belastet werden, wer einer der folge
 
 [^90-1]: Aufgehoben durch Ziff. I des BG vom 26. Sept. 2014, mit Wirkung seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### 2. Kapitel: Aufsicht durch die Beschwerdeinstanz****
+### 2. Kapitel: Aufsicht durch die Beschwerdeinstanz
 
 [^tit7-chap2-1]
 
@@ -1649,7 +1651,7 @@ Die Ombudsstelle prüft die Angelegenheit und vermittelt zwischen den Beteiligte
 
 <sup>5</sup> Nach Behandlung der Beanstandung stellt die Ombudsstelle dem Programmveranstalter Rechnung. Auf Antrag der Ombudsstelle oder des Veranstalters kann die Beschwerdeinstanz im Falle einer mutwilligen Beanstandung die Verfahrenskosten der Person auferlegen, welche die Beanstandung eingereicht hat.
 
-### 2. Abschnitt: Beschwerdeverfahren bei der Beschwerdeinstanz****
+### 2. Abschnitt: Beschwerdeverfahren bei der Beschwerdeinstanz
 
 [^tit7-chap2-sec2-1]
 
@@ -1771,7 +1773,7 @@ Die zuständige Behörde erhebt Verwaltungsgebühren insbesondere für:
 
 **Widerhandlungen**
 
-<sup>1</sup> ...[^101-1]
+<sup>1</sup> …[^101-1]
 
 <sup>2</sup> Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich einer rechtskräftigen Verfügung der zuständigen Aufsichtsbehörde oder einem rechtskräftigen Entscheid der Rechtsmittelinstanzen zuwiderhandelt.
 
@@ -1787,7 +1789,7 @@ Die zuständige Behörde erhebt Verwaltungsgebühren insbesondere für:
 
 <sup>1</sup> Für die Verfolgung und Beurteilung strafbarer Handlungen ist das BAKOM zuständig. Das Bundesgesetz vom 22. März 1974[^102-1] über das Verwaltungsstrafrecht ist anwendbar.
 
-<sup>2</sup> ...[^102-2]
+<sup>2</sup> …[^102-2]
 
 [^102-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^102-2]: Aufgehoben durch Ziff. I des BG vom 26. Sept. 2014, mit Wirkung seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
@@ -1823,7 +1825,7 @@ Die Aufhebung und Änderung bisherigen Rechts ist im Anhang geregelt.
 
 **Koordination mit der Änderung vom 24. März 2006[^106-1] des Fernmeldegesetzes vom 30. April 1997 und mit der Änderung vom 24. März 2006 des Bundesgerichtsgesetzes vom 17. Juni 2005**
 
-<sup>1.</sup> Unabhängig davon, ob das vorliegende Gesetz (RTVG) oder die Änderung vom 24. März 2006 des Fernmeldegesetzes vom 30. April 1997*[^106-subdivu1-1]* zuerst in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes oder bei gleichzeitigem Inkrafttreten Artikel 56 Absatz 4 RTVG[^106-subdivu1-2] wie folgt:
+<sup>1.</sup> Unabhängig davon, ob das vorliegende Gesetz (RTVG) oder die Änderung vom 24. März 2006 des Fernmeldegesetzes vom 30. April 1997[^106-subdivu1-1] zuerst in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes oder bei gleichzeitigem Inkrafttreten Artikel 56 Absatz 4 RTVG[^106-subdivu1-2] wie folgt:
 
 [^106-1]: [AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)
 [^106-subdivu1-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
@@ -1831,11 +1833,11 @@ Die Aufhebung und Änderung bisherigen Rechts ist im Anhang geregelt.
 
 ### Art. 56 Abs. 4
 
-...
+…
 
-<sup>2.</sup> und 3.*[^106-subdivu2-1]*
+<sup>2.</sup> und 3.[^106-subdivu2-1]
 
-...
+…
 
 [^106-subdivu2-1]: Die Änderungen können unter [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)konsultiert werden.
 
@@ -1953,7 +1955,7 @@ Leitungskonzessionäre unterliegen weiterhin:
 
 <sup>3</sup> Die Verpflichtungen eines Leitungskonzessionärs nach Absatz 2 enden, sobald die Verbreitung der dort erfassten Programme über Leitungen (nach den Art. 59 und 60) in dessen Bedienungsgebiet rechtskräftig geklärt ist, spätestens aber nach fünf Jahren.
 
-[^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 [^110-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 111
@@ -1962,7 +1964,7 @@ Leitungskonzessionäre unterliegen weiterhin:
 
 Bestehende Konzessionen für die drahtlose Weiterverbreitung von Radio- und Fernsehprogrammen nach Artikel 43 RTVG 1991[^111-1] (Umsetzerkonzessionen) behalten ihre Gültigkeit bis deren Inhaber eine Funk- und Fernmeldedienstekonzession nach den Artikeln 4 ff. beziehungsweise nach den Artikeln 22 ff. FMG[^111-2] erhält, längstens jedoch bis zwei Jahre nach Inkrafttreten des Gesetzes.
 
-[^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 [^111-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 112
@@ -1979,7 +1981,7 @@ Die SRG hat die Umsetzung der Organisationsstruktur (Art. 31–33) auf den Zeitp
 
 <sup>2</sup> Hat sich ein aufsichtsrechtlicher Sachverhalt vor Inkrafttreten dieses Gesetzes ereignet und ist ein Verfahren hängig, so ist das RTVG 1991 anwendbar. Dauert ein Sachverhalt nach Inkrafttreten dieses Gesetzes an und ist ein Verfahren hängig, so beurteilen sich diejenigen Verstösse, die sich vor dem Inkrafttreten dieses Gesetzes ereignet haben, nach RTVG 1991. Vorbehalten bleibt die Anwendung von Artikel 2 Absatz 2 des Strafgesetzbuchs[^113-2].
 
-[^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 [^113-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 114
@@ -2008,7 +2010,7 @@ II
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^annexu1-lvlu1-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)konsultiert werden.

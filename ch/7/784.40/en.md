@@ -4,11 +4,11 @@ title: Federal Act of 24 March 2006 on Radio and Television (RTVA)
 short: RTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: en
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RTVA)
 
-of 24 March 2006 (Status as of 1 January 2022)
+of 24 March 2006 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -88,7 +88,7 @@ Any person wishing to broadcast a Swiss programme service must:
 
 [^3-1]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### Section 1*a***** Independence from the State
+### Section 1*a* Independence from the State
 
 [^tit2-chap1-sec1a-1]
 
@@ -773,7 +773,7 @@ A licence may be awarded if the candidate:
 
 **Amendment of the licence**
 
-<sup>1</sup> <sup>DETEC may amend individual provisions of the licence before its term expires if the actual or legal conditions have changed and the amendment is nece</sup><sup>s</sup><sup>sary to safeguard important public interests.</sup>
+<sup>1</sup> <sup>DETEC may amend individual provisions of the licence before its term expires if the actual or legal conditions have changed and the amendment is necessary to safeguard important public interests.</sup>
 
 <sup>2</sup> The licensee is appropriately compensated if the amendment substantially restricts the rights granted with the licence. It receives no compensation if the amendment is based on important national interests or on a change in international obligations.
 
@@ -887,7 +887,7 @@ For frequencies or frequency blocks which are used in accordance with the nation
 
 <sup>3</sup> For the period from the submission of the application to the legally-enforceable decision, it may order transmission on an interim basis and fix the financial conditions.
 
-<sup>4</sup> The procedure and the obligation to provide information are based, *mutatis muta**n**dis*, on the provisions of the TCA on the granting of access by dominant providers (Art. 11, 11*a* and 11*b* TCA[^56-1]).[^56-2]
+<sup>4</sup> The procedure and the obligation to provide information are based, *mutatis mutandis*, on the provisions of the TCA on the granting of access by dominant providers (Art. 11, 11*a* and 11*b* TCA[^56-1]).[^56-2]
 
 [^56-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 [^56-2]: See also Art. 106 No 1 below.
@@ -1038,7 +1038,7 @@ The cantons may in specific areas prohibit the erection of outdoor antennas if:
 
 <sup>2</sup> The erection of an outdoor antenna for the reception of additional programme services must be approved by way of exception if the interest in receiving the programme services overrides the interest in protecting the local and national landscape.
 
-### Chapter 2**** Radio and Television Fee
+### Chapter 2 Radio and Television Fee
 
 [^tit4-chap2-1]
 
@@ -1167,7 +1167,7 @@ The collection agency may issue administrative rulings:
 
 **Data processing by the collection agency**
 
-<sup>1</sup> In order to assess eligibility for an exemption from the fee under Article 69*b* paragraph 1 letter, the collection agency may process data that allows conclusions to be drawn as to a person’s health or social assistance claims. The data processing and the supervision thereof are governed by provisions of the Federal Act of 19 June 1992[^69f-1] on Data Protection that apply to federal bodies.
+<sup>1</sup> In order to assess eligibility for an exemption from the fee under Article 69*b* paragraph 1 letter, the collection agency may process data that allows conclusions to be drawn as to a person’s health or social assistance claims. The data processing is governed by provisions of the Data Protection Act of 25 September 2020[^69f-1] (FADP) that apply to federal bodies.[^69f-2]
 
 <sup>2</sup> The collection agency shall take the organisational and technical measures required to secure the data against unauthorised processing. It may only process data that it obtained in connection with its activities under this Act for the purpose of collecting and enforcing payment of the fee and may only pass on the data to third parties for these purposes.
 
@@ -1176,6 +1176,7 @@ The collection agency may issue administrative rulings:
 <sup>4</sup> The collection agency must pass on the data required for collecting and enforcing payment to any successor agency in good time and free of charge. Once the data has been passed on, it must permanently delete the data that it no longer requires.
 
 [^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69f-2]: Second sentence amended by Annex 1 No II 69 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
 
@@ -1277,7 +1278,7 @@ The collection agency may systematically use the OASI number[^69g-2] in terms of
 
 [^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
-### Chapter 3 Fees for Wireless Terrestrial Reception****
+### Chapter 3 Fees for Wireless Terrestrial Reception
 
 [^tit4-chap3-1]
 
@@ -1324,7 +1325,7 @@ They shall give interested broadcasters:
 
 [^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
 
-### Chapter 2 Measures to prevent Risks to the Diversity of Opinion and Programming****
+### Chapter 2 Measures to prevent Risks to the Diversity of Opinion and Programming
 
 [^tit5-chap2-1]
 
@@ -1360,7 +1361,7 @@ It may demand that the broadcaster or the undertaking concerned:
 - b. takes measures against corporate journalism, such as issuing editorial statutes to ensure editorial freedom;
 - c. should such measures prove to be clearly inadequate, adapts the business and organisational structure of the undertaking.
 
-### Chapter 3 Basic and Continuing Education and Training of Programme Services Producers****
+### Chapter 3 Basic and Continuing Education and Training of Programme Services Producers
 
 [^tit5-chap3-1]
 
@@ -1471,7 +1472,7 @@ The Complaints Authority is independent and is not bound by any directives from 
 
 <sup>3</sup> The Complaints Authority has its own secretariat. It regulates the duties in the regulations in accordance with paragraph 2. The conditions of service of the secretariat personnel are governed by the legislation applicable to federal government employees.
 
-[^85-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)No II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)No II 1]. See now: Art. 8*a* ff. of the Government and Administration Organisation Ordinance of 25 November 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^85-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)No II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)No II 1]. See now: Art. 8*a* ff. of the Government and Administration Organisation Ordinance of 25 November 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
 
 ## Title 7 Supervision and Legal Remedies
 
@@ -1513,9 +1514,10 @@ The Complaints Authority is independent and is not bound by any directives from 
 
 <sup>1</sup> The supervisory authorities may process sensitive personal data if this is necessary for the performance of the duties imposed by this Act.
 
-<sup>2</sup> Data processing by the supervisory authorities and supervision thereof are governed by the provisions of the Federal Act of 19 June 1992[^88-1] on Data Protection which apply to federal bodies.
+<sup>2</sup> Data processing is governed by the provisions of the FADP[^88-1] which apply to federal bodies.[^88-2]
 
 [^88-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^88-2]: Amended by Annex 1 No II 69 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 2 Measures in the event of Infringements
 
@@ -1581,7 +1583,7 @@ Any person who fails to comply with, or belated or incompletely complies with on
 
 [^90-1]: Repealed by No I of the Federal Act of 26 Sept. 2014, with effect from 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### Chapter 2 Supervision by the Complaints Authority****
+### Chapter 2 Supervision by the Complaints Authority
 
 [^tit7-chap2-1]
 
@@ -1652,7 +1654,7 @@ The ombudsman service examines the case and mediates between the parties concern
 
 <sup>5</sup> The ombudsman service bills the broadcaster after the report has been dealt with. In the event of a vexatious report, at the request of the ombudsman service or the broadcaster the Complaints Authority may award procedural costs against the person submitting the report.
 
-### Section 2 Complaints Procedure of the Complaints Authority****
+### Section 2 Complaints Procedure of the Complaints Authority
 
 [^tit7-chap2-sec2-1]
 
@@ -1826,11 +1828,11 @@ The repeal and amendment of existing legislation is regulated in the Annex.
 
 **Coordination with the Amendment of 24 March 2006[^106-1] of the Telecommunications Act of 30 April 1997 and with the Amendment of 24 March 2006 of the Federal Supreme Court Act of 17 June 2005**
 
-<sup>1.</sup> Irrespective of whether this Act (RTVA) or the amendment of 24 March 2006 to the Telecommunications Act of 30 April 1997*[^106-2]* comes into force first, Article 56 paragraph 4 RTVA[^106-3] reads on the entry into force of the act which comes into force later or on simultaneous entry into force of both acts as follows:
+<sup>1.</sup> Irrespective of whether this Act (RTVA) or the amendment of 24 March 2006 to the Telecommunications Act of 30 April 1997[^106-2] comes into force first, Article 56 paragraph 4 RTVA[^106-3] reads on the entry into force of the act which comes into force later or on simultaneous entry into force of both acts as follows:
 
 ...
 
-<sup>2.</sup> and 3.*[^106-4]*
+<sup>2.</sup> and 3.[^106-4]
 
 ...
 
@@ -1857,7 +1859,7 @@ The repeal and amendment of existing legislation is regulated in the Annex.
 
 <sup>6</sup> The provisions of Article 22 and Articles 44-50 regarding other licences with a performance mandate which continue to be valid or which have been extended apply *mutatis mutandis*.
 
-[^107-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^107-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 
 #### Art. 108
 
@@ -1865,7 +1867,7 @@ The repeal and amendment of existing legislation is regulated in the Annex.
 
 The Federal Council may extend the directives for transmitter network planning in terms of Article 8 paragraph 1 RTVA 1991[^108-1] by a maximum of five years from the commencement of this Act or amend them after consultation with the Communications Commission.
 
-[^108-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^108-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 
 #### Art. 109
 
@@ -1879,8 +1881,8 @@ The Federal Council may extend the directives for transmitter network planning i
 
 <sup>4</sup> The transitional arrangements in paragraph 1 end at the time when the fee-sharing licences in accordance with Articles 38–42 are awarded, but at the latest five years after the commencement of this Act.
 
-[^109-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
-[^109-2]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
+[^109-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^109-2]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903); [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687); [2006 4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
 #### Art. 109a
 
@@ -1953,7 +1955,7 @@ Wire licences continue to be subject to:
 
 <sup>3</sup> The obligations of a wire licensee in accordance with paragraph 2 end as soon as transmission by wire of the programme services covered therein (in accordance with Articles 59 and 60) in their area of operation is clarified with legal force, but at the latest after five years.
 
-[^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 [^110-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 111
@@ -1962,7 +1964,7 @@ Wire licences continue to be subject to:
 
 Existing licences for the wireless retransmission of radio and television programme services in accordance with Article 43 RTVA 1991[^111-1] (relay licences) retain their validity until their owner obtains a radio and telecommunications services licence in accordance with Articles 4 ff. or Articles 22 ff. TCA[^111-2] respectively, but at the latest two years after the commencement of the act.
 
-[^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 [^111-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 112
@@ -1979,7 +1981,7 @@ The SRG SSR shall implement the organisational structure (Art. 31–33) at the t
 
 <sup>2</sup> If a case relating to supervisory law has arisen before the commencement of this Act and if a procedure is pending, RTVA 1991 is applicable. If a case continues after the commencement of this Act and if a procedure is pending, the violations which occurred before the commencement of this Act shall be assessed on the basis of RTVA 1991. Application of Article 2 paragraph 2 of the Criminal Code[^113-2] is reserved.
 
-[^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 [^113-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 114
@@ -2010,5 +2012,5 @@ The following federal acts are amended as follows:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^annexu1-lvlu1-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150).

@@ -4,20 +4,20 @@ title: Loi fédérale du 24 mars 2006 sur la radio et la télévision (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-150-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la radio et la télévision**<sup>∗</sup>**
+# Loi fédérale sur la radio et la télévision<sup></sup>
 
 (LRTV)[^t-1]
 
-du 24 mars 2006 (Etat le 1<sup>er</sup> janvier 2022)
+du 24 mars 2006 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -88,7 +88,7 @@ Quiconque veut diffuser un programme suisse doit:
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### Section 1*a***** Indépendance vis-à-vis de l’État
+### Section 1*a* Indépendance vis-à-vis de l’État
 
 [^tit2-chap1-sec1a-1]
 
@@ -1038,7 +1038,7 @@ Les cantons peuvent interdire l’installation d’antennes extérieures dans ce
 
 <sup>2</sup> L’installation d’antennes extérieures permettant de recevoir des programmes supplémentaires est autorisée à titre exceptionnel si la réception de ces programmes présente un intérêt qui prime la nécessité de protéger le paysage et les sites.
 
-### Chapitre 2**** Redevance de radio-télévision
+### Chapitre 2 Redevance de radio-télévision
 
 [^tit4-chap2-1]
 
@@ -1167,7 +1167,7 @@ L’organe de perception est habilité à rendre des décisions:
 
 **Traitement des données par l’organe de perception**
 
-<sup>1</sup> Pour établir l’exonération de la redevance selon l’art. 69*b*, al. 1, let. a, l’organe de perception peut traiter des données qui permettent de tirer des conclusions sur la santé d’une personne ou sur les mesures d’aide sociale accordées à celle-ci. Le traitement des données et sa surveillance sont régis par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^69f-1] applicables aux organes fédéraux.
+<sup>1</sup> Pour établir l’exonération de la redevance selon l’art. 69*b*, al. 1, let. a, l’organe de perception peut traiter des données qui permettent de tirer des conclusions sur la santé d’une personne ou sur les mesures d’aide sociale accordées à celle-ci. Le traitement des données est régi par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^69f-1] applicables aux organes fédéraux.[^69f-2]
 
 <sup>2</sup> L’organe de perception prend les mesures organisationnelles et techniques nécessaires pour protéger les données contre tout traitement non autorisé. Il ne peut traiter les données qu’il obtient dans le cadre des activités régies par la présente loi qu’en vue de la perception et de l’encaissement de la redevance et peut communiquer ces données à des tiers dans ce but uniquement.
 
@@ -1176,6 +1176,7 @@ L’organe de perception est habilité à rendre des décisions:
 <sup>4</sup> L’organe de perception doit transmettre à un éventuel successeur, en temps voulu et gratuitement, sous forme électronique, les données nécessaires à la perception et à l’encaissement. Après la transmission, il supprime les données devenues inutiles.
 
 [^69f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69f-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 69 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
 
@@ -1277,7 +1278,7 @@ L’organe de perception peut utiliser systématiquement le numéro AVS[^69g-2] 
 
 [^70d-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
-### Chapitre 3 Redevance pour la réception par voie hertzienne terrestre****
+### Chapitre 3 Redevance pour la réception par voie hertzienne terrestre
 
 [^tit4-chap3-1]
 
@@ -1324,7 +1325,7 @@ Ils donnent au diffuseur intéressé:
 
 [^73-1]: [RS 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
 
-### Chapitre 2 Mesures contre la mise en péril de la diversité de l’offre et des opinions****
+### Chapitre 2 Mesures contre la mise en péril de la diversité de l’offre et des opinions
 
 [^tit5-chap2-1]
 
@@ -1360,7 +1361,7 @@ Il peut exiger que le diffuseur ou l’entreprise concernée:
 - b. prenne des mesures contre le journalisme de groupes de médias telles que l’adoption d’une charte assurant la liberté rédactionnelle;
 - c. adapte, au cas où ces mesures sont manifestement insuffisantes, les structures de l’entreprise quant à sa gestion et son organisation.
 
-### Chapitre 3 Formation et formation continue des professionnels****
+### Chapitre 3 Formation et formation continue des professionnels
 
 [^tit5-chap3-1]
 
@@ -1513,9 +1514,10 @@ L’autorité de plainte est autonome et n’est soumise à aucune directive de 
 
 <sup>1</sup> L’autorité de surveillance peut traiter des données sensibles lorsque cela est nécessaire à l’accomplissement des tâches qui lui incombent en vertu de la présente loi.
 
-<sup>2</sup> Le traitement des données et sa surveillance sont réglés par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^88-1] applicables aux organes fédéraux.
+<sup>2</sup> Le traitement des données est régi par les dispositions de la LPD[^88-1] applicables aux organes fédéraux.[^88-2]
 
 [^88-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^88-2]: Nouvelle teneur selon l’annexe 1 ch. II 69 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 2 Mesures en cas de violation du droit
 
@@ -1581,7 +1583,7 @@ Peut être tenu au paiement d’un montant de 10 000 francs au plus quiconque ne
 
 [^90-1]: Abrogée selon le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
-### Chapitre 2 Surveillance exercée par l’autorité de plainte****
+### Chapitre 2 Surveillance exercée par l’autorité de plainte
 
 [^tit7-chap2-1]
 
@@ -1652,7 +1654,7 @@ L’organe de médiation examine l’affaire et agit comme médiateur entre les 
 
 <sup>5</sup> L’organe de médiation facture les frais découlant du traitement de la réclamation au diffuseur. À la demande de l’organe de médiation ou du diffuseur, l’autorité de plainte peut mettre les frais de procédure à la charge de l’auteur si la réclamation est téméraire.
 
-### Section 2 Procédure pour le dépôt d’une plainte auprès de l’autorité de plainte****
+### Section 2 Procédure pour le dépôt d’une plainte auprès de l’autorité de plainte
 
 [^tit7-chap2-sec2-1]
 
@@ -1826,9 +1828,9 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 **Coordination avec la modification du 24 mars 2006[^106-1] de la loi fédérale du 30 avril 1997 sur les télécommunications et avec la modification du 24 mars 2006 de la loi du 17 juin 2005 sur le Tribunal fédéral**
 
-<sup>1.</sup> Quel que soit l’ordre dans lequel la présente loi (LRTV) et la modification du 24 mars 2006 de la loi fédérale du 30 avril 1997 sur les télécommunications*[^106-2]* (LTC) entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois ou à leur entrée en vigueur simultanée, l’art. 56, al. 4, LRTV*[^106-3]*, a la teneur suivante:
+<sup>1.</sup> Quel que soit l’ordre dans lequel la présente loi (LRTV) et la modification du 24 mars 2006 de la loi fédérale du 30 avril 1997 sur les télécommunications[^106-2] (LTC) entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois ou à leur entrée en vigueur simultanée, l’art. 56, al. 4, LRTV[^106-3], a la teneur suivante:
 
-<sup>2.</sup> et 3....*[^106-4]*
+<sup>2.</sup> et 3....[^106-4]
 
 [^106-1]: [FF 2006 3439](https://fedlex.data.admin.ch/eli/fga/2006/376)
 [^106-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
