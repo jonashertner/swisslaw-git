@@ -3,11 +3,11 @@ sr: "0.632.311.911.1"
 title: Landwirtschaftsabkommen vom 24. Juni 2013 zwischen der Schweizerischen Eidgenossenschaft und Bosnien und Herzegowina (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/20"
 language: de
-version: 2015-01-01
+version: 2023-09-01
 adopted: 2013-06-24
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/20/20150101/de/xml/fedlex-data-admin-ch-eli-cc-2015-20-20150101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/20/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-20-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20150101/de"
 
 AS **2015** 85; BBl **2014** 1185 1309
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 Abgeschlossen in Trondheim am 24. Juni 2013
 
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 17. März 2014[^t-2]
 
 In Kraft getreten am 1. Januar 2015
 
-(Stand am 1. Januar 2015)
+(Stand am 1. September 2023)
 
 [^t-1]: Übersetzung des englischen Originaltextes.
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 17. März 2014 ([AS 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
@@ -58,11 +58,11 @@ Dieses Abkommen findet Anwendung auf den Handel zwischen den Vertragsparteien mi
 
 #### Art. 3
 
-**Ursprungsregeln und administrative Zusammenarbeit**
+**Ursprungsregeln und administrative Zusammenarbeit**[^3-1]
 
-<sup>1.</sup> Vorbehältlich der Ausnahme nach Absatz 2 findet Artikel 8 des Freihandelsabkommens *mut**a**tis mutandis* Anwendung auf dieses Abkommen.
+Anhang IX des Freihandelsabkommens findet auf dieses Abkommen sinngemäss Anwendung.
 
-<sup>2.</sup> Für die Zwecke dieses Abkommens ist zwischen den Vertragsparteien ausschliesslich die bilaterale Kumulation zulässig.
+[^3-1]: Fassung gemäss Anhang des Abk. vom 7. Juli 2022, von der Bundesversammlung genehmigt am 18. März 2021, in Kraft für die schweiz seit 1. Sept. 2023 ([AS 2023 577](https://fedlex.data.admin.ch/eli/oc/2023/577); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)Art. 1 Abs. 2 Bst. b Ziff. 3; [BBl 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 4
 
@@ -453,7 +453,7 @@ Anhang 1
 <tr><td></td><td>– – – – vom 15. Februar bis 20. Dezember:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0705.1991</td><td>– – – – – innerhalb des Zollkontin- gents (K-Nr. 15) einge- führt</td><td>5.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– Zichorien:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– – Witloof-Zichorie (*Cichorium intybus var. foliosum*):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td>– – Witloof-Zichorie (*Cichorium* *intybus var. foliosum*):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0705.2110</td><td>– – – vom 21. Mai bis 30. September</td><td>3.50</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – vom 1. Oktober bis 20. Mai:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0705.2111</td><td>– – – – innerhalb des Zollkontin- gents (K-Nr. 15) eingeführt</td><td>3.50</td><td colspan="2"></td><td></td><td></td></tr>
@@ -580,13 +580,13 @@ Anhang 1
 <tr><td></td><td>– Pilze und Trüffeln:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0709.5100</td><td>– – Pilze der Gattung *Agaricus*</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0709.5900</td><td>– – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– Früchte der Gattungen *Caps**i**cum* oder *Pimenta*:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td>– Früchte der Gattungen *Capsicum* oder *Pimenta*:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – Peperoni:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0709.6011</td><td>– – – vom 1. November bis 31. März</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0709.6012</td><td>– – – vom 1. April bis 31. Oktober</td><td>5.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0709.6090</td><td>– – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– Spinat, Neuseelandspinat (*Tetrag**o**nia*) und Gartenmelde:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– – Spinat, Neuseelandspinat (*Tetr**a**gonia*):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td>– Spinat, Neuseelandspinat (*Tetragonia*) und Gartenmelde:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td>– – Spinat, Neuseelandspinat (*Tetragonia*):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0709.7010</td><td>– – – vom 16. Dezember bis 14. Februar</td><td>5.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – vom 15. Februar bis 15. Dezember:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0709.7011</td><td>– – – – innerhalb des Zollkontin- gents (K-Nr. 15) eingeführt</td><td>5.00</td><td colspan="2"></td><td></td><td></td></tr>
@@ -620,10 +620,10 @@ Anhang 1
 <tr><td>0711.9020</td><td>– – Kapern</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0712</td><td>Gemüse, getrocknet, auch in Stücke oder Scheiben geschnitten, oder anders zerkleinert oder in Pulverform, aber nicht weiter zubereitet</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0712.2000</td><td>– Speisezwiebeln</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– Pilze, Judasohren (*Auricularia* spp.), Zitterlinge, Silberohren (*Tr**e**mella* spp.) und Trüffeln:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td>– Pilze, Judasohren (*Auricularia* spp.), Zitterlinge, Silberohren (*Tremella* spp.) und Trüffeln:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0712.3100</td><td>– – Pilze der Gattung *Agaricus*</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0712.3200</td><td>– – Judasohren (*Auricularia* spp.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0712.3300</td><td>– – Zitterlinge, Silberohren (*Tr**e**mella* spp.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0712.3300</td><td>– – Zitterlinge, Silberohren (*Tremella* spp.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0712.3900</td><td>– – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– andere Gemüse; Gemüse- mischungen:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – Kartoffeln, auch in Stücke oder Scheiben geschnitten, aber nicht weiter zubereitet:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -643,7 +643,7 @@ Anhang 1
 <tr><td></td><td>– – andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0713.2099</td><td>– – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– Bohnen (*Vigna* spp., *Phaseolus* spp.):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– – Bohnen der Arten *Vigna mu**n**go* (L.) Hepper oder *Vigna radiata* (L.) Wilczek:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td>– – Bohnen der Arten *Vigna mungo* (L.) Hepper oder *Vigna radiata* (L.) Wilczek:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – ganz, unbearbeitet:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0713.3119</td><td>– – – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -653,7 +653,7 @@ Anhang 1
 <tr><td>0713.3219</td><td>– – – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0713.3299</td><td>– – – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– – Gartenbohnen (*Phaseolus* *vulg**a**ris*):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td>– – Gartenbohnen (*Phaseolus* *vulgaris*):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – ganz, unbearbeitet:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0713.3319</td><td>– – – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -668,10 +668,10 @@ Anhang 1
 <tr><td>0713.4019</td><td>– – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0713.4099</td><td>– – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– Puffbohnen, Saubohnen oder Dicke Bohnen (*Vicia faba var. major*) und Pferdebohnen oder Ackerbohnen (*Vicia faba var. equ**i**na*, *Vicia faba var. minor*):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td>– Puffbohnen, Saubohnen oder Dicke Bohnen (*Vicia faba var. major*) und Pferdebohnen oder Ackerbohnen (*Vicia faba var. equina*, *Vicia faba* *var. minor*):</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – ganz, unbearbeitet:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – zur Aussaat:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0713.5015</td><td>– – – – Ackerbohnen (*Vicia faba var. minor*)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0713.5015</td><td>– – – – Ackerbohnen (*Vicia faba* *var. minor*)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0713.5018</td><td>– – – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0713.5019</td><td>– – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -713,7 +713,7 @@ Anhang 1
 <tr><td>0802.3190</td><td>– – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – ohne Schale:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0802.3290</td><td>– – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0802.4000</td><td>– Esskastanien und Maronen (*Cast**a**nea* spp.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0802.4000</td><td>– Esskastanien und Maronen (*Castanea* spp.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0802.5000</td><td>– Pistazien</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0802.6000</td><td>– Macadamianüsse</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -731,7 +731,7 @@ Anhang 1
 <tr><td>0805.1000</td><td>– Orangen</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0805.2000</td><td>– Mandarinen (einschliesslich Tangerinen und Satsumas); Clementinen, Wilkings und ähnliche Kreuzungen von Zitrus- früchten</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0805.4000</td><td>– Pampelmusen und Grapefruits</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0805.5000</td><td>– Zitronen (*Citrus limon*, *Citrus limonum*) und Limetten (*Citrus aurantifolia*, *Citrus latifolia*)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0805.5000</td><td>– Zitronen (*Citrus limon*, *Citrus* *limonum*) und Limetten (*Citrus* *aurantifolia*, *Citrus latifolia*)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0805.9000</td><td>– andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0806</td><td>Weintrauben, frisch oder getrocknet</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– frisch:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -813,7 +813,7 @@ Anhang 1
 <tr><td></td><td>– – – vom 1. Juli bis 31. Oktober:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0810.2021</td><td>– – – – innerhalb des Zollkontin- gents (K-Nr. 19) eingeführt</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0810.2030</td><td>– – Maulbeeren und Loganbeeren</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0810.4000</td><td>– Preiselbeeren, Heidelbeeren und andere Früchte der Gattung *Vacc**i**nium*</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0810.4000</td><td>– Preiselbeeren, Heidelbeeren und andere Früchte der Gattung *Vaccinium*</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0810.5000</td><td>– Kiwi</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0810.6000</td><td>– Durian</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -865,7 +865,7 @@ Anhang 1
 <tr><td>0905.0000</td><td>Vanille</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0906</td><td>Zimt und Zimtblüten</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– weder zerrieben noch in Pulverform:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0906.1100</td><td>– – Cinnamon (*Cinnamomum zeyl**a**nicum* Blume)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0906.1100</td><td>– – Cinnamon (*Cinnamomum* *zeylanicum* Blume)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0906.1900</td><td>– – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0906.2000</td><td>– zerrieben oder in Pulverform</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0907</td><td>Gewürznelken (Mutternelken, Nelkenstiele)</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -997,8 +997,8 @@ Anhang 1
 <tr><td>1209.2100</td><td>– – von Luzerne</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>1209.2200</td><td>– – von Klee (Trifolium spp.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>1209.2300</td><td>– – von Schwingel</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>1209.2400</td><td>– – von Wiesenrispengras (*Poa prate**n**sis* L.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>1209.2500</td><td>– – von Weidelgras (*Lolium muti-* *florum Lam*., *Lolium p**e**renne* L.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>1209.2400</td><td>– – von Wiesenrispengras (*Poa pratensis* L.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>1209.2500</td><td>– – von Weidelgras (*Lolium muti-* *florum Lam*., *Lolium perenne* L.)</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – von Wicken und Lupinen:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>1209.2919</td><td>– – – – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
@@ -1019,7 +1019,7 @@ Anhang 1
 <tr><td>1211.3000</td><td>– Cocablätter</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>1211.4000</td><td>– Mohnstroh</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>1211.9000</td><td>– andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>1212</td><td>Johannisbrot, Algen, Zuckerrüben und Zuckerrohr, frisch, gekühlt, gefroren oder getrocknet, auch in Pulverform; Fruchtkerne und Fruchtsteine und andere pflanzliche Waren (einschliesslich Zichorienwurzeln der Varietät *Cichor**i**um intybus sativum*, nicht geröstet), der hauptsächlich zur menschlichen Ernährung dienenden Art, anderweit weder genannt noch inbegriffen</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>1212</td><td>Johannisbrot, Algen, Zuckerrüben und Zuckerrohr, frisch, gekühlt, gefroren oder getrocknet, auch in Pulverform; Fruchtkerne und Fruchtsteine und andere pflanzliche Waren (einschliesslich Zichorienwurzeln der Varietät *Cichorium intybus sativum*, nicht geröstet), der hauptsächlich zur menschlichen Ernährung dienenden Art, anderweit weder genannt noch inbegriffen</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– Algen:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>1212.2090</td><td>– – andere</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– andere:</td><td></td><td colspan="2"></td><td></td><td></td></tr>

@@ -3,11 +3,11 @@ sr: "0.632.311.911.1"
 title: Accordo agricolo del 24 giugno 2013 tra la Svizzera e la Bosnia ed Erzegovina (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/20"
 language: it
-version: 2015-01-01
+version: 2023-09-01
 adopted: 2013-06-24
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/20/20150101/it/xml/fedlex-data-admin-ch-eli-cc-2015-20-20150101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/20/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-20-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,18 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20150101/it"
 
 RU **2015** 115; FF **2014** 1099 1219
 
-Traduzione*[^t-1]*
+Traduzione
 
-Firmato a Trondheim il 24 giugno 2013
+Firmato a Trondheim il 24 giugno 2013 Approvato dall’Assemblea federale il 17 marzo 2014[^t-1] Entrato in vigore il 1° gennaio 2015
 
-Approvato dall’Assemblea federale il 17 marzo 2014[^t-2]
+(Stato 1° settembre 2023)
 
-Entrato in vigore il 1° gennaio 2015
-
-(Stato 1° gennaio 2015)
-
-[^t-1]: Dall’originale inglese.
-[^t-2]: Art. 1 cpv. 1 lett. b del DF del 17 mar. 2014 ([RU 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
+[^t-1]: Art. 1 cpv. 1 lett. b del DF del 17 mar. 2014 ([RU 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
 
 #### Art. 1
 
@@ -58,11 +53,11 @@ Il presente Accordo si applica agli scambi commerciali tra le Parti relativi ai 
 
 #### Art. 3
 
-**Regole d’origine e cooperazione amministrativa**
+**[Regole di origine e cooperazione amministrativa](https://www.admin.ch/opc/it/classified-compilation/20112326/index.html)**[^3-1]
 
-<sup>1.</sup> L’articolo 8 dell’Accordo di libero scambio si applica *mutatis mutandis* al presente Accordo, fatto salvo quanto disposto nel paragrafo 2.
+L’allegato IX dell’Accordo di libero scambio si applica *mutatis mutandis* al presente Accordo.
 
-<sup>2.</sup> Ai fini del presente Accordo è consentito unicamente il cumulo bilaterale tra le Parti.
+[^3-1]: Nuovo testo giusta il Prot. del 7 lug. 2022, approivato dall’AF il 18 mar. 2021, in vigore per la Svizzera dal 1° set. 2023 ([RU 2023 578](https://fedlex.data.admin.ch/eli/oc/2023/578); [2021 664](https://fedlex.data.admin.ch/eli/oc/2021/664)art. 1 cpv. 2 lett. e n. 2; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 4
 
@@ -82,7 +77,7 @@ Le Parti si adoperano per promuovere una progressiva liberalizzazione del commer
 
 Le Parti riaffermano i loro diritti e obblighi derivanti dall’Accordo sull’agricoltura dell’OMC[^6-1], fatte salve le sovvenzioni all’esportazione di cui ai paragrafi 1 e 2 dell’articolo 2 del presente Accordo.
 
-[^6-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), allegato 1A.3
+[^6-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.3
 
 #### Art. 7
 

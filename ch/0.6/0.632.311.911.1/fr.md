@@ -3,11 +3,11 @@ sr: "0.632.311.911.1"
 title: Accord agricole du 24 juin 2013 entre la Confédération suisse et la Bosnie et Herzégovine (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/20"
 language: fr
-version: 2015-01-01
+version: 2023-09-01
 adopted: 2013-06-24
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/20/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-20-20150101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/20/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-20-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,30 +16,25 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/20/20150101/fr"
 
 RO **2015** 115; FF **2014** 1137 1291
 
-Traduction*[^t-1]*
+Traduction
 
-Signé à Trondheim, le 24 juin 2013
+Signé à Trondheim, le 24 juin 2013 Approuvé par l’Assemblée fédérale le 17 mars 2014[^t-1] Entré en vigueur le 1<sup>er</sup> janvier 2015
 
-Approuvé par l’Assemblée fédérale le 17 mars 2014[^t-2]
+(État le 1<sup>er</sup> septembre 2023)
 
-Entré en vigueur le 1<sup>er</sup> janvier 2015
-
-(Etat le 1<sup>er</sup> janvier 2015)
-
-[^t-1]: Texte original anglais.
-[^t-2]: Art. 1 al. 1 let. b de l’AF du 17 mars 2014 ([RO 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
+[^t-1]: Art. 1 al. 1 let. b de l’AF du 17 mars 2014 ([RO 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
 
 #### Art. 1
 
 **Portée et champ d’application**
 
-<sup>1.</sup> Le présent Accord concernant le commerce de produits agricoles entre la Confédération suisse (ci-après dénommée «Suisse») et la Bosnie et Herzégovine est conclu en complément à l’Accord de libre-échange entre les Etats de l’AELE et la Bosnie et Herzégovine[^1-1] (ci-après dénommé «accord de libre-échange»), qui a été signé le 24 juin 2013, en particulier en vertu de l’art. 7, al. 2, dudit accord.
+<sup>1.</sup> Le présent Accord concernant le commerce de produits agricoles entre la Confédération suisse (ci-après dénommée «Suisse») et la Bosnie et Herzégovine est conclu en complément à l’Accord de libre-échange entre les États de l’AELE et la Bosnie et Herzégovine[^1-1] (ci-après dénommé «accord de libre-échange»), qui a été signé le 24 juin 2013, en particulier en vertu de l’art. 7, al. 2, dudit accord.
 
 <sup>2.</sup>
 
 Le présent Accord s’applique aux produits agricoles suivants faisant l’objet d’un commerce entre les Parties:
 
-- (a) les produits relevant des chap. 1 à 24 du Système harmonisé de désignation et de codification des marchandises[^1-2] (ci-après dénommé «SH») et qui ne figurent pas dans les Annexes II ou III de l’accord de libre-échange; et
+- (a) les produits relevant des chap. 1 à 24 du Système harmonisé de désignation et de codification des marchandises[^1-2] (ci-après dénommé «SH») et qui ne figurent pas dans les Annexes II ou III de l’accord de libre-échange, et
 - (b) les produits figurant dans l’Annexe I visée à l’art. 7, al. 1, let. a, de l’accord de libre-échange.
 
 <sup>3.</sup> Il s’applique par analogie à la Principauté de Liechtenstein tant que le Traité d’union douanière du 29 mars 1923 entre la Suisse et la Principauté de Liechtenstein[^1-3] reste en vigueur.
@@ -58,11 +53,11 @@ Le présent Accord s’applique aux produits agricoles suivants faisant l’obje
 
 #### Art. 3
 
-**Règles d’origine et coopération administrative**
+**[Règles d’origine et coopération administrative](https://www.admin.ch/opc/fr/classified-compilation/20112326/index.html)**[^3-1]
 
-<sup>1.</sup> L’art. 8 de l’accord de libre-échange s’applique *mutatis mutandis* au présent Accord, sous réserve de l’al. 2.
+L’annexe IX de l’accord de libre-échange s’applique *mutatis mutandis* au présent accord.
 
-<sup>2.</sup> Aux fins du présent Accord, seul le cumul bilatéral entre les Parties est autorisé.
+[^3-1]: Nouvelle teneur selon l’annexe du Prot. du 7 juil. 2022, approuvé par l’Ass. féd. le 18 mars 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 578](https://fedlex.data.admin.ch/eli/oc/2023/578); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)art. 1, al. 2, let. e, n<sup>o</sup> 2; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 4
 
@@ -74,7 +69,7 @@ Les Parties examinent les difficultés susceptibles d’émaner de leurs échang
 
 **Libéralisation accrue des échanges**
 
-Les Parties s’engagent à poursuivre leurs efforts en vue d’une libéralisation accrue de leurs échanges de produits agricoles, tout en tenant compte de la structure de leurs relations commerciales dans ce domaine, de la sensibilité particulière de ces produits et du développement de leurs politiques agricoles respectives. A la demande de l’une des Parties, celles-ci peuvent se consulter sur la façon d’atteindre cet objectif, y compris en améliorant l’accès aux marchés par la réduction ou la suppression de droits de douane sur les produits agricoles et par l’extension du champ d’application du présent Accord à d’autres produits agricoles.
+Les Parties s’engagent à poursuivre leurs efforts en vue d’une libéralisation accrue de leurs échanges de produits agricoles, tout en tenant compte de la structure de leurs relations commerciales dans ce domaine, de la sensibilité particulière de ces produits et du développement de leurs politiques agricoles respectives. À la demande de l’une des Parties, celles-ci peuvent se consulter sur la façon d’atteindre cet objectif, y compris en améliorant l’accès aux marchés par la réduction ou la suppression de droits de douane sur les produits agricoles et par l’extension du champ d’application du présent Accord à d’autres produits agricoles.
 
 #### Art. 6
 
@@ -88,7 +83,7 @@ Les Parties confirment leurs droits et obligations au titre de l’Accord de l�
 
 **Dispositions de l’accord de libre-échange**
 
-Les dispositions concernant l’application territoriale (art. 4), les relations avec d’autres accords internationaux (art. 3) les gouvernements centraux, régionaux et locaux (art. 5), la transparence (art. 6), les restrictions quantitatives (art. 11), l’imposition et les réglementations intérieures (art. 12), les mesures sanitaires et phytosanitaires (art. 13), les réglementations techniques (art. 14), la facilitation des échanges (art. 15), les entreprises commerciales d’Etat (art. 17), les mesures antidumping (art. 20), les mesures de sauvegarde bilatérales (art. 22), les exceptions (art. 24), les paiements pour transactions courantes (art. 29), les difficultés de balance des paiements (art. 31), l’exécution des obligations (art. 47), les amendements (art. 50), ainsi que le chap. 8, qui porte sur le règlement des différends, de l’accord de libre-échange s’appliquent au présent Accord *mutatis mutandis*.
+Les dispositions concernant l’application territoriale (art. 4), les relations avec d’autres accords internationaux (art. 3) les gouvernements centraux, régionaux et locaux (art. 5), la transparence (art. 6), les restrictions quantitatives (art. 11), l’imposition et les réglementations intérieures (art. 12), les mesures sanitaires et phytosanitaires (art. 13), les réglementations techniques (art. 14), la facilitation des échanges (art. 15), les entreprises commerciales d’État (art. 17), les mesures antidumping (art. 20), les mesures de sauvegarde bilatérales (art. 22), les exceptions (art. 24), les paiements pour transactions courantes (art. 29), les difficultés de balance des paiements (art. 31), l’exécution des obligations (art. 47), les amendements (art. 50), ainsi que le chap. 8, qui porte sur le règlement des différends, de l’accord de libre-échange s’appliquent au présent Accord *mutatis mutandis*.
 
 #### Art. 8
 
@@ -100,10 +95,10 @@ Les dispositions concernant l’application territoriale (art. 4), les relations
 
 Une mesure de sauvegarde n’est pas appliquée pour une durée supérieure à un an et peut consister:
 
-- (a) à relever le taux du droit de douane applicable au produit en question jusqu’à un niveau ne dépassant pas le taux NPF appliqué au moment où la mesure est prise; ou
+- (a) à relever le taux du droit de douane applicable au produit en question jusqu’à un niveau ne dépassant pas le taux NPF appliqué au moment où la mesure est prise, ou
 - (b) à instaurer un contingent tarifaire pour les échanges préférentiels, fondé sur les volumes échangés au cours des cinq années précédentes, à l’exclusion de l’accroissement du volume d’importation ayant motivé l’adoption de la mesure de sauvegarde.
 
-<sup>3.</sup> La Partie qui entend prendre une mesure de sauvegarde relative à un produit agricole le notifie immédiatement, et dans tous les cas avant de prendre la mesure, à l’autre Partie. Dans les 60 jours suivant la notification, la Partie ayant adressé la notification fournit toutes les informations pertinentes concernant la mesure de sauvegarde. A la demande de la Partie visée par la mesure, la Partie émettrice entre en consultations avec la Partie visée au sujet des conditions d’application de la mesure.
+<sup>3.</sup> La Partie qui entend prendre une mesure de sauvegarde relative à un produit agricole le notifie immédiatement, et dans tous les cas avant de prendre la mesure, à l’autre Partie. Dans les 60 jours suivant la notification, la Partie ayant adressé la notification fournit toutes les informations pertinentes concernant la mesure de sauvegarde. À la demande de la Partie visée par la mesure, la Partie émettrice entre en consultations avec la Partie visée au sujet des conditions d’application de la mesure.
 
 <sup>4.</sup> Dans un délai de cinq ans à compter de la date d’entrée en vigueur du présent Accord, les Parties réexaminent le présent article et déterminent si des modifications sont requises.
 
@@ -852,7 +847,7 @@ Annexe 1
 <tr><td></td><td>– – autres:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – fruits à noyau, autres, entiers:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0813.4089</td><td>– – – – autres</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0814</td><td>Ecorces d’agrumes ou de melons (y compris de pastèques), fraîches, congelées, présentées dans l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation ou bien séchées</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0814</td><td>Écorces d’agrumes ou de melons (y compris de pastèques), fraîches, congelées, présentées dans l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation ou bien séchées</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0814.0000</td><td>Écorces d’agrumes ou de melons (y compris de pastèques), fraîches, congelées, présentées dans l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation ou bien séchées</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>09</td><td>Café, thé, maté et épices</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0904</td><td>Poivre (du genre Piper); piments du genre Capsicum ou du genre Pimenta, séchés ou broyés ou pulvérisés</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -1447,7 +1442,7 @@ Annexe 2
 <tr><td colspan="2">0201 20 50 10</td><td colspan="2">– – – Calves</td><td colspan="2">10</td><td>2.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 10 00 00</td><td colspan="2">– Carcases and half−carcases</td><td colspan="2">10</td><td>1.8</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 10 00 20</td><td colspan="2">– – Bullcalves</td><td colspan="2">10</td><td>1.8</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
-<tr><td colspan="2">0202 20 10 00</td><td colspan="2">– – 'Compensated' quarters</td><td colspan="2">10</td><td>1.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
+<tr><td colspan="2">0202 20 10 00</td><td colspan="2">– – ’Compensated’ quarters</td><td colspan="2">10</td><td>1.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 20 30 00</td><td colspan="2">– – Unseparated or separated forequarters</td><td colspan="2">10</td><td>1.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 20 30 10</td><td colspan="2">– – – Calves</td><td colspan="2">10</td><td>1.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 20 30 20</td><td colspan="2">– – – Bullcalves</td><td colspan="2">10</td><td>1.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
@@ -1456,7 +1451,7 @@ Annexe 2
 <tr><td colspan="2">0202 20 50 20</td><td colspan="2">– – – Bullcalves</td><td colspan="2">10</td><td>2</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 20 90 10</td><td colspan="2">– – – Calves</td><td colspan="2">10</td><td>2</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 20 90 20</td><td colspan="2">– – – Bullcalves</td><td colspan="2">10</td><td>1.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
-<tr><td colspan="2">0202 30 10 00</td><td colspan="2">– – Forequarters, whole or cut into a maximum of five pieces, each quarter being in a single block; 'compensated' quarters in two blocks, one of which contains the forequarter, whole or cut into a maximum of five pieces, and the other, the hindquarter, ex</td><td colspan="2">10</td><td>1.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
+<tr><td colspan="2">0202 30 10 00</td><td colspan="2">– – Forequarters, whole or cut into a maximum of five pieces, each quarter being in a single block; ’compensated’ quarters in two blocks, one of which contains the forequarter, whole or cut into a maximum of five pieces, and the other, the hindquarter, ex</td><td colspan="2">10</td><td>1.5</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 30 10 10</td><td colspan="2">– – – Calves</td><td colspan="2">10</td><td>2</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 30 50 10</td><td colspan="2">– – – Calves</td><td colspan="2">10</td><td>2</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0202 30 50 20</td><td colspan="2">– – – Bullcalves</td><td colspan="2">10</td><td>2</td><td colspan="4">KM/kg</td><td colspan="2">10 % reduction</td><td colspan="2"></td></tr>
@@ -1573,10 +1568,10 @@ Annexe 2
 <tr><td colspan="2">0406 90 13 00</td><td colspan="2">– – – Emmentaler</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 15 00</td><td colspan="2">– – – Gruyère, Sbrinz</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 17 00</td><td colspan="2">– – – Bergkäse, Appenzell</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
-<tr><td colspan="2">0406 90 18 00</td><td colspan="2">– – – Fromage fribourgeois, Vacherin Mont d'Or and Tête de Moine</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
+<tr><td colspan="2">0406 90 18 00</td><td colspan="2">– – – Fromage fribourgeois, Vacherin Mont d’Or and Tête de Moine</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 19 00</td><td colspan="2">– – – Glarus herb cheese (known as Schabziger) made from skimmed milk and mixed with finely ground herbs</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 21 00</td><td colspan="2">– – – Cheddar</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
-<tr><td colspan="2">0406 90 23 00</td><td colspan="2">– – – Edam</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
+<tr><td colspan="2">0406 90 23 00</td><td colspan="2">– – – Édam</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 25 00</td><td colspan="2">– – – Tilsit</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 27 00</td><td colspan="2">– – – Butterkäse</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 29 00</td><td colspan="2">– – – Kashkaval</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
@@ -1584,7 +1579,7 @@ Annexe 2
 <tr><td colspan="2">0406 90 35 00</td><td colspan="2">– – – Kefalo−Tyri</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 37 00</td><td colspan="2">– – – Finlandia</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 39 00</td><td colspan="2">– – – Jarlsberg</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
-<tr><td colspan="2">0406 90 50 00</td><td colspan="2">– – – – Cheese of sheep's milk or buffalo milk in containers containing brine, or in sheepskin or goatskin bottles</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
+<tr><td colspan="2">0406 90 50 00</td><td colspan="2">– – – – Cheese of sheep’s milk or buffalo milk in containers containing brine, or in sheepskin or goatskin bottles</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 61 00</td><td colspan="2">– – – – – – – Grana Padano, Parmigiano Reggiano</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 63 00</td><td colspan="2">– – – – – – – Fiore Sardo, Pecorino</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0406 90 69 00</td><td colspan="2">– – – – – – – Other</td><td colspan="2">10</td><td>0.8</td><td colspan="4">KM/kg</td><td colspan="2">100 % reduction</td><td colspan="2"></td></tr>
