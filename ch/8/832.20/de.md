@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. März 1981 über die Unfallversicherung (UVG)
 short: UVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230101/de"
 
 (UVG)
 
-vom 20. März 1981 (Stand am 1. Januar 2023)
+vom 20. März 1981 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1652,7 +1652,9 @@ In Abweichung von Artikel 49 ATSG[^94-2] haben die Versicherer nach Artikel 68 f
 
 **Bearbeiten von Personendaten**[^96-1]
 
-Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:[^96-2]
+<sup>1</sup>
+
+Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:[^96-2]
 
 - a. die Prämien zu berechnen und zu erheben;
 - b. Leistungsansprüche zu beurteilen sowie Leistungen zu berechnen, zu gewähren und mit Leistungen anderer Sozialversicherungen zu koordinieren;
@@ -1662,9 +1664,13 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - f. Statistiken zu führen;
 - g.[^96-3] die AHV-Nummer zuzuweisen oder zu verifizieren.
 
+<sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus zum Profiling, einschliesslich zum Profiling mit hohem Risiko, nach dem Datenschutzgesetz vom 25. September 2020[^96-4] (DSG) und zum Erlass von automatisierten Einzelentscheidungen nach Artikel 21 DSG befugt.[^96-5]
+
 [^96-1]: Ursprünglich Art. 97*a.* Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^96-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96-2]: Fassung gemäss Anhang 1 Ziff. II 83 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96-3]: Eingefügt durch Anhang Ziff. 12 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^96-5]: Eingefügt durch Anhang 1 Ziff. II 83 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 97
 

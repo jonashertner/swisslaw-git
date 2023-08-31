@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 1981 sull'assicurazione contro gli infortuni
 short: LAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230101/it"
 
 (LAINF)
 
-del 20 marzo 1981 (Stato 1° gennaio 2023)
+del 20 marzo 1981 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1653,7 +1653,9 @@ In deroga all’articolo 49 LPGA[^94-2], gli assicuratori di cui all’articolo 
 
 **Trattamento di dati personali**[^96-1]
 
-Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati degni di particolare protezione e profili della personalità, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:[^96-2]
+<sup>1</sup>
+
+Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati personali degni di particolare protezione, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:[^96-2]
 
 - a. calcolare e riscuotere i premi;
 - b. stabilire il diritto alle prestazioni, nonché per calcolarle, versarle e coordinarle con quelle di altre assicurazioni sociali;
@@ -1663,9 +1665,13 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 - f. allestire statistiche;
 - g.[^96-3] assegnare o verificare il numero AVS.
 
+<sup>2</sup> Per adempiere tali compiti possono inoltre effettuare profilazioni, incluse quelle a rischio elevato, ai sensi della legge federale del 25 settembre 2020[^96-4] sulla protezione dei dati (LPD) ed emanare decisioni individuali automatizzate ai sensi dell’articolo 21 LPD.[^96-5]
+
 [^96-1]: Originario: art. 97a. Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^96-2]: Nuovo testo giusta l’all. n. 12 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96-2]: Nuovo testo giusta l’all. 1 n. II 83 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96-3]: Introdotta dall’all. n. 12 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^96-5]: Introdotto dall’all. 1 n. II 83 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 97
 
@@ -1985,7 +1991,7 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 
 - 2\. Sono parimenti abrogate le disposizioni cantonali sull’assicurazione obbligatoria contro gli infortuni.
 
-[^116-1]: [CS **8** 273; CS **2** 193 in fine n. II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]
+[^116-1]: CS **8** 273; CS **2** 193 in fine n. II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]
 [^116-2]: [CS **8** 310; CS **3** 499 in fine, disp. fin. mod. 20 dic. 1968 cpv. 1 n. II]
 [^116-3]: [[RU 1963 283](https://fedlex.data.admin.ch/eli/oc/1963/272_268_283)]
 
