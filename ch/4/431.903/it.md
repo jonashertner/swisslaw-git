@@ -4,20 +4,20 @@ title: Ordinanza del 30 giugno 1993 sul Registro delle imprese e degli stabilime
 short: ORIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: it
-version: 2022-04-01
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20220401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul Registro delle imprese e degli stabilimenti
 
-(ORIS)**[^t-1]**
+(ORIS)[^t-1]
 
-del 30 giugno 1993 (Stato 1° aprile 2022) (Stato 1° aprile 2022)
+del 30 giugno 1993 (Stato 1° settembre 2023)
 
 [^t-1]: Introdotta dal n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -70,7 +70,7 @@ Ai sensi della presente ordinanza s’intende per:
 
 [^2a-1]: Introdotto dal n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
-## Sezione 2: Contenuto, accesso alle fonti dei dati ed elaborazione dei dati****
+## Sezione 2: Contenuto, accesso alle fonti dei dati ed elaborazione dei dati
 
 [^sec2-1]
 
@@ -289,10 +289,11 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 <sup>1</sup> I dati di base delle imprese possono essere resi noti a tutte le unità amministrative della Confederazione, dei Cantoni e dei Comuni nonché a privati, sempre che i dati siano necessari per l’adempimento dei rispettivi compiti legali.
 
-<sup>2</sup> L’elaborazione dei dati è disciplinata dalle disposizioni della legge federale del 19 giugno 1992[^9a-2] sulla protezione dei dati.
+<sup>2</sup> L’elaborazione dei dati è disciplinata dalle disposizioni della legge federale del 25 settembre 2020[^9a-2] sulla protezione dei dati (LPD).[^9a-3]
 
 [^9a-1]: Introdotto dal n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^9a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9a-3]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -302,10 +303,11 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 <sup>2</sup> I dati sono resi noti su richiesta, attraverso un’interfaccia.
 
-<sup>3</sup> L’elaborazione dei dati è disciplinata dalle disposizioni della legge federale del 19 giugno 1992[^10-2] sulla protezione dei dati.
+<sup>3</sup> L’elaborazione dei dati è disciplinata dalle disposizioni della LPD[^10-2].[^10-3]
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-3]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 
@@ -345,24 +347,32 @@ I dati del RIS che consentono di trarre conclusioni sulla situazione di determin
 
 **Diritti delle persone interessate**
 
-<sup>1</sup> I diritti delle persone interessate, in particolare il diritto di informazione, di rettificazione e di cancellazione, sono disciplinati dalle disposizioni della legge federale del 19 giugno 1992[^14-1] sulla protezione dei dati.
+<sup>1</sup> I diritti degli interessati, segnatamente il diritto di accesso, rettifica e distruzione, sono retti dalle disposizioni della LPD[^14-1].[^14-2]
 
 <sup>2</sup> I dati inesatti devono essere rettificati.
 
 [^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-2]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
 
 **Sicurezza dei dati**[^15-1]
 
-La sicurezza dei dati è garantita:
+<sup>1</sup>
 
-- a. dall’ordinanza del 14 giugno 1993[^15-2] relativa alla legge sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^15-3] sui ciber-rischi.
+La sicurezza dei dati è disciplinata:[^15-2]
+
+- a.[^15-3] dall’ordinanza del 31 agosto 2022[^15-4] sulla protezione dei dati (OPDa);
+- b. dall’ordinanza del 27 maggio 2020[^15-5] sui ciber-rischi.
+
+<sup>2</sup> La sicurezza dei dati di persone giuridiche è disciplinata per analogia dall’OPDa.[^15-6]
 
 [^15-1]: Nuovo testo giusta l’all. n. 26 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-2]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-3]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^15-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-6]: Introdotto dall’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
@@ -386,6 +396,6 @@ L’ordinanza del 12 dicembre 1988[^17-1] sulla tenuta di un registro delle impr
 
 La presente ordinanza entra in vigore il 1° agosto 1993.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 [^t-2]: Abrogato dal n. II dell’O del 4 mar. 2022, con effetto dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).

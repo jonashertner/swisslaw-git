@@ -4,20 +4,20 @@ title: Verordnung vom 30. Juni 1993 über das Betriebs- und Unternehmensregister
 short: BURV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: de
-version: 2022-04-01
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20220401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Betriebs- und Unternehmensregister
 
-(BURV)**[^t-1]**
+(BURV)[^t-1]
 
-vom 30. Juni 1993 (Stand am 1. April 2022)
+vom 30. Juni 1993 (Stand am 1. September 2023)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -70,7 +70,7 @@ In dieser Verordnung bedeuten:
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
-## 2. Abschnitt: Inhalt, Zugriff auf die Datenquellen und Bearbeitung der Daten****
+## 2. Abschnitt: Inhalt, Zugriff auf die Datenquellen und Bearbeitung der Daten
 
 [^sec2-1]
 
@@ -279,10 +279,11 @@ Der Zugriff des BFS auf die Datenquellen nach Artikel 4 erfolgt über eine Schni
 
 <sup>1</sup> Unternehmensstammdaten dürfen allen Verwaltungseinheiten von Bund, Kantonen und Gemeinden sowie Privaten bekannt gegeben werden, soweit die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigt werden.
 
-<sup>2</sup> Für das Bearbeiten der Daten gelten die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^9a-2] über den Datenschutz.
+<sup>2</sup> Für das Bearbeiten der Daten gelten die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^9a-2] (DSG).[^9a-3]
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^9a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9a-3]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -292,10 +293,11 @@ Der Zugriff des BFS auf die Datenquellen nach Artikel 4 erfolgt über eine Schni
 
 <sup>2</sup> Die Bekanntgabe der Daten erfolgt auf Gesuch hin über eine Schnittstelle.
 
-<sup>3</sup> Für das Bearbeiten der Daten gelten die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^10-2] über den Datenschutz.
+<sup>3</sup> Für das Bearbeiten der Daten gelten die Bestimmungen des DSG[^10-2].[^10-3]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^10-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-3]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 
@@ -335,24 +337,31 @@ Aus dem BUR dürfen keine Daten veröffentlicht werden, die Rückschlüsse auf d
 
 **Rechte der betroffenen Personen**
 
-<sup>1</sup> Die Rechte der Betroffenen, insbesondere das Auskunfts-, Berichtigungs- und Löschungsrecht, richten sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^14-1] über den Datenschutz.
+<sup>1</sup> Die Rechte der Betroffenen, insbesondere das Auskunfts-, Berichtigungs- und Vernichtungsrecht, richten sich nach den Bestimmungen des DSG[^14-1].[^14-2]
 
 <sup>2</sup> Unrichtige Daten sind zu berichtigen.
 
 [^14-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-2]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
 
 **Datensicherheit**[^15-1]
 
+<sup>1</sup>
+
 Für die Datensicherheit gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^15-2] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^15-3].
+- a.[^15-2] die Datenschutzverordnung vom 31. August 2022[^15-3] (DSV);
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^15-4].
+
+<sup>2</sup> Für die Sicherheit von Daten juristischer Personen gilt die DSV sinngemäss.[^15-5]
 
 [^15-1]: Fassung gemäss Anhang Ziff. 26 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-2]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^15-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-5]: Eingefügt durch Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
@@ -376,6 +385,6 @@ Die Verordnung vom 12. Dezember 1988[^17-1] über die Führung eines Betriebs- u
 
 Diese Verordnung tritt am 1. August 1993 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. II der V vom 4. März 2022, mit Wirkung seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).

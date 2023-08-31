@@ -4,11 +4,11 @@ title: Ordonnance du 30 juin 1993 sur le Registre des entreprises et des établi
 short: OREE
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: fr
-version: 2022-04-01
+version: 2023-09-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20220401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20220401/fr"
 
 (OREE[^t-1])
 
-du 30 juin 1993 (Etat le 1<sup>er</sup> avril 2022)
+du 30 juin 1993 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Introduite par le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -70,7 +70,7 @@ Au sens de la présente ordonnance, on entend par:
 
 [^2a-1]: Introduit par le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
-## Section 2 Contenu, accès aux sources de données et traitement des données****
+## Section 2 Contenu, accès aux sources de données et traitement des données
 
 [^sec2-1]
 
@@ -98,7 +98,7 @@ Le REE contient les données suivantes:
 - j. le capital social des sociétés anonymes;
 - k.[^3-4] pour les entreprises soumises à la loi du 29 avril 1998 sur l’agriculture[^3-5], à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^3-6], à la loi du 16 décembre 2005 sur la protection des animaux[^3-7] ou à la loi du 9 octobre 1992 sur les denrées alimentaires[^3-8]: le nom et l’adresse de l’entreprise, le nom et l’adresse de l’exploitant ou de l’éleveur, ainsi que le nom, la profession et l’année de naissance de la personne responsable;
 - k<sup>bis</sup>.[^3-9] pour les exploitations agricoles: en plus des données mentionnées à la let. k, la structure de l’exploitation;
-- l.[^3-10] ...
+- l.[^3-10] …
 - m. un numéro d’enregistrement non significatif (numéro ENTID) de l’unité entreprise;
 - n. un numéro d’enregistrement de référence non significatif (numéro REF‑ENT);
 - o. les codes du statut d’activité;
@@ -223,7 +223,7 @@ L’OFS accède aux sources de données visées à l’art. 4 via une interface 
 
 <sup>1</sup> L’OFS[^6-1] reprend les données, les enregistre dans le REE et les modifie, après avoir effectué préalablement les vérifications nécessaires.[^6-2]
 
-<sup>2</sup> ...[^6-3]
+<sup>2</sup> …[^6-3]
 
 [^6-1]: Nouvelle expression selon le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Il a été tenu compte de cette mod. dans tout le texte.
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
@@ -265,7 +265,7 @@ L’OFS accède aux sources de données visées à l’art. 4 via une interface 
 
 <sup>3</sup> Le format, la confidentialité, la sécurité et la transmission des données que l’OFS communique à Eurostat sont régis par les art. 11, al. 3, 12 et 13 du règlement (CE) n<sup>o</sup> 177/2008 et par les règlements (CE) n<sup>o</sup> 192/2009[^9-4] et (UE) n<sup>o</sup> 1097/2010[^9-5].
 
-<sup>4</sup> et <sup>5</sup> ...[^9-6]
+<sup>4</sup> et <sup>5</sup> …[^9-6]
 
 [^9-1]: Nouvelle teneur selon le ch. 1 de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
@@ -280,10 +280,11 @@ L’OFS accède aux sources de données visées à l’art. 4 via une interface 
 
 <sup>1</sup> L’OFS peut communiquer des données de référence des entreprises à toutes les unités administratives de la Confédération, des cantons et des communes ainsi qu’à des particuliers, pour autant que ces données leur soient indispensables dans l’accomplissement de leurs tâches légales.
 
-<sup>2</sup> Le traitement des données est régi par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^9a-2].
+<sup>2</sup> Le traitement des données est régi par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^9a-2].[^9a-3]
 
 [^9a-1]: Introduit par le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^9a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9a-3]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -293,10 +294,11 @@ L’OFS accède aux sources de données visées à l’art. 4 via une interface 
 
 <sup>2</sup> L’OFS communique les données sur demande et via une interface.
 
-<sup>3</sup> Le traitement des données est régi par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^10-2].
+<sup>3</sup> Le traitement des données est régi par les dispositions de la LPD[^10-2].[^10-3]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-3]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 
@@ -336,24 +338,31 @@ Les données contenues dans le REE qui permettent de déduire des faits relatifs
 
 **Droits des personnes concernées**
 
-<sup>1</sup> Les droits des personnes concernées, en particulier le droit d’accès aux données, de rectification et de destruction de celles-ci, sont réglés par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^14-1].
+<sup>1</sup> Les droits des personnes concernées, en particulier le droit d’accès aux données, de rectification et de destruction de celles-ci, sont réglés par les dispositions de la LPD[^14-1].[^14-2]
 
 <sup>2</sup> Les données inexactes doivent être rectifiées.
 
 [^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-2]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
 
 **Sécurité des données**[^15-1]
 
+<sup>1</sup>
+
 La sécurité des données est régie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^15-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^15-3].
+- a.[^15-2] l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^15-3];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^15-4].
+
+<sup>2</sup> L’OPDo s’applique par analogie à la sécurité des données des personnes morales.[^15-5]
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 26 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-2]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^15-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-5]: Introduit par l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
@@ -377,6 +386,6 @@ L’ordonnance du 12 décembre 1988 sur la tenue d’un registre des entreprises
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 1993.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 [^t-2]: Abrogée par le ch. II de l’O du 4 mars 2022, avec effet au 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
