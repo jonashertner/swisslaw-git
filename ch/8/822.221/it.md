@@ -4,20 +4,20 @@ title: "Ordinanza del 19 giugno 1995 sulla durata del lavoro e del riposo dei co
 short: OLR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: it
-version: 2022-08-03
+version: 2023-09-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220803/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220803-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220803/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sulla durata del lavoro e del riposo dei conducenti professionali di veicoli a motore****
+# Ordinanza sulla durata del lavoro e del riposo dei conducenti professionali di veicoli a motore
 
 (Ordinanza per gli autisti, OLR 1)[^t-1]
 
-del 19 giugno 1995 (Stato 3 agosto 2022) (Stato 3 agosto 2022)
+del 19 giugno 1995 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
@@ -750,7 +750,7 @@ I datori di lavoro e i conducenti indipendenti devono conservare per tre anni, o
 
 <sup>5</sup> Su richiesta, i documenti e i dati devono essere presentati o inviati all’autorità d’esecuzione nella forma richiesta da quest’ultima.[^18-7]
 
-<sup>6</sup> Le informazioni a scopo di ricerca o di statistica si fondano sulle disposizioni della legge federale del 19 giugno 1992[^18-8] sulla protezione dei dati e dell’ordinanza del 14 giugno 1993[^18-9] relativa alla legge federale sulla protezione dei dati nonché della legge federale del 9 ottobre 1992[^18-10] sulla statistica federale.[^18-11]
+<sup>6</sup> Le informazioni a fini statistici o di ricerca sono rette dalle disposizioni della legge federale del 25 settembre 2020[^18-8] sulla protezione dei dati, dell’ordinanza del 31 agosto 2022[^18-9] sulla protezione dei dati e della legge federale del 9 ottobre 1992[^18-10] sulla statistica federale.[^18-11]
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^18-2]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
@@ -762,7 +762,7 @@ I datori di lavoro e i conducenti indipendenti devono conservare per tre anni, o
 [^18-8]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^18-9]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-10]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-11]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-11]: Introdotto dal n. I dell’O del 29 mar. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Nuovo testo giusta l’all. 2 n. II 111 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni speciali
 
@@ -903,7 +903,7 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 [^24-4]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). La correzione del 3 ago. 2022 concerne soltanto il testo francese ([RU 2022 434](https://fedlex.data.admin.ch/eli/oc/2022/434)).
 [^24-5]: Introdotto dal n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
-## Sezione 8: Disposizioni transitorie****
+## Sezione 8: Disposizioni transitorie
 
 [^sec8-1]
 

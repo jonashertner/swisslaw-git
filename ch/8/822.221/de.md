@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Juni 1995 über die Arbeits- und Ruhezeit der berufsm
 short: ARV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: de
-version: 2022-08-03
+version: 2023-09-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220803/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220803-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220803/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220803/de"
 
 (Chauffeurverordnung, ARV 1)
 
-vom 19. Juni 1995 (Stand am 3. August 2022)
+vom 19. Juni 1995 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -748,7 +748,7 @@ Arbeitgeber sowie selbständigerwerbende Führer und Führerinnen müssen am Ges
 
 <sup>5</sup> Die Dokumente und Daten sind der Vollzugsbehörde auf Verlangen vorzuweisen oder in der von ihr verlangten Form einzusenden.[^18-7]
 
-<sup>6</sup> Auskünfte zu Statistik- oder Forschungszwecken richten sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^18-8] über den Datenschutz und der Verordnung vom 14. Juni 1993[^18-9] zum Bundesgesetz über den Datenschutz sowie nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^18-10].[^18-11]
+<sup>6</sup> Auskünfte zu Statistik- oder Forschungszwecken richten sich nach den Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^18-8] und der Datenschutzverordnung vom 31. August 2022[^18-9] sowie nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^18-10].[^18-11]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^18-2]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
@@ -760,7 +760,7 @@ Arbeitgeber sowie selbständigerwerbende Führer und Führerinnen müssen am Ges
 [^18-8]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^18-9]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-10]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-11]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-11]: Eingefügt durch Ziff. I der V vom 29. März 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Fassung gemäss Anhang 2 Ziff. II 111 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Sonderbestimmungen
 
@@ -901,7 +901,7 @@ Mit Busse wird bestraft, wer die Kontrollbestimmungen (Art. 13–18) verletzt, i
 [^24-4]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Die Berichtigung vom 3. Aug. 2022 betrifft nur den französischen Text ([AS 2022 434](https://fedlex.data.admin.ch/eli/oc/2022/434)).
 [^24-5]: Eingefügt durch Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
-## 8. Abschnitt: Übergangsbestimmungen****
+## 8. Abschnitt: Übergangsbestimmungen
 
 [^sec8-1]
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 19 juin 1995 sur la durée du travail et du repos des cond
 short: OTR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: fr
-version: 2022-08-03
+version: 2023-09-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220803/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220803-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220803/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220803/fr"
 
 (Ordonnance sur les chauffeurs, OTR 1)
 
-du 19 juin 1995 (Etat le 3 août 2022)
+du 19 juin 1995 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -749,7 +749,7 @@ L’employeur et tout conducteur indépendant conservent pendant trois ans, au s
 
 <sup>5</sup> Sur demande, les documents et les données sont présentés aux autorités d’exécu-tion ou envoyés sous la forme exigée par elles.[^18-7]
 
-<sup>6</sup> Les renseignements à des fins de statistique ou de recherche se fondent sur les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^18-8], sur l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^18-9] et sur la loi fédérale du 9 octobre 1992 sur la statistique fédérale[^18-10].[^18-11]
+<sup>6</sup> Les renseignements à des fins de statistique ou de recherche se fondent sur les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^18-8], sur l’ordonnance du 31 août 2022 sur la protection des données[^18-9] et sur la loi fédérale du 9 octobre 1992 sur la statistique fédérale[^18-10].[^18-11]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
@@ -761,7 +761,7 @@ L’employeur et tout conducteur indépendant conservent pendant trois ans, au s
 [^18-8]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^18-9]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-10]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-11]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-11]: Introduit par le ch. I de l’O du 29 mars 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Nouvelle teneur selon l’annexe 2 ch. II 111 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Dispositions spéciales
 
@@ -828,7 +828,7 @@ Dans les cas visés à l’al. 1, les dispositions suivantes s’appliquent:
 
 **Dispositions pénales**
 
-<sup>1</sup> Quiconque enfreint les dispositions sur la durée du travail, de la conduite, de la disponibilité, des pauses et du repos (art. 5 à 11) sera puni de l’amende. [^21-1]
+<sup>1</sup> Quiconque enfreint les dispositions sur la durée du travail, de la conduite, de la disponibilité, des pauses et du repos (art. 5 à 11) sera puni de l’amende.[^21-1]
 
 <sup>2</sup>
 
@@ -902,7 +902,7 @@ Sera puni de l’amende quiconque enfreint les dispositions sur le contrôle (ar
 [^24-4]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Erratum du 3 aôut 2022 ([RO 2022 434](https://fedlex.data.admin.ch/eli/oc/2022/434)).
 [^24-5]: Introduit par le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
-## Section 8 Dispositions transitoires****
+## Section 8 Dispositions transitoires
 
 [^sec8-1]
 
