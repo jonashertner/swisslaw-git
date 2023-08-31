@@ -3,26 +3,27 @@ sr: "172.010.60"
 title: Ordonnance du 20 juin 2018 sur le traitement des données dans le système de gestion des mandats du Service linguistique DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/385"
 language: fr
-version: 2018-08-01
+version: 2023-09-01
 adopted: 2018-06-20
 in_force: 2018-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/385/20180801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-385-20180801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/385/20180801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/385/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-385-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/385/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données dans le système de gestion des mandats du Service linguistique DFAE
 
-du 20 juin 2018 (Etat le 1<sup>er</sup> août 2018)
+du 20 juin 2018 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
-en vertu de l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1],
+vu l’art. 57*h*<sup>ter</sup> de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Nouvelle teneur selon l’annexe 2 ch. II 19 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 1 Dispositions générales
 
@@ -157,7 +158,9 @@ Le Service linguistique DFAE édicte un règlement relatif au traitement des don
 
 <sup>1</sup> Les accès au système et les modifications qui y sont effectuées sont journalisés en permanence.
 
-<sup>2</sup> Les journaux sont conservés pendant un an au maximum.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an au maximum, séparément du système dans lequel les données personnelles sont traitées.[^13-1]
+
+[^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 19 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Entrée en vigueur
 

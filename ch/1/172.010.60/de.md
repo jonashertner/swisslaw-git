@@ -3,26 +3,27 @@ sr: "172.010.60"
 title: Verordnung vom 20. Juni 2018 über das Datenbearbeitungssystem des Sprachdienstes EDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/385"
 language: de
-version: 2018-08-01
+version: 2023-09-01
 adopted: 2018-06-20
 in_force: 2018-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/385/20180801/de/xml/fedlex-data-admin-ch-eli-cc-2018-385-20180801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/385/20180801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/385/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-385-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/385/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Datenbearbeitungssystem des Sprachdienstes EDA
 
-vom 20. Juni 2018 (Stand am 1. August 2018)
+vom 20. Juni 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1],
+gestützt auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Fassung gemäss Anhang 2 Ziff. II 19 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -157,7 +158,9 @@ Der Sprachdienst EDA erlässt ein Bearbeitungsreglement. Dieses enthält die org
 
 <sup>1</sup> Die Zugriffe auf das System und die Bearbeitungen werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden längstens ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden längstens ein Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^13-1]
+
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 19 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Inkrafttreten
 
