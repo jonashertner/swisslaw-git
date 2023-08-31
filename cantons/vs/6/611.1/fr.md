@@ -4,13 +4,13 @@ number: "611.1"
 title: Loi sur la gestion et le contrôle administratifs et financiers du canton
 short: LGCAF
 language: fr
-version: 2017-09-01
-corrected: 2019-01-22
-version_adopted: 2016-11-11
+version: 2023-09-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-15
 adopted: 1980-06-24
 in_force: 1981-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/611.1"
-pdf: "https://lex.vs.ch/api/fr/versions/1989/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3233/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/1989/pdf_file"
 
 (LGCAF)
 
-du 24.06.1980 (état 01.09.2017)
+du 24.06.1980 (état 01.09.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -259,7 +259,7 @@ arrête:
 
 <sup>5</sup> Les immobilisations font l'objet d'un tableau dans l'annexe selon article 15b.
 
-### 1.2a Principes et structure de la gestion par mandats de prestations
+### 1.2a
 
 #### Art. 15a
 
@@ -288,6 +288,8 @@ arrête:
 <sup>2</sup> …
 
 <sup>3</sup> …
+
+### 1.2b Principes et structure de la gestion par mandats de prestations
 
 #### Art. 15c
 
@@ -472,6 +474,36 @@ arrête:
 <sup>3</sup> Les prélèvements sur le fonds sont autorisés au moment de l'établissement du compte à hauteur maximale du manque de recettes fiscales et de recettes fédérales non affectées par rapport au budget. Les prélèvements sont également autorisés au moment de l'élaboration du budget lorsque ces recettes sont en diminution marquée par rapport au budget et au compte précédents.
 
 <sup>4</sup> La fortune du fonds, en tant que fortune affectée, ne porte pas d'intérêts. Le fonds ne peut pas être négatif et son avoir est limité au maximum à 10 pour cent des recettes fiscales et des recettes fédérales non affectées.
+
+#### Art. 22c
+
+**Fonds CPVAL**
+
+<sup>1</sup> Un fonds spécial de financement au sens de l’article 9 de la présente loi, dénommé "fonds CPVAL", est institué.
+
+<sup>2</sup> Le fonds sert à l’alimentation de la provision nécessaire à la couverture du financement de la réforme structurelle en application de la loi CPVAL ainsi qu’à la couverture des engagements liés à la garantie accordée par l’Etat à CPVAL. La provision est constituée au bilan de l’Etat. Son utilisation est de la compétence du Conseil d’Etat qui fixe par règlement, à l’entrée en vigueur de la loi CPVAL, les modalités d’exécution.
+
+<sup>3</sup> Le fonds est alimenté par tout ou partie des excédents de revenus du compte de l’Etat du Valais.
+
+<sup>4</sup> Le postfinancement du fonds est autorisé.
+
+#### Art. 22d
+
+**Réserve de politique budgétaire**
+
+<sup>1</sup> Une réserve est instituée pour la gestion de la politique budgétaire cantonale. Elle contribue à assurer l’équilibre annuel du compte de résultats et du compte de financement lorsque des charges ou dépenses nouvelles, imprévues ou extraordinaires s’ajoutent aux crédits budgétaires habituels ou lorsqu’un événement particulier vient remettre en question le financement du développement ordinaire des prestations publiques. Elle favorise un financement pérenne des prestations publiques.
+
+<sup>2</sup> La dotation initiale de la réserve s’opère par l’affectation du capital propre de l’Etat pour un montant maximal de 100 millions de francs. Des dotations ultérieures par le capital propre de l’Etat peuvent être autorisées par le Grand Conseil.
+
+<sup>3</sup> La réserve peut être alimentée soit par voie budgétaire, soit par l’affectation de tout ou partie des excédents réalisés au compte, à condition qu’il ne s’ensuit ni excédent de charges, ni insuffisance de financement.
+
+<sup>4</sup> Les prélèvements sur la réserve sont autorisés au moment de l’établissement du compte, à hauteur maximale des découverts réalisés. Ils peuvent également être prévus au budget si la situation financière du canton ne permet pas d'assurer le financement intégral des prestations publiques. Dans tous les cas, le prélèvements s'effectuent dans le cadre des situations décrites à l'alinéa 1 du présent article.
+
+<sup>5</sup> La réserve intervient à titre subsidiaire si le budget ou d’autres fonds ne permettent pas de financer les prestations publiques et ne se substitue pas à des financements de tiers.
+
+<sup>6</sup> Les alimentations et prélèvements sont rapportés spécialement dans les messages du Conseil d’Etat accompagnant le projet de budget et le compte et dans le rapport accompagnant la planification intégrée pluriannuelle.
+
+<sup>7</sup> La réserve ne peut pas être négative et sa fortune ne porte pas d’intérêts.
 
 ### 1.4 Planification intégrée pluriannuelle - Budget - Compte - Rapport de gestion
 
@@ -749,6 +781,21 @@ arrête:
 - d) de vérifier les comptabilités et les inventaires;
 - e) de contrôler la réalisation des mandats de prestations.
 
+#### Art. 45a
+
+**Révision des comptes annuels**
+
+<sup>1</sup> L’Inspection des finances effectue la révision des comptes annuels de l’Etat du Valais et du fonds de financement de l’investissement et de la gestion des immeubles de l’Etat.
+
+<sup>2</sup> La révision des comptes annuels consiste à:
+
+- a) vérifier si les comptes annuels sont conformes aux dispositions légales;
+- b) planifier et exécuter des contrôles en vue d’obtenir une assurance raisonnable que les états financiers ne comportent pas d’anomalies significatives.
+
+<sup>3</sup> L’Inspection des finances remet au Conseil d’Etat et aux présidents des commissions des finances et de gestion du Grand Conseil un rapport détaillé contenant les constatations relatives à l’établissement des comptes annuels ainsi qu’à l’exécution et au résultat de la révision.
+
+<sup>4</sup> L’Inspection des finances remet au Grand Conseil, par l’intermédiaire de la commission des finances, un rapport succinct contenant une prise de position sur les comptes annuels.
+
 #### Art. 46
 
 **Collaboration à l'élaboration des prescriptions, expertises et consultations**
@@ -766,7 +813,7 @@ arrête:
 - a) les départements et leurs services, ainsi que la chancellerie d'Etat;
 - b) les institutions, exploitations, corporations, établissements et patrimoines, selon et dans les limites de l'article 35, soumis à la présente loi et bénéficiaires de prestations financières de l'Etat.
 
-<sup>2</sup> La gestion financière des tribunaux est également soumise au contrôle de l'inspection des finances.
+<sup>2</sup> La gestion financière des tribunaux, du ministère public et du Conseil de la magistrature est également soumise au contrôle de l'inspection des finances.
 
 #### Art. 48
 
@@ -858,5 +905,19 @@ arrête:
 #### Art. T2-1
 
 <sup>1</sup> Le compte 2017 est établi selon les dispositions en vigueur avant le 1<sup>er</sup> septembre 2017.
+
+## T3 Disposition transitoire de la modification du 13.11.2020
+
+#### Art. T3-1
+
+**Mesures d’aides financières cantonales visant à surmonter les conséquences de la pandémie de Covid-19**
+
+<sup>1</sup> Les prélèvements sur la réserve de politique budgétaire de l'article 22d de la présente loi sont autorisés pour financer les mesures d'aides financières cantonales visant à surmonter les conséquences de la pandémie de Covid-19.
+
+<sup>2</sup> Le canton peut soutenir financièrement les entreprises et les personnes privées particulièrement touchées par les conséquences de la pandémie de Covid-19 en raison de la nature même de leur activité.
+
+<sup>3</sup> Les aides financières cantonales incluent la part de financement de la Confédération prévue dans la loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter la pandémie de Covid-19.
+
+<sup>4</sup> Le Conseil d'Etat est compétent pour fixer par décision les secteurs soutenus, les conditions d'octroi spécifiques au secteur et les bénéficiaires des aides financières cantonales.
 
 RCV RO/AGS 1980 f 9, 22 | d 11, 24

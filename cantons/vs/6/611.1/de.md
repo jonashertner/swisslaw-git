@@ -4,13 +4,13 @@ number: "611.1"
 title: Gesetz über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle
 short: FHG
 language: de
-version: 2017-09-01
-corrected: 2019-01-22
-version_adopted: 2016-11-11
+version: 2023-09-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-15
 adopted: 1980-06-24
 in_force: 1981-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/611.1"
-pdf: "https://lex.vs.ch/api/de/versions/1989/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3233/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/1989/pdf_file"
 
 (FHG)
 
-vom 24.06.1980 (Stand 01.09.2017)
+vom 24.06.1980 (Stand 01.09.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -259,7 +259,7 @@ verordnet:
 
 <sup>5</sup> Die Investitionen sind gemäss Artikel 15b Gegenstand des Anhanges zur Jahresrechnung.
 
-### 1.2a Grundsätze und Struktur der Führung über Leistungsaufträge
+### 1.2a
 
 #### Art. 15a
 
@@ -288,6 +288,8 @@ verordnet:
 <sup>2</sup> …
 
 <sup>3</sup> …
+
+### 1.2b Grundsätze und Struktur der Führung über Leistungsaufträge
 
 #### Art. 15c
 
@@ -472,6 +474,36 @@ verordnet:
 <sup>3</sup> Die Entnahmen aus dem Fonds werden beim Rechnungsabschluss bis zur maximalen Höhe des Fehlbetrages von Steuererträgen und nicht zweckgebundenen Bundeserträgen im Vergleich zum Budget bewilligt. Die Entnahmen werden auch bei der Erarbeitung des Budgets bewilligt, wenn diese Erträge in einem markanten Rückgang im Vergleich zum letzten Budget und zur letzten Rechnung sind.
 
 <sup>4</sup> Das Fondsvermögen als zweckgebundenes Eigenkapital trägt keine Zinsen. Der Fonds darf nicht negativ sein. Sein Guthaben ist auf höchstens 10 Prozent der Steuererträge und der nicht zweckgebundenen Bundeserträge begrenzt.
+
+#### Art. 22c
+
+**Fonds PKWAL**
+
+<sup>1</sup> Ein Spezialfinanzierungsfonds im Sinne von Artikel 9 des vorliegenden Gesetzes, genannt "Fonds PKWAL", wird errichtet.
+
+<sup>2</sup> Der Fonds dient der Äufnung der erforderlichen Rückstellung zur Finanzierung der Strukturreform in Anwendung des Gesetzes über die Pensionskasse das Kantons Wallis (PKWAL) sowie zur Deckung der Verpflichtungen bezüglich der durch den Staat der PKWAL gewährten Garantien. Die Rückstellung wird in der Bilanz des Staates ausgewiesen. Für ihre Verwendung ist der Staatsrat zuständig, der die Ausführungsbestimmungen auf dem Reglementsweg festlegt, sobald das Gesetz über die Pensionskasse das Kantons Wallis (PKWAL) in Kraft tritt.
+
+<sup>3</sup> Der Fonds wird ganz oder teilweise durch die Überschüsse der Erfolgsrechnung des Staates Wallis geäufnet.
+
+<sup>4</sup> Die Nachfinanzierung des Fonds ist zulässig.
+
+#### Art. 22d
+
+**Finanzpolitische Reserve**
+
+<sup>1</sup> Für die Verwaltung der kantonalen Finanzpolitik wird eine Reserve gebildet. Sie trägt zum Ausgleich der Erfolgsrechnung und der Finanzierung bei, wenn es zu neuen, unvorhergesehenen oder ausserordentlichen Aufwendungen oder Ausgaben kommt, die zu den üblichen Budgetkrediten hinzukommen oder wenn ein bestimmtes Ereignis die Finanzierung der Entwicklung der bisherigen öffentlichen Leistungen in Frage stellt. Sie unterstützt die nachhaltige Finanzierung der öffentlichen Leistungen.
+
+<sup>2</sup> Die anfängliche Dotierung der Reserve erfolgt mittels Einlage aus dem Eigenkapital des Staates für einen Betrag von höchstens 100 Millionen Franken. Nachträgliche Dotierungen aus dem Eigenkapital des Staates können vom Grossen Rat genehmigt werden.
+
+<sup>3</sup> Die Reserve kann entweder über das Budget oder durch Zuweisung des realisierten Überschusses der Rechnung gespiesen werden, insofern dies nicht zu einem Aufwandüberschuss oder einem Finanzierungsfehlbetrag führt.
+
+<sup>4</sup> Die Entnahmen aus der Reserve werden beim Rechnungsabschluss bis zur maximalen Höhe der realisierten Fehlbeträge bewilligt. Sie können ebenfalls im Budget vorgesehen werden, wenn die finanzielle Lage des Kantons es nicht ermöglicht, die vollständige Finanzierung der öffentlichen Leistungen sicherzustellen. In jedem Fall werden die Entnahmen im Rahmen der in Absatz 1 dieses Artikels beschriebenen Situationen vorgenommen.
+
+<sup>5</sup> Die Reserve greift subsidiär, wenn das Budget oder andere Fonds es nicht erlauben, die öffentlichen Leistungen zu finanzieren und ersetzt nicht Beiträge Dritter.
+
+<sup>6</sup> Die Einlagen oder Entnahmen werden spezifisch in den Botschaften des Staatsrates zum Budget und der Rechnung und im Bericht zur integrierten Mehrjahresplanung aufgelistet.
+
+<sup>7</sup> Die Reserve kann nicht negativ sein und ihr Vermögen trägt keine Zinsen.
 
 ### 1.4 Integrierte Mehrjahresplanung - Budget - Rechnung - Verwaltungsbericht
 
@@ -749,6 +781,21 @@ verordnet:
 - d) die Überprüfung von Buchhaltung und Beständen;
 - e) die Kontrolle über die Verwirklichung der Leistungsaufträge.
 
+#### Art. 45a
+
+**Revision der Jahresrechnungen**
+
+<sup>1</sup> Das Finanzinspektorat führt die Revision der Jahresrechnungen des Staates Wallis und des Fonds zur Finanzierung der Investitionen und der Geschäftsführung staatlicher Immobilien durch.
+
+<sup>2</sup> Die Revision der Jahresrechnungen beinhaltet die:
+
+- a) Prüfung hinsichtlich der Übereinstimmung der Jahresrechnungen mit den gesetzlichen Bestimmungen;
+- b) Planung und Durchführung der Kontrollen, um eine ausreichende Zusicherung zu erhalten, dass die Jahresabschlüsse frei von wesentlichen falschen Angaben sind.
+
+<sup>3</sup> Das Finanzinspektorat legt dem Staatsrat und den Präsidenten der Finanzkommision und der Geschäftsprüfungskommission des Grossen Rates einen ausführlichen Bericht mit den Feststellungen betreffend die Erstellung der Jahresrechnungen sowie die Durchführung und das Ergebnis der Revision vor.
+
+<sup>4</sup> Das Finanzinspektorat legt dem Grossen Rat, über die Finanzkommission, einen Kurzbericht vor, der eine Stellungnahme zu den Jahresrechnungen enthält.
+
 #### Art. 46
 
 **Mitarbeit an Vorschriften, Begutachtung und Beratung**
@@ -766,7 +813,7 @@ verordnet:
 - a) die Departemente mit allen Dienststellen sowie die Staatskanzlei;
 - b) die diesem Gesetz unterstellten Amtsstellen, Betriebe, Körperschaften, Anstalten und Vermögen, sowie die finanziellen Leistungen des Staates an Dritte im Sinne des Artikels 35.
 
-<sup>2</sup> Der Finanzhaushalt der Gerichte ist ebenfalls der Kontrolle des Finanzinspektorates unterstellt.
+<sup>2</sup> Der Finanzhaushalt der Gerichte, der Staatsanwaltschaft und des Justizrates ist ebenfalls der Kontrolle des Finanzinspektorates unterstellt.
 
 #### Art. 48
 
@@ -858,5 +905,19 @@ verordnet:
 #### Art. T2-1
 
 <sup>1</sup> Die Rechnung 2017 wird in Anwendung der bisherigen gesetzlichen Bestimmungen, die vor dem 1. September 2017 in Kraft waren, erstellt.
+
+## T3 Übergangsbestimmung der Änderung vom 13.11.2020
+
+#### Art. T3-1
+
+**Massnahmen für kantonale Finanzhilfen zur Bewältigung der Folgen der Covid-19-Pandemie**
+
+<sup>1</sup> Entnahmen aus der finanzpolitischen Reserve gemäss Artikel 22d dieses Gesetzes sind zur Finanzierung der kantonalen Finanzhilfen zur Bewältigung der Folgen der Covid-19-Pandemie zulässig.
+
+<sup>2</sup> Der Kanton kann Unternehmen und Privatpersonen, die aufgrund der Art ihrer Tätigkeit von den Folgen der Covid-19-Pandemie besonders betroffen sind, finanziell unterstützen.
+
+<sup>3</sup> Die kantonalen Finanzhilfen umfassen den Anteil der Bundesmittel, der im Bundesgesetz vom 25. September 2020 auf der gesetzlichen Grundlage der Verordnungen des Bundesrates zur Bewältigung der Covid-19-Pandemie vorgesehen ist.
+
+<sup>4</sup> Der Staatsrat ist befugt, per Beschluss die unterstützungsbedürftigen Bereiche, die branchenspezifischen Bedingungen für die Gewährung und die Begünstigten der kantonalen Finanzhilfen festzulegen.
 
 CSW RO/AGS 1980 f 9, 22 | d 11, 24
