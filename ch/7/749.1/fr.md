@@ -4,11 +4,11 @@ title: Loi fédérale du 17 décembre 2021 sur le transport souterrain de marcha
 short: LTSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/373"
 language: fr
-version: 2022-08-01
+version: 2023-09-01
 adopted: 2021-12-17
 in_force: 2022-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/373/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2022-373-20220801-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/373/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-373-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20220801/fr"
 
 (LTSM)
 
-du 17 décembre 2021 (Etat le 1<sup>er</sup> août 2022)
+du 17 décembre 2021 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 81 et 87 de la Constitution[^ingress-1], vu le message du Conseil f�
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2020 8537](https://fedlex.data.admin.ch/eli/fga/2020/2362)
 
 ## Section 1 Dispositions générales
@@ -84,7 +84,7 @@ La Commission des chemins de fer (RailCom) statue sur les litiges concernant:
 
 <sup>4</sup> La procédure est régie par les art. 40*a*<sup>ter</sup> à 40*a*<sup>quinquies</sup> de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^5-1].
 
-[^5-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^5-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 6
 
@@ -94,7 +94,7 @@ La Commission des chemins de fer (RailCom) statue sur les litiges concernant:
 
 <sup>2</sup> La procédure d’expropriation n’est applicable que si les efforts faits en vue d’acquérir les droits nécessaires de gré à gré ou d’obtenir un remembrement ont échoué.
 
-[^6-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^6-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## Section 2 Plan sectoriel et plans directeurs
 
@@ -178,8 +178,8 @@ Il est possible d’établir ou de modifier une installation sans passer par une
 
 <sup>2</sup> Si une expropriation est nécessaire, la LEx[^12-2] s’applique au surplus.
 
-[^12-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^12-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^12-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^12-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 13
 
@@ -202,7 +202,7 @@ Avant la mise à l’enquête de la demande, l’entreprise doit indiquer les mo
 
 <sup>3</sup> La procédure visée à l’art. 15 LEx[^14-1] s’applique aux autres actes préparatoires, à la mise au point du projet et à la consolidation des bases de décision. L’OFT statue sur les objections de tiers.
 
-[^14-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^14-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 15
 
@@ -214,7 +214,7 @@ Avant la mise à l’enquête de la demande, l’entreprise doit indiquer les mo
 
 <sup>3</sup> La mise à l’enquête institue le ban d’expropriation visé aux art. 42 à 44 LEx[^15-1].
 
-[^15-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^15-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 16
 
@@ -222,7 +222,7 @@ Avant la mise à l’enquête de la demande, l’entreprise doit indiquer les mo
 
 Au plus tard lorsque la demande est mise à l’enquête publique, l’entreprise adresse aux intéressés visés à l’art. 31 LEx[^16-1] ainsi qu’aux propriétaires des biens-fonds situés au-dessus de l’installation ou la jouxtant un avis personnel les informant des droits à exproprier.
 
-[^16-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 17
 
@@ -234,8 +234,8 @@ Au plus tard lorsque la demande est mise à l’enquête publique, l’entrepris
 
 <sup>3</sup> Les communes font valoir leurs intérêts par voie d’opposition.
 
-[^17-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^17-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^17-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^17-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18
 
@@ -243,7 +243,7 @@ Au plus tard lorsque la demande est mise à l’enquête publique, l’entrepris
 
 La procédure d’élimination des divergences au sein de l’administration fédérale est régie par l’art. 62*b* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^18-1].
 
-[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 19
 
@@ -265,7 +265,7 @@ La procédure d’élimination des divergences au sein de l’administration fé
 
 <sup>2</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’approbation des plans est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
 
-[^20-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^20-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 21
 
@@ -346,7 +346,7 @@ Dans ce cas, il édicte notamment des prescriptions sur:
 
 L’entreprise a pour obligation de réparer les atteintes aux droits de tiers conformément à la LEx[^28-1] sauf si ces atteintes doivent être tolérées en application des règles du droit de voisinage ou d’autres dispositions légales, et qu’elles sont une conséquence non ou difficilement évitable de la construction ou de l’exploitation des installations ou de l’exploitation des véhicules de l’entreprise.
 
-[^28-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^28-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 29
 
@@ -356,7 +356,7 @@ L’entreprise a pour obligation de réparer les atteintes aux droits de tiers c
 
 <sup>2</sup> Si l’installation ou l’activité du tiers existaient déjà avant l’établissement des installations de l’entreprise, le droit au dédommagement dudit tiers est régi par la LEx[^29-1]. Si un tiers établit une installation ou entreprend une activité après l’établissement des installations de l’entreprise, les frais des mesures à prendre en vertu de l’al. 1 sont à sa charge, sans qu’il ait droit à un dédommagement.
 
-[^29-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^29-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 30
 
@@ -376,8 +376,8 @@ L’entreprise a pour obligation de réparer les atteintes aux droits de tiers c
 
 <sup>2</sup> Les entreprises peuvent prendre des mesures préparatoires à la mise au point du projet ou à la vérification des bases de décision. Le DETEC statue sur les objections de tiers. Les propriétaires sont avertis au préalable et, le cas échéant, indemnisés conformément à la LEx[^31-2].
 
-[^31-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^31-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^31-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^31-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## Section 5 Surveillance
 
@@ -414,7 +414,7 @@ L’OFT surveille:
 
 <sup>3</sup> Les art. 15*a* à 15*c* LCdF[^34-1] s’appliquent par analogie à la procédure d’enquête.
 
-[^34-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^34-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 35
 
@@ -435,13 +435,14 @@ Après avoir procédé à un examen de proportionnalité, l’OFT peut publier d
 
 #### Art. 36
 
-**Traitement des données par les entreprises**
+**Traitement des données par les entreprises**[^36-1]
 
-<sup>1</sup> Pour leurs activités, les entreprises sont soumises aux art. 12 à 15 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^36-1].
+<sup>1</sup> Pour leurs activités, les entreprises sont soumises aux art. 30 à 32 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^36-2].
 
-<sup>2</sup> La surveillance est régie par les art. 29 LPD.
+<sup>2</sup> La surveillance est régie par les art. 49 à 53 LPD.
 
-[^36-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-1]: Teneur selon l’art. 42 ci-après, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)).
+[^36-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Section 6 Frais de mise à disposition des services d’intervention
 
@@ -467,7 +468,7 @@ Après avoir procédé à un examen de proportionnalité, l’OFT peut publier d
 
 <sup>1</sup>
 
-Est puni d’une amende quiconque, intentionnellement ou par négligence, contrevient à l’obligation de collaborer prévue à l’art. 32, al. 2:
+Est puni d’une amende quiconque, intentionnellement ou par négligence, contrevient à l’obligation de collaborer prévue à l’art. 33, al. 2:
 
 - a. en fournissant à l’OFT des renseignements inexacts ou incomplets;
 - b. en refusant de fournir à l’OFT tous les documents requis;
@@ -495,19 +496,9 @@ Les cantons poursuivent et jugent les infractions à la présente loi.
 
 **Coordination**
 
-À l’entrée en vigueur de la loi fédérale du 25 septembre 2020 sur la protection des données[^42-1], l’art. 36 a la teneur suivante:
+…[^42-1]
 
-[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-
-#### Art. 36
-
-**Traitement des données par les entreprises**
-
-<sup>1</sup> Pour leurs activités, les entreprises sont soumises aux art. 30 à 32 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^36-2].
-
-<sup>2</sup> La surveillance est régie par les art. 49 à 53 LPD.
-
-[^36-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^42-1]: La disp. de coordination peut être consultée au [RO 2022 373](https://fedlex.data.admin.ch/eli/oc/2022/373).
 
 #### Art. 43
 

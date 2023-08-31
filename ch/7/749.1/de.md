@@ -4,11 +4,11 @@ title: Bundesgesetz vom 17. Dezember 2021 über den unterirdischen Gütertranspo
 short: UGüTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/373"
 language: de
-version: 2022-08-01
+version: 2023-09-01
 adopted: 2021-12-17
 in_force: 2022-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/373/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2022-373-20220801-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/373/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-373-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20220801/de"
 
 (UGüTG)
 
-vom 17. Dezember 2021 (Stand am 1. August 2022)
+vom 17. Dezember 2021 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 81 und 87 der Bundesverfassung[^ingress-1], nach Einsi
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2020 8849](https://fedlex.data.admin.ch/eli/fga/2020/2362)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -84,7 +84,7 @@ Die Kommission für den Eisenbahnverkehr (RailCom) entscheidet über Streitigkei
 
 <sup>4</sup> Das Verfahren richtet sich nach den Artikeln 40*a*<sup>ter</sup>–40*a*<sup>quinquies</sup> des Eisenbahngesetzes vom 20. Dezember 1957[^5-1] (EBG).
 
-[^5-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^5-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 6
 
@@ -94,7 +94,7 @@ Die Kommission für den Eisenbahnverkehr (RailCom) entscheidet über Streitigkei
 
 <sup>2</sup> Das Enteignungsverfahren kommt erst zur Anwendung, wenn die Bemühungen um einen freihändigen Erwerb der erforderlichen Rechte oder um eine Landumlegung nicht zum Ziel führen.
 
-[^6-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^6-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## 2. Abschnitt: Sachplan- und Richtplanverfahren
 
@@ -178,8 +178,8 @@ Anlagen können ohne Plangenehmigung erstellt oder geändert werden, wenn sie:
 
 <sup>2</sup> Sind Enteignungen notwendig, finden zudem die Vorschriften des EntG[^12-2] Anwendung.
 
-[^12-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^12-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^12-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^12-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 13
 
@@ -202,7 +202,7 @@ Vor der öffentlichen Auflage des Gesuchs muss das Unternehmen Veränderungen, d
 
 <sup>3</sup> Für andere vorbereitende Handlungen, für die Projektbereinigung und für die Erhärtung der Entscheidungsgrundlagen gilt das Verfahren nach Artikel 15 EntG[^14-1]. Das BAV entscheidet über Einwände Dritter.
 
-[^14-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^14-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 15
 
@@ -214,7 +214,7 @@ Vor der öffentlichen Auflage des Gesuchs muss das Unternehmen Veränderungen, d
 
 <sup>3</sup> Die öffentliche Auflage hat den Enteignungsbann nach den Artikeln 42–44 EntG[^15-1] zur Folge.
 
-[^15-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^15-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 16
 
@@ -222,7 +222,7 @@ Vor der öffentlichen Auflage des Gesuchs muss das Unternehmen Veränderungen, d
 
 Spätestens mit der öffentlichen Auflage des Gesuchs muss das Unternehmen den Entschädigungsberechtigten nach Artikel 31 EntG[^16-1] sowie den Eigentümerinnen und Eigentümern von über der Anlage liegenden oder daran angrenzenden Grundstücken eine persönliche Anzeige über die zu enteignenden Rechte zustellen.
 
-[^16-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 17
 
@@ -234,8 +234,8 @@ Spätestens mit der öffentlichen Auflage des Gesuchs muss das Unternehmen den E
 
 <sup>3</sup> Die betroffenen Gemeinden wahren ihre Interessen mit Einsprache.
 
-[^17-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^17-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^17-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^17-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18
 
@@ -243,7 +243,7 @@ Spätestens mit der öffentlichen Auflage des Gesuchs muss das Unternehmen den E
 
 Das Bereinigungsverfahren in der Bundesverwaltung richtet sich nach Artikel 62*b* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^18-1].
 
-[^18-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^18-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 19
 
@@ -265,7 +265,7 @@ Das Bereinigungsverfahren in der Bundesverwaltung richtet sich nach Artikel 62*b
 
 <sup>2</sup> Die Präsidentin oder der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
-[^20-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^20-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 21
 
@@ -346,7 +346,7 @@ Er erlässt in diesem Fall insbesondere Vorschriften über:
 
 Das Unternehmen hat für schädigende Eingriffe in fremde Rechte nach Massgabe des EntG[^28-1] Ersatz zu leisten, sofern der Eingriff nicht gemäss Nachbarrecht oder anderen gesetzlichen Vorschriften geduldet werden muss und es sich um eine unvermeidliche oder nicht leicht abzuwendende Folge des Baus oder Betriebs der Anlagen oder des Betriebs der Fahrzeuge des Unternehmens handelt.
 
-[^28-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^28-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 29
 
@@ -356,7 +356,7 @@ Das Unternehmen hat für schädigende Eingriffe in fremde Rechte nach Massgabe d
 
 <sup>2</sup> Bestanden die Anlagen und Tätigkeiten Dritter schon vor Erstellung der Anlagen des Unternehmens, so richtet sich der Entschädigungsanspruch der betroffenen Dritten gegen das Unternehmen nach dem EntG[^29-1]. Für nach diesem Zeitpunkt erstellte Anlagen oder begonnene Tätigkeiten Dritter haben diese die Kosten der Massnahmen nach Absatz 1 zu tragen; ferner steht ihnen kein Anspruch auf Entschädigung zu.
 
-[^29-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^29-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 30
 
@@ -376,8 +376,8 @@ Das Unternehmen hat für schädigende Eingriffe in fremde Rechte nach Massgabe d
 
 <sup>2</sup> Die Unternehmen können Vorbereitungsmassnahmen für die Projektbereinigung oder die Erhärtung der Entscheidungsgrundlagen treffen. Das UVEK entscheidet über Einwände Dritter. Die Eigentümerinnen und Eigentümer sind gemäss dem EntG[^31-2] vorgängig zu orientieren und gegebenenfalls zu entschädigen.
 
-[^31-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^31-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^31-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^31-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## 5. Abschnitt: Aufsicht
 
@@ -414,7 +414,7 @@ Das BAV überwacht:
 
 <sup>3</sup> Für das Untersuchungsverfahren gelten die Artikel 15*a–*15*c* EBG[^34-1] sinngemäss.
 
-[^34-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^34-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 35
 
@@ -435,13 +435,14 @@ Es kann nach einer Verhältnismässigkeitsprüfung der Öffentlichkeit besonders
 
 #### Art. 36
 
-**Datenbearbeitung durch die Unternehmen**
+**Datenbearbeitung durch die Unternehmen**[^36-1]
 
-<sup>1</sup> Die Unternehmen unterstehen für ihre Tätigkeiten den Artikeln 12–15 des Bundesgesetzes vom 19. Juni 1992[^36-1] über den Datenschutz (DSG).
+<sup>1</sup> Die Unternehmen unterstehen für ihre Tätigkeiten den Artikeln 30–32 des Datenschutzgesetzes vom 25. September 2020[^36-2] (DSG).
 
-<sup>2</sup> Die Aufsicht richtet sich nach Artikel 29 DSG.
+<sup>2</sup> Die Aufsicht richtet sich nach den Artikeln 49–53 DSG.
 
-[^36-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-1]: Fassung gemäss Art. 42 hiernach, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)).
+[^36-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## 6. Abschnitt: Vorhaltekosten der Wehrdienste
 
@@ -495,19 +496,9 @@ Widerhandlungen gegen dieses Gesetz werden von den Kantonen verfolgt und beurtei
 
 **Koordination**
 
-Mit Inkrafttreten des Datenschutzgesetzes vom 25. September 2020[^42-1] lautet Artikel 36 wie folgt:
+...[^42-1]
 
-[^42-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-
-#### Art. 36
-
-**Datenbearbeitung durch die Unternehmen**
-
-<sup>1</sup> Die Unternehmen unterstehen für ihre Tätigkeiten den Artikeln 30–32 des Datenschutzgesetzes vom 25. September 2020[^36-2] (DSG).
-
-<sup>2</sup> Die Aufsicht richtet sich nach den Artikeln 49–53 DSG.
-
-[^36-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^42-1]: Die Koordinationsbestimmung kann unter [AS 2022 373](https://fedlex.data.admin.ch/eli/oc/2022/373)eingesehen werden.
 
 #### Art. 43
 

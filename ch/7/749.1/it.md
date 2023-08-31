@@ -4,11 +4,11 @@ title: Legge federale del 17 dicembre 2021 sul trasporto di merci sotterraneo (L
 short: LTMS
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/373"
 language: it
-version: 2022-08-01
+version: 2023-09-01
 adopted: 2021-12-17
 in_force: 2022-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/373/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2022-373-20220801-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/373/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-373-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/373/20220801/it"
 
 (LTMS)
 
-del 17 dicembre 2021 (Stato 1° agosto 2022)
+del 17 dicembre 2021 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 81 e 87 della Costituzione federale[^ingress-1]; visto il mes
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2020 7743](https://fedlex.data.admin.ch/eli/fga/2020/2362)
 
 ## Sezione 1: Disposizioni generali
@@ -84,7 +84,7 @@ La Commissione del trasporto ferroviario (ComFerr) giudica le controversie conce
 
 <sup>4</sup> La procedura è retta dagli articoli 40*a*<sup>ter</sup>–40*a*<sup>quinquies</sup> della legge federale del 20 dicembre 1957[^5-1] sulle ferrovie (Lferr).
 
-[^5-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^5-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 6
 
@@ -94,7 +94,7 @@ La Commissione del trasporto ferroviario (ComFerr) giudica le controversie conce
 
 <sup>2</sup> La procedura di espropriazione è applicabile soltanto se sono falliti i tentativi di acquisire i diritti necessari mediante trattative private o mediante ricomposizione particellare.
 
-[^6-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^6-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## Sezione 2: Procedura del piano settoriale e del piano direttore
 
@@ -178,8 +178,8 @@ Gli impianti possono essere costruiti o modificati senza approvazione dei piani,
 
 <sup>2</sup> Se sono necessarie espropriazioni, si applicano inoltre le disposizioni della LEspr[^12-2].
 
-[^12-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^12-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^12-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^12-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 13
 
@@ -202,7 +202,7 @@ Prima del deposito pubblico della domanda, l’impresa comunica le modifiche che
 
 <sup>3</sup> Agli altri atti preparatori, all’eliminazione delle divergenze o per consolidare le basi decisionali si applica la procedura di cui all’articolo 15 LEspr[^14-1]. Circa le obiezioni di terzi decide l’UFT.
 
-[^14-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^14-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 15
 
@@ -214,7 +214,7 @@ Prima del deposito pubblico della domanda, l’impresa comunica le modifiche che
 
 <sup>3</sup> Il deposito pubblico ha per conseguenza il bando d’espropriazione secondo gli articoli 42–44 LEspr[^15-1].
 
-[^15-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^15-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 16
 
@@ -222,7 +222,7 @@ Prima del deposito pubblico della domanda, l’impresa comunica le modifiche che
 
 Al più tardi con il deposito pubblico della domanda l’impresa invia agli aventi diritto all’indennità secondo l’articolo 31 LEspr[^16-1], nonché ai proprietari dei fondi situati al di sopra dell’impianto o ad esso contigui, un avviso personale sui diritti da espropriare.
 
-[^16-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 17
 
@@ -234,8 +234,8 @@ Al più tardi con il deposito pubblico della domanda l’impresa invia agli aven
 
 <sup>3</sup> I Comuni salvaguardano i loro interessi mediante opposizione.
 
-[^17-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^17-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^17-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^17-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18
 
@@ -243,7 +243,7 @@ Al più tardi con il deposito pubblico della domanda l’impresa invia agli aven
 
 L’eliminazione delle divergenze nell’Amministrazione federale è disciplinata dall’articolo 62*b* della legge del 21 marzo 1997[^18-1] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 19
 
@@ -265,7 +265,7 @@ L’eliminazione delle divergenze nell’Amministrazione federale è disciplinat
 
 <sup>2</sup> Il presidente della Commissione di stima può, sulla base di una decisione esecutiva di approvazione dei piani, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un significativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
 
-[^20-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^20-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 21
 
@@ -346,7 +346,7 @@ Emana in particolare prescrizioni concernenti:
 
 L’obbligo d’indennità per i danni causati dall’impresa con una violazione di diritti di terzi che non deve essere tollerata conformemente al diritto di vicinato o ad altre prescrizioni legali e che è una conseguenza inevitabile o difficilmente evitabile della costruzione o dell’esercizio degli impianti o dell’esercizio dei veicoli dell’impresa è disciplinato dalla LEspr[^28-1].
 
-[^28-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^28-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 29
 
@@ -356,7 +356,7 @@ L’obbligo d’indennità per i danni causati dall’impresa con una violazione
 
 <sup>2</sup> Se gli impianti e le attività dei terzi esistevano già prima della costruzione degli impianti dell’impresa, il diritto dei terzi all’indennità, alla quale è tenuta l’impresa, è disciplinato dalla LEspr[^29-1]. Per gli impianti costruiti o le attività dei terzi avviate successivamente, i terzi sostengono le spese causate dalle misure previste nel capoverso 1; inoltre, non hanno diritto ad alcuna indennità.
 
-[^29-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^29-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 30
 
@@ -376,8 +376,8 @@ L’obbligo d’indennità per i danni causati dall’impresa con una violazione
 
 <sup>2</sup> Le imprese possono adottare provvedimenti preparatori per la messa a punto dei progetti o per la verifica delle basi decisionali. Il DATEC decide sulle obiezioni di terzi. I proprietari sono avvertiti preliminarmente conformemente alla LEspr[^31-2] ed eventualmente indennizzati.
 
-[^31-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^31-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^31-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^31-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## Sezione 5: Vigilanza
 
@@ -414,7 +414,7 @@ L’UFT sorveglia:
 
 <sup>3</sup> Alla procedura d’inchiesta si applicano per analogia gli articoli 15*a–*15*c* Lferr[^34-1].
 
-[^34-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^34-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 35
 
@@ -435,13 +435,14 @@ Dopo aver valutato la proporzionalità del provvedimento, l’UFT può pubblicar
 
 #### Art. 36
 
-**Trattamento di dati da parte delle imprese**
+**Trattamento di dati da parte delle imprese**[^36-1]
 
-<sup>1</sup> Per le loro attività, le imprese sottostanno agli articoli 12–15 della legge federale del 19 giugno 1992[^36-1] sulla protezione dei dati (LPD).
+<sup>1</sup> Per le loro attività, le imprese sottostanno agli articoli 30–32 della legge federale del 25 settembre 2020[^36-2] sulla protezione dei dati (LPD).
 
-<sup>2</sup> La vigilanza è retta dall’articolo 29 LPD.
+<sup>2</sup> La vigilanza è retta dagli articoli 49–53 LPD.
 
-[^36-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-1]: Testo giusta l’art 42 qui avanti, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)).
+[^36-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
 
 ## Sezione 6: Costi di mantenimento degli enti di difesa
 
@@ -493,21 +494,9 @@ I Cantoni perseguono e giudicano le infrazioni alla presente legge.
 
 #### Art. 42
 
-**Coordinamento**
+... [^42-1]
 
-All’entrata in vigore della legge federale del 25 settembre 2020[^42-1] sulla protezione dei dati la disposizione qui appresso ha il seguente tenore:
-
-[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-
-#### Art. 36
-
-**Trattamento di dati da parte delle imprese**
-
-<sup>1</sup> Per le loro attività, le imprese sottostanno agli articoli 30–32 della legge federale del 25 settembre 2020[^36-2] sulla protezione dei dati (LPD).
-
-<sup>2</sup> La vigilanza è retta dagli articoli 49–53 LPD.
-
-[^36-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^42-1]: La disp. di coordinazione può essere consultata alla [RU 2022 373](https://fedlex.data.admin.ch/eli/oc/2022/373).
 
 #### Art. 43
 
