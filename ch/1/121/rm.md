@@ -4,11 +4,11 @@ title: "Lescha federala dals 25 da settember 2015 davart il servetsch d'infurmaz
 short: LSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: rm
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/rm/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LSI)
 
-dals 25 da settember 2015 (versiun dal 1. da fanadur 2021)
+dals 25 da settember 2015 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -236,8 +236,10 @@ Funtaunas d’infurmaziun publicas èn en spezial:
 
 - a. las medias accessiblas a la publicitad;
 - b. ils registers da las autoritads da la Confederaziun e dals chantuns ch’èn accessibels a la publicitad;
-- c. las collecziuns da datas da persunas privatas ch’ellas han rendì accessiblas a la publicitad;
+- c.[^13-1] las datas persunalas che persunas privatas han rendì accessiblas a la publicitad;
 - d. las decleraziuns fatgas en la publicitad.
+
+[^13-1]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -753,13 +755,15 @@ Sch’il SIC ha l’intenziun da dar ina incumbensa per in’exploraziun via cab
 
 **Princips**
 
-<sup>1</sup> Il SIC e las autoritads executivas chantunalas dastgan elavurar datas da persunas, inclusiv datas spezialmain sensiblas e profils da persunalitad.
+<sup>1</sup> Il SIC e las autoritads executivas chantunalas dastgan elavurar datas persunalas, inclusiv datas persunalas che permettan da giuditgar il grad da privlusadad d’ina persuna, e quai independentamain dal fatg, sch’i sa tracta da datas persunalas spezialmain sensiblas u betg.[^44-1]
 
 <sup>2</sup> Il SIC po cuntinuar ad elavurar infurmaziuns che sa mussan sco dischinfurmaziuns u sco infurmaziuns faussas, sche quai è necessari per giuditgar la situaziun u ina funtauna. El designescha las datas respectivas sco betg correctas.
 
 <sup>3</sup> El po transferir las medemas datas en plirs sistems d’infurmaziun. Valair valan las prescripziuns dal sistem d’infurmaziun respectiv.
 
 <sup>4</sup> El po correlar las datas entaifer in sistem d’infurmaziun ed evaluar quellas en moda automatisada.
+
+[^44-1]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 45
 
@@ -787,11 +791,13 @@ Il post intern per la garanzia da qualitad dal SIC ademplescha las suandantas in
 
 **Elavuraziun da datas en ils chantuns**
 
-<sup>1</sup> Las autoritads executivas chantunalas na mainan naginas atgnas collecziuns da datas applitgond questa lescha.
+<sup>1</sup> Las autoritads executivas chantunalas na mainan naginas atgnas bancas da datas en applicaziun da questa lescha.[^46-1]
 
 <sup>2</sup> Sch’ils chantuns elavuran datas en atgna cumpetenza, procuran els che las datas chantunalas na cuntegnian naginas infurmaziuns davart l’existenza e davart il cuntegn da las datas da la Confederaziun.
 
 <sup>3</sup> Las autoritads executivas chantunalas dastgan dar vinavant giudicaments da la situaziun e datas ch’ellas han survegnì dal SIC, sche quai è necessari per giuditgar mesiras per proteger la segirezza u per impedir ina periclitaziun considerabla. Il Cussegl federal regla a tge posts che questas datas dastgan vegnir surdadas ed en tge dimensiun che quai è admess.
+
+[^46-1]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. secziun Sistems d’infurmaziun per las activitads infurmativas
 
@@ -989,7 +995,7 @@ Il Cussegl federal regla:
 - d. la segirezza da las datas.
 
 [^58-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^58-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; SR **171****.****10**).
+[^58-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 ### 4. secziun Disposiziuns spezialas davart la protecziun da datas
 
@@ -1022,7 +1028,7 @@ Il SIC examinescha avant mintga communicaziun da datas da persunas u da products
 
 <sup>2</sup>
 
-Sche la legislaziun dal stadi che retschaiva las datas na garantescha nagina protecziun da datas adequata, pon vegnir communitgadas datas da persunas a quest stadi – en divergenza da l’artitgel 6 alinea 2 da la Lescha federala dals 19 da zercladur 1992[^61-1] davart la protecziun da datas (LPD) – mo, sche la Svizra tgira relaziuns diplomaticas cun quel ed ina da las suandantas premissas è ademplida:
+Sche la legislaziun dal stadi che retschaiva las datas na garantescha nagina protecziun da datas adequata, pon vegnir communitgadas datas da persunas a quest stadi – en divergenza da l’artitgel 16 alinea 1 da la Lescha federala dals 25 da settember 2020[^61-1] davart la protecziun da datas (LPD) – mo, sche la Svizra tgira relaziuns diplomaticas cun tal e sch’ina da las suandantas premissas è ademplida:[^61-2]
 
 - a. la Svizra è obligada da communitgar ad el las datas da persunas sin fundament d’ina lescha u d’in contract internaziunal;
 - b. quai è necessari per proteger in interess da segirezza public predominant da la Svizra u dal stadi che retschaiva las datas da persunas sco per impedir u per sclerir in delict grev ch’è chastiabel er en Svizra;
@@ -1034,12 +1040,13 @@ Sche la legislaziun dal stadi che retschaiva las datas na garantescha nagina pro
 
 <sup>4</sup> El po communitgar en la procedura d’invista datas da persunas ad organs da segirezza da l’exteriur, dals quals ils stadis garanteschan in nivel da protecziun da datas adequat e cun ils quals la Svizra ha fatg in contract tenor l’artitgel 70 alinea 3.
 
-<sup>5</sup> Las datas da persunas na dastgan betg vegnir communitgadas ad in organ da segirezza da l’exteriur, sche la persuna pertutgada è exponida tras quai al privel d’in chasti dubel ubain a dischavantatgs serius per il corp e per la vita en il senn da la Convenziun dals 4 da november 1950[^61-2] per la protecziun dals dretgs umans u d’autras cunvegnas internaziunalas ch’èn vegnidas ratifitgadas da la Svizra.
+<sup>5</sup> Las datas da persunas na dastgan betg vegnir communitgadas ad in organ da segirezza da l’exteriur, sche la persuna pertutgada è exponida tras quai al privel d’in chasti dubel ubain a dischavantatgs serius per il corp e per la vita en il senn da la Convenziun dals 4 da november 1950[^61-3] per la protecziun dals dretgs umans u d’autras cunvegnas internaziunalas ch’èn vegnidas ratifitgadas da la Svizra.
 
 <sup>6</sup> Sche las datas da persunas vegnan duvradas en ina procedura giuridica, valan las disposiziuns decisivas davart l’assistenza giudiziala.
 
 [^61-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^61-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-2]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 #### Art. 62
 
@@ -1085,31 +1092,35 @@ Sch’ina persuna pretenda infurmaziuns davart la dumonda, sch’il SIC elavures
 
 <sup>1</sup> Il IFPDT fa l’examinaziun tenor l’artitgel 63 alinea 3 sin dumonda da la persuna petenta.
 
-<sup>2</sup> El communitgescha a quella ubain ch’i na vegnian betg elavuradas illegalmain datas davart ella ubain ch’el haja drizzà al SIC ina recumandaziun en il senn da l’artitgel 27 LPD[^64-1] per eliminar sbagls ch’el haja constatà tar l’elavuraziun da las datas u concernent la suspensiun da l’infurmaziun.
+<sup>2</sup> Il IFPDT communitgescha a la persuna petenta che naginas datas davart ella na vegnian elavuradas illegalmain, ubain ch’el haja constatà sbagls tar l’elavuraziun da las datas u concernent la suspensiun da l’infurmaziun ed haja avert ina inquisiziun tenor l’artitgel 49 LPD[^64-1].[^64-2]
 
-<sup>3</sup> El renda attent la persuna petenta ch’ella possia pretender dal Tribunal administrativ federal d’examinar questa communicaziun ubain l’execuziun da la recumandaziun.
+<sup>3</sup> …[^64-3]
 
-<sup>4</sup> Per la recumandaziun tenor l’alinea 2 vala l’artitgel 27 alineas 4–6 LPD confurm al senn.
+<sup>4</sup> Sch’il IFPDT constatescha sbagls tar l’elavuraziun da las datas u concernent la suspensiun da l’infurmaziun, dispona el, ch’il SIC elimineschia quests sbagls.[^64-4]
 
-<sup>5</sup> Sche la persuna petenta preschenta en moda vardaivla ch’ella haja in donn considerabel ed irreparabal pervia da la suspensiun d’ina infurmaziun, po il IFPDT recumandar al SIC da dar excepziunalmain immediatamain infurmaziuns, nun ch’i resultia da quai ina periclitaziun da la segirezza interna u externa.
+<sup>5</sup> Sche la persuna petenta preschenta en moda vardaivla ch’ella haja in donn considerabel ed irreparabel pervia da la suspensiun d’ina infurmaziun, po il IFPDT disponer, ch’il SIC dettia excepziunalmain immediatamain infurmaziuns, premess che quai na chaschunia betg ina periclitaziun da la segirezza interna u externa.[^64-5]
 
 [^64-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-2]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-3]: Abolì tras la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, cun effect dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-4]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-5]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 65
 
-**Examinaziun tras il Tribunal administrativ federal**
+[^65-1]
 
-<sup>1</sup> Sin dumonda da la persuna petenta fa il Tribunal administrativ federal l’examinaziun tenor l’artitgel 64 alinea 3 e la communitgescha suenter, ch’el haja fatg quella.
-
-<sup>2</sup> Sch’igl ha dà sbagls tar l’elavuraziun da las datas ubain concernent la suspensiun da l’infurmaziun, drizza il Tribunal administrativ federal ina disposiziun al SIC per eliminar quels. Il medem vala, sche la recumandaziun dal IFPDT na vegn betg observada. Quel po far recurs cunter questa disposiziun tar il Tribunal federal.
+[^65-1]: Abolì tras la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, cun effect dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
 **Furma da la communicaziun ed exclusiun dals meds legals**
 
-<sup>1</sup> Las communicaziuns tenor ils artitgels 63 alinea 3, 64 alinea 2 e 65 alinea 1 vegnan adina formuladas da maniera identica e na vegnan betg motivadas.
+<sup>1</sup> Las communicaziuns tenor ils artitgels 63 alinea 3 e 64 alinea 2 vegnan adina formuladas da maniera identica e na vegnan betg motivadas.[^66-1]
 
 <sup>2</sup> Ellas na pon betg vegnir contestadas da las persunas pertutgadas cun meds legals.
+
+[^66-1]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 67
 
@@ -1224,18 +1235,19 @@ In’organisaziun u gruppaziun vegn stritgada da la glista d’observaziun, sche
 
 <sup>4bis</sup> La dretgira po diminuir il chasti tenor l’alinea 4 (art. 48*a* CP[^74-3]), sch’il delinquent sa stenta d’impedir ulteriuras activitads da l’organisaziun u da la gruppaziun.[^74-4]
 
-<sup>5</sup> Chastiabel è er tgi che commetta il malfatg a l’exteriur, sch’el vegn arrestà en Svizra e sch’el na vegn betg extradì. L’artitgel 7 alineas 4 e 5 CP è applitgabel.
+<sup>5</sup> Chastiabel è er tgi che commetta il malfatg a l’exteriur, sch’el vegn arrestà en Svizra e sch’el na vegn betg extradì. L’artitgel 7 alineas 4 e 5 CP[^74-5] è applitgabel.
 
-<sup>6</sup> La persecuziun ed il giudicament da las acziuns tenor ils alineas 4 e 5 suttastattan a la giurisdicziun federala.[^74-5]
+<sup>6</sup> La persecuziun ed il giudicament da las acziuns tenor ils alineas 4 e 5 suttastattan a la giurisdicziun federala.[^74-6]
 
-<sup>7</sup> Las autoritads cumpetentas communitgeschan tut las sentenzias, tut las decisiuns penalas e tut ils conclus da sistida immediatamain, gratuitamain e cumplettamain al SIC.[^74-6]
+<sup>7</sup> Las autoritads cumpetentas communitgeschan tut las sentenzias, tut las decisiuns penalas e tut ils conclus da sistida immediatamain, gratuitamain e cumplettamain al SIC.[^74-7]
 
 [^74-1]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-2]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^74-4]: Integrà tras la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-5]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^74-6]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-7]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### 2. secziun Controlla e surveglianza dal SIC
 
@@ -1276,7 +1288,7 @@ El po vegnir suspendì dal Cussegl federal da ses uffizi avant la scadenza da la
 
 <sup>4</sup> La relaziun da lavur dal manader sco er dal persunal da l’autoritad independenta da surveglianza sa drizza tenor la Lescha dals 24 da mars 2000[^77-1] davart il persunal da la Confederaziun. Il manader n’è betg suttamess al sistem da giudicat tenor l’artitgel 4 alinea 3 da la Lescha davart il persunal da la Confederaziun.[^77-2]
 
-[^77-1]: SR **172.2****20.1**
+[^77-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^77-2]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 12 da mars 2020, publitgada ils 24 da mars 2020, concerna mo il text franzos ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 78
@@ -1291,11 +1303,13 @@ El po vegnir suspendì dal Cussegl federal da ses uffizi avant la scadenza da la
 
 <sup>4</sup> Ella ha access a tut las infurmaziuns utilas ed a tut ils documents utils sco er a tut las localitads dals posts survegliads. Ella po pretender copias dals documents. En il rom da sia activitad da surveglianza po ella pretender infurmaziuns e l’invista da las actas d’auters posts da la Confederaziun e dals chantuns, uschenavant che questas infurmaziuns han in connex cun la collavuraziun da quests posts cun ils posts survegliads.
 
-<sup>5</sup> Per ademplir sia activitad da surveglianza po ella acceder a tut ils sistems d’infurmaziun ed a tut las collecziuns da datas dals posts survegliads; ella po er acceder a datas persunalas spezialmain sensiblas. Las datas retschertgadas en quest connex dastga ella arcunar mo fin che la controlla è terminada. Ils access a las differentas collecziuns da datas ston vegnir protocollads dal possessur da la collecziun da datas respectiva.
+<sup>5</sup> Per ademplir sia activitad da surveglianza po ella acceder a tut ils sistems d’infurmaziun ed a tut las bancas da datas dals posts survegliads; ella po er acceder a datas persunalas spezialmain sensiblas. Las datas retschertgadas en quest connex dastga ella arcunar mo, fin che la controlla è terminada. La persuna responsabla sto protocollar ils access als differents sistems d’infurmaziun ed a las differentas bancas da datas.[^78-1]
 
 <sup>6</sup> L’autoritad independenta da surveglianza communitgescha al DDPS en scrit il resultat da sias controllas. Ella po far recumandaziuns.
 
 <sup>7</sup> Il DDPS procura che las recumandaziuns vegnian realisadas. Sch’il DDPS refusa ina recumandaziun, suttametta el quella al Cussegl federal per laschar decider en chaussa.
+
+[^78-1]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 79
 
@@ -1410,7 +1424,7 @@ L’aboliziun e la midada d’auters decrets vegnan regladas en l’agiunta.
 
 ...[^87-1]
 
-[^87-1]: La disposiziun da coordinaziun po vegnir consultada en la AS **20****17** 4095.
+[^87-1]: La disposiziun da coordinaziun po vegnir consultada en la [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).
 
 #### Art. 88
 
@@ -1440,5 +1454,5 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)agiunta cifra 1 [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
-[^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)..
+[^annexu1-lvlu1-1]: [[AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)agiunta cifra 1, [5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
+[^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).

@@ -4,11 +4,11 @@ title: "Federal Act of 25 September 2015 on the Intelligence Service (Intelligen
 short: IntelSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: en
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Intelligence Service Act, IntelSA)
 
-of 25 September 2015 (Status as of 1 July 2021)
+of 25 September 2015 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -236,8 +236,10 @@ Public sources of information are in particular:
 
 - a. publicly accessible media;
 - b. publicly accessible registers of federal and cantonal authorities;
-- c. data collections made publicly accessible by private individuals;
+- c.[^13-1] personal data made publicly accessible by private individuals;
 - d. statements made in public.
+
+[^13-1]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -753,13 +755,15 @@ If the FIS intends to issue a mandate for cable communications intelligence, it 
 
 **Principles**
 
-<sup>1</sup> The FIS and the cantonal executive authorities may process personal data, including sensitive personal data and personality profiles.
+<sup>1</sup> The FIS and the cantonal executive authorities are authorised to process personal data, including personal data that permits an assessment of the level of risk that a person poses, irrespective of whether the data are sensitive personal data or not.[^44-1]
 
 <sup>2</sup> The FIS may also process information that proves to be disinformation or false information if this is necessary in order to assess the situation or a source. It shall mark the relevant data as incorrect.
 
 <sup>3</sup> It may transfer the same data to several information systems. The specifications for the information system concerned apply.
 
 <sup>4</sup> It may record data within an information system through a network and evaluate it automatically.
+
+[^44-1]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 45
 
@@ -787,11 +791,13 @@ The FIS’s internal quality assurance service shall carry out the following tas
 
 **Data processing in the cantons**
 
-<sup>1</sup> The cantonal executive authorities shall not maintain any data collections of their own in application of this Act.
+<sup>1</sup> The cantonal executive authorities shall not maintain any databases of their own in application of this Act.[^46-1]
 
 <sup>2</sup> If the cantons process data on their own initiative, they shall ensure that the cantonal data makes no reference to the existence or content of federal data.
 
 <sup>3</sup> The cantonal executive authorities may pass on situation assessments and data that they receive from the FIS if this is necessary in order to assess measures to safeguard security or to avert a significant danger. The Federal Council shall regulate the agencies and the extent to which assessments and data may be passed on.
+
+[^46-1]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 2 Intelligence Information Systems
 
@@ -1022,7 +1028,7 @@ The FIS shall ensure before disclosing any personal data or products that the pe
 
 <sup>2</sup>
 
-If the legislation of the receiving state does not guarantee appropriate data protection, the personal data may be disclosed to this state in derogation from Article 6 paragraph 2 of the Federal Act of 19 June 1992[^61-1] on Data Protection (FADP) only if Switzerland maintains diplomatic relations with that state and one of the following requirements is met:
+If the legislation of the receiving state does not guarantee appropriate data protection, the personal data may be disclosed to this state in derogation from Article 16 paragraph 1 of the Data Protection Act of 25 September 2020[^61-1] on (FADP) only if Switzerland maintains diplomatic relations with that state and one of the following requirements is met:[^61-2]
 
 - a. Switzerland is required by law or by an international agreement to disclose the personal data to the state.
 - b. Disclosure is required to safeguard an overriding public security interest in Switzerland or in the receiving state such as preventing a serious criminal offence which is also a serious offence in Switzerland or bringing its perpetrators to justice.
@@ -1034,12 +1040,13 @@ If the legislation of the receiving state does not guarantee appropriate data pr
 
 <sup>4</sup> It may disclose personal data online to foreign security agencies whose states guarantee an appropriate standard of data protection and with which Switzerland has concluded an agreement in accordance with Article 70 paragraph 3.
 
-<sup>5</sup> Personal data may not be disclosed to a foreign security agency if the person concerned will be exposed to the risk of being punished twice or of serious harm to his or her life, limb or freedom in terms of the Convention of 4 November 1950[^61-2] on the Protection of Human Rights and Fundamental Freedoms or other international agreements that Switzerland has ratified.
+<sup>5</sup> Personal data may not be disclosed to a foreign security agency if the person concerned will be exposed to the risk of being punished twice or of serious harm to his or her life, limb or freedom in terms of the Convention of 4 November 1950[^61-3] on the Protection of Human Rights and Fundamental Freedoms or other international agreements that Switzerland has ratified.
 
 <sup>6</sup> If the personal data is required in legal proceedings, the relevant provisions on mutual assistance apply.
 
 [^61-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^61-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-2]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 #### Art. 62
 
@@ -1085,31 +1092,35 @@ If a person requests information on whether the FIS is processing data on them i
 
 <sup>1</sup> The FDPIC shall conduct an examination in accordance with Article 63 paragraph 3 if so requested by the applicant.
 
-<sup>2</sup> It shall notify the applicant either that no data relating to the applicant has been unlawfully processed or that it has identified errors relating to the deferral of the provision of information and has made a recommendation as defined in Article 27 FADP[^64-1] to the FIS in respect of their rectification.
+<sup>2</sup> It shall notify the applicant either that no data relating to the applicant has been unlawfully processed or that it has identified errors relating to the deferral of the provision of information and has opened an investigation under Article 49 FADP[^64-1].[^64-2]
 
-<sup>3</sup> It shall notify the applicant that he or she may request the Federal Administrative Court to review this notification or the implementation of the recommendation.
+<sup>3</sup> …[^64-3]
 
-<sup>4</sup> Article 27 paragraphs 4–6 FADP applies by analogy to the recommendation in accordance with paragraph 2.
+<sup>4</sup> If it identifies errors while processing the data or when deferring the provision of information, it shall order the FIS to rectify the same.[^64-4]
 
-<sup>5</sup> If the applicant credibly shows that a deferral of the provision of information will cause him or her considerable harm that cannot be rectified, the FDPIC may recommend that the FIS issue information immediately by way of exception provided this will not pose a risk to internal or external security.
+<sup>5</sup> If the applicant credibly shows that a deferral of the provision of information will cause him or her considerable harm that cannot be rectified, the FDPIC may order the FIS to issue information immediately by way of exception provided this will not pose a risk to internal or external security.[^64-5]
 
 [^64-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-2]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-3]: Repealed by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-4]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-5]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 65
 
-**Review by the Federal Administrative Court**
+[^65-1]
 
-<sup>1</sup> At the request of the applicant, the Federal Administrative Court shall conduct a review in accordance with Article 64 paragraph 3 and notify the applicant thereafter that it has done so.
-
-<sup>2</sup> If there have been errors in relation to data processing or the deferral of the provision of information, the Federal Administrative Court shall issue a ruling on their rectification to the FIS. The foregoing also applies if the FDPIC’s recommendation is not followed. The FIS may appeal against this ruling to the Federal Supreme Court.
+[^65-1]: Repealed by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
 **Form of notification and exclusion of appeals**
 
-<sup>1</sup> The notifications in accordance with Articles 63 paragraph 3, 64 paragraph 2 and 65 paragraph 1 shall always be worded in the same way and do not contain a statement of reasons.
+<sup>1</sup> The notifications in accordance with Articles 63 paragraph 3 and 64 paragraph 2 shall always be worded in the same way and do not contain a statement of reasons.[^66-1]
 
 <sup>2</sup> The persons concerned may not contest the notifications.
+
+[^66-1]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 67
 
@@ -1292,11 +1303,13 @@ He or she may be removed from the post by the Federal Council before the expiry 
 
 <sup>4</sup> It has access to all relevant information and documents and access to all the premises of the subjects of supervision. It may request copies of documents. Within the scope of its supervision activities, it may request information from and may inspect files held by other federal and cantonal agencies, provided this information is related to the cooperation between these agencies and the subjects of supervision.
 
-<sup>5</sup> In order to carry out its supervision activities, it may have access to all the information systems and data collections of the subjects of supervision; it may also have access to sensitive personal data. It may only store the data thereby obtained until the audit is completed. The proprietors of the data collection concerned must keep a record of access to the various data collections.
+<sup>5</sup> In order to carry out its supervision activities, it may have access to all the information systems and databases of the subjects of supervision; it may also have access to sensitive personal data. It may only store the data thereby obtained until the audit is completed. The controllers concerned must keep a record of access to the various information systems and databases.[^78-1]
 
 <sup>6</sup> The independent supervisory authority shall provide the DDPS with a written report on the results of its audit. It may issue recommendations.
 
 <sup>7</sup> The DDPS shall ensure that the recommendations are implemented. If the DDPS rejects a recommendation, it shall submit the same to the Federal Council for a decision.
+
+[^78-1]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 79
 

@@ -4,11 +4,11 @@ title: Legge federale del 25 settembre 2015 sulle attività informative (LAIn)
 short: LAIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: it
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/it"
 
 (LAIn)
 
-del 25 settembre 2015 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 25 settembre 2015 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -48,7 +48,7 @@ La presente legge disciplina:
 La presente legge ha lo scopo di tutelare interessi nazionali importanti; intende:
 
 - a. contribuire a garantire i fondamenti della democrazia e dello Stato di diritto della Svizzera e a proteggere i diritti di libertà della sua popolazione;
-- b. accrescere la sicurezza della popolazione della Svizzera e degli Svizzeri all’estero; (Stato 1° luglio 2021)
+- b. accrescere la sicurezza della popolazione della Svizzera e degli Svizzeri all’estero; (Stato 1° settembre 2023)
 - c. sostenere la capacità d’azione della Svizzera;
 - d. contribuire a tutelare gli interessi internazionali in materia di sicurezza.
 
@@ -234,8 +234,10 @@ Sono fonti d’informazione pubbliche segnatamente:
 
 - a. i media accessibili al pubblico;
 - b. i registri accessibili al pubblico di autorità della Confederazione e dei Cantoni;
-- c. le collezioni di dati che privati rendono accessibili al pubblico;
+- c.[^13-1] i dati personali che privati rendono accessibili al pubblico;
 - d. le dichiarazioni rese in pubblico.
+
+[^13-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -751,13 +753,15 @@ Se intende assegnare un mandato per l’esplorazione di segnali via cavo, il SIC
 
 **Principi**
 
-<sup>1</sup> Il SIC e le autorità d’esecuzione cantonali possono trattare dati personali, compresi dati personali degni di particolare protezione e profili della personalità.
+<sup>1</sup> Il SIC e le autorità d’esecuzione cantonali sono autorizzati a trattare dati personali, compresi quelli necessari per valutare il grado di pericolosità di una persona, a prescindere dal fatto che si tratti o meno di dati personali degni di particolare protezione.[^44-1]
 
 <sup>2</sup> Il SIC può continuare a trattare informazioni che si rivelano essere disinformazione o false informazioni, se ciò è necessario per la valutazione della situazione o di una fonte. Contrassegna i dati in questione come inesatti.
 
 <sup>3</sup> Il SIC può riversare i medesimi dati in più sistemi d’informazione. Si applicano le disposizioni specifiche di ogni sistema d’informazione.
 
 <sup>4</sup> Il SIC può correlare i dati all’interno di un sistema d’informazione e analizzarli in modo automatizzato.
+
+[^44-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 45
 
@@ -785,11 +789,13 @@ L’organo interno di controllo della qualità del SIC assume i compiti seguenti
 
 **Trattamento dei dati nei Cantoni**
 
-<sup>1</sup> Le autorità d’esecuzione cantonali non gestiscono alcuna collezione di dati propria in applicazione della presente legge.
+<sup>1</sup> Le autorità d’esecuzione cantonali non gestiscono alcuna banca dati propria in applicazione della presente legge.[^46-1]
 
 <sup>2</sup> Se trattano dati entro le proprie competenze, i Cantoni provvedono affinché i dati cantonali non contengano indicazioni riguardo all’esistenza e al contenuto dei dati della Confederazione.
 
 <sup>3</sup> Le autorità d’esecuzione cantonali possono trasmettere valutazioni della situazione e dati ricevuti dal SIC se ciò è necessario alla valutazione di misure per la salvaguardia della sicurezza o per sventare una minaccia considerevole. Il Consiglio federale stabilisce a quali servizi possono essere trasmessi questi dati e in quale misura.
+
+[^46-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 2: Sistemi d’informazione per le attività informative
 
@@ -1020,7 +1026,7 @@ Prima di ogni comunicazione di dati personali o di prodotti, il SIC si assicura 
 
 <sup>2</sup>
 
-Se la legislazione dello Stato destinatario non assicura una protezione adeguata dei dati, i dati personali possono essergli comunicati in deroga all’articolo 6 capoverso 2 della legge federale del 19 giugno 1992[^61-1] sulla protezione dei dati (LPD) soltanto se la Svizzera intrattiene con detto Stato relazioni diplomatiche e se è soddisfatta una delle condizioni seguenti:
+Se la legislazione dello Stato destinatario non assicura una protezione adeguata dei dati, i dati personali possono essergli comunicati in deroga all’articolo 16 capoverso 1 della legge federale del 25 settembre 2020[^61-1] sulla protezione dei dati (LPD) soltanto se la Svizzera intrattiene con detto Stato relazioni diplomatiche e se è soddisfatta una delle condizioni seguenti:[^61-2]
 
 - a. la Svizzera è tenuta a comunicargli i dati personali in virtù di una legge o di un trattato internazionale;
 - b. la comunicazione è necessaria per tutelare un interesse pubblico preponderante inerente alla sicurezza della Svizzera o dello Stato destinatario, quale prevenire o fare luce su un reato grave punibile anche in Svizzera;
@@ -1032,12 +1038,13 @@ Se la legislazione dello Stato destinatario non assicura una protezione adeguata
 
 <sup>4</sup> Il SIC può comunicare dati personali, mediante procedura di richiamo, ad organi di sicurezza di Stati terzi se detti Stati assicurano una protezione adeguata dei dati e se con essi la Svizzera ha concluso un trattato secondo l’articolo 70 capoverso 3.
 
-<sup>5</sup> I dati personali non possono essere comunicati a un organo di sicurezza estero se ciò comporta per la persona interessata il pericolo di una doppia punizione o pregiudizi gravi per la vita, l’integrità fisica o la libertà ai sensi della Convenzione del 4 novembre 1950[^61-2] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali o di altri trattati internazionali ratificati dalla Svizzera.
+<sup>5</sup> I dati personali non possono essere comunicati a un organo di sicurezza estero se ciò comporta per la persona interessata il pericolo di una doppia punizione o pregiudizi gravi per la vita, l’integrità fisica o la libertà ai sensi della Convenzione del 4 novembre 1950[^61-3] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali o di altri trattati internazionali ratificati dalla Svizzera.
 
 <sup>6</sup> Se i dati personali sono richiesti nel quadro di un procedimento legale, si applicano le disposizioni determinanti in materia di assistenza giudiziaria.
 
 [^61-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^61-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-2]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^61-3]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 #### Art. 62
 
@@ -1083,31 +1090,35 @@ Qualora una persona domandi al SIC se stia trattando dati che la concernono nei 
 
 <sup>1</sup> Su domanda del richiedente, l’IFPDT effettua la verifica di cui all’articolo 63 capoverso 3.
 
-- [tab] <sup>2</sup> L’IFPDT comunica al richiedente che nessun dato che lo concerne è trattato in modo illecito oppure che sono stati riscontrati errori nel trattamento dei dati o riguardanti il differimento dell’informazione e che ha inviato al SIC una raccomandazione ai sensi dell’articolo 27 LPD[^64-1] affinché vengano corretti.
+<sup>2</sup> L’IFPDT comunica al richiedente che nessun dato che lo concerne è trattato in modo illecito oppure che sono stati riscontrati errori nel trattamento dei dati o riguardanti il differimento dell’informazione e che ha aperto un’inchiesta ai sensi dell’articolo 49 LPD[^64-1].[^64-2]
 
-<sup>3</sup> L’IFPDT rende attento il richiedente al fatto che può domandare al TAF di verificare detta comunicazione o l’esecuzione della raccomandazione.
+<sup>3</sup> *...* [^64-3]
 
-<sup>4</sup> L’articolo 27 capoversi 4–6 LPD si applica per analogia alla raccomandazione di cui al capoverso 2.
+<sup>4</sup> Se riscontra errori nel trattamento dei dati o riguardanti il differimento dell’informazione, l’IFPDT ordina al SIC di correggere tali errori.[^64-4]
 
-<sup>5</sup> Qualora il richiedente renda verosimile che il differimento dell’informazione gli arrecherebbe un danno rilevante e irreparabile, l’IFPDT può raccomandare al SIC di fornire immediatamente, a titolo eccezionale, le informazioni richieste, sempre che ciò non pregiudichi la sicurezza interna o esterna.
+<sup>5</sup> Qualora il richiedente renda verosimile che il differimento dell’informazione gli arrecherebbe un danno rilevante e irreparabile, l’IFPDT può ordinare al SIC di fornire immediatamente, a titolo eccezionale, le informazioni richieste, sempre che ciò non pregiudichi la sicurezza interna o esterna.[^64-5]
 
 [^64-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-2]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-3]: Abrogato dall’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-4]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-5]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 65
 
-**Verifica da parte del TAF**
+[^65-1]
 
-<sup>1</sup> Su domanda del richiedente, il TAF effettua la verifica di cui all’articolo 64 capoverso 3 e gli comunica che la stessa ha avuto luogo.
-
-<sup>2</sup> Se riscontra errori nel trattamento dei dati o riguardanti il differimento dell’informazione, il TAF invia al SIC una decisione in cui dispone che tali errori vengano corretti. La medesima procedura si applica in caso di inosservanza della raccomandazione dell’IFPDT. Il SIC può impugnare la decisione con ricorso al Tribunale federale.
+[^65-1]: Abrogato dall’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
 **Forma della comunicazione ed esclusione dei rimedi giuridici**
 
-<sup>1</sup> Le comunicazioni di cui agli articoli 63 capoverso 3, 64 capoverso 2 e 65 capoverso 1 hanno sempre lo stesso tenore e non vengono motivate.
+<sup>1</sup> Le comunicazioni di cui agli articoli 63 capoverso 3 e 64 capoverso 2 hanno sempre lo stesso tenore e non vengono motivate.[^66-1]
 
 <sup>2</sup> Non sono impugnabili.
+
+[^66-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 67
 
@@ -1290,11 +1301,13 @@ Il Consiglio federale può destituire il capo dell’autorità di vigilanza prim
 
 <sup>4</sup> L’autorità di vigilanza indipendente ha accesso a tutte le informazioni e a tutti i documenti utili nonché a tutti i locali dei servizi sottoposti a vigilanza. Può esigere fotocopie dei documenti consultati. Nel quadro della propria attività di vigilanza può chiedere ad altri servizi della Confederazione e dei Cantoni di fornirle informazioni nonché l’accesso a documenti, sempreché vi sia un nesso tra tali informazioni e la collaborazione tra questi servizi e i servizi sottoposti a vigilanza.
 
-<sup>5</sup> Per adempiere la propria attività, l’autorità di vigilanza può accedere a tutti i sistemi di informazione e a tutte le collezioni di dati dei servizi sottoposti a vigilanza; può altresì accedere a dati personali degni di particolare protezione. I dati rilevati possono essere memorizzati solo fino al termine della verifica. I detentori delle varie collezioni di dati verbalizzano gli accessi alle collezioni.
+<sup>5</sup> Per adempiere la propria attività, l’autorità di vigilanza indipendente può accedere a tutti i sistemi di informazione e a tutte le banche dati dei servizi sottoposti a vigilanza; può altresì accedere a dati personali degni di particolare protezione. I dati rilevati possono essere memorizzati soltanto fino al termine della verifica. Il titolare del trattamento verbalizza gli accessi ai sistemi di informazione e alle banche dati.[^78-1]
 
 <sup>6</sup> L’autorità di vigilanza indipendente comunica per scritto al DDPS il risultato delle proprie verifiche. Può formulare raccomandazioni.
 
 <sup>7</sup> Il DDPS provvede all’attuazione delle raccomandazioni. Se rifiuta una raccomandazione, il DDPS la sottopone al Consiglio federale per decisione.
+
+[^78-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 79
 
@@ -1439,5 +1452,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)all. n. 1 [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
+[^annexu1-lvlu1-1]: [[RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)all. n. 1, [5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).

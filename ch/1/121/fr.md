@@ -4,11 +4,11 @@ title: Loi fédérale du 25 septembre 2015 sur le renseignement (LRens)
 short: LRens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: fr
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/fr"
 
 (LRens)[^t-1]
 
-du 25 septembre 2015 (Etat le 1<sup>er</sup> juillet 2021)
+du 25 septembre 2015 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -236,8 +236,10 @@ Par sources d’informations publiques, on entend notamment:
 
 - a. les médias accessibles au public;
 - b. les registres des autorités fédérales et cantonales qui sont accessibles au public;
-- c. les fichiers que des particuliers rendent accessibles au public;
+- c.[^13-1] les données personnelles que les particuliers rendent accessibles au public;
 - d. les déclarations faites en public.
+
+[^13-1]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -753,13 +755,15 @@ Lorsque le SRC envisage de confier un mandat d’exploration du réseau câblé,
 
 **Principes**
 
-<sup>1</sup> Le SRC et les autorités d’exécution cantonales peuvent traiter des données personnelles y compris des données sensibles et des profils de la personnalité.
+<sup>1</sup> Le SRC et les autorités d’exécution cantonales peuvent traiter des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente.[^44-1]
 
 <sup>2</sup> Le SRC peut continuer de traiter des données qui s’avèrent de la désinformation ou de fausses informations lorsque ce traitement est nécessaire à l’appréciation de la situation ou à l’évaluation d’une source. Il marque ces données comme inexactes.
 
 <sup>3</sup> Il peut verser les mêmes données dans plusieurs systèmes d’information. Les dispositions spécifiques à chaque système d’information sont applicables.
 
 <sup>4</sup> Le SRC peut relier les données au sein d’un système d’information et les évaluer de manière automatisée.
+
+[^44-1]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 45
 
@@ -787,11 +791,13 @@ Le service interne de contrôle de qualité du SRC assume les tâches suivantes:
 
 **Traitement des données par les cantons**
 
-<sup>1</sup> Les autorités d’exécution cantonales ne constituent aucun fichier en application de la présente loi.
+<sup>1</sup> Les autorités d’exécution cantonales ne constituent aucune banque de données en application de la présente loi.[^46-1]
 
 <sup>2</sup> Lorsque les cantons traitent de leur propre compétence des données, ils veillent à ce que les données cantonales ne portent aucune indication sur l’existence ou le contenu des données de la Confédération.
 
 <sup>3</sup> Les autorités d’exécution cantonales ont le droit de transmettre les appréciations de la situation et les données qu’elles obtiennent du SRC lorsque l’appréciation de mesures visant à préserver la sécurité ou écarter une menace importante le requiert. Le Conseil fédéral détermine à quels services ces données peuvent être transmises et dans quelle ampleur.
+
+[^46-1]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 2 Systèmes d’information en matière de renseignement
 
@@ -929,7 +935,7 @@ Il contient:
 
 <sup>3</sup> Les collaborateurs du SRC y ont accès en ligne.
 
-<sup>4</sup> Le SCR peut accorder aux membres des autorités d’exécution cantonales un accès en ligne à certaines données du portail ROSO.
+<sup>4</sup> Le SRC peut accorder aux membres des autorités d’exécution cantonales un accès en ligne à certaines données du portail ROSO.
 
 #### Art. 55
 
@@ -1023,7 +1029,7 @@ Le SRC s’assure avant toute communication de données personnelles ou de produ
 
 <sup>2</sup>
 
-Si la législation de l’État destinataire n’assure pas un niveau de protection adéquat des données, des données personnelles peuvent lui être communiquées, en dérogation à l’art. 6, al. 2, de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^61-1], si la Suisse entretient avec l’État destinataire des relations diplomatiques et que l’une des conditions suivantes est remplie:
+Si la législation de l’État destinataire n’assure pas un niveau de protection adéquat des données, des données personnelles peuvent lui être communiquées, en dérogation à l’art. 16, al. 1, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^61-1], si la Suisse entretient avec l’État destinataire des relations diplomatiques et que l’une des conditions suivantes est remplie:[^61-2]
 
 - a. la Suisse est tenue de lui communiquer les données personnelles en vertu d’une loi ou d’un traité international;
 - b. la communication est nécessaire à la sauvegarde d’intérêts publics prépondérants liés à la sûreté de la Suisse ou de l’État destinataire, tel que prévenir ou élucider une infraction grave lorsqu’elle est également punissable en Suisse;
@@ -1035,12 +1041,13 @@ Si la législation de l’État destinataire n’assure pas un niveau de protect
 
 <sup>4</sup> Le SRC peut communiquer en ligne des données personnelles à des organes de sûreté étrangers dont les États garantissent un niveau de protection des données adéquat et avec lesquels la Suisse a conclu un traité au sens de l’art. 70, al. 3.
 
-<sup>5</sup> Aucune donnée personnelle ne peut être communiquée à un organe de sûreté d’un État étranger si la personne concernée risque, par suite de la transmission de ces données, une double condamnation ou des préjudices sérieux contre sa vie, son intégrité corporelle ou sa liberté au sens de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales[^61-2] ou d’autres traités internationaux ratifiés par la Suisse.
+<sup>5</sup> Aucune donnée personnelle ne peut être communiquée à un organe de sûreté d’un État étranger si la personne concernée risque, par suite de la transmission de ces données, une double condamnation ou des préjudices sérieux contre sa vie, son intégrité corporelle ou sa liberté au sens de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales[^61-3] ou d’autres traités internationaux ratifiés par la Suisse.
 
 <sup>6</sup> Si la communication des données personnelles est requise dans le cadre d’une procédure juridique, les dispositions pertinentes relatives à l’entraide judiciaire sont applicables.
 
 [^61-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^61-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-2]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^61-3]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 #### Art. 62
 
@@ -1086,31 +1093,35 @@ Lorsqu’une personne demande si le SRC traite des données la concernant dans l
 
 <sup>1</sup> À la demande du requérant, le PFPDT effectue la vérification visée à l’art. 63, al. 3.
 
-<sup>2</sup> Il lui indique soit qu’aucune donnée le concernant n’est traitée illégalement, soit qu’il a constaté une erreur relative au traitement des données ou au report de la réponse et qu’il a adressé au SRC la recommandation d’y remédier en vertu de l’art. 27 LPD[^64-1].
+<sup>2</sup> Il lui indique soit qu’aucune donnée le concernant n’est traitée illégalement, soit qu’il a constaté une erreur relative au traitement des données ou au report de la réponse et qu’il a ouvert une enquête conformément à l’art. 49 LPD[^64-1].[^64-2]
 
-<sup>3</sup> Le PFPDT informe également le requérant qu’il peut demander au TAF de vérifier sa réponse ou la mise en œuvre de la recommandation qu’il a émise.
+<sup>3</sup> …[^64-3]
 
-<sup>4</sup> L’art. 27, al. 4 à 6, LPD s’applique par analogie à la recommandation visée à l’al. 2.
+<sup>4</sup> En cas d’erreur relative au traitement des données ou au report de la réponse, il ordonne au SRC d’y remédier.[^64-4]
 
-<sup>5</sup> Si le requérant rend vraisemblable qu’un report de la réponse le léserait gravement et de manière irréparable, le PFPDT peut recommander au SRC qu’il fournisse immédiatement à titre exceptionnel le renseignement demandé pour autant que sa communication ne constitue pas une menace pour la sûreté intérieure ou extérieure.
+<sup>5</sup> Si le requérant rend vraisemblable qu’un report de la réponse le léserait gravement et de manière irréparable, le PFPDT peut ordonner au SRC qu’il fournisse immédiatement à titre exceptionnel le renseignement demandé pour autant que sa communication ne constitue pas une menace pour la sûreté intérieure ou extérieure.[^64-5]
 
 [^64-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-2]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-3]: Abrogé par l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-4]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-5]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 65
 
-**Vérification par le Tribunal administratif fédéral**
+[^65-1]
 
-<sup>1</sup> À la demande du requérant, le TAF effectue la vérification visée à l’art. 64, al. 3, et l’en informe.
-
-<sup>2</sup> Lorsque le TAF constate des erreurs relatives au traitement des données ou au report de la réponse, il adresse au SRC une décision lui ordonnant d’y remédier. La procédure est la même lorsque la recommandation du PFPDT n’est pas observée. Celui-ci peut recourir contre la décision devant le Tribunal fédéral.
+[^65-1]: Abrogé par l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
 **Forme des communications et exclusion des voies de recours**
 
-<sup>1</sup> Les communications visées aux art. 63, al. 3, 64, al. 2, et 65, al. 1, sont toujours formulées de manière identique et ne sont pas motivées.
+<sup>1</sup> Les communications visées aux art. 63, al. 3, et 64, al. 2, sont toujours formulées de manière identique et ne sont pas motivées.[^66-1]
 
 <sup>2</sup> Elles ne sont pas sujettes à recours.
+
+[^66-1]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 67
 
@@ -1292,11 +1303,13 @@ Le Conseil fédéral peut révoquer le chef de l’autorité de surveillance ind
 
 <sup>4</sup> Elle a accès à toutes les informations et à tous les documents utiles ainsi qu’à tous les locaux utilisés par les entités soumises à la surveillance. Elle peut exiger des copies des documents consultés. Dans le cadre de l’accomplissement de ses tâches de surveillance, elle peut demander à d’autres services de la Confédération et des cantons de lui fournir des informations et de la laisser prendre connaissance des dossiers, dans la mesure où ces informations ont un lien avec la collaboration entre ces services et les entités soumises à la surveillance.
 
-<sup>5</sup> Pour accomplir ses tâches, l’autorité de surveillance indépendante peut accéder à tous les systèmes d’information et à tous les fichiers des entités soumises à la surveillance; elle peut également accéder en ligne aux données sensibles. Elle ne peut conserver les données dont elle a ainsi eu connaissance que jusqu’à l’aboutissement de la procédure de contrôle. Les accès aux différents fichiers doivent être consignés dans un journal par le maître du fichier.
+<sup>5</sup> Pour accomplir ses tâches, l’autorité de surveillance indépendante peut accéder à tous les systèmes d’information et à toutes les banques de données des entités soumises à la surveillance; elle peut également accéder à des données sensibles. Elle ne peut conserver les données dont elle a ainsi eu connaissance que jusqu’à l’aboutissement de la procédure de contrôle. Les accès aux différents systèmes d’information et banques de données doivent être consignés dans un journal par le responsable du traitement.[^78-1]
 
 <sup>6</sup> L’autorité de surveillance indépendante communique le résultat de ses contrôles par écrit au DDPS. Elle peut former des recommandations.
 
 <sup>7</sup> Le DDPS veille à la mise en œuvre de ces recommandations. Si le DDPS rejette une recommandation, il la soumet au Conseil fédéral pour décision.
+
+[^78-1]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 79
 

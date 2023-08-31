@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2015 über den Nachrichtendienst (Nachric
 short: NDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: de
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/de"
 
 (Nachrichtendienstgesetz, NDG)
 
-vom 25. September 2015 (Stand am 1. Juli 2021)
+vom 25. September 2015 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -236,8 +236,10 @@ Der NDB kann im Rahmen von Artikel 70 Absatz 1 Buchstabe f zum Vollzug dieses Ge
 
 - a. öffentlich zugängliche Medien;
 - b. öffentlich zugängliche Register von Behörden des Bundes und der Kantone;
-- c. von Privaten öffentlich zugänglich gemachte Datensammlungen;
+- c.[^13-1] von Privaten öffentlich zugänglich gemachte Personendaten;
 - d. in der Öffentlichkeit vorgetragene Äusserungen.
+
+[^13-1]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -753,13 +755,15 @@ Beabsichtigt der NDB, einen Auftrag zur Kabelaufklärung zu erteilen, so unterbr
 
 **Grundsätze**
 
-<sup>1</sup> Der NDB und die kantonalen Vollzugsbehörden dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bearbeiten.
+<sup>1</sup> Der NDB und die kantonalen Vollzugsbehörden sind befugt, Personendaten, einschliesslich Personendaten, welche die Beurteilung des Gefährlichkeitsgrades einer Person erlauben, zu bearbeiten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht.[^44-1]
 
 <sup>2</sup> Der NDB kann Informationen, die sich als Desinformation oder Falschinformation herausstellen, weiter bearbeiten, wenn dies für die Beurteilung der Lage oder einer Quelle notwendig ist. Er kennzeichnet die betreffenden Daten als unrichtig.
 
 <sup>3</sup> Er kann dieselben Daten in mehrere Informationssysteme überführen. Es gelten die Vorgaben des jeweiligen Informationssystems.
 
 <sup>4</sup> Er kann die Daten innerhalb eines Informationssystems vernetzt erfassen und automatisiert auswerten.
+
+[^44-1]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 45
 
@@ -787,11 +791,13 @@ Die interne Qualitätssicherungsstelle des NDB nimmt folgende Aufgaben wahr:
 
 **Datenbearbeitung in den Kantonen**
 
-<sup>1</sup> Die kantonalen Vollzugsbehörden führen keine eigenen Datensammlungen in Anwendung dieses Gesetzes.
+<sup>1</sup> Die kantonalen Vollzugsbehörden führen keine eigenen Datenbanken in Anwendung dieses Gesetzes.[^46-1]
 
 <sup>2</sup> Bearbeiten die Kantone Daten in eigener Zuständigkeit, so sorgen sie dafür, dass die kantonalen Daten keinen Hinweis auf Bestand und Inhalt der Bundesdaten enthalten.
 
 <sup>3</sup> Die kantonalen Vollzugsbehörden dürfen Lagebeurteilungen und Daten, die sie vom NDB erhalten haben, weitergeben, wenn es für die Beurteilung von Massnahmen zur Wahrung der Sicherheit oder für die Abwendung einer erheblichen Gefährdung notwendig ist. Der Bundesrat regelt, an welche Stellen und in welchem Umfang die Weitergabe zulässig ist.
+
+[^46-1]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Abschnitt: Nachrichtendienstliche Informationssysteme
 
@@ -1022,7 +1028,7 @@ Der NDB stellt vor jeder Bekanntgabe von Personendaten oder Produkten sicher, da
 
 <sup>2</sup>
 
-Gewährleistet die Gesetzgebung des Empfängerstaates keinen angemessenen Datenschutz, so können Personendaten diesem Staat in Abweichung von Artikel 6 Absatz 2 des Bundesgesetzes vom 19. Juni 1992[^61-1] über den Datenschutz (DSG) nur bekannt gegeben werden, wenn die Schweiz mit ihm diplomatische Beziehungen pflegt und eine der folgenden Voraussetzungen erfüllt ist:
+Gewährleistet die Gesetzgebung des Empfängerstaates keinen angemessenen Datenschutz, so können Personendaten diesem Staat in Abweichung von Artikel 16 Absatz 1 des Datenschutzgesetzes vom 25. September 2020[^61-1] (DSG) nur bekannt gegeben werden, wenn die Schweiz mit ihm diplomatische Beziehungen pflegt und eine der folgenden Voraussetzungen erfüllt ist:[^61-2]
 
 - a. Die Schweiz ist aufgrund eines Gesetzes oder eines völkerrechtlichen Vertrags dazu verpflichtet, ihm die Personendaten bekannt zu geben.
 - b. Dies ist zur Wahrung eines überwiegenden öffentlichen Sicherheitsinteresses der Schweiz oder des Empfängerstaats wie der Verhinderung oder Aufklärung einer auch in der Schweiz strafbaren schweren Straftat notwendig.
@@ -1034,12 +1040,13 @@ Gewährleistet die Gesetzgebung des Empfängerstaates keinen angemessenen Datens
 
 <sup>4</sup> Er kann Personendaten im Abrufverfahren ausländischen Sicherheitsorganen bekannt geben, deren Staaten ein angemessenes Datenschutzniveau gewährleisten und mit denen die Schweiz einen Vertrag nach Artikel 70 Absatz 3 abgeschlossen hat.
 
-<sup>5</sup> Personendaten dürfen einem ausländischen Sicherheitsorgan nicht bekannt gegeben werden, wenn die betroffene Person dadurch der Gefahr einer Doppelbestrafung oder ernsthafter Nachteile für Leib, Leben oder Freiheit im Sinne der Konvention vom 4. November 1950[^61-2] zum Schutze der Menschenrechte und Grundfreiheiten oder anderer, von der Schweiz ratifizierter internationaler Abkommen ausgesetzt wird.
+<sup>5</sup> Personendaten dürfen einem ausländischen Sicherheitsorgan nicht bekannt gegeben werden, wenn die betroffene Person dadurch der Gefahr einer Doppelbestrafung oder ernsthafter Nachteile für Leib, Leben oder Freiheit im Sinne der Konvention vom 4. November 1950[^61-3] zum Schutze der Menschenrechte und Grundfreiheiten oder anderer, von der Schweiz ratifizierter internationaler Abkommen ausgesetzt wird.
 
 <sup>6</sup> Werden die Personendaten in einem rechtlichen Verfahren benötigt, so gelten die massgebenden Bestimmungen über die Rechtshilfe.
 
 [^61-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^61-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-2]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 #### Art. 62
 
@@ -1085,31 +1092,35 @@ Verlangt eine Person Auskunft darüber, ob der NDB Daten über sie in den Inform
 
 <sup>1</sup> Der EDÖB führt auf Verlangen der gesuchstellenden Person die Prüfung nach Artikel 63 Absatz 3 durch.
 
-<sup>2</sup> Er teilt ihr mit, dass entweder in Bezug auf sie keine Daten unrechtmässig bearbeitet werden oder dass er bei der Datenbearbeitung oder betreffend den Aufschub der Auskunft Fehler festgestellt und eine entsprechende Empfehlung im Sinne von Artikel 27 DSG[^64-1] zu deren Behebung an den NDB gerichtet hat.
+<sup>2</sup> Er teilt ihr mit, dass entweder in Bezug auf sie keine Daten unrechtmässig bearbeitet werden oder dass er bei der Datenbearbeitung oder betreffend den Aufschub der Auskunft Fehler festgestellt und eine Untersuchung nach Artikel 49 DSG[^64-1] eröffnet hat.[^64-2]
 
-<sup>3</sup> Er weist die gesuchstellende Person darauf hin, dass sie vom Bundesverwaltungsgericht verlangen kann, diese Mitteilung oder den Vollzug der Empfehlung zu überprüfen.
+<sup>3</sup> …[^64-3]
 
-<sup>4</sup> Für die Empfehlung nach Absatz 2 gilt Artikel 27 Absätze 4–6 DSG sinngemäss.
+<sup>4</sup> Stellt er bei der Datenbearbeitung oder betreffend den Aufschub der Auskunft Fehler fest, so verfügt er, dass der NDB diese behebt.[^64-4]
 
-<sup>5</sup> Legt die gesuchstellende Person glaubhaft dar, dass ihr bei einem Aufschub der Auskunft ein erheblicher, nicht wiedergutzumachender Schaden erwächst, so kann der EDÖB empfehlen, dass der NDB ausnahmsweise sofort Auskunft erteilt, sofern damit keine Gefährdung der inneren oder äusseren Sicherheit verbunden ist.
+<sup>5</sup> Legt die gesuchstellende Person glaubhaft dar, dass ihr bei einem Aufschub der Auskunft ein erheblicher, nicht wiedergutzumachender Schaden erwächst, so kann der EDÖB verfügen, dass der NDB ausnahmsweise sofort Auskunft erteilt, sofern damit keine Gefährdung der inneren oder äusseren Sicherheit verbunden ist.[^64-5]
 
 [^64-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-2]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-3]: Aufgehoben durch Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-4]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-5]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 65
 
-**Prüfung durch das Bundesverwaltungsgericht**
+[^65-1]
 
-<sup>1</sup> Das Bundesverwaltungsgericht führt auf Verlangen der gesuchstellenden Person die Prüfung nach Artikel 64 Absatz 3 durch und teilt ihr anschliessend mit, dass sie durchgeführt worden ist.
-
-<sup>2</sup> Kam es bei der Datenbearbeitung oder betreffend den Aufschub der Auskunft zu Fehlern, so richtet das Bundesverwaltungsgericht eine Verfügung zu deren Behebung an den NDB. Gleiches gilt, wenn die Empfehlung des EDÖB nicht befolgt wird. Dieser kann gegen diese Verfügung beim Bundesgericht Beschwerde führen.
+[^65-1]: Aufgehoben durch Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
 **Form der Mitteilung und Ausschluss von Rechtsmitteln**
 
-<sup>1</sup> Die Mitteilungen nach den Artikeln 63 Absatz 3, 64 Absatz 2 und 65 Absatz 1 sind stets gleichlautend und werden nicht begründet.
+<sup>1</sup> Die Mitteilungen nach den Artikeln 63 Absatz 3 und 64 Absatz 2 sind stets gleichlautend und werden nicht begründet.[^66-1]
 
 <sup>2</sup> Sie können von den Betroffenen nicht mit einem Rechtsmittel angefochten werden.
+
+[^66-1]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 67
 
@@ -1292,11 +1303,13 @@ Sie oder er kann vom Bundesrat vor Ablauf der Amtsdauer des Amtes enthoben werde
 
 <sup>4</sup> Sie hat Zugang zu allen sachdienlichen Informationen und Unterlagen sowie Zutritt zu allen Räumlichkeiten der beaufsichtigten Stellen. Sie kann von den Unterlagen Kopien verlangen. Sie kann im Rahmen ihrer Aufsichtstätigkeit Auskünfte und Akteneinsicht bei anderen Stellen des Bundes und der Kantone verlangen, soweit diese Informationen einen Bezug zur Zusammenarbeit dieser Stellen mit den beaufsichtigten Stellen aufweisen.
 
-<sup>5</sup> Zur Erfüllung ihrer Aufsichtstätigkeit kann sie auf sämtliche Informationssysteme und Datensammlungen der beaufsichtigten Stellen zugreifen; sie kann auch auf besonders schützenswerte Personendaten zugreifen. Sie darf die dabei erhobenen Daten nur bis zum Abschluss der Überprüfung speichern. Die Zugriffe auf die verschiedenen Datensammlungen müssen vom Inhaber der jeweiligen Datensammlung protokolliert werden.
+<sup>5</sup> Zur Erfüllung ihrer Aufsichtstätigkeit kann sie auf sämtliche Informationssysteme und Datenbanken der beaufsichtigten Stellen zugreifen; sie kann auch auf besonders schützenswerte Personendaten zugreifen. Sie darf die dabei erhobenen Daten nur bis zum Abschluss der Überprüfung speichern. Die Zugriffe auf die verschiedenen Informationssysteme und Datenbanken müssen vom Verantwortlichen protokolliert werden.[^78-1]
 
 <sup>6</sup> Die unabhängige Aufsichtsbehörde teilt dem VBS das Resultat ihrer Überprüfungen schriftlich mit. Sie kann Empfehlungen aussprechen.
 
 <sup>7</sup> Das VBS sorgt für die Umsetzung der Empfehlungen. Weist das VBS eine Empfehlung zurück, so unterbreitet es diese dem Bundesrat zum Entscheid.
+
+[^78-1]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 79
 
@@ -1441,5 +1454,5 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)Anhang Ziff. 1 [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
+[^annexu1-lvlu1-1]: [[AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)Anhang Ziff. 1, [5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)konsultiert werden.
