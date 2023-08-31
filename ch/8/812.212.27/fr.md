@@ -4,11 +4,11 @@ title: Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)
 short: OMédv
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/fr"
 
 (OMédV)
 
-du 18 août 2004 (État le 1<sup>er</sup> avril 2023)
+du 18 août 2004 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -942,28 +942,30 @@ L’OSAV peut demander:
 
 #### Art. 36
 
-**Collections de données**
+**Traitement de données[^36-1]**
 
-<sup>1</sup> L’OSAV traite les données personnelles visées aux art. 7 à 7*b*, 16, 33 et 35.[^36-1]
+<sup>1</sup> L’OSAV traite les données personnelles visées aux art. 7 à 7*b*, 16, 33 et 35.[^36-2]
 
 <sup>2</sup> Les organes de contrôle compétents en vertu de la présente ordonnance sont autorisés à traiter les données personnelles de leur propre chef.
 
-<sup>2bis</sup> Pour l’accomplissement de leurs tâches légales, les autorités cantonales compétentes peuvent se mettre mutuellement à disposition les données recueillies dans le cadre de l’exécution de la présente ordonnance.[^36-2]
+<sup>2bis</sup> Pour l’accomplissement de leurs tâches légales, les autorités cantonales compétentes peuvent se mettre mutuellement à disposition les données recueillies dans le cadre de l’exécution de la présente ordonnance.[^36-3]
 
-<sup>3</sup> L’OSAV et Swissmedic peuvent se transmettre les données collectées et les mettre à la disposition de l’OFSP et de l’OFAG.[^36-3]
+<sup>3</sup> L’OSAV et Swissmedic peuvent se transmettre les données collectées et les mettre à la disposition de l’OFSP et de l’OFAG.[^36-4]
 
 <sup>4</sup> Les données peuvent être publiées sous forme anonymisée.
 
-<sup>5</sup> Le traitement des données personnelles est soumis à la loi fédérale du 19 juin 1992 sur la protection des données[^36-4].
+<sup>5</sup> Le traitement des données personnelles est soumis à la loi fédérale du 25 septembre 2020 sur la protection des données[^36-5].[^36-6]
 
-<sup>6</sup> Le traitement des données sur la prescription, la remise et l’utilisation d’antibiotiques non topiques est soumis aux dispositions de l’O-SI ABV[^36-5].[^36-6]
+<sup>6</sup> Le traitement des données sur la prescription, la remise et l’utilisation d’antibiotiques non topiques est soumis aux dispositions de l’O-SI ABV[^36-7].[^36-8]
 
-[^36-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^36-2]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^36-3]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^36-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^36-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^36-6]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-1]: Nouvelle teneur selon l’annexe 2 ch. II 100 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^36-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-3]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-4]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^36-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-6]: Nouvelle teneur selon l’annexe 2 ch. II 100 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^36-7]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36-8]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### Section 3 Mesures en cas d’augmentation de l’utilisation d’antibiotiques
 

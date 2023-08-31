@@ -4,11 +4,11 @@ title: "Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimit
 short: TAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/de"
 
 (Tierarzneimittelverordnung, TAMV)
 
-vom 18. August 2004 (Stand am 1. April 2023)
+vom 18. August 2004 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -361,18 +361,17 @@ Bei buchführungspflichtigen Arzneimitteln sind auf der Etikette zusätzlich fol
 
 **Abgabe von Arzneimitteln in Zoo- und Imkerfachgeschäften**
 
-<sup>1</sup> Wer in einem Zoofachgeschäft lebende Tiere halten und verkaufen darf, darf gestützt auf eine kantonale Bewilligung nach Artikel 30 des Heilmittelgesetzes vom 15. Dezember 2000[^9-1] Arzneimittel für Zierfische, Sing- und Ziervögel, Brieftauben, Reptilien, Amphibien und Kleinsäuger abgeben, wenn sie oder er eine vom BLV[^9-2] genehmigte Ausbildung absolviert hat.[^9-3]
+<sup>1</sup> Wer in einem Zoofachgeschäft lebende Tiere halten und verkaufen darf, darf gestützt auf eine kantonale Bewilligung nach Artikel 30 HMG Arzneimittel für Zierfische, Sing- und Ziervögel, Brieftauben, Reptilien, Amphibien und Kleinsäuger abgeben, wenn sie oder er eine vom BLV[^9-1] genehmigte Ausbildung absolviert hat.[^9-2]
 
 <sup>2</sup> Wer Imkerinnen und Imkern Arzneimittel für Bienen abgeben will, benötigt eine kantonale Detailhandelsbewilligung. Diese kann erteilt werden, wenn die Gesuchstellerin oder der Gesuchsteller einen vom BLV genehmigten Kurs absolviert hat und sich regelmässig weiterbildet. Die Bewilligung berechtigt die Inhaberin oder den Inhaber auch, ohne Rezept Arzneimittel zur Parasitenbekämpfung bei Bienen an Imkerinnen und Imker zu versenden.
 
 <sup>3</sup> Abgabeberechtigt sind auch die kantonalen Bieneninspektorate.
 
-<sup>4</sup> Swissmedic legt die Arzneimittel fest, die abgegeben werden dürfen. …[^9-4]
+<sup>4</sup> Swissmedic legt die Arzneimittel fest, die abgegeben werden dürfen. …[^9-3]
 
-[^9-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^9-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^9-3]: Fassung gemäss Anhang 2 Ziff. II 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
-[^9-4]: Aufgehoben durch Anhang 8 Ziff. II 4 der Arzneimittel-Bewilligungsverordnung vom 14. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^9-2]: Fassung gemäss Anhang 2 Ziff. II 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^9-3]: Aufgehoben durch Anhang 8 Ziff. II 4 der Arzneimittel-Bewilligungsverordnung vom 14. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
 
 ### 2. Abschnitt: Verschreibung und Abgabe von Tierarzneimitteln für Nutztiere
 
@@ -944,28 +943,30 @@ Auf Verlangen des BLV haben zur Verfügung zu stellen:
 
 #### Art. 36
 
-**Datensammlung**
+**Datenbearbeitung[^36-1]**
 
-<sup>1</sup> Das BLV bearbeitet die Personendaten nach den Artikeln 7‒7*b*, 16, 33 und 35.[^36-1]
+<sup>1</sup> Das BLV bearbeitet die Personendaten nach den Artikeln 7‒7*b*, 16, 33 und 35.[^36-2]
 
 <sup>2</sup> Die nach dieser Verordnung zuständigen Kontrollorgane können selbstständig Personendaten bearbeiten.
 
-<sup>2bis</sup> Die zuständigen kantonalen Behörden können sich die im Rahmen des Vollzugs dieser Verordnung erhobenen Daten zur Erfüllung ihrer gesetzlichen Aufgaben gegenseitig zur Verfügung stellen.[^36-2]
+<sup>2bis</sup> Die zuständigen kantonalen Behörden können sich die im Rahmen des Vollzugs dieser Verordnung erhobenen Daten zur Erfüllung ihrer gesetzlichen Aufgaben gegenseitig zur Verfügung stellen.[^36-3]
 
-<sup>3</sup> Das BLV und Swissmedic können einander sowie dem BAG und dem BLW die erhobenen Daten zur Verfügung stellen.[^36-3]
+<sup>3</sup> Das BLV und Swissmedic können einander sowie dem BAG und dem BLW die erhobenen Daten zur Verfügung stellen.[^36-4]
 
 <sup>4</sup> Daten dürfen anonymisiert veröffentlicht werden.
 
-<sup>5</sup> Sämtliche Bearbeitungen unterstehen dem Bundesgesetz vom 19. Juni 1992[^36-4] über den Datenschutz.
+<sup>5</sup> Sämtliche Bearbeitungen unterstehen dem Datenschutzgesetz vom 25. September 2020[^36-5].[^36-6]
 
-<sup>6</sup> Für die Bearbeitung der Daten zu Verschreibung, Abgabe und Anwendung von nicht topischen Antibiotika gelten die Bestimmungen der ISABV-V[^36-5].[^36-6]
+<sup>6</sup> Für die Bearbeitung der Daten zu Verschreibung, Abgabe und Anwendung von nicht topischen Antibiotika gelten die Bestimmungen der ISABV-V[^36-7].[^36-8]
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^36-2]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^36-3]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^36-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^36-5]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^36-6]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-1]: Fassung gemäss Anhang 2 Ziff. II 100 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^36-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-3]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-4]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^36-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-6]: Fassung gemäss Anhang 2 Ziff. II 100 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^36-7]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36-8]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### 3. Abschnitt: Massnahmen bei erhöhtem Antibiotikaverbrauch
 
@@ -1186,9 +1187,7 @@ Anhang 2[^t-2]
 
 Die Liste enthält Wirkstoffe, die unter Einhaltung der aufgeführten Anwendungszwecke und Verabreichungsarten als Tierarzneimittel an Nutztiere verabreicht werden dürfen und keine Festlegung von Absetzfristen erfordern.
 
-Die in dieser Liste aufgeführten Wirkstoffe dürfen zur Herstellung eines Tierarzneimittels nach Artikel 9 Absatz 2 Buchstaben a–c<sup>bis</sup> HMG[^annex2-lvlu1-lvlu1-1] für Nutztiere verwendet werden.
-
-[^annex2-lvlu1-lvlu1-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+Die in dieser Liste aufgeführten Wirkstoffe dürfen zur Herstellung eines Tierarzneimittels nach Artikel 9 Absatz 2 Buchstaben a–c<sup>bis</sup> HMG für Nutztiere verwendet werden.
 
 ### 1 Anwendungszweck
 

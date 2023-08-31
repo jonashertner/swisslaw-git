@@ -4,11 +4,11 @@ title: "Ordinanza del 18 agosto 2004 sui medicamenti per uso veterinario (Ordina
 short: OMvet
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/it"
 
 (Ordinanza sui medicamenti veterinari, OMVet)
 
-del 18 agosto 2004 (Stato 1° aprile 2023)
+del 18 agosto 2004 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -361,18 +361,17 @@ Per i medicamenti per i quali vige l’obbligo di tenere un registro devono esse
 
 **Dispensazione di medicamenti in commerci zoologici e di apicoltura**
 
-<sup>1</sup> Chi può tenere e vendere animali vivi in un commercio zoologico, può dispensare, in virtù dell’autorizzazione cantonale concessa secondo l’articolo 30 della legge del 15 dicembre 2000[^9-1] sugli agenti terapeutici, medicamenti per pesci ornamentali, uccelli canori e ornamentali, piccioni viaggiatori, rettili, anfibi e piccoli mammiferi, se possiede una formazione approvata dall’USAV[^9-2].[^9-3]
+<sup>1</sup> Chi può tenere e vendere animali vivi in un commercio zoologico, può dispensare, in virtù dell’autorizzazione cantonale concessa secondo l’articolo 30 LATer, medicamenti per pesci ornamentali, uccelli canori e ornamentali, piccioni viaggiatori, rettili, anfibi e piccoli mammiferi, se possiede una formazione approvata dall’USAV[^9-1].[^9-2]
 
 <sup>2</sup> Chi intende dispensare medicamenti per api ad apicoltori, necessita di un’autorizzazione cantonale per il commercio al dettaglio. Quest’ultima può essere rilasciata se il richiedente ha frequentato un corso approvato dall’USAV e segue regolarmente corsi di perfezionamento. L’autorizzazione consente anche al titolare di inviare ad apicoltori medicamenti antiparassitari per le api senza ricetta.
 
 <sup>3</sup> Gli ispettorati cantonali degli apiari sono autorizzati anche a dispensare medicamenti.
 
-<sup>4</sup> Swissmedic stabilisce i medicamenti che possono essere dispensati. ...[^9-4]
+<sup>4</sup> Swissmedic stabilisce i medicamenti che possono essere dispensati. ...[^9-3]
 
-[^9-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^9-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
-[^9-3]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
-[^9-4]: Abrogato dall’all. 8 n. II 4 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, con effetto dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^9-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-2]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^9-3]: Abrogato dall’all. 8 n. II 4 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, con effetto dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
 
 ### Sezione 2: Prescrizione e dispensazione di medicamenti veterinari per animali da reddito
 
@@ -945,28 +944,30 @@ Su richiesta dell’USAV:
 
 #### Art. 36
 
-**Collezione di dati**
+**Trattamento di dati[^36-1]**
 
-<sup>1</sup> L’USAV tratta i dati personali secondo gli articoli 7‒7*b*, 16, 33 e 35.[^36-1]
+<sup>1</sup> L’USAV tratta i dati personali secondo gli articoli 7‒7*b*, 16, 33 e 35.[^36-2]
 
 <sup>2</sup> Gli organi di controllo competenti secondo la presente ordinanza possono trattare autonomamente dati personali.
 
-<sup>2bis</sup> Per lo svolgimento dei loro compiti sanciti dalla legge, le autorità cantonali competenti possono scambiarsi i dati rilevati nell’ambito dell’esecuzione della presente ordinanza.[^36-2]
+<sup>2bis</sup> Per lo svolgimento dei loro compiti sanciti dalla legge, le autorità cantonali competenti possono scambiarsi i dati rilevati nell’ambito dell’esecuzione della presente ordinanza.[^36-3]
 
-<sup>3</sup> L’USAV e Swissmedic possono scambiarsi e mettere a disposizione dell’UFSP e dell’UFAG i dati rilevati.[^36-3]
+<sup>3</sup> L’USAV e Swissmedic possono scambiarsi e mettere a disposizione dell’UFSP e dell’UFAG i dati rilevati.[^36-4]
 
 <sup>4</sup> I dati possono essere pubblicati in forma anonima.
 
-<sup>5</sup> Tutti i trattamenti sottostanno alla legge federale del 19 giugno 1992[^36-4] sulla protezione dei dati.
+<sup>5</sup> Tutti i trattamenti sottostanno alla legge federale del 25 settembre 2020[^36-5] sulla protezione dei dati.[^36-6]
 
-<sup>6</sup> Per il trattamento dei dati sulla prescrizione, la dispensazione e l’utilizzo di antibiotici non topici si applicano le disposizioni dell’O-SIAMV[^36-5].[^36-6]
+<sup>6</sup> Per il trattamento dei dati sulla prescrizione, la dispensazione e l’utilizzo di antibiotici non topici si applicano le disposizioni dell’O-SIAMV[^36-7].[^36-8]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^36-2]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^36-3]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^36-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^36-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^36-6]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-1]: Nuovo testo giusta l’all. 2 n. II 100 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^36-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-3]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-4]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^36-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-6]: Nuovo testo giusta l’all. 2 n. II 100 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^36-7]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36-8]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### Sezione 3: Misure in caso di un consumo maggiorato di antibiotici
 
@@ -1187,11 +1188,9 @@ Allegato 2[^t-2]
 
 L’elenco contiene le sostanze attive che, rispettando gli scopi di utilizzazione e le modalità di somministrazione indicati, possono essere somministrate agli animali da reddito come medicamenti veterinari e non richiedono che siano fissati termini d’attesa.
 
-Le sostanze attive che figurano nell’elenco possono essere utilizzate per fabbricare un medicamento veterinario di cui all’articolo 9 capoverso 2 lettere a–c<sup>bis</sup> LATer[^annex2-lvlu1-lvlu1-1] destinato agli animali da reddito.
+Le sostanze attive che figurano nell’elenco possono essere utilizzate per fabbricare un medicamento veterinario di cui all’articolo 9 capoverso 2 lettere a–c<sup>bis</sup> LATer destinato agli animali da reddito.
 
 ### 1 Scopo dell’utilizzazione
-
-[^annex2-lvlu1-lvlu1-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
 <table>
 <tr><td>Ag</td><td>=</td><td>Analgesici/antipiretici/antiinfiammatori/iperemizzanti</td></tr>
