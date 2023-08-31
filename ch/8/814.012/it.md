@@ -4,11 +4,11 @@ title: Ordinanza del 27 febbraio 1991 sulla protezione contro gli incidenti rile
 short: OPIR
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: it
-version: 2019-08-01
+version: 2023-09-01
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20190801/it/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20190801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20190801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20190801/it"
 
 (OPIR)
 
-del 27 febbraio 1991 (Stato 1° agosto 2019)
+del 27 febbraio 1991 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -292,7 +292,7 @@ Entro tre mesi dall’incidente deve inviare all’autorità esecutiva un rappor
 
 <sup>4</sup> Se non è in grado di fornire il rapporto entro il termine, il detentore deve inviare all’autorità esecutiva una domanda motivata di protrazione del termine e un rapporto intermedio sullo stato delle indagini.
 
-## Sezione 3*a*:**** Coordinamento con attività d’incidenza territoriale****
+## Sezione 3*a*: Coordinamento con attività d’incidenza territoriale
 
 [^sec3a-1][^sec3a-2]
 
@@ -313,7 +313,7 @@ Entro tre mesi dall’incidente deve inviare all’autorità esecutiva un rappor
 [^11a-2]: Abrogata dal n. I dell’O del 21 set. 2018, con effetto dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 [^11a-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 
-## Sezione 4:**** Compiti dei Cantoni
+## Sezione 4: Compiti dei Cantoni
 
 [^sec4-1]
 
@@ -385,7 +385,7 @@ Nella misura del possibile, i Cantoni coordinano i controlli che sono chiamati a
 
 <sup>3</sup> Restano salvi gli obblighi legali di tutela del segreto.
 
-[^17-1]: Nuova espr. giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^17-1]: Nuova espr. giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Di detta mod. é tenuto conto in tutto il presente testo. La mod. giusta l’all. 2 n. II 17 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)), concerne soltanto il testo tedesco ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 18 e 19
 
@@ -450,7 +450,7 @@ Se necessario, l’UFAM pubblica direttive per commentare le disposizioni princi
 
 **Modificazione del diritto vigente**
 
-### …**
+### …
 
 [^24-subdiv-1]
 
@@ -490,7 +490,7 @@ Allegato 1
 
 ## Campo d’applicazione e rapporto
 
-Allegato 1.1*[^t-1]*
+Allegato 1.1[^t-1]
 
 (art. 1 e 5)
 
@@ -606,11 +606,11 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 <tr><td colspan="6"><sup>1</sup> I criteri applicabili sono enumerati in ordine di priorità: in presenza di un valore secondo il criterio a, i criteri b e c sono irrilevanti. Se per una sostanza o un preparato che soddisfa uno dei criteri, il detentore giunge alla conclusione, in base alla sua autovalutazione, che in caso di esposizione unica sono esclusi danni alla popolazione o che l’effetto peggiore della sostanza o del preparato è irrilevante ai fini degli incidenti rilevanti, la sostanza o il preparato non è considerato HAS ai sensi dell’OPIR. Per valutare se un effetto è rilevante ai fini degli incidenti rilevanti si applica la definizione dei «Temporary Emergency Exposure Limits (TEEL-2)». Non rientrano nel campo d’applicazione dell’OPIR le aziende che utilizzano HAS solo sotto forma di prodotti pronti per l’uso (prodotti finiti) destinati al consumo proprio oppure alla consegna a utilizzatori professionali o commerciali o al pubblico. <sup>2</sup> QS = quantitativo soglia <sup>3</sup> MAK, TLV, OEL, IOEL ecc. <sup>4</sup> Corrisponde a una dose efficace ED<sub>50</sub> di 0,17 mg/kg per un peso corporeo di 60 kg. La dose efficace si riferisce all’effetto peggiore della sostanza o del preparato in base all’autovalutazione del detentore.</td></tr>
 </table>
 
-Allegato 1.2*[^t-2]*
+Allegato 1.2[^t-2]
 
 [^t-2]: Abrogato dal n. 2 dell’all. 5 dell’O del 25 ago. 1999 sull’impiego confinato ([RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)).
 
-Allegato 1.2a*[^t-3]*
+Allegato 1.2a[^t-3]
 
 (art. 1)
 
@@ -743,7 +743,7 @@ Sono sottoposti all’ordinanza sulla protezione contro gli incidenti rilevanti 
 - – Chiasso Smistamento (CHSM)
 - – Genève-La-Praille
 
-Allegato 1.3*[^t-4]*
+Allegato 1.3[^t-4]
 
 (art. 1)
 
@@ -758,7 +758,7 @@ Allegato 1.3*[^t-4]*
 
 <sup>2</sup> Gli impianti di trasporto in condotta di combustibili e carburanti liquidi rientrano nel campo d’applicazione della presente ordinanza se, in caso di pressione di servizio autorizzata superiore a 5 bar, il prodotto della pressione di servizio autorizzata espressa in Pascal (Pa) moltiplicato per il diametro esterno espresso in metri è superiore a 200 000 Pa m (200 bar cm) (i valori di pressione indicati vanno intesi quali sovrappressione).
 
-Allegato 1.4*[^t-5]*
+Allegato 1.4[^t-5]
 
 (art. 1 cpv. 2<sup>bis</sup>)
 
@@ -785,7 +785,7 @@ Allegato 1.4*[^t-5]*
 <tr><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Solo se non si lavora con insetti vettori</td></tr>
 </table>
 
-Allegato 2*[^t-6]*
+Allegato 2[^t-6]
 
 ## Principi per prendere le misure generali di sicurezza
 
@@ -874,7 +874,7 @@ Nell’adottare le misure di sicurezza, i detentori di impianti di trasporto in 
 - a. munire l’impianto di trasporto in condotta dei necessari dispositivi tecnici di sicurezza, tenendo conto dell’ambiente circostante, e prendere i necessari provvedimenti edilizi, tecnici e organizzativi di protezione;
 - b. raccogliere, valutare e trasmettere a terzi interessati (p. es. personale, organizzazione di catastrofe e proprietari fondiari) le informazioni disponibili sui pericoli dei combustibili e carburanti trasportati.
 
-Allegato 3*[^t-7]*
+Allegato 3[^t-7]
 
 ## ...
 
@@ -884,7 +884,7 @@ Allegato 4
 
 ## Analisi dei rischi
 
-Allegato 4.1*[^t-8]*
+Allegato 4.1[^t-8]
 
 (art. 6)
 
@@ -974,7 +974,7 @@ Allegato 4.1*[^t-8]*
 - – Descrizione dei principali scenari di incidente rilevante
 - – Valutazione dei rischi esistenti nell’intera azienda
 
-Allegato 4.2*[^t-9]*
+Allegato 4.2[^t-9]
 
 (art. 6)
 
@@ -1126,7 +1126,7 @@ Allegato 4.3
 - – Descrizione dei principali scenari di incidente rilevante
 - – Valutazione dei rischi derivanti dalla via di comunicazione
 
-Allegato 4.4*[^t-10]*
+Allegato 4.4[^t-10]
 
 (art. 6)
 

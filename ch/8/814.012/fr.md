@@ -4,11 +4,11 @@ title: "Ordonnance du 27 février 1991 sur la protection contre les accidents ma
 short: OPAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: fr
-version: 2019-08-01
+version: 2023-09-01
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20190801/fr/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20190801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20190801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20190801/fr"
 
 (Ordonnance sur les accidents majeurs, OPAM)
 
-du 27 février 1991 (Etat le 1<sup>er</sup> août 2019)
+du 27 février 1991 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -289,7 +289,7 @@ Dans un délai de trois mois après l’accident majeur, il remettra à l’auto
 
 <sup>4</sup> Si le détenteur ne peut remettre ce rapport dans les délais, il adressera à l’autorité d’exécution une demande de prolongation dûment motivée et un rapport intermédiaire sur l’état de ses investigations.
 
-## Section 3*a* Coordination avec les activités ayant des effets sur l’organisation du territoire****
+## Section 3*a* Coordination avec les activités ayant des effets sur l’organisation du territoire
 
 [^sec3a-1]
 
@@ -297,7 +297,7 @@ Dans un délai de trois mois après l’accident majeur, il remettra à l’auto
 
 #### Art. 11a
 
-**...[^11a-2]**[^11a-1]
+**…[^11a-2]**[^11a-1]
 
 <sup>1</sup> Les cantons tiennent compte de la prévention des accidents majeurs dans les plans directeurs et les plans d’affectation ainsi que dans leurs autres activités ayant des effets sur l’organisation du territoire.[^11a-3]
 
@@ -309,7 +309,7 @@ Dans un délai de trois mois après l’accident majeur, il remettra à l’auto
 [^11a-2]: Abrogé par le ch. I de l’O du 21 sept. 2018, avec effet au 1<sup>er</sup> nov. 2018 ([RO 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 [^11a-3]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 
-## Section 4**** Tâches des cantons
+## Section 4 Tâches des cantons
 
 [^sec4-1]
 
@@ -373,7 +373,7 @@ Les cantons coordonnent autant que possible pour les entreprises et les voies de
 
 #### Art. 17
 
-**Données collectées par l’OFEV[^17-1].**
+**Données collectées par l’OFEV[^17-1]**
 
 <sup>1</sup> Sur demande de l’OFEV, les services compétents de la Confédération et des cantons lui fournissent toutes les informations qu’ils ont collectées en application de la présente ordonnance.
 
@@ -381,7 +381,7 @@ Les cantons coordonnent autant que possible pour les entreprises et les voies de
 
 <sup>3</sup> Les dispositions légales concernant l’obligation de garder le secret sont réservées.
 
-[^17-1]: Nouvelle expression selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Il a été tenu compte de cette mod. dans tout le texte.
+[^17-1]: Nouvelle expression selon le ch. I de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Il a été tenu compte de cette mod. dans tout le texte. La mod. de l’annexe 2 ch. II 104 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023, ne concerne que le texte allemand ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 18 et 19
 
@@ -484,7 +484,7 @@ Annexe 1
 
 ## Champ d’application et rapport succinct
 
-Annexe 1.1*[^t-1]*
+Annexe 1.1[^t-1]
 
 (art. 1 et 5)
 
@@ -600,11 +600,11 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 <tr><td colspan="6"><sup>1</sup> Les critères énumérés s’appliquent; il faut noter que leur ordre (lettres) représente un ordre de priorité, c’est-à-dire que s’il existe une valeur pour le critère a, les critères b et c deviennent superflus. Si un détenteur conclut de son auto-évaluation qu’il est exclu qu’une substance/une préparation remplissant l’un de ces critères cause des dommages à la population en cas d’exposition unique ou que le pire effet de la substance/de la préparation n’est pas pertinent en matière d’accidents majeurs, ladite substance/préparation n’est pas considérée comme SHA au sens de la présente ordonnance. Pour évaluer si un effet est pertinent en matière d’accidents majeurs, il faut se référer à la définition des Temporary Emergency Exposure Limits (TEEL-2). N’entrent pas dans le champ d’application de la présente ordonnance les entreprises qui manient des SHA uniquement sous forme de produits de consommation (produits finis) destinés à l’usage propre, à la remise à des utilisateurs professionnels ou au grand public. <sup>2</sup> SQ = seuil quantitatif <sup>3</sup> CMA, TLV, LEP, IOEL, etc. <sup>4</sup> Correspond à une dose-effet DE50 de 0,17 mg/kg pour un poids corporel de 60 kg. La dose‑effet se rapporte au pire effet de la substance/préparation selon l’auto-évaluation du détenteur.</td></tr>
 </table>
 
-Annexe 1.2*[^t-2]*
+Annexe 1.2[^t-2]
 
 [^t-2]: Abrogée par l’annexe 5 ch. 2 de l’O du 25 août 1999 sur l’utilisation confinée, avec effet au 1<sup>er</sup> nov. 1999 ([RO 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)).
 
-Annexe 1.2a*[^t-3]*
+Annexe 1.2a[^t-3]
 
 (art. 1)
 
@@ -737,7 +737,7 @@ Les installations de trafic marchandises ci-après sont soumises à l’ordonnan
 - – Chiasso Smistamento (CHSM)
 - – Genève-La-Praille
 
-Annexe 1.3*[^t-4]*
+Annexe 1.3[^t-4]
 
 (art. 1)
 
@@ -752,7 +752,7 @@ Annexe 1.3*[^t-4]*
 
 <sup>2</sup> Les installations de transport par conduites de combustibles ou carburants liquides entrent dans le champ d’application de la présente ordonnance lorsque la pression de service autorisée est supérieure à 5 bar et que le produit de la pression de service autorisée, exprimée en Pascal (Pa), par le diamètre extérieur, exprimé en m, est supérieur à 200 000 Pa m (200 bar cm) (les indications de pression se réfèrent à la surpression).
 
-Annexe 1.4*[^t-5]*
+Annexe 1.4[^t-5]
 
 (art. 1, al. 2<sup>bis</sup>)
 
@@ -779,7 +779,7 @@ Annexe 1.4*[^t-5]*
 <tr><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Seulement s’il n’y a pas de travail avec des insectes vecteurs</td></tr>
 </table>
 
-Annexe 2*[^t-6]*
+Annexe 2[^t-6]
 
 ## Mesures de sécurité
 
@@ -868,7 +868,7 @@ Lorsque le détenteur d’une installation de transport par conduites prend des 
 - a. doter l’installation de transport par conduites des équipements de sécurité nécessaires, en tenant compte du voisinage, et prendre les mesures de sécurité requises sur les plans de la construction, de la technique et de l’organisation;
 - b. collecter les informations disponibles sur les dangers que présentent les combustibles et les carburants transportés, les évaluer et les remettre aux tiers concernés (par ex. personnel, services d’intervention, propriétaires fonciers).
 
-Annexe 3*[^t-7]*
+Annexe 3[^t-7]
 
 [^t-7]: Abrogée par le ch. II al. 3 de l’O du 29 avr. 2015, avec effet au 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
@@ -876,7 +876,7 @@ Annexe 4
 
 ## Étude de risque
 
-Annexe 4.1*[^t-8]*
+Annexe 4.1[^t-8]
 
 (art. 6)
 
@@ -966,7 +966,7 @@ Annexe 4.1*[^t-8]*
 - – description des principaux scénarios d’accidents majeurs,
 - – estimation du risque que constitue l’ensemble de l’entreprise.
 
-Annexe 4.2*[^t-9]*
+Annexe 4.2[^t-9]
 
 (art. 6)
 
@@ -1116,7 +1116,7 @@ Annexe 4.3
 - – description des principaux scénarios d’accidents majeurs,
 - – estimation du risque que constitue la voie de communication.
 
-Annexe 4.4*[^t-10]*
+Annexe 4.4[^t-10]
 
 (art. 6)
 

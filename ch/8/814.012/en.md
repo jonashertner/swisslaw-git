@@ -4,11 +4,11 @@ title: "Ordinance of 27 February 1991 on Protection against Major Accidents (Maj
 short: MAO
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: en
-version: 2019-08-01
+version: 2023-09-01
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20190801/en/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20190801-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20190801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Major Accidents Ordinance, MAO)
 
-of 27 February 1991 (Status as of 1 August 2019)
+of 27 February 1991 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -75,8 +75,8 @@ In individual cases, the enforcement authority may make the following establishm
 [^1-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^1-4]: Amended by No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^1-5]: [[AS 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [AS 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)Art. 7]. Now: Transit Roads Ordinance of 18 Dec. 1991 ([SR 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)).
-[^1-6]: [[AS 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620), [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482), [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 11 [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866),[1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)No II, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 No 18 and Art. 6, **1999** 751 No II, **2002** 419 1183. [AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 para. 1]. Now: the O of 29 Nov. 2002 ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
-[^1-7]: [[AS 1971 1957](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Now: O of 3 March 2010 ([SR 747.224.141](https://fedlex.data.admin.ch/eli/cc/2010/251)).
+[^1-6]: [[AS 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620); [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482); [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 11, [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866);[1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)No II; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 No 18 and Art. 6; **1999** 751 No II; **2002** 419, 1183. [AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 para. 1]. Now: the O of 29 Nov. 2002 ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
+[^1-7]: [[AS 1971 1957](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Now: O of 2 March 2010 ([SR 747.224.141](https://fedlex.data.admin.ch/eli/cc/2010/251)).
 [^1-8]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Amended by Annex No 2 of the Pipelines Ordinance of 26 June 2019, in force since 1 Aug. 2019 ([AS 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
 [^1-9]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
 [^1-10]: Inserted by No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
@@ -145,7 +145,7 @@ The person responsible for an establishment must submit a summary report to the 
 
 - a. a concise description of the establishment, together with a general plan and information on the surrounding area;
 - b.[^5-1] a list of the maximum quantities of the substances, preparations or special wastes present in the establishment which exceed the threshold quantities specified in Annex 1.1, together with the applicable threshold quantities;
-- c.[^5-2] the risk report specified in Article 8 of the Containment Ordinance of 9 May 2012[^5-3];
+- c.[^5-2] the risk report specified in Articles 6 and 7 of the Containment Ordinance of 9 May 2012[^5-3];
 - d. documents drawn up in the preparation of any property and corporate liability insurance policies;
 - e. details of safety measures;
 - f. an estimate of the extent of possible harm to the public or damage to the environment resulting from major accidents.
@@ -168,7 +168,7 @@ The person responsible for a pipeline installation shall submit a summary report
 - c. details of safety measures;
 - d. an estimate of the likelihood of a major accident causing serious harm to the public or damage to the environment.[^5-4]
 
-<sup>4</sup> …[^5-5]
+<sup>4</sup> ...[^5-5]
 
 <sup>5</sup> The enforcement authority shall exempt the person responsible for a through road from the duty to submit a summary report if, based on the information available, it is able, without a summary report, to assess as valid the assumption that the likelihood of major accidents causing serious harm is sufficiently low.[^5-6]
 
@@ -176,7 +176,7 @@ The person responsible for a pipeline installation shall submit a summary report
 [^5-2]: Amended by Annex 5 No 7 of the Containment O of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 [^5-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^5-4]: Amended by No I of the O of 13 Feb. 2013, in force since 1 April 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^5-5]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Repealed by No I of the O of 29 April 2015, with effect from 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280))
+[^5-5]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Repealed by No I of the O of 29 April 2015, with effect from 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^5-6]: Inserted by No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 6
@@ -294,7 +294,7 @@ He shall submit a report to the enforcement authority within three months after 
 
 <sup>4</sup> If the person responsible is unable to draw up the report within the period specified, he must submit an application for an extension to the enforcement authority, stating the reasons, together with an interim report on the state of the investigations.
 
-## Section 3*a* Coordination with Spatial Planning Activities****
+## Section 3*a* Coordination with Spatial Planning Activities
 
 [^sec3a-1]
 
@@ -314,7 +314,7 @@ He shall submit a report to the enforcement authority within three months after 
 [^11a-2]: Repealed by No I of the O of 21 Sept. 2018, with effect from 1 Nov. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 [^11a-3]: Amended by No I of the O of 21 Sept. 2018, in force since 1 Nov. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 
-## Section 4**** Responsibilities of the Cantons
+## Section 4 Responsibilities of the Cantons
 
 [^sec4-1]
 
@@ -380,13 +380,14 @@ As far as possible, the cantons shall coordinate the inspections of establishmen
 
 **Data collection by the FOEN[^17-1]**
 
-<sup>1</sup> The competent federal and cantonal authorities shall forward to the FOEN on request any information collected in accordance with this Ordinance.
+<sup>1</sup> The competent federal and cantonal authorities shall forward to the FOEN[^17-2] on request any information collected in accordance with this Ordinance.
 
 <sup>2</sup> The FOEN shall ensure that the data is processed and made available to the competent authorities, insofar as this is necessary for the implementation of this Ordinance.
 
 <sup>3</sup> The above is subject to legal requirements concerning secrecy.
 
-[^17-1]: Expression in accordance with No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). This amendment has been made throughout the text.
+[^17-1]: Amended by Annex 2 No II 104 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: Expr. in accordance with No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). This amendment has been made throughout the text.
 
 #### Art. 18 and 19
 
@@ -459,7 +460,7 @@ The FOEN shall, as required, publish guidelines which explain the essential prov
 
 [^25-1]
 
-[^25-1]: Repealed by No I of the O of 29 April 2015, with effect from 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280))
+[^25-1]: Repealed by No I of the O of 29 April 2015, with effect from 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 25a
 
@@ -489,7 +490,7 @@ Annex 1
 
 ## Scope and summary report
 
-Annex 1.1*[^t-1]*
+Annex 1.1[^t-1]
 
 (Art. 1 and 5)
 
@@ -605,13 +606,11 @@ The Federal Department of the Environment, Transport, Energy and Communications 
 <tr><td colspan="6"><sup>1</sup> The listed criteria apply, and the order of the criteria (letters) denotes their priority, i.e. if there is a value under criteria a, criteria b and c are no longer relevant. If a person responsible for a substance/preparation that meets one of the criteria concludes based on their self-assessment that harm to the public in the event of exposure on one occasion may be excluded or that the more serious effect of the substance/ preparation is not relevant to major accidents, the substance/ preparation is not deemed to be an HAS in terms of the Major Accidents Ordinance. In order to assess whether an effect is relevant to major accidents, the definition of «Temporary Emergency Exposure Limits (TEEL-2)» applies. The Major Accidents Ordinance does not apply to establishments that handle HAS only in the form of finished products that are intended for their own use or for supply to professional or commercial users or the general public. <sup>2</sup> TQ (kg) = Threshold quantity in kg <sup>3</sup> MAK, TLV, OEL, IOEL, etc. <sup>4</sup> Corresponds to the effect dose ED<sub>50</sub> of 0.17 mg/kg at a body weight of 60 kg. The effect dose relates to the worst effect of the substance/preparation according to the self-assessment by the person responsible.</td></tr>
 </table>
 
-Annex 1.2*[^t-2]*
-
-(Art. 1 and 5)
+Annex 1.2[^t-2]
 
 [^t-2]: Repealed by Annex 5 No 2 of the Containment O of 25 Aug. 1999, with effect from 1 Nov. 1999 ([AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)).
 
-Annex 1.2a*[^t-3]*
+Annex 1.2a[^t-3]
 
 (Art. 1)
 
@@ -744,7 +743,7 @@ The Major Accidents Ordinance applies to the following freight installations:
 - – Chiasso Smistamento (CHSM)
 - – Geneva-La-Praille
 
-Annex 1.3*[^t-4]*
+Annex 1.3[^t-4]
 
 (Art. 1)
 
@@ -759,7 +758,7 @@ Annex 1.3*[^t-4]*
 
 <sup>2</sup> Pipeline installations for the transport of liquid thermal and motor fuels fall within the scope of this Ordinance if, with an approved operating pressure of greater than 5 bar, the product of the approved operating pressure in pascals (Pa) and the external diameter in metres is greater than 200,000 Pa m (200 bar cm) («pressure» is to be taken to mean «positive pressure»).
 
-Annex 1.4*[^t-5]*
+Annex 1.4[^t-5]
 
 (Art. 1 para. 2<sup>bis</sup>)
 
@@ -786,7 +785,7 @@ Annex 1.4*[^t-5]*
 <tr><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Louping ill virus</td><td>Only if not working with insect vectors</td></tr>
 </table>
 
-Annex 2*[^t-6]*
+Annex 2[^t-6]
 
 ## Safety Measures
 
@@ -875,7 +874,7 @@ When adopting general safety measures, the person responsible for a pipeline ins
 - a. taking the surrounding area into account, install the necessary safety equipment and take the necessary structural, technical and organisational protective measures;
 - b. collect, assess and pass on to interested third parties (e.g. staff, emergency services and land owners) any information available on the hazards posed by the thermal and motor fuels transported.
 
-Annex 3*[^t-7]*
+Annex 3[^t-7]
 
 [^t-7]: Repealed by No II para. 3 of the O of 29 April 2015, with effect from 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280))
 
@@ -973,7 +972,7 @@ Annex 4.1[^t-8]
 - – description of the main major accident scenarios,
 - – estimate of the risk posed by the establishment as a whole.
 
-Annex 4.2*[^t-9]*
+Annex 4.2[^t-9]
 
 (Art. 6)
 
@@ -1002,12 +1001,12 @@ Annex 4.2*[^t-9]*
 
 ### 22 Activities involving organisms
 
-- – Risk assessment in accordance with Article 8 of the Containment Ordinance of 9 May 2012[^annex41-lvlu1-lvl2-lvl22-1]; in particular, the identity and characteristics of the organisms and the nature and scale of the activity,
+- – Risk assessment in accordance with Article 8 of the Containment Ordinance of 9 May 2012[^annex42-lvlu1-lvl2-lvl22-1]; in particular, the identity and characteristics of the organisms and the nature and scale of the activity,
 - – the purpose of the contained use,
 - – the culture volumes,
 - \* the nature of the intended product and of any by-products which are or may be produced in the course of the activity.
 
-[^annex41-lvlu1-lvl2-lvl22-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^annex42-lvlu1-lvl2-lvl22-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 
 ### 23 Installation
 
@@ -1123,7 +1122,7 @@ Annex 4.3
 - – description of the main major accident scenarios,
 - – estimate of the risk posed by the transport route.
 
-Annex 4.4*[^t-10]*
+Annex 4.4[^t-10]
 
 (Art. 6)
 

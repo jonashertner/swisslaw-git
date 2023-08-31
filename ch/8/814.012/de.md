@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Februar 1991 über den Schutz vor Störfällen (Stör
 short: StFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: de
-version: 2019-08-01
+version: 2023-09-01
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20190801/de/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20190801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20190801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20190801/de"
 
 (Störfallverordnung, StFV)
 
-vom 27. Februar 1991 (Stand am 1. August 2019)
+vom 27. Februar 1991 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -73,7 +73,7 @@ Die Vollzugsbehörde kann folgende Betriebe, Verkehrswege oder Rohrleitungsanlag
 [^1-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^1-4]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^1-5]: [[AS 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [AS 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)Art. 7]. Heute: die Durchgangsstrassenverordnung vom 18. Dez. 1991 ([SR 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)).
-[^1-6]: [[AS 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620), [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482), [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 11 [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)Ziff. II, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 18 und Art. 6, **1999** 751 Ziff. II, **2002** 419 1183. [AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 Abs. 1]. Heute: die V vom 29. Nov. 2002 ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
+[^1-6]: [[AS 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620); [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482); [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 11, [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866); [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)Ziff. II; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 18 und Art. 6; **1999** 751 Ziff. II; **2002** 419, 1183. [AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 Abs. 1]. Heute: die V vom 29. Nov. 2002 ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
 [^1-7]: [[AS 1971 1957](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Heute: die V vom 2. März 2010 ([SR 747.224.141](https://fedlex.data.admin.ch/eli/cc/2010/251)).
 [^1-8]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Fassung gemäss Anhang Ziff. 2 der Rohrleitungsverordnung vom 26. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
 [^1-9]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
@@ -292,7 +292,7 @@ Er muss der Vollzugsbehörde innert dreier Monate nach dem Störfall einen Beric
 
 <sup>4</sup> Kann der Inhaber den Bericht nicht fristgerecht erstellen, so muss er der Vollzugsbehörde ein begründetes Gesuch um Fristverlängerung und einen Zwischenbericht über den Stand der Abklärungen einreichen.
 
-## 3*a*. Abschnitt: Koordination mit raumwirksamen Tätigkeiten****
+## 3*a*. Abschnitt: Koordination mit raumwirksamen Tätigkeiten
 
 [^sec3a-1]
 
@@ -312,7 +312,7 @@ Er muss der Vollzugsbehörde innert dreier Monate nach dem Störfall einen Beric
 [^11a-2]: Aufgehoben durch Ziff. I der V vom 21. Sept. 2018, mit Wirkung seit 1. Nov. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 [^11a-3]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 
-## 4. Abschnitt:**** Aufgaben der Kantone
+## 4. Abschnitt: Aufgaben der Kantone
 
 [^sec4-1]
 
@@ -376,15 +376,16 @@ Die Kantone koordinieren bei Betrieben und Verkehrswegen soweit möglich die Kon
 
 #### Art. 17
 
-**Datensammlung des BAFU[^17-1]**
+**Datenerhebung des BAFU[^17-1]**
 
-<sup>1</sup> Die zuständigen Stellen des Bundes und der Kantone teilen dem BAFU auf Anfrage die Angaben mit, die sie in Anwendung dieser Verordnung erhoben haben.
+<sup>1</sup> Die zuständigen Stellen des Bundes und der Kantone teilen dem BAFU[^17-2] auf Anfrage die Angaben mit, die sie in Anwendung dieser Verordnung erhoben haben.
 
 <sup>2</sup> Das BAFU sorgt für die Verarbeitung der Angaben und stellt sie den zuständigen Stellen zur Verfügung, soweit dies für die Anwendung dieser Verordnung erforderlich ist.
 
 <sup>3</sup> Vorbehalten bleiben die gesetzlichen Geheimhaltungspflichten.
 
-[^17-1]: Ausdruck gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^17-1]: Fassung gemäss Anhang 2 Ziff. II 104 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: Ausdruck gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 
 #### Art. 18 und 19
 
@@ -487,7 +488,7 @@ Anhang 1
 
 ## Geltungsbereich und Kurzbericht
 
-Anhang 1.1*[^t-1]*
+Anhang 1.1[^t-1]
 
 (Art. 1 und 5)
 
@@ -603,11 +604,11 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 <tr><td colspan="5"><sup>1</sup> Es gelten die aufgeführten Kriterien, wobei die Reihenfolge der Kriterien (Buchstaben) eine Priorisierung ausdrückt d.h. falls ein Wert gemäss Kriterium a vorliegt, spielen die Kriterien b und c keine Rolle mehr. Kommt der Inhaber für einen Stoff/eine Zubereitung, welche/r eine der Kriterien erfüllt, aufgrund seiner Selbstbeurteilung zum Schluss, dass eine Schädigung der Bevölkerung bei einer Einmalexposition auszuschliessen ist oder dass der schlimmste Effekt des Stoffes/der Zubereitung nicht störfallrelevant ist, so gilt der Stoff/die Zubereitung nicht als HAS im Sinne der Störfallverordnung. Zur Beurteilung, ob ein Effekt störfallrelevant ist, gilt die Definition der «Temporary Emergency Exposure Limits (TEEL-2)». Nicht in den Geltungsbereich der Störfallverordnung fallen Betriebe, die mit HAS nur in Form von gebrauchsfertigen Produkten (Fertigprodukten) umgehen, die für den Eigengebrauch oder für die Abgabe an berufliche oder gewerbliche Verbraucher oder die breite Öffentlichkeit bestimmt sind. <sup>2</sup> MS = Mengenschwelle <sup>3</sup> MAK, TLV, OEL, IOEL, etc. <sup>4</sup> Entspricht einer Effekt-Dosis ED<sub>50</sub> von 0.17 mg/kg bei einem Körpergewicht von 60 kg. Die Effekt-Dosis bezieht sich auf den schlimmsten Effekt des Stoffes/der Zubereitung gemäss Selbstbeurteilung des Inhabers.</td></tr>
 </table>
 
-Anhang 1.2*[^t-2]*
+Anhang 1.2[^t-2]
 
 [^t-2]: Aufgehoben durch Anhang 5 Ziff. 2 der Einschliessungsverordnung vom 25. Aug. 1999, mit Wirkung seit 1. Nov. 1999 ([AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)).
 
-Anhang 1.2a*[^t-3]*
+Anhang 1.2a[^t-3]
 
 (Art. 1)
 
@@ -740,7 +741,7 @@ Der Störfallverordnung unterstellt sind folgende Güterverkehrsanlagen:
 - – Chiasso Smistamento (CHSM)
 - – Genève-La-Praille
 
-Anhang 1.3*[^t-4]*
+Anhang 1.3[^t-4]
 
 (Art. 1)
 
@@ -755,7 +756,7 @@ Anhang 1.3*[^t-4]*
 
 <sup>2</sup> Rohrleitungsanlagen zur Beförderung flüssiger Brenn- oder Treibstoffe fallen in den Geltungsbereich dieser Verordnung, wenn bei einem genehmigten Betriebsdruck von grösser als 5 bar das Produkt aus dem genehmigten Betriebsdruck in Pascal (Pa) und dem Aussendurchmesser in m grösser als 200 000 Pa m (200 bar cm) ist (bei den Angaben ist der Druck als Überdruck zu verstehen).
 
-Anhang 1.4*[^t-5]*
+Anhang 1.4[^t-5]
 
 (Art. 1 Abs. 2<sup>bis</sup>)
 
@@ -782,7 +783,7 @@ Anhang 1.4*[^t-5]*
 <tr><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Louping ill Virus</td><td>Nur wenn nicht mit Insekten-Vektoren gearbeitet wird</td></tr>
 </table>
 
-Anhang 2*[^t-6]*
+Anhang 2[^t-6]
 
 ## Treffen von Sicherheitsmassnahmen
 
@@ -871,7 +872,7 @@ Der Inhaber einer Rohrleitungsanlage muss beim Treffen der Sicherheitsmassnahmen
 - a. die Rohrleitungsanlage unter Berücksichtigung der Umgebung mit den erforderlichen sicherheitstechnischen Einrichtungen ausrüsten sowie die erforderlichen baulichen, technischen und organisatorischen Schutzvorkehrungen treffen;
 - b. die verfügbaren Informationen über die Gefahren der transportierten Brenn- und Treibstoffe sammeln, auswerten und an betroffene Dritte (z.B. Personal, Ereignisdienste und Grundeigentümer) weitergeben.
 
-Anhang 3*[^t-7]*
+Anhang 3[^t-7]
 
 [^t-7]: Aufgehoben durch Ziff. II Abs. 3 der V vom 29. April 2015, mit Wirkung seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280))
 
@@ -879,7 +880,7 @@ Anhang 4
 
 ## Risikoermittlung
 
-Anhang 4.1*[^t-8]*
+Anhang 4.1[^t-8]
 
 (Art. 6)
 
@@ -969,7 +970,7 @@ Anhang 4.1*[^t-8]*
 - – Beschreibung der wesentlichen Störfallszenarien,
 - – Einschätzung des vom gesamten Betrieb ausgehenden Risikos.
 
-Anhang 4.2*[^t-9]*
+Anhang 4.2[^t-9]
 
 (Art. 6)
 
@@ -1119,7 +1120,7 @@ Anhang 4.3
 - – Beschreibung der wesentlichen Störfallszenarien,
 - – Einschätzung des vom Verkehrsweg ausgehenden Risikos.
 
-Anhang 4.4*[^t-10]*
+Anhang 4.4[^t-10]
 
 (Art. 6)
 
