@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230101/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2023)
+vom 27. Juni 1995 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -727,10 +727,11 @@ Die Daten nach Artikel 30 werden grundsätzlich auf Betriebsebene aggregiert wei
 
 **Bearbeitungsreglement**[^30c-1]
 
-Das BFS erstellt in Zusammenarbeit mit dem BAG für die Erhebung, Bearbeitung und Weitergabe von Daten nach Artikel 59*a* KVG ein Bearbeitungsreglement im Sinne von Artikel 21 der Verordnung vom 14. Juni 1993[^30c-2] zum Bundesgesetz über den Datenschutz. Im Bearbeitungsreglement werden nach Anhörung der betroffenen Kreise die Variablen im Sinne von Artikel 30*a* Absatz 1, welche die Leistungserbringer zu liefern haben, festgehalten.
+Das BFS erstellt in Zusammenarbeit mit dem BAG für die Erhebung, Bearbeitung und Weitergabe von Daten nach Artikel 59*a* KVG ein Bearbeitungsreglement im Sinne von Artikel 6 der Datenschutzverordnung vom 31. August 2022[^30c-2] (DSV).[^30c-3] Im Bearbeitungsreglement werden nach Anhörung der betroffenen Kreise die Variablen im Sinne von Artikel 30*a* Absatz 1, welche die Leistungserbringer zu liefern haben, festgehalten.
 
 [^30c-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^30c-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30c-3]: Fassung des ersten Satzes gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
@@ -1830,13 +1831,15 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 <sup>5</sup> Verlangt der Versicherer vom Leistungserbringer im Laufe der Prüfung zusätzliche Auskünfte medizinischer Natur im Sinne von Artikel 42 Absatz 4 des Gesetzes, so hat der Versicherer die versicherte Person über ihre Wahlmöglichkeit nach Artikel 42 Absatz 5 des Gesetzes zu informieren.
 
-<sup>6</sup> Jeder Versicherer muss über eine Datenannahmestelle verfügen. Diese muss nach Artikel 11 des Bundesgesetzes vom 19. Juni 1992[^59a-3] über den Datenschutz zertifiziert sein.
+<sup>6</sup> Jeder Versicherer muss über eine Datenannahmestelle verfügen. Diese muss nach Artikel 13 des Datenschutzgesetzes vom 25. September 2020[^59a-3] (DSG) zertifiziert sein.[^59a-4]
 
-<sup>7</sup> Der Versicherer informiert den Beauftragten nach Artikel 26 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz unaufgefordert über die Zertifizierung oder Rezertifizierung seiner Datenannahmestelle. Der Beauftragte kann von der Datenannahmestelle oder von der Zertifizierungsstelle jederzeit die für die Zertifizierung oder Rezertifizierung relevanten Dokumente einfordern. Der Beauftragte veröffentlicht eine Liste der zertifizierten Datenannahmestellen.
+<sup>7</sup> Der Versicherer informiert den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) nach Artikel 43 DSG unaufgefordert über die Zertifizierung oder Rezertifizierung seiner Datenannahmestelle. Der EDÖB kann von der Datenannahmestelle oder von der Zertifizierungsstelle jederzeit die für die Zertifizierung oder Rezertifizierung relevanten Dokumente einfordern. Er veröffentlicht eine Liste der zertifizierten Datenannahmestellen.[^59a-5]
 
 [^59a-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
 [^59a-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^59a-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-4]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-5]: Fassung gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59a<sup>bis</sup>
 
@@ -1850,12 +1853,13 @@ Für den ambulanten Bereich erlässt das EDI ausführende Bestimmungen zur Erheb
 
 **Datensichernde Massnahmen und Aufbewahrung**[^59ater-1]
 
-<sup>1</sup> Für die Bearbeitung der medizinischen Angaben nach Artikel 59 Absatz 1 treffen die Versicherer die erforderlichen technischen und organisatorischen datensichernden Massnahmen, insbesondere diejenigen nach den Artikeln 21 und 22 der Verordnung vom 14. Juni 1993[^59ater-2] zum Bundesgesetz über den Datenschutz.
+<sup>1</sup> Für die Bearbeitung der medizinischen Angaben nach Artikel 59 Absatz 1 treffen die Versicherer die erforderlichen technischen und organisatorischen datensichernden Massnahmen, insbesondere diejenigen nach den Artikeln 1–4 und 6 DSV[^59ater-2].[^59ater-3]
 
 <sup>2</sup> Sofern die medizinischen Angaben nach Artikel 59 Absatz 1 nicht verschlüsselt aufbewahrt werden, werden die Personalien der Versicherten zur Aufbewahrung dieser Angaben pseudonymisiert. Die Aufhebung der Pseudonymisierung oder Verschlüsselung darf nur durch den Vertrauensarzt oder die Vertrauensärztin erfolgen.
 
 [^59ater-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59ater-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^59ater-3]: Fassung gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 3. Kapitel: Tarife und Preise
 

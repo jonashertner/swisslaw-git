@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230101/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> janvier 2023)
+du 27 juin 1995 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -730,10 +730,11 @@ Les données visées à l’art. 30 sont en principe transmises sous forme agré
 
 **Règlement de traitement**[^30c-1]
 
-L’OFS établit en collaboration avec l’OFSP un règlement de traitement au sens de l’art. 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^30c-2] pour la collecte, le traitement et la transmission de données visées à l’art. 59*a* LAMal. Les variables au sens de l’art. 30*a*, al. 1, qui doivent être transmises par les fournisseurs de prestations sont fixées dans le règlement de traitement après consultation des milieux concernés.
+L’OFS établit en collaboration avec l’OFSP un règlement de traitement au sens de l’art. 6 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^30c-2] pour la collecte, le traitement et la transmission de données visées à l’art.59*a* LAMal.[^30c-3] Les variables au sens de l’art. 30*a*, al. 1, qui doivent être transmises par les fournisseurs de prestations sont fixées dans le règlement de traitement après consultation des milieux concernés.
 
 [^30c-1]: Introduit par le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^30c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30c-3]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
@@ -1821,23 +1822,27 @@ Les fournisseurs de prestations doivent inscrire sur leurs factures toutes les i
 
 **Facturation dans le cas d’un modèle de rémunération de type DRG**[^59a-1]
 
-<sup>1</sup> Dans le cas d’un modèle de rémunération de type DRG (*Diagnosis Related Groups*), le fournisseur de prestations doit munir d’un numéro d’identification unique les fichiers de données avec les indications administratives et médicales visées à l’art 59, al. 1. Le DFI fixe la structure uniforme au niveau suisse des fichiers de données.
+<sup>1</sup> Dans le cas d’un modèle de rémunération de type DRG (*Diagnosis Related Groups*), le fournisseur de prestations doit munir d’un numéro d’identification unique les ensembles de données avec les indications administratives et médicales visées à l’art 59, al. 1. Le DFI fixe la structure uniforme au niveau suisse des ensembles de données.[^59a-2]
 
-<sup>2</sup> Les diagnostics et les procédures visés à l’art 59, al. 1, let. c, doivent être codés conformément aux classifications mentionnées pour la statistique médicale des hôpitaux au ch. 62 de l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^59a-2].
+<sup>2</sup> Les diagnostics et les procédures visés à l’art 59, al. 1, let. c, doivent être codés conformément aux classifications mentionnées pour la statistique médicale des hôpitaux au ch. 62 de l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^59a-3].
 
-<sup>3</sup> Le fournisseur de prestations transmet simultanément avec la facture les fichiers de données avec les indications administratives et médicales visées à l’art 59, al. 1, au service de réception des données de l’assureur. Il doit être garanti que seul ce service de réception des données obtienne l’accès aux indications médicales.
+<sup>3</sup> Le fournisseur de prestations transmet simultanément avec la facture les ensembles de données avec les indications administratives et médicales visées à l’art 59, al. 1, au service de réception des données de l’assureur.[^59a-4] Il doit être garanti que seul ce service de réception des données obtienne l’accès aux indications médicales.
 
 <sup>4</sup> Le service de réception des données détermine pour quelles factures un examen plus approfondi est nécessaire et transmet à l’assureur les indications nécessaires à cet effet. L’assureur ne peut pas donner au service de réception des données, pour des factures individuelles, d’instructions concernant la transmission des données.
 
 <sup>5</sup> Si des renseignements supplémentaires d’ordre médical au sens de l’art. 42, al. 4, de la loi sont exigés du fournisseur de prestations par l’assureur au cours de l’examen, l’assureur doit informer la personne assurée sur les possibilités dont elle dispose selon l’art. 42, al. 5, de la loi.
 
-<sup>6</sup> Chaque assureur doit disposer d’un service de réception des données. Ce dernier doit être certifié au sens de l’art. 11 de la loi fédérale du 19 juin 1992 sur la protection des données[^59a-3].
+<sup>6</sup> Chaque assureur doit disposer d’un service de réception des données. Celui-ci doit être certifié au sens de l’art. 13 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^59a-5].[^59a-6]
 
-<sup>7</sup> L’assureur informe spontanément le préposé visé à l’art. 26 de la loi fédérale du 19 juin 1992 sur la protection des données de la certification de son service de réception des données ou du renouvellement de la certification. Le préposé peut exiger à tout moment du service de réception des données ou de l’organisme de certification les documents déterminants pour la certification ou le renouvellement de la certification. Le préposé publie une liste des services de réception des données certifiés.
+<sup>7</sup> L’assureur informe spontanément le Préposé fédéral à la protection des données et à la transparence (PFPDT) visé à l’art. 43 LPD de la certification de son service de réception des données ou du renouvellement de la certification. Le PFPDT peut exiger à tout moment du service de réception des données ou de l’organisme de certification les documents déterminants pour la certification ou le renouvellement de la certification. Il publie une liste des services de réception des données certifiés.[^59a-7]
 
 [^59a-1]: Introduit par le ch. I de l’O du 17 sept. 1997 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nouvelle teneur selon le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^59a-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^59a-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-2]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^59a-4]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-6]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-7]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59a<sup>bis</sup>
 
@@ -1851,13 +1856,14 @@ Pour le domaine ambulatoire le DFI édicte des dispositions détaillées sur la 
 
 **Mesures propres à assurer la sécurité des données et conservation**[^59ater-1]
 
-<sup>1</sup> Pour le traitement des indications médicales visées à l’art. 59, al. 1, les assureurs prennent les mesures techniques et organisationnelles propres à assurer la sécurité des données, en particulier celles visées aux art. 21 et 22 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^59ater-2].
+<sup>1</sup> Pour le traitement des indications médicales visées à l’art. 59, al. 1, les assureurs prennent les mesures techniques et organisationnelles propres à assurer la sécurité des données, en particulier celles visées aux art. 1 à 4 et 6 OPDo[^59ater-2].[^59ater-3]
 
-<sup>2</sup> Lorsque les indications médicales visées à l’art. 59, al. 1, ne sont pas conservées sous forme chiffrée, l’identité des assurés doit être protégée au moyen d’un pseudonyme pour la conservation de ces indications. L’utilisation du pseudonyme ou le chiffrement peuvent être levés uniquement par le médecin-conseil.[^59ater-3]
+<sup>2</sup> Lorsque les indications médicales visées à l’art. 59, al. 1, ne sont pas conservées sous forme chiffrée, l’identité des assurés doit être protégée au moyen d’un pseudonyme pour la conservation de ces indications. L’utilisation du pseudonyme ou le chiffrement peuvent être levés uniquement par le médecin-conseil.[^59ater-4]
 
 [^59ater-1]: Introduit par le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^59ater-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
+[^59ater-3]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59ater-4]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 
 ### Chapitre 3 Tarifs et prix
 

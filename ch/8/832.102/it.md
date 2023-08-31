@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230101/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° gennaio 2023)
+del 27 giugno 1995 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -726,10 +726,11 @@ I dati di cui all’articolo 30 sono trasmessi per principio in forma aggregata 
 
 **Regolamento per il trattamento**[^30c-1]
 
-Per la rilevazione, il trattamento e la trasmissione dei dati secondo l’articolo 59*a* della legge, l’UST, in collaborazione con l’UFSP, appronta un regolamento per il trattamento ai sensi dell’articolo 21 dell’ordinanza del 14 giugno 1993[^30c-2] relativa alla legge federale sulla protezione dei dati. Nel regolamento per il trattamento sono fissate, dopo aver sentito le cerchie interessate, le variabili ai sensi dell’articolo 30*a* capoverso 1 che i fornitori di prestazioni devono fornire.
+Per la rilevazione, il trattamento e la trasmissione dei dati secondo l’articolo 59*a* LAMal, l’UST, in collaborazione con l’UFSP, appronta un regolamento per il trattamento ai sensi dell’articolo 6 dell’ordinanza del 31 agosto 2022[^30c-2] sulla protezione dei dati (OPDa).[^30c-3] Nel regolamento per il trattamento sono fissate, dopo aver sentito le cerchie interessate, le variabili ai sensi dell’articolo 30*a* capoverso 1 che i fornitori di prestazioni devono fornire.
 
 [^30c-1]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^30c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30c-3]: Nuovo testo giusta l’all. 2 n. II 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
@@ -1828,13 +1829,15 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>5</sup> Se nel corso dell’esame l’assicuratore esige dal fornitore di prestazioni ragguagli supplementari di natura medica ai sensi dell’articolo 42 capoverso 4 della legge, l’assicuratore deve informare la persona assicurata riguardo alla possibilità di scelta di cui dispone ai sensi dell’articolo 42 capoverso 5 della legge.
 
-<sup>6</sup> Ogni assicuratore deve disporre di un servizio di ricezione dei dati. Quest’ultimo deve essere certificato ai sensi dell’articolo 11 della legge federale del 19 giugno 1992[^59a-3] sulla protezione dei dati.
+<sup>6</sup> Ogni assicuratore deve disporre di un servizio di ricezione dei dati. Quest’ultimo deve essere certificato ai sensi dell’articolo 13 della legge federale del 25 settembre 2020[^59a-3] sulla protezione dei dati (LPD).[^59a-4]
 
-<sup>7</sup> L’assicuratore informa spontaneamente l’Incaricato ai sensi dell’articolo 26 della legge federale 19 giugno 1992 sulla protezione dei dati della certificazione o del rinnovo della certificazione del suo servizio di ricezione dei dati. L’Incaricato può esigere in ogni momento dal servizio di ricezione dei dati o dall’organismo di certificazione i documenti rilevanti per la certificazione o il rinnovo della certificazione. L’Incaricato pubblica un elenco dei servizi di ricezione dei dati certificati.
+<sup>7</sup> L’assicuratore informa spontaneamente l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) ai sensi dell’articolo 43 LPD della certificazione o del rinnovo della certificazione del suo servizio di ricezione dei dati. L’IFPDT può esigere in ogni momento dal servizio di ricezione dei dati o dall’organismo di certificazione i documenti rilevanti per la certificazione o il rinnovo della certificazione. Esso pubblica un elenco dei servizi di ricezione dei dati certificati.[^59a-5]
 
 [^59a-1]: Introdotto dal n. I dell’O del 17 set. 1997 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nuovo testo giusta il n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 [^59a-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^59a-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-4]: Nuovo testo del per. giusta l’all. 2 n. II 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-5]: Nuovo testo giusta l’all. 2 n. II 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59a<sup>bis</sup>
 
@@ -1848,12 +1851,13 @@ Per il settore ambulatoriale il DFI emana disposizioni d’esecuzione sulla rile
 
 **Misure atte a proteggere i dati e conservazione**[^59ater-1]
 
-<sup>1</sup> Per l’elaborazione delle indicazioni mediche ai sensi dell’articolo 59 capoverso 1, gli assicuratori prendono le misure tecniche e organizzative atte a proteggere i dati, in particolare quelle secondo gli articoli 21 e 22 dell’ordinanza del 14 giugno 1993[^59ater-2] relativa alla legge federale sulla protezione dei dati.
+<sup>1</sup> Per l’elaborazione delle indicazioni mediche ai sensi dell’articolo 59 capoverso 1, gli assicuratori prendono le misure tecniche e organizzative atte a proteggere i dati, in particolare quelle secondo gli articoli 1–4 e 6 OPDa[^59ater-2].[^59ater-3]
 
 <sup>2</sup> Se le indicazioni mediche ai sensi dell’articolo 59 capoverso 1 non sono conservate sotto forma criptata, le generalità degli assicurati sono sostituite da uno pseudonimo per la conservazione di queste indicazioni. La pseudonimizzazione o il criptaggio possono essere tolti soltanto dal medico di fiducia.
 
 [^59ater-1]: Introdotto dal n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^59ater-3]: Nuovo testo giusta l’all. 2 n. II 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Capitolo 3: Tariffe e prezzi
 
