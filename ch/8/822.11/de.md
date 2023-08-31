@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Gewerbe u
 short: ArG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/57_57_57"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1964-03-13
 in_force: 1966-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/57_57_57/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1966-57_57_57-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/57_57_57/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1966-57_57_57-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel
 
-(Arbeitsgesetz, ArG)**[^t-1]**
+(Arbeitsgesetz, ArG)[^t-1]
 
-vom 13. März 1964 (Stand am 1. Januar 2021)
+vom 13. März 1964 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2903](https://fedlex.data.admin.ch/eli/oc/2008/398); [BBl 2007 4261](https://fedlex.data.admin.ch/eli/fga/2007/609)[4269](https://fedlex.data.admin.ch/eli/fga/2007/611)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 26, 31<sup>bis</sup> Absatz 2, 34<sup>bis</sup>, 34<su
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Den genannten Bestimmungen entsprechen heute die Art. 63, 87, 92, 95, 110, 117, 122, 177 Abs. 3, 188 Abs. 2 und 190 Abs. 1 (nach Inkrafttreten des BB vom 8. Okt. 1999 über die Reform der Justiz; [BBl 1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); Art. 188 Abs. 2, 189 Abs. 1, 191 Abs. 3 und 191*a* Abs. 2) der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3; [AS 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Den genannten Bestimmungen entsprechen heute die Art. 63, 87, 92, 95, 110, 117, 122, 177 Abs. 3, 188 Abs. 2 und 190 Abs. 1 (nach Inkrafttreten des BB vom 8. Okt. 1999 über die Reform der Justiz; [BBl 1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); Art. 188 Abs. 2, 189 Abs. 1, 191 Abs. 3 und 191*a* Abs. 2) der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Fassung gemäss Ziff. VII 3 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^ingress-3]: [BBl 1960 II 909](https://fedlex.data.admin.ch/eli/fga/1960/2_909_885_1313)
 
@@ -91,7 +91,7 @@ Das Gesetz ist, unter Vorbehalt von Artikel 3*a*, ferner nicht anwendbar:[^3-1]
 [^3-3]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Jan. 2005 ([AS 2002 2547](https://fedlex.data.admin.ch/eli/oc/2002/346); [BBl 2001 3181](https://fedlex.data.admin.ch/eli/fga/2001/603)[6098](https://fedlex.data.admin.ch/eli/fga/2001/1022)).
 [^3-4]: Fassung gemäss Art. 21 Ziff. 2 des Heimarbeitsgesetzes vom 20. März 1981, in Kraft seit 1. April 1983 ([AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108); [BBl 1980 II 282](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)).
 [^3-5]: Eingefügt durch Ziff. II 2 des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^3-6]: [SR 0.747.224.022](https://fedlex.data.admin.ch/eli/cc/1959/961_994_986)
+[^3-6]: [SR 0.747.224.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3037)
 
 ### Vorschriften über den Gesundheitsschutz
 
@@ -132,7 +132,9 @@ Die Vorschriften dieses Gesetzes über den Gesundheitsschutz (Art. 6, 35 und 36*
 
 <sup>1</sup> Die besonderen Vorschriften des Gesetzes für industrielle Betriebe sind auf den einzelnen Betrieb oder auf einzelne Betriebsteile nur anwendbar aufgrund einer Unterstellungsverfügung der kantonalen Behörde.[^5-1]
 
-<sup>2</sup> Als industrielle Betriebe im Sinne des Gesetzes gelten Betriebe mit fester Anlage von dauerndem Charakter für die Herstellung, Verarbeitung oder Behandlung von Gütern oder für die Erzeugung, Umwandlung oder Übertragung von Energie, sofern
+<sup>2</sup>
+
+Als industrielle Betriebe im Sinne des Gesetzes gelten Betriebe mit fester Anlage von dauerndem Charakter für die Herstellung, Verarbeitung oder Behandlung von Gütern oder für die Erzeugung, Umwandlung oder Übertragung von Energie, sofern:
 
 - a. die Arbeitsweise oder die Arbeitsorganisation durch Maschinen oder andere technische Einrichtungen oder durch serienmässige Verrichtungen bestimmt werden und für die Herstellung, Verarbeitung oder Behandlung von Gütern oder für die Erzeugung, Umwandlung oder Übertragung von Energie wenigstens sechs Arbeitnehmer beschäftigt werden, oder
 - b. die Arbeitsweise oder die Arbeitsorganisation wesentlich durch automatisierte Verfahren bestimmt werden, oder
@@ -140,7 +142,7 @@ Die Vorschriften dieses Gesetzes über den Gesundheitsschutz (Art. 6, 35 und 36*
 
 [^5-1]: Fassung gemäss Ziff. I 4 des BG vom 21. Dez. 2007 über die Aufhebung und die Verein-fachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
-## II. Gesundheitsschutz**** und Plangenehmigung****
+## II. Gesundheitsschutz und Plangenehmigung
 
 [^lvlII-1][^lvlII-2]
 
@@ -184,7 +186,7 @@ Die Vorschriften dieses Gesetzes über den Gesundheitsschutz (Art. 6, 35 und 36*
 [^7-1]: Fassung gemäss Ziff. 9 des Anhangs zum Unfallversicherungsgesetz, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 [^7-2]: Fassung des zweiten und dritten Satzes gemäss Ziff. I 4 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 [^7-3]: Fassung des zweiten Satzes gemäss Ziff. I 4 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
-[^7-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^7-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^7-5]: Eingefügt durch Ziff. I 16 des BG vom 18. Juni 1999 über die Koordination und Vereinfa- chung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
 ### Nichtindustrielle Betriebe
@@ -212,7 +214,7 @@ Die wöchentliche Höchstarbeitszeit beträgt:
 - a.[^9-1] 45 Stunden für Arbeitnehmer in industriellen Betrieben sowie für Büropersonal, technische und andere Angestellte, mit Einschluss des Verkaufspersonals in Grossbetrieben des Detailhandels;
 - b. 50 Stunden für alle übrigen Arbeitnehmer.
 
-<sup>2</sup> ...[^9-2]
+<sup>2</sup> …[^9-2]
 
 <sup>3</sup> Für bestimmte Gruppen von Betrieben oder Arbeitnehmern kann die wöchentliche Höchstarbeitszeit durch Verordnung zeitweise um höchstens vier Stunden verlängert werden, sofern sie im Jahresdurchschnitt nicht überschritten wird.
 
@@ -248,7 +250,9 @@ Wird die Arbeit wegen Betriebsstörungen, wegen Betriebsferien, zwischen arbeits
 
 #### Art. 12
 
-<sup>1</sup> Die wöchentliche Höchstarbeitszeit darf ausnahmsweise überschritten werden
+<sup>1</sup>
+
+Die wöchentliche Höchstarbeitszeit darf ausnahmsweise überschritten werden:
 
 - a. wegen Dringlichkeit der Arbeit oder ausserordentlichen Arbeitsandranges;
 - b. für Inventaraufnahmen, Rechnungsabschlüsse und Liquidationsarbeiten;
@@ -261,7 +265,7 @@ Die Überzeit darf für den einzelnen Arbeitnehmer zwei Stunden im Tag nicht üb
 - a. 170 Stunden für Arbeitnehmer mit einer wöchentlichen Höchstarbeitszeit von 45 Stunden;
 - b. 140 Stunden für Arbeitnehmer mit einer wöchentlichen Höchstarbeitszeit von 50 Stunden.[^12-1]
 
-<sup>3–4</sup> ...[^12-2]
+<sup>3–4</sup> …[^12-2]
 
 [^12-1]: Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 ([AS 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); BBl **1998** 1394).
 [^12-2]: Aufgehoben durch Ziff. I des BG vom 20. März 1998, mit Wirkung seit 1. Aug. 2000 ([AS 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); BBl **1998** 1394).
@@ -360,13 +364,15 @@ Die Beschäftigung von Arbeitnehmern ausserhalb der betrieblichen Tages- und Abe
 
 <sup>2</sup> Arbeitnehmer, die dauernd oder regelmässig wiederkehrend Nachtarbeit leisten, haben Anspruch auf eine Kompensation von 10 Prozent der Zeit, während der sie Nachtarbeit geleistet haben. Die Ausgleichsruhezeit ist innerhalb eines Jahres zu gewähren. Für Arbeitnehmer, die regelmässig abends oder morgens höchstens eine Randstunde in der Nachtzeit arbeiten, kann der Ausgleich auch als Lohnzuschlag gewährt werden.
 
-<sup>3</sup> 4 Ausgleichsregelungen nach Absatz 3 Buchstabe c sind dem SECO zur Beurteilung vorzulegen; dieses stellt die Gleichwertigkeit mit der gesetzlichen Ausgleichsruhezeit nach Absatz 2 fest.
+<sup>3</sup>
 
 Die Ausgleichsruhezeit gemäss Absatz 2 ist nicht zu gewähren, wenn:
 
 - a. die durchschnittliche betriebliche Schichtdauer einschliesslich der Pausen sieben Stunden nicht überschreitet, oder
 - b. die Person, die Nachtarbeit leistet, nur in vier Nächten pro Woche (Vier-Tage-Woche) beschäftigt wird, oder
 - c. den Arbeitnehmern durch Gesamtarbeitsvertrag oder die analoge Anwendung öffentlich-rechtlicher Vorschriften andere gleichwertige Ausgleichsruhezeiten innerhalb eines Jahres gewährt werden.
+
+<sup>4</sup> Ausgleichsregelungen nach Absatz 3 Buchstabe c sind dem SECO zur Beurteilung vorzulegen; dieses stellt die Gleichwertigkeit mit der gesetzlichen Ausgleichsruhezeit nach Absatz 2 fest.
 
 [^17b-1]: Eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 ([AS 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); BBl **1998** 1394).
 
@@ -489,7 +495,7 @@ Soweit das Gesetz Ruhezeiten vorschreibt, dürfen diese nicht durch Geldleistung
 
 [^22-1]: Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 ([AS 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); BBl **1998** 1394).
 
-### 3. Ununterbrochener Betrieb****
+### 3. Ununterbrochener Betrieb
 
 [^lvlIII-lvl3-1]
 
@@ -521,7 +527,7 @@ Soweit das Gesetz Ruhezeiten vorschreibt, dürfen diese nicht durch Geldleistung
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 ([AS 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); BBl **1998** 1394).
 
-### 4. Weitere Vorschriften****
+### 4. Weitere Vorschriften
 
 [^lvlIII-lvl4-1]
 
@@ -563,7 +569,9 @@ Soweit das Gesetz Ruhezeiten vorschreibt, dürfen diese nicht durch Geldleistung
 
 <sup>1quater</sup> Auf Autobahnraststätten und an Hauptverkehrswegen mit starkem Reiseverkehr dürfen in Tankstellenshops, deren Waren- und Dienstleistungsangebot in erster Linie auf die Bedürfnisse der Reisenden ausgerichtet ist, Arbeitnehmerinnen und Arbeitnehmer sonntags und in der Nacht beschäftigt werden.[^27-4]
 
-<sup>2</sup> Solche Sonderbestimmungen können insbesondere erlassen werden
+<sup>2</sup>
+
+Solche Sonderbestimmungen können insbesondere erlassen werden:
 
 - a. für Betriebe der Erziehung, des Unterrichts, der Fürsorge, der Krankenpflege, der ärztlichen Behandlung sowie für Apotheken;
 - b. für Betriebe der Beherbergung, der Bewirtung und der Unterhaltung sowie für Betriebe, die der Versorgung des Gastgewerbes bei besonderen Anlässen dienen;
@@ -589,7 +597,7 @@ Soweit das Gesetz Ruhezeiten vorschreibt, dürfen diese nicht durch Geldleistung
 
 Die zuständige Behörde ist ermächtigt, in ihren Arbeitszeitbewilligungen ausnahmsweise geringfügige Abweichungen von den Vorschriften des Gesetzes oder einer Verordnung vorzusehen, soweit der Befolgung dieser Vorschriften ausserordentliche Schwierigkeiten entgegenstehen und das Einverständnis der Mehrheit der beteiligten Arbeitnehmer oder deren Vertretung im Betriebe vorliegt.
 
-## IV. Sonderschutzvorschriften****
+## IV. Sonderschutzvorschriften
 
 [^lvlIV-1]
 
@@ -661,7 +669,7 @@ Durch Verordnung wird bestimmt, für welche Gruppen von Betrieben oder Arbeitneh
 
 [^3334-1]: Aufgehoben durch Ziff. I des BG vom 20. März 1998, mit Wirkung seit 1. Aug. 2000 ([AS 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); BBl **1998** 1394).
 
-### 2.**** Schwangere Frauen und stillende Mütter****
+### 2. Schwangere Frauen und stillende Mütter
 
 [^lvlIV-lvl2-1][^lvlIV-lvl2-2]
 
@@ -698,7 +706,7 @@ Durch Verordnung wird bestimmt, für welche Gruppen von Betrieben oder Arbeitneh
 
 <sup>2</sup> Frauen, die zwischen 20 Uhr und 6 Uhr beschäftigt werden, haben während der in Absatz 1 festgelegten Zeiträume Anspruch auf 80 Prozent des Lohnes, ohne allfällige Zuschläge für Nachtarbeit, samt einer angemessenen Vergütung für ausfallenden Naturallohn, soweit ihnen keine andere gleichwertige Arbeit angeboten werden kann.
 
-### 3. Arbeitnehmer mit Familienpflichten****
+### 3. Arbeitnehmer mit Familienpflichten
 
 [^lvlIV-lvl3-1]
 
@@ -720,7 +728,7 @@ Durch Verordnung wird bestimmt, für welche Gruppen von Betrieben oder Arbeitneh
 [^36-2]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^36-3]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
-### 4.**** Andere Gruppen von Arbeitnehmern
+### 4. Andere Gruppen von Arbeitnehmern
 
 [^lvlIV-lvl4-1]
 
@@ -778,7 +786,9 @@ Durch Verordnung kann die Beschäftigung anderer Gruppen von Arbeitnehmern für 
 
 #### Art. 40
 
-<sup>1</sup> Der Bundesrat ist zuständig zum Erlasse
+<sup>1</sup>
+
+Der Bundesrat ist zuständig zum Erlasse:
 
 - a. von Verordnungsbestimmungen in den vom Gesetz ausdrücklich vorgesehenen Fällen;
 - b. von Ausführungsbestimmungen zur nähern Umschreibung einzelner Vorschriften des Gesetzes;
@@ -857,7 +867,7 @@ Das SECO oder die zuständige kantonale Behörde kann auf begründetes schriftli
 <sup>5</sup> Der Bundesrat kann eine generelle Bekanntgabe von nicht besonders schützenswerten Daten an Behörden oder Institutionen vorsehen, sofern diese Daten für den Empfänger zur Erfüllung einer gesetzlichen Aufgabe notwendig sind. Er kann zu diesem Zweck ein Abrufverfahren vorsehen.
 
 [^44a-1]: Eingefügt durch Ziff. VII 3 des BG vom 24. März 2000 über die Schaffung und die An-passung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^44a-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^44a-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Informations- und Dokumentationssysteme
 
@@ -896,10 +906,11 @@ Die Informations- und Dokumentationssysteme können besonders schützenswerte Da
 
 [^46-1]
 
-Der Arbeitgeber hat die Verzeichnisse oder andere Unterlagen, aus denen die für den Vollzug dieses Gesetzes und seiner Verordnungen erforderlichen Angaben ersichtlich sind, den Vollzugs- und Aufsichtsorganen zur Verfügung zu halten. Im Übrigen gelten die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^46-2] über den Datenschutz.
+Der Arbeitgeber hat die Verzeichnisse oder andere Unterlagen, aus denen die für den Vollzug dieses Gesetzes und seiner Verordnungen erforderlichen Angaben ersichtlich sind, den Vollzugs- und Aufsichtsorganen zur Verfügung zu halten. Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^46-2].[^46-3]
 
 [^46-1]: Fassung gemäss Ziff. VII 3 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^46-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^46-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^46-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 77 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Bekanntgabe des Stunden-plans und der Arbeitszeitbewilligungen
 
@@ -968,7 +979,7 @@ Den Arbeitnehmern oder deren Vertretung im Betrieb stehen in folgenden Angelegen
 
 <sup>3</sup> Wird durch einen Verstoss im Sinne von Absatz 1 zugleich ein Gesamtarbeitsvertrag verletzt, so kann die kantonale Behörde in geeigneter Weise auf die Massnahmen der Vertragsparteien zur Durchsetzung des Gesamtarbeitsvertrages Rücksicht nehmen.
 
-[^51-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^51-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Massnahmen des Verwaltungszwangs
 
@@ -1034,7 +1045,9 @@ Zur Beschwerde gegen Verfügungen der kantonalen Behörden und der Bundesbehörd
 
 [^59-1]
 
-<sup>1</sup> Der Arbeitgeber ist strafbar, wenn er den Vorschriften über
+<sup>1</sup>
+
+Der Arbeitgeber ist strafbar, wenn er den Vorschriften über:
 
 - a. den Gesundheitsschutz und die Plangenehmigung vorsätzlich oder fahrlässig zuwiderhandelt;
 - b. die Arbeits- und Ruhezeit vorsätzlich zuwiderhandelt;
@@ -1043,7 +1056,7 @@ Zur Beschwerde gegen Verfügungen der kantonalen Behörden und der Bundesbehörd
 <sup>2</sup> Artikel 6 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^59-2] ist anwendbar.
 
 [^59-1]: Fassung gemäss Ziff. 9 des Anhangs zum Unfallversicherungsgesetz, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
-[^59-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^59-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Strafrechtliche Verantwortlichkeit des Arbeitnehmers
 
@@ -1079,9 +1092,9 @@ Zur Beschwerde gegen Verfügungen der kantonalen Behörden und der Bundesbehörd
 
 <sup>2</sup> Die Strafverfolgung ist Sache der Kantone.
 
-[^62-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
-## VII. Änderung von Bundesgesetzen****
+## VII. Änderung von Bundesgesetzen
 
 [^lvlVII-1]
 
@@ -1123,7 +1136,7 @@ Zur Beschwerde gegen Verfügungen der kantonalen Behörden und der Bundesbehörd
 
 #### Art. 71
 
-Vorbehalten bleiben insbesondere
+Vorbehalten bleiben insbesondere:
 
 - a. die Bundesgesetzgebung über die berufliche Ausbildung, über die Verhütung von Unfällen und Berufskrankheiten sowie über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer;
 - b.[^71-1] Vorschriften des Bundes, der Kantone und der Gemeinden über das öffentlich-rechtliche Dienstverhältnis; von den Vorschriften über den Gesundheitsschutz und über die Arbeits- und Ruhezeit darf dabei jedoch nur zu Gunsten der Arbeitnehmer abgewichen werden;
@@ -1149,15 +1162,15 @@ Mit dem Inkrafttreten des Gesetzes sind folgende Bundesgesetze aufgehoben:
 
 Auf industrielle Betriebe bleiben die folgenden Vorschriften des Bundesgesetzes vom 18. Juni 1914[^72-6] betreffend die Arbeit in den Fabriken weiterhin anwendbar:
 
-- a. ...[^72-7]
+- a. …[^72-7]
 - b. die Vorschriften der Artikel 30, 31 und 33–35 über das Einigungswesen.
 
 [^72-1]: [BS **8** 117]
-[^72-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^72-2]: [SR 821.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9878)
 [^72-3]: [BS **8** 206]
 [^72-4]: [BS **8** 125]
 [^72-5]: [BS **8** 217 221]
-[^72-6]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^72-6]: [SR 821.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9878)
 [^72-7]: Aufgehoben durch Ziff. II Art. 6 Ziff. 12 des BG vom 25. Juni 1971 über die Revision des Zehnten Titels und des Zehnten Titels<sup>bis</sup> des Obligationenrechts (Der Arbeitsvertrag), mit Wirkung seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 
 ### Aufhebung kantonaler Vorschriften
@@ -1175,9 +1188,9 @@ Mit dem Inkrafttreten des Gesetzes sind ferner aufgehoben:
 
 <sup>3</sup> Vorbehalten bleiben kantonale Vorschriften über die ärztliche Untersuchung der Jugendlichen, soweit der Bund von seiner Befugnis gemäss Artikel 29 Absatz 4 keinen Gebrauch macht.
 
-<sup>4</sup> ...[^73-2]
+<sup>4</sup> …[^73-2]
 
-[^73-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). Dem Art. 341<sup>bis</sup> Abs. 1 und 2 in der Fassung des vorliegenden BG ([AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 64) entspricht heute Art. 329*a* Abs. 1 in der Fassung vom 16. Dez. 1983.
+[^73-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818). Dem Art. 341<sup>bis</sup> Abs. 1 und 2 in der Fassung des vorliegenden BG ([AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 64) entspricht heute Art. 329*a* Abs. 1 in der Fassung vom 16. Dez. 1983.
 [^73-2]: Aufgehoben durch Ziff. II 408 des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, mit Wirkung seit 1. Febr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 ### Inkrafttreten
@@ -1192,10 +1205,10 @@ Datum des Inkrafttretens: 1. Februar 1966[^74-1]
 
 [^74-1]: BRB vom 14. Jan. 1966
 
-## Schlussbestimmungen der Änderung vom 20. März 1998****
+## Schlussbestimmungen der Änderung vom 20. März 1998
 
 [^u1-1]
 
 [^u1-1]: [AS 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242). Aufgehoben durch Ziff. II 31 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-...
+…

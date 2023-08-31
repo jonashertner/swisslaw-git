@@ -4,20 +4,20 @@ title: "Loi fédérale du 13 mars 1964 sur le travail dans l'industrie, l'artisa
 short: LTr
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/57_57_57"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 1964-03-13
 in_force: 1966-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/57_57_57/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-57_57_57-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/57_57_57/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1966-57_57_57-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur le travail dans l’industrie, l’artisanat et le commerce
 
-(Loi sur le travail, LTr**[^t-1]**)
+(Loi sur le travail, LTr[^t-1])
 
-du 13 mars 1964 (Etat le 1<sup>er</sup> janvier 2021)
+du 13 mars 1964 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 21 déc. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2903](https://fedlex.data.admin.ch/eli/oc/2008/398); [FF 2007 4051](https://fedlex.data.admin.ch/eli/fga/2007/609)[4059](https://fedlex.data.admin.ch/eli/fga/2007/611)).
 
@@ -27,7 +27,7 @@ vu les art. 26, 31<sup>bis</sup>, al. 2, 34<sup>bis</sup>, 34<sup>ter</sup>, 36,
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Aux disp. mentionnées correspondent actuellement les art. 63, 87, 92, 95, 110, 117, 122 et 177 al. 3, 188, al. 2 et 190, al. 1 (après l’entrée en vigueur de l’AF du 8 oct. 1999 sur la réforme de la justice; [FF 1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454): art. 188, al. 2, 189, al. 1, 191, al. 3, et 191*a*, al. 2) de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RO 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Aux disp. mentionnées correspondent actuellement les art. 63, 87, 92, 95, 110, 117, 122 et 177 al. 3, 188, al. 2 et 190, al. 1 (après l’entrée en vigueur de l’AF du 8 oct. 1999 sur la réforme de la justice; [FF 1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454): art. 188, al. 2, 189, al. 1, 191, al. 3, et 191*a*, al. 2) de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nouvelle teneur selon le ch. VII 3 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^ingress-3]: [FF 1960 II 885](https://fedlex.data.admin.ch/eli/fga/1960/2_909_885_1313)
 
@@ -91,7 +91,7 @@ La loi, sous réserve de l’art. 3*a*, ne s’applique pas non plus:[^3-1]
 [^3-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2002 2547](https://fedlex.data.admin.ch/eli/oc/2002/346); [FF 2001 3021](https://fedlex.data.admin.ch/eli/fga/2001/603)[5801](https://fedlex.data.admin.ch/eli/fga/2001/1022)).
 [^3-4]: Nouvelle teneur selon l’art. 21 ch. 2 de la L du 20 mars 1981 sur le travail à domicile, en vigueur depuis le 1<sup>er</sup> avr. 1983 ([RO 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108); [FF 1980 II 282](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)).
 [^3-5]: Introduite par le ch. II 2 de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^3-6]: [RS 0.747.224.022](https://fedlex.data.admin.ch/eli/cc/1959/961_994_986)
+[^3-6]: [RS 0.747.224.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3037)
 
 ### Dispositions sur la protection de la santé
 
@@ -142,7 +142,7 @@ Sont réputées industrielles les entreprises qui font usage d’installations f
 
 [^5-1]: Nouvelle teneur selon le ch. I 4 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le l<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
-## II. Protection de la santé**** et approbation des plans****
+## II. Protection de la santé et approbation des plans
 
 [^lvlII-1][^lvlII-2]
 
@@ -186,7 +186,7 @@ Sont réputées industrielles les entreprises qui font usage d’installations f
 [^7-1]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 20 mars 1981 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 al. 1; [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 [^7-2]: Nouvelle teneur de la phrase selon le ch. I 4 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le l<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 [^7-3]: Nouvelle teneur de la phrase selon le ch. I 4 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le l<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
-[^7-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^7-4]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^7-5]: Introduit par le ch. I 16 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er janv.</sup> 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 
 ### Entreprises non industrielles
@@ -267,7 +267,7 @@ Le travail supplémentaire ne peut dépasser deux heures par travailleur et par 
 - a. 170 heures pour les travailleurs dont la durée maximale de la semaine de travail est de quarante-cinq heures;
 - b. 140 heures pour les travailleurs dont la durée maximale de la semaine de travail est de cinquante heures.[^12-1]
 
-<sup>3</sup> et <sup>4</sup> ...[^12-2]
+<sup>3 et <sup>4</sup></sup> ...[^12-2]
 
 [^12-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 1128).
 [^12-2]: Abrogés par le ch. I de la LF du 20 mars 1998, avec effet au 1<sup>er</sup> août 2000 ([RO 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 1128).
@@ -497,7 +497,7 @@ Dans la mesure où la loi prescrit des temps de repos, ceux-ci ne doivent pas ê
 
 [^22-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 1128).
 
-### 3. Travail continu****
+### 3. Travail continu
 
 [^lvlIII-lvl3-1]
 
@@ -529,7 +529,7 @@ Dans la mesure où la loi prescrit des temps de repos, ceux-ci ne doivent pas ê
 
 [^24-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 1128).
 
-### 4. Autres dispositions****
+### 4. Autres dispositions
 
 [^lvlIII-lvl4-1]
 
@@ -599,13 +599,13 @@ De telles dispositions peuvent être édictées notamment pour:
 
 Dans les permis concernant la durée du travail, l’autorité peut, à titre exceptionnel, apporter de minimes dérogations aux prescriptions de la loi et de l’ordonnance, lorsque l’application de ces prescriptions entraînerait des difficultés extraordinaires et que la majorité des travailleurs intéressés ou leurs représentants dans l’entreprise consentent à ces dérogations.
 
-## IV. Dispositions spéciales de protection****
+## IV. Dispositions spéciales de protection
 
 [^lvlIV-1]
 
 [^lvlIV-1]: Nouvelle teneur du titre selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 1128).
 
-### 1. Jeunes travailleurs****
+### 1. Jeunes travailleurs
 
 [^lvlIV-lvl1-1]
 
@@ -675,7 +675,7 @@ L’ordonnance détermine dans quelles catégories d’entreprise ou d’emplois
 
 [^3334-1]: Abrogés par le ch. I de la LF du 20 mars 1998, avec effet au 1<sup>er</sup> août 2000 ([RO 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 1128).
 
-### 2.**** Femmes enceintes et mères qui allaitent****
+### 2. Femmes enceintes et mères qui allaitent
 
 [^lvlIV-lvl2-1][^lvlIV-lvl2-2]
 
@@ -712,7 +712,7 @@ L’ordonnance détermine dans quelles catégories d’entreprise ou d’emplois
 
 <sup>2</sup> Lorsqu’aucun travail équivalent ne peut leur être proposé, les femmes occupées entre 20 heures et 6 heures pendant les périodes fixées à l’al. 1 ont droit à 80 % de leur salaire calculé sans d’éventuelles majorations pour le travail de nuit, y compris une indemnité équitable pour la perte du salaire en nature.
 
-### 3. Travailleurs ayant des responsabilités familiales****
+### 3. Travailleurs ayant des responsabilités familiales
 
 [^lvlIV-lvl3-1]
 
@@ -734,7 +734,7 @@ L’ordonnance détermine dans quelles catégories d’entreprise ou d’emplois
 [^36-2]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^36-3]: Introduit par le ch. I 2 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
-### 4.**** Autres catégories de travailleurs
+### 4. Autres catégories de travailleurs
 
 [^lvlIV-lvl4-1]
 
@@ -873,7 +873,7 @@ Le SECO et les autorités cantonales compétentes en la matière peuvent, sur de
 <sup>5</sup> Le Conseil fédéral peut généraliser la communication de données non sensibles à des autorités ou à des institutions, pour autant que ces données soient nécessaires à l’accomplissement de leurs tâches légales. Il peut prévoir de leur accorder cet accès par une procédure d’appel.
 
 [^44a-1]: Introduit par le ch.VII 3 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^44a-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^44a-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Systèmes d’information et de documentation
 
@@ -912,10 +912,11 @@ Les systèmes d’information ou de documentation peuvent contenir des données 
 
 [^46-1]
 
-L’employeur tient à la disposition des autorités d’exécution et de surveillance les registres ou autres pièces contenant les informations nécessaires à l’exécution de la présente loi et de ses ordonnances. Pour le surplus, la loi fédérale du 19 juin 1992 sur la protection des données[^46-2] est applicable.
+L’employeur tient à la disposition des autorités d’exécution et de surveillance les registres ou autres pièces contenant les informations nécessaires à l’exécution de la présente loi et de ses ordonnances. Pour le surplus, la loi fédérale du 25 septembre 2020 sur la protection des données[^46-2] est applicable.[^46-3]
 
 [^46-1]: Nouvelle teneur selon le ch.VII 3 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^46-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^46-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^46-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 77 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Affichage de l’horaire de travail et des autorisations de dérogation
 
@@ -984,7 +985,7 @@ Les travailleurs ou leurs représentants dans l’entreprise ont le droit d’ê
 
 <sup>3</sup> Lorsqu’une infraction selon l’al. 1 constitue en même temps une violation d’une convention collective de travail, l’autorité cantonale peut tenir compte, d’une manière appropriée, des mesures que les parties contractantes ont prises pour faire respecter la convention.
 
-[^51-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^51-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Mesures de contrainte administrative
 
@@ -1061,7 +1062,7 @@ Est punissable l’employeur qui enfreint les prescriptions sur:
 <sup>2</sup> L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^59-2] est applicable.
 
 [^59-1]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 20 mars 1981 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 al. 1; [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
-[^59-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^59-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Responsabilité pénale du travailleur
 
@@ -1085,7 +1086,7 @@ Est punissable l’employeur qui enfreint les prescriptions sur:
 
 <sup>2</sup> Le travailleur est passible de l’amende.
 
-[^61-1]: Nouvelle teneur selon l’art. 333 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^61-1]: Nouvelle teneur selon l’art. 333 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 ### Code pénal et poursuite pénale
 
@@ -1095,9 +1096,9 @@ Est punissable l’employeur qui enfreint les prescriptions sur:
 
 <sup>2</sup> La poursuite pénale incombe aux cantons.
 
-[^62-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
-## VII. Dispositions modifiant des lois fédérales****
+## VII. Dispositions modifiant des lois fédérales
 
 [^lvlVII-1]
 
@@ -1168,12 +1169,12 @@ Demeurent applicables aux entreprises industrielles les prescriptions suivantes 
 - a.[^72-7] ...
 - b. les prescriptions des art. 30, 31 et 33 à 35 sur la conciliation.
 
-[^72-1]: [RS **8** 117]
-[^72-2]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
-[^72-3]: [RS **8** 207]
-[^72-4]: [RS **8** 125]
-[^72-5]: [RS **8** 218 223]
-[^72-6]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^72-1]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)117]
+[^72-2]: [RS 821.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9878)
+[^72-3]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)207]
+[^72-4]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)125]
+[^72-5]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)218 223]
+[^72-6]: [RS 821.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9878)
 [^72-7]: Abrogée par le ch. II art. 6 ch. 12 de la LF du 25 juin 1971 revisant les titres X et X<sup>bis</sup> du CO (Contrat de travail), avec effet au 1<sup>er</sup> janv. 1972 ([RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1967 II 249](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 
 ### Abrogation de prescriptions cantonales
@@ -1193,7 +1194,7 @@ Sont également abrogées dès l’entrée en vigueur de la présente loi:
 
 <sup>4</sup> ...[^73-2]
 
-[^73-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)**.** À l’art 341<sup>bis</sup> al. 1 et 2, dans la teneur de la présente loi ([RO 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 64), correspond actuellement l’art. 329*a* al. 1, dans la teneur du 16 déc. 1983.
+[^73-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)**.** À l’art 341<sup>bis</sup> al. 1 et 2, dans la teneur de la présente loi ([RO 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 64), correspond actuellement l’art. 329*a* al. 1, dans la teneur du 16 déc. 1983.
 [^73-2]: Abrogé par le ch. II 408 de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, avec effet au 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 ### Entrée en vigueur
@@ -1208,7 +1209,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> février 1966[^74-1]
 
 [^74-1]: ACF du 14 janv. 1966
 
-## Dispositions finales de la modification du 20 mars 1998****
+## Dispositions finales de la modification du 20 mars 1998
 
 [^u1-1]
 
