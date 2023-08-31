@@ -4,11 +4,11 @@ title: "Reglement des Bundesgerichts vom 11. September 2006 betreffend die Aufsi
 short: AufRBGer
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/835"
 language: de
-version: 2012-01-01
+version: 2023-09-01
 adopted: 2006-09-11
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/835/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2006-835-20120101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/835/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/835/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-835-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/835/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/835/20120101/de"
 
 (Aufsichtsreglement des Bundesgerichts, AufRBGer)[^t-1]
 
-vom 11. September 2006 (Stand am 1. Januar 2012)
+vom 11. September 2006 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des BGer vom 6. Okt. 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
 
@@ -33,21 +33,25 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die administrative Aufsicht obliegt der Verwaltungskommission des Bundesgerichts. Diese wird durch das Generalsekretariat des Bundesgerichts unterstützt.
+<sup>1</sup> Die administrative Aufsicht obliegt der Verwaltungskommission des Bundesgerichts. Diese wird durch das Generalsekretariat und den Datenschutzbeauftragten oder die Datenschutzbeauftragte des Bundesgerichts unterstützt.[^1-1]
 
 <sup>2</sup> Die Verwaltungskommission kann für die Ausübung der Aufsicht notwendige Vorarbeiten und Untersuchungen einem Gerichtsmitglied übertragen, das ihr nicht angehört.
 
 <sup>3</sup> Die parlamentarische Oberaufsicht bleibt vorbehalten.
 
+[^1-1]: Fassung gemäss Ziff. I der V des BGer vom 12. Juni 2023, in Kraft seit 1. Sept. 2023 (AS **20****23** 408).
+
 #### Art. 2
 
 **Gegenstand und Zweck der Aufsicht**
 
-<sup>1</sup> Der Aufsicht unterstehen alle Bereiche der Geschäftsführung, insbesondere die Gerichtsleitung, die Organisation, die Fallerledigung sowie das Personal- und Finanzwesen.
+<sup>1</sup> Der Aufsicht unterstehen alle Bereiche der Geschäftsführung, insbesondere die Gerichtsleitung, die Organisation, die Fallerledigung, das Personal- und Finanzwesen sowie der Datenschutz.[^2-1]
 
 <sup>2</sup> Ausgenommen von der Aufsicht ist die Rechtsprechung.
 
 <sup>3</sup> Die Aufsicht bezweckt die gesetzmässige, zweckmässige und haushälterische Aufgabenerfüllung der beaufsichtigten Gerichte.
+
+[^2-1]: Fassung gemäss Ziff. I der V des BGer vom 12. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
 
 #### Art. 3
 
@@ -58,9 +62,12 @@ Die Verwaltungskommission übt ihre Aufsicht insbesondere durch folgende Instrum
 - a. Prüfung des Geschäftsberichts;
 - b. Aussprachen mit den Gerichtsleitungen und Kontrollen des Geschäftsgangs;
 - c. Finanzaufsicht;
+- c<sup>bis</sup>.[^3-1] Datenschutzaufsicht;
 - d. Untersuchungen;
 - e. Mitteilungen an die Oberaufsicht;
 - f. Erledigung von Aufsichtseingaben.
+
+[^3-1]: Eingefügt durch Ziff. I der V des BGer vom 12. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
 
 #### Art. 4
 
@@ -93,6 +100,17 @@ Die Finanzaufsicht erfolgt durch:
 - a. eine mehrjährige gemeinsame Finanzplanung;
 - b. Prüfung und Besprechung der Entwürfe des Voranschlags und der Jahresrechnung;
 - c. technische Vorgaben zur Gestaltung von Budget und Rechnung.
+
+#### Art. 6a
+
+**Datenschutzaufsicht**[^6a-1]
+
+<sup>1</sup> Das Bundesstrafgericht, das Bundesverwaltungsgericht und das Bundespatentgericht reichen dem Bundesgericht ihren Datenschutzbericht ein.
+
+<sup>2</sup> Der Bericht gibt Auskunft über das Verzeichnis der Bearbeitungstätigkeiten nach Artikel 12 des Datenschutzgesetzes vom 25. September 2020[^6a-2], allfällige Verletzungen der Datensicherheit sowie über weitere aufsichtsrelevante Themen im Bereich Datenschutz.
+
+[^6a-1]: Eingefügt durch Ziff. I der V des BGer vom 12. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
+[^6a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 7
 
@@ -138,9 +156,12 @@ Die Weisungen betreffen insbesondere folgende Bereiche:
 - b. Personalwesen;
 - c. Geschäftsbericht;
 - d. Voranschlag und Jahresrechnung;
-- e. Vorgaben für die Geschäftserledigung.
+- e. Vorgaben für die Geschäftserledigung;
+- f.[^10-1] Datenschutz.
 
 <sup>3</sup> Vor dem Erlass von Weisungen werden die Gerichte angehört.
+
+[^10-1]: Eingefügt durch Ziff. I der V des BGer vom 12. Juni 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
 
 #### Art. 11
 

@@ -4,11 +4,11 @@ title: "Règlement du Tribunal fédéral du 11 septembre 2006 relatif à la surv
 short: RSTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/835"
 language: fr
-version: 2012-01-01
+version: 2023-09-01
 adopted: 2006-09-11
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/835/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-835-20120101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/835/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/835/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-835-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/835/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/835/20120101/fr"
 
 (Règlement sur la surveillance par le Tribunal fédéral, RSTF)[^t-1]
 
-du 11 septembre 2006 (État le 1<sup>er</sup> janvier 2012)
+du 11 septembre 2006 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 oct. 2010, en vigueur depuis le 1<sup>er</sup> jan. 2012 ([RO 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
 
 Le Tribunal fédéral suisse,
 
@@ -33,21 +33,25 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> La surveillance administrative est exercée par la Commission administrative du Tribunal fédéral. Celle-ci dispose de l’appui du Secrétariat général du Tribunal fédéral.
+<sup>1</sup> La surveillance administrative est exercée par la Commission administrative du Tribunal fédéral. Celle-ci dispose de l’appui du Secrétariat général et du préposé à la protection des données du Tribunal fédéral.[^1-1]
 
 <sup>2</sup> La Commission administrative peut déléguer à un autre membre du Tribunal fédéral des travaux préliminaires et des enquêtes en vue de l’exercice de la surveillance.
 
 <sup>3</sup> La haute surveillance par l’Assemblée fédérale est réservée.
 
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du TF du 12 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
+
 #### Art. 2
 
 **Objet et but de la surveillance**
 
-<sup>1</sup> Relèvent de la surveillance tous les domaines de la gestion, en particulier la direction du tribunal, l’organisation, la liquidation des dossiers ainsi que les questions relatives au personnel et aux finances.
+<sup>1</sup> Relèvent de la surveillance tous les domaines de la gestion, en particulier la direction du tribunal, l’organisation, la liquidation des dossiers, les questions relatives au personnel et aux finances et la protection des données.[^2-1]
 
 <sup>2</sup> La jurisprudence est exclue de cette surveillance.
 
 <sup>3</sup> La surveillance a pour but une exécution conforme à la loi, efficace et économique des tâches incombant aux tribunaux concernés.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du TF du 12 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
 
 #### Art. 3
 
@@ -58,9 +62,12 @@ Pour exercer sa surveillance, la Commission administrative dispose notamment des
 - a. examen du rapport de gestion;
 - b. entretiens avec les directions des tribunaux et contrôles de la marche des affaires;
 - c. surveillance financière;
+- c<sup>bis</sup>.[^3-1] surveillance en matière de protection des données;
 - d. enquêtes;
 - e. informations à l’autorité exerçant la haute surveillance;
 - f. traitement des demandes adressées à l’autorité de surveillance.
+
+[^3-1]: Introduite par le ch. I de l’O du TF du 12 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
 
 #### Art. 4
 
@@ -70,7 +77,7 @@ Pour exercer sa surveillance, la Commission administrative dispose notamment des
 
 <sup>2</sup> Le rapport renseigne sur la composition des cours, la nature et le volume des affaires traitées ainsi que sur les autres sujets relevant de la surveillance.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 oct. 2010, en vigueur depuis le 1<sup>er</sup> jan. 2012 ([RO 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
 
 #### Art. 5
 
@@ -82,7 +89,7 @@ Pour exercer sa surveillance, la Commission administrative dispose notamment des
 
 <sup>3</sup> Ils informent la Commission administrative des événements relevant de la surveillance.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 oct. 2010, en vigueur depuis le 1<sup>er</sup> jan. 2012 ([RO 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
 
 #### Art. 6
 
@@ -93,6 +100,17 @@ La surveillance financière s’exerce par:
 - a. une planification financière commune portant sur plusieurs années;
 - b. l’examen et la discussion des projets de budget et de comptes annuels;
 - c. des directives techniques pour l’établissement du budget et des comptes.
+
+#### Art. 6a
+
+**Surveillance en matière de protection des données**[^6a-1]
+
+<sup>1</sup> Le Tribunal pénal fédéral, le Tribunal administratif fédéral et le Tribunal fédéral des brevets adressent leur rapport sur la protection des données au Tribunal fédéral.
+
+<sup>2</sup> Le rapport renseigne sur le registre des activités de traitement au sens de l’art. 12 de la loi fédéral du 25 septembre 2020 sur la protection des données[^6a-2], les éventuelles violations de la sécurité des données ainsi que sur les autres sujets relevant de la surveillance dans le domaine de la protection des données.
+
+[^6a-1]: Introduit par le ch. I de l’O du TF du 12 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
+[^6a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 7
 
@@ -122,7 +140,7 @@ La surveillance financière s’exerce par:
 
 <sup>3</sup> Demeure réservée la procédure en cas de déni de justice et de retard injustifié relative aux décisions sujettes à recours selon l’art. 94 LTF.
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 oct. 2010, en vigueur depuis le 1<sup>er</sup> jan. 2012 ([RO 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 2239](https://fedlex.data.admin.ch/eli/oc/2011/305)).
 
 #### Art. 10
 
@@ -138,9 +156,12 @@ Les directives réglementent en particulier les domaines suivants:
 - b. le personnel;
 - c. le rapport de gestion;
 - d. le budget et les comptes annuels;
-- e. le traitement des affaires.
+- e. le traitement des affaires;
+- f.[^10-1] la protection des données.
 
 <sup>3</sup> Les tribunaux sont consultés avant la mise en vigueur des directives.
+
+[^10-1]: Introduite par le ch. I de l’O du TF du 12 juin 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 408](https://fedlex.data.admin.ch/eli/oc/2023/408)).
 
 #### Art. 11
 
@@ -156,7 +177,7 @@ Les directives réglementent en particulier les domaines suivants:
 
 #### Art. 12
 
-**Etablissement d’un rapport**
+**Établissement d’un rapport**
 
 Le Tribunal fédéral rend compte de son activité de surveillance dans son rapport de gestion.
 
