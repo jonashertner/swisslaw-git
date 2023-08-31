@@ -4,11 +4,11 @@ title: "Ordinanza del 26 giugno 2013 sull'obbligo di dichiarazione e sulla verif
 short: ODPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/510"
 language: it
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2013-06-26
 in_force: 2013-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/510/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2013-510-20210401-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/510/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-510-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20210401/it"
 
 (ODPS)
 
-del 26 giugno 2013 (Stato 1° aprile 2021)
+del 26 giugno 2013 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -123,7 +123,7 @@ La dichiarazione e il suo rinnovo sono considerati validamente notificati non ap
 
 <sup>3</sup> Essa comunica al prestatore le autorità competenti per il riconoscimento delle qualifiche professionali e per l’esercizio della professione.
 
-[^7-1]: Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 set. 2005, relativa al riconoscimento delle qualifiche professionali (GU L 225 del 30.9.2005, pag. 22), nella versione che vincola la Svizzera conformemente all’all. III sez. A n. 1 dell’Acc. del 21 giu. 1999 sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)).
+[^7-1]: Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 set. 2005, relativa al riconoscimento delle qualifiche professionali (GU L 225 del 30.9.2005, pag. 22), nella versione che vincola la Svizzera conformemente all’all. III Sez. A n. 1 dell’Acc. del 21 giu. 1999 sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)).
 
 #### Art. 8
 
@@ -133,7 +133,11 @@ La dichiarazione e il suo rinnovo sono considerati validamente notificati non ap
 
 <sup>2</sup> Essa mette in copia l’autorità competente per l’esercizio della professione del Cantone in cui la prestazione di servizi verrà effettuata per la prima volta.
 
-## Sezione 4: Collezione di dati
+## Sezione 4: Trattamento di dati
+
+[^sec4-1]
+
+[^sec4-1]: Nuovo testo giusta l’all. 2 n. II 131 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -239,7 +243,7 @@ Il diritto vigente è modificato conformemente alle disposizioni dell’allegato
 
 La presente ordinanza entra in vigore il 1° settembre 2013.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 [^t-1]: Abrogato dal n. II dell’O del 17 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 136](https://fedlex.data.admin.ch/eli/oc/2021/136)).
 

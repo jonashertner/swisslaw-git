@@ -4,11 +4,11 @@ title: "Ordonnance du 26 juin 2013 sur l'obligation des prestataires de services
 short: OPPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/510"
 language: fr
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2013-06-26
 in_force: 2013-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/510/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2013-510-20210401-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/510/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-510-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20210401/fr"
 
 (OPPS)
 
-du 26 juin 2013 (Etat le 1<sup>er</sup> avril 2021)
+du 26 juin 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -36,7 +36,7 @@ arrête:
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) publie sur son site Internet[^1-2] la liste des professions soumises à l’obligation de déclaration et à la vérification des qualifications conformément à la LPPS.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 136](https://fedlex.data.admin.ch/eli/oc/2021/136)).
-[^1-2]: La liste est publiée à l’adresse suivante: www.sefri.admin.ch &gt; Formation &gt; Reconnaissance de diplômes étrangers &gt; Prestataires de services.
+[^1-2]: La liste est publiée à l’adresse suivante: [www.sefri.admin.ch](http://www.sefri.admin.ch) &gt; Formation &gt; Reconnaissance de diplômes étrangers &gt; Prestataires de services.
 
 ## Section 2 Déclaration
 
@@ -80,7 +80,7 @@ Le SEFRI exige du prestataire de services via le système de déclaration les do
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2685](https://fedlex.data.admin.ch/eli/oc/2019/508)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 136](https://fedlex.data.admin.ch/eli/oc/2021/136)).
-[^3-3]: La liste est publiée à l’adresse suivante: www.sefri.admin.ch &gt; Formation &gt; Reconnaissance de diplômes étrangers &gt; Prestataires de services.
+[^3-3]: La liste est publiée à l’adresse suivante: [www.sefri.admin.ch](http://www.sefri.admin.ch) &gt; Formation &gt; Reconnaissance de diplômes étrangers &gt; Prestataires de services.
 [^3-4]: Introduit par le ch. I de l’O du 21 août 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2685](https://fedlex.data.admin.ch/eli/oc/2019/508)).
 
 #### Art. 4
@@ -132,7 +132,11 @@ La déclaration et son renouvellement sont réputés valablement déposés à r�
 
 <sup>2</sup> Il met en copie l’autorité compétente pour l’exercice de la profession du canton dans lequel la prestation de services doit avoir lieu pour la première fois.
 
-## Section 4 Collection de données
+## Section 4 Traitement des données
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon l’annexe 2 ch. II 131 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -238,11 +242,11 @@ Le droit en vigueur est modifié conformément aux dispositions de l’annexe 2.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2013.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 [^t-1]: Abrogée par le ch. II de l’O du 17 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 136](https://fedlex.data.admin.ch/eli/oc/2021/136)).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 17)
 

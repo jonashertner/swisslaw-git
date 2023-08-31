@@ -4,11 +4,11 @@ title: Verordnung vom 26. Juni 2013 über die Meldepflicht und die Nachprüfung 
 short: VMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/510"
 language: de
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2013-06-26
 in_force: 2013-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/510/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2013-510-20210401-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/510/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-510-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/510/20210401/de"
 
 (VMD)
 
-vom 26. Juni 2013 (Stand am 1. April 2021)
+vom 26. Juni 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -132,17 +132,23 @@ Die Meldung und deren Erneuerung gelten als zugestellt, wenn das vollständig au
 
 <sup>2</sup> Es stellt der für die Berufsausübung zuständigen Behörde in dem Kanton, in dem die Dienstleistungserbringung erstmals erfolgen wird, eine Kopie zu.
 
-## 4. Abschnitt: Datensammlung
+## 4. Abschnitt: Datenbearbeitung
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Anhang 2 Ziff. II 131 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
-<sup>1</sup> Das SBFI sammelt die Daten nach den Artikeln 2–4 und bereitet sie elektronisch auf.
+<sup>1</sup> Das SBFI beschafft die Daten nach den Artikeln 2–4 und bereitet sie elektronisch auf.[^9-1]
 
 <sup>2</sup> Es übermittelt die Daten, einschliesslich der Begleitdokumente gemäss Artikel 3, elektronisch oder per Post an die für die Anerkennung der Berufsqualifikationen zuständige Stelle sowie an die für die Berufsausübung zuständige Behörde.
 
 <sup>3</sup> Es kann die Daten mittels eines Abrufverfahrens den für die Anerkennung der Berufsqualifikationen zuständigen Stellen und den für die Berufsausübung zuständigen Behörden zugänglich machen, sofern die Informationen und Begleitdokumente keine besonders schützenswerten Personendaten enthalten.
 
 <sup>4</sup> Die Daten werden zehn Jahre ab Zustellung aufbewahrt.
+
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 131 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Nachprüfung der Berufsqualifikationen durch die zuständige Bundesbehörde
 
@@ -236,7 +242,7 @@ Die Änderung bisherigen Rechts ist in Anhang 2 geregelt.
 
 Diese Verordnung tritt am 1. September 2013 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 [^t-1]: Aufgehoben durch Ziff. II der V vom 17. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 136](https://fedlex.data.admin.ch/eli/oc/2021/136)).
 
@@ -248,6 +254,6 @@ Anhang 2
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2013 2421](https://fedlex.data.admin.ch/eli/oc/2013/510)konsultiert werden.
