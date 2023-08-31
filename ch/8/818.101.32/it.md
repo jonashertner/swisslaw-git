@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Ordinanza del 29 aprile 2015 concernente i laboratori di microbiologia
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: it
-version: 2022-12-01
+version: 2023-09-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2015-299-20221201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-299-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente i laboratori di microbiologia
 
-del 29 aprile 2015 (Stato 1° dicembre 2022)
+del 29 aprile 2015 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -302,9 +302,11 @@ L’elenco contiene i seguenti dati:
 
 **Informazione delle autorità**
 
-<sup>1</sup> L’Istituto svizzero per gli agenti terapeutici informa l’UFSP e la competente autorità cantonale sul rilascio, il rinnovo, la revoca o la sospensione di un’autorizzazione. Mette a disposizione dell’UFSP gli indirizzi dei laboratori autorizzati sotto forma di un indirizzario.
+<sup>1</sup> L’Istituto svizzero per gli agenti terapeutici informa l’UFSP e la competente autorità cantonale sul rilascio, il rinnovo, la revoca o la sospensione di un’autorizzazione. Mette a disposizione dell’UFSP gli indirizzi dei laboratori autorizzati sotto forma di un indirizzario.[^23-1]
 
 <sup>2</sup> L’UFSP informa l’Istituto svizzero per gli agenti terapeutici in merito alle sue attività nella misura in cui sono rilevanti ai fini del rilascio delle autorizzazioni e del controllo dei laboratori.
+
+[^23-1]: La mod. giusta l’all. 2 n. II 109 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023, concerne soltanto il testo francese ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 7: Emolumenti
 

@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Verordnung vom 29. April 2015 über mikrobiologische Laboratorien
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: de
-version: 2022-12-01
+version: 2023-09-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2015-299-20221201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-299-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über mikrobiologische Laboratorien
 
-vom 29. April 2015 (Stand am 1. Dezember 2022)
+vom 29. April 2015 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -302,9 +302,11 @@ Die Liste enthält folgende Angaben:
 
 **Information der Behörden**
 
-<sup>1</sup> Das Schweizerische Heilmittelinstitut informiert das BAG und die zuständige kantonale Behörde über die Erteilung, die Erneuerung, den Entzug oder die Sistierung von Bewilligungen. Es stellt dem BAG die Adressen der bewilligten Laboratorien in Form einer Adressdatei zur Verfügung.
+<sup>1</sup> Das Schweizerische Heilmittelinstitut informiert das BAG und die zuständige kantonale Behörde über die Erteilung, die Erneuerung, den Entzug oder die Sistierung von Bewilligungen. Es stellt dem BAG die Adressen der bewilligten Laboratorien in Form einer Adressdatei zur Verfügung.[^23-1]
 
 <sup>2</sup> Das BAG informiert das Schweizerische Heilmittelinstitut über seine Aktivitäten, sofern sie für die Erteilung von Bewilligungen und die Kontrolle der Laboratorien relevant sind.
+
+[^23-1]: Die Änderung aus Anhang 2 Ziff. II 109 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 betrifft nur den französischen Text ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 7. Abschnitt: Gebühren
 

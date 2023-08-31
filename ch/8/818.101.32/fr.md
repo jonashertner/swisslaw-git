@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Ordonnance du 29 avril 2015 sur les laboratoires de microbiologie
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: fr
-version: 2022-12-01
+version: 2023-09-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-299-20221201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-299-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les laboratoires de microbiologie
 
-du 29 avril 2015 (État le 1<sup>er</sup> décembre 2022)
+du 29 avril 2015 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -103,7 +103,7 @@ Le chef d’un laboratoire effectuant des analyses visant à exclure des maladie
 Le chef d’un laboratoire effectuant des analyses d’échantillons prélevés dans l’environnement doit pouvoir justifier d’un des titres ou diplômes suivants:
 
 - a. un titre de la FAMH de spécialiste FAMH en médecine de laboratoire adéquat pour chacune des analyses;
-- b. un diplôme en chimie, en biochimie, en biologie ou en microbiologie délivré par une haute école universitaire accréditée au sens de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^7-1] ou par une haute école universitaire étrangère reconnue ou accréditée par l’Etat ainsi qu’une preuve qu’il dispose des compétences professionnelles nécessaires à la réalisation et à l’interprétation des analyses effectuées; pour les diplômés en chimie, biochimie ou biologie, deux ans d’expérience professionnelle en analyses de microbiologie sont en outre exigés;
+- b. un diplôme en chimie, en biochimie, en biologie ou en microbiologie délivré par une haute école universitaire accréditée au sens de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^7-1] ou par une haute école universitaire étrangère reconnue ou accréditée par l’État ainsi qu’une preuve qu’il dispose des compétences professionnelles nécessaires à la réalisation et à l’interprétation des analyses effectuées; pour les diplômés en chimie, biochimie ou biologie, deux ans d’expérience professionnelle en analyses de microbiologie sont en outre exigés;
 - c. un diplôme universitaire en médecine humaine, en médecine dentaire, en médecine vétérinaire ou en pharmacie, conforme à la LPMéd[^7-2], et deux ans d’expérience professionnelle en analyses de microbiologie ainsi qu’une preuve qu’il dispose des compétences professionnelles nécessaires à la réalisation et à l’interprétation des analyses effectuées; ou
 - d. des qualifications équivalentes.
 
@@ -126,8 +126,8 @@ Au moins la moitié du personnel d’un laboratoire effectuant des analyses doit
   - 2\. un certificat fédéral de capacité de laborantin orientation biologie et au moins deux ans d’expérience professionnelle en analyses de microbiologie,
   - 3\. un diplôme étranger reconnu comme équivalent en vertu de l’art. 68 LFPr;
 
-- b. un diplôme en chimie, en biochimie, en microbiologie ou en biologie délivré par une haute école universitaire accréditée selon la LEHE[^8-2] ou par une haute école étrangère reconnue ou accréditée par l’Etat;
-- c. un diplôme en chimie, en biochimie, en microbiologie ou en biologie délivré par une haute école spécialisée accréditée selon la LEHE ou par une haute école spécialisée étrangère reconnue ou accréditée par l’Etat; ou
+- b. un diplôme en chimie, en biochimie, en microbiologie ou en biologie délivré par une haute école universitaire accréditée selon la LEHE[^8-2] ou par une haute école étrangère reconnue ou accréditée par l’État;
+- c. un diplôme en chimie, en biochimie, en microbiologie ou en biologie délivré par une haute école spécialisée accréditée selon la LEHE ou par une haute école spécialisée étrangère reconnue ou accréditée par l’État; ou
 - d. un diplôme universitaire en médecine humaine, en médecine dentaire, en médecine vétérinaire ou en pharmacie, conforme à la LPMéd[^8-3].
 
 <sup>2</sup> Au moins la moitié du personnel d’un laboratoire effectuant des analyses doit justifier d’une expérience professionnelle d’une année au moins dans le domaine des analyses de microbiologie.
@@ -302,11 +302,13 @@ Cette liste contient les indications suivantes:
 
 **Information des autorités**
 
-<sup>1</sup> L’Institut suisse des produits thérapeutiques informe l’OFSP et l’autorité cantonale compétente de l’octroi, du renouvellement, du retrait et de la suspension des autorisations. Il met à la disposition de l’OFSP un fichier contenant les adresses des laboratoires autorisés.
+<sup>1</sup> L’Institut suisse des produits thérapeutiques informe l’OFSP et l’autorité cantonale compétente de l’octroi, du renouvellement, du retrait et de la suspension des autorisations. Il met à la disposition de l’OFSP un dossier contenant les adresses des laboratoires autorisés.[^23-1]
 
 <sup>2</sup> L’OFSP informe l’Institut suisse des produits thérapeutiques de ses activités, pour autant qu’elles soient pertinentes pour l’octroi d’autorisations et pour le contrôle des laboratoires.
 
-## Section 7 Emoluments
+[^23-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 109 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+## Section 7 Émoluments
 
 #### Art. 24
 
@@ -330,7 +332,7 @@ Les émoluments sont calculés selon l’ordonnance du 2 décembre 2011 sur les 
 
 L’ordonnance du 26 juin 1996 sur les laboratoires de microbiologie et de sérologie[^26-1] est abrogée.
 
-[^26-1]: [[RO 1996 2324](https://fedlex.data.admin.ch/eli/oc/1996/2324_2324_2324), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 11, [2003 4835](https://fedlex.data.admin.ch/eli/oc/2003/706), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)ch. II al. 1]
+[^26-1]: [[RO 1996 2324](https://fedlex.data.admin.ch/eli/oc/1996/2324_2324_2324); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 11; [2003 4835](https://fedlex.data.admin.ch/eli/oc/2003/706); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)ch. II al. 1]
 
 #### Art. 27
 
@@ -425,7 +427,7 @@ Le chef de laboratoire est censé pouvoir fournir en tout temps la preuve qu’i
 - 3\.4.1 Le chef de laboratoire doit vérifier régulièrement les compétences du personnel. Il lui propose la formation continue nécessaire à l’accomplissement de ses tâches.
 - 3\.4.2 Le chef de laboratoire est responsable de la formation continue du personnel et de son attestation par écrit.
 
-### 4 Equipement et matériaux
+### 4 Équipement et matériaux
 
 ### 4.1 Locaux
 
