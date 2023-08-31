@@ -3,20 +3,20 @@ canton: SO
 number: "131.3"
 title: Verzeichnis der solothurnischen Gemeinden
 language: de
-version: 2022-01-01
-valid_until: 2023-08-31
-version_adopted: 2021-12-15
+version: 2023-09-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-10
 adopted: 1997-10-28
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.3"
-pdf: "https://bgs.so.ch/api/de/versions/5332/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verzeichnis der solothurnischen Gemeinden
 
-Vom 28.10.1997 (Stand 01.01.2022)
+Vom 28.10.1997 (Stand 01.09.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -175,7 +175,7 @@ beschliesst:
   - 12\. Schönenwerd
   - 13\. Starrkirch-Wil
   - 14\. Walterswil
-  - 15\. Wangen
+  - 15\. Wangen bei Olten
 - h) Bezirk Gösgen
   - 1\. Hauenstein-Ifenthal
   - 2\. …
@@ -316,7 +316,7 @@ beschliesst:
   - 12\. Schönenwerd
   - 13\. Starrkirch-Wil
   - 14\. Walterswil
-  - 15\. Wangen
+  - 15\. Wangen bei Olten
 - h) Bezirk Gösgen
   - 1\. Hauenstein-Ifenthal
   - 2\. …
@@ -367,9 +367,9 @@ beschliesst:
   - 1\. Solothurn (Solothurn: exkl. Ortsteil Steingrubenquartier)
   - 2\. Bellach (Bellach)
   - 3\. Bettlach (Bettlach)
-  - 4\. Flumenthal (Flumenthal, Hubersdorf, Kammersrohr: exkl. Ortsteile vorderer und hinterer Mattenhof)
+  - 4\. Flumenthal-Hubersdorf (Flumenthal, Hubersdorf, Kammersrohr: exkl. Ortsteile vorderer und hinterer Mattenhof)
   - 5\. Grenchen (Grenchen)
-  - 6\. Günsberg (Balm bei Günsberg, Günsberg, Kammersrohr: Ortsteile vorderer und hinterer Mattenhof, Riedholz: Ortsteil Niederwil)
+  - 6\. Günsberg-Niederwil-Balm (Balm bei Günsberg, Günsberg, Kammersrohr: Ortsteile vorderer und hinterer Mattenhof, Riedholz: Ortsteil Niederwil)
   - 7\. Oberdorf (Langendorf, Lommiswil, Oberdorf)
   - 8\. Selzach (Selzach)
   - 9\. St. Niklaus (Feldbrunnen-St. Niklaus, Riedholz: exkl. Ortsteil Niederwil, Rüttenen, Solothurn: Ortsteil Steingrubenquartier)
@@ -406,14 +406,14 @@ beschliesst:
 - e) Bezirk Olten
   - 1\. Dulliken (Dulliken)
   - 2\. Fulenbach (Fulenbach)
-  - 3\. Gretzenbach (Däniken, Gretzenbach)
+  - 3\. Gretzenbach-Däniken (Däniken, Gretzenbach)
   - 4\. Gunzgen (Gunzgen)
   - 5\. Hägendorf-Rickenbach (Hägendorf, Rickenbach)
-  - 6\. Kappel (Boningen, Kappel)
-  - 7\. Olten (Olten, Starrkirch-Wil)
-  - 8\. Schönenwerd (Eppenberg-Wöschnau, Schönenwerd)
+  - 6\. Kappel-Boningen (Boningen, Kappel)
+  - 7\. Olten/Starrkirch-Wil (Olten, Starrkirch-Wil)
+  - 8\. Schönenwerd-Eppenberg-Wöschnau (Eppenberg-Wöschnau, Schönenwerd)
   - 9\. Walterswil-Rothacker (Walterswil)
-  - 10\. Wangen (Wangen)
+  - 10\. Wangen bei Olten (Wangen bei Olten)
 - f) Bezirk Gösgen
   - 1\. Erlinsbach (Erlinsbach SO)
   - 2\. Ifenthal (Hauenstein-Ifenthal)
@@ -434,12 +434,12 @@ beschliesst:
   - 6\. Metzerlen-Mariastein (Metzerlen-Mariastein)
   - 7\. Rodersdorf (Rodersdorf)
   - 8\. Seewen (Seewen)
-  - 9\. St. Pantaleon (Nuglar-St. Pantaleon)
+  - 9\. St. Pantaleon-Nuglar (Nuglar-St. Pantaleon)
   - 10\. Witterswil (Bättwil, Witterswil)
 - h) Bezirk Thierstein
   - 1\. Bärschwil (Bärschwil)
   - 2\. Beinwil (Beinwil)
-  - 3\. Breitenbach (Breitenbach, Fehren, Himmelried: Ortsteil Schindelboden)
+  - 3\. Breitenbach-Fehren-Schindelboden (Breitenbach, Fehren, Himmelried: Ortsteil Schindelboden)
   - 4\. Büsserach (Büsserach)
   - 5\. Erschwil (Erschwil)
   - 6\. Grindel (Grindel)
@@ -456,9 +456,9 @@ beschliesst:
 
 - a) Bezirke Solothurn, Lebern, Bucheggberg und Wasseramt
   - 1\. Solothurn (Aeschi, Balm bei Günsberg, Bellach, Biberist, Biezwil, Bolken, Buchegg, Deitingen, Derendingen, Drei Höfe, Etziken, Feldbrunnen-St. Niklaus, Flumenthal, Gerlafingen, Günsberg, Halten, Horriwil, Hubersdorf, Hüniken, Kammersrohr, Kriegstetten, Langendorf, Lohn-Ammannsegg, Lommiswil, Luterbach, Lüterkofen-Ichertswil, Lüterswil-Gächliwil, Lüsslingen-Nennigkofen, Messen, Oberdorf, Obergerlafingen, Oekingen, Recherswil, Riedholz, Rüttenen, Schnottwil, Solothurn, Subingen, Unterramsern, Zuchwil)
-  - 2\. Grenchen (Grenchen, Bettlach, Selzach)
+  - 2\. Grenchen/Bettlach/Selzach (Bettlach, Grenchen, Selzach)
 - b) Bezirke Thal, Gäu, Olten und Gösgen
-  - 1\. Region Olten (Aedermannsdorf, Balsthal, Boningen, Dulliken, Egerkingen, Fulenbach, Gunzgen, Hauenstein-Ifenthal, Hägendorf, Härkingen, Herbetswil, Holderbank, Kappel, Kestenholz, Laupersdorf, Matzendorf, Mümliswil-Ramiswil, Neuendorf, Niederbuchsiten, Oberbuchsiten, Oensingen, Olten, Rickenbach, Starrkirch-Wil, Trimbach, Wangen, Welschenrohr-Gänsbrunnen, Winznau, Wisen, Wolfwil)
+  - 1\. Region Olten (Aedermannsdorf, Balsthal, Boningen, Dulliken, Egerkingen, Fulenbach, Gunzgen, Hauenstein-Ifenthal, Hägendorf, Härkingen, Herbetswil, Holderbank, Kappel, Kestenholz, Laupersdorf, Matzendorf, Mümliswil-Ramiswil, Neuendorf, Niederbuchsiten, Oberbuchsiten, Oensingen, Olten, Rickenbach, Starrkirch-Wil, Trimbach, Wangen bei Olten, Welschenrohr-Gänsbrunnen, Winznau, Wisen, Wolfwil)
   - 2\. …
   - 3\. Schönenwerd-Niedergösgen (Däniken, Eppenberg-Wöschnau, Erlinsbach SO, Gretzenbach, Lostorf, Niedergösgen, Obergösgen, Schönenwerd, Stüsslingen, Walterswil)
   - 4\. …
@@ -485,11 +485,11 @@ beschliesst:
   - 1\. Thal (Aedermannsdorf, Balsthal, Herbetswil, Holderbank, Laupersdorf, Matzendorf, Mümliswil-Ramiswil, Welschenrohr-Gänsbrunnen)
   - 2\. …
 - e) Bezirke Gäu, Olten und Gösgen
-  - 1\. Erlinsbach (Erlinsbach SO)
+  - 1\. Erlinsbach SO (Erlinsbach SO)
   - 2\. Fulenbach (Fulenbach)
   - 3\. Gäu (Egerkingen, Gunzgen, Härkingen, Neuendorf, Niederbuchsiten, Oberbuchsiten, Wolfwil)
-  - 4\. Oensingen (Oensingen, Kestenholz)
-  - 5\. Olten (Boningen, Dulliken, Hauenstein-Ifenthal, Hägendorf, Kappel, Olten, Rickenbach, Starrkirch-Wil, Trimbach, Walterswil, Wangen, Winznau, Wisen)
+  - 4\. Oensingen-Kestenholz (Kestenholz, Oensingen)
+  - 5\. Olten (Boningen, Dulliken, Hauenstein-Ifenthal, Hägendorf, Kappel, Olten, Rickenbach, Starrkirch-Wil, Trimbach, Walterswil, Wangen bei Olten, Winznau, Wisen)
   - 6\. Niederamt (Däniken, Eppenberg-Wöschnau, Gretzenbach, Lostorf, Niedergösgen, Obergösgen, Schönenwerd, Stüsslingen)
   - 7\. Kienberg (Kienberg)
 - f) Bezirk Dorneck
