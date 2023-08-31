@@ -4,13 +4,13 @@ number: "761.11"
 title: Vollzugsverordnung zum Gesetz über die Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2023-01-01
-valid_until: 2023-08-31
-version_adopted: 2023-01-10
+version: 2023-09-01
+valid_until: 2024-12-31
+version_adopted: 2023-08-22
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/761.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1099/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1176/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1099/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 16.12.2014 (Stand 01.01.2023)
+vom 16.12.2014 (Stand 01.09.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -88,14 +88,16 @@ beschliesst:
 - 4\. die Leistung von persönlicher Sozialhilfe durch Beratung und Betreuung;
 - 5\. die Vermittlung von hilfebedürftigen und hilfeempfangenden Personen an Institutionen der Sozialhilfe;
 - 6\. die Budgetberatung, die freiwillige Einkommensverwaltung und die Beratung bezüglich einer Schuldensanierung;
-- 7\. die Durchführung des Alimenteninkassos;
-- 8\. die Abklärung und Antragstellung an die Sozialbehörde der Politischen Gemeinde betreffend die Gewährung von wirtschaftlicher Sozialhilfe und von Sonderhilfen;
+- 7\. die Durchführung der Inkassohilfe;
+- 8\. die Abklärung und Antragstellung an die Sozialbehörde der Politischen Gemeinde betreffend die Gewährung von wirtschaftlicher Sozialhilfe und von Alimentenhilfe;
 - 9\. die Abklärung und Antragstellung an die Direktion betreffend Rückerstattung von Leistungen der wirtschaftlichen Sozialhilfe, die vom Kanton gewährt wurde;
-- 10\. die Abklärungen im Zusammenhang mit der Anordnung von Kindes- und Erwachsenenschutzmassnahmen im Auftrag der Kindes- und Erwachsenenschutzbehörde oder der Justizbehörden; und
-- 11\. die Abklärungen im Zusammenhang mit Adoptionsverfahren im Auftrag der Justizbehörden.
+- 10\. die Abklärungen im Zusammenhang mit der Anordnung von Kindes- und Erwachsenenschutzmassnahmen im Auftrag der Kindes- und Erwachsenenschutzbehörde oder der Justizbehörden;
+- 11\. die Abklärungen im Zusammenhang mit Adoptionsverfahren im Auftrag der Justizbehörden sowie die Auskunftserteilung bei der Herkunftssuche; und
+- 12\. die Erteilung der Bewilligungen gemäss Art. 13 Abs. 1 lit. b PAVO[^4-3], einschliesslich der Aufsicht.
 
 [^4-1]: NG 761.1
 [^4-2]: NG 761.1
+[^4-3]: SR 221.222.338
 
 #### § 5
 
@@ -126,6 +128,18 @@ beschliesst:
 <sup>2</sup> Das Verfahren richtet sich sinngemäss nach den Bestimmungen der Landratsgesetzgebung[^6-1].
 
 [^6-1]: NG 151.1
+
+#### § 6a
+
+**Innerkantonale Zuständigkeitskonflikte**
+
+<sup>1</sup> Erachtet sich eine angerufene Gemeinde nicht als zuständig, teilt sie dies unverzüglich der ihrer Meinung nach zuständigen Gemeinde mit.
+
+<sup>2</sup> Können sich die Gemeinden nicht einigen, hat die erstangerufene Gemeinde binnen 30 Tagen seit Gesuchseingang die Direktion um einen Entscheid über die Zuständigkeit zu ersuchen. Reicht sie binnen dieser Frist kein Gesuch bei der Direktion ein, gilt ihre innerkantonale Zuständigkeit als anerkannt.
+
+<sup>3</sup> Ist der Zuständigkeitskonflikt bei der Direktion hängig, ist die erstangerufene Gemeinde rückwirkend auf den Zeitpunkt des Gesuchseingangs vorleistungspflichtig.
+
+<sup>4</sup> Nach Rechtskraft des Entscheids über die Zuständigkeit entscheidet die zuständige Gemeinde über den Umfang der Sozialhilfe und erstattet der vorleistungspflichtigen Gemeinde die getätigten Leistungen zurück.
 
 ## 2 Individuelle Sozialhilfe
 
@@ -168,32 +182,25 @@ beschliesst:
 
 <sup>1</sup> Die Direktion hat die Sozialbehörde der Wohnsitzgemeinde über die Gewährung oder Aufhebung der Leistung von wirtschaftlicher Sozialhilfe für anerkannte Flüchtlinge zu informieren.
 
-### 2.2 Sonderhilfen
+### 2.2 Alimentenhilfe
 
 #### § 11
 
 **Geltendmachung**
 
-<sup>1</sup> Der Anspruch auf Alimenteninkasso und Alimentenbevorschussung ist von der unterhaltsberechtigten Person beziehungsweise von deren gesetzlichen Vertretung geltend zu machen.
+<sup>1</sup> Die unterhaltsberechtigte Person beziehungsweise deren gesetzliche Vertretung hat den Anspruch auf Inkassohilfe und Alimentenbevorschussung geltend zu machen.
 
 <sup>2</sup> Die Geltendmachung hat durch die Unterzeichnung einer Inkassovollmacht mit Abtretungserklärung zu erfolgen; die Abtretungserklärung ermächtigt das kantonale Sozialamt, die rückständigen und laufenden Unterhaltsbeiträge einzukassieren und die eingehenden Zahlungen für laufende Unterhaltsbeiträge mit den bevorschussten laufenden Unterhaltsbeiträgen zu verrechnen.
 
 #### § 12
 
-**Alimenteninkasso 1. anerkannte Rechtstitel**
+**Inkassohilfe 1. anerkannte Unterhaltstitel**
 
-<sup>1</sup> Als anerkannte Rechtstitel für das Alimenteninkasso gemäss Art. 31 Abs. 2 SHG[^12-1] gelten insbesondere:
+<sup>1</sup> Als anerkannte Unterhaltstitel für die Inkassohilfe gelten die Unterhaltstitel gemäss Art. 4 der Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen (Inkassohilfeverordnung, InkHV)[^12-1].
 
-- 1\. rechtskräftige Urteile sowie Entscheide schweizerischer Gerichte, soweit diese Unterhaltsbeiträge gemäss den Bestimmungen über die Ehe und die eingetragene Partnerschaft sowie die Unterhaltspflicht der Eltern festlegen;
-- 2\. von der Kindes- und Erwachsenenschutzbehörde oder vom Gericht genehmigte Unterhaltsverträge (Art. 287 ZGB[^12-2]).
+<sup>2</sup> …
 
-<sup>2</sup> Ausländische Urteile betreffend Unterhaltsbeiträge gelten als anerkannte Rechtstitel, wenn sie die zuständige kantonale Behörde gemäss der Schweizerischen Zivilprozessordnung (ZPO)[^12-3], dem EG Lugano-Übereinkommen (EG LugÜ)[^12-4] sowie dem Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs (EG SchKG)[^12-5] anerkennt.
-
-[^12-1]: NG 761.1
-[^12-2]: SR 210
-[^12-3]: SR 272
-[^12-4]: NG 271.5
-[^12-5]: NG 271.1
+[^12-1]: SR 211.214.32
 
 #### § 13
 
@@ -201,32 +208,25 @@ beschliesst:
 
 <sup>1</sup> Die Beratungstätigkeit des kantonalen Sozialamtes im Zusammenhang mit der Inkassohilfe ist für Unterhaltsberechtigte unentgeltlich.
 
-<sup>2</sup> Bei der Hilfe zum Inkasso von Unterhaltsbeiträgen für Kinder trägt die Politische Gemeinde die nicht einbringbaren Betreibungs- und Gerichtskosten.
+<sup>2</sup> Den unterhaltsberechtigten Erwachsenen werden die bei der verpflichteten Person nicht einbringlichen Kosten Dritter in Rechnung gestellt, wenn sie über die erforderlichen Mittel verfügen.
 
-<sup>3</sup> Im Weiteren richtet sich die Leistung von Auslagen und Kostenvorschüssen nach den Bestimmungen zur wirtschaftlichen Sozialhilfe.
+<sup>3</sup> …
 
 #### § 14
 
-**Alimentenbevorschussung 1. anerkannte Rechtstitel**
+**Alimentenbevorschussung 1. anerkannte Unterhaltstitel**
 
-<sup>1</sup> Als anerkannte Rechtstitel für die Alimentenbevorschussung gemäss Art. 32 SHG[^14-1] gelten:
+<sup>1</sup> Als anerkannte Unterhaltstitel für die Alimentenbevorschussung gelten die Unterhaltstitel gemäss Art. 4 InkHV[^14-1].
 
-- 1\. rechtskräftige Urteile sowie Entscheide schweizerischer Gerichte, soweit diese Unterhaltsbeiträge zugunsten von Kindern gemäss den Bestimmungen über die Ehe und die eingetragene Partnerschaft sowie die Unterhaltspflicht der Eltern festlegen;
-- 2\. von der Kindes- und Erwachsenenschutzbehörde oder vom Gericht genehmigte Unterhaltsverträge (Art. 287 ZGB[^14-2]).
+<sup>2</sup> …
 
-<sup>2</sup> Ausländische Urteile betreffend Unterhaltsbeiträge gelten als anerkannte Rechtstitel, wenn sie die zuständige kantonale Behörde gemäss ZPO[^14-3], EG LugÜ[^14-4] oder EG SchKG[^14-5] anerkennt.
-
-[^14-1]: NG 761.1
-[^14-2]: SR 210
-[^14-3]: SR 272
-[^14-4]: NG 271.5
-[^14-5]: NG 271.1
+[^14-1]: SR 211.214.32
 
 #### § 15
 
 **2. Umfang**
 
-<sup>1</sup> Der bevorschusste Betrag entspricht dem im anerkannten Rechtstitel anerkannten und nicht geleisteten Betrag, höchstens jedoch der Differenz zwischen den anrechenbaren Ausgaben und den anrechenbaren Einnahmen.
+<sup>1</sup> Der bevorschusste Betrag entspricht dem im Unterhaltstitel anerkannten und nicht geleisteten Betrag, höchstens jedoch der Differenz zwischen den anrechenbaren Ausgaben und den anrechenbaren Einnahmen.
 
 <sup>2</sup> Der bevorschusste Betrag darf die einfache maximale Waisenrente gemäss dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG)[^15-1]2 nicht übersteigen.
 
@@ -250,22 +250,19 @@ beschliesst:
 
 <sup>1</sup> Bei den anrechenbaren Ausgaben gelten folgende Abweichungen zu Art. 10 ELG[^17-1]; als Ausgaben sind anrechenbar:
 
-- 1\. für Mieterinnen und Mieter in Abweichung von Art. 10 Abs. 1 lit. b ELG[^17-2] der Nettomietzins und die Mietnebenkosten gemäss Mietvertrag; höchstens jedoch bis zum Höchstbetrag gemäss den allgemeinen Grundsätzen zur wirtschaftlichen Sozialhilfe;
-- 2\. für Inhaberinnen und Inhaber von Wohneigentum in Abweichung von Art. 10 Abs. 1 lit. b und Art. 10 Abs. 3 lit. b ELG[^17-3]:
-  - a) der Eigenmietwert gemäss Art. 24 des Gesetzes über die Steuern des Kantons und der Gemeinden (Steuergesetz, StG)[^17-4] sowie die Pauschale für Nebenkosten gemäss der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV)[^17-5]; höchstens jedoch bis zum Höchstbetrag gemäss den allgemeinen Grundsätzen zur wirtschaftlichen Sozialhilfe; und
+- 1\. für Mieterinnen und Mieter der Nettomietzins und die Mietnebenkosten gemäss Mietvertrag bis zum höheren Höchstbetrag gemäss Art. 10 Abs. 1 lit. b ELG oder gemäss der wirtschaftlichen Sozialhilfe;
+- 2\. für Wohneigentümerinnen und Wohneigentümer in Abweichung von Art. 10 Abs. 1 lit. b und Art. 10 Abs. 3 lit. b ELG:
+  - a) der Eigenmietwert gemäss Art. 24 des Gesetzes über die Steuern des Kantons und der Gemeinden (Steuergesetz, StG)[^17-2] sowie die Pauschale für Nebenkosten gemäss der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV)[^17-3]; es sei denn, die Ansätze der wirtschaftlichen Sozialhilfe sind höher; und
   - b) die Hypothekarzinsen sowie die Gebäudeunterhaltskosten, höchstens jedoch bis zur Höhe des Bruttoertrags der Liegenschaft;
-- 3\. die Kosten aufgrund des Selbstbehaltes und der Franchise bei Krankheit. Die Berechnung wird nach den allgemeinen Grundsätzen der wirtschaftlichen Sozialhilfe vorgenommen;
-- 4\. die Prämien für Lebens , Haftpflicht- und Hausratversicherungen. Die Berechnung wird nach den allgemeinen Grundsätzen der wirtschaftlichen Sozialhilfe vorgenommen;
-- 5\. in Abweichung von Art. 10 Abs. 3 lit. a ELG[^17-6] die tatsächlich durch die Erwerbstätigkeit anfallenden Unkosten, insbesondere die Fahrt zum Arbeitsort, die auswärtige Verpflegung und die Kinderbetreuung. Die Berechnung wird nach den allgemeinen Grundsätzen der wirtschaftlichen Sozialhilfe vorgenommen.
+- 3\. die Kosten für Krankenversicherungsprämien, Selbstbehalte und Franchise. Die Berechnung wird nach den Grundsätzen der wirtschaftlichen Sozialhilfe vorgenommen;
+- 4\. die Prämien für Fahrzeug-, Lebens-, Haftpflicht- und Hausratversicherungen. Die Berechnung wird nach den Grundsätzen der wirtschaftlichen Sozialhilfe vorgenommen;
+- 5\. in Abweichung von Art. 10 Abs. 3 lit. a ELG die tatsächlich infolge der Erwerbstätigkeit anfallenden Kosten, insbesondere die Fahrt zum Arbeitsort, die auswärtige Verpflegung und die Kinderbetreuung. Die Berechnung wird gemäss Art. 29 StG vorgenommen.
 
 <sup>2</sup> Befindet sich das unterhaltsberechtigte Kind nicht bei der Inhaberin beziehungsweise beim Inhaber der elterlichen Sorge, ist das festgelegte Pflegegeld als allgemeiner Lebensbedarf des unterhaltsberechtigten Kindes als Ausgabe anzurechnen; im Übrigen erfolgt die Berechnung gestützt auf die Ausgaben und Einnahmen der Inhaberin beziehungsweise des Inhabers der elterlichen Sorge.
 
 [^17-1]: SR 831.30
-[^17-2]: SR 831.30
-[^17-3]: SR 831.30
-[^17-4]: NG 521.1
-[^17-5]: SR 831.301
-[^17-6]: SR 831.30
+[^17-2]: NG 521.1
+[^17-3]: SR 831.301
 
 #### § 18
 
@@ -280,7 +277,7 @@ beschliesst:
 - 5\. die Prämienverbilligung für die Krankenversicherung;
 - 6\. für Inhaberinnen und Inhaber von Wohneigentum der Eigenmietwert gemäss Art. 24 StG[^18-3].
 
-<sup>2</sup> Erwerbstätige Kinder oder andere erwerbstätige Personen, die im gleichen Haushalt wie die gesuchstellende Person leben, haben die von ihnen verursachten Kosten und beanspruchten Dienstleistungen, insbesondere für die Haushaltführung, abzugelten; die Abgeltung richtet sich nach den allgemeinen Grundsätzen der wirtschaftlichen Sozialhilfe.
+<sup>2</sup> Erwerbstätige Kinder oder andere erwerbstätige Personen, die im gleichen Haushalt wie die gesuchstellende Person leben, haben die von ihnen verursachten Kosten und beanspruchten Dienstleistungen, insbesondere für die Haushaltführung, abzugelten; die Abgeltung richtet sich nach den Höchstansätzen gemäss SKOS-Richtlinien für die Haushaltsführung und nach dem Grad der Erwerbstätigkeit.
 
 [^18-1]: SR 831.30
 [^18-2]: SR 210
