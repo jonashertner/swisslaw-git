@@ -3,20 +3,20 @@ sr: "910.12"
 title: "Ordonnance du 28 mai 1997 concernant la protection des appellations d'origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés (Ordonnance sur les AOP et les IGP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance concernant la protection des appellations d’origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés****
+# Ordonnance concernant la protection des appellations d’origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés
 
 (Ordonnance sur les AOP et les IGP)[^t-1]
 
-du 28 mai 1997 (Etat le 1<sup>er</sup> janvier 2022)
+du 28 mai 1997 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -56,7 +56,7 @@ arrête:
 
 On entend par:
 
-- a. *produit**s sylvicoles*: le bois rond;
+- a. *produits sylvicoles*: le bois rond;
 - b. *produits sylvicoles transformés*: les produits bruts ou rabotés issus du sciage.
 
 [^1a-1]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
@@ -226,7 +226,7 @@ Il peut également comprendre:
 - b. la description de la forme distinctive du produit si elle existe;
 - c. les éléments relatifs au conditionnement, lorsque le groupement demandeur peut justifier que le conditionnement doit avoir lieu dans l’aire géographique délimitée afin de sauvegarder la qualité du produit et d’assurer la traçabilité ou le contrôle.[^7-3]
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>e</sup><sup>r</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 [^7-2]: Abrogée par le ch. I de l’O du 14 nov. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 [^7-3]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 
@@ -350,7 +350,7 @@ Les modifications suivantes du cahier des charges font l’objet d’une procéd
 [^14-1]: Nouvelle teneur selon le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^14-2]: Introduit par le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 
-## Section 2*a* Procédure de radiation****
+## Section 2*a* Procédure de radiation
 
 [^sec2a-1]
 
@@ -458,7 +458,7 @@ Toute référence à l’utilisation d’un produit bénéficiant d’une dénom
 
 [^17a-1]: Introduit par le ch. I de l’O du 12 janv. 2000 ([RO 2000 379](https://fedlex.data.admin.ch/eli/oc/2000/73)). Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
-## Section 4 Contrôle et exécution****
+## Section 4 Contrôle et exécution
 
 [^sec4-1]
 
@@ -498,7 +498,7 @@ L’OFAG octroie l’autorisation sur demande, si les organismes de certificatio
   - 1\. mise sur pied d’une stratégie fondée sur l’évaluation des risques pour le contrôle des entreprises,
   - 2\. échange d’informations avec d’autres organismes de certification ou des tiers mandatés par ces derniers et avec les autorités d’exécution,
   - 3\. observation des directives édictées par l’OFAG en vertu de l’art. 21*a*, al. 5, en cas d’irrégularités,
-  - 4\. respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^19-3].
+  - 4\.[^19-3] respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^19-4].
 
 <sup>3</sup> Les organismes de certification doivent en outre satisfaire aux exigences fixées par le Département fédéral de l’économie, de la formation et de la recherche en vertu de l’art. 18, al. 2.
 
@@ -506,7 +506,8 @@ L’OFAG octroie l’autorisation sur demande, si les organismes de certificatio
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
 [^19-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^19-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-3]: Nouvelle teneur selon l’annexe 2 ch. II 125 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 19a
 
@@ -603,10 +604,11 @@ L’activité de surveillance de l’OFAG comprend notamment:
 - a. mise sur pied d’une stratégie basée sur les risques pour le contrôle des entreprises;
 - b. échange d’informations avec d’autres organismes de certification ou des tiers mandatés par ces derniers et avec les autorités chargées des tâches d’exécution;
 - c. application et suivi des mesures prises en vertu de l’art. 21*a*, al. 5, dans le cas d’irrégularités ou d’infractions;
-- d. respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^21b-2].
+- d.[^21b-2] respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^21b-3].
 
 [^21b-1]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
-[^21b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21b-2]: Nouvelle teneur selon l’annexe 2 ch. II 125 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21b-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21c
 
@@ -664,7 +666,7 @@ Les produits des dénominations enregistrées peuvent être étiquetés selon l�
 
 …[^24-1]
 
-[^24-1]: La mod. peut être consultée au RO **1****997** 1198.
+[^24-1]: La mod. peut être consultée au [RO 1997 1198](https://fedlex.data.admin.ch/eli/oc/1997/1198_1198_1198).
 
 #### Art. 25
 
@@ -676,10 +678,10 @@ Les produits des dénominations enregistrées peuvent être étiquetés selon l�
 
 **Entrée en vigueur**[^26-1]
 
-La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 1997
+La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 1997.
 
 [^26-1]: Nouvelle teneur selon le ch. III al. 2 ch. 2 de l’O du 27 mars 2002, en vigueur depuis le 1<sup>er</sup> mai 2002 ([RO 2002 573](https://fedlex.data.admin.ch/eli/oc/2002/131)).
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 [^t-2]: Abrogée par le ch. I 10 de l’O du 7 déc. 1998, avec effet au 1<sup>er</sup> janv. 1999 ([RO 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).

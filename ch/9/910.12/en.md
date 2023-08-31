@@ -3,22 +3,22 @@ sr: "910.12"
 title: Ordinance of 28 May 1997 on the Protection of Designations of Origin and Geographical Indications for Agricultural Products and Processed Agricultural Products (PDO/PGI Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: en
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20220101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on the Protection of Designations of Origin and Geographical Indications for Agricultural Products, Processed Agricultural Products, Forestry Products and Processed Forestry Products****
+# Ordinance on the Protection of Designations of Origin and Geographical Indications for Agricultural Products, Processed Agricultural Products, Forestry Products and Processed Forestry Products
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.[^t-1]
 
 (PDO/PGI Ordinance)
 
-of 28 May 1997 (Status as of 1 January 2022)
+of 28 May 1997 (Status as of 1 September 2023)
 
 [^t-1]: Amended by No I of the O of 16 Sept. 2016, in force since 1 Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -353,7 +353,7 @@ The following amendments to the product specification shall be decided under the
 [^14-1]: Amended by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^14-2]: Inserted by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 
-## Section 2*a* Cancellation Procedure****
+## Section 2*a* Cancellation Procedure
 
 [^sec2a-1]
 
@@ -460,7 +460,7 @@ No reference may be made to the use of a product with a protected name as an ing
 
 [^17a-1]: Inserted by No I of the O of 12 Jan. 2000 ([AS 2000 379](https://fedlex.data.admin.ch/eli/oc/2000/73)). Amended by No I of the O of 16 Sept. 2016, in force since 1 Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
-## Section 4 Control Procedures and Enforcement****
+## Section 4 Control Procedures and Enforcement
 
 [^sec4-1]
 
@@ -501,7 +501,7 @@ FOAG shall grant authorisation in response to a request, provided the certificat
   - 1\. establishing a risk-based strategy for controlling the company,
   - 2\. exchanging information with other certification bodies or third parties acting on their behalf and with the enforcement authorities,
   - 3\. complying with the directives issued by FOAG on the basis of Article 21*a* paragraph 5 in the event of irregularities,
-  - 4\. complying with the provisions of the Federal Act of 19 June 1992[^19-3] on Data Protection.
+  - 4\.[^19-3] complying with the provisions of the Data Protection Act of 25 September 2020[^19-4].
 
 <sup>3</sup> The certification bodies must also meet the requirements stipulated by the Federal Department of Economic Affairs, Education and Research on the basis of Article 18 paragraph 2.
 
@@ -509,7 +509,8 @@ FOAG shall grant authorisation in response to a request, provided the certificat
 
 [^19-1]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
 [^19-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^19-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-3]: Amended by Annex 2 No II 125 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 19a
 
@@ -606,10 +607,11 @@ In doing so, FOAG shall verify in particular whether the certification body has 
 - a. devising a risk-based strategy for the control of businesses;
 - b. exchanging information with other certification bodies or their third party agents and with the authorities entrusted with enforcement;
 - c. applying and following up the measures taken under Article 21*a* paragraph 5 in the event of irregularities or infringements;
-- d. complying with the provisions of the Federal Act of 19 June 1992[^21b-2] on Data Protection.
+- d.[^21b-2] complying with the provisions of the Data Protection Act of 25 September 2020[^21b-3].
 
 [^21b-1]: Inserted by No I of the O of 16 Sept. 2016, in force since 1 Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
-[^21b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21b-2]: Amended by Annex 2 No II 125 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21b-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21c
 
@@ -683,6 +685,6 @@ This Ordinance comes into force on 1 July 1997.
 
 [^26-1]: Amended by No III para. 2 No 2 of the O of 27 March 2002, in force since 1 May 2002 ([AS 2002 573](https://fedlex.data.admin.ch/eli/oc/2002/131)).
 
-Annex*[^t-2]*
+Annex[^t-2]
 
 [^t-2]: Repealed by No I 10 of the O of 7 Dec. 1998, with effect from 1 Jan. 1999 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).

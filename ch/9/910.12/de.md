@@ -3,20 +3,20 @@ sr: "910.12"
 title: "Verordnung vom 28. Mai 1997 über den Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse, verarbeitete landwirtschaftliche Erzeugnisse, waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse (GUB/GGA-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über den Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse, verarbeitete landwirtschaftliche Erzeugnisse, waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse****
+# Verordnung über den Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse, verarbeitete landwirtschaftliche Erzeugnisse, waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse
 
 (GUB/GGA-Verordnung)[^t-1]
 
-vom 28. Mai 1997 (Stand am 1. Januar 2022)
+vom 28. Mai 1997 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -351,7 +351,7 @@ Folgende Änderungen des Pflichtenheftes werden im vereinfachten Verfahren entsc
 [^14-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^14-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 
-## Abschnitt 2*a*: Löschungsverfahren****
+## Abschnitt 2*a*: Löschungsverfahren
 
 [^sec2a-1]
 
@@ -459,7 +459,7 @@ In der Sachbezeichnung eines verarbeiteten Erzeugnisses oder in deren Nähe darf
 
 [^17a-1]: Eingefügt durch Ziff. I der V vom 12. Jan. 2000 ([AS 2000 379](https://fedlex.data.admin.ch/eli/oc/2000/73)). Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
-## 4. Abschnitt: Kontrolle und Vollzug****
+## 4. Abschnitt: Kontrolle und Vollzug
 
 [^sec4-1]
 
@@ -500,7 +500,7 @@ Das BLW erteilt die Zulassung auf Gesuch hin, wenn die Zertifizierungsstelle:
   - 1\. Aufstellung einer risikobasierten Strategie für die Kontrolle der Unternehmen;
   - 2\. Informationsaustausch mit anderen Zertifizierungsstellen oder von diesen beauftragten Dritten und mit den Vollzugsbehörden;
   - 3\. Befolgung der vom BLW gestützt auf Artikel 21*a* Absatz 5 erlassenen Weisungen im Falle von Unregelmässigkeiten;
-  - 4\. Einhaltung der Vorschriften des Bundesgesetzes vom 19. Juni 1992[^19-3] über den Datenschutz.
+  - 4\.[^19-3] Einhaltung der Vorschriften des Datenschutzgesetzes vom 25. September 2020[^19-4].
 
 <sup>3</sup> Die Zertifizierungsstellen müssen zudem die vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung gestützt auf Artikel 18 Absatz 2 festgelegten Anforderungen erfüllen.
 
@@ -508,7 +508,8 @@ Das BLW erteilt die Zulassung auf Gesuch hin, wenn die Zertifizierungsstelle:
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
 [^19-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^19-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-3]: Fassung gemäss Anhang 2 Ziff. II 125 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 19a
 
@@ -605,10 +606,11 @@ Dabei überprüft das BLW insbesondere, ob die Zertifizierungsstelle über schri
 - a. Aufstellung einer risikobasierten Strategie für die Kontrolle der Unternehmen;
 - b. Informationsaustausch mit anderen Zertifizierungsstellen oder von diesen beauftragten Dritten und mit den mit Vollzugaufgaben beauftragten Behörden;
 - c. Anwendung und Weiterverfolgung der getroffenen Massnahmen nach Artikel 21*a* Absatz 5 im Falle von Unregelmässigkeiten oder Verstössen;
-- d. Einhaltung der Vorschriften des Bundesgesetzes vom 19. Juni 1992[^21b-2] über den Datenschutz.
+- d.[^21b-2] Einhaltung der Vorschriften des Datenschutzgesetzes vom 25. September 2020[^21b-3].
 
 [^21b-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
-[^21b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21b-2]: Fassung gemäss Anhang 2 Ziff. II 125 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21b-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21c
 
@@ -682,6 +684,6 @@ Diese Verordnung tritt am 1. Juli 1997 in Kraft.
 
 [^26-1]: Fassung gemäss Ziff. III Abs. 2 Ziff. 2 der V vom 27. März 2002, in Kraft seit 1. Mai 2002 ([AS 2002 573](https://fedlex.data.admin.ch/eli/oc/2002/131)).
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. I 10 der V vom 7. Dez. 1998, mit Wirkung seit 1. Jan. 1999 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).

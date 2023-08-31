@@ -3,20 +3,20 @@ sr: "910.12"
 title: "Ordinanza del 28 maggio 1997 sulla protezione delle denominazioni di origine e delle indicazioni geografiche dei prodotti agricoli, dei prodotti agricoli trasformati, dei prodotti silvicoli e dei prodotti silvicoli trasformati (Ordinanza DOP/IGP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sulla protezione delle denominazioni di origine e delle indicazioni geografiche dei prodotti agricoli, dei prodotti agricoli trasformati, dei prodotti silvicoli e dei prodotti silvicoli trasformati****
+# Ordinanza sulla protezione delle denominazioni di origine e delle indicazioni geografiche dei prodotti agricoli, dei prodotti agricoli trasformati, dei prodotti silvicoli e dei prodotti silvicoli trasformati
 
 (Ordinanza DOP/IGP)[^t-1]
 
-del 28 maggio 1997 (Stato 1° gennaio 2022)
+del 28 maggio 1997 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -350,7 +350,7 @@ Le seguenti modifiche dell’elenco degli obblighi sono oggetto di una procedura
 [^14-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^14-2]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 
-## Sezione 2*a*: Procedura di cancellazione****
+## Sezione 2*a*: Procedura di cancellazione
 
 [^sec2a-1]
 
@@ -459,7 +459,7 @@ Sono parimenti vietati:
 
 [^17a-1]: Introdotto dal n. I dell’O del 12 gen. 2000 ([RU 2000 379](https://fedlex.data.admin.ch/eli/oc/2000/73)). Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
-## Sezione 4: Controllo ed esecuzione****
+## Sezione 4: Controllo ed esecuzione
 
 [^sec4-1]
 
@@ -499,7 +499,7 @@ L’UFAG rilascia loro su richiesta l’autorizzazione se:
   - 1\. elaborazione di una strategia basata sulla valutazione dei rischi per il controllo delle aziende,
   - 2\. scambio di informazioni con altri organismi di certificazione o con terzi incaricati da questi ultimi e con le autorità esecutive,
   - 3\. osservanza delle misure adottate dall’UFAG in virtù dell’articolo 21*a* capoverso 5 nel caso di irregolarità,
-  - 4\. rispetto delle disposizioni della legge federale del 19 giugno 1992[^19-3] sulla protezione dei dati.
+  - 4\.[^19-3] rispetto delle disposizioni della legge federale del 25 settembre 2020[^19-4] sulla protezione dei dati.
 
 <sup>3</sup> Gli organismi di certificazione devono inoltre adempiere le esigenze stabilite in virtù dell’articolo 18 capoverso 2 dal Dipartimento federale dell’economia, della formazione e della ricerca.
 
@@ -507,7 +507,8 @@ L’UFAG rilascia loro su richiesta l’autorizzazione se:
 
 [^19-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
 [^19-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^19-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-3]: Nuovo testo giusta l’all. 2 n. II 125 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 19a
 
@@ -604,10 +605,11 @@ Verifica in particolare se l’organismo di certificazione dispone di procedure 
 - a. elaborazione di una strategia basata sui rischi per il controllo delle aziende,
 - b. scambio di informazioni con altri organismi di certificazione o con terzi incaricati da questi ultimi e con le autorità esecutive,
 - c. applicazione e monitoraggio delle misure adottate in virtù dell’articolo 21*a* capoverso 5 nel caso di irregolarità o infrazioni,
-- d. rispetto delle disposizioni della legge federale del 19 giugno 1992[^21b-2] sulla protezione dei dati.
+- d.[^21b-2] rispetto delle disposizioni della legge federale del 25 settembre 2020[^21b-3] sulla protezione dei dati.
 
 [^21b-1]: Introdotto dal n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
-[^21b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21b-2]: Nuovo testo giusta l’all. 2 n. II 125 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21b-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21c
 
@@ -681,6 +683,6 @@ La presente ordinanza entra in vigore il 1° luglio 1997.
 
 [^26-1]: Nuovo testo giusta il n. III cpv. 2 n. 1 dell’O del 27 mar. 2002, in vigore dal 1° mag. 2002 ([RU 2002 573](https://fedlex.data.admin.ch/eli/oc/2002/131)).
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 [^t-2]: Abrogato dal n. I 10 dell’O del 7 dic. 1998, con effetto dal 1° gen. 1999 ([RU 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
